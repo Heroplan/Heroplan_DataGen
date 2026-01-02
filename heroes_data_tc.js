@@ -788,10 +788,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_chained_werewolf_costume_raccoon",
         "star": 3,
-        "power": 441,
-        "attack": 436,
-        "defense": 392,
-        "health": 815,
+        "power": 471,
+        "attack": 466,
+        "defense": 420,
+        "health": 896,
         "effects": [
             "對目標造成 235% 傷害。",
             "施法者對新的狀態異常免疫，持續 3 回合。此效果無法驅散。",
@@ -802,16 +802,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 13,
         "lb1": {
-            "attack": 494,
-            "defense": 445,
-            "health": 923,
-            "power": 491
+            "attack": 529,
+            "defense": 476,
+            "health": 1016,
+            "power": 525
         },
         "lb2": {
-            "attack": 610,
-            "defense": 550,
-            "health": 1141,
-            "power": 592
+            "attack": 653,
+            "defense": 588,
+            "health": 1255,
+            "power": 633
         },
         "cn_skill_info": [
             {
@@ -853,10 +853,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_chained_werewolf_costume_cute",
         "star": 3,
-        "power": 442,
-        "attack": 486,
-        "defense": 347,
-        "health": 789,
+        "power": 504,
+        "attack": 559,
+        "defense": 399,
+        "health": 946,
         "effects": [
             "對目標造成 255% 傷害。",
             "為施法者治療 45% 的傷害。",
@@ -869,16 +869,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 14,
         "lb1": {
-            "attack": 551,
-            "defense": 394,
-            "health": 894,
-            "power": 493
+            "attack": 634,
+            "defense": 453,
+            "health": 1073,
+            "power": 563
         },
         "lb2": {
-            "attack": 681,
-            "defense": 486,
-            "health": 1105,
-            "power": 594
+            "attack": 783,
+            "defense": 559,
+            "health": 1326,
+            "power": 681
         },
         "cn_skill_info": [
             {
@@ -921,10 +921,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_chained_werewolf_costume_glass",
         "star": 3,
-        "power": 443,
-        "attack": 455,
-        "defense": 382,
-        "health": 804,
+        "power": 517,
+        "attack": 537,
+        "defense": 451,
+        "health": 989,
         "effects": [
             "對目標造成 265% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -937,16 +937,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 15,
         "lb1": {
-            "attack": 516,
-            "defense": 433,
-            "health": 912,
-            "power": 494
+            "attack": 609,
+            "defense": 511,
+            "health": 1121,
+            "power": 578
         },
         "lb2": {
-            "attack": 637,
-            "defense": 535,
-            "health": 1126,
-            "power": 595
+            "attack": 752,
+            "defense": 631,
+            "health": 1386,
+            "power": 698
         },
         "cn_skill_info": [
             {
@@ -1098,10 +1098,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "royal_knight_costume_blacksmith",
         "star": 3,
-        "power": 441,
-        "attack": 396,
-        "defense": 519,
-        "health": 663,
+        "power": 471,
+        "attack": 424,
+        "defense": 556,
+        "health": 730,
         "effects": [
             "所有敵人得到靈魂連結，持續 5 回合。靈魂連結的敵人會分享承受的傷害。",
             "所有敵人獲得 -44% 防禦，持續 5 回合。"
@@ -1111,16 +1111,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 18,
         "lb1": {
-            "attack": 449,
-            "defense": 589,
-            "health": 752,
-            "power": 492
+            "attack": 480,
+            "defense": 630,
+            "health": 827,
+            "power": 525
         },
         "lb2": {
-            "attack": 554,
-            "defense": 727,
-            "health": 929,
-            "power": 592
+            "attack": 593,
+            "defense": 778,
+            "health": 1022,
+            "power": 633
         },
         "cn_skill_info": [
             {
@@ -1160,10 +1160,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "royal_knight_costume_cute",
         "star": 3,
-        "power": 442,
-        "attack": 434,
-        "defense": 464,
-        "health": 681,
+        "power": 503,
+        "attack": 499,
+        "defense": 533,
+        "health": 817,
         "effects": [
             "所有盟友得到靈魂連結，持續 5 回合。靈魂連結的盟友會分享承受的傷害。此狀態效果无法驅散，對冰雪系角色持續時間延長 2 回合。",
             "所有盟友獲得 +51% 防禦，持續 5 回合。此狀態效果无法驅散，對冰雪系角色持續時間延長 2 回合。"
@@ -1175,16 +1175,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 19,
         "lb1": {
-            "attack": 492,
-            "defense": 525,
-            "health": 772,
-            "power": 492
+            "attack": 566,
+            "defense": 604,
+            "health": 926,
+            "power": 561
         },
         "lb2": {
-            "attack": 608,
-            "defense": 649,
-            "health": 954,
-            "power": 593
+            "attack": 699,
+            "defense": 747,
+            "health": 1144,
+            "power": 678
         },
         "cn_skill_info": [
             {
@@ -1222,10 +1222,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "royal_knight_costume_glass",
         "star": 3,
-        "power": 442,
-        "attack": 443,
-        "defense": 457,
-        "health": 677,
+        "power": 515,
+        "attack": 522,
+        "defense": 539,
+        "health": 833,
         "effects": [
             "所有盟友得到靈魂連結，持續 5 回合。靈魂連結的盟友會分享承受的傷害。",
             "所有盟友獲得 +59% 防禦，持續 5 回合。",
@@ -1238,16 +1238,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 20,
         "lb1": {
-            "attack": 502,
-            "defense": 518,
-            "health": 768,
-            "power": 493
+            "attack": 592,
+            "defense": 611,
+            "health": 945,
+            "power": 575
         },
         "lb2": {
-            "attack": 620,
-            "defense": 640,
-            "health": 949,
-            "power": 594
+            "attack": 732,
+            "defense": 755,
+            "health": 1167,
+            "power": 695
         },
         "cn_skill_info": [
             {
@@ -1347,10 +1347,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s4_helo_costume_baker",
         "star": 3,
-        "power": 478,
-        "attack": 457,
-        "defense": 514,
-        "health": 783,
+        "power": 488,
+        "attack": 466,
+        "defense": 524,
+        "health": 815,
         "effects": [
             "所有盟友在 3 回合內恢復 411 點生命值。",
             "淨化所有盟友的狀態異常。"
@@ -1362,16 +1362,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 22,
         "lb1": {
-            "attack": 518,
-            "defense": 583,
-            "health": 888,
-            "power": 533
+            "attack": 528,
+            "defense": 594,
+            "health": 924,
+            "power": 545
         },
         "lb2": {
-            "attack": 640,
-            "defense": 720,
-            "health": 1097,
-            "power": 644
+            "attack": 652,
+            "defense": 734,
+            "health": 1141,
+            "power": 658
         },
         "cn_skill_info": [
             {
@@ -1479,10 +1479,10 @@ window.allHeroes =
         ],
         "heroId": "s5_jarif_costume_curator",
         "star": 3,
-        "power": 484,
-        "attack": 540,
-        "defense": 391,
-        "health": 867,
+        "power": 495,
+        "attack": 551,
+        "defense": 398,
+        "health": 901,
         "effects": [
             "對目標造成 300% 傷害。",
             "目標免疫新狀態效果增益，持續 3 回合，每獲得一個新增益，將會受到 150 傷害。"
@@ -1498,16 +1498,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 24,
         "lb1": {
-            "attack": 612,
-            "defense": 443,
-            "health": 983,
-            "power": 540
+            "attack": 624,
+            "defense": 452,
+            "health": 1022,
+            "power": 553
         },
         "lb2": {
-            "attack": 756,
-            "defense": 547,
-            "health": 1214,
-            "power": 652
+            "attack": 772,
+            "defense": 558,
+            "health": 1263,
+            "power": 668
         },
         "cn_skill_info": [
             {
@@ -1680,10 +1680,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "kalevala_joukahainen_costume_frozen",
         "star": 3,
-        "power": 483,
-        "attack": 470,
-        "defense": 469,
-        "health": 875,
+        "power": 499,
+        "attack": 485,
+        "defense": 483,
+        "health": 928,
         "effects": [
             "驅散所有敵人的增益。",
             "對所有敵人造成 180% 傷害。",
@@ -1696,16 +1696,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 27,
         "lb1": {
-            "attack": 533,
-            "defense": 531,
-            "health": 992,
-            "power": 539
+            "attack": 549,
+            "defense": 547,
+            "health": 1052,
+            "power": 557
         },
         "lb2": {
-            "attack": 659,
-            "defense": 657,
-            "health": 1226,
-            "power": 651
+            "attack": 679,
+            "defense": 676,
+            "health": 1300,
+            "power": 673
         },
         "cn_skill_info": [
             {
@@ -1799,10 +1799,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarven_smasher_costume_smith",
         "star": 3,
-        "power": 442,
-        "attack": 502,
-        "defense": 361,
-        "health": 721,
+        "power": 472,
+        "attack": 537,
+        "defense": 386,
+        "health": 793,
         "effects": [
             "對目標造成 240% 傷害，並對附近敵人造成輕微傷害。",
             "目標與附近敵人在 3 回合內受到共計 60 點燃燒傷害。"
@@ -1812,16 +1812,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 29,
         "lb1": {
-            "attack": 569,
-            "defense": 409,
-            "health": 817,
-            "power": 493
+            "attack": 609,
+            "defense": 438,
+            "health": 899,
+            "power": 526
         },
         "lb2": {
-            "attack": 703,
-            "defense": 506,
-            "health": 1010,
-            "power": 594
+            "attack": 752,
+            "defense": 541,
+            "health": 1111,
+            "power": 635
         },
         "cn_skill_info": [
             {
@@ -1861,10 +1861,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarven_smasher_costume_cute",
         "star": 3,
-        "power": 443,
-        "attack": 505,
-        "defense": 361,
-        "health": 721,
+        "power": 505,
+        "attack": 581,
+        "defense": 415,
+        "health": 865,
         "effects": [
             "對目標造成 290% 傷害，並對附近敵人造成輕微傷害。",
             "對烈火系造成額外傷害。"
@@ -1876,16 +1876,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 30,
         "lb1": {
-            "attack": 573,
-            "defense": 409,
-            "health": 817,
-            "power": 494
+            "attack": 659,
+            "defense": 471,
+            "health": 981,
+            "power": 564
         },
         "lb2": {
-            "attack": 708,
-            "defense": 506,
-            "health": 1010,
-            "power": 595
+            "attack": 814,
+            "defense": 582,
+            "health": 1212,
+            "power": 682
         },
         "cn_skill_info": [
             {
@@ -1925,10 +1925,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarven_smasher_costume_glass",
         "star": 3,
-        "power": 444,
-        "attack": 512,
-        "defense": 358,
-        "health": 716,
+        "power": 517,
+        "attack": 604,
+        "defense": 422,
+        "health": 880,
         "effects": [
             "對目標造成 300% 傷害，並對附近敵人造成輕微傷害。",
             "攻擊會無視防禦增益。（包含反擊）"
@@ -1940,16 +1940,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 31,
         "lb1": {
-            "attack": 581,
-            "defense": 405,
-            "health": 811,
-            "power": 495
+            "attack": 685,
+            "defense": 478,
+            "health": 998,
+            "power": 578
         },
         "lb2": {
-            "attack": 718,
-            "defense": 501,
-            "health": 1002,
-            "power": 596
+            "attack": 847,
+            "defense": 591,
+            "health": 1233,
+            "power": 699
         },
         "cn_skill_info": [
             {
@@ -2046,10 +2046,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_nordri_costume_explorer",
         "star": 3,
-        "power": 464,
-        "attack": 464,
-        "defense": 420,
-        "health": 851,
+        "power": 479,
+        "attack": 477,
+        "defense": 433,
+        "health": 902,
         "effects": [
             "對目標及附近敵人造成 230% 傷害。",
             "所有敵人獲得對冰雪系 -54% 的防禦，持續 3 回合。對烈火系角色，此狀態效果變為無法淨化且持續時間延長 2 回合。"
@@ -2059,16 +2059,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 33,
         "lb1": {
-            "attack": 525,
-            "defense": 476,
-            "health": 965,
-            "power": 517
+            "attack": 541,
+            "defense": 491,
+            "health": 1023,
+            "power": 535
         },
         "lb2": {
-            "attack": 649,
-            "defense": 589,
-            "health": 1192,
-            "power": 623
+            "attack": 669,
+            "defense": 606,
+            "health": 1264,
+            "power": 645
         },
         "cn_skill_info": [
             {
@@ -2373,10 +2373,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_mage_costume_hermit",
         "star": 3,
-        "power": 445,
-        "attack": 498,
-        "defense": 384,
-        "health": 702,
+        "power": 474,
+        "attack": 533,
+        "defense": 410,
+        "health": 772,
         "effects": [
             "對所有敵人造成 145% 傷害。",
             "所有盟友獲得 +48% 攻擊力，持續 6 回合。"
@@ -2386,16 +2386,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 38,
         "lb1": {
-            "attack": 565,
-            "defense": 435,
-            "health": 795,
-            "power": 495
+            "attack": 604,
+            "defense": 465,
+            "health": 875,
+            "power": 529
         },
         "lb2": {
-            "attack": 698,
-            "defense": 537,
-            "health": 983,
-            "power": 597
+            "attack": 747,
+            "defense": 575,
+            "health": 1081,
+            "power": 638
         },
         "cn_skill_info": [
             {
@@ -2436,10 +2436,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_mage_costume_cute",
         "star": 3,
-        "power": 446,
-        "attack": 464,
-        "defense": 439,
-        "health": 684,
+        "power": 507,
+        "attack": 533,
+        "defense": 505,
+        "health": 821,
         "effects": [
             "對所有敵人造成 146% 傷害。",
             "所有敵人獲得 -24% 防禦，持續 6 回合。",
@@ -2452,16 +2452,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 39,
         "lb1": {
-            "attack": 525,
-            "defense": 498,
-            "health": 776,
-            "power": 496
+            "attack": 604,
+            "defense": 573,
+            "health": 931,
+            "power": 567
         },
         "lb2": {
-            "attack": 649,
-            "defense": 615,
-            "health": 958,
-            "power": 598
+            "attack": 747,
+            "defense": 708,
+            "health": 1150,
+            "power": 685
         },
         "cn_skill_info": [
             {
@@ -2508,10 +2508,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_mage_costume_glass",
         "star": 3,
-        "power": 447,
-        "attack": 472,
-        "defense": 434,
-        "health": 681,
+        "power": 520,
+        "attack": 557,
+        "defense": 512,
+        "health": 837,
         "effects": [
             "對所有敵人造成 156% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -2524,16 +2524,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 40,
         "lb1": {
-            "attack": 535,
-            "defense": 492,
-            "health": 772,
-            "power": 498
+            "attack": 632,
+            "defense": 581,
+            "health": 949,
+            "power": 581
         },
         "lb2": {
-            "attack": 662,
-            "defense": 608,
-            "health": 954,
-            "power": 600
+            "attack": 781,
+            "defense": 718,
+            "health": 1173,
+            "power": 703
         },
         "cn_skill_info": [
             {
@@ -2635,10 +2635,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_swordman_costume_climber",
         "star": 3,
-        "power": 442,
-        "attack": 465,
-        "defense": 422,
-        "health": 689,
+        "power": 471,
+        "attack": 498,
+        "defense": 451,
+        "health": 758,
         "effects": [
             "對目標造成 335% 傷害。",
             "施法者獲得 +54% 攻擊力，持續 6 回合。"
@@ -2648,16 +2648,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 42,
         "lb1": {
-            "attack": 527,
-            "defense": 478,
-            "health": 782,
-            "power": 492
+            "attack": 564,
+            "defense": 512,
+            "health": 860,
+            "power": 526
         },
         "lb2": {
-            "attack": 652,
-            "defense": 591,
-            "health": 966,
-            "power": 593
+            "attack": 697,
+            "defense": 632,
+            "health": 1062,
+            "power": 634
         },
         "cn_skill_info": [
             {
@@ -2698,10 +2698,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_swordman_costume_cute",
         "star": 3,
-        "power": 442,
-        "attack": 472,
-        "defense": 418,
-        "health": 683,
+        "power": 504,
+        "attack": 543,
+        "defense": 481,
+        "health": 819,
         "effects": [
             "對目標造成 330% 傷害。",
             "目標獲得 -28% 防禦，持續 6 回合。",
@@ -2714,16 +2714,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 43,
         "lb1": {
-            "attack": 535,
-            "defense": 474,
-            "health": 774,
-            "power": 493
+            "attack": 616,
+            "defense": 545,
+            "health": 929,
+            "power": 563
         },
         "lb2": {
-            "attack": 662,
-            "defense": 586,
-            "health": 956,
-            "power": 594
+            "attack": 761,
+            "defense": 674,
+            "health": 1147,
+            "power": 680
         },
         "cn_skill_info": [
             {
@@ -2770,10 +2770,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_swordman_costume_glass",
         "star": 3,
-        "power": 443,
-        "attack": 474,
-        "defense": 417,
-        "health": 688,
+        "power": 516,
+        "attack": 559,
+        "defense": 492,
+        "health": 846,
         "effects": [
             "對目標造成 340% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -2786,16 +2786,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 44,
         "lb1": {
-            "attack": 537,
-            "defense": 472,
-            "health": 780,
-            "power": 494
+            "attack": 634,
+            "defense": 557,
+            "health": 959,
+            "power": 577
         },
         "lb2": {
-            "attack": 664,
-            "defense": 584,
-            "health": 963,
-            "power": 595
+            "attack": 784,
+            "defense": 689,
+            "health": 1185,
+            "power": 698
         },
         "cn_skill_info": [
             {
@@ -3098,10 +3098,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_chameleon_mage_costume_alchemist",
         "star": 4,
-        "power": 648,
-        "attack": 639,
-        "defense": 690,
-        "health": 1045,
+        "power": 669,
+        "attack": 658,
+        "defense": 711,
+        "health": 1108,
         "effects": [
             "對所有敵人造成 185% 傷害。",
             "所有自然系敵人在 4 回合內受到共計 536 點燃燒傷害。"
@@ -3111,16 +3111,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 49,
         "lb1": {
-            "attack": 695,
-            "defense": 750,
-            "health": 1136,
-            "power": 697
+            "attack": 715,
+            "defense": 772,
+            "health": 1204,
+            "power": 719
         },
         "lb2": {
-            "attack": 805,
-            "defense": 870,
-            "health": 1317,
-            "power": 794
+            "attack": 829,
+            "defense": 896,
+            "health": 1396,
+            "power": 821
         },
         "cn_skill_info": [
             {
@@ -3233,10 +3233,10 @@ window.allHeroes =
         ],
         "heroId": "tales1_aqualith_costume_purple",
         "star": 4,
-        "power": 689,
-        "attack": 663,
-        "defense": 701,
-        "health": 1258,
+        "power": 704,
+        "attack": 676,
+        "defense": 715,
+        "health": 1308,
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
@@ -3256,16 +3256,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 51,
         "lb1": {
-            "attack": 720,
-            "defense": 761,
-            "health": 1366,
-            "power": 741
+            "attack": 734,
+            "defense": 777,
+            "health": 1421,
+            "power": 758
         },
         "lb2": {
-            "attack": 835,
-            "defense": 883,
-            "health": 1584,
-            "power": 846
+            "attack": 851,
+            "defense": 901,
+            "health": 1648,
+            "power": 865
         },
         "cn_skill_info": [
             {
@@ -3375,10 +3375,10 @@ window.allHeroes =
         ],
         "heroId": "s5_azmia_costume_dancing",
         "star": 4,
-        "power": 683,
-        "attack": 622,
-        "defense": 703,
-        "health": 1317,
+        "power": 699,
+        "attack": 635,
+        "defense": 717,
+        "health": 1370,
         "effects": [
             "為所有盟友恢復 10% 生命值。",
             "施法者和附近盟友會以承受傷害的 110% 進行反擊，持續 4 回合。每次反擊，反擊傷害都會增加 +5%，最高 135%。"
@@ -3394,16 +3394,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 53,
         "lb1": {
-            "attack": 676,
-            "defense": 764,
-            "health": 1431,
-            "power": 735
+            "attack": 690,
+            "defense": 779,
+            "health": 1488,
+            "power": 752
         },
         "lb2": {
-            "attack": 784,
-            "defense": 886,
-            "health": 1659,
-            "power": 839
+            "attack": 800,
+            "defense": 903,
+            "health": 1726,
+            "power": 859
         },
         "cn_skill_info": [
             {
@@ -3565,10 +3565,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarven_guard_costume_ram",
         "star": 4,
-        "power": 643,
-        "attack": 480,
-        "defense": 811,
-        "health": 1170,
+        "power": 689,
+        "attack": 513,
+        "defense": 868,
+        "health": 1299,
         "effects": [
             "所有盟友以所受傷害的 60% 進行反擊，持續 4 回合。"
         ],
@@ -3577,16 +3577,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 56,
         "lb1": {
-            "attack": 521,
-            "defense": 882,
-            "health": 1272,
-            "power": 692
+            "attack": 558,
+            "defense": 943,
+            "health": 1412,
+            "power": 742
         },
         "lb2": {
-            "attack": 605,
-            "defense": 1022,
-            "health": 1475,
-            "power": 789
+            "attack": 647,
+            "defense": 1094,
+            "health": 1637,
+            "power": 846
         },
         "cn_skill_info": [
             {
@@ -3617,10 +3617,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarven_guard_costume_tavern",
         "star": 4,
-        "power": 644,
-        "attack": 514,
-        "defense": 769,
-        "health": 1170,
+        "power": 736,
+        "attack": 591,
+        "defense": 884,
+        "health": 1405,
         "effects": [
             "所有盟友以所受傷害的 80% 進行反擊，持續 4 回合。反擊傷害每回合增加 20%，最高可達 140%。"
         ],
@@ -3629,16 +3629,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 57,
         "lb1": {
-            "attack": 558,
-            "defense": 835,
-            "health": 1272,
-            "power": 692
+            "attack": 642,
+            "defense": 961,
+            "health": 1526,
+            "power": 792
         },
         "lb2": {
-            "attack": 647,
-            "defense": 969,
-            "health": 1475,
-            "power": 789
+            "attack": 745,
+            "defense": 1114,
+            "health": 1770,
+            "power": 905
         },
         "cn_skill_info": [
             {
@@ -3671,10 +3671,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarven_guard_costume_cute",
         "star": 4,
-        "power": 644,
-        "attack": 554,
-        "defense": 731,
-        "health": 1149,
+        "power": 747,
+        "attack": 648,
+        "defense": 855,
+        "health": 1402,
         "effects": [
             "施法者與附近盟友進行反擊，造成所受傷害 120% 的傷害，持續 5 回合。此狀態效果无法驅散，對冰雪系角色持續時間延長 2 回合。"
         ],
@@ -3685,16 +3685,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 58,
         "lb1": {
-            "attack": 602,
-            "defense": 794,
-            "health": 1249,
-            "power": 692
+            "attack": 705,
+            "defense": 929,
+            "health": 1523,
+            "power": 805
         },
         "lb2": {
-            "attack": 698,
-            "defense": 920,
-            "health": 1448,
-            "power": 789
+            "attack": 817,
+            "defense": 1077,
+            "health": 1766,
+            "power": 919
         },
         "cn_skill_info": [
             {
@@ -3728,10 +3728,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarven_guard_costume_glass",
         "star": 4,
-        "power": 645,
-        "attack": 565,
-        "defense": 722,
-        "health": 1145,
+        "power": 759,
+        "attack": 672,
+        "defense": 859,
+        "health": 1420,
         "effects": [
             "施法者與附近盟友進行反擊，造成所受傷害 122% 的傷害，持續 5 回合。",
             "所有冰雪系盟友反射狀態異常和負面效果疊加，持續 2 回合。（同隊角色、小兵和惡魔施放的狀態效果無法反彈）"
@@ -3743,16 +3743,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 59,
         "lb1": {
-            "attack": 614,
-            "defense": 785,
-            "health": 1244,
-            "power": 693
+            "attack": 730,
+            "defense": 934,
+            "health": 1543,
+            "power": 818
         },
         "lb2": {
-            "attack": 712,
-            "defense": 910,
-            "health": 1442,
-            "power": 790
+            "attack": 847,
+            "defense": 1083,
+            "health": 1789,
+            "power": 935
         },
         "cn_skill_info": [
             {
@@ -4208,10 +4208,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "halloween_frank_costume_mafia",
         "star": 4,
-        "power": 666,
-        "attack": 643,
-        "defense": 633,
-        "health": 1283,
+        "power": 681,
+        "attack": 656,
+        "defense": 645,
+        "health": 1334,
         "effects": [
             "對所有敵人造成 170% 傷害。",
             "每有一個敵人被擊敗，傷害增加 45%。",
@@ -4225,16 +4225,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 66,
         "lb1": {
-            "attack": 699,
-            "defense": 688,
-            "health": 1394,
-            "power": 717
+            "attack": 713,
+            "defense": 701,
+            "health": 1450,
+            "power": 733
         },
         "lb2": {
-            "attack": 811,
-            "defense": 797,
-            "health": 1616,
-            "power": 818
+            "attack": 827,
+            "defense": 813,
+            "health": 1681,
+            "power": 837
         },
         "cn_skill_info": [
             {
@@ -4482,10 +4482,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_ancestral_warrior_costume_corrupted",
         "star": 4,
-        "power": 642,
-        "attack": 682,
-        "defense": 558,
-        "health": 1162,
+        "power": 687,
+        "attack": 729,
+        "defense": 597,
+        "health": 1290,
         "effects": [
             "對目標造成 295% 傷害，並對附近敵人造成輕微傷害。",
             "施法者和附近盟友獲得 +50% 攻擊力，持續 6 回合。"
@@ -4495,16 +4495,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 70,
         "lb1": {
-            "attack": 741,
-            "defense": 607,
-            "health": 1263,
-            "power": 691
+            "attack": 793,
+            "defense": 649,
+            "health": 1401,
+            "power": 740
         },
         "lb2": {
-            "attack": 859,
-            "defense": 704,
-            "health": 1464,
-            "power": 787
+            "attack": 919,
+            "defense": 753,
+            "health": 1625,
+            "power": 844
         },
         "cn_skill_info": [
             {
@@ -4541,10 +4541,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_ancestral_warrior_costume_messenger",
         "star": 4,
-        "power": 642,
-        "attack": 731,
-        "defense": 524,
-        "health": 1107,
+        "power": 733,
+        "attack": 840,
+        "defense": 603,
+        "health": 1328,
         "effects": [
             "對目標造成 295% 傷害，並對附近敵人造成輕微傷害。",
             "施法者和附近盟友的特殊技能造成額外 +40% 傷害，持續 6 回合。"
@@ -4554,16 +4554,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 71,
         "lb1": {
-            "attack": 794,
-            "defense": 570,
-            "health": 1202,
-            "power": 690
+            "attack": 913,
+            "defense": 655,
+            "health": 1443,
+            "power": 789
         },
         "lb2": {
-            "attack": 920,
-            "defense": 661,
-            "health": 1394,
-            "power": 787
+            "attack": 1059,
+            "defense": 760,
+            "health": 1673,
+            "power": 902
         },
         "cn_skill_info": [
             {
@@ -4604,10 +4604,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_ancestral_warrior_costume_cute",
         "star": 4,
-        "power": 643,
-        "attack": 707,
-        "defense": 546,
-        "health": 1132,
+        "power": 746,
+        "attack": 827,
+        "defense": 638,
+        "health": 1381,
         "effects": [
             "對目標造成 325% 傷害，並對附近敵人造成輕微傷害。",
             "目標與附近敵人獲得 -28% 防禦，持續 6 回合。",
@@ -4620,16 +4620,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 72,
         "lb1": {
-            "attack": 768,
-            "defense": 593,
-            "health": 1230,
-            "power": 692
+            "attack": 899,
+            "defense": 694,
+            "health": 1501,
+            "power": 804
         },
         "lb2": {
-            "attack": 891,
-            "defense": 687,
-            "health": 1426,
-            "power": 788
+            "attack": 1042,
+            "defense": 804,
+            "health": 1740,
+            "power": 918
         },
         "cn_skill_info": [
             {
@@ -4675,10 +4675,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_ancestral_warrior_costume_glass",
         "star": 4,
-        "power": 644,
-        "attack": 709,
-        "defense": 544,
-        "health": 1139,
+        "power": 759,
+        "attack": 844,
+        "defense": 647,
+        "health": 1412,
         "effects": [
             "對目標造成 335% 傷害，並對附近敵人造成輕微傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -4691,16 +4691,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 73,
         "lb1": {
-            "attack": 771,
-            "defense": 591,
-            "health": 1237,
-            "power": 693
+            "attack": 917,
+            "defense": 703,
+            "health": 1534,
+            "power": 817
         },
         "lb2": {
-            "attack": 894,
-            "defense": 685,
-            "health": 1434,
-            "power": 790
+            "attack": 1064,
+            "defense": 815,
+            "health": 1779,
+            "power": 934
         },
         "cn_skill_info": [
             {
@@ -4941,10 +4941,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarwen_brewmaster_costume_guitarist",
         "star": 4,
-        "power": 647,
-        "attack": 669,
-        "defense": 648,
-        "health": 1049,
+        "power": 692,
+        "attack": 716,
+        "defense": 693,
+        "health": 1165,
         "effects": [
             "為所有盟友恢復 28% 生命值。",
             "所有敵人獲得 -34% 攻擊力，持續 3 回合。",
@@ -4955,16 +4955,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 77,
         "lb1": {
-            "attack": 727,
-            "defense": 704,
-            "health": 1140,
-            "power": 696
+            "attack": 778,
+            "defense": 753,
+            "health": 1266,
+            "power": 745
         },
         "lb2": {
-            "attack": 843,
-            "defense": 816,
-            "health": 1322,
-            "power": 793
+            "attack": 902,
+            "defense": 873,
+            "health": 1467,
+            "power": 850
         },
         "cn_skill_info": [
             {
@@ -5005,10 +5005,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarwen_brewmaster_costume_wood_carver",
         "star": 4,
-        "power": 647,
-        "attack": 637,
-        "defense": 680,
-        "health": 1066,
+        "power": 739,
+        "attack": 733,
+        "defense": 781,
+        "health": 1280,
         "effects": [
             "為所有盟友提供 400 點加成生命值。加成生命值能夠超過最大生命值。",
             "所有盟友獲得 +30% 防禦，持續 3 回合。",
@@ -5019,16 +5019,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 78,
         "lb1": {
-            "attack": 692,
-            "defense": 738,
-            "health": 1159,
-            "power": 696
+            "attack": 796,
+            "defense": 849,
+            "health": 1390,
+            "power": 795
         },
         "lb2": {
-            "attack": 803,
-            "defense": 856,
-            "health": 1343,
-            "power": 793
+            "attack": 923,
+            "defense": 985,
+            "health": 1612,
+            "power": 909
         },
         "cn_skill_info": [
             {
@@ -5075,10 +5075,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarwen_brewmaster_costume_cute",
         "star": 4,
-        "power": 648,
-        "attack": 658,
-        "defense": 669,
-        "health": 1043,
+        "power": 751,
+        "attack": 770,
+        "defense": 783,
+        "health": 1272,
         "effects": [
             "為所有盟友恢復 31% 生命值。",
             "所有盟友獲得 26% 攻擊力，持續 3 回合。此狀態效果无法驅散，對冰雪系角色持續時間延長 2 回合。",
@@ -5091,16 +5091,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 79,
         "lb1": {
-            "attack": 715,
-            "defense": 727,
-            "health": 1133,
-            "power": 697
+            "attack": 837,
+            "defense": 850,
+            "health": 1383,
+            "power": 809
         },
         "lb2": {
-            "attack": 829,
-            "defense": 843,
-            "health": 1314,
-            "power": 795
+            "attack": 970,
+            "defense": 986,
+            "health": 1603,
+            "power": 925
         },
         "cn_skill_info": [
             {
@@ -5146,10 +5146,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarwen_brewmaster_costume_glass",
         "star": 4,
-        "power": 649,
-        "attack": 637,
-        "defense": 684,
-        "health": 1071,
+        "power": 764,
+        "attack": 758,
+        "defense": 814,
+        "health": 1328,
         "effects": [
             "為所有盟友恢復 32% 生命值。",
             "所有盟友獲得 +28% 攻擊力，持續 3 回合。",
@@ -5163,16 +5163,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 80,
         "lb1": {
-            "attack": 692,
-            "defense": 743,
-            "health": 1163,
-            "power": 698
+            "attack": 824,
+            "defense": 884,
+            "health": 1443,
+            "power": 822
         },
         "lb2": {
-            "attack": 803,
-            "defense": 861,
-            "health": 1349,
-            "power": 795
+            "attack": 955,
+            "defense": 1025,
+            "health": 1673,
+            "power": 940
         },
         "cn_skill_info": [
             {
@@ -5894,10 +5894,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "royal_female_knight_costume_winter",
         "star": 4,
-        "power": 644,
-        "attack": 616,
-        "defense": 726,
-        "health": 1003,
+        "power": 689,
+        "attack": 659,
+        "defense": 777,
+        "health": 1113,
         "effects": [
             "對目標造成 345% 傷害。",
             "淨化所有盟友的狀態異常。"
@@ -5907,16 +5907,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 91,
         "lb1": {
-            "attack": 669,
-            "defense": 789,
-            "health": 1089,
-            "power": 692
+            "attack": 716,
+            "defense": 844,
+            "health": 1209,
+            "power": 741
         },
         "lb2": {
-            "attack": 776,
-            "defense": 915,
-            "health": 1263,
-            "power": 789
+            "attack": 830,
+            "defense": 979,
+            "health": 1402,
+            "power": 845
         },
         "cn_skill_info": [
             {
@@ -5954,10 +5954,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "royal_female_knight_costume_prospector",
         "star": 4,
-        "power": 643,
-        "attack": 711,
-        "defense": 616,
-        "health": 983,
+        "power": 734,
+        "attack": 818,
+        "defense": 708,
+        "health": 1180,
         "effects": [
             "對目標造成 345% 傷害。",
             "所有敵人在 2 回合內無法獲得新的狀態效果增益。"
@@ -5967,16 +5967,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 92,
         "lb1": {
-            "attack": 773,
-            "defense": 669,
-            "health": 1069,
-            "power": 692
+            "attack": 889,
+            "defense": 770,
+            "health": 1282,
+            "power": 791
         },
         "lb2": {
-            "attack": 896,
-            "defense": 776,
-            "health": 1239,
-            "power": 789
+            "attack": 1031,
+            "defense": 892,
+            "health": 1487,
+            "power": 903
         },
         "cn_skill_info": [
             {
@@ -6017,10 +6017,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "royal_female_knight_costume_cute",
         "star": 4,
-        "power": 645,
-        "attack": 690,
-        "defense": 648,
-        "health": 979,
+        "power": 747,
+        "attack": 808,
+        "defense": 758,
+        "health": 1195,
         "effects": [
             "對目標造成 355% 傷害。",
             "對烈火系造成額外傷害。",
@@ -6033,16 +6033,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 93,
         "lb1": {
-            "attack": 750,
-            "defense": 704,
-            "health": 1064,
-            "power": 693
+            "attack": 877,
+            "defense": 823,
+            "health": 1298,
+            "power": 804
         },
         "lb2": {
-            "attack": 870,
-            "defense": 816,
-            "health": 1234,
-            "power": 790
+            "attack": 1017,
+            "defense": 955,
+            "health": 1505,
+            "power": 919
         },
         "cn_skill_info": [
             {
@@ -6089,10 +6089,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "royal_female_knight_costume_glass",
         "star": 4,
-        "power": 646,
-        "attack": 703,
-        "defense": 637,
-        "health": 977,
+        "power": 759,
+        "attack": 837,
+        "defense": 758,
+        "health": 1212,
         "effects": [
             "對目標造成 365% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -6105,16 +6105,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 94,
         "lb1": {
-            "attack": 764,
-            "defense": 692,
-            "health": 1062,
-            "power": 694
+            "attack": 909,
+            "defense": 824,
+            "health": 1317,
+            "power": 818
         },
         "lb2": {
-            "attack": 886,
-            "defense": 803,
-            "health": 1231,
-            "power": 792
+            "attack": 1054,
+            "defense": 955,
+            "health": 1526,
+            "power": 934
         },
         "cn_skill_info": [
             {
@@ -6216,10 +6216,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_triton_costume_champion",
         "star": 4,
-        "power": 652,
-        "attack": 669,
-        "defense": 663,
-        "health": 1056,
+        "power": 673,
+        "attack": 689,
+        "defense": 682,
+        "health": 1119,
         "effects": [
             "對目標造成 295% 傷害，並對附近敵人造成輕微傷害。",
             "所有盟友獲得 +30% 攻擊力，持續 4 回合。"
@@ -6229,16 +6229,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 96,
         "lb1": {
-            "attack": 727,
-            "defense": 720,
-            "health": 1147,
-            "power": 701
+            "attack": 749,
+            "defense": 742,
+            "health": 1216,
+            "power": 725
         },
         "lb2": {
-            "attack": 843,
-            "defense": 835,
-            "health": 1330,
-            "power": 800
+            "attack": 868,
+            "defense": 860,
+            "health": 1410,
+            "power": 826
         },
         "cn_skill_info": [
             {
@@ -6475,10 +6475,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s4_zila_lei_costume_dancer",
         "star": 4,
-        "power": 677,
-        "attack": 688,
-        "defense": 654,
-        "health": 1207,
+        "power": 693,
+        "attack": 702,
+        "defense": 667,
+        "health": 1255,
         "effects": [
             "對位於敵方陣型邊緣的敵人造成 215% 傷害。如果只有一個敵人，傷害加倍。",
             "位於敵方陣型邊緣的敵人獲得 -30% 防禦，持續 3 回合。"
@@ -6490,16 +6490,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 100,
         "lb1": {
-            "attack": 748,
-            "defense": 711,
-            "health": 1311,
-            "power": 729
+            "attack": 763,
+            "defense": 725,
+            "health": 1363,
+            "power": 745
         },
         "lb2": {
-            "attack": 867,
-            "defense": 824,
-            "health": 1520,
-            "power": 831
+            "attack": 884,
+            "defense": 841,
+            "health": 1581,
+            "power": 851
         },
         "cn_skill_info": [
             {
@@ -6682,10 +6682,10 @@ window.allHeroes =
         ],
         "heroId": "ice_god_october_costume_farmer",
         "star": 5,
-        "power": 768,
-        "attack": 634,
-        "defense": 770,
-        "health": 1468,
+        "power": 978,
+        "attack": 812,
+        "defense": 970,
+        "health": 2129,
         "effects": [
             "所有盟友得到靈魂連結，持續 4 回合。靈魂連結的盟友會分享承受的傷害。",
             "所有盟友獲得 +35% 防禦，並在每次被擊中後增加 5%，最高可達 +60% ,持續 4 回合。",
@@ -6699,16 +6699,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 103,
         "lb1": {
-            "attack": 683,
-            "defense": 830,
-            "health": 1582,
-            "power": 817
+            "attack": 875,
+            "defense": 1046,
+            "health": 2295,
+            "power": 1045
         },
         "lb2": {
-            "attack": 782,
-            "defense": 949,
-            "health": 1811,
-            "power": 917
+            "attack": 1001,
+            "defense": 1196,
+            "health": 2625,
+            "power": 1177
         },
         "cn_skill_info": [
             {
@@ -6903,10 +6903,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "kalevala_aino_costume_water_maiden",
         "star": 5,
-        "power": 835,
-        "attack": 768,
-        "defense": 838,
-        "health": 1481,
+        "power": 1079,
+        "attack": 1029,
+        "defense": 1123,
+        "health": 1999,
         "effects": [
             "淨化所有盟友的狀態異常。",
             "為所有盟友恢復 45% 生命值。",
@@ -6919,16 +6919,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 106,
         "lb1": {
-            "attack": 828,
-            "defense": 903,
-            "health": 1596,
-            "power": 891
+            "attack": 1109,
+            "defense": 1210,
+            "health": 2154,
+            "power": 1153
         },
         "lb2": {
-            "attack": 947,
-            "defense": 1033,
-            "health": 1826,
-            "power": 1001
+            "attack": 1269,
+            "defense": 1385,
+            "health": 2465,
+            "power": 1302
         },
         "cn_skill_info": [
             {
@@ -7035,10 +7035,10 @@ window.allHeroes =
         ],
         "heroId": "ice_god_eskimo_costume_champion",
         "star": 5,
-        "power": 768,
-        "attack": 731,
-        "defense": 712,
-        "health": 1347,
+        "power": 977,
+        "attack": 936,
+        "defense": 898,
+        "health": 1953,
         "effects": [
             "對目標造成 496% 傷害，並對附近敵人造成輕微傷害。",
             "使目標和附近敵人的法力減少 10%。",
@@ -7052,16 +7052,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 108,
         "lb1": {
-            "attack": 788,
-            "defense": 768,
-            "health": 1451,
-            "power": 818
+            "attack": 1008,
+            "defense": 967,
+            "health": 2105,
+            "power": 1043
         },
         "lb2": {
-            "attack": 901,
-            "defense": 878,
-            "health": 1661,
-            "power": 918
+            "attack": 1154,
+            "defense": 1107,
+            "health": 2408,
+            "power": 1175
         },
         "cn_skill_info": [
             {
@@ -7688,10 +7688,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_ariel_costume_enchanter",
         "star": 5,
-        "power": 772,
-        "attack": 743,
-        "defense": 758,
-        "health": 1248,
+        "power": 942,
+        "attack": 929,
+        "defense": 947,
+        "health": 1622,
         "effects": [
             "為所有盟友提供 520 點加成生命值。加成生命值能夠超過最大生命值。",
             "所有盟友在 4 回合內恢復適量法力。",
@@ -7702,16 +7702,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 117,
         "lb1": {
-            "attack": 801,
-            "defense": 816,
-            "health": 1345,
-            "power": 822
+            "attack": 1001,
+            "defense": 1021,
+            "health": 1748,
+            "power": 1005
         },
         "lb2": {
-            "attack": 916,
-            "defense": 934,
-            "health": 1539,
-            "power": 922
+            "attack": 1146,
+            "defense": 1168,
+            "health": 2001,
+            "power": 1133
         },
         "cn_skill_info": [
             {
@@ -8083,10 +8083,10 @@ window.allHeroes =
         ],
         "heroId": "ice_god_athena_costume_wargoddess",
         "star": 5,
-        "power": 765,
-        "attack": 729,
-        "defense": 698,
-        "health": 1355,
+        "power": 972,
+        "attack": 933,
+        "defense": 879,
+        "health": 1965,
         "effects": [
             "對目標造成 350% 傷害，並對附近敵人造成輕微傷害。",
             "目標與附近敵人獲得 -41% 防禦，並在每次被擊中後減少 -4%，持續 3 回合。",
@@ -8100,16 +8100,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 122,
         "lb1": {
-            "attack": 785,
-            "defense": 752,
-            "health": 1460,
-            "power": 814
+            "attack": 1005,
+            "defense": 948,
+            "health": 2118,
+            "power": 1038
         },
         "lb2": {
-            "attack": 899,
-            "defense": 861,
-            "health": 1671,
-            "power": 914
+            "attack": 1150,
+            "defense": 1084,
+            "health": 2423,
+            "power": 1170
         },
         "cn_skill_info": [
             {
@@ -8237,10 +8237,10 @@ window.allHeroes =
         ],
         "heroId": "tales1_atlanteia_costume_siren",
         "star": 5,
-        "power": 1000,
-        "attack": 1038,
-        "defense": 1073,
-        "health": 1509,
+        "power": 1244,
+        "attack": 1328,
+        "defense": 1373,
+        "health": 1932,
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
@@ -8260,16 +8260,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 124,
         "lb1": {
-            "attack": 1118,
-            "defense": 1156,
-            "health": 1627,
-            "power": 1067
+            "attack": 1432,
+            "defense": 1480,
+            "health": 2082,
+            "power": 1332
         },
         "lb2": {
-            "attack": 1280,
-            "defense": 1323,
-            "health": 1861,
-            "power": 1203
+            "attack": 1638,
+            "defense": 1693,
+            "health": 2383,
+            "power": 1505
         },
         "cn_skill_info": [
             {
@@ -8609,10 +8609,10 @@ window.allHeroes =
         ],
         "heroId": "s5_bennu_costume_heron",
         "star": 5,
-        "power": 861,
-        "attack": 793,
-        "defense": 859,
-        "health": 1563,
+        "power": 1204,
+        "attack": 1149,
+        "defense": 1245,
+        "health": 2345,
         "effects": [
             "施法者和附近盟友會以承受傷害的 100% 進行反擊，持續 5 回合。每次反擊，反擊傷害都會增加 +10%，最高 160%。",
             "施法者與附近盟友受到的所有傷害降低 -30%，持續 5 回合。"
@@ -8628,16 +8628,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 129,
         "lb1": {
-            "attack": 854,
-            "defense": 925,
-            "health": 1684,
-            "power": 918
+            "attack": 1239,
+            "defense": 1342,
+            "health": 2527,
+            "power": 1288
         },
         "lb2": {
-            "attack": 977,
-            "defense": 1059,
-            "health": 1927,
-            "power": 1033
+            "attack": 1417,
+            "defense": 1535,
+            "health": 2891,
+            "power": 1455
         },
         "cn_skill_info": [
             {
@@ -9189,10 +9189,10 @@ window.allHeroes =
         ],
         "heroId": "magic_camilla_costume_flower",
         "star": 5,
-        "power": 867,
-        "attack": 834,
-        "defense": 863,
-        "health": 1493,
+        "power": 1246,
+        "attack": 1259,
+        "defense": 1303,
+        "health": 2255,
         "effects": [
             "特殊技能在法力充能達 100% / 200% 時有不同效果：",
             "1 倍法力充能：",
@@ -9212,16 +9212,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 137,
         "lb1": {
-            "attack": 899,
-            "defense": 930,
-            "health": 1609,
-            "power": 925
+            "attack": 1357,
+            "defense": 1404,
+            "health": 2430,
+            "power": 1333
         },
         "lb2": {
-            "attack": 1028,
-            "defense": 1064,
-            "health": 1841,
-            "power": 1040
+            "attack": 1553,
+            "defense": 1607,
+            "health": 2780,
+            "power": 1507
         },
         "cn_skill_info": [
             {
@@ -9341,10 +9341,10 @@ window.allHeroes =
         ],
         "heroId": "kingdom_cao_cao_costume_ice",
         "star": 5,
-        "power": 838,
-        "attack": 791,
-        "defense": 830,
-        "health": 1460,
+        "power": 1108,
+        "attack": 1067,
+        "defense": 1120,
+        "health": 2117,
         "effects": [
             "對所有敵人造成 320% 傷害。",
             "為每個盟友召喚一個魏國戰士小兵，其可從施法者繼承 42% 生命值與 42% 攻擊。",
@@ -9361,16 +9361,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 139,
         "lb1": {
-            "attack": 852,
-            "defense": 894,
-            "health": 1573,
-            "power": 893
+            "attack": 1150,
+            "defense": 1207,
+            "health": 2282,
+            "power": 1184
         },
         "lb2": {
-            "attack": 975,
-            "defense": 1023,
-            "health": 1800,
-            "power": 1004
+            "attack": 1316,
+            "defense": 1381,
+            "health": 2611,
+            "power": 1337
         },
         "cn_skill_info": [
             {
@@ -9719,10 +9719,10 @@ window.allHeroes =
         ],
         "heroId": "tales1_ceto_costume_queen",
         "star": 5,
-        "power": 936,
-        "attack": 1001,
-        "defense": 834,
-        "health": 1629,
+        "power": 1164,
+        "attack": 1281,
+        "defense": 1067,
+        "health": 2085,
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
@@ -9743,16 +9743,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 144,
         "lb1": {
-            "attack": 1078,
-            "defense": 899,
-            "health": 1756,
-            "power": 999
+            "attack": 1381,
+            "defense": 1150,
+            "health": 2247,
+            "power": 1244
         },
         "lb2": {
-            "attack": 1234,
-            "defense": 1028,
-            "health": 2009,
-            "power": 1126
+            "attack": 1580,
+            "defense": 1316,
+            "health": 2571,
+            "power": 1406
         },
         "cn_skill_info": [
             {
@@ -11001,10 +11001,10 @@ window.allHeroes =
         ],
         "heroId": "s4_exeera_costume_hierophant",
         "star": 5,
-        "power": 814,
-        "attack": 807,
-        "defense": 764,
-        "health": 1378,
+        "power": 1030,
+        "attack": 1049,
+        "defense": 993,
+        "health": 1860,
         "effects": [
             "所有敵人在 3 個回合內受到 270 點水系傷害，每個面板上的冰雪護盾都會提高 54 點傷害，最高可達 918 點傷害。所有的烈火敵人都無法淨化此效果。",
             "所有冰雪敵人對此攻擊免疫。"
@@ -11017,16 +11017,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 161,
         "lb1": {
-            "attack": 870,
-            "defense": 823,
-            "health": 1485,
-            "power": 867
+            "attack": 1131,
+            "defense": 1070,
+            "health": 2004,
+            "power": 1101
         },
         "lb2": {
-            "attack": 995,
-            "defense": 942,
-            "health": 1699,
-            "power": 974
+            "attack": 1294,
+            "defense": 1225,
+            "health": 2294,
+            "power": 1242
         },
         "cn_skill_info": [
             {
@@ -11224,10 +11224,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_fenrir_costume_guardian",
         "star": 5,
-        "power": 785,
-        "attack": 793,
-        "defense": 725,
-        "health": 1285,
+        "power": 982,
+        "attack": 1015,
+        "defense": 928,
+        "health": 1735,
         "effects": [
             "對目標造成 350% 傷害。",
             "如果目標剩餘生命少於 50%，可對其造成 700% 傷害。",
@@ -11239,16 +11239,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 164,
         "lb1": {
-            "attack": 854,
-            "defense": 781,
-            "health": 1385,
-            "power": 836
+            "attack": 1094,
+            "defense": 1000,
+            "health": 1870,
+            "power": 1049
         },
         "lb2": {
-            "attack": 977,
-            "defense": 894,
-            "health": 1584,
-            "power": 939
+            "attack": 1251,
+            "defense": 1144,
+            "health": 2139,
+            "power": 1182
         },
         "cn_skill_info": [
             {
@@ -11434,10 +11434,10 @@ window.allHeroes =
         ],
         "heroId": "pirate_commodore_finley_costume_bleak",
         "star": 5,
-        "power": 782,
-        "attack": 788,
-        "defense": 727,
-        "health": 1273,
+        "power": 979,
+        "attack": 1002,
+        "defense": 908,
+        "health": 1782,
         "effects": [
             "對目標造成 420% 傷害。",
             "如果目標有增益，則會繼續瞄準另一個有增益的目標。如果其他敵人沒有增益，可隨機瞄準一個敵人。每次連續攻擊，傷害會減少。每個敵人只能被攻擊一次。",
@@ -11450,16 +11450,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 167,
         "lb1": {
-            "attack": 850,
-            "defense": 783,
-            "health": 1371,
-            "power": 833
+            "attack": 1079,
+            "defense": 979,
+            "health": 1920,
+            "power": 1045
         },
         "lb2": {
-            "attack": 972,
-            "defense": 896,
-            "health": 1569,
-            "power": 935
+            "attack": 1235,
+            "defense": 1120,
+            "health": 2197,
+            "power": 1178
         },
         "cn_skill_info": [
             {
@@ -12663,10 +12663,10 @@ window.allHeroes =
         ],
         "heroId": "s5_hetepheres_costume_spa",
         "star": 5,
-        "power": 868,
-        "attack": 766,
-        "defense": 887,
-        "health": 1625,
+        "power": 1215,
+        "attack": 1111,
+        "defense": 1287,
+        "health": 2438,
         "effects": [
             "為所有盟友恢復 54% 生命值。",
             "所有盟友對抗自然單位時獲得 +64% 防禦，並在每次被擊中後增加 3%，持續 4 回合。",
@@ -12683,16 +12683,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 184,
         "lb1": {
-            "attack": 825,
-            "defense": 956,
-            "health": 1751,
-            "power": 926
+            "attack": 1197,
+            "defense": 1387,
+            "health": 2627,
+            "power": 1300
         },
         "lb2": {
-            "attack": 944,
-            "defense": 1094,
-            "health": 2004,
-            "power": 1042
+            "attack": 1370,
+            "defense": 1587,
+            "health": 3006,
+            "power": 1469
         },
         "cn_skill_info": [
             {
@@ -13166,10 +13166,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_ice_enchantress_costume_aqua",
         "star": 5,
-        "power": 755,
-        "attack": 828,
-        "defense": 628,
-        "health": 1176,
+        "power": 848,
+        "attack": 935,
+        "defense": 709,
+        "health": 1411,
         "effects": [
             "對所有敵人造成 255% 傷害。",
             "所有敵人獲得 -34% 防禦，持續 6 回合。"
@@ -13179,16 +13179,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 191,
         "lb1": {
-            "attack": 892,
-            "defense": 677,
-            "health": 1267,
-            "power": 804
+            "attack": 1008,
+            "defense": 765,
+            "health": 1521,
+            "power": 904
         },
         "lb2": {
-            "attack": 1021,
-            "defense": 774,
-            "health": 1450,
-            "power": 902
+            "attack": 1153,
+            "defense": 875,
+            "health": 1740,
+            "power": 1017
         },
         "cn_skill_info": [
             {
@@ -13227,10 +13227,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_ice_enchantress_costume_ruler",
         "star": 5,
-        "power": 755,
-        "attack": 813,
-        "defense": 638,
-        "health": 1194,
+        "power": 963,
+        "attack": 1049,
+        "defense": 823,
+        "health": 1720,
         "effects": [
             "對所有敵人造成 270% 傷害。",
             "所有敵人獲得 -34% 攻擊力，持續 4 回合。對自然系角色，此狀態效果變為無法淨化且持續時間延長 2 回合。",
@@ -13241,16 +13241,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 192,
         "lb1": {
-            "attack": 876,
-            "defense": 688,
-            "health": 1287,
-            "power": 804
+            "attack": 1131,
+            "defense": 887,
+            "health": 1854,
+            "power": 1028
         },
         "lb2": {
-            "attack": 1003,
-            "defense": 787,
-            "health": 1473,
-            "power": 902
+            "attack": 1294,
+            "defense": 1015,
+            "health": 2121,
+            "power": 1159
         },
         "cn_skill_info": [
             {
@@ -13296,10 +13296,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_ice_enchantress_costume_cute",
         "star": 5,
-        "power": 756,
-        "attack": 774,
-        "defense": 679,
-        "health": 1215,
+        "power": 1129,
+        "attack": 1200,
+        "defense": 1053,
+        "health": 2066,
         "effects": [
             "對所有敵人造成 385% 傷害。",
             "所有敵人獲得 -34% 防禦，持續 6 回合。",
@@ -13312,16 +13312,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 193,
         "lb1": {
-            "attack": 834,
-            "defense": 732,
-            "health": 1309,
-            "power": 805
+            "attack": 1293,
+            "defense": 1135,
+            "health": 2226,
+            "power": 1206
         },
         "lb2": {
-            "attack": 955,
-            "defense": 838,
-            "health": 1498,
-            "power": 903
+            "attack": 1480,
+            "defense": 1299,
+            "health": 2547,
+            "power": 1363
         },
         "cn_skill_info": [
             {
@@ -13368,10 +13368,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_ice_enchantress_costume_glass",
         "star": 5,
-        "power": 757,
-        "attack": 836,
-        "defense": 622,
-        "health": 1182,
+        "power": 1236,
+        "attack": 1463,
+        "defense": 1088,
+        "health": 2104,
         "effects": [
             "對所有敵人造成 395% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -13384,16 +13384,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 194,
         "lb1": {
-            "attack": 901,
-            "defense": 670,
-            "health": 1274,
-            "power": 806
+            "attack": 1577,
+            "defense": 1173,
+            "health": 2268,
+            "power": 1322
         },
         "lb2": {
-            "attack": 1031,
-            "defense": 767,
-            "health": 1457,
-            "power": 904
+            "attack": 1804,
+            "defense": 1342,
+            "health": 2595,
+            "power": 1495
         },
         "cn_skill_info": [
             {
@@ -14039,10 +14039,10 @@ window.allHeroes =
         ],
         "heroId": "christmas_krampus_costume_eager_devil",
         "star": 5,
-        "power": 802,
-        "attack": 751,
-        "defense": 784,
-        "health": 1396,
+        "power": 1056,
+        "attack": 1030,
+        "defense": 1075,
+        "health": 1927,
         "effects": [
             "為每個盟友召喚一個精靈小兵，其可從施法者繼承 10% 生命與 10% 攻擊。",
             "施法者獲得嘲諷，可阻止敵人對其盟友使用特殊技能，持續 3 回合。",
@@ -14056,16 +14056,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 203,
         "lb1": {
-            "attack": 810,
-            "defense": 845,
-            "health": 1505,
-            "power": 855
+            "attack": 1110,
+            "defense": 1158,
+            "health": 2077,
+            "power": 1128
         },
         "lb2": {
-            "attack": 927,
-            "defense": 967,
-            "health": 1722,
-            "power": 961
+            "attack": 1270,
+            "defense": 1325,
+            "health": 2376,
+            "power": 1273
         },
         "cn_skill_info": [
             {
@@ -14318,10 +14318,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_loki_male_costume_shapeshifter",
         "star": 5,
-        "power": 788,
-        "attack": 772,
-        "defense": 766,
-        "health": 1275,
+        "power": 986,
+        "attack": 988,
+        "defense": 980,
+        "health": 1721,
         "effects": [
             "從目標上複製所有可驅散增益。",
             "複製目標的特殊技能，與施法者自己的特殊技能一併施放。",
@@ -14334,16 +14334,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 207,
         "lb1": {
-            "attack": 832,
-            "defense": 825,
-            "health": 1374,
-            "power": 839
+            "attack": 1065,
+            "defense": 1057,
+            "health": 1855,
+            "power": 1053
         },
         "lb2": {
-            "attack": 952,
-            "defense": 944,
-            "health": 1572,
-            "power": 942
+            "attack": 1219,
+            "defense": 1209,
+            "health": 2122,
+            "power": 1187
         },
         "cn_skill_info": [
             {
@@ -14657,10 +14657,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "exalted_warrior_costume_ice",
         "star": 5,
-        "power": 755,
-        "attack": 708,
-        "defense": 698,
-        "health": 1334,
+        "power": 850,
+        "attack": 800,
+        "defense": 789,
+        "health": 1601,
         "effects": [
             "對目標造成 420% 傷害。",
             "目標與附近敵人獲得 -34% 防禦，持續 4 回合。"
@@ -14670,16 +14670,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 212,
         "lb1": {
-            "attack": 763,
-            "defense": 752,
-            "health": 1438,
-            "power": 803
+            "attack": 862,
+            "defense": 850,
+            "health": 1726,
+            "power": 906
         },
         "lb2": {
-            "attack": 873,
-            "defense": 861,
-            "health": 1645,
-            "power": 901
+            "attack": 987,
+            "defense": 972,
+            "health": 1975,
+            "power": 1019
         },
         "cn_skill_info": [
             {
@@ -14717,10 +14717,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "exalted_warrior_costume_underworld",
         "star": 5,
-        "power": 754,
-        "attack": 741,
-        "defense": 642,
-        "health": 1359,
+        "power": 965,
+        "attack": 956,
+        "defense": 829,
+        "health": 1957,
         "effects": [
             "對目標及附近敵人造成 285% 傷害。",
             "目標與附近敵人獲得對特殊技能 -64% 的防禦，持續 4 回合。"
@@ -14730,16 +14730,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 213,
         "lb1": {
-            "attack": 799,
-            "defense": 692,
-            "health": 1465,
-            "power": 803
+            "attack": 1030,
+            "defense": 893,
+            "health": 2109,
+            "power": 1030
         },
         "lb2": {
-            "attack": 914,
-            "defense": 792,
-            "health": 1676,
-            "power": 901
+            "attack": 1179,
+            "defense": 1022,
+            "health": 2414,
+            "power": 1161
         },
         "cn_skill_info": [
             {
@@ -14780,10 +14780,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "exalted_warrior_costume_cute",
         "star": 5,
-        "power": 755,
-        "attack": 760,
-        "defense": 624,
-        "health": 1355,
+        "power": 1130,
+        "attack": 1178,
+        "defense": 967,
+        "health": 2304,
         "effects": [
             "對目標造成 500% 傷害。",
             "施法者和附近盟友獲得 56% 防禦，持續 4 回合。",
@@ -14796,16 +14796,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 214,
         "lb1": {
-            "attack": 819,
-            "defense": 672,
-            "health": 1460,
-            "power": 804
+            "attack": 1269,
+            "defense": 1042,
+            "health": 2483,
+            "power": 1208
         },
         "lb2": {
-            "attack": 937,
-            "defense": 769,
-            "health": 1671,
-            "power": 902
+            "attack": 1452,
+            "defense": 1192,
+            "health": 2841,
+            "power": 1364
         },
         "cn_skill_info": [
             {
@@ -14852,10 +14852,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "exalted_warrior_costume_glass",
         "star": 5,
-        "power": 756,
-        "attack": 772,
-        "defense": 618,
-        "health": 1347,
+        "power": 1236,
+        "attack": 1351,
+        "defense": 1081,
+        "health": 2398,
         "effects": [
             "對目標造成 510% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -14868,16 +14868,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 215,
         "lb1": {
-            "attack": 832,
-            "defense": 666,
-            "health": 1451,
-            "power": 805
+            "attack": 1456,
+            "defense": 1165,
+            "health": 2584,
+            "power": 1322
         },
         "lb2": {
-            "attack": 952,
-            "defense": 762,
-            "health": 1661,
-            "power": 904
+            "attack": 1666,
+            "defense": 1333,
+            "health": 2956,
+            "power": 1495
         },
         "cn_skill_info": [
             {
@@ -15050,10 +15050,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "rabbit_blue_costume_riftbreaker",
         "star": 5,
-        "power": 763,
-        "attack": 774,
-        "defense": 706,
-        "health": 1211,
+        "power": 904,
+        "attack": 944,
+        "defense": 847,
+        "health": 1514,
         "effects": [
             "對所有敵人造成 280% 傷害。",
             "施法者獲得 -24% 法力產出，持續 4 回合。此效果無法淨化。"
@@ -15063,16 +15063,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 218,
         "lb1": {
-            "attack": 834,
-            "defense": 761,
-            "health": 1305,
-            "power": 812
+            "attack": 1018,
+            "defense": 913,
+            "health": 1631,
+            "power": 965
         },
         "lb2": {
-            "attack": 955,
-            "defense": 871,
-            "health": 1493,
-            "power": 912
+            "attack": 1165,
+            "defense": 1045,
+            "health": 1866,
+            "power": 1086
         },
         "cn_skill_info": [
             {
@@ -15484,10 +15484,10 @@ window.allHeroes =
         ],
         "heroId": "magic_milena_costume_ice",
         "star": 5,
-        "power": 814,
-        "attack": 791,
-        "defense": 772,
-        "health": 1400,
+        "power": 1206,
+        "attack": 1241,
+        "defense": 1212,
+        "health": 2199,
         "effects": [
             "特殊技能在法力充能達 100% / 200% 時有不同效果：",
             "1 倍法力充能：",
@@ -15506,16 +15506,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 224,
         "lb1": {
-            "attack": 852,
-            "defense": 832,
-            "health": 1509,
-            "power": 867
+            "attack": 1338,
+            "defense": 1307,
+            "health": 2370,
+            "power": 1291
         },
         "lb2": {
-            "attack": 975,
-            "defense": 952,
-            "health": 1727,
-            "power": 974
+            "attack": 1531,
+            "defense": 1495,
+            "health": 2711,
+            "power": 1458
         },
         "cn_skill_info": [
             {
@@ -15696,10 +15696,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_mercenary_woman_costume_dancer",
         "star": 5,
-        "power": 775,
-        "attack": 751,
-        "defense": 723,
-        "health": 1322,
+        "power": 947,
+        "attack": 939,
+        "defense": 903,
+        "health": 1719,
         "effects": [
             "對目標造成 280% 傷害。",
             "有 42% 的機率可額外攻擊隨機敵人最多 3 次。",
@@ -15710,16 +15710,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 227,
         "lb1": {
-            "attack": 810,
-            "defense": 779,
-            "health": 1425,
-            "power": 826
+            "attack": 1012,
+            "defense": 974,
+            "health": 1852,
+            "power": 1011
         },
         "lb2": {
-            "attack": 927,
-            "defense": 891,
-            "health": 1630,
-            "power": 927
+            "attack": 1158,
+            "defense": 1114,
+            "health": 2119,
+            "power": 1138
         },
         "cn_skill_info": [
             {
@@ -16191,10 +16191,10 @@ window.allHeroes =
         ],
         "heroId": "s4_morel_costume_sage",
         "star": 5,
-        "power": 807,
-        "attack": 824,
-        "defense": 681,
-        "health": 1450,
+        "power": 1021,
+        "attack": 1071,
+        "defense": 886,
+        "health": 1957,
         "effects": [
             "對所有敵人造成 145% 傷害。",
             "所有敵人獲得 -34% 防禦，持續 3 回合。",
@@ -16208,16 +16208,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 234,
         "lb1": {
-            "attack": 888,
-            "defense": 734,
-            "health": 1562,
-            "power": 860
+            "attack": 1154,
+            "defense": 955,
+            "health": 2109,
+            "power": 1091
         },
         "lb2": {
-            "attack": 1016,
-            "defense": 840,
-            "health": 1788,
-            "power": 966
+            "attack": 1320,
+            "defense": 1092,
+            "health": 2414,
+            "power": 1230
         },
         "cn_skill_info": [
             {
@@ -16333,10 +16333,10 @@ window.allHeroes =
         ],
         "heroId": "christmas_mr_pengi_costume_snowboarder",
         "star": 5,
-        "power": 821,
-        "attack": 803,
-        "defense": 780,
-        "health": 1404,
+        "power": 1080,
+        "attack": 1100,
+        "defense": 1069,
+        "health": 1938,
         "effects": [
             "對目標造成 400% 傷害。",
             "依照盟友擁有的小兵數量，對相同數量的隨機敵人造成額外 160% 傷害。每次連續攻擊擊中時，傷害都會降低。",
@@ -16350,16 +16350,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 236,
         "lb1": {
-            "attack": 865,
-            "defense": 841,
-            "health": 1514,
-            "power": 875
+            "attack": 1186,
+            "defense": 1152,
+            "health": 2089,
+            "power": 1155
         },
         "lb2": {
-            "attack": 990,
-            "defense": 962,
-            "health": 1732,
-            "power": 983
+            "attack": 1357,
+            "defense": 1318,
+            "health": 2390,
+            "power": 1303
         },
         "cn_skill_info": [
             {
@@ -17088,10 +17088,10 @@ window.allHeroes =
         ],
         "heroId": "s4_passepartout_costume_artist",
         "star": 5,
-        "power": 811,
-        "attack": 679,
-        "defense": 896,
-        "health": 1411,
+        "power": 1026,
+        "attack": 883,
+        "defense": 1164,
+        "health": 1904,
         "effects": [
             "為所有盟友恢復 40% 生命值。",
             "所有盟友在 4 個回合內恢復 260 點生命，面板上每個自然護盾再額外增加 76 點生命，最多共計 868 點生命。",
@@ -17105,16 +17105,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 246,
         "lb1": {
-            "attack": 732,
-            "defense": 965,
-            "health": 1520,
-            "power": 864
+            "attack": 952,
+            "defense": 1255,
+            "health": 2052,
+            "power": 1096
         },
         "lb2": {
-            "attack": 838,
-            "defense": 1104,
-            "health": 1739,
-            "power": 970
+            "attack": 1089,
+            "defense": 1436,
+            "health": 2348,
+            "power": 1236
         },
         "cn_skill_info": [
             {
@@ -17310,10 +17310,10 @@ window.allHeroes =
         ],
         "heroId": "ice_god_perseus_costume_frozen",
         "star": 5,
-        "power": 765,
-        "attack": 725,
-        "defense": 698,
-        "health": 1367,
+        "power": 973,
+        "attack": 928,
+        "defense": 879,
+        "health": 1983,
         "effects": [
             "對目標及附近敵人造成 405% 傷害。",
             "目標與附近敵人獲得的治療減少 -100%，持續 4 回合。此效果無法淨化。",
@@ -17327,16 +17327,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 249,
         "lb1": {
-            "attack": 781,
-            "defense": 752,
-            "health": 1474,
-            "power": 815
+            "attack": 1000,
+            "defense": 948,
+            "health": 2137,
+            "power": 1039
         },
         "lb2": {
-            "attack": 894,
-            "defense": 861,
-            "health": 1686,
-            "power": 915
+            "attack": 1144,
+            "defense": 1084,
+            "health": 2445,
+            "power": 1171
         },
         "cn_skill_info": [
             {
@@ -17960,10 +17960,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_male_lord_costume_senior",
         "star": 5,
-        "power": 755,
-        "attack": 650,
-        "defense": 821,
-        "health": 1238,
+        "power": 849,
+        "attack": 735,
+        "defense": 928,
+        "health": 1485,
         "effects": [
             "對目標造成 435% 傷害，並對附近敵人造成輕微傷害。",
             "目標與附近敵人獲得 -34% 攻擊力，持續 4 回合。"
@@ -17973,16 +17973,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 258,
         "lb1": {
-            "attack": 701,
-            "defense": 885,
-            "health": 1334,
-            "power": 804
+            "attack": 792,
+            "defense": 1000,
+            "health": 1601,
+            "power": 906
         },
         "lb2": {
-            "attack": 802,
-            "defense": 1013,
-            "health": 1526,
-            "power": 902
+            "attack": 906,
+            "defense": 1145,
+            "health": 1831,
+            "power": 1019
         },
         "cn_skill_info": [
             {
@@ -18021,10 +18021,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_male_lord_costume_injustice",
         "star": 5,
-        "power": 755,
-        "attack": 737,
-        "defense": 659,
-        "health": 1341,
+        "power": 966,
+        "attack": 951,
+        "defense": 850,
+        "health": 1931,
         "effects": [
             "對目標及附近敵人造成 300% 傷害。",
             "目標與附近敵人獲得 -30% 攻擊，並在每次被擊中後減少 -2%，持續 4 回合。"
@@ -18034,16 +18034,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 259,
         "lb1": {
-            "attack": 794,
-            "defense": 710,
-            "health": 1445,
-            "power": 804
+            "attack": 1025,
+            "defense": 916,
+            "health": 2081,
+            "power": 1031
         },
         "lb2": {
-            "attack": 909,
-            "defense": 812,
-            "health": 1653,
-            "power": 901
+            "attack": 1173,
+            "defense": 1048,
+            "health": 2381,
+            "power": 1162
         },
         "cn_skill_info": [
             {
@@ -18084,10 +18084,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_male_lord_costume_cute",
         "star": 5,
-        "power": 755,
-        "attack": 739,
-        "defense": 659,
-        "health": 1341,
+        "power": 1131,
+        "attack": 1146,
+        "defense": 1021,
+        "health": 2279,
         "effects": [
             "對目標造成 565% 傷害，並對附近敵人造成輕微傷害。",
             "目標與附近敵人獲得 -24% 攻擊力，持續 6 回合。",
@@ -18100,16 +18100,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 260,
         "lb1": {
-            "attack": 796,
-            "defense": 710,
-            "health": 1445,
-            "power": 804
+            "attack": 1235,
+            "defense": 1101,
+            "health": 2456,
+            "power": 1209
         },
         "lb2": {
-            "attack": 911,
-            "defense": 812,
-            "health": 1653,
-            "power": 902
+            "attack": 1413,
+            "defense": 1259,
+            "health": 2811,
+            "power": 1365
         },
         "cn_skill_info": [
             {
@@ -18156,10 +18156,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_male_lord_costume_glass",
         "star": 5,
-        "power": 756,
-        "attack": 741,
-        "defense": 657,
-        "health": 1345,
+        "power": 1235,
+        "attack": 1297,
+        "defense": 1149,
+        "health": 2394,
         "effects": [
             "對目標造成 575% 傷害，並對附近敵人造成輕微傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -18172,16 +18172,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 261,
         "lb1": {
-            "attack": 799,
-            "defense": 708,
-            "health": 1449,
-            "power": 805
+            "attack": 1398,
+            "defense": 1239,
+            "health": 2580,
+            "power": 1322
         },
         "lb2": {
-            "attack": 914,
-            "defense": 810,
-            "health": 1658,
-            "power": 903
+            "attack": 1600,
+            "defense": 1417,
+            "health": 2952,
+            "power": 1495
         },
         "cn_skill_info": [
             {
@@ -18400,10 +18400,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "fables_rumpelstiltskin_costume_eternal",
         "star": 5,
-        "power": 767,
-        "attack": 723,
-        "defense": 706,
-        "health": 1367,
+        "power": 961,
+        "attack": 918,
+        "defense": 883,
+        "health": 1914,
         "effects": [
             "抽取一張特殊效果卡片：",
             "骷髏：",
@@ -18421,16 +18421,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 264,
         "lb1": {
-            "attack": 779,
-            "defense": 761,
-            "health": 1474,
-            "power": 817
+            "attack": 989,
+            "defense": 951,
+            "health": 2063,
+            "power": 1026
         },
         "lb2": {
-            "attack": 891,
-            "defense": 871,
-            "health": 1686,
-            "power": 916
+            "attack": 1132,
+            "defense": 1089,
+            "health": 2361,
+            "power": 1156
         },
         "cn_skill_info": [
             {
@@ -18564,10 +18564,10 @@ window.allHeroes =
         ],
         "heroId": "s4_russula_costume_painter",
         "star": 5,
-        "power": 807,
-        "attack": 811,
-        "defense": 782,
-        "health": 1287,
+        "power": 1022,
+        "attack": 1055,
+        "defense": 1017,
+        "health": 1738,
         "effects": [
             "對目標造成 300% 傷害。",
             "施法者躲藏 2 個回合。",
@@ -18582,16 +18582,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 266,
         "lb1": {
-            "attack": 874,
-            "defense": 843,
-            "health": 1387,
-            "power": 861
+            "attack": 1137,
+            "defense": 1096,
+            "health": 1873,
+            "power": 1092
         },
         "lb2": {
-            "attack": 1000,
-            "defense": 965,
-            "health": 1587,
-            "power": 967
+            "attack": 1300,
+            "defense": 1254,
+            "health": 2143,
+            "power": 1231
         },
         "cn_skill_info": [
             {
@@ -19241,10 +19241,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_skadi_costume_ravager",
         "star": 5,
-        "power": 788,
-        "attack": 733,
-        "defense": 762,
-        "health": 1382,
+        "power": 987,
+        "attack": 938,
+        "defense": 975,
+        "health": 1866,
         "effects": [
             "對目標及附近敵人造成 320% 傷害。",
             "每有一個敵人被擊敗，傷害增加 35%。",
@@ -19256,16 +19256,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 275,
         "lb1": {
-            "attack": 790,
-            "defense": 821,
-            "health": 1489,
-            "power": 839
+            "attack": 1011,
+            "defense": 1051,
+            "health": 2010,
+            "power": 1054
         },
         "lb2": {
-            "attack": 904,
-            "defense": 939,
-            "health": 1704,
-            "power": 942
+            "attack": 1157,
+            "defense": 1202,
+            "health": 2300,
+            "power": 1188
         },
         "cn_skill_info": [
             {
@@ -19533,10 +19533,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "fables_snow_white_costume_slayer",
         "star": 5,
-        "power": 780,
-        "attack": 780,
-        "defense": 727,
-        "health": 1281,
+        "power": 977,
+        "attack": 991,
+        "defense": 908,
+        "health": 1793,
         "effects": [
             "驅散並淨化所有盟友和敵人的全部增益與狀態異常。",
             "對所有敵人造成 140% 傷害。",
@@ -19547,16 +19547,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 279,
         "lb1": {
-            "attack": 841,
-            "defense": 783,
-            "health": 1380,
-            "power": 831
+            "attack": 1068,
+            "defense": 979,
+            "health": 1933,
+            "power": 1043
         },
         "lb2": {
-            "attack": 962,
-            "defense": 896,
-            "health": 1579,
-            "power": 933
+            "attack": 1222,
+            "defense": 1120,
+            "health": 2211,
+            "power": 1175
         },
         "cn_skill_info": [
             {
@@ -19675,10 +19675,10 @@ window.allHeroes =
         ],
         "heroId": "s5_sobek_costume_guardian",
         "star": 5,
-        "power": 859,
-        "attack": 836,
-        "defense": 766,
-        "health": 1625,
+        "power": 1201,
+        "attack": 1212,
+        "defense": 1111,
+        "health": 2438,
         "effects": [
             "對所有敵人造成 280% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -19695,16 +19695,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 281,
         "lb1": {
-            "attack": 901,
-            "defense": 825,
-            "health": 1751,
-            "power": 916
+            "attack": 1306,
+            "defense": 1197,
+            "health": 2627,
+            "power": 1285
         },
         "lb2": {
-            "attack": 1031,
-            "defense": 944,
-            "health": 2004,
-            "power": 1030
+            "attack": 1495,
+            "defense": 1370,
+            "health": 3006,
+            "power": 1452
         },
         "cn_skill_info": [
             {
@@ -20280,10 +20280,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_tethys_costume_steel",
         "star": 5,
-        "power": 836,
-        "attack": 838,
-        "defense": 764,
-        "health": 1462,
+        "power": 1025,
+        "attack": 1048,
+        "defense": 955,
+        "health": 1901,
         "effects": [
             "對目標及附近敵人造成 400% 傷害。",
             "目標與附近敵人在 3 回合內受到共計 657 點水系傷害。",
@@ -20295,16 +20295,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 289,
         "lb1": {
-            "attack": 903,
-            "defense": 823,
-            "health": 1576,
-            "power": 892
+            "attack": 1129,
+            "defense": 1029,
+            "health": 2049,
+            "power": 1095
         },
         "lb2": {
-            "attack": 1033,
-            "defense": 942,
-            "health": 1803,
-            "power": 1002
+            "attack": 1292,
+            "defense": 1177,
+            "health": 2344,
+            "power": 1234
         },
         "cn_skill_info": [
             {
@@ -20433,10 +20433,10 @@ window.allHeroes =
         ],
         "heroId": "tales1_thalassa_costume_crystals",
         "star": 5,
-        "power": 953,
-        "attack": 939,
-        "defense": 957,
-        "health": 1654,
+        "power": 1185,
+        "attack": 1202,
+        "defense": 1226,
+        "health": 2117,
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
@@ -20457,16 +20457,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 291,
         "lb1": {
-            "attack": 1012,
-            "defense": 1032,
-            "health": 1782,
-            "power": 1017
+            "attack": 1295,
+            "defense": 1321,
+            "health": 2281,
+            "power": 1267
         },
         "lb2": {
-            "attack": 1158,
-            "defense": 1181,
-            "health": 2039,
-            "power": 1146
+            "attack": 1482,
+            "defense": 1511,
+            "health": 2610,
+            "power": 1432
         },
         "cn_skill_info": [
             {
@@ -20703,10 +20703,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "royal_knight_commander_costume_king",
         "star": 5,
-        "power": 758,
-        "attack": 692,
-        "defense": 749,
-        "health": 1295,
+        "power": 853,
+        "attack": 782,
+        "defense": 847,
+        "health": 1554,
         "effects": [
             "對目標造成 540% 傷害。",
             "施法者獲得 +24% 法力產出，持續 3 回合。此效果無法驅散。"
@@ -20716,16 +20716,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 295,
         "lb1": {
-            "attack": 745,
-            "defense": 808,
-            "health": 1396,
-            "power": 807
+            "attack": 842,
+            "defense": 913,
+            "health": 1675,
+            "power": 909
         },
         "lb2": {
-            "attack": 853,
-            "defense": 924,
-            "health": 1597,
-            "power": 905
+            "attack": 964,
+            "defense": 1044,
+            "health": 1917,
+            "power": 1023
         },
         "cn_skill_info": [
             {
@@ -20765,10 +20765,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "royal_knight_commander_costume_gryphon",
         "star": 5,
-        "power": 758,
-        "attack": 692,
-        "defense": 749,
-        "health": 1295,
+        "power": 969,
+        "attack": 892,
+        "defense": 967,
+        "health": 1865,
         "effects": [
             "對目標及附近敵人造成 360% 傷害。",
             "使目標和附近敵人的法力減少 15%。",
@@ -20779,16 +20779,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 296,
         "lb1": {
-            "attack": 745,
-            "defense": 808,
-            "health": 1396,
-            "power": 807
+            "attack": 962,
+            "defense": 1042,
+            "health": 2010,
+            "power": 1034
         },
         "lb2": {
-            "attack": 853,
-            "defense": 924,
-            "health": 1597,
-            "power": 905
+            "attack": 1100,
+            "defense": 1192,
+            "health": 2300,
+            "power": 1165
         },
         "cn_skill_info": [
             {
@@ -20832,10 +20832,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "royal_knight_commander_costume_cute",
         "star": 5,
-        "power": 759,
-        "attack": 688,
-        "defense": 751,
-        "health": 1308,
+        "power": 1135,
+        "attack": 1066,
+        "defense": 1165,
+        "health": 2223,
         "effects": [
             "對目標造成 640% 傷害，並對附近敵人造成輕微傷害。",
             "對烈火系造成額外傷害。"
@@ -20847,16 +20847,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 297,
         "lb1": {
-            "attack": 741,
-            "defense": 810,
-            "health": 1409,
-            "power": 808
+            "attack": 1149,
+            "defense": 1255,
+            "health": 2396,
+            "power": 1213
         },
         "lb2": {
-            "attack": 848,
-            "defense": 927,
-            "health": 1612,
-            "power": 907
+            "attack": 1314,
+            "defense": 1437,
+            "health": 2741,
+            "power": 1371
         },
         "cn_skill_info": [
             {
@@ -20896,10 +20896,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "royal_knight_commander_costume_glass",
         "star": 5,
-        "power": 760,
-        "attack": 696,
-        "defense": 745,
-        "health": 1306,
+        "power": 1242,
+        "attack": 1218,
+        "defense": 1305,
+        "health": 2324,
         "effects": [
             "對目標造成 650% 傷害，並對附近敵人造成輕微傷害。",
             "攻擊會無視防禦增益。（包含反擊）"
@@ -20911,16 +20911,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 298,
         "lb1": {
-            "attack": 750,
-            "defense": 803,
-            "health": 1407,
-            "power": 809
+            "attack": 1313,
+            "defense": 1406,
+            "health": 2505,
+            "power": 1328
         },
         "lb2": {
-            "attack": 858,
-            "defense": 919,
-            "health": 1610,
-            "power": 908
+            "attack": 1502,
+            "defense": 1609,
+            "health": 2866,
+            "power": 1502
         },
         "cn_skill_info": [
             {
@@ -21274,10 +21274,10 @@ window.allHeroes =
         ],
         "heroId": "magic_ulius_costume_buccaneer",
         "star": 5,
-        "power": 938,
-        "attack": 896,
-        "defense": 918,
-        "health": 1732,
+        "power": 1256,
+        "attack": 1236,
+        "defense": 1267,
+        "health": 2460,
         "effects": [
             "特殊技能在法力充能達 100% / 200% 時有不同效果：",
             "1 倍法力充能：",
@@ -21297,16 +21297,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 303,
         "lb1": {
-            "attack": 965,
-            "defense": 990,
-            "health": 1867,
-            "power": 1001
+            "attack": 1332,
+            "defense": 1366,
+            "health": 2651,
+            "power": 1344
         },
         "lb2": {
-            "attack": 1104,
-            "defense": 1132,
-            "health": 2136,
-            "power": 1127
+            "attack": 1524,
+            "defense": 1563,
+            "health": 3033,
+            "power": 1520
         },
         "cn_skill_info": [
             {
@@ -22039,10 +22039,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elemental_zengar_costume_farmer",
         "star": 5,
-        "power": 903,
-        "attack": 869,
-        "defense": 824,
-        "health": 1742,
+        "power": 1227,
+        "attack": 1217,
+        "defense": 1153,
+        "health": 2527,
         "effects": [
             "對目標造成 450% 傷害。",
             "若目標為烈火元素，則對附近敵人造成 400% 傷害。",
@@ -22061,16 +22061,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 313,
         "lb1": {
-            "attack": 936,
-            "defense": 888,
-            "health": 1878,
-            "power": 964
+            "attack": 1311,
+            "defense": 1243,
+            "health": 2723,
+            "power": 1313
         },
         "lb2": {
-            "attack": 1071,
-            "defense": 1016,
-            "health": 2148,
-            "power": 1085
+            "attack": 1500,
+            "defense": 1422,
+            "health": 3115,
+            "power": 1484
         },
         "cn_skill_info": [
             {
@@ -22615,10 +22615,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_female_spirit_costume_autumn",
         "star": 3,
-        "power": 441,
-        "attack": 417,
-        "defense": 439,
-        "health": 771,
+        "power": 471,
+        "attack": 446,
+        "defense": 470,
+        "health": 848,
         "effects": [
             "所有盟友在 3 回合內恢復 459 點生命值。",
             "所有盟友在 3 回合內對增益驅散免疫。"
@@ -22628,16 +22628,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 323,
         "lb1": {
-            "attack": 472,
-            "defense": 498,
-            "health": 874,
-            "power": 492
+            "attack": 505,
+            "defense": 533,
+            "health": 962,
+            "power": 525
         },
         "lb2": {
-            "attack": 584,
-            "defense": 615,
-            "health": 1080,
-            "power": 592
+            "attack": 625,
+            "defense": 658,
+            "health": 1188,
+            "power": 634
         },
         "cn_skill_info": [
             {
@@ -22679,10 +22679,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_female_spirit_costume_cute",
         "star": 3,
-        "power": 443,
-        "attack": 443,
-        "defense": 432,
-        "health": 729,
+        "power": 504,
+        "attack": 509,
+        "defense": 497,
+        "health": 875,
         "effects": [
             "為所有盟友恢復 35% 生命值。",
             "所有盟友獲得 +34% 防禦，持續 3 回合。對所有自然系角色，此狀態效果變為无法驅散且持續時間延長 2 回合。",
@@ -22695,16 +22695,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 324,
         "lb1": {
-            "attack": 502,
-            "defense": 490,
-            "health": 827,
-            "power": 493
+            "attack": 577,
+            "defense": 564,
+            "health": 992,
+            "power": 563
         },
         "lb2": {
-            "attack": 620,
-            "defense": 606,
-            "health": 1022,
-            "power": 594
+            "attack": 713,
+            "defense": 696,
+            "health": 1226,
+            "power": 681
         },
         "cn_skill_info": [
             {
@@ -22747,10 +22747,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_female_spirit_costume_glass",
         "star": 3,
-        "power": 444,
-        "attack": 446,
-        "defense": 431,
-        "health": 733,
+        "power": 517,
+        "attack": 527,
+        "defense": 508,
+        "health": 902,
         "effects": [
             "為所有盟友恢復 36% 生命值。",
             "所有自然系盟友反射狀態異常和負面效果疊加，持續 2 回合。（同隊角色、小兵和惡魔施放的狀態效果無法反彈）",
@@ -22763,16 +22763,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 325,
         "lb1": {
-            "attack": 506,
-            "defense": 488,
-            "health": 831,
-            "power": 495
+            "attack": 597,
+            "defense": 576,
+            "health": 1022,
+            "power": 578
         },
         "lb2": {
-            "attack": 625,
-            "defense": 603,
-            "health": 1027,
-            "power": 596
+            "attack": 738,
+            "defense": 712,
+            "health": 1263,
+            "power": 699
         },
         "cn_skill_info": [
             {
@@ -22870,10 +22870,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_archer_costume_warrior",
         "star": 3,
-        "power": 444,
-        "attack": 436,
-        "defense": 453,
-        "health": 716,
+        "power": 474,
+        "attack": 466,
+        "defense": 485,
+        "health": 787,
         "effects": [
             "對目標造成 325% 傷害。",
             "目標獲得 -34% 防禦，持續 6 回合。"
@@ -22883,16 +22883,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 327,
         "lb1": {
-            "attack": 494,
-            "defense": 514,
-            "health": 811,
-            "power": 495
+            "attack": 529,
+            "defense": 550,
+            "health": 892,
+            "power": 529
         },
         "lb2": {
-            "attack": 610,
-            "defense": 635,
-            "health": 1002,
-            "power": 596
+            "attack": 653,
+            "defense": 679,
+            "health": 1103,
+            "power": 638
         },
         "cn_skill_info": [
             {
@@ -22933,10 +22933,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_archer_costume_cute",
         "star": 3,
-        "power": 445,
-        "attack": 472,
-        "defense": 425,
-        "health": 688,
+        "power": 507,
+        "attack": 543,
+        "defense": 489,
+        "health": 825,
         "effects": [
             "對目標造成 330% 傷害。",
             "目標獲得 -24% 攻擊力，持續 6 回合。",
@@ -22949,16 +22949,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 328,
         "lb1": {
-            "attack": 535,
-            "defense": 482,
-            "health": 780,
-            "power": 496
+            "attack": 616,
+            "defense": 555,
+            "health": 936,
+            "power": 567
         },
         "lb2": {
-            "attack": 662,
-            "defense": 596,
-            "health": 963,
-            "power": 598
+            "attack": 761,
+            "defense": 685,
+            "health": 1156,
+            "power": 684
         },
         "cn_skill_info": [
             {
@@ -23005,10 +23005,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_archer_costume_glass",
         "star": 3,
-        "power": 446,
-        "attack": 476,
-        "defense": 422,
-        "health": 691,
+        "power": 519,
+        "attack": 561,
+        "defense": 498,
+        "health": 850,
         "effects": [
             "對目標造成 340% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -23021,16 +23021,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 329,
         "lb1": {
-            "attack": 539,
-            "defense": 478,
-            "health": 784,
-            "power": 497
+            "attack": 636,
+            "defense": 564,
+            "health": 964,
+            "power": 580
         },
         "lb2": {
-            "attack": 666,
-            "defense": 591,
-            "health": 968,
-            "power": 599
+            "attack": 786,
+            "defense": 697,
+            "health": 1191,
+            "power": 702
         },
         "cn_skill_info": [
             {
@@ -23122,10 +23122,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_female_druid_costume_native",
         "star": 3,
-        "power": 440,
-        "attack": 444,
-        "defense": 446,
-        "health": 683,
+        "power": 470,
+        "attack": 476,
+        "defense": 477,
+        "health": 751,
         "effects": [
             "所有敵人獲得 -41% 防禦，並在每次被擊中後減少 -4%，持續 4 回合。"
         ],
@@ -23134,16 +23134,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 331,
         "lb1": {
-            "attack": 504,
-            "defense": 506,
-            "health": 774,
-            "power": 491
+            "attack": 539,
+            "defense": 541,
+            "health": 851,
+            "power": 524
         },
         "lb2": {
-            "attack": 623,
-            "defense": 625,
-            "health": 956,
-            "power": 591
+            "attack": 666,
+            "defense": 669,
+            "health": 1052,
+            "power": 632
         },
         "cn_skill_info": [
             {
@@ -23176,10 +23176,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_female_druid_costume_cute",
         "star": 3,
-        "power": 441,
-        "attack": 441,
-        "defense": 425,
-        "health": 736,
+        "power": 503,
+        "attack": 507,
+        "defense": 489,
+        "health": 884,
         "effects": [
             "所有盟友獲得 45% 攻擊力，並在每次被擊中後增加 20%，持續 5 回合。對所有自然系角色，此狀態效果變為无法驅散且持續時間延長 2 回合。"
         ],
@@ -23190,16 +23190,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 332,
         "lb1": {
-            "attack": 500,
-            "defense": 482,
-            "health": 835,
-            "power": 491
+            "attack": 575,
+            "defense": 555,
+            "health": 1002,
+            "power": 561
         },
         "lb2": {
-            "attack": 618,
-            "defense": 596,
-            "health": 1032,
-            "power": 592
+            "attack": 710,
+            "defense": 685,
+            "health": 1238,
+            "power": 678
         },
         "cn_skill_info": [
             {
@@ -23235,10 +23235,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_female_druid_costume_glass",
         "star": 3,
-        "power": 441,
-        "attack": 404,
-        "defense": 455,
-        "health": 771,
+        "power": 515,
+        "attack": 477,
+        "defense": 537,
+        "health": 949,
         "effects": [
             "所有盟友獲得 +50% 攻擊，並在每次被擊中後增加 20%，持續 5 回合。",
             "所有自然系盟友反射狀態異常和負面效果疊加，持續 2 回合。（同隊角色、小兵和惡魔施放的狀態效果無法反彈）"
@@ -23250,16 +23250,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 333,
         "lb1": {
-            "attack": 459,
-            "defense": 516,
-            "health": 874,
-            "power": 492
+            "attack": 541,
+            "defense": 609,
+            "health": 1075,
+            "power": 575
         },
         "lb2": {
-            "attack": 567,
-            "defense": 637,
-            "health": 1080,
-            "power": 593
+            "attack": 669,
+            "defense": 752,
+            "health": 1329,
+            "power": 695
         },
         "cn_skill_info": [
             {
@@ -23426,10 +23426,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "goblin_fighter_costume_evil",
         "star": 3,
-        "power": 444,
-        "attack": 481,
-        "defense": 431,
-        "health": 644,
+        "power": 473,
+        "attack": 515,
+        "defense": 461,
+        "health": 709,
         "effects": [
             "對所有敵人造成 125% 傷害。",
             "所有敵人獲得 -24% 法力產出，持續 3 回合。此效果無法淨化。"
@@ -23439,16 +23439,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 336,
         "lb1": {
-            "attack": 545,
-            "defense": 488,
-            "health": 730,
-            "power": 494
+            "attack": 583,
+            "defense": 522,
+            "health": 803,
+            "power": 527
         },
         "lb2": {
-            "attack": 674,
-            "defense": 603,
-            "health": 903,
-            "power": 596
+            "attack": 721,
+            "defense": 645,
+            "health": 993,
+            "power": 636
         },
         "cn_skill_info": [
             {
@@ -23489,10 +23489,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "goblin_fighter_costume_cute",
         "star": 3,
-        "power": 445,
-        "attack": 467,
-        "defense": 448,
-        "health": 653,
+        "power": 506,
+        "attack": 537,
+        "defense": 515,
+        "health": 784,
         "effects": [
             "對所有敵人造成 155% 傷害。",
             "使所有敵人的法力減少 10%。",
@@ -23505,16 +23505,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 337,
         "lb1": {
-            "attack": 529,
-            "defense": 508,
-            "health": 740,
-            "power": 495
+            "attack": 609,
+            "defense": 584,
+            "health": 888,
+            "power": 565
         },
         "lb2": {
-            "attack": 654,
-            "defense": 627,
-            "health": 915,
-            "power": 597
+            "attack": 752,
+            "defense": 722,
+            "health": 1098,
+            "power": 684
         },
         "cn_skill_info": [
             {
@@ -23557,10 +23557,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "goblin_fighter_costume_glass",
         "star": 3,
-        "power": 446,
-        "attack": 530,
-        "defense": 364,
-        "health": 669,
+        "power": 519,
+        "attack": 625,
+        "defense": 430,
+        "health": 823,
         "effects": [
             "對所有敵人造成 165% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -23573,16 +23573,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 338,
         "lb1": {
-            "attack": 600,
-            "defense": 413,
-            "health": 758,
-            "power": 496
+            "attack": 709,
+            "defense": 488,
+            "health": 932,
+            "power": 580
         },
         "lb2": {
-            "attack": 742,
-            "defense": 511,
-            "health": 937,
-            "power": 598
+            "attack": 875,
+            "defense": 603,
+            "health": 1152,
+            "power": 701
         },
         "cn_skill_info": [
             {
@@ -23894,10 +23894,10 @@ window.allHeroes =
         ],
         "heroId": "s5_faiez_costume_miner",
         "star": 3,
-        "power": 484,
-        "attack": 448,
-        "defense": 507,
-        "health": 865,
+        "power": 495,
+        "attack": 457,
+        "defense": 517,
+        "health": 900,
         "effects": [
             "為所有盟友提供 300 點加成生命值。加成生命值能夠超過最大生命值。",
             "所有盟友對新的狀態異常免疫，持續 4 回合。",
@@ -23914,16 +23914,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 343,
         "lb1": {
-            "attack": 508,
-            "defense": 575,
-            "health": 981,
-            "power": 541
+            "attack": 518,
+            "defense": 586,
+            "health": 1020,
+            "power": 553
         },
         "lb2": {
-            "attack": 627,
-            "defense": 710,
-            "health": 1212,
-            "power": 652
+            "attack": 640,
+            "defense": 724,
+            "health": 1260,
+            "power": 668
         },
         "cn_skill_info": [
             {
@@ -24224,10 +24224,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_friar_costume_explorer",
         "star": 3,
-        "power": 446,
-        "attack": 451,
-        "defense": 446,
-        "health": 709,
+        "power": 476,
+        "attack": 483,
+        "defense": 477,
+        "health": 780,
         "effects": [
             "為所有盟友恢復 22% 生命值。",
             "所有盟友獲得 +24% 法力產出，持續 3 回合。"
@@ -24237,16 +24237,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 348,
         "lb1": {
-            "attack": 512,
-            "defense": 506,
-            "health": 803,
-            "power": 498
+            "attack": 548,
+            "defense": 541,
+            "health": 884,
+            "power": 532
         },
         "lb2": {
-            "attack": 632,
-            "defense": 625,
-            "health": 993,
-            "power": 600
+            "attack": 677,
+            "defense": 669,
+            "health": 1092,
+            "power": 642
         },
         "cn_skill_info": [
             {
@@ -24286,10 +24286,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_friar_costume_cute",
         "star": 3,
-        "power": 447,
-        "attack": 458,
-        "defense": 453,
-        "health": 681,
+        "power": 509,
+        "attack": 527,
+        "defense": 521,
+        "health": 817,
         "effects": [
             "為施法者和附近盟友恢復 40% 生命值。",
             "施法者和附近盟友獲得 +12% 法力產出，持續 3 回合。對所有自然系角色，此狀態效果變為无法驅散且持續時間延長 2 回合。"
@@ -24301,16 +24301,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 349,
         "lb1": {
-            "attack": 520,
-            "defense": 514,
-            "health": 772,
-            "power": 499
+            "attack": 598,
+            "defense": 591,
+            "health": 926,
+            "power": 569
         },
         "lb2": {
-            "attack": 642,
-            "defense": 635,
-            "health": 954,
-            "power": 601
+            "attack": 738,
+            "defense": 730,
+            "health": 1144,
+            "power": 687
         },
         "cn_skill_info": [
             {
@@ -24352,10 +24352,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_friar_costume_glass",
         "star": 3,
-        "power": 448,
-        "attack": 469,
-        "defense": 448,
-        "health": 669,
+        "power": 521,
+        "attack": 553,
+        "defense": 529,
+        "health": 823,
         "effects": [
             "為施法者和附近盟友恢復 42% 生命值。",
             "施法者和附近盟友獲得 +15% 法力產出，持續 3 回合。",
@@ -24368,16 +24368,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 350,
         "lb1": {
-            "attack": 531,
-            "defense": 508,
-            "health": 758,
-            "power": 499
+            "attack": 627,
+            "defense": 599,
+            "health": 932,
+            "power": 582
         },
         "lb2": {
-            "attack": 657,
-            "defense": 627,
-            "health": 937,
-            "power": 601
+            "attack": 775,
+            "defense": 741,
+            "health": 1152,
+            "power": 705
         },
         "cn_skill_info": [
             {
@@ -24677,10 +24677,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s4_gramps_costume_gardener",
         "star": 3,
-        "power": 478,
-        "attack": 450,
-        "defense": 505,
-        "health": 818,
+        "power": 488,
+        "attack": 459,
+        "defense": 515,
+        "health": 851,
         "effects": [
             "每名陣亡的盟友有 33% 的機率以 23% 的生命值復活。",
             "所有盟友在 4 回合內恢復 324 點生命值。"
@@ -24692,16 +24692,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 355,
         "lb1": {
-            "attack": 510,
-            "defense": 573,
-            "health": 927,
-            "power": 533
+            "attack": 520,
+            "defense": 584,
+            "health": 964,
+            "power": 545
         },
         "lb2": {
-            "attack": 630,
-            "defense": 708,
-            "health": 1146,
-            "power": 644
+            "attack": 643,
+            "defense": 722,
+            "health": 1192,
+            "power": 659
         },
         "cn_skill_info": [
             {
@@ -24915,10 +24915,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "lizardman_warrior_costume_dinosaur",
         "star": 3,
-        "power": 446,
-        "attack": 455,
-        "defense": 373,
-        "health": 844,
+        "power": 477,
+        "attack": 487,
+        "defense": 399,
+        "health": 929,
         "effects": [
             "對目標造成 185% 傷害，並對附近敵人造成輕微傷害。",
             "目標與附近敵人獲得 -44% 防禦，持續 4 回合。"
@@ -24928,16 +24928,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 359,
         "lb1": {
-            "attack": 516,
-            "defense": 423,
-            "health": 957,
-            "power": 498
+            "attack": 552,
+            "defense": 453,
+            "health": 1053,
+            "power": 532
         },
         "lb2": {
-            "attack": 637,
-            "defense": 523,
-            "health": 1182,
-            "power": 599
+            "attack": 682,
+            "defense": 559,
+            "health": 1301,
+            "power": 642
         },
         "cn_skill_info": [
             {
@@ -24976,10 +24976,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "lizardman_warrior_costume_cute",
         "star": 3,
-        "power": 447,
-        "attack": 420,
-        "defense": 406,
-        "health": 869,
+        "power": 510,
+        "attack": 483,
+        "defense": 467,
+        "health": 1042,
         "effects": [
             "對目標造成 290% 傷害，並對附近敵人造成輕微傷害。",
             "對冰雪系造成額外傷害。"
@@ -24991,16 +24991,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 360,
         "lb1": {
-            "attack": 476,
-            "defense": 460,
-            "health": 985,
-            "power": 498
+            "attack": 548,
+            "defense": 530,
+            "health": 1182,
+            "power": 570
         },
         "lb2": {
-            "attack": 589,
-            "defense": 569,
-            "health": 1217,
-            "power": 600
+            "attack": 677,
+            "defense": 654,
+            "health": 1460,
+            "power": 689
         },
         "cn_skill_info": [
             {
@@ -25040,10 +25040,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "lizardman_warrior_costume_glass",
         "star": 3,
-        "power": 448,
-        "attack": 429,
-        "defense": 403,
-        "health": 863,
+        "power": 523,
+        "attack": 506,
+        "defense": 475,
+        "health": 1062,
         "effects": [
             "對目標造成 300% 傷害，並對附近敵人造成輕微傷害。",
             "攻擊會無視防禦增益。（包含反擊）"
@@ -25055,16 +25055,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 361,
         "lb1": {
-            "attack": 486,
-            "defense": 457,
-            "health": 979,
-            "power": 500
+            "attack": 574,
+            "defense": 539,
+            "health": 1204,
+            "power": 585
         },
         "lb2": {
-            "attack": 601,
-            "defense": 564,
-            "health": 1209,
-            "power": 602
+            "attack": 709,
+            "defense": 666,
+            "health": 1487,
+            "power": 707
         },
         "cn_skill_info": [
             {
@@ -25359,10 +25359,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_merman_costume_leutenant",
         "star": 3,
-        "power": 448,
-        "attack": 486,
-        "defense": 425,
-        "health": 676,
+        "power": 463,
+        "attack": 501,
+        "defense": 438,
+        "health": 716,
         "effects": [
             "對目標造成 320% 傷害。",
             "淨化所有盟友的狀態異常。"
@@ -25372,16 +25372,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 366,
         "lb1": {
-            "attack": 551,
-            "defense": 482,
-            "health": 766,
-            "power": 500
+            "attack": 568,
+            "defense": 497,
+            "health": 812,
+            "power": 516
         },
         "lb2": {
-            "attack": 681,
-            "defense": 596,
-            "health": 946,
-            "power": 602
+            "attack": 701,
+            "defense": 614,
+            "health": 1003,
+            "power": 622
         },
         "cn_skill_info": [
             {
@@ -26236,10 +26236,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_almur_costume_lord",
         "star": 4,
-        "power": 662,
-        "attack": 648,
-        "defense": 616,
-        "health": 1272,
+        "power": 684,
+        "attack": 667,
+        "defense": 634,
+        "health": 1349,
         "effects": [
             "對目標造成 290% 傷害。",
             "使目標的法力減少 20%。",
@@ -26250,16 +26250,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 379,
         "lb1": {
-            "attack": 704,
-            "defense": 669,
-            "health": 1383,
-            "power": 712
+            "attack": 725,
+            "defense": 689,
+            "health": 1466,
+            "power": 736
         },
         "lb2": {
-            "attack": 816,
-            "defense": 776,
-            "health": 1603,
-            "power": 812
+            "attack": 840,
+            "defense": 799,
+            "health": 1699,
+            "power": 840
         },
         "cn_skill_info": [
             {
@@ -26600,10 +26600,10 @@ window.allHeroes =
         ],
         "heroId": "christmas_elf_costume_gift_bookkeper",
         "star": 4,
-        "power": 650,
-        "attack": 535,
-        "defense": 684,
-        "health": 1332,
+        "power": 791,
+        "attack": 669,
+        "defense": 855,
+        "health": 1665,
         "effects": [
             "對目標及附近敵人造成 220% 傷害。",
             "為施法者與附近盟友召喚一個精靈小兵，其可從施法者繼承 10% 生命和 10% 攻擊。",
@@ -26618,16 +26618,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 384,
         "lb1": {
-            "attack": 581,
-            "defense": 743,
-            "health": 1447,
-            "power": 698
+            "attack": 727,
+            "defense": 929,
+            "health": 1809,
+            "power": 852
         },
         "lb2": {
-            "attack": 674,
-            "defense": 861,
-            "health": 1678,
-            "power": 796
+            "attack": 843,
+            "defense": 1077,
+            "health": 2098,
+            "power": 975
         },
         "cn_skill_info": [
             {
@@ -26731,10 +26731,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elven_captain_costume_mask",
         "star": 4,
-        "power": 643,
-        "attack": 639,
-        "defense": 633,
-        "health": 1124,
+        "power": 688,
+        "attack": 684,
+        "defense": 677,
+        "health": 1247,
         "effects": [
             "對目標造成 345% 傷害。",
             "淨化所有盟友的狀態異常。"
@@ -26744,16 +26744,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 386,
         "lb1": {
-            "attack": 695,
-            "defense": 688,
-            "health": 1221,
-            "power": 691
+            "attack": 743,
+            "defense": 736,
+            "health": 1355,
+            "power": 740
         },
         "lb2": {
-            "attack": 805,
-            "defense": 797,
-            "health": 1416,
-            "power": 788
+            "attack": 862,
+            "defense": 853,
+            "health": 1571,
+            "power": 845
         },
         "cn_skill_info": [
             {
@@ -26792,10 +26792,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elven_captain_costume_cavalier",
         "star": 4,
-        "power": 643,
-        "attack": 648,
-        "defense": 626,
-        "health": 1117,
+        "power": 735,
+        "attack": 745,
+        "defense": 720,
+        "health": 1341,
         "effects": [
             "對目標及附近敵人造成 275% 傷害。",
             "目標和附近敵人在 3 回合內無法獲得新的狀態效果增益。",
@@ -26806,16 +26806,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 387,
         "lb1": {
-            "attack": 704,
-            "defense": 681,
-            "health": 1214,
-            "power": 692
+            "attack": 809,
+            "defense": 783,
+            "health": 1457,
+            "power": 791
         },
         "lb2": {
-            "attack": 816,
-            "defense": 789,
-            "health": 1408,
-            "power": 788
+            "attack": 938,
+            "defense": 908,
+            "health": 1689,
+            "power": 904
         },
         "cn_skill_info": [
             {
@@ -26861,10 +26861,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elven_captain_costume_cute",
         "star": 4,
-        "power": 644,
-        "attack": 650,
-        "defense": 635,
-        "health": 1102,
+        "power": 747,
+        "attack": 760,
+        "defense": 743,
+        "health": 1345,
         "effects": [
             "對目標造成 350% 傷害。",
             "對冰雪系造成額外傷害。",
@@ -26877,16 +26877,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 388,
         "lb1": {
-            "attack": 706,
-            "defense": 690,
-            "health": 1198,
-            "power": 693
+            "attack": 826,
+            "defense": 807,
+            "health": 1462,
+            "power": 804
         },
         "lb2": {
-            "attack": 819,
-            "defense": 800,
-            "health": 1389,
-            "power": 790
+            "attack": 958,
+            "defense": 936,
+            "health": 1695,
+            "power": 919
         },
         "cn_skill_info": [
             {
@@ -26934,10 +26934,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elven_captain_costume_glass",
         "star": 4,
-        "power": 645,
-        "attack": 652,
-        "defense": 633,
-        "health": 1107,
+        "power": 759,
+        "attack": 776,
+        "defense": 753,
+        "health": 1372,
         "effects": [
             "對目標造成 360% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -26951,16 +26951,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 389,
         "lb1": {
-            "attack": 708,
-            "defense": 688,
-            "health": 1202,
-            "power": 693
+            "attack": 843,
+            "defense": 818,
+            "health": 1491,
+            "power": 817
         },
         "lb2": {
-            "attack": 821,
-            "defense": 797,
-            "health": 1394,
-            "power": 790
+            "attack": 977,
+            "defense": 949,
+            "health": 1729,
+            "power": 934
         },
         "cn_skill_info": [
             {
@@ -27203,10 +27203,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_atlantean_robot_costume_sentinel",
         "star": 4,
-        "power": 647,
-        "attack": 595,
-        "defense": 701,
-        "health": 1128,
+        "power": 668,
+        "attack": 612,
+        "defense": 722,
+        "health": 1196,
         "effects": [
             "對所有敵人造成 130% 傷害。",
             "所有盟友獲得 +48% 攻擊力，持續 4 回合。",
@@ -27217,16 +27217,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 393,
         "lb1": {
-            "attack": 646,
-            "defense": 761,
-            "health": 1226,
-            "power": 695
+            "attack": 665,
+            "defense": 784,
+            "health": 1299,
+            "power": 719
         },
         "lb2": {
-            "attack": 749,
-            "defense": 883,
-            "health": 1421,
-            "power": 793
+            "attack": 772,
+            "defense": 909,
+            "health": 1506,
+            "power": 820
         },
         "cn_skill_info": [
             {
@@ -27330,10 +27330,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_chameleon_chief_costume_heavyweight",
         "star": 4,
-        "power": 651,
-        "attack": 569,
-        "defense": 641,
-        "health": 1340,
+        "power": 674,
+        "attack": 586,
+        "defense": 661,
+        "health": 1421,
         "effects": [
             "從目標竊取小兵。",
             "對目標造成 310% 傷害。",
@@ -27344,16 +27344,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 395,
         "lb1": {
-            "attack": 618,
-            "defense": 697,
-            "health": 1456,
-            "power": 700
+            "attack": 637,
+            "defense": 718,
+            "health": 1544,
+            "power": 725
         },
         "lb2": {
-            "attack": 717,
-            "defense": 808,
-            "health": 1689,
-            "power": 798
+            "attack": 738,
+            "defense": 832,
+            "health": 1790,
+            "power": 826
         },
         "cn_skill_info": [
             {
@@ -27468,10 +27468,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "fables_hansel_costume_vampire_hunter",
         "star": 4,
-        "power": 647,
-        "attack": 639,
-        "defense": 675,
-        "health": 1071,
+        "power": 683,
+        "attack": 671,
+        "defense": 709,
+        "health": 1178,
         "effects": [
             "對目標造成 209% 傷害。",
             "目標法力滿格時，自動對目標造成 341 點傷害並使其法力減少 50%，持續 3 回合。",
@@ -27482,16 +27482,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 397,
         "lb1": {
-            "attack": 695,
-            "defense": 734,
-            "health": 1163,
-            "power": 696
+            "attack": 729,
+            "defense": 770,
+            "health": 1280,
+            "power": 734
         },
         "lb2": {
-            "attack": 805,
-            "defense": 851,
-            "health": 1349,
-            "power": 793
+            "attack": 846,
+            "defense": 893,
+            "health": 1484,
+            "power": 838
         },
         "cn_skill_info": [
             {
@@ -27593,10 +27593,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "rabbit_green_costume_egg_hunter",
         "star": 4,
-        "power": 648,
-        "attack": 688,
-        "defense": 633,
-        "health": 1039,
+        "power": 669,
+        "attack": 709,
+        "defense": 652,
+        "health": 1101,
         "effects": [
             "對目標造成 230% 傷害。",
             "當任何敵人遭到攻擊命中時，鄰近的所有敵人都會受到連鎖攻擊。",
@@ -27607,16 +27607,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 399,
         "lb1": {
-            "attack": 748,
-            "defense": 688,
-            "health": 1129,
-            "power": 697
+            "attack": 770,
+            "defense": 708,
+            "health": 1196,
+            "power": 720
         },
         "lb2": {
-            "attack": 867,
-            "defense": 797,
-            "health": 1309,
-            "power": 794
+            "attack": 893,
+            "defense": 821,
+            "health": 1387,
+            "power": 821
         },
         "cn_skill_info": [
             {
@@ -27846,10 +27846,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "lizardman_trapper_costume_shaman",
         "star": 4,
-        "power": 643,
-        "attack": 558,
-        "defense": 658,
-        "health": 1281,
+        "power": 690,
+        "attack": 597,
+        "defense": 704,
+        "health": 1422,
         "effects": [
             "為施法者和附近盟友提供 450 點加成生命值。加成生命值能夠超過最大生命值。",
             "施法者和附近盟友獲得對烈火系 +64% 的防禦，持續 3 回合。"
@@ -27859,16 +27859,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 403,
         "lb1": {
-            "attack": 607,
-            "defense": 715,
-            "health": 1392,
-            "power": 692
+            "attack": 649,
+            "defense": 765,
+            "health": 1545,
+            "power": 742
         },
         "lb2": {
-            "attack": 704,
-            "defense": 829,
-            "health": 1614,
-            "power": 789
+            "attack": 753,
+            "defense": 887,
+            "health": 1791,
+            "power": 847
         },
         "cn_skill_info": [
             {
@@ -27906,10 +27906,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "lizardman_trapper_costume_fisher",
         "star": 4,
-        "power": 643,
-        "attack": 520,
-        "defense": 665,
-        "health": 1360,
+        "power": 736,
+        "attack": 598,
+        "defense": 764,
+        "health": 1632,
         "effects": [
             "施法者和附近盟友在 3 回合內恢復 459 點生命值。",
             "施法者和附近盟友獲得 +54% 特殊技能防禦，持續 3 回合。"
@@ -27919,16 +27919,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 404,
         "lb1": {
-            "attack": 565,
-            "defense": 722,
-            "health": 1477,
-            "power": 691
+            "attack": 650,
+            "defense": 831,
+            "health": 1773,
+            "power": 793
         },
         "lb2": {
-            "attack": 655,
-            "defense": 837,
-            "health": 1713,
-            "power": 788
+            "attack": 754,
+            "defense": 963,
+            "health": 2055,
+            "power": 906
         },
         "cn_skill_info": [
             {
@@ -27968,10 +27968,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "lizardman_trapper_costume_cute",
         "star": 4,
-        "power": 644,
-        "attack": 582,
-        "defense": 590,
-        "health": 1360,
+        "power": 749,
+        "attack": 681,
+        "defense": 691,
+        "health": 1659,
         "effects": [
             "為施法者和附近盟友恢復 48% 生命值。",
             "施法者和附近盟友獲得對烈火系 +84% 的防禦，持續 3 回合。對所有自然系角色，此狀態效果變為无法驅散且持續時間延長 2 回合。"
@@ -27983,16 +27983,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 405,
         "lb1": {
-            "attack": 632,
-            "defense": 641,
-            "health": 1477,
-            "power": 692
+            "attack": 740,
+            "defense": 751,
+            "health": 1802,
+            "power": 806
         },
         "lb2": {
-            "attack": 733,
-            "defense": 744,
-            "health": 1713,
-            "power": 789
+            "attack": 858,
+            "defense": 870,
+            "health": 2090,
+            "power": 921
         },
         "cn_skill_info": [
             {
@@ -28034,10 +28034,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "lizardman_trapper_costume_glass",
         "star": 4,
-        "power": 645,
-        "attack": 620,
-        "defense": 569,
-        "health": 1317,
+        "power": 761,
+        "attack": 738,
+        "defense": 677,
+        "health": 1633,
         "effects": [
             "為施法者和附近盟友恢復 49% 生命值。",
             "所有自然系盟友反射狀態異常和負面效果疊加，持續 2 回合。（同隊角色、小兵和惡魔施放的狀態效果無法反彈）",
@@ -28050,16 +28050,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 406,
         "lb1": {
-            "attack": 674,
-            "defense": 618,
-            "health": 1431,
-            "power": 694
+            "attack": 802,
+            "defense": 736,
+            "health": 1775,
+            "power": 820
         },
         "lb2": {
-            "attack": 781,
-            "defense": 717,
-            "health": 1659,
-            "power": 791
+            "attack": 930,
+            "defense": 853,
+            "health": 2058,
+            "power": 937
         },
         "cn_skill_info": [
             {
@@ -28234,10 +28234,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_woodsman_warrior_costume_camouflage",
         "star": 4,
-        "power": 641,
-        "attack": 720,
-        "defense": 595,
-        "health": 988,
+        "power": 686,
+        "attack": 770,
+        "defense": 636,
+        "health": 1096,
         "effects": [
             "對所有敵人造成 185% 傷害。",
             "施法者與附近盟友有 +30% 至 +70% 的機率躲避可造成傷害的特殊技能。特殊技能的傷害越高，閃避的機率也越高。每次閃避可為目標提供 +24% 法力。此效果持續 4 回合。"
@@ -28247,16 +28247,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 409,
         "lb1": {
-            "attack": 782,
-            "defense": 646,
-            "health": 1073,
-            "power": 689
+            "attack": 837,
+            "defense": 691,
+            "health": 1191,
+            "power": 738
         },
         "lb2": {
-            "attack": 907,
-            "defense": 749,
-            "health": 1244,
-            "power": 786
+            "attack": 971,
+            "defense": 802,
+            "health": 1381,
+            "power": 842
         },
         "cn_skill_info": [
             {
@@ -28295,10 +28295,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_woodsman_warrior_costume_highlander",
         "star": 4,
-        "power": 641,
-        "attack": 731,
-        "defense": 554,
-        "health": 1043,
+        "power": 732,
+        "attack": 840,
+        "defense": 637,
+        "health": 1252,
         "effects": [
             "對所有敵人造成 185% 傷害。",
             "所有盟友獲得 +33% 法力產出，持續 3 回合。"
@@ -28308,16 +28308,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 410,
         "lb1": {
-            "attack": 794,
-            "defense": 602,
-            "health": 1133,
-            "power": 690
+            "attack": 913,
+            "defense": 693,
+            "health": 1360,
+            "power": 788
         },
         "lb2": {
-            "attack": 920,
-            "defense": 698,
-            "health": 1314,
-            "power": 786
+            "attack": 1059,
+            "defense": 803,
+            "health": 1577,
+            "power": 901
         },
         "cn_skill_info": [
             {
@@ -28358,10 +28358,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_woodsman_warrior_costume_cute",
         "star": 4,
-        "power": 642,
-        "attack": 720,
-        "defense": 595,
-        "health": 994,
+        "power": 744,
+        "attack": 842,
+        "defense": 696,
+        "health": 1213,
         "effects": [
             "對所有敵人造成 215% 傷害。",
             "所有敵人獲得 -54% 法力產出，持續 3 回合。",
@@ -28374,16 +28374,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 411,
         "lb1": {
-            "attack": 782,
-            "defense": 646,
-            "health": 1080,
-            "power": 690
+            "attack": 915,
+            "defense": 756,
+            "health": 1318,
+            "power": 801
         },
         "lb2": {
-            "attack": 907,
-            "defense": 749,
-            "health": 1252,
-            "power": 787
+            "attack": 1061,
+            "defense": 876,
+            "health": 1528,
+            "power": 915
         },
         "cn_skill_info": [
             {
@@ -28430,10 +28430,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_woodsman_warrior_costume_glass",
         "star": 4,
-        "power": 643,
-        "attack": 724,
-        "defense": 592,
-        "health": 998,
+        "power": 757,
+        "attack": 862,
+        "defense": 705,
+        "health": 1238,
         "effects": [
             "對所有敵人造成 225% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -28446,16 +28446,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 412,
         "lb1": {
-            "attack": 787,
-            "defense": 644,
-            "health": 1085,
-            "power": 692
+            "attack": 936,
+            "defense": 766,
+            "health": 1345,
+            "power": 815
         },
         "lb2": {
-            "attack": 912,
-            "defense": 746,
-            "health": 1258,
-            "power": 789
+            "attack": 1086,
+            "defense": 888,
+            "health": 1560,
+            "power": 932
         },
         "cn_skill_info": [
             {
@@ -28627,10 +28627,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_mage_costume_white",
         "star": 4,
-        "power": 639,
-        "attack": 665,
-        "defense": 624,
-        "health": 1047,
+        "power": 683,
+        "attack": 711,
+        "defense": 668,
+        "health": 1162,
         "effects": [
             "所有盟友在 3 回合內恢復 609 點生命值。",
             "所有盟友獲得 +46% 防禦，持續 3 回合。",
@@ -28641,16 +28641,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 415,
         "lb1": {
-            "attack": 722,
-            "defense": 678,
-            "health": 1138,
-            "power": 686
+            "attack": 773,
+            "defense": 726,
+            "health": 1263,
+            "power": 735
         },
         "lb2": {
-            "attack": 837,
-            "defense": 787,
-            "health": 1319,
-            "power": 782
+            "attack": 896,
+            "defense": 842,
+            "health": 1464,
+            "power": 839
         },
         "cn_skill_info": [
             {
@@ -28691,10 +28691,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_mage_costume_party",
         "star": 4,
-        "power": 639,
-        "attack": 595,
-        "defense": 722,
-        "health": 1026,
+        "power": 729,
+        "attack": 684,
+        "defense": 830,
+        "health": 1231,
         "effects": [
             "所有盟友在 3 回合內恢復 609 點生命值。",
             "所有盟友獲得 +50% 攻擊力，持續 3 回合。",
@@ -28705,16 +28705,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 416,
         "lb1": {
-            "attack": 646,
-            "defense": 785,
-            "health": 1115,
-            "power": 687
+            "attack": 743,
+            "defense": 902,
+            "health": 1338,
+            "power": 784
         },
         "lb2": {
-            "attack": 749,
-            "defense": 910,
-            "health": 1292,
-            "power": 782
+            "attack": 861,
+            "defense": 1046,
+            "health": 1551,
+            "power": 896
         },
         "cn_skill_info": [
             {
@@ -28757,10 +28757,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_mage_costume_cute",
         "star": 4,
-        "power": 640,
-        "attack": 684,
-        "defense": 622,
-        "health": 1011,
+        "power": 741,
+        "attack": 800,
+        "defense": 728,
+        "health": 1234,
         "effects": [
             "為所有盟友恢復 45% 生命值。",
             "所有盟友獲得 34% 防禦，持續 3 回合。對所有自然系角色，此狀態效果變為无法驅散且持續時間延長 2 回合。",
@@ -28773,16 +28773,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 417,
         "lb1": {
-            "attack": 743,
-            "defense": 676,
-            "health": 1099,
-            "power": 688
+            "attack": 869,
+            "defense": 791,
+            "health": 1340,
+            "power": 798
         },
         "lb2": {
-            "attack": 861,
-            "defense": 784,
-            "health": 1274,
-            "power": 784
+            "attack": 1008,
+            "defense": 917,
+            "health": 1554,
+            "power": 912
         },
         "cn_skill_info": [
             {
@@ -28826,10 +28826,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_mage_costume_glass",
         "star": 4,
-        "power": 641,
-        "attack": 682,
-        "defense": 624,
-        "health": 1020,
+        "power": 753,
+        "attack": 811,
+        "defense": 743,
+        "health": 1264,
         "effects": [
             "為所有盟友恢復 46% 生命值。",
             "所有自然系盟友反射狀態異常和負面效果疊加，持續 2 回合。（同隊角色、小兵和惡魔施放的狀態效果無法反彈）",
@@ -28842,16 +28842,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 418,
         "lb1": {
-            "attack": 741,
-            "defense": 678,
-            "health": 1108,
-            "power": 689
+            "attack": 882,
+            "defense": 807,
+            "health": 1374,
+            "power": 812
         },
         "lb2": {
-            "attack": 859,
-            "defense": 787,
-            "health": 1284,
-            "power": 785
+            "attack": 1022,
+            "defense": 936,
+            "health": 1593,
+            "power": 927
         },
         "cn_skill_info": [
             {
@@ -28963,10 +28963,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "kalevala_mielikki_costume_bear_protector",
         "star": 4,
-        "power": 682,
-        "attack": 592,
-        "defense": 654,
-        "health": 1483,
+        "power": 707,
+        "attack": 610,
+        "defense": 674,
+        "health": 1572,
         "effects": [
             "為所有盟友召喚一個森林妖精小兵，其可從施法者繼承 18% 生命值與 8% 攻擊力。",
             "召喚森林妖精小兵之後，主人擁有森林妖精小兵期間，森林妖精小兵會給予其主人 +24% 法力產出。此效果無法被驅散。",
@@ -28979,16 +28979,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 420,
         "lb1": {
-            "attack": 644,
-            "defense": 711,
-            "health": 1611,
-            "power": 735
+            "attack": 663,
+            "defense": 732,
+            "health": 1708,
+            "power": 761
         },
         "lb2": {
-            "attack": 746,
-            "defense": 824,
-            "health": 1868,
-            "power": 838
+            "attack": 769,
+            "defense": 849,
+            "health": 1980,
+            "power": 869
         },
         "cn_skill_info": [
             {
@@ -29121,10 +29121,10 @@ window.allHeroes =
         ],
         "heroId": "tales1_mulgog_costume_bard",
         "star": 4,
-        "power": 689,
-        "attack": 654,
-        "defense": 716,
-        "health": 1249,
+        "power": 704,
+        "attack": 667,
+        "defense": 730,
+        "health": 1299,
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
@@ -29145,16 +29145,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 422,
         "lb1": {
-            "attack": 711,
-            "defense": 778,
-            "health": 1357,
-            "power": 741
+            "attack": 725,
+            "defense": 793,
+            "health": 1411,
+            "power": 758
         },
         "lb2": {
-            "attack": 824,
-            "defense": 902,
-            "health": 1574,
-            "power": 846
+            "attack": 841,
+            "defense": 920,
+            "health": 1637,
+            "power": 866
         },
         "cn_skill_info": [
             {
@@ -29490,10 +29490,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "pirate_cabin_boy_costume_paper",
         "star": 4,
-        "power": 645,
-        "attack": 643,
-        "defense": 680,
-        "health": 1039,
+        "power": 681,
+        "attack": 676,
+        "defense": 714,
+        "health": 1143,
         "effects": [
             "對目標造成 320% 傷害。",
             "目標陷入沉默，持續 3 回合。",
@@ -29504,16 +29504,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 427,
         "lb1": {
-            "attack": 699,
-            "defense": 738,
-            "health": 1129,
-            "power": 694
+            "attack": 734,
+            "defense": 775,
+            "health": 1242,
+            "power": 732
         },
         "lb2": {
-            "attack": 811,
-            "defense": 856,
-            "health": 1309,
-            "power": 791
+            "attack": 851,
+            "defense": 899,
+            "health": 1439,
+            "power": 836
         },
         "cn_skill_info": [
             {
@@ -29627,10 +29627,10 @@ window.allHeroes =
         ],
         "heroId": "s5_ptolemy_costume_log",
         "star": 4,
-        "power": 683,
-        "attack": 565,
-        "defense": 707,
-        "health": 1451,
+        "power": 699,
+        "attack": 576,
+        "defense": 721,
+        "health": 1509,
         "effects": [
             "為所有盟友恢復 35% 生命值。",
             "施法者和附近盟友對新的狀態異常免疫，持續 3 回合，且每當有狀態異常嘗試施加於其上，他們都將恢復 100 點生命值。"
@@ -29646,16 +29646,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 429,
         "lb1": {
-            "attack": 614,
-            "defense": 768,
-            "health": 1577,
-            "power": 735
+            "attack": 626,
+            "defense": 784,
+            "health": 1640,
+            "power": 753
         },
         "lb2": {
-            "attack": 712,
-            "defense": 891,
-            "health": 1828,
-            "power": 839
+            "attack": 726,
+            "defense": 909,
+            "health": 1901,
+            "power": 859
         },
         "cn_skill_info": [
             {
@@ -29820,10 +29820,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "goblin_mage_costume_candy",
         "star": 4,
-        "power": 644,
-        "attack": 741,
-        "defense": 601,
-        "health": 941,
+        "power": 688,
+        "attack": 793,
+        "defense": 643,
+        "health": 1044,
         "effects": [
             "對所有敵人造成 175% 傷害。",
             "所有敵人獲得 -39% 攻擊力，持續 6 回合。"
@@ -29833,16 +29833,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 432,
         "lb1": {
-            "attack": 805,
-            "defense": 653,
-            "health": 1022,
-            "power": 692
+            "attack": 862,
+            "defense": 699,
+            "health": 1135,
+            "power": 741
         },
         "lb2": {
-            "attack": 934,
-            "defense": 757,
-            "health": 1185,
-            "power": 789
+            "attack": 999,
+            "defense": 810,
+            "health": 1316,
+            "power": 845
         },
         "cn_skill_info": [
             {
@@ -29880,10 +29880,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "goblin_mage_costume_toad",
         "star": 4,
-        "power": 644,
-        "attack": 720,
-        "defense": 618,
-        "health": 962,
+        "power": 735,
+        "attack": 828,
+        "defense": 711,
+        "health": 1155,
         "effects": [
             "對所有敵人造成 195% 傷害。",
             "所有敵人獲得 -34% 防禦，持續 6 回合。"
@@ -29893,16 +29893,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 433,
         "lb1": {
-            "attack": 782,
-            "defense": 671,
-            "health": 1045,
-            "power": 692
+            "attack": 900,
+            "defense": 772,
+            "health": 1255,
+            "power": 791
         },
         "lb2": {
-            "attack": 907,
-            "defense": 779,
-            "health": 1212,
-            "power": 790
+            "attack": 1043,
+            "defense": 895,
+            "health": 1455,
+            "power": 904
         },
         "cn_skill_info": [
             {
@@ -29943,10 +29943,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "goblin_mage_costume_cute",
         "star": 4,
-        "power": 645,
-        "attack": 722,
-        "defense": 603,
-        "health": 990,
+        "power": 747,
+        "attack": 845,
+        "defense": 706,
+        "health": 1208,
         "effects": [
             "對所有敵人造成 215% 傷害。",
             "所有敵人獲得 -24% 攻擊力，持續 6 回合。",
@@ -29959,16 +29959,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 434,
         "lb1": {
-            "attack": 785,
-            "defense": 655,
-            "health": 1075,
-            "power": 693
+            "attack": 918,
+            "defense": 767,
+            "health": 1312,
+            "power": 804
         },
         "lb2": {
-            "attack": 910,
-            "defense": 760,
-            "health": 1247,
-            "power": 790
+            "attack": 1064,
+            "defense": 889,
+            "health": 1521,
+            "power": 919
         },
         "cn_skill_info": [
             {
@@ -30015,10 +30015,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "goblin_mage_costume_glass",
         "star": 4,
-        "power": 646,
-        "attack": 739,
-        "defense": 597,
-        "health": 969,
+        "power": 759,
+        "attack": 880,
+        "defense": 710,
+        "health": 1201,
         "effects": [
             "對所有敵人造成 225% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -30031,16 +30031,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 435,
         "lb1": {
-            "attack": 803,
-            "defense": 648,
-            "health": 1052,
-            "power": 694
+            "attack": 956,
+            "defense": 772,
+            "health": 1305,
+            "power": 818
         },
         "lb2": {
-            "attack": 931,
-            "defense": 752,
-            "health": 1220,
-            "power": 792
+            "attack": 1108,
+            "defense": 895,
+            "health": 1513,
+            "power": 935
         },
         "cn_skill_info": [
             {
@@ -30228,10 +30228,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s4_tettukh_costume_cheerleader",
         "star": 4,
-        "power": 677,
-        "attack": 724,
-        "defense": 643,
-        "health": 1139,
+        "power": 693,
+        "attack": 739,
+        "defense": 656,
+        "health": 1184,
         "effects": [
             "對目標造成 280% 傷害。",
             "目標陷入沉默，持續 4 回合。",
@@ -30244,16 +30244,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 438,
         "lb1": {
-            "attack": 787,
-            "defense": 699,
-            "health": 1237,
-            "power": 729
+            "attack": 803,
+            "defense": 713,
+            "health": 1287,
+            "power": 745
         },
         "lb2": {
-            "attack": 912,
-            "defense": 811,
-            "health": 1434,
-            "power": 832
+            "attack": 931,
+            "defense": 827,
+            "health": 1492,
+            "power": 851
         },
         "cn_skill_info": [
             {
@@ -30373,10 +30373,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "musketeer_villiers_costume_jester",
         "star": 4,
-        "power": 687,
-        "attack": 703,
-        "defense": 675,
-        "health": 1196,
+        "power": 786,
+        "attack": 808,
+        "defense": 777,
+        "health": 1435,
         "effects": [
             "對目標及附近敵人造成 200% 傷害。",
             "對目標與附近敵人召喚間諜惡魔。惡魔每回合以 45% 的攻擊力對敵人造成傷害。",
@@ -30392,16 +30392,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 440,
         "lb1": {
-            "attack": 764,
-            "defense": 734,
-            "health": 1299,
-            "power": 739
+            "attack": 878,
+            "defense": 844,
+            "health": 1559,
+            "power": 846
         },
         "lb2": {
-            "attack": 886,
-            "defense": 851,
-            "health": 1507,
-            "power": 844
+            "attack": 1019,
+            "defense": 978,
+            "health": 1808,
+            "power": 968
         },
         "cn_skill_info": [
             {
@@ -30575,10 +30575,10 @@ window.allHeroes =
         ],
         "heroId": "s5_ahmose_costume_reborn",
         "star": 5,
-        "power": 866,
-        "attack": 805,
-        "defense": 844,
-        "health": 1598,
+        "power": 1211,
+        "attack": 1167,
+        "defense": 1224,
+        "health": 2397,
         "effects": [
             "對所有敵人造成 410% 傷害。",
             "所有盟友將全部狀態效果和 160% 傷害反射給進攻者，並抵擋其它來自敵人烈火特殊技能的負面效果，持續 3 回合。此效果無法驅散。（同隊角色、小兵和惡魔施放的狀態效果無法反彈）"
@@ -30594,16 +30594,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 443,
         "lb1": {
-            "attack": 868,
-            "defense": 910,
-            "health": 1722,
-            "power": 924
+            "attack": 1258,
+            "defense": 1319,
+            "health": 2584,
+            "power": 1296
         },
         "lb2": {
-            "attack": 993,
-            "defense": 1041,
-            "health": 1971,
-            "power": 1039
+            "attack": 1440,
+            "defense": 1510,
+            "health": 2956,
+            "power": 1465
         },
         "cn_skill_info": [
             {
@@ -30714,10 +30714,10 @@ window.allHeroes =
         ],
         "heroId": "forest_god_oberon_costume_everoak",
         "star": 5,
-        "power": 765,
-        "attack": 712,
-        "defense": 751,
-        "health": 1291,
+        "power": 971,
+        "attack": 912,
+        "defense": 947,
+        "health": 1872,
         "effects": [
             "每名陣亡的盟友有 38% 的機率以 28% 的生命值復活。",
             "所有盟友在 4 回合內恢復 648 點生命值。",
@@ -30731,16 +30731,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 445,
         "lb1": {
-            "attack": 768,
-            "defense": 810,
-            "health": 1391,
-            "power": 815
+            "attack": 983,
+            "defense": 1020,
+            "health": 2018,
+            "power": 1037
         },
         "lb2": {
-            "attack": 878,
-            "defense": 927,
-            "health": 1592,
-            "power": 914
+            "attack": 1124,
+            "defense": 1168,
+            "health": 2309,
+            "power": 1168
         },
         "cn_skill_info": [
             {
@@ -30925,10 +30925,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "easter_archie_costume_gallant",
         "star": 5,
-        "power": 865,
-        "attack": 871,
-        "defense": 828,
-        "health": 1458,
+        "power": 1030,
+        "attack": 1063,
+        "defense": 993,
+        "health": 1823,
         "effects": [
             "對所有敵人造成 240% 傷害。",
             "所有敵人免疫新狀態效果增益，持續 4 回合，每獲得一個新增益，將會受到 300 傷害。",
@@ -30939,16 +30939,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 448,
         "lb1": {
-            "attack": 939,
-            "defense": 892,
-            "health": 1571,
-            "power": 923
+            "attack": 1145,
+            "defense": 1070,
+            "health": 1964,
+            "power": 1100
         },
         "lb2": {
-            "attack": 1074,
-            "defense": 1021,
-            "health": 1798,
-            "power": 1038
+            "attack": 1310,
+            "defense": 1225,
+            "health": 2247,
+            "power": 1241
         },
         "cn_skill_info": [
             {
@@ -31306,10 +31306,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "musketeer_athos_costume_farrier",
         "star": 5,
-        "power": 866,
-        "attack": 871,
-        "defense": 747,
-        "health": 1623,
+        "power": 1259,
+        "attack": 1333,
+        "defense": 1144,
+        "health": 2483,
         "effects": [
             "摧毀目標的全部小兵。此效果會對超級小兵造成傷害。",
             "對目標造成 480% 傷害。",
@@ -31325,16 +31325,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 453,
         "lb1": {
-            "attack": 939,
-            "defense": 805,
-            "health": 1749,
-            "power": 923
+            "attack": 1436,
+            "defense": 1232,
+            "health": 2676,
+            "power": 1347
         },
         "lb2": {
-            "attack": 1074,
-            "defense": 922,
-            "health": 2001,
-            "power": 1039
+            "attack": 1643,
+            "defense": 1410,
+            "health": 3062,
+            "power": 1523
         },
         "cn_skill_info": [
             {
@@ -31442,10 +31442,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_skyllaros_costume_reef",
         "star": 5,
-        "power": 772,
-        "attack": 733,
-        "defense": 727,
-        "health": 1336,
+        "power": 943,
+        "attack": 916,
+        "defense": 908,
+        "health": 1738,
         "effects": [
             "對所有敵人造成 160% 傷害。",
             "敵人的法力越低，受到的傷害越大，最高可達 310%。",
@@ -31456,16 +31456,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 455,
         "lb1": {
-            "attack": 790,
-            "defense": 783,
-            "health": 1440,
-            "power": 822
+            "attack": 987,
+            "defense": 979,
+            "health": 1873,
+            "power": 1006
         },
         "lb2": {
-            "attack": 904,
-            "defense": 896,
-            "health": 1648,
-            "power": 923
+            "attack": 1130,
+            "defense": 1120,
+            "health": 2142,
+            "power": 1133
         },
         "cn_skill_info": [
             {
@@ -32541,10 +32541,10 @@ window.allHeroes =
         ],
         "heroId": "s4_congalach_costume_kelp",
         "star": 5,
-        "power": 815,
-        "attack": 788,
-        "defense": 772,
-        "health": 1415,
+        "power": 1032,
+        "attack": 1025,
+        "defense": 1004,
+        "health": 1910,
         "effects": [
             "對 5 名隨機敵人造成 325% 傷害。",
             "疊加（最大值： 10 ）：每次擊中時使目標獲得 -8% 攻擊。"
@@ -32557,16 +32557,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 470,
         "lb1": {
-            "attack": 850,
-            "defense": 832,
-            "health": 1525,
-            "power": 868
+            "attack": 1105,
+            "defense": 1082,
+            "health": 2058,
+            "power": 1102
         },
         "lb2": {
-            "attack": 972,
-            "defense": 952,
-            "health": 1744,
-            "power": 975
+            "attack": 1264,
+            "defense": 1238,
+            "health": 2355,
+            "power": 1243
         },
         "cn_skill_info": [
             {
@@ -32760,10 +32760,10 @@ window.allHeroes =
         ],
         "heroId": "magic_cristobal_costume_emerald",
         "star": 5,
-        "power": 813,
-        "attack": 799,
-        "defense": 751,
-        "health": 1419,
+        "power": 1249,
+        "attack": 1302,
+        "defense": 1225,
+        "health": 2327,
         "effects": [
             "特殊技能在法力充能達 100% / 200% 時有不同效果：",
             "1 倍法力充能：",
@@ -32781,16 +32781,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 473,
         "lb1": {
-            "attack": 861,
-            "defense": 810,
-            "health": 1529,
-            "power": 867
+            "attack": 1404,
+            "defense": 1320,
+            "health": 2508,
+            "power": 1337
         },
         "lb2": {
-            "attack": 985,
-            "defense": 927,
-            "health": 1750,
-            "power": 974
+            "attack": 1606,
+            "defense": 1511,
+            "health": 2870,
+            "power": 1511
         },
         "cn_skill_info": [
             {
@@ -33267,10 +33267,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "halloween_edwin_costume_mafia",
         "star": 5,
-        "power": 934,
-        "attack": 937,
-        "defense": 875,
-        "health": 1693,
+        "power": 1242,
+        "attack": 1293,
+        "defense": 1208,
+        "health": 2336,
         "effects": [
             "對所有敵人造成 265% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -33284,16 +33284,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 480,
         "lb1": {
-            "attack": 1010,
-            "defense": 943,
-            "health": 1824,
-            "power": 997
+            "attack": 1393,
+            "defense": 1302,
+            "health": 2518,
+            "power": 1329
         },
         "lb2": {
-            "attack": 1155,
-            "defense": 1079,
-            "health": 2087,
-            "power": 1123
+            "attack": 1594,
+            "defense": 1489,
+            "health": 2881,
+            "power": 1503
         },
         "cn_skill_info": [
             {
@@ -33409,10 +33409,10 @@ window.allHeroes =
         ],
         "heroId": "circus_eiora_and_fluffy_costume_dark",
         "star": 5,
-        "power": 807,
-        "attack": 737,
-        "defense": 795,
-        "health": 1439,
+        "power": 1220,
+        "attack": 1179,
+        "defense": 1272,
+        "health": 2332,
         "effects": [
             "摧毀目標的全部小兵。此效果會對超級小兵造成傷害。",
             "對目標造成 640% 傷害。",
@@ -33425,16 +33425,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 482,
         "lb1": {
-            "attack": 794,
-            "defense": 856,
-            "health": 1551,
-            "power": 859
+            "attack": 1271,
+            "defense": 1371,
+            "health": 2513,
+            "power": 1305
         },
         "lb2": {
-            "attack": 909,
-            "defense": 980,
-            "health": 1775,
-            "power": 966
+            "attack": 1454,
+            "defense": 1568,
+            "health": 2876,
+            "power": 1475
         },
         "cn_skill_info": [
             {
@@ -33625,10 +33625,10 @@ window.allHeroes =
         ],
         "heroId": "s5_el_naddaha_costume_sea",
         "star": 5,
-        "power": 859,
-        "attack": 871,
-        "defense": 782,
-        "health": 1503,
+        "power": 1200,
+        "attack": 1263,
+        "defense": 1135,
+        "health": 2255,
         "effects": [
             "對目標及附近敵人造成 295% 傷害。",
             "目標與附近敵人在 3 回合內免疫新的狀態效果增益，且每次嘗試獲得增益時受到 400 點傷害。"
@@ -33644,16 +33644,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 485,
         "lb1": {
-            "attack": 939,
-            "defense": 843,
-            "health": 1620,
-            "power": 916
+            "attack": 1361,
+            "defense": 1223,
+            "health": 2430,
+            "power": 1283
         },
         "lb2": {
-            "attack": 1074,
-            "defense": 965,
-            "health": 1854,
-            "power": 1030
+            "attack": 1557,
+            "defense": 1399,
+            "health": 2781,
+            "power": 1451
         },
         "cn_skill_info": [
             {
@@ -33751,10 +33751,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_male_elf_costume_dark",
         "star": 5,
-        "power": 758,
-        "attack": 655,
-        "defense": 821,
-        "health": 1246,
+        "power": 853,
+        "attack": 740,
+        "defense": 928,
+        "health": 1495,
         "effects": [
             "對目標及附近敵人造成 280% 傷害。",
             "施法者偷取目標及其附近敵人所獲治療的 61%，持續 3 回合。"
@@ -33764,16 +33764,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 487,
         "lb1": {
-            "attack": 705,
-            "defense": 885,
-            "health": 1343,
-            "power": 807
+            "attack": 797,
+            "defense": 1000,
+            "health": 1611,
+            "power": 909
         },
         "lb2": {
-            "attack": 807,
-            "defense": 1013,
-            "health": 1536,
-            "power": 906
+            "attack": 912,
+            "defense": 1145,
+            "health": 1844,
+            "power": 1022
         },
         "cn_skill_info": [
             {
@@ -33811,10 +33811,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_male_elf_costume_king",
         "star": 5,
-        "power": 758,
-        "attack": 700,
-        "defense": 758,
-        "health": 1262,
+        "power": 969,
+        "attack": 903,
+        "defense": 977,
+        "health": 1818,
         "effects": [
             "對所有敵人造成 230% 傷害。",
             "所有敵人獲得的治療減少 -50%，持續 3 回合。此效果無法淨化。"
@@ -33824,16 +33824,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 488,
         "lb1": {
-            "attack": 754,
-            "defense": 816,
-            "health": 1360,
-            "power": 807
+            "attack": 973,
+            "defense": 1053,
+            "health": 1959,
+            "power": 1034
         },
         "lb2": {
-            "attack": 863,
-            "defense": 934,
-            "health": 1557,
-            "power": 906
+            "attack": 1114,
+            "defense": 1205,
+            "health": 2242,
+            "power": 1166
         },
         "cn_skill_info": [
             {
@@ -33874,10 +33874,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_male_elf_costume_cute",
         "star": 5,
-        "power": 760,
-        "attack": 756,
-        "defense": 698,
-        "health": 1250,
+        "power": 1135,
+        "attack": 1171,
+        "defense": 1082,
+        "health": 2125,
         "effects": [
             "對目標造成 410% 傷害，並對附近敵人造成輕微傷害。",
             "為施法者治療 35% 的傷害。",
@@ -33890,16 +33890,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 489,
         "lb1": {
-            "attack": 814,
-            "defense": 752,
-            "health": 1347,
-            "power": 809
+            "attack": 1262,
+            "defense": 1166,
+            "health": 2290,
+            "power": 1213
         },
         "lb2": {
-            "attack": 932,
-            "defense": 861,
-            "health": 1541,
-            "power": 908
+            "attack": 1444,
+            "defense": 1334,
+            "health": 2621,
+            "power": 1370
         },
         "cn_skill_info": [
             {
@@ -33941,10 +33941,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_male_elf_costume_glass",
         "star": 5,
-        "power": 760,
-        "attack": 758,
-        "defense": 696,
-        "health": 1254,
+        "power": 1242,
+        "attack": 1326,
+        "defense": 1218,
+        "health": 2233,
         "effects": [
             "對目標造成 420% 傷害，並對附近敵人造成輕微傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -33957,16 +33957,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 490,
         "lb1": {
-            "attack": 816,
-            "defense": 750,
-            "health": 1351,
-            "power": 809
+            "attack": 1429,
+            "defense": 1313,
+            "health": 2406,
+            "power": 1329
         },
         "lb2": {
-            "attack": 934,
-            "defense": 858,
-            "health": 1546,
-            "power": 908
+            "attack": 1635,
+            "defense": 1502,
+            "health": 2753,
+            "power": 1503
         },
         "cn_skill_info": [
             {
@@ -34483,10 +34483,10 @@ window.allHeroes =
         ],
         "heroId": "forest_god_evelyn_costume_huntress",
         "star": 5,
-        "power": 768,
-        "attack": 743,
-        "defense": 710,
-        "health": 1320,
+        "power": 976,
+        "attack": 951,
+        "defense": 895,
+        "health": 1914,
         "effects": [
             "對目標及附近敵人造成 310% 傷害。",
             "目標與附近敵人獲得對自然系 -56% 的防禦，持續 4 回合。",
@@ -34500,16 +34500,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 497,
         "lb1": {
-            "attack": 801,
-            "defense": 765,
-            "health": 1423,
-            "power": 818
+            "attack": 1025,
+            "defense": 965,
+            "health": 2063,
+            "power": 1042
         },
         "lb2": {
-            "attack": 916,
-            "defense": 876,
-            "health": 1628,
-            "power": 918
+            "attack": 1173,
+            "defense": 1104,
+            "health": 2360,
+            "power": 1175
         },
         "cn_skill_info": [
             {
@@ -35085,10 +35085,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "halloween_francine_costume_mafia",
         "star": 5,
-        "power": 795,
-        "attack": 786,
-        "defense": 749,
-        "health": 1328,
+        "power": 1140,
+        "attack": 1180,
+        "defense": 1124,
+        "health": 2059,
         "effects": [
             "對目標及附近敵人造成 225% 傷害。",
             "每個回合結束時淨化所有盟友的狀態異常，持續 3 回合。此效果無法驅散。",
@@ -35101,16 +35101,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 505,
         "lb1": {
-            "attack": 848,
-            "defense": 808,
-            "health": 1431,
-            "power": 848
+            "attack": 1272,
+            "defense": 1212,
+            "health": 2219,
+            "power": 1220
         },
         "lb2": {
-            "attack": 970,
-            "defense": 924,
-            "health": 1638,
-            "power": 952
+            "attack": 1455,
+            "defense": 1386,
+            "health": 2539,
+            "power": 1377
         },
         "cn_skill_info": [
             {
@@ -35296,10 +35296,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_frigg_costume_clairvoyance",
         "star": 5,
-        "power": 786,
-        "attack": 758,
-        "defense": 756,
-        "health": 1316,
+        "power": 984,
+        "attack": 970,
+        "defense": 967,
+        "health": 1777,
         "effects": [
             "對所有敵人造成 90% 傷害。",
             "面板上每有一個自然護盾，則造成 18% 額外傷害，最多累積造成 234% 傷害。",
@@ -35310,16 +35310,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 508,
         "lb1": {
-            "attack": 816,
-            "defense": 814,
-            "health": 1418,
-            "power": 837
+            "attack": 1045,
+            "defense": 1042,
+            "health": 1915,
+            "power": 1050
         },
         "lb2": {
-            "attack": 934,
-            "defense": 932,
-            "health": 1623,
-            "power": 940
+            "attack": 1196,
+            "defense": 1193,
+            "health": 2191,
+            "power": 1184
         },
         "cn_skill_info": [
             {
@@ -35675,10 +35675,10 @@ window.allHeroes =
         ],
         "heroId": "tales1_galapago_costume_quarry",
         "star": 5,
-        "power": 934,
-        "attack": 828,
-        "defense": 947,
-        "health": 1821,
+        "power": 1161,
+        "attack": 1059,
+        "defense": 1212,
+        "health": 2330,
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
@@ -35701,16 +35701,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 513,
         "lb1": {
-            "attack": 892,
-            "defense": 1021,
-            "health": 1962,
-            "power": 997
+            "attack": 1142,
+            "defense": 1307,
+            "health": 2511,
+            "power": 1242
         },
         "lb2": {
-            "attack": 1021,
-            "defense": 1168,
-            "health": 2245,
-            "power": 1123
+            "attack": 1306,
+            "defense": 1495,
+            "health": 2874,
+            "power": 1403
         },
         "cn_skill_info": [
             {
@@ -35823,10 +35823,10 @@ window.allHeroes =
         ],
         "heroId": "s4_garjammal_costume_kite",
         "star": 5,
-        "power": 807,
-        "attack": 772,
-        "defense": 782,
-        "health": 1380,
+        "power": 1021,
+        "attack": 1004,
+        "defense": 1017,
+        "health": 1863,
         "effects": [
             "對目標造成 410% 傷害。",
             "施法者在 4 回合內恢復 800 點生命值。如果施法者受到特殊技能的直接傷害，則持續時間會重設。"
@@ -35839,16 +35839,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 515,
         "lb1": {
-            "attack": 832,
-            "defense": 843,
-            "health": 1487,
-            "power": 860
+            "attack": 1082,
+            "defense": 1096,
+            "health": 2007,
+            "power": 1091
         },
         "lb2": {
-            "attack": 952,
-            "defense": 965,
-            "health": 1701,
-            "power": 966
+            "attack": 1238,
+            "defense": 1254,
+            "health": 2297,
+            "power": 1231
         },
         "cn_skill_info": [
             {
@@ -36052,10 +36052,10 @@ window.allHeroes =
         ],
         "heroId": "tales1_gelert_costume_scavenger",
         "star": 5,
-        "power": 976,
-        "attack": 1040,
-        "defense": 856,
-        "health": 1769,
+        "power": 1214,
+        "attack": 1331,
+        "defense": 1096,
+        "health": 2265,
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
@@ -36079,16 +36079,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 518,
         "lb1": {
-            "attack": 1121,
-            "defense": 923,
-            "health": 1906,
-            "power": 1042
+            "attack": 1435,
+            "defense": 1182,
+            "health": 2440,
+            "power": 1299
         },
         "lb2": {
-            "attack": 1282,
-            "defense": 1056,
-            "health": 2181,
-            "power": 1174
+            "attack": 1641,
+            "defense": 1352,
+            "health": 2792,
+            "power": 1468
         },
         "cn_skill_info": [
             {
@@ -36209,10 +36209,10 @@ window.allHeroes =
         ],
         "heroId": "christmas_ginger_costume_gift_wrapper",
         "star": 5,
-        "power": 950,
-        "attack": 962,
-        "defense": 933,
-        "health": 1625,
+        "power": 1257,
+        "attack": 1317,
+        "defense": 1278,
+        "health": 2242,
         "effects": [
             "為每個盟友召喚一個精靈小兵，其可從施法者繼承 10% 生命與 10% 攻擊。",
             "接下來 3 個回合內，每次任何其他盟友施放其特殊技能後，此角色對一個隨機敵人造成 520% 傷害。（每個角色施放其特殊技能時，每回合只造成一次傷害）",
@@ -36226,16 +36226,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 520,
         "lb1": {
-            "attack": 1036,
-            "defense": 1005,
-            "health": 1751,
-            "power": 1014
+            "attack": 1420,
+            "defense": 1377,
+            "health": 2417,
+            "power": 1345
         },
         "lb2": {
-            "attack": 1186,
-            "defense": 1150,
-            "health": 2004,
-            "power": 1142
+            "attack": 1625,
+            "defense": 1576,
+            "health": 2765,
+            "power": 1522
         },
         "cn_skill_info": [
             {
@@ -36643,10 +36643,10 @@ window.allHeroes =
         ],
         "heroId": "forest_god_gregorion_costume_alchemist",
         "star": 5,
-        "power": 769,
-        "attack": 749,
-        "defense": 702,
-        "health": 1326,
+        "power": 977,
+        "attack": 959,
+        "defense": 885,
+        "health": 1923,
         "effects": [
             "對目標造成 535% 傷害。",
             "所有盟友獲得 +45% 暴擊率，持續 4 回合。",
@@ -36659,16 +36659,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 526,
         "lb1": {
-            "attack": 808,
-            "defense": 757,
-            "health": 1429,
-            "power": 819
+            "attack": 1034,
+            "defense": 953,
+            "health": 2073,
+            "power": 1043
         },
         "lb2": {
-            "attack": 924,
-            "defense": 866,
-            "health": 1635,
-            "power": 919
+            "attack": 1183,
+            "defense": 1091,
+            "health": 2371,
+            "power": 1176
         },
         "cn_skill_info": [
             {
@@ -36931,10 +36931,10 @@ window.allHeroes =
         ],
         "heroId": "kingdom_guan_yu_costume_dragon",
         "star": 5,
-        "power": 836,
-        "attack": 848,
-        "defense": 805,
-        "health": 1355,
+        "power": 1105,
+        "attack": 1145,
+        "defense": 1087,
+        "health": 1965,
         "effects": [
             "對目標及附近敵人造成 400% 傷害。",
             "傷害避開目標的小兵。",
@@ -36950,16 +36950,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 530,
         "lb1": {
-            "attack": 914,
-            "defense": 868,
-            "health": 1460,
-            "power": 892
+            "attack": 1234,
+            "defense": 1171,
+            "health": 2118,
+            "power": 1181
         },
         "lb2": {
-            "attack": 1046,
-            "defense": 993,
-            "health": 1671,
-            "power": 1003
+            "attack": 1412,
+            "defense": 1340,
+            "health": 2423,
+            "power": 1333
         },
         "cn_skill_info": [
             {
@@ -37293,10 +37293,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_heimdall_costume_dreaded",
         "star": 5,
-        "power": 788,
-        "attack": 650,
-        "defense": 859,
-        "health": 1398,
+        "power": 988,
+        "attack": 833,
+        "defense": 1099,
+        "health": 1888,
         "effects": [
             "每名被擊敗的盟友有 50% 的機率以 20% 的生命值復活。",
             "所有盟友獲得 +50% 攻擊力，持續 4 回合。",
@@ -37307,16 +37307,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 535,
         "lb1": {
-            "attack": 701,
-            "defense": 925,
-            "health": 1507,
-            "power": 840
+            "attack": 897,
+            "defense": 1184,
+            "health": 2034,
+            "power": 1055
         },
         "lb2": {
-            "attack": 802,
-            "defense": 1059,
-            "health": 1724,
-            "power": 943
+            "attack": 1027,
+            "defense": 1355,
+            "health": 2328,
+            "power": 1189
         },
         "cn_skill_info": [
             {
@@ -37414,10 +37414,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_titan_costume_jester",
         "star": 5,
-        "power": 753,
-        "attack": 659,
-        "defense": 661,
-        "health": 1518,
+        "power": 849,
+        "attack": 744,
+        "defense": 747,
+        "health": 1821,
         "effects": [
             "對所有敵人造成 250% 傷害。",
             "所有敵人獲得 -54% 攻擊力，持續 6 回合。"
@@ -37427,16 +37427,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 537,
         "lb1": {
-            "attack": 710,
-            "defense": 712,
-            "health": 1636,
-            "power": 801
+            "attack": 802,
+            "defense": 805,
+            "health": 1963,
+            "power": 905
         },
         "lb2": {
-            "attack": 812,
-            "defense": 815,
-            "health": 1871,
-            "power": 899
+            "attack": 918,
+            "defense": 921,
+            "health": 2246,
+            "power": 1018
         },
         "cn_skill_info": [
             {
@@ -37478,10 +37478,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_titan_costume_nightmare",
         "star": 5,
-        "power": 753,
-        "attack": 653,
-        "defense": 685,
-        "health": 1487,
+        "power": 966,
+        "attack": 842,
+        "defense": 884,
+        "health": 2141,
         "effects": [
             "對所有敵人造成 260% 傷害。",
             "所有敵人獲得 -31% 攻擊，並在每次被擊中後減少 4%，持續 4 回合。",
@@ -37493,16 +37493,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 538,
         "lb1": {
-            "attack": 703,
-            "defense": 739,
-            "health": 1602,
-            "power": 802
+            "attack": 907,
+            "defense": 953,
+            "health": 2308,
+            "power": 1032
         },
         "lb2": {
-            "attack": 805,
-            "defense": 845,
-            "health": 1833,
-            "power": 899
+            "attack": 1038,
+            "defense": 1091,
+            "health": 2640,
+            "power": 1163
         },
         "cn_skill_info": [
             {
@@ -37546,10 +37546,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_titan_costume_cute",
         "star": 5,
-        "power": 753,
-        "attack": 607,
-        "defense": 704,
-        "health": 1565,
+        "power": 1132,
+        "attack": 941,
+        "defense": 1092,
+        "health": 2661,
         "effects": [
             "對所有敵人造成 430% 傷害。",
             "所有敵人獲得 -24% 攻擊力，持續 6 回合。",
@@ -37562,16 +37562,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 539,
         "lb1": {
-            "attack": 654,
-            "defense": 759,
-            "health": 1687,
-            "power": 802
+            "attack": 1015,
+            "defense": 1176,
+            "health": 2868,
+            "power": 1211
         },
         "lb2": {
-            "attack": 749,
-            "defense": 868,
-            "health": 1930,
-            "power": 900
+            "attack": 1161,
+            "defense": 1346,
+            "health": 3281,
+            "power": 1367
         },
         "cn_skill_info": [
             {
@@ -37618,10 +37618,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_titan_costume_glass",
         "star": 5,
-        "power": 755,
-        "attack": 620,
-        "defense": 696,
-        "health": 1563,
+        "power": 1235,
+        "attack": 1085,
+        "defense": 1218,
+        "health": 2783,
         "effects": [
             "對所有敵人造成 440% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -37634,16 +37634,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 540,
         "lb1": {
-            "attack": 668,
-            "defense": 750,
-            "health": 1684,
-            "power": 804
+            "attack": 1169,
+            "defense": 1313,
+            "health": 2999,
+            "power": 1321
         },
         "lb2": {
-            "attack": 764,
-            "defense": 858,
-            "health": 1927,
-            "power": 902
+            "attack": 1337,
+            "defense": 1502,
+            "health": 3431,
+            "power": 1493
         },
         "cn_skill_info": [
             {
@@ -38198,10 +38198,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_female_elf_costume_mage",
         "star": 5,
-        "power": 757,
-        "attack": 665,
-        "defense": 791,
-        "health": 1271,
+        "power": 851,
+        "attack": 751,
+        "defense": 893,
+        "health": 1525,
         "effects": [
             "對所有敵人造成 170% 傷害。",
             "所有盟友有 +45% 機率閃避特殊技能，持續 3 回合。每次閃避會召喚一個荊刺小兵。",
@@ -38212,16 +38212,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 548,
         "lb1": {
-            "attack": 717,
-            "defense": 852,
-            "health": 1369,
-            "power": 806
+            "attack": 810,
+            "defense": 963,
+            "health": 1643,
+            "power": 908
         },
         "lb2": {
-            "attack": 820,
-            "defense": 975,
-            "health": 1567,
-            "power": 904
+            "attack": 927,
+            "defense": 1102,
+            "health": 1880,
+            "power": 1021
         },
         "cn_skill_info": [
             {
@@ -38265,10 +38265,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_female_elf_costume_fairy",
         "star": 5,
-        "power": 756,
-        "attack": 650,
-        "defense": 803,
-        "health": 1283,
+        "power": 967,
+        "attack": 839,
+        "defense": 1036,
+        "health": 1848,
         "effects": [
             "對所有敵人造成 210% 傷害。",
             "所有盟友有 +40% 機率閃避特殊技能，持續 3 回合。每次閃避會召喚一個強化荊刺小兵。",
@@ -38279,16 +38279,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 549,
         "lb1": {
-            "attack": 701,
-            "defense": 865,
-            "health": 1383,
-            "power": 806
+            "attack": 904,
+            "defense": 1116,
+            "health": 1991,
+            "power": 1032
         },
         "lb2": {
-            "attack": 802,
-            "defense": 990,
-            "health": 1582,
-            "power": 904
+            "attack": 1035,
+            "defense": 1277,
+            "health": 2278,
+            "power": 1163
         },
         "cn_skill_info": [
             {
@@ -38334,10 +38334,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_female_elf_costume_cute",
         "star": 5,
-        "power": 759,
-        "attack": 758,
-        "defense": 694,
-        "health": 1246,
+        "power": 1134,
+        "attack": 1175,
+        "defense": 1076,
+        "health": 2118,
         "effects": [
             "對所有敵人造成 270% 傷害。",
             "所有盟友獲得 +64% 特殊技能防禦，持續 3 回合。",
@@ -38350,16 +38350,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 550,
         "lb1": {
-            "attack": 816,
-            "defense": 748,
-            "health": 1343,
-            "power": 808
+            "attack": 1266,
+            "defense": 1159,
+            "health": 2283,
+            "power": 1212
         },
         "lb2": {
-            "attack": 934,
-            "defense": 855,
-            "health": 1536,
-            "power": 906
+            "attack": 1448,
+            "defense": 1326,
+            "health": 2612,
+            "power": 1368
         },
         "cn_skill_info": [
             {
@@ -38406,10 +38406,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_female_elf_costume_glass",
         "star": 5,
-        "power": 759,
-        "attack": 766,
-        "defense": 688,
-        "health": 1242,
+        "power": 1241,
+        "attack": 1341,
+        "defense": 1204,
+        "health": 2211,
         "effects": [
             "對所有敵人造成 280% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -38422,16 +38422,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 551,
         "lb1": {
-            "attack": 825,
-            "defense": 741,
-            "health": 1338,
-            "power": 808
+            "attack": 1445,
+            "defense": 1297,
+            "health": 2382,
+            "power": 1327
         },
         "lb2": {
-            "attack": 944,
-            "defense": 848,
-            "health": 1531,
-            "power": 907
+            "attack": 1653,
+            "defense": 1484,
+            "health": 2726,
+            "power": 1500
         },
         "cn_skill_info": [
             {
@@ -38855,10 +38855,10 @@ window.allHeroes =
         ],
         "heroId": "pirate_lady_costume_queen",
         "star": 5,
-        "power": 765,
-        "attack": 805,
-        "defense": 665,
-        "health": 1231,
+        "power": 956,
+        "attack": 1022,
+        "defense": 831,
+        "health": 1724,
         "effects": [
             "對目標造成 120% 傷害，並對附近敵人造成輕微傷害。",
             "目標與附近敵人在 4 回合內受到共計 1118 點傷害，起始傷害較低，每個回合逐漸增加。",
@@ -38871,16 +38871,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 557,
         "lb1": {
-            "attack": 868,
-            "defense": 717,
-            "health": 1327,
-            "power": 815
+            "attack": 1102,
+            "defense": 896,
+            "health": 1858,
+            "power": 1021
         },
         "lb2": {
-            "attack": 993,
-            "defense": 820,
-            "health": 1518,
-            "power": 914
+            "attack": 1261,
+            "defense": 1025,
+            "health": 2126,
+            "power": 1150
         },
         "cn_skill_info": [
             {
@@ -38983,10 +38983,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "knights_lady_of_the_lake_costume_blades",
         "star": 5,
-        "power": 780,
-        "attack": 745,
-        "defense": 749,
-        "health": 1322,
+        "power": 977,
+        "attack": 947,
+        "defense": 937,
+        "health": 1851,
         "effects": [
             "為所有盟友提供 550 點加成生命值。加成生命值能夠超過最大生命值。",
             "為施法者和附近盟友召喚一個魔力寶劍小兵，其可從施法者繼承 14% 生命值及 15% 攻擊。",
@@ -38998,16 +38998,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 559,
         "lb1": {
-            "attack": 803,
-            "defense": 808,
-            "health": 1425,
-            "power": 831
+            "attack": 1020,
+            "defense": 1010,
+            "health": 1995,
+            "power": 1044
         },
         "lb2": {
-            "attack": 919,
-            "defense": 924,
-            "health": 1630,
-            "power": 933
+            "attack": 1167,
+            "defense": 1155,
+            "health": 2282,
+            "power": 1176
         },
         "cn_skill_info": [
             {
@@ -39313,10 +39313,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elven_archer_costume_moon",
         "star": 5,
-        "power": 755,
-        "attack": 737,
-        "defense": 710,
-        "health": 1240,
+        "power": 849,
+        "attack": 833,
+        "defense": 803,
+        "health": 1488,
         "effects": [
             "對目標造成 482% 傷害。",
             "目標獲得 -34% 法力產出，持續 3 回合。"
@@ -39326,16 +39326,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 564,
         "lb1": {
-            "attack": 794,
-            "defense": 765,
-            "health": 1336,
-            "power": 804
+            "attack": 898,
+            "defense": 865,
+            "health": 1603,
+            "power": 905
         },
         "lb2": {
-            "attack": 909,
-            "defense": 876,
-            "health": 1529,
-            "power": 902
+            "attack": 1027,
+            "defense": 990,
+            "health": 1834,
+            "power": 1018
         },
         "cn_skill_info": [
             {
@@ -39373,10 +39373,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elven_archer_costume_raven",
         "star": 5,
-        "power": 756,
-        "attack": 753,
-        "defense": 700,
-        "health": 1225,
+        "power": 965,
+        "attack": 972,
+        "defense": 903,
+        "health": 1765,
         "effects": [
             "對目標造成 500% 傷害。",
             "目標陷入沉默，持續 3 回合。"
@@ -39386,16 +39386,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 565,
         "lb1": {
-            "attack": 812,
-            "defense": 754,
-            "health": 1320,
-            "power": 805
+            "attack": 1048,
+            "defense": 973,
+            "health": 1902,
+            "power": 1030
         },
         "lb2": {
-            "attack": 929,
-            "defense": 863,
-            "health": 1511,
-            "power": 903
+            "attack": 1199,
+            "defense": 1114,
+            "health": 2176,
+            "power": 1161
         },
         "cn_skill_info": [
             {
@@ -39434,10 +39434,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elven_archer_costume_cute",
         "star": 5,
-        "power": 757,
-        "attack": 735,
-        "defense": 716,
-        "health": 1246,
+        "power": 1131,
+        "attack": 1139,
+        "defense": 1111,
+        "health": 2118,
         "effects": [
             "對目標造成 592% 傷害。",
             "對冰雪系造成額外傷害。"
@@ -39449,16 +39449,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 566,
         "lb1": {
-            "attack": 792,
-            "defense": 772,
-            "health": 1343,
-            "power": 806
+            "attack": 1228,
+            "defense": 1197,
+            "health": 2283,
+            "power": 1209
         },
         "lb2": {
-            "attack": 906,
-            "defense": 883,
-            "health": 1536,
-            "power": 904
+            "attack": 1405,
+            "defense": 1370,
+            "health": 2612,
+            "power": 1366
         },
         "cn_skill_info": [
             {
@@ -39498,10 +39498,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elven_archer_costume_glass",
         "star": 5,
-        "power": 757,
-        "attack": 756,
-        "defense": 700,
-        "health": 1231,
+        "power": 1237,
+        "attack": 1323,
+        "defense": 1225,
+        "health": 2192,
         "effects": [
             "對目標造成 602% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）"
@@ -39513,16 +39513,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 567,
         "lb1": {
-            "attack": 814,
-            "defense": 754,
-            "health": 1327,
-            "power": 806
+            "attack": 1425,
+            "defense": 1320,
+            "health": 2363,
+            "power": 1324
         },
         "lb2": {
-            "attack": 932,
-            "defense": 863,
-            "health": 1518,
-            "power": 905
+            "attack": 1631,
+            "defense": 1511,
+            "health": 2703,
+            "power": 1497
         },
         "cn_skill_info": [
             {
@@ -39872,10 +39872,10 @@ window.allHeroes =
         ],
         "heroId": "kingdom_liu_bei_costume_nature",
         "star": 5,
-        "power": 838,
-        "attack": 840,
-        "defense": 788,
-        "health": 1419,
+        "power": 1108,
+        "attack": 1134,
+        "defense": 1065,
+        "health": 2058,
         "effects": [
             "對目標及附近敵人造成 350% 傷害。",
             "為每個盟友召喚一個蜀國戰士小兵，其可從施法者繼承 33% 生命值與 33% 攻擊。",
@@ -39891,16 +39891,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 572,
         "lb1": {
-            "attack": 905,
-            "defense": 850,
-            "health": 1529,
-            "power": 893
+            "attack": 1222,
+            "defense": 1147,
+            "health": 2217,
+            "power": 1184
         },
         "lb2": {
-            "attack": 1036,
-            "defense": 972,
-            "health": 1750,
-            "power": 1004
+            "attack": 1399,
+            "defense": 1313,
+            "health": 2537,
+            "power": 1337
         },
         "cn_skill_info": [
             {
@@ -40026,10 +40026,10 @@ window.allHeroes =
         ],
         "heroId": "s4_lughaidh_costume_deathless",
         "star": 5,
-        "power": 811,
-        "attack": 714,
-        "defense": 846,
-        "health": 1425,
+        "power": 1027,
+        "attack": 929,
+        "defense": 1100,
+        "health": 1924,
         "effects": [
             "對施法者施放完整移除。（完整移除移除目標的全部狀態效果、疊加與成長及枯萎效果。即使是無法驅散或淨化的狀態效果，也會移除）",
             "施法者轉變為幽靈型態，持續 4 回合。",
@@ -40045,16 +40045,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 574,
         "lb1": {
-            "attack": 770,
-            "defense": 912,
-            "health": 1536,
-            "power": 864
+            "attack": 1001,
+            "defense": 1186,
+            "health": 2073,
+            "power": 1097
         },
         "lb2": {
-            "attack": 881,
-            "defense": 1043,
-            "health": 1757,
-            "power": 971
+            "attack": 1145,
+            "defense": 1357,
+            "health": 2372,
+            "power": 1237
         },
         "cn_skill_info": [
             {
@@ -40167,10 +40167,10 @@ window.allHeroes =
         ],
         "heroId": "s5_maat_costume_river",
         "star": 5,
-        "power": 866,
-        "attack": 826,
-        "defense": 842,
-        "health": 1545,
+        "power": 1210,
+        "attack": 1197,
+        "defense": 1221,
+        "health": 2317,
         "effects": [
             "對所有敵人造成 220% 傷害。",
             "所有敵人獲得 -35% 防禦，持續 3 回合。",
@@ -40187,16 +40187,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 576,
         "lb1": {
-            "attack": 890,
-            "defense": 907,
-            "health": 1665,
-            "power": 923
+            "attack": 1290,
+            "defense": 1316,
+            "health": 2497,
+            "power": 1294
         },
         "lb2": {
-            "attack": 1018,
-            "defense": 1038,
-            "health": 1905,
-            "power": 1038
+            "attack": 1476,
+            "defense": 1506,
+            "health": 2857,
+            "power": 1463
         },
         "cn_skill_info": [
             {
@@ -40932,10 +40932,10 @@ window.allHeroes =
         ],
         "heroId": "christmas_mrs_claus_costume_fangirl",
         "star": 5,
-        "power": 771,
-        "attack": 585,
-        "defense": 830,
-        "health": 1493,
+        "power": 1012,
+        "attack": 801,
+        "defense": 1137,
+        "health": 2061,
         "effects": [
             "每名陣亡的盟友有 55% 的機率以 15% 的生命值復活。",
             "為每個盟友召喚一個精靈小兵，其可從施法者繼承 10% 生命與 10% 攻擊。",
@@ -40948,16 +40948,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 587,
         "lb1": {
-            "attack": 630,
-            "defense": 894,
-            "health": 1609,
-            "power": 821
+            "attack": 863,
+            "defense": 1225,
+            "health": 2221,
+            "power": 1080
         },
         "lb2": {
-            "attack": 721,
-            "defense": 1023,
-            "health": 1841,
-            "power": 921
+            "attack": 988,
+            "defense": 1402,
+            "health": 2541,
+            "power": 1219
         },
         "cn_skill_info": [
             {
@@ -41367,10 +41367,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tales2_ott_costume_herbalist",
         "star": 5,
-        "power": 1166,
-        "attack": 1124,
-        "defense": 1196,
-        "health": 2237,
+        "power": 1245,
+        "attack": 1203,
+        "defense": 1280,
+        "health": 2438,
         "effects": [
             "為所有盟友提供 800 點加成生命值。加成生命值能夠超過最大生命值。",
             "所有盟友都可獲得火風暴護體，持續 3 個回合，所受到的特殊技能傷害最高減少 -1280 點。攻擊者為自然元素角色時，額外減少 30% 傷害。",
@@ -41387,16 +41387,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 593,
         "lb1": {
-            "attack": 1212,
-            "defense": 1289,
-            "health": 2410,
-            "power": 1247
+            "attack": 1296,
+            "defense": 1380,
+            "health": 2627,
+            "power": 1332
         },
         "lb2": {
-            "attack": 1386,
-            "defense": 1475,
-            "health": 2758,
-            "power": 1409
+            "attack": 1483,
+            "defense": 1579,
+            "health": 3006,
+            "power": 1507
         },
         "cn_skill_info": [
             {
@@ -41734,10 +41734,10 @@ window.allHeroes =
         ],
         "heroId": "s4_phileas_fogg_costume_engineer",
         "star": 5,
-        "power": 807,
-        "attack": 817,
-        "defense": 741,
-        "health": 1347,
+        "power": 1021,
+        "attack": 1063,
+        "defense": 964,
+        "health": 1818,
         "effects": [
             "驅散目標的增益。",
             "對目標造成 410% 傷害。",
@@ -41751,16 +41751,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 598,
         "lb1": {
-            "attack": 881,
-            "defense": 799,
-            "health": 1451,
-            "power": 860
+            "attack": 1145,
+            "defense": 1038,
+            "health": 1960,
+            "power": 1090
         },
         "lb2": {
-            "attack": 1008,
-            "defense": 914,
-            "health": 1661,
-            "power": 966
+            "attack": 1310,
+            "defense": 1188,
+            "health": 2242,
+            "power": 1230
         },
         "cn_skill_info": [
             {
@@ -42163,10 +42163,10 @@ window.allHeroes =
         ],
         "heroId": "castle_wolf_quenell_costume_wood",
         "star": 5,
-        "power": 816,
-        "attack": 799,
-        "defense": 758,
-        "health": 1429,
+        "power": 1148,
+        "attack": 1182,
+        "defense": 1121,
+        "health": 2115,
         "effects": [
             "對目標及附近敵人造成 360% 傷害。",
             "施法者下一次使用特殊技能時，其特殊技能的威力會增加 +30%，之後每回合都會額外增加 +30%，最多加到 +150%。",
@@ -42181,16 +42181,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 604,
         "lb1": {
-            "attack": 861,
-            "defense": 816,
-            "health": 1540,
-            "power": 870
+            "attack": 1274,
+            "defense": 1209,
+            "health": 2280,
+            "power": 1228
         },
         "lb2": {
-            "attack": 985,
-            "defense": 934,
-            "health": 1762,
-            "power": 977
+            "attack": 1458,
+            "defense": 1383,
+            "health": 2608,
+            "power": 1387
         },
         "cn_skill_info": [
             {
@@ -42377,10 +42377,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_ratatoskr_costume_architect",
         "star": 5,
-        "power": 785,
-        "attack": 844,
-        "defense": 679,
-        "health": 1248,
+        "power": 982,
+        "attack": 1081,
+        "defense": 870,
+        "health": 1685,
         "effects": [
             "所有盟友在 3 回合內恢復 795 點生命值。",
             "改變面板上所有自然系護盾的強度。攻擊英雄施放該特技時，護盾受到 +64% 攻擊力的強化，防禦英雄施放該特技時，護盾受到 -57% 攻擊力的弱化。"
@@ -42390,16 +42390,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 607,
         "lb1": {
-            "attack": 910,
-            "defense": 732,
-            "health": 1345,
-            "power": 836
+            "attack": 1165,
+            "defense": 937,
+            "health": 1816,
+            "power": 1049
         },
         "lb2": {
-            "attack": 1041,
-            "defense": 838,
-            "health": 1539,
-            "power": 939
+            "attack": 1332,
+            "defense": 1072,
+            "health": 2077,
+            "power": 1182
         },
         "cn_skill_info": [
             {
@@ -42646,10 +42646,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elemental_roz_costume_disco",
         "star": 5,
-        "power": 972,
-        "attack": 943,
-        "defense": 929,
-        "health": 1841,
+        "power": 1221,
+        "attack": 1217,
+        "defense": 1198,
+        "health": 2394,
         "effects": [
             "對目標造成 540% 傷害。",
             "若面板上有 5 個以上的自然護盾，則對目標和附近敵人造成傷害。",
@@ -42667,16 +42667,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 611,
         "lb1": {
-            "attack": 1016,
-            "defense": 1001,
-            "health": 1984,
-            "power": 1038
+            "attack": 1311,
+            "defense": 1291,
+            "health": 2580,
+            "power": 1306
         },
         "lb2": {
-            "attack": 1163,
-            "defense": 1145,
-            "health": 2270,
-            "power": 1170
+            "attack": 1500,
+            "defense": 1477,
+            "health": 2951,
+            "power": 1476
         },
         "cn_skill_info": [
             {
@@ -43223,10 +43223,10 @@ window.allHeroes =
         ],
         "heroId": "tales1_spartoi_costume_guard",
         "star": 5,
-        "power": 1001,
-        "attack": 937,
-        "defense": 1108,
-        "health": 1703,
+        "power": 1246,
+        "attack": 1199,
+        "defense": 1418,
+        "health": 2180,
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
@@ -43249,16 +43249,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 619,
         "lb1": {
-            "attack": 1010,
-            "defense": 1194,
-            "health": 1835,
-            "power": 1069
+            "attack": 1292,
+            "defense": 1528,
+            "health": 2350,
+            "power": 1334
         },
         "lb2": {
-            "attack": 1155,
-            "defense": 1366,
-            "health": 2100,
-            "power": 1205
+            "attack": 1479,
+            "defense": 1749,
+            "health": 2688,
+            "power": 1508
         },
         "cn_skill_info": [
             {
@@ -43888,10 +43888,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_junglehunter_costume_party",
         "star": 5,
-        "power": 773,
-        "attack": 694,
-        "defense": 824,
-        "health": 1252,
+        "power": 944,
+        "attack": 867,
+        "defense": 1030,
+        "health": 1628,
         "effects": [
             "為所有盟友提供 470 點加成生命值。加成生命值能夠超過最大生命值。",
             "所有盟友承受 5 回合的 +80% 普通攻擊。普通攻擊每回合增加 +20%。除了可變更整體攻擊的效果，可另外啟動此效果。啟動此效果時，普通攻擊最多可提升 +160% 威力。"
@@ -43901,16 +43901,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 628,
         "lb1": {
-            "attack": 748,
-            "defense": 888,
-            "health": 1349,
-            "power": 824
+            "attack": 935,
+            "defense": 1110,
+            "health": 1754,
+            "power": 1008
         },
         "lb2": {
-            "attack": 855,
-            "defense": 1016,
-            "health": 1544,
-            "power": 924
+            "attack": 1069,
+            "defense": 1270,
+            "health": 2007,
+            "power": 1135
         },
         "cn_skill_info": [
             {
@@ -44196,10 +44196,10 @@ window.allHeroes =
         ],
         "heroId": "magic_telonius_costume_brew",
         "star": 5,
-        "power": 891,
-        "attack": 894,
-        "defense": 859,
-        "health": 1524,
+        "power": 1263,
+        "attack": 1323,
+        "defense": 1271,
+        "health": 2286,
         "effects": [
             "特殊技能在法力充能達 100% / 200% 時有不同效果：",
             "x 1 法力充能：",
@@ -44218,16 +44218,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 632,
         "lb1": {
-            "attack": 963,
-            "defense": 925,
-            "health": 1642,
-            "power": 950
+            "attack": 1425,
+            "defense": 1370,
+            "health": 2464,
+            "power": 1352
         },
         "lb2": {
-            "attack": 1102,
-            "defense": 1059,
-            "health": 1879,
-            "power": 1070
+            "attack": 1631,
+            "defense": 1567,
+            "health": 2819,
+            "power": 1529
         },
         "cn_skill_info": [
             {
@@ -44417,10 +44417,10 @@ window.allHeroes =
         ],
         "heroId": "wonderland_hatter_costume_tea",
         "star": 5,
-        "power": 769,
-        "attack": 751,
-        "defense": 700,
-        "health": 1326,
+        "power": 963,
+        "attack": 954,
+        "defense": 875,
+        "health": 1857,
         "effects": [
             "對目標造成 400% 傷害，並對附近敵人造成輕微傷害。",
             "偷走所有敵人的全部可驅散增益，並隨機分配給盟友。",
@@ -44433,16 +44433,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 635,
         "lb1": {
-            "attack": 810,
-            "defense": 754,
-            "health": 1429,
-            "power": 819
+            "attack": 1029,
+            "defense": 943,
+            "health": 2001,
+            "power": 1029
         },
         "lb2": {
-            "attack": 927,
-            "defense": 863,
-            "health": 1635,
-            "power": 919
+            "attack": 1177,
+            "defense": 1079,
+            "health": 2290,
+            "power": 1159
         },
         "cn_skill_info": [
             {
@@ -44639,10 +44639,10 @@ window.allHeroes =
         ],
         "heroId": "villain_toxicandra_costume_rose",
         "star": 5,
-        "power": 801,
-        "attack": 737,
-        "defense": 836,
-        "health": 1320,
+        "power": 1197,
+        "attack": 1157,
+        "defense": 1313,
+        "health": 2139,
         "effects": [
             "為所有盟友提供 750 點加成生命值。加成生命值能夠超過最大生命值。",
             "所有盟友在 3 回合內恢復適量法力。",
@@ -44655,16 +44655,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 638,
         "lb1": {
-            "attack": 794,
-            "defense": 901,
-            "health": 1423,
-            "power": 854
+            "attack": 1247,
+            "defense": 1415,
+            "health": 2305,
+            "power": 1280
         },
         "lb2": {
-            "attack": 909,
-            "defense": 1031,
-            "health": 1628,
-            "power": 959
+            "attack": 1427,
+            "defense": 1619,
+            "health": 2637,
+            "power": 1446
         },
         "cn_skill_info": [
             {
@@ -44856,10 +44856,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "kalevala_vainamoinen_costume_vainamoinen_sage",
         "star": 5,
-        "power": 838,
-        "attack": 819,
-        "defense": 795,
-        "health": 1462,
+        "power": 1083,
+        "attack": 1098,
+        "defense": 1065,
+        "health": 1974,
         "effects": [
             "對目標及附近敵人造成 300% 傷害。",
             "所有敵人獲得 -25% 精準度，持續 3 回合。對烈火系角色，此狀態效果變為無法淨化且持續時間延長 2 回合。失手率也會套用在攻擊型特殊技能上。"
@@ -44871,16 +44871,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 641,
         "lb1": {
-            "attack": 883,
-            "defense": 856,
-            "health": 1576,
-            "power": 894
+            "attack": 1183,
+            "defense": 1148,
+            "health": 2127,
+            "power": 1158
         },
         "lb2": {
-            "attack": 1010,
-            "defense": 980,
-            "health": 1803,
-            "power": 1005
+            "attack": 1354,
+            "defense": 1313,
+            "health": 2434,
+            "power": 1307
         },
         "cn_skill_info": [
             {
@@ -45292,10 +45292,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elemental_xandrella_costume_idol",
         "star": 5,
-        "power": 901,
-        "attack": 846,
-        "defense": 859,
-        "health": 1713,
+        "power": 1261,
+        "attack": 1236,
+        "defense": 1254,
+        "health": 2519,
         "effects": [
             "對目標與所有冰雪敵人造成 480% 傷害。",
             "目標與所有冰雪敵人法力滿格時，自動對其造成 555 點傷害，並使目標法力減少 50% ,持續 4 個回合。",
@@ -45313,16 +45313,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 647,
         "lb1": {
-            "attack": 912,
-            "defense": 925,
-            "health": 1847,
-            "power": 961
+            "attack": 1332,
+            "defense": 1351,
+            "health": 2715,
+            "power": 1349
         },
         "lb2": {
-            "attack": 1043,
-            "defense": 1059,
-            "health": 2113,
-            "power": 1082
+            "attack": 1524,
+            "defense": 1546,
+            "health": 3106,
+            "power": 1526
         },
         "cn_skill_info": [
             {
@@ -45666,10 +45666,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "sand_king_costume_lifeguard",
         "star": 5,
-        "power": 770,
-        "attack": 640,
-        "defense": 795,
-        "health": 1421,
+        "power": 941,
+        "attack": 800,
+        "defense": 993,
+        "health": 1847,
         "effects": [
             "對所有敵人造成 215% 傷害。",
             "所有敵人在 5 回合內受到共計 815 點飛沙傷害。",
@@ -45681,16 +45681,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 652,
         "lb1": {
-            "attack": 690,
-            "defense": 856,
-            "health": 1531,
-            "power": 820
+            "attack": 863,
+            "defense": 1071,
+            "health": 1991,
+            "power": 1005
         },
         "lb2": {
-            "attack": 789,
-            "defense": 980,
-            "health": 1752,
-            "power": 920
+            "attack": 987,
+            "defense": 1225,
+            "health": 2278,
+            "power": 1132
         },
         "cn_skill_info": [
             {
@@ -45888,10 +45888,10 @@ window.allHeroes =
         ],
         "heroId": "forest_god_zeline_costume_avian",
         "star": 5,
-        "power": 768,
-        "attack": 751,
-        "defense": 700,
-        "health": 1316,
+        "power": 975,
+        "attack": 962,
+        "defense": 882,
+        "health": 1908,
         "effects": [
             "驅散所有敵人的增益。",
             "對所有敵人造成 210% 傷害。",
@@ -45906,16 +45906,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 655,
         "lb1": {
-            "attack": 810,
-            "defense": 754,
-            "health": 1418,
-            "power": 818
+            "attack": 1037,
+            "defense": 951,
+            "health": 2056,
+            "power": 1042
         },
         "lb2": {
-            "attack": 927,
-            "defense": 863,
-            "health": 1623,
-            "power": 918
+            "attack": 1186,
+            "defense": 1088,
+            "health": 2353,
+            "power": 1174
         },
         "cn_skill_info": [
             {
@@ -46519,10 +46519,10 @@ window.allHeroes =
         ],
         "heroId": "s5_aqeela_costume_sorcerer",
         "star": 3,
-        "power": 484,
-        "attack": 467,
-        "defense": 479,
-        "health": 870,
+        "power": 495,
+        "attack": 476,
+        "defense": 489,
+        "health": 905,
         "effects": [
             "對目標及附近敵人造成 145% 傷害。",
             "施法者與附近盟友有 +45% 的機率可躲避特殊技能，持續 3 回合。每次閃避都會獲得 +10% 防禦疊加。（最大值： 10 ）"
@@ -46538,16 +46538,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 666,
         "lb1": {
-            "attack": 529,
-            "defense": 543,
-            "health": 986,
-            "power": 540
+            "attack": 540,
+            "defense": 554,
+            "health": 1026,
+            "power": 552
         },
         "lb2": {
-            "attack": 654,
-            "defense": 671,
-            "health": 1219,
-            "power": 652
+            "attack": 667,
+            "defense": 685,
+            "health": 1268,
+            "power": 667
         },
         "cn_skill_info": [
             {
@@ -46637,10 +46637,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_mage_costume_voodoo",
         "star": 3,
-        "power": 443,
-        "attack": 498,
-        "defense": 406,
-        "health": 648,
+        "power": 473,
+        "attack": 533,
+        "defense": 435,
+        "health": 713,
         "effects": [
             "對目標造成 315% 傷害。",
             "目標在 3 回合內受到共計 60 點劇毒傷害。"
@@ -46650,16 +46650,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 668,
         "lb1": {
-            "attack": 565,
-            "defense": 460,
-            "health": 734,
-            "power": 494
+            "attack": 604,
+            "defense": 493,
+            "health": 808,
+            "power": 527
         },
         "lb2": {
-            "attack": 698,
-            "defense": 569,
-            "health": 907,
-            "power": 595
+            "attack": 747,
+            "defense": 609,
+            "health": 998,
+            "power": 636
         },
         "cn_skill_info": [
             {
@@ -46699,10 +46699,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_mage_costume_cute",
         "star": 3,
-        "power": 444,
-        "attack": 488,
-        "defense": 413,
-        "health": 662,
+        "power": 505,
+        "attack": 561,
+        "defense": 475,
+        "health": 794,
         "effects": [
             "對目標造成 365% 傷害。",
             "對神聖系造成額外傷害。"
@@ -46714,16 +46714,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 669,
         "lb1": {
-            "attack": 553,
-            "defense": 468,
-            "health": 750,
-            "power": 494
+            "attack": 636,
+            "defense": 539,
+            "health": 900,
+            "power": 564
         },
         "lb2": {
-            "attack": 683,
-            "defense": 579,
-            "health": 927,
-            "power": 595
+            "attack": 786,
+            "defense": 666,
+            "health": 1112,
+            "power": 682
         },
         "cn_skill_info": [
             {
@@ -46763,10 +46763,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_mage_costume_glass",
         "star": 3,
-        "power": 444,
-        "attack": 502,
-        "defense": 406,
-        "health": 644,
+        "power": 517,
+        "attack": 592,
+        "defense": 479,
+        "health": 793,
         "effects": [
             "對目標造成 375% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）"
@@ -46778,16 +46778,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 670,
         "lb1": {
-            "attack": 569,
-            "defense": 460,
-            "health": 730,
-            "power": 495
+            "attack": 671,
+            "defense": 543,
+            "health": 898,
+            "power": 577
         },
         "lb2": {
-            "attack": 703,
-            "defense": 569,
-            "health": 903,
-            "power": 596
+            "attack": 830,
+            "defense": 672,
+            "health": 1110,
+            "power": 699
         },
         "cn_skill_info": [
             {
@@ -46952,10 +46952,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_bjorn_costume_viking",
         "star": 3,
-        "power": 462,
-        "attack": 451,
-        "defense": 443,
-        "health": 829,
+        "power": 478,
+        "attack": 465,
+        "defense": 456,
+        "health": 878,
         "effects": [
             "對目標造成 180% 傷害。",
             "對一名隨機的不同的敵人造成 380% 傷害。",
@@ -46966,16 +46966,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 673,
         "lb1": {
-            "attack": 512,
-            "defense": 502,
-            "health": 939,
-            "power": 516
+            "attack": 527,
+            "defense": 517,
+            "health": 996,
+            "power": 533
         },
         "lb2": {
-            "attack": 632,
-            "defense": 620,
-            "health": 1161,
-            "power": 622
+            "attack": 651,
+            "defense": 639,
+            "health": 1230,
+            "power": 643
         },
         "cn_skill_info": [
             {
@@ -47256,10 +47256,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_fiji_mermaid_costume_hunter",
         "star": 3,
-        "power": 449,
-        "attack": 465,
-        "defense": 429,
-        "health": 724,
+        "power": 463,
+        "attack": 479,
+        "defense": 442,
+        "health": 768,
         "effects": [
             "所有盟友獲得 +25% 防禦，持續 4 回合。",
             "所有盟友獲得 +25% 攻擊力，持續 4 回合。",
@@ -47270,16 +47270,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 678,
         "lb1": {
-            "attack": 527,
-            "defense": 486,
-            "health": 821,
-            "power": 500
+            "attack": 543,
+            "defense": 501,
+            "health": 870,
+            "power": 517
         },
         "lb2": {
-            "attack": 652,
-            "defense": 601,
-            "health": 1014,
-            "power": 603
+            "attack": 671,
+            "defense": 619,
+            "health": 1075,
+            "power": 623
         },
         "cn_skill_info": [
             {
@@ -47738,10 +47738,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s4_morris_costume_potter",
         "star": 3,
-        "power": 478,
-        "attack": 483,
-        "defense": 502,
-        "health": 742,
+        "power": 488,
+        "attack": 492,
+        "defense": 512,
+        "health": 771,
         "effects": [
             "移除施法者的所有狀態效果和疊加，包括那些無法驅散或淨化的狀態效果和疊加。",
             "施法者會挖一個洞，躲在裡頭 3 回合。",
@@ -47757,16 +47757,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 685,
         "lb1": {
-            "attack": 547,
-            "defense": 569,
-            "health": 841,
-            "power": 533
+            "attack": 558,
+            "defense": 580,
+            "health": 874,
+            "power": 545
         },
         "lb2": {
-            "attack": 676,
-            "defense": 703,
-            "health": 1039,
-            "power": 643
+            "attack": 690,
+            "defense": 717,
+            "health": 1080,
+            "power": 658
         },
         "cn_skill_info": [
             {
@@ -47868,10 +47868,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_horned_skeleton_costume_fool",
         "star": 3,
-        "power": 445,
-        "attack": 394,
-        "defense": 441,
-        "health": 849,
+        "power": 475,
+        "attack": 422,
+        "defense": 472,
+        "health": 934,
         "effects": [
             "所有敵人在 3 回合內受到共計 324 點劇毒傷害。此效果無法淨化。"
         ],
@@ -47880,16 +47880,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 687,
         "lb1": {
-            "attack": 447,
-            "defense": 500,
-            "health": 963,
-            "power": 496
+            "attack": 478,
+            "defense": 535,
+            "health": 1059,
+            "power": 530
         },
         "lb2": {
-            "attack": 552,
-            "defense": 618,
-            "health": 1190,
-            "power": 597
+            "attack": 591,
+            "defense": 661,
+            "health": 1309,
+            "power": 640
         },
         "cn_skill_info": [
             {
@@ -47930,10 +47930,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_horned_skeleton_costume_cute",
         "star": 3,
-        "power": 446,
-        "attack": 446,
-        "defense": 406,
-        "health": 797,
+        "power": 509,
+        "attack": 513,
+        "defense": 467,
+        "health": 957,
         "effects": [
             "對所有敵人造成 151% 傷害。",
             "所有敵人在 6 回合內受到共計 76 點傷害。",
@@ -47946,16 +47946,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 688,
         "lb1": {
-            "attack": 506,
-            "defense": 460,
-            "health": 904,
-            "power": 497
+            "attack": 582,
+            "defense": 530,
+            "health": 1085,
+            "power": 569
         },
         "lb2": {
-            "attack": 625,
-            "defense": 569,
-            "health": 1117,
-            "power": 599
+            "attack": 719,
+            "defense": 654,
+            "health": 1340,
+            "power": 687
         },
         "cn_skill_info": [
             {
@@ -48003,10 +48003,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_horned_skeleton_costume_glass",
         "star": 3,
-        "power": 447,
-        "attack": 455,
-        "defense": 403,
-        "health": 790,
+        "power": 522,
+        "attack": 537,
+        "defense": 475,
+        "health": 972,
         "effects": [
             "對所有敵人造成 161% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -48019,16 +48019,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 689,
         "lb1": {
-            "attack": 516,
-            "defense": 457,
-            "health": 896,
-            "power": 499
+            "attack": 609,
+            "defense": 539,
+            "health": 1102,
+            "power": 583
         },
         "lb2": {
-            "attack": 637,
-            "defense": 564,
-            "health": 1107,
-            "power": 600
+            "attack": 752,
+            "defense": 666,
+            "health": 1362,
+            "power": 705
         },
         "cn_skill_info": [
             {
@@ -48194,10 +48194,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_female_captain_costume_musketeer",
         "star": 3,
-        "power": 446,
-        "attack": 396,
-        "defense": 444,
-        "health": 846,
+        "power": 477,
+        "attack": 424,
+        "defense": 476,
+        "health": 931,
         "effects": [
             "對目標造成 205% 傷害，並對附近敵人造成輕微傷害。",
             "為施法者治療 30% 的傷害。"
@@ -48207,16 +48207,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 692,
         "lb1": {
-            "attack": 449,
-            "defense": 504,
-            "health": 959,
-            "power": 497
+            "attack": 480,
+            "defense": 539,
+            "health": 1055,
+            "power": 531
         },
         "lb2": {
-            "attack": 554,
-            "defense": 623,
-            "health": 1185,
-            "power": 599
+            "attack": 593,
+            "defense": 666,
+            "health": 1303,
+            "power": 641
         },
         "cn_skill_info": [
             {
@@ -48257,10 +48257,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_female_captain_costume_cute",
         "star": 3,
-        "power": 448,
-        "attack": 415,
-        "defense": 464,
-        "health": 773,
+        "power": 511,
+        "attack": 477,
+        "defense": 533,
+        "health": 928,
         "effects": [
             "對目標造成 265% 傷害。",
             "為施法者治療 45% 的傷害。",
@@ -48273,16 +48273,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 693,
         "lb1": {
-            "attack": 470,
-            "defense": 525,
-            "health": 876,
-            "power": 499
+            "attack": 541,
+            "defense": 604,
+            "health": 1051,
+            "power": 570
         },
         "lb2": {
-            "attack": 581,
-            "defense": 649,
-            "health": 1083,
-            "power": 601
+            "attack": 668,
+            "defense": 747,
+            "health": 1299,
+            "power": 689
         },
         "cn_skill_info": [
             {
@@ -48325,10 +48325,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_female_captain_costume_glass",
         "star": 3,
-        "power": 448,
-        "attack": 431,
-        "defense": 451,
-        "health": 762,
+        "power": 523,
+        "attack": 508,
+        "defense": 533,
+        "health": 938,
         "effects": [
             "對目標造成 275% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -48341,16 +48341,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 694,
         "lb1": {
-            "attack": 488,
-            "defense": 512,
-            "health": 864,
-            "power": 500
+            "attack": 576,
+            "defense": 604,
+            "health": 1063,
+            "power": 584
         },
         "lb2": {
-            "attack": 603,
-            "defense": 632,
-            "health": 1068,
-            "power": 602
+            "attack": 712,
+            "defense": 746,
+            "health": 1314,
+            "power": 707
         },
         "cn_skill_info": [
             {
@@ -48449,10 +48449,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_skulker_costume_doctor",
         "star": 3,
-        "power": 444,
-        "attack": 408,
-        "defense": 434,
-        "health": 822,
+        "power": 474,
+        "attack": 437,
+        "defense": 464,
+        "health": 904,
         "effects": [
             "對目標造成 195% 傷害。",
             "施法者在 4 個回合內竊取目標與附近敵人產出的法力，一開始僅竊取少量法力，竊取量會隨每個回合逐漸增加，最後一回合會竊取產出的所有法力。此效果無法淨化，但在施法者被擊敗後會被移除。"
@@ -48462,16 +48462,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 696,
         "lb1": {
-            "attack": 462,
-            "defense": 492,
-            "health": 931,
-            "power": 494
+            "attack": 495,
+            "defense": 526,
+            "health": 1024,
+            "power": 528
         },
         "lb2": {
-            "attack": 571,
-            "defense": 608,
-            "health": 1151,
-            "power": 596
+            "attack": 612,
+            "defense": 651,
+            "health": 1266,
+            "power": 638
         },
         "cn_skill_info": [
             {
@@ -48512,10 +48512,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_skulker_costume_cute",
         "star": 3,
-        "power": 445,
-        "attack": 417,
-        "defense": 425,
-        "health": 825,
+        "power": 508,
+        "attack": 479,
+        "defense": 489,
+        "health": 990,
         "effects": [
             "對目標造成 245% 傷害。",
             "為施法者治療 40% 的傷害。",
@@ -48528,16 +48528,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 697,
         "lb1": {
-            "attack": 472,
-            "defense": 482,
-            "health": 935,
-            "power": 496
+            "attack": 543,
+            "defense": 555,
+            "health": 1122,
+            "power": 567
         },
         "lb2": {
-            "attack": 584,
-            "defense": 596,
-            "health": 1156,
-            "power": 598
+            "attack": 671,
+            "defense": 685,
+            "health": 1387,
+            "power": 685
         },
         "cn_skill_info": [
             {
@@ -48580,10 +48580,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_skulker_costume_glass",
         "star": 3,
-        "power": 446,
-        "attack": 427,
-        "defense": 417,
-        "health": 820,
+        "power": 520,
+        "attack": 504,
+        "defense": 492,
+        "health": 1009,
         "effects": [
             "對目標造成 255% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -48596,16 +48596,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 698,
         "lb1": {
-            "attack": 484,
-            "defense": 472,
-            "health": 929,
-            "power": 496
+            "attack": 571,
+            "defense": 557,
+            "health": 1143,
+            "power": 580
         },
         "lb2": {
-            "attack": 598,
-            "defense": 584,
-            "health": 1148,
-            "power": 598
+            "attack": 706,
+            "defense": 689,
+            "health": 1413,
+            "power": 702
         },
         "cn_skill_info": [
             {
@@ -48770,10 +48770,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_running_skeleton_costume_roman",
         "star": 3,
-        "power": 441,
-        "attack": 396,
-        "defense": 425,
-        "health": 849,
+        "power": 471,
+        "attack": 424,
+        "defense": 455,
+        "health": 934,
         "effects": [
             "對目標造成 310% 傷害。",
             "淨化所有盟友的狀態異常。"
@@ -48783,16 +48783,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 701,
         "lb1": {
-            "attack": 449,
-            "defense": 482,
-            "health": 963,
-            "power": 491
+            "attack": 480,
+            "defense": 516,
+            "health": 1059,
+            "power": 525
         },
         "lb2": {
-            "attack": 554,
-            "defense": 596,
-            "health": 1190,
-            "power": 592
+            "attack": 593,
+            "defense": 638,
+            "health": 1309,
+            "power": 634
         },
         "cn_skill_info": [
             {
@@ -48833,10 +48833,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_running_skeleton_costume_cute",
         "star": 3,
-        "power": 443,
-        "attack": 420,
-        "defense": 404,
-        "health": 844,
+        "power": 506,
+        "attack": 483,
+        "defense": 465,
+        "health": 1013,
         "effects": [
             "對目標造成 315% 傷害。",
             "對神聖系造成額外傷害。",
@@ -48849,16 +48849,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 702,
         "lb1": {
-            "attack": 476,
-            "defense": 459,
-            "health": 957,
-            "power": 494
+            "attack": 548,
+            "defense": 527,
+            "health": 1148,
+            "power": 565
         },
         "lb2": {
-            "attack": 589,
-            "defense": 567,
-            "health": 1182,
-            "power": 595
+            "attack": 677,
+            "defense": 652,
+            "health": 1419,
+            "power": 683
         },
         "cn_skill_info": [
             {
@@ -48905,10 +48905,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_running_skeleton_costume_glass",
         "star": 3,
-        "power": 444,
-        "attack": 429,
-        "defense": 399,
-        "health": 839,
+        "power": 518,
+        "attack": 506,
+        "defense": 471,
+        "health": 1032,
         "effects": [
             "對目標造成 325% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -48921,16 +48921,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 703,
         "lb1": {
-            "attack": 486,
-            "defense": 453,
-            "health": 951,
-            "power": 495
+            "attack": 574,
+            "defense": 534,
+            "health": 1170,
+            "power": 579
         },
         "lb2": {
-            "attack": 601,
-            "defense": 559,
-            "health": 1175,
-            "power": 596
+            "attack": 709,
+            "defense": 660,
+            "health": 1446,
+            "power": 700
         },
         "cn_skill_info": [
             {
@@ -49179,10 +49179,10 @@ window.allHeroes =
         ],
         "heroId": "s5_ahhotep_costume_champion",
         "star": 4,
-        "power": 684,
-        "attack": 648,
-        "defense": 692,
-        "health": 1275,
+        "power": 699,
+        "attack": 661,
+        "defense": 706,
+        "health": 1326,
         "effects": [
             "對目標造成 370% 傷害，並對附近敵人造成輕微傷害。",
             "若目標在接下來 3 回合內被打敗，則施法者的所有盟友獲得 +15% 法力。"
@@ -49198,16 +49198,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 707,
         "lb1": {
-            "attack": 704,
-            "defense": 752,
-            "health": 1385,
-            "power": 735
+            "attack": 718,
+            "defense": 767,
+            "health": 1440,
+            "power": 752
         },
         "lb2": {
-            "attack": 816,
-            "defense": 872,
-            "health": 1606,
-            "power": 839
+            "attack": 832,
+            "defense": 890,
+            "health": 1670,
+            "power": 859
         },
         "cn_skill_info": [
             {
@@ -49307,10 +49307,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_ghost_woman_costume_yurei",
         "star": 4,
-        "power": 650,
-        "attack": 680,
-        "defense": 633,
-        "health": 1075,
+        "power": 672,
+        "attack": 700,
+        "defense": 652,
+        "health": 1139,
         "effects": [
             "對施法者施放完整移除。",
             "施法者轉變為幽靈型態，持續 4 回合。在變為幽靈型態時，角色無法獲得法力，且無法被特殊技能治療，但對普通攻擊、特殊技能攻擊、造成傷害的被動技能、狀態效果和疊加免疫。對新的成長與枯萎效果免疫。",
@@ -49322,16 +49322,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 709,
         "lb1": {
-            "attack": 738,
-            "defense": 688,
-            "health": 1168,
-            "power": 699
+            "attack": 761,
+            "defense": 708,
+            "health": 1238,
+            "power": 722
         },
         "lb2": {
-            "attack": 856,
-            "defense": 797,
-            "health": 1354,
-            "power": 797
+            "attack": 882,
+            "defense": 821,
+            "health": 1435,
+            "power": 824
         },
         "cn_skill_info": [
             {
@@ -49519,10 +49519,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "halloween_ana_belle_costume_mafia",
         "star": 4,
-        "power": 685,
-        "attack": 637,
-        "defense": 688,
-        "health": 1319,
+        "power": 775,
+        "attack": 733,
+        "defense": 791,
+        "health": 1517,
         "effects": [
             "驅散並淨化所有盟友和敵人的全部增益與狀態異常。",
             "為所有盟友恢復 43% 生命。",
@@ -49535,16 +49535,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 712,
         "lb1": {
-            "attack": 692,
-            "defense": 748,
-            "health": 1433,
-            "power": 737
+            "attack": 796,
+            "defense": 860,
+            "health": 1648,
+            "power": 835
         },
         "lb2": {
-            "attack": 803,
-            "defense": 867,
-            "health": 1662,
-            "power": 841
+            "attack": 923,
+            "defense": 997,
+            "health": 1911,
+            "power": 954
         },
         "cn_skill_info": [
             {
@@ -49789,10 +49789,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "wonderland_cheshire_cat_costume_malicious",
         "star": 4,
-        "power": 649,
-        "attack": 714,
-        "defense": 614,
-        "health": 1020,
+        "power": 684,
+        "attack": 749,
+        "defense": 644,
+        "health": 1122,
         "effects": [
             "隨機重新排列敵人位置。",
             "所有神聖敵人獲得 -34% 防禦，持續 4 回合。",
@@ -49803,16 +49803,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 716,
         "lb1": {
-            "attack": 775,
-            "defense": 667,
-            "health": 1108,
-            "power": 698
+            "attack": 814,
+            "defense": 700,
+            "health": 1219,
+            "power": 736
         },
         "lb2": {
-            "attack": 899,
-            "defense": 773,
-            "health": 1284,
-            "power": 795
+            "attack": 944,
+            "defense": 812,
+            "health": 1413,
+            "power": 840
         },
         "cn_skill_info": [
             {
@@ -49973,10 +49973,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_captain_warrior_costume_prince",
         "star": 4,
-        "power": 642,
-        "attack": 529,
-        "defense": 665,
-        "health": 1328,
+        "power": 688,
+        "attack": 566,
+        "defense": 711,
+        "health": 1474,
         "effects": [
             "所有盟友以所受傷害的 60% 進行反擊，持續 4 回合。"
         ],
@@ -49985,16 +49985,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 719,
         "lb1": {
-            "attack": 574,
-            "defense": 722,
-            "health": 1443,
-            "power": 690
+            "attack": 615,
+            "defense": 773,
+            "health": 1601,
+            "power": 740
         },
         "lb2": {
-            "attack": 666,
-            "defense": 837,
-            "health": 1673,
-            "power": 786
+            "attack": 713,
+            "defense": 896,
+            "health": 1857,
+            "power": 845
         },
         "cn_skill_info": [
             {
@@ -50029,10 +50029,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_captain_warrior_costume_reveller",
         "star": 4,
-        "power": 642,
-        "attack": 573,
-        "defense": 637,
-        "health": 1279,
+        "power": 735,
+        "attack": 659,
+        "defense": 733,
+        "health": 1535,
         "effects": [
             "施法者與附近盟友進行反擊，造成所受傷害 80% 的傷害，持續 4 回合。",
             "施法者與附近盟友每次反擊可恢復適量法力，持續 4 回合。同一回合中，效果經連續啟動會減弱。",
@@ -50043,16 +50043,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 720,
         "lb1": {
-            "attack": 623,
-            "defense": 692,
-            "health": 1390,
-            "power": 691
+            "attack": 716,
+            "defense": 796,
+            "health": 1668,
+            "power": 792
         },
         "lb2": {
-            "attack": 722,
-            "defense": 803,
-            "health": 1611,
-            "power": 788
+            "attack": 831,
+            "defense": 923,
+            "health": 1933,
+            "power": 904
         },
         "cn_skill_info": [
             {
@@ -50087,10 +50087,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_captain_warrior_costume_cute",
         "star": 4,
-        "power": 643,
-        "attack": 561,
-        "defense": 601,
-        "health": 1383,
+        "power": 747,
+        "attack": 656,
+        "defense": 703,
+        "health": 1687,
         "effects": [
             "施法者與附近盟友以所受傷害的 125% 進行反擊，持續 5 回合。此狀態效果无法驅散，對暗黑系角色持續時間延長 2 回合。"
         ],
@@ -50101,16 +50101,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 721,
         "lb1": {
-            "attack": 609,
-            "defense": 653,
-            "health": 1503,
-            "power": 691
+            "attack": 713,
+            "defense": 764,
+            "health": 1833,
+            "power": 805
         },
         "lb2": {
-            "attack": 706,
-            "defense": 757,
-            "health": 1742,
-            "power": 787
+            "attack": 826,
+            "defense": 886,
+            "health": 2126,
+            "power": 919
         },
         "cn_skill_info": [
             {
@@ -50144,10 +50144,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_captain_warrior_costume_glass",
         "star": 4,
-        "power": 643,
-        "attack": 558,
-        "defense": 605,
-        "health": 1387,
+        "power": 760,
+        "attack": 665,
+        "defense": 720,
+        "health": 1720,
         "effects": [
             "施法者與附近盟友進行反擊，造成所受傷害 125% 的傷害，持續 5 回合。",
             "所有暗黑系盟友反射狀態異常和負面效果疊加，持續 2 回合。（同隊角色、小兵和惡魔施放的狀態效果無法反彈）"
@@ -50159,16 +50159,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 722,
         "lb1": {
-            "attack": 607,
-            "defense": 658,
-            "health": 1507,
-            "power": 692
+            "attack": 722,
+            "defense": 783,
+            "health": 1869,
+            "power": 818
         },
         "lb2": {
-            "attack": 704,
-            "defense": 762,
-            "health": 1748,
-            "power": 789
+            "attack": 837,
+            "defense": 907,
+            "health": 2167,
+            "power": 935
         },
         "cn_skill_info": [
             {
@@ -50402,10 +50402,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_fura_costume_herbalist",
         "star": 4,
-        "power": 660,
-        "attack": 728,
-        "defense": 607,
-        "health": 1075,
+        "power": 681,
+        "attack": 750,
+        "defense": 625,
+        "health": 1139,
         "effects": [
             "對目標及附近敵人造成 280% 傷害。",
             "使目標和附近敵人的法力減少 15%。",
@@ -50416,16 +50416,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 726,
         "lb1": {
-            "attack": 791,
-            "defense": 660,
-            "health": 1168,
-            "power": 710
+            "attack": 815,
+            "defense": 680,
+            "health": 1238,
+            "power": 733
         },
         "lb2": {
-            "attack": 918,
-            "defense": 765,
-            "health": 1354,
-            "power": 810
+            "attack": 945,
+            "defense": 788,
+            "health": 1435,
+            "power": 837
         },
         "cn_skill_info": [
             {
@@ -51153,10 +51153,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "knights_merlin_costume_astrology",
         "star": 4,
-        "power": 645,
-        "attack": 711,
-        "defense": 603,
-        "health": 1017,
+        "power": 680,
+        "attack": 747,
+        "defense": 633,
+        "health": 1119,
         "effects": [
             "對目標及附近敵人造成 210% 傷害。",
             "敵人的法力越高，受到的傷害越大，最高可達 270%。",
@@ -51167,16 +51167,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 737,
         "lb1": {
-            "attack": 773,
-            "defense": 655,
-            "health": 1106,
-            "power": 693
+            "attack": 812,
+            "defense": 688,
+            "health": 1216,
+            "power": 732
         },
         "lb2": {
-            "attack": 896,
-            "defense": 760,
-            "health": 1282,
-            "power": 790
+            "attack": 941,
+            "defense": 798,
+            "health": 1410,
+            "power": 835
         },
         "cn_skill_info": [
             {
@@ -51279,10 +51279,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_proteus_costume_farseer",
         "star": 4,
-        "power": 650,
-        "attack": 752,
-        "defense": 539,
-        "health": 1081,
+        "power": 671,
+        "attack": 774,
+        "defense": 555,
+        "health": 1146,
         "effects": [
             "所有敵人在 2 回合內受到共計 324 點劇毒傷害。",
             "所有敵人獲得 -50% 法力產出，持續 4 回合。"
@@ -51292,16 +51292,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 739,
         "lb1": {
-            "attack": 817,
-            "defense": 586,
-            "health": 1175,
-            "power": 699
+            "attack": 841,
+            "defense": 604,
+            "health": 1245,
+            "power": 722
         },
         "lb2": {
-            "attack": 947,
-            "defense": 679,
-            "health": 1362,
-            "power": 797
+            "attack": 976,
+            "defense": 700,
+            "health": 1444,
+            "power": 824
         },
         "cn_skill_info": [
             {
@@ -51401,10 +51401,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_knight_costume_elegant",
         "star": 4,
-        "power": 645,
-        "attack": 603,
-        "defense": 669,
-        "health": 1156,
+        "power": 690,
+        "attack": 645,
+        "defense": 716,
+        "health": 1283,
         "effects": [
             "所有盟友在 3 回合內恢復 609 點生命值。",
             "所有盟友獲得 +48% 攻擊力，持續 3 回合。",
@@ -51415,16 +51415,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 741,
         "lb1": {
-            "attack": 655,
-            "defense": 727,
-            "health": 1256,
-            "power": 693
+            "attack": 701,
+            "defense": 778,
+            "health": 1394,
+            "power": 743
         },
         "lb2": {
-            "attack": 760,
-            "defense": 843,
-            "health": 1456,
-            "power": 790
+            "attack": 813,
+            "defense": 902,
+            "health": 1616,
+            "power": 848
         },
         "cn_skill_info": [
             {
@@ -51469,10 +51469,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_knight_costume_healer",
         "star": 4,
-        "power": 645,
-        "attack": 624,
-        "defense": 703,
-        "health": 1039,
+        "power": 736,
+        "attack": 718,
+        "defense": 808,
+        "health": 1246,
         "effects": [
             "為所有盟友提供 410 點加成生命值。加成生命值能夠超過最大生命值。",
             "所有盟友獲得 +40% 防禦，持續 3 回合。",
@@ -51483,16 +51483,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 742,
         "lb1": {
-            "attack": 678,
-            "defense": 764,
-            "health": 1129,
-            "power": 694
+            "attack": 780,
+            "defense": 878,
+            "health": 1354,
+            "power": 793
         },
         "lb2": {
-            "attack": 787,
-            "defense": 886,
-            "health": 1309,
-            "power": 791
+            "attack": 905,
+            "defense": 1019,
+            "health": 1570,
+            "power": 906
         },
         "cn_skill_info": [
             {
@@ -51539,10 +51539,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_knight_costume_cute",
         "star": 4,
-        "power": 646,
-        "attack": 688,
-        "defense": 624,
-        "health": 1045,
+        "power": 749,
+        "attack": 805,
+        "defense": 730,
+        "health": 1275,
         "effects": [
             "為所有盟友恢復 45% 生命值。",
             "所有盟友獲得 +34% 防禦，持續 3 回合。此狀態效果无法驅散，對暗黑系角色持續時間延長 2 回合。",
@@ -51555,16 +51555,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 743,
         "lb1": {
-            "attack": 748,
-            "defense": 678,
-            "health": 1136,
-            "power": 695
+            "attack": 875,
+            "defense": 794,
+            "health": 1385,
+            "power": 807
         },
         "lb2": {
-            "attack": 867,
-            "defense": 787,
-            "health": 1317,
-            "power": 793
+            "attack": 1014,
+            "defense": 920,
+            "health": 1606,
+            "power": 922
         },
         "cn_skill_info": [
             {
@@ -51611,10 +51611,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_knight_costume_glass",
         "star": 4,
-        "power": 648,
-        "attack": 701,
-        "defense": 641,
-        "health": 990,
+        "power": 762,
+        "attack": 834,
+        "defense": 763,
+        "health": 1227,
         "effects": [
             "為所有盟友恢復 47% 生命值。",
             "所有暗黑系盟友反射狀態異常和負面效果疊加，持續 2 回合。（同隊角色、小兵和惡魔施放的狀態效果無法反彈）",
@@ -51627,16 +51627,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 744,
         "lb1": {
-            "attack": 761,
-            "defense": 697,
-            "health": 1075,
-            "power": 697
+            "attack": 906,
+            "defense": 829,
+            "health": 1334,
+            "power": 820
         },
         "lb2": {
-            "attack": 883,
-            "defense": 808,
-            "health": 1247,
-            "power": 794
+            "attack": 1051,
+            "defense": 962,
+            "health": 1546,
+            "power": 938
         },
         "cn_skill_info": [
             {
@@ -51815,10 +51815,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_female_warrior_costume_princess",
         "star": 4,
-        "power": 640,
-        "attack": 707,
-        "defense": 612,
-        "health": 977,
+        "power": 684,
+        "attack": 757,
+        "defense": 654,
+        "health": 1085,
         "effects": [
             "所有盟友在 3 回合內恢復 609 點生命值。",
             "所有敵人在 3 回合內無法獲得新的增益。",
@@ -51829,16 +51829,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 747,
         "lb1": {
-            "attack": 768,
-            "defense": 664,
-            "health": 1062,
-            "power": 688
+            "attack": 822,
+            "defense": 711,
+            "health": 1178,
+            "power": 736
         },
         "lb2": {
-            "attack": 891,
-            "defense": 770,
-            "health": 1231,
-            "power": 784
+            "attack": 953,
+            "defense": 824,
+            "health": 1366,
+            "power": 840
         },
         "cn_skill_info": [
             {
@@ -51883,10 +51883,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_female_warrior_costume_rococo",
         "star": 4,
-        "power": 640,
-        "attack": 641,
-        "defense": 707,
-        "health": 954,
+        "power": 731,
+        "attack": 738,
+        "defense": 813,
+        "health": 1144,
         "effects": [
             "所有盟友在 3 回合內恢復 609 點生命值。",
             "所有盟友對新的狀態異常免疫，持續 3 回合。",
@@ -51897,16 +51897,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 748,
         "lb1": {
-            "attack": 697,
-            "defense": 768,
-            "health": 1036,
-            "power": 689
+            "attack": 801,
+            "defense": 884,
+            "health": 1244,
+            "power": 787
         },
         "lb2": {
-            "attack": 808,
-            "defense": 891,
-            "health": 1201,
-            "power": 785
+            "attack": 929,
+            "defense": 1025,
+            "health": 1442,
+            "power": 899
         },
         "cn_skill_info": [
             {
@@ -51953,10 +51953,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_female_warrior_costume_cute",
         "star": 4,
-        "power": 641,
-        "attack": 686,
-        "defense": 665,
-        "health": 930,
+        "power": 742,
+        "attack": 803,
+        "defense": 778,
+        "health": 1135,
         "effects": [
             "為所有盟友恢復 45% 生命值。",
             "所有盟友獲得 +34% 防禦，持續 3 回合。此狀態效果无法驅散，對暗黑系角色持續時間延長 2 回合。",
@@ -51969,16 +51969,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 749,
         "lb1": {
-            "attack": 745,
-            "defense": 722,
-            "health": 1011,
-            "power": 689
+            "attack": 872,
+            "defense": 845,
+            "health": 1233,
+            "power": 799
         },
         "lb2": {
-            "attack": 864,
-            "defense": 837,
-            "health": 1172,
-            "power": 785
+            "attack": 1011,
+            "defense": 980,
+            "health": 1430,
+            "power": 913
         },
         "cn_skill_info": [
             {
@@ -52021,10 +52021,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_female_warrior_costume_glass",
         "star": 4,
-        "power": 642,
-        "attack": 697,
-        "defense": 656,
-        "health": 926,
+        "power": 754,
+        "attack": 829,
+        "defense": 781,
+        "health": 1148,
         "effects": [
             "為所有盟友恢復 46% 生命值。",
             "所有暗黑系盟友反射狀態異常和負面效果疊加，持續 2 回合。",
@@ -52037,16 +52037,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 750,
         "lb1": {
-            "attack": 757,
-            "defense": 713,
-            "health": 1006,
-            "power": 690
+            "attack": 901,
+            "defense": 849,
+            "health": 1248,
+            "power": 812
         },
         "lb2": {
-            "attack": 878,
-            "defense": 827,
-            "health": 1167,
-            "power": 787
+            "attack": 1044,
+            "defense": 984,
+            "health": 1447,
+            "power": 928
         },
         "cn_skill_info": [
             {
@@ -52222,10 +52222,10 @@ window.allHeroes =
         ],
         "heroId": "tales1_sharkhai_costume_butcher",
         "star": 4,
-        "power": 689,
-        "attack": 720,
-        "defense": 641,
-        "health": 1236,
+        "power": 705,
+        "attack": 734,
+        "defense": 654,
+        "health": 1286,
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
@@ -52246,16 +52246,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 753,
         "lb1": {
-            "attack": 782,
-            "defense": 697,
-            "health": 1343,
-            "power": 741
+            "attack": 798,
+            "defense": 711,
+            "health": 1397,
+            "power": 758
         },
         "lb2": {
-            "attack": 907,
-            "defense": 808,
-            "health": 1558,
-            "power": 846
+            "attack": 925,
+            "defense": 824,
+            "health": 1620,
+            "power": 866
         },
         "cn_skill_info": [
             {
@@ -52612,10 +52612,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_commander_costume_metal",
         "star": 4,
-        "power": 639,
-        "attack": 656,
-        "defense": 643,
-        "health": 1037,
+        "power": 684,
+        "attack": 702,
+        "defense": 688,
+        "health": 1151,
         "effects": [
             "對所有敵人造成 175% 傷害。",
             "所有敵人獲得 -34% 防禦，持續 4 回合。"
@@ -52625,16 +52625,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 759,
         "lb1": {
-            "attack": 713,
-            "defense": 699,
-            "health": 1126,
-            "power": 687
+            "attack": 763,
+            "defense": 748,
+            "health": 1250,
+            "power": 736
         },
         "lb2": {
-            "attack": 827,
-            "defense": 811,
-            "health": 1306,
-            "power": 784
+            "attack": 885,
+            "defense": 867,
+            "health": 1450,
+            "power": 840
         },
         "cn_skill_info": [
             {
@@ -52672,10 +52672,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_commander_costume_feather",
         "star": 4,
-        "power": 639,
-        "attack": 635,
-        "defense": 660,
-        "health": 1054,
+        "power": 730,
+        "attack": 730,
+        "defense": 760,
+        "health": 1264,
         "effects": [
             "對目標造成 295% 傷害，並對附近敵人造成輕微傷害。",
             "在 4 個回合內使目標與附近敵人的最大生命值降低 600 點。對有生命加成的目標效果更大。最大生命值不得低於原最大生命值的 30%。任何生命值加成會造成額外降低每回合 150 點。"
@@ -52685,16 +52685,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 760,
         "lb1": {
-            "attack": 690,
-            "defense": 718,
-            "health": 1145,
-            "power": 687
+            "attack": 793,
+            "defense": 825,
+            "health": 1374,
+            "power": 785
         },
         "lb2": {
-            "attack": 800,
-            "defense": 832,
-            "health": 1327,
-            "power": 783
+            "attack": 920,
+            "defense": 957,
+            "health": 1593,
+            "power": 897
         },
         "cn_skill_info": [
             {
@@ -52735,10 +52735,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_commander_costume_cute",
         "star": 4,
-        "power": 641,
-        "attack": 646,
-        "defense": 677,
-        "health": 1003,
+        "power": 742,
+        "attack": 755,
+        "defense": 793,
+        "health": 1223,
         "effects": [
             "對目標造成 325% 傷害，並對附近敵人造成輕微傷害。",
             "目標與附近敵人獲得 -24% 防禦，持續 6 回合。",
@@ -52751,16 +52751,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 761,
         "lb1": {
-            "attack": 701,
-            "defense": 736,
-            "health": 1089,
-            "power": 688
+            "attack": 821,
+            "defense": 861,
+            "health": 1329,
+            "power": 799
         },
         "lb2": {
-            "attack": 813,
-            "defense": 853,
-            "health": 1263,
-            "power": 785
+            "attack": 952,
+            "defense": 999,
+            "health": 1541,
+            "power": 913
         },
         "cn_skill_info": [
             {
@@ -52807,10 +52807,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_commander_costume_glass",
         "star": 4,
-        "power": 642,
-        "attack": 654,
-        "defense": 673,
-        "health": 998,
+        "power": 754,
+        "attack": 778,
+        "defense": 801,
+        "health": 1238,
         "effects": [
             "對目標造成 335% 傷害，並對附近敵人造成輕微傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -52823,16 +52823,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 762,
         "lb1": {
-            "attack": 711,
-            "defense": 731,
-            "health": 1085,
-            "power": 690
+            "attack": 846,
+            "defense": 871,
+            "health": 1345,
+            "power": 813
         },
         "lb2": {
-            "attack": 824,
-            "defense": 848,
-            "health": 1258,
-            "power": 786
+            "attack": 981,
+            "defense": 1009,
+            "health": 1560,
+            "power": 929
         },
         "cn_skill_info": [
             {
@@ -53093,10 +53093,10 @@ window.allHeroes =
         ],
         "heroId": "dark_god_aeron_costume_periwig",
         "star": 5,
-        "power": 768,
-        "attack": 702,
-        "defense": 739,
-        "health": 1363,
+        "power": 977,
+        "attack": 899,
+        "defense": 931,
+        "health": 1977,
         "effects": [
             "為所有盟友恢復 47% 生命值。",
             "消除施法者與附近盟友的全部可淨化的狀態異常，並隨機分配給所有敵人。",
@@ -53109,16 +53109,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 766,
         "lb1": {
-            "attack": 757,
-            "defense": 796,
-            "health": 1469,
-            "power": 818
+            "attack": 968,
+            "defense": 1004,
+            "health": 2130,
+            "power": 1043
         },
         "lb2": {
-            "attack": 866,
-            "defense": 911,
-            "health": 1681,
-            "power": 918
+            "attack": 1108,
+            "defense": 1148,
+            "health": 2438,
+            "power": 1175
         },
         "cn_skill_info": [
             {
@@ -53345,10 +53345,10 @@ window.allHeroes =
         ],
         "heroId": "magic_agrafena_costume_dark",
         "star": 5,
-        "power": 815,
-        "attack": 758,
-        "defense": 791,
-        "health": 1452,
+        "power": 1208,
+        "attack": 1190,
+        "defense": 1241,
+        "health": 2280,
         "effects": [
             "特殊技能在法力充能達 100% / 200% 時有不同效果：",
             "1 倍法力充能：",
@@ -53368,16 +53368,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 769,
         "lb1": {
-            "attack": 816,
-            "defense": 852,
-            "health": 1565,
-            "power": 868
+            "attack": 1282,
+            "defense": 1338,
+            "health": 2457,
+            "power": 1292
         },
         "lb2": {
-            "attack": 934,
-            "defense": 975,
-            "health": 1790,
-            "power": 975
+            "attack": 1467,
+            "defense": 1531,
+            "health": 2811,
+            "power": 1460
         },
         "cn_skill_info": [
             {
@@ -53571,10 +53571,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_alfrike_costume_hatter",
         "star": 5,
-        "power": 791,
-        "attack": 609,
-        "defense": 906,
-        "health": 1423,
+        "power": 991,
+        "attack": 780,
+        "defense": 1160,
+        "health": 1921,
         "effects": [
             "對命中的目標造成 240% 傷害。",
             "對隨機敵人施放 5 個暗黑立方體。",
@@ -53586,16 +53586,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 772,
         "lb1": {
-            "attack": 657,
-            "defense": 976,
-            "health": 1534,
-            "power": 842
+            "attack": 841,
+            "defense": 1250,
+            "health": 2070,
+            "power": 1059
         },
         "lb2": {
-            "attack": 751,
-            "defense": 1117,
-            "health": 1755,
-            "power": 946
+            "attack": 962,
+            "defense": 1430,
+            "health": 2369,
+            "power": 1193
         },
         "cn_skill_info": [
             {
@@ -53941,10 +53941,10 @@ window.allHeroes =
         ],
         "heroId": "s5_anubis_costume_dancefloor",
         "star": 5,
-        "power": 870,
-        "attack": 819,
-        "defense": 842,
-        "health": 1594,
+        "power": 1217,
+        "attack": 1188,
+        "defense": 1221,
+        "health": 2391,
         "effects": [
             "對目標造成貪婪，持續 3 回合。特殊技能的友善效果僅影響具有「貪婪」的角色。",
             "所有敵人在 3 回合內受到共計 888 點劇毒傷害。",
@@ -53961,16 +53961,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 777,
         "lb1": {
-            "attack": 883,
-            "defense": 907,
-            "health": 1718,
-            "power": 928
+            "attack": 1281,
+            "defense": 1316,
+            "health": 2577,
+            "power": 1302
         },
         "lb2": {
-            "attack": 1010,
-            "defense": 1038,
-            "health": 1965,
-            "power": 1044
+            "attack": 1465,
+            "defense": 1506,
+            "health": 2948,
+            "power": 1472
         },
         "cn_skill_info": [
             {
@@ -54089,10 +54089,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "musketeer_aramis_costume_boulanger",
         "star": 5,
-        "power": 847,
-        "attack": 883,
-        "defense": 776,
-        "health": 1400,
+        "power": 1254,
+        "attack": 1369,
+        "defense": 1203,
+        "health": 2241,
         "effects": [
             "對目標及附近敵人造成 400% 傷害。",
             "為所有盟友提升所造成傷害 30% 的生命值。",
@@ -54107,16 +54107,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 779,
         "lb1": {
-            "attack": 952,
-            "defense": 836,
-            "health": 1509,
-            "power": 903
+            "attack": 1476,
+            "defense": 1297,
+            "health": 2415,
+            "power": 1342
         },
         "lb2": {
-            "attack": 1089,
-            "defense": 957,
-            "health": 1727,
-            "power": 1015
+            "attack": 1688,
+            "defense": 1484,
+            "health": 2763,
+            "power": 1518
         },
         "cn_skill_info": [
             {
@@ -54467,10 +54467,10 @@ window.allHeroes =
         ],
         "heroId": "s5_bastet_costume_forest",
         "star": 5,
-        "power": 863,
-        "attack": 791,
-        "defense": 875,
-        "health": 1549,
+        "power": 1206,
+        "attack": 1147,
+        "defense": 1269,
+        "health": 2323,
         "effects": [
             "對所有敵人造成 210% 傷害。",
             "所有盟友有 +45% 的機率閃避特殊技能，持續 3 回合。每次閃避都會獲得 +10% 防禦疊加。（最大值： 10 ）"
@@ -54486,16 +54486,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 784,
         "lb1": {
-            "attack": 852,
-            "defense": 943,
-            "health": 1669,
-            "power": 920
+            "attack": 1236,
+            "defense": 1368,
+            "health": 2504,
+            "power": 1291
         },
         "lb2": {
-            "attack": 975,
-            "defense": 1079,
-            "health": 1910,
-            "power": 1035
+            "attack": 1414,
+            "defense": 1565,
+            "health": 2865,
+            "power": 1459
         },
         "cn_skill_info": [
             {
@@ -54633,10 +54633,10 @@ window.allHeroes =
         ],
         "heroId": "magic_becky_costume_gothic",
         "star": 5,
-        "power": 909,
-        "attack": 885,
-        "defense": 894,
-        "health": 1600,
+        "power": 1234,
+        "attack": 1248,
+        "defense": 1260,
+        "health": 2288,
         "effects": [
             "特殊技能在法力充能達 100% / 200% 時有不同效果：",
             "1 倍法力充能：",
@@ -54656,16 +54656,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 786,
         "lb1": {
-            "attack": 954,
-            "defense": 963,
-            "health": 1724,
-            "power": 969
+            "attack": 1345,
+            "defense": 1358,
+            "health": 2466,
+            "power": 1321
         },
         "lb2": {
-            "attack": 1092,
-            "defense": 1102,
-            "health": 1973,
-            "power": 1091
+            "attack": 1540,
+            "defense": 1554,
+            "health": 2822,
+            "power": 1494
         },
         "cn_skill_info": [
             {
@@ -54855,10 +54855,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_bera_costume_conjurer",
         "star": 5,
-        "power": 785,
-        "attack": 743,
-        "defense": 723,
-        "health": 1417,
+        "power": 984,
+        "attack": 951,
+        "defense": 925,
+        "health": 1913,
         "effects": [
             "為每個盟友召喚一個蛾小兵。蛾小兵繼承施法者 30% 攻擊與 30% 生命。",
             "蛾小兵的每一次攻擊都會對被命中的目標施加下列的狀態異常：",
@@ -54870,16 +54870,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 789,
         "lb1": {
-            "attack": 801,
-            "defense": 779,
-            "health": 1527,
-            "power": 837
+            "attack": 1025,
+            "defense": 997,
+            "health": 2061,
+            "power": 1051
         },
         "lb2": {
-            "attack": 916,
-            "defense": 891,
-            "health": 1747,
-            "power": 939
+            "attack": 1173,
+            "defense": 1141,
+            "health": 2359,
+            "power": 1185
         },
         "cn_skill_info": [
             {
@@ -55586,10 +55586,10 @@ window.allHeroes =
         ],
         "heroId": "villain_dark_lord_costume_astronomer",
         "star": 5,
-        "power": 807,
-        "attack": 850,
-        "defense": 706,
-        "health": 1336,
+        "power": 1205,
+        "attack": 1335,
+        "defense": 1109,
+        "health": 2165,
         "effects": [
             "對目標造成 560% 傷害。",
             "將目標與附近敵人的增益持續時間減少 2 個回合。（修改持續時間會影響可驅散與无法驅散效果。若任意效果的持續時間減少至零，則將效果視為正常失效）",
@@ -55602,16 +55602,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 799,
         "lb1": {
-            "attack": 916,
-            "defense": 761,
-            "health": 1440,
-            "power": 860
+            "attack": 1439,
+            "defense": 1195,
+            "health": 2334,
+            "power": 1290
         },
         "lb2": {
-            "attack": 1049,
-            "defense": 871,
-            "health": 1648,
-            "power": 966
+            "attack": 1646,
+            "defense": 1367,
+            "health": 2670,
+            "power": 1457
         },
         "cn_skill_info": [
             {
@@ -56096,10 +56096,10 @@ window.allHeroes =
         ],
         "heroId": "kingdom_diaochan_costume_flowers",
         "star": 5,
-        "power": 836,
-        "attack": 795,
-        "defense": 807,
-        "health": 1479,
+        "power": 1105,
+        "attack": 1073,
+        "defense": 1090,
+        "health": 2144,
         "effects": [
             "為所有盟友恢復 33% 生命值。",
             "為施法者與附近盟友召喚一個奴僕小兵，其可從施法者繼承 33% 生命和 33% 攻擊。",
@@ -56115,16 +56115,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 806,
         "lb1": {
-            "attack": 856,
-            "defense": 870,
-            "health": 1593,
-            "power": 891
+            "attack": 1156,
+            "defense": 1174,
+            "health": 2311,
+            "power": 1181
         },
         "lb2": {
-            "attack": 980,
-            "defense": 995,
-            "health": 1823,
-            "power": 1001
+            "attack": 1323,
+            "defense": 1344,
+            "health": 2644,
+            "power": 1334
         },
         "cn_skill_info": [
             {
@@ -56228,10 +56228,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "magitech_sniper_costume_steampunk",
         "star": 5,
-        "power": 757,
-        "attack": 741,
-        "defense": 690,
-        "health": 1283,
+        "power": 852,
+        "attack": 838,
+        "defense": 779,
+        "health": 1540,
         "effects": [
             "對目標造成 400% 傷害。",
             "目標與附近敵人在 4 回合內受到共計 356 點劇毒傷害。",
@@ -56242,16 +56242,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 808,
         "lb1": {
-            "attack": 799,
-            "defense": 743,
-            "health": 1383,
-            "power": 806
+            "attack": 903,
+            "defense": 840,
+            "health": 1659,
+            "power": 908
         },
         "lb2": {
-            "attack": 914,
-            "defense": 850,
-            "health": 1582,
-            "power": 904
+            "attack": 1033,
+            "defense": 961,
+            "health": 1898,
+            "power": 1021
         },
         "cn_skill_info": [
             {
@@ -56292,10 +56292,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "magitech_sniper_costume_undead",
         "star": 5,
-        "power": 757,
-        "attack": 729,
-        "defense": 700,
-        "health": 1293,
+        "power": 967,
+        "attack": 940,
+        "defense": 903,
+        "health": 1862,
         "effects": [
             "對目標及附近敵人造成 335% 傷害。",
             "目標與附近敵人獲得對暗黑系 -64% 的防禦，持續 4 回合。對神聖系角色，此狀態效果變為無法淨化且持續時間延長 2 回合。",
@@ -56306,16 +56306,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 809,
         "lb1": {
-            "attack": 785,
-            "defense": 754,
-            "health": 1394,
-            "power": 806
+            "attack": 1013,
+            "defense": 973,
+            "health": 2007,
+            "power": 1032
         },
         "lb2": {
-            "attack": 899,
-            "defense": 863,
-            "health": 1595,
-            "power": 904
+            "attack": 1159,
+            "defense": 1114,
+            "health": 2296,
+            "power": 1164
         },
         "cn_skill_info": [
             {
@@ -56363,10 +56363,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "magitech_sniper_costume_cute",
         "star": 5,
-        "power": 758,
-        "attack": 753,
-        "defense": 671,
-        "health": 1303,
+        "power": 1135,
+        "attack": 1168,
+        "defense": 1040,
+        "health": 2216,
         "effects": [
             "對目標造成 590% 傷害。",
             "施法者和附近盟友獲得對神聖系 +64% 的防禦，持續 4 回合。",
@@ -56380,16 +56380,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 810,
         "lb1": {
-            "attack": 812,
-            "defense": 723,
-            "health": 1405,
-            "power": 808
+            "attack": 1259,
+            "defense": 1121,
+            "health": 2388,
+            "power": 1213
         },
         "lb2": {
-            "attack": 929,
-            "defense": 828,
-            "health": 1607,
-            "power": 906
+            "attack": 1440,
+            "defense": 1283,
+            "health": 2733,
+            "power": 1370
         },
         "cn_skill_info": [
             {
@@ -56439,10 +56439,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "magitech_sniper_costume_glass",
         "star": 5,
-        "power": 759,
-        "attack": 764,
-        "defense": 659,
-        "health": 1306,
+        "power": 1241,
+        "attack": 1337,
+        "defense": 1153,
+        "health": 2324,
         "effects": [
             "對目標造成 600% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -56456,16 +56456,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 811,
         "lb1": {
-            "attack": 823,
-            "defense": 710,
-            "health": 1407,
-            "power": 808
+            "attack": 1441,
+            "defense": 1243,
+            "health": 2505,
+            "power": 1328
         },
         "lb2": {
-            "attack": 942,
-            "defense": 812,
-            "health": 1610,
-            "power": 907
+            "attack": 1649,
+            "defense": 1422,
+            "health": 2866,
+            "power": 1501
         },
         "cn_skill_info": [
             {
@@ -56575,10 +56575,10 @@ window.allHeroes =
         ],
         "heroId": "s4_doctor_moreau_costume_scribe",
         "star": 5,
-        "power": 807,
-        "attack": 760,
-        "defense": 764,
-        "health": 1446,
+        "power": 1022,
+        "attack": 988,
+        "defense": 993,
+        "health": 1952,
         "effects": [
             "對目標及附近敵人造成 265% 傷害。",
             "目標與附近敵人獲得 -40% 精準度，持續 4 回合。如果目標受到治療，效果持續時間會重設。失手率也會套用在攻擊型特殊技能上。"
@@ -56591,16 +56591,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 813,
         "lb1": {
-            "attack": 819,
-            "defense": 823,
-            "health": 1558,
-            "power": 860
+            "attack": 1064,
+            "defense": 1070,
+            "health": 2103,
+            "power": 1091
         },
         "lb2": {
-            "attack": 937,
-            "defense": 942,
-            "health": 1783,
-            "power": 966
+            "attack": 1218,
+            "defense": 1225,
+            "health": 2407,
+            "power": 1231
         },
         "cn_skill_info": [
             {
@@ -57470,10 +57470,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_freya_costume_witch",
         "star": 5,
-        "power": 792,
-        "attack": 756,
-        "defense": 762,
-        "health": 1351,
+        "power": 991,
+        "attack": 967,
+        "defense": 975,
+        "health": 1824,
         "effects": [
             "為每個盟友召喚一個渡鴉小兵，其可從施法者繼承 25% 生命與 15% 攻擊。",
             "渡鴉小兵會給予主人的所有其他小兵 +180% 攻擊。",
@@ -57484,16 +57484,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 825,
         "lb1": {
-            "attack": 814,
-            "defense": 821,
-            "health": 1456,
-            "power": 843
+            "attack": 1042,
+            "defense": 1051,
+            "health": 1966,
+            "power": 1059
         },
         "lb2": {
-            "attack": 932,
-            "defense": 939,
-            "health": 1666,
-            "power": 947
+            "attack": 1193,
+            "defense": 1202,
+            "health": 2249,
+            "power": 1193
         },
         "cn_skill_info": [
             {
@@ -58022,10 +58022,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elemental_griffex_costume_camera",
         "star": 5,
-        "power": 909,
-        "attack": 850,
-        "defense": 887,
-        "health": 1707,
+        "power": 1231,
+        "attack": 1191,
+        "defense": 1243,
+        "health": 2442,
         "effects": [
             "為所有神聖敵人减少 100% 的法力。減少所有其他敵人 55% 的法力。",
             "為除了施法者之外的所有暗黑系盟友增加 30% 的法力。使所有盟友的法力增加 15%。（對其他格非斯角色無效。）",
@@ -58042,16 +58042,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 833,
         "lb1": {
-            "attack": 916,
-            "defense": 956,
-            "health": 1840,
-            "power": 970
+            "attack": 1283,
+            "defense": 1339,
+            "health": 2631,
+            "power": 1317
         },
         "lb2": {
-            "attack": 1049,
-            "defense": 1094,
-            "health": 2105,
-            "power": 1093
+            "attack": 1468,
+            "defense": 1532,
+            "health": 3011,
+            "power": 1489
         },
         "cn_skill_info": [
             {
@@ -58230,10 +58230,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "guardian_cat_warrior_costume_fierce",
         "star": 5,
-        "power": 765,
-        "attack": 766,
-        "defense": 644,
-        "health": 1369,
+        "power": 959,
+        "attack": 973,
+        "defense": 805,
+        "health": 1917,
         "effects": [
             "對所有敵人造成 285% 傷害。",
             "所有敵人對暗黑增加 -34% 防禦，持續 3 回合。",
@@ -58244,16 +58244,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 836,
         "lb1": {
-            "attack": 825,
-            "defense": 694,
-            "health": 1476,
-            "power": 814
+            "attack": 1048,
+            "defense": 868,
+            "health": 2066,
+            "power": 1024
         },
         "lb2": {
-            "attack": 944,
-            "defense": 795,
-            "health": 1689,
-            "power": 914
+            "attack": 1199,
+            "defense": 993,
+            "health": 2364,
+            "power": 1153
         },
         "cn_skill_info": [
             {
@@ -58448,10 +58448,10 @@ window.allHeroes =
         ],
         "heroId": "s4_hannah_costume_drover",
         "star": 5,
-        "power": 808,
-        "attack": 793,
-        "defense": 739,
-        "health": 1419,
+        "power": 1023,
+        "attack": 1031,
+        "defense": 961,
+        "health": 1916,
         "effects": [
             "對目標及附近敵人造成 225% 傷害。",
             "對目標與附近敵人召喚金像惡魔。惡魔每回合以 36% 的攻擊力對敵人造成傷害。",
@@ -58466,16 +58466,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 839,
         "lb1": {
-            "attack": 854,
-            "defense": 796,
-            "health": 1529,
-            "power": 860
+            "attack": 1111,
+            "defense": 1036,
+            "health": 2064,
+            "power": 1092
         },
         "lb2": {
-            "attack": 977,
-            "defense": 911,
-            "health": 1750,
-            "power": 967
+            "attack": 1271,
+            "defense": 1185,
+            "health": 2362,
+            "power": 1232
         },
         "cn_skill_info": [
             {
@@ -58666,10 +58666,10 @@ window.allHeroes =
         ],
         "heroId": "dark_god_hel_costume_omen",
         "star": 5,
-        "power": 765,
-        "attack": 745,
-        "defense": 692,
-        "health": 1328,
+        "power": 972,
+        "attack": 954,
+        "defense": 872,
+        "health": 1926,
         "effects": [
             "對所有敵人造成 350% 傷害。",
             "施法者在 4 個回合內竊取所有敵人產出的法力，一開始僅竊取少量法力，每個回合逐漸增加，最後一回合會竊取產出的所有法力。此效果無法淨化，但在施法者被擊敗後會被移除。",
@@ -58683,16 +58683,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 842,
         "lb1": {
-            "attack": 803,
-            "defense": 745,
-            "health": 1431,
-            "power": 814
+            "attack": 1028,
+            "defense": 939,
+            "health": 2076,
+            "power": 1038
         },
         "lb2": {
-            "attack": 919,
-            "defense": 853,
-            "health": 1638,
-            "power": 914
+            "attack": 1176,
+            "defense": 1075,
+            "health": 2375,
+            "power": 1170
         },
         "cn_skill_info": [
             {
@@ -58890,10 +58890,10 @@ window.allHeroes =
         ],
         "heroId": "s4_hulda_costume_nurse",
         "star": 5,
-        "power": 816,
-        "attack": 756,
-        "defense": 803,
-        "health": 1446,
+        "power": 1034,
+        "attack": 982,
+        "defense": 1044,
+        "health": 1952,
         "effects": [
             "為每個盟友召喚一個幼蟲小兵，並從施法者繼承 36% 生命。小兵在每個回合結束時為主人恢復 15% 的生命。",
             "召喚幼蟲小兵之後，主人擁有幼蟲小兵期間，幼蟲小兵會賦予其主人 +24% 法力產出。此效果無法被驅散。",
@@ -58907,16 +58907,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 845,
         "lb1": {
-            "attack": 814,
-            "defense": 865,
-            "health": 1558,
-            "power": 870
+            "attack": 1059,
+            "defense": 1125,
+            "health": 2103,
+            "power": 1105
         },
         "lb2": {
-            "attack": 932,
-            "defense": 990,
-            "health": 1783,
-            "power": 978
+            "attack": 1211,
+            "defense": 1287,
+            "health": 2407,
+            "power": 1246
         },
         "cn_skill_info": [
             {
@@ -59252,10 +59252,10 @@ window.allHeroes =
         ],
         "heroId": "wonderland_jabberwocky_costume_moth",
         "star": 5,
-        "power": 780,
-        "attack": 753,
-        "defense": 741,
-        "health": 1318,
+        "power": 977,
+        "attack": 957,
+        "defense": 926,
+        "health": 1845,
         "effects": [
             "對位於敵方陣型邊緣的敵人造成 300% 傷害。如果只有一個敵人，傷害加倍。",
             "敵方陣型邊緣的敵人會受到腐蝕劇毒，持續 3 回合。腐蝕劇毒會造成 153 點劇毒傷害，而且每個回合降低目標的法力產出 -12%。此效果無法淨化。對擁有小兵或超級小兵的英雄造成額外傷害。"
@@ -59267,16 +59267,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 850,
         "lb1": {
-            "attack": 812,
-            "defense": 799,
-            "health": 1420,
-            "power": 831
+            "attack": 1031,
+            "defense": 998,
+            "health": 1989,
+            "power": 1043
         },
         "lb2": {
-            "attack": 929,
-            "defense": 914,
-            "health": 1625,
-            "power": 933
+            "attack": 1180,
+            "defense": 1143,
+            "health": 2275,
+            "power": 1176
         },
         "cn_skill_info": [
             {
@@ -59557,10 +59557,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_cursed_samurai_costume_beetle",
         "star": 5,
-        "power": 772,
-        "attack": 760,
-        "defense": 729,
-        "health": 1264,
+        "power": 942,
+        "attack": 950,
+        "defense": 911,
+        "health": 1644,
         "effects": [
             "驅散目標的增益。",
             "對目標造成 320% 傷害。",
@@ -59572,16 +59572,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 854,
         "lb1": {
-            "attack": 819,
-            "defense": 785,
-            "health": 1363,
-            "power": 822
+            "attack": 1023,
+            "defense": 982,
+            "health": 1772,
+            "power": 1006
         },
         "lb2": {
-            "attack": 937,
-            "defense": 899,
-            "health": 1559,
-            "power": 922
+            "attack": 1171,
+            "defense": 1123,
+            "health": 2027,
+            "power": 1133
         },
         "cn_skill_info": [
             {
@@ -59692,10 +59692,10 @@ window.allHeroes =
         ],
         "heroId": "villain_karnov_costume_jammies",
         "star": 5,
-        "power": 805,
-        "attack": 819,
-        "defense": 708,
-        "health": 1394,
+        "power": 1203,
+        "attack": 1287,
+        "defense": 1112,
+        "health": 2259,
         "effects": [
             "對所有敵人造成 340% 傷害。",
             "改變面板上所有暗黑系護盾的力量。當攻擊英雄施放特殊技能時，護盾會獲得強化並增加 +64% 攻擊力。當防禦英雄施放特殊技能時，護盾會被削弱 -57% 攻擊力。",
@@ -59708,16 +59708,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 856,
         "lb1": {
-            "attack": 883,
-            "defense": 763,
-            "health": 1502,
-            "power": 857
+            "attack": 1387,
+            "defense": 1198,
+            "health": 2434,
+            "power": 1286
         },
         "lb2": {
-            "attack": 1010,
-            "defense": 873,
-            "health": 1719,
-            "power": 963
+            "attack": 1587,
+            "defense": 1371,
+            "health": 2785,
+            "power": 1454
         },
         "cn_skill_info": [
             {
@@ -59894,10 +59894,10 @@ window.allHeroes =
         ],
         "heroId": "s5_khepri_costume_overlord",
         "star": 5,
-        "power": 862,
-        "attack": 840,
-        "defense": 813,
-        "health": 1545,
+        "power": 1205,
+        "attack": 1218,
+        "defense": 1179,
+        "health": 2317,
         "effects": [
             "對目標及附近敵人造成 265% 傷害。",
             "對目標與附近敵人召喚聖甲蟲炸彈惡魔。惡魔每回合以 38% 的攻擊力對敵人造成傷害。",
@@ -59915,16 +59915,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 859,
         "lb1": {
-            "attack": 905,
-            "defense": 876,
-            "health": 1665,
-            "power": 920
+            "attack": 1313,
+            "defense": 1271,
+            "health": 2497,
+            "power": 1290
         },
         "lb2": {
-            "attack": 1036,
-            "defense": 1003,
-            "health": 1905,
-            "power": 1035
+            "attack": 1502,
+            "defense": 1454,
+            "health": 2857,
+            "power": 1457
         },
         "cn_skill_info": [
             {
@@ -60028,10 +60028,10 @@ window.allHeroes =
         ],
         "heroId": "dark_god_september_costume_engineer",
         "star": 5,
-        "power": 769,
-        "attack": 753,
-        "defense": 700,
-        "health": 1318,
+        "power": 977,
+        "attack": 965,
+        "defense": 882,
+        "health": 1911,
         "effects": [
             "對目標造成 350% 傷害。",
             "施法者和附近盟友獲得 +45% 攻擊，並在每次被擊中後增加 20%，持續 4 回合。",
@@ -60044,16 +60044,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 861,
         "lb1": {
-            "attack": 812,
-            "defense": 754,
-            "health": 1420,
-            "power": 819
+            "attack": 1040,
+            "defense": 951,
+            "health": 2060,
+            "power": 1043
         },
         "lb2": {
-            "attack": 929,
-            "defense": 863,
-            "health": 1625,
-            "power": 919
+            "attack": 1189,
+            "defense": 1088,
+            "health": 2357,
+            "power": 1175
         },
         "cn_skill_info": [
             {
@@ -60159,10 +60159,10 @@ window.allHeroes =
         ],
         "heroId": "s5_khonshu_costume_knight",
         "star": 5,
-        "power": 858,
-        "attack": 877,
-        "defense": 762,
-        "health": 1524,
+        "power": 1199,
+        "attack": 1272,
+        "defense": 1105,
+        "health": 2286,
         "effects": [
             "對目標造成 450% 傷害。",
             "若該攻擊將敵人擊敗，那麼施法者將獲得 +45% 法力。"
@@ -60178,16 +60178,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 863,
         "lb1": {
-            "attack": 945,
-            "defense": 821,
-            "health": 1642,
-            "power": 915
+            "attack": 1371,
+            "defense": 1191,
+            "health": 2464,
+            "power": 1283
         },
         "lb2": {
-            "attack": 1082,
-            "defense": 939,
-            "health": 1879,
-            "power": 1029
+            "attack": 1568,
+            "defense": 1362,
+            "health": 2819,
+            "power": 1449
         },
         "cn_skill_info": [
             {
@@ -60282,10 +60282,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "easter_killhare_costume_farmer",
         "star": 5,
-        "power": 789,
-        "attack": 721,
-        "defense": 770,
-        "health": 1402,
+        "power": 936,
+        "attack": 879,
+        "defense": 924,
+        "health": 1753,
         "effects": [
             "對所有敵人造成 330% 傷害。",
             "除了施法者，所有盟友獲得 -20% 攻擊力，持續 3 回合。此效果無法淨化。"
@@ -60295,16 +60295,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 865,
         "lb1": {
-            "attack": 777,
-            "defense": 830,
-            "health": 1511,
-            "power": 840
+            "attack": 947,
+            "defense": 996,
+            "health": 1889,
+            "power": 999
         },
         "lb2": {
-            "attack": 889,
-            "defense": 949,
-            "health": 1729,
-            "power": 943
+            "attack": 1084,
+            "defense": 1139,
+            "health": 2162,
+            "power": 1126
         },
         "cn_skill_info": [
             {
@@ -60714,10 +60714,10 @@ window.allHeroes =
         ],
         "heroId": "s4_lepiota_costume_undying",
         "star": 5,
-        "power": 805,
-        "attack": 756,
-        "defense": 793,
-        "health": 1384,
+        "power": 1018,
+        "attack": 982,
+        "defense": 1031,
+        "health": 1868,
         "effects": [
             "對目標造成 150% 傷害。",
             "對目標施放完整移除。（完整移除移除目標的全部狀態效果、疊加與成長及枯萎效果。即使是無法驅散或淨化的狀態效果，也會移除）",
@@ -60734,16 +60734,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 871,
         "lb1": {
-            "attack": 814,
-            "defense": 854,
-            "health": 1491,
-            "power": 857
+            "attack": 1059,
+            "defense": 1111,
+            "health": 2013,
+            "power": 1088
         },
         "lb2": {
-            "attack": 932,
-            "defense": 977,
-            "health": 1706,
-            "power": 963
+            "attack": 1211,
+            "defense": 1271,
+            "health": 2304,
+            "power": 1227
         },
         "cn_skill_info": [
             {
@@ -61018,10 +61018,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "kalevala_louhi_costume_mistress",
         "star": 5,
-        "power": 940,
-        "attack": 885,
-        "defense": 922,
-        "health": 1771,
+        "power": 1220,
+        "attack": 1186,
+        "defense": 1236,
+        "health": 2391,
         "effects": [
             "驅散所有敵人的增益。",
             "對所有敵人造成 280% 傷害。",
@@ -61034,16 +61034,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 875,
         "lb1": {
-            "attack": 954,
-            "defense": 994,
-            "health": 1909,
-            "power": 1004
+            "attack": 1279,
+            "defense": 1332,
+            "health": 2577,
+            "power": 1306
         },
         "lb2": {
-            "attack": 1092,
-            "defense": 1137,
-            "health": 2184,
-            "power": 1131
+            "attack": 1463,
+            "defense": 1524,
+            "health": 2948,
+            "power": 1476
         },
         "cn_skill_info": [
             {
@@ -61160,10 +61160,10 @@ window.allHeroes =
         ],
         "heroId": "kingdom_lu_bu_costume_tiger_lord",
         "star": 5,
-        "power": 836,
-        "attack": 788,
-        "defense": 813,
-        "health": 1487,
+        "power": 1107,
+        "attack": 1065,
+        "defense": 1098,
+        "health": 2156,
         "effects": [
             "對所有敵人造成 320% 傷害。",
             "對所有敵人召喚傭兵惡魔。惡魔每回合以 70% 的攻擊力對敵人造成傷害。",
@@ -61180,16 +61180,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 877,
         "lb1": {
-            "attack": 850,
-            "defense": 876,
-            "health": 1602,
-            "power": 892
+            "attack": 1147,
+            "defense": 1183,
+            "health": 2324,
+            "power": 1183
         },
         "lb2": {
-            "attack": 972,
-            "defense": 1003,
-            "health": 1833,
-            "power": 1002
+            "attack": 1313,
+            "defense": 1354,
+            "health": 2659,
+            "power": 1335
         },
         "cn_skill_info": [
             {
@@ -61750,10 +61750,10 @@ window.allHeroes =
         ],
         "heroId": "pirate_marie_therese_costume_priestess",
         "star": 5,
-        "power": 780,
-        "attack": 753,
-        "defense": 741,
-        "health": 1318,
+        "power": 977,
+        "attack": 957,
+        "defense": 926,
+        "health": 1845,
         "effects": [
             "對所有敵人造成 138% 傷害。",
             "所有盟友在 4 個回合內恢復 600 點加成生命值。加成生命值能夠超過最大生命值。此效果無法驅散。",
@@ -61771,16 +61771,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 885,
         "lb1": {
-            "attack": 812,
-            "defense": 799,
-            "health": 1420,
-            "power": 831
+            "attack": 1031,
+            "defense": 998,
+            "health": 1989,
+            "power": 1043
         },
         "lb2": {
-            "attack": 929,
-            "defense": 914,
-            "health": 1625,
-            "power": 933
+            "attack": 1180,
+            "defense": 1143,
+            "health": 2275,
+            "power": 1176
         },
         "cn_skill_info": [
             {
@@ -62049,10 +62049,10 @@ window.allHeroes =
         ],
         "heroId": "tales1_medea_costume_goddess",
         "star": 5,
-        "power": 999,
-        "attack": 1025,
-        "defense": 988,
-        "health": 1709,
+        "power": 1245,
+        "attack": 1313,
+        "defense": 1265,
+        "health": 2188,
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
@@ -62074,16 +62074,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 889,
         "lb1": {
-            "attack": 1105,
-            "defense": 1065,
-            "health": 1842,
-            "power": 1067
+            "attack": 1415,
+            "defense": 1363,
+            "health": 2358,
+            "power": 1332
         },
         "lb2": {
-            "attack": 1264,
-            "defense": 1219,
-            "health": 2108,
-            "power": 1203
+            "attack": 1619,
+            "defense": 1560,
+            "health": 2698,
+            "power": 1506
         },
         "cn_skill_info": [
             {
@@ -62273,10 +62273,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_hammerhead_hulk_costume_emerald",
         "star": 5,
-        "power": 772,
-        "attack": 751,
-        "defense": 685,
-        "health": 1380,
+        "power": 944,
+        "attack": 939,
+        "defense": 857,
+        "health": 1794,
         "effects": [
             "對所有敵人造成 280% 傷害。",
             "所有暗黑系盟友與敵人獲得 +54% 攻擊力，持續 4 回合。",
@@ -62288,16 +62288,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 892,
         "lb1": {
-            "attack": 810,
-            "defense": 739,
-            "health": 1487,
-            "power": 823
+            "attack": 1012,
+            "defense": 924,
+            "health": 1933,
+            "power": 1008
         },
         "lb2": {
-            "attack": 927,
-            "defense": 845,
-            "health": 1701,
-            "power": 924
+            "attack": 1158,
+            "defense": 1057,
+            "health": 2212,
+            "power": 1135
         },
         "cn_skill_info": [
             {
@@ -62915,10 +62915,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "underworld_champion_costume_champion",
         "star": 5,
-        "power": 756,
-        "attack": 739,
-        "defense": 679,
-        "health": 1306,
+        "power": 851,
+        "attack": 835,
+        "defense": 768,
+        "health": 1567,
         "effects": [
             "對所有敵人造成 182% 傷害。",
             "施法者與附近盟友以所受傷害的 85% 進行反擊，持續 4 回合。"
@@ -62928,16 +62928,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 901,
         "lb1": {
-            "attack": 796,
-            "defense": 732,
-            "health": 1407,
-            "power": 805
+            "attack": 900,
+            "defense": 827,
+            "health": 1688,
+            "power": 907
         },
         "lb2": {
-            "attack": 911,
-            "defense": 838,
-            "health": 1610,
-            "power": 903
+            "attack": 1030,
+            "defense": 947,
+            "health": 1932,
+            "power": 1021
         },
         "cn_skill_info": [
             {
@@ -62977,10 +62977,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "underworld_champion_costume_vampire",
         "star": 5,
-        "power": 756,
-        "attack": 721,
-        "defense": 690,
-        "health": 1326,
+        "power": 967,
+        "attack": 930,
+        "defense": 890,
+        "health": 1910,
         "effects": [
             "對目標及附近敵人造成 260% 傷害。",
             "施法者與附近盟友進行反擊，造成所受傷害 95% 的傷害，持續 3 回合。",
@@ -62991,16 +62991,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 902,
         "lb1": {
-            "attack": 777,
-            "defense": 743,
-            "health": 1429,
-            "power": 805
+            "attack": 1002,
+            "defense": 959,
+            "health": 2058,
+            "power": 1032
         },
         "lb2": {
-            "attack": 889,
-            "defense": 850,
-            "health": 1635,
-            "power": 903
+            "attack": 1146,
+            "defense": 1097,
+            "health": 2355,
+            "power": 1162
         },
         "cn_skill_info": [
             {
@@ -63042,10 +63042,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "underworld_champion_costume_cute",
         "star": 5,
-        "power": 757,
-        "attack": 743,
-        "defense": 679,
-        "health": 1303,
+        "power": 1133,
+        "attack": 1152,
+        "defense": 1053,
+        "health": 2216,
         "effects": [
             "對目標造成 390% 傷害，並對附近敵人造成輕微傷害。",
             "施法者以所受傷害的 110% 進行反擊，持續 4 回合。",
@@ -63058,16 +63058,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 903,
         "lb1": {
-            "attack": 801,
-            "defense": 732,
-            "health": 1405,
-            "power": 807
+            "attack": 1242,
+            "defense": 1135,
+            "health": 2388,
+            "power": 1211
         },
         "lb2": {
-            "attack": 916,
-            "defense": 838,
-            "health": 1607,
-            "power": 905
+            "attack": 1421,
+            "defense": 1299,
+            "health": 2733,
+            "power": 1368
         },
         "cn_skill_info": [
             {
@@ -63114,10 +63114,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "underworld_champion_costume_glass",
         "star": 5,
-        "power": 757,
-        "attack": 745,
-        "defense": 675,
-        "health": 1308,
+        "power": 1238,
+        "attack": 1305,
+        "defense": 1182,
+        "health": 2328,
         "effects": [
             "對目標造成 400% 傷害，並對附近敵人造成輕微傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -63130,16 +63130,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 904,
         "lb1": {
-            "attack": 803,
-            "defense": 728,
-            "health": 1409,
-            "power": 807
+            "attack": 1406,
+            "defense": 1274,
+            "health": 2509,
+            "power": 1325
         },
         "lb2": {
-            "attack": 919,
-            "defense": 833,
-            "health": 1612,
-            "power": 905
+            "attack": 1609,
+            "defense": 1457,
+            "health": 2870,
+            "power": 1497
         },
         "cn_skill_info": [
             {
@@ -63735,10 +63735,10 @@ window.allHeroes =
         ],
         "heroId": "tales1_phorcys_costume_warrior_god",
         "star": 5,
-        "power": 906,
-        "attack": 939,
-        "defense": 821,
-        "health": 1592,
+        "power": 1125,
+        "attack": 1202,
+        "defense": 1052,
+        "health": 2038,
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
@@ -63761,16 +63761,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 912,
         "lb1": {
-            "attack": 1012,
-            "defense": 885,
-            "health": 1716,
-            "power": 967
+            "attack": 1295,
+            "defense": 1133,
+            "health": 2196,
+            "power": 1202
         },
         "lb2": {
-            "attack": 1158,
-            "defense": 1013,
-            "health": 1963,
-            "power": 1088
+            "attack": 1482,
+            "defense": 1297,
+            "health": 2513,
+            "power": 1358
         },
         "cn_skill_info": [
             {
@@ -64079,10 +64079,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_inventor_costume_steam",
         "star": 5,
-        "power": 757,
-        "attack": 766,
-        "defense": 632,
-        "health": 1339,
+        "power": 852,
+        "attack": 865,
+        "defense": 714,
+        "health": 1606,
         "effects": [
             "對所有敵人造成 235% 傷害。",
             "所有敵人獲得 -34% 攻擊力，持續 4 回合。"
@@ -64092,16 +64092,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 917,
         "lb1": {
-            "attack": 825,
-            "defense": 681,
-            "health": 1443,
-            "power": 806
+            "attack": 933,
+            "defense": 770,
+            "health": 1731,
+            "power": 909
         },
         "lb2": {
-            "attack": 944,
-            "defense": 779,
-            "health": 1651,
-            "power": 904
+            "attack": 1067,
+            "defense": 881,
+            "health": 1981,
+            "power": 1022
         },
         "cn_skill_info": [
             {
@@ -64139,10 +64139,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_inventor_costume_love_doctor",
         "star": 5,
-        "power": 757,
-        "attack": 753,
-        "defense": 644,
-        "health": 1349,
+        "power": 969,
+        "attack": 972,
+        "defense": 831,
+        "health": 1942,
         "effects": [
             "對目標及附近敵人造成 300% 傷害。",
             "在 4 回合內，若目標或附近敵人在回合開始時法力滿格，該敵人將自動對一名隨機盟友施放莽夫亂拳。"
@@ -64152,16 +64152,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 918,
         "lb1": {
-            "attack": 812,
-            "defense": 694,
-            "health": 1454,
-            "power": 807
+            "attack": 1048,
+            "defense": 896,
+            "health": 2093,
+            "power": 1035
         },
         "lb2": {
-            "attack": 929,
-            "defense": 795,
-            "health": 1663,
-            "power": 905
+            "attack": 1199,
+            "defense": 1025,
+            "health": 2395,
+            "power": 1166
         },
         "cn_skill_info": [
             {
@@ -64200,10 +64200,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_inventor_costume_cute",
         "star": 5,
-        "power": 758,
-        "attack": 690,
-        "defense": 706,
-        "health": 1386,
+        "power": 1135,
+        "attack": 1069,
+        "defense": 1095,
+        "health": 2356,
         "effects": [
             "對所有敵人造成 420% 傷害。",
             "對神聖系造成額外傷害。"
@@ -64215,16 +64215,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 919,
         "lb1": {
-            "attack": 743,
-            "defense": 761,
-            "health": 1494,
-            "power": 807
+            "attack": 1152,
+            "defense": 1180,
+            "health": 2539,
+            "power": 1214
         },
         "lb2": {
-            "attack": 850,
-            "defense": 871,
-            "health": 1709,
-            "power": 905
+            "attack": 1318,
+            "defense": 1350,
+            "health": 2906,
+            "power": 1371
         },
         "cn_skill_info": [
             {
@@ -64264,10 +64264,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_inventor_costume_glass",
         "star": 5,
-        "power": 759,
-        "attack": 700,
-        "defense": 700,
-        "health": 1380,
+        "power": 1240,
+        "attack": 1225,
+        "defense": 1225,
+        "health": 2456,
         "effects": [
             "對所有敵人造成 430% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）"
@@ -64279,16 +64279,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 920,
         "lb1": {
-            "attack": 754,
-            "defense": 754,
-            "health": 1487,
-            "power": 808
+            "attack": 1320,
+            "defense": 1320,
+            "health": 2647,
+            "power": 1327
         },
         "lb2": {
-            "attack": 863,
-            "defense": 863,
-            "health": 1701,
-            "power": 906
+            "attack": 1511,
+            "defense": 1511,
+            "health": 3029,
+            "power": 1500
         },
         "cn_skill_info": [
             {
@@ -64586,10 +64586,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_loki_fish_costume_dapper",
         "star": 5,
-        "power": 789,
-        "attack": 745,
-        "defense": 791,
-        "health": 1301,
+        "power": 988,
+        "attack": 954,
+        "defense": 1012,
+        "health": 1757,
         "effects": [
             "對所有神聖系敵人造成 350% 傷害。",
             "在 4 回合內，所有敵人的元素每回合都會改變。前 3 回合，元素是隨機的。",
@@ -64601,16 +64601,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 925,
         "lb1": {
-            "attack": 803,
-            "defense": 852,
-            "health": 1403,
-            "power": 841
+            "attack": 1028,
+            "defense": 1091,
+            "health": 1894,
+            "power": 1055
         },
         "lb2": {
-            "attack": 919,
-            "defense": 975,
-            "health": 1605,
-            "power": 944
+            "attack": 1176,
+            "defense": 1248,
+            "health": 2167,
+            "power": 1189
         },
         "cn_skill_info": [
             {
@@ -64716,10 +64716,10 @@ window.allHeroes =
         ],
         "heroId": "pirate_dread_captain_costume_rotten",
         "star": 5,
-        "power": 767,
-        "attack": 729,
-        "defense": 793,
-        "health": 1180,
+        "power": 957,
+        "attack": 926,
+        "defense": 991,
+        "health": 1652,
         "effects": [
             "對目標造成 415% 傷害，並對附近敵人造成輕微傷害。",
             "目標與附近敵人獲得的治療減少 -100%，持續 4 回合。",
@@ -64732,16 +64732,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 927,
         "lb1": {
-            "attack": 785,
-            "defense": 854,
-            "health": 1272,
-            "power": 816
+            "attack": 998,
+            "defense": 1068,
+            "health": 1780,
+            "power": 1022
         },
         "lb2": {
-            "attack": 899,
-            "defense": 977,
-            "health": 1455,
-            "power": 916
+            "attack": 1141,
+            "defense": 1222,
+            "health": 2037,
+            "power": 1151
         },
         "cn_skill_info": [
             {
@@ -64839,10 +64839,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_sorceress_costume_shaman",
         "star": 5,
-        "power": 757,
-        "attack": 653,
-        "defense": 735,
-        "health": 1417,
+        "power": 853,
+        "attack": 737,
+        "defense": 831,
+        "health": 1700,
         "effects": [
             "對目標造成 532% 傷害。"
         ],
@@ -64851,16 +64851,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 929,
         "lb1": {
-            "attack": 703,
-            "defense": 792,
-            "health": 1527,
-            "power": 806
+            "attack": 795,
+            "defense": 895,
+            "health": 1832,
+            "power": 910
         },
         "lb2": {
-            "attack": 805,
-            "defense": 906,
-            "health": 1747,
-            "power": 905
+            "attack": 909,
+            "defense": 1024,
+            "health": 2097,
+            "power": 1023
         },
         "cn_skill_info": [
             {
@@ -64894,10 +64894,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_sorceress_costume_snake",
         "star": 5,
-        "power": 757,
-        "attack": 698,
-        "defense": 671,
-        "health": 1433,
+        "power": 971,
+        "attack": 900,
+        "defense": 866,
+        "health": 2064,
         "effects": [
             "摧毀目標的所有小兵。",
             "對目標造成 500% 傷害。",
@@ -64908,16 +64908,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 930,
         "lb1": {
-            "attack": 752,
-            "defense": 723,
-            "health": 1545,
-            "power": 806
+            "attack": 970,
+            "defense": 933,
+            "health": 2224,
+            "power": 1037
         },
         "lb2": {
-            "attack": 861,
-            "defense": 828,
-            "health": 1767,
-            "power": 905
+            "attack": 1110,
+            "defense": 1068,
+            "health": 2545,
+            "power": 1168
         },
         "cn_skill_info": [
             {
@@ -64963,10 +64963,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_sorceress_costume_cute",
         "star": 5,
-        "power": 759,
-        "attack": 704,
-        "defense": 696,
-        "health": 1380,
+        "power": 1137,
+        "attack": 1092,
+        "defense": 1079,
+        "health": 2346,
         "effects": [
             "對目標造成 530% 傷害。",
             "目標在 3 回合內受到共計 510 點劇毒傷害。",
@@ -64979,16 +64979,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 931,
         "lb1": {
-            "attack": 759,
-            "defense": 750,
-            "health": 1487,
-            "power": 808
+            "attack": 1176,
+            "defense": 1163,
+            "health": 2528,
+            "power": 1216
         },
         "lb2": {
-            "attack": 868,
-            "defense": 858,
-            "health": 1701,
-            "power": 907
+            "attack": 1346,
+            "defense": 1330,
+            "health": 2893,
+            "power": 1373
         },
         "cn_skill_info": [
             {
@@ -65035,10 +65035,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_sorceress_costume_glass",
         "star": 5,
-        "power": 760,
-        "attack": 706,
-        "defense": 694,
-        "health": 1386,
+        "power": 1242,
+        "attack": 1236,
+        "defense": 1214,
+        "health": 2467,
         "effects": [
             "對目標造成 540% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -65051,16 +65051,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 932,
         "lb1": {
-            "attack": 761,
-            "defense": 748,
-            "health": 1494,
-            "power": 809
+            "attack": 1332,
+            "defense": 1309,
+            "health": 2659,
+            "power": 1329
         },
         "lb2": {
-            "attack": 871,
-            "defense": 855,
-            "health": 1709,
-            "power": 908
+            "attack": 1524,
+            "defense": 1497,
+            "health": 3042,
+            "power": 1503
         },
         "cn_skill_info": [
             {
@@ -65353,10 +65353,10 @@ window.allHeroes =
         ],
         "heroId": "slayer_senan_costume_tentacles",
         "star": 5,
-        "power": 808,
-        "attack": 793,
-        "defense": 731,
-        "health": 1435,
+        "power": 1207,
+        "attack": 1245,
+        "defense": 1148,
+        "health": 2326,
         "effects": [
             "對所有敵人造成 265% 傷害。",
             "對所有敵人召喚幽魂惡魔。惡魔每回合以 55% 的攻擊力對目標造成傷害。",
@@ -65372,16 +65372,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 936,
         "lb1": {
-            "attack": 854,
-            "defense": 788,
-            "health": 1547,
-            "power": 861
+            "attack": 1341,
+            "defense": 1237,
+            "health": 2506,
+            "power": 1291
         },
         "lb2": {
-            "attack": 977,
-            "defense": 901,
-            "health": 1770,
-            "power": 967
+            "attack": 1535,
+            "defense": 1415,
+            "health": 2868,
+            "power": 1459
         },
         "cn_skill_info": [
             {
@@ -65581,10 +65581,10 @@ window.allHeroes =
         ],
         "heroId": "dark_god_seshat_costume_revenant",
         "star": 5,
-        "power": 770,
-        "attack": 766,
-        "defense": 677,
-        "health": 1343,
+        "power": 979,
+        "attack": 980,
+        "defense": 853,
+        "health": 1947,
         "effects": [
             "驅散目標和附近敵人的增益。",
             "對目標造成 420% 傷害。",
@@ -65599,16 +65599,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 939,
         "lb1": {
-            "attack": 825,
-            "defense": 730,
-            "health": 1447,
-            "power": 820
+            "attack": 1057,
+            "defense": 920,
+            "health": 2098,
+            "power": 1046
         },
         "lb2": {
-            "attack": 944,
-            "defense": 835,
-            "health": 1656,
-            "power": 921
+            "attack": 1209,
+            "defense": 1052,
+            "health": 2401,
+            "power": 1178
         },
         "cn_skill_info": [
             {
@@ -65732,10 +65732,10 @@ window.allHeroes =
         ],
         "heroId": "s5_set_costume_tyrant",
         "star": 5,
-        "power": 866,
-        "attack": 836,
-        "defense": 821,
-        "health": 1561,
+        "power": 1210,
+        "attack": 1212,
+        "defense": 1191,
+        "health": 2342,
         "effects": [
             "為所有盟友召喚一個暗黑士兵小兵，其可從施法者繼承 45% 生命與 35% 攻擊。",
             "所有敵人在 4 回合內受到共計 1136 點劇毒傷害。",
@@ -65752,16 +65752,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 941,
         "lb1": {
-            "attack": 901,
-            "defense": 885,
-            "health": 1682,
-            "power": 923
+            "attack": 1306,
+            "defense": 1284,
+            "health": 2524,
+            "power": 1294
         },
         "lb2": {
-            "attack": 1031,
-            "defense": 1013,
-            "health": 1925,
-            "power": 1038
+            "attack": 1495,
+            "defense": 1469,
+            "health": 2887,
+            "power": 1463
         },
         "cn_skill_info": [
             {
@@ -66166,10 +66166,10 @@ window.allHeroes =
         ],
         "heroId": "s5_sneferu_costume_vanquisher",
         "star": 5,
-        "power": 872,
-        "attack": 834,
-        "defense": 815,
-        "health": 1625,
+        "power": 1220,
+        "attack": 1209,
+        "defense": 1182,
+        "health": 2438,
         "effects": [
             "對目標造成 530% 傷害。",
             "當任何敵人遭到攻擊命中時，鄰近的所有敵人都會受到連鎖攻擊。",
@@ -66186,16 +66186,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 947,
         "lb1": {
-            "attack": 899,
-            "defense": 879,
-            "health": 1751,
-            "power": 930
+            "attack": 1303,
+            "defense": 1274,
+            "health": 2627,
+            "power": 1305
         },
         "lb2": {
-            "attack": 1028,
-            "defense": 1005,
-            "health": 2004,
-            "power": 1046
+            "attack": 1491,
+            "defense": 1458,
+            "health": 3006,
+            "power": 1475
         },
         "cn_skill_info": [
             {
@@ -66680,10 +66680,10 @@ window.allHeroes =
         ],
         "heroId": "witch_king_costume_cosmic",
         "star": 5,
-        "power": 765,
-        "attack": 712,
-        "defense": 708,
-        "health": 1380,
+        "power": 974,
+        "attack": 912,
+        "defense": 892,
+        "health": 2001,
         "effects": [
             "對目標及附近敵人造成 360% 傷害。",
             "為施法者與附近盟友召喚一個不死小兵，其可從施法者繼承 27% 生命和 27% 攻擊。",
@@ -66696,16 +66696,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 954,
         "lb1": {
-            "attack": 768,
-            "defense": 763,
-            "health": 1487,
-            "power": 815
+            "attack": 983,
+            "defense": 962,
+            "health": 2156,
+            "power": 1040
         },
         "lb2": {
-            "attack": 878,
-            "defense": 873,
-            "health": 1701,
-            "power": 914
+            "attack": 1124,
+            "defense": 1100,
+            "health": 2467,
+            "power": 1171
         },
         "cn_skill_info": [
             {
@@ -67132,10 +67132,10 @@ window.allHeroes =
         ],
         "heroId": "tales1_ultrox_costume_ethereal",
         "star": 5,
-        "power": 953,
-        "attack": 1005,
-        "defense": 871,
-        "health": 1660,
+        "power": 1184,
+        "attack": 1286,
+        "defense": 1115,
+        "health": 2125,
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
@@ -67157,16 +67157,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 960,
         "lb1": {
-            "attack": 1083,
-            "defense": 939,
-            "health": 1789,
-            "power": 1017
+            "attack": 1386,
+            "defense": 1201,
+            "health": 2290,
+            "power": 1266
         },
         "lb2": {
-            "attack": 1239,
-            "defense": 1074,
-            "health": 2047,
-            "power": 1145
+            "attack": 1586,
+            "defense": 1375,
+            "health": 2620,
+            "power": 1431
         },
         "cn_skill_info": [
             {
@@ -67431,10 +67431,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_ursena_costume_reef",
         "star": 5,
-        "power": 775,
-        "attack": 749,
-        "defense": 739,
-        "health": 1293,
+        "power": 947,
+        "attack": 937,
+        "defense": 924,
+        "health": 1681,
         "effects": [
             "對所有敵人造成 130% 傷害。",
             "如果目標剩餘生命超過 50%，可對其造成 260% 傷害。",
@@ -67446,16 +67446,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 964,
         "lb1": {
-            "attack": 808,
-            "defense": 796,
-            "health": 1394,
-            "power": 825
+            "attack": 1010,
+            "defense": 996,
+            "health": 1812,
+            "power": 1011
         },
         "lb2": {
-            "attack": 924,
-            "defense": 911,
-            "health": 1595,
-            "power": 926
+            "attack": 1155,
+            "defense": 1139,
+            "health": 2073,
+            "power": 1138
         },
         "cn_skill_info": [
             {
@@ -67877,10 +67877,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "vampire_king_costume_mafia",
         "star": 5,
-        "power": 774,
-        "attack": 770,
-        "defense": 688,
-        "health": 1339,
+        "power": 1108,
+        "attack": 1155,
+        "defense": 1032,
+        "health": 2075,
         "effects": [
             "對目標及附近敵人造成 155% 傷害。",
             "目标在 5 个回合内受到 330 點重傷流血傷害。如果目標已擁有此效果，持續時間会被刷新，並增加 450 點傷害。最大總傷害: 1225。",
@@ -67894,16 +67894,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 970,
         "lb1": {
-            "attack": 830,
-            "defense": 741,
-            "health": 1443,
-            "power": 825
+            "attack": 1245,
+            "defense": 1112,
+            "health": 2236,
+            "power": 1185
         },
         "lb2": {
-            "attack": 949,
-            "defense": 848,
-            "health": 1651,
-            "power": 925
+            "attack": 1424,
+            "defense": 1272,
+            "health": 2559,
+            "power": 1337
         },
         "cn_skill_info": [
             {
@@ -68546,10 +68546,10 @@ window.allHeroes =
         ],
         "heroId": "s4_xnolphod_costume_jailer",
         "star": 5,
-        "power": 809,
-        "attack": 768,
-        "defense": 828,
-        "health": 1316,
+        "power": 1024,
+        "attack": 998,
+        "defense": 1076,
+        "health": 1777,
         "effects": [
             "所有盟友在 4 回合內恢復 1060 點生命值。",
             "所有盟友在 4 回合內恢復少量法力。",
@@ -68563,16 +68563,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 979,
         "lb1": {
-            "attack": 828,
-            "defense": 892,
-            "health": 1418,
-            "power": 863
+            "attack": 1076,
+            "defense": 1160,
+            "health": 1915,
+            "power": 1094
         },
         "lb2": {
-            "attack": 947,
-            "defense": 1021,
-            "health": 1623,
-            "power": 969
+            "attack": 1231,
+            "defense": 1327,
+            "health": 2191,
+            "power": 1234
         },
         "cn_skill_info": [
             {
@@ -69163,10 +69163,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_swordmaster_costume_native",
         "star": 3,
-        "power": 443,
-        "attack": 472,
-        "defense": 432,
-        "health": 663,
+        "power": 473,
+        "attack": 505,
+        "defense": 463,
+        "health": 730,
         "effects": [
             "對目標及附近敵人造成 170% 傷害。",
             "使目標和附近敵人的法力減少 15%。"
@@ -69176,16 +69176,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 990,
         "lb1": {
-            "attack": 535,
-            "defense": 490,
-            "health": 752,
-            "power": 494
+            "attack": 573,
+            "defense": 524,
+            "health": 827,
+            "power": 528
         },
         "lb2": {
-            "attack": 662,
-            "defense": 606,
-            "health": 929,
-            "power": 596
+            "attack": 708,
+            "defense": 648,
+            "health": 1022,
+            "power": 637
         },
         "cn_skill_info": [
             {
@@ -69226,10 +69226,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_swordmaster_costume_cute",
         "star": 3,
-        "power": 445,
-        "attack": 510,
-        "defense": 399,
-        "health": 643,
+        "power": 506,
+        "attack": 587,
+        "defense": 459,
+        "health": 771,
         "effects": [
             "對目標造成 285% 傷害。",
             "使目標的法力減少 20%。",
@@ -69242,16 +69242,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 991,
         "lb1": {
-            "attack": 579,
-            "defense": 453,
-            "health": 728,
-            "power": 496
+            "attack": 666,
+            "defense": 521,
+            "health": 874,
+            "power": 566
         },
         "lb2": {
-            "attack": 715,
-            "defense": 559,
-            "health": 900,
-            "power": 597
+            "attack": 822,
+            "defense": 643,
+            "health": 1080,
+            "power": 683
         },
         "cn_skill_info": [
             {
@@ -69294,10 +69294,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_swordmaster_costume_glass",
         "star": 3,
-        "power": 445,
-        "attack": 514,
-        "defense": 396,
-        "health": 644,
+        "power": 519,
+        "attack": 607,
+        "defense": 467,
+        "health": 793,
         "effects": [
             "對目標造成 295% 傷害。",
             "使目標的法力減少 25%。",
@@ -69310,16 +69310,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 992,
         "lb1": {
-            "attack": 583,
-            "defense": 449,
-            "health": 730,
-            "power": 496
+            "attack": 688,
+            "defense": 530,
+            "health": 898,
+            "power": 579
         },
         "lb2": {
-            "attack": 720,
-            "defense": 554,
-            "health": 903,
-            "power": 598
+            "attack": 850,
+            "defense": 654,
+            "health": 1110,
+            "power": 701
         },
         "cn_skill_info": [
             {
@@ -69432,10 +69432,10 @@ window.allHeroes =
         ],
         "heroId": "tales1_bagreg_costume_scout",
         "star": 3,
-        "power": 487,
-        "attack": 502,
-        "defense": 488,
-        "health": 790,
+        "power": 498,
+        "attack": 512,
+        "defense": 498,
+        "health": 822,
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
@@ -69455,16 +69455,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 994,
         "lb1": {
-            "attack": 569,
-            "defense": 553,
-            "health": 896,
-            "power": 544
+            "attack": 580,
+            "defense": 564,
+            "health": 932,
+            "power": 556
         },
         "lb2": {
-            "attack": 703,
-            "defense": 683,
-            "health": 1107,
-            "power": 657
+            "attack": 717,
+            "defense": 697,
+            "health": 1151,
+            "power": 672
         },
         "cn_skill_info": [
             {
@@ -69916,10 +69916,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_ei_dunn_costume_shield",
         "star": 3,
-        "power": 466,
-        "attack": 488,
-        "defense": 404,
-        "health": 839,
+        "power": 482,
+        "attack": 503,
+        "defense": 417,
+        "health": 889,
         "effects": [
             "對所有敵人造成 180% 傷害。",
             "使所有敵人的法力減少 10%。"
@@ -69929,16 +69929,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1001,
         "lb1": {
-            "attack": 553,
-            "defense": 459,
-            "health": 951,
-            "power": 520
+            "attack": 570,
+            "defense": 472,
+            "health": 1008,
+            "power": 537
         },
         "lb2": {
-            "attack": 683,
-            "defense": 567,
-            "health": 1175,
-            "power": 627
+            "attack": 704,
+            "defense": 584,
+            "health": 1246,
+            "power": 649
         },
         "cn_skill_info": [
             {
@@ -70092,10 +70092,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_shaman_costume_native",
         "star": 3,
-        "power": 445,
-        "attack": 469,
-        "defense": 450,
-        "health": 643,
+        "power": 474,
+        "attack": 502,
+        "defense": 481,
+        "health": 707,
         "effects": [
             "所有盟友在 3 回合內恢復 459 點生命值。",
             "所有盟友獲得 +30% 攻擊力，持續 3 回合。"
@@ -70105,16 +70105,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1004,
         "lb1": {
-            "attack": 531,
-            "defense": 510,
-            "health": 728,
-            "power": 495
+            "attack": 569,
+            "defense": 545,
+            "health": 801,
+            "power": 528
         },
         "lb2": {
-            "attack": 657,
-            "defense": 630,
-            "health": 900,
-            "power": 597
+            "attack": 703,
+            "defense": 674,
+            "health": 990,
+            "power": 638
         },
         "cn_skill_info": [
             {
@@ -70154,10 +70154,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_shaman_costume_cute",
         "star": 3,
-        "power": 446,
-        "attack": 474,
-        "defense": 451,
-        "health": 637,
+        "power": 508,
+        "attack": 545,
+        "defense": 519,
+        "health": 765,
         "effects": [
             "為所有盟友恢復 35% 生命值。",
             "所有盟友獲得 +34% 防禦，持續 3 回合。對所有烈火系角色，此狀態效果變為无法驅散且持續時間延長 2 回合。"
@@ -70169,16 +70169,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1005,
         "lb1": {
-            "attack": 537,
-            "defense": 512,
-            "health": 722,
-            "power": 497
+            "attack": 618,
+            "defense": 589,
+            "health": 867,
+            "power": 567
         },
         "lb2": {
-            "attack": 664,
-            "defense": 632,
-            "health": 893,
-            "power": 599
+            "attack": 764,
+            "defense": 727,
+            "health": 1071,
+            "power": 685
         },
         "cn_skill_info": [
             {
@@ -70218,10 +70218,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_shaman_costume_glass",
         "star": 3,
-        "power": 448,
-        "attack": 500,
-        "defense": 443,
-        "health": 601,
+        "power": 521,
+        "attack": 590,
+        "defense": 522,
+        "health": 739,
         "effects": [
             "為所有盟友恢復 37% 生命值。",
             "所有烈火系盟友反射狀態異常和負面效果疊加，持續 2 回合。（同隊角色、小兵和惡魔施放的狀態效果無法反彈）"
@@ -70233,16 +70233,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 1006,
         "lb1": {
-            "attack": 567,
-            "defense": 502,
-            "health": 681,
-            "power": 499
+            "attack": 669,
+            "defense": 592,
+            "health": 838,
+            "power": 582
         },
         "lb2": {
-            "attack": 700,
-            "defense": 620,
-            "health": 842,
-            "power": 601
+            "attack": 827,
+            "defense": 732,
+            "health": 1035,
+            "power": 704
         },
         "cn_skill_info": [
             {
@@ -70359,10 +70359,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tales2_helgi_costume_combatant",
         "star": 3,
-        "power": 500,
-        "attack": 552,
-        "defense": 538,
-        "health": 656,
+        "power": 522,
+        "attack": 580,
+        "defense": 565,
+        "health": 689,
         "effects": [
             "對 8 名隨機敵人造成 150% 傷害。",
             "重置所有盟友的增益持續時間。"
@@ -70378,16 +70378,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1008,
         "lb1": {
-            "attack": 626,
-            "defense": 610,
-            "health": 744,
-            "power": 559
+            "attack": 657,
+            "defense": 641,
+            "health": 781,
+            "power": 583
         },
         "lb2": {
-            "attack": 774,
-            "defense": 754,
-            "health": 920,
-            "power": 675
+            "attack": 812,
+            "defense": 792,
+            "health": 966,
+            "power": 706
         },
         "cn_skill_info": [
             {
@@ -70485,10 +70485,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_mage_costume_goggles",
         "star": 3,
-        "power": 444,
-        "attack": 490,
-        "defense": 422,
-        "health": 641,
+        "power": 473,
+        "attack": 524,
+        "defense": 451,
+        "health": 705,
         "effects": [
             "對所有敵人造成 115% 傷害。",
             "所有敵人在 4 回合內受到共計 156 點燃燒傷害。"
@@ -70498,16 +70498,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1010,
         "lb1": {
-            "attack": 555,
-            "defense": 478,
-            "health": 726,
-            "power": 494
+            "attack": 594,
+            "defense": 512,
+            "health": 799,
+            "power": 528
         },
         "lb2": {
-            "attack": 686,
-            "defense": 591,
-            "health": 898,
-            "power": 596
+            "attack": 734,
+            "defense": 632,
+            "health": 987,
+            "power": 637
         },
         "cn_skill_info": [
             {
@@ -70549,10 +70549,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_mage_costume_cute",
         "star": 3,
-        "power": 445,
-        "attack": 483,
-        "defense": 418,
-        "health": 672,
+        "power": 506,
+        "attack": 555,
+        "defense": 481,
+        "health": 807,
         "effects": [
             "對所有敵人造成 175% 傷害。",
             "所有敵人在 3 回合內受到共計 114 點燃燒傷害。",
@@ -70565,16 +70565,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1011,
         "lb1": {
-            "attack": 547,
-            "defense": 474,
-            "health": 762,
-            "power": 495
+            "attack": 629,
+            "defense": 545,
+            "health": 914,
+            "power": 565
         },
         "lb2": {
-            "attack": 676,
-            "defense": 586,
-            "health": 941,
-            "power": 597
+            "attack": 778,
+            "defense": 674,
+            "health": 1130,
+            "power": 684
         },
         "cn_skill_info": [
             {
@@ -70621,10 +70621,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_mage_costume_glass",
         "star": 3,
-        "power": 445,
-        "attack": 484,
-        "defense": 417,
-        "health": 677,
+        "power": 519,
+        "attack": 572,
+        "defense": 492,
+        "health": 833,
         "effects": [
             "對所有敵人造成 185% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -70637,16 +70637,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 1012,
         "lb1": {
-            "attack": 549,
-            "defense": 472,
-            "health": 768,
-            "power": 496
+            "attack": 648,
+            "defense": 557,
+            "health": 945,
+            "power": 580
         },
         "lb2": {
-            "attack": 679,
-            "defense": 584,
-            "health": 949,
-            "power": 599
+            "attack": 801,
+            "defense": 689,
+            "health": 1167,
+            "power": 701
         },
         "cn_skill_info": [
             {
@@ -71017,10 +71017,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_warrior_costume_urukhai",
         "star": 3,
-        "power": 443,
-        "attack": 540,
-        "defense": 352,
-        "health": 650,
+        "power": 472,
+        "attack": 578,
+        "defense": 377,
+        "health": 715,
         "effects": [
             "對目標造成 260% 傷害。",
             "目標在 3 回合內受到共計 129 點燃燒傷害。"
@@ -71030,16 +71030,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1018,
         "lb1": {
-            "attack": 612,
-            "defense": 399,
-            "health": 736,
-            "power": 493
+            "attack": 655,
+            "defense": 427,
+            "health": 810,
+            "power": 527
         },
         "lb2": {
-            "attack": 756,
-            "defense": 494,
-            "health": 910,
-            "power": 595
+            "attack": 809,
+            "defense": 528,
+            "health": 1001,
+            "power": 636
         },
         "cn_skill_info": [
             {
@@ -71081,10 +71081,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_warrior_costume_cute",
         "star": 3,
-        "power": 444,
-        "attack": 542,
-        "defense": 352,
-        "health": 650,
+        "power": 505,
+        "attack": 623,
+        "defense": 405,
+        "health": 780,
         "effects": [
             "對目標造成 295% 傷害。",
             "目標在 4 回合內受到共計 144 點燃燒傷害。",
@@ -71097,16 +71097,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1019,
         "lb1": {
-            "attack": 614,
-            "defense": 399,
-            "health": 736,
-            "power": 494
+            "attack": 706,
+            "defense": 459,
+            "health": 884,
+            "power": 564
         },
         "lb2": {
-            "attack": 759,
-            "defense": 494,
-            "health": 910,
-            "power": 596
+            "attack": 873,
+            "defense": 568,
+            "health": 1092,
+            "power": 682
         },
         "cn_skill_info": [
             {
@@ -71154,10 +71154,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_warrior_costume_glass",
         "star": 3,
-        "power": 445,
-        "attack": 549,
-        "defense": 349,
-        "health": 646,
+        "power": 518,
+        "attack": 648,
+        "defense": 412,
+        "health": 795,
         "effects": [
             "對目標造成 305% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -71170,16 +71170,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 1020,
         "lb1": {
-            "attack": 622,
-            "defense": 395,
-            "health": 732,
-            "power": 495
+            "attack": 734,
+            "defense": 467,
+            "health": 901,
+            "power": 578
         },
         "lb2": {
-            "attack": 769,
-            "defense": 489,
-            "health": 905,
-            "power": 597
+            "attack": 907,
+            "defense": 577,
+            "health": 1113,
+            "power": 699
         },
         "cn_skill_info": [
             {
@@ -71490,10 +71490,10 @@ window.allHeroes =
         ],
         "heroId": "christmas_reindeer_costume_knightly_steed",
         "star": 3,
-        "power": 450,
-        "attack": 540,
-        "defense": 398,
-        "health": 604,
+        "power": 531,
+        "attack": 648,
+        "defense": 477,
+        "health": 756,
         "effects": [
             "對目標造成 295% 傷害。",
             "使目標的法力減少 23%。",
@@ -71507,16 +71507,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1025,
         "lb1": {
-            "attack": 612,
-            "defense": 451,
-            "health": 685,
-            "power": 501
+            "attack": 735,
+            "defense": 541,
+            "health": 856,
+            "power": 593
         },
         "lb2": {
-            "attack": 756,
-            "defense": 557,
-            "health": 847,
-            "power": 604
+            "attack": 908,
+            "defense": 668,
+            "health": 1058,
+            "power": 717
         },
         "cn_skill_info": [
             {
@@ -71935,10 +71935,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s4_vollermork_costume_bartender",
         "star": 3,
-        "power": 478,
-        "attack": 476,
-        "defense": 505,
-        "health": 752,
+        "power": 488,
+        "attack": 485,
+        "defense": 515,
+        "health": 782,
         "effects": [
             "對所有敵人召喚蠕蟲惡魔。惡魔每回合以 28% 的攻擊力對敵人造成傷害。",
             "惡魔會吸收治療效果。在吸收的治療量等於目標最大生命值的 20% 時消失。"
@@ -71950,16 +71950,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1032,
         "lb1": {
-            "attack": 539,
-            "defense": 573,
-            "health": 853,
-            "power": 533
+            "attack": 550,
+            "defense": 584,
+            "health": 887,
+            "power": 545
         },
         "lb2": {
-            "attack": 666,
-            "defense": 708,
-            "health": 1053,
-            "power": 643
+            "attack": 680,
+            "defense": 722,
+            "health": 1096,
+            "power": 658
         },
         "cn_skill_info": [
             {
@@ -72062,10 +72062,10 @@ window.allHeroes =
         ],
         "heroId": "s5_waqas_costume_blade",
         "star": 3,
-        "power": 484,
-        "attack": 564,
-        "defense": 437,
-        "health": 709,
+        "power": 494,
+        "attack": 576,
+        "defense": 446,
+        "health": 737,
         "effects": [
             "對所有敵人造成 235% 傷害。",
             "在 3 個回合內使所有敵人的最大生命值降低 345 點。對有生命加成的目標效果更大。（最大生命值不得低於原最大生命值的 30% 任何生命值加成每回合會造成额外降低 115 點。）"
@@ -72081,16 +72081,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1034,
         "lb1": {
-            "attack": 640,
-            "defense": 496,
-            "health": 803,
-            "power": 540
+            "attack": 653,
+            "defense": 506,
+            "health": 835,
+            "power": 552
         },
         "lb2": {
-            "attack": 791,
-            "defense": 613,
-            "health": 993,
-            "power": 652
+            "attack": 806,
+            "defense": 625,
+            "health": 1032,
+            "power": 666
         },
         "cn_skill_info": [
             {
@@ -72265,10 +72265,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_gladiator_costume_chef",
         "star": 4,
-        "power": 645,
-        "attack": 592,
-        "defense": 701,
-        "health": 1119,
+        "power": 690,
+        "attack": 634,
+        "defense": 750,
+        "health": 1243,
         "effects": [
             "為所有盟友恢復 37% 生命值。",
             "所有盟友獲得 +30% 攻擊力，持續 4 回合。"
@@ -72278,16 +72278,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1037,
         "lb1": {
-            "attack": 644,
-            "defense": 761,
-            "health": 1216,
-            "power": 693
+            "attack": 689,
+            "defense": 815,
+            "health": 1350,
+            "power": 743
         },
         "lb2": {
-            "attack": 746,
-            "defense": 883,
-            "health": 1410,
-            "power": 790
+            "attack": 799,
+            "defense": 945,
+            "health": 1565,
+            "power": 848
         },
         "cn_skill_info": [
             {
@@ -72326,10 +72326,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_gladiator_costume_sage",
         "star": 4,
-        "power": 645,
-        "attack": 599,
-        "defense": 722,
-        "health": 1060,
+        "power": 736,
+        "attack": 689,
+        "defense": 830,
+        "health": 1272,
         "effects": [
             "所有盟友在 4 個回合內恢復 288 點加成生命值。加成生命值能夠超過最大生命值。",
             "所有盟友獲得 +45% 攻擊，並在每次被擊中後增加 20%，持續 4 回合。"
@@ -72339,16 +72339,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1038,
         "lb1": {
-            "attack": 651,
-            "defense": 785,
-            "health": 1152,
-            "power": 693
+            "attack": 748,
+            "defense": 902,
+            "health": 1382,
+            "power": 792
         },
         "lb2": {
-            "attack": 754,
-            "defense": 910,
-            "health": 1335,
-            "power": 790
+            "attack": 868,
+            "defense": 1046,
+            "health": 1602,
+            "power": 905
         },
         "cn_skill_info": [
             {
@@ -72389,10 +72389,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_gladiator_costume_cute",
         "star": 4,
-        "power": 646,
-        "attack": 597,
-        "defense": 716,
-        "health": 1085,
+        "power": 749,
+        "attack": 698,
+        "defense": 837,
+        "health": 1324,
         "effects": [
             "為所有盟友恢復 33% 生命值。",
             "所有盟友獲得 +40% 攻擊力，持續 4 回合。對所有烈火系角色，此狀態效果變為无法驅散且持續時間延長 2 回合。"
@@ -72404,16 +72404,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 1039,
         "lb1": {
-            "attack": 648,
-            "defense": 778,
-            "health": 1179,
-            "power": 694
+            "attack": 759,
+            "defense": 910,
+            "health": 1439,
+            "power": 806
         },
         "lb2": {
-            "attack": 752,
-            "defense": 902,
-            "health": 1367,
-            "power": 792
+            "attack": 880,
+            "defense": 1055,
+            "health": 1668,
+            "power": 921
         },
         "cn_skill_info": [
             {
@@ -72456,10 +72456,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_gladiator_costume_glass",
         "star": 4,
-        "power": 646,
-        "attack": 595,
-        "defense": 718,
-        "health": 1090,
+        "power": 761,
+        "attack": 708,
+        "defense": 854,
+        "health": 1351,
         "effects": [
             "為所有盟友恢復 34% 生命值。",
             "所有盟友獲得 +45% 攻擊力，持續 4 回合。",
@@ -72472,16 +72472,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 1040,
         "lb1": {
-            "attack": 646,
-            "defense": 780,
-            "health": 1184,
-            "power": 695
+            "attack": 769,
+            "defense": 928,
+            "health": 1468,
+            "power": 819
         },
         "lb2": {
-            "attack": 749,
-            "defense": 904,
-            "health": 1373,
-            "power": 792
+            "attack": 891,
+            "defense": 1076,
+            "health": 1702,
+            "power": 936
         },
         "cn_skill_info": [
             {
@@ -72711,10 +72711,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_axe_adventurer_costume_magma",
         "star": 4,
-        "power": 643,
-        "attack": 735,
-        "defense": 520,
-        "health": 1111,
+        "power": 688,
+        "attack": 786,
+        "defense": 557,
+        "health": 1233,
         "effects": [
             "對所有敵人造成 240% 傷害。",
             "所有敵人在 3 回合內受到共計 204 點燃燒傷害。"
@@ -72724,16 +72724,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1044,
         "lb1": {
-            "attack": 798,
-            "defense": 565,
-            "health": 1207,
-            "power": 691
+            "attack": 854,
+            "defense": 605,
+            "health": 1340,
+            "power": 740
         },
         "lb2": {
-            "attack": 926,
-            "defense": 655,
-            "health": 1400,
-            "power": 788
+            "attack": 991,
+            "defense": 701,
+            "health": 1554,
+            "power": 845
         },
         "cn_skill_info": [
             {
@@ -72773,10 +72773,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_axe_adventurer_costume_tracker",
         "star": 4,
-        "power": 642,
-        "attack": 720,
-        "defense": 544,
-        "health": 1096,
+        "power": 733,
+        "attack": 828,
+        "defense": 625,
+        "health": 1315,
         "effects": [
             "對目標及附近敵人造成 285% 傷害。",
             "目標與附近敵人獲得對烈火系 -54% 的防禦，持續 6 回合。",
@@ -72787,16 +72787,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1045,
         "lb1": {
-            "attack": 782,
-            "defense": 591,
-            "health": 1191,
-            "power": 690
+            "attack": 900,
+            "defense": 679,
+            "health": 1429,
+            "power": 790
         },
         "lb2": {
-            "attack": 907,
-            "defense": 685,
-            "health": 1381,
-            "power": 787
+            "attack": 1043,
+            "defense": 788,
+            "health": 1657,
+            "power": 902
         },
         "cn_skill_info": [
             {
@@ -72842,10 +72842,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_axe_adventurer_costume_cute",
         "star": 4,
-        "power": 644,
-        "attack": 720,
-        "defense": 556,
-        "health": 1083,
+        "power": 747,
+        "attack": 842,
+        "defense": 651,
+        "health": 1322,
         "effects": [
             "對所有敵人造成 210% 傷害。",
             "所有敵人在 3 回合內受到共計 174 點燃燒傷害。",
@@ -72858,16 +72858,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 1046,
         "lb1": {
-            "attack": 782,
-            "defense": 604,
-            "health": 1177,
-            "power": 692
+            "attack": 915,
+            "defense": 707,
+            "health": 1436,
+            "power": 804
         },
         "lb2": {
-            "attack": 907,
-            "defense": 701,
-            "health": 1365,
-            "power": 789
+            "attack": 1061,
+            "defense": 820,
+            "health": 1665,
+            "power": 919
         },
         "cn_skill_info": [
             {
@@ -72915,10 +72915,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_axe_adventurer_costume_glass",
         "star": 4,
-        "power": 644,
-        "attack": 739,
-        "defense": 544,
-        "health": 1064,
+        "power": 758,
+        "attack": 880,
+        "defense": 647,
+        "health": 1320,
         "effects": [
             "對所有敵人造成 220% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -72931,16 +72931,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 1047,
         "lb1": {
-            "attack": 803,
-            "defense": 591,
-            "health": 1156,
-            "power": 693
+            "attack": 956,
+            "defense": 703,
+            "health": 1434,
+            "power": 817
         },
         "lb2": {
-            "attack": 931,
-            "defense": 685,
-            "health": 1341,
-            "power": 790
+            "attack": 1108,
+            "defense": 815,
+            "health": 1663,
+            "power": 933
         },
         "cn_skill_info": [
             {
@@ -73102,10 +73102,10 @@ window.allHeroes =
         ],
         "heroId": "castle_wolf_ferant_costume_fire",
         "star": 4,
-        "power": 680,
-        "attack": 633,
-        "defense": 599,
-        "health": 1472,
+        "power": 720,
+        "attack": 664,
+        "defense": 629,
+        "health": 1619,
         "effects": [
             "施法者與附近盟友以所受傷害的 120% 進行反擊，持續 5 回合。",
             "施法者與附近盟友每次反擊可降低攻擊者 -5% 的法力，持續 5 回合。同一回合中，效果經連續啟動會減弱。"
@@ -73119,16 +73119,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1050,
         "lb1": {
-            "attack": 688,
-            "defense": 651,
-            "health": 1600,
-            "power": 732
+            "attack": 722,
+            "defense": 683,
+            "health": 1760,
+            "power": 775
         },
         "lb2": {
-            "attack": 797,
-            "defense": 754,
-            "health": 1855,
-            "power": 834
+            "attack": 837,
+            "defense": 792,
+            "health": 2040,
+            "power": 885
         },
         "cn_skill_info": [
             {
@@ -73226,10 +73226,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_troopmaster_costume_merchant",
         "star": 4,
-        "power": 642,
-        "attack": 582,
-        "defense": 578,
-        "health": 1374,
+        "power": 689,
+        "attack": 623,
+        "defense": 618,
+        "health": 1526,
         "effects": [
             "摧毀所有敵人的全部小兵。",
             "對所有敵人造成 180% 傷害。",
@@ -73240,16 +73240,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1052,
         "lb1": {
-            "attack": 632,
-            "defense": 628,
-            "health": 1493,
-            "power": 691
+            "attack": 676,
+            "defense": 672,
+            "health": 1658,
+            "power": 741
         },
         "lb2": {
-            "attack": 733,
-            "defense": 728,
-            "health": 1732,
-            "power": 787
+            "attack": 784,
+            "defense": 779,
+            "health": 1922,
+            "power": 846
         },
         "cn_skill_info": [
             {
@@ -73288,10 +73288,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_troopmaster_costume_gourmet",
         "star": 4,
-        "power": 642,
-        "attack": 637,
-        "defense": 548,
-        "health": 1296,
+        "power": 735,
+        "attack": 733,
+        "defense": 630,
+        "health": 1555,
         "effects": [
             "驅散所有敵人的增益。",
             "對所有敵人造成 225% 傷害。"
@@ -73301,16 +73301,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1053,
         "lb1": {
-            "attack": 692,
-            "defense": 595,
-            "health": 1408,
-            "power": 690
+            "attack": 796,
+            "defense": 685,
+            "health": 1690,
+            "power": 792
         },
         "lb2": {
-            "attack": 803,
-            "defense": 690,
-            "health": 1632,
-            "power": 787
+            "attack": 923,
+            "defense": 794,
+            "health": 1959,
+            "power": 904
         },
         "cn_skill_info": [
             {
@@ -73351,10 +73351,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_troopmaster_costume_cute",
         "star": 4,
-        "power": 643,
-        "attack": 548,
-        "defense": 635,
-        "health": 1351,
+        "power": 748,
+        "attack": 641,
+        "defense": 743,
+        "health": 1648,
         "effects": [
             "對目標造成 325% 傷害，並對附近敵人造成輕微傷害。",
             "目標與附近敵人獲得 -24% 防禦，持續 6 回合。",
@@ -73367,16 +73367,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 1054,
         "lb1": {
-            "attack": 595,
-            "defense": 690,
-            "health": 1468,
-            "power": 691
+            "attack": 696,
+            "defense": 807,
+            "health": 1791,
+            "power": 805
         },
         "lb2": {
-            "attack": 690,
-            "defense": 800,
-            "health": 1702,
-            "power": 788
+            "attack": 808,
+            "defense": 936,
+            "health": 2077,
+            "power": 920
         },
         "cn_skill_info": [
             {
@@ -73424,10 +73424,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_troopmaster_costume_glass",
         "star": 4,
-        "power": 645,
-        "attack": 552,
-        "defense": 633,
-        "health": 1355,
+        "power": 761,
+        "attack": 657,
+        "defense": 753,
+        "health": 1681,
         "effects": [
             "對目標造成 335% 傷害，並對附近敵人造成輕微傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -73440,16 +73440,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 1055,
         "lb1": {
-            "attack": 600,
-            "defense": 688,
-            "health": 1473,
-            "power": 693
+            "attack": 714,
+            "defense": 818,
+            "health": 1826,
+            "power": 819
         },
         "lb2": {
-            "attack": 696,
-            "defense": 797,
-            "health": 1707,
-            "power": 790
+            "attack": 828,
+            "defense": 949,
+            "health": 2117,
+            "power": 936
         },
         "cn_skill_info": [
             {
@@ -73767,10 +73767,10 @@ window.allHeroes =
         ],
         "heroId": "s5_junaid_costume_champion",
         "star": 4,
-        "power": 684,
-        "attack": 705,
-        "defense": 620,
-        "health": 1281,
+        "power": 700,
+        "attack": 719,
+        "defense": 632,
+        "health": 1332,
         "effects": [
             "對目標造成 370% 傷害。",
             "為所有盟友治療 40% 的傷害。"
@@ -73786,16 +73786,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1060,
         "lb1": {
-            "attack": 766,
-            "defense": 674,
-            "health": 1392,
-            "power": 736
+            "attack": 781,
+            "defense": 687,
+            "health": 1448,
+            "power": 753
         },
         "lb2": {
-            "attack": 888,
-            "defense": 781,
-            "health": 1614,
-            "power": 840
+            "attack": 906,
+            "defense": 797,
+            "health": 1678,
+            "power": 860
         },
         "cn_skill_info": [
             {
@@ -73887,10 +73887,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_berserker_costume_shaman",
         "star": 4,
-        "power": 644,
-        "attack": 711,
-        "defense": 658,
-        "health": 905,
+        "power": 689,
+        "attack": 761,
+        "defense": 704,
+        "health": 1004,
         "effects": [
             "所有敵人在 2 回合內受到共計 334 點燃燒傷害。"
         ],
@@ -73899,16 +73899,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1062,
         "lb1": {
-            "attack": 773,
-            "defense": 715,
-            "health": 983,
-            "power": 693
+            "attack": 827,
+            "defense": 765,
+            "health": 1091,
+            "power": 741
         },
         "lb2": {
-            "attack": 896,
-            "defense": 829,
-            "health": 1140,
-            "power": 790
+            "attack": 959,
+            "defense": 887,
+            "health": 1265,
+            "power": 846
         },
         "cn_skill_info": [
             {
@@ -73948,10 +73948,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_berserker_costume_sorceress",
         "star": 4,
-        "power": 644,
-        "attack": 686,
-        "defense": 667,
-        "health": 947,
+        "power": 735,
+        "attack": 789,
+        "defense": 767,
+        "health": 1137,
         "effects": [
             "對目標及附近敵人造成 220% 傷害。",
             "目標與附近敵人在 3 回合內受到共計 198 點燃燒傷害。施法者能吸收所造成之燃燒傷害的 30% 作為生命值。"
@@ -73961,16 +73961,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1063,
         "lb1": {
-            "attack": 745,
-            "defense": 725,
-            "health": 1029,
-            "power": 692
+            "attack": 857,
+            "defense": 833,
+            "health": 1235,
+            "power": 791
         },
         "lb2": {
-            "attack": 864,
-            "defense": 840,
-            "health": 1193,
-            "power": 789
+            "attack": 994,
+            "defense": 966,
+            "health": 1432,
+            "power": 903
         },
         "cn_skill_info": [
             {
@@ -74017,10 +74017,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_berserker_costume_cute",
         "star": 4,
-        "power": 644,
-        "attack": 697,
-        "defense": 650,
-        "health": 956,
+        "power": 746,
+        "attack": 815,
+        "defense": 760,
+        "health": 1166,
         "effects": [
             "對目標造成 325% 傷害。",
             "目標在 3 回合內受到共計 216 點燃燒傷害。",
@@ -74033,16 +74033,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 1064,
         "lb1": {
-            "attack": 757,
-            "defense": 706,
-            "health": 1039,
-            "power": 693
+            "attack": 886,
+            "defense": 826,
+            "health": 1267,
+            "power": 803
         },
         "lb2": {
-            "attack": 878,
-            "defense": 819,
-            "health": 1204,
-            "power": 790
+            "attack": 1027,
+            "defense": 958,
+            "health": 1469,
+            "power": 918
         },
         "cn_skill_info": [
             {
@@ -74090,10 +74090,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_berserker_costume_glass",
         "star": 4,
-        "power": 646,
-        "attack": 705,
-        "defense": 646,
-        "health": 954,
+        "power": 759,
+        "attack": 839,
+        "defense": 768,
+        "health": 1183,
         "effects": [
             "對目標造成 335% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -74106,16 +74106,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 1065,
         "lb1": {
-            "attack": 766,
-            "defense": 701,
-            "health": 1036,
-            "power": 694
+            "attack": 912,
+            "defense": 835,
+            "health": 1285,
+            "power": 817
         },
         "lb2": {
-            "attack": 888,
-            "defense": 813,
-            "health": 1201,
-            "power": 791
+            "attack": 1057,
+            "defense": 968,
+            "health": 1490,
+            "power": 934
         },
         "cn_skill_info": [
             {
@@ -74225,10 +74225,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "kalevala_lemminkainen_costume_swan",
         "star": 4,
-        "power": 683,
-        "attack": 652,
-        "defense": 614,
-        "health": 1417,
+        "power": 707,
+        "attack": 671,
+        "defense": 632,
+        "health": 1502,
         "effects": [
             "對目標造成 300% 傷害，並對附近敵人造成輕微傷害。",
             "目標與附近敵人在 4 個回合内受到 176 點燃燒傷害。此状熊效果在冰雪系角色上無法淨化，且會持續額外 2 個回合。"
@@ -74240,16 +74240,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1067,
         "lb1": {
-            "attack": 708,
-            "defense": 667,
-            "health": 1540,
-            "power": 735
+            "attack": 730,
+            "defense": 687,
+            "health": 1632,
+            "power": 761
         },
         "lb2": {
-            "attack": 821,
-            "defense": 773,
-            "health": 1785,
-            "power": 838
+            "attack": 846,
+            "defense": 796,
+            "health": 1892,
+            "power": 868
         },
         "cn_skill_info": [
             {
@@ -74430,10 +74430,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s4_mack_costume_novelist",
         "star": 4,
-        "power": 677,
-        "attack": 646,
-        "defense": 701,
-        "health": 1217,
+        "power": 692,
+        "attack": 658,
+        "defense": 715,
+        "health": 1266,
         "effects": [
             "施法者與附近盟友進行反擊，造成所受傷害 100% 的傷害，持續 4 回合。",
             "施法者和附近盟友獲得 +35% 攻擊力，持續 4 回合。"
@@ -74445,16 +74445,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1070,
         "lb1": {
-            "attack": 701,
-            "defense": 761,
-            "health": 1323,
-            "power": 728
+            "attack": 715,
+            "defense": 777,
+            "health": 1375,
+            "power": 745
         },
         "lb2": {
-            "attack": 813,
-            "defense": 883,
-            "health": 1533,
-            "power": 831
+            "attack": 830,
+            "defense": 901,
+            "health": 1595,
+            "power": 851
         },
         "cn_skill_info": [
             {
@@ -74932,10 +74932,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s4_rokkamush_costume_mason",
         "star": 4,
-        "power": 677,
-        "attack": 711,
-        "defense": 665,
-        "health": 1124,
+        "power": 692,
+        "attack": 726,
+        "defense": 678,
+        "health": 1169,
         "effects": [
             "對所有敵人造成 175% 傷害。每一下攻擊的精準度為 80%。",
             "所有命中的敵人在 4 回合內受到共計 200 點流血傷害。"
@@ -74947,16 +74947,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1077,
         "lb1": {
-            "attack": 773,
-            "defense": 722,
-            "health": 1221,
-            "power": 728
+            "attack": 788,
+            "defense": 737,
+            "health": 1270,
+            "power": 744
         },
         "lb2": {
-            "attack": 896,
-            "defense": 837,
-            "health": 1416,
-            "power": 831
+            "attack": 914,
+            "defense": 854,
+            "health": 1472,
+            "power": 850
         },
         "cn_skill_info": [
             {
@@ -75056,10 +75056,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_assassin_costume_poison",
         "star": 4,
-        "power": 640,
-        "attack": 733,
-        "defense": 535,
-        "health": 1066,
+        "power": 685,
+        "attack": 784,
+        "defense": 572,
+        "health": 1184,
         "effects": [
             "對目標造成 185% 傷害，並對附近敵人造成輕微傷害。",
             "目標與附近敵人在 3 回合內受到共計 138 點劇毒傷害。",
@@ -75070,16 +75070,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1079,
         "lb1": {
-            "attack": 796,
-            "defense": 581,
-            "health": 1159,
-            "power": 688
+            "attack": 852,
+            "defense": 622,
+            "health": 1286,
+            "power": 737
         },
         "lb2": {
-            "attack": 923,
-            "defense": 674,
-            "health": 1343,
-            "power": 784
+            "attack": 988,
+            "defense": 721,
+            "health": 1491,
+            "power": 841
         },
         "cn_skill_info": [
             {
@@ -75124,10 +75124,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_assassin_costume_dancer",
         "star": 4,
-        "power": 640,
-        "attack": 750,
-        "defense": 514,
-        "health": 1066,
+        "power": 731,
+        "attack": 862,
+        "defense": 591,
+        "health": 1280,
         "effects": [
             "對目標造成 235% 傷害，並對附近敵人造成輕微傷害。",
             "目標與附近敵人獲得 -31% 攻擊，並在每次被擊中後減少 4%，持續 4 回合。"
@@ -75137,16 +75137,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1080,
         "lb1": {
-            "attack": 815,
-            "defense": 558,
-            "health": 1159,
-            "power": 688
+            "attack": 937,
+            "defense": 642,
+            "health": 1390,
+            "power": 787
         },
         "lb2": {
-            "attack": 944,
-            "defense": 647,
-            "health": 1343,
-            "power": 784
+            "attack": 1086,
+            "defense": 745,
+            "health": 1612,
+            "power": 899
         },
         "cn_skill_info": [
             {
@@ -75187,10 +75187,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_assassin_costume_cute",
         "star": 4,
-        "power": 641,
-        "attack": 720,
-        "defense": 558,
-        "health": 1060,
+        "power": 743,
+        "attack": 842,
+        "defense": 653,
+        "health": 1293,
         "effects": [
             "對目標造成 220% 傷害，並對附近敵人造成輕微傷害。",
             "目標與附近敵人獲得 -24% 攻擊力，持續 6 回合。",
@@ -75203,16 +75203,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 1081,
         "lb1": {
-            "attack": 782,
-            "defense": 607,
-            "health": 1152,
-            "power": 689
+            "attack": 915,
+            "defense": 710,
+            "health": 1405,
+            "power": 800
         },
         "lb2": {
-            "attack": 907,
-            "defense": 704,
-            "health": 1335,
-            "power": 786
+            "attack": 1061,
+            "defense": 823,
+            "health": 1629,
+            "power": 914
         },
         "cn_skill_info": [
             {
@@ -75259,10 +75259,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_assassin_costume_glass",
         "star": 4,
-        "power": 642,
-        "attack": 731,
-        "defense": 550,
-        "health": 1056,
+        "power": 755,
+        "attack": 869,
+        "defense": 654,
+        "health": 1309,
         "effects": [
             "對目標造成 230% 傷害，並對附近敵人造成輕微傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -75275,16 +75275,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 1082,
         "lb1": {
-            "attack": 794,
-            "defense": 598,
-            "health": 1147,
-            "power": 690
+            "attack": 945,
+            "defense": 711,
+            "health": 1422,
+            "power": 813
         },
         "lb2": {
-            "attack": 920,
-            "defense": 693,
-            "health": 1330,
-            "power": 787
+            "attack": 1095,
+            "defense": 825,
+            "health": 1649,
+            "power": 930
         },
         "cn_skill_info": [
             {
@@ -75587,10 +75587,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_demon_master_costume_steppe",
         "star": 4,
-        "power": 650,
-        "attack": 631,
-        "defense": 673,
-        "health": 1117,
+        "power": 672,
+        "attack": 650,
+        "defense": 693,
+        "health": 1184,
         "effects": [
             "對目標造成 280% 傷害。",
             "施法者以所受傷害的 155% 進行反擊，持續 5 回合。",
@@ -75601,16 +75601,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1087,
         "lb1": {
-            "attack": 685,
-            "defense": 731,
-            "health": 1214,
-            "power": 699
+            "attack": 706,
+            "defense": 753,
+            "health": 1287,
+            "power": 723
         },
         "lb2": {
-            "attack": 795,
-            "defense": 848,
-            "health": 1408,
-            "power": 797
+            "attack": 818,
+            "defense": 874,
+            "health": 1492,
+            "power": 824
         },
         "cn_skill_info": [
             {
@@ -75708,10 +75708,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_sumle_costume_unhallowed",
         "star": 4,
-        "power": 662,
-        "attack": 701,
-        "defense": 637,
-        "health": 1096,
+        "power": 684,
+        "attack": 722,
+        "defense": 656,
+        "health": 1162,
         "effects": [
             "對目標及附近敵人造成 365% 傷害。每一下攻擊的精準度為 85%。",
             "每有一個敵人被擊敗，傷害增加 25%。"
@@ -75721,16 +75721,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1089,
         "lb1": {
-            "attack": 761,
-            "defense": 692,
-            "health": 1191,
-            "power": 711
+            "attack": 784,
+            "defense": 713,
+            "health": 1262,
+            "power": 735
         },
         "lb2": {
-            "attack": 883,
-            "defense": 803,
-            "health": 1381,
-            "power": 812
+            "attack": 909,
+            "defense": 827,
+            "health": 1464,
+            "power": 839
         },
         "cn_skill_info": [
             {
@@ -75966,10 +75966,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_rugged_fisherman_costume_sake_master",
         "star": 4,
-        "power": 650,
-        "attack": 637,
-        "defense": 658,
-        "health": 1130,
+        "power": 672,
+        "attack": 656,
+        "defense": 678,
+        "health": 1198,
         "effects": [
             "所有盟友獲得 +100% 普通攻擊，持續 4 回合。除了可變更整體攻擊的效果，可另外啟動此效果。啟動此效果時，普通攻擊最多可提升 +140% 威力。",
             "所有盟友在 4 回合內恢復 280 點生命值。"
@@ -75979,16 +75979,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1093,
         "lb1": {
-            "attack": 692,
-            "defense": 715,
-            "health": 1228,
-            "power": 699
+            "attack": 713,
+            "defense": 737,
+            "health": 1302,
+            "power": 723
         },
         "lb2": {
-            "attack": 803,
-            "defense": 829,
-            "health": 1424,
-            "power": 797
+            "attack": 827,
+            "defense": 854,
+            "health": 1509,
+            "power": 824
         },
         "cn_skill_info": [
             {
@@ -76162,10 +76162,10 @@ window.allHeroes =
         ],
         "heroId": "kingdom_zhou_yu_costume_white_raven",
         "star": 4,
-        "power": 683,
-        "attack": 665,
-        "defense": 650,
-        "health": 1315,
+        "power": 719,
+        "attack": 705,
+        "defense": 689,
+        "health": 1394,
         "effects": [
             "對目標造成 345% 傷害。",
             "為每個盟友召喚一個吳國戰士小兵，其可從施法者繼承 22% 生命值與 30% 攻擊。",
@@ -76181,16 +76181,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1096,
         "lb1": {
-            "attack": 722,
-            "defense": 706,
-            "health": 1429,
-            "power": 735
+            "attack": 766,
+            "defense": 748,
+            "health": 1515,
+            "power": 774
         },
         "lb2": {
-            "attack": 837,
-            "defense": 819,
-            "health": 1657,
-            "power": 839
+            "attack": 888,
+            "defense": 868,
+            "health": 1756,
+            "power": 884
         },
         "cn_skill_info": [
             {
@@ -76638,10 +76638,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "halloween_alucard_costume_mafia",
         "star": 5,
-        "power": 851,
-        "attack": 924,
-        "defense": 721,
-        "health": 1439,
+        "power": 1225,
+        "attack": 1387,
+        "defense": 1081,
+        "health": 2231,
         "effects": [
             "摧毀目標和附近敵人的全部小兵。此效果會對超級小兵造成傷害。",
             "對目標及附近敵人造成 245% 傷害。",
@@ -76656,16 +76656,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1102,
         "lb1": {
-            "attack": 996,
-            "defense": 777,
-            "health": 1551,
-            "power": 908
+            "attack": 1495,
+            "defense": 1165,
+            "health": 2405,
+            "power": 1311
         },
         "lb2": {
-            "attack": 1140,
-            "defense": 889,
-            "health": 1775,
-            "power": 1021
+            "attack": 1710,
+            "defense": 1333,
+            "health": 2751,
+            "power": 1481
         },
         "cn_skill_info": [
             {
@@ -77193,10 +77193,10 @@ window.allHeroes =
         ],
         "heroId": "fire_god_ares_costume_keymaster",
         "star": 5,
-        "power": 765,
-        "attack": 683,
-        "defense": 710,
-        "health": 1444,
+        "power": 974,
+        "attack": 875,
+        "defense": 895,
+        "health": 2093,
         "effects": [
             "施法者和附近盟友獲得 +45% 攻擊力，持續 4 回合。攻擊力每回合增加 5%，最高至 +60%。",
             "施法者和附近盟友會以承受傷害的 110% 進行反擊，持續 4 回合。反擊傷害每回合增加 10%，最高可達 140%。",
@@ -77210,16 +77210,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1110,
         "lb1": {
-            "attack": 737,
-            "defense": 765,
-            "health": 1556,
-            "power": 814
+            "attack": 943,
+            "defense": 965,
+            "health": 2256,
+            "power": 1041
         },
         "lb2": {
-            "attack": 843,
-            "defense": 876,
-            "health": 1780,
-            "power": 914
+            "attack": 1079,
+            "defense": 1104,
+            "health": 2581,
+            "power": 1173
         },
         "cn_skill_info": [
             {
@@ -77646,10 +77646,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "lionman_barbarian_costume_armor",
         "star": 5,
-        "power": 757,
-        "attack": 782,
-        "defense": 632,
-        "health": 1301,
+        "power": 853,
+        "attack": 884,
+        "defense": 714,
+        "health": 1562,
         "effects": [
             "對目標及附近敵人造成 205% 傷害。",
             "如果目標剩餘生命少於 50%，可對其造成 410% 傷害。",
@@ -77660,16 +77660,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1116,
         "lb1": {
-            "attack": 843,
-            "defense": 681,
-            "health": 1403,
-            "power": 807
+            "attack": 953,
+            "defense": 770,
+            "health": 1683,
+            "power": 909
         },
         "lb2": {
-            "attack": 965,
-            "defense": 779,
-            "health": 1605,
-            "power": 905
+            "attack": 1090,
+            "defense": 881,
+            "health": 1926,
+            "power": 1022
         },
         "cn_skill_info": [
             {
@@ -77714,10 +77714,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "lionman_barbarian_costume_babysitter",
         "star": 5,
-        "power": 757,
-        "attack": 803,
-        "defense": 628,
-        "health": 1256,
+        "power": 967,
+        "attack": 1036,
+        "defense": 810,
+        "health": 1809,
         "effects": [
             "對目標及附近敵人造成 310% 傷害。",
             "目標與附近敵人在 4 回合內受到共計 636 點燃燒傷害。施法者能吸收所造成之燃燒傷害的 40% 作為生命值。"
@@ -77727,16 +77727,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1117,
         "lb1": {
-            "attack": 865,
-            "defense": 677,
-            "health": 1354,
-            "power": 806
+            "attack": 1116,
+            "defense": 873,
+            "health": 1950,
+            "power": 1033
         },
         "lb2": {
-            "attack": 990,
-            "defense": 774,
-            "health": 1549,
-            "power": 905
+            "attack": 1277,
+            "defense": 999,
+            "health": 2231,
+            "power": 1164
         },
         "cn_skill_info": [
             {
@@ -77783,10 +77783,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "lionman_barbarian_costume_cute",
         "star": 5,
-        "power": 759,
-        "attack": 762,
-        "defense": 681,
-        "health": 1266,
+        "power": 1135,
+        "attack": 1181,
+        "defense": 1056,
+        "health": 2153,
         "effects": [
             "對所有敵人造成 355% 傷害。",
             "所有敵人在 3 回合內受到共計 513 點傷害。",
@@ -77799,16 +77799,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 1118,
         "lb1": {
-            "attack": 821,
-            "defense": 734,
-            "health": 1365,
-            "power": 808
+            "attack": 1273,
+            "defense": 1138,
+            "health": 2321,
+            "power": 1214
         },
         "lb2": {
-            "attack": 939,
-            "defense": 840,
-            "health": 1562,
-            "power": 907
+            "attack": 1456,
+            "defense": 1303,
+            "health": 2655,
+            "power": 1371
         },
         "cn_skill_info": [
             {
@@ -77855,10 +77855,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "lionman_barbarian_costume_glass",
         "star": 5,
-        "power": 760,
-        "attack": 764,
-        "defense": 679,
-        "health": 1271,
+        "power": 1242,
+        "attack": 1337,
+        "defense": 1189,
+        "health": 2262,
         "effects": [
             "對所有敵人造成 365% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -77871,16 +77871,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 1119,
         "lb1": {
-            "attack": 823,
-            "defense": 732,
-            "health": 1369,
-            "power": 809
+            "attack": 1441,
+            "defense": 1282,
+            "health": 2438,
+            "power": 1329
         },
         "lb2": {
-            "attack": 942,
-            "defense": 838,
-            "health": 1567,
-            "power": 908
+            "attack": 1649,
+            "defense": 1466,
+            "health": 2789,
+            "power": 1503
         },
         "cn_skill_info": [
             {
@@ -77991,10 +77991,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_baldur_costume_fiery",
         "star": 5,
-        "power": 787,
-        "attack": 772,
-        "defense": 725,
-        "health": 1353,
+        "power": 986,
+        "attack": 988,
+        "defense": 928,
+        "health": 1827,
         "effects": [
             "對目標造成 400% 傷害。",
             "為施法者提供 850 點加成生命值。加成生命值能夠超過最大生命值。",
@@ -78006,16 +78006,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1121,
         "lb1": {
-            "attack": 832,
-            "defense": 781,
-            "health": 1458,
-            "power": 839
+            "attack": 1065,
+            "defense": 1000,
+            "health": 1969,
+            "power": 1053
         },
         "lb2": {
-            "attack": 952,
-            "defense": 894,
-            "health": 1668,
-            "power": 942
+            "attack": 1219,
+            "defense": 1144,
+            "health": 2252,
+            "power": 1187
         },
         "cn_skill_info": [
             {
@@ -78572,10 +78572,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "knights_black_knight_costume_negative",
         "star": 5,
-        "power": 780,
-        "attack": 624,
-        "defense": 836,
-        "health": 1448,
+        "power": 978,
+        "attack": 792,
+        "defense": 1045,
+        "health": 2027,
         "effects": [
             "施法者有 50% 機率將受到的任何傷害降低至 1 點，持續 4 回合。",
             "施法者獲得嘲諷，可阻止敵人對其盟友使用特殊技能，持續 4 回合。",
@@ -78586,16 +78586,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1129,
         "lb1": {
-            "attack": 672,
-            "defense": 901,
-            "health": 1560,
-            "power": 830
+            "attack": 854,
+            "defense": 1126,
+            "health": 2184,
+            "power": 1044
         },
         "lb2": {
-            "attack": 769,
-            "defense": 1031,
-            "health": 1785,
-            "power": 932
+            "attack": 977,
+            "defense": 1289,
+            "health": 2499,
+            "power": 1177
         },
         "cn_skill_info": [
             {
@@ -78980,10 +78980,10 @@ window.allHeroes =
         ],
         "heroId": "s4_captain_nemo_costume_machinist",
         "star": 5,
-        "power": 810,
-        "attack": 832,
-        "defense": 756,
-        "health": 1301,
+        "power": 1024,
+        "attack": 1081,
+        "defense": 982,
+        "health": 1757,
         "effects": [
             "對目標造成 370% 傷害。",
             "如果施法者的狀態異常或有負面疊加，會造成 555% 傷害。"
@@ -78996,16 +78996,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1135,
         "lb1": {
-            "attack": 896,
-            "defense": 814,
-            "health": 1403,
-            "power": 862
+            "attack": 1165,
+            "defense": 1059,
+            "health": 1894,
+            "power": 1094
         },
         "lb2": {
-            "attack": 1026,
-            "defense": 932,
-            "health": 1605,
-            "power": 969
+            "attack": 1334,
+            "defense": 1211,
+            "health": 2167,
+            "power": 1234
         },
         "cn_skill_info": [
             {
@@ -80299,10 +80299,10 @@ window.allHeroes =
         ],
         "heroId": "tales1_domiventus_costume_supreme",
         "star": 5,
-        "power": 1000,
-        "attack": 962,
-        "defense": 1011,
-        "health": 1825,
+        "power": 1245,
+        "attack": 1231,
+        "defense": 1294,
+        "health": 2336,
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
@@ -80322,16 +80322,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1153,
         "lb1": {
-            "attack": 1036,
-            "defense": 1090,
-            "health": 1966,
-            "power": 1068
+            "attack": 1327,
+            "defense": 1395,
+            "health": 2517,
+            "power": 1332
         },
         "lb2": {
-            "attack": 1186,
-            "defense": 1247,
-            "health": 2250,
-            "power": 1204
+            "attack": 1518,
+            "defense": 1596,
+            "health": 2880,
+            "power": 1506
         },
         "cn_skill_info": [
             {
@@ -80450,10 +80450,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elemental_doxan_costume_hacker",
         "star": 5,
-        "power": 907,
-        "attack": 885,
-        "defense": 832,
-        "health": 1713,
+        "power": 1233,
+        "attack": 1240,
+        "defense": 1165,
+        "health": 2485,
         "effects": [
             "對目標造成 550% 傷害，並對所有自然敵人造成輕微傷害。",
             "目標和所有自然敵人在 4 回合內受到共計 1504 點燃燒傷害。",
@@ -80470,16 +80470,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1155,
         "lb1": {
-            "attack": 954,
-            "defense": 896,
-            "health": 1847,
-            "power": 968
+            "attack": 1336,
+            "defense": 1255,
+            "health": 2678,
+            "power": 1318
         },
         "lb2": {
-            "attack": 1092,
-            "defense": 1026,
-            "health": 2113,
-            "power": 1090
+            "attack": 1529,
+            "defense": 1436,
+            "health": 3064,
+            "power": 1491
         },
         "cn_skill_info": [
             {
@@ -80876,10 +80876,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_lord_costume_flame",
         "star": 5,
-        "power": 753,
-        "attack": 805,
-        "defense": 560,
-        "health": 1359,
+        "power": 849,
+        "attack": 910,
+        "defense": 633,
+        "health": 1631,
         "effects": [
             "對所有敵人造成 172% 傷害。",
             "施法者與附近盟友進行反擊，造成所受傷害 155% 的傷害，持續 5 回合。"
@@ -80889,16 +80889,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1161,
         "lb1": {
-            "attack": 868,
-            "defense": 603,
-            "health": 1465,
-            "power": 802
+            "attack": 980,
+            "defense": 682,
+            "health": 1758,
+            "power": 905
         },
         "lb2": {
-            "attack": 993,
-            "defense": 690,
-            "health": 1676,
-            "power": 900
+            "attack": 1122,
+            "defense": 780,
+            "health": 2011,
+            "power": 1017
         },
         "cn_skill_info": [
             {
@@ -80936,10 +80936,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_lord_costume_wicked",
         "star": 5,
-        "power": 753,
-        "attack": 716,
-        "defense": 659,
-        "health": 1384,
+        "power": 965,
+        "attack": 924,
+        "defense": 850,
+        "health": 1993,
         "effects": [
             "對所有敵人造成 242% 傷害。",
             "施法者和附近盟友會以承受傷害的 115% 進行反擊，持續 5 回合。反擊傷害每回合增加 +10%，最高至 155%。"
@@ -80949,16 +80949,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1162,
         "lb1": {
-            "attack": 772,
-            "defense": 710,
-            "health": 1491,
-            "power": 802
+            "attack": 996,
+            "defense": 916,
+            "health": 2148,
+            "power": 1030
         },
         "lb2": {
-            "attack": 883,
-            "defense": 812,
-            "health": 1706,
-            "power": 900
+            "attack": 1140,
+            "defense": 1048,
+            "health": 2457,
+            "power": 1161
         },
         "cn_skill_info": [
             {
@@ -80999,10 +80999,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_lord_costume_cute",
         "star": 5,
-        "power": 754,
-        "attack": 659,
-        "defense": 725,
-        "health": 1398,
+        "power": 1129,
+        "attack": 1021,
+        "defense": 1123,
+        "health": 2377,
         "effects": [
             "對所有敵人造成 352% 傷害。",
             "施法者與附近盟友進行反擊，造成所受傷害 120% 的傷害，持續 5 回合。",
@@ -81015,16 +81015,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 1163,
         "lb1": {
-            "attack": 710,
-            "defense": 781,
-            "health": 1507,
-            "power": 803
+            "attack": 1101,
+            "defense": 1211,
+            "health": 2562,
+            "power": 1208
         },
         "lb2": {
-            "attack": 812,
-            "defense": 894,
-            "health": 1724,
-            "power": 900
+            "attack": 1259,
+            "defense": 1385,
+            "health": 2931,
+            "power": 1363
         },
         "cn_skill_info": [
             {
@@ -81071,10 +81071,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_lord_costume_glass",
         "star": 5,
-        "power": 756,
-        "attack": 692,
-        "defense": 688,
-        "health": 1404,
+        "power": 1235,
+        "attack": 1211,
+        "defense": 1204,
+        "health": 2500,
         "effects": [
             "對所有敵人造成 362% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -81087,16 +81087,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 1164,
         "lb1": {
-            "attack": 745,
-            "defense": 741,
-            "health": 1514,
-            "power": 805
+            "attack": 1305,
+            "defense": 1297,
+            "health": 2694,
+            "power": 1322
         },
         "lb2": {
-            "attack": 853,
-            "defense": 848,
-            "health": 1732,
-            "power": 903
+            "attack": 1493,
+            "defense": 1484,
+            "health": 3083,
+            "power": 1494
         },
         "cn_skill_info": [
             {
@@ -81297,10 +81297,10 @@ window.allHeroes =
         ],
         "heroId": "s4_elizabeth_costume_bride",
         "star": 5,
-        "power": 807,
-        "attack": 782,
-        "defense": 760,
-        "health": 1400,
+        "power": 1022,
+        "attack": 1017,
+        "defense": 988,
+        "health": 1891,
         "effects": [
             "對所有敵人造成 165% 傷害。",
             "對所有敵人召喚蜘蛛惡魔。惡魔每回合以 41% 的攻擊力對目標造成傷害。",
@@ -81315,16 +81315,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1167,
         "lb1": {
-            "attack": 843,
-            "defense": 819,
-            "health": 1509,
-            "power": 860
+            "attack": 1096,
+            "defense": 1064,
+            "health": 2037,
+            "power": 1091
         },
         "lb2": {
-            "attack": 965,
-            "defense": 937,
-            "health": 1727,
-            "power": 966
+            "attack": 1254,
+            "defense": 1218,
+            "health": 2331,
+            "power": 1231
         },
         "cn_skill_info": [
             {
@@ -81690,10 +81690,10 @@ window.allHeroes =
         ],
         "heroId": "circus_emilio_costume_frog",
         "star": 5,
-        "power": 810,
-        "attack": 788,
-        "defense": 741,
-        "health": 1442,
+        "power": 1211,
+        "attack": 1238,
+        "defense": 1164,
+        "health": 2336,
         "effects": [
             "施放以下特殊技能之一：",
             "若任何敵人身上帶有燃燒狀態異常：",
@@ -81711,16 +81711,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1172,
         "lb1": {
-            "attack": 850,
-            "defense": 799,
-            "health": 1554,
-            "power": 863
+            "attack": 1334,
+            "defense": 1254,
+            "health": 2517,
+            "power": 1295
         },
         "lb2": {
-            "attack": 972,
-            "defense": 914,
-            "health": 1778,
-            "power": 970
+            "attack": 1527,
+            "defense": 1435,
+            "health": 2880,
+            "power": 1464
         },
         "cn_skill_info": [
             {
@@ -82247,10 +82247,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "beachparty_flip_costume_donut",
         "star": 5,
-        "power": 874,
-        "attack": 815,
-        "defense": 887,
-        "health": 1542,
+        "power": 1185,
+        "attack": 1142,
+        "defense": 1243,
+        "health": 2237,
         "effects": [
             "為所有盟友恢復 50% 生命值。",
             "所有盟友攻擊時無視防禦增益，持續 4 回合。（包含反擊）",
@@ -82264,16 +82264,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1179,
         "lb1": {
-            "attack": 879,
-            "defense": 956,
-            "health": 1662,
-            "power": 933
+            "attack": 1230,
+            "defense": 1339,
+            "health": 2411,
+            "power": 1267
         },
         "lb2": {
-            "attack": 1005,
-            "defense": 1094,
-            "health": 1902,
-            "power": 1049
+            "attack": 1408,
+            "defense": 1532,
+            "health": 2758,
+            "power": 1432
         },
         "cn_skill_info": [
             {
@@ -82588,10 +82588,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_gefjon_costume_wilderness",
         "star": 5,
-        "power": 785,
-        "attack": 758,
-        "defense": 772,
-        "health": 1281,
+        "power": 983,
+        "attack": 970,
+        "defense": 988,
+        "health": 1729,
         "effects": [
             "摧毀目標和附近敵人的全部小兵。此效果會對超級小兵造成傷害。",
             "對目標及附近敵人造成 335% 傷害。"
@@ -82601,16 +82601,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1184,
         "lb1": {
-            "attack": 816,
-            "defense": 832,
-            "health": 1380,
-            "power": 836
+            "attack": 1045,
+            "defense": 1065,
+            "health": 1864,
+            "power": 1049
         },
         "lb2": {
-            "attack": 934,
-            "defense": 952,
-            "health": 1579,
-            "power": 939
+            "attack": 1196,
+            "defense": 1219,
+            "health": 2132,
+            "power": 1183
         },
         "cn_skill_info": [
             {
@@ -82736,10 +82736,10 @@ window.allHeroes =
         ],
         "heroId": "tales1_gestalt_costume_pearls",
         "star": 5,
-        "power": 957,
-        "attack": 949,
-        "defense": 908,
-        "health": 1759,
+        "power": 1190,
+        "attack": 1215,
+        "defense": 1162,
+        "health": 2251,
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
@@ -82765,16 +82765,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1186,
         "lb1": {
-            "attack": 1023,
-            "defense": 979,
-            "health": 1895,
-            "power": 1022
+            "attack": 1309,
+            "defense": 1253,
+            "health": 2426,
+            "power": 1273
         },
         "lb2": {
-            "attack": 1170,
-            "defense": 1120,
-            "health": 2169,
-            "power": 1151
+            "attack": 1498,
+            "defense": 1433,
+            "health": 2776,
+            "power": 1439
         },
         "cn_skill_info": [
             {
@@ -82970,10 +82970,10 @@ window.allHeroes =
         ],
         "heroId": "fire_god_doom_costume_avenger",
         "star": 5,
-        "power": 767,
-        "attack": 721,
-        "defense": 700,
-        "health": 1390,
+        "power": 976,
+        "attack": 922,
+        "defense": 882,
+        "health": 2016,
         "effects": [
             "對所有敵人造成 175% 傷害。",
             "所有敵人在 2 回合內受到共計 542 點燃燒傷害。",
@@ -82986,16 +82986,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1189,
         "lb1": {
-            "attack": 777,
-            "defense": 754,
-            "health": 1498,
-            "power": 817
+            "attack": 994,
+            "defense": 951,
+            "health": 2172,
+            "power": 1043
         },
         "lb2": {
-            "attack": 889,
-            "defense": 863,
-            "health": 1714,
-            "power": 917
+            "attack": 1137,
+            "defense": 1088,
+            "health": 2486,
+            "power": 1175
         },
         "cn_skill_info": [
             {
@@ -83174,10 +83174,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "guardian_gorilla_chieftain_costume_conqueror",
         "star": 5,
-        "power": 765,
-        "attack": 793,
-        "defense": 595,
-        "health": 1402,
+        "power": 960,
+        "attack": 1007,
+        "defense": 744,
+        "health": 1964,
         "effects": [
             "對所有敵人造成 300% 傷害。",
             "所有盟友將全部狀態效果和 115% 傷害反射給進攻者，並抵擋其它來自敵人冰雪特殊技能的負面效果，持續 4 回合。同隊角色、小兵和惡魔施放的狀態效果無法反彈。",
@@ -83188,16 +83188,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1192,
         "lb1": {
-            "attack": 854,
-            "defense": 641,
-            "health": 1511,
-            "power": 814
+            "attack": 1085,
+            "defense": 801,
+            "health": 2116,
+            "power": 1025
         },
         "lb2": {
-            "attack": 977,
-            "defense": 734,
-            "health": 1729,
-            "power": 914
+            "attack": 1241,
+            "defense": 917,
+            "health": 2421,
+            "power": 1155
         },
         "cn_skill_info": [
             {
@@ -83456,10 +83456,10 @@ window.allHeroes =
         ],
         "heroId": "s5_hathor_costume_starlit",
         "star": 5,
-        "power": 844,
-        "attack": 770,
-        "defense": 803,
-        "health": 1606,
+        "power": 1179,
+        "attack": 1117,
+        "defense": 1164,
+        "health": 2410,
         "effects": [
             "所有盟友在 4 個回合內恢復 640 點加成生命值。加成生命值能夠超過最大生命值。",
             "所有盟友對新的狀態異常免疫，持續 4 回合。"
@@ -83475,16 +83475,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1196,
         "lb1": {
-            "attack": 830,
-            "defense": 865,
-            "health": 1731,
-            "power": 900
+            "attack": 1203,
+            "defense": 1255,
+            "health": 2597,
+            "power": 1261
         },
         "lb2": {
-            "attack": 949,
-            "defense": 990,
-            "health": 1981,
-            "power": 1011
+            "attack": 1377,
+            "defense": 1436,
+            "health": 2971,
+            "power": 1424
         },
         "cn_skill_info": [
             {
@@ -83912,10 +83912,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elemental_ignazio_costume_medic",
         "star": 5,
-        "power": 954,
-        "attack": 877,
-        "defense": 937,
-        "health": 1858,
+        "power": 1197,
+        "attack": 1132,
+        "defense": 1209,
+        "health": 2415,
         "effects": [
             "為所有盟友恢復 28% 生命值。",
             "面板上每有一個烈火護盾，便額外回復 4% 生命，最多回復 60%。",
@@ -83933,16 +83933,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1202,
         "lb1": {
-            "attack": 945,
-            "defense": 1010,
-            "health": 2002,
-            "power": 1018
+            "attack": 1219,
+            "defense": 1303,
+            "health": 2603,
+            "power": 1280
         },
         "lb2": {
-            "attack": 1082,
-            "defense": 1155,
-            "health": 2291,
-            "power": 1147
+            "attack": 1395,
+            "defense": 1490,
+            "health": 2978,
+            "power": 1447
         },
         "cn_skill_info": [
             {
@@ -84061,10 +84061,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "kalevala_ilmarinen_costume_gold",
         "star": 5,
-        "power": 941,
-        "attack": 859,
-        "defense": 933,
-        "health": 1816,
+        "power": 1221,
+        "attack": 1151,
+        "defense": 1250,
+        "health": 2452,
         "effects": [
             "減少所有冰雪系敵人 50% 法力。減少所有其他敵人 30% 法力。",
             "所有敵人得到霾魂速結，持續 4 個回合。靈魂連結的敵人會分享承受的傷害。此状熊效果在冰雪系角色上无法驱散，且會持續額外 2 個回合。",
@@ -84077,16 +84077,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1204,
         "lb1": {
-            "attack": 925,
-            "defense": 1005,
-            "health": 1958,
-            "power": 1004
+            "attack": 1240,
+            "defense": 1347,
+            "health": 2643,
+            "power": 1306
         },
         "lb2": {
-            "attack": 1059,
-            "defense": 1150,
-            "health": 2240,
-            "power": 1131
+            "attack": 1419,
+            "defense": 1541,
+            "health": 3024,
+            "power": 1476
         },
         "cn_skill_info": [
             {
@@ -84643,10 +84643,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tribal_chief_costume_conqueror",
         "star": 5,
-        "power": 757,
-        "attack": 725,
-        "defense": 659,
-        "health": 1390,
+        "power": 853,
+        "attack": 819,
+        "defense": 744,
+        "health": 1668,
         "effects": [
             "對目標造成 514% 傷害。",
             "所有盟友獲得 +12% 法力產出，持續 5 回合。",
@@ -84657,16 +84657,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1212,
         "lb1": {
-            "attack": 781,
-            "defense": 710,
-            "health": 1498,
-            "power": 806
+            "attack": 883,
+            "defense": 802,
+            "health": 1798,
+            "power": 910
         },
         "lb2": {
-            "attack": 894,
-            "defense": 812,
-            "health": 1714,
-            "power": 905
+            "attack": 1010,
+            "defense": 918,
+            "health": 2057,
+            "power": 1023
         },
         "cn_skill_info": [
             {
@@ -84707,10 +84707,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tribal_chief_costume_leopard",
         "star": 5,
-        "power": 757,
-        "attack": 721,
-        "defense": 667,
-        "health": 1382,
+        "power": 969,
+        "attack": 930,
+        "defense": 860,
+        "health": 1990,
         "effects": [
             "對所有敵人造成 285% 傷害。",
             "所有盟友在 5 回合內恢復適量法力。",
@@ -84721,16 +84721,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1213,
         "lb1": {
-            "attack": 777,
-            "defense": 719,
-            "health": 1489,
-            "power": 806
+            "attack": 1002,
+            "defense": 927,
+            "health": 2145,
+            "power": 1035
         },
         "lb2": {
-            "attack": 889,
-            "defense": 822,
-            "health": 1704,
-            "power": 904
+            "attack": 1146,
+            "defense": 1061,
+            "health": 2454,
+            "power": 1166
         },
         "cn_skill_info": [
             {
@@ -84774,10 +84774,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tribal_chief_costume_cute",
         "star": 5,
-        "power": 758,
-        "attack": 745,
-        "defense": 622,
-        "health": 1421,
+        "power": 1137,
+        "attack": 1155,
+        "defense": 964,
+        "health": 2416,
         "effects": [
             "對目標及附近敵人造成 530% 傷害。",
             "施法者和附近盟友獲得 +22% 法力產出，持續 5 回合。（僅影響從配對磚格產生的法力，或防禦隊伍在其回合結束時獲得的法力）",
@@ -84791,16 +84791,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 1214,
         "lb1": {
-            "attack": 803,
-            "defense": 670,
-            "health": 1531,
-            "power": 807
+            "attack": 1245,
+            "defense": 1039,
+            "health": 2604,
+            "power": 1216
         },
         "lb2": {
-            "attack": 919,
-            "defense": 767,
-            "health": 1752,
-            "power": 906
+            "attack": 1425,
+            "defense": 1188,
+            "health": 2979,
+            "power": 1373
         },
         "cn_skill_info": [
             {
@@ -84850,10 +84850,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tribal_chief_costume_glass",
         "star": 5,
-        "power": 759,
-        "attack": 749,
-        "defense": 618,
-        "health": 1425,
+        "power": 1242,
+        "attack": 1312,
+        "defense": 1081,
+        "health": 2537,
         "effects": [
             "對目標及附近敵人造成 540% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -84867,16 +84867,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 1215,
         "lb1": {
-            "attack": 808,
-            "defense": 666,
-            "health": 1536,
-            "power": 809
+            "attack": 1414,
+            "defense": 1165,
+            "health": 2734,
+            "power": 1328
         },
         "lb2": {
-            "attack": 924,
-            "defense": 762,
-            "health": 1757,
-            "power": 907
+            "attack": 1617,
+            "defense": 1333,
+            "health": 3128,
+            "power": 1502
         },
         "cn_skill_info": [
             {
@@ -84995,10 +84995,10 @@ window.allHeroes =
         ],
         "heroId": "s5_khafre_costume_aquatic",
         "star": 5,
-        "power": 859,
-        "attack": 848,
-        "defense": 780,
-        "health": 1567,
+        "power": 1201,
+        "attack": 1230,
+        "defense": 1132,
+        "health": 2351,
         "effects": [
             "對目標造成 500% 傷害。",
             "當任何敵人遭到攻擊命中時，鄰近的所有敵人都會受到連鎖攻擊。",
@@ -85015,16 +85015,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1217,
         "lb1": {
-            "attack": 914,
-            "defense": 841,
-            "health": 1689,
-            "power": 916
+            "attack": 1326,
+            "defense": 1220,
+            "health": 2534,
+            "power": 1285
         },
         "lb2": {
-            "attack": 1046,
-            "defense": 962,
-            "health": 1932,
-            "power": 1030
+            "attack": 1517,
+            "defense": 1395,
+            "health": 2899,
+            "power": 1452
         },
         "cn_skill_info": [
             {
@@ -85131,10 +85131,10 @@ window.allHeroes =
         ],
         "heroId": "s4_kravekrush_costume_grillmaster",
         "star": 5,
-        "power": 814,
-        "attack": 784,
-        "defense": 764,
-        "health": 1439,
+        "power": 1032,
+        "attack": 1020,
+        "defense": 993,
+        "health": 1943,
         "effects": [
             "所有敵人無法復活盟友或是自己，持續 4 回合。",
             "所有敵人無法獲得新的復活狀態效果，持續 4 回合。",
@@ -85148,16 +85148,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1219,
         "lb1": {
-            "attack": 845,
-            "defense": 823,
-            "health": 1551,
-            "power": 868
+            "attack": 1099,
+            "defense": 1070,
+            "health": 2094,
+            "power": 1102
         },
         "lb2": {
-            "attack": 967,
-            "defense": 942,
-            "health": 1775,
-            "power": 975
+            "attack": 1258,
+            "defense": 1225,
+            "health": 2396,
+            "power": 1243
         },
         "cn_skill_info": [
             {
@@ -85258,10 +85258,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_loki_female_costume_mother",
         "star": 5,
-        "power": 787,
-        "attack": 685,
-        "defense": 854,
-        "health": 1312,
+        "power": 986,
+        "attack": 878,
+        "defense": 1094,
+        "health": 1771,
         "effects": [
             "消除所有盟友的全部可淨化的狀態異常，並隨機分配給所有敵人。",
             "對所有敵人造成 135% 傷害。",
@@ -85272,16 +85272,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1221,
         "lb1": {
-            "attack": 739,
-            "defense": 921,
-            "health": 1414,
-            "power": 839
+            "attack": 946,
+            "defense": 1179,
+            "health": 1909,
+            "power": 1053
         },
         "lb2": {
-            "attack": 845,
-            "defense": 1054,
-            "health": 1617,
-            "power": 942
+            "attack": 1082,
+            "defense": 1349,
+            "health": 2184,
+            "power": 1187
         },
         "cn_skill_info": [
             {
@@ -85401,10 +85401,10 @@ window.allHeroes =
         ],
         "heroId": "tales1_lasalle_costume_jockey",
         "star": 5,
-        "power": 936,
-        "attack": 974,
-        "defense": 900,
-        "health": 1561,
+        "power": 1163,
+        "attack": 1247,
+        "defense": 1152,
+        "health": 1998,
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
@@ -85428,16 +85428,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1223,
         "lb1": {
-            "attack": 1050,
-            "defense": 970,
-            "health": 1682,
-            "power": 999
+            "attack": 1344,
+            "defense": 1241,
+            "health": 2153,
+            "power": 1244
         },
         "lb2": {
-            "attack": 1201,
-            "defense": 1109,
-            "health": 1925,
-            "power": 1125
+            "attack": 1537,
+            "defense": 1420,
+            "health": 2464,
+            "power": 1405
         },
         "cn_skill_info": [
             {
@@ -86066,10 +86066,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_captain_costume_pirate",
         "star": 5,
-        "power": 755,
-        "attack": 718,
-        "defense": 671,
-        "health": 1363,
+        "power": 850,
+        "attack": 812,
+        "defense": 758,
+        "health": 1636,
         "effects": [
             "對目標造成 358% 傷害，並對附近敵人造成輕微傷害。",
             "目標與附近敵人獲得對烈火系 -54% 的防禦，持續 3 回合。",
@@ -86080,16 +86080,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1232,
         "lb1": {
-            "attack": 774,
-            "defense": 723,
-            "health": 1469,
-            "power": 804
+            "attack": 875,
+            "defense": 817,
+            "health": 1763,
+            "power": 906
         },
         "lb2": {
-            "attack": 886,
-            "defense": 828,
-            "health": 1681,
-            "power": 902
+            "attack": 1001,
+            "defense": 935,
+            "health": 2017,
+            "power": 1019
         },
         "cn_skill_info": [
             {
@@ -86130,10 +86130,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_captain_costume_thief",
         "star": 5,
-        "power": 755,
-        "attack": 718,
-        "defense": 671,
-        "health": 1363,
+        "power": 966,
+        "attack": 927,
+        "defense": 866,
+        "health": 1963,
         "effects": [
             "對目標及附近敵人造成 300% 傷害。",
             "目標與附近敵人獲得 -34% 防禦，持續 3 回合。對冰雪系角色，此狀態效果變為無法淨化且持續時間延長 2 回合。",
@@ -86144,16 +86144,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1233,
         "lb1": {
-            "attack": 774,
-            "defense": 723,
-            "health": 1469,
-            "power": 804
+            "attack": 999,
+            "defense": 933,
+            "health": 2116,
+            "power": 1032
         },
         "lb2": {
-            "attack": 886,
-            "defense": 828,
-            "health": 1681,
-            "power": 902
+            "attack": 1143,
+            "defense": 1068,
+            "health": 2421,
+            "power": 1163
         },
         "cn_skill_info": [
             {
@@ -86196,10 +86196,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_captain_costume_cute",
         "star": 5,
-        "power": 756,
-        "attack": 698,
-        "defense": 702,
-        "health": 1363,
+        "power": 1132,
+        "attack": 1082,
+        "defense": 1088,
+        "health": 2318,
         "effects": [
             "對目標造成 538% 傷害。",
             "目標在 3 回合內受到共計 516 點傷害。",
@@ -86212,16 +86212,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 1234,
         "lb1": {
-            "attack": 752,
-            "defense": 757,
-            "health": 1469,
-            "power": 805
+            "attack": 1166,
+            "defense": 1173,
+            "health": 2498,
+            "power": 1211
         },
         "lb2": {
-            "attack": 861,
-            "defense": 866,
-            "health": 1681,
-            "power": 904
+            "attack": 1334,
+            "defense": 1342,
+            "health": 2858,
+            "power": 1367
         },
         "cn_skill_info": [
             {
@@ -86269,10 +86269,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_captain_costume_glass",
         "star": 5,
-        "power": 757,
-        "attack": 749,
-        "defense": 661,
-        "health": 1324,
+        "power": 1238,
+        "attack": 1312,
+        "defense": 1157,
+        "health": 2357,
         "effects": [
             "對目標造成 548% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -86285,16 +86285,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 1235,
         "lb1": {
-            "attack": 808,
-            "defense": 712,
-            "health": 1427,
-            "power": 806
+            "attack": 1414,
+            "defense": 1247,
+            "health": 2540,
+            "power": 1324
         },
         "lb2": {
-            "attack": 924,
-            "defense": 815,
-            "health": 1633,
-            "power": 905
+            "attack": 1617,
+            "defense": 1426,
+            "health": 2907,
+            "power": 1497
         },
         "cn_skill_info": [
             {
@@ -86409,10 +86409,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_noble_lady_costume_warrior",
         "star": 5,
-        "power": 774,
-        "attack": 716,
-        "defense": 692,
-        "health": 1468,
+        "power": 948,
+        "attack": 896,
+        "defense": 865,
+        "health": 1909,
         "effects": [
             "對所有敵人造成 230% 傷害。",
             "所有敵人獲得 -34% 法力產出。",
@@ -86423,16 +86423,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1237,
         "lb1": {
-            "attack": 772,
-            "defense": 745,
-            "health": 1582,
-            "power": 825
+            "attack": 965,
+            "defense": 932,
+            "health": 2057,
+            "power": 1011
         },
         "lb2": {
-            "attack": 883,
-            "defense": 853,
-            "health": 1811,
-            "power": 926
+            "attack": 1104,
+            "defense": 1066,
+            "health": 2354,
+            "power": 1139
         },
         "cn_skill_info": [
             {
@@ -86573,10 +86573,10 @@ window.allHeroes =
         ],
         "heroId": "magic_nadezhda_costume_postmaster",
         "star": 5,
-        "power": 819,
-        "attack": 793,
-        "defense": 774,
-        "health": 1433,
+        "power": 1216,
+        "attack": 1245,
+        "defense": 1216,
+        "health": 2251,
         "effects": [
             "特殊技能在法力充能達 100% / 200% 時有不同效果：",
             "1 倍法力充能：",
@@ -86595,16 +86595,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1239,
         "lb1": {
-            "attack": 854,
-            "defense": 834,
-            "health": 1545,
-            "power": 873
+            "attack": 1341,
+            "defense": 1310,
+            "health": 2425,
+            "power": 1300
         },
         "lb2": {
-            "attack": 977,
-            "defense": 955,
-            "health": 1767,
-            "power": 981
+            "attack": 1535,
+            "defense": 1499,
+            "health": 2775,
+            "power": 1470
         },
         "cn_skill_info": [
             {
@@ -86817,10 +86817,10 @@ window.allHeroes =
         ],
         "heroId": "fire_god_natalya_costume_seamstress",
         "star": 5,
-        "power": 765,
-        "attack": 731,
-        "defense": 675,
-        "health": 1396,
+        "power": 974,
+        "attack": 936,
+        "defense": 851,
+        "health": 2025,
         "effects": [
             "目標在 4 回合內受到共計 1432 點燃燒傷害。此效果無法淨化。",
             "目標獲得 -50% 法力產出，持續 4 回合。此效果無法淨化。",
@@ -86834,16 +86834,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1242,
         "lb1": {
-            "attack": 788,
-            "defense": 728,
-            "health": 1505,
-            "power": 815
+            "attack": 1008,
+            "defense": 917,
+            "health": 2182,
+            "power": 1040
         },
         "lb2": {
-            "attack": 901,
-            "defense": 833,
-            "health": 1722,
-            "power": 914
+            "attack": 1154,
+            "defense": 1049,
+            "health": 2497,
+            "power": 1172
         },
         "cn_skill_info": [
             {
@@ -87389,10 +87389,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_oceanus_costume_volcano",
         "star": 5,
-        "power": 836,
-        "attack": 894,
-        "defense": 729,
-        "health": 1392,
+        "power": 1024,
+        "attack": 1117,
+        "defense": 911,
+        "health": 1810,
         "effects": [
             "對所有敵人造成 270% 傷害。",
             "所有盟友獲得 +125% 普通攻擊，持續 4 回合。除了可變更整體攻擊的效果，可另外啟動此效果。啟動此效果時，普通攻擊最多可提升 +180% 威力。",
@@ -87403,16 +87403,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1250,
         "lb1": {
-            "attack": 963,
-            "defense": 785,
-            "health": 1500,
-            "power": 891
+            "attack": 1204,
+            "defense": 982,
+            "health": 1950,
+            "power": 1094
         },
         "lb2": {
-            "attack": 1102,
-            "defense": 899,
-            "health": 1717,
-            "power": 1002
+            "attack": 1377,
+            "defense": 1123,
+            "health": 2232,
+            "power": 1233
         },
         "cn_skill_info": [
             {
@@ -87527,10 +87527,10 @@ window.allHeroes =
         ],
         "heroId": "s4_octros_costume_suitor",
         "star": 5,
-        "power": 812,
-        "attack": 815,
-        "defense": 799,
-        "health": 1275,
+        "power": 1027,
+        "attack": 1060,
+        "defense": 1039,
+        "health": 1721,
         "effects": [
             "對所有敵人造成 160% 傷害。",
             "面板上每擁有一個烈火護盾，傷害就會增加 35%，最多造成 440% 傷害。",
@@ -87544,16 +87544,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1252,
         "lb1": {
-            "attack": 879,
-            "defense": 861,
-            "health": 1374,
-            "power": 866
+            "attack": 1142,
+            "defense": 1119,
+            "health": 1855,
+            "power": 1097
         },
         "lb2": {
-            "attack": 1005,
-            "defense": 985,
-            "health": 1572,
-            "power": 972
+            "attack": 1307,
+            "defense": 1281,
+            "health": 2122,
+            "power": 1238
         },
         "cn_skill_info": [
             {
@@ -88114,10 +88114,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "fables_puss_in_boots_costume_highwaycat",
         "star": 5,
-        "power": 780,
-        "attack": 840,
-        "defense": 628,
-        "health": 1328,
+        "power": 978,
+        "attack": 1067,
+        "defense": 785,
+        "health": 1860,
         "effects": [
             "所有召喚者盟友為自己召喚一個小兵。",
             "召喚 3 個老鼠小兵，其可從施法者繼承 20% 生命與 20% 攻擊。小兵有 -16% 精準度。",
@@ -88129,16 +88129,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1260,
         "lb1": {
-            "attack": 905,
-            "defense": 677,
-            "health": 1431,
-            "power": 831
+            "attack": 1150,
+            "defense": 846,
+            "health": 2004,
+            "power": 1044
         },
         "lb2": {
-            "attack": 1036,
-            "defense": 774,
-            "health": 1638,
-            "power": 933
+            "attack": 1316,
+            "defense": 968,
+            "health": 2293,
+            "power": 1177
         },
         "cn_skill_info": [
             {
@@ -88256,10 +88256,10 @@ window.allHeroes =
         ],
         "heroId": "wonderland_queen_costume_benefactor",
         "star": 5,
-        "power": 768,
-        "attack": 589,
-        "defense": 784,
-        "health": 1555,
+        "power": 966,
+        "attack": 748,
+        "defense": 981,
+        "health": 2177,
         "effects": [
             "對目標及附近敵人造成 200% 傷害。",
             "召喚一個撲克小兵，其可從施法者繼承 25% 生命值與 40% 攻擊。",
@@ -88273,16 +88273,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1262,
         "lb1": {
-            "attack": 634,
-            "defense": 845,
-            "health": 1676,
-            "power": 818
+            "attack": 806,
+            "defense": 1057,
+            "health": 2346,
+            "power": 1031
         },
         "lb2": {
-            "attack": 726,
-            "defense": 967,
-            "health": 1917,
-            "power": 918
+            "attack": 922,
+            "defense": 1209,
+            "health": 2684,
+            "power": 1161
         },
         "cn_skill_info": [
             {
@@ -88594,10 +88594,10 @@ window.allHeroes =
         ],
         "heroId": "magic_ray_costume_spiky",
         "star": 5,
-        "power": 892,
-        "attack": 873,
-        "defense": 904,
-        "health": 1493,
+        "power": 1223,
+        "attack": 1249,
+        "defense": 1293,
+        "health": 2135,
         "effects": [
             "特殊技能在法力充能達 100% / 200% 時有不同效果：",
             "1 倍法力充能：",
@@ -88618,16 +88618,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1266,
         "lb1": {
-            "attack": 941,
-            "defense": 974,
-            "health": 1609,
-            "power": 952
+            "attack": 1346,
+            "defense": 1393,
+            "health": 2301,
+            "power": 1308
         },
         "lb2": {
-            "attack": 1076,
-            "defense": 1115,
-            "health": 1841,
-            "power": 1071
+            "attack": 1540,
+            "defense": 1594,
+            "health": 2633,
+            "power": 1478
         },
         "cn_skill_info": [
             {
@@ -88844,10 +88844,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tales2_regin_costume_omen",
         "star": 5,
-        "power": 1166,
-        "attack": 1194,
-        "defense": 1133,
-        "health": 2191,
+        "power": 1246,
+        "attack": 1278,
+        "defense": 1212,
+        "health": 2389,
         "effects": [
             "驅散目標和附近敵人的增益。",
             "使用火風暴打擊攻擊目標與附近敵人，造成最多 2220 點傷害。如果目標為自然元素角色，則造成額外 40% 傷害。此特殊技能必定命中其目標。",
@@ -88864,16 +88864,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1269,
         "lb1": {
-            "attack": 1287,
-            "defense": 1221,
-            "health": 2362,
-            "power": 1248
+            "attack": 1377,
+            "defense": 1306,
+            "health": 2574,
+            "power": 1332
         },
         "lb2": {
-            "attack": 1473,
-            "defense": 1397,
-            "health": 2702,
-            "power": 1409
+            "attack": 1576,
+            "defense": 1494,
+            "health": 2945,
+            "power": 1507
         },
         "cn_skill_info": [
             {
@@ -89919,10 +89919,10 @@ window.allHeroes =
         ],
         "heroId": "christmas_santa_costume_metal",
         "star": 5,
-        "power": 775,
-        "attack": 638,
-        "defense": 819,
-        "health": 1411,
+        "power": 1017,
+        "attack": 874,
+        "defense": 1123,
+        "health": 1947,
         "effects": [
             "對所有敵人造成 150% 傷害。",
             "為每個盟友召喚一個精靈小兵，其可從施法者繼承 10% 生命與 10% 攻擊。",
@@ -89936,16 +89936,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1283,
         "lb1": {
-            "attack": 688,
-            "defense": 883,
-            "health": 1520,
-            "power": 825
+            "attack": 942,
+            "defense": 1210,
+            "health": 2098,
+            "power": 1087
         },
         "lb2": {
-            "attack": 787,
-            "defense": 1010,
-            "health": 1739,
-            "power": 926
+            "attack": 1078,
+            "defense": 1384,
+            "health": 2401,
+            "power": 1225
         },
         "cn_skill_info": [
             {
@@ -90077,10 +90077,10 @@ window.allHeroes =
         ],
         "heroId": "slayer_saoirse_costume_knight",
         "star": 5,
-        "power": 811,
-        "attack": 655,
-        "defense": 877,
-        "health": 1512,
+        "power": 1213,
+        "attack": 1028,
+        "defense": 1377,
+        "health": 2449,
         "effects": [
             "對目標及附近敵人造成 335% 傷害。",
             "目標與附近敵人獲得 -44% 防禦，持續 3 回合。",
@@ -90095,16 +90095,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1285,
         "lb1": {
-            "attack": 705,
-            "defense": 945,
-            "health": 1629,
-            "power": 864
+            "attack": 1108,
+            "defense": 1484,
+            "health": 2639,
+            "power": 1297
         },
         "lb2": {
-            "attack": 807,
-            "defense": 1082,
-            "health": 1864,
-            "power": 971
+            "attack": 1268,
+            "defense": 1698,
+            "health": 3020,
+            "power": 1467
         },
         "cn_skill_info": [
             {
@@ -90371,10 +90371,10 @@ window.allHeroes =
         ],
         "heroId": "s5_sekhmet_costume_warden",
         "star": 5,
-        "power": 864,
-        "attack": 916,
-        "defense": 762,
-        "health": 1466,
+        "power": 1207,
+        "attack": 1329,
+        "defense": 1105,
+        "health": 2200,
         "effects": [
             "對目標造成 500% 傷害。",
             "為所有盟友治療 35% 的傷害。"
@@ -90390,16 +90390,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1289,
         "lb1": {
-            "attack": 987,
-            "defense": 821,
-            "health": 1580,
-            "power": 921
+            "attack": 1432,
+            "defense": 1191,
+            "health": 2370,
+            "power": 1291
         },
         "lb2": {
-            "attack": 1130,
-            "defense": 939,
-            "health": 1808,
-            "power": 1036
+            "attack": 1638,
+            "defense": 1362,
+            "health": 2712,
+            "power": 1459
         },
         "cn_skill_info": [
             {
@@ -90816,10 +90816,10 @@ window.allHeroes =
         ],
         "heroId": "kingdom_sun_quan_costume_fire_bat",
         "star": 5,
-        "power": 839,
-        "attack": 834,
-        "defense": 756,
-        "health": 1507,
+        "power": 1110,
+        "attack": 1126,
+        "defense": 1020,
+        "health": 2186,
         "effects": [
             "對目標及附近敵人造成 330% 傷害。",
             "為每個盟友召喚一個吳國戰士小兵，其可從施法者繼承 22% 生命值與 30% 攻擊。",
@@ -90835,16 +90835,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1295,
         "lb1": {
-            "attack": 899,
-            "defense": 814,
-            "health": 1625,
-            "power": 895
+            "attack": 1213,
+            "defense": 1099,
+            "health": 2356,
+            "power": 1187
         },
         "lb2": {
-            "attack": 1028,
-            "defense": 932,
-            "health": 1859,
-            "power": 1006
+            "attack": 1388,
+            "defense": 1258,
+            "health": 2695,
+            "power": 1340
         },
         "cn_skill_info": [
             {
@@ -91043,10 +91043,10 @@ window.allHeroes =
         ],
         "heroId": "s5_tetisheri_costume_molten",
         "star": 5,
-        "power": 864,
-        "attack": 865,
-        "defense": 776,
-        "health": 1567,
+        "power": 1208,
+        "attack": 1254,
+        "defense": 1126,
+        "health": 2351,
         "effects": [
             "對目標造成 530% 傷害，並對附近敵人造成輕微傷害。",
             "目標獲得 -44% 防禦，持續 3 回合。",
@@ -91063,16 +91063,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1298,
         "lb1": {
-            "attack": 932,
-            "defense": 836,
-            "health": 1689,
-            "power": 921
+            "attack": 1351,
+            "defense": 1213,
+            "health": 2534,
+            "power": 1292
         },
         "lb2": {
-            "attack": 1066,
-            "defense": 957,
-            "health": 1932,
-            "power": 1036
+            "attack": 1546,
+            "defense": 1388,
+            "health": 2899,
+            "power": 1460
         },
         "cn_skill_info": [
             {
@@ -91329,10 +91329,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_tyr_costume_savage",
         "star": 5,
-        "power": 790,
-        "attack": 772,
-        "defense": 756,
-        "health": 1312,
+        "power": 989,
+        "attack": 988,
+        "defense": 967,
+        "health": 1771,
         "effects": [
             "對目標及附近敵人造成 260% 傷害。",
             "攻擊會無視防禦增益。（包含反擊。）",
@@ -91344,16 +91344,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1302,
         "lb1": {
-            "attack": 832,
-            "defense": 814,
-            "health": 1414,
-            "power": 842
+            "attack": 1065,
+            "defense": 1042,
+            "health": 1909,
+            "power": 1056
         },
         "lb2": {
-            "attack": 952,
-            "defense": 932,
-            "health": 1617,
-            "power": 945
+            "attack": 1219,
+            "defense": 1193,
+            "health": 2184,
+            "power": 1191
         },
         "cn_skill_info": [
             {
@@ -91484,10 +91484,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "kalevala_ukkonen_costume_ukkonen_infernal",
         "star": 5,
-        "power": 917,
-        "attack": 865,
-        "defense": 916,
-        "health": 1668,
+        "power": 1189,
+        "attack": 1159,
+        "defense": 1228,
+        "health": 2252,
         "effects": [
             "對所有敵人造成 260% 傷害。",
             "所有敵人獲得 -30% 攻擊力，持續 3 回合。對冰雪系角色，此狀態效果變為無法淨化且持續時間延長 2 回合。",
@@ -91501,16 +91501,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1304,
         "lb1": {
-            "attack": 932,
-            "defense": 987,
-            "health": 1798,
-            "power": 979
+            "attack": 1249,
+            "defense": 1323,
+            "health": 2427,
+            "power": 1272
         },
         "lb2": {
-            "attack": 1066,
-            "defense": 1130,
-            "health": 2057,
-            "power": 1102
+            "attack": 1429,
+            "defense": 1514,
+            "health": 2777,
+            "power": 1437
         },
         "cn_skill_info": [
             {
@@ -91631,10 +91631,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "halloween_vanda_costume_mafia",
         "star": 5,
-        "power": 795,
-        "attack": 768,
-        "defense": 741,
-        "health": 1386,
+        "power": 1140,
+        "attack": 1152,
+        "defense": 1112,
+        "health": 2148,
         "effects": [
             "對所有敵人造成 115% 傷害。",
             "施法者偷取所有敵人所獲治療的 51%，持續 3 回合。",
@@ -91647,16 +91647,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1306,
         "lb1": {
-            "attack": 828,
-            "defense": 799,
-            "health": 1494,
-            "power": 847
+            "attack": 1242,
+            "defense": 1198,
+            "health": 2315,
+            "power": 1219
         },
         "lb2": {
-            "attack": 947,
-            "defense": 914,
-            "health": 1709,
-            "power": 951
+            "attack": 1421,
+            "defense": 1371,
+            "health": 2649,
+            "power": 1377
         },
         "cn_skill_info": [
             {
@@ -91938,10 +91938,10 @@ window.allHeroes =
         ],
         "heroId": "s4_xenda_costume_flame",
         "star": 5,
-        "power": 853,
-        "attack": 826,
-        "defense": 813,
-        "health": 1509,
+        "power": 1081,
+        "attack": 1073,
+        "defense": 1057,
+        "health": 2038,
         "effects": [
             "對所有敵人造成 230% 傷害。",
             "所有敵人在 4 回合內受到共計 472 點燃燒傷害。施法者能吸收所造成之燃燒傷害的 20% 作為生命值。",
@@ -91955,16 +91955,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1310,
         "lb1": {
-            "attack": 890,
-            "defense": 876,
-            "health": 1627,
-            "power": 909
+            "attack": 1157,
+            "defense": 1139,
+            "health": 2196,
+            "power": 1156
         },
         "lb2": {
-            "attack": 1018,
-            "defense": 1003,
-            "health": 1861,
-            "power": 1022
+            "attack": 1324,
+            "defense": 1304,
+            "health": 2513,
+            "power": 1305
         },
         "cn_skill_info": [
             {
@@ -92582,10 +92582,10 @@ window.allHeroes =
         ],
         "heroId": "s4_zenobia_costume_floral",
         "star": 5,
-        "power": 809,
-        "attack": 836,
-        "defense": 741,
-        "health": 1320,
+        "power": 1024,
+        "attack": 1087,
+        "defense": 964,
+        "health": 1782,
         "effects": [
             "對位於敵方陣型邊緣的敵人造成 340% 傷害。如果只有一個敵人，傷害加倍。",
             "改變面板上烈火護盾的力量。攻擊英雄施放該特技時，護盾受到 +64% 攻擊力的強化。防禦英雄施放該特技時，護盾受到 -57% 攻擊力的弱化。"
@@ -92598,16 +92598,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1319,
         "lb1": {
-            "attack": 901,
-            "defense": 799,
-            "health": 1423,
-            "power": 863
+            "attack": 1171,
+            "defense": 1038,
+            "health": 1921,
+            "power": 1094
         },
         "lb2": {
-            "attack": 1031,
-            "defense": 914,
-            "health": 1628,
-            "power": 969
+            "attack": 1340,
+            "defense": 1188,
+            "health": 2197,
+            "power": 1234
         },
         "cn_skill_info": [
             {
@@ -92873,10 +92873,10 @@ window.allHeroes =
         ],
         "heroId": "fire_god_zimkitha_costume_adventurer",
         "star": 5,
-        "power": 769,
-        "attack": 710,
-        "defense": 696,
-        "health": 1435,
+        "power": 980,
+        "attack": 909,
+        "defense": 877,
+        "health": 2081,
         "effects": [
             "驅散所有敵人的增益。",
             "對所有敵人造成 240% 傷害。",
@@ -92890,16 +92890,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1323,
         "lb1": {
-            "attack": 765,
-            "defense": 750,
-            "health": 1547,
-            "power": 819
+            "attack": 980,
+            "defense": 945,
+            "health": 2243,
+            "power": 1046
         },
         "lb2": {
-            "attack": 876,
-            "defense": 858,
-            "health": 1770,
-            "power": 919
+            "attack": 1121,
+            "defense": 1081,
+            "health": 2567,
+            "power": 1179
         },
         "cn_skill_info": [
             {
@@ -93355,10 +93355,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_brawler_costume_egypt",
         "star": 3,
-        "power": 441,
-        "attack": 504,
-        "defense": 403,
-        "health": 620,
+        "power": 469,
+        "attack": 539,
+        "defense": 431,
+        "health": 682,
         "effects": [
             "對目標造成 280% 傷害。",
             "目標獲得 -40% 精準度，持續 4 回合。失手率也會套用在攻擊型特殊技能上。"
@@ -93368,16 +93368,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1332,
         "lb1": {
-            "attack": 571,
-            "defense": 457,
-            "health": 703,
-            "power": 491
+            "attack": 611,
+            "defense": 489,
+            "health": 773,
+            "power": 523
         },
         "lb2": {
-            "attack": 705,
-            "defense": 564,
-            "health": 868,
-            "power": 591
+            "attack": 755,
+            "defense": 604,
+            "health": 955,
+            "power": 632
         },
         "cn_skill_info": [
             {
@@ -93418,10 +93418,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_brawler_costume_cute",
         "star": 3,
-        "power": 441,
-        "attack": 477,
-        "defense": 394,
-        "health": 709,
+        "power": 502,
+        "attack": 549,
+        "defense": 453,
+        "health": 850,
         "effects": [
             "對目標造成 305% 傷害。",
             "目標獲得 -30% 精準度，持續 2 回合。",
@@ -93434,16 +93434,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1333,
         "lb1": {
-            "attack": 541,
-            "defense": 447,
-            "health": 803,
-            "power": 491
+            "attack": 623,
+            "defense": 514,
+            "health": 964,
+            "power": 561
         },
         "lb2": {
-            "attack": 669,
-            "defense": 552,
-            "health": 993,
-            "power": 592
+            "attack": 769,
+            "defense": 635,
+            "health": 1191,
+            "power": 678
         },
         "cn_skill_info": [
             {
@@ -93490,10 +93490,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_brawler_costume_glass",
         "star": 3,
-        "power": 442,
-        "attack": 481,
-        "defense": 391,
-        "health": 712,
+        "power": 515,
+        "attack": 568,
+        "defense": 461,
+        "health": 876,
         "effects": [
             "對目標造成 315% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -93506,16 +93506,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 1334,
         "lb1": {
-            "attack": 545,
-            "defense": 443,
-            "health": 807,
-            "power": 492
+            "attack": 643,
+            "defense": 523,
+            "health": 993,
+            "power": 575
         },
         "lb2": {
-            "attack": 674,
-            "defense": 547,
-            "health": 997,
-            "power": 593
+            "attack": 795,
+            "defense": 646,
+            "health": 1227,
+            "power": 695
         },
         "cn_skill_info": [
             {
@@ -93852,10 +93852,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_guard_costume_soldier",
         "star": 3,
-        "power": 440,
-        "attack": 502,
-        "defense": 403,
-        "health": 622,
+        "power": 469,
+        "attack": 537,
+        "defense": 431,
+        "health": 684,
         "effects": [
             "對目標造成 200% 傷害。",
             "對一名隨機的不同敵人造成 230% 傷害。如果目標為暗黑系，再造成額外傷害。"
@@ -93865,16 +93865,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1340,
         "lb1": {
-            "attack": 569,
-            "defense": 457,
-            "health": 705,
-            "power": 490
+            "attack": 609,
+            "defense": 489,
+            "health": 775,
+            "power": 523
         },
         "lb2": {
-            "attack": 703,
-            "defense": 564,
-            "health": 871,
-            "power": 590
+            "attack": 752,
+            "defense": 604,
+            "health": 958,
+            "power": 631
         },
         "cn_skill_info": [
             {
@@ -93914,10 +93914,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_guard_costume_cute",
         "star": 3,
-        "power": 442,
-        "attack": 467,
-        "defense": 446,
-        "health": 634,
+        "power": 503,
+        "attack": 537,
+        "defense": 513,
+        "health": 761,
         "effects": [
             "對目標造成 240% 傷害，並對附近敵人造成輕微傷害。",
             "對暗黑系造成額外傷害。"
@@ -93929,16 +93929,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1341,
         "lb1": {
-            "attack": 529,
-            "defense": 506,
-            "health": 719,
-            "power": 492
+            "attack": 609,
+            "defense": 582,
+            "health": 862,
+            "power": 561
         },
         "lb2": {
-            "attack": 654,
-            "defense": 625,
-            "health": 888,
-            "power": 593
+            "attack": 752,
+            "defense": 719,
+            "health": 1066,
+            "power": 678
         },
         "cn_skill_info": [
             {
@@ -93978,10 +93978,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_guard_costume_glass",
         "star": 3,
-        "power": 443,
-        "attack": 476,
-        "defense": 441,
-        "health": 630,
+        "power": 515,
+        "attack": 561,
+        "defense": 520,
+        "health": 775,
         "effects": [
             "對目標造成 250% 傷害，並對附近敵人造成輕微傷害。",
             "攻擊會無視防禦增益。（包含反擊）"
@@ -93993,16 +93993,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 1342,
         "lb1": {
-            "attack": 539,
-            "defense": 500,
-            "health": 715,
-            "power": 493
+            "attack": 636,
+            "defense": 590,
+            "health": 879,
+            "power": 575
         },
         "lb2": {
-            "attack": 666,
-            "defense": 618,
-            "health": 883,
-            "power": 594
+            "attack": 786,
+            "defense": 729,
+            "health": 1086,
+            "power": 696
         },
         "cn_skill_info": [
             {
@@ -94263,10 +94263,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "musketeer_felton_costume_pirate",
         "star": 3,
-        "power": 487,
-        "attack": 543,
-        "defense": 509,
-        "health": 644,
+        "power": 551,
+        "attack": 625,
+        "defense": 585,
+        "health": 741,
         "effects": [
             "對目標造成 375% 傷害。",
             "如果目標有生命加成，會造成 150 額外傷害。",
@@ -94281,16 +94281,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1346,
         "lb1": {
-            "attack": 616,
-            "defense": 577,
-            "health": 730,
-            "power": 544
+            "attack": 709,
+            "defense": 663,
+            "health": 840,
+            "power": 616
         },
         "lb2": {
-            "attack": 761,
-            "defense": 713,
-            "health": 903,
-            "power": 657
+            "attack": 876,
+            "defense": 820,
+            "health": 1038,
+            "power": 746
         },
         "cn_skill_info": [
             {
@@ -94393,10 +94393,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_panda_berserker_costume_farmer",
         "star": 3,
-        "power": 444,
-        "attack": 495,
-        "defense": 354,
-        "health": 768,
+        "power": 474,
+        "attack": 530,
+        "defense": 379,
+        "health": 845,
         "effects": [
             "對目標造成 220% 傷害。",
             "使目標的法力減少 40%。"
@@ -94406,16 +94406,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1348,
         "lb1": {
-            "attack": 561,
-            "defense": 401,
-            "health": 870,
-            "power": 495
+            "attack": 600,
+            "defense": 430,
+            "health": 957,
+            "power": 529
         },
         "lb2": {
-            "attack": 693,
-            "defense": 496,
-            "health": 1075,
-            "power": 596
+            "attack": 742,
+            "defense": 531,
+            "health": 1183,
+            "power": 639
         },
         "cn_skill_info": [
             {
@@ -94456,10 +94456,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_panda_berserker_costume_cute",
         "star": 3,
-        "power": 445,
-        "attack": 469,
-        "defense": 366,
-        "health": 811,
+        "power": 507,
+        "attack": 539,
+        "defense": 421,
+        "health": 973,
         "effects": [
             "對目標造成 300% 傷害。",
             "使目標的法力減少 20%。",
@@ -94472,16 +94472,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1349,
         "lb1": {
-            "attack": 531,
-            "defense": 415,
-            "health": 919,
-            "power": 495
+            "attack": 611,
+            "defense": 478,
+            "health": 1103,
+            "power": 567
         },
         "lb2": {
-            "attack": 657,
-            "defense": 513,
-            "health": 1136,
-            "power": 597
+            "attack": 755,
+            "defense": 590,
+            "health": 1364,
+            "power": 685
         },
         "cn_skill_info": [
             {
@@ -94524,10 +94524,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_panda_berserker_costume_glass",
         "star": 3,
-        "power": 446,
-        "attack": 472,
-        "defense": 364,
-        "health": 816,
+        "power": 520,
+        "attack": 557,
+        "defense": 430,
+        "health": 1004,
         "effects": [
             "對目標造成 310% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -94540,16 +94540,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 1350,
         "lb1": {
-            "attack": 535,
-            "defense": 413,
-            "health": 925,
-            "power": 497
+            "attack": 632,
+            "defense": 488,
+            "health": 1138,
+            "power": 582
         },
         "lb2": {
-            "attack": 662,
-            "defense": 511,
-            "health": 1143,
-            "power": 599
+            "attack": 781,
+            "defense": 603,
+            "health": 1407,
+            "power": 704
         },
         "cn_skill_info": [
             {
@@ -94801,10 +94801,10 @@ window.allHeroes =
         ],
         "heroId": "tales1_jaco_costume_alchemist",
         "star": 3,
-        "power": 487,
-        "attack": 441,
-        "defense": 552,
-        "health": 809,
+        "power": 498,
+        "attack": 450,
+        "defense": 563,
+        "health": 842,
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
@@ -94824,16 +94824,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1354,
         "lb1": {
-            "attack": 500,
-            "defense": 626,
-            "health": 918,
-            "power": 543
+            "attack": 510,
+            "defense": 638,
+            "health": 954,
+            "power": 555
         },
         "lb2": {
-            "attack": 618,
-            "defense": 774,
-            "health": 1134,
-            "power": 656
+            "attack": 630,
+            "defense": 789,
+            "health": 1179,
+            "power": 671
         },
         "cn_skill_info": [
             {
@@ -94997,10 +94997,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_mage_costume_mender",
         "star": 3,
-        "power": 443,
-        "attack": 403,
-        "defense": 474,
-        "health": 750,
+        "power": 473,
+        "attack": 431,
+        "defense": 507,
+        "health": 825,
         "effects": [
             "所有盟友得到靈魂連結，持續 5 回合。靈魂連結的盟友會分享承受的傷害。",
             "所有盟友獲得 +50% 攻擊力，持續 5 回合。"
@@ -95010,16 +95010,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1357,
         "lb1": {
-            "attack": 457,
-            "defense": 537,
-            "health": 851,
-            "power": 494
+            "attack": 489,
+            "defense": 575,
+            "health": 936,
+            "power": 528
         },
         "lb2": {
-            "attack": 564,
-            "defense": 664,
-            "health": 1051,
-            "power": 595
+            "attack": 604,
+            "defense": 710,
+            "health": 1156,
+            "power": 637
         },
         "cn_skill_info": [
             {
@@ -95055,10 +95055,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_mage_costume_cute",
         "star": 3,
-        "power": 444,
-        "attack": 427,
-        "defense": 457,
-        "health": 731,
+        "power": 506,
+        "attack": 491,
+        "defense": 525,
+        "health": 878,
         "effects": [
             "所有盟友得到靈魂連結，持續 5 回合。靈魂連結的盟友會分享承受的傷害。對所有神聖系角色，此狀態效果變為无法驅散且持續時間延長 2 回合。",
             "所有盟友獲得 56% 防禦，持續 5 回合。對所有神聖系角色，此狀態效果變為无法驅散且持續時間延長 2 回合。"
@@ -95070,16 +95070,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1358,
         "lb1": {
-            "attack": 484,
-            "defense": 518,
-            "health": 829,
-            "power": 495
+            "attack": 557,
+            "defense": 595,
+            "health": 995,
+            "power": 565
         },
         "lb2": {
-            "attack": 598,
-            "defense": 640,
-            "health": 1024,
-            "power": 596
+            "attack": 688,
+            "defense": 736,
+            "health": 1229,
+            "power": 683
         },
         "cn_skill_info": [
             {
@@ -95118,10 +95118,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_mage_costume_glass",
         "star": 3,
-        "power": 445,
-        "attack": 415,
-        "defense": 469,
-        "health": 740,
+        "power": 518,
+        "attack": 490,
+        "defense": 553,
+        "health": 910,
         "effects": [
             "所有盟友得到靈魂連結，持續 5 回合。靈魂連結的盟友會分享承受的傷害。",
             "所有盟友獲得 +59% 防禦，持續 5 回合。",
@@ -95134,16 +95134,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 1359,
         "lb1": {
-            "attack": 470,
-            "defense": 531,
-            "health": 839,
-            "power": 495
+            "attack": 555,
+            "defense": 627,
+            "health": 1032,
+            "power": 579
         },
         "lb2": {
-            "attack": 581,
-            "defense": 657,
-            "health": 1036,
-            "power": 597
+            "attack": 686,
+            "defense": 775,
+            "health": 1275,
+            "power": 700
         },
         "cn_skill_info": [
             {
@@ -95306,10 +95306,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_kvasir_costume_captain",
         "star": 3,
-        "power": 461,
-        "attack": 417,
-        "defense": 431,
-        "health": 931,
+        "power": 477,
+        "attack": 429,
+        "defense": 443,
+        "health": 987,
         "effects": [
             "為每個盟友召喚一個蜜蜂小兵。蜜蜂小兵繼承施法者 18% 生命與 15% 攻擊。",
             "蜜蜂小兵的每一次攻擊都會對被命中的目標施加下列的狀態異常：",
@@ -95321,16 +95321,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1362,
         "lb1": {
-            "attack": 472,
-            "defense": 488,
-            "health": 1055,
-            "power": 514
+            "attack": 486,
+            "defense": 503,
+            "health": 1119,
+            "power": 532
         },
         "lb2": {
-            "attack": 584,
-            "defense": 603,
-            "health": 1304,
-            "power": 620
+            "attack": 601,
+            "defense": 621,
+            "health": 1382,
+            "power": 642
         },
         "cn_skill_info": [
             {
@@ -95433,10 +95433,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_merwoman_costume_emissary",
         "star": 3,
-        "power": 450,
-        "attack": 519,
-        "defense": 394,
-        "health": 669,
+        "power": 465,
+        "attack": 535,
+        "defense": 406,
+        "health": 709,
         "effects": [
             "對所有敵人造成 120% 傷害。",
             "所有敵人獲得 -25% 精準度，持續 3 回合。失手率也會套用在攻擊型特殊技能上。"
@@ -95446,16 +95446,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1364,
         "lb1": {
-            "attack": 589,
-            "defense": 447,
-            "health": 758,
-            "power": 502
+            "attack": 606,
+            "defense": 460,
+            "health": 803,
+            "power": 518
         },
         "lb2": {
-            "attack": 727,
-            "defense": 552,
-            "health": 937,
-            "power": 605
+            "attack": 749,
+            "defense": 569,
+            "health": 993,
+            "power": 625
         },
         "cn_skill_info": [
             {
@@ -95674,10 +95674,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s4_poppy_costume_lodger",
         "star": 3,
-        "power": 478,
-        "attack": 500,
-        "defense": 451,
-        "health": 801,
+        "power": 488,
+        "attack": 510,
+        "defense": 460,
+        "health": 833,
         "effects": [
             "對目標造成 280% 傷害。",
             "有 55% 的機率可額外攻擊隨機敵人最多 3 次。額外攻擊造成輕微傷害。"
@@ -95689,16 +95689,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1368,
         "lb1": {
-            "attack": 567,
-            "defense": 512,
-            "health": 908,
-            "power": 533
+            "attack": 578,
+            "defense": 522,
+            "health": 944,
+            "power": 545
         },
         "lb2": {
-            "attack": 700,
-            "defense": 632,
-            "health": 1122,
-            "power": 644
+            "attack": 715,
+            "defense": 645,
+            "health": 1166,
+            "power": 659
         },
         "cn_skill_info": [
             {
@@ -95803,10 +95803,10 @@ window.allHeroes =
         ],
         "heroId": "s5_rekhetre_costume_artist",
         "star": 3,
-        "power": 484,
-        "attack": 483,
-        "defense": 486,
-        "health": 816,
+        "power": 494,
+        "attack": 492,
+        "defense": 496,
+        "health": 849,
         "effects": [
             "所有盟友在 3 個回合內恢復 540 點加成生命值。加成生命值能夠超過最大生命值。",
             "施法者獲得對暗黑系 +74% 的防禦，並在每次被擊中後增加 2%，持續 3 回合。"
@@ -95822,16 +95822,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1370,
         "lb1": {
-            "attack": 547,
-            "defense": 551,
-            "health": 925,
-            "power": 540
+            "attack": 558,
+            "defense": 562,
+            "health": 962,
+            "power": 552
         },
         "lb2": {
-            "attack": 676,
-            "defense": 681,
-            "health": 1143,
-            "power": 652
+            "attack": 690,
+            "defense": 695,
+            "health": 1189,
+            "power": 667
         },
         "cn_skill_info": [
             {
@@ -96548,10 +96548,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_falconer_costume_dodo",
         "star": 4,
-        "power": 642,
-        "attack": 641,
-        "defense": 648,
-        "health": 1081,
+        "power": 687,
+        "attack": 686,
+        "defense": 693,
+        "health": 1200,
         "effects": [
             "對目標造成 275% 傷害。",
             "施法者在 4 個回合內竊取目標產出的法力，一開始僅竊取少量法力，竊取量會隨每個回合逐漸增加，最後一回合會竊取產出的所有法力。此效果無法淨化，但在施法者被擊敗後會被移除。"
@@ -96561,16 +96561,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1381,
         "lb1": {
-            "attack": 697,
-            "defense": 704,
-            "health": 1175,
-            "power": 690
+            "attack": 746,
+            "defense": 753,
+            "health": 1304,
+            "power": 739
         },
         "lb2": {
-            "attack": 808,
-            "defense": 816,
-            "health": 1362,
-            "power": 786
+            "attack": 865,
+            "defense": 873,
+            "health": 1512,
+            "power": 843
         },
         "cn_skill_info": [
             {
@@ -96608,10 +96608,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_falconer_costume_cub",
         "star": 4,
-        "power": 642,
-        "attack": 675,
-        "defense": 614,
-        "health": 1066,
+        "power": 733,
+        "attack": 777,
+        "defense": 706,
+        "health": 1280,
         "effects": [
             "對目標及附近敵人造成 275% 傷害。",
             "目標與附近敵人獲得 -24% 法力產出，持續 3 回合。"
@@ -96621,16 +96621,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1382,
         "lb1": {
-            "attack": 734,
-            "defense": 667,
-            "health": 1159,
-            "power": 690
+            "attack": 844,
+            "defense": 767,
+            "health": 1390,
+            "power": 789
         },
         "lb2": {
-            "attack": 851,
-            "defense": 773,
-            "health": 1343,
-            "power": 787
+            "attack": 978,
+            "defense": 889,
+            "health": 1612,
+            "power": 901
         },
         "cn_skill_info": [
             {
@@ -96671,10 +96671,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_falconer_costume_cute",
         "star": 4,
-        "power": 643,
-        "attack": 690,
-        "defense": 601,
-        "health": 1062,
+        "power": 746,
+        "attack": 808,
+        "defense": 703,
+        "health": 1296,
         "effects": [
             "對目標造成 320% 傷害。",
             "使目標的法力減少 -20%。",
@@ -96687,16 +96687,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 1383,
         "lb1": {
-            "attack": 750,
-            "defense": 653,
-            "health": 1154,
-            "power": 691
+            "attack": 877,
+            "defense": 764,
+            "health": 1408,
+            "power": 802
         },
         "lb2": {
-            "attack": 870,
-            "defense": 757,
-            "health": 1338,
-            "power": 788
+            "attack": 1017,
+            "defense": 886,
+            "health": 1632,
+            "power": 917
         },
         "cn_skill_info": [
             {
@@ -96739,10 +96739,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_falconer_costume_glass",
         "star": 4,
-        "power": 644,
-        "attack": 707,
-        "defense": 584,
-        "health": 1058,
+        "power": 757,
+        "attack": 842,
+        "defense": 695,
+        "health": 1312,
         "effects": [
             "對目標造成 325% 傷害。",
             "使目標的法力減少 -23%。",
@@ -96755,16 +96755,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 1384,
         "lb1": {
-            "attack": 768,
-            "defense": 634,
-            "health": 1149,
-            "power": 692
+            "attack": 914,
+            "defense": 755,
+            "health": 1425,
+            "power": 815
         },
         "lb2": {
-            "attack": 891,
-            "defense": 736,
-            "health": 1333,
-            "power": 789
+            "attack": 1060,
+            "defense": 876,
+            "health": 1653,
+            "power": 932
         },
         "cn_skill_info": [
             {
@@ -96954,10 +96954,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_tanuki_raccoon_costume_merchant",
         "star": 4,
-        "power": 652,
-        "attack": 592,
-        "defense": 648,
-        "health": 1275,
+        "power": 674,
+        "attack": 610,
+        "defense": 667,
+        "health": 1351,
         "effects": [
             "售賣垃圾即可獲得特殊效果：",
             "鈍劍：",
@@ -96975,16 +96975,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1387,
         "lb1": {
-            "attack": 644,
-            "defense": 704,
-            "health": 1385,
-            "power": 701
+            "attack": 663,
+            "defense": 725,
+            "health": 1468,
+            "power": 725
         },
         "lb2": {
-            "attack": 746,
-            "defense": 816,
-            "health": 1606,
-            "power": 799
+            "attack": 769,
+            "defense": 840,
+            "health": 1702,
+            "power": 827
         },
         "cn_skill_info": [
             {
@@ -97195,10 +97195,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tales2_fjalar_costume_undead",
         "star": 4,
-        "power": 707,
-        "attack": 722,
-        "defense": 690,
-        "health": 1264,
+        "power": 782,
+        "attack": 809,
+        "defense": 773,
+        "health": 1416,
         "effects": [
             "傷害避開目標的小兵。",
             "使用火風暴打擊攻擊目標，造成最多 1180 點傷害。如果目標為自然元素角色，則造成額外 30% 傷害。此特殊技能必定命中其目標。",
@@ -97215,16 +97215,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1390,
         "lb1": {
-            "attack": 785,
-            "defense": 750,
-            "health": 1373,
-            "power": 761
+            "attack": 879,
+            "defense": 840,
+            "health": 1538,
+            "power": 843
         },
         "lb2": {
-            "attack": 910,
-            "defense": 870,
-            "health": 1592,
-            "power": 869
+            "attack": 1019,
+            "defense": 974,
+            "health": 1783,
+            "power": 963
         },
         "cn_skill_info": [
             {
@@ -97470,10 +97470,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s4_griffin_costume_priest",
         "star": 4,
-        "power": 678,
-        "attack": 743,
-        "defense": 656,
-        "health": 1068,
+        "power": 693,
+        "attack": 758,
+        "defense": 669,
+        "health": 1111,
         "effects": [
             "對目標造成 320% 傷害。",
             "施法者和附近盟友攻擊時無視防禦增益，持續 2 回合。（包含反擊）"
@@ -97485,16 +97485,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1394,
         "lb1": {
-            "attack": 808,
-            "defense": 713,
-            "health": 1161,
-            "power": 729
+            "attack": 824,
+            "defense": 727,
+            "health": 1207,
+            "power": 745
         },
         "lb2": {
-            "attack": 936,
-            "defense": 827,
-            "health": 1346,
-            "power": 832
+            "attack": 955,
+            "defense": 843,
+            "health": 1400,
+            "power": 851
         },
         "cn_skill_info": [
             {
@@ -97672,10 +97672,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "guardian_jackal_assassin_costume_bones",
         "star": 4,
-        "power": 645,
-        "attack": 643,
-        "defense": 635,
-        "health": 1124,
+        "power": 681,
+        "attack": 676,
+        "defense": 667,
+        "health": 1236,
         "effects": [
             "對目標造成 280% 傷害。",
             "施法者和附近盟友獲得對暗黑系 +94% 的防禦，持續 3 回合。"
@@ -97685,16 +97685,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1397,
         "lb1": {
-            "attack": 699,
-            "defense": 690,
-            "health": 1221,
-            "power": 693
+            "attack": 734,
+            "defense": 724,
+            "health": 1343,
+            "power": 732
         },
         "lb2": {
-            "attack": 811,
-            "defense": 800,
-            "health": 1416,
-            "power": 791
+            "attack": 851,
+            "defense": 840,
+            "health": 1557,
+            "power": 836
         },
         "cn_skill_info": [
             {
@@ -97798,10 +97798,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_gullinbursti_costume_toxic",
         "star": 4,
-        "power": 662,
-        "attack": 595,
-        "defense": 618,
-        "health": 1402,
+        "power": 685,
+        "attack": 612,
+        "defense": 636,
+        "health": 1486,
         "effects": [
             "所有盟友在 4 個回合內恢復 480 點加成生命值。加成生命值能夠超過最大生命值。",
             "施法者獲得 +35% 攻擊力，自己或其盟友每次被擊中後額外增加 15% 攻擊力，持續 4 回合。該效果結束時，所有敵人受到 236 點傷害。在此期間，施法者或其盟友所受每次攻擊可使施法者造成的傷害提高 15 點，最高達到 416 點傷害。"
@@ -97811,16 +97811,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1399,
         "lb1": {
-            "attack": 646,
-            "defense": 671,
-            "health": 1523,
-            "power": 712
+            "attack": 665,
+            "defense": 692,
+            "health": 1615,
+            "power": 737
         },
         "lb2": {
-            "attack": 749,
-            "defense": 779,
-            "health": 1766,
-            "power": 812
+            "attack": 772,
+            "defense": 802,
+            "health": 1872,
+            "power": 841
         },
         "cn_skill_info": [
             {
@@ -97995,10 +97995,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_panda_warrior_costume_armor",
         "star": 4,
-        "power": 638,
-        "attack": 554,
-        "defense": 709,
-        "health": 1153,
+        "power": 684,
+        "attack": 593,
+        "defense": 759,
+        "health": 1280,
         "effects": [
             "對所有敵人造成 160% 傷害。",
             "所有敵人獲得 -30% 精準度，持續 4 回合。失手率也會套用在攻擊型特殊技能上。",
@@ -98009,16 +98009,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1402,
         "lb1": {
-            "attack": 602,
-            "defense": 771,
-            "health": 1253,
-            "power": 687
+            "attack": 644,
+            "defense": 825,
+            "health": 1391,
+            "power": 736
         },
         "lb2": {
-            "attack": 698,
-            "defense": 894,
-            "health": 1453,
-            "power": 783
+            "attack": 747,
+            "defense": 956,
+            "health": 1613,
+            "power": 839
         },
         "cn_skill_info": [
             {
@@ -98059,10 +98059,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_panda_warrior_costume_dueller",
         "star": 4,
-        "power": 638,
-        "attack": 573,
-        "defense": 694,
-        "health": 1134,
+        "power": 729,
+        "attack": 659,
+        "defense": 799,
+        "health": 1361,
         "effects": [
             "對所有敵人造成 200% 傷害。",
             "所有敵人獲得 -30% 精準度，持續 4 回合。失手率也會套用在攻擊型特殊技能上。",
@@ -98073,16 +98073,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1403,
         "lb1": {
-            "attack": 623,
-            "defense": 755,
-            "health": 1233,
-            "power": 687
+            "attack": 716,
+            "defense": 868,
+            "health": 1479,
+            "power": 785
         },
         "lb2": {
-            "attack": 722,
-            "defense": 875,
-            "health": 1429,
-            "power": 782
+            "attack": 831,
+            "defense": 1006,
+            "health": 1715,
+            "power": 897
         },
         "cn_skill_info": [
             {
@@ -98124,10 +98124,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_panda_warrior_costume_cute",
         "star": 4,
-        "power": 639,
-        "attack": 637,
-        "defense": 614,
-        "health": 1143,
+        "power": 741,
+        "attack": 745,
+        "defense": 718,
+        "health": 1394,
         "effects": [
             "對所有敵人造成 240% 傷害。",
             "所有敵人獲得 -34% 精準度，持續 4 回合。",
@@ -98140,16 +98140,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 1404,
         "lb1": {
-            "attack": 692,
-            "defense": 667,
-            "health": 1242,
-            "power": 687
+            "attack": 810,
+            "defense": 780,
+            "health": 1515,
+            "power": 799
         },
         "lb2": {
-            "attack": 803,
-            "defense": 773,
-            "health": 1440,
-            "power": 784
+            "attack": 939,
+            "defense": 905,
+            "health": 1757,
+            "power": 913
         },
         "cn_skill_info": [
             {
@@ -98196,10 +98196,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_panda_warrior_costume_glass",
         "star": 4,
-        "power": 640,
-        "attack": 684,
-        "defense": 573,
-        "health": 1115,
+        "power": 754,
+        "attack": 814,
+        "defense": 682,
+        "health": 1383,
         "effects": [
             "對所有敵人造成 245% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -98212,16 +98212,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 1405,
         "lb1": {
-            "attack": 743,
-            "defense": 623,
-            "health": 1212,
-            "power": 689
+            "attack": 884,
+            "defense": 741,
+            "health": 1503,
+            "power": 812
         },
         "lb2": {
-            "attack": 861,
-            "defense": 722,
-            "health": 1405,
-            "power": 785
+            "attack": 1025,
+            "defense": 860,
+            "health": 1742,
+            "power": 928
         },
         "cn_skill_info": [
             {
@@ -98381,10 +98381,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_templar_costume_kimono",
         "star": 4,
-        "power": 640,
-        "attack": 629,
-        "defense": 658,
-        "health": 1081,
+        "power": 685,
+        "attack": 673,
+        "defense": 704,
+        "health": 1200,
         "effects": [
             "對所有敵人造成 180% 傷害。",
             "使所有敵人的法力減少 10%。"
@@ -98394,16 +98394,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1408,
         "lb1": {
-            "attack": 683,
-            "defense": 715,
-            "health": 1175,
-            "power": 688
+            "attack": 731,
+            "defense": 765,
+            "health": 1304,
+            "power": 737
         },
         "lb2": {
-            "attack": 792,
-            "defense": 829,
-            "health": 1362,
-            "power": 785
+            "attack": 847,
+            "defense": 887,
+            "health": 1512,
+            "power": 841
         },
         "cn_skill_info": [
             {
@@ -98441,10 +98441,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_templar_costume_fireworks",
         "star": 4,
-        "power": 640,
-        "attack": 631,
-        "defense": 654,
-        "health": 1083,
+        "power": 731,
+        "attack": 725,
+        "defense": 752,
+        "health": 1300,
         "effects": [
             "對目標及附近敵人造成 270% 傷害。",
             "目標與附近敵人陷入沉默，持續 3 回合。"
@@ -98454,16 +98454,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1409,
         "lb1": {
-            "attack": 685,
-            "defense": 711,
-            "health": 1177,
-            "power": 688
+            "attack": 788,
+            "defense": 817,
+            "health": 1413,
+            "power": 787
         },
         "lb2": {
-            "attack": 795,
-            "defense": 824,
-            "health": 1365,
-            "power": 785
+            "attack": 914,
+            "defense": 948,
+            "health": 1638,
+            "power": 899
         },
         "cn_skill_info": [
             {
@@ -98504,10 +98504,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_templar_costume_cute",
         "star": 4,
-        "power": 641,
-        "attack": 620,
-        "defense": 667,
-        "health": 1092,
+        "power": 743,
+        "attack": 725,
+        "defense": 780,
+        "health": 1332,
         "effects": [
             "對所有敵人造成 180% 傷害。",
             "使所有敵人的法力減少 16%。",
@@ -98520,16 +98520,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 1410,
         "lb1": {
-            "attack": 674,
-            "defense": 725,
-            "health": 1186,
-            "power": 689
+            "attack": 788,
+            "defense": 848,
+            "health": 1447,
+            "power": 800
         },
         "lb2": {
-            "attack": 781,
-            "defense": 840,
-            "health": 1375,
-            "power": 786
+            "attack": 914,
+            "defense": 983,
+            "health": 1678,
+            "power": 915
         },
         "cn_skill_info": [
             {
@@ -98572,10 +98572,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_templar_costume_glass",
         "star": 4,
-        "power": 642,
-        "attack": 675,
-        "defense": 624,
-        "health": 1049,
+        "power": 756,
+        "attack": 804,
+        "defense": 743,
+        "health": 1301,
         "effects": [
             "對所有敵人造成 190% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -98588,16 +98588,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 1411,
         "lb1": {
-            "attack": 734,
-            "defense": 678,
-            "health": 1140,
-            "power": 691
+            "attack": 873,
+            "defense": 807,
+            "health": 1414,
+            "power": 814
         },
         "lb2": {
-            "attack": 851,
-            "defense": 787,
-            "health": 1322,
-            "power": 788
+            "attack": 1013,
+            "defense": 936,
+            "health": 1639,
+            "power": 931
         },
         "cn_skill_info": [
             {
@@ -98777,10 +98777,10 @@ window.allHeroes =
         ],
         "heroId": "s5_scoratek_costume_sentinel",
         "star": 4,
-        "power": 685,
-        "attack": 660,
-        "defense": 635,
-        "health": 1366,
+        "power": 701,
+        "attack": 674,
+        "defense": 648,
+        "health": 1421,
         "effects": [
             "對目標造成 125% 傷害。",
             "對目標召喚聖甲蟲炸彈惡魔。惡魔每回合以 38% 的攻擊力對敵人造成傷害。",
@@ -98798,16 +98798,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1414,
         "lb1": {
-            "attack": 718,
-            "defense": 690,
-            "health": 1484,
-            "power": 737
+            "attack": 732,
+            "defense": 704,
+            "health": 1544,
+            "power": 754
         },
         "lb2": {
-            "attack": 832,
-            "defense": 800,
-            "health": 1721,
-            "power": 841
+            "attack": 849,
+            "defense": 816,
+            "health": 1790,
+            "power": 861
         },
         "cn_skill_info": [
             {
@@ -99182,10 +99182,10 @@ window.allHeroes =
         ],
         "heroId": "kingdom_wang_yuanji_costume_artisan",
         "star": 4,
-        "power": 684,
-        "attack": 654,
-        "defense": 731,
-        "health": 1185,
+        "power": 720,
+        "attack": 693,
+        "defense": 774,
+        "health": 1256,
         "effects": [
             "摧毀所有盟友的所有惡魔。此效果會對超級惡魔造成傷害。",
             "為所有盟友提供 520 點加成生命值。加成生命值能夠超過最大生命值。",
@@ -99201,16 +99201,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1420,
         "lb1": {
-            "attack": 711,
-            "defense": 794,
-            "health": 1288,
-            "power": 736
+            "attack": 753,
+            "defense": 841,
+            "health": 1365,
+            "power": 775
         },
         "lb2": {
-            "attack": 824,
-            "defense": 920,
-            "health": 1493,
-            "power": 840
+            "attack": 873,
+            "defense": 976,
+            "health": 1583,
+            "power": 885
         },
         "cn_skill_info": [
             {
@@ -99310,10 +99310,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_monkey_captain_costume_warrior",
         "star": 4,
-        "power": 646,
-        "attack": 694,
-        "defense": 658,
-        "health": 958,
+        "power": 690,
+        "attack": 743,
+        "defense": 704,
+        "health": 1063,
         "effects": [
             "對所有敵人造成 210% 傷害。",
             "施法者獲得 -20% 防禦，持續 3 回合。此效果無法淨化。"
@@ -99323,16 +99323,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1422,
         "lb1": {
-            "attack": 755,
-            "defense": 715,
-            "health": 1041,
-            "power": 695
+            "attack": 807,
+            "defense": 765,
+            "health": 1155,
+            "power": 743
         },
         "lb2": {
-            "attack": 875,
-            "defense": 829,
-            "health": 1207,
-            "power": 792
+            "attack": 936,
+            "defense": 887,
+            "health": 1340,
+            "power": 848
         },
         "cn_skill_info": [
             {
@@ -99369,10 +99369,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_monkey_captain_costume_reveller",
         "star": 4,
-        "power": 645,
-        "attack": 694,
-        "defense": 631,
-        "health": 1009,
+        "power": 737,
+        "attack": 799,
+        "defense": 725,
+        "health": 1211,
         "effects": [
             "所有盟友獲得 +170% 攻擊力與 -25% 精準度，持續 5 回合。失手率也會套用在攻擊型特殊技能上。"
         ],
@@ -99381,16 +99381,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1423,
         "lb1": {
-            "attack": 755,
-            "defense": 685,
-            "health": 1096,
-            "power": 694
+            "attack": 868,
+            "defense": 788,
+            "health": 1316,
+            "power": 793
         },
         "lb2": {
-            "attack": 875,
-            "defense": 795,
-            "health": 1271,
-            "power": 791
+            "attack": 1006,
+            "defense": 914,
+            "health": 1525,
+            "power": 906
         },
         "cn_skill_info": [
             {
@@ -99429,10 +99429,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_monkey_captain_costume_cute",
         "star": 4,
-        "power": 646,
-        "attack": 637,
-        "defense": 680,
-        "health": 1058,
+        "power": 749,
+        "attack": 745,
+        "defense": 795,
+        "health": 1291,
         "effects": [
             "所有盟友獲得 +175% 攻擊力與 -32% 精準度，持續 5 回合。對所有神聖系角色，此狀態效果變為无法驅散且持續時間延長 2 回合。"
         ],
@@ -99443,16 +99443,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 1424,
         "lb1": {
-            "attack": 692,
-            "defense": 738,
-            "health": 1149,
-            "power": 694
+            "attack": 810,
+            "defense": 864,
+            "health": 1402,
+            "power": 806
         },
         "lb2": {
-            "attack": 803,
-            "defense": 856,
-            "health": 1333,
-            "power": 792
+            "attack": 939,
+            "defense": 1002,
+            "health": 1626,
+            "power": 921
         },
         "cn_skill_info": [
             {
@@ -99493,10 +99493,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_monkey_captain_costume_glass",
         "star": 4,
-        "power": 647,
-        "attack": 650,
-        "defense": 671,
-        "health": 1051,
+        "power": 761,
+        "attack": 773,
+        "defense": 799,
+        "health": 1304,
         "effects": [
             "所有盟友獲得 +180% 攻擊力與 -32% 精準度，持續 5 回合。（失手率也會套用在攻擊型特殊技能上。）",
             "所有神聖系盟友可反彈狀態異常和負面效果疊加，持續 2 回合。（同隊角色、小兵和惡魔施放的狀態效果無法反彈）"
@@ -99508,16 +99508,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 1425,
         "lb1": {
-            "attack": 706,
-            "defense": 729,
-            "health": 1142,
-            "power": 696
+            "attack": 840,
+            "defense": 868,
+            "health": 1417,
+            "power": 820
         },
         "lb2": {
-            "attack": 819,
-            "defense": 845,
-            "health": 1325,
-            "power": 793
+            "attack": 974,
+            "defense": 1006,
+            "health": 1643,
+            "power": 937
         },
         "cn_skill_info": [
             {
@@ -99694,10 +99694,10 @@ window.allHeroes =
         ],
         "heroId": "s4_akkorog_costume_football",
         "star": 5,
-        "power": 806,
-        "attack": 758,
-        "defense": 788,
-        "health": 1400,
+        "power": 1021,
+        "attack": 985,
+        "defense": 1025,
+        "health": 1891,
         "effects": [
             "隨機重新排列敵人位置。",
             "對目標及附近敵人造成 260% 傷害。",
@@ -99711,16 +99711,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1428,
         "lb1": {
-            "attack": 816,
-            "defense": 850,
-            "health": 1509,
-            "power": 859
+            "attack": 1062,
+            "defense": 1105,
+            "health": 2037,
+            "power": 1091
         },
         "lb2": {
-            "attack": 934,
-            "defense": 972,
-            "health": 1727,
-            "power": 965
+            "attack": 1215,
+            "defense": 1264,
+            "health": 2331,
+            "power": 1230
         },
         "cn_skill_info": [
             {
@@ -100178,10 +100178,10 @@ window.allHeroes =
         ],
         "heroId": "s4_aouda_costume_lotus",
         "star": 5,
-        "power": 810,
-        "attack": 871,
-        "defense": 782,
-        "health": 1157,
+        "power": 1024,
+        "attack": 1132,
+        "defense": 1017,
+        "health": 1562,
         "effects": [
             "對目標造成 250% 傷害。",
             "如果目標有生命加成，會造成 1140 額外傷害。"
@@ -100194,16 +100194,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1435,
         "lb1": {
-            "attack": 939,
-            "defense": 843,
-            "health": 1247,
-            "power": 864
+            "attack": 1220,
+            "defense": 1096,
+            "health": 1684,
+            "power": 1094
         },
         "lb2": {
-            "attack": 1074,
-            "defense": 965,
-            "health": 1427,
-            "power": 970
+            "attack": 1396,
+            "defense": 1254,
+            "health": 1927,
+            "power": 1234
         },
         "cn_skill_info": [
             {
@@ -101024,10 +101024,10 @@ window.allHeroes =
         ],
         "heroId": "slayer_caitlin_costume_crusader",
         "star": 5,
-        "power": 810,
-        "attack": 768,
-        "defense": 760,
-        "health": 1456,
+        "power": 1211,
+        "attack": 1206,
+        "defense": 1193,
+        "health": 2359,
         "effects": [
             "驅散所有敵人的增益。",
             "對所有敵人造成 170% 傷害。",
@@ -101043,16 +101043,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1446,
         "lb1": {
-            "attack": 828,
-            "defense": 819,
-            "health": 1569,
-            "power": 863
+            "attack": 1300,
+            "defense": 1286,
+            "health": 2542,
+            "power": 1295
         },
         "lb2": {
-            "attack": 947,
-            "defense": 937,
-            "health": 1795,
-            "power": 970
+            "attack": 1487,
+            "defense": 1471,
+            "health": 2909,
+            "power": 1464
         },
         "cn_skill_info": [
             {
@@ -101324,10 +101324,10 @@ window.allHeroes =
         ],
         "heroId": "s5_cleopatra_costume_feline",
         "star": 5,
-        "power": 865,
-        "attack": 749,
-        "defense": 863,
-        "health": 1691,
+        "power": 1210,
+        "attack": 1087,
+        "defense": 1251,
+        "health": 2536,
         "effects": [
             "為所有盟友恢復 60% 生命值。",
             "所有盟友對新的狀態異常免疫，持續 3 回合，且每當有狀態異常嘗試施加於其上，他們都將恢復 360 點生命值。"
@@ -101343,16 +101343,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1450,
         "lb1": {
-            "attack": 808,
-            "defense": 930,
-            "health": 1822,
-            "power": 923
+            "attack": 1171,
+            "defense": 1348,
+            "health": 2733,
+            "power": 1294
         },
         "lb2": {
-            "attack": 924,
-            "defense": 1064,
-            "health": 2085,
-            "power": 1038
+            "attack": 1340,
+            "defense": 1543,
+            "health": 3128,
+            "power": 1463
         },
         "cn_skill_info": [
             {
@@ -101593,10 +101593,10 @@ window.allHeroes =
         ],
         "heroId": "holy_god_delilah_costume_guardian",
         "star": 5,
-        "power": 767,
-        "attack": 716,
-        "defense": 718,
-        "health": 1361,
+        "power": 975,
+        "attack": 917,
+        "defense": 905,
+        "health": 1974,
         "effects": [
             "為所有盟友恢復 37% 生命值。",
             "為每個盟友召喚一個守護者小兵，其可從施法者繼承 25% 生命與 30% 攻擊。",
@@ -101609,16 +101609,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1454,
         "lb1": {
-            "attack": 772,
-            "defense": 774,
-            "health": 1467,
-            "power": 817
+            "attack": 988,
+            "defense": 976,
+            "health": 2127,
+            "power": 1041
         },
         "lb2": {
-            "attack": 883,
-            "defense": 886,
-            "health": 1678,
-            "power": 917
+            "attack": 1131,
+            "defense": 1116,
+            "health": 2434,
+            "power": 1174
         },
         "cn_skill_info": [
             {
@@ -101805,10 +101805,10 @@ window.allHeroes =
         ],
         "heroId": "circus_director_zuri_costume_clown",
         "star": 5,
-        "power": 809,
-        "attack": 704,
-        "defense": 865,
-        "health": 1396,
+        "power": 1223,
+        "attack": 1127,
+        "defense": 1384,
+        "health": 2262,
         "effects": [
             "恢復剩餘生命值最低的盟友 65% 生命值。恢復其餘盟友 45% 生命值。",
             "為每個盟友召喚一個小丑小兵，其可從施法者繼承 20% 生命值與 30% 攻擊。",
@@ -101821,16 +101821,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1457,
         "lb1": {
-            "attack": 759,
-            "defense": 932,
-            "health": 1505,
-            "power": 862
+            "attack": 1214,
+            "defense": 1491,
+            "health": 2438,
+            "power": 1308
         },
         "lb2": {
-            "attack": 868,
-            "defense": 1066,
-            "health": 1722,
-            "power": 968
+            "attack": 1389,
+            "defense": 1706,
+            "health": 2789,
+            "power": 1479
         },
         "cn_skill_info": [
             {
@@ -102020,10 +102020,10 @@ window.allHeroes =
         ],
         "heroId": "holy_god_drake_lee_costume_serene",
         "star": 5,
-        "power": 768,
-        "attack": 737,
-        "defense": 706,
-        "health": 1343,
+        "power": 976,
+        "attack": 943,
+        "defense": 890,
+        "health": 1947,
         "effects": [
             "對目標及附近敵人造成 300% 傷害。",
             "目標與附近敵人獲得 -50% 精準度，持續 3 回合。如果目標受到治療，效果持續時間會重設。失手率也會套用在攻擊型特殊技能上。",
@@ -102036,16 +102036,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1460,
         "lb1": {
-            "attack": 794,
-            "defense": 761,
-            "health": 1447,
-            "power": 818
+            "attack": 1017,
+            "defense": 959,
+            "health": 2098,
+            "power": 1043
         },
         "lb2": {
-            "attack": 909,
-            "defense": 871,
-            "health": 1656,
-            "power": 918
+            "attack": 1163,
+            "defense": 1097,
+            "health": 2401,
+            "power": 1175
         },
         "cn_skill_info": [
             {
@@ -102322,10 +102322,10 @@ window.allHeroes =
         ],
         "heroId": "tales1_ephyra_costume_reef",
         "star": 5,
-        "power": 934,
-        "attack": 889,
-        "defense": 935,
-        "health": 1693,
+        "power": 1162,
+        "attack": 1139,
+        "defense": 1197,
+        "health": 2167,
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
@@ -102346,16 +102346,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1464,
         "lb1": {
-            "attack": 959,
-            "defense": 1007,
-            "health": 1824,
-            "power": 997
+            "attack": 1227,
+            "defense": 1290,
+            "health": 2335,
+            "power": 1242
         },
         "lb2": {
-            "attack": 1097,
-            "defense": 1153,
-            "health": 2087,
-            "power": 1123
+            "attack": 1404,
+            "defense": 1476,
+            "health": 2672,
+            "power": 1403
         },
         "cn_skill_info": [
             {
@@ -102539,10 +102539,10 @@ window.allHeroes =
         ],
         "heroId": "s5_eset_costume_goldensun",
         "star": 5,
-        "power": 869,
-        "attack": 854,
-        "defense": 791,
-        "health": 1598,
+        "power": 1215,
+        "attack": 1239,
+        "defense": 1147,
+        "health": 2397,
         "effects": [
             "對目標造成 260% 傷害。如果目標為暗黑系，再造成額外傷害。",
             "對 5 名隨機敵人造成 250% 傷害。如果目標為暗黑系，再造成額外傷害。（若沒有其他可用目標，則此效果會選擇與第一次打擊相同的敵人）",
@@ -102559,16 +102559,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1467,
         "lb1": {
-            "attack": 921,
-            "defense": 852,
-            "health": 1722,
-            "power": 926
+            "attack": 1335,
+            "defense": 1236,
+            "health": 2584,
+            "power": 1300
         },
         "lb2": {
-            "attack": 1054,
-            "defense": 975,
-            "health": 1971,
-            "power": 1042
+            "attack": 1528,
+            "defense": 1414,
+            "health": 2956,
+            "power": 1469
         },
         "cn_skill_info": [
             {
@@ -103817,10 +103817,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "guardian_gazelle_costume_bandalore",
         "star": 5,
-        "power": 781,
-        "attack": 774,
-        "defense": 747,
-        "health": 1258,
+        "power": 977,
+        "attack": 983,
+        "defense": 934,
+        "health": 1762,
         "effects": [
             "移除所有盟友（除施法者外）的狀態效果。包含无法驅散或無法淨化的狀態效果。",
             "為所有盟友恢復 48% 生命值。",
@@ -103835,16 +103835,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1484,
         "lb1": {
-            "attack": 834,
-            "defense": 805,
-            "health": 1356,
-            "power": 832
+            "attack": 1060,
+            "defense": 1007,
+            "health": 1898,
+            "power": 1043
         },
         "lb2": {
-            "attack": 955,
-            "defense": 922,
-            "health": 1551,
-            "power": 934
+            "attack": 1212,
+            "defense": 1152,
+            "health": 2172,
+            "power": 1175
         },
         "cn_skill_info": [
             {
@@ -104101,10 +104101,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "knights_guinevere_costume_rider",
         "star": 5,
-        "power": 764,
-        "attack": 628,
-        "defense": 799,
-        "health": 1402,
+        "power": 958,
+        "attack": 797,
+        "defense": 999,
+        "health": 1964,
         "effects": [
             "使目標和附近敵人的法力減少 25%。",
             "為所有盟友恢復 40% 生命值。",
@@ -104115,16 +104115,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1488,
         "lb1": {
-            "attack": 677,
-            "defense": 861,
-            "health": 1511,
-            "power": 814
+            "attack": 859,
+            "defense": 1076,
+            "health": 2116,
+            "power": 1023
         },
         "lb2": {
-            "attack": 774,
-            "defense": 985,
-            "health": 1729,
-            "power": 913
+            "attack": 983,
+            "defense": 1231,
+            "health": 2421,
+            "power": 1152
         },
         "cn_skill_info": [
             {
@@ -104766,10 +104766,10 @@ window.allHeroes =
         ],
         "heroId": "s5_horus_costume_golden",
         "star": 5,
-        "power": 859,
-        "attack": 821,
-        "defense": 799,
-        "health": 1596,
+        "power": 1201,
+        "attack": 1191,
+        "defense": 1158,
+        "health": 2394,
         "effects": [
             "對目標及附近敵人造成 230% 傷害。",
             "在 3 個回合內使目標與附近敵人的最大生命值降低 600 點。對有生命加成的目標效果更大。最大生命值不得低於原生命值的 30%。任何生命值加成會造成額外降低每回合 200 點。"
@@ -104785,16 +104785,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1497,
         "lb1": {
-            "attack": 885,
-            "defense": 861,
-            "health": 1720,
-            "power": 916
+            "attack": 1284,
+            "defense": 1248,
+            "health": 2580,
+            "power": 1285
         },
         "lb2": {
-            "attack": 1013,
-            "defense": 985,
-            "health": 1968,
-            "power": 1030
+            "attack": 1469,
+            "defense": 1429,
+            "health": 2952,
+            "power": 1452
         },
         "cn_skill_info": [
             {
@@ -105049,10 +105049,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_fox_girl_costume_white_kitsune",
         "star": 5,
-        "power": 772,
-        "attack": 772,
-        "defense": 683,
-        "health": 1330,
+        "power": 943,
+        "attack": 965,
+        "defense": 854,
+        "health": 1729,
         "effects": [
             "對所有敵人造成 210% 傷害。",
             "為施法者與附近盟友召喚一個櫻花狐狸小兵。櫻花狐狸小兵從施法者繼承 12% 生命與 30% 攻擊。該小兵在每個回合結束時為主人增加 7% 法力。",
@@ -105063,16 +105063,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1501,
         "lb1": {
-            "attack": 832,
-            "defense": 737,
-            "health": 1434,
-            "power": 823
+            "attack": 1040,
+            "defense": 921,
+            "health": 1864,
+            "power": 1007
         },
         "lb2": {
-            "attack": 952,
-            "defense": 843,
-            "health": 1640,
-            "power": 923
+            "attack": 1190,
+            "defense": 1054,
+            "health": 2133,
+            "power": 1135
         },
         "cn_skill_info": [
             {
@@ -105494,10 +105494,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "easter_jasper_costume_fisherman",
         "star": 5,
-        "power": 868,
-        "attack": 776,
-        "defense": 873,
-        "health": 1627,
+        "power": 1034,
+        "attack": 947,
+        "defense": 1048,
+        "health": 2034,
         "effects": [
             "所有盟友在 5 回合內恢復 1450 點生命值。",
             "所有盟友獲得 +60% 攻擊力，持續 5 回合。",
@@ -105509,16 +105509,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1507,
         "lb1": {
-            "attack": 836,
-            "defense": 941,
-            "health": 1753,
-            "power": 926
+            "attack": 1021,
+            "defense": 1129,
+            "health": 2192,
+            "power": 1105
         },
         "lb2": {
-            "attack": 957,
-            "defense": 1076,
-            "health": 2006,
-            "power": 1042
+            "attack": 1168,
+            "defense": 1292,
+            "health": 2508,
+            "power": 1246
         },
         "cn_skill_info": [
             {
@@ -105641,10 +105641,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elemental_jequn_costume_gilded",
         "star": 5,
-        "power": 967,
-        "attack": 941,
-        "defense": 856,
-        "health": 1950,
+        "power": 1214,
+        "attack": 1214,
+        "defense": 1105,
+        "health": 2536,
         "effects": [
             "對所有敵人造成 210% 傷害。",
             "所有暗黑系敵人獲得 -39% 精準度，持續 3 回合。（失手率也會套用在攻擊型特殊技能上）",
@@ -105663,16 +105663,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1509,
         "lb1": {
-            "attack": 1014,
-            "defense": 923,
-            "health": 2102,
-            "power": 1032
+            "attack": 1308,
+            "defense": 1191,
+            "health": 2733,
+            "power": 1298
         },
         "lb2": {
-            "attack": 1160,
-            "defense": 1056,
-            "health": 2405,
-            "power": 1163
+            "attack": 1497,
+            "defense": 1363,
+            "health": 3126,
+            "power": 1468
         },
         "cn_skill_info": [
             {
@@ -105772,10 +105772,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_enchanted_monk_costume_tiger",
         "star": 5,
-        "power": 753,
-        "attack": 745,
-        "defense": 646,
-        "health": 1332,
+        "power": 847,
+        "attack": 842,
+        "defense": 730,
+        "health": 1599,
         "effects": [
             "對目標造成 488% 傷害。",
             "目標獲得 -35% 精準度，持續 4 回合。失手率也會套用在攻擊型特殊技能上。"
@@ -105785,16 +105785,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1511,
         "lb1": {
-            "attack": 803,
-            "defense": 697,
-            "health": 1436,
-            "power": 802
+            "attack": 908,
+            "defense": 787,
+            "health": 1723,
+            "power": 904
         },
         "lb2": {
-            "attack": 919,
-            "defense": 797,
-            "health": 1643,
-            "power": 899
+            "attack": 1039,
+            "defense": 901,
+            "health": 1972,
+            "power": 1017
         },
         "cn_skill_info": [
             {
@@ -105834,10 +105834,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_enchanted_monk_costume_stoneguard",
         "star": 5,
-        "power": 752,
-        "attack": 753,
-        "defense": 640,
-        "health": 1320,
+        "power": 962,
+        "attack": 972,
+        "defense": 826,
+        "health": 1901,
         "effects": [
             "對目標及附近敵人造成 260% 傷害。",
             "目標與附近敵人在 3 回合內受到共計 195 點燃燒傷害。",
@@ -105848,16 +105848,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1512,
         "lb1": {
-            "attack": 812,
-            "defense": 690,
-            "health": 1423,
-            "power": 801
+            "attack": 1048,
+            "defense": 890,
+            "health": 2049,
+            "power": 1027
         },
         "lb2": {
-            "attack": 929,
-            "defense": 789,
-            "health": 1628,
-            "power": 898
+            "attack": 1199,
+            "defense": 1019,
+            "health": 2344,
+            "power": 1158
         },
         "cn_skill_info": [
             {
@@ -105900,10 +105900,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_enchanted_monk_costume_cute",
         "star": 5,
-        "power": 753,
-        "attack": 751,
-        "defense": 640,
-        "health": 1334,
+        "power": 1128,
+        "attack": 1165,
+        "defense": 993,
+        "health": 2269,
         "effects": [
             "對目標造成 548% 傷害。",
             "目標獲得 -35% 精準度，持續 6 回合。",
@@ -105916,16 +105916,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 1513,
         "lb1": {
-            "attack": 810,
-            "defense": 690,
-            "health": 1438,
-            "power": 803
+            "attack": 1255,
+            "defense": 1070,
+            "health": 2445,
+            "power": 1206
         },
         "lb2": {
-            "attack": 927,
-            "defense": 789,
-            "health": 1645,
-            "power": 900
+            "attack": 1437,
+            "defense": 1224,
+            "health": 2798,
+            "power": 1362
         },
         "cn_skill_info": [
             {
@@ -105972,10 +105972,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_enchanted_monk_costume_glass",
         "star": 5,
-        "power": 754,
-        "attack": 766,
-        "defense": 630,
-        "health": 1324,
+        "power": 1233,
+        "attack": 1341,
+        "defense": 1103,
+        "health": 2357,
         "effects": [
             "對目標造成 558% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -105988,16 +105988,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 1514,
         "lb1": {
-            "attack": 825,
-            "defense": 679,
-            "health": 1427,
-            "power": 803
+            "attack": 1445,
+            "defense": 1188,
+            "health": 2540,
+            "power": 1318
         },
         "lb2": {
-            "attack": 944,
-            "defense": 777,
-            "health": 1633,
-            "power": 901
+            "attack": 1653,
+            "defense": 1360,
+            "health": 2907,
+            "power": 1491
         },
         "cn_skill_info": [
             {
@@ -106172,10 +106172,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "exalted_female_statue_costume_sungoddess",
         "star": 5,
-        "power": 754,
-        "attack": 673,
-        "defense": 721,
-        "health": 1374,
+        "power": 849,
+        "attack": 761,
+        "defense": 814,
+        "health": 1648,
         "effects": [
             "對所有敵人造成 250% 傷害。",
             "每有一名盟友落敗，傷害增加 50%。",
@@ -106186,16 +106186,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1517,
         "lb1": {
-            "attack": 725,
-            "defense": 777,
-            "health": 1480,
-            "power": 803
+            "attack": 820,
+            "defense": 878,
+            "health": 1776,
+            "power": 906
         },
         "lb2": {
-            "attack": 830,
-            "defense": 889,
-            "health": 1694,
-            "power": 901
+            "attack": 938,
+            "defense": 1004,
+            "health": 2033,
+            "power": 1019
         },
         "cn_skill_info": [
             {
@@ -106239,10 +106239,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "exalted_female_statue_costume_thorns",
         "star": 5,
-        "power": 755,
-        "attack": 690,
-        "defense": 698,
-        "health": 1380,
+        "power": 966,
+        "attack": 890,
+        "defense": 900,
+        "health": 1987,
         "effects": [
             "對所有敵人造成 300% 傷害。",
             "每有一個敵人被擊敗，傷害增加 45%。",
@@ -106253,16 +106253,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1518,
         "lb1": {
-            "attack": 743,
-            "defense": 752,
-            "health": 1487,
-            "power": 803
+            "attack": 959,
+            "defense": 970,
+            "health": 2141,
+            "power": 1031
         },
         "lb2": {
-            "attack": 850,
-            "defense": 861,
-            "health": 1701,
-            "power": 901
+            "attack": 1097,
+            "defense": 1110,
+            "health": 2450,
+            "power": 1162
         },
         "cn_skill_info": [
             {
@@ -106308,10 +106308,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "exalted_female_statue_costume_cute",
         "star": 5,
-        "power": 755,
-        "attack": 760,
-        "defense": 603,
-        "health": 1400,
+        "power": 1132,
+        "attack": 1178,
+        "defense": 935,
+        "health": 2381,
         "effects": [
             "對所有敵人造成 435% 傷害。",
             "所有敵人獲得 -30% 精準度，持續 4 回合。（失手率也會套用在攻擊型特殊技能上）",
@@ -106324,16 +106324,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 1519,
         "lb1": {
-            "attack": 819,
-            "defense": 650,
-            "health": 1509,
-            "power": 804
+            "attack": 1269,
+            "defense": 1008,
+            "health": 2566,
+            "power": 1210
         },
         "lb2": {
-            "attack": 937,
-            "defense": 744,
-            "health": 1727,
-            "power": 903
+            "attack": 1452,
+            "defense": 1153,
+            "health": 2936,
+            "power": 1367
         },
         "cn_skill_info": [
             {
@@ -106380,10 +106380,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "exalted_female_statue_costume_glass",
         "star": 5,
-        "power": 756,
-        "attack": 770,
-        "defense": 597,
-        "health": 1392,
+        "power": 1236,
+        "attack": 1348,
+        "defense": 1045,
+        "health": 2478,
         "effects": [
             "對所有敵人造成 445% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -106396,16 +106396,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 1520,
         "lb1": {
-            "attack": 830,
-            "defense": 643,
-            "health": 1500,
-            "power": 805
+            "attack": 1452,
+            "defense": 1126,
+            "health": 2671,
+            "power": 1322
         },
         "lb2": {
-            "attack": 949,
-            "defense": 736,
-            "health": 1717,
-            "power": 903
+            "attack": 1662,
+            "defense": 1289,
+            "health": 3056,
+            "power": 1495
         },
         "cn_skill_info": [
             {
@@ -106582,10 +106582,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "kalevala_kullervo_costume_battle_scarred",
         "star": 5,
-        "power": 835,
-        "attack": 793,
-        "defense": 836,
-        "health": 1421,
+        "power": 1078,
+        "attack": 1062,
+        "defense": 1120,
+        "health": 1918,
         "effects": [
             "對目標造成 450% 傷害。",
             "對一名隨機的不同的敵人造成 320% 傷害。",
@@ -106598,16 +106598,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1523,
         "lb1": {
-            "attack": 854,
-            "defense": 901,
-            "health": 1531,
-            "power": 890
+            "attack": 1145,
+            "defense": 1207,
+            "health": 2067,
+            "power": 1153
         },
         "lb2": {
-            "attack": 977,
-            "defense": 1031,
-            "health": 1752,
-            "power": 1000
+            "attack": 1310,
+            "defense": 1381,
+            "health": 2366,
+            "power": 1301
         },
         "cn_skill_info": [
             {
@@ -107172,10 +107172,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_warrior_king_costume_roman",
         "star": 5,
-        "power": 752,
-        "attack": 714,
-        "defense": 737,
-        "health": 1225,
+        "power": 846,
+        "attack": 807,
+        "defense": 833,
+        "health": 1470,
         "effects": [
             "對目標造成 390% 傷害，並對附近敵人造成輕微傷害。",
             "目標與附近敵人獲得對神聖系 -54% 的防禦，持續 4 回合。",
@@ -107186,16 +107186,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1531,
         "lb1": {
-            "attack": 770,
-            "defense": 794,
-            "health": 1320,
-            "power": 801
+            "attack": 870,
+            "defense": 898,
+            "health": 1585,
+            "power": 902
         },
         "lb2": {
-            "attack": 881,
-            "defense": 909,
-            "health": 1511,
-            "power": 899
+            "attack": 995,
+            "defense": 1027,
+            "health": 1813,
+            "power": 1014
         },
         "cn_skill_info": [
             {
@@ -107236,10 +107236,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_warrior_king_costume_mage",
         "star": 5,
-        "power": 752,
-        "attack": 718,
-        "defense": 727,
-        "health": 1236,
+        "power": 961,
+        "attack": 927,
+        "defense": 938,
+        "health": 1779,
         "effects": [
             "對所有敵人造成 240% 傷害。",
             "使所有敵人的法力減少 10%。",
@@ -107250,16 +107250,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1532,
         "lb1": {
-            "attack": 774,
-            "defense": 783,
-            "health": 1332,
-            "power": 801
+            "attack": 999,
+            "defense": 1010,
+            "health": 1918,
+            "power": 1025
         },
         "lb2": {
-            "attack": 886,
-            "defense": 896,
-            "health": 1524,
-            "power": 899
+            "attack": 1143,
+            "defense": 1156,
+            "health": 2194,
+            "power": 1155
         },
         "cn_skill_info": [
             {
@@ -107307,10 +107307,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_warrior_king_costume_cute",
         "star": 5,
-        "power": 753,
-        "attack": 735,
-        "defense": 710,
-        "health": 1233,
+        "power": 1125,
+        "attack": 1139,
+        "defense": 1101,
+        "health": 2097,
         "effects": [
             "對目標造成 565% 傷害。",
             "使目標的法力減少 35%。",
@@ -107324,16 +107324,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 1533,
         "lb1": {
-            "attack": 792,
-            "defense": 765,
-            "health": 1329,
-            "power": 802
+            "attack": 1228,
+            "defense": 1187,
+            "health": 2260,
+            "power": 1203
         },
         "lb2": {
-            "attack": 906,
-            "defense": 876,
-            "health": 1521,
-            "power": 900
+            "attack": 1405,
+            "defense": 1358,
+            "health": 2586,
+            "power": 1359
         },
         "cn_skill_info": [
             {
@@ -107379,10 +107379,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_warrior_king_costume_glass",
         "star": 5,
-        "power": 755,
-        "attack": 764,
-        "defense": 690,
-        "health": 1211,
+        "power": 1232,
+        "attack": 1337,
+        "defense": 1207,
+        "health": 2156,
         "effects": [
             "對目標造成 575% 傷害。",
             "攻擊會無視防禦增益。（包含反擊）",
@@ -107396,16 +107396,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 1534,
         "lb1": {
-            "attack": 823,
-            "defense": 743,
-            "health": 1305,
-            "power": 803
+            "attack": 1441,
+            "defense": 1301,
+            "health": 2323,
+            "power": 1318
         },
         "lb2": {
-            "attack": 942,
-            "defense": 850,
-            "health": 1493,
-            "power": 901
+            "attack": 1649,
+            "defense": 1489,
+            "health": 2658,
+            "power": 1491
         },
         "cn_skill_info": [
             {
@@ -108123,10 +108123,10 @@ window.allHeroes =
         ],
         "heroId": "s5_meresankh_costume_disco",
         "star": 5,
-        "power": 872,
-        "attack": 824,
-        "defense": 838,
-        "health": 1602,
+        "power": 1219,
+        "attack": 1194,
+        "defense": 1215,
+        "health": 2404,
         "effects": [
             "對所有敵人造成 180% 傷害。",
             "敵人的法力越高，受到的傷害越大，最高可達 300%。",
@@ -108144,16 +108144,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1544,
         "lb1": {
-            "attack": 888,
-            "defense": 903,
-            "health": 1727,
-            "power": 930
+            "attack": 1287,
+            "defense": 1310,
+            "health": 2590,
+            "power": 1304
         },
         "lb2": {
-            "attack": 1016,
-            "defense": 1033,
-            "health": 1976,
-            "power": 1046
+            "attack": 1473,
+            "defense": 1498,
+            "health": 2964,
+            "power": 1474
         },
         "cn_skill_info": [
             {
@@ -108624,10 +108624,10 @@ window.allHeroes =
         ],
         "heroId": "holy_god_musashi_costume_prisoner",
         "star": 5,
-        "power": 764,
-        "attack": 772,
-        "defense": 692,
-        "health": 1256,
+        "power": 970,
+        "attack": 988,
+        "defense": 872,
+        "health": 1822,
         "effects": [
             "對目標造成 350% 傷害，並對附近敵人造成輕微傷害。",
             "施法者治療所造成普通傷害的 75%，持續 5 回合。",
@@ -108640,16 +108640,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1551,
         "lb1": {
-            "attack": 832,
-            "defense": 745,
-            "health": 1354,
-            "power": 814
+            "attack": 1065,
+            "defense": 939,
+            "health": 1963,
+            "power": 1035
         },
         "lb2": {
-            "attack": 952,
-            "defense": 853,
-            "health": 1549,
-            "power": 913
+            "attack": 1219,
+            "defense": 1075,
+            "health": 2246,
+            "power": 1167
         },
         "cn_skill_info": [
             {
@@ -108971,10 +108971,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_norns_costume_puppeteers",
         "star": 5,
-        "power": 788,
-        "attack": 830,
-        "defense": 718,
-        "health": 1231,
+        "power": 987,
+        "attack": 1062,
+        "defense": 920,
+        "health": 1663,
         "effects": [
             "對目標及附近敵人造成 300% 傷害。",
             "目標與附近敵人在 6 個回合中對具有強大抗性的元素會減弱抗性。對於通常較弱的元素，抗性還是較低。"
@@ -108984,16 +108984,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1556,
         "lb1": {
-            "attack": 894,
-            "defense": 774,
-            "health": 1327,
-            "power": 840
+            "attack": 1145,
+            "defense": 991,
+            "health": 1792,
+            "power": 1054
         },
         "lb2": {
-            "attack": 1023,
-            "defense": 886,
-            "health": 1518,
-            "power": 943
+            "attack": 1310,
+            "defense": 1134,
+            "health": 2050,
+            "power": 1188
         },
         "cn_skill_info": [
             {
@@ -109098,10 +109098,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_odin_costume_champion",
         "star": 5,
-        "power": 788,
-        "attack": 747,
-        "defense": 764,
-        "health": 1341,
+        "power": 987,
+        "attack": 957,
+        "defense": 978,
+        "health": 1810,
         "effects": [
             "對所有敵人造成 90% 傷害。",
             "面板上每有一個神聖護盾，則造成 25% 額外傷害，最多累積造成 290% 傷害。",
@@ -109112,16 +109112,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1558,
         "lb1": {
-            "attack": 805,
-            "defense": 823,
-            "health": 1445,
-            "power": 839
+            "attack": 1031,
+            "defense": 1054,
+            "health": 1951,
+            "power": 1054
         },
         "lb2": {
-            "attack": 922,
-            "defense": 942,
-            "health": 1653,
-            "power": 942
+            "attack": 1180,
+            "defense": 1206,
+            "health": 2232,
+            "power": 1188
         },
         "cn_skill_info": [
             {
@@ -109388,10 +109388,10 @@ window.allHeroes =
         ],
         "heroId": "s5_papyros_costume_colossus",
         "star": 5,
-        "power": 859,
-        "attack": 782,
-        "defense": 850,
-        "health": 1590,
+        "power": 1201,
+        "attack": 1135,
+        "defense": 1233,
+        "health": 2385,
         "effects": [
             "為每個盟友召喚一個砂巨像小兵，其可從施法者繼承 20% 生命值與 25% 攻擊。",
             "砂巨像小兵每次受到普通攻擊或特殊技能攻擊時，攻擊者將在 3 回合內受到共計 411 點飛沙傷害。",
@@ -109408,16 +109408,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1562,
         "lb1": {
-            "attack": 843,
-            "defense": 916,
-            "health": 1713,
-            "power": 916
+            "attack": 1223,
+            "defense": 1329,
+            "health": 2570,
+            "power": 1284
         },
         "lb2": {
-            "attack": 965,
-            "defense": 1049,
-            "health": 1960,
-            "power": 1030
+            "attack": 1399,
+            "defense": 1521,
+            "health": 2941,
+            "power": 1452
         },
         "cn_skill_info": [
             {
@@ -109631,10 +109631,10 @@ window.allHeroes =
         ],
         "heroId": "tales1_persa_costume_jellyfish_noble",
         "star": 5,
-        "power": 965,
-        "attack": 988,
-        "defense": 1015,
-        "health": 1501,
+        "power": 1200,
+        "attack": 1265,
+        "defense": 1299,
+        "health": 1922,
         "effects": [
             "特殊技能需依下列順序連續使用，才能達到全部力量：",
             "第 1 次：",
@@ -109657,16 +109657,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1565,
         "lb1": {
-            "attack": 1065,
-            "defense": 1094,
-            "health": 1618,
-            "power": 1030
+            "attack": 1363,
+            "defense": 1400,
+            "health": 2071,
+            "power": 1283
         },
         "lb2": {
-            "attack": 1219,
-            "defense": 1252,
-            "health": 1851,
-            "power": 1161
+            "attack": 1560,
+            "defense": 1602,
+            "health": 2370,
+            "power": 1451
         },
         "cn_skill_info": [
             {
@@ -109928,10 +109928,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_poseidon_costume_slayer",
         "star": 5,
-        "power": 775,
-        "attack": 735,
-        "defense": 710,
-        "health": 1390,
+        "power": 948,
+        "attack": 919,
+        "defense": 888,
+        "health": 1807,
         "effects": [
             "對目標造成 480% 傷害。",
             "所有盟友對新的狀態異常免疫，持續 3 回合。"
@@ -109941,16 +109941,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1569,
         "lb1": {
-            "attack": 792,
-            "defense": 765,
-            "health": 1498,
-            "power": 826
+            "attack": 990,
+            "defense": 957,
+            "health": 1948,
+            "power": 1012
         },
         "lb2": {
-            "attack": 906,
-            "defense": 876,
-            "health": 1714,
-            "power": 927
+            "attack": 1133,
+            "defense": 1095,
+            "health": 2228,
+            "power": 1140
         },
         "cn_skill_info": [
             {
@@ -110061,10 +110061,10 @@ window.allHeroes =
         ],
         "heroId": "s4_professor_lidenbrock_costume_jeweler",
         "star": 5,
-        "power": 806,
-        "attack": 741,
-        "defense": 803,
-        "health": 1411,
+        "power": 1021,
+        "attack": 964,
+        "defense": 1044,
+        "health": 1904,
         "effects": [
             "淨化所有盟友的狀態異常。",
             "為所有盟友提供 500 點加成生命值。加成生命值能夠超過最大生命值。",
@@ -110078,16 +110078,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1571,
         "lb1": {
-            "attack": 799,
-            "defense": 865,
-            "health": 1520,
-            "power": 859
+            "attack": 1038,
+            "defense": 1125,
+            "health": 2052,
+            "power": 1090
         },
         "lb2": {
-            "attack": 914,
-            "defense": 990,
-            "health": 1739,
-            "power": 965
+            "attack": 1188,
+            "defense": 1287,
+            "health": 2348,
+            "power": 1229
         },
         "cn_skill_info": [
             {
@@ -110263,10 +110263,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "sand_queen_costume_surfer",
         "star": 5,
-        "power": 773,
-        "attack": 745,
-        "defense": 727,
-        "health": 1314,
+        "power": 944,
+        "attack": 932,
+        "defense": 908,
+        "health": 1708,
         "effects": [
             "對目標及附近敵人造成 185% 傷害。",
             "目標與附近敵人在 4 回合內受到共計 692 點水系傷害。",
@@ -110278,16 +110278,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1574,
         "lb1": {
-            "attack": 803,
-            "defense": 783,
-            "health": 1416,
-            "power": 823
+            "attack": 1004,
+            "defense": 979,
+            "health": 1841,
+            "power": 1008
         },
         "lb2": {
-            "attack": 919,
-            "defense": 896,
-            "health": 1620,
-            "power": 924
+            "attack": 1149,
+            "defense": 1120,
+            "health": 2106,
+            "power": 1135
         },
         "cn_skill_info": [
             {
@@ -110606,10 +110606,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "sand_roc_costume_juice",
         "star": 5,
-        "power": 789,
-        "attack": 760,
-        "defense": 749,
-        "health": 1347,
+        "power": 965,
+        "attack": 950,
+        "defense": 937,
+        "health": 1751,
         "effects": [
             "所有敵人在 4 回合內受到共計 780 點飛沙傷害。",
             "所有敵人獲得 -44% 防禦，持續 3 回合。",
@@ -110620,16 +110620,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1579,
         "lb1": {
-            "attack": 819,
-            "defense": 808,
-            "health": 1451,
-            "power": 841
+            "attack": 1023,
+            "defense": 1010,
+            "health": 1887,
+            "power": 1030
         },
         "lb2": {
-            "attack": 937,
-            "defense": 924,
-            "health": 1661,
-            "power": 944
+            "attack": 1171,
+            "defense": 1155,
+            "health": 2159,
+            "power": 1160
         },
         "cn_skill_info": [
             {
@@ -111373,10 +111373,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_sif_costume_golden",
         "star": 5,
-        "power": 788,
-        "attack": 751,
-        "defense": 747,
-        "health": 1367,
+        "power": 988,
+        "attack": 962,
+        "defense": 957,
+        "health": 1846,
         "effects": [
             "使施法者與附近盟友的法力增加 15%。",
             "施法者與附近盟友進行反擊，造成所受傷害 125% 的傷害，持續 4 回合。",
@@ -111387,16 +111387,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1589,
         "lb1": {
-            "attack": 810,
-            "defense": 805,
-            "health": 1474,
-            "power": 840
+            "attack": 1037,
+            "defense": 1031,
+            "health": 1990,
+            "power": 1055
         },
         "lb2": {
-            "attack": 927,
-            "defense": 922,
-            "health": 1686,
-            "power": 943
+            "attack": 1186,
+            "defense": 1180,
+            "health": 2276,
+            "power": 1189
         },
         "cn_skill_info": [
             {
@@ -111859,10 +111859,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_thor_costume_conduit",
         "star": 5,
-        "power": 787,
-        "attack": 731,
-        "defense": 739,
-        "health": 1429,
+        "power": 987,
+        "attack": 936,
+        "defense": 946,
+        "health": 1930,
         "effects": [
             "特殊技能連續使用會有不同的效果，順序為：",
             "第 1 次：",
@@ -111880,16 +111880,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1596,
         "lb1": {
-            "attack": 788,
-            "defense": 796,
-            "health": 1540,
-            "power": 839
+            "attack": 1008,
+            "defense": 1020,
+            "health": 2079,
+            "power": 1054
         },
         "lb2": {
-            "attack": 901,
-            "defense": 911,
-            "health": 1762,
-            "power": 942
+            "attack": 1154,
+            "defense": 1167,
+            "health": 2379,
+            "power": 1188
         },
         "cn_skill_info": [
             {
@@ -112416,10 +112416,10 @@ window.allHeroes =
         ],
         "heroId": "magic_vaishali_costume_chef",
         "star": 5,
-        "power": 958,
-        "attack": 939,
-        "defense": 951,
-        "health": 1703,
+        "power": 1225,
+        "attack": 1239,
+        "defense": 1256,
+        "health": 2248,
         "effects": [
             "特殊技能在法力充能達 100% / 200% 時有不同效果：",
             "1 倍法力充能：",
@@ -112441,16 +112441,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1603,
         "lb1": {
-            "attack": 1012,
-            "defense": 1025,
-            "health": 1835,
-            "power": 1023
+            "attack": 1336,
+            "defense": 1353,
+            "health": 2423,
+            "power": 1310
         },
         "lb2": {
-            "attack": 1158,
-            "defense": 1173,
-            "health": 2100,
-            "power": 1152
+            "attack": 1528,
+            "defense": 1548,
+            "health": 2772,
+            "power": 1481
         },
         "cn_skill_info": [
             {
@@ -112567,10 +112567,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_mystic_costume_magician",
         "star": 5,
-        "power": 755,
-        "attack": 706,
-        "defense": 700,
-        "health": 1341,
+        "power": 851,
+        "attack": 798,
+        "defense": 791,
+        "health": 1609,
         "effects": [
             "為所有盟友恢復 44% 生命值。",
             "所有敵人獲得 -44% 防禦，持續 4 回合。",
@@ -112581,16 +112581,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1605,
         "lb1": {
-            "attack": 761,
-            "defense": 754,
-            "health": 1445,
-            "power": 804
+            "attack": 860,
+            "defense": 852,
+            "health": 1734,
+            "power": 907
         },
         "lb2": {
-            "attack": 871,
-            "defense": 863,
-            "health": 1653,
-            "power": 902
+            "attack": 984,
+            "defense": 975,
+            "health": 1984,
+            "power": 1020
         },
         "cn_skill_info": [
             {
@@ -112635,10 +112635,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_mystic_costume_scribe",
         "star": 5,
-        "power": 755,
-        "attack": 696,
-        "defense": 702,
-        "health": 1359,
+        "power": 966,
+        "attack": 898,
+        "defense": 906,
+        "health": 1957,
         "effects": [
             "為所有盟友提供 670 點加成生命值。加成生命值能夠超過最大生命值。",
             "所有敵人獲得 -39% 攻擊力，持續 4 回合。",
@@ -112649,16 +112649,16 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1606,
         "lb1": {
-            "attack": 750,
-            "defense": 757,
-            "health": 1465,
-            "power": 804
+            "attack": 967,
+            "defense": 976,
+            "health": 2109,
+            "power": 1031
         },
         "lb2": {
-            "attack": 858,
-            "defense": 866,
-            "health": 1676,
-            "power": 902
+            "attack": 1107,
+            "defense": 1117,
+            "health": 2414,
+            "power": 1163
         },
         "cn_skill_info": [
             {
@@ -112705,10 +112705,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_mystic_costume_cute",
         "star": 5,
-        "power": 757,
-        "attack": 710,
-        "defense": 716,
-        "health": 1310,
+        "power": 1133,
+        "attack": 1101,
+        "defense": 1111,
+        "health": 2227,
         "effects": [
             "為所有盟友恢復 54% 生命值。",
             "所有盟友獲得 +45% 防禦，持續 4 回合。對所有神聖系角色，此狀態效果无法驅散且持續時間延長 2 回合。",
@@ -112721,16 +112721,16 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 1607,
         "lb1": {
-            "attack": 765,
-            "defense": 772,
-            "health": 1411,
-            "power": 806
+            "attack": 1187,
+            "defense": 1197,
+            "health": 2400,
+            "power": 1211
         },
         "lb2": {
-            "attack": 876,
-            "defense": 883,
-            "health": 1615,
-            "power": 904
+            "attack": 1358,
+            "defense": 1370,
+            "health": 2746,
+            "power": 1368
         },
         "cn_skill_info": [
             {
@@ -112779,10 +112779,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_mystic_costume_glass",
         "star": 5,
-        "power": 758,
-        "attack": 708,
-        "defense": 718,
-        "health": 1316,
+        "power": 1239,
+        "attack": 1240,
+        "defense": 1258,
+        "health": 2343,
         "effects": [
             "為所有盟友恢復 55% 生命值。",
             "所有盟友獲得 +60% 防禦，持續 4 回合。",
@@ -112796,16 +112796,16 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 1608,
         "lb1": {
-            "attack": 763,
-            "defense": 774,
-            "health": 1418,
-            "power": 807
+            "attack": 1336,
+            "defense": 1355,
+            "health": 2525,
+            "power": 1325
         },
         "lb2": {
-            "attack": 873,
-            "defense": 886,
-            "health": 1623,
-            "power": 905
+            "attack": 1529,
+            "defense": 1551,
+            "health": 2889,
+            "power": 1498
         },
         "cn_skill_info": [
             {
@@ -113144,10 +113144,10 @@ window.allHeroes =
         ],
         "heroId": "wonderland_white_rabbit_costume_mask",
         "star": 5,
-        "power": 780,
-        "attack": 741,
-        "defense": 741,
-        "health": 1345,
+        "power": 977,
+        "attack": 941,
+        "defense": 926,
+        "health": 1883,
         "effects": [
             "對目標及附近敵人造成 260% 傷害。",
             "目標與附近敵人獲得 -34% 防禦，持續 3 回合。若目標受到治療，效果持續時間將重置。此效果無法淨化。"
@@ -113159,16 +113159,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1613,
         "lb1": {
-            "attack": 799,
-            "defense": 799,
-            "health": 1449,
-            "power": 831
+            "attack": 1014,
+            "defense": 998,
+            "health": 2029,
+            "power": 1043
         },
         "lb2": {
-            "attack": 914,
-            "defense": 914,
-            "health": 1658,
-            "power": 932
+            "attack": 1161,
+            "defense": 1143,
+            "health": 2322,
+            "power": 1176
         },
         "cn_skill_info": [
             {
@@ -113444,10 +113444,10 @@ window.allHeroes =
         ],
         "heroId": "castle_wolf_wolfgang_costume_treasure",
         "star": 5,
-        "power": 816,
-        "attack": 766,
-        "defense": 788,
-        "health": 1448,
+        "power": 1148,
+        "attack": 1134,
+        "defense": 1167,
+        "health": 2143,
         "effects": [
             "對所有敵人造成 300% 傷害。",
             "施法者受到的所有傷害降低 -45%，持續 4 回合。",
@@ -113462,16 +113462,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1617,
         "lb1": {
-            "attack": 825,
-            "defense": 850,
-            "health": 1560,
-            "power": 870
+            "attack": 1222,
+            "defense": 1258,
+            "health": 2309,
+            "power": 1228
         },
         "lb2": {
-            "attack": 944,
-            "defense": 972,
-            "health": 1785,
-            "power": 977
+            "attack": 1398,
+            "defense": 1439,
+            "health": 2642,
+            "power": 1387
         },
         "cn_skill_info": [
             {
@@ -113809,10 +113809,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elemental_zandria_costume_planet",
         "star": 5,
-        "power": 896,
-        "attack": 824,
-        "defense": 873,
-        "health": 1705,
+        "power": 1254,
+        "attack": 1203,
+        "defense": 1275,
+        "health": 2507,
         "effects": [
             "對所有敵人造成 250% 傷害。",
             "面板中每個神聖護盾將造成 25% 额外傷害，最多累積造成 550% 傷害。",
@@ -113831,16 +113831,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1622,
         "lb1": {
-            "attack": 888,
-            "defense": 941,
-            "health": 1838,
-            "power": 956
+            "attack": 1296,
+            "defense": 1374,
+            "health": 2702,
+            "power": 1341
         },
         "lb2": {
-            "attack": 1016,
-            "defense": 1076,
-            "health": 2103,
-            "power": 1076
+            "attack": 1483,
+            "defense": 1572,
+            "health": 3091,
+            "power": 1516
         },
         "cn_skill_info": [
             {
@@ -114041,10 +114041,10 @@ window.allHeroes =
         ],
         "heroId": "s4_zekena_costume_vines",
         "star": 5,
-        "power": 812,
-        "attack": 805,
-        "defense": 745,
-        "health": 1409,
+        "power": 1029,
+        "attack": 1047,
+        "defense": 969,
+        "health": 1902,
         "effects": [
             "對目標造成 400% 傷害。",
             "對一名隨機的不同的敵人造成 400% 傷害。如果目標為暗黑系可造成額外傷害。",
@@ -114057,16 +114057,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1625,
         "lb1": {
-            "attack": 868,
-            "defense": 803,
-            "health": 1518,
-            "power": 866
+            "attack": 1128,
+            "defense": 1044,
+            "health": 2049,
+            "power": 1098
         },
         "lb2": {
-            "attack": 993,
-            "defense": 919,
-            "health": 1737,
-            "power": 973
+            "attack": 1291,
+            "defense": 1195,
+            "health": 2345,
+            "power": 1239
         },
         "cn_skill_info": [
             {
@@ -114246,10 +114246,10 @@ window.allHeroes =
         ],
         "heroId": "kingdom_zhang_fei_costume_bear_slayer",
         "star": 5,
-        "power": 836,
-        "attack": 885,
-        "defense": 737,
-        "health": 1396,
+        "power": 1105,
+        "attack": 1195,
+        "defense": 995,
+        "health": 2025,
         "effects": [
             "對目標造成 520% 傷害。",
             "目標在 3 回合內受到共計 390 點流血傷害。",
@@ -114265,16 +114265,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1628,
         "lb1": {
-            "attack": 954,
-            "defense": 794,
-            "health": 1505,
-            "power": 891
+            "attack": 1288,
+            "defense": 1072,
+            "health": 2182,
+            "power": 1181
         },
         "lb2": {
-            "attack": 1092,
-            "defense": 909,
-            "health": 1722,
-            "power": 1002
+            "attack": 1474,
+            "defense": 1227,
+            "health": 2497,
+            "power": 1334
         },
         "cn_skill_info": [
             {
@@ -114386,10 +114386,10 @@ window.allHeroes =
         ],
         "heroId": "kingdom_zhuge_liang_costume_crane",
         "star": 5,
-        "power": 835,
-        "attack": 704,
-        "defense": 881,
-        "health": 1551,
+        "power": 1105,
+        "attack": 951,
+        "defense": 1190,
+        "health": 2249,
         "effects": [
             "為每個盟友召喚一個蜀國戰士小兵，其可從施法者繼承 33% 生命值與 33% 攻擊。",
             "蜀軍小兵被召喚後，只要其所有者擁有蜀軍小兵，其所有者就能以所受傷害的 55% 作出反擊。此效果無法驅散。",
@@ -114406,16 +114406,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1630,
         "lb1": {
-            "attack": 759,
-            "defense": 950,
-            "health": 1671,
-            "power": 890
+            "attack": 1024,
+            "defense": 1282,
+            "health": 2423,
+            "power": 1181
         },
         "lb2": {
-            "attack": 868,
-            "defense": 1087,
-            "health": 1912,
-            "power": 1000
+            "attack": 1172,
+            "defense": 1467,
+            "health": 2773,
+            "power": 1334
         },
         "cn_skill_info": [
             {

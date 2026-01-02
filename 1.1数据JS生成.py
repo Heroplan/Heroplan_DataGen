@@ -150,34 +150,49 @@ SPECIAL_COSTUME_HEROES = {
 
 IGNORABLE_SUFFIXES = {'dark', 'holy', 'ice', 'nature', 'fire', 'red'}
 
+# --- 新增：百分比解析函数 ---
+def parse_percentage(val):
+    """将 '5%' 转换为 0.05，如果无效则返回 0.0"""
+    if not isinstance(val, str) or '%' not in val:
+        return 0.0
+    try:
+        return float(val.replace('%', '').strip()) / 100.0
+    except:
+        return 0.0
 
-# --- 属性计算函数 ---
-def calculate_base_stats(base_attack, base_defense, base_health, rarity):
+# --- 属性计算函数 (修改版：支持 bonuses) ---
+def calculate_base_stats(base_attack, base_defense, base_health, rarity, bonuses=None):
     """
-    计算基础加成后的属性（Max Level不含LB）
+    计算基础加成后的属性（Max Level不含LB），并应用加成（如果有）。
+    bonuses 格式: {'attack': 0.05, 'defense': 0.05, ...}
     """
+    if bonuses is None: bonuses = {}
     params = RARITY_PARAMS.get(rarity, {"m1": 0, "m2": 0, "lb1": 0, "lb2": 0})
     m1, m2 = params["m1"], params["m2"]
     
-    def calc_attribute(base_value):
+    def calc_attribute(base_value, bonus_pct):
+        # 1. 基础成长计算
         val = base_value + (base_value * m1 / 1000 * m2)
-        return int(val)
+        # 2. 应用百分比加成 (Base * (1 + Bonus))
+        final_val = val * (1 + bonus_pct)
+        return int(final_val)
     
     return {
-        "attack": calc_attribute(base_attack),
-        "defense": calc_attribute(base_defense),
-        "health": calc_attribute(base_health)
+        "attack": calc_attribute(base_attack, bonuses.get('attack', 0)),
+        "defense": calc_attribute(base_defense, bonuses.get('defense', 0)),
+        "health": calc_attribute(base_health, bonuses.get('health', 0))
     }
 
-def calculate_lb_stats(base_attack, base_defense, base_health, rarity, level):
+def calculate_lb_stats(base_attack, base_defense, base_health, rarity, level, bonuses=None):
     """
-    计算LB属性
+    计算LB属性，并应用加成（如果有）。
     level: 2 for LB1, 3 for LB2
     """
+    if bonuses is None: bonuses = {}
     params = RARITY_PARAMS.get(rarity, {"m1": 0, "m2": 0, "lb1": 0, "lb2": 0})
     m1, m2, lb1_val, lb2_val = params["m1"], params["m2"], params["lb1"], params["lb2"]
     
-    def calc_attribute(base_value):
+    def calc_attribute(base_value, bonus_pct):
         # 第一步：基础加成计算
         val = base_value + (base_value * m1 / 1000 * m2)
         # 第二步：LB1加成
@@ -186,12 +201,15 @@ def calculate_lb_stats(base_attack, base_defense, base_health, rarity, level):
         # 第三步：LB2加成
         if level >= 3:
             val += (base_value * lb2_val / 1000 * 8)
-        return int(val)
+        
+        # 第四步：应用百分比加成
+        final_val = val * (1 + bonus_pct)
+        return int(final_val)
     
     return {
-        "attack": calc_attribute(base_attack),
-        "defense": calc_attribute(base_defense),
-        "health": calc_attribute(base_health)
+        "attack": calc_attribute(base_attack, bonuses.get('attack', 0)),
+        "defense": calc_attribute(base_defense, bonuses.get('defense', 0)),
+        "health": calc_attribute(base_health, bonuses.get('health', 0))
     }
 
 
@@ -223,6 +241,7 @@ def clean_string_for_output(text):
 def calculate_power(attack, defense, hp, star):
     if not all(isinstance(i, (int, float)) for i in [attack, defense, hp, star]): return 0
     star_power_map = {1: 0, 2: 10, 3: 30, 4: 50, 5: 90}
+    # 注意：这里的 attack/defense/hp 应该是包含加成后的最终值，计算出的Power才准确
     power = (0.35 * attack) + (0.28 * defense) + (0.14 * hp) + (5 * 7) + star_power_map.get(star, 0)
     return math.floor(power)
 
@@ -232,6 +251,7 @@ def strip_ignorable_suffix(name):
     if len(parts) > 1 and parts[-1].lower() in IGNORABLE_SUFFIXES:
         return ' '.join(parts[:-1])
     return name
+
 def load_skill_name_txt_dict():
     """
     加载官方技能名：
@@ -605,15 +625,23 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             }
             lb_data = {}
 
-            # --- 本地计算属性逻辑 (替代原有爬虫数据逻辑) ---
+            # --- 本地计算属性逻辑 ---
             # 尝试从 extra 数据中获取基础原始属性值
             base_attack_raw = extra.get('baseAttack', 0)
             base_defense_raw = extra.get('baseDefense', 0)
             base_health_raw = extra.get('baseHealth', 0)
 
+            # --- 原版英雄通常没有attackBonus，但为了代码健壮性，这里检查一下 ---
+            # 如果没有，默认为 0.0
+            main_bonuses = {
+                'attack': parse_percentage(extra.get('attackBonus')),
+                'defense': parse_percentage(extra.get('defenseBonus')),
+                'health': parse_percentage(extra.get('healthBonus')),
+            }
+
             if base_attack_raw > 0:
                 # 1. 计算基础加成后的属性 (Max Level)
-                base_stats = calculate_base_stats(base_attack_raw, base_defense_raw, base_health_raw, current_star)
+                base_stats = calculate_base_stats(base_attack_raw, base_defense_raw, base_health_raw, current_star, bonuses=main_bonuses)
                 common_data['attack'] = base_stats['attack']
                 common_data['defense'] = base_stats['defense']
                 common_data['health'] = base_stats['health']
@@ -621,7 +649,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
 
                 # 2. 计算 LB 属性 (LB1 & LB2)
                 # LB1 (level=2)
-                lb1_calc = calculate_lb_stats(base_attack_raw, base_defense_raw, base_health_raw, current_star, 2)
+                lb1_calc = calculate_lb_stats(base_attack_raw, base_defense_raw, base_health_raw, current_star, 2, bonuses=main_bonuses)
                 lb_data['lb1'] = {
                     'attack': lb1_calc['attack'],
                     'defense': lb1_calc['defense'],
@@ -630,7 +658,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                 }
 
                 # LB2 (level=3)
-                lb2_calc = calculate_lb_stats(base_attack_raw, base_defense_raw, base_health_raw, current_star, 3)
+                lb2_calc = calculate_lb_stats(base_attack_raw, base_defense_raw, base_health_raw, current_star, 3, bonuses=main_bonuses)
                 lb_data['lb2'] = {
                     'attack': lb2_calc['attack'],
                     'defense': lb2_calc['defense'],
@@ -743,18 +771,25 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                     base_attack_raw_c = extra_c.get('baseAttack', 0)
                     base_defense_raw_c = extra_c.get('baseDefense', 0)
                     base_health_raw_c = extra_c.get('baseHealth', 0)
+                    
+                    # --- 提取服装 Bonus ---
+                    costume_bonuses = {
+                        'attack': parse_percentage(extra_c.get('attackBonus')),
+                        'defense': parse_percentage(extra_c.get('defenseBonus')),
+                        'health': parse_percentage(extra_c.get('healthBonus')),
+                    }
 
                     if base_attack_raw_c > 0:
-                        # 1. 计算基础加成后的属性 (Max Level)
-                        base_stats_c = calculate_base_stats(base_attack_raw_c, base_defense_raw_c, base_health_raw_c, current_star)
+                        # 1. 计算基础加成后的属性 (Max Level) - 传入 bonuses
+                        base_stats_c = calculate_base_stats(base_attack_raw_c, base_defense_raw_c, base_health_raw_c, current_star, bonuses=costume_bonuses)
                         common_data_c['attack'] = base_stats_c['attack']
                         common_data_c['defense'] = base_stats_c['defense']
                         common_data_c['health'] = base_stats_c['health']
                         common_data_c['power'] = calculate_power(base_stats_c['attack'], base_stats_c['defense'], base_stats_c['health'], current_star)
 
-                        # 2. 计算 LB 属性 (LB1 & LB2)
+                        # 2. 计算 LB 属性 (LB1 & LB2) - 传入 bonuses
                         # LB1 (level=2)
-                        lb1_calc_c = calculate_lb_stats(base_attack_raw_c, base_defense_raw_c, base_health_raw_c, current_star, 2)
+                        lb1_calc_c = calculate_lb_stats(base_attack_raw_c, base_defense_raw_c, base_health_raw_c, current_star, 2, bonuses=costume_bonuses)
                         lb_data_c['lb1'] = {
                             'attack': lb1_calc_c['attack'],
                             'defense': lb1_calc_c['defense'],
@@ -763,7 +798,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                         }
 
                         # LB2 (level=3)
-                        lb2_calc_c = calculate_lb_stats(base_attack_raw_c, base_defense_raw_c, base_health_raw_c, current_star, 3)
+                        lb2_calc_c = calculate_lb_stats(base_attack_raw_c, base_defense_raw_c, base_health_raw_c, current_star, 3, bonuses=costume_bonuses)
                         lb_data_c['lb2'] = {
                             'attack': lb2_calc_c['attack'],
                             'defense': lb2_calc_c['defense'],
