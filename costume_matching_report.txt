@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (493 / 0)
+✅ 成功匹配的服装 (494 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -149,6 +149,7 @@ Name: Faiez Costume1, Fancy Name: Fortuitous Miner
 Name: Aegir Costume1, Fancy Name: Frozen Farmer
 Name: Joukahainen Costume1, Fancy Name: Frozen Hunter
 Name: Joon Costume1, Fancy Name: Fury of the Sun
+Name: Anzia costume1, Fancy Name: Galactic Jailer
 Name: Archie Costume1, Fancy Name: Gallant Llama Troubadour
 Name: Graymane Costume1, Fancy Name: Garlic Thief
 Name: Wang Yuanji Costume1, Fancy Name: Gentle Calligrapher

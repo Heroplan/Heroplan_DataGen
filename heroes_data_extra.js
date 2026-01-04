@@ -42677,5 +42677,35 @@ window.allHeroesExtra = [
             "resist_defense_modifier_debuffs"
         ],
         "family": "hotm2026"
+    },
+    {
+        "name": "Anzia costume1",
+        "fancy name": "Galactic Jailer",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
+        "Release date": "2026-01-02",
+        "AetherPower": "Regen",
+        "skill_types": [
+            "Counterattackers",
+            "Mana Raisers",
+            "Damage Reducers"
+        ],
+        "heroId": "elemental_anzia_costume_jailer",
+        "baseAttack": 399,
+        "baseDefense": 411,
+        "baseHealth": 884,
+        "specialId": "radiant_comeback",
+        "specialId_costume": "radiant_shackles",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "46%",
+        "defenseBonus": "46%",
+        "healthBonus": "47%",
+        "manaBonus": "5%",
+        "family": "super_elemental"
     }
 ];

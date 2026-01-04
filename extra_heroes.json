@@ -24,17 +24,6 @@
         "Lottery_Only":1
     },
     {
-        "name": "Anzia C1",
-        "fancy_name": "Galactic Jailer",
-        "color": "Blue",
-        "Release date": "",
-        "star": 5,
-        "family": "super_elemental",
-        "costume_id": 1,
-        "heroId": "elemental_anzia_costume_jailer",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Porthos C1",
         "fancy_name": "Merchant Musketeer",
         "color": "Blue",

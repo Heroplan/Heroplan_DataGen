@@ -984,5 +984,10 @@
   "Heal on damage dealt Buff 4": "4个单位伤害治疗增益",
   "Dispels 2 buffs All": "全体移除2个增益",
   "Ailments Immunity Buff All": "全体状态异常免疫增益",
-  "Cover Random 1": "掩护1个单位"
+  "Cover Random 1": "掩护1个单位",
+  "Mana on Counterattack All Ice": "全体冰属性反击时获得法力",
+  "Mana Gen Buff Minion": "小兵法力生成增益",
+  "Attack Buff All against boosted HP": "对拥有生命值加成目标全体攻击增益",
+  "Defense Buffs Dispeller": "防御增益驱散者",
+  "Defense Buffs Immunity All": "全体防御增益免疫"
 }
