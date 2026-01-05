@@ -6798,6 +6798,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Atk - Bypass Dodge",
                     "Mana - Mana Gain (on Kill)",
                     "Heal - Self Recovery / Boost Health"
                 ]
@@ -7953,6 +7954,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Atk - Bypass Dodge",
                     "Heal - Self Recovery / Boost Health",
                     "Mana - Mana Gain (on Kill)"
                 ]
@@ -10800,6 +10802,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Atk - Bypass Dodge",
                     "Atk - Destroy Minions",
                     "Mana - Mana Gain (on Kill)",
                     "Heal - Self Recovery / Boost Health"
@@ -11188,6 +11191,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Atk - Bypass Dodge",
                     "Atk - Destroy Minions",
                     "Mana - Mana Gain (on Kill)",
                     "Heal - Self Recovery / Boost Health"
@@ -31251,6 +31255,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Atk - Bypass Dodge",
                     "Heal - Self Recovery / Boost Health",
                     "Mana - Mana Gain (on Kill)"
                 ]
@@ -34364,6 +34369,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Atk - Bypass Dodge",
                     "Atk - Destroy Minions",
                     "Mana - Mana Gain (on Kill)",
                     "Heal - Self Recovery / Boost Health"
@@ -34670,6 +34676,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Atk - Bypass Dodge",
                     "Atk - Destroy Minions",
                     "Mana - Mana Gain (on Kill)",
                     "Heal - Self Recovery / Boost Health"
@@ -54358,6 +54365,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Atk - Bypass Dodge",
                     "Heal - Self Recovery / Boost Health",
                     "Mana - Mana Gain (on Kill)"
                 ]
@@ -57217,6 +57225,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Atk - Bypass Dodge",
                     "Atk - Destroy Minions",
                     "Mana - Mana Gain (on Kill)",
                     "Heal - Self Recovery / Boost Health"
@@ -57370,6 +57379,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Atk - Bypass Dodge",
                     "Atk - Destroy Minions",
                     "Mana - Mana Gain (on Kill)",
                     "Heal - Self Recovery / Boost Health"
@@ -76510,6 +76520,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Atk - Bypass Dodge",
                     "Mana - Mana Gain (on Kill)",
                     "Heal - Self Recovery / Boost Health"
                 ]
@@ -77386,6 +77397,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Atk - Bypass Dodge",
                     "Heal - Self Recovery / Boost Health",
                     "Mana - Mana Gain (on Kill)"
                 ]
@@ -81635,6 +81647,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Atk - Bypass Dodge",
                     "Atk - Destroy Minions",
                     "Mana - Mana Gain (on Kill)",
                     "Heal - Self Recovery / Boost Health"
@@ -82041,6 +82054,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Atk - Bypass Dodge",
                     "Atk - Destroy Minions",
                     "Mana - Mana Gain (on Kill)",
                     "Heal - Self Recovery / Boost Health"
@@ -99694,7 +99708,7 @@ window.allHeroes =
             "Bypassers"
         ],
         "source": "Bazaar Summon",
-        "Release date": "2200-01-01",
+        "Release date": "2026-01-06",
         "specialId": "aether_mimic_bite_yellow",
         "passiveSkills": [
             "mimic_aether_yellow",
@@ -99745,6 +99759,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Atk - Bypass Dodge",
                     "Mana - Mana Gain (on Kill)",
                     "Heal - Self Recovery / Boost Health"
                 ]
@@ -100453,6 +100468,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Atk - Bypass Dodge",
                     "Heal - Self Recovery / Boost Health",
                     "Mana - Mana Gain (on Kill)"
                 ]
@@ -102354,6 +102370,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Atk - Bypass Dodge",
                     "Atk - Destroy Minions",
                     "Mana - Mana Gain (on Kill)",
                     "Heal - Self Recovery / Boost Health"
@@ -102812,6 +102829,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
+                    "Atk - Bypass Dodge",
                     "Atk - Destroy Minions",
                     "Mana - Mana Gain (on Kill)",
                     "Heal - Self Recovery / Boost Health"
