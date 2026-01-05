@@ -8450,7 +8450,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.blackfriday_7_1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -8479,7 +8478,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.blackfriday_7_2",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -8518,7 +8516,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.blackfriday_7_3",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -20633,7 +20630,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic5_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -23864,7 +23860,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_fire_1",
         "dollarValue": 2,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23888,7 +23883,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_fire_2",
         "dollarValue": 3,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23912,7 +23906,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_fire_3",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23936,7 +23929,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_fire_4",
         "dollarValue": 20,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23965,7 +23957,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_fire_5",
         "dollarValue": 50,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -25670,7 +25661,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.blackfriday_sat1",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -25704,7 +25694,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.blackfriday_sat2",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -25743,7 +25732,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.blackfriday_sat3",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -25832,7 +25820,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.blackfriday_sun1",
         "dollarValue": 3,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -25856,7 +25843,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.blackfriday_sun2",
         "dollarValue": 25,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -25895,7 +25881,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.blackfriday_sun3",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29527,7 +29512,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.cybermonday2023_day1_1",
         "dollarValue": 3,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29548,7 +29532,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.cybermonday2023_day1_2",
         "dollarValue": 7,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29573,7 +29556,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.cybermonday2023_day1_3",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29617,7 +29599,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.cybermonday2023_day2_1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29646,7 +29627,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.cybermonday2023_day2_2",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29690,7 +29670,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.cybermonday2023_day2_3",
         "dollarValue": 50,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29726,7 +29705,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.cybermonday2023_day3_1",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29751,7 +29729,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.cybermonday2023_day3_2",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29783,7 +29760,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.cybermonday2023_day3_3",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35256,7 +35232,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_cmonday2024_1a",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35295,7 +35270,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_cmonday2024_1b",
         "dollarValue": 7,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35329,7 +35303,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_cmonday2024_2a",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35363,7 +35336,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_cmonday2024_2b",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35397,7 +35369,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_cmonday2024_3",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35441,7 +35412,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_bfriday2024_1a",
         "dollarValue": 3,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35465,7 +35435,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_bfriday2024_1b",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35489,7 +35458,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_bfriday2024_2a",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35523,7 +35491,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_bfriday2024_2b",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35557,7 +35524,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_bfriday2024_3",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36029,7 +35995,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic3_alliancegift",
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -58218,5 +58184,5 @@
       }
     ]
   },
-  "productsConfigId": 27314107
+  "productsConfigId": 702956998
 }

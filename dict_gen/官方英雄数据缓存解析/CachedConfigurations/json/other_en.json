@@ -2770,6 +2770,12 @@
             "type": "MysteryHero",
             "startTime": "2025-12-12 07:00:00",
             "endTime": "2025-12-13 07:00:00"
+          },
+          {
+            "id": "SecretSummonAetherMimicYellow",
+            "type": "MysteryHero",
+            "startTime": "2026-01-06 07:00:00",
+            "endTime": "2026-01-07 07:00:00"
           }
         ],
         "challengeEventEntries": [
@@ -2816,7 +2822,7 @@
             "featuredHeroes": [
               "beowulf_hygd",
               "beowulf_hrothgar",
-              "beowulf_wealhtheow"
+              "beowulf_freawaru"
             ],
             "eventBonus": "event_hero_bonus_challenge_events",
             "startTime": "2026-01-09 07:00:00",
@@ -82929,5 +82935,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 915241194
+  "otherConfigId": 4129010383
 }

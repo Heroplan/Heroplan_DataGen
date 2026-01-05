@@ -42707,5 +42707,34 @@ window.allHeroesExtra = [
         "healthBonus": "47%",
         "manaBonus": "5%",
         "family": "super_elemental"
+    },
+    {
+        "name": "Aether Mimic Holy",
+        "fancy name": "Starved Storage of Rods",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
+        "Release date": "2026-01-06",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "Snipers",
+            "Healers (Special)",
+            "Health Boosters",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers"
+        ],
+        "heroId": "mimic_aether_yellow",
+        "baseAttack": 647,
+        "baseDefense": 647,
+        "baseHealth": 1097,
+        "specialId": "aether_mimic_bite_yellow",
+        "passiveSkills": [
+            "mimic_aether_yellow",
+            "never_miss_special"
+        ],
+        "family": "mimic"
     }
 ];

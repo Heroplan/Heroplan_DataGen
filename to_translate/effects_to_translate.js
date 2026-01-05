@@ -13774,6 +13774,16 @@ const allTranslations =
     },
     {
         "originalIndex": 1428,
+        "name": "Aether Mimic Holy",
+        "effects": [
+            "Deals 600% damage to the target.",
+            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "Boosts all allies' health by 30% of damage dealt.",
+            "The Mimic chest closes for 2 turns."
+        ]
+    },
+    {
+        "originalIndex": 1429,
         "name": "Akkorog",
         "effects": [
             "Rearranges the enemy positions randomly.",
@@ -13781,7 +13791,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1429,
+        "originalIndex": 1430,
         "name": "Akkorog C1",
         "effects": [
             "Rearranges the enemy positions randomly.",
@@ -13790,7 +13800,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1430,
+        "originalIndex": 1431,
         "name": "Albin",
         "effects": [
             "Deals 440% damage to all enemies.",
@@ -13799,7 +13809,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1431,
+        "originalIndex": 1432,
         "name": "Alvar",
         "effects": [
             "Lifts all cleansable status ailments from all allies and randomly distributes them on enemies.",
@@ -13809,7 +13819,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1432,
+        "originalIndex": 1433,
         "name": "Amund",
         "effects": [
             "Deals 350% damage to all enemies.",
@@ -13819,7 +13829,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1433,
+        "originalIndex": 1434,
         "name": "Anne",
         "effects": [
             "Deals 550% damage to the target.",
@@ -13828,7 +13838,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1434,
+        "originalIndex": 1435,
         "name": "Anteros",
         "effects": [
             "This Special Skill never misses its targets.",
@@ -13839,7 +13849,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1435,
+        "originalIndex": 1436,
         "name": "Aouda",
         "effects": [
             "Deals 450% damage to the target.",
@@ -13847,7 +13857,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1436,
+        "originalIndex": 1437,
         "name": "Aouda C1",
         "effects": [
             "Deals 250% damage to the target.",
@@ -13855,7 +13865,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1437,
+        "originalIndex": 1438,
         "name": "Ascension Mimic Holy",
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
@@ -13865,7 +13875,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1438,
+        "originalIndex": 1439,
         "name": "Ashen",
         "effects": [
             "If the caster is recovering health:",
@@ -13877,7 +13887,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1439,
+        "originalIndex": 1440,
         "name": "Astrid",
         "effects": [
             "Recovers 50% health for all allies.",
@@ -13886,7 +13896,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1440,
+        "originalIndex": 1441,
         "name": "Auricarc",
         "effects": [
             "Steals all Minions or a Mega Minion from the target.",
@@ -13896,7 +13906,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1441,
+        "originalIndex": 1442,
         "name": "Aurox",
         "effects": [
             "Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.",
@@ -13906,7 +13916,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1442,
+        "originalIndex": 1443,
         "name": "Aviana",
         "effects": [
             "Deals 330% damage to the target and nearby enemies.",
@@ -13916,7 +13926,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1443,
+        "originalIndex": 1444,
         "name": "Bai Yeong",
         "effects": [
             "Deals 390% damage to the target.",
@@ -13926,7 +13936,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1444,
+        "originalIndex": 1445,
         "name": "Baishu",
         "effects": [
             "Steals the latest status effect buff from all enemies and randomly distributes them on allies.",
@@ -13936,7 +13946,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1445,
+        "originalIndex": 1446,
         "name": "Bragi",
         "effects": [
             "Attacks the target with Frostfall Strike, dealing up to 2500 damage. Deals 40% more if the target is of the Fire element.  This Special Skill never misses its targets.",
@@ -13945,7 +13955,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1446,
+        "originalIndex": 1447,
         "name": "Caitlin",
         "effects": [
             "Dispels buffs from all enemies.",
@@ -13956,7 +13966,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1447,
+        "originalIndex": 1448,
         "name": "Caitlin C1",
         "effects": [
             "Dispels buffs from all enemies.",
@@ -13967,7 +13977,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1448,
+        "originalIndex": 1449,
         "name": "Celidana",
         "effects": [
             "Boosts health of the caster and nearby allies by 1100. Boosted health can exceed max HP.",
@@ -13977,7 +13987,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1449,
+        "originalIndex": 1450,
         "name": "Christine Daae",
         "effects": [
             "Deals 355% damage to the target and nearby enemies.",
@@ -13990,7 +14000,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1450,
+        "originalIndex": 1451,
         "name": "Cleopatra",
         "effects": [
             "Recovers 65% health for all allies.",
@@ -13998,7 +14008,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1451,
+        "originalIndex": 1452,
         "name": "Cleopatra C1",
         "effects": [
             "Recovers 60% health for all allies.",
@@ -14006,7 +14016,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1452,
+        "originalIndex": 1453,
         "name": "Constance",
         "effects": [
             "Deals 230% damage to all enemies.",
@@ -14014,7 +14024,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1453,
+        "originalIndex": 1454,
         "name": "Dabria",
         "effects": [
             "Each fallen ally has a 40% chance to get revived with 20% HP.",
@@ -14023,7 +14033,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1454,
+        "originalIndex": 1455,
         "name": "Delilah",
         "effects": [
             "Recovers 40% health for all allies",
@@ -14032,7 +14042,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1455,
+        "originalIndex": 1456,
         "name": "Delilah C1",
         "effects": [
             "Recovers 37% health for all allies.",
@@ -14041,7 +14051,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1456,
+        "originalIndex": 1457,
         "name": "Devana",
         "effects": [
             "Deals 315% damage to the target and nearby enemies.",
@@ -14052,7 +14062,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1457,
+        "originalIndex": 1458,
         "name": "Director Zuri",
         "effects": [
             "Recovers 65% health for the ally with the lowest ramining HP. All other allies recover 42% health.",
@@ -14061,7 +14071,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1458,
+        "originalIndex": 1459,
         "name": "Director Zuri C1",
         "effects": [
             "Recovers 65% health for the ally with the lowest remaining HP. All other allies recover 45% health.",
@@ -14070,7 +14080,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1459,
+        "originalIndex": 1460,
         "name": "Dolores",
         "effects": [
             "For the next 4 turns, this character deals 220% damage and inflicts 15 Insanity to a random target and nearby enemies each time any other ally casts their Special Skill.",
@@ -14080,7 +14090,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1460,
+        "originalIndex": 1461,
         "name": "Drake Fong",
         "effects": [
             "Deals 330% damage to the target and nearby enemies.",
@@ -14089,7 +14099,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1461,
+        "originalIndex": 1462,
         "name": "Drake Fong C1",
         "effects": [
             "Deals 300% damage to the target and nearby enemies.",
@@ -14098,7 +14108,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1462,
+        "originalIndex": 1463,
         "name": "Eloise",
         "effects": [
             "Destroys all Minions from all enemies.",
@@ -14107,7 +14117,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1463,
+        "originalIndex": 1464,
         "name": "Emblem Mimic Holy",
         "effects": [
             "Deals 480% damage to the target.",
@@ -14117,7 +14127,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1464,
+        "originalIndex": 1465,
         "name": "Ephyra",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
@@ -14131,7 +14141,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1465,
+        "originalIndex": 1466,
         "name": "Ephyra C1",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
@@ -14145,7 +14155,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1466,
+        "originalIndex": 1467,
         "name": "Erlang Shen",
         "effects": [
             "Deals 500% damage to the target and minor damage to nearby enemies.",
@@ -14153,7 +14163,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1467,
+        "originalIndex": 1468,
         "name": "Eset",
         "effects": [
             "Deals 250% damage to the target. Deals extra damage is the target is Dark.",
@@ -14162,7 +14172,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1468,
+        "originalIndex": 1469,
         "name": "Eset C1",
         "effects": [
             "Deals 260% damage to the target. Deals extra damage if the target is Dark.",
@@ -14171,7 +14181,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1469,
+        "originalIndex": 1470,
         "name": "Experience Mimic Holy",
         "effects": [
             "Destroys all Minions from the target. This effect damages Mega Minions.",
@@ -14181,7 +14191,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1470,
+        "originalIndex": 1471,
         "name": "Faeona",
         "effects": [
             "Recovers 46% health for all allies.",
@@ -14191,7 +14201,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1471,
+        "originalIndex": 1472,
         "name": "Faline",
         "effects": [
             "Deals 330% daamage to the target and nearby enemies.",
@@ -14199,7 +14209,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1472,
+        "originalIndex": 1473,
         "name": "Florencia",
         "effects": [
             "This Special Skill never misses its targets.",
@@ -14209,7 +14219,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1473,
+        "originalIndex": 1474,
         "name": "Frank 'Fangs' Brimwell",
         "effects": [
             "Deals 350% damage to the target and nearby enemies.",
@@ -14219,7 +14229,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1474,
+        "originalIndex": 1475,
         "name": "Furdinand",
         "effects": [
             "Cleanses status ailments from all allies.",
@@ -14230,7 +14240,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1475,
+        "originalIndex": 1476,
         "name": "Furgeant",
         "effects": [
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 4 turns.",
@@ -14240,7 +14250,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1476,
+        "originalIndex": 1477,
         "name": "Gandr",
         "effects": [
             "Attacks all enemies with Firestorm Strike, dealing up to 2200 damage. Deals 40% more if the target is of the Nature element. This Special Skill never misses its targets.",
@@ -14249,7 +14259,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1477,
+        "originalIndex": 1478,
         "name": "Gideon",
         "effects": [
             "Safely cleanses status ailments from all allies. (Safe cleanse bypasses secondary effects, such as damage on removal, from removed status ailment. External effects such as passive skills and family effects can still activate.",
@@ -14258,7 +14268,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1478,
+        "originalIndex": 1479,
         "name": "Gilligan",
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
@@ -14268,7 +14278,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1479,
+        "originalIndex": 1480,
         "name": "Goldrip",
         "effects": [
             "Inflicts the target with Greed for 4 turns. Friendly effects from Special Skills only affect characters with Greed. (Greed prevents all other heroes in the same team from gaining friendly effects. This includes all buffs, healing and growth effects.)",
@@ -14277,7 +14287,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1480,
+        "originalIndex": 1481,
         "name": "Gongniu",
         "effects": [
             "All allies get +54% defense, and a further +5% increase every time they are hit during 3 turns.",
@@ -14286,7 +14296,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1481,
+        "originalIndex": 1482,
         "name": "Gooric",
         "effects": [
             "All allies get +60% attack for 5 turns.",
@@ -14300,7 +14310,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1482,
+        "originalIndex": 1483,
         "name": "Grilka",
         "effects": [
             "If there’s 8 or more Holy shields on the board, then all effects cast in this Special Skill are undispellable.",
@@ -14310,7 +14320,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1483,
+        "originalIndex": 1484,
         "name": "Guardian Elephant",
         "effects": [
             "Deals 160% damage to 9 random enemies.",
@@ -14321,7 +14331,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1484,
+        "originalIndex": 1485,
         "name": "Guardian Gazelle",
         "effects": [
             "Removes all cleansable and uncleansable status effects from all allies except the caster. Removes even status effects that are otherwise undispellable or uncleansable.",
@@ -14334,7 +14344,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1485,
+        "originalIndex": 1486,
         "name": "Guardian Gazelle C1",
         "effects": [
             "Removes all status effects from all allies except the caster. Removes even status effects that are otherwise undispellable or uncleansable.",
@@ -14347,7 +14357,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1486,
+        "originalIndex": 1487,
         "name": "Guardian Owl",
         "effects": [
             "Deals 300% damage to all enemies.",
@@ -14357,7 +14367,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1487,
+        "originalIndex": 1488,
         "name": "Guillemette",
         "effects": [
             "Deals 270% damage to all enemies.",
@@ -14366,7 +14376,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1488,
+        "originalIndex": 1489,
         "name": "Guinevere",
         "effects": [
             "Reduces the mana of all enemies by 20%.",
@@ -14375,7 +14385,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1489,
+        "originalIndex": 1490,
         "name": "Guinevere C1",
         "effects": [
             "Reduces the mana of the target and nearby enemies by 25%.",
@@ -14384,7 +14394,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1490,
+        "originalIndex": 1491,
         "name": "Gwendoline",
         "effects": [
             "Cleanses status ailments from the caster and nearby allies.",
@@ -14398,7 +14408,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1491,
+        "originalIndex": 1492,
         "name": "Gwynn",
         "effects": [
             "Deals 350% damage to all enemies.",
@@ -14408,7 +14418,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1492,
+        "originalIndex": 1493,
         "name": "Hachiko",
         "effects": [
             "Deals 270% damage to all enemies.",
@@ -14417,7 +14427,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1493,
+        "originalIndex": 1494,
         "name": "Halcyon",
         "effects": [
             "Destroys all Minions from the target. This effect damage Mega Minions. (This effect applies to Mega Minions as well but instead of destroying, damage equal to 50% of the Mega Minion’s max health is dealt to the Mega Minion.)",
@@ -14427,7 +14437,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1494,
+        "originalIndex": 1495,
         "name": "Hanitra",
         "effects": [
             "All allies get +45% chance to dodge Special SKills for 3 turns. Each dodge boosts max health by 450. Boosted health cand exceed max HP.",
@@ -14436,7 +14446,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1495,
+        "originalIndex": 1496,
         "name": "Haumri",
         "effects": [
             "Deals 600% damage to the target.",
@@ -14446,7 +14456,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1496,
+        "originalIndex": 1497,
         "name": "Hilda",
         "effects": [
             "Deals 435% damage to the target and nearby enemies.",
@@ -14455,7 +14465,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1497,
+        "originalIndex": 1498,
         "name": "Horus",
         "effects": [
             "Deals 250% damage to target and nearby enemies.",
@@ -14463,7 +14473,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1498,
+        "originalIndex": 1499,
         "name": "Horus C1",
         "effects": [
             "Deals 230% damage to the target and nearby enemies.",
@@ -14471,7 +14481,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1499,
+        "originalIndex": 1500,
         "name": "Iga",
         "effects": [
             "1x Mana Charge",
@@ -14489,7 +14499,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1500,
+        "originalIndex": 1501,
         "name": "Inanis",
         "effects": [
             "Deals 330% damage to the target.",
@@ -14500,7 +14510,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1501,
+        "originalIndex": 1502,
         "name": "Inari",
         "effects": [
             "Deals 180% damage to all enemies.",
@@ -14509,7 +14519,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1502,
+        "originalIndex": 1503,
         "name": "Inari C1",
         "effects": [
             "Deals 210% damage to all enemies.",
@@ -14518,7 +14528,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1503,
+        "originalIndex": 1504,
         "name": "Iron-Heart",
         "effects": [
             "Deals 520% damage to the target.",
@@ -14528,7 +14538,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1504,
+        "originalIndex": 1505,
         "name": "Ironmaw",
         "effects": [
             "Deals 500% damage to the target and all Dark enemies.",
@@ -14537,7 +14547,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1505,
+        "originalIndex": 1506,
         "name": "Ithar",
         "effects": [
             "Steals all dispellable buffs from the target and randomly distributes them on allies.",
@@ -14547,7 +14557,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1506,
+        "originalIndex": 1507,
         "name": "Jana",
         "effects": [
             "Deals 470% damage to the target.",
@@ -14557,7 +14567,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1507,
+        "originalIndex": 1508,
         "name": "Jasper",
         "effects": [
             "All allies regenerate 1428 HP over 6 turns.",
@@ -14567,7 +14577,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1508,
+        "originalIndex": 1509,
         "name": "Jasper C1",
         "effects": [
             "All allies regenerate 1450 HP over 5 turns.",
@@ -14577,7 +14587,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1509,
+        "originalIndex": 1510,
         "name": "Jequn",
         "effects": [
             "Deals 200% damage to all enemies.",
@@ -14588,7 +14598,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1510,
+        "originalIndex": 1511,
         "name": "Jequn C1",
         "effects": [
             "Deals 210% damage to all enemies.",
@@ -14599,7 +14609,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1511,
+        "originalIndex": 1512,
         "name": "Joon",
         "effects": [
             "Deals 468% damage to the target.",
@@ -14607,7 +14617,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1512,
+        "originalIndex": 1513,
         "name": "Joon C1",
         "effects": [
             "Deals 488% damage to the target.",
@@ -14615,7 +14625,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1513,
+        "originalIndex": 1514,
         "name": "Joon C2",
         "effects": [
             "Deals 260% damage to target and nearby enemies.",
@@ -14624,7 +14634,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1514,
+        "originalIndex": 1515,
         "name": "Joon Toon",
         "effects": [
             "Deals 548% damage to the target.",
@@ -14633,7 +14643,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1515,
+        "originalIndex": 1516,
         "name": "Joon Glass",
         "effects": [
             "Deals 558% damage to the target.",
@@ -14642,7 +14652,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1516,
+        "originalIndex": 1517,
         "name": "Jove",
         "effects": [
             "Deals 490% damage to the target, and minor damage to all other enemies.",
@@ -14651,7 +14661,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1517,
+        "originalIndex": 1518,
         "name": "Justice",
         "effects": [
             "Deals 285% damage to all enemies.",
@@ -14659,7 +14669,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1518,
+        "originalIndex": 1519,
         "name": "Justice C1",
         "effects": [
             "Deals 250% damage to all enemies.",
@@ -14668,7 +14678,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1519,
+        "originalIndex": 1520,
         "name": "Justice C2",
         "effects": [
             "Deals 300% damage to all enemies.",
@@ -14677,7 +14687,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1520,
+        "originalIndex": 1521,
         "name": "Justice Toon",
         "effects": [
             "Deals 435% damage to all enemies.",
@@ -14686,7 +14696,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1521,
+        "originalIndex": 1522,
         "name": "Justice Glass",
         "effects": [
             "Deals 445% damage to all enemies.",
@@ -14695,7 +14705,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1522,
+        "originalIndex": 1523,
         "name": "Kara",
         "effects": [
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
@@ -14705,7 +14715,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1523,
+        "originalIndex": 1524,
         "name": "Kullervo",
         "effects": [
             "Deal 300% damage to the target.",
@@ -14714,7 +14724,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1524,
+        "originalIndex": 1525,
         "name": "Kullervo C1",
         "effects": [
             "Deals 450% damage to the target.",
@@ -14723,7 +14733,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1525,
+        "originalIndex": 1526,
         "name": "Kushanku",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana",
@@ -14748,7 +14758,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1526,
+        "originalIndex": 1527,
         "name": "Labblub",
         "effects": [
             "Destroys all Minions from all enemies and damages Mega Minions.",
@@ -14758,7 +14768,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1527,
+        "originalIndex": 1528,
         "name": "Lando",
         "effects": [
             "Safely cleanses status ailments for all allies.",
@@ -14767,7 +14777,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1528,
+        "originalIndex": 1529,
         "name": "Laohu",
         "effects": [
             "Deals 605% damage to the target.",
@@ -14775,7 +14785,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1529,
+        "originalIndex": 1530,
         "name": "Lazara",
         "effects": [
             "Cleanses status ailments from all allies without triggering secondary effects.",
@@ -14785,7 +14795,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1530,
+        "originalIndex": 1531,
         "name": "Lemonwood",
         "effects": [
             "This Special Skill never misses its targets.",
@@ -14795,7 +14805,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1531,
+        "originalIndex": 1532,
         "name": "Leonidas",
         "effects": [
             "Deals 415% damage to the target.",
@@ -14804,7 +14814,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1532,
+        "originalIndex": 1533,
         "name": "Leonidas C1",
         "effects": [
             "Deals 390% damage to the target and minor damage to nearby enemies",
@@ -14813,7 +14823,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1533,
+        "originalIndex": 1534,
         "name": "Leonidas C2",
         "effects": [
             "Deals 240% damage to all enemies.",
@@ -14822,7 +14832,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1534,
+        "originalIndex": 1535,
         "name": "Leonidas Toon",
         "effects": [
             "Deals 565% damage to the target.",
@@ -14832,7 +14842,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1535,
+        "originalIndex": 1536,
         "name": "Leonidas Glass",
         "effects": [
             "Deals 575% damage to the target.",
@@ -14842,7 +14852,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1536,
+        "originalIndex": 1537,
         "name": "Livia",
         "effects": [
             "Lifts all cleansable status ailments from the caster and nearby allies and randomly distributes them on enemies.",
@@ -14852,7 +14862,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1537,
+        "originalIndex": 1538,
         "name": "Lyria",
         "effects": [
             "Deals 475% damage to the target.",
@@ -14862,7 +14872,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1538,
+        "originalIndex": 1539,
         "name": "Malin",
         "effects": [
             "Deals 325% damage to all enemies.",
@@ -14873,7 +14883,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1539,
+        "originalIndex": 1540,
         "name": "Malosi",
         "effects": [
             "Deals 400% damage to the target.",
@@ -14882,7 +14892,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1540,
+        "originalIndex": 1541,
         "name": "Matilda",
         "effects": [
             "All enemies receive 330 Poison damage over 3 turns.",
@@ -14894,7 +14904,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1541,
+        "originalIndex": 1542,
         "name": "May",
         "effects": [
             "Growth: All allies get 150 attack and 150 defense.",
@@ -14904,7 +14914,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1542,
+        "originalIndex": 1543,
         "name": "Meg Giry",
         "effects": [
             "Recovers 60% health for all allies.",
@@ -14914,7 +14924,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1543,
+        "originalIndex": 1544,
         "name": "Melodymuse",
         "effects": [
             "Boosts health of all allies by 710. Boosted health can exceed max HP.",
@@ -14922,7 +14932,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1544,
+        "originalIndex": 1545,
         "name": "Meresankh",
         "effects": [
             "Deals 130% damage to all enemies.",
@@ -14932,7 +14942,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1545,
+        "originalIndex": 1546,
         "name": "Meresankh C1",
         "effects": [
             "Deals 180% damage to all enemies.",
@@ -14942,7 +14952,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1546,
+        "originalIndex": 1547,
         "name": "Mica",
         "effects": [
             "1x Mana Charge",
@@ -14960,7 +14970,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1547,
+        "originalIndex": 1548,
         "name": "Moonbell",
         "effects": [
             "Summons an Astral Sphere Minion for each ally with 35% HP and 39% attack inherited from the caster.",
@@ -14970,7 +14980,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1548,
+        "originalIndex": 1549,
         "name": "Motega",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
@@ -14985,7 +14995,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1549,
+        "originalIndex": 1550,
         "name": "Mother Lemminkainen",
         "effects": [
             "Each defeated ally has a 60% chance to get revived with 20% HP.",
@@ -14994,7 +15004,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1550,
+        "originalIndex": 1551,
         "name": "Motsognir",
         "effects": [
             "All allies get a Frostfall Ward for 4 turns, that reduces incoming Special Skill damage up to -1400. Reduces damage by additional 30% when the attacker is of Fire element.",
@@ -15004,7 +15014,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1551,
+        "originalIndex": 1552,
         "name": "Musashi",
         "effects": [
             "Deals 362% damage to the target and minor damage to nearby enemies",
@@ -15013,7 +15023,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1552,
+        "originalIndex": 1553,
         "name": "Musashi C1",
         "effects": [
             "Deals 350% damage to the target and minor damage to nearby enemies.",
@@ -15022,7 +15032,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1553,
+        "originalIndex": 1554,
         "name": "Neith",
         "effects": [
             "Deals 200% damage to all enemies",
@@ -15032,7 +15042,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1554,
+        "originalIndex": 1555,
         "name": "Nemesis",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
@@ -15049,7 +15059,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1555,
+        "originalIndex": 1556,
         "name": "Nithgaest",
         "effects": [
             "Deals 335% damage to the target and nearby enemies.",
@@ -15058,7 +15068,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1556,
+        "originalIndex": 1557,
         "name": "Norns",
         "effects": [
             "Deals 280% damage to the target and nearby enemies.",
@@ -15066,7 +15076,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1557,
+        "originalIndex": 1558,
         "name": "Norns C1",
         "effects": [
             "Deals 300% damage to the target and nearby enemies.",
@@ -15074,7 +15084,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1558,
+        "originalIndex": 1559,
         "name": "Odin",
         "effects": [
             "Deals 100% damage to all enemies.",
@@ -15083,7 +15093,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1559,
+        "originalIndex": 1560,
         "name": "Odin C1",
         "effects": [
             "Deals 90% damage to all enemies.",
@@ -15092,7 +15102,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1560,
+        "originalIndex": 1561,
         "name": "Ogima",
         "effects": [
             "Destroys all Minions for all enemies and damages all Mega Minions.",
@@ -15102,7 +15112,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1561,
+        "originalIndex": 1562,
         "name": "Onatel",
         "effects": [
             "Deals 330% damage to the target and nearby enemies",
@@ -15111,7 +15121,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1562,
+        "originalIndex": 1563,
         "name": "Papyros",
         "effects": [
             "Sand Golem Minion has 14% HP and 18% attack inherited from the caster. Each time the Sand Golem Minion is attacked by normal attacks or Special Skills, the attacker receives 294 Sand damage over 3 turns.",
@@ -15119,7 +15129,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1563,
+        "originalIndex": 1564,
         "name": "Papyros C1",
         "effects": [
             "Summons a Sand Golem Minion for each ally with 20% HP and 25% attack inherited from the caster.",
@@ -15128,7 +15138,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1564,
+        "originalIndex": 1565,
         "name": "Penolite",
         "effects": [
             "Deals 245% damage to all enemies.",
@@ -15137,7 +15147,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1565,
+        "originalIndex": 1566,
         "name": "Persa",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
@@ -15152,7 +15162,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1566,
+        "originalIndex": 1567,
         "name": "Persa C1",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
@@ -15167,7 +15177,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1567,
+        "originalIndex": 1568,
         "name": "Pertinax",
         "effects": [
             "Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1620 damage. Deals 40% more damage if the target of the Holy element. This Special Skill Never misses its targets",
@@ -15178,7 +15188,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1568,
+        "originalIndex": 1569,
         "name": "Philomena",
         "effects": [
             "Deals 500% damage to the target and minor damage to nearby enemies.",
@@ -15187,7 +15197,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1569,
+        "originalIndex": 1570,
         "name": "Poseidon",
         "effects": [
             "Deals 450% damage to the target.",
@@ -15196,7 +15206,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1570,
+        "originalIndex": 1571,
         "name": "Poseidon C1",
         "effects": [
             "Deals 480% damage to the target.",
@@ -15204,7 +15214,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1571,
+        "originalIndex": 1572,
         "name": "Prof. Lidenbrock",
         "effects": [
             "Cleanses status ailments from all allies.",
@@ -15213,7 +15223,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1572,
+        "originalIndex": 1573,
         "name": "Prof. Lidenbrock C1",
         "effects": [
             "Cleanses status ailments from all allies.",
@@ -15222,7 +15232,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1573,
+        "originalIndex": 1574,
         "name": "Queen Guowang",
         "effects": [
             "Deals 330% damage to all enemies.",
@@ -15231,7 +15241,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1574,
+        "originalIndex": 1575,
         "name": "Rana",
         "effects": [
             "Deals 185% damage to the target and nearby enemies.",
@@ -15241,7 +15251,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1575,
+        "originalIndex": 1576,
         "name": "Rana C1",
         "effects": [
             "Deals 185% damage to the target and nearby enemies.",
@@ -15251,7 +15261,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1576,
+        "originalIndex": 1577,
         "name": "Ranvir",
         "effects": [
             "Deals 265% damage to the target.",
@@ -15260,7 +15270,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1577,
+        "originalIndex": 1578,
         "name": "Ratgrub",
         "effects": [
             "Summons a Rat Princess Mega Minion with 40% HP and 160% attack inherited from the caster.",
@@ -15268,7 +15278,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1578,
+        "originalIndex": 1579,
         "name": "Rhys",
         "effects": [
             "Boost health of all allies by 320. Boosted health can exceed max HP.",
@@ -15278,7 +15288,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1579,
+        "originalIndex": 1580,
         "name": "Roc",
         "effects": [
             "All enemies receive 324 Sand damage over 3 turns.",
@@ -15287,7 +15297,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1580,
+        "originalIndex": 1581,
         "name": "Roc C1",
         "effects": [
             "All enemies receive 780 Sand damage over 4 turns.",
@@ -15296,7 +15306,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1581,
+        "originalIndex": 1582,
         "name": "Rosalind",
         "effects": [
             "Recovers 30% health for all allies.",
@@ -15306,7 +15316,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1582,
+        "originalIndex": 1583,
         "name": "Ruan Xiaoqi",
         "effects": [
             "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero’s overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies’ max health on PVP battles. This effect is stronger against boosted health.)",
@@ -15316,7 +15326,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1583,
+        "originalIndex": 1584,
         "name": "Salniss",
         "effects": [
             "Deals 500% damage to the target.",
@@ -15326,7 +15336,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1584,
+        "originalIndex": 1585,
         "name": "Satinpimenter",
         "effects": [
             "Dispels buffs from the target and nearby enemies.",
@@ -15336,7 +15346,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1585,
+        "originalIndex": 1586,
         "name": "Scrollbeast",
         "effects": [
             "Deals 365% damage to all enemies.",
@@ -15346,7 +15356,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1586,
+        "originalIndex": 1587,
         "name": "Shaal",
         "effects": [
             "Deals 340% damage to all enemies.",
@@ -15356,7 +15366,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1587,
+        "originalIndex": 1588,
         "name": "Shareef",
         "effects": [
             "Deals 400% damage to the target.",
@@ -15366,7 +15376,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1588,
+        "originalIndex": 1589,
         "name": "Shimmerscale",
         "effects": [
             "Deals 300% damage to the target and nearby enemies.",
@@ -15375,7 +15385,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1589,
+        "originalIndex": 1590,
         "name": "Sif",
         "effects": [
             "The caster and nearby allies counterattack with 100% of the damage received for 4 turns.",
@@ -15384,7 +15394,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1590,
+        "originalIndex": 1591,
         "name": "Sif C1",
         "effects": [
             "Increases the mana of the caster and nearby allies by 15%.",
@@ -15393,7 +15403,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1591,
+        "originalIndex": 1592,
         "name": "Silverpaw",
         "effects": [
             "Steals Minions and Mega Minions from target.",
@@ -15402,7 +15412,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1592,
+        "originalIndex": 1593,
         "name": "Sir Roostley",
         "effects": [
             "Deals 310% damage to the target.",
@@ -15411,7 +15421,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1593,
+        "originalIndex": 1594,
         "name": "Sludgus",
         "effects": [
             "Recovers 50% health for all allies.",
@@ -15422,7 +15432,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1594,
+        "originalIndex": 1595,
         "name": "Stravia",
         "effects": [
             "Deals 170% Clawing damage to all enemies. (Deals 255% damage against enemies with Minions or Mega Minions. Enemies with Minions or Mega Minions receive -35% defense for 6 turns.)",
@@ -15432,7 +15442,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1595,
+        "originalIndex": 1596,
         "name": "Tang Sanzang",
         "effects": [
             "Boosts health of all allies by 500. Boosted health can exceed max HP.",
@@ -15441,7 +15451,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1596,
+        "originalIndex": 1597,
         "name": "Thor",
         "effects": [
             "Special Skill has a different effect on consecutive uses, in the following order:",
@@ -15457,7 +15467,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1597,
+        "originalIndex": 1598,
         "name": "Thor C1",
         "effects": [
             "Special Skill has a different effect on consecutive uses, in the following order:",
@@ -15473,7 +15483,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1598,
+        "originalIndex": 1599,
         "name": "Thunderclap",
         "effects": [
             "The caster gets Taunt that prevents enemies from using Special Skill on the caster's allies for 5 turns.",
@@ -15483,7 +15493,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1599,
+        "originalIndex": 1600,
         "name": "Thura",
         "effects": [
             "Deals 355% damage to the target and nearby enemies.",
@@ -15493,7 +15503,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1600,
+        "originalIndex": 1601,
         "name": "Topaz",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
@@ -15512,7 +15522,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1601,
+        "originalIndex": 1602,
         "name": "Uraeus",
         "effects": [
             "Deals 585% damage to the target",
@@ -15522,7 +15532,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1602,
+        "originalIndex": 1603,
         "name": "Ustad Anand",
         "effects": [
             "Deals 355% damage to all enemies.",
@@ -15532,7 +15542,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1603,
+        "originalIndex": 1604,
         "name": "Vaishali",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
@@ -15547,7 +15557,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1604,
+        "originalIndex": 1605,
         "name": "Vaishali C1",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
@@ -15563,7 +15573,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1605,
+        "originalIndex": 1606,
         "name": "Vivica",
         "effects": [
             "Recovers 44% health for all allies",
@@ -15572,7 +15582,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1606,
+        "originalIndex": 1607,
         "name": "Vivica C1",
         "effects": [
             "Recovers 44% health for all allies",
@@ -15581,7 +15591,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1607,
+        "originalIndex": 1608,
         "name": "Vivica C2",
         "effects": [
             "Boosts health of all allies by 670. Boosted health can exceed max HP",
@@ -15590,7 +15600,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1608,
+        "originalIndex": 1609,
         "name": "Vivica Toon",
         "effects": [
             "Recovers 54% health for all allies.",
@@ -15599,7 +15609,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1609,
+        "originalIndex": 1610,
         "name": "Vivica Glass",
         "effects": [
             "Recovers 55% health for all allies.",
@@ -15609,7 +15619,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1610,
+        "originalIndex": 1611,
         "name": "Wayne",
         "effects": [
             "All enemies receive 284 Bleed damage over 2 turns. The caster absorbs 30% of the dealt Bleed damage as health.",
@@ -15617,7 +15627,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1611,
+        "originalIndex": 1612,
         "name": "Wealhtheow",
         "effects": [
             "Heals all allies who have less than 50% HP left to 50% health.",
@@ -15629,7 +15639,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1612,
+        "originalIndex": 1613,
         "name": "Weland",
         "effects": [
             "Deals 475% damage to all enemies.",
@@ -15641,7 +15651,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1613,
+        "originalIndex": 1614,
         "name": "White Rabbit",
         "effects": [
             "Deals 280% Damage to the target and nearby enemies",
@@ -15649,7 +15659,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1614,
+        "originalIndex": 1615,
         "name": "White Rabbit C1",
         "effects": [
             "Deals 260% damage to the target and nearby enemies.",
@@ -15657,7 +15667,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1615,
+        "originalIndex": 1616,
         "name": "Willow",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
@@ -15672,7 +15682,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1616,
+        "originalIndex": 1617,
         "name": "Winnie",
         "effects": [
             "Cleanses status ailments from all allies.",
@@ -15682,7 +15692,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1617,
+        "originalIndex": 1618,
         "name": "Wolfgang",
         "effects": [
             "Deals 250% damage to all enemies.",
@@ -15691,7 +15701,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1618,
+        "originalIndex": 1619,
         "name": "Wolfgang C1",
         "effects": [
             "Deals 300% damage to all enemies.",
@@ -15700,7 +15710,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1619,
+        "originalIndex": 1620,
         "name": "Wu Yong",
         "effects": [
             "This Special Skill has a chance to deal critical hits.",
@@ -15711,7 +15721,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1620,
+        "originalIndex": 1621,
         "name": "Wulfstan",
         "effects": [
             "Steals all dispellable buff from all enemies to the caster.",
@@ -15720,7 +15730,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1621,
+        "originalIndex": 1622,
         "name": "Xavier",
         "effects": [
             "Deals 280% damage to the target.",
@@ -15730,7 +15740,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1622,
+        "originalIndex": 1623,
         "name": "Zandria",
         "effects": [
             "Deals 210% damage to all enemies.",
@@ -15740,7 +15750,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1623,
+        "originalIndex": 1624,
         "name": "Zandria C1",
         "effects": [
             "Deals 250% damage to all enemies.",
@@ -15751,7 +15761,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1624,
+        "originalIndex": 1625,
         "name": "Zazha",
         "effects": [
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -15760,7 +15770,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1625,
+        "originalIndex": 1626,
         "name": "Zekena",
         "effects": [
             "Deals 300% damage to the target.",
@@ -15769,7 +15779,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1626,
+        "originalIndex": 1627,
         "name": "Zekena C1",
         "effects": [
             "Deals 400% damage to the target.",
@@ -15778,7 +15788,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1627,
+        "originalIndex": 1628,
         "name": "Zenuk'wa",
         "effects": [
             "Deals 275% damage to target and nearby enemies.",
@@ -15787,7 +15797,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1628,
+        "originalIndex": 1629,
         "name": "Zhang Fei",
         "effects": [
             "Deals 530% damage to the target.",
@@ -15795,7 +15805,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1629,
+        "originalIndex": 1630,
         "name": "Zhang Fei C1",
         "effects": [
             "Deals 520% damage to the target.",
@@ -15804,7 +15814,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1630,
+        "originalIndex": 1631,
         "name": "Zhuge Liang",
         "effects": [
             "Summons a Shu Soldier Minion for each ally with 16% HP and 17% attack inherited from the caster.",
@@ -15814,7 +15824,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1631,
+        "originalIndex": 1632,
         "name": "Zhuge Liang C1",
         "effects": [
             "Summons a Shu Soldier Minion for each ally with 33% HP and 33% attack inherited from the caster.",
@@ -15824,7 +15834,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1632,
+        "originalIndex": 1633,
         "name": "Zora",
         "effects": [
             "Deals 330% damage to all enemies.",
@@ -15834,132 +15844,132 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1633,
+        "originalIndex": 1634,
         "name": "Experience Mimic Rare",
         "effects": []
     },
     {
-        "originalIndex": 1634,
+        "originalIndex": 1635,
         "name": "Ascension Mimic Epic Holy",
         "effects": []
     },
     {
-        "originalIndex": 1635,
+        "originalIndex": 1636,
         "name": "Porthos C1",
         "effects": []
     },
     {
-        "originalIndex": 1636,
+        "originalIndex": 1637,
         "name": "Njal",
         "effects": []
     },
     {
-        "originalIndex": 1637,
+        "originalIndex": 1638,
         "name": "Hygd",
         "effects": []
     },
     {
-        "originalIndex": 1638,
+        "originalIndex": 1639,
         "name": "Hu Sanniang",
         "effects": []
     },
     {
-        "originalIndex": 1639,
+        "originalIndex": 1640,
         "name": "Chingiriko",
         "effects": []
     },
     {
-        "originalIndex": 1640,
+        "originalIndex": 1641,
         "name": "Laurent",
         "effects": []
     },
     {
-        "originalIndex": 1641,
+        "originalIndex": 1642,
         "name": "Crustee",
         "effects": []
     },
     {
-        "originalIndex": 1642,
+        "originalIndex": 1643,
         "name": "Veer",
         "effects": []
     },
     {
-        "originalIndex": 1643,
+        "originalIndex": 1644,
         "name": "Ibelis",
         "effects": []
     },
     {
-        "originalIndex": 1644,
+        "originalIndex": 1645,
         "name": "Lumi & Taiga",
         "effects": []
     },
     {
-        "originalIndex": 1645,
+        "originalIndex": 1646,
         "name": "Wilcox",
         "effects": []
     },
     {
-        "originalIndex": 1646,
+        "originalIndex": 1647,
         "name": "Zarola C1",
         "effects": []
     },
     {
-        "originalIndex": 1647,
+        "originalIndex": 1648,
         "name": "Voluptas C1",
         "effects": []
     },
     {
-        "originalIndex": 1648,
+        "originalIndex": 1649,
         "name": "Cupido C1",
         "effects": []
     },
     {
-        "originalIndex": 1649,
+        "originalIndex": 1650,
         "name": "Lempi",
         "effects": []
     },
     {
-        "originalIndex": 1650,
+        "originalIndex": 1651,
         "name": "Vernon",
         "effects": []
     },
     {
-        "originalIndex": 1651,
+        "originalIndex": 1652,
         "name": "Vivica Stylish",
         "effects": []
     },
     {
-        "originalIndex": 1652,
+        "originalIndex": 1653,
         "name": "Richard Stylish",
         "effects": []
     },
     {
-        "originalIndex": 1653,
+        "originalIndex": 1654,
         "name": "Sartana Stylish",
         "effects": []
     },
     {
-        "originalIndex": 1654,
+        "originalIndex": 1655,
         "name": "Azlar Stylish",
         "effects": []
     },
     {
-        "originalIndex": 1655,
+        "originalIndex": 1656,
         "name": "Boldtusk Stylish",
         "effects": []
     },
     {
-        "originalIndex": 1656,
+        "originalIndex": 1657,
         "name": "Grimm Stylish",
         "effects": []
     },
     {
-        "originalIndex": 1657,
+        "originalIndex": 1658,
         "name": "Gan Ju Stylish",
         "effects": []
     },
     {
-        "originalIndex": 1658,
+        "originalIndex": 1659,
         "name": "Jahangir Stylish",
         "effects": []
     }
