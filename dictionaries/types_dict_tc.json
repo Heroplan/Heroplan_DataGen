@@ -989,5 +989,6 @@
   "Mana Gen Buff Minion": "小兵法力生成增益",
   "Attack Buff All against boosted HP": "對擁有生命值加成目標全體攻擊增益",
   "Defense Buffs Dispeller": "防禦增益驅散者",
-  "Defense Buffs Immunity All": "全體防禦增益免疫"
+  "Defense Buffs Immunity All": "全體防禦增益免疫",
+  "SS Defense Debuff All Fire": "全體火屬性特殊技能防禦減益"
 }

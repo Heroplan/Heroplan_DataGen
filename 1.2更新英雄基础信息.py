@@ -176,6 +176,7 @@ def calculate_costume_bonus(hero_extra_entry, rarity, costume_bonuses_id):
         elif "costume2" in hero_name: costume_number = 2
         elif "toon" in hero_name: costume_number = 3 if rarity >= 4 else 2
         elif "glass" in hero_name: costume_number = 4 if rarity >= 4 else 3
+        elif "stylish" in hero_name: costume_number = 5 if rarity >= 4 else 4
         
         stages_per_costume = 4 if rarity >= 4 else 3 # 4/5星英雄每套服装有4个奖励阶段, 3星是3个
         target_index = (costume_number * stages_per_costume) - 1
@@ -206,7 +207,7 @@ def main_sync_process():
     # 初始化全局变量
     SYNC_LOG, COSTUMES_IN_EXTRA_DATA, MATCHED_COSTUMES, BONUS_CALCULATION_FAILURES, CORRECTION_LOG_MESSAGES = {'unmatched': [], 'mismatched_dimension': [], 'successful': []}, set(), set(), [], []
     bonus_calculated_count = 0
-    costume_keywords = ["costume1", "costume2", "toon", "glass"]
+    costume_keywords = ["costume1", "costume2", "toon", "glass", "stylish"]
 
     # ==================================================================
     # --- 预先扫描所有重名英雄 ---

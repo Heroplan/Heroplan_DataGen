@@ -468,7 +468,7 @@ def load_heroes_data_extra_cn():
     for name_raw, entry in data.items():
         processed_name = strip_ignorable_suffix(name_raw)
         base_name, suffix_in = processed_name, ""
-        for s in [" C", " C2", " C3", " C4"]:
+        for s in [" C", " C2", " C3", " C4", " C5"]:
             if processed_name.endswith(s):
                 suffix_in, base_name = s, processed_name[:-len(s)]
                 break

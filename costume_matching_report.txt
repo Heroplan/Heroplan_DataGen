@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (494 / 0)
+✅ 成功匹配的服装 (502 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -202,6 +202,7 @@ Name: Alfrike Costume1, Fancy Name: Hatter of Svartalfheim
 Name: Hulda Costume1, Fancy Name: Head Nurse
 Name: Boril Costume1, Fancy Name: Heavyweight Defender
 Name: Grimm Costume1, Fancy Name: Heir of Evil
+Name: Grimm stylish, Fancy Name: Heir of Evil Style
 Name: Xenda Costume1, Fancy Name: Heiress to the Flame
 Name: Fura Costume1, Fancy Name: Herbalist of Svartalfheim
 Name: Ulmer Costume1, Fancy Name: Hermit of Glaceholm
@@ -299,6 +300,7 @@ Name: Zila Lei Costume1, Fancy Name: Octopod Dancer
 Name: Exeera Costume1, Fancy Name: Octopod Hierophant
 Name: Xnolphod Costume1, Fancy Name: Octopod Jailer
 Name: Hel Costume1, Fancy Name: Omen of Darkness
+Name: Richard stylish, Fancy Name: Paladin of Style
 Name: Peters Costume1, Fancy Name: Paper Boy at Shore
 Name: Melendor Costume2, Fancy Name: Party Wizard
 Name: Ulius costume1, Fancy Name: Peculiar Arcane Buccaneer
@@ -372,6 +374,10 @@ Name: Domitia Costume1, Fancy Name: Steampunk Sniper
 Name: Zhuge Liang Costume1, Fancy Name: Strategist Supreme
 Name: Aqeela Costume1, Fancy Name: Street-Smart Sorcerer
 Name: Jarif Costume1, Fancy Name: Stressed-Out Curator
+Name: Sartana stylish, Fancy Name: Stylish Executioner
+Name: Azlar stylish, Fancy Name: Stylish Leor
+Name: Jahangir stylish, Fancy Name: Stylish Mage
+Name: Vivica stylish, Fancy Name: Stylish Scholar
 Name: Agrafena Costume1, Fancy Name: Supreme Dark Sorceress
 Name: Rana Costume1, Fancy Name: Surfer Queen
 Name: Guardian Gazelle Costume1, Fancy Name: Swift Striker of Teltoc
@@ -388,6 +394,7 @@ Name: Carver Toon, Fancy Name: The Cutpurse Toon
 Name: Carver Costume1, Fancy Name: The Cutthroat
 Name: Lughaidh Costume1, Fancy Name: The Deathless King
 Name: Gormek Costume2, Fancy Name: The Epicurean
+Name: Boldtusk stylish, Fancy Name: The Fancy
 Name: Boldtusk Costume2, Fancy Name: The Feral Sage
 Name: Graymane Glass, Fancy Name: The Ferocious Glass
 Name: Graymane Toon, Fancy Name: The Ferocious Toon
@@ -465,6 +472,7 @@ Name: Odin Costume1, Fancy Name: Valiant All-Father
 Name: Hansel Costume1, Fancy Name: Vampire Hunter of Grimforest
 Name: Alucard Costume1, Fancy Name: Vampire Kingpin
 Name: Sneferu Costume1, Fancy Name: Vanquisher of the Moon
+Name: Gan Ju stylish, Fancy Name: Vibrant Bamboo
 Name: Sonya Costume1, Fancy Name: Viking Champion
 Name: Sartana Glass, Fancy Name: Vitrail from Descenthia
 Name: Kelile Glass, Fancy Name: Vitrail of Dragonia

@@ -42736,5 +42736,270 @@ window.allHeroesExtra = [
             "never_miss_special"
         ],
         "family": "mimic"
+    },
+    {
+        "name": "Njal",
+        "fancy name": "Hunter of the North Wind",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
+        "Release date": "2026-01-05",
+        "AetherPower": "Rage",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Healers (Special)",
+            "Debuffers (DEF)"
+        ],
+        "heroId": "monster_hunter_njal",
+        "baseAttack": 649,
+        "baseDefense": 619,
+        "baseHealth": 1109,
+        "specialId": "first_frost",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
+        "family": "plains_hunter"
+    },
+    {
+        "name": "Grimm stylish",
+        "fancy name": "Heir of Evil Style",
+        "element": "Blue",
+        "rarity": 4,
+        "class": "Barbarian",
+        "speed": "average",
+        "Release date": "2026-01-07",
+        "AetherPower": "Rage",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers",
+            "Debuffers (DEF)"
+        ],
+        "heroId": "nordic_ancestral_warrior_costume_stylish",
+        "baseAttack": 335,
+        "baseDefense": 255,
+        "baseHealth": 539,
+        "specialId": "ramming_pulverizer",
+        "specialId_costume": "stylish_pulverizer",
+        "passiveSkills": [
+            "stylish"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "30%",
+        "defenseBonus": "30%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Richard stylish",
+        "fancy name": "Paladin of Style",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2026-01-07",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers",
+            "Debuffers (ATK)"
+        ],
+        "heroId": "nordic_male_lord_costume_stylish",
+        "baseAttack": 361,
+        "baseDefense": 318,
+        "baseHealth": 655,
+        "specialId": "cloud_hammer",
+        "specialId_costume": "champagne_hammer",
+        "passiveSkills": [
+            "stylish"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "85%",
+        "defenseBonus": "85%",
+        "healthBonus": "85%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Sartana stylish",
+        "fancy name": "Stylish Executioner",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
+        "Release date": "2026-01-07",
+        "AetherPower": "Dodge",
+        "skill_types": [
+            "Extra Damage Dealers",
+            "DoT Attackers",
+            "Snipers"
+        ],
+        "heroId": "cultist_sorceress_costume_stylish",
+        "baseAttack": 344,
+        "baseDefense": 336,
+        "baseHealth": 675,
+        "specialId": "deathstrike",
+        "specialId_costume": "stylish_strike",
+        "passiveSkills": [
+            "stylish"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "85%",
+        "defenseBonus": "85%",
+        "healthBonus": "85%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Jahangir stylish",
+        "fancy name": "Stylish Mage",
+        "element": "Red",
+        "rarity": 3,
+        "class": "Sorcerer",
+        "speed": "slow",
+        "Release date": "2026-01-07",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "DoT Attackers"
+        ],
+        "heroId": "nomad_mage_costume_stylish",
+        "baseAttack": 280,
+        "baseDefense": 239,
+        "baseHealth": 393,
+        "specialId": "fireball",
+        "specialId_costume": "stylish_fireball",
+        "passiveSkills": [
+            "stylish"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "25%",
+        "defenseBonus": "25%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Boldtusk stylish",
+        "fancy name": "The Fancy",
+        "element": "Red",
+        "rarity": 4,
+        "class": "Fighter",
+        "speed": "average",
+        "Release date": "2026-01-07",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "Buffers (ATK)",
+            "Healers"
+        ],
+        "heroId": "orc_gladiator_costume_stylish",
+        "baseAttack": 279,
+        "baseDefense": 339,
+        "baseHealth": 517,
+        "specialId": "warcry",
+        "specialId_costume": "stylish_warcry",
+        "passiveSkills": [
+            "stylish"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "30%",
+        "defenseBonus": "30%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Azlar stylish",
+        "fancy name": "Stylish Leor",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Barbarian",
+        "speed": "slow",
+        "Release date": "2026-01-07",
+        "AetherPower": "Rage",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "DoT Attackers"
+        ],
+        "heroId": "lionman_barbarian_costume_stylish",
+        "baseAttack": 372,
+        "baseDefense": 329,
+        "baseHealth": 620,
+        "specialId": "volcanic_eruption",
+        "specialId_costume": "stylish_eruption",
+        "passiveSkills": [
+            "stylish"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "85%",
+        "defenseBonus": "85%",
+        "healthBonus": "85%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Gan Ju stylish",
+        "fancy name": "Vibrant Bamboo",
+        "element": "Yellow",
+        "rarity": 3,
+        "class": "Monk",
+        "speed": "fast",
+        "Release date": "2026-01-07",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Snipers",
+            "Extra Damage Dealers",
+            "Mana Reducers or Blockers"
+        ],
+        "heroId": "oriental_panda_berserker_costume_stylish",
+        "baseAttack": 273,
+        "baseDefense": 209,
+        "baseHealth": 473,
+        "specialId": "mystic_chop",
+        "specialId_costume": "stylish_chop",
+        "passiveSkills": [
+            "stylish"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "25%",
+        "defenseBonus": "25%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Vivica stylish",
+        "fancy name": "Stylish Scholar",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
+        "Release date": "2026-01-07",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "Buffers (DEF)",
+            "Cleansers",
+            "Healers"
+        ],
+        "heroId": "oriental_female_mystic_costume_stylish",
+        "baseAttack": 343,
+        "baseDefense": 350,
+        "baseHealth": 640,
+        "specialId": "omniheal",
+        "specialId_costume": "stylish_heal",
+        "passiveSkills": [
+            "stylish"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "85%",
+        "defenseBonus": "85%",
+        "healthBonus": "85%",
+        "manaBonus": "5%",
+        "family": "classic"
     }
 ];

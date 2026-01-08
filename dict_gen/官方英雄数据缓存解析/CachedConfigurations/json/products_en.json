@@ -3817,7 +3817,7 @@
         "gemPrice": 350,
         "amount": 1,
         "uiPriority": 150,
-        "advertisedHero": "outlaw_lin_chong",
+        "advertisedHero": "outlaw_hu_sanniang",
         "associatedEvent": "KingdomWar",
         "bonusChest": "3kw_chest",
         "bonusChestRequirement": 5,
@@ -3876,7 +3876,7 @@
         "id": "lottery_tower_magic_default_ad",
         "sourceProductId": "lottery_tower_magic_default",
         "amount": 1,
-        "advertisedHero": "magic_carpet_jwala",
+        "advertisedHero": "magic_carpet_crustee",
         "associatedEvent": "TowerMagic",
         "bucketWeights": [
           3215,
@@ -3903,7 +3903,7 @@
         "gemPrice": 350,
         "amount": 1,
         "uiPriority": 153,
-        "advertisedHero": "magic_carpet_jwala",
+        "advertisedHero": "magic_carpet_crustee",
         "associatedEvent": "TowerMagic",
         "bucketWeights": [
           643,
@@ -33405,7 +33405,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_1",
         "dollarValue": 4,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33424,7 +33423,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_2",
         "dollarValue": 7,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33443,7 +33441,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_3",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33467,7 +33464,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_4",
         "dollarValue": 15,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -55448,6 +55444,31 @@
         ]
       },
       {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.mds_creator3k_3kw",
+        "zyngaStoreProduct": true,
+        "contents": [
+          {
+            "type": "ValorSeasonPoints",
+            "amount": 300
+          },
+          {
+            "type": "GiantsSeasonPoints",
+            "amount": 300
+          },
+          {
+            "type": "Item",
+            "id": "lottery_3kw_limited_pool_summon_coin",
+            "amount": 50
+          },
+          {
+            "type": "Item",
+            "id": "lottery_elite_hero",
+            "amount": 1
+          }
+        ]
+      },
+      {
         "productType": "AllianceEventSummon",
         "id": "lottery_featured_alliance_quest_castle_ad",
         "sourceProductId": "lottery_featured_alliance_quest_castle",
@@ -58184,5 +58205,5 @@
       }
     ]
   },
-  "productsConfigId": 702956998
+  "productsConfigId": 4196183724
 }

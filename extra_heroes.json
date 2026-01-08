@@ -35,17 +35,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Njal",
-        "fancy_name": "Hunter of the North Wind",
-        "color": "Blue",
-        "Release date": "",
-        "star": 5,
-        "family": "plains_hunter",
-        "costume_id": 0,
-        "heroId": "monster_hunter_njal",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Hygd",
         "fancy_name": "Queen of the Geats",
         "color": "Purple",
@@ -200,91 +189,14 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Vivica Stylish",
-        "fancy_name": "Stylish Scholar",
-        "color": "Yellow",
-        "Release date": "",
-        "star": 5,
-        "family": "classic",
-        "costume_id": 5,
-        "heroId": "oriental_female_mystic_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Richard Stylish",
-        "fancy_name": "Paladin of Style",
-        "color": "Blue",
-        "Release date": "",
-        "star": 5,
-        "family": "classic",
-        "costume_id": 5,
-        "heroId": "nordic_male_lord_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Sartana Stylish",
-        "fancy_name": "Stylish Executioner",
+        "name": "Zavok",
+        "fancy_name": "Chaotic Mage Construct",
         "color": "Purple",
         "Release date": "",
         "star": 5,
-        "family": "classic",
-        "costume_id": 5,
-        "heroId": "cultist_sorceress_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Azlar Stylish",
-        "fancy_name": "Stylish Leor",
-        "color": "Red",
-        "Release date": "",
-        "star": 5,
-        "family": "classic",
-        "costume_id": 5,
-        "heroId": "lionman_barbarian_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Boldtusk Stylish",
-        "fancy_name": "The Fancy",
-        "color": "Red",
-        "Release date": "",
-        "star": 4,
-        "family": "classic",
-        "costume_id": 5,
-        "heroId": "orc_gladiator_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Grimm Stylish",
-        "fancy_name": "Heir of Evil Style",
-        "color": "Blue",
-        "Release date": "",
-        "star": 4,
-        "family": "classic",
-        "costume_id": 5,
-        "heroId": "nordic_ancestral_warrior_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Gan Ju Stylish",
-        "fancy_name": "Vibrant Bamboo",
-        "color": "Yellow",
-        "Release date": "",
-        "star": 3,
-        "family": "classic",
-        "costume_id": 4,
-        "heroId": "oriental_panda_berserker_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Jahangir Stylish",
-        "fancy_name": "Stylish Mage",
-        "color": "Red",
-        "Release date": "",
-        "star": 3,
-        "family": "classic",
-        "costume_id": 4,
-        "heroId": "nomad_mage_costume_stylish",
+        "family": "construct",
+        "costume_id": 0,
+        "heroId": "construct_zavok",
         "Lottery_Only": 1
     }
 ]
