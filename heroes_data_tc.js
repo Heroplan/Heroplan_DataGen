@@ -770,7 +770,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "中等",
-        "skill": "狼之撕咬",
+        "skill": "浣熊撕咬",
         "types": [
             "攻擊單個目標",
             "自我狀態異常免疫",
@@ -783,7 +783,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "wolf_bite",
+        "specialId": "raccoon_bite",
+        "parent_specialId": "wolf_bite",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_chained_werewolf_costume_raccoon",
@@ -834,7 +835,7 @@ window.allHeroes =
         "color": "藍",
         "class": "術士",
         "speed": "中等",
-        "skill": "狼之撕咬",
+        "skill": "公仔之咬",
         "types": [
             "攻擊單個目標",
             "自我治療"
@@ -846,7 +847,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-04-08",
-        "specialId": "wolf_bite",
+        "specialId": "toon_bite",
+        "parent_specialId": "wolf_bite",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -901,7 +903,7 @@ window.allHeroes =
         "color": "藍",
         "class": "術士",
         "speed": "中等",
-        "skill": "狼之撕咬",
+        "skill": "玻璃咬擊",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -914,7 +916,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-06-18",
-        "specialId": "wolf_bite",
+        "specialId": "glass_bite",
+        "parent_specialId": "wolf_bite",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -1082,7 +1085,7 @@ window.allHeroes =
         "color": "藍",
         "class": "德魯伊",
         "speed": "慢速",
-        "skill": "靈魂羈絆",
+        "skill": "鋼鐵連結",
         "types": [
             "敵方傷害分擔",
             "全體防禦降低"
@@ -1093,7 +1096,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
-        "specialId": "stone_skin",
+        "specialId": "shadow_link",
+        "parent_specialId": "stone_skin",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "royal_knight_costume_blacksmith",
@@ -1142,7 +1146,7 @@ window.allHeroes =
         "color": "藍",
         "class": "騎士",
         "speed": "慢速",
-        "skill": "靈魂羈絆",
+        "skill": "公仔連結",
         "types": [
             "友方傷害分擔",
             "全體防禦增益"
@@ -1153,7 +1157,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-09-08",
-        "specialId": "stone_skin",
+        "specialId": "toon_link",
+        "parent_specialId": "stone_skin",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -1202,7 +1207,7 @@ window.allHeroes =
         "color": "藍",
         "class": "騎士",
         "speed": "慢速",
-        "skill": "靈魂羈絆",
+        "skill": "玻璃連結",
         "types": [
             "友方傷害分擔",
             "全體防禦增益",
@@ -1215,7 +1220,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-11-25",
-        "specialId": "stone_skin",
+        "specialId": "glass_stone_skin_gunnar",
+        "parent_specialId": "stone_skin",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -1329,7 +1335,7 @@ window.allHeroes =
         "color": "藍",
         "class": "騎士",
         "speed": "中等",
-        "skill": "治愈一擊",
+        "skill": "魚味十足的糕點",
         "types": [
             "持續治療",
             "淨化者"
@@ -1340,7 +1346,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-12-07",
-        "specialId": "healthiest_catch",
+        "specialId": "sublime_pastry",
+        "parent_specialId": "healthiest_catch",
         "passiveSkills": [
             "increase_buff_duration"
         ],
@@ -1458,7 +1465,7 @@ window.allHeroes =
         "color": "藍",
         "class": "牧師",
         "speed": "中等",
-        "skill": "禁止令",
+        "skill": "禁用研究",
         "types": [
             "攻擊單個目標",
             "增益免疫"
@@ -1469,7 +1476,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2025-03-17",
-        "specialId": "disabling_decree",
+        "specialId": "disabling_study",
+        "parent_specialId": "disabling_decree",
         "passiveSkills": [
             "moon_extra_special_damage_and_mana_regen_debuff"
         ],
@@ -1660,7 +1668,7 @@ window.allHeroes =
         "color": "藍",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "憤怒之箭",
+        "skill": "冰霜之箭",
         "types": [
             "全體驅散",
             "攻擊所有目標",
@@ -1673,7 +1681,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2025-07-28",
-        "specialId": "arrows_of_fury",
+        "specialId": "arrows_of_frost",
+        "parent_specialId": "arrows_of_fury",
         "passiveSkills": [
             "heal_mana_on_low_health_once"
         ],
@@ -1783,7 +1792,7 @@ window.allHeroes =
         "color": "藍",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "錘擊飛躍",
+        "skill": "鍛爐衝鋒",
         "types": [
             "攻擊3個目標",
             "3個目標持續傷害"
@@ -1794,7 +1803,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
-        "specialId": "ramming_rush",
+        "specialId": "forge_rush",
+        "parent_specialId": "ramming_rush",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarven_smasher_costume_smith",
@@ -1844,7 +1854,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "中等",
-        "skill": "錘擊飛躍",
+        "skill": "公仔驚奇猛攻",
         "types": [
             "攻擊3個目標"
         ],
@@ -1854,7 +1864,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-06-28",
-        "specialId": "ramming_rush",
+        "specialId": "adorable_ramming_rush",
+        "parent_specialId": "ramming_rush",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -1907,7 +1918,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "中等",
-        "skill": "錘擊飛躍",
+        "skill": "玻璃猛攻",
         "types": [
             "攻擊3個目標",
             "無視防禦"
@@ -1918,7 +1929,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-08-10",
-        "specialId": "ramming_rush",
+        "specialId": "glass_ramming_rush",
+        "parent_specialId": "ramming_rush",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -2030,7 +2042,7 @@ window.allHeroes =
         "color": "藍",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "霜凍斧頭",
+        "skill": "冰斧",
         "types": [
             "攻擊3個目標",
             "元素防禦降低"
@@ -2041,7 +2053,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-04-10",
-        "specialId": "frosty_axes",
+        "specialId": "icy_axes",
+        "parent_specialId": "frosty_axes",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_nordri_costume_explorer",
@@ -2357,7 +2370,7 @@ window.allHeroes =
         "color": "藍",
         "class": "僧侶",
         "speed": "慢速",
-        "skill": "暴風雪",
+        "skill": "白化致盲",
         "types": [
             "攻擊所有目標",
             "全體攻擊增益"
@@ -2368,7 +2381,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "cold_blast",
+        "specialId": "whiteout",
+        "parent_specialId": "cold_blast",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_mage_costume_hermit",
@@ -2417,7 +2431,7 @@ window.allHeroes =
         "color": "藍",
         "class": "巫師",
         "speed": "慢速",
-        "skill": "暴風雪",
+        "skill": "公仔暴風雪",
         "types": [
             "攻擊所有目標",
             "全體防禦降低"
@@ -2429,7 +2443,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-07-16",
-        "specialId": "cold_blast",
+        "specialId": "adorable_cold_blast",
+        "parent_specialId": "cold_blast",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -2488,7 +2503,7 @@ window.allHeroes =
         "color": "藍",
         "class": "巫師",
         "speed": "慢速",
-        "skill": "暴風雪",
+        "skill": "玻璃暴風雪",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -2501,7 +2516,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-10-09",
-        "specialId": "cold_blast",
+        "specialId": "glass_cold_blast_ulmer",
+        "parent_specialId": "cold_blast",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -2619,7 +2635,7 @@ window.allHeroes =
         "color": "藍",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "冰寒連斬",
+        "skill": "驚心衝撞",
         "types": [
             "攻擊單個目標",
             "自我攻擊增益"
@@ -2630,7 +2646,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "chilling_slash",
+        "specialId": "thrilling_clash",
+        "parent_specialId": "chilling_slash",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_swordman_costume_climber",
@@ -2679,7 +2696,7 @@ window.allHeroes =
         "color": "藍",
         "class": "戰士",
         "speed": "快速",
-        "skill": "冰寒連斬",
+        "skill": "公仔劈斬",
         "types": [
             "攻擊單個目標",
             "單體防禦降低"
@@ -2691,7 +2708,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-12-25",
-        "specialId": "chilling_slash",
+        "specialId": "toon_slash",
+        "parent_specialId": "chilling_slash",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -2750,7 +2768,7 @@ window.allHeroes =
         "color": "藍",
         "class": "戰士",
         "speed": "快速",
-        "skill": "冰寒連斬",
+        "skill": "玻璃連斬",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -2763,7 +2781,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-12-11",
-        "specialId": "chilling_slash",
+        "specialId": "glass_slash",
+        "parent_specialId": "chilling_slash",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -3082,7 +3101,7 @@ window.allHeroes =
         "color": "藍",
         "class": "巫師",
         "speed": "中等",
-        "skill": "巨浪滔天",
+        "skill": "灑出的湯劑",
         "types": [
             "攻擊所有目標",
             "元素持續傷害"
@@ -3093,7 +3112,8 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-03-06",
-        "specialId": "tidal_wave",
+        "specialId": "spilled_decoctions",
+        "parent_specialId": "tidal_wave",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_chameleon_mage_costume_alchemist",
@@ -3213,7 +3233,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "潮汐",
-        "skill": "密集隊形",
+        "skill": "滴水不穿",
         "types": [
             "嘲諷",
             "攻擊所有目標"
@@ -3224,7 +3244,8 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-05-28",
-        "specialId": "close_order_formation",
+        "specialId": "impervious_formation",
+        "parent_specialId": "close_order_formation",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_critical"
         ],
@@ -3352,7 +3373,7 @@ window.allHeroes =
         "color": "藍",
         "class": "牧師",
         "speed": "中等",
-        "skill": "反擊姿態",
+        "skill": "跳舞姿態",
         "types": [
             "全體治療",
             "反擊"
@@ -3365,7 +3386,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-06-24",
-        "specialId": "counterstance",
+        "specialId": "dancestance",
+        "parent_specialId": "counterstance",
         "passiveSkills": [
             "sun_extra_special_heal_and_cleanse_latest_debuff"
         ],
@@ -3551,7 +3573,7 @@ window.allHeroes =
         "color": "藍",
         "class": "騎士",
         "speed": "中等",
-        "skill": "完美還擊",
+        "skill": "堅定還擊",
         "types": [
             "全體反擊"
         ],
@@ -3560,7 +3582,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
-        "specialId": "perfect_riposte",
+        "specialId": "sturdy_riposte",
+        "parent_specialId": "perfect_riposte",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarven_guard_costume_ram",
@@ -3603,7 +3626,7 @@ window.allHeroes =
         "color": "藍",
         "class": "戰士",
         "speed": "中等",
-        "skill": "完美還擊",
+        "skill": "無情還擊",
         "types": [
             "全體反擊"
         ],
@@ -3612,7 +3635,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-11-27",
-        "specialId": "perfect_riposte",
+        "specialId": "unrelenting_riposte",
+        "parent_specialId": "perfect_riposte",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarven_guard_costume_tavern",
@@ -3655,7 +3679,7 @@ window.allHeroes =
         "color": "藍",
         "class": "牧師",
         "speed": "中等",
-        "skill": "完美還擊",
+        "skill": "公仔還擊",
         "types": [
             "3個目標反擊"
         ],
@@ -3664,7 +3688,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-09-08",
-        "specialId": "perfect_riposte",
+        "specialId": "toon_riposte",
+        "parent_specialId": "perfect_riposte",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -3711,7 +3736,7 @@ window.allHeroes =
         "color": "藍",
         "class": "牧師",
         "speed": "中等",
-        "skill": "完美還擊",
+        "skill": "玻璃還擊",
         "types": [
             "3個目標反擊",
             "冰系盟友反射狀態異常"
@@ -3721,7 +3746,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-10-09",
-        "specialId": "perfect_riposte",
+        "specialId": "glass_riposte_boril",
+        "parent_specialId": "perfect_riposte",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -4186,7 +4212,7 @@ window.allHeroes =
         "color": "藍",
         "class": "僧侶",
         "speed": "慢速",
-        "skill": "不死刀客",
+        "skill": "不死毀滅者",
         "types": [
             "攻擊所有目標",
             "持續傷害疊加",
@@ -4201,7 +4227,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2021-10-04",
-        "specialId": "undead_razer",
+        "specialId": "undead_obliteration",
+        "parent_specialId": "undead_razer",
         "passiveSkills": [
             "halloween_steal_buff_or_deal_damage_new"
         ],
@@ -4466,7 +4493,7 @@ window.allHeroes =
         "color": "藍",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "錘擊粉碎",
+        "skill": "無情粉碎",
         "types": [
             "攻擊3個目標",
             "3個目標攻擊增益"
@@ -4477,7 +4504,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "ramming_pulverizer",
+        "specialId": "merciless_pulverizer",
+        "parent_specialId": "ramming_pulverizer",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_ancestral_warrior_costume_corrupted",
@@ -4526,7 +4554,7 @@ window.allHeroes =
         "color": "藍",
         "class": "遊俠",
         "speed": "中等",
-        "skill": "錘擊粉碎",
+        "skill": "樁柱粉碎",
         "types": [
             "攻擊3個目標"
         ],
@@ -4536,7 +4564,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-06-12",
-        "specialId": "ramming_pulverizer",
+        "specialId": "postal_pulverizer",
+        "parent_specialId": "ramming_pulverizer",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_ancestral_warrior_costume_messenger",
@@ -4585,7 +4614,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "中等",
-        "skill": "錘擊粉碎",
+        "skill": "公仔強力粉碎",
         "types": [
             "攻擊3個目標",
             "3個目標防禦降低"
@@ -4597,7 +4626,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-12-25",
-        "specialId": "ramming_pulverizer",
+        "specialId": "toonpower_pulverizer",
+        "parent_specialId": "ramming_pulverizer",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -4656,7 +4686,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "中等",
-        "skill": "錘擊粉碎",
+        "skill": "玻璃粉碎",
         "types": [
             "攻擊3個目標",
             "3個目標防禦降低"
@@ -4668,7 +4698,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-12-25",
-        "specialId": "ramming_pulverizer",
+        "specialId": "glass_pulverizer",
+        "parent_specialId": "ramming_pulverizer",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -4727,7 +4758,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "中等",
-        "skill": "錘擊粉碎",
+        "skill": "有型粉碎",
         "types": [
             "攻擊3個目標",
             "3個目標防禦降低"
@@ -4739,7 +4770,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2026-01-07",
-        "specialId": "ramming_pulverizer",
+        "specialId": "stylish_pulverizer",
+        "parent_specialId": "ramming_pulverizer",
         "passiveSkills": [
             "stylish"
         ],
@@ -4994,7 +5026,7 @@ window.allHeroes =
         "color": "藍",
         "class": "術士",
         "speed": "中等",
-        "skill": "祝福之釀",
+        "skill": "祝福之人",
         "types": [
             "治療者",
             "攻擊降低",
@@ -5007,7 +5039,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
-        "specialId": "blessed_brew",
+        "specialId": "blessed_solo",
+        "parent_specialId": "blessed_brew",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarwen_brewmaster_costume_guitarist",
@@ -5058,7 +5091,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "中等",
-        "skill": "祝福之釀",
+        "skill": "庇佑酒杯",
         "types": [
             "治療者",
             "攻擊降低",
@@ -5071,7 +5104,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-10-31",
-        "specialId": "blessed_brew",
+        "specialId": "blessed_tankard",
+        "parent_specialId": "blessed_brew",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarwen_brewmaster_costume_wood_carver",
@@ -5126,7 +5160,7 @@ window.allHeroes =
         "color": "藍",
         "class": "巫師",
         "speed": "中等",
-        "skill": "祝福之釀",
+        "skill": "公仔釀造",
         "types": [
             "治療者",
             "攻擊增益",
@@ -5139,7 +5173,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-02-12",
-        "specialId": "blessed_brew",
+        "specialId": "toon_brew",
+        "parent_specialId": "blessed_brew",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -5194,7 +5229,7 @@ window.allHeroes =
         "color": "藍",
         "class": "巫師",
         "speed": "中等",
-        "skill": "祝福之釀",
+        "skill": "玻璃之釀",
         "types": [
             "全體治療",
             "全體攻擊增益",
@@ -5210,7 +5245,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-03-11",
-        "specialId": "blessed_brew",
+        "specialId": "glass_brew",
+        "parent_specialId": "blessed_brew",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -5949,7 +5985,7 @@ window.allHeroes =
         "color": "藍",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "刺穿打擊",
+        "skill": "淨化打擊",
         "types": [
             "攻擊單個目標",
             "全體淨化"
@@ -5960,7 +5996,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
-        "specialId": "piercing_strike",
+        "specialId": "purifying_strike",
+        "parent_specialId": "piercing_strike",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "royal_female_knight_costume_winter",
@@ -6009,7 +6046,7 @@ window.allHeroes =
         "color": "藍",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "刺穿打擊",
+        "skill": "痛苦打擊",
         "types": [
             "攻擊單個目標",
             "全體增益免疫"
@@ -6020,7 +6057,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-11-27",
-        "specialId": "piercing_strike",
+        "specialId": "wrenching_strike",
+        "parent_specialId": "piercing_strike",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "royal_female_knight_costume_prospector",
@@ -6069,7 +6107,7 @@ window.allHeroes =
         "color": "藍",
         "class": "騎士",
         "speed": "快速",
-        "skill": "刺穿打擊",
+        "skill": "公仔強力打擊",
         "types": [
             "攻擊單個目標",
             "單體驅散"
@@ -6081,7 +6119,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-07-16",
-        "specialId": "piercing_strike",
+        "specialId": "adorable_piercing_strike",
+        "parent_specialId": "piercing_strike",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -6140,7 +6179,7 @@ window.allHeroes =
         "color": "藍",
         "class": "騎士",
         "speed": "快速",
-        "skill": "刺穿打擊",
+        "skill": "玻璃打擊",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -6153,7 +6192,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-08-10",
-        "specialId": "piercing_strike",
+        "specialId": "glass_piercing_strike",
+        "parent_specialId": "piercing_strike",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -6271,7 +6311,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "快速",
-        "skill": "拋扔三叉戟",
+        "skill": "大力神投",
         "types": [
             "攻擊3個目標",
             "攻擊增益"
@@ -6282,7 +6322,8 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-04-03",
-        "specialId": "heroic_noble",
+        "specialId": "herculean_throw",
+        "parent_specialId": "heroic_noble",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_triton_costume_champion",
@@ -6528,7 +6569,7 @@ window.allHeroes =
         "color": "藍",
         "class": "僧侶",
         "speed": "快速",
-        "skill": "魚骨刀",
+        "skill": "水生舞步",
         "types": [
             "攻擊2個目標",
             "防禦下降"
@@ -6539,7 +6580,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-01-04",
-        "specialId": "fishbone_blades",
+        "specialId": "aquatic_dance",
+        "parent_specialId": "fishbone_blades",
         "passiveSkills": [
             "increase_special_damage"
         ],
@@ -6732,7 +6774,7 @@ window.allHeroes =
         "color": "藍",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "冰雪復原力",
+        "skill": "冰河韌性",
         "types": [
             "全體傷害分擔",
             "全體防禦增益",
@@ -6746,7 +6788,8 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-01-23",
-        "specialId": "icy_resilience",
+        "specialId": "glacial_resilience",
+        "parent_specialId": "icy_resilience",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_cleanse_newest"
@@ -6955,7 +6998,7 @@ window.allHeroes =
         "color": "藍",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "夏天頌歌",
+        "skill": "聖湖頌歌",
         "types": [
             "全體淨化",
             "全體治療",
@@ -6968,7 +7011,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2023-08-07",
-        "specialId": "summer_carol",
+        "specialId": "anthem_of_the_lake",
+        "parent_specialId": "summer_carol",
         "passiveSkills": [
             "heal_mana_on_low_health_once"
         ],
@@ -7085,7 +7129,7 @@ window.allHeroes =
         "color": "藍",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "英靈之箭",
+        "skill": "努賈里克之箭",
         "types": [
             "攻擊3個目標",
             "3個目標法力削減",
@@ -7100,7 +7144,8 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-12-23",
-        "specialId": "spirit_arrow",
+        "specialId": "arrow_of_nujalik",
+        "parent_specialId": "spirit_arrow",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_cleanse_newest"
@@ -7603,7 +7648,7 @@ window.allHeroes =
         "color": "藍",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "光耀回歸",
+        "skill": "光耀枷鎖",
         "types": [
             "全體反擊",
             "全體冰屬性反擊時獲得法力",
@@ -7616,7 +7661,8 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2026-01-02",
-        "specialId": "radiant_comeback",
+        "specialId": "radiant_shackles",
+        "parent_specialId": "radiant_comeback",
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
@@ -7810,7 +7856,7 @@ window.allHeroes =
         "color": "藍",
         "class": "術士",
         "speed": "中等",
-        "skill": "神聖守護",
+        "skill": "深海儀式",
         "types": [
             "全體生命值加成",
             "全體法力持續恢復",
@@ -7823,7 +7869,8 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2021-11-15",
-        "specialId": "divine_protection",
+        "specialId": "deep_sea_ritual",
+        "parent_specialId": "divine_protection",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_ariel_costume_enchanter",
@@ -8202,7 +8249,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "中等",
-        "skill": "雅典娜之弓",
+        "skill": "雅典娜之箭",
         "types": [
             "攻擊3個目標",
             "3個目標防禦降低",
@@ -8217,7 +8264,8 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-12-23",
-        "specialId": "athenas_bow",
+        "specialId": "athenas_arrow",
+        "parent_specialId": "athenas_bow",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_dispel_newest"
@@ -8354,7 +8402,7 @@ window.allHeroes =
         "color": "藍",
         "class": "盜賊",
         "speed": "潮汐",
-        "skill": "無光深口",
+        "skill": "無光低語",
         "types": [
             "持續傷害",
             "法力偷取"
@@ -8369,7 +8417,8 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-11-21",
-        "specialId": "aphotic_maw",
+        "specialId": "aphotic_whisper",
+        "parent_specialId": "aphotic_maw",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_stacking_mana_generation"
         ],
@@ -8740,7 +8789,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-12-10",
-        "specialId": "divine_reflection",
+        "specialId": "sacred_reflection",
+        "parent_specialId": "divine_reflection",
         "passiveSkills": [
             "sun_extra_special_heal_and_cleanse_latest_debuff"
         ],
@@ -9301,7 +9351,7 @@ window.allHeroes =
         "color": "藍",
         "class": "德魯伊",
         "speed": "魔法",
-        "skill": "構造體增幅",
+        "skill": "花卉擺設",
         "types": [
             "全體強化治療",
             "全體最大生命值降低",
@@ -9320,7 +9370,8 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2025-10-19",
-        "specialId": "mechanical_augmentations",
+        "specialId": "flower_arrangements",
+        "parent_specialId": "mechanical_augmentations",
         "passiveSkills": [
             "magic_mana_regen_stack_on_special_costume",
             "magic_damage_on_full_charge_costume"
@@ -9461,7 +9512,7 @@ window.allHeroes =
         "color": "藍",
         "class": "遊俠",
         "speed": "慢速",
-        "skill": "萬眾歸心",
+        "skill": "冰冷命令",
         "types": [
             "攻擊所有目標",
             "召喚者",
@@ -9475,7 +9526,8 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2024-08-02",
-        "specialId": "order_to_overwhelm",
+        "specialId": "ice_cold_order",
+        "parent_specialId": "order_to_overwhelm",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "kingdom_unstoppable_minions"
@@ -9835,7 +9887,7 @@ window.allHeroes =
         "color": "藍",
         "class": "戰士",
         "speed": "潮汐",
-        "skill": "潮汐漩渦",
+        "skill": "海洋漩渦",
         "types": [
             "攻擊所有目標",
             "全體持續傷害"
@@ -9851,7 +9903,8 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-03-03",
-        "specialId": "tidal_vortex",
+        "specialId": "ocean_vortex",
+        "parent_specialId": "tidal_vortex",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_critical"
         ],
@@ -11123,7 +11176,7 @@ window.allHeroes =
         "color": "藍",
         "class": "巫師",
         "speed": "中等",
-        "skill": "浸滲苦難",
+        "skill": "海洋苦難",
         "types": [
             "全體持續傷害"
         ],
@@ -11134,7 +11187,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-09-26",
-        "specialId": "saturated_suffering",
+        "specialId": "oceanic_suffering",
+        "parent_specialId": "saturated_suffering",
         "passiveSkills": [
             "start_battle_with_mana"
         ],
@@ -11348,7 +11402,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "快速",
-        "skill": "龐大撕咬",
+        "skill": "怪力啃咬",
         "types": [
             "攻擊單個目標",
             "自我治療",
@@ -11362,7 +11416,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-04-10",
-        "specialId": "gargantuan_bite",
+        "specialId": "colossal_bite",
+        "parent_specialId": "gargantuan_bite",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_fenrir_costume_guardian",
@@ -11556,7 +11611,7 @@ window.allHeroes =
         "color": "藍",
         "class": "戰士",
         "speed": "快速",
-        "skill": "准將復仇",
+        "skill": "准將的惡意",
         "types": [
             "攻擊單個目標",
             "彈射",
@@ -11570,7 +11625,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2022-04-14",
-        "specialId": "commodores_revenge",
+        "specialId": "commodores_malice",
+        "parent_specialId": "commodores_revenge",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_poison"
@@ -12782,7 +12838,7 @@ window.allHeroes =
         "color": "藍",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "難解之謎",
+        "skill": "輕鬆謎語",
         "types": [
             "全體治療",
             "全體元素防禦增益",
@@ -12796,7 +12852,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-03-04",
-        "specialId": "bewildering_riddle",
+        "specialId": "relaxing_riddle",
+        "parent_specialId": "bewildering_riddle",
         "passiveSkills": [
             "sun_extra_special_heal_and_cleanse_latest_debuff"
         ],
@@ -13020,7 +13077,7 @@ window.allHeroes =
             "攻擊所有目標",
             "全體法力削減",
             "全體法力生成降低",
-            "單體增益之源"
+            "隨機1個增益來源"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -13293,7 +13350,7 @@ window.allHeroes =
         "color": "藍",
         "class": "術士",
         "speed": "慢速",
-        "skill": "冰川粉碎",
+        "skill": "冰川爆炸",
         "types": [
             "攻擊所有目標",
             "全體防禦降低"
@@ -13304,7 +13361,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
-        "specialId": "glacial_shatter",
+        "specialId": "glacial_explosion",
+        "parent_specialId": "glacial_shatter",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_ice_enchantress_costume_aqua",
@@ -13353,7 +13411,7 @@ window.allHeroes =
         "color": "藍",
         "class": "牧師",
         "speed": "慢速",
-        "skill": "冰川粉碎",
+        "skill": "冰河漩渦",
         "types": [
             "攻擊所有目標",
             "全體攻擊降低"
@@ -13365,7 +13423,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-09-05",
-        "specialId": "glacial_shatter",
+        "specialId": "glacial_vortex",
+        "parent_specialId": "glacial_shatter",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_ice_enchantress_costume_ruler",
@@ -13420,7 +13479,7 @@ window.allHeroes =
         "color": "藍",
         "class": "巫師",
         "speed": "慢速",
-        "skill": "冰川粉碎",
+        "skill": "粉碎者公仔",
         "types": [
             "攻擊所有目標",
             "全體防禦降低"
@@ -13432,7 +13491,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-05-06",
-        "specialId": "glacial_shatter",
+        "specialId": "adorable_shatter",
+        "parent_specialId": "glacial_shatter",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -13491,7 +13551,7 @@ window.allHeroes =
         "color": "藍",
         "class": "巫師",
         "speed": "慢速",
-        "skill": "冰川粉碎",
+        "skill": "玻璃粉碎",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -13504,7 +13564,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-06-18",
-        "specialId": "glacial_shatter",
+        "specialId": "glass_shatter",
+        "parent_specialId": "glacial_shatter",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -14160,7 +14221,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "中等",
-        "skill": "喜悅之災",
+        "skill": "愉悅苦難",
         "types": [
             "召喚所有",
             "嘲諷",
@@ -14175,7 +14236,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2021-12-01",
-        "specialId": "scourge_of_joy",
+        "specialId": "merriest_misery",
+        "parent_specialId": "scourge_of_joy",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "frost_on_minion_damage_done"
@@ -14445,7 +14507,7 @@ window.allHeroes =
         "color": "藍",
         "class": "術士",
         "speed": "中等",
-        "skill": "戲法師的惡作劇",
+        "skill": "變形者的欺騙",
         "types": [
             "複製特殊技能",
             "攻擊單個目標"
@@ -14456,7 +14518,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-05-08",
-        "specialId": "tricksters_mischief",
+        "specialId": "shapeshifters_deception",
+        "parent_specialId": "tricksters_mischief",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_loki_male_costume_shapeshifter",
@@ -14784,7 +14847,7 @@ window.allHeroes =
         "color": "藍",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "遠古打擊",
+        "skill": "巨岩打擊",
         "types": [
             "攻擊單個目標",
             "3個目標防禦降低"
@@ -14795,7 +14858,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
-        "specialId": "strike_of_the_ancients",
+        "specialId": "strike_of_the_monolith",
+        "parent_specialId": "strike_of_the_ancients",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "exalted_warrior_costume_ice",
@@ -14844,7 +14908,7 @@ window.allHeroes =
         "color": "藍",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "遠古打擊",
+        "skill": "地獄打擊",
         "types": [
             "攻擊3個目標",
             "3個目標防禦降低"
@@ -14855,7 +14919,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-10-31",
-        "specialId": "strike_of_the_ancients",
+        "specialId": "strike_of_the_underworld",
+        "parent_specialId": "strike_of_the_ancients",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "exalted_warrior_costume_underworld",
@@ -14904,7 +14969,7 @@ window.allHeroes =
         "color": "藍",
         "class": "戰士",
         "speed": "快速",
-        "skill": "遠古打擊",
+        "skill": "公仔打擊",
         "types": [
             "攻擊單個目標",
             "3個目標防禦增益"
@@ -14916,7 +14981,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-01-22",
-        "specialId": "strike_of_the_ancients",
+        "specialId": "strike_of_the_toons",
+        "parent_specialId": "strike_of_the_ancients",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -14975,7 +15041,7 @@ window.allHeroes =
         "color": "藍",
         "class": "戰士",
         "speed": "快速",
-        "skill": "遠古打擊",
+        "skill": "玻璃打擊",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -14988,7 +15054,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-03-11",
-        "specialId": "strike_of_the_ancients",
+        "specialId": "glass_strike_magni",
+        "parent_specialId": "strike_of_the_ancients",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -15177,7 +15244,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "快速",
-        "skill": "魯莽終結者",
+        "skill": "裂隙之刃",
         "types": [
             "攻擊所有目標",
             "自我法力生成降低"
@@ -15188,7 +15255,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2022-03-21",
-        "specialId": "reckless_finisher",
+        "specialId": "rift_blade",
+        "parent_specialId": "reckless_finisher",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "rabbit_blue_costume_riftbreaker",
@@ -15599,7 +15667,7 @@ window.allHeroes =
         "color": "藍",
         "class": "牧師",
         "speed": "魔法",
-        "skill": "復滅並重",
+        "skill": "保存與冷凍",
         "types": [
             "蓄力",
             "全體治療",
@@ -15618,7 +15686,8 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2025-04-17",
-        "specialId": "restoration_and_annihilation",
+        "specialId": "preserve_and_freeze",
+        "parent_specialId": "restoration_and_annihilation",
         "passiveSkills": [
             "magic_add_mana_on_full_charge_costume"
         ],
@@ -15821,7 +15890,7 @@ window.allHeroes =
         "color": "藍",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "鏈鎖打擊",
+        "skill": "葫蘆鼓鏈",
         "types": [
             "攻擊單個目標",
             "可能的額外攻擊",
@@ -15834,7 +15903,8 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-01-09",
-        "specialId": "chain_strike",
+        "specialId": "drum_chain",
+        "parent_specialId": "chain_strike",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_mercenary_woman_costume_dancer",
@@ -16093,7 +16163,7 @@ window.allHeroes =
         "types": [
             "3個目標反擊",
             "全體攻擊疊加",
-            "單體增益之源"
+            "隨機1個增益來源"
         ],
         "skill_types": [
             "反擊",
@@ -16310,7 +16380,7 @@ window.allHeroes =
         "color": "藍",
         "class": "戰士",
         "speed": "快速",
-        "skill": "奪命闊劍",
+        "skill": "海星法杖",
         "types": [
             "攻擊所有目標",
             "全體防禦降低",
@@ -16325,7 +16395,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-07-20",
-        "specialId": "deathly_glaive",
+        "specialId": "staff_of_the_seastar",
+        "parent_specialId": "deathly_glaive",
         "passiveSkills": [
             "increase_special_damage"
         ],
@@ -16454,7 +16525,7 @@ window.allHeroes =
         "color": "藍",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "鯡魚轟擊",
+        "skill": "鯡魚驚喜",
         "types": [
             "攻擊單個目標",
             "隨機攻擊",
@@ -16469,7 +16540,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2024-12-01",
-        "specialId": "herring_blaster",
+        "specialId": "herring_surprise",
+        "parent_specialId": "herring_blaster",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "frost_on_minion_damage_done"
@@ -17279,7 +17351,7 @@ window.allHeroes =
         "color": "藍",
         "class": "牧師",
         "speed": "中等",
-        "skill": "伸出援手",
+        "skill": "創意之手",
         "types": [
             "全體治療",
             "全體持續治療",
@@ -17294,7 +17366,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-10-12",
-        "specialId": "helping_hands",
+        "specialId": "creative_hands",
+        "parent_specialId": "helping_hands",
         "passiveSkills": [
             "increase_buff_duration"
         ],
@@ -17503,7 +17576,7 @@ window.allHeroes =
         "color": "藍",
         "class": "戰士",
         "speed": "快速",
-        "skill": "永恆創傷",
+        "skill": "極地創傷",
         "types": [
             "攻擊3個目標",
             "3個目標治療降低",
@@ -17518,7 +17591,8 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-11-28",
-        "specialId": "everlasting_wound",
+        "specialId": "arctic_wound",
+        "parent_specialId": "everlasting_wound",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_dispel_newest"
@@ -18159,7 +18233,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "中等",
-        "skill": "雲端大錘",
+        "skill": "雲端斧頭",
         "types": [
             "攻擊3個目標",
             "3個目標攻擊降低"
@@ -18170,7 +18244,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
-        "specialId": "cloud_hammer",
+        "specialId": "cloud_axe",
+        "parent_specialId": "cloud_hammer",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_male_lord_costume_senior",
@@ -18219,7 +18294,7 @@ window.allHeroes =
         "color": "藍",
         "class": "戰士",
         "speed": "中等",
-        "skill": "雲端大錘",
+        "skill": "恐懼之錘",
         "types": [
             "攻擊3個目標",
             "3個目標攻擊降低"
@@ -18231,7 +18306,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-09-04",
-        "specialId": "cloud_hammer",
+        "specialId": "dread_hammer",
+        "parent_specialId": "cloud_hammer",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_male_lord_costume_injustice",
@@ -18280,7 +18356,7 @@ window.allHeroes =
         "color": "藍",
         "class": "騎士",
         "speed": "中等",
-        "skill": "雲端大錘",
+        "skill": "錘子公仔",
         "types": [
             "攻擊3個目標",
             "3個目標攻擊降低"
@@ -18292,7 +18368,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-10-30",
-        "specialId": "cloud_hammer",
+        "specialId": "adorable_hammer",
+        "parent_specialId": "cloud_hammer",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -18351,7 +18428,7 @@ window.allHeroes =
         "color": "藍",
         "class": "騎士",
         "speed": "中等",
-        "skill": "雲端大錘",
+        "skill": "玻璃錘子",
         "types": [
             "攻擊3個目標",
             "無視防禦",
@@ -18364,7 +18441,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-12-25",
-        "specialId": "cloud_hammer",
+        "specialId": "glass_hammer",
+        "parent_specialId": "cloud_hammer",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -18423,7 +18501,7 @@ window.allHeroes =
         "color": "藍",
         "class": "騎士",
         "speed": "中等",
-        "skill": "雲端大錘",
+        "skill": "香檳之錘",
         "types": [
             "攻擊3個目標",
             "3個目標攻擊降低"
@@ -18435,7 +18513,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2026-01-07",
-        "specialId": "cloud_hammer",
+        "specialId": "champagne_hammer",
+        "parent_specialId": "cloud_hammer",
         "passiveSkills": [
             "stylish"
         ],
@@ -18661,7 +18740,7 @@ window.allHeroes =
         "color": "藍",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "戲法",
+        "skill": "暮光技巧",
         "types": [
             "賭徒",
             "全體最大生命值降低",
@@ -18681,7 +18760,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2022-06-16",
-        "specialId": "legerdemain",
+        "specialId": "twilight_tricks",
+        "parent_specialId": "legerdemain",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "fables_rumpelstiltskin_costume_eternal",
@@ -18825,7 +18905,7 @@ window.allHeroes =
         "color": "藍",
         "class": "遊俠",
         "speed": "飛速",
-        "skill": "復仇背刺",
+        "skill": "巧妙背刺",
         "types": [
             "攻擊單個目標",
             "躲藏"
@@ -18841,7 +18921,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-01-04",
-        "specialId": "vengeful_backstab",
+        "specialId": "artful_backstab",
+        "parent_specialId": "vengeful_backstab",
         "passiveSkills": [
             "decrease_debuff_duration"
         ],
@@ -19507,7 +19588,7 @@ window.allHeroes =
         "color": "藍",
         "class": "騎士",
         "speed": "中等",
-        "skill": "冰山粉碎",
+        "skill": "冰山浩劫",
         "types": [
             "攻擊3個目標",
             "持續傷害疊加",
@@ -19522,7 +19603,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-07-04",
-        "specialId": "iceberg_crush",
+        "specialId": "iceberg_havoc",
+        "parent_specialId": "iceberg_crush",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_skadi_costume_ravager",
@@ -19799,7 +19881,7 @@ window.allHeroes =
         "color": "藍",
         "class": "遊俠",
         "speed": "慢速",
-        "skill": "魔法鋒刃",
+        "skill": "誅戮之棍",
         "types": [
             "全體驅散",
             "全體淨化",
@@ -19814,7 +19896,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2021-12-15",
-        "specialId": "enchanted_edge",
+        "specialId": "slaying_stake",
+        "parent_specialId": "enchanted_edge",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "fables_snow_white_costume_slayer",
@@ -19939,7 +20022,7 @@ window.allHeroes =
         "color": "藍",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "河之顎",
+        "skill": "河牙",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -19951,7 +20034,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-07-13",
-        "specialId": "jaws_of_the_river",
+        "specialId": "teeth_of_the_river",
+        "parent_specialId": "jaws_of_the_river",
         "passiveSkills": [
             "sun_extra_special_damage_and_dot"
         ],
@@ -20548,7 +20632,7 @@ window.allHeroes =
         "color": "藍",
         "class": "戰士",
         "speed": "快速",
-        "skill": "兩棲突擊",
+        "skill": "海洋攻勢",
         "types": [
             "攻擊3個目標",
             "3個目標持續傷害",
@@ -20561,7 +20645,8 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2025-10-25",
-        "specialId": "amphibious_assault",
+        "specialId": "oceanic_offensive",
+        "parent_specialId": "amphibious_assault",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_tethys_costume_steel",
@@ -20697,7 +20782,7 @@ window.allHeroes =
         "color": "藍",
         "class": "術士",
         "speed": "潮汐",
-        "skill": "大海擁抱",
+        "skill": "水晶擁抱",
         "types": [
             "全體治療",
             "狀態異常重置",
@@ -20710,7 +20795,8 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-08-24",
-        "specialId": "oceans_embrace",
+        "specialId": "crystal_embrace",
+        "parent_specialId": "oceans_embrace",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_critical"
         ],
@@ -20973,7 +21059,7 @@ window.allHeroes =
         "color": "藍",
         "class": "術士",
         "speed": "中等",
-        "skill": "冰冷終結者",
+        "skill": "冰凍結局",
         "types": [
             "攻擊單個目標",
             "自我法力生成增益"
@@ -20984,7 +21070,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "icecold_finisher",
+        "specialId": "summers_end",
+        "parent_specialId": "icecold_finisher",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "royal_knight_commander_costume_king",
@@ -21033,7 +21120,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "中等",
-        "skill": "冰冷終結者",
+        "skill": "冰河粉碎者",
         "types": [
             "攻擊3個目標",
             "法力削減者",
@@ -21046,7 +21133,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-07-10",
-        "specialId": "icecold_finisher",
+        "specialId": "glacial_crusher",
+        "parent_specialId": "icecold_finisher",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "royal_knight_commander_costume_gryphon",
@@ -21101,7 +21189,7 @@ window.allHeroes =
         "color": "藍",
         "class": "騎士",
         "speed": "中等",
-        "skill": "冰冷終結者",
+        "skill": "公仔終結技",
         "types": [
             "攻擊3個目標"
         ],
@@ -21111,7 +21199,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-09-08",
-        "specialId": "icecold_finisher",
+        "specialId": "toon_finisher",
+        "parent_specialId": "icecold_finisher",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -21164,7 +21253,7 @@ window.allHeroes =
         "color": "藍",
         "class": "騎士",
         "speed": "中等",
-        "skill": "冰冷終結者",
+        "skill": "玻璃終結者",
         "types": [
             "攻擊3個目標",
             "無視防禦"
@@ -21175,7 +21264,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-11-25",
-        "specialId": "icecold_finisher",
+        "specialId": "glass_finisher_thorne",
+        "parent_specialId": "icecold_finisher",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -21535,7 +21625,7 @@ window.allHeroes =
         "color": "藍",
         "class": "牧師",
         "speed": "魔法",
-        "skill": "均等卷軸",
+        "skill": "導航捲軸",
         "types": [
             "蓄力",
             "召喚所有小兵",
@@ -21550,7 +21640,8 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2025-11-30",
-        "specialId": "scroll_of_equations",
+        "specialId": "scroll_of_navigation",
+        "parent_specialId": "scroll_of_equations",
         "passiveSkills": [
             "magic_mana_regen_stack_on_special_costume",
             "magic_damage_on_full_charge_costume"
@@ -22302,7 +22393,7 @@ window.allHeroes =
         "color": "藍",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "冰霜大斧",
+        "skill": "冰霜大鋤頭",
         "types": [
             "傷害單個目標",
             "若目標為火焰系則额外對2個目標造成傷害",
@@ -22318,7 +22409,8 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2025-08-12",
-        "specialId": "great_frost_axe",
+        "specialId": "great_frost_hoe",
+        "parent_specialId": "great_frost_axe",
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
@@ -22885,7 +22977,7 @@ window.allHeroes =
         "color": "綠",
         "class": "巫師",
         "speed": "中等",
-        "skill": "平靜迷霧",
+        "skill": "寧靜之霧",
         "types": [
             "全體持續治療",
             "全體驅散免疫增益"
@@ -22896,7 +22988,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
-        "specialId": "calming_mist",
+        "specialId": "tranquil_mist",
+        "parent_specialId": "calming_mist",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_female_spirit_costume_autumn",
@@ -22945,7 +23038,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "平靜迷霧",
+        "skill": "公仔之霧",
         "types": [
             "全體治療",
             "全體防禦增益",
@@ -22958,7 +23051,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-04-08",
-        "specialId": "calming_mist",
+        "specialId": "toon_mist",
+        "parent_specialId": "calming_mist",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -23013,7 +23107,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "平靜迷霧",
+        "skill": "玻璃迷霧",
         "types": [
             "全體治療",
             "全體元素反射",
@@ -23026,7 +23120,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-04-23",
-        "specialId": "calming_mist",
+        "specialId": "glass_mist",
+        "parent_specialId": "calming_mist",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -23140,7 +23235,7 @@ window.allHeroes =
         "color": "綠",
         "class": "野人",
         "speed": "快速",
-        "skill": "糾纏射擊",
+        "skill": "粉碎射擊",
         "types": [
             "攻擊單個目標",
             "單體防禦降低"
@@ -23151,7 +23246,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
-        "specialId": "entangling_shot",
+        "specialId": "crushing_shot",
+        "parent_specialId": "entangling_shot",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_archer_costume_warrior",
@@ -23200,7 +23296,7 @@ window.allHeroes =
         "color": "綠",
         "class": "遊俠",
         "speed": "快速",
-        "skill": "糾纏射擊",
+        "skill": "公仔驚奇射擊",
         "types": [
             "攻擊單個目標",
             "單體攻擊降低"
@@ -23212,7 +23308,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-05-06",
-        "specialId": "entangling_shot",
+        "specialId": "adorable_entangling_shot",
+        "parent_specialId": "entangling_shot",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -23271,7 +23368,7 @@ window.allHeroes =
         "color": "綠",
         "class": "遊俠",
         "speed": "快速",
-        "skill": "糾纏射擊",
+        "skill": "玻璃箭",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -23284,7 +23381,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-05-10",
-        "specialId": "entangling_shot",
+        "specialId": "glass_entangling_shot",
+        "parent_specialId": "entangling_shot",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -23394,7 +23492,7 @@ window.allHeroes =
         "color": "綠",
         "class": "牧師",
         "speed": "中等",
-        "skill": "狂戰士暴怒",
+        "skill": "叢林暴怒",
         "types": [
             "防禦降低"
         ],
@@ -23403,7 +23501,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
-        "specialId": "natures_blessing",
+        "specialId": "jungle_fury",
+        "parent_specialId": "natures_blessing",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_female_druid_costume_native",
@@ -23446,7 +23545,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "狂戰士暴怒",
+        "skill": "公仔之怒",
         "types": [
             "攻擊增益"
         ],
@@ -23455,7 +23554,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-01-22",
-        "specialId": "natures_blessing",
+        "specialId": "toon_fury",
+        "parent_specialId": "natures_blessing",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -23502,7 +23602,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "狂戰士暴怒",
+        "skill": "玻璃之怒",
         "types": [
             "攻擊增益",
             "自然盟友反射狀態異常",
@@ -23514,7 +23614,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-03-11",
-        "specialId": "natures_blessing",
+        "specialId": "glass_fury",
+        "parent_specialId": "natures_blessing",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -23696,7 +23797,7 @@ window.allHeroes =
         "color": "綠",
         "class": "戰士",
         "speed": "中等",
-        "skill": "四刃連斬",
+        "skill": "四刃連擊",
         "types": [
             "攻擊所有目標",
             "全體法力生成降低"
@@ -23707,7 +23808,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
-        "specialId": "slash_of_four_blades",
+        "specialId": "stab_of_four_blades",
+        "parent_specialId": "slash_of_four_blades",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "goblin_fighter_costume_evil",
@@ -23756,7 +23858,7 @@ window.allHeroes =
         "color": "綠",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "四刃連斬",
+        "skill": "四連斬公仔",
         "types": [
             "攻擊所有目標",
             "全體法力削減"
@@ -23768,7 +23870,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-06-28",
-        "specialId": "slash_of_four_blades",
+        "specialId": "adorable_four_blades",
+        "parent_specialId": "slash_of_four_blades",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -23823,7 +23926,7 @@ window.allHeroes =
         "color": "綠",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "四刃連斬",
+        "skill": "玻璃刃連斬",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -23836,7 +23939,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-07-16",
-        "specialId": "slash_of_four_blades",
+        "specialId": "glass_four_blades",
+        "parent_specialId": "slash_of_four_blades",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -23992,7 +24096,7 @@ window.allHeroes =
             "* 所有盟友得到靈魂連結，持續 3 回合。靈魂連結的盟友會分享承受的傷害。",
             "* 所有盟友獲得 +63% 防禦，持續 3 回合。",
             "2 倍法力充能：",
-            "* 所有盟友得到靈魂連結，持續 5 回合。靈魂連結的盟友會分享承受的傷害。",
+            "* 所有敵人得到靈魂連結，持續 5 回合。靈魂連結的敵人會分享承受的傷害。",
             "* 所有敵人獲得 -56% 防禦，持續 5 回合。"
         ],
         "passives": [
@@ -24160,7 +24264,7 @@ window.allHeroes =
         "color": "綠",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "大豐收",
+        "skill": "豐富礦產",
         "types": [],
         "skill_types": [
             "生命強化",
@@ -24170,7 +24274,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-09-07",
-        "specialId": "plentiful_harvest",
+        "specialId": "plentiful_minerals",
+        "parent_specialId": "plentiful_harvest",
         "passiveSkills": [
             "sun_extra_special_heal_and_cleanse_latest_debuff"
         ],
@@ -24494,7 +24599,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "信心滿滿",
+        "skill": "獲得希望",
         "types": [
             "治療者",
             "3個目標法力生成增益"
@@ -24505,7 +24610,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
-        "specialId": "have_faith",
+        "specialId": "have_curiosity",
+        "parent_specialId": "have_faith",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_friar_costume_explorer",
@@ -24554,7 +24660,7 @@ window.allHeroes =
         "color": "綠",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "信心滿滿",
+        "skill": "公仔信念",
         "types": [
             "治療3個目標",
             "3個目標法力生成增益"
@@ -24565,7 +24671,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-05-31",
-        "specialId": "have_faith",
+        "specialId": "adorable_have_faith",
+        "parent_specialId": "have_faith",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -24618,7 +24725,7 @@ window.allHeroes =
         "color": "綠",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "信心滿滿",
+        "skill": "純淨信仰",
         "types": [
             "治療3個目標",
             "3個目標法力生成增益",
@@ -24631,7 +24738,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-06-18",
-        "specialId": "have_faith",
+        "specialId": "glass_have_faith",
+        "parent_specialId": "have_faith",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -24945,7 +25053,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "慢速",
-        "skill": "長老的妙法",
+        "skill": "園丁的妙法",
         "types": [
             "復活者",
             "持續治療"
@@ -24956,7 +25064,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-11-09",
-        "specialId": "elders_remedy",
+        "specialId": "gardeners_remedy",
+        "parent_specialId": "elders_remedy",
         "passiveSkills": [
             "special_damage_reduction"
         ],
@@ -25185,7 +25294,7 @@ window.allHeroes =
         "color": "綠",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "錘擊飛躍",
+        "skill": "振奮速攻",
         "types": [
             "攻擊3個目標",
             "3個目標防禦降低"
@@ -25196,7 +25305,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
-        "specialId": "ramming_rush",
+        "specialId": "bolstering_rush",
+        "parent_specialId": "ramming_rush",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "lizardman_warrior_costume_dinosaur",
@@ -25245,7 +25355,7 @@ window.allHeroes =
         "color": "綠",
         "class": "遊俠",
         "speed": "中等",
-        "skill": "錘擊飛躍",
+        "skill": "公仔猛攻",
         "types": [
             "攻擊3個目標"
         ],
@@ -25255,7 +25365,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-07-16",
-        "specialId": "ramming_rush",
+        "specialId": "adorable_ramming_rush_isshtak",
+        "parent_specialId": "ramming_rush",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -25308,7 +25419,7 @@ window.allHeroes =
         "color": "綠",
         "class": "遊俠",
         "speed": "中等",
-        "skill": "錘擊飛躍",
+        "skill": "玻璃猛攻",
         "types": [
             "攻擊3個目標",
             "無視防禦"
@@ -25319,7 +25430,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-09-07",
-        "specialId": "ramming_rush",
+        "specialId": "glass_ramming_rush_isshtak",
+        "parent_specialId": "ramming_rush",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -25629,7 +25741,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "快速",
-        "skill": "亞特蘭蒂斯長矛",
+        "skill": "亞特蘭蒂斯衝鋒",
         "types": [
             "攻擊單個目標",
             "全體淨化"
@@ -25640,7 +25752,8 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-02",
-        "specialId": "frightening_pinch",
+        "specialId": "atlantean_charge",
+        "parent_specialId": "frightening_pinch",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_merman_costume_leutenant",
@@ -26504,7 +26617,7 @@ window.allHeroes =
         "color": "綠",
         "class": "野人",
         "speed": "快速",
-        "skill": "暗影掃除",
+        "skill": "暗影戳刺",
         "types": [
             "攻擊單個目標",
             "法力削減",
@@ -26517,7 +26630,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-03-13",
-        "specialId": "shadow_sweep",
+        "specialId": "shadow_lunge",
+        "parent_specialId": "shadow_sweep",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_almur_costume_lord",
@@ -26863,7 +26977,7 @@ window.allHeroes =
         "color": "綠",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "禮物麻袋",
+        "skill": "禮物清單",
         "types": [
             "攻擊3個目標",
             "召喚3個小兵",
@@ -26879,7 +26993,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2025-12-01",
-        "specialId": "giftsack",
+        "specialId": "gift_list",
+        "parent_specialId": "giftsack",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "frost_on_minion_damage_done"
@@ -27001,7 +27116,7 @@ window.allHeroes =
         "color": "綠",
         "class": "戰士",
         "speed": "快速",
-        "skill": "刺穿打擊",
+        "skill": "俐落攻擊",
         "types": [
             "攻擊單個目標",
             "全體淨化"
@@ -27012,7 +27127,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
-        "specialId": "piercing_strike",
+        "specialId": "cleansing_strike",
+        "parent_specialId": "piercing_strike",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elven_captain_costume_mask",
@@ -27061,7 +27177,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "快速",
-        "skill": "刺穿打擊",
+        "skill": "英勇打擊",
         "types": [
             "攻擊3個目標",
             "驅散3個目標的增益"
@@ -27073,7 +27189,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-12-26",
-        "specialId": "piercing_strike",
+        "specialId": "valorant_strike",
+        "parent_specialId": "piercing_strike",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elven_captain_costume_cavalier",
@@ -27128,7 +27245,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "刺穿打擊",
+        "skill": "公仔驚奇打擊",
         "types": [
             "攻擊單個目標",
             "驅散者"
@@ -27140,7 +27257,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-01-22",
-        "specialId": "piercing_strike",
+        "specialId": "toontastic_strike",
+        "parent_specialId": "piercing_strike",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -27199,7 +27317,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "刺穿打擊",
+        "skill": "玻璃打擊",
         "types": [
             "攻擊單個目標",
             "全體攻擊降低",
@@ -27213,7 +27331,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-01-14",
-        "specialId": "piercing_strike",
+        "specialId": "glass_strike_caedmon",
+        "parent_specialId": "piercing_strike",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -27470,7 +27589,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "慢速",
-        "skill": "賦能猛擊",
+        "skill": "強力猛擊",
         "types": [
             "攻擊所有目標",
             "攻擊增益",
@@ -27484,7 +27603,8 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-02",
-        "specialId": "empowering_bash",
+        "specialId": "strengthening_smash",
+        "parent_specialId": "empowering_bash",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_atlantean_robot_costume_sentinel",
@@ -27598,7 +27718,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "中等",
-        "skill": "小兵捕食者",
+        "skill": "高蛋白食客",
         "types": [
             "偷取1個小兵",
             "攻擊單個目標",
@@ -27611,7 +27731,8 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-04-03",
-        "specialId": "familiar_eater",
+        "specialId": "protein_eater",
+        "parent_specialId": "familiar_eater",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_chameleon_chief_costume_heavyweight",
@@ -27735,7 +27856,7 @@ window.allHeroes =
         "color": "綠",
         "class": "戰士",
         "speed": "快速",
-        "skill": "女巫殺手",
+        "skill": "吸血鬼殺手",
         "types": [
             "攻擊單個目標",
             "法力全滿時造成傷害 (單體)",
@@ -27749,7 +27870,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-08-10",
-        "specialId": "witch_killer",
+        "specialId": "vampire_killer",
+        "parent_specialId": "witch_killer",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "fables_hansel_costume_vampire_hunter",
@@ -27862,7 +27984,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "快速",
-        "skill": "魯莽連斬",
+        "skill": "雞蛋彈幕",
         "types": [
             "攻擊所有目標",
             "連鎖"
@@ -27874,7 +27996,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2022-03-21",
-        "specialId": "reckless_slash",
+        "specialId": "egg_barrage",
+        "parent_specialId": "reckless_slash",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "rabbit_green_costume_egg_hunter",
@@ -28115,7 +28238,7 @@ window.allHeroes =
         "color": "綠",
         "class": "術士",
         "speed": "中等",
-        "skill": "沼澤皮膚",
+        "skill": "第二層皮",
         "types": [
             "3個目標生命值加成",
             "元素防禦增益"
@@ -28127,7 +28250,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
-        "specialId": "swamp_skin",
+        "specialId": "second_skin",
+        "parent_specialId": "swamp_skin",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "lizardman_trapper_costume_shaman",
@@ -28176,7 +28300,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "沼澤皮膚",
+        "skill": "鱗甲皮膚",
         "types": [
             "3個目標持續治療",
             "3個目標特殊技能防禦增益"
@@ -28187,7 +28311,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-11-27",
-        "specialId": "swamp_skin",
+        "specialId": "scaly_skin",
+        "parent_specialId": "swamp_skin",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "lizardman_trapper_costume_fisher",
@@ -28236,7 +28361,7 @@ window.allHeroes =
         "color": "綠",
         "class": "巫師",
         "speed": "中等",
-        "skill": "沼澤皮膚",
+        "skill": "公仔皮膚",
         "types": [
             "治療3個目標",
             "3個目標元素防禦增益"
@@ -28247,7 +28372,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-05-31",
-        "specialId": "swamp_skin",
+        "specialId": "adorable_skin",
+        "parent_specialId": "swamp_skin",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -28300,7 +28426,7 @@ window.allHeroes =
         "color": "綠",
         "class": "巫師",
         "speed": "中等",
-        "skill": "沼澤皮膚",
+        "skill": "玻璃膚",
         "types": [
             "治療3個目標",
             "自然盟友減益反射",
@@ -28313,7 +28439,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-06-18",
-        "specialId": "swamp_skin",
+        "specialId": "glass_skin",
+        "parent_specialId": "swamp_skin",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -28503,7 +28630,7 @@ window.allHeroes =
         "color": "綠",
         "class": "遊俠",
         "speed": "慢速",
-        "skill": "巨力砍擊",
+        "skill": "巨力劈擊",
         "types": [
             "攻擊所有目標",
             "3個目標閃避增益"
@@ -28515,7 +28642,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
-        "specialId": "massive_chop",
+        "specialId": "massive_cleave",
+        "parent_specialId": "massive_chop",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_woodsman_warrior_costume_camouflage",
@@ -28565,7 +28693,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "慢速",
-        "skill": "巨力砍擊",
+        "skill": "巨力揮擊",
         "types": [
             "攻擊所有目標",
             "全體法力生成增益"
@@ -28576,7 +28704,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-10-30",
-        "specialId": "massive_chop",
+        "specialId": "massive_swing",
+        "parent_specialId": "massive_chop",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_woodsman_warrior_costume_highlander",
@@ -28625,7 +28754,7 @@ window.allHeroes =
         "color": "綠",
         "class": "野人",
         "speed": "慢速",
-        "skill": "巨力砍擊",
+        "skill": "公仔驚奇砍擊",
         "types": [
             "攻擊所有目標",
             "法力生成降低"
@@ -28637,7 +28766,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-05-06",
-        "specialId": "massive_chop",
+        "specialId": "adorable_massive_chop",
+        "parent_specialId": "massive_chop",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -28696,7 +28826,7 @@ window.allHeroes =
         "color": "綠",
         "class": "野人",
         "speed": "慢速",
-        "skill": "巨力砍擊",
+        "skill": "玻璃砍擊",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -28709,7 +28839,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-05-10",
-        "specialId": "massive_chop",
+        "specialId": "glass_massive_chop",
+        "parent_specialId": "massive_chop",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -28895,7 +29026,7 @@ window.allHeroes =
         "color": "綠",
         "class": "巫師",
         "speed": "中等",
-        "skill": "墮落塵霧",
+        "skill": "毀滅迷霧",
         "types": [
             "持續治療",
             "防禦增益",
@@ -28908,7 +29039,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
-        "specialId": "fog_of_the_fallen",
+        "specialId": "fog_of_the_perished",
+        "parent_specialId": "fog_of_the_fallen",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_mage_costume_white",
@@ -28959,7 +29091,7 @@ window.allHeroes =
         "color": "綠",
         "class": "術士",
         "speed": "中等",
-        "skill": "墮落塵霧",
+        "skill": "煙霧機器之霧",
         "types": [
             "治療者",
             "攻擊增益",
@@ -28972,7 +29104,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-10-30",
-        "specialId": "fog_of_the_fallen",
+        "specialId": "fog_machine",
+        "parent_specialId": "fog_of_the_fallen",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_mage_costume_party",
@@ -29023,7 +29156,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "墮落塵霧",
+        "skill": "公仔驚奇霧",
         "types": [
             "治療者",
             "防禦增益",
@@ -29036,7 +29169,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-01-22",
-        "specialId": "fog_of_the_fallen",
+        "specialId": "toontastic_fog",
+        "parent_specialId": "fog_of_the_fallen",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -29091,7 +29225,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "墮落塵霧",
+        "skill": "彩繪玻璃迷霧",
         "types": [
             "全體治療",
             "自然盟友反射狀態異常",
@@ -29105,7 +29239,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-03-11",
-        "specialId": "fog_of_the_fallen",
+        "specialId": "fog_of_the_vitrails",
+        "parent_specialId": "fog_of_the_fallen",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -29230,7 +29365,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "中等",
-        "skill": "妖精之歌",
+        "skill": "妖精讚歌",
         "types": [
             "召喚者",
             "攻擊降低"
@@ -29242,7 +29377,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2023-08-07",
-        "specialId": "sprite_ballad",
+        "specialId": "sprite_hymn",
+        "parent_specialId": "sprite_ballad",
         "passiveSkills": [
             "heal_mana_on_low_health_once"
         ],
@@ -29383,7 +29519,7 @@ window.allHeroes =
         "color": "綠",
         "class": "僧侶",
         "speed": "潮汐",
-        "skill": "厭惡劈擊",
+        "skill": "毒和弦",
         "types": [
             "攻擊3個目標",
             "法力削減",
@@ -29398,7 +29534,8 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-03-31",
-        "specialId": "noxious_cleave",
+        "specialId": "noxious_chord",
+        "parent_specialId": "noxious_cleave",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_stacking_mana_generation"
         ],
@@ -29758,7 +29895,7 @@ window.allHeroes =
         "color": "綠",
         "class": "巫師",
         "speed": "快速",
-        "skill": "海盜利刃",
+        "skill": "震驚的消息",
         "types": [
             "攻擊單個目標",
             "沈默",
@@ -29771,7 +29908,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-12-28",
-        "specialId": "buccaneers_blade",
+        "specialId": "shocking_news",
+        "parent_specialId": "buccaneers_blade",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "pirate_cabin_boy_costume_paper",
@@ -29889,7 +30027,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "神聖連接",
+        "skill": "自然連結",
         "types": [
             "全體治療",
             "3個目標狀態異常免疫"
@@ -29903,7 +30041,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-10-05",
-        "specialId": "divine_connection",
+        "specialId": "natures_connection",
+        "parent_specialId": "divine_connection",
         "passiveSkills": [
             "sun_extra_special_heal_and_cleanse_latest_debuff"
         ],
@@ -30090,7 +30229,7 @@ window.allHeroes =
         "color": "綠",
         "class": "牧師",
         "speed": "慢速",
-        "skill": "匍匐藤蔓",
+        "skill": "糖果藤蔓",
         "types": [
             "攻擊所有目標",
             "全體攻擊降低"
@@ -30101,7 +30240,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
-        "specialId": "creeping_vines",
+        "specialId": "candy_vines",
+        "parent_specialId": "creeping_vines",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "goblin_mage_costume_candy",
@@ -30150,7 +30290,7 @@ window.allHeroes =
         "color": "綠",
         "class": "巫師",
         "speed": "慢速",
-        "skill": "匍匐藤蔓",
+        "skill": "纏繞藤蔓",
         "types": [
             "攻擊所有目標",
             "全體防禦降低"
@@ -30161,7 +30301,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-04-17",
-        "specialId": "creeping_vines",
+        "specialId": "crawling_vines",
+        "parent_specialId": "creeping_vines",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "goblin_mage_costume_toad",
@@ -30210,7 +30351,7 @@ window.allHeroes =
         "color": "綠",
         "class": "術士",
         "speed": "慢速",
-        "skill": "匍匐藤蔓",
+        "skill": "公仔藤蔓",
         "types": [
             "攻擊所有目標",
             "全體攻擊降低"
@@ -30222,7 +30363,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-03-11",
-        "specialId": "creeping_vines",
+        "specialId": "toon_vines",
+        "parent_specialId": "creeping_vines",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -30281,7 +30423,7 @@ window.allHeroes =
         "color": "綠",
         "class": "術士",
         "speed": "慢速",
-        "skill": "匍匐藤蔓",
+        "skill": "玻璃藤蔓",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -30294,7 +30436,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-04-08",
-        "specialId": "creeping_vines",
+        "specialId": "glass_vines",
+        "parent_specialId": "creeping_vines",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -30494,7 +30637,7 @@ window.allHeroes =
         "color": "綠",
         "class": "野人",
         "speed": "中等",
-        "skill": "致殘抓握",
+        "skill": "令人低落的取笑",
         "types": [
             "攻擊單個目標",
             "沈默",
@@ -30507,7 +30650,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-12-07",
-        "specialId": "crippling_grapple",
+        "specialId": "demoralizing_banter",
+        "parent_specialId": "crippling_grapple",
         "passiveSkills": [
             "special_damage_reduction"
         ],
@@ -30635,7 +30779,7 @@ window.allHeroes =
         "color": "綠",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "公爵細察",
+        "skill": "偽裝調查",
         "types": [
             "攻擊3個目標",
             "召喚3個惡魔",
@@ -30651,7 +30795,8 @@ window.allHeroes =
         ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2025-11-12",
-        "specialId": "the_dukes_investigation",
+        "specialId": "the_undercover_investigation",
+        "parent_specialId": "the_dukes_investigation",
         "passiveSkills": [
             "damage_all_enemies_on_cover_or_special_damage_received_costume",
             "resist_defense_modifier_debuffs"
@@ -30839,7 +30984,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "慢速",
-        "skill": "遠古明鏡",
+        "skill": "青翠鏡",
         "types": [
             "攻擊所有目標",
             "全體元素反射",
@@ -30851,7 +30996,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-03-04",
-        "specialId": "ancient_mirror",
+        "specialId": "verdant_mirror",
+        "parent_specialId": "ancient_mirror",
         "passiveSkills": [
             "moon_extra_special_damage_and_mana_regen_debuff"
         ],
@@ -30977,7 +31123,7 @@ window.allHeroes =
         "color": "綠",
         "class": "牧師",
         "speed": "慢速",
-        "skill": "仲夏夜之夢",
+        "skill": "仲夏夜白日夢",
         "types": [
             "復活者",
             "持續治療",
@@ -30993,7 +31139,8 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-10-20",
-        "specialId": "midsummers_dream",
+        "specialId": "midsummers_reverie",
+        "parent_specialId": "midsummers_dream",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_cleanse_newest"
@@ -31193,7 +31340,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "寓言羊駝民謠",
+        "skill": "精力牧歌",
         "types": [
             "攻擊所有目標",
             "增益免疫狀態異常",
@@ -31206,7 +31353,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2024-03-18",
-        "specialId": "fabled_llama_ballad",
+        "specialId": "vigorous_villanelle",
+        "parent_specialId": "fabled_llama_ballad",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "easter_archie_costume_gallant",
@@ -31567,7 +31715,7 @@ window.allHeroes =
         "color": "綠",
         "class": "戰士",
         "speed": "飛速",
-        "skill": "穿刺射擊",
+        "skill": "工匠射擊",
         "types": [
             "摧毀單個目標的小兵",
             "攻擊單個目標",
@@ -31585,7 +31733,8 @@ window.allHeroes =
         ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2025-12-19",
-        "specialId": "piercing_shot",
+        "specialId": "artisans_shot",
+        "parent_specialId": "piercing_shot",
         "passiveSkills": [
             "damage_all_enemies_on_cover_or_special_damage_received_costume",
             "resist_defense_modifier_debuffs"
@@ -31712,7 +31861,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "中等",
-        "skill": "永生殲滅者",
+        "skill": "永生懲罰者",
         "types": [
             "攻擊所有目標",
             "自我復活"
@@ -31724,7 +31873,8 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-04-03",
-        "specialId": "immortal_annihilator",
+        "specialId": "immortal_punisher",
+        "parent_specialId": "immortal_annihilator",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_skyllaros_costume_reef",
@@ -32807,7 +32957,7 @@ window.allHeroes =
         "color": "綠",
         "class": "野人",
         "speed": "慢速",
-        "skill": "幽魂枷鎖",
+        "skill": "海草連枷",
         "types": [
             "隨機攻擊5個目標",
             "攻擊降低疊加"
@@ -32819,7 +32969,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-08-01",
-        "specialId": "spectres_flail",
+        "specialId": "seaweed_flail",
+        "parent_specialId": "spectres_flail",
         "passiveSkills": [
             "special_damage_reduction"
         ],
@@ -33023,7 +33174,7 @@ window.allHeroes =
         "color": "綠",
         "class": "牧師",
         "speed": "魔法",
-        "skill": "雀躍雙刃",
+        "skill": "翠綠雙刃",
         "types": [
             "蓄力",
             "攻擊單個目標",
@@ -33038,7 +33189,8 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2025-11-03",
-        "specialId": "charmed_dual_blade",
+        "specialId": "emerald_dual_blade",
+        "parent_specialId": "charmed_dual_blade",
         "passiveSkills": [
             "magic_mana_regen_debuff_on_special_costume"
         ],
@@ -33532,7 +33684,7 @@ window.allHeroes =
         "color": "綠",
         "class": "牧師",
         "speed": "快速",
-        "skill": "毒芹茶",
+        "skill": "大蒜盤",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -33547,7 +33699,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2025-10-08",
-        "specialId": "hemlock_tea",
+        "specialId": "garlic_serving_edwin",
+        "parent_specialId": "hemlock_tea",
         "passiveSkills": [
             "halloween_steal_buff_or_deal_damage_new"
         ],
@@ -33676,7 +33829,7 @@ window.allHeroes =
         "color": "綠",
         "class": "術士",
         "speed": "中等",
-        "skill": "完美的團隊合作",
+        "skill": "和諧團隊合作",
         "types": [
             "摧毀單個目標的小兵",
             "攻擊單個目標",
@@ -33689,7 +33842,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2025-08-08",
-        "specialId": "perfect_teamwork",
+        "specialId": "balanced_teamwork",
+        "parent_specialId": "perfect_teamwork",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "cleansed_ailments_to_enemy"
@@ -33890,7 +34044,7 @@ window.allHeroes =
         "color": "綠",
         "class": "術士",
         "speed": "快速",
-        "skill": "誘惑之歌",
+        "skill": "慰藉之歌",
         "types": [
             "攻擊3個目標",
             "增益免疫"
@@ -33902,7 +34056,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2025-01-20",
-        "specialId": "luring_song",
+        "specialId": "soothing_song",
+        "parent_specialId": "luring_song",
         "passiveSkills": [
             "moon_extra_special_damage_and_dispel_latest_buff"
         ],
@@ -34021,7 +34176,7 @@ window.allHeroes =
         "color": "綠",
         "class": "野人",
         "speed": "快速",
-        "skill": "新月長矛",
+        "skill": "天蝕之矛",
         "types": [
             "攻擊3個目標",
             "治療偷取"
@@ -34033,7 +34188,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
-        "specialId": "crescent_spear",
+        "specialId": "eclipse_spear",
+        "parent_specialId": "crescent_spear",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_male_elf_costume_dark",
@@ -34082,7 +34238,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "快速",
-        "skill": "新月長矛",
+        "skill": "皎月之矛",
         "types": [
             "攻擊所有目標",
             "治療降低"
@@ -34093,7 +34249,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-09-05",
-        "specialId": "crescent_spear",
+        "specialId": "lunar_spear",
+        "parent_specialId": "crescent_spear",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_male_elf_costume_king",
@@ -34142,7 +34299,7 @@ window.allHeroes =
         "color": "綠",
         "class": "牧師",
         "speed": "快速",
-        "skill": "新月長矛",
+        "skill": "卡通長矛",
         "types": [
             "攻擊3個目標",
             "自我治療"
@@ -34154,7 +34311,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-11-27",
-        "specialId": "crescent_spear",
+        "specialId": "adorable_spear",
+        "parent_specialId": "crescent_spear",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -34209,7 +34367,7 @@ window.allHeroes =
         "color": "綠",
         "class": "牧師",
         "speed": "快速",
-        "skill": "新月長矛",
+        "skill": "玻璃矛",
         "types": [
             "攻擊3個目標",
             "自我治療"
@@ -34221,7 +34379,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-01-14",
-        "specialId": "crescent_spear",
+        "specialId": "glass_spear",
+        "parent_specialId": "crescent_spear",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -34749,7 +34908,7 @@ window.allHeroes =
         "color": "綠",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "震撼戰嚎",
+        "skill": "狩獵戰嚎",
         "types": [
             "攻擊3個目標",
             "元素防禦降低",
@@ -34764,7 +34923,8 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-10-02",
-        "specialId": "shattering_warcry",
+        "specialId": "warcry_of_the_hunt",
+        "parent_specialId": "shattering_warcry",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_cleanse_newest"
@@ -35354,7 +35514,7 @@ window.allHeroes =
         "color": "綠",
         "class": "術士",
         "speed": "快速",
-        "skill": "電馳刀刃",
+        "skill": "電子戳擊",
         "types": [
             "攻擊3個目標",
             "淨化者",
@@ -35367,7 +35527,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2021-10-04",
-        "specialId": "electric_cut",
+        "specialId": "electric_stab",
+        "parent_specialId": "electric_cut",
         "passiveSkills": [
             "halloween_steal_buff_or_deal_damage_new"
         ],
@@ -35426,7 +35587,7 @@ window.allHeroes =
         "types": [
             "安全驅散全體增益",
             "全體強化治療",
-            "狀態異常之源"
+            "隨機1個狀態異常來源"
         ],
         "skill_types": [
             "驅散",
@@ -35568,7 +35729,7 @@ window.allHeroes =
         "color": "綠",
         "class": "巫師",
         "speed": "快速",
-        "skill": "碎裂之力",
+        "skill": "尖脆爆裂",
         "types": [
             "攻擊所有目標",
             "防禦降低"
@@ -35580,7 +35741,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-01-16",
-        "specialId": "brittling_force",
+        "specialId": "brittling_burst",
+        "parent_specialId": "brittling_force",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_frigg_costume_clairvoyance",
@@ -35940,7 +36102,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "潮汐",
-        "skill": "龜甲翻滾",
+        "skill": "龜甲岩石",
         "types": [
             "摧毀小兵",
             "攻擊所有目標",
@@ -35955,7 +36117,8 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-07-27",
-        "specialId": "testudo_roll",
+        "specialId": "testudo_rock",
+        "parent_specialId": "testudo_roll",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_critical"
         ],
@@ -36090,7 +36253,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "快速",
-        "skill": "毀滅鏈枷",
+        "skill": "耐力風箏",
         "types": [
             "攻擊單個目標",
             "自我持續治療"
@@ -36103,7 +36266,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-06-22",
-        "specialId": "flail_of_destruction",
+        "specialId": "kite_of_endurance",
+        "parent_specialId": "flail_of_destruction",
         "passiveSkills": [
             "decrease_debuff_duration"
         ],
@@ -36317,7 +36481,7 @@ window.allHeroes =
         "color": "綠",
         "class": "戰士",
         "speed": "潮汐",
-        "skill": "漩渦衝刺",
+        "skill": "掃蕩衝刺",
         "types": [
             "偷取單個目標法力",
             "攻擊單個目標",
@@ -36332,7 +36496,8 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-06-26",
-        "specialId": "whirlpool_dash",
+        "specialId": "scavenging_dash",
+        "parent_specialId": "whirlpool_dash",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_critical"
         ],
@@ -36476,7 +36641,7 @@ window.allHeroes =
         "color": "綠",
         "class": "牧師",
         "speed": "快速",
-        "skill": "快速板機指",
+        "skill": "飛速包禮人員",
         "types": [
             "召喚所有",
             "盟友特殊技能時攻擊單個目標",
@@ -36491,7 +36656,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2025-12-01",
-        "specialId": "hasty_trigger_finger",
+        "specialId": "hasty_gift_wrapper",
+        "parent_specialId": "hasty_trigger_finger",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "frost_on_minion_damage_done"
@@ -36912,7 +37078,7 @@ window.allHeroes =
         "color": "綠",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "堅定聚焦",
+        "skill": "優雅煉金",
         "types": [
             "攻擊單個目標",
             "暴擊命中增益"
@@ -36925,7 +37091,8 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-03-08",
-        "specialId": "unwavering_focus",
+        "specialId": "exquisite_alchemy",
+        "parent_specialId": "unwavering_focus",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_dispel_newest"
@@ -37200,7 +37367,7 @@ window.allHeroes =
         "color": "綠",
         "class": "野人",
         "speed": "中等",
-        "skill": "青龍偃月刀",
+        "skill": "綠龍煉獄之刃",
         "types": [
             "攻擊3個目標",
             "無視小兵",
@@ -37213,7 +37380,8 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2024-10-01",
-        "specialId": "green_dragon_crescent_blade",
+        "specialId": "green_dragon_inferno",
+        "parent_specialId": "green_dragon_crescent_blade",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "kingdom_unstoppable_minions"
@@ -37563,7 +37731,7 @@ window.allHeroes =
         "color": "綠",
         "class": "巫師",
         "speed": "慢速",
-        "skill": "加拉爾號角",
+        "skill": "加拉爾號角庇佑",
         "types": [
             "復活",
             "攻擊增益",
@@ -37577,7 +37745,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-10-24",
-        "specialId": "boon_of_gjallarhorn",
+        "specialId": "blessing_of_gjallarhorn",
+        "parent_specialId": "boon_of_gjallarhorn",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_heimdall_costume_dreaded",
@@ -37687,7 +37856,7 @@ window.allHeroes =
         "color": "綠",
         "class": "遊俠",
         "speed": "慢速",
-        "skill": "森林之怒",
+        "skill": "小丑之怒",
         "types": [
             "攻擊所有目標",
             "全體攻擊降低"
@@ -37698,7 +37867,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
-        "specialId": "anger_of_forest",
+        "specialId": "anger_of_the_jester",
+        "parent_specialId": "anger_of_forest",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_titan_costume_jester",
@@ -37762,7 +37932,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-10-31",
-        "specialId": "anger_of_forest",
+        "specialId": "anger_of_the_woods",
+        "parent_specialId": "anger_of_forest",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_titan_costume_nightmare",
@@ -37816,7 +37987,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "慢速",
-        "skill": "森林之怒",
+        "skill": "公仔之怒",
         "types": [
             "攻擊所有目標",
             "全體攻擊降低"
@@ -37828,7 +37999,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-07-16",
-        "specialId": "anger_of_forest",
+        "specialId": "tantrum_of_forest",
+        "parent_specialId": "anger_of_forest",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -37887,7 +38059,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "慢速",
-        "skill": "森林之怒",
+        "skill": "碎片之怒",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -37900,7 +38072,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-09-07",
-        "specialId": "anger_of_forest",
+        "specialId": "glass_anger_of_forest_horghall",
+        "parent_specialId": "anger_of_forest",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -38470,7 +38643,7 @@ window.allHeroes =
         "color": "綠",
         "class": "術士",
         "speed": "快速",
-        "skill": "日食護盾",
+        "skill": "新月盾牌",
         "types": [
             "攻擊所有目標",
             "全體小兵閃避增益"
@@ -38482,7 +38655,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
-        "specialId": "eclipse_shield",
+        "specialId": "crescent_shield",
+        "parent_specialId": "eclipse_shield",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_female_elf_costume_mage",
@@ -38537,7 +38711,7 @@ window.allHeroes =
         "color": "綠",
         "class": "牧師",
         "speed": "快速",
-        "skill": "日食護盾",
+        "skill": "月之盾",
         "types": [
             "攻擊所有目標",
             "全體小兵閃避增益"
@@ -38549,7 +38723,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-04-17",
-        "specialId": "eclipse_shield",
+        "specialId": "lunar_shield",
+        "parent_specialId": "eclipse_shield",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_female_elf_costume_fairy",
@@ -38604,7 +38779,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "日食護盾",
+        "skill": "護盾公仔",
         "types": [
             "攻擊所有目標",
             "全體特殊技能防禦增益"
@@ -38616,7 +38791,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-10-06",
-        "specialId": "eclipse_shield",
+        "specialId": "adorable_shield",
+        "parent_specialId": "eclipse_shield",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -38675,7 +38851,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "日食護盾",
+        "skill": "玻璃護盾",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -38688,7 +38864,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-12-11",
-        "specialId": "eclipse_shield",
+        "specialId": "glass_shield_kadilen",
+        "parent_specialId": "eclipse_shield",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -39124,7 +39301,7 @@ window.allHeroes =
         "color": "綠",
         "class": "戰士",
         "speed": "中等",
-        "skill": "月光小夜曲",
+        "skill": "叛亂小夜曲",
         "types": [
             "攻擊3個目標",
             "3個目標持續傷害",
@@ -39137,7 +39314,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-12-28",
-        "specialId": "moonlight_serenade",
+        "specialId": "serenade_of_sedition",
+        "parent_specialId": "moonlight_serenade",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_poison"
@@ -39255,7 +39433,7 @@ window.allHeroes =
         "color": "綠",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "魔力寶劍",
+        "skill": "祝福之刃",
         "types": [
             "生命值加成",
             "召喚者"
@@ -39267,7 +39445,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2021-12-15",
-        "specialId": "magical_sword",
+        "specialId": "blessed_blade",
+        "parent_specialId": "magical_sword",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "knights_lady_of_the_lake_costume_blades",
@@ -39586,7 +39765,7 @@ window.allHeroes =
         "color": "綠",
         "class": "牧師",
         "speed": "快速",
-        "skill": "完美一擊",
+        "skill": "純淨射擊",
         "types": [
             "攻擊單個目標",
             "法力生成降低"
@@ -39597,7 +39776,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
-        "specialId": "perfect_shot",
+        "specialId": "pure_shot",
+        "parent_specialId": "perfect_shot",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elven_archer_costume_moon",
@@ -39646,7 +39826,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "完美一擊",
+        "skill": "完美射擊",
         "types": [
             "攻擊單個目標",
             "沈默者"
@@ -39657,7 +39837,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-04-17",
-        "specialId": "perfect_shot",
+        "specialId": "flawless_shot",
+        "parent_specialId": "perfect_shot",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elven_archer_costume_raven",
@@ -39706,7 +39887,7 @@ window.allHeroes =
         "color": "綠",
         "class": "遊俠",
         "speed": "快速",
-        "skill": "完美一擊",
+        "skill": "公仔射擊",
         "types": [
             "攻擊單個目標"
         ],
@@ -39716,7 +39897,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-02-12",
-        "specialId": "perfect_shot",
+        "specialId": "toon_shot",
+        "parent_specialId": "perfect_shot",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -39769,7 +39951,7 @@ window.allHeroes =
         "color": "綠",
         "class": "遊俠",
         "speed": "快速",
-        "skill": "完美一擊",
+        "skill": "玻璃箭",
         "types": [
             "攻擊單個目標",
             "無視防禦"
@@ -39780,7 +39962,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-05-10",
-        "specialId": "perfect_shot",
+        "specialId": "glass_arrow",
+        "parent_specialId": "perfect_shot",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -40141,7 +40324,7 @@ window.allHeroes =
         "color": "綠",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "仁義之師",
+        "skill": "森林指揮",
         "types": [
             "攻擊3個目標",
             "召喚者",
@@ -40154,7 +40337,8 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2025-01-29",
-        "specialId": "call_to_arms",
+        "specialId": "forest_command",
+        "parent_specialId": "call_to_arms",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "kingdom_unstoppable_minions"
@@ -40290,7 +40474,7 @@ window.allHeroes =
         "color": "綠",
         "class": "牧師",
         "speed": "慢速",
-        "skill": "超凡法術",
+        "skill": "超凡充能",
         "types": [
             "自我完全移除",
             "幽靈形態",
@@ -40306,7 +40490,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-08-29",
-        "specialId": "transcendental_frame",
+        "specialId": "transcendental_charge",
+        "parent_specialId": "transcendental_frame",
         "passiveSkills": [
             "special_damage_reduction"
         ],
@@ -40434,7 +40619,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "快速",
-        "skill": "秩序降臨",
+        "skill": "藍河守護者",
         "types": [
             "攻擊所有目標",
             "防禦降低"
@@ -40446,7 +40631,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-02-05",
-        "specialId": "bringer_of_order",
+        "specialId": "protector_of_the_blue_river",
+        "parent_specialId": "bringer_of_order",
         "passiveSkills": [
             "sun_extra_special_damage_and_attack_debuff"
         ],
@@ -41202,7 +41388,7 @@ window.allHeroes =
         "color": "綠",
         "class": "僧侶",
         "speed": "慢速",
-        "skill": "超級麥片粥",
+        "skill": "超麥片粥",
         "types": [
             "復活者",
             "召喚者",
@@ -41215,7 +41401,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2021-12-01",
-        "specialId": "super_porridge",
+        "specialId": "hyper_porridge",
+        "parent_specialId": "super_porridge",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "frost_on_minion_damage_done"
@@ -41632,7 +41819,7 @@ window.allHeroes =
         "color": "綠",
         "class": "僧侶",
         "speed": "快速",
-        "skill": "保護傳奇",
+        "skill": "守護曲調",
         "types": [
             "全體生命值加成",
             "全體火風暴護體",
@@ -41649,7 +41836,8 @@ window.allHeroes =
         ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-10-15",
-        "specialId": "saga_of_protection",
+        "specialId": "guarding_tunes",
+        "parent_specialId": "saga_of_protection",
         "passiveSkills": [
             "molten_core_costume",
             "resist_burn_with_health_and_mana_boost_costume"
@@ -42000,7 +42188,7 @@ window.allHeroes =
         "color": "綠",
         "class": "野人",
         "speed": "快速",
-        "skill": "英勇猛刺",
+        "skill": "新穎猛刺",
         "types": [
             "驅散者",
             "攻擊單個目標",
@@ -42015,7 +42203,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-05-25",
-        "specialId": "valiant_lunge",
+        "specialId": "innovative_lunge",
+        "parent_specialId": "valiant_lunge",
         "passiveSkills": [
             "special_damage_reduction"
         ],
@@ -42433,7 +42622,7 @@ window.allHeroes =
         "color": "綠",
         "class": "僧侶",
         "speed": "快速",
-        "skill": "咆哮之劍",
+        "skill": "鏽蝕利刃",
         "types": [
             "攻擊3個目標",
             "自我力量提升",
@@ -42446,7 +42635,8 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-12-17",
-        "specialId": "howling_sword",
+        "specialId": "rusty_blade",
+        "parent_specialId": "howling_sword",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "increase_cast_status_effect_duration"
@@ -42649,7 +42839,7 @@ window.allHeroes =
         "color": "綠",
         "class": "巫師",
         "speed": "中等",
-        "skill": "世界樹堅果",
+        "skill": "世界樹之根",
         "types": [
             "治療者",
             "改變棋盤"
@@ -42662,7 +42852,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-09-25",
-        "specialId": "nuts_of_yggdrasil",
+        "specialId": "roots_of_yggdrasil",
+        "parent_specialId": "nuts_of_yggdrasil",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_ratatoskr_costume_architect",
@@ -42917,7 +43108,7 @@ window.allHeroes =
         "color": "綠",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "元素注入箭",
+        "skill": "音速注入箭",
         "types": [
             "攻擊 (1/3/所有) 目標"
         ],
@@ -42929,7 +43120,8 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2025-07-18",
-        "specialId": "elemental_infusion_arrow",
+        "specialId": "sonic_infusion_arrow",
+        "parent_specialId": "elemental_infusion_arrow",
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
@@ -43492,7 +43684,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "潮汐",
-        "skill": "難以抵擋的突襲",
+        "skill": "對立的掠奪",
         "types": [
             "攻擊所有目標",
             "召喚所有惡魔"
@@ -43504,7 +43696,8 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-02-03",
-        "specialId": "overwhelming_raid",
+        "specialId": "opposing_raid",
+        "parent_specialId": "overwhelming_raid",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_stacking_mana_generation"
         ],
@@ -44162,7 +44355,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "中等",
-        "skill": "武術神威",
+        "skill": "凱恩神威",
         "types": [
             "生命值加成",
             "泰坦攻擊增益"
@@ -44173,7 +44366,8 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-12-12",
-        "specialId": "martial_prowess",
+        "specialId": "martial_dance",
+        "parent_specialId": "martial_prowess",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_junglehunter_costume_party",
@@ -44456,7 +44650,7 @@ window.allHeroes =
         "color": "綠",
         "class": "術士",
         "speed": "魔法",
-        "skill": "人馬怪詩篇",
+        "skill": "人馬釀造",
         "types": [
             "蓄力",
             "全體承受的狀態異常傷害增加",
@@ -44476,7 +44670,8 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2025-12-27",
-        "specialId": "poem_of_the_centaurs",
+        "specialId": "brew_of_the_centaurs",
+        "parent_specialId": "poem_of_the_centaurs",
         "passiveSkills": [
             "magic_mana_regen_stack_on_special_costume",
             "magic_damage_on_full_charge_costume"
@@ -44687,7 +44882,7 @@ window.allHeroes =
         "color": "綠",
         "class": "巫師",
         "speed": "中等",
-        "skill": "瘋帽子先生",
+        "skill": "瘋狂茶會",
         "types": [
             "攻擊3個目標",
             "增益偷取者",
@@ -44700,7 +44895,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2024-04-18",
-        "specialId": "mad_as_a_hatter",
+        "specialId": "mad_tea_party",
+        "parent_specialId": "mad_as_a_hatter",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "possession_on_special"
@@ -44908,7 +45104,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "加速成長",
+        "skill": "興盛成長",
         "types": [
             "全體強化治療",
             "全體法力持續恢復",
@@ -44922,7 +45118,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2025-06-15",
-        "specialId": "accelerated_growth",
+        "specialId": "blooming_growth",
+        "parent_specialId": "accelerated_growth",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_curse"
@@ -45128,7 +45325,7 @@ window.allHeroes =
         "color": "綠",
         "class": "巫師",
         "speed": "快速",
-        "skill": "沼澤之歌",
+        "skill": "沼澤之詩",
         "types": [
             "攻擊3個目標",
             "命中降低"
@@ -45139,7 +45336,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2024-07-22",
-        "specialId": "song_of_the_morass",
+        "specialId": "poem_of_the_morass",
+        "parent_specialId": "song_of_the_morass",
         "passiveSkills": [
             "heal_mana_on_low_health_once"
         ],
@@ -45557,7 +45755,7 @@ window.allHeroes =
         "color": "綠",
         "class": "牧師",
         "speed": "中等",
-        "skill": "法力操控法杖",
+        "skill": "法力控制旋律",
         "types": [
             "攻擊單個目標",
             "攻擊全體 (冰)",
@@ -45575,7 +45773,8 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2025-12-07",
-        "specialId": "staff_of_mana_control",
+        "specialId": "melody_of_mana_control",
+        "parent_specialId": "staff_of_mana_control",
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
@@ -45936,7 +46135,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "慢速",
-        "skill": "沙暴",
+        "skill": "抹煞",
         "types": [
             "攻擊所有目標",
             "全體持續傷害",
@@ -45951,7 +46150,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 海灘派對",
         "Release date": "2021-06-21",
-        "specialId": "kings_curse",
+        "specialId": "sand_wave_yunan",
+        "parent_specialId": "kings_curse",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "sand_king_costume_lifeguard",
@@ -46155,7 +46355,7 @@ window.allHeroes =
         "color": "綠",
         "class": "術士",
         "speed": "快速",
-        "skill": "翠綠閃電",
+        "skill": "羽毛閃電",
         "types": [
             "驅散者",
             "攻擊所有目標",
@@ -46171,7 +46371,8 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-12-19",
-        "specialId": "emerald_flash",
+        "specialId": "plume_flash",
+        "parent_specialId": "emerald_flash",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_cleanse_newest"
@@ -46786,7 +46987,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "快速",
-        "skill": "縱身一躍",
+        "skill": "先行施咒",
         "types": [
             "攻擊3個目標",
             "3個目標閃避增益"
@@ -46799,7 +47000,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-08-10",
-        "specialId": "one_jump_ahead",
+        "specialId": "one_spell_ahead",
+        "parent_specialId": "one_jump_ahead",
         "passiveSkills": [
             "moon_extra_special_damage_and_dispel_latest_buff"
         ],
@@ -46911,7 +47113,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "快速",
-        "skill": "電子震顫",
+        "skill": "劇毒震顫",
         "types": [
             "攻擊單個目標",
             "單體持續傷害"
@@ -46922,7 +47124,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
-        "specialId": "electric_jolt",
+        "specialId": "poison_jolt",
+        "parent_specialId": "electric_jolt",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_mage_costume_voodoo",
@@ -46972,7 +47175,7 @@ window.allHeroes =
         "color": "紫",
         "class": "巫師",
         "speed": "快速",
-        "skill": "電子震顫",
+        "skill": "公仔震顫",
         "types": [
             "攻擊單個目標"
         ],
@@ -46982,7 +47185,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-01-22",
-        "specialId": "electric_jolt",
+        "specialId": "toon_jolt",
+        "parent_specialId": "electric_jolt",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -47035,7 +47239,7 @@ window.allHeroes =
         "color": "紫",
         "class": "巫師",
         "speed": "快速",
-        "skill": "電子震顫",
+        "skill": "玻璃震顫",
         "types": [
             "攻擊單個目標",
             "無視防禦"
@@ -47046,7 +47250,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-03-11",
-        "specialId": "electric_jolt",
+        "specialId": "glass_jolt",
+        "parent_specialId": "electric_jolt",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -47224,7 +47429,7 @@ window.allHeroes =
         "color": "紫",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "二連斬",
+        "skill": "賦能連斬",
         "types": [
             "攻擊單個目標",
             "彈射",
@@ -47237,7 +47442,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-07-04",
-        "specialId": "dual_slash",
+        "specialId": "empowered_slash",
+        "parent_specialId": "dual_slash",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_bjorn_costume_viking",
@@ -47528,7 +47734,7 @@ window.allHeroes =
         "color": "紫",
         "class": "盜賊",
         "speed": "慢速",
-        "skill": "衰退輓歌",
+        "skill": "狩獵輓歌",
         "types": [
             "防禦增益",
             "攻擊增益",
@@ -47541,7 +47747,8 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-04-03",
-        "specialId": "song_of_regression",
+        "specialId": "lament_of_the_hunt",
+        "parent_specialId": "song_of_regression",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_fiji_mermaid_costume_hunter",
@@ -48021,7 +48228,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-05-23",
-        "specialId": "dig_a_hole",
+        "specialId": "carve_a_hole",
+        "parent_specialId": "dig_a_hole",
         "passiveSkills": [
             "decrease_debuff_duration"
         ],
@@ -48144,7 +48352,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "慢速",
-        "skill": "劇毒陷阱",
+        "skill": "劇毒詭計",
         "types": [
             "全體持續傷害"
         ],
@@ -48153,7 +48361,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "toxic_traps",
+        "specialId": "toxic_tricks",
+        "parent_specialId": "toxic_traps",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_horned_skeleton_costume_fool",
@@ -48201,7 +48410,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "劇毒陷阱",
+        "skill": "公仔陷阱",
         "types": [
             "攻擊所有目標",
             "全體持續傷害"
@@ -48213,7 +48422,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-08-11",
-        "specialId": "toxic_traps",
+        "specialId": "toon_traps",
+        "parent_specialId": "toxic_traps",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -48273,7 +48483,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "劇毒陷阱",
+        "skill": "玻璃陷阱",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -48286,7 +48496,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-09-07",
-        "specialId": "toxic_traps",
+        "specialId": "glass_traps_oberon",
+        "parent_specialId": "toxic_traps",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -48468,7 +48679,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "中等",
-        "skill": "流血戳擊",
+        "skill": "流血推力",
         "types": [
             "攻擊3個目標",
             "自我治療"
@@ -48479,7 +48690,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
-        "specialId": "bleeding_stab",
+        "specialId": "bleeding_thrust",
+        "parent_specialId": "bleeding_stab",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_female_captain_costume_musketeer",
@@ -48528,7 +48740,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "中等",
-        "skill": "流血戳擊",
+        "skill": "公仔戳擊",
         "types": [
             "攻擊單個目標",
             "自我治療"
@@ -48540,7 +48752,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-02-12",
-        "specialId": "bleeding_stab",
+        "specialId": "toon_stab",
+        "parent_specialId": "bleeding_stab",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -48595,7 +48808,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "中等",
-        "skill": "流血戳擊",
+        "skill": "玻璃戳擊",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -48608,7 +48821,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-04-08",
-        "specialId": "bleeding_stab",
+        "specialId": "glass_stab",
+        "parent_specialId": "bleeding_stab",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -48722,7 +48936,7 @@ window.allHeroes =
         "color": "紫",
         "class": "牧師",
         "speed": "中等",
-        "skill": "水蛭之星",
+        "skill": "水蛭之鋸",
         "types": [
             "攻擊單個目標",
             "偷取3個目標法力"
@@ -48734,7 +48948,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
-        "specialId": "leeching_stars",
+        "specialId": "leeching_saw",
+        "parent_specialId": "leeching_stars",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_skulker_costume_doctor",
@@ -48783,7 +48998,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "中等",
-        "skill": "水蛭之星",
+        "skill": "公仔星星",
         "types": [
             "攻擊單個目標",
             "自我治療"
@@ -48795,7 +49010,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-09-08",
-        "specialId": "leeching_stars",
+        "specialId": "toon_stars",
+        "parent_specialId": "leeching_stars",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -48850,7 +49066,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "中等",
-        "skill": "水蛭之星",
+        "skill": "玻璃星星",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -48863,7 +49079,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-11-25",
-        "specialId": "leeching_stars",
+        "specialId": "glass_leeching_stars_renfeld",
+        "parent_specialId": "leeching_stars",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -49044,7 +49261,7 @@ window.allHeroes =
         "color": "紫",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "刺穿一擊",
+        "skill": "淨化敲擊",
         "types": [
             "攻擊單個目標",
             "全體淨化"
@@ -49055,7 +49272,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
-        "specialId": "piercing_hit",
+        "specialId": "purifying_hit",
+        "parent_specialId": "piercing_hit",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_running_skeleton_costume_roman",
@@ -49104,7 +49322,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "快速",
-        "skill": "刺穿一擊",
+        "skill": "公仔打擊",
         "types": [
             "攻擊單個目標",
             "全體驅散"
@@ -49116,7 +49334,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-10-06",
-        "specialId": "piercing_hit",
+        "specialId": "toon_hit",
+        "parent_specialId": "piercing_hit",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -49175,7 +49394,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "快速",
-        "skill": "刺穿一擊",
+        "skill": "玻璃一擊",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -49188,7 +49407,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-12-11",
-        "specialId": "piercing_hit",
+        "specialId": "glass_piercing_hit_tyrum",
+        "parent_specialId": "piercing_hit",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -49250,7 +49470,7 @@ window.allHeroes =
         "skill": "回火之刃",
         "types": [
             "攻擊單個目標",
-            "單體狀態異常之源"
+            "隨機1個狀態異常來源"
         ],
         "skill_types": [
             "狙擊手",
@@ -49449,7 +49669,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "中等",
-        "skill": "木乃伊斬擊",
+        "skill": "木乃伊打擊",
         "types": [
             "攻擊3個目標"
         ],
@@ -49459,7 +49679,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-07-13",
-        "specialId": "mummy_slash",
+        "specialId": "mummy_strike",
+        "parent_specialId": "mummy_slash",
         "passiveSkills": [
             "moon_extra_special_damage_and_dispel_latest_buff"
         ],
@@ -49576,7 +49797,7 @@ window.allHeroes =
         "color": "紫",
         "class": "巫師",
         "speed": "快速",
-        "skill": "幽靈",
+        "skill": "野鬼",
         "types": [
             "自我完全移除",
             "幽靈形態",
@@ -49592,7 +49813,8 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-02",
-        "specialId": "ethereal",
+        "specialId": "yurei",
+        "parent_specialId": "ethereal",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_ghost_woman_costume_yurei",
@@ -49787,7 +50009,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "中等",
-        "skill": "整理乾淨！",
+        "skill": "盛裝打扮！",
         "types": [
             "全體驅散",
             "全體淨化",
@@ -49802,7 +50024,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2025-10-08",
-        "specialId": "tidy_up",
+        "specialId": "dress_up",
+        "parent_specialId": "tidy_up",
         "passiveSkills": [
             "halloween_steal_buff_or_deal_damage_new"
         ],
@@ -50062,7 +50285,7 @@ window.allHeroes =
         "color": "紫",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "粲然一笑",
+        "skill": "剃刀微笑",
         "types": [
             "重新部署",
             "全體持續傷害"
@@ -50074,7 +50297,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-10-05",
-        "specialId": "dazzling_grin",
+        "specialId": "razor_smile",
+        "parent_specialId": "dazzling_grin",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "wonderland_cheshire_cat_costume_malicious",
@@ -50249,7 +50473,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "中等",
-        "skill": "完美還擊",
+        "skill": "致命還擊",
         "types": [
             "全體反擊"
         ],
@@ -50258,7 +50482,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "perfect_riposte",
+        "specialId": "deadly_riposte",
+        "parent_specialId": "perfect_riposte",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_captain_warrior_costume_prince",
@@ -50301,7 +50526,7 @@ window.allHeroes =
         "color": "紫",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "完美還擊",
+        "skill": "精準還擊",
         "types": [
             "3個目標反擊",
             "反擊時獲得法力",
@@ -50314,7 +50539,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-04-17",
-        "specialId": "perfect_riposte",
+        "specialId": "precise_riposte",
+        "parent_specialId": "perfect_riposte",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_captain_warrior_costume_reveller",
@@ -50361,7 +50587,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "中等",
-        "skill": "完美還擊",
+        "skill": "公仔精彩還擊",
         "types": [
             "3個目標反擊"
         ],
@@ -50370,7 +50596,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-04-08",
-        "specialId": "perfect_riposte",
+        "specialId": "toontastic_riposte",
+        "parent_specialId": "perfect_riposte",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -50417,7 +50644,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "中等",
-        "skill": "完美還擊",
+        "skill": "玻璃還擊",
         "types": [
             "3個目標反擊",
             "全體元素異常反射"
@@ -50427,7 +50654,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-04-23",
-        "specialId": "perfect_riposte",
+        "specialId": "glass_riposte",
+        "parent_specialId": "perfect_riposte",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -50676,7 +50904,7 @@ window.allHeroes =
         "color": "紫",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "夜林花粉",
+        "skill": "夜綻煙塵",
         "types": [
             "攻擊3個目標"
         ],
@@ -50687,7 +50915,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-01-16",
-        "specialId": "nightglade_pollen",
+        "specialId": "nightbloom_dust",
+        "parent_specialId": "nightglade_pollen",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_fura_costume_herbalist",
@@ -51426,7 +51655,7 @@ window.allHeroes =
         "color": "紫",
         "class": "牧師",
         "speed": "中等",
-        "skill": "奧術爆裂",
+        "skill": "脈衝爆裂",
         "types": [
             "攻擊3個目標",
             "莽夫亂拳"
@@ -51438,7 +51667,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-04-20",
-        "specialId": "arcane_blast",
+        "specialId": "pulsar_blast",
+        "parent_specialId": "arcane_blast",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "knights_merlin_costume_astrology",
@@ -51553,7 +51783,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "中等",
-        "skill": "深淵刀疤",
+        "skill": "深處的詛咒",
         "types": [
             "全體持續傷害",
             "全體法力降低"
@@ -51564,7 +51794,8 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-04-03",
-        "specialId": "scar_of_the_depths",
+        "specialId": "curse_of_the_depths",
+        "parent_specialId": "scar_of_the_depths",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_proteus_costume_farseer",
@@ -51673,7 +51904,7 @@ window.allHeroes =
         "color": "紫",
         "class": "遊俠",
         "speed": "中等",
-        "skill": "淨化",
+        "skill": "重生",
         "types": [
             "全體持續治療",
             "全體攻擊增益",
@@ -51686,7 +51917,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
-        "specialId": "purification",
+        "specialId": "regeneration",
+        "parent_specialId": "purification",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_knight_costume_elegant",
@@ -51741,7 +51973,7 @@ window.allHeroes =
         "color": "紫",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "淨化",
+        "skill": "變身",
         "types": [
             "全體生命值加成",
             "全體防禦增益",
@@ -51754,7 +51986,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-04-17",
-        "specialId": "purification",
+        "specialId": "transfigure",
+        "parent_specialId": "purification",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_knight_costume_healer",
@@ -51809,7 +52042,7 @@ window.allHeroes =
         "color": "紫",
         "class": "牧師",
         "speed": "中等",
-        "skill": "淨化",
+        "skill": "公仔化",
         "types": [
             "全體治療",
             "全體防禦增益",
@@ -51822,7 +52055,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-06-28",
-        "specialId": "purification",
+        "specialId": "adorable_purification",
+        "parent_specialId": "purification",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -51881,7 +52115,7 @@ window.allHeroes =
         "color": "紫",
         "class": "牧師",
         "speed": "中等",
-        "skill": "淨化",
+        "skill": "玻璃化",
         "types": [
             "全體治療",
             "暗黑系盟友反射減益",
@@ -51894,7 +52128,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-07-16",
-        "specialId": "purification",
+        "specialId": "glass_purification",
+        "parent_specialId": "purification",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -52087,7 +52322,7 @@ window.allHeroes =
         "color": "紫",
         "class": "牧師",
         "speed": "中等",
-        "skill": "墮落塵霧",
+        "skill": "墮落之霾",
         "types": [
             "全體持續治療",
             "全體增益免疫",
@@ -52100,7 +52335,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "fog_of_the_fallen",
+        "specialId": "haze_of_the_deceased",
+        "parent_specialId": "fog_of_the_fallen",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_female_warrior_costume_princess",
@@ -52155,7 +52391,7 @@ window.allHeroes =
         "color": "紫",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "墮落塵霧",
+        "skill": "墮落迷霧",
         "types": [
             "全體持續治療",
             "全體狀態異常免疫",
@@ -52168,7 +52404,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-11-27",
-        "specialId": "fog_of_the_fallen",
+        "specialId": "mist_of_the_fallen",
+        "parent_specialId": "fog_of_the_fallen",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_female_warrior_costume_rococo",
@@ -52223,7 +52460,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "中等",
-        "skill": "墮落塵霧",
+        "skill": "公仔迷霧",
         "types": [
             "全體治療",
             "全體防禦增益",
@@ -52236,7 +52473,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-10-06",
-        "specialId": "fog_of_the_fallen",
+        "specialId": "fog_of_the_toons",
+        "parent_specialId": "fog_of_the_fallen",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -52291,7 +52529,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "中等",
-        "skill": "墮落塵霧",
+        "skill": "彩繪玻璃迷霧",
         "types": [
             "全體治療",
             "暗黑系盟友反射減益",
@@ -52304,7 +52542,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-11-25",
-        "specialId": "fog_of_the_fallen",
+        "specialId": "fog_of_the_glass_sabina",
+        "parent_specialId": "fog_of_the_fallen",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -52493,7 +52732,7 @@ window.allHeroes =
         "color": "紫",
         "class": "野人",
         "speed": "潮汐",
-        "skill": "關鍵戰術",
+        "skill": "極限野炊",
         "types": [
             "泰坦攻擊增益",
             "暴擊增益"
@@ -52503,7 +52742,8 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-02-03",
-        "specialId": "critical_tactics",
+        "specialId": "critical_cookout",
+        "parent_specialId": "critical_tactics",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_stacking_mana_generation"
         ],
@@ -52886,7 +53126,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "中等",
-        "skill": "錘擊粉碎",
+        "skill": "粉碎交響",
         "types": [
             "攻擊所有目標",
             "全體防禦降低"
@@ -52897,7 +53137,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
-        "specialId": "ramming_pulverizer",
+        "specialId": "symphonic_pulverizer",
+        "parent_specialId": "ramming_pulverizer",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_commander_costume_metal",
@@ -52946,7 +53187,7 @@ window.allHeroes =
         "color": "紫",
         "class": "牧師",
         "speed": "中等",
-        "skill": "錘擊粉碎",
+        "skill": "優雅粉碎",
         "types": [
             "攻擊3個目標",
             "3個目標最大生命值降低"
@@ -52957,7 +53198,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-10-30",
-        "specialId": "ramming_pulverizer",
+        "specialId": "elegant_pulverizer",
+        "parent_specialId": "ramming_pulverizer",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_commander_costume_feather",
@@ -53006,7 +53248,7 @@ window.allHeroes =
         "color": "紫",
         "class": "遊俠",
         "speed": "中等",
-        "skill": "錘擊粉碎",
+        "skill": "公仔粉碎機",
         "types": [
             "攻擊3個目標",
             "3個目標防禦降低"
@@ -53018,7 +53260,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-08-11",
-        "specialId": "ramming_pulverizer",
+        "specialId": "toontastic_pulverizer",
+        "parent_specialId": "ramming_pulverizer",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -53077,7 +53320,7 @@ window.allHeroes =
         "color": "紫",
         "class": "遊俠",
         "speed": "中等",
-        "skill": "錘擊粉碎",
+        "skill": "玻璃粉碎",
         "types": [
             "攻擊3個目標",
             "無視防禦",
@@ -53090,7 +53333,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-09-07",
-        "specialId": "ramming_pulverizer",
+        "specialId": "glass_pulverizer_tiburtus",
+        "parent_specialId": "ramming_pulverizer",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -53363,7 +53607,7 @@ window.allHeroes =
         "color": "紫",
         "class": "牧師",
         "speed": "中等",
-        "skill": "幽冥護盾",
+        "skill": "虛空護盾",
         "types": [
             "全體治療",
             "移除3個目標的狀態異常"
@@ -53376,7 +53620,8 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-01-23",
-        "specialId": "nethershield",
+        "specialId": "voidshield",
+        "parent_specialId": "nethershield",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_cleanse_newest"
@@ -53605,7 +53850,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "魔法",
-        "skill": "祕法震波",
+        "skill": "暗黑震波",
         "types": [
             "蓄力",
             "全體攻擊降低",
@@ -53626,7 +53871,8 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2025-05-29",
-        "specialId": "arcane_shock",
+        "specialId": "dark_shock",
+        "parent_specialId": "arcane_shock",
         "passiveSkills": [
             "magic_damage_on_full_charge_costume"
         ],
@@ -53843,7 +54089,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "非常慢",
-        "skill": "黑暗立方王國",
+        "skill": "黑暗王國的騎兵帽",
         "types": [
             "攻擊5個目標",
             "最大生命值降低",
@@ -53856,7 +54102,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-07-03",
-        "specialId": "cube_of_dark_realm",
+        "specialId": "cavalier_hat_of_dark_realm",
+        "parent_specialId": "cube_of_dark_realm",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_alfrike_costume_hatter",
@@ -54208,7 +54455,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "中等",
-        "skill": "阿努比斯印記",
+        "skill": "胡狼印記",
         "types": [
             "貪婪",
             "全體持續傷害",
@@ -54221,7 +54468,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-02-05",
-        "specialId": "mark_of_anubis",
+        "specialId": "mark_of_the_jackal",
+        "parent_specialId": "mark_of_anubis",
         "passiveSkills": [
             "moon_extra_special_damage_and_dispel_latest_buff"
         ],
@@ -54355,7 +54603,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "中等",
-        "skill": "巫師之刃",
+        "skill": "烘焙師法棍",
         "types": [
             "攻擊3個目標",
             "傷害全體生命值加成",
@@ -54371,7 +54619,8 @@ window.allHeroes =
         ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2025-11-12",
-        "specialId": "charmers_blades",
+        "specialId": "bakers_baguettes",
+        "parent_specialId": "charmers_blades",
         "passiveSkills": [
             "damage_all_enemies_on_cover_or_special_damage_received_costume",
             "resist_defense_modifier_debuffs"
@@ -54735,7 +54984,7 @@ window.allHeroes =
         "color": "紫",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "輕巧快速",
+        "skill": "蘭花與玫瑰",
         "types": [
             "攻擊所有目標",
             "閃避增益"
@@ -54748,7 +54997,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-08-10",
-        "specialId": "quick_and_nimble",
+        "specialId": "orchids_and_roses",
+        "parent_specialId": "quick_and_nimble",
         "passiveSkills": [
             "moon_extra_special_damage_and_dispel_latest_buff"
         ],
@@ -54895,7 +55145,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "魔法",
-        "skill": "法力操控魔杖",
+        "skill": "法力詐術魔杖",
         "types": [
             "攻擊單個目標",
             "敵人特殊技能時降低4個敵人法力",
@@ -54914,7 +55164,8 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2025-09-17",
-        "specialId": "wand_of_mana_control",
+        "specialId": "wand_of_mana_trickery",
+        "parent_specialId": "wand_of_mana_control",
         "passiveSkills": [
             "magic_mana_regen_stack_on_special_costume",
             "magic_heal_on_full_charge_costume"
@@ -55128,7 +55379,7 @@ window.allHeroes =
         "color": "紫",
         "class": "牧師",
         "speed": "快速",
-        "skill": "黃昏幽靈",
+        "skill": "夢之幽靈",
         "types": [
             "召喚者",
             "抵抗小兵",
@@ -55141,7 +55392,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-06-05",
-        "specialId": "disir_of_dusk",
+        "specialId": "disir_of_dreams",
+        "parent_specialId": "disir_of_dusk",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_bera_costume_conjurer",
@@ -55853,7 +56105,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "快速",
-        "skill": "冰霜之刺",
+        "skill": "脈衝星打擊",
         "types": [
             "攻擊單個目標",
             "減少3個目標增益持續時間",
@@ -55870,7 +56122,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2024-11-14",
-        "specialId": "doomstrike",
+        "specialId": "pulsarstrike",
+        "parent_specialId": "doomstrike",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_curse"
@@ -56368,7 +56621,7 @@ window.allHeroes =
         "color": "紫",
         "class": "牧師",
         "speed": "快速",
-        "skill": "閉月羞花",
+        "skill": "女士之花",
         "types": [
             "治療者",
             "召喚者"
@@ -56380,7 +56633,8 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2024-05-28",
-        "specialId": "ladys_charm",
+        "specialId": "ladys_flowers",
+        "parent_specialId": "ladys_charm",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "kingdom_unstoppable_minions"
@@ -56501,7 +56755,7 @@ window.allHeroes =
         "color": "紫",
         "class": "遊俠",
         "speed": "中等",
-        "skill": "震駭閃電",
+        "skill": "劇毒閃電",
         "types": [
             "攻擊單個目標",
             "3個目標持續傷害",
@@ -56514,7 +56768,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
-        "specialId": "shock_bolt",
+        "specialId": "awe_bolt",
+        "parent_specialId": "shock_bolt",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "magitech_sniper_costume_steampunk",
@@ -56566,7 +56821,7 @@ window.allHeroes =
         "color": "紫",
         "class": "野人",
         "speed": "中等",
-        "skill": "震駭閃電",
+        "skill": "暗黑閃電",
         "types": [
             "攻擊3個目標",
             "3個目標元素防禦降低"
@@ -56578,7 +56833,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-10-31",
-        "specialId": "shock_bolt",
+        "specialId": "dark_bolt",
+        "parent_specialId": "shock_bolt",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "magitech_sniper_costume_undead",
@@ -56633,7 +56889,7 @@ window.allHeroes =
         "color": "紫",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "震駭閃電",
+        "skill": "公仔閃電",
         "types": [
             "攻擊單個目標",
             "3個目標元素防禦增益",
@@ -56647,7 +56903,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-03-11",
-        "specialId": "shock_bolt",
+        "specialId": "adorable_bolt",
+        "parent_specialId": "shock_bolt",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -56708,7 +56965,7 @@ window.allHeroes =
         "color": "紫",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "震駭閃電",
+        "skill": "玻璃閃電",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -56723,7 +56980,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-04-23",
-        "specialId": "shock_bolt",
+        "specialId": "glass_bolt",
+        "parent_specialId": "shock_bolt",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -56846,7 +57104,7 @@ window.allHeroes =
         "color": "紫",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "致盲智慧",
+        "skill": "致盲知識",
         "types": [
             "攻擊3個目標",
             "命中降低"
@@ -56857,7 +57115,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-04-27",
-        "specialId": "blinding_wisdom",
+        "specialId": "blinding_knowledge",
+        "parent_specialId": "blinding_wisdom",
         "passiveSkills": [
             "special_damage_reduction"
         ],
@@ -57746,7 +58005,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "快速",
-        "skill": "渡鴉警備",
+        "skill": "渡鴉看守",
         "types": [
             "召喚者",
             "閃避增益"
@@ -57758,7 +58017,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-08-01",
-        "specialId": "ravens_vigil",
+        "specialId": "ravens_watch",
+        "parent_specialId": "ravens_vigil",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_freya_costume_witch",
@@ -58155,7 +58415,7 @@ window.allHeroes =
         "types": [
             "攻擊所有目標",
             "全體持續傷害",
-            "狀態異常之源"
+            "隨機1個狀態異常來源"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -58295,7 +58555,7 @@ window.allHeroes =
         "color": "紫",
         "class": "僧侶",
         "speed": "慢速",
-        "skill": "法力操控",
+        "skill": "記憶操控",
         "types": [
             "全體法力削減",
             "全體法力增加",
@@ -58308,7 +58568,8 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2025-08-28",
-        "specialId": "mana_manipulation",
+        "specialId": "memory_manipulation",
+        "parent_specialId": "mana_manipulation",
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
@@ -58506,7 +58767,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "快速",
-        "skill": "黑豹之眼",
+        "skill": "黑豹之吼",
         "types": [
             "攻擊所有目標",
             "防禦降低"
@@ -58518,7 +58779,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2022-06-16",
-        "specialId": "eye_of_panther",
+        "specialId": "roar_of_the_panther",
+        "parent_specialId": "eye_of_panther",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "guardian_cat_warrior_costume_fierce",
@@ -58719,7 +58981,7 @@ window.allHeroes =
         "color": "紫",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "腐朽中的偶像",
+        "skill": "美味偶像",
         "types": [
             "攻擊3個目標",
             "3個惡魔"
@@ -58732,7 +58994,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-04-25",
-        "specialId": "corrupting_idol",
+        "specialId": "delicious_idol",
+        "parent_specialId": "corrupting_idol",
         "passiveSkills": [
             "start_battle_with_mana"
         ],
@@ -58937,7 +59200,7 @@ window.allHeroes =
         "color": "紫",
         "class": "牧師",
         "speed": "中等",
-        "skill": "冥界粉碎",
+        "skill": "惡意重壓",
         "types": [
             "攻擊所有目標",
             "法力偷取"
@@ -58952,7 +59215,8 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-11-28",
-        "specialId": "crush_of_hel",
+        "specialId": "crush_of_malice",
+        "parent_specialId": "crush_of_hel",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_dispel_newest"
@@ -59162,7 +59426,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "中等",
-        "skill": "寵物幼蟲",
+        "skill": "幼蟲處方簽",
         "types": [
             "召喚者"
         ],
@@ -59174,7 +59438,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-03-28",
-        "specialId": "pet_larva",
+        "specialId": "larva_prescription",
+        "parent_specialId": "pet_larva",
         "passiveSkills": [
             "increase_buff_duration"
         ],
@@ -59386,6 +59651,86 @@ window.allHeroes =
         ]
     },
     {
+        "name": "荷耶 (Hygd)",
+        "fancy_name": "耶阿特女王",
+        "AetherPower": "防禦提升",
+        "color": "紫",
+        "class": "牧師",
+        "speed": "中等",
+        "skill": "慷慨禮物",
+        "types": [
+            "全體淨化",
+            "全體治療",
+            "全體增益來源"
+        ],
+        "skill_types": [
+            "凈化",
+            "治療",
+            "防禦增益",
+            "特殊治療"
+        ],
+        "source": "挑戰 - 貝武夫",
+        "Release date": "2026-01-09",
+        "specialId": "generous_gifts",
+        "passiveSkills": [
+            "resist_buff_immunity",
+            "resist_mana_reductions_with_health_boost_and_mana",
+            "mana_on_buff"
+        ],
+        "heroId": "beowulf_hygd",
+        "star": 5,
+        "power": 1270,
+        "attack": 1291,
+        "defense": 1336,
+        "health": 2286,
+        "effects": [
+            "淨化所有盟友的狀態異常。",
+            "為所有盟友恢復 50% 生命值。",
+            "增益來源：以下效果在每回合開始時對所有盟友施放：",
+            "對特殊技能的 +40% 防禦，持續 2 個回合。",
+            "獲得治療增加 +40%，持續 2 個回合。",
+            "增益來源將啟動 3 次。每次嘗試驅散則移除一次啟動數。"
+        ],
+        "passives": [
+            "獲得增益的法力：此角色獲得增益或正面疊加時可獲得 5% 法力。",
+            "賦能抵禦法力減損：此角色對法力減損具有天生抗性，每次抵抗都會獲得 600 點生命值提升和 10% 法力。",
+            "抵禦增益封鎖：此角色對使其無法接收新狀態效果增益的效果免疫。"
+        ],
+        "family": "beowulf",
+        "costume_id": 0,
+        "originalIndex": 852,
+        "lb1": {
+            "attack": 1391,
+            "defense": 1440,
+            "health": 2464,
+            "power": 1360
+        },
+        "lb2": {
+            "attack": 1592,
+            "defense": 1648,
+            "health": 2819,
+            "power": 1538
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "治療：即時"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防禦-防禦力↑",
+                    "治療-治療量↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "狀態-淨化狀態異常"
+                ]
+            }
+        ]
+    },
+    {
         "name": "伊瑪格斯 (Imagus)",
         "fancy_name": "毛茸茸占星家",
         "AetherPower": "回復已加成",
@@ -59436,7 +59781,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 852,
+        "originalIndex": 853,
         "lb1": {
             "attack": 1323,
             "defense": 1414,
@@ -59492,7 +59837,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 853,
+        "originalIndex": 854,
         "lb1": {
             "attack": 801,
             "defense": 805,
@@ -59526,7 +59871,7 @@ window.allHeroes =
         "color": "紫",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "側翼攻擊",
+        "skill": "蛾族復仇者",
         "types": [
             "攻擊2個目標",
             "持續傷害"
@@ -59538,7 +59883,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2021-12-15",
-        "specialId": "sideswipe",
+        "specialId": "avenger_of_mothkind",
+        "parent_specialId": "sideswipe",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "possession_on_special"
@@ -59558,7 +59904,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 854,
+        "originalIndex": 855,
         "lb1": {
             "attack": 1031,
             "defense": 998,
@@ -59639,7 +59985,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 855,
+        "originalIndex": 856,
         "lb1": {
             "attack": 1034,
             "defense": 1003,
@@ -59718,7 +60064,7 @@ window.allHeroes =
         ],
         "family": "forsaken",
         "costume_id": 0,
-        "originalIndex": 856,
+        "originalIndex": 857,
         "lb1": {
             "attack": 1405,
             "defense": 1367,
@@ -59792,7 +60138,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 857,
+        "originalIndex": 858,
         "lb1": {
             "attack": 841,
             "defense": 770,
@@ -59830,7 +60176,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "飛速",
-        "skill": "摧毀打擊",
+        "skill": "甲殼蟲來襲",
         "types": [
             "單體驅散",
             "攻擊單個目標",
@@ -59845,7 +60191,8 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2021-11-15",
-        "specialId": "break_strike",
+        "specialId": "beetle_strike",
+        "parent_specialId": "break_strike",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_cursed_samurai_costume_beetle",
@@ -59863,7 +60210,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 858,
+        "originalIndex": 859,
         "lb1": {
             "attack": 1023,
             "defense": 982,
@@ -59930,7 +60277,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 859,
+        "originalIndex": 860,
         "lb1": {
             "attack": 825,
             "defense": 803,
@@ -59963,7 +60310,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "徹底鎮壓",
+        "skill": "沉睡擊敗",
         "types": [
             "攻擊所有目標",
             "改變棋盤"
@@ -59978,7 +60325,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2025-06-15",
-        "specialId": "total_beatdown",
+        "specialId": "slumbering_beatdown",
+        "parent_specialId": "total_beatdown",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_curse"
@@ -59999,7 +60347,7 @@ window.allHeroes =
         ],
         "family": "villains",
         "costume_id": 1,
-        "originalIndex": 860,
+        "originalIndex": 861,
         "lb1": {
             "attack": 1387,
             "defense": 1198,
@@ -60063,7 +60411,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 861,
+        "originalIndex": 862,
         "lb1": {
             "attack": 892,
             "defense": 876,
@@ -60131,7 +60479,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 862,
+        "originalIndex": 863,
         "lb1": {
             "attack": 863,
             "defense": 899,
@@ -60165,7 +60513,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "中等",
-        "skill": "聖甲蟲轟炸",
+        "skill": "聖甲蟲閃電戰",
         "types": [
             "攻擊3個目標",
             "召喚3個爆炸惡魔"
@@ -60177,7 +60525,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2025-02-17",
-        "specialId": "scarab_bombardment",
+        "specialId": "scarab_blitz",
+        "parent_specialId": "scarab_bombardment",
         "passiveSkills": [
             "moon_extra_special_damage_and_mana_regen_debuff"
         ],
@@ -60206,7 +60555,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 863,
+        "originalIndex": 864,
         "lb1": {
             "attack": 1313,
             "defense": 1271,
@@ -60268,7 +60617,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 864,
+        "originalIndex": 865,
         "lb1": {
             "attack": 796,
             "defense": 763,
@@ -60301,7 +60650,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "中等",
-        "skill": "流血利刃",
+        "skill": "流血大錘",
         "types": [
             "攻擊單個目標",
             "攻擊增益"
@@ -60314,7 +60663,8 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-02-09",
-        "specialId": "bleeding_edge",
+        "specialId": "bleeding_hammer",
+        "parent_specialId": "bleeding_edge",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_dispel_newest"
@@ -60335,7 +60685,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 865,
+        "originalIndex": 866,
         "lb1": {
             "attack": 1040,
             "defense": 951,
@@ -60399,7 +60749,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 866,
+        "originalIndex": 867,
         "lb1": {
             "attack": 930,
             "defense": 836,
@@ -60432,7 +60782,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "飛速",
-        "skill": "午夜之擊",
+        "skill": "午夜重擊",
         "types": [
             "攻擊單個目標"
         ],
@@ -60442,7 +60792,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-09-07",
-        "specialId": "midnight_strike",
+        "specialId": "midnight_smite",
+        "parent_specialId": "midnight_strike",
         "passiveSkills": [
             "moon_extra_special_damage_and_mana_regen_debuff"
         ],
@@ -60469,7 +60820,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 867,
+        "originalIndex": 868,
         "lb1": {
             "attack": 1371,
             "defense": 1191,
@@ -60527,7 +60878,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 868,
+        "originalIndex": 869,
         "lb1": {
             "attack": 799,
             "defense": 814,
@@ -60560,7 +60911,7 @@ window.allHeroes =
         "color": "紫",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "魯莽揮擊",
+        "skill": "英勇胡蘿蔔",
         "types": [
             "攻擊所有目標"
         ],
@@ -60570,7 +60921,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2022-03-21",
-        "specialId": "reckless_swing",
+        "specialId": "championship_carrot",
+        "parent_specialId": "reckless_swing",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "easter_killhare_costume_farmer",
@@ -60586,7 +60938,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 1,
-        "originalIndex": 869,
+        "originalIndex": 870,
         "lb1": {
             "attack": 947,
             "defense": 996,
@@ -60649,7 +61001,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 870,
+        "originalIndex": 871,
         "lb1": {
             "attack": 1163,
             "defense": 1076,
@@ -60728,7 +61080,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 871,
+        "originalIndex": 872,
         "lb1": {
             "attack": 1338,
             "defense": 1305,
@@ -60798,7 +61150,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 872,
+        "originalIndex": 873,
         "lb1": {
             "attack": 666,
             "defense": 879,
@@ -60869,7 +61221,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 873,
+        "originalIndex": 874,
         "lb1": {
             "attack": 1320,
             "defense": 1418,
@@ -60947,7 +61299,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 874,
+        "originalIndex": 875,
         "lb1": {
             "attack": 841,
             "defense": 839,
@@ -60981,7 +61333,7 @@ window.allHeroes =
         "color": "紫",
         "class": "巫師",
         "speed": "快速",
-        "skill": "深淵咒語",
+        "skill": "不死咒語",
         "types": [
             "攻擊單個目標",
             "單體完全移除",
@@ -60998,7 +61350,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-04-27",
-        "specialId": "abyssal_incantation",
+        "specialId": "undying_incantation",
+        "parent_specialId": "abyssal_incantation",
         "passiveSkills": [
             "special_damage_reduction"
         ],
@@ -61025,7 +61378,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 875,
+        "originalIndex": 876,
         "lb1": {
             "attack": 1059,
             "defense": 1111,
@@ -61096,7 +61449,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 876,
+        "originalIndex": 877,
         "lb1": {
             "attack": 1316,
             "defense": 1383,
@@ -61181,7 +61534,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 877,
+        "originalIndex": 878,
         "lb1": {
             "attack": 1298,
             "defense": 1409,
@@ -61253,7 +61606,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 878,
+        "originalIndex": 879,
         "lb1": {
             "attack": 999,
             "defense": 932,
@@ -61291,7 +61644,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "中等",
-        "skill": "羽翼風暴",
+        "skill": "狂怒風暴",
         "types": [
             "全體驅散",
             "攻擊所有目標",
@@ -61304,7 +61657,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2025-07-28",
-        "specialId": "feather_tempest",
+        "specialId": "raging_tempest",
+        "parent_specialId": "feather_tempest",
         "passiveSkills": [
             "heal_mana_on_low_health_once"
         ],
@@ -61325,7 +61679,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 879,
+        "originalIndex": 880,
         "lb1": {
             "attack": 1279,
             "defense": 1332,
@@ -61394,7 +61748,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 880,
+        "originalIndex": 881,
         "lb1": {
             "attack": 850,
             "defense": 863,
@@ -61432,7 +61786,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "暴虐衝鋒",
+        "skill": "毀滅衝鋒",
         "types": [
             "攻擊所有目標",
             "召喚所有傭兵惡魔",
@@ -61446,7 +61800,8 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2024-12-28",
-        "specialId": "disrupting_charge",
+        "specialId": "disrupting_charge_costume_tiger_lord",
+        "parent_specialId": "disrupting_charge",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "kingdom_unstoppable_minions"
@@ -61471,7 +61826,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 881,
+        "originalIndex": 882,
         "lb1": {
             "attack": 1147,
             "defense": 1183,
@@ -61545,7 +61900,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 882,
+        "originalIndex": 883,
         "lb1": {
             "attack": 932,
             "defense": 1003,
@@ -61613,7 +61968,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 883,
+        "originalIndex": 884,
         "lb1": {
             "attack": 779,
             "defense": 910,
@@ -61677,7 +62032,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 884,
+        "originalIndex": 885,
         "lb1": {
             "attack": 985,
             "defense": 967,
@@ -61751,7 +62106,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 885,
+        "originalIndex": 886,
         "lb1": {
             "attack": 999,
             "defense": 1043,
@@ -61826,7 +62181,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 886,
+        "originalIndex": 887,
         "lb1": {
             "attack": 1212,
             "defense": 1318,
@@ -61909,7 +62264,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 887,
+        "originalIndex": 888,
         "lb1": {
             "attack": 825,
             "defense": 799,
@@ -61986,7 +62341,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 888,
+        "originalIndex": 889,
         "lb1": {
             "attack": 834,
             "defense": 779,
@@ -62021,7 +62376,7 @@ window.allHeroes =
         "color": "紫",
         "class": "德魯伊",
         "speed": "慢速",
-        "skill": "僵屍庇佑",
+        "skill": "僵屍祈願",
         "types": [
             "攻擊所有目標",
             "生命值加成",
@@ -62036,7 +62391,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2022-02-17",
-        "specialId": "zombie_curse",
+        "specialId": "zombie_invocation",
+        "parent_specialId": "zombie_curse",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_poison"
@@ -62062,7 +62418,7 @@ window.allHeroes =
         ],
         "family": "pirate",
         "costume_id": 1,
-        "originalIndex": 889,
+        "originalIndex": 890,
         "lb1": {
             "attack": 1031,
             "defense": 998,
@@ -62138,7 +62494,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 890,
+        "originalIndex": 891,
         "lb1": {
             "attack": 1427,
             "defense": 1351,
@@ -62210,7 +62566,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 891,
+        "originalIndex": 892,
         "lb1": {
             "attack": 1318,
             "defense": 1205,
@@ -62286,7 +62642,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 892,
+        "originalIndex": 893,
         "lb1": {
             "attack": 1076,
             "defense": 1087,
@@ -62320,7 +62676,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "潮汐",
-        "skill": "粉碎心靈",
+        "skill": "破碎靈魂",
         "types": [
             "攻擊3個目標",
             "單體莽夫亂拳",
@@ -62333,7 +62689,8 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-10-19",
-        "specialId": "shatter_psyche",
+        "specialId": "shatter_soul",
+        "parent_specialId": "shatter_psyche",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_stacking_mana_generation"
         ],
@@ -62365,7 +62722,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 893,
+        "originalIndex": 894,
         "lb1": {
             "attack": 1415,
             "defense": 1363,
@@ -62435,7 +62792,7 @@ window.allHeroes =
         ],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 894,
+        "originalIndex": 895,
         "lb1": {
             "attack": 1178,
             "defense": 1245,
@@ -62508,7 +62865,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 0,
-        "originalIndex": 895,
+        "originalIndex": 896,
         "lb1": {
             "attack": 799,
             "defense": 741,
@@ -62546,7 +62903,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "中等",
-        "skill": "黑潮",
+        "skill": "翡翠潮",
         "types": [
             "攻擊所有目標",
             "元素攻擊增益",
@@ -62561,7 +62918,8 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-02-06",
-        "specialId": "black_tide",
+        "specialId": "emerald_tide",
+        "parent_specialId": "black_tide",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_hammerhead_hulk_costume_emerald",
@@ -62579,7 +62937,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 1,
-        "originalIndex": 896,
+        "originalIndex": 897,
         "lb1": {
             "attack": 1012,
             "defense": 924,
@@ -62660,7 +63018,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 897,
+        "originalIndex": 898,
         "lb1": {
             "attack": 828,
             "defense": 830,
@@ -62736,7 +63094,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 898,
+        "originalIndex": 899,
         "lb1": {
             "attack": 1292,
             "defense": 1358,
@@ -62810,7 +63168,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 899,
+        "originalIndex": 900,
         "lb1": {
             "attack": 912,
             "defense": 927,
@@ -62876,7 +63234,7 @@ window.allHeroes =
         ],
         "family": "mystery",
         "costume_id": 0,
-        "originalIndex": 900,
+        "originalIndex": 901,
         "lb1": {
             "attack": 839,
             "defense": 801,
@@ -62942,7 +63300,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 901,
+        "originalIndex": 902,
         "lb1": {
             "attack": 910,
             "defense": 850,
@@ -63014,7 +63372,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 902,
+        "originalIndex": 903,
         "lb1": {
             "attack": 1378,
             "defense": 1429,
@@ -63095,7 +63453,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 903,
+        "originalIndex": 904,
         "lb1": {
             "attack": 883,
             "defense": 890,
@@ -63159,7 +63517,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 904,
+        "originalIndex": 905,
         "lb1": {
             "attack": 821,
             "defense": 688,
@@ -63192,7 +63550,7 @@ window.allHeroes =
         "color": "紫",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "劈裂反擊",
+        "skill": "造反與推翻",
         "types": [
             "攻擊所有目標",
             "33%反擊"
@@ -63203,7 +63561,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "cleave_counter",
+        "specialId": "unite_and_oppose",
+        "parent_specialId": "cleave_counter",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "underworld_champion_costume_champion",
@@ -63219,7 +63578,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 905,
+        "originalIndex": 906,
         "lb1": {
             "attack": 900,
             "defense": 827,
@@ -63252,7 +63611,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "快速",
-        "skill": "劈裂反擊",
+        "skill": "吸血鬼劈擊",
         "types": [
             "攻擊3個目標",
             "3個目標反擊",
@@ -63265,7 +63624,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-09-05",
-        "specialId": "cleave_counter",
+        "specialId": "vampiric_cleave",
+        "parent_specialId": "cleave_counter",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "underworld_champion_costume_vampire",
@@ -63282,7 +63642,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 906,
+        "originalIndex": 907,
         "lb1": {
             "attack": 1002,
             "defense": 959,
@@ -63316,7 +63676,7 @@ window.allHeroes =
         "color": "紫",
         "class": "野人",
         "speed": "快速",
-        "skill": "劈裂反擊",
+        "skill": "卡通反擊",
         "types": [
             "攻擊3個目標",
             "單體反擊"
@@ -63328,7 +63688,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-11-27",
-        "specialId": "cleave_counter",
+        "specialId": "toon_counter",
+        "parent_specialId": "cleave_counter",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -63349,7 +63710,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 907,
+        "originalIndex": 908,
         "lb1": {
             "attack": 1242,
             "defense": 1135,
@@ -63387,7 +63748,7 @@ window.allHeroes =
         "color": "紫",
         "class": "野人",
         "speed": "快速",
-        "skill": "劈裂反擊",
+        "skill": "劈擊與反射",
         "types": [
             "攻擊3個目標",
             "無視防禦",
@@ -63400,7 +63761,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-01-14",
-        "specialId": "cleave_counter",
+        "specialId": "cleave_and_reflect",
+        "parent_specialId": "cleave_counter",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -63421,7 +63783,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 908,
+        "originalIndex": 909,
         "lb1": {
             "attack": 1406,
             "defense": 1274,
@@ -63499,7 +63861,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 909,
+        "originalIndex": 910,
         "lb1": {
             "attack": 1147,
             "defense": 1027,
@@ -63574,7 +63936,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 910,
+        "originalIndex": 911,
         "lb1": {
             "attack": 1063,
             "defense": 1103,
@@ -63655,7 +64017,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 911,
+        "originalIndex": 912,
         "lb1": {
             "attack": 865,
             "defense": 761,
@@ -63733,7 +64095,7 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 912,
+        "originalIndex": 913,
         "lb1": {
             "attack": 1391,
             "defense": 1365,
@@ -63806,7 +64168,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 913,
+        "originalIndex": 914,
         "lb1": {
             "attack": 888,
             "defense": 901,
@@ -63890,7 +64252,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 914,
+        "originalIndex": 915,
         "lb1": {
             "attack": 1018,
             "defense": 1005,
@@ -63970,7 +64332,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 915,
+        "originalIndex": 916,
         "lb1": {
             "attack": 994,
             "defense": 890,
@@ -64004,7 +64366,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "潮汐",
-        "skill": "深淵召集",
+        "skill": "深淵秩序",
         "types": [
             "召喚3個小兵",
             "嘲諷",
@@ -64019,7 +64381,8 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-05-23",
-        "specialId": "rally_of_the_deep",
+        "specialId": "order_from_the_depths",
+        "parent_specialId": "rally_of_the_deep",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_critical"
         ],
@@ -64052,7 +64415,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 916,
+        "originalIndex": 917,
         "lb1": {
             "attack": 1295,
             "defense": 1133,
@@ -64119,7 +64482,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 917,
+        "originalIndex": 918,
         "lb1": {
             "attack": 888,
             "defense": 872,
@@ -64191,7 +64554,7 @@ window.allHeroes =
         ],
         "family": "institute",
         "costume_id": 0,
-        "originalIndex": 918,
+        "originalIndex": 919,
         "lb1": {
             "attack": 1325,
             "defense": 1409,
@@ -64267,7 +64630,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 919,
+        "originalIndex": 920,
         "lb1": {
             "attack": 810,
             "defense": 834,
@@ -64328,7 +64691,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 920,
+        "originalIndex": 921,
         "lb1": {
             "attack": 805,
             "defense": 685,
@@ -64356,7 +64719,7 @@ window.allHeroes =
         "color": "紫",
         "class": "僧侶",
         "speed": "慢速",
-        "skill": "雷電通牒",
+        "skill": "震駭通牒",
         "types": [
             "攻擊所有目標",
             "攻擊降低"
@@ -64367,7 +64730,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
-        "specialId": "thunderstrike",
+        "specialId": "shock_ultimatum",
+        "parent_specialId": "thunderstrike",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_inventor_costume_steam",
@@ -64383,7 +64747,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 921,
+        "originalIndex": 922,
         "lb1": {
             "attack": 933,
             "defense": 770,
@@ -64416,7 +64780,7 @@ window.allHeroes =
         "color": "紫",
         "class": "德魯伊",
         "speed": "慢速",
-        "skill": "雷電通牒",
+        "skill": "閃電最後通牒",
         "types": [
             "攻擊所有目標",
             "莽夫亂拳"
@@ -64427,7 +64791,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-12-26",
-        "specialId": "thunderstrike",
+        "specialId": "lightning_ultimatum",
+        "parent_specialId": "thunderstrike",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_inventor_costume_love_doctor",
@@ -64443,7 +64808,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 922,
+        "originalIndex": 923,
         "lb1": {
             "attack": 1048,
             "defense": 896,
@@ -64476,7 +64841,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "慢速",
-        "skill": "雷電通牒",
+        "skill": "公仔通牒",
         "types": [
             "攻擊所有目標"
         ],
@@ -64486,7 +64851,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-08-11",
-        "specialId": "thunderstrike",
+        "specialId": "toon_ultimatum",
+        "parent_specialId": "thunderstrike",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -64506,7 +64872,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 923,
+        "originalIndex": 924,
         "lb1": {
             "attack": 1152,
             "defense": 1180,
@@ -64539,7 +64905,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "慢速",
-        "skill": "雷電通牒",
+        "skill": "玻璃通牒",
         "types": [
             "攻擊所有目標",
             "無視防禦"
@@ -64550,7 +64916,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-10-09",
-        "specialId": "thunderstrike",
+        "specialId": "glass_thunderstrike_quintus",
+        "parent_specialId": "thunderstrike",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -64570,7 +64937,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 924,
+        "originalIndex": 925,
         "lb1": {
             "attack": 1320,
             "defense": 1320,
@@ -64641,7 +65008,7 @@ window.allHeroes =
         ],
         "family": "champions",
         "costume_id": 0,
-        "originalIndex": 925,
+        "originalIndex": 926,
         "lb1": {
             "attack": 1101,
             "defense": 1145,
@@ -64701,7 +65068,7 @@ window.allHeroes =
         "passives": [],
         "family": "raven",
         "costume_id": 0,
-        "originalIndex": 926,
+        "originalIndex": 927,
         "lb1": {
             "attack": 879,
             "defense": 841,
@@ -64764,7 +65131,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 927,
+        "originalIndex": 928,
         "lb1": {
             "attack": 952,
             "defense": 916,
@@ -64825,7 +65192,7 @@ window.allHeroes =
         "passives": [],
         "family": "niflheim",
         "costume_id": 0,
-        "originalIndex": 928,
+        "originalIndex": 929,
         "lb1": {
             "attack": 803,
             "defense": 810,
@@ -64863,7 +65230,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "中等",
-        "skill": "騙徒的悔悟",
+        "skill": "紳士的變形",
         "types": [
             "攻擊部分目標",
             "詭異"
@@ -64874,7 +65241,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-07-31",
-        "specialId": "tricksters_transformation",
+        "specialId": "gentlemans_transformation",
+        "parent_specialId": "tricksters_transformation",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_loki_fish_costume_dapper",
@@ -64892,7 +65260,7 @@ window.allHeroes =
         "passives": [],
         "family": "niflheim",
         "costume_id": 1,
-        "originalIndex": 929,
+        "originalIndex": 930,
         "lb1": {
             "attack": 1028,
             "defense": 1091,
@@ -64956,7 +65324,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 930,
+        "originalIndex": 931,
         "lb1": {
             "attack": 785,
             "defense": 763,
@@ -64989,7 +65357,7 @@ window.allHeroes =
         "color": "紫",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "馬尾藻詛咒",
+        "skill": "海之詛咒",
         "types": [
             "攻擊3個目標",
             "治療降低",
@@ -65002,7 +65370,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-12-28",
-        "specialId": "curse_of_sargasso",
+        "specialId": "curse_of_the_sea",
+        "parent_specialId": "curse_of_sargasso",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_poison"
@@ -65023,7 +65392,7 @@ window.allHeroes =
         ],
         "family": "pirate",
         "costume_id": 1,
-        "originalIndex": 931,
+        "originalIndex": 932,
         "lb1": {
             "attack": 998,
             "defense": 1068,
@@ -65084,7 +65453,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 932,
+        "originalIndex": 933,
         "lb1": {
             "attack": 748,
             "defense": 754,
@@ -65118,7 +65487,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "快速",
-        "skill": "死亡打擊",
+        "skill": "恐懼之擊",
         "types": [
             "攻擊單個目標"
         ],
@@ -65127,7 +65496,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
-        "specialId": "deathstrike",
+        "specialId": "dreadstrike",
+        "parent_specialId": "deathstrike",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_sorceress_costume_shaman",
@@ -65142,7 +65512,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 933,
+        "originalIndex": 934,
         "lb1": {
             "attack": 795,
             "defense": 895,
@@ -65170,7 +65540,7 @@ window.allHeroes =
         "color": "紫",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "死亡打擊",
+        "skill": "駭人打擊",
         "types": [
             "摧毀單個目標的小兵",
             "攻擊單個目標",
@@ -65182,7 +65552,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-06-12",
-        "specialId": "deathstrike",
+        "specialId": "frightstrike",
+        "parent_specialId": "deathstrike",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_sorceress_costume_snake",
@@ -65199,7 +65570,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 934,
+        "originalIndex": 935,
         "lb1": {
             "attack": 970,
             "defense": 933,
@@ -65237,7 +65608,7 @@ window.allHeroes =
         "color": "紫",
         "class": "巫師",
         "speed": "快速",
-        "skill": "死亡打擊",
+        "skill": "公仔打擊",
         "types": [
             "攻擊單個目標",
             "單體持續傷害"
@@ -65249,7 +65620,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-10-30",
-        "specialId": "deathstrike",
+        "specialId": "adorable_strike",
+        "parent_specialId": "deathstrike",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -65270,7 +65642,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 935,
+        "originalIndex": 936,
         "lb1": {
             "attack": 1176,
             "defense": 1163,
@@ -65309,7 +65681,7 @@ window.allHeroes =
         "color": "紫",
         "class": "巫師",
         "speed": "快速",
-        "skill": "死亡打擊",
+        "skill": "玻璃打擊",
         "types": [
             "攻擊單個目標",
             "單體持續傷害"
@@ -65321,7 +65693,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-12-25",
-        "specialId": "deathstrike",
+        "specialId": "glass_strike",
+        "parent_specialId": "deathstrike",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -65342,7 +65715,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 936,
+        "originalIndex": 937,
         "lb1": {
             "attack": 1332,
             "defense": 1309,
@@ -65381,7 +65754,7 @@ window.allHeroes =
         "color": "紫",
         "class": "巫師",
         "speed": "快速",
-        "skill": "死亡打擊",
+        "skill": "有型打擊",
         "types": [
             "攻擊單個目標",
             "單體持續傷害"
@@ -65393,7 +65766,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2026-01-07",
-        "specialId": "deathstrike",
+        "specialId": "stylish_strike",
+        "parent_specialId": "deathstrike",
         "passiveSkills": [
             "stylish"
         ],
@@ -65414,7 +65788,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 937,
+        "originalIndex": 938,
         "lb1": {
             "attack": 1412,
             "defense": 1379,
@@ -65500,7 +65874,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 938,
+        "originalIndex": 939,
         "lb1": {
             "attack": 1274,
             "defense": 1332,
@@ -65576,7 +65950,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 939,
+        "originalIndex": 940,
         "lb1": {
             "attack": 1016,
             "defense": 1067,
@@ -65653,7 +66027,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 940,
+        "originalIndex": 941,
         "lb1": {
             "attack": 788,
             "defense": 876,
@@ -65692,7 +66066,7 @@ window.allHeroes =
         "color": "紫",
         "class": "巫師",
         "speed": "殺手",
-        "skill": "幽魂詛咒",
+        "skill": "頭顱的詛咒",
         "types": [
             "攻擊所有目標",
             "召喚所有惡魔",
@@ -65709,7 +66083,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2025-04-09",
-        "specialId": "curse_of_the_specter",
+        "specialId": "curse_of_the_cephaloid",
+        "parent_specialId": "curse_of_the_specter",
         "passiveSkills": [
             "resist_status_effect_damage"
         ],
@@ -65735,7 +66110,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 1,
-        "originalIndex": 941,
+        "originalIndex": 942,
         "lb1": {
             "attack": 1341,
             "defense": 1237,
@@ -65811,7 +66186,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 942,
+        "originalIndex": 943,
         "lb1": {
             "attack": 1265,
             "defense": 1309,
@@ -65884,7 +66259,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 943,
+        "originalIndex": 944,
         "lb1": {
             "attack": 819,
             "defense": 737,
@@ -65922,7 +66297,7 @@ window.allHeroes =
         "color": "紫",
         "class": "野人",
         "speed": "快速",
-        "skill": "咒語之箭",
+        "skill": "驅魔箭",
         "types": [
             "驅散者",
             "攻擊單個目標",
@@ -65937,7 +66312,8 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-10-20",
-        "specialId": "undead_rage",
+        "specialId": "excorcizing_arrow",
+        "parent_specialId": "undead_rage",
         "passiveSkills": [
             "resist_direct_mana_reductions"
         ],
@@ -65962,7 +66338,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 1,
-        "originalIndex": 944,
+        "originalIndex": 945,
         "lb1": {
             "attack": 1057,
             "defense": 920,
@@ -66035,7 +66411,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 945,
+        "originalIndex": 946,
         "lb1": {
             "attack": 870,
             "defense": 907,
@@ -66074,7 +66450,7 @@ window.allHeroes =
         "color": "紫",
         "class": "牧師",
         "speed": "慢速",
-        "skill": "暗黑軍團",
+        "skill": "暴君軍團",
         "types": [
             "召喚者",
             "全體持續傷害",
@@ -66087,7 +66463,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2025-05-14",
-        "specialId": "legions_of_darkness",
+        "specialId": "legions_of_tyrant",
+        "parent_specialId": "legions_of_darkness",
         "passiveSkills": [
             "moon_extra_special_damage_and_mana_regen_debuff"
         ],
@@ -66115,7 +66492,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 946,
+        "originalIndex": 947,
         "lb1": {
             "attack": 1306,
             "defense": 1284,
@@ -66192,7 +66569,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 947,
+        "originalIndex": 948,
         "lb1": {
             "attack": 1072,
             "defense": 981,
@@ -66267,7 +66644,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 948,
+        "originalIndex": 949,
         "lb1": {
             "attack": 1232,
             "defense": 1227,
@@ -66339,7 +66716,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 949,
+        "originalIndex": 950,
         "lb1": {
             "attack": 1065,
             "defense": 1129,
@@ -66410,7 +66787,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 950,
+        "originalIndex": 951,
         "lb1": {
             "attack": 1316,
             "defense": 1425,
@@ -66474,7 +66851,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 951,
+        "originalIndex": 952,
         "lb1": {
             "attack": 899,
             "defense": 879,
@@ -66508,7 +66885,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "慢速",
-        "skill": "沮喪謎語",
+        "skill": "恐懼謎語",
         "types": [
             "攻擊單個目標",
             "連鎖",
@@ -66521,7 +66898,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2025-07-10",
-        "specialId": "disheartening_riddle",
+        "specialId": "dreadful_riddle",
+        "parent_specialId": "disheartening_riddle",
         "passiveSkills": [
             "moon_extra_special_damage_and_dispel_latest_buff"
         ],
@@ -66549,7 +66927,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 952,
+        "originalIndex": 953,
         "lb1": {
             "attack": 1303,
             "defense": 1274,
@@ -66617,7 +66995,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 953,
+        "originalIndex": 954,
         "lb1": {
             "attack": 1416,
             "defense": 1360,
@@ -66693,7 +67071,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 954,
+        "originalIndex": 955,
         "lb1": {
             "attack": 1287,
             "defense": 1192,
@@ -66774,7 +67152,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 955,
+        "originalIndex": 956,
         "lb1": {
             "attack": 1214,
             "defense": 1218,
@@ -66847,7 +67225,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 956,
+        "originalIndex": 957,
         "lb1": {
             "attack": 1085,
             "defense": 1023,
@@ -66925,7 +67303,7 @@ window.allHeroes =
         ],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 957,
+        "originalIndex": 958,
         "lb1": {
             "attack": 1398,
             "defense": 1380,
@@ -66994,7 +67372,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 958,
+        "originalIndex": 959,
         "lb1": {
             "attack": 788,
             "defense": 748,
@@ -67027,7 +67405,7 @@ window.allHeroes =
         "color": "紫",
         "class": "巫師",
         "speed": "快速",
-        "skill": "骷髏召喚",
+        "skill": "不死召喚",
         "types": [
             "攻擊3個目標",
             "召喚者"
@@ -67038,7 +67416,8 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-01-11",
-        "specialId": "soul_cage",
+        "specialId": "undying_summon",
+        "parent_specialId": "soul_cage",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_dispel_newest"
@@ -67059,7 +67438,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 959,
+        "originalIndex": 960,
         "lb1": {
             "attack": 983,
             "defense": 962,
@@ -67134,7 +67513,7 @@ window.allHeroes =
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 960,
+        "originalIndex": 961,
         "lb1": {
             "attack": 1323,
             "defense": 1240,
@@ -67219,7 +67598,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 961,
+        "originalIndex": 962,
         "lb1": {
             "attack": 1329,
             "defense": 1187,
@@ -67286,7 +67665,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 962,
+        "originalIndex": 963,
         "lb1": {
             "attack": 912,
             "defense": 790,
@@ -67355,7 +67734,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 963,
+        "originalIndex": 964,
         "lb1": {
             "attack": 1036,
             "defense": 1021,
@@ -67435,7 +67814,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 964,
+        "originalIndex": 965,
         "lb1": {
             "attack": 1063,
             "defense": 956,
@@ -67474,7 +67853,7 @@ window.allHeroes =
         "color": "紫",
         "class": "巫師",
         "speed": "潮汐",
-        "skill": "邪惡糾纏",
+        "skill": "邪惡虹吸",
         "types": [
             "攻擊所有目標",
             "3個目標反擊",
@@ -67488,7 +67867,8 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-05-28",
-        "specialId": "sinister_enlace",
+        "specialId": "sinister_siphon",
+        "parent_specialId": "sinister_enlace",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_stacking_mana_generation"
         ],
@@ -67520,7 +67900,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 965,
+        "originalIndex": 966,
         "lb1": {
             "attack": 1386,
             "defense": 1201,
@@ -67592,7 +67972,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 966,
+        "originalIndex": 967,
         "lb1": {
             "attack": 990,
             "defense": 974,
@@ -67669,7 +68049,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 967,
+        "originalIndex": 968,
         "lb1": {
             "attack": 1314,
             "defense": 1232,
@@ -67738,7 +68118,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 968,
+        "originalIndex": 969,
         "lb1": {
             "attack": 819,
             "defense": 788,
@@ -67777,7 +68157,7 @@ window.allHeroes =
         "color": "紫",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "深淵爆裂",
+        "skill": "礁石爆炸",
         "types": [
             "攻擊所有目標",
             "全體元素反射",
@@ -67791,7 +68171,8 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2021-11-15",
-        "specialId": "depth_blast",
+        "specialId": "reef_blast",
+        "parent_specialId": "depth_blast",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_ursena_costume_reef",
@@ -67809,7 +68190,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 969,
+        "originalIndex": 970,
         "lb1": {
             "attack": 1010,
             "defense": 996,
@@ -67887,7 +68268,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 970,
+        "originalIndex": 971,
         "lb1": {
             "attack": 1001,
             "defense": 799,
@@ -67960,7 +68341,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 971,
+        "originalIndex": 972,
         "lb1": {
             "attack": 1161,
             "defense": 1143,
@@ -68038,7 +68419,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 972,
+        "originalIndex": 973,
         "lb1": {
             "attack": 1201,
             "defense": 1185,
@@ -68108,7 +68489,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 973,
+        "originalIndex": 974,
         "lb1": {
             "attack": 1298,
             "defense": 1327,
@@ -68180,7 +68561,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 974,
+        "originalIndex": 975,
         "lb1": {
             "attack": 839,
             "defense": 723,
@@ -68219,7 +68600,7 @@ window.allHeroes =
         "color": "紫",
         "class": "盜賊",
         "speed": "飛速",
-        "skill": "悲傷之夜",
+        "skill": "暗黑遺產",
         "types": [
             "攻擊3個目標",
             "3個目標持續傷害",
@@ -68235,7 +68616,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2021-10-04",
-        "specialId": "kings_blood_poisoning",
+        "specialId": "legacy_of_darkness",
+        "parent_specialId": "kings_blood_poisoning",
         "passiveSkills": [
             "halloween_steal_buff_or_deal_damage_new"
         ],
@@ -68257,7 +68639,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 1,
-        "originalIndex": 975,
+        "originalIndex": 976,
         "lb1": {
             "attack": 1245,
             "defense": 1112,
@@ -68329,7 +68711,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 976,
+        "originalIndex": 977,
         "lb1": {
             "attack": 1236,
             "defense": 1181,
@@ -68411,7 +68793,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 977,
+        "originalIndex": 978,
         "lb1": {
             "attack": 788,
             "defense": 872,
@@ -68476,7 +68858,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 978,
+        "originalIndex": 979,
         "lb1": {
             "attack": 1296,
             "defense": 1240,
@@ -68547,7 +68929,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 979,
+        "originalIndex": 980,
         "lb1": {
             "attack": 1081,
             "defense": 1201,
@@ -68626,7 +69008,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 980,
+        "originalIndex": 981,
         "lb1": {
             "attack": 1265,
             "defense": 1134,
@@ -68698,7 +69080,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 981,
+        "originalIndex": 982,
         "lb1": {
             "attack": 1105,
             "defense": 1052,
@@ -68773,7 +69155,7 @@ window.allHeroes =
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 982,
+        "originalIndex": 983,
         "lb1": {
             "attack": 825,
             "defense": 979,
@@ -68848,7 +69230,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 983,
+        "originalIndex": 984,
         "lb1": {
             "attack": 828,
             "defense": 854,
@@ -68886,7 +69268,7 @@ window.allHeroes =
         "color": "紫",
         "class": "巫師",
         "speed": "中等",
-        "skill": "古老魔法",
+        "skill": "誘騙魔法",
         "types": [
             "持續治療",
             "法力持續恢復",
@@ -68902,7 +69284,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-11-09",
-        "specialId": "ancient_enchantment",
+        "specialId": "entrapping_enchantment",
+        "parent_specialId": "ancient_enchantment",
         "passiveSkills": [
             "decrease_debuff_duration"
         ],
@@ -68926,7 +69309,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 984,
+        "originalIndex": 985,
         "lb1": {
             "attack": 1076,
             "defense": 1160,
@@ -69002,7 +69385,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 985,
+        "originalIndex": 986,
         "lb1": {
             "attack": 1267,
             "defense": 1192,
@@ -69077,7 +69460,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 986,
+        "originalIndex": 987,
         "lb1": {
             "attack": 1245,
             "defense": 1116,
@@ -69149,7 +69532,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 987,
+        "originalIndex": 988,
         "lb1": {
             "attack": 721,
             "defense": 843,
@@ -69206,7 +69589,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 988,
+        "originalIndex": 989,
         "lb1": {
             "attack": 168,
             "defense": 205,
@@ -69251,7 +69634,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 989,
+        "originalIndex": 990,
         "lb1": {
             "attack": 208,
             "defense": 200,
@@ -69296,7 +69679,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 990,
+        "originalIndex": 991,
         "lb1": {
             "attack": 350,
             "defense": 288,
@@ -69341,7 +69724,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 991,
+        "originalIndex": 992,
         "lb1": {
             "attack": 320,
             "defense": 325,
@@ -69386,7 +69769,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 992,
+        "originalIndex": 993,
         "lb1": {
             "attack": 356,
             "defense": 275,
@@ -69431,7 +69814,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 993,
+        "originalIndex": 994,
         "lb1": {
             "attack": 312,
             "defense": 359,
@@ -69479,7 +69862,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 994,
+        "originalIndex": 995,
         "lb1": {
             "attack": 559,
             "defense": 468,
@@ -69512,7 +69895,7 @@ window.allHeroes =
         "color": "紅",
         "class": "遊俠",
         "speed": "快速",
-        "skill": "銳不可當",
+        "skill": "銳爪",
         "types": [
             "攻擊3個目標",
             "單體法力削減"
@@ -69523,7 +69906,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
-        "specialId": "sharp_cut",
+        "specialId": "acute_cut",
+        "parent_specialId": "sharp_cut",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_swordmaster_costume_native",
@@ -69539,7 +69923,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 995,
+        "originalIndex": 996,
         "lb1": {
             "attack": 573,
             "defense": 524,
@@ -69572,7 +69956,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "快速",
-        "skill": "銳不可當",
+        "skill": "公仔切割",
         "types": [
             "攻擊單個目標",
             "單體法力削減"
@@ -69584,7 +69968,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-03-11",
-        "specialId": "sharp_cut",
+        "specialId": "toon_cut",
+        "parent_specialId": "sharp_cut",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -69605,7 +69990,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 996,
+        "originalIndex": 997,
         "lb1": {
             "attack": 666,
             "defense": 521,
@@ -69639,7 +70024,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "快速",
-        "skill": "銳不可當",
+        "skill": "玻璃切擊",
         "types": [
             "攻擊單個目標",
             "單體法力削減",
@@ -69652,7 +70037,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-04-23",
-        "specialId": "sharp_cut",
+        "specialId": "glass_cut",
+        "parent_specialId": "sharp_cut",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -69673,7 +70059,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 997,
+        "originalIndex": 998,
         "lb1": {
             "attack": 688,
             "defense": 530,
@@ -69744,7 +70130,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 998,
+        "originalIndex": 999,
         "lb1": {
             "attack": 648,
             "defense": 457,
@@ -69777,7 +70163,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "潮汐",
-        "skill": "燃燒標槍",
+        "skill": "密探的小型望遠鏡",
         "types": [
             "攻擊3個目標",
             "元素防禦降低"
@@ -69788,7 +70174,8 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-04-29",
-        "specialId": "burning_javelin",
+        "specialId": "scouts_spyglass",
+        "parent_specialId": "burning_javelin",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_stacking_mana_generation"
         ],
@@ -69818,7 +70205,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 999,
+        "originalIndex": 1000,
         "lb1": {
             "attack": 580,
             "defense": 564,
@@ -69886,7 +70273,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 1000,
+        "originalIndex": 1001,
         "lb1": {
             "attack": 522,
             "defense": 610,
@@ -69945,7 +70332,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 1001,
+        "originalIndex": 1002,
         "lb1": {
             "attack": 476,
             "defense": 514,
@@ -70018,7 +70405,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1002,
+        "originalIndex": 1003,
         "lb1": {
             "attack": 516,
             "defense": 520,
@@ -70087,7 +70474,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1003,
+        "originalIndex": 1004,
         "lb1": {
             "attack": 577,
             "defense": 512,
@@ -70167,7 +70554,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1004,
+        "originalIndex": 1005,
         "lb1": {
             "attack": 608,
             "defense": 535,
@@ -70232,7 +70619,7 @@ window.allHeroes =
         "passives": [],
         "family": "niflheim",
         "costume_id": 0,
-        "originalIndex": 1005,
+        "originalIndex": 1006,
         "lb1": {
             "attack": 478,
             "defense": 545,
@@ -70265,7 +70652,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "中等",
-        "skill": "疫病斧",
+        "skill": "惡毒利斧",
         "types": [
             "攻擊所有目標",
             "法力削減"
@@ -70276,7 +70663,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-02-13",
-        "specialId": "tainted_axe",
+        "specialId": "vicious_axe",
+        "parent_specialId": "tainted_axe",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_ei_dunn_costume_shield",
@@ -70292,7 +70680,7 @@ window.allHeroes =
         "passives": [],
         "family": "niflheim",
         "costume_id": 1,
-        "originalIndex": 1006,
+        "originalIndex": 1007,
         "lb1": {
             "attack": 570,
             "defense": 472,
@@ -70356,7 +70744,7 @@ window.allHeroes =
         ],
         "family": "stag",
         "costume_id": 0,
-        "originalIndex": 1007,
+        "originalIndex": 1008,
         "lb1": {
             "attack": 518,
             "defense": 522,
@@ -70413,7 +70801,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1008,
+        "originalIndex": 1009,
         "lb1": {
             "attack": 537,
             "defense": 506,
@@ -70441,7 +70829,7 @@ window.allHeroes =
         "color": "紅",
         "class": "術士",
         "speed": "中等",
-        "skill": "疾風禱告",
+        "skill": "疾風福音",
         "types": [
             "全體持續治療",
             "全體攻擊增益"
@@ -70452,7 +70840,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
-        "specialId": "wind_prayer",
+        "specialId": "wind_gospel",
+        "parent_specialId": "wind_prayer",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_shaman_costume_native",
@@ -70468,7 +70857,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1009,
+        "originalIndex": 1010,
         "lb1": {
             "attack": 569,
             "defense": 545,
@@ -70501,7 +70890,7 @@ window.allHeroes =
         "color": "紅",
         "class": "牧師",
         "speed": "中等",
-        "skill": "疾風禱告",
+        "skill": "祈禱者公仔",
         "types": [
             "全體治療",
             "全體防禦增益"
@@ -70512,7 +70901,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-05-06",
-        "specialId": "wind_prayer",
+        "specialId": "adorable_wind_prayer",
+        "parent_specialId": "wind_prayer",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -70532,7 +70922,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1010,
+        "originalIndex": 1011,
         "lb1": {
             "attack": 618,
             "defense": 589,
@@ -70565,7 +70955,7 @@ window.allHeroes =
         "color": "紅",
         "class": "牧師",
         "speed": "中等",
-        "skill": "疾風禱告",
+        "skill": "玻璃祈禱者",
         "types": [
             "全體治療",
             "全體火焰系盟友反射減益"
@@ -70576,7 +70966,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-07-16",
-        "specialId": "wind_prayer",
+        "specialId": "glass_prayer",
+        "parent_specialId": "wind_prayer",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -70596,7 +70987,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1011,
+        "originalIndex": 1012,
         "lb1": {
             "attack": 669,
             "defense": 592,
@@ -70668,7 +71059,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 1012,
+        "originalIndex": 1013,
         "lb1": {
             "attack": 618,
             "defense": 606,
@@ -70701,7 +71092,7 @@ window.allHeroes =
         "color": "紅",
         "class": "騎士",
         "speed": "慢速",
-        "skill": "矮人興旺",
+        "skill": "矮人補充",
         "types": [
             "隨機攻擊8次",
             "全體增益持續時間重置"
@@ -70716,7 +71107,8 @@ window.allHeroes =
         ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-10-15",
-        "specialId": "dwarven_flourish",
+        "specialId": "dwarven_recharge",
+        "parent_specialId": "dwarven_flourish",
         "passiveSkills": [
             "molten_core_costume",
             "resist_burn_with_health_and_mana_boost_costume"
@@ -70741,7 +71133,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 1,
-        "originalIndex": 1013,
+        "originalIndex": 1014,
         "lb1": {
             "attack": 657,
             "defense": 641,
@@ -70800,7 +71192,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1014,
+        "originalIndex": 1015,
         "lb1": {
             "attack": 565,
             "defense": 494,
@@ -70834,7 +71226,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "慢速",
-        "skill": "火球",
+        "skill": "燒灼光線",
         "types": [
             "攻擊所有目標",
             "全體持續傷害"
@@ -70845,7 +71237,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "fireball",
+        "specialId": "comet",
+        "parent_specialId": "fireball",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_mage_costume_goggles",
@@ -70861,7 +71254,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1015,
+        "originalIndex": 1016,
         "lb1": {
             "attack": 594,
             "defense": 512,
@@ -70895,7 +71288,7 @@ window.allHeroes =
         "color": "紅",
         "class": "術士",
         "speed": "慢速",
-        "skill": "火球",
+        "skill": "公仔球",
         "types": [
             "攻擊所有目標",
             "全體持續傷害"
@@ -70907,7 +71300,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-12-25",
-        "specialId": "fireball",
+        "specialId": "toonball",
+        "parent_specialId": "fireball",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -70928,7 +71322,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1016,
+        "originalIndex": 1017,
         "lb1": {
             "attack": 629,
             "defense": 545,
@@ -70967,7 +71361,7 @@ window.allHeroes =
         "color": "紅",
         "class": "術士",
         "speed": "慢速",
-        "skill": "火球",
+        "skill": "玻璃火球",
         "types": [
             "攻擊所有目標",
             "全體持續傷害"
@@ -70979,7 +71373,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-12-25",
-        "specialId": "fireball",
+        "specialId": "glass_fireball",
+        "parent_specialId": "fireball",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -71000,7 +71395,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1017,
+        "originalIndex": 1018,
         "lb1": {
             "attack": 648,
             "defense": 557,
@@ -71039,7 +71434,7 @@ window.allHeroes =
         "color": "紅",
         "class": "術士",
         "speed": "慢速",
-        "skill": "火球",
+        "skill": "有型火球",
         "types": [
             "攻擊所有目標",
             "全體持續傷害"
@@ -71051,7 +71446,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2026-01-07",
-        "specialId": "fireball",
+        "specialId": "stylish_fireball",
+        "parent_specialId": "fireball",
         "passiveSkills": [
             "stylish"
         ],
@@ -71072,7 +71468,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1018,
+        "originalIndex": 1019,
         "lb1": {
             "attack": 689,
             "defense": 588,
@@ -71145,7 +71541,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1019,
+        "originalIndex": 1020,
         "lb1": {
             "attack": 535,
             "defense": 555,
@@ -71206,7 +71602,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1020,
+        "originalIndex": 1021,
         "lb1": {
             "attack": 545,
             "defense": 551,
@@ -71285,7 +71681,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1021,
+        "originalIndex": 1022,
         "lb1": {
             "attack": 563,
             "defense": 634,
@@ -71345,7 +71741,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 1022,
+        "originalIndex": 1023,
         "lb1": {
             "attack": 596,
             "defense": 474,
@@ -71404,7 +71800,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1023,
+        "originalIndex": 1024,
         "lb1": {
             "attack": 583,
             "defense": 415,
@@ -71438,7 +71834,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "燃燒打擊",
+        "skill": "毀滅打擊",
         "types": [
             "攻擊單個目標",
             "單體持續傷害"
@@ -71449,7 +71845,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "burning_strike",
+        "specialId": "searing_strike",
+        "parent_specialId": "burning_strike",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_warrior_costume_urukhai",
@@ -71465,7 +71862,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1024,
+        "originalIndex": 1025,
         "lb1": {
             "attack": 655,
             "defense": 427,
@@ -71499,7 +71896,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "快速",
-        "skill": "燃燒打擊",
+        "skill": "公仔火擊",
         "types": [
             "攻擊單個目標",
             "單體持續傷害"
@@ -71511,7 +71908,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-05-31",
-        "specialId": "burning_strike",
+        "specialId": "adorable_burning_strike",
+        "parent_specialId": "burning_strike",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -71532,7 +71930,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1025,
+        "originalIndex": 1026,
         "lb1": {
             "attack": 706,
             "defense": 459,
@@ -71571,7 +71969,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "快速",
-        "skill": "燃燒打擊",
+        "skill": "玻璃打擊",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -71584,7 +71982,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-08-10",
-        "specialId": "burning_strike",
+        "specialId": "glass_burning_strike",
+        "parent_specialId": "burning_strike",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -71605,7 +72004,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1026,
+        "originalIndex": 1027,
         "lb1": {
             "attack": 734,
             "defense": 467,
@@ -71670,7 +72069,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1027,
+        "originalIndex": 1028,
         "lb1": {
             "attack": 506,
             "defense": 591,
@@ -71731,7 +72130,7 @@ window.allHeroes =
         "passives": [],
         "family": "institute",
         "costume_id": 0,
-        "originalIndex": 1028,
+        "originalIndex": 1029,
         "lb1": {
             "attack": 614,
             "defense": 555,
@@ -71803,7 +72202,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1029,
+        "originalIndex": 1030,
         "lb1": {
             "attack": 581,
             "defense": 612,
@@ -71871,7 +72270,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1030,
+        "originalIndex": 1031,
         "lb1": {
             "attack": 612,
             "defense": 443,
@@ -71905,7 +72304,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "快速",
-        "skill": "鹿角攻擊",
+        "skill": "鈦角攻擊",
         "types": [
             "攻擊單個目標",
             "單體法力削減",
@@ -71920,7 +72319,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2025-12-01",
-        "specialId": "horn_attack",
+        "specialId": "titanium_antler_attack",
+        "parent_specialId": "horn_attack",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "frost_on_minion_damage_done"
@@ -71942,7 +72342,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 1,
-        "originalIndex": 1031,
+        "originalIndex": 1032,
         "lb1": {
             "attack": 735,
             "defense": 541,
@@ -72016,7 +72416,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1032,
+        "originalIndex": 1033,
         "lb1": {
             "attack": 569,
             "defense": 529,
@@ -72077,7 +72477,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 1033,
+        "originalIndex": 1034,
         "lb1": {
             "attack": 559,
             "defense": 535,
@@ -72135,7 +72535,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1034,
+        "originalIndex": 1035,
         "lb1": {
             "attack": 610,
             "defense": 433,
@@ -72202,7 +72602,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1035,
+        "originalIndex": 1036,
         "lb1": {
             "attack": 594,
             "defense": 545,
@@ -72265,7 +72665,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 0,
-        "originalIndex": 1036,
+        "originalIndex": 1037,
         "lb1": {
             "attack": 498,
             "defense": 549,
@@ -72327,7 +72727,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1037,
+        "originalIndex": 1038,
         "lb1": {
             "attack": 539,
             "defense": 583,
@@ -72355,7 +72755,7 @@ window.allHeroes =
         "color": "紅",
         "class": "德魯伊",
         "speed": "慢速",
-        "skill": "長尾鮫蟲",
+        "skill": "吸血蠕蟲",
         "types": [
             "召喚所有惡魔"
         ],
@@ -72365,7 +72765,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-04-25",
-        "specialId": "thresher_worms",
+        "specialId": "leeching_worms",
+        "parent_specialId": "thresher_worms",
         "passiveSkills": [
             "start_battle_with_mana"
         ],
@@ -72385,7 +72786,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1038,
+        "originalIndex": 1039,
         "lb1": {
             "attack": 550,
             "defense": 584,
@@ -72445,7 +72846,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1039,
+        "originalIndex": 1040,
         "lb1": {
             "attack": 606,
             "defense": 535,
@@ -72478,7 +72879,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "慢速",
-        "skill": "不屈保衛者",
+        "skill": "不屈之劍",
         "types": [
             "攻擊所有目標",
             "全體最大生命值持續降低"
@@ -72489,7 +72890,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2025-04-14",
-        "specialId": "unyielding_protector",
+        "specialId": "unyielding_sword",
+        "parent_specialId": "unyielding_protector",
         "passiveSkills": [
             "sun_extra_special_damage_and_attack_debuff"
         ],
@@ -72516,7 +72918,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1040,
+        "originalIndex": 1041,
         "lb1": {
             "attack": 653,
             "defense": 506,
@@ -72588,7 +72990,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 1041,
+        "originalIndex": 1042,
         "lb1": {
             "attack": 681,
             "defense": 743,
@@ -72653,7 +73055,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1042,
+        "originalIndex": 1043,
         "lb1": {
             "attack": 639,
             "defense": 773,
@@ -72686,7 +73088,7 @@ window.allHeroes =
         "color": "紅",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "戰嚎",
+        "skill": "戰爭盛宴",
         "types": [
             "全體治療",
             "全體攻擊增益"
@@ -72697,7 +73099,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
-        "specialId": "warcry",
+        "specialId": "war_feast",
+        "parent_specialId": "warcry",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_gladiator_costume_chef",
@@ -72713,7 +73116,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1043,
+        "originalIndex": 1044,
         "lb1": {
             "attack": 689,
             "defense": 815,
@@ -72746,7 +73149,7 @@ window.allHeroes =
         "color": "紅",
         "class": "牧師",
         "speed": "中等",
-        "skill": "戰嚎",
+        "skill": "戰歌",
         "types": [
             "全體強化持續治療",
             "全體攻擊增益"
@@ -72758,7 +73161,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-06-12",
-        "specialId": "warcry",
+        "specialId": "war_song",
+        "parent_specialId": "warcry",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_gladiator_costume_sage",
@@ -72774,7 +73178,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1044,
+        "originalIndex": 1045,
         "lb1": {
             "attack": 748,
             "defense": 902,
@@ -72808,7 +73212,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "中等",
-        "skill": "戰嚎",
+        "skill": "公仔吼",
         "types": [
             "全體治療",
             "全體攻擊增益"
@@ -72819,7 +73223,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-12-25",
-        "specialId": "warcry",
+        "specialId": "tooncry",
+        "parent_specialId": "warcry",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -72839,7 +73244,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1045,
+        "originalIndex": 1046,
         "lb1": {
             "attack": 759,
             "defense": 910,
@@ -72872,7 +73277,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "中等",
-        "skill": "戰嚎",
+        "skill": "玻璃戰嚎",
         "types": [
             "全體治療",
             "全體攻擊增益",
@@ -72886,7 +73291,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-12-25",
-        "specialId": "warcry",
+        "specialId": "glass_warcry",
+        "parent_specialId": "warcry",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -72907,7 +73313,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1046,
+        "originalIndex": 1047,
         "lb1": {
             "attack": 769,
             "defense": 928,
@@ -72941,7 +73347,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "中等",
-        "skill": "戰嚎",
+        "skill": "有型戰嚎",
         "types": [
             "全體治療",
             "全體攻擊增益"
@@ -72952,7 +73358,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2026-01-07",
-        "specialId": "warcry",
+        "specialId": "stylish_warcry",
+        "parent_specialId": "warcry",
         "passiveSkills": [
             "stylish"
         ],
@@ -72972,7 +73379,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1047,
+        "originalIndex": 1048,
         "lb1": {
             "attack": 837,
             "defense": 1017,
@@ -73034,7 +73441,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1048,
+        "originalIndex": 1049,
         "lb1": {
             "attack": 678,
             "defense": 701,
@@ -73101,7 +73508,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 1049,
+        "originalIndex": 1050,
         "lb1": {
             "attack": 685,
             "defense": 741,
@@ -73162,7 +73569,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1050,
+        "originalIndex": 1051,
         "lb1": {
             "attack": 791,
             "defense": 584,
@@ -73196,7 +73603,7 @@ window.allHeroes =
         "color": "紅",
         "class": "騎士",
         "speed": "慢速",
-        "skill": "烈火風暴",
+        "skill": "火焰突擊",
         "types": [
             "攻擊所有目標",
             "全體持續傷害"
@@ -73207,7 +73614,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "fire_storm",
+        "specialId": "lavablow",
+        "parent_specialId": "fire_storm",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_axe_adventurer_costume_magma",
@@ -73223,7 +73631,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1051,
+        "originalIndex": 1052,
         "lb1": {
             "attack": 854,
             "defense": 605,
@@ -73257,7 +73665,7 @@ window.allHeroes =
         "color": "紅",
         "class": "遊俠",
         "speed": "慢速",
-        "skill": "烈火風暴",
+        "skill": "火焰風暴",
         "types": [
             "攻擊3個目標",
             "3個目標元素防禦降低"
@@ -73269,7 +73677,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-06-12",
-        "specialId": "fire_storm",
+        "specialId": "flame_storm",
+        "parent_specialId": "fire_storm",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_axe_adventurer_costume_tracker",
@@ -73286,7 +73695,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1052,
+        "originalIndex": 1053,
         "lb1": {
             "attack": 900,
             "defense": 679,
@@ -73324,7 +73733,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "烈火風暴",
+        "skill": "公仔風暴",
         "types": [
             "攻擊所有目標",
             "全體持續傷害"
@@ -73336,7 +73745,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-03-11",
-        "specialId": "fire_storm",
+        "specialId": "toon_storm",
+        "parent_specialId": "fire_storm",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -73357,7 +73767,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1053,
+        "originalIndex": 1054,
         "lb1": {
             "attack": 915,
             "defense": 707,
@@ -73396,7 +73806,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "烈火風暴",
+        "skill": "彩繪玻璃火焰",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -73409,7 +73819,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-04-08",
-        "specialId": "fire_storm",
+        "specialId": "vitrail_flames",
+        "parent_specialId": "fire_storm",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -73430,7 +73841,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1054,
+        "originalIndex": 1055,
         "lb1": {
             "attack": 956,
             "defense": 703,
@@ -73495,7 +73906,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1055,
+        "originalIndex": 1056,
         "lb1": {
             "attack": 692,
             "defense": 713,
@@ -73553,7 +73964,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1056,
+        "originalIndex": 1057,
         "lb1": {
             "attack": 690,
             "defense": 646,
@@ -73586,7 +73997,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "中等",
-        "skill": "野性復仇",
+        "skill": "烈火復仇",
         "types": [
             "反擊"
         ],
@@ -73596,7 +74007,8 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-12-17",
-        "specialId": "feral_revenge",
+        "specialId": "fiery_revenge",
+        "parent_specialId": "feral_revenge",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "increase_cast_status_effect_duration"
@@ -73618,7 +74030,7 @@ window.allHeroes =
         ],
         "family": "wolf",
         "costume_id": 1,
-        "originalIndex": 1057,
+        "originalIndex": 1058,
         "lb1": {
             "attack": 722,
             "defense": 683,
@@ -73677,7 +74089,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1058,
+        "originalIndex": 1059,
         "lb1": {
             "attack": 618,
             "defense": 614,
@@ -73710,7 +74122,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "中等",
-        "skill": "錘擊粉碎",
+        "skill": "粉碎算盤",
         "types": [
             "摧毀所有小兵",
             "攻擊所有目標"
@@ -73722,7 +74134,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "ramming_pulverizer",
+        "specialId": "wallet_pulverizer",
+        "parent_specialId": "ramming_pulverizer",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_troopmaster_costume_merchant",
@@ -73739,7 +74152,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1059,
+        "originalIndex": 1060,
         "lb1": {
             "attack": 676,
             "defense": 672,
@@ -73773,7 +74186,7 @@ window.allHeroes =
         "color": "紅",
         "class": "牧師",
         "speed": "中等",
-        "skill": "錘擊粉碎",
+        "skill": "粉碎火腿",
         "types": [
             "全體驅散",
             "攻擊所有目標"
@@ -73784,7 +74197,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-04-17",
-        "specialId": "ramming_pulverizer",
+        "specialId": "pulverizing_ham",
+        "parent_specialId": "ramming_pulverizer",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_troopmaster_costume_gourmet",
@@ -73800,7 +74214,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1060,
+        "originalIndex": 1061,
         "lb1": {
             "attack": 796,
             "defense": 685,
@@ -73833,7 +74247,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "中等",
-        "skill": "錘擊粉碎",
+        "skill": "粉碎者公仔",
         "types": [
             "攻擊3個目標",
             "3個目標防禦降低"
@@ -73845,7 +74259,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-05-06",
-        "specialId": "ramming_pulverizer",
+        "specialId": "adorable_pulverizer",
+        "parent_specialId": "ramming_pulverizer",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -73866,7 +74281,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1061,
+        "originalIndex": 1062,
         "lb1": {
             "attack": 696,
             "defense": 807,
@@ -73905,7 +74320,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "中等",
-        "skill": "錘擊粉碎",
+        "skill": "玻璃粉碎",
         "types": [
             "攻擊3個目標",
             "無視防禦",
@@ -73918,7 +74333,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-05-10",
-        "specialId": "ramming_pulverizer",
+        "specialId": "glass_pulverizer",
+        "parent_specialId": "ramming_pulverizer",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -73939,7 +74355,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1062,
+        "originalIndex": 1063,
         "lb1": {
             "attack": 714,
             "defense": 818,
@@ -74003,7 +74419,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1063,
+        "originalIndex": 1064,
         "lb1": {
             "attack": 600,
             "defense": 819,
@@ -74075,7 +74491,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1064,
+        "originalIndex": 1065,
         "lb1": {
             "attack": 886,
             "defense": 865,
@@ -74148,7 +74564,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1065,
+        "originalIndex": 1066,
         "lb1": {
             "attack": 729,
             "defense": 764,
@@ -74218,7 +74634,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1066,
+        "originalIndex": 1067,
         "lb1": {
             "attack": 812,
             "defense": 623,
@@ -74247,7 +74663,7 @@ window.allHeroes =
         "color": "紅",
         "class": "騎士",
         "speed": "快速",
-        "skill": "斬擊支援",
+        "skill": "打擊支援",
         "types": [
             "攻擊單個目標",
             "傷害治療"
@@ -74258,7 +74674,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-11-01",
-        "specialId": "slash_and_support",
+        "specialId": "strike_and_support",
+        "parent_specialId": "slash_and_support",
         "passiveSkills": [
             "moon_extra_special_damage_and_mana_regen_debuff"
         ],
@@ -74285,7 +74702,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1067,
+        "originalIndex": 1068,
         "lb1": {
             "attack": 781,
             "defense": 687,
@@ -74340,7 +74757,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1068,
+        "originalIndex": 1069,
         "lb1": {
             "attack": 734,
             "defense": 745,
@@ -74374,7 +74791,7 @@ window.allHeroes =
         "color": "紅",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "烈火之舞",
+        "skill": "燃火之舞",
         "types": [
             "全體持續傷害"
         ],
@@ -74383,7 +74800,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "dance_of_fire",
+        "specialId": "dance_of_ignition",
+        "parent_specialId": "dance_of_fire",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_berserker_costume_shaman",
@@ -74398,7 +74816,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1069,
+        "originalIndex": 1070,
         "lb1": {
             "attack": 827,
             "defense": 765,
@@ -74432,7 +74850,7 @@ window.allHeroes =
         "color": "紅",
         "class": "術士",
         "speed": "快速",
-        "skill": "烈火之舞",
+        "skill": "火焰之舞",
         "types": [
             "攻擊3個目標",
             "3個目標持續傷害"
@@ -74444,7 +74862,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-09-05",
-        "specialId": "dance_of_fire",
+        "specialId": "dance_of_flame",
+        "parent_specialId": "dance_of_fire",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_berserker_costume_sorceress",
@@ -74460,7 +74879,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1070,
+        "originalIndex": 1071,
         "lb1": {
             "attack": 857,
             "defense": 833,
@@ -74499,7 +74918,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "烈火之舞",
+        "skill": "公仔之舞",
         "types": [
             "攻擊單個目標",
             "單體持續傷害"
@@ -74511,7 +74930,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-04-08",
-        "specialId": "dance_of_fire",
+        "specialId": "dance_of_toons",
+        "parent_specialId": "dance_of_fire",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -74532,7 +74952,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1071,
+        "originalIndex": 1072,
         "lb1": {
             "attack": 886,
             "defense": 826,
@@ -74571,7 +74991,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "烈火之舞",
+        "skill": "玻璃舞",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -74584,7 +75004,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-04-23",
-        "specialId": "dance_of_fire",
+        "specialId": "dance_of_glass",
+        "parent_specialId": "dance_of_fire",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -74605,7 +75026,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1072,
+        "originalIndex": 1073,
         "lb1": {
             "attack": 912,
             "defense": 835,
@@ -74674,7 +75095,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1073,
+        "originalIndex": 1074,
         "lb1": {
             "attack": 701,
             "defense": 669,
@@ -74708,7 +75129,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "中等",
-        "skill": "烈焰之劍",
+        "skill": "天鵝之歌劍",
         "types": [
             "攻擊3個目標",
             "3個目標持續傷害"
@@ -74719,7 +75140,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2025-07-28",
-        "specialId": "flaming_sword",
+        "specialId": "sword_of_swan_song",
+        "parent_specialId": "flaming_sword",
         "passiveSkills": [
             "heal_mana_on_low_health_once"
         ],
@@ -74739,7 +75161,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 1074,
+        "originalIndex": 1075,
         "lb1": {
             "attack": 730,
             "defense": 687,
@@ -74814,7 +75236,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1075,
+        "originalIndex": 1076,
         "lb1": {
             "attack": 715,
             "defense": 736,
@@ -74884,7 +75306,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1076,
+        "originalIndex": 1077,
         "lb1": {
             "attack": 701,
             "defense": 745,
@@ -74913,7 +75335,7 @@ window.allHeroes =
         "color": "紅",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "半身機智",
+        "skill": "半身人的智慧",
         "types": [
             "反擊",
             "攻擊增益"
@@ -74924,7 +75346,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-05-23",
-        "specialId": "halflings_wit",
+        "specialId": "halflings_wisdom",
+        "parent_specialId": "halflings_wit",
         "passiveSkills": [
             "increase_buff_duration"
         ],
@@ -74944,7 +75367,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1077,
+        "originalIndex": 1078,
         "lb1": {
             "attack": 715,
             "defense": 777,
@@ -75012,7 +75435,7 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1078,
+        "originalIndex": 1079,
         "lb1": {
             "attack": 882,
             "defense": 831,
@@ -75081,7 +75504,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1079,
+        "originalIndex": 1080,
         "lb1": {
             "attack": 713,
             "defense": 731,
@@ -75157,7 +75580,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1080,
+        "originalIndex": 1081,
         "lb1": {
             "attack": 810,
             "defense": 780,
@@ -75234,7 +75657,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1081,
+        "originalIndex": 1082,
         "lb1": {
             "attack": 699,
             "defense": 785,
@@ -75314,7 +75737,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 1082,
+        "originalIndex": 1083,
         "lb1": {
             "attack": 815,
             "defense": 683,
@@ -75380,7 +75803,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1083,
+        "originalIndex": 1084,
         "lb1": {
             "attack": 768,
             "defense": 715,
@@ -75414,7 +75837,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "快速",
-        "skill": "失智狂怒",
+        "skill": "梅森之怒",
         "types": [
             "攻擊所有目標",
             "全體持續傷害"
@@ -75426,7 +75849,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-04-25",
-        "specialId": "blind_rage",
+        "specialId": "masons_rage",
+        "parent_specialId": "blind_rage",
         "passiveSkills": [
             "decrease_debuff_duration"
         ],
@@ -75446,7 +75870,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1084,
+        "originalIndex": 1085,
         "lb1": {
             "attack": 788,
             "defense": 737,
@@ -75506,7 +75930,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1085,
+        "originalIndex": 1086,
         "lb1": {
             "attack": 833,
             "defense": 551,
@@ -75539,7 +75963,7 @@ window.allHeroes =
         "color": "紅",
         "class": "遊俠",
         "speed": "快速",
-        "skill": "利刃之雨",
+        "skill": "利刃毒液",
         "types": [
             "攻擊3個目標",
             "3個目標持續傷害",
@@ -75552,7 +75976,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "blade_barrage",
+        "specialId": "blade_venom",
+        "parent_specialId": "blade_barrage",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_assassin_costume_poison",
@@ -75569,7 +75994,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1086,
+        "originalIndex": 1087,
         "lb1": {
             "attack": 852,
             "defense": 622,
@@ -75608,7 +76033,7 @@ window.allHeroes =
         "color": "紅",
         "class": "術士",
         "speed": "快速",
-        "skill": "利刃之雨",
+        "skill": "舞池刀刃",
         "types": [
             "攻擊3個目標",
             "3個目標攻擊降低"
@@ -75620,7 +76045,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-10-30",
-        "specialId": "blade_barrage",
+        "specialId": "blade_dance",
+        "parent_specialId": "blade_barrage",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_assassin_costume_dancer",
@@ -75636,7 +76062,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1087,
+        "originalIndex": 1088,
         "lb1": {
             "attack": 937,
             "defense": 642,
@@ -75669,7 +76095,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "利刃之雨",
+        "skill": "公仔彈幕",
         "types": [
             "攻擊3個目標",
             "3個目標攻擊降低"
@@ -75681,7 +76107,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-08-11",
-        "specialId": "blade_barrage",
+        "specialId": "toon_barrage",
+        "parent_specialId": "blade_barrage",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -75702,7 +76129,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1088,
+        "originalIndex": 1089,
         "lb1": {
             "attack": 915,
             "defense": 710,
@@ -75740,7 +76167,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "利刃之雨",
+        "skill": "玻璃之雨",
         "types": [
             "攻擊3個目標",
             "無視防禦",
@@ -75753,7 +76180,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-09-07",
-        "specialId": "blade_barrage",
+        "specialId": "glass_barrage_scarlett",
+        "parent_specialId": "blade_barrage",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -75774,7 +76202,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1089,
+        "originalIndex": 1090,
         "lb1": {
             "attack": 945,
             "defense": 711,
@@ -75843,7 +76271,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 0,
-        "originalIndex": 1090,
+        "originalIndex": 1091,
         "lb1": {
             "attack": 646,
             "defense": 690,
@@ -75911,7 +76339,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1091,
+        "originalIndex": 1092,
         "lb1": {
             "attack": 655,
             "defense": 681,
@@ -75973,7 +76401,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 1092,
+        "originalIndex": 1093,
         "lb1": {
             "attack": 822,
             "defense": 579,
@@ -76036,7 +76464,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 1093,
+        "originalIndex": 1094,
         "lb1": {
             "attack": 722,
             "defense": 688,
@@ -76070,7 +76498,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "中等",
-        "skill": "防守技巧",
+        "skill": "奧蘇東",
         "types": [
             "攻擊單個目標",
             "單體反擊",
@@ -76083,7 +76511,8 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-04-03",
-        "specialId": "oji_waza",
+        "specialId": "orsoldoon",
+        "parent_specialId": "oji_waza",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_demon_master_costume_steppe",
@@ -76100,7 +76529,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 1094,
+        "originalIndex": 1095,
         "lb1": {
             "attack": 706,
             "defense": 753,
@@ -76160,7 +76589,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 0,
-        "originalIndex": 1095,
+        "originalIndex": 1096,
         "lb1": {
             "attack": 778,
             "defense": 683,
@@ -76193,7 +76622,7 @@ window.allHeroes =
         "color": "紅",
         "class": "德魯伊",
         "speed": "慢速",
-        "skill": "岩漿巨石",
+        "skill": "火山巨石",
         "types": [
             "攻擊3個目標"
         ],
@@ -76204,7 +76633,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-07-04",
-        "specialId": "magma_boulders",
+        "specialId": "volcanic_boulders",
+        "parent_specialId": "magma_boulders",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_sumle_costume_unhallowed",
@@ -76220,7 +76650,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 1,
-        "originalIndex": 1096,
+        "originalIndex": 1097,
         "lb1": {
             "attack": 784,
             "defense": 713,
@@ -76279,7 +76709,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1097,
+        "originalIndex": 1098,
         "lb1": {
             "attack": 849,
             "defense": 593,
@@ -76348,7 +76778,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1098,
+        "originalIndex": 1099,
         "lb1": {
             "attack": 768,
             "defense": 738,
@@ -76417,7 +76847,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 0,
-        "originalIndex": 1099,
+        "originalIndex": 1100,
         "lb1": {
             "attack": 658,
             "defense": 750,
@@ -76451,7 +76881,7 @@ window.allHeroes =
         "color": "紅",
         "class": "牧師",
         "speed": "中等",
-        "skill": "美妙盛宴",
+        "skill": "精純釀造",
         "types": [
             "泰坦攻擊增益",
             "持續治療"
@@ -76462,7 +76892,8 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-02",
-        "specialId": "spiritual_unity",
+        "specialId": "brilliant_brew",
+        "parent_specialId": "spiritual_unity",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_rugged_fisherman_costume_sake_master",
@@ -76478,7 +76909,7 @@ window.allHeroes =
         "passives": [],
         "family": "lagoon",
         "costume_id": 1,
-        "originalIndex": 1100,
+        "originalIndex": 1101,
         "lb1": {
             "attack": 713,
             "defense": 737,
@@ -76542,7 +76973,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1101,
+        "originalIndex": 1102,
         "lb1": {
             "attack": 715,
             "defense": 655,
@@ -76604,7 +77035,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1102,
+        "originalIndex": 1103,
         "lb1": {
             "attack": 695,
             "defense": 729,
@@ -76643,7 +77074,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "望族之劍",
+        "skill": "望族之刃",
         "types": [
             "攻擊單個目標",
             "召喚者 (單體)",
@@ -76656,7 +77087,8 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2025-01-29",
-        "specialId": "scion_sword",
+        "specialId": "scion_sword_costume_white_raven",
+        "parent_specialId": "scion_sword",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "kingdom_unstoppable_minions"
@@ -76680,7 +77112,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1103,
+        "originalIndex": 1104,
         "lb1": {
             "attack": 766,
             "defense": 748,
@@ -76757,7 +77189,7 @@ window.allHeroes =
         ],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 1104,
+        "originalIndex": 1105,
         "lb1": {
             "attack": 1227,
             "defense": 1254,
@@ -76837,7 +77269,7 @@ window.allHeroes =
         ],
         "family": "titan_hunter",
         "costume_id": 0,
-        "originalIndex": 1105,
+        "originalIndex": 1106,
         "lb1": {
             "attack": 1414,
             "defense": 1398,
@@ -76919,7 +77351,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1106,
+        "originalIndex": 1107,
         "lb1": {
             "attack": 1436,
             "defense": 1436,
@@ -77005,7 +77437,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 1107,
+        "originalIndex": 1108,
         "lb1": {
             "attack": 1249,
             "defense": 1278,
@@ -77082,7 +77514,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1108,
+        "originalIndex": 1109,
         "lb1": {
             "attack": 919,
             "defense": 865,
@@ -77118,7 +77550,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "飛速",
-        "skill": "吸血鬼詛咒",
+        "skill": "劫血",
         "types": [
             "摧毀3個目標的小兵",
             "攻擊3個目標",
@@ -77133,7 +77565,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2024-09-23",
-        "specialId": "vampiric_curse",
+        "specialId": "vampiric_heist",
+        "parent_specialId": "vampiric_curse",
         "passiveSkills": [
             "halloween_steal_buff_or_deal_damage_new"
         ],
@@ -77156,7 +77589,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 1,
-        "originalIndex": 1109,
+        "originalIndex": 1110,
         "lb1": {
             "attack": 1495,
             "defense": 1165,
@@ -77225,7 +77658,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1110,
+        "originalIndex": 1111,
         "lb1": {
             "attack": 999,
             "defense": 954,
@@ -77300,7 +77733,7 @@ window.allHeroes =
         ],
         "family": "hotm2026",
         "costume_id": 0,
-        "originalIndex": 1111,
+        "originalIndex": 1112,
         "lb1": {
             "attack": 1329,
             "defense": 1363,
@@ -77371,7 +77804,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1112,
+        "originalIndex": 1113,
         "lb1": {
             "attack": 1325,
             "defense": 1287,
@@ -77436,7 +77869,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1113,
+        "originalIndex": 1114,
         "lb1": {
             "attack": 752,
             "defense": 854,
@@ -77497,7 +77930,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1114,
+        "originalIndex": 1115,
         "lb1": {
             "attack": 956,
             "defense": 925,
@@ -77571,7 +78004,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1115,
+        "originalIndex": 1116,
         "lb1": {
             "attack": 1249,
             "defense": 1189,
@@ -77639,7 +78072,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 1116,
+        "originalIndex": 1117,
         "lb1": {
             "attack": 710,
             "defense": 799,
@@ -77673,7 +78106,7 @@ window.allHeroes =
         "color": "紅",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "阿瑞斯之力",
+        "skill": "阿瑞斯緘印",
         "types": [
             "3個目標攻擊增益",
             "3個目標反擊",
@@ -77688,7 +78121,8 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-03-20",
-        "specialId": "might_of_ares",
+        "specialId": "seal_of_ares",
+        "parent_specialId": "might_of_ares",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_cleanse_newest"
@@ -77710,7 +78144,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 1117,
+        "originalIndex": 1118,
         "lb1": {
             "attack": 943,
             "defense": 965,
@@ -77797,7 +78231,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1118,
+        "originalIndex": 1119,
         "lb1": {
             "attack": 1367,
             "defense": 1367,
@@ -77879,7 +78313,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1119,
+        "originalIndex": 1120,
         "lb1": {
             "attack": 1221,
             "defense": 1152,
@@ -77950,7 +78384,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 1120,
+        "originalIndex": 1121,
         "lb1": {
             "attack": 845,
             "defense": 821,
@@ -78037,7 +78471,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1121,
+        "originalIndex": 1122,
         "lb1": {
             "attack": 1427,
             "defense": 1229,
@@ -78098,7 +78532,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1122,
+        "originalIndex": 1123,
         "lb1": {
             "attack": 854,
             "defense": 654,
@@ -78132,7 +78566,7 @@ window.allHeroes =
         "color": "紅",
         "class": "騎士",
         "speed": "慢速",
-        "skill": "火山噴發",
+        "skill": "火山燃燄",
         "types": [
             "攻擊3個目標",
             "3個目標持續傷害"
@@ -78144,7 +78578,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
-        "specialId": "volcanic_eruption",
+        "specialId": "volcanic_flareup",
+        "parent_specialId": "volcanic_eruption",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "lionman_barbarian_costume_armor",
@@ -78161,7 +78596,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1123,
+        "originalIndex": 1124,
         "lb1": {
             "attack": 953,
             "defense": 770,
@@ -78200,7 +78635,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "火山噴發",
+        "skill": "火山爆炸",
         "types": [
             "攻擊3個目標",
             "持續傷害"
@@ -78212,7 +78647,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-02-20",
-        "specialId": "volcanic_eruption",
+        "specialId": "volcanic_explosion",
+        "parent_specialId": "volcanic_eruption",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "lionman_barbarian_costume_babysitter",
@@ -78228,7 +78664,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1124,
+        "originalIndex": 1125,
         "lb1": {
             "attack": 1116,
             "defense": 873,
@@ -78267,7 +78703,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "慢速",
-        "skill": "火山噴發",
+        "skill": "爆炸公仔",
         "types": [
             "攻擊所有目標",
             "全體持續傷害"
@@ -78279,7 +78715,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-10-30",
-        "specialId": "volcanic_eruption",
+        "specialId": "volcanic_tantrum",
+        "parent_specialId": "volcanic_eruption",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -78300,7 +78737,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1125,
+        "originalIndex": 1126,
         "lb1": {
             "attack": 1273,
             "defense": 1138,
@@ -78339,7 +78776,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "慢速",
-        "skill": "火山噴發",
+        "skill": "玻璃火山",
         "types": [
             "攻擊所有目標",
             "全體持續傷害"
@@ -78351,7 +78788,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-12-25",
-        "specialId": "volcanic_eruption",
+        "specialId": "glass_volcano",
+        "parent_specialId": "volcanic_eruption",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -78372,7 +78810,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1126,
+        "originalIndex": 1127,
         "lb1": {
             "attack": 1441,
             "defense": 1282,
@@ -78411,7 +78849,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "慢速",
-        "skill": "火山噴發",
+        "skill": "有型噴發",
         "types": [
             "攻擊所有目標",
             "全體持續傷害"
@@ -78423,7 +78861,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2026-01-07",
-        "specialId": "volcanic_eruption",
+        "specialId": "stylish_eruption",
+        "parent_specialId": "volcanic_eruption",
         "passiveSkills": [
             "stylish"
         ],
@@ -78444,7 +78883,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1127,
+        "originalIndex": 1128,
         "lb1": {
             "attack": 1527,
             "defense": 1351,
@@ -78515,7 +78954,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 0,
-        "originalIndex": 1128,
+        "originalIndex": 1129,
         "lb1": {
             "attack": 870,
             "defense": 750,
@@ -78545,7 +78984,7 @@ window.allHeroes =
         "color": "紅",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "無敵鬥士",
+        "skill": "堅忍鬥士",
         "types": [
             "攻擊單個目標",
             "自我生命值加成",
@@ -78561,7 +79000,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-11-21",
-        "specialId": "unbreakable_brawler",
+        "specialId": "relentless_brawler",
+        "parent_specialId": "unbreakable_brawler",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_baldur_costume_fiery",
@@ -78579,7 +79019,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 1,
-        "originalIndex": 1129,
+        "originalIndex": 1130,
         "lb1": {
             "attack": 1065,
             "defense": 1000,
@@ -78646,7 +79086,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1130,
+        "originalIndex": 1131,
         "lb1": {
             "attack": 963,
             "defense": 879,
@@ -78723,7 +79163,7 @@ window.allHeroes =
         ],
         "family": "vegetable",
         "costume_id": 0,
-        "originalIndex": 1131,
+        "originalIndex": 1132,
         "lb1": {
             "attack": 1394,
             "defense": 1356,
@@ -78799,7 +79239,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1132,
+        "originalIndex": 1133,
         "lb1": {
             "attack": 1090,
             "defense": 1221,
@@ -78879,7 +79319,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1133,
+        "originalIndex": 1134,
         "lb1": {
             "attack": 1394,
             "defense": 1194,
@@ -78958,7 +79398,7 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1134,
+        "originalIndex": 1135,
         "lb1": {
             "attack": 1431,
             "defense": 1332,
@@ -79032,7 +79472,7 @@ window.allHeroes =
         ],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 1135,
+        "originalIndex": 1136,
         "lb1": {
             "attack": 1018,
             "defense": 1085,
@@ -79099,7 +79539,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 1136,
+        "originalIndex": 1137,
         "lb1": {
             "attack": 659,
             "defense": 912,
@@ -79129,7 +79569,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "中等",
-        "skill": "一點皮外傷",
+        "skill": "毫髮無傷",
         "types": [
             "全體傷害降至1",
             "嘲諷",
@@ -79142,7 +79582,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2022-06-16",
-        "specialId": "just_a_flesh_wound",
+        "specialId": "but_a_scratch",
+        "parent_specialId": "just_a_flesh_wound",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "knights_black_knight_costume_negative",
@@ -79159,7 +79600,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 1,
-        "originalIndex": 1137,
+        "originalIndex": 1138,
         "lb1": {
             "attack": 854,
             "defense": 1126,
@@ -79226,7 +79667,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1138,
+        "originalIndex": 1139,
         "lb1": {
             "attack": 954,
             "defense": 1081,
@@ -79296,7 +79737,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1139,
+        "originalIndex": 1140,
         "lb1": {
             "attack": 983,
             "defense": 907,
@@ -79372,7 +79813,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1140,
+        "originalIndex": 1141,
         "lb1": {
             "attack": 1012,
             "defense": 974,
@@ -79440,7 +79881,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 1141,
+        "originalIndex": 1142,
         "lb1": {
             "attack": 783,
             "defense": 757,
@@ -79502,7 +79943,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1142,
+        "originalIndex": 1143,
         "lb1": {
             "attack": 885,
             "defense": 810,
@@ -79535,7 +79976,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "快速",
-        "skill": "船長彎刀",
+        "skill": "機械師的彎刀",
         "types": [
             "攻擊單個目標"
         ],
@@ -79546,7 +79987,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-12-07",
-        "specialId": "captains_cutlass",
+        "specialId": "machinists_cutlass",
+        "parent_specialId": "captains_cutlass",
         "passiveSkills": [
             "start_battle_with_mana"
         ],
@@ -79569,7 +80011,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1143,
+        "originalIndex": 1144,
         "lb1": {
             "attack": 1165,
             "defense": 1059,
@@ -79637,7 +80079,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 1144,
+        "originalIndex": 1145,
         "lb1": {
             "attack": 950,
             "defense": 936,
@@ -79704,7 +80146,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1145,
+        "originalIndex": 1146,
         "lb1": {
             "attack": 976,
             "defense": 950,
@@ -79782,7 +80224,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1146,
+        "originalIndex": 1147,
         "lb1": {
             "attack": 1511,
             "defense": 1289,
@@ -79863,7 +80305,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1147,
+        "originalIndex": 1148,
         "lb1": {
             "attack": 1307,
             "defense": 1300,
@@ -79939,7 +80381,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 1148,
+        "originalIndex": 1149,
         "lb1": {
             "attack": 1243,
             "defense": 1087,
@@ -80016,7 +80458,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1149,
+        "originalIndex": 1150,
         "lb1": {
             "attack": 1194,
             "defense": 1218,
@@ -80085,7 +80527,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1150,
+        "originalIndex": 1151,
         "lb1": {
             "attack": 916,
             "defense": 930,
@@ -80158,7 +80600,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1151,
+        "originalIndex": 1152,
         "lb1": {
             "attack": 1247,
             "defense": 1400,
@@ -80231,7 +80673,7 @@ window.allHeroes =
         ],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1152,
+        "originalIndex": 1153,
         "lb1": {
             "attack": 1112,
             "defense": 1107,
@@ -80303,7 +80745,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1153,
+        "originalIndex": 1154,
         "lb1": {
             "attack": 919,
             "defense": 930,
@@ -80370,7 +80812,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1154,
+        "originalIndex": 1155,
         "lb1": {
             "attack": 987,
             "defense": 1043,
@@ -80437,7 +80879,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 1155,
+        "originalIndex": 1156,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -80503,7 +80945,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 1156,
+        "originalIndex": 1157,
         "lb1": {
             "attack": 934,
             "defense": 899,
@@ -80574,7 +81016,7 @@ window.allHeroes =
         ],
         "family": "stag",
         "costume_id": 0,
-        "originalIndex": 1157,
+        "originalIndex": 1158,
         "lb1": {
             "attack": 1187,
             "defense": 1056,
@@ -80659,7 +81101,7 @@ window.allHeroes =
         ],
         "family": "forsaken",
         "costume_id": 0,
-        "originalIndex": 1158,
+        "originalIndex": 1159,
         "lb1": {
             "attack": 1387,
             "defense": 1347,
@@ -80734,7 +81176,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1159,
+        "originalIndex": 1160,
         "lb1": {
             "attack": 1265,
             "defense": 1198,
@@ -80815,7 +81257,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1160,
+        "originalIndex": 1161,
         "lb1": {
             "attack": 1061,
             "defense": 1067,
@@ -80850,7 +81292,7 @@ window.allHeroes =
         "color": "紅",
         "class": "術士",
         "speed": "潮汐",
-        "skill": "超新星",
+        "skill": "深沉深淵",
         "types": [
             "攻擊3個目標",
             "3個目標持續傷害",
@@ -80865,7 +81307,8 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-12-14",
-        "specialId": "supernova",
+        "specialId": "sunken_abyss",
+        "parent_specialId": "supernova",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_stacking_mana_generation"
         ],
@@ -80895,7 +81338,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1161,
+        "originalIndex": 1162,
         "lb1": {
             "attack": 1327,
             "defense": 1395,
@@ -80967,7 +81410,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1162,
+        "originalIndex": 1163,
         "lb1": {
             "attack": 956,
             "defense": 892,
@@ -81002,7 +81445,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "雷射雙刀",
+        "skill": "資料雙刀",
         "types": [
             "攻擊單個目標",
             "攻擊全體自然系目標",
@@ -81018,7 +81461,8 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2025-09-04",
-        "specialId": "dual_laser_blades",
+        "specialId": "dual_data_blades",
+        "parent_specialId": "dual_laser_blades",
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
@@ -81043,7 +81487,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1163,
+        "originalIndex": 1164,
         "lb1": {
             "attack": 1336,
             "defense": 1255,
@@ -81125,7 +81569,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1164,
+        "originalIndex": 1165,
         "lb1": {
             "attack": 1312,
             "defense": 1336,
@@ -81209,7 +81653,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1165,
+        "originalIndex": 1166,
         "lb1": {
             "attack": 914,
             "defense": 923,
@@ -81276,7 +81720,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1166,
+        "originalIndex": 1167,
         "lb1": {
             "attack": 896,
             "defense": 841,
@@ -81342,7 +81786,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 1167,
+        "originalIndex": 1168,
         "lb1": {
             "attack": 1065,
             "defense": 1021,
@@ -81402,7 +81846,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1168,
+        "originalIndex": 1169,
         "lb1": {
             "attack": 872,
             "defense": 623,
@@ -81435,7 +81879,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "慢速",
-        "skill": "劍墻",
+        "skill": "刀鋒壁壘",
         "types": [
             "攻擊所有目標",
             "3個目標反擊"
@@ -81446,7 +81890,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
-        "specialId": "wall_of_swords",
+        "specialId": "sword_barricade",
+        "parent_specialId": "wall_of_swords",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_lord_costume_flame",
@@ -81462,7 +81907,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1169,
+        "originalIndex": 1170,
         "lb1": {
             "attack": 980,
             "defense": 682,
@@ -81495,7 +81940,7 @@ window.allHeroes =
         "color": "紅",
         "class": "騎士",
         "speed": "慢速",
-        "skill": "劍墻",
+        "skill": "恐懼之劍",
         "types": [
             "攻擊所有目標",
             "3個目標反擊"
@@ -81506,7 +81951,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-08-07",
-        "specialId": "wall_of_swords",
+        "specialId": "dreaded_swords",
+        "parent_specialId": "wall_of_swords",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_lord_costume_wicked",
@@ -81522,7 +81968,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1170,
+        "originalIndex": 1171,
         "lb1": {
             "attack": 996,
             "defense": 916,
@@ -81555,7 +82001,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "劍墻",
+        "skill": "公仔牆",
         "types": [
             "攻擊所有目標",
             "3個目標反擊"
@@ -81567,7 +82013,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-05-31",
-        "specialId": "wall_of_swords",
+        "specialId": "adorable_swords",
+        "parent_specialId": "wall_of_swords",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -81588,7 +82035,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1171,
+        "originalIndex": 1172,
         "lb1": {
             "attack": 1101,
             "defense": 1211,
@@ -81626,7 +82073,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "劍墻",
+        "skill": "玻璃牆",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -81639,7 +82086,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-07-16",
-        "specialId": "wall_of_swords",
+        "specialId": "glass_swords",
+        "parent_specialId": "wall_of_swords",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -81660,7 +82108,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1172,
+        "originalIndex": 1173,
         "lb1": {
             "attack": 1305,
             "defense": 1297,
@@ -81735,7 +82183,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1173,
+        "originalIndex": 1174,
         "lb1": {
             "attack": 1189,
             "defense": 1183,
@@ -81809,7 +82257,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1174,
+        "originalIndex": 1175,
         "lb1": {
             "attack": 828,
             "defense": 812,
@@ -81847,7 +82295,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "中等",
-        "skill": "寡婦之吻",
+        "skill": "新娘之吻",
         "types": [
             "攻擊所有目標",
             "召喚所有惡魔",
@@ -81863,7 +82311,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-04-27",
-        "specialId": "widows_kiss",
+        "specialId": "brides_kiss",
+        "parent_specialId": "widows_kiss",
         "passiveSkills": [
             "increase_buff_duration"
         ],
@@ -81888,7 +82337,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1175,
+        "originalIndex": 1176,
         "lb1": {
             "attack": 1096,
             "defense": 1064,
@@ -81960,7 +82409,7 @@ window.allHeroes =
         ],
         "family": "fleur_de_sang",
         "costume_id": 0,
-        "originalIndex": 1176,
+        "originalIndex": 1177,
         "lb1": {
             "attack": 1389,
             "defense": 1354,
@@ -82034,7 +82483,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1177,
+        "originalIndex": 1178,
         "lb1": {
             "attack": 1358,
             "defense": 1334,
@@ -82119,7 +82568,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1178,
+        "originalIndex": 1179,
         "lb1": {
             "attack": 1394,
             "defense": 1394,
@@ -82201,7 +82650,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1179,
+        "originalIndex": 1180,
         "lb1": {
             "attack": 810,
             "defense": 865,
@@ -82245,7 +82694,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "飛速",
-        "skill": "火焰回春",
+        "skill": "青蛙和圈圈",
         "types": [
             "賭博",
             "全體持續傷害",
@@ -82259,7 +82708,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2025-04-09",
-        "specialId": "flames_and_rejuvenation",
+        "specialId": "frogs_and_hoop",
+        "parent_specialId": "flames_and_rejuvenation",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "cleansed_ailments_to_enemy"
@@ -82285,7 +82735,7 @@ window.allHeroes =
         ],
         "family": "circus",
         "costume_id": 1,
-        "originalIndex": 1180,
+        "originalIndex": 1181,
         "lb1": {
             "attack": 1334,
             "defense": 1254,
@@ -82372,7 +82822,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1181,
+        "originalIndex": 1182,
         "lb1": {
             "attack": 896,
             "defense": 881,
@@ -82443,7 +82893,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1182,
+        "originalIndex": 1183,
         "lb1": {
             "attack": 1192,
             "defense": 1154,
@@ -82527,7 +82977,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1183,
+        "originalIndex": 1184,
         "lb1": {
             "attack": 1332,
             "defense": 1332,
@@ -82611,7 +83061,7 @@ window.allHeroes =
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 1184,
+        "originalIndex": 1185,
         "lb1": {
             "attack": 1351,
             "defense": 1303,
@@ -82691,7 +83141,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1185,
+        "originalIndex": 1186,
         "lb1": {
             "attack": 1294,
             "defense": 1252,
@@ -82765,7 +83215,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1186,
+        "originalIndex": 1187,
         "lb1": {
             "attack": 899,
             "defense": 934,
@@ -82803,7 +83253,7 @@ window.allHeroes =
         "color": "紅",
         "class": "牧師",
         "speed": "中等",
-        "skill": "前往救援！",
+        "skill": "甜甜圈來救援了！",
         "types": [
             "治療者",
             "全體無視防禦",
@@ -82816,7 +83266,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 海灘派對",
         "Release date": "2025-06-03",
-        "specialId": "to_the_rescue",
+        "specialId": "donut_to_the_rescue",
+        "parent_specialId": "to_the_rescue",
         "passiveSkills": [
             "resist_water",
             "underwater_on_special_beach"
@@ -82839,7 +83290,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 1,
-        "originalIndex": 1187,
+        "originalIndex": 1188,
         "lb1": {
             "attack": 1230,
             "defense": 1339,
@@ -82911,7 +83362,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1188,
+        "originalIndex": 1189,
         "lb1": {
             "attack": 1112,
             "defense": 1090,
@@ -82987,7 +83438,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1189,
+        "originalIndex": 1190,
         "lb1": {
             "attack": 1405,
             "defense": 1300,
@@ -83057,7 +83508,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1190,
+        "originalIndex": 1191,
         "lb1": {
             "attack": 788,
             "defense": 810,
@@ -83116,7 +83567,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 0,
-        "originalIndex": 1191,
+        "originalIndex": 1192,
         "lb1": {
             "attack": 832,
             "defense": 825,
@@ -83149,7 +83600,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "快速",
-        "skill": "少女之命",
+        "skill": "少女之令",
         "types": [
             "摧毀超級小兵/小兵",
             "攻擊3個目標"
@@ -83160,7 +83611,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-09-26",
-        "specialId": "maidens_command",
+        "specialId": "maidens_orders",
+        "parent_specialId": "maidens_command",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_gefjon_costume_wilderness",
@@ -83176,7 +83628,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 1,
-        "originalIndex": 1192,
+        "originalIndex": 1193,
         "lb1": {
             "attack": 1045,
             "defense": 1065,
@@ -83253,7 +83705,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1193,
+        "originalIndex": 1194,
         "lb1": {
             "attack": 967,
             "defense": 1023,
@@ -83292,7 +83744,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "潮汐",
-        "skill": "水底岩漿立方",
+        "skill": "沉沒岩漿立方",
         "types": [
             "攻擊 (3/5) 個目標",
             "防禦降低"
@@ -83304,7 +83756,8 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-06-20",
-        "specialId": "underwater_magma_cube",
+        "specialId": "sunken_magma_cube",
+        "parent_specialId": "underwater_magma_cube",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_stacking_mana_generation"
         ],
@@ -83340,7 +83793,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1194,
+        "originalIndex": 1195,
         "lb1": {
             "attack": 1309,
             "defense": 1253,
@@ -83417,7 +83870,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1195,
+        "originalIndex": 1196,
         "lb1": {
             "attack": 1227,
             "defense": 1292,
@@ -83487,7 +83940,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1196,
+        "originalIndex": 1197,
         "lb1": {
             "attack": 783,
             "defense": 763,
@@ -83526,7 +83979,7 @@ window.allHeroes =
         "color": "紅",
         "class": "騎士",
         "speed": "飛速",
-        "skill": "化為灰燼",
+        "skill": "塵歸塵",
         "types": [
             "攻擊所有目標",
             "全體持續傷害"
@@ -83540,7 +83993,8 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-10-20",
-        "specialId": "ashes_to_ashes",
+        "specialId": "dust_to_dust",
+        "parent_specialId": "ashes_to_ashes",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_dispel_newest"
@@ -83561,7 +84015,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1197,
+        "originalIndex": 1198,
         "lb1": {
             "attack": 994,
             "defense": 951,
@@ -83632,7 +84086,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1198,
+        "originalIndex": 1199,
         "lb1": {
             "attack": 677,
             "defense": 881,
@@ -83694,7 +84148,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1199,
+        "originalIndex": 1200,
         "lb1": {
             "attack": 848,
             "defense": 632,
@@ -83732,7 +84186,7 @@ window.allHeroes =
         "color": "紅",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "叢林領主",
+        "skill": "金剛粉碎",
         "types": [
             "攻擊所有目標",
             "全體元素反射",
@@ -83746,7 +84200,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2022-04-14",
-        "specialId": "lord_of_the_jungle",
+        "specialId": "kong_smash",
+        "parent_specialId": "lord_of_the_jungle",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "guardian_gorilla_chieftain_costume_conqueror",
@@ -83763,7 +84218,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 1,
-        "originalIndex": 1200,
+        "originalIndex": 1201,
         "lb1": {
             "attack": 1085,
             "defense": 801,
@@ -83834,7 +84289,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1201,
+        "originalIndex": 1202,
         "lb1": {
             "attack": 1061,
             "defense": 1198,
@@ -83906,7 +84361,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1202,
+        "originalIndex": 1203,
         "lb1": {
             "attack": 1107,
             "defense": 1134,
@@ -83977,7 +84432,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1203,
+        "originalIndex": 1204,
         "lb1": {
             "attack": 834,
             "defense": 856,
@@ -84010,7 +84465,7 @@ window.allHeroes =
         "color": "紅",
         "class": "牧師",
         "speed": "快速",
-        "skill": "慈母照護",
+        "skill": "慈母之愛",
         "types": [
             "持續治療",
             "狀態異常免疫"
@@ -84023,7 +84478,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-02-05",
-        "specialId": "motherly_care",
+        "specialId": "motherly_love",
+        "parent_specialId": "motherly_care",
         "passiveSkills": [
             "moon_extra_special_heal_and_add_mana"
         ],
@@ -84050,7 +84506,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1204,
+        "originalIndex": 1205,
         "lb1": {
             "attack": 1203,
             "defense": 1255,
@@ -84119,7 +84575,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1205,
+        "originalIndex": 1206,
         "lb1": {
             "attack": 868,
             "defense": 863,
@@ -84198,7 +84654,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1206,
+        "originalIndex": 1207,
         "lb1": {
             "attack": 1101,
             "defense": 1196,
@@ -84276,7 +84732,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1207,
+        "originalIndex": 1208,
         "lb1": {
             "attack": 912,
             "defense": 841,
@@ -84350,7 +84806,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1208,
+        "originalIndex": 1209,
         "lb1": {
             "attack": 1294,
             "defense": 1263,
@@ -84428,7 +84884,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1209,
+        "originalIndex": 1210,
         "lb1": {
             "attack": 956,
             "defense": 996,
@@ -84467,7 +84923,7 @@ window.allHeroes =
         "color": "紅",
         "class": "騎士",
         "speed": "快速",
-        "skill": "淨化之火",
+        "skill": "燒灼火焰",
         "types": [
             "全體治療",
             "火元素治療",
@@ -84482,7 +84938,8 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2025-05-24",
-        "specialId": "purifying_flame",
+        "specialId": "cauterizing_flame",
+        "parent_specialId": "purifying_flame",
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
@@ -84508,7 +84965,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1210,
+        "originalIndex": 1211,
         "lb1": {
             "attack": 1219,
             "defense": 1303,
@@ -84580,7 +85037,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1211,
+        "originalIndex": 1212,
         "lb1": {
             "attack": 930,
             "defense": 999,
@@ -84618,7 +85075,7 @@ window.allHeroes =
         "color": "紅",
         "class": "僧侶",
         "speed": "慢速",
-        "skill": "火中鍛造",
+        "skill": "黃金鍛造",
         "types": [
             "全體法力削減",
             "敵方傷害分擔",
@@ -84631,7 +85088,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2025-07-28",
-        "specialId": "forged_in_fire",
+        "specialId": "forged_from_gold",
+        "parent_specialId": "forged_in_fire",
         "passiveSkills": [
             "heal_mana_on_low_health_once"
         ],
@@ -84652,7 +85110,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 1212,
+        "originalIndex": 1213,
         "lb1": {
             "attack": 1240,
             "defense": 1347,
@@ -84726,7 +85184,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1213,
+        "originalIndex": 1214,
         "lb1": {
             "attack": 1260,
             "defense": 1163,
@@ -84799,7 +85257,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1214,
+        "originalIndex": 1215,
         "lb1": {
             "attack": 1276,
             "defense": 1205,
@@ -84862,7 +85320,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 1215,
+        "originalIndex": 1216,
         "lb1": {
             "attack": 816,
             "defense": 828,
@@ -84929,7 +85387,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1216,
+        "originalIndex": 1217,
         "lb1": {
             "attack": 794,
             "defense": 779,
@@ -85016,7 +85474,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1217,
+        "originalIndex": 1218,
         "lb1": {
             "attack": 1427,
             "defense": 1389,
@@ -85100,7 +85558,7 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1218,
+        "originalIndex": 1219,
         "lb1": {
             "attack": 1405,
             "defense": 1416,
@@ -85168,7 +85626,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1219,
+        "originalIndex": 1220,
         "lb1": {
             "attack": 765,
             "defense": 692,
@@ -85202,7 +85660,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "慢速",
-        "skill": "可汗指令",
+        "skill": "征服者之命",
         "types": [
             "攻擊單個目標",
             "全體法力生成增益",
@@ -85215,7 +85673,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "khans_order",
+        "specialId": "conquerors_command",
+        "parent_specialId": "khans_order",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tribal_chief_costume_conqueror",
@@ -85232,7 +85691,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1220,
+        "originalIndex": 1221,
         "lb1": {
             "attack": 883,
             "defense": 802,
@@ -85266,7 +85725,7 @@ window.allHeroes =
         "color": "紅",
         "class": "德魯伊",
         "speed": "慢速",
-        "skill": "可汗指令",
+        "skill": "酋長的復仇",
         "types": [
             "攻擊所有目標",
             "全體法力持續恢復",
@@ -85279,7 +85738,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-09-05",
-        "specialId": "khans_order",
+        "specialId": "chieftains_vengeance",
+        "parent_specialId": "khans_order",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tribal_chief_costume_leopard",
@@ -85296,7 +85756,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1221,
+        "originalIndex": 1222,
         "lb1": {
             "attack": 1002,
             "defense": 927,
@@ -85330,7 +85790,7 @@ window.allHeroes =
         "color": "紅",
         "class": "遊俠",
         "speed": "慢速",
-        "skill": "可汗指令",
+        "skill": "公仔之令",
         "types": [
             "攻擊3個目標",
             "3個目標法力生成增益",
@@ -85344,7 +85804,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-04-08",
-        "specialId": "khans_order",
+        "specialId": "toons_order",
+        "parent_specialId": "khans_order",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -85366,7 +85827,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1222,
+        "originalIndex": 1223,
         "lb1": {
             "attack": 1245,
             "defense": 1039,
@@ -85405,7 +85866,7 @@ window.allHeroes =
         "color": "紅",
         "class": "遊俠",
         "speed": "慢速",
-        "skill": "可汗指令",
+        "skill": "彩繪玻璃的命令",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -85420,7 +85881,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-06-18",
-        "specialId": "khans_order",
+        "specialId": "glass_order",
+        "parent_specialId": "khans_order",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -85442,7 +85904,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1223,
+        "originalIndex": 1224,
         "lb1": {
             "attack": 1414,
             "defense": 1165,
@@ -85516,7 +85978,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1224,
+        "originalIndex": 1225,
         "lb1": {
             "attack": 883,
             "defense": 863,
@@ -85550,7 +86012,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "慢速",
-        "skill": "不解之謎",
+        "skill": "水下謎語",
         "types": [
             "攻擊單個目標",
             "連鎖",
@@ -85562,7 +86024,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-11-01",
-        "specialId": "perplexing_riddle",
+        "specialId": "underwater_riddle",
+        "parent_specialId": "perplexing_riddle",
         "passiveSkills": [
             "sun_extra_special_damage_and_dot"
         ],
@@ -85590,7 +86053,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1225,
+        "originalIndex": 1226,
         "lb1": {
             "attack": 1326,
             "defense": 1220,
@@ -85655,7 +86118,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1226,
+        "originalIndex": 1227,
         "lb1": {
             "attack": 848,
             "defense": 836,
@@ -85688,7 +86151,7 @@ window.allHeroes =
         "color": "紅",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "必死無疑",
+        "skill": "美味滅亡",
         "types": [
             "全體阻止復活",
             "攻擊3個目標"
@@ -85699,7 +86162,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-09-26",
-        "specialId": "inevitable_demise",
+        "specialId": "delicious_demise",
+        "parent_specialId": "inevitable_demise",
         "passiveSkills": [
             "start_battle_with_mana"
         ],
@@ -85723,7 +86187,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1227,
+        "originalIndex": 1228,
         "lb1": {
             "attack": 1099,
             "defense": 1070,
@@ -85784,7 +86248,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 0,
-        "originalIndex": 1228,
+        "originalIndex": 1229,
         "lb1": {
             "attack": 805,
             "defense": 836,
@@ -85818,7 +86282,7 @@ window.allHeroes =
         "color": "紅",
         "class": "牧師",
         "speed": "中等",
-        "skill": "戲法師之惡意",
+        "skill": "戲法師的催眠曲",
         "types": [
             "移除狀態異常",
             "攻擊所有目標"
@@ -85830,7 +86294,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-10-23",
-        "specialId": "tricksters_malice",
+        "specialId": "tricksters_lullaby",
+        "parent_specialId": "tricksters_malice",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_loki_female_costume_mother",
@@ -85847,7 +86312,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 1,
-        "originalIndex": 1229,
+        "originalIndex": 1230,
         "lb1": {
             "attack": 946,
             "defense": 1179,
@@ -85924,7 +86389,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 1230,
+        "originalIndex": 1231,
         "lb1": {
             "attack": 1072,
             "defense": 916,
@@ -85957,7 +86422,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "潮汐",
-        "skill": "包抄機動",
+        "skill": "勇士調動",
         "types": [
             "攻擊單個目標",
             "召喚1個複製惡魔"
@@ -85969,7 +86434,8 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-09-21",
-        "specialId": "flanking_maneuver",
+        "specialId": "champion_maneuver",
+        "parent_specialId": "flanking_maneuver",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_critical"
         ],
@@ -86003,7 +86469,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 1231,
+        "originalIndex": 1232,
         "lb1": {
             "attack": 1344,
             "defense": 1241,
@@ -86063,7 +86529,7 @@ window.allHeroes =
         "passives": [],
         "family": "raven",
         "costume_id": 0,
-        "originalIndex": 1232,
+        "originalIndex": 1233,
         "lb1": {
             "attack": 856,
             "defense": 861,
@@ -86140,7 +86606,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1233,
+        "originalIndex": 1234,
         "lb1": {
             "attack": 1245,
             "defense": 1389,
@@ -86208,7 +86674,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1234,
+        "originalIndex": 1235,
         "lb1": {
             "attack": 1123,
             "defense": 1118,
@@ -86295,7 +86761,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1235,
+        "originalIndex": 1236,
         "lb1": {
             "attack": 1376,
             "defense": 1336,
@@ -86370,7 +86836,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1236,
+        "originalIndex": 1237,
         "lb1": {
             "attack": 1012,
             "defense": 999,
@@ -86458,7 +86924,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1237,
+        "originalIndex": 1238,
         "lb1": {
             "attack": 1411,
             "defense": 1192,
@@ -86532,7 +86998,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1238,
+        "originalIndex": 1239,
         "lb1": {
             "attack": 1192,
             "defense": 1252,
@@ -86591,7 +87057,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1239,
+        "originalIndex": 1240,
         "lb1": {
             "attack": 721,
             "defense": 768,
@@ -86625,7 +87091,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "快速",
-        "skill": "岩漿粉碎",
+        "skill": "熔岩爆發",
         "types": [
             "攻擊3個目標",
             "元素防禦降低",
@@ -86638,7 +87104,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "magma_smash",
+        "specialId": "lava_blast",
+        "parent_specialId": "magma_smash",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_captain_costume_pirate",
@@ -86655,7 +87122,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1240,
+        "originalIndex": 1241,
         "lb1": {
             "attack": 875,
             "defense": 817,
@@ -86689,7 +87156,7 @@ window.allHeroes =
         "color": "紅",
         "class": "遊俠",
         "speed": "快速",
-        "skill": "岩漿粉碎",
+        "skill": "火山爆裂",
         "types": [
             "攻擊3個目標",
             "防禦降低",
@@ -86702,7 +87169,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-06-12",
-        "specialId": "magma_smash",
+        "specialId": "volcanic_blast",
+        "parent_specialId": "magma_smash",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_captain_costume_thief",
@@ -86719,7 +87187,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1241,
+        "originalIndex": 1242,
         "lb1": {
             "attack": 999,
             "defense": 933,
@@ -86754,7 +87222,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "岩漿粉碎",
+        "skill": "公仔驚奇粉碎",
         "types": [
             "攻擊單個目標",
             "單體持續傷害"
@@ -86766,7 +87234,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-12-25",
-        "specialId": "magma_smash",
+        "specialId": "toontastic_smash",
+        "parent_specialId": "magma_smash",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -86787,7 +87256,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1242,
+        "originalIndex": 1243,
         "lb1": {
             "attack": 1166,
             "defense": 1173,
@@ -86826,7 +87295,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "岩漿粉碎",
+        "skill": "玻璃火焰粉碎",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -86839,7 +87308,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-02-11",
-        "specialId": "magma_smash",
+        "specialId": "glass_flame_smash",
+        "parent_specialId": "magma_smash",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -86860,7 +87330,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1243,
+        "originalIndex": 1244,
         "lb1": {
             "attack": 1414,
             "defense": 1247,
@@ -86929,7 +87399,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 1244,
+        "originalIndex": 1245,
         "lb1": {
             "attack": 750,
             "defense": 783,
@@ -86967,7 +87437,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "中等",
-        "skill": "火焰之鏡",
+        "skill": "火焰闊劍",
         "types": [
             "攻擊所有目標",
             "3個目標法力生成降低",
@@ -86981,7 +87451,8 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-03-06",
-        "specialId": "dark_mirror",
+        "specialId": "glaive_of_flames",
+        "parent_specialId": "dark_mirror",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_noble_lady_costume_warrior",
@@ -86998,7 +87469,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 1245,
+        "originalIndex": 1246,
         "lb1": {
             "attack": 965,
             "defense": 932,
@@ -87079,7 +87550,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1246,
+        "originalIndex": 1247,
         "lb1": {
             "attack": 836,
             "defense": 843,
@@ -87121,7 +87592,7 @@ window.allHeroes =
         "color": "紅",
         "class": "僧侶",
         "speed": "魔法",
-        "skill": "龍寵烈焰",
+        "skill": "龍寵包裹",
         "types": [
             "蓄力",
             "全體持續傷害",
@@ -87141,7 +87612,8 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2025-07-05",
-        "specialId": "flame_of_the_dragon_familiar",
+        "specialId": "parcel_of_the_dragon_familiar",
+        "parent_specialId": "flame_of_the_dragon_familiar",
         "passiveSkills": [
             "magic_heal_on_full_charge_costume"
         ],
@@ -87170,7 +87642,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1247,
+        "originalIndex": 1248,
         "lb1": {
             "attack": 1341,
             "defense": 1310,
@@ -87260,7 +87732,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1248,
+        "originalIndex": 1249,
         "lb1": {
             "attack": 1316,
             "defense": 1318,
@@ -87334,7 +87806,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1249,
+        "originalIndex": 1250,
         "lb1": {
             "attack": 774,
             "defense": 732,
@@ -87373,7 +87845,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "快速",
-        "skill": "燃燒鏈鎖",
+        "skill": "燃燒線",
         "types": [
             "單體持續傷害",
             "法力生成降低"
@@ -87387,7 +87859,8 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-05-15",
-        "specialId": "burning_chains",
+        "specialId": "burning_thread",
+        "parent_specialId": "burning_chains",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_dispel_newest"
@@ -87409,7 +87882,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1250,
+        "originalIndex": 1251,
         "lb1": {
             "attack": 1008,
             "defense": 917,
@@ -87487,7 +87960,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1251,
+        "originalIndex": 1252,
         "lb1": {
             "attack": 888,
             "defense": 976,
@@ -87559,7 +88032,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1252,
+        "originalIndex": 1253,
         "lb1": {
             "attack": 1325,
             "defense": 1267,
@@ -87629,7 +88102,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1253,
+        "originalIndex": 1254,
         "lb1": {
             "attack": 1043,
             "defense": 1116,
@@ -87707,7 +88180,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1254,
+        "originalIndex": 1255,
         "lb1": {
             "attack": 1345,
             "defense": 1149,
@@ -87781,7 +88254,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1255,
+        "originalIndex": 1256,
         "lb1": {
             "attack": 759,
             "defense": 843,
@@ -87851,7 +88324,7 @@ window.allHeroes =
         ],
         "family": "champions",
         "costume_id": 0,
-        "originalIndex": 1256,
+        "originalIndex": 1257,
         "lb1": {
             "attack": 1092,
             "defense": 1070,
@@ -87914,7 +88387,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 1257,
+        "originalIndex": 1258,
         "lb1": {
             "attack": 952,
             "defense": 792,
@@ -87948,7 +88421,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "中等",
-        "skill": "巨獸之力",
+        "skill": "火山之力",
         "types": [
             "攻擊所有目標",
             "全體攻擊增益",
@@ -87961,7 +88434,8 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2025-10-25",
-        "specialId": "strength_of_the_benemoth",
+        "specialId": "strength_of_the_volcano",
+        "parent_specialId": "strength_of_the_benemoth",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_oceanus_costume_volcano",
@@ -87978,7 +88452,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 1258,
+        "originalIndex": 1259,
         "lb1": {
             "attack": 1204,
             "defense": 982,
@@ -88044,7 +88518,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1259,
+        "originalIndex": 1260,
         "lb1": {
             "attack": 821,
             "defense": 859,
@@ -88082,7 +88556,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "中空之刃",
+        "skill": "海之花束",
         "types": [
             "攻擊所有目標",
             "全體攻擊降低"
@@ -88095,7 +88569,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-08-17",
-        "specialId": "hallowed_blade",
+        "specialId": "bouquet_of_the_seas",
+        "parent_specialId": "hallowed_blade",
         "passiveSkills": [
             "increase_buff_duration"
         ],
@@ -88119,7 +88594,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1260,
+        "originalIndex": 1261,
         "lb1": {
             "attack": 1142,
             "defense": 1119,
@@ -88194,7 +88669,7 @@ window.allHeroes =
         ],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1261,
+        "originalIndex": 1262,
         "lb1": {
             "attack": 1267,
             "defense": 1196,
@@ -88269,7 +88744,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 1262,
+        "originalIndex": 1263,
         "lb1": {
             "attack": 927,
             "defense": 936,
@@ -88336,7 +88811,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1263,
+        "originalIndex": 1264,
         "lb1": {
             "attack": 1256,
             "defense": 1185,
@@ -88406,7 +88881,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1264,
+        "originalIndex": 1265,
         "lb1": {
             "attack": 1132,
             "defense": 1027,
@@ -88485,7 +88960,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1265,
+        "originalIndex": 1266,
         "lb1": {
             "attack": 883,
             "defense": 916,
@@ -88565,7 +89040,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1266,
+        "originalIndex": 1267,
         "lb1": {
             "attack": 1343,
             "defense": 1334,
@@ -88634,7 +89109,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1267,
+        "originalIndex": 1268,
         "lb1": {
             "attack": 823,
             "defense": 783,
@@ -88672,7 +89147,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "中等",
-        "skill": "三隻盲鼠",
+        "skill": "三隻賊鼠",
         "types": [
             "召喚者",
             "全體持續治療",
@@ -88686,7 +89161,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-08-10",
-        "specialId": "three_blind_mice",
+        "specialId": "three_bandit_mice",
+        "parent_specialId": "three_blind_mice",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "fables_puss_in_boots_costume_highwaycat",
@@ -88704,7 +89180,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 1,
-        "originalIndex": 1268,
+        "originalIndex": 1269,
         "lb1": {
             "attack": 1150,
             "defense": 846,
@@ -88773,7 +89249,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1269,
+        "originalIndex": 1270,
         "lb1": {
             "attack": 688,
             "defense": 785,
@@ -88812,7 +89288,7 @@ window.allHeroes =
         "color": "紅",
         "class": "牧師",
         "speed": "中等",
-        "skill": "撲克皇后",
+        "skill": "愛意女王",
         "types": [
             "攻擊3個目標",
             "召喚者 (單體)",
@@ -88826,7 +89302,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-10-05",
-        "specialId": "queen_of_cards",
+        "specialId": "loving_queen",
+        "parent_specialId": "queen_of_cards",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "possession_on_special"
@@ -88848,7 +89325,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 1270,
+        "originalIndex": 1271,
         "lb1": {
             "attack": 806,
             "defense": 1057,
@@ -88935,7 +89412,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1271,
+        "originalIndex": 1272,
         "lb1": {
             "attack": 1423,
             "defense": 1272,
@@ -89008,7 +89485,7 @@ window.allHeroes =
         ],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1272,
+        "originalIndex": 1273,
         "lb1": {
             "attack": 1298,
             "defense": 1216,
@@ -89095,7 +89572,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1273,
+        "originalIndex": 1274,
         "lb1": {
             "attack": 934,
             "defense": 979,
@@ -89136,7 +89613,7 @@ window.allHeroes =
         "color": "紅",
         "class": "德魯伊",
         "speed": "魔法",
-        "skill": "熾焰灌籃",
+        "skill": "帶刺灌籃",
         "types": [
             "蓄力",
             "全體持續傷害",
@@ -89161,7 +89638,8 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2025-07-23",
-        "specialId": "blazing_slam_dunk",
+        "specialId": "thorned_slam_dunk",
+        "parent_specialId": "blazing_slam_dunk",
         "passiveSkills": [
             "magic_mana_regen_stack_on_special_costume",
             "magic_add_mana_on_full_charge_costume"
@@ -89193,7 +89671,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1274,
+        "originalIndex": 1275,
         "lb1": {
             "attack": 1346,
             "defense": 1393,
@@ -89269,7 +89747,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1275,
+        "originalIndex": 1276,
         "lb1": {
             "attack": 785,
             "defense": 763,
@@ -89351,7 +89829,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 1276,
+        "originalIndex": 1277,
         "lb1": {
             "attack": 1276,
             "defense": 1229,
@@ -89395,7 +89873,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "絕妙之計",
+        "skill": "受詛咒的計畫",
         "types": [
             "驅散3個目標",
             "攻擊3個目標",
@@ -89413,7 +89891,8 @@ window.allHeroes =
         ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-10-15",
-        "specialId": "master_plan",
+        "specialId": "cursed_plan",
+        "parent_specialId": "master_plan",
         "passiveSkills": [
             "molten_core_costume",
             "resist_burn_with_health_and_mana_boost_costume"
@@ -89439,7 +89918,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 1,
-        "originalIndex": 1277,
+        "originalIndex": 1278,
         "lb1": {
             "attack": 1377,
             "defense": 1306,
@@ -89515,7 +89994,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1278,
+        "originalIndex": 1279,
         "lb1": {
             "attack": 825,
             "defense": 794,
@@ -89585,7 +90064,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1279,
+        "originalIndex": 1280,
         "lb1": {
             "attack": 1212,
             "defense": 1214,
@@ -89658,7 +90137,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1280,
+        "originalIndex": 1281,
         "lb1": {
             "attack": 1156,
             "defense": 1103,
@@ -89728,7 +90207,7 @@ window.allHeroes =
         "passives": [],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 1281,
+        "originalIndex": 1282,
         "lb1": {
             "attack": 1329,
             "defense": 1249,
@@ -89812,7 +90291,7 @@ window.allHeroes =
         ],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 1282,
+        "originalIndex": 1283,
         "lb1": {
             "attack": 1389,
             "defense": 1394,
@@ -89889,7 +90368,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1283,
+        "originalIndex": 1284,
         "lb1": {
             "attack": 872,
             "defense": 772,
@@ -89970,7 +90449,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1284,
+        "originalIndex": 1285,
         "lb1": {
             "attack": 1174,
             "defense": 1201,
@@ -90053,7 +90532,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1285,
+        "originalIndex": 1286,
         "lb1": {
             "attack": 883,
             "defense": 788,
@@ -90127,7 +90606,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1286,
+        "originalIndex": 1287,
         "lb1": {
             "attack": 856,
             "defense": 796,
@@ -90202,7 +90681,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1287,
+        "originalIndex": 1288,
         "lb1": {
             "attack": 1203,
             "defense": 1229,
@@ -90285,7 +90764,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1288,
+        "originalIndex": 1289,
         "lb1": {
             "attack": 1349,
             "defense": 1232,
@@ -90360,7 +90839,7 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1289,
+        "originalIndex": 1290,
         "lb1": {
             "attack": 1371,
             "defense": 1425,
@@ -90435,7 +90914,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1290,
+        "originalIndex": 1291,
         "lb1": {
             "attack": 666,
             "defense": 894,
@@ -90474,7 +90953,7 @@ window.allHeroes =
         "color": "紅",
         "class": "術士",
         "speed": "慢速",
-        "skill": "終極禮袋",
+        "skill": "石之贈禮",
         "types": [
             "攻擊所有目標",
             "召喚所有",
@@ -90489,7 +90968,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2021-12-01",
-        "specialId": "ultimate_giftsack",
+        "specialId": "gift_of_rock",
+        "parent_specialId": "ultimate_giftsack",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "frost_on_minion_damage_done"
@@ -90511,7 +90991,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 1,
-        "originalIndex": 1291,
+        "originalIndex": 1292,
         "lb1": {
             "attack": 942,
             "defense": 1210,
@@ -90588,7 +91068,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 1292,
+        "originalIndex": 1293,
         "lb1": {
             "attack": 794,
             "defense": 872,
@@ -90627,7 +91107,7 @@ window.allHeroes =
         "color": "紅",
         "class": "騎士",
         "speed": "殺手",
-        "skill": "斷裂連斬",
+        "skill": "壓裂切割",
         "types": [
             "攻擊3個目標",
             "3個目標防禦降低",
@@ -90645,7 +91125,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2024-11-14",
-        "specialId": "fracturing_slash",
+        "specialId": "fracturing_cut",
+        "parent_specialId": "fracturing_slash",
         "passiveSkills": [
             "resist_status_effect_damage"
         ],
@@ -90670,7 +91151,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 1,
-        "originalIndex": 1293,
+        "originalIndex": 1294,
         "lb1": {
             "attack": 1108,
             "defense": 1484,
@@ -90750,7 +91231,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1294,
+        "originalIndex": 1295,
         "lb1": {
             "attack": 1127,
             "defense": 1083,
@@ -90824,7 +91305,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1295,
+        "originalIndex": 1296,
         "lb1": {
             "attack": 1369,
             "defense": 1323,
@@ -90898,7 +91379,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1296,
+        "originalIndex": 1297,
         "lb1": {
             "attack": 959,
             "defense": 843,
@@ -90927,7 +91408,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "快速",
-        "skill": "獅子猛撲",
+        "skill": "母獅猛撲",
         "types": [
             "攻擊單個目標",
             "全體傷害治療"
@@ -90938,7 +91419,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2025-03-17",
-        "specialId": "pounce_of_the_lioness",
+        "specialId": "flame_of_the_lioness",
+        "parent_specialId": "pounce_of_the_lioness",
         "passiveSkills": [
             "sun_extra_special_damage_and_attack_debuff"
         ],
@@ -90965,7 +91447,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1297,
+        "originalIndex": 1298,
         "lb1": {
             "attack": 1432,
             "defense": 1191,
@@ -91034,7 +91516,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1298,
+        "originalIndex": 1299,
         "lb1": {
             "attack": 987,
             "defense": 850,
@@ -91111,7 +91593,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1299,
+        "originalIndex": 1300,
         "lb1": {
             "attack": 1409,
             "defense": 1407,
@@ -91187,7 +91669,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1300,
+        "originalIndex": 1301,
         "lb1": {
             "attack": 825,
             "defense": 852,
@@ -91263,7 +91745,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1301,
+        "originalIndex": 1302,
         "lb1": {
             "attack": 1143,
             "defense": 1078,
@@ -91334,7 +91816,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1302,
+        "originalIndex": 1303,
         "lb1": {
             "attack": 852,
             "defense": 859,
@@ -91373,7 +91855,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "全軍出擊",
+        "skill": "進攻指令",
         "types": [
             "攻擊3個目標",
             "召喚者",
@@ -91386,7 +91868,8 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2024-11-30",
-        "specialId": "command_to_advance",
+        "specialId": "command_to_advance_costume_fire_bat",
+        "parent_specialId": "command_to_advance",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "kingdom_unstoppable_minions"
@@ -91410,7 +91893,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1303,
+        "originalIndex": 1304,
         "lb1": {
             "attack": 1213,
             "defense": 1099,
@@ -91486,7 +91969,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1304,
+        "originalIndex": 1305,
         "lb1": {
             "attack": 856,
             "defense": 799,
@@ -91560,7 +92043,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1305,
+        "originalIndex": 1306,
         "lb1": {
             "attack": 894,
             "defense": 870,
@@ -91598,7 +92081,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "快速",
-        "skill": "遠古之咒",
+        "skill": "古代火焰",
         "types": [
             "攻擊3個目標",
             "單體防禦降低"
@@ -91610,7 +92093,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-05-27",
-        "specialId": "ancient_spell",
+        "specialId": "ancient_flames",
+        "parent_specialId": "ancient_spell",
         "passiveSkills": [
             "moon_extra_special_damage_and_dispel_latest_buff"
         ],
@@ -91638,7 +92122,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1306,
+        "originalIndex": 1307,
         "lb1": {
             "attack": 1351,
             "defense": 1213,
@@ -91704,7 +92188,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1307,
+        "originalIndex": 1308,
         "lb1": {
             "attack": 1054,
             "defense": 1067,
@@ -91776,7 +92260,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1308,
+        "originalIndex": 1309,
         "lb1": {
             "attack": 1114,
             "defense": 1018,
@@ -91845,7 +92329,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 0,
-        "originalIndex": 1309,
+        "originalIndex": 1310,
         "lb1": {
             "attack": 832,
             "defense": 814,
@@ -91885,7 +92369,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "快速",
-        "skill": "金剛利爪",
+        "skill": "強悍利爪",
         "types": [
             "攻擊3個目標",
             "無視防禦",
@@ -91901,7 +92385,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-02-13",
-        "specialId": "adamantite_claw",
+        "specialId": "indestructible_claw",
+        "parent_specialId": "adamantite_claw",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_tyr_costume_savage",
@@ -91919,7 +92404,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 1,
-        "originalIndex": 1310,
+        "originalIndex": 1311,
         "lb1": {
             "attack": 1065,
             "defense": 1042,
@@ -92000,7 +92485,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1311,
+        "originalIndex": 1312,
         "lb1": {
             "attack": 912,
             "defense": 1007,
@@ -92039,7 +92524,7 @@ window.allHeroes =
         "color": "紅",
         "class": "術士",
         "speed": "中等",
-        "skill": "失真合音",
+        "skill": "煉獄和弦",
         "types": [
             "攻擊所有目標",
             "攻擊降低",
@@ -92054,7 +92539,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2024-07-22",
-        "specialId": "chords_of_distortion",
+        "specialId": "chords_of_inferno",
+        "parent_specialId": "chords_of_distortion",
         "passiveSkills": [
             "heal_mana_on_low_health_once"
         ],
@@ -92076,7 +92562,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 1312,
+        "originalIndex": 1313,
         "lb1": {
             "attack": 1249,
             "defense": 1323,
@@ -92149,7 +92635,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1313,
+        "originalIndex": 1314,
         "lb1": {
             "attack": 834,
             "defense": 792,
@@ -92187,7 +92673,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "飛速",
-        "skill": "悲傷之暮",
+        "skill": "毁灭之暮",
         "types": [
             "攻擊所有目標",
             "治療偷取",
@@ -92201,7 +92687,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2021-10-04",
-        "specialId": "twilight_of_sorrow",
+        "specialId": "twilight_of_ruin",
+        "parent_specialId": "twilight_of_sorrow",
         "passiveSkills": [
             "halloween_steal_buff_or_deal_damage_new"
         ],
@@ -92222,7 +92709,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 1,
-        "originalIndex": 1314,
+        "originalIndex": 1315,
         "lb1": {
             "attack": 1242,
             "defense": 1198,
@@ -92296,7 +92783,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1315,
+        "originalIndex": 1316,
         "lb1": {
             "attack": 1214,
             "defense": 1192,
@@ -92372,7 +92859,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1316,
+        "originalIndex": 1317,
         "lb1": {
             "attack": 1411,
             "defense": 1354,
@@ -92451,7 +92938,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1317,
+        "originalIndex": 1318,
         "lb1": {
             "attack": 899,
             "defense": 865,
@@ -92491,7 +92978,7 @@ window.allHeroes =
         "color": "紅",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "地獄烈火",
+        "skill": "地獄火焰",
         "types": [
             "攻擊所有目標",
             "全體持續傷害",
@@ -92506,7 +92993,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-05-23",
-        "specialId": "xenda_special",
+        "specialId": "xenda_special_costume",
+        "parent_specialId": "xenda_special",
         "passiveSkills": [
             "special_damage_reduction"
         ],
@@ -92530,7 +93018,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1318,
+        "originalIndex": 1319,
         "lb1": {
             "attack": 1157,
             "defense": 1139,
@@ -92601,7 +93089,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1319,
+        "originalIndex": 1320,
         "lb1": {
             "attack": 921,
             "defense": 883,
@@ -92669,7 +93157,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1320,
+        "originalIndex": 1321,
         "lb1": {
             "attack": 1058,
             "defense": 1032,
@@ -92737,7 +93225,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1321,
+        "originalIndex": 1322,
         "lb1": {
             "attack": 801,
             "defense": 821,
@@ -92809,7 +93297,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1322,
+        "originalIndex": 1323,
         "lb1": {
             "attack": 1338,
             "defense": 1183,
@@ -92885,7 +93373,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1323,
+        "originalIndex": 1324,
         "lb1": {
             "attack": 836,
             "defense": 814,
@@ -92960,7 +93448,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1324,
+        "originalIndex": 1325,
         "lb1": {
             "attack": 1152,
             "defense": 934,
@@ -93034,7 +93522,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1325,
+        "originalIndex": 1326,
         "lb1": {
             "attack": 1076,
             "defense": 1018,
@@ -93101,7 +93589,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1326,
+        "originalIndex": 1327,
         "lb1": {
             "attack": 888,
             "defense": 814,
@@ -93134,7 +93622,7 @@ window.allHeroes =
         "color": "紅",
         "class": "術士",
         "speed": "中等",
-        "skill": "二連刺",
+        "skill": "花之刺擊",
         "types": [
             "攻擊2個目標",
             "改變棋盤"
@@ -93150,7 +93638,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-02-29",
-        "specialId": "dual_sting",
+        "specialId": "floral_sting",
+        "parent_specialId": "dual_sting",
         "passiveSkills": [
             "increase_buff_duration"
         ],
@@ -93173,7 +93662,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1327,
+        "originalIndex": 1328,
         "lb1": {
             "attack": 1171,
             "defense": 1038,
@@ -93241,7 +93730,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1328,
+        "originalIndex": 1329,
         "lb1": {
             "attack": 1389,
             "defense": 1351,
@@ -93319,7 +93808,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1329,
+        "originalIndex": 1330,
         "lb1": {
             "attack": 1223,
             "defense": 1047,
@@ -93392,7 +93881,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1330,
+        "originalIndex": 1331,
         "lb1": {
             "attack": 770,
             "defense": 734,
@@ -93430,7 +93919,7 @@ window.allHeroes =
         "color": "紅",
         "class": "騎士",
         "speed": "快速",
-        "skill": "黎明打擊",
+        "skill": "早晨抓捕",
         "types": [
             "驅散者",
             "攻擊所有目標"
@@ -93443,7 +93932,8 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-03-20",
-        "specialId": "dawn_strike",
+        "specialId": "morning_catch",
+        "parent_specialId": "dawn_strike",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_dispel_newest"
@@ -93465,7 +93955,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1331,
+        "originalIndex": 1332,
         "lb1": {
             "attack": 980,
             "defense": 945,
@@ -93526,7 +94016,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1332,
+        "originalIndex": 1333,
         "lb1": {
             "attack": 222,
             "defense": 189,
@@ -93571,7 +94061,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1333,
+        "originalIndex": 1334,
         "lb1": {
             "attack": 205,
             "defense": 188,
@@ -93616,7 +94106,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1334,
+        "originalIndex": 1335,
         "lb1": {
             "attack": 366,
             "defense": 341,
@@ -93664,7 +94154,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1335,
+        "originalIndex": 1336,
         "lb1": {
             "attack": 331,
             "defense": 343,
@@ -93709,7 +94199,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1336,
+        "originalIndex": 1337,
         "lb1": {
             "attack": 275,
             "defense": 345,
@@ -93756,7 +94246,7 @@ window.allHeroes =
         "passives": [],
         "family": "asgard",
         "costume_id": 0,
-        "originalIndex": 1337,
+        "originalIndex": 1338,
         "lb1": {
             "attack": 630,
             "defense": 551,
@@ -93821,7 +94311,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1338,
+        "originalIndex": 1339,
         "lb1": {
             "attack": 541,
             "defense": 474,
@@ -93883,7 +94373,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1339,
+        "originalIndex": 1340,
         "lb1": {
             "attack": 531,
             "defense": 464,
@@ -93916,7 +94406,7 @@ window.allHeroes =
         "color": "黃",
         "class": "遊俠",
         "speed": "快速",
-        "skill": "諧波震顫",
+        "skill": "諧波猛擊",
         "types": [
             "攻擊單個目標",
             "單體致盲"
@@ -93927,7 +94417,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
-        "specialId": "harmonic_slam",
+        "specialId": "harmonic_bash",
+        "parent_specialId": "harmonic_slam",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_brawler_costume_egypt",
@@ -93943,7 +94434,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1340,
+        "originalIndex": 1341,
         "lb1": {
             "attack": 611,
             "defense": 489,
@@ -93976,7 +94467,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "快速",
-        "skill": "諧波震顫",
+        "skill": "公仔重擊",
         "types": [
             "攻擊單個目標",
             "單體致盲"
@@ -93988,7 +94479,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-03-11",
-        "specialId": "harmonic_slam",
+        "specialId": "toon_slam",
+        "parent_specialId": "harmonic_slam",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -94009,7 +94501,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1341,
+        "originalIndex": 1342,
         "lb1": {
             "attack": 623,
             "defense": 514,
@@ -94047,7 +94539,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "快速",
-        "skill": "諧波震顫",
+        "skill": "玻璃猛撞",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -94060,7 +94552,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-05-10",
-        "specialId": "harmonic_slam",
+        "specialId": "glass_slam",
+        "parent_specialId": "harmonic_slam",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -94081,7 +94574,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1342,
+        "originalIndex": 1343,
         "lb1": {
             "attack": 643,
             "defense": 523,
@@ -94142,7 +94635,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1343,
+        "originalIndex": 1344,
         "lb1": {
             "attack": 557,
             "defense": 522,
@@ -94196,7 +94689,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1344,
+        "originalIndex": 1345,
         "lb1": {
             "attack": 527,
             "defense": 553,
@@ -94261,7 +94754,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1345,
+        "originalIndex": 1346,
         "lb1": {
             "attack": 606,
             "defense": 541,
@@ -94327,7 +94820,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1346,
+        "originalIndex": 1347,
         "lb1": {
             "attack": 551,
             "defense": 529,
@@ -94385,7 +94878,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1347,
+        "originalIndex": 1348,
         "lb1": {
             "attack": 553,
             "defense": 443,
@@ -94413,7 +94906,7 @@ window.allHeroes =
         "color": "黃",
         "class": "野人",
         "speed": "中等",
-        "skill": "跳躍攻擊",
+        "skill": "重擊攻擊",
         "types": [
             "攻擊單個目標",
             "隨機攻擊1個目標"
@@ -94424,7 +94917,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "leaping_attack",
+        "specialId": "pounding_attack",
+        "parent_specialId": "leaping_attack",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_guard_costume_soldier",
@@ -94440,7 +94934,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1348,
+        "originalIndex": 1349,
         "lb1": {
             "attack": 609,
             "defense": 489,
@@ -94474,7 +94968,7 @@ window.allHeroes =
         "color": "黃",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "跳躍攻擊",
+        "skill": "公仔攻擊",
         "types": [
             "攻擊3個目標"
         ],
@@ -94484,7 +94978,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-08-11",
-        "specialId": "leaping_attack",
+        "specialId": "toon_attack",
+        "parent_specialId": "leaping_attack",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -94504,7 +94999,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1349,
+        "originalIndex": 1350,
         "lb1": {
             "attack": 609,
             "defense": 582,
@@ -94537,7 +95032,7 @@ window.allHeroes =
         "color": "黃",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "跳躍攻擊",
+        "skill": "玻璃攻擊",
         "types": [
             "攻擊3個目標",
             "無視防禦"
@@ -94548,7 +95043,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-10-09",
-        "specialId": "leaping_attack",
+        "specialId": "glass_leaping_attack_dawa",
+        "parent_specialId": "leaping_attack",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -94568,7 +95064,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1350,
+        "originalIndex": 1351,
         "lb1": {
             "attack": 636,
             "defense": 590,
@@ -94637,7 +95133,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1351,
+        "originalIndex": 1352,
         "lb1": {
             "attack": 594,
             "defense": 555,
@@ -94705,7 +95201,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1352,
+        "originalIndex": 1353,
         "lb1": {
             "attack": 494,
             "defense": 577,
@@ -94778,7 +95274,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 1353,
+        "originalIndex": 1354,
         "lb1": {
             "attack": 608,
             "defense": 579,
@@ -94817,7 +95313,7 @@ window.allHeroes =
         "color": "黃",
         "class": "野人",
         "speed": "快速",
-        "skill": "無悔戳擊",
+        "skill": "劍客刺擊",
         "types": [
             "攻擊單個目標",
             "全體增益反射",
@@ -94832,7 +95328,8 @@ window.allHeroes =
         ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2025-11-12",
-        "specialId": "covert_stab",
+        "specialId": "swashbuckling_stab",
+        "parent_specialId": "covert_stab",
         "passiveSkills": [
             "damage_all_enemies_on_cover_or_special_damage_received_costume",
             "resist_defense_modifier_debuffs"
@@ -94856,7 +95353,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 1,
-        "originalIndex": 1354,
+        "originalIndex": 1355,
         "lb1": {
             "attack": 709,
             "defense": 663,
@@ -94921,7 +95418,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1355,
+        "originalIndex": 1356,
         "lb1": {
             "attack": 529,
             "defense": 411,
@@ -94954,7 +95451,7 @@ window.allHeroes =
         "color": "黃",
         "class": "野人",
         "speed": "快速",
-        "skill": "神秘砍擊",
+        "skill": "鄉村砍擊",
         "types": [
             "攻擊單個目標",
             "單體法力削減"
@@ -94965,7 +95462,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "mystic_chop",
+        "specialId": "rural_chop",
+        "parent_specialId": "mystic_chop",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_panda_berserker_costume_farmer",
@@ -94981,7 +95479,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1356,
+        "originalIndex": 1357,
         "lb1": {
             "attack": 600,
             "defense": 430,
@@ -95014,7 +95512,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "快速",
-        "skill": "神秘砍擊",
+        "skill": "公仔砍擊",
         "types": [
             "攻擊單個目標",
             "單體法力削減"
@@ -95026,7 +95524,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-12-25",
-        "specialId": "mystic_chop",
+        "specialId": "toon_chop",
+        "parent_specialId": "mystic_chop",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -95047,7 +95546,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1357,
+        "originalIndex": 1358,
         "lb1": {
             "attack": 611,
             "defense": 478,
@@ -95081,7 +95580,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "快速",
-        "skill": "神秘砍擊",
+        "skill": "玻璃砍擊",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -95094,7 +95593,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-12-25",
-        "specialId": "mystic_chop",
+        "specialId": "glass_chop",
+        "parent_specialId": "mystic_chop",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -95115,7 +95615,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1358,
+        "originalIndex": 1359,
         "lb1": {
             "attack": 632,
             "defense": 488,
@@ -95149,7 +95649,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "快速",
-        "skill": "神秘砍擊",
+        "skill": "有型砍擊",
         "types": [
             "攻擊單個目標",
             "單體法力削減"
@@ -95161,7 +95661,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2026-01-07",
-        "specialId": "mystic_chop",
+        "specialId": "stylish_chop",
+        "parent_specialId": "mystic_chop",
         "passiveSkills": [
             "stylish"
         ],
@@ -95182,7 +95683,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1359,
+        "originalIndex": 1360,
         "lb1": {
             "attack": 672,
             "defense": 514,
@@ -95247,7 +95748,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1360,
+        "originalIndex": 1361,
         "lb1": {
             "attack": 620,
             "defense": 577,
@@ -95319,7 +95820,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1361,
+        "originalIndex": 1362,
         "lb1": {
             "attack": 614,
             "defense": 594,
@@ -95391,7 +95892,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 1362,
+        "originalIndex": 1363,
         "lb1": {
             "attack": 579,
             "defense": 535,
@@ -95424,7 +95925,7 @@ window.allHeroes =
         "color": "黃",
         "class": "巫師",
         "speed": "潮汐",
-        "skill": "可疑商品",
+        "skill": "可疑混合物",
         "types": [
             "偷取單個目標法力",
             "攻擊3個目標"
@@ -95436,7 +95937,8 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-02-03",
-        "specialId": "dubious_merchandise",
+        "specialId": "dubious_mixture",
+        "parent_specialId": "dubious_merchandise",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_critical"
         ],
@@ -95466,7 +95968,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 1363,
+        "originalIndex": 1364,
         "lb1": {
             "attack": 510,
             "defense": 638,
@@ -95531,7 +96033,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1364,
+        "originalIndex": 1365,
         "lb1": {
             "attack": 512,
             "defense": 525,
@@ -95596,7 +96098,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1365,
+        "originalIndex": 1366,
         "lb1": {
             "attack": 486,
             "defense": 514,
@@ -95625,7 +96127,7 @@ window.allHeroes =
         "color": "黃",
         "class": "術士",
         "speed": "慢速",
-        "skill": "靈魂羈絆",
+        "skill": "靈魂齊聚",
         "types": [
             "友方傷害分擔",
             "全體攻擊增益"
@@ -95636,7 +96138,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "stone_skin",
+        "specialId": "spirit_rally",
+        "parent_specialId": "stone_skin",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_mage_costume_mender",
@@ -95652,7 +96155,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1366,
+        "originalIndex": 1367,
         "lb1": {
             "attack": 489,
             "defense": 575,
@@ -95681,7 +96184,7 @@ window.allHeroes =
         "color": "黃",
         "class": "牧師",
         "speed": "慢速",
-        "skill": "靈魂羈絆",
+        "skill": "公仔絕妙連結",
         "types": [
             "友方傷害分擔",
             "全體防禦增益"
@@ -95692,7 +96195,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-02-12",
-        "specialId": "stone_skin",
+        "specialId": "toontastic_link",
+        "parent_specialId": "stone_skin",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -95712,7 +96216,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1367,
+        "originalIndex": 1368,
         "lb1": {
             "attack": 557,
             "defense": 595,
@@ -95741,7 +96245,7 @@ window.allHeroes =
         "color": "黃",
         "class": "牧師",
         "speed": "慢速",
-        "skill": "靈魂羈絆",
+        "skill": "玻璃連結",
         "types": [
             "友方傷害分擔",
             "全體防禦增益",
@@ -95755,7 +96259,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-03-11",
-        "specialId": "stone_skin",
+        "specialId": "glass_link",
+        "parent_specialId": "stone_skin",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -95776,7 +96281,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1368,
+        "originalIndex": 1369,
         "lb1": {
             "attack": 555,
             "defense": 627,
@@ -95838,7 +96343,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1369,
+        "originalIndex": 1370,
         "lb1": {
             "attack": 616,
             "defense": 583,
@@ -95895,7 +96400,7 @@ window.allHeroes =
         "passives": [],
         "family": "alfheim",
         "costume_id": 0,
-        "originalIndex": 1370,
+        "originalIndex": 1371,
         "lb1": {
             "attack": 486,
             "defense": 480,
@@ -95934,7 +96439,7 @@ window.allHeroes =
         "color": "黃",
         "class": "騎士",
         "speed": "快速",
-        "skill": "蜂式蠻進",
+        "skill": "蜂式衝擊",
         "types": [
             "召喚者"
         ],
@@ -95945,7 +96450,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-07-04",
-        "specialId": "bee_bravado",
+        "specialId": "bee_bombast",
+        "parent_specialId": "bee_bravado",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_kvasir_costume_captain",
@@ -95963,7 +96469,7 @@ window.allHeroes =
         "passives": [],
         "family": "alfheim",
         "costume_id": 1,
-        "originalIndex": 1371,
+        "originalIndex": 1372,
         "lb1": {
             "attack": 486,
             "defense": 503,
@@ -96028,7 +96534,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 1372,
+        "originalIndex": 1373,
         "lb1": {
             "attack": 573,
             "defense": 459,
@@ -96061,7 +96567,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "快速",
-        "skill": "亞特蘭蒂斯刀劍",
+        "skill": "亞特蘭蒂斯之刃",
         "types": [
             "攻擊所有目標",
             "命中降低"
@@ -96072,7 +96578,8 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-02",
-        "specialId": "atlantean_blade",
+        "specialId": "atlantean_blade_costume",
+        "parent_specialId": "atlantean_blade",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_merwoman_costume_emissary",
@@ -96088,7 +96595,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 1373,
+        "originalIndex": 1374,
         "lb1": {
             "attack": 606,
             "defense": 460,
@@ -96154,7 +96661,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1374,
+        "originalIndex": 1375,
         "lb1": {
             "attack": 490,
             "defense": 604,
@@ -96210,7 +96717,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1375,
+        "originalIndex": 1376,
         "lb1": {
             "attack": 484,
             "defense": 494,
@@ -96272,7 +96779,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1376,
+        "originalIndex": 1377,
         "lb1": {
             "attack": 563,
             "defense": 514,
@@ -96301,7 +96808,7 @@ window.allHeroes =
         "color": "黃",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "彈射閃電",
+        "skill": "昏睡閃電",
         "types": [
             "攻擊單個目標"
         ],
@@ -96311,7 +96818,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-02-29",
-        "specialId": "ricochet_bolt",
+        "specialId": "drowsy_bolt",
+        "parent_specialId": "ricochet_bolt",
         "passiveSkills": [
             "increase_special_damage"
         ],
@@ -96331,7 +96839,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1377,
+        "originalIndex": 1378,
         "lb1": {
             "attack": 578,
             "defense": 522,
@@ -96392,7 +96900,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1378,
+        "originalIndex": 1379,
         "lb1": {
             "attack": 533,
             "defense": 559,
@@ -96426,7 +96934,7 @@ window.allHeroes =
         "color": "黃",
         "class": "牧師",
         "speed": "中等",
-        "skill": "困惑之謎",
+        "skill": "迷惑油漆",
         "types": [
             "強化持續治療"
         ],
@@ -96437,7 +96945,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2025-02-17",
-        "specialId": "puzzling_riddle",
+        "specialId": "puzzling_paint",
+        "parent_specialId": "puzzling_riddle",
         "passiveSkills": [
             "sun_extra_special_heal_and_cleanse_latest_debuff"
         ],
@@ -96464,7 +96973,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1379,
+        "originalIndex": 1380,
         "lb1": {
             "attack": 558,
             "defense": 562,
@@ -96533,7 +97042,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1380,
+        "originalIndex": 1381,
         "lb1": {
             "attack": 551,
             "defense": 567,
@@ -96611,7 +97120,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1381,
+        "originalIndex": 1382,
         "lb1": {
             "attack": 561,
             "defense": 577,
@@ -96670,7 +97179,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 1382,
+        "originalIndex": 1383,
         "lb1": {
             "attack": 549,
             "defense": 529,
@@ -96736,7 +97245,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1383,
+        "originalIndex": 1384,
         "lb1": {
             "attack": 606,
             "defense": 539,
@@ -96773,7 +97282,7 @@ window.allHeroes =
         "skill": "智者的忠告",
         "types": [
             "全體安全驅散1個增益",
-            "單體增益之源",
+            "隨機1個增益來源",
             "全體持續治療"
         ],
         "skill_types": [
@@ -96809,7 +97318,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1384,
+        "originalIndex": 1385,
         "lb1": {
             "attack": 771,
             "defense": 801,
@@ -96882,7 +97391,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1385,
+        "originalIndex": 1386,
         "lb1": {
             "attack": 725,
             "defense": 681,
@@ -96946,7 +97455,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1386,
+        "originalIndex": 1387,
         "lb1": {
             "attack": 759,
             "defense": 685,
@@ -97013,7 +97522,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 1387,
+        "originalIndex": 1388,
         "lb1": {
             "attack": 708,
             "defense": 731,
@@ -97083,7 +97592,7 @@ window.allHeroes =
         ],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 1388,
+        "originalIndex": 1389,
         "lb1": {
             "attack": 909,
             "defense": 842,
@@ -97142,7 +97651,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1389,
+        "originalIndex": 1390,
         "lb1": {
             "attack": 660,
             "defense": 734,
@@ -97175,7 +97684,7 @@ window.allHeroes =
         "color": "黃",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "戰術之斬",
+        "skill": "鳥類劃傷",
         "types": [
             "攻擊單個目標",
             "偷取單個目標法力"
@@ -97187,7 +97696,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "tactical_cut",
+        "specialId": "strategic_slash",
+        "parent_specialId": "tactical_cut",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_falconer_costume_dodo",
@@ -97203,7 +97713,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1390,
+        "originalIndex": 1391,
         "lb1": {
             "attack": 746,
             "defense": 753,
@@ -97236,7 +97746,7 @@ window.allHeroes =
         "color": "黃",
         "class": "野人",
         "speed": "快速",
-        "skill": "戰術之斬",
+        "skill": "幼獸領袖切割",
         "types": [
             "攻擊3個目標",
             "3個目標法力生成降低"
@@ -97247,7 +97757,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-10-30",
-        "specialId": "tactical_cut",
+        "specialId": "cub_leader_cut",
+        "parent_specialId": "tactical_cut",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_falconer_costume_cub",
@@ -97263,7 +97774,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1391,
+        "originalIndex": 1392,
         "lb1": {
             "attack": 844,
             "defense": 767,
@@ -97296,7 +97807,7 @@ window.allHeroes =
         "color": "黃",
         "class": "遊俠",
         "speed": "快速",
-        "skill": "戰術之斬",
+        "skill": "公仔驚奇切擊",
         "types": [
             "攻擊單個目標",
             "單體法力削減"
@@ -97308,7 +97819,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-06-28",
-        "specialId": "tactical_cut",
+        "specialId": "adorable_tactical_cut",
+        "parent_specialId": "tactical_cut",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -97329,7 +97841,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1392,
+        "originalIndex": 1393,
         "lb1": {
             "attack": 877,
             "defense": 764,
@@ -97363,7 +97875,7 @@ window.allHeroes =
         "color": "黃",
         "class": "遊俠",
         "speed": "快速",
-        "skill": "戰術之斬",
+        "skill": "彩繪玻璃切擊",
         "types": [
             "攻擊單個目標",
             "單體法力削減",
@@ -97376,7 +97888,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-07-16",
-        "specialId": "tactical_cut",
+        "specialId": "glass_cut_chao",
+        "parent_specialId": "tactical_cut",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -97397,7 +97910,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1393,
+        "originalIndex": 1394,
         "lb1": {
             "attack": 914,
             "defense": 755,
@@ -97464,7 +97977,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1394,
+        "originalIndex": 1395,
         "lb1": {
             "attack": 683,
             "defense": 692,
@@ -97534,7 +98047,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 1395,
+        "originalIndex": 1396,
         "lb1": {
             "attack": 676,
             "defense": 692,
@@ -97579,7 +98092,7 @@ window.allHeroes =
         "color": "黃",
         "class": "術士",
         "speed": "中等",
-        "skill": "戲法師金牌手",
+        "skill": "驚人優惠",
         "types": [
             "賭徒"
         ],
@@ -97593,7 +98106,8 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-02-06",
-        "specialId": "tricksters_exchange",
+        "specialId": "amazing_deals",
+        "parent_specialId": "tricksters_exchange",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_tanuki_raccoon_costume_merchant",
@@ -97617,7 +98131,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 1396,
+        "originalIndex": 1397,
         "lb1": {
             "attack": 663,
             "defense": 725,
@@ -97699,7 +98213,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1397,
+        "originalIndex": 1398,
         "lb1": {
             "attack": 785,
             "defense": 852,
@@ -97774,7 +98288,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 1398,
+        "originalIndex": 1399,
         "lb1": {
             "attack": 780,
             "defense": 755,
@@ -97814,7 +98328,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "中等",
-        "skill": "詩意正義",
+        "skill": "不死懺悔",
         "types": [
             "無視小兵",
             "攻擊單個目標",
@@ -97831,7 +98345,8 @@ window.allHeroes =
         ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-10-15",
-        "specialId": "poetic_justice",
+        "specialId": "undead_penance_poetic",
+        "parent_specialId": "poetic_justice",
         "passiveSkills": [
             "molten_core_costume",
             "resist_burn_with_health_and_mana_boost_costume"
@@ -97857,7 +98372,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 1,
-        "originalIndex": 1399,
+        "originalIndex": 1400,
         "lb1": {
             "attack": 879,
             "defense": 840,
@@ -97932,7 +98447,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1400,
+        "originalIndex": 1401,
         "lb1": {
             "attack": 699,
             "defense": 778,
@@ -97995,7 +98510,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1401,
+        "originalIndex": 1402,
         "lb1": {
             "attack": 764,
             "defense": 651,
@@ -98063,7 +98578,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1402,
+        "originalIndex": 1403,
         "lb1": {
             "attack": 803,
             "defense": 695,
@@ -98096,7 +98611,7 @@ window.allHeroes =
         "color": "黃",
         "class": "牧師",
         "speed": "快速",
-        "skill": "無形打擊",
+        "skill": "神聖猛刺",
         "types": [
             "攻擊單個目標",
             "繞過3個目標"
@@ -98107,7 +98622,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-11-09",
-        "specialId": "invisible_strike",
+        "specialId": "divine_lunge",
+        "parent_specialId": "invisible_strike",
         "passiveSkills": [
             "increase_special_damage"
         ],
@@ -98127,7 +98643,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1403,
+        "originalIndex": 1404,
         "lb1": {
             "attack": 824,
             "defense": 727,
@@ -98202,7 +98718,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1404,
+        "originalIndex": 1405,
         "lb1": {
             "attack": 815,
             "defense": 785,
@@ -98267,7 +98783,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1405,
+        "originalIndex": 1406,
         "lb1": {
             "attack": 831,
             "defense": 577,
@@ -98300,7 +98816,7 @@ window.allHeroes =
         "color": "黃",
         "class": "野人",
         "speed": "飛速",
-        "skill": "射線打擊",
+        "skill": "斬斷打擊",
         "types": [
             "攻擊單個目標",
             "防禦增益"
@@ -98311,7 +98827,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-01-26",
-        "specialId": "ray_strike",
+        "specialId": "severing_strike",
+        "parent_specialId": "ray_strike",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "guardian_jackal_assassin_costume_bones",
@@ -98327,7 +98844,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 1,
-        "originalIndex": 1406,
+        "originalIndex": 1407,
         "lb1": {
             "attack": 734,
             "defense": 724,
@@ -98387,7 +98904,7 @@ window.allHeroes =
         "passives": [],
         "family": "asgard",
         "costume_id": 0,
-        "originalIndex": 1407,
+        "originalIndex": 1408,
         "lb1": {
             "attack": 660,
             "defense": 660,
@@ -98437,7 +98954,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-07-04",
-        "specialId": "angry_boar",
+        "specialId": "furious_boar",
+        "parent_specialId": "angry_boar",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_gullinbursti_costume_toxic",
@@ -98453,7 +98971,7 @@ window.allHeroes =
         "passives": [],
         "family": "asgard",
         "costume_id": 1,
-        "originalIndex": 1408,
+        "originalIndex": 1409,
         "lb1": {
             "attack": 665,
             "defense": 692,
@@ -98522,7 +99040,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1409,
+        "originalIndex": 1410,
         "lb1": {
             "attack": 676,
             "defense": 778,
@@ -98588,7 +99106,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1410,
+        "originalIndex": 1411,
         "lb1": {
             "attack": 655,
             "defense": 685,
@@ -98621,7 +99139,7 @@ window.allHeroes =
         "color": "黃",
         "class": "騎士",
         "speed": "慢速",
-        "skill": "超音速墻",
+        "skill": "光環波",
         "types": [
             "攻擊所有目標",
             "全體致盲",
@@ -98634,7 +99152,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "sonic_wall",
+        "specialId": "aura_wave",
+        "parent_specialId": "sonic_wall",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_panda_warrior_costume_armor",
@@ -98651,7 +99170,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1411,
+        "originalIndex": 1412,
         "lb1": {
             "attack": 644,
             "defense": 825,
@@ -98685,7 +99204,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "慢速",
-        "skill": "超音速墻",
+        "skill": "聲浪",
         "types": [
             "攻擊所有目標",
             "全體致盲",
@@ -98698,7 +99217,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-11-27",
-        "specialId": "sonic_wall",
+        "specialId": "acoustic_surge",
+        "parent_specialId": "sonic_wall",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_panda_warrior_costume_dueller",
@@ -98715,7 +99235,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1412,
+        "originalIndex": 1413,
         "lb1": {
             "attack": 716,
             "defense": 868,
@@ -98749,7 +99269,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "超音速墻",
+        "skill": "公仔牆",
         "types": [
             "攻擊所有目標",
             "全體致盲"
@@ -98761,7 +99281,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-05-31",
-        "specialId": "sonic_wall",
+        "specialId": "adorable_sonic_wall",
+        "parent_specialId": "sonic_wall",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -98782,7 +99303,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1413,
+        "originalIndex": 1414,
         "lb1": {
             "attack": 810,
             "defense": 780,
@@ -98820,7 +99341,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "超音速墻",
+        "skill": "玻璃牆",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -98833,7 +99354,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-06-18",
-        "specialId": "sonic_wall",
+        "specialId": "glass_wall",
+        "parent_specialId": "sonic_wall",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -98854,7 +99376,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1414,
+        "originalIndex": 1415,
         "lb1": {
             "attack": 884,
             "defense": 741,
@@ -98917,7 +99439,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1415,
+        "originalIndex": 1416,
         "lb1": {
             "attack": 681,
             "defense": 725,
@@ -98976,7 +99498,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1416,
+        "originalIndex": 1417,
         "lb1": {
             "attack": 669,
             "defense": 722,
@@ -99009,7 +99531,7 @@ window.allHeroes =
         "color": "黃",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "七刃連斬",
+        "skill": "七刀連斬",
         "types": [
             "攻擊所有目標",
             "全體法力削減"
@@ -99020,7 +99542,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
-        "specialId": "slash_of_seven_blades",
+        "specialId": "slash_of_seven_daggers",
+        "parent_specialId": "slash_of_seven_blades",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_templar_costume_kimono",
@@ -99036,7 +99559,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1417,
+        "originalIndex": 1418,
         "lb1": {
             "attack": 731,
             "defense": 765,
@@ -99069,7 +99592,7 @@ window.allHeroes =
         "color": "黃",
         "class": "巫師",
         "speed": "中等",
-        "skill": "七刃連斬",
+        "skill": "七匕首連斬",
         "types": [
             "攻擊3個目標",
             "3個目標沈默者"
@@ -99080,7 +99603,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-02-20",
-        "specialId": "slash_of_seven_blades",
+        "specialId": "slash_of_the_seven_stilettos",
+        "parent_specialId": "slash_of_seven_blades",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_templar_costume_fireworks",
@@ -99096,7 +99620,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1418,
+        "originalIndex": 1419,
         "lb1": {
             "attack": 788,
             "defense": 817,
@@ -99129,7 +99653,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "七刃連斬",
+        "skill": "七連斬公仔",
         "types": [
             "攻擊所有目標",
             "全體法力削減"
@@ -99141,7 +99665,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-02-12",
-        "specialId": "slash_of_seven_blades",
+        "specialId": "slash_of_seven_toons",
+        "parent_specialId": "slash_of_seven_blades",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -99162,7 +99687,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1419,
+        "originalIndex": 1420,
         "lb1": {
             "attack": 788,
             "defense": 848,
@@ -99196,7 +99721,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "七刃連斬",
+        "skill": "玻璃刃連斬",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -99209,7 +99734,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-03-11",
-        "specialId": "slash_of_seven_blades",
+        "specialId": "slash_of_glass_blades",
+        "parent_specialId": "slash_of_seven_blades",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -99230,7 +99756,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1420,
+        "originalIndex": 1421,
         "lb1": {
             "attack": 873,
             "defense": 807,
@@ -99295,7 +99821,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1421,
+        "originalIndex": 1422,
         "lb1": {
             "attack": 745,
             "defense": 655,
@@ -99365,7 +99891,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1422,
+        "originalIndex": 1423,
         "lb1": {
             "attack": 688,
             "defense": 711,
@@ -99399,7 +99925,7 @@ window.allHeroes =
         "color": "黃",
         "class": "騎士",
         "speed": "快速",
-        "skill": "聖甲蟲投擲",
+        "skill": "聖甲蟲彈幕",
         "types": [
             "攻擊單個目標",
             "召喚1個爆炸惡魔"
@@ -99411,7 +99937,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2025-01-20",
-        "specialId": "scarab_throw",
+        "specialId": "scarab_barrage",
+        "parent_specialId": "scarab_throw",
         "passiveSkills": [
             "moon_extra_special_damage_and_mana_regen_debuff"
         ],
@@ -99440,7 +99967,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1423,
+        "originalIndex": 1424,
         "lb1": {
             "attack": 732,
             "defense": 704,
@@ -99513,7 +100040,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1424,
+        "originalIndex": 1425,
         "lb1": {
             "attack": 669,
             "defense": 801,
@@ -99585,7 +100112,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1425,
+        "originalIndex": 1426,
         "lb1": {
             "attack": 921,
             "defense": 828,
@@ -99649,7 +100176,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 1426,
+        "originalIndex": 1427,
         "lb1": {
             "attack": 706,
             "defense": 699,
@@ -99714,7 +100241,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1427,
+        "originalIndex": 1428,
         "lb1": {
             "attack": 681,
             "defense": 759,
@@ -99773,7 +100300,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1428,
+        "originalIndex": 1429,
         "lb1": {
             "attack": 734,
             "defense": 771,
@@ -99806,7 +100333,7 @@ window.allHeroes =
         "color": "黃",
         "class": "牧師",
         "speed": "慢速",
-        "skill": "悲憫之心",
+        "skill": "書法家的共情",
         "types": [
             "摧毀所有惡魔",
             "全體生命值加成",
@@ -99819,7 +100346,8 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2025-01-29",
-        "specialId": "nobles_empathy",
+        "specialId": "nobles_empathy_costume_artisan",
+        "parent_specialId": "nobles_empathy",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "kingdom_unstoppable_minions"
@@ -99843,7 +100371,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1429,
+        "originalIndex": 1430,
         "lb1": {
             "attack": 753,
             "defense": 841,
@@ -99906,7 +100434,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1430,
+        "originalIndex": 1431,
         "lb1": {
             "attack": 768,
             "defense": 674,
@@ -99939,7 +100467,7 @@ window.allHeroes =
         "color": "黃",
         "class": "騎士",
         "speed": "中等",
-        "skill": "賭徒姿態",
+        "skill": "賭徒劈斬",
         "types": [
             "攻擊所有目標"
         ],
@@ -99949,7 +100477,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "gamblers_stance",
+        "specialId": "change_stance",
+        "parent_specialId": "gamblers_stance",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_monkey_captain_costume_warrior",
@@ -99965,7 +100494,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1431,
+        "originalIndex": 1432,
         "lb1": {
             "attack": 807,
             "defense": 765,
@@ -99998,7 +100527,7 @@ window.allHeroes =
         "color": "黃",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "賭徒姿態",
+        "skill": "賭徒揮擊",
         "types": [
             "泰坦攻擊增益"
         ],
@@ -100008,7 +100537,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-10-30",
-        "specialId": "gamblers_stance",
+        "specialId": "gamblers_swing",
+        "parent_specialId": "gamblers_stance",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_monkey_captain_costume_reveller",
@@ -100023,7 +100553,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1432,
+        "originalIndex": 1433,
         "lb1": {
             "attack": 868,
             "defense": 788,
@@ -100056,7 +100586,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "賭徒姿態",
+        "skill": "公仔姿態",
         "types": [
             "泰坦攻擊增益"
         ],
@@ -100066,7 +100596,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-07-16",
-        "specialId": "gamblers_stance",
+        "specialId": "adorable_gamblers_stance",
+        "parent_specialId": "gamblers_stance",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -100085,7 +100616,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1433,
+        "originalIndex": 1434,
         "lb1": {
             "attack": 810,
             "defense": 864,
@@ -100118,7 +100649,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "賭徒姿態",
+        "skill": "玻璃姿態",
         "types": [
             "泰坦攻擊增益",
             "神聖盟友減益反射"
@@ -100130,7 +100661,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-08-10",
-        "specialId": "gamblers_stance",
+        "specialId": "glass_gamblers_stance",
+        "parent_specialId": "gamblers_stance",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -100150,7 +100682,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1434,
+        "originalIndex": 1435,
         "lb1": {
             "attack": 840,
             "defense": 868,
@@ -100220,7 +100752,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1435,
+        "originalIndex": 1436,
         "lb1": {
             "attack": 738,
             "defense": 750,
@@ -100297,7 +100829,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1436,
+        "originalIndex": 1437,
         "lb1": {
             "attack": 1436,
             "defense": 1436,
@@ -100368,7 +100900,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1437,
+        "originalIndex": 1438,
         "lb1": {
             "attack": 843,
             "defense": 832,
@@ -100401,7 +100933,7 @@ window.allHeroes =
         "color": "黃",
         "class": "野人",
         "speed": "快速",
-        "skill": "怪力劈砍",
+        "skill": "怪力攜帶",
         "types": [
             "攻擊3個目標",
             "閃避疊加"
@@ -100415,7 +100947,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-02-01",
-        "specialId": "colossal_chops",
+        "specialId": "colossal_carry",
+        "parent_specialId": "colossal_chops",
         "passiveSkills": [
             "increase_special_damage"
         ],
@@ -100439,7 +100972,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1438,
+        "originalIndex": 1439,
         "lb1": {
             "attack": 1062,
             "defense": 1105,
@@ -100507,7 +101040,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1439,
+        "originalIndex": 1440,
         "lb1": {
             "attack": 1194,
             "defense": 1232,
@@ -100577,7 +101110,7 @@ window.allHeroes =
         ],
         "family": "stag",
         "costume_id": 0,
-        "originalIndex": 1440,
+        "originalIndex": 1441,
         "lb1": {
             "attack": 1256,
             "defense": 1192,
@@ -100652,7 +101185,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1441,
+        "originalIndex": 1442,
         "lb1": {
             "attack": 1287,
             "defense": 1238,
@@ -100719,7 +101252,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 1442,
+        "originalIndex": 1443,
         "lb1": {
             "attack": 883,
             "defense": 859,
@@ -100788,7 +101321,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 1443,
+        "originalIndex": 1444,
         "lb1": {
             "attack": 1320,
             "defense": 1196,
@@ -100855,7 +101388,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1444,
+        "originalIndex": 1445,
         "lb1": {
             "attack": 874,
             "defense": 843,
@@ -100888,7 +101421,7 @@ window.allHeroes =
         "color": "黃",
         "class": "遊俠",
         "speed": "快速",
-        "skill": "蛾族之刃",
+        "skill": "蛾族權杖",
         "types": [
             "攻擊單個目標"
         ],
@@ -100899,7 +101432,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-09-07",
-        "specialId": "blade_of_bundelkhand",
+        "specialId": "scepter_of_bundelkhand",
+        "parent_specialId": "blade_of_bundelkhand",
         "passiveSkills": [
             "increase_special_damage"
         ],
@@ -100922,7 +101456,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1445,
+        "originalIndex": 1446,
         "lb1": {
             "attack": 1220,
             "defense": 1096,
@@ -101007,7 +101541,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1446,
+        "originalIndex": 1447,
         "lb1": {
             "attack": 1367,
             "defense": 1367,
@@ -101092,7 +101626,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1447,
+        "originalIndex": 1448,
         "lb1": {
             "attack": 1305,
             "defense": 1272,
@@ -101173,7 +101707,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1448,
+        "originalIndex": 1449,
         "lb1": {
             "attack": 999,
             "defense": 1349,
@@ -101245,7 +101779,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1449,
+        "originalIndex": 1450,
         "lb1": {
             "attack": 1434,
             "defense": 1203,
@@ -101322,7 +101856,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1450,
+        "originalIndex": 1451,
         "lb1": {
             "attack": 1316,
             "defense": 1292,
@@ -101397,7 +101931,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1451,
+        "originalIndex": 1452,
         "lb1": {
             "attack": 1110,
             "defense": 1036,
@@ -101470,7 +102004,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1452,
+        "originalIndex": 1453,
         "lb1": {
             "attack": 808,
             "defense": 792,
@@ -101538,7 +102072,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1453,
+        "originalIndex": 1454,
         "lb1": {
             "attack": 1267,
             "defense": 1207,
@@ -101612,7 +102146,7 @@ window.allHeroes =
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 1454,
+        "originalIndex": 1455,
         "lb1": {
             "attack": 1371,
             "defense": 1367,
@@ -101687,7 +102221,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 1455,
+        "originalIndex": 1456,
         "lb1": {
             "attack": 777,
             "defense": 885,
@@ -101727,7 +102261,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "殺手",
-        "skill": "誅心之力",
+        "skill": "驅散審判",
         "types": [
             "全體驅散",
             "攻擊所有目標",
@@ -101746,7 +102280,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2024-11-14",
-        "specialId": "dispelling_willpower",
+        "specialId": "dispelling_judgement",
+        "parent_specialId": "dispelling_willpower",
         "passiveSkills": [
             "resist_status_effect_damage"
         ],
@@ -101772,7 +102307,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 1,
-        "originalIndex": 1456,
+        "originalIndex": 1457,
         "lb1": {
             "attack": 1300,
             "defense": 1286,
@@ -101849,7 +102384,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1457,
+        "originalIndex": 1458,
         "lb1": {
             "attack": 790,
             "defense": 859,
@@ -101928,7 +102463,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 1458,
+        "originalIndex": 1459,
         "lb1": {
             "attack": 1072,
             "defense": 963,
@@ -101997,7 +102532,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1459,
+        "originalIndex": 1460,
         "lb1": {
             "attack": 828,
             "defense": 916,
@@ -102031,7 +102566,7 @@ window.allHeroes =
         "color": "黃",
         "class": "騎士",
         "speed": "中等",
-        "skill": "眾神的媒介",
+        "skill": "貓類的媒介",
         "types": [
             "治療者",
             "狀態異常免疫"
@@ -102045,7 +102580,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-04-29",
-        "specialId": "channeler_of_the_gods",
+        "specialId": "channeler_of_the_cats",
+        "parent_specialId": "channeler_of_the_gods",
         "passiveSkills": [
             "sun_extra_special_heal_and_cleanse_latest_debuff"
         ],
@@ -102072,7 +102608,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1460,
+        "originalIndex": 1461,
         "lb1": {
             "attack": 1171,
             "defense": 1348,
@@ -102136,7 +102672,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 1461,
+        "originalIndex": 1462,
         "lb1": {
             "attack": 939,
             "defense": 976,
@@ -102209,7 +102745,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 1462,
+        "originalIndex": 1463,
         "lb1": {
             "attack": 916,
             "defense": 963,
@@ -102271,7 +102807,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1463,
+        "originalIndex": 1464,
         "lb1": {
             "attack": 794,
             "defense": 759,
@@ -102304,7 +102840,7 @@ window.allHeroes =
         "color": "黃",
         "class": "騎士",
         "speed": "中等",
-        "skill": "召喚神殿守護者",
+        "skill": "召喚天宇守護者",
         "types": [
             "治療者",
             "召喚者"
@@ -102317,7 +102853,8 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-05-15",
-        "specialId": "summon_temple_guardians",
+        "specialId": "summon_celestial_guardians",
+        "parent_specialId": "summon_temple_guardians",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_cleanse_newest"
@@ -102338,7 +102875,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1464,
+        "originalIndex": 1465,
         "lb1": {
             "attack": 988,
             "defense": 976,
@@ -102410,7 +102947,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1465,
+        "originalIndex": 1466,
         "lb1": {
             "attack": 799,
             "defense": 814,
@@ -102478,7 +103015,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1466,
+        "originalIndex": 1467,
         "lb1": {
             "attack": 825,
             "defense": 832,
@@ -102516,7 +103053,7 @@ window.allHeroes =
         "color": "黃",
         "class": "牧師",
         "speed": "中等",
-        "skill": "團長庇佑",
+        "skill": "小丑的祝福",
         "types": [
             "全體治療",
             "召喚所有",
@@ -102529,7 +103066,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2025-08-08",
-        "specialId": "directors_blessing",
+        "specialId": "clowns_blessing",
+        "parent_specialId": "directors_blessing",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "cleansed_ailments_to_enemy"
@@ -102550,7 +103088,7 @@ window.allHeroes =
         ],
         "family": "circus",
         "costume_id": 1,
-        "originalIndex": 1467,
+        "originalIndex": 1468,
         "lb1": {
             "attack": 1214,
             "defense": 1491,
@@ -102627,7 +103165,7 @@ window.allHeroes =
         ],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 1468,
+        "originalIndex": 1469,
         "lb1": {
             "attack": 1223,
             "defense": 1189,
@@ -102697,7 +103235,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1469,
+        "originalIndex": 1470,
         "lb1": {
             "attack": 783,
             "defense": 768,
@@ -102730,7 +103268,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "快速",
-        "skill": "暴怒捶打",
+        "skill": "傳說之拳",
         "types": [
             "攻擊3個目標",
             "致盲"
@@ -102744,7 +103282,8 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-12-23",
-        "specialId": "flails_of_fury",
+        "specialId": "fabled_fist",
+        "parent_specialId": "flails_of_fury",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_dispel_newest"
@@ -102765,7 +103304,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1470,
+        "originalIndex": 1471,
         "lb1": {
             "attack": 1017,
             "defense": 959,
@@ -102826,7 +103365,7 @@ window.allHeroes =
         "passives": [],
         "family": "raven",
         "costume_id": 0,
-        "originalIndex": 1471,
+        "originalIndex": 1472,
         "lb1": {
             "attack": 865,
             "defense": 854,
@@ -102909,7 +103448,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1472,
+        "originalIndex": 1473,
         "lb1": {
             "attack": 1394,
             "defense": 1394,
@@ -102997,7 +103536,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 1473,
+        "originalIndex": 1474,
         "lb1": {
             "attack": 976,
             "defense": 992,
@@ -103031,7 +103570,7 @@ window.allHeroes =
         "color": "黃",
         "class": "術士",
         "speed": "潮汐",
-        "skill": "海床趾尖旋轉",
+        "skill": "海床西頌步",
         "types": [
             "召喚所有小兵",
             "疊加",
@@ -103045,7 +103584,8 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-03-31",
-        "specialId": "seabed_pirouette",
+        "specialId": "seabed_sissonne",
+        "parent_specialId": "seabed_pirouette",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_critical"
         ],
@@ -103076,7 +103616,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 1474,
+        "originalIndex": 1475,
         "lb1": {
             "attack": 1227,
             "defense": 1290,
@@ -103136,7 +103676,7 @@ window.allHeroes =
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1475,
+        "originalIndex": 1476,
         "lb1": {
             "attack": 910,
             "defense": 859,
@@ -103211,7 +103751,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1476,
+        "originalIndex": 1477,
         "lb1": {
             "attack": 896,
             "defense": 872,
@@ -103246,7 +103786,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "神聖光環",
+        "skill": "金色光環",
         "types": [
             "攻擊單個目標",
             "隨機攻擊5個目標",
@@ -103261,7 +103801,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2025-06-11",
-        "specialId": "holy_aura",
+        "specialId": "golden_aura",
+        "parent_specialId": "holy_aura",
         "passiveSkills": [
             "sun_extra_special_damage_and_attack_debuff"
         ],
@@ -103289,7 +103830,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1477,
+        "originalIndex": 1478,
         "lb1": {
             "attack": 1335,
             "defense": 1236,
@@ -103369,7 +103910,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1478,
+        "originalIndex": 1479,
         "lb1": {
             "attack": 1332,
             "defense": 1332,
@@ -103448,7 +103989,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1479,
+        "originalIndex": 1480,
         "lb1": {
             "attack": 1123,
             "defense": 1194,
@@ -103509,7 +104050,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1480,
+        "originalIndex": 1481,
         "lb1": {
             "attack": 845,
             "defense": 810,
@@ -103577,7 +104118,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1481,
+        "originalIndex": 1482,
         "lb1": {
             "attack": 1425,
             "defense": 1365,
@@ -103651,7 +104192,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1482,
+        "originalIndex": 1483,
         "lb1": {
             "attack": 1258,
             "defense": 1189,
@@ -103727,7 +104268,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1483,
+        "originalIndex": 1484,
         "lb1": {
             "attack": 843,
             "defense": 892,
@@ -103806,7 +104347,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1484,
+        "originalIndex": 1485,
         "lb1": {
             "attack": 1347,
             "defense": 1420,
@@ -103889,7 +104430,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 1485,
+        "originalIndex": 1486,
         "lb1": {
             "attack": 1258,
             "defense": 1252,
@@ -103967,7 +104508,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1486,
+        "originalIndex": 1487,
         "lb1": {
             "attack": 1209,
             "defense": 1256,
@@ -104041,7 +104582,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1487,
+        "originalIndex": 1488,
         "lb1": {
             "attack": 812,
             "defense": 830,
@@ -104114,7 +104655,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1488,
+        "originalIndex": 1489,
         "lb1": {
             "attack": 1465,
             "defense": 1176,
@@ -104184,7 +104725,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1489,
+        "originalIndex": 1490,
         "lb1": {
             "attack": 943,
             "defense": 1123,
@@ -104258,7 +104799,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1490,
+        "originalIndex": 1491,
         "lb1": {
             "attack": 1343,
             "defense": 1249,
@@ -104331,7 +104872,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1491,
+        "originalIndex": 1492,
         "lb1": {
             "attack": 1085,
             "defense": 1165,
@@ -104405,7 +104946,7 @@ window.allHeroes =
         ],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1492,
+        "originalIndex": 1493,
         "lb1": {
             "attack": 1067,
             "defense": 1145,
@@ -104486,7 +105027,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1493,
+        "originalIndex": 1494,
         "lb1": {
             "attack": 810,
             "defense": 799,
@@ -104526,7 +105067,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "中等",
-        "skill": "靈魂之舞",
+        "skill": "溜溜球舞",
         "types": [
             "4個目標完全淨化",
             "全體治療",
@@ -104545,7 +105086,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-01-26",
-        "specialId": "dance_of_spirits",
+        "specialId": "bandalore_dance",
+        "parent_specialId": "dance_of_spirits",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "guardian_gazelle_costume_bandalore",
@@ -104566,7 +105108,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 1,
-        "originalIndex": 1494,
+        "originalIndex": 1495,
         "lb1": {
             "attack": 1060,
             "defense": 1007,
@@ -104637,7 +105179,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1495,
+        "originalIndex": 1496,
         "lb1": {
             "attack": 648,
             "defense": 856,
@@ -104709,7 +105251,7 @@ window.allHeroes =
         ],
         "family": "fleur_de_sang",
         "costume_id": 0,
-        "originalIndex": 1496,
+        "originalIndex": 1497,
         "lb1": {
             "attack": 1431,
             "defense": 1309,
@@ -104776,7 +105318,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 1497,
+        "originalIndex": 1498,
         "lb1": {
             "attack": 721,
             "defense": 839,
@@ -104815,7 +105357,7 @@ window.allHeroes =
         "color": "黃",
         "class": "騎士",
         "speed": "中等",
-        "skill": "女王命令",
+        "skill": "天降偈語",
         "types": [
             "3個目標法力削減",
             "全體治療",
@@ -104829,7 +105371,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-04-20",
-        "specialId": "word_of_queen",
+        "specialId": "word_of_skies",
+        "parent_specialId": "word_of_queen",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "knights_guinevere_costume_rider",
@@ -104846,7 +105389,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 1,
-        "originalIndex": 1498,
+        "originalIndex": 1499,
         "lb1": {
             "attack": 859,
             "defense": 1076,
@@ -104927,7 +105470,7 @@ window.allHeroes =
         "passives": [],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 1499,
+        "originalIndex": 1500,
         "lb1": {
             "attack": 1318,
             "defense": 1414,
@@ -105009,7 +105552,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1500,
+        "originalIndex": 1501,
         "lb1": {
             "attack": 1167,
             "defense": 1105,
@@ -105079,7 +105622,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1501,
+        "originalIndex": 1502,
         "lb1": {
             "attack": 945,
             "defense": 870,
@@ -105149,7 +105692,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1502,
+        "originalIndex": 1503,
         "lb1": {
             "attack": 1363,
             "defense": 1307,
@@ -105222,7 +105765,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1503,
+        "originalIndex": 1504,
         "lb1": {
             "attack": 777,
             "defense": 859,
@@ -105300,7 +105843,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1504,
+        "originalIndex": 1505,
         "lb1": {
             "attack": 1367,
             "defense": 1272,
@@ -105376,7 +105919,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1505,
+        "originalIndex": 1506,
         "lb1": {
             "attack": 1183,
             "defense": 1221,
@@ -105445,7 +105988,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1506,
+        "originalIndex": 1507,
         "lb1": {
             "attack": 888,
             "defense": 856,
@@ -105478,7 +106021,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "飛速",
-        "skill": "無情獵手",
+        "skill": "太陽審判",
         "types": [
             "攻擊3個目標",
             "最大生命值降低"
@@ -105489,7 +106032,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-04-01",
-        "specialId": "unrelenting_hunter",
+        "specialId": "judgment_of_sun",
+        "parent_specialId": "unrelenting_hunter",
         "passiveSkills": [
             "sun_extra_special_damage_and_attack_debuff"
         ],
@@ -105516,7 +106060,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1507,
+        "originalIndex": 1508,
         "lb1": {
             "attack": 1284,
             "defense": 1248,
@@ -105591,7 +106135,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1508,
+        "originalIndex": 1509,
         "lb1": {
             "attack": 1374,
             "defense": 1136,
@@ -105659,7 +106203,7 @@ window.allHeroes =
         ],
         "family": "forsaken",
         "costume_id": 0,
-        "originalIndex": 1509,
+        "originalIndex": 1510,
         "lb1": {
             "attack": 1449,
             "defense": 1394,
@@ -105724,7 +106268,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 1510,
+        "originalIndex": 1511,
         "lb1": {
             "attack": 876,
             "defense": 692,
@@ -105763,7 +106307,7 @@ window.allHeroes =
         "color": "黃",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "幸運之九",
+        "skill": "致盲咒語",
         "types": [
             "攻擊所有目標",
             "召喚者",
@@ -105777,7 +106321,8 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-02",
-        "specialId": "lucky_nine",
+        "specialId": "blinding_spell",
+        "parent_specialId": "lucky_nine",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_fox_girl_costume_white_kitsune",
@@ -105794,7 +106339,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 1511,
+        "originalIndex": 1512,
         "lb1": {
             "attack": 1040,
             "defense": 921,
@@ -105878,7 +106423,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1512,
+        "originalIndex": 1513,
         "lb1": {
             "attack": 1443,
             "defense": 1345,
@@ -105956,7 +106501,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1513,
+        "originalIndex": 1514,
         "lb1": {
             "attack": 1078,
             "defense": 1041,
@@ -106032,7 +106577,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1514,
+        "originalIndex": 1515,
         "lb1": {
             "attack": 974,
             "defense": 841,
@@ -106105,7 +106650,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1515,
+        "originalIndex": 1516,
         "lb1": {
             "attack": 992,
             "defense": 941,
@@ -106170,7 +106715,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1516,
+        "originalIndex": 1517,
         "lb1": {
             "attack": 859,
             "defense": 936,
@@ -106209,7 +106754,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "慢速",
-        "skill": "營養花瓣",
+        "skill": "營養幻夢",
         "types": [
             "治療者",
             "攻擊增益",
@@ -106222,7 +106767,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2024-03-18",
-        "specialId": "petals_of_nourishment",
+        "specialId": "dreams_of_nourishment",
+        "parent_specialId": "petals_of_nourishment",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "easter_jasper_costume_fisherman",
@@ -106240,7 +106786,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 1,
-        "originalIndex": 1517,
+        "originalIndex": 1518,
         "lb1": {
             "attack": 1021,
             "defense": 1129,
@@ -106318,7 +106864,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1518,
+        "originalIndex": 1519,
         "lb1": {
             "attack": 1025,
             "defense": 912,
@@ -106354,7 +106900,7 @@ window.allHeroes =
         "color": "黃",
         "class": "盜賊",
         "speed": "飛速",
-        "skill": "古老神聖符號",
+        "skill": "黃金神聖符號",
         "types": [
             "攻擊所有目標",
             "元素"
@@ -106367,7 +106913,8 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2025-06-20",
-        "specialId": "archaic_sacred_symbol",
+        "specialId": "golden_sacred_symbol",
+        "parent_specialId": "archaic_sacred_symbol",
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
@@ -106394,7 +106941,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1519,
+        "originalIndex": 1520,
         "lb1": {
             "attack": 1308,
             "defense": 1191,
@@ -106456,7 +107003,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1520,
+        "originalIndex": 1521,
         "lb1": {
             "attack": 808,
             "defense": 685,
@@ -106489,7 +107036,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "快速",
-        "skill": "極地光束",
+        "skill": "極地打擊",
         "types": [
             "攻擊單個目標",
             "單體致盲"
@@ -106500,7 +107047,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
-        "specialId": "solar_beam",
+        "specialId": "solar_strike",
+        "parent_specialId": "solar_beam",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_enchanted_monk_costume_tiger",
@@ -106516,7 +107064,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1521,
+        "originalIndex": 1522,
         "lb1": {
             "attack": 908,
             "defense": 787,
@@ -106549,7 +107097,7 @@ window.allHeroes =
         "color": "黃",
         "class": "野人",
         "speed": "快速",
-        "skill": "極地光束",
+        "skill": "恆星光束",
         "types": [
             "攻擊3個目標",
             "3個目標持續傷害",
@@ -106562,7 +107110,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-12-26",
-        "specialId": "solar_beam",
+        "specialId": "stellar_beam",
+        "parent_specialId": "solar_beam",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_enchanted_monk_costume_stoneguard",
@@ -106579,7 +107128,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1522,
+        "originalIndex": 1523,
         "lb1": {
             "attack": 1048,
             "defense": 890,
@@ -106614,7 +107163,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "快速",
-        "skill": "極地光束",
+        "skill": "公仔射線",
         "types": [
             "攻擊單個目標",
             "單體致盲"
@@ -106626,7 +107175,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-02-12",
-        "specialId": "solar_beam",
+        "specialId": "adorable_beam",
+        "parent_specialId": "solar_beam",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -106647,7 +107197,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1523,
+        "originalIndex": 1524,
         "lb1": {
             "attack": 1255,
             "defense": 1070,
@@ -106685,7 +107235,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "快速",
-        "skill": "極地光束",
+        "skill": "玻璃光束",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -106698,7 +107248,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-04-08",
-        "specialId": "solar_beam",
+        "specialId": "glass_beam",
+        "parent_specialId": "solar_beam",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -106719,7 +107270,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1524,
+        "originalIndex": 1525,
         "lb1": {
             "attack": 1445,
             "defense": 1188,
@@ -106790,7 +107341,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1525,
+        "originalIndex": 1526,
         "lb1": {
             "attack": 907,
             "defense": 854,
@@ -106850,7 +107401,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1526,
+        "originalIndex": 1527,
         "lb1": {
             "attack": 657,
             "defense": 836,
@@ -106888,7 +107439,7 @@ window.allHeroes =
         "color": "黃",
         "class": "巫師",
         "speed": "慢速",
-        "skill": "審判儀式",
+        "skill": "審判日",
         "types": [
             "攻擊所有目標",
             "自我法力生成增益"
@@ -106900,7 +107451,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "rite_of_judgement",
+        "specialId": "day_of_judgement",
+        "parent_specialId": "rite_of_judgement",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "exalted_female_statue_costume_sungoddess",
@@ -106917,7 +107469,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1527,
+        "originalIndex": 1528,
         "lb1": {
             "attack": 820,
             "defense": 878,
@@ -106967,7 +107519,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-02-20",
-        "specialId": "rite_of_judgement",
+        "specialId": "ritual_of_judgement",
+        "parent_specialId": "rite_of_judgement",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "exalted_female_statue_costume_thorns",
@@ -106984,7 +107537,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1528,
+        "originalIndex": 1529,
         "lb1": {
             "attack": 959,
             "defense": 970,
@@ -107022,7 +107575,7 @@ window.allHeroes =
         "color": "黃",
         "class": "騎士",
         "speed": "慢速",
-        "skill": "審判儀式",
+        "skill": "審判公仔",
         "types": [
             "攻擊所有目標",
             "全體致盲"
@@ -107034,7 +107587,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-06-28",
-        "specialId": "rite_of_judgement",
+        "specialId": "rite_of_cuteness",
+        "parent_specialId": "rite_of_judgement",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -107055,7 +107609,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1529,
+        "originalIndex": 1530,
         "lb1": {
             "attack": 1269,
             "defense": 1008,
@@ -107093,7 +107647,7 @@ window.allHeroes =
         "color": "黃",
         "class": "騎士",
         "speed": "慢速",
-        "skill": "審判儀式",
+        "skill": "玻璃審判",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -107106,7 +107660,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-08-10",
-        "specialId": "rite_of_judgement",
+        "specialId": "rite_of_glass",
+        "parent_specialId": "rite_of_judgement",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -107127,7 +107682,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1530,
+        "originalIndex": 1531,
         "lb1": {
             "attack": 1452,
             "defense": 1126,
@@ -107200,7 +107755,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1531,
+        "originalIndex": 1532,
         "lb1": {
             "attack": 814,
             "defense": 825,
@@ -107262,7 +107817,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1532,
+        "originalIndex": 1533,
         "lb1": {
             "attack": 879,
             "defense": 852,
@@ -107296,7 +107851,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "中等",
-        "skill": "祖傳匕首",
+        "skill": "狡詐刀刃",
         "types": [
             "攻擊單個目標",
             "彈射",
@@ -107308,7 +107863,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2023-08-07",
-        "specialId": "heirloom_dagger",
+        "specialId": "cunning_knife",
+        "parent_specialId": "heirloom_dagger",
         "passiveSkills": [
             "heal_mana_on_low_health_once"
         ],
@@ -107329,7 +107885,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 1533,
+        "originalIndex": 1534,
         "lb1": {
             "attack": 1145,
             "defense": 1207,
@@ -107409,7 +107965,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1534,
+        "originalIndex": 1535,
         "lb1": {
             "attack": 874,
             "defense": 939,
@@ -107491,7 +108047,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1535,
+        "originalIndex": 1536,
         "lb1": {
             "attack": 1351,
             "defense": 1418,
@@ -107576,7 +108132,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1536,
+        "originalIndex": 1537,
         "lb1": {
             "attack": 1283,
             "defense": 1358,
@@ -107646,7 +108202,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1537,
+        "originalIndex": 1538,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -107719,7 +108275,7 @@ window.allHeroes =
         ],
         "family": "champions",
         "costume_id": 0,
-        "originalIndex": 1538,
+        "originalIndex": 1539,
         "lb1": {
             "attack": 1121,
             "defense": 1096,
@@ -107792,7 +108348,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1539,
+        "originalIndex": 1540,
         "lb1": {
             "attack": 1123,
             "defense": 1116,
@@ -107855,7 +108411,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1540,
+        "originalIndex": 1541,
         "lb1": {
             "attack": 788,
             "defense": 774,
@@ -107889,7 +108445,7 @@ window.allHeroes =
         "color": "黃",
         "class": "野人",
         "speed": "中等",
-        "skill": "斯巴達披斬",
+        "skill": "斯巴達衝鋒",
         "types": [
             "攻擊3個目標"
         ],
@@ -107900,7 +108456,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
-        "specialId": "spartan_cleave",
+        "specialId": "roman_cleave",
+        "parent_specialId": "spartan_cleave",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_warrior_king_costume_roman",
@@ -107917,7 +108474,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1541,
+        "originalIndex": 1542,
         "lb1": {
             "attack": 870,
             "defense": 898,
@@ -107951,7 +108508,7 @@ window.allHeroes =
         "color": "黃",
         "class": "遊俠",
         "speed": "中等",
-        "skill": "斯巴達披斬",
+        "skill": "斯巴達斬",
         "types": [
             "攻擊所有目標",
             "法力削減",
@@ -107964,7 +108521,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-12-26",
-        "specialId": "spartan_cleave",
+        "specialId": "spartan_slash",
+        "parent_specialId": "spartan_cleave",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_warrior_king_costume_mage",
@@ -107981,7 +108539,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1542,
+        "originalIndex": 1543,
         "lb1": {
             "attack": 999,
             "defense": 1010,
@@ -108019,7 +108577,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "斯巴達披斬",
+        "skill": "公仔劈擊",
         "types": [
             "攻擊單個目標",
             "法力削減者",
@@ -108033,7 +108591,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-12-25",
-        "specialId": "spartan_cleave",
+        "specialId": "toon_cleave",
+        "parent_specialId": "spartan_cleave",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -108055,7 +108614,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1543,
+        "originalIndex": 1544,
         "lb1": {
             "attack": 1228,
             "defense": 1187,
@@ -108090,7 +108649,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "斯巴達披斬",
+        "skill": "玻璃劈擊",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -108105,7 +108664,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-02-11",
-        "specialId": "spartan_cleave",
+        "specialId": "glass_cleave",
+        "parent_specialId": "spartan_cleave",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -108127,7 +108687,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1544,
+        "originalIndex": 1545,
         "lb1": {
             "attack": 1441,
             "defense": 1301,
@@ -108202,7 +108762,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1545,
+        "originalIndex": 1546,
         "lb1": {
             "attack": 1045,
             "defense": 1165,
@@ -108278,7 +108838,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1546,
+        "originalIndex": 1547,
         "lb1": {
             "attack": 1383,
             "defense": 1356,
@@ -108357,7 +108917,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1547,
+        "originalIndex": 1548,
         "lb1": {
             "attack": 901,
             "defense": 943,
@@ -108430,7 +108990,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1548,
+        "originalIndex": 1549,
         "lb1": {
             "attack": 801,
             "defense": 785,
@@ -108498,7 +109058,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1549,
+        "originalIndex": 1550,
         "lb1": {
             "attack": 881,
             "defense": 888,
@@ -108575,7 +109135,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1550,
+        "originalIndex": 1551,
         "lb1": {
             "attack": 1154,
             "defense": 1165,
@@ -108649,7 +109209,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 1551,
+        "originalIndex": 1552,
         "lb1": {
             "attack": 1065,
             "defense": 1145,
@@ -108725,7 +109285,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1552,
+        "originalIndex": 1553,
         "lb1": {
             "attack": 1134,
             "defense": 1245,
@@ -108794,7 +109354,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1553,
+        "originalIndex": 1554,
         "lb1": {
             "attack": 832,
             "defense": 947,
@@ -108833,7 +109393,7 @@ window.allHeroes =
         "color": "黃",
         "class": "巫師",
         "speed": "中等",
-        "skill": "無解謎語",
+        "skill": "不可思議節奏",
         "types": [
             "攻擊所有目標",
             "法力削減",
@@ -108846,7 +109406,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-06-24",
-        "specialId": "impossible_riddle",
+        "specialId": "impossible_groove",
+        "parent_specialId": "impossible_riddle",
         "passiveSkills": [
             "sun_extra_special_damage_and_dot"
         ],
@@ -108875,7 +109436,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1554,
+        "originalIndex": 1555,
         "lb1": {
             "attack": 1287,
             "defense": 1310,
@@ -108953,7 +109514,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1555,
+        "originalIndex": 1556,
         "lb1": {
             "attack": 772,
             "defense": 885,
@@ -109022,7 +109583,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1556,
+        "originalIndex": 1557,
         "lb1": {
             "attack": 1112,
             "defense": 1298,
@@ -109100,7 +109661,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1557,
+        "originalIndex": 1558,
         "lb1": {
             "attack": 814,
             "defense": 854,
@@ -109169,7 +109730,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1558,
+        "originalIndex": 1559,
         "lb1": {
             "attack": 1376,
             "defense": 1327,
@@ -109245,7 +109806,7 @@ window.allHeroes =
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 1559,
+        "originalIndex": 1560,
         "lb1": {
             "attack": 1265,
             "defense": 1316,
@@ -109305,7 +109866,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 1560,
+        "originalIndex": 1561,
         "lb1": {
             "attack": 848,
             "defense": 732,
@@ -109338,7 +109899,7 @@ window.allHeroes =
         "color": "黃",
         "class": "野人",
         "speed": "快速",
-        "skill": "巨龍獠牙",
+        "skill": "自由之棒",
         "types": [
             "攻擊3個目標",
             "自我治療"
@@ -109352,7 +109913,8 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-10-02",
-        "specialId": "dragon_fang",
+        "specialId": "rod_of_freedom",
+        "parent_specialId": "dragon_fang",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "extra_special_dispel_newest"
@@ -109373,7 +109935,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 1561,
+        "originalIndex": 1562,
         "lb1": {
             "attack": 1065,
             "defense": 939,
@@ -109441,7 +110003,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1562,
+        "originalIndex": 1563,
         "lb1": {
             "attack": 792,
             "defense": 794,
@@ -109520,7 +110082,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1563,
+        "originalIndex": 1564,
         "lb1": {
             "attack": 945,
             "defense": 843,
@@ -109596,7 +110158,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1564,
+        "originalIndex": 1565,
         "lb1": {
             "attack": 1396,
             "defense": 1214,
@@ -109659,7 +110221,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 0,
-        "originalIndex": 1565,
+        "originalIndex": 1566,
         "lb1": {
             "attack": 830,
             "defense": 774,
@@ -109692,7 +110254,7 @@ window.allHeroes =
         "color": "黃",
         "class": "巫師",
         "speed": "中等",
-        "skill": "命運轉折",
+        "skill": "命運之怒",
         "types": [
             "攻擊3個目標"
         ],
@@ -109701,7 +110263,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-08-28",
-        "specialId": "twist_of_fate",
+        "specialId": "wrath_of_fate",
+        "parent_specialId": "twist_of_fate",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_norns_costume_puppeteers",
@@ -109717,7 +110280,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 1,
-        "originalIndex": 1566,
+        "originalIndex": 1567,
         "lb1": {
             "attack": 1145,
             "defense": 991,
@@ -109778,7 +110341,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1567,
+        "originalIndex": 1568,
         "lb1": {
             "attack": 821,
             "defense": 810,
@@ -109816,7 +110379,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "快速",
-        "skill": "格里米爾之怒",
+        "skill": "格里米爾盛怒",
         "types": [
             "攻擊所有目標",
             "法力生成增益"
@@ -109828,7 +110391,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-03-13",
-        "specialId": "fury_of_grimnir",
+        "specialId": "rage_of_grimnir",
+        "parent_specialId": "fury_of_grimnir",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_odin_costume_champion",
@@ -109845,7 +110409,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1568,
+        "originalIndex": 1569,
         "lb1": {
             "attack": 1031,
             "defense": 1054,
@@ -109918,7 +110482,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1569,
+        "originalIndex": 1570,
         "lb1": {
             "attack": 899,
             "defense": 861,
@@ -109990,7 +110554,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1570,
+        "originalIndex": 1571,
         "lb1": {
             "attack": 666,
             "defense": 879,
@@ -110056,7 +110620,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1571,
+        "originalIndex": 1572,
         "lb1": {
             "attack": 876,
             "defense": 883,
@@ -110099,7 +110663,7 @@ window.allHeroes =
         "color": "黃",
         "class": "騎士",
         "speed": "中等",
-        "skill": "召喚砂巨像",
+        "skill": "指揮砂巨像",
         "types": [
             "召喚者",
             "防禦增益"
@@ -110113,7 +110677,8 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-10-05",
-        "specialId": "summon_sand_golems",
+        "specialId": "command_sand_golems",
+        "parent_specialId": "summon_sand_golems",
         "passiveSkills": [
             "moon_extra_special_heal_and_add_mana"
         ],
@@ -110141,7 +110706,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1572,
+        "originalIndex": 1573,
         "lb1": {
             "attack": 1223,
             "defense": 1329,
@@ -110218,7 +110783,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1573,
+        "originalIndex": 1574,
         "lb1": {
             "attack": 896,
             "defense": 821,
@@ -110301,7 +110866,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1574,
+        "originalIndex": 1575,
         "lb1": {
             "attack": 1054,
             "defense": 1105,
@@ -110341,7 +110906,7 @@ window.allHeroes =
         "color": "黃",
         "class": "德魯伊",
         "speed": "潮汐",
-        "skill": "海洋遺跡",
+        "skill": "海洋腐朽",
         "types": [
             "增益偷取者",
             "攻擊單個目標",
@@ -110357,7 +110922,8 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-01-09",
-        "specialId": "oceans_ruin",
+        "specialId": "oceans_decay",
+        "parent_specialId": "oceans_ruin",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_stacking_mana_generation"
         ],
@@ -110390,7 +110956,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1575,
+        "originalIndex": 1576,
         "lb1": {
             "attack": 1363,
             "defense": 1400,
@@ -110468,7 +111034,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1576,
+        "originalIndex": 1577,
         "lb1": {
             "attack": 1252,
             "defense": 1278,
@@ -110546,7 +111112,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1577,
+        "originalIndex": 1578,
         "lb1": {
             "attack": 1351,
             "defense": 1201,
@@ -110614,7 +111180,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 1578,
+        "originalIndex": 1579,
         "lb1": {
             "attack": 803,
             "defense": 774,
@@ -110647,7 +111213,7 @@ window.allHeroes =
         "color": "黃",
         "class": "遊俠",
         "speed": "快速",
-        "skill": "海之統領",
+        "skill": "潮汐屠戮者",
         "types": [
             "攻擊單個目標",
             "全體狀態異常免疫"
@@ -110658,7 +111224,8 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2021-11-15",
-        "specialId": "ruler_of_seas",
+        "specialId": "oceanic_slayer",
+        "parent_specialId": "ruler_of_seas",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_poseidon_costume_slayer",
@@ -110674,7 +111241,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 1579,
+        "originalIndex": 1580,
         "lb1": {
             "attack": 990,
             "defense": 957,
@@ -110740,7 +111307,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1580,
+        "originalIndex": 1581,
         "lb1": {
             "attack": 803,
             "defense": 870,
@@ -110774,7 +111341,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "慢速",
-        "skill": "榮耀恩典",
+        "skill": "炫目閃光",
         "types": [
             "全體淨化",
             "生命值加成",
@@ -110787,7 +111354,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-04-27",
-        "specialId": "glorious_grace",
+        "specialId": "dazzling_gleam",
+        "parent_specialId": "glorious_grace",
         "passiveSkills": [
             "start_battle_with_mana"
         ],
@@ -110811,7 +111379,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1581,
+        "originalIndex": 1582,
         "lb1": {
             "attack": 1038,
             "defense": 1125,
@@ -110871,7 +111439,7 @@ window.allHeroes =
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1582,
+        "originalIndex": 1583,
         "lb1": {
             "attack": 859,
             "defense": 896,
@@ -110942,7 +111510,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1583,
+        "originalIndex": 1584,
         "lb1": {
             "attack": 792,
             "defense": 765,
@@ -110978,7 +111546,7 @@ window.allHeroes =
         "color": "黃",
         "class": "牧師",
         "speed": "中等",
-        "skill": "沙暴",
+        "skill": "浪湧正起",
         "types": [
             "攻擊3個目標",
             "3個目標持續傷害",
@@ -110993,7 +111561,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 海灘派對",
         "Release date": "2021-06-21",
-        "specialId": "queens_curse",
+        "specialId": "sand_wave_rana",
+        "parent_specialId": "queens_curse",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "sand_queen_costume_surfer",
@@ -111011,7 +111580,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1584,
+        "originalIndex": 1585,
         "lb1": {
             "attack": 1004,
             "defense": 979,
@@ -111080,7 +111649,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1585,
+        "originalIndex": 1586,
         "lb1": {
             "attack": 828,
             "defense": 843,
@@ -111149,7 +111718,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1586,
+        "originalIndex": 1587,
         "lb1": {
             "attack": 1338,
             "defense": 1385,
@@ -111216,7 +111785,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1587,
+        "originalIndex": 1588,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -111288,7 +111857,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1588,
+        "originalIndex": 1589,
         "lb1": {
             "attack": 821,
             "defense": 796,
@@ -111323,7 +111892,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "中等",
-        "skill": "狂沙旋風",
+        "skill": "海灘派對",
         "types": [
             "全體持續傷害",
             "全體防禦降低",
@@ -111336,7 +111905,8 @@ window.allHeroes =
         ],
         "source": "月活動 - 海灘派對",
         "Release date": "2022-05-16",
-        "specialId": "sand_cyclone",
+        "specialId": "beach_party",
+        "parent_specialId": "sand_cyclone",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "sand_roc_costume_juice",
@@ -111353,7 +111923,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1589,
+        "originalIndex": 1590,
         "lb1": {
             "attack": 1023,
             "defense": 1010,
@@ -111430,7 +112000,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1590,
+        "originalIndex": 1591,
         "lb1": {
             "attack": 1167,
             "defense": 1252,
@@ -111511,7 +112081,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1591,
+        "originalIndex": 1592,
         "lb1": {
             "attack": 1345,
             "defense": 1314,
@@ -111592,7 +112162,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1592,
+        "originalIndex": 1593,
         "lb1": {
             "attack": 1329,
             "defense": 1276,
@@ -111665,7 +112235,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1593,
+        "originalIndex": 1594,
         "lb1": {
             "attack": 1338,
             "defense": 1316,
@@ -111746,7 +112316,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1594,
+        "originalIndex": 1595,
         "lb1": {
             "attack": 1125,
             "defense": 1172,
@@ -111829,7 +112399,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1595,
+        "originalIndex": 1596,
         "lb1": {
             "attack": 976,
             "defense": 1107,
@@ -111916,7 +112486,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1596,
+        "originalIndex": 1597,
         "lb1": {
             "attack": 1440,
             "defense": 1367,
@@ -111991,7 +112561,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1597,
+        "originalIndex": 1598,
         "lb1": {
             "attack": 1136,
             "defense": 1238,
@@ -112059,7 +112629,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1598,
+        "originalIndex": 1599,
         "lb1": {
             "attack": 850,
             "defense": 772,
@@ -112089,7 +112659,7 @@ window.allHeroes =
         "color": "黃",
         "class": "牧師",
         "speed": "中等",
-        "skill": "織金者",
+        "skill": "金絲線",
         "types": [
             "法力提升",
             "反擊",
@@ -112103,7 +112673,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-08-29",
-        "specialId": "gold_weaver",
+        "specialId": "golden_thread",
+        "parent_specialId": "gold_weaver",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_sif_costume_golden",
@@ -112120,7 +112691,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1599,
+        "originalIndex": 1600,
         "lb1": {
             "attack": 1037,
             "defense": 1031,
@@ -112184,7 +112755,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1600,
+        "originalIndex": 1601,
         "lb1": {
             "attack": 1334,
             "defense": 1309,
@@ -112250,7 +112821,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1601,
+        "originalIndex": 1602,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -112319,7 +112890,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1602,
+        "originalIndex": 1603,
         "lb1": {
             "attack": 1209,
             "defense": 1165,
@@ -112402,7 +112973,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1603,
+        "originalIndex": 1604,
         "lb1": {
             "attack": 1474,
             "defense": 1249,
@@ -112472,7 +113043,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1604,
+        "originalIndex": 1605,
         "lb1": {
             "attack": 1090,
             "defense": 1156,
@@ -112545,7 +113116,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1605,
+        "originalIndex": 1606,
         "lb1": {
             "attack": 808,
             "defense": 792,
@@ -112578,7 +113149,7 @@ window.allHeroes =
         "color": "黃",
         "class": "騎士",
         "speed": "飛速",
-        "skill": "雷神鎚之力",
+        "skill": "雷神鎚能量",
         "types": [
             "攻擊所有目標",
             "致盲"
@@ -112589,7 +113160,8 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-12-19",
-        "specialId": "power_of_mjolnir",
+        "specialId": "energy_of_mjolnir",
+        "parent_specialId": "power_of_mjolnir",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_thor_costume_conduit",
@@ -112613,7 +113185,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1606,
+        "originalIndex": 1607,
         "lb1": {
             "attack": 1008,
             "defense": 1020,
@@ -112684,7 +113256,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1607,
+        "originalIndex": 1608,
         "lb1": {
             "attack": 927,
             "defense": 941,
@@ -112761,7 +113333,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1608,
+        "originalIndex": 1609,
         "lb1": {
             "attack": 1258,
             "defense": 1147,
@@ -112834,7 +113406,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1609,
+        "originalIndex": 1610,
         "lb1": {
             "attack": 885,
             "defense": 759,
@@ -112911,7 +113483,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1610,
+        "originalIndex": 1611,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -112992,7 +113564,7 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1611,
+        "originalIndex": 1612,
         "lb1": {
             "attack": 1367,
             "defense": 1427,
@@ -113078,7 +113650,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1612,
+        "originalIndex": 1613,
         "lb1": {
             "attack": 1012,
             "defense": 1018,
@@ -113120,7 +113692,7 @@ window.allHeroes =
         "color": "黃",
         "class": "巫師",
         "speed": "魔法",
-        "skill": "神聖兵卒",
+        "skill": "神聖外殼",
         "types": [
             "全體持續治療",
             "全體攻擊增益",
@@ -113141,7 +113713,8 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2025-08-20",
-        "specialId": "pawns_of_divinity",
+        "specialId": "crust_of_divinity",
+        "parent_specialId": "pawns_of_divinity",
         "passiveSkills": [
             "magic_mana_regen_stack_on_special_costume",
             "magic_add_mana_on_full_charge_costume"
@@ -113174,7 +113747,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1613,
+        "originalIndex": 1614,
         "lb1": {
             "attack": 1336,
             "defense": 1353,
@@ -113246,7 +113819,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1614,
+        "originalIndex": 1615,
         "lb1": {
             "attack": 770,
             "defense": 748,
@@ -113284,7 +113857,7 @@ window.allHeroes =
         "color": "黃",
         "class": "術士",
         "speed": "慢速",
-        "skill": "群體恢復",
+        "skill": "群體治療",
         "types": [
             "治療者",
             "防禦降低",
@@ -113297,7 +113870,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
-        "specialId": "omniheal",
+        "specialId": "omnicure",
+        "parent_specialId": "omniheal",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_mystic_costume_magician",
@@ -113314,7 +113888,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1615,
+        "originalIndex": 1616,
         "lb1": {
             "attack": 860,
             "defense": 852,
@@ -113352,7 +113926,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "群體恢復",
+        "skill": "全方位修補",
         "types": [
             "治療者",
             "攻擊降低",
@@ -113365,7 +113939,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-09-05",
-        "specialId": "omniheal",
+        "specialId": "omnimend",
+        "parent_specialId": "omniheal",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_mystic_costume_scribe",
@@ -113382,7 +113957,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1616,
+        "originalIndex": 1617,
         "lb1": {
             "attack": 967,
             "defense": 976,
@@ -113420,7 +113995,7 @@ window.allHeroes =
         "color": "黃",
         "class": "牧師",
         "speed": "慢速",
-        "skill": "群體恢復",
+        "skill": "療愈公仔",
         "types": [
             "治療者",
             "防禦增益",
@@ -113433,7 +114008,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-10-30",
-        "specialId": "omniheal",
+        "specialId": "adorable_heal",
+        "parent_specialId": "omniheal",
         "passiveSkills": [
             "toon_resist_debuffs_manareduction_dispels"
         ],
@@ -113454,7 +114030,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1617,
+        "originalIndex": 1618,
         "lb1": {
             "attack": 1187,
             "defense": 1197,
@@ -113492,7 +114068,7 @@ window.allHeroes =
         "color": "黃",
         "class": "牧師",
         "speed": "慢速",
-        "skill": "群體恢復",
+        "skill": "玻璃治療",
         "types": [
             "全體治療",
             "全體防禦增益",
@@ -113507,7 +114083,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-12-25",
-        "specialId": "omniheal",
+        "specialId": "glass_heal",
+        "parent_specialId": "omniheal",
         "passiveSkills": [
             "glass_reflect_debuffs"
         ],
@@ -113529,7 +114106,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1618,
+        "originalIndex": 1619,
         "lb1": {
             "attack": 1336,
             "defense": 1355,
@@ -113568,7 +114145,7 @@ window.allHeroes =
         "color": "黃",
         "class": "牧師",
         "speed": "慢速",
-        "skill": "群體恢復",
+        "skill": "有型治療",
         "types": [
             "全體治療",
             "全體防禦增益",
@@ -113581,7 +114158,8 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2026-01-07",
-        "specialId": "omniheal",
+        "specialId": "stylish_heal",
+        "parent_specialId": "omniheal",
         "passiveSkills": [
             "stylish"
         ],
@@ -113602,7 +114180,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1619,
+        "originalIndex": 1620,
         "lb1": {
             "attack": 1408,
             "defense": 1437,
@@ -113671,7 +114249,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1620,
+        "originalIndex": 1621,
         "lb1": {
             "attack": 1276,
             "defense": 1207,
@@ -113714,7 +114292,7 @@ window.allHeroes =
         "types": [
             "治療者",
             "全體強化持續治療",
-            "單體增益之源"
+            "隨機1個增益來源"
         ],
         "skill_types": [
             "治療",
@@ -113752,7 +114330,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1621,
+        "originalIndex": 1622,
         "lb1": {
             "attack": 1198,
             "defense": 1332,
@@ -113834,7 +114412,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1622,
+        "originalIndex": 1623,
         "lb1": {
             "attack": 1391,
             "defense": 1414,
@@ -113900,7 +114478,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1623,
+        "originalIndex": 1624,
         "lb1": {
             "attack": 788,
             "defense": 808,
@@ -113933,7 +114511,7 @@ window.allHeroes =
         "color": "黃",
         "class": "巫師",
         "speed": "快速",
-        "skill": "兔子瞪眼",
+        "skill": "宇宙鐘",
         "types": [
             "攻擊3個目標",
             "防禦降低"
@@ -113944,7 +114522,8 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2022-02-17",
-        "specialId": "rabbits_watch",
+        "specialId": "cosmic_clock",
+        "parent_specialId": "rabbits_watch",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "possession_on_special"
@@ -113964,7 +114543,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 1624,
+        "originalIndex": 1625,
         "lb1": {
             "attack": 1014,
             "defense": 998,
@@ -114048,7 +114627,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1625,
+        "originalIndex": 1626,
         "lb1": {
             "attack": 896,
             "defense": 970,
@@ -114130,7 +114709,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1626,
+        "originalIndex": 1627,
         "lb1": {
             "attack": 1036,
             "defense": 1132,
@@ -114199,7 +114778,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1627,
+        "originalIndex": 1628,
         "lb1": {
             "attack": 828,
             "defense": 845,
@@ -114234,7 +114813,7 @@ window.allHeroes =
         "color": "黃",
         "class": "騎士",
         "speed": "中等",
-        "skill": "司令手套",
+        "skill": "金手套",
         "types": [
             "攻擊所有目標",
             "單體傷害減免",
@@ -114248,7 +114827,8 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-12-17",
-        "specialId": "commanders_gauntlet",
+        "specialId": "gold_gauntlet",
+        "parent_specialId": "commanders_gauntlet",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "increase_cast_status_effect_duration"
@@ -114271,7 +114851,7 @@ window.allHeroes =
         ],
         "family": "wolf",
         "costume_id": 1,
-        "originalIndex": 1628,
+        "originalIndex": 1629,
         "lb1": {
             "attack": 1222,
             "defense": 1258,
@@ -114351,7 +114931,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1629,
+        "originalIndex": 1630,
         "lb1": {
             "attack": 1354,
             "defense": 1418,
@@ -114420,7 +115000,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1630,
+        "originalIndex": 1631,
         "lb1": {
             "attack": 1305,
             "defense": 1256,
@@ -114497,7 +115077,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1631,
+        "originalIndex": 1632,
         "lb1": {
             "attack": 1025,
             "defense": 956,
@@ -114567,7 +115147,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1632,
+        "originalIndex": 1633,
         "lb1": {
             "attack": 879,
             "defense": 947,
@@ -114601,7 +115181,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "非常慢",
-        "skill": "堅定奉獻",
+        "skill": "宇宙奉獻",
         "types": [
             "攻擊所有目標",
             "復活者"
@@ -114613,7 +115193,8 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2025-11-10",
-        "specialId": "unwavering_devotion",
+        "specialId": "cosmic_devotion",
+        "parent_specialId": "unwavering_devotion",
         "passiveSkills": [
             "strong_troop_damage_modifier_costume"
         ],
@@ -114640,7 +115221,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1633,
+        "originalIndex": 1634,
         "lb1": {
             "attack": 1296,
             "defense": 1374,
@@ -114721,7 +115302,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1634,
+        "originalIndex": 1635,
         "lb1": {
             "attack": 1398,
             "defense": 1258,
@@ -114790,7 +115371,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1635,
+        "originalIndex": 1636,
         "lb1": {
             "attack": 863,
             "defense": 814,
@@ -114829,7 +115410,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "快速",
-        "skill": "迅捷刺針",
+        "skill": "銳利刺針",
         "types": [
             "攻擊單個目標",
             "彈射",
@@ -114843,7 +115424,8 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-06-20",
-        "specialId": "swift_stingers",
+        "specialId": "sharp_stingers",
+        "parent_specialId": "swift_stingers",
         "passiveSkills": [
             "increase_buff_duration"
         ],
@@ -114866,7 +115448,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1636,
+        "originalIndex": 1637,
         "lb1": {
             "attack": 1128,
             "defense": 1044,
@@ -114940,7 +115522,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1637,
+        "originalIndex": 1638,
         "lb1": {
             "attack": 1070,
             "defense": 1078,
@@ -115004,7 +115586,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1638,
+        "originalIndex": 1639,
         "lb1": {
             "attack": 923,
             "defense": 816,
@@ -115037,7 +115619,7 @@ window.allHeroes =
         "color": "黃",
         "class": "野人",
         "speed": "快速",
-        "skill": "丈八蛇矛",
+        "skill": "熊之刃",
         "types": [
             "攻擊單個目標",
             "單體持續傷害",
@@ -115050,7 +115632,8 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2024-10-29",
-        "specialId": "viper_blade",
+        "specialId": "viper_blade_costume_bear_slayer",
+        "parent_specialId": "viper_blade",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "kingdom_unstoppable_minions"
@@ -115074,7 +115657,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1639,
+        "originalIndex": 1640,
         "lb1": {
             "attack": 1288,
             "defense": 1072,
@@ -115143,7 +115726,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1640,
+        "originalIndex": 1641,
         "lb1": {
             "attack": 765,
             "defense": 947,
@@ -115177,7 +115760,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "慢速",
-        "skill": "軍法妙招",
+        "skill": "致勝策略",
         "types": [
             "全體反擊小兵召喚者",
             "召喚所有惡魔"
@@ -115190,7 +115773,8 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2024-05-28",
-        "specialId": "martial_masterstroke",
+        "specialId": "triumph_of_strategy",
+        "parent_specialId": "martial_masterstroke",
         "passiveSkills": null,
         "costumeBonusPassiveSkillIds": [
             "kingdom_unstoppable_minions"
@@ -115215,7 +115799,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1641,
+        "originalIndex": 1642,
         "lb1": {
             "attack": 1024,
             "defense": 1282,
@@ -115285,7 +115869,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1642,
+        "originalIndex": 1643,
         "lb1": {
             "attack": 939,
             "defense": 1076,
@@ -115339,7 +115923,7 @@ window.allHeroes =
         "passives": [],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1643,
+        "originalIndex": 1644,
         "cn_skill_info": []
     },
     {
@@ -115365,7 +115949,7 @@ window.allHeroes =
         "passives": [],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1644,
+        "originalIndex": 1645,
         "cn_skill_info": []
     },
     {
@@ -115391,32 +115975,6 @@ window.allHeroes =
         "passives": [],
         "family": "musketeer",
         "costume_id": 1,
-        "originalIndex": 1645,
-        "cn_skill_info": []
-    },
-    {
-        "name": "荷耶 (Hygd)",
-        "fancy_name": "耶阿特女王",
-        "AetherPower": "",
-        "color": "紫",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "beowulf_hygd",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "beowulf",
-        "costume_id": 0,
         "originalIndex": 1646,
         "cn_skill_info": []
     },

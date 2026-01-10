@@ -43001,5 +43001,32 @@ window.allHeroesExtra = [
         "healthBonus": "85%",
         "manaBonus": "5%",
         "family": "classic"
+    },
+    {
+        "name": "Hygd",
+        "fancy name": "Queen of the Geats",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
+        "Release date": "2026-01-09",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "Cleansers",
+            "Healers",
+            "Buffers (DEF)",
+            "Healers (Special)"
+        ],
+        "heroId": "beowulf_hygd",
+        "baseAttack": 627,
+        "baseDefense": 649,
+        "baseHealth": 1110,
+        "specialId": "generous_gifts",
+        "passiveSkills": [
+            "resist_buff_immunity",
+            "resist_mana_reductions_with_health_boost_and_mana",
+            "mana_on_buff"
+        ],
+        "family": "beowulf"
     }
 ];

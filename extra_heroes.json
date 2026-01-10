@@ -35,17 +35,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Hygd",
-        "fancy_name": "Queen of the Geats",
-        "color": "Purple",
-        "Release date": "",
-        "star": 5,
-        "family": "beowulf",
-        "costume_id": 0,
-        "heroId": "beowulf_hygd",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Hu Sanniang",
         "fancy_name": "Bright Star of Water Margin",
         "color": "Purple",

@@ -749,7 +749,8 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                     
                     common_data_c = {
                         'Release date': extra_c.get('Release date', ''), 
-                        'specialId': extra_c.get('specialId', ''),
+                        'specialId': extra_c.get('specialId_costume', ''),
+                        'parent_specialId': extra_c.get('specialId', ''),
                         'passiveSkills': extra_c.get('passiveSkills', ''),
                         'costumeBonusPassiveSkillIds': extra_c.get('costumeBonusPassiveSkillIds', ''),
                         'heroId': extra_c.get('heroId', ''),
@@ -829,7 +830,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                         hero_entry_c = {
                             'name': name_trans_c[lang], 'fancy_name': fancy_name_trans_c[lang], 'AetherPower': aether_power_trans_c[lang],
                             'color': color_trans[lang], 'class': class_trans_c[lang], 'speed': speed_trans[lang],
-                            'skill': get_skill_name(extra_c.get('specialId'),lang), 'types': types_trans_c[lang], 'skill_types': skill_types_trans_c[lang],
+                            'skill': get_skill_name(extra_c.get('specialId_costume'),lang), 'types': types_trans_c[lang], 'skill_types': skill_types_trans_c[lang],
                             'source': source_trans_c[lang], **common_data_c, **lb_data_c
                         }
                         if cn_skill_info_for_costume:
