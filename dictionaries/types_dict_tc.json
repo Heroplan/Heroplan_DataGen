@@ -992,5 +992,6 @@
   "Defense Buffs Immunity All": "全體防禦增益免疫",
   "SS Defense Debuff All Fire": "全體火屬性特殊技能防禦減益",
   "Source of Ailments Random 1": "隨機1個狀態異常來源",
-  "Source of Buffs All": "全體增益來源"
+  "Source of Buffs All": "全體增益來源",
+  "Delayed Paralyze on hit": "命中時延遲麻痺"
 }

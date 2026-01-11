@@ -9,7 +9,7 @@
         "source": "mimic",
         "costume_id": 0,
         "heroId": "mimic_experience_rare_red",
-        "Lottery_Only":1
+        "Lottery_Only": 1
     },
     {
         "name": "Ascension Mimic Epic Holy",
@@ -21,7 +21,7 @@
         "source": "mimic",
         "costume_id": 0,
         "heroId": "mimic_ascension_epic_yellow",
-        "Lottery_Only":1
+        "Lottery_Only": 1
     },
     {
         "name": "Porthos C1",
@@ -112,17 +112,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Wilcox",
-        "fancy_name": "Hotshot Physicist",
-        "color": "Red",
-        "Release date": "",
-        "star": 5,
-        "family": "institute",
-        "costume_id": 0,
-        "heroId": "institute_wilcox",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Zarola C1",
         "fancy_name": "Cupid of Lone Rangers",
         "color": "Green",
@@ -186,6 +175,39 @@
         "family": "construct",
         "costume_id": 0,
         "heroId": "construct_zavok",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Elkanen Stylish",
+        "fancy_name": "Stylish Spearmaster",
+        "color": "Green",
+        "Release date": "",
+        "star": 5,
+        "family": "classic",
+        "costume_id": 5,
+        "heroId": "forest_male_elf_costume_stylish",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Obakan Stylish",
+        "fancy_name": "Stylish Bodyguard",
+        "color": "Purple",
+        "Release date": "",
+        "star": 5,
+        "family": "classic",
+        "costume_id": 5,
+        "heroId": "underworld_champion_costume_stylish",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Caedmon Stylish",
+        "fancy_name": "Stylish Elf",
+        "color": "Green",
+        "Release date": "",
+        "star": 4,
+        "family": "classic",
+        "costume_id": 5,
+        "heroId": "elven_captain_costume_stylish",
         "Lottery_Only": 1
     }
 ]

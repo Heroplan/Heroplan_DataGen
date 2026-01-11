@@ -992,5 +992,6 @@
   "Defense Buffs Immunity All": "全体防御增益免疫",
   "SS Defense Debuff All Fire": "全体火属性特殊技能防御减益",
   "Source of Ailments Random 1": "随机1个状态异常来源",
-  "Source of Buffs All": "全体增益来源"
+  "Source of Buffs All": "全体增益来源",
+  "Delayed Paralyze on hit": "命中时延迟麻木"
 }

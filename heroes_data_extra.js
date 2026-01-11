@@ -43028,5 +43028,31 @@ window.allHeroesExtra = [
             "mana_on_buff"
         ],
         "family": "beowulf"
+    },
+    {
+        "name": "Wilcox",
+        "fancy name": "Hotshot Physicist",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
+        "Release date": "2026-01-11",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "Snipers",
+            "Chain & Random Attackers",
+            "Sleepweavers",
+            "Mindless Attack & Mindless Heal",
+            "Negative Effects On Self Or Allies"
+        ],
+        "heroId": "institute_wilcox",
+        "baseAttack": 679,
+        "baseDefense": 586,
+        "baseHealth": 1057,
+        "specialId": "volatile_crystal_conduit",
+        "passiveSkills": [
+            "revive_in_alternative_form_with_insanity_chance"
+        ],
+        "family": "institute"
     }
 ];

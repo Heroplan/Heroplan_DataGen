@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+import subprocess
+import sys
 import os
 import re
 import math
@@ -149,6 +151,47 @@ SPECIAL_COSTUME_HEROES = {
 }
 
 IGNORABLE_SUFFIXES = {'dark', 'holy', 'ice', 'nature', 'fire', 'red'}
+# 新增全局变量
+HERO_NAME_TO_ID_MAP = {}
+HERO_ID_TO_FANCY_MAP = {}
+
+def load_hero_name_mappings():
+    """从txt文件加载英雄名称到ID和fancy name的映射"""
+    global HERO_NAME_TO_ID_MAP, HERO_ID_TO_FANCY_MAP
+    
+    # 加载英雄名称到ID的映射
+    heroes_name_en_file = './dict_gen/官方语言字典生成/generated_txt/heroes_name_en.txt'
+    if os.path.exists(heroes_name_en_file):
+        with open(heroes_name_en_file, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if line and ',' in line:
+                    key, value = line.split(',', 1)
+                    key = key.strip().strip('"')
+                    value = value.strip().strip('"')
+                    # key格式: "heroes.name.institute_wilcox"
+                    hero_id = key.split('.')[-1]  # 提取institute_wilcox
+                    HERO_NAME_TO_ID_MAP[value] = hero_id  # Wilcox -> institute_wilcox
+        print(f"✅ 已加载 {len(HERO_NAME_TO_ID_MAP)} 条英雄名称到ID的映射")
+    else:
+        print(f"❌ 未找到英雄名称映射文件: {heroes_name_en_file}")
+    
+    # 加载英雄ID到fancy name的映射
+    heroes_name_fancy_en_file = './dict_gen/官方语言字典生成/generated_txt/heroes_name_fancy_en.txt'
+    if os.path.exists(heroes_name_fancy_en_file):
+        with open(heroes_name_fancy_en_file, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if line and ',' in line:
+                    key, value = line.split(',', 1)
+                    key = key.strip().strip('"')
+                    value = value.strip().strip('"')
+                    # key格式: "heroes.name_fancy.institute_wilcox"
+                    hero_id = key.split('.')[-1]  # 提取institute_wilcox
+                    HERO_ID_TO_FANCY_MAP[hero_id] = value  # institute_wilcox -> Hotshot Physicist
+        print(f"✅ 已加载 {len(HERO_ID_TO_FANCY_MAP)} 条英雄ID到fancy name的映射")
+    else:
+        print(f"❌ 未找到英雄fancy名称映射文件: {heroes_name_fancy_en_file}")
 
 # --- 新增：百分比解析函数 ---
 def parse_percentage(val):
@@ -957,10 +1000,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
     return missing_extra_info, missing_cn_skill_info
 
 def append_missing_heroes_to_extra_data(missing_heroes_list, file_path):
-    """
-    当检测到有英雄缺少额外数据时，自动生成包含element和rarity的空白条目，
-    并追加到 heroes_data_extra.js 文件中。
-    """
+    """当检测到有英雄缺少额外数据时，自动生成包含完整信息的条目"""
     if not missing_heroes_list:
         logging.info("没有在 heroes_data_extra.js 中检测到缺失的英雄数据。")
         return
@@ -988,21 +1028,39 @@ def append_missing_heroes_to_extra_data(missing_heroes_list, file_path):
 
     blank_entries = []
     processed_names_this_run = set()
+    
     for hero_info in missing_heroes_list:
         name = hero_info.get("name")
         if not name or name in existing_names or name in processed_names_this_run:
             continue
         
         processed_names_this_run.add(name)
+        
+        # 从映射中查找英雄ID和fancy name
+        hero_id = HERO_NAME_TO_ID_MAP.get(name)
+        fancy_name = HERO_ID_TO_FANCY_MAP.get(hero_id) if hero_id else ""
+        
+        if not hero_id:
+            logging.warning(f"未找到英雄 '{name}' 的ID映射，使用默认处理")
+            hero_id = ""
+        
+        if not fancy_name:
+            logging.warning(f"未找到英雄ID '{hero_id}' 的fancy name映射")
+            fancy_name = ""
+        
         blank_entries.append({
             "name": name,
-            "fancy name": "",
+            "fancy name": fancy_name,
             "element": hero_info.get("color", "").capitalize(),
             "rarity": hero_info.get("star", 0),
             "Release date": "",
             "AetherPower": "",
-            "skill_types": []
+            "skill_types": [],
+            "heroId": hero_id  # 添加heroId字段
         })
+        
+        # 同时添加到extra_heroes.json
+        add_to_extra_heroes_json(name, fancy_name, hero_info, hero_id)
 
     if not blank_entries:
         logging.info(f"文件 '{file_path}' 已包含所有检测到的缺失英雄，无需更新。")
@@ -1014,11 +1072,48 @@ def append_missing_heroes_to_extra_data(missing_heroes_list, file_path):
         with open(file_path, 'w', encoding='utf-8') as f:
             json_string = json.dumps(updated_data, indent=4, ensure_ascii=False)
             f.write(f"window.allHeroesExtra = {json_string};")
-        print(f"成功！已将 {len(blank_entries)} 个新的空白英雄条目追加到 '{file_path}'。")
-        logging.info(f"成功！已将 {len(blank_entries)} 个新的空白英雄条目追加到 '{file_path}'。")
+        print(f"成功！已将 {len(blank_entries)} 个新的完整英雄条目追加到 '{file_path}'。")
+        logging.info(f"成功！已将 {len(blank_entries)} 个新的完整英雄条目追加到 '{file_path}'。")
     except Exception as e:
         logging.error(f"写入更新后的数据到 '{file_path}' 时失败: {e}")
 
+def add_to_extra_heroes_json(name, fancy_name, hero_info, hero_id):
+    """将缺失的英雄添加到extra_heroes.json"""
+    extra_heroes_path = EXTRA_HEROES_JSON_FILE
+    
+    # 加载现有的extra_heroes.json
+    existing_extra_heroes = []
+    if os.path.exists(extra_heroes_path):
+        try:
+            with open(extra_heroes_path, 'r', encoding='utf-8') as f:
+                existing_extra_heroes = json.load(f)
+        except Exception as e:
+            logging.error(f"加载 '{extra_heroes_path}' 时出错: {e}")
+            existing_extra_heroes = []
+    
+    # 检查是否已存在
+    if any(hero.get('name') == name for hero in existing_extra_heroes):
+        logging.info(f"英雄 '{name}' 已存在于 {extra_heroes_path}，跳过添加")
+        return
+    
+    # 添加新条目
+    new_entry = {
+        "name": name,
+        "fancy_name": fancy_name,
+        "color": hero_info.get("color", ""),
+        "Release date": "",
+        "star": hero_info.get("star", 5),
+        "heroId": hero_id,
+    }
+    
+    existing_extra_heroes.append(new_entry)
+    
+    try:
+        with open(extra_heroes_path, 'w', encoding='utf-8') as f:
+            json.dump(existing_extra_heroes, f, ensure_ascii=False, indent=4)
+        print(f"成功！已将 '{name}' 添加到 {extra_heroes_path}。")
+    except Exception as e:
+        logging.error(f"写入 '{extra_heroes_path}' 时失败: {e}")
 
 def append_missing_heroes_to_cn_skill_data(missing_names_list, file_path):
     """
@@ -1087,41 +1182,140 @@ def append_missing_heroes_to_cn_skill_data(missing_names_list, file_path):
         logging.info(f"无需向 '{file_path}' 追加新条目，文件已是最新。")
 
 
-if __name__ == '__main__':
+# ===================== 配置区域 =====================
+MAX_AUTO_RERUN = 2  # 最大重试次数（包括第一次运行）
+
+def run_update_hero_base_info():
+    """运行1.2更新英雄基础信息.py，使用--auto参数跳过交互"""
+    try:
+        subprocess.check_call([sys.executable, "1.2更新英雄基础信息.py", "--auto"])
+        return True
+    except Exception as e:
+        print(f"❌ 运行 1.2更新英雄基础信息.py 时出错: {e}")
+        return False
+
+def load_heroes_data_extra_json():
+    """从heroes_data_extra.js加载数据"""
+    with open(HEROES_DATA_EXTRA_FILE, "r", encoding="utf-8") as f:
+        js = f.read()
+    m = re.search(r'=\s*(\[[\s\S]*?\])\s*;', js)
+    if not m:
+        return []
+    return json.loads(re.sub(r',\s*([\]}])', r'\1', m.group(1)))
+
+def auto_clean_extra_heroes(extra_heroes_path):
+    """清理extra_heroes.json，移除已处理的英雄"""
+    if not os.path.exists(extra_heroes_path):
+        return
+    
+    with open(extra_heroes_path, encoding="utf-8") as f:
+        extra = json.load(f)
+
+    updated = load_heroes_data_extra_json()
+    hero_ids = {h.get("heroId") for h in updated if h.get("heroId")}
+
+    cleaned = [h for h in extra if h.get("heroId") not in hero_ids]
+
+    if len(cleaned) != len(extra):
+        with open(extra_heroes_path, "w", encoding="utf-8") as f:
+            json.dump(cleaned, f, ensure_ascii=False, indent=4)
+        print(f"✅ 已清理 {len(extra) - len(cleaned)} 个已处理的英雄条目")
+
+def run_single_generation():
+    """单次运行生成流程"""
+    # 重新加载数据
+    load_heroes_data_extra()
+    load_heroes_data_extra_cn()
+    
+    # 生成JS文件
+    missing_extra, missing_cn_info = generate_js_data_with_translation(
+        HEROES_DATA_DIR, 
+        OUTPUT_JS_FILE_CN, 
+        OUTPUT_JS_FILE_TC, 
+        OUTPUT_JS_FILE_EN
+    )
+    
+    return missing_extra, missing_cn_info
+
+def main():
+    """主函数，包含重试逻辑"""
     setup_logging()
     
-    # 必须先加载额外数据，因为计算属性需要用到
+    # 新增：加载英雄名称映射
+    load_hero_name_mappings()
+    
+    # 初始加载数据
     load_heroes_data_extra()
     load_heroes_data_extra_cn() 
     load_all_dictionaries(DICTIONARY_DIR) 
     load_skill_name_txt_dict()
 
-    if os.path.isdir(HEROES_DATA_DIR):
+    rerun_count = 0
+    need_rerun = False
+    
+    while rerun_count < MAX_AUTO_RERUN:
+        print(f"\n=== 第 {rerun_count + 1} 次运行 ===")
+        
+        if rerun_count > 0:
+            # 重新加载数据（对于重试运行）
+            load_heroes_data_extra()
+            load_heroes_data_extra_cn()
+        
+        # 生成JS数据
         missing_extra, missing_cn_info = generate_js_data_with_translation(
             HEROES_DATA_DIR, 
             OUTPUT_JS_FILE_CN, 
             OUTPUT_JS_FILE_TC, 
             OUTPUT_JS_FILE_EN
         )
+        
         failure_log_path = os.path.join('logs', 'translation_failures.log')
         if os.path.exists(failure_log_path) and os.path.getsize(failure_log_path) > 0:
             print(f"\n警告: 检测到翻译失败。详情请查看日志文件: {failure_log_path}")
         
+        # 处理缺失数据
         if missing_extra:
             logging.warning("\n--- 以下英雄未找到 heroes_data_extra.js 中的额外数据 ---")
             for info in missing_extra:
                 logging.warning(f"缺失额外数据的英雄: {info}")
+            
+            # 自动追加缺失英雄
             append_missing_heroes_to_extra_data(missing_extra, HEROES_DATA_EXTRA_FILE)
-            print(f"\n请注意: {HEROES_DATA_EXTRA_FILE} 已更新。")
-            print("建议重新运行此脚本，以确保所有数据（包括刚刚添加的）都被正确加载和处理。")
+            need_rerun = True
         
         if missing_cn_info:
             logging.warning(f"\n--- 发现 {len(set(missing_cn_info))} 个3-5星英雄在 {HEROES_DATA_EXTRA_CN_FILE} 中缺少数据 ---")
             append_missing_heroes_to_cn_skill_data(missing_cn_info, HEROES_DATA_EXTRA_CN_FILE)
-            print(f"\n请注意: {HEROES_DATA_EXTRA_CN_FILE} 已更新。")
-            print("建议重新运行此脚本，以确保所有数据（包括刚刚添加的）都被正确加载和处理。")
+            need_rerun = True
+        
+        # 检查是否需要重试
+        if not need_rerun or rerun_count >= MAX_AUTO_RERUN - 1:
+            break
+            
+        # 执行修复流程
+        print("\n--- 检测到新添加的英雄，开始自动修复流程 ---")
+        
+        # 运行1.2更新脚本
+        print("第1步：运行 1.2更新英雄基础信息.py...")
+        if not run_update_hero_base_info():
+            print("❌ 修复流程中断")
+            break
+            
+        # 清理extra_heroes.json
+        print("第2步：清理 extra_heroes.json...")
+        auto_clean_extra_heroes(EXTRA_HEROES_JSON_FILE)
+        
+        rerun_count += 1
+        need_rerun = False  # 重置标志
+    
+    print("🎉 自动化流程完成！")
 
-    else:
+if __name__ == '__main__':
+    if not os.path.isdir(HEROES_DATA_DIR):
         logging.critical(f"错误: 英雄数据目录不存在: '{HEROES_DATA_DIR}'")
         print(f"错误: 英雄数据目录不存在: '{HEROES_DATA_DIR}'")
+        input("\n按任意键退出...")
+        sys.exit(1)
+    
+    main()
     input("\n按任意键退出...")

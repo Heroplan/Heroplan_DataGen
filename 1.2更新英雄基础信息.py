@@ -492,4 +492,9 @@ if __name__ == "__main__":
     else:
         print("\n由于核心数据文件加载失败，程序已终止。")
     
-    input("\n按任意键退出...")
+    # 检查是否有 --auto 参数
+    AUTO_MODE = '--auto' in sys.argv
+
+    # 在脚本末尾替换 input() 调用
+    if not AUTO_MODE:
+        input("\n按任意键继续...")
