@@ -6,17 +6,22 @@ from urllib.parse import urlparse
 from datetime import datetime
 import time
 import shutil
-from PIL import Image # <-- 新增：用于图像处理和格式转换
+from PIL import Image
+# 新增：关闭 TLS 验证的警告
+import urllib3
+
+# 禁用 requests 因 verify=False 产生的 InsecureRequestWarning 警告
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # --- 全局配置区域 ---
 
 # 网站配置
 MAX_RETRIES = 5
-RETRY_DELAY = 2 # 重试间隔（秒）
+RETRY_DELAY = 2  # 重试间隔（秒）
 
 # 转换与目标配置
 # WEBP_CONVERTER_EXE 已移除
-TARGET_DIR_RELATIVE = os.path.join("..", "Heroplan.github.io") 
+TARGET_DIR_RELATIVE = os.path.join("..", "Heroplan.github.io")
 
 # 动态生成年月代码 (例如: 202512)
 now = datetime.now()
@@ -62,7 +67,8 @@ def get_target_image_url(page_url):
     
     for attempt in range(MAX_RETRIES):
         try:
-            resp = requests.get(page_url, headers=headers, timeout=15)
+            # 关键修改1：添加 verify=False 跳过 TLS 验证
+            resp = requests.get(page_url, headers=headers, timeout=15, verify=False)
             resp.raise_for_status()
 
             soup = BeautifulSoup(resp.text, 'html.parser')
@@ -91,7 +97,8 @@ def download_file(img_url, save_path):
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
     for attempt in range(MAX_RETRIES):
         try:
-            r = requests.get(img_url, headers=headers, stream=True, timeout=30)
+            # 关键修改2：添加 verify=False 跳过 TLS 验证
+            r = requests.get(img_url, headers=headers, stream=True, timeout=30, verify=False)
             r.raise_for_status()
             with open(save_path, 'wb') as f:
                 for chunk in r.iter_content(chunk_size=8192):
@@ -112,7 +119,7 @@ def post_process_file(local_filename_png):
     """
     使用 Pillow 库将文件转换为 WEBP 格式，删除原件（无保留原件），并移动到目标文件夹。
     """
-    base_name, _ = os.path.splitext(local_filename_png) 
+    base_name, _ = os.path.splitext(local_filename_png)
     webp_filename = base_name + '.webp'
     source_webp_path = webp_filename
     target_webp_path = os.path.join(TARGET_DIR_RELATIVE, webp_filename)
@@ -124,7 +131,7 @@ def post_process_file(local_filename_png):
         img = Image.open(local_filename_png)
         
         # 保存为 WEBP 格式。quality=85 是一个很好的平衡质量和文件大小的设置。
-        img.save(source_webp_path, format='webp', quality=85) 
+        img.save(source_webp_path, format='webp', quality=85)
         
         print(f" -> WEBP 转换成功，已生成文件: {source_webp_path}")
         

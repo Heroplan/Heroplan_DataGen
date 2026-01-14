@@ -35,17 +35,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Hu Sanniang",
-        "fancy_name": "Bright Star of Water Margin",
-        "color": "Purple",
-        "Release date": "",
-        "star": 5,
-        "family": "outlaw",
-        "costume_id": 0,
-        "heroId": "outlaw_hu_sanniang",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Chingiriko",
         "fancy_name": "Shadow Stalker Slime",
         "color": "Red",
@@ -208,6 +197,17 @@
         "family": "classic",
         "costume_id": 5,
         "heroId": "elven_captain_costume_stylish",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Gitnib",
+        "fancy_name": "Unlucky Tigris Fisher",
+        "color": "Blue",
+        "Release date": "",
+        "star": 5,
+        "family": "wild_cat",
+        "costume_id": 0,
+        "heroId": "wild_cat_gitnib",
         "Lottery_Only": 1
     }
 ]

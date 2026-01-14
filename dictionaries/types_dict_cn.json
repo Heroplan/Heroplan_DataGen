@@ -993,5 +993,7 @@
   "SS Defense Debuff All Fire": "全体火属性特殊技能防御减益",
   "Source of Ailments Random 1": "随机1个状态异常来源",
   "Source of Buffs All": "全体增益来源",
-  "Delayed Paralyze on hit": "命中时延迟麻木"
+  "Delayed Paralyze on hit": "命中时延迟麻木",
+  "Safely Dispels 1": "安全驱散 (单体)",
+  "Increases Ailments Duration by 5": "状态异常持续回合增加5"
 }

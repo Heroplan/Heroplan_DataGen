@@ -47554,7 +47554,7 @@
         "maxLevel": 8,
         "properties": [
           "enable_critical_special_hit",
-          "reduce_buff_turns_hu_sanniang",
+          "remove_buffs_safe_single_target",
           "chain_strike_with_ailment_duration_increase_hu_sanniang"
         ]
       },
@@ -64716,5 +64716,5 @@
       }
     ]
   },
-  "specialsConfigId": 1944469
+  "specialsConfigId": 1853752122
 }

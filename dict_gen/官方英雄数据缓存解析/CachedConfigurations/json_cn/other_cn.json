@@ -2860,7 +2860,7 @@
             "featuredHeroes": [
               "洛朗",
               "波尔多斯",
-              "阿多斯"
+              "多米尼克"
             ],
             "eventBonus": "event_hero_bonus_alliance_quest",
             "startTime": "2026-01-23 07:00:00",
@@ -15042,7 +15042,7 @@
       },
       "pvpLeague": {
         "enabled": true,
-        "showUpcomingEventAsComingSoon": false,
+        "showUpcomingEventAsComingSoon": true,
         "xpLevelRequirement": 14,
         "eventEntries": [
           {
@@ -82922,5 +82922,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 821781469
+  "otherConfigId": 3896834265
 }

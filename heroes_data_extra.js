@@ -43046,13 +43046,41 @@ window.allHeroesExtra = [
             "Negative Effects On Self Or Allies"
         ],
         "heroId": "institute_wilcox",
-        "baseAttack": 679,
-        "baseDefense": 586,
-        "baseHealth": 1057,
+        "baseAttack": 652,
+        "baseDefense": 628,
+        "baseHealth": 1088,
         "specialId": "volatile_crystal_conduit",
         "passiveSkills": [
             "revive_in_alternative_form_with_insanity_chance"
         ],
         "family": "institute"
+    },
+    {
+        "name": "Hu Sanniang",
+        "fancy name": "Bright Star of Water Margin",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
+        "Release date": "2026-01-13",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Snipers",
+            "Dispellers",
+            "Extra Damage Dealers",
+            "Chain & Random Attackers",
+            "Effect Duration Resetters"
+        ],
+        "heroId": "outlaw_hu_sanniang",
+        "baseAttack": 627,
+        "baseDefense": 651,
+        "baseHealth": 1106,
+        "specialId": "double_strike",
+        "passiveSkills": [
+            "resist_bleed",
+            "righteous_rebellion_parent",
+            "cleanse_on_special_critical_damage_all_safe"
+        ],
+        "family": "outlaw"
     }
 ];

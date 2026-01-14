@@ -1712,7 +1712,6 @@
         "id": "com.smallgiantgames.empires.christmas_gift",
         "dollarValue": 10,
         "zyngaStoreDollarValueOverride": 9,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -2219,7 +2218,7 @@
         "id": "lottery_covenant_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 151,
+        "uiPriority": 159,
         "associatedEvent": "CovenantSummon",
         "bonusChest": "covenant_chest",
         "bonusChestRequirement": 10,
@@ -2349,7 +2348,7 @@
         "id": "lottery_shadow_default",
         "gemPrice": 450,
         "amount": 1,
-        "uiPriority": 154,
+        "uiPriority": 157,
         "associatedEvent": "ShadowQuest",
         "bonusChest": "shadow_summon_chest",
         "bonusChestRequirement": 10,
@@ -3816,7 +3815,7 @@
         "id": "lottery_mercenary_war_default",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 150,
+        "uiPriority": 158,
         "advertisedHero": "outlaw_hu_sanniang",
         "associatedEvent": "KingdomWar",
         "bonusChest": "3kw_chest",
@@ -3902,7 +3901,7 @@
         "id": "lottery_tower_magic_default",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 153,
+        "uiPriority": 160,
         "advertisedHero": "magic_carpet_crustee",
         "associatedEvent": "TowerMagic",
         "bucketWeights": [
@@ -9002,7 +9001,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.expensiveoffer3",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -20594,6 +20592,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -22636,6 +22635,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_1",
         "dollarValue": 3,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22659,6 +22659,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_2",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22687,6 +22688,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_3",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22710,6 +22712,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_4",
         "dollarValue": 20,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22738,6 +22741,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_5",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24782,7 +24786,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_green_calendar_1_tier1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24802,7 +24805,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_green_calendar_1_tier2",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24821,7 +24823,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_green_calendar_2_tier1",
         "dollarValue": 4,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24858,7 +24859,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_green_calendar_3_tier1",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24878,7 +24878,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_green_calendar_3_tier2",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29437,7 +29436,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_green_calendar_2_tier2b",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36019,6 +36017,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36038,7 +36037,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic2_alliancegift",
+        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -55469,6 +55468,17 @@
         ]
       },
       {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.mds_jp_777contest",
+        "zyngaStoreProduct": true,
+        "contents": [
+          {
+            "type": "Gem",
+            "amount": 777
+          }
+        ]
+      },
+      {
         "productType": "AllianceEventSummon",
         "id": "lottery_featured_alliance_quest_castle_ad",
         "sourceProductId": "lottery_featured_alliance_quest_castle",
@@ -58205,5 +58215,5 @@
       }
     ]
   },
-  "productsConfigId": 4196183724
+  "productsConfigId": 2162885503
 }

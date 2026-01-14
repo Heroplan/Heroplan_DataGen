@@ -465,7 +465,7 @@ window.families_bonus = [
         "bonus": [
             "Bonus for 1/2 Unique Heroes:",
             "50% / 75% chance to cast -35% accuracy for 2 turns and 196/146/114 (5*/4*/3*) Burn damage over 2 turns on an enemy who deals Special Skill damage to this character.",
-            "If the enemy’s Special Skill defeats this character, the chance is 75%/100%",
+            "If the enemy's Special Skill defeats this character, the chance is 75%/100%",
             "The members of this family have additional perks in Season V stages."
         ]
     },
