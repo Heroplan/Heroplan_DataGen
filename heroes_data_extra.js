@@ -43082,5 +43082,31 @@ window.allHeroesExtra = [
             "cleanse_on_special_critical_damage_all_safe"
         ],
         "family": "outlaw"
+    },
+    {
+        "name": "Zavolt",
+        "fancy name": "Chaotic Mage Construct",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
+        "Release date": "2026-01-15",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Immunity Providers",
+            "Mana Raisers"
+        ],
+        "heroId": "construct_zavok",
+        "baseAttack": 625,
+        "baseDefense": 655,
+        "baseHealth": 1109,
+        "specialId": "spiritual_wire",
+        "passiveSkills": [
+            "minion_core",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "construct"
     }
 ];

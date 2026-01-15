@@ -9,6 +9,7 @@ LANGUAGES_DIR = 'languages'
 DICTIONARY_DIR = '../../dictionaries'
 DEBUG_LOG_FILE = '../../logs/translation_debug.log'
 INTERMEDIATE_TXT_DIR = 'generated_txt'
+LANGUAGE_OVERRIDES_JSON_PATH = r'..\官方英雄数据缓存解析\CachedConfigurations\json\languageOverrides_en.json'
 
 # 语言配置字典：语言文件名前缀 -> 语言代码后缀
 LANGUAGE_CONFIG = {
@@ -54,6 +55,46 @@ ORIGINAL_KEY_LONG = "familybonuses.description.long.resist_mana_reduction_and_ma
 ORIGINAL_KEY_SHORT = "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist.statuseffectdebuffs.addmana.single.allies"
 NEW_KEY_LONG = "familybonuses.description.long.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist_fauns.statuseffectdebuffs.addmana.single.allies"
 NEW_KEY_SHORT = "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist_fauns.statuseffectdebuffs.addmana.single.allies"
+
+def load_language_overrides(json_path):
+    """从JSON文件加载语言覆盖项"""
+    overrides = {}
+    try:
+        with open(json_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        
+        if 'languageOverridesConfig' in data and 'overrides' in data['languageOverridesConfig']:
+            overrides_config = data['languageOverridesConfig']['overrides']
+            
+            # 为每种语言构建覆盖字典
+            for lang_name, override_data in overrides_config.items():
+                if 'overrideEntries' in override_data:
+                    lang_overrides = {}
+                    for entry in override_data['overrideEntries']:
+                        key = entry.get('key', '')
+                        text = entry.get('text', '')
+                        if key and text:
+                            lang_overrides[key] = text
+                    overrides[lang_name] = lang_overrides
+        
+        print(f"成功从 {json_path} 加载了 {len([item for sublist in overrides.values() for item in sublist])} 个语言覆盖项")
+        return overrides
+    except FileNotFoundError:
+        print(f"警告: 未找到语言覆盖文件 {json_path}")
+        return {}
+    except json.JSONDecodeError as e:
+        print(f"错误: 解析语言覆盖文件 {json_path} 时发生JSON错误: {e}")
+        return {}
+    except Exception as e:
+        print(f"错误: 读取语言覆盖文件 {json_path} 时发生错误: {e}")
+        return {}
+
+def merge_data_with_overrides(original_data, overrides):
+    """将原始数据与覆盖项合并"""
+    merged_data = original_data.copy()
+    if overrides:
+        merged_data.update(overrides)
+    return merged_data
 
 # --- 文本与文件处理函数 ---
 
@@ -218,6 +259,10 @@ if __name__ == "__main__":
 
     print("=== 多语言文本提取、复制与翻译字典生成工具 ===")
     
+    # 加载语言覆盖数据
+    print(f"\n--- 正在从 {LANGUAGE_OVERRIDES_JSON_PATH} 加载语言覆盖项 ---")
+    language_overrides = load_language_overrides(LANGUAGE_OVERRIDES_JSON_PATH)
+    
     print("\n--- 正在搜索并处理语言文件 ---")
     
     # 查找英文文件（必须存在）
@@ -229,6 +274,11 @@ if __name__ == "__main__":
     # 处理英文文件
     full_english_content, full_english_data = process_language_file(english_file, is_json=False)
     print(f"英文文件 '{english_file}' 清理和解析完成，共 {len(full_english_data)} 条目。")
+    
+    # 如果有英语覆盖项，则合并
+    if 'English' in language_overrides:
+        full_english_data = merge_data_with_overrides(full_english_data, language_overrides['English'])
+        print(f"已将 {len(language_overrides.get('English', {}))} 个英语覆盖项合并到英文数据中。")
 
     # 动态查找和处理所有配置的语言文件
     language_files = {}
@@ -237,6 +287,11 @@ if __name__ == "__main__":
         if lang_file:
             content, data = process_language_file(lang_file, is_json=False)
             if data:
+                # 如果有该语言的覆盖项，则合并
+                if lang_prefix in language_overrides:
+                    data = merge_data_with_overrides(data, language_overrides[lang_prefix])
+                    print(f"已将 {len(language_overrides.get(lang_prefix, {}))} 个{lang_prefix}覆盖项合并到{lang_prefix}数据中。")
+                
                 language_files[lang_prefix] = {
                     'file_path': lang_file,
                     'content': content,
@@ -245,7 +300,18 @@ if __name__ == "__main__":
                 }
                 print(f"{lang_prefix}文件 '{lang_file}' 清理和解析完成，共 {len(data)} 条目。")
         else:
-            print(f"警告: 未找到{lang_prefix}语言文件")
+            # 即使找不到对应的语言文件，也要检查是否有覆盖项
+            if lang_prefix in language_overrides:
+                print(f"虽然未找到{lang_prefix}语言文件，但检测到{len(language_overrides[lang_prefix])}个覆盖项，将创建虚拟数据。")
+                language_files[lang_prefix] = {
+                    'file_path': None,
+                    'content': '',
+                    'data': language_overrides[lang_prefix],
+                    'suffix': lang_suffix
+                }
+                print(f"{lang_prefix}覆盖数据已加载，共 {len(language_overrides[lang_prefix])} 条目。")
+            else:
+                print(f"警告: 未找到{lang_prefix}语言文件，也无覆盖项")
 
     processed_output_types = set()
     for label_prefix, output_type in EXTRACTION_RULES.items():
@@ -285,19 +351,26 @@ if __name__ == "__main__":
             
             # 提取目标语言子集
             target_subset = {k: v for k, v in lang_data.items() if any(k.startswith(p) for p in prefixes)}
-            target_lines = [m.group(0) for m in re.finditer(r'\"([^"]+)\",\"((?:.|\n)*?)\"(?:\n|$)', lang_content) 
-                           if any(m.group(1).startswith(p) for p in prefixes)]
+            
+            # 如果原始语言文件存在，也从那里提取
+            if lang_info['file_path']:
+                target_lines = [m.group(0) for m in re.finditer(r'\"([^"]+)\",\"((?:.|\n)*?)\"(?:\n|$)', lang_content) 
+                               if any(m.group(1).startswith(p) for p in prefixes)]
 
-            # 生成目标语言的中间文件
-            if target_lines:
-                target_output_path = os.path.join(INTERMEDIATE_TXT_DIR, f"{output_type}_{lang_suffix}.txt")
-                with open(target_output_path, 'w', encoding='utf-8') as f:
-                    f.write("".join(target_lines))
-                print(f"已提取 {len(target_lines)} 条{lang_prefix}条目到文件 {target_output_path}")
-                
-                # 对familybonus类型进行复制重命名操作
-                if output_type == "family_bonus":
-                    copy_and_rename_entries_in_file(target_output_path)
+                # 生成目标语言的中间文件
+                if target_lines:
+                    target_output_path = os.path.join(INTERMEDIATE_TXT_DIR, f"{output_type}_{lang_suffix}.txt")
+                    with open(target_output_path, 'w', encoding='utf-8') as f:
+                        f.write("".join(target_lines))
+                    print(f"已提取 {len(target_lines)} 条{lang_prefix}条目到文件 {target_output_path}")
+                    
+                    # 对familybonus类型进行复制重命名操作
+                    if output_type == "family_bonus":
+                        copy_and_rename_entries_in_file(target_output_path)
+            else:
+                # 如果只有覆盖项而没有原始文件，我们不能生成中间txt文件，但仍可以处理翻译映射
+                print(f"仅使用覆盖项处理{lang_prefix}的{output_type}数据")
+                target_lines = []
 
             # 创建翻译映射
             translation_map, debug_info = create_translation_map(en_subset, target_subset, output_type, lang_prefix)
