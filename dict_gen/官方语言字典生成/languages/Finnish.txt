@@ -2348,8 +2348,11 @@ Haluatko varmasti tuhota nämä resurssit?"
 "calendar.chest.name.halloween","Halloween-arkku"
 "calendar.chest.name.kalevala","Kalevala-arkku"
 "calendar.chest.name.lunarnewyear","Uuden kuuvuoden arkku"
+"calendar.chest.name.valentinesseasonal","Ystävänpäivän arkku"
 "calendar.chest.valentinesseasonal.description","Osta vähintään {0}, niin saat 
 [#!]YSTÄVÄNPÄIVÄN ARKUN[#]"
+"calendar.chest.valentinesseasonal.description.claimed","Kiitos, kun lunastit
+[#!]YSTÄVÄNPÄIVÄN ARKUN[#]!"
 "ccpa.dialog.advertising_partners","Verkkomainontakumppanit"
 "ccpa.dialog.button","Henkilötietojani ei saa myydä tai jakaa (koskee myös katselutietojani)"
 "ccpa.dialog.message","Pidämme tämän sovelluksen ilmaisena mainosten avulla, ja haluaisimme näyttää sinulle personoitua mainontaa pelissä. Sen toteuttamiseksi annamme tiettyjen verkkomainontakumppaneidemme kerätä sinusta tietoja (esim. antamasi profiilitiedot, laitteesi mainostunnuksen ja muita tietoja laitteesta). Tätä pidetään ""myymisenä"" tai ""jakamisena"" tietyissä Yhdysvaltain osavaltioissa. Voimme myös jakaa henkilö- ja katselutietojasi kolmansille osapuolille mainontaa varten.
@@ -5316,7 +5319,6 @@ Tällä hahmolla on nyt:
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill","Vähentää erikoistaitojen nostaman manan määrää [#!]{MODIFIER} %[#]. Vaikutus koskee kaikkia vihollisia tässä taistelussa."
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect","Vähentää erikoistaitojen, passiivisten taitojen, perhebonusten ja tilaefektien nostaman manan määrää [#!]{MODIFIER} %[#]. Vaikutus koskee kaikkia vihollisia tässä taistelussa."
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm","Vähentää erikoistaitojen, passiivisten taitojen, perhebonusten ja tilaefektien nostaman manan määrää [#!]{MODIFIER} %[#]. Vaikutus koskee kaikkia vihollisia tässä taistelussa."
-"herocard.passive_skill.description.managenerationmodifier.none","[#!]{MODIFIER} %[#] manatuotantoa."
 "herocard.passive_skill.description.manaonownfamiliardeath.minion","Hahmo saa pienen määrän manaa, kun hänen omistamansa käskyläinen tuhotaan."
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all","Tällä hahmolla on luontainen kyky [#!]painaa muistiin[#] mikä tahansa vihollisten erikoistaidoilla kutsuttu käskyläinen tai riiviö. Viimeisin vihollisten kutsuma käskyläinen tai riiviö pysyy muistiin painettuna kunnes tätä erikoistaitoa käytetään."
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all#2","Tällä hahmolla on luontainen kyky [#!]painaa muistiin[#] mikä tahansa vihollisten erikoistaidoilla kutsuttu käskyläinen tai riiviö. {0} viimeisintä vihollisten kutsumaa käskyläistä tai riiviötä pysyy muistiin painettuna kunnes tätä erikoistaitoa käytetään."
@@ -5715,7 +5717,10 @@ Tämä koskee tilaefektitehosteita ja vaivoja, positiivisia ja negatiivisia kasa
 [*][#!]{INHERITEDHEALTH} %[#] perittyä terveyttä. 
 [*][#!]{ATTACK}[#] hyökkäystä.
 [*][#!]{DEFENSE}[#] puolustusta.
-[*]Erikoistaito: [#!]Ikiaikainen vitsaus[#].
+[*]Seuraava erikoistaito:
+
+[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 Jos tämä hahmo kukistaa itsensä [#!]hulluuden[#] aktivoituessa, uudelleen syntymisen mahdollisuus on aina [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Jos tämä hahmo kukistuu, hänellä on mahdollisuus syntyä uudelleen [#!]ikiaikaisena oliona[#]. Mahdollisuus on [#!]{CHANCEINCREASEPERSTEP} %[#] jokaista tällä hahmolla olevaa [#!]{INSANITYPERSTEP}[#] [#!]hulluuspistettä[#] kohti, yhteensä enintään [#!]{MAXCHANCEINCREASE} %[#].
@@ -6406,7 +6411,7 @@ Vain [#ffc3ff]LEGENDAARISET[#] sankarit, joita ei ole vielä täysin ylennetty, 
 "heroes.name.construct_skarn","Skarn"
 "heroes.name.construct_sylosis","Sylosis"
 "heroes.name.construct_tenebrae","Tenebrae"
-"heroes.name.construct_zavok","Zavok"
+"heroes.name.construct_zavok","Zavolt"
 "heroes.name.cultist_female_poisoner","Layla"
 "heroes.name.cultist_inventor","Quintus"
 "heroes.name.cultist_mage","Balthazar"
@@ -11145,6 +11150,7 @@ Kaikki [#ff7a4c]tulisankarit[#] saavat [#!]{REDATTACK} %[#] hyökkäysvoimaan v
 "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid","[#!]Cupido[#]perheen sankarit ovat immuuneja parannukseen vaikuttaville vaivoille."
 "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid","[#!]Cupido[#]perheen sankarit ovat immuuneja manan vähennyksille."
 "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid","[#!]Cupido[#]perheen sankarit ovat immuuneja manatuotantoon vaikuttaville vaivoille."
+"level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid","[#!]Cupido[#]perheen sankarit vastustavat [#!]riiviöitä[#]."
 "level.info.property.description.villains.npcs","Aina kun käytät erikoistaitoa tai taisteluesinettä Konnien liiton vyöhykkeillä, [#!]Taivaallinen isku[#] lähestyy!
 
 [#!]Kun Taivaallinen isku saavutetaan,[#]
@@ -11500,7 +11506,7 @@ Punaisia onnenkolikoita voi saada palkkioksi [#!]Kolmen kuningaskunnan sodan[#] 
 "linkaccount.dialog.ensure.android","Varmista tilisi turvallisuus kirjautumalla sisään Google Playhin!"
 "linkaccount.dialog.ensure.ios","Varmista tilisi turvallisuus kirjautumalla sisään Game Centeriin!"
 "linkaccount.dialog.gamecenter","Mene laitteesi asetuksiin kirjautuaksesi sisään Game Centeriin."
-"linkaccount.dialog.googleplay","Mene laitteesi Play Games -asetuksiin kirjautuaksesi sisään."
+"linkaccount.dialog.googleplay","Mene peliasetuksiin kirjautuaksesi sisään Google Playhin."
 "linkaccount.dialog.note","Tärkeää!"
 "linkaccount.dialog.notsafe","Kirjaudu sisään tallentaaksesi edistymisesi!"
 "linkaccount.dialog.saveyourprogress","Tallenna edistymisesi!"
@@ -15371,6 +15377,7 @@ Yritä myöhemmin uudelleen."
 "notifications.mail","📮 Sinulle on postia! 📮"
 "notifications.mercenary_war.energy_refill","👑⚔️ Kolmen kuningaskunnan sodan energia palautettu. Aika taistella! ⚔️👑"
 "notifications.mercenary_war.started","👑⚔️ Kolmen kuningaskunnan sota on alkanut. Kuningaskuntasi tarvitsee sinua! ⚔️👑"
+"notifications.mimicsummon","Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
 "notifications.new_season","Komentaja, meitä odottaa uusi seikkailu! Taistele uusia vihollisia vastaan ja kutsu uusia sankareita Kertomattomissa tarinoissa!"
 "notifications.pveenergy","⚔️ Maailmaenergia palautettu. Aika taistella! ⚔️"
 "notifications.quest.limitbreak","⚔️ Rajannostoseikkailu saatavilla. Kohtaa haaste ja ansaitse rajannostoesineitä! 🎉"
@@ -15384,7 +15391,7 @@ Yritä myöhemmin uudelleen."
 "notifications.temple","💎⭐🏴 TemppeliKUTSU ON NYT AUKI! Kutsu legendaarinen tapahtumasankari, niin saat bonuksena toisen legendaarisen tapahtumasankarin ilmaiseksi! 💎⭐🏴"
 "notifications.titan_reward","🐉💎 Titaanilta saalista! 💎🐉"
 "notifications.titan_spawned","⚔️ 🐲 Uusi titaani on ilmestynyt! 🐲⚔"
-"notifications.titanhunter","💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+"notifications.titanhunter","💎⭐🏴 TitaanimetsästäjäKUTSU ON NYT AUKI! Kutsu sankareita, jotka ovat tuhoisia titaaneja vastaan! 💎⭐🏴"
 "notifications.training","💪 Koulutus suoritettu loppuun! 💪"
 "notifications.ubertitan.energy","⚔️ Myyttinen titaani -energia palautettu. Aika taistella! ⚔️"
 "notifications.upgrade","✨⬆️ {0} on päivitetty! ⬆️✨"
@@ -15759,9 +15766,11 @@ Mukana olevat kauden 3 sankarit ovat Jotunheimista, Muspelheimista ja Svartalfhe
 "options.linkaccount.gamecenter.loggedin","Kirjautuneena sisään Game Centeriin"
 "options.linkaccount.gamecenter.loggedout","Kirjautuneena ulos Game Centeristä"
 "options.linkaccount.googleplay.loggedin","Kirjautuneena sisään Google Playhin"
-"options.linkaccount.googleplay.loggedout","Mene laitteesi Play Games -asetuksiin kirjautuaksesi sisään."
+"options.linkaccount.googleplay.loggedout","Kirjautuneena ulos Google Playsta"
 "options.linkaccount.info.gamecenter","Kirjaudu sisään Game Center -tilillesi voidaksesi tallentaa edistymisesi ja pelata useilla iOS-laitteilla."
-"options.linkaccount.info.googleplay","Kirjaudu sisään Google Play -tilillesi voidaksesi tallentaa edistymisesi ja pelata useilla Android-laitteilla."
+"options.linkaccount.info.googleplay","Kirjaudu sisään Google Play -tilillesi voidaksesi tallentaa edistymisesi ja pelata useilla Android-laitteilla.
+
+ Voit vaihtaa toiseen Google Play -tiliin puhelimesi Play Games -asetuksista."
 "options.linkaccount.label","Tallenna peli eri laitteille"
 "options.linkaccount.signedinas","Kirjautuneena sisään pelaajana [#!]{0}[#]"
 "options.privacy","Tietosuojakäytäntö"
@@ -20841,7 +20850,7 @@ Valitse vähemmän sankareita."
 "specials.name.chains_of_light","Valon ketjut"
 "specials.name.chakram_kick","Chakram-potku"
 "specials.name.challenge_the_strongest","Haaste vahvimmalle"
-"specials.name.champagne_hammer","Samppanjavasara"
+"specials.name.champagne_hammer","Pullovasara"
 "specials.name.champion_maneuver","Mestarin manööveri"
 "specials.name.championship_carrot","Mestaruusporkkana"
 "specials.name.change_stance","Uhkapelurin sivallus"
@@ -22842,7 +22851,7 @@ Valitse vähemmän sankareita."
 "specials.strongattack.green","Tuottaa lisävauriota [#70e92f]luontoa[#] vastaan."
 "specials.strongattack.red","Tuottaa lisävauriota [#ff9f81]tulta[#] vastaan."
 "specials.strongattack.yellow","Tuottaa lisävauriota [#f2e33a]pyhää[#] vastaan."
-"specials.v2.bigminion.aberration_big_minion.single","Kutsuu jokaiselle liittolaiselle hirvitys-megakäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä.
+"specials.v2.bigminion.aberration_big_minion.single","Kutsuu hirvitys-megakäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä.
 
 Jokainen hirvitys-megakäskyläisen osuma aiheuttaa kohteelle seuraavan vaivan:"
 "specials.v2.bigminion.black_boar_mega_minion.single","Kutsuu musta villisika -megakäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä."
@@ -23972,14 +23981,17 @@ Muuttumisen vaikutus:
 "specials.v2.property.tileenhancement.manamultiplier.both.blue","Muuttaa kaikkien laudalla olevien [##elementblue]jääkilpien[#] voimaa. Hyökkäävän sankarin loitsima erikoishyökkäys voimistaa kilvet antamaan {MODIFIERATTACKER} % enemmän manaa. Puolustavan sankarin loitsima erikoishyökkäys heikentää kilvet antamaan {MODIFIERDEFENDER} % vähemmän manaa."
 "specials.v2.property.tileenhancement.manamultiplier.both.green","Muuttaa kaikkien laudalla olevien [##elementgreen]luontokilpien[#] voimaa. Hyökkäävän sankarin loitsima erikoishyökkäys voimistaa kilvet antamaan {MODIFIERATTACKER} % enemmän manaa. Puolustavan sankarin loitsima erikoishyökkäys heikentää kilvet antamaan {MODIFIERDEFENDER} % vähemmän manaa."
 "specials.v2.property.tileenhancement.manamultiplier.both.purple","Muuttaa kaikkien laudalla olevien [##elementpurple]pimeyden kilpien[#] voimaa. Hyökkäävän sankarin loitsima erikoishyökkäys voimistaa kilvet antamaan {MODIFIERATTACKER} % enemmän manaa. Puolustavan sankarin loitsima erikoishyökkäys heikentää kilvet antamaan {MODIFIERDEFENDER} % vähemmän manaa."
+"specials.v2.property.tileenhancement.manamultiplier.both.red","Muuttaa kaikkien laudalla olevien [##elementred]tulikilpien[#] voimaa. Hyökkäävän sankarin loitsima erikoishyökkäys voimistaa kilvet antamaan {MODIFIERATTACKER} % enemmän manaa. Puolustavan sankarin loitsima erikoishyökkäys heikentää kilvet antamaan {MODIFIERDEFENDER} % vähemmän manaa."
 "specials.v2.property.tileenhancement.manamultiplier.both.yellow","Muuttaa kaikkien laudalla olevien [##elementyellow]pyhien kilpien[#] voimaa. Hyökkäävän sankarin loitsima erikoishyökkäys voimistaa kilvet antamaan {MODIFIERATTACKER} % enemmän manaa. Puolustavan sankarin loitsima erikoishyökkäys heikentää kilvet antamaan {MODIFIERDEFENDER} % vähemmän manaa."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.blue","Voimistaa kaikkia laudalla olevia [##elementblue]jääkilpiä[#]. Voimistuneet kilvet antavat {MODIFIERDEFENDER} % vähemmän manaa sankareille."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.green","Voimistaa kaikkia laudalla olevia [##elementgreen]luontokilpiä[#]. Voimistuneet kilvet antavat {MODIFIERDEFENDER} % vähemmän manaa sankareille."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.purple","Voimistaa kaikkia laudalla olevia [##elementpurple]pimeyden kilpiä[#]. Voimistuneet kilvet antavat {MODIFIERDEFENDER} % vähemmän manaa sankareille."
+"specials.v2.property.tileenhancement.manamultiplier.npcs.red","Voimistaa kaikkia laudalla olevia [##elementred]tulikilpiä[#]. Voimistuneet kilvet antavat {MODIFIERDEFENDER} % vähemmän manaa sankareille."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.yellow","Voimistaa kaikkia laudalla olevia [##elementyellow]pyhiä kilpiä[#]. Voimistuneet kilvet antavat {MODIFIERDEFENDER} % vähemmän manaa sankareille."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.blue","Voimistaa kaikkia laudalla olevia [##elementblue]jääkilpiä[#]. Voimistuneet kilvet antavat {MODIFIERATTACKER} % enemmän manaa sankareille."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.green","Voimistaa kaikkia laudalla olevia [##elementgreen]luontokilpiä[#]. Voimistuneet kilvet antavat {MODIFIERATTACKER} % enemmän manaa sankareille."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.purple","Voimistaa kaikkia laudalla olevia [##elementpurple]pimeyden kilpiä[#]. Voimistuneet kilvet antavat {MODIFIERATTACKER} % enemmän manaa sankareille."
+"specials.v2.property.tileenhancement.manamultiplier.playercharacters.red","Voimistaa kaikkia laudalla olevia [##elementred]tulikilpiä[#]. Voimistuneet kilvet antavat {MODIFIERATTACKER} % enemmän manaa sankareille."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.yellow","Voimistaa kaikkia laudalla olevia [##elementyellow]pyhiä kilpiä[#]. Voimistuneet kilvet antavat {MODIFIERATTACKER} % enemmän manaa sankareille."
 "specials.v2.property.upgrademinortomajorbasedontilecount.yellow","Jos laudalla on vähintään {REQUIREDTILECOUNT} [##elementyellow]pyhää kilpeä[#], tämän erikoistaidon vaikutuksia ei voi häivyttää."
 "specials.v2.property.wither.extra","Näivetys ja kasvu muokkaavat hahmojen ominaisuuksia. Vaikutus jää, vaikka hahmo kukistuisikin.
@@ -31055,6 +31067,15 @@ Nosta lohikäärmeidesi tasoa ja varusta voimakkaampia ratsastajia lisätäksesi
 "temp.halloween_summon_promo7","Käytä verenhimon henkeä ilmaiseen kutsuun!"
 "temp.halloween_summon_promo8","Taattu täysi ylennys jokaiselle esittelyssä olevalle sankarille!"
 "temp.halloween_summon_promo9","Taattu täysi ylennys esittelyssä oleville sankareille!"
+"temp_fiend","[#!]Siementaimiriiviö[#] kehittyy [#!]taimiriiviöksi[#] {EVOLVINGFAMILIAR1EVOLVETURNS} vuoron jälkeen.
+[*][#!]Taimiriiviö[#] kehittyy [#!]kukkivaksi megariiviöksi[#] {EVOLVINGFAMILIAR2EVOLVETURNS} vuoron jälkeen.
+
+[*] [#!]Siementaimiriiviö[#]: [#!]{EVOLVINGFAMILIAR1ATTACK}[#] % hyökkäystä, [#!]{EVOLVINGFAMILIAR1HEALTH}[#] % terveyttä
+[*] [#!]Taimiriiviö[#]: [#!]{EVOLVINGFAMILIAR2ATTACK}[#] % hyökkäystä, [#!]{EVOLVINGFAMILIAR2HEALTH}[#] % terveyttä
+[*] [#!]Kukkiva megariiviö[#]: [#!]{EVOLVINGFAMILIAR3ATTACK}[#] % hyökkäystä, [#!]{EVOLVINGFAMILIAR3HEALTH}[#] % terveyttä
+
+[*]Riiviö vaurioittaa kohdettaan joka vuorolla. Riiviö katoaa imettyään parannusta. Tarvittavan parannuksen määrä riippuu kohteen maksimiterveydestä.
+[*]Riiviöiden evoluutio viivästyy {EVOLVINGFAMILIAR1TURNSDELAY} vuorolla aina kun ne imevät parannusta."
 "tilebooster.ancient_underroot.title","Vahva laatantehostin"
 "tilebooster.maxactivationcount","Kunkin laatantehostimen voi aktivoida kerran vuorossa."
 "tilebooster.maxactivationcount#2","Kunkin laatantehostimen voi aktivoida [#!]{0}[#] kertaa vuorossa."

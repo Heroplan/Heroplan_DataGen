@@ -2341,8 +2341,11 @@ Der du sikker på at du vil ødelegge disse ressursene?"
 "calendar.chest.name.halloween","Halloween-kiste"
 "calendar.chest.name.kalevala","Kalevala-kiste"
 "calendar.chest.name.lunarnewyear","Månenyttårskiste"
+"calendar.chest.name.valentinesseasonal","Valentinskiste"
 "calendar.chest.valentinesseasonal.description","Kjøp {0} eller mer fra en 
 [#!]VALENTINSKISTE[#]"
+"calendar.chest.valentinesseasonal.description.claimed","Takk for at du gjorde krav på
+[#!]VALENTINSKISTEN[#]!"
 "ccpa.dialog.advertising_partners","Annonsepartnere på nett"
 "ccpa.dialog.button","Ikke selg eller del min personlige informasjon (inkludert informasjon om videovisning)"
 "ccpa.dialog.message","Vi er avhengige av annonser for å holde denne appen gratis og vil gjerne vise deg mer tilpassede annonser i spillet. For å gjøre det tillater vi visse nettbaserte annonsepartnere å samle inn informasjon om deg (f.eks. profilinformasjon du gir oss, annonse-ID-en til enheten din og annen enhetsinformasjon). Dette anses som et «salg» eller en «deling» i visse amerikanske stater. Vi kan også dele den personlige informasjonen din og videovisningsinformasjon med tredjeparter for annonsering.
@@ -5707,7 +5710,10 @@ Den [#!]uhyggelige verten[#] har:
 [*][#!]{INHERITEDHEALTH} %[#] nedarvet helse. 
 [*][#!]{ATTACK}[#] angrep.
 [*][#!]{DEFENSE}[#] forsvar.
-[*]Spesialferdighet: [#!]Uhyggelig trussel[#].
+[*]Følgende spesialferdighet:
+
+[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 Hvis denne figuren beseirer seg selv når [#!]galskap[#] aktiveres, er sjansen [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Hvis den beseires, har denne figuren en sjanse til å bli gjenfødt som en [#!]uhyggelig vert[#]. Sjansen er [#!]{CHANCEINCREASEPERSTEP} %[#] per [#!]{INSANITYPERSTEP}[#] [#!]galskap[#] på denne figuren, opptil en maksimal sjanse på [#!]{MAXCHANCEINCREASE} %[#].
@@ -6398,7 +6404,7 @@ Kun [#ffc3ff]LEGENDARISKE[#] helter som ikke enda er forbedret fullt, kan trenes
 "heroes.name.construct_skarn","Skarn"
 "heroes.name.construct_sylosis","Sylosis"
 "heroes.name.construct_tenebrae","Tenebrae"
-"heroes.name.construct_zavok","Zavok"
+"heroes.name.construct_zavok","Zavolt"
 "heroes.name.cultist_female_poisoner","Layla"
 "heroes.name.cultist_inventor","Quintus"
 "heroes.name.cultist_mage","Balthazar"
@@ -11138,6 +11144,7 @@ Alle [#ff7a4c]ild[#]-helter får [#!]{REDATTACK} %[#] angrep når de er under v
 "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid","Helter i [#!]Cupidp[#]-familien er immun mot statuslidelser som påvirker helbredelse."
 "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid","Helter i [#!]Cupidp[#]-familien er immun mot manareduksjoner."
 "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid","Helter i [#!]Cupidp[#]-familien er immun mot statuslidelser som påvirker managenerering."
+"level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid","Helter i [#!]Cupido[#]-familien motstår [#!]djevler[#]."
 "level.info.property.description.villains.npcs","På Skurkeliga-brett vil, hver gang du bruker en spesialferdighet eller en kampgjenstand, [#!]himmelsk slag[#] komme nærmere!
 
 [#!]Når himmelsk slag nås,[#]
@@ -11493,7 +11500,7 @@ Røde lykkemynter kan mottas i belønning fra [#!]Krigen mellom tre kongeriker[#
 "linkaccount.dialog.ensure.android","Påse at kontoen din er trygg ved å logge deg på Google Play!"
 "linkaccount.dialog.ensure.ios","Påse at kontoen din er trygg ved å logge deg på Game Center!"
 "linkaccount.dialog.gamecenter","Gå til innstillingene på enheten din og logg på Game Center."
-"linkaccount.dialog.googleplay","Gå til Play Games-innstillingene på enheten din for å logge inn."
+"linkaccount.dialog.googleplay","Gå til innstillingene på enheten din og logg på Google Play."
 "linkaccount.dialog.note","Viktig!"
 "linkaccount.dialog.notsafe","Logg på for å lagre fremdriften din!"
 "linkaccount.dialog.saveyourprogress","Lagre fremgangen din!"
@@ -15384,6 +15391,7 @@ Prøv igjen senere."
 "notifications.mail","📮 Du har fått ny post! 📮"
 "notifications.mercenary_war.energy_refill","⚔️ Krigen mellom tre kongeriker-energi tilbake igjen. På tide med en kamp! ⚔️"
 "notifications.mercenary_war.started","👑⚔️ Krigen mellom tre kongeriker har startet. Kongeriket ditt trenger deg! ⚔️👑"
+"notifications.mimicsummon","Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
 "notifications.new_season","Kommandant, nye eventyr venter! Utallige historier lar deg slåss mot nye fiender og fremkalle nye helter!"
 "notifications.pveenergy","⚔️ Verdensenergi tilbake igjen. På tide med en kamp! ⚔️"
 "notifications.quest.limitbreak","⚔️ Et grensebryteroppdrag er tilgjengelig. Ta utfordringen for å få gjenstander til grensebryting! 🎉"
@@ -15397,7 +15405,7 @@ Prøv igjen senere."
 "notifications.temple","💎⭐🏴 Tempel-FREMKALLING ÅPEN NÅ! Fremkall en legendarisk hendelseshelt, og få en ekstra legendarisk hendelseshelt gratis! 💎⭐🏴"
 "notifications.titan_reward","🐉💎 Titan-bytte tilgjengelig! 💎🐉"
 "notifications.titan_spawned","⚔️ 🐲 Ny titan har dukket opp! 🐲⚔"
-"notifications.titanhunter","💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+"notifications.titanhunter","💎⭐🏴 Titan-jeger-FREMKALLING ÅPEN NÅ! Fremkall helter som knuser titaner! 💎⭐🏴"
 "notifications.training","💪 Trening fullført! 💪"
 "notifications.ubertitan.energy","⚔️ Mytisk titanenergi tilbake igjen. På tide med en kamp! ⚔️"
 "notifications.upgrade","✨⬆️ {0} har blitt oppgradert! ⬆️✨"
@@ -15772,9 +15780,11 @@ Inkluderte sesong 3-helter er fra Jotunheim, Muspelheim og Svartalfheim[#]"
 "options.linkaccount.gamecenter.loggedin","Logget inn på Game Center"
 "options.linkaccount.gamecenter.loggedout","Logget ut av Game Center"
 "options.linkaccount.googleplay.loggedin","Logget inn på Google Play"
-"options.linkaccount.googleplay.loggedout","Gå til Play Games-innstillingene på enheten din for å logge inn."
+"options.linkaccount.googleplay.loggedout","Logget ut av Google Play"
 "options.linkaccount.info.gamecenter","Logg inn ved bruk av Game Center-kontoen din for å lagre fremgangen din og spille på flere iOS-enheter."
-"options.linkaccount.info.googleplay","Logg inn ved bruk av Google Play-kontoen din for å lagre fremgangen din og spille på flere Android-enheter."
+"options.linkaccount.info.googleplay","Logg inn ved bruk av Google Play-kontoen din for å lagre fremgangen din og spille på flere Android-enheter.
+
+ Du kan bygge til en annen Google Play-konto via telefonens Play Games-appinnstillinger."
 "options.linkaccount.label","Lagre spillingen din på tvers av enheter"
 "options.linkaccount.signedinas","Logget inn som [#!]{0}[#]"
 "options.privacy","Retningslinjer for personvern"
@@ -20857,7 +20867,7 @@ Velg færre helter."
 "specials.name.chains_of_light","Kjeder av lys"
 "specials.name.chakram_kick","Chakram-spark"
 "specials.name.challenge_the_strongest","Utfordre den sterkeste"
-"specials.name.champagne_hammer","Champagnehammer"
+"specials.name.champagne_hammer","Flaskehammer"
 "specials.name.champion_maneuver","Mestermanøver"
 "specials.name.championship_carrot","Mesterskapsgulrot"
 "specials.name.change_stance","Gamblers hugg"
@@ -22858,9 +22868,9 @@ Velg færre helter."
 "specials.strongattack.green","Påfører ekstra skade mot [#70e92f]natur[#]."
 "specials.strongattack.red","Påfører ekstra skade mot [#ff9f81]ild[#]."
 "specials.strongattack.yellow","Påfører ekstra skade mot [#f2e33a]hellig[#]."
-"specials.v2.bigminion.aberration_big_minion.single","Fremkaller en avviker-undersått for hver alliert med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren. 
+"specials.v2.bigminion.aberration_big_minion.single","Påkaller en avviker-megaundersått med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren. 
 
-Hvert treff fra en avviker-undersått påfører målet følgende statuslidelse:"
+Hvert treff fra en avviker-megaundersått påfører målet følgende statuslidelse:"
 "specials.v2.bigminion.black_boar_mega_minion.single","Påkaller en svart villsvin-megaundersått med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren."
 "specials.v2.bigminion.body_guard_mega_minion.single","Påkaller en livvakt-megaundersått med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren."
 "specials.v2.bigminion.goblin_rat_princess.single","Påkaller en rotteprinsesse-megaundersått med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren."
@@ -23984,14 +23994,17 @@ Forvandlede effekter:
 "specials.v2.property.tileenhancement.manamultiplier.both.blue","Endrer styrken til alle [##elementblue]is[#]-skjold på brettet. Når en angripende helt bruker spesialangrepet, blir skjoldene forbedret, og de gir {MODIFIERATTACKER} % mer mana. Når en forsvarende helt bruker spesialangrepet, svekkes skjoldene, og de gir {MODIFIERDEFENDER} % mindre mana."
 "specials.v2.property.tileenhancement.manamultiplier.both.green","Endrer styrken til alle [##elementgreen]natur[#]-skjold på brettet. Når en angripende helt bruker spesialangrepet, blir skjoldene forbedret, og de gir {MODIFIERATTACKER} % mer mana. Når en forsvarende helt bruker spesialangrepet, svekkes skjoldene, og de gir {MODIFIERDEFENDER} % mindre mana."
 "specials.v2.property.tileenhancement.manamultiplier.both.purple","Endrer styrken til alle [##elementpurple]mørke[#] skjold på brettet. Når en angripende helt bruker spesialangrepet, blir skjoldene forbedret, og de gir {MODIFIERATTACKER} % mer mana. Når en forsvarende helt bruker spesialangrepet, svekkes skjoldene, og de gir {MODIFIERDEFENDER} % mindre mana."
+"specials.v2.property.tileenhancement.manamultiplier.both.red","Endrer styrken til alle [##elementred]ild[#]-skjold på brettet. Når en angripende helt bruker spesialangrepet, blir skjoldene forbedret, og de gir {MODIFIERATTACKER} % mer mana. Når en forsvarende helt bruker spesialangrepet, svekkes skjoldene, og de gir {MODIFIERDEFENDER} % mindre mana."
 "specials.v2.property.tileenhancement.manamultiplier.both.yellow","Endrer styrken til alle [##elementyellow]hellig[#]-skjold på brettet. Når en angripende helt bruker spesialangrepet, blir skjoldene forbedret, og de gir {MODIFIERATTACKER} % mer mana. Når en forsvarende helt bruker spesialangrepet, svekkes skjoldene, og de gir {MODIFIERDEFENDER} % mindre mana."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.blue","Forbedrer alle [##elementblue]is[#]-skjold på brettet. Forbedrede skjold gir heltene {MODIFIERDEFENDER} % mindre mana."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.green","Forbedrer alle [##elementgreen]natur[#]-skjold på brettet. Forbedrede skjold gir heltene {MODIFIERDEFENDER} % mindre mana."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.purple","Forbedrer alle [##elementpurple]mørk[#]-skjold på brettet. Forbedrede skjold gir heltene {MODIFIERDEFENDER} % mindre mana."
+"specials.v2.property.tileenhancement.manamultiplier.npcs.red","Forbedrer alle [##elementred]ild[#]-skjold på brettet. Forbedrede skjold gir heltene {MODIFIERDEFENDER} % mindre mana."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.yellow","Forbedrer alle [##elementyellow]hellig[#]-skjold på brettet. Forbedrede skjold gir heltene {MODIFIERDEFENDER} % mindre mana."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.blue","Forbedrer alle [##elementblue]is[#]-skjold på brettet. Forbedrede skjold gir heltene {MODIFIERATTACKER} % mer mana."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.green","Forbedrer alle [##elementgreen]natur[#]-skjold på brettet. Forbedrede skjold gir heltene {MODIFIERATTACKER} % mer mana."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.purple","Forbedrer alle [##elementpurple]mørk[#]-skjold på brettet. Forbedrede skjold gir heltene {MODIFIERATTACKER} % mer mana."
+"specials.v2.property.tileenhancement.manamultiplier.playercharacters.red","Forbedrer alle [##elementred]ild[#]-skjold på brettet. Forbedrede skjold gir heltene {MODIFIERATTACKER} % mer mana."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.yellow","Forbedrer alle [##elementyellow]hellig[#]-skjold på brettet. Forbedrede skjold gir heltene {MODIFIERATTACKER} % mer mana."
 "specials.v2.property.upgrademinortomajorbasedontilecount.yellow","Hvis det er {REQUIREDTILECOUNT} eller flere [##elementyellow]hellige skjold[#] på brettet, er alle effekter brukt i denne spesialeffekten umulige å fjerne."
 "specials.v2.property.wither.extra","Visne og vekst modifiserer figurens egenskapsscore. Effekten blir værende selv om figuren beseires.
@@ -31061,6 +31074,15 @@ Etter [#!]{TURNSLEFT}[#] runder:
 "temp.halloween_summon_promo7","Bruk optimistisk ånd for en gratis fremkalling!"
 "temp.halloween_summon_promo8","Garantert full forbedring for hvilken som helst fremhevet helt!"
 "temp.halloween_summon_promo9","Garantert full forbedring for fremhevede helter!"
+"temp_fiend","[#!]Frøplante-djevelen[#] utvikler seg til en [#!]knopp-djevel[#] etter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
+[*][#!]Knopp-djevelen[#] utvikler seg til en [#!]blomst-megadjevel[#] etter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
+
+[*] [#!]Frøplante-djevel[#]: [#!]{EVOLVINGFAMILIAR1ATTACK}[#] % angrep, [#!]{EVOLVINGFAMILIAR1HEALTH}[#] % helse
+[*] [#!]Knopp-djevel[#]: [#!]{EVOLVINGFAMILIAR2ATTACK}[#] % angrep, [#!]{EVOLVINGFAMILIAR2HEALTH}[#] % helse
+[*] [#!]Blomst-megadjevel[#]: [#!]{EVOLVINGFAMILIAR3ATTACK}[#] % angrep, [#!]{EVOLVINGFAMILIAR3HEALTH}[#] % helse
+
+[*]En djevel skader målet sitt hver runde. En djevel forsvinner etter å ha absorbert helse. Mengde helse som kreves avhenger av målets maksimale helse.
+[*]Djevelens utvikling forsinkes med {EVOLVINGFAMILIAR1TURNSDELAY} runder hver gang de absorberer helbredelse."
 "tilebooster.ancient_underroot.title","Ultraflis-økning"
 "tilebooster.maxactivationcount","Hver flisøkning kan aktiveres én gang per runde."
 "tilebooster.maxactivationcount#2","Hver flisøkning kan aktiveres [#!]{0}[#] gang per runde."

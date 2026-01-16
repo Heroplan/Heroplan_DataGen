@@ -2329,8 +2329,11 @@
 "calendar.chest.name.halloween","Сундук Хэллоуина"
 "calendar.chest.name.kalevala","Сундук Калевалы"
 "calendar.chest.name.lunarnewyear","Сундук Китайского Нового года"
+"calendar.chest.name.valentinesseasonal","Сундук Валентина"
 "calendar.chest.valentinesseasonal.description","Купите не менее {0} и получите 
 [#!]СУНДУК СВ. ВАЛЕНТИНА[#]"
+"calendar.chest.valentinesseasonal.description.claimed","Спасибо, что получили
+[#!]СУНДУК СВ. ВАЛЕНТИНА[#]!"
 "ccpa.dialog.advertising_partners","Партнеры по онлайн-рекламе"
 "ccpa.dialog.button","Не делитесь моей личной информацией и не продавайте ее (включая информацию о просмотре видео)"
 "ccpa.dialog.message","Мы используем рекламу, чтобы приложение оставалось бесплатным, и хотели бы сделать игровые объявления более персонализированными. Для этого мы разрешаем некоторым из наших партнеров по интернет-рекламе собирать информацию о вас (например, данные учетной записи, которые вы нам предоставляете, рекламный идентификатор устройства и другую информацию о нем). В некоторых штатах США это называется «продавать» или «делиться данными». Мы также можем передавать вашу личную информацию и информацию о просмотре видео третьим лицам в рекламных целях.
@@ -5658,7 +5661,7 @@ Thank you for your signup!"
 "herocard.passive_skill.description.resist.frost.with_effect.healthboost.addmana","Герой обладает иммунитетом к недугам, наносящим урон от [#!]мороза[#], а при успешном сопротивлении увеличивает свое здоровье на {HEALTHBOOST} и получает {MANA} % маны."
 "herocard.passive_skill.description.resist.healeffects","Персонаж обладает иммунитетом к недугам, которые влияют на [#!]лечение[#]."
 "herocard.passive_skill.description.resist.healthsteal","Персонаж обладает иммунитетом к недугам, которые [#!]крадут здоровье[#]."
-"herocard.passive_skill.description.resist.insanity.permanentstatuseffects","Персонаж облажает иммунитетом к [#!]безумию[#]."
+"herocard.passive_skill.description.resist.insanity.permanentstatuseffects","Персонаж обладает иммунитетом к [#!]безумию[#]."
 "herocard.passive_skill.description.resist.manadebuffs","Персонаж обладает иммунитетом к недугам, которые влияют на ману."
 "herocard.passive_skill.description.resist.manaeffectsandspecialblocking","Этот персонаж обладает иммунитетом к недугам, влияющим на генерацию маны или мешающим использованию особых навыков."
 "herocard.passive_skill.description.resist.manaeffectsandspecialblocking.with_chance","Этот персонаж с вероятностью [#!]{CHANCE} %[#] устоит против недугов, влияющих на ману или мешающих использованию особых навыков."
@@ -5691,7 +5694,10 @@ Thank you for your signup!"
 [*][#!]{INHERITEDHEALTH} %[#]  здоровья от героя. 
 [*][#!]{ATTACK}[#] атаки.
 [*][#!]{DEFENSE}[#] защиты.
-[*]Особый навык: [#!]""Жуткое проклятие""[#].
+[*]Особый навык:
+
+[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 Если во время активации [#!]безумия[#] герой уничтожает сам себя, то шанс становится равным [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","При поражении герой может возродиться в виде [#!]хозяина жути[#]. Шанс [#!]{CHANCEINCREASEPERSTEP} %[#] за [#!]{INSANITYPERSTEP}[#] ед. [#!]безумия[#] у героя, до максимума [#!]{MAXCHANCEINCREASE} %[#!].
@@ -6376,7 +6382,7 @@ Thank you for your signup!"
 "heroes.name.construct_skarn","Скарн"
 "heroes.name.construct_sylosis","Силоз"
 "heroes.name.construct_tenebrae","Тенебра"
-"heroes.name.construct_zavok","Завок"
+"heroes.name.construct_zavok","Заволт"
 "heroes.name.cultist_female_poisoner","Лайла"
 "heroes.name.cultist_inventor","Квинт"
 "heroes.name.cultist_mage","Бальтазар"
@@ -11104,6 +11110,7 @@ Thank you for your signup!"
 "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid","Герои семьи [#!]купидонов[#] обладают иммунитетом к недугам, которые влияют на лечение."
 "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid","Герои семьи [#!]купидонов[#] сопротивляются уменьшению маны."
 "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid","Герои семьи [#!]купидонов[#] обладают иммунитетом к недугам, влияющим на генерацию маны."
+"level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid","Герои семьи [#!]купидонов[#] сопротивляются  [#!]паразитам[#]."
 "level.info.property.description.villains.npcs","На этапах ""Лиги злодеев"" каждый раз, когда вы используете особый навык или боевое снаряжение, приближается [#!]божественный удар[#]!
 
 [#!]Когда наносится божественный удар,[#]
@@ -11459,7 +11466,7 @@ Thank you for your signup!"
 "linkaccount.dialog.ensure.android","Защитите вашу учетную запись, выполнив вход в Google Play!"
 "linkaccount.dialog.ensure.ios","Защитите вашу учетную запись, выполнив вход в Game Center!"
 "linkaccount.dialog.gamecenter","Зайдите в настройки вашего устройства, чтобы войти в Game Center."
-"linkaccount.dialog.googleplay","Для входа перейдите в настройки Play Games на вашем устройстве."
+"linkaccount.dialog.googleplay","Перейдите в настройки игры, чтобы войти в Google Play."
 "linkaccount.dialog.note","Важно!"
 "linkaccount.dialog.notsafe","Выполните вход, чтобы сохранить свой прогресс!"
 "linkaccount.dialog.saveyourprogress","Сохраните свой прогресс!"
@@ -15365,6 +15372,7 @@ Thank you for your signup!"
 "notifications.mail","📮 Вы получили письмо! 📮"
 "notifications.mercenary_war.energy_refill","👑⚔️ Энергия войны трех королевств восстановлена. Пора сражаться! ⚔️👑"
 "notifications.mercenary_war.started","👑⚔️ Война трех королевств началась. Вы нужны своему королевству! ⚔️👑"
+"notifications.mimicsummon","Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
 "notifications.new_season","Командир, нас ждут новые приключения! Сражайтесь с новыми врагами и призывайте новых героев в ""Нерассказанных историях""!"
 "notifications.pveenergy","⚔️ Мировая энергия восстановлена. Время сражаться! ⚔️"
 "notifications.quest.limitbreak","⚔️ Доступен квест ""Слом ограничений"". Пройдите испытание, чтобы получить расходники для слома ограничений! 🎉"
@@ -15378,7 +15386,7 @@ Thank you for your signup!"
 "notifications.temple","💎⭐🏴 ПРИЗЫВ ХРАМА ОТКРЫВАЕТСЯ! Призовите легендарного героя события и получите бонусного легендарного героя события бесплатно! 💎⭐🏴"
 "notifications.titan_reward","🐉💎 Доступна добыча титана! 💎🐉"
 "notifications.titan_spawned","⚔️ 🐲 Появился новый титан! 🐲⚔"
-"notifications.titanhunter","💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+"notifications.titanhunter","💎⭐🏴 ПРИЗЫВ охотника на титанов УЖЕ ОТКРЫТ! Призовите гибельных для титанов героев! 💎⭐🏴"
 "notifications.training","💪 Обучение окончено! 💪"
 "notifications.ubertitan.energy","⚔️ Энергия мифического титана восстановлена. Пора сражаться! ⚔️"
 "notifications.upgrade","✨⬆️ Вы улучшили: {0}! ⬆️✨"
@@ -15673,9 +15681,9 @@ Thank you for your signup!"
 "odds.lootbox.powergrade.ascension1","Одно перерождение"
 "odds.lootbox.powergrade.ascension2","Два перерождения"
 "odds.lootbox.powergrade.basic","Базовое"
-"odds.lootbox.powergrade.limitbreak1","LB1"
+"odds.lootbox.powergrade.limitbreak1","Лб1"
 "odds.lootbox.powergrade.limitbreak1maxtalents","СО1 с полными эмблемами"
-"odds.lootbox.powergrade.limitbreak2","LB2"
+"odds.lootbox.powergrade.limitbreak2","Лб2"
 "odds.lootbox.powergrade.limitbreak2maxtalents","СО2 с полными эмблемами"
 "odds.lootbox.powergrade.maxascension","Полностью перерожденный"
 "odds.lootbox.powergrade.maxascensionmaxtalents","Полностью перерожденный с полными эмблемами"
@@ -15753,9 +15761,11 @@ Thank you for your signup!"
 "options.linkaccount.gamecenter.loggedin","Вы вошли в Game Center"
 "options.linkaccount.gamecenter.loggedout","Вы вышли из Game Center"
 "options.linkaccount.googleplay.loggedin","Вы вошли в Google Play"
-"options.linkaccount.googleplay.loggedout","Для входа перейдите в настройки Play Games на вашем устройстве."
+"options.linkaccount.googleplay.loggedout","Вы вышли из Google Play"
 "options.linkaccount.info.gamecenter","Войдите с помощью вашей учетной записи Game Center, чтобы сохранить игру и играть на нескольких iOS устройствах."
-"options.linkaccount.info.googleplay","Войдите с помощью вашей учетной записи Google Play r, чтобы сохранить игру и играть на нескольких Android устройствах."
+"options.linkaccount.info.googleplay","Войдите с помощью вашей учетной записи Google Play, чтобы сохранить игру и играть на нескольких устройствах Android.
+
+Вы можете переключиться на другую учетную запись Google Play, используя настройки приложения Play Games на вашем устройстве."
 "options.linkaccount.label","Сохраняйте игру для всех устройств"
 "options.linkaccount.signedinas","Вы вошли как [#!]{0}[#]"
 "options.privacy","Политика конфиденциальности"
@@ -20834,7 +20844,7 @@ Thank you for your signup!"
 "specials.name.chains_of_light","Цепи света"
 "specials.name.chakram_kick","Удар шакрама"
 "specials.name.challenge_the_strongest","Вызов сильнейшему"
-"specials.name.champagne_hammer","Молот шампанского"
+"specials.name.champagne_hammer","Бутылочный молот"
 "specials.name.champion_maneuver","Геройский маневр"
 "specials.name.championship_carrot","Чемпионская морковь"
 "specials.name.change_stance","Удар наудачу"
@@ -22835,7 +22845,7 @@ Thank you for your signup!"
 "specials.strongattack.green","Наносит дополнительный урон [#70e92f]Природе[#]."
 "specials.strongattack.red","Наносит дополнительный урон [#ff9f81]Огню[#]."
 "specials.strongattack.yellow","Наносит дополнительный урон [#f2e33a]Святыне[#]."
-"specials.v2.bigminion.aberration_big_minion.single","Призывает мегаприслужника-мутанта с {FAMILIARHEALTHPERCENT} % здоровья и {FAMILIARATTACK} % атаки, получаемых от героя.
+"specials.v2.bigminion.aberration_big_minion.single","Призывает мегаприслужника-мутанта с {FAMILIARHEALTHPERCENT} % здоровья и {FAMILIARATTACK} % атаки героя.
 
 Каждый удар мегаприслужника-мутанта дает цели следующий недуг:"
 "specials.v2.bigminion.black_boar_mega_minion.single","Призывает черного мегавепря с {FAMILIARHEALTHPERCENT} % здоровья и {FAMILIARATTACK} % атаки, получаемой от героя."
@@ -23964,14 +23974,17 @@ Thank you for your signup!"
 "specials.v2.property.tileenhancement.manamultiplier.both.blue","Изменяет силу всех щитов [##elementblue]льда[#] на поле. Когда атакующий герой использует особый навык, щиты усиливаются и приносят на {MODIFIERATTACKER} % больше маны. Если особый навык использует герой защиты, щиты ослабляются и приносят на {MODIFIERDEFENDER} % меньше маны."
 "specials.v2.property.tileenhancement.manamultiplier.both.green","Изменяет силу всех щитов [##elementgreen]природы[#] на поле. Когда атакующий герой использует особый навык, щиты усиливаются и приносят на {MODIFIERATTACKER} % больше маны. Если особый навык использует герой защиты, щиты ослабляются и приносят на {MODIFIERDEFENDER} % меньше маны."
 "specials.v2.property.tileenhancement.manamultiplier.both.purple","Изменяет силу всех щитов [##elementpurple]тьмы[#] на поле. Когда атакующий герой использует особый навык, щиты усиливаются и приносят на {MODIFIERATTACKER} % больше маны. Если особый навык использует герой защиты, щиты ослабляются и приносят на {MODIFIERDEFENDER} % меньше маны."
+"specials.v2.property.tileenhancement.manamultiplier.both.red","Изменяет силу всех щитов [##elementred]огня[#] на поле. Когда атакующий герой использует особый навык, щиты усиливаются и приносят на {MODIFIERATTACKER} % больше маны. Если особый навык использует герой защиты, щиты ослабляются и приносят на {MODIFIERDEFENDER} % меньше маны."
 "specials.v2.property.tileenhancement.manamultiplier.both.yellow","Изменяет силу всех щитов [##elementyellow]святыни[#] на поле. Когда атакующий герой использует особый навык, щиты усиливаются и приносят на {MODIFIERATTACKER} % больше маны. Если особый навык использует герой защиты, щиты ослабляются и приносят на {MODIFIERDEFENDER} % меньше маны."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.blue","Усиливает все щиты [##elementblue]льда[#] на поле. Усиленные щиты приносят на {MODIFIERDEFENDER} % меньше маны героям."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.green","Усиливает все щиты [##elementgreen]природы[#] на поле. Усиленные щиты приносят на {MODIFIERDEFENDER} % меньше маны героям."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.purple","Усиливает все щиты [##elementpurple]тьмы[#] на поле. Усиленные щиты приносят на {MODIFIERDEFENDER} % меньше маны героям."
+"specials.v2.property.tileenhancement.manamultiplier.npcs.red","Усиливает все щиты [##elementred]огня[#] на поле. Усиленные щиты приносят на {MODIFIERDEFENDER} % меньше маны героям."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.yellow","Усиливает все щиты [##elementyellow]святыни[#] на поле. Усиленные щиты приносят на {MODIFIERDEFENDER} % меньше маны героям."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.blue","Усиливает все щиты [##elementblue]льда[#] на поле. Усиленные щиты приносят на {MODIFIERATTACKER} % больше маны героям."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.green","Усиливает все щиты [##elementgreen]природы[#] на поле. Усиленные щиты приносят на {MODIFIERATTACKER} % больше маны героям."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.purple","Усиливает все щиты [##elementpurple]тьмы[#] на поле. Усиленные щиты приносят на {MODIFIERATTACKER} % больше маны героям."
+"specials.v2.property.tileenhancement.manamultiplier.playercharacters.red","Усиливает все щиты [##elementred]огня[#] на поле. Усиленные щиты приносят на {MODIFIERATTACKER} % больше маны героям."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.yellow","Усиливает все щиты [##elementyellow]святыни[#] на поле. Усиленные щиты приносят на {MODIFIERATTACKER} % больше маны героям."
 "specials.v2.property.upgrademinortomajorbasedontilecount.yellow","Если на поле {REQUIREDTILECOUNT} или больше [##elementyellow]щитов святыни[#], все эффекты, используемые в этом особом навыке, нельзя снять."
 "specials.v2.property.wither.extra","Рост и увядание изменяют счет способностей героев. Эффект сохраняется, даже если герой погибает.
@@ -30769,7 +30782,7 @@ Thank you for your signup!"
 "summon.super_deal.black_friday","Суперакция!"
 "summon.three_in_one_legendary.button_shadow","Бонусный
 раунд!"
-"summon.three_in_one_legendary.button_shadow_3x","3x"
+"summon.three_in_one_legendary.button_shadow_3x","3 x"
 "summon.two_in_one_legendary.button_goblin","Шанс ""Два в одном"""
 "summon.two_in_one_legendary.description","За каждого призванного [#ffc3ff]легендарного[#] героя вы получите еще одного [#ffc3ff]легендарного[#] героя (не из рекомендованных) в качестве бонуса."
 "summon.two_in_one_legendary.description_astralelves","Когда вы призываете [#ffc3ff]легендарного[#] астрального героя, то получаете другого [#ffc3ff]легендарного[#] астрального героя бесплатно!"
@@ -31050,6 +31063,15 @@ Thank you for your signup!"
 "temp.halloween_summon_promo7","Используйте кровавых духов для бесплатного призыва!"
 "temp.halloween_summon_promo8","Гарантированное полное перерождение для любого рекомендованного героя!"
 "temp.halloween_summon_promo9","Гарантированное полное перерождение для рекомендованных героев!"
+"temp_fiend","[#!]Росток-паразит[#] превращается в [#!]пророщенного паразита[#] спустя {EVOLVINGFAMILIAR1EVOLVETURNS} х.
+[*][#!]Пророщенный паразит[#] превращается в [#!]цветущего мегапаразита[#] спустя {EVOLVINGFAMILIAR2EVOLVETURNS} х.
+
+[*] [#!]Росток-паразит[#]: [#!]{EVOLVINGFAMILIAR1ATTACK}[#] % атаки, [#!]{EVOLVINGFAMILIAR1HEALTH}[#] % здоровья
+[*] [#!]Пророщенный паразит[#]: [#!]{EVOLVINGFAMILIAR2ATTACK}[#] % атаки, [#!]{EVOLVINGFAMILIAR2HEALTH}[#] % здоровья
+[*] [#!]Цветущий мегапаразит[#]: [#!]{EVOLVINGFAMILIAR3ATTACK}[#] % атаки, [#!]{EVOLVINGFAMILIAR3HEALTH}[#] % здоровья
+
+[*]Паразит наносит урон своей цели каждый ход. Паразит поглощает лечение и исчезает, когда впитает исцеление в размере, зависящем от макс. здоровья цели.
+[*]Эволюция паразитов задерживается на {EVOLVINGFAMILIAR1TURNSDELAY} х. всякий раз, когда они поглощают лечение."
 "tilebooster.ancient_underroot.title","Ультраусиление щита"
 "tilebooster.maxactivationcount","Усилитель каждого щита можно активировать один раз за ход."
 "tilebooster.maxactivationcount#2","Усилитель каждого щита можно активировать [#!]{0}[#] раз за ход."

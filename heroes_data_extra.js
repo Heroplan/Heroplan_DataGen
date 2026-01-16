@@ -43108,5 +43108,57 @@ window.allHeroesExtra = [
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "family": "construct"
+    },
+    {
+        "name": "Experience Mimic Rare Fire",
+        "fancy name": "Trove of the Tiny Teeth",
+        "element": "Red",
+        "rarity": 3,
+        "class": "Sorcerer",
+        "speed": "average",
+        "Release date": "2026-01-16",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "Minions Counters",
+            "Snipers",
+            "Bypassers",
+            "Ghost Form & Hiding"
+        ],
+        "heroId": "mimic_experience_rare_red",
+        "baseAttack": 315,
+        "baseDefense": 315,
+        "baseHealth": 535,
+        "specialId": "greedy_munch_red",
+        "passiveSkills": [
+            "mimic_experience_rare_red",
+            "never_miss_special"
+        ],
+        "family": "mimic"
+    },
+    {
+        "name": "Ascension Mimic Epic Holy",
+        "fancy name": "Grinning Cache of Lesser Evil",
+        "element": "Yellow",
+        "rarity": 4,
+        "class": "Wizard",
+        "speed": "average",
+        "Release date": "2026-01-16",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "Snipers",
+            "Bypassers",
+            "DoT Attackers",
+            "Ghost Form & Hiding"
+        ],
+        "heroId": "mimic_ascension_epic_yellow",
+        "baseAttack": 375,
+        "baseDefense": 375,
+        "baseHealth": 710,
+        "specialId": "gorging_bite_yellow",
+        "passiveSkills": [
+            "mimic_ascension_epic_yellow",
+            "never_miss_special"
+        ],
+        "family": "mimic"
     }
 ];

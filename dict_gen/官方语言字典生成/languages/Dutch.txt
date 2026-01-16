@@ -2330,8 +2330,11 @@ Weet je zeker dat je deze grondstoffen wilt vernietigen?"
 "calendar.chest.name.halloween","Halloweenkist"
 "calendar.chest.name.kalevala","Kalevalakist"
 "calendar.chest.name.lunarnewyear","Maanjaarkist"
+"calendar.chest.name.valentinesseasonal","Valentijnskist"
 "calendar.chest.valentinesseasonal.description","Koop er {0} of meer voor een 
 [#!]VALENTIJNSKIST[#]"
+"calendar.chest.valentinesseasonal.description.claimed","Bedankt voor het claimen van de
+[#!]VALENTIJNENKIST[#]!"
 "ccpa.dialog.advertising_partners","Partners voor online advertenties"
 "ccpa.dialog.button","Mijn persoonlijke informatie niet verkopen of delen (inclusief informatie over het bekijken van video's)"
 "ccpa.dialog.message","We zijn afhankelijk van advertenties om deze app gratis te houden en willen je graag meer gepersonaliseerde reclame in de game laten zien. Om dit te kunnen doen, staan we bepaalde online reclamepartners toe om informatie over jou te verzamelen (bijv. profielinformatie die je ons verstrekt, de advertentie-ID van je apparaat en andere apparaatinformatie). Dit wordt beschouwd als 'verkopen' of 'delen' in bepaalde Amerikaanse staten. We kunnen je persoonlijke informatie en informatie over het bekijken van video's ook delen met derden voor reclame.
@@ -5680,15 +5683,19 @@ Dit geldt ook voor statuseffectoppeppers en -aandoeningen, positieve en negatiev
 "herocard.passive_skill.description.resistsupportcharacter.troop.alldebuffs.with_chance","[#!]{CHANCE}%[#] extra kans om alle statuseffecten te weerstaan."
 "herocard.passive_skill.description.revivalchancemodifier.all.enemies","De kans op terugkeer is kleiner voor alle vijanden in de strijd. De kans is [#!]{MODIFIER}%[#] van de oorspronkelijke waarde."
 "herocard.passive_skill.description.revivalhealthmodifier.all.enemies.excluding.boss","Alle vijanden krijgen [#!]{HEALTHMODIFIER}%[#] gezondheid als ze terugkeren. Niet van invloed op eindbazen."
-"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance","Als dit personage verslagen wordt, is er een kans dat het herboren wordt als een [#!]Eldritch-host[#]. De kans is [#!]{CHANCEINCREASEPERSTEP}%[#] per [#!]{INSANITYPERSTEP}[#] [#!]waanzin[#] voor dit personage, en maximaal [#!]{MAXCHANCEINCREASE}%[#]. 
+"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance","Als dit personage verslagen wordt, is er een kans dat het herboren wordt als een [#!]Eldritch-host[#]. De kans is [#!]{CHANCEINCREASEPERSTEP}%[#] per [#!]{INSANITYPERSTEP}[#] [#!]waanzin[#] voor dit personage en maximaal [#!]{MAXCHANCEINCREASE}%[#].
 
-De [#!]Eldritch-host[#] erft:
-[*][#!]{INHERITEDHEALTH}%[#] gezondheid 
+De [#!]Eldritch-host[#] heeft:
+[*][#!]{INHERITEDHEALTH}%[#] geërfde gezondheid. 
 [*][#!]{ATTACK}[#] aanval.
 [*][#!]{DEFENSE}[#] verdediging.
 [*]Speciale vaardigheid: [#!]Eldritch-verderf[#].
+[*]De volgende speciale vaardigheid:
 
-Als dit personage zichzelf verslaat wanneer [#!]waanzin[#] geactiveerd wordt, is de kans [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
+[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
+
+Als dit personage zichzelf verslaat terwijl [#!]waanzin[#] wordt geactiveerd, is de kans op hergeboorte altijd [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Als dit personage verslagen wordt, is er een kans dat het herboren wordt als een [#!]Eldritch-host[#]. De kans is [#!]{CHANCEINCREASEPERSTEP}%[#] per [#!]{INSANITYPERSTEP}[#] [#!]waanzin[#] voor dit personage en maximaal [#!]{MAXCHANCEINCREASE}%[#].
 
 De [#!]Eldritch-host[#] heeft:
@@ -6379,7 +6386,7 @@ Alleen [#ffc3ff]LEGENDARISCHE[#] helden die nog niet volledig verheven zijn, kun
 "heroes.name.construct_skarn","Skarn"
 "heroes.name.construct_sylosis","Sylosis"
 "heroes.name.construct_tenebrae","Tenebrae"
-"heroes.name.construct_zavok","Zavok"
+"heroes.name.construct_zavok","Zavolt"
 "heroes.name.cultist_female_poisoner","Layla"
 "heroes.name.cultist_inventor","Quintus"
 "heroes.name.cultist_mage","Balthazar"
@@ -11117,6 +11124,7 @@ Alle [#ff7a4c]vuurhelden[#] krijgen [#!]{REDATTACK}%[#] aanvalskracht onder wate
 "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid","Helden uit de [#!]Cupido[#]-familie zijn immuun voor statusaandoeningen die invloed hebben op de genezing."
 "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid","Helden uit de [#!]Cupido[#]-familie zijn immuun voor manareducties."
 "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid","Helden uit de [#!]Cupido[#]-familie zijn immuun voor statusaandoeningen die invloed hebben op de manarecuperatie."
+"level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid","Helden uit de [#!]Cupido-familie[#] weerstaan [#!]demonen[#]."
 "level.info.property.description.villains.npcs","Elke keer dat je in de etappen van het Verbond van schurken een speciale vaardigheid of een strijdvoorwerp gebruikt, komt de [#!]Goddelijke dreun[#] dichterbij!
 
 [#!]Wanneer de Goddelijke dreun wordt bereikt[#]
@@ -11472,7 +11480,7 @@ Je kunt rode geluksmunten krijgen als beloning uit gevechten in de [#!]Oorlog va
 "linkaccount.dialog.ensure.android","Houd je account veilig door in te loggen via Google Play!"
 "linkaccount.dialog.ensure.ios","Houd je account veilig door in te loggen via Game Center!"
 "linkaccount.dialog.gamecenter","Ga naar de instellingen op je apparaat om in te loggen op Game Center."
-"linkaccount.dialog.googleplay","Ga naar de Play Games-instellingen op je apparaat en meld je aan."
+"linkaccount.dialog.googleplay","Ga naar de spelinstellingen om in te loggen via Google Play."
 "linkaccount.dialog.note","Belangrijk!"
 "linkaccount.dialog.notsafe","Log in om je voortgang op te slaan!"
 "linkaccount.dialog.saveyourprogress","Sla je voortgang op!"
@@ -15350,6 +15358,7 @@ Als je de [#!]mystieke aanroep[#] verwijdert, is deze niet meer beschikbaar tot 
 "notifications.mail","📮 Je hebt een nieuw bericht! 📮"
 "notifications.mercenary_war.energy_refill","👑⚔️ Energie voor de Oorlog van de drie koninkrijken hersteld. Tijd om te vechten!⚔️ ️👑"
 "notifications.mercenary_war.started","👑⚔️ Oorlog van de drie koninkrijken is begonnen. Je alliantie heeft je nodig! ⚔️👑"
+"notifications.mimicsummon","Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
 "notifications.new_season","Commandant, een nieuw avontuur wacht! Ga de strijd aan met nieuwe vijanden en roep nieuwe helden aan in Niet-vertelde verhalen!"
 "notifications.pveenergy","⚔️ Wereldenergie hersteld. Tijd om te vechten! ⚔️"
 "notifications.quest.limitbreak","⚔️ Limietbreukqueeste beschikbaar. Ga de uitdaging aan om limietbreukitems te verdienen! 🎉"
@@ -15363,7 +15372,7 @@ Als je de [#!]mystieke aanroep[#] verwijdert, is deze niet meer beschikbaar tot 
 "notifications.temple","💎⭐🏴 TEMPELOPROEP NU GEOPEND! Roep een legendarische evenementsheld aan en krijg een gratis legendarische evenementsheld als bonus! 💎⭐🏴"
 "notifications.titan_reward","🐉💎 Titanenbuit beschikbaar! 💎🐉"
 "notifications.titan_spawned","⚔️ 🐲 Er is een nieuwe Titaan verschenen! 🐲⚔"
-"notifications.titanhunter","💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+"notifications.titanhunter","💎⭐🏴 Titanenjager-AANROEP NU GEOPEND! Roep helden aan die verwoestend zijn tegen Titanen! 💎⭐🏴"
 "notifications.training","💪 Training voltooid! 💪"
 "notifications.ubertitan.energy","⚔️ Mythische titaan-energie hersteld. Tijd om te vechten! ⚔️"
 "notifications.upgrade","✨⬆️ {0} is uitgebouwd! ⬆️✨"
@@ -15738,9 +15747,11 @@ De inbegrepen helden uit seizoen 3 komen uit de rijken Jotunheim, Muspelheim en 
 "options.linkaccount.gamecenter.loggedin","Ingelogd op Game Center"
 "options.linkaccount.gamecenter.loggedout","Uitgelogd van Game Center"
 "options.linkaccount.googleplay.loggedin","Aangemeld via Google Play"
-"options.linkaccount.googleplay.loggedout","Ga naar de Play Games-instellingen op je apparaat en meld je aan."
+"options.linkaccount.googleplay.loggedout","Afgemeld via Google Play"
 "options.linkaccount.info.gamecenter","Meld je aan via je Game Center-account om je voortgang op te slaan en op meerdere iOS-apparaten te spelen."
-"options.linkaccount.info.googleplay","Meld je aan via je Game Center-account om je voortgang op te slaan en op meerdere Android-apparaten te spelen."
+"options.linkaccount.info.googleplay","Meld je aan via je Google Play-account om je voortgang op te slaan en op meerdere Android-apparaten te spelen.
+
+ Je kunt overschakelen naar een ander Google Play-account via de instellingen van de Play Games-app op je telefoon."
 "options.linkaccount.label","Bewaar je spel op meerdere apparaten"
 "options.linkaccount.signedinas","Aangemeld als [#!]{0}[#]"
 "options.privacy","Privacybeleid"
@@ -20810,7 +20821,7 @@ Selecteer minder helden."
 "specials.name.chains_of_light","Ketenen van het licht"
 "specials.name.chakram_kick","Chakramschop"
 "specials.name.challenge_the_strongest","De sterkste uitdagen"
-"specials.name.champagne_hammer","Champagnehamer"
+"specials.name.champagne_hammer","Fleshamer"
 "specials.name.champion_maneuver","Kampioensmanoeuvre"
 "specials.name.championship_carrot","Kampioenschapswortel"
 "specials.name.change_stance","Houw van de gokker"
@@ -22811,7 +22822,7 @@ Selecteer minder helden."
 "specials.strongattack.green","Extra schadelijk tegen [#70e92f]Natuur[#]."
 "specials.strongattack.red","Extra schadelijk tegen [#ff9f81]Vuur[#]."
 "specials.strongattack.yellow","Extra schadelijk tegen [#f2e33a]Heiligheid[#]."
-"specials.v2.bigminion.aberration_big_minion.single","Roept voor elke bondgenoot een atypische megavolgeling aan met {FAMILIARHEALTHPERCENT}% gezondheid en {FAMILIARATTACK}% aanval van de spreukspreker.
+"specials.v2.bigminion.aberration_big_minion.single","Roept een atypische megavolgeling aan met {FAMILIARHEALTHPERCENT}% gezondheid en {FAMILIARATTACK}% aanval van de spreukspreker.
 
 Elke treffer van de atypische megavolgeling geeft het doelwit het volgende negatieve statuseffect:"
 "specials.v2.bigminion.black_boar_mega_minion.single","Roept een zwart everzwijn-megavolgeling aan die {FAMILIARHEALTHPERCENT}% van de gezondheid en {FAMILIARATTACK}% van de aanvalskracht erft van de spreukspreker."
@@ -23942,14 +23953,17 @@ Omzetten naar:
 "specials.v2.property.tileenhancement.manamultiplier.both.blue","Verandert de kracht van alle [##elementblue]ijsschilden[#] op het bord. Als een aanvallende held een speciale vaardigheid gebruikt, worden de schilden versterkt en leveren {MODIFIERATTACKER}% meer mana op. Als een verdedigende held een speciale vaardigheid gebruikt, verzwakken de schilden en leveren {MODIFIERDEFENDER}% minder mana op."
 "specials.v2.property.tileenhancement.manamultiplier.both.green","Verandert de kracht van alle [##elementgreen]natuur[#]schilden op het bord. Als een aanvallende held zijn/haar speciale vaardigheid gebruikt, worden de schilden versterkt en leveren {MODIFIERATTACKER}% meer mana op. Als een verdedigende held zijn/haar speciale vaardigheid gebruikt, verzwakken de schilden en leveren {MODIFIERDEFENDER}% minder mana op."
 "specials.v2.property.tileenhancement.manamultiplier.both.purple","Verandert de kracht van alle [##elementpurple]duistere schilden[#] op het bord. Als een aanvallende held zijn/haar speciale vaardigheid gebruikt, worden de schilden versterkt en leveren {MODIFIERATTACKER}% meer mana op. Als een verdedigende held zijn/haar speciale vaardigheid gebruikt, verzwakken de schilden en leveren {MODIFIERDEFENDER}% minder mana op."
+"specials.v2.property.tileenhancement.manamultiplier.both.red","Verandert de kracht van alle [##elementred]vuurschilden[#] op het bord. Als een aanvallende held een speciale vaardigheid gebruikt, worden de schilden versterkt en leveren {MODIFIERATTACKER}% meer mana op. Als een verdedigende held een speciale vaardigheid gebruikt, verzwakken de schilden en leveren {MODIFIERDEFENDER}% minder mana op."
 "specials.v2.property.tileenhancement.manamultiplier.both.yellow","Verandert de kracht van alle [##elementyellow]heilige[#] schilden op het bord. Als een aanvallende held zijn/haar speciale vaardigheid gebruikt, worden de schilden versterkt en leveren {MODIFIERATTACKER}% meer mana op. Als een verdedigende held zijn/haar speciale vaardigheid gebruikt, verzwakken de schilden en leveren {MODIFIERDEFENDER}% minder mana op."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.blue","Versterkt alle [##elementblue]ijsschilden[#] op het bord. Versterkte schilden geven helden {MODIFIERDEFENDER}% minder mana."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.green","Versterkt alle [##elementgreen]natuur[#]schilden op het bord. Versterkte schilden geven helden {MODIFIERDEFENDER}% minder mana."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.purple","Versterkt alle [##elementpurple]duistere schilden[#] op het bord. Versterkte schilden geven helden {MODIFIERDEFENDER}% minder mana."
+"specials.v2.property.tileenhancement.manamultiplier.npcs.red","Versterkt alle [##elementred]vuurschilden[#] op het bord. Versterkte schilden geven helden {MODIFIERDEFENDER}% minder mana."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.yellow","Versterkt alle [##elementyellow]heilige[#] schilden op het bord. Versterkte schilden geven helden {MODIFIERDEFENDER}% minder mana."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.blue","Versterkt alle [##elementblue]ijsschilden[#] op het bord. Versterkte schilden geven helden {MODIFIERATTACKER}% meer mana."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.green","Versterkt alle [##elementgreen]natuur[#]schilden op het bord. Versterkte schilden geven helden {MODIFIERATTACKER}% meer mana."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.purple","Versterkt alle [##elementpurple]duistere schilden[#] op het bord. Versterkte schilden geven helden {MODIFIERATTACKER}% meer mana."
+"specials.v2.property.tileenhancement.manamultiplier.playercharacters.red","Versterkt alle [##elementred]vuurschilden[#] op het bord. Versterkte schilden geven helden {MODIFIERATTACKER}% meer mana."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.yellow","Versterkt alle [##elementyellow]heilige[#] schilden op het bord. Versterkte schilden geven helden {MODIFIERATTACKER}% meer mana."
 "specials.v2.property.upgrademinortomajorbasedontilecount.yellow","Als er {REQUIREDTILECOUNT} of meer [##elementyellow]heilige schilden[#] op het bord zijn, worden alle door deze speciale vaardigheid toegepaste effecten niet-verwijderbaar."
 "specials.v2.property.wither.extra","Verwelking en groei passen de vaardigheidsscores van personages aan. Het effect blijft zelfs als het personage verslagen wordt.
@@ -31022,6 +31036,15 @@ Na [#!]{TURNSLEFT}[#] beurten:
 "temp.halloween_summon_promo7","Verzameld bloederige geesten voor gratis aanroepen!"
 "temp.halloween_summon_promo8","Gegarandeerde volledige verheffing voor een uitgelichte held!"
 "temp.halloween_summon_promo9","Gegarandeerde volledige verheffing voor uitgelichte helden!"
+"temp_fiend","De [#!]zaailingdemon[#] ontwikkelt zich tot een [#!]scheutdemon[#] na {EVOLVINGFAMILIAR1EVOLVETURNS} beurten.
+[*]De [#!]scheutdemon[#] ontwikkelt zich tot een [#!]bloesemmegademon[#] na {EVOLVINGFAMILIAR2EVOLVETURNS} beurten.
+
+[*] [#!]Zaailingdemon[#]: [#!]{EVOLVINGFAMILIAR1ATTACK}[#]% aanvalskracht, [#!]{EVOLVINGFAMILIAR1HEALTH}[#]% gezondheid
+[*] [#!]Scheutdemon[#]: [#!]{EVOLVINGFAMILIAR2ATTACK}[#]% aanvalskracht, [#!]{EVOLVINGFAMILIAR2HEALTH}[#]% gezondheid
+[*] [#!]Bloesemmegademon[#]: [#!]{EVOLVINGFAMILIAR3ATTACK}[#]% aanvalskracht, [#!]{EVOLVINGFAMILIAR3HEALTH}[#]% gezondheid
+
+[*]Een demon brengt zijn doelwit elke beurt schade toe. Een demon verdwijnt na genezing te hebben geabsorbeerd. De vereiste hoeveelheid genezing hangt af van de maximale gezondheid van het doelwit.
+[*]De evolutie van de demonen wordt elke keer dat ze genezing absorberen vertraagd met {EVOLVINGFAMILIAR1TURNSDELAY} beurt."
 "tilebooster.ancient_underroot.title","Ultravakbooster"
 "tilebooster.maxactivationcount","Iedere vakbooster kan één keer per beurt worden geactiveerd."
 "tilebooster.maxactivationcount#2","Iedere vakbooster kan per beurt [#!]{0}[#] keer worden geactiveerd."

@@ -2335,8 +2335,11 @@ Vuoi davvero distruggere queste risorse?"
 "calendar.chest.name.halloween","Baule di Halloween"
 "calendar.chest.name.kalevala","Baule del Kalevala"
 "calendar.chest.name.lunarnewyear","Baule del Capodanno lunare"
+"calendar.chest.name.valentinesseasonal","Baule di San Valentino"
 "calendar.chest.valentinesseasonal.description","Acquistane {0} o più per ottenere un 
 [#!]BAULE DI SAN VALENTINO[#]"
+"calendar.chest.valentinesseasonal.description.claimed","Grazie per aver riscosso il
+[#!]BAULE DI SAN VALENTINO[#]!"
 "ccpa.dialog.advertising_partners","Partner pubblicitari online"
 "ccpa.dialog.button","Non vendere o condividere i miei dati personali (inclusi i dati sulla visualizzazione dei video)"
 "ccpa.dialog.message","Ci affidiamo agli annunci per mantenere l'app gratuita, e vorremmo mostrarti annunci più personalizzati nel gioco. A tal fine, consentiamo ad alcuni partner pubblicitari online di raccogliere dati su di te (come le informazioni sul profilo che tu ci fornisci, l'ID pubblicitario e altre informazioni sul dispositivo). In alcuni Stati americani, questa è considerata una ""vendita"" o una ""condivisione"". Potremmo anche condividere i tuoi dati personali e sulla visualizzazione dei video con terze parti a fini pubblicitari.
@@ -5266,7 +5269,7 @@ Il [#!]Nucleo distruttivo[#] si attiva ogni volta che viene lanciata l'Abilità 
 
 Il [#!]Nucleo servitore[#] si attiva ogni volta che viene utilizzata l'Abilità speciale di questo personaggio:
 
-[*] Con un [#!]Nucleo servitore[#] completamente carico, chiama un servitore Killer Bot con {FAMILIARHEALTHPERCENT}% HP e {FAMILIARATTACK}% di attacco ereditati dall'alleato su tutti gli alleati.
+[*] Con un [#!]Nucleo servitore[#] completamente carico, chiama un servitore Killer Bot con {FAMILIARHEALTHPERCENT}% HP e {FAMILIARATTACK}% di attacco ereditati dall'evocatore su tutti gli alleati.
 [*] Gli HP e l'attacco ereditati dall'evocatore sono scalati dalla quantità di carica del Nucleo. Tutta la carica si esaurisce quando il Nucleo viene attivato.
 [*] Prima che il servitore Killer Bot colpisca un bersaglio, distrugge tutti i servitori del bersaglio e danneggia i servitori Mega."
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.bigminion.decrease","I [#!]servitori Mega[#] nemici hanno il [#!]{HEALTHMODIFIER}%[#] di HP."
@@ -5305,7 +5308,6 @@ Il [#!]Nucleo servitore[#] si attiva ogni volta che viene utilizzata l'Abilità 
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill","Riduce del [#!]{MODIFIER}%[#] la quantità di mana aumentata dalle Abilità speciali. L'effetto si applica a tutti i nemici in battaglia."
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect","Riduce del [#!]{MODIFIER}%[#] la quantità di mana aumentata da Abilità speciali, abilità passive, bonus famiglia ed effetti di stato. L'effetto si applica a tutti i nemici in battaglia."
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm","Riduce del [#!]{MODIFIER}%[#] la quantità di mana aumentata da Abilità speciali, abilità passive, bonus famiglia ed effetti di stato. L'effetto si applica a tutti i nemici in battaglia."
-"herocard.passive_skill.description.managenerationmodifier.none","[#!]{MODIFIER}%[#] di rigenerazione mana."
 "herocard.passive_skill.description.manaonownfamiliardeath.minion","Questo personaggio ottiene una piccola quantità di mana quando un suo servitore viene distrutto."
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all","Questo personaggio ha l'abilità innata di [#!]Memorizzare[#] qualsiasi servitore o demone evocato dalle Abilità speciali dei nemici. Gli ultimi servitore e demone evocati dai nemici resteranno memorizzati fino al lancio dell'Abilità speciale."
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all#2","Questo personaggio ha l'abilità innata di [#!]Memorizzare[#] qualsiasi servitore o demone evocato dalle Abilità speciali dei nemici. Gli ultimi {0} servitori e demoni evocati dai nemici resteranno memorizzati fino al lancio dell'Abilità speciale."
@@ -5707,15 +5709,18 @@ Questo include le magie benefiche e i disturbi degli effetti di stato, le iteraz
 "herocard.passive_skill.description.resistsupportcharacter.troop.alldebuffs.with_chance","[#!]{CHANCE}%[#] di probabilità extra di resistere a tutti i disturbi."
 "herocard.passive_skill.description.revivalchancemodifier.all.enemies","Le probabilità di resurrezione sono ridotte per tutti i nemici in battaglia. Le probabilità sono pari al [#!]{MODIFIER}%[#] del valore originale."
 "herocard.passive_skill.description.revivalhealthmodifier.all.enemies.excluding.boss","Tutti i nemici hanno il [#!]{HEALTHMODIFIER}%[#] di Salute quando vengono rianimati. I boss nemici non vengono influenzati."
-"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance","Se sconfitto, questo personaggio ha la possibilità di rinascere come [#!]Ospite sinistro[#]. La probabilità è di un [#!]{CHANCEINCREASEPERSTEP}%[#] per [#!]{INSANITYPERSTEP}[#] [#!]Follia[#] di questo personaggio, fino a una probabilità massima di un [#!]{MAXCHANCEINCREASE}%[#]. 
+"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance","Se sconfitto, questo personaggio ha la possibilità di rinascere come [#!]Ospite sinistro[#]. Le probabilità sono del [#!]{CHANCEINCREASEPERSTEP}%[#] ogni [#!]{INSANITYPERSTEP}[#] [#!]Follia[#] di questo personaggio, fino a una probabilità massima del [#!]{MAXCHANCEINCREASE}%[#].
 
 L'[#!]Ospite sinistro[#] ha:
-[*][#!]{INHERITEDHEALTH}%[#] Salute ereditata. 
-[*][#!]{ATTACK}[#] Attacco.
-[*][#!]{DEFENSE}[#] Difesa.
-[*] Abilità speciale: [#!]Piaga sinistra[#].
+[*] [#!]{INHERITEDHEALTH}%[#] di Salute ereditata.
+[*] [#!]{ATTACK}[#] di Attacco.
+[*] [#!]{DEFENSE}[#] di Difesa.
+[*] Le seguenti Abilità speciali:
 
-Se questo personaggio si sconfigge da sé quando attiva [#!]Follia[#], la probabilità di rinascere è sempre di un [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
+[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
+
+Se questo personaggio si sconfigge da sé quando attiva [#!]Follia[#], le probabilità di rinascere sono sempre del [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Se sconfitto, questo personaggio ha una probabilità di rinascere come [#!]Ospite sinistro[#]. Le probabilità sono del [#!]{CHANCEINCREASEPERSTEP}%[#] per ogni [#!]{INSANITYPERSTEP}[#] di [#!]Follia[#] su questo personaggio, fino a una probabilità massima del [#!]{MAXCHANCEINCREASE}%[#].
 
 L'[#!]Ospite sinistro[#] ha:
@@ -6404,7 +6409,7 @@ Solo gli Eroi [#ffc3ff]LEGGENDARI[#] che non abbiano completato l'ascensione pos
 "heroes.name.construct_skarn","Skarn"
 "heroes.name.construct_sylosis","Sylosis"
 "heroes.name.construct_tenebrae","Tenebrae"
-"heroes.name.construct_zavok","Zavok"
+"heroes.name.construct_zavok","Zavolt"
 "heroes.name.cultist_female_poisoner","Layla"
 "heroes.name.cultist_inventor","Quintus"
 "heroes.name.cultist_mage","Balthazar"
@@ -11142,6 +11147,7 @@ Le [#!]Gemme delle Profondità[#] possono comparire solamente sugli scudi standa
 "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid","Gli Eroi della famiglia [#!]Amorini[#] sono immuni dai disturbi che influiscono sulla guarigione."
 "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid","Gli Eroi della famiglia [#!]Amorini[#] sono immuni dalle riduzioni di mana."
 "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid","Gli Eroi della famiglia [#!]Amorini[#] sono immuni dai disturbi che influiscono sulla rigenerazione mana."
+"level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid","Gli Eroi della famiglia [#!]Amorini[#] resistono ai [#!]demoni[#]."
 "level.info.property.description.villains.npcs","Negli stadi di Lega dei cattivi, ogni volta che usi un'Abilità speciale o un oggetto di battaglia, il [#!]Colpo divino[#] si avvicina!
 
 [#!]All'arrivo del Colpo divino,[#]
@@ -11497,7 +11503,7 @@ Le Monete fortunate rosse possono essere ottenute come ricompensa dalle battagli
 "linkaccount.dialog.ensure.android","Proteggi il tuo account effettuando l'accesso a Google Play!"
 "linkaccount.dialog.ensure.ios","Proteggi il tuo account effettuando l'accesso a Game Center!"
 "linkaccount.dialog.gamecenter","Per accedere a Game Center, vai nelle impostazioni del tuo dispositivo."
-"linkaccount.dialog.googleplay","Vai alle impostazioni di Play Games sul tuo dispositivo per accedere."
+"linkaccount.dialog.googleplay","Per accedere a Google Play, vai nelle impostazioni del tuo dispositivo."
 "linkaccount.dialog.note","Importante!"
 "linkaccount.dialog.notsafe","Accedi per salvare i tuoi progressi!"
 "linkaccount.dialog.saveyourprogress","Salva i tuoi progressi di gioco!"
@@ -11798,7 +11804,7 @@ Ogni {0} Chiamate, ricevi un [#!]baule bonus materiale di ascensione[#]. Puoi ri
 
 Maggiori probabilità di trovare Eroi [#!]Leggendari[#] nella Chiamata delle Dune.
 
-Puoi effettuare le Chiamate usando le Gemme o le [#!]monete delle Dune[#], che puoi ottenere tramite le [#!]Missioni taglia[#], [#!]Battaglie dei Titani rari[#] e superando gli [#!]stadi della Stagione V[#] per la prima volta. Una Chiamata costa 100 monete delle Dune.
+Puoi effettuare le Chiamate usando le Gemme o le [#!]monete delle Dune[#], che puoi ottenere completando gli [#!]stadi della Stagione V[#] per la prima volta. Una Chiamata costa 100 monete delle Dune.
 
 Ogni {0} Chiamate, ricevi un [#!]baule bonus Dinastia delle Dune[#]. Puoi ricevere al massimo [#!]{1}[#] bauli in ogni evento Chiamata delle Dune."
 "lottery.description.long.shadowsummon","Per ogni Eroe Leggendario evocato, riceverai [#00ffc8]3[#] estrazioni bonus, ognuna con il [#00ffc8]{2}%[#] di probabilità di ottenere un altro Eroe Leggendario."
@@ -15397,6 +15403,7 @@ Riprova più tardi."
 "notifications.mail","📮 C'è posta per te! 📮"
 "notifications.mercenary_war.energy_refill","👑⚔️ Energia della Guerra dei tre Regni recuperata. È il momento di combattere! ⚔️👑"
 "notifications.mercenary_war.started","👑⚔️ La Guerra dei Tre Regni è iniziata. Il tuo regno ha bisogno di te! ⚔️👑"
+"notifications.mimicsummon","Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
 "notifications.new_season","Comandante, una nuova avventura ci attende! Combatti contro nuovi nemici e chiama nuovi Eroi nelle Storie non raccontate!"
 "notifications.pveenergy","⚔️ Energia mondiale recuperata! È il momento di combattere! ⚔️"
 "notifications.quest.limitbreak","⚔️ Impresa Spezzalimite disponibile. Affronta la sfida per ottenere oggetti Spezzalimite! 🎉"
@@ -15410,7 +15417,7 @@ Riprova più tardi."
 "notifications.temple","💎⭐🏴 La CHIAMATA del Tempio È DISPONIBILE! Evoca un Eroe evento Leggendario e ottieni un Eroe evento Leggendario bonus gratuitamente! 💎⭐🏴"
 "notifications.titan_reward","🐉💎 Bottino del Titano disponibile! 💎🐉"
 "notifications.titan_spawned","⚔️ 🐲 È apparso un nuovo Titano! 🐲⚔"
-"notifications.titanhunter","💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+"notifications.titanhunter","💎⭐🏴 La CHIAMATA dei cacciatori di Titani APRE ORA! Evoca Eroi devastanti contro i Titani! 💎⭐🏴"
 "notifications.training","💪 Addestramento finito! 💪"
 "notifications.ubertitan.energy","⚔️ Energia del Titano mitico recuperata. È il momento di combattere! ⚔️"
 "notifications.upgrade","✨⬆️ {0} è stato potenziato! ⬆️✨"
@@ -15705,9 +15712,9 @@ Eroe [#ffffff]Raro[#] dell'Impero delle Sabbie: [#!]{0}%[#]"
 "odds.lootbox.powergrade.ascension1","Ascensione singola"
 "odds.lootbox.powergrade.ascension2","Ascensione doppia"
 "odds.lootbox.powergrade.basic","Base"
-"odds.lootbox.powergrade.limitbreak1","LB1"
+"odds.lootbox.powergrade.limitbreak1","SL1"
 "odds.lootbox.powergrade.limitbreak1maxtalents","LB1 ed emblemi pieni"
-"odds.lootbox.powergrade.limitbreak2","LB2"
+"odds.lootbox.powergrade.limitbreak2","SL2"
 "odds.lootbox.powergrade.limitbreak2maxtalents","LB2 ed emblemi pieni"
 "odds.lootbox.powergrade.maxascension","Ascensione completa"
 "odds.lootbox.powergrade.maxascensionmaxtalents","Ascensione completa ed emblemi pieni"
@@ -15785,9 +15792,11 @@ Eroe [#ffffff]Raro[#] dell'Impero delle Sabbie: [#!]{0}%[#]"
 "options.linkaccount.gamecenter.loggedin","Hai effettuato l'accesso a Game Center"
 "options.linkaccount.gamecenter.loggedout","Hai effettuato la disconnessione da Game Center"
 "options.linkaccount.googleplay.loggedin","Hai effettuato l'accesso a Google Play"
-"options.linkaccount.googleplay.loggedout","Vai alle impostazioni di Play Games sul tuo dispositivo per accedere."
+"options.linkaccount.googleplay.loggedout","Hai effettuato la disconnessione da Google Play"
 "options.linkaccount.info.gamecenter","Accedi usando il tuo account Game Center per salvare i progressi e giocare su più dispositivi iOS."
-"options.linkaccount.info.googleplay","Accedi usando il tuo account Google Play per salvare i progressi e giocare su più dispositivi Android."
+"options.linkaccount.info.googleplay","Accedi usando il tuo account Google Play per salvare i progressi e giocare su più dispositivi Android.
+
+Puoi passare a un altro account Google Play attraverso le impostazioni dell'app Play Games del tuo telefono."
 "options.linkaccount.label","Salva il gioco sui tuoi dispositivi"
 "options.linkaccount.signedinas","Hai eseguito l'accesso come [#!]{0}[#]"
 "options.privacy","Informativa sulla Privacy"
@@ -20866,7 +20875,7 @@ Seleziona meno Eroi."
 "specials.name.chains_of_light","Catene di luce"
 "specials.name.chakram_kick","Calcio con chakram"
 "specials.name.challenge_the_strongest","Sfida il più forte"
-"specials.name.champagne_hammer","Martello di champagne"
+"specials.name.champagne_hammer","Martello bottiglia"
 "specials.name.champion_maneuver","Manovra del campione"
 "specials.name.championship_carrot","Carota del campionato"
 "specials.name.change_stance","Colpo del giocatore d'azzardo"
@@ -23311,8 +23320,8 @@ Ogni colpo del servitore Xulu infligge il seguente disturbo al bersaglio:"
 [*]Il demone verme assorbe la guarigione e scompare dopo aver assorbito Salute pari al {FAMILIARHEALTHPERCENT}% della Salute massima del suo bersaglio."
 "specials.v2.parasite.worm_parasite_vollermork_costume.all","Chiama un demone Verme per tutti i nemici. Il demone infligge danni al suo bersaglio con il {FAMILIARATTACK}% di Attacco a ogni turno.
 [*]Il demone Verme assorbe la guarigione e scompare dopo aver assorbito Salute pari al {FAMILIARHEALTHPERCENT}% della Salute massima del suo bersaglio."
-"specials.v2.parasite.wren_fiends.single","Chiama un demone Scricciolo per il bersaglio e per i nemici vicini. Il demone infligge danni al nemico con il {FAMILIARATTACK}% di Attacco a ogni turno.
-[*]Il demone Scricciolo assorbe la guarigione e scompare dopo aver assorbito Salute pari al {FAMILIARHEALTHPERCENT}% della Salute massima del suo bersaglio."
+"specials.v2.parasite.wren_fiends.single","Chiama un demone Scricciolo per il bersaglio. Il demone infligge danni al nemico con il {FAMILIARATTACK}% di Attacco a ogni turno.
+[*] Il demone Scricciolo assorbe la guarigione e scompare dopo aver assorbito Salute pari al {FAMILIARHEALTHPERCENT}% della Salute massima del suo bersaglio."
 "specials.v2.passiveskill.memorizefamiliars.from.enemies.to.all","Tutti i servitori memorizzati dall'abilità innata vengono evocati per tutti gli alleati.
 [*] Tutti i demoni memorizzati dall'abilità innata vengono evocati per tutti i nemici."
 "specials.v2.passiveskill.memorizestatuseffects.statuseffectdebuffs.all.enemies","Tutti i disturbi memorizzati dall'abilità innata vengono lanciati contro tutti i nemici."
@@ -23997,14 +24006,17 @@ Effetti trasformati:
 "specials.v2.property.tileenhancement.manamultiplier.both.blue","Altera il potere di tutti gli scudi di tipo [##elementblue]Ghiaccio[#] sul campo di battaglia. Quando un Eroe in attacco lancia l'Abilità speciale, gli scudi si potenziano e conferiscono un {MODIFIERATTACKER}% di mana extra. Quando un Eroe in difesa lancia l'Abilità speciale, gli scudi si indeboliscono e conferiscono un {MODIFIERDEFENDER}% di mana in meno."
 "specials.v2.property.tileenhancement.manamultiplier.both.green","Altera il potere di tutti gli scudi di tipo [##elementgreen]Natura[#] sul campo di battaglia. Quando un Eroe in attacco lancia l'Abilità speciale, gli scudi si potenziano e conferiscono un {MODIFIERATTACKER}% di mana extra. Quando un Eroe in difesa lancia l'Abilità speciale, gli scudi si indeboliscono e conferiscono un {MODIFIERDEFENDER}% di mana in meno."
 "specials.v2.property.tileenhancement.manamultiplier.both.purple","Altera il potere di tutti gli scudi di tipo [##elementpurple]Oscurità[#] sul campo di battaglia. Quando un Eroe in attacco lancia l'Abilità speciale, gli scudi si potenziano e conferiscono il {MODIFIERATTACKER}% di mana extra. Quando un Eroe in difesa lancia l'Abilità speciale, gli scudi si indeboliscono e conferiscono il {MODIFIERDEFENDER}% di mana in meno."
+"specials.v2.property.tileenhancement.manamultiplier.both.red","Altera il potere di tutti gli scudi di tipo [##elementred]Fuoco[#] sul campo di battaglia. Quando un Eroe in attacco lancia l'Abilità speciale, gli scudi si potenziano e conferiscono un {MODIFIERATTACKER}% di mana extra. Quando un Eroe in difesa lancia l'Abilità speciale, gli scudi si indeboliscono e conferiscono un {MODIFIERDEFENDER}% di mana in meno."
 "specials.v2.property.tileenhancement.manamultiplier.both.yellow","Altera il potere di tutti gli scudi di tipo [##elementyellow]Sacro[#] sul campo di battaglia. Quando un Eroe in attacco lancia l'Abilità speciale, gli scudi si potenziano e conferiscono un {MODIFIERATTACKER}% di mana extra. Quando un Eroe in difesa lancia l'Abilità speciale, gli scudi si indeboliscono e conferiscono un {MODIFIERDEFENDER}% di mana in meno."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.blue","Potenzia tutti gli scudi di tipo [##elementblue]Ghiaccio[#] sul campo di battaglia. Gli scudi potenziati conferiscono un {MODIFIERDEFENDER}% di mana in meno agli Eroi."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.green","Potenzia tutti gli scudi di tipo [##elementgreen]Natura[#] sul campo di battaglia. Gli scudi potenziati conferiscono un {MODIFIERDEFENDER}% di mana in meno agli Eroi."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.purple","Potenzia tutti gli scudi di tipo [##elementpurple]Oscurità[#] sul campo di battaglia. Gli scudi potenziati conferiscono un {MODIFIERDEFENDER}% di mana in meno agli Eroi."
+"specials.v2.property.tileenhancement.manamultiplier.npcs.red","Potenzia tutti gli scudi di tipo [##elementred]Fuoco[#] sul campo di battaglia. Gli scudi potenziati conferiscono un {MODIFIERDEFENDER}% di mana in meno agli Eroi."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.yellow","Potenzia tutti gli scudi di tipo [##elementyellow]Sacro[#] sul campo di battaglia. Gli scudi potenziati conferiscono un {MODIFIERDEFENDER}% di mana in meno agli Eroi."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.blue","Potenzia tutti gli scudi di tipo [##elementblue]Ghiaccio[#] sul campo di battaglia. Gli scudi potenziati conferiscono un {MODIFIERATTACKER}% di mana extra agli Eroi."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.green","Potenzia tutti gli scudi di tipo [##elementgreen]Natura[#] sul campo di battaglia. Gli scudi potenziati conferiscono un {MODIFIERATTACKER}% di mana extra agli Eroi."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.purple","Potenzia tutti gli scudi di tipo [##elementpurple]Oscurità[#] sul campo di battaglia. Gli scudi potenziati conferiscono un {MODIFIERATTACKER}% di mana extra agli Eroi."
+"specials.v2.property.tileenhancement.manamultiplier.playercharacters.red","Potenzia tutti gli scudi di tipo [##elementred]Fuoco[#] sul campo di battaglia. Gli scudi potenziati conferiscono un {MODIFIERATTACKER}% di mana extra agli Eroi."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.yellow","Potenzia tutti gli scudi di tipo [##elementyellow]Sacro[#] sul campo di battaglia. Gli scudi potenziati conferiscono un {MODIFIERATTACKER}% di mana extra agli Eroi."
 "specials.v2.property.upgrademinortomajorbasedontilecount.yellow","Se ci sono {REQUIREDTILECOUNT} o più [##elementyellow]scudi di tipo Sacro[#] sul campo di battaglia, tutti gli effetti lanciati in questa Abilità speciale non sono annullabili."
 "specials.v2.property.wither.extra","Avvizzimento e Crescita modificano i punteggi delle abilità dei personaggi. L'effetto rimane anche se il personaggio viene sconfitto.
@@ -30796,7 +30808,7 @@ emblemi pieni"
 "summon.super_deal.black_friday","Super offerta!"
 "summon.three_in_one_legendary.button_shadow","Estrazione
 bonus!"
-"summon.three_in_one_legendary.button_shadow_3x","3x"
+"summon.three_in_one_legendary.button_shadow_3x","x3"
 "summon.two_in_one_legendary.button_goblin","Probabilità di 2x"
 "summon.two_in_one_legendary.description","Per ogni Eroe [#ffc3ff]Leggendario[#] evocato, otterrai un altro Eroe [#ffc3ff]Leggendario[#] non in evidenza come bonus."
 "summon.two_in_one_legendary.description_astralelves","Ogni volta che evochi un Eroe astrale [#ffc3ff]Leggendario[#], ne riceverai un altro gratis!"
@@ -31078,6 +31090,15 @@ Dopo [#!]{TURNSLEFT}[#] turni:
 "temp.halloween_summon_promo7","Usa lo Spirito sanguigno per una Chiamata gratuita!"
 "temp.halloween_summon_promo8","Ascensione completa garantita per tutti gli Eroi in evidenza!"
 "temp.halloween_summon_promo9","Ascensione completa garantita per gli Eroi in evidenza!"
+"temp_fiend","Il [#!]demone Piantina[#] si evolve in un [#!]demone Alberello[#] dopo {EVOLVINGFAMILIAR1EVOLVETURNS} turni.
+[*] Il [#!]demone Alberello[#] si evolve in un [#!]demone Mega Fiore[#] dopo {EVOLVINGFAMILIAR2EVOLVETURNS} turni.
+
+[*]  [#!]Demone Piantina[#]: [#!]{EVOLVINGFAMILIAR1ATTACK}[#]% di Attacco, [#!]{EVOLVINGFAMILIAR1HEALTH}[#]% di Salute
+[*] [#!]Demone Alberello[#]: [#!]{EVOLVINGFAMILIAR2ATTACK}[#]% di Attacco, [#!]{EVOLVINGFAMILIAR2HEALTH}[#]% di Salute
+[*] [#!]Demone Mega Fiore[#]: [#!]{EVOLVINGFAMILIAR3ATTACK}[#]% di Attacco, [#!]{EVOLVINGFAMILIAR3HEALTH}[#]% di Salute
+
+[*] Un demone danneggia il suo bersaglio a ogni turno. Un demone scompare dopo aver assorbito la guarigione. La quantità di guarigione richiesta varia in base alla Salute massima del bersaglio.
+[*] L'evoluzione dei demoni viene ritardata di {EVOLVINGFAMILIAR1TURNSDELAY} turno ogni volta che assorbono guarigione."
 "tilebooster.ancient_underroot.title","Booster casella ultra"
 "tilebooster.maxactivationcount","Ogni Booster casella si può attivare una volta per turno."
 "tilebooster.maxactivationcount#2","Ogni Booster casella si può attivare [#!]{0}[#] volte per turno."

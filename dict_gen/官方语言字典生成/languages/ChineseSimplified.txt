@@ -2335,8 +2335,11 @@
 "calendar.chest.name.halloween","万圣节宝箱"
 "calendar.chest.name.kalevala","卡勒瓦拉宝箱"
 "calendar.chest.name.lunarnewyear","农历新年宝箱"
+"calendar.chest.name.valentinesseasonal","情人节宝箱"
 "calendar.chest.valentinesseasonal.description","购买{0}个或以上即可获得
 [#!]情人节宝箱[#]"
+"calendar.chest.valentinesseasonal.description.claimed","感谢您领取
+[#!]情人节宝箱[#]！"
 "ccpa.dialog.advertising_partners","在线广告合作伙伴"
 "ccpa.dialog.button","请勿销售或共享我的个人信息（包括视频查看信息）"
 "ccpa.dialog.message","我们依靠广告收益让这款应用保持免费，也希望在游戏内为您带来更加个性化的广告内容。为此，我们允许特定线上广告合作伙伴收集关于您的信息（例如，您提供给我们的个人资料信息、您的设备广告ID，以及其他设备信息等）。在美国某些州将此行为视为“销售”或“共享”。我们还可能与投放广告的第三方共享您的个人和视频查看信息。
@@ -5197,7 +5200,7 @@ Thank you for your signup!"
 "herocard.passive_skill.description.dodgespecialdamage","此角色有[#!]{CHANCE}%[#]几率闪避可造成伤害的特殊技能。"
 "herocard.passive_skill.description.eatfamiliarsonspecialcast.parasite.allies.single","此角色施放特殊技能时摧毁所有恶魔。"
 "herocard.passive_skill.description.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","每[#!]{TURNS}[#]回合，吞噬一名随机敌人的所有小兵，每吞噬一个小兵，都会获得少量法力。"
-"herocard.passive_skill.description.effectondamagedone.bufftoremove.minordebuff.latest.from.all.allies.safe.specialskill.only_criticals.once","当此角色使用特殊技能造成[#!]暴击[#]时，安全精华从所有敌人处获得的可精华状态异常。此效果每回合可激活一次。"
+"herocard.passive_skill.description.effectondamagedone.bufftoremove.minordebuff.latest.from.all.allies.safe.specialskill.only_criticals.once","当此角色使用特殊技能造成[#!]暴击[#]时，可以安全地清除所有友方单位身上最近一次可清除的异常状态。此效果每回合可激活一次。"
 "herocard.passive_skill.description.effectondamagedone.healthboost.all.allies.specialskill.only_criticals.once","当此角色使用特殊技能造成[#!]暴击[#]时，所有盟友获得{HEALTHBOOST}%生命加成。此效果每回合可激活一次。"
 "herocard.passive_skill.description.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill.single.allies.onceperturn","[*]当此角色的特殊技能命中比其当前生命值更高的角色时，获得[#!]{PASSIVESKILL1HEALTHBOOST}%[#]生命值加成。
 [*]当此角色被当前生命值更高的角色的特殊技能命中时，获得[#!]{PASSIVESKILL2POWER}%[#]的法力。
@@ -5303,7 +5306,6 @@ Thank you for your signup!"
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill","通过特殊技能获得的法力将减少[#!]{MODIFIER}%[#]。此效果适用于战场上的所有敌人。"
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect","通过特殊技能、被动技能、家族奖励和状态效果获得的法力将减少[#!]{MODIFIER}%[#]。此效果适用于战场上的所有敌人。"
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm","通过特殊技能、被动技能、家族奖励和状态效果获得的法力将减少[#!]{MODIFIER}%[#]。此效果适用于战场上的所有敌人。"
-"herocard.passive_skill.description.managenerationmodifier.none","[#!]{MODIFIER}%[#]法力生成。"
 "herocard.passive_skill.description.manaonownfamiliardeath.minion","每次摧毁此角色的一名小兵，该角色都会获得少量的法力。"
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all","此角色的天赋能[#!]回溯[#]敌人用特殊技能所召唤的任何小兵或恶魔。敌人所召唤的最后一个小兵和恶魔会被回溯，直到此角色施放特殊技能为止。"
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all#2","此角色的天赋能[#!]回溯[#]敌人用特殊技能所召唤的任何小兵或恶魔。敌人所召唤的最后{0}个小兵和恶魔会被回溯，直到此角色施放特殊技能为止。"
@@ -5702,7 +5704,10 @@ Thank you for your signup!"
 [*][#!]{INHERITEDHEALTH}%[#]继承生命值。
 [*][#!]{ATTACK}[#]攻击力。
 [*][#!]{DEFENSE}[#]防御力。
-[*]特殊技能：[#!]邪神荒疫[#]。
+[*]以下特殊技能：
+
+[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 若因自身[#!]狂乱[#]效果而被自己击败，重生几率始终为[#!]{CHANCEONSELFCAUSEDDEATH}%[#]。"
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","被击败后，此角色有几率以[#!]上古邪神宿主[#]的姿态重生。该角色每有[#!]{INSANITYPERSTEP}[#]点[#!]狂乱[#]值，几率便会提升[#!]{CHANCEINCREASEPERSTEP}%[#]，最多可提升至[#!]{MAXCHANCEINCREASE}%[#]。
@@ -6393,7 +6398,7 @@ Thank you for your signup!"
 "heroes.name.construct_skarn","斯卡恩"
 "heroes.name.construct_sylosis","森罗斯"
 "heroes.name.construct_tenebrae","夜魅"
-"heroes.name.construct_zavok","扎沃克"
+"heroes.name.construct_zavok","萨伏特"
 "heroes.name.cultist_female_poisoner","蕾拉"
 "heroes.name.cultist_inventor","昆塔斯"
 "heroes.name.cultist_mage","巴特萨"
@@ -11130,6 +11135,7 @@ YouTube频道"
 "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid","[#!]爱神[#]家族的英雄免疫所有影响治疗的状态异常。"
 "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid","[#!]爱神[#]家族的英雄免疫法力减损。"
 "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid","[#!]爱神[#]家族的英雄免疫所有影响法力生成的状态异常。"
+"level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid","[#!]爱神[#]家族的英雄可抵抗[#!]恶魔[#]。"
 "level.info.property.description.villains.npcs","在恶棍联盟的关卡中，每当你使用特殊技能或战斗物品时，[#!]神罚[#]将更近一步！
 
 [#!]当神罚降临时[#]
@@ -11485,7 +11491,7 @@ YouTube频道"
 "linkaccount.dialog.ensure.android","登录Google Play以确保账号安全！"
 "linkaccount.dialog.ensure.ios","登录Game Center以确保账号安全！"
 "linkaccount.dialog.gamecenter","前往设置，登录Game Center。"
-"linkaccount.dialog.googleplay","前往设备上的“Play 游戏”设置来登录。"
+"linkaccount.dialog.googleplay","前往设置，登录Google Play。"
 "linkaccount.dialog.note","重要提示！"
 "linkaccount.dialog.notsafe","登录以保存游戏进度！"
 "linkaccount.dialog.saveyourprogress","保存游戏进度！"
@@ -11792,7 +11798,7 @@ YouTube频道"
 
 沙丘召唤可提高获得[#!]传奇[#]英雄的几率。
 
-可使用宝石或[#!]沙丘币[#]进行召唤，沙丘币可通过[#!]通缉使命[#]、[#!]稀有泰坦战斗[#]及首次完成[#!]第5赛季关卡[#]获得。一次召唤消耗100枚沙丘币。
+可使用宝石或[#!]沙丘币[#]进行召唤，沙丘币可通过首次完成[#!]第5赛季关卡[#]获得。一次召唤消耗100枚沙丘币。
 
 每召唤满{0}次，即可获得一个[#!]沙丘王朝奖励宝箱[#]。每次沙丘召唤活动期间，最多可领取[#!]{1}[#]个宝箱。"
 "lottery.description.long.shadowsummon","每召唤出一个传奇英雄即可进行[#00ffc8]3[#]次额外抽卡，额外抽卡有[#00ffc8]{2}%[#]的几率额外获得一个传奇英雄。"
@@ -15310,6 +15316,7 @@ Small Giant Games团队"
 "notifications.mail","📮 你收到了新邮件！ 📮"
 "notifications.mercenary_war.energy_refill","👑⚔️三国战争能量已恢复。是时候战斗了！⚔️👑"
 "notifications.mercenary_war.started","👑⚔️三国战争开始了。你的国家需要你！⚔️👑"
+"notifications.mimicsummon","Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
 "notifications.new_season","司令，新的冒险正在等着我们！在秘闻中对战新敌人，并召唤新英雄吧！"
 "notifications.pveenergy","⚔️ 世界能量已恢复。是时候战斗了！ ⚔️"
 "notifications.quest.limitbreak","⚔️可以领取界限突破任务了。直面挑战，赢取界限突破物品！🎉"
@@ -15323,7 +15330,7 @@ Small Giant Games团队"
 "notifications.temple","💎⭐🏴神殿召唤现已开启！每召唤出一个传奇活动英雄，即可免费获得额外的传奇活动英雄！💎⭐🏴"
 "notifications.titan_reward","🐉💎 有泰坦战利品！ 💎🐉"
 "notifications.titan_spawned","⚔️ 🐲 新的泰坦出现了！ 🐲⚔"
-"notifications.titanhunter","💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+"notifications.titanhunter","💎⭐🏴 泰坦猎人召唤现已开启！召唤可对泰坦造成毁灭性打击的英雄！ 💎⭐🏴"
 "notifications.training","💪训练已结束！💪"
 "notifications.ubertitan.energy","⚔️ 神话泰坦能量已恢复，是时候战斗了！ ⚔️"
 "notifications.upgrade","✨⬆️ {0}已升级！ ⬆️✨"
@@ -15698,9 +15705,11 @@ Small Giant Games团队"
 "options.linkaccount.gamecenter.loggedin","登录Game Center"
 "options.linkaccount.gamecenter.loggedout","登出Game Center"
 "options.linkaccount.googleplay.loggedin","登录Google Play"
-"options.linkaccount.googleplay.loggedout","前往设备上的“Play 游戏”设置来登录。"
+"options.linkaccount.googleplay.loggedout","登出Google Play"
 "options.linkaccount.info.gamecenter","登录Game Center账户可保存进度，并可以在多台iOS设备上游戏。"
-"options.linkaccount.info.googleplay","登录Google Play账户可保存进度，并可以在多台Android设备上游戏。"
+"options.linkaccount.info.googleplay","登录Google Play账户可保存进度，并可以在多台Android设备上游戏。
+
+你可以通过你手机上的“Play 游戏”应用设置来切换至不同的Google Play账户。"
 "options.linkaccount.label","在多台设备保存游戏进度"
 "options.linkaccount.signedinas","用[#!]{0}[#]登录"
 "options.privacy","隐私政策"
@@ -20771,7 +20780,7 @@ Small Giant Games团队"
 "specials.name.chains_of_light","光明之链"
 "specials.name.chakram_kick","月轮飞踢"
 "specials.name.challenge_the_strongest","剑指巅峰"
-"specials.name.champagne_hammer","香槟重锤"
+"specials.name.champagne_hammer","瓶锤"
 "specials.name.champion_maneuver","勇士花招"
 "specials.name.championship_carrot","冠军胡萝卜"
 "specials.name.change_stance","赌徒形态"
@@ -23903,14 +23912,17 @@ Small Giant Games团队"
 "specials.v2.property.tileenhancement.manamultiplier.both.blue","面板中所有[##elementblue]冰雪系[#]盾牌受到影响。进攻方英雄施放此特殊技能时，盾牌将会被增强，给予的法力增加{MODIFIERATTACKER}%。而防御方英雄施放此特殊技能时，盾牌则会被削弱，给予的法力减少{MODIFIERDEFENDER}%。"
 "specials.v2.property.tileenhancement.manamultiplier.both.green","面板中所有[##elementgreen]自然系[#]盾牌受到影响。进攻方英雄施放此特殊技能时，盾牌将会被增强，给予的法力增加{MODIFIERATTACKER}%。而防御方英雄施放此特殊技能时，盾牌则会被削弱，给予的法力减少{MODIFIERDEFENDER}%。"
 "specials.v2.property.tileenhancement.manamultiplier.both.purple","面板中所有[##elementpurple]暗黑系[#]盾牌受到影响。进攻方英雄施放此特殊技能时，盾牌将会被增强，给予的法力增加{MODIFIERATTACKER}%。而防御方英雄施放此特殊技能时，盾牌则会被削弱，给予的法力减少{MODIFIERDEFENDER}%。"
+"specials.v2.property.tileenhancement.manamultiplier.both.red","面板中所有[##elementred]烈火系[#]盾牌受到影响。进攻方英雄施放此特殊技能时，盾牌将会被增强，给予的法力增加{MODIFIERATTACKER}%。而防御方英雄施放此特殊技能时，盾牌则会被削弱，给予的法力减少{MODIFIERDEFENDER}%。"
 "specials.v2.property.tileenhancement.manamultiplier.both.yellow","面板中所有[##elementyellow]神圣系[#]盾牌受到影响。进攻方英雄施放此特殊技能时，盾牌将会被增强，给予的法力增加{MODIFIERATTACKER}%。而防御方英雄施放此特殊技能时，盾牌则会被削弱，给予的法力减少{MODIFIERDEFENDER}%。"
 "specials.v2.property.tileenhancement.manamultiplier.npcs.blue","增强面板中所有[##elementblue]冰雪系[#]盾牌。增强的盾牌给予英雄的法力降低{MODIFIERDEFENDER}%。"
 "specials.v2.property.tileenhancement.manamultiplier.npcs.green","增强面板中所有[##elementgreen]自然系[#]盾牌。增强的盾牌给予英雄的法力降低{MODIFIERDEFENDER}%。"
 "specials.v2.property.tileenhancement.manamultiplier.npcs.purple","增强面板中所有[##elementpurple]暗黑系[#]盾牌。增强的盾牌给予英雄的法力降低{MODIFIERDEFENDER}%。"
+"specials.v2.property.tileenhancement.manamultiplier.npcs.red","增强面板中所有[##elementred]烈火系[#]盾牌。增强的盾牌给予英雄的法力降低{MODIFIERDEFENDER}%。"
 "specials.v2.property.tileenhancement.manamultiplier.npcs.yellow","增强面板中所有[##elementyellow]神圣系[#]盾牌。增强的盾牌会使英雄降低{MODIFIERDEFENDER}%的法力。"
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.blue","增强面板中所有[##elementblue]冰雪系[#]盾牌。增强的盾牌给予英雄额外{MODIFIERATTACKER}%的法力。"
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.green","增强面板中所有[##elementgreen]自然系[#]盾牌。增强的盾牌给予英雄额外{MODIFIERATTACKER}%的法力。"
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.purple","增强面板中所有[##elementpurple]暗黑系[#]盾牌。增强的盾牌给予英雄额外{MODIFIERATTACKER}%的法力。"
+"specials.v2.property.tileenhancement.manamultiplier.playercharacters.red","增强面板中所有[##elementred]烈火系[#]盾牌。增强的盾牌给予英雄额外{MODIFIERATTACKER}%的法力。"
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.yellow","增强面板中所有[##elementyellow]神圣系[#]盾牌。增强的盾牌给予英雄额外{MODIFIERATTACKER}%的法力。"
 "specials.v2.property.upgrademinortomajorbasedontilecount.yellow","如果面板上有{REQUIREDTILECOUNT}个或以上的[##elementyellow]神圣系盾牌[#]，那么此特殊技能施加的所有效果均不可驱散。"
 "specials.v2.property.wither.extra","衰退和成长会修改角色属性值。即便此角色阵亡，效果仍然会保留。
@@ -30700,7 +30712,7 @@ Small Giant Games团队"
 "summon.super_deal.black_friday","超级优惠！"
 "summon.three_in_one_legendary.button_shadow","额外
 抽卡！"
-"summon.three_in_one_legendary.button_shadow_3x","3x"
+"summon.three_in_one_legendary.button_shadow_3x","3倍"
 "summon.two_in_one_legendary.button_goblin","有几率获得双抽"
 "summon.two_in_one_legendary.description","每召唤到一名[#ffc3ff]传奇[#]英雄，就会获得另一名非精选[#ffc3ff]传奇[#]英雄作为奖励。"
 "summon.two_in_one_legendary.description_astralelves","每召唤一个[#ffc3ff]传奇[#]星体英雄，即可免费获得另一个不同的[#ffc3ff]传奇[#]星体英雄！"
@@ -30981,6 +30993,15 @@ Small Giant Games团队"
 "temp.halloween_summon_promo7","使用血色之灵进行免费召唤！"
 "temp.halloween_summon_promo8","所有精选英雄都已完全进阶！"
 "temp.halloween_summon_promo9","精选英雄都已完全进阶！"
+"temp_fiend","[*]{EVOLVINGFAMILIAR1EVOLVETURNS}回合后[#!]幼苗恶魔[#]进化为[#!]萌芽恶魔[#]。
+[*]再过{EVOLVINGFAMILIAR2EVOLVETURNS}回合后[#!]萌芽恶魔[#]进化为[#!]鲜花超级恶魔[#]。
+
+[*] [#!]幼苗恶魔[#]：[#!]{EVOLVINGFAMILIAR1ATTACK}[#]%攻击力，[#!]{EVOLVINGFAMILIAR1HEALTH}[#]%生命值
+[*] [#!]萌芽恶魔[#]：[#!]{EVOLVINGFAMILIAR2ATTACK}[#]%攻击力，[#!]{EVOLVINGFAMILIAR2HEALTH}[#]%生命值
+[*] [#!]鲜花超级恶魔[#]：[#!]{EVOLVINGFAMILIAR3ATTACK}[#]%攻击力，[#!]{EVOLVINGFAMILIAR3HEALTH}[#]%生命值
+
+[*]恶魔每回合对其目标造成伤害，且吸收治疗后便会消失。吸收的治疗量取决于目标的最大生命值。
+[*]恶魔每次吸收治疗，其进化都会延缓{EVOLVINGFAMILIAR1TURNSDELAY}回合。"
 "tilebooster.ancient_underroot.title","终极方格助力"
 "tilebooster.maxactivationcount","每个方块助力每回合可激活一次。"
 "tilebooster.maxactivationcount#2","每个方块助力每回合可激活[#!]{0}[#]次。"

@@ -2309,8 +2309,11 @@ Möchtest du diese Rohstoffe wirklich zerstören?"
 "calendar.chest.name.halloween","Halloweentruhe"
 "calendar.chest.name.kalevala","Kalevalatruhe"
 "calendar.chest.name.lunarnewyear","Mondneujahrstruhe"
+"calendar.chest.name.valentinesseasonal","Valentinstruhe"
 "calendar.chest.valentinesseasonal.description","Kaufe mindestens {0} für eine 
 [#!]VALENTINSTRUHE[#]"
+"calendar.chest.valentinesseasonal.description.claimed","Danke, dass du deine
+[#!]VALENTINSTRUHE[#] abgeholt hast!"
 "ccpa.dialog.advertising_partners","Online-Werbepartner"
 "ccpa.dialog.button","Meine personenbezogenen Daten nicht verkaufen oder weitergeben (einschließlich Informationen über das Ansehen von Videos)"
 "ccpa.dialog.message","Wir sind auf Werbung angewiesen, um diese App kostenlos zu halten, und würden dir gerne mehr personalisierte Werbung im Spiel zeigen. Um dies zu tun, erlauben wir bestimmten Online-Werbepartnern, Informationen über dich zu sammeln (z. B. Profilinformationen, die du uns zur Verfügung stellst, deine Geräte-Werbe-ID und andere Geräteinformationen). In einigen US-Bundesstaaten wird dies als „Verkauf“ oder „Weitergabe“ betrachtet. Wir können deine persönlichen Daten und die Daten deiner Videoaufrufe auch zu Werbezwecken an Dritte weitergeben.
@@ -5664,7 +5667,10 @@ Der [#!]Gespenstische Wirt[#] hat:
 [*][#!]{INHERITEDHEALTH} %[#] vererbtes Leben. 
 [*][#!]{ATTACK}[#] Angriff.
 [*][#!]{DEFENSE}[#] Verteidigung.
-[*]Spezialfähigkeit: [#!]Gespentische Fäule[#].
+[*]Folgende Spezialfähigkeit: 
+
+[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 Wenn sich dieser Charakter bei Aktivierung von [#!]Wahnsinn[#] selbst besiegt, beträgt die Chance [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Wenn er besiegt wurde, hat dieser Charakter eine Chance, als [#!]Gespenstischer Wirt[#] wiedergeboren zu werden. Die Chance beträgt [#!]{CHANCEINCREASEPERSTEP} %[#] pro [#!]{INSANITYPERSTEP}[#] [#!]Wahnsinn[#] auf diesem Charakter, bis zu maximal [#!]{MAXCHANCEINCREASE} %[#].
@@ -6364,7 +6370,7 @@ Nur [#ffc3ff]LEGENDÄRE[#] Helden, die noch nicht vollständig aufgestiegen sind
 "heroes.name.construct_skarn","Skarn"
 "heroes.name.construct_sylosis","Sylosis"
 "heroes.name.construct_tenebrae","Tenebrae"
-"heroes.name.construct_zavok","Zavok"
+"heroes.name.construct_zavok","Zavolt"
 "heroes.name.cultist_female_poisoner","Layla"
 "heroes.name.cultist_inventor","Quintus"
 "heroes.name.cultist_mage","Balthasar"
@@ -11100,6 +11106,7 @@ Alle [#ff7a4c]Feuer[#]-Helden erhalten unter Wasser [#!]{REDATTACK} %[#] Angrif
 "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid","Helden der [#!]Amor[#]-Familie sind immun gegen Statusänderungen, die die Heilung beeinflussen."
 "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid","Helden der [#!]Amor[#]-Familie sind immun gegen Manareduzierung."
 "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid","Helden der [#!]Amor[#]-Familie sind immun gegen Statusänderungen, die die Manaregeneration beeinflussen."
+"level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid","Helden der [#!]Armor[#]-Familie widerstehen Feinden."
 "level.info.property.description.villains.npcs","In „Liga der Schurken“-Phasen kommt das [#!]Göttliche Schmettern[#] bei jeder Verwendung einer Spezialfähigkeit oder eines Kampfgegenstands näher!
 
 [#!]Wenn das Göttliche Schmettern erreicht ist, [#]
@@ -11457,7 +11464,7 @@ Rote Glücksmünzen können als Belohnung in Kämpfen im [#!]Krieg der drei Kön
 "linkaccount.dialog.ensure.android","Achte darauf, dass dein Konto sicher ist, indem du dich bei Google Play anmeldest!"
 "linkaccount.dialog.ensure.ios","Achte darauf, dass dein Konto sicher ist, indem du dich beim Game Center anmeldest!"
 "linkaccount.dialog.gamecenter","Rufe die Einstellungen deines Gerätes auf, um dich im Game Center anzumelden."
-"linkaccount.dialog.googleplay","Öffne die Play-Games-Einstellungen auf deinem Gerät, um dich anzumelden."
+"linkaccount.dialog.googleplay","Gehe zu den Spieleinstellungen, um dich bei Google Play anzumelden."
 "linkaccount.dialog.note","Wichtig!"
 "linkaccount.dialog.notsafe","Melde dich an, um deinen Spielfortschritt zu speichern!"
 "linkaccount.dialog.saveyourprogress","Speichere deinen Fortschritt!"
@@ -15319,6 +15326,7 @@ Bitte versuche es später wieder."
 "notifications.mail","📮 Du hast Post! 📮"
 "notifications.mercenary_war.energy_refill","👑⚔️ „Krieg der drei Königreiche“-Energie aufgefüllt. Zeit für einen Kampf! ⚔️👑"
 "notifications.mercenary_war.started","👑⚔️ Der Krieg der drei Königreiche hat begonnen. Dein Königreich braucht dich! ⚔️👑"
+"notifications.mimicsummon","Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
 "notifications.new_season","Kommandant, ein neues Abenteuer erwartet uns! Kämpfe in „Unerzählte Geschichten“ gegen neue Feinde und beschwöre neue Helden!"
 "notifications.pveenergy","⚔️ Weltenergie aufgefüllt. Zeit für einen Kampf! ⚔️"
 "notifications.quest.limitbreak","⚔️ Limitüberschreitung-Quest verfügbar. Stelle dich der Herausforderung und verdiene Limitüberschreitung-Gegenstände! 🎉"
@@ -15332,7 +15340,7 @@ Bitte versuche es später wieder."
 "notifications.temple","💎⭐🏴 Die Tempel-BESCHWÖRUNG IST JETZT GEÖFFNET! Besuche das GOBLIN-DORF! Beschwöre einen legendären Eventhelden und erhalte einen legendären Eventhelden umsonst! 💎⭐🏴"
 "notifications.titan_reward","🐉💎 Titanenbeute verfügbar! 💎🐉"
 "notifications.titan_spawned","⚔️ 🐲 Ein neuer Titan ist erschienen! 🐲⚔"
-"notifications.titanhunter","💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+"notifications.titanhunter","💎⭐🏴 Die Titanenjäger-BESCHWÖRUNG IST JETZT GEÖFFNET! Beschwöre Helden, die Titanen vernichtend schlagen! 💎⭐🏴"
 "notifications.training","💪 Ausbildung abgeschlossen! 💪"
 "notifications.ubertitan.energy","⚔️ Mythischer-Titan-Energie aufgefüllt. Zeit für einen Kampf! ⚔️"
 "notifications.upgrade","✨⬆️ {0} wurde ausgebaut! ⬆️✨"
@@ -15707,9 +15715,11 @@ Die Helden der 3. Saison stammen aus den Welten Jotunheim, Muspelheim und Svarta
 "options.linkaccount.gamecenter.loggedin","Im Game Center angemeldet"
 "options.linkaccount.gamecenter.loggedout","Vom Game Center abgemeldet"
 "options.linkaccount.googleplay.loggedin","Bei Google Play angemeldet"
-"options.linkaccount.googleplay.loggedout","Öffne die Play-Games-Einstellungen auf deinem Gerät, um dich anzumelden."
+"options.linkaccount.googleplay.loggedout","Bei Google Play abgemeldet"
 "options.linkaccount.info.gamecenter","Melde dich mit deinem Game-Center-Konto an, um deinen Spielstand zu speichern und auf mehreren iOS-Geräten zu nutzen."
-"options.linkaccount.info.googleplay","Melde dich mit deinem Google-Play-Konto an, um deinen Spielstand zu speichern und auf mehreren Android-Geräten zu nutzen."
+"options.linkaccount.info.googleplay","Wenn du mit deinem Google-Play-Konto angemeldet bist, speicherst du deinen Fortschritt und kannst mit mehreren Android-Geräten spielen.
+
+Du kannst in den Einstellungen der Play-Games-App deines Telefons zu einem anderen Google-Play-Konto wechseln."
 "options.linkaccount.label","Spielstand auf mehreren Geräten speichern"
 "options.linkaccount.signedinas","Angemeldet als [#!]{0}[#]"
 "options.privacy","Datenschutzrichtlinie"
@@ -20787,7 +20797,7 @@ Bitte wähle weniger Helden aus."
 "specials.name.chains_of_light","Ketten des Lichts"
 "specials.name.chakram_kick","Chakram-Tritt"
 "specials.name.challenge_the_strongest","Fordere den Stärksten heraus"
-"specials.name.champagne_hammer","Champagnen-Hammer"
+"specials.name.champagne_hammer","Flaschenhammer"
 "specials.name.champion_maneuver","Championmanöver"
 "specials.name.championship_carrot","Meisterschaftsbelohnung"
 "specials.name.change_stance","Schnitt des Glücksspielers"
@@ -22788,7 +22798,7 @@ Bitte wähle weniger Helden aus."
 "specials.strongattack.green","Fügt [#70e92f]Natur[#] zusätzlichen Schaden zu."
 "specials.strongattack.red","Fügt [#ff9f81]Feuer[#] zusätzlichen Schaden zu."
 "specials.strongattack.yellow","Fügt [#f2e33a]Licht[#] zusätzlichen Schaden zu."
-"specials.v2.bigminion.aberration_big_minion.single","Beschwört einen Abweichungs-Mega-Lakaien mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff vom Wirker.
+"specials.v2.bigminion.aberration_big_minion.single","Beschwört einen Abweichungs-Mega-Lakaien mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff vom Wirker.
 
 Jeder Treffer eines Abweichungs-Mega-Lakaien verleiht dem Ziel folgende negative Statusänderung:"
 "specials.v2.bigminion.black_boar_mega_minion.single","Beschwört einen schwarzen Mega-Wildschwein-Lakaien mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff des Wirkers."
@@ -23916,14 +23926,17 @@ Verwandlungseffekte:
 "specials.v2.property.tileenhancement.manamultiplier.both.blue","Verändert die Stärke aller [##elementblue]Eisschilde[#] auf dem Feld. Wenn ein angreifender Held die Spezialfähigkeit wirkt, werden die Schilde verstärkt und gewähren um {MODIFIERATTACKER} % mehr Mana. Wenn ein verteidigender Held die Spezialfähigkeit wirkt, werden die Schilde geschwächt und gewähren um {MODIFIERDEFENDER} % weniger Mana."
 "specials.v2.property.tileenhancement.manamultiplier.both.green","Verändert die Stärke aller [##elementgreen]Naturschilde[#] auf dem Feld. Wenn ein angreifender Held die Spezialfähigkeit wirkt, werden die Schilde verstärkt und gewähren um {MODIFIERATTACKER} % mehr Mana. Wenn ein verteidigender Held die Spezialfähigkeit wirkt, werden die Schilde geschwächt und gewähren um {MODIFIERDEFENDER} % weniger Mana."
 "specials.v2.property.tileenhancement.manamultiplier.both.purple","Verändert die Stärke aller [##elementpurple]Schattenschilde[#] auf dem Feld. Wenn ein angreifender Held die Spezialfähigkeit wirkt, werden die Schilde verstärkt und gewähren um {MODIFIERATTACKER} % mehr Mana. Wenn ein verteidigender Held die Spezialfähigkeit wirkt, werden die Schilde geschwächt und gewähren um {MODIFIERDEFENDER} % weniger Mana."
+"specials.v2.property.tileenhancement.manamultiplier.both.red","Verändert die Stärke aller [##elementred]Feuerschilde[#] auf dem Feld. Wenn ein angreifender Held die Spezialfähigkeit wirkt, werden die Schilde verstärkt und gewähren um {MODIFIERATTACKER} % mehr Mana. Wenn ein verteidigender Held die Spezialfähigkeit wirkt, werden die Schilde geschwächt und gewähren um {MODIFIERDEFENDER} % weniger Mana."
 "specials.v2.property.tileenhancement.manamultiplier.both.yellow","Verändert die Stärke aller [##elementyellow]Lichtschilde[#] auf dem Feld. Wenn ein angreifender Held die Spezialfähigkeit wirkt, werden die Schilde verstärkt und gewähren um {MODIFIERATTACKER} % mehr Mana. Wenn ein verteidigender Held die Spezialfähigkeit wirkt, werden die Schilde geschwächt und gewähren um {MODIFIERDEFENDER} % weniger Mana."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.blue","Verbessert alle [##elementblue]Eis[#]schilde auf dem Feld. Verbesserte Schilde gewähren Helden {MODIFIERDEFENDER} % weniger Mana."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.green","Verbessert alle [##elementgreen]Natur[#]schilde auf dem Feld. Verbesserte Schilde gewähren Helden {MODIFIERDEFENDER} % weniger Mana."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.purple","Verbessert alle [##elementpurple]Schatten[#]schilde auf dem Feld. Verbesserte Schilde gewähren Helden {MODIFIERDEFENDER} % weniger Mana."
+"specials.v2.property.tileenhancement.manamultiplier.npcs.red","Verbessert alle [##elementred]Feuer[#]schilde auf dem Feld. Verbesserte Schilde gewähren Helden {MODIFIERDEFENDER} % weniger Mana."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.yellow","Verbessert alle [##elementyellow]Licht[#]schilde auf dem Feld. Verbesserte Schilde gewähren Helden {MODIFIERDEFENDER} % weniger Mana."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.blue","Verbessert alle [##elementblue]Eis[#]schilde auf dem Feld. Verbesserte Schilde gewähren Helden {MODIFIERATTACKER} % mehr Mana."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.green","Verbessert alle [##elementgreen]Natur[#]schilde auf dem Feld. Verbesserte Schilde gewähren Helden {MODIFIERATTACKER} % mehr Mana."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.purple","Verbessert alle [##elementpurple]Schatten[#]schilde auf dem Feld. Verbesserte Schilde gewähren Helden {MODIFIERATTACKER} % mehr Mana."
+"specials.v2.property.tileenhancement.manamultiplier.playercharacters.red","Verbessert alle [##elementred]Feuer[#]schilde auf dem Feld. Verbesserte Schilde gewähren Helden {MODIFIERATTACKER} % mehr Mana."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.yellow","Verbessert alle [##elementyellow]Licht[#]schilde auf dem Feld. Verbesserte Schilde gewähren Helden {MODIFIERATTACKER} % mehr Mana."
 "specials.v2.property.upgrademinortomajorbasedontilecount.yellow","Wenn sich {REQUIREDTILECOUNT} oder mehr [##elementyellow]Heilige Schilde[#] auf dem Spielbrett befinden, sind alle Effekte, die mit dieser Spezialfähigkeit gewirkt werden, unentfernbar."
 "specials.v2.property.wither.extra","Verwelken und Wachstum modifizieren die Fähigkeitspunkte von Charakteren. Der Effekt bleibt erhalten, auch wenn der Charakter besiegt wird.
@@ -30980,6 +30993,15 @@ Nach [#!]{TURNSLEFT}[#] Zügen:
 "temp.halloween_summon_promo7","Nutze Blutgeister für eine kostenlose Beschwörung!"
 "temp.halloween_summon_promo8","Garantierter vollständiger Aufstieg für jeden vorgestellten Helden!"
 "temp.halloween_summon_promo9","Garantierter vollständiger Aufstieg für vorgestellte Helden!"
+"temp_fiend","Der [#!]Setzling-Feind[#] entwickelt sich zu einem [#!]Spross-Feind[#] nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden.
+[*]Der [#!]Spross-Feind[#] entwickelt sich zu einem [#!]Mega-Blütenfeind[#] nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden.
+
+[*] [#!]Setzling-Feind[#]: [#!]{EVOLVINGFAMILIAR1ATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR1HEALTH}[#] % Leben
+[*] [#!]Spross-Feind[#]: [#!]{EVOLVINGFAMILIAR2ATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR2HEALTH}[#] % Leben
+[*] [#!]Mega-Blütenfeind[#]: [#!]{EVOLVINGFAMILIAR3ATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR3HEALTH}[#] % Leben
+
+[*] Ein Feind fügt seinem Ziel jede Runde Schaden zu. Ein Feind verschwindet, nachdem er Heilung absorbiert hat. Die erforderliche Heilungsmenge hängt vom max. Leben des Ziels ab.
+[*]Die Entwicklung  der Feinde wird jedes Mal, wenn sie Heilung absorbieren, um {EVOLVINGFAMILIAR1TURNSDELAY} Runden verzögert."
 "tilebooster.ancient_underroot.title","Ultra-Feld-Booster"
 "tilebooster.maxactivationcount","Jeder Feld-Booster kann einmal pro Runde aktiviert werden."
 "tilebooster.maxactivationcount#2","Jeder Feld-Booster kann [#!]{0}[#]-mal pro Runde aktiviert werden."

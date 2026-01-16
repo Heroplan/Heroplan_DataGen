@@ -2330,8 +2330,11 @@ Er du sikker på, at du vil ødelægge disse ressourcer?"
 "calendar.chest.name.halloween","Halloween-kiste"
 "calendar.chest.name.kalevala","Kalevalakiste"
 "calendar.chest.name.lunarnewyear","Månenytårskiste"
+"calendar.chest.name.valentinesseasonal","Valentinskiste"
 "calendar.chest.valentinesseasonal.description","Køb {0} eller flere for at få en 
 [#!]VALENTINSKISTE[#]"
+"calendar.chest.valentinesseasonal.description.claimed","Tak, fordi du hentede 
+[#!]VALENTINESKISTERNE[#]!"
 "ccpa.dialog.advertising_partners","Online reklamepartnere"
 "ccpa.dialog.button","Sælg eller del ikke mine personlige oplysninger (inkl. oplysninger om, hvilke videoer jeg har set)"
 "ccpa.dialog.message","Vi er afhængige af reklamer for at holde denne app gratis og vil gerne kunne vise dig flere tilpassede annoncer inde i spillet. For at kunne tilpasse annoncer særligt til dig tillader vi, at visse samarbejdspartnere inden for onlineannoncering indsamler oplysninger om dig (fx profiloplysninger, som du har givet os, din enheds annoncerings-ID og andre oplysninger om din enhed). I nogle amerikanske delstater anses dette for at være et ""salg"" eller en ""deling"". Vi kan også dele personoplysninger og oplysninger, hvilke videoer du har set, med en tredjepart med henblik på annoncering.
@@ -5695,7 +5698,10 @@ Den [#!]sælsomme vært[#] har:
 [*][#!]{INHERITEDHEALTH} %[#] nedarvet helbred. 
 [*][#!]{ATTACK}[#] angreb.
 [*][#!]{DEFENSE}[#] forsvar.
-[*]Særlig egenskab: [#!]Sælsomt fordærv[#]. 
+[*]Følgende særlige egenskab:
+
+[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 Hvis denne figur besejrer sig selv, når [#!]vanviddet[#] aktiveres, er chancen for at blive genfødt altid [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Hvis denne figur bliver besejret, er der en chance for, at den genfødes som en [#!]sælsom vært[#]. Chancen er [#!]{CHANCEINCREASEPERSTEP} %[#] pr. [#!]{INSANITYPERSTEP}[#] [#!]vanvid[#] på denne figur op til maks. chance på [#!]{MAXCHANCEINCREASE} %[#].
@@ -6384,7 +6390,7 @@ Du kan træne flere helte, næste gang heltetræneren kommer forbi."
 "heroes.name.construct_skarn","Skarn"
 "heroes.name.construct_sylosis","Sylosis"
 "heroes.name.construct_tenebrae","Tenebrae"
-"heroes.name.construct_zavok","Zavok"
+"heroes.name.construct_zavok","Zavolt"
 "heroes.name.cultist_female_poisoner","Layla"
 "heroes.name.cultist_inventor","Quintus"
 "heroes.name.cultist_mage","Balthazar"
@@ -11116,6 +11122,7 @@ Alle [#ff7a4c]ild[#]-helte får [#!]{REDATTACK} %[#] angreb under vandet."
 "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid","Helte fra [#!]Amor[#]-familien er immune over for statuslidelser, der påvirker helbredelse."
 "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid","Helte af [#!]Amor[#]-familien er immune over for manareduktioner."
 "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid","Helte fra [#!]Amor[#]-familien er immune over for statuslidelser, der påvirker managengivelse."
+"level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid","Helte fra [#!]Amor[#]-familien kan modstå [#!]djævle[#]."
 "level.info.property.description.villains.npcs","I etaper i Skurkeligaen kommer [#!]det guddommelige slag[#] nærmere, hver gang du bruger en særlig egenskab eller et kampobjekt!
 
 [#!]Når det guddommelige slag opnås[#]
@@ -11471,7 +11478,7 @@ Røde lykkemønter kan du få som belønning fra slag i [#!]Krigen om de tre rig
 "linkaccount.dialog.ensure.android","Sikr dig, at din konto er sikker ved at logge på Google Play!"
 "linkaccount.dialog.ensure.ios","Sikr dig, at din konto er sikker ved at logge på Game Center!"
 "linkaccount.dialog.gamecenter","Gå til din enheds indstillinger for at logge på Game Center."
-"linkaccount.dialog.googleplay","Gå til spillets indstillinger på din enhed for at logge ind."
+"linkaccount.dialog.googleplay","Gå til spillets indstillinger for at logge på Google Play."
 "linkaccount.dialog.note","Vigtigt!"
 "linkaccount.dialog.notsafe","Log ind for at gemme dine fremskridt!"
 "linkaccount.dialog.saveyourprogress","Gem dine fremskridt!"
@@ -11781,7 +11788,7 @@ Efter hver {0}. hidkaldelse får du en [#!]bonuskiste med forfremmelsesmateriale
 
 Der er større chance for [#!]legendariske[#] helte i sandklit-hidkaldelsen.
 
-Hidkaldelser kan udføres med ædelsten eller [#!]sandklit-mønter[#], som kan fås ved at gennemføre [#!]sæson V-etaper[#] for første gang. En enkelt hidkaldelse koster 100 sandklit-mønter.
+Hidkaldelser kan udføres med ædelsten eller [#!]sandklit-mønter[#], som kan fås ved at fuldføre [#!]etaper i sæson V[#] for første gang. En enkelt hidkaldelse koster 100 sandklit-mønter.
 
 Efter hver {0}. hidkaldelse får du en af [#!]sandklitdynastiets bonuskister[#]. Du kan maksimalt få [#!]{1}[#] kister i løbet af hver sandklit-hidkaldelsesevent."
 "lottery.description.long.shadowsummon","For hver hidkaldt legendarisk helt får du [#00ffc8]3[#] bonuslodtrækninger, der hver især giver dig [#00ffc8]{2} %[#] chance for at få endnu en legendarisk helt."
@@ -15363,6 +15370,7 @@ Afvisning af den [#!]mystiske hidkaldelse[#] vil gøre den utilgængelig ved den
 "notifications.mail","📮 Du har fået en ny besked! 📮"
 "notifications.mercenary_war.energy_refill","👑⚔️ Krigsenergi fra de tre riger genopbygget. Nu skal der kæmpes! ⚔️👑"
 "notifications.mercenary_war.started","👑⚔️ Krigen om de tre riger er begyndt. Dit rige har brug for dig! ⚔️👑"
+"notifications.mimicsummon","Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
 "notifications.new_season","Kommandør – et nyt eventyr venter os! Kæmp mod nye fjender, og hidkald nye helte i Ufortalte historier!"
 "notifications.pveenergy","⚔️ Verdensenergi genopbygget. Tid til slag! ⚔️"
 "notifications.quest.limitbreak","⚔️ Grænsebrudsekspeditionen er tilgængelig. Tag imod udfordringen for at vinde grænsebrudsobjekter! 🎉"
@@ -15376,7 +15384,7 @@ Afvisning af den [#!]mystiske hidkaldelse[#] vil gøre den utilgængelig ved den
 "notifications.temple","💎⭐🏴 TEMPELHIDKALDELSEN ER ÅBEN NU! Hidkald en legendarisk begivenhedshelt, og få en legendarisk begivenhedshelt gratis som en bonus! 💎⭐🏴"
 "notifications.titan_reward","🐉💎 Titan-bytte tilgængeligt! 💎🐉"
 "notifications.titan_spawned","⚔️ 🐲 Ny titan er dukket op! 🐲⚔"
-"notifications.titanhunter","💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+"notifications.titanhunter","💎⭐🏴 Titanjæger-HIDKALDELSE ÅBEN NU! Hidkald helte, der er ødelæggende over for titaner! 💎⭐🏴"
 "notifications.training","💪 Træningen er afsluttet! 💪"
 "notifications.ubertitan.energy","⚔️ Mytisk titan-energi genoprettet. Nu skal slaget stå! ⚔️"
 "notifications.upgrade","✨⬆️ {0} er blevet opgraderet! ⬆️✨"
@@ -15750,9 +15758,11 @@ Inkluderede sæson 3-helte er fra verdenerne Jotunheim, Muspelheim og Svartalfhe
 "options.linkaccount.gamecenter.loggedin","Du er logget på Game Center"
 "options.linkaccount.gamecenter.loggedout","Du er logget af Game Center"
 "options.linkaccount.googleplay.loggedin","Logget på Google Play"
-"options.linkaccount.googleplay.loggedout","Gå til spillets indstillinger på din enhed for at logge ind."
+"options.linkaccount.googleplay.loggedout","Logget ud af Google Play"
 "options.linkaccount.info.gamecenter","Log på med din Game Center-konto for at gemme dine fremskridt og spille med flere iOS-enheder."
-"options.linkaccount.info.googleplay","Log på med din Google Play-konto for at gemme dine fremskridt og spille med flere Android-enheder."
+"options.linkaccount.info.googleplay","Når du er logget på med din Google Play-konto, kan du gemme dine fremskridt og spille med flere Android-enheder.
+
+ Du kan skifte til en anden Google Play-konto i din telefons Play Games-appindstillinger."
 "options.linkaccount.label","Gem dit spil på tværs af alle enheder"
 "options.linkaccount.signedinas","Logget ind som [#!]{0}[#]"
 "options.privacy","Fortrolighedspolitik"
@@ -20820,7 +20830,7 @@ Vælg venligst færre helte."
 "specials.name.chains_of_light","Lysets kæder"
 "specials.name.chakram_kick","Chakram-spark"
 "specials.name.challenge_the_strongest","Udfordr de stærkeste"
-"specials.name.champagne_hammer","Champagnehammer"
+"specials.name.champagne_hammer","Flaskehammer"
 "specials.name.champion_maneuver","Manøvremester"
 "specials.name.championship_carrot","Mestergulerod"
 "specials.name.change_stance","Gamblerens slag"
@@ -23947,14 +23957,17 @@ Forvandlingseffekter:
 "specials.v2.property.tileenhancement.manamultiplier.both.blue","Ændrer kraften på alle [##elementblue]is[#]-skjolde på brættet. Når en angribende helt kaster det særlige angreb, bliver skjoldene fortryllet og giver {MODIFIERATTACKER} % mere mana. Når en forsvarende helt kaster det særlige angreb, svækkes skjoldene og giver {MODIFIERDEFENDER} % mindre mana."
 "specials.v2.property.tileenhancement.manamultiplier.both.green","Ændrer kraften på alle [##elementgreen]natur[#]-skjolde på brættet. Når en angribende helt kaster det særlige angreb, bliver skjoldene fortryllet og giver {MODIFIERATTACKER} % mere mana. Når en forsvarende helt kaster det særlige angreb, svækkes skjoldene og giver {MODIFIERDEFENDER} % mindre mana."
 "specials.v2.property.tileenhancement.manamultiplier.both.purple","Ændrer kraften på alle [##elementpurple]mørke[#] skjolde på brættet. Når en angribende helt kaster det særlige angreb, bliver skjoldende fortryllet og giver {MODIFIERATTACKER} % mere mana. Når en forsvarende helt kaster det særlige angreb, svækkes skjoldene og giver {MODIFIERDEFENDER} % mindre mana."
+"specials.v2.property.tileenhancement.manamultiplier.both.red","Ændrer kraften på alle [##elementred]ild[#]-skjolde på brættet. Når en angribende helt kaster det særlige angreb, bliver skjoldene fortryllet og giver {MODIFIERATTACKER} % mere mana. Når en forsvarende helt kaster det særlige angreb, svækkes skjoldene og giver {MODIFIERDEFENDER} % mindre mana."
 "specials.v2.property.tileenhancement.manamultiplier.both.yellow","Ændrer kraften på alle [##elementyellow]hellige[#] skjolde på brættet. Når en angribende helt kaster det særlige angreb, bliver skjoldene fortryllet og giver {MODIFIERATTACKER} % mere mana. Når en forsvarende helt kaster det særlige angreb, svækkes skjoldene og giver {MODIFIERDEFENDER} % mindre mana."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.blue","Fortryller alle [##elementblue]is[#]-skjolde på brættet. Fortryllede skjolde giver {MODIFIERDEFENDER} % mindre mana til helte."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.green","Fortryller alle [##elementgreen]natur[#]-skjolde på brættet. Fortryllede skjolde giver {MODIFIERDEFENDER} % mindre mana til helte."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.purple","Fortryller alle [##elementpurple]mørke[#] skjolde på brættet. Fortryllede skjolde giver {MODIFIERDEFENDER} % mindre mana til helte."
+"specials.v2.property.tileenhancement.manamultiplier.npcs.red","Fortryller alle [##elementred]ild[#]-skjolde på brættet. Fortryllede skjolde giver {MODIFIERDEFENDER} % mindre mana til helte."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.yellow","Fortryller alle [##elementyellow]hellige[#] skjolde på brættet. Fortryllede skjolde giver {MODIFIERDEFENDER} % mindre mana til helte."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.blue","Fortryller alle [##elementblue]is[#]-skjolde på brættet. Fortryllede skjolde giver {MODIFIERATTACKER} % mere mana til helte."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.green","Fortryller alle [##elementgreen]natur[#]-skjolde på brættet. Fortryllede skjolde giver {MODIFIERATTACKER} % mere mana til helte."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.purple","Fortryller alle [##elementpurple]mørke[#] skjolde på brættet. Fortryllede skjolde giver {MODIFIERATTACKER} % mere mana til helte."
+"specials.v2.property.tileenhancement.manamultiplier.playercharacters.red","Fortryller alle [##elementred]ild[#]-skjolde på brættet. Fortryllede skjolde giver {MODIFIERATTACKER} % mere mana til helte."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.yellow","Fortryller alle [##elementyellow]hellige[#] skjolde på brættet. Fortryllede skjolde giver {MODIFIERATTACKER} % mere mana til helte."
 "specials.v2.property.upgrademinortomajorbasedontilecount.yellow","Hvis der er {REQUIREDTILECOUNT} eller flere [##elementyellow]hellige skjolde[#] på brættet, så kan ingen effekter kastet i denne særlige egenskab fordrives."
 "specials.v2.property.wither.extra","Visnen og vækst modificerer figurers egenskabsscorer. Effekten forbliver, selv hvis figuren bliver besejret.
@@ -31021,6 +31034,15 @@ Efter [#!]{TURNSLEFT}[#] runder:
 "temp.halloween_summon_promo7","Brug sangvinsk ånd for at få en gratis hidkaldelse!"
 "temp.halloween_summon_promo8","Garanteret fuld opstigning for en fremtrædende helt!"
 "temp.halloween_summon_promo9","Garanteret fuld opstigning for fremtrædende helte!"
+"temp_fiend","[#!]Frøplantedjævlen[#] udvikler sig til en [#!]spiredjævel[#] efter {EVOLVINGFAMILIAR1EVOLVETURNS} ture. 
+[*][#!]Spiredjævlen[#] udvikler sig til en [#!]Blomstrende megadjævel[#] efter {EVOLVINGFAMILIAR2EVOLVETURNS} omgange.
+
+[*][#!]Frøplantedjævel[#]: [#!]{EVOLVINGFAMILIAR1ATTACK}[#] % angreb, [#!]{EVOLVINGFAMILIAR1HEALTH}[#] % helbred
+[*] [#!]Spiredjævel[#]: [#!]{EVOLVINGFAMILIAR2ATTACK}[#] % angreb, [#!]{EVOLVINGFAMILIAR2HEALTH}[#] % helbred
+[*] [#!]Blomstrende megadjævel[#]: [#!]{EVOLVINGFAMILIAR3ATTACK}[#] % angreb, [#!]{EVOLVINGFAMILIAR3HEALTH}[#] % helbred
+
+[*]En djævel skader sit mål hver tur. En djævel forsvinder efter at have absorberet helbred. Mængden af helbred, der kræves, afhænger af målets maksimale helbred.
+[*]Udviklingen af djævlene bliver forsinket med {EVOLVINGFAMILIAR1TURNSDELAY} tur, hver gang de absorberer healing."
 "tilebooster.ancient_underroot.title","Ultra felt-booster"
 "tilebooster.maxactivationcount","Hver felt-booster kan aktiveres én gang per runde."
 "tilebooster.maxactivationcount#2","Hver felt-booster kan aktiveres [#!]{0}[#] gange per runde."

@@ -2104,8 +2104,11 @@
 "calendar.chest.name.halloween","صندوق الهالووين"
 "calendar.chest.name.kalevala","صندوق كاليفالا"
 "calendar.chest.name.lunarnewyear","صندوق السنة القمرية الجديدة"
+"calendar.chest.name.valentinesseasonal","صندوق عيد الحب"
 "calendar.chest.valentinesseasonal.description","اشترِ {0} أو أكثر للحصول على 
 [#!] صندوق عيد الحب[#]"
+"calendar.chest.valentinesseasonal.description.claimed","شكرًا لمطالبتك 
+[#!]بصندوق عيد الحب[#]!"
 "ccpa.dialog.advertising_partners","شركاء الإعلان عبر الإنترنت"
 "ccpa.dialog.button","لا تبع أو تشارك معلوماتي الشخصية (بما في ذلك معلومات مشاهدة الفيديو)"
 "ccpa.dialog.message","نعتمد على الإعلانات للحفاظ على هذا التطبيق مجانيًّا، ونود أن نعرض لك المزيد من الإعلانات المخصصة داخل اللعبة. لتخصيص الإعلانات، نسمح لبعض شركاء الإعلان عبر الإنترنت بجمع معلومات عنك (على سبيل المثال، معلومات الملف الشخصي التي تقدمها لنا، ومعرّف الإعلان الخاص بجهازك، ومعلومات الجهاز الأخرى). يعتبر هذا بمثابة ""بيع"" أو ""مشاركة"" في بعض الولايات الأمريكية. وقد نشارك أيضًا معلوماتك الشخصية، ومعلومات مشاهدة مقاطع الفيديو مع جهات خارجية لأغراض الإعلان.
@@ -4859,7 +4862,6 @@ Thank you for your signup!"
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill","لخفض مقدار القوة الذي يزيد بواسطة المهارة الخاصة بنسبة [#!]{MODIFIER}%[#]. ينطبق التأثير على جميع الأعداء في المعركة."
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect","تخفض مقدار القوة الذي يزيد من خلال المهارات الخاصة، والمهارات الخاملة، ومكافآت العائلة، وتأثيرات الحالة، بنسبة [#!]{MODIFIER}%[#]. ينطبق التأثير على جميع الأعداء في المعركة."
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm","تخفض مقدار القوة الذي يزيد من خلال المهارات الخاصة، والمهارات الخاملة، ومكافآت العائلة، وتأثيرات الحالة، بنسبة [#!]{MODIFIER}%[#]. ينطبق التأثير على جميع الأعداء في المعركة."
-"herocard.passive_skill.description.managenerationmodifier.none","[#!]{MODIFIER}%[#] توليد قوة."
 "herocard.passive_skill.description.manaonownfamiliardeath.minion","تربح هذه الشخصية كميةً قليلةً من القوة عند تدمير أحد أتباعها."
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all","تتمتع هذه الشخصية بقدرة غريزية على [#!]تذكر[#] أي تابع أو شرير يتم استدعاؤه من خلال مهارات الأعداء الخاصة. سيظل آخر تابع وشرير استدعاه الأعداء محفوظًا حتى يتم إلقاء المهارة الخاصة."
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all#2","تتمتع هذه الشخصية بقدرة غريزية على [#!]تذكر[#] أي تابع أو شرير يتم استدعاؤه من خلال مهارات الأعداء الخاصة. سيظل آخر اثنين من الأتباع، والأشرار الذين استدعاهم الأعداء محفوظين حتى يتم إلقاء المهارة الخاصة."
@@ -5252,13 +5254,18 @@ Thank you for your signup!"
 "herocard.passive_skill.description.resistsupportcharacter.troop.alldebuffs.with_chance","فرصة إضافية بنسبة [#!]{CHANCE}%[#] لمقاومة كل أمراض الحالات."
 "herocard.passive_skill.description.revivalchancemodifier.all.enemies","خُفضت فرصة الإحياء لجميع الأعداء في المعركة. صارت الفرصة [#!]{MODIFIER}%[#] من القيمة الأصلية."
 "herocard.passive_skill.description.revivalhealthmodifier.all.enemies.excluding.boss","يمتلك جميع الأعداء [#!]{HEALTHMODIFIER}%[#] من الصحة عند إعادة إحيائهم. لا يتأثر زعماء الأعداء بهذا التأثير."
-"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance","عند هزيمتها، تتمتع هذه الشخصية بفرصة للعودة إلى الحياة باعتبارها [#!]مضيف الشعوذة[#]. تعتمد الفرصة على [#!]{CHANCEINCREASEPERSTEP}%[#] لكل [#!]{INSANITYPERSTEP}[#] من [#!]الجنون[#] لدى هذه الشخصية، بحد أقصى قدره [#!]{MAXCHANCEINCREASE}%[#].
+"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance","عند الهزيمة، يكون لدى الشخصية فرصة لإعادة الإحياء كـ [#!]مضيف شعوذة[#]. الفرصة هي [#!]{CHANCEINCREASEPERSTEP}%[#] لكل [#!]{INSANITYPERSTEP}[#] [#!]جنون[#] لهذه الشخصية، بحد أقصى [#!]{MAXCHANCEINCREASE}%[#]. 
 
-يتمتع [#!]مضيف الشعوذة[#] بنسبة:
-[*][#!]{INHERITEDHEALTH}%[#] من الصحة الموروثة.
+[#!]مضيف الشعوذة[#] لديه:
+[*][#!]{INHERITEDHEALTH}%[#] من الصحة الموروثة. 
 [*][#!]{ATTACK}[#] من الهجوم.
 [*][#!]{DEFENSE}[#] من الدفاع.
-[*]المهارة الخاصة: [#!]لعنة الشعوذة[#]. إذا هزمت هذه الشخصية نفسها عند تفعيل [#!]الجنون[#]، فإن فرصة إعادة الإحياء دائمًا تكون [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
+[*]المهارة الخاصة التالية:
+
+[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
+
+إذا هزمت هذه الشخصية نفسها عند تفعيل [#!]الجنون[#]، فإن فرصة إعادة الإحياء دائمًا تكون [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","في حالة الهزيمة، لدى هذه الشخصية فرصة لإعادة الإحياء في هيئة [#!]مضيف الشعوذة[#]. توجد فرصة بنسبة [#!]{CHANCEINCREASEPERSTEP}%[#] لكل [#!]{INSANITYPERSTEP}[#] من [#!]الجنون[#] على هذه الشخصية، بحد أقصى يصل إلى [#!]{MAXCHANCEINCREASE}%[#] من الفرص.
 
  لدى [#!]مضيف الشعوذة
@@ -5944,7 +5951,7 @@ Thank you for your signup!"
 "heroes.name.construct_skarn","سكارن"
 "heroes.name.construct_sylosis","سيلوسيس"
 "heroes.name.construct_tenebrae","تينيبراي"
-"heroes.name.construct_zavok","زافوك"
+"heroes.name.construct_zavok","زافول"
 "heroes.name.cultist_female_poisoner","ليلى"
 "heroes.name.cultist_inventor","كينتوس"
 "heroes.name.cultist_mage","بلتزار"
@@ -10478,6 +10485,7 @@ Thank you for your signup!"
 "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid","يتمتع أبطال عائلة [#!]كيوبيد[#] بمناعة من أمراض الحالة التي تصيب التعافي."
 "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid","يتمتع أبطال عائلة [#!]كيوبيد[#] بمناعة من خفض القوة."
 "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid","يتمتع أبطال عائلة [#!]كيوبيد[#] بمناعة من أمراض الحالة التي تصيب توليد القوة."
+"level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid","يقاوم أبطال عائلة [#!]كيوبيد[#] [#!]الأشرار[#]."
 "level.info.property.description.villains.npcs","في مراحل عصابة الأشرار، في كل مرة تستخدم مهارة خاصة، أو عنصر معركة تقترب [#!]الضربة المقدسة[#]! [#!]عند الوصول إلى الضربة المقدسة[#] يتلقى جميع الأعداء ضرر [#!]{FIXEDPOWER}[#]. سيكون مؤشر الضربة المقدسة [#!]منخفضًا إذا لم تستخدم[#] أي مهارات خاصة، أو عناصر معركة خلال دورك."
 "level.info.property.description.villains_poison","في مراحل عصابة الأشرار، يتلقى جميع الأبطال ضرر السمِّ [#!]{FIXEDPOWER}[#] في كل دور."
 "level.info.property.description.volcanic_stalactites_damage","كل {TURNSDELAY} من الأدوار، تتساقط الرواسب من سقف المغارة، وتلحق {POWER}% من ضرر الصحة القصوى بكل الحلفاء. يتلقى كل الحلفاء من عنصر [##elementblue]الجليد[#] {DAMAGEREDUCTION}% ضررًا أقل."
@@ -10812,7 +10820,7 @@ Thank you for your signup!"
 "linkaccount.dialog.ensure.android","تأكد من أنّ حسابك آمن عبر تسجيل الدخول في غوغل بلاي!"
 "linkaccount.dialog.ensure.ios","تأكد من أنّ حسابك آمن عبر تسجيل الدخول في مركز غايم سنتر!"
 "linkaccount.dialog.gamecenter","ادخل إلى إعدادات جهازك لتسجيل الدخول في مركز الألعاب."
-"linkaccount.dialog.googleplay","انتقل إلى إعدادات Play Games على جهازك لتسجيل الدخول."
+"linkaccount.dialog.googleplay","ادخل إلى إعدادات اللعبة لتسجل الدخول في غوغل بلاي."
 "linkaccount.dialog.note","مهم!"
 "linkaccount.dialog.notsafe","سجّل الدخول لتحفظ تقدمك!"
 "linkaccount.dialog.saveyourprogress","احفظ تقدمك!"
@@ -11053,7 +11061,7 @@ Thank you for your signup!"
 "lottery.description.long.season2","يتميز [#!]استدعاء أطلانطس[#] ببطلين أسطوريين من الفصل II وبطلين سبق إصدارهما من [#!]أبطال الشهر[#]. يتضمن أيضًا بطل الشهر الحالي. يتمتع استدعاء أطلانطس بفرصة أكبر للحصول على أبطال [#!]أسطوريين[#]. يمكن القيام بالاستدعاء باستخدام الجواهر أو [#!]عملات أطلانطس[#] التي يمكن الحصول عليها من خلال إتمام [#!]مراحل الفصل II[#] للمرة الأولى. الاستدعاء الواحد يكلف 100 عملة أطلانطس. بعد كل {0} استدعاء، ستحصل على [#!]صندوق مواد تصعيد إضافي[#]. يمكنك المطالبة بحد أقصى [#!]{1}[#] من الصناديق أثناء كل حدث من أحداث استدعاء أطلانطس."
 "lottery.description.long.season3","يتميز [#!]استدعاء فالهالا[#] بثلاثة أبطال أسطوريين من الفصل III. توجد أيضًا فرصة للحصول على بطل الشهر الحالي. يتمتع استدعاء فالهالا بفرصة أكبر للحصول على أبطال [#!]أسطوريين[#]. يمكن القيام بالاستدعاء باستخدام الجواهر أو [#!]عملات فالهالا[#] التي يمكن الحصول من خلال إتمام [#!]مراحل الفصل III[#] للمرة الأولى. الاستدعاء الواحد يكلف 100 عملة فالهالا. بعد كلّ {0} استدعاءات، ستحصل على [#!]صندوق مواد تصعيد إضافي[#]. يمكنك المطالبة بحد أقصى [#!]{1}[#] من الصناديق أثناء كل حدث من أحداث استدعاء فالهالا."
 "lottery.description.long.season4","يتميز [#!]استدعاء العالم السفلي[#] بثلاثة أبطال أسطوريين من الفصل IV. توجد أيضًا فرصة للحصول على بطل الشهر الحالي. يتمتع استدعاء العالم السفلي بفرصة أكبر للحصول على أبطال [#!]أسطوريين[#]. يمكن القيام بالاستدعاءات باستخدام الجواهر أو [#!]عملات العالم السفلي[#] التي يمكن الحصول عليها من خلال إكمال مراحل الفصل IV[#] للمرة الأولى. الاستدعاء الواحد يكلف 100 عملة من عملات العالم السفلي. بعد كلّ {0} استدعاء، ستحصل على [#!]صندوق مواد تصعيد إضافي[#]. يمكنك المطالبة بحد أقصى [#!]{1}[#] من الصناديق أثناء كل حدث من أحداث استدعاء العالم السفلي."
-"lottery.description.long.season5","يتميز [#!]استدعاء الكثبان الرملية[#] بثلاثة أبطال أسطوريين من الفصل V. توجد أيضًا فرصة للحصول على بطل الشهر الحالي. يتمتع استدعاء الكثبان الرملية بفرصة أكبر للحصول على أبطال [#!]أسطوريين[#]. يمكن القيام بالاستدعاءات باستخدام الجواهر أو [#!]عملات الكثبان الرملية[#] التي يمكن الحصول عليها من خلال إتمام [#!]مراحل الفصل V[#] للمرة الأولى. الاستدعاء الواحد يكلف 100 عملة من عملات الكثبان الرملية. بعد كلٍّ {0} من الاستدعاءات، ستحصل على [#!]صندوق إضافي من الكثبان الرملية[#]. يمكنك المطالبة بحد أقصى [#!]{1}[#] من الصناديق خلال كل حدث من أحداث استدعاء الكثبان الرملية."
+"lottery.description.long.season5","يتميز [#!]استدعاء الكثبان الرملية[#] بثلاثة أبطال أسطوريين من الموسم V. توجد أيضًا فرصة للحصول على بطل الشهر الحالي. يتمتع استدعاء الكثبان الرملية بفرصة أكبر للحصول على أبطال [#!]أسطوريين[#]. يمكن القيام بالاستدعاءات باستخدام الجواهر أو [#!]عملات الكثبان الرملية[#] التي يمكن الحصول عليها من خلال إتمام [#!]مراحل الموسم V[#] للمرة الأولى. الاستدعاء الواحد يكلف 100 عملة من عملات الكثبان الرملية. بعد كلٍّ {0} من الاستدعاءات، ستحصل على [#!]صندوق إضافي من الكثبان الرملية[#]. يمكنك المطالبة بحد أقصى [#!]{1}[#] من الصناديق خلال كل حدث من أحداث استدعاء الكثبان الرملية."
 "lottery.description.long.shadowsummon","مقابل كل بطل أسطوري مُستدعى، تحصل على [#00ffc8]3[#] من مرات السحب الإضافية، وكل مرة منها تتيح لك فرصة بنسبة [#00ffc8]{2}%[#] للحصول على بطل أسطوري آخر."
 "lottery.description.long.solsticesummon","[#!]استدعاء الانقلاب الشمسي[#] يتضمن بطلين أسطوريين جديدين من حدث جديد آت إليكم في 2025!
 
@@ -14479,6 +14487,7 @@ Thank you for your signup!"
 "notifications.mail","📮 لديك رسالة جديدة! 📮"
 "notifications.mercenary_war.energy_refill","👑⚔️ تمت استعادة طاقة حرب الممالك الثلاث. حان وقت القتال! ⚔️👑"
 "notifications.mercenary_war.started","👑⚔️ لقد بدأت حرب الممالك الثلاث. مملكتك تحتاج إليك! ⚔️👑"
+"notifications.mimicsummon","Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
 "notifications.new_season","أيها القائد؛ تنتظرنا مغامرة جديدة! قاتل أعداء جددًا، واستدعِ أبطالاً جددًا في الحكايات المخفية!"
 "notifications.pveenergy","⚔️ تمت استعادة طاقة العالم. حان وقت القتال! ⚔️"
 "notifications.quest.limitbreak","⚔️ مهمة اختراق الحد الأقصى متاحة. واجِه التحدي لتربح عناصر اختراق الحد الأقصى! 🎉"
@@ -14492,7 +14501,7 @@ Thank you for your signup!"
 "notifications.temple","💎⭐🏴  استدعاء المعبد مفتوح الآن! استدع بطل حدث أسطوري، واحصل على بطل حدث أسطوري إضافي مجانًا! 💎⭐🏴"
 "notifications.titan_reward","🐉💎 غنيمة العملاق متوفرة! 💎🐉"
 "notifications.titan_spawned","⚔️ 🐲 ظهر عملاق جديد! 🐲⚔"
-"notifications.titanhunter","💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+"notifications.titanhunter","💎⭐🏴 استدعاء صياد العمالقة مفتوح الآن! استدعاء الأبطال المدمرين ضد العمالقة! 💎⭐🏴"
 "notifications.training","💪 انتهى التدريب! 💪"
 "notifications.ubertitan.energy","⚔️ تمت استعادة طاقة العملاق الأسطوري. حان وقت القتال! ⚔️"
 "notifications.upgrade","✨⬆️ تمّ تطوير {0}! ⬆️✨"
@@ -14785,9 +14794,9 @@ Thank you for your signup!"
 "odds.lootbox.powergrade.ascension1","مُصعّد مرة واحدة"
 "odds.lootbox.powergrade.ascension2","مُصعّد مرتين"
 "odds.lootbox.powergrade.basic","أساسي"
-"odds.lootbox.powergrade.limitbreak1","LB1"
+"odds.lootbox.powergrade.limitbreak1","متجاوز حد أقصى1"
 "odds.lootbox.powergrade.limitbreak1maxtalents","متجاوز حد أقصى 1 ومرمز بالكامل"
-"odds.lootbox.powergrade.limitbreak2","LB2"
+"odds.lootbox.powergrade.limitbreak2","متجاوز حد أقصى 2"
 "odds.lootbox.powergrade.limitbreak2maxtalents","متجاوزًا حد أقصى 2 ومرمزًا بالكامل"
 "odds.lootbox.powergrade.maxascension","مصعدًا بالكامل"
 "odds.lootbox.powergrade.maxascensionmaxtalents","مصعدًا بالكامل، ومرمزًا بالكامل"
@@ -14865,9 +14874,11 @@ Thank you for your signup!"
 "options.linkaccount.gamecenter.loggedin","تسجيل دخول إلى مركز الألعاب"
 "options.linkaccount.gamecenter.loggedout","تسجيل خروج من مركز الألعاب"
 "options.linkaccount.googleplay.loggedin","تم تسجيل الدخول إلى غوغل بلاي"
-"options.linkaccount.googleplay.loggedout","انتقل إلى إعدادات Play Games على جهازك لتسجيل الدخول."
+"options.linkaccount.googleplay.loggedout","تم تسجيل الخروج من غوغل بلاي"
 "options.linkaccount.info.gamecenter","سجل الدخول عبر حساب غايم سنتر لكي تحفظ تقدمك وتلعب من عدة أجهزة آي أو إس."
-"options.linkaccount.info.googleplay","سجل دخولك عبر حساب غوغل بلاي الخاص بك لحفظ تقدمك واللعب من عدة أجهزة أندرويد."
+"options.linkaccount.info.googleplay","عند تسجيل الدخول باستخدام حساب Google Play الخاص بك، فستحفظ تقدمك، ويمكنك اللعب من عدة أجهزة Android.‏
+
+يمكنك التبديل إلى حساب Google Play مختلف عبر إعدادات تطبيق Play Games على هاتفك المحمول."
 "options.linkaccount.label","احفظ لعبتك على عدّة الأجهزة"
 "options.linkaccount.signedinas","سجلت الدخول بصفتك [#!]{0}[#]"
 "options.privacy","سياسة الخصوصية"
@@ -18673,7 +18684,7 @@ Thank you for your signup!"
 "shop.offers.subtitle.vippass_starter2","7 أيام"
 "shop.offers.subtitle.vippass_starter3","14 يومًا"
 "shop.offers.summon_heroes#1","احصل على [%140][#ffffff]{0}[#][%] استدعاء!"
-"shop.offers.summon_heroes#2","احصل على [%140][#ffffff]{0}[#][%] استدعاءين!"
+"shop.offers.summon_heroes#2","احصل على استدعاءين!"
 "shop.offers.summon_heroes#3","احصل على [%140][#ffffff]{0}[#][%] استدعاءات! (الهيئة الثالثة)"
 "shop.offers.summon_heroes.dragon#1","استدعِ [%140][#ffffff]{0}[#][%] تنين!"
 "shop.offers.summon_heroes.dragon#2","استدعِ اثنين من التنانين!"
@@ -19616,7 +19627,7 @@ Thank you for your signup!"
 "specials.name.chains_of_light","سلاسل النور"
 "specials.name.chakram_kick","ركلة شاكرام"
 "specials.name.challenge_the_strongest","تحدي الأقوى"
-"specials.name.champagne_hammer","مطرقة الشراب"
+"specials.name.champagne_hammer","مطرقة زجاجة"
 "specials.name.champion_maneuver","مناورة البطل"
 "specials.name.championship_carrot","جزر البطولة"
 "specials.name.change_stance","شطب المراهن"
@@ -22667,14 +22678,17 @@ Thank you for your signup!"
 "specials.v2.property.tileenhancement.manamultiplier.both.blue","لتغيير قوة جميع دروع [##elementblue]الثلج[#] على اللوحة. عندما يقوم أحد الأبطال المهاجمين بإلقاء المهارة الخاصة، تصبح الدروع معززة، وتمنح نسبة {MODIFIERATTACKER}% أكثر من القوة. عندما يقوم أحد الأبطال المدافعين بإلقاء المهارة الخاصة، تصبح الدروع ضعيفة، وتمنح نسبة {MODIFIERDEFENDER}% أقل من القوة."
 "specials.v2.property.tileenhancement.manamultiplier.both.green","يغير قوة جميع دروع [##elementgreen]الطبيعة[#] على اللوحة. عندما يقوم أحد الأبطال المهاجمين بإلقاء المهارة الخاصة، تصبح الدروع معززة، وتمنح نسبة{MODIFIERATTACKER}% أكثر من القوة. عندما يقوم أحد الأبطال المدافعين بإلقاء المهارة الخاصة، تصبح الدروع ضعيفة، وتمنح نسبة {MODIFIERDEFENDER}% أقل من القوة."
 "specials.v2.property.tileenhancement.manamultiplier.both.purple","لتغيير قوة جميع دروع [##elementpurple]الظلام[#] على اللوحة. عندما يقوم أحد الأبطال المهاجمين بإلقاء المهارة الخاصة، تصبح الدروع معززة وتمنح {MODIFIERATTACKER}% أكثر من القوة. عندما يقوم أحد الأبطال المدافعين بإلقاء المهارة الخاصة، يتم إضعاف الدروع وتمنح {MODIFIERDEFENDER}% أقل من القوة."
+"specials.v2.property.tileenhancement.manamultiplier.both.red","لتغيير قوة جميع دروع [##elementred]النار[#] على اللوحة. عندما يقوم أحد الأبطال المهاجمين بإلقاء المهارة الخاصة، تصبح الدروع معززة، وتمنح {MODIFIERATTACKER}% أكثر من القوة. عندما يقوم أحد الأبطال المدافعين بإلقاء المهارة الخاصة، يتم إضعاف الدروع، وتمنح {MODIFIERDEFENDER}% أقل من القوة."
 "specials.v2.property.tileenhancement.manamultiplier.both.yellow","يغير قوة جميع الدروع [##elementyellow]المقدسة[#] على اللوحة. عندما يقوم أحد الأبطال المهاجمين بإلقاء المهارة الخاصة، تصبح الدروع معززة، وتمنح نسبة {MODIFIERATTACKER}% أكثر من القوة. عندما يقوم أحد الأبطال المدافعين بإلقاء المهارة الخاصة، تصبح الدروع ضعيفة، وتمنح نسبة {MODIFIERDEFENDER}% أقل من القوة."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.blue","لتعزيز جميع دروع [##elementblue]الثلج[#] على اللوحة. تمنح الدروع المعززة نسبة {MODIFIERDEFENDER}% أقل من القوة للأبطال."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.green","يعزز جميع دروع [##elementgreen]الطبيعة[#] على اللوحة. تمنح الدروع المعززة نسبة {MODIFIERDEFENDER}% أقل من القوة للأبطال."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.purple","يعزز جميع دروع [##elementpurple]الظلام[#] على اللوحة. تمنح الدروع المعززة {MODIFIERDEFENDER}% أقل من القوة للأبطال."
+"specials.v2.property.tileenhancement.manamultiplier.npcs.red","يعزز جميع دروع [##elementred]النار[#] على اللوحة. تمنح الدروع المعززة {MODIFIERDEFENDER}% أقل من القوة للأبطال."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.yellow","يعزز جميع الدروع [##elementyellow]المقدسة[#] على اللوحة. تمنح الدروع المعززة نسبة {MODIFIERDEFENDER}% أقل من القوة للأبطال."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.blue","لتعزيز جميع دروع [##elementblue]الثلج[#] على اللوحة. تمنح الدروع المعززة نسبة {MODIFIERATTACKER}% أكثر من القوة للأبطال."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.green","يعزز جميع دروع [##elementgreen]الطبيعة[#] على اللوحة. تمنح الدروع المعززة نسبة {MODIFIERATTACKER}% أكثر من القوة للأبطال."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.purple","يعزز جميع دروع [##elementpurple]الظلام[#] على اللوحة. تمنح الدروع المعززة {MODIFIERATTACKER}% أكثر من القوة للأبطال."
+"specials.v2.property.tileenhancement.manamultiplier.playercharacters.red","يعزز جميع دروع [##elementred]النار[#] على اللوحة. تمنح الدروع المعززة {MODIFIERATTACKER}% أكثر من القوة للأبطال."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.yellow","يعزز جميع الدروع [##elementyellow]المقدسة[#] على اللوحة. تمنح الدروع المعززة نسبة {MODIFIERATTACKER}% أكثر من القوة للأبطال."
 "specials.v2.property.upgrademinortomajorbasedontilecount.yellow","إذا كان هناك {REQUIREDTILECOUNT} أو أكثر من [##elementyellow]الدروع المقدسة[#] على اللوح، فستصير كل الآثار التي ألقيت في هذه المهارة الخاصة غير قابلة للتبديد."
 "specials.v2.property.wither.extra","يعدل التلف والنمو نتائج قدرات الشخصيات. يبقى التأثير حتى إذا هُزمت الشخصية.
@@ -29651,6 +29665,17 @@ Thank you for your signup!"
 "temp.halloween_summon_promo7","استخدم روح دموية لتحصل على استدعاء مجاني!"
 "temp.halloween_summon_promo8","الصعود الكامل مضمون لأي بطل مميز!"
 "temp.halloween_summon_promo9","الصعود الكامل مضمون للأبطال المميزين!"
+"temp_fiend","يتطور [#!]الشرير البذرة[#] ليصبح [#!]شريرًا برعمًا[#] بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.
+[*]يتطور [#!]الشرير البرعم[#] إلى [#!]شرير ضخم زاهر[#] بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.
+
+[*] [#!]الشرير البذرة[#]: [#!]{EVOLVINGFAMILIAR1ATTACK}[#]% من الهجوم، [#!]{EVOLVINGFAMILIAR1HEALTH}[#]% من الصحة
+[*] [#!]الشرير البرعم[#]: 
+[#!]{EVOLVINGFAMILIAR2ATTACK}[#]% من الهجوم [#!]{EVOLVINGFAMILIAR2HEALTH}[#]% من الصحة
+[*] [#!]الشرير الضخم المزدهر[#]: 
+[#!]{EVOLVINGFAMILIAR3ATTACK}[#]% من الهجوم [#!]{EVOLVINGFAMILIAR3HEALTH}[#]% من الصحة
+
+[*]يدمر الشرير هدفه في كل جولة. يختفي الشرير بعد امتصاص التعافي. كمية التعافي اللازمة تعتمد على الصحة القصوى للهدف.
+[*]يتأخر تطور الأشرار {EVOLVINGFAMILIAR1TURNSDELAY} من الجولات في كل مرة يمتصون فيها العلاج."
 "tilebooster.ancient_underroot.title","قطعة معززة فائقة"
 "tilebooster.maxactivationcount","يُمكن تفعيل كل قطعة معززة مرة واحدة في كل جولة."
 "tilebooster.maxactivationcount#2","يُمكن تفعيل كل قطعة معززة مرتين في كل جولة. [#!][#]"

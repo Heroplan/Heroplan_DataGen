@@ -2329,8 +2329,11 @@ Tem certeza de que quer destruir estes recursos?"
 "calendar.chest.name.halloween","Baú de Halloween"
 "calendar.chest.name.kalevala","Baú de Kalevala"
 "calendar.chest.name.lunarnewyear","Baú do Ano Novo Lunar"
+"calendar.chest.name.valentinesseasonal","Baú de São Valentim"
 "calendar.chest.valentinesseasonal.description","Compre pelo menos {0} e ganhe um 
 [#!]BAÚ DE SÃO VALENTIM[#]"
+"calendar.chest.valentinesseasonal.description.claimed","Obrigado por resgatar o
+[#!]BAÚ DE SÃO VALENTIM[#]!"
 "ccpa.dialog.advertising_partners","Parceiros de publicidade online"
 "ccpa.dialog.button","Não vender nem compartilhar minhas informações pessoais (inclusive informações de visualização de vídeos)"
 "ccpa.dialog.message","Os anúncios permitem que este app continue sendo gratuito. Gostaríamos de mostrar a você anúncios mais personalizados no jogo. Para fazer isso, permitimos que determinados parceiros de publicidade online coletem informações sobre você (por exemplo, as informações de perfil fornecidas por você, seu Advertising ID e outras informações do dispositivo). Isso é considerado uma ""venda"" ou ""compartilhamento"" em alguns estados dos EUA. Também podemos compartilhar com terceiros as suas informações pessoais e de visualização de vídeo para fins de publicidade.
@@ -3414,7 +3417,7 @@ If you opt out of doing so [#!]{0}[#] more times you will be opted out of the pr
 "eliteclub.informationrequest.input.country.gb","UK"
 "eliteclub.informationrequest.input.country.us","USA"
 "eliteclub.informationrequest.input.countrycode","Country code"
-"eliteclub.informationrequest.input.countrycode.header","Phone number (e.g. +1 - 1234567890)"
+"eliteclub.informationrequest.input.countrycode.header","Telefone (ex.: +1 1234567890)"
 "eliteclub.informationrequest.input.countrycode.incorrect","example: +1"
 "eliteclub.informationrequest.input.email","Email"
 "eliteclub.informationrequest.input.email.incorrect","example: name@example.com"
@@ -5691,7 +5694,10 @@ O [#!]Hospedeiro Místico[#] tem:
 [*] [#!]{INHERITEDHEALTH}%[#] de vida herdada
 [*] [#!]{ATTACK}[#] de ataque
 [*] [#!]{DEFENSE}[#] de defesa
-[*]Habilidade especial: [#!]Flagelo Místico[#].
+[*]A seguinte habilidade especial:
+
+[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 Quando este personagem derrota a si mesmo ao ativar  [#!]Insanidade[#], a chance de renascer é sempre [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Quando é derrotado, este personagem pode renascer como [#!]Hospedeiro Místico[#]. A chance é de [#!]{CHANCEINCREASEPERSTEP}%[#] por [#!]{INSANITYPERSTEP}[#] [#!]Insanidade[#] do personagem até o limite de [#!]{MAXCHANCEINCREASE}%[#].
@@ -6382,7 +6388,7 @@ Só é possível treinar heróis [#ffc3ff]LENDÁRIOS[#] que ainda não ascendera
 "heroes.name.construct_skarn","Skarn"
 "heroes.name.construct_sylosis","Sylosis"
 "heroes.name.construct_tenebrae","Tenebrae"
-"heroes.name.construct_zavok","Zavok"
+"heroes.name.construct_zavok","Zavolt"
 "heroes.name.cultist_female_poisoner","Layla"
 "heroes.name.cultist_inventor","Quintus"
 "heroes.name.cultist_mage","Baltazar"
@@ -11118,6 +11124,7 @@ As [#!]gemas do Submundo Selvagem[#] só surgem em escudos normais do elemento d
 "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid","Os heróis da família [#!]Cupido[#] são imunes a males de status que afetam a cura."
 "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid","Os heróis da família [#!]Cupido[#] são imunes a reduções de mana."
 "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid","Os heróis da família [#!]Cupido[#] são imunes a males de status que afetam a geração de mana."
+"level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid","Os heróis da família [#!]Cupido[#] resistem a [#!]demônios[#]."
 "level.info.property.description.villains.npcs","Nas fases de Liga dos Vilões, sempre que você usa uma habilidade especial ou um Item de Batalha, a [#!]Punição Divina[#] fica mais próxima!
 
 [#!]Quando você alcança a Punição Divina,[#]
@@ -11471,7 +11478,7 @@ Você pode receber moedas da Sorte Vermelha como recompensa em batalhas na [#!]G
 "linkaccount.dialog.ensure.android","Garanta a segurança da sua conta fazendo login no Google Play!"
 "linkaccount.dialog.ensure.ios","Garanta a segurança da sua conta entrando pelo Game Center!"
 "linkaccount.dialog.gamecenter","Vá às configurações do seu dispositivo para acessar o Game Center."
-"linkaccount.dialog.googleplay","Acesse as configurações do Play Games no dispositivos para fazer login."
+"linkaccount.dialog.googleplay","Acesse as configurações do jogo para fazer login no Google Play."
 "linkaccount.dialog.note","Importante!"
 "linkaccount.dialog.notsafe","Conecte-se para salvar seu progresso!"
 "linkaccount.dialog.saveyourprogress","Salve o seu progresso!"
@@ -11559,7 +11566,7 @@ Para saber mais, toque no link abaixo!"
 "lottery.bonus.legendary_troops_chest","Convoque {0} ou mais para ganhar um [#!]BAÚ DE BÔNUS DE TROPA LENDÁRIA[#]"
 "lottery.bonus.legends_chest","Convoque {0} ou mais para ganhar um [#!]BAÚ DE EMBLEMAS DE BÔNUS[#]"
 "lottery.bonus.monster_island_chest","Convoque {0} ou mais para ganhar um [#ffffff]BAÚ DE BÔNUS DA ILHA DOS MONSTROS[#]! Contém [#ffffff]HERÓIS DE TREINO[#] garantidos!"
-"lottery.bonus.season5_ascension","Convoque {0} ou mais para ganhar um [#!]BAÚ EXTRA DINASTIA DAS DUNAS[#]!"
+"lottery.bonus.season5_ascension","Convoque {0} ou mais para ganhar um [#!]BAÚ DE BÔNUS DA DINASTIA DAS DUNAS[#]!"
 "lottery.bonus.shadow_summon_chest","Convoque {0} ou mais para ganhar um [#!]BAÚ DAS SOMBRAS[#]"
 "lottery.bonus.sold_out","Esgotado"
 "lottery.bonus.solstice_chest","Convoque {0} ou mais para ganhar um
@@ -11609,7 +11616,7 @@ Para saber mais, toque no link abaixo!"
 "lottery.chest.name.beowulf_chest_loot","Baú de Bônus do Desafio"
 "lottery.chest.name.black_chest_loot","Baú de bônus de Black Friday"
 "lottery.chest.name.covenant_chest_loot","Baú de Bônus do Pacto"
-"lottery.chest.name.dunes_chest_loot","Baú Extra Dinastia das Dunas"
+"lottery.chest.name.dunes_chest_loot","Baú de bônus da Dinastia das Dunas"
 "lottery.chest.name.emblem_summon_chest_loot","Baú de emblemas de bônus"
 "lottery.chest.name.festival_chest_loot","Baú de bônus do Festival"
 "lottery.chest.name.harvest_summon_chest_loot","Baú de Bônus da Colheita"
@@ -11770,9 +11777,9 @@ A cada {0} convocações, um [#!]baú de material de Ascensão de bônus[#] é c
 
 A Convocação das Dunas oferece uma chance maior de conseguir Heróis [#!]Lendários[#].
 
-Convocações podem ser feitas com gemas ou [#!]mMedas das Dunas[#], obtidas em [#!]Missões de Procura[#], [#!]Batalhas com Titãs Raros[#] e ao concluir [#!]fases da temporada 5[#] pela primeira vez. Uma única convocação custa 100 Moedas das Dunas.
+Convocações podem ser feitas com gemas ou [#!]moedas das Dunas[#], obtidas ao completar [#!]fases da temporada 5[#] pela primeira vez. Uma única convocação custa 100 Moedas das Dunas.
 
-A cada {0} convocações, um [#!]Baú Extra Dinastia das Dunas[#] é concedido. Você pode resgatar [#!]{1}[#] baús em cada evento da Convocação das Dunas."
+A cada {0} convocações, um [#!]baú de  bônus da Dinastia das Dunas[#] é concedido. Você pode resgatar [#!]{1}[#] baús em cada evento da Convocação das Dunas."
 "lottery.description.long.shadowsummon","Por cada herói lendário convocado, você recebe [#00ffc8]3[#] sorteios adicionais, cada um com [#00ffc8]{2}%[#] de chance de dar outro Herói Lendário."
 "lottery.description.long.solsticesummon","A [#!]Convocação de Solstício[#] inclui dois novos heróis lendários de um evento inédito de 2025!
 
@@ -15295,6 +15302,7 @@ Por favor, tente novamente mais tarde."
 "notifications.mail","📮 Você tem novas mensagens! 📮"
 "notifications.mercenary_war.energy_refill","👑⚔️ Energia da Guerra dos Três Reinos recuperada. Hora de lutar! ⚔️👑"
 "notifications.mercenary_war.started","👑⚔️ A Guerra dos Três Reinos começou. Seu reino precisa de você! ⚔️👑"
+"notifications.mimicsummon","Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
 "notifications.new_season","Comandante, há uma nova aventura esperando por nós! Lute contra novos inimigos e convoque novos heróis nas Histórias Inauditas!"
 "notifications.pveenergy","⚔️ Energia de mundo recuperada. Hora de lutar! ⚔️"
 "notifications.quest.limitbreak","⚔️ Objetivo de quebra de limite disponível. Encare o desafio para ganhar itens de quebra de limite! 🎉"
@@ -15308,7 +15316,7 @@ Por favor, tente novamente mais tarde."
 "notifications.temple","💎⭐🏴 CONVOCAÇÃO do Templo ABERTA! Convoque um herói lendário do evento e receba outro herói lendário do evento grátis! 💎⭐🏴"
 "notifications.titan_reward","🐉💎 Espólios de Titã disponíveis! 💎🐉"
 "notifications.titan_spawned","⚔️ 🐲 Um novo Titã apareceu! 🐲⚔"
-"notifications.titanhunter","💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+"notifications.titanhunter","💎⭐🏴 CONVOCAÇÃO dos Caçadores de Titãs ABERTA! Convoque heróis devastadores contra titãs! 💎⭐🏴"
 "notifications.training","💪 Treinamento terminado! 💪"
 "notifications.ubertitan.energy","⚔️ Energia de Titã Mítico recuperada. Hora de lutar! ⚔️"
 "notifications.upgrade","✨⬆️ {0} recebeu aprimoramento! ⬆️✨"
@@ -15684,9 +15692,11 @@ Herói [#ffffff]raro[#] do Império de Areia: [#!]{0}%[#]"
 "options.linkaccount.gamecenter.loggedin","Acessou o Game Center"
 "options.linkaccount.gamecenter.loggedout","Saiu do Game Center"
 "options.linkaccount.googleplay.loggedin","Entrou no Google Play"
-"options.linkaccount.googleplay.loggedout","Acesse as configurações do Play Games no dispositivos para fazer login."
+"options.linkaccount.googleplay.loggedout","Saiu do Google Play"
 "options.linkaccount.info.gamecenter","Acesse usando a sua conta do Game Center para salvar o seu progresso e jogar em vários dispositivos iOS."
-"options.linkaccount.info.googleplay","Acesse usando a sua conta do Google Play para salvar o seu progresso e jogar em vários dispositivos Android."
+"options.linkaccount.info.googleplay","Faça login com uma conta do Google Play para salvar seu progresso e jogar em vários dispositivos Android.
+
+Para usar outra conta do Google Play, acesse as configurações do app Play Games no dispositivo."
 "options.linkaccount.label","Salve seu progresso em vários dispositivos"
 "options.linkaccount.signedinas","Conectado como [#!]{0}[#]"
 "options.privacy","Política de Privacidade"
@@ -20760,7 +20770,7 @@ Selecione menos heróis."
 "specials.name.chains_of_light","Correntes de Luz"
 "specials.name.chakram_kick","Chute de Chakram"
 "specials.name.challenge_the_strongest","Desafiar o Mais Forte"
-"specials.name.champagne_hammer","Martelo de champanhe"
+"specials.name.champagne_hammer","Martelo de Garrafa"
 "specials.name.champion_maneuver","Manobra de Campeão"
 "specials.name.championship_carrot","Cenoura de Campeonato"
 "specials.name.change_stance","Golpe do Apostador"
@@ -22761,7 +22771,7 @@ Selecione menos heróis."
 "specials.strongattack.green","Causa dano extra contra [#70e92f]Natureza[#]."
 "specials.strongattack.red","Causa dano extra contra [#ff9f81]Fogo[#]."
 "specials.strongattack.yellow","Causa dano extra contra [#f2e33a]Luz[#]."
-"specials.v2.bigminion.aberration_big_minion.single","Convoca um ajudante mega Aberração para cada aliado. O ajudante herda {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque do invocador.
+"specials.v2.bigminion.aberration_big_minion.single","Convoca um ajudante mega Aberração. O ajudante herda {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque do invocador.
 
 Cada ataque de um ajudante mega Aberração dá ao alvo o seguinte mal de status:"
 "specials.v2.bigminion.black_boar_mega_minion.single","Convoca um ajudante mega Javali Preto com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque herdados do invocador."
@@ -23897,14 +23907,17 @@ Efeitos da transformação:
 "specials.v2.property.tileenhancement.manamultiplier.both.blue","Altera o poder de todos os escudos de [##elementblue]Gelo[#] no tabuleiro. Quando um herói atacante lança a habilidade especial, os escudos são reforçados e dão {MODIFIERATTACKER}% mais mana. Quando um herói defensor lança a habilidade especial, os escudos são enfraquecidos e dão {MODIFIERDEFENDER}% menos mana."
 "specials.v2.property.tileenhancement.manamultiplier.both.green","Altera o poder de todos os escudos de [##elementgreen]Natureza[#] no tabuleiro. Quando um herói atacante lança a habilidade especial, os escudos são reforçados e dão {MODIFIERATTACKER}% mais mana. Quando um herói defensor lança a habilidade especial, os escudos são enfraquecidos e dão {MODIFIERDEFENDER}% menos mana."
 "specials.v2.property.tileenhancement.manamultiplier.both.purple","Altera o poder de todos os escudos de [##elementpurple]Trevas[#] no tabuleiro. Quando um herói atacante lança a habilidade especial, os escudos são reforçados e dão {MODIFIERATTACKER}% mais mana. Quando um herói defensor lança a habilidade especial, os escudos são enfraquecidos e dão {MODIFIERDEFENDER}% menos mana."
+"specials.v2.property.tileenhancement.manamultiplier.both.red","Altera o poder de todos os escudos de [##elementred]Fogo[#] no tabuleiro. Quando um herói atacante lança a habilidade especial, os escudos são reforçados e dão {MODIFIERATTACKER}% mais mana. Quando um herói defensor lança a habilidade especial, os escudos são enfraquecidos e dão {MODIFIERDEFENDER}% menos mana."
 "specials.v2.property.tileenhancement.manamultiplier.both.yellow","Altera o poder de todos os escudos de [##elementyellow]Luz[#] no tabuleiro. Quando um herói atacante lança a habilidade especial, os escudos são reforçados e dão {MODIFIERATTACKER}% mais mana. Quando um herói defensor lança a habilidade especial, os escudos são enfraquecidos e dão {MODIFIERDEFENDER}% menos mana."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.blue","Reforça todos os escudos de [##elementblue]Gelo[#] no tabuleiro. Escudos reforçados dão {MODIFIERDEFENDER}% menos mana aos heróis."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.green","Reforça todos os escudos de [##elementgreen]Natureza[#] no tabuleiro. Escudos reforçados dão {MODIFIERDEFENDER}% menos mana aos heróis."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.purple","Reforça todos os escudos de [##elementpurple]Trevas[#] no tabuleiro. Escudos reforçados dão {MODIFIERDEFENDER}% menos mana aos heróis."
+"specials.v2.property.tileenhancement.manamultiplier.npcs.red","Reforça todos os escudos de [##elementred]Fogo[#] no tabuleiro. Escudos reforçados dão {MODIFIERDEFENDER}% menos mana aos heróis."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.yellow","Reforça todos os escudos de [##elementyellow]Luz[#] no tabuleiro. Escudos reforçados dão {MODIFIERDEFENDER}% menos mana aos heróis."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.blue","Reforça todos os escudos de [##elementblue]Gelo[#] no tabuleiro. Escudos reforçados dão {MODIFIERATTACKER}% mais mana aos heróis."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.green","Reforça todos os escudos de [##elementgreen]Natureza[#] no tabuleiro. Escudos reforçados dão {MODIFIERATTACKER}% mais mana aos heróis."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.purple","Reforça todos os escudos de [##elementpurple]Trevas[#] no tabuleiro. Escudos reforçados dão {MODIFIERATTACKER}% mais mana aos heróis."
+"specials.v2.property.tileenhancement.manamultiplier.playercharacters.red","Reforça todos os escudos de [##elementred]Fogo[#] no tabuleiro. Escudos reforçados dão {MODIFIERATTACKER}% mais mana aos heróis."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.yellow","Reforça todos os escudos de [##elementyellow]Luz[#] no tabuleiro. Escudos reforçados dão {MODIFIERATTACKER}% mais mana aos heróis."
 "specials.v2.property.upgrademinortomajorbasedontilecount.yellow","Quando existem {REQUIREDTILECOUNT} ou mais [##elementyellow]escudos de Luz[#] no tabuleiro, todos os efeitos invocados nesta habilidade especial são indissipáveis."
 "specials.v2.property.wither.extra","Atrofia e Crescimento modificam as Pontuações de Habilidade e se mantêm mesmo quando o personagem é derrotado.
@@ -30696,7 +30709,7 @@ Emblemas Completos"
 "summon.super_deal.black_friday","Superoferta!"
 "summon.three_in_one_legendary.button_shadow","Sorteio
 extra!"
-"summon.three_in_one_legendary.button_shadow_3x","3x"
+"summon.three_in_one_legendary.button_shadow_3x","x3"
 "summon.two_in_one_legendary.button_goblin","Chance de x2"
 "summon.two_in_one_legendary.description","Por cada herói [#ffc3ff]Lendário[#] convocado, você recebe outro Herói [#ffc3ff]Lendário[#] sem destaque."
 "summon.two_in_one_legendary.description_astralelves","Ao convocar um herói astral [#ffc3ff]Lendário[#], você recebe outro herói astral [#ffc3ff]Lendário[#] diferente grátis!"
@@ -30978,6 +30991,20 @@ Após[#!]{TURNSLEFT}[#] turnos:
 "temp.halloween_summon_promo7","Use a essência sanguínea para uma convocação grátis!"
 "temp.halloween_summon_promo8","Ascensão total garantida para qualquer herói em destaque!"
 "temp.halloween_summon_promo9","Ascensão total garantida para heróis em destaque!"
+"temp_fiend","O [#!]demônio Muda[#] se transforma em [#!]demônio Broto[#] após  {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
+[*] O [#!]demônio Broto[#] se transforma em [#!]demônio mega Florescência[#] após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
+
+[*] [#!]Demônio Muda[#]: 
+[#!]{EVOLVINGFAMILIAR1ATTACK}[#]% de ataque, [#!]{EVOLVINGFAMILIAR1HEALTH}[#]% de vida
+
+[*] [#!]Demônio Broto[#]: 
+[#!]{EVOLVINGFAMILIAR2ATTACK}[#]% de ataque, [#!]{EVOLVINGFAMILIAR2HEALTH}[#]% de vida
+
+[*] [#!]Demônio mega Florescência[#]: 
+[#!]{EVOLVINGFAMILIAR3ATTACK}[#]% de ataque, [#!]{EVOLVINGFAMILIAR3HEALTH}[#]% de vida
+
+[*] O demônio causa dano ao alvo a cada turno e desaparece após absorver a cura. A quantidade de cura necessária depende do limite de vida do alvo.
+[*] A evolução dos demônios é atrasada em {EVOLVINGFAMILIAR1TURNSDELAY} turno cada vez que eles absorvem cura."
 "tilebooster.ancient_underroot.title","Impulsionador de Espaço Ultra"
 "tilebooster.maxactivationcount","Cada Impulsionador de Espaço pode ser ativado uma vez por turno."
 "tilebooster.maxactivationcount#2","Cada Impulsionador de Espaço pode ser ativado [#!]{0}[#] vezes por turno."

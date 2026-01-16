@@ -2336,8 +2336,11 @@ Captura más [#!]avanzadillas[#] para generar más recursos."
 "calendar.chest.name.halloween","Cofre de Halloween"
 "calendar.chest.name.kalevala","Cofre del Kalevala"
 "calendar.chest.name.lunarnewyear","Cofre del Año Nuevo lunar"
+"calendar.chest.name.valentinesseasonal","Cofre de San Valentín"
 "calendar.chest.valentinesseasonal.description","Compra {0} o más para ganar un
 [#!]cofre de San Valentín[#]."
+"calendar.chest.valentinesseasonal.description.claimed","¡Gracias por recoger el
+[#!]cofre de San Valentín[#]!"
 "ccpa.dialog.advertising_partners","Socios publicitarios en línea"
 "ccpa.dialog.button","No vender ni compartir mi información personal (incluida la información de visionado de vídeos)"
 "ccpa.dialog.message","Esta aplicación es gratuita gracias a la publicidad, y nos gustaría mostrarte anuncios más personalizados en el juego. Para ello, permitimos que determinados socios publicitarios en línea recopilen datos acerca de ti (por ejemplo, la información de perfil que nos proporcionas, el identificador publicitario de tu dispositivo y otra información que este contiene). En algunos estados de Estados Unidos, esto se considera vender o compartir información. También es posible que compartamos tu información personal y de visionado de vídeos con terceros con fines publicitarios.
@@ -5700,7 +5703,10 @@ El [#!]huésped sobrenatural[#] tiene:
 [*] [#!]{INHERITEDHEALTH} %[#] de vitalidad heredada
 [*] [#!]{ATTACK}[#] de ataque
 [*] [#!]{DEFENSE}[#] de defensa
-[*] Habilidad especial: [#!]Plaga sobrenatural[#]
+[*] La habilidad especial:
+
+[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 Si este personaje cae derrotado cuando se activa la [#!]demencia[#], siempre tiene un [#!]{CHANCEONSELFCAUSEDDEATH} %[#] de probabilidad de renacer."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Si este personaje cae derrotado, tiene una probabilidad de renacer como [#!]huésped sobrenatural[#]. La probabilidad es del [#!]{CHANCEINCREASEPERSTEP} %[#] por cada [#!]{INSANITYPERSTEP}[#] de [#!]demencia[#] que tenga el personaje hasta un máximo del [#!]{MAXCHANCEINCREASE} %[#].
@@ -6391,7 +6397,7 @@ Solo puede instruir a héroes [#ffc3ff]legendarios[#] que no se hayan ascendido 
 "heroes.name.construct_skarn","Skarn"
 "heroes.name.construct_sylosis","Sylosis"
 "heroes.name.construct_tenebrae","Tenebrae"
-"heroes.name.construct_zavok","Zavok"
+"heroes.name.construct_zavok","Zavolt"
 "heroes.name.cultist_female_poisoner","Layla"
 "heroes.name.cultist_inventor","Quintus"
 "heroes.name.cultist_mage","Balthazar"
@@ -11130,6 +11136,7 @@ Las [#!]gemas de las profundidades[#] solo pueden generarse en escudos normales 
 "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid","Los héroes de la familia de [#!]cupidos[#] son inmunes a los estados alterados que afectan a la curación."
 "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid","Los héroes de la familia de [#!]cupidos[#] son inmunes a las reducciones de maná."
 "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid","Los héroes de la familia de [#!]cupidos[#] son inmunes a los estados alterados que afectan a la regeneración de maná."
+"level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid","Los héroes de la familia de [#!]cupidos[#] resisten los [#!]demonios[#]."
 "level.info.property.description.villains.npcs","En las fases del evento de la Liga de los Villanos, cada vez que uses una habilidad especial o un objeto de batalla, ¡estarás un paso más cerca de la [#!]destrucción divina[#]!
 
 [#!]Al alcanzar la destrucción divina[#],
@@ -11485,7 +11492,7 @@ Puedes recibir estas monedas como recompensa en batallas de la [#!]Guerra de los
 "linkaccount.dialog.ensure.android","¡Asegúrate de que tu cuenta esté a salvo iniciando sesión en Google Play!"
 "linkaccount.dialog.ensure.ios","¡Asegúrate de que tu cuenta esté a salvo iniciando sesión en Game Center!"
 "linkaccount.dialog.gamecenter","Ve a los ajustes de tu dispositivo para iniciar sesión en Game Center."
-"linkaccount.dialog.googleplay","Ve a los ajustes de Play Juegos en tu dispositivo para iniciar sesión."
+"linkaccount.dialog.googleplay","Ve a los ajustes del juego para iniciar sesión en Google Play."
 "linkaccount.dialog.note","¡Importante!"
 "linkaccount.dialog.notsafe","¡Inicia sesión para guardar tu progreso!"
 "linkaccount.dialog.saveyourprogress","¡Guarda tu progreso!"
@@ -11792,7 +11799,7 @@ Cada {0} invocaciones, recibirás un [#!]cofre de materiales de ascensión adic
 
 La invocación de las dunas tiene una probabilidad aumentada de obtener héroes [#!]legendarios[#].
 
-Las invocaciones se pueden realizar con gemas o [#!]monedas de las dunas[#] que se obtienen en las [#!]misiones «Se busca»[#], las [#!]batallas de titanes raros[#] y al completar las [#!]fases de la temporada V[#] por primera vez. Una invocación cuesta 100 monedas de las dunas.
+Las invocaciones se pueden realizar con gemas o [#!]monedas de las dunas[#] que se obtienen al completar las [#!]fases de la temporada V[#] por primera vez. Una invocación cuesta 100 monedas de las dunas.
 
 Cada {0} invocaciones, recibirás un [#!]cofre de Dinastía de las dunas de bonificación[#]. Puedes obtener un máximo de [#!]{1}[#] cofres durante cada evento de invocación de las dunas."
 "lottery.description.long.shadowsummon","Por cada héroe legendario que invoques, recibes [#00ffc8]3[#] loterías de bonificación, cada una con un [#00ffc8]{2} %[#] de probabilidad de proporcionarte otro héroe legendario."
@@ -15397,6 +15404,7 @@ Vuelve a intentarlo más tarde."
 "notifications.mail","📮 ¡Tienes correo nuevo! 📮"
 "notifications.mercenary_war.energy_refill","👑⚔️ Energía de Guerra de los Tres Reinos recuperada. ¡Es hora de la batalla! ⚔️👑"
 "notifications.mercenary_war.started","👑⚔️ La Guerra de los Tres Reinos ha empezado. ¡Tu reino te necesita! ⚔️👑"
+"notifications.mimicsummon","Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
 "notifications.new_season","¡Comandante, hay una nueva aventura a la espera! ¡Combate contra nuevos enemigos e invoca nuevos héroes en Historias no contadas!"
 "notifications.pveenergy","⚔️ Energía del mundo recuperada. ¡Es hora de la batalla! ⚔️"
 "notifications.quest.limitbreak","⚔️ ¡Aventura rompelímites disponible! Enfréntate al desafío ¡y gana objetos rompelímites! 🎉"
@@ -15410,7 +15418,7 @@ Vuelve a intentarlo más tarde."
 "notifications.temple","💎⭐🏴 ¡Ya está disponible la invocación de templo! Invoca a un héroe de evento legendario ¡y llévate otro gratis! 💎⭐🏴"
 "notifications.titan_reward","🐉💎 ¡Botín de titán disponible! 💎🐉"
 "notifications.titan_spawned","⚔️ 🐲 ¡Ha aparecido un nuevo titán! 🐲⚔"
-"notifications.titanhunter","💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+"notifications.titanhunter","💎⭐🏴 Ya está disponible la invocación cazatitanes. ¡Invoca a héroes devastadores contra los titanes! 💎⭐🏴"
 "notifications.training","💪 ¡Entrenamiento terminado! 💪"
 "notifications.ubertitan.energy","⚔️ Energía de titán mítico recuperada. ¡Es hora de la batalla! ⚔️"
 "notifications.upgrade","✨⬆️ ¡{0} se ha mejorado! ⬆️✨"
@@ -15785,9 +15793,11 @@ Héroe del Imperio de la arena [#ffffff]raro[#]: [#!]{0} %[#]"
 "options.linkaccount.gamecenter.loggedin","Se ha iniciado sesión en Game Center"
 "options.linkaccount.gamecenter.loggedout","Se ha cerrado sesión en Game Center"
 "options.linkaccount.googleplay.loggedin","Se ha iniciado sesión en Google Play"
-"options.linkaccount.googleplay.loggedout","Ve a los ajustes de Play Juegos en tu dispositivo para iniciar sesión."
+"options.linkaccount.googleplay.loggedout","Se ha cerrado sesión en Google Play"
 "options.linkaccount.info.gamecenter","Inicia sesión con tu cuenta de Game Center para guardar tu progreso y jugar con diferentes dispositivos iOS."
-"options.linkaccount.info.googleplay","Inicia sesión con tu cuenta de Google Play para guardar tu progreso y jugar con diferentes dispositivos Android."
+"options.linkaccount.info.googleplay","Inicia sesión con tu cuenta de Google Play para guardar tu progreso y jugar con diferentes dispositivos Android.
+
+Puedes cambiar a otra cuenta de Google Play diferente a través de los ajustes de la aplicación Play Juegos en tu teléfono."
 "options.linkaccount.label","Guarda tu juego en todos los dispositivos"
 "options.linkaccount.signedinas","Iniciado sesión como [#!]{0}[#]"
 "options.privacy","Política de privacidad"
@@ -20861,7 +20871,7 @@ Selecciona menos héroes."
 "specials.name.chains_of_light","Cadenas de luz"
 "specials.name.chakram_kick","Patada de chakram"
 "specials.name.challenge_the_strongest","Desafío para los más fuertes"
-"specials.name.champagne_hammer","Martillo de champán"
+"specials.name.champagne_hammer","Martillo de botella"
 "specials.name.champion_maneuver","Maniobra campeona"
 "specials.name.championship_carrot","Zanahoria de campeonato"
 "specials.name.change_stance","Sablazo de tahúr"
@@ -23998,14 +24008,17 @@ Efectos de transformación:
 "specials.v2.property.tileenhancement.manamultiplier.both.blue","El poder de todos los escudos de [##elementblue]hielo[#] del tablero se altera. Cuando un héroe atacante usa su habilidad especial, los escudos se mejoran y otorgan un {MODIFIERATTACKER} % más de maná. Cuando la usa un héroe defensor, los escudos se debilitan y otorgan un {MODIFIERDEFENDER} % menos de maná."
 "specials.v2.property.tileenhancement.manamultiplier.both.green","El poder de todos los escudos de [##elementgreen]naturaleza[#] del tablero se altera. Cuando un héroe atacante usa su habilidad especial, los escudos se mejoran y otorgan un {MODIFIERATTACKER} % más de maná. Cuando la usa un héroe defensor, los escudos se debilitan y otorgan un {MODIFIERDEFENDER} % menos de maná."
 "specials.v2.property.tileenhancement.manamultiplier.both.purple","El poder de todos los escudos [##elementpurple]oscuros[#] del tablero se altera. Cuando un héroe atacante usa su habilidad especial, los escudos se mejoran y otorgan un {MODIFIERATTACKER} % más de maná. Cuando la usa un héroe defensor, los escudos se debilitan y otorgan un {MODIFIERDEFENDER} % menos de maná."
+"specials.v2.property.tileenhancement.manamultiplier.both.red","El poder de todos los escudos de [##elementred]fuego[#] del tablero se altera. Cuando un héroe atacante usa su habilidad especial, los escudos se mejoran y otorgan un {MODIFIERATTACKER} % más de maná. Cuando la usa un héroe defensor, los escudos se debilitan y otorgan un {MODIFIERDEFENDER} % menos de maná."
 "specials.v2.property.tileenhancement.manamultiplier.both.yellow","El poder de todos los escudos [##elementyellow]sagrados[#] del tablero se altera. Cuando un héroe atacante usa su habilidad especial, los escudos se mejoran y otorgan un {MODIFIERATTACKER} % más de maná. Cuando la usa un héroe defensor, los escudos se debilitan y otorgan un {MODIFIERDEFENDER} % menos de maná."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.blue","Todos los escudos de [##elementblue]hielo[#] del tablero mejoran. Los escudos mejorados otorgan un {MODIFIERDEFENDER} % menos de maná a los héroes."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.green","Todos los escudos de [##elementgreen]naturaleza[#] del tablero mejoran. Los escudos mejorados otorgan un {MODIFIERDEFENDER} % menos de maná a los héroes."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.purple","Todos los escudos [##elementpurple]oscuros[#] del tablero mejoran. Los escudos mejorados otorgan un {MODIFIERDEFENDER} % menos de maná a los héroes."
+"specials.v2.property.tileenhancement.manamultiplier.npcs.red","Todos los escudos de [##elementred]fuego[#] del tablero mejoran. Los escudos mejorados otorgan un {MODIFIERDEFENDER} % menos de maná a los héroes."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.yellow","Todos los escudos [##elementyellow]sagrados[#] del tablero mejoran. Los escudos mejorados otorgan un {MODIFIERDEFENDER} % menos de maná a los héroes."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.blue","Todos los escudos de [##elementblue]hielo[#] del tablero mejoran. Los escudos mejorados otorgan un {MODIFIERATTACKER} % más de maná a los héroes."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.green","Todos los escudos de [##elementgreen]naturaleza[#] del tablero mejoran. Los escudos mejorados otorgan un {MODIFIERATTACKER} % más de maná a los héroes."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.purple","Todos los escudos [##elementpurple]oscuros[#] del tablero mejoran. Los escudos mejorados otorgan un {MODIFIERATTACKER} % más de maná a los héroes."
+"specials.v2.property.tileenhancement.manamultiplier.playercharacters.red","Todos los escudos de [##elementred]fuego[#] del tablero mejoran. Los escudos mejorados otorgan un {MODIFIERATTACKER} % más de maná a los héroes."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.yellow","Todos los escudos [##elementyellow]sagrados[#] del tablero mejoran. Los escudos mejorados otorgan un {MODIFIERATTACKER} % más de maná a los héroes."
 "specials.v2.property.upgrademinortomajorbasedontilecount.yellow","Si hay {REQUIREDTILECOUNT} o más [##elementyellow]escudos sagrados[#] en el tablero, ninguno de los efectos que aplica esta habilidad especial se puede descartar."
 "specials.v2.property.wither.extra","Los efectos de merma y crecimiento alteran las puntuaciones de habilidad. El efecto se mantiene aunque el personaje caiga derrotado.
@@ -31077,6 +31090,20 @@ Pasados [#!]{TURNSLEFT}[#] turnos:
 "temp.halloween_summon_promo7","¡Usa el espíritu sanguinario para invocar gratis!"
 "temp.halloween_summon_promo8","¡Los héroes destacados estarán ascendidos al máximo!"
 "temp.halloween_summon_promo9","¡Los héroes destacados estarán ascendidos al máximo!"
+"temp_fiend","El [#!]demonio brote maldito[#] se convierte en [#!]demonio retoño[#] pasados {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
+[*] El [#!]demonio retoño[#] se convierte en [#!]megademonio flor[#] pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
+
+[*] [#!]Demonio brote maldito[#]:
+[#!]{EVOLVINGFAMILIAR1ATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR1HEALTH} %[#] de vitalidad
+
+[*] [#!]Demonio retoño[#]:
+[#!]{EVOLVINGFAMILIAR2ATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR2HEALTH} %[#] de vitalidad
+
+[*] [#!]Megademonio flor[#]:
+[#!]{EVOLVINGFAMILIAR3ATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR3HEALTH}[#] % de vitalidad
+
+[*] El demonio inflige daño al objetivo en cada turno. Desaparece al absorber curación. La cantidad de curación depende de la vitalidad máxima del objetivo.
+[*] La evolución de los demonios se retrasa {EVOLVINGFAMILIAR1TURNSDELAY} turno cada vez que absorben curación."
 "tilebooster.ancient_underroot.title","Ultrapotenciador de casilla"
 "tilebooster.maxactivationcount","Puedes activar cada potenciador de casilla una vez por turno."
 "tilebooster.maxactivationcount#2","Puedes activar cada potenciador de casilla [#!]{0}[#] veces por turno."

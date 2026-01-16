@@ -2324,8 +2324,11 @@ Erövra fler [#!]Utposter[#] för att generera mer resurser."
 "calendar.chest.name.halloween","Halloween-kista"
 "calendar.chest.name.kalevala","Kalevala-kista"
 "calendar.chest.name.lunarnewyear","Kinesiskt nyår-kista"
+"calendar.chest.name.valentinesseasonal","Alla hjärtans dag-kista"
 "calendar.chest.valentinesseasonal.description","Köp minst {0} så får du en 
 [#!]ALLA HJÄRTANS DAG-KISTA[#]"
+"calendar.chest.valentinesseasonal.description.claimed","Tack för att du hämtade
+[#!]ALLA HJÄRTANS DAG-KISTAN[#]!"
 "ccpa.dialog.advertising_partners","Onlinereklampartner"
 "ccpa.dialog.button","Sälj eller dela inte mina personuppgifter (inklusive uppgifter om videotittande)"
 "ccpa.dialog.message","Vi förlitar oss på annonser för att hålla den här appen gratis och skulle vilja visa dig mer personlig reklam i spelet. För att göra det tillåter vi att vissa annonseringspartner online samlar in information om dig (t.ex. profilinformation som du tillhandahåller oss, din enhets annonserings-ID och annan enhetsinformation). I vissa amerikanska delstater betraktas det här som ”försäljning” eller ”delning”. Vi kan också dela dina personuppgifter och information om videovisning med tredje part för annonsering.
@@ -5686,7 +5689,10 @@ Den [#!]kusliga värden[#] har:
 [*][#!]{INHERITEDHEALTH} %[#] ärvd hälsa.
 [*][#!]{ATTACK}[#] attack.
 [*][#!]{DEFENSE}[#] försvar.
-[*]Specialförmåga: [#!]Kusligt fördärv[#].
+[*]Följande specialförmåga:
+
+[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 Om den här karaktären besegrar sig själv när [#!]vansinne[#] aktiveras är chansen att återfödas [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Om den här karaktären besegras har den chansen att återuppstå som en [#!]kuslig värd[#]. Chansen är [#!]{CHANCEINCREASEPERSTEP} %[#] per [#!]{INSANITYPERSTEP}[#] [#!]vansinne[#] på den här karaktären, upp till en maximal chans på [#!]{MAXCHANCEINCREASE} %[#].
@@ -6377,7 +6383,7 @@ Bara [#ffc3ff]LEGENDARISKA[#] hjältar som inte har graderats helt kan tränas."
 "heroes.name.construct_skarn","Skarn"
 "heroes.name.construct_sylosis","Sylosis"
 "heroes.name.construct_tenebrae","Tenebrae"
-"heroes.name.construct_zavok","Zavok"
+"heroes.name.construct_zavok","Zavolt"
 "heroes.name.cultist_female_poisoner","Layla"
 "heroes.name.cultist_inventor","Quintus"
 "heroes.name.cultist_mage","Balthazar"
@@ -11117,6 +11123,7 @@ Alla [#ff7a4c]eld[#]hjältar får [#!]{REDATTACK} %[#] attack under vattnet."
 "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid","Hjältar i familjen [#!]Amorin[#] är immuna mot negativa statuseffekter som påverkar läkning."
 "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid","Hjältar i familjen [#!]Amorin[#] är immuna mot manaminskningar."
 "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid","Hjältar i familjen [#!]Amorin[#] är immuna mot negativa statuseffekter som påverkar manaskapande."
+"level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid","Hjältar i familjen [#!]Amorin[#] har motstånd mot [#!]odjur[#]."
 "level.info.property.description.villains.npcs","I Skurkarnas förbund-etapper kommer du närmare att aktivera det [#!]gudomliga straffet[#] varje gång du använder specialförmågor och stridsföremål!
 
 [#!]När det gudomliga straffet aktiveras[#]
@@ -11471,7 +11478,7 @@ Du får röda turmynt i belöning från strider i [#!]De tre rikenas krig[#]."
 "linkaccount.dialog.ensure.android","Se till så att ditt konto är säkert genom att logga in på Google Play!"
 "linkaccount.dialog.ensure.ios","Se till så att ditt konto är säkert genom att logga in på Game Center!"
 "linkaccount.dialog.gamecenter","Gå till din enhets inställningar för att logga in på Game Center."
-"linkaccount.dialog.googleplay","Gå till Play Spel-inställningarna på din enhet för att logga in."
+"linkaccount.dialog.googleplay","Gå till din enhets inställningar för att logga in på Google Play."
 "linkaccount.dialog.note","Viktigt!"
 "linkaccount.dialog.notsafe","Logga in för att spara dina framsteg!"
 "linkaccount.dialog.saveyourprogress","Spara dina framsteg!"
@@ -11773,7 +11780,7 @@ Varje gång du gjort {0} åkallelser får du en [#!]bonuskista med graderingsmat
 
 Dynåkallelsen innebär en ökad chans att få [#!]legendariska[#] hjältar.
 
-Åkallelser kan utföras med ädelstenar eller [#!]dynmynt[#] som går att få från [#!]jaktuppdrag[#], [#!]sällsynta titanstrider[#] genom att genomföra [#!]säsong V-nivåer[#] för första gången. En åkallelse kostar 100 dynmynt.
+Åkallelser kan utföras med ädelstenar eller [#!]dynmynt[#] som går att få genom att genomföra [#!]säsong V-nivåer[#] för första gången. En åkallelse kostar 100 dynmynt.
 
 Varje gång du gjort {0} åkallelser får du en [#!]dynernas dynasti-bonuskista[#]. Du kan få maximalt [#!]{1}[#] kistor under varje evenemang med dynåkallelse."
 "lottery.description.long.shadowsummon","För varje åkallad legendarisk hjälte får du [#00ffc8]3[#] bonusdragningar, var och en med [#00ffc8]{2} %[#] chans att få en till legendarisk hjälte."
@@ -15376,6 +15383,7 @@ Försök igen senare."
 "notifications.mail","📮 Du har fått post! 📮"
 "notifications.mercenary_war.energy_refill","👑⚔️ De tre rikenas krig-energi återställd. Dags för strid! ⚔️👑"
 "notifications.mercenary_war.started","👑⚔️ De tre rikenas krig har börjat. Ditt rike behöver dig! ⚔️👑"
+"notifications.mimicsummon","Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
 "notifications.new_season","Befälhavare, ett nytt äventyr väntar oss! Möt nya fiender och åkalla nya hjältar i Osagda sagor!"
 "notifications.pveenergy","⚔️ Världsenergi återställd. Dags för strid! ⚔️"
 "notifications.quest.limitbreak","⚔️ Ett gränsbrytaräventyr är tillgängligt. Möt utmaningarna för att få gränsbrytarföremål! 🎉"
@@ -15389,7 +15397,7 @@ Försök igen senare."
 "notifications.temple","💎⭐🏴 Tempelåkallelsen är ÖPPEN NU! Åkalla en legendarisk evenemangshjälte och få ytterligare en legendarisk evenemangshjälte gratis! 💎⭐🏴"
 "notifications.titan_reward","🐉💎 Titanbyte tillgängligt! 💎🐉"
 "notifications.titan_spawned","⚔️ 🐲 En ny Titan har uppenbarat sig! 🐲⚔"
-"notifications.titanhunter","💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+"notifications.titanhunter","💎⭐🏴 ÅKALLELSE AV titanjägare HAR BÖRJAT! Åkalla hjältar som är förödande mot titaner! 💎⭐🏴"
 "notifications.training","💪 Träningen avslutad! 💪"
 "notifications.ubertitan.energy","⚔️ Mytomspunnen titanenergi återställd. Dags för strid! ⚔️"
 "notifications.upgrade","✨⬆️ {0} har uppgraderats! ⬆️✨"
@@ -15764,9 +15772,11 @@ Hjältarna från säsong 3 som ingår är från rikena Jotunheim, Muspelheim och
 "options.linkaccount.gamecenter.loggedin","Loggade in på Game Center"
 "options.linkaccount.gamecenter.loggedout","Loggade ut från Game Center"
 "options.linkaccount.googleplay.loggedin","Inloggad på Google Play"
-"options.linkaccount.googleplay.loggedout","Gå till Play Spel-inställningarna på din enhet för att logga in."
+"options.linkaccount.googleplay.loggedout","Utloggad från Google Play"
 "options.linkaccount.info.gamecenter","Logga in med ditt Game Center-konto för att spara dina framsteg och kunna splea med fler än en iOS-enhet."
-"options.linkaccount.info.googleplay","Logga in med ditt Google Play-konto för att spara dina framsteg och kunna splea med fler än en Android-enhet."
+"options.linkaccount.info.googleplay","Logga in med ditt Google Play-konto för att spara dina framsteg och kunna splea med fler än en Android-enhet.
+
+ Du kan växla till ett annat Google Play-konto din telefons Play Games-appinställningar."
 "options.linkaccount.label","Spara spelet på flera enheter"
 "options.linkaccount.signedinas","Inloggad som [#!]{0}[#]"
 "options.privacy","Integritetspolicy"
@@ -20843,7 +20853,7 @@ Välj färre hjältar."
 "specials.name.chains_of_light","Ljusets kedja"
 "specials.name.chakram_kick","Chakram-spark"
 "specials.name.challenge_the_strongest","Utmana den starkaste"
-"specials.name.champagne_hammer","Champagnehammare"
+"specials.name.champagne_hammer","Flaskhammare"
 "specials.name.champion_maneuver","Mästarmanöver"
 "specials.name.championship_carrot","Mästerlig morot"
 "specials.name.change_stance","Hasardhugg"
@@ -22844,7 +22854,7 @@ Välj färre hjältar."
 "specials.strongattack.green","Gör extra skada mot [#70e92f]natur[#]."
 "specials.strongattack.red","Gör extra skada mot [#ff9f81]eld[#]."
 "specials.strongattack.yellow","Gör extra skada mot [#f2e33a]heligt[#]."
-"specials.v2.bigminion.aberration_big_minion.single","Åkallar en monstrummegaundersåte till varje allierad med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från anfallaren. 
+"specials.v2.bigminion.aberration_big_minion.single","Åkallar en monstrummegaundersåte med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från anfallaren. 
 
 Varje träff från en monstrummegaundersåte ger målet följande negativa statuseffekt:"
 "specials.v2.bigminion.black_boar_mega_minion.single","Åkallar en svart megavildsvin-undersåte med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från anfallaren."
@@ -23980,14 +23990,17 @@ Förvandlingseffekter:
 "specials.v2.property.tileenhancement.manamultiplier.both.blue","Påverkar alla [##elementblue]issköldar[#] på brädet. När en attackerande hjälte använder specialförmågan blir sköldarna förstärkta och ger {MODIFIERATTACKER} % mer mana. När en försvarande hjälte använder specialförmågan blir sköldar svagare och ger {MODIFIERDEFENDER} % mindre mana."
 "specials.v2.property.tileenhancement.manamultiplier.both.green","Påverkar alla [##elementgreen]natursköldar[#] på brädet. När en attackerande hjälte använder specialförmågan blir sköldarna förstärkta och ger {MODIFIERATTACKER} % mer mana. När en försvarande hjälte använder specialförmågan blir sköldar svagare och ger {MODIFIERDEFENDER} % mindre mana."
 "specials.v2.property.tileenhancement.manamultiplier.both.purple","Påverkar alla [##elementpurple]mörkersköldar[#] på brädet. När en attackerande hjälte använder specialförmågan blir sköldarna förstärkta och ger {MODIFIERATTACKER} % mer mana. När en försvarande hjälte använder specialförmågan blir sköldar svagare och ger {MODIFIERDEFENDER} % mindre mana."
+"specials.v2.property.tileenhancement.manamultiplier.both.red","Påverkar alla [##elementred]eldsköldar[#] på brädet. När en attackerande hjälte använder specialförmågan blir sköldarna förstärkta och ger {MODIFIERATTACKER} % mer mana. När en försvarande hjälte använder specialförmågan blir sköldar svagare och ger {MODIFIERDEFENDER} % mindre mana."
 "specials.v2.property.tileenhancement.manamultiplier.both.yellow","Påverkar alla [##elementyellow]heliga sköldar[#] på brädet. När en attackerande hjälte använder specialförmågan blir sköldarna förstärkta och ger {MODIFIERATTACKER} % mer mana. När en försvarande hjälte använder specialförmågan blir sköldar svagare och ger {MODIFIERDEFENDER} % mindre mana."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.blue","Förstärker alla [##elementblue]issköldar[#] på brädet. Förstärkta sköldar ger {MODIFIERDEFENDER} % mindre mana till hjältar."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.green","Förstärker alla [##elementgreen]natursköldar[#] på brädet. Förstärkta sköldar ger {MODIFIERDEFENDER} % mindre mana till hjältar."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.purple","Förstärker alla [##elementpurple]mörkersköldar[#] på brädet. Förstärkta sköldar ger {MODIFIERDEFENDER} % mindre mana till hjältar."
+"specials.v2.property.tileenhancement.manamultiplier.npcs.red","Förstärker alla [##elementred]eldsköldar[#] på brädet. Förstärkta sköldar ger {MODIFIERDEFENDER} % mindre mana till hjältar."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.yellow","Förstärker alla [##elementyellow]heliga sköldar[#] på brädet. Förstärkta sköldar ger {MODIFIERDEFENDER} % mindre mana till hjältar."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.blue","Förstärker alla [##elementblue]issköldar[#] på brädet. Förstärkta sköldar ger {MODIFIERATTACKER} % mer mana till hjältar."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.green","Förstärker alla [##elementgreen]natursköldar[#] på brädet. Förstärkta sköldar ger {MODIFIERATTACKER} % mer mana till hjältar."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.purple","Förstärker alla [##elementpurple]mörkersköldar[#] på brädet. Förstärkta sköldar ger {MODIFIERATTACKER} % mer mana till hjältar."
+"specials.v2.property.tileenhancement.manamultiplier.playercharacters.red","Förstärker alla [##elementred]eldsköldar[#] på brädet. Förstärkta sköldar ger {MODIFIERATTACKER} % mer mana till hjältar."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.yellow","Förstärker alla [##elementyellow]heliga sköldar[#] på brädet. Förstärkta sköldar ger {MODIFIERATTACKER} % mer mana till hjältar."
 "specials.v2.property.upgrademinortomajorbasedontilecount.yellow","Om det finns minst {REQUIREDTILECOUNT} [##elementyellow]heliga sköldar[#] på brädet går det inte att avbryta någon av effekterna som den här specialförmågan ger."
 "specials.v2.property.wither.extra","Vittring och tillväxt modifierar karaktärers förmågepoäng. Effekten kvarstår även om karaktären besegras.
@@ -30777,7 +30790,7 @@ helt emblemerad"
 "summon.super_deal.black_friday","Supererbjudande!"
 "summon.three_in_one_legendary.button_shadow","Bonus-
 dragning!"
-"summon.three_in_one_legendary.button_shadow_3x","3x"
+"summon.three_in_one_legendary.button_shadow_3x","3 x"
 "summon.two_in_one_legendary.button_goblin","Chans på 2x"
 "summon.two_in_one_legendary.description","Du får en icke-utvald [#ffc3ff]legendarisk[#] hjälte som bonus för varje åkallad [#ffc3ff]legendarisk[#] hjälte."
 "summon.two_in_one_legendary.description_astralelves","När du åkallar en [#ffc3ff]legendarisk[#] stjärnhjälte får du en andra [#ffc3ff]legendarisk[#] stjärnhjälte gratis!"
@@ -31059,6 +31072,20 @@ Efter [#!]{TURNSLEFT}[#] rundor:
 "temp.halloween_summon_promo7","Använd blodandar för en gratis åkallelse!"
 "temp.halloween_summon_promo8","Garanterad fullständig gradering för utvalda hjältar!"
 "temp.halloween_summon_promo9","Garanterad fullständig gradering för utvalda hjältar!"
+"temp_fiend","[#!]Groddodjuret[#] utvecklas till ett [#!]skottodjur[#] efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.
+[*][#!]Skottodjuret[#] utvecklas till ett [#!]blomstermegaodjur[#] efter {EVOLVINGFAMILIAR2EVOLVETURNS} rundor.
+
+[#!]Groddodjuret[#]:
+[#!]{EVOLVINGFAMILIAR1ATTACK}[#] % attack, [#!]{EVOLVINGFAMILIAR1HEALTH}[#] % hälsa
+
+[#!]Skottodjuret[#]:
+[#!]{EVOLVINGFAMILIAR2ATTACK}[#] % attack, [#!]{EVOLVINGFAMILIAR2HEALTH}[#] % hälsa
+
+[#!]Blomstermegaodjur[#]: 
+[#!]{EVOLVINGFAMILIAR3ATTACK}[#] % attack, [#!]{EVOLVINGFAMILIAR3HEALTH}[#] % hälsa
+
+[*]Odjur skadar sina mål varje runda. Odjur försvinner efter att ha absorberat läkning. Mängden läkning som krävs beror på målets maxhälsa.
+[*]Utvecklingen av odjur fördröjs med {EVOLVINGFAMILIAR1TURNSDELAY} omgång varje gång de absorberar läkning."
 "tilebooster.ancient_underroot.title","Ultrabrickbooster"
 "tilebooster.maxactivationcount","Alla brickboosters kan aktiveras en gång per runda."
 "tilebooster.maxactivationcount#2","Alla brickboosters kan aktiveras [#!]{0}[#] gånger per runda."

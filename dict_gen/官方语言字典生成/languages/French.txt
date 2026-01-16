@@ -2334,8 +2334,11 @@ Voulez-vous vraiment continuer ?"
 "calendar.chest.name.halloween","Coffre d'Halloween"
 "calendar.chest.name.kalevala","Coffre du Kalevala"
 "calendar.chest.name.lunarnewyear","Coffre du Nouvel An lunaire"
+"calendar.chest.name.valentinesseasonal","Coffre de la Saint-Valentin"
 "calendar.chest.valentinesseasonal.description","Achetez {0} ou plus pour obtenir un
 [#!]coffre de la Saint-Valentin[#]"
+"calendar.chest.valentinesseasonal.description.claimed","Merci d'avoir récupéré le
+[#!]coffre de la Saint-Valentin[#] !"
 "ccpa.dialog.advertising_partners","Partenaires publicitaires en ligne"
 "ccpa.dialog.button","Ne pas vendre ou partager mes données personnelles (y compris mes informations de visionnage de vidéo)"
 "ccpa.dialog.message","Nous utilisons les publicités pour assurer la gratuité de cette application et nous souhaiterions vous proposer des publicités plus personnalisées en jeu. Pour cela, nous autorisons certains partenaires publicitaires en ligne à collecter des informations à votre sujet (par ex. les informations de profil que vous nous communiquez, l'identifiant publicitaire de votre appareil, et autres données sur votre appareil). Ceci est considéré comme une « vente » ou un « partage » dans certains états des États-Unis. Nous pouvons également partager vos informations personnelles et de visionnage de vidéo avec des tiers à des fins publicitaires.
@@ -5701,7 +5704,10 @@ L'[#!]hôte fantasmagorique[#] a :
 [*][#!]{INHERITEDHEALTH} %[#] de santé héritée.
 [*][#!]{ATTACK}[#] points d'attaque.
 [*][#!]{DEFENSE}[#] points de défense.
-[*]Compétence spéciale : [#!]Fléau fantasmagorique[#].
+[*]La compétence spéciale suivante :
+
+[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 Si le personnage s'élimine lui-même lors de l'activation de la [#!]folie[#], la probabilité est de [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","S'il est vaincu, ce personnage a une chance de renaître sous la forme d'un [#!]hôte fantasmagorique[#]. La probabilité est de [#!]{CHANCEINCREASEPERSTEP} %[#] pour chaque tranche de [#!]{INSANITYPERSTEP}[#] points de [#!]folie[#] sur ce personnage, jusqu'à un maximum de [#!]{MAXCHANCEINCREASE} %[#].
@@ -6392,7 +6398,7 @@ Seuls les héros [#ffc3ff]légendaires[#] n'ayant pas atteint le niveau d'évolu
 "heroes.name.construct_skarn","Skarn"
 "heroes.name.construct_sylosis","Sylosis"
 "heroes.name.construct_tenebrae","Tenebrae"
-"heroes.name.construct_zavok","Zavok"
+"heroes.name.construct_zavok","Zavolt"
 "heroes.name.cultist_female_poisoner","Layla"
 "heroes.name.cultist_inventor","Quintus"
 "heroes.name.cultist_mage","Balthazar"
@@ -11130,6 +11136,7 @@ Les [#!]gemmes du Souterrain[#] ne peuvent apparaître que sur les boucliers sta
 "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid","Les héros de la famille [#!]Cupidon[#] sont immunisés contre les effets négatifs affectant les soins."
 "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid","Les héros de la famille [#!]Cupidon[#] sont immunisés contre les réductions de mana."
 "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid","Les héros de la famille [#!]Cupidon[#] sont immunisés contre les effets négatifs affectant la génération de mana."
+"level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid","Les héros de la famille [#!]Cupidon[#] résistent aux [#!]démons[#]."
 "level.info.property.description.villains.npcs","À chaque fois que vous utilisez une compétence spéciale ou un objet de combat dans la Ligue des vauriens, le [#!]châtiment divin[#] se rapproche !
 
 [#!]Lorsque le châtiment divin arrive,[#]
@@ -11485,7 +11492,7 @@ Les pièces rouges porte-bonheur peuvent s'obtenir en récompense dans les comba
 "linkaccount.dialog.ensure.android","Sécurisez votre compte en vous connectant à Google Play !"
 "linkaccount.dialog.ensure.ios","Sécurisez votre compte en vous connectant au Game Center !"
 "linkaccount.dialog.gamecenter","Allez dans les réglages de votre appareil pour vous connecter au Game Center."
-"linkaccount.dialog.googleplay","Accédez aux paramètres de Google Play Jeux sur votre appareil pour vous connecter."
+"linkaccount.dialog.googleplay","Rendez-vous dans les options du jeu pour vous connecter à Google Play."
 "linkaccount.dialog.note","Important !"
 "linkaccount.dialog.notsafe","Connectez-vous pour enregistrer votre progression !"
 "linkaccount.dialog.saveyourprogress","Enregistrez votre progression !"
@@ -15386,6 +15393,7 @@ Veuillez réessayer plus tard."
 "notifications.mail","📮 Vous avez un nouveau message ! 📮"
 "notifications.mercenary_war.energy_refill","⚔️ Énergie de guerre des trois royaumes régénérée. C'est l'heure du combat ! ⚔️"
 "notifications.mercenary_war.started","👑⚔️ La guerre des trois royaumes a commencé. Votre royaume a besoin de vous ! ⚔️👑"
+"notifications.mimicsummon","Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
 "notifications.new_season","Une nouvelle aventure nous attend ! Affrontez de nouveaux ennemis et invoquez de nouveaux héros dans les Récits inédits !"
 "notifications.pveenergy","⚔️ Énergie d'Empire régénérée. C'est l'heure du combat ! ⚔️"
 "notifications.quest.limitbreak","⚔️ Quête de dépassement de limite disponible. Relevez le défi pour gagner des objets de dépassement de limite ! 🎉"
@@ -15399,7 +15407,7 @@ Veuillez réessayer plus tard."
 "notifications.temple","💎⭐🏴 L'invocation du temple est disponible ! Si vous invoquez un héros d'événement légendaire, vous en obtiendrez un autre en bonus ! 💎⭐🏴"
 "notifications.titan_reward","🐉💎 Butin du titan disponible ! 💎🐉"
 "notifications.titan_spawned","⚔️ 🐲 Un nouveau titan est apparu ! 🐲⚔"
-"notifications.titanhunter","💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+"notifications.titanhunter","💎⭐🏴 L'invocation des chasseurs de titans est disponible ! Invoquez des héros qui sont redoutables face aux titans ! 💎⭐🏴"
 "notifications.training","💪 Entraînement terminé ! 💪"
 "notifications.ubertitan.energy","⚔️ Énergie de Titan mythique régénérée. C'est l'heure du combat ! ⚔️"
 "notifications.upgrade","✨⬆️ {0} a été amélioré ! ⬆️✨"
@@ -15774,9 +15782,11 @@ Héros [#ffffff]rare[#] de l'empire des sables : [#!]{0} %[#]"
 "options.linkaccount.gamecenter.loggedin","Connecté au Game Center"
 "options.linkaccount.gamecenter.loggedout","Déconnecté du Game Center"
 "options.linkaccount.googleplay.loggedin","Connecté à Google Play"
-"options.linkaccount.googleplay.loggedout","Accédez aux paramètres de Google Play Jeux sur votre appareil pour vous connecter."
+"options.linkaccount.googleplay.loggedout","Déconnecté de Google Play"
 "options.linkaccount.info.gamecenter","Connectez-vous avec votre compte Game Center pour enregistrer votre progression et jouer sur plusieurs appareils iOS."
-"options.linkaccount.info.googleplay","Connectez-vous avec votre compte Google Play pour enregistrer votre progression et jouer sur plusieurs appareils Android."
+"options.linkaccount.info.googleplay","Connectez-vous avec votre compte Google Play pour enregistrer votre progression et jouer sur plusieurs appareils Android.
+
+ Vous pouvez changer de compte Google Play depuis les paramètres des applications Google Play Jeux de votre téléphone."
 "options.linkaccount.label","Enregistrer votre partie sur plusieurs appareils"
 "options.linkaccount.signedinas","Connecté en tant que [#!]{0}[#]"
 "options.privacy","Politique de confidentialité"
@@ -20859,7 +20869,7 @@ Sélectionnez moins de héros."
 "specials.name.chains_of_light","Chaînes de lumière"
 "specials.name.chakram_kick","Coup de pied chakram"
 "specials.name.challenge_the_strongest","Défi audacieux"
-"specials.name.champagne_hammer","Marteau champagne"
+"specials.name.champagne_hammer","Marteau-bouteille"
 "specials.name.champion_maneuver","Manœuvre de champion"
 "specials.name.championship_carrot","Carotte de championnat"
 "specials.name.change_stance","Entaille du parieur"
@@ -22860,7 +22870,7 @@ Sélectionnez moins de héros."
 "specials.strongattack.green","Inflige des dégâts supplémentaires contre la [#70e92f]nature[#]."
 "specials.strongattack.red","Inflige des dégâts supplémentaires contre le [#ff9f81]feu[#]."
 "specials.strongattack.yellow","Inflige des dégâts supplémentaires contre [#f2e33a]Sacré[#]."
-"specials.v2.bigminion.aberration_big_minion.single","Invoque un méga sbire aberration pour chaque allié avec {FAMILIARHEALTHPERCENT} % de PV et {FAMILIARATTACK} % d'attaque hérités du lanceur.
+"specials.v2.bigminion.aberration_big_minion.single","Invoque un méga sbire aberration avec {FAMILIARHEALTHPERCENT} % de PV et {FAMILIARATTACK} % d'attaque hérités du lanceur.
 
 Chaque coup d'un méga sbire aberration donne l'effet négatif suivant à la cible :"
 "specials.v2.bigminion.black_boar_mega_minion.single","Invoque un sbire méga sanglier noir avec {FAMILIARHEALTHPERCENT} % de PV et {FAMILIARATTACK} % d'attaque hérités du lanceur."
@@ -23988,14 +23998,17 @@ Effets de remplacement :
 "specials.v2.property.tileenhancement.manamultiplier.both.blue","Altère la puissance de tous les boucliers de type [##elementblue]Glace[#] sur le plateau. Lorsqu'un héros attaquant lance la compétence spéciale, le bouclier devient amélioré et donne {MODIFIERATTACKER} % de mana supplémentaire. Lorsqu'un héros défenseur lance la compétence spéciale, les boucliers sont affaiblis et donnent {MODIFIERDEFENDER} % de mana en moins."
 "specials.v2.property.tileenhancement.manamultiplier.both.green","Altère la puissance de tous les boucliers de type [##elementgreen]Nature[#] sur le plateau. Lorsqu'un héros attaquant lance la compétence spéciale, le bouclier devient amélioré et donne {MODIFIERATTACKER} % de mana supplémentaire. Lorsqu'un héros défenseur lance la compétence spéciale, les boucliers sont affaiblis et donnent {MODIFIERDEFENDER} % de mana en moins."
 "specials.v2.property.tileenhancement.manamultiplier.both.purple","Altère la puissance de tous les boucliers de type [##elementpurple]Sombre[#] sur le plateau. Lorsqu'un héros attaquant lance la compétence spéciale, le bouclier devient amélioré et donne {MODIFIERATTACKER} % de mana supplémentaire. Lorsqu'un héros défenseur lance la compétence spéciale, les boucliers sont affaiblis et donnent {MODIFIERDEFENDER} % de mana en moins."
+"specials.v2.property.tileenhancement.manamultiplier.both.red","Altère la puissance de tous les boucliers de type [##elementred]Feu[#] sur le plateau. Lorsqu'un héros attaquant lance la compétence spéciale, le bouclier devient amélioré et donne {MODIFIERATTACKER} % de mana supplémentaire. Lorsqu'un héros défenseur lance la compétence spéciale, les boucliers sont affaiblis et donnent {MODIFIERDEFENDER} % de mana en moins."
 "specials.v2.property.tileenhancement.manamultiplier.both.yellow","Altère la puissance de tous les boucliers de type [##elementyellow]Sacré[#] sur le plateau. Lorsqu'un héros attaquant lance la compétence spéciale, le bouclier devient amélioré et donne {MODIFIERATTACKER} % de mana supplémentaire. Lorsqu'un héros défenseur lance la compétence spéciale, les boucliers sont affaiblis et donnent {MODIFIERDEFENDER} % de mana en moins."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.blue","Améliore tous les boucliers de type [##elementblue]Glace[#] sur le plateau. Les boucliers améliorés donnent {MODIFIERDEFENDER} % de mana en moins aux héros."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.green","Améliore tous les boucliers de type [##elementgreen]Nature[#] sur le plateau. Les boucliers améliorés donnent {MODIFIERDEFENDER} % de mana en moins aux héros."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.purple","Améliore tous les boucliers de type [##elementpurple]Sombre[#] sur le plateau. Les boucliers améliorés donnent {MODIFIERDEFENDER} % de mana en moins aux héros."
+"specials.v2.property.tileenhancement.manamultiplier.npcs.red","Améliore tous les boucliers de type [##elementred]Feu[#] sur le plateau. Les boucliers améliorés donnent {MODIFIERDEFENDER} % de mana en moins aux héros."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.yellow","Améliore tous les boucliers de type [##elementyellow]Sacré[#] sur le plateau. Les boucliers améliorés donnent {MODIFIERDEFENDER} % de mana en moins aux héros."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.blue","Améliore tous les boucliers de type [##elementblue]Glace[#] sur le plateau. Les boucliers améliorés donnent {MODIFIERATTACKER} % de mana en plus aux héros."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.green","Améliore tous les boucliers de type [##elementgreen]Nature[#] sur le plateau. Les boucliers améliorés donnent {MODIFIERATTACKER} % de mana en plus aux héros."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.purple","Améliore tous les boucliers de type [##elementpurple]Sombre[#] sur le plateau. Les boucliers améliorés donnent {MODIFIERATTACKER} % de mana en plus aux héros."
+"specials.v2.property.tileenhancement.manamultiplier.playercharacters.red","Améliore tous les boucliers de type [##elementred]Feu[#] sur le plateau. Les boucliers améliorés donnent {MODIFIERATTACKER} % de mana en plus aux héros."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.yellow","Améliore tous les boucliers de type [##elementyellow]Sacré[#] sur le plateau. Les boucliers améliorés donnent {MODIFIERATTACKER} % de mana en plus aux héros."
 "specials.v2.property.upgrademinortomajorbasedontilecount.yellow","S'il y a au moins {REQUIREDTILECOUNT} [##elementyellow]boucliers sacrés[#] sur le plateau, les effets de cette compétence spéciale deviennent impossibles à dissiper."
 "specials.v2.property.wither.extra","Le flétrissement et la croissance modifient les scores de capacité des personnages. L'effet persiste même si le personnage est vaincu.
@@ -30776,7 +30789,7 @@ tous les emblèmes"
 "summon.super_deal.black_friday","Super offre !"
 "summon.three_in_one_legendary.button_shadow","Tirage
 bonus !"
-"summon.three_in_one_legendary.button_shadow_3x","3x"
+"summon.three_in_one_legendary.button_shadow_3x","x3"
 "summon.two_in_one_legendary.button_goblin","Chance de doubler"
 "summon.two_in_one_legendary.description","Pour chaque héros [#ffc3ff]légendaire[#] invoqué, vous recevez un autre héros [#ffc3ff]légendaire[#] n'étant pas à la une en bonus."
 "summon.two_in_one_legendary.description_astralelves","Quand vous invoquez un héros astral [#ffc3ff]légendaire[#], vous recevez gratuitement un héros astral [#ffc3ff]légendaire[#] différent !"
@@ -31058,6 +31071,15 @@ Au bout de [#!]{TURNSLEFT}[#] tours :
 "temp.halloween_summon_promo7","Utilisez des esprits sanguins pour invoquer gratuitement !"
 "temp.halloween_summon_promo8","Évolution complète garantie pour un héros à la une !"
 "temp.halloween_summon_promo9","Évolution complète garantie pour les héros à la une !"
+"temp_fiend","Le [#!]démon plantule[#] devient un [#!]démon jeune pousse[#] au bout de {EVOLVINGFAMILIAR1EVOLVETURNS} tours.
+[*]Le [#!]démon jeune pousse[#] devient un [#!]méga démon florissant[#] au bout de {EVOLVINGFAMILIAR2EVOLVETURNS} tours.
+
+[*] [#!]Démon plantule[#] : [#!]{EVOLVINGFAMILIAR1ATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR1HEALTH}[#] % de santé
+[*] [#!]Démon jeune pousse[#] : [#!]{EVOLVINGFAMILIAR2ATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR2HEALTH}[#] % de santé
+[*] [#!]Méga démon florissant[#] : [#!]{EVOLVINGFAMILIAR3ATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR3HEALTH}[#] % de santé
+
+[*]Les démons infligent des dégâts à leur cible à chaque tour et disparaissent après avoir absorbé une quantité de soins proportionnelle à la santé maximale de la cible.
+[*]L'évolution du démon est retardée de {EVOLVINGFAMILIAR1TURNSDELAY} tour à chaque fois qu'il absorbe des soins."
 "tilebooster.ancient_underroot.title","Case de boost ultra"
 "tilebooster.maxactivationcount","Chaque case de boost peut être activée une fois par tour."
 "tilebooster.maxactivationcount#2","Chaque case de boost peut être activée [#!]{0}[#] fois par tour."

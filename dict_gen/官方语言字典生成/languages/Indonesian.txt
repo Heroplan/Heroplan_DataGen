@@ -2332,8 +2332,11 @@ atau lebih"
 "calendar.chest.name.halloween","Peti Halloween"
 "calendar.chest.name.kalevala","Peti Kalevala"
 "calendar.chest.name.lunarnewyear","Peti Imlek"
+"calendar.chest.name.valentinesseasonal","Peti Valentine"
 "calendar.chest.valentinesseasonal.description","Beli {0} atau lebih demi 
 [#!]PETI VALENTINE[#]"
+"calendar.chest.valentinesseasonal.description.claimed","Terima kasih sudah mengklaim
+[#!]PETI VALENTINE[#]!"
 "ccpa.dialog.advertising_partners","Mitra Periklanan Online"
 "ccpa.dialog.button","Jangan Jual atau Bagikan Informasi Pribadi Saya (termasuk informasi menonton video)"
 "ccpa.dialog.message","Kami mengandalkan iklan agar aplikasi ini tetap gratis dan kami ingin menampilkan iklan yang lebih personal dalam game. Untuk mempersonalisasi iklan, kami mengizinkan mitra periklanan online tertentu untuk mengumpulkan informasi tentang Anda (misalnya informasi profil yang Anda berikan kepada kami, ID Iklan perangkat Anda, dan informasi perangkat lainnya). Hal ini dianggap sebagai ""penjualan"" atau ""berbagi"" di beberapa negara bagian AS. Kami juga dapat membagikan informasi pribadi Anda dan informasi terkait menonton video dengan pihak ketiga untuk tujuan iklan.
@@ -5684,7 +5687,10 @@ Ini termasuk genjotan dan pelemahan efek status, Tumpukan positif dan negatif, s
 [*]{INHERITEDHEALTH}% kesehatan yang diwarisi. 
 [*][#!]{ATTACK}[#] serangan.
 [*][#!]{DEFENSE}[#] pertahanan.
-[*]Keahlian Khusus: [#!]Penyakit Eldritch[#].
+[*]Keahlian Khusus berikut:
+
+[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 Jika karakter ini mengalahan diri sendiri saat [#!]Kegilaan[#] diaktifkan, peluangnya untuk terlahir kembali selalu [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Jika kalah, karakter ini berpeluang terlahir sebagai [#!]Inang Eldritch[#]. Peluangnya [#!]{CHANCEINCREASEPERSTEP}%[#] per [#!]{INSANITYPERSTEP}[#] [#!]Kegilaan[#] pada karakter ini, hingga peluang maks [#!]{MAXCHANCEINCREASE}%[#]. 
@@ -6375,7 +6381,7 @@ Hanya Pahlawan [#ffc3ff]LEGENDARIS[#] yang belum Naik sepenuhnya yang bisa dilat
 "heroes.name.construct_skarn","Skarn"
 "heroes.name.construct_sylosis","Sylosis"
 "heroes.name.construct_tenebrae","Tenebrae"
-"heroes.name.construct_zavok","Zavok"
+"heroes.name.construct_zavok","Zavolt"
 "heroes.name.cultist_female_poisoner","Layla"
 "heroes.name.cultist_inventor","Quintus"
 "heroes.name.cultist_mage","Balthazar"
@@ -11119,6 +11125,7 @@ Semua Pahlawan [#ff7a4c]Api[#] mendapat [#!]{REDATTACK}%[#] serangan saat di Baw
 "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid","Pahlawan dari keluarga [#!]Cupid[#] kebal terhadap status pelemahan yang memengaruhi penyembuhan."
 "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid","Pahlawan dari keluarga [#!]Cupid[#] kebal terhadap pengurangan mana."
 "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid","Pahlawan dari keluarga [#!]Cupid[#] kebal terhadap status pelemahan yang memengaruhi generasi mana."
+"level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid","Pahlawan dari keluarga [#!]Cupid[#] menampik [#!]Iblis[#]."
 "level.info.property.description.villains.npcs","Dalam etape Liga Penjahat, setiap kali kamu menggunakan Keahlian Khusus atau Barang Pertempuran [#!]Pukulan Dewa[#] akan mendekat!
 
 [#!]Jika Pukulan Dewa tercapai[#]
@@ -11474,7 +11481,7 @@ Koin Merah Hoki bisa diterima sebagai hadiahj dari pertempuran [#!]Perang Tiga K
 "linkaccount.dialog.ensure.android","Pastikan akunmu aman dengan masuk ke Google Play!"
 "linkaccount.dialog.ensure.ios","Pastikan akunmu aman dengan masuk ke Game Center!"
 "linkaccount.dialog.gamecenter","Buka pengaturan/setelan di perangkat, agar bisa masuk ke Game Center."
-"linkaccount.dialog.googleplay","Buka pengaturan Main Game pada perangkat untuk masuk."
+"linkaccount.dialog.googleplay","Buka pengaturan game untuk masuk ke Google Play."
 "linkaccount.dialog.note","Penting!"
 "linkaccount.dialog.notsafe","Masuk untuk menyimpan progresmu!"
 "linkaccount.dialog.saveyourprogress","Simpan progresmu!"
@@ -11778,7 +11785,7 @@ Setelah setiap {0} panggilan, [#!]Peti Material Kenaikan Bonus[#] diberikan. Kam
 
 Peluang lebih besar untuk mendapat Pahlawan [#!]Legendaris[#] di Panggilan Bukit Pasir.
 
-Panggilan dapat dilakukan dengan permata atau [#!]Koin Bukit Pasir[#] yang bisa diperoleh dengan menyelesaikan [#!]Misi Buron[#], [#!]Pertempuran Titan Langka[#], dan dengan menyelesailan [#!]etape Season V[#] untuk pertama kalinya. Satu panggilan memakan biaya 100 Koin Bukit Pasir.
+Panggilan dapat dilakukan dengan permata atau [#!]Koin Bukit Pasir[#] yang bisa diperoleh dengan menyelesaikan [#!]etape Season V[#] untuk pertama kalinya. Satu panggilan memakan biaya 100 Koin Bukit Pasir.
 
 Setelah setiap {0} panggilan, [#!]Peti Bonus Dinasti Bukit Pasir[#] diberikan. Kamu bisa mengklaim maksimal [#!]{1}[#] peti selama setiap acara Panggilan Bukit Pasir."
 "lottery.description.long.shadowsummon","Untuk setiap Pahlawan Legendaris yang dipanggil, kamu mendapat [#00ffc8]3[#]  undian bonus, masing-masing dengan peluang [#00ffc8]{2}%[#] untuk mendapatkan satu Pahlawan Legendaris lainnya."
@@ -15381,6 +15388,7 @@ Coba lagi nanti."
 "notifications.mail","📮 Kamu dapat email baru! 📮"
 "notifications.mercenary_war.energy_refill","👑⚔️ Energi Perang Tiga Kerajaan dipulihkan. Waktunya bertempur! ⚔️👑"
 "notifications.mercenary_war.started","👑⚔️ Perang Tiga Kerajaan telah dimulai. Kerajaan membutuhkanmu! ⚔️👑"
+"notifications.mimicsummon","Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
 "notifications.new_season","Komandan, ada petualangan baru menanti kita! Mari bertarung dengan musuh baru dan panggil Pahlawan baru di Kisah Tak Diceritakan!"
 "notifications.pveenergy","⚔️ Energi Dunia dipulihkan. Waktunya bertempur! ⚔️"
 "notifications.quest.limitbreak","⚔️ Tugas Pemecah Batas tersedia. Hadapi tantangan untuk mendapat Barang Pemecah Batas! 🎉"
@@ -15394,7 +15402,7 @@ Coba lagi nanti."
 "notifications.temple","💎⭐🏴 PANGGILAN Kuil KINI DIBUKA! Panggil Pahlawan Acara Legendaris, dan dapatkan Pahlawan Acara Legendaris Bonus, gratis! 💎⭐🏴"
 "notifications.titan_reward","🐉💎 Jarahan Titan tersedia! 💎🐉"
 "notifications.titan_spawned","⚔️ 🐲 Titan Baru sudah muncul! 🐲⚔"
-"notifications.titanhunter","💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+"notifications.titanhunter","💎⭐🏴 PANGGILAN Pemburu Titan SUDAH DIBUKA! Panggil Pahlawan yang sangat menghancurkan melawan Titan! 💎⭐🏴"
 "notifications.training","💪 Pelatihan selesai! 💪"
 "notifications.ubertitan.energy","⚔️ Energi Titan Mistis dipulihkan. Waktunya bertempur! ⚔️"
 "notifications.upgrade","✨⬆️ {0} sudah ditingkatkan! ⬆️✨"
@@ -15769,9 +15777,11 @@ Termasuk Pahlawan Season 3 dari Area Jotunheim, Muspelheim, dan Svartalfheim[#]"
 "options.linkaccount.gamecenter.loggedin","Sudah masuk ke Game Center"
 "options.linkaccount.gamecenter.loggedout","Sudah keluar dari Game Center"
 "options.linkaccount.googleplay.loggedin","Masuk ke Google Play"
-"options.linkaccount.googleplay.loggedout","Buka pengaturan Main Game pada perangkat untuk masuk."
+"options.linkaccount.googleplay.loggedout","Keluar dari Google Play"
 "options.linkaccount.info.gamecenter","Masuk via akun Game Center untuk menyimpan progres dan bermain di berbagai peranti iOS."
-"options.linkaccount.info.googleplay","Masuk via akun Google Play untuk menyimpan progres dan bermain di berbagai peranti Android."
+"options.linkaccount.info.googleplay","Saat Anda masuk menggunakan akun Google Play, Anda akan menyimpan kemajuan Anda dan dapat bermain dengan beberapa perangkat Android.
+
+Anda dapat beralih ke akun Google Play lain melalui setelan aplikasi Play Games di ponsel Anda."
 "options.linkaccount.label","Simpan game kamu di semua perangkat"
 "options.linkaccount.signedinas","Masuk sebagai [#!]{0}[#]"
 "options.privacy","Kebijakan Privasi"
@@ -20839,7 +20849,7 @@ Pilih Pahlawan lebih sedikit."
 "specials.name.chains_of_light","Rantai Cahaya"
 "specials.name.chakram_kick","Tendangan Cakram"
 "specials.name.challenge_the_strongest","Menantang yang Terkuat"
-"specials.name.champagne_hammer","Palu Sampanye"
+"specials.name.champagne_hammer","Palu Botol"
 "specials.name.champion_maneuver","Manuver Juara"
 "specials.name.championship_carrot","Wortel Kejuaraan"
 "specials.name.change_stance","Sabetan Penjudi"
@@ -23973,14 +23983,17 @@ Efek transformasi:
 "specials.v2.property.tileenhancement.manamultiplier.both.blue","Mengubah kekuatan semua perisai [##elementblue]Es[#] yang terpasang. Saat Pahlawan penyerang merapal keahlian khusus, perisai diperkuat dan memberikan {MODIFIERATTACKER}% mana. Saat Pahlawan bertahan merapal keahlian khusus, perisai diperlemah dan memberikan mana {MODIFIERDEFENDER}% lebih sedikit."
 "specials.v2.property.tileenhancement.manamultiplier.both.green","Mengubah kekuatan semua perisai [##elementgreen]Alam[#] yang terpasang. Saat Pahlawan penyerang merapal Keahlian Khusus, perisai menjadi lebih baik dan memberikan mana {MODIFIERATTACKER}% lebih banyak. Saat Pahlawan bertahan merapal Keahlian Khusus, perisai menjadi lemah dan memberikan mana {MODIFIERDEFENDER}% lebih sedikit."
 "specials.v2.property.tileenhancement.manamultiplier.both.purple","Mengubah kekuatan semua perisai [##elementpurple]Gelap[#] yang terpasang. Saat Pahlawan penyerang merapal keahlian khusus, perisai diperkuat dan memberikan {MODIFIERATTACKER}% mana. Saat Pahlawan bertahan merapal keahlian khusus, perisai diperlemah dan memberikan mana {MODIFIERDEFENDER}% lebih sedikit."
+"specials.v2.property.tileenhancement.manamultiplier.both.red","Mengubah kekuatan semua perisai [##elementred]Api[#] yang terpasang. Saat Pahlawan penyerang merapal keahlian khusus, perisai diperkuat dan memberikan {MODIFIERATTACKER}% mana. Saat Pahlawan bertahan merapal keahlian khusus, perisai diperlemah dan memberikan mana {MODIFIERDEFENDER}% lebih sedikit."
 "specials.v2.property.tileenhancement.manamultiplier.both.yellow","Mengubah kekuatan semua perisai [##elementyellow]Suci[#] yang terpasang. Saat Pahlawan penyerang merapal keahlian khusus, perisai diperkuat dan memberikan {MODIFIERATTACKER}% mana. Saat Pahlawan bertahan merapal keahlian khusus, perisai diperlemah dan memberikan mana {MODIFIERDEFENDER}% lebih sedikit."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.blue","Memperkuat semua perisai [##elementblue]Es[#] yang terpasang. Perisai yang diperkuat memberikan mana {MODIFIERDEFENDER}% lebih sedikit ke Pahlawan."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.green","Memperkuat semua perisai [##elementgreen]Alam[#] yang terpasang. Perisai yang diperkuat memberikan mana {MODIFIERDEFENDER}% lebih sedikit ke Pahlawan."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.purple","Memperkuat semua perisai [##elementpurple]Gelap[#] yang terpasang. Perisai yang diperkuat memberikan mana {MODIFIERDEFENDER}% lebih sedikit ke Pahlawan."
+"specials.v2.property.tileenhancement.manamultiplier.npcs.red","Memperkuat semua perisai [##elementred]Api[#] yang terpasang. Perisai yang diperkuat memberikan mana {MODIFIERDEFENDER}% lebih sedikit ke Pahlawan."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.yellow","Memperkuat semua perisai [##elementyellow]Suci[#] yang terpasang. Perisai yang diperkuat memberikan mana {MODIFIERDEFENDER}% lebih sedikit ke Pahlawan."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.blue","Memperkuat semua perisai [##elementblue]Es[#] yang terpasang. Perisai yang diperkuat memberikan mana {MODIFIERATTACKER}% lebih banyak ke Pahlawan."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.green","Memperkuat semua perisai [##elementgreen]Alam[#] yang terpasang. Perisai yang diperkuat memberikan mana {MODIFIERATTACKER}% lebih banyak ke Pahlawan."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.purple","Memperkuat semua perisai [##elementpurple]Gelap[#] yang terpasang. Perisai yang diperkuat memberikan {MODIFIERATTACKER}% lebih banyak mana ke Pahlawan."
+"specials.v2.property.tileenhancement.manamultiplier.playercharacters.red","Memperkuat semua perisai [##elementred]Api[#] yang terpasang. Perisai yang diperkuat memberikan mana {MODIFIERATTACKER}% lebih banyak ke Pahlawan."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.yellow","Memperkuat semua perisai [##elementyellow]Suci[#] yang terpasang. Perisai yang diperkuat memberikan {MODIFIERATTACKER}% lebih banyak mana ke Pahlawan."
 "specials.v2.property.upgrademinortomajorbasedontilecount.yellow","Jika ada {REQUIREDTILECOUNT} [##elementyellow]perisai Suci[#] atau lebih terpasang, semua efek yang dirapal di Keahlian Khusus ini tidak bisa dienyahkan."
 "specials.v2.property.wither.extra","Layu dan Bertumbuh mengubah Skor Kemampuan karakter. Efeknya tetap ada meskipun karakter kalah.
@@ -31050,6 +31063,20 @@ Setelah [#!]{TURNSLEFT}[#] giliran:
 "temp.halloween_summon_promo7","Gunakan Roh Optimis untuk Panggilan gratis!"
 "temp.halloween_summon_promo8","Dijamin Kenaikan Sepenuhnya untuk Pahlawan Unggulan apa saja!"
 "temp.halloween_summon_promo9","Dijamin Kenaikan Sepenuhnya untuk Pahlawan Unggulan!"
+"temp_fiend","[#!]Iblis Benih[#] berubah menjadi [#!]Iblis Tunas[#] setelah {EVOLVINGFAMILIAR1EVOLVETURNS} giliran.
+[*][#!]Iblis Tunas[#] berubah menjadi [#!]Iblis Mega Mekar[#] setelah {EVOLVINGFAMILIAR2EVOLVETURNS} giliran.
+
+[#!]Iblis Benih[#]: 
+[#!]{EVOLVINGFAMILIAR1ATTACK}[#]% serangan, [#!]{EVOLVINGFAMILIAR1HEALTH}[#]% kesehatan
+
+[#!]Iblis Tunas[#]: 
+[#!]{EVOLVINGFAMILIAR2ATTACK}[#]% serangan, [#!]{EVOLVINGFAMILIAR2HEALTH}[#]% kesehatan
+
+[#!]Iblis Mega Mekar[#]: 
+[#!]{EVOLVINGFAMILIAR3ATTACK}[#]% serangan, [#!]{EVOLVINGFAMILIAR3HEALTH}[#]% kesehatan
+
+[*]Iblis merusak sasaran setiap giliran. Iblis menghilang setelah menyerap penyembuhan. Jumlah penyembuhan yang diperlukan tergantung kesehatan maks sasaran.
+[*]Evolusi Iblis tertunda {EVOLVINGFAMILIAR1TURNSDELAY} giliran setiap kali mereka menyerap penyembuhan."
 "tilebooster.ancient_underroot.title","Genjotan Ubin Ultra"
 "tilebooster.maxactivationcount","Tiap Genjotan Ubin dapat diaktifkan sekali per giliran."
 "tilebooster.maxactivationcount#2","Tiap Genjotan Ubin dapat diaktifkan [#!]{0}[#] kali per giliran."

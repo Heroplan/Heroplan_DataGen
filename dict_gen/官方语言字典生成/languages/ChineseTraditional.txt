@@ -2330,8 +2330,11 @@ Empires & Puzzles職員"
 "calendar.chest.name.halloween","萬聖節寶箱"
 "calendar.chest.name.kalevala","卡勒瓦拉寶箱"
 "calendar.chest.name.lunarnewyear","農曆新年寶箱"
+"calendar.chest.name.valentinesseasonal","情人節寶箱"
 "calendar.chest.valentinesseasonal.description","購買{0}個以上即可獲得一個
 [#!]情人節寶箱[#]"
+"calendar.chest.valentinesseasonal.description.claimed","感謝你領取
+[#!]情人節寶箱[#][#]！"
 "ccpa.dialog.advertising_partners","線上廣告合作夥伴"
 "ccpa.dialog.button","請勿出售或分享我的個人資料（包含影片觀看紀錄）"
 "ccpa.dialog.message","我們依靠廣告來維持免費提供此應用程式，並希望在遊戲內向您展示更多個人化廣告。為此，我們允許特定的線上廣告合作夥伴收集您的相關資訊（例如您提供的個人資料、裝置廣告識別碼及其他裝置資訊）。根據美國部分州的定義，此行為可能被視為「出售」或「分享」個人資料。我們亦可能與第三方分享您的個人資料及影片觀看紀錄用於廣告投放。
@@ -5694,7 +5697,10 @@ The [#!]駭異宿主[#]具有：
 [*][#!]{INHERITEDHEALTH}%[#]繼承生命。
 [*][#!]{ATTACK}[#]點攻擊。
 [*][#!]{DEFENSE}[#]點防禦。
-[*]特殊技能：[#!]駭異疫病[#]。
+[*]以下特殊技能：
+
+[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 在[#!]瘋狂[#]生效時，若此角色擊敗自己，重生的機率一律為[#!]{CHANCEONSELFCAUSEDDEATH}%[#]。"
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","如果被擊敗，此角色有機率重生為[#!]駭異宿主[#]。此角色每有[#!]{INSANITYPERSTEP}[#]點[#!]瘋狂[#]，該機率為[#!]{CHANCEINCREASEPERSTEP}%[#]，最高機率為[#!]{MAXCHANCEINCREASE}%[#]。
@@ -6385,7 +6391,7 @@ The [#!]駭異宿主[#]具有：
 "heroes.name.construct_skarn","斯卡溫"
 "heroes.name.construct_sylosis","賽洛西斯"
 "heroes.name.construct_tenebrae","天能布雷兒"
-"heroes.name.construct_zavok","柴沃克"
+"heroes.name.construct_zavok","薩伏特"
 "heroes.name.cultist_female_poisoner","蕾拉"
 "heroes.name.cultist_inventor","昆塔斯"
 "heroes.name.cultist_mage","巴特薩"
@@ -11112,6 +11118,7 @@ YouTube頻道"
 "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid","[#!]邱比特[#]家族英雄免疫影響治療的狀態異常。"
 "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid","[#!]邱比特[#]家族英雄免疫法力減損。"
 "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid","[#!]邱比特[#]家族英雄免疫影響法力產出的狀態異常。"
+"level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid","[#!]邱比特[#]家族英雄可抵禦[#!]惡魔[#]。"
 "level.info.property.description.villains.npcs","在惡棍聯盟關卡中，越是使用特殊技能或戰鬥物品，[#!]神聖重擊[#]就會越快發動！
 
 [#!]發動神聖重擊時，[#]
@@ -11461,7 +11468,7 @@ YouTube頻道"
 "linkaccount.dialog.ensure.android","登入Google Play以確保帳戶安全！"
 "linkaccount.dialog.ensure.ios","登入Game Center以確保帳戶安全！"
 "linkaccount.dialog.gamecenter","前往設定裡的Game Center進行登入。"
-"linkaccount.dialog.googleplay","前往裝置上的「遊玩遊戲」設定進行登入。"
+"linkaccount.dialog.googleplay","前往設定裡的Google Play進行登入。"
 "linkaccount.dialog.note","重要訊息！"
 "linkaccount.dialog.notsafe","登入以保存遊戲進度！"
 "linkaccount.dialog.saveyourprogress","保存遊戲進程！"
@@ -11746,9 +11753,9 @@ YouTube頻道"
 每召喚{0}次可獲得一個[#!]升等材料寶箱獎勵[#]。地底荒野召喚活動期間，最多可領取[#!]{1}[#]個寶箱。"
 "lottery.description.long.season5","[#!]沙丘召喚[#]包含三個第5季傳奇英雄。也有機會獲得目前的月度英雄。
 
-沙丘召喚提高了獲得[#!]傳奇[#]英雄的機率。
+沙丘召喚提高了獲得[#!]傳奇[#]英雄。
 
-你可以使用寶石或[#!]沙丘幣[#]進行召喚。沙丘幣可透過[#!]通緝使命[#][#!]稀有泰坦戰鬥[#]和首次完成[#!]第5季關卡[#]獲得。一次召喚花費100個沙丘幣。
+你可以使用寶石或[#!]沙丘幣[#]進行召喚，首次完成[#!]第5季關卡[#]即可獲得。一次召喚花費100個沙丘幣。
 
 每召喚{0}次可獲得一個[#!]沙丘王朝額外寶箱[#]。沙丘召喚活動期間，最多可領取[#!]{1}[#]個寶箱。"
 "lottery.description.long.shadowsummon","每召喚一名傳奇英雄，你都能獲得額外[#00ffc8]3[#]次抽獎機會，每次都有[#00ffc8]{2}%[#]的機率抽中另一名傳奇英雄。"
@@ -15280,6 +15287,7 @@ Empires & Puzzles團隊"
 "notifications.mail","📮 你收到了新郵件！ 📮"
 "notifications.mercenary_war.energy_refill","👑⚔️三國之戰能量已恢復，是時候戰鬥了！⚔️👑"
 "notifications.mercenary_war.started","👑⚔️三國之戰開始了。你的國家需要你！⚔️👑"
+"notifications.mimicsummon","Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
 "notifications.new_season","司令，新的冒險正在等著我們！在隱秘傳說活動中與新的敵人戰鬥，召喚新英雄！"
 "notifications.pveenergy","⚔️ 世界能量已恢復是時候戰鬥了！ ⚔️"
 "notifications.quest.limitbreak","⚔️ 可進行極限突破任務。面對挑戰並獲得極限突破物品！🎉"
@@ -15293,7 +15301,7 @@ Empires & Puzzles團隊"
 "notifications.temple","💎⭐🏴神殿召喚現已開放！召喚一名傳奇活動英雄並免費獲得一名額外的傳奇活動英雄！💎⭐🏴"
 "notifications.titan_reward","🐉💎 有泰坦戰利品！ 💎🐉"
 "notifications.titan_spawned","⚔️ 🐲 新的泰坦出現了！ 🐲⚔"
-"notifications.titanhunter","💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+"notifications.titanhunter","💎⭐🏴泰坦獵手召喚現已開啟！召喚能克制泰坦的英雄！ 💎⭐🏴"
 "notifications.training","💪 鍛造已結束！ 💪"
 "notifications.ubertitan.energy","⚔️神話泰坦能量已恢復，是時候戰鬥了！⚔️"
 "notifications.upgrade","✨⬆️ {0}已升級！ ⬆️✨"
@@ -15588,9 +15596,9 @@ Empires & Puzzles團隊"
 "odds.lootbox.powergrade.ascension1","已升等一次"
 "odds.lootbox.powergrade.ascension2","已升等兩次"
 "odds.lootbox.powergrade.basic","基本"
-"odds.lootbox.powergrade.limitbreak1","LB1"
+"odds.lootbox.powergrade.limitbreak1","極限突破1"
 "odds.lootbox.powergrade.limitbreak1maxtalents","已完成第一次極限突破並且帶有全部徽章"
-"odds.lootbox.powergrade.limitbreak2","LB2"
+"odds.lootbox.powergrade.limitbreak2","極限突破2"
 "odds.lootbox.powergrade.limitbreak2maxtalents","已完成第二次極限突破並且帶有全部徽章"
 "odds.lootbox.powergrade.maxascension","已完全升等"
 "odds.lootbox.powergrade.maxascensionmaxtalents","已完全升等並且帶有全部徽章"
@@ -15668,9 +15676,11 @@ Empires & Puzzles團隊"
 "options.linkaccount.gamecenter.loggedin","登入Game Center"
 "options.linkaccount.gamecenter.loggedout","登出Game Center"
 "options.linkaccount.googleplay.loggedin","登入Google Play"
-"options.linkaccount.googleplay.loggedout","前往裝置上的「遊玩遊戲」設定進行登入。"
+"options.linkaccount.googleplay.loggedout","登出Google Play"
 "options.linkaccount.info.gamecenter","登入Game Center帳戶可保存進程，並且可在不同的iOS設備上進行遊戲。"
-"options.linkaccount.info.googleplay","登入Google Play帳戶可保存進程，並且可在不同的Android設備上進行遊戲。"
+"options.linkaccount.info.googleplay","登入Google Play帳戶可保存進程，並且可在不同的Android設備上進行遊戲。
+
+你可以透過裝置上的Play Games應用程式設定來更換不同帳戶。"
 "options.linkaccount.label","在不同設備上保存遊戲進程"
 "options.linkaccount.signedinas","以[#!]{0}[#]登入"
 "options.privacy","隱私權政策"
@@ -20724,7 +20734,7 @@ Empires & Puzzles團隊"
 "specials.name.chains_of_light","光明鎖鏈"
 "specials.name.chakram_kick","環刃踢"
 "specials.name.challenge_the_strongest","挑戰最強者"
-"specials.name.champagne_hammer","香檳之錘"
+"specials.name.champagne_hammer","瓶錘"
 "specials.name.champion_maneuver","勇士調動"
 "specials.name.championship_carrot","英勇胡蘿蔔"
 "specials.name.change_stance","賭徒劈斬"
@@ -23853,14 +23863,17 @@ Empires & Puzzles團隊"
 "specials.v2.property.tileenhancement.manamultiplier.both.blue","改變面板上所有[##elementblue]冰雪系[#]護盾的力量。攻擊英雄施放該特技時，護盾會獲得強化，且提供的法力增加{MODIFIERATTACKER}%。防禦英雄施放該特技時，護盾會弱化，且提供的法力減少{MODIFIERDEFENDER}%。"
 "specials.v2.property.tileenhancement.manamultiplier.both.green","改變面板上所有[##elementgreen]自然系[#]護盾的力量。攻擊英雄施放該特技時，護盾會獲得強化，且提供的法力增加{MODIFIERATTACKER}%。防禦英雄施放該特技時，護盾會弱化，且提供的法力減少{MODIFIERDEFENDER}%。"
 "specials.v2.property.tileenhancement.manamultiplier.both.purple","改變面板上所有[##elementpurple]黑暗[#]護盾的力量。攻擊英雄施放該特技時，護盾獲得的強化，且提供的法力增加{MODIFIERATTACKER}%。防禦英雄施放該特技時，護盾弱化，提供的法力減少{MODIFIERDEFENDER}%。"
+"specials.v2.property.tileenhancement.manamultiplier.both.red","改變面板上所有[##elementred]烈火系[#]護盾的力量。攻擊英雄施放該特技時，護盾會獲得強化，且提供的法力增加{MODIFIERATTACKER}%。防禦英雄施放該特技時，護盾會弱化，且提供的法力減少{MODIFIERDEFENDER}%。"
 "specials.v2.property.tileenhancement.manamultiplier.both.yellow","改變面板上所有[##elementyellow]神聖系[#]護盾的力量。攻擊英雄施放該特技時，護盾會獲得強化，且提供的法力增加{MODIFIERATTACKER}%。防禦英雄施放該特技時，護盾會弱化，且提供的法力減少{MODIFIERDEFENDER}%。"
 "specials.v2.property.tileenhancement.manamultiplier.npcs.blue","強化面板中所有[##elementblue]冰雪系[#]護盾。強化的護盾為英雄提供的法力減少{MODIFIERDEFENDER}%。"
 "specials.v2.property.tileenhancement.manamultiplier.npcs.green","強化面板中所有[##elementgreen]自然系[#]護盾。強化的護盾為英雄提供的法力減少{MODIFIERDEFENDER}%。"
 "specials.v2.property.tileenhancement.manamultiplier.npcs.purple","強化面板中所有[##elementpurple]黑暗系[#]護盾。強化的護盾為英雄提供的法力減少{MODIFIERDEFENDER}%。"
+"specials.v2.property.tileenhancement.manamultiplier.npcs.red","強化面板中所有[##elementred]烈火系[#]護盾。強化的護盾為英雄提供的法力減少{MODIFIERDEFENDER}%。"
 "specials.v2.property.tileenhancement.manamultiplier.npcs.yellow","強化面板中所有[##elementyellow]神聖系[#]護盾。強化的護盾為英雄提供的法力減少{MODIFIERDEFENDER}%。"
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.blue","強化面板中所有[##elementblue]冰雪系[#]護盾。強化的護盾為英雄提供的法力增加{MODIFIERATTACKER}%。"
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.green","強化面板中所有[##elementgreen]自然系[#]護盾。強化的護盾為英雄提供的法力增加{MODIFIERATTACKER}%。"
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.purple","強化面板中所有[##elementpurple]黑暗系[#]護盾。強化的護盾為英雄提供的法力增加{MODIFIERATTACKER}%。"
+"specials.v2.property.tileenhancement.manamultiplier.playercharacters.red","強化面板中所有[##elementred]烈火系[#]護盾。強化的護盾為英雄提供的法力增加{MODIFIERATTACKER}%。"
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.yellow","強化面板中所有[##elementyellow]神聖系[#]護盾。強化的護盾為英雄提供的法力增加{MODIFIERATTACKER}%。"
 "specials.v2.property.upgrademinortomajorbasedontilecount.yellow","如果面板中有{REQUIREDTILECOUNT}道以上的[##elementyellow]神聖護盾[#]，則此特殊技能所施放的所有效果均不可驅散。"
 "specials.v2.property.wither.extra","枯萎和成長能修改角色的能力分數。即便角色被擊敗，效果仍會存在。
@@ -30642,7 +30655,7 @@ Empires & Puzzles團隊"
 "summon.super_deal.black_friday","超划算的！"
 "summon.three_in_one_legendary.button_shadow","額外
 抽獎！"
-"summon.three_in_one_legendary.button_shadow_3x","3x"
+"summon.three_in_one_legendary.button_shadow_3x","3倍"
 "summon.two_in_one_legendary.button_goblin","2倍機率"
 "summon.two_in_one_legendary.description","每召喚一名[#ffc3ff]傳奇[#]英雄，你將獲得另一名非精選[#ffc3ff]傳奇[#]英雄作為獎勵。"
 "summon.two_in_one_legendary.description_astralelves","當你召喚出一位[#ffc3ff]傳奇[#]星界英雄，將免費獲得第二位不同的[#ffc3ff]傳奇[#]星界英雄！"
@@ -30904,6 +30917,17 @@ Empires & Puzzles團隊"
 "temp.halloween_summon_promo7","使用腥紅之靈，進行免費召喚！"
 "temp.halloween_summon_promo8","保證所有精選英雄將會全面升等！"
 "temp.halloween_summon_promo9","保證精選英雄將會全面升等！"
+"temp_fiend","{EVOLVINGFAMILIAR1EVOLVETURNS}回合後，[#!]種子惡魔[#]會進化為[#!]發芽惡魔[#]。
+[*]{EVOLVINGFAMILIAR2EVOLVETURNS}回合後，[#!]發芽惡魔[#]會進化為[#!]盛開超級惡魔[#]。
+
+[*] [#!]種子惡魔[#]：[#!]{EVOLVINGFAMILIAR1ATTACK}[#]%攻擊、[#!]{EVOLVINGFAMILIAR1HEALTH}[#]%生命
+[*] [#!]發芽惡魔[#]：[#!]{EVOLVINGFAMILIAR2ATTACK}[#]%攻擊、[#!]{EVOLVINGFAMILIAR2HEALTH}[#]%生命
+
+[#!]盛開超級惡魔[#]：
+[#!]{EVOLVINGFAMILIAR3ATTACK}[#]%攻擊、[#!]{EVOLVINGFAMILIAR3HEALTH}[#]%生命
+
+[*]惡魔會在每個回合攻擊其目標。惡魔會在吸收治療後消失。根據目標的最大生命值決定所需的治療量。
+[*]惡魔每次吸收治療時，會是進化延遲{EVOLVINGFAMILIAR1TURNSDELAY}回合。"
 "tilebooster.ancient_underroot.title","終極磚格加成"
 "tilebooster.maxactivationcount","每個磚格加成每回合僅能啟用一次。"
 "tilebooster.maxactivationcount#2","每個磚格加成每回合僅能啟用[#!]{0}[#]次。"
