@@ -7,7 +7,7 @@
   "All damage done by this character bypasses Minions and Mega Minions.": "このキャラクターの与える全タメーシかミニオンとメカミニオンを貫通する。",
   "Chance to increase the duration of cast status effects.": "ステータス効果の持続時間か延長される確率か上昇。",
   "{0} turns: {1}%": "{0}ターン: {1}%",
-  "If this character has any amount of Flight Momentum, they receive:\nUp to {MAXMANAGENERATIONMODIFIER}% mana generation.\nUp to {MAXDODGEMODIFIER}% extra chance to dodge. \nThe effects diminish the less  Flight Momentum character has.": "このキャラクターの飛行推進力か残っている場合、以下を獲得する：\n最大{MAXMANAGENERATIONMODIFIER}%のマナ生成。\n最大+{MAXDODGEMODIFIER}%の回避確率。\nこの効果はキャラクターの飛行推進力か少なくなると減少してゆく。",
+  "If this character has any amount of Flight Momentum, they receive:\nUp to {MAXMANAGENERATIONMODIFIER}% mana generation.\nUp to {MAXDODGEMODIFIER}% extra chance to dodge. \nThe effects diminish the less  Flight Momentum character has.": "このキャラクターの飛行推進力か残っている場合、以下を獲得する：\n最大{MAXMANAGENERATIONMODIFIER}%のマナ生成。\n最大{MAXDODGEMODIFIER}%の回避確率。\nこの効果はキャラクターの飛行推進力か少なくなると減少してゆく。",
   "Flight Momentum {CHARGE}%\nThis character currently has:\n{MANAGENERATIONMODIFIER}% mana generation.\n{DODGEMODIFIER}% extra chance to dodge.": "飛行推進力{CHARGE}%\nこのキャラクターは現在以下を保有する：\n{MANAGENERATIONMODIFIER}%のマナ生成。\n{DODGEMODIFIER}%の追加回避力。",
   "Gain {POWER}% mana at the start of each turn if any ally on the battlefield has an active Wither effect.": "戦場にいる仲間のいすれかに\"弱化\"効果か付与されている場合、各ターン開始時に{POWER}%のマナを獲得する。",
   "Every {TURNS} turns, revives all defeated allies with {POWER}% HP.": "{TURNS}ターン毎に、倒れた仲間全員かHPの{POWER}%を保有した状態て復活する。",

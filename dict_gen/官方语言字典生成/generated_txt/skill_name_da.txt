@@ -315,7 +315,7 @@
 "specials.name.chains_of_light","Lysets kæder"
 "specials.name.chakram_kick","Chakram-spark"
 "specials.name.challenge_the_strongest","Udfordr de stærkeste"
-"specials.name.champagne_hammer","Champagnehammer"
+"specials.name.champagne_hammer","Flaskehammer"
 "specials.name.champion_maneuver","Manøvremester"
 "specials.name.championship_carrot","Mestergulerod"
 "specials.name.change_stance","Gamblerens slag"

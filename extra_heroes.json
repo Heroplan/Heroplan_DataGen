@@ -33,17 +33,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Crustee",
-        "fancy_name": "Magic Lab Genius",
-        "color": "Green",
-        "Release date": "",
-        "star": 5,
-        "family": "magic_carpet",
-        "costume_id": 0,
-        "heroId": "magic_carpet_crustee",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Veer",
         "fancy_name": "Prideful Assassin",
         "color": "Purple",
@@ -74,61 +63,6 @@
         "family": "titan_hunter",
         "costume_id": 0,
         "heroId": "titan_hunter_lumi_and_taiga",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Zarola C1",
-        "fancy_name": "Cupid of Lone Rangers",
-        "color": "Green",
-        "Release date": "",
-        "star": 3,
-        "family": "cupid",
-        "costume_id": 1,
-        "heroId": "valentines_zarola_costume_cowboy",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Voluptas C1",
-        "fancy_name": "Cupid of Painters",
-        "color": "Yellow",
-        "Release date": "",
-        "star": 4,
-        "family": "cupid",
-        "costume_id": 1,
-        "heroId": "valentines_voluptas_costume_paint",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Cupido C1",
-        "fancy_name": "Cupid of Fiery Passion",
-        "color": "Red",
-        "Release date": "",
-        "star": 5,
-        "family": "cupid",
-        "costume_id": 1,
-        "heroId": "valentines_cupido_costume_flame",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Lempi",
-        "fancy_name": "Cupid of Winter Morning",
-        "color": "Blue",
-        "Release date": "",
-        "star": 5,
-        "family": "cupid",
-        "costume_id": 0,
-        "heroId": "valentines_lempi",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Vernon",
-        "fancy_name": "Cupid of the Heartwood",
-        "color": "Green",
-        "Release date": "",
-        "star": 5,
-        "family": "cupid",
-        "costume_id": 0,
-        "heroId": "valentines_vernon",
         "Lottery_Only": 1
     },
     {

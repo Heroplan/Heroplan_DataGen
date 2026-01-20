@@ -315,7 +315,7 @@
 "specials.name.chains_of_light","光明鎖鏈"
 "specials.name.chakram_kick","環刃踢"
 "specials.name.challenge_the_strongest","挑戰最強者"
-"specials.name.champagne_hammer","香檳之錘"
+"specials.name.champagne_hammer","瓶錘"
 "specials.name.champion_maneuver","勇士調動"
 "specials.name.championship_carrot","英勇胡蘿蔔"
 "specials.name.change_stance","賭徒劈斬"

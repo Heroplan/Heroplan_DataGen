@@ -315,7 +315,7 @@
 "specials.name.chains_of_light","Ketten des Lichts"
 "specials.name.chakram_kick","Chakram-Tritt"
 "specials.name.challenge_the_strongest","Fordere den Stärksten heraus"
-"specials.name.champagne_hammer","Champagnen-Hammer"
+"specials.name.champagne_hammer","Flaschenhammer"
 "specials.name.champion_maneuver","Championmanöver"
 "specials.name.championship_carrot","Meisterschaftsbelohnung"
 "specials.name.change_stance","Schnitt des Glücksspielers"

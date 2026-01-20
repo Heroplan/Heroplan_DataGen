@@ -315,7 +315,7 @@
 "specials.name.chains_of_light","光の鎖"
 "specials.name.chakram_kick","チャクラムキック"
 "specials.name.challenge_the_strongest","最強の者への挑戦"
-"specials.name.champagne_hammer","シャンパンのハンマー"
+"specials.name.champagne_hammer","ボトルハンマー"
 "specials.name.champion_maneuver","王者の動き"
 "specials.name.championship_carrot","選手権キャロット"
 "specials.name.change_stance","勝負師の斬撃"

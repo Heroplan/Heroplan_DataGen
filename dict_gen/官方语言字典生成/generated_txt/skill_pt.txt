@@ -1,4 +1,4 @@
-"specials.v2.bigminion.aberration_big_minion.single","Convoca um ajudante mega Aberração para cada aliado. O ajudante herda {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque do invocador.
+"specials.v2.bigminion.aberration_big_minion.single","Convoca um ajudante mega Aberração. O ajudante herda {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque do invocador.
 
 Cada ataque de um ajudante mega Aberração dá ao alvo o seguinte mal de status:"
 "specials.v2.bigminion.black_boar_mega_minion.single","Convoca um ajudante mega Javali Preto com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque herdados do invocador."
@@ -1134,14 +1134,17 @@ Efeitos da transformação:
 "specials.v2.property.tileenhancement.manamultiplier.both.blue","Altera o poder de todos os escudos de Gelo no tabuleiro. Quando um herói atacante lança a habilidade especial, os escudos são reforçados e dão {MODIFIERATTACKER}% mais mana. Quando um herói defensor lança a habilidade especial, os escudos são enfraquecidos e dão {MODIFIERDEFENDER}% menos mana."
 "specials.v2.property.tileenhancement.manamultiplier.both.green","Altera o poder de todos os escudos de Natureza no tabuleiro. Quando um herói atacante lança a habilidade especial, os escudos são reforçados e dão {MODIFIERATTACKER}% mais mana. Quando um herói defensor lança a habilidade especial, os escudos são enfraquecidos e dão {MODIFIERDEFENDER}% menos mana."
 "specials.v2.property.tileenhancement.manamultiplier.both.purple","Altera o poder de todos os escudos de Trevas no tabuleiro. Quando um herói atacante lança a habilidade especial, os escudos são reforçados e dão {MODIFIERATTACKER}% mais mana. Quando um herói defensor lança a habilidade especial, os escudos são enfraquecidos e dão {MODIFIERDEFENDER}% menos mana."
+"specials.v2.property.tileenhancement.manamultiplier.both.red","Altera o poder de todos os escudos de Fogo no tabuleiro. Quando um herói atacante lança a habilidade especial, os escudos são reforçados e dão {MODIFIERATTACKER}% mais mana. Quando um herói defensor lança a habilidade especial, os escudos são enfraquecidos e dão {MODIFIERDEFENDER}% menos mana."
 "specials.v2.property.tileenhancement.manamultiplier.both.yellow","Altera o poder de todos os escudos de Luz no tabuleiro. Quando um herói atacante lança a habilidade especial, os escudos são reforçados e dão {MODIFIERATTACKER}% mais mana. Quando um herói defensor lança a habilidade especial, os escudos são enfraquecidos e dão {MODIFIERDEFENDER}% menos mana."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.blue","Reforça todos os escudos de Gelo no tabuleiro. Escudos reforçados dão {MODIFIERDEFENDER}% menos mana aos heróis."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.green","Reforça todos os escudos de Natureza no tabuleiro. Escudos reforçados dão {MODIFIERDEFENDER}% menos mana aos heróis."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.purple","Reforça todos os escudos de Trevas no tabuleiro. Escudos reforçados dão {MODIFIERDEFENDER}% menos mana aos heróis."
+"specials.v2.property.tileenhancement.manamultiplier.npcs.red","Reforça todos os escudos de Fogo no tabuleiro. Escudos reforçados dão {MODIFIERDEFENDER}% menos mana aos heróis."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.yellow","Reforça todos os escudos de Luz no tabuleiro. Escudos reforçados dão {MODIFIERDEFENDER}% menos mana aos heróis."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.blue","Reforça todos os escudos de Gelo no tabuleiro. Escudos reforçados dão {MODIFIERATTACKER}% mais mana aos heróis."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.green","Reforça todos os escudos de Natureza no tabuleiro. Escudos reforçados dão {MODIFIERATTACKER}% mais mana aos heróis."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.purple","Reforça todos os escudos de Trevas no tabuleiro. Escudos reforçados dão {MODIFIERATTACKER}% mais mana aos heróis."
+"specials.v2.property.tileenhancement.manamultiplier.playercharacters.red","Reforça todos os escudos de Fogo no tabuleiro. Escudos reforçados dão {MODIFIERATTACKER}% mais mana aos heróis."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.yellow","Reforça todos os escudos de Luz no tabuleiro. Escudos reforçados dão {MODIFIERATTACKER}% mais mana aos heróis."
 "specials.v2.property.upgrademinortomajorbasedontilecount.yellow","Quando existem {REQUIREDTILECOUNT} ou mais escudos de Luz no tabuleiro, todos os efeitos invocados nesta habilidade especial são indissipáveis."
 "specials.v2.property.wither.extra","Atrofia e Crescimento modificam as Pontuações de Habilidade e se mantêm mesmo quando o personagem é derrotado.

@@ -315,7 +315,7 @@
 "specials.name.chains_of_light","Correntes de Luz"
 "specials.name.chakram_kick","Chute de Chakram"
 "specials.name.challenge_the_strongest","Desafiar o Mais Forte"
-"specials.name.champagne_hammer","Martelo de champanhe"
+"specials.name.champagne_hammer","Martelo de Garrafa"
 "specials.name.champion_maneuver","Manobra de Campeão"
 "specials.name.championship_carrot","Cenoura de Campeonato"
 "specials.name.change_stance","Golpe do Apostador"

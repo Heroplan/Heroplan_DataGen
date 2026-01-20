@@ -2239,7 +2239,7 @@
         "id": "lottery_wilderness_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 155,
+        "uiPriority": 163,
         "associatedEvent": "WildernessSummon",
         "bonusChest": "wilderness_chest",
         "bonusChestRequirement": 10,
@@ -2287,7 +2287,7 @@
         "id": "lottery_mimic_default",
         "gemPrice": 270,
         "amount": 1,
-        "uiPriority": 60,
+        "uiPriority": 160,
         "bucketWeights": [
           710,
           265,
@@ -2379,7 +2379,7 @@
         "id": "lottery_titan_hunter_default",
         "gemPrice": 300,
         "amount": 1,
-        "uiPriority": 151,
+        "uiPriority": 166,
         "associatedEvent": "TitanHunter",
         "bucketWeights": [
           710,
@@ -3901,7 +3901,7 @@
         "id": "lottery_tower_magic_default",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 160,
+        "uiPriority": 161,
         "advertisedHero": "magic_carpet_crustee",
         "associatedEvent": "TowerMagic",
         "bucketWeights": [
@@ -4402,7 +4402,7 @@
         "id": "lottery_hero_valentines",
         "gemPrice": 300,
         "amount": 1,
-        "uiPriority": 60,
+        "uiPriority": 162,
         "advertisedHero": "valentines_vernon",
         "associatedEvent": "ValentinesSeasonal",
         "bucketWeights": [
@@ -14937,7 +14937,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple5_vivica_1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -15019,7 +15018,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple5_vivica_3",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -20592,7 +20590,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -24241,7 +24238,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple5_vivica_2b",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -27667,7 +27663,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.luxury_threekingdoms",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35989,7 +35984,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic2_alliancegift",
+        "allianceGiftCustomContentId": "dynamic_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36017,7 +36012,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36027,7 +36021,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36037,7 +36030,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -55479,6 +55471,33 @@
         ]
       },
       {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.mds_seasonoflove2026",
+        "zyngaStoreProduct": true,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "refill_energy_alliance_full",
+            "amount": 1
+          },
+          {
+            "type": "Avatar",
+            "id": "community_malicna",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "titan_battle_giant_harpoon",
+            "amount": 10
+          },
+          {
+            "type": "Dragon",
+            "id": "trainer_dragon_rainbow_novice_common",
+            "amount": 5
+          }
+        ]
+      },
+      {
         "productType": "AllianceEventSummon",
         "id": "lottery_featured_alliance_quest_castle_ad",
         "sourceProductId": "lottery_featured_alliance_quest_castle",
@@ -55559,7 +55578,7 @@
         "id": "lottery_featured_alliance_quest_musketeers",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 149,
+        "uiPriority": 165,
         "advertisedHero": "musketeer_dartagnan",
         "associatedEvent": "AllianceQuestMusketeers",
         "bonusChest": "alliance_quest_chest",
@@ -55766,7 +55785,7 @@
         "id": "lottery_astralelves_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 152,
+        "uiPriority": 164,
         "associatedEvent": "AstralElves",
         "bucketWeights": [
           568,
@@ -58215,5 +58234,5 @@
       }
     ]
   },
-  "productsConfigId": 2162885503
+  "productsConfigId": 2855627747
 }

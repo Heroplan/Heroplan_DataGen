@@ -542,7 +542,10 @@ O Hospedeiro Místico tem:
  {INHERITEDHEALTH}% de vida herdada
  {ATTACK} de ataque
  {DEFENSE} de defesa
-Habilidade especial: Flagelo Místico.
+A seguinte habilidade especial:
+
+{ALTERNATIVEFORMSPECIALTITLE}
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 Quando este personagem derrota a si mesmo ao ativar  Insanidade, a chance de renascer é sempre {CHANCEONSELFCAUSEDDEATH}%."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Quando é derrotado, este personagem pode renascer como Hospedeiro Místico. A chance é de {CHANCEINCREASEPERSTEP}% por {INSANITYPERSTEP} Insanidade do personagem até o limite de {MAXCHANCEINCREASE}%.

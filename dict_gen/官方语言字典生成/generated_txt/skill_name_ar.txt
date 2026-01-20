@@ -315,7 +315,7 @@
 "specials.name.chains_of_light","سلاسل النور"
 "specials.name.chakram_kick","ركلة شاكرام"
 "specials.name.challenge_the_strongest","تحدي الأقوى"
-"specials.name.champagne_hammer","مطرقة الشراب"
+"specials.name.champagne_hammer","مطرقة زجاجة"
 "specials.name.champion_maneuver","مناورة البطل"
 "specials.name.championship_carrot","جزر البطولة"
 "specials.name.change_stance","شطب المراهن"

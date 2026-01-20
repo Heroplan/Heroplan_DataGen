@@ -23,8 +23,8 @@
     "element": "Green",
     "family": "cupid",
     "baseHealth": 402,
-    "baseAttack": 315,
-    "baseDefense": 273,
+    "baseAttack": 316,
+    "baseDefense": 274,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "resist_special_blocking"
@@ -42,8 +42,8 @@
     "element": "Yellow",
     "family": "cupid",
     "baseHealth": 653,
-    "baseAttack": 306,
-    "baseDefense": 303,
+    "baseAttack": 307,
+    "baseDefense": 304,
     "manaSpeedId": "average",
     "passiveSkills": [
       "resist_special_blocking"
@@ -61,8 +61,8 @@
     "element": "Red",
     "family": "cupid",
     "baseHealth": 750,
-    "baseAttack": 410,
-    "baseDefense": 391,
+    "baseAttack": 411,
+    "baseDefense": 392,
     "manaSpeedId": "average",
     "passiveSkills": [
       "resist_special_blocking"
@@ -16694,7 +16694,7 @@
     "specialId": "musketeers_mead",
     "canBeReceivedDate": "2022-12-14 07:00:00",
     "origin": "The Brave & The Beautiful",
-    "costumeBonusesId": "musketeer"
+    "costumeBonusesId": "musketeer_dec_2025"
   },
   "musketeer_queen_anne": {
     "id": "Elegant Monarch",
@@ -22301,7 +22301,7 @@
     "element": "Blue",
     "family": "musketeer",
     "baseHealth": 766,
-    "baseAttack": 417,
+    "baseAttack": 416,
     "baseDefense": 400,
     "manaSpeedId": "slow",
     "passiveSkills": [
@@ -28298,9 +28298,9 @@
     "id": "Unlucky Tigris Fisher",
     "element": "Blue",
     "family": "wild_cat",
-    "baseHealth": 1086,
-    "baseAttack": 641,
-    "baseDefense": 611,
+    "baseHealth": 1107,
+    "baseAttack": 670,
+    "baseDefense": 600,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "resist_all_defense_effects",
@@ -32190,9 +32190,9 @@
     "id": "Petrified Guard of the Bewitched Castle",
     "element": "Green",
     "family": "beauty_beast",
-    "baseHealth": 1090,
-    "baseAttack": 603,
-    "baseDefense": 610,
+    "baseHealth": 1108,
+    "baseAttack": 637,
+    "baseDefense": 643,
     "manaSpeedId": "average",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
@@ -32597,9 +32597,9 @@
     "id": "Astral Demon Shadowguard",
     "element": "Yellow",
     "family": "astral_demons",
-    "baseHealth": 1037,
-    "baseAttack": 651,
-    "baseDefense": 618,
+    "baseHealth": 1073,
+    "baseAttack": 660,
+    "baseDefense": 631,
     "manaSpeedId": "very_fast",
     "passiveSkills": [
       "never_miss_special",
@@ -32637,9 +32637,9 @@
     "id": "Warden of the Tundra",
     "element": "Blue",
     "family": "titan_hunter",
-    "baseHealth": 1102,
-    "baseAttack": 651,
-    "baseDefense": 598,
+    "baseHealth": 1108,
+    "baseAttack": 650,
+    "baseDefense": 627,
     "manaSpeedId": "average",
     "passiveSkills": [
       "titan_hunter_hunting_flare_on_special_cast",
@@ -32788,9 +32788,9 @@
     "id": "Cupid of Winter Morning",
     "element": "Blue",
     "family": "cupid",
-    "baseHealth": 1100,
-    "baseAttack": 620,
-    "baseDefense": 630,
+    "baseHealth": 1109,
+    "baseAttack": 634,
+    "baseDefense": 644,
     "manaSpeedId": "very_fast",
     "passiveSkills": [
       "resist_special_blocking"
@@ -32806,9 +32806,9 @@
     "id": "Cupid of the Heartwood",
     "element": "Green",
     "family": "cupid",
-    "baseHealth": 1081,
-    "baseAttack": 630,
-    "baseDefense": 628,
+    "baseHealth": 1106,
+    "baseAttack": 640,
+    "baseDefense": 638,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "resist_special_blocking"

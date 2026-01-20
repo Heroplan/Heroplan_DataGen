@@ -315,7 +315,7 @@
 "specials.name.chains_of_light","Ljusets kedja"
 "specials.name.chakram_kick","Chakram-spark"
 "specials.name.challenge_the_strongest","Utmana den starkaste"
-"specials.name.champagne_hammer","Champagnehammare"
+"specials.name.champagne_hammer","Flaskhammare"
 "specials.name.champion_maneuver","Mästarmanöver"
 "specials.name.championship_carrot","Mästerlig morot"
 "specials.name.change_stance","Hasardhugg"

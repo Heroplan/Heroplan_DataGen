@@ -74,6 +74,26 @@
           {
             "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
             "text": "Il Nucleo costrutto di questo personaggio è un [#!]Nucleo servitore[#].\n\nIl [#!]Nucleo servitore[#] si attiva ogni volta che viene utilizzata l'Abilità speciale di questo personaggio:\n\n[*] Con un [#!]Nucleo servitore[#] completamente carico, chiama un servitore Killer Bot con {FAMILIARHEALTHPERCENT}% HP e {FAMILIARATTACK}% di attacco ereditati dall'evocatore su tutti gli alleati.\n[*] Gli HP e l'attacco ereditati dall'evocatore sono scalati dalla quantità di carica del Nucleo. Tutta la carica si esaurisce quando il Nucleo viene attivato.\n[*] Prima che il servitore Killer Bot colpisca un bersaglio, distrugge tutti i servitori del bersaglio e danneggia i servitori Mega."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death",
+            "text": "Infligge {DAMAGE} - {MAXDAMAGE} danni a tutti i nemici dopo {TURNS} turni o se l'evocatore viene sconfitto, in base ai danni subiti dall'evocatore mentre questo effetto era attivo."
+          },
+          {
+            "key": "dialog.hero_roster_capacity.title",
+            "text": "Spazio nell'albo in esaurimento"
+          },
+          {
+            "key": "dialog.hero_roster_capacity.message",
+            "text": "Il tuo Albo degli Eroi sta per superare la capacità prevista dal gioco. Questo potrebbe causare malfunzionamenti, con conseguenti problemi di prestazioni o impossibilità di accedere al gioco.\n\nTi consigliamo vivamente di contattare l'assistenza il prima possibile. Ti raccomandiamo anche di fare pulizia e liberare il tuo albo quanto più possibile."
+          },
+          {
+            "key": "dialog.inbox_capacity.title",
+            "text": "Spazio nella posta in esaurimento"
+          },
+          {
+            "key": "dialog.inbox_capacity.message",
+            "text": "Risulta che la tua posta sta per superare la capacità prevista dal gioco. Questo potrebbe causare malfunzionamenti, con conseguenti problemi di prestazioni o impossibilità di accedere al gioco.\n\nTi consigliamo vivamente di eliminare i messaggi già letti e di contattare l'assistenza il prima possibile."
           }
         ]
       },
@@ -150,6 +170,26 @@
           {
             "key": "notifications.mimicsummon",
             "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death",
+            "text": "Наносит {DAMAGE} - {MAXDAMAGE} урона всем врагам спустя {TURNS} х. или если этот персонаж побежден, в зависимости от урона, который получил герой, пока этот эффект был активен."
+          },
+          {
+            "key": "dialog.hero_roster_capacity.title",
+            "text": "Вместимость списка почти исчерпана"
+          },
+          {
+            "key": "dialog.hero_roster_capacity.message",
+            "text": "Вместимость твоего списка героев почти исчерпана. Это может привести к сбоям в игре, а именно к возникновению проблем с производительностью или невозможности получить доступ к игре.\n\nМы настоятельно рекомендуем как можно скорее связаться со службой поддержки. Мы также рекомендуем освободить место в списке."
+          },
+          {
+            "key": "dialog.inbox_capacity.title",
+            "text": "Вместимость почтового ящика почти исчерпана"
+          },
+          {
+            "key": "dialog.inbox_capacity.message",
+            "text": "Мы видим, что вместимость почтового ящика почти исчерпана. Это может привести к сбоям в игре, а именно к возникновению проблем с производительностью или невозможности получить доступ к игре.\n\nМы настоятельно рекомендуем очистить входящие и связаться со службой поддержки как можно скорее."
           }
         ]
       },
@@ -222,6 +262,26 @@
           {
             "key": "notifications.mimicsummon",
             "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death",
+            "text": "Zadaje {DAMAGE} - {MAXDAMAGE} pkt. obrażeń wszystkim wrogom po upływie {TURNS} tur lub jeśli rzucający zostanie pokonany, w zależności od obrażeń otrzymanych przez bohatera, gdy ten efekt był aktywny."
+          },
+          {
+            "key": "dialog.hero_roster_capacity.title",
+            "text": "Pojemność spisu osiąga limit"
+          },
+          {
+            "key": "dialog.hero_roster_capacity.message",
+            "text": "Twój spis bohaterów prawie przekroczył limit pojemności gry. Może to spowodować nieprawidłowe działanie gry, powodując problemy z wydajnością lub brak dostępu do gry.\n\nZalecamy jak najszybciej skontaktować się ze Wsparciem Gracza. Zalecamy zachowanie porządku w spisie w miarę możliwości."
+          },
+          {
+            "key": "dialog.inbox_capacity.title",
+            "text": "Skrzynka odbiorcza osiąga limit"
+          },
+          {
+            "key": "dialog.inbox_capacity.message",
+            "text": "Twoja skrzynka odbiorcza prawie przekroczyła limit pojemności gry. Może to spowodować nieprawidłowe działanie gry, powodując problemy z wydajnością lub brak dostępu do gry.\n\nZalecamy zachowanie porządku i usuwanie przeczytanych wiadomości oraz skontaktowanie się ze Wsparciem Gracza tak szybko, jak to możliwe."
           }
         ]
       },
@@ -294,6 +354,26 @@
           {
             "key": "notifications.mimicsummon",
             "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death",
+            "text": "此效果啟用時，將根據施法者所受到的傷害，在{TURNS}個回合後，或施法者被擊敗時，對所有敵人造成{DAMAGE} - {MAXDAMAGE}點傷害。"
+          },
+          {
+            "key": "dialog.hero_roster_capacity.title",
+            "text": "名錄空間接近容量上限"
+          },
+          {
+            "key": "dialog.hero_roster_capacity.message",
+            "text": "您的英雄名錄已接近遊戲容量上限。可能會導致遊戲故障，造成效能問題或無法進入遊戲。\n\n我們強烈建議您盡快與玩家支援中心聯絡。我們也建議你盡可能清理和清空您的名錄。"
+          },
+          {
+            "key": "dialog.inbox_capacity.title",
+            "text": "收件匣空間接近容量上限"
+          },
+          {
+            "key": "dialog.inbox_capacity.message",
+            "text": "我們發現您的收件匣已接近遊戲容量上限。可能會導致遊戲故障，造成效能問題或無法進入遊戲。\n\n我們強烈建議您清理已讀訊息，並盡快與玩家支援中心聯絡。"
           }
         ]
       },
@@ -366,6 +446,26 @@
           {
             "key": "notifications.mimicsummon",
             "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death",
+            "text": "이 효과가 지속되는 동안에는 시전자가 받은 피해에 근거하여 {TURNS}턴 후 또는 시전자가 쓰러진 경우, 모든 적에게 {DAMAGE} - {MAXDAMAGE} 피해를 줍니다."
+          },
+          {
+            "key": "dialog.hero_roster_capacity.title",
+            "text": "목록 공간 수용량 도달"
+          },
+          {
+            "key": "dialog.hero_roster_capacity.message",
+            "text": "영웅 목록이 게임의 수용 인원을 거의 초과했습니다. 게임이 오작동을 일으켜 성능 문제가 발생하거나 게임 접속이 불가할 수 있습니다.\n\n최대한 빨리 고객 지원에 문의할 것을 강력히 권장합니다. 또한, 목록을 최대한 정리하고 제거하기를 권장합니다."
+          },
+          {
+            "key": "dialog.inbox_capacity.title",
+            "text": "우편함 공간 수용량 도달"
+          },
+          {
+            "key": "dialog.inbox_capacity.message",
+            "text": "우편함의 수용 인원을 거의 초과했습니다. 게임이 오작동을 일으켜 성능 문제가 발생하거나 게임 접속이 불가할 수 있습니다.\n\n읽기 전용 메시지를 제거하고 가능한 한 빨리 플레이어 지원에 문의할 것을 적극 권장합니다."
           }
         ]
       },
@@ -442,6 +542,26 @@
           {
             "key": "notifications.mimicsummon",
             "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death",
+            "text": "Verursacht basierend auf dem Schaden, den der Wirker erlitten hatte, während dieser Effekt aktiv war, {DAMAGE}–{MAXDAMAGE} Schaden an allen Gegnern nach {TURNS} Zügen oder wenn der Wirker besiegt wird."
+          },
+          {
+            "key": "dialog.hero_roster_capacity.title",
+            "text": "Platz fast ausgeschöpft"
+          },
+          {
+            "key": "dialog.hero_roster_capacity.message",
+            "text": "Deine Heldenliste hat die Kapazität des Spiels fast überschritten. Dies kann zu einer Fehlfunktion deines Spiels führen, was Leistungsprobleme oder Zugriffsprobleme auf das Spiel verursachen kann.\n\nWir empfehlen dringend, den Spielersupport so schnell wie möglich zu kontaktieren. Wir empfehlen außerdem, deine Liste möglichst gründlich auszusortieren und zu löschen."
+          },
+          {
+            "key": "dialog.inbox_capacity.title",
+            "text": "Platz im Posteingang fast ausgeschöpft"
+          },
+          {
+            "key": "dialog.inbox_capacity.message",
+            "text": "Wir können sehen, dass dein Posteingang die Kapazität des Spiels fast überschritten hat. Dies kann zu einer Fehlfunktion deines Spiels führen, was Leistungsprobleme oder Zugriffsprobleme auf das Spiel verursachen kann.\n\nWir empfehlen dringend, deine gelesenen Nachrichten zu löschen und den Spielersupport so schnell wie möglich zu kontaktieren."
           }
         ]
       },
@@ -514,6 +634,26 @@
           {
             "key": "notifications.mimicsummon",
             "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death",
+            "text": "{TURNS}ターン後あるいは術者が倒された場合、この効果が発動中に術者が受けたダメージに基づいて、{DAMAGE}-{MAXDAMAGE}のダメージを敵全員に与える。"
+          },
+          {
+            "key": "dialog.hero_roster_capacity.title",
+            "text": "リストスペースが上限に到達"
+          },
+          {
+            "key": "dialog.hero_roster_capacity.message",
+            "text": "あなたの英雄リストは、ほぼゲームの上限に達しています。これによりゲームに不具合が発生し、パフォーマンスの問題が起きるか、ゲームにアクセスできなくなる場合があります。\n\n可能な限り早くプレイヤーサポートに問い合わせすることを強くお勧めします。できるだけリストの整理を行うことを推奨します。"
+          },
+          {
+            "key": "dialog.inbox_capacity.title",
+            "text": "受信箱のスペースが上限に到達"
+          },
+          {
+            "key": "dialog.inbox_capacity.message",
+            "text": "受信箱がゲームの上限にほぼ達しています。これによりゲームに不具合が発生し、パフォーマンスの問題が起きるか、ゲームにアクセスできなくなる場合があります。\n\n既読メッセージを削除して、できるだけ早くプレイヤーサポートに問い合わせすることを強く推奨します。"
           }
         ]
       },
@@ -590,6 +730,26 @@
           {
             "key": "notifications.mimicsummon",
             "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death",
+            "text": "Gör {DAMAGE}–{MAXDAMAGE} skada mot alla fiender efter {TURNS} rundor eller om användaren besegras, baserat på skadan som användaren tog under tiden som effekten var aktiv."
+          },
+          {
+            "key": "dialog.hero_roster_capacity.title",
+            "text": "Samlingen börjar bli full"
+          },
+          {
+            "key": "dialog.hero_roster_capacity.message",
+            "text": "Din hjältesamling är nästan full. Det kan få spelet att sluta fungera som det ska, exempelvis kan det leda till prestandaproblem eller att spelet inte går att starta.\n\nVi rekommenderar att du kontaktar spelarsupporten så fort som möjligt. Vi rekommenderar även att du rensar upp i samlingen så mycket du kan."
+          },
+          {
+            "key": "dialog.inbox_capacity.title",
+            "text": "Inkorgen börjar bli full"
+          },
+          {
+            "key": "dialog.inbox_capacity.message",
+            "text": "Din inkorg är nästan full. Det kan få spelet att sluta fungera som det ska, exempelvis kan det leda till prestandaproblem eller att spelet inte går att starta.\n\nVi rekommenderar att du tar bort lästa meddelanden och kontaktar spelarsupporten så fort som möjligt."
           }
         ]
       },
@@ -662,6 +822,26 @@
           {
             "key": "notifications.mimicsummon",
             "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death",
+            "text": "{TURNS} tur sonra veya eylemci yenilirse eylemcinin bu efekt aktifken aldığı hasara bağlı olarak tüm düşmanlara {DAMAGE} - {MAXDAMAGE} hasar verir."
+          },
+          {
+            "key": "dialog.hero_roster_capacity.title",
+            "text": "Kadronun Alanı Kapasite Sınırına Yaklaşıyor"
+          },
+          {
+            "key": "dialog.hero_roster_capacity.message",
+            "text": "Kahraman Kadron, oyunun kapasitesine yaklaşmak üzere. Bu durum, oyununda aksaklıklar meydana getirerek performans sorunları yaşamana neden olabilir veya oyuna erişmene engel olabilir.\n\nMümkün olan en kısa sürede Oyuncu Desteği ile iletişime geçmeni şiddetle öneririz. Ayrıca Kadronu mümkün olduğunca sık düzenleyerek yer açmanı da öneririz."
+          },
+          {
+            "key": "dialog.inbox_capacity.title",
+            "text": "Gelen Kutusunun Alanı Kapasite Sınırına Yaklaşıyor"
+          },
+          {
+            "key": "dialog.inbox_capacity.message",
+            "text": "Gelen Kutusunun, oyunun kapasitesine yaklaşmak üzere olduğunu görüyoruz. Bu durum, oyununda aksaklıklar meydana getirerek performans sorunları yaşamana neden olabilir veya oyuna erişmene engel olabilir.\n\nOkunmuş mesajları silmeni ve mümkün olan en kısa sürede Oyuncu Desteği ile iletişime geçmeni şiddetle öneririz."
           }
         ]
       },
@@ -734,6 +914,26 @@
           {
             "key": "notifications.mimicsummon",
             "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death",
+            "text": "Deals {DAMAGE} - {MAXDAMAGE} damage to all enemies after {TURNS} turns or if the caster is defeated, based on the damage the caster had taken while this effect was active."
+          },
+          {
+            "key": "dialog.hero_roster_capacity.title",
+            "text": "Roster Space Reaching Capacity"
+          },
+          {
+            "key": "dialog.hero_roster_capacity.message",
+            "text": "Your Hero Roster has nearly exceeded the game's capacity. This may cause your game to malfunction, resulting in performance issues or being unable to access the game.\n\nWe strongly recommend contacting Player Support as soon as possible. We also recommend cleaning and clearing your Roster as much as possible."
+          },
+          {
+            "key": "dialog.inbox_capacity.title",
+            "text": "Inbox Space Reaching Capacity"
+          },
+          {
+            "key": "dialog.inbox_capacity.message",
+            "text": "We can see that your Inbox has nearly exceeded the game's capacity. This may cause your game to malfunction, resulting in performance issues or being unable to access the game.\n\nWe strongly recommend clearing out your read messages and also contacting Player Support as soon as possible."
           }
         ]
       },
@@ -814,6 +1014,26 @@
           {
             "key": "notifications.mimicsummon",
             "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death",
+            "text": "لإلحاق {DAMAGE} - {MAXDAMAGE} بجميع الأعداء بعد {TURNS} من الجولات أو إذا هزم الرامي، بناءً على الضرر الذي تلقاه الرامي بينما كان هذا التأثير نشطًا."
+          },
+          {
+            "key": "dialog.hero_roster_capacity.title",
+            "text": "توشك قدرة استيعاب لائحتك على بلوغ الحد الأقصى"
+          },
+          {
+            "key": "dialog.hero_roster_capacity.message",
+            "text": "كادت لائحة أبطالك أن تتجاوز قدرة استيعاب اللعبة. قد يتسبب هذا في حدوث عطل في لعبتك، ما ينتج عنه مشكلات في الأداء أو عدم القدرة على الدخول إلى اللعبة.\n\nنوصي بشدة بالتواصل مع دعم اللاعبين في أقرب وقت ممكن. نوصي أيضًا بخفض العدد في لائحتك قدر المستطاع."
+          },
+          {
+            "key": "dialog.inbox_capacity.title",
+            "text": "توشك قدرة استيعاب صندوق الوارد على بلوغ الحد الأقصى"
+          },
+          {
+            "key": "dialog.inbox_capacity.message",
+            "text": "يمكننا رؤية أن صندوق الوارد لديك كاد أن يتجاوز قدرة استيعاب اللعبة. قد يتسبب هذا في حدوث عطل في لعبتك، ما ينتج عنه مشكلات في الأداء أو عدم القدرة على الدخول إلى اللعبة.\n\nنوصي بشدة بحذف الرسائل المقروءة والتواصل مع دعم اللاعبين في أقرب وقت ممكن."
           }
         ]
       },
@@ -890,6 +1110,26 @@
           {
             "key": "notifications.mimicsummon",
             "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death",
+            "text": "Inflige entre {DAMAGE} et {MAXDAMAGE} points de dégâts à tous les ennemis au bout de {TURNS} tours ou lorsque le lanceur est vaincu. La valeur dépend des dégâts subis par le lanceur pendant l'effet."
+          },
+          {
+            "key": "dialog.hero_roster_capacity.title",
+            "text": "Liste de héros presque complète"
+          },
+          {
+            "key": "dialog.hero_roster_capacity.message",
+            "text": "Votre liste de héros a presque atteint la capacité maximum du jeu. La dépasser risque de provoquer des dysfonctionnements entraînant des problèmes de performance ou d'accès au jeu.\n\nNous recommandons fortement de contacter le service client dès que possible, ainsi que de faire de la place dans votre liste autant que possible."
+          },
+          {
+            "key": "dialog.inbox_capacity.title",
+            "text": "Boîte de réception presque complète"
+          },
+          {
+            "key": "dialog.inbox_capacity.message",
+            "text": "Nous constatons que votre boîte de réception a presque atteint la capacité maximum du jeu. La dépasser risque de provoquer des dysfonctionnements entraînant des problèmes de performance ou d'accès au jeu.\n\nNous recommandons fortement de contacter le service client dès que possible, ainsi que de faire de la place en supprimant les messages déjà lus."
           }
         ]
       },
@@ -966,6 +1206,26 @@
           {
             "key": "notifications.mimicsummon",
             "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death",
+            "text": "Causa {DAMAGE} a {MAXDAMAGE} de dano a todos os inimigos depois de {TURNS} turnos ou quando o invocador é derrotado, com base no dano que o invocador sofre enquanto este efeito está ativo."
+          },
+          {
+            "key": "dialog.hero_roster_capacity.title",
+            "text": "Limite de capacidade do quadro de heróis"
+          },
+          {
+            "key": "dialog.hero_roster_capacity.message",
+            "text": "Seu quadro de heróis ultrapassou o limite de capacidade. Isso pode fazer com que você encontre problemas de desempenho ou não consiga acessar o jogo.\n\nRecomendamos entrar em contato com o suporte ao jogador assim que possível e abrir espaço no quadro de heróis."
+          },
+          {
+            "key": "dialog.inbox_capacity.title",
+            "text": "Limite de capacidade da caixa de entrada"
+          },
+          {
+            "key": "dialog.inbox_capacity.message",
+            "text": "Sua caixa de entrada ultrapassou o limite de capacidade. Isso pode fazer com que você encontre problemas de desempenho ou não consiga acessar o jogo.\n\nRecomendamos apagar as mensagens lidas e entrar em contato com o suporte ao jogador assim que possível."
           }
         ]
       },
@@ -1038,6 +1298,26 @@
           {
             "key": "notifications.mimicsummon",
             "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death",
+            "text": "Menimbulkan {DAMAGE} - {MAXDAMAGE} kerusakan pada semua musuh setelah {TURNS} giliran atau jika perapal kalah, berdasarkan kerusakan yang diterima perapal selama efek ini aktif."
+          },
+          {
+            "key": "dialog.hero_roster_capacity.title",
+            "text": "Ruang dalam Daftar Hampir Melampaui Kapasitas"
+          },
+          {
+            "key": "dialog.hero_roster_capacity.message",
+            "text": "Daftar Pahlawanmu hampir melebihi kapasitas game. Hal ini dapat menyebabkan malafungsi game, mengakibatkan masalah performa, atau tidak dapat mengakses game.\n\nKami sangat menyarankan agar kamu menghubungi Dukungan Pemain sesegera mungkin. Kami juga menyarankan pembersihan dan penghapusan Daftarmu sebanyak mungkin."
+          },
+          {
+            "key": "dialog.inbox_capacity.title",
+            "text": "Ruang Kotak Masuk Hampir Melampaui Kapasitas"
+          },
+          {
+            "key": "dialog.inbox_capacity.message",
+            "text": "Kami melihat bahwa Kotak Masukmu hampir melebihi kapasitas game. Hal ini dapat menyebabkan malafungsi game, mengakibatkan masalah performa, atau tidak dapat mengakses game.\n\nKami sangat menyarankan agar kamu menghapus pesan terbaca serta menghubungi Dukungan Pemain sesegera mungkin."
           }
         ]
       },
@@ -1114,6 +1394,26 @@
           {
             "key": "notifications.mimicsummon",
             "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death",
+            "text": "Tekee {DAMAGE}–{MAXDAMAGE} vauriota kaikille vihollisille {TURNS} vuoron jälkeen tai jos loitsija kukistuu. Vaurion määrä perustuu loitsijan kärsimään vaurioon vaikutuksen voimassaoloaikana."
+          },
+          {
+            "key": "dialog.hero_roster_capacity.title",
+            "text": "Sankarilista täyttymässä"
+          },
+          {
+            "key": "dialog.hero_roster_capacity.message",
+            "text": "Sankarilistasi on melkein ylittänyt pelin kapasiteetin. Tämä voi vaikuttaa pelisi suorituskykyyn tai estää sinua pääsemästä peliin.\n\nSuosittelemme ottamaan yhteyttä pelaajatukeen mahdollisimman pian. Suosittelemme myös tyhjentämään listaa mahdollisimman paljon."
+          },
+          {
+            "key": "dialog.inbox_capacity.title",
+            "text": "Sankarilista täyttymässä"
+          },
+          {
+            "key": "dialog.inbox_capacity.message",
+            "text": "Postilaatikkosi on melkein ylittänyt pelin kapasiteetin. Tämä voi vaikuttaa pelisi suorituskykyyn tai estää sinua pääsemästä peliin.\n\nSuosittelemme poistamaan luettuja viestejä ja ottamaan yhteyttä pelaajatukeen mahdollisimman pian."
           }
         ]
       },
@@ -1186,6 +1486,26 @@
           {
             "key": "notifications.mimicsummon",
             "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death",
+            "text": "Forvolder {DAMAGE}-{MAXDAMAGE} skade på alle fjender efter {TURNS} runder, eller til kasteren bliver besejret, baseret på den skade, kasteren har modtaget, mens denne effekt var aktiv."
+          },
+          {
+            "key": "dialog.hero_roster_capacity.title",
+            "text": "Forfremmelsesplads for rummet"
+          },
+          {
+            "key": "dialog.hero_roster_capacity.message",
+            "text": "Du har næsten overskredet spillets heltegrænse. Dette kan forårsage fejl i spillet såsom problemer med ydeevnen eller muligheden for at tilgå spillet.\n\nVi anbefaler på det kraftigste, at du kontakter vores supportteam hurtigst muligt. Vi anbefaler også, at du rydder lidt op i og får styr på dine helte på listen."
+          },
+          {
+            "key": "dialog.inbox_capacity.title",
+            "text": "Indbakkens kapacitet"
+          },
+          {
+            "key": "dialog.inbox_capacity.message",
+            "text": "Vi kan se, at du næsten har overskredet spilgrænsen for beskeder i din indbakke. Dette kan forårsage fejl i spillet såsom problemer med ydeevnen eller muligheden for at tilgå spillet.\n\nVi anbefaler på det kraftigste, at du fjerner nogle af dine læste beskeder og at du kontakter vores supportteam hurtigst muligt."
           }
         ]
       },
@@ -1258,6 +1578,26 @@
           {
             "key": "notifications.mimicsummon",
             "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death",
+            "text": "Inflige {DAMAGE}-{MAXDAMAGE} de daño a todos los enemigos pasados {TURNS} turnos o, si el héroe cae derrotado, en función del daño que el héroe recibió mientras estaba activo este efecto."
+          },
+          {
+            "key": "dialog.hero_roster_capacity.title",
+            "text": "Llegando a la capacidad máxima de espacios de la lista"
+          },
+          {
+            "key": "dialog.hero_roster_capacity.message",
+            "text": "Tu lista de héroes casi ha superado la capacidad del juego. Esto puede hacer que el juego funcione mal y se produzcan problemas de rendimiento o no puedas acceder al juego.\n\nTe aconsejamos que te pongas en contacto con el servicio de atención del jugador cuanto antes. También te aconsejamos limpiar y despejar tu lista tanto como puedas."
+          },
+          {
+            "key": "dialog.inbox_capacity.title",
+            "text": "Llegando a la capacidad máxima de espacios de la bandeja de entrada"
+          },
+          {
+            "key": "dialog.inbox_capacity.message",
+            "text": "Nos hemos fijado en que tu bandeja de entrada casi ha superado la capacidad del juego. Esto puede hacer que el juego funcione mal y se produzcan problemas de rendimiento o no puedas acceder al juego.\n\nTe aconsejamos que borres tus mensajes leídos y que te pongas en contacto con el servicio de atención del jugador cuanto antes."
           }
         ]
       },
@@ -1334,6 +1674,26 @@
           {
             "key": "notifications.mimicsummon",
             "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death",
+            "text": "Påfører {DAMAGE}–{MAXDAMAGE} skade på alle fiender etter {TURNS} runder eller hvis brukeren beseires, basert på skaden brukeren hadde tatt mens denne effekten var aktiv."
+          },
+          {
+            "key": "dialog.hero_roster_capacity.title",
+            "text": "Listen nærmer seg maksimal kapasitet"
+          },
+          {
+            "key": "dialog.hero_roster_capacity.message",
+            "text": "Heltelisten din har nesten overskredet spillets kapasitet. Dette kan føre til funksjonsfeil, noe som kan resultere i ytelsesproblemer eller problemer med å få tilgang til spillet.\n\nVi anbefaler sterkt å kontakte spillerstøtten så raskt som mulig. Vi anbefaler også at du rydder opp i listen din så mye som mulig."
+          },
+          {
+            "key": "dialog.inbox_capacity.title",
+            "text": "Innboksen nærmer seg maksimal kapasitet"
+          },
+          {
+            "key": "dialog.inbox_capacity.message",
+            "text": "Innboksen din har nesten overskredet spillets kapasitet. Dette kan føre til funksjonsfeil, noe som kan resultere i ytelsesproblemer eller problemer med å få tilgang til spillet\n\nVi anbefaler deg sterkt å fjerne leste meldinger og å kontakte spillerstøtten så raskt som mulig."
           }
         ]
       },
@@ -1410,6 +1770,26 @@
           {
             "key": "notifications.mimicsummon",
             "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death",
+            "text": "Brengt {DAMAGE}-{MAXDAMAGE} schade toe aan alle vijanden na {TURNS} beurten of als de spreukspreker wordt verslagen, gebaseerd op de schade die de spreukspreker heeft geleden terwijl dit effect actief was."
+          },
+          {
+            "key": "dialog.hero_roster_capacity.title",
+            "text": "Selectieruimte zit bijna aan de limiet"
+          },
+          {
+            "key": "dialog.hero_roster_capacity.message",
+            "text": "Je heldenselectie heeft de capaciteit van het spel bijna overschreden. Dit zorgt ervoor dat het spel niet goed werkt, waardoor er prestatieproblemen optreden of waardoor je geen toegang hebt tot het spel.\n\nWe raden je aan om zo snel mogelijk contact op te nemen met de spelersondersteuning. We raden ook aan je selectie zo veel mogelijk schoon te maken en wissen."
+          },
+          {
+            "key": "dialog.inbox_capacity.title",
+            "text": "Inboxruimte zit bijna aan de limiet"
+          },
+          {
+            "key": "dialog.inbox_capacity.message",
+            "text": "We zien dat je inbox de capaciteit van het spel bijna heeft overschreden. Dit zorgt ervoor dat het spel niet goed werkt, waardoor er prestatieproblemen optreden of waardoor je geen toegang hebt tot het spel.\n\nWe raden je ten zeerste aan om je gelezen berichten zo snel mogelijk te verwijderen en contact op te nemen met de spelersondersteuning."
           }
         ]
       },
@@ -1486,10 +1866,30 @@
           {
             "key": "herocard.passive_skill.description.effectondamagedone.bufftoremove.minordebuff.latest.from.all.allies.safe.specialskill.only_criticals.once",
             "text": "当此角色使用特殊技能造成[#!]暴击[#]时，可以安全地清除所有友方单位身上最近一次可清除的异常状态。此效果每回合可激活一次。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death",
+            "text": "根据施法者在此效果有效期间的所受伤害，在{TURNS}回合或施法者被击败后对所有敌人造成{DAMAGE}至{MAXDAMAGE}点伤害。"
+          },
+          {
+            "key": "dialog.hero_roster_capacity.title",
+            "text": "列表空间容量告急"
+          },
+          {
+            "key": "dialog.hero_roster_capacity.message",
+            "text": "您的英雄列表已接近游戏容量上限，这可能导致游戏运行异常，出现性能问题或无法进入游戏。\n\n我们强烈建议您尽快联系玩家支持，并尽可能清理和腾出列表空间。"
+          },
+          {
+            "key": "dialog.inbox_capacity.title",
+            "text": "收件箱空间容量告急"
+          },
+          {
+            "key": "dialog.inbox_capacity.message",
+            "text": "我们检测到您的收件箱已接近游戏容量上限，这可能导致游戏运行异常，出现性能问题或无法进入游戏。\n\n我们强烈建议您清空已读消息，并尽快联系玩家支持。"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 2112832758
+  "languageOverridesConfigId": 2396966440
 }

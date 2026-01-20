@@ -544,7 +544,10 @@ Den sælsomme vært har:
 {INHERITEDHEALTH} % nedarvet helbred. 
 {ATTACK} angreb.
 {DEFENSE} forsvar.
-Særlig egenskab: Sælsomt fordærv. 
+Følgende særlige egenskab:
+
+{ALTERNATIVEFORMSPECIALTITLE}
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 Hvis denne figur besejrer sig selv, når vanviddet aktiveres, er chancen for at blive genfødt altid {CHANCEONSELFCAUSEDDEATH} %."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Hvis denne figur bliver besejret, er der en chance for, at den genfødes som en sælsom vært. Chancen er {CHANCEINCREASEPERSTEP} % pr. {INSANITYPERSTEP} vanvid på denne figur op til maks. chance på {MAXCHANCEINCREASE} %.

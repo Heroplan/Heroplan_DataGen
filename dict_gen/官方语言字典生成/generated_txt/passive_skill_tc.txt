@@ -542,7 +542,10 @@ The 駭異宿主具有：
 {INHERITEDHEALTH}%繼承生命。
 {ATTACK}點攻擊。
 {DEFENSE}點防禦。
-特殊技能：駭異疫病。
+以下特殊技能：
+
+{ALTERNATIVEFORMSPECIALTITLE}
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 在瘋狂生效時，若此角色擊敗自己，重生的機率一律為{CHANCEONSELFCAUSEDDEATH}%。"
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","如果被擊敗，此角色有機率重生為駭異宿主。此角色每有{INSANITYPERSTEP}點瘋狂，該機率為{CHANCEINCREASEPERSTEP}%，最高機率為{MAXCHANCEINCREASE}%。

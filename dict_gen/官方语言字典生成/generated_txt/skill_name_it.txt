@@ -315,7 +315,7 @@
 "specials.name.chains_of_light","Catene di luce"
 "specials.name.chakram_kick","Calcio con chakram"
 "specials.name.challenge_the_strongest","Sfida il più forte"
-"specials.name.champagne_hammer","Martello di champagne"
+"specials.name.champagne_hammer","Martello bottiglia"
 "specials.name.champion_maneuver","Manovra del campione"
 "specials.name.championship_carrot","Carota del campionato"
 "specials.name.change_stance","Colpo del giocatore d'azzardo"

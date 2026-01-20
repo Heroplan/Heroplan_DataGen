@@ -546,7 +546,10 @@ L'hôte fantasmagorique a :
 {INHERITEDHEALTH} % de santé héritée.
 {ATTACK} points d'attaque.
 {DEFENSE} points de défense.
-Compétence spéciale : Fléau fantasmagorique.
+La compétence spéciale suivante :
+
+{ALTERNATIVEFORMSPECIALTITLE}
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 Si le personnage s'élimine lui-même lors de l'activation de la folie, la probabilité est de {CHANCEONSELFCAUSEDDEATH} %."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","S'il est vaincu, ce personnage a une chance de renaître sous la forme d'un hôte fantasmagorique. La probabilité est de {CHANCEINCREASEPERSTEP} % pour chaque tranche de {INSANITYPERSTEP} points de folie sur ce personnage, jusqu'à un maximum de {MAXCHANCEINCREASE} %.

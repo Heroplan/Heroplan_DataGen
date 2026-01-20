@@ -214,7 +214,7 @@
 "heroes.name.construct_skarn","سكارن"
 "heroes.name.construct_sylosis","سيلوسيس"
 "heroes.name.construct_tenebrae","تينيبراي"
-"heroes.name.construct_zavok","زافوك"
+"heroes.name.construct_zavok","زافول"
 "heroes.name.cultist_female_poisoner","ليلى"
 "heroes.name.cultist_inventor","كينتوس"
 "heroes.name.cultist_mage","بلتزار"

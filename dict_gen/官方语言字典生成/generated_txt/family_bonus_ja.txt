@@ -70,7 +70,7 @@
 "familybonuses.description.long.flight_momentum","英雄が飛行推進力フルチャージ状態で開始する。
 各ターン終了時およびダメージを受けた場合、英雄は飛行推進力を少し失う。
 特殊スキルを使用すると、英雄は飛行推進力を獲得する。
-動きの遅い英雄は飛行推進力の獲得量が高くなる"
+動きの遅い英雄は飛行推進力の獲得量が高くなる。"
 "familybonuses.description.long.growth_mahayoddha","マハヨッダファミリーの英雄は、各ターン終了時、成長を獲得する： 攻撃力が{1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE}、防御力が{1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE}増加する。
 変化後の才能スコア制限
 最低値は元の才能スコアの{MINSTAT}%に、最高値は{MAXSTAT}%になる。"

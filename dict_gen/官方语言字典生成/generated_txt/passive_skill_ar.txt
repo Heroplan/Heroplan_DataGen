@@ -148,7 +148,6 @@
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill","لخفض مقدار القوة الذي يزيد بواسطة المهارة الخاصة بنسبة {MODIFIER}%. ينطبق التأثير على جميع الأعداء في المعركة."
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect","تخفض مقدار القوة الذي يزيد من خلال المهارات الخاصة، والمهارات الخاملة، ومكافآت العائلة، وتأثيرات الحالة، بنسبة {MODIFIER}%. ينطبق التأثير على جميع الأعداء في المعركة."
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm","تخفض مقدار القوة الذي يزيد من خلال المهارات الخاصة، والمهارات الخاملة، ومكافآت العائلة، وتأثيرات الحالة، بنسبة {MODIFIER}%. ينطبق التأثير على جميع الأعداء في المعركة."
-"herocard.passive_skill.description.managenerationmodifier.none","{MODIFIER}% توليد قوة."
 "herocard.passive_skill.description.manaonownfamiliardeath.minion","تربح هذه الشخصية كميةً قليلةً من القوة عند تدمير أحد أتباعها."
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all","تتمتع هذه الشخصية بقدرة غريزية على تذكر أي تابع أو شرير يتم استدعاؤه من خلال مهارات الأعداء الخاصة. سيظل آخر تابع وشرير استدعاه الأعداء محفوظًا حتى يتم إلقاء المهارة الخاصة."
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all#2","تتمتع هذه الشخصية بقدرة غريزية على تذكر أي تابع أو شرير يتم استدعاؤه من خلال مهارات الأعداء الخاصة. سيظل آخر اثنين من الأتباع، والأشرار الذين استدعاهم الأعداء محفوظين حتى يتم إلقاء المهارة الخاصة."
@@ -541,13 +540,18 @@
 "herocard.passive_skill.description.resistsupportcharacter.troop.alldebuffs.with_chance","فرصة إضافية بنسبة {CHANCE}% لمقاومة كل أمراض الحالات."
 "herocard.passive_skill.description.revivalchancemodifier.all.enemies","خُفضت فرصة الإحياء لجميع الأعداء في المعركة. صارت الفرصة {MODIFIER}% من القيمة الأصلية."
 "herocard.passive_skill.description.revivalhealthmodifier.all.enemies.excluding.boss","يمتلك جميع الأعداء {HEALTHMODIFIER}% من الصحة عند إعادة إحيائهم. لا يتأثر زعماء الأعداء بهذا التأثير."
-"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance","عند هزيمتها، تتمتع هذه الشخصية بفرصة للعودة إلى الحياة باعتبارها مضيف الشعوذة. تعتمد الفرصة على {CHANCEINCREASEPERSTEP}% لكل {INSANITYPERSTEP} من الجنون لدى هذه الشخصية، بحد أقصى قدره {MAXCHANCEINCREASE}%.
+"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance","عند الهزيمة، يكون لدى الشخصية فرصة لإعادة الإحياء كـ مضيف شعوذة. الفرصة هي {CHANCEINCREASEPERSTEP}% لكل {INSANITYPERSTEP} جنون لهذه الشخصية، بحد أقصى {MAXCHANCEINCREASE}%. 
 
-يتمتع مضيف الشعوذة بنسبة:
-{INHERITEDHEALTH}% من الصحة الموروثة.
+مضيف الشعوذة لديه:
+{INHERITEDHEALTH}% من الصحة الموروثة. 
 {ATTACK} من الهجوم.
 {DEFENSE} من الدفاع.
-المهارة الخاصة: لعنة الشعوذة. إذا هزمت هذه الشخصية نفسها عند تفعيل الجنون، فإن فرصة إعادة الإحياء دائمًا تكون {CHANCEONSELFCAUSEDDEATH}%."
+المهارة الخاصة التالية:
+
+{ALTERNATIVEFORMSPECIALTITLE}
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
+
+إذا هزمت هذه الشخصية نفسها عند تفعيل الجنون، فإن فرصة إعادة الإحياء دائمًا تكون {CHANCEONSELFCAUSEDDEATH}%."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","في حالة الهزيمة، لدى هذه الشخصية فرصة لإعادة الإحياء في هيئة مضيف الشعوذة. توجد فرصة بنسبة {CHANCEINCREASEPERSTEP}% لكل {INSANITYPERSTEP} من الجنون على هذه الشخصية، بحد أقصى يصل إلى {MAXCHANCEINCREASE}% من الفرص.
 
  لدى مضيف الشعوذة

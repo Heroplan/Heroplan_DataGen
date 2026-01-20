@@ -540,7 +540,10 @@ Den kusliga värden har:
 {INHERITEDHEALTH} % ärvd hälsa.
 {ATTACK} attack.
 {DEFENSE} försvar.
-Specialförmåga: Kusligt fördärv.
+Följande specialförmåga:
+
+{ALTERNATIVEFORMSPECIALTITLE}
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 Om den här karaktären besegrar sig själv när vansinne aktiveras är chansen att återfödas {CHANCEONSELFCAUSEDDEATH} %."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Om den här karaktären besegras har den chansen att återuppstå som en kuslig värd. Chansen är {CHANCEINCREASEPERSTEP} % per {INSANITYPERSTEP} vansinne på den här karaktären, upp till en maximal chans på {MAXCHANCEINCREASE} %.

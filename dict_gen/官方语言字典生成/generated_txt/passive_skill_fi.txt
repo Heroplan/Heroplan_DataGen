@@ -148,7 +148,6 @@ Käskyläisydin aktivoituu aina kun tämän hahmon erikoistaitoa käytetään:
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill","Vähentää erikoistaitojen nostaman manan määrää {MODIFIER} %. Vaikutus koskee kaikkia vihollisia tässä taistelussa."
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect","Vähentää erikoistaitojen, passiivisten taitojen, perhebonusten ja tilaefektien nostaman manan määrää {MODIFIER} %. Vaikutus koskee kaikkia vihollisia tässä taistelussa."
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm","Vähentää erikoistaitojen, passiivisten taitojen, perhebonusten ja tilaefektien nostaman manan määrää {MODIFIER} %. Vaikutus koskee kaikkia vihollisia tässä taistelussa."
-"herocard.passive_skill.description.managenerationmodifier.none","{MODIFIER} % manatuotantoa."
 "herocard.passive_skill.description.manaonownfamiliardeath.minion","Hahmo saa pienen määrän manaa, kun hänen omistamansa käskyläinen tuhotaan."
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all","Tällä hahmolla on luontainen kyky painaa muistiin mikä tahansa vihollisten erikoistaidoilla kutsuttu käskyläinen tai riiviö. Viimeisin vihollisten kutsuma käskyläinen tai riiviö pysyy muistiin painettuna kunnes tätä erikoistaitoa käytetään."
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all#2","Tällä hahmolla on luontainen kyky painaa muistiin mikä tahansa vihollisten erikoistaidoilla kutsuttu käskyläinen tai riiviö. {0} viimeisintä vihollisten kutsumaa käskyläistä tai riiviötä pysyy muistiin painettuna kunnes tätä erikoistaitoa käytetään."
@@ -547,7 +546,10 @@ Ikiaikaisella oliolla on:
 {INHERITEDHEALTH} % perittyä terveyttä. 
 {ATTACK} hyökkäystä.
 {DEFENSE} puolustusta.
-Erikoistaito: Ikiaikainen vitsaus.
+Seuraava erikoistaito:
+
+{ALTERNATIVEFORMSPECIALTITLE}
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 Jos tämä hahmo kukistaa itsensä hulluuden aktivoituessa, uudelleen syntymisen mahdollisuus on aina {CHANCEONSELFCAUSEDDEATH} %."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Jos tämä hahmo kukistuu, hänellä on mahdollisuus syntyä uudelleen ikiaikaisena oliona. Mahdollisuus on {CHANCEINCREASEPERSTEP} % jokaista tällä hahmolla olevaa {INSANITYPERSTEP} hulluuspistettä kohti, yhteensä enintään {MAXCHANCEINCREASE} %.

@@ -1,4 +1,4 @@
-"specials.v2.bigminion.aberration_big_minion.single","Kutsuu jokaiselle liittolaiselle hirvitys-megakäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä.
+"specials.v2.bigminion.aberration_big_minion.single","Kutsuu hirvitys-megakäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä.
 
 Jokainen hirvitys-megakäskyläisen osuma aiheuttaa kohteelle seuraavan vaivan:"
 "specials.v2.bigminion.black_boar_mega_minion.single","Kutsuu musta villisika -megakäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä."
@@ -1128,14 +1128,17 @@ Kutsuu jokaiselle osutulle viholliselle siementaimiriiviön."
 "specials.v2.property.tileenhancement.manamultiplier.both.blue","Muuttaa kaikkien laudalla olevien jääkilpien voimaa. Hyökkäävän sankarin loitsima erikoishyökkäys voimistaa kilvet antamaan {MODIFIERATTACKER} % enemmän manaa. Puolustavan sankarin loitsima erikoishyökkäys heikentää kilvet antamaan {MODIFIERDEFENDER} % vähemmän manaa."
 "specials.v2.property.tileenhancement.manamultiplier.both.green","Muuttaa kaikkien laudalla olevien luontokilpien voimaa. Hyökkäävän sankarin loitsima erikoishyökkäys voimistaa kilvet antamaan {MODIFIERATTACKER} % enemmän manaa. Puolustavan sankarin loitsima erikoishyökkäys heikentää kilvet antamaan {MODIFIERDEFENDER} % vähemmän manaa."
 "specials.v2.property.tileenhancement.manamultiplier.both.purple","Muuttaa kaikkien laudalla olevien pimeyden kilpien voimaa. Hyökkäävän sankarin loitsima erikoishyökkäys voimistaa kilvet antamaan {MODIFIERATTACKER} % enemmän manaa. Puolustavan sankarin loitsima erikoishyökkäys heikentää kilvet antamaan {MODIFIERDEFENDER} % vähemmän manaa."
+"specials.v2.property.tileenhancement.manamultiplier.both.red","Muuttaa kaikkien laudalla olevien tulikilpien voimaa. Hyökkäävän sankarin loitsima erikoishyökkäys voimistaa kilvet antamaan {MODIFIERATTACKER} % enemmän manaa. Puolustavan sankarin loitsima erikoishyökkäys heikentää kilvet antamaan {MODIFIERDEFENDER} % vähemmän manaa."
 "specials.v2.property.tileenhancement.manamultiplier.both.yellow","Muuttaa kaikkien laudalla olevien pyhien kilpien voimaa. Hyökkäävän sankarin loitsima erikoishyökkäys voimistaa kilvet antamaan {MODIFIERATTACKER} % enemmän manaa. Puolustavan sankarin loitsima erikoishyökkäys heikentää kilvet antamaan {MODIFIERDEFENDER} % vähemmän manaa."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.blue","Voimistaa kaikkia laudalla olevia jääkilpiä. Voimistuneet kilvet antavat {MODIFIERDEFENDER} % vähemmän manaa sankareille."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.green","Voimistaa kaikkia laudalla olevia luontokilpiä. Voimistuneet kilvet antavat {MODIFIERDEFENDER} % vähemmän manaa sankareille."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.purple","Voimistaa kaikkia laudalla olevia pimeyden kilpiä. Voimistuneet kilvet antavat {MODIFIERDEFENDER} % vähemmän manaa sankareille."
+"specials.v2.property.tileenhancement.manamultiplier.npcs.red","Voimistaa kaikkia laudalla olevia tulikilpiä. Voimistuneet kilvet antavat {MODIFIERDEFENDER} % vähemmän manaa sankareille."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.yellow","Voimistaa kaikkia laudalla olevia pyhiä kilpiä. Voimistuneet kilvet antavat {MODIFIERDEFENDER} % vähemmän manaa sankareille."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.blue","Voimistaa kaikkia laudalla olevia jääkilpiä. Voimistuneet kilvet antavat {MODIFIERATTACKER} % enemmän manaa sankareille."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.green","Voimistaa kaikkia laudalla olevia luontokilpiä. Voimistuneet kilvet antavat {MODIFIERATTACKER} % enemmän manaa sankareille."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.purple","Voimistaa kaikkia laudalla olevia pimeyden kilpiä. Voimistuneet kilvet antavat {MODIFIERATTACKER} % enemmän manaa sankareille."
+"specials.v2.property.tileenhancement.manamultiplier.playercharacters.red","Voimistaa kaikkia laudalla olevia tulikilpiä. Voimistuneet kilvet antavat {MODIFIERATTACKER} % enemmän manaa sankareille."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.yellow","Voimistaa kaikkia laudalla olevia pyhiä kilpiä. Voimistuneet kilvet antavat {MODIFIERATTACKER} % enemmän manaa sankareille."
 "specials.v2.property.upgrademinortomajorbasedontilecount.yellow","Jos laudalla on vähintään {REQUIREDTILECOUNT} pyhää kilpeä, tämän erikoistaidon vaikutuksia ei voi häivyttää."
 "specials.v2.property.wither.extra","Näivetys ja kasvu muokkaavat hahmojen ominaisuuksia. Vaikutus jää, vaikka hahmo kukistuisikin.

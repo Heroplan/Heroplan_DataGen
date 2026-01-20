@@ -315,7 +315,7 @@
 "specials.name.chains_of_light","빛의 사슬"
 "specials.name.chakram_kick","차크람 킥"
 "specials.name.challenge_the_strongest","최강자에 도전하기"
-"specials.name.champagne_hammer","샴페인 해머"
+"specials.name.champagne_hammer","병 망치"
 "specials.name.champion_maneuver","챔피언 기동술"
 "specials.name.championship_carrot","챔피언십 당근"
 "specials.name.change_stance","도박꾼의 칼날"

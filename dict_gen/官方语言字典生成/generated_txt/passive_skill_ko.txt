@@ -148,7 +148,6 @@
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill","특수 스킬에 의해 증가한 마나가 {MODIFIER}% 감소합니다. 이 효과는 전투 중 모든 적에게 적용됩니다."
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect","특수 스킬, 패시브 스킬, 패밀리 보너스 및 상태 효과에 의해 증가한 마나가 {MODIFIER}% 감소합니다. 이 효과는 전투 중 모든 적에게 적용됩니다."
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm","특수 스킬, 패시브 스킬, 패밀리 보너스 및 상태 효과에 의해 증가한 마나가 {MODIFIER}% 감소합니다. 이 효과는 전투 중 모든 적에게 적용됩니다."
-"herocard.passive_skill.description.managenerationmodifier.none","{MODIFIER}% 마나 재생력."
 "herocard.passive_skill.description.manaonownfamiliardeath.minion","이 캐릭터는 보유한 하수인이 파괴되면 소량의 마나를 획득합니다."
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all","이 캐릭터는 적의 특수 스킬로 소환된 악마나 하수인을 전부 기억하는 능력을 지니고 있습니다. 적이 최근에 소환한 하수인이나 악마는 특수 스킬을 시전할 때까지 기록됩니다."
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all#2","이 캐릭터는 적의 특수 스킬로 소환된 악마나 하수인을 전부 기억하는 능력을 지니고 있습니다. 적이 최근에 소환한 {0}마리의 하수인이나 악마는 특수 스킬을 시전할 때까지 기록됩니다."
@@ -547,7 +546,10 @@
 {INHERITEDHEALTH}% HP 계승. 
 {ATTACK} 공격력.
 {DEFENSE} 방어력.
-특수 스킬: 엘드리히의 재앙.
+다음 특수 스킬: 
+
+{ALTERNATIVEFORMSPECIALTITLE}
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 광기가 활성화되어 이 캐릭터가 스스로 쓰러지면 그 확률은 {CHANCEONSELFCAUSEDDEATH}%입니다."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","이 캐릭터는 패배 시 일정 확률로 엘드리히 호스트로 부활할 수 있습니다. 그 확률은 {INSANITYPERSTEP} 광기 당{CHANCEINCREASEPERSTEP}%이며, 최대 {MAXCHANCEINCREASE}%까지 될 수 있습니다.
@@ -593,8 +595,8 @@
 "herocard.passive_skill.description.statuseffectonspecialcast.major.all.allies.softskin","이 가고일이 특수 스킬을 시전할 때마다 모든 아군이 부드러운 살결 효과를 받습니다. 이 후 아군이 {MAXACTIVATIONS}회에 걸쳐 피해를 받으면 피해가 {DAMAGEREDUCTION}% 감소합니다. 또한, 모든 상태 이상 효과, 마나 감소 및 광기에 면역력을 가집니다. 이 효과는 해제할 수 없습니다."
 "herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.softskin","이 가고일이 특수 스킬을 시전할 때마다 부드러운 살결이 활성화됩니다. 이 후 {MAXACTIVATIONS}회에 걸쳐 피해를 받으면 피해가 {DAMAGEREDUCTION}% 감소합니다. 또한, 모든 상태 이상 효과, 마나 감소 및 광기에 면역력을 가집니다. 이 효과는 해제할 수 없습니다."
 "herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.stone","이 가고일이 특수 스킬을 시전할 때마다 돌가죽이 단단해집니다. 다음 {MAXHITS}회의 받는 피해가 1로 감소합니다. 이 효과는 해제할 수 없습니다."
-"herocard.passive_skill.description.statuseffectonspecialcast.minor.random.enemies.damageonhitreceived","이 캐릭터가 특수 스킬을 사용하면, 무작위 적 하나에게 사냥 신호탄(Hunting Flare)을 {TURNS}턴 동안 부여합니다.
- Hunting Flare가 부여된 대상은 치명타(a critical hit)를 받을 때마다 {FIXEDPOWER}의 추가 피해를 받습니다."
+"herocard.passive_skill.description.statuseffectonspecialcast.minor.random.enemies.damageonhitreceived","이 캐릭터가 특수 스킬을 사용하면, 무작위 적 하나에게 사냥 신호탄을 {TURNS}턴 동안 부여합니다.
+ 사냥 신호탄이 부여된 대상은 치명타를 받을 때마다 {FIXEDPOWER}의 추가 피해를 받습니다."
 "herocard.passive_skill.description.statuseffectonspecialcast.minor.single.allies.attackmodifierfrompassiveskill","이 캐릭터가 특수 스킬을 시전할 때, {ATTACK}% 공격력을 {TURNS}턴 동안 얻습니다. 이 효과는 공격을 변형하는 다른 효과와 더불어 활성화될 수 있습니다."
 "herocard.passive_skill.description.statuseffectselection.usable_once.select_element_status_effect","전투당 한 번에 한해 이 영웅의 속성을 {TURNS}턴 동안 원하는 속성으로 변경할 수 있습니다. 마나가 가득 차 있지 않은 상황에 이 영웅을 탭해서 속성를 변경합니다."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies","매턴마다 무작위 적 하나에게 씨앗 악마를 소환합니다.

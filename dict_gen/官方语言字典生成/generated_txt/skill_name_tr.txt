@@ -315,7 +315,7 @@
 "specials.name.chains_of_light","Işık Zincirleri"
 "specials.name.chakram_kick","Chakram Vuruşu"
 "specials.name.challenge_the_strongest","En Güçlüye Meydan Oku"
-"specials.name.champagne_hammer","Şampanya Tokmağı"
+"specials.name.champagne_hammer","Şişe Çekici"
 "specials.name.champion_maneuver","Şampiyon Manevrası"
 "specials.name.championship_carrot","Şampiyona Havucu"
 "specials.name.change_stance","Kumarbaz Kesiği"

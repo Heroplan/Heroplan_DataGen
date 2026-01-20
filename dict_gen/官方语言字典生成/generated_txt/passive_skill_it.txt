@@ -109,7 +109,7 @@ Il Nucleo distruttivo si attiva ogni volta che viene lanciata l'Abilità special
 
 Il Nucleo servitore si attiva ogni volta che viene utilizzata l'Abilità speciale di questo personaggio:
 
- Con un Nucleo servitore completamente carico, chiama un servitore Killer Bot con {FAMILIARHEALTHPERCENT}% HP e {FAMILIARATTACK}% di attacco ereditati dall'alleato su tutti gli alleati.
+ Con un Nucleo servitore completamente carico, chiama un servitore Killer Bot con {FAMILIARHEALTHPERCENT}% HP e {FAMILIARATTACK}% di attacco ereditati dall'evocatore su tutti gli alleati.
  Gli HP e l'attacco ereditati dall'evocatore sono scalati dalla quantità di carica del Nucleo. Tutta la carica si esaurisce quando il Nucleo viene attivato.
  Prima che il servitore Killer Bot colpisca un bersaglio, distrugge tutti i servitori del bersaglio e danneggia i servitori Mega."
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.bigminion.decrease","I servitori Mega nemici hanno il {HEALTHMODIFIER}% di HP."
@@ -148,7 +148,6 @@ Il Nucleo servitore si attiva ogni volta che viene utilizzata l'Abilità special
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill","Riduce del {MODIFIER}% la quantità di mana aumentata dalle Abilità speciali. L'effetto si applica a tutti i nemici in battaglia."
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect","Riduce del {MODIFIER}% la quantità di mana aumentata da Abilità speciali, abilità passive, bonus famiglia ed effetti di stato. L'effetto si applica a tutti i nemici in battaglia."
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm","Riduce del {MODIFIER}% la quantità di mana aumentata da Abilità speciali, abilità passive, bonus famiglia ed effetti di stato. L'effetto si applica a tutti i nemici in battaglia."
-"herocard.passive_skill.description.managenerationmodifier.none","{MODIFIER}% di rigenerazione mana."
 "herocard.passive_skill.description.manaonownfamiliardeath.minion","Questo personaggio ottiene una piccola quantità di mana quando un suo servitore viene distrutto."
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all","Questo personaggio ha l'abilità innata di Memorizzare qualsiasi servitore o demone evocato dalle Abilità speciali dei nemici. Gli ultimi servitore e demone evocati dai nemici resteranno memorizzati fino al lancio dell'Abilità speciale."
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all#2","Questo personaggio ha l'abilità innata di Memorizzare qualsiasi servitore o demone evocato dalle Abilità speciali dei nemici. Gli ultimi {0} servitori e demoni evocati dai nemici resteranno memorizzati fino al lancio dell'Abilità speciale."
@@ -550,15 +549,18 @@ Questo include le magie benefiche e i disturbi degli effetti di stato, le iteraz
 "herocard.passive_skill.description.resistsupportcharacter.troop.alldebuffs.with_chance","{CHANCE}% di probabilità extra di resistere a tutti i disturbi."
 "herocard.passive_skill.description.revivalchancemodifier.all.enemies","Le probabilità di resurrezione sono ridotte per tutti i nemici in battaglia. Le probabilità sono pari al {MODIFIER}% del valore originale."
 "herocard.passive_skill.description.revivalhealthmodifier.all.enemies.excluding.boss","Tutti i nemici hanno il {HEALTHMODIFIER}% di Salute quando vengono rianimati. I boss nemici non vengono influenzati."
-"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance","Se sconfitto, questo personaggio ha la possibilità di rinascere come Ospite sinistro. La probabilità è di un {CHANCEINCREASEPERSTEP}% per {INSANITYPERSTEP} Follia di questo personaggio, fino a una probabilità massima di un {MAXCHANCEINCREASE}%. 
+"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance","Se sconfitto, questo personaggio ha la possibilità di rinascere come Ospite sinistro. Le probabilità sono del {CHANCEINCREASEPERSTEP}% ogni {INSANITYPERSTEP} Follia di questo personaggio, fino a una probabilità massima del {MAXCHANCEINCREASE}%.
 
 L'Ospite sinistro ha:
-{INHERITEDHEALTH}% Salute ereditata. 
-{ATTACK} Attacco.
-{DEFENSE} Difesa.
- Abilità speciale: Piaga sinistra.
+ {INHERITEDHEALTH}% di Salute ereditata.
+ {ATTACK} di Attacco.
+ {DEFENSE} di Difesa.
+ Le seguenti Abilità speciali:
 
-Se questo personaggio si sconfigge da sé quando attiva Follia, la probabilità di rinascere è sempre di un {CHANCEONSELFCAUSEDDEATH}%."
+{ALTERNATIVEFORMSPECIALTITLE}
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
+
+Se questo personaggio si sconfigge da sé quando attiva Follia, le probabilità di rinascere sono sempre del {CHANCEONSELFCAUSEDDEATH}%."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Se sconfitto, questo personaggio ha una probabilità di rinascere come Ospite sinistro. Le probabilità sono del {CHANCEINCREASEPERSTEP}% per ogni {INSANITYPERSTEP} di Follia su questo personaggio, fino a una probabilità massima del {MAXCHANCEINCREASE}%.
 
 L'Ospite sinistro ha:

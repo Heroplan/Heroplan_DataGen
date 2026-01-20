@@ -214,7 +214,7 @@
 "heroes.name.construct_skarn","스칸"
 "heroes.name.construct_sylosis","실로시스"
 "heroes.name.construct_tenebrae","테니브리"
-"heroes.name.construct_zavok","자보크"
+"heroes.name.construct_zavok","자볼트"
 "heroes.name.cultist_female_poisoner","레일라"
 "heroes.name.cultist_inventor","퀸투스"
 "heroes.name.cultist_mage","발타자르"

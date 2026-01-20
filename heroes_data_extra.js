@@ -43160,5 +43160,170 @@ window.allHeroesExtra = [
             "never_miss_special"
         ],
         "family": "mimic"
+    },
+    {
+        "name": "Lempi",
+        "fancy name": "Cupid of Winter Morning",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "very_fast",
+        "Release date": "2026-01-19",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Dispellers",
+            "AoE Attackers (Hit-5)",
+            "Max Health Reducers"
+        ],
+        "heroId": "valentines_lempi",
+        "baseAttack": 634,
+        "baseDefense": 644,
+        "baseHealth": 1109,
+        "specialId": "rime_heart",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
+        "family": "cupid"
+    },
+    {
+        "name": "Zarola costume1",
+        "fancy name": "Cupid of Lone Rangers",
+        "element": "Green",
+        "rarity": 3,
+        "class": "Cleric",
+        "speed": "fast",
+        "Release date": "2026-01-19",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers",
+            "Debuffers (DEF)"
+        ],
+        "heroId": "valentines_zarola_costume_cowboy",
+        "baseAttack": 316,
+        "baseDefense": 274,
+        "baseHealth": 402,
+        "specialId": "punishing_shot",
+        "specialId_costume": "lasso_of_love",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "12%",
+        "defenseBonus": "12%",
+        "healthBonus": "12%",
+        "manaBonus": "5%",
+        "family": "cupid"
+    },
+    {
+        "name": "Crustee",
+        "fancy name": "Magic Lab Genius",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
+        "Release date": "2026-01-18",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "Random Position",
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers",
+            "Buffers (ATK)"
+        ],
+        "heroId": "magic_carpet_crustee",
+        "baseAttack": 640,
+        "baseDefense": 641,
+        "baseHealth": 1099,
+        "specialId": "juggling_trials",
+        "passiveSkills": [
+            "reduce_big_minion_health",
+            "fly_magic_carpet",
+            "buffs_to_debuffs_on_special_cast_magic_carpet"
+        ],
+        "family": "magic_carpet"
+    },
+    {
+        "name": "Vernon",
+        "fancy name": "Cupid of the Heartwood",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
+        "Release date": "2026-01-19",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "Snipers",
+            "Extra Damage Dealers",
+            "Mindless Attack & Mindless Heal"
+        ],
+        "heroId": "valentines_vernon",
+        "baseAttack": 640,
+        "baseDefense": 638,
+        "baseHealth": 1106,
+        "specialId": "shared_compassion",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
+        "family": "cupid"
+    },
+    {
+        "name": "Cupido costume1",
+        "fancy name": "Cupid of Fiery Passion",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
+        "Release date": "2026-01-19",
+        "AetherPower": "Rage",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Mindless Attack & Mindless Heal"
+        ],
+        "heroId": "valentines_cupido_costume_flame",
+        "baseAttack": 411,
+        "baseDefense": 392,
+        "baseHealth": 750,
+        "specialId": "love_conquers_all",
+        "specialId_costume": "passion_conquers_all",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "55%",
+        "defenseBonus": "55%",
+        "healthBonus": "56%",
+        "manaBonus": "5%",
+        "family": "cupid"
+    },
+    {
+        "name": "Voluptas costume1",
+        "fancy name": "Cupid of Painters",
+        "element": "Yellow",
+        "rarity": 4,
+        "class": "Monk",
+        "speed": "average",
+        "Release date": "2026-01-19",
+        "AetherPower": "Special Armor",
+        "skill_types": [
+            "Fiends Counters",
+            "Healers",
+            "Buffers (DEF)"
+        ],
+        "heroId": "valentines_voluptas_costume_paint",
+        "baseAttack": 307,
+        "baseDefense": 304,
+        "baseHealth": 653,
+        "specialId": "flat_cake_for_sweethearts",
+        "specialId_costume": "hues_of_love",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "18%",
+        "manaBonus": "5%",
+        "family": "cupid"
     }
 ];

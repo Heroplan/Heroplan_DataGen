@@ -214,7 +214,7 @@
 "heroes.name.construct_skarn","Скарн"
 "heroes.name.construct_sylosis","Силоз"
 "heroes.name.construct_tenebrae","Тенебра"
-"heroes.name.construct_zavok","Завок"
+"heroes.name.construct_zavok","Заволт"
 "heroes.name.cultist_female_poisoner","Лайла"
 "heroes.name.cultist_inventor","Квинт"
 "heroes.name.cultist_mage","Бальтазар"

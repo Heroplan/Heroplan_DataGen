@@ -545,7 +545,10 @@ Obejmuje to wzmocnienia i dolegliwości ze statusu, pozytywne i negatywne kumula
 {INHERITEDHEALTH}% odziedziczonego zdrowia. 
 {ATTACK} pkt. ataku.
 {DEFENSE} pkt. obrony.
-Umiejętność specjalna: Nadprzyrodzona plaga.
+Następująca umiejętność specjalna:
+
+{ALTERNATIVEFORMSPECIALTITLE}
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 Jeśli ta postać pokona sama siebie, gdy aktywuje się obłęd, szanse wynoszą {CHANCEONSELFCAUSEDDEATH}%."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","W przypadku porażki ta postać ma szanse na odrodzenie jako nadprzyrodzony nosiciel. Szanse wynoszą {CHANCEINCREASEPERSTEP}%. za każde {INSANITYPERSTEP}. pkt. obłędu tej postaci, maksymalnie do {MAXCHANCEINCREASE}%.

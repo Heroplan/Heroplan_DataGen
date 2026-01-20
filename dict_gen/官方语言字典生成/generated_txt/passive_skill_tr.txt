@@ -546,7 +546,10 @@ Tuhaf Konak şunlara sahiptir:
 %{INHERITEDHEALTH} devralınan sağlık. 
 {ATTACK} saldırı.
 {DEFENSE} savunma.
-Özel Yetenek: Tuhaf Felaket.
+Şu Özel Yetenek:
+
+{ALTERNATIVEFORMSPECIALTITLE}
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 Bu karakter Deliliği etkinleştirirken kendini alt ederse yeniden dirilme şansı her zaman %{CHANCEONSELFCAUSEDDEATH} olur."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Bu karakterin yenildiğinde Tuhaf Konak olarak dirilme şansı vardır. Şans, karakter üzerindeki {INSANITYPERSTEP} Delilik başına en fazla %{MAXCHANCEINCREASE} olmak üzere %{CHANCEINCREASEPERSTEP} oranındadır.

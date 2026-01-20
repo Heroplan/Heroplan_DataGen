@@ -23356,7 +23356,7 @@
             "gemValue": 1000
           },
           {
-            "id": "扎沃克",
+            "id": "萨伏特",
             "gemValue": 1000
           },
           {
@@ -50490,7 +50490,7 @@
           "enabled": true,
           "minTrophiesToStart": 600,
           "chestLootId": "pvp_rules_chest_reward_100",
-          "chestCooldown": 518340,
+          "chestCooldown": 86400,
           "winsNeededToCollectChest": 100,
           "schedule": [
             {
@@ -80790,49 +80790,21 @@
               {
                 "bonusLevels": [
                   {
-                    "attackBonusPerMil": 10,
-                    "defenseBonusPerMil": 10,
-                    "healthBonusPerMil": 20,
+                    "attackBonusPerMil": 30,
+                    "defenseBonusPerMil": 30,
+                    "healthBonusPerMil": 30,
                     "manaBonusPerMil": 10
                   },
                   {
-                    "attackBonusPerMil": 20,
-                    "defenseBonusPerMil": 20,
-                    "healthBonusPerMil": 30,
+                    "attackBonusPerMil": 40,
+                    "defenseBonusPerMil": 40,
+                    "healthBonusPerMil": 40,
                     "manaBonusPerMil": 30
                   },
-                  {
-                    "attackBonusPerMil": 30,
-                    "defenseBonusPerMil": 30,
-                    "healthBonusPerMil": 40,
-                    "manaBonusPerMil": 50
-                  }
-                ]
-              },
-              {
-                "bonusLevels": [
                   {
                     "attackBonusPerMil": 120,
                     "defenseBonusPerMil": 120,
                     "healthBonusPerMil": 120,
-                    "manaBonusPerMil": 10
-                  },
-                  {
-                    "attackBonusPerMil": 130,
-                    "defenseBonusPerMil": 130,
-                    "healthBonusPerMil": 130,
-                    "manaBonusPerMil": 20
-                  },
-                  {
-                    "attackBonusPerMil": 140,
-                    "defenseBonusPerMil": 140,
-                    "healthBonusPerMil": 140,
-                    "manaBonusPerMil": 30
-                  },
-                  {
-                    "attackBonusPerMil": 150,
-                    "defenseBonusPerMil": 150,
-                    "healthBonusPerMil": 150,
                     "manaBonusPerMil": 50
                   }
                 ]
@@ -80840,27 +80812,55 @@
               {
                 "bonusLevels": [
                   {
-                    "attackBonusPerMil": 460,
-                    "defenseBonusPerMil": 460,
-                    "healthBonusPerMil": 460,
+                    "attackBonusPerMil": 150,
+                    "defenseBonusPerMil": 150,
+                    "healthBonusPerMil": 150,
                     "manaBonusPerMil": 10
                   },
                   {
-                    "attackBonusPerMil": 490,
-                    "defenseBonusPerMil": 490,
-                    "healthBonusPerMil": 490,
+                    "attackBonusPerMil": 160,
+                    "defenseBonusPerMil": 160,
+                    "healthBonusPerMil": 160,
                     "manaBonusPerMil": 20
                   },
                   {
-                    "attackBonusPerMil": 500,
-                    "defenseBonusPerMil": 500,
-                    "healthBonusPerMil": 500,
+                    "attackBonusPerMil": 170,
+                    "defenseBonusPerMil": 170,
+                    "healthBonusPerMil": 170,
                     "manaBonusPerMil": 30
                   },
                   {
-                    "attackBonusPerMil": 530,
-                    "defenseBonusPerMil": 530,
+                    "attackBonusPerMil": 180,
+                    "defenseBonusPerMil": 180,
+                    "healthBonusPerMil": 180,
+                    "manaBonusPerMil": 50
+                  }
+                ]
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 480,
+                    "defenseBonusPerMil": 480,
+                    "healthBonusPerMil": 490,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 510,
+                    "defenseBonusPerMil": 510,
+                    "healthBonusPerMil": 520,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 520,
+                    "defenseBonusPerMil": 520,
                     "healthBonusPerMil": 530,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 550,
+                    "defenseBonusPerMil": 550,
+                    "healthBonusPerMil": 560,
                     "manaBonusPerMil": 50
                   }
                 ]
@@ -82827,9 +82827,9 @@
     "minSecondsBetweenRecentActivityRequests": 30,
     "colorBlindModeEnabled": true,
     "languageSelectionEnabled": true,
-    "maxVersionToShowUpdateOutReminderAndroid": "82.0.1",
-    "maxVersionToShowUpdateOutReminderIos": "82.0.0",
-    "maxVersionToShowUpdateOutReminderAndroidStandalone": "82.0.1",
+    "maxVersionToShowUpdateOutReminderAndroid": "82.0.2",
+    "maxVersionToShowUpdateOutReminderIos": "82.0.2",
+    "maxVersionToShowUpdateOutReminderAndroidStandalone": "82.0.2",
     "standaloneNewVersionRolloutPercentage": 100,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
@@ -82922,5 +82922,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 3896834265
+  "otherConfigId": 1805085906
 }

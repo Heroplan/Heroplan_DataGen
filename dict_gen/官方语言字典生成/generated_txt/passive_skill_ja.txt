@@ -8,7 +8,7 @@
 "herocard.passive_skill.description.caststatuseffectdurationmodifier.turns_with_chance","{0}ターン: {1}%"
 "herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier","このキャラクターの飛行推進力が残っている場合、以下を獲得する：
 最大{MAXMANAGENERATIONMODIFIER}%のマナ生成。
-最大+{MAXDODGEMODIFIER}%の回避確率。
+最大{MAXDODGEMODIFIER}%の回避確率。
 この効果はキャラクターの飛行推進力が少なくなると減少してゆく。"
 "herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier.battle","飛行推進力{CHARGE}%
 このキャラクターは現在以下を保有する：
@@ -566,7 +566,10 @@ F炎属性、自然属性、氷属性、闇属性、聖属性のコモン英雄"
 キャラクターのライフの{INHERITEDHEALTH}%を継承。
 攻撃力{ATTACK}。
 防御力{DEFENSE}。
-特殊スキル：エルドリッチの荒廃。
+特殊スキル：
+
+{ALTERNATIVEFORMSPECIALTITLE}
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 狂気を発動してこのキャラクターが自身を倒した場合、復活する可能性が常に{CHANCEONSELFCAUSEDDEATH}%になる。"
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","このキャラクターが倒されると、一定確率でエルドリッチの主人として復活する。この確率はこのキャラクターに付与されている狂気{INSANITYPERSTEP}つにつき{CHANCEINCREASEPERSTEP}%となる。最大で{MAXCHANCEINCREASE}%まで。

@@ -33074,16 +33074,18 @@
       },
       {
         "statusEffect": "FixedHealthRecovery",
-        "id": "hp_recovery_athos_costume",
+        "id": "health_boost_recovery_athos_costume",
         "buff": "MinorBuff",
+        "iconOverrideStatusEffectId": "health_boost_recovery",
         "healthPoints": 210,
         "healthPointsIncrementPerLevel": 20,
         "isHealthBoost": true
       },
       {
         "statusEffect": "FixedHealthRecovery",
-        "id": "hp_recovery_porthos_costume",
+        "id": "health_boost_recovery_porthos_costume",
         "buff": "MinorBuff",
+        "iconOverrideStatusEffectId": "health_boost_recovery",
         "healthPoints": 115,
         "healthPointsIncrementPerLevel": 20,
         "isHealthBoost": true
@@ -39368,7 +39370,7 @@
       {
         "statusEffect": "BuildUpDamageOnRemoval",
         "id": "buildup_damage_on_removal_gitnib",
-        "buff": "MajorBuff",
+        "buff": "MinorBuff",
         "removalEffects": [
           {
             "effectType": "Damage",
@@ -51810,12 +51812,12 @@
         "buff": "MinorDebuff",
         "damageMultiplierPerMil": 0,
         "damageMultiplierIncrementPerLevelPerMil": 0,
-        "fixedDamagePerTurn": 290,
+        "fixedDamagePerTurn": 180,
         "fixedDamagePerTurnIncrementPerLevel": 10,
         "extraDamagePerTurnPerMil": 0,
         "maxExtraDamagePerTurnPerMil": 0,
-        "fixedExtraDamagePerTurn": 60,
-        "maxFixedExtraDamagePerTurn": 240
+        "fixedExtraDamagePerTurn": 50,
+        "maxFixedExtraDamagePerTurn": 250
       },
       {
         "statusEffect": "BloodPoisoning",
@@ -67849,7 +67851,7 @@
           "Turn"
         ],
         "sideAffected": "Allies",
-        "attackPercentPerMil": 1090,
+        "attackPercentPerMil": 590,
         "attackPercentIncrementPerLevelPerMil": 30,
         "monsterAttackPercentPerMil": 130
       },
@@ -86935,5 +86937,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 2826779205
+  "battleConfigId": 555377318
 }

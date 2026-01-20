@@ -506,7 +506,7 @@
 "herocard.passive_skill.description.resist.frost.with_effect.healthboost.addmana","Герой обладает иммунитетом к недугам, наносящим урон от мороза, а при успешном сопротивлении увеличивает свое здоровье на {HEALTHBOOST} и получает {MANA} % маны."
 "herocard.passive_skill.description.resist.healeffects","Персонаж обладает иммунитетом к недугам, которые влияют на лечение."
 "herocard.passive_skill.description.resist.healthsteal","Персонаж обладает иммунитетом к недугам, которые крадут здоровье."
-"herocard.passive_skill.description.resist.insanity.permanentstatuseffects","Персонаж облажает иммунитетом к безумию."
+"herocard.passive_skill.description.resist.insanity.permanentstatuseffects","Персонаж обладает иммунитетом к безумию."
 "herocard.passive_skill.description.resist.manadebuffs","Персонаж обладает иммунитетом к недугам, которые влияют на ману."
 "herocard.passive_skill.description.resist.manaeffectsandspecialblocking","Этот персонаж обладает иммунитетом к недугам, влияющим на генерацию маны или мешающим использованию особых навыков."
 "herocard.passive_skill.description.resist.manaeffectsandspecialblocking.with_chance","Этот персонаж с вероятностью {CHANCE} % устоит против недугов, влияющих на ману или мешающих использованию особых навыков."
@@ -539,7 +539,10 @@
 {INHERITEDHEALTH} %  здоровья от героя. 
 {ATTACK} атаки.
 {DEFENSE} защиты.
-Особый навык: ""Жуткое проклятие"".
+Особый навык:
+
+{ALTERNATIVEFORMSPECIALTITLE}
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 Если во время активации безумия герой уничтожает сам себя, то шанс становится равным {CHANCEONSELFCAUSEDDEATH} %."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","При поражении герой может возродиться в виде хозяина жути. Шанс {CHANCEINCREASEPERSTEP} % за {INSANITYPERSTEP} ед. безумия у героя, до максимума {MAXCHANCEINCREASE} %.

@@ -526,15 +526,19 @@ Dit geldt ook voor statuseffectoppeppers en -aandoeningen, positieve en negatiev
 "herocard.passive_skill.description.resistsupportcharacter.troop.alldebuffs.with_chance","{CHANCE}% extra kans om alle statuseffecten te weerstaan."
 "herocard.passive_skill.description.revivalchancemodifier.all.enemies","De kans op terugkeer is kleiner voor alle vijanden in de strijd. De kans is {MODIFIER}% van de oorspronkelijke waarde."
 "herocard.passive_skill.description.revivalhealthmodifier.all.enemies.excluding.boss","Alle vijanden krijgen {HEALTHMODIFIER}% gezondheid als ze terugkeren. Niet van invloed op eindbazen."
-"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance","Als dit personage verslagen wordt, is er een kans dat het herboren wordt als een Eldritch-host. De kans is {CHANCEINCREASEPERSTEP}% per {INSANITYPERSTEP} waanzin voor dit personage, en maximaal {MAXCHANCEINCREASE}%. 
+"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance","Als dit personage verslagen wordt, is er een kans dat het herboren wordt als een Eldritch-host. De kans is {CHANCEINCREASEPERSTEP}% per {INSANITYPERSTEP} waanzin voor dit personage en maximaal {MAXCHANCEINCREASE}%.
 
-De Eldritch-host erft:
-{INHERITEDHEALTH}% gezondheid 
+De Eldritch-host heeft:
+{INHERITEDHEALTH}% geërfde gezondheid. 
 {ATTACK} aanval.
 {DEFENSE} verdediging.
 Speciale vaardigheid: Eldritch-verderf.
+De volgende speciale vaardigheid:
 
-Als dit personage zichzelf verslaat wanneer waanzin geactiveerd wordt, is de kans {CHANCEONSELFCAUSEDDEATH}%."
+{ALTERNATIVEFORMSPECIALTITLE}
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
+
+Als dit personage zichzelf verslaat terwijl waanzin wordt geactiveerd, is de kans op hergeboorte altijd {CHANCEONSELFCAUSEDDEATH}%."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Als dit personage verslagen wordt, is er een kans dat het herboren wordt als een Eldritch-host. De kans is {CHANCEINCREASEPERSTEP}% per {INSANITYPERSTEP} waanzin voor dit personage en maximaal {MAXCHANCEINCREASE}%.
 
 De Eldritch-host heeft:

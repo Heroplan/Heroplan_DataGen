@@ -200,7 +200,7 @@
   "This character is immune to status ailments that deal Frost damage and gains {HEALTHBOOST} boosted health and {MANA}% mana each time they resist.": "Герои обладает иммунитетом к недугам, наносящим урон от мороза, а при успешном сопротивлении увеличивает свое здоровье на {HEALTHBOOST} и получает {MANA}% маны.",
   "This character is immune to status ailments that affect healing.": "Персонаж обладает иммунитетом к недугам, которые влияют на лечение.",
   "This character is immune to status ailments that steal health.": "Персонаж обладает иммунитетом к недугам, которые крадут здоровье.",
-  "This character is immune to Insanity.": "Персонаж облажает иммунитетом к безумию.",
+  "This character is immune to Insanity.": "Персонаж обладает иммунитетом к безумию.",
   "This character is immune to status ailments that affect mana.": "Персонаж обладает иммунитетом к недугам, которые влияют на ману.",
   "This character is immune to status ailments that affect mana generation or prevent the use of Special Skills.": "Этот персонаж обладает иммунитетом к недугам, влияющим на генерацию маны или мешающим использованию особых навыков.",
   "This character has a {CHANCE}% chance to resist status ailments that affect mana or prevent the use of Special Skills.": "Этот персонаж с вероятностью {CHANCE}% устоит против недугов, влияющих на ману или мешающих использованию особых навыков.",

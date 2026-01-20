@@ -214,7 +214,7 @@
 "heroes.name.construct_skarn","斯卡溫"
 "heroes.name.construct_sylosis","賽洛西斯"
 "heroes.name.construct_tenebrae","天能布雷兒"
-"heroes.name.construct_zavok","柴沃克"
+"heroes.name.construct_zavok","薩伏特"
 "heroes.name.cultist_female_poisoner","蕾拉"
 "heroes.name.cultist_inventor","昆塔斯"
 "heroes.name.cultist_mage","巴特薩"

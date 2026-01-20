@@ -315,7 +315,7 @@
 "specials.name.chains_of_light","Valon ketjut"
 "specials.name.chakram_kick","Chakram-potku"
 "specials.name.challenge_the_strongest","Haaste vahvimmalle"
-"specials.name.champagne_hammer","Samppanjavasara"
+"specials.name.champagne_hammer","Pullovasara"
 "specials.name.champion_maneuver","Mestarin manööveri"
 "specials.name.championship_carrot","Mestaruusporkkana"
 "specials.name.change_stance","Uhkapelurin sivallus"

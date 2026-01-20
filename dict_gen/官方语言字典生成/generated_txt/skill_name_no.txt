@@ -315,7 +315,7 @@
 "specials.name.chains_of_light","Kjeder av lys"
 "specials.name.chakram_kick","Chakram-spark"
 "specials.name.challenge_the_strongest","Utfordre den sterkeste"
-"specials.name.champagne_hammer","Champagnehammer"
+"specials.name.champagne_hammer","Flaskehammer"
 "specials.name.champion_maneuver","Mestermanøver"
 "specials.name.championship_carrot","Mesterskapsgulrot"
 "specials.name.change_stance","Gamblers hugg"

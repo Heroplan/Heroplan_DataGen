@@ -21882,7 +21882,7 @@
         ],
         "statusEffects": [
           {
-            "id": "hp_recovery_athos_costume",
+            "id": "health_boost_recovery_athos_costume",
             "sideAffected": "Allies",
             "statusTargetType": "Single",
             "turns": 2
@@ -22874,7 +22874,7 @@
         ],
         "statusEffects": [
           {
-            "id": "hp_recovery_porthos_costume",
+            "id": "health_boost_recovery_porthos_costume",
             "sideAffected": "Allies",
             "statusTargetType": "Single",
             "turns": 6
@@ -64716,5 +64716,5 @@
       }
     ]
   },
-  "specialsConfigId": 1853752122
+  "specialsConfigId": 3174251682
 }

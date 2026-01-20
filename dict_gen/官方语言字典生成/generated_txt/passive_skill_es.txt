@@ -541,7 +541,10 @@ El huésped sobrenatural tiene:
  {INHERITEDHEALTH} % de vitalidad heredada
  {ATTACK} de ataque
  {DEFENSE} de defensa
- Habilidad especial: Plaga sobrenatural
+ La habilidad especial:
+
+{ALTERNATIVEFORMSPECIALTITLE}
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 Si este personaje cae derrotado cuando se activa la demencia, siempre tiene un {CHANCEONSELFCAUSEDDEATH} % de probabilidad de renacer."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Si este personaje cae derrotado, tiene una probabilidad de renacer como huésped sobrenatural. La probabilidad es del {CHANCEINCREASEPERSTEP} % por cada {INSANITYPERSTEP} de demencia que tenga el personaje hasta un máximo del {MAXCHANCEINCREASE} %.

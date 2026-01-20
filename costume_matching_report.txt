@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (502 / 0)
+✅ 成功匹配的服装 (505 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -71,6 +71,9 @@ Name: Bera Costume1, Fancy Name: Conjurer of the Disir
 Name: Guardian Kong Costume1, Fancy Name: Conqueror Kong
 Name: Thoth-Amun Costume1, Fancy Name: Cosmic Conjurer
 Name: Zengar costume1, Fancy Name: Cultivating Beast
+Name: Cupido costume1, Fancy Name: Cupid of Fiery Passion
+Name: Zarola costume1, Fancy Name: Cupid of Lone Rangers
+Name: Voluptas costume1, Fancy Name: Cupid of Painters
 Name: Scarlett Costume2, Fancy Name: Dancer from the Sandsea
 Name: Azmia Costume1, Fancy Name: Dancing Tavern Keeper
 Name: Salmon Loki Costume1, Fancy Name: Dapper Fish

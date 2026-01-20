@@ -529,7 +529,10 @@ Inang Eldritch memiliki
 {INHERITEDHEALTH}% kesehatan yang diwarisi. 
 {ATTACK} serangan.
 {DEFENSE} pertahanan.
-Keahlian Khusus: Penyakit Eldritch.
+Keahlian Khusus berikut:
+
+{ALTERNATIVEFORMSPECIALTITLE}
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 Jika karakter ini mengalahan diri sendiri saat Kegilaan diaktifkan, peluangnya untuk terlahir kembali selalu {CHANCEONSELFCAUSEDDEATH}%."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Jika kalah, karakter ini berpeluang terlahir sebagai Inang Eldritch. Peluangnya {CHANCEINCREASEPERSTEP}% per {INSANITYPERSTEP} Kegilaan pada karakter ini, hingga peluang maks {MAXCHANCEINCREASE}%. 

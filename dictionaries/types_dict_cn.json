@@ -995,5 +995,10 @@
   "Source of Buffs All": "全体增益来源",
   "Delayed Paralyze on hit": "命中时延迟麻木",
   "Safely Dispels 1": "安全驱散 (单体)",
-  "Increases Ailments Duration by 5": "状态异常持续回合增加5"
+  "Increases Ailments Duration by 5": "状态异常持续回合增加5",
+  "Dispels latest Buff All": "全体移除最新增益",
+  "Boosted health convert All": "全体生命值加成转化",
+  "Reposition All": "全体重新排布",
+  "Damage Link 2": "2个目标伤害链接",
+  "Mindless Heal 2": "2个目标盲目治疗"
 }

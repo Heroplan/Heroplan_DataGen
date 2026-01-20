@@ -42,7 +42,7 @@
 "herocard.passive_skill.description.dodgespecialdamage","此角色有{CHANCE}%几率闪避可造成伤害的特殊技能。"
 "herocard.passive_skill.description.eatfamiliarsonspecialcast.parasite.allies.single","此角色施放特殊技能时摧毁所有恶魔。"
 "herocard.passive_skill.description.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","每{TURNS}回合，吞噬一名随机敌人的所有小兵，每吞噬一个小兵，都会获得少量法力。"
-"herocard.passive_skill.description.effectondamagedone.bufftoremove.minordebuff.latest.from.all.allies.safe.specialskill.only_criticals.once","当此角色使用特殊技能造成暴击时，安全精华从所有敌人处获得的可精华状态异常。此效果每回合可激活一次。"
+"herocard.passive_skill.description.effectondamagedone.bufftoremove.minordebuff.latest.from.all.allies.safe.specialskill.only_criticals.once","当此角色使用特殊技能造成暴击时，可以安全地清除所有友方单位身上最近一次可清除的异常状态。此效果每回合可激活一次。"
 "herocard.passive_skill.description.effectondamagedone.healthboost.all.allies.specialskill.only_criticals.once","当此角色使用特殊技能造成暴击时，所有盟友获得{HEALTHBOOST}%生命加成。此效果每回合可激活一次。"
 "herocard.passive_skill.description.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill.single.allies.onceperturn","当此角色的特殊技能命中比其当前生命值更高的角色时，获得{PASSIVESKILL1HEALTHBOOST}%生命值加成。
 当此角色被当前生命值更高的角色的特殊技能命中时，获得{PASSIVESKILL2POWER}%的法力。
@@ -148,7 +148,6 @@
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill","通过特殊技能获得的法力将减少{MODIFIER}%。此效果适用于战场上的所有敌人。"
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect","通过特殊技能、被动技能、家族奖励和状态效果获得的法力将减少{MODIFIER}%。此效果适用于战场上的所有敌人。"
 "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm","通过特殊技能、被动技能、家族奖励和状态效果获得的法力将减少{MODIFIER}%。此效果适用于战场上的所有敌人。"
-"herocard.passive_skill.description.managenerationmodifier.none","{MODIFIER}%法力生成。"
 "herocard.passive_skill.description.manaonownfamiliardeath.minion","每次摧毁此角色的一名小兵，该角色都会获得少量的法力。"
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all","此角色的天赋能回溯敌人用特殊技能所召唤的任何小兵或恶魔。敌人所召唤的最后一个小兵和恶魔会被回溯，直到此角色施放特殊技能为止。"
 "herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all#2","此角色的天赋能回溯敌人用特殊技能所召唤的任何小兵或恶魔。敌人所召唤的最后{0}个小兵和恶魔会被回溯，直到此角色施放特殊技能为止。"
@@ -547,7 +546,10 @@
 {INHERITEDHEALTH}%继承生命值。
 {ATTACK}攻击力。
 {DEFENSE}防御力。
-特殊技能：邪神荒疫。
+以下特殊技能：
+
+{ALTERNATIVEFORMSPECIALTITLE}
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 若因自身狂乱效果而被自己击败，重生几率始终为{CHANCEONSELFCAUSEDDEATH}%。"
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","被击败后，此角色有几率以上古邪神宿主的姿态重生。该角色每有{INSANITYPERSTEP}点狂乱值，几率便会提升{CHANCEINCREASEPERSTEP}%，最多可提升至{MAXCHANCEINCREASE}%。

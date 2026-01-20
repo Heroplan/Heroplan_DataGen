@@ -315,7 +315,7 @@
 "specials.name.chains_of_light","Łańcuchy światła"
 "specials.name.chakram_kick","Uderzenie czakramem"
 "specials.name.challenge_the_strongest","Wyzwanie najsilniejszego"
-"specials.name.champagne_hammer","Szampański młot"
+"specials.name.champagne_hammer","Młot w butelce"
 "specials.name.champion_maneuver","Manewr czempiona"
 "specials.name.championship_carrot","Mistrzowska marchewka"
 "specials.name.change_stance","Cios ryzykanta"

@@ -1,6 +1,6 @@
-"specials.v2.bigminion.aberration_big_minion.single","Fremkaller en avviker-undersått for hver alliert med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren. 
+"specials.v2.bigminion.aberration_big_minion.single","Påkaller en avviker-megaundersått med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren. 
 
-Hvert treff fra en avviker-undersått påfører målet følgende statuslidelse:"
+Hvert treff fra en avviker-megaundersått påfører målet følgende statuslidelse:"
 "specials.v2.bigminion.black_boar_mega_minion.single","Påkaller en svart villsvin-megaundersått med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren."
 "specials.v2.bigminion.body_guard_mega_minion.single","Påkaller en livvakt-megaundersått med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren."
 "specials.v2.bigminion.goblin_rat_princess.single","Påkaller en rotteprinsesse-megaundersått med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren."
@@ -1124,14 +1124,17 @@ Summons a Seedling Fiend to each hit enemy."
 "specials.v2.property.tileenhancement.manamultiplier.both.blue","Endrer styrken til alle is-skjold på brettet. Når en angripende helt bruker spesialangrepet, blir skjoldene forbedret, og de gir {MODIFIERATTACKER} % mer mana. Når en forsvarende helt bruker spesialangrepet, svekkes skjoldene, og de gir {MODIFIERDEFENDER} % mindre mana."
 "specials.v2.property.tileenhancement.manamultiplier.both.green","Endrer styrken til alle natur-skjold på brettet. Når en angripende helt bruker spesialangrepet, blir skjoldene forbedret, og de gir {MODIFIERATTACKER} % mer mana. Når en forsvarende helt bruker spesialangrepet, svekkes skjoldene, og de gir {MODIFIERDEFENDER} % mindre mana."
 "specials.v2.property.tileenhancement.manamultiplier.both.purple","Endrer styrken til alle mørke skjold på brettet. Når en angripende helt bruker spesialangrepet, blir skjoldene forbedret, og de gir {MODIFIERATTACKER} % mer mana. Når en forsvarende helt bruker spesialangrepet, svekkes skjoldene, og de gir {MODIFIERDEFENDER} % mindre mana."
+"specials.v2.property.tileenhancement.manamultiplier.both.red","Endrer styrken til alle ild-skjold på brettet. Når en angripende helt bruker spesialangrepet, blir skjoldene forbedret, og de gir {MODIFIERATTACKER} % mer mana. Når en forsvarende helt bruker spesialangrepet, svekkes skjoldene, og de gir {MODIFIERDEFENDER} % mindre mana."
 "specials.v2.property.tileenhancement.manamultiplier.both.yellow","Endrer styrken til alle hellig-skjold på brettet. Når en angripende helt bruker spesialangrepet, blir skjoldene forbedret, og de gir {MODIFIERATTACKER} % mer mana. Når en forsvarende helt bruker spesialangrepet, svekkes skjoldene, og de gir {MODIFIERDEFENDER} % mindre mana."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.blue","Forbedrer alle is-skjold på brettet. Forbedrede skjold gir heltene {MODIFIERDEFENDER} % mindre mana."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.green","Forbedrer alle natur-skjold på brettet. Forbedrede skjold gir heltene {MODIFIERDEFENDER} % mindre mana."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.purple","Forbedrer alle mørk-skjold på brettet. Forbedrede skjold gir heltene {MODIFIERDEFENDER} % mindre mana."
+"specials.v2.property.tileenhancement.manamultiplier.npcs.red","Forbedrer alle ild-skjold på brettet. Forbedrede skjold gir heltene {MODIFIERDEFENDER} % mindre mana."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.yellow","Forbedrer alle hellig-skjold på brettet. Forbedrede skjold gir heltene {MODIFIERDEFENDER} % mindre mana."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.blue","Forbedrer alle is-skjold på brettet. Forbedrede skjold gir heltene {MODIFIERATTACKER} % mer mana."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.green","Forbedrer alle natur-skjold på brettet. Forbedrede skjold gir heltene {MODIFIERATTACKER} % mer mana."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.purple","Forbedrer alle mørk-skjold på brettet. Forbedrede skjold gir heltene {MODIFIERATTACKER} % mer mana."
+"specials.v2.property.tileenhancement.manamultiplier.playercharacters.red","Forbedrer alle ild-skjold på brettet. Forbedrede skjold gir heltene {MODIFIERATTACKER} % mer mana."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.yellow","Forbedrer alle hellig-skjold på brettet. Forbedrede skjold gir heltene {MODIFIERATTACKER} % mer mana."
 "specials.v2.property.upgrademinortomajorbasedontilecount.yellow","Hvis det er {REQUIREDTILECOUNT} eller flere hellige skjold på brettet, er alle effekter brukt i denne spesialeffekten umulige å fjerne."
 "specials.v2.property.wither.extra","Visne og vekst modifiserer figurens egenskapsscore. Effekten blir værende selv om figuren beseires.

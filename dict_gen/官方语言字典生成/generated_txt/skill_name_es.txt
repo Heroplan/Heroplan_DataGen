@@ -315,7 +315,7 @@
 "specials.name.chains_of_light","Cadenas de luz"
 "specials.name.chakram_kick","Patada de chakram"
 "specials.name.challenge_the_strongest","Desafío para los más fuertes"
-"specials.name.champagne_hammer","Martillo de champán"
+"specials.name.champagne_hammer","Martillo de botella"
 "specials.name.champion_maneuver","Maniobra campeona"
 "specials.name.championship_carrot","Zanahoria de campeonato"
 "specials.name.change_stance","Sablazo de tahúr"

@@ -1,4 +1,4 @@
-"specials.v2.bigminion.aberration_big_minion.single","Призывает мегаприслужника-мутанта с {FAMILIARHEALTHPERCENT} % здоровья и {FAMILIARATTACK} % атаки, получаемых от героя.
+"specials.v2.bigminion.aberration_big_minion.single","Призывает мегаприслужника-мутанта с {FAMILIARHEALTHPERCENT} % здоровья и {FAMILIARATTACK} % атаки героя.
 
 Каждый удар мегаприслужника-мутанта дает цели следующий недуг:"
 "specials.v2.bigminion.black_boar_mega_minion.single","Призывает черного мегавепря с {FAMILIARHEALTHPERCENT} % здоровья и {FAMILIARATTACK} % атаки, получаемой от героя."
@@ -1127,14 +1127,17 @@
 "specials.v2.property.tileenhancement.manamultiplier.both.blue","Изменяет силу всех щитов льда на поле. Когда атакующий герой использует особый навык, щиты усиливаются и приносят на {MODIFIERATTACKER} % больше маны. Если особый навык использует герой защиты, щиты ослабляются и приносят на {MODIFIERDEFENDER} % меньше маны."
 "specials.v2.property.tileenhancement.manamultiplier.both.green","Изменяет силу всех щитов природы на поле. Когда атакующий герой использует особый навык, щиты усиливаются и приносят на {MODIFIERATTACKER} % больше маны. Если особый навык использует герой защиты, щиты ослабляются и приносят на {MODIFIERDEFENDER} % меньше маны."
 "specials.v2.property.tileenhancement.manamultiplier.both.purple","Изменяет силу всех щитов тьмы на поле. Когда атакующий герой использует особый навык, щиты усиливаются и приносят на {MODIFIERATTACKER} % больше маны. Если особый навык использует герой защиты, щиты ослабляются и приносят на {MODIFIERDEFENDER} % меньше маны."
+"specials.v2.property.tileenhancement.manamultiplier.both.red","Изменяет силу всех щитов огня на поле. Когда атакующий герой использует особый навык, щиты усиливаются и приносят на {MODIFIERATTACKER} % больше маны. Если особый навык использует герой защиты, щиты ослабляются и приносят на {MODIFIERDEFENDER} % меньше маны."
 "specials.v2.property.tileenhancement.manamultiplier.both.yellow","Изменяет силу всех щитов святыни на поле. Когда атакующий герой использует особый навык, щиты усиливаются и приносят на {MODIFIERATTACKER} % больше маны. Если особый навык использует герой защиты, щиты ослабляются и приносят на {MODIFIERDEFENDER} % меньше маны."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.blue","Усиливает все щиты льда на поле. Усиленные щиты приносят на {MODIFIERDEFENDER} % меньше маны героям."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.green","Усиливает все щиты природы на поле. Усиленные щиты приносят на {MODIFIERDEFENDER} % меньше маны героям."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.purple","Усиливает все щиты тьмы на поле. Усиленные щиты приносят на {MODIFIERDEFENDER} % меньше маны героям."
+"specials.v2.property.tileenhancement.manamultiplier.npcs.red","Усиливает все щиты огня на поле. Усиленные щиты приносят на {MODIFIERDEFENDER} % меньше маны героям."
 "specials.v2.property.tileenhancement.manamultiplier.npcs.yellow","Усиливает все щиты святыни на поле. Усиленные щиты приносят на {MODIFIERDEFENDER} % меньше маны героям."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.blue","Усиливает все щиты льда на поле. Усиленные щиты приносят на {MODIFIERATTACKER} % больше маны героям."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.green","Усиливает все щиты природы на поле. Усиленные щиты приносят на {MODIFIERATTACKER} % больше маны героям."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.purple","Усиливает все щиты тьмы на поле. Усиленные щиты приносят на {MODIFIERATTACKER} % больше маны героям."
+"specials.v2.property.tileenhancement.manamultiplier.playercharacters.red","Усиливает все щиты огня на поле. Усиленные щиты приносят на {MODIFIERATTACKER} % больше маны героям."
 "specials.v2.property.tileenhancement.manamultiplier.playercharacters.yellow","Усиливает все щиты святыни на поле. Усиленные щиты приносят на {MODIFIERATTACKER} % больше маны героям."
 "specials.v2.property.upgrademinortomajorbasedontilecount.yellow","Если на поле {REQUIREDTILECOUNT} или больше щитов святыни, все эффекты, используемые в этом особом навыке, нельзя снять."
 "specials.v2.property.wither.extra","Рост и увядание изменяют счет способностей героев. Эффект сохраняется, даже если герой погибает.

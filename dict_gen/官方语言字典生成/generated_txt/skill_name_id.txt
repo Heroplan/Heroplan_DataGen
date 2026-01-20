@@ -315,7 +315,7 @@
 "specials.name.chains_of_light","Rantai Cahaya"
 "specials.name.chakram_kick","Tendangan Cakram"
 "specials.name.challenge_the_strongest","Menantang yang Terkuat"
-"specials.name.champagne_hammer","Palu Sampanye"
+"specials.name.champagne_hammer","Palu Botol"
 "specials.name.champion_maneuver","Manuver Juara"
 "specials.name.championship_carrot","Wortel Kejuaraan"
 "specials.name.change_stance","Sabetan Penjudi"

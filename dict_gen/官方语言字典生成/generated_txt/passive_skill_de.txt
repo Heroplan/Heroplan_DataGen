@@ -539,7 +539,10 @@ Der Gespenstische Wirt hat:
 {INHERITEDHEALTH} % vererbtes Leben. 
 {ATTACK} Angriff.
 {DEFENSE} Verteidigung.
-Spezialfähigkeit: Gespentische Fäule.
+Folgende Spezialfähigkeit: 
+
+{ALTERNATIVEFORMSPECIALTITLE}
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 Wenn sich dieser Charakter bei Aktivierung von Wahnsinn selbst besiegt, beträgt die Chance {CHANCEONSELFCAUSEDDEATH} %."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Wenn er besiegt wurde, hat dieser Charakter eine Chance, als Gespenstischer Wirt wiedergeboren zu werden. Die Chance beträgt {CHANCEINCREASEPERSTEP} % pro {INSANITYPERSTEP} Wahnsinn auf diesem Charakter, bis zu maximal {MAXCHANCEINCREASE} %.

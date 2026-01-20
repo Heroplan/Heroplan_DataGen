@@ -545,7 +545,10 @@ Den uhyggelige verten har:
 {INHERITEDHEALTH} % nedarvet helse. 
 {ATTACK} angrep.
 {DEFENSE} forsvar.
-Spesialferdighet: Uhyggelig trussel.
+Følgende spesialferdighet:
+
+{ALTERNATIVEFORMSPECIALTITLE}
+{ALTERNATIVEFORMSPECIALDESCRIPTION}
 
 Hvis denne figuren beseirer seg selv når galskap aktiveres, er sjansen {CHANCEONSELFCAUSEDDEATH} %."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Hvis den beseires, har denne figuren en sjanse til å bli gjenfødt som en uhyggelig vert. Sjansen er {CHANCEINCREASEPERSTEP} % per {INSANITYPERSTEP} galskap på denne figuren, opptil en maksimal sjanse på {MAXCHANCEINCREASE} %.

@@ -23,8 +23,8 @@
     "element": "绿",
     "family": "爱神家族",
     "baseHealth": 402,
-    "baseAttack": 315,
-    "baseDefense": 273,
+    "baseAttack": 316,
+    "baseDefense": 274,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "resist_special_blocking"
@@ -42,8 +42,8 @@
     "element": "黄",
     "family": "爱神家族",
     "baseHealth": 653,
-    "baseAttack": 306,
-    "baseDefense": 303,
+    "baseAttack": 307,
+    "baseDefense": 304,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "resist_special_blocking"
@@ -61,8 +61,8 @@
     "element": "红",
     "family": "爱神家族",
     "baseHealth": 750,
-    "baseAttack": 410,
-    "baseDefense": 391,
+    "baseAttack": 411,
+    "baseDefense": 392,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "resist_special_blocking"
@@ -16694,7 +16694,7 @@
     "specialId": "火枪手蜂蜜酒",
     "canBeReceivedDate": "2022-12-14 07:00:00",
     "origin": "勇者与美人",
-    "costumeBonusesId": "musketeer"
+    "costumeBonusesId": "musketeer_dec_2025"
   },
   "musketeer_queen_anne": {
     "id": "安娜王后",
@@ -22301,7 +22301,7 @@
     "element": "蓝",
     "family": "火枪手家族",
     "baseHealth": 766,
-    "baseAttack": 417,
+    "baseAttack": 416,
     "baseDefense": 400,
     "manaSpeedId": "慢",
     "passiveSkills": [
@@ -28298,9 +28298,9 @@
     "id": "吉特尼布",
     "element": "蓝",
     "family": "野猫家族",
-    "baseHealth": 1086,
-    "baseAttack": 641,
-    "baseDefense": 611,
+    "baseHealth": 1107,
+    "baseAttack": 670,
+    "baseDefense": 600,
     "manaSpeedId": "慢",
     "passiveSkills": [
       "resist_all_defense_effects",
@@ -30430,7 +30430,7 @@
     "origin": "盟约召唤"
   },
   "construct_zavok": {
-    "id": "扎沃克",
+    "id": "萨伏特",
     "element": "紫",
     "family": "机械家族",
     "baseHealth": 1109,
@@ -31778,7 +31778,7 @@
     "hasImprovedTalentSkill": true,
     "aetherGift": "Attack Up",
     "rarity": 5,
-    "specialId": "香槟重锤",
+    "specialId": "瓶锤",
     "canBeReceivedDate": "2026-01-07 07:00:00",
     "origin": "Season1",
     "parentHeroId": "理查德"
@@ -32190,9 +32190,9 @@
     "id": "洛朗",
     "element": "绿",
     "family": "美女与野兽家族",
-    "baseHealth": 1090,
-    "baseAttack": 603,
-    "baseDefense": 610,
+    "baseHealth": 1108,
+    "baseAttack": 637,
+    "baseDefense": 643,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
@@ -32597,9 +32597,9 @@
     "id": "伊贝莉丝",
     "element": "黄",
     "family": "星体恶魔",
-    "baseHealth": 1037,
-    "baseAttack": 651,
-    "baseDefense": 618,
+    "baseHealth": 1073,
+    "baseAttack": 660,
+    "baseDefense": 631,
     "manaSpeedId": "飞速",
     "passiveSkills": [
       "never_miss_special",
@@ -32637,9 +32637,9 @@
     "id": "卢米与泰加",
     "element": "蓝",
     "family": "泰坦猎手家族",
-    "baseHealth": 1102,
-    "baseAttack": 651,
-    "baseDefense": 598,
+    "baseHealth": 1108,
+    "baseAttack": 650,
+    "baseDefense": 627,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "titan_hunter_hunting_flare_on_special_cast",
@@ -32788,9 +32788,9 @@
     "id": "莱姆皮",
     "element": "蓝",
     "family": "爱神家族",
-    "baseHealth": 1100,
-    "baseAttack": 620,
-    "baseDefense": 630,
+    "baseHealth": 1109,
+    "baseAttack": 634,
+    "baseDefense": 644,
     "manaSpeedId": "飞速",
     "passiveSkills": [
       "resist_special_blocking"
@@ -32806,9 +32806,9 @@
     "id": "弗农",
     "element": "绿",
     "family": "爱神家族",
-    "baseHealth": 1081,
-    "baseAttack": 630,
-    "baseDefense": 628,
+    "baseHealth": 1106,
+    "baseAttack": 640,
+    "baseDefense": 638,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "resist_special_blocking"

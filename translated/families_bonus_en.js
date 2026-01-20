@@ -618,8 +618,8 @@ window.families_bonus = [
         "originalIndex": 64,
         "name": "cupid",
         "bonus": [
-            "Cupid Family supports other families and realms",
-            "Solo Heroes get +20% increase for any healing received. Team members are Solo Heroes if they have no family or realm members in the Team.",
+            "Cupid Family grants a solo bonus for any Hero who is the only  member of their family on the team:",
+            " * +20% increase for any healing received.",
             "The members of this family have additional perks in the Season of Love event."
         ]
     },

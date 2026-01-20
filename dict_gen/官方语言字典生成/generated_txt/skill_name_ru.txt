@@ -315,7 +315,7 @@
 "specials.name.chains_of_light","Цепи света"
 "specials.name.chakram_kick","Удар шакрама"
 "specials.name.challenge_the_strongest","Вызов сильнейшему"
-"specials.name.champagne_hammer","Молот шампанского"
+"specials.name.champagne_hammer","Бутылочный молот"
 "specials.name.champion_maneuver","Геройский маневр"
 "specials.name.championship_carrot","Чемпионская морковь"
 "specials.name.change_stance","Удар наудачу"

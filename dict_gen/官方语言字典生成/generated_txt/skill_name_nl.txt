@@ -315,7 +315,7 @@
 "specials.name.chains_of_light","Ketenen van het licht"
 "specials.name.chakram_kick","Chakramschop"
 "specials.name.challenge_the_strongest","De sterkste uitdagen"
-"specials.name.champagne_hammer","Champagnehamer"
+"specials.name.champagne_hammer","Fleshamer"
 "specials.name.champion_maneuver","Kampioensmanoeuvre"
 "specials.name.championship_carrot","Kampioenschapswortel"
 "specials.name.change_stance","Houw van de gokker"
