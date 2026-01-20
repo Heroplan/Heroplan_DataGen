@@ -97,16 +97,5 @@
         "costume_id": 5,
         "heroId": "elven_captain_costume_stylish",
         "Lottery_Only": 1
-    },
-    {
-        "name": "Gitnib",
-        "fancy_name": "Unlucky Tigris Fisher",
-        "color": "Blue",
-        "Release date": "",
-        "star": 5,
-        "family": "wild_cat",
-        "costume_id": 0,
-        "heroId": "wild_cat_gitnib",
-        "Lottery_Only": 1
     }
 ]

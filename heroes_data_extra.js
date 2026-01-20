@@ -43325,5 +43325,30 @@ window.allHeroesExtra = [
         "healthBonus": "18%",
         "manaBonus": "5%",
         "family": "cupid"
+    },
+    {
+        "name": "Gitnib",
+        "fancy name": "Unlucky Tigris Fisher",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
+        "Release date": "2026-01-20",
+        "AetherPower": "Boosted Regen",
+        "skill_types": [
+            "DoT Attackers",
+            "Fiends Summoners",
+            "Extra Damage Dealers"
+        ],
+        "heroId": "wild_cat_gitnib",
+        "baseAttack": 670,
+        "baseDefense": 600,
+        "baseHealth": 1107,
+        "specialId": "the_piranha_incident",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "family": "wild_cat"
     }
 ];
