@@ -43350,5 +43350,32 @@ window.allHeroesExtra = [
             "revive_chance_nine_lives"
         ],
         "family": "wild_cat"
+    },
+    {
+        "name": "Ibelis",
+        "fancy name": "Astral Demon Shadowguard",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "very_fast",
+        "Release date": "2026-01-21",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Bypassers",
+            "Snipers",
+            "Mana Reducers or Blockers",
+            "DoT Attackers"
+        ],
+        "heroId": "astral_demon_ibelis",
+        "baseAttack": 660,
+        "baseDefense": 631,
+        "baseHealth": 1073,
+        "specialId": "sickle_trouble",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
+        ],
+        "family": "astral_demons"
     }
 ];

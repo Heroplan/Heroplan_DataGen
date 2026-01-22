@@ -44,17 +44,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Ibelis",
-        "fancy_name": "Astral Demon Shadowguard",
-        "color": "Yellow",
-        "Release date": "",
-        "star": 5,
-        "family": "astral_demons",
-        "costume_id": 0,
-        "heroId": "astral_demon_ibelis",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Lumi & Taiga",
         "fancy_name": "Warden of the Tundra",
         "color": "Blue",

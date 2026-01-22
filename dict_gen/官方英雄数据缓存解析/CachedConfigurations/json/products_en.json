@@ -1694,6 +1694,7 @@
         "productType": "Bundle",
         "id": "com.smallgiantgames.empires.bundle_pve_energy_refill_offer",
         "dollarValue": 4,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36021,6 +36022,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -58234,5 +58236,5 @@
       }
     ]
   },
-  "productsConfigId": 2855627747
+  "productsConfigId": 1888702135
 }
