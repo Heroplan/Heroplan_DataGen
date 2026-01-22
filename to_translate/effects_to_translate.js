@@ -1673,7 +1673,7 @@ const allTranslations =
             "All enemies receive 1500 Surge Bleed damage over 6 turns. (If the target already has this effect, the duration will be refreshed and the damage will be increased by 300, Max total damage: 3000.)",
             "Summons a Piranha Fiend to all enemies. The Fiend damages the enemy with 80% attack every turn.",
             "The Piranha Fiend absorbs healing. It disappears after absorbing a healing amount equal to 55% of its targets max health.",
-            "Deals 400 - 800 damage to all enemies after 3 turns or if the caster is defeated, based on the damage the caster had taken while this effect was active. The effect cannot be dispelled. (Maximmum effect is achieved upon taking 50% of max health  in damage.)"
+            "Deals 400 - 800 damage to all enemies after 3 turns or if the caster is defeated, based on the damage the caster had taken while this effect was active. (Maximmum effect is achieved upon taking 50% of max health  in damage.)"
         ]
     },
     {

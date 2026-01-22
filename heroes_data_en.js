@@ -1,4 +1,5 @@
-window.allHeroes = [
+window.allHeroes = 
+[
     {
         "name": "Brand",
         "fancy_name": "Carefree Adventurer",
@@ -338,13 +339,13 @@ window.allHeroes = [
         ],
         "passives": [
             "Transform Ailments: Each time this character casts their Special Skill, all cleansable status ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs. Transformed effects:",
-            " * Attack status ailments are transformed into +40% attack buffs for 3 turns.",
-            " * Defense status ailments are transformed into +40% defense buffs for 3 turns.",
-            " * Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns.",
+            "* Attack status ailments are transformed into +40% attack buffs for 3 turns.",
+            "* Defense status ailments are transformed into +40% defense buffs for 3 turns.",
+            "* Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
-            " * Up to +35% mana generation.",
-            " * Up to +25% extra chance to dodge.",
-            " * The effects diminish the less Flight Momentum character has.",
+            "* Up to +35% mana generation.",
+            "* Up to +25% extra chance to dodge.",
+            "* The effects diminish the less Flight Momentum character has.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magic_carpet",
@@ -416,8 +417,8 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
-            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 153 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 153 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
         "costume_id": 0,
@@ -1426,8 +1427,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies get -24% mana generation for 3 turns."
+            "* Deals 70% damage to all enemies.",
+            "* All enemies get -24% mana generation for 3 turns."
         ],
         "family": "moon",
         "costume_id": 0,
@@ -1496,8 +1497,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies get -24% mana generation for 3 turns.",
+            "* Deals 70% damage to all enemies.",
+            "* All enemies get -24% mana generation for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Resist Sand Damage: This character has innate resistance against sand damage."
         ],
@@ -2265,10 +2266,10 @@ window.allHeroes = [
             "The caster gets +30% chance to dodge Special Skills that deal damage for 3 turns.",
             "Casts Dance of the Little Swan to all allies but caster for 3 turns. All existing status effects will be removed when this effect is added.",
             "Dance of the Little Swan",
-            " * +30% chance to dodge attacks and Special Skills.",
-            " * 35% chance to deal 240% damage to a random enemy after any subsequent allied Special Skill is cast.",
-            " * Gives immunity to new status effects. New dance status effects will replace this effect.",
-            " * This effect cannot be dispelled. The effect is removed when the caster dies."
+            "* +30% chance to dodge attacks and Special Skills.",
+            "* 35% chance to deal 240% damage to a random enemy after any subsequent allied Special Skill is cast.",
+            "* Gives immunity to new status effects. New dance status effects will replace this effect.",
+            "* This effect cannot be dispelled. The effect is removed when the caster dies."
         ],
         "passives": [
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
@@ -3186,16 +3187,16 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 2 turns.",
-            " * Deals 64 - 222 damage on all enemies after 2 turns, based on the damage the caster had taken while this effect was active. Maximum effect is achieved upon taking 50% of max health in damage.",
+            "* The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 2 turns.",
+            "* Deals 64 - 222 damage on all enemies after 2 turns, based on the damage the caster had taken while this effect was active. Maximum effect is achieved upon taking 50% of max health in damage.",
             "2nd:",
-            " * The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns.",
-            " * Deals 124 - 351 damage on all enemies after 3 turns, based on the damage the caster had taken while this effect was active. Maximum effect is achieved upon taking 50% of max health in damage."
+            "* The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns.",
+            "* Deals 124 - 351 damage on all enemies after 3 turns, based on the damage the caster had taken while this effect was active. Maximum effect is achieved upon taking 50% of max health in damage."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns."
+            "* Deals 80% damage to all enemies.",
+            "* All allies get +21% critical chance for 2 turns."
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
@@ -3260,16 +3261,16 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 2 turns.",
-            " * Deals 56 - 214 damage on all enemies after 2 turns, based on the damage the caster had taken while this effect was active. Maximum effect is achieved upon taking 50% of max health in damage.",
+            "* The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 2 turns.",
+            "* Deals 56 - 214 damage on all enemies after 2 turns, based on the damage the caster had taken while this effect was active. Maximum effect is achieved upon taking 50% of max health in damage.",
             "2nd:",
-            " * The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns.",
-            " * Deals 165 - 392 damage on all enemies after 3 turns, based on the damage the caster had taken while this effect was active. Maximum effect is achieved upon taking 50% of max health in damage."
+            "* The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns.",
+            "* Deals 165 - 392 damage on all enemies after 3 turns, based on the damage the caster had taken while this effect was active. Maximum effect is achieved upon taking 50% of max health in damage."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns.",
+            "* Deals 80% damage to all enemies.",
+            "* All allies get +21% critical chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "tales1_goodies",
@@ -3334,8 +3335,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
-            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
-            " * Cleanses the latest cleansable status ailments from all allies."
+            "* Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            "* Cleanses the latest cleansable status ailments from all allies."
         ],
         "family": "sun",
         "costume_id": 0,
@@ -3406,8 +3407,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
-            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
-            " * Cleanses the latest cleansable status ailments from all allies.",
+            "* Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            "* Cleanses the latest cleansable status ailments from all allies.",
             "Guaranteed Effect on Special Skill: When this character casts their Special Skill that grant extra effect on cast are guaranteed to activate.",
             "Health Recover on Buff Received: This character recovers 5% HP when they receive a buff or positive stack."
         ],
@@ -3478,8 +3479,8 @@ window.allHeroes = [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
             "Destructive Core: The Construct Core of this character is Destructive Core.",
             "The Destructive Core activates each time this character's Special Skill is cast",
-            " * With fully charged Destructive Core, deals 180% damage to all enemies.",
-            " * The damage is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
+            "* With fully charged Destructive Core, deals 180% damage to all enemies.",
+            "* The damage is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -4035,8 +4036,8 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
-            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 193 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 193 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
         "costume_id": 0,
@@ -4100,7 +4101,7 @@ window.allHeroes = [
         ],
         "passives": [
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
-            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
+            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed."
         ],
         "family": "masquerade",
         "costume_id": 0,
@@ -5471,9 +5472,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -5754,8 +5755,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Mana on Damage Received:",
-            " * When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
-            " * Maximum of 10% mana gained per turn.",
+            "* When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
+            "* Maximum of 10% mana gained per turn.",
             "Extra Damage to Minions & Mega Minions: This character does +150% damage to Minions and Mega Minions."
         ],
         "family": "mahayoddha",
@@ -6882,10 +6883,10 @@ window.allHeroes = [
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " * Alpha Aether",
-            " * Ice Aether III",
-            " * Ice Aether II",
-            " * Ice Aether I"
+            "* Alpha Aether",
+            "* Ice Aether III",
+            "* Ice Aether II",
+            "* Ice Aether I"
         ],
         "family": "mimic",
         "costume_id": 0,
@@ -7369,17 +7370,17 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
             "1x Mana Charge:",
-            " * Deals 200% damage to all enemies.",
-            " * All enemies get -25% decrease of any healing received for 3 turns.",
+            "* Deals 200% damage to all enemies.",
+            "* All enemies get -25% decrease of any healing received for 3 turns.",
             "2x Mana Charge:",
-            " * Deals 315% damage to all enemies.",
-            " * Summons a Styx Spirit Fiend for all enemies. The Fiend damages its target with 40% attack every turn.",
-            " * The Styx Spirit Fiend absorbs healing. It disappears after absorbing a healing amount equal to 25% if its target's max health.",
+            "* Deals 315% damage to all enemies.",
+            "* Summons a Styx Spirit Fiend for all enemies. The Fiend damages its target with 40% attack every turn.",
+            "* The Styx Spirit Fiend absorbs healing. It disappears after absorbing a healing amount equal to 25% if its target's max health.",
             "3x Mana Charge:",
-            " * Deals 365% damage to all enemies.",
-            " * Summons a Styx Spirit Fiend for all enemies. The Fiend damages its target with 40% attack every turn.",
-            " * The Styx Spirit Fiend absorbs healing. It disappears after absorbing a healing amount equal to 25% if its target's max health.",
-            " * All enemies get -75% decrease of any healing received for 4 turns."
+            "* Deals 365% damage to all enemies.",
+            "* Summons a Styx Spirit Fiend for all enemies. The Fiend damages its target with 40% attack every turn.",
+            "* The Styx Spirit Fiend absorbs healing. It disappears after absorbing a healing amount equal to 25% if its target's max health.",
+            "* All enemies get -75% decrease of any healing received for 4 turns."
         ],
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
@@ -7544,8 +7545,8 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 309 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 309 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
+            "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 0,
@@ -7612,9 +7613,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -7680,9 +7681,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +150%",
+            "- Dealt extra elemental damage: +150%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -25%"
+            "- Received elemental damage: -25%"
         ],
         "family": "super_elemental",
         "costume_id": 1,
@@ -8033,19 +8034,19 @@ window.allHeroes = [
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " ****",
-            " - Damascus Blade",
-            " - Tome Of Tactics",
-            " - Farsight Telescope",
-            " ***",
-            " - Fine Gloves",
-            " - Compass",
-            " - Warm Cape",
-            " - Battle Manual",
-            " - Tall Boots",
-            " - Chainmail Shirt",
-            " **",
-            " - Strong Rope"
+            "****",
+            "- Damascus Blade",
+            "- Tome Of Tactics",
+            "- Farsight Telescope",
+            "***",
+            "- Fine Gloves",
+            "- Compass",
+            "- Warm Cape",
+            "- Battle Manual",
+            "- Tall Boots",
+            "- Chainmail Shirt",
+            "**",
+            "- Strong Rope"
         ],
         "family": "mimic",
         "costume_id": 0,
@@ -8348,16 +8349,16 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * All enemies receive Corrosive Frost for 4 turns. Corrosive Frost deals 211 Frost damage and lowers the target's attack by -8% each turn.",
-            " * The caster steals 28% of generated mana from all enemies over 4 turns. This effect can't be cleansed, but it gets removed if the caster is defeated.",
+            "* All enemies receive Corrosive Frost for 4 turns. Corrosive Frost deals 211 Frost damage and lowers the target's attack by -8% each turn.",
+            "* The caster steals 28% of generated mana from all enemies over 4 turns. This effect can't be cleansed, but it gets removed if the caster is defeated.",
             "2nd:",
-            " * All enemies receive Corrosive Frost for 4 turns. Corrosive Frost deals 275 Frost damage and lowers the target's attack by -13% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
-            " * The caster steals 28% of generated mana from all enemies over 4 turns. This effect can't be cleansed, but it gets removed if the caster is defeated."
+            "* All enemies receive Corrosive Frost for 4 turns. Corrosive Frost deals 275 Frost damage and lowers the target's attack by -13% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
+            "* The caster steals 28% of generated mana from all enemies over 4 turns. This effect can't be cleansed, but it gets removed if the caster is defeated."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
-            " * Deals 80% damage to all enemies.",
-            " * The caster get +19% mana generation for 2 turns."
+            "* Deals 80% damage to all enemies.",
+            "* The caster get +19% mana generation for 2 turns."
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
@@ -8433,16 +8434,16 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * All enemies receive Corrosive Frost for 4 turns. The Corrosive Frost deals 258 Frost damage and lowers the target's attack by -7% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
-            " * The caster steals 27% of generated mana from all enemies over 4 turns. This effect can't be cleansed, but it gets removed if the caster is defeated.",
+            "* All enemies receive Corrosive Frost for 4 turns. The Corrosive Frost deals 258 Frost damage and lowers the target's attack by -7% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
+            "* The caster steals 27% of generated mana from all enemies over 4 turns. This effect can't be cleansed, but it gets removed if the caster is defeated.",
             "2nd:",
-            " * All enemies receive Corrosive Frost for 4 turns. The Corrosive Frost deals 371 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
-            " * The caster steals 30% of generated mana from all enemies over 4 turns. This effect can't be cleansed, but it gets removed if the caster is defeated."
+            "* All enemies receive Corrosive Frost for 4 turns. The Corrosive Frost deals 371 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
+            "* The caster steals 30% of generated mana from all enemies over 4 turns. This effect can't be cleansed, but it gets removed if the caster is defeated."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
-            " * Deals 80% damage to all enemies.",
-            " * The caster get +19% mana generation for 2 turns.",
+            "* Deals 80% damage to all enemies.",
+            "* The caster get +19% mana generation for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "tales1_baddies",
@@ -8666,13 +8667,13 @@ window.allHeroes = [
         ],
         "passives": [
             "Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:",
-            " * Attack buffs are transformed into -40% attack status ailments for 3 turns.",
-            " * Defense buffs are transformed into -40% defense status ailments for 3 turns.",
-            " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
+            "* Attack buffs are transformed into -40% attack status ailments for 3 turns.",
+            "* Defense buffs are transformed into -40% defense status ailments for 3 turns.",
+            "* Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
-            " * Up to +35% mana generation.",
-            " * Up to +25% extra chance to dodge.",
-            " * The effects diminish the less Flight Momentum character has.",
+            "* Up to +35% mana generation.",
+            "* Up to +25% extra chance to dodge.",
+            "* The effects diminish the less Flight Momentum character has.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magic_carpet",
@@ -8742,8 +8743,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
-            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
-            " * Cleanses the latest cleansable status ailment from all allies."
+            "* Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            "* Cleanses the latest cleansable status ailment from all allies."
         ],
         "family": "sun",
         "costume_id": 0,
@@ -8809,8 +8810,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
-            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
-            " * Cleanses the latest cleansable status ailment from all allies.",
+            "* Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            "* Cleanses the latest cleansable status ailment from all allies.",
             "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.",
             "Health Recover on Buff Received: This character recovers 5% HP when they receive a buff or positive stack."
         ],
@@ -9299,11 +9300,11 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * Boosts health of all allies by 400. Boosted health can exceed max HP.",
-            " * All allies get +40% defense against Special Skill for 3 turns.",
+            "* Boosts health of all allies by 400. Boosted health can exceed max HP.",
+            "* All allies get +40% defense against Special Skill for 3 turns.",
             "2x Mana Charge:",
-            " * Reduce max health of all enemies by 800. Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 800.",
-            " * All enemies get -54% defense against Special Skill for 5 turns."
+            "* Reduce max health of all enemies by 800. Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 800.",
+            "* All enemies get -54% defense against Special Skill for 5 turns."
         ],
         "passives": [
             "Damage on Special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.",
@@ -9387,12 +9388,12 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * Boosts health of all allies by 450. Boosted health can exceed max HP.",
-            " * All allies get +45% defense against Special Skill for 3 turns.",
+            "* Boosts health of all allies by 450. Boosted health can exceed max HP.",
+            "* All allies get +45% defense against Special Skill for 3 turns.",
             "2x Mana Charge:",
-            " * Reduce max health of all enemies by 900. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 800.)",
-            " * All enemies get -58% defense against Special Skill for 5 turns.",
-            " * All enemies get -45% decrease for any healing for 5 turns."
+            "* Reduce max health of all enemies by 900. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 800.)",
+            "* All enemies get -58% defense against Special Skill for 5 turns.",
+            "* All enemies get -45% decrease for any healing for 5 turns."
         ],
         "passives": [
             "Damage on Special: When this character casts their Special Skill, they have a 60% chance to deal 150% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.",
@@ -9545,9 +9546,9 @@ window.allHeroes = [
         ],
         "passives": [
             "Unstoppable Minions:",
-            " * Resistance against Minion removal.",
-            " * Can't be prevented from receiving Minions.",
-            " * Minion attack and abilities can't be disabled."
+            "* Resistance against Minion removal.",
+            "* Can't be prevented from receiving Minions.",
+            "* Minion attack and abilities can't be disabled."
         ],
         "family": "kingdom",
         "costume_id": 1,
@@ -9695,7 +9696,7 @@ window.allHeroes = [
             "Golem's Stoneskin drops all damage dealt to the owner to 1, but is removed after 1 hit."
         ],
         "passives": [
-            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. ",
+            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed.",
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
         "family": "masquerade",
@@ -9829,17 +9830,17 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Deals 350% damage to the target and minor damage to all other enemies.",
-            " * If hit enemies use their Special Skill in the next 4 turns, they get -34% attack, -34% defense and -24% mana generation for 4 turns. Status effects are added at the end of a Special Skill. Status effects will not be added if this status effect is removed during a Special Skill.",
+            "* Deals 350% damage to the target and minor damage to all other enemies.",
+            "* If hit enemies use their Special Skill in the next 4 turns, they get -34% attack, -34% defense and -24% mana generation for 4 turns. Status effects are added at the end of a Special Skill. Status effects will not be added if this status effect is removed during a Special Skill.",
             "2nd:",
-            " * Deals 470% damage to the target and minor damage to all other enemies.",
-            " * If hit enemies use their Special Skill in the next 4 turns, they get -34% attack, -34% defense and -24% mana generation for 4 turns. Status effects are added at the end of a Special Skill. Status effects will not be added if this status effect is removed during a Special Skill.",
-            " * All enemies receive 436 Water damage over 4 turns. The caster absorbs 50% of the dealt Water damage as health."
+            "* Deals 470% damage to the target and minor damage to all other enemies.",
+            "* If hit enemies use their Special Skill in the next 4 turns, they get -34% attack, -34% defense and -24% mana generation for 4 turns. Status effects are added at the end of a Special Skill. Status effects will not be added if this status effect is removed during a Special Skill.",
+            "* All enemies receive 436 Water damage over 4 turns. The caster absorbs 50% of the dealt Water damage as health."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns."
+            "* Deals 80% damage to all enemies.",
+            "* All allies get +21% critical chance for 2 turns."
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
@@ -9919,17 +9920,17 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Deals 340% damage to the target and minor damage to all other enemies.",
-            " * If hit enemies use their Special Skill in the next 4 turns, they get -24% attack, -24% defense and -14% mana generation for 4 turns. Status effects are added at the end of a Special Skill. Status effects will not be added if this status effect is removed during a Special Skill.",
+            "* Deals 340% damage to the target and minor damage to all other enemies.",
+            "* If hit enemies use their Special Skill in the next 4 turns, they get -24% attack, -24% defense and -14% mana generation for 4 turns. Status effects are added at the end of a Special Skill. Status effects will not be added if this status effect is removed during a Special Skill.",
             "2nd:",
-            " * Deals 500% damage to the target and minor damage to all other enemies.",
-            " * If hit enemies use their Special Skill in the next 5 turns, they get -39% attack, -44% defense and -24% mana generation for 5 turns. Status effects are added at the end of a Special Skill. Status effects will not be added if this status effect is removed during a Special Skill.",
-            " * All enemies receive 735 Water damage over 5 turns. The caster absorbs 50% of the dealt Water damage as health."
+            "* Deals 500% damage to the target and minor damage to all other enemies.",
+            "* If hit enemies use their Special Skill in the next 5 turns, they get -39% attack, -44% defense and -24% mana generation for 5 turns. Status effects are added at the end of a Special Skill. Status effects will not be added if this status effect is removed during a Special Skill.",
+            "* All enemies receive 735 Water damage over 5 turns. The caster absorbs 50% of the dealt Water damage as health."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns.",
+            "* Deals 80% damage to all enemies.",
+            "* All allies get +21% critical chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "tales1_goodies",
@@ -10145,12 +10146,12 @@ window.allHeroes = [
         "health": 2148,
         "effects": [
             "If any enemy has the Toxin status ailment:",
-            " * All enemies receive 985 Toxin damage over 5 turns. Damage is increased against targets with boosted health, Minions or a Mega Minion. (The Toxin damage is increased by +100% against targets with boosted health. The Toxin damage is increased by +33% per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)",
-            " * Dispels buffs from all enemies.",
-            " * All allies regenerate 1300 bosted health over 5 turns. Boosted health can exceed max HP.",
+            "* All enemies receive 985 Toxin damage over 5 turns. Damage is increased against targets with boosted health, Minions or a Mega Minion. (The Toxin damage is increased by +100% against targets with boosted health. The Toxin damage is increased by +33% per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)",
+            "* Dispels buffs from all enemies.",
+            "* All allies regenerate 1300 bosted health over 5 turns. Boosted health can exceed max HP.",
             "Otherwise:",
-            " * All enemies receive 790 Toxin damage over 5 turns. Damage is increased against targets with boosted health, Minions or a Mega Minion. (The Toxin damage is increased by +100% against targets with boosted health. The Toxin damage is increased by +33% per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)",
-            " * Dispels buffs from all enemies."
+            "* All enemies receive 790 Toxin damage over 5 turns. Damage is increased against targets with boosted health, Minions or a Mega Minion. (The Toxin damage is increased by +100% against targets with boosted health. The Toxin damage is increased by +33% per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)",
+            "* Dispels buffs from all enemies."
         ],
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
@@ -10237,8 +10238,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Mana on Damage Received:",
-            " * When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
-            " * Maximum of 10% mana gained per turn.",
+            "* When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
+            "* Maximum of 10% mana gained per turn.",
             "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions."
         ],
         "family": "mahayoddha",
@@ -10896,10 +10897,10 @@ window.allHeroes = [
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " * Master Sorcerer Emblems",
-            " * Master Wizard Emblems",
-            " * Sorcerer Emblems",
-            " * Wizard Emblems"
+            "* Master Sorcerer Emblems",
+            "* Master Wizard Emblems",
+            "* Sorcerer Emblems",
+            "* Wizard Emblems"
         ],
         "family": "mimic",
         "costume_id": 0,
@@ -10988,12 +10989,12 @@ window.allHeroes = [
         "passives": [
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
             "The Eldritch Host has:",
-            " * 100% inherited health.",
-            " * 1200 attack.",
-            " * 1200 defense.",
+            "* 100% inherited health.",
+            "* 1200 attack.",
+            "* 1200 defense.",
             "Special Skill: Eldrich Bright.",
-            " * Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            " * Inflicts 30 Insanity on the caster.",
+            "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
+            "* Inflicts 30 Insanity on the caster.",
             "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
         ],
         "family": "institute",
@@ -11286,11 +11287,11 @@ window.allHeroes = [
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " * Common Ice Trainer Heroes",
-            " * Uncommon Ice Trainer Heroes",
-            " * Rare Ice Trainer Heroes",
-            " * Common Ice Heroes",
-            " * Uncommon Ice Heroes"
+            "* Common Ice Trainer Heroes",
+            "* Uncommon Ice Trainer Heroes",
+            "* Rare Ice Trainer Heroes",
+            "* Common Ice Heroes",
+            "* Uncommon Ice Heroes"
         ],
         "family": "mimic",
         "costume_id": 0,
@@ -11780,8 +11781,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill.",
-            " * Deals 90% damage to all enemies.",
-            " * All enemies get -25% accuracy for 3 turns."
+            "* Deals 90% damage to all enemies.",
+            "* All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
         "costume_id": 0,
@@ -11854,7 +11855,7 @@ window.allHeroes = [
             "When summoned, the Corrupted Mask Fiend gives -36% attack for its owner for as long as the owner has Corrupted Mask Fiends. This effect can't be cleansed."
         ],
         "passives": [
-            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
+            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed."
         ],
         "family": "masquerade",
         "costume_id": 0,
@@ -12212,8 +12213,8 @@ window.allHeroes = [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
             "Destructive Core: The Construct Core of this character is Destructive Core.",
             "The Destructive Core activates each time this character's Special Skill is cast",
-            " * With fully charged Destructive Core, deals 180% damage to all enemies.",
-            " * The damage is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
+            "* With fully charged Destructive Core, deals 180% damage to all enemies.",
+            "* The damage is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -12283,18 +12284,18 @@ window.allHeroes = [
             "All enemies receive 1500 Surge Bleed damage over 6 turns. (If the target already has this effect, the duration will be refreshed and the damage will be increased by 300, Max total damage: 3000.)",
             "Summons a Piranha Fiend to all enemies. The Fiend damages the enemy with 80% attack every turn.",
             "The Piranha Fiend absorbs healing. It disappears after absorbing a healing amount equal to 55% of its targets max health.",
-            "Deals 400 - 800 damage to all enemies after 3 turns or if the caster is defeated, based on the damage the caster had taken while this effect was active.  (Maximmum effect is achieved upon taking 50% of max health  in damage.)"
+            "Deals 400 - 800 damage to all enemies after 3 turns or if the caster is defeated, based on the damage the caster had taken while this effect was active. (Maximmum effect is achieved upon taking 50% of max health  in damage.)"
         ],
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills.",
+            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
             "This includes:",
-            " * - Status effect buffs and ailments.",
-            " * - Positive and negative stacks.",
-            " * - Growth and Wither effects."
+            "* - Status effect buffs and ailments.",
+            "* - Positive and negative stacks.",
+            "* - Growth and Wither effects."
         ],
         "family": "wild_cat",
         "costume_id": 0,
@@ -12370,7 +12371,10 @@ window.allHeroes = [
         ],
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
-            "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast * With fully charged Minion Core, summon Killer Bot Minion with 22% HP and 55% attack inherited from the caster on all allies. * The HP and attack inherited from the caster are scaled by the amount of charge int the Core. All charge is exhausted when the Core is activated. * Before the Killer Bot Minion hits a target, it destroys all Minion from the target and damages Mega Minions."
+            "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast",
+            "* With fully charged Minion Core, summon Killer Bot Minion with 22% HP and 55% attack inherited from the caster on all allies.",
+            "* The HP and attack inherited from the caster are scaled by the amount of charge int the Core. All charge is exhausted when the Core is activated.",
+            "* Before the Killer Bot Minion hits a target, it destroys all Minion from the target and damages Mega Minions."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -12670,8 +12674,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill.",
-            " * Deals 90% damage to all enemies.",
-            " * All enemies get -25% accuracy for 3 turns."
+            "* Deals 90% damage to all enemies.",
+            "* All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
         "costume_id": 0,
@@ -12806,9 +12810,9 @@ window.allHeroes = [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core.",
             "The Minion Core activates each time this character's Special Skill is cast:",
-            " * With fully charged Minion Core, summon a Killer Bot Minion with 22% HP and 55% attack inherited from the caster on all allies.",
-            " * The HP and attack inherited from the caster is scaled by the amount of charge in Core. All charge is exhausted when the Core is activated.",
-            " * Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions."
+            "* With fully charged Minion Core, summon a Killer Bot Minion with 22% HP and 55% attack inherited from the caster on all allies.",
+            "* The HP and attack inherited from the caster is scaled by the amount of charge in Core. All charge is exhausted when the Core is activated.",
+            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -12873,8 +12877,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
-            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
-            " * Cleanses the latest cleansable status ailment from all allies."
+            "* Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            "* Cleanses the latest cleansable status ailment from all allies."
         ],
         "family": "sun",
         "costume_id": 0,
@@ -12952,8 +12956,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
-            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
-            " * Cleanses the latest cleansable status ailment from all allies.",
+            "* Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            "* Cleanses the latest cleansable status ailment from all allies.",
             "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skill that grant extra effects on cast are guaranteed to activate.",
             "Health Recover on Buff Received: This character recovers 5% HP when they receive a buff or positive stack."
         ],
@@ -13105,8 +13109,8 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
-            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 315 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 315 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
         "costume_id": 0,
@@ -13183,9 +13187,9 @@ window.allHeroes = [
             "Reduces the mana of all enemies by 20%.",
             "All enemies get -24% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
             "Source of Buffs: The following effects are cast on a random ally at the start of each turn",
-            " * +70% attack for 5 turns.",
-            " * +50% defense for 5 turns.",
-            " * The Source of Buffs will activate 4 times. Each attempt to dispel it removes one activation."
+            "* +70% attack for 5 turns.",
+            "* +50% defense for 5 turns.",
+            "* The Source of Buffs will activate 4 times. Each attempt to dispel it removes one activation."
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
@@ -13813,9 +13817,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -13893,7 +13897,7 @@ window.allHeroes = [
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
             "Resist Insanity: This character has innate resistance against Insanity.",
-            "Resist Defense Ailments: This character has innate resistance against status ailments, stacks and Wither effects that affect defense. "
+            "Resist Defense Ailments: This character has innate resistance against status ailments, stacks and Wither effects that affect defense."
         ],
         "family": "faun",
         "costume_id": 0,
@@ -14027,18 +14031,18 @@ window.allHeroes = [
         "effects": [
             "Cook random foord for special effect (Activation chance for each effect):",
             "- Exquiste Food (45%)",
-            "  * Recovers 50% health for all allies.",
+            "* Recovers 50% health for all allies.",
             "* Growth: All allies get 400 defense.",
             "- Rotten Food (45%)",
-            "  * Deals 350% damage to all enemies.",
-            "  * All enemies receive 965 Poison damage over 5 turns.",
+            "* Deals 350% damage to all enemies.",
+            "* All enemies receive 965 Poison damage over 5 turns.",
             "- Catastrophic Kitchen Failure (10%)",
-            "  * Deals 100% damage to all allies and all enemies."
+            "* Deals 100% damage to all allies and all enemies."
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill.",
-            " * Deals 90% damage to all enemies.",
-            " * All enemies get -25% accuracy for 3 turns."
+            "* Deals 90% damage to all enemies.",
+            "* All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
         "costume_id": 0,
@@ -14403,9 +14407,9 @@ window.allHeroes = [
         "passives": [
             "Thief's Opportunity: At the start of each turn this character has a 50% chance to Ransack a random enemy",
             "Ransack:",
-            " * Steals 200 health.",
-            " * Safely steals one random Growth effect, positive stack, or status effect buff from the enemy. This includes undispellable buffs and Dance effects.",
-            " * Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate.",
+            "* Steals 200 health.",
+            "* Safely steals one random Growth effect, positive stack, or status effect buff from the enemy. This includes undispellable buffs and Dance effects.",
+            "* Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate.",
             "Cheat Death: The first time this character would receive fatal damage, they instead redirect that damage to a random enemy. In battles with multiple waves, the effect is refreshed at the begining of each wave."
         ],
         "family": "shady_scoundrels",
@@ -14554,14 +14558,14 @@ window.allHeroes = [
         ],
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills.",
+            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
             "This includes:",
-            " * - Status effect buffs and ailments.",
-            " * - Positive and negative stacks.",
-            " * - Growth and Wither effects."
+            "* - Status effect buffs and ailments.",
+            "* - Positive and negative stacks.",
+            "* - Growth and Wither effects."
         ],
         "family": "wild_cat",
         "costume_id": 0,
@@ -14623,7 +14627,7 @@ window.allHeroes = [
             "Copies target's Special Skill and uses it as if it was the caster's own Special Skill.",
             "If the target does not have a Special Skill or it can't be copied, the following special skill will be cast",
             "Villain Swing:",
-            " * Deals 275% damage to the target"
+            "* Deals 275% damage to the target"
         ],
         "passives": [],
         "family": "jotunheim",
@@ -14682,7 +14686,7 @@ window.allHeroes = [
             "Copies target's Special Skill and uses it in addition to the caster's own Special Skill.",
             "If the target does not have a Special Skill, or it can't be copied, the following Special Skill will be cast:",
             "Scoundrel Swing:",
-            " * Deals 265% damage to the target."
+            "* Deals 265% damage to the target."
         ],
         "passives": [],
         "family": "jotunheim",
@@ -15766,11 +15770,11 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * Recovers 25% health for all allies.",
-            " * Cleanses status ailments from all allies.",
+            "* Recovers 25% health for all allies.",
+            "* Cleanses status ailments from all allies.",
             "2x Mana Charge:",
-            " * Deals 420% damage to all enemies.",
-            " * Dispels buffs from all enemies."
+            "* Deals 420% damage to all enemies.",
+            "* Dispels buffs from all enemies."
         ],
         "passives": [
             "Mana on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%."
@@ -15852,12 +15856,12 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% mana:",
             "1x Mana Charge:",
-            " * Recovers 26% health for all allies.",
-            " * Cleanses status ailments from all allies.",
+            "* Recovers 26% health for all allies.",
+            "* Cleanses status ailments from all allies.",
             "2x Mana Charge:",
-            " * Deals 440% damage to all enemies.",
-            " * Dispels buffs from all enemies.",
-            " * All enemies receive 340 Frost damage over 5 turns."
+            "* Deals 440% damage to all enemies.",
+            "* Dispels buffs from all enemies.",
+            "* All enemies receive 340 Frost damage over 5 turns."
         ],
         "passives": [
             "Mana on Special: When this character casts their Special Skill, they have a 60% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.",
@@ -16340,9 +16344,9 @@ window.allHeroes = [
             "The caster and nearby allies decrease -10% mana from the attacker on each counterattack for 3 turns. The effect get diminished for consecutive activations during the same turn.",
             "Stack (Max: 10): All allies get +15% attack.",
             "Source of Buffs: The following effects are cast on a random ally at the start of each turn",
-            " * +100% Special Skill damage for 4 turns.",
-            " * +33% mana generation for 4 turns.",
-            " * The Source of Buffs will activate 4 times. Each attempt to dispel it removes one activation."
+            "* +100% Special Skill damage for 4 turns.",
+            "* +33% mana generation for 4 turns.",
+            "* The Source of Buffs will activate 4 times. Each attempt to dispel it removes one activation."
         ],
         "passives": [
             "Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
@@ -16788,8 +16792,8 @@ window.allHeroes = [
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
             "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
-            " * With fully charged Repair Core, boosts the health of all allies by 25%.",
-            " * The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
+            "* With fully charged Repair Core, boosts the health of all allies by 25%.",
+            "* The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -17090,9 +17094,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -17164,10 +17168,10 @@ window.allHeroes = [
             "The caster gets +45% chance to dodge Special Skills that deal damage for 3 turns.",
             "Casts Dance of the Swan to all allies but caster for 3 turns. All existing status effects will be removed when this effect is added.",
             "Dance of the Swan",
-            " * +45% chance to dodge attacks and Special Skills.",
-            " * 50% chance to deal 360 % damage to a random enemy after any subsequent allied Special Skill is cast.",
-            " * Gives immunity to new status effects. New dance status effects will replace this effect.",
-            " * This effect cannot be dispelled. This effect is removed when the caster is defeated."
+            "* +45% chance to dodge attacks and Special Skills.",
+            "* 50% chance to deal 360 % damage to a random enemy after any subsequent allied Special Skill is cast.",
+            "* Gives immunity to new status effects. New dance status effects will replace this effect.",
+            "* This effect cannot be dispelled. This effect is removed when the caster is defeated."
         ],
         "passives": [
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
@@ -17243,17 +17247,17 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
-            " - Boosts health of caster by 390. Boosted health can exceed max HP.",
-            " - The caster gets Taunt that prevents enemies from using Special Skill on the caster's allies for 2 turns. This effect can't be dispelled.",
-            " - The caster counterattacks with 50% of the damage received for 2 turns.",
+            "- Boosts health of caster by 390. Boosted health can exceed max HP.",
+            "- The caster gets Taunt that prevents enemies from using Special Skill on the caster's allies for 2 turns. This effect can't be dispelled.",
+            "- The caster counterattacks with 50% of the damage received for 2 turns.",
             "x2 Mana Charge:",
-            " - Boosts health of caster by 490. Boosted health can exceed max HP.",
-            " - The caster gets Taunt that prevents enemies from using Special Skill on the caster's allies for 3 turns. This effect can't be dispelled.",
-            " - The caster counterattacks with 105% of the damage received for 3 turns.",
+            "- Boosts health of caster by 490. Boosted health can exceed max HP.",
+            "- The caster gets Taunt that prevents enemies from using Special Skill on the caster's allies for 3 turns. This effect can't be dispelled.",
+            "- The caster counterattacks with 105% of the damage received for 3 turns.",
             "x3 Mana Charge:",
-            " - Boosts health of caster by 540. Boosted health can exceed max HP.",
-            " - The caster gets Taunt that prevents enemies from using Special Skill on the caster's allies for 4 turns. This effect can't be dispelled.",
-            " - The caster counterattacks with 133% of the damage received for 3 turns."
+            "- Boosts health of caster by 540. Boosted health can exceed max HP.",
+            "- The caster gets Taunt that prevents enemies from using Special Skill on the caster's allies for 4 turns. This effect can't be dispelled.",
+            "- The caster counterattacks with 133% of the damage received for 3 turns."
         ],
         "passives": [],
         "family": "ninja",
@@ -18067,9 +18071,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -18830,14 +18834,14 @@ window.allHeroes = [
         "effects": [
             "Draw a card for a special effect:",
             "Skull",
-            " * Deals 270% damage to all enemies.",
-            " * All enemies receive 156 damage over 3 turns.",
+            "* Deals 270% damage to all enemies.",
+            "* All enemies receive 156 damage over 3 turns.",
             "Cross",
-            " * Recovers 27% health for all allies.",
-            " * Cleanses status ailments from all allies.",
+            "* Recovers 27% health for all allies.",
+            "* Cleanses status ailments from all allies.",
             "Stars",
-            " * All enemies get -34% defense for 3 turns.",
-            " * All allies get +48% attack for 3 turns."
+            "* All enemies get -34% defense for 3 turns.",
+            "* All allies get +48% attack for 3 turns."
         ],
         "passives": [],
         "family": "fable",
@@ -18922,14 +18926,14 @@ window.allHeroes = [
         "effects": [
             "Draw a card for a special effect:",
             "Skull",
-            " * Reduces max health of all enemies by 550. Max health can't get lower than 30% of the original max health.",
-            " * All enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 69 Poison damage and lowers the target's mana generation by -9% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* Reduces max health of all enemies by 550. Max health can't get lower than 30% of the original max health.",
+            "* All enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 69 Poison damage and lowers the target's mana generation by -9% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "Cross",
-            " * Boosts health of all allies by 620. Boosted health can exceed max HP.",
-            " * All allies are immune to new status ailments for 4 turns.",
+            "* Boosts health of all allies by 620. Boosted health can exceed max HP.",
+            "* All allies are immune to new status ailments for 4 turns.",
             "Stars",
-            " * All enemies get -54% mana generation for 4 turns. This effect can't be cleansed.",
-            " * All enemies are immune to new status effect buffs for 4 turns."
+            "* All enemies get -54% mana generation for 4 turns. This effect can't be cleansed.",
+            "* All enemies are immune to new status effect buffs for 4 turns."
         ],
         "passives": [],
         "family": "fable",
@@ -19847,8 +19851,8 @@ window.allHeroes = [
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
             "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast:",
-            " * All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 153 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 153 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -20133,8 +20137,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies receive 255 Sand damage over 3 turns."
+            "* Deals 70% damage to all enemies.",
+            "* All enemies receive 255 Sand damage over 3 turns."
         ],
         "family": "sun",
         "costume_id": 0,
@@ -20205,8 +20209,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies receive 363 Sand damage over 3 turns.",
+            "* Deals 70% damage to all enemies.",
+            "* All enemies receive 363 Sand damage over 3 turns.",
             "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage an additional 50% is added to its power."
         ],
@@ -20289,10 +20293,10 @@ window.allHeroes = [
         ],
         "passives": [
             "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
-            "Righteous Rebellion: ",
-            " * When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
-            " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
-            " * Each of these effects can activate once per turn.",
+            "Righteous Rebellion:",
+            "* When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
+            "* When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
+            "* Each of these effects can activate once per turn.",
             "Resist Bleed: This character is immune to status ailments that deal Bleed damage."
         ],
         "family": "outlaw",
@@ -20592,8 +20596,8 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
-            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 346 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 346 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
         "costume_id": 0,
@@ -20878,17 +20882,17 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Boosts health of all allies by 550. Boosted health can exceed max HP.",
-            " * All allies are immune to new status ailments for 3 turns.",
+            "* Boosts health of all allies by 550. Boosted health can exceed max HP.",
+            "* All allies are immune to new status ailments for 3 turns.",
             "2nd:",
-            " * Boosts health of all allies by 650. Boosted health can exceed max HP.",
-            " * The duration of status ailments is reset for all enemies.",
-            " * All allies are immune to new status ailments for 3 turns."
+            "* Boosts health of all allies by 650. Boosted health can exceed max HP.",
+            "* The duration of status ailments is reset for all enemies.",
+            "* All allies are immune to new status ailments for 3 turns."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns.",
+            "* Deals 80% damage to all enemies.",
+            "* All allies get +21% critical chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "tales1_goodies",
@@ -20961,17 +20965,17 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st",
-            " * Boosts health of all allies by 500. Boosted health can exceed max HP.",
-            " * All allies are immune to new status ailments for 3 turns.",
+            "* Boosts health of all allies by 500. Boosted health can exceed max HP.",
+            "* All allies are immune to new status ailments for 3 turns.",
             "2nd",
-            " * Boosts health of all allies by 800. Boosted health can exceed max HP.",
-            " * The duration of status ailments is reset for all enemies.",
-            " * All allies are immune to new status ailments for 4 turns."
+            "* Boosts health of all allies by 800. Boosted health can exceed max HP.",
+            "* The duration of status ailments is reset for all enemies.",
+            "* All allies are immune to new status ailments for 4 turns."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns.",
+            "* Deals 80% damage to all enemies.",
+            "* All allies get +21% critical chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "tales1_goodies",
@@ -21722,12 +21726,12 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * Summons an Enchanted Sigil Minion for each ally with 15% HP and 20% attack inherited from the caster.",
-            " * When summoned, the Enchanted Sigil Minion gives +20% mana generation for its owner for as long as the owner has Enchanted Sigil Minions. This effect can't be dispelled.",
+            "* Summons an Enchanted Sigil Minion for each ally with 15% HP and 20% attack inherited from the caster.",
+            "* When summoned, the Enchanted Sigil Minion gives +20% mana generation for its owner for as long as the owner has Enchanted Sigil Minions. This effect can't be dispelled.",
             "2x Mana Charge:",
-            " * Summons a Cursed Sigil Field to all enemies. The Fiend damages its target with 100% attack every turn.",
-            " * The Cursed Sigil Fiend absorbs healing. It disappers after absorbing a healing amount equal to 60% of its target's max health.",
-            " * When summoned, the Cursed Sigil Fiend give -38% mana generation for its owner for as long as the owner has Cursed Sigil Fiends. This effect can't be cleansed."
+            "* Summons a Cursed Sigil Field to all enemies. The Fiend damages its target with 100% attack every turn.",
+            "* The Cursed Sigil Fiend absorbs healing. It disappers after absorbing a healing amount equal to 60% of its target's max health.",
+            "* When summoned, the Cursed Sigil Fiend give -38% mana generation for its owner for as long as the owner has Cursed Sigil Fiends. This effect can't be cleansed."
         ],
         "passives": [
             "Damage on Special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.",
@@ -21807,12 +21811,12 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * Summons an Enchanted Sigil Minion for each ally with 16% HP and 25% attack inherited from the caster.",
-            " * When summoned, the Enchanted Sigil Minion gives small amount of mana for its owner for as long as the owner has Enchanted Sigil Minions. This effect can't be dispelled.",
+            "* Summons an Enchanted Sigil Minion for each ally with 16% HP and 25% attack inherited from the caster.",
+            "* When summoned, the Enchanted Sigil Minion gives small amount of mana for its owner for as long as the owner has Enchanted Sigil Minions. This effect can't be dispelled.",
             "2x Mana Charge:",
-            " * Summons a Cursed Sigil Field to all enemies. The Fiend damages its target with 120% attack every turn.",
-            " * The Cursed Sigil Fiend absorbs healing. It disappers after absorbing a healing amount equal to 70% of its target's max health.",
-            " * The caster steals 45% of generated mana from all enemies. The effect lasts as long as the target has Cursed Sigil Fiends. This effect can't be cleansed, but it gets removed if the caster is defeated."
+            "* Summons a Cursed Sigil Field to all enemies. The Fiend damages its target with 120% attack every turn.",
+            "* The Cursed Sigil Fiend absorbs healing. It disappers after absorbing a healing amount equal to 70% of its target's max health.",
+            "* The caster steals 45% of generated mana from all enemies. The effect lasts as long as the target has Cursed Sigil Fiends. This effect can't be cleansed, but it gets removed if the caster is defeated."
         ],
         "passives": [
             "Damage on Special: When this character casts their Special Skill, they have a 60% chance to deal 150% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.",
@@ -22035,23 +22039,23 @@ window.allHeroes = [
         "health": 2206,
         "effects": [
             "If the enemy has the Frost status ailment:",
-            " * Deals 310% damage to all enemies.",
-            " * Reduces the mana to of all enemies by 5%.",
-            " * All enemies receive 1630 Frost damage over 5 turns.",
+            "* Deals 310% damage to all enemies.",
+            "* Reduces the mana to of all enemies by 5%.",
+            "* All enemies receive 1630 Frost damage over 5 turns.",
             "Otherwise:",
-            " * Deals 260% damage to all enemies.",
-            " * All enemies receive 1275 Frost damage over 5 turns."
+            "* Deals 260% damage to all enemies.",
+            "* All enemies receive 1275 Frost damage over 5 turns."
         ],
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills.",
+            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
             "This includes:",
-            " * - Status effect buffs and ailments.",
-            " * - Positive and negative stacks.",
-            " * - Growth and Wither effects."
+            "* - Status effect buffs and ailments.",
+            "* - Positive and negative stacks.",
+            "* - Growth and Wither effects."
         ],
         "family": "wild_cat",
         "costume_id": 0,
@@ -22121,11 +22125,11 @@ window.allHeroes = [
         "health": 1915,
         "effects": [
             "If the enemy has the Frost status ailment:",
-            " * All enemies get -30% defense against Ice for 5 turns.",
-            " * Deals 270% damage to all enemies.",
+            "* All enemies get -30% defense against Ice for 5 turns.",
+            "* Deals 270% damage to all enemies.",
             "Otherwise:",
-            " * Deals 200% damage to all enemies.",
-            " * All enemies receive 705 Frost damage over 5 turns."
+            "* Deals 200% damage to all enemies.",
+            "* All enemies receive 705 Frost damage over 5 turns."
         ],
         "passives": [
             "Gargoyle's Softskin: Every time this Gargoyle casts a Special Skil, their Softskin activates. The next 3 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can't be dispelled."
@@ -22202,8 +22206,8 @@ window.allHeroes = [
         "effects": [
             "Summons a Harpoon Sentry Minion for each ally with 12% HP and 20% attack inherited from the caster.",
             "Each hit from a Harpoon Sentry Minion reduces the mana of the target by -5% and gives the target the following status ailments:",
-            " * The target gets -30% defense against Special Skills for 2 turns.",
-            " * The target is immune to new status effect buffs for 2 turns."
+            "* The target gets -30% defense against Special Skills for 2 turns.",
+            "* The target is immune to new status effect buffs for 2 turns."
         ],
         "passives": [
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
@@ -22353,10 +22357,10 @@ window.allHeroes = [
         ],
         "passives": [
             "Health Boost on Critical Special Attack: When this character scores a critical hit with their Special Skill, they boost the health of all their allies by 10%. This effect can activate once per turn.",
-            "Righteous Rebellion: ",
-            " * When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
-            " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
-            " * Each of these effects can activate once per turn.",
+            "Righteous Rebellion:",
+            "* When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
+            "* When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
+            "* Each of these effects can activate once per turn.",
             "Resist Bleed: This character is immune to status ailments that deal Bleed damage."
         ],
         "family": "outlaw",
@@ -22501,9 +22505,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -22578,11 +22582,11 @@ window.allHeroes = [
             "Heals the caster by 30% of damage dealt."
         ],
         "passives": [
-            "'Troop Mastery:'",
+            "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +150%",
+            "- Dealt extra elemental damage: +150%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -25%"
+            "- Received elemental damage: -25%"
         ],
         "family": "super_elemental",
         "costume_id": 1,
@@ -22652,17 +22656,17 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "1x Mana Charge:",
-            " - All allies regenerate 144 boosted health over 2 turns. Boosted health can exceed max HP.",
-            " - All allies get +24% defense, and a further 5% increase every time they are hit during 2 turns.",
-            " - All allies are immune to buff dispels for 2 turns.",
+            "- All allies regenerate 144 boosted health over 2 turns. Boosted health can exceed max HP.",
+            "- All allies get +24% defense, and a further 5% increase every time they are hit during 2 turns.",
+            "- All allies are immune to buff dispels for 2 turns.",
             "2x Mana Charge:",
-            " - All allies regenerate 504 boosted health over 3 turns. Boosted health can exceed max HP.",
-            " - All allies get +34% defense, and a further 5% increase every time they are hit during 3 turns.",
-            " - All allies are immune to buff dispels for 3 turns.",
+            "- All allies regenerate 504 boosted health over 3 turns. Boosted health can exceed max HP.",
+            "- All allies get +34% defense, and a further 5% increase every time they are hit during 3 turns.",
+            "- All allies are immune to buff dispels for 3 turns.",
             "3x Mana Charge:",
-            " - All allies regenerate 980 boosted health over 4 turns. Boosted health can exceed max HP.",
-            " - All allies get +54% defense, and a further 5% increase every time they are hit during 4 turns.",
-            " - All allies are immune to buff dispels for 4 turns."
+            "- All allies regenerate 980 boosted health over 4 turns. Boosted health can exceed max HP.",
+            "- All allies get +54% defense, and a further 5% increase every time they are hit during 4 turns.",
+            "- All allies are immune to buff dispels for 4 turns."
         ],
         "passives": [],
         "family": "ninja",
@@ -22953,7 +22957,7 @@ window.allHeroes = [
             "Reduces max health of the target and nearby enemies by 204 over 3 turns. The effect is stronger against targets with boosted health. Max health can't get lower than 30% of max health. Any boosted health is reduced by an additional 68 per turn."
         ],
         "passives": [
-            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
+            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed."
         ],
         "family": "masquerade",
         "costume_id": 0,
@@ -23023,8 +23027,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Mana on Damage Received:",
-            " * When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
-            " * Maximum of 10% mana gained per turn.",
+            "* When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
+            "* Maximum of 10% mana gained per turn.",
             "Extra Damage to Minions & Mega Minions: This character does +150% damage to Minions and Mega Minions."
         ],
         "family": "mahayoddha",
@@ -23840,7 +23844,6 @@ window.allHeroes = [
             "The caster and nearby allies get +46% defense for 4 turns.",
             "The caster and nearby allies regenerate 612 HP over 4 turns.",
             "After 4 turns the caster gets status ailments.",
-            " ",
             "The status ailments that the caster gets after 4 turns are:",
             "The caster gets -34% attack for 4 turns. This effect can't be cleansed.",
             "The caster gets -34% defense for 4 turns. This effect can't be cleansed.",
@@ -24243,11 +24246,11 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * All allies become Soul Connected for 3 turns. Soul Connected allies share received damage.",
-            " * All allies get +63% defense for 3 turns.",
+            "* All allies become Soul Connected for 3 turns. Soul Connected allies share received damage.",
+            "* All allies get +63% defense for 3 turns.",
             "2x Mana Charge:",
-            " * All enemies become Soul Connected for 5 turns. Soul Connected enemies share received damage.",
-            " * All enemies get -56% defense for 5 turns."
+            "* All enemies become Soul Connected for 5 turns. Soul Connected enemies share received damage.",
+            "* All enemies get -56% defense for 5 turns."
         ],
         "passives": [
             "Status effect on special: When this character casts their Special Skill, they have a 50% chance to give -25% mana generation for 3 turns to all enemies. If the Special Skill is fully charged, the chance is 100%."
@@ -24375,8 +24378,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
-            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
-            " * Cleanses the latest cleansable status ailments from all allies."
+            "* Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            "* Cleanses the latest cleansable status ailments from all allies."
         ],
         "family": "sun",
         "costume_id": 0,
@@ -24446,8 +24449,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
-            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
-            " * Cleanses the latest cleansable status ailments from all allies.",
+            "* Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            "* Cleanses the latest cleansable status ailments from all allies.",
             "Guaranteed Effect On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effect on cast are guaranteed to activate.",
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ],
@@ -24578,14 +24581,14 @@ window.allHeroes = [
         ],
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills.",
+            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
             "This includes:",
-            " * - Status effect buffs and ailments.",
-            " * - Positive and negative stacks.",
-            " * - Growth and Wither effects."
+            "* - Status effect buffs and ailments.",
+            "* - Positive and negative stacks.",
+            "* - Growth and Wither effects."
         ],
         "family": "wild_cat",
         "costume_id": 0,
@@ -25787,10 +25790,10 @@ window.allHeroes = [
         "health": 975,
         "effects": [
             "If the caster has 35 or more Humility:",
-            " * Deals 270% damage to the target and minor damage to nearby enemies.",
-            " * The caster counterattacks with 90% of the damage received for 4 turns.",
+            "* Deals 270% damage to the target and minor damage to nearby enemies.",
+            "* The caster counterattacks with 90% of the damage received for 4 turns.",
             "Otherwise:",
-            " * Deals 250% damage to the target and minor damage to nearby enemies."
+            "* Deals 250% damage to the target and minor damage to nearby enemies."
         ],
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
@@ -25971,11 +25974,11 @@ window.allHeroes = [
         "health": 420,
         "effects": [
             "All allies become Bruiser Bros for 4 turns. If an ally is defeated while being a Bruiser Bro they will be reborn as a Chameleon with:",
-            " * 66% health.",
-            " * Increased attack.",
-            " * Decreased defense.",
+            "* 66% health.",
+            "* Increased attack.",
+            "* Decreased defense.",
             "* Devastating Special Skill: Fierce Slash.",
-            " * This effect cannot be dispelled."
+            "* This effect cannot be dispelled."
         ],
         "passives": [],
         "family": "lagoon",
@@ -26181,11 +26184,11 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * Deals 175% damage to the target.",
-            " * The target receives 35% damage for all the damage their allies receive for 3 turns.",
+            "* Deals 175% damage to the target.",
+            "* The target receives 35% damage for all the damage their allies receive for 3 turns.",
             "2x Mana Charge:",
-            " * All allies get 50% chance to bypass defensive buffs with their attacks for 5 turns. Defensive buffs include counterattacks.",
-            " * All allies get +30% critical chance for 5 turns."
+            "* All allies get 50% chance to bypass defensive buffs with their attacks for 5 turns. Defensive buffs include counterattacks.",
+            "* All allies get +30% critical chance for 5 turns."
         ],
         "passives": [
             "Mana on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.",
@@ -26445,11 +26448,11 @@ window.allHeroes = [
         "effects": [
             "Draw a card for a special effect:",
             "Gentle Paw",
-            " * Boosts health for all allies by 300, Boosted health can exceed max HP.",
-            " * All allies get +20% defense for 3 turns. The defense increases by 10% each turn, up to +40%.",
+            "* Boosts health for all allies by 300, Boosted health can exceed max HP.",
+            "* All allies get +20% defense for 3 turns. The defense increases by 10% each turn, up to +40%.",
             "Deadly Claw",
-            " * Reduces the max health of all enemies by 300. This effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 300.)",
-            " * All enemies get -20% defense for 3 tuns. The defense decreases by -10% each turn, up to -40%."
+            "* Reduces the max health of all enemies by 300. This effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 300.)",
+            "* All enemies get -20% defense for 3 tuns. The defense decreases by -10% each turn, up to -40%."
         ],
         "passives": [
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
@@ -26734,9 +26737,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -26939,11 +26942,11 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * Deals 250% damage to all enemies. Each hit has 60% accuracy.",
-            " * All hit enemies receive 92 Poison damage over 2 turns.",
+            "* Deals 250% damage to all enemies. Each hit has 60% accuracy.",
+            "* All hit enemies receive 92 Poison damage over 2 turns.",
             "2x Mana Charge:",
-            " * Each fallen ally has a 44% chance to get revived with 40% HP.",
-            " * All allies regenerate 405 HP over 5 turns"
+            "* Each fallen ally has a 44% chance to get revived with 40% HP.",
+            "* All allies regenerate 405 HP over 5 turns"
         ],
         "passives": [
             "Healt recovery on special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%."
@@ -29687,17 +29690,17 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Deals 230% damage to target and nearby enemies.",
-            " * Reduces the mana of the target and nearby enemies by 10%.",
+            "* Deals 230% damage to target and nearby enemies.",
+            "* Reduces the mana of the target and nearby enemies by 10%.",
             "2nd:",
-            " * Deals 260% damage to target and nearby enemies.",
-            " * Reduces the mana of the target and nearby enemies by 15%.",
-            " * All enemies receive 570 Poison damage over 5 turns. The caster absorbs 50% of dealt Posion damage as health."
+            "* Deals 260% damage to target and nearby enemies.",
+            "* Reduces the mana of the target and nearby enemies by 15%.",
+            "* All enemies receive 570 Poison damage over 5 turns. The caster absorbs 50% of dealt Posion damage as health."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * All allies get +19% mana generation for 2 turns."
+            "* Deals 80% damage to all enemies.",
+            "* All allies get +19% mana generation for 2 turns."
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
@@ -29773,17 +29776,17 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Deals 220% damage to target and nearby enemies.",
-            " * Reduces the mana of the target and nearby enemies by 8%.",
+            "* Deals 220% damage to target and nearby enemies.",
+            "* Reduces the mana of the target and nearby enemies by 8%.",
             "2nd:",
-            " * Deals 280% damage to target and nearby enemies.",
-            " * Reduces the mana of the target and nearby enemies by 18%.",
-            " * All enemies receive 665 Poison damage over 5 turns. The caster absorbs 55% of dealt Posion damage as health."
+            "* Deals 280% damage to target and nearby enemies.",
+            "* Reduces the mana of the target and nearby enemies by 18%.",
+            "* All enemies receive 665 Poison damage over 5 turns. The caster absorbs 55% of dealt Posion damage as health."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * All allies get +19% mana generation for 2 turns.",
+            "* Deals 80% damage to all enemies.",
+            "* All allies get +19% mana generation for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "tales1_baddies",
@@ -30210,8 +30213,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
-            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
-            " * Cleanses the latest cleansable status ailments from all allies."
+            "* Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            "* Cleanses the latest cleansable status ailments from all allies."
         ],
         "family": "sun",
         "costume_id": 0,
@@ -30286,8 +30289,8 @@ window.allHeroes = [
             "Health Recover on Buff Received: This character recovers 5% HP when they receive a buff or positive stack.",
             "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.",
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
-            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
-            " * Cleanses that latest cleansable status ailment from all allies."
+            "* Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            "* Cleanses that latest cleansable status ailment from all allies."
         ],
         "family": "sun",
         "costume_id": 1,
@@ -30751,8 +30754,8 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted heath and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
-            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 209 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 209 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
         "costume_id": 0,
@@ -31168,8 +31171,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies get -24% mana generation for 3 turns."
+            "* Deals 70% damage to all enemies.",
+            "* All enemies get -24% mana generation for 3 turns."
         ],
         "family": "moon",
         "costume_id": 0,
@@ -31239,8 +31242,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill.",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies get -24% mana generation for 3 turns.",
+            "* Deals 70% damage to all enemies.",
+            "* All enemies get -24% mana generation for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Resist Sand Damage: This character has innate resistance against Sand damage."
         ],
@@ -31801,19 +31804,19 @@ window.allHeroes = [
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " ****",
-            " - Damascus Blade",
-            " - Tome Of Tactics",
-            " - Mysterious Tonic",
-            " ***",
-            " - Fine Gloves",
-            " - Compass",
-            " - Sturdy Shield",
-            " - Tall Boots",
-            " - Scabbard",
-            " **",
-            " - Strong Rope",
-            " - Dagger"
+            "****",
+            "- Damascus Blade",
+            "- Tome Of Tactics",
+            "- Mysterious Tonic",
+            "***",
+            "- Fine Gloves",
+            "- Compass",
+            "- Sturdy Shield",
+            "- Tall Boots",
+            "- Scabbard",
+            "**",
+            "- Strong Rope",
+            "- Dagger"
         ],
         "family": "mimic",
         "costume_id": 0,
@@ -32560,8 +32563,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Mana on Damage Received:",
-            " * When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
-            " * Maximum of 10% mana gained per turn.",
+            "* When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
+            "* Maximum of 10% mana gained per turn.",
             "Extra Damage to Minions & Mega Minions: This character does +150% damage to Minions and Mega Minions."
         ],
         "family": "mahayoddha",
@@ -32704,8 +32707,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
-            " * Deals 90% damage to all enemies.",
-            " * All enemies get -25% accuracy for 3 turns."
+            "* Deals 90% damage to all enemies.",
+            "* All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
         "costume_id": 0,
@@ -32916,17 +32919,17 @@ window.allHeroes = [
         "health": 1726,
         "effects": [
             "1x Mana Charge",
-            " * Dispels buffs from the enemies on the edges of the enemy formation.",
-            " * Deals 300% damage to the enemies on the edges of the enemy formation. If there is only one enemy aive, the damage is doubled.",
-            " * The enemy on the edges of the formation fall asleep and receive +60% increased damage while sleeping. (A sleeping character cannot gain mana. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is uncleansable.)",
+            "* Dispels buffs from the enemies on the edges of the enemy formation.",
+            "* Deals 300% damage to the enemies on the edges of the enemy formation. If there is only one enemy aive, the damage is doubled.",
+            "* The enemy on the edges of the formation fall asleep and receive +60% increased damage while sleeping. (A sleeping character cannot gain mana. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is uncleansable.)",
             "2x Mana Charge",
-            " * Dispels buffs from the enemies on the edges of the enemy formation.",
-            " * Deals 485% damage to the enemies on the edges of the enemy formation. If there is only one enemy aive, the damage is doubled.",
-            " * The enemy on the edges of the formation fall asleep and receive +80% increased damage while sleeping. (A sleeping character cannot gain mana. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is uncleansable.)",
+            "* Dispels buffs from the enemies on the edges of the enemy formation.",
+            "* Deals 485% damage to the enemies on the edges of the enemy formation. If there is only one enemy aive, the damage is doubled.",
+            "* The enemy on the edges of the formation fall asleep and receive +80% increased damage while sleeping. (A sleeping character cannot gain mana. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is uncleansable.)",
             "3x Mana Charge",
-            " * Dispels buffs from the enemies on the edges of the enemy formation.",
-            " * Deals 900% damage to the enemies on the edges of the enemy formation. If there is only one enemy aive, the damage is doubled.",
-            " * The enemy on the edges of the formation fall asleep and receive +100% increased damage while sleeping. (A sleeping character cannot gain mana. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is uncleansable.)"
+            "* Dispels buffs from the enemies on the edges of the enemy formation.",
+            "* Deals 900% damage to the enemies on the edges of the enemy formation. If there is only one enemy aive, the damage is doubled.",
+            "* The enemy on the edges of the formation fall asleep and receive +100% increased damage while sleeping. (A sleeping character cannot gain mana. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is uncleansable.)"
         ],
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
@@ -33278,9 +33281,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -33349,11 +33352,11 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * Deals 250% damage to the target.",
-            " * Deals 500% damage if the target has less than 50% health remaining.",
+            "* Deals 250% damage to the target.",
+            "* Deals 500% damage if the target has less than 50% health remaining.",
             "2x Mana Charge:",
-            " * Deals 215% damage to all enemies.",
-            " * Deals 430% damage to enemies with more than 50% health remaining."
+            "* Deals 215% damage to all enemies.",
+            "* Deals 430% damage to enemies with more than 50% health remaining."
         ],
         "passives": [
             "Status effect on special: When this character casts their Special Skill, they have a 50% chance to give -25% mana generation for 3 turns to all their enemies. If the Special Skill is fully charged, the chance is 100%."
@@ -33426,11 +33429,11 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * Deals 300% damage to the target.",
-            " * Deals 600% damage if the target has more than 50% health remaining.",
+            "* Deals 300% damage to the target.",
+            "* Deals 600% damage if the target has more than 50% health remaining.",
             "2x Mana Charge:",
-            " * Deals 250% damage to all enemies.",
-            " * Deals 500% damage to enemies with less than 50% health remaining."
+            "* Deals 250% damage to all enemies.",
+            "* Deals 500% damage to enemies with less than 50% health remaining."
         ],
         "passives": [
             "Status effect on special: When this character casts their Special Skill, they have a 60% chance to give -45% mana generation for 3 turns to all their enemies. If the Special Skill is fully charged, the chance is 100%.",
@@ -33507,13 +33510,13 @@ window.allHeroes = [
         ],
         "passives": [
             "Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:",
-            " * Attack buffs are transformed into -40% attack status ailments for 3 turns.",
-            " * Defense buffs are transformed into -40% defense status ailments for 3 turns.",
-            " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
+            "* Attack buffs are transformed into -40% attack status ailments for 3 turns.",
+            "* Defense buffs are transformed into -40% defense status ailments for 3 turns.",
+            "* Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
-            " * Up to +35% mana generation.",
-            " * Up to +25% extra chance to dodge.",
-            " * The effects diminish the less Flight Momentum character has.",
+            "* Up to +35% mana generation.",
+            "* Up to +25% extra chance to dodge.",
+            "* The effects diminish the less Flight Momentum character has.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magic_carpet",
@@ -33593,8 +33596,8 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 330 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 330 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 0,
@@ -33746,9 +33749,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -34230,17 +34233,17 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
-            " - Deals 200% damage to all enemies.",
-            " - Summons a Shinobi Minion for each ally with 8% HP and 10% attack inherited from the caster.",
-            " - When summoned, the Shinobi Minion gives its owner the ability to counterattack with 60% of the damage received for as long as the owner has a Shinobi Minion. The effect can't be dispelled.",
+            "- Deals 200% damage to all enemies.",
+            "- Summons a Shinobi Minion for each ally with 8% HP and 10% attack inherited from the caster.",
+            "- When summoned, the Shinobi Minion gives its owner the ability to counterattack with 60% of the damage received for as long as the owner has a Shinobi Minion. The effect can't be dispelled.",
             "x2 Mana Charge:",
-            " - Deals 280% damage to all enemies.",
-            " - Summons a Shinobi Minion for each ally with 16% HP and 16% attack inherited from the caster.",
-            " - When summoned, the Shinobi Minion gives its owner the ability to counterattack with 60% of the damage received for as long as the owner has a Shinobi Minion. The effect can't be dispelled.",
+            "- Deals 280% damage to all enemies.",
+            "- Summons a Shinobi Minion for each ally with 16% HP and 16% attack inherited from the caster.",
+            "- When summoned, the Shinobi Minion gives its owner the ability to counterattack with 60% of the damage received for as long as the owner has a Shinobi Minion. The effect can't be dispelled.",
             "x3 Mana Charge:",
-            " - Deals 360% damage to all enemies.",
-            " - Summons a Shinobi Minion for each ally with 22% HP and 26% attack inherited from the caster.",
-            " - When summoned, the Shinobi Minion gives its owner the ability to counterattack with 60% of the damage received for as long as the owner has a Shinobi Minion. The effect can't be dispelled."
+            "- Deals 360% damage to all enemies.",
+            "- Summons a Shinobi Minion for each ally with 22% HP and 26% attack inherited from the caster.",
+            "- When summoned, the Shinobi Minion gives its owner the ability to counterattack with 60% of the damage received for as long as the owner has a Shinobi Minion. The effect can't be dispelled."
         ],
         "passives": [],
         "family": "ninja",
@@ -34310,8 +34313,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * Dispels the latest dispellable buff from enemies."
+            "* Deals 70% damage to all enemies.",
+            "* Dispels the latest dispellable buff from enemies."
         ],
         "family": "moon",
         "costume_id": 0,
@@ -34381,8 +34384,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * Dispels the latest dispellable buff from enemies.",
+            "* Deals 70% damage to all enemies.",
+            "* Dispels the latest dispellable buff from enemies.",
             "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ],
@@ -34770,19 +34773,19 @@ window.allHeroes = [
             "Growth: The caster and nearby allies get 400 attack.",
             "Summon an Aberration Mega Minion with 40% HP and 170% attack inherited from the caster.",
             "Each hit from an Aberration Mega Minion gives the target the following status ailment:",
-            " * The target receives 489 Toxin damage over 3 turns. Damage is increased against targets with boosted health, Minions or a Mega Minion.  (The Toxin damage is increased by +100% against targets with boosted health. The Toxin damage is increased by +33% per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)",
-            " * Inflicts 10 Insanity on the target.",
+            "* The target receives 489 Toxin damage over 3 turns. Damage is increased against targets with boosted health, Minions or a Mega Minion.  (The Toxin damage is increased by +100% against targets with boosted health. The Toxin damage is increased by +33% per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)",
+            "* Inflicts 10 Insanity on the target.",
             "Inflicts 50 Insanity to the caster."
         ],
         "passives": [
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
             "The Eldritch Host has:",
-            " * 100% inherited health.",
-            " * 1200 attack.",
-            " * 1200 defense.",
+            "* 100% inherited health.",
+            "* 1200 attack.",
+            "* 1200 defense.",
             "Special Skill: Eldrich Bright.",
-            " * Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            " * Inflicts 30 Insanity on the caster.",
+            "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
+            "* Inflicts 30 Insanity on the caster.",
             "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
         ],
         "family": "institute",
@@ -34935,13 +34938,13 @@ window.allHeroes = [
         ],
         "passives": [
             "Transform Ailments: Each time this character casts their Special Skill, all cleansable status ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs. Transformed effects:",
-            " * Attack status ailments are transformed into +40% attack buffs for 3 turns.",
-            " * Defense status ailments are transformed into +40% defense buffs for 3 turns.",
-            " * Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns.",
+            "* Attack status ailments are transformed into +40% attack buffs for 3 turns.",
+            "* Defense status ailments are transformed into +40% defense buffs for 3 turns.",
+            "* Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
-            " * Up to +35% mana generation.",
-            " * Up to +25% extra chance to dodge.",
-            " * The effects diminish the less Flight Momentum character has.",
+            "* Up to +35% mana generation.",
+            "* Up to +25% extra chance to dodge.",
+            "* The effects diminish the less Flight Momentum character has.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magic_carpet",
@@ -35017,10 +35020,10 @@ window.allHeroes = [
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " * Master Paladin Emblems",
-            " * Master Druid Emblems",
-            " * Paladin Emblems",
-            " * Druid Emblems"
+            "* Master Paladin Emblems",
+            "* Master Druid Emblems",
+            "* Paladin Emblems",
+            "* Druid Emblems"
         ],
         "family": "mimic",
         "costume_id": 0,
@@ -35325,11 +35328,11 @@ window.allHeroes = [
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " * Common Nature Trainer Heroes",
-            " * Uncommon Nature Trainer Heroes",
-            " * Rare Nature Trainer Heroes",
-            " * Common Nature Heroes",
-            " * Uncommon Nature Heroes"
+            "* Common Nature Trainer Heroes",
+            "* Uncommon Nature Trainer Heroes",
+            "* Rare Nature Trainer Heroes",
+            "* Common Nature Heroes",
+            "* Uncommon Nature Heroes"
         ],
         "family": "mimic",
         "costume_id": 0,
@@ -35410,8 +35413,8 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted heath and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
-            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 337 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 337 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
         "costume_id": 0,
@@ -35487,7 +35490,7 @@ window.allHeroes = [
             "All enemies receive 815 Poison damage over 5 turns. This effect can't be cleansed."
         ],
         "passives": [
-            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. ",
+            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed.",
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
         "family": "masquerade",
@@ -35566,7 +35569,9 @@ window.allHeroes = [
         ],
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
-            "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast: * All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 128 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion. * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast:",
+            "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 128 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -35915,8 +35920,8 @@ window.allHeroes = [
             "Safely dispels status effect buffs from all enemies. (Safe dispel bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate.)",
             "Boosts health for all allies by 1300. Boosted health can exceed max HP.",
             "Source of Ailments: The following effects are cast on a random enemy at the start of each turn:",
-            " -80% mana generation for 3 turns.",
-            " -60% defense against Special Skills for 3 turns.",
+            "-80% mana generation for 3 turns.",
+            "-60% defense against Special Skills for 3 turns.",
             "The Source of Ailments will activate 4 times. Each attempt to dispel it removes one activation."
         ],
         "passives": [
@@ -36203,7 +36208,9 @@ window.allHeroes = [
         ],
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
-            "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character's Special Skill is cast: * With fully charged Destructive Core, deals 180% damage to all enemies. * The damage is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
+            "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character's Special Skill is cast:",
+            "* With fully charged Destructive Core, deals 180% damage to all enemies.",
+            "* The damage is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -36346,19 +36353,19 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Destroys all Minions from all enemies.",
-            " * Deals 280% damage to all enemies.",
-            " * All allies get +30% defense for 3 turns.",
+            "* Destroys all Minions from all enemies.",
+            "* Deals 280% damage to all enemies.",
+            "* All allies get +30% defense for 3 turns.",
             "2nd:",
-            " * Destroys all Minions from all enemies.",
-            " * Deals 370% damage to all enemies.",
+            "* Destroys all Minions from all enemies.",
+            "* Deals 370% damage to all enemies.",
             "* Stack (Max 10): The caster recovers 24 HP each turn for each destroyed Minion.",
-            " * All allies get +50% defense for 3 turns."
+            "* All allies get +50% defense for 3 turns."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns.",
+            "* Deals 80% damage to all enemies.",
+            "* All allies get +21% critical chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "tales1_goodies",
@@ -36434,19 +36441,19 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Destroys all Minions from all enemies.",
-            " * Deals 270% damage to all enemies.",
-            " * All allies get +25% defense for 3 turns.",
+            "* Destroys all Minions from all enemies.",
+            "* Deals 270% damage to all enemies.",
+            "* All allies get +25% defense for 3 turns.",
             "2nd:",
-            " * Destroys all Minions from all enemies.",
-            " * Deals 400% damage to all enemies.",
+            "* Destroys all Minions from all enemies.",
+            "* Deals 400% damage to all enemies.",
             "* Stack (Max 10): The caster recovers 30 HP each turn for each destroyed Minion.",
-            " * All allies get +55% defense for 3 turns."
+            "* All allies get +55% defense for 3 turns."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns.",
+            "* Deals 80% damage to all enemies.",
+            "* All allies get +21% critical chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "tales1_goodies",
@@ -36721,20 +36728,20 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Caster steals 10% mana from the target.",
-            " * Deals 460% damage to the target.",
-            " * The less mana the enemies have, the more damage they will receive, up to 600%.",
-            " * All allies get +25% mana generation for 3 turns.",
+            "* Caster steals 10% mana from the target.",
+            "* Deals 460% damage to the target.",
+            "* The less mana the enemies have, the more damage they will receive, up to 600%.",
+            "* All allies get +25% mana generation for 3 turns.",
             "2nd:",
-            " * Caster steals 20% mana from the target.",
-            " * Deals 530% damage to the target.",
-            " * The less mana the enemies have, the more damage they will receive, up to 700%.",
-            " * All allies get +30% mana generation for 3 turns."
+            "* Caster steals 20% mana from the target.",
+            "* Deals 530% damage to the target.",
+            "* The less mana the enemies have, the more damage they will receive, up to 700%.",
+            "* All allies get +30% mana generation for 3 turns."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns."
+            "* Deals 80% damage to all enemies.",
+            "* All allies get +21% critical chance for 2 turns."
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
@@ -36813,20 +36820,20 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Caster steals 15% mana from the target.",
-            " * Deals 500% damage to the target.",
-            " * The less mana the enemies have, the more damage they will receive, up to 650%.",
-            " * All allies get +26% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
+            "* Caster steals 15% mana from the target.",
+            "* Deals 500% damage to the target.",
+            "* The less mana the enemies have, the more damage they will receive, up to 650%.",
+            "* All allies get +26% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
             "2nd:",
-            " * Caster steals 25% mana from the target.",
-            " * Deals 550% damage to the target.",
-            " * The less mana the enemies have, the more damage they will receive, up to 720%.",
-            " * All allies get +35% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "* Caster steals 25% mana from the target.",
+            "* Deals 550% damage to the target.",
+            "* The less mana the enemies have, the more damage they will receive, up to 720%.",
+            "* All allies get +35% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns.",
+            "* Deals 80% damage to all enemies.",
+            "* All allies get +21% critical chance for 2 turns.",
             "Resist Insanity: This character has an innate resistance against Insanity."
         ],
         "family": "tales1_goodies",
@@ -37122,11 +37129,11 @@ window.allHeroes = [
             "Deals 480% damage to all enemies.",
             "All hit targets get -40% defense and a further -5% decrease every time they are hit during 5 turns, to max -60%.",
             "The caster receives Slime Revive status effect for 2 turns. If defeated while Slime Revive is active, the character will be reborn as a Slime with:",
-            " * 100% inherited health.",
-            " * 50% attack.",
-            " * 50% defense.",
+            "* 100% inherited health.",
+            "* 50% attack.",
+            "* 50% defense.",
             "* Special Skill: Slime Slap. (Deals 350% damage to the target.)",
-            " * This effect can't be dispelled.",
+            "* This effect can't be dispelled.",
             "If the Slime is not defeated in 3 turns, it will be reborn as the character's original form inheriting the Slime's health and mana."
         ],
         "passives": [
@@ -37699,9 +37706,9 @@ window.allHeroes = [
         ],
         "passives": [
             "Unstoppable Minions:",
-            " * Resistance against Minion removal.",
-            " * Can't be prevented from receiving Minions.",
-            " * Minion attack and abilities can't be disabled."
+            "* Resistance against Minion removal.",
+            "* Can't be prevented from receiving Minions.",
+            "* Minion attack and abilities can't be disabled."
         ],
         "family": "kingdom",
         "costume_id": 1,
@@ -37921,7 +37928,9 @@ window.allHeroes = [
         ],
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
-            "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast: * With fully charged Repair Core, boosts the health of all allies by 25%. * The healing is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
+            "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
+            "* With fully charged Repair Core, boosts the health of all allies by 25%.",
+            "* The healing is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -38753,17 +38762,17 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
-            " - Deals 430% damage to the target.",
-            " - Boosts all allies' health by 25% of damage dealt.",
-            " - The target gets -35% mana generation for 2 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
+            "- Deals 430% damage to the target.",
+            "- Boosts all allies' health by 25% of damage dealt.",
+            "- The target gets -35% mana generation for 2 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
             "x2 Mana Charge:",
-            " - Deals 440% damage to the target and nearby enemies.",
-            " - Boosts all allies' health by 25% of damage dealt.",
-            " - The target and nearby enemies get -40% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
+            "- Deals 440% damage to the target and nearby enemies.",
+            "- Boosts all allies' health by 25% of damage dealt.",
+            "- The target and nearby enemies get -40% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
             "x3 Mana Charge:",
-            " - Deals 450% damage to all enemies.",
-            " - Boosts all allies' health by 25% of damage dealt.",
-            " - All enemies get -45% mana generation for 6 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "- Deals 450% damage to all enemies.",
+            "- Boosts all allies' health by 25% of damage dealt.",
+            "- All enemies get -45% mana generation for 6 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
         ],
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less health when summoned."
@@ -38829,17 +38838,17 @@ window.allHeroes = [
         "health": 1446,
         "effects": [
             "1x Mana Charge",
-            " * Deals 115% damage to all enemies.",
-            " * Reduces the mana of all enemies by 10%.",
-            " * The caster gets +25% chance of dodging special attacks that deal damage for 3 turns.",
+            "* Deals 115% damage to all enemies.",
+            "* Reduces the mana of all enemies by 10%.",
+            "* The caster gets +25% chance of dodging special attacks that deal damage for 3 turns.",
             "2x Mana Charge",
-            " * Deals 210% damage to all enemies.",
-            " * Reduces the mana of all enemies by 15%.",
-            " * The caster and nearby allies get +50% chance of dodging special attacks that deal damage for 4 turns.",
+            "* Deals 210% damage to all enemies.",
+            "* Reduces the mana of all enemies by 15%.",
+            "* The caster and nearby allies get +50% chance of dodging special attacks that deal damage for 4 turns.",
             "3x Mana Charge",
-            " * Deals 300% damage to all enemies.",
-            " * Reduces the mana of all enemies by 25%.",
-            " * All allies get +75% chance of dodging special attacks that deal damage for 5 turns."
+            "* Deals 300% damage to all enemies.",
+            "* Reduces the mana of all enemies by 25%.",
+            "* All allies get +75% chance of dodging special attacks that deal damage for 5 turns."
         ],
         "passives": [],
         "family": "ninja",
@@ -39341,12 +39350,12 @@ window.allHeroes = [
         "passives": [
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
             "The Eldritch Host has:",
-            " * 100% inherited health.",
-            " * 1200 attack.",
-            " * 1200 defense.",
+            "* 100% inherited health.",
+            "* 1200 attack.",
+            "* 1200 defense.",
             "Special Skill: Eldrich Bright.",
-            " * Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            " * Inflicts 30 Insanity on the caster.",
+            "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
+            "* Inflicts 30 Insanity on the caster.",
             "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
         ],
         "family": "forsaken",
@@ -39757,7 +39766,7 @@ window.allHeroes = [
             "Boosts health of all allies by 550. Boosted health can exceed max HP.",
             "Summons a Magical Sword Minion for the caster and nearby allies with 14% HP and 15% attack inherited from the caster.",
             "Each hit from the Magical Sword Minion gives the target the following status ailment:",
-            " * -24% mana generation for 3 turns. This effect can't be cleansed."
+            "* -24% mana generation for 3 turns. This effect can't be cleansed."
         ],
         "passives": [],
         "family": "knight",
@@ -39898,8 +39907,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
-            " * Deals 90% damage to all enemies.",
-            " * All enemies get -25% accuracy for 3 turns."
+            "* Deals 90% damage to all enemies.",
+            "* All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
         "costume_id": 0,
@@ -39967,14 +39976,14 @@ window.allHeroes = [
         ],
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments on Passive Skills.",
+            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments on Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
             "This includes:",
-            " * - Status effect buffs and ailments.",
-            " * - Positive and negative stacks.",
-            " * - Growth and Wither effects."
+            "* - Status effect buffs and ailments.",
+            "* - Positive and negative stacks.",
+            "* - Growth and Wither effects."
         ],
         "family": "wild_cat",
         "costume_id": 0,
@@ -40433,10 +40442,10 @@ window.allHeroes = [
         ],
         "passives": [
             "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
-            "Righteous Rebellion: ",
-            " * When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
-            " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
-            " * Each of these effects can activate once per turn.",
+            "Righteous Rebellion:",
+            "* When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
+            "* When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
+            "* Each of these effects can activate once per turn.",
             "Resist Bleed: This character is immune to status ailments that deal Bleed damage."
         ],
         "family": "outlaw",
@@ -40654,9 +40663,9 @@ window.allHeroes = [
         ],
         "passives": [
             "Unstoppable Minions:",
-            " * Resistance against Minion removal.",
-            " * Can't be prevented from receiving Minions.",
-            " * Minion attack and abilities can't be disabled."
+            "* Resistance against Minion removal.",
+            "* Can't be prevented from receiving Minions.",
+            "* Minion attack and abilities can't be disabled."
         ],
         "family": "kingdom",
         "costume_id": 1,
@@ -40878,8 +40887,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies get -34% attack for 3 turns."
+            "* Deals 70% damage to all enemies.",
+            "* All enemies get -34% attack for 3 turns."
         ],
         "family": "sun",
         "costume_id": 0,
@@ -40951,8 +40960,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies get -34% attack for 3 turns.",
+            "* Deals 70% damage to all enemies.",
+            "* All enemies get -34% attack for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their  Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ],
@@ -41850,17 +41859,17 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
-            " - Boosts health of all allies by 370. Boosted health can exceed max HP.",
-            " - All allies get +33% mana generation for 2 turns.",
-            " - All allies get +25% defense for 2 turns.",
+            "- Boosts health of all allies by 370. Boosted health can exceed max HP.",
+            "- All allies get +33% mana generation for 2 turns.",
+            "- All allies get +25% defense for 2 turns.",
             "x2 Mana Charge:",
-            " - Boosts health of all allies by 530. Boosted health can exceed max HP.",
-            " - All allies get +33% mana generation for 3 turns.",
-            " - All allies get +40% defense for 3 turns.",
+            "- Boosts health of all allies by 530. Boosted health can exceed max HP.",
+            "- All allies get +33% mana generation for 3 turns.",
+            "- All allies get +40% defense for 3 turns.",
             "x3 Mana Charge:",
-            " - Boosts health of all allies by 600. Boosted health can exceed max HP.",
-            " - All allies get +33% mana generation for 4 turns.",
-            " - All allies get +65% defense for 4 turns."
+            "- Boosts health of all allies by 600. Boosted health can exceed max HP.",
+            "- All allies get +33% mana generation for 4 turns.",
+            "- All allies get +65% defense for 4 turns."
         ],
         "passives": [],
         "family": "ninja",
@@ -42077,8 +42086,8 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 305 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 305 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 0,
@@ -42154,8 +42163,8 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 354 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 354 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 1,
@@ -42363,17 +42372,17 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
-            " * Deals 240% damage to the target.",
-            " • The target receives 220 Poison damage over 2 turns.",
-            " • The target gets -35% accuracy for 2 turns. Chance to miss also applies to offensive Special Skills.",
+            "* Deals 240% damage to the target.",
+            "• The target receives 220 Poison damage over 2 turns.",
+            "• The target gets -35% accuracy for 2 turns. Chance to miss also applies to offensive Special Skills.",
             "x2 Mana Charge:",
-            " * Deals 280% damage to the target and nearby enemies.",
-            " * The target and nearby enemies receive 438 Poison damage over 3 turns.",
-            " * The target and nearby enemies get -40% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills.",
+            "* Deals 280% damage to the target and nearby enemies.",
+            "* The target and nearby enemies receive 438 Poison damage over 3 turns.",
+            "* The target and nearby enemies get -40% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills.",
             "x3 Mana Charge:",
-            " * Deals 320% damage to all enemies.",
-            " * All enemies receive 764 Poison damage over 4 turns.",
-            " * All enemies get -54% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills."
+            "* Deals 320% damage to all enemies.",
+            "* All enemies receive 764 Poison damage over 4 turns.",
+            "* All enemies get -54% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills."
         ],
         "passives": [],
         "family": "ninja",
@@ -42666,10 +42675,10 @@ window.allHeroes = [
             "If the caster is defeated during the next 5 turns, they are resurrected in the beginning of their next turn with 30% health and all allies recover 1100 HP. (All status effects and stacks are removed when the caster is defeated)",
             "Casts Dance of the Heron to all allies but caster for 5 turns. All existing status effects will be removed when this effect is added.",
             "Dance of the Heron",
-            " * Counterattack with 130% of the damage received.",
-            " * Received damage is reduced by -35%.",
-            " * Gives immunity to new status effects. New dance status effects will replace this effect.",
-            " * This effect cannot be dispelled. The effect is removed when the caster is defeated."
+            "* Counterattack with 130% of the damage received.",
+            "* Received damage is reduced by -35%.",
+            "* Gives immunity to new status effects. New dance status effects will replace this effect.",
+            "* This effect cannot be dispelled. The effect is removed when the caster is defeated."
         ],
         "passives": [
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Doesn't apply to status ailments that affect elemental defense.",
@@ -42950,8 +42959,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Increased Status Effect Duration: Chance to increase the duration of cast status effects.",
-            " * +1 turn: 75%",
-            " * +2 turns: 25%"
+            "* +1 turn: 75%",
+            "* +2 turns: 25%"
         ],
         "family": "wolf",
         "costume_id": 1,
@@ -43023,13 +43032,13 @@ window.allHeroes = [
         ],
         "passives": [
             "Transform Ailments: Each time this character casts their Special Skill, all cleansable status ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs. Transformed effects:",
-            " * Attack status ailments are transformed into +40% attack buffs for 3 turns.",
-            " * Defense status ailments are transformed into +40% defense buffs for 3 turns.",
-            " * Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns.",
+            "* Attack status ailments are transformed into +40% attack buffs for 3 turns.",
+            "* Defense status ailments are transformed into +40% defense buffs for 3 turns.",
+            "* Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
-            " * Up to +35% mana generation.",
-            " * Up to +25% extra chance to dodge.",
-            " * The effects diminish the less Flight Momentum character has.",
+            "* Up to +35% mana generation.",
+            "* Up to +25% extra chance to dodge.",
+            "* The effects diminish the less Flight Momentum character has.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magic_carpet",
@@ -43297,7 +43306,9 @@ window.allHeroes = [
         ],
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
-            "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character's Special Skill is cast: * With fully charged Destructive Core, deals 180% damage to all enemies. * The damage is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
+            "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character's Special Skill is cast:",
+            "* With fully charged Destructive Core, deals 180% damage to all enemies.",
+            "* The damage is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -43368,9 +43379,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -43435,9 +43446,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +150%",
+            "- Dealt extra elemental damage: +150%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -25%"
+            "- Received elemental damage: -25%"
         ],
         "family": "super_elemental",
         "costume_id": 1,
@@ -43723,8 +43734,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
-            " * Deals 90% damage to all enemies.",
-            " * All enemies get -25% accuracy for 3 turns."
+            "* Deals 90% damage to all enemies.",
+            "* All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
         "costume_id": 0,
@@ -43865,8 +43876,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill.",
-            " * Deals 90% damage to all enemies.",
-            " * All enemies get -25% accuracy for 3 turns."
+            "* Deals 90% damage to all enemies.",
+            "* All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
         "costume_id": 0,
@@ -43929,18 +43940,18 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Deals 240% damage to all enemies.",
-            " * Summons a Naga Warrior Fiend for all enemies. The Fiend damage its target with 75% attack every turn.",
-            " * The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 40% of its target's max health.",
+            "* Deals 240% damage to all enemies.",
+            "* Summons a Naga Warrior Fiend for all enemies. The Fiend damage its target with 75% attack every turn.",
+            "* The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 40% of its target's max health.",
             "2nd:",
-            " * Deals 320% damage to all enemies.",
-            " * Summons a Naga Warrior Fiend for all enemies. The Fiend damage its target with 110% attack every turn.",
-            " * The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 50% of its target's max health."
+            "* Deals 320% damage to all enemies.",
+            "* Summons a Naga Warrior Fiend for all enemies. The Fiend damage its target with 110% attack every turn.",
+            "* The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 50% of its target's max health."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * The caster gets +19% mana generation for 2 turns."
+            "* Deals 80% damage to all enemies.",
+            "* The caster gets +19% mana generation for 2 turns."
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
@@ -44006,18 +44017,18 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Deals 230% damage to all enemies.",
-            " * Summons a Naga Warrior Fiend for all enemies. The Fiend damage its target with 70% attack every turn.",
-            " * The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 35% of its target's max health.",
+            "* Deals 230% damage to all enemies.",
+            "* Summons a Naga Warrior Fiend for all enemies. The Fiend damage its target with 70% attack every turn.",
+            "* The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 35% of its target's max health.",
             "2nd:",
-            " * Deals 350% damage to all enemies.",
-            " * Summons a Naga Warrior Fiend for all enemies. The Fiend damage its target with 125% attack every turn.",
-            " * The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 60% of its target's max health."
+            "* Deals 350% damage to all enemies.",
+            "* Summons a Naga Warrior Fiend for all enemies. The Fiend damage its target with 125% attack every turn.",
+            "* The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 60% of its target's max health."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * The caster gets +19% mana generation for 2 turns.",
+            "* Deals 80% damage to all enemies.",
+            "* The caster gets +19% mana generation for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "tales1_baddies",
@@ -44301,21 +44312,21 @@ window.allHeroes = [
         "effects": [
             "Casts one of the following Special Skill:",
             "If any enemy has the Bleed status ailment:",
-            " * This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero's overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies' max health on PVP battles. This effect is stronger against boosted health.)",
-            " * Deals 300% damage to the all enemies.",
-            " * All enemies receive 1020 Bleed damage over 5 turns.",
-            " * The duration of status ailments is reset for all enemies.",
+            "* This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero's overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies' max health on PVP battles. This effect is stronger against boosted health.)",
+            "* Deals 300% damage to the all enemies.",
+            "* All enemies receive 1020 Bleed damage over 5 turns.",
+            "* The duration of status ailments is reset for all enemies.",
             "Otherwise:",
-            " * This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero's overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies' max health on PVP battles. This effect is stronger against boosted health.)",
-            " * Deals 250% damage to the all enemies.",
-            " * All enemies receive 830 Bleed damage over 5 turns."
+            "* This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero's overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies' max health on PVP battles. This effect is stronger against boosted health.)",
+            "* Deals 250% damage to the all enemies.",
+            "* All enemies receive 830 Bleed damage over 5 turns."
         ],
         "passives": [
             "Health Boost on Critical Special Attack: When this character scores a critical hit with their Special Skill, they boost the health of all their allies by 10%. This effect can activate once per turn.",
-            "Righteous Rebellion: ",
-            " * When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
-            " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
-            " * Each of these effects can activate once per turn.",
+            "Righteous Rebellion:",
+            "* When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
+            "* When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
+            "* Each of these effects can activate once per turn.",
             "Resist Bleed: This character is immune to status ailments that deal Bleed damage."
         ],
         "family": "outlaw",
@@ -44535,20 +44546,20 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
-            " - This Special Skill never misses its targets.",
-            " - Deals 250% damage to the target.",
-            " - Deals 450% damage if the target has more than 50% health remaining.",
-            " - Deals an additional 250% damage to the nearby enemies.",
+            "- This Special Skill never misses its targets.",
+            "- Deals 250% damage to the target.",
+            "- Deals 450% damage if the target has more than 50% health remaining.",
+            "- Deals an additional 250% damage to the nearby enemies.",
             "x2 Mana Charge:",
-            " - This Special Skill never misses its targets.",
-            " - Deals 350% damage to the target.",
-            " - Deals 550% damage if the target has more than 50% health remaining.",
-            " - Deals an additional 350% damage to the nearby enemies.",
+            "- This Special Skill never misses its targets.",
+            "- Deals 350% damage to the target.",
+            "- Deals 550% damage if the target has more than 50% health remaining.",
+            "- Deals an additional 350% damage to the nearby enemies.",
             "x3 Mana Charge:",
-            " - This Special Skill never misses its targets.",
-            " - Deals 400% damage to the target.",
-            " - Deals 700% damage if the target has more than 50% health remaining.",
-            " - Deals an additional 400% damage to the nearby enemies."
+            "- This Special Skill never misses its targets.",
+            "- Deals 400% damage to the target.",
+            "- Deals 700% damage if the target has more than 50% health remaining.",
+            "- Deals an additional 400% damage to the nearby enemies."
         ],
         "passives": [],
         "family": "ninja",
@@ -44890,11 +44901,11 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * All enemies take +50% increased damage from status ailments for 3 turns.",
-            " * All enemies receive 357 Poison damage over 3 turns.",
+            "* All enemies take +50% increased damage from status ailments for 3 turns.",
+            "* All enemies receive 357 Poison damage over 3 turns.",
             "2x Mana Charge:",
-            " * Recovers 75% health for the caster and nearby allies.",
-            " * The caster and nearby allies are immune to damage from status ailments for 5 turns."
+            "* Recovers 75% health for the caster and nearby allies.",
+            "* The caster and nearby allies are immune to damage from status ailments for 5 turns."
         ],
         "passives": [
             "Damage on Special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.",
@@ -44980,11 +44991,11 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "x1 Mana Charge:",
-            " * All enemies take +55% increased damage from status ailments for 3 turns.",
-            " * All enemies receive 573 Poison damage over 3 turns. The caster absorbs 10% of dealt Poison damage as health.",
+            "* All enemies take +55% increased damage from status ailments for 3 turns.",
+            "* All enemies receive 573 Poison damage over 3 turns. The caster absorbs 10% of dealt Poison damage as health.",
             "x2 Mana Charge:",
-            " * Recovers 75% health for the caster and nearby allies.",
-            " * The caster and nearby allies are immune to new status ailments for 5 turns, and recover 350 health for each attempted status ailment."
+            "* Recovers 75% health for the caster and nearby allies.",
+            "* The caster and nearby allies are immune to new status ailments for 5 turns, and recover 350 health for each attempted status ailment."
         ],
         "passives": [
             "Damage on Special: When this character casts their Special Skill, they have a 60% chance to deal 150% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.",
@@ -45066,14 +45077,14 @@ window.allHeroes = [
         ],
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments on Passive Skills.",
+            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments on Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
             "This includes:",
-            " * - Status effect buffs and ailments.",
-            " * - Positive and negative stacks.",
-            " * - Growth and Wither effects."
+            "* - Status effect buffs and ailments.",
+            "* - Positive and negative stacks.",
+            "* - Growth and Wither effects."
         ],
         "family": "wild_cat",
         "costume_id": 0,
@@ -46070,9 +46081,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -46152,11 +46163,11 @@ window.allHeroes = [
             "All Ice enemies get -20% defense against Nature for 4 turns."
         ],
         "passives": [
-            "'Troop Mastery:'",
+            "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +150%",
+            "- Dealt extra elemental damage: +150%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -25%"
+            "- Received elemental damage: -25%"
         ],
         "family": "super_elemental",
         "costume_id": 1,
@@ -46898,9 +46909,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -47307,7 +47318,9 @@ window.allHeroes = [
             "The caster and nearby allies get +45% chance to dodge Special Skills for 3 turns. Each dodge gives +5% defense stack (Max: 10)."
         ],
         "passives": [
-            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill * Deals 70% damage to all enemies. * Dispels the latest dispellable buff from enemies."
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            "* Deals 70% damage to all enemies.",
+            "* Dispels the latest dispellable buff from enemies."
         ],
         "family": "moon",
         "costume_id": 0,
@@ -47378,7 +47391,9 @@ window.allHeroes = [
             "The caster and nearby allies get +45% chance to dodge Special Skills for 3 turns. Each dodge gives +10% defense stack (Max: 10)."
         ],
         "passives": [
-            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill: * Deals 70% damage to all enemies. * Dispells the latest dispellable buff from all enemies.",
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:",
+            "* Deals 70% damage to all enemies.",
+            "* Dispells the latest dispellable buff from all enemies.",
             "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ],
@@ -48443,14 +48458,14 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
-            " - All enemies receive 64 Poison damage over 2 turns.",
-            " - All enemies get -40% accuracy for 2 turns. Chance to miss also applies to offensive Special Skills.",
+            "- All enemies receive 64 Poison damage over 2 turns.",
+            "- All enemies get -40% accuracy for 2 turns. Chance to miss also applies to offensive Special Skills.",
             "x2 Mana Charge:",
-            " - All enemies receive 196 Poison damage over 4 turns.",
-            " - All enemies get -40% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.",
+            "- All enemies receive 196 Poison damage over 4 turns.",
+            "- All enemies get -40% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.",
             "x3 Mana Charge:",
-            " - All enemies receive 354 Poison damage over 6 turns.",
-            " - All enemies get -40% accuracy for 6 turns. Chance to miss also applies to offensive Special Skills."
+            "- All enemies receive 354 Poison damage over 6 turns.",
+            "- All enemies get -40% accuracy for 6 turns. Chance to miss also applies to offensive Special Skills."
         ],
         "passives": [],
         "family": "ninja",
@@ -48522,7 +48537,7 @@ window.allHeroes = [
             "While in the hole, the caster can't gain mana but is immune to normal attacks, special attacks, and all status effects.",
             "After 2 turns the caster jumps out of the hole and heals 223 damage to a random enemy.",
             "The hit enemy receives the following status ailment:",
-            " * The target can't gain mana for 2 turns."
+            "* The target can't gain mana for 2 turns."
         ],
         "passives": [
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
@@ -49850,8 +49865,8 @@ window.allHeroes = [
             "Deals 250% damage to the target.",
             "Deals 300% damage if the target has more than 70% health remaining.",
             "Source of Ailments: The following effects are cast on a random enemy at the start of each turn",
-            " * -50% defense against Special Skill for 3 turns.",
-            " * The Source of Ailments will activate 3 times. Each attempt to dispel it removes one activation."
+            "* -50% defense against Special Skill for 3 turns.",
+            "* The Source of Ailments will activate 3 times. Each attempt to dispel it removes one activation."
         ],
         "passives": [
             "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
@@ -49986,7 +50001,9 @@ window.allHeroes = [
             "If the target is defeated in the next 3 turns, all caster's allies get +20 mana."
         ],
         "passives": [
-            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill\n * Deals 70% damage to all enemies.\n * Dispels the latest dispellable buff from enemies."
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            "* Deals 70% damage to all enemies.",
+            "* Dispels the latest dispellable buff from enemies."
         ],
         "family": "moon",
         "costume_id": 0,
@@ -50053,7 +50070,9 @@ window.allHeroes = [
             "If the target is defeated in the next 3 turns, all caster's allies get +15% mana."
         ],
         "passives": [
-            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill\n * Deals 70% damage to all enemies.\n * Dispels the latest dispellable buff from enemies.",
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            "* Deals 70% damage to all enemies.",
+            "* Dispels the latest dispellable buff from enemies.",
             "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Mana on Status Ailment Received: This character gains 5% mana each time they receive a status ailment or negative stack."
         ],
@@ -51835,9 +51854,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -52976,9 +52995,9 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * All enemies get -54% defense against Dark for 3 turns.",
+            "* All enemies get -54% defense against Dark for 3 turns.",
             "2x Mana Charge:",
-            " * All allies get +100% normal attack for 5 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +160% increase power while this effect is active."
+            "* All allies get +100% normal attack for 5 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +160% increase power while this effect is active."
         ],
         "passives": [
             "Damage on Special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%."
@@ -53041,16 +53060,16 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * All allies get +80% normal attack for 5 turns. The normal attack is increased by 20% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active.",
-            " * All allies get +20% critical chance for 5 turns.",
+            "* All allies get +80% normal attack for 5 turns. The normal attack is increased by 20% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active.",
+            "* All allies get +20% critical chance for 5 turns.",
             "2nd:",
-            " * All allies get +80% normal attack for 5 turns. The normal attack is increased by 20% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active.",
-            " * All allies get +35% critical chance for 5 turns."
+            "* All allies get +80% normal attack for 5 turns. The normal attack is increased by 20% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active.",
+            "* All allies get +35% critical chance for 5 turns."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * The caster gets +19% mana generation for 2 turns."
+            "* Deals 80% damage to all enemies.",
+            "* The caster gets +19% mana generation for 2 turns."
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
@@ -53110,16 +53129,16 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * All allies get +70% normal attack for 5 turns. The normal attack is increased by 15% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +130% increased power while this effect is active.",
-            " * All allies get +15% critical chance for 5 turns.",
+            "* All allies get +70% normal attack for 5 turns. The normal attack is increased by 15% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +130% increased power while this effect is active.",
+            "* All allies get +15% critical chance for 5 turns.",
             "2nd:",
-            " * All allies get +90% normal attack for 5 turns. The normal attack is increased by 25% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +190% increased power while this effect is active.",
-            " * All allies get +40% critical chance for 5 turns."
+            "* All allies get +90% normal attack for 5 turns. The normal attack is increased by 25% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +190% increased power while this effect is active.",
+            "* All allies get +40% critical chance for 5 turns."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * The caster gets +19% mana generation for 2 turns.",
+            "* Deals 80% damage to all enemies.",
+            "* The caster gets +19% mana generation for 2 turns.",
             "Resist Insanity: This character has an innate resistance against Insanity."
         ],
         "family": "tales1_baddies",
@@ -53774,8 +53793,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill.",
-            " * Deals 90% damage to all enemies.",
-            " * All enemies get -25% accuracy for 3 turns."
+            "* Deals 90% damage to all enemies.",
+            "* All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
         "costume_id": 0,
@@ -53843,9 +53862,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -54060,13 +54079,13 @@ window.allHeroes = [
         ],
         "passives": [
             "Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:",
-            " * Attack buffs are transformed into -40% attack status ailments for 3 turns.",
-            " * Defense buffs are transformed into -40% defense status ailments for 3 turns.",
-            " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
+            "* Attack buffs are transformed into -40% attack status ailments for 3 turns.",
+            "* Defense buffs are transformed into -40% defense status ailments for 3 turns.",
+            "* Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
-            " * Up to +35% mana generation.",
-            " * Up to +25% extra chance to dodge.",
-            " * The effects diminish the less Flight Momentum character has.",
+            "* Up to +35% mana generation.",
+            "* Up to +25% extra chance to dodge.",
+            "* The effects diminish the less Flight Momentum character has.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magic_carpet",
@@ -54145,13 +54164,13 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * All enemies get -20% attack for 3 turns.",
-            " * All enemies get -20% defense for 3 turns.",
-            " * All enemies receive 159 Poison damage over 3 turns.",
+            "* All enemies get -20% attack for 3 turns.",
+            "* All enemies get -20% defense for 3 turns.",
+            "* All enemies receive 159 Poison damage over 3 turns.",
             "2x Mana Charge:",
-            " * All allies get +45% attack, and a further 20% increase every time they are hit during 6 turns.",
-            " * All allies get +54% defense, and a further 5% increase every time they are hit during 6 turns.",
-            " * All allies regenerate 1428 HP over 6 turns."
+            "* All allies get +45% attack, and a further 20% increase every time they are hit during 6 turns.",
+            "* All allies get +54% defense, and a further 5% increase every time they are hit during 6 turns.",
+            "* All allies regenerate 1428 HP over 6 turns."
         ],
         "passives": [
             "Damage on Special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%."
@@ -54238,13 +54257,13 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * All enemies get -27% attack for 3 turns.",
-            " * All enemies get -27% defense for 3 turns.",
-            " * All enemies receive 342 Poison damage over 3 turns. The caster absorbs 10% of dealt Poison damage as health.",
+            "* All enemies get -27% attack for 3 turns.",
+            "* All enemies get -27% defense for 3 turns.",
+            "* All enemies receive 342 Poison damage over 3 turns. The caster absorbs 10% of dealt Poison damage as health.",
             "2x Mana Charge:",
-            " * All allies get +50% attack, and a further 20% increase every time they are hit during 6 turns, up to +150% attack.",
-            " * All allies get +59% defense, and a further 5% increase every time they are hit during 6 turns, up to +84% defense.",
-            " * All allies regenerate 1500 boosted health over 6 turns. Boosted health can exceed max HP."
+            "* All allies get +50% attack, and a further 20% increase every time they are hit during 6 turns, up to +150% attack.",
+            "* All allies get +59% defense, and a further 5% increase every time they are hit during 6 turns, up to +84% defense.",
+            "* All allies regenerate 1500 boosted health over 6 turns. Boosted health can exceed max HP."
         ],
         "passives": [
             "Damage on Special: When this character casts their Special Skill, they have a 60% chance to deal 150% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.",
@@ -54539,13 +54558,13 @@ window.allHeroes = [
         ],
         "passives": [
             "Transform Ailments: Each time this character casts their Special Skill, all cleansable status ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs. Transformed effects:",
-            " * Attack status ailments are transformed into +40% attack buffs for 3 turns.",
-            " * Defense status ailments are transformed into +40% defense buffs for 3 turns.",
-            " * Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns.",
+            "* Attack status ailments are transformed into +40% attack buffs for 3 turns.",
+            "* Defense status ailments are transformed into +40% defense buffs for 3 turns.",
+            "* Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
-            " * Up to +35% mana generation.",
-            " * Up to +25% extra chance to dodge.",
-            " * The effects diminish the less Flight Momentum character has.",
+            "* Up to +35% mana generation.",
+            "* Up to +25% extra chance to dodge.",
+            "* The effects diminish the less Flight Momentum character has.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magic_carpet",
@@ -54608,17 +54627,17 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
-            " - Deals 200% damage to all enemies.",
-            " - Summons a Ninja Assassin Fiend for all enemies. The Fiend damages its target with 59% attack each turn.",
-            " - The Ninja Assassin Fiend absorbs healing. It disappears after absorbing a healing amount equal to 32% of its target's max health.",
+            "- Deals 200% damage to all enemies.",
+            "- Summons a Ninja Assassin Fiend for all enemies. The Fiend damages its target with 59% attack each turn.",
+            "- The Ninja Assassin Fiend absorbs healing. It disappears after absorbing a healing amount equal to 32% of its target's max health.",
             "x2 Mana Charge:",
-            " - Deals 275% damage to all enemies.",
-            " - Summons a Ninja Assassin Fiend for all enemies. The Fiend damages its target with 75% attack each turn.",
-            " - The Ninja Assassin Fiend absorbs healing. It disappears after absorbing a healing amount equal to 50% of its target's max health.",
+            "- Deals 275% damage to all enemies.",
+            "- Summons a Ninja Assassin Fiend for all enemies. The Fiend damages its target with 75% attack each turn.",
+            "- The Ninja Assassin Fiend absorbs healing. It disappears after absorbing a healing amount equal to 50% of its target's max health.",
             "x3 Mana Charge:",
-            " - Deals 355% damage to all enemies.",
-            " - Summons a Ninja Assassin Fiend for all enemies. The Fiend damages its target with 84% attack each turn.",
-            " - The Ninja Assassin Fiend absorbs healing. It disappears after absorbing a healing amount equal to 54% of its target's max health."
+            "- Deals 355% damage to all enemies.",
+            "- Summons a Ninja Assassin Fiend for all enemies. The Fiend damages its target with 84% attack each turn.",
+            "- The Ninja Assassin Fiend absorbs healing. It disappears after absorbing a healing amount equal to 54% of its target's max health."
         ],
         "passives": [],
         "family": "ninja",
@@ -54765,8 +54784,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on special skill: 60% chance to perform the following actions when this character casts their Special Skill:",
-            " * Deals 70% damage to all enemies.",
-            " * Dispells the latest dispellable buff from all enemies."
+            "* Deals 70% damage to all enemies.",
+            "* Dispells the latest dispellable buff from all enemies."
         ],
         "family": "moon",
         "costume_id": 0,
@@ -54840,8 +54859,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on special skill: 60% chance to perform the following actions when this character casts their Special Skill:",
-            " * Deals 70% damage to all enemies.",
-            " * Dispells the latest dispellable buff from all enemies.",
+            "* Deals 70% damage to all enemies.",
+            "* Dispells the latest dispellable buff from all enemies.",
             "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ],
@@ -55140,19 +55159,19 @@ window.allHeroes = [
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " ****",
-            " - Damascus Blade",
-            " - Tome Of Tactics",
-            " - Royal Tabard",
-            " ***",
-            " - Fine Gloves",
-            " - Compass",
-            " - Trap Tools",
-            " - Tall Boots",
-            " - Scabbard",
-            " **",
-            " - Strong Rope",
-            " - Dagger"
+            "****",
+            "- Damascus Blade",
+            "- Tome Of Tactics",
+            "- Royal Tabard",
+            "***",
+            "- Fine Gloves",
+            "- Compass",
+            "- Trap Tools",
+            "- Tall Boots",
+            "- Scabbard",
+            "**",
+            "- Strong Rope",
+            "- Dagger"
         ],
         "family": "mimic",
         "costume_id": 0,
@@ -55295,8 +55314,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * Dispells the latest dispellable buff from all enemies."
+            "* Deals 70% damage to all enemies.",
+            "* Dispells the latest dispellable buff from all enemies."
         ],
         "family": "moon",
         "costume_id": 0,
@@ -55368,8 +55387,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:",
-            " * Deals 70% damage to all enemies.",
-            " * Dispells the latest dispellable buff from all enemies.",
+            "* Deals 70% damage to all enemies.",
+            "* Dispells the latest dispellable buff from all enemies.",
             "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ],
@@ -55440,11 +55459,11 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * Deals 350% damage to the target.",
-            " * Each time the target activate their Special Skill during 3 turns mana of all other enemies is reduced by -15%.",
+            "* Deals 350% damage to the target.",
+            "* Each time the target activate their Special Skill during 3 turns mana of all other enemies is reduced by -15%.",
             "2x Mana Charge:",
-            " * Increase the mana of all allies by 10%.",
-            " * For the next 5 turns, this character deals 250% damage to all enemies each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)"
+            "* Increase the mana of all allies by 10%.",
+            "* For the next 5 turns, this character deals 250% damage to all enemies each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)"
         ],
         "passives": [
             "Health Recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully changed, the chance is 100%.",
@@ -55532,12 +55551,12 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * Deals 430% damage to the target.",
-            " * Each time the target activate their Special Skill during 3 turns mana of all other enemies is reduced by -15%.",
+            "* Deals 430% damage to the target.",
+            "* Each time the target activate their Special Skill during 3 turns mana of all other enemies is reduced by -15%.",
             "2x Mana Charge:",
-            " * The caster and nearby allies get +45% defense against Holy for 5 turns.",
-            " * Increase the mana of all allies by 10%.",
-            " * For the next 5 turns, this character deals 265% damage to all enemies each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)"
+            "* The caster and nearby allies get +45% defense against Holy for 5 turns.",
+            "* Increase the mana of all allies by 10%.",
+            "* For the next 5 turns, this character deals 265% damage to all enemies each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)"
         ],
         "passives": [
             "Health Recovery on Special: When this character casts their Special Skill, they have a 60% chance to recover 20% health for all allies. If the Special Skill is fully changed, the chance is 100%.",
@@ -55684,8 +55703,8 @@ window.allHeroes = [
         "effects": [
             "Summons a Moth Minion for each ally. The Moth Minion inherits 20% HP and 20% attack from the caster.",
             "Each hit from a Moth Minon gives the target the following status ailments:",
-            " * The target receives 207 Poison damage over 3 turns.",
-            " * The target resists new Minions for 3 turns."
+            "* The target receives 207 Poison damage over 3 turns.",
+            "* The target resists new Minions for 3 turns."
         ],
         "passives": [],
         "family": "vanaheim",
@@ -55755,8 +55774,8 @@ window.allHeroes = [
         "effects": [
             "Summons a Moth Minion for each ally. Moth Minion inherits 30% attack and 30% HP from the caster.",
             "Each hit from the Moth Minion gives the target the following status ailments:",
-            " * The target receives 138 Poison damage over 3 turns.",
-            " * The target can't receive new Minions for 3 turns."
+            "* The target receives 138 Poison damage over 3 turns.",
+            "* The target can't receive new Minions for 3 turns."
         ],
         "passives": [],
         "family": "vanaheim",
@@ -55897,8 +55916,8 @@ window.allHeroes = [
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
             "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
-            " * With fully charged Repair Core, boosts the health of all allies by 25%.",
-            " * The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
+            "* With fully charged Repair Core, boosts the health of all allies by 25%.",
+            "* The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -56187,10 +56206,10 @@ window.allHeroes = [
         ],
         "passives": [
             "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
-            "Righteous Rebellion: ",
-            " * When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
-            " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
-            " * Each of these effects can activate once per turn.",
+            "Righteous Rebellion:",
+            "* When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
+            "* When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
+            "* Each of these effects can activate once per turn.",
             "Resist Bleed: This character is immune to status ailments that deal Bleed damage."
         ],
         "family": "outlaw",
@@ -56639,8 +56658,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
-            " * Deals 90% damage to all enemies.",
-            " * All enemies get -25% accuracy for 3 turns."
+            "* Deals 90% damage to all enemies.",
+            "* All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
         "costume_id": 0,
@@ -56711,8 +56730,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 30% chance to perform the following actions when this character casts their Special Skill.",
-            " * Deals 90% damage to all enemies.",
-            " * All enemies get -25% accuracy for 3 turns."
+            "* Deals 90% damage to all enemies.",
+            "* All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
         "costume_id": 0,
@@ -56864,8 +56883,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Mana on Damage Received:",
-            " * When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
-            " * Maximum of 10% mana gained per turn.",
+            "* When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
+            "* Maximum of 10% mana gained per turn.",
             "Extra Damage to Minions & Mega Minions: This character does +150% damage to Minions and Mega Minions."
         ],
         "family": "mahayoddha",
@@ -57002,9 +57021,9 @@ window.allHeroes = [
         ],
         "passives": [
             "Unstoppable Minions:",
-            " * Resistance against Minion removal.",
-            " * Can't be prevented from receiving minions.",
-            " * Minion attacks and abilities can't be disabled."
+            "* Resistance against Minion removal.",
+            "* Can't be prevented from receiving minions.",
+            "* Minion attacks and abilities can't be disabled."
         ],
         "family": "kingdom",
         "costume_id": 1,
@@ -57707,8 +57726,8 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted heath and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 308 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 308 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
+            "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 0,
@@ -57778,9 +57797,9 @@ window.allHeroes = [
         "passives": [
             "Thief's Opportunity: At the start of each turn this character has a 50% chance to Ransack a random enemy",
             "Ransack:",
-            " * Steals 200 health.",
-            " * Safely steals one random Growth effect, positive stack, or status effect buff from the enemy. This includes undispellable buffs and Dance effects.",
-            " * Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate.",
+            "* Steals 200 health.",
+            "* Safely steals one random Growth effect, positive stack, or status effect buff from the enemy. This includes undispellable buffs and Dance effects.",
+            "* Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate.",
             "Cheat Death: The first time this character would receive fatal damage, they instead redirect that damage to a random enemy. In battles with multiple waves, the effect is refreshed at the begining of each wave."
         ],
         "family": "shady_scoundrels",
@@ -57934,11 +57953,11 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy",
-            " * The Seeding Fiend evolves into a Sprout Fiend after 2 turns.",
-            " * The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.",
-            " 1) Seedling Fiend: 50% attack, 15% health",
-            " 2) Sprout Fiend: 75% attack, 25% health",
-            " 3) Blossom Mega Fiend: 250% attack, 60% health"
+            "* The Seeding Fiend evolves into a Sprout Fiend after 2 turns.",
+            "* The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.",
+            "1) Seedling Fiend: 50% attack, 15% health",
+            "2) Sprout Fiend: 75% attack, 25% health",
+            "3) Blossom Mega Fiend: 250% attack, 60% health"
         ],
         "family": "vegetable",
         "costume_id": 0,
@@ -58018,10 +58037,10 @@ window.allHeroes = [
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " * Master Rogue Emblems",
-            " * Master Ranger Emblems",
-            " * Rogue Emblems",
-            " * Ranger Emblems"
+            "* Master Rogue Emblems",
+            "* Master Ranger Emblems",
+            "* Rogue Emblems",
+            "* Ranger Emblems"
         ],
         "family": "mimic",
         "costume_id": 0,
@@ -58172,11 +58191,11 @@ window.allHeroes = [
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " * Common Dark Trainer Heroes",
-            " * Uncommon Dark Trainer Heroes",
-            " * Rare Dark Trainer Heroes",
-            " * Common Dark Heroes",
-            " * Uncommon Dark Heroes"
+            "* Common Dark Trainer Heroes",
+            "* Uncommon Dark Trainer Heroes",
+            "* Rare Dark Trainer Heroes",
+            "* Common Dark Heroes",
+            "* Uncommon Dark Heroes"
         ],
         "family": "mimic",
         "costume_id": 0,
@@ -58252,9 +58271,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -58446,9 +58465,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -58790,8 +58809,8 @@ window.allHeroes = [
             "Deals 410% damage to all enemies.",
             "All enemies receive 1230 Curse damage over 6 turns, starting low and increasing every turn.",
             "Source of Ailments: The following effects are cast on a random enemy at the start of each turn",
-            " * +60% damage from status ailments for 5 turns.",
-            " * -60% for all healing received for 5 turns.",
+            "* +60% damage from status ailments for 5 turns.",
+            "* -60% for all healing received for 5 turns.",
             "The Source of Ailments will activate 6 times. Each attempt to dispel it removes one activation."
         ],
         "passives": [
@@ -58865,9 +58884,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -58937,9 +58956,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +150%",
+            "- Dealt extra elemental damage: +150%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            " - Received elemental damage: -25%"
+            "- Received elemental damage: -25%"
         ],
         "family": "super_elemental",
         "costume_id": 1,
@@ -59208,12 +59227,12 @@ window.allHeroes = [
             "Deals 535% damage to the target and minor damage to nearby enemies.",
             "The caster gets +45% attack, and a further +20% increase every time they are hit during 3 turns.",
             "Caster receives Slime Revive status effect for 2 turns. If defeated while Slime Revive is active the caster will be reborn as a Slime with:",
-            " * 100% inherited health.",
-            " * 50% attack.",
-            " * 50% defense.",
+            "* 100% inherited health.",
+            "* 50% attack.",
+            "* 50% defense.",
             "* Special Skill: Slime Slap.",
-            " * This effect can't be dispelled.",
-            " * Deals 350% damage to the target.",
+            "* This effect can't be dispelled.",
+            "* Deals 350% damage to the target.",
             "If the Slime is not defeated in 3 turns, it will be reborn as the character's original form inheriting the Slime's health and mana."
         ],
         "passives": [
@@ -59662,8 +59681,8 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 312 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 312 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
+            "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 0,
@@ -59744,10 +59763,10 @@ window.allHeroes = [
         ],
         "passives": [
             "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
-            "Righteous Rebellion: ",
-            " * When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
-            " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
-            " * Each of these effects can activate once per turn.",
+            "Righteous Rebellion:",
+            "* When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
+            "* When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
+            "* Each of these effects can activate once per turn.",
             "Resist Bleed: This character is immune to status ailments that deal Bleed damage."
         ],
         "family": "outlaw",
@@ -60203,14 +60222,14 @@ window.allHeroes = [
         ],
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments on Passive Skills.",
+            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments on Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
             "This includes:",
-            " * Status effect buffs and ailments.",
-            " * Positive and negative stacks.",
-            " * Growth and Wither effects."
+            "* Status effect buffs and ailments.",
+            "* Positive and negative stacks.",
+            "* Growth and Wither effects."
         ],
         "family": "wild_cat",
         "costume_id": 0,
@@ -60406,11 +60425,11 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * Deals 290% damage to the target.",
-            " * The target receives 588 Poision damage over 3 turns. The caster absorbs 100% of the dealt Poison damage as heath.",
+            "* Deals 290% damage to the target.",
+            "* The target receives 588 Poision damage over 3 turns. The caster absorbs 100% of the dealt Poison damage as heath.",
             "2x Mana Charge:",
-            " * Deals 300% damage to all enemies.",
-            " * All enemies receives 730 Poision damage over 5 turns. The caster and all their allies absorb 30% of the dealt Poison damage as health."
+            "* Deals 300% damage to all enemies.",
+            "* All enemies receives 730 Poision damage over 5 turns. The caster and all their allies absorb 30% of the dealt Poison damage as health."
         ],
         "passives": [
             "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully changed, all enemies get two stacks. An enemy can have up to 10 stacks.",
@@ -60776,7 +60795,7 @@ window.allHeroes = [
             "Deals extra damage against Holy."
         ],
         "passives": [
-            "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 461 Curse damage over 4 turns, starting low and increasing every turn.      "
+            "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 461 Curse damage over 4 turns, starting low and increasing every turn."
         ],
         "family": "villains",
         "costume_id": 1,
@@ -60907,8 +60926,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies get -24% mana generation for 3 turns."
+            "* Deals 70% damage to all enemies.",
+            "* All enemies get -24% mana generation for 3 turns."
         ],
         "family": "moon",
         "costume_id": 0,
@@ -60981,8 +61000,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies get -24% mana generation for 3 turns.",
+            "* Deals 70% damage to all enemies.",
+            "* All enemies get -24% mana generation for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Resist Sand Damage: This character has innate resistance against sand damage."
         ],
@@ -61177,8 +61196,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies get -24% mana generation for 3 turns."
+            "* Deals 70% damage to all enemies.",
+            "* All enemies get -24% mana generation for 3 turns."
         ],
         "family": "moon",
         "costume_id": 0,
@@ -61246,8 +61265,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies get -24% mana generation for 3 turns.",
+            "* Deals 70% damage to all enemies.",
+            "* All enemies get -24% mana generation for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Resist Sand Damage: This character has innate resistance against sand damage."
         ],
@@ -61956,13 +61975,13 @@ window.allHeroes = [
         ],
         "passives": [
             "Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:",
-            " * Attack buffs are transformed into -40% attack status ailments for 3 turns.",
-            " * Defense buffs are transformed into -40% defense status ailments for 3 turns.",
-            " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
+            "* Attack buffs are transformed into -40% attack status ailments for 3 turns.",
+            "* Defense buffs are transformed into -40% defense status ailments for 3 turns.",
+            "* Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
-            " * Up to +35% mana generation.",
-            " * Up to +25% extra chance to dodge.",
-            " * The effects diminish the less Flight Momentum character has.",
+            "* Up to +35% mana generation.",
+            "* Up to +25% extra chance to dodge.",
+            "* The effects diminish the less Flight Momentum character has.",
             "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions."
         ],
         "family": "magic_carpet",
@@ -62253,9 +62272,9 @@ window.allHeroes = [
         ],
         "passives": [
             "Unstoppable Minions:",
-            " * Resistance against Minion removal.",
-            " * Can't be prevented from receiving Minions.",
-            " * Minion attack and abilities can't be disabled."
+            "* Resistance against Minion removal.",
+            "* Can't be prevented from receiving Minions.",
+            "* Minion attack and abilities can't be disabled."
         ],
         "family": "kingdom",
         "costume_id": 1,
@@ -62682,14 +62701,13 @@ window.allHeroes = [
             "Deals 350% damage to the target and nearby enemies",
             "Randomly casts one of the following alternatives:",
             "Alternative 1:",
-            " * The target and nearby enemies get -54% defense for 3 turns",
-            " * The target and nearby enemies get -54% attack for 3 turns",
-            " * The target and nearby enemies get -34% mana generation for 3 turns",
+            "* The target and nearby enemies get -54% defense for 3 turns",
+            "* The target and nearby enemies get -54% attack for 3 turns",
+            "* The target and nearby enemies get -34% mana generation for 3 turns",
             "Alternative 2:",
-            " * The target and nearby enemies get -24% defense for 3 turns",
+            "* The target and nearby enemies get -24% defense for 3 turns",
             "Alternative 3:",
-            " * The target and nearby enemies get -24% attack for 3 turns",
-            "",
+            "* The target and nearby enemies get -24% attack for 3 turns",
             "Element Link gives all Dark allies small amount of mana at the end of the turn for 4 turns. This effect can't be dispelled"
         ],
         "passives": [
@@ -62917,14 +62935,14 @@ window.allHeroes = [
         ],
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments on Passive Skills.",
+            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments on Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
             "This includes:",
-            " * Status effect buffs and ailments.",
-            " * Positive and negative stacks.",
-            " * Growth and Wither effects."
+            "* Status effect buffs and ailments.",
+            "* Positive and negative stacks.",
+            "* Growth and Wither effects."
         ],
         "family": "wild_cat",
         "costume_id": 0,
@@ -63060,18 +63078,18 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Deals 365% damage to the target and nearby enemies.",
-            " * The target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns. When this effect is triggered, it shifts to the hit ally and the duration is refreshed.",
-            " * The target and nearby enemies get -50% decrease for any healing received for 3 turns.",
+            "* Deals 365% damage to the target and nearby enemies.",
+            "* The target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns. When this effect is triggered, it shifts to the hit ally and the duration is refreshed.",
+            "* The target and nearby enemies get -50% decrease for any healing received for 3 turns.",
             "2nd:",
-            " * Deals 430% damage to the target and nearby enemies.",
-            " * The target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns. When this effect is triggered, it shifts to the hit ally and the duration is refreshed.",
-            " * The target and nearby enemies get -75% decrease for any healing received for 4 turns."
+            "* Deals 430% damage to the target and nearby enemies.",
+            "* The target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns. When this effect is triggered, it shifts to the hit ally and the duration is refreshed.",
+            "* The target and nearby enemies get -75% decrease for any healing received for 4 turns."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * The caster gets +19% mana generation for 2 turns.",
+            "* Deals 80% damage to all enemies.",
+            "* The caster gets +19% mana generation for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "tales1_baddies",
@@ -63140,18 +63158,18 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Deals 355% damage to the target and nearby enemies.",
-            " * The target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns. When this effect is triggered, it shifts to the hit ally and the duration is refreshed.",
-            " * The target and nearby enemies get -45% decrease for any healing received for 3 turns.",
+            "* Deals 355% damage to the target and nearby enemies.",
+            "* The target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns. When this effect is triggered, it shifts to the hit ally and the duration is refreshed.",
+            "* The target and nearby enemies get -45% decrease for any healing received for 3 turns.",
             "2nd:",
-            " * Deals 450% damage to the target and nearby enemies.",
-            " * The target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns. When this effect is triggered, it shifts to the hit ally and the duration is refreshed.",
-            " * The target and nearby enemies get -85% decrease for any healing received for 4 turns."
+            "* Deals 450% damage to the target and nearby enemies.",
+            "* The target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns. When this effect is triggered, it shifts to the hit ally and the duration is refreshed.",
+            "* The target and nearby enemies get -85% decrease for any healing received for 4 turns."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * The caster gets +19% mana generation for 2 turns.",
+            "* Deals 80% damage to all enemies.",
+            "* The caster gets +19% mana generation for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "tales1_baddies",
@@ -63871,15 +63889,15 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
             "1x Mana Charge:",
-            " * Deals 220% damage to all enemies.",
-            " * All allies get +30% attack for 3 turns.",
+            "* Deals 220% damage to all enemies.",
+            "* All allies get +30% attack for 3 turns.",
             "2x Mana Charge:",
-            " * Deals 360% damage to all enemies.",
-            " * All enemies get -34% defense for 3 turns.",
+            "* Deals 360% damage to all enemies.",
+            "* All enemies get -34% defense for 3 turns.",
             "3x Mana Charge:",
-            " * Deals 395% damage to all enemies.",
-            " * All allies get +50% attack for 4 turns.",
-            " * All enemies get -44% defense for 4 turns."
+            "* Deals 395% damage to all enemies.",
+            "* All allies get +50% attack for 4 turns.",
+            "* All enemies get -44% defense for 4 turns."
         ],
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
@@ -64285,9 +64303,9 @@ window.allHeroes = [
             "Boosts health for all allies by 475. Boosted health can exceed max HP.",
             "Casts Dance of the Black Swan to all allies but caster for 4 turns. All existing status effects will be removed when this effect is added.",
             "Dance of the Black Swan:",
-            " * At the end of each turn each dancer deal 155% damage to a random enemy and boosts health for themselves with 25% of total damage dealt.",
-            " * Gives immunity to new status effects. New dance status effects will replace this effect.",
-            " * This effect cannot be dispelled. The effect is removed when the caster is defeated."
+            "* At the end of each turn each dancer deal 155% damage to a random enemy and boosts health for themselves with 25% of total damage dealt.",
+            "* Gives immunity to new status effects. New dance status effects will replace this effect.",
+            "* This effect cannot be dispelled. The effect is removed when the caster is defeated."
         ],
         "passives": [
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Doesn't apply to status ailments that affect elemental defense.",
@@ -64749,19 +64767,19 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Summon a Merman Minion for the caster and nearby allies with 27% HP and 26% attack inherited from the caster.",
-            " * The Minion adds 5% mana to its owner at the end of each turn.",
-            " * The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns.",
+            "* Summon a Merman Minion for the caster and nearby allies with 27% HP and 26% attack inherited from the caster.",
+            "* The Minion adds 5% mana to its owner at the end of each turn.",
+            "* The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns.",
             "2nd:",
-            " * Summon a Merman Minion for the caster and nearby allies with 27% HP and 26% attack inherited from the caster.",
-            " * The Minion adds 5% mana to its owner at the end of each turn.",
-            " * The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns.",
+            "* Summon a Merman Minion for the caster and nearby allies with 27% HP and 26% attack inherited from the caster.",
+            "* The Minion adds 5% mana to its owner at the end of each turn.",
+            "* The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns.",
             "* Stack (Max 10): All allies get +20% attack for their Minions."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns.",
+            "* Deals 80% damage to all enemies.",
+            "* All allies get +21% critical chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "tales1_goodies",
@@ -64832,19 +64850,19 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Summon a Merman Minion for the caster and nearby allies with 25% HP and 25% attack inherited from the caster.",
-            " * The Minion adds 4% mana to its owner at the end of each turn.",
-            " * The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns.",
+            "* Summon a Merman Minion for the caster and nearby allies with 25% HP and 25% attack inherited from the caster.",
+            "* The Minion adds 4% mana to its owner at the end of each turn.",
+            "* The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns.",
             "2nd:",
-            " * Summon a Merman Minion for the caster and nearby allies with 30% HP and 35% attack inherited from the caster.",
-            " * The Minion adds 5% mana to its owner at the end of each turn.",
-            " * The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
+            "* Summon a Merman Minion for the caster and nearby allies with 30% HP and 35% attack inherited from the caster.",
+            "* The Minion adds 5% mana to its owner at the end of each turn.",
+            "* The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
             "* Stack (Max 10): All allies get +25% attack for their Minions."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns.",
+            "* Deals 80% damage to all enemies.",
+            "* All allies get +21% critical chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "tales1_goodies",
@@ -65049,17 +65067,17 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "1x Mana Charge:",
-            " - All allies regenerate 204 HP over 2 turns.",
-            " - All allies get +34% attack for 2 turns.",
-            " - Cleanses status ailments from all allies.",
+            "- All allies regenerate 204 HP over 2 turns.",
+            "- All allies get +34% attack for 2 turns.",
+            "- Cleanses status ailments from all allies.",
             "2x Mana Charge:",
-            " - All allies regenerate 624 HP over 3 turns.",
-            " - All allies get +44% attack for 3 turns.",
-            " - Cleanses status ailments from all allies.",
+            "- All allies regenerate 624 HP over 3 turns.",
+            "- All allies get +44% attack for 3 turns.",
+            "- Cleanses status ailments from all allies.",
             "3x Mana Charge:",
-            " - All allies regenerate 940 HP over 4 turns. This effect can't be dispelled.",
-            " - All allies get +54% attack for 4 turns.",
-            " - Cleanses status ailments from all allies."
+            "- All allies regenerate 940 HP over 4 turns. This effect can't be dispelled.",
+            "- All allies get +54% attack for 4 turns.",
+            "- Cleanses status ailments from all allies."
         ],
         "passives": [],
         "family": "ninja",
@@ -66288,20 +66306,20 @@ window.allHeroes = [
         "health": 1833,
         "effects": [
             "1x Mana Charge",
-            " * Deals 400% damage to the target.",
-            " * The caster goes into hiding for 2 turns.",
-            " * While hidden, the caster can't receive new status effects or stacks, and all received damage is reduced by -30%.",
-            " * When the caster comes out of hiding, they deal 330 damage to all enemies who used Special Skills while the caster was hiding.",
+            "* Deals 400% damage to the target.",
+            "* The caster goes into hiding for 2 turns.",
+            "* While hidden, the caster can't receive new status effects or stacks, and all received damage is reduced by -30%.",
+            "* When the caster comes out of hiding, they deal 330 damage to all enemies who used Special Skills while the caster was hiding.",
             "2x Mana Charge",
-            " * Deals 425% damage to the target and nearby enemies.",
-            " * The caster goes into hiding for 2 turns.",
-            " * While hidden, the caster can't receive new status effects or stacks, and all received damage is reduced by -60%.",
-            " * When the caster comes out of hiding, they deal 449 damage to all enemies who used Special Skills while the caster was hiding.",
+            "* Deals 425% damage to the target and nearby enemies.",
+            "* The caster goes into hiding for 2 turns.",
+            "* While hidden, the caster can't receive new status effects or stacks, and all received damage is reduced by -60%.",
+            "* When the caster comes out of hiding, they deal 449 damage to all enemies who used Special Skills while the caster was hiding.",
             "3x Mana Charge",
-            " * Deals 450% damage to all enemies.",
-            " * The caster goes into hiding for 2 turns.",
-            " * While hidden, the caster can't receive new status effects or stacks, and all received damage is reduced by -80%.",
-            " * When the caster comes out of hiding, they deal 508 damage to all enemies who used Special Skills while the caster was hiding."
+            "* Deals 450% damage to all enemies.",
+            "* The caster goes into hiding for 2 turns.",
+            "* While hidden, the caster can't receive new status effects or stacks, and all received damage is reduced by -80%.",
+            "* When the caster comes out of hiding, they deal 508 damage to all enemies who used Special Skills while the caster was hiding."
         ],
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
@@ -66379,8 +66397,8 @@ window.allHeroes = [
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
             "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
-            " * With fully charged Repair Core, boosts the health of all allies by 25%.",
-            " * The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
+            "* With fully charged Repair Core, boosts the health of all allies by 25%.",
+            "* The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -66840,8 +66858,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies get -24% mana generation for 3 turns."
+            "* Deals 70% damage to all enemies.",
+            "* All enemies get -24% mana generation for 3 turns."
         ],
         "family": "moon",
         "costume_id": 0,
@@ -66919,8 +66937,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies get -24% mana generation for 3 turns.",
+            "* Deals 70% damage to all enemies.",
+            "* All enemies get -24% mana generation for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Resist Sand Damage: This character has innate resistance against Sand damage."
         ],
@@ -66997,7 +67015,9 @@ window.allHeroes = [
         ],
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
-            "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character's Special Skill is cast: * With fully charged Destructive Core, deals 180% damage to all enemies. * The damage is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
+            "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character's Special Skill is cast:",
+            "* With fully charged Destructive Core, deals 180% damage to all enemies.",
+            "* The damage is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -67278,8 +67298,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on special skill: 70% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * Dispels the latest dispellable buff from all enemies."
+            "* Deals 70% damage to all enemies.",
+            "* Dispels the latest dispellable buff from all enemies."
         ],
         "family": "moon",
         "costume_id": 0,
@@ -67352,8 +67372,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on special skill: 70% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * Dispels the latest dispellable buff from all enemies.",
+            "* Deals 70% damage to all enemies.",
+            "* Dispels the latest dispellable buff from all enemies.",
             "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ],
@@ -67652,8 +67672,8 @@ window.allHeroes = [
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
             "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast:",
-            " * All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 140 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 140 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -67719,14 +67739,14 @@ window.allHeroes = [
         "health": 2263,
         "effects": [
             "If the caster has 35 or more Humility:",
-            " * Deals 460% damage to 6 random enemies.",
-            " * All hit targets get -54% defense against Dark for 4 turns.",
-            " * Enemies hit automatically cast Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns.",
-            " * The caster regenerates 1200 boosted health over 4 turns. Boosted health can exceed max HP.",
+            "* Deals 460% damage to 6 random enemies.",
+            "* All hit targets get -54% defense against Dark for 4 turns.",
+            "* Enemies hit automatically cast Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns.",
+            "* The caster regenerates 1200 boosted health over 4 turns. Boosted health can exceed max HP.",
             "Otherwise:",
-            " * Deals 430% damage to 5 random enemies.",
-            " * All hit targets get -40% defense against Dark for 4 turns.",
-            " * The caster regenerates 1000 boosted health over 4 turns. Boosted health can exceed max HP."
+            "* Deals 430% damage to 5 random enemies.",
+            "* All hit targets get -40% defense against Dark for 4 turns.",
+            "* The caster regenerates 1000 boosted health over 4 turns. Boosted health can exceed max HP."
         ],
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
@@ -67940,8 +67960,8 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
-            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 331 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 331 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
         "costume_id": 0,
@@ -68013,17 +68033,17 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
-            " - Deals 400% damage to the target.",
-            " - Deals additional 35% damage for each Minion or Mega Minion owned by the enemies up to 750% damage in total.",
-            " - The attack bypasses defensive buffs. (This include counterattacks)",
+            "- Deals 400% damage to the target.",
+            "- Deals additional 35% damage for each Minion or Mega Minion owned by the enemies up to 750% damage in total.",
+            "- The attack bypasses defensive buffs. (This include counterattacks)",
             "x2 Mana Charge:",
-            " - Deals 425% damage to the target and nearby enemies.",
-            " - Deals additional 35% damage for each Minion or Mega Minion owned by the enemies up to 775% damage in total.",
-            " - The attack bypasses defensive buffs. (This include counterattacks)",
+            "- Deals 425% damage to the target and nearby enemies.",
+            "- Deals additional 35% damage for each Minion or Mega Minion owned by the enemies up to 775% damage in total.",
+            "- The attack bypasses defensive buffs. (This include counterattacks)",
             "x3 Mana Charge:",
-            " - Deals 450% damage to all enemies.",
-            " - Deals additional 35% damage for each Minion or Mega Minion owned by the enemies up to 800% damage in total.",
-            " - The attack bypasses defensive buffs. (This include counterattacks)"
+            "- Deals 450% damage to all enemies.",
+            "- Deals additional 35% damage for each Minion or Mega Minion owned by the enemies up to 800% damage in total.",
+            "- The attack bypasses defensive buffs. (This include counterattacks)"
         ],
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
@@ -68231,18 +68251,18 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Deals 30% damage per each Dark shield on the board to all enemies, up to 300% damage in total.",
-            " * The caster and nearby allies counterattack with 90% of the damage received for 3 turns.",
-            " * The caster and nearby allies reduce all received damage by -35% for 3 turns.",
+            "* Deals 30% damage per each Dark shield on the board to all enemies, up to 300% damage in total.",
+            "* The caster and nearby allies counterattack with 90% of the damage received for 3 turns.",
+            "* The caster and nearby allies reduce all received damage by -35% for 3 turns.",
             "2nd:",
-            " * Deals 35% damage per each Dark shield on the board to all enemies, up to 350% damage in total.",
-            " * The caster and nearby allies counterattack with 130% of the damage received for 4 turns.",
-            " * The caster and nearby allies reduce all received damage by -45% for 4 turns."
+            "* Deals 35% damage per each Dark shield on the board to all enemies, up to 350% damage in total.",
+            "* The caster and nearby allies counterattack with 130% of the damage received for 4 turns.",
+            "* The caster and nearby allies reduce all received damage by -45% for 4 turns."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * The caster gets +19% mana generation for 2 turns."
+            "* Deals 80% damage to all enemies.",
+            "* The caster gets +19% mana generation for 2 turns."
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
@@ -68316,18 +68336,18 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Deals 28% damage per each Dark shield on the board to all enemies, up to 280% damage in total.",
-            " * The caster and nearby allies counterattack with 100% of the damage received for 3 turns.",
-            " * The caster and nearby allies reduce all received damage by -35% for 3 turns.",
+            "* Deals 28% damage per each Dark shield on the board to all enemies, up to 280% damage in total.",
+            "* The caster and nearby allies counterattack with 100% of the damage received for 3 turns.",
+            "* The caster and nearby allies reduce all received damage by -35% for 3 turns.",
             "2nd:",
-            " * Deals 38% damage per each Dark shield on the board to all enemies, up to 380% damage in total.",
-            " * The caster and nearby allies counterattack with 140% of the damage received for 4 turns.",
-            " * The caster and nearby allies reduce all received damage by -50% for 4 turns."
+            "* Deals 38% damage per each Dark shield on the board to all enemies, up to 380% damage in total.",
+            "* The caster and nearby allies counterattack with 140% of the damage received for 4 turns.",
+            "* The caster and nearby allies reduce all received damage by -50% for 4 turns."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * The caster gets +19% mana generation for 2 turns.",
+            "* Deals 80% damage to all enemies.",
+            "* The caster gets +19% mana generation for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "tales1_baddies",
@@ -68400,7 +68420,7 @@ window.allHeroes = [
             "The Spreading Shadow Fiend generates a clone of itself to nearby enemies every 2 turns. Cloned fiends absorb the same amount of healing and deal the same amount of damage as the original Fiend."
         ],
         "passives": [
-            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
+            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed."
         ],
         "family": "masquerade",
         "costume_id": 0,
@@ -68464,17 +68484,17 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
-            " - Dispels buffs from the target.",
-            " - The target receives 780 Poison damage over 2 turns.",
-            " - The target gets -80% decrease of any healing received for 2 turns.",
+            "- Dispels buffs from the target.",
+            "- The target receives 780 Poison damage over 2 turns.",
+            "- The target gets -80% decrease of any healing received for 2 turns.",
             "x2 Mana Charge:",
-            " - Dispels buffs from the target and nearby enemies.",
-            " - The target and nearby enemies receive 1608 Poison damage over 4 turns.",
-            " - The target and nearby enemies get -85% decrease of any healing received for 4 turns.",
+            "- Dispels buffs from the target and nearby enemies.",
+            "- The target and nearby enemies receive 1608 Poison damage over 4 turns.",
+            "- The target and nearby enemies get -85% decrease of any healing received for 4 turns.",
             "x3 Mana Charge:",
-            " - Dispels buffs from all enemies.",
-            " - All enemies receive 2412 Poison damage over 6 turns.",
-            " - The target gets -90% decrease of any healing received for 6 turns."
+            "- Dispels buffs from all enemies.",
+            "- All enemies receive 2412 Poison damage over 6 turns.",
+            "- The target gets -90% decrease of any healing received for 6 turns."
         ],
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
@@ -68845,9 +68865,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -69221,7 +69241,7 @@ window.allHeroes = [
         ],
         "passives": [
             "Cursed sapling summoner: When an enemy summons any minions by special skill, this character summons a Cursed Sapling Fiend for that enemy.",
-            "Resist negative minion effects: This character has innate resistance against incoming negative effects and damage from Minions. "
+            "Resist negative minion effects: This character has innate resistance against incoming negative effects and damage from Minions."
         ],
         "family": "hotm2022",
         "costume_id": 0,
@@ -69427,11 +69447,9 @@ window.allHeroes = [
         "effects": [
             "Deals 550% damage to the target.",
             "The target dances to Ballad of Pain for 4 turns. The dance spreads to nearby enemies.",
-            " ",
             "Ballad of Pain:",
             "The dancer gets silenced.",
             "When the dance ends, the target suffers 1700 damage.",
-            " ",
             "All existing status effects will be removed a dance status effect is added.",
             "Dance gives immunity to new status effects. New dance status effect will replace this effect.",
             "Dance effect cannot be dispelled. This effect is removed when the caster is defeated."
@@ -69889,7 +69907,10 @@ window.allHeroes = [
         ],
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
-            "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast * With fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies. * The HP and attack inherited from the caster are scaled by the amount of charge int the Core. All charge is exhausted when the Core is activated. * Before the Killer Bot Minion hits a target, it destroys all Minion from the target and damages Mega Minions."
+            "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast",
+            "* With fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
+            "* The HP and attack inherited from the caster are scaled by the amount of charge int the Core. All charge is exhausted when the Core is activated.",
+            "* Before the Killer Bot Minion hits a target, it destroys all Minion from the target and damages Mega Minions."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -70626,16 +70647,16 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Deals 180% damage to target and nearby enemies.",
-            " * The target and nearby enemies get -34% defense against Fire for 3 turns.",
+            "* Deals 180% damage to target and nearby enemies.",
+            "* The target and nearby enemies get -34% defense against Fire for 3 turns.",
             "2nd:",
-            " * Deals 200% damage to target and nearby enemies.",
-            " * The target and nearby enemies get -54% defense against Fire for 3 turns."
+            "* Deals 200% damage to target and nearby enemies.",
+            "* The target and nearby enemies get -54% defense against Fire for 3 turns."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * The caster gets +19% mana generation for 2 turns."
+            "* Deals 80% damage to all enemies.",
+            "* The caster gets +19% mana generation for 2 turns."
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
@@ -70700,16 +70721,16 @@ window.allHeroes = [
         "effects": [
             "Special Skill needs consecutive uses to reach full power, in the following order:",
             "1st:",
-            " * Deals 170% damage to the target and nearby enemies.",
-            " * The target and nearby enemies get -33% defense against Fire for 3 turns.",
+            "* Deals 170% damage to the target and nearby enemies.",
+            "* The target and nearby enemies get -33% defense against Fire for 3 turns.",
             "2nd:",
-            " * Deals 220% damage to the target and nearby enemies.",
-            " * The target and nearby enemies get -55% defense against Fire for 3 turns."
+            "* Deals 220% damage to the target and nearby enemies.",
+            "* The target and nearby enemies get -55% defense against Fire for 3 turns."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * The caster gets +19% mana generation for 2 turns.",
+            "* Deals 80% damage to all enemies.",
+            "* The caster gets +19% mana generation for 2 turns.",
             "Resist Insanity: This character has an innate resistance against Insanity."
         ],
         "family": "tales1_baddies",
@@ -70909,8 +70930,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
-            " * Deals 90% damage to all enemies.",
-            " * All enemies get -25% accuracy for 3 turns."
+            "* Deals 90% damage to all enemies.",
+            "* All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
         "costume_id": 0,
@@ -71256,10 +71277,10 @@ window.allHeroes = [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
             "**",
-            "  - Uncommon Fire, Nature, Ice, Dark and Holy Heroes.",
+            "- Uncommon Fire, Nature, Ice, Dark and Holy Heroes.",
             "*",
-            "  - Common Master Trainer Heroes",
-            "  - Common Fire, Nature, Ice, Dark and Holy Heroes"
+            "- Common Master Trainer Heroes",
+            "- Common Fire, Nature, Ice, Dark and Holy Heroes"
         ],
         "family": "mimic",
         "costume_id": 0,
@@ -71642,8 +71663,8 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 147 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 147 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
+            "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 0,
@@ -71715,8 +71736,8 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 170 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 170 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 1,
@@ -72119,9 +72140,9 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * The caster and nearby allies get +45% attack, and a further 20% increase every time they are hit during 3 turns.",
+            "* The caster and nearby allies get +45% attack, and a further 20% increase every time they are hit during 3 turns.",
             "2x Mana Charge:",
-            " * The target and nearby enemies get -44% defense, and a further -4% decrease every time they are hit during 6 turns."
+            "* The target and nearby enemies get -44% defense, and a further -4% decrease every time they are hit during 6 turns."
         ],
         "passives": [
             "Damage on special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%."
@@ -72260,10 +72281,10 @@ window.allHeroes = [
         ],
         "passives": [
             "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
-            "Righteous Rebellion: ",
-            " * When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
-            " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
-            " * Each of these effects can activate once per turn.",
+            "Righteous Rebellion:",
+            "* When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
+            "* When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
+            "* Each of these effects can activate once per turn.",
             "Resist Bleed: This character is immune to status ailments that deal Bleed damage."
         ],
         "family": "outlaw",
@@ -73428,8 +73449,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies get -34% attack for 3 turns."
+            "* Deals 70% damage to all enemies.",
+            "* All enemies get -34% attack for 3 turns."
         ],
         "family": "sun",
         "costume_id": 0,
@@ -73498,8 +73519,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies get -34% attack for 3 turns.",
+            "* Deals 70% damage to all enemies.",
+            "* All enemies get -34% attack for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ],
@@ -74611,7 +74632,9 @@ window.allHeroes = [
             "The caster and nearby allies decrease -5% mana from the attacker on each counterattack for 5 turns. The effect gets diminished for consecutive activations during the same turn."
         ],
         "passives": [
-            "Ability: Increased Status Effect Duration Chance to increase the duration of cast status effects. * +1 turn: 75% * +2 turns: 25%"
+            "Ability: Increased Status Effect Duration Chance to increase the duration of cast status effects.",
+            "* +1 turn: 75%",
+            "* +2 turns: 25%"
         ],
         "family": "wolf",
         "costume_id": 1,
@@ -75070,9 +75093,9 @@ window.allHeroes = [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core.",
             "The Minion Core activates each time this character's Special Skill is cast:",
-            " * With a fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
-            " * The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            " * Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions."
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
+            "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
+            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -75214,8 +75237,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies get -24% mana generation for 3 turns."
+            "* Deals 70% damage to all enemies.",
+            "* All enemies get -24% mana generation for 3 turns."
         ],
         "family": "moon",
         "costume_id": 0,
@@ -75280,8 +75303,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies get -24% mana generation for 3 turns.",
+            "* Deals 70% damage to all enemies.",
+            "* All enemies get -24% mana generation for 3 turns.",
             "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Resist Sand Damage: This character has innate resistance against sand damage."
         ],
@@ -75809,11 +75832,11 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * Deals 180% damage to the target.",
-            " * Each time the target activates their Special Skill during 3 turns, mana of all other enemies is reduced by -8%.",
+            "* Deals 180% damage to the target.",
+            "* Each time the target activates their Special Skill during 3 turns, mana of all other enemies is reduced by -8%.",
             "2x Mana Charge:",
-            " * All allies get +24% mana generation for 5 turns.",
-            " * For the next 5 turns, this character deals 115% damage to all enemies each time any other ally casts their Special Skill. Damage is dealt on the first Special Skill cast of each character per turn."
+            "* All allies get +24% mana generation for 5 turns.",
+            "* For the next 5 turns, this character deals 115% damage to all enemies each time any other ally casts their Special Skill. Damage is dealt on the first Special Skill cast of each character per turn."
         ],
         "passives": [
             "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.",
@@ -76154,13 +76177,13 @@ window.allHeroes = [
         ],
         "passives": [
             "Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:",
-            " * Attack buffs are transformed into -40% attack status ailments for 3 turns.",
-            " * Defense buffs are transformed into -40% defense status ailments for 3 turns.",
-            " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
+            "* Attack buffs are transformed into -40% attack status ailments for 3 turns.",
+            "* Defense buffs are transformed into -40% defense status ailments for 3 turns.",
+            "* Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
-            " * Up to +35% mana generation.",
-            " * Up to +25% extra chance to dodge.",
-            " * The effects diminish the less Flight Momentum character has.",
+            "* Up to +35% mana generation.",
+            "* Up to +25% extra chance to dodge.",
+            "* The effects diminish the less Flight Momentum character has.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magic_carpet",
@@ -76236,9 +76259,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -77691,9 +77714,9 @@ window.allHeroes = [
         ],
         "passives": [
             "Unstoppable Minions:",
-            " * Resistance against Minion removal.",
-            " * Can't be prevented from receiving Minions.",
-            " * Minion attack and abilities can't be disabled."
+            "* Resistance against Minion removal.",
+            "* Can't be prevented from receiving Minions.",
+            "* Minion attack and abilities can't be disabled."
         ],
         "family": "kingdom",
         "costume_id": 1,
@@ -77765,8 +77788,8 @@ window.allHeroes = [
             "Deals 260% damage to all enemies.",
             "Summons a Xulu Minion for each ally with 15% HP and 20% attack inherited from the caster.",
             "Each hit from a Xulu Minion gives the target the following status ailments:",
-            " * The target receives 340 Bleed damage over 4 turns.",
-            " * Inflicts 5 Insanity on the target.",
+            "* The target receives 340 Bleed damage over 4 turns.",
+            "* Inflicts 5 Insanity on the target.",
             "Inflicts 55 Insanity on the caster."
         ],
         "passives": [
@@ -77847,9 +77870,9 @@ window.allHeroes = [
         ],
         "passives": [
             "Enhanced Shields on Special: Passive Skill as attacking character",
-            " * Fire shields on the board become enhanced with +54% critical chance when this character casts their Special Skill.",
+            "* Fire shields on the board become enhanced with +54% critical chance when this character casts their Special Skill.",
             "Passive Skill as defending character:",
-            " * Fire shields on the board become weakened with -47% accuracy when this character casts their Special Skill.",
+            "* Fire shields on the board become weakened with -47% accuracy when this character casts their Special Skill.",
             "Mark of the Titan Hunter: When this character casts their Special Skill, they mark a random enemy with a Hunting Flare for 4 turns. A target marked with a Hunting Flare receives additional 150 damage when they receive a critical hit."
         ],
         "family": "titan_hunter",
@@ -77929,10 +77952,10 @@ window.allHeroes = [
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " * Alpha Aether",
-            " * Fire Aether III",
-            " * Fire Aether II",
-            " * Fire Aether I"
+            "* Alpha Aether",
+            "* Fire Aether III",
+            "* Fire Aether II",
+            "* Fire Aether I"
         ],
         "family": "mimic",
         "costume_id": 0,
@@ -78016,8 +78039,8 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 312 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 312 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
+            "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 0,
@@ -78379,8 +78402,8 @@ window.allHeroes = [
             "Deals 450% damage to all enemies.",
             "All allies except the caster dance the Blazing Dave Dance for 3 turns.",
             "Blazing Rave Dance",
-            " * +50% defense.",
-            " * If the dancer is hit with direct damage from Special Skill, Blazing Rave Dance is extended by 1 turn for all dancers. The dance can only be extended once per turn. (All existing status effect will be removed when a dance status effect is added. Dance gives immunity to new status effects. New dance status effect will replace this effect. Dance effect cannot be dispelled. The effect is removed when the caster is defeated.)"
+            "* +50% defense.",
+            "* If the dancer is hit with direct damage from Special Skill, Blazing Rave Dance is extended by 1 turn for all dancers. The dance can only be extended once per turn. (All existing status effect will be removed when a dance status effect is added. Dance gives immunity to new status effects. New dance status effect will replace this effect. Dance effect cannot be dispelled. The effect is removed when the caster is defeated.)"
         ],
         "passives": [
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 292 Water damage over 2 turns.",
@@ -78510,7 +78533,7 @@ window.allHeroes = [
             "All enemies get -75% decrease of any boosted health received for 4 turns."
         ],
         "passives": [
-            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
+            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed."
         ],
         "family": "masquerade",
         "costume_id": 0,
@@ -78800,18 +78823,18 @@ window.allHeroes = [
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " ****",
-            " - Damascus Blade",
-            " - Tome Of Tactics",
-            " - Mistic Rings",
-            " ***",
-            " - Fine Gloves",
-            " - Compass",
-            " - Hidden Blade",
-            " - Chainmail Shirt",
-            " - Tall Boots",
-            " **",
-            " - Arcane Scipt"
+            "****",
+            "- Damascus Blade",
+            "- Tome Of Tactics",
+            "- Mistic Rings",
+            "***",
+            "- Fine Gloves",
+            "- Compass",
+            "- Hidden Blade",
+            "- Chainmail Shirt",
+            "- Tall Boots",
+            "**",
+            "- Arcane Scipt"
         ],
         "family": "mimic",
         "costume_id": 0,
@@ -78891,9 +78914,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -79038,17 +79061,17 @@ window.allHeroes = [
         "health": 1856,
         "effects": [
             "1x Mana Charge",
-            " * Deals 385% damage to the target.",
+            "* Deals 385% damage to the target.",
             "* The target gets a Bleed mark for 2 turns. Whenever a marked target receives a Bleed damage, they gain a stack (Max: 10). Each stack increases all damage they target receives by +5%.",
-            " * The target receives 316 Bleed damage over 2 turns.",
+            "* The target receives 316 Bleed damage over 2 turns.",
             "2x Mana Charge",
-            " * Deals 395% damage to the target and nearby enemies.",
+            "* Deals 395% damage to the target and nearby enemies.",
             "* The target and nearby enemies get a Bleed mark for 4 turns. Whenever a marked target receives a Bleed damage, they gain a stack (Max: 10). Each stack increases all damage they target receives by +5%.",
-            " * The target and nearby enemies receive 792 Bleed damage over 4 turns.",
+            "* The target and nearby enemies receive 792 Bleed damage over 4 turns.",
             "3x Mana Charge",
-            " * Deals 405% damage to all enemies.",
+            "* Deals 405% damage to all enemies.",
             "* All enemies get a Bleed mark for 6 turns. Whenever a marked target receives a Bleed damage, they gain a stack (Max: 10). Each stack increases all damage they target receives by +5%.",
-            " * All enemies receive 1506 Bleed damage over 6 turns."
+            "* All enemies receive 1506 Bleed damage over 6 turns."
         ],
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
@@ -79739,11 +79762,11 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy",
-            " * The Seeding Fiend evolves into a Sprout Fiend after 2 turns.",
-            " * The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.",
-            " 1) Seedling Fiend: 50% attack, 15% health",
-            " 2) Sprout Fiend: 75% attack, 25% health",
-            " 3) Blossom Mega Fiend: 250% attack, 60% health"
+            "* The Seeding Fiend evolves into a Sprout Fiend after 2 turns.",
+            "* The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.",
+            "1) Seedling Fiend: 50% attack, 15% health",
+            "2) Sprout Fiend: 75% attack, 25% health",
+            "3) Blossom Mega Fiend: 250% attack, 60% health"
         ],
         "family": "vegetable",
         "costume_id": 0,
@@ -79815,8 +79838,8 @@ window.allHeroes = [
             "Deals 250% damage to all enemies.",
             "All enemies turn into Cursed Paintings for 5 turns. This effect can't be cleansed. Cursed Paintings have 70% attack, 70% defense and the following Special Skill:",
             "Break Free (Very Fast)",
-            " * Deals 250% damage to the target.",
-            " * 60% chance of removing the Cursed Painting ailment from the caster. (Bosses, Titans and Mythic Titans are not affected by this status effect.)"
+            "* Deals 250% damage to the target.",
+            "* 60% chance of removing the Cursed Painting ailment from the caster. (Bosses, Titans and Mythic Titans are not affected by this status effect.)"
         ],
         "passives": [
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
@@ -79976,8 +79999,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Mana on Damage Received:",
-            " * When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
-            " * Maximum of 10% mana gained per turn.",
+            "* When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
+            "* Maximum of 10% mana gained per turn.",
             "Extra Damage to Minions & Mega Minions: This character does +150% damage to Minions and Mega Minions."
         ],
         "family": "mahayoddha",
@@ -80245,7 +80268,9 @@ window.allHeroes = [
         ],
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
-            "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast: * With fully charged Repair Core, boosts the health of all allies by 25%. * The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
+            "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
+            "* With fully charged Repair Core, boosts the health of all allies by 25%.",
+            "* The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -80390,8 +80415,8 @@ window.allHeroes = [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
             "Destructive Core: The Construct Core of this character is Destructive Core.",
             "The Destructive Core activates each time this character's Special Skill is cast",
-            " * With fully charged Destructive Core, deals 180% damage to all enemies.",
-            " * The damage is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
+            "* With fully charged Destructive Core, deals 180% damage to all enemies.",
+            "* The damage is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -80724,7 +80749,7 @@ window.allHeroes = [
             "Deaks 495% damage to the target and minor damage to nearby enemies."
         ],
         "passives": [
-            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
+            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed."
         ],
         "family": "masquerade",
         "costume_id": 0,
@@ -80795,14 +80820,14 @@ window.allHeroes = [
         ],
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments on Passive Skills.",
+            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments on Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
             "This includes:",
-            " * - Status effect buffs and ailments.",
-            " * - Positive and negative stacks.",
-            " * - Growth and Wither effects."
+            "* - Status effect buffs and ailments.",
+            "* - Positive and negative stacks.",
+            "* - Growth and Wither effects."
         ],
         "family": "wild_cat",
         "costume_id": 0,
@@ -81743,12 +81768,12 @@ window.allHeroes = [
         "passives": [
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
             "The Eldritch Host has:",
-            " * 100% inherited health.",
-            " * 1200 attack.",
-            " * 1200 defense.",
+            "* 100% inherited health.",
+            "* 1200 attack.",
+            "* 1200 defense.",
             "Special Skill: Eldrich Bright.",
-            " * Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            " * Inflicts 30 Insanity on the caster.",
+            "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
+            "* Inflicts 30 Insanity on the caster.",
             "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
         ],
         "family": "forsaken",
@@ -81896,16 +81921,16 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Deals 380% damage to the target and nearby enemies.",
-            " * The target and nearby enemies receive Corrosive Burn over 4 turns. The Corrosive Burn deals 201 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
+            "* Deals 380% damage to the target and nearby enemies.",
+            "* The target and nearby enemies receive Corrosive Burn over 4 turns. The Corrosive Burn deals 201 Burn damage and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
             "2nd:",
-            " * Deals 455% damage to the target and nearby enemies.",
-            " * The target and nearby enemies receive Corrosive Burn over 4 turns. The Corrosive Burn deals 231 Burn damage and lowers the target's defense by -16% each turn. Deals extra damage against heroes with Minions or Mega Minions."
+            "* Deals 455% damage to the target and nearby enemies.",
+            "* The target and nearby enemies receive Corrosive Burn over 4 turns. The Corrosive Burn deals 231 Burn damage and lowers the target's defense by -16% each turn. Deals extra damage against heroes with Minions or Mega Minions."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:",
-            " * Deals 80% damage to all enemies.",
-            " * The caster get +19% mana generation for 2 turns."
+            "* Deals 80% damage to all enemies.",
+            "* The caster get +19% mana generation for 2 turns."
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
@@ -81976,16 +82001,16 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Deals 360% damage to the target and nearby enemies.",
-            " * The target and nearby enemies receive Corrosive Burn for 4 turns. The Corrosive Burn deals 240 Burn damage and lowers the target's defense by -10% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
+            "* Deals 360% damage to the target and nearby enemies.",
+            "* The target and nearby enemies receive Corrosive Burn for 4 turns. The Corrosive Burn deals 240 Burn damage and lowers the target's defense by -10% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
             "2nd:",
-            " * Deals 485% damage to the target and nearby enemies.",
-            " * The target and nearby enemies receive Corrosive Burn for 4 turns. The Corrosive Burn deals 375 Burn damage and lowers the target's defense by -18% each turn. Deals extra damage against heroes with Minions or Mega Minions."
+            "* Deals 485% damage to the target and nearby enemies.",
+            "* The target and nearby enemies receive Corrosive Burn for 4 turns. The Corrosive Burn deals 375 Burn damage and lowers the target's defense by -18% each turn. Deals extra damage against heroes with Minions or Mega Minions."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:",
-            " * Deals 80% damage to all enemies.",
-            " * The caster get +19% mana generation for 2 turns.",
+            "* Deals 80% damage to all enemies.",
+            "* The caster get +19% mana generation for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "tales1_baddies",
@@ -82056,9 +82081,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -82133,9 +82158,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +150%",
+            "- Dealt extra elemental damage: +150%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            " - Received elemental damage: -25%"
+            "- Received elemental damage: -25%"
         ],
         "family": "super_elemental",
         "costume_id": 1,
@@ -83213,10 +83238,10 @@ window.allHeroes = [
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " * Master Fighter Emblems",
-            " * Master Barbarian Emblems",
-            " * Fighter Emblems",
-            " * Barbarian Emblems"
+            "* Master Fighter Emblems",
+            "* Master Barbarian Emblems",
+            "* Fighter Emblems",
+            "* Barbarian Emblems"
         ],
         "family": "mimic",
         "costume_id": 0,
@@ -83291,14 +83316,13 @@ window.allHeroes = [
         "health": 1406,
         "effects": [
             "Casts one of the following special skills:",
-            " ",
             "If any enemy has the Burn Status Ailment:",
-            " * All enemies receive 415 Burn damage over 5 turns.",
-            " * All allies regenerate 549 HP over 3 turns.",
-            " * All allies are immune to new status ailments for 3 turns.",
+            "* All enemies receive 415 Burn damage over 5 turns.",
+            "* All allies regenerate 549 HP over 3 turns.",
+            "* All allies are immune to new status ailments for 3 turns.",
             "Otherwise:",
-            " * All enemies receive 365 Burn damage over 5 turns.",
-            " * All allies are immune to new status ailments for 3 turns."
+            "* All enemies receive 365 Burn damage over 5 turns.",
+            "* All allies are immune to new status ailments for 3 turns."
         ],
         "passives": [],
         "family": "circus",
@@ -83375,14 +83399,13 @@ window.allHeroes = [
         "health": 2336,
         "effects": [
             "Casts one of the following Special Skills:",
-            " ",
             "If any enemy has the Burn status ailment:",
-            " * All enemies receive 715 Burn damage over 5 turns.",
-            " * All allies regenerate 450 HP over 3 turns.",
-            " * All allies are immune to new status ailments for 3 turns.",
+            "* All enemies receive 715 Burn damage over 5 turns.",
+            "* All allies regenerate 450 HP over 3 turns.",
+            "* All allies are immune to new status ailments for 3 turns.",
             "Otherwise:",
-            " * All enemies receive 620 Burn damage over 5 turns.",
-            " * All allies are immune to new status ailments for 3 turns."
+            "* All enemies receive 620 Burn damage over 5 turns.",
+            "* All allies are immune to new status ailments for 3 turns."
         ],
         "passives": [
             "Copy Ailment on Cleanse: When a status ailment is cleansed from this hero, a new copy of the cleansed ailment is applied on a random enemy."
@@ -83459,16 +83482,16 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
             "1x Mana Charge:",
-            " * Destroys all Minions from the target.",
-            " * Deals 520% damage to the target.",
+            "* Destroys all Minions from the target.",
+            "* Deals 520% damage to the target.",
             "2x Mana Charge:",
-            " * Destroys all Minions from the target.",
-            " * Deals 610% damage to the target.",
-            " * The target can't summon new Minions with Special Skill and receives 200 damage for each Minion they attempt to summon for 3 turns.",
+            "* Destroys all Minions from the target.",
+            "* Deals 610% damage to the target.",
+            "* The target can't summon new Minions with Special Skill and receives 200 damage for each Minion they attempt to summon for 3 turns.",
             "3x Mana Charge:",
-            " * Destroys all Minions from the target.",
-            " * Deals 675% damage to the target.",
-            " * The target can't summon new Minions with Special Skill and receives 200 damage for each Minion they attempt to summon for 4 turns."
+            "* Destroys all Minions from the target.",
+            "* Deals 675% damage to the target.",
+            "* The target can't summon new Minions with Special Skill and receives 200 damage for each Minion they attempt to summon for 4 turns."
         ],
         "passives": [
             "Resist defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
@@ -83623,11 +83646,11 @@ window.allHeroes = [
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " * Common Fire Trainer Heroes",
-            " * Uncommon Fire Trainer Heroes",
-            " * Rare Fire Trainer Heroes",
-            " * Common Fire Heroes",
-            " * Uncommon Fire Heroes"
+            "* Common Fire Trainer Heroes",
+            "* Uncommon Fire Trainer Heroes",
+            "* Rare Fire Trainer Heroes",
+            "* Common Fire Heroes",
+            "* Uncommon Fire Heroes"
         ],
         "family": "mimic",
         "costume_id": 0,
@@ -83710,8 +83733,8 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
-            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 338 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 338 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
         "costume_id": 0,
@@ -84340,22 +84363,22 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Deals 300% damage to 3 random enemies.",
-            " * Hit enemies became afflicted with Underwater Magma Cube.",
-            " * While afflicted with Magma Cube the owner get -34% defense.",
-            " * Magma Cube explode in 3 turns doing 300 damage to their owner.",
-            " * If Magma Cube is cleansed, the owner get -34% mana generation for 3 turns.",
+            "* Deals 300% damage to 3 random enemies.",
+            "* Hit enemies became afflicted with Underwater Magma Cube.",
+            "* While afflicted with Magma Cube the owner get -34% defense.",
+            "* Magma Cube explode in 3 turns doing 300 damage to their owner.",
+            "* If Magma Cube is cleansed, the owner get -34% mana generation for 3 turns.",
             "2nd:",
-            " * Deals 350% damage to 5 random enemies.",
-            " * Hit enemies became afflicted with Underwater Magma Cube.",
-            " * While afflicted with Magma Cube the owner get -44% defense.",
-            " * Magma Cube explode in 3 turns doing 450 damage to their owner.",
-            " * If Magma Cube is cleansed, the owner get -54% mana generation for 3 turns."
+            "* Deals 350% damage to 5 random enemies.",
+            "* Hit enemies became afflicted with Underwater Magma Cube.",
+            "* While afflicted with Magma Cube the owner get -44% defense.",
+            "* Magma Cube explode in 3 turns doing 450 damage to their owner.",
+            "* If Magma Cube is cleansed, the owner get -54% mana generation for 3 turns."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * The caster gets +19% mana generation for 2 turns."
+            "* Deals 80% damage to all enemies.",
+            "* The caster gets +19% mana generation for 2 turns."
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
@@ -84427,22 +84450,22 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Deals 275% damage to 3 random enemies.",
-            " * Hit enemies became afflicted with Underwater Magma Cube.",
-            " * While afflicted with Magma Cube the owner get -34% defense",
-            " * Magma Cube explode in 3 turns doing 300 damage to their owner.",
-            " * If Magma Cube is cleansed, the owner get -34% mana generation for 3 turns. (If the Magma Cube is replaced by a new Magma Cube, it explodes. This can happen up to 2 times per cast.)",
+            "* Deals 275% damage to 3 random enemies.",
+            "* Hit enemies became afflicted with Underwater Magma Cube.",
+            "* While afflicted with Magma Cube the owner get -34% defense",
+            "* Magma Cube explode in 3 turns doing 300 damage to their owner.",
+            "* If Magma Cube is cleansed, the owner get -34% mana generation for 3 turns. (If the Magma Cube is replaced by a new Magma Cube, it explodes. This can happen up to 2 times per cast.)",
             "2nd:",
-            " * Deals 375% damage to 5 random enemies.",
-            " * Hit enemies became afflicted with Underwater Magma Cube.",
-            " * While afflicted with Magma Cube the owner get -44% defense.",
-            " * Magma Cube explode in 4 turns doing 450 damage to their owner.",
-            " * If Magma Cube is cleansed, the owner get -54% mana generation for 3 turns. (If the Magma Cube is replaced by a new Magma Cube, it explodes. This can happen up to 2 times per cast.)"
+            "* Deals 375% damage to 5 random enemies.",
+            "* Hit enemies became afflicted with Underwater Magma Cube.",
+            "* While afflicted with Magma Cube the owner get -44% defense.",
+            "* Magma Cube explode in 4 turns doing 450 damage to their owner.",
+            "* If Magma Cube is cleansed, the owner get -54% mana generation for 3 turns. (If the Magma Cube is replaced by a new Magma Cube, it explodes. This can happen up to 2 times per cast.)"
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * The caster gets +19% mana generation for 2 turns.",
+            "* Deals 80% damage to all enemies.",
+            "* The caster gets +19% mana generation for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "tales1_baddies",
@@ -85081,8 +85104,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
-            " * Boosts health of all allies by 10%. Boosted Heath can exceed max HP.",
-            " * All allies gain a small amount of mana."
+            "* Boosts health of all allies by 10%. Boosted Heath can exceed max HP.",
+            "* All allies gain a small amount of mana."
         ],
         "family": "moon",
         "costume_id": 0,
@@ -85153,8 +85176,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
-            " * Boosts health of all allies by 10%. Boosted Heath can exceed max HP.",
-            " * All allies gain a small amount of mana.",
+            "* Boosts health of all allies by 10%. Boosted Heath can exceed max HP.",
+            "* All allies gain a small amount of mana.",
             "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.",
             "Resist Mana Generation Stopping: This character has an innate resistance against status ailments that affect stop mana generation."
         ],
@@ -85295,17 +85318,17 @@ window.allHeroes = [
             "Deals 480% damage to the target and minor damage to nearby enemies.",
             "Knocks down enemies. This has a different effect based on the team of this character:",
             "Attack Team:",
-            " * The target and nearby enemies have thier normal attack delayed by 2 turns.",
+            "* The target and nearby enemies have thier normal attack delayed by 2 turns.",
             "Defense Team:",
-            " * The target and nearby enemies don't contribute to Troop damage for 2 turns.",
+            "* The target and nearby enemies don't contribute to Troop damage for 2 turns.",
             "The caster and nearby allies get +50% attack for 3 turns."
         ],
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
             "Destructive Core: The Construct Core of this character is Destructive Core.",
             "The Destructive Core activates each time this character's Special Skill is cast",
-            " * With fully charged Destructive Core, deals 180% damage to all enemies.",
-            " * The damage is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
+            "* With fully charged Destructive Core, deals 180% damage to all enemies.",
+            "* The damage is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -85370,16 +85393,16 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
             "1x Mana Charge:",
-            " * Deals 220% damage to all enemies.",
-            " * All enemies are immune to new status effects buffs for 2 turns.",
+            "* Deals 220% damage to all enemies.",
+            "* All enemies are immune to new status effects buffs for 2 turns.",
             "2x Mana Charge:",
-            " * Dispels buffs from all enemies.",
-            " * Deals 320% damage to all enemies.",
-            " * All enemies are immune to new status effects buffs for 3 turns.",
+            "* Dispels buffs from all enemies.",
+            "* Deals 320% damage to all enemies.",
+            "* All enemies are immune to new status effects buffs for 3 turns.",
             "3x Mana Charge:",
-            " * Dispels buffs from all enemies.",
-            " * Deals 385% damage to all enemies.",
-            " * All enemies are immune to new status effects buffs for 4 turns."
+            "* Dispels buffs from all enemies.",
+            "* Deals 385% damage to all enemies.",
+            "* All enemies are immune to new status effects buffs for 4 turns."
         ],
         "passives": [
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
@@ -85533,9 +85556,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -85614,9 +85637,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +150%",
+            "- Dealt extra elemental damage: +150%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            " - Received elemental damage: -25%"
+            "- Received elemental damage: -25%"
         ],
         "family": "super_elemental",
         "costume_id": 1,
@@ -86118,13 +86141,13 @@ window.allHeroes = [
         ],
         "passives": [
             "Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:",
-            " * Attack buffs are transformed into -40% attack status ailments for 3 turns.",
-            " * Defense buffs are transformed into -40% defense status ailments for 3 turns.",
-            " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
+            "* Attack buffs are transformed into -40% attack status ailments for 3 turns.",
+            "* Defense buffs are transformed into -40% defense status ailments for 3 turns.",
+            "* Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
-            " * Up to +35% mana generation.",
-            " * Up to +25% extra chance to dodge.",
-            " * The effects diminish the less Flight Momentum character has.",
+            "* Up to +35% mana generation.",
+            "* Up to +25% extra chance to dodge.",
+            "* The effects diminish the less Flight Momentum character has.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magic_carpet",
@@ -86207,8 +86230,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Mana on Damage Received:",
-            " * When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
-            " * Maximum of 10% mana gained per turn.",
+            "* When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
+            "* Maximum of 10% mana gained per turn.",
             "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions."
         ],
         "family": "mahayoddha",
@@ -86628,8 +86651,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies receive 243 Sand damage over 3 turns."
+            "* Deals 70% damage to all enemies.",
+            "* All enemies receive 243 Sand damage over 3 turns."
         ],
         "family": "sun",
         "costume_id": 0,
@@ -86701,8 +86724,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies receive 366 Sand damage over 3 turns.",
+            "* Deals 70% damage to all enemies.",
+            "* All enemies receive 366 Sand damage over 3 turns.",
             "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 50% is added to its power."
         ],
@@ -87026,20 +87049,20 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Deals 400% damage to target.",
-            " * Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with 32% attack every turn.",
-            " * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 20% of its owner's max health.",
-            " * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend.",
+            "* Deals 400% damage to target.",
+            "* Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with 32% attack every turn.",
+            "* The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 20% of its owner's max health.",
+            "* The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend.",
             "2nd:",
-            " * Deals 450% damage to target.",
-            " * Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with 32% attack every turn.",
-            " * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 20% of its owner's max health.",
-            " * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend."
+            "* Deals 450% damage to target.",
+            "* Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with 32% attack every turn.",
+            "* The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 20% of its owner's max health.",
+            "* The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns.",
+            "* Deals 80% damage to all enemies.",
+            "* All allies get +21% critical chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "tales1_goodies",
@@ -87106,20 +87129,20 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Deals 375% damage to target.",
-            " * Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with 27% attack every turn.",
-            " * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 15% of its owner's max health.",
-            " * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend.",
+            "* Deals 375% damage to target.",
+            "* Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with 27% attack every turn.",
+            "* The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 15% of its owner's max health.",
+            "* The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend.",
             "2nd:",
-            " * Deals 475% damage to target.",
-            " * Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with 42% attack every turn.",
-            " * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its owner's max health.",
-            " * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend."
+            "* Deals 475% damage to target.",
+            "* Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with 42% attack every turn.",
+            "* The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its owner's max health.",
+            "* The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns.",
+            "* Deals 80% damage to all enemies.",
+            "* All allies get +21% critical chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "tales1_goodies",
@@ -87253,10 +87276,10 @@ window.allHeroes = [
         ],
         "passives": [
             "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
-            "Righteous Rebellion: ",
-            " * When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
-            " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
-            " * Each of these effects can activate once per turn.",
+            "Righteous Rebellion:",
+            "* When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
+            "* When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
+            "* Each of these effects can activate once per turn.",
             "Resist Bleed: This character is immune to status ailments that deal Bleed damage."
         ],
         "family": "outlaw",
@@ -87408,10 +87431,10 @@ window.allHeroes = [
         ],
         "passives": [
             "Health Boost on Critical Special Attack: When this character scores a critical hit with their Special Skill, they boost the health of all their allies by 10%. This effect can activate once per turn.",
-            "Righteous Rebellion: ",
-            " * When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
-            " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
-            " * Each of these effects can activate once per turn.",
+            "Righteous Rebellion:",
+            "* When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
+            "* When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
+            "* Each of these effects can activate once per turn.",
             "Resist Bleed: This character is immune to status ailments that deal Bleed damage."
         ],
         "family": "outlaw",
@@ -87486,8 +87509,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
-            " * Deals 90% damage to all enemies.",
-            " * All enemies get -25% accuracy for 3 turns."
+            "* Deals 90% damage to all enemies.",
+            "* All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
         "costume_id": 0,
@@ -87562,17 +87585,17 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
-            " - Reduces max health of the target and nearby enemies by 500. The effect is stronger against targets with boosted health. (Max health can't be lower than 30% of the original max health. Any boosted health is reduced by an additional 500).",
-            " - Deals 250% damage to the target and nearby enemies.",
+            "- Reduces max health of the target and nearby enemies by 500. The effect is stronger against targets with boosted health. (Max health can't be lower than 30% of the original max health. Any boosted health is reduced by an additional 500).",
+            "- Deals 250% damage to the target and nearby enemies.",
             "x2 Mana Charge:",
-            " - Reduces max health of the target and nearby enemies by 650. The effect is stronger against targets with boosted health. (Max health can't be lower than 30% of the original max health. Any boosted health is reduced by an additional 650.)",
-            " - Deals 375% damage to the target and nearby enemies.",
-            " - The attack bypasses defensive buffs. (This includes counterattack.)",
+            "- Reduces max health of the target and nearby enemies by 650. The effect is stronger against targets with boosted health. (Max health can't be lower than 30% of the original max health. Any boosted health is reduced by an additional 650.)",
+            "- Deals 375% damage to the target and nearby enemies.",
+            "- The attack bypasses defensive buffs. (This includes counterattack.)",
             "x3 Mana Charge:",
-            " - Reduces max health of the target and nearby enemies by 800. The effect is stronger against targets with boosted health. (Max health can't be lower than 30% of the original max health. Any boosted health is reduced by an additional 800.)",
-            " - Deals 500% damage to the target and nearby enemies.",
-            " - The attack bypasses defensive buffs. (This includes counterattack.)",
-            " - The target and nearby enemies resist healing and receive 450 damage per each resisted healing for 6 turns."
+            "- Reduces max health of the target and nearby enemies by 800. The effect is stronger against targets with boosted health. (Max health can't be lower than 30% of the original max health. Any boosted health is reduced by an additional 800.)",
+            "- Deals 500% damage to the target and nearby enemies.",
+            "- The attack bypasses defensive buffs. (This includes counterattack.)",
+            "- The target and nearby enemies resist healing and receive 450 damage per each resisted healing for 6 turns."
         ],
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
@@ -88193,12 +88216,12 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * The target and nearby enemies receive 156 Burn damage over 2 turns.",
-            " * If the caster dies during the next 2 turns they are resurrected in the beginning of their next turn with 32% health. All status effects and stacks are removed when the caster dies.",
+            "* The target and nearby enemies receive 156 Burn damage over 2 turns.",
+            "* If the caster dies during the next 2 turns they are resurrected in the beginning of their next turn with 32% health. All status effects and stacks are removed when the caster dies.",
             "2x Mana Charge:",
-            " * Each defeated ally has a 50% chance to get revived with 40% HP.",
-            " * All allies regenerate 714 HP over 3 turns.",
-            " * All allies reduce all received damage by -50% for 3 turns."
+            "* Each defeated ally has a 50% chance to get revived with 40% HP.",
+            "* All allies regenerate 714 HP over 3 turns.",
+            "* All allies reduce all received damage by -50% for 3 turns."
         ],
         "passives": [
             "Health recovery on special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%."
@@ -88284,12 +88307,12 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% mana:",
             "1x Mana Charge:",
-            " * All enemies receive 350 Burn damage over 2 turns. The caster absorbs 10% of dealt Burn damage as health.",
-            " * If the caster is defeated during the next 2 turns, they are resurrected in the beginning of their next turn with 40% health. All status effects and stack are removed when the caster is defeated.",
+            "* All enemies receive 350 Burn damage over 2 turns. The caster absorbs 10% of dealt Burn damage as health.",
+            "* If the caster is defeated during the next 2 turns, they are resurrected in the beginning of their next turn with 40% health. All status effects and stack are removed when the caster is defeated.",
             "2x Mana Charge:",
-            " * Each defeated ally has a 55% chance to get revived with 44% HP.",
-            " * All allies regenerate 795 boosted health over 3 turns. Boosted health can exceed max HP.",
-            " * All allies reduce all received damage by -60% for 3 turns."
+            "* Each defeated ally has a 55% chance to get revived with 44% HP.",
+            "* All allies regenerate 795 boosted health over 3 turns. Boosted health can exceed max HP.",
+            "* All allies reduce all received damage by -60% for 3 turns."
         ],
         "passives": [
             "Health Recovery on Special: When this character casts their Special Skill, they have a 60% chance to recover 20% health for allies. If the Special Skill is fully charged, the chance is 100%.",
@@ -88376,13 +88399,13 @@ window.allHeroes = [
         ],
         "passives": [
             "Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:",
-            " * Attack buffs are transformed into -40% attack status ailments for 3 turns.",
-            " * Defense buffs are transformed into -40% defense status ailments for 3 turns.",
-            " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
+            "* Attack buffs are transformed into -40% attack status ailments for 3 turns.",
+            "* Defense buffs are transformed into -40% defense status ailments for 3 turns.",
+            "* Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
-            " * Up to +35% mana generation.",
-            " * Up to +25% extra chance to dodge.",
-            " * The effects diminish the less Flight Momentum character has.",
+            "* Up to +35% mana generation.",
+            "* Up to +25% extra chance to dodge.",
+            "* The effects diminish the less Flight Momentum character has.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magic_carpet",
@@ -88751,9 +88774,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -88818,17 +88841,17 @@ window.allHeroes = [
         "health": 1763,
         "effects": [
             "1x Mana Charge",
-            " * Deals 400% damage to the target.",
-            " * Deals 600% damage if the target has less than 50% health remaining.",
-            " * If the target is defeated by the attack, all allies get +20% mana generation for 2 turns.",
+            "* Deals 400% damage to the target.",
+            "* Deals 600% damage if the target has less than 50% health remaining.",
+            "* If the target is defeated by the attack, all allies get +20% mana generation for 2 turns.",
             "2x Mana Charge",
-            " * Deals 425% damage to the target and nearby enemies.",
-            " * Deals 638% damage to enemies with less than 50% health remaining.",
-            " * If the target is defeated by the attack, all allies get +30% mana generation for 3 turns.",
+            "* Deals 425% damage to the target and nearby enemies.",
+            "* Deals 638% damage to enemies with less than 50% health remaining.",
+            "* If the target is defeated by the attack, all allies get +30% mana generation for 3 turns.",
             "3x Mana Charge",
-            " * Deals 450% damage to all enemies.",
-            " * Deals 675% damage to enemies with less than 50% health remaining.",
-            " * If the target is defeated by the attack, all allies get +40% mana generation for 4 turns."
+            "* Deals 450% damage to all enemies.",
+            "* Deals 675% damage to enemies with less than 50% health remaining.",
+            "* If the target is defeated by the attack, all allies get +40% mana generation for 4 turns."
         ],
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
@@ -89531,8 +89554,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill.",
-            " * Deals 90% damage to all enemies.",
-            " * All enemies get -25% accuracy for 3 turns."
+            "* Deals 90% damage to all enemies.",
+            "* All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
         "costume_id": 0,
@@ -90056,14 +90079,14 @@ window.allHeroes = [
         ],
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments on Passive Skills.",
+            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments on Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
             "This includes:",
-            " * - Status effect buffs and ailments.",
-            " * - Positive and negative stacks.",
-            " * - Growth and Wither effects."
+            "* - Status effect buffs and ailments.",
+            "* - Positive and negative stacks.",
+            "* - Growth and Wither effects."
         ],
         "family": "wild_cat",
         "costume_id": 0,
@@ -90213,13 +90236,13 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * All enemies receive 423 Burn damage over 3 turns.",
-            " * All enemies get -34% defense against Fire for 3 turns.",
-            " * Dispels buffs from all enemies.",
+            "* All enemies receive 423 Burn damage over 3 turns.",
+            "* All enemies get -34% defense against Fire for 3 turns.",
+            "* Dispels buffs from all enemies.",
             "2x Mana Charge:",
-            " * All allies regenerate 1190 HP over 5 turns.",
-            " * All allies get +50% attack against Nature for 5 turns.",
-            " * Cleanses status ailments from all allies."
+            "* All allies regenerate 1190 HP over 5 turns.",
+            "* All allies get +50% attack against Nature for 5 turns.",
+            "* Cleanses status ailments from all allies."
         ],
         "passives": [
             "Mana on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.",
@@ -90311,13 +90334,13 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * All enemies received 645 Burn damage over 3 turns. The caster absorbs 10% of dealt Burn damage as health.",
-            " * All enemies get -36% defense against Fire for 3 turns.",
-            " * Dispels buffs from all enemies.",
+            "* All enemies received 645 Burn damage over 3 turns. The caster absorbs 10% of dealt Burn damage as health.",
+            "* All enemies get -36% defense against Fire for 3 turns.",
+            "* Dispels buffs from all enemies.",
             "2x Mana Charge:",
-            " * All allies regenerate 1300 boosted health over 5 turns. Boosted health can exceed max HP.",
-            " * All allies get +60% attack against Nature for 5 turns.",
-            " * Cleanses status ailments from all allies."
+            "* All allies regenerate 1300 boosted health over 5 turns. Boosted health can exceed max HP.",
+            "* All allies get +60% attack against Nature for 5 turns.",
+            "* Cleanses status ailments from all allies."
         ],
         "passives": [
             "Mana on Special: When this character casts their Special Skill, they have a 60% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.",
@@ -90478,8 +90501,8 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 319 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 319 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
+            "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 0,
@@ -90566,8 +90589,8 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 376 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 376 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 1,
@@ -90785,8 +90808,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill.",
-            " * Deals 90% damage to all enemies.",
-            " * All enemies get -25% accuracy for 3 turns."
+            "* Deals 90% damage to all enemies.",
+            "* All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
         "costume_id": 0,
@@ -90926,16 +90949,16 @@ window.allHeroes = [
         "health": 2257,
         "effects": [
             "If the caster has 50 or more Humility:",
-            " * Recovers 30% health for all allies.",
-            " * Cleanses status ailments from all allies.",
+            "* Recovers 30% health for all allies.",
+            "* Cleanses status ailments from all allies.",
             "* Growth: All allies get 150 attack.",
-            " * All allies regenerate 1440 HP over 3 turns.",
-            " * The caster gets +74% defense against Special Skills for 3 turns.",
+            "* All allies regenerate 1440 HP over 3 turns.",
+            "* The caster gets +74% defense against Special Skills for 3 turns.",
             "Otherwise:",
-            " * Recovers 20% health for all allies.",
-            " * Cleanses 1 status ailment from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)",
+            "* Recovers 20% health for all allies.",
+            "* Cleanses 1 status ailment from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)",
             "* Growth: All allies get 100 attack.",
-            " * All allies regenerate 900 HP over 3 turns."
+            "* All allies regenerate 900 HP over 3 turns."
         ],
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
@@ -91170,17 +91193,17 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "1x Mana Charge:",
-            " - Deals 290% damage to the target.",
-            " - Reduces the mana of the target by 25%.",
-            " - The target gets -14% mana generation for 2 turns.",
+            "- Deals 290% damage to the target.",
+            "- Reduces the mana of the target by 25%.",
+            "- The target gets -14% mana generation for 2 turns.",
             "2x Mana Charge:",
-            " - Deals 330% damage to the target and nearby enemies.",
-            " - Reduces the mana of the target and nearby enemies by 50%.",
-            " - The target and nearby enemies get -24% mana generation for 3 turns.",
+            "- Deals 330% damage to the target and nearby enemies.",
+            "- Reduces the mana of the target and nearby enemies by 50%.",
+            "- The target and nearby enemies get -24% mana generation for 3 turns.",
             "3x Mana Charge:",
-            " - Deals 370% damage to all enemies.",
-            " - Reduces the mana of all enemies by 100%.",
-            " - All enemies gets -34% mana generation for 4 turns."
+            "- Deals 370% damage to all enemies.",
+            "- Reduces the mana of all enemies by 100%.",
+            "- All enemies gets -34% mana generation for 4 turns."
         ],
         "passives": [],
         "family": "ninja",
@@ -91879,8 +91902,8 @@ window.allHeroes = [
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
             "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast:",
-            " * All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 146 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
-            " * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 146 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
+            "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -92027,8 +92050,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies get -34% attack for 3 turns."
+            "* Deals 70% damage to all enemies.",
+            "* All enemies get -34% attack for 3 turns."
         ],
         "family": "sun",
         "costume_id": 0,
@@ -92093,8 +92116,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies get -34% attack for 3 turns.",
+            "* Deals 70% damage to all enemies.",
+            "* All enemies get -34% attack for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ],
@@ -92154,17 +92177,17 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
-            " - Deals 160% damage to all enemies.",
-            " - All enemies receive 256 Burn damage over 2 turns.",
-            " - All enemies get -64% decrease of any healing received for 2 turns.",
+            "- Deals 160% damage to all enemies.",
+            "- All enemies receive 256 Burn damage over 2 turns.",
+            "- All enemies get -64% decrease of any healing received for 2 turns.",
             "x2 Mana Charge:",
-            " - Deals 275% damage to all enemies.",
-            " - All enemies receive 561 Burn damage over 3 turns.",
-            " - All enemies get -74% decrease of any healing received for 3 turns.",
+            "- Deals 275% damage to all enemies.",
+            "- All enemies receive 561 Burn damage over 3 turns.",
+            "- All enemies get -74% decrease of any healing received for 3 turns.",
             "x3 Mana Charge:",
-            " - Deals 340% damage to all enemies.",
-            " - All enemies receive 840 Burn damage over 4 turns.",
-            " - All enemies get -84% decrease of any healing received for 4 turns."
+            "- Deals 340% damage to all enemies.",
+            "- All enemies receive 840 Burn damage over 4 turns.",
+            "- All enemies get -84% decrease of any healing received for 4 turns."
         ],
         "passives": [],
         "family": "ninja",
@@ -92240,9 +92263,9 @@ window.allHeroes = [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core.",
             "The Minion Core activates each time this character's Special Skill is cast:",
-            " * With a fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
-            " * The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            " * Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions."
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
+            "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
+            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -92540,9 +92563,9 @@ window.allHeroes = [
         ],
         "passives": [
             "Unstoppable Minions:",
-            " * Resistance against Minion removal.",
-            " * Can't be prevented from receiving Minions.",
-            " * Minion attack and abilities can't be disabled."
+            "* Resistance against Minion removal.",
+            "* Can't be prevented from receiving Minions.",
+            "* Minion attack and abilities can't be disabled."
         ],
         "family": "kingdom",
         "costume_id": 1,
@@ -92691,8 +92714,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * Dispells the latest dispellable buff from all enemies."
+            "* Deals 70% damage to all enemies.",
+            "* Dispells the latest dispellable buff from all enemies."
         ],
         "family": "moon",
         "costume_id": 0,
@@ -92768,8 +92791,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * Dispells the latest dispellable buff from all enemies.",
+            "* Deals 70% damage to all enemies.",
+            "* Dispells the latest dispellable buff from all enemies.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ],
@@ -93593,12 +93616,12 @@ window.allHeroes = [
         "passives": [
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
             "The Eldritch Host has:",
-            " * 100% inherited health.",
-            " * 1200 attack.",
-            " * 1200 defense.",
+            "* 100% inherited health.",
+            "* 1200 attack.",
+            "* 1200 defense.",
             "Special Skill: Eldrich Bright.",
-            " * Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            " * Inflicts 30 Insanity on the caster.",
+            "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
+            "* Inflicts 30 Insanity on the caster.",
             "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
         ],
         "family": "institute",
@@ -94256,9 +94279,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -94535,11 +94558,11 @@ window.allHeroes = [
             "Steals the latest dispellable buff from target and grants it to the caster.",
             "Randomly casts one of the following alternatives:",
             "Barbed Bolt:",
-            " * The target receives 504 Bleed damage over 3 turns.",
+            "* The target receives 504 Bleed damage over 3 turns.",
             "Poison Bolt:",
-            " * The target receives 537 Poison damage over 3 turns.",
+            "* The target receives 537 Poison damage over 3 turns.",
             "Fire Bolt:",
-            " * The target receives 570 Burn damage over 3 turns.",
+            "* The target receives 570 Burn damage over 3 turns.",
             "Element Link gives all Fire allies +20% critical chance for 6 turns. This effect cannot be dispelled."
         ],
         "passives": [
@@ -96554,9 +96577,9 @@ window.allHeroes = [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
             "Minion Core: The Construct Core of this character is Minion Core.",
             "The Minion Core activates each time this character's Special Skill is cast:",
-            " * With a fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
-            " * The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
-            " * Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions."
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
+            "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
+            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -96619,16 +96642,16 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Steals 33% mana from the target, and distributes it to allies.",
-            " * Deals 235% damage to target and minor damage to nearby enemies.",
+            "* Steals 33% mana from the target, and distributes it to allies.",
+            "* Deals 235% damage to target and minor damage to nearby enemies.",
             "2nd:",
-            " * Steals 33% mana from the target, and distributes it to allies.",
-            " * Deals 310% damage to target and minor damage to nearby enemies."
+            "* Steals 33% mana from the target, and distributes it to allies.",
+            "* Deals 310% damage to target and minor damage to nearby enemies."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns."
+            "* Deals 80% damage to all enemies.",
+            "* All allies get +21% critical chance for 2 turns."
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
@@ -96694,16 +96717,16 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Steals 25% mana from the target, and distributes it to allies.",
-            " * Deals 225% damage to target and minor damage to nearby enemies.",
+            "* Steals 25% mana from the target, and distributes it to allies.",
+            "* Deals 225% damage to target and minor damage to nearby enemies.",
             "2nd:",
-            " * Steals 35% mana from the target, and distributes it to allies.",
-            " * Deals 330% damage to target and minor damage to nearby enemies."
+            "* Steals 35% mana from the target, and distributes it to allies.",
+            "* Deals 330% damage to target and minor damage to nearby enemies."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 3 turns.",
+            "* Deals 80% damage to all enemies.",
+            "* All allies get +21% critical chance for 3 turns.",
             "Resist Insanity: This character has an innate resistance against Insanity."
         ],
         "family": "tales1_goodies",
@@ -97071,14 +97094,14 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
-            " - Deals 145% damage to the target.",
-            " - Deals additional 145% damage to 2 random enemies.",
+            "- Deals 145% damage to the target.",
+            "- Deals additional 145% damage to 2 random enemies.",
             "x2 Mana Charge:",
-            " - Deals 195% damage to the target.",
-            " - Deals additional 195% damage to 3 random enemies.",
+            "- Deals 195% damage to the target.",
+            "- Deals additional 195% damage to 3 random enemies.",
             "x3 Mana Charge:",
-            " - Deals 220% damage to the target.",
-            " - Deals additional 220% damage to 4 random enemies."
+            "- Deals 220% damage to the target.",
+            "- Deals additional 220% damage to 4 random enemies."
         ],
         "passives": [],
         "family": "ninja",
@@ -97134,8 +97157,8 @@ window.allHeroes = [
         "effects": [
             "Summons a Bee Minion for each ally. The Bee Minion inherits 15% HP and 17% attack from the caster.",
             "Each hit from a Bee Minion gives the target the following status ailments:",
-            " * The target receives 14 Poison damage over 2 turns.",
-            " * The target can't receive new Minions for 4 turns."
+            "* The target receives 14 Poison damage over 2 turns.",
+            "* The target can't receive new Minions for 4 turns."
         ],
         "passives": [],
         "family": "alfheim",
@@ -97203,8 +97226,8 @@ window.allHeroes = [
         "effects": [
             "Summons a Bee Minion for each ally. The Bee Minion inherits 18% HP and 15% attack from the caster.",
             "Each hit from the Bee Minion gives the target the following status ailments:",
-            " * The target receives 48 Poison damage over 3 turns.",
-            " * The target is immune to new status effects buffs for 2 turns."
+            "* The target receives 48 Poison damage over 3 turns.",
+            "* The target is immune to new status effects buffs for 2 turns."
         ],
         "passives": [],
         "family": "alfheim",
@@ -97635,8 +97658,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
-            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
-            " * Cleanses the latest cleansable status ailments from all allies."
+            "* Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            "* Cleanses the latest cleansable status ailments from all allies."
         ],
         "family": "sun",
         "costume_id": 0,
@@ -97706,8 +97729,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
-            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
-            " * Cleanses the latest cleansable status ailments from all allies.",
+            "* Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            "* Cleanses the latest cleansable status ailments from all allies.",
             "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.",
             "Health Recover on Buff Received: This character recovers 5% HP when they receive a buff or positive stack."
         ],
@@ -98047,9 +98070,9 @@ window.allHeroes = [
         "effects": [
             "Safely dispels 1 buff from all enemies. (The latest buffs are dispelled first.)",
             "Source of Buffs: The following effects are cast on a random ally at the start of each turn",
-            " * +25% mana generation for 3 turns.",
-            " * +50% increase for all healing received for 3 turns.",
-            " * The Source of Buffs will activate 4 times. Each attempt to dispel it removes one activation.",
+            "* +25% mana generation for 3 turns.",
+            "* +50% increase for all healing received for 3 turns.",
+            "* The Source of Buffs will activate 4 times. Each attempt to dispel it removes one activation.",
             "All allies regenerate 600 HP over 4 turns."
         ],
         "passives": [
@@ -98120,11 +98143,11 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * Summons a Grimoire Minion for all allies with 13% HP and 20% attack inherited from the caster.",
+            "* Summons a Grimoire Minion for all allies with 13% HP and 20% attack inherited from the caster.",
             "2x Mana Charge:",
-            " * Deals 235 damage to all enemies.",
-            " * Summons a Grimoire Fiend for all enemies. The Fiend damages the enemy with 43% attack every turn.",
-            " * The Grimoire Fiend absorbs healing. It disappears after absorbing a healing amount equal to 30% of its target's max health."
+            "* Deals 235 damage to all enemies.",
+            "* Summons a Grimoire Fiend for all enemies. The Fiend damages the enemy with 43% attack every turn.",
+            "* The Grimoire Fiend absorbs healing. It disappears after absorbing a healing amount equal to 30% of its target's max health."
         ],
         "passives": [
             "Status effect on special: When this character casts their Special Skill, they have a 50% chance to give -25% mana generation for 3 turns to all enemies. If the Special Skill is fully charged, the chance is 100%."
@@ -98199,26 +98222,26 @@ window.allHeroes = [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
             "***",
-            "  - Hidden Blade",
-            "  - Orb of Magic",
-            "  - Sturdy Shield",
-            "  - Trap Tool",
-            "  - Warm Cape",
-            "  - Battle Manual",
-            "  - Chainmail Shirt",
-            "  - Scabbard",
-            "  - Tall Boots",
+            "- Hidden Blade",
+            "- Orb of Magic",
+            "- Sturdy Shield",
+            "- Trap Tool",
+            "- Warm Cape",
+            "- Battle Manual",
+            "- Chainmail Shirt",
+            "- Scabbard",
+            "- Tall Boots",
             "**",
-            "  - Arcane Scripts",
-            "  - Dagger",
-            "  - Leather Armor",
-            "  - Sharpening Stone",
-            "  - Strong Rope",
-            "  - Wooden Shield",
+            "- Arcane Scripts",
+            "- Dagger",
+            "- Leather Armor",
+            "- Sharpening Stone",
+            "- Strong Rope",
+            "- Wooden Shield",
             "*",
-            "  - Advanturer's Kit",
-            "  - Practice Sword",
-            "  - Rugged Clothes"
+            "- Advanturer's Kit",
+            "- Practice Sword",
+            "- Rugged Clothes"
         ],
         "family": "mimic",
         "costume_id": 0,
@@ -98421,10 +98444,10 @@ window.allHeroes = [
         "health": 1374,
         "effects": [
             "If the caster has 35 or more Humility:",
-            " * Deals 300% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.",
-            " * Reduces max health of the enemies on the edges of the enemy formation by 500. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 500.)",
+            "* Deals 300% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.",
+            "* Reduces max health of the enemies on the edges of the enemy formation by 500. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 500.)",
             "Otherwise:",
-            " * Deals 260% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled."
+            "* Deals 260% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled."
         ],
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
@@ -98875,15 +98898,15 @@ window.allHeroes = [
         "health": 1224,
         "effects": [
             "Perform a trick for a special effect:",
-            "Swords: ",
-            " * Deals 255% damage to all enemies.",
-            " * All enemies get -54% accuracy for 3 turns and chance to miss also applies to offensive Special Skills.",
-            "Bottle: ",
-            " * All allies get +24% mana generation for 4 turns.",
-            " * All allies get +63% defense for 4 turns.",
+            "Swords:",
+            "* Deals 255% damage to all enemies.",
+            "* All enemies get -54% accuracy for 3 turns and chance to miss also applies to offensive Special Skills.",
+            "Bottle:",
+            "* All allies get +24% mana generation for 4 turns.",
+            "* All allies get +63% defense for 4 turns.",
             "Freeze:",
-            " * The caster can't gain mana for 2 turns.",
-            " * This effect can't be cleansed."
+            "* The caster can't gain mana for 2 turns.",
+            "* This effect can't be cleansed."
         ],
         "passives": [],
         "family": "japanese",
@@ -98960,14 +98983,14 @@ window.allHeroes = [
         "effects": [
             "Sell junk for a specific effect:",
             "Dull Swords",
-            " * Deals 270% damage to all enemies.",
-            " * All enemies get -39% attack for 3 turns.",
+            "* Deals 270% damage to all enemies.",
+            "* All enemies get -39% attack for 3 turns.",
             "Questionable Snake Oil",
-            " * All enemies get -24% mana generation for 3 turns.",
-            " * All enemies get -44% defense for 3 turns.",
+            "* All enemies get -24% mana generation for 3 turns.",
+            "* All enemies get -44% defense for 3 turns.",
             "Clearance Sale",
-            " * Increases the mana of all allies except the caster's by 3%.",
-            " * The caster can't gain mana for 2 turns. This effect can't be cleansed."
+            "* Increases the mana of all allies except the caster's by 3%.",
+            "* The caster can't gain mana for 2 turns. This effect can't be cleansed."
         ],
         "passives": [],
         "family": "japanese",
@@ -99123,8 +99146,8 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 193 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 193 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
+            "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 0,
@@ -99206,8 +99229,8 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 238 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 238 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 1,
@@ -99281,8 +99304,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
-            " * Deals 90% damage to all enemies.",
-            " * All enemies get -25% accuracy for 3 turns."
+            "* Deals 90% damage to all enemies.",
+            "* All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
         "costume_id": 0,
@@ -99549,10 +99572,10 @@ window.allHeroes = [
         ],
         "passives": [
             "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
-            "Righteous Rebellion: ",
-            " * When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
-            " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
-            " * Each of these effects can activate once per turn.",
+            "Righteous Rebellion:",
+            "* When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
+            "* When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
+            "* Each of these effects can activate once per turn.",
             "Resist Bleed: This character is immune to status ailments that deal Bleed damage."
         ],
         "family": "outlaw",
@@ -100725,8 +100748,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies get -24% mana generation for 3 turns."
+            "* Deals 70% damage to all enemies.",
+            "* All enemies get -24% mana generation for 3 turns."
         ],
         "family": "moon",
         "costume_id": 0,
@@ -100799,8 +100822,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * Dispels the latest dispellable buff from enemies.",
+            "* Deals 70% damage to all enemies.",
+            "* Dispels the latest dispellable buff from enemies.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Resist Sand Damage: This character has innate resistance against sand damage."
         ],
@@ -100940,14 +100963,14 @@ window.allHeroes = [
         ],
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills.",
+            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
             "This includes:",
-            " * - Status effect buffs and ailments.",
-            " * - Positive and negative stacks.",
-            " * - Growth and Wither effects."
+            "* - Status effect buffs and ailments.",
+            "* - Positive and negative stacks.",
+            "* - Growth and Wither effects."
         ],
         "family": "wild_cat",
         "costume_id": 0,
@@ -101277,9 +101300,9 @@ window.allHeroes = [
         ],
         "passives": [
             "Unstoppable Minions:",
-            " * Resistance against Minion removal.",
-            " * Can't be prevented from receiving Minions.",
-            " * Minion attack and abilities can't be disabled."
+            "* Resistance against Minion removal.",
+            "* Can't be prevented from receiving Minions.",
+            "* Minion attack and abilities can't be disabled."
         ],
         "family": "kingdom",
         "costume_id": 1,
@@ -101658,9 +101681,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -101734,10 +101757,10 @@ window.allHeroes = [
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " * Alpha Aether",
-            " * Holy Aether III",
-            " * Holy Aether II",
-            " * Holy Aether I"
+            "* Alpha Aether",
+            "* Holy Aether III",
+            "* Holy Aether II",
+            "* Holy Aether I"
         ],
         "family": "mimic",
         "costume_id": 0,
@@ -102437,18 +102460,18 @@ window.allHeroes = [
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " ****",
-            " - Damascus Blade",
-            " - Tome Of Tactics",
-            " - Poison Darts",
-            " ***",
-            " - Fine Gloves",
-            " - Compass",
-            " - Orb of Magic",
-            " - Chainmail Shirt",
-            " - Tall Boots",
-            " **",
-            " - Arcane Scipt"
+            "****",
+            "- Damascus Blade",
+            "- Tome Of Tactics",
+            "- Poison Darts",
+            "***",
+            "- Fine Gloves",
+            "- Compass",
+            "- Orb of Magic",
+            "- Chainmail Shirt",
+            "- Tall Boots",
+            "**",
+            "- Arcane Scipt"
         ],
         "family": "mimic",
         "costume_id": 0,
@@ -102526,11 +102549,11 @@ window.allHeroes = [
         "health": 2055,
         "effects": [
             "If the caster is recovering health:",
-            " * Deals 300% damage to all enemies.",
-            " * All enemies get lasting -40% attack. (This effect lasts until it is cleansed, replaced or removed.)",
+            "* Deals 300% damage to all enemies.",
+            "* All enemies get lasting -40% attack. (This effect lasts until it is cleansed, replaced or removed.)",
             "Otherwise:",
-            " * All allies get lasting 200 health regeneration per turn. (This effect lasts until it is cleansed, replaced or removed.)",
-            " * All allies get lasting +40% attack. (This effect lasts until it is cleansed, replaced or removed.)"
+            "* All allies get lasting 200 health regeneration per turn. (This effect lasts until it is cleansed, replaced or removed.)",
+            "* All allies get lasting +40% attack. (This effect lasts until it is cleansed, replaced or removed.)"
         ],
         "passives": [
             "Decreased Healing: All enemies get -50% healing."
@@ -103050,8 +103073,8 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted heath and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
-            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 343 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 343 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
         "costume_id": 0,
@@ -103436,8 +103459,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
-            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
-            " * Cleanses the latest cleansable status ailment from all allies."
+            "* Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            "* Cleanses the latest cleansable status ailment from all allies."
         ],
         "family": "sun",
         "costume_id": 0,
@@ -103510,8 +103533,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
-            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
-            " * Cleanses the latest cleansable status ailment from all allies.",
+            "* Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            "* Cleanses the latest cleansable status ailment from all allies.",
             "Guaranteed Effect on Special Skill: When this character casts their Special Skill that grant extra effect on cast are guaranteed to activate.",
             "Health Recover on Buff Received: This character recovers 5% HP when they receive a buff or positive stack."
         ],
@@ -104350,10 +104373,10 @@ window.allHeroes = [
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " * Master Cleric Emblems",
-            " * Master Monk Emblems",
-            " * Cleric Emblems",
-            " * Monk Emblems"
+            "* Master Cleric Emblems",
+            "* Master Monk Emblems",
+            "* Cleric Emblems",
+            "* Monk Emblems"
         ],
         "family": "mimic",
         "costume_id": 0,
@@ -104431,17 +104454,17 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Summons a Jellyfish Minion for each ally with +37% HP and +42% attack inherited from the caster.",
+            "* Summons a Jellyfish Minion for each ally with +37% HP and +42% attack inherited from the caster.",
             "* Stack (Max 10): All allies get +5% inherited HP for new Minions they summon.",
             "2nd:",
-            " * Replaces all Fiends on all allies with Jellyfish Minions.",
-            " * Summons a Jellyfish Minion for each ally with +37% HP and +42% attack inherited from the caster.",
+            "* Replaces all Fiends on all allies with Jellyfish Minions.",
+            "* Summons a Jellyfish Minion for each ally with +37% HP and +42% attack inherited from the caster.",
             "* Stack (Max 10): All allies get +5% inherited HP for new Minions they summon."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns."
+            "* Deals 80% damage to all enemies.",
+            "* All allies get +21% critical chance for 2 turns."
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
@@ -104510,17 +104533,17 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Summons a Jellyfish Minion for each ally with +35% HP and +40% attack inherited from the caster.",
+            "* Summons a Jellyfish Minion for each ally with +35% HP and +40% attack inherited from the caster.",
             "* Stack (Max 10): All allies get +4% inherited HP for new Minions they summon.",
             "2nd:",
-            " * Replaces all Fiends on all allies with Jellyfish Minions.",
-            " * Summons a Jellyfish Minion for each ally with 40% HP and 50% attack inherited from the caster.",
+            "* Replaces all Fiends on all allies with Jellyfish Minions.",
+            "* Summons a Jellyfish Minion for each ally with 40% HP and 50% attack inherited from the caster.",
             "* Stack (Max 10): All allies get +7% inherited HP for new Minions they summon."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns.",
+            "* Deals 80% damage to all enemies.",
+            "* All allies get +21% critical chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "tales1_goodies",
@@ -104655,8 +104678,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill.",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies get -34% attack for 3 turns."
+            "* Deals 70% damage to all enemies.",
+            "* All enemies get -34% attack for 3 turns."
         ],
         "family": "sun",
         "costume_id": 0,
@@ -104732,8 +104755,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill.",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies get -34% attack for 3 turns.",
+            "* Deals 70% damage to all enemies.",
+            "* All enemies get -34% attack for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ],
@@ -104811,11 +104834,11 @@ window.allHeroes = [
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " * Common Holy Trainer Heroes",
-            " * Uncommon Holy Trainer Heroes",
-            " * Rare Holy Trainer Heroes",
-            " * Common Holy Heroes",
-            " * Uncommon Holy Heroes"
+            "* Common Holy Trainer Heroes",
+            "* Uncommon Holy Trainer Heroes",
+            "* Rare Holy Trainer Heroes",
+            "* Common Holy Heroes",
+            "* Uncommon Holy Heroes"
         ],
         "family": "mimic",
         "costume_id": 0,
@@ -105333,8 +105356,8 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted heath and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 315 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 315 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
+            "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
         "costume_id": 0,
@@ -105695,9 +105718,9 @@ window.allHeroes = [
             "All allies get +60% attack for 5 turns.",
             "All allies get +44% mana generation for 5 turns.",
             "All allies receive Slime Revive status effect for 2 turns. If defeated while Slime Revive is active, the character will be reborn as a Slime with:",
-            " * 100% inherited health",
-            " * 50% attack",
-            " * 50% defense",
+            "* 100% inherited health",
+            "* 50% attack",
+            "* 50% defense",
             "* Special Skill: Slime Slap (Deals 350% damage to the target).",
             "If the Slime is not defeated in 3 turns, it will be reborn as the character's original form inheriting the Slime's health and mana."
         ],
@@ -105774,9 +105797,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -105927,10 +105950,10 @@ window.allHeroes = [
             "Removes all cleansable and uncleansable status effects from all allies except the caster. Removes even status effects that are otherwise undispellable or uncleansable.",
             "The caster regenerates 612 HP over 4 turns.",
             "All allies except the caster dance the Dance of Spirits for 4 turns:",
-            " * +100% attack.",
-            " * Reduces all received damage by -50%.",
-            " * If the caster is defeated, the dancer receives 84 damage and their mana is  reduced by 100%.",
-            " * This effect can't be dispelled, but it gets removed if caster is defeated."
+            "* +100% attack.",
+            "* Reduces all received damage by -50%.",
+            "* If the caster is defeated, the dancer receives 84 damage and their mana is  reduced by 100%.",
+            "* This effect can't be dispelled, but it gets removed if caster is defeated."
         ],
         "passives": [],
         "family": "guardian",
@@ -106008,10 +106031,10 @@ window.allHeroes = [
             "Removes all status effects from all allies except the caster. Removes even status effects that are otherwise undispellable or uncleansable.",
             "Recovers 48% health for all allies.",
             "All allies except the caster dance the Dance of Spirits for 4 turns:",
-            " * +110% attack.",
-            " * Reduces all received damage by -30%.",
-            " * If the caster is defeated, the dancer receives 115 damage and their mana is reduced by 100%.",
-            " * This effect can't be dispelled, but it gets removed if caster is defeated."
+            "* +110% attack.",
+            "* Reduces all received damage by -30%.",
+            "* If the caster is defeated, the dancer receives 115 damage and their mana is reduced by 100%.",
+            "* This effect can't be dispelled, but it gets removed if caster is defeated."
         ],
         "passives": [],
         "family": "guardian",
@@ -106371,9 +106394,9 @@ window.allHeroes = [
             "The caster and nearby allies receive a moderate amount of mana over 6 turns.",
             "Inflicts 40 Insanity to nearby allies.",
             "The caster turns into Yag-Mago for 6 turns. This effect can't be dispelled. The Yag-Mago has 200% attack, 150% defense and the following Special Skill:",
-            " - Ethernal Bond (Very Fast)",
-            "   * Deals 300% damage to all enemies and inflicts 20 Insanity on them.",
-            "   * Revives a random defeated ally with 10% HP."
+            "- Ethernal Bond (Very Fast)",
+            "* Deals 300% damage to all enemies and inflicts 20 Insanity on them.",
+            "* Revives a random defeated ally with 10% HP."
         ],
         "passives": [],
         "family": "investigator",
@@ -106454,7 +106477,9 @@ window.allHeroes = [
         ],
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
-            "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast: * All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 151 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion. * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast:",
+            "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 151 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -106888,7 +106913,9 @@ window.allHeroes = [
             "Reduces max health of the target and nearby enemies by 450 over 3 turns. The effect is stronger against targets with boosted health. Max health can't get lower than 30% of the original health. Any boosted health is reduced by an additional 150 per turn."
         ],
         "passives": [
-            "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill ' * Deals 70% damage to all enemies.' ' * All enemies get -34% attack for 3 turns.'"
+            "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill '",
+            "* Deals 70% damage to all enemies.",
+            "* All enemies get -34% attack for 3 turns.'"
         ],
         "family": "sun",
         "costume_id": 0,
@@ -106956,7 +106983,9 @@ window.allHeroes = [
             "Reduces max health of the target and nearby enemies by 600 over 3 turns. The effect is stronger against targets with boosted health. Max health can't get lower than 30% of the original health. Any boosted health is reduced by an additional 200 per turn."
         ],
         "passives": [
-            "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill ' * Deals 70% damage to all enemies.' ' * All enemies get -34% attack for 3 turns.'",
+            "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill '",
+            "* Deals 70% damage to all enemies.",
+            "* All enemies get -34% attack for 3 turns.'",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ],
@@ -107094,17 +107123,17 @@ window.allHeroes = [
         "health": 1720,
         "effects": [
             "1x Mana Charge",
-            " * Summons a Kunai Fiend for the target. The Fiend damages the enemy with 150% attack every turn.",
-            " * The Kunai Fiend absorbs healing and disappears when it has absorbed health equal to 45% of it's owner's max health.",
-            " * The Kunai Fiend explodes after 3 turns, dealing 1850 damage to its target.",
+            "* Summons a Kunai Fiend for the target. The Fiend damages the enemy with 150% attack every turn.",
+            "* The Kunai Fiend absorbs healing and disappears when it has absorbed health equal to 45% of it's owner's max health.",
+            "* The Kunai Fiend explodes after 3 turns, dealing 1850 damage to its target.",
             "2x Mana Charge",
-            " * Summons a Kunai Fiend for the target and nearby enemies. The Fiend damages the enemy with 175% attack every turn.",
-            " * The Kunai Fiend absorbs healing and disappears when it has absorbed health equal to 50% of it's owner's max health.",
-            " * The Kunai Fiend explodes after 3 turns, dealing 2000 damage to its target.",
+            "* Summons a Kunai Fiend for the target and nearby enemies. The Fiend damages the enemy with 175% attack every turn.",
+            "* The Kunai Fiend absorbs healing and disappears when it has absorbed health equal to 50% of it's owner's max health.",
+            "* The Kunai Fiend explodes after 3 turns, dealing 2000 damage to its target.",
             "3x Mana Charge",
-            " * Summons a Kunai Fiend for all enemies. The Fiend damages the enemy with 200% attack every turn.",
-            " * The Kunai Fiend absorbs healing and disappears when it has absorbed health equal to 55% of it's owner's max health.",
-            " * The Kunai Fiend explodes after 3 turns, dealing 2250 damage to its target."
+            "* Summons a Kunai Fiend for all enemies. The Fiend damages the enemy with 200% attack every turn.",
+            "* The Kunai Fiend absorbs healing and disappears when it has absorbed health equal to 55% of it's owner's max health.",
+            "* The Kunai Fiend explodes after 3 turns, dealing 2250 damage to its target."
         ],
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
@@ -107392,7 +107421,10 @@ window.allHeroes = [
         ],
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
-            "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast * With fully charged Minion Core, summon Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies. * The HP and attack inherited from the caster are scaled by the amount of charge int the Core. All charge is exhausted when the Core is activated. * Before the Killer Bot Minion hits a target, it destroys all Minion from the target and damages Mega Minions."
+            "Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast",
+            "* With fully charged Minion Core, summon Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
+            "* The HP and attack inherited from the caster are scaled by the amount of charge int the Core. All charge is exhausted when the Core is activated.",
+            "* Before the Killer Bot Minion hits a target, it destroys all Minion from the target and damages Mega Minions."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -107468,9 +107500,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -107619,7 +107651,7 @@ window.allHeroes = [
             "The target of the second hit gets -44% mana generation for 4 turns."
         ],
         "passives": [
-            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
+            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed."
         ],
         "family": "masquerade",
         "costume_id": 0,
@@ -107831,9 +107863,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -107906,11 +107938,11 @@ window.allHeroes = [
             "All Fire enemies get -39% attack for 3 turns."
         ],
         "passives": [
-            "'Troop Mastery:'",
+            "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +150%",
+            "- Dealt extra elemental damage: +150%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -25%"
+            "- Received elemental damage: -25%"
         ],
         "family": "super_elemental",
         "costume_id": 1,
@@ -108917,23 +108949,23 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana",
             "1x Mana Charge",
-            " * Deals 280% damage to the target.",
-            " * The caster goes into hiding for 2 turns.",
-            " * While hidden, the caster can't receive new status effects or stacks, and all received damage is reduced by -20%.",
-            " * When the caster comes out of hiding, they deal 227 damage to all enemies who use Special Skills while the caster was hiding.",
-            " * The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 2 turns.",
+            "* Deals 280% damage to the target.",
+            "* The caster goes into hiding for 2 turns.",
+            "* While hidden, the caster can't receive new status effects or stacks, and all received damage is reduced by -20%.",
+            "* When the caster comes out of hiding, they deal 227 damage to all enemies who use Special Skills while the caster was hiding.",
+            "* The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 2 turns.",
             "2x Mana Charge",
-            " * Deals 370% damage to the target.",
-            " * The caster goes into hiding for 3 turns.",
-            " * While hidden, the caster can't receive new status effects or stacks, and all received damage is reduced by -30%.",
-            " * When the caster comes out of hiding they deal 316 damage to all enemies who use Special Skills while the caster was hiding.",
-            " * The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns.",
+            "* Deals 370% damage to the target.",
+            "* The caster goes into hiding for 3 turns.",
+            "* While hidden, the caster can't receive new status effects or stacks, and all received damage is reduced by -30%.",
+            "* When the caster comes out of hiding they deal 316 damage to all enemies who use Special Skills while the caster was hiding.",
+            "* The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns.",
             "3x Mana Charge",
-            " * Deals 450% damage to the target.",
-            " * The caster goes into hiding for 4 turns.",
-            " * While hidden, the caster can't receive new status effects or stacks, and all received damage is reduced by -40%.",
-            " * When the caster comes out of hiding they deal 348 damage to all enemies who use Special Skills while the caster was hiding.",
-            " * The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns."
+            "* Deals 450% damage to the target.",
+            "* The caster goes into hiding for 4 turns.",
+            "* While hidden, the caster can't receive new status effects or stacks, and all received damage is reduced by -40%.",
+            "* When the caster comes out of hiding they deal 348 damage to all enemies who use Special Skills while the caster was hiding.",
+            "* The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns."
         ],
         "passives": [],
         "family": "ninja",
@@ -109094,13 +109126,13 @@ window.allHeroes = [
         ],
         "passives": [
             "Transform Ailments: Each time this character casts their Special Skill, all cleansable status ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs. Transformed effects:",
-            " * Attack status ailments are transformed into +40% attack buffs for 3 turns.",
-            " * Defense status ailments are transformed into +40% defense buffs for 3 turns.",
-            " * Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns.",
+            "* Attack status ailments are transformed into +40% attack buffs for 3 turns.",
+            "* Defense status ailments are transformed into +40% defense buffs for 3 turns.",
+            "* Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
-            " * Up to +35% mana generation.",
-            " * Up to +25% extra chance to dodge.",
-            " * The effects diminish the less Flight Momentum character has.",
+            "* Up to +35% mana generation.",
+            "* Up to +25% extra chance to dodge.",
+            "* The effects diminish the less Flight Momentum character has.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magic_carpet",
@@ -110023,8 +110055,8 @@ window.allHeroes = [
             "Summons a Muffin Fiend for all enemies. The Fiend damages the enemy with 38% attack every turn.",
             "The Muffin Fiend absorbs healing and disappears when it has absorbed health equal to 35% of its target's max health.",
             "Each hit from the Muffin Fiend has the following effects:",
-            " * The target takes +50% increased damage from status ailments for 3 turns.",
-            " * There is a 25% chance to refesh the duration of the status ailment with the least turns remaining."
+            "* The target takes +50% increased damage from status ailments for 3 turns.",
+            "* There is a 25% chance to refesh the duration of the status ailment with the least turns remaining."
         ],
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies."
@@ -110322,8 +110354,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies receive 231 Sand damage over 3 turns."
+            "* Deals 70% damage to all enemies.",
+            "* All enemies receive 231 Sand damage over 3 turns."
         ],
         "family": "sun",
         "costume_id": 0,
@@ -110402,8 +110434,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 70% damage to all enemies.",
-            " * All enemies receive 357 Sand damage over 3 turns.",
+            "* Deals 70% damage to all enemies.",
+            "* All enemies receive 357 Sand damage over 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage an additional 50% is added to its power."
         ],
@@ -110472,17 +110504,17 @@ window.allHeroes = [
         "health": 1380,
         "effects": [
             "1x Mana Charge",
-            " * All allies become Soul Connected for 2 turns. Soul Connected allies share received damage.",
-            " * All allies get +25% defense for 2 turns",
-            " * All allies get +24% mana generation for 2 turns",
+            "* All allies become Soul Connected for 2 turns. Soul Connected allies share received damage.",
+            "* All allies get +25% defense for 2 turns",
+            "* All allies get +24% mana generation for 2 turns",
             "2x Mana Charge",
-            " * All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.",
-            " * All allies get +50% defense for 4 turns",
-            " * All allies get +33% mana generation for 4 turns",
+            "* All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.",
+            "* All allies get +50% defense for 4 turns",
+            "* All allies get +33% mana generation for 4 turns",
             "3x Mana Charge",
-            " * All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.",
-            " * All allies get +73% defense for 5 turns",
-            " * All allies get +38% mana generation for 5 turns"
+            "* All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.",
+            "* All allies get +73% defense for 5 turns",
+            "* All allies get +38% mana generation for 5 turns"
         ],
         "passives": [],
         "family": "ninja",
@@ -110621,13 +110653,13 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * Summons a Butterfly Minion for each ally with 14% HP and 20% attack inherited from the caster.",
+            "* Summons a Butterfly Minion for each ally with 14% HP and 20% attack inherited from the caster.",
             "* Each hit from a Butterfly Minion Gives the target the following status ailment:",
-            " *** +20% increase to all received damage for 3 turns.",
+            "*** +20% increase to all received damage for 3 turns.",
             "2x Mana Charge:",
-            " * Summons a Butterfly Fiend for all enemies. The Fiend damages the enemy with 43% attack every turn.",
-            " * The Butterfly Fiend absorbs healing and disappears when it has absorbed health equal to 50% of it's owner's max health.",
-            " * When summoned, the Butterfly Fiend gives -50% accuracy for its target for as long as the owner has Butterfly Fiends. This effect can't be cleansed. Chance to miss also applies to offensive Special Skills."
+            "* Summons a Butterfly Fiend for all enemies. The Fiend damages the enemy with 43% attack every turn.",
+            "* The Butterfly Fiend absorbs healing and disappears when it has absorbed health equal to 50% of it's owner's max health.",
+            "* When summoned, the Butterfly Fiend gives -50% accuracy for its target for as long as the owner has Butterfly Fiends. This effect can't be cleansed. Chance to miss also applies to offensive Special Skills."
         ],
         "passives": [
             "Health recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%.'"
@@ -110774,8 +110806,8 @@ window.allHeroes = [
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted heath and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
-            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 316 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 316 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
         "costume_id": 0,
@@ -111039,15 +111071,15 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
             "1x Mana Charge:",
-            " * Deals 500% damage to the target.",
-            " * For 3 turns each time an enemy's mana is increased by a Special Skill, status effect, level property, passive skill, family effect or minion, they receive 250 damage.",
+            "* Deals 500% damage to the target.",
+            "* For 3 turns each time an enemy's mana is increased by a Special Skill, status effect, level property, passive skill, family effect or minion, they receive 250 damage.",
             "2x Mana Charge:",
-            " * Deals 640% damage to the target.",
-            " * All enemies are immune to new status effect buffs. Attempted mana generation buffs will be replaced by -34% mana generation for 3 turns.",
+            "* Deals 640% damage to the target.",
+            "* All enemies are immune to new status effect buffs. Attempted mana generation buffs will be replaced by -34% mana generation for 3 turns.",
             "3x Mana Charge:",
-            " * Deals 680% damage to the target.",
-            " * All enemies are immune to new status effect buffs. Attempted mana generation buffs will be replaced by -34% mana generation for 3 turns.",
-            " * For 3 turns each time an enemy's mana is increased by a Special Skill, status effect, level property, passive skill, family effect or minion, they receive 250 damage."
+            "* Deals 680% damage to the target.",
+            "* All enemies are immune to new status effect buffs. Attempted mana generation buffs will be replaced by -34% mana generation for 3 turns.",
+            "* For 3 turns each time an enemy's mana is increased by a Special Skill, status effect, level property, passive skill, family effect or minion, they receive 250 damage."
         ],
         "passives": [
             "Resist Defense Ailments: Duration of the defense status ailments this character receives from Special Skills is decreased by 2 turns.",
@@ -111588,8 +111620,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
-            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
-            " * All allies gain a small amount of mana."
+            "* Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            "* All allies gain a small amount of mana."
         ],
         "family": "moon",
         "costume_id": 0,
@@ -111672,8 +111704,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
-            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
-            " * All allies gain a small amount of mana.",
+            "* Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            "* All allies gain a small amount of mana.",
             "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.",
             "Resist Mana Generation Stopping: This character has an innate resistance against status ailments that affect stop mana generation."
         ],
@@ -111823,18 +111855,18 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Steals all dispellable buffs from the target and randomly distributes them on allies.",
-            " * Deals 455% damage to the target.",
-            " * The target receives Spreading Corrosive Poison for 4 turns. The Spreading Corrosive Poison deals 290 Poison damage and lowers the target's mana generation by -15% each turn. Deals extra damage against heroes with Minions or Mega Minions. This effect spreads to nearby enemies. (Affects only mana gained from matching tiles or mana gained by the defense team at the of their turn.)",
+            "* Steals all dispellable buffs from the target and randomly distributes them on allies.",
+            "* Deals 455% damage to the target.",
+            "* The target receives Spreading Corrosive Poison for 4 turns. The Spreading Corrosive Poison deals 290 Poison damage and lowers the target's mana generation by -15% each turn. Deals extra damage against heroes with Minions or Mega Minions. This effect spreads to nearby enemies. (Affects only mana gained from matching tiles or mana gained by the defense team at the of their turn.)",
             "2nd:",
-            " * Steals all dispellable buffs from the target and randomly distributes them on allies.",
-            " * Deals 490% damage to the target.",
-            " * The target receives Spreading Corrosive Poison for 4 turns. The Spreading Corrosive Poison deals 328 Poison damage and lowers the target's mana generation by -20% each turn. Deals extra damage against heroes with Minions or Mega Minions. This effect spreads to nearby enemies. (Affects only mana gained from matching tiles or mana gained by the defense team at the of their turn.)"
+            "* Steals all dispellable buffs from the target and randomly distributes them on allies.",
+            "* Deals 490% damage to the target.",
+            "* The target receives Spreading Corrosive Poison for 4 turns. The Spreading Corrosive Poison deals 328 Poison damage and lowers the target's mana generation by -20% each turn. Deals extra damage against heroes with Minions or Mega Minions. This effect spreads to nearby enemies. (Affects only mana gained from matching tiles or mana gained by the defense team at the of their turn.)"
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * The caster get +19% mana generation for 2 turns."
+            "* Deals 80% damage to all enemies.",
+            "* The caster get +19% mana generation for 2 turns."
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
@@ -111911,18 +111943,18 @@ window.allHeroes = [
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
-            " * Steals all dispellable buffs from the target and randomly distributes them on allies.",
-            " * Deals 450% damage to the target.",
-            " * The target receives Spreading Corrosive Poison for 4 turns. The Spreading Corrosive Poison deals 297 Poison damage and lowers the target's mana generation by -10% each turn. Deals extra damage against heroes with Minions or Mega Minions. This effect spreads to nearby enemies. (Affects only mana gained from matching tiles or mana gained by the defense team at the of their turn.)",
+            "* Steals all dispellable buffs from the target and randomly distributes them on allies.",
+            "* Deals 450% damage to the target.",
+            "* The target receives Spreading Corrosive Poison for 4 turns. The Spreading Corrosive Poison deals 297 Poison damage and lowers the target's mana generation by -10% each turn. Deals extra damage against heroes with Minions or Mega Minions. This effect spreads to nearby enemies. (Affects only mana gained from matching tiles or mana gained by the defense team at the of their turn.)",
             "2nd:",
-            " * Steals all dispellable buffs from the target and randomly distributes them on allies.",
-            " * Deals 515% damage to the target.",
-            " * The target receives Spreading Corrosive Poison for 4 turns. The Spreading Corrosive Poison deals 549 Poison damage and lowers the target's mana generation by -25% each turn. Deals extra damage against heroes with Minions or Mega Minions. This effect spreads to nearby enemies.(Affects only mana gained from matching tiles or mana gained by the defense team at the of their turn.)"
+            "* Steals all dispellable buffs from the target and randomly distributes them on allies.",
+            "* Deals 515% damage to the target.",
+            "* The target receives Spreading Corrosive Poison for 4 turns. The Spreading Corrosive Poison deals 549 Poison damage and lowers the target's mana generation by -25% each turn. Deals extra damage against heroes with Minions or Mega Minions. This effect spreads to nearby enemies.(Affects only mana gained from matching tiles or mana gained by the defense team at the of their turn.)"
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
-            " * Deals 80% damage to all enemies.",
-            " * The caster get +19% mana generation for 2 turns.",
+            "* Deals 80% damage to all enemies.",
+            "* The caster get +19% mana generation for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "tales1_baddies",
@@ -112684,8 +112716,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
-            " * Deals 90% damage to all enemies.",
-            " * All enemies get -25% accuracy for 3 turns."
+            "* Deals 90% damage to all enemies.",
+            "* All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
         "costume_id": 0,
@@ -113044,11 +113076,11 @@ window.allHeroes = [
         ],
         "passives": [
             "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
-            "Righteous Rebellion: ",
-            " * When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
-            " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
-            " * Each of these effects can activate once per turn.",
-            "Resist Bleed: This character is immune to status ailments that deal Bleed damage.   "
+            "Righteous Rebellion:",
+            "* When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
+            "* When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
+            "* Each of these effects can activate once per turn.",
+            "Resist Bleed: This character is immune to status ailments that deal Bleed damage."
         ],
         "family": "outlaw",
         "costume_id": 0,
@@ -113282,8 +113314,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill.",
-            " * Deals 90% damage to all enemies.",
-            " * All enemies get -25% accuracy for 3 turns."
+            "* Deals 90% damage to all enemies.",
+            "* All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
         "costume_id": 0,
@@ -113364,7 +113396,9 @@ window.allHeroes = [
         ],
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
-            "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast: * With fully charged Repair Core, boosts the health of all allies by 25%. * The healing is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
+            "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
+            "* With fully charged Repair Core, boosts the health of all allies by 25%.",
+            "* The healing is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -113444,13 +113478,13 @@ window.allHeroes = [
         ],
         "passives": [
             "Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:",
-            " * Attack buffs are transformed into -40% attack status ailments for 3 turns.",
-            " * Defense buffs are transformed into -40% defense status ailments for 3 turns.",
-            " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
+            "* Attack buffs are transformed into -40% attack status ailments for 3 turns.",
+            "* Defense buffs are transformed into -40% defense status ailments for 3 turns.",
+            "* Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
-            " * Up to +35% mana generation.",
-            " * Up to +25% extra chance to dodge.",
-            " * The effects diminish the less Flight Momentum character has.",
+            "* Up to +35% mana generation.",
+            "* Up to +25% extra chance to dodge.",
+            "* The effects diminish the less Flight Momentum character has.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magic_carpet",
@@ -113931,14 +113965,14 @@ window.allHeroes = [
         ],
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills.",
+            "* When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            "* Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
             "This includes:",
-            " * - Status effect buffs and ailments.",
-            " * - Positive and negative stacks.",
-            " * - Growth and Wither effects."
+            "* - Status effect buffs and ailments.",
+            "* - Positive and negative stacks.",
+            "* - Growth and Wither effects."
         ],
         "family": "wild_cat",
         "costume_id": 0,
@@ -114073,14 +114107,14 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect on consecutive uses, in the following order:",
             "1st:",
-            " * Deals 280% damage to the target.",
-            " * The target get -40% accuracy for 3 turns.  Chance to miss also applies to offensive special skills",
+            "* Deals 280% damage to the target.",
+            "* The target get -40% accuracy for 3 turns.  Chance to miss also applies to offensive special skills",
             "2nd:",
-            " * Deals 280% damage to the target and nearby enemies.",
-            " * The target and nearby enemies get -40% accuracy for 3 turns.  Chance to miss also applies to offensive special skills",
+            "* Deals 280% damage to the target and nearby enemies.",
+            "* The target and nearby enemies get -40% accuracy for 3 turns.  Chance to miss also applies to offensive special skills",
             "3rd:",
-            " * Deals 280% damage to all enemies.",
-            " * All enemies get -40% accuracy for 3 turns.  Chance to miss also applies to offensive special skills"
+            "* Deals 280% damage to all enemies.",
+            "* All enemies get -40% accuracy for 3 turns.  Chance to miss also applies to offensive special skills"
         ],
         "passives": [],
         "family": "midgard",
@@ -114142,14 +114176,14 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect on consecutive uses, in the following order:",
             "1st:",
-            " * Deals 185% damage to all enemies.",
-            " * All enemies get -25% accuracy for 3 turns.  Chance to miss also applies to offensive special skills",
+            "* Deals 185% damage to all enemies.",
+            "* All enemies get -25% accuracy for 3 turns.  Chance to miss also applies to offensive special skills",
             "2nd:",
-            " * Deals 260% damage to all enemies.",
-            " * All enemies get -35% accuracy for 3 turns.  Chance to miss also applies to offensive special skills",
+            "* Deals 260% damage to all enemies.",
+            "* All enemies get -35% accuracy for 3 turns.  Chance to miss also applies to offensive special skills",
             "3rd:",
-            " * Deals 290% damage to all enemies.",
-            " * All enemies get -54% accuracy for 3 turns.  Chance to miss also applies to offensive special skills"
+            "* Deals 290% damage to all enemies.",
+            "* All enemies get -54% accuracy for 3 turns.  Chance to miss also applies to offensive special skills"
         ],
         "passives": [],
         "family": "midgard",
@@ -114360,17 +114394,17 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
-            " * Destroys all Minions from the target.",
-            " * Deals 310% damage to the target.",
-            " * All allies get a small amount of mana for each destroyed Minion.",
+            "* Destroys all Minions from the target.",
+            "* Deals 310% damage to the target.",
+            "* All allies get a small amount of mana for each destroyed Minion.",
             "x2 Mana Charge:",
-            " * Destroys all Minions from the target and nearby enemies.",
-            " * Deals 350% damage to the target and nearby enemies.",
-            " * All allies get a small amount of mana for each destroyed Minion.",
+            "* Destroys all Minions from the target and nearby enemies.",
+            "* Deals 350% damage to the target and nearby enemies.",
+            "* All allies get a small amount of mana for each destroyed Minion.",
             "x3 Mana Charge:",
-            " * Destroys all Minions from all enemies.",
-            " * Deals 390% damage to all enemies.",
-            " * All allies get a small amount of mana for each destroyed Minion."
+            "* Destroys all Minions from all enemies.",
+            "* Deals 390% damage to all enemies.",
+            "* All allies get a small amount of mana for each destroyed Minion."
         ],
         "passives": [],
         "family": "ninja",
@@ -114527,8 +114561,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Mana on Damage Received:",
-            " * When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
-            " * Maximum of 10% mana gained per turn.",
+            "* When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
+            "* Maximum of 10% mana gained per turn.",
             "Extra Damage to Minions & Mega Minions: This character does +150% damage to Minions and Mega Minions."
         ],
         "family": "mahayoddha",
@@ -114605,13 +114639,13 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * All allies regenerate 594 HP over 3 turns.",
-            " * All allies get +30% attack for 3 turns.",
-            " * Cleanses status ailments from all allies.",
+            "* All allies regenerate 594 HP over 3 turns.",
+            "* All allies get +30% attack for 3 turns.",
+            "* Cleanses status ailments from all allies.",
             "2x Mana Charge:",
-            " * Dispels buffs from all enemies.",
-            " * All enemies receive 1290 Sand damage over 5 turns.",
-            " * All enemies get -45% attack for 5 turns."
+            "* Dispels buffs from all enemies.",
+            "* All enemies receive 1290 Sand damage over 5 turns.",
+            "* All enemies get -45% attack for 5 turns."
         ],
         "passives": [
             "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully changed, all enemies get two stacks. An enemy can have up to 10 stacks.",
@@ -114700,14 +114734,14 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * All allies regenerate 702 HP over 3 turns.",
-            " * All allies get +33% attack for 3 turns.",
-            " * Cleanses status ailments from all allies.",
+            "* All allies regenerate 702 HP over 3 turns.",
+            "* All allies get +33% attack for 3 turns.",
+            "* Cleanses status ailments from all allies.",
             "2x Mana Charge:",
-            " * Dispels buffs from all enemies.",
-            " * All enemies receive 1855 Sand damage over 5 turns.",
-            " * All enemies get -50% attack for 5 turns.",
-            " * All enemies get -45% decrease for any healing for 5 turns."
+            "* Dispels buffs from all enemies.",
+            "* All enemies receive 1855 Sand damage over 5 turns.",
+            "* All enemies get -50% attack for 5 turns.",
+            "* All enemies get -45% decrease for any healing for 5 turns."
         ],
         "passives": [
             "Mana on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully changed, the chance is 100%.",
@@ -115288,9 +115322,9 @@ window.allHeroes = [
             "Heals all allies who have less than 50% HP left to 50% health.",
             "All allies regenerate 1320 boosted health over 3 turns. Boosted health can exceed max HP.",
             "Source of Buffs: The following effects are cast on a random ally at the start of each turn",
-            " * +100% Special Skill damage for 4 turns.",
-            " * +33% mana generation for 4 turns.",
-            " * The Source of Buffs will activate 3 times. Each attempt to dispel it removes one activation."
+            "* +100% Special Skill damage for 4 turns.",
+            "* +33% mana generation for 4 turns.",
+            "* The Source of Buffs will activate 3 times. Each attempt to dispel it removes one activation."
         ],
         "passives": [
             "Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
@@ -115370,8 +115404,8 @@ window.allHeroes = [
             "Deals 475% damage to all enemies.",
             "All allies have a 45% chance to drop any received damage to 1 for 5 turns.",
             "Source of Buffs: The following effects are cast on a random ally at the start of each turn:",
-            " * +100% Special Skill damage for 5 turns.",
-            " * +44% mana generation for 5 turns.",
+            "* +100% Special Skill damage for 5 turns.",
+            "* +44% mana generation for 5 turns.",
             "The Source of Buffs will activate 6 times. Each attempt to dispel it removes one activation."
         ],
         "passives": [
@@ -115582,13 +115616,13 @@ window.allHeroes = [
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
-            " * Deals 175% damage to all enemies.",
-            " * Dispels status effect buffs that affect defense from all enemies.",
-            " * All enemies are immune to new status effect buffs that affect defense for 3 turns.",
+            "* Deals 175% damage to all enemies.",
+            "* Dispels status effect buffs that affect defense from all enemies.",
+            "* All enemies are immune to new status effect buffs that affect defense for 3 turns.",
             "2x Mana Charge:",
-            " * All allies bypass defensive buffs with their attacks for 5 turns. Defensive buffs include counterattacks.",
-            " * All allies reduce all received damage by -45% for 5 turns.",
-            " * All allies counterattack with 115% of the damage received for 5 turns."
+            "* All allies bypass defensive buffs with their attacks for 5 turns. Defensive buffs include counterattacks.",
+            "* All allies reduce all received damage by -45% for 5 turns.",
+            "* All allies counterattack with 115% of the damage received for 5 turns."
         ],
         "passives": [
             "Health recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%.",
@@ -115815,8 +115849,8 @@ window.allHeroes = [
         ],
         "passives": [
             "Increased Status Effect Duration: Chance to increase the duration of cast status effects",
-            " * +1 turn: 75%",
-            " * +2 turns: 25%"
+            "* +1 turn: 75%",
+            "* +2 turns: 25%"
         ],
         "family": "wolf",
         "costume_id": 1,
@@ -115892,10 +115926,10 @@ window.allHeroes = [
         ],
         "passives": [
             "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
-            "Righteous Rebellion: ",
-            " * When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
-            " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
-            " * Each of these effects can activate once per turn.",
+            "Righteous Rebellion:",
+            "* When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
+            "* When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
+            "* Each of these effects can activate once per turn.",
             "Resist Bleed: This character is immune to status ailments that deal Bleed damage."
         ],
         "family": "outlaw",
@@ -116040,9 +116074,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -116110,9 +116144,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +100%",
+            "- Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            " - Received elemental damage: -10%"
+            "- Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -116184,9 +116218,9 @@ window.allHeroes = [
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            " - Dealt extra elemental damage: +150%",
+            "- Dealt extra elemental damage: +150%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            " - Received elemental damage: -25%"
+            "- Received elemental damage: -25%"
         ],
         "family": "super_elemental",
         "costume_id": 1,
@@ -116260,13 +116294,13 @@ window.allHeroes = [
         ],
         "passives": [
             "Transform Ailments: Each time this character casts their Special Skill, all cleansable status ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs. Transformed effects:",
-            " * Attack status ailments are transformed into +40% attack buffs for 3 turns.",
-            " * Defense status ailments are transformed into +40% defense buffs for 3 turns.",
-            " * Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns.",
+            "* Attack status ailments are transformed into +40% attack buffs for 3 turns.",
+            "* Defense status ailments are transformed into +40% defense buffs for 3 turns.",
+            "* Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
-            " * Up to +35% mana generation.",
-            " * Up to +25% extra chance to dodge.",
-            " * The effects diminish the less Flight Momentum character has.",
+            "* Up to +35% mana generation.",
+            "* Up to +25% extra chance to dodge.",
+            "* The effects diminish the less Flight Momentum character has.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magic_carpet",
@@ -116620,9 +116654,9 @@ window.allHeroes = [
         ],
         "passives": [
             "Unstoppable Minions:",
-            " * Resistance against Minion removal.",
-            " * Can't be prevented from receiving Minions.",
-            " * Minion attack and abilities can't be disabled."
+            "* Resistance against Minion removal.",
+            "* Can't be prevented from receiving Minions.",
+            "* Minion attack and abilities can't be disabled."
         ],
         "family": "kingdom",
         "costume_id": 1,
@@ -116762,9 +116796,9 @@ window.allHeroes = [
         ],
         "passives": [
             "Unstoppable Minions:",
-            " * Resistance against Minion removal.",
-            " * Can't be prevented from receiving minions.",
-            " * Minion attacks and abilities can't be disabled."
+            "* Resistance against Minion removal.",
+            "* Can't be prevented from receiving minions.",
+            "* Minion attacks and abilities can't be disabled."
         ],
         "family": "kingdom",
         "costume_id": 1,
