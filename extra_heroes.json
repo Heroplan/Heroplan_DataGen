@@ -22,17 +22,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Laurent",
-        "fancy_name": "Petrified Guard of the Bewitched Castle",
-        "color": "Green",
-        "Release date": "",
-        "star": 5,
-        "family": "beauty_beast",
-        "costume_id": 0,
-        "heroId": "beauty_beast_laurent",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Veer",
         "fancy_name": "Prideful Assassin",
         "color": "Purple",
@@ -86,5 +75,13 @@
         "costume_id": 5,
         "heroId": "elven_captain_costume_stylish",
         "Lottery_Only": 1
+    },
+    {
+        "name": "Porthos costume1",
+        "fancy_name": "",
+        "color": "blue",
+        "Release date": "",
+        "star": 5,
+        "heroId": ""
     }
 ]

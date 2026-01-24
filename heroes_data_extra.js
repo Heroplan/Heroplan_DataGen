@@ -43377,5 +43377,42 @@ window.allHeroesExtra = [
             "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "astral_demons"
+    },
+    {
+        "name": "Porthos costume1",
+        "fancy name": "",
+        "element": "Blue",
+        "rarity": 5,
+        "Release date": "",
+        "AetherPower": "",
+        "skill_types": [],
+        "heroId": ""
+    },
+    {
+        "name": "Laurent",
+        "fancy name": "Petrified Guard of the Bewitched Castle",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2026-01-23",
+        "AetherPower": "Taunt",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Bypassers",
+            "Taunters",
+            "Damage Reducers"
+        ],
+        "heroId": "beauty_beast_laurent",
+        "baseAttack": 637,
+        "baseDefense": 643,
+        "baseHealth": 1108,
+        "specialId": "unyielding_stance",
+        "passiveSkills": [
+            "convert_incoming_damage_to_heal",
+            "heal_on_expired_or_cleared_debuff_average",
+            "reduce_revival_health_all_enemies"
+        ],
+        "family": "beauty_beast"
     }
 ];
