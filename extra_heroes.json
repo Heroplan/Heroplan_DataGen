@@ -22,17 +22,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Lumi & Taiga",
-        "fancy_name": "Warden of the Tundra",
-        "color": "Blue",
-        "Release date": "",
-        "star": 5,
-        "family": "titan_hunter",
-        "costume_id": 0,
-        "heroId": "titan_hunter_lumi_and_taiga",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Elkanen Stylish",
         "fancy_name": "Stylish Spearmaster",
         "color": "Green",

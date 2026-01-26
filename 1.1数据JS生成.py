@@ -1120,6 +1120,8 @@ def append_missing_heroes_to_extra_data(missing_heroes_list, file_path):
                 "element": hero_info.get("color", "").capitalize(),
                 "rarity": hero_info.get("star", 0),
                 "Release date": matched_hero.get("Release date", ""),
+                "AetherPower": "",
+                "skill_types": [],
                 "heroId": matched_hero.get("heroId", ""),
                 "family": matched_hero.get("family", ""),
             }

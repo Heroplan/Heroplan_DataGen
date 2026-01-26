@@ -43439,5 +43439,30 @@ window.allHeroesExtra = [
         "healthBonus": "53%",
         "manaBonus": "5%",
         "family": "musketeer"
+    },
+    {
+        "name": "Lumi & Taiga",
+        "fancy name": "Warden of the Tundra",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2026-01-25",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (ATK)",
+            "Damage Sharers"
+        ],
+        "heroId": "titan_hunter_lumi_and_taiga",
+        "baseAttack": 650,
+        "baseDefense": 627,
+        "baseHealth": 1108,
+        "specialId": "arctic_guard",
+        "passiveSkills": [
+            "titan_hunter_hunting_flare_on_special_cast",
+            "tile_enhancement_blue_on_special_titan_hunter_parent"
+        ],
+        "family": "titan_hunter"
     }
 ];
