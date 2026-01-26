@@ -1,16 +1,5 @@
 [
     {
-        "name": "Porthos C1",
-        "fancy_name": "Merchant Musketeer",
-        "color": "Blue",
-        "Release date": "",
-        "star": 5,
-        "family": "musketeer",
-        "costume_id": 1,
-        "heroId": "musketeer_porthos_costume_merchant",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Chingiriko",
         "fancy_name": "Shadow Stalker Slime",
         "color": "Red",
@@ -75,13 +64,5 @@
         "costume_id": 5,
         "heroId": "elven_captain_costume_stylish",
         "Lottery_Only": 1
-    },
-    {
-        "name": "Porthos costume1",
-        "fancy_name": "",
-        "color": "blue",
-        "Release date": "",
-        "star": 5,
-        "heroId": ""
     }
 ]

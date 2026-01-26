@@ -12156,42 +12156,32 @@ const translatedPassivesCN =
     },
     {
         "originalIndex": 1659,
-        "name": "Porthos C1",
-        "passives": []
-    },
-    {
-        "originalIndex": 1660,
         "name": "Chingiriko",
         "passives": []
     },
     {
-        "originalIndex": 1661,
+        "originalIndex": 1660,
         "name": "Veer",
         "passives": []
     },
     {
-        "originalIndex": 1662,
+        "originalIndex": 1661,
         "name": "Lumi & Taiga",
         "passives": []
     },
     {
-        "originalIndex": 1663,
+        "originalIndex": 1662,
         "name": "Elkanen Stylish",
         "passives": []
     },
     {
-        "originalIndex": 1664,
+        "originalIndex": 1663,
         "name": "Obakan Stylish",
         "passives": []
     },
     {
-        "originalIndex": 1665,
+        "originalIndex": 1664,
         "name": "Caedmon Stylish",
-        "passives": []
-    },
-    {
-        "originalIndex": 1666,
-        "name": "Porthos C1",
         "passives": []
     }
 ];

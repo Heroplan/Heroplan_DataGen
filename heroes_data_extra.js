@@ -43379,16 +43379,6 @@ window.allHeroesExtra = [
         "family": "astral_demons"
     },
     {
-        "name": "Porthos costume1",
-        "fancy name": "",
-        "element": "Blue",
-        "rarity": 5,
-        "Release date": "",
-        "AetherPower": "",
-        "skill_types": [],
-        "heroId": ""
-    },
-    {
         "name": "Laurent",
         "fancy name": "Petrified Guard of the Bewitched Castle",
         "element": "Green",
@@ -43414,5 +43404,40 @@ window.allHeroesExtra = [
             "reduce_revival_health_all_enemies"
         ],
         "family": "beauty_beast"
+    },
+    {
+        "name": "Porthos costume1",
+        "fancy name": "Merchant Musketeer",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
+        "Release date": "2026-01-23",
+        "AetherPower": "Regen",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Board Alterers",
+            "Debuffers (ATK)",
+            "Buffers (ATK)",
+            "Extra Damage Dealers",
+            "Heal over Time (HoT)",
+            "Health Boosters"
+        ],
+        "heroId": "musketeer_porthos_costume_merchant",
+        "baseAttack": 416,
+        "baseDefense": 400,
+        "baseHealth": 766,
+        "specialId": "musketeers_mead",
+        "specialId_costume": "musketeers_deal",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received_costume",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "53%",
+        "defenseBonus": "53%",
+        "healthBonus": "53%",
+        "manaBonus": "5%",
+        "family": "musketeer"
     }
 ];

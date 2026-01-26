@@ -16085,42 +16085,32 @@ const translatedEffectsTC =
     },
     {
         "originalIndex": 1659,
-        "name": "Porthos C1",
-        "effects": []
-    },
-    {
-        "originalIndex": 1660,
         "name": "Chingiriko",
         "effects": []
     },
     {
-        "originalIndex": 1661,
+        "originalIndex": 1660,
         "name": "Veer",
         "effects": []
     },
     {
-        "originalIndex": 1662,
+        "originalIndex": 1661,
         "name": "Lumi & Taiga",
         "effects": []
     },
     {
-        "originalIndex": 1663,
+        "originalIndex": 1662,
         "name": "Elkanen Stylish",
         "effects": []
     },
     {
-        "originalIndex": 1664,
+        "originalIndex": 1663,
         "name": "Obakan Stylish",
         "effects": []
     },
     {
-        "originalIndex": 1665,
+        "originalIndex": 1664,
         "name": "Caedmon Stylish",
-        "effects": []
-    },
-    {
-        "originalIndex": 1666,
-        "name": "Porthos C1",
         "effects": []
     }
 ];

@@ -1007,6 +1007,44 @@ def append_missing_heroes_to_extra_data(missing_heroes_list, file_path):
 
     logging.info(f"检测到 {len(missing_heroes_list)} 个缺失的英雄数据，准备自动追加到 '{file_path}'...")
     
+    # 加载 extra_heroes.json 数据用于匹配
+    extra_heroes_data = []
+    if os.path.exists(EXTRA_HEROES_JSON_FILE):
+        try:
+            with open(EXTRA_HEROES_JSON_FILE, 'r', encoding='utf-8') as f:
+                extra_heroes_data = json.load(f)
+            logging.info(f"成功加载 {len(extra_heroes_data)} 条 extra_heroes.json 数据")
+            
+            # 打印所有 extra_heroes.json 中的英雄名称用于调试
+            logging.info("extra_heroes.json 中的英雄名称:")
+            for hero in extra_heroes_data:
+                logging.info(f"  - {hero.get('name')}")
+        except Exception as e:
+            logging.error(f"加载 '{EXTRA_HEROES_JSON_FILE}' 时出错: {e}")
+    
+    # 创建名称映射字典（规范化名称 -> 完整条目）
+    extra_heroes_map = {}
+    for hero in extra_heroes_data:
+        name = hero.get("name", "")
+        if name:
+            # 创建多种可能的规范化键名
+            normalized_name = normalize_for_hero_name(name)
+            extra_heroes_map[normalized_name] = hero
+            
+            # 添加 costume 格式转换的键名
+            if " C" in name:
+                # 将 "Porthos C1" 转换为 "Porthos costume1"
+                costume_name = name.replace(" C1", " costume1")
+                costume_name = name.replace(" C2", " costume2")
+                costume_normalized = normalize_for_hero_name(costume_name)
+                extra_heroes_map[costume_normalized] = hero
+                logging.info(f"添加映射: {name} -> {costume_name} (规范化: {costume_normalized})")
+    
+    # 打印所有映射键用于调试
+    logging.info("extra_heroes_map 中的键:")
+    for key in extra_heroes_map.keys():
+        logging.info(f"  - '{key}'")
+    
     existing_data = []
     existing_names = set()
     try:
@@ -1019,7 +1057,7 @@ def append_missing_heroes_to_extra_data(missing_heroes_list, file_path):
                 json_str = match.group(1)
                 json_str = re.sub(r',\s*([\]}])', r'\1', json_str)
                 existing_data = json.loads(json_str)
-                existing_names = {entry.get('name') for entry in existing_data if entry.get('name')}
+                existing_names = {normalize_for_hero_name(entry.get('name', '')) for entry in existing_data if entry.get('name')}
             else:
                 logging.warning(f"在 '{file_path}' 中未找到数据数组。将创建一个新的数组。")
     except Exception as e:
@@ -1031,36 +1069,86 @@ def append_missing_heroes_to_extra_data(missing_heroes_list, file_path):
     
     for hero_info in missing_heroes_list:
         name = hero_info.get("name")
-        if not name or name in existing_names or name in processed_names_this_run:
+        if not name:
+            continue
+            
+        normalized_name = normalize_for_hero_name(name)
+        logging.info(f"处理英雄: '{name}' (规范化: '{normalized_name}')")
+        
+        # 检查是否已存在或已处理
+        if normalized_name in existing_names or normalized_name in processed_names_this_run:
+            logging.info(f"英雄 '{name}' 已存在或已处理，跳过")
             continue
         
-        processed_names_this_run.add(name)
+        processed_names_this_run.add(normalized_name)
         
-        # 从映射中查找英雄ID和fancy name
-        hero_id = HERO_NAME_TO_ID_MAP.get(name)
-        fancy_name = HERO_ID_TO_FANCY_MAP.get(hero_id) if hero_id else ""
+        # 首先尝试从 extra_heroes.json 中匹配
+        matched_hero = None
         
-        if not hero_id:
-            logging.warning(f"未找到英雄 '{name}' 的ID映射，使用默认处理")
-            hero_id = ""
+        # 尝试直接匹配
+        matched_hero = extra_heroes_map.get(normalized_name)
+        if matched_hero:
+            logging.info(f"直接匹配成功: '{name}' -> '{matched_hero.get('name')}'")
         
-        if not fancy_name:
-            logging.warning(f"未找到英雄ID '{hero_id}' 的fancy name映射")
-            fancy_name = ""
+        # 如果直接匹配失败，尝试 costume 格式转换匹配
+        if not matched_hero:
+            # 处理 costume 格式：将 "costume1" 转换为 "C1" 格式
+            if "costume" in name.lower():
+                # 将 "Porthos costume1" 转换为 "Porthos C1"
+                c_name = name.replace("costume", "C").replace("costume1", "C1").replace("costume2", "C2").replace("costume3", "C3")
+                c_normalized = normalize_for_hero_name(c_name)
+                matched_hero = extra_heroes_map.get(c_normalized)
+                if matched_hero:
+                    logging.info(f"通过格式转换匹配成功: '{name}' -> '{c_name}'")
         
-        blank_entries.append({
-            "name": name,
-            "fancy name": fancy_name,
-            "element": hero_info.get("color", "").capitalize(),
-            "rarity": hero_info.get("star", 0),
-            "Release date": "",
-            "AetherPower": "",
-            "skill_types": [],
-            "heroId": hero_id  # 添加heroId字段
-        })
+        # 如果还没有匹配，尝试更宽松的匹配
+        if not matched_hero:
+            # 尝试移除所有空格和特殊字符后的匹配
+            simplified_name = re.sub(r'[^a-zA-Z0-9]', '', name).lower()
+            for key, hero_entry in extra_heroes_map.items():
+                simplified_key = re.sub(r'[^a-zA-Z0-9]', '', key).lower()
+                if simplified_name == simplified_key:
+                    matched_hero = hero_entry
+                    logging.info(f"通过简化匹配成功: '{name}' -> '{hero_entry.get('name')}'")
+                    break
         
-        # 同时添加到extra_heroes.json
-        add_to_extra_heroes_json(name, fancy_name, hero_info, hero_id)
+        if matched_hero:
+            # 使用 extra_heroes.json 中的完整信息
+            new_entry = {
+                "name": name,  # 保持原始名称格式
+                "fancy name": matched_hero.get("fancy_name", ""),
+                "element": hero_info.get("color", "").capitalize(),
+                "rarity": hero_info.get("star", 0),
+                "Release date": matched_hero.get("Release date", ""),
+                "heroId": matched_hero.get("heroId", ""),
+                "family": matched_hero.get("family", ""),
+            }
+            blank_entries.append(new_entry)
+            logging.info(f"从 extra_heroes.json 成功匹配英雄: '{name}' -> fancy_name: '{matched_hero.get('fancy_name', '')}'")
+        else:
+            # 如果没有匹配到，使用原来的映射方式
+            hero_id = HERO_NAME_TO_ID_MAP.get(name)
+            fancy_name = HERO_ID_TO_FANCY_MAP.get(hero_id) if hero_id else ""
+            
+            if not hero_id:
+                logging.warning(f"未找到英雄 '{name}' 的ID映射，使用默认处理")
+                hero_id = ""
+            
+            if not fancy_name:
+                logging.warning(f"未找到英雄ID '{hero_id}' 的fancy name映射")
+                fancy_name = ""
+            
+            blank_entries.append({
+                "name": name,
+                "fancy name": fancy_name,
+                "element": hero_info.get("color", "").capitalize(),
+                "rarity": hero_info.get("star", 0),
+                "Release date": "",
+                "AetherPower": "",
+                "skill_types": [],
+                "heroId": hero_id
+            })
+            logging.info(f"使用默认方式添加英雄: '{name}'")
 
     if not blank_entries:
         logging.info(f"文件 '{file_path}' 已包含所有检测到的缺失英雄，无需更新。")
@@ -1074,46 +1162,75 @@ def append_missing_heroes_to_extra_data(missing_heroes_list, file_path):
             f.write(f"window.allHeroesExtra = {json_string};")
         print(f"成功！已将 {len(blank_entries)} 个新的完整英雄条目追加到 '{file_path}'。")
         logging.info(f"成功！已将 {len(blank_entries)} 个新的完整英雄条目追加到 '{file_path}'。")
+        
+        # 成功添加后，从 extra_heroes.json 中移除已处理的条目
+        remove_processed_heroes_from_extra(blank_entries)
+        
     except Exception as e:
         logging.error(f"写入更新后的数据到 '{file_path}' 时失败: {e}")
 
-def add_to_extra_heroes_json(name, fancy_name, hero_info, hero_id):
-    """将缺失的英雄添加到extra_heroes.json"""
-    extra_heroes_path = EXTRA_HEROES_JSON_FILE
-    
-    # 加载现有的extra_heroes.json
-    existing_extra_heroes = []
-    if os.path.exists(extra_heroes_path):
-        try:
-            with open(extra_heroes_path, 'r', encoding='utf-8') as f:
-                existing_extra_heroes = json.load(f)
-        except Exception as e:
-            logging.error(f"加载 '{extra_heroes_path}' 时出错: {e}")
-            existing_extra_heroes = []
-    
-    # 检查是否已存在
-    if any(hero.get('name') == name for hero in existing_extra_heroes):
-        logging.info(f"英雄 '{name}' 已存在于 {extra_heroes_path}，跳过添加")
+def remove_processed_heroes_from_extra(processed_entries):
+    """从 extra_heroes.json 中移除已成功处理的英雄"""
+    if not processed_entries or not os.path.exists(EXTRA_HEROES_JSON_FILE):
         return
-    
-    # 添加新条目
-    new_entry = {
-        "name": name,
-        "fancy_name": fancy_name,
-        "color": hero_info.get("color", ""),
-        "Release date": "",
-        "star": hero_info.get("star", 5),
-        "heroId": hero_id,
-    }
-    
-    existing_extra_heroes.append(new_entry)
-    
+        
     try:
-        with open(extra_heroes_path, 'w', encoding='utf-8') as f:
-            json.dump(existing_extra_heroes, f, ensure_ascii=False, indent=4)
-        print(f"成功！已将 '{name}' 添加到 {extra_heroes_path}。")
+        with open(EXTRA_HEROES_JSON_FILE, 'r', encoding='utf-8') as f:
+            extra_heroes = json.load(f)
+        
+        # 创建已处理英雄的名称集合（规范化用于匹配）
+        processed_names = set()
+        for entry in processed_entries:
+            name = entry.get("name", "")
+            if name:
+                # 创建多种可能的规范化名称用于匹配
+                normalized_name = normalize_for_hero_name(name)
+                processed_names.add(normalized_name)
+                
+                # 添加 costume 格式转换的匹配
+                if "costume" in name.lower():
+                    # 将 "Porthos costume1" 转换为 "Porthos C1"
+                    c_name = name.replace("costume", "C").replace("costume1", "C1").replace("costume2", "C2").replace("costume3", "C3")
+                    processed_names.add(normalize_for_hero_name(c_name))
+        
+        # 过滤掉已处理的英雄
+        original_count = len(extra_heroes)
+        extra_heroes_updated = []
+        
+        for hero in extra_heroes:
+            hero_name = hero.get("name", "")
+            hero_normalized = normalize_for_hero_name(hero_name)
+            
+            if hero_normalized not in processed_names:
+                # 检查 costume 格式转换
+                if " C" in hero_name:
+                    c_name = hero_name.replace(" C", " costume")
+                    c_normalized = normalize_for_hero_name(c_name)
+                    if c_normalized not in processed_names:
+                        extra_heroes_updated.append(hero)
+                    else:
+                        logging.info(f"移除已处理的英雄 (通过转换匹配): {hero_name}")
+                else:
+                    extra_heroes_updated.append(hero)
+            else:
+                logging.info(f"移除已处理的英雄: {hero_name}")
+        
+        removed_count = original_count - len(extra_heroes_updated)
+        if removed_count > 0:
+            with open(EXTRA_HEROES_JSON_FILE, 'w', encoding='utf-8') as f:
+                json.dump(extra_heroes_updated, f, ensure_ascii=False, indent=4)
+            print(f"✅ 已从 {EXTRA_HEROES_JSON_FILE} 中移除 {removed_count} 个已处理的英雄条目")
+            logging.info(f"✅ 已从 {EXTRA_HEROES_JSON_FILE} 中移除 {removed_count} 个已处理的英雄条目")
+            
+            # 打印被移除的英雄名称
+            print("被移除的英雄:")
+            for entry in processed_entries:
+                print(f"  - {entry.get('name')}")
+        else:
+            print("ℹ️ 没有需要从 extra_heroes.json 中移除的英雄条目")
+            
     except Exception as e:
-        logging.error(f"写入 '{extra_heroes_path}' 时失败: {e}")
+        logging.error(f"从 {EXTRA_HEROES_JSON_FILE} 移除已处理英雄时出错: {e}")
 
 def append_missing_heroes_to_cn_skill_data(missing_names_list, file_path):
     """

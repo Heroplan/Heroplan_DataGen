@@ -17946,30 +17946,41 @@ window.allHeroes =
     },
     {
         "name": "波梭司 (Porthos) C1",
-        "fancy_name": "",
-        "AetherPower": "",
+        "fancy_name": "商人火槍手",
+        "AetherPower": "回復",
         "color": "藍",
-        "class": null,
+        "class": "僧侶",
         "speed": "慢速",
-        "skill": "",
+        "skill": "火槍手的交易",
         "types": [
             "攻擊所有目標",
             "改變棋盤",
             "自我強化持續治療"
         ],
-        "skill_types": [],
+        "skill_types": [
+            "全體攻擊 (打5)",
+            "改變面板",
+            "攻擊減益",
+            "攻擊增益",
+            "額外傷害",
+            "持續治療",
+            "生命強化"
+        ],
         "source": "聯盟 - 勇者與美人",
-        "Release date": "",
-        "specialId": "",
-        "parent_specialId": "",
-        "passiveSkills": "",
-        "costumeBonusPassiveSkillIds": "",
-        "heroId": "",
+        "Release date": "2026-01-23",
+        "specialId": "musketeers_deal",
+        "parent_specialId": "musketeers_mead",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received_costume",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "musketeer_porthos_costume_merchant",
         "star": 5,
-        "power": 1273,
-        "attack": 1309,
+        "power": 1274,
+        "attack": 1311,
         "defense": 1260,
-        "health": 2412,
+        "health": 2414,
         "effects": [
             "對所有敵人造成 485% 傷害。",
             "改變面板上所有冰雪系護盾的強度。攻擊英雄施放該特技時，護盾受到 +64% 攻擊力的強化，防禦英雄施放該特技時，護盾受到 -57% 攻擊力的弱化。",
@@ -17983,7 +17994,32 @@ window.allHeroes =
         "family": "musketeer",
         "costume_id": 1,
         "originalIndex": 257,
-        "cn_skill_info": []
+        "lb1": {
+            "attack": 1412,
+            "defense": 1358,
+            "health": 2601,
+            "power": 1363
+        },
+        "lb2": {
+            "attack": 1616,
+            "defense": 1554,
+            "health": 2976,
+            "power": 1542
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：全體"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "攻擊-面板：攻擊力",
+                    "治療-自我恢復/提高生命",
+                    "傷害-傷害↑：火焰"
+                ]
+            }
+        ]
     },
     {
         "name": "奎瑞 (Quari)",
@@ -117033,32 +117069,6 @@ window.allHeroes =
         ]
     },
     {
-        "name": "波梭司 (Porthos) C1",
-        "fancy_name": "商人火槍手",
-        "AetherPower": "",
-        "color": "藍",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "musketeer_porthos_costume_merchant",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "musketeer",
-        "costume_id": 1,
-        "originalIndex": 1659,
-        "cn_skill_info": []
-    },
-    {
         "name": "欽吉里科 (Chingiriko)",
         "fancy_name": "暗影追跡者史萊姆",
         "AetherPower": "",
@@ -117081,7 +117091,7 @@ window.allHeroes =
         "passives": [],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1660,
+        "originalIndex": 1659,
         "cn_skill_info": []
     },
     {
@@ -117107,7 +117117,7 @@ window.allHeroes =
         "passives": [],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1661,
+        "originalIndex": 1660,
         "cn_skill_info": []
     },
     {
@@ -117133,7 +117143,7 @@ window.allHeroes =
         "passives": [],
         "family": "titan_hunter",
         "costume_id": 0,
-        "originalIndex": 1662,
+        "originalIndex": 1661,
         "cn_skill_info": []
     },
     {
@@ -117159,7 +117169,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1663,
+        "originalIndex": 1662,
         "cn_skill_info": []
     },
     {
@@ -117185,7 +117195,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1664,
+        "originalIndex": 1663,
         "cn_skill_info": []
     },
     {
@@ -117211,33 +117221,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1665,
-        "cn_skill_info": []
-    },
-    {
-        "name": "波梭司 (Porthos) C1",
-        "fancy_name": "",
-        "AetherPower": "",
-        "color": "藍",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "",
-        "costume_id": 0,
-        "originalIndex": 1666,
+        "originalIndex": 1664,
         "cn_skill_info": []
     }
 ];
