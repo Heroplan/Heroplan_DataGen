@@ -43464,5 +43464,34 @@ window.allHeroesExtra = [
             "tile_enhancement_blue_on_special_titan_hunter_parent"
         ],
         "family": "titan_hunter"
+    },
+    {
+        "name": "Aether Mimic Nature",
+        "fancy name": "Starved Storage of Rods",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
+        "Release date": "2026-01-27",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "Snipers",
+            "Healers (Special)",
+            "Health Boosters",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers"
+        ],
+        "heroId": "mimic_aether_green",
+        "baseAttack": 647,
+        "baseDefense": 647,
+        "baseHealth": 1097,
+        "specialId": "aether_mimic_bite_green",
+        "passiveSkills": [
+            "mimic_aether_green",
+            "never_miss_special"
+        ],
+        "family": "mimic"
     }
 ];

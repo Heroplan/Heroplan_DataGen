@@ -2763,6 +2763,12 @@
             "type": "MysteryHero",
             "startTime": "2026-01-06 07:00:00",
             "endTime": "2026-01-07 07:00:00"
+          },
+          {
+            "id": "SecretSummonAetherMimicGreen",
+            "type": "MysteryHero",
+            "startTime": "2026-01-27 07:00:00",
+            "endTime": "2026-01-28 07:00:00"
           }
         ],
         "challengeEventEntries": [
@@ -82922,5 +82928,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1805085906
+  "otherConfigId": 1137111394
 }

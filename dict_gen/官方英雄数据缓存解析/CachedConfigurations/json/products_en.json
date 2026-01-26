@@ -6,7 +6,7 @@
         "id": "lottery_temple_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 156,
+        "uiPriority": 167,
         "associatedEvent": "Temple",
         "bucketWeights": [
           568,
@@ -1238,7 +1238,7 @@
         "id": "lottery_super_elemental_red",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 135,
+        "uiPriority": 168,
         "associatedEvent": "SuperElemental",
         "bonusChest": "super_elemental_chest_red",
         "bonusChestRequirement": 10,
@@ -3816,8 +3816,8 @@
         "id": "lottery_mercenary_war_default",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 158,
-        "advertisedHero": "outlaw_hu_sanniang",
+        "uiPriority": 169,
+        "advertisedHero": "outlaw_zheng_tianshou",
         "associatedEvent": "KingdomWar",
         "bonusChest": "3kw_chest",
         "bonusChestRequirement": 5,
@@ -16351,7 +16351,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.mystery3",
         "dollarValue": 3,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -16365,7 +16364,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.mystery3_bonus",
         "dollarValue": 20,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -26005,7 +26003,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.quintuple_christmas_1",
         "dollarValue": 3,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -26019,7 +26016,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.quintuple_christmas_2",
         "dollarValue": 8,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -26038,7 +26034,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.quintuple_christmas_3",
         "dollarValue": 15,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -26063,7 +26058,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.quintuple_christmas_4",
         "dollarValue": 20,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -26094,7 +26088,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.quintuple_christmas_5",
         "dollarValue": 50,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35976,6 +35969,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36103,7 +36097,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_holiday2024_1a",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36137,7 +36130,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_holiday2024_1b",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36166,7 +36158,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_holiday2024_2a",
         "dollarValue": 20,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36200,7 +36191,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_holiday2024_2b",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36234,7 +36224,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_holiday2024_3",
         "dollarValue": 60,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -58236,5 +58225,5 @@
       }
     ]
   },
-  "productsConfigId": 1888702135
+  "productsConfigId": 2487250933
 }
