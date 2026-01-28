@@ -43493,5 +43493,95 @@ window.allHeroesExtra = [
             "never_miss_special"
         ],
         "family": "mimic"
+    },
+    {
+        "name": "Caedmon stylish",
+        "fancy name": "Stylish Elf",
+        "element": "Green",
+        "rarity": 4,
+        "class": "Druid",
+        "speed": "fast",
+        "Release date": "2026-01-26",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "Extra Damage Dealers",
+            "Dispellers",
+            "Snipers"
+        ],
+        "heroId": "elven_captain_costume_stylish",
+        "baseAttack": 308,
+        "baseDefense": 297,
+        "baseHealth": 523,
+        "specialId": "piercing_strike",
+        "specialId_costume": "stylish_strike_caedmon",
+        "passiveSkills": [
+            "stylish"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "30%",
+        "defenseBonus": "30%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Elkanen stylish",
+        "fancy name": "Stylish Spearmaster",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
+        "Release date": "2026-01-26",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers",
+            "Healers (Special)"
+        ],
+        "heroId": "forest_male_elf_costume_stylish",
+        "baseAttack": 369,
+        "baseDefense": 337,
+        "baseHealth": 610,
+        "specialId": "crescent_spear",
+        "specialId_costume": "stylish_spear",
+        "passiveSkills": [
+            "stylish"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "85%",
+        "defenseBonus": "85%",
+        "healthBonus": "85%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Obakan stylish",
+        "fancy name": "Stylish Bodyguard",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
+        "Release date": "2026-01-26",
+        "AetherPower": "Counterattack",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers",
+            "Counterattackers"
+        ],
+        "heroId": "underworld_champion_costume_stylish",
+        "baseAttack": 364,
+        "baseDefense": 327,
+        "baseHealth": 639,
+        "specialId": "cleave_counter",
+        "specialId_costume": "stylish_counterattack",
+        "passiveSkills": [
+            "stylish"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "85%",
+        "defenseBonus": "85%",
+        "healthBonus": "85%",
+        "manaBonus": "5%",
+        "family": "classic"
     }
 ];

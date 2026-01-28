@@ -20,38 +20,5 @@
         "costume_id": 0,
         "heroId": "mahayoddha_veer",
         "Lottery_Only": 1
-    },
-    {
-        "name": "Elkanen Stylish",
-        "fancy_name": "Stylish Spearmaster",
-        "color": "Green",
-        "Release date": "",
-        "star": 5,
-        "family": "classic",
-        "costume_id": 5,
-        "heroId": "forest_male_elf_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Obakan Stylish",
-        "fancy_name": "Stylish Bodyguard",
-        "color": "Purple",
-        "Release date": "",
-        "star": 5,
-        "family": "classic",
-        "costume_id": 5,
-        "heroId": "underworld_champion_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Caedmon Stylish",
-        "fancy_name": "Stylish Elf",
-        "color": "Green",
-        "Release date": "",
-        "star": 4,
-        "family": "classic",
-        "costume_id": 5,
-        "heroId": "elven_captain_costume_stylish",
-        "Lottery_Only": 1
     }
 ]

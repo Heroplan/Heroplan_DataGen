@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (506 / 0)
+✅ 成功匹配的服装 (509 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -378,10 +378,13 @@ Name: Domitia Costume1, Fancy Name: Steampunk Sniper
 Name: Zhuge Liang Costume1, Fancy Name: Strategist Supreme
 Name: Aqeela Costume1, Fancy Name: Street-Smart Sorcerer
 Name: Jarif Costume1, Fancy Name: Stressed-Out Curator
+Name: Obakan stylish, Fancy Name: Stylish Bodyguard
+Name: Caedmon stylish, Fancy Name: Stylish Elf
 Name: Sartana stylish, Fancy Name: Stylish Executioner
 Name: Azlar stylish, Fancy Name: Stylish Leor
 Name: Jahangir stylish, Fancy Name: Stylish Mage
 Name: Vivica stylish, Fancy Name: Stylish Scholar
+Name: Elkanen stylish, Fancy Name: Stylish Spearmaster
 Name: Agrafena Costume1, Fancy Name: Supreme Dark Sorceress
 Name: Rana Costume1, Fancy Name: Surfer Queen
 Name: Guardian Gazelle Costume1, Fancy Name: Swift Striker of Teltoc
