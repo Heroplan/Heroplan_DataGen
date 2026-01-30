@@ -50,6 +50,8 @@
 "herocard.family.title.fleur_de_sang_pve_tier3.short","Fleur de Sang"
 "herocard.family.title.forsaken","Terk Edilmiş Aile"
 "herocard.family.title.forsaken.short","Terk Edilmiş"
+"herocard.family.title.fortune","Talih Dansçısı Ailesi"
+"herocard.family.title.fortune.short","Talih"
 "herocard.family.title.fox","Tilki Ailesi"
 "herocard.family.title.fox.short","Tilki"
 "herocard.family.title.gargoyle","Yaratık Ailesi"

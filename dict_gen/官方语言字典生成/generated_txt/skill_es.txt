@@ -82,6 +82,7 @@ Cada golpe de un megasecuaz aberrante otorga al objetivo el siguiente estado alt
 "specials.v2.directeffect.damage.yellow.enemies","Inflige un {HEALTH} % de daño a todos los enemigos sagrados."
 "specials.v2.directeffect.heal.all.allies","Recupera un {HEALTH} % de vitalidad para todos los aliados."
 "specials.v2.directeffect.heal.all.allies.fixedpower","Recupera {HEALTH} de vitalidad para todos los aliados."
+"specials.v2.directeffect.heal.lessthanhalfhpleft.allies.fixedpower","Recupera {HEALTH} de vitalidad de todos los aliados con menos de un 50 % de vitalidad."
 "specials.v2.directeffect.heal.neartotarget.allies","Recupera un {HEALTH} % de vitalidad para el héroe y los aliados cercanos."
 "specials.v2.directeffect.heal.single.allies","Recupera un {HEALTH} % de vitalidad para el héroe."
 "specials.v2.directeffect.heal.single.allies.fixedpower","Recupera {HEALTH} de vitalidad para el héroe."
@@ -328,6 +329,7 @@ Cada golpe de un secuaz xulu otorga al objetivo el siguiente estado alterado:"
  El demonio absorbe la curación y desaparece tras absorber una cantidad de vitalidad equivalente al {FAMILIARHEALTHPERCENT} % de la vitalidad máxima de su objetivo."
 "specials.v2.parasite.flytrap_fiend.neartotarget","Invoca un demonio atrapamoscas para el objetivo y los enemigos cercanos.
  El demonio absorbe la curación y desaparece tras absorber una cantidad de vitalidad equivalente al {FAMILIARHEALTHPERCENT} % de la vitalidad máxima de su objetivo."
+"specials.v2.parasite.flytrap_fiend.reducemaxhealth.single.allies","Al invocarse, el demonio atrapamoscas reduce la vitalidad máxima de su objetivo en {REDUCTION} en cada turno. El efecto es más fuerte contra objetivos con vitalidad potenciada."
 "specials.v2.parasite.flytrap_fiend.single","Invoca un demonio atrapamoscas para el objetivo que daña al enemigo con un {FAMILIARATTACK} % de ataque cada turno.
  El demonio absorbe la curación y desaparece tras absorber una cantidad de vitalidad equivalente al {FAMILIARHEALTHPERCENT} % de la vitalidad máxima de su objetivo."
 "specials.v2.parasite.gargoyle_parasite.explode","El demonio gárgola explota después de {FAMILIAREFFECTFREQUENCY} turnos e inflige {FAMILIARFIXEDEXPLOSIONDAMAGE} de daño al objetivo."
@@ -356,6 +358,9 @@ Cada golpe de un secuaz xulu otorga al objetivo el siguiente estado alterado:"
 "specials.v2.parasite.mercenary_costume.all","Invoca un demonio mercenario para todos los enemigos que daña al enemigo con un {FAMILIARATTACK} % de ataque cada turno.
  El demonio absorbe la curación y desaparece tras absorber una cantidad de vitalidad equivalente al {FAMILIARHEALTHPERCENT} % de la vitalidad máxima de su objetivo."
 "specials.v2.parasite.missile_parasite.explode","Si un enemigo cae derrotado mientras tiene un demonio misil, los enemigos cercanos reciben {FAMILIARFIXEDEXPLOSIONDAMAGE} de daño."
+"specials.v2.parasite.moldavite_owl_fiend.neartotarget","Invoca un demonio búho de moldavita para el objetivo y los enemigos cercanos que daña al enemigo con un {FAMILIARATTACK} % de ataque cada turno.
+ El demonio búho de moldavita absorbe la curación y desaparece tras absorber una cantidad de vitalidad equivalente al {FAMILIARHEALTHPERCENT} % de la vitalidad máxima de su objetivo."
+"specials.v2.parasite.moldavite_owl_fiend.removestatuseffects.minorbuff.single.allies.customremovalcount","Al final de cada turno, el demonio búho de moldavita descarta una de las bendiciones descartables de su objetivo."
 "specials.v2.parasite.muffin_parasite.all","Invoca un demonio magdalena para todos los enemigos que daña al enemigo con un {FAMILIARATTACK} % de ataque cada turno.
  El demonio absorbe la curación y desaparece tras absorber una cantidad de vitalidad equivalente al {FAMILIARHEALTHPERCENT} % de la vitalidad máxima del objetivo.
  Cada golpe del demonio tiene los siguientes efectos:"
@@ -516,6 +521,10 @@ Por cada enemigo de hielo alcanzado, la vitalidad potenciada es un {AMPLIFIEDSHA
 "specials.v2.property.chainstrikewitheffectperhit.statuseffect.single.playercharacters","Tiene un {CHANCE} % de probabilidad de asestar golpes adicionales a enemigos aleatorios hasta {MAXHITS} veces.
  El héroe recibe el siguiente efecto de estado por cada golpe:
 {STATUSEFFECTS}"
+"specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","Inflige un {DAMAGE} % de daño al objetivo y a {MAXHITS} enemigos aleatorios.
+ Invoca un demonio brote maldito para cada enemigo golpeado."
+"specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","Inflige un {DAMAGE} % de daño al objetivo y a {MAXHITS} enemigos aleatorios.
+ Invoca un demonio brote maldito para cada enemigo golpeado."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","Causa un {DAMAGE} % de daño al objetivo y a {MAXHITS} enemigos aleatorios.
  Invoca un demonio misil que daña al enemigo con un {FAMILIARATTACK} % de ataque cada turno.
  El demonio absorbe la curación y desaparece tras absorber una cantidad de vitalidad equivalente al {FAMILIARHEALTHPERCENT} % de la vitalidad máxima de su dueño."
@@ -552,6 +561,7 @@ Por cada enemigo de hielo alcanzado, la vitalidad potenciada es un {AMPLIFIEDSHA
 "specials.v2.property.conditionaleffect.damage.all.enemies.highest.currentproportionalmana.only_targets_who_meet_condition","Inflige un {POWERFORTARGETSTHATMEETCONDITION} % de daño al enemigo que tenga más maná."
 "specials.v2.property.conditionaleffect.damage.all.enemies.lowest.currenthp","Inflige un {POWERFORTARGETSTHATMEETCONDITION} % de daño al enemigo al que le quede menos VIT. Inflige un {POWERFOROTHERTARGETS} % de daño a los demás enemigos."
 "specials.v2.property.conditionaleffect.damage.all.enemies.lowest.currenthp.hittargetsonly.only_targets_who_meet_condition","Inflige un {POWERFORTARGETSTHATMEETCONDITION} % de daño al enemigo al que le quede menos VIT."
+"specials.v2.property.conditionaleffect.damage.all.enemies.lowest.currenthp.only_targets_who_meet_condition","Inflige un {POWERFORTARGETSTHATMEETCONDITION} % de daño al enemigo al que le quede menos VIT."
 "specials.v2.property.conditionaleffect.damage.single.enemies.highest.currenthp.hittargetsonly.only_targets_who_meet_condition","Inflige un {POWERFORTARGETSTHATMEETCONDITION} % de daño al enemigo al que le quede más VIT."
 "specials.v2.property.conditionaleffect.heal.all.allies.lowest.currenthp","Devuelve un {POWERFORTARGETSTHATMEETCONDITION} % de vitalidad al aliado al que le quede menos VIT. Los demás aliados recuperan un {POWERFOROTHERTARGETS} % de vitalidad."
 "specials.v2.property.conditionaleffect.heal.all.enemies.lowest.currenthp.only_targets_who_meet_condition","Devuelve un {POWERFORTARGETSTHATMEETCONDITION} % de vitalidad al enemigo al que le quede menos VIT."
@@ -604,6 +614,7 @@ Por cada enemigo de hielo alcanzado, la vitalidad potenciada es un {AMPLIFIEDSHA
  El cubo oscuro reduce la vitalidad máxima del objetivo en {REDUCTION}. El efecto es más fuerte contra objetivos con vitalidad potenciada."
 "specials.v2.property.darkcubechainstrike.extra","La vitalidad máxima no puede ser inferior al {MINIMUMMAXHEALTH} % de la vitalidad máxima original.
  Reduce toda la vitalidad potenciada en {REDUCTION} adicional."
+"specials.v2.property.delayturnstoattack.all","El ataque normal de todos los enemigos cercanos se retrasa en {DELAY} turnos."
 "specials.v2.property.delayturnstoattack.neartotarget","El ataque normal del objetivo y los enemigos cercanos se retrasa en {DELAY} turnos."
 "specials.v2.property.delayturnstoattack.neartotarget.oneturn","El ataque normal del objetivo y los enemigos cercanos se retrasa en {DELAY} turno."
 "specials.v2.property.differentextrahitpowerchainstrike","Inflige {DAMAGE} % de daño a otros {MAXHITS} enemigos aleatorios."
@@ -631,12 +642,24 @@ Por cada enemigo de hielo alcanzado, la vitalidad potenciada es un {AMPLIFIEDSHA
 "specials.v2.property.effectonkill.statuseffect.managenerationmodifier.all.allies","Si el ataque derrota al objetivo, todos los aliados reciben un {STATUSEFFECT1MANAREGEN} % de regeneración de maná durante {STATUSEFFECT1TURNS} turnos."
 "specials.v2.property.effectonkill.statuseffect.managenerationmodifier.neartotarget.allies","Si el ataque derrota al objetivo, el héroe y los aliados cercanos reciben un {STATUSEFFECT1MANAREGEN} % de regeneración de maná durante {STATUSEFFECT1TURNS} turnos."
 "specials.v2.property.effectonkill.statuseffect.managenerationmodifier.single.allies","Si el ataque derrota al objetivo, el héroe recibe un {STATUSEFFECT1MANAREGEN} % de regeneración de maná durante {STATUSEFFECT1TURNS} turnos."
+"specials.v2.property.effectonremovedstatuseffectspertarget.minordebuff.all.allies.effectonremoval.addmana.single","Purifica los estados alterados de todos los aliados y aumenta el maná de todos los aliados un {POWER} % por cada estado purificado."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","La cosecha elimina de forma segura hasta {MAXREMOVALCOUNT} bendiciones, acumulaciones positivas o efectos de crecimiento de cada objetivo. Se incluyen las bendiciones que no se pueden descartar y los efectos de danza.
  La vitalidad del héroe se potencia un {HEALTHBOOST} % por cada efecto eliminado. La vitalidad potenciada puede exceder la VIT máxima.
 
  La eliminación segura ignora los efectos secundarios (por ejemplo, el daño con la eliminación) de las bendiciones eliminadas. Pueden activarse efectos externos, como habilidades pasivas y efectos de familia.
  Los efectos de crecimiento se eliminan primero. En el caso de los demás efectos, se elimina primero el último aplicado."
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removewither.safe.extra","Arrancar de raíz elimina de forma segura hasta {MAXREMOVALCOUNT} estados alterados, acumulaciones negativas o efectos de merma de cada objetivo. Se incluyen los estados alterados impurificables y los efectos de danza.
+ La vitalidad del héroe se potencia un {HEALTHBOOST} % por cada efecto eliminado. La vitalidad potenciada puede exceder la VIT máxima.
+ La purificación segura ignora los efectos secundarios (por ejemplo, el daño con la eliminación) de los estados alterados eliminados. Pueden activarse efectos externos, como habilidades pasivas y efectos de familia.
+ Los efectos de merma se eliminan primero. En el caso de los demás efectos, se elimina primero el último aplicado."
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.neartotarget.allies.alldebuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removewither","Arranca de raíz las mermas del héroe y los aliados cercanos."
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.neartotarget.allies.alldebuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removewither.extra","Arrancar de raíz elimina de forma segura hasta {MAXREMOVALCOUNT} mermas, acumulaciones negativas o efectos de merma de cada objetivo. Se incluyen los estados alterados impurificables y los efectos de danza.
+ La vitalidad del héroe se potencia un {HEALTHBOOST} % por cada efecto eliminado. La vitalidad potenciada puede exceder la VIT máxima.
+
+ La eliminación segura ignora los efectos secundarios (por ejemplo, el daño con la eliminación) de las bendiciones de estado eliminadas. Pueden activarse efectos externos, como habilidades pasivas y efectos de familia.
+ Los efectos de merma se eliminan primero. En el caso de los demás efectos, se elimina primero el último aplicado."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.neartotarget.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","Cosecha bendiciones del objetivo y de los enemigos cercanos."
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.single.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","Cosecha bendiciones del objetivo."
 "specials.v2.property.effectontargetaliveafterhit.heal.all.allies.addmana.all.allies.directeffecttargettype.single","Si el ataque no derrota al objetivo, todos los aliados obtienen un {EFFECT1POWER} % de vitalidad y un {EFFECT2POWER} % de maná."
 "specials.v2.property.effectpereatenfamiliar.addmana.all.allies.fixed.minion.follower","Todos los aliados obtienen una cantidad pequeña de maná por cada secuaz destruido."
 "specials.v2.property.effectpereatenfamiliar.addmana.all.allies.permil.minion.bigminion","El héroe obtiene un {MANAPERFAMILIAR} % de maná por cada secuaz destruido."
@@ -655,6 +678,8 @@ Por cada enemigo de hielo alcanzado, la vitalidad potenciada es un {AMPLIFIEDSHA
 "specials.v2.property.effectpereatenfamiliar.heal.single.allies.permil","El héroe recupera un {HEALTHPERFAMILIAR} % de vitalidad por cada secuaz eliminado."
 "specials.v2.property.effectperfamiliar.damage.all.enemies.minion.bigminion.from.enemies.has_base_power.has_max_power","Inflige un {BASEPOWER} % de daño a todos los enemigos.
  Inflige un {POWERPERFAMILIAR} % de daño adicional por cada secuaz o megasecuaz que tengan los enemigos hasta un {MAXPOWER} % de daño en total."
+"specials.v2.property.effectperfamiliar.damage.all.enemies.parasite.bigparasite.from.enemies.has_base_power.has_max_power","Inflige un {BASEPOWER} % de daño a todos los enemigos.
+ Inflige un {POWERPERFAMILIAR} % de daño adicional por cada demonio o megademonio que tengan los enemigos hasta un {MAXPOWER} % de daño en total."
 "specials.v2.property.effectperfamiliar.damage.neartotarget.enemies.minion.bigminion.from.enemies.has_base_power.has_max_power","Inflige un {BASEPOWER} % de daño al objetivo y los enemigos cercanos.
  Inflige un {POWERPERFAMILIAR} % de daño adicional por cada secuaz o megasecuaz que tengan los enemigos hasta un {MAXPOWER} % de daño en total."
 "specials.v2.property.effectperfamiliar.damage.neartotarget.enemies.parasite.bigparasite.from.enemies.has_base_power.has_max_power","Inflige un {BASEPOWER} % de daño al objetivo y los enemigos cercanos.
@@ -663,6 +688,8 @@ Por cada enemigo de hielo alcanzado, la vitalidad potenciada es un {AMPLIFIEDSHA
  Inflige un {POWERPERFAMILIAR} % de daño adicional por cada secuaz o megasecuaz que tengan los enemigos hasta un {MAXPOWER} % de daño en total."
 "specials.v2.property.effectperfamiliar.damage.single.enemies.minion.from.allies.has_base_power.has_max_power","Inflige un {BASEPOWER} % de daño al objetivo.
  Inflige un {POWERPERFAMILIAR} % de daño adicional por cada secuaz que tengan los aliados hasta un {MAXPOWER} % de daño en total."
+"specials.v2.property.effectperfamiliar.damage.single.enemies.parasite.bigparasite.from.enemies.has_base_power.has_max_power","Inflige un {BASEPOWER} % de daño al objetivo.
+ Inflige un {POWERPERFAMILIAR} % de daño adicional por cada demonio o megademonio que tengan los enemigos hasta un {MAXPOWER} % de daño en total."
 "specials.v2.property.effectperfamiliar.heal.all.allies.parasite.from.allies.has_base_power","Todos los aliados recuperan un {BASEPOWER} % de vitalidad.
  Todos los aliados recuperan un {POWERPERFAMILIAR} % de vitalidad por cada demonio que tengan los aliados."
 "specials.v2.property.effectperfamiliar.healthboost.all.allies.minion.from.allies","La vitalidad de todos los aliados aumenta en {HEALTHBOOST} por cada secuaz que tengan."
@@ -804,7 +831,8 @@ Límites de la modificación de las puntuaciones de habilidad
 "specials.v2.property.modifystatuseffectturns.neartotarget.allies.debuffs.decrease","Reduce la duración de los estados alterados activos del héroe y los aliados cercanos {TURNS} turnos."
 "specials.v2.property.modifystatuseffectturns.neartotarget.enemies.buffs.decrease","Reduce la duración de las bendiciones del objetivo y de los enemigos cercanos {TURNS} turnos."
 "specials.v2.property.modifystatuseffectturns.neartotarget.enemies.buffs.decrease.one","Reduce la duración de las bendiciones del objetivo y de los enemigos cercanos {TURNS} turno."
-"specials.v2.property.modifystatuseffectturns.single.enemies.buffs.decrease","Reduce la duración de las bendiciones activas del objetivo {TURNS} turno."
+"specials.v2.property.modifystatuseffectturns.single.enemies.buffs.decrease","Reduce la duración de las bendiciones activas del objetivo {TURNS} turnos."
+"specials.v2.property.modifystatuseffectturns.single.enemies.buffs.decrease.one","Reduce la duración de las bendiciones activas del objetivo {TURNS} turno."
 "specials.v2.property.moonrisedamage.enemies.all.yellow","Ataca a todos los enemigos con Golpe lunar e inflige hasta {MAX} de daño. Inflige un {STRONGATTACKELEMENTDAMAGEMODIFIER} % más de daño si el objetivo es del elemento sagrado. Este ataque no puede fallar."
 "specials.v2.property.moonrisedamage.enemies.all.yellow.always_hit","Ataca a todos los enemigos con Golpe lunar e inflige hasta {MAX} de daño. Inflige un {STRONGATTACKELEMENTDAMAGEMODIFIER} % más de daño si el objetivo es del elemento sagrado. Esta habilidad especial no puede fallar."
 "specials.v2.property.moonrisedamage.enemies.neartotarget.yellow","Ataca al objetivo y los enemigos cercanos con Golpe lunar e inflige hasta {MAX} de daño. Inflige un {STRONGATTACKELEMENTDAMAGEMODIFIER} % más de daño si el objetivo es del elemento sagrado. Este ataque no puede fallar."
@@ -897,11 +925,9 @@ Límites de la modificación de las puntuaciones de habilidad
 "specials.v2.property.removestatuseffects.minorbuff.single.enemies.customremovalcount.multiple","Descarta {REMOVALCOUNT} bendiciones del objetivo."
 "specials.v2.property.removestatuseffects.minordebuff.all.allies","Purifica los estados alterados de todos los aliados."
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.bypassremoveeffects","Purifica de forma segura los estados alterados de todos los aliados."
-"specials.v2.property.removestatuseffects.minordebuff.all.allies.bypassremoveeffects.effectonremoval.addmana.single","Purifica de forma segura los estados alterados de todos los aliados y aumenta el maná de todos los aliados un {POWER} % por cada estado purificado."
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount","Purifica 1 estado alterado de todos los aliados."
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount.bypassremoveeffects","Purifica de forma segura 1 estado alterado de todos los aliados."
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount.multiple","Purifica {REMOVALCOUNT} estados alterados de todos los aliados."
-"specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single","Purifica los estados alterados de todos los aliados y aumenta el maná de todos los aliados un {POWER} % por cada estado purificado."
 "specials.v2.property.removestatuseffects.minordebuff.customremovalcount.extra","Los estados alterados se purifican en el orden en el que se han recibido; los más recientes se purifican primero."
 "specials.v2.property.removestatuseffects.minordebuff.extra","La purificación segura ignora los efectos secundarios (por ejemplo, el daño con la eliminación) del estado alterado eliminado. Pueden activarse efectos externos, como habilidades pasivas y efectos de familia."
 "specials.v2.property.removestatuseffects.minordebuff.neartotarget.allies.bypassremoveeffects","Purifica de forma segura los estados alterados del héroe y de los aliados cercanos."
@@ -910,6 +936,14 @@ Límites de la modificación de las puntuaciones de habilidad
 "specials.v2.property.removestatuseffectsandbasemodifiers.neartotarget.allies.allstatuseffectsandstacks","Lanza Eliminación completa al héroe y los aliados cercanos."
 "specials.v2.property.removestatuseffectsandbasemodifiers.single.allies.allstatuseffectsandstacks","Lanza Eliminación completa al héroe."
 "specials.v2.property.removestatuseffectsandbasemodifiers.single.enemies.allstatuseffectsandstacks","Lanza Eliminación completa al objetivo."
+"specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.sides.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","Inflige un {POWER} % de daño de sablazo espiritual a los enemigos en los márgenes de la formación enemiga. Sablazo espiritual elimina de forma segura las bendiciones antes de infligir daño."
+"specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.single.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","Inflige un {POWER} % de daño de sablazo espiritual al objetivo. Sablazo espiritual elimina de forma segura las bendiciones antes de infligir daño."
+"specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectdebuffs.neartotarget.allies.bypassremoveeffects.effectonremoval.healthboost.has_base_power.power_changes_per_removed_status_from_target","Potencia la vitalidad del héroe y de los aliados cercanos en {FIXEDPOWER} con aura espiritual. Aura espiritual elimina de forma segura los estados alterados antes de potenciar la vitalidad."
+"specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.all.allies.effectonremoval.addmana.power_changes_per_removed_status_from_target","Purifica de forma segura los estados alterados de todos los aliados y aumenta el maná de todos los aliados un {POWERPERREMOVALFROMTARGET} % por cada estado purificado."
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra"," El daño se reduce en un {POWERPERREMOVALFROMTARGET} % por cada bendición eliminada.
+ Las bendiciones indescartables también se eliminan."
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra"," La vitalidad potenciada se reduce en {FIXEDPOWERPERREMOVALFROMTARGET} por cada estado alterado eliminado.
+ Los estados alterados impurificables también se eliminan."
 "specials.v2.property.repeatspecial.blade_wings.random","Tras usarse con éxito, tiene un {REPEATCHANCE} % de probabilidad de volver a usar Alas de cuchilla contra un objetivo aleatorio.
  Puede volver a usar la habilidad hasta {MAXREPEATS} veces, y la probabilidad de volver a usarla se reduce un {REPEATCHANCEDECREASE} % después de cada uso con éxito."
 "specials.v2.property.resetstatuseffectduration.all.allies.allbuffs","Se reinicia la duración de las bendiciones de todos los aliados."
@@ -938,6 +972,7 @@ Límites de la modificación de las puntuaciones de habilidad
 "specials.v2.property.secondarydirecteffect.damage.all.allies","Inflige un {SECONDARYPOWER} % de daño a todos los aliados."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies","Inflige un {SECONDARYPOWER} % de daño a todos los enemigos."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_abigail","Inflige un {SECONDARYPOWER} % de daño y {STATUSEFFECT1INSANITYTOADD} de demencia a todos los enemigos."
+"specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_ambrose","Inflige un {SECONDARYPOWER} % de daño y {STATUSEFFECT1INSANITYTOADD} de demencia a todos los enemigos."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_cultist_villager_female","Inflige un {SECONDARYPOWER} % de daño y {STATUSEFFECT1INSANITYTOADD} de demencia a todos los enemigos."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_gwendoline_changed_appearance","Inflige un {SECONDARYPOWER} % de daño y {STATUSEFFECT1INSANITYTOADD} de demencia a todos los enemigos."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_on_damage_khatrox","Inflige un {SECONDARYPOWER} % de daño y {STATUSEFFECT1INSANITYTOADD} de demencia a todos los enemigos."
@@ -957,6 +992,7 @@ Límites de la modificación de las puntuaciones de habilidad
 "specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_morryster","Inflige un {SECONDARYPOWER} % de daño y {STATUSEFFECT1INSANITYTOADD} de demencia al objetivo y los enemigos cercanos."
 "specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_on_damage_atwood","Inflige un {SECONDARYPOWER} % de daño y {STATUSEFFECT1INSANITYTOADD} de demencia al objetivo y los enemigos cercanos."
 "specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_piper","Inflige un {SECONDARYPOWER} % de daño y {STATUSEFFECT1INSANITYTOADD} de demencia al objetivo y los enemigos cercanos."
+"specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_zenas","Inflige un {SECONDARYPOWER} % de daño y {STATUSEFFECT1INSANITYTOADD} de demencia al objetivo y los enemigos cercanos."
 "specials.v2.property.secondarydirecteffect.damage.neartotargetexceptmaintarget.enemies","Inflige un {SECONDARYPOWER} % de daño a los enemigos cercanos."
 "specials.v2.property.secondarydirecteffect.damage.neartotargetminor.enemies","Inflige un {SECONDARYPOWER} % de daño al objetivo y daño menor a los enemigos cercanos."
 "specials.v2.property.secondarydirecteffect.damage.random.enemies","Inflige un {SECONDARYPOWER} % de daño a un enemigo aleatorio."
@@ -992,6 +1028,9 @@ Límites de la modificación de las puntuaciones de habilidad
 "specials.v2.property.sidedependentspecialproperty.normal_attack_delay_or_nullified_troop_damage","Derriba a los enemigos. Esto tiene un efecto diferente en función del equipo de este personaje:
 
 {SIDEDEPENDENTPROPERTIES}"
+"specials.v2.property.sidedependentspecialproperty.normal_attack_delay_or_nullified_troop_damage_rawn","Derriba a los enemigos. Esto tiene un efecto diferente en función del equipo de este personaje:
+
+{SIDEDEPENDENTPROPERTIES}"
 "specials.v2.property.sidetosidedirecteffect.damage.all.enemies.decrease.random_starting_side","Inflige un {BASEPOWER} % de daño a todos los enemigos empezando por cualquier margen de la formación enemiga. El daño se reduce con cada golpe consecutivo."
 "specials.v2.property.specialsteal.all.allies.deadtargets","Lanza las habilidades especiales de todos los aliados derrotados.
  Esta habilidad especial no se puede copiar."
@@ -1025,6 +1064,7 @@ Límites de la modificación de las puntuaciones de habilidad
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.all.allies","Roba todas las bendiciones descartables del objetivo y las distribuye aleatoriamente entre los aliados."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.neartotarget.allies","Roba todas las bendiciones descartables del objetivo y las distribuye aleatoriamente entre el héroe y los aliados cercanos."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.single.allies.customreallocationcount","Roba la última bendición descartable del objetivo y se la otorga al héroe."
+"specials.v2.property.statuseffectreallocation.from.single.enemies.to.single.allies.customreallocationcount.multiple.random","Roba {CUSTOMREALLOCATIONCOUNT} bendiciones descartables aleatorias del objetivo y se la otorga al héroe."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.single.allies.customreallocationcount.random","Roba una bendición descartable aleatoria del objetivo y se la otorga al héroe."
 "specials.v2.property.statuseffectreallocationwitheffectperallocation.addmana.all.allies","Todos los aliados obtienen una pequeña cantidad de maná por cada estado alterado transferido."
 "specials.v2.property.statuseffectreallocationwitheffectperallocation.addmana.single.allies","El héroe obtiene un {POWERPERALLOCATION} % de maná por cada bendición robada hasta un máximo del {MAXPOWER} % de maná."
@@ -1073,22 +1113,24 @@ Efectos de transformación:
  Los enemigos con secuaces o megasecuaces reciben un {STATUSEFFECT1DEFENSE} % de defensa durante {STATUSEFFECT1TURNS} turnos."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","Inflige un {POWERFORTARGETSTHATMEETCONDITION} % de daño a los enemigos con bendiciones de defensa, secuaces o megasecuaces.
  Los enemigos con bendiciones de defensa, secuaces o megasecuaces reciben un {STATUSEFFECT1DEFENSE} % de defensa durante {STATUSEFFECT1TURNS} turnos."
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","El demonio brote maldito se convierte en demonio retoño pasados {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra"," El demonio brote maldito se convierte en demonio retoño pasados {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
  El demonio retoño se convierte en megademonio flor pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
 
  Demonio brote maldito:
-{EVOLVINGFAMILIAR1ATTACK} % de ataque y {EVOLVINGFAMILIAR1HEALTH} % de vitalidad
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de vitalidad
 
  Demonio retoño:
-{EVOLVINGFAMILIAR2ATTACK} % de ataque y {EVOLVINGFAMILIAR2HEALTH} % de vitalidad
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de vitalidad
 
  Megademonio flor:
-{EVOLVINGFAMILIAR3ATTACK} % de ataque y {EVOLVINGFAMILIAR3HEALTH} % de vitalidad
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de vitalidad
 
  El demonio inflige daño al objetivo en cada turno. Desaparece al absorber curación. La cantidad de curación depende de la vitalidad máxima del objetivo."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","Si el objetivo tiene demonios o megademonios, inflige un {DAMAGE} % de daño a un enemigo diferente aleatorio.
  Invoca un demonio brote maldito para cada enemigo golpeado."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","Si el objetivo tiene demonios o megademonios, inflige un {DAMAGE} % de daño a un enemigo diferente aleatorio.
+ Invoca un demonio brote maldito para cada enemigo golpeado."
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.parasite.bigparasite.evolving_root_rot_fiend","Si el objetivo tiene demonios o megademonios, inflige un {DAMAGE} % de daño a un enemigo diferente aleatorio.
  Invoca un demonio brote maldito para cada enemigo golpeado."
 "specials.v2.property.targethealthdependantextradamage.over_health_boundary.all","Inflige un {DAMAGEMULTIPLIER} % de daño a los enemigos a quienes les quede más de un {HEALTHBOUNDARY} % de vitalidad."
 "specials.v2.property.targethealthdependantextradamage.over_health_boundary.neartotarget","Inflige un {DAMAGEMULTIPLIER} % de daño a los enemigos a quienes les quede más de un {HEALTHBOUNDARY} % de vitalidad."
@@ -1396,11 +1438,26 @@ Balada del dolor
 "specials.v2.statuseffect.major.elementmirror.red.neartotarget.allies","El héroe y los aliados cercanos reflejan todos los estados alterados y un {DEFLECTION} % de daño al atacante y bloquean otros efectos negativos de las habilidades especiales de fuego de los enemigos durante {TURNS} turnos. Este efecto no se puede descartar."
 "specials.v2.statuseffect.major.ethereal.single.allies","El héroe cambia a forma fantasma durante {TURNS} turnos.
  Mientras está en esta forma, el héroe obtiene un {ATTACK} % de ataque."
+"specials.v2.statuseffect.major.fieryfortunedancemultieffect.neartotargetexceptcaster.allies.fiery_fortune_dance","Los aliados cercanos bailan la danza de la fortuna ardiente durante {TURNS} turnos.
+
+Danza de la fortuna ardiente
+{STATUSEFFECTS}
+ Las danzas de la fortuna se acumulan con otros efectos de danza."
+"specials.v2.statuseffect.major.fieryfortunedancemultieffect.neartotargetexceptcaster.allies.fiery_fortune_dance_dragon_kids","Los aliados cercanos bailan la danza de la fortuna ardiente durante {TURNS} turnos.
+
+Danza de la fortuna ardiente
+{STATUSEFFECTS}
+ Las danzas de la fortuna se acumulan con otros efectos de danza."
 "specials.v2.statuseffect.major.fixedhealthrecovery.all.allies","Todos los aliados regeneran {TOTAL} de VIT durante {TURNS} turnos. Este efecto no se puede descartar."
 "specials.v2.statuseffect.major.fixedhealthrecovery.allexceptcaster.allies.while.caster.allies.transcendentalframe","En su forma fantasma, todos los aliados excepto el héroe regeneran {HPPERTURN} de VIT cada turno."
 "specials.v2.statuseffect.major.fixedhealthrecovery.healthboost.all.allies","Todos los aliados regeneran {TOTAL} de vitalidad potenciada durante {TURNS} turnos. La vitalidad potenciada puede exceder la VIT máxima. Este efecto no se puede descartar."
 "specials.v2.statuseffect.major.fixedhealthrecovery.healthboost.allexceptcaster.allies.while.caster.allies.transcendentalframe","En su forma fantasma, todos los aliados excepto el héroe regeneran {HPPERTURN} de vitalidad potenciada cada turno. La vitalidad potenciada puede exceder la VIT máxima."
 "specials.v2.statuseffect.major.fixedhealthrecovery.single.allies.while.caster.allies.transcendentalframe","En su forma fantasma, el héroe regenera {HPPERTURN} de VIT cada turno."
+"specials.v2.statuseffect.major.flowingfortunedancemultieffect.neartotargetexceptcaster.allies.flowing_fortune_dance","Los aliados cercanos bailan la danza de la fortuna flotante durante {TURNS} turnos.
+
+Danza de la fortuna flotante
+{STATUSEFFECTS}
+ Las danzas de la fortuna se acumulan con otros efectos de danza."
 "specials.v2.statuseffect.major.frost.all.enemies","Todos los enemigos reciben {DAMAGE} de daño de escarcha durante {TURNS} turnos. Este efecto no se puede purificar."
 "specials.v2.statuseffect.major.frost.single.enemies.chain_strike","Acumulación (máx.: {MAXSTACK}): Los enemigos golpeados reciben {DAMAGE} de daño de escarcha al final de cada turno. No se puede purificar."
 "specials.v2.statuseffect.major.ghost.single.allies.onremoval.damage.all.enemies.expiration.basic_attack_chao_gai.all.allies.special_damage_power_modifier_chao_gai.all.allies","El héroe cambia a forma fantasma durante {TURNS} turnos.
@@ -1485,6 +1542,7 @@ Danza exaltada ardiente
  Superficie pegajosa: Roba {REALLOCATIONCOUNT} bendición descartable o efecto de crecimiento aleatorio de un enemigo atacante."
 "specials.v2.statuseffect.major.reallocateeffectsonhit.single.allies.effects.minorbuff.random","El héroe obtiene Superficie pegajosa durante {TURNS} turnos. Este efecto no se puede descartar.
  Superficie pegajosa: Roba {REALLOCATIONCOUNT} bendición descartable o efecto de crecimiento aleatorio de un enemigo atacante."
+"specials.v2.statuseffect.major.receiveddamagemodifier.all.allies.decrease","Todos los aliados reducen todo el daño recibido en un {DAMAGEREDUCTION} % durante {TURNS} turnos. Este efecto no se puede descartar."
 "specials.v2.statuseffect.major.receiveddamagemodifier.all.enemies.while.caster.enemies.hasfamiliars","Si el héroe tiene secuaces o megasecuaces, todos los enemigos reciben un {DAMAGEMODIFIER} % de daño aumentado. El efecto se mantiene activo mientras el héroe tenga secuaces o megasecuaces y no se puede descartar."
 "specials.v2.statuseffect.major.resistmanareduction.all.allies.while.caster.allies.boostedhealth","Todos los aliados son inmunes a la reducción de maná siempre que el héroe tenga la vitalidad potenciada. Este efecto no se puede descartar."
 "specials.v2.statuseffect.major.revive.bruiserbros.all.allies","Todos los aliados se vuelven Bruiser Bros durante {TURNS} turnos. Si un aliado cae derrotado mientras está convertido en Bruiser Bro, renacerá como camaleón con estas características:
@@ -1560,7 +1618,7 @@ Danza de los espíritus
  La fuente de alteraciones se activará {MAXACTIVATIONCOUNT} veces. Cada intento de descartarla elimina una activación."
 "specials.v2.statuseffect.major.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.debuff_damage_increase_grendels_mother.reduce_healing_grendels_mother","Generador de efectos de estado: Al comienzo de los siguientes {MAXACTIVATIONCOUNT} turnos, este personaje otorga a un enemigo aleatorio un {STATUSEFFECT1MULTIPLIER} % de daño de los estados alterados y un {STATUSEFFECT2HEALING} % para todas las curaciones recibidas durante {STATUSEFFECT1TURNS} turnos. Este efecto no se puede descartar."
 "specials.v2.statuseffect.major.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.debuff_damage_increase_grendels_mother.reduce_healing_grendels_mother.dispelincreasesactivations","Fuente de alteraciones: Se aplican los siguientes efectos a un enemigo aleatorio al comienzo de cada turno:
- {STATUSEFFECT1MULTIPLIER} % de daño de los estados alterados durante {STATUSEFFECT1TURNS} turnos.
+ {STATUSEFFECT1MULTIPLIER} % de daño de los estados alterados y las acumulaciones negativas durante {STATUSEFFECT1TURNS} turnos.
  {STATUSEFFECT2HEALING} % en todas las curaciones recibidas durante {STATUSEFFECT2TURNS} turnos.
  La fuente de alteraciones se activará {MAXACTIVATIONCOUNT} veces. Cada intento de descartarla elimina una activación."
 "specials.v2.statuseffect.major.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.mage_armor_hygd.heal_increase_hygd","Generador de efectos de estado: Al comienzo de los siguientes {MAXACTIVATIONCOUNT} turnos, este personaje otorga a todos los aliados un {STATUSEFFECT1DEFENSE} % de defensa contra habilidades especiales y un {STATUSEFFECT2HEALING} % más en todas las curaciones recibidas durante {STATUSEFFECT1TURNS} turnos. Este efecto no se puede descartar."
@@ -1615,6 +1673,16 @@ Danza de los espíritus
 {REPLACEDSPECIALDESCRIPTION}"
 "specials.v2.statuseffect.major.ubertitanstackingattackmodifier.single.allies","Acumulación (máx.: {MAXSTACK}): El titán mítico obtiene un {ATTACK} % de ataque durante {TURNS} turnos."
 "specials.v2.statuseffect.major.ubertitanstackingreceiveddamagemodifier.single.allies.decrease","Acumulación (máx.: {MAXSTACK}): El daño recibido se reduce un {DAMAGEREDUCTION} % durante {TURNS} turnos."
+"specials.v2.statuseffect.major.vibrantfortunedancemultieffect.neartotargetexceptcaster.allies.vibrant_fortune_dance","Los aliados cercanos bailan la danza de la fortuna vibrante durante {TURNS} turnos.
+
+Danza de la fortuna vibrante
+{STATUSEFFECTS}
+ Las danzas de la fortuna se acumulan con otros efectos de danza."
+"specials.v2.statuseffect.major.vibrantfortunedancemultieffect.neartotargetexceptcaster.allies.vibrant_fortune_dance_ling_long","Los aliados cercanos bailan la danza de la fortuna vibrante durante {TURNS} turnos.
+
+Danza de la fortuna vibrante
+{STATUSEFFECTS}
+ Las danzas de la fortuna se acumulan con otros efectos de danza."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","Todos los enemigos obtienen un {ACCURACY} % de precisión durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.accuracymodifier.allminor.enemies","El objetivo obtiene un {ACCURACY} % de precisión y los otros enemigos obtienen un {MINORACCURACY} % de precisión durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.accuracymodifier.blue.enemies","Todos los enemigos de hielo obtienen un {ACCURACY} % de precisión durante {TURNS} turnos."
@@ -1633,9 +1701,11 @@ Danza de los espíritus
 "specials.v2.statuseffect.minor.addinsanitystatuseffectskill.single.allies.on.allyspecial.damage.neartotarget.enemies.add_insanity_dolores","Durante los siguientes {TURNS} turnos, este personaje inflige un {POWER1} % de daño a un objetivo aleatorio y los enemigos cercanos, y también {STATUSEFFECT1INSANITYTOADD} de demencia cada vez que otro aliado lance su habilidad especial."
 "specials.v2.statuseffect.minor.addinsanitystatuseffectskill.single.allies.on.allyspecial.damage.single.enemies","Durante los siguientes {TURNS} turnos, este personaje inflige un {POWER1} % de daño a un enemigo aleatorio, y también {STATUSEFFECT1INSANITYTOADD} de demencia cada vez que otro aliado lance su habilidad especial."
 "specials.v2.statuseffect.minor.additivebleeding.neartotarget.enemies.noturns","El objetivo y los enemigos cercanos reciben {BASICDAMAGE} de daño de sangrado disparado duradero por turno."
+"specials.v2.statuseffect.minor.addstatuseffectonremoval.all.enemies.onremoval.expiration.paralysis_ivete.turns.one","Tras 1 turno, todos los enemigos cercanos quedan paralizados durante 2 turnos."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_charmione","Tras {TURNS} turnos, el objetivo y los enemigos cercanos quedan paralizados durante {STATUSEFFECT1TURNS} turnos. Los enemigos paralizados no pueden atacar ni obtener maná, y reciben un {STATUSEFFECT1DAMAGEMODIFIER} % más de daño."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_charmione.turns.one","Tras {TURNS} turno, el objetivo y los enemigos cercanos quedan paralizados durante {STATUSEFFECT1TURNS} turnos."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_foxley.single.allies.turns.one","Tras {TURNS} turnos, el objetivo y los enemigos cercanos quedan paralizados durante {STATUSEFFECT1TURNS} turno."
+"specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_ivete.turns.one","Tras 1 turno, el objetivo y los enemigos cercanos quedan paralizados durante 2 turnos."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_knightus","Tras {TURNS} turnos, el objetivo y los enemigos cercanos quedan paralizados durante {STATUSEFFECT1TURNS} turnos. Los enemigos paralizados no pueden atacar ni obtener maná, y reciben un {STATUSEFFECT1DAMAGEMODIFIER} % más de daño."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_knightus.turns.one","Tras {TURNS} turno, el objetivo y los enemigos cercanos quedan paralizados durante {STATUSEFFECT1TURNS} turnos. Los enemigos paralizados no pueden atacar ni obtener maná, y reciben un {STATUSEFFECT1DAMAGEMODIFIER} % más de daño."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_merith.turns.one","Tras 1 turno, el objetivo y los enemigos cercanos quedan paralizados durante 2 turnos."
@@ -1648,12 +1718,14 @@ Danza de los espíritus
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis.single.allies.turns.one","Tras {TURNS} turno, el objetivo queda paralizado durante {STATUSEFFECT1TURNS} turnos."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_fruitio.single.allies.turns.one","Tras {TURNS} turno, el objetivo queda paralizado durante {STATUSEFFECT1TURNS} turnos."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_knightus.turns.one","Tras {TURNS} turno, el objetivo queda paralizado durante {STATUSEFFECT1TURNS} turnos."
+"specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_marzul.turns.one","Tras 1 turno, el objetivo queda paralizado durante 2 turnos."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_wilcox.turns.one","Tras {TURNS} turno, el objetivo queda paralizado durante {STATUSEFFECT1TURNS} turnos."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.paralysis.single.allies.turns.one","Tras {TURNS} turno, el objetivo queda paralizado durante {STATUSEFFECT1TURNS} turnos."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.paralysis_fruitio.turns.one","Tras {TURNS} turno, el objetivo queda paralizado durante {STATUSEFFECT1TURNS} turnos."
 "specials.v2.statuseffect.minor.amplifieddamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.onremoval.damage.all.enemies.dispel.removal.reallocation.death.replacesamestatuseffect.override.enterabsentform","El héroe inflige {REMOVALEFFECT1FIXEDPOWER} de daño a todos los enemigos pasados {TURNS} turnos. Si el efecto se elimina o se reemplaza antes de que termine, en su lugar inflige {REMOVALEFFECT2FIXEDPOWER} de daño."
 "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect.override.enterabsentform","Todos los aliados recuperan {REMOVALEFFECT1FIXEDPOWER} de vitalidad pasados {TURNS} turnos. Si el efecto se elimina o se reemplaza antes de que termine, en su lugar recuperan {REMOVALEFFECT2FIXEDPOWER} de vitalidad."
 "specials.v2.statuseffect.minor.amplifiedhealonremoval.neartotarget.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect.override.enterabsentform","El héroe y los aliados cercanos recuperan {REMOVALEFFECT1FIXEDPOWER} de vitalidad pasados {TURNS} turnos. Si el efecto se elimina o se reemplaza antes de que termine, en su lugar recuperan {REMOVALEFFECT2FIXEDPOWER} de vitalidad."
+"specials.v2.statuseffect.minor.amplifiedhealonremoval.single.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect","El héroe recupera {REMOVALEFFECT1FIXEDPOWER} de vitalidad pasados {TURNS} turnos. Si el efecto se elimina o se reemplaza antes de que termine, en su lugar recuperan {REMOVALEFFECT2FIXEDPOWER} de vitalidad."
 "specials.v2.statuseffect.minor.amplifiedmanaonremoval.all.allies.onremoval.addmana.single.allies.expiration.onremoval.addmana.single.allies.dispel.removal.reallocation.override.enterabsentform","Todos los aliados obtienen un {REMOVALEFFECT1POWER} % de maná pasados {TURNS} turnos. Si el efecto se elimina antes de que termine, en su lugar obtienen un {REMOVALEFFECT2POWER} % de maná."
 "specials.v2.statuseffect.minor.assistskillaccuracymodifier.all.enemies","Todos los enemigos obtienen un {ACCURACY} % de precisión durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.assistskillattackmodifier.all.allies","Todos los aliados reciben un {ATTACK} % de ataque durante {TURNS} turnos."
@@ -1677,7 +1749,11 @@ Danza de los espíritus
 "specials.v2.statuseffect.minor.astralorbaddstatuseffectsonremoval.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.onremoval.dispel.bouncing_damage_over_time_anatemah.single.allies.chain_strike","Los enemigos golpeados reciben un orbe astral.
  Con un orbe astral, no se pueden obtener nuevas bendiciones de estado.
  Los orbes astrales explotan pasados {TURNS} turnos e infligen {DAMAGE} de daño a su portador.
- Si el orbe astral se purifica, su portador recibe resonancia durante {STATUSEFFECT1TURNS} turnos. La resonancia inflige {STATUSEFFECT1DAMAGEPERTURN} de daño en cada turno. La resonancia inflige {DAMAGEPERBOUNCE} de daño adicional que reverbera a {MAXBOUNCES} enemigos aleatorios."
+ Si el orbe astral se purifica, su portador recibe resonancia durante {STATUSEFFECT1TURNS} turnos. Cada turno, la resonancia inflige {STATUSEFFECT1DAMAGEPERTURN} de daño al enemigo afectado y {RESONANCEDAMAGE} de daño adicional a los enemigos cercanos."
+"specials.v2.statuseffect.minor.astralorbaddstatuseffectsonremoval.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.onremoval.dispel.resonance_damage_over_time_anatemah.single.allies.chain_strike","Los enemigos golpeados reciben un orbe astral.
+ Con un orbe astral, no se pueden obtener nuevas bendiciones de estado.
+ Los orbes astrales explotan pasados {TURNS} turnos e infligen {DAMAGE} de daño a su portador.
+ Si el orbe astral se purifica, su portador recibe resonancia durante {STATUSEFFECT1TURNS} turnos. Cada turno, la resonancia inflige {STATUSEFFECT1DAMAGEPERTURN} de daño al enemigo afectado y {RESONANCEDAMAGE} de daño adicional a los enemigos cercanos."
 "specials.v2.statuseffect.minor.attackmodifier.all.allies","Todos los aliados reciben un {ATTACK} % de ataque durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.attackmodifier.all.allies.noturns","Todos los aliados reciben un {ATTACK} % de ataque duradero."
 "specials.v2.statuseffect.minor.attackmodifier.all.enemies","Todos los enemigos reciben un {ATTACK} % de ataque durante {TURNS} turnos."
@@ -1746,6 +1822,7 @@ Danza de los espíritus
 "specials.v2.statuseffect.minor.bleeding.single.enemies.chain_strike","Todos los objetivos golpeados reciben {DAMAGE} de daño de sangrado durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.bleeding.single.enemies.contagious","El objetivo recibe {DAMAGE} de daño de sangrado durante {TURNS} turnos. El efecto se propaga a los enemigos cercanos."
 "specials.v2.statuseffect.minor.bleeding.single.enemies.noturns","El objetivo recibe {DAMAGE} de daño de sangrado duradero por turno."
+"specials.v2.statuseffect.minor.bleeding.smallfamiliarowners.enemies","Todos los enemigos que tengan un secuaz o un demonio reciben {DAMAGE} de daño de sangrado durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.bleedmark.all.enemies.stackingreceiveddamagemodifier.bleed","Todos los enemigos reciben una marca de sangre durante {TURNS} turnos. Cuando un objetivo marcado recibe daño de sangrado, obtiene una acumulación (máx.: {STATUSEFFECT1MAXSTACK}). Cada acumulación aumenta todo el daño que recibe el objetivo un {STATUSEFFECT1DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.bleedmark.neartotarget.enemies.stackingreceiveddamagemodifier.bleed","El objetivo y los enemigos cercanos reciben una marca de sangre durante {TURNS} turnos. Cuando un objetivo marcado recibe daño de sangrado, obtiene una acumulación (máx.: {STATUSEFFECT1MAXSTACK}). Cada acumulación aumenta todo el daño que recibe el objetivo un {STATUSEFFECT1DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.bleedmark.single.enemies.stackingreceiveddamagemodifier.bleed","El objetivo recibe una marca de sangre durante {TURNS} turnos. Cuando un objetivo marcado recibe daño de sangrado, obtiene una acumulación (máx.: {STATUSEFFECT1MAXSTACK}). Cada acumulación aumenta todo el daño que recibe el objetivo un {STATUSEFFECT1DAMAGEMODIFIER} %."
@@ -1761,6 +1838,7 @@ Danza de los espíritus
 "specials.v2.statuseffect.minor.blockstatuseffectcasting.single.enemies.chain_strike.only_main_target","El objetivo no puede lanzar ningún efecto de estado nuevo sobre enemigos o aliados durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.blocktalentskillactivation.all.enemies","Bloquea la activación de la habilidad de talento de todos los enemigos durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.blocktalentskillactivation.single.enemies","Bloquea la activación de la habilidad de talento del objetivo durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.blocktalentskillactivation.single.enemies.chain_strike.chain_strike_cassilda.on_additional_hit","Ningún objetivo golpeado puede activar sus habilidades de talento durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.blocktauntcasting.all.enemies","Ningún enemigo puede lanzar ningún efecto de estado de burla nuevo durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.blocktauntcasting.neartotarget.enemies","Ni el objetivo ni los enemigos cercanos pueden lanzar ningún efecto de estado de burla nuevo durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.bloodpoisoning.all.enemies","Todos los enemigos reciben {BASICDAMAGE} de daño de sangrado disparado durante {TURNS} turnos."
@@ -1801,6 +1879,7 @@ Danza de los espíritus
 "specials.v2.statuseffect.minor.buffimmunity.single.enemies.damage","El objetivo es inmune a los nuevos efectos de estado durante {TURNS} turnos y, en su lugar, recibe {POWER} de daño por cada efecto de estado que se le intente aplicar."
 "specials.v2.statuseffect.minor.buffimmunity.single.enemies.damage.chain_strike","Todos los objetivos golpeados son inmunes a los nuevos efectos de estado durante {TURNS} turnos y, en su lugar, reciben {POWER} de daño por cada efecto de estado que se les intente aplicar."
 "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration","Inflige {DAMAGE}-{MAXDAMAGE} de daño a todos los enemigos pasados {TURNS} turnos en función del daño que el héroe recibió mientras estaba activo este efecto."
+"specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death","Inflige {DAMAGE}-{MAXDAMAGE} de daño a todos los enemigos pasados {TURNS} turnos o, si el héroe cae derrotado, en función del daño que el héroe recibió mientras estaba activo este efecto."
 "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.powermultiplier","Inflige un {POWER} % - {MAXPOWER} % de daño a todos los enemigos pasados {TURNS} turnos en función del daño que el héroe recibió mientras estaba activo este efecto."
 "specials.v2.statuseffect.minor.burn.all.allies","Todos los aliados reciben {DAMAGE} de daño de quemadura durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.burn.all.enemies","Todos los enemigos reciben {DAMAGE} de daño de quemadura durante {TURNS} turnos."
@@ -1881,16 +1960,16 @@ Danza de los espíritus
 "specials.v2.statuseffect.minor.damageonremoval.allexceptcaster.allies.onremoval.damage.all.enemies.death","Si cualquier aliado, salvo el héroe, cae derrotado en {TURNS} turnos, todos los enemigos reciben {DAMAGE} de daño."
 "specials.v2.statuseffect.minor.damageonremoval.single.allies.onremoval.damage.random.enemies.death","Si el héroe cae derrotado en {TURNS} turnos, un enemigo aleatorio recibe {DAMAGE} de daño."
 "specials.v2.statuseffect.minor.damageonremoval.single.enemies.onremoval.damage.all.allies.death","Si el objetivo cae derrotado en {TURNS} turnos, todos los enemigos reciben {DAMAGE} de daño."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.all.allies","Todos los aliados obtienen una reducción del {MULTIPLIER} % del daño que reciben de estados alterados durante {TURNS} turnos."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.all.enemies","Todos los enemigos reciben un {MULTIPLIER} % más de daño de los estados alterados durante {TURNS} turnos."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.bleed.all.enemies","Todos los enemigos reciben un {MULTIPLIER} % más de daño del estado alterado de sangrado durante {TURNS} turnos."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.bleed.single.enemies.chain_strike","Todos los objetivos golpeados reciben un {MULTIPLIER} % más de daño de estados alterados de sangrado durante {TURNS} turnos."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.burn.poison.all.enemies","Todos los enemigos reciben un {MULTIPLIER} % más de daño de los estados alterados de quemadura y veneno durante {TURNS} turnos."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.neartotarget.enemies","El objetivo y los enemigos cercanos reciben un {MULTIPLIER} % más de daño de los estados alterados durante {TURNS} turnos."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.neartotarget.enemies.noturns","El objetivo y los enemigos cercanos reciben un {MULTIPLIER} % más de daño duradero de los estados alterados."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.resist_completely.all.allies","Todos los aliados son inmunes al daño de estados alterados durante {TURNS} turnos."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.resist_completely.neartotarget.allies","El héroe y los aliados cercanos son inmunes al daño de estados alterados durante {TURNS} turnos."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.single.enemies","El objetivo recibe un {MULTIPLIER} % más de daño de los estados alterados durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.all.allies","Todos los aliados obtienen una reducción del {MULTIPLIER} % del daño que reciben de estados alterados y las acumulaciones negativas durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.all.enemies","Todos los enemigos reciben un {MULTIPLIER} % más de daño de los estados alterados y las acumulaciones negativas durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.bleed.all.enemies","Todos los enemigos reciben un {MULTIPLIER} % más de daño de los estados alterados de sangrado y las acumulaciones negativas durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.bleed.single.enemies.chain_strike","Todos los objetivos golpeados reciben un {MULTIPLIER} % más de daño de los estados alterados de sangrado y las acumulaciones negativas durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.burn.poison.all.enemies","Todos los enemigos reciben un {MULTIPLIER} % más de daño de los estados alterados de quemadura y veneno, así como de las acumulaciones negativas, durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.neartotarget.enemies","El objetivo y los enemigos cercanos reciben un {MULTIPLIER} % más de daño de los estados alterados y las acumulaciones negativas durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.neartotarget.enemies.noturns","El objetivo y los enemigos cercanos reciben un {MULTIPLIER} % más de daño duradero de los estados alterados y las acumulaciones negativas."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.resist_completely.all.allies","Todos los aliados son inmunes al daño de los estados alterados y las acumulaciones negativas durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.resist_completely.neartotarget.allies","El héroe y los aliados cercanos son inmunes al daño de los estados alterados y las acumulaciones negativas durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.single.enemies","El objetivo recibe un {MULTIPLIER} % más de daño de los estados alterados y las acumulaciones negativas durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.debuffshield.all.allies","Los aliados son inmunes a nuevos estados alterados durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.debuffshield.all.allies.heal","Todos los aliados son inmunes a los nuevos estados alterados durante {TURNS} turnos y, en su lugar, recuperan {POWER} de vitalidad por cada estado alterado que se les intente aplicar."
 "specials.v2.statuseffect.minor.debuffshield.neartotarget.allies","El héroe y los aliados cercanos son inmunes a los nuevos estados alterados durante{TURNS} turnos."
@@ -2017,7 +2096,9 @@ Danza de los espíritus
  Cada vez que cambie el elemento, los enemigos reciben {DAMAGEPERTURN} de daño si es sagrado."
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","El héroe recibe un {ATTACK} % de ataque y un aumento adicional del {CHANGE} % cada vez que lo golpeen a él o a cualquiera de sus aliados durante {TURNS} turnos hasta un {MAXMODIFIER} % de ataque. Cuando el efecto termina, todos los enemigos reciben {DAMAGE} de daño. Cada golpe al héroe o a sus aliados durante el efecto aumenta el daño en {ADDITIONALDAMAGEPERHIT} hasta un máximo de {MAXDAMAGE} de daño."
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","Los ataques normales y habilidades especiales de todos los aliados infligen un {DAMAGEMULTIPLIER} % de daño a los objetivos con vitalidad potenciada durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","Todos los enemigos sucumben al miedo durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.fearstatuseffectskill.single.enemies.on.allyspecial.damage.random.allies","El objetivo sucumbe al miedo durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.fearstatuseffectskill.single.enemies.on.allyspecial.damage.random.allies.chain_strike.only_main_target","El objetivo sucumbe al miedo durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.fixedattackmodifier.all.allies","Todos los aliados reciben {ATTACK} de ataque durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.fixedattackmodifier.all.enemies","Todos los enemigos reciben {ATTACK} de ataque durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.fixedattackmodifier.all.enemies.removeonhealfromspecialreceived","Todos los enemigos reciben {ATTACK} de ataque hasta que los cure una habilidad especial."
@@ -2076,6 +2157,7 @@ Danza de los espíritus
 "specials.v2.statuseffect.minor.frost.neartotarget.enemies.absorb_boostedhealth.to.all","El objetivo y los enemigos cercanos reciben {DAMAGE} de daño de escarcha durante {TURNS} turnos. El héroe y todos los aliados absorben un {ABSORBHEALING} % del daño de escarcha infligido como vitalidad potenciada."
 "specials.v2.statuseffect.minor.frost.neartotarget.enemies.removeonhealfromspecialreceived","El objetivo y los enemigos cercanos reciben {DAMAGEPERTURN} de daño de escarcha cada turno hasta que los cure una habilidad especial."
 "specials.v2.statuseffect.minor.frost.neartotargetexceptmaintarget.enemies.if_main_target_is.red","Si el objetivo es del elemento fuego, los enemigos cercanos reciben {DAMAGE} de daño de escarcha durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.frost.sides.enemies","Los enemigos en los márgenes de la formación enemiga reciben {DAMAGE} de daño de escarcha en {TURNS} turnos."
 "specials.v2.statuseffect.minor.frost.single.enemies","El objetivo recibe {DAMAGE} de daño de escarcha durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.frost.single.enemies.chain_strike","Todos los objetivos golpeados reciben {DAMAGE} de daño de escarcha durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","El objetivo recibe {DAMAGE} de daño de escarcha durante {TURNS} turnos. El efecto se propaga a los enemigos cercanos."
@@ -2094,6 +2176,9 @@ Danza de los espíritus
 "specials.v2.statuseffect.minor.greendefensemodifier.neartotarget.allies","El héroe y los aliados cercanos reciben un {DEFENSE} % de defensa contra naturaleza durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.greendefensemodifier.neartotarget.enemies","El objetivo y los enemigos cercanos obtienen un {DEFENSE} % de defensa contra naturaleza durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.greendefensemodifier.single.enemies","El objetivo obtiene un {DEFENSE} % de defensa contra naturaleza durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.greentrap.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.chain_strike.amplified.against_blue.against_titan.modifies_power","Los enemigos golpeados reciben una trampa de pinchos.
+ La trampa de pinchos otorga al objetivo un {DEFENSE} % de defensa contra naturaleza. Contra titanes de hielo, la trampa de pinchos otorga a su objetivo un {AMPLIFIEDDEFENSE} % de defensa contra naturaleza.
+ Las trampas de pinchos explotan pasados {TURNS} turnos e infligen {DAMAGE} de daño a su portador."
 "specials.v2.statuseffect.minor.healingdebuffimmunity.all.allies.removeresistedeffectsoncreation","Todos los aliados son inmunes a los nuevos estados alterados que afectan a la curación durante {TURNS} turnos. Elimina los estados alterados que afectan a la curación de todos los aliados."
 "specials.v2.statuseffect.minor.healmultiplier.all.allies","Todos los aliados obtienen un aumento de un {HEALING} % en cualquier curación recibida durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.healmultiplier.all.allies.decrease","Todos los aliados obtienen una reducción de un {HEALING} % en cualquier curación recibida durante {TURNS} turnos."
@@ -2140,7 +2225,8 @@ Danza de los espíritus
 "specials.v2.statuseffect.minor.increasingpoison.single.enemies","El objetivo recibe {DAMAGE} de daño de veneno durante {TURNS} turnos, que empieza bajo y aumenta con cada turno."
 "specials.v2.statuseffect.minor.increasingproportionalmanarecovery.neartotarget.allies","El héroe y los aliados cercanos reciben maná cada turno durante {TURNS} turnos. El maná recibido aumenta en cada turno, hasta alcanzar un {MAXMANAPERTURN} % en el último turno."
 "specials.v2.statuseffect.minor.increasingproportionalmanarecovery.neartotargetexceptcaster.allies","Los aliados cercanos reciben maná cada turno durante {TURNS} turnos. El maná recibido aumenta en cada turno, hasta alcanzar un {MAXMANAPERTURN} % en el último turno."
-"specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.single.allies.removeonspecialcast","El héroe recibe un {POWER} % de poder para la siguiente habilidad especial que use. El poder adicional aumenta un {INCREASEPERTURN} % en cada turno, hasta alcanzar un {MAXPOWERADDITION} % en total."
+"specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.allexceptcaster.allies.removeonspecialcast","Todos los aliados, salvo el héroe, recibe un {POWER} % de poder de ataque para la siguiente habilidad especial que use. El poder de ataque adicional aumenta un {INCREASEPERTURN} % en cada turno, hasta alcanzar un {MAXPOWERADDITION} % en total."
+"specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.single.allies.removeonspecialcast","El héroe recibe un {POWER} % de poder de ataque para la siguiente habilidad especial que use. El poder de ataque adicional aumenta un {INCREASEPERTURN} % en cada turno, hasta alcanzar un {MAXPOWERADDITION} % en total."
 "specials.v2.statuseffect.minor.insanityonhit.single.allies","Durante los siguientes {TURNS} turnos, el héroe inflige {STATUSEFFECT1INSANITYTOADD} de demencia a todos los enemigos cada vez que recibe un golpe. El efecto se activa cuando el enemigo inflige daño con habilidades especiales. Las casillas y los ataques normales están limitados a una vez por turno."
 "specials.v2.statuseffect.minor.invisible.single.allies.all.enemies.expiration.while.caster.allies.hastargetableallies","Si el héroe tiene aliados que se puedan elegir como objetivo, no puede elegirse como objetivo durante {TURNS} turnos. Inflige {FIXEDPOWER} de daño a todos los enemigos después del último turno o cuando el héroe se convierte en el último personaje que se pueda elegir como objetivo."
 "specials.v2.statuseffect.minor.lifesteal.all.allies","Todos los aliados se curan un {LIFESTEAL} % del daño normal infligido durante {TURNS} turnos."
@@ -2152,6 +2238,7 @@ Danza de los espíritus
 "specials.v2.statuseffect.minor.lightning.single.enemies","El objetivo recibe {MINDAMAGEPERTURN}-{MAXDAMAGEPERTURN} de daño de rayo cada turno durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.lightning.single.enemies.onremoval.damage.all.allies.deathbythiseffect","El objetivo recibe {MINDAMAGEPERTURN}-{MAXDAMAGEPERTURN} de daño de rayo cada turno durante {TURNS} turnos. Si el objetivo cae derrotado debido al daño de rayo, todos los enemigos reciben {FIXEDPOWER} de daño."
 "specials.v2.statuseffect.minor.manacorruption.all.enemies.single.allies","Todos los enemigos reciben corrupción de maná durante {TURNS} turnos. Cada vez que un enemigo afectado recibe maná de una fuente adicional, sufre {DAMAGE} de daño."
+"specials.v2.statuseffect.minor.manacorruption.neartotarget.enemies.single.allies","El objetivo y los enemigos cercanos reciben corrupción de maná durante {TURNS} turnos. Cada vez que un enemigo afectado recibe maná de una fuente adicional, sufre {DAMAGE} de daño."
 "specials.v2.statuseffect.minor.manafreeze.all.enemies","Todos los enemigos no son capaces de obtener maná durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.manafreeze.neartotarget.enemies","El objetivo y los enemigos cercanos no pueden obtener maná durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.manafreeze.single.allies","El héroe no puede obtener maná durante {TURNS} turnos."
@@ -2221,13 +2308,24 @@ Danza de los espíritus
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.yellow","El héroe obtiene Protección lunar, que reduce el daño de las habilidades especiales recibido en hasta -{MAX}, durante {TURNS} turnos. La reducción de daño aumenta en función de la defensa de quien se defiende y el poder de ataque de quien ataca. Reduce el daño un {ADDITIONALDAMAGEMODIFIER} % más cuando el atacante es del elemento sagrado."
 "specials.v2.statuseffect.minor.mysterypotion.all.enemies.onremoval.damage.single.allies.expiration.mana_freeze","Todos los enemigos reciben una poción misteriosa. Tras {TURNS} turnos, la poción misteriosa explota e inflige {DAMAGE} de daño al objetivo. Tras la explosión, el objetivo no podrá obtener maná durante {STATUSEFFECT1TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattackmodifier.all.allies","Todos los aliados reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. Este efecto puede estar activo al mismo tiempo que otros efectos que alteren el ataque en general. Mientras este efecto esté activo, los ataques normales pueden tener una potencia aumentada máxima del {MAXATTACK} %."
+"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","Todos los aliados de hielo reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. Este efecto puede estar activo al mismo tiempo que otros efectos que alteren el ataque en general. Mientras este efecto esté activo, los ataques normales pueden tener una potencia aumentada máxima del {MAXATTACK} %."
+"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","Todos los aliados de naturaleza reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. Este efecto puede estar activo al mismo tiempo que otros efectos que alteren el ataque en general. Mientras este efecto esté activo, los ataques normales pueden tener una potencia aumentada máxima del {MAXATTACK} %."
 "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","El héroe y los aliados cercanos reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. Este efecto puede estar activo al mismo tiempo que otros efectos que alteren el ataque en general. Mientras este efecto esté activo, los ataques normales pueden tener una potencia aumentada máxima del {MAXATTACK} %."
+"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","Todos los aliados de oscuridad reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. Este efecto puede estar activo al mismo tiempo que otros efectos que alteren el ataque en general. Mientras este efecto esté activo, los ataques normales pueden tener una potencia aumentada máxima del {MAXATTACK} %."
+"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","Todos los aliados de fuego reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. Este efecto puede estar activo al mismo tiempo que otros efectos que alteren el ataque en general. Mientras este efecto esté activo, los ataques normales pueden tener una potencia aumentada máxima del {MAXATTACK} %."
 "specials.v2.statuseffect.minor.normalattackmodifier.single.allies","El héroe obtiene un {ATTACK} % de ataque normal durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","Todos los aliados sagrados reciben un {ATTACK} % de ataque normal durante {TURNS} turnos. Este efecto puede estar activo al mismo tiempo que otros efectos que alteren el ataque en general. Mientras este efecto esté activo, los ataques normales pueden tener una potencia aumentada máxima del {MAXATTACK} %."
+"specials.v2.statuseffect.minor.normalattacknullifier.all.enemies","Ningún enemigo contribuye al daño de las tropas durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattacknullifier.neartotarget.enemies","Ni el objetivo ni los enemigos cercanos contribuyen al daño de las tropas durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.normalattacknullifier.sides.enemies","Los enemigos en los márgenes de la formación enemiga no contribuyen al daño de las tropas durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.normalattacknullifier.single.enemies","El objetivo no contribuye al daño de las tropas durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.normalattacknullifier.single.enemies.chain_strike","Ningún enemigo golpeado contribuye al daño de las tropas durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattackreceiveddamagemodifier.neartotargetminor.enemies","El objetivo recibe un {DAMAGEMODIFIER} % más de daño de los ataques normales y los enemigos cercanos reciben un {MINORDAMAGEMODIFIER} % más de daño de los ataques normales durante 3 turnos."
 "specials.v2.statuseffect.minor.painempathy.sides.enemies","Durante {TURNS} turnos, los enemigos en los márgenes de la formación enemiga reciben un {DAMAGEMULTIPLIER} % del daño infligido a sus aliados."
 "specials.v2.statuseffect.minor.painempathy.single.enemies","Durante {TURNS} turnos, el objetivo recibe un {DAMAGEMULTIPLIER} % del daño infligido a sus aliados."
 "specials.v2.statuseffect.minor.poison.all.enemies","Todos los enemigos reciben {DAMAGE} de daño de veneno durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.poison.all.enemies.absorb_boostedhealth.to.all","Todos los enemigos reciben {DAMAGE} de daño de veneno durante {TURNS} turnos. El héroe y todos los aliados absorben un {ABSORBHEALING} % del daño de veneno infligido como vitalidad potenciada."
+"specials.v2.statuseffect.minor.poison.all.enemies.absorb_boostedhealth.to.single","Todos los enemigos reciben {DAMAGE} de daño de veneno durante {TURNS} turnos. El héroe absorbe un {ABSORBHEALING} % del daño de veneno infligido como vitalidad potenciada."
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_healing.to.all","Todos los enemigos reciben {DAMAGE} de daño de veneno durante {TURNS} turnos. El héroe y todos los aliados absorben un {ABSORBHEALING} % del daño de veneno infligido como vitalidad."
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_healing.to.single","Todos los enemigos reciben {DAMAGE} de daño de veneno durante {TURNS} turnos. El héroe absorbe un {ABSORBHEALING} % del daño de veneno infligido como vitalidad."
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_mana.to.single","Todos los enemigos reciben {DAMAGE} de daño de veneno durante {TURNS} turnos. El héroe recibe una pequeña cantidad de maná cada vez que se aplica daño de veneno."
@@ -2239,6 +2337,7 @@ Danza de los espíritus
 "specials.v2.statuseffect.minor.poison.neartotarget.enemies.noturns","El objetivo y los enemigos cercanos reciben {DAMAGE} de daño de veneno duradero por turno."
 "specials.v2.statuseffect.minor.poison.sides.enemies","Los enemigos en los márgenes de la formación enemiga reciben {DAMAGE} de daño de veneno en {TURNS} turnos."
 "specials.v2.statuseffect.minor.poison.single.enemies","El objetivo recibe {DAMAGE} de daño de veneno durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.poison.single.enemies.absorb_boostedhealth.to.single","El objetivo recibe {DAMAGE} de daño de veneno durante {TURNS} turnos. El héroe absorbe un {ABSORBHEALING} % del daño de veneno infligido como vitalidad potenciada."
 "specials.v2.statuseffect.minor.poison.single.enemies.absorb_healing.to.single","El objetivo recibe {DAMAGE} de daño de veneno durante {TURNS} turnos. El héroe absorbe un {ABSORBHEALING} % del daño de veneno infligido como vitalidad."
 "specials.v2.statuseffect.minor.poison.single.enemies.absorb_mana.to.single","El objetivo recibe {DAMAGE} de daño de veneno durante {TURNS} turnos. El héroe recibe una pequeña cantidad de maná cada vez que se aplica daño de veneno."
 "specials.v2.statuseffect.minor.poison.single.enemies.contagious","El objetivo recibe {DAMAGE} de daño de veneno durante {TURNS} turnos. El efecto se propaga a los enemigos cercanos."
@@ -2306,6 +2405,9 @@ Danza de los espíritus
 "specials.v2.statuseffect.minor.reddefensemodifier.neartotarget.enemies","El objetivo y los enemigos cercanos reciben un {DEFENSE} % de defensa contra fuego durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.reddefensemodifier.single.allies","El héroe recibe un {DEFENSE} % de defensa contra fuego durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.reddefensemodifier.single.enemies","El objetivo obtiene un {DEFENSE} % de defensa contra fuego durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.redtrap.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.chain_strike.amplified.against_green.against_titan.modifies_power","Los enemigos golpeados reciben una trampa de pinchos.
+ La trampa de pinchos otorga al objetivo un {DEFENSE} % de defensa contra fuego. Contra titanes de naturaleza, la trampa de pinchos otorga a su objetivo un {AMPLIFIEDDEFENSE} % de defensa contra fuego.
+ Las trampas de pinchos explotan pasados {TURNS} turnos e infligen {DAMAGE} de daño a su portador."
 "specials.v2.statuseffect.minor.reducefamiliarhealth.all.enemies.minion.bigminion","Todos los enemigos reciben Secuaces heridos durante {TURNS} turnos.
  Secuaces heridos: La vitalidad de los secuaces del objetivo se reduce un {HEALTHREDUCTION} % y la del megasecuaz se reduce un {BIGMINIONHEALTHREDUCTION} % cada turno."
 "specials.v2.statuseffect.minor.reducefamiliarhealth.neartotarget.enemies.minion.bigminion","El objetivo y los enemigos cercanos reciben Secuaces heridos durante {TURNS} turnos.
@@ -2331,6 +2433,10 @@ Danza de los espíritus
 "specials.v2.statuseffect.minor.reflectminorbuffs.neartotarget.enemies.randomenemy","El objetivo y los enemigos cercanos reflejan las bendiciones de estado a un personaje aleatorio del equipo contrario durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.reflectminordebuffs.all.allies.randomenemy","Todos los aliados reflejan los estados alterados a un personaje aleatorio del equipo contrario durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.reflectminordebuffs.neartotarget.allies.randomenemy","El héroe y los aliados cercanos reflejan los estados alterados a un personaje aleatorio del equipo contrario durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.resilientrot.single.allies.resilient_rot","El héroe recibe putrefacción resistente durante {TURNS} turnos.
+
+Putrefacción resistente
+{STATUSEFFECTS}"
 "specials.v2.statuseffect.minor.resistcleansefromspecial.all.enemies","Ningún enemigo puede purificar ni reasignar sus estados alterados con habilidades especiales durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.resistcleansefromspecial.all.enemies.while.single.allies.familiaralive.bone_trap_parasite_amund.bone_trap_parasite","Ningún enemigo puede purificar ni reasignar sus estados alterados con habilidades especiales mientras tenga demonios trampa ósea."
 "specials.v2.statuseffect.minor.resistcleansefromspecial.neartotarget.enemies","Ni el objetivo ni los enemigos cercanos pueden purificar ni reasignar sus estados alterados con habilidades especiales durante {TURNS} turnos."
@@ -2342,6 +2448,7 @@ Danza de los espíritus
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage","El objetivo resiste la curación y recibe {FIXEDPOWER} de daño por cada curación resistida durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.chain_strike","El objetivo resiste la curación y recibe {FIXEDPOWER} de daño por cada curación resistida durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.chain_strike.chain_strike_turundh.on_additional_hit","El objetivo del segundo golpe resiste la curación y recibe {FIXEDPOWER} de daño por cada curación resistida durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.noturns.chain_strike","Todos los objetivos alcanzados resisten la curación y reciben {FIXEDPOWER} de daño por cada curación resistida durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.resistmanaeffects.all.allies","Todos los aliados son inmunes a los efectos de maná negativos nuevos durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.resistmanaeffects.all.allies.onresist.addmana.single.allies","Todos los aliados son inmunes a los efectos de maná negativos nuevos durante {TURNS} turnos, y su maná aumenta un {POWER} % por cada efecto resistido."
 "specials.v2.statuseffect.minor.resistmanaeffects.neartotarget.allies.onresist.addmana.single.allies","El héroe y los aliados cercanos son inmunes a los efectos de maná negativos nuevos durante {TURNS} turnos, y su maná aumenta un {POWER} % por cada efecto resistido."
@@ -2359,6 +2466,10 @@ Danza de los espíritus
 "specials.v2.statuseffect.minor.resistresurrecteffects.neartotarget.enemies","Ni el objetivo ni los enemigos cercanos pueden recibir efectos de estado nuevos que fueran a hacerlos resucitar durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.resistspecialblocking.all.allies","Todos los aliados son inmunes a los efectos nuevos que impiden el uso de habilidades especiales durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.resistspecialblocking.neartotarget.allies","El héroe y los aliados cercanos son inmunes a los efectos nuevos que impiden el uso de habilidades especiales durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.resonancedamageovertime.neartotarget.enemies.neartotargetexceptmaintarget","El objetivo y los enemigos cercanos reciben resonancia durante {TURNS} turnos. Cada turno, la resonancia inflige {DAMAGEPERTURN} de daño a los enemigos afectados y {RESONANCEDAMAGE} de daño a los enemigos cercanos."
+"specials.v2.statuseffect.minor.resonancedamageovertime.sides.enemies.neartotargetexceptmaintarget","Los enemigos en los márgenes de la formación reciben resonancia durante {TURNS} turnos. Cada turno, la resonancia inflige {DAMAGEPERTURN} de daño a los enemigos afectados y {RESONANCEDAMAGE} de daño a los enemigos cercanos."
+"specials.v2.statuseffect.minor.resonancedamageovertime.single.enemies.neartotargetexceptmaintarget","El objetivo recibe resonancia durante {TURNS} turnos. Cada turno, la resonancia inflige {DAMAGEPERTURN} de daño al enemigo afectado y {RESONANCEDAMAGE} de daño a los enemigos cercanos."
+"specials.v2.statuseffect.minor.resonancedamageovertime.single.enemies.neartotargetexceptmaintarget.chain_strike","Los enemigos golpeados reciben resonancia durante {TURNS} turnos. Cada turno, la resonancia inflige {DAMAGEPERTURN} de daño a los enemigos afectados y {RESONANCEDAMAGE} de daño a los enemigos cercanos."
 "specials.v2.statuseffect.minor.revive.draugrblessing.all.allies","Todos los aliados reciben Bendición de draugr. Si el héroe bendecido cae derrotado en los próximos {TURNS} turnos, renacerá como draugr con estas características:
 
  {INHERITEDHEALTH} % de vitalidad heredada.
@@ -2430,6 +2541,7 @@ Si no se derrota a la viscosidad en {CHANGEDAPPEARANCETURNS} turnos, renacerá 
 "specials.v2.statuseffect.minor.specialdamagepowermodifier.neartotarget.allies","Las habilidades especiales del héroe y los aliados cercanos infligen un {POWER} % de daño adicional durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.specialrevengestatuseffectskill.neartotarget.allies.on.enemyspecialhit.damage.single.enemies","Durante los siguientes {TURNS} turnos, cada vez que el héroe y los aliados cercanos reciben daño de la habilidad especial de un enemigo, infligen {FIXEDPOWER} de daño al atacante."
 "specials.v2.statuseffect.minor.specialrevengestatuseffectskill.single.allies.on.enemyspecial.damage.all.enemies","Durante los siguientes {TURNS} turnos, este personaje inflige un {POWER1} % de daño a todos los enemigos después de que un enemigo lance su habilidad especial."
+"specials.v2.statuseffect.minor.specialrevengestatuseffectskill.single.allies.on.enemyspecial.damage.random.enemies","Durante los siguientes {TURNS} turnos, este personaje inflige un {POWER1} % de daño a un enemigo aleatorio después de que un enemigo lance su habilidad especial."
 "specials.v2.statuseffect.minor.specialrevengestatuseffectskill.single.allies.on.enemyspecial.damage.single.enemies.with_chance","Durante los siguientes {TURNS} turnos, este personaje tiene un {CHANCE} % de probabilidad de infligir un {POWER1} % de daño a un enemigo aleatorio después de que un enemigo lance su habilidad especial."
 "specials.v2.statuseffect.minor.specialrevengestatuseffectskill.single.allies.on.enemyspecial.heal.all.allies","Durante los siguientes {TURNS} turnos, este personaje devuelve {FIXEDPOWER} de vitalidad a todos los aliados después de que un enemigo lance su habilidad especial."
 "specials.v2.statuseffect.minor.specialrevengestatuseffectskill.single.allies.on.enemyspecialhit.damage.all.enemies","Durante los siguientes {TURNS} turnos, cada vez que el héroe recibe daño de la habilidad especial de un enemigo, inflige {FIXEDPOWER} de daño a todos los enemigos."
@@ -2525,6 +2637,7 @@ Si no se derrota a la viscosidad en {CHANGEDAPPEARANCETURNS} turnos, renacerá 
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.druid_thorn_empowered","Todos los aliados consiguen un {DODGE} % de probabilidad de esquivar habilidades especiales durante {TURNS} turnos. Cada vez que se esquiva, se invoca un secuaz con pinchos fortalecido."
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.sakura_fox","Todos los aliados consiguen un {DODGE} % de probabilidad de esquivar habilidades especiales durante {TURNS} turnos. Cada vez que se esquiva, se invoca un secuaz zorro Sakura."
 "specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_red_titan","Todos los aliados obtienen un {ATTACK} % de ataque durante {TURNS} turnos. Contra titanes de fuego, todos los aliados obtienen un {ATTACKAGAINSTVALIDTARGET} % de ataque."
+"specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_yellow_titan","Todos los aliados obtienen un {ATTACK} % de ataque durante {TURNS} turnos. Contra titanes sagrados, todos los aliados obtienen un {ATTACKAGAINSTVALIDTARGET} % de ataque."
 "specials.v2.statuseffect.minor.taunt.single.allies","El héroe obtiene Burla, que evita que los enemigos utilicen habilidades especiales en los aliados del héroe durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.toxin.all.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Todos los enemigos reciben {DAMAGE} de daño de toxina durante {TURNS} turnos. El daño aumenta contra objetivos con vitalidad potenciada, secuaces o un megasecuaz."
 "specials.v2.statuseffect.minor.toxin.neartotarget.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","El objetivo y los enemigos cercanos reciben {DAMAGE} de daño de toxina durante {TURNS} turnos. El daño aumenta contra objetivos con vitalidad potenciada, secuaces o un megasecuaz."
@@ -2569,6 +2682,7 @@ Demencia
 "specials.v2.statuseffect.permanent.insanity.single.allies","Inflige {INSANITYTOADD} de demencia al héroe."
 "specials.v2.statuseffect.permanent.insanity.single.enemies","Inflige {INSANITYTOADD} de demencia al objetivo."
 "specials.v2.statuseffect.permanent.insanity.single.enemies.chain_strike","Todos los objetivos golpeados reciben {INSANITYTOADD} de demencia cada vez que reciben un golpe."
+"specials.v2.statuseffect.permanent.insanity.single.enemies.chain_strike.chain_strike_cassilda.on_additional_hit","Todos los objetivos golpeados reciben {INSANITYTOADD} de demencia cada vez que reciben un golpe."
 "specials.v2.statuseffect.permanent.managenerationmodifier.red.allies","Todos los héroes de fuego reciben un {MANAREGEN} % de regeneración de maná."
 "specials.v2.statuseffect.permanent.specialdamagepowermodifier.green.allies","Todos los héroes de naturaleza obtienen un {POWER} % de poder adicional para los ataques de sus habilidades especiales."
 "specials.v2.statuseffect.permanent.warattackmodifier.all.enemies","Los héroes defensores obtienen un {ATTACK} % de ataque. Este efecto se fortalece cada vez que se activa."

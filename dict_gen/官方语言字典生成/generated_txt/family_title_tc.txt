@@ -50,6 +50,8 @@
 "herocard.family.title.fleur_de_sang_pve_tier3.short","血花"
 "herocard.family.title.forsaken","遺棄家族"
 "herocard.family.title.forsaken.short","遺棄"
+"herocard.family.title.fortune","鴻運舞者家族"
+"herocard.family.title.fortune.short","鴻運"
 "herocard.family.title.fox","狐狸家族"
 "herocard.family.title.fox.short","狐狸"
 "herocard.family.title.gargoyle","石像鬼家族"

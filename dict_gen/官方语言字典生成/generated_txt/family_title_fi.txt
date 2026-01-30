@@ -50,6 +50,8 @@
 "herocard.family.title.fleur_de_sang_pve_tier3.short","Fleur de Sang"
 "herocard.family.title.forsaken","Hylkiöperhe"
 "herocard.family.title.forsaken.short","Hylkiö"
+"herocard.family.title.fortune","Onnentanssijaperhe"
+"herocard.family.title.fortune.short","Onnen"
 "herocard.family.title.fox","Kettuperhe"
 "herocard.family.title.fox.short","Kettu"
 "herocard.family.title.gargoyle","Gargoiliperhe"

@@ -50,6 +50,8 @@
 "herocard.family.title.fleur_de_sang_pve_tier3.short","Флер-де-Санг"
 "herocard.family.title.forsaken","Семья утраченных"
 "herocard.family.title.forsaken.short","Утраченные"
+"herocard.family.title.fortune","Семья танцоров удачи"
+"herocard.family.title.fortune.short","Удача"
 "herocard.family.title.fox","Семья лис"
 "herocard.family.title.fox.short","Лис"
 "herocard.family.title.gargoyle","Семья горгулий"

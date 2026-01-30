@@ -50,6 +50,8 @@
 "herocard.family.title.fleur_de_sang_pve_tier3.short","Fleur de Sang"
 "herocard.family.title.forsaken","Keluarga yang Diabaikan"
 "herocard.family.title.forsaken.short","Yang Diabaikan"
+"herocard.family.title.fortune","Keluarga Penari Hoki"
+"herocard.family.title.fortune.short","Hoki"
 "herocard.family.title.fox","Keluarga Rubah"
 "herocard.family.title.fox.short","Rubah"
 "herocard.family.title.gargoyle","Keluarga Gargoyle"

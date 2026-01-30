@@ -50,6 +50,8 @@
 "herocard.family.title.fleur_de_sang_pve_tier3.short","Fleur de Sang"
 "herocard.family.title.forsaken","Famille des Égarés"
 "herocard.family.title.forsaken.short","Égarés"
+"herocard.family.title.fortune","Famille Danse de la fortune"
+"herocard.family.title.fortune.short","Fortune"
 "herocard.family.title.fox","Famille Renard"
 "herocard.family.title.fox.short","Renard"
 "herocard.family.title.gargoyle","Famille Gargouille"

@@ -18,20 +18,21 @@ Ce personnage bénéficie actuellement de :
 "herocard.passive_skill.description.conditionaleffectovertime.revival.all.allies.while.single.allies.hasdeadallies","Tous les {TURNS} tours, ressuscite tous les alliés vaincus avec {POWER} % de PV."
 "herocard.passive_skill.description.conditionaleffectovertime.revival.neartotargetexceptcaster.allies.while.single.allies.hasdeadallies","Tous les {TURNS} tours, ressuscite les alliés proches vaincus avec {POWER} % de PV."
 "herocard.passive_skill.description.conditionaleffectovertime.usable_once.heal.addmana.everyturn.while.single.allies.lowhealth","Quand ce personnage commence un tour avec une santé basse pour la première fois du combat, il récupère {HEALTH} % de santé et reçoit {MANA} % de mana."
-"herocard.passive_skill.description.convertincomingdamagetoheal.all.statuseffect","Lorsqu'un effet négatif doit infliger des dégâts à ce personnage, il récupère la quantité équivalente de santé à la place."
-"herocard.passive_skill.description.convertincomingdamagetoheal.statuseffect","Lorsqu'un effet négatif doit infliger des dégâts à ce personnage, il récupère de la santé à hauteur de {MULTIPLIER} % des dégâts à la place."
+"herocard.passive_skill.description.convertincomingdamagetoheal.all.statuseffect","Lorsqu'un effet ou cumul négatif doit infliger des dégâts à ce personnage, il récupère la quantité équivalente de santé à la place."
+"herocard.passive_skill.description.convertincomingdamagetoheal.statuseffect","Lorsqu'un effet ou cumul négatif doit infliger des dégâts à ce personnage, il récupère de la santé à hauteur de {MULTIPLIER} % des dégâts à la place."
 "herocard.passive_skill.description.criticalmodifiersupportcharacter.troop","{CRITICALMODIFIER} % de chances de coup critique."
 "herocard.passive_skill.description.damage.all.enemies","Inflige {DAMAGE} % de dégâts à tous les ennemis."
 "herocard.passive_skill.description.damagefamiliarsovertime.all.enemies.minion.bigminion","Inflige {DAMAGEPERTURN} points de dégâts à tous les sbires et méga sbires ennemis tous les {TURNS} tours."
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.bigminion.minion","Inflige {DAMAGEPERTURN} points de dégâts à tous les sbires et méga sbires ennemis au début de chaque tour."
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion","Inflige {DAMAGEPERTURN} points de dégâts à tous les sbires et méga sbires ennemis au début de chaque tour."
 "herocard.passive_skill.description.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Les dégâts des attaques normales et des compétences spéciales de ce personnage augmentent de {DAMAGEINCREASEPERSTEP} % pour chaque tranche de {INSANITYPERSTEP} points de folie sur le personnage, jusqu'à un maximum de {MAXDAMAGEINCREASE} %."
-"herocard.passive_skill.description.dealtdamagemodifieragainststatuseffect.bloodlily.stacks.troop.specialskill.npcnormalattack.add_modifier_per_stack","Tous les dégâts infligés par les attaques normales et les compétences spéciales de ce personnage sont augmentés de {MODIFIER} % pour chaque cumul de lys de sang sur la cible."
-"herocard.passive_skill.description.dealtstrongelementsupportcharacterdamage.increase","Les troupes de ce héros infligent des dégâts élémentaires supplémentaires à l'élément faible.
+"herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single.troop.specialskill.npcnormalattack.add_modifier_per_stack","Tous les dégâts infligés par les attaques normales et les compétences spéciales de ce personnage sont augmentés de {MODIFIER} % pour chaque cumul de lys de sang sur la cible."
+"herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all.specialskill.any","Si des alliés sont en train de danser, la compétence spéciale de ce personnage inflige {MODIFIERCHANGE} % de dégâts supplémentaires."
+"herocard.passive_skill.description.dealtstrongelementsupportcharacterdamage.increase","Les troupes de ce personnage infligent des dégâts supplémentaires à l'élément faible.
 
-Dégâts élémentaires infligés : +{MODIFIER} %"
-"herocard.passive_skill.description.debuffdamagereduction","Les dégâts infligés par les effets négatifs sont réduits de {DAMAGEREDUCTION} %"
-"herocard.passive_skill.description.debuffdamagereductionsupportcharacter.troop","Les dégâts infligés par les effets négatifs sont réduits de {DAMAGEREDUCTION} % pour ce personnage."
+Dégâts supplémentaires infligés : +{MODIFIER} %"
+"herocard.passive_skill.description.debuffdamagereduction","Les dégâts infligés par les effets et cumuls négatifs sont réduits de {DAMAGEREDUCTION} %"
+"herocard.passive_skill.description.debuffdamagereductionsupportcharacter.troop","Les dégâts infligés par les effets et cumuls négatifs sont réduits de {DAMAGEREDUCTION} % pour ce personnage."
 "herocard.passive_skill.description.destructivecoreintrinsicchargeeffectonspecial.damage.all.enemies.always","Le noyau de golem de ce personnage est un noyau destructeur.
 
 Le noyau destructeur s'active à chaque fois que la compétence spéciale de ce personnage est utilisée :
@@ -155,282 +156,7 @@ Le noyau sbire s'active à chaque fois que le personnage utilise sa compétence 
 "herocard.passive_skill.description.memorizestatuseffects","Ce personnage a la capacité innée de mémoriser les effets négatifs. Le dernier effet négatif lancé contre lui reste en mémoire jusqu'à l'utilisation de la compétence spéciale. Seuls les effets négatifs possédant une durée peuvent être mémorisés."
 "herocard.passive_skill.description.memorizestatuseffects#2","Ce personnage a la capacité innée de mémoriser les effets négatifs. Les {0} derniers effets négatifs qui ont été lancés contre lui restent en mémoire jusqu'à l'utilisation de la compétence spéciale. Seuls les effets négatifs possédant une durée peuvent être mémorisés."
 "herocard.passive_skill.description.memorizestatuseffects#3","This character has innate ability to Memorize status ailments. The latest {0} status ailments that are cast on this character will stay memorized until the Special Skill is cast. Only status ailments with a duration can be memorized. (THIRD FORM)"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_blue","Cet imposteur octroie une chance de recevoir des butins supplémentaires en terminant des étapes :
-
-*****
- Éther alpha
- Éther de glace III
-
-****
- Éther de glace II
-
-***
- Éther de glace I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_green","Cet imposteur octroie une chance de recevoir des butins supplémentaires en terminant des étapes :
-
-*****
- Éther alpha
- Éther de nature III
-
-****
- Éther de nature II
-
-***
- Éther de nature I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_purple","Cet imposteur octroie une chance de recevoir des butins supplémentaires en terminant des étapes :
-
-*****
- Éther alpha
- Éther des ténèbres III
-
-****
- Éther des ténèbres II
-
-***
- Éther des ténèbres I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_red","Cet imposteur octroie une chance de recevoir des butins supplémentaires en terminant des étapes :
-
-*****
- Éther alpha
- Éther de feu III
-
-****
- Éther de feu II
-
-***
- Éther de feu I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_yellow","Cet imposteur octroie une chance de recevoir des butins supplémentaires en terminant des étapes :
-
-*****
- Éther alpha
- Éther du sacré III
-
-****
- Éther du sacré II
-
-***
- Éther du sacré I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_blue","Cet imposteur octroie une chance de recevoir des butins supplémentaires en terminant des étapes :
-
-****
- Lame Damas
- Recueil de tactiques
- Télescope puissant
-
-***
- Gants fins
- Boussole
- Cape chaude
- Guide des combats
- Bottes montantes
- Chemise de mailles
-
-**
- Corde solide"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_epic_yellow","Cet imposteur octroie une chance de recevoir des butins supplémentaires en terminant des étapes :
-
-***
- Lame cachée
- Orbe divinatoire
- Bouclier robuste
- Outils de conception de pièges
- Cape chaude
- Guide des combats
- Chemise de mailles
- Fourreau
- Bottes montantes
-
-**
- Écritures obscures
- Dague
- Armure de cuir
- Pierre d'affûtage
- Corde solide
- Bouclier de bois
-
-*
- Kit d'aventurier
- Épée d'entraînement
- Habit en lambeaux"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_green","Cet imposteur octroie une chance de recevoir des butins supplémentaires en terminant des étapes :
-
-****
- Lame Damas
- Recueil de tactiques
- Onguent mystérieux
-
-***
- Gants fins
- Boussole
- Bouclier robuste
- Bottes montantes
- Fourreau
-
-**
- Corde solide
- Dague"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_purple","Cet imposteur octroie une chance de recevoir des butins supplémentaires en terminant des étapes :
-
-****
- Lame Damas
- Recueil de tactiques
- Tabard royal
-
-***
- Gants fin
- Boussole
- Outils de conception de pièges
- Bottes montantes
- Fourreau
-
-**
- Corde solide
- Dague"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_red","Cet imposteur octroie une chance de recevoir des butins supplémentaires en terminant des étapes :
-
-****
- Lame Damas
- Recueil de tactiques
- Anneaux mystiques
-
-***
- Gants fins
- Boussole
- Lame cachée
- Chemise de mailles
- Bottes montantes
-
-**
- Écritures obscures"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_yellow","Cet imposteur octroie une chance de recevoir des butins supplémentaires en terminant des étapes :
-
-****
- Lame Damas
- Recueil de tactiques
- Fléchettes empoisonnées
-
-***
- Gants fins
- Boussole
- Orbe divinatoire
- Chemise de mailles
- Bottes montantes
-
-**
- Écritures obscures"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_blue","Cet imposteur octroie une chance de recevoir des butins supplémentaires en terminant des étapes :
-
-*****
- Emblèmes de maître sorcier
- Emblèmes de maître magicien
-
-****
- Emblèmes de sorcier
- Emblèmes de magicien"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_green","Cet imposteur octroie une chance de recevoir des butins supplémentaires en terminant des étapes :
-
-*****
- Emblèmes de maître paladin
- Emblèmes de maître druide
-
-****
- Emblèmes de paladin
- Emblèmes de druide"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_purple","Cet imposteur octroie une chance de recevoir des butins supplémentaires en terminant des étapes :
-
-*****
- Emblèmes de maître voyou
- Emblèmes de maître ranger
-
-****
- Emblèmes de voyou
- Emblèmes de ranger"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_red","Cet imposteur octroie une chance de recevoir des butins supplémentaires en terminant des étapes :
-
-*****
- Emblèmes de maître combattant
- Emblèmes de maître barbare
-
-****
- Emblèmes de combattant
- Emblèmes de barbare"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_yellow","Cet imposteur octroie une chance de recevoir des butins supplémentaires en terminant des étapes :
-
-*****
- Emblèmes de maître ecclésiastique
- Emblèmes de maître moine
-
-****
- Emblèmes d'ecclésiastique
- Emblèmes de moine"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_experience_rare_red","Cet imposteur octroie une chance de recevoir des butins supplémentaires en terminant des étapes :
-
-**
-Héros de feu, de nature, de glace, sombres et sacrés atypiques
-
-*
-Héros maîtres entraîneurs communs
-Héros de feu, de nature, de glace, sombres et sacrés communs"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_blue","Cet imposteur octroie une chance de recevoir des butins supplémentaires en terminant des étapes :
-
-***
-Héros entraîneurs de glace rares
-
-**
-Héros entraîneurs de glace atypiques
-Héros de glace atypiques
-
-*
-Héros entraîneurs de glace communs
-Héros de glace communs"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_green","Cet imposteur octroie une chance de recevoir des butins supplémentaires en terminant des étapes :
-
-***
-Héros entraîneurs de nature rares
-
-**
-Héros entraîneurs de nature atypiques
-Héros de nature atypiques
-
-*
-Héros entraîneurs de nature communs
-Héros de nature communs"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_purple","Cet imposteur octroie une chance de recevoir des butins supplémentaires en terminant des étapes :
-
-***
-Héros entraîneurs sombres rares
-
-**
-Héros entraîneurs sombres atypiques
-Héros sombres atypiques
-
-*
-Héros entraîneurs sombres communs
-Héros sombres communs"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_red","Cet imposteur octroie une chance de recevoir des butins supplémentaires en terminant des étapes :
-
-***
-Héros entraîneurs de feu rares
-
-**
-Héros entraîneurs de feu atypiques
-Héros de feu atypiques
-
-*
-Héros entraîneurs de feu communs
-Héros de feu communs"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_yellow","Cet imposteur octroie une chance de recevoir des butins supplémentaires en terminant des étapes :
-
-***
-Héros entraîneurs  sacrés rares
-
-**
-Héros entraîneurs sacrés atypiques
-Héros sacrés atypiques
-
-*
-Héros entraîneurs sacrés communs
-Héros sacrés communs"
+"herocard.passive_skill.description.mimiclootonlevelcompleted","Chaque imposteur unique dans votre équipe peut vous rapporter du butin supplémentaire en terminant des étape. Cet imposteur octroie une chance d'obtenir le butin supplémentaire suivant :"
 "herocard.passive_skill.description.nevermissspecial","La compétence spéciale de ce personnage ne rate jamais sa cible."
 "herocard.passive_skill.description.ransack","Au début de chaque tour, ce personnage pille un ennemi aléatoire :
 
@@ -446,10 +172,10 @@ Le vol sûr contourne les effets secondaires comme les dégâts lors du vol. Les
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","Lorsque ce personnage utilise sa compétence spéciale, il a {CHANCE} % de chances de voler le bonus dissipable le plus récent d'un ennemi aléatoire bénéficiant de bonus. Si aucun ennemi n'a de bonus, inflige {DAMAGE} % de dégâts à tous les ennemis."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.heal.always.minordebuff.newest","Lorsque ce personnage utilise sa compétence spéciale, il transmet l'effet négatif dissipable le plus récent dont il souffre à la cible. Si la compétence spéciale n'a pas de cible, un ennemi aléatoire est sélectionné. Si le personnage ne souffre d'aucun effet négatif dissipable, il récupère {HEALTH} % de santé."
 "herocard.passive_skill.description.receivedeffectreplacement.minordebuff","{REPLACEMENTCHANCE} % de chances de transformer les effets négatifs subis en effets positifs équivalents."
-"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","Les troupes de l'élément fort infligent moins de dégâts élémentaires à ce héros.
+"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","Ce personnage subit moins de dégâts des troupes de l'élément fort.
 
-Dégâts élémentaires subis : -{MODIFIER} %"
-"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.combined","{MODIFIER} % de dégâts élémentaires en moins subis par les troupes de l'élément fort."
+Dégâts subis : -{MODIFIER} %"
+"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.combined","{MODIFIER} % de dégâts en moins subis par les troupes de l'élément fort."
 "herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.increase.dragon","Les boules de feu de l'élément fort infligent {MODIFIER} % de dégâts élémentaires supplémentaires."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single","La première fois que ce personnage subit des dégâts qui devraient l'éliminer, ces dégâts sont envoyés à un ennemi aléatoire.
 
@@ -488,7 +214,7 @@ Cela inclut :
 Cela concerne les bonus, les effets négatifs, les cumuls positifs ou négatifs et les effets de croissance et de flétrissement."
 "herocard.passive_skill.description.resist.allmanaeffects.alldebuffs","Ce personnage est immunisé contre les effets et cumuls négatifs qui touchent la génération de mana. S'applique aussi aux effets négatifs qui arrêtent la génération de mana ou volent du mana."
 "herocard.passive_skill.description.resist.allmanaeffects.manareduction.alldebuffs","Ce personnage est immunisé contre les réductions de mana ainsi que les effets et cumuls négatifs qui touchent la génération de mana. S'applique aussi aux effets négatifs qui arrêtent la génération de mana ou volent du mana."
-"herocard.passive_skill.description.resist.allstatuseffectdamage.none","Ce personnage est immunisé contre les dégâts des effets négatifs."
+"herocard.passive_skill.description.resist.allstatuseffectdamage.none","Ce personnage est immunisé contre les dégâts des effets et cumuls négatifs."
 "herocard.passive_skill.description.resist.attackdelay","L'attaque normale de ce personnage ne peut pas être repoussée."
 "herocard.passive_skill.description.resist.attackdelay.alldebuffs","L'attaque normale de ce personnage ne peut pas être repoussée."
 "herocard.passive_skill.description.resist.attackmodifiers","Ce personnage est immunisé contre les effets négatifs qui touchent l'attaque."
@@ -565,6 +291,9 @@ La compétence spéciale suivante :
 "herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance","Lorsqu'il est vaincu, ce personnage a {TOTALCHANCE} % de chances de ressusciter au début du tour suivant avec {HEALTH} % de santé et {MANA} % de mana.
 
 Cet effet peut s'activer {MAXACTIVATIONCOUNT} fois au maximum. Les chances de résurrection diminuent à chaque activation. L'effet ne peut pas être bloqué par les effets négatifs ou les compétences passives."
+"herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance.ignoresreviveblockingdebuffs","Lorsqu'il est vaincu, ce personnage a {TOTALCHANCE} % de chances de ressusciter au début du tour suivant avec {HEALTH} % de santé et {MANA} % de mana.
+
+Cet effet peut s'activer {MAXACTIVATIONCOUNT} fois au maximum. Les chances de résurrection diminuent à chaque activation. L'effet ne peut pas être bloqué par les effets négatifs ou les compétences passives."
 "herocard.passive_skill.description.setstatuseffectdurationonaddition.all.allies.activates_on_ally_action.alldebuffs.dance","Les ballades des ennemis ne durent que {TURNS} tour."
 "herocard.passive_skill.description.setstatuseffectdurationonaddition.single.enemies.activates_on_enemy_action.allbuffs.dance","Les danses des ennemis ne durent que {TURNS} tour."
 "herocard.passive_skill.description.sharereceiveddamage","{SHAREDDAMAGEPORTION} % des dégâts subis par ce personnage sont partagés avec tous les autres alliés."
@@ -604,38 +333,64 @@ Le démon plantule devient un démon jeune pousse au bout de {EVOLVINGFAMILIAR1E
 Le démon jeune pousse devient un méga démon florissant au bout de {EVOLVINGFAMILIAR2EVOLVETURNS} tours.
 
 Démon plantule :
-{EVOLVINGFAMILIAR1ATTACK} % d'attaque, {EVOLVINGFAMILIAR1HEALTH} % de santé.
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de santé.
 
 Démon jeune pousse :
-{EVOLVINGFAMILIAR2ATTACK} % d'attaque, {EVOLVINGFAMILIAR2HEALTH} % de santé.
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de santé.
 
 Méga démon florissant :
-{EVOLVINGFAMILIAR3ATTACK} % d'attaque, {EVOLVINGFAMILIAR3HEALTH} % de santé."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","À chaque tour, invoque un démon plantule pour un ennemi aléatoire. Cette compétence passive ne s'active qu'une fois par tour pour chaque équipe.
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de santé."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","À chaque tour, invoque un démon plantule pour un ennemi aléatoire. Cette compétence passive s'active une seule fois par tour pour chaque équipe. 
 Le démon plantule devient un démon jeune pousse au bout de {EVOLVINGFAMILIAR1EVOLVETURNS} tours.
 Le démon jeune pousse devient un méga démon florissant au bout de {EVOLVINGFAMILIAR2EVOLVETURNS} tours.
 
 Démon plantule :
-{EVOLVINGFAMILIAR1ATTACK} % d'attaque, {EVOLVINGFAMILIAR1HEALTH} % de santé.
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de santé.
 
 Démon jeune pousse :
-{EVOLVINGFAMILIAR2ATTACK} % d'attaque, {EVOLVINGFAMILIAR2HEALTH} % de santé.
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de santé.
 
 Méga démon florissant :
-{EVOLVINGFAMILIAR3ATTACK} % d'attaque, {EVOLVINGFAMILIAR3HEALTH} % de santé."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","À chaque tour, invoque un démon plantule pour un ennemi aléatoire. Cette compétence passive ne s'active qu'une fois par tour pour chaque équipe.
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de santé."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","À chaque tour, invoque un démon plantule pour un ennemi aléatoire. Cette compétence passive s'active une seule fois par tour pour chaque équipe. 
 Le démon plantule devient un démon jeune pousse au bout de {EVOLVINGFAMILIAR1EVOLVETURNS} tours.
 Le démon jeune pousse devient un méga démon florissant au bout de {EVOLVINGFAMILIAR2EVOLVETURNS} tours.
-L'évolution du démon est retardée de {EVOLVINGFAMILIAR1TURNSDELAY} tour à chaque fois qu'il absorbe des soins.
+L'évolution du démon est retardée de {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tour à chaque fois qu'il absorbe des soins.
 
 Démon plantule :
-{EVOLVINGFAMILIAR1ATTACK} % d'attaque, {EVOLVINGFAMILIAR1HEALTH} % de santé.
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de santé.
 
 Démon jeune pousse :
-{EVOLVINGFAMILIAR2ATTACK} % d'attaque, {EVOLVINGFAMILIAR2HEALTH} % de santé.
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de santé.
 
 Méga démon florissant :
-{EVOLVINGFAMILIAR3ATTACK} % d'attaque, {EVOLVINGFAMILIAR3HEALTH} % de santé."
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de santé."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","À chaque tour, invoque un démon plantule pour un ennemi aléatoire. Cette compétence passive s'active une seule fois par tour pour chaque équipe. 
+Le démon plantule devient un démon jeune pousse au bout de {EVOLVINGFAMILIAR1EVOLVETURNS} tours.
+Le démon jeune pousse devient un méga démon florissant au bout de {EVOLVINGFAMILIAR2EVOLVETURNS} tours.
+L'évolution du démon est retardée de {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tour à chaque fois qu'il absorbe des soins.
+
+Démon plantule :
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de santé.
+
+Démon jeune pousse :
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de santé.
+
+Méga démon florissant :
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de santé."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","À chaque tour, invoque un démon plantule pour un ennemi aléatoire. Cette compétence passive s'active une seule fois par tour pour chaque équipe. 
+Le démon plantule devient un démon jeune pousse au bout de {EVOLVINGFAMILIAR1EVOLVETURNS} tours.
+Le démon jeune pousse devient un méga démon florissant au bout de {EVOLVINGFAMILIAR2EVOLVETURNS} tours.
+L'évolution du démon est retardée de {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tour à chaque fois qu'il absorbe des soins.
+
+Démon plantule :
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de santé.
+
+Démon jeune pousse :
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de santé.
+
+Méga démon florissant :
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de santé."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Lorsque ce personnage est vaincu, des méga sbires gluants sont invoqués sur les alliés proches avec {FAMILIARHEALTHPERCENT} % de PV et {FAMILIARATTACK} % d'attaque hérités de ce personnage."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Lorsque ce personnage est vaincu, des méga sbires gluants sont invoqués sur les alliés proches avec {FAMILIARHEALTHPERCENT} % de PV et {FAMILIARATTACK} % d'attaque hérités de ce personnage."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Lorsque ce personnage est vaincu, des méga sbires gluants sont invoqués sur les alliés proches avec {FAMILIARHEALTHPERCENT} % de PV et {FAMILIARATTACK} % d'attaque hérités de ce personnage."
@@ -652,6 +407,7 @@ Méga démon florissant :
 "herocard.passive_skill.description.summononsummon.activates_on_enemy_action.allies.owl.minion","Invoque un sbire moineau pour vous lorsqu'un ennemi invoque un sbire par compétence spéciale."
 "herocard.passive_skill.description.summononsummon.activates_on_enemy_action.enemies.cursed_sapling_parasite.minion","Quand un ennemi invoque des sbires avec sa compétence spéciale, ce personnage invoque un démon jeune pousse maudite contre cet ennemi."
 "herocard.passive_skill.description.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","Quand un ennemi invoque des sbires avec sa compétence spéciale, ce personnage invoque un démon plantule contre cet ennemi."
+"herocard.passive_skill.description.targetstatedependenteffectonspecial.healthboost.all.allies.fixedpower.always.checkstate.all.allies.dance","Si des alliés sont en train de danser lorsque ce personnage utilise sa compétence spéciale, la santé de tous les alliés est boostée de {HEALTHBOOST}. Le maximum de PV peut être dépassé."
 "herocard.passive_skill.description.taunt","La compétence spéciale de ce personnage n'est pas affectée par la provocation."
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.blue","Les boucliers de glace sont affaiblis à hauteur de {MODIFIER} % de précision lorsque ce personnage utilise sa compétence spéciale."
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.green","Les boucliers de nature sont affaiblis à hauteur de {MODIFIER} % de précision lorsque ce personnage utilise sa compétence spéciale."
@@ -663,25 +419,15 @@ Méga démon florissant :
 "herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.purple","Les boucliers sombres sont renforcés à hauteur de {MODIFIER} % de chances de coup critique lorsque ce personnage utilise sa compétence spéciale."
 "herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.red","Les boucliers de feu sont renforcés à hauteur de {MODIFIER} % de chances de coup critique lorsque ce personnage utilise sa compétence spéciale."
 "herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.yellow","Les boucliers sacrés sont renforcés à hauteur de {MODIFIER} % de chances de coup critique lorsque ce personnage utilise sa compétence spéciale."
-"herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","À chaque fois que ce personnage utilise sa compétence spéciale, tous les bonus dissipables affectant l'attaque, la défense et la génération de mana des ennemis sont transformés en malus équivalents.
-
-Effets de remplacement : 
-Les bonus d'attaque sont transformés en malus d'attaque de {STATUSEFFECT1ATTACK} % pendant {STATUSEFFECT1TURNS} tours.
-Les bonus de défense sont transformés en malus de défense de {STATUSEFFECT2DEFENSE} % pendant {STATUSEFFECT2TURNS} tours.
-Les bonus de génération de mana sont transformés en malus de génération de mana de {STATUSEFFECT3MANAREGEN} % pendant {STATUSEFFECT3TURNS} tours."
-"herocard.passive_skill.description.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","À chaque fois que ce personnage utilise sa compétence spéciale, tous les malus purifiables affectant l'attaque, la défense et la génération de mana des alliés sont transformés en bonus équivalents.
-
-Effets de remplacement :
-Les malus d'attaque sont transformés en bonus d'attaque de {STATUSEFFECT1ATTACK} % pendant {STATUSEFFECT1TURNS} tours.
-Les malus de défense sont transformés en bonus de défense de {STATUSEFFECT2DEFENSE} % pendant {STATUSEFFECT2TURNS} tours.
-Les malus de génération de mana sont transformés en bonus de génération de mana de {STATUSEFFECT3MANAREGEN} % pendant {STATUSEFFECT3TURNS} tours."
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","À chaque fois que ce personnage utilise sa compétence spéciale, tous les bonus dissipables affectant l'attaque, la défense et la génération de mana des ennemis sont transformés en effets négatifs non dissipables équivalents."
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","À chaque fois que ce personnage utilise sa compétence spéciale, tous les effets négatifs purifiables affectant l'attaque, la défense et la génération de mana des alliés sont transformés en bonus non dissipables équivalents."
 "herocard.passive_skill.description.wither.all.enemies","L'attaque et la défense de base de tous les ennemis diminuent de {STATINCREASE} à chaque tour pendant {MAXACTIVATIONCOUNT} tours."
 "herocard.passive_skill.inactive","EFFET INACTIF : atteignez le niveau maximal et l'évolution complète pour l'activer."
 "herocard.passive_skill.replace.minordebuff.attackmodifier.to.minorbuff.attackmodifier","Les malus d'attaque deviennent des bonus de {ATTACK} % pendant {TURNS} tours."
 "herocard.passive_skill.replace.minordebuff.buffimmunity.to.minorbuff.debuffshield","Les immunités aux bonus deviennent des immunités aux malus pendant {TURNS} tours."
 "herocard.passive_skill.replace.minordebuff.defensemodifier.to.minorbuff.defensemodifier","Les malus de défense deviennent des bonus de {DEFENSE} % pendant {TURNS} tours."
 "herocard.passive_skill.replace.minordebuff.healingmodifier.to.minorbuff.healmultiplier","Les réductions de soins deviennent des bonus de {HEALING} % pendant {TURNS} tours."
-"herocard.passive_skill.replace.minordebuff.managenerationmodifier.to.minorbuff.managenerationmodifier","Les malus de génération de mana deviennent des bonus de {MANAREGEN} % pendant {TURNS} tours."
+"herocard.passive_skill.replace.minordebuff.manaeffect.to.minorbuff.managenerationmodifier","Les malus de mana deviennent des bonus de {MANAREGEN} % pendant {TURNS} tours."
 "herocard.passive_skill.replace.minordebuff.receiveddamagemodifier.to.minorbuff.receiveddamagemodifier","Les augmentations des dégâts subis deviennent des réductions de {DAMAGEREDUCTION} % pendant {TURNS} tours."
 "herocard.passive_skill.replace.minordebuff.statuseffectreflect.to.minorbuff.reflectminordebuffs","Les renvois de bonus deviennent des renvois de malus pendant {TURNS} tours."
 "herocard.passive_skill.replace_direct_effect.attackwither","Les effets de flétrissement d'attaque deviennent des effets de croissance de {FIXEDPOWER} points."
@@ -714,7 +460,8 @@ Les malus de génération de mana sont transformés en bonus de génération de 
 "herocard.passive_skill.title.criticalmodifiersupportcharacter.troop","Modificateur critique"
 "herocard.passive_skill.title.critmodifier","Modificateur de chances de critique"
 "herocard.passive_skill.title.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Marque des anciens"
-"herocard.passive_skill.title.dealtdamagemodifieragainststatuseffect.bloodlily.stacks","Marque sanguine"
+"herocard.passive_skill.title.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single","Marque sanguine"
+"herocard.passive_skill.title.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all","Danse féroce"
 "herocard.passive_skill.title.dealtstrongelementtroopdamage","Maîtrise des troupes"
 "herocard.passive_skill.title.debuffdamagereduction","Réduction des dégâts des effets négatifs"
 "herocard.passive_skill.title.debuffdamagereductionsupportcharacter.troop","Réduction des dégâts des effets négatifs"
@@ -830,6 +577,7 @@ Les malus de génération de mana sont transformés en bonus de génération de 
 "herocard.passive_skill.title.ransack","Opportunité du voleur"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Vol de bonus"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","Sens de chasseur"
+"herocard.passive_skill.title.received_strong_troop_damage_pve","Réduction des dégâts des troupes"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Maîtrise des troupes"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Grande augmentation des dégâts des boules de feu"
 "herocard.passive_skill.title.redirectlethaldamage.enemies.single","Trompe-la-mort"
@@ -937,7 +685,10 @@ Corps agile"
 "herocard.passive_skill.title.stylish","Élégance"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","Invocation de plantule"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Invocation de plantule"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Invocation de plantule"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Invocation de plantule"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Invocation de plantule"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Invocation de plantule"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Sbire gluant lors de la défaite"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Sbire gluant lors de la défaite"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Sbire gluant lors de la défaite"
@@ -954,6 +705,7 @@ Corps agile"
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.allies.owl.minion","Invocation de moineau"
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.cursed_sapling_parasite.minion","Invocation de jeune pousse maudite"
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","Invocation de plantule"
+"herocard.passive_skill.title.targetstatedependenteffectonspecial.healthboost.checkstate.all.allies.dance","Danse gracieuse"
 "herocard.passive_skill.title.taunt","Outrepasse la provocation"
 "herocard.passive_skill.title.titan_dread_damage_minions","Terreur"
 "herocard.passive_skill.title.titan_dread_damage_minions_15","Terreur"

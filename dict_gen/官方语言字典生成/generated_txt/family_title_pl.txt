@@ -50,6 +50,8 @@
 "herocard.family.title.fleur_de_sang_pve_tier3.short","Fleur de Sang"
 "herocard.family.title.forsaken","Rodzina zapomnianych"
 "herocard.family.title.forsaken.short","Zapomniani"
+"herocard.family.title.fortune","Rodzina tancerzy fortuny"
+"herocard.family.title.fortune.short","Fortuna"
 "herocard.family.title.fox","Rodzina lisów"
 "herocard.family.title.fox.short","Lis"
 "herocard.family.title.gargoyle","Rodzina gargulców"

@@ -18,20 +18,21 @@ Denne figur har:
 "herocard.passive_skill.description.conditionaleffectovertime.revival.all.allies.while.single.allies.hasdeadallies","Hver {TURNS}. runde lever alle besejrede allierede op med {POWER} % HP."
 "herocard.passive_skill.description.conditionaleffectovertime.revival.neartotargetexceptcaster.allies.while.single.allies.hasdeadallies","Hver {TURNS}. runde lever besejrede allierede i nærheden op med {POWER} % HP."
 "herocard.passive_skill.description.conditionaleffectovertime.usable_once.heal.addmana.everyturn.while.single.allies.lowhealth","Når denne figur begynder en runde med lavt helbred for første gang under en kamp, genvinder vedkommende {HEALTH} % helbred og modtager {MANA} % mana."
-"herocard.passive_skill.description.convertincomingdamagetoheal.all.statuseffect","Når denne figur normalt ville tage skade fra en statuslidelse, genvinder den i stedet den samme mængde helbred."
-"herocard.passive_skill.description.convertincomingdamagetoheal.statuseffect","Når denne figur normalt ville tage skade fra en statuslidelse, genvinder den i stedet helbred. Mængden af helbredelse udgør {MULTIPLIER} % af skaden."
+"herocard.passive_skill.description.convertincomingdamagetoheal.all.statuseffect","Når denne figur normalt ville tage skade fra en statuslidelse eller fra en negativ stack, genvinder den i stedet den samme mængde helbred."
+"herocard.passive_skill.description.convertincomingdamagetoheal.statuseffect","Når denne figur normalt ville tage skade fra en statuslidelse eller fra en negativ stack, genvinder den i stedet helbred. Mængden af helbredelse udgør {MULTIPLIER} % af skaden."
 "herocard.passive_skill.description.criticalmodifiersupportcharacter.troop","{CRITICALMODIFIER} % kritisk chance."
 "herocard.passive_skill.description.damage.all.enemies","Forvolder {DAMAGE} % skade mod alle fjender."
 "herocard.passive_skill.description.damagefamiliarsovertime.all.enemies.minion.bigminion","Forvolder {DAMAGEPERTURN} skade mod alle modstanderens håndlangere og kæmpehåndlangere hver {TURNS}. runde."
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.bigminion.minion","Forvolder {DAMAGEPERTURN} skade mod alle modstanderens håndlangere og kæmpehåndlangere i begyndelsen af hver runde."
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion","Forvolder {DAMAGEPERTURN} skade mod alle modstanderens håndlangere og kæmpehåndlangere i begyndelsen af hver runde."
 "herocard.passive_skill.description.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Al skade fra normale angreb og særlige egenskaber, denne figur forvolder, øges med {DAMAGEINCREASEPERSTEP} % pr. {INSANITYPERSTEP} vanvid på denne figur op til {MAXDAMAGEINCREASE} %."
-"herocard.passive_skill.description.dealtdamagemodifieragainststatuseffect.bloodlily.stacks.troop.specialskill.npcnormalattack.add_modifier_per_stack","Al skade fra normale angreb og særlige egenskaber forvoldet på denne figur øges med {MODIFIER} % pr. blodlilje-stak på målet."
-"herocard.passive_skill.description.dealtstrongelementsupportcharacterdamage.increase","Denne helts tropper giver yderligere elementskade til svagere elementer.
+"herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single.troop.specialskill.npcnormalattack.add_modifier_per_stack","Al skade fra normale angreb og særlige egenskaber forvoldet på denne figur øges med {MODIFIER} % pr. blodlilje-stak på målet."
+"herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all.specialskill.any","Hvis en allieret danser, forvolder denne figurs særlige egenskab {MODIFIERCHANGE} % mere skade."
+"herocard.passive_skill.description.dealtstrongelementsupportcharacterdamage.increase","Denne figurs tropper forvolder ekstra skade på det svagere element.
 
-Ekstra elementskade: +{MODIFIER} %"
-"herocard.passive_skill.description.debuffdamagereduction","Skade skabt af statuslidelser reduceret med {DAMAGEREDUCTION} %"
-"herocard.passive_skill.description.debuffdamagereductionsupportcharacter.troop","Skade skabt af statuslidelser reduceret med {DAMAGEREDUCTION} % for denne figur."
+Ekstra forvoldt skade: +{MODIFIER} %"
+"herocard.passive_skill.description.debuffdamagereduction","Skade forvoldt af statuslidelser og negative stacks reduceret med {DAMAGEREDUCTION} %"
+"herocard.passive_skill.description.debuffdamagereductionsupportcharacter.troop","Skade forvoldt af statuslidelser og negative stacks reduceret med {DAMAGEREDUCTION} % for denne figur."
 "herocard.passive_skill.description.destructivecoreintrinsicchargeeffectonspecial.damage.all.enemies.always","Denne figurs byggekerne er en ødelæggende kerne.
 
 Den ødelæggende kerne aktiveres, hver gang figurens særlige egenskab kastes:
@@ -155,281 +156,7 @@ Håndlangerkernen aktiveres, hver gang denne figurs særlige egenskab kastes:
 "herocard.passive_skill.description.memorizestatuseffects","Figuren har en medfødt evne til at memorere statuslidelser. Den seneste statuslidelse, som kastes på denne figur, memoreres, indtil den særlige egenskab kastes. Kun statuslidelser med varighed kan memoreres."
 "herocard.passive_skill.description.memorizestatuseffects#2","Figuren har en medfødt evne til at memorere statuslidelser. De sidste {0} statuslidelser, som kastes på denne figur, memoreres indtil den særlige egenskab kastes. Kun statuslidelser med varighed kan memoreres."
 "herocard.passive_skill.description.memorizestatuseffects#3","Figuren har en medfødt evne til at memorere statuslidelser. De sidste {0} statuslidelser, som kastes på denne figur, memoreres indtil den særlige egenskab kastes. Kun statuslidelser med varighed kan memoreres. (THIRD FORM)"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_blue","Denne efterligner giver en chance for at få ekstra bytte, når du gennemfører etaper:
-
-*****
- Alfa-æter
- Isæter III
-
-****
- Isæter II
-
-***
- Isæter I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_green","Denne efterligner giver en chance for at få ekstra bytte, når du gennemfører etaper:
-
-*****
- Alfa-æter
- Naturæter III
-
-****
- Naturæter II
-
-***
- Naturæter I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_purple","Denne efterligner giver en chance for at få ekstra bytte, når du gennemfører etaper:
-
-*****
- Alfa-æter
- Mørkeæter III
-
-****
- Mørkeæter II
-
-***
- Mørkeæter I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_red","Denne efterligner giver en chance for at få ekstra bytte, når du gennemfører etaper:
-
-*****
- Alfa-æter
- Ildæter III
-
-****
- Ildæter II
-
-***
- Ildæter I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_yellow","Denne efterligner giver en chance for at få ekstra bytte, når du gennemfører etaper:
-
-*****
- Alfa-æter
- Hellig æter III
-
-****
- Hellig æter II
-
-***
- Hellig æter I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_blue","Denne efterligner giver en chance for ekstra bytte, når du gennemfører etaper:
-
-****
- Damaskusklinge
- Taktikkens bog
- Fjernt skuende teleskop
-
-***
- Fine handsker
- Kompas
- Varm kappe
- Kampmanual
- Høje støvler
- Ringbrynjeskjorte
-
-**
- Stærkt reb"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_epic_yellow","Denne efterligner giver en chance for ekstra bytte, når du gennemfører etaper:
-
-***
- Skjult klinge
- Magisk kugle
- Solidt skjold
- Fælderedskab
- Varm kappe
- Kampmanual
- Ringbrynjeskjorte
- Skede
- Høje støvler
-
-**
- Magiske skrifter
- Dolk
- Læderrustning
- Slibesten
- Stærkt reb
- Træskjold
-
-*
- Eventyrers udrustning
- Træningssværd
- Robust tøj"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_green","Denne efterligner giver en chance for ekstra bytte, når du gennemfører etaper:
-
-****
- Damaskusklinge
- Taktikkens bog
- Mystisk tonic
-
-***
- Fine handsker
- Kompas
- Solidt skjold
- Høje støvler
- Skede
-
-**
- Stærkt reb
- Dolk"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_purple","Denne efterligner giver en chance for ekstra bytte, når du gennemfører etaper:
-
-****
- Damaskusklinge
- Taktikkens bog
- Royal tabard
-
-***
- Fine handsker
- Kompas
- Fælderedskaber
- Høje støvler
- Skede
-
-**
- Stærkt reb
- Dolk"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_red","Denne efterligner giver en chance for ekstra bytte, når du gennemfører etaper:
-
-****
- Damaskusklinge
- Taktikkens bog
- Mystiske ringe
-
-***
- Fine handsker
- Kompas
- Skjult klinge
- Ringbrynjeskjorte
- Høje støvler
-
-**
- Magisk skrift"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_yellow","Denne efterligner giver en chance for ekstra bytte, når du gennemfører etaper:
-
-****
- Damaskusklinge
- Taktikkens bog
- Giftpile
-
-***
- Fine handsker
- Kompas
- Magisk kugle
- Ringbrynjeskjorte
- Høje støvler
-
-**
- Magisk skrift"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_blue","Denne efterligner giver en chance for ekstra bytte, når du gennemfører etaper:
-
-*****
- Heksemester - mesteremblem
- Troldmand - mesteremblem
-
-****
- Heksemester - emblem
- Troldmand - emblem"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_green","Denne efterligner giver en chance for ekstra bytte, når du gennemfører etaper:
-
-*****
- Paladin - mesteremblem
- Druide - mesteremblem
-
-****
- Paladin - emblem
- Druide - emblem"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_purple","Denne efterligner giver en chance for ekstra bytte, når du gennemfører etaper:
-
-*****
- Rebel - mesteremblem
- Vandringsmand - mesteremblem
-
-****
- Rebel - emblem
- Vandringsmand - emblem"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_red","Denne efterligner giver en chance for ekstra bytte, når du gennemfører etaper:
-
-*****
- Kriger - mesteremblem
- Barbar - mesteremblem
-
-****
- Kriger - emblem
- Barbar - emblem"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_yellow","Denne efterligner giver en chance for ekstra bytte, når du gennemfører etaper:
-
-*****
- Gejstlig - mesteremblem
- Munk - mesteremblem
-
-****
- Gejstlig - emblem
- Munk - emblem"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_experience_rare_red","Denne efterligner giver en chance for ekstra bytte, når du gennemfører etaper:
-
-**
-Ualmindelige ild-, natur-, is-, mørke  og hellige helte
-
-*
-Almindelige mestertrænerhelte
-Almindelige ild-, natur-, is-, mørke og hellige helte"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_blue","Denne efterligner giver en chance for ekstra bytte ved gennemførelse af etaper:
-
-***
-Sjældne istrænerhelte
-
-**
-Ualmindelige istrænerhelte
-Ualmindelige ishelte
-
-*
-Almindelige istrænerhelte
-Almindelige ishelte"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_green","Denne efterligner giver en chance for ekstra bytte ved gennemførelse af etaper:
-
-***
-Sjældne naturtrænerhelte
-**
-Ualmindelige naturtrænerhelte
-Ualmindelige naturhelte
- 
-*
-Almindelige naturtrænerhelte
-Almindelige naturhelte"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_purple","Denne efterligner giver en chance for ekstra bytte ved gennemførelse af etaper:
-
-***
-Sjældne mørke trænerhelte
-
-**
-Ualmindelige mørke trænerhelte
-Ualmindelige mørke helte
- 
-*
-Almindelige mørke helte
-Almindelige mørke trænerhelte"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_red","Denne efterligner giver en chance for ekstra bytte ved gennemførelse af etaper:
-
-***
-Sjældne ildtrænerhelte
-
-**
-Ualmindelige ildtrænerhelte
-Ualmindelige ildhelte
-
-*
-Almindelige ildtrænerhelte
-Almindelige ildhelte"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_yellow","Denne efterligner giver en chance for ekstra bytte ved gennemførelse af etaper:
-
-***
-Sjældne hellige trænerhelte
-
-**
-Ualmindelige hellige trænerhelte
-Ualmindelige hellige helte
-
-*
-Almindelige hellige trænerhelte
-Almindelige hellige helte"
+"herocard.passive_skill.description.mimiclootonlevelcompleted","Hver unikke efterligner på dit hold kan give dig ekstra bytte, når du fuldfører etaper. Denne efterligner giver dig en chance for at få følgende ekstra bytte:"
 "herocard.passive_skill.description.nevermissspecial","Denne figurs særlige egenskab rammer aldrig ved siden af."
 "herocard.passive_skill.description.ransack","Ved starten af hver runde ransager denne figur  en vilkårlig fjende:
 
@@ -444,10 +171,10 @@ Ved stjælning på sikker vis bliver sekundære effekter fra de fjernede buffere
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","Når denne figur bruger sin særlige egenskab, får vedkommende {CHANCE} % chance for at stjæle den seneste buffer, der kan ophæves, fra en tilfældig fjende med buffere. Hvis ingen fjende har buffere, rammes alle fjender af {DAMAGE} % skade."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.heal.always.minordebuff.newest","Når denne figur kaster sin særlige egenskab, overføres den seneste statuslidelse, der kan ryddes, fra figuren til målet. Hvis den særlige egenskab ikke kan målrettes en fjende, bliver en tilfældig fjende udvalgt i stedet. Hvis denne figur ikke har nogen statuslidelser, der kan ryddes, gendannes {HEALTH} % af helbredet."
 "herocard.passive_skill.description.receivedeffectreplacement.minordebuff","{REPLACEMENTCHANCE} % chance for at erstatte modtagede negative effekter med matchende positive effekter."
-"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","Denne helt tager mindre elementskade fra stærkere elementtropper.
+"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","Denne figur modtager mindre skade fra tropper af det stærkere element.
 
-Elementskade modtaget: -{MODIFIER} %"
-"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.combined","{MODIFIER} % mindre elementskade fra tropper af det stærkere element."
+Modtaget skade: -{MODIFIER} %"
+"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.combined","{MODIFIER} % mindre skade fra tropper af det stærkere element."
 "herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.increase.dragon","{MODIFIER} % mere elementskade fra ildkugler af det stærkere element."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single","Første gang denne figur ellers ville have modtaget dødbringende skade, bliver skaden omdirigeret til en tilfældig fjende.
 
@@ -486,7 +213,7 @@ Dette inkluderer
 Dette inkluderer statuseffektbuffere og lidelser, positive og negative kumulative effekter samt vækst- og visne-effekter."
 "herocard.passive_skill.description.resist.allmanaeffects.alldebuffs","Denne figur er immun over for statuslidelser og negative kumulativ effekter, der påvirker managendannelse. Gælder også ved statuslidelser, der blokerer mana eller stjæler mana."
 "herocard.passive_skill.description.resist.allmanaeffects.manareduction.alldebuffs","Denne figur er immun over for manareduktioner så vel som statuslidelser og negative kumulativ effekter, der påvirker managendannelse. Gælder også ved effekter og statuslidelser, der blokerer mana eller stjæler mana."
-"herocard.passive_skill.description.resist.allstatuseffectdamage.none","Denne figur er immun over for skade fra statuseffekter."
+"herocard.passive_skill.description.resist.allstatuseffectdamage.none","Denne figur er immun over for skade fra statuseffekter og stacks."
 "herocard.passive_skill.description.resist.attackdelay","Figurens almindelige angreb kan ikke forsinkes."
 "herocard.passive_skill.description.resist.attackdelay.alldebuffs","Figurens almindelige angreb kan ikke forsinkes."
 "herocard.passive_skill.description.resist.attackmodifiers","Denne figur er immun over for statuslidelser, der påvirker angreb."
@@ -563,6 +290,9 @@ Følgende særlig egenskab:
 "herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance","Når denne figur besejres, har den {TOTALCHANCE} % chance for at genoplive i begyndelsen af sin næste tur med {HEALTH} % helbred og {MANA} % mana. 
 
 Aktiveres op til {MAXACTIVATIONCOUNT} gange. Chancen for genoplivning reduceres ved hver aktivering. Kan ikke forhindres med statuslidelser eller passive færdigheder."
+"herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance.ignoresreviveblockingdebuffs","Når denne figur besejres, har den {TOTALCHANCE} % chance for at genoplive i begyndelsen af sin næste tur med {HEALTH} % helbred og {MANA} % mana. 
+
+Aktiveres op til {MAXACTIVATIONCOUNT} gange. Chancen for genoplivning reduceres ved hver aktivering. Kan ikke forhindres med statuslidelser eller passive færdigheder."
 "herocard.passive_skill.description.setstatuseffectdurationonaddition.all.allies.activates_on_ally_action.alldebuffs.dance","Alle sange, som kastes af fjender, varer kun i {TURNS} runder."
 "herocard.passive_skill.description.setstatuseffectdurationonaddition.single.enemies.activates_on_enemy_action.allbuffs.dance","Alle danse, som kastes af fjender, varer kun i {TURNS} runder."
 "herocard.passive_skill.description.sharereceiveddamage","{SHAREDDAMAGEPORTION} % af skaden, denne figur modtager, deles med alle allierede."
@@ -597,43 +327,75 @@ Aktiveres op til {MAXACTIVATIONCOUNT} gange. Chancen for genoplivning reduceres 
  Et mål mærket med et jagtsignal får {FIXEDPOWER} ekstra skade, når de rammer med en kritisk træffer."
 "herocard.passive_skill.description.statuseffectonspecialcast.minor.single.allies.attackmodifierfrompassiveskill","Når denne figur kaster sin særlige egenskab, får de {ATTACK} % angreb i {TURNS} runder. Denne effekt kan være aktiv samtidigt med andre effekter, der ændrer angreb."
 "herocard.passive_skill.description.statuseffectselection.usable_once.select_element_status_effect","Én gang pr. kamp kan denne helts element ændres til et valgfrit element i {TURNS} ture. Elementet kan ændres ved at trykke på denne helt, når den ikke har fuld mana."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies","Hidkalder en frøplantedjævel hver tur til en tilfældig fjende.
-Frøplantedjævlen udvikler sig til en spiredjævel efter {EVOLVINGFAMILIAR1EVOLVETURNS} ture. 
-Spiredjævlen udvikler sig til en Blomster-megadjævel efter {EVOLVINGFAMILIAR2EVOLVETURNS} ture.
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies","Hidkalder en frøplantedjævel hver runde til en tilfældig fjende.
+Frøplantedjævlen udvikler sig til en spiredjævel efter {EVOLVINGFAMILIAR1EVOLVETURNS} runder. 
+Spiredjævlen udvikler sig til en blomstrende megadjævel efter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
 
 Frøplantedjævel: 
-{EVOLVINGFAMILIAR1ATTACK} % angreb, {EVOLVINGFAMILIAR1HEALTH} % helbred
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % helbred
 
 Spiredjævel: 
-{EVOLVINGFAMILIAR2ATTACK} % angreb, {EVOLVINGFAMILIAR2HEALTH} % helbred
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % helbred
 
 Blomstrende megadjævel: 
-{EVOLVINGFAMILIAR3ATTACK} % angreb, {EVOLVINGFAMILIAR3HEALTH} % helbred"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Hidkalder en frøplantedjævel hver tur til en tilfældig fjende.
-Frøplantedjævlen udvikler sig til en spiredjævel efter {EVOLVINGFAMILIAR1EVOLVETURNS} ture. 
-Spiredjævlen udvikler sig til en Blomster-megadjævel efter {EVOLVINGFAMILIAR2EVOLVETURNS} ture.
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % helbred"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Hidkalder en frøplantedjævel hver runde til en tilfældig fjende. Denne passive egenskab aktiveres kun én gang pr. runde for hvert hold.
+Frøplantedjævlen udvikler sig til en spiredjævel efter {EVOLVINGFAMILIAR1EVOLVETURNS} runder. 
+Spiredjævlen udvikler sig til en blomstrende megadjævel efter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
 
-Frøplantedjævel: 
-{EVOLVINGFAMILIAR1ATTACK} % angreb, {EVOLVINGFAMILIAR1HEALTH} % helbred
+Frøplantedjævel:
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % helbred
 
-Spiredjævel: 
-{EVOLVINGFAMILIAR2ATTACK} % angreb, {EVOLVINGFAMILIAR2HEALTH} % helbred
-
-Blomstrende megadjævel: 
-{EVOLVINGFAMILIAR3ATTACK} % angreb, {EVOLVINGFAMILIAR3HEALTH} % helbred"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Hidkalder en frøplantedjævel hver tur til en tilfældig fjende. Denne passive færdighed kan kun bruges én gang pr. tur af hvert team.
-Frøplantedjævlen udvikler sig til en spiredjævel efter {EVOLVINGFAMILIAR1EVOLVETURNS} ture. 
-Spiredjævlen udvikler sig til en Blomster-megadjævel efter {EVOLVINGFAMILIAR2EVOLVETURNS} ture.
-Udviklingen af djævlene bliver forsinket med {EVOLVINGFAMILIAR1TURNSDELAY} tur, hver gang de absorberer healing.
-
-Frøplantedjævel: 
-{EVOLVINGFAMILIAR1ATTACK} % angreb, {EVOLVINGFAMILIAR1HEALTH} % helbred
-
-Spiredjævel: 
-{EVOLVINGFAMILIAR2ATTACK} % angreb, {EVOLVINGFAMILIAR2HEALTH} % helbred
+Spiredjævel:
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % helbred
 
 Blomstrende megadjævel: 
-{EVOLVINGFAMILIAR3ATTACK} % angreb, {EVOLVINGFAMILIAR3HEALTH} % helbred."
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % helbred"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Hidkalder en frøplantedjævel hver runde til en tilfældig fjende. Denne passive egenskab aktiveres kun én gang pr. runde for hvert hold.
+Frøplantedjævlen udvikler sig til en spiredjævel efter {EVOLVINGFAMILIAR1EVOLVETURNS} runder. 
+Udviklingen af djævlene forsinkes med {EVOLVINGFAMILIAR2EVOLVETURNS} runde, hver gang de absorberer helbredelse.
+
+Spiredjævlen:
+ udvikler sig til en blomstrende megadjævel efter {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runder.
+
+Frøplantedjævel:
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %  helbred
+
+Spiredjævel:
+{EVOLVINGFAMILIAR2FAMILIARATTACK} %  angreb, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %  helbred
+
+Blomstrende megadjævel: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %  helbred"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Hidkalder en frøplantedjævel hver runde til en tilfældig fjende. Denne passive egenskab aktiveres kun én gang pr. runde for hvert hold.
+Frøplantedjævlen udvikler sig til en spiredjævel efter {EVOLVINGFAMILIAR1EVOLVETURNS} runder. 
+Udviklingen af djævlene forsinkes med {EVOLVINGFAMILIAR2EVOLVETURNS} runde, hver gang de absorberer helbredelse.
+
+Spiredjævlen:
+ udvikler sig til en blomstrende megadjævel efter {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runder.
+
+Frøplantedjævel:
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %  helbred
+
+Spiredjævel:
+{EVOLVINGFAMILIAR2FAMILIARATTACK} %  angreb, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %  helbred
+
+Blomstrende megadjævel: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %  helbred"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Hidkalder en frøplantedjævel hver runde til en tilfældig fjende. Denne passive egenskab aktiveres kun én gang pr. runde for hvert hold.
+Frøplantedjævlen udvikler sig til en spiredjævel efter {EVOLVINGFAMILIAR1EVOLVETURNS} runder. 
+Udviklingen af djævlene forsinkes med {EVOLVINGFAMILIAR2EVOLVETURNS} runde, hver gang de absorberer helbredelse.
+
+Spiredjævlen:
+ udvikler sig til en blomstrende megadjævel efter {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runder.
+
+Frøplantedjævel:
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %  helbred
+
+Spiredjævel:
+{EVOLVINGFAMILIAR2FAMILIARATTACK} %  angreb, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %  helbred
+
+Blomstrende megadjævel: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %  helbred"
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Når denne figur er besejret, hidkalder de slim-kæmpehåndlangere til allierede i nærheden med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb arvet af denne figur."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Når denne figur er besejret, hidkalder de slim-kæmpehåndlangere til allierede i nærheden med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb arvet af denne figur."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Når denne figur er besejret, hidkalder de slim-kæmpehåndlangere til allierede i nærheden med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb arvet af denne figur."
@@ -650,6 +412,7 @@ Blomstrende megadjævel:
 "herocard.passive_skill.description.summononsummon.activates_on_enemy_action.allies.owl.minion","Hidkalder en spurve-håndlanger, når en fjende hidkalder håndlangere ved brug af sine særlige egenskaber."
 "herocard.passive_skill.description.summononsummon.activates_on_enemy_action.enemies.cursed_sapling_parasite.minion","Når en fjende hidkalder en hvilken som helst håndlanger med en særlig egenskab, hidkalder figuren en forbandet spire-djævel til den fjende."
 "herocard.passive_skill.description.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","Når en fjende hidkalder en hvilken som helst håndlanger med en særlig egenskab, hidkalder figuren en forbandet frøplante til den fjende."
+"herocard.passive_skill.description.targetstatedependenteffectonspecial.healthboost.all.allies.fixedpower.always.checkstate.all.allies.dance","Hvis allierede danser, når denne figur kaster sin særlige egenskab, forøger det alle allieredes helbred med {HEALTHBOOST}. Boostet helbred kan overstige maks. HP."
 "herocard.passive_skill.description.taunt","Figurens særlige egenskab påvirkes ikke af hån."
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.blue","Is-skjold på brættet bliver svækket med {MODIFIER} % præcision, når denne figur bruger sin særlige evne."
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.green","Natur-skjold på brættet bliver svækket med {MODIFIER} % præcision, når denne figur bruger sin særlige evne."
@@ -661,25 +424,15 @@ Blomstrende megadjævel:
 "herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.purple","Mørke-skjold på brættet bliver styrket med {MODIFIER} % kritisk træfchance, når denne figur bruger sin særlige evne."
 "herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.red","Ild-skjold på brættet bliver styrket med {MODIFIER} % kritisk træfchance, når denne figur bruger sin særlige evne."
 "herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.yellow","Hellige skjold på brættet bliver styrket med {MODIFIER} % kritisk træfchance, når denne figur bruger sin særlige evne."
-"herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Hver gang denne figur bruger sin særlige egenskab, omdannes alle fjernbare forstærkere, der påvirker angreb, forsvar og managenerering på alle fjender, til tilsvarende statuslidelser, der ikke kan fjernes.
-
-Omdannede effekter: 
-Angrebsbuffere forvandles til {STATUSEFFECT1ATTACK} % angrebsstatuslidelser i {STATUSEFFECT1TURNS} ture.
-Forsvarsbuffere forvandles til {STATUSEFFECT2DEFENSE} % forsvarsstatuslidelser i {STATUSEFFECT2TURNS} ture.
-Managendannelsesbuffere forvandles til {STATUSEFFECT3MANAREGEN} % managendannelsesstatuslidelser  i {STATUSEFFECT3TURNS} ture."
-"herocard.passive_skill.description.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Hver gang denne figur bruger sin særlige egenskab, omdannes alle statuslidelser, der påvirker angreb, forsvar og managenerering på alle allierede, til tilsvarende forstærkere, der ikke kan fjernes.
-
-Omdannede effekter: 
-Angrebsstatuslidelser forvandles til {STATUSEFFECT1ATTACK} % angrebsbuffere i {STATUSEFFECT1TURNS} ture.
-Forsvarsstatuslidelser forvandles til {STATUSEFFECT2DEFENSE} % forsvarsbuffere i {STATUSEFFECT2TURNS} ture.
-Managendannelse-statuslidelser forvandles til {STATUSEFFECT3MANAREGEN} % managendannelsesbuffere i {STATUSEFFECT3TURNS} ture."
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Hver gang denne karakter bruger sin særlige egenskab, forvandles alle ophævede forstærkere, der påvirker angreb, forsvar og managendannelse for alle fjender, til tilsvarende uophævelige statuslidelser."
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Hver gang denne karakter bruger sin særlige egenskab, forvandles alle ophævede forstærkere, der påvirker angreb, forsvar og managendannelse for alle fjender, til tilsvarende uophævelige statuslidelser."
 "herocard.passive_skill.description.wither.all.enemies","Grundangreb og -forsvar for alle fjender formindskes med {STATINCREASE} for hver runde i {MAXACTIVATIONCOUNT} runder."
 "herocard.passive_skill.inactive","INAKTIV: Aktiveres ved maks. niveau og fuld forfremmelse."
 "herocard.passive_skill.replace.minordebuff.attackmodifier.to.minorbuff.attackmodifier","Angrebsstatuslidelser til {ATTACK} % angreb i {TURNS} ture."
 "herocard.passive_skill.replace.minordebuff.buffimmunity.to.minorbuff.debuffshield","Bufferimmunitetsstatuslidelser til statuslidelsesimmunitet i {TURNS} ture."
 "herocard.passive_skill.replace.minordebuff.defensemodifier.to.minorbuff.defensemodifier","Forsvarsstatuslidelser til {DEFENSE} % forsvar i {TURNS} ture."
 "herocard.passive_skill.replace.minordebuff.healingmodifier.to.minorbuff.healmultiplier","Helbredelsesreduktioner til {HEALING} % øget helbredelse i {TURNS} ture."
-"herocard.passive_skill.replace.minordebuff.managenerationmodifier.to.minorbuff.managenerationmodifier","Managendannelseslidelser til gendannelse af {MANAREGEN} % mana i {TURNS} ture."
+"herocard.passive_skill.replace.minordebuff.manaeffect.to.minorbuff.managenerationmodifier","Manapåvirkning til gendannelse af {MANAREGEN} % mana i {TURNS} runder."
 "herocard.passive_skill.replace.minordebuff.receiveddamagemodifier.to.minorbuff.receiveddamagemodifier","Skadeforøgelseslidelser til {DAMAGEREDUCTION} % skadesreduktion i {TURNS} ture."
 "herocard.passive_skill.replace.minordebuff.statuseffectreflect.to.minorbuff.reflectminordebuffs","Bufferrefleksionslidelser til statuslidelsesrefleksionsbuffere i {TURNS} ture."
 "herocard.passive_skill.replace_direct_effect.attackwither","Angrebsvisning til angrebsvækst: {FIXEDPOWER} angreb."
@@ -712,7 +465,8 @@ Managendannelse-statuslidelser forvandles til {STATUSEFFECT3MANAREGEN} % manage
 "herocard.passive_skill.title.criticalmodifiersupportcharacter.troop","Kritisk modifikator"
 "herocard.passive_skill.title.critmodifier","Modifikation for kritisk chance"
 "herocard.passive_skill.title.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Brændemærket af De Ældste"
-"herocard.passive_skill.title.dealtdamagemodifieragainststatuseffect.bloodlily.stacks","Rødt mærke"
+"herocard.passive_skill.title.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single","Rødt mærke"
+"herocard.passive_skill.title.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all","Vild danser"
 "herocard.passive_skill.title.dealtstrongelementtroopdamage","Troppeekspert"
 "herocard.passive_skill.title.debuffdamagereduction","Statuslidelse: Skadesreduktion"
 "herocard.passive_skill.title.debuffdamagereductionsupportcharacter.troop","Statuslidelse: Skadesreduktion"
@@ -828,6 +582,7 @@ Managendannelse-statuslidelser forvandles til {STATUSEFFECT3MANAREGEN} % manage
 "herocard.passive_skill.title.ransack","Tyvens mulighed"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Stjæl buffer"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","Jagtinstinkt"
+"herocard.passive_skill.title.received_strong_troop_damage_pve","Reduktion af troppeskade"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Troppeekspert"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Stærk forøgelse af ildkugleskade"
 "herocard.passive_skill.title.redirectlethaldamage.enemies.single","Snyd døden"
@@ -935,7 +690,10 @@ Smidig"
 "herocard.passive_skill.title.stylish","Smart!"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","Frøplantefremkalder"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Frøplantefremkalder"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Frøplantefremkalder"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Frøplantefremkalder"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Frøplantefremkalder"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Frøplantefremkalder"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Slimhåndlanger ved nederlag"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Slimhåndlanger ved nederlag"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Slimhåndlanger ved nederlag"
@@ -952,6 +710,7 @@ Smidig"
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.allies.owl.minion","Spurvehidkalder"
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.cursed_sapling_parasite.minion","Forbandet spire-djævel-hidkalder"
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","Frøplantefremkalder"
+"herocard.passive_skill.title.targetstatedependenteffectonspecial.healthboost.checkstate.all.allies.dance","Yndefuld danser"
 "herocard.passive_skill.title.taunt","Ignorer hån"
 "herocard.passive_skill.title.titan_dread_damage_minions","Gru"
 "herocard.passive_skill.title.titan_dread_damage_minions_15","Gru"

@@ -50,6 +50,8 @@
 "herocard.family.title.fleur_de_sang_pve_tier3.short","Fleur de Sang"
 "herocard.family.title.forsaken","Famiglia Abbandonati"
 "herocard.family.title.forsaken.short","Abbandonati"
+"herocard.family.title.fortune","Famiglia Danzatori della fortuna"
+"herocard.family.title.fortune.short","Fortuna"
 "herocard.family.title.fox","Famiglia Volpi"
 "herocard.family.title.fox.short","Volpi"
 "herocard.family.title.gargoyle","Famiglia Gargoyle"

@@ -36,7 +36,8 @@ SPECIAL_TIMESTAMP_KEYS = (
     "latestIncludedHeroDate",
     "featuredHeroRotationReferenceTime",
     "featuredHeroRotationDuration",
-    "referenceDate"
+    "referenceDate",
+    "upgradeToElitePassActivationTime"
 )
 SPECIAL_BOOLEAN_TRUE_KEYS = (
     "hasImprovedTalentSkill",
@@ -264,6 +265,8 @@ def read_value(data, offset, type_code):
         return read_short(data, offset)
     elif type_code == 0x05:
         return read_int(data, offset)
+    elif type_code == 0x06:  # 添加对 0x06 的处理
+        return read_long(data, offset)
     elif type_code in (0x03, 0x67):
         return data[offset], offset + 1
     elif type_code == 0x02:

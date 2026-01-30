@@ -3,7 +3,7 @@
 "herocard.passive_skill.description.bleed.effectondamageovertime.activates_on_enemy_action.heal.fixedpower","Este personagem recupera {POWER} de PV sempre que um inimigo sofre dano de Sangramento."
 "herocard.passive_skill.description.burn.effectondamageovertime.activates_on_enemy_action.addmana","Este personagem ganha {POWER}% de mana sempre que um inimigo sofre dano de queimadura."
 "herocard.passive_skill.description.bypassfamiliars.minion","O dano causado por este personagem não afeta ajudantes."
-"herocard.passive_skill.description.bypassfamiliars.minion.bigminion","O dano causado por este personagem não afeta ajudantes e ajudantes mega."
+"herocard.passive_skill.description.bypassfamiliars.minion.bigminion","O dano causado por este personagem não afeta ajudantes e mega-ajudantes."
 "herocard.passive_skill.description.caststatuseffectdurationmodifier","Chance de aumentar a duração dos efeitos de status lançados."
 "herocard.passive_skill.description.caststatuseffectdurationmodifier.turns_with_chance","{0} turnos: {1}%"
 "herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier","Quando tem qualquer quantidade de Impulso de Voo, este personagem recebe:
@@ -18,20 +18,21 @@ No momento, este personagem tem:
 "herocard.passive_skill.description.conditionaleffectovertime.revival.all.allies.while.single.allies.hasdeadallies","Revive todos os aliados derrotados com {POWER}% de PV a cada {TURNS}."
 "herocard.passive_skill.description.conditionaleffectovertime.revival.neartotargetexceptcaster.allies.while.single.allies.hasdeadallies","Revive os aliados derrotados próximos com {POWER}% de PV a cada {TURNS}."
 "herocard.passive_skill.description.conditionaleffectovertime.usable_once.heal.addmana.everyturn.while.single.allies.lowhealth","Quando inicia um turno com pouca vida pela primeira vez em uma batalha, este personagem recupera {HEALTH}% de vida e recebe {MANA}% de mana."
-"herocard.passive_skill.description.convertincomingdamagetoheal.all.statuseffect","Em vez de receber dano de um mal de status, este personagem recupera o equivalente de vida."
-"herocard.passive_skill.description.convertincomingdamagetoheal.statuseffect","Em vez de receber dano de um mal de status, este personagem recupera vida. A cura é equivalente a {MULTIPLIER}% do dano."
+"herocard.passive_skill.description.convertincomingdamagetoheal.all.statuseffect","Em vez de receber dano de um mal de status ou acumulação negativa, este personagem recupera o equivalente de vida."
+"herocard.passive_skill.description.convertincomingdamagetoheal.statuseffect","Em vez de receber dano de um mal de status ou acumulação negativa, este personagem recupera vida. A cura é equivalente a {MULTIPLIER}% do dano."
 "herocard.passive_skill.description.criticalmodifiersupportcharacter.troop","{CRITICALMODIFIER}% de chance crítica."
 "herocard.passive_skill.description.damage.all.enemies","Causa {DAMAGE}% de dano a todos os inimigos."
-"herocard.passive_skill.description.damagefamiliarsovertime.all.enemies.minion.bigminion","Causa {DAMAGEPERTURN} de dano a todos os ajudantes e ajudantes mega inimigos a cada {TURNS} turnos."
-"herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.bigminion.minion","Causa {DAMAGEPERTURN} de dano a todos os ajudantes e ajudantes mega inimigos no início de cada turno."
-"herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion","Causa {DAMAGEPERTURN} de dano a todos os ajudantes e ajudantes mega inimigos no início de cada turno."
+"herocard.passive_skill.description.damagefamiliarsovertime.all.enemies.minion.bigminion","Causa {DAMAGEPERTURN} de dano a todos os ajudantes e mega-ajudantes inimigos a cada {TURNS} turnos."
+"herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.bigminion.minion","Causa {DAMAGEPERTURN} de dano a todos os ajudantes e mega-ajudantes inimigos no início de cada turno."
+"herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion","Causa {DAMAGEPERTURN} de dano a todos os ajudantes e mega-ajudantes inimigos no início de cada turno."
 "herocard.passive_skill.description.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Todo o dano de ataques normais e habilidades especiais causado por este personagem aumenta em {DAMAGEINCREASEPERSTEP}% por {INSANITYPERSTEP} Insanidade do personagem, até o limite de {MAXDAMAGEINCREASE}%."
-"herocard.passive_skill.description.dealtdamagemodifieragainststatuseffect.bloodlily.stacks.troop.specialskill.npcnormalattack.add_modifier_per_stack","Todo o dano de ataques normais e habilidades especiais causado por este personagem aumenta em {MODIFIER}% por acúmulo de Lírio de Sagngue do alvo."
-"herocard.passive_skill.description.dealtstrongelementsupportcharacterdamage.increase","As Tropas deste herói causam dano de elemental extra contra o elemento mais fraco.
+"herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single.troop.specialskill.npcnormalattack.add_modifier_per_stack","Todo o dano de ataques normais e habilidades especiais causado por este personagem aumenta em {MODIFIER}% por acúmulo de Lírio de Sagngue do alvo."
+"herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all.specialskill.any","Quando algum aliado está dançando, a habilidade especial deste personagem causa {MODIFIERCHANGE}% mais dano."
+"herocard.passive_skill.description.dealtstrongelementsupportcharacterdamage.increase","As tropas deste personagem causam mais dano contra o elemento mais fraco.
 
-Dano elemental extra causado: +{MODIFIER}%"
-"herocard.passive_skill.description.debuffdamagereduction","Dano causado por males de status reduzido em {DAMAGEREDUCTION}%"
-"herocard.passive_skill.description.debuffdamagereductionsupportcharacter.troop","Males de status causam {DAMAGEREDUCTION}% menos dano a este personagem."
+ Dano extra: +{MODIFIER}%"
+"herocard.passive_skill.description.debuffdamagereduction","Dano causado por males de status e acumulações negativas reduzido em {DAMAGEREDUCTION}%"
+"herocard.passive_skill.description.debuffdamagereductionsupportcharacter.troop","Males de status e acumulações negativas causam {DAMAGEREDUCTION}% menos dano a este personagem."
 "herocard.passive_skill.description.destructivecoreintrinsicchargeeffectonspecial.damage.all.enemies.always","O Núcleo de Construto deste personagem é um Núcleo Destrutivo.
 
 O Núcleo Destrutivo é ativado a cada vez que a habilidade especial deste personagem é lançada:
@@ -104,17 +105,17 @@ Limite de {MAXMANAGAINPERTURN}% de mana por turno."
 "herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.healthboost.fixedpower.enemies.parasite","Quando um demônio é convocado para qualquer inimigo, este personagem recebe {POWER} de vida reforçada. Este efeito pode ser ativado uma vez por turno."
 "herocard.passive_skill.description.extraactionsafterspecial","{CHANCE}% de chance de realizar ações adicionais quando este personagem usa a habilidade especial:"
 "herocard.passive_skill.description.familiaraccuracymodifier.all.enemies.minion.bigminion"," Todos os ajudantes dos inimigos têm {MINIONMODIFIER}% de precisão.
- Todos os ajudantes mega dos inimigos têm {MEGAMINIONMODIFIER}% de precisão."
+ Todos os mega-ajudantes dos inimigos têm {MEGAMINIONMODIFIER}% de precisão."
 "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","O núcleo de construto deste personagem é um núcleo de ajudante.
 
 O núcleo de ajudante é ativado sempre que a habilidade especial deste personagem é lançada:
 
  Com um núcleo de ajudante totalmente carregado, convoca um ajudante Bot Assassino com {FAMILIARHEALTHPERCENT}% de HP e {FAMILIARATTACK}% de ataque do invocador para todos os aliados.
  O total de PV e ataque herdados do invocador são calculados de acordo com a quantidade de carga do núcleo. Toda a carga é consumida quando o núcleo é ativado.
- Antes de atingir um alvo, o Bot Assassino destrói todos os ajudantes do alvo e causa dano aos ajudantes mega."
-"herocard.passive_skill.description.familiarhealthmodifier.all.enemies.bigminion.decrease","Os ajudantes mega inimigos têm {HEALTHMODIFIER}% de PV."
+ Antes de atingir um alvo, o Bot Assassino destrói todos os ajudantes do alvo e causa dano aos mega-ajudantes."
+"herocard.passive_skill.description.familiarhealthmodifier.all.enemies.bigminion.decrease","Os mega-ajudantes inimigos têm {HEALTHMODIFIER}% de PV."
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.minion.decrease","Os ajudantes inimigos têm {HEALTHMODIFIER}% de PV."
-"herocard.passive_skill.description.familiarsilencer.all.enemies.bigminion","Os ajudantes mega inimigos não podem atacar nem usar habilidades."
+"herocard.passive_skill.description.familiarsilencer.all.enemies.bigminion","Os mega-ajudantes inimigos não podem atacar nem usar habilidades."
 "herocard.passive_skill.description.familiarsilencer.all.enemies.minion.follower","Os ajudantes inimigos não podem atacar nem usar habilidades."
 "herocard.passive_skill.description.frost.effectondamageovertime.activates_on_enemy_action.addmana","Este personagem ganha {POWER}% de mana sempre que um inimigo recebe dano de neve."
 "herocard.passive_skill.description.growth","O ataque básico e a defesa básica deste Herói aumentam em {STATINCREASE} a cada turno por {MAXACTIVATIONCOUNT} turnos."
@@ -132,7 +133,7 @@ O núcleo de ajudante é ativado sempre que a habilidade especial deste personag
 "herocard.passive_skill.description.increasedattackperelement.enemies.not.red","No início de cada batalha, o ataque deste personagem é aumentado em {ATTACK}% para cada inimigo que não for do elemento Fogo. Nas batalhas com várias ondas, o efeito é reaplicado no início de cada onda."
 "herocard.passive_skill.description.increasedattackperelement.enemies.not.red.battle","O ataque deste personagem é aumentado em {ATTACK}% para cada inimigo vivo que não for do elemento Fogo. O efeito é reaplicado no início de cada onda. (Atualmente: {CURRENTMODIFIER}%)"
 "herocard.passive_skill.description.increaseddamageagainstfamiliars.minion","Causa {DAMAGEMULTIPLIER}% mais dano a ajudantes."
-"herocard.passive_skill.description.increaseddamageagainstfamiliars.minion.bigminion","Este personagem causa {DAMAGEMULTIPLIER}% de dano a todos os ajudantes e ajudantes mega."
+"herocard.passive_skill.description.increaseddamageagainstfamiliars.minion.bigminion","Este personagem causa {DAMAGEMULTIPLIER}% de dano a todos os ajudantes e mega-ajudantes."
 "herocard.passive_skill.description.increasedspecialdamageagainsttaunt.taunt","Os acertos da habilidade especial deste personagem são {POWERADDITION}% potentes quando o alvo tem Provocar."
 "herocard.passive_skill.description.increasespecialdamage","Nas primeiras {MAXACTIVATIONCOUNT} vezes que lança uma habilidade especial que causa dano, este personagem ganha {POWERADDITION}% de poder."
 "herocard.passive_skill.description.increasespecialdamage.usable_once","Ao lançar pela primeira vez uma habilidade especial que cause dano, este personagem ganha {POWERADDITION}% de poder."
@@ -155,278 +156,7 @@ O núcleo de ajudante é ativado sempre que a habilidade especial deste personag
 "herocard.passive_skill.description.memorizestatuseffects","Este personagem tem a capacidade inata de Memorizar males de status. O último mal de status lançado no personagem é memorizado até que a habilidade especial seja lançada. Apenas males de status com duração limitada podem ser memorizados."
 "herocard.passive_skill.description.memorizestatuseffects#2","Este personagem tem a capacidade inata de memorizar males de status. Os últimos {0} males de status lançados no personagem são memorizados até que a habilidade especial seja lançada. Apenas males de status com duração limitada podem ser memorizados."
 "herocard.passive_skill.description.memorizestatuseffects#3","Este personagem tem a capacidade inata de memorizar males de status. Os últimos {0} males de status lançados no personagem são memorizados até que a habilidade especial seja lançada. Apenas males de status com duração limitada podem ser memorizados."
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_blue","Esta mimese dá a chance de encontrar espólios adicionais ao completar fases:
-
-*****
- Éter Alfa
- Éter de Gelo III
-
-****
- Éter de Gelo II
-
-***
- Éter de Gelo I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_green","Esta mimese dá a chance de encontrar espólios adicionais ao completar fases:
-
-*****
- Éter Alfa
- Éter de Natureza III
-
-****
- Éter de Natureza II
-
-***
- Éter de Natureza I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_purple","Esta mimese dá a chance de encontrar espólios adicionais ao completar fases:
-
-*****
- Éter Alfa
- Éter de Trevas III
-
-****
- Éter de Trevas II
-
-***
- Éter de Trevas I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_red","Esta mimese dá a chance de encontrar espólios adicionais ao completar fases:
-
-*****
- Éter Alfa
- Éter de Fogo III
-
-****
- Éter de Fogo II
-
-***
- Éter de Fogo I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_yellow","Esta mimese dá a chance de encontrar espólios adicionais ao completar fases:
-
-*****
- Éter Alfa
- Éter de Luz III
-
-****
- Éter de Luz II
-
-***
- Éter de Luz I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_blue","Esta mimese dá a chance de encontrar espólios adicionais ao completar fases:
-
-****
- Lâmina damasco
- Tomo de tática
- Telescópio da visão
-
-***
- Luvas excelentes
- Bússola
- Capa aconchegante
- Manual de batalha
- Botas altas
- Cota de malha
-
-**
- Corda forte"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_epic_yellow","Esta mimese dá a chance de encontrar espólios adicionais ao completar fases:
-
-***
- Lâmina oculta
- Orbe da magia
- Escudo robusto
- Ferramenta de armadilhas
- Capa aconchegante
- Manual de batalha 
- Cota de malha
- Bainha
- Botas altas
-
-**
- Escritos arcanos
- Adaga
- Armadura de couro
- Pedra de amolar
- Corda forte
- Escudo de madeira
-
-*
- Kit do aventureiro
- Espada de treino
- Roupas resistentes"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_green","Esta mimese dá a chance de encontrar espólios adicionais ao completar fases:
-
-****
- Lâmina damasco
- Tomo de tática
- Tônico misterioso
-
-***
- Luvas excelentes
- Bússola
- Escudo robusto
- Botas altas
- Bainha
-
-**
- Corda forte
- Adaga"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_purple","Esta mimese dá a chance de encontrar espólios adicionais ao completar fases:
-
-****
- Lâmina damasco
- Tomo de tática
- Tabardo real
-
-***
- Luvas excelentes
- Bússola
- Ferramentas de armadilha
- Botas altas
- Bainha
-
-**
- Corda forte
- Adaga"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_red","Esta mimese dá a chance de encontrar espólios adicionais ao completar fases:
-
-****
- Lâmina damasco
- Tomo de tática
- Anéis místicos
-
-***
- Luvas excelentes
- Bússola
- Lâmina oculta
- Cota de malha
- Botas altas
-
-**
- Escrito arcano"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_yellow","Esta mimese dá a chance de encontrar espólios adicionais ao completar fases:
-
-****
- Lâmina damasco
- Tomo de tática
- Dardos venenosos
-
-***
- Luvas excelentes
- Bússola
- Orbe da magia
- Cota de malha
- Botas altas
-
-**
- Escrito arcano"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_blue","Esta mimese dá a chance de encontrar espólios adicionais ao completar fases:
-
-*****
- Emblemas de Feiticeiro Mestre
- Emblemas de Bruxo Mestre
-
-****
- Emblemas de Feiticeiro
- Emblemas de Bruxo"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_green","Esta mimese dá a chance de encontrar espólios adicionais ao completar fases:
-
-*****
- Emblemas de Paladino Mestre
- Emblemas de Druida Mestre
-
-****
- Emblemas de Paladino
- Emblemas de Druida"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_purple","Esta mimese dá a chance de encontrar espólios adicionais ao completar fases:
-
-*****
- Emblemas de Ladino Mestre
- Emblemas de Patrulheiro Mestre
-
-****
- Emblemas de Ladino
- Emblemas de Patrulheiro"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_red","Esta mimese dá a chance de encontrar espólios adicionais ao completar fases:
-
-*****
- Emblemas de Guerreiro Mestre
- Emblemas de Bárbaro Mestre
-
-****
- Emblemas de Guerreiro
- Emblemas de Bárbaro"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_yellow","Esta mimese dá a chance de encontrar espólios adicionais ao completar fases:
-
-*****
- Emblemas de Clérigo Mestre
- Emblemas de Monge Mestre
-
-****
- Emblemas de Clérigo
- Emblemas de Monge"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_experience_rare_red","Esta mimese dá a chance de encontrar espólios adicionais ao completar fases:
-
-**
- Heróis incomuns de Fogo, Natureza, Gelo, Trevas e Luz
-
-*
- Heróis de treino mestres comuns
- Heróis comuns de Fogo, Natureza, Gelo, Trevas e Luz"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_blue","Esta mimese dá a chance de encontrar espólios adicionais ao completar fases:
-
-***
- Heróis de treino de Gelo raros
-
-**
- Heróis de treino de Gelo incomuns
- Heróis de Gelo incomuns
- 
- Heróis de treino de Gelo comuns
- Heróis de Gelo comuns"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_green","Esta mimese dá a chance de encontrar espólios adicionais ao completar fases:
-
-***
- Heróis de treino de Natureza raros
-
-**
- Heróis de treino de Natureza incomuns
- Heróis de Natureza incomuns
- 
-*
- Heróis de treino de Natureza comuns
- Heróis de Natureza comuns"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_purple","Esta mimese dá a chance de encontrar espólios adicionais ao completar fases:
-
-***
- Heróis de treino de Trevas raros
-
-**
- Heróis de treino de Trevas incomuns
- Heróis de Trevas incomuns
- 
- Heróis de Trevas comuns
- Heróis de treino de Trevas comuns"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_red","Esta mimese dá a chance de encontrar espólios adicionais ao completar fases:
-
-***
- Heróis de treino de Fogo raros
-
-**
- Heróis de treino de Fogo incomuns
- Heróis de Fogo incomuns
- 
- Heróis de treino de Fogo comuns
- Heróis de Fogo comuns"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_yellow","Esta mimese dá a chance de encontrar espólios adicionais ao completar fases:
-
-***
- Heróis de treino de Luz raros
-
-**
- Heróis de treino de Luz incomuns
- Heróis de Luz incomuns
- 
- Heróis de treino de Luz comuns
- Heróis de Luz comuns"
+"herocard.passive_skill.description.mimiclootonlevelcompleted","Cada mimese diferente da equipe permite receber mais espólios ao completar fases. Esta mimese dá a chance de receber os seguintes espólios adicionais:"
 "herocard.passive_skill.description.nevermissspecial","A habilidade especial deste personagem nunca erra os alvos."
 "herocard.passive_skill.description.ransack","No início de cada turno, este personagem saqueia um inimigo aleatório:
 
@@ -442,10 +172,10 @@ Saquear:
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","Quando este personagem lança a habilidade especial, tem {CHANCE}% de chance de roubar o reforço dissipável mais recente de um inimigo aleatório com reforços. Quando o inimigo não tem reforços, causa {DAMAGE}% do dano a todos os aliados."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.heal.always.minordebuff.newest","Quando este personagem lança a habilidade especial, transfere o mal de status expurgável mais recente de si mesmo para o alvo. Quando a habilidade especial não tem um alvo específico, um inimigo aleatório é escolhido. Quando não tem males de status expurgáveis, este personagem recupera {HEALTH}% de vida."
 "herocard.passive_skill.description.receivedeffectreplacement.minordebuff","{REPLACEMENTCHANCE}% de chance de substituir efeitos negativos por efeitos positivos correspondentes."
-"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","Este herói recebe menos dano elemental de Tropas de elemento mais forte.
+"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","Este personagem recebe menos dano de tropas do elemento mais forte.
 
-Dano elemental recebido: -{MODIFIER}%"
-"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.combined","{MODIFIER}% menos dano elemental recebido de Tropas do elemento mais forte."
+D ano recebido: -{MODIFIER}%"
+"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.combined","{MODIFIER}% menos dano recebido de tropas do elemento mais forte."
 "herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.increase.dragon","{MODIFIER}% mais dano elemental recebido de bolas de fogo do elemento mais forte."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single","Em vez de receber dano fatal pela primeira vez, este personagem redireciona o dano a um inimigo aleatório.
 
@@ -484,7 +214,7 @@ Isso inclui:
 Isso inclui males e reforços de efeitos de status, acumulações positivas e negativas e os efeitos Atrofia e Crescimento."
 "herocard.passive_skill.description.resist.allmanaeffects.alldebuffs","Este personagem é imune a males de status e acumulações negativas que afetam a geração de mana. Também se aplica a males de status que bloqueiam mana ou roubam mana."
 "herocard.passive_skill.description.resist.allmanaeffects.manareduction.alldebuffs","Este personagem é imune reduções de mana, assim como males de status e acumulações negativas que afetam a geração de mana. Também se aplica a efeitos e males de status que bloqueiam mana ou roubam mana."
-"herocard.passive_skill.description.resist.allstatuseffectdamage.none","Este personagem é imune ao dano de efeitos de status."
+"herocard.passive_skill.description.resist.allstatuseffectdamage.none","Este personagem é imune ao dano de efeitos de status e acumulações."
 "herocard.passive_skill.description.resist.attackdelay","O ataque normal deste personagem não pode ser atrasado."
 "herocard.passive_skill.description.resist.attackdelay.alldebuffs","O ataque normal deste personagem não pode ser atrasado."
 "herocard.passive_skill.description.resist.attackmodifiers","Este personagem é imune a males de status afetam o ataque."
@@ -530,9 +260,9 @@ Isso inclui males e reforços de efeitos de status, acumulações positivas e ne
 "herocard.passive_skill.description.resistdebuffsfromfamiliars.minion","Este personagem é imune a males de status aplicados por ajudantes."
 "herocard.passive_skill.description.resistfamiliarremoval.minion.bigminion","Este personagem é imune a efeitos que removeriam ajudantes dele."
 "herocard.passive_skill.description.resistnegativefamiliareffects.minion","Este personagem é imune a efeitos negativos e dano de ajudantes."
-"herocard.passive_skill.description.resistnegativefamiliareffects.minion.bigminion","Este personagem é imune a efeitos negativos e dano de ajudantes e ajudantes mega."
+"herocard.passive_skill.description.resistnegativefamiliareffects.minion.bigminion","Este personagem é imune a efeitos negativos e dano de ajudantes e mega-ajudantes."
 "herocard.passive_skill.description.resistnewfamiliars.parasite","Este personagem não pode receber demônios."
-"herocard.passive_skill.description.resistnewfamiliars.parasite.bigparasite","Este personagem não pode receber demônios nem demônios mega."
+"herocard.passive_skill.description.resistnewfamiliars.parasite.bigparasite","Este personagem não pode receber demônios nem megademônios."
 "herocard.passive_skill.description.resistsupportcharacter.troop.alldebuffs.with_chance","{CHANCE}% de chance de resistir a todos os males de status."
 "herocard.passive_skill.description.revivalchancemodifier.all.enemies","A chance de reviver diminui para todos os inimigos na batalha, tornando-se equivalente a {MODIFIER}% do valor original."
 "herocard.passive_skill.description.revivalhealthmodifier.all.enemies.excluding.boss","Todos os inimigos têm {HEALTHMODIFIER}% de vida quando revividos. Os chefes inimigos não são afetados."
@@ -559,6 +289,9 @@ O Hospedeiro Místico tem:
 {ALTERNATIVEFORMSPECIALTITLE}
 {ALTERNATIVEFORMSPECIALDESCRIPTION}"
 "herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance"," Quando é derrotado, este personagem tem {TOTALCHANCE}% de chance de reviver no início do turno seguinte com {HEALTH}% de vida e {MANA}% de mana.
+
+ Limite de {MAXACTIVATIONCOUNT} ativações. A chance de reviver diminui a cada ativação. Males de status e habilidades passivas não previnem o efeito."
+"herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance.ignoresreviveblockingdebuffs"," Quando é derrotado, este personagem tem {TOTALCHANCE}% de chance de reviver no início do turno seguinte com {HEALTH}% de vida e {MANA}% de mana.
 
  Limite de {MAXACTIVATIONCOUNT} ativações. A chance de reviver diminui a cada ativação. Males de status e habilidades passivas não previnem o efeito."
 "herocard.passive_skill.description.setstatuseffectdurationonaddition.all.allies.activates_on_ally_action.alldebuffs.dance","Todas as Baladas lançadas por inimigos duram apenas {TURNS} turno."
@@ -597,57 +330,87 @@ O Hospedeiro Místico tem:
 "herocard.passive_skill.description.statuseffectselection.usable_once.select_element_status_effect","Uma vez por batalha, é possível mudar o Elemento deste Herói para o Elemento escolhido por {TURNS} turnos. Para fazer isso é preciso tocar no Herói quando o mana dele não estiver cheio."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies","Convoca um demônio Seedling a cada turno para um inimigo aleatório.
  O demônio Muda se transforma em demônio Broto após  {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
- O demônio Broto se transforma em demônio mega Florescência após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
+ O demônio Broto se transforma em megademônio Florescência após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
 
 Demônio Muda: 
-{EVOLVINGFAMILIAR1ATTACK}% de ataque, {EVOLVINGFAMILIAR1HEALTH}% de vida
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% de vida
 
 Demônio Broto: 
-{EVOLVINGFAMILIAR2ATTACK}% de ataque, {EVOLVINGFAMILIAR2HEALTH}% de vida
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% de vida
 
-Demônio mega Florescência: 
-{EVOLVINGFAMILIAR3ATTACK}% de ataque, {EVOLVINGFAMILIAR3HEALTH}% de vida"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Convoca um demônio Seedling a cada turno para um inimigo aleatório.
+Megademônio Broto: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% de vida"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Convoca um demônio Seedling a cada turno para um inimigo aleatório. Essa habilidade passiva é ativada uma vez por turno para cada equipe.
  O demônio Muda se transforma em demônio Broto após  {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
- O demônio Broto se transforma em demônio mega Florescência após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
+ O demônio Broto se transforma em megademônio Florescência após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
 
 Demônio Muda:
-{EVOLVINGFAMILIAR1ATTACK}% de ataque, {EVOLVINGFAMILIAR1HEALTH}% de vida
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% de vida
 
 Demônio Broto:
-{EVOLVINGFAMILIAR2ATTACK}% de ataque, {EVOLVINGFAMILIAR2HEALTH}% de vida
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% de vida
 
-Demônio mega Florescência:
-{EVOLVINGFAMILIAR3ATTACK}% de ataque, {EVOLVINGFAMILIAR3HEALTH}% de vida"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Convoca um demônio Seedling a cada turno para um inimigo aleatório.
+Megademônio Broto:
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% de vida"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Convoca um demônio Seedling a cada turno para um inimigo aleatório. Essa habilidade passiva é ativada uma vez por turno para cada equipe.
  O demônio Muda se transforma em demônio Broto após  {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
- O demônio Broto se transforma em demônio mega Florescência após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
- A evolução dos demônios é atrasada em {EVOLVINGFAMILIAR1TURNSDELAY} turno cada vez que eles absorvem cura.
+ O demônio Broto se transforma em megademônio Florescência após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos. A evolução dos demônios é atrasada em {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que eles absorvem cura.
+
+
 
 Demônio Muda:
-{EVOLVINGFAMILIAR1ATTACK}% de ataque, {EVOLVINGFAMILIAR1HEALTH}% de vida
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% de vida
 
 Demônio Broto:
-{EVOLVINGFAMILIAR2ATTACK}% de ataque, {EVOLVINGFAMILIAR2HEALTH}% de vida
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% de vida
 
-Demônio mega Florescência:
-{EVOLVINGFAMILIAR3ATTACK}% de ataque, {EVOLVINGFAMILIAR3HEALTH}% de vida"
-"herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Quando é derrotado, este personagem convoca ajudantes mega Gosma para os aliados próximos com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque deste personagem."
-"herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Quando é derrotado, este personagem convoca ajudantes mega Gosma para os aliados próximos com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque deste personagem."
-"herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Quando é derrotado, este personagem convoca ajudantes mega Gosma para os aliados próximos com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque deste personagem."
-"herocard.passive_skill.description.summononownerdeath.slime_big_minion_red.neartotargetexceptcaster.allies","Quando é derrotado, este personagem convoca ajudantes mega Gosma para os aliados próximos com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque deste personagem."
-"herocard.passive_skill.description.summononownerdeath.slime_big_minion_yellow.neartotargetexceptcaster.allies","Quando é derrotado, este personagem convoca ajudantes mega Gosma para os aliados próximos com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque deste personagem."
-"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_blue","Quando perde mais de {DAMAGETHRESHOLD}% do limite de vida de uma vez, este personagem convoca um ajudante mega Gosma para si mesmo com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque."
-"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_green","Quando perde mais de {DAMAGETHRESHOLD}% do limite de vida de uma vez, este personagem convoca um ajudante mega Gosma para si mesmo com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque."
-"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_purple","Quando perde mais de {DAMAGETHRESHOLD}% do limite de vida de uma vez, este personagem convoca um ajudante mega Gosma para si mesmo com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque."
-"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_red","Quando perde mais de {DAMAGETHRESHOLD}% do limite de vida de uma vez, este personagem convoca um ajudante mega Gosma para si mesmo com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque."
-"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_yellow","Quando perde mais de {DAMAGETHRESHOLD}% do limite de vida de uma vez, este personagem convoca um ajudante mega Gosma para si mesmo com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque."
+Megademônio Broto:
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% de vida"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Convoca um demônio Seedling a cada turno para um inimigo aleatório. Essa habilidade passiva é ativada uma vez por turno para cada equipe.
+ O demônio Muda se transforma em demônio Broto após  {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
+ O demônio Broto se transforma em megademônio Florescência após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos. A evolução dos demônios é atrasada em {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que eles absorvem cura.
+
+
+
+Demônio Muda:
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% de vida
+
+Demônio Broto:
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% de vida
+
+Megademônio Broto:
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% de vida"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Convoca um demônio Seedling a cada turno para um inimigo aleatório. Essa habilidade passiva é ativada uma vez por turno para cada equipe.
+ O demônio Muda se transforma em demônio Broto após  {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
+ O demônio Broto se transforma em megademônio Florescência após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos. A evolução dos demônios é atrasada em {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que eles absorvem cura.
+
+
+
+Demônio Muda:
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% de vida
+
+Demônio Broto:
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% de vida
+
+Megademônio Broto:
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% de vida"
+"herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Quando é derrotado, este personagem convoca mega-ajudantes Gosma para os aliados próximos com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque deste personagem."
+"herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Quando é derrotado, este personagem convoca mega-ajudantes Gosma para os aliados próximos com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque deste personagem."
+"herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Quando é derrotado, este personagem convoca mega-ajudantes Gosma para os aliados próximos com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque deste personagem."
+"herocard.passive_skill.description.summononownerdeath.slime_big_minion_red.neartotargetexceptcaster.allies","Quando é derrotado, este personagem convoca mega-ajudantes Gosma para os aliados próximos com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque deste personagem."
+"herocard.passive_skill.description.summononownerdeath.slime_big_minion_yellow.neartotargetexceptcaster.allies","Quando é derrotado, este personagem convoca mega-ajudantes Gosma para os aliados próximos com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque deste personagem."
+"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_blue","Quando perde mais de {DAMAGETHRESHOLD}% do limite de vida de uma vez, este personagem convoca um mega-ajudante Gosma para si mesmo com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque."
+"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_green","Quando perde mais de {DAMAGETHRESHOLD}% do limite de vida de uma vez, este personagem convoca um mega-ajudante Gosma para si mesmo com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque."
+"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_purple","Quando perde mais de {DAMAGETHRESHOLD}% do limite de vida de uma vez, este personagem convoca um mega-ajudante Gosma para si mesmo com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque."
+"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_red","Quando perde mais de {DAMAGETHRESHOLD}% do limite de vida de uma vez, este personagem convoca um mega-ajudante Gosma para si mesmo com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque."
+"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_yellow","Quando perde mais de {DAMAGETHRESHOLD}% do limite de vida de uma vez, este personagem convoca um mega-ajudante Gosma para si mesmo com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque."
 "herocard.passive_skill.description.summononstatuseffectaddition.burn.forest_guardian.statuseffectdebuffs","Cada vez que recebe um mal de status Queimadura, este personagem convoca um ajudante Guardião da Floresta para si mesmo. O ajudante Guardião da Floresta herda {FAMILIARHEALTHPERCENT}% do PV e {FAMILIARATTACK}% do ataque do personagem."
 "herocard.passive_skill.description.summononstatuseffectaddition.damageovertime.card_soldier_no_taunt.statuseffectdebuffs","Cada vez que recebe um mal de status de Dano ao Longo do Tempo, este personagem convoca um ajudante Soldado de Carta para si mesmo. O ajudante Soldado de Carta herda {FAMILIARHEALTHPERCENT}% do PV e {FAMILIARATTACK}% do ataque do personagem."
 "herocard.passive_skill.description.summononstatuseffectaddition.defensemodifier.bull.none","Cada vez que recebe um mal de status que afeta a defesa, este personagem convoca um ajudante Touro para si mesmo. O ajudante Touro herda {FAMILIARHEALTHPERCENT}% do PV e {FAMILIARATTACK}% do ataque do personagem."
 "herocard.passive_skill.description.summononsummon.activates_on_enemy_action.allies.owl.minion","Convoca um ajudante Pardal para si mesmo quando o inimigo invoca qualquer ajudante usando uma habilidade especial."
 "herocard.passive_skill.description.summononsummon.activates_on_enemy_action.enemies.cursed_sapling_parasite.minion","Quando um inimigo convoca qualquer ajudante com uma habilidade especial, o personagem convoca um demônio Broto Amaldiçoado para esse inimigo."
 "herocard.passive_skill.description.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","Quando um inimigo convoca qualquer ajudante com uma habilidade especial, o personagem convoca um demônio Muda para esse inimigo."
+"herocard.passive_skill.description.targetstatedependenteffectonspecial.healthboost.all.allies.fixedpower.always.checkstate.all.allies.dance","Quando um aliado está dançando e este personagem lança a própria habilidade especial, reforça a vida de todos os aliados em {HEALTHBOOST}. A vida reforçada pode exceder o limite de PV."
 "herocard.passive_skill.description.taunt","A habilidade especial deste personagem não é afetada por Provocar."
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.blue","Os escudos de Gelo no tabuleiro são enfraquecidos com {MODIFIER}% de precisão quando este personagem lança a própria habilidade especial."
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.green","Os escudos de Natureza no tabuleiro são enfraquecidos com {MODIFIER}% de precisão quando este personagem lança a própria habilidade especial."
@@ -659,25 +422,15 @@ Demônio mega Florescência:
 "herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.purple","Os escudos de Trevas no tabuleiro são reforçados com {MODIFIER}% de chance crítica quando este personagem lança a própria habilidade especial."
 "herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.red","Os escudos de Fogo no tabuleiro são reforçados com {MODIFIER}% de chance crítica quando este personagem lança a própria habilidade especial."
 "herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.yellow","Os escudos de Luz no tabuleiro são reforçados com {MODIFIER}% de chance crítica quando este personagem lança a própria habilidade especial."
-"herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Cada vez que este personagem lança a própria habilidade especial, todos os reforços dissipáveis que afetam o ataque, a defesa e a geração de mana de todos os inimigos se transformam nos males de status indissipáveis correspondentes.
-
-Efeitos da transformação:
- Os reforços de ataque se transformam em males de status de {STATUSEFFECT1ATTACK}% de ataque por {STATUSEFFECT1TURNS} turnos.
- Os reforços de defesa se transformam em males de status de {STATUSEFFECT2DEFENSE}% de defesa por {STATUSEFFECT2TURNS} turnos.
- Os reforços de geração de mana se transformam em males de status de {STATUSEFFECT3MANAREGEN}% de geração de mana por {STATUSEFFECT3TURNS} turnos."
-"herocard.passive_skill.description.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Cada vez que este personagem lança a própria habilidade especial, todos os males de status inexpurgáveis que afetam o ataque, a defesa e a geração de mana de todos os aliados se transformam nos reforços indissipáveis correspondentes.
-
-Efeitos da transformação:
- Os males de status de ataque se transformam em um reforço de {STATUSEFFECT1ATTACK}% de ataque por {STATUSEFFECT1TURNS} turnos.
- Os males de status de defesa se transformam em reforços de {STATUSEFFECT2DEFENSE}% de defesa por {STATUSEFFECT2TURNS} turnos.
- Os males de status de geração de mana se transformam em reforços de {STATUSEFFECT3MANAREGEN}% de geração de mana por {STATUSEFFECT3TURNS} turnos."
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Sempre que este personagem usa a própria habilidade especial, todos os reforços dissipáveis que afetam o ataque, a defesa e a geração de mana de todos os inimigos se transformam em males de status indissipáveis correspondentes."
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Sempre que este personagem usa a própria habilidade especial, todos os males de status expurgáveis que afetam o ataque, a defesa e a geração de mana de todos os aliados se transformam em reforços indissipáveis correspondentes."
 "herocard.passive_skill.description.wither.all.enemies","O ataque básico e a defesa básica de todos os inimigos diminuem em {STATINCREASE} a cada turno por {MAXACTIVATIONCOUNT} turnos."
 "herocard.passive_skill.inactive","INATIVO: chegue ao nível máximo e à ascensão total para ativar."
 "herocard.passive_skill.replace.minordebuff.attackmodifier.to.minorbuff.attackmodifier","Males de status viram {ATTACK}% de ataque por {TURNS} turnos."
 "herocard.passive_skill.replace.minordebuff.buffimmunity.to.minorbuff.debuffshield","Males de imunidade a reforços viram imunidade a males por {TURNS} turnos."
 "herocard.passive_skill.replace.minordebuff.defensemodifier.to.minorbuff.defensemodifier","Males de defesa viram {DEFENSE}% de defesa por {TURNS} turnos."
 "herocard.passive_skill.replace.minordebuff.healingmodifier.to.minorbuff.healmultiplier","Reduções de cura viram {HEALING}% mais cura por {TURNS} turnos."
-"herocard.passive_skill.replace.minordebuff.managenerationmodifier.to.minorbuff.managenerationmodifier","Males de geração de mana viram {MANAREGEN}% de geração de mana por {TURNS} turnos."
+"herocard.passive_skill.replace.minordebuff.manaeffect.to.minorbuff.managenerationmodifier","Os males de mana são convertidos em {MANAREGEN}% de geração de mana por {TURNS} turnos."
 "herocard.passive_skill.replace.minordebuff.receiveddamagemodifier.to.minorbuff.receiveddamagemodifier","Males de aumento de dano viram {DAMAGEREDUCTION}% de redução de dano por {TURNS} turnos."
 "herocard.passive_skill.replace.minordebuff.statuseffectreflect.to.minorbuff.reflectminordebuffs","Males que refletem reforços viram reforços que refletem males por {TURNS} turnos."
 "herocard.passive_skill.replace_direct_effect.attackwither","Atrofia de ataque vira Crescimento de ataque: {FIXEDPOWER} de ataque."
@@ -710,7 +463,8 @@ Efeitos da transformação:
 "herocard.passive_skill.title.criticalmodifiersupportcharacter.troop","Modificador Crítico"
 "herocard.passive_skill.title.critmodifier","Modificador de Chance Crítica"
 "herocard.passive_skill.title.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Marca dos Antigos"
-"herocard.passive_skill.title.dealtdamagemodifieragainststatuseffect.bloodlily.stacks","Marca Sanguínea"
+"herocard.passive_skill.title.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single","Marca Sanguínea"
+"herocard.passive_skill.title.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all","Dança feroz"
 "herocard.passive_skill.title.dealtstrongelementtroopdamage","Domínio de Tropa"
 "herocard.passive_skill.title.debuffdamagereduction","Redução de dano de mal de status"
 "herocard.passive_skill.title.debuffdamagereductionsupportcharacter.troop","Redução de dano de mal de status"
@@ -788,9 +542,9 @@ Efeitos da transformação:
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.healthboost.enemies.parasite","Reforço de Vida por Convocação de Demônio"
 "herocard.passive_skill.title.familiaraccuracymodifier.all.enemies.minion.bigminion","Ajudante cego"
 "herocard.passive_skill.title.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core","Núcleo de Ajudante"
-"herocard.passive_skill.title.familiarhealthmodifier.all.enemies.bigminion.decrease","Ajudantes mega mais fracos"
+"herocard.passive_skill.title.familiarhealthmodifier.all.enemies.bigminion.decrease","Mega-ajudantes mais fracos"
 "herocard.passive_skill.title.familiarhealthmodifier.all.enemies.minion.decrease","Ajudantes mais fracos"
-"herocard.passive_skill.title.familiarsilencer.all.enemies.bigminion","Deter ajudantes mega"
+"herocard.passive_skill.title.familiarsilencer.all.enemies.bigminion","Deter mega-ajudantes"
 "herocard.passive_skill.title.familiarsilencer.all.enemies.minion.follower","Deter ajudantes"
 "herocard.passive_skill.title.frost.effectondamageovertime.activates_on_enemy_action.addmana","Mana por Neve"
 "herocard.passive_skill.title.glass_reflect_debuffs","Vidro"
@@ -802,7 +556,7 @@ Efeitos da transformação:
 "herocard.passive_skill.title.healonownfamiliardeath.minion.healthboost","Vida reforçada ao perder ajudante"
 "herocard.passive_skill.title.increasedattackperelement.enemies.not.green","Mais ataque por inimigo que não é de Natureza"
 "herocard.passive_skill.title.increasedattackperelement.enemies.not.red","Mais ataque por inimigo que não é de Fogo"
-"herocard.passive_skill.title.increaseddamageagainstfamiliars.minion.bigminion","Dano extra contra ajudantes e ajudantes mega"
+"herocard.passive_skill.title.increaseddamageagainstfamiliars.minion.bigminion","Dano extra contra ajudantes e mega-ajudantes"
 "herocard.passive_skill.title.increaseddamageagainstminions","Mais dano contra ajudantes"
 "herocard.passive_skill.title.increasedspecialdamageagainsttaunt.taunt","Mais dano contra Provocar"
 "herocard.passive_skill.title.increasespecialdamage","Mais Dano de Habilidade Especial"
@@ -826,6 +580,7 @@ Efeitos da transformação:
 "herocard.passive_skill.title.ransack","Oportunidade de Ladrão"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Roubar Reforço"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","Sentido de Caçador"
+"herocard.passive_skill.title.received_strong_troop_damage_pve","Redução de dano da tropa"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Domínio de Tropa"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Aumento do dano de Bola de Fogo"
 "herocard.passive_skill.title.redirectlethaldamage.enemies.single","Vencer a Morte"
@@ -881,7 +636,7 @@ Esbelto"
 "herocard.passive_skill.title.resistnegativefamiliareffects.minion","Resistência a efeitos negativos de ajudantes"
 "herocard.passive_skill.title.resistnegativefamiliareffects.minion.bigminion","Resistência superior a efeitos negativos de ajudantes"
 "herocard.passive_skill.title.resistnewfamiliars.parasite","Resistência a demônios"
-"herocard.passive_skill.title.resistnewfamiliars.parasite.bigparasite","Resistência a demônios e demônios mega"
+"herocard.passive_skill.title.resistnewfamiliars.parasite.bigparasite","Resistência a demônios e megademônios"
 "herocard.passive_skill.title.resistsupportcharacter.troop.alldebuffs","Resistência a males de status"
 "herocard.passive_skill.title.revivalchancemodifier.all.enemies","Redução da chance de reviver"
 "herocard.passive_skill.title.revivalhealthmodifier.all.enemies.excluding.boss","Redução da vida ao reviver"
@@ -933,7 +688,10 @@ Esbelto"
 "herocard.passive_skill.title.stylish","Estiloso!"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","Convocador de Muda"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Convocador de Muda"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Convocador de Muda"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Convocador de Muda"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Convocador de Muda"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Convocador de Muda"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Ajudante de Gosma ao ser derrotado"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Ajudante de Gosma ao ser derrotado"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Ajudante de Gosma ao ser derrotado"
@@ -950,6 +708,7 @@ Esbelto"
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.allies.owl.minion","Convocador de Pardal"
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.cursed_sapling_parasite.minion","Convocador de Broto Amaldiçoado"
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","Convocador de Muda"
+"herocard.passive_skill.title.targetstatedependenteffectonspecial.healthboost.checkstate.all.allies.dance","Dança graciosa"
 "herocard.passive_skill.title.taunt","Ignorar Provocar"
 "herocard.passive_skill.title.titan_dread_damage_minions","Pavor"
 "herocard.passive_skill.title.titan_dread_damage_minions_15","Pavor"

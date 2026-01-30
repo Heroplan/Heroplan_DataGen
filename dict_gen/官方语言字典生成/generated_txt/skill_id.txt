@@ -82,6 +82,7 @@ Iblis Mega Tombak menyerap penyembuhan dan menghilang saat ia telah menyerap kes
 "specials.v2.directeffect.damage.yellow.enemies","Menimbulkan kerusakan {HEALTH}% pada semua musuh Suci."
 "specials.v2.directeffect.heal.all.allies","Memulihkan kesehatan semua sekutu sebesar {HEALTH}%."
 "specials.v2.directeffect.heal.all.allies.fixedpower","Memulihkan {HEALTH} kesehatan untuk semua sekutu."
+"specials.v2.directeffect.heal.lessthanhalfhpleft.allies.fixedpower","Memulihkan {HEALTH} kesehatan untuk semua sekutu yang kesehatannya kurang dari 50%."
 "specials.v2.directeffect.heal.neartotarget.allies","Memulihkan kesehatan perapal dan sekutu terdekat sebesar {HEALTH}%."
 "specials.v2.directeffect.heal.single.allies","Memulihkan kesehatan perapal sebesar {HEALTH}%."
 "specials.v2.directeffect.heal.single.allies.fixedpower","Memulihkan {HEALTH} kesehatan perapal."
@@ -326,6 +327,7 @@ Iblis Bintang Jatuh menyerap penyembuhan, lalu menghilang setelah menyerap penye
 Iblis Gumpalan Api menyerap penyembuhan, lalu menghilang setelah menyerap penyembuhan sebanyak {FAMILIARHEALTHPERCENT}% dari kesehatan maksimum sasarannya."
 "specials.v2.parasite.flytrap_fiend.neartotarget","Memanggil Iblis Perangkap Lalat untuk sasaran dan musuh terdekat.
 Iblis Perangkap Lalat menyerap penyembuhan, lalu menghilang setelah menyerap penyembuhan sebanyak {FAMILIARHEALTHPERCENT}% dari kesehatan maksimum sasarannya."
+"specials.v2.parasite.flytrap_fiend.reducemaxhealth.single.allies","Saat dipanggil, Iblis Perangkap Lalat mengurangi kesehatan maksimal sasarannya sebesar {REDUCTION} di setiap giliran. Efeknya lebih kuat terhadap sasaran dengan peningkatan kesehatan."
 "specials.v2.parasite.flytrap_fiend.single","Memanggil Iblis Perangkap Lalat untuk sasaran. Iblis merusak musuh dengan {FAMILIARATTACK}% serangan tiap giliran.
 Iblis Perangkap Lalat menyerap penyembuhan, lalu menghilang setelah menyerap penyembuhan sebanyak {FAMILIARHEALTHPERCENT}% dari kesehatan maksimum sasarannya."
 "specials.v2.parasite.gargoyle_parasite.explode","Iblis Gargoyle meledak setelah {FAMILIAREFFECTFREQUENCY} giliran, memberikan {FAMILIARFIXEDEXPLOSIONDAMAGE} kerusakan ke sasarannya."
@@ -354,6 +356,9 @@ Iblis Bayaran menyerap penyembuhan dan menghilang setelah menyerap kesehatan seb
 "specials.v2.parasite.mercenary_costume.all","Panggil Iblis Bayaran untuk semua musuh. Iblis menyerang musuh dengan {FAMILIARATTACK}% serangan tiap giliran.
 Iblis Bayaran menyerap penyembuhan dan menghilang setelah menyerap kesehatan sebanyak {FAMILIARHEALTHPERCENT}% dari kesehatan maksimum sasaran."
 "specials.v2.parasite.missile_parasite.explode","Jika musuh dikalahkan saat memiliki Iblis Rudal, musuh terdekat menerima {FAMILIARFIXEDEXPLOSIONDAMAGE} kerusakan."
+"specials.v2.parasite.moldavite_owl_fiend.neartotarget","Memanggil Iblis Burung Hantu Moldavite untuk sasaran dan musuh terdekat. Iblis menyerang musuh dengan {FAMILIARATTACK}% serangan tiap giliran.
+Iblis Burung Hantu Moldavite menyerap penyembuhan, lalu menghilang setelah menyerap penyembuhan sebanyak {FAMILIARHEALTHPERCENT}% dari kesehatan maksimum sasarannya."
+"specials.v2.parasite.moldavite_owl_fiend.removestatuseffects.minorbuff.single.allies.customremovalcount","Pada akhir setiap giliran, Iblis Burung Hantu Moldavite mengenyahkan salah satu genjotan sasarannya yang bisa dienyahkan."
 "specials.v2.parasite.muffin_parasite.all","Panggil Iblis Muffin untuk semua musuh. Iblis menyerang musuh dengan {FAMILIARATTACK}% serangan tiap giliran.
 Iblis Muffin menyerap penyembuhan dan menghilang setelah menyerap kesehatan sebanyak {FAMILIARHEALTHPERCENT}% dari kesehatan maksimum sasaran.
 Setiap pukulan dari Iblis Muffin memiliki efek sebagai berikut:"
@@ -514,6 +519,10 @@ Efek status yang memengaruhi penyembuhan yang diterima akan memengaruhi skala pe
 "specials.v2.property.chainstrikewitheffectperhit.statuseffect.single.playercharacters","Punya peluang {CHANCE}% untuk melayangkan pukulan tambahan ke musuh acak hingga {MAXHITS} kali.
  Perapal mendapat efek status berikut untuk setiap hantaman:
 {STATUSEFFECTS}"
+"specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","Menimbulkan {DAMAGE}% kerusakan pada sasaran dan {MAXHITS} musuh acak.
+Memanggil satu Iblis Benih untuk setiap musuh yang terkena."
+"specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","Menimbulkan {DAMAGE}% kerusakan pada sasaran dan {MAXHITS} musuh acak.
+Memanggil satu Iblis Benih untuk setiap musuh yang terkena."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","Menimbulkan kerusakan {DAMAGE}% ke sasaran dan {MAXHITS} musuh acak.
 Memanggil Iblis Rudal untuk memukul musuh. Iblis menyerang musuh dengan {FAMILIARATTACK}% serangan tiap giliran.
 Iblis Rudal menyerap penyembuhan dan menghilang setelah menyerap kesehatan sebanyak {FAMILIARHEALTHPERCENT}% dari kesehatan maksimum pemiliknya."
@@ -550,6 +559,7 @@ Meningkatkan durasi status pelemahan aktif sasaran acak selama {TURNS} giliran."
 "specials.v2.property.conditionaleffect.damage.all.enemies.highest.currentproportionalmana.only_targets_who_meet_condition","Menimbulkan {POWERFORTARGETSTHATMEETCONDITION}% kerusakan kepada musuh dengan mana tertinggi."
 "specials.v2.property.conditionaleffect.damage.all.enemies.lowest.currenthp","Menimbulkan {POWERFORTARGETSTHATMEETCONDITION}% kerusakan kepada musuh dengan sisa HP terendah. Menimbulkan {POWERFOROTHERTARGETS}% kerusakan kepada semua musuh lainnya."
 "specials.v2.property.conditionaleffect.damage.all.enemies.lowest.currenthp.hittargetsonly.only_targets_who_meet_condition","Menimbulkan {POWERFORTARGETSTHATMEETCONDITION}% kerusakan kepada musuh dengan sisa HP terendah."
+"specials.v2.property.conditionaleffect.damage.all.enemies.lowest.currenthp.only_targets_who_meet_condition","Menimbulkan {POWERFORTARGETSTHATMEETCONDITION}% kerusakan kepada musuh dengan sisa HP terendah."
 "specials.v2.property.conditionaleffect.damage.single.enemies.highest.currenthp.hittargetsonly.only_targets_who_meet_condition","Menimbulkan {POWERFORTARGETSTHATMEETCONDITION}% kerusakan kepada musuh dengan sisa HP tertinggi."
 "specials.v2.property.conditionaleffect.heal.all.allies.lowest.currenthp","Memulihkan {POWERFORTARGETSTHATMEETCONDITION}% kesehatan untuk sekutu dengan sisa HP terendah. Memulihkan {POWERFOROTHERTARGETS}% kesehatan untuk sekutu yang lain."
 "specials.v2.property.conditionaleffect.heal.all.enemies.lowest.currenthp.only_targets_who_meet_condition","Memulihkan {POWERFORTARGETSTHATMEETCONDITION}% kesehatan musuh dengan sisa HP terendah."
@@ -601,6 +611,7 @@ Menimbulkan kerusakan tambahan {POWERPERTILE}% per perisai Api shield yang dipak
 "specials.v2.property.darkcubechainstrike","Merapalkan {TOTALMAXHITS} Kubus Gelap ke musuh acak.
 Kubus Gelap mengurangi kesehatan maksimal dari sasaran sebesar {REDUCTION}. Efeknya lebih kuat terhadap sasaran dengan peningkatan kesehatan."
 "specials.v2.property.darkcubechainstrike.extra","Kesehatan maks. tidak boleh rendah dari {MINIMUMMAXHEALTH}% dari kesehatan maks. awal. Peningkatan kesehatan dikurangi {REDUCTION} lagi."
+"specials.v2.property.delayturnstoattack.all","Semua musuh mengalami serangan normal tertunda selama {DELAY} giliran."
 "specials.v2.property.delayturnstoattack.neartotarget","Serangan normal sasaran di musuh terdekat tertunda {DELAY} giliran."
 "specials.v2.property.delayturnstoattack.neartotarget.oneturn","Serangan normal sasaran di musuh terdekat tertunda {DELAY} giliran."
 "specials.v2.property.differentextrahitpowerchainstrike","Menimbulkan kerusakan {DAMAGE}% ke {MAXHITS} musuh acak lainnya."
@@ -628,12 +639,24 @@ Kubus Gelap mengurangi kesehatan maksimal dari sasaran sebesar {REDUCTION}. Efek
 "specials.v2.property.effectonkill.statuseffect.managenerationmodifier.all.allies","Jika sasaran dikalahkan oleh serangan tersebut, semua sekutu mendapat {STATUSEFFECT1MANAREGEN}% generasi mana selama {STATUSEFFECT1TURNS} giliran."
 "specials.v2.property.effectonkill.statuseffect.managenerationmodifier.neartotarget.allies","Jika sasaran dikalahkan oleh serangan tersebut, perapal dan sekutu terdekat mendapat {STATUSEFFECT1MANAREGEN}% generasi mana selama {STATUSEFFECT1TURNS} giliran."
 "specials.v2.property.effectonkill.statuseffect.managenerationmodifier.single.allies","Jika sasaran dikalahkan oleh serangan tersebut, perapal mendapat {STATUSEFFECT1MANAREGEN}% generasi mana selama {STATUSEFFECT1TURNS} giliran."
+"specials.v2.property.effectonremovedstatuseffectspertarget.minordebuff.all.allies.effectonremoval.addmana.single","Membersihkan semua status pelemahan dari semua sekutu, dan menambah mana semua sekutu sebesar {POWER}% untuk setiap pelemahan yang dibersihkan."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","Panen dengan aman menghapus {MAXREMOVALCOUNT} genjotan, Tumpukan positif, atau efek Bertumbuh dari setiap sasaran. Ini termasuk genjotan yang tidak bisa dienyahkan dan efek tarian.
 Perapal menerima {HEALTHBOOST}% peningkatan kesehatan untuk setiap efek yang dihapus. Peningkatan kesehatan dapat melebihi HP maks.
 
 Penghapusan yang aman melewati efek sekunder, seperti kerusakan saat menghapus, dari genjotan efek status yang dihapus. Efek eksternal seperti keterampilan pasif dan efek keluarga masih bisa aktif.
 Efek Bertumbuh dihapus terlebih dahulu. Efek lainnya dihapus dari yang terbaru."
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removewither.safe.extra","Cerabut dengan aman menghapus {MAXREMOVALCOUNT} status pelemahan, Tumpukan positif, atau efek Layu dari setiap sasaran. Ini termasuk status pelemahan yang tidak bisa dibersihkan dan efek tarian.
+Perapal menerima {HEALTHBOOST}% peningkatan kesehatan untuk setiap efek yang dihapus. Peningkatan kesehatan dapat melebihi HP maks.
+Pembersihan yang aman mengabaikan efek sekunder, seperti kerusakan saat menghapus, dari status pelemahan yang dihapus. Efek eksternal seperti keterampilan pasif dan efek keluarga masih bisa aktif.
+Efek Layu dihapus terlebih dahulu. Efek lainnya dihapus dari yang terbaru."
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.neartotarget.allies.alldebuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removewither","Mencerabut pelemah dari perapal dan sekutu terdekat."
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.neartotarget.allies.alldebuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removewither.extra","Cerabut dengan aman menghapus {MAXREMOVALCOUNT} pelemah, Tumpukan positif, atau efek Layu dari setiap sasaran. Ini termasuk status pelemahan yang tidak bisa dibersihkan dan efek tarian.
+Perapal menerima {HEALTHBOOST}% peningkatan kesehatan untuk setiap efek yang dihapus. Peningkatan kesehatan dapat melebihi HP maks.
+
+Penghapusan yang aman mengabaikan efek sekunder, seperti kerusakan saat menghapus, dari pelemah efek status yang dihapus. Efek eksternal seperti keterampilan pasif dan efek keluarga masih bisa aktif.
+Efek Layu dihapus terlebih dahulu. Efek lainnya dihapus dari yang terbaru."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.neartotarget.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","Panen genjotan dari sasaran dan musuh terdekat."
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.single.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","Memanen genjotan dari sasaran."
 "specials.v2.property.effectontargetaliveafterhit.heal.all.allies.addmana.all.allies.directeffecttargettype.single","Jika sasaran tidak dikalahkan oleh serangan tersebut, kesehatan semua sekutu pulih {EFFECT1POWER}% dan meraih {EFFECT2POWER}% mana."
 "specials.v2.property.effectpereatenfamiliar.addmana.all.allies.fixed.minion.follower","Semua sekutu mendapat sejumlah kecil mana untuk setiap Antek yang hancur."
 "specials.v2.property.effectpereatenfamiliar.addmana.all.allies.permil.minion.bigminion","Perapal mendapat {MANAPERFAMILIAR}% mana untuk setiap Antek yang hancur."
@@ -652,6 +675,8 @@ Efek Bertumbuh dihapus terlebih dahulu. Efek lainnya dihapus dari yang terbaru."
 "specials.v2.property.effectpereatenfamiliar.heal.single.allies.permil","Kesehatan perapal pulih {HEALTHPERFAMILIAR}% untuk setiap Antek yang hancur."
 "specials.v2.property.effectperfamiliar.damage.all.enemies.minion.bigminion.from.enemies.has_base_power.has_max_power","Menimbulkan {BASEPOWER}% kerusakan kepada semua musuh.
 Menimbulkan {POWERPERFAMILIAR}% kerusakan tambahan untuk setiap Antek atau Antek Mega milik musuh, hingga total kerusakan {MAXPOWER}%."
+"specials.v2.property.effectperfamiliar.damage.all.enemies.parasite.bigparasite.from.enemies.has_base_power.has_max_power","Menimbulkan {BASEPOWER}% kerusakan kepada semua musuh.
+Menimbulkan {POWERPERFAMILIAR}% kerusakan tambahan untuk setiap Iblis atau Iblis Mega milik musuh, hingga total kerusakan {MAXPOWER}%."
 "specials.v2.property.effectperfamiliar.damage.neartotarget.enemies.minion.bigminion.from.enemies.has_base_power.has_max_power","Menimbulkan {BASEPOWER}% kerusakan kepada sasaran dan musuh terdekat.
 Menimbulkan {POWERPERFAMILIAR}% kerusakan tambahan untuk setiap Antek atau Antek Mega milik musuh, hingga total kerusakan {MAXPOWER}%."
 "specials.v2.property.effectperfamiliar.damage.neartotarget.enemies.parasite.bigparasite.from.enemies.has_base_power.has_max_power","Menimbulkan {BASEPOWER}% kerusakan kepada sasaran dan musuh terdekat.
@@ -660,6 +685,8 @@ Menimbulkan {POWERPERFAMILIAR}% kerusakan tambahan untuk setiap Iblis atau Iblis
 Menimbulkan {POWERPERFAMILIAR}% kerusakan tambahan untuk setiap Antek atau Antek Mega milik musuh, hingga total kerusakan {MAXPOWER}%."
 "specials.v2.property.effectperfamiliar.damage.single.enemies.minion.from.allies.has_base_power.has_max_power","Menimbulkan {BASEPOWER}% kerusakan kepada sasaran.
 Menimbulkan {POWERPERFAMILIAR}% kerusakan tambahan untuk setiap Antek milik sekutu, hingga total kerusakan {MAXPOWER}%."
+"specials.v2.property.effectperfamiliar.damage.single.enemies.parasite.bigparasite.from.enemies.has_base_power.has_max_power","Menimbulkan {BASEPOWER}% kerusakan kepada sasaran.
+Menimbulkan {POWERPERFAMILIAR}% kerusakan tambahan untuk setiap Iblis atau Iblis Mega milik musuh, hingga total kerusakan {MAXPOWER}%."
 "specials.v2.property.effectperfamiliar.heal.all.allies.parasite.from.allies.has_base_power","Kesehatan semua sekutu pulih {BASEPOWER}%.
 Kesehatan semua sekutu pulih {POWERPERFAMILIAR}% lagi untuk setiap Iblis milik sekutu."
 "specials.v2.property.effectperfamiliar.healthboost.all.allies.minion.from.allies","Kesehatan sekutu naik {HEALTHBOOST} HP untuk setiap Antek milik sekutu."
@@ -803,6 +830,7 @@ Jika durasi efek apa pun dikurangi menjadi nol, efek tersebut dianggap telah ked
 "specials.v2.property.modifystatuseffectturns.neartotarget.enemies.buffs.decrease","Mengurangi durasi giliran sasaran dan genjotan musuh terdekat selama {TURNS} giliran."
 "specials.v2.property.modifystatuseffectturns.neartotarget.enemies.buffs.decrease.one","Mengurangi durasi giliran sasaran dan genjotan musuh terdekat selama {TURNS} giliran."
 "specials.v2.property.modifystatuseffectturns.single.enemies.buffs.decrease","Mengurangi durasi genjotan aktif sasaran selama {TURNS} giliran."
+"specials.v2.property.modifystatuseffectturns.single.enemies.buffs.decrease.one","Mengurangi durasi genjotan aktif sasaran selama {TURNS} giliran."
 "specials.v2.property.moonrisedamage.enemies.all.yellow","Menyerang semua musuh dengan Serangan Bulan Terbit, menimbulkan hingga {MAX} kerusakan. Menimbulkan kerusakan {STRONGATTACKELEMENTDAMAGEMODIFIER}% lebih banyak jika sasarannya berelemen Suci. Serangan ini tak pernah meleset dari sasaran."
 "specials.v2.property.moonrisedamage.enemies.all.yellow.always_hit","Menyerang semua musuh dengan Serangan Bulan Terbit, menimbulkan hingga {MAX} kerusakan. Menimbulkan kerusakan {STRONGATTACKELEMENTDAMAGEMODIFIER}% lebih banyak jika sasarannya berelemen Suci. Keahlian Khusus ini tak pernah meleset dari sasaran."
 "specials.v2.property.moonrisedamage.enemies.neartotarget.yellow","Menyerang sasaran dan musuh terdekat dengan Serangan Bulan Terbit, menimbulkan hingga {MAX} kerusakan. Menimbulkan kerusakan {STRONGATTACKELEMENTDAMAGEMODIFIER}% lebih banyak jika sasarannya berelemen Suci. Serangan ini tak pernah meleset dari sasaran"
@@ -894,11 +922,9 @@ Pencurian aman melewati efek sekunder, seperti kerusakan saat dihapus, dari genj
 "specials.v2.property.removestatuseffects.minorbuff.single.enemies.customremovalcount.multiple","Mengenyahkan {REMOVALCOUNT} genjotan dari sasaran."
 "specials.v2.property.removestatuseffects.minordebuff.all.allies","Membersihkan status pelemahan dari semua sekutu."
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.bypassremoveeffects","Dengan aman membersihkan status pelemahan dari semua sekutu."
-"specials.v2.property.removestatuseffects.minordebuff.all.allies.bypassremoveeffects.effectonremoval.addmana.single","Dengan aman membersihkan semua status pelemahan dari semua sekutu, dan menambah mana semua sekutu sebesar {POWER}% untuk setiap pelemahan yang dibersihkan."
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount","Membersihkan 1 status pelemahan dari semua sekutu."
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount.bypassremoveeffects","Dengan aman membersihkan 1 status pelemahan dari semua sekutu."
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount.multiple","Membersihkan {REMOVALCOUNT} status pelemahan dari semua sekutu."
-"specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single","Membersihkan semua status pelemahan dari semua sekutu, dan menambah mana semua sekutu sebesar {POWER}% untuk setiap pelemahan yang dibersihkan."
 "specials.v2.property.removestatuseffects.minordebuff.customremovalcount.extra","Status pelemahan dibersihkan sesuai urutan diterima. Status pelemahan terbaru dibersihkan terlebih dahulu."
 "specials.v2.property.removestatuseffects.minordebuff.extra","Pembersihan yang aman melewati efek sekunder, seperti kerusakan pada penghapusan, dari status pelemahan yang dihapus. Efek eksternal seperti keahlian pasif dan efek keluarga masih bisa aktif."
 "specials.v2.property.removestatuseffects.minordebuff.neartotarget.allies.bypassremoveeffects","Dengan aman membersihkan status pelemahan perapal dan sekutu terdekat."
@@ -907,6 +933,14 @@ Pencurian aman melewati efek sekunder, seperti kerusakan saat dihapus, dari genj
 "specials.v2.property.removestatuseffectsandbasemodifiers.neartotarget.allies.allstatuseffectsandstacks","Merapal Penghapusan Penuh pada perapal dan sekutu terdekat."
 "specials.v2.property.removestatuseffectsandbasemodifiers.single.allies.allstatuseffectsandstacks","Merapal Penghapusan Penuh pada perapal."
 "specials.v2.property.removestatuseffectsandbasemodifiers.single.enemies.allstatuseffectsandstacks","Merapal Penghapusan Penuh pada sasaran."
+"specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.sides.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","Menimbulkan {POWER}% kerusakan Tebasan Roh pada musuh di tepi formasi musuh. Tebasan Roh dengan aman menghilangkan genjotan sebelum menimbulkan kerusakan."
+"specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.single.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","Menimbulkan {POWER}% kerusakan Tebasan Roh pada sasaran. Tebasan Roh dengan aman menghilangkan genjotan sebelum menimbulkan kerusakan."
+"specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectdebuffs.neartotarget.allies.bypassremoveeffects.effectonremoval.healthboost.has_base_power.power_changes_per_removed_status_from_target","Meningkatkan kesehatan perapal dan sekutu terdekat sebesar {FIXEDPOWER} dengan Aura Roh. Aura Roh dengan aman menghilangkan status pelemahan sebelum meningkatkan kesehatan."
+"specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.all.allies.effectonremoval.addmana.power_changes_per_removed_status_from_target","Dengan aman membersihkan semua status pelemahan dari semua sekutu, dan menambah mana semua sekutu sebesar {POWERPERREMOVALFROMTARGET}% untuk setiap pelemahan yang dibersihkan."
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra"," Kerusakan berkurang sebesar {POWERPERREMOVALFROMTARGET}% untuk setiap genjotan yang dihapus.
+ Genjotan yang tidak bisa dienyahkan akan dihapus juga."
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra"," Genjotan kesehatan berkurang sebesar {FIXEDPOWERPERREMOVALFROMTARGET} untuk setiap pelemahan yang dihapus.
+ Pelemahan yang tidak dapat dibersihkan juga dihapus."
 "specials.v2.property.repeatspecial.blade_wings.random","Setelah berhasil dirapal, berpeluang {REPEATCHANCE}% untuk merapal Sayap Bilah lagi pada sasaran acak.
 Bisa merapal ulang hingga {MAXREPEATS} kali dan peluang merapal ulang berkurang sebesar {REPEATCHANCEDECREASE}% seusai tiap berhasil merapal."
 "specials.v2.property.resetstatuseffectduration.all.allies.allbuffs","Durasi genjotan direset untuk semua sekutu."
@@ -935,6 +969,7 @@ Setiap perisai Suci yang dipakai akan menambah peluang untuk dibangkitkan sebesa
 "specials.v2.property.secondarydirecteffect.damage.all.allies","Menimbulkan {SECONDARYPOWER}% kerusakan kepada semua sekutu."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies","Menimbulkan {SECONDARYPOWER}% kerusakan kepada semua musuh."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_abigail","Menimbulkan {SECONDARYPOWER}% kerusakan kepada semua musuh dan menimbulkan {STATUSEFFECT1INSANITYTOADD} Kegilaan kepada mereka."
+"specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_ambrose","Menimbulkan {SECONDARYPOWER}% kerusakan kepada semua musuh dan menimbulkan {STATUSEFFECT1INSANITYTOADD} Kegilaan kepada mereka."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_cultist_villager_female","Menimbulkan {SECONDARYPOWER}% kerusakan kepada semua musuh dan menimbulkan {STATUSEFFECT1INSANITYTOADD} Kegilaan kepada mereka."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_gwendoline_changed_appearance","Menimbulkan {SECONDARYPOWER}% kerusakan kepada semua musuh dan menimbulkan {STATUSEFFECT1INSANITYTOADD} Kegilaan kepada mereka."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_on_damage_khatrox","Menimbulkan {SECONDARYPOWER}% kerusakan kepada semua musuh dan menimbulkan {STATUSEFFECT1INSANITYTOADD} Kegilaan kepada mereka."
@@ -954,6 +989,7 @@ Semua musuh yang ditandai dengan Lili Berdarah menerima {STATUSEFFECT1DAMAGE} ke
 "specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_morryster","Menimbulkan {SECONDARYPOWER}% kerusakan kepada sasaran dan musuh terdekat serta menimbulkan {STATUSEFFECT1INSANITYTOADD} Kegilaan kepada mereka."
 "specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_on_damage_atwood","Menimbulkan {SECONDARYPOWER}% kerusakan kepada sasaran dan musuh terdekat serta menimbulkan {STATUSEFFECT1INSANITYTOADD} Kegilaan kepada mereka."
 "specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_piper","Menimbulkan {SECONDARYPOWER}% kerusakan kepada sasaran dan musuh terdekat serta menimbulkan {STATUSEFFECT1INSANITYTOADD} Kegilaan kepada mereka."
+"specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_zenas","Menimbulkan {SECONDARYPOWER}% kerusakan kepada sasaran dan musuh terdekat serta menimbulkan {STATUSEFFECT1INSANITYTOADD} Kegilaan kepada mereka."
 "specials.v2.property.secondarydirecteffect.damage.neartotargetexceptmaintarget.enemies","Menimbulkan {SECONDARYPOWER}% kerusakan tambahan kepada musuh terdekat."
 "specials.v2.property.secondarydirecteffect.damage.neartotargetminor.enemies","Menimbulkan kerusakan {SECONDARYPOWER}% kepada sasaran dan kerusakan minor kepada musuh terdekat."
 "specials.v2.property.secondarydirecteffect.damage.random.enemies","Menimbulkan kerusakan {SECONDARYPOWER}% kepada musuh secara acak."
@@ -989,6 +1025,9 @@ Menimbulkan {DAMAGE}% kerusakan kepada musuh di tepi formasi musuh. Jika hanya a
 "specials.v2.property.sidedependentspecialproperty.normal_attack_delay_or_nullified_troop_damage","Meng-KO musuh. Ini memiliki efek yang berbeda berdasarkan tim karakter ini:
 
 {SIDEDEPENDENTPROPERTIES}"
+"specials.v2.property.sidedependentspecialproperty.normal_attack_delay_or_nullified_troop_damage_rawn","Meng-KO musuh. Ini memiliki efek yang berbeda berdasarkan tim karakter ini:
+
+{SIDEDEPENDENTPROPERTIES}"
 "specials.v2.property.sidetosidedirecteffect.damage.all.enemies.decrease.random_starting_side","Menimbulkan {BASEPOWER}% kerusakan ke semua musuh mulai dari tepi formasi musuh. Kerusakannya berkurang seiring tiap pukulan beruntun."
 "specials.v2.property.specialsteal.all.allies.deadtargets","Merapal Keahlian Khusus dari semua sekutu yang kalah.
 Keahlian Khusus ini tidak bisa disalin."
@@ -1022,6 +1061,7 @@ Jika sasaran tidak mempunyai Keahlian Khusus, atau tidak bisa ditiru, Keahlian K
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.all.allies","Mencuri semua genjotan yang bisa dienyahkan dari sasaran dan secara acak membagikannya kepada sekutu."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.neartotarget.allies","Mencuri semua genjotan yang bisa dienyahkan dari sasaran dan secara acak membagikannya kepada perapal dan sekutu terdekat."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.single.allies.customreallocationcount","Mencuri genjotan terbaru yang bisa dienyahkan dari sasaran dan memberikannya kepada perapal."
+"specials.v2.property.statuseffectreallocation.from.single.enemies.to.single.allies.customreallocationcount.multiple.random","Mencuri {CUSTOMREALLOCATIONCOUNT} genjotan acak yang bisa dienyahkan dari sasaran ke perapal."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.single.allies.customreallocationcount.random","Mencuri genjotan acak yang bisa dienyahkan dari sasaran ke perapal."
 "specials.v2.property.statuseffectreallocationwitheffectperallocation.addmana.all.allies","Semua sekutu meraih sejumlah kecil mana untuk tiap status pelemahan yang dipindahkan."
 "specials.v2.property.statuseffectreallocationwitheffectperallocation.addmana.single.allies","Perapal meraih {POWERPERALLOCATION}% mana untuk setiap genjotan yang dicuri, hingga maksimum {MAXPOWER}% mana."
@@ -1073,19 +1113,16 @@ Musuh dengan genjotan pertahanan, Antek, atau Antek Mega mendapat {STATUSEFFECT1
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","Iblis Benih berubah menjadi Iblis Tunas setelah {EVOLVINGFAMILIAR1EVOLVETURNS} giliran.
 Iblis Tunas berubah menjadi Iblis Mega Mekar setelah {EVOLVINGFAMILIAR2EVOLVETURNS} giliran.
 
-Iblis Benih: 
-{EVOLVINGFAMILIAR1ATTACK}% serangan, {EVOLVINGFAMILIAR1HEALTH}% kesehatan
-
-Iblis Tunas: 
-{EVOLVINGFAMILIAR2ATTACK}% serangan, {EVOLVINGFAMILIAR2HEALTH}% kesehatan
-
-Iblis Mega Mekar: 
-{EVOLVINGFAMILIAR3ATTACK}% serangan, {EVOLVINGFAMILIAR3HEALTH}% kesehatan
+ Iblis Benih: {EVOLVINGFAMILIAR1FAMILIARATTACK}% serangan, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% kesehatan.
+ Iblis Benih: {EVOLVINGFAMILIAR2FAMILIARATTACK}% serangan, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% kesehatan.
+ Iblis Mega Mekar: {EVOLVINGFAMILIAR3FAMILIARATTACK}% serangan, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% kesehatan.
 
 Iblis merusak sasaran setiap giliran. Iblis menghilang setelah menyerap penyembuhan. Jumlah penyembuhab yang diperlukan tergantung kesehatan maks sasaran."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","Jika sasaran memiliki Iblis atau Iblis Mega, menimbulkan kerusakan {DAMAGE}% kepada satu musuh acak yang berbeda.
 Memanggil satu Iblis Benih untuk setiap musuh yang terkena."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","Jika sasaran memiliki Iblis atau Iblis Mega, menimbulkan kerusakan {DAMAGE}% kepada satu musuh acak yang berbeda.
+Memanggil satu Iblis Benih untuk setiap musuh yang terkena."
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.parasite.bigparasite.evolving_root_rot_fiend","Jika sasaran memiliki Iblis atau Iblis Mega, menimbulkan kerusakan {DAMAGE}% kepada satu musuh acak yang berbeda.
 Memanggil satu Iblis Benih untuk setiap musuh yang terkena."
 "specials.v2.property.targethealthdependantextradamage.over_health_boundary.all","Menimbulkan kerusakan {DAMAGEMULTIPLIER}% kepada musuh dengan sisa kesehatan lebih dari {HEALTHBOUNDARY}%."
 "specials.v2.property.targethealthdependantextradamage.over_health_boundary.neartotarget","Menimbulkan kerusakan {DAMAGEMULTIPLIER}% kepada musuh dengan sisa kesehatan lebih dari {HEALTHBOUNDARY}%."
@@ -1393,11 +1430,26 @@ Balada Rasa Sakit
 "specials.v2.statuseffect.major.elementmirror.red.neartotarget.allies","Perapal dan sekutu terdekat memantulkan semua status pelemahan dan {DEFLECTION}% kerusakan kepada penyerang dan memblokir efek negatif dari Keahlian Khusus Api musuh selama {TURNS} giliran. Efek ini tidak bisa dienyahkan."
 "specials.v2.statuseffect.major.ethereal.single.allies","Perapal berubah wujud menjadi Hantu selama {TURNS} giliran.
  Saat berwujud Hantu, perapal meraih {ATTACK}% serangan."
+"specials.v2.statuseffect.major.fieryfortunedancemultieffect.neartotargetexceptcaster.allies.fiery_fortune_dance","Sekutu terdekat menari Tarian Hoki Berapi selama {TURNS} giliran.
+
+Tarian Hoki Berapi
+{STATUSEFFECTS}
+Tarian Hoki bertumpuk dengan efek Tarian lainnya."
+"specials.v2.statuseffect.major.fieryfortunedancemultieffect.neartotargetexceptcaster.allies.fiery_fortune_dance_dragon_kids","Sekutu terdekat menari Tarian Hoki Berapi selama {TURNS} giliran.
+
+Tarian Hoki Berapi
+{STATUSEFFECTS}
+Tarian Hoki bertumpuk dengan efek Tarian lainnya."
 "specials.v2.statuseffect.major.fixedhealthrecovery.all.allies","Semua sekutu meregenerasi {TOTAL} HP selama {TURNS} giliran. Efek ini tidak bisa dienyahkan."
 "specials.v2.statuseffect.major.fixedhealthrecovery.allexceptcaster.allies.while.caster.allies.transcendentalframe","Selagi dalam wujud Hantu, perapal mendapat {HPPERTURN} HP setiap giliran."
 "specials.v2.statuseffect.major.fixedhealthrecovery.healthboost.all.allies","Semua sekutu meregenerasi {TOTAL} kesehatan yang ditingkatkan selama {TURNS} giliran. Kesehatan yang ditingkatkan bisa melebihi HP maksimal Efek ini tidak bisa dienyahkan."
 "specials.v2.statuseffect.major.fixedhealthrecovery.healthboost.allexceptcaster.allies.while.caster.allies.transcendentalframe","Selagi dalam wujud Hantu, semua sekutu kecuali perapal meregenerasi {HPPERTURN} kesehatan yang ditingkatkan setiap giliran. Kesehatan yang ditingkatkan bisa melebihi HP maksimal"
 "specials.v2.statuseffect.major.fixedhealthrecovery.single.allies.while.caster.allies.transcendentalframe","Selagi dalam wujud Hantu, perapal mendapat {HPPERTURN} HP setiap giliran."
+"specials.v2.statuseffect.major.flowingfortunedancemultieffect.neartotargetexceptcaster.allies.flowing_fortune_dance","Sekutu terdekat menari Tarian Hoki Mengalir selama {TURNS} giliran.
+
+Tarian Hoki Mengalir
+{STATUSEFFECTS}
+Tarian Hoki bertumpuk dengan efek Tarian lainnya."
 "specials.v2.statuseffect.major.frost.all.enemies","Semua musuh mengalami {DAMAGE} kerusakan Beku selama {TURNS} giliran. Efek ini tidak bisa dibersihkan."
 "specials.v2.statuseffect.major.frost.single.enemies.chain_strike","Tumpukan (Maks: {MAXSTACK}): Musuh yang terkena mengalami {DAMAGE} kerusakan Beku pada akhir setiap giliran. Efek ini tidak bisa dibersihkan."
 "specials.v2.statuseffect.major.ghost.single.allies.onremoval.damage.all.enemies.expiration.basic_attack_chao_gai.all.allies.special_damage_power_modifier_chao_gai.all.allies","Perapal berubah bentuk menjadi Hantu selama {TURNS} giliran. 
@@ -1482,6 +1534,7 @@ Permukaan Lengket: Mencuri {REALLOCATIONCOUNT} genjotan acak yang bisa dienyahka
 Permukaan Lengket: Mencuri {REALLOCATIONCOUNT} genjotan acak yang bisa dienyahkan dari musuh yang menyerang."
 "specials.v2.statuseffect.major.reallocateeffectsonhit.single.allies.effects.minorbuff.random","Perapal mendapat Permukaan Lengket selama {TURNS} giliran. Efek ini tidak bisa dienyahkan.
 Permukaan Lengket: Mencuri {REALLOCATIONCOUNT} genjotan acak yang bisa dienyahkan atau efek Bertumbuh dari musuh yang menyerang."
+"specials.v2.statuseffect.major.receiveddamagemodifier.all.allies.decrease","Semua kerusakan yang diterima semua sekutu berkurang {DAMAGEREDUCTION}% selama {TURNS} giliran. Efek ini tidak bisa dienyahkan."
 "specials.v2.statuseffect.major.receiveddamagemodifier.all.enemies.while.caster.enemies.hasfamiliars","Jika perapal memiliki Antek atau Antek Mega, semua musuh menerima kenaikan kerusakan {DAMAGEMODIFIER}% selama perapal memiliki Antek atau Antek Mega. Efek ini tidak bisa dienyahkan."
 "specials.v2.statuseffect.major.resistmanareduction.all.allies.while.caster.allies.boostedhealth","Semua sekutu kebal terhadap pengurangan mana langsung selama perapal memiliki peningkatan kesehatan. Efek ini tidak bisa dienyahkan."
 "specials.v2.statuseffect.major.revive.bruiserbros.all.allies","Semua sekutu menjadi Bramacorah Bersaudara selama {TURNS} giliran. Jika ada sekutu yang kalah saat Bramacorah Bersaudara aktif, mereka akan bangkit sebagai Bunglon dengan:
@@ -1557,7 +1610,7 @@ Sumber Genjotan akan aktif {MAXACTIVATIONCOUNT} kali. Setiap upaya untuk mengeny
 Sumber Pelemahan akan aktif {MAXACTIVATIONCOUNT} kali. Setiap upaya untuk mengenyahkannya akan menghapus satu aktivasi."
 "specials.v2.statuseffect.major.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.debuff_damage_increase_grendels_mother.reduce_healing_grendels_mother","Generator Efek Status: Di awal {MAXACTIVATIONCOUNT} giliran berikutnya, karakter ini memberi satu musuh acak {STATUSEFFECT1MULTIPLIER}% kerusakan dari status pelemahan dan {STATUSEFFECT2HEALING}% untuk semua penyembuhan yang diterima selama {STATUSEFFECT1TURNS} giliran. Efek ini tidak bisa dienyahkan."
 "specials.v2.statuseffect.major.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.debuff_damage_increase_grendels_mother.reduce_healing_grendels_mother.dispelincreasesactivations","Sumber Pelemahan: Efek berikut dirapal ke musuh acak di awal tiap giliran:
-{STATUSEFFECT1MULTIPLIER}% kerusakan dari status pelemahan selama {STATUSEFFECT1TURNS} giliran.
+{STATUSEFFECT1MULTIPLIER}% kerusakan dari status pelemahan dan tumpukan negatif selama {STATUSEFFECT1TURNS} giliran.
 {STATUSEFFECT2HEALING}% untuk setiap penyembuhan yang diterima selama {STATUSEFFECT2TURNS} giliran.
 Sumber Pelemahan akan aktif {MAXACTIVATIONCOUNT} kali. Setiap upaya untuk mengenyahkannya akan menghapus satu aktivasi."
 "specials.v2.statuseffect.major.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.mage_armor_hygd.heal_increase_hygd","Generator Efek Status: Di awal {MAXACTIVATIONCOUNT} giliran berikutnya, karakter ini memberi semua sekutu {STATUSEFFECT1DEFENSE}% pertahanan terhadap Keahlian Khusus dan  {STATUSEFFECT2HEALING}% peningkatan untuk semua penyembuhan yang diterima selama {STATUSEFFECT1TURNS} giliran. Efek ini tidak bisa dienyahkan."
@@ -1612,6 +1665,16 @@ Sumber Genjotan akan aktif {MAXACTIVATIONCOUNT} kali. Setiap upaya untuk mengeny
 {REPLACEDSPECIALDESCRIPTION}"
 "specials.v2.statuseffect.major.ubertitanstackingattackmodifier.single.allies","Tumpukan (Maks: {MAXSTACK}): Titan Mistis mendapat serangan {ATTACK}% selama {TURNS} giliran."
 "specials.v2.statuseffect.major.ubertitanstackingreceiveddamagemodifier.single.allies.decrease","Tumpukan (Max: {MAXSTACK}): Kerusakan yang diterima berkurang sebanyak {DAMAGEREDUCTION}% selama {TURNS} giliran."
+"specials.v2.statuseffect.major.vibrantfortunedancemultieffect.neartotargetexceptcaster.allies.vibrant_fortune_dance","Sekutu terdekat menari Tarian Hoki Cemerlang selama {TURNS} giliran.
+
+Tarian Hoki Cemerlang
+{STATUSEFFECTS}
+Tarian Hoki bertumpuk dengan efek Tarian lainnya."
+"specials.v2.statuseffect.major.vibrantfortunedancemultieffect.neartotargetexceptcaster.allies.vibrant_fortune_dance_ling_long","Sekutu terdekat menari Tarian Hoki Cemerlang selama {TURNS} giliran.
+
+Tarian Hoki Cemerlang
+{STATUSEFFECTS}
+Tarian Hoki bertumpuk dengan efek Tarian lainnya."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","Semua musuh mendapat akurasi {ACCURACY}% selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.accuracymodifier.allminor.enemies","Sasaran mendapat akurasi {ACCURACY}% dan semua musuh lainnya mendapat akurasi {MINORACCURACY}% selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.accuracymodifier.blue.enemies","Semua musuh Es mendapat akurasi {ACCURACY}% selama {TURNS} giliran."
@@ -1630,9 +1693,11 @@ Sumber Genjotan akan aktif {MAXACTIVATIONCOUNT} kali. Setiap upaya untuk mengeny
 "specials.v2.statuseffect.minor.addinsanitystatuseffectskill.single.allies.on.allyspecial.damage.neartotarget.enemies.add_insanity_dolores","Selama {TURNS} giliran berikutnya, karakter ini menimbulkan {POWER1}% kerusakan ke satu sasaran acak dan menimbulkan {STATUSEFFECT1INSANITYTOADD} Kegilaan padanya setiap kali sekutu lain merapal Keahlian Khususnya."
 "specials.v2.statuseffect.minor.addinsanitystatuseffectskill.single.allies.on.allyspecial.damage.single.enemies","Selama {TURNS} giliran berikutnya, karakter ini menimbulkan {POWER1}% kerusakan ke satu musuh acak dan menimbulkan {STATUSEFFECT1INSANITYTOADD} Kegilaan padanya setiap kali sekutu lain merapal Keahlian Khususnya."
 "specials.v2.statuseffect.minor.additivebleeding.neartotarget.enemies.noturns","Sasaran dan musuh terdekat menerima {BASICDAMAGE} kerusakan Lonjakan Berdarah langgeng per giliran."
+"specials.v2.statuseffect.minor.addstatuseffectonremoval.all.enemies.onremoval.expiration.paralysis_ivete.turns.one","Setelah 1 giliran, semua musuh menjadi Lumpuh selama 2 giliran."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_charmione","Setelah {TURNS} giliran, sasaran dan musuh terdekat menjadi Lumpuh selama {STATUSEFFECT1TURNS} giliran. Musuh yang lumpuh tidak bisa menyerang atau meraih mana dan menderita {STATUSEFFECT1DAMAGEMODIFIER}% peningkatan kerusakan."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_charmione.turns.one","Setelah {TURNS} giliran, sasaran dan musuh terdekat menjadi Lumpuh selama {STATUSEFFECT1TURNS} giliran."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_foxley.single.allies.turns.one","Setelah {TURNS} giliran, sasaran dan musuh terdekat menjadi Lumpuh selama {STATUSEFFECT1TURNS} giliran."
+"specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_ivete.turns.one","Setelah 1 giliran, sasaran dan musuh terdekat menjadi Lumpuh selama 2 giliran."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_knightus","Setelah {TURNS} giliran, sasaran dan musuh terdekat menjadi Lumpuh selama {STATUSEFFECT1TURNS} giliran. Musuh yang lumpuh tidak bisa menyerang atau meraih mana dan menderita {STATUSEFFECT1DAMAGEMODIFIER}% peningkatan kerusakan."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_knightus.turns.one","Setelah {TURNS} giliran, sasaran dan musuh terdekat menjadi Lumpuh selama {STATUSEFFECT1TURNS} giliran. Musuh yang lumpuh tidak bisa menyerang atau meraih mana dan menderita {STATUSEFFECT1DAMAGEMODIFIER}% peningkatan kerusakan."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_merith.turns.one","Setelah 1 giliran, sasaran dan musuh terdekat menjadi Lumpuh selama 2 giliran."
@@ -1645,12 +1710,14 @@ Sumber Genjotan akan aktif {MAXACTIVATIONCOUNT} kali. Setiap upaya untuk mengeny
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis.single.allies.turns.one","Setelah {TURNS} giliran, sasaran menjadi Lumpuh selama {STATUSEFFECT1TURNS} giliran."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_fruitio.single.allies.turns.one","Setelah {TURNS} giliran, sasaran menjadi Lumpuh selama {STATUSEFFECT1TURNS} giliran."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_knightus.turns.one","Setelah {TURNS} giliran, sasaran menjadi Lumpuh selama {STATUSEFFECT1TURNS} giliran."
+"specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_marzul.turns.one","Setelah 1 giliran, sasaran menjadi Lumpuh selama 2 giliran."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_wilcox.turns.one","Setelah {TURNS} giliran, sasaran menjadi Lumpuh selama {STATUSEFFECT1TURNS} giliran."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.paralysis.single.allies.turns.one","Setelah {TURNS} giliran, sasaran menjadi Lumpuh selama {STATUSEFFECT1TURNS} giliran."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.paralysis_fruitio.turns.one","Setelah {TURNS} giliran, sasaran menjadi Lumpuh selama {STATUSEFFECT1TURNS} giliran."
 "specials.v2.statuseffect.minor.amplifieddamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.onremoval.damage.all.enemies.dispel.removal.reallocation.death.replacesamestatuseffect.override.enterabsentform","Perapal menimbulkan {REMOVALEFFECT1FIXEDPOWER} kerusakan kepada semua musuh setelah {TURNS} giliran. Jika efek dihapus atau diganti sebelum durasi berakhir, akan menimbulkan {REMOVALEFFECT2FIXEDPOWER} kerusakan."
 "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect.override.enterabsentform","Kesehatan semua sekutu pulih {REMOVALEFFECT1FIXEDPOWER} setelah {TURNS} giliran. Jika efek dihapus atau diganti sebelum durasi berakhir, kesehatan akan pulih {REMOVALEFFECT2FIXEDPOWER}."
 "specials.v2.statuseffect.minor.amplifiedhealonremoval.neartotarget.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect.override.enterabsentform","Kesehatan perapal dan sekutu terdekat pulih {REMOVALEFFECT1FIXEDPOWER} setelah {TURNS} giliran. Jika efek dihapus atau diganti sebelum durasi berakhir, kesehatan akan pulih {REMOVALEFFECT2FIXEDPOWER}."
+"specials.v2.statuseffect.minor.amplifiedhealonremoval.single.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect","Perapal memulihkan {REMOVALEFFECT1FIXEDPOWER} kesehatan setelah {TURNS} giliran. Jika efek dihapus atau diganti sebelum durasi berakhir, kesehatan akan pulih {REMOVALEFFECT2FIXEDPOWER}."
 "specials.v2.statuseffect.minor.amplifiedmanaonremoval.all.allies.onremoval.addmana.single.allies.expiration.onremoval.addmana.single.allies.dispel.removal.reallocation.override.enterabsentform","Semua sekutu mendapat {REMOVALEFFECT1POWER}% mana setelah {TURNS} giliran. Jika efek dihapus sebelum durasi berakhir, akan mendapat {REMOVALEFFECT2POWER}% mana."
 "specials.v2.statuseffect.minor.assistskillaccuracymodifier.all.enemies","Semua musuh mendapat akurasi {ACCURACY}% selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.assistskillattackmodifier.all.allies","Semua sekutu mendapat {ATTACK}% serangan selama {TURNS} giliran."
@@ -1674,7 +1741,11 @@ Sumber Genjotan akan aktif {MAXACTIVATIONCOUNT} kali. Setiap upaya untuk mengeny
 "specials.v2.statuseffect.minor.astralorbaddstatuseffectsonremoval.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.onremoval.dispel.bouncing_damage_over_time_anatemah.single.allies.chain_strike","Musuh yang terkena jadi menderita akibat Bola Astral.
 Saat terkena Bola Astral, pemilik tidak bisa meraih genjotan efek status baru.
  Bola Astral meledak dalam {TURNS} giliran, menimbulkan {DAMAGE} kerusakan kepada pemiliknya.
- Jika Bola Astral dibersihkan, pemilik menerima Resonansi selama {STATUSEFFECT1TURNS} giliran. Resonansi menimbulkan {STATUSEFFECT1DAMAGEPERTURN} kerusakan tiap giliran. Resonansi menimbulkan {DAMAGEPERBOUNCE} kerusakan tambahan yang bergema ke {MAXBOUNCES} musuh acak."
+ Jika Bola Astral dibersihkan, pemilik menerima Resonansi selama {STATUSEFFECT1TURNS} giliran. Di setiap giliran, Resonansi menimbulkan {STATUSEFFECT1DAMAGEPERTURN} kerusakan pada musuh yang terdampak dan {RESONANCEDAMAGE} pada musuh terdekat."
+"specials.v2.statuseffect.minor.astralorbaddstatuseffectsonremoval.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.onremoval.dispel.resonance_damage_over_time_anatemah.single.allies.chain_strike","Musuh yang terkena jadi menderita akibat Bola Astral.
+Saat terkena Bola Astral, pemilik tidak bisa meraih genjotan efek status baru.
+ Bola Astral meledak dalam {TURNS} giliran, menimbulkan {DAMAGE} kerusakan kepada pemiliknya.
+ Jika Bola Astral dibersihkan, pemilik menerima Resonansi selama {STATUSEFFECT1TURNS} giliran. Di setiap giliran, Resonansi menimbulkan {STATUSEFFECT1DAMAGEPERTURN} kerusakan pada musuh yang terdampak dan {RESONANCEDAMAGE} pada musuh terdekat."
 "specials.v2.statuseffect.minor.attackmodifier.all.allies","Semua sekutu mendapat {ATTACK}% serangan selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.attackmodifier.all.allies.noturns","Semua sekutu mendapat {ATTACK}% serangan langgeng."
 "specials.v2.statuseffect.minor.attackmodifier.all.enemies","Semua musuh mendapat {ATTACK}% serangan selama {TURNS} giliran."
@@ -1743,6 +1814,7 @@ Saat terkena Bola Astral, pemilik tidak bisa meraih genjotan efek status baru.
 "specials.v2.statuseffect.minor.bleeding.single.enemies.chain_strike","Semua sasaran yang terkena mengalami {DAMAGE} kerusakan Berdarah selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.bleeding.single.enemies.contagious","Sasaran mengalami {DAMAGE} kerusakan Berdarah selama {TURNS} giliran. Efek ini menyebar ke musuh terdekat."
 "specials.v2.statuseffect.minor.bleeding.single.enemies.noturns","Sasaran menerima {DAMAGE} kerusakan berdarah langgeng per giliran."
+"specials.v2.statuseffect.minor.bleeding.smallfamiliarowners.enemies","Semua musuh yang punya Antek atau Iblis mengalami {DAMAGE} kerusakan Berdarah selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.bleedmark.all.enemies.stackingreceiveddamagemodifier.bleed","Semua musuh mendapat Tanda Berdarah selama {TURNS} giliran. Setiap kali sasaran yang ditandai menderita kerusakan Berdarah, dia meraih tumpukan (Maks: {STATUSEFFECT1MAXSTACK}). Tiap tumpukan meningkatkan semua kerusakan yang diterima sasaran sebesar {STATUSEFFECT1DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.bleedmark.neartotarget.enemies.stackingreceiveddamagemodifier.bleed","Sasaran dan musuh terdekat mendapat Tanda Berdarah selama {TURNS} giliran. Setiap kali sasaran yang ditandai menderita kerusakan Berdarah, dia meraih tumpukan (Maks: {STATUSEFFECT1MAXSTACK}). Tiap tumpukan meningkatkan semua kerusakan yang diterima sasaran sebesar {STATUSEFFECT1DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.bleedmark.single.enemies.stackingreceiveddamagemodifier.bleed","Sasaran mendapat Tanda Berdarah selama {TURNS} giliran. Setiap kali sasaran yang ditandai menderita kerusakan Berdarah, dia meraih tumpukan (Maks: {STATUSEFFECT1MAXSTACK}). Tiap tumpukan meningkatkan semua kerusakan yang diterima sasaran sebesar {STATUSEFFECT1DAMAGEMODIFIER}%."
@@ -1758,6 +1830,7 @@ Saat terkena Bola Astral, pemilik tidak bisa meraih genjotan efek status baru.
 "specials.v2.statuseffect.minor.blockstatuseffectcasting.single.enemies.chain_strike.only_main_target","Sasaran tidak bisa merapal efek status baru pada musuh atau sekutu selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.blocktalentskillactivation.all.enemies","Memblokir aktivasi Keahlian Bakat semua musuh selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.blocktalentskillactivation.single.enemies","Memblokir aktivasi Keahlian Bakat sasaran selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.blocktalentskillactivation.single.enemies.chain_strike.chain_strike_cassilda.on_additional_hit","Semua sasaran yang terkena tidak dapat mengaktifkan Keahlian Bakat mereka selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.blocktauntcasting.all.enemies","Semua musuh tidak bisa merapal efek status Ejek baru selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.blocktauntcasting.neartotarget.enemies","Sasaran dan musuh terdekat tidak bisa merapal efek status Ejek baru selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.bloodpoisoning.all.enemies","Semua musuh mengalami {BASICDAMAGE} kerusakan Lonjakan Berdarah selama {TURNS} giliran."
@@ -1798,6 +1871,7 @@ Iblis Rubah Jerangkong menyerap penyembuhan. Iblis lenyap setelah menyerap penye
 "specials.v2.statuseffect.minor.buffimmunity.single.enemies.damage","Sasaran kebal terhadap genjotan baru selama {TURNS} giliran, dan menerima {POWER} kerusakan untuk setiap upaya genjotan."
 "specials.v2.statuseffect.minor.buffimmunity.single.enemies.damage.chain_strike","Semua sasaran yang terkena kebal terhadap genjotan baru selama {TURNS} giliran, dan menerima {POWER} kerusakan untuk setiap upaya genjotan."
 "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration","Menimbulkan {DAMAGE} - {MAXDAMAGE} kerusakan pada semua musuh setelah {TURNS} giliran, berdasarkan kerusakan yang diterima perapal selama efek ini aktif."
+"specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death","Menimbulkan {DAMAGE} - {MAXDAMAGE} kerusakan pada semua musuh setelah {TURNS} giliran atau jika perapal kalah, berdasarkan kerusakan yang diterima perapal selama efek ini aktif."
 "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.powermultiplier","Menimbulkan kerusakan {POWER}%– {MAXPOWER}% pada semua musuh setelah {TURNS} giliran, berdasarkan kerusakan yang diterima perapal selama efek ini aktif."
 "specials.v2.statuseffect.minor.burn.all.allies","Semua sekutu mengalami {DAMAGE} kerusakan Terbakar selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.burn.all.enemies","Semua musuh mengalami {DAMAGE} kerusakan Terbakar selama {TURNS} giliran."
@@ -1878,16 +1952,16 @@ Iblis Rubah Jerangkong menyerap penyembuhan. Iblis lenyap setelah menyerap penye
 "specials.v2.statuseffect.minor.damageonremoval.allexceptcaster.allies.onremoval.damage.all.enemies.death","Jika sekutu kecuali perapal kalah dalam {TURNS} giliran, semua musuh menerima {DAMAGE} kerusakan."
 "specials.v2.statuseffect.minor.damageonremoval.single.allies.onremoval.damage.random.enemies.death","Jika perapal kalah dalam {TURNS} giliran, satu musuh acak menerima {DAMAGE} kerusakan."
 "specials.v2.statuseffect.minor.damageonremoval.single.enemies.onremoval.damage.all.allies.death","Jika sasaran kalah dalam {TURNS} giliran, semua musuh menerima {DAMAGE} kerusakan."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.all.allies","Semua sekutu mendapat pengurangan {MULTIPLIER}% kerusakan yang diterima dari status pelemahan selama {TURNS} giliran."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.all.enemies","Semua musuh menanggung {MULTIPLIER}% pertambahan kerusakan dari status pelemahan selama {TURNS} giliran."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.bleed.all.enemies","Semua musuh menanggung {MULTIPLIER}% pertambahan kerusakan dari status pelemahan Berdarah selama {TURNS} giliran."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.bleed.single.enemies.chain_strike","Semua sasaran yang terkena menanggung {MULTIPLIER}% pertambahan kerusakan dari status pelemahan Berdarah selama {TURNS} giliran."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.burn.poison.all.enemies","Semua musuh menanggung {MULTIPLIER}% pertambahan kerusakan dari status pelemahan Terbakar dan Racun selama {TURNS} giliran."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.neartotarget.enemies","Sasaran dan musuh terdekat menanggung {MULTIPLIER}% pertambahan kerusakan dari status pelemahan selama {TURNS} giliran."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.neartotarget.enemies.noturns","Sasaran dan musuh terdekat menanggung {MULTIPLIER}% pertambahan kerusakan langgeng dari status pelemahan."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.resist_completely.all.allies","Semua sekutu kebal terhadap kerusakan dari status pelemahan selama {TURNS} giliran."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.resist_completely.neartotarget.allies","Perapal dan sekutu terdekat kebal terhadap kerusakan dari pelemahan baru selama {TURNS} giliran."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.single.enemies","Sasaran menanggung {MULTIPLIER}% pertambahan kerusakan dari status pelemahan selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.all.allies","Semua sekutu mendapat pengurangan {MULTIPLIER}% kerusakan yang diterima dari status pelemahan dan tumpukan negatif selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.all.enemies","Semua musuh menanggung {MULTIPLIER}% pertambahan kerusakan dari status pelemahan dan tumpukan negatif selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.bleed.all.enemies","Semua musuh menanggung {MULTIPLIER}% pertambahan kerusakan dari status pelemahan Berdarah dan tumpukan negatif selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.bleed.single.enemies.chain_strike","Semua sasaran yang terkena menanggung {MULTIPLIER}% pertambahan kerusakan dari status pelemahan Berdarah dan tumpukan negatif selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.burn.poison.all.enemies","Semua musuh menanggung {MULTIPLIER}% pertambahan kerusakan dari status pelemahan Terbakar dan Racun serta tumpukan negatif selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.neartotarget.enemies","Sasaran dan musuh terdekat menanggung {MULTIPLIER}% pertambahan kerusakan dari status pelemahan dan tumpukan negatif selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.neartotarget.enemies.noturns","Sasaran dan musuh terdekat menanggung {MULTIPLIER}% pertambahan kerusakan langgeng dari status pelemahan dan tumpukan negatif."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.resist_completely.all.allies","Semua sekutu kebal terhadap kerusakan dari status pelemahan dan tumpukan negatif selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.resist_completely.neartotarget.allies","Perapal dan sekutu terdekat kebal terhadap kerusakan dari status pelemahan dan tumpukan negatif selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.single.enemies","Sasaran menanggung {MULTIPLIER}% pertambahan kerusakan dari status pelemahan dan tumpukan negatif selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.debuffshield.all.allies","Semua sekutu kebal terhadap status pelemahan baru selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.debuffshield.all.allies.heal","Semua sekutu kebal terhadap status pelemahan baru selama giliran {TURNS}, dan kesehatan pulih {POWER} untuk setiap upaya status pelemahan."
 "specials.v2.statuseffect.minor.debuffshield.neartotarget.allies","Perapal dan sekutu terdekat kebal terhadap pelemahan baru selama {TURNS} giliran."
@@ -2014,7 +2088,9 @@ Pada giliran terakhir, musuh berubah ke elemen aslinya.
 Setelah setiap elemen berubah, musuh menanggung {DAMAGEPERTURN} kerusakan jika elemennya Suci."
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","Serangan perapal naik {ATTACK}%, dan naik lagi sebesar {CHANGE}% setiap kali dia atau sekutunya terkena serangan selama {TURNS} giliran, hingga {MAXMODIFIER}% serangan. Saat efek ini habis, semua musuh mengalami {DAMAGE} kerusakan. setiap serangan yang mengenai perapal atau sekutunya selama durasi akan meningkatkan kerusakan sebesar {ADDITIONALDAMAGEPERHIT} sampai maksimum {MAXDAMAGE}."
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","Semua serangan normal sekutu dan Keahlian Khusus menimbulkan {DAMAGEMULTIPLIER}% kerusakan terhadap sasaran dengan peningkatan kesehatan selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","Semua musuh menyerah pada rasa Takut selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.fearstatuseffectskill.single.enemies.on.allyspecial.damage.random.allies","Sasaran menyerah pada rasa Takut selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.fearstatuseffectskill.single.enemies.on.allyspecial.damage.random.allies.chain_strike.only_main_target","Sasaran menyerah pada rasa Takut selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.fixedattackmodifier.all.allies","Semua sekutu mendapat {ATTACK} serangan selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.fixedattackmodifier.all.enemies","Semua musuh mendapat {ATTACK} serangan selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.fixedattackmodifier.all.enemies.removeonhealfromspecialreceived","Semua musuh mendapat {ATTACK} serangan sampai disembuhkan oleh Keahlian Khusus."
@@ -2073,6 +2149,7 @@ Tiap Koin menimbulkan {POWER1}% kerusakan."
 "specials.v2.statuseffect.minor.frost.neartotarget.enemies.absorb_boostedhealth.to.all","Sasaran dan musuh terdekat mengalami {DAMAGE} kerusakan Beku selama {TURNS} giliran. Perapal dan semua sekutunya menyerap {ABSORBHEALING}% dari kerusakan Beku yang ditimbulkan sebagai peningkatan kesehatan."
 "specials.v2.statuseffect.minor.frost.neartotarget.enemies.removeonhealfromspecialreceived","Sasaran dan musuh terdekat mengalami {DAMAGEPERTURN} kerusakan Beku tiap giliran sampai disembuhkan oleh Keahlian Khusus."
 "specials.v2.statuseffect.minor.frost.neartotargetexceptmaintarget.enemies.if_main_target_is.red","Jika sasaran berelemen Api, musuh terdekat menerima {DAMAGE} kerusakan Beku selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.frost.sides.enemies","Musuh di tepi formasi musuh mengalami {DAMAGE} kerusakan Beku selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.frost.single.enemies","Sasaran menerima {DAMAGE} kerusakan Beku selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.frost.single.enemies.chain_strike","Semua sasaran yang terkena mengalami {DAMAGE} kerusakan Beku selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","Sasaran mengalami {DAMAGE} kerusakan Beku selama {TURNS} giliran. Efek ini menyebar ke musuh terdekat."
@@ -2091,6 +2168,9 @@ Tiap Koin menimbulkan {POWER1}% kerusakan."
 "specials.v2.statuseffect.minor.greendefensemodifier.neartotarget.allies","Pertahanan perapal dan sekutu terdekat naik {DEFENSE}% terhadap elemen Alam selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.greendefensemodifier.neartotarget.enemies","Pertahanan sasaran dan musuh terdekat naik {DEFENSE}% terhadap elemen Alam selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.greendefensemodifier.single.enemies","Pertahanan sasaran naik {DEFENSE}% terhadap elemen Alam selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.greentrap.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.chain_strike.amplified.against_blue.against_titan.modifies_power","Musuh yang terdampak Jebakan Runcing.
+ Jebakan Runcing memberi sasarannya {DEFENSE}% pertahanan terhadap Alam. Terhadap Titan Es, Jebakan Runcing memberi targetnya {AMPLIFIEDDEFENSE}% pertahanan terhadap Alam.
+ Jebakan Runcing meledak dalam {TURNS} giliran, menimbulkan {DAMAGE} kerusakan kepada pemiliknya."
 "specials.v2.statuseffect.minor.healingdebuffimmunity.all.allies.removeresistedeffectsoncreation","Semua sekutu kebal terhadap status pelemahan baru yang memengaruhi penyembuhan selama {TURNS} giliran. Menghapus status pelemahan yang memengaruhi penyembuhan dari semua sekutu."
 "specials.v2.statuseffect.minor.healmultiplier.all.allies","Semua sekutu mendapat tambahan {HEALING}% untuk setiap kesembuhan yang diterima selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.healmultiplier.all.allies.decrease","Semua sekutu mendapat pengurangan {HEALING}% untuk setiap kesembuhan yang diterima selama {TURNS} giliran."
@@ -2137,7 +2217,8 @@ Tiap Koin menimbulkan {POWER1}% kerusakan."
 "specials.v2.statuseffect.minor.increasingpoison.single.enemies","Sasaran mengalami {DAMAGE} kerusakan Racun selama {TURNS} giliran. Kerusakannya dari sedikit, bertambah setiap giliran."
 "specials.v2.statuseffect.minor.increasingproportionalmanarecovery.neartotarget.allies","Perapal dan sekutu terdekat menerima mana setiap giliran selama {TURNS} giliran. Mana yang diterima meningkat setiap giliran hingga giliran terakhir, ketika {MAXMANAPERTURN}% mana diterima."
 "specials.v2.statuseffect.minor.increasingproportionalmanarecovery.neartotargetexceptcaster.allies","Sekutu terdekat menerima mana setiap giliran selama {TURNS} giliran. Mana yang diterima meningkat setiap giliran hingga giliran terakhir, ketika {MAXMANAPERTURN}% mana diterima."
-"specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.single.allies.removeonspecialcast","Perapal mendapat kekuatan tambahan {POWER}% untuk Keahlian Khusus berikutnya yang dirapal. Kekuatan tambahan meningkat {INCREASEPERTURN}% setiap giliran hingga total maksimum {MAXPOWERADDITION}%."
+"specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.allexceptcaster.allies.removeonspecialcast","Semua sekutu selain perapal mendapat kekuatan serangan tambahan {POWER}% untuk Keahlian Khusus berikutnya yang dirapal. Kekuatan tambahan meningkat {INCREASEPERTURN}% setiap giliran hingga total maksimum {MAXPOWERADDITION}%."
+"specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.single.allies.removeonspecialcast","Perapal mendapat kekuatan serangan tambahan {POWER}% untuk Keahlian Khusus berikutnya yang dirapal. Kekuatan tambahan meningkat {INCREASEPERTURN}% setiap giliran hingga total maksimum {MAXPOWERADDITION}%."
 "specials.v2.statuseffect.minor.insanityonhit.single.allies","Selama {TURNS} giliran berikutnya, perapal menimbulkan {STATUSEFFECT1INSANITYTOADD} Kegilaan pada semua musuh setiap kali perapal terpukul. Efeknya terpicu ketika musuh memberikan kerusakan melalui Keahlian Khusus. Ubin dan serangan normal dibatasi satu kali per giliran."
 "specials.v2.statuseffect.minor.invisible.single.allies.all.enemies.expiration.while.caster.allies.hastargetableallies","Jika perapal memiliki sekutu yang bisa disasar, perapal jadi tidak bisa disasar selama {TURNS} giliran. Menimbulkan kerusakan sebesar {FIXEDPOWER} pada semua musuh setelah giliran terakhir atau saat perapal menjadi karakter terakhir yang bisa disasar."
 "specials.v2.statuseffect.minor.lifesteal.all.allies","Semua sekutu sembuh {LIFESTEAL}% dari kerusakan normal yang diterima selama {TURNS} giliran."
@@ -2149,6 +2230,7 @@ Tiap Koin menimbulkan {POWER1}% kerusakan."
 "specials.v2.statuseffect.minor.lightning.single.enemies","Sasaran mengalami {MINDAMAGEPERTURN}-{MAXDAMAGEPERTURN} kerusakan Petir tiap giliran selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.lightning.single.enemies.onremoval.damage.all.allies.deathbythiseffect","Sasaran mengalami {MINDAMAGEPERTURN}-{MAXDAMAGEPERTURN} kerusakan Petir tiap giliran selama {TURNS} giliran. Jika sasaran kalah akibat kerusakan Petir, semua musuh mengalami {FIXEDPOWER} kerusakan."
 "specials.v2.statuseffect.minor.manacorruption.all.enemies.single.allies","Semua musuh menerima Korupsi Mana selama {TURNS} giliran. Setiap kali musuh yang terkena menerima mana dari sumber tambahan, mereka mengalami {DAMAGE} kerusakan."
+"specials.v2.statuseffect.minor.manacorruption.neartotarget.enemies.single.allies","Sasaran dan musuh terdekat menerima Korupsi Mana selama {TURNS} giliran. Setiap kali musuh yang terkena menerima mana dari sumber tambahan, mereka mengalami {DAMAGE} kerusakan."
 "specials.v2.statuseffect.minor.manafreeze.all.enemies","Mana semua musuh tidak bisa bertambah selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.manafreeze.neartotarget.enemies","Mana sasaran dan musuh terdekat tidak bertambah selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.manafreeze.single.allies","Mana perapal tidak bertambah selama {TURNS} giliran."
@@ -2218,13 +2300,24 @@ Setiap Sinar Bulan mengurangi mana musuh yang terkena sebesar {ABSPOWER2}%."
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.yellow","Perapal mendapat Bangsal Bulan Terbit selama {TURNS} giliran, yang mengurangi kerusakan Keahlian Khusus yang masuk hingga -{MAX}. Pengurangan kerusakan diukur berdasarkan pertahanan pembela dan kekuatan serangan penyerang. Mengurangi kerusakan sebesar {ADDITIONALDAMAGEMODIFIER}% lagi saat penyerang berelemen Suci."
 "specials.v2.statuseffect.minor.mysterypotion.all.enemies.onremoval.damage.single.allies.expiration.mana_freeze","Semua musuh menerima Ramuan Misteri. Setelah {TURNS} giliran, Ramuan Misteri meledak dan menimbulkan {DAMAGE} kerusakan pada sasaran. Setelah ledakan, sasaran tidak dapat memperoleh mana selama {STATUSEFFECT1TURNS} giliran."
 "specials.v2.statuseffect.minor.normalattackmodifier.all.allies","Semua sekutu mendapat  serangan normal {ATTACK}% selama {TURNS} giliran. Efek ini bisa aktif selain efek yang mengubah serangan pada umumnya. Serangan normal dapat memiliki total maksimum {MAXATTACK}% peningkatan kekuatan saat efek ini aktif."
+"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","Semua sekutu Es mendapat serangan normal {ATTACK}% selama {TURNS} giliran. Efek ini bisa aktif selain efek yang mengubah serangan pada umumnya. Serangan normal dapat memiliki total maksimum {MAXATTACK}% peningkatan kekuatan saat efek ini aktif."
+"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","Semua sekutu Alam mendapat serangan normal {ATTACK}% selama {TURNS} giliran. Efek ini bisa aktif selain efek yang mengubah serangan pada umumnya. Serangan normal dapat memiliki total maksimum {MAXATTACK}% peningkatan kekuatan saat efek ini aktif."
 "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","Perapal dan sekutu terdekat mendapat serangan normal {ATTACK}% selama {TURNS} giliran. Efek ini bisa aktif selain efek yang mengubah serangan pada umumnya. Serangan normal dapat memiliki total maksimum {MAXATTACK}% peningkatan kekuatan saat efek ini aktif."
+"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","Semua sekutu Gelap mendapat serangan normal {ATTACK}% selama {TURNS} giliran. Efek ini bisa aktif selain efek yang mengubah serangan pada umumnya. Serangan normal dapat memiliki total maksimum {MAXATTACK}% peningkatan kekuatan saat efek ini aktif."
+"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","Semua sekutu Api mendapat serangan normal {ATTACK}% selama {TURNS} giliran. Efek ini bisa aktif selain efek yang mengubah serangan pada umumnya. Serangan normal dapat memiliki total maksimum {MAXATTACK}% peningkatan kekuatan saat efek ini aktif."
 "specials.v2.statuseffect.minor.normalattackmodifier.single.allies","Serangan normal perapal jadi {ATTACK}% selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","Semua sekutu Suci mendapat serangan normal {ATTACK}% selama {TURNS} giliran. Efek ini bisa aktif selain efek yang mengubah serangan pada umumnya. Serangan normal dapat memiliki total maksimum {MAXATTACK}% peningkatan kekuatan saat efek ini aktif."
+"specials.v2.statuseffect.minor.normalattacknullifier.all.enemies","Semua musuh tidak berkontribusi pada kerusakan Pasukan selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.normalattacknullifier.neartotarget.enemies","Sasaran dan musuh terdekat tidak berkontribusi pada kerusakan Pasukan selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.normalattacknullifier.sides.enemies","Musuh di tepi formasi musuh tidak berkontribusi pada kerusakan Pasukan selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.normalattacknullifier.single.enemies","Sasaran tidak berkontribusi pada kerusakan Pasukan selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.normalattacknullifier.single.enemies.chain_strike","Semua sasaran yang terkena tidak berkontribusi pada kerusakan Pasukan selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.normalattackreceiveddamagemodifier.neartotargetminor.enemies","Sasaran mengalami {DAMAGEMODIFIER}% peningkatan kerusakan dari serangan normal dan musuh terdekat mengalami {MINORDAMAGEMODIFIER}% kerusakan dari serangan normal selama 3 giliran."
 "specials.v2.statuseffect.minor.painempathy.sides.enemies","Selama {TURNS} giliran, musuh di tepi formasi mengalami kerusakan {DAMAGEMULTIPLIER}% dari semua kerusakan yang ditimbulkan kepada sekutu mereka."
 "specials.v2.statuseffect.minor.painempathy.single.enemies","Selama {TURNS} giliran, sasaran mengalami kerusakan {DAMAGEMULTIPLIER}% dari semua kerusakan yang ditimbulkan kepada sekutu mereka."
 "specials.v2.statuseffect.minor.poison.all.enemies","Semua musuh mengalami {DAMAGE} kerusakan Racun selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.poison.all.enemies.absorb_boostedhealth.to.all","Semua musuh mengalami {DAMAGE} kerusakan Racun selama {TURNS} giliran. Perapal dan semua sekutunya menyerap {ABSORBHEALING}% dari kerusakan Racun yang ditimbulkan sebagai kesehatan yang ditingkatkan."
+"specials.v2.statuseffect.minor.poison.all.enemies.absorb_boostedhealth.to.single","Semua musuh mengalami {DAMAGE} kerusakan Racun selama {TURNS} giliran. Perapal menyerap {ABSORBHEALING}% dari kerusakan Terbakar yang ditimbulkan sebagai kesehatan yang ditingkatkan."
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_healing.to.all","Semua musuh mengalami {DAMAGE} kerusakan Racun selama {TURNS} giliran. Perapal dan semua sekutunya menyerap {ABSORBHEALING}% dari kerusakan Racun yang ditimbulkan sebagai kesehatan."
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_healing.to.single","Semua musuh mengalami {DAMAGE} kerusakan Racun selama {TURNS} giliran. Perapal menyerap {ABSORBHEALING}% dari kerusakan Terbakar yang ditimbulkan sebagai kesehatan."
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_mana.to.single","Semua musuh menerima {DAMAGE} kerusakan Racun selama {TURNS} giliran. Perapal menerima sejumlah kecil mana setiap kali kerusakan Racun diterapkan."
@@ -2236,6 +2329,7 @@ Setiap Sinar Bulan mengurangi mana musuh yang terkena sebesar {ABSPOWER2}%."
 "specials.v2.statuseffect.minor.poison.neartotarget.enemies.noturns","Sasaran dan musuh terdekat menerima {DAMAGE} kerusakan Racun langgeng per giliran."
 "specials.v2.statuseffect.minor.poison.sides.enemies","Musuh di tepi formasi musuh mengalami kerusakan Racun {DAMAGE} selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.poison.single.enemies","Sasaran mengalami {DAMAGE} kerusakan Racun selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.poison.single.enemies.absorb_boostedhealth.to.single","Sasaran mengalami {DAMAGE} kerusakan Racun selama {TURNS} giliran. Perapal menyerap {ABSORBHEALING}% dari kerusakan Terbakar yang ditimbulkan sebagai kesehatan yang ditingkatkan."
 "specials.v2.statuseffect.minor.poison.single.enemies.absorb_healing.to.single","Sasaran mengalami {DAMAGE} kerusakan Racun selama {TURNS} giliran. Perapal menyerap {ABSORBHEALING}% dari kerusakan Terbakar yang ditimbulkan sebagai kesehatan."
 "specials.v2.statuseffect.minor.poison.single.enemies.absorb_mana.to.single","Sasaran menerima {DAMAGE} kerusakan Racun selama {TURNS} giliran. Perapal menerima sejumlah kecil mana setiap kali kerusakan Racun diterapkan."
 "specials.v2.statuseffect.minor.poison.single.enemies.contagious","Sasaran mengalami {DAMAGE} kerusakan Racun selama {TURNS} giliran. Efek ini menyebar ke musuh terdekat."
@@ -2303,6 +2397,9 @@ Setiap Sinar Bulan mengurangi mana musuh yang terkena sebesar {ABSPOWER2}%."
 "specials.v2.statuseffect.minor.reddefensemodifier.neartotarget.enemies","Pertahanan sasaran dan musuh terdekat jadi {DEFENSE}% terhadap elemen Api selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.reddefensemodifier.single.allies","Pertahanan perapal naik {DEFENSE}% terhadap elemen Api selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.reddefensemodifier.single.enemies","Pertahanan sasaran naik {DEFENSE}% terhadap elemen Api selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.redtrap.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.chain_strike.amplified.against_green.against_titan.modifies_power","Musuh yang terdampak Jebakan Runcing.
+ Jebakan Runcing memberi sasarannya {DEFENSE}% pertahanan terhadap Api. Terhadap Titan Alam, Jebakan Runcing memberi targetnya {AMPLIFIEDDEFENSE}% pertahanan terhadap Api.
+ Jebakan Runcing meledak dalam {TURNS} giliran, menimbulkan {DAMAGE} kerusakan kepada pemiliknya."
 "specials.v2.statuseffect.minor.reducefamiliarhealth.all.enemies.minion.bigminion","Semua musuh menerima Luka Antek selama {TURNS} giliran.
 Luka Antek: Kesehatan Antek sasaran berkurang {HEALTHREDUCTION}% dan kesehatan Antek Mega berkurang {BIGMINIONHEALTHREDUCTION}% tiap giliran."
 "specials.v2.statuseffect.minor.reducefamiliarhealth.neartotarget.enemies.minion.bigminion","Sasaran dan musuh terdekat menerima Luka Antek selama {TURNS} giliran.
@@ -2328,17 +2425,22 @@ Luka Antek: Kesehatan Antek sasaran berkurang {HEALTHREDUCTION}% dan kesehatan A
 "specials.v2.statuseffect.minor.reflectminorbuffs.neartotarget.enemies.randomenemy","Sasaran dan musuh terdekat memantulkan genjotan efek status ke karakter acak di tim lawan selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.reflectminordebuffs.all.allies.randomenemy","Semua sekutu memantulkan status pelemahan ke karakter acak di tim lawan selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.reflectminordebuffs.neartotarget.allies.randomenemy","Perapal dan sekutu terdekat memantulkan status pelemahan ke karakter acak di tim lawan selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.resilientrot.single.allies.resilient_rot","Perapal mendapat Busuk Membandel selama {TURNS} giliran.
+
+Busuk Membandel
+{STATUSEFFECTS}"
 "specials.v2.statuseffect.minor.resistcleansefromspecial.all.enemies","Semua musuh tidak bisa mendapatkan status pelemahannya dibersihkan atau direalokasi oleh Keahlian Khusus selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.resistcleansefromspecial.all.enemies.while.single.allies.familiaralive.bone_trap_parasite_amund.bone_trap_parasite","Semua musuh tidak bisa mendapatkan status pelemahannya dibersihkan atau direalokasi oleh Keahlian Khusus selama mereka memiliki Iblis Jebakan Tulang."
 "specials.v2.statuseffect.minor.resistcleansefromspecial.neartotarget.enemies","Sasaran dan musuh terdekat tidak bisa mendapatkan status pelemahannya dibersihkan atau direalokasi oleh Keahlian Khusus selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.resistcleansefromspecial.sides.enemies","Musuh di tepi formasi musuh tidak bisa mendapatkan status pelemahannya dibersihkan atau direalokasi oleh Keahlian Khusus selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.resistcleansefromspecial.single.enemies","Sasaran tidak bisa mendapatkan status pelemahannya dibersihkan atau direalokasi oleh Keahlian Khusus selama {TURNS} giliran."
-"specials.v2.statuseffect.minor.resisthealing.all.enemies.damage","Semua musuuh menampik penyembuhan dan menerima {FIXEDPOWER} kerusakan per tiap penyembuhan yang ditampik selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.resisthealing.all.enemies.damage","Semua musuh menampik penyembuhan dan menerima {FIXEDPOWER} kerusakan per tiap penyembuhan yang ditampik selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.resisthealing.neartotarget.enemies.damage","Sasaran dan musuh terdekat menampik penyembuhan dan menerima {FIXEDPOWER} kerusakan per tiap penyembuhan yang ditampik selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.resisthealing.sides.enemies.damage","Musuh yang berada di tepi formasi musuh terdekat menampik penyembuhan dan menerima {FIXEDPOWER} kerusakan per tiap penyembuhan yang ditampik selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage","Sasaran menampik penyembuhan dan menerima {FIXEDPOWER} kerusakan per tiap penyembuhan yang ditampik selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.chain_strike","Sasaran menampik penyembuhan dan menerima {FIXEDPOWER} kerusakan per tiap penyembuhan yang ditampik selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.chain_strike.chain_strike_turundh.on_additional_hit","Sasaran pukulan kedua menampik penyembuhan dan menerima {FIXEDPOWER} kerusakan per tiap penyembuhan yang ditampik selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.noturns.chain_strike","Semua sasaran yang terkena menampik penyembuhan dan menerima {FIXEDPOWER} kerusakan per tiap penyembuhan yang ditampik selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.resistmanaeffects.all.allies","Semua sekutu kebal terhadap efek mana negatif yang baru selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.resistmanaeffects.all.allies.onresist.addmana.single.allies","Semua sekutu kebal terhadap efek mana negatif yang baru selama {TURNS} giliran, dan mana mereka naik {POWER}% untuk setiap efek yang ditampik."
 "specials.v2.statuseffect.minor.resistmanaeffects.neartotarget.allies.onresist.addmana.single.allies","Perapal dan sekutu terdekat kebal terhadap efek mana negatif yang baru selama {TURNS} giliran, dan mana mereka naik {POWER}% untuk setiap efek yang ditampik."
@@ -2356,6 +2458,10 @@ Luka Antek: Kesehatan Antek sasaran berkurang {HEALTHREDUCTION}% dan kesehatan A
 "specials.v2.statuseffect.minor.resistresurrecteffects.neartotarget.enemies","Sasaran dan musuh terdekat tidak bisa menerima efek status baru yang tidak akan membangkitkan mereka kembali selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.resistspecialblocking.all.allies","Semua sekutu kebal terhadap efek baru pemblokir Keahlian Khusus selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.resistspecialblocking.neartotarget.allies","Perapal dan sekutu terdekat kebal terhadap efek baru pemblokir Keahlian Khusus selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.resonancedamageovertime.neartotarget.enemies.neartotargetexceptmaintarget","Sasaran dan musuh terdekat menerima Resonansi selama {TURNS} giliran. Setiap giliran, Resonansi menimbulkan {DAMAGEPERTURN} kerusakan pada musuh yang terdampak dan {RESONANCEDAMAGE} kerusakan pada musuh terdekat."
+"specials.v2.statuseffect.minor.resonancedamageovertime.sides.enemies.neartotargetexceptmaintarget","Musuh di tepi formasi menerima Resonansi selama {TURNS} giliran. Setiap giliran, Resonansi menimbulkan {DAMAGEPERTURN} kerusakan pada musuh yang terdampak dan {RESONANCEDAMAGE} kerusakan pada musuh terdekat."
+"specials.v2.statuseffect.minor.resonancedamageovertime.single.enemies.neartotargetexceptmaintarget","Sasaran menerima Resonansi selama {TURNS} giliran. Setiap giliran, Resonansi menimbulkan {DAMAGEPERTURN} kerusakan pada musuh yang terdampak dan {RESONANCEDAMAGE} kerusakan pada musuh terdekat."
+"specials.v2.statuseffect.minor.resonancedamageovertime.single.enemies.neartotargetexceptmaintarget.chain_strike","Musuh yang terkena menerima Resonansi selama {TURNS} giliran. Setiap giliran, Resonansi menimbulkan {DAMAGEPERTURN} kerusakan pada musuh yang terdampak dan {RESONANCEDAMAGE} kerusakan pada musuh terdekat."
 "specials.v2.statuseffect.minor.revive.draugrblessing.all.allies","Semua sekutu menerima Berkat Draugr. Jika Pahlawan yang diberkati kalah dalam {TURNS} giliran berikutnya, dia akan terlahir kembali sebagai Draugr dengan:
 
 Kesehatan warisan {INHERITEDHEALTH}%.
@@ -2427,6 +2533,7 @@ Sasaran dan musuh terdekat menjadi Terhubung Jiwanya selama {TURNS} giliran. Mus
 "specials.v2.statuseffect.minor.specialdamagepowermodifier.neartotarget.allies","Keahlian Khusus Pahlawan dan sekutu terdekat menimbulkan tambahan kerusakan {POWER}% selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.specialrevengestatuseffectskill.neartotarget.allies.on.enemyspecialhit.damage.single.enemies","Selama {TURNS} giliran berikutnya, setiap kali perapal dan sekutu terdekat mengalami kerusakan dari Keahlian Khusus musuh, mereka menimbulkan {FIXEDPOWER} kerusakan kepada penyerang."
 "specials.v2.statuseffect.minor.specialrevengestatuseffectskill.single.allies.on.enemyspecial.damage.all.enemies","Selama {TURNS} giliran berikutnya, karakter ini menimbulkan {POWER1}% kerusakan kepada semua musuh setelah musuh merapal Keahlian Khususnya."
+"specials.v2.statuseffect.minor.specialrevengestatuseffectskill.single.allies.on.enemyspecial.damage.random.enemies","Selama {TURNS} giliran berikutnya, karakter ini menimbulkan {POWER1}% kerusakan kepada musuh acak setelah musuh merapal Keahlian Khususnya."
 "specials.v2.statuseffect.minor.specialrevengestatuseffectskill.single.allies.on.enemyspecial.damage.single.enemies.with_chance","Selama {TURNS} giliran berikutnya, karakter ini berpeluang {CHANCE}% menimbulkan {POWER1}% kerusakan kepada musuh acak setelah musuh merapal Keahlian Khususnya."
 "specials.v2.statuseffect.minor.specialrevengestatuseffectskill.single.allies.on.enemyspecial.heal.all.allies","Selama {TURNS} giliran berikutnya, karakter ini memulihkan {FIXEDPOWER} kesehatan semua sekutu setelah musuh merapal Keahlian Khususnya."
 "specials.v2.statuseffect.minor.specialrevengestatuseffectskill.single.allies.on.enemyspecialhit.damage.all.enemies","Selama {TURNS} giliran berikutnya, setiap kali perapal mengalami kerusakan dari Keahlian Khusus musuh, mereka menimbulkan {FIXEDPOWER} kerusakan kepada semua musuh."
@@ -2521,7 +2628,8 @@ Setiap kelitan memberi semua sekutu {MANAREGEN}% generasi mana selama {TURNS} gi
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.druid_thorn","Semua sekutu berpeluang {DODGE}% untuk berkelit dari Keahlian Khusus selama {TURNS} giliran. Setiap kali berkelit akan memanggil satu Antek Duri."
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.druid_thorn_empowered","Semua sekutu berpeluang {DODGE}% untuk berkelit dari Keahlian Khusus selama {TURNS} giliran. Setiap kali berkelit akan memanggil satu Antek Duri Diberdayakan."
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.sakura_fox","Semua sekutu mendapat {DODGE}% peluang untuk berkelit dari Keahlian Khusus selama {TURNS} giliran. Setiap berkelit memanggil satu Antek Rubah Sakura."
-"specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_red_titan","Semua sekutu mendapat serangan {ATTACK}% selama {TURNS} giliran. Melawan Titan Api, semya sekutu mendapat serangan {ATTACKAGAINSTVALIDTARGET}%."
+"specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_red_titan","Semua sekutu mendapat serangan {ATTACK}% selama {TURNS} giliran. Melawan Titan Api, semua sekutu mendapat serangan {ATTACKAGAINSTVALIDTARGET}%."
+"specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_yellow_titan","Semua sekutu mendapat serangan {ATTACK}% selama {TURNS} giliran. Melawan Titan Suci, semua sekutu mendapat serangan {ATTACKAGAINSTVALIDTARGET}%."
 "specials.v2.statuseffect.minor.taunt.single.allies","Perapal mendapat Cela yang membuat musuh tidak bisa menggunakan Keahlian Khusus pada sekutu perapal selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.toxin.all.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Semua musuh mengalami {DAMAGE} kerusakan Racun selama {TURNS} giliran. 
  Kerusakan bertambah melawan sasaran dengan peningkatan kesehatan, Antek, atau satu Antek Mega."
@@ -2569,6 +2677,7 @@ Kegilaan pahlawan bisa diturunkan dengan penyembuhan langsung dari Keahlian Khus
 "specials.v2.statuseffect.permanent.insanity.single.allies","Menimbulkan {INSANITYTOADD} Kegilaan pada perapalnya."
 "specials.v2.statuseffect.permanent.insanity.single.enemies","Menimbulkan {INSANITYTOADD} Kegilaan pada sasarannya."
 "specials.v2.statuseffect.permanent.insanity.single.enemies.chain_strike","Setiap kali terkena, semua sasaran mendapat {INSANITYTOADD} Kegilaan."
+"specials.v2.statuseffect.permanent.insanity.single.enemies.chain_strike.chain_strike_cassilda.on_additional_hit","Setiap kali terkena, semua sasaran mendapat {INSANITYTOADD} Kegilaan."
 "specials.v2.statuseffect.permanent.managenerationmodifier.red.allies","Semua Pahlawan Api menerima generasi mana {MANAREGEN}%."
 "specials.v2.statuseffect.permanent.specialdamagepowermodifier.green.allies","Semua Pahlawan Alam mendapat tambahan kekuatan {POWER}% untuk serangan Keahlian Khusus."
 "specials.v2.statuseffect.permanent.warattackmodifier.all.enemies","Semua Pahlawan pertahanan mendapat {ATTACK}% serangan. Efek ini bertambah kuat tiap kali diaktifkan."

@@ -18,20 +18,21 @@ Ta postać ma obecnie:
 "herocard.passive_skill.description.conditionaleffectovertime.revival.all.allies.while.single.allies.hasdeadallies","Co {TURNS} tur(y) wskrzesza wszystkich pokonanych sojuszników z {POWER}% PŻ."
 "herocard.passive_skill.description.conditionaleffectovertime.revival.neartotargetexceptcaster.allies.while.single.allies.hasdeadallies","Co {TURNS} tur(y) wskrzesza pobliskich pokonanych sojuszników z {POWER}% PŻ."
 "herocard.passive_skill.description.conditionaleffectovertime.usable_once.heal.addmana.everyturn.while.single.allies.lowhealth","Gdy ta postać pierwszy raz podczas bitwy rozpocznie turę z niskim poziomem zdrowia, odzyskuje {HEALTH}% zdrowia i otrzymuje {MANA}% many."
-"herocard.passive_skill.description.convertincomingdamagetoheal.all.statuseffect","Za każdym razem, gdy ta postać ma otrzymać obrażenia od dolegliwości ze statusu, zamiast tego odzyska zdrowie o wartości tych obrażeń."
-"herocard.passive_skill.description.convertincomingdamagetoheal.statuseffect","Za każdym razem, gdy ta postać ma otrzymać obrażenia od dolegliwości ze statusu, zamiast tego odzyska zdrowie o wartości tych obrażeń. Wartość leczenia wynosi {MULTIPLIER}% obrażeń."
+"herocard.passive_skill.description.convertincomingdamagetoheal.all.statuseffect","Za każdym razem, gdy ta postać ma otrzymać obrażenia od dolegliwości ze statusu lub od kumulacji negatywnej, zamiast tego odzyska zdrowie o wartości tych obrażeń."
+"herocard.passive_skill.description.convertincomingdamagetoheal.statuseffect","Za każdym razem, gdy ta postać ma otrzymać obrażenia od dolegliwości ze statusu lub od kumulacji negatywnej, zamiast tego odzyska zdrowie o wartości tych obrażeń. Wartość leczenia wynosi {MULTIPLIER}% obrażeń."
 "herocard.passive_skill.description.criticalmodifiersupportcharacter.troop","{CRITICALMODIFIER}% szans na trafienie krytyczne."
 "herocard.passive_skill.description.damage.all.enemies","Zadaje {DAMAGE}% obrażeń wszystkim przeciwnikom."
 "herocard.passive_skill.description.damagefamiliarsovertime.all.enemies.minion.bigminion","Zadaje {DAMAGEPERTURN} pkt. obrażeń wszystkim wrogim pomocnikom i mega pomocnikom co {TURNS} tur(y)."
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.bigminion.minion","Zadaje {DAMAGEPERTURN} pkt. obrażeń wszystkim wrogim pomocnikom i mega pomocnikom na początku każdej tury."
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion","Zadaje {DAMAGEPERTURN} pkt. obrażeń wszystkim wrogim pomocnikom i mega pomocnikom na początku każdej tury."
 "herocard.passive_skill.description.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Wszystkie obrażenia zadawane normalnymi atakami i umiejętnościami specjalnymi przez tę postać są zwiększone o {DAMAGEINCREASEPERSTEP}% za każde {INSANITYPERSTEP} pkt. obłędu na tej postaci, maksymalnie do {MAXDAMAGEINCREASE}%."
-"herocard.passive_skill.description.dealtdamagemodifieragainststatuseffect.bloodlily.stacks.troop.specialskill.npcnormalattack.add_modifier_per_stack","Wszystkie obrażenia od zwykłych ataków i umiejętności specjalnych zadane przez tą postać są zwiększone o {MODIFIER}% za każdą kumulację krwawej lilii na celu."
-"herocard.passive_skill.description.dealtstrongelementsupportcharacterdamage.increase","Oddziały tego bohatera zadają dodatkowe obrażenia od żywiołu przeciwko słabszym żywiołom.
+"herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single.troop.specialskill.npcnormalattack.add_modifier_per_stack","Wszystkie obrażenia od zwykłych ataków i umiejętności specjalnych zadane przez tą postać są zwiększone o {MODIFIER}% za każdą kumulację krwawej lilii na celu."
+"herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all.specialskill.any","Jeżeli dowolny sojusznik tańczy, umiejętność specjalna tej postaci zadaje o {MODIFIERCHANGE}% więcej obrażeń."
+"herocard.passive_skill.description.dealtstrongelementsupportcharacterdamage.increase","Oddziały tej postaci zadają zwiększone obrażenia przeciwko słabszemu żywiołowi.
 
-Zadane dodatkowe obrażenia od żywiołu: +{MODIFIER}%"
-"herocard.passive_skill.description.debuffdamagereduction","Obrażenia powodowane przez dolegliwości ze statusu zredukowane o {DAMAGEREDUCTION}%"
-"herocard.passive_skill.description.debuffdamagereductionsupportcharacter.troop","Obrażenia powodowane przez dolegliwości ze statusu są zredukowane o {DAMAGEREDUCTION}% dla tej postaci."
+Obrażenia dodatkowe: +{MODIFIER}%"
+"herocard.passive_skill.description.debuffdamagereduction","Obrażenia powodowane przez dolegliwości ze statusu i kumulacje negatywne są zredukowane o {DAMAGEREDUCTION}%"
+"herocard.passive_skill.description.debuffdamagereductionsupportcharacter.troop","Obrażenia powodowane przez dolegliwości ze statusu i kumulacje negatywne są zredukowane o {DAMAGEREDUCTION}% dla tej postaci."
 "herocard.passive_skill.description.destructivecoreintrinsicchargeeffectonspecial.damage.all.enemies.always","Rdzeń konstruktu tej postaci to Rdzeń zniszczenia.
 
  Rdzeń zniszczenia aktywuje się za każdym razem, gdy postać rzuca umiejętność specjalną:
@@ -155,281 +156,7 @@ PŻ i atak przejęte od rzucającego skalują się z poziomem naładowania rdzen
 "herocard.passive_skill.description.memorizestatuseffects","Ta postać ma wrodzoną umiejętność, dzięki której Zapamiętuje dolegliwości ze statusu. Zapamięta dolegliwość ze statusu, która została na nią ostatnio nałożona, do momentu rzucenia umiejętności specjalnej. Zapamiętane mogą zostać jedynie dolegliwości ze statusu z czasem działania."
 "herocard.passive_skill.description.memorizestatuseffects#2","Ta postać ma wrodzoną umiejętność, dzięki której Zapamiętuje dolegliwości ze statusu. Zapamięta {0} dolegliwości ze statusu, które zostały na nią ostatnio nałożone, do momentu rzucenia umiejętności specjalnej. Zapamiętane mogą zostać jedynie dolegliwości ze statusu z czasem działania."
 "herocard.passive_skill.description.memorizestatuseffects#3","Ta postać ma wrodzoną umiejętność, dzięki której Zapamiętuje dolegliwości ze statusu. Zapamięta {0} dolegliwości ze statusu, które zostały na nią ostatnio nałożone, do momentu rzucenia umiejętności specjalnej. Zapamiętane mogą zostać jedynie dolegliwości ze statusu z czasem działania."
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_blue","Dodatkowe łupy zapewniane przez mimika po ukończeniu etapów:
-
-*****
- Materia alfa
- Materia lodu III
-
-****
- Materia lodu II
-
-***
- Materia lodu I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_green","Dodatkowe łupy zapewniane przez mimika po ukończeniu etapów:
-
-*****
- Materia alfa
- Materia natury III
-
-****
- Materia natury II
-
-***
- Materia natury I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_purple","Dodatkowe łupy zapewniane przez mimika po ukończeniu etapów:
-
-*****
- Materia alfa
- Materia mroku III
-
-****
- Materia mroku II
-
-***
- Materia mroku I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_red","Dodatkowe łupy zapewniane przez mimika po ukończeniu etapów:
-
-*****
- Materia alfa
- Materia ognia III
-
-****
- Materia ognia II
-
-***
- Materia ognia I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_yellow","Dodatkowe łupy zapewniane przez mimika po ukończeniu etapów:
-
-*****
- Materia alfa
- Materia światłości III
-
-****
- Materia światłości II
-
-***
- Materia światłości I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_blue","Ten mimik zapewnia szansę na dodatkowe łupy za ukończone etapy:
-
-****
- Ostrze Damaszku
- Księga taktyki
- Dalekosiężny teleskop
-
-***
- Rękawice
- Kompas
- Ciepła peleryna
- Podręcznik walki
- Kozaki
- Kolczuga
-
-**
- Silny sznur"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_epic_yellow","Ten mimik zapewnia szansę na dodatkowe łupy za ukończone etapy:
-
-***
- Ukryte ostrze
- Magiczna kula
- Wytrzymała tarcza
- Narzędzia do zasadzek
- Ciepła peleryna
- Podręcznik walki 
- Kolczuga
- Scabbard
- Futerał
-
-**
- Tajemne zwoje
- Sztylet
- Skórzana zbroja
- Ostrzałka
- Silny sznur
- Drewniana tarcza
-
-*
- Zestaw awanturnika
- Miecz treningowy
- Poszarpana odzież"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_green","Ten mimik zapewnia szansę na dodatkowe łupy za ukończone etapy:
-
-****
- Ostrze Damaszku
- Księga taktyki
- Tajemniczy napój
-
-***
- Rękawice
- Kompas
- Wytrzymała tarcza
- Kozaki
- Futerał
-
-**
- Silny sznur
- Sztylet"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_purple","Ten mimik zapewnia szansę na dodatkowe łupy za ukończone etapy:
-
-****
- Ostrze Damaszku
- Księga taktyki
- Królewski tabard
-
-***
- Rękawice
- Kompas
- Narzędzia do zasadzek
- Kozaki
- Futerał
-
-**
- Silny sznur
- Sztylet"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_red","Ten mimik zapewnia szansę na dodatkowe łupy za ukończone etapy:
-
-****
- Ostrze Damaszku
- Księga taktyki
- Mistyczne pierścienie
-
-***
- Rękawice
- Kompas
- Ukryte ostrze
- Kolczuga
- Kozaki
-
-**
- Tajemne zwoje"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_yellow","Ten mimik zapewnia szansę na dodatkowe łupy za ukończone etapy:
-
-****
- Ostrze Damaszku
- Księga taktyki
- Zatrute strzałki
-
-***
- Rękawice
- Kompas
- Magiczna kula
- Kolczuga
- Kozaki
-
-**
- Tajemne zwoje"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_blue","Ten mimik zapewnia szansę na dodatkowe łupy za ukończone etapy:
-
-*****
- Mistrzowskie symbole czarodzieja
- Mistrzowskie symbole czarnoksiężnika
-
-****
- Symbole czarodzieja
- Symbole czarnoksiężnika"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_green","Ten mimik zapewnia szansę na dodatkowe łupy za ukończone etapy:
-
-*****
- Mistrzowskie symbole paladyna
- Mistrzowskie symbole druida
-
-****
- Symbole paladyna
- Symbole druida"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_purple","Ten mimik zapewnia szansę na dodatkowe łupy za ukończone etapy:
-
-*****
- Mistrzowskie symbole łotrzyka
- Mistrzowskie symbole strażnika lasu
-
-****
- Symbole łotrzyka
- Symbole strażnika lasu"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_red","Ten mimik zapewnia szansę na dodatkowe łupy za ukończone etapy:
-
-*****
- Mistrzowskie symbole wojownika
- Mistrzowskie symbole barbarzyńcy
-
-****
- Symbole wojownika
- Symbole barbarzyńcy"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_yellow","Ten mimik zapewnia szansę na dodatkowe łupy za ukończone etapy:
-
-*****
- Mistrzowskie symbole kleryka
- Mistrzowskie symbole mnicha
-
-****
- Symbole kleryka
- Symbole mnicha"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_experience_rare_red","Ten mimik zapewnia szansę na dodatkowe łupy za ukończone etapy:
-
-**
-Niepospolici bohaterowie ognia, natury, lodu, mroku i światłości
-
-*
-Zwykli mistrzowie trenerów
-Zwykli bohaterowie ognia, natury, lodu, mroku i światłości"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_blue","Ten mimik zapewnia szansę na dodatkowe łupy po ukończeniu etapów:
-
-***
-Rzadcy trenerzy lodu
-
-**
-Niepospolici trenerzy lodu
-Niepospolici bohaterowie lodu
- 
-Zwykli trenerzy lodu
-Zwykli bohaterowie lodu"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_green","Ten mimik zapewnia szansę na dodatkowe łupy po ukończeniu etapów:
-
-***
-Rzadcy trenerzy natury
-
-**
-Niepospolici trenerzy natury
-Niepospolici bohaterowie natury
- 
-*
-Zwykli trenerzy natury
-Zwykli bohaterowie natury"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_purple","Ten mimik zapewnia szansę na dodatkowe łupy po ukończeniu etapów:
-
-***
-Rzadcy trenerzy mroku
-
-**
-Niepospolici trenerzy mroku
-Niepospolici bohaterowie mroku
- 
-*
-Zwykli bohaterowie mroku
-Zwykli trenerzy mroku"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_red","Ten mimik zapewnia szansę na dodatkowe łupy po ukończeniu etapów:
-
-***
-Rzadcy trenerzy ognia
-
-**
-Niepospolici trenerzy ognia
-Niepospolici bohaterowie ognia
-
-*
-Zwykli trenerzy ognia
-Zwykli bohaterowie ognia"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_yellow","Ten mimik zapewnia szansę na dodatkowe łupy po ukończeniu etapów:
-
-***
-Rzadcy trenerzy światłości
-
-**
-Niepospolici trenerzy światłości 
-Niepospolici bohaterowie światłości
-
-*
-Zwykli trenerzy światłości
-Zwykli bohaterowie światłości"
+"herocard.passive_skill.description.mimiclootonlevelcompleted","Każdy unikalny Mimik z twojej drużyny może zapewnić dodatkowe łupy po ukończeniu etapów. Ten mimik daje szansę na następujące dodatkowe łupy:"
 "herocard.passive_skill.description.nevermissspecial","Umiejętność specjalna tej postaci nigdy nie chybia obranego celu."
 "herocard.passive_skill.description.ransack","Na początku każdej tury ta postać grabi losowego wroga:
 
@@ -445,10 +172,10 @@ Bezpieczna kradzież pomija efekty drugorzędne, takie jak obrażenia nakładane
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","Po rzuceniu swojej umiejętności specjalnej ta postać zyskuje {CHANCE}% szans, by wykraść losowemu wrogowi ze wzmocnieniami ostatnie odwoływalne wzmocnienie. Jeśli żaden przeciwnik nie ma wzmocnień, zadaje {DAMAGE}% obrażeń wszystkim wrogom."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.heal.always.minordebuff.newest","Po rzuceniu umiejętności specjalnej ta postać przenosi swoje najnowsze oczyszczalne dolegliwości ze statusu na cel. Jeśli umiejętności specjalnej nie można wycelować we wroga, dolegliwości ze statusu są nakładane na losowego przeciwnika. Jeśli ta postać nie ma na sobie żadnych oczyszczalnych dolegliwości ze statusu, regeneruje {HEALTH}% zdrowia."
 "herocard.passive_skill.description.receivedeffectreplacement.minordebuff","{REPLACEMENTCHANCE}% szans na zastąpienie negatywnych efektów odpowiadającymi im pozytywnymi efektami."
-"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","Ten bohater otrzymuje mniejsze obrażenia od żywiołu od oddziałów silniejszego żywiołu.
+"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","Ta postać otrzymuje mniej obrażeń od oddziałów silniejszego żywiołu.
 
-Otrzymane obrażenia od żywiołu: -{MODIFIER}%"
-"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.combined","{MODIFIER}% mniej obrażeń od żywiołu otrzymywanych od oddziałów silniejszego żywiołu."
+Otrzymywane obrażenia: -{MODIFIER}%"
+"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.combined","{MODIFIER}% mniej obrażeń otrzymywanych od oddziałów silniejszego żywiołu."
 "herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.increase.dragon","{MODIFIER}% więcej obrażeń od żywiołu otrzymywanych od kul ognia silniejszego żywiołu."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single","Za pierwszym razem, gdy ta postać ma otrzymać śmiertelne obrażenia, przekierowuje je na losowego wroga.
 
@@ -487,7 +214,7 @@ Obejmuje to
 Obejmuje to wzmocnienia i dolegliwości ze statusu, pozytywne i negatywne kumulacje oraz efekty wzrostu i suszy."
 "herocard.passive_skill.description.resist.allmanaeffects.alldebuffs","Ta postać ma odporność na dolegliwości ze statusu oraz kumulacje negatywne, które wpływają na generowanie many. Dotyczy to dolegliwości, które blokują lub wysysają manę."
 "herocard.passive_skill.description.resist.allmanaeffects.manareduction.alldebuffs","Ta postać ma odporność na zmniejszenia many, dolegliwości ze statusu oraz kumulacje negatywne, które wpływają na generowanie many. Dotyczy to efektów i dolegliwości ze statusu, które blokują lub wysysają manę."
-"herocard.passive_skill.description.resist.allstatuseffectdamage.none","Ta postać ma odporność na obrażenia z efektów statusu."
+"herocard.passive_skill.description.resist.allstatuseffectdamage.none","Ta postać ma odporność na obrażenia z efektów statusu i kumulacji."
 "herocard.passive_skill.description.resist.attackdelay","Nie można opóźnić zwykłego ataku tej postaci."
 "herocard.passive_skill.description.resist.attackdelay.alldebuffs","Nie można opóźnić zwykłego ataku tej postaci."
 "herocard.passive_skill.description.resist.attackmodifiers","Ta postać ma odporność na dolegliwości ze statusu, które wpływają na atak."
@@ -564,6 +291,9 @@ Następująca umiejętność specjalna:
 "herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance","Po pokonaniu ta postać ma {TOTALCHANCE}% szans na wskrzeszenie na początku swojej następnej tury z {HEALTH}% zdrowia i {MANA}% many. 
 
 Aktywuje się maksymalnie {MAXACTIVATIONCOUNT} razy. Szanse na wskrzeszenie maleją z każdą aktywacją. Nie można zapobiec przy użyciu dolegliwości ze statusu lub umiejętności pasywnych."
+"herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance.ignoresreviveblockingdebuffs","Po pokonaniu ta postać ma {TOTALCHANCE}% szans na wskrzeszenie na początku swojej następnej tury z {HEALTH}% zdrowia i {MANA}% many. 
+
+Aktywuje się maksymalnie {MAXACTIVATIONCOUNT} razy. Szanse na wskrzeszenie maleją z każdą aktywacją. Nie można zapobiec przy użyciu dolegliwości ze statusu lub umiejętności pasywnych."
 "herocard.passive_skill.description.setstatuseffectdurationonaddition.all.allies.activates_on_ally_action.alldebuffs.dance","Wszystkie Ballady rzucane przez wrogów trwają przez {TURNS} tur."
 "herocard.passive_skill.description.setstatuseffectdurationonaddition.single.enemies.activates_on_enemy_action.allbuffs.dance","Wszystkie Tańce rzucane przez wrogów trwają przez {TURNS} tur."
 "herocard.passive_skill.description.sharereceiveddamage","{SHAREDDAMAGEPORTION}% obrażeń otrzymanych przez tą postać zostaje rozłożone pomiędzy wszystkich pozostałych sojuszników."
@@ -603,38 +333,64 @@ Aktywuje się maksymalnie {MAXACTIVATIONCOUNT} razy. Szanse na wskrzeszenie male
  Kiełkujący potwór ewoluuje w kwitnącego mega potwora po upływie {EVOLVINGFAMILIAR2EVOLVETURNS} tur.
 
 Potwór sadzonka: 
-{EVOLVINGFAMILIAR1ATTACK}% ataku, {EVOLVINGFAMILIAR1HEALTH}% zdrowia.
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% zdrowia.
 
 Kiełkujący potwór: 
-{EVOLVINGFAMILIAR2ATTACK}% ataku, {EVOLVINGFAMILIAR2HEALTH}% zdrowia.
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% zdrowia.
 
 Kwitnący mega potwór: 
-{EVOLVINGFAMILIAR3ATTACK}% ataku, {EVOLVINGFAMILIAR3HEALTH}% zdrowia."
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% zdrowia."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Co turę wzywa na losowego wroga potwora sadzonkę. Ta umiejętność pasywna aktywuje się tylko raz na turę dla każdej drużyny.
  Potwór sadzonka ewoluuje w kiełkującego potwora po upływie {EVOLVINGFAMILIAR1EVOLVETURNS} tur.
  Kiełkujący potwór ewoluuje w kwitnącego mega potwora po upływie {EVOLVINGFAMILIAR2EVOLVETURNS} tur.
 
 Potwór sadzonka: 
-{EVOLVINGFAMILIAR1ATTACK}% ataku, {EVOLVINGFAMILIAR1HEALTH}% zdrowia.
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% zdrowia.
 
-Kiełkujący potwór: 
-{EVOLVINGFAMILIAR2ATTACK}% ataku, {EVOLVINGFAMILIAR2HEALTH}% zdrowia.
+Kiełkujący potwór:
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% zdrowia.
 
-Kwitnący mega potwór: 
-{EVOLVINGFAMILIAR3ATTACK}% ataku, {EVOLVINGFAMILIAR3HEALTH}% zdrowia."
+Kwitnący mega potwór:
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% zdrowia."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Co turę wzywa na losowego wroga potwora sadzonkę. Ta umiejętność pasywna aktywuje się tylko raz na turę dla każdej drużyny.
  Potwór sadzonka ewoluuje w kiełkującego potwora po upływie {EVOLVINGFAMILIAR1EVOLVETURNS} tur.
  Kiełkujący potwór ewoluuje w kwitnącego mega potwora po upływie {EVOLVINGFAMILIAR2EVOLVETURNS} tur.
-Ewolucja potworów zostaje opóźniona o {EVOLVINGFAMILIAR1TURNSDELAY} turę za każdym razem, gdy pochłaniają leczenie.
+Ewolucja potworów zostaje opóźniona o {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tur(y) za każdym razem, gdy pochłoną leczenie.
 
 Potwór sadzonka: 
-{EVOLVINGFAMILIAR1ATTACK}% ataku, {EVOLVINGFAMILIAR1HEALTH}% zdrowia.
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% zdrowia.
 
-Kiełkujący potwór: 
-{EVOLVINGFAMILIAR2ATTACK}% ataku, {EVOLVINGFAMILIAR2HEALTH}% zdrowia.
+Kiełkujący potwór:
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% zdrowia.
 
-Kwitnący mega potwór: 
-{EVOLVINGFAMILIAR3ATTACK}% ataku, {EVOLVINGFAMILIAR3HEALTH}% zdrowia."
+Kwitnący mega potwór:
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% zdrowia."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Co turę wzywa na losowego wroga potwora sadzonkę. Ta umiejętność pasywna aktywuje się tylko raz na turę dla każdej drużyny.
+ Potwór sadzonka ewoluuje w kiełkującego potwora po upływie {EVOLVINGFAMILIAR1EVOLVETURNS} tur.
+ Kiełkujący potwór ewoluuje w kwitnącego mega potwora po upływie {EVOLVINGFAMILIAR2EVOLVETURNS} tur.
+Ewolucja potworów zostaje opóźniona o {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tur(y) za każdym razem, gdy pochłoną leczenie.
+
+Potwór sadzonka: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% zdrowia.
+
+Kiełkujący potwór:
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% zdrowia.
+
+Kwitnący mega potwór:
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% zdrowia."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Co turę wzywa na losowego wroga potwora sadzonkę. Ta umiejętność pasywna aktywuje się tylko raz na turę dla każdej drużyny.
+ Potwór sadzonka ewoluuje w kiełkującego potwora po upływie {EVOLVINGFAMILIAR1EVOLVETURNS} tur.
+ Kiełkujący potwór ewoluuje w kwitnącego mega potwora po upływie {EVOLVINGFAMILIAR2EVOLVETURNS} tur.
+Ewolucja potworów zostaje opóźniona o {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tur(y) za każdym razem, gdy pochłoną leczenie.
+
+Potwór sadzonka: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% zdrowia.
+
+Kiełkujący potwór:
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% zdrowia.
+
+Kwitnący mega potwór:
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% zdrowia."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Gdy ta postać zostanie pokonana, wzywa dla pobliskich sojuszników śluzowych mega pomocników z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od tej postaci."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Gdy ta postać zostanie pokonana, wzywa dla pobliskich sojuszników śluzowych mega pomocników z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od tej postaci."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Gdy ta postać zostanie pokonana, wzywa dla pobliskich sojuszników śluzowych mega pomocników z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od tej postaci."
@@ -651,6 +407,7 @@ Kwitnący mega potwór:
 "herocard.passive_skill.description.summononsummon.activates_on_enemy_action.allies.owl.minion","Wzywa na pomoc wróbla, gdy wróg przywoła dowolnego pomocnika przy użyciu umiejętności specjalnej."
 "herocard.passive_skill.description.summononsummon.activates_on_enemy_action.enemies.cursed_sapling_parasite.minion","Kiedy przeciwnik przywołuje pomocników przy użyciu umiejętności specjalnej, ta postać przywołuje przeklętego kiełkującego potwora do tego przeciwnika."
 "herocard.passive_skill.description.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","Kiedy przeciwnik przywołuje pomocników przy użyciu umiejętności specjalnej, ta postać przywołuje potwora sadzonkę do tego przeciwnika."
+"herocard.passive_skill.description.targetstatedependenteffectonspecial.healthboost.all.allies.fixedpower.always.checkstate.all.allies.dance","Jeżeli dowolny sojusznik tańczy, gdy ta postać użyje swojej umiejętności specjalnej, wzmacnia zdrowie wszystkich sojuszników o {HEALTHBOOST}. Wzmocnione zdrowie może przekroczyć maks. PŻ."
 "herocard.passive_skill.description.taunt","Prowokacja nie ma wpływu na umiejętność specjalną tej postaci."
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.blue","Tarcze lodu na planszy zostają osłabione o {MODIFIER}% celności, gdy ta postać rzuci umiejętność specjalną."
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.green","Tarcze natury na planszy zostają osłabione o {MODIFIER}% celności, gdy ta postać rzuci umiejętność specjalną."
@@ -662,25 +419,15 @@ Kwitnący mega potwór:
 "herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.purple","Tarcze mroku na planszy zostają wzmocnione o {MODIFIER}% szans na trafienie krytyczne, gdy ta postać rzuci umiejętność specjalną."
 "herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.red","Tarcze ognia na planszy zostają wzmocnione o {MODIFIER}% szans na trafienie krytyczne, gdy ta postać rzuci umiejętność specjalną."
 "herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.yellow","Tarcze światłości na planszy zostają wzmocnione o {MODIFIER}% szans na trafienie krytyczne, gdy ta postać rzuci umiejętność specjalną."
-"herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Za każdym razem, gdy ta postać rzuci umiejętność specjalną, wszystkie wzmocnienia wpływające na atak, obronę i regenerację many wszystkich wrogów zostają przekształcone w odpowiednie, niemożliwe do odwołania dolegliwości ze statusu.
-
-Efekty przekształcenia:
-Wzmocnienia ataku są przekształcane w {STATUSEFFECT1ATTACK}% dolegliwości ofensywne na okres {STATUSEFFECT1TURNS} tur.
-Wzmocnienia obrony są przekształcane w {STATUSEFFECT2DEFENSE}% dolegliwości obronne na okres {STATUSEFFECT2TURNS} tur.
-Wzmocnienia wpływające na regenerację many są przekształcane w {STATUSEFFECT3MANAREGEN}% dolegliwości regeneracji many na okres {STATUSEFFECT3TURNS} tur."
-"herocard.passive_skill.description.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Za każdym razem, gdy ta postać rzuci umiejętność specjalną, wszystkie oczyszczalne dolegliwości ze statusu, obronę i regenerację many wszystkich sojuszników zostają przekształcone w odpowiednie, niemożliwe do odwołania wzmocnienia.
-
-Efekty przekształcenia:
-Dolegliwości ofensywne są przekształcane w {STATUSEFFECT1ATTACK}% wzmocnienia ataku na okres {STATUSEFFECT1TURNS} tur.
-Dolegliwości obronne są przekształcane we {STATUSEFFECT2DEFENSE}% wzmocnienia obrony na okres {STATUSEFFECT2TURNS} tur.
-Dolegliwości wpływające na regenerację many są przekształcane we {STATUSEFFECT3MANAREGEN}% wzmocnienia regeneracji many na okres {STATUSEFFECT3TURNS} tur."
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Za każdym razem, gdy ta postać rzuci umiejętność specjalną, wszystkie odwoływalne wzmocnienia wpływające na atak, obronę i regenerację many wszystkich wrogów zostają przekształcone w odpowiednie, niemożliwe do odwołania dolegliwości ze statusu."
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Za każdym razem, gdy ta postać rzuci umiejętność specjalną, wszystkie oczyszczalne dolegliwości ze statusu wpływające na atak, obronę i regenerację many wszystkich sojuszników zostają przekształcone w odpowiednie, niemożliwe do odwołania wzmocnienia."
 "herocard.passive_skill.description.wither.all.enemies","Podstawowy atak i obrona wszystkich wrogów są zmniejszane o {STATINCREASE} pkt. co turę przez {MAXACTIVATIONCOUNT} tur(y)."
 "herocard.passive_skill.inactive","NIEAKTYWNE: osiągnij maksymalny poziom i ulepszenie, aby aktywować."
 "herocard.passive_skill.replace.minordebuff.attackmodifier.to.minorbuff.attackmodifier","Dolegliwości ofensywne zostają zamienione na {ATTACK}% do ataku na okres {TURNS} tur."
 "herocard.passive_skill.replace.minordebuff.buffimmunity.to.minorbuff.debuffshield","Wzmocnienie dolegliwości zostaje zamienione na odporność na dolegliwości na okres {TURNS} tur."
 "herocard.passive_skill.replace.minordebuff.defensemodifier.to.minorbuff.defensemodifier","Dolegliwości obronne zostają zamienione na {DEFENSE}% do obrony na okres {TURNS} tur."
 "herocard.passive_skill.replace.minordebuff.healingmodifier.to.minorbuff.healmultiplier","Zmniejszenie leczenia zostaje zamienione na {HEALING}% zwiększenia leczenia na okres {TURNS} tur."
-"herocard.passive_skill.replace.minordebuff.managenerationmodifier.to.minorbuff.managenerationmodifier","Wszystkie dolegliwości związane z regeneracją many zostają zamienione na {MANAREGEN}% do regeneracji many na okres {TURNS} tur."
+"herocard.passive_skill.replace.minordebuff.manaeffect.to.minorbuff.managenerationmodifier","Wszystkie dolegliwości związane z maną zostają zamienione na {MANAREGEN}% do regeneracji many na okres {TURNS} tur."
 "herocard.passive_skill.replace.minordebuff.receiveddamagemodifier.to.minorbuff.receiveddamagemodifier","Zwiększenie obrażeń od dolegliwości zostaje zamienione na {DAMAGEREDUCTION}% zmniejszenie obrażeń na okres {TURNS} tur."
 "herocard.passive_skill.replace.minordebuff.statuseffectreflect.to.minorbuff.reflectminordebuffs","Dolegliwości odbijające wzmocnienia zostają zamienione na wzmocnienia odbijające dolegliwości na okres {TURNS} tur."
 "herocard.passive_skill.replace_direct_effect.attackwither","Atak suszy zostaje zamieniony na atak wzrostu: {FIXEDPOWER} pkt. ataku."
@@ -713,7 +460,8 @@ Dolegliwości wpływające na regenerację many są przekształcane we {STATUSEF
 "herocard.passive_skill.title.criticalmodifiersupportcharacter.troop","Modyfikator trafień krytycznych"
 "herocard.passive_skill.title.critmodifier","Modyfikator szansy na trafienie krytyczne"
 "herocard.passive_skill.title.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Naznaczenie Starożytnych"
-"herocard.passive_skill.title.dealtdamagemodifieragainststatuseffect.bloodlily.stacks","Sangwiniczny znak"
+"herocard.passive_skill.title.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single","Sangwiniczny znak"
+"herocard.passive_skill.title.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all","Zaciekły tancerz"
 "herocard.passive_skill.title.dealtstrongelementtroopdamage","Mistrzostwo oddziału"
 "herocard.passive_skill.title.debuffdamagereduction","Redukcja dotkliwości dolegliwości ze statusu"
 "herocard.passive_skill.title.debuffdamagereductionsupportcharacter.troop","Redukcja dotkliwości dolegliwości ze statusu"
@@ -829,6 +577,7 @@ Dolegliwości wpływające na regenerację many są przekształcane we {STATUSEF
 "herocard.passive_skill.title.ransack","Złodziejska okazja"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Kradzież wzmocnienia"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","Zmysł łowcy"
+"herocard.passive_skill.title.received_strong_troop_damage_pve","Zmniejszenie obrażeń oddziału"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Mistrzostwo oddziału"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Silne wzmocnienie obrażeń kuli ognia"
 "herocard.passive_skill.title.redirectlethaldamage.enemies.single","Oszukanie śmierci"
@@ -936,7 +685,10 @@ Gibka postawa"
 "herocard.passive_skill.title.stylish","Stylish!"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","Przywoływacz sadzonek"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Przywoływacz sadzonek"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Przywoływacz sadzonek"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Przywoływacz sadzonek"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Przywoływacz sadzonek"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Przywoływacz sadzonek"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Śluzowy pomocnik po porażce"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Śluzowy pomocnik po porażce"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Śluzowy pomocnik po porażce"
@@ -953,6 +705,7 @@ Gibka postawa"
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.allies.owl.minion","Przywoływacz wróbli"
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.cursed_sapling_parasite.minion","Przeklęty kiełkujący przywoływacz"
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","Przywoływacz sadzonek"
+"herocard.passive_skill.title.targetstatedependenteffectonspecial.healthboost.checkstate.all.allies.dance","Wdzięczy tancerz"
 "herocard.passive_skill.title.taunt","Ignoruj Prowokację"
 "herocard.passive_skill.title.titan_dread_damage_minions","Groza"
 "herocard.passive_skill.title.titan_dread_damage_minions_15","Groza"

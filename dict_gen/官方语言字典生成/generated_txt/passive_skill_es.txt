@@ -18,20 +18,21 @@ Ahora mismo, este personaje tiene:
 "herocard.passive_skill.description.conditionaleffectovertime.revival.all.allies.while.single.allies.hasdeadallies","Cada {TURNS} turnos, resucita a todos los aliados derrotados con un {POWER} % de VIT."
 "herocard.passive_skill.description.conditionaleffectovertime.revival.neartotargetexceptcaster.allies.while.single.allies.hasdeadallies","Cada {TURNS} turnos, resucita a los aliados cercanos derrotados con un {POWER} % de VIT."
 "herocard.passive_skill.description.conditionaleffectovertime.usable_once.heal.addmana.everyturn.while.single.allies.lowhealth","La primera vez que este personaje comience un turno con poca vitalidad, recupera un {HEALTH} % de vitalidad y recibe un {MANA} % de maná."
-"herocard.passive_skill.description.convertincomingdamagetoheal.all.statuseffect","Cada vez que este personaje vaya a recibir daño de un estado alterado, en lugar de eso recupera la misma cantidad de vitalidad."
-"herocard.passive_skill.description.convertincomingdamagetoheal.statuseffect","Cada vez que este personaje vaya a recibir daño de un estado alterado, en lugar de eso recupera vitalidad. La cantidad de vitalidad es un {MULTIPLIER} % del daño."
+"herocard.passive_skill.description.convertincomingdamagetoheal.all.statuseffect","Cada vez que este personaje vaya a recibir daño de un estado alterado o una acumulación negativa, en lugar de eso recupera la misma cantidad de vitalidad."
+"herocard.passive_skill.description.convertincomingdamagetoheal.statuseffect","Cada vez que este personaje vaya a recibir daño de un estado alterado o una acumulación negativa, en lugar de eso recupera vitalidad. La cantidad de vitalidad es un {MULTIPLIER} % del daño."
 "herocard.passive_skill.description.criticalmodifiersupportcharacter.troop","{CRITICALMODIFIER} % de probabilidad de crítico."
 "herocard.passive_skill.description.damage.all.enemies","Causa un {DAMAGE} % de daño a todos los enemigos."
 "herocard.passive_skill.description.damagefamiliarsovertime.all.enemies.minion.bigminion","Inflige {DAMAGEPERTURN} de daño a todos los secuaces y megasecuaces enemigos cada {TURNS} turnos."
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.bigminion.minion","Inflige {DAMAGEPERTURN} de daño a todos los secuaces y megasecuaces enemigos al comienzo de cada turno."
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion","Inflige {DAMAGEPERTURN} de daño a todos los secuaces y megasecuaces enemigos al comienzo de cada turno."
 "herocard.passive_skill.description.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Todo el daño infligido por los ataques normales y habilidades especiales de este personaje aumenta en un {DAMAGEINCREASEPERSTEP} % por cada {INSANITYPERSTEP} de demencia que tenga hasta un máximo del {MAXDAMAGEINCREASE} %."
-"herocard.passive_skill.description.dealtdamagemodifieragainststatuseffect.bloodlily.stacks.troop.specialskill.npcnormalattack.add_modifier_per_stack","Todo el daño de los ataques normales y habilidades especiales que inflige este personaje aumenta un {MODIFIER} % por cada acumulación de lirio de sangre que tenga el objetivo."
-"herocard.passive_skill.description.dealtstrongelementsupportcharacterdamage.increase","Las tropas de este héroe infligen daño elemental extra contra el elemento más débil.
+"herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single.troop.specialskill.npcnormalattack.add_modifier_per_stack","Todo el daño de los ataques normales y habilidades especiales que inflige este personaje aumenta un {MODIFIER} % por cada acumulación de lirio de sangre que tenga el objetivo."
+"herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all.specialskill.any","Si hay aliados bailando, la habilidad especial de este personaje inflige un {MODIFIERCHANGE} % más de daño."
+"herocard.passive_skill.description.dealtstrongelementsupportcharacterdamage.increase","Las tropas de este personaje infligen daño extra contra el elemento más débil.
 
- Daño elemental extra que infligen: +{MODIFIER} %"
-"herocard.passive_skill.description.debuffdamagereduction","El daño causado por los estados alterados se reduce un {DAMAGEREDUCTION} %."
-"herocard.passive_skill.description.debuffdamagereductionsupportcharacter.troop","El daño causado por los estados alterados se reduce un {DAMAGEREDUCTION} % para este personaje."
+ Daño extra que infligen: +{MODIFIER} %"
+"herocard.passive_skill.description.debuffdamagereduction","El daño causado por los estados alterados y las acumulaciones negativas se reduce un {DAMAGEREDUCTION} %."
+"herocard.passive_skill.description.debuffdamagereductionsupportcharacter.troop","El daño causado por los estados alterados y las acumulaciones negativas se reduce un {DAMAGEREDUCTION} % para este personaje."
 "herocard.passive_skill.description.destructivecoreintrinsicchargeeffectonspecial.damage.all.enemies.always","El núcleo de creación de este personaje es un núcleo destructor.
 
 El núcleo destructor se activa cada vez que este personaje lanza su habilidad especial:
@@ -155,277 +156,7 @@ El núcleo secuaz se activa cada vez que este personaje lanza su habilidad espec
 "herocard.passive_skill.description.memorizestatuseffects","Este personaje tiene la habilidad innata de memorizar los estados alterados. Memorizará el último estado alterado que se use en su contra hasta que emplee su habilidad especial. Solo puede memorizar los estados alterados con una duración limitada."
 "herocard.passive_skill.description.memorizestatuseffects#2","Este personaje tiene la habilidad innata de memorizar los estados alterados. Memorizará los últimos {0} estados alterados que se usen en su contra hasta que emplee su habilidad especial. Solo puede memorizar los estados alterados con una duración limitada."
 "herocard.passive_skill.description.memorizestatuseffects#3","This character has innate ability to Memorize status ailments. The latest {0} status ailments that are cast on this character will stay memorized until the Special Skill is cast. Only status ailments with a duration can be memorized. (THIRD FORM)"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_blue","Esta copia puede otorgar recompensas de botín adicionales al completar fases:
-
-*****
- Éter alfa
- Éter de hielo III
-
-****
- Éter de hielo II
-
-***
- Éter de hielo I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_green","Esta copia puede otorgar recompensas de botín adicionales al completar fases:
-
-*****
- Éter alfa
- Éter de naturaleza III
-
-****
- Éter de naturaleza II
-
-***
- Éter de naturaleza I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_purple","Esta copia puede otorgar recompensas de botín adicionales al completar fases:
-
-*****
- Éter alfa
- Éter oscuro III
-
-****
- Éter oscuro II
-
-***
- Éter oscuro I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_red","Esta copia puede otorgar recompensas de botín adicionales al completar fases:
-
-*****
- Éter alfa
- Éter de fuego III
-
-****
- Éter de fuego II
-
-***
- Éter de fuego I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_yellow","Esta copia puede otorgar recompensas de botín adicionales al completar fases:
-
-*****
- Éter alfa
- Éter sagrado III
-
-****
- Éter sagrado II
-
-***
- Éter sagrado I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_blue","Esta copia puede otorgar recompensas de botín adicionales al completar fases:
-
-****
- Espada de Damasco
- Tomo de tácticas
- Telescopio Farsight
-
-***
- Guantes finos
- Brújula
- Capa cálida
- Manual de batalla
- Botas altas
- Camisa de Chainmail
-
-**
- Cuerda fuerte"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_epic_yellow","Esta copia puede otorgar recompensas de botín adicionales al completar fases:
-
-***
- Espada oculta
- Orbe de la magia
- Escudo robusto
- Herramientas de trampas
- Capa cálida
- Manual de batalla
- Camisa de Chainmail
- Funda
- Botas altas
-
-**
- Escritos arcanos
- Daga
- Armadura de cuero
- Piedra de afilar
- Cuerda fuerte
- Escudo de madera
-
-*
- Kit del aventurero
- Espada de práctica
- Ropa rugosa"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_green","Esta copia puede otorgar recompensas de botín adicionales al completar fases:
-
-****
- Espada de Damasco
- Tomo de tácticas
- Tónico misterioso
-
-***
- Guantes finos
- Brújula
- Escudo robusto
- Botas altas
- Funda
-
-**
- Cuerda fuerte
- Daga"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_purple","Esta copia puede otorgar recompensas de botín adicionales al completar fases:
-
-****
- Espada de Damasco
- Tomo de tácticas
- Tabardo real
-
-***
- Guantes finos
- Brújula
- Herramientas de trampas
- Botas altas
- Funda
-
-**
- Cuerda fuerte
- Daga"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_red","Esta copia puede otorgar recompensas de botín adicionales al completar fases:
-
-****
- Espada de Damasco
- Tomo de tácticas
- Anillos místicos
-
-***
- Guantes finos
- Brújula
- Espada oculta
- Camisa de Chainmail
- Botas altas
-
-**
- Escritos arcanos"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_yellow","Esta copia puede otorgar recompensas de botín adicionales al completar fases:
-
-****
- Espada de Damasco
- Tomo de tácticas
- Dardos venenosos
-
-***
- Guantes finos
- Brújula
- Orbe de la magia
- Camisa de Chainmail
- Botas altas
-
-**
- Escritos arcanos"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_blue","Esta copia puede otorgar recompensas de botín adicionales al completar fases:
-
-*****
- Emblemas maestros del hechicero
- Emblemas maestros del brujo
-
-****
- Emblemas del hechicero
- Emblemas del brujo"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_green","Esta copia puede otorgar recompensas de botín adicionales al completar fases:
-
-*****
- Emblemas maestros del paladín
- Emblemas maestros del druida
-
-****
- Emblemas del paladín
- Emblemas del druida"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_purple","Esta copia puede otorgar recompensas de botín adicionales al completar fases:
-
-*****
- Emblemas maestros del rebelde
- Emblemas maestros del guardabosques
-
-****
- Emblemas del rebelde
- Emblemas del guardabosques"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_red","Esta copia puede otorgar recompensas de botín adicionales al completar fases:
-
-*****
- Emblemas maestros del luchador
- Emblemas maestros del bárbaro
-
-****
- Emblemas del luchador
- Emblemas del bárbaro"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_yellow","Esta copia puede otorgar recompensas de botín adicionales al completar fases:
-
-*****
- Emblemas maestros del clérigo
- Emblemas maestros del monje
-
-****
- Emblemas del clérigo
- Emblemas del monje"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_experience_rare_red","Esta copia puede otorgar recompensas de botín adicionales al completar fases:
-
-**
- Héroes de fuego, de naturaleza, de hielo, oscuros y sagrados poco comunes
-
-*
- Entrenadores de héroes maestros comunes
- Héroes de fuego, de naturaleza, de hielo, oscuros y sagrados comunes"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_blue","Esta copia puede otorgar recompensas de botín adicionales al completar fases:
-
-***
- Entrenadores de héroes de hielo raros
-
-**
- Entrenadores de héroes de hielo poco comunes
- Héroes de hielo poco comunes
-
- Entrenadores de héroes de hielo comunes
- Héroes de hielo comunes"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_green","Esta copia puede otorgar recompensas de botín adicionales al completar fases:
-
-***
- Entrenadores de héroes de naturaleza raros
-
-**
- Entrenadores de héroes de naturaleza poco comunes
- Héroes de naturaleza poco comunes
-
- Entrenadores de héroes de naturaleza comunes
- Héroes de naturaleza comunes"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_purple","Esta copia puede otorgar recompensas de botín adicionales al completar fases:
-
-***
- Entrenadores de héroes oscuros raros
-
-**
- Entrenadores de héroes oscuros poco comunes
- Héroes oscuros poco comunes
-
- Entrenadores de héroes oscuros comunes
- Héroes oscuros comunes"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_red","Esta copia puede otorgar recompensas de botín adicionales al completar fases:
-
-***
- Entrenadores de héroes de fuego raros
-
-**
- Entrenadores de héroes de fuego poco comunes
- Héroes de fuego poco comunes
-
- Entrenadores de héroes de fuego comunes
- Héroes de fuego comunes"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_yellow","Esta copia puede otorgar recompensas de botín adicionales al completar fases:
-
-***
- Entrenadores de héroes sagrados raros
-
-**
- Entrenadores de héroes sagrados poco comunes
- Héroes sagrados poco comunes
-
- Entrenadores de héroes sagrados comunes
- Héroes sagrados comunes"
+"herocard.passive_skill.description.mimiclootonlevelcompleted","Cada copia única de tu equipo puede proporcionarte botín extra al completar fases. Esta copia otorga la probabilidad de conseguir el siguiente botín extra:"
 "herocard.passive_skill.description.nevermissspecial","La habilidad especial de este personaje nunca falla."
 "herocard.passive_skill.description.ransack","Al comienzo de cada turno, este personaje saquea a un enemigo aleatorio:
 
@@ -441,10 +172,10 @@ Saquear:
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","Cuando este personaje lanza su habilidad especial, tiene un {CHANCE} % de probabilidad de robar la bendición descartable más reciente de un enemigo aleatorio con bendiciones. Si ningún enemigo tiene bendiciones, inflige un {DAMAGE} % de daño a todos los enemigos."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.heal.always.minordebuff.newest","Cuando este personaje lanza su habilidad especial, transfiere al objetivo el último estado alterado purificable que le han aplicado. Si la habilidad especial no puede lanzarse contra un enemigo, se elige a un enemigo aleatorio. Si este personaje no tiene estados alterados purificables, recupera un {HEALTH} % de vitalidad."
 "herocard.passive_skill.description.receivedeffectreplacement.minordebuff","{REPLACEMENTCHANCE} % de probabilidad de reemplazar los efectos negativos recibidos con sus contrarios positivos."
-"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","Este héroe recibe menos daño elemental de las tropas del elemento más fuerte.
+"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","Este personaje recibe menos daño de las tropas del elemento más fuerte.
 
- Daño elemental recibido: -{MODIFIER} %"
-"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.combined","{MODIFIER} % menos de daño elemental recibido de las tropas del elemento más fuerte."
+ Daño recibido: -{MODIFIER} %"
+"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.combined","{MODIFIER} % menos de daño recibido de las tropas del elemento más fuerte."
 "herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.increase.dragon","{MODIFIER} % más de daño elemental recibido de las bolas de fuego del elemento más fuerte."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single","La primera vez que este personaje vaya a recibir una cantidad de daño que lo derrotaría, en su lugar redirige ese daño hacia un enemigo aleatorio.
 
@@ -483,7 +214,7 @@ Esto incluye:
 Esto incluye bendiciones y alteraciones de estado, acumulaciones positivas y negativas y efectos de merma y crecimiento."
 "herocard.passive_skill.description.resist.allmanaeffects.alldebuffs","Este personaje es inmune a los estados alterados y acumulaciones negativas que afectan a la regeneración de maná. Se aplica también a estados alterados que bloquean o roban maná."
 "herocard.passive_skill.description.resist.allmanaeffects.manareduction.alldebuffs","Este personaje es inmune a las reducciones de maná, así como a los estados alterados y acumulaciones negativas que afectan a la regeneración de maná. Se aplica también a estados alterados que bloquean o roban maná."
-"herocard.passive_skill.description.resist.allstatuseffectdamage.none","Este personaje es inmune al daño de los efectos de estado."
+"herocard.passive_skill.description.resist.allstatuseffectdamage.none","Este personaje es inmune al daño de los efectos de estado y las acumulaciones."
 "herocard.passive_skill.description.resist.attackdelay","El ataque normal de este personaje no se puede retrasar."
 "herocard.passive_skill.description.resist.attackdelay.alldebuffs","El ataque normal de este personaje no se puede retrasar."
 "herocard.passive_skill.description.resist.attackmodifiers","Este personaje es inmune a los estados alterados que afectan al ataque."
@@ -560,6 +291,9 @@ El huésped sobrenatural tiene:
 "herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance"," Cuando cae derrotado, este personaje tiene un {TOTALCHANCE} % de probabilidad de revivir al comienzo del siguiente turno con un {HEALTH} % de vitalidad y un {MANA} % de maná.
 
  Se activa hasta {MAXACTIVATIONCOUNT} veces. La probabilidad de revivir se reduce con cada activación. No se puede impedir con estados alterados ni habilidades pasivas."
+"herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance.ignoresreviveblockingdebuffs"," Cuando cae derrotado, este personaje tiene un {TOTALCHANCE} % de probabilidad de revivir al comienzo del siguiente turno con un {HEALTH} % de vitalidad y un {MANA} % de maná.
+
+ Se activa hasta {MAXACTIVATIONCOUNT} veces. La probabilidad de revivir se reduce con cada activación. No se puede impedir con estados alterados ni habilidades pasivas."
 "herocard.passive_skill.description.setstatuseffectdurationonaddition.all.allies.activates_on_ally_action.alldebuffs.dance","Todas las baladas que usan los enemigos solo duran {TURNS} turno."
 "herocard.passive_skill.description.setstatuseffectdurationonaddition.single.enemies.activates_on_enemy_action.allbuffs.dance","Todas las danzas que usan los enemigos solo duran {TURNS} turno."
 "herocard.passive_skill.description.sharereceiveddamage","El {SHAREDDAMAGEPORTION} % del daño que reciba este personaje se comparte con todos los aliados."
@@ -599,38 +333,64 @@ El huésped sobrenatural tiene:
  El demonio retoño se convierte en megademonio flor pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
 
 Demonio brote maldito:
-{EVOLVINGFAMILIAR1ATTACK} % de ataque y {EVOLVINGFAMILIAR1HEALTH} % de vitalidad.
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de vitalidad.
 
 Demonio retoño:
-{EVOLVINGFAMILIAR2ATTACK} % de ataque y {EVOLVINGFAMILIAR2HEALTH} % de vitalidad.
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de vitalidad.
 
 Megademonio flor:
-{EVOLVINGFAMILIAR3ATTACK} % de ataque y {EVOLVINGFAMILIAR3HEALTH} % de vitalidad."
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de vitalidad."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Invoca un demonio brote maldito para un enemigo aleatorio en cada turno. Esta habilidad pasiva solo se activa una vez por turno para cada equipo.
  El demonio brote maldito se convierte en demonio retoño pasados {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
  El demonio retoño se convierte en megademonio flor pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
 
 Demonio brote maldito:
-{EVOLVINGFAMILIAR1ATTACK} % de ataque y {EVOLVINGFAMILIAR1HEALTH} % de vitalidad.
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de vitalidad.
 
 Demonio retoño:
-{EVOLVINGFAMILIAR2ATTACK} % de ataque y {EVOLVINGFAMILIAR2HEALTH} % de vitalidad.
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de vitalidad.
 
 Megademonio flor:
-{EVOLVINGFAMILIAR3ATTACK} % de ataque y {EVOLVINGFAMILIAR3HEALTH} % de vitalidad."
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de vitalidad."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Invoca un demonio brote maldito para un enemigo aleatorio en cada turno. Esta habilidad pasiva solo se activa una vez por turno para cada equipo.
  El demonio brote maldito se convierte en demonio retoño pasados {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
  El demonio retoño se convierte en megademonio flor pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
- La evolución de los demonios se retrasa {EVOLVINGFAMILIAR1TURNSDELAY} turno cada vez que absorben curación.
+ La evolución de los demonios se retrasa {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que absorben curación.
 
 Demonio brote maldito:
-{EVOLVINGFAMILIAR1ATTACK} % de ataque y {EVOLVINGFAMILIAR1HEALTH} % de vitalidad.
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de vitalidad.
 
 Demonio retoño:
-{EVOLVINGFAMILIAR2ATTACK} % de ataque y {EVOLVINGFAMILIAR2HEALTH} % de vitalidad.
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de vitalidad.
 
 Megademonio flor:
-{EVOLVINGFAMILIAR3ATTACK} % de ataque y {EVOLVINGFAMILIAR3HEALTH} % de vitalidad."
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de vitalidad."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Invoca un demonio brote maldito para un enemigo aleatorio en cada turno. Esta habilidad pasiva solo se activa una vez por turno para cada equipo.
+ El demonio brote maldito se convierte en demonio retoño pasados {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
+ El demonio retoño se convierte en megademonio flor pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
+ La evolución de los demonios se retrasa {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que absorben curación.
+
+Demonio brote maldito:
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de vitalidad.
+
+Demonio retoño:
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de vitalidad.
+
+Megademonio flor:
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de vitalidad."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Invoca un demonio brote maldito para un enemigo aleatorio en cada turno. Esta habilidad pasiva solo se activa una vez por turno para cada equipo.
+ El demonio brote maldito se convierte en demonio retoño pasados {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
+ El demonio retoño se convierte en megademonio flor pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
+ La evolución de los demonios se retrasa {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que absorben curación.
+
+Demonio brote maldito:
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de vitalidad.
+
+Demonio retoño:
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de vitalidad.
+
+Megademonio flor:
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de vitalidad."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Cuando este personaje cae derrotado, invoca megasecuaces viscosos para los aliados cercanos con un {FAMILIARHEALTHPERCENT} % de VIT y un {FAMILIARATTACK} % de ataque heredados del personaje."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Cuando este personaje cae derrotado, invoca megasecuaces viscosos para los aliados cercanos con un {FAMILIARHEALTHPERCENT} % de VIT y un {FAMILIARATTACK} % de ataque heredados del personaje."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Cuando este personaje cae derrotado, invoca megasecuaces viscosos para los aliados cercanos con un {FAMILIARHEALTHPERCENT} % de VIT y un {FAMILIARATTACK} % de ataque heredados del personaje."
@@ -647,6 +407,7 @@ Megademonio flor:
 "herocard.passive_skill.description.summononsummon.activates_on_enemy_action.allies.owl.minion","Invoca un secuaz gorrión para el personaje cuando un enemigo invoca cualquier esbirro con una habilidad especial."
 "herocard.passive_skill.description.summononsummon.activates_on_enemy_action.enemies.cursed_sapling_parasite.minion","Cuando un enemigo invoca cualquier secuaz mediante una habilidad especial, este personaje le invoca un demonio retoño maldito."
 "herocard.passive_skill.description.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","Cuando un enemigo invoca cualquier secuaz mediante una habilidad especial, este personaje le invoca un demonio brote maldito."
+"herocard.passive_skill.description.targetstatedependenteffectonspecial.healthboost.all.allies.fixedpower.always.checkstate.all.allies.dance","Si hay aliados bailando cuando este personaje lanza su habilidad especial, potencia la vitalidad de todos los aliados en {HEALTHBOOST}. La vitalidad potenciada puede exceder la VIT máxima."
 "herocard.passive_skill.description.taunt","La burla no afecta a la habilidad especial de este personaje."
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.blue","Se reduce un {MODIFIER} % la precisión de los escudos de hielo del tablero cuando este personaje lanza su habilidad especial."
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.green","Se reduce un {MODIFIER} % la precisión de los escudos de naturaleza del tablero cuando este personaje lanza su habilidad especial."
@@ -658,25 +419,15 @@ Megademonio flor:
 "herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.purple","Aumenta un {MODIFIER} % la probabilidad de crítico de los escudos oscuros del tablero cuando este personaje lanza su habilidad especial."
 "herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.red","Aumenta un {MODIFIER} % la probabilidad de crítico de los escudos de fuego del tablero cuando este personaje lanza su habilidad especial."
 "herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.yellow","Aumenta un {MODIFIER} % la probabilidad de crítico de los escudos sagrados del tablero cuando este personaje lanza su habilidad especial."
-"herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Cada vez que este personaje usa su habilidad especial, todas las bendiciones descartables que afectan al ataque, la defensa y la regeneración de maná de todos los enemigos se transforman en alteraciones del mismo tipo que no se pueden descartar.
-
-Efectos de transformación:
- Las bendiciones de ataque se transforman en estados alterados de ataque del {STATUSEFFECT1ATTACK} % durante {STATUSEFFECT1TURNS} turnos.
- Las bendiciones de defensa se transforman en estados alterados de defensa del {STATUSEFFECT2DEFENSE} % durante {STATUSEFFECT2TURNS} turnos.
- Las bendiciones de regeneración de maná se transforman en estados alterados de regeneración de maná del {STATUSEFFECT3MANAREGEN} % durante {STATUSEFFECT3TURNS} turnos."
-"herocard.passive_skill.description.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Cada vez que este personaje usa su habilidad especial, todos los estados alterados purificables que afectan al ataque, la defensa y la regeneración de maná de todos los aliados se transforman en bendiciones del mismo tipo que no se pueden descartar.
-
-Efectos de transformación:
- Los estados alterados de ataque se transforman en una bendición de ataque del {STATUSEFFECT1ATTACK} % durante {STATUSEFFECT1TURNS} turnos.
- Los estados alterados de defensa se transforman en bendiciones de defensa del {STATUSEFFECT2DEFENSE} % durante {STATUSEFFECT2TURNS} turnos.
- Los estados alterados de regeneración de maná se transforman en bendiciones de regeneración de maná del {STATUSEFFECT3MANAREGEN} % durante {STATUSEFFECT3TURNS} turnos."
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Cada vez que este personaje usa su habilidad especial, todas las bendiciones descartables que afectan al ataque, la defensa y la regeneración de maná de todos los enemigos se transforman en alteraciones del mismo tipo que no se pueden descartar."
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Cada vez que este personaje usa su habilidad especial, todos los estados alterados descartables que afectan al ataque, la defensa y la regeneración de maná de todos los aliados se transforman en bendiciones del mismo tipo que no se pueden descartar."
 "herocard.passive_skill.description.wither.all.enemies","El ataque y la defensa base de todos los enemigos se reducen en {STATINCREASE} cada turno durante {MAXACTIVATIONCOUNT} turnos."
 "herocard.passive_skill.inactive","Inactiva: Alcanza el nivel máximo y ascensión completa para activarla."
 "herocard.passive_skill.replace.minordebuff.attackmodifier.to.minorbuff.attackmodifier","Alteraciones de ataque a un {ATTACK} % de ataque durante {TURNS} turnos."
 "herocard.passive_skill.replace.minordebuff.buffimmunity.to.minorbuff.debuffshield","Alteraciones de inmunidad a bendiciones a inmunidad a alteraciones durante {TURNS} turnos."
 "herocard.passive_skill.replace.minordebuff.defensemodifier.to.minorbuff.defensemodifier","Alteraciones de defensa a un {DEFENSE} % de defensa durante {TURNS} turnos."
 "herocard.passive_skill.replace.minordebuff.healingmodifier.to.minorbuff.healmultiplier","Reducciones de curación a un {HEALING} % más de curación durante {TURNS} turnos."
-"herocard.passive_skill.replace.minordebuff.managenerationmodifier.to.minorbuff.managenerationmodifier","Alteraciones de regeneración de maná a un {MANAREGEN} % de regeneración de maná durante {TURNS} turnos."
+"herocard.passive_skill.replace.minordebuff.manaeffect.to.minorbuff.managenerationmodifier","Alteraciones de maná a un {MANAREGEN} % de regeneración de maná durante {TURNS} turnos."
 "herocard.passive_skill.replace.minordebuff.receiveddamagemodifier.to.minorbuff.receiveddamagemodifier","Alteraciones de aumento de daño a un {DAMAGEREDUCTION} % de reducción de daño durante {TURNS} turnos."
 "herocard.passive_skill.replace.minordebuff.statuseffectreflect.to.minorbuff.reflectminordebuffs","Alteraciones de reflejo de bendiciones a bendiciones de reflejo de alteraciones durante {TURNS} turnos."
 "herocard.passive_skill.replace_direct_effect.attackwither","Merma de ataque a crecimiento de ataque: {FIXEDPOWER} de ataque."
@@ -709,7 +460,8 @@ Efectos de transformación:
 "herocard.passive_skill.title.criticalmodifiersupportcharacter.troop","Modificador crítico"
 "herocard.passive_skill.title.critmodifier","Modificador de probabilidad de crítico"
 "herocard.passive_skill.title.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Marca de los mayores"
-"herocard.passive_skill.title.dealtdamagemodifieragainststatuseffect.bloodlily.stacks","Marca sanguinaria"
+"herocard.passive_skill.title.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single","Marca sanguinaria"
+"herocard.passive_skill.title.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all","Bailarín feroz"
 "herocard.passive_skill.title.dealtstrongelementtroopdamage","Maestría con tropas"
 "herocard.passive_skill.title.debuffdamagereduction","Reducción del daño de los estados alterados"
 "herocard.passive_skill.title.debuffdamagereductionsupportcharacter.troop","Reducción del daño de los estados alterados"
@@ -825,6 +577,7 @@ Efectos de transformación:
 "herocard.passive_skill.title.ransack","Oportunidad de robar"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Roba bendición"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","Sentido de caza"
+"herocard.passive_skill.title.received_strong_troop_damage_pve","Reducción del daño de tropas"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Maestría con tropas"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Aumento de daño de bola de fuego fuerte"
 "herocard.passive_skill.title.redirectlethaldamage.enemies.single","Engaño a la muerte"
@@ -932,7 +685,10 @@ Estructura flexible"
 "herocard.passive_skill.title.stylish","¡Con estilo!"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","Invoca un brote"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Invoca un brote"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Invoca un brote"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Invoca un brote"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Invoca un brote"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Invoca un brote"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Secuaz viscoso con derrota"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Secuaz viscoso con derrota"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Secuaz viscoso con derrota"
@@ -949,6 +705,7 @@ Estructura flexible"
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.allies.owl.minion","Invoca un gorrión"
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.cursed_sapling_parasite.minion","Invoca un retoño maldito"
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","Invoca un brote"
+"herocard.passive_skill.title.targetstatedependenteffectonspecial.healthboost.checkstate.all.allies.dance","Bailarín grácil"
 "herocard.passive_skill.title.taunt","Ignora la burla"
 "herocard.passive_skill.title.titan_dread_damage_minions","Temible"
 "herocard.passive_skill.title.titan_dread_damage_minions_15","Temible"

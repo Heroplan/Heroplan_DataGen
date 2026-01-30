@@ -82,6 +82,7 @@
 "specials.v2.directeffect.damage.yellow.enemies","لإلحاق {HEALTH}% من الضرر لجميع الأعداء المقدسين."
 "specials.v2.directeffect.heal.all.allies","استعد {HEALTH}% من الصحة لجميع الحلفاء."
 "specials.v2.directeffect.heal.all.allies.fixedpower","يستعيد {HEALTH} من الصحة لجميع الحلفاء."
+"specials.v2.directeffect.heal.lessthanhalfhpleft.allies.fixedpower","يستعيد {HEALTH} من الصحة لكل الحلفاء الذين لديهم أقل من 50% صحة."
 "specials.v2.directeffect.heal.neartotarget.allies","تستعيد {HEALTH}% من الصحة للبطل والحلفاء المجاورين."
 "specials.v2.directeffect.heal.single.allies","يستعيد {HEALTH}% من الصحة للرامي."
 "specials.v2.directeffect.heal.single.allies.fixedpower","يستعيد {HEALTH} من الصحة للرامي."
@@ -298,6 +299,7 @@
 يمتص شرير أرواح النار التعافي. يختفي بعدما يمتص كمية من التعافي تساوي {FAMILIARHEALTHPERCENT}% من الصحة القصوى لهدفه."
 "specials.v2.parasite.flytrap_fiend.neartotarget","لاستدعاء شرير أرواح النار للهدف والأعداء القريبين. 
 يمتص الذراع الأخطبوطي الشرير التعافي. يختفي بعدما يمتص كمية من التعافي تساوي {FAMILIARHEALTHPERCENT}% من الصحة القصوى لهدفه."
+"specials.v2.parasite.flytrap_fiend.reducemaxhealth.single.allies","عند الاستدعاء، يخفض شرير الذراع الأخطبوطي الصحة القصوى لهدفه بمقدار {REDUCTION} في كل جولة. هذا التأثير أقوى ضد الأهداف ذات الصحة المعززة."
 "specials.v2.parasite.flytrap_fiend.single","يستدعي شرير السلايم للهدف والأعداء القريبين. يُلحق الشرير ضررًا بالعدو بنسبة {FAMILIARATTACK}% من الهجوم كل دور.
 يمتص شرير السلايم التعافي. يختفي بعدما يمتص كمية من التعافي تساوي {FAMILIARHEALTHPERCENT}% من الصحة القصوى لهدفه."
 "specials.v2.parasite.gargoyle_parasite.explode","ينفجر شرير المزراب بعد {FAMILIAREFFECTFREQUENCY} من الجولات؛ مما يُلحق {FAMILIARFIXEDEXPLOSIONDAMAGE} من الضرر بهدفه."
@@ -323,6 +325,9 @@
 "specials.v2.parasite.mercenary.all","لاستدعاء شرير مرتزق لجميع الأعداء. يُلحق الشرير ضررًا بالعدو بنسبة {FAMILIARATTACK}% من الهجوم كل جولة. يمتص الشرير المرتزق العلاج ويختفي عندما يمتص صحة تساوي {FAMILIARHEALTHPERCENT}% من الصحة القصوى للهدف."
 "specials.v2.parasite.mercenary_costume.all","لاستدعاء شرير مرتزق لجميع الأعداء. يُلحق الشرير ضررًا بالعدو بنسبة {FAMILIARATTACK}% من الهجوم كل جولة. يمتص الشرير المرتزق العلاج ويختفي عندما يمتص صحة تساوي {FAMILIARHEALTHPERCENT}% من الصحة القصوى للهدف."
 "specials.v2.parasite.missile_parasite.explode","في حال تمت هزيمة عدو في أثناء امتلاكه لصاروخ معادٍ، يتلقي الأعداء المجاورون {FAMILIARFIXEDEXPLOSIONDAMAGE} من الضرر."
+"specials.v2.parasite.moldavite_owl_fiend.neartotarget","يستدعي شرير بومة مولدافيت للهدف والأعداء القريبين. يُلحق الشرير ضررًا بالعدو بنسبة {FAMILIARATTACK}% من الهجوم كل دور.
+يمتص شرير بومة مولدافيت الشفاء. يختفي بعدما يمتص كمية من الشفاء تساوي {FAMILIARHEALTHPERCENT}% من الصحة القصوى لهدفه."
+"specials.v2.parasite.moldavite_owl_fiend.removestatuseffects.minorbuff.single.allies.customremovalcount","في نهاية كل جولة، يبدد شرير البومة مولدافيت أحد التعزيزات القابلة للتبديد لهدفه."
 "specials.v2.parasite.muffin_parasite.all","يستدعي شرير الكعك لجميع الأعداء. يحطم الشرير العدو بنسبة {FAMILIARATTACK}% من الهجوم كل جولة. يمتص شرير الكعك العلاج ويختفي عندما يمتص صحة تساوي {FAMILIARHEALTHPERCENT}% من الصحة القصوى للهدف.  تُحدِث كل ضربة من شرير الكعك التأثيرات التالية:"
 "specials.v2.parasite.muffin_parasite.resetstatuseffectduration.minordebuff.majordebuff.all.allies","هناك فرصة بنسبة {CHANCE}% لتجديد مدة حالة المرض بأقل الجولات المتبقية."
 "specials.v2.parasite.naga_warrior_parasite.all","تستدعي شرير محارب الناغا لجميع الأعداء. يُلحق الشرير ضررًا بهدفه بنسبة {FAMILIARATTACK}% من الهجوم كل جولة.
@@ -458,6 +463,10 @@
 "specials.v2.property.chainstrikewitheffectperhit.statuseffect.single.allies.minordamage.with_chance","يتمتّع بـ {CHANCE}% فرصة للضربات الإضافية على أعداء عشوائيين، وحتّى {MAXHITS} مرات. تسبب الضربات الإضافية ضررًا بسيطًا.  يحصل الرامي على تأثير الحالة لكل ضربة:  {STATUSEFFECTS}"
 "specials.v2.property.chainstrikewitheffectperhit.statuseffect.single.enemies.minordamage.with_chance","يتمتّع بـ {CHANCE}% فرصة للضربات الإضافية على أعداء عشوائيين، وحتّى {MAXHITS} مرات. تسبب الضربات الإضافية ضررًا بسيطًا.  يحصل الرامي على تأثير الحالة لكل ضربة:  {STATUSEFFECTS}"
 "specials.v2.property.chainstrikewitheffectperhit.statuseffect.single.playercharacters","يتمتع بـ {CHANCE}% فرصة للضربات الإضافية على الأعداء العشوائيين، وحتّى {MAXHITS} مرات.  يحصل الرامي على تأثير الحالة التالي لكل ضربة: {STATUSEFFECTS}"
+"specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","يسبب {DAMAGE}% من الضرر للهدف و{MAXHITS} من الأعداء العشوائيين.
+يستدعي شرير البذرة لكل عدو مصاب."
+"specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","يسبب {DAMAGE}% من الضرر للهدف و{MAXHITS} من الأعداء العشوائيين.
+يستدعي شرير البذرة لكل عدو مصاب."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","لإلحاق {DAMAGE}% من الضرر بالهدف و{MAXHITS} الأعداء القريبون. يستدعي صاروخ شرير لإصابة الأعداء. يلحق الشرير ضررًا بالعدو بنسبة {FAMILIARATTACK}% من الهجوم كل جولة. يمتص صاروخ الشرير العلاج ويختفي عندما يمتص صحة تساوي {FAMILIARHEALTHPERCENT}% من الصحة القصوى لمالكها."
 "specials.v2.property.chainstrikewithhitperfamiliar.allies.minion","لإلحاق ضرر إضافي بنسبة {EXTRADAMAGE}% لعدد عشوائي من الأعداء مساوٍ لعدد التوابع الذين يملكهم الحلفاء. يتم خفض الضرر على كل ضربة متتالية."
 "specials.v2.property.chainstrikewithhitperfamiliar.enemies.parasite","لإلحاق ضرر إضافي بنسبة {EXTRADAMAGE}% لعدد عشوائي من الأعداء مساوٍ لعدد الأشرار الذين يملكهم الأعداء. يتم خفض الضرر على كل ضربة متتالية."
@@ -492,6 +501,7 @@
 "specials.v2.property.conditionaleffect.damage.all.enemies.highest.currentproportionalmana.only_targets_who_meet_condition","لإلحاق {POWERFORTARGETSTHATMEETCONDITION}% من الضرر بالعدو صاحب أكبر قوة متبقية."
 "specials.v2.property.conditionaleffect.damage.all.enemies.lowest.currenthp","تلحق {POWERFORTARGETSTHATMEETCONDITION}% من الضرر بالعدو الذي لديه أقل نقاط صحة متبقية. تلحق {POWERFOROTHERTARGETS}% من الضرر بجميع الأعداء الآخرين."
 "specials.v2.property.conditionaleffect.damage.all.enemies.lowest.currenthp.hittargetsonly.only_targets_who_meet_condition","يلحق {POWERFORTARGETSTHATMEETCONDITION}% من الضرر بالعدو صاحب أقل نقاط صحة متبقية."
+"specials.v2.property.conditionaleffect.damage.all.enemies.lowest.currenthp.only_targets_who_meet_condition","يلحق {POWERFORTARGETSTHATMEETCONDITION}% من الضرر بالعدو صاحب أقل نقاط صحة متبقية."
 "specials.v2.property.conditionaleffect.damage.single.enemies.highest.currenthp.hittargetsonly.only_targets_who_meet_condition","يلحق {POWERFORTARGETSTHATMEETCONDITION}% من الضرر بالعدو صاحب أكبر نقاط صحة متبقية."
 "specials.v2.property.conditionaleffect.heal.all.allies.lowest.currenthp","لاستعادة {POWERFORTARGETSTHATMEETCONDITION}% من الصحة للحليف الذي لديه أقل عددٍ من نقاط الصحة المتبقية. يستعيد جميع الحلفاء الآخرين  {POWERFOROTHERTARGETS}% من الصحة."
 "specials.v2.property.conditionaleffect.heal.all.enemies.lowest.currenthp.only_targets_who_meet_condition","لاستعادة{POWERFORTARGETSTHATMEETCONDITION}% من الصحة للحليف الذي لديه أقل عددٍ من نقاط الصحة المتبقية."
@@ -537,6 +547,7 @@
 يخفض المكعب المظلم الحد الأقصى لصحة الهدف بمقدار {REDUCTION}. هذا التأثير أقوى ضد الأهداف ذات الصحة المعززة."
 "specials.v2.property.darkcubechainstrike.extra","لا يمكن أن يقل الحد الأقصى للصحة عن {MINIMUMMAXHEALTH}% من الصحة القصوى الأصلية.
  تنخفض أي صحة معززة انخفاضًا إضافيًّا بمقدار {REDUCTION}."
+"specials.v2.property.delayturnstoattack.all","يتأخر هجوم كل الأعداء العادي لمدة {DELAY} من الجولات."
 "specials.v2.property.delayturnstoattack.neartotarget","يتأخر الهجوم العادي للأعداء القريبين والهدف لمدة {DELAY} من الجولات."
 "specials.v2.property.delayturnstoattack.neartotarget.oneturn","يتأخر الهجوم العادي للأعداء القريبين والهدف لمدة {DELAY} من الجولات."
 "specials.v2.property.differentextrahitpowerchainstrike","لإلحاق {DAMAGE}% من الضرر لـ to {MAXHITS} من الأعداء العشوائيين الآخرين."
@@ -564,12 +575,25 @@
 "specials.v2.property.effectonkill.statuseffect.managenerationmodifier.all.allies","إذا تغلب الهجوم على الهدف، يحصل جميع الأعداء على {STATUSEFFECT1MANAREGEN}% من تجدد القوة لمدة {STATUSEFFECT1TURNS} من الأدوار."
 "specials.v2.property.effectonkill.statuseffect.managenerationmodifier.neartotarget.allies","إذا تغلب الهجوم على الهدف، يحصل البطل والحلفاء القريبون على {STATUSEFFECT1MANAREGEN}% من تجدد القوة لمدة {STATUSEFFECT1TURNS} من الأدوار."
 "specials.v2.property.effectonkill.statuseffect.managenerationmodifier.single.allies","إذا تغلب الهجوم على الهدف، يحصل البطل على {STATUSEFFECT1MANAREGEN}% من تجدد القوة لمدة {STATUSEFFECT1TURNS} من الأدوار."
+"specials.v2.property.effectonremovedstatuseffectspertarget.minordebuff.all.allies.effectonremoval.addmana.single","يتم تطهير جميع الحلفاء من حالات الأمراض، وزيادة قوة جميع الحلفاء بنسبة {POWER}% لكل مرض تم تطهيره."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","يزيل الحصاد بأمان {MAXREMOVALCOUNT} من العلاوات، أو التراكمات الإيجابية، أو تأثيرات النمو من كل هدف. يشمل ذلك العلاوات غير القابلة للإزالة وتأثيرات الرقص.
 يتلقى الرامي {HEALTHBOOST}% من الصحة المعززة لكل تأثير يُزال. يمكن أن يتجاوز تعزيز الصحة الحد الأقصى من نقاط الصحة.
 
 تتجاوز الإزالة الآمنة التأثيرات الثانوية، مثل الضرر عند الإزالة، من علاوات تأثير الحالة المُزال. لا يزال بالإمكان تفعيل التأثيرات الخارجية، مثل المهارات السلبية وتأثيرات العائلة.
 تُزال تأثيرات النمو أولًا. أما التأثيرات الأخرى الأحدث، فتُزال أولًا."
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removewither.safe.extra","يزيل الاقتلاع بأمان {MAXREMOVALCOUNT} من العلاوات، أو التراكمات السلبية، أو تأثيرات التلف من كل هدف. يشمل ذلك أمراض الحالات غير القابلة للتطهير وتأثيرات الرقص.
+يتلقى الرامي {HEALTHBOOST}% من الصحة المعززة لكل تأثير يُزال. يمكن أن يتجاوز تعزيز الصحة الحد الأقصى من الصحة.
+
+يتجاوز التطهير الآمن التأثيرات الثانوية، مثل الضرر عند الإزالة، من مرض الحالة المُزال. لا يزال يمكن تفعيل التأثيرات الخارجية، مثل المهارات السلبية وتأثيرات العائلة.
+تُزال تأثيرات التلف أولًا. أما التأثيرات الأخرى، فالأحدث تُزال أولًا."
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.neartotarget.allies.alldebuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removewither","إضعافات تقويم من الرامي والحلفاء القريبين."
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.neartotarget.allies.alldebuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removewither.extra","يزيل الاقتلاع بأمان {MAXREMOVALCOUNT} من الإضعافات، أو التراكمات السلبية، أو تأثيرات التلف من كل هدف. يشمل ذلك أمراض الحالات غير القابلة للتطهير وتأثيرات الرقص.
+يتلقى الرامي {HEALTHBOOST}% من الصحة المعززة لكل تأثير يُزال. يمكن أن يتجاوز تعزيز الصحة الحد الأقصى من الصحة.
+
+تتجاوز الإزالة الآمنة التأثيرات الثانوية، مثل الضرر عند الإزالة، من تعزيزات تأثير الحالة المُزالة. لا يزال يمكن تفعيل التأثيرات الخارجية، مثل المهارات السلبية وتأثيرات العائلة.
+تُزال تأثيرات التلف أولًا. أما التأثيرات الأخرى، فالأحدث تُزال أولًا."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.neartotarget.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","يحصد العلاوات من الهدف والأعداء المجاورين."
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.single.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","يحصد العلاوات من الهدف."
 "specials.v2.property.effectontargetaliveafterhit.heal.all.allies.addmana.all.allies.directeffecttargettype.single","إذا لم يتغلب الهجوم على الهدف، يستعيد جميع الحلفاء {EFFECT1POWER}% من الصحة ويكتسبون {EFFECT2POWER}% من القوة."
 "specials.v2.property.effectpereatenfamiliar.addmana.all.allies.fixed.minion.follower","يحصل جميع الحلفاء على قدر صغير من القوة لكل تابع تم تدميره."
 "specials.v2.property.effectpereatenfamiliar.addmana.all.allies.permil.minion.bigminion","يحصل البطل على {MANAPERFAMILIAR}% من القوة مقابل لكل تابع تم تدميره."
@@ -588,6 +612,8 @@
 "specials.v2.property.effectpereatenfamiliar.heal.single.allies.permil","يستعيد البطل والحلفاء المجاورون {HEALTHPERFAMILIAR}% من الصحة لكلّ تابع تم تدميره."
 "specials.v2.property.effectperfamiliar.damage.all.enemies.minion.bigminion.from.enemies.has_base_power.has_max_power","يلحق {BASEPOWER}% من الضرر بجميع الأعداء.
 يلحق {POWERPERFAMILIAR}% من الضرر الإضافي لكل تابع أو تابع ضخم يملكه الأعداء، حتى {MAXPOWER}% من الضرر إجمالًا."
+"specials.v2.property.effectperfamiliar.damage.all.enemies.parasite.bigparasite.from.enemies.has_base_power.has_max_power","يلحق {BASEPOWER}% من الضرر جميع الأعداء.
+يلحق {POWERPERFAMILIAR}% من الضرر الإضافي لكل شرير أو شرير ضخم يملكه الأعداء، حتى {MAXPOWER}% من الضرر إجمالًا."
 "specials.v2.property.effectperfamiliar.damage.neartotarget.enemies.minion.bigminion.from.enemies.has_base_power.has_max_power","يلحق {BASEPOWER}% من الضرر بالهدف والأعداء القريبين.
 يلحق {POWERPERFAMILIAR}% من الضرر الإضافي لكل تابع أو تابع ضخم يملكه الأعداء، حتى {MAXPOWER}% من الضرر إجمالًا."
 "specials.v2.property.effectperfamiliar.damage.neartotarget.enemies.parasite.bigparasite.from.enemies.has_base_power.has_max_power","يلحق {BASEPOWER}% من الضرر بالهدف والأعداء القريبين.
@@ -596,6 +622,8 @@
 يلحق {POWERPERFAMILIAR}% من الضرر الإضافي لكل تابع أو تابع ضخم يملكه الأعداء، حتى {MAXPOWER}% من الضرر إجمالًا."
 "specials.v2.property.effectperfamiliar.damage.single.enemies.minion.from.allies.has_base_power.has_max_power","لإلحاق {BASEPOWER}% من الضرر بالهدف.
 لإلحاق {POWERPERFAMILIAR}% من الضرر الإضافي لكل تابع يملكه الحلفاء، حتى {MAXPOWER}% من الضرر إجمالًا."
+"specials.v2.property.effectperfamiliar.damage.single.enemies.parasite.bigparasite.from.enemies.has_base_power.has_max_power","يلحق {BASEPOWER}% من الضرر بالهدف.
+يلحق {POWERPERFAMILIAR}% من الضرر الإضافي لكل شرير أو شرير ضخم يملكه الأعداء، حتى {MAXPOWER}% من الضرر إجمالًا."
 "specials.v2.property.effectperfamiliar.heal.all.allies.parasite.from.allies.has_base_power","لاستعادة {BASEPOWER}% من الصحة لكل الحلفاء.
 يستعيد جميع الحلفاء {POWERPERFAMILIAR}% من الصحة الإضافية مقابل كل شرير يملكه الحلفاء."
 "specials.v2.property.effectperfamiliar.healthboost.all.allies.minion.from.allies","يتم تعزيز صحة جميع الحلفاء بمقدار {HEALTHBOOST} من نقاط الصحة لكل تابع يملكه الحلفاء."
@@ -733,6 +761,7 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.property.modifystatuseffectturns.neartotarget.enemies.buffs.decrease","يقلل مدة تعزيزات الهدف والأعداء القريبين بمعدل {TURNS} من الجولات."
 "specials.v2.property.modifystatuseffectturns.neartotarget.enemies.buffs.decrease.one","يقلل مدة تعزيزات الهدف والأعداء القريبين بمعدل {TURNS} من الجولات."
 "specials.v2.property.modifystatuseffectturns.single.enemies.buffs.decrease","يقلل مدة تعزيزات الهدف النشطة لتكون لمدة {TURNS} من الجولات."
+"specials.v2.property.modifystatuseffectturns.single.enemies.buffs.decrease.one","يقلل مدة تعزيزات الهدف النشطة لتكون لمدة {TURNS} من الجولات."
 "specials.v2.property.moonrisedamage.enemies.all.yellow","يهاجم جميع الأعداء بضربة ظهور القمر، ويلحق ما يصل إلى {MAX} من الضرر. ويلحِق ضررًا إضافيًّا بنسبة {STRONGATTACKELEMENTDAMAGEMODIFIER}% إذا كان الهدف من العنصر المقدس. لا يفوت هذا الهجوم أهدافه أبدًا.ِ"
 "specials.v2.property.moonrisedamage.enemies.all.yellow.always_hit","يهاجم جميع الأعداء بضربة ظهور القمر، ويلحق ما يصل إلى {MAX} من الضرر. ويلحِق ضررًا إضافيًّا بنسبة {STRONGATTACKELEMENTDAMAGEMODIFIER}% إذا كان الهدف من العنصر المقدس. لا تخطئ هذه المهارة الخاصة أهدافها أبدًا."
 "specials.v2.property.moonrisedamage.enemies.neartotarget.yellow","يهاجم الهدف والأعداء القريبين بضربة ظهور القمر، ويلحق ما يصل إلى {MAX} من الضرر. ويلحق ضررًا إضافيًّا بنسبة {STRONGATTACKELEMENTDAMAGEMODIFIER}% إذا كان الهدف من العنصر المقدس. لا يفوِّت هذا الهجوم أهدافه أبدًا."
@@ -824,11 +853,9 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.property.removestatuseffects.minorbuff.single.enemies.customremovalcount.multiple","يبدد {REMOVALCOUNT} من التعزيزات من الهدف."
 "specials.v2.property.removestatuseffects.minordebuff.all.allies","ينظف جميع الحلفاء من حالات الأمراض."
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.bypassremoveeffects","يطهر بأمان جميع الحلفاء من حالات الأمراض."
-"specials.v2.property.removestatuseffects.minordebuff.all.allies.bypassremoveeffects.effectonremoval.addmana.single","لتطهير جميع الحلفاء من حالات الأمراض بأمان، وزيادة قوة جميع الحلفاء بنسبة {POWER}% لكل مرض تم تطهيره."
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount","ينظف حالة مرض واحدة من جميع الحلفاء."
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount.bypassremoveeffects","ينظف بأمان حالة مرض واحدة من جميع الحلفاء."
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount.multiple","ينظف جميع الحلفاء من {REMOVALCOUNT} من حالات الأمراض."
-"specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single","يتم تطهير جميع الحلفاء من حالات الأمراض، وزيادة قوة جميع الحلفاء بنسبة {POWER}% لكل مرض تم تطهيره."
 "specials.v2.property.removestatuseffects.minordebuff.customremovalcount.extra","يتم تنظيف حالات الأمراض بالترتيب التي تم الحصول عليها به. تُنظَف حالات الأمراض الأخيرة أولًا."
 "specials.v2.property.removestatuseffects.minordebuff.extra","يتجاوز التطهير الآمن التأثيرات الثانوية، مثل الضرر عند الإزالة، من مرض الحالة الذي تمت إزالته. لا يزال من الممكن تفعيل التأثيرات الخارجية مثل تأثيرات المهارة الخاملة وتأثيرات العائلة."
 "specials.v2.property.removestatuseffects.minordebuff.neartotarget.allies.bypassremoveeffects","يطهر بأمان أمراض الحالات من الرامي والحلفاء المجاورين."
@@ -837,6 +864,14 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.property.removestatuseffectsandbasemodifiers.neartotarget.allies.allstatuseffectsandstacks","تلقي الإزالة الكاملة على البطل والحلفاء القريبين."
 "specials.v2.property.removestatuseffectsandbasemodifiers.single.allies.allstatuseffectsandstacks","تلقي الإزالة الكاملة على البطل."
 "specials.v2.property.removestatuseffectsandbasemodifiers.single.enemies.allstatuseffectsandstacks","تلقي الإزالة الكاملة على الهدف."
+"specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.sides.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","يلحق {POWER}% من ضرر ضربة الروح بالأعداء على أطراف تشكيل العدو. تزيل ضربة الروح التعزيزات بأمان قبل إلحاق الضرر."
+"specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.single.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","يلحق {POWER}% من ضرر ضربة الروح بالهدف. تزيل ضربة الروح التعزيزات بأمان قبل إلحاق الضرر."
+"specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectdebuffs.neartotarget.allies.bypassremoveeffects.effectonremoval.healthboost.has_base_power.power_changes_per_removed_status_from_target","يعزز صحة الرامي والحلفاء القريبين بمقدار {FIXEDPOWER} بواسطة هالة الروح. تزيل هالة الروح أمراض الحالة بأمان قبل تعزيز الصحة."
+"specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.all.allies.effectonremoval.addmana.power_changes_per_removed_status_from_target","لتطهير جميع الحلفاء من أمراض الحالات بأمان، وزيادة قوة جميع الحلفاء بنسبة {POWERPERREMOVALFROMTARGET}% لكل مرض تم تطهيره."
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra"," ينخفض الضرر بنسبة {POWERPERREMOVALFROMTARGET}% لكل علاوة تمت إزالتها.
+ تتم إزالة العلاوات غير القابلة للتبديد أيضًا."
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra"," يتم تقليل تعزيز الصحة بمقدار {FIXEDPOWERPERREMOVALFROMTARGET} لكل مرض تمت إزالته.
+يتم أيضا إزالة الأمراض غير القابلة للتطهير."
 "specials.v2.property.repeatspecial.blade_wings.random","بعد الإلقاء الناجح، توجد احتمالية بنسبة {REPEATCHANCE}% لإعادة إلقاء الأجنحة الحادة على هدف عشوائي.
 يمكن إعادة الإلقاء حتى {MAXREPEATS} من المرات، وتقل احتمالية إعادة الإلقاء بنسبة {REPEATCHANCEDECREASE}% بعد كل إلقاء ناجح."
 "specials.v2.property.resetstatuseffectduration.all.allies.allbuffs","تتم إعادة تعيين مدة العلاوات لجميع الحلفاء."
@@ -865,6 +900,7 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.property.secondarydirecteffect.damage.all.allies","يسبّب {SECONDARYPOWER}% ضرر لجميع الحلفاء."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies","لإلحاق {SECONDARYPOWER}% من الضرر بجميع الأعداء."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_abigail","يلحق نسبة {SECONDARYPOWER}% من الضرر بجميع الأعداء، ويتسبب في {STATUSEFFECT1INSANITYTOADD} من الجنون لهم."
+"specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_ambrose","يلحق نسبة {SECONDARYPOWER}% من الضرر بجميع الأعداء، ويتسبب في {STATUSEFFECT1INSANITYTOADD} من الجنون لهم."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_cultist_villager_female","يلحق نسبة {SECONDARYPOWER}% من الضرر بجميع الأعداء، ويتسبب في {STATUSEFFECT1INSANITYTOADD} من الجنون لهم."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_gwendoline_changed_appearance","يلحق نسبة {SECONDARYPOWER}% من الضرر بجميع الأعداء، ويتسبب في {STATUSEFFECT1INSANITYTOADD} من الجنون لهم."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_on_damage_khatrox","يلحق نسبة {SECONDARYPOWER}% من الضرر بجميع الأعداء، ويتسبب في {STATUSEFFECT1INSANITYTOADD} من الجنون لهم."
@@ -884,6 +920,7 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_morryster","يلحق نسبة {SECONDARYPOWER}% من الضرر بالهدف والأعداء القريبين، ويتسبب في {STATUSEFFECT1INSANITYTOADD} من الجنون لهم."
 "specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_on_damage_atwood","يلحق نسبة {SECONDARYPOWER}% من الضرر بالهدف والأعداء القريبين، ويتسبب في {STATUSEFFECT1INSANITYTOADD} من الجنون لهم."
 "specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_piper","يلحق نسبة {SECONDARYPOWER}% من الضرر بالهدف والأعداء القريبين، ويتسبب في {STATUSEFFECT1INSANITYTOADD} من الجنون لهم."
+"specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_zenas","يلحق نسبة {SECONDARYPOWER}% من الضرر بالهدف والأعداء القريبين، ويتسبب في {STATUSEFFECT1INSANITYTOADD} من الجنون لهم."
 "specials.v2.property.secondarydirecteffect.damage.neartotargetexceptmaintarget.enemies","يلحق ضررًا إضافيًّا بنسبة {SECONDARYPOWER}% بالأعداء المجاورين."
 "specials.v2.property.secondarydirecteffect.damage.neartotargetminor.enemies","يلحق {SECONDARYPOWER}% من الضرر بالهدف، وضرر بسيط بالأعداء المجاورين."
 "specials.v2.property.secondarydirecteffect.damage.random.enemies","يسبّب {SECONDARYPOWER}% من الضرر لعدو عشوائي."
@@ -918,6 +955,9 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.property.sidedependentspecialproperty.normal_attack_delay_or_nullified_troop_damage","يطيح بالأعداء أرضًا. لدى هذا تأثير مختلف بناء على فريق هذه الشخصية: 
 
 {SIDEDEPENDENTPROPERTIES}"
+"specials.v2.property.sidedependentspecialproperty.normal_attack_delay_or_nullified_troop_damage_rawn","يطيح بالأعداء أرضًا. لدى هذا تأثير مختلف بناء على فريق هذه الشخصية: 
+
+{SIDEDEPENDENTPROPERTIES}"
 "specials.v2.property.sidetosidedirecteffect.damage.all.enemies.decrease.random_starting_side","لإلحاق {BASEPOWER}% من الضرر بكل الأعداء بدءًا من أي طرف في تشكيل العدو. يقل الضرر عند كل إصابة متعاقبة."
 "specials.v2.property.specialsteal.all.allies.deadtargets","لإلقاء المهارة الخاصة لدى الحلفاء المهزومين. 
 لا يمكن نسخ هذه المهارة الخاصة."
@@ -943,6 +983,7 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.all.allies","لسرقة جميع العلاوات التي يمكن إبطالها من الهدف وتوزيعها عشوائيًّا على الحلفاء."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.neartotarget.allies","يسرق جميع التقويات التي يمكن إبطالها من الهدف، ويوزعها عشوائيًّا على منفذ الهجوم والحلفاء القريبين."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.single.allies.customreallocationcount","لسرقة التعزيز الأحدث القابل للتبديد من الهدف ومنحه إلى الرامي."
+"specials.v2.property.statuseffectreallocation.from.single.enemies.to.single.allies.customreallocationcount.multiple.random","لسرقة {CUSTOMREALLOCATIONCOUNT} من العلاوة العشوائية القابلة للتبديد من الهدف إلى الرامي."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.single.allies.customreallocationcount.random","لسرقة تعزيز عشوائي قابل للتبديد من الهدف ومنحه إلى الرامي."
 "specials.v2.property.statuseffectreallocationwitheffectperallocation.addmana.all.allies","يكتسب جميع الحلفاء كمية صغيرة من القوة لكل مرض حالة تم نقله."
 "specials.v2.property.statuseffectreallocationwitheffectperallocation.addmana.single.allies","يكتسب الرامي {POWERPERALLOCATION}% من القوة عن كل تعزيز مسروق، ويصل إلى {MAXPOWER}% من القوة بحد أقصى."
@@ -990,19 +1031,19 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 يحصل الأعداء الذين لديهم أتباع أو أتباع ضخام على {STATUSEFFECT1DEFENSE}% من الدفاع لمدة {STATUSEFFECT1TURNS} من الأدوار."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","يلحق {POWERFORTARGETSTHATMEETCONDITION}% من الضرر بالأعداء الذين لديهم تعزيزات دفاعية أو أتباع أو أتباع ضخام.
 يحصل الأعداء الذين لديهم تعزيزات دفاعية أو أتباع أو أتباع ضخام على {STATUSEFFECT1DEFENSE}% من الدفاع لمدة {STATUSEFFECT1TURNS} من الأدوار."
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","يتطور الشرير البذرة ليصبح شريرًا برعمًا بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.
-يتطور الشرير البرعم إلى شرير ضخم زاهر بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","يتطور شرير البذرة إلى شرير برعم بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.
+يتطور شرير البرعم إلى شرير ضخم مزدهر بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.
 
- الشرير البذرة: {EVOLVINGFAMILIAR1ATTACK}% من الهجوم، {EVOLVINGFAMILIAR1HEALTH}% من الصحة
- الشرير البرعم: 
-{EVOLVINGFAMILIAR2ATTACK}% من الهجوم {EVOLVINGFAMILIAR2HEALTH}% من الصحة
- الشرير الضخم المزدهر: 
-{EVOLVINGFAMILIAR3ATTACK}% من الهجوم {EVOLVINGFAMILIAR3HEALTH}% من الصحة
+شرير البذرة: {EVOLVINGFAMILIAR1FAMILIARATTACK}% من الهجوم، {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% من الصحة.
+ شرير برعم: {EVOLVINGFAMILIAR2FAMILIARATTACK}% من الهجوم، {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% من الصحة.
+ شرير ضخم مزدهر: {EVOLVINGFAMILIAR3FAMILIARATTACK}% من الهجوم، {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% من الصحة.
 
-يدمر الشرير هدفه في كل جولة. يختفي الشرير بعد امتصاص التعافي. كمية التعافي اللازمة تعتمد على الصحة القصوى للهدف."
+يلحق الشرير ضررًا لهدفه كل جولة. يختفي الشرير بعد امتصاص الشفاء. يعتمد مقدار الشفاء المطلوب على صحة الهدف القصوى."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","إذا كان الهدف يمتلك أشرارًا أو أشرارًا ضخمة، فإنه يلحق {DAMAGE}% من الضرر لعدو مختلف عشوائيًا.
 يستدعي الشرير البذرة لكل عدو مصاب."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","إذا كان الهدف يمتلك أشرارًا أو أشرارًا ضخمة، فإنه يلحق {DAMAGE}% من الضرر لعدو مختلف عشوائيًا.
+يستدعي الشرير البذرة لكل عدو مصاب."
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.parasite.bigparasite.evolving_root_rot_fiend","إذا كان الهدف يمتلك أشرارًا أو أشرارًا ضخمة، فإنه يلحق {DAMAGE}% من الضرر لعدو مختلف عشوائيًا.
 يستدعي الشرير البذرة لكل عدو مصاب."
 "specials.v2.property.targethealthdependantextradamage.over_health_boundary.all","يلحق {DAMAGEMULTIPLIER}% من الضرر للأعداء مع بقاء أكثر من {HEALTHBOUNDARY}% من الصحة."
 "specials.v2.property.targethealthdependantextradamage.over_health_boundary.neartotarget","يلحق {DAMAGEMULTIPLIER}% من الضرر للأعداء مع بقاء أكثر من {HEALTHBOUNDARY}% من الصحة."
@@ -1308,11 +1349,26 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.statuseffect.major.elementmirror.red.neartotarget.allies","يعكس الرامي والحلفاء القريبون جميع أمراض الحالات ونسبة الضرر {DEFLECTION}% على المهاجم، ويصدون التأثيرات السلبية الأخرى من مهارات النار الخاصة للأعداء لمدة {TURNS} من الجولات. لا يمكن تبديد هذا التأثير."
 "specials.v2.statuseffect.major.ethereal.single.allies","يتحول  البطل إلى هيئة الشبح لمدة {TURNS} من الأدوار.
 عند التواجد في هيئة الشبح، يكتسب البطل {ATTACK}% من الهجوم."
+"specials.v2.statuseffect.major.fieryfortunedancemultieffect.neartotargetexceptcaster.allies.fiery_fortune_dance","يرقص الحلفاء القريبون رقصة الحظ الشرسة لمدة {TURNS} من الجولات.
+
+رقصة الحظ الشرسة
+{STATUSEFFECTS}
+تتراكم رقصات الحظ مع تأثيرات الرقص الأخرى."
+"specials.v2.statuseffect.major.fieryfortunedancemultieffect.neartotargetexceptcaster.allies.fiery_fortune_dance_dragon_kids","يرقص الحلفاء القريبون رقصة الحظ الشرسة لمدة {TURNS} من الجولات.
+
+رقصة الحظ الشرسة
+{STATUSEFFECTS}
+تتراكم رقصات الحظ مع تأثيرات الرقص الأخرى."
 "specials.v2.statuseffect.major.fixedhealthrecovery.all.allies","يجدد جميع الحلفاء إجمالي {TOTAL} من نقاط الصحة كل {TURNS}من الجولات. لا يمكن إبطال هذا التأثير."
 "specials.v2.statuseffect.major.fixedhealthrecovery.allexceptcaster.allies.while.caster.allies.transcendentalframe","في هيئة الشبح، يجدد جميع الحلفاء ما عدا الرامي {HPPERTURN} من نقاط الصحة كل جولة."
 "specials.v2.statuseffect.major.fixedhealthrecovery.healthboost.all.allies","يجدد جميع الحلفاء إجمالي {TOTAL}  تعزيز الصحة على مدار {TURNS} الجولات. تعزيز الصحة يمكنه تخطي الحد الأقصى لنقاط الصحة. لا يمكن إبطال هذا التأثير."
 "specials.v2.statuseffect.major.fixedhealthrecovery.healthboost.allexceptcaster.allies.while.caster.allies.transcendentalframe","في هيئة الشبح، يجدد جميع الحلفاء ما عدا الرامي {HPPERTURN} تعزيز الصحة كل جولة. يمكن أن تتخطى الصحة المعززة الحد الأقصى لنقاط الصحة."
 "specials.v2.statuseffect.major.fixedhealthrecovery.single.allies.while.caster.allies.transcendentalframe","في هيئة الشبح، يجدد الرامي {HPPERTURN} من نقاط الصحة كل جولة."
+"specials.v2.statuseffect.major.flowingfortunedancemultieffect.neartotargetexceptcaster.allies.flowing_fortune_dance","يرقص الحلفاء القريبون رقصة الحظ السلسة لمدة {TURNS} من الجولات.
+
+رقصة الحظ السلسة
+{STATUSEFFECTS}
+تتراكم رقصات الحظ مع تأثيرات الرقص الأخرى."
 "specials.v2.statuseffect.major.frost.all.enemies","يحصل جميع الأعداء على {DAMAGE} من ضرر الصقيع طوال {TURNS} من الأدوار. لا يمكن تطهير هذا التأثير."
 "specials.v2.statuseffect.major.frost.single.enemies.chain_strike","تراكم (الحد الأقصى: {MAXSTACK}): يتلقى الأعداء المصابون {DAMAGE} من ضرر الصقيع في نهاية كلِّ جولة. لا يمكن تطهيره."
 "specials.v2.statuseffect.major.ghost.single.allies.onremoval.damage.all.enemies.expiration.basic_attack_chao_gai.all.allies.special_damage_power_modifier_chao_gai.all.allies","يتحول الرامي إلى شبح لمدة {TURNS} من الجولات. 
@@ -1393,6 +1449,7 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 السطح اللزج: لسرقة {REALLOCATIONCOUNT} من التعزيز العشوائي القابل للتبديد، أو تأثيرًا للنمو من عدو مهاجم."
 "specials.v2.statuseffect.major.reallocateeffectsonhit.single.allies.effects.minorbuff.random","يحصل منفذ المهارة على سطح لزج لمدة {TURNS} من الجولات. لا يمكن إبطال هذا التأثير. 
 السطح اللزج: يسرق {REALLOCATIONCOUNT} من التعزيز العشوائي القابل للتبديد، أو تأثير النمو من عدو مهاجم."
+"specials.v2.statuseffect.major.receiveddamagemodifier.all.allies.decrease","يخفض كل الحلفاء كل الضرر المتلقى بنسبة {DAMAGEREDUCTION}% لمدة {TURNS} من الجولات. لا يمكن تبديد هذا التأثير."
 "specials.v2.statuseffect.major.receiveddamagemodifier.all.enemies.while.caster.enemies.hasfamiliars","إذا كان لدى الرامي تابع أو تابع ضخم، يتلقى جميع الأعداء ضررًا متزايدًا بنسبة {DAMAGEMODIFIER}%. يبقى هذا التأثير فعالًا ما دام لدى الرامي تابع أو تابع ضخم، ولا يمكن إبطاله."
 "specials.v2.statuseffect.major.resistmanareduction.all.allies.while.caster.allies.boostedhealth","كل الحلفاء محصنون ضد خفض القوة ما دام الملقى يتمتع بصحة معززة. ولا يمكن تبديد هذا التأثير."
 "specials.v2.statuseffect.major.revive.bruiserbros.all.allies","يحصل جميع الحلفاء على وضعية الملاكم طوال {TURNS} من الجولات. إذا مات أحدهم في وضعية الملاكم يعاد إحياؤه في وضعية الحرباء مع:
@@ -1463,7 +1520,7 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 سيتم تفعيل مصدر الأمراض لـ{MAXACTIVATIONCOUNT} مرات. كل محاولة لتبديده ستزيل تفعيلًا واحدًا."
 "specials.v2.statuseffect.major.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.debuff_damage_increase_grendels_mother.reduce_healing_grendels_mother","توليد تأثير الحالة: في بداية كل {MAXACTIVATIONCOUNT} من الجولات التالية، تمنح هذه الشخصية عدوًّا عشوائيًّا ضررًا من أمراض الحالة بنسبة {STATUSEFFECT1MULTIPLIER}% و{STATUSEFFECT2HEALING}% لكل شفاء مُتلقى لمدة {STATUSEFFECT1TURNS} من الجولات. لا يمكن تبديد هذا التأثير."
 "specials.v2.statuseffect.major.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.debuff_damage_increase_grendels_mother.reduce_healing_grendels_mother.dispelincreasesactivations","مصدر الأمراض: يتم إلقاء التأثيرات التالية على عدو عشوائي في بداية كل جولة:
-{STATUSEFFECT1MULTIPLIER}% ضرر من أمراض الحالة لمدة {STATUSEFFECT1TURNS} من الجولات.
+{STATUSEFFECT1MULTIPLIER}% ضرر من أمراض الحالة والتراكمات السلبية لمدة {STATUSEFFECT1TURNS} من الجولات.
 {STATUSEFFECT2HEALING}% لكل التعافي المُتلقى لمدة {STATUSEFFECT2TURNS} من الجولات.
 سيتم تفعيل مصدر الأمراض {MAXACTIVATIONCOUNT} من المرات. كل محاولة لتبديده تُلغي تفعيلًا واحدًا."
 "specials.v2.statuseffect.major.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.mage_armor_hygd.heal_increase_hygd","توليد تأثير الحالة: في بداية كل {MAXACTIVATIONCOUNT} من الجولات التالية، تمنح هذه الشخصية جميع الحلفاء {STATUSEFFECT1DEFENSE}% الدفاع  المهارات الخاصة، وزيادة في الشفاء المتلقى بنسبة {STATUSEFFECT2HEALING}% لمدة {STATUSEFFECT1TURNS} من الجولات. لا يمكن تبديد هذا التأثير."
@@ -1518,6 +1575,16 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 {REPLACEDSPECIALDESCRIPTION}"
 "specials.v2.statuseffect.major.ubertitanstackingattackmodifier.single.allies","التراكم (الحد الأقصى: {MAXSTACK}): يحصل العملاق الأسطوري على {ATTACK}% من الهجوم طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.major.ubertitanstackingreceiveddamagemodifier.single.allies.decrease","التراكم (الحد الأقصى: {MAXSTACK}): ينخفض الضرر الذي تم تلقيه بمقدار {DAMAGEREDUCTION}% طوال {TURNS} من الجولات."
+"specials.v2.statuseffect.major.vibrantfortunedancemultieffect.neartotargetexceptcaster.allies.vibrant_fortune_dance","يرقص الحلفاء القريبون رقصة الحظ النابضة لمدة {TURNS} من الجولات.
+
+رقصة الحظ النابضة 
+{STATUSEFFECTS}
+تتراكم رقصات الحظ مع تأثيرات الرقص الأخرى."
+"specials.v2.statuseffect.major.vibrantfortunedancemultieffect.neartotargetexceptcaster.allies.vibrant_fortune_dance_ling_long","يرقص الحلفاء القريبون رقصة الحظ النابضة لمدة {TURNS} من الجولات.
+
+رقصة الحظ النابضة 
+{STATUSEFFECTS}
+تتراكم رقصات الحظ مع تأثيرات الرقص الأخرى."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","يحصل جميع الأعداء على {ACCURACY}% من الدقة طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.accuracymodifier.allminor.enemies","يحصل الهدف على {ACCURACY}% من الدقة، ويحصل جميع الأعداء الآخرين على {MINORACCURACY}% من الدقة لمدة {TURNS} من الأدوار."
 "specials.v2.statuseffect.minor.accuracymodifier.blue.enemies","يحصل جميع أعداء الجليد على {ACCURACY}% من الدقة طوال{TURNS} من الجولات."
@@ -1536,9 +1603,11 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.statuseffect.minor.addinsanitystatuseffectskill.single.allies.on.allyspecial.damage.neartotarget.enemies.add_insanity_dolores","لمدة {TURNS} من الأدوار التالية، تُلحق هذه الشخصية {POWER1}% من الضرر بهدف عشوائي وأعداء قريبين وتتسبب في {STATUSEFFECT1INSANITYTOADD} من الجنون عليهم في كل مرة يلقي فيها أي حليف آخر مهارته الخاصة."
 "specials.v2.statuseffect.minor.addinsanitystatuseffectskill.single.allies.on.allyspecial.damage.single.enemies","لمدة {TURNS} من الأدوار التالية، تُلحق هذه الشخصية {POWER1}% من الضرر بعدو عشوائي وتتسبب في {STATUSEFFECT1INSANITYTOADD} من الجنون عليه في كل مرة يلقي فيها أي حليف آخر مهارته الخاصة."
 "specials.v2.statuseffect.minor.additivebleeding.neartotarget.enemies.noturns","يتلقى الهدف والأعداء القريبون {BASICDAMAGE} من النزيف الشديد طويل الأمد كل جولة."
+"specials.v2.statuseffect.minor.addstatuseffectonremoval.all.enemies.onremoval.expiration.paralysis_ivete.turns.one","بعد جولة واحدة، يُصاب كل الأعداء بالشلل لمدة جولتين."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_charmione","بعد مرور {TURNS} من الأدوار، يصبح الهدف والأعداء القريبين مشلولين لمدة {STATUSEFFECT1TURNS} من الأدوار. لا يستطيع الأعداء المشلولين الهجوم أو اكتساب القوة ويتلقون {STATUSEFFECT1DAMAGEMODIFIER}% من الضرر المتزايد."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_charmione.turns.one","بعد مرور {TURNS} من الأدوار، يصبح الهدف والأعداء القريبين مشلولين لمدة {STATUSEFFECT1TURNS} من الأدوار."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_foxley.single.allies.turns.one","بعد {TURNS} من الجولات سيُصاب الهدف والأعداء المجاورون بالـ شلل لمدة {STATUSEFFECT1TURNS} من الجولات."
+"specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_ivete.turns.one","بعد مرور جولة واحدة، يُصاب الهدف والأعداء القريبون بالشلل لمدة جولتين."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_knightus","بعد مرور {TURNS} من الأدوار، يصبح الهدف والأعداء القريبين مشلولين لمدة {STATUSEFFECT1TURNS} من الأدوار. لا يستطيع الأعداء المشلولين الهجوم أو اكتساب القوة ويتلقون {STATUSEFFECT1DAMAGEMODIFIER}% من الضرر المتزايد."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_knightus.turns.one","بعد مرور {TURNS} من الأدوار، يصبح الهدف والأعداء القريبين مشلولين لمدة {STATUSEFFECT1TURNS} من الأدوار. لا يستطيع الأعداء المشلولين الهجوم أو اكتساب القوة، ويتلقون {STATUSEFFECT1DAMAGEMODIFIER}% من الضرر المتزايد."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_merith.turns.one","بعد مرور جولة واحدة، يُصاب الهدف والأعداء القريبون بالشلل لمدة جولتين."
@@ -1551,12 +1620,14 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis.single.allies.turns.one","بعد مرور {TURNS} من الجولات، يصبح الهدف مشلولًا لمدة {STATUSEFFECT1TURNS} من الجولات."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_fruitio.single.allies.turns.one","بعد مرور {TURNS} من الجولات، يصبح الهدف مشلولًا لمدة {STATUSEFFECT1TURNS} من الجولات."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_knightus.turns.one","بعد مرور {TURNS} من الجولات، يصبح الهدف مشلولًا لمدة {STATUSEFFECT1TURNS} من الجولات."
+"specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_marzul.turns.one","بعد مرور جولة واحدة، يصاب الهدف بالشلل لمدة جولتين."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_wilcox.turns.one","بعد مرور {TURNS} من الجولات، يصبح الهدف مشلولًا لمدة {STATUSEFFECT1TURNS} من الجولات."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.paralysis.single.allies.turns.one","بعد مرور {TURNS} من الجولات، يصبح الهدف مشلولًا لمدة {STATUSEFFECT1TURNS} من الجولات."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.paralysis_fruitio.turns.one","بعد مرور {TURNS} من الجولات، يصبح الهدف مشلولًا لمدة {STATUSEFFECT1TURNS} من الجولات."
 "specials.v2.statuseffect.minor.amplifieddamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.onremoval.damage.all.enemies.dispel.removal.reallocation.death.replacesamestatuseffect.override.enterabsentform","يُلحق الرامي {REMOVALEFFECT1FIXEDPOWER} من الضرر بكل الأعداء بعد {TURNS} من الجولات. وفي حال إزالة التأثير أو استبداله قبل انتهاء المدة، فإنه يُلحق {REMOVALEFFECT2FIXEDPOWER} من الضرر بدلًا من ذلك."
 "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect.override.enterabsentform","يستعيد جميع الحلفاء {REMOVALEFFECT1FIXEDPOWER} من الصحة بعد {TURNS} من الجولات. وفي حال إزالة التأثير، أو استبداله قبل انتهاء المدة؛ فإنهم يستعيدون {REMOVALEFFECT2FIXEDPOWER} من الصحة بدلًا من ذلك."
 "specials.v2.statuseffect.minor.amplifiedhealonremoval.neartotarget.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect.override.enterabsentform","يستعيد الرامي والحلفاء المجاورون {REMOVALEFFECT1FIXEDPOWER} من الصحة بعد {TURNS} من الجولات. وفي حال إزالة التأثير، أو استبداله قبل انتهاء المدة؛ فإنهم يستعيدون {REMOVALEFFECT2FIXEDPOWER} من الصحة بدلًا من ذلك."
+"specials.v2.statuseffect.minor.amplifiedhealonremoval.single.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect","يستعيد الرامي {REMOVALEFFECT1FIXEDPOWER} من الصحة بعد {TURNS} من الجولات. وفي حال إزالة التأثير، أو استبداله قبل انتهاء المدة؛ فإنهم يستعيدون {REMOVALEFFECT2FIXEDPOWER} من الصحة بدلًا من ذلك."
 "specials.v2.statuseffect.minor.amplifiedmanaonremoval.all.allies.onremoval.addmana.single.allies.expiration.onremoval.addmana.single.allies.dispel.removal.reallocation.override.enterabsentform","يحصل جميع الحلفاء على {REMOVALEFFECT1POWER}% من القوة بعد {TURNS} من الجولات. وفي حال إزالة التأثير قبل انتهاء المدة، فإنهم يحصلون على {REMOVALEFFECT2POWER}% من القوة بدلًا من ذلك."
 "specials.v2.statuseffect.minor.assistskillaccuracymodifier.all.enemies","يحصل جميع الأعداء على {ACCURACY}% من الدقة طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.assistskillattackmodifier.all.allies","يحصل جميع الحلفاء على {ATTACK}% هجوم طوال {TURNS} من الجولات."
@@ -1580,7 +1651,11 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.statuseffect.minor.astralorbaddstatuseffectsonremoval.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.onremoval.dispel.bouncing_damage_over_time_anatemah.single.allies.chain_strike","يصبح الأعداء المصابون متأثرين بالكرة النجمية.
 عند الإصابة بالكرة النجمية، لا يمكن لصاحبها اكتساب تعزيزات جديدة.
  تنفجر الكرات النجمية بعد {TURNS} من الجولات، مسببةً {DAMAGE} من الضرر لصاحبها.
- إذا طُهِّرت الكرة النجمية، يتلقى صاحبها صدى لمدة {STATUSEFFECT1TURNS} من الجولات. يلحق الصدى {STATUSEFFECT1DAMAGEPERTURN} من الضرر في كل دور. يلحق الصدى {DAMAGEPERBOUNCE} ضررًا إضافيًّا يتردد صداه {MAXBOUNCES} لعدد عشوائي من الأعداء."
+ إذا طُهِّرت الكرة النجمية، يتلقى صاحبها صدى لمدة {STATUSEFFECT1TURNS} من الجولات. يلحق الصدى {STATUSEFFECT1DAMAGEPERTURN} من الضرر في كل جولة بالعدو المصاب و{RESONANCEDAMAGE} من الضرر بالأعداء القريبين."
+"specials.v2.statuseffect.minor.astralorbaddstatuseffectsonremoval.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.onremoval.dispel.resonance_damage_over_time_anatemah.single.allies.chain_strike","يصبح الأعداء المصابون متأثرين بالكرة النجمية.
+عند الإصابة بالكرة النجمية، لا يمكن لصاحبها اكتساب تعزيزات جديدة.
+ تنفجر الكرات النجمية بعد {TURNS} من الجولات، مسببةً {DAMAGE} من الضرر لصاحبها.
+ إذا طُهِّرت الكرة النجمية، يتلقى صاحبها صدى لمدة {STATUSEFFECT1TURNS} من الجولات. يلحق الصدى {STATUSEFFECT1DAMAGEPERTURN} من الضرر في كل جولة بالعدو المصاب و{RESONANCEDAMAGE} من الضرر بالأعداء القريبين."
 "specials.v2.statuseffect.minor.attackmodifier.all.allies","يحصل جميع الحلفاء على {ATTACK}% هجوم طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.attackmodifier.all.allies.noturns","يتلقى جميع الحلفاء {ATTACK}% من الهجوم طويل الأمد."
 "specials.v2.statuseffect.minor.attackmodifier.all.enemies","يحصل جميع الأعداء على {ATTACK}% هجوم طوال {TURNS} جولات."
@@ -1649,6 +1724,7 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.statuseffect.minor.bleeding.single.enemies.chain_strike","تتلقى جميع الأهداف المصابة {DAMAGE} من ضرر النزيف طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.bleeding.single.enemies.contagious","يتلقى الهدف {DAMAGE} من ضرر النزف طوال {TURNS} من الجولات. ينتشر هذا التأثير على الأعداء المجاورين."
 "specials.v2.statuseffect.minor.bleeding.single.enemies.noturns","يتلقى الهدف {DAMAGE} من ضرر النزيف طويل الأمد كل دور."
+"specials.v2.statuseffect.minor.bleeding.smallfamiliarowners.enemies","يحصل جميع الأعداء الذين يمتلكون تابعًا أو شريرًا على ضرر النزيف {DAMAGE} طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.bleedmark.all.enemies.stackingreceiveddamagemodifier.bleed","يحصل جميع الأعداء على علامة النزيف طوال {TURNS} من الجولات. عندما يصاب هدف محدد بضرر نزيف، يحصل على تراكم (كحد أقصى: {STATUSEFFECT1MAXSTACK}). يعمل كل تراكم على زيادة جميع الأضرار التي يتلقاها الهدف بنسبة {STATUSEFFECT1DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.bleedmark.neartotarget.enemies.stackingreceiveddamagemodifier.bleed","يحصل الهدف والأعداء القريبون على علامة النزيف طوال {TURNS} من الجولات. عندما يصاب هدف محدد بضرر نزيف، يحصل على تراكم (كحد أقصى: {STATUSEFFECT1MAXSTACK}). يعمل كل تراكم على زيادة جميع الأضرار التي يتلقاها الهدف بنسبة {STATUSEFFECT1DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.bleedmark.single.enemies.stackingreceiveddamagemodifier.bleed","تُوضع علامة النزيف على الهدف طوال {TURNS} من الجولات. عندما يصاب هدف محدد بضرر نزيف، يحصل على تراكم (كحد أقصى: {STATUSEFFECT1MAXSTACK}). يعمل كل تراكم على زيادة جميع الأضرار التي يتلقاها الهدف بنسبة {STATUSEFFECT1DAMAGEMODIFIER}%."
@@ -1664,6 +1740,7 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.statuseffect.minor.blockstatuseffectcasting.single.enemies.chain_strike.only_main_target","لا يمكن للهدف أن يستخدم أي تأثيرات حالة جديدة على الأعداء أو الحلفاء لمدة {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.blocktalentskillactivation.all.enemies","يمنع تفعيل مهارة الموهبة لجميع الأعداء طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.blocktalentskillactivation.single.enemies","تمنع تفعيل مهارة الموهبة للهدف طوال {TURNS} من الجولات."
+"specials.v2.statuseffect.minor.blocktalentskillactivation.single.enemies.chain_strike.chain_strike_cassilda.on_additional_hit","لا تستطيع جميع الأهداف المصابة تنشيط مهارات الموهبة لديها لمدة {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.blocktauntcasting.all.enemies","لا يمكن للهدف أن يرمي أي تأثير من تأثيرات حالة الاستهزاء الجديدة  طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.blocktauntcasting.neartotarget.enemies","لا يمكن للهدف والأعداء القريبين أن يرموا أي تأثير من تأثيرات حالة الاستهزاء الجديدة طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.bloodpoisoning.all.enemies","يتلقى جميع الأعداء {BASICDAMAGE} من ضرر النزيف الشديد لمدة {TURNS} من الجولات."
@@ -1704,6 +1781,7 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.statuseffect.minor.buffimmunity.single.enemies.damage","الهدف محصن ضد علاوات تأثير الحالة الجديدة طوال {TURNS} من الجولات، ويتلقى {POWER} من الضرر لكل محاولة علاوة."
 "specials.v2.statuseffect.minor.buffimmunity.single.enemies.damage.chain_strike","جميع الأهداف المصابة محصنة ضد علاوات تأثير الحالة الجديدة لمدة {TURNS} من الجولات، ويتلقون {POWER} من الضرر لكل محاولة علاوة."
 "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration","يلحق  {DAMAGE} - {MAXDAMAGE} بجميع الأعداء بعد {TURNS} من الجولات، بناءً على الضرر الذي تلقاه الرامي بينما كان هذه التأثير نشطًا."
+"specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death","لإلحاق {DAMAGE} - {MAXDAMAGE} بجميع الأعداء بعد {TURNS} من الجولات أو إذا هزم الرامي، بناءً على الضرر الذي تلقاه الرامي بينما كان هذا التأثير نشطًا."
 "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.powermultiplier","يلحق  {POWER}% - {MAXPOWER}% بجميع الأعداء بعد {TURNS} من الجولات، بناءً على الضرر الذي تلقاه الملقي بينما كان هذا التأثير نشطًا."
 "specials.v2.statuseffect.minor.burn.all.allies","يحصل جميع الحلفاء على {DAMAGE} ضرر حريق طوال {TURNS} جولات."
 "specials.v2.statuseffect.minor.burn.all.enemies","يحصل جميع الأعداء على {DAMAGE} ضرر حريق طوال {TURNS} جولات."
@@ -1784,16 +1862,16 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.statuseffect.minor.damageonremoval.allexceptcaster.allies.onremoval.damage.all.enemies.death","إذا هُزم أي حليف غير الملقي في {TURNS} من الجولات، فسيتلقى جميع الأعداء {DAMAGE} من الضرر."
 "specials.v2.statuseffect.minor.damageonremoval.single.allies.onremoval.damage.random.enemies.death","إن تعرض الملقي للهزيمة خلال {TURNS} من الأدوار، يتلقى عدو عشوائي {DAMAGE} من الضرر."
 "specials.v2.statuseffect.minor.damageonremoval.single.enemies.onremoval.damage.all.allies.death","إذا تم التغلب على الهدف في {TURNS} من الجولات، فيتلقى جميع الأعداء {DAMAGE} من الضرر."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.all.allies","يتلقى جميع الحلفاء خفضًا بنسبة {MULTIPLIER}% من الضرر اللاحق بهم من أمراض الحالة لمدة {TURNS} من الجولات."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.all.enemies","يتلقى جميع الأعداء {MULTIPLIER}% من الضرر المتزايد من حالات المرض طوال {TURNS} من الجولات."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.bleed.all.enemies","يتلقى جميع الأعداء {MULTIPLIER}% من الضرر المتزايد من حالة مرض النزيف لمدة {TURNS} من الجولات."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.bleed.single.enemies.chain_strike","يتلقى كل الأعداء {MULTIPLIER}% من الضرر المتزايد من حالة مرض النزيف لمدة {TURNS} من الأدوار."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.burn.poison.all.enemies","يتلقى جميع الأعداء {MULTIPLIER}% من الضرر المتزايد من أمراض الاحتراق والسم طوال {TURNS} من الجولات."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.neartotarget.enemies","يتلقى الهدف والأعداء المجاورون {MULTIPLIER}% من الضرر المتزايد من حالات المرض طوال {TURNS} من الجولات."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.neartotarget.enemies.noturns","يتلقى الهدف والأعداء المجاورون {MULTIPLIER}% من الضرر المتزايد طويل الأمد من حالات المرض."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.resist_completely.all.allies","جميع الحلفاء محصّنون ضد ضرر الأمراض لمدة {TURNS} من الجولات."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.resist_completely.neartotarget.allies","الرامي والحلفاء المجاورون محصّنون من الضرر طوال {TURNS} جولات."
-"specials.v2.statuseffect.minor.debuffdamagemodifier.single.enemies","يتلقى الهدف {MULTIPLIER}% من الضرر المتزايد من حالات المرض طوال {TURNS} من الجولات."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.all.allies","يتلقى جميع الحلفاء خفضًا بنسبة {MULTIPLIER}% من الضرر اللاحق بهم من أمراض الحالة والتراكمات السلبية لمدة {TURNS} من الجولات."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.all.enemies","يتلقى جميع الأعداء زيادة بنسبة {MULTIPLIER}% في الضرر من أمراض الحالة والتراكمات السلبية لمدة {TURNS} من الجولات."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.bleed.all.enemies","يتلقى جميع الأعداء زيادة بنسبة {MULTIPLIER}% في الضرر من أمراض الحالة والتراكمات السلبية للنزيف لمدة {TURNS} من الجولات."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.bleed.single.enemies.chain_strike","يتلقى جميع الأهداف المصابة زيادة بنسبة {MULTIPLIER}% في الضرر من أمراض الحالة والتراكمات السلبية للنزيف لمدة {TURNS} من الجولات."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.burn.poison.all.enemies","يتلقى جميع الأعداء {MULTIPLIER}% من الضرر المتزايد من أمراض الحالات والتراكمات السلبية للاحتراق والسم طوال {TURNS} من الجولات."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.neartotarget.enemies","يتلقى الهدف والأعداء المجاورون {MULTIPLIER}% من الضرر المتزايد من أمراض الحالات والتراكمات السلبية طوال {TURNS} من الجولات."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.neartotarget.enemies.noturns","يتلقى الهدف والأعداء المجاورون {MULTIPLIER}% من الضرر المتزايد طويل الأمد من أمراض الحالات والتراكمات السلبية."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.resist_completely.all.allies","جميع الحلفاء محصّنون ضد ضرر أمراض الحالات والتراكمات السلبية لمدة {TURNS} من الجولات."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.resist_completely.neartotarget.allies","الرامي والحلفاء المجاورون محصّنون ضد ضرر أمراض الحالات والتراكمات السلبية طوال {TURNS} من الجولات."
+"specials.v2.statuseffect.minor.debuffdamagemodifier.single.enemies","يتلقى الهدف {MULTIPLIER}% من الضرر المتزايد من أمراض الحالات والتراكمات السلبية طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.debuffshield.all.allies","جميع الحلفاء محصّنون ضد الأمراض الجديدة لمدة {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.debuffshield.all.allies.heal","جميع الحلفاء محصّنون ضد حالات الأمراض الجديدة لمدة {TURNS} من الجولات، ويستعيدون {POWER} من الصحة لكل محاولة حالة مرض."
 "specials.v2.statuseffect.minor.debuffshield.neartotarget.allies","البطل والحلفاء المجاورون محصّنون من الأمراض الجديدة طوال {TURNS} جولات."
@@ -1917,7 +1995,9 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_yellow.all.enemies","يتغير عنصر جميع الأعداء كل جولة لعدد {TURNS} من الجولات. يكون العنصر عشوائيًّا أول {TURNSLESS} من الجولات. في الجولة الأخيرة، يعود الأعداء إلى عنصرهم الأصلي. بعد كل تغيير للعنصر، يتلقى الأعداء {DAMAGEPERTURN} من الضرر إذا كان عنصرهم مقدسًا."
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","يحصل البطل على {ATTACK}% من الهجوم وزيادة {CHANGE}% إضافية كلّما أصيب هو أو أي من حلفائه طوال {TURNS} من الجولات، بحد أقصى {MAXMODIFIER}% من الهجوم. حين ينتهي التأثير، يحصل جميع الأعداء على {DAMAGE} من الضرر. كل ضربة على الرامي أو حلفائه خلال هذه المدة تزيد من الضرر بنسبة {ADDITIONALDAMAGEPERHIT} إلى حد أقصى يبلغ {MAXDAMAGE} من الضرر."
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","تُلحق جميع هجمات الحلفاء ومهاراتهم الخاصة {DAMAGEMULTIPLIER}% من الضرر بالأهداف ذات الصحة المعززة لمدة {TURNS} من الجولات."
+"specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","يستسلم جميع الأعداء لـ الخوف لمدة {TURNS} من الأدوار."
 "specials.v2.statuseffect.minor.fearstatuseffectskill.single.enemies.on.allyspecial.damage.random.allies","يستسلم الهدف لـالخوف لمدة {TURNS} من الجولات."
+"specials.v2.statuseffect.minor.fearstatuseffectskill.single.enemies.on.allyspecial.damage.random.allies.chain_strike.only_main_target","يستسلم الهدف لـالخوف لمدة {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.fixedattackmodifier.all.allies","يحصل جميع الحلفاء على {ATTACK} من الهجوم طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.fixedattackmodifier.all.enemies","يحصل جميع الأعداء على هجوم {ATTACK} لمدة {TURNS} أدوار."
 "specials.v2.statuseffect.minor.fixedattackmodifier.all.enemies.removeonhealfromspecialreceived","يحصل كل الأعداء على هجوم {ATTACK} حتى يتعافوا عن طريق مهارة خاصة."
@@ -1975,6 +2055,7 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.statuseffect.minor.frost.neartotarget.enemies.absorb_boostedhealth.to.all","يتلقى الهدف والأعداء المجاورون {DAMAGE} من ضرر الصقيع طوال {TURNS} من الجولات. يمتص البطل وجميع حلفائه {ABSORBHEALING}% من ضرر النزيف الملحق باعتباره صحة معززة"
 "specials.v2.statuseffect.minor.frost.neartotarget.enemies.removeonhealfromspecialreceived","يتلقى الهدف والأعداء القريبون {DAMAGEPERTURN} من ضرر الصقيع كل دور حتى يتعافوا عن طريق مهارة خاصة."
 "specials.v2.statuseffect.minor.frost.neartotargetexceptmaintarget.enemies.if_main_target_is.red","إذا كان الهدف من عنصر ناري، يتلقى الأعداء المجاورون {DAMAGE} ضرر الصقيع على مدار {TURNS} من الجولات."
+"specials.v2.statuseffect.minor.frost.sides.enemies","يتلقى الأعداء على أطراف تشكيل العدو {DAMAGE} ضرر صقيع طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.frost.single.enemies","يتلقى الهدف {DAMAGE} ضرر الصقيع على مدار {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.frost.single.enemies.chain_strike","تتلقى جميع الأهداف المصابة {DAMAGE} من ضرر الصقيع طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","يتلقى الهدف {DAMAGE} من ضرر الصقيع طوال {TURNS} من الجولات. ينتشر هذا التأثير ليصل إلى الأعداء القريبين."
@@ -1993,6 +2074,9 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.statuseffect.minor.greendefensemodifier.neartotarget.allies","يحصل البطل والحلفاء المجاورون على {DEFENSE}% دفاع ضد الطبيعة طوال {TURNS} جولات."
 "specials.v2.statuseffect.minor.greendefensemodifier.neartotarget.enemies","يحصل الهدف والأعداء المجاورون على {DEFENSE}% دفاع ضد الطبيعة طوال {TURNS} جولات."
 "specials.v2.statuseffect.minor.greendefensemodifier.single.enemies","يحصل الهدف على {DEFENSE}% من الدفاع ضد الطبيعة طوال {TURNS} جولات."
+"specials.v2.statuseffect.minor.greentrap.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.chain_strike.amplified.against_blue.against_titan.modifies_power","يتأثر الأعداء المصابون بالفخ الشائك.
+ يمنح الفخ الشائك هدفه {DEFENSE}% من الدفاع ضد الطبيعة. ضد عمالقة الثلج، يمنح فخ الأشواك هدفه {AMPLIFIEDDEFENSE}% من الدفاع ضد الطبيعة.
+تنفجر الفخاخ الشائكة في {TURNS} من الجولات ملحقة {DAMAGE} من الضرر بمالكها."
 "specials.v2.statuseffect.minor.healingdebuffimmunity.all.allies.removeresistedeffectsoncreation","جميع الحلفاء محصَّنون ضد أمراض الحالات الجديدة التي تؤثر على الشفاء لمدة {TURNS} من الجولات. يزيل أمراض الحالات التي تؤثر على الشفاء من جميع الحلفاء."
 "specials.v2.statuseffect.minor.healmultiplier.all.allies","يحصل جميع الحلفاء على {HEALING}% إضافية لأي شفاء يحصلون عليه طوال {TURNS} جولات."
 "specials.v2.statuseffect.minor.healmultiplier.all.allies.decrease","يحصل جميع الحلفاء على تخفيض {HEALING}% لأي شفاء يحصلون عليه طوال {TURNS} جولات."
@@ -2039,7 +2123,8 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.statuseffect.minor.increasingpoison.single.enemies","يتلقى الهدف {DAMAGE} من ضرر السم طوال {TURNS} من الجولات، يبدأ خفيفًا ويزداد مع كلّ جولة."
 "specials.v2.statuseffect.minor.increasingproportionalmanarecovery.neartotarget.allies","يتلقى الرامي والحلفاء القريبون قوة في كل جولة طوال {TURNS} من الجولات. تزيد القوة التي يتم تلقيها في كل جولة حتى الجولة الأخيرة، عند تلقي {MAXMANAPERTURN}% من القوة."
 "specials.v2.statuseffect.minor.increasingproportionalmanarecovery.neartotargetexceptcaster.allies","يتلقى الحلفاء القريبون قوة في كل جولة طوال {TURNS} من الجولات تزيد القوة التي يتم تلقيها في كل جولة حتى الجولة الأخيرة، عند تلقي {MAXMANAPERTURN}% من القوة."
-"specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.single.allies.removeonspecialcast","يحصل الرامي على {POWER}% من القوة الإضافية للمهارة الخاصة التالية التي يلقيها. تزيد القوة الإضافية {INCREASEPERTURN}% في كل جولة، حتى تصل إلى الحد الأقصى {MAXPOWERADDITION}% إجمالاً."
+"specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.allexceptcaster.allies.removeonspecialcast","يحصل جميع الحلفاء ما عدا الرامي على {POWER}% من قوة الهجوم الإضافية للمهارة الخاصة التالية التي يلقونها. تزيد قوة الهجوم الإضافية بنسبة {INCREASEPERTURN}% في كل جولة، حتى تصل إلى الحد الأقصى {MAXPOWERADDITION}% إجمالاً."
+"specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.single.allies.removeonspecialcast","يحصل الرامي على {POWER}% من قوة الهجوم الإضافية للمهارة الخاصة التالية التي يلقيها. تزيد قوة الهجوم الإضافية {INCREASEPERTURN}% بنسبة في كل جولة، حتى تصل إلى الحد الأقصى {MAXPOWERADDITION}% إجمالاً."
 "specials.v2.statuseffect.minor.insanityonhit.single.allies","لمدة {TURNS} من الجولات التالية، يُلحق الرامي مقدار {STATUSEFFECT1INSANITYTOADD} من الجنون بجميع الأعداء في كل مرة يصاب فيها. يتم تفعيل التأثير عندما يلحق العدو ضررًا عبر المهارات الخاصة. تقتصر القطع والهجمات العادية على مرة واحدة في كل جولة."
 "specials.v2.statuseffect.minor.invisible.single.allies.all.enemies.expiration.while.caster.allies.hastargetableallies","إن كان للرامي حلفاء قابلون للاستهداف، فيصبح الرامي غير قابل للاستهداف لمدة {TURNS} من الجولات. ويلحق {FIXEDPOWER} من الضرر لكل الأعداء بعد الجولة الأخيرة، أو حين يصبح الرامي آخر شخصية قابلة للاستهداف."
 "specials.v2.statuseffect.minor.lifesteal.all.allies","يشفي جميع الحلفاء {LIFESTEAL}% من الضرر العادي المُلحق عادة طوال {TURNS} من الجولات."
@@ -2051,6 +2136,7 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.statuseffect.minor.lightning.single.enemies","يحصل الهدف على {MINDAMAGEPERTURN}-{MAXDAMAGEPERTURN} من ضرر البرق كل دور لمدة {TURNS} من الأدوار."
 "specials.v2.statuseffect.minor.lightning.single.enemies.onremoval.damage.all.allies.deathbythiseffect","يتلقى الهدف {MINDAMAGEPERTURN}-{MAXDAMAGEPERTURN} من ضرر البرق كل دور لمدة {TURNS} من الأدوار. إن هزم ضرر البرق الهدف، يتلقى كل الأعداء {FIXEDPOWER} من الضرر."
 "specials.v2.statuseffect.minor.manacorruption.all.enemies.single.allies","يتلقى كل الأعداء تلف القوة لمدة {TURNS} من الجولات. يتلقى العدو المصاب {DAMAGE} من الضرر كل مرة يحصل فيها على القوة من مصدر إضافي."
+"specials.v2.statuseffect.minor.manacorruption.neartotarget.enemies.single.allies","يتلقى الهدف والأعداء المجاورون تلف القوة لمدة {TURNS} من الجولات. يتلقى العدو المصاب {DAMAGE} من الضرر كل مرة يحصل فيها على القوة من مصدر إضافي."
 "specials.v2.statuseffect.minor.manafreeze.all.enemies","لا يمكن لأي من الأعداء كسب القوة طوال {TURNS} جولات."
 "specials.v2.statuseffect.minor.manafreeze.neartotarget.enemies","لا يمكن للهدف والأعداء المجاورين أن يربحوا أي قوة طوال {TURNS} جولات."
 "specials.v2.statuseffect.minor.manafreeze.single.allies","لا يمكن للبطل أن يحصل على القوة طوال {TURNS} جولات."
@@ -2116,13 +2202,24 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.yellow","يحصل الرامي على حماية ظهور القمر التي تقلل من الضرر الناتج عن المهارات الخاصة بما يصل إلى -{MAX} كحد أقصى لمدة {TURNS} من الجولات. تقليل الضرر يتغير بناءً على قوة دفاع المُدافع وهجوم المُهاجم. تقلل الضرر بنسبة إضافية {ADDITIONALDAMAGEMODIFIER}% عندما يكون المهاجم من العنصرمقدس."
 "specials.v2.statuseffect.minor.mysterypotion.all.enemies.onremoval.damage.single.allies.expiration.mana_freeze","يتلقى جميع الأعداء جرعة غامضة. بعد {TURNS} من الجولات، تنفجر الجرعة الغامضة وتلحق {DAMAGE} من الضرر للهدف. بعد الانفجار، لا يمكن للهدف اكتساب قوة لمدة {STATUSEFFECT1TURNS} من الجولات."
 "specials.v2.statuseffect.minor.normalattackmodifier.all.allies","يحصل كل الحلفاء على {ATTACK}% من الهجوم العادي لمدة {TURNS} من الجولات. يمكن أن يكون هذا التأثير فعالًا بالإضافة إلى التأثيرات التي تغير الهجوم في العموم. قد تسبب الهجمات العادية إجمالي {MAXATTACK}% بحد أقصى من القوة المتزايدة أثناء تفعيل هذا التأثير."
+"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","يحصل كل حلفاء الثلج على {ATTACK}% من الهجوم العادي لمدة {TURNS} من الجولات. يمكن أن يكون هذا التأثير فعالًا بالإضافة إلى التأثيرات التي تغير الهجوم في العموم. قد تسبب الهجمات العادية إجمالي {MAXATTACK}% بحد أقصى من القوة المتزايدة أثناء تفعيل هذا التأثير."
+"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","يحصل كل حلفاء الطبيعة على {ATTACK}% من الهجوم العادي لمدة {TURNS} من الجولات. يمكن أن يكون هذا التأثير فعالًا، بالإضافة إلى التأثيرات التي تغير الهجوم في العموم. قد تسبب الهجمات العادية إجمالي {MAXATTACK}% بحد أقصى من القوة المتزايدة أثناء تفعيل هذا التأثير."
 "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","يحصل الرامي والحلفاء المجاورون على {ATTACK}% من الهجوم العادي لمدة {TURNS} من الجولات. يمكن أن يكون هذا التأثير فعالًا بالإضافة إلى التأثيرات التي تغيِّر الهجوم في العموم. قد تسبب الهجمات العادية إجمالي {MAXATTACK}% بحد أقصى من القوة المتزايدة خلال تفعيل هذا التأثير."
+"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","يحصل كل حلفاء الظلام على {ATTACK}% من الهجوم العادي لمدة {TURNS} من الجولات. يمكن أن يكون هذا التأثير فعالًا، بالإضافة إلى التأثيرات التي تغير الهجوم في العموم. قد تسبب الهجمات العادية إجمالي {MAXATTACK}% بحد أقصى من القوة المتزايدة أثناء تفعيل هذا التأثير."
+"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","يحصل كل حلفاء النار على {ATTACK}% من الهجوم العادي لمدة {TURNS} من الجولات. يمكن أن يكون هذا التأثير فعالًا، بالإضافة إلى التأثيرات التي تغير الهجوم في العموم. قد تسبب الهجمات العادية إجمالي {MAXATTACK}% بحد أقصى من القوة المتزايدة أثناء تفعيل هذا التأثير."
 "specials.v2.statuseffect.minor.normalattackmodifier.single.allies","يحصل البطل على {ATTACK}% هجوم عادي طوال {TURNS} جولات."
+"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","يحصل كل الحلفاء المقدسين على {ATTACK}% من الهجوم العادي لمدة {TURNS} من الجولات. يمكن أن يكون هذا التأثير فعالًا، بالإضافة إلى التأثيرات التي تغير الهجوم في العموم. قد تسبب الهجمات العادية إجمالي {MAXATTACK}% بحد أقصى من القوة المتزايدة أثناء تفعيل هذا التأثير."
+"specials.v2.statuseffect.minor.normalattacknullifier.all.enemies","لا يساهم جميع الأعداء في ضرر القوات طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.normalattacknullifier.neartotarget.enemies","لا يساهم الهدف والأعداء القريبون في ضرر القوات لمدة {TURNS} من الجولات."
+"specials.v2.statuseffect.minor.normalattacknullifier.sides.enemies","لا يساهم الأعداء على أطراف تشكيل العدو في ضرر القوات طوال {TURNS} من الجولات."
+"specials.v2.statuseffect.minor.normalattacknullifier.single.enemies","لا يساهم الهدف في ضرر القوات طوال {TURNS} من الجولات."
+"specials.v2.statuseffect.minor.normalattacknullifier.single.enemies.chain_strike","لا تساهم الأهداف المصابة في ضرر القوات طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.normalattackreceiveddamagemodifier.neartotargetminor.enemies","يتلقى الهدف {DAMAGEMODIFIER}% من الضرر المتزايد من الهجمات العادية، ويتلقى الأعداء القريبون {MINORDAMAGEMODIFIER}% من الضرر من الهجمات العادية لمدة 3 أدوار."
 "specials.v2.statuseffect.minor.painempathy.sides.enemies","لمدة {TURNS} من الجولات، يتلقى الأعداء الموجودون على حافة تشكيل العدو {DAMAGEMULTIPLIER}% من كل الضرر الذي يتلقاه حلفاؤهم."
 "specials.v2.statuseffect.minor.painempathy.single.enemies","لمدة {TURNS} من الجولات، يتلقى الهدف {DAMAGEMULTIPLIER}% من كل الضرر الذي يتلقاه حلفاؤهم."
 "specials.v2.statuseffect.minor.poison.all.enemies","يحصل جميع الأعداء على {DAMAGE} ضرر السم طوال {TURNS} جولات."
+"specials.v2.statuseffect.minor.poison.all.enemies.absorb_boostedhealth.to.all","يتلقى كل الأعداء {DAMAGE} من ضرر السم على مدار {TURNS} من الجولات. يمتص الرامي وجميع حلفائه نسبة {ABSORBHEALING}% من أضرار السم الملحقة كصحة معززة."
+"specials.v2.statuseffect.minor.poison.all.enemies.absorb_boostedhealth.to.single","يتلقى كل الأعداء {DAMAGE} من ضرر السم على مدار {TURNS} من الجولات. يمتص الرامي {ABSORBHEALING}% من أضرار السم الملحقة كصحة معززة."
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_healing.to.all","يتلقى كل الأعداء {DAMAGE} من ضرر السم على مدار {TURNS} من الجولات. يمتص الرامي وجميع حلفائه نسبة {ABSORBHEALING}% من أضرار السم الملحقة كصحة."
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_healing.to.single","يتلقى كل الأعداء {DAMAGE} ضرر السم على مدار عدد {TURNS} من الجولات. يمتص الرامي نسبة {ABSORBHEALING}% من أضرار السم الملحقة كصحة."
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_mana.to.single","يتلقى جميع الأعداء {DAMAGE} من ضرر السم طوال {TURNS} من الجولات. يتلقى الملقي مقدارًا صغيرًا من القوة في كل مرة يُطبَّق فيها ضرر السم."
@@ -2134,6 +2231,7 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.statuseffect.minor.poison.neartotarget.enemies.noturns","يتلقى الهدف والأعداء القريبون {DAMAGE} من ضرر السم طويل الأمد كل جولة."
 "specials.v2.statuseffect.minor.poison.sides.enemies","يتلقى الأعداء على أطراف تكتل العدو {DAMAGE} ضرر سم طوال {TURNS} جولات."
 "specials.v2.statuseffect.minor.poison.single.enemies","يحصل الهدف على {DAMAGE} ضرر سم طوال {TURNS} جولات."
+"specials.v2.statuseffect.minor.poison.single.enemies.absorb_boostedhealth.to.single","يتلقى الهدف {DAMAGE} من ضرر السم على مدار {TURNS} من الجولات. يمتص الملقي نسبة {ABSORBHEALING}% من ضرر السم الملحقة كصحة معززة."
 "specials.v2.statuseffect.minor.poison.single.enemies.absorb_healing.to.single","يتلقى الهدف {DAMAGE} من ضرر السم على مدار {TURNS} من الجولات. يمتص الملقي نسبة {ABSORBHEALING}% من ضرر السم الملحقة كصحة."
 "specials.v2.statuseffect.minor.poison.single.enemies.absorb_mana.to.single","يتلقى الهدف {DAMAGE} من ضرر السم طوال {TURNS} من الجولات. يحصل الملقي على مقدار صغير من القوة في كل مرة يُطبَّق فيها ضرر السم."
 "specials.v2.statuseffect.minor.poison.single.enemies.contagious","يتلقى الهدف {DAMAGE} من ضرر السم لمدة {TURNS} من الجولات. ينتشر هذا التأثير على الأعداء القريبين."
@@ -2201,6 +2299,9 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.statuseffect.minor.reddefensemodifier.neartotarget.enemies","يحصل الهدف والأعداء المجاورون على {DEFENSE}% دفاع ضد النار طوال {TURNS} جولات."
 "specials.v2.statuseffect.minor.reddefensemodifier.single.allies","يحصل البطل على {DEFENSE}% دفاع ضد النار طوال {TURNS} جولات."
 "specials.v2.statuseffect.minor.reddefensemodifier.single.enemies","يحصل الهدف على نسبة {DEFENSE}% من الدفاع ضد النار طوال {TURNS} من الجولات."
+"specials.v2.statuseffect.minor.redtrap.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.chain_strike.amplified.against_green.against_titan.modifies_power","يتأثر الأعداء المصابون بالفخ الشائك.
+ يمنح الفخ الشائك هدفه {DEFENSE}% من الدفاع ضد النار. ضد عمالقة الطبيعة، يمنح فخ الأشواك هدفه {AMPLIFIEDDEFENSE}% من الدفاع ضد النار.
+تنفجر الفخاخ الشائكة في {TURNS} من الجولات ملحقة {DAMAGE} من الضرر بمالكها."
 "specials.v2.statuseffect.minor.reducefamiliarhealth.all.enemies.minion.bigminion","يتلقى جميع الأعداء جرح التابع لمدة {TURNS} من الأدوار.
 جرح التابع: تنخفض صحة أتباع الهدف بنسبة {HEALTHREDUCTION}%، ويتم تقليل صحة الأتباع الضخام بنسبة {BIGMINIONHEALTHREDUCTION}% في كل دور."
 "specials.v2.statuseffect.minor.reducefamiliarhealth.neartotarget.enemies.minion.bigminion","يتلقى الهدف وجميع الأعداء المجاورين جرح التابع لمدة {TURNS} من الأدوار.
@@ -2226,6 +2327,10 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.statuseffect.minor.reflectminorbuffs.neartotarget.enemies.randomenemy","يعكس الهدف والأعداء القريبون علاوات تأثير الحالة على شخصية عشوائية في الفريق الآخر طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.reflectminordebuffs.all.allies.randomenemy","جميع الحلفاء يعكسون أمراض الحالة القابلة للإنهاء التي يتلقونها عل شخصية عشوائية في الفريق الآخر لمدة {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.reflectminordebuffs.neartotarget.allies.randomenemy","الرامي والحلفاء المجاورون يعكسون أمراض الحالة على شخصية عشوائية في الفريق الآخر لمدة {TURNS} من الجولات."
+"specials.v2.statuseffect.minor.resilientrot.single.allies.resilient_rot","يحصل الرامي على عفن ثابت لمدة {TURNS} من الجولات.
+
+عفن ثابت
+{STATUSEFFECTS}"
 "specials.v2.statuseffect.minor.resistcleansefromspecial.all.enemies","لا يستطيع جميع الأعداء تطهير الأمراض لديهم أو نقلها إلى شخصية أخرى بواسطة المهارات الخاصة لمدة {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.resistcleansefromspecial.all.enemies.while.single.allies.familiaralive.bone_trap_parasite_amund.bone_trap_parasite","لا يستطيع جميع الأعداء تطهير الأمراض لديهم أو نقلها إلى شخصية أخرى بواسطة المهارات الخاصة طالما لديهم أشرار فخ العظام."
 "specials.v2.statuseffect.minor.resistcleansefromspecial.neartotarget.enemies","لا يستطيع الهدف والأعداء القريبون تطهير حالات الأمراض لديهم أو نقلها إلى شخصية أخرى بواسطة المهارات الخاصة لمدة {TURNS} من الأدوار."
@@ -2237,6 +2342,7 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage","يقاوم الهدف التعافي، ويتلقى  {FIXEDPOWER} من الضرر لكل تعافٍ مقاوم لمدة {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.chain_strike","يقاوم الهدف التعافي، ويتلقى  {FIXEDPOWER} من الضرر لكل تعافٍ مقاوم لمدة {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.chain_strike.chain_strike_turundh.on_additional_hit","يقاوم هدف الضربة الثانية التعافي، ويتلقى {FIXEDPOWER} من الضرر لكل تعافٍ مقاوَم لمدة {TURNS} من الجولات."
+"specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.noturns.chain_strike","يقاوم جميع الأعداء الشفاء، ويتلقون ضرر {FIXEDPOWER} لكل شفاء مقاوم طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.resistmanaeffects.all.allies","كل الحلفاء محصنون ضد تأثيرات القوة السلبية الجديدة لمدة {TURNS} من الأدوار."
 "specials.v2.statuseffect.minor.resistmanaeffects.all.allies.onresist.addmana.single.allies","كل الحلفاء محصنون ضد تأثيرات القوة السلبية الجديدة لمدة {TURNS} من الأدوار، وتزداد كل قواهم بنسبة {POWER}% لكل تأثير تمت مقاومته."
 "specials.v2.statuseffect.minor.resistmanaeffects.neartotarget.allies.onresist.addmana.single.allies","الملقي والحلفاء القريبون محصنون ضد تأثيرات القوة السلبية الجديدة لمدة {TURNS} من الأدوار، وتزداد قوتهم بنسبة {POWER}% لكل تأثير تمت مقاومته."
@@ -2254,6 +2360,10 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.statuseffect.minor.resistresurrecteffects.neartotarget.enemies","لا يستطيع الهدف والأعداء القريبون تلقي تأثيرات الحالة الجديدة التي تُعيد إحياءهم لمدة {TURNS} من الأدوار."
 "specials.v2.statuseffect.minor.resistspecialblocking.all.allies","كل الحلفاء محصنون ضد التأثيرات الجديدة التي تمنع استخدام المهارات الخاصة لمدة {TURNS} من الأدوار."
 "specials.v2.statuseffect.minor.resistspecialblocking.neartotarget.allies","كل الحلفاء محصنون ضد التأثيرات الجديدة التي تمنع استخدام المهارات الخاصة لمدة {TURNS} من الأدوار."
+"specials.v2.statuseffect.minor.resonancedamageovertime.neartotarget.enemies.neartotargetexceptmaintarget","يحصل الهدف والأعداء القريبون على صدى لمدة {TURNS} من الجولات. في كل جولة، يلحق الصدى ضررًا بنسبة {DAMAGEPERTURN} بالأعداء المصابين، وضرر {RESONANCEDAMAGE} بالأعداء القريبين."
+"specials.v2.statuseffect.minor.resonancedamageovertime.sides.enemies.neartotargetexceptmaintarget","يتلقى الأعداء على حافة التشكيل صدى لمدة {TURNS} من الجولات. في كل جولة، يلحق الصدى ضررًا بنسبة {DAMAGEPERTURN} بالأعداء المصابين، وضرر {RESONANCEDAMAGE} بالأعداء القريبين."
+"specials.v2.statuseffect.minor.resonancedamageovertime.single.enemies.neartotargetexceptmaintarget","يتلقى الهدف صدى لمدة {TURNS} من الجولات. في كل جولة، يلحق الصدى ضررًا بنسبة {DAMAGEPERTURN} بالعدو المصاب، وضرر {RESONANCEDAMAGE} بالأعداء القريبين."
+"specials.v2.statuseffect.minor.resonancedamageovertime.single.enemies.neartotargetexceptmaintarget.chain_strike","يتلقى الأعداء المصابون صدى لمدة {TURNS} من الجولات. في كل جولة، يلحق الصدى ضررًا بنسبة {DAMAGEPERTURN} بالأعداء المصابين، وضرر {RESONANCEDAMAGE} بالأعداء القريبين."
 "specials.v2.statuseffect.minor.revive.draugrblessing.all.allies","يتلقى كل الحلفاء بركة دروغر. إذا مات البطل المبارك في الجولات الـ {TURNS} التالية، يعاد إحياؤه على شكل دروغرمع:
 
 {INHERITEDHEALTH}% صحة موروثة.
@@ -2325,6 +2435,7 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.statuseffect.minor.specialdamagepowermodifier.neartotarget.allies","تتسبب المهارات الخاصة للرامي والحلفاء القريبين في {POWER}% من الضرر الإضافي طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.specialrevengestatuseffectskill.neartotarget.allies.on.enemyspecialhit.damage.single.enemies","في كل مرة يتلقى الرامي والحلفاء القريبون الضرر من مهارة خاصة لأحد الأعداء، يلحقون {FIXEDPOWER} من الضرر بالمهاجم، لمدة {TURNS} من الجولات المقبلة."
 "specials.v2.statuseffect.minor.specialrevengestatuseffectskill.single.allies.on.enemyspecial.damage.all.enemies","خلال {TURNS} من الجولات التالية، تُلحق هذه الشخصية {POWER1}% من الضرر لكل الأعداء بعد أن يلقي أي عدو بمهارته الخاصة."
+"specials.v2.statuseffect.minor.specialrevengestatuseffectskill.single.allies.on.enemyspecial.damage.random.enemies","خلال {TURNS} من الجولات التالية، تُلحق هذه الشخصية {POWER1}% من الضرر لعدو عشوائي بعد أن يلقي أي عدو بمهارته الخاصة."
 "specials.v2.statuseffect.minor.specialrevengestatuseffectskill.single.allies.on.enemyspecial.damage.single.enemies.with_chance","خلال {TURNS} من الجولات التالية، توجد فرصة {CHANCE}% لهذه الشخصية أن تلحق {POWER1}% من الضرر لعدو عشوائي بعد أن يلقي أي عدو بمهارته الخاصة."
 "specials.v2.statuseffect.minor.specialrevengestatuseffectskill.single.allies.on.enemyspecial.heal.all.allies","لمدة {TURNS} من الأدوار التالية، تستعيد هذه الشخصية {FIXEDPOWER} من الصحة لكل الحلفاء بعد أن يلقي أي عدو مهارته الخاصة."
 "specials.v2.statuseffect.minor.specialrevengestatuseffectskill.single.allies.on.enemyspecialhit.damage.all.enemies","في كل مرة يتلقى الرامي الضرر من مهارة خاصة لأحد الأعداء، يلحق {FIXEDPOWER} من الضرر بكل الأعداء، لمدة {TURNS} من الجولات المقبلة."
@@ -2420,6 +2531,7 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.druid_thorn_empowered","يحصل جميع الحلفاء على فرصة بنسبة {DODGE}% لتفادي المهارات الخاصة طوال {TURNS}  من الجولات. يستدعي كل تفادٍ تابع ثورن معزز."
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.sakura_fox","يحصل جميع الحلفاء على فرصة بنسبة {DODGE}% لتفادي المهارات الخاصة طوال {TURNS} جولات. يستدعي كل تفادٍ تابع ثعلب ساكورا."
 "specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_red_titan","يحصل جميع الحلفاء على {ATTACK}% من الهجوم لمدة {TURNS} من الجولات. وفي مواجهة عمالقة النار، يحصل جميع الحلفاء على {ATTACKAGAINSTVALIDTARGET}% من الهجوم."
+"specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_yellow_titan","يحصل جميع الحلفاء على {ATTACK}% من الهجوم لمدة {TURNS} من الجولات. وفي مواجهة العمالقة المقدسين، يحصل جميع الحلفاء على {ATTACKAGAINSTVALIDTARGET}% من الهجوم."
 "specials.v2.statuseffect.minor.taunt.single.allies","يحصل الرامي على استهزاء يمنع الأعداء من استخدام المهارات الخاصة على حلفاء الرامي طوال {TURNS} جولات."
 "specials.v2.statuseffect.minor.toxin.all.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","يتلقى كل الأعداء القريبين {DAMAGE} من ضرر السم لمدة {TURNS} من الجولات. يزداد الضرر ضد الأهداف المعززة بالصحة، أو الأتباع، أو تابع ضخم."
 "specials.v2.statuseffect.minor.toxin.neartotarget.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","يتلقى الهدف والأعداء القريبون {DAMAGE} من ضرر السم لمدة {TURNS} من الجولات. يزداد الضرر ضد الأهداف المعززة بالصحة، أو الأتباع، أو تابع ضخم."
@@ -2464,6 +2576,7 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.statuseffect.permanent.insanity.single.allies","يلحق {INSANITYTOADD} من الجنون بالبطل."
 "specials.v2.statuseffect.permanent.insanity.single.enemies","يلحق {INSANITYTOADD} من الجنون بالهدف."
 "specials.v2.statuseffect.permanent.insanity.single.enemies.chain_strike","تتلقى جميع الأهداف المصابة {INSANITYTOADD} من الجنون في كل مرة تتم إصابتهم فيها."
+"specials.v2.statuseffect.permanent.insanity.single.enemies.chain_strike.chain_strike_cassilda.on_additional_hit","تتلقى جميع الأهداف المصابة {INSANITYTOADD} من الجنون في كل مرة تتم إصابتهم فيها."
 "specials.v2.statuseffect.permanent.managenerationmodifier.red.allies","يحصل جميع أبطال النار على {MANAREGEN}% من توليد القوة."
 "specials.v2.statuseffect.permanent.specialdamagepowermodifier.green.allies","سيحصل جميع أبطال الطبيعة على {POWER}% من القوة الإضافية لهجوم المهارة الخاصة."
 "specials.v2.statuseffect.permanent.warattackmodifier.all.enemies","يحصل جميع الأبطال المدافعين على {ATTACK}% من الهجوم. يزداد هذا التأثير قوة في كل مرة يتم تفعيله فيها."

@@ -18,20 +18,21 @@
 "herocard.passive_skill.description.conditionaleffectovertime.revival.all.allies.while.single.allies.hasdeadallies","في كل {TURNS} من الجولات، يُعيد إحياء جميع الحلفاء المهزومين بنسبة {POWER}% من نقاط الصحة."
 "herocard.passive_skill.description.conditionaleffectovertime.revival.neartotargetexceptcaster.allies.while.single.allies.hasdeadallies","في كل {TURNS} من الجولات، يُعيد إحياء الحلفاء المهزومين القريبين بنسبة {POWER}% من نقاط الصحة."
 "herocard.passive_skill.description.conditionaleffectovertime.usable_once.heal.addmana.everyturn.while.single.allies.lowhealth","عندما تبدأ هذه الشخصية جولة بصحة منخفضة لأول مرة أثناء المعركة، فإنها تستعيد {HEALTH}% من الصحة، وتحصل على {MANA}% من القوة."
-"herocard.passive_skill.description.convertincomingdamagetoheal.all.statuseffect","كلما تتلقّى هذه الشخصية ضررًا من حالة مرضية، تستعيد مقدارًا مساويًا من نقاط الصحة بدلًا من ذلك."
-"herocard.passive_skill.description.convertincomingdamagetoheal.statuseffect","كلما تتلقّى هذه الشخصية ضررًا من حالة مرضية، تستعيد مقدارًا مساويًا من نقاط الصحة بدلًا من ذلك. يبلغ مقدار العلاج {MULTIPLIER}% من الضرر."
+"herocard.passive_skill.description.convertincomingdamagetoheal.all.statuseffect","كلما تتلقّى هذه الشخصية ضررًا من مرض حالة أو من تراكم سلبي، تستعيد مقدارًا مساويًا من نقاط الصحة بدلًا من ذلك."
+"herocard.passive_skill.description.convertincomingdamagetoheal.statuseffect","كلما تتلقّى هذه الشخصية ضررًا من مرض حالة أو من تراكم سلبي، تستعيد مقدارًا مساويًا من نقاط الصحة بدلًا من ذلك. يبلغ مقدار العلاج {MULTIPLIER}% من الضرر"
 "herocard.passive_skill.description.criticalmodifiersupportcharacter.troop","{CRITICALMODIFIER}% فرصة حاسمة."
 "herocard.passive_skill.description.damage.all.enemies","لإلحاق {DAMAGE}% من الضرر بجميع الأعداء."
 "herocard.passive_skill.description.damagefamiliarsovertime.all.enemies.minion.bigminion","يتم إلحاق {DAMAGEPERTURN} من الضرر بجميع أتباع الأعداء وأتباعهم الضخام كل {TURNS} من الجولات."
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.bigminion.minion","يتم إلحاق {DAMAGEPERTURN} من الضرر بجميع أتباع الأعداء، وأتباعهم الضخام في بداية كل جولة."
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion","يتم إلحاق {DAMAGEPERTURN} من الضرر بجميع أتباع الأعداء، وأتباعهم الضخام في بداية كل جولة."
 "herocard.passive_skill.description.damageincreasebyinsanity.troop.specialskill.npcnormalattack","يزداد كل الضرر من الهجمات العادية والمهارات الخاصة الملحقة لهذه الشخصية بنسبة {DAMAGEINCREASEPERSTEP}% لكل {INSANITYPERSTEP} من الجنون على هذه الشخصية بما يصل إلى {MAXDAMAGEINCREASE}%."
-"herocard.passive_skill.description.dealtdamagemodifieragainststatuseffect.bloodlily.stacks.troop.specialskill.npcnormalattack.add_modifier_per_stack","يزيد كل الضرر الناتج عن الهجمات العادية والمهارات الخاصة التي تلحقها هذه الشخصية بنسبة {MODIFIER}% لكل تراكم زنبق دموي على الهدف."
-"herocard.passive_skill.description.dealtstrongelementsupportcharacterdamage.increase","تلحق قوات هذا البطل ضرر عناصر إضافي ضد العنصر الأضعف.
+"herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single.troop.specialskill.npcnormalattack.add_modifier_per_stack","يزيد كل الضرر الناتج عن الهجمات العادية والمهارات الخاصة التي تلحقها هذه الشخصية بنسبة {MODIFIER}% لكل تراكم زنبق دموي على الهدف."
+"herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all.specialskill.any","إذا كان هناك أي حلفاء راقصين، فإن المهارة الخاصة لهذه الشخصية تسبب ضررًا أكبر بنسبة {MODIFIERCHANGE}%."
+"herocard.passive_skill.description.dealtstrongelementsupportcharacterdamage.increase","تلحق قوات الشخصية هذه ضررًا إضافيًا ضد العنصر الأضعف.
 
-ضرر العناصر الإضافي المُلحَق: +{MODIFIER}%"
-"herocard.passive_skill.description.debuffdamagereduction","تم تقليل الضرر الناجم عن حالات الأمراض بنسبة {DAMAGEREDUCTION}%"
-"herocard.passive_skill.description.debuffdamagereductionsupportcharacter.troop","تم تقليل الضرر الناجم عن أمراض الحالات بنسبة {DAMAGEREDUCTION}% لهذه الشخصية"
+ضرر إضافي ملحق: +{MODIFIER}%"
+"herocard.passive_skill.description.debuffdamagereduction","تم تقليل الضرر الناجم عن أمراض الحالات والتراكمات السلبية بنسبة {DAMAGEREDUCTION}%"
+"herocard.passive_skill.description.debuffdamagereductionsupportcharacter.troop","تم تقليل الضرر الناجم عن أمراض الحالات والتراكمات السلبية بنسبة {DAMAGEREDUCTION}% لهذه الشخصية."
 "herocard.passive_skill.description.destructivecoreintrinsicchargeeffectonspecial.damage.all.enemies.always","مركز بناء هذه الشخصية هو مركز مدمر.
 
 يُفعل المركز المدمر في كل مرة تلقى المهارة الخاصة لهذه الشخصية:
@@ -155,282 +156,7 @@
 "herocard.passive_skill.description.memorizestatuseffects","تتمتع هذه الشخصية بقدرة غريزية على تذكر حالات الأمراض. ستظل آخر حالات الأمراض التي تلقى على هذه الشخصية محفوظة حتى إلقاء المهارة الخاصة. لا يمكن تذكر سوى حالات الأمراض التي لها مدة."
 "herocard.passive_skill.description.memorizestatuseffects#2","تتمتع هذه الشخصية بقدرة غريزية على تذكر حالات الأمراض. سيظل آخر مرضين من أمراض الحالات التي يتم إلقاؤها على هذه الشخصية محفوظة حتى إلقاء المهارة الخاصة. لا يمكن تذكر سوى حالات الأمراض التي لها مدة."
 "herocard.passive_skill.description.memorizestatuseffects#3","تتمتع هذه الشخصية بقدرة غريزية على تذكر حالات الأمراض. ستظل آخر {0} أمراض حالات يتم إلقاؤها على هذه الشخصية محفوظة حتى إلقاء المهارة الخاصة. لا يمكن تذكر سوى حالات الأمراض التي لها مدة."
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_blue","تمنح هذه المحاكاة فرصة للحصول على غنيمة إضافية عند إكمال المراحل:
-
-*****
- أثير ألفا 
- أثير الثلج 3
-
-****
- أثير الثلج 2
-
-***
- أثير الثلج 1"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_green","تمنح هذه المحاكاة فرصة للحصول على غنيمة إضافية عند إكمال المراحل:
-
-*****
- أثير ألفا
- أثير الطبيعة 3
-
-****
- أثير الطبيعة 2
-
-***
- أثير الطبيعة 1"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_purple","تمنح هذه المحاكاة فرصة للحصول على غنيمة إضافية عند إكمال المراحل:
-
-*****
- أثير ألفا
- أثير الظلام 3
-
-****
- أثير الظلام 2
-
-***
- أثير الظلام 1"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_red","تمنح هذه المحاكاة فرصة للحصول على غنيمة إضافية عند إكمال المراحل:
-
-*****
- أثير ألفا
- أثير النار 3
-
-****
- أثير النار 2
-
-***
- أثير النار 1"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_yellow","تمنح هذه المحاكاة فرصة للحصول على غنيمة إضافية عند إكمال المراحل:
-
-*****
- أثير ألفا
- الأثير المقدس 3
-
-****
- الأثير المقدس 2
-
-***
- الأثير المقدس 1"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_blue","يمنحك هذا المحاكي فرصة للحصول على غنيمة إضافية عند إكمال المراحل:
-
-****
- نصلًا دمشقيًّا
- كتاب الإستراتيجيات
- تلسكوب بعيد النظر
-
-***
- قفازًا جيدًا
- بوصلة
- عباءة دافئة
- دليل المعركة
- حذاءً طويلًا
- قميصًا من الزرد
-
-**
- حبلًا قويًّا"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_epic_yellow","يمنح هذا المحاكي فرصة للحصول على غنيمة إضافية عند إكمال المراحل:
-
-***
- نصالًا خفية
- مدار السحر
-  درعًا متينًا
- أداة الفخاخ
- عباءة دافئة
- دليل المعركة 
- قميصًا من الزرد
- غمدًا
- حذاءً طويلًا
-
-**
- مخطوطات غامضة
- خنجر
- درعًا من الجلد
- حجر الشحذ
- حبلًا قويًّا
- واقيًا خشبيًّا
-
-*
- عدّة المغامر
- سيف تدريب
- ثياب رثة"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_green","يمنحك المحاكي فرصة للحصول على غنيمة إضافية عند إكمال المراحل:
-
-****
- نصلًا دمشقيًّا
- كتاب الإستراتيجيات
- منشطًا غامضًا
-
-***
- قفازًا جيدًا
- بوصلة
- درعًا متينًا
- حذاءً طويلًا
- غمدًا
-
-**
- حبلًا قويًّا
- خنجر"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_purple","يمنحك المحاكي فرصة للحصول على غنيمة إضافية عند إكمال المراحل:
-
-****
- نصلًا دمشقيًّا
- كتاب الإستراتيجيات
- سترة ملكية
-
-***
- قفازًا جيدًا
- بوصلة
- أدوات الفخاخ
- حذاءً طويلًا
- غمدًا
-
-**
- حبلًا قويًّا
- خنجر"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_red","يمنحك المحاكي فرصة للحصول على غنيمة إضافية عند إكمال المراحل:
-
-****
- نصلًا دمشقيًّا
- كتاب الإستراتيجيات
- خواتم غامضة
-
-***
- قفازًا جيدًا
- بوصلة
- نصلًا مخفيًّا
- قميص زرد
- حذاءً طويلًا
-
-**
- مخطوطة غامضة"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_yellow","يمنحك المحاكي فرصة للحصول على غنيمة إضافية عند إكمال المراحل:
-
-****
- نصلًا دمشقيًّا
- كتاب الإستراتيجيات
- أسهمًا سامة
-
-***
- قفازًا جيدًا
- بوصلة
- مدار السحر
- قميص زرد
- حذاءً طويلًا
-
-**
- مخطوطة غامضة"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_blue","يمنح هذا المحاكي فرصة للحصول على غنائم إضافية عند إكمال المراحل:
-
-*****
- رموز المشعوذ الرئيسية
- رموز الساحر الرئيسية
-
-****
- رموز المشعوذ
- رموز الساحر"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_green","يمنح هذا المحاكي فرصة للحصول على غنائم إضافية عند إكمال المراحل:
-
-*****
- رموز بالادن الرئيسية
- رموز الكاهن الرئيسية
-
-****
- رموز بالادين
- رموز الكاهن"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_purple","يمنح هذا المحاكي فرصة للحصول على غنائم إضافية عند إكمال المراحل:
-
-*****
- رموز المحتال الرئيسية
- رموز الحارس الجوال الرئيسية
-
-****
- رموز المحتال
- رموز الحارس الجوال"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_red","يمنح هذا المحاكي فرصة للحصول على غنائم إضافية عند إكمال المراحل:
-
-*****
- رموز المقاتل الرئيسية
- رموز البربري الرئيسية
-
-****
- رموز المقاتل
- رموز البربري"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_yellow","يمنح هذا المحاكي فرصة للحصول على غنائم إضافية عند إكمال المراحل:
-
-*****
- الرموز الإكليركية الرئيسية
- رموز الراهب الرئيسية
-
-****
- الرموز الإكليركية
- رموز الراهب"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_experience_rare_red","يمنح هذا المحاكي فرصة للحصول على غنيمة إضافية عند إكمال المراحل:
-
-**
-أبطال النار والطبيعة والصقيع والظلام والمقدسين غير العاديين
-
-*
-أبطال المدرب الرئيسي العادي
-أبطال النار والطبيعة والصقيع والظلام والمقدسين العاديين"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_blue","يمنح هذا المُحاكي فرصة للحصول على غنائم إضافية عند إكمال المراحل:
-
-***
-أبطال مدرب الثلج النادرين
-
-**
-أبطال مدرب الثلج غير العاديين
-أبطال الثلج غير العاديين
-
-*
-أبطال مدرب الثلج العاديين
-أبطال الثلج العاديين"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_green","يمنح هذا المحاكي فرصة للحصول على غنائم إضافية عند إكمال المراحل:
-
-***
-أبطال مدرب الطبيعة النادرين
-
-**
-أبطال مدرب الطبيعة غير العاديين
-أبطال الطبيعة غير العاديين
- 
-*
-أبطال مدرب الطبيعة العاديين
-أبطال الطبيعة العاديين"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_purple","يمنح هذا المحاكي فرصة للحصول على غنائم إضافية عند إكمال المراحل:
-
-***
-أبطال مدرب الظلام النادرين
-
-**
-أبطال مدرب الظلام غير العاديين
-أبطال الظلام غير العاديين
- 
-*
-أبطال الظلام العاديين
-أبطال مدرب  الظلام العاديين"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_red","يمنح هذا المحاكي فرصة للحصول على غنائم إضافية عند إكمال المراحل:
-
-***
-أبطال مدرب النار النادرين
-
-**
-أبطال مدرب النار غير العاديين
-أبطال النار غير العاديين
-
-*
-أبطال مدرب النار العاديين
-أبطال النار العاديين"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_yellow","يمنح هذا المحاكي فرصة للحصول على غنائم إضافية عند إكمال المراحل:
-
-***
-أبطال المدرب المقدس النادرين
-
-**
-أبطال المدرب المقدس غير العاديين
-الأبطال المقدسون غير العاديين
-
-*
-أبطال المدرب المقدس العاديين
-الأبطال المقدسون العاديون"
+"herocard.passive_skill.description.mimiclootonlevelcompleted","يمكن لكل محاكاة فريدة في فريقك منحك غنائم إضافية عند إكمال المراحل. يمنح هذا المُحاكي فرصة للحصول على الغنائم الإضافية التالية:"
 "herocard.passive_skill.description.nevermissspecial","لا تفوت المهارة الخاصة لهذه الشخصية أهدافها أبدًا."
 "herocard.passive_skill.description.ransack","في بداية كل دور، تؤدي هذه الشخصية نهب عدو عشوائي:
 
@@ -446,10 +172,10 @@
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","عندما تُلقي هذه الشخصية مهارتها الخاصة، فإن لها فرصة {CHANCE}% لسرقة العلاوة الأحدث القابلة للتبديد  من عدو عشوائي يملك علاوات. إذا لم يملك أي عدو علاوات، فإنها تسبب ضررًا بنسبة {DAMAGE}% لجميع الأعداء."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.heal.always.minordebuff.newest","عندما تُلقي هذه الشخصية مهاراتها الخاصة، فإنها تنقل أحدث الأمراض القابلة للعلاج من نفسها إلى الهدف. إذا لم تستطع المهارة الخاصة استهداف عدو، فسيتم اختيار عدو عشوائي بدلاً من ذلك. إذا لم يكن لهذه الشخصية أمراض يمكن علاجها، فإنها تستعيد {HEALTH}% من نقاط الصحة."
 "herocard.passive_skill.description.receivedeffectreplacement.minordebuff","فرصة بنسبة {REPLACEMENTCHANCE}% لاستبدال التأثيرات السلبية المتلقاة بأخرى إيجابية مشابهة."
-"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","يتلقى هذا البطل ضرر عناصر أقل من القوات ذات العنصر الأقوى.
+"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","تتلقى هذه الشخصية ضررًا أقل من القوات التابعة للعنصر الأقوى.
 
-ضرر العناصر المتلقى: -{MODIFIER}%"
-"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.combined","تلقي ضرر عناصر أقل بنسبة {MODIFIER}% من قوات العنصر الأقوى."
+ضرر متلقى: -{MODIFIER}%"
+"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.combined","ضرر أقل بنسبة {MODIFIER}% مُتلقى من قوات العنصر الأقوى."
 "herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.increase.dragon","تلقي ضرر عناصر أكبر بنسبة {MODIFIER}% من الكرات النارية للعنصر الأقوى."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single","في المرة الأولى التي تتلقّى فيها هذه الشخصية ضررًا قاتلًا، تُحوِّل ذلك الضرر إلى عدو عشوائي  بدلًا من ذلك.
 
@@ -488,7 +214,7 @@
 وذلك يشمل علاوات التأثيرات على الحالة والأمراض، والتراكمات الإيجابية والسلبية، بالإضافة إلى تأثيرات التلف والنمو."
 "herocard.passive_skill.description.resist.allmanaeffects.alldebuffs","هذه الشخصية محصنة ضد حالات الأمراض والتراكمات السلبية التي تؤثر في توليد القوة. ينطبق ذلك أيضًا على حالات الأمراض التي تعيق القوة، أو تسرق القوة."
 "herocard.passive_skill.description.resist.allmanaeffects.manareduction.alldebuffs","هذه الشخصية محصنة ضد خفض القوة، وأمراض الحالات والتراكمات السلبية التي تؤثر في توليد القوة. ينطبق ذلك أيضًا على التأثيرات وأمراض الحالات التي تعيق القوة أو تسرقها."
-"herocard.passive_skill.description.resist.allstatuseffectdamage.none","هذه الشخصية محصنة ضد الأضرار الناتجة من تأثيرات الحالة."
+"herocard.passive_skill.description.resist.allstatuseffectdamage.none","هذه الشخصية محصنة ضد الأضرار الناتجة من تأثيرات الحالة والتراكمات."
 "herocard.passive_skill.description.resist.attackdelay","لا يمكن تأخير الهجوم العادي لهذه الشخصية."
 "herocard.passive_skill.description.resist.attackdelay.alldebuffs","لا يمكن تأخير الهجوم العادي لهذه الشخصية."
 "herocard.passive_skill.description.resist.attackmodifiers","هذه الشخصية محصنة ضد حالات الأمراض التي تؤثر في الهجوم."
@@ -565,6 +291,9 @@
 "herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance","عند الهزيمة، تتمتع هذه الشخصية بفرصة بنسبة {TOTALCHANCE}% لإعادة الإحياء في بداية الجولة التالية مع {HEALTH}% من الصحة و{MANA}% من القوة. 
 
 يتم التنشيط حتى {MAXACTIVATIONCOUNT} من المرات. تقل فرصة إعادة الإحياء عند كل تنشيط. لا يمكن منع ذلك بأمراض الحالات أو المهارات الخاملة."
+"herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance.ignoresreviveblockingdebuffs","عند الهزيمة، تتمتع هذه الشخصية بفرصة بنسبة {TOTALCHANCE}% لإعادة الإحياء في بداية الجولة التالية مع {HEALTH}% من الصحة و{MANA}% من القوة. 
+
+يتم التنشيط حتى {MAXACTIVATIONCOUNT} من المرات. تقل فرصة إعادة الإحياء عند كل تنشيط. لا يمكن منع ذلك بأمراض الحالات أو المهارات الخاملة."
 "herocard.passive_skill.description.setstatuseffectdurationonaddition.all.allies.activates_on_ally_action.alldebuffs.dance","كل الأغاني التي يغنيها الأعداء لا تدوم إلا لمدة {TURNS} من الأدوار."
 "herocard.passive_skill.description.setstatuseffectdurationonaddition.single.enemies.activates_on_enemy_action.allbuffs.dance","كل الرقصات التي يؤديها الأعداء لا تدوم إلا لمدة {TURNS} من الأدوار."
 "herocard.passive_skill.description.sharereceiveddamage","تتلقى هذه الشخصية نسبة {SHAREDDAMAGEPORTION}% من الضرر وتتشاركها مع الحلفاء الآخرين."
@@ -604,38 +333,64 @@
 يتطور الشرير البرعم إلى شرير ضخم مزدهر بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.
 
 الشرير البذرة: 
-{EVOLVINGFAMILIAR1ATTACK}% من الهجوم، {EVOLVINGFAMILIAR1HEALTH}% من الصحة.
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% من الهجوم، {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% من الصحة.
 
 الشرير البرعم: 
-{EVOLVINGFAMILIAR2ATTACK}% من الهجوم {EVOLVINGFAMILIAR2HEALTH}% من الصحة.
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% من الهجوم {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% من الصحة.
 
 الشرير الضخم المزدهر: 
-{EVOLVINGFAMILIAR3ATTACK}% من الهجوم {EVOLVINGFAMILIAR3HEALTH}% من الصحة."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","يستدعي شرير بذرة كل جولة إلى عدو عشوائي. يتم تنشيط هذه المهارة الخاملة مرة واحدة فقط في كل دورة لكل فريق.
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% من الهجوم، {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% من الصحة."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","يستدعي شرير بذرة كل جولة إلى عدو عشوائي. هذه المهارة الكامنة تنشط فقط مرة واحدة في الجولة لكل فريق.
 يتطور الشرير البذرة ليصبح شريرًا برعمًا بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.
 يتطور الشرير البرعم إلى شرير ضخم مزدهر بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.
 
-الشرير البذرة:
-{EVOLVINGFAMILIAR1ATTACK}% من الهجوم، {EVOLVINGFAMILIAR1HEALTH}% من الصحة.
+الشرير البذرة: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% من الهجوم، {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% من الصحة.
 
-الشرير البرعم:
-{EVOLVINGFAMILIAR2ATTACK}% من الهجوم {EVOLVINGFAMILIAR2HEALTH}% من الصحة.
+الشرير البرعم: 
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% من الهجوم {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% من الصحة.
 
-الشرير الضخم المزدهر:
-{EVOLVINGFAMILIAR3ATTACK}% من الهجوم {EVOLVINGFAMILIAR3HEALTH}% من الصحة."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","يستدعي شرير بذرة كل جولة إلى عدو عشوائي. يتم تنشيط هذه المهارة الخاملة مرة واحدة فقط في كل دورة لكل فريق.
+الشرير الضخم المزدهر: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% من الهجوم، {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% من الصحة."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","يستدعي شرير بذرة كل جولة إلى عدو عشوائي. هذه المهارة الكامنة تنشط فقط مرة واحدة في الجولة لكل فريق.
 يتطور الشرير البذرة ليصبح شريرًا برعمًا بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.
 يتطور الشرير البرعم إلى شرير ضخم مزدهر بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.
-يتأخر تطور الأشرار لمدة {EVOLVINGFAMILIAR1TURNSDELAY} من الجولات في كل مرة يعالج فيها.
+يتأخر تطور الأشرار بمقدار {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} من الجولات في كل مرة يمتصون بها الشفاء.
 
-الشرير البذرة:
-{EVOLVINGFAMILIAR1ATTACK}% من الهجوم، {EVOLVINGFAMILIAR1HEALTH}% من الصحة.
+الشرير البذرة: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% من الهجوم، {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% من الصحة.
 
-الشرير البرعم:
-{EVOLVINGFAMILIAR2ATTACK}% من الهجوم {EVOLVINGFAMILIAR2HEALTH}% من الصحة.
+الشرير البرعم: 
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% من الهجوم {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% من الصحة.
 
-الشرير الضخم المزدهر:
-{EVOLVINGFAMILIAR3ATTACK}% من الهجوم {EVOLVINGFAMILIAR3HEALTH}% من الصحة."
+الشرير الضخم المزدهر: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% من الهجوم، {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% من الصحة."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","يستدعي شرير بذرة كل جولة إلى عدو عشوائي. هذه المهارة الكامنة تنشط فقط مرة واحدة في الجولة لكل فريق.
+يتطور الشرير البذرة ليصبح شريرًا برعمًا بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.
+يتطور الشرير البرعم إلى شرير ضخم مزدهر بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.
+يتأخر تطور الأشرار بمقدار {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} من الجولات في كل مرة يمتصون بها الشفاء.
+
+الشرير البذرة: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% من الهجوم، {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% من الصحة.
+
+الشرير البرعم: 
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% من الهجوم {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% من الصحة.
+
+الشرير الضخم المزدهر: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% من الهجوم، {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% من الصحة."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","يستدعي شرير بذرة كل جولة إلى عدو عشوائي. هذه المهارة الكامنة تنشط فقط مرة واحدة في الجولة لكل فريق.
+يتطور الشرير البذرة ليصبح شريرًا برعمًا بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.
+يتطور الشرير البرعم إلى شرير ضخم مزدهر بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.
+يتأخر تطور الأشرار بمقدار {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} من الجولات في كل مرة يمتصون بها الشفاء.
+
+الشرير البذرة: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% من الهجوم، {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% من الصحة.
+
+الشرير البرعم: 
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% من الهجوم {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% من الصحة.
+
+الشرير الضخم المزدهر: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% من الهجوم، {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% من الصحة."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","عندما تتعرض هذه الشخصية للهزيمة، ستستدعي أتباع السلايم الضخام إلى الحلفاء المجاورين، بصحة قدرها {FAMILIARHEALTHPERCENT}%، وهجوم قدره {FAMILIARATTACK}% مَوروثَين من هذه الشخصية."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","عندما تتعرض هذه الشخصية للهزيمة، ستستدعي أتباع السلايم الضخام إلى الحلفاء المجاورين، بصحة قدرها {FAMILIARHEALTHPERCENT}%، وهجوم قدره {FAMILIARATTACK}% مَوروثَين من هذه الشخصية."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","عندما تتعرض هذه الشخصية للهزيمة، ستستدعي أتباع السلايم الضخام إلى الحلفاء المجاورين، بصحة قدرها {FAMILIARHEALTHPERCENT}%، وهجوم قدره {FAMILIARATTACK}% مَوروثَين من هذه الشخصية."
@@ -652,6 +407,7 @@
 "herocard.passive_skill.description.summononsummon.activates_on_enemy_action.allies.owl.minion","استدعاء تابع عصفور عندما يقوم العدو باستدعاء أي تابع؛ عن طريق مهارة خاصة."
 "herocard.passive_skill.description.summononsummon.activates_on_enemy_action.enemies.cursed_sapling_parasite.minion","عندما يستدعي أحد الأعداء أي تابعين بواسطة مهارة خاصة، تستدعي هذه الشخصية شرير نبتةً ملعونةً لهذا العدو."
 "herocard.passive_skill.description.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","عندما يستدعي أحد الأعداء أي أتباع باستخدام مهارة خاصة، تستدعي هذه الشخصية شرير بذرة لذلك العدو."
+"herocard.passive_skill.description.targetstatedependenteffectonspecial.healthboost.all.allies.fixedpower.always.checkstate.all.allies.dance","إذا كان أي من الحلفاء يرقص عندما تُلقي هذه الشخصية مهارتها الخاصة، فسيعزز صحة كل الحلفاء بمقدار {HEALTHBOOST}. يمكن أن تتجاوز الصحة المعززة الحد الأقصى لنقاط الصحة."
 "herocard.passive_skill.description.taunt","لا تتأثر المهارة الخاصة لهذه الشخصية بالاستهزاء."
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.blue","يتم إضعاف دروع الثلج الموجودة على اللوحة بدقة {MODIFIER}% عند تنفيذ هذه الشخصية لمهارتها الخاصة."
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.green","يتم إضعاف دروع الطبيعة الموجودة على اللوحة بدقة {MODIFIER}% عند تنفيذ هذه الشخصية لمهارتها الخاصة."
@@ -663,25 +419,15 @@
 "herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.purple","يتم تعزيز دروع الظلام الموجودة على اللوحة بفرصة تسديد ضربة حرجة بنسبة {MODIFIER}% عند تنفيذ هذه الشخصية لمهارتها الخاصة."
 "herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.red","يتم تعزيز دروع النار الموجودة على اللوحة بفرصة تسديد ضربة حرجة بنسبة {MODIFIER}% عند تنفيذ هذه الشخصية لمهارتها الخاصة."
 "herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.yellow","يتم تعزيز الدروع المقدسة الموجودة على اللوحة بفرصة تسديد ضربة حرجة بنسبة {MODIFIER}% عند تنفيذ هذه الشخصية لمهارتها الخاصة."
-"herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","في كل مرة يلقي فيها هذا البطل مهارته الخاصة، تُحوَّل جميع العلاوات القابلة للتبديد التي تؤثر في الهجوم والدفاع، وتوليد القوة لدى جميع الأعداء إلى حالات أمراض متطابقة غير قابلة للتبديد.
-
-تأثيرات التحويل: 
-يتم تحويل تعزيزات الهجوم إلى {STATUSEFFECT1ATTACK}% من مرض حالة الهجوم لمدة {STATUSEFFECT1TURNS} من الجولات.
-يتم تحويل تعزيزات الدفاع إلى {STATUSEFFECT2DEFENSE}% من مرض حالة الدفاع لمدة {STATUSEFFECT2TURNS} من الجولات.
-يتم تحويل تعزيزات توليد القوة إلى {STATUSEFFECT3MANAREGEN}% من مرض حالة توليد القوة لمدة {STATUSEFFECT3TURNS} من الجولات."
-"herocard.passive_skill.description.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","في كل مرة يلقي فيها هذا البطل مهارته الخاصة، تُحوَّل جميع حالات المرض القابلة للتطهير التي تؤثر في الهجوم والدفاع وتوليد القوة لدى جميع الحلفاء إلى تعزيزات غير قابلة للتبديد.
-
-تأثيرات التحويل: 
-يتم تحويل حالات أمراض الهجوم إلى {STATUSEFFECT1ATTACK}% من مرض حالة الهجوم لمدة {STATUSEFFECT1TURNS} من الجولات.
-يتم تحويل حالات أمراض الدفاع إلى {STATUSEFFECT2DEFENSE}% من مرض حالة الدفاع لمدة {STATUSEFFECT2TURNS} من الجولات.
-يتم تحويل حالات أمراض توليد القوة بواسطة {STATUSEFFECT3MANAREGEN}% من مرض حالة توليد القوة لمدة {STATUSEFFECT3TURNS} من الجولات."
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","في كل مرة تلقي هذه الشخصية مهارتها الخاصة، يتم تحويل جميع التعزيزات القابلة للتبديد التي تؤثر على الهجوم، والدفاع، وتوليد القوة على جميع الأعداء إلى حالة أمراض متطابقة غير قابلة للتبديد."
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","في كل مرة تلقي هذه الشخصية مهارتها الخاصة، يتم تحويل جميع أمراض الحالات القابلة للتطهير التي تؤثر على الهجوم، والدفاع، وتوليد القوة لدى جميع الحلفاء إلى تعزيزات غير قابلة للتبديد."
 "herocard.passive_skill.description.wither.all.enemies","ينخفض هجوم كل الأعداء ودفاعهم الأساسيان بمقدار {STATINCREASE} كل جولة لعدد {MAXACTIVATIONCOUNT} من الجولات."
 "herocard.passive_skill.inactive","غير نشط: يجب الوصول إلى المستوى الأقصى والتصعيد الكامل للتفعيل."
 "herocard.passive_skill.replace.minordebuff.attackmodifier.to.minorbuff.attackmodifier","أمراض الهجوم إلى {ATTACK}% من الهجوم لمدة {TURNS} من الجولات."
 "herocard.passive_skill.replace.minordebuff.buffimmunity.to.minorbuff.debuffshield","أمراض الحالة المحصنة ضد التعزيزات إلى أمراض الحالة المنيعة لمدة {TURNS} من الجولات."
 "herocard.passive_skill.replace.minordebuff.defensemodifier.to.minorbuff.defensemodifier","أمراض الدفاع إلى {DEFENSE}% من الدفاع لمدة {TURNS} من الجولات."
 "herocard.passive_skill.replace.minordebuff.healingmodifier.to.minorbuff.healmultiplier","خفض القدرة العلاجية إلى {HEALING}% من العلاج المتزايد لمدة {TURNS} من الجولات."
-"herocard.passive_skill.replace.minordebuff.managenerationmodifier.to.minorbuff.managenerationmodifier","تُحوَّل جميع أمراض توليد القوة إلى {MANAREGEN}% من توليد القوة لمدة {TURNS} من الجولات."
+"herocard.passive_skill.replace.minordebuff.manaeffect.to.minorbuff.managenerationmodifier","تُحوَّل جميع أمراض القوة إلى {MANAREGEN}% من توليد القوة لمدة {TURNS} من الجولات."
 "herocard.passive_skill.replace.minordebuff.receiveddamagemodifier.to.minorbuff.receiveddamagemodifier","مرض زيادة الضرر إلى {DAMAGEREDUCTION}% من خفض الضرر لمدة {TURNS}  من الجولات."
 "herocard.passive_skill.replace.minordebuff.statuseffectreflect.to.minorbuff.reflectminordebuffs","تحويل أمراض عكس التعزيزات إلى تعزيزات عكس الأمراض لمدة {TURNS} من الجولات."
 "herocard.passive_skill.replace_direct_effect.attackwither","تلف الهجوم إلى نمو الهجوم: {FIXEDPOWER} من القوة الهجومية."
@@ -714,7 +460,8 @@
 "herocard.passive_skill.title.criticalmodifiersupportcharacter.troop","المعدّل الحاسم"
 "herocard.passive_skill.title.critmodifier","معدّل الفرصة الحاسمة"
 "herocard.passive_skill.title.damageincreasebyinsanity.troop.specialskill.npcnormalattack","موسوم بواسطة القدماء"
-"herocard.passive_skill.title.dealtdamagemodifieragainststatuseffect.bloodlily.stacks","علامة دموية"
+"herocard.passive_skill.title.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single","علامة دموية"
+"herocard.passive_skill.title.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all","الراقص الشرس"
 "herocard.passive_skill.title.dealtstrongelementtroopdamage","براعة القوات"
 "herocard.passive_skill.title.debuffdamagereduction","تقليل ضرر الحالة المرضية"
 "herocard.passive_skill.title.debuffdamagereductionsupportcharacter.troop","تقليل ضرر الحالة المرضية"
@@ -830,6 +577,7 @@
 "herocard.passive_skill.title.ransack","فرصة اللص"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","سرقة العلاوة"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","حاسة الصياد"
+"herocard.passive_skill.title.received_strong_troop_damage_pve","خفض ضرر القوات"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","براعة القوات"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","زيادة في ضرر الكرة النارية القوية"
 "herocard.passive_skill.title.redirectlethaldamage.enemies.single","خداع الموت"
@@ -937,7 +685,10 @@
 "herocard.passive_skill.title.stylish","أنيق!"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","مُستدعى البذرة"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","مُستدعى البذرة"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","مُستدعى البذرة"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","مُستدعى البذرة"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","مُستدعى البذرة"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","مُستدعى البذرة"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","تابع سلايم عند الهزيمة"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","تابع سلايم عند الهزيمة"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","تابع سلايم عند الهزيمة"
@@ -954,6 +705,7 @@
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.allies.owl.minion","مستدعي العصفور"
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.cursed_sapling_parasite.minion","مستدعي النبتة الملعونة"
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","مُستدعى البذرة"
+"herocard.passive_skill.title.targetstatedependenteffectonspecial.healthboost.checkstate.all.allies.dance","الراقص الرشيق"
 "herocard.passive_skill.title.taunt","تجاهل الاستهزاء"
 "herocard.passive_skill.title.titan_dread_damage_minions","الفزع"
 "herocard.passive_skill.title.titan_dread_damage_minions_15","الفزع"

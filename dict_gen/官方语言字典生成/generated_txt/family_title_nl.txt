@@ -50,6 +50,8 @@
 "herocard.family.title.fleur_de_sang_pve_tier3.short","Bloedbloemen"
 "herocard.family.title.forsaken","Verlaten familie"
 "herocard.family.title.forsaken.short","Verlaten"
+"herocard.family.title.fortune","Fortuindanserfamilie"
+"herocard.family.title.fortune.short","Fortuin"
 "herocard.family.title.fox","Vosfamilie"
 "herocard.family.title.fox.short","Vos"
 "herocard.family.title.gargoyle","Gargouillefamilie"

@@ -50,6 +50,8 @@
 "herocard.family.title.fleur_de_sang_pve_tier3.short","Fleur-de-Sang"
 "herocard.family.title.forsaken","Den svigtede familie"
 "herocard.family.title.forsaken.short","Svigtet"
+"herocard.family.title.fortune","Familien Lykkedanser"
+"herocard.family.title.fortune.short","Lykke"
 "herocard.family.title.fox","Rævefamilie"
 "herocard.family.title.fox.short","Ræv"
 "herocard.family.title.gargoyle","Gargoilfamilie"

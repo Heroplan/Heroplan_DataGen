@@ -50,6 +50,8 @@
 "herocard.family.title.fleur_de_sang_pve_tier3.short","血の花"
 "herocard.family.title.forsaken","見捨てられしファミリー"
 "herocard.family.title.forsaken.short","見捨てられし者たち"
+"herocard.family.title.fortune","幸運の踊り手のファミリー"
+"herocard.family.title.fortune.short","幸運"
 "herocard.family.title.fox","キツネファミリー"
 "herocard.family.title.fox.short","キツネ"
 "herocard.family.title.gargoyle","ガーゴイルファミリー"

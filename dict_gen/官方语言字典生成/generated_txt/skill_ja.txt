@@ -82,6 +82,7 @@
 "specials.v2.directeffect.damage.yellow.enemies","全ての聖属性の敵に{HEALTH}%のダメージを与える。"
 "specials.v2.directeffect.heal.all.allies","仲間全員のライフを{HEALTH}%回復する。"
 "specials.v2.directeffect.heal.all.allies.fixedpower","仲間全員のライフを{HEALTH}回復する。"
+"specials.v2.directeffect.heal.lessthanhalfhpleft.allies.fixedpower","残りライフが50%以下の仲間全員のライフを{HEALTH}回復させる。"
 "specials.v2.directeffect.heal.neartotarget.allies","術者と近くにいる仲間のライフを{HEALTH}%回復する。"
 "specials.v2.directeffect.heal.single.allies","術者のライフを{HEALTH}%回復する。"
 "specials.v2.directeffect.heal.single.allies.fixedpower","術者のライフを{HEALTH}回復する。"
@@ -324,6 +325,7 @@
 炎のウィスプのフィエンドは回復を吸収し、ターゲットの最大HPの{FAMILIARHEALTHPERCENT}%に等しいライフを吸収すると消滅する。"
 "specials.v2.parasite.flytrap_fiend.neartotarget","ターゲットと近くにいる敵にハエトリグサのフィエンドをサモンする。
 ハエトリグサのフィエンドは回復を吸収し、ターゲットの最大HPの{FAMILIARHEALTHPERCENT}%に等しいライフを吸収すると消滅する。"
+"specials.v2.parasite.flytrap_fiend.reducemaxhealth.single.allies","サモンされたハエトリグサのフィエンドは毎ターン、ターゲットの最大HPを{REDUCTION}減少させる。この効果はHPをブーストされたターゲットにも有効となる。"
 "specials.v2.parasite.flytrap_fiend.single","ターゲットにハエトリグサのフィエンドをサモンする。ターン毎に{FAMILIARATTACK}%の攻撃力で敵にダメージを与える。
 ハエトリグサのフィエンドは回復を吸収し、ターゲットの最大HPの{FAMILIARHEALTHPERCENT}%に等しいライフを吸収すると消滅する。"
 "specials.v2.parasite.gargoyle_parasite.explode","ガーゴイルのフィエンドは{FAMILIAREFFECTFREQUENCY}ターン後に爆発し、ターゲットに{FAMILIARFIXEDEXPLOSIONDAMAGE}ダメージを与える。"
@@ -352,6 +354,9 @@
 "specials.v2.parasite.mercenary_costume.all","敵全員に傭兵のフィエンドをサモンする。フィエンドはターン毎に敵に{FAMILIARATTACK}%の攻撃力でダメージを与える。
 傭兵のフィエンドは回復を吸収し、ターゲットの最大HPの{FAMILIARHEALTHPERCENT}%に等しいライフを吸収すると消滅する。"
 "specials.v2.parasite.missile_parasite.explode","ミサイル フィエンドを所有する敵が倒されると、近くにいる敵が{FAMILIARFIXEDEXPLOSIONDAMAGE}ダメージを受ける。"
+"specials.v2.parasite.moldavite_owl_fiend.neartotarget","ターゲットと近くにいる敵にモルダバイトオウルのフィエンドをサモンする。ターン毎に{FAMILIARATTACK}%の攻撃力で敵にダメージを与える。
+モルダバイトオウルのフィエンドは回復を吸収し、ターゲットの最大HPの{FAMILIARHEALTHPERCENT}%に等しいライフを吸収すると消滅する。"
+"specials.v2.parasite.moldavite_owl_fiend.removestatuseffects.minorbuff.single.allies.customremovalcount","各ターン終了時に、モルダバイトオウルのフィエンドがターゲットの解除可能なバフを1つ解除する。"
 "specials.v2.parasite.muffin_parasite.all","敵全員にマフィンフィエンドをサモンする。この精霊は、ターン毎に敵に{FAMILIARATTACK}%の攻撃力でダメージを与える。
 マフィンフィエンドは回復を吸収し、ターゲットの最大ライフの{FAMILIARHEALTHPERCENT}%に等しいライフを吸収すると消滅する。
 マフィン精霊の攻撃が当たる毎に、次の効果を付与する："
@@ -511,6 +516,10 @@
 "specials.v2.property.chainstrikewitheffectperhit.statuseffect.single.playercharacters","{CHANCE}%の確率で、複数のランダムな敵に最大{MAXHITS}回の追加攻撃をする。
  術者は、敵に追加攻撃を当てるたびに次のステータス効果を受ける：
 {STATUSEFFECTS}"
+"specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","ターゲットとランダムな敵{MAXHITS}体に{DAMAGE}%のダメージを与える。
+攻撃を与えた敵それぞれに対して苗木のフィエンドをサモンする。"
+"specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","ターゲットとランダムな敵{MAXHITS}体に{DAMAGE}%のダメージを与える。
+攻撃を与えた敵それぞれに対して苗木のフィエンドをサモンする。"
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","ターゲットとランダムな敵{MAXHITS}体に{DAMAGE}%のダメージを与える。
 攻撃を受けた敵にミサイル フィエンドをサモンし、ターン毎に{FAMILIARATTACK}%の攻撃力でダメージを与える。
 ミサイル フィエンドは回復を吸収し、所有者の最大HPの{FAMILIARHEALTHPERCENT}%に等しいライフを吸収すると消滅する。"
@@ -547,6 +556,7 @@
 "specials.v2.property.conditionaleffect.damage.all.enemies.highest.currentproportionalmana.only_targets_who_meet_condition","マナが最も多い敵に対して{POWERFORTARGETSTHATMEETCONDITION}%のダメージを与える。"
 "specials.v2.property.conditionaleffect.damage.all.enemies.lowest.currenthp","残りのHPが最も少ない敵に{POWERFORTARGETSTHATMEETCONDITION}%のダメージを与える。その他の敵全員に{POWERFOROTHERTARGETS}%のダメージを与える。"
 "specials.v2.property.conditionaleffect.damage.all.enemies.lowest.currenthp.hittargetsonly.only_targets_who_meet_condition","残りのHPが最も少ない敵に対して{POWERFORTARGETSTHATMEETCONDITION}%のダメージを与える。"
+"specials.v2.property.conditionaleffect.damage.all.enemies.lowest.currenthp.only_targets_who_meet_condition","残りのHPが最も少ない敵に対して{POWERFORTARGETSTHATMEETCONDITION}%のダメージを与える。"
 "specials.v2.property.conditionaleffect.damage.single.enemies.highest.currenthp.hittargetsonly.only_targets_who_meet_condition","残りのHPが最も多い敵に対して{POWERFORTARGETSTHATMEETCONDITION}%のダメージを与える。"
 "specials.v2.property.conditionaleffect.heal.all.allies.lowest.currenthp","残りのHPが最も低い仲間のライフを{POWERFORTARGETSTHATMEETCONDITION}%回復する。その他の仲間全員のライフを{POWERFOROTHERTARGETS}%回復する。"
 "specials.v2.property.conditionaleffect.heal.all.enemies.lowest.currenthp.only_targets_who_meet_condition","残りのHPが最も低い敵のライフを{POWERFORTARGETSTHATMEETCONDITION}%回復する。"
@@ -599,6 +609,7 @@
 ダークキューブは、ターゲットの最大HPを{REDUCTION}減少させる。HPをブーストされたターゲットにより効果がある。"
 "specials.v2.property.darkcubechainstrike.extra","最大ライフは元の最大値の{MINIMUMMAXHEALTH}%以下にはできない。
 HPがブーストされた場合は、さらに{REDUCTION}減少する。"
+"specials.v2.property.delayturnstoattack.all","{DELAY}ターンの間、敵全員の通常攻撃が遅延する。"
 "specials.v2.property.delayturnstoattack.neartotarget","{DELAY}ターンの間、ターゲットと近くにいる敵の通常攻撃が遅延する。"
 "specials.v2.property.delayturnstoattack.neartotarget.oneturn","{DELAY}ターンの間、ターゲットと近くにいる敵の通常攻撃が遅延する。"
 "specials.v2.property.differentextrahitpowerchainstrike","他のランダムな敵{MAXHITS}体に{DAMAGE}%のダメージを与える。"
@@ -626,12 +637,25 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.property.effectonkill.statuseffect.managenerationmodifier.all.allies","攻撃によってターゲットを倒した場合、{STATUSEFFECT1TURNS}ターンの間、仲間全員のマナ生成が{STATUSEFFECT1MANAREGEN}%になる。"
 "specials.v2.property.effectonkill.statuseffect.managenerationmodifier.neartotarget.allies","攻撃によってターゲットを倒した場合、{STATUSEFFECT1TURNS}ターンの間、術者と近くにいる仲間のマナ生成が{STATUSEFFECT1MANAREGEN}%になる。"
 "specials.v2.property.effectonkill.statuseffect.managenerationmodifier.single.allies","攻撃によってターゲットを倒した場合、{STATUSEFFECT1TURNS}ターンの間、術者のマナ生成が{STATUSEFFECT1MANAREGEN}%になる。"
+"specials.v2.property.effectonremovedstatuseffectspertarget.minordebuff.all.allies.effectonremoval.addmana.single","仲間全員のステータス異常を浄化する。ステータス異常を1つ浄化するごとに仲間全員のマナが{POWER}%上昇する。"
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","収穫はターゲットそれぞれから{MAXREMOVALCOUNT}個のバフ、プラスの累積効果、成功効果を安全に削除する。解除不可能なバフやダンス効果も含まれる。
 効果を削除するたびに、術者が{HEALTHBOOST}%のHPボーナスを獲得する。HPボーナスは最大HP量を超過することができる。
 
 安全に削除すると、削除時のダメージなど、削除したステータス効果バフから受ける付随効果を無効化する。その上、パッシブスキルやファミリー効果などの外的な効果を発動することもできる。
 成功効果が最初に削除される。他の効果に関しては、直前にかけられたものが最初に削除される。"
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removewither.safe.extra","引っこ抜きはターゲットそれぞれから{MAXREMOVALCOUNT}個のステータス異常、マイナスの累積効果、弱化効果を安全に削除する。浄化不可能なステータス異常やダンス効果も含まれる。
+効果を削除するたびに、術者が{HEALTHBOOST}%のHPボーナスを獲得する。HPボーナスは最大HP量を超過することができる。
+
+安全に浄化すると、削除時のダメージなど、浄化したステータス異常から受ける付随効果を無効化する。その上、パッシブスキルやファミリー効果などの外的な効果を発動することもできる。
+弱化効果が最初に削除される。他の効果に関しては、直前にかけられたものが最初に削除される。"
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.neartotarget.allies.alldebuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removewither","引っこ抜きによって、術者と近くにいる仲間のデバフが削除される。"
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.neartotarget.allies.alldebuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removewither.extra","引っこ抜きはターゲットそれぞれから{MAXREMOVALCOUNT}個のデバフ、マイナスの累積効果、弱化効果を安全に削除する。浄化不可能なステータス異常やダンス効果も含まれる。
+効果を削除するたびに、術者が{HEALTHBOOST}%のHPボーナスを獲得する。HPボーナスは最大HP量を超過することができる。
+
+安全に削除すると、削除時のダメージなど、削除したステータス効果バフから受ける付随効果を無効化する。その上、パッシブスキルやファミリー効果などの外的な効果を発動することもできる。
+弱化効果が最初に削除される。他の効果に関しては、直前にかけられたものが最初に削除される。"
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.neartotarget.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","ターゲットと近くにいる敵からバフを収穫する。"
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.single.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","ターゲットからバフを収穫する。"
 "specials.v2.property.effectontargetaliveafterhit.heal.all.allies.addmana.all.allies.directeffecttargettype.single","ターゲットがこの攻撃で倒れなかった場合、仲間全員のライフが{EFFECT1POWER}%、マナが{EFFECT2POWER}%回復する。"
 "specials.v2.property.effectpereatenfamiliar.addmana.all.allies.fixed.minion.follower","ミニオンが倒される毎に、仲間全員のマナが少量回復する。"
 "specials.v2.property.effectpereatenfamiliar.addmana.all.allies.permil.minion.bigminion","ミニオンが倒される毎に、術者のマナが{MANAPERFAMILIAR}%回復する。"
@@ -650,6 +674,8 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.property.effectpereatenfamiliar.heal.single.allies.permil","ミニオンが倒される毎に、術者のHPが{HEALTHPERFAMILIAR}%回復する。"
 "specials.v2.property.effectperfamiliar.damage.all.enemies.minion.bigminion.from.enemies.has_base_power.has_max_power","敵全員に{BASEPOWER}%のダメージを与える。
 敵が所有するミニオンまたはメガミニオン1体ごとに、{POWERPERFAMILIAR}%のダメージが追加され、合計で最大{MAXPOWER}%のダメージを与える。"
+"specials.v2.property.effectperfamiliar.damage.all.enemies.parasite.bigparasite.from.enemies.has_base_power.has_max_power","敵全員に{BASEPOWER}%のダメージを与える。
+敵が所有するフィエンドまたはメガフィエンド1体ごとに、{POWERPERFAMILIAR}%のダメージが追加され、合計で最大{MAXPOWER}%のダメージを与える。"
 "specials.v2.property.effectperfamiliar.damage.neartotarget.enemies.minion.bigminion.from.enemies.has_base_power.has_max_power","ターゲットと近くにいる敵に{BASEPOWER}%のダメージを与える。
 敵が所有するミニオンまたはメガミニオン1体ごとに、{POWERPERFAMILIAR}%のダメージが追加され、合計で最大{MAXPOWER}%のダメージを与える。"
 "specials.v2.property.effectperfamiliar.damage.neartotarget.enemies.parasite.bigparasite.from.enemies.has_base_power.has_max_power","ターゲットと近くにいる敵に{BASEPOWER}%のダメージを与える。
@@ -658,6 +684,8 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 敵が所有するミニオンまたはメガミニオン1体ごとに、{POWERPERFAMILIAR}%のダメージが追加され、合計で最大{MAXPOWER}%のダメージを与える。"
 "specials.v2.property.effectperfamiliar.damage.single.enemies.minion.from.allies.has_base_power.has_max_power","ターゲットに{BASEPOWER}%のダメージを与える。
 味方が所有するミニオン1体ごとに、{POWERPERFAMILIAR}%のダメージが追加され、合計で最大{MAXPOWER}%のダメージを与える。"
+"specials.v2.property.effectperfamiliar.damage.single.enemies.parasite.bigparasite.from.enemies.has_base_power.has_max_power","ターゲットに{BASEPOWER}%のダメージを与える。
+敵が所有するフィエンドまたはメガフィエンド1体ごとに、{POWERPERFAMILIAR}%のダメージが追加され、合計で最大{MAXPOWER}%のダメージを与える。"
 "specials.v2.property.effectperfamiliar.heal.all.allies.parasite.from.allies.has_base_power","仲間全員のライフを{BASEPOWER}%回復する。
 味方がフィエンドを所有している場合には、1体につき{POWERPERFAMILIAR}%のライフを追加で回復する。"
 "specials.v2.property.effectperfamiliar.healthboost.all.allies.minion.from.allies","仲間が所有するミニオン1体につき、仲間全員のHPを{HEALTHBOOST}ブーストさせる。"
@@ -800,6 +828,7 @@ PVPバトルでは、クリティカル攻撃により敵の最大HPを低下さ
 "specials.v2.property.modifystatuseffectturns.neartotarget.enemies.buffs.decrease","{TURNS}ターンの間、ターゲットと近くにいる敵のバフの持続時間が短縮される。"
 "specials.v2.property.modifystatuseffectturns.neartotarget.enemies.buffs.decrease.one","{TURNS}ターンの間、ターゲットと近くにいる敵のバフの持続時間が短縮される。"
 "specials.v2.property.modifystatuseffectturns.single.enemies.buffs.decrease","{TURNS}ターンの間、ターゲットにかかっているバフの持続時間が減少する。"
+"specials.v2.property.modifystatuseffectturns.single.enemies.buffs.decrease.one","{TURNS}ターンの間、ターゲットにかかっているバフの持続時間が減少する。"
 "specials.v2.property.moonrisedamage.enemies.all.yellow","敵全員をムーンライズストライクで攻撃し、最大{MAX}ダメージを与える。対象が聖属性の場合は、ダメージが{STRONGATTACKELEMENTDAMAGEMODIFIER}%増加する。この攻撃は決して的を外さない。"
 "specials.v2.property.moonrisedamage.enemies.all.yellow.always_hit","敵全員をムーンライズストライクで攻撃し、最大{MAX}ダメージを与える。対象が聖属性の場合は、ダメージが{STRONGATTACKELEMENTDAMAGEMODIFIER}%増加する。この特殊スキルは決して的を外さない。"
 "specials.v2.property.moonrisedamage.enemies.neartotarget.yellow","ターゲットと近くにいる敵をムーンライズストライクで攻撃し、最大{MAX}ダメージを与える。対象が聖属性の場合は、ダメージが{STRONGATTACKELEMENTDAMAGEMODIFIER}%増加する。この攻撃は決して的を外さない。"
@@ -892,11 +921,9 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.property.removestatuseffects.minorbuff.single.enemies.customremovalcount.multiple","ターゲットのバフを{REMOVALCOUNT}個解除する。"
 "specials.v2.property.removestatuseffects.minordebuff.all.allies","仲間全員のステータス異常を浄化する。"
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.bypassremoveeffects","仲間全員のステータス異常を安全に浄化する。"
-"specials.v2.property.removestatuseffects.minordebuff.all.allies.bypassremoveeffects.effectonremoval.addmana.single","仲間全員のステータス異常を安全に浄化する。ステータス異常を1つ浄化するごとに仲間全員のマナが{POWER}%上昇する。"
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount","仲間全員のステータス異常を1つ浄化する。"
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount.bypassremoveeffects","仲間全員のステータス異常を1つ安全に浄化する。"
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount.multiple","仲間全員のステータス異常を{REMOVALCOUNT}個浄化する。"
-"specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single","仲間全員のステータス異常を浄化する。ステータス異常を1つ浄化するごとに仲間全員のマナが{POWER}%上昇する。"
 "specials.v2.property.removestatuseffects.minordebuff.customremovalcount.extra","ステータス異常は付与された順に解除される。最後に付与されたステータス異常が最初に解除される。"
 "specials.v2.property.removestatuseffects.minordebuff.extra","安全に浄化が行われると、ステータス異常の解除による付随効果（解除時のダメージなど）は発生しない。パッシブスキルやファミリー効果といった外部効果は引き続き発動し続ける。"
 "specials.v2.property.removestatuseffects.minordebuff.neartotarget.allies.bypassremoveeffects","術者と近くにいる仲間のステータス異常を安全に浄化する。"
@@ -905,6 +932,14 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.property.removestatuseffectsandbasemodifiers.neartotarget.allies.allstatuseffectsandstacks","完全解除を術者と近くにいる味方にかける。"
 "specials.v2.property.removestatuseffectsandbasemodifiers.single.allies.allstatuseffectsandstacks","完全解除を術者にかける。"
 "specials.v2.property.removestatuseffectsandbasemodifiers.single.enemies.allstatuseffectsandstacks","完全解除をターゲットにかける。"
+"specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.sides.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","敵陣形の両端にいる敵に、{POWER}%の精霊の斬撃ダメージを与える。精霊の斬撃は、ダメージを与える前に確実にバフを削除する。"
+"specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.single.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","ターゲットに{POWER}%の精霊の斬撃ダメージを与える。精霊の斬撃は、ダメージを与える前に確実にバフを削除する。"
+"specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectdebuffs.neartotarget.allies.bypassremoveeffects.effectonremoval.healthboost.has_base_power.power_changes_per_removed_status_from_target","精霊のオーラで、術者と近くにいる仲間のライフを{FIXEDPOWER}ブーストする。精霊のオーラは、ライフをブーストする前に確実にステータス異常を削除する。"
+"specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.all.allies.effectonremoval.addmana.power_changes_per_removed_status_from_target","仲間全員のステータス異常を安全に浄化する。ステータス異常を1つ浄化するごとに仲間全員のマナが{POWERPERREMOVALFROMTARGET}%上昇する。"
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","削除されたバフごとに、ダメージが{POWERPERREMOVALFROMTARGET}%減少する。
+解除不可能なバフも削除される。"
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","削除されたステータス異常ごとに、ライフブーストが{FIXEDPOWERPERREMOVALFROMTARGET}減少する。
+浄化不可能なステータス異常も削除される。"
 "specials.v2.property.repeatspecial.blade_wings.random","刃の翼の使用に成功すると、{REPEATCHANCE}%の確率で、ランダムなターゲット1体に刃の翼を再度使用する。
 再使用の上限は{MAXREPEATS}回で、再使用発生確率は1度使用に成功するごとに{REPEATCHANCEDECREASE}%低下していく。"
 "specials.v2.property.resetstatuseffectduration.all.allies.allbuffs","仲間全員のバフの持続時間がリセットされる。"
@@ -933,6 +968,7 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.property.secondarydirecteffect.damage.all.allies","仲間全員に{SECONDARYPOWER}%のダメージを与える。"
 "specials.v2.property.secondarydirecteffect.damage.all.enemies","敵全員に{SECONDARYPOWER}%のダメージを与える。"
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_abigail","敵全員に対して{SECONDARYPOWER}%のダメージを与え、{STATUSEFFECT1INSANITYTOADD}狂気を付与する。"
+"specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_ambrose","敵全員に対して{SECONDARYPOWER}%のダメージを与え、{STATUSEFFECT1INSANITYTOADD}狂気を付与する。"
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_cultist_villager_female","敵全員に対して{SECONDARYPOWER}%のダメージを与え、{STATUSEFFECT1INSANITYTOADD}狂気を付与する。"
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_gwendoline_changed_appearance","敵全員に対して{SECONDARYPOWER}%のダメージを与え、{STATUSEFFECT1INSANITYTOADD}狂気を付与する。"
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_on_damage_khatrox","敵全員に対して{SECONDARYPOWER}%のダメージを与え、{STATUSEFFECT1INSANITYTOADD}狂気を付与する。"
@@ -952,6 +988,7 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_morryster","ターゲットと近くにいる敵に{SECONDARYPOWER}%のダメージを与え、{STATUSEFFECT1INSANITYTOADD}狂気を付与する。"
 "specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_on_damage_atwood","ターゲットと近くにいる敵に{SECONDARYPOWER}%のダメージを与え、{STATUSEFFECT1INSANITYTOADD}狂気を付与する。"
 "specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_piper","ターゲットと近くにいる敵に{SECONDARYPOWER}%のダメージを与え、{STATUSEFFECT1INSANITYTOADD}狂気を付与する。"
+"specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_zenas","ターゲットと近くにいる敵に{SECONDARYPOWER}%のダメージを与え、{STATUSEFFECT1INSANITYTOADD}狂気を付与する。"
 "specials.v2.property.secondarydirecteffect.damage.neartotargetexceptmaintarget.enemies","近くにいる敵全員に{SECONDARYPOWER}%の追加ダメージを与える。"
 "specials.v2.property.secondarydirecteffect.damage.neartotargetminor.enemies","ターゲットに{SECONDARYPOWER}%のダメージを、近くにいる敵には小ダメージを与える。"
 "specials.v2.property.secondarydirecteffect.damage.random.enemies","ランダムな敵1体に{SECONDARYPOWER}%のダメージを与える。"
@@ -987,6 +1024,9 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.property.sidedependentspecialproperty.normal_attack_delay_or_nullified_troop_damage","敵を気絶させる。このキャラクターのチームに基づいて、効果が変化する：
 
 {SIDEDEPENDENTPROPERTIES}"
+"specials.v2.property.sidedependentspecialproperty.normal_attack_delay_or_nullified_troop_damage_rawn","敵を気絶させる。このキャラクターのチームに基づいて、効果が変化する：
+
+{SIDEDEPENDENTPROPERTIES}"
 "specials.v2.property.sidetosidedirecteffect.damage.all.enemies.decrease.random_starting_side","敵全員に、陣形のどちらかの端にいる敵から順番に{BASEPOWER}%のダメージを与える。ダメージは連続で与えるごとに減少していく。"
 "specials.v2.property.specialsteal.all.allies.deadtargets","倒れた仲間全員の特殊スキルを発動する。
 この特殊スキルはコピー不可。"
@@ -1020,6 +1060,7 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.all.allies","ターゲットから、解除可能なバフをすべて盗み、仲間全員にランダムに分配する。"
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.neartotarget.allies","ターゲットから解除可能なバフをすべて盗み、術者と近くにいる仲間にランダムに分配する。"
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.single.allies.customreallocationcount","ターゲットに最後に付与された解除可能なバフを奪い、それを術者に付与する。"
+"specials.v2.property.statuseffectreallocation.from.single.enemies.to.single.allies.customreallocationcount.multiple.random","ターゲットから、解除可能なバフをランダムに{CUSTOMREALLOCATIONCOUNT}個奪い、術者に与える。"
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.single.allies.customreallocationcount.random","ターゲットから解除可能なバフをランダムで奪い、それを術者に付与する。"
 "specials.v2.property.statuseffectreallocationwitheffectperallocation.addmana.all.allies","ステータス異常が移行されるたびに、仲間全員のマナが少量回復する。"
 "specials.v2.property.statuseffectreallocationwitheffectperallocation.addmana.single.allies","術者がバフを奪うごとに、最大{MAXPOWER}%まで、{POWERPERALLOCATION}%のマナを得る。"
@@ -1071,15 +1112,17 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","苗木のフィエンドは{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に新芽のフィエンドに進化する。
 新芽のフィエンドは{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に開花のメガフィエンドに進化する。
 
-苗木のフィエンド：攻撃力{EVOLVINGFAMILIAR1ATTACK}%、ライフ{EVOLVINGFAMILIAR1HEALTH}%
- 新芽のフィエンド：攻撃力{EVOLVINGFAMILIAR2ATTACK}%、ライフ{EVOLVINGFAMILIAR2HEALTH}%
+苗木のフィエンド：攻撃力{EVOLVINGFAMILIAR1FAMILIARATTACK}%、ライフ{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%
+ 新芽のフィエンド：攻撃力{EVOLVINGFAMILIAR2FAMILIARATTACK}%、ライフ{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%
  開花のメガフィエンド：
-攻撃力{EVOLVINGFAMILIAR3ATTACK}%、ライフ{EVOLVINGFAMILIAR3HEALTH}%
+攻撃力{EVOLVINGFAMILIAR3FAMILIARATTACK}%、ライフ{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%
 
 フィエンドは毎ターン、ターゲットにダメージを与える。フィエンドは回復を吸収しつくすと消滅する。必要な回復量はターゲットの最大HPに依存する。"
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","ターゲットがフィエンドかメガフィエンドを所有していた場合、ランダムで異なる敵に{DAMAGE}%のダメージを与える。
 攻撃を与えた敵それぞれに対して苗木のフィエンドをサモンする。"
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","ターゲットがフィエンドかメガフィエンドを所有していた場合、ランダムで異なる敵に{DAMAGE}%のダメージを与える。
+攻撃を与えた敵それぞれに対して苗木のフィエンドをサモンする。"
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.parasite.bigparasite.evolving_root_rot_fiend","ターゲットがフィエンドかメガフィエンドを所有していた場合、ランダムで異なる敵に{DAMAGE}%のダメージを与える。
 攻撃を与えた敵それぞれに対して苗木のフィエンドをサモンする。"
 "specials.v2.property.targethealthdependantextradamage.over_health_boundary.all","敵の残りのライフが{HEALTHBOUNDARY}%以上の場合、{DAMAGEMULTIPLIER}%のダメージを与える。"
 "specials.v2.property.targethealthdependantextradamage.over_health_boundary.neartotarget","敵の残りのライフが{HEALTHBOUNDARY}%以上の場合、{DAMAGEMULTIPLIER}%のダメージを与える。"
@@ -1387,11 +1430,26 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.major.elementmirror.red.neartotarget.allies","術者と近くにいる仲間が、すべてのステータス異常を跳ね返す。さらに、{TURNS}ターンの間、炎属性の敵の特殊スキルによって発生した、その他のマイナスの影響を無効にし、ダメージの{DEFLECTION}%を攻撃者に跳ね返す。この効果は解除不可。"
 "specials.v2.statuseffect.major.ethereal.single.allies","{TURNS}ターンの間、術者がゴースト形態になる。
 ゴースト形態でいる間、術者の攻撃力が{ATTACK}%になる。"
+"specials.v2.statuseffect.major.fieryfortunedancemultieffect.neartotargetexceptcaster.allies.fiery_fortune_dance","近くにいる味方が{TURNS}の間、炎の幸運のダンスを踊る。
+
+炎の幸運のダンス
+{STATUSEFFECTS}
+幸運の踊りは、他のダンス効果と累積する。"
+"specials.v2.statuseffect.major.fieryfortunedancemultieffect.neartotargetexceptcaster.allies.fiery_fortune_dance_dragon_kids","近くにいる味方が{TURNS}の間、炎の幸運のダンスを踊る。
+
+炎の幸運のダンス
+{STATUSEFFECTS}
+幸運の踊りは、他のダンス効果と累積する。"
 "specials.v2.statuseffect.major.fixedhealthrecovery.all.allies","仲間全員のHPが{TOTAL}回復({TURNS}ターン)。この効果は解除不可"
 "specials.v2.statuseffect.major.fixedhealthrecovery.allexceptcaster.allies.while.caster.allies.transcendentalframe","ゴースト形態の間、ターン毎に術者以外の仲間全員のHPが{HPPERTURN}回復する。"
 "specials.v2.statuseffect.major.fixedhealthrecovery.healthboost.all.allies","仲間全員のライフが{TURNS}ターンにわたって、合計{TOTAL}回復する。この効果は解除不可"
 "specials.v2.statuseffect.major.fixedhealthrecovery.healthboost.allexceptcaster.allies.while.caster.allies.transcendentalframe","ゴースト形態中、ターン毎に術者以外の仲間全員のライフが{HPPERTURN}回復する。ライフ値が最大HPを超えた場合は、一時的に最大HP値が増加する"
 "specials.v2.statuseffect.major.fixedhealthrecovery.single.allies.while.caster.allies.transcendentalframe","ゴースト形態中、ターン毎に術者のHPが{HPPERTURN}回復"
+"specials.v2.statuseffect.major.flowingfortunedancemultieffect.neartotargetexceptcaster.allies.flowing_fortune_dance","近くにいる味方が{TURNS}の間、流れる幸運のダンスを踊る。
+
+流れる幸運のダンス
+{STATUSEFFECTS}
+幸運のダンスは、他のダンス効果と累積する。"
 "specials.v2.statuseffect.major.frost.all.enemies","{TURNS}ターンの間、敵全員に{DAMAGE}のフロストダメージを与える。この効果は浄化できない。"
 "specials.v2.statuseffect.major.frost.single.enemies.chain_strike","累積効果（最大：{MAXSTACK}）：毎ターンの最後に、攻撃を受けた敵に{DAMAGE}のフロストダメージを与える。この効果は浄化できない。"
 "specials.v2.statuseffect.major.ghost.single.allies.onremoval.damage.all.enemies.expiration.basic_attack_chao_gai.all.allies.special_damage_power_modifier_chao_gai.all.allies","術者が{TURNS}ターンの間、ゴースト形態になる。
@@ -1476,6 +1534,7 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 粘着層：攻撃を仕掛けてきた敵から、ランダムで{REALLOCATIONCOUNT}個の解除可能なバフまたは成長効果を奪う。"
 "specials.v2.statuseffect.major.reallocateeffectsonhit.single.allies.effects.minorbuff.random","{TURNS}ターンの間、術者が粘着層を獲得する。この効果は解除できない。
 粘着層：攻撃を仕掛けてきた敵から、ランダムで{REALLOCATIONCOUNT}個の解除可能なバフまたは成長効果を奪う。"
+"specials.v2.statuseffect.major.receiveddamagemodifier.all.allies.decrease","{TURNS}ターンの間、仲間全員の受けるダメージが{DAMAGEREDUCTION}%になる。この効果は解除できない。"
 "specials.v2.statuseffect.major.receiveddamagemodifier.all.enemies.while.caster.enemies.hasfamiliars","術者がミニオンかメガミニオンを所持している場合、敵全員へのダメージが{DAMAGEMODIFIER}%増加する。術者がミニオンかメガミニオンを所持している限り、この効果は持続し、解除することもできない。"
 "specials.v2.statuseffect.major.resistmanareduction.all.allies.while.caster.allies.boostedhealth","術者のライフが回復している間、仲間全員がマナ奪取を無効化する。この効果は解除できない。"
 "specials.v2.statuseffect.major.revive.bruiserbros.all.allies","{TURNS}ターンの間、仲間全員がブルーザーブロス状態になる。ブルーザーブロス状態の間に仲間が倒れると、以下の特徴を持つカメレオンとして復活する。
@@ -1551,14 +1610,14 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 ステータス異常の源は最大{MAXACTIVATIONCOUNT}回発動する。効果を発動させるたびに、残り発動回数が1回減少する。"
 "specials.v2.statuseffect.major.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.debuff_damage_increase_grendels_mother.reduce_healing_grendels_mother","ステータス効果生成：次の{MAXACTIVATIONCOUNT}ターンの開始時に、このキャラクターが{STATUSEFFECT1TURNS}ターンの間、いずれかの敵1体にステータス異常による{STATUSEFFECT1MULTIPLIER}%のダメージを付与し、全ての回復を{STATUSEFFECT2HEALING}%にする。この効果は解除できない。"
 "specials.v2.statuseffect.major.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.debuff_damage_increase_grendels_mother.reduce_healing_grendels_mother.dispelincreasesactivations","ステータス異常の源：各ターン開始時に、いずれかの敵1体に次の効果を付与する：
-{STATUSEFFECT1TURNS}ターンの間、ステータス異常によるダメージが{STATUSEFFECT1MULTIPLIER}%になる。
+{STATUSEFFECT1TURNS}ターンの間、ステータス異常とマイナスの累積によるダメージが{STATUSEFFECT1MULTIPLIER}%になる。
 {STATUSEFFECT2TURNS}ターンの間、すべての回復が{STATUSEFFECT2HEALING}%になる。
 ステータス異常の源は最大{MAXACTIVATIONCOUNT}回発動する。効果を発動させるたびに、残り発動回数が1回減少する。"
 "specials.v2.statuseffect.major.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.mage_armor_hygd.heal_increase_hygd","ステータス効果生成：次の{MAXACTIVATIONCOUNT}ターンの開始時に、{STATUSEFFECT1TURNS}ターンの間、このキャラクターが仲間全員に特殊スキルに対する防御力を{STATUSEFFECT1DEFENSE}%付与し、全ての回復量を{STATUSEFFECT2HEALING}%増加させる。この効果は解除できない。"
 "specials.v2.statuseffect.major.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.mage_armor_hygd.heal_increase_hygd.dispelincreasesactivations","バフの源：各ターン開始時に、仲間全員に次の効果を付与する：
-{STATUSEFFECT1TURNS}ターンの間、ステータス異常に対する防御が{STATUSEFFECT1DEFENSE}%になる。
+{STATUSEFFECT1TURNS}ターンの間、特殊スキルに対する防御が{STATUSEFFECT1DEFENSE}%になる。
 {STATUSEFFECT2TURNS}ターンの間、すべての回復が{STATUSEFFECT2HEALING}%になる。
-ステータス異常の源は最大{MAXACTIVATIONCOUNT}回発動する。効果を発動させるたびに、残り発動回数が1回減少する。"
+バフの源は最大{MAXACTIVATIONCOUNT}回発動する。この解除を試みるたびに、残り発動回数が1回減少する。"
 "specials.v2.statuseffect.major.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.mana_regen_aeschere.heal_increase_aeschere","ステータス効果生成：次の{MAXACTIVATIONCOUNT}ターンの開始時に、{STATUSEFFECT1TURNS}ターンの間、このキャラクターが追加でいずれかの仲間に{STATUSEFFECT1MANAREGEN}%のマナ生成を付与し、全ての回復量を{STATUSEFFECT2HEALING}%増加させる。この効果は解除できない。"
 "specials.v2.statuseffect.major.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.mana_regen_aeschere.heal_increase_aeschere.dispelincreasesactivations","バフの源：各ターン開始時に、いずれかの味方1体に次の効果を付与する：
 {STATUSEFFECT1TURNS}ターンの間、マナ生成が{STATUSEFFECT1MANAREGEN}%になる。
@@ -1606,6 +1665,16 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 {REPLACEDSPECIALDESCRIPTION}"
 "specials.v2.statuseffect.major.ubertitanstackingattackmodifier.single.allies","累積効果(最大：{MAXSTACK}):ミシックタイタンの攻撃力が{ATTACK}%になる。この効果は{TURNS}ターン続く。"
 "specials.v2.statuseffect.major.ubertitanstackingreceiveddamagemodifier.single.allies.decrease","累積効果(最大：{MAXSTACK}):受けるダメージが{DAMAGEREDUCTION}%減少する。この効果は{TURNS}ターン続く。"
+"specials.v2.statuseffect.major.vibrantfortunedancemultieffect.neartotargetexceptcaster.allies.vibrant_fortune_dance","近くにいる味方が{TURNS}の間、活力の幸運のダンスを踊る。
+
+活力の幸運のダンス
+{STATUSEFFECTS}
+幸運のダンスは、他のダンス効果と累積する。"
+"specials.v2.statuseffect.major.vibrantfortunedancemultieffect.neartotargetexceptcaster.allies.vibrant_fortune_dance_ling_long","近くにいる味方が{TURNS}の間、活力の幸運のダンスを踊る。
+
+活力の幸運のダンス
+{STATUSEFFECTS}
+幸運のダンスは、他のダンス効果と累積する。"
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","{TURNS}ターンの間、敵全員の命中率が{ACCURACY}%になる。"
 "specials.v2.statuseffect.minor.accuracymodifier.allminor.enemies","{TURNS}ターンの間、ターゲットの命中率が{ACCURACY}%に、その他の敵の命中率が{MINORACCURACY}%になる。"
 "specials.v2.statuseffect.minor.accuracymodifier.blue.enemies","{TURNS}ターンの間、氷属性の敵全員の命中率が{ACCURACY}%になる。"
@@ -1624,9 +1693,11 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.addinsanitystatuseffectskill.single.allies.on.allyspecial.damage.neartotarget.enemies.add_insanity_dolores","次の{TURNS}ターンの間に、いずれかの仲間が特殊スキルを使用する度に、このキャラクターがランダムなターゲット1体と近くにいる敵に{POWER1}%のダメージを与え、{STATUSEFFECT1INSANITYTOADD}狂気を付与する。"
 "specials.v2.statuseffect.minor.addinsanitystatuseffectskill.single.allies.on.allyspecial.damage.single.enemies","次の{TURNS}ターンの間に、いずれかの仲間が特殊スキルを使用する度に、このキャラクターがランダムな敵1体に{POWER1}%のダメージを与え、{STATUSEFFECT1INSANITYTOADD}狂気を付与する。"
 "specials.v2.statuseffect.minor.additivebleeding.neartotarget.enemies.noturns","毎ターン、ターゲットと近くにいる敵に{BASICDAMAGE}の即時出血ダメージを与える。"
+"specials.v2.statuseffect.minor.addstatuseffectonremoval.all.enemies.onremoval.expiration.paralysis_ivete.turns.one","1ターン後、敵全員が2ターンの間マヒ状態になる。"
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_charmione","{TURNS}ターン後、ターゲットと近くにいる敵が{STATUSEFFECT1TURNS}ターンの間マヒ状態になる。マヒした敵は攻撃したりマナを獲得したりすることができず、{STATUSEFFECT1DAMAGEMODIFIER}%の追加ダメージを受ける。"
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_charmione.turns.one","{TURNS}ターン後、ターゲットと近くにいる敵が{STATUSEFFECT1TURNS}ターンの間マヒ状態になる。"
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_foxley.single.allies.turns.one","{TURNS}ターン後、ターゲットと近くにいる敵が{STATUSEFFECT1TURNS}ターンの間マヒ状態になる。"
+"specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_ivete.turns.one","1ターン後、ターゲットと近くにいる敵が2ターンの間マヒ状態になる。"
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_knightus","{TURNS}ターン後、ターゲットと近くにいる敵が{STATUSEFFECT1TURNS}ターンの間マヒ状態になる。マヒした敵は攻撃したりマナを獲得したりすることができず、{STATUSEFFECT1DAMAGEMODIFIER}%の追加ダメージを受ける。"
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_knightus.turns.one","{TURNS}ターン後、ターゲットと近くにいる敵が{STATUSEFFECT1TURNS}ターンの間マヒ状態になる。マヒした敵は攻撃したりマナを獲得したりすることができず、{STATUSEFFECT1DAMAGEMODIFIER}%の追加ダメージを受ける。"
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.neartotarget.enemies.onremoval.expiration.paralysis_merith.turns.one","1ターン後、ターゲットと近くにいる敵が2ターンの間マヒ状態になる。"
@@ -1639,12 +1710,14 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis.single.allies.turns.one","{TURNS}ターン後に、ターゲットが{STATUSEFFECT1TURNS}ターンの間マヒ状態になる。"
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_fruitio.single.allies.turns.one","{TURNS}ターン後に、ターゲットが{STATUSEFFECT1TURNS}ターンの間マヒ状態になる。"
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_knightus.turns.one","{TURNS}ターン後に、ターゲットが{STATUSEFFECT1TURNS}ターンの間マヒ状態になる。"
+"specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_marzul.turns.one","1ターン後、ターゲットが2ターンの間マヒ状態になる。"
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_wilcox.turns.one","{TURNS}ターン後に、ターゲットが{STATUSEFFECT1TURNS}ターンの間マヒ状態になる。"
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.paralysis.single.allies.turns.one","{TURNS}ターン後に、ターゲットが{STATUSEFFECT1TURNS}ターンの間マヒ状態になる。"
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.paralysis_fruitio.turns.one","{TURNS}ターン後に、ターゲットが{STATUSEFFECT1TURNS}ターンの間マヒ状態になる。"
 "specials.v2.statuseffect.minor.amplifieddamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.onremoval.damage.all.enemies.dispel.removal.reallocation.death.replacesamestatuseffect.override.enterabsentform","{TURNS}ターン後に、敵全員に{REMOVALEFFECT1FIXEDPOWER}のダメージを与える。この効果が終了する前に解除または置き換えられた場合は、敵全員に{REMOVALEFFECT2FIXEDPOWER}のダメージを与える。"
 "specials.v2.statuseffect.minor.amplifiedhealonremoval.all.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect.override.enterabsentform","{TURNS}ターン後に、仲間全員のライフを{REMOVALEFFECT1FIXEDPOWER}回復する。この効果が終了する前に解除または置き換えられた場合は、{REMOVALEFFECT2FIXEDPOWER}ライフを回復する。"
 "specials.v2.statuseffect.minor.amplifiedhealonremoval.neartotarget.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect.override.enterabsentform","{TURNS}ターン後に、術者と近くにいる仲間が{REMOVALEFFECT1FIXEDPOWER}ライフを回復する。この効果が終了する前に解除または置き換えられた場合は、{REMOVALEFFECT2FIXEDPOWER}ライフを回復する。"
+"specials.v2.statuseffect.minor.amplifiedhealonremoval.single.allies.onremoval.heal.single.allies.expiration.onremoval.heal.single.allies.dispel.removal.reallocation.replacesamestatuseffect","{TURNS}ターン後に、術者のライフを{REMOVALEFFECT1FIXEDPOWER}回復する。この効果が終了する前に解除または置き換えられた場合は、{REMOVALEFFECT2FIXEDPOWER}ライフを回復する。"
 "specials.v2.statuseffect.minor.amplifiedmanaonremoval.all.allies.onremoval.addmana.single.allies.expiration.onremoval.addmana.single.allies.dispel.removal.reallocation.override.enterabsentform","{TURNS}ターン後に、仲間全員が{REMOVALEFFECT1POWER}%のマナを獲得する。この効果が終了する前に解除された場合は、{REMOVALEFFECT2POWER}%のマナを獲得する。"
 "specials.v2.statuseffect.minor.assistskillaccuracymodifier.all.enemies","{TURNS}ターンの間、敵全員の命中率が{ACCURACY}%になる。"
 "specials.v2.statuseffect.minor.assistskillattackmodifier.all.allies","{TURNS}ターンの間、仲間全員の攻撃力が{ATTACK}%になる。"
@@ -1667,7 +1740,10 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.assistskillspecialskilldefensemodifier.all.enemies","{TURNS}ターンの間、敵全員の特殊スキルに対する防御力が{SPECIALSKILLDEFENSE}%になる。"
 "specials.v2.statuseffect.minor.astralorbaddstatuseffectsonremoval.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.onremoval.dispel.bouncing_damage_over_time_anatemah.single.allies.chain_strike","攻撃を受けた敵をアストラルオーブによって苦しめる。アストラルオーブの影響を受けている間、所有者は新たなステータス効果バフを獲得できない。
  アストラルオーブは{TURNS}ターンで爆発して所有者に{DAMAGE}ダメージを与える。
- アストラルオーブが浄化されると、所有者は{STATUSEFFECT1TURNS}ターンにわたって共鳴ダメージを受ける。共鳴ダメージは毎ターン{STATUSEFFECT1DAMAGEPERTURN}ダメージを与える。共鳴ダメージはランダムな敵{MAXBOUNCES}体に波及して{DAMAGEPERBOUNCE}ダメージを与える。"
+ アストラルオーブが浄化されると、所有者は{STATUSEFFECT1TURNS}ターンにわたって共鳴ダメージを受ける。共鳴ダメージは、影響を受けた敵に{STATUSEFFECT1DAMAGEPERTURN}ダメージを、周囲の敵に{RESONANCEDAMAGE}ダメージを与える。"
+"specials.v2.statuseffect.minor.astralorbaddstatuseffectsonremoval.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.onremoval.dispel.resonance_damage_over_time_anatemah.single.allies.chain_strike","攻撃を受けた敵をアストラルオーブによって苦しめる。アストラルオーブの影響を受けている間、所有者は新たなステータス効果バフを獲得できない。
+ アストラルオーブは{TURNS}ターンで爆発して所有者に{DAMAGE}ダメージを与える。
+ アストラルオーブが浄化されると、所有者は{STATUSEFFECT1TURNS}ターンにわたって共鳴ダメージを受ける。共鳴ダメージは、影響を受けた敵に{STATUSEFFECT1DAMAGEPERTURN}ダメージを、周囲の敵に{RESONANCEDAMAGE}ダメージを与える。"
 "specials.v2.statuseffect.minor.attackmodifier.all.allies","{TURNS}ターンの間、仲間全員の攻撃力が{ATTACK}%になる。"
 "specials.v2.statuseffect.minor.attackmodifier.all.allies.noturns","仲間全員の攻撃力が継続的に{ATTACK}%になる。"
 "specials.v2.statuseffect.minor.attackmodifier.all.enemies","{TURNS}ターンの間、敵全員の攻撃力が{ATTACK}%になる。"
@@ -1736,6 +1812,7 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.bleeding.single.enemies.chain_strike","{TURNS}ターンの間、攻撃が当たったターゲットに{DAMAGE}の出血ダメージを与える。"
 "specials.v2.statuseffect.minor.bleeding.single.enemies.contagious","{TURNS}ターンの間、ターゲットに{DAMAGE}の出血ダメージを与える。この効果は近くにいる敵にも波及する。"
 "specials.v2.statuseffect.minor.bleeding.single.enemies.noturns","毎ターン、ターゲットに{DAMAGE}の継続出血ダメージを与える。"
+"specials.v2.statuseffect.minor.bleeding.smallfamiliarowners.enemies","{TURNS}ターンの間、ミニオンまたはフィエンドを所有する敵全員に{DAMAGE}の出血ダメージを与える。"
 "specials.v2.statuseffect.minor.bleedmark.all.enemies.stackingreceiveddamagemodifier.bleed","{TURNS}ターンの間、敵全員に出血マークが付く。マークが付いたターゲットが出血ダメージを受けると、そのターゲットに累積効果（最大：{STATUSEFFECT1MAXSTACK}）が付与される。累積効果が付与されるごとに、そのターゲットが受けるダメージを{STATUSEFFECT1DAMAGEMODIFIER}%増加させる。"
 "specials.v2.statuseffect.minor.bleedmark.neartotarget.enemies.stackingreceiveddamagemodifier.bleed","{TURNS}ターンの間、ターゲットと近くにいる敵に出血マークが付く。マークが付いたターゲットが出血ダメージを受けると、そのターゲットに累積効果（最大：{STATUSEFFECT1MAXSTACK}）が付与される。累積効果が付与されるごとに、そのターゲットが受けるダメージを{STATUSEFFECT1DAMAGEMODIFIER}%増加させる。"
 "specials.v2.statuseffect.minor.bleedmark.single.enemies.stackingreceiveddamagemodifier.bleed","{TURNS}ターンの間、ターゲットに出血マークが付く。マークが付いたターゲットが出血ダメージを受けると、そのターゲットに累積効果（最大：{STATUSEFFECT1MAXSTACK}）が付与される。累積効果が付与されるごとに、そのターゲットが受けるダメージを{STATUSEFFECT1DAMAGEMODIFIER}%増加させる。"
@@ -1751,6 +1828,7 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.blockstatuseffectcasting.single.enemies.chain_strike.only_main_target","{TURNS}ターンの間、ターゲットが仲間や敵に対して新たなステータス効果を付与できなくする。"
 "specials.v2.statuseffect.minor.blocktalentskillactivation.all.enemies","{TURNS}ターンの間、全ての敵がアビリティスキルを使用できないようブロックする"
 "specials.v2.statuseffect.minor.blocktalentskillactivation.single.enemies","{TURNS}ターンの間、ターゲットがアビリティスキルを使用できないようブロックする。"
+"specials.v2.statuseffect.minor.blocktalentskillactivation.single.enemies.chain_strike.chain_strike_cassilda.on_additional_hit","攻撃が当たった敵は{TURNS}ターンの間、アビリティスキルを使用不可能になる。"
 "specials.v2.statuseffect.minor.blocktauntcasting.all.enemies","{TURNS}ターンの間、敵全員が新たな挑発のステータス効果を付与できなくする。"
 "specials.v2.statuseffect.minor.blocktauntcasting.neartotarget.enemies","{TURNS}ターンの間、ターゲットと近くにいる敵が新たな挑発のステータス効果を付与できなくする。"
 "specials.v2.statuseffect.minor.bloodpoisoning.all.enemies","{TURNS}ターンの間、敵全員に{BASICDAMAGE}の即時出血ダメージを与える。"
@@ -1791,6 +1869,7 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.buffimmunity.single.enemies.damage","{TURNS}ターンの間、ターゲットに追加される新しいステータス効果を付与するバフを無効化する。さらに、バフを追加しようとするたびに{POWER}ダメージを受ける。"
 "specials.v2.statuseffect.minor.buffimmunity.single.enemies.damage.chain_strike","{TURNS}ターンの間、攻撃を受けたターゲット全員に、新しく追加されるステータス効果を付与するバフを無効化する。さらに、バフを追加しようとするたびに{POWER}ダメージを受ける。"
 "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration","{TURNS}ターン後に、この効果が発動中に術者が受けたダメージに基づいて、{DAMAGE}-{MAXDAMAGE}のダメージを敵全員に与える。"
+"specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death","{TURNS}ターン後あるいは術者が倒された場合、この効果が発動中に術者が受けたダメージに基づいて、{DAMAGE}-{MAXDAMAGE}のダメージを敵全員に与える。"
 "specials.v2.statuseffect.minor.buildupdamageonremoval.single.allies.powermultiplier","この効果が発動中に術者が受けたダメージに基づいて、{TURNS}ターン後に、{POWER}%-{MAXPOWER}%のダメージを敵全員に与える。"
 "specials.v2.statuseffect.minor.burn.all.allies","{TURNS}ターンの間、仲間全員に{DAMAGE}の燃焼ダメージを与える。"
 "specials.v2.statuseffect.minor.burn.all.enemies","{TURNS}ターンの間、敵全員に{DAMAGE}の燃焼ダメージを与える。"
@@ -1871,16 +1950,16 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.damageonremoval.allexceptcaster.allies.onremoval.damage.all.enemies.death","{TURNS}ターン以内に術者以外のいずれかの仲間が倒れた場合、敵全員に{DAMAGE}ダメージを与える。"
 "specials.v2.statuseffect.minor.damageonremoval.single.allies.onremoval.damage.random.enemies.death","{TURNS}ターン以内に術者が倒れた場合、ランダムな敵1体に{DAMAGE}ダメージを与える。"
 "specials.v2.statuseffect.minor.damageonremoval.single.enemies.onremoval.damage.all.allies.death","{TURNS}ターン以内にターゲットを倒した場合、敵全員に{DAMAGE}ダメージを与える。"
-"specials.v2.statuseffect.minor.debuffdamagemodifier.all.allies","仲間全員がステータス異常によって受けるダメージを{MULTIPLIER}%減らす({TURNS}ターン)"
-"specials.v2.statuseffect.minor.debuffdamagemodifier.all.enemies","{TURNS}ターンの間、敵全員がステータス異常から受けるダメージが{MULTIPLIER}%増加する。"
-"specials.v2.statuseffect.minor.debuffdamagemodifier.bleed.all.enemies","{TURNS}ターンの間、敵全員が出血のステータス異常から受けるダメージが{MULTIPLIER}%増加する。"
-"specials.v2.statuseffect.minor.debuffdamagemodifier.bleed.single.enemies.chain_strike","{TURNS}ターンの間、攻撃を受けたターゲット全員が出血のステータス異常から受けるダメージが{MULTIPLIER}%増加する。"
-"specials.v2.statuseffect.minor.debuffdamagemodifier.burn.poison.all.enemies","{TURNS}ターンの間、敵全員が燃焼と毒のステータス異常から受けるダメージが{MULTIPLIER}%増加する。"
-"specials.v2.statuseffect.minor.debuffdamagemodifier.neartotarget.enemies","{TURNS}ターンの間、ターゲットと近くにいる敵がステータス異常から受けるダメージが{MULTIPLIER}%増加する。"
-"specials.v2.statuseffect.minor.debuffdamagemodifier.neartotarget.enemies.noturns","ターゲットと近くにいる敵がステータス異常から受けるダメージが継続的に{MULTIPLIER}%増加する。"
-"specials.v2.statuseffect.minor.debuffdamagemodifier.resist_completely.all.allies","{TURNS}ターンの間、仲間全員がステータス異常によるダメージを受けない。"
-"specials.v2.statuseffect.minor.debuffdamagemodifier.resist_completely.neartotarget.allies","{TURNS}ターンの間、術者と近くにいる仲間がステータス異常を無効化する。"
-"specials.v2.statuseffect.minor.debuffdamagemodifier.single.enemies","{TURNS}ターンの間、ターゲットがステータス異常から受けるダメージが{MULTIPLIER}%増加する。"
+"specials.v2.statuseffect.minor.debuffdamagemodifier.all.allies","仲間全員がステータス異常とマイナスの累積によって受けるダメージを{MULTIPLIER}%減らす({TURNS}ターン)"
+"specials.v2.statuseffect.minor.debuffdamagemodifier.all.enemies","{TURNS}ターンの間、敵全員がステータス異常とマイナスの累積から受けるダメージが{MULTIPLIER}%増加する。"
+"specials.v2.statuseffect.minor.debuffdamagemodifier.bleed.all.enemies","{TURNS}ターンの間、敵全員が出血ステータス異常とマイナスの累積から受けるダメージが{MULTIPLIER}%増加する。"
+"specials.v2.statuseffect.minor.debuffdamagemodifier.bleed.single.enemies.chain_strike","{TURNS}ターンの間、攻撃の当たったターゲット全員が出血ステータス異常とマイナスの累積から受けるダメージが{MULTIPLIER}%増加する。"
+"specials.v2.statuseffect.minor.debuffdamagemodifier.burn.poison.all.enemies","{TURNS}ターンの間、敵全員が燃焼と毒のステータス異常とマイナスの累積から受けるダメージが{MULTIPLIER}%増加する。"
+"specials.v2.statuseffect.minor.debuffdamagemodifier.neartotarget.enemies","{TURNS}ターンの間、ターゲットと近くにいる敵がステータス異常とマイナスの累積から受けるダメージが{MULTIPLIER}%増加する。"
+"specials.v2.statuseffect.minor.debuffdamagemodifier.neartotarget.enemies.noturns","ターゲットと近くにいる敵がステータス異常とマイナスの累積から受けるダメージが継続的に{MULTIPLIER}%増加する。"
+"specials.v2.statuseffect.minor.debuffdamagemodifier.resist_completely.all.allies","{TURNS}ターンの間、仲間全員がステータス異常とマイナスの累積によるダメージを受けない。"
+"specials.v2.statuseffect.minor.debuffdamagemodifier.resist_completely.neartotarget.allies","{TURNS}ターンの間、術者と近くにいる仲間がステータス異常とマイナスの累積を無効化する。"
+"specials.v2.statuseffect.minor.debuffdamagemodifier.single.enemies","{TURNS}ターンの間、ターゲットがステータス異常とマイナスの累積から受けるダメージが{MULTIPLIER}%増加する。"
 "specials.v2.statuseffect.minor.debuffshield.all.allies","{TURNS}ターンの間、仲間全員が新たなステータス異常を受けない。"
 "specials.v2.statuseffect.minor.debuffshield.all.allies.heal","{TURNS}ターンの間、仲間全員の新しいステータス異常を無効化する。さらに、ステータス異常を発動されるたびに、ライフが{POWER}回復する。"
 "specials.v2.statuseffect.minor.debuffshield.neartotarget.allies","{TURNS}ターンの間、術者と近くにいる仲間が新しいステータス異常を無効化する。"
@@ -2007,7 +2086,9 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 ターン毎の属性変更の後、聖属性の敵は、{DAMAGEPERTURN}ダメージを受ける。"
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","術者の攻撃力が{ATTACK}%になる。{TURNS}ターンの間、術者または仲間が攻撃を受けるたびに、術者の攻撃力はさらに{CHANGE}%ずつ増加する（最大{MAXMODIFIER}%まで）。この効果終了時に、敵全員が{DAMAGE}ダメージを受ける。この効果が有効な間は、術者または仲間が攻撃されるたびに、敵に与えるダメージが{MAXDAMAGE}を上限に{ADDITIONALDAMAGEPERHIT}ずつ増加する。"
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","{TURNS}ターンの間、仲間全員が通常攻撃と特殊攻撃によって、ライフがブーストされたターゲットに与えるダメージが{DAMAGEMULTIPLIER}%になる。"
+"specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","敵全員が{TURNS}ターンの間、恐怖に屈する。"
 "specials.v2.statuseffect.minor.fearstatuseffectskill.single.enemies.on.allyspecial.damage.random.allies","ターゲットが{TURNS}ターンの間、恐怖に屈する。"
+"specials.v2.statuseffect.minor.fearstatuseffectskill.single.enemies.on.allyspecial.damage.random.allies.chain_strike.only_main_target","ターゲットが{TURNS}ターンの間、恐怖に屈する。"
 "specials.v2.statuseffect.minor.fixedattackmodifier.all.allies","{TURNS}ターンの間、仲間全員の攻撃力が{ATTACK}になる。"
 "specials.v2.statuseffect.minor.fixedattackmodifier.all.enemies","{TURNS}ターンの間、敵全員の攻撃力が{ATTACK}になる。"
 "specials.v2.statuseffect.minor.fixedattackmodifier.all.enemies.removeonhealfromspecialreceived","特殊スキルで回復されるまでの間、敵全員の攻撃力が{ATTACK}になる。"
@@ -2066,6 +2147,7 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.frost.neartotarget.enemies.absorb_boostedhealth.to.all","{TURNS}ターンの間、ターゲットと近くにいる敵に{DAMAGE}のフロストダメージを与える。術者と仲間全員が、出血ダメージで与えたダメージの{ABSORBHEALING}%を回復する。"
 "specials.v2.statuseffect.minor.frost.neartotarget.enemies.removeonhealfromspecialreceived","特殊スキルで回復されるまでの間、ターゲットと近くにいる敵が毎ターン{DAMAGEPERTURN}のフロストダメージを受ける。"
 "specials.v2.statuseffect.minor.frost.neartotargetexceptmaintarget.enemies.if_main_target_is.red","ターゲットが炎属性の場合、近くにいる敵が{TURNS}ターンにわたって{DAMAGE}フロストダメージを受ける。"
+"specials.v2.statuseffect.minor.frost.sides.enemies","敵陣形の両端にいる敵に{DAMAGE}のフロストダメージを与える({TURNS}ターン)。"
 "specials.v2.statuseffect.minor.frost.single.enemies","{TURNS}ターンの間、ターゲットに{DAMAGE}のフロストダメージを与える。"
 "specials.v2.statuseffect.minor.frost.single.enemies.chain_strike","{TURNS}ターンの間、攻撃が当たったターゲットに{DAMAGE}のフロストダメージを与える。"
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","{TURNS}ターンの間、ターゲットに{DAMAGE}のフロストダメージを与える。この効果は近くにいる敵にも波及する。"
@@ -2084,6 +2166,9 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.greendefensemodifier.neartotarget.allies","{TURNS}ターンの間、術者と近くにいる仲間の自然属性に対する防御力が{DEFENSE}%になる。"
 "specials.v2.statuseffect.minor.greendefensemodifier.neartotarget.enemies","{TURNS}ターンの間、ターゲットと近くにいる敵の自然属性に対する防御力が{DEFENSE}%になる。"
 "specials.v2.statuseffect.minor.greendefensemodifier.single.enemies","{TURNS}ターンの間、ターゲットの自然属性への防御力が{DEFENSE}%になる。"
+"specials.v2.statuseffect.minor.greentrap.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.chain_strike.amplified.against_blue.against_titan.modifies_power","攻撃を受けた敵をスパイクトラップによって苦しめる。
+スパイクトラップは、ターゲットの自然属性防御力を{DEFENSE}%にする。氷属性のタイタンに対しては、スパイクトラップはターゲットの自然属性防御力を{AMPLIFIEDDEFENSE}%にする。
+スパイクトラップは{TURNS}ターン後に爆発し、その所有者に{DAMAGE}のダメージを与える。"
 "specials.v2.statuseffect.minor.healingdebuffimmunity.all.allies.removeresistedeffectsoncreation","{TURNS}ターンの間、仲間全員が回復に影響する新たなステータス異常を無効化する。仲間全員から回復に影響するステータス異常を削除する。"
 "specials.v2.statuseffect.minor.healmultiplier.all.allies","{TURNS}ターンの間、仲間全員の回復量が{HEALING}%増加する。"
 "specials.v2.statuseffect.minor.healmultiplier.all.allies.decrease","{TURNS}ターンの間、仲間全員の回復量が{HEALING}%増加する。"
@@ -2130,7 +2215,8 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.increasingpoison.single.enemies","{TURNS}ターンの間、ターゲットに{DAMAGE}の毒ダメージを与える。与えるダメージは小ダメージから始まり、徐々に増加する。"
 "specials.v2.statuseffect.minor.increasingproportionalmanarecovery.neartotarget.allies","{TURNS}ターンの間、術者と近くにいる仲間がターン毎にマナを獲得する。このマナはターン毎に増加し、1ターンに増加するマナが{MAXMANAPERTURN}%になるまでこの効果は継続する。"
 "specials.v2.statuseffect.minor.increasingproportionalmanarecovery.neartotargetexceptcaster.allies","{TURNS}ターンの間、近くにいる仲間がターン毎にマナを獲得する。このマナはターン毎に増加し、1ターンに増加するマナが{MAXMANAPERTURN}%になるまでこの効果は継続する。"
-"specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.single.allies.removeonspecialcast","術者が次に発動する特殊スキルのパワーが{POWER}%になる。追加パワーは、ターン毎に{INCREASEPERTURN}%ずつ増加し、合計で最大{MAXPOWERADDITION}%まで増加する。"
+"specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.allexceptcaster.allies.removeonspecialcast","術者を除く味方全員が次に発動する特殊スキルの攻撃力が{POWER}%になる。追加攻撃力は、ターン毎に{INCREASEPERTURN}%ずつ増加し、合計で最大{MAXPOWERADDITION}%まで増加する。"
+"specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.single.allies.removeonspecialcast","術者が次に発動する特殊スキルの攻撃力が{POWER}%になる。追加攻撃力は、ターン毎に{INCREASEPERTURN}%ずつ増加し、合計で最大{MAXPOWERADDITION}%まで増加する。"
 "specials.v2.statuseffect.minor.insanityonhit.single.allies","次の{TURNS}ターンの間、術者は自身が攻撃を受けるたびに敵全員に対して{STATUSEFFECT1INSANITYTOADD}狂気を付与する。この効果は、敵が特殊スキルによりダメージを与えると発動する。タイルと通常攻撃は1ターン1回に限定される。"
 "specials.v2.statuseffect.minor.invisible.single.allies.all.enemies.expiration.while.caster.allies.hastargetableallies","術者にターゲット可能な仲間がいる場合、{TURNS}ターンの間、その術者が「ターゲット不可」の状態になる。さらにその最後のターンまたは術者が最後のターゲット可能なキャラクターになると、敵全員に{FIXEDPOWER}ダメージを与える。"
 "specials.v2.statuseffect.minor.lifesteal.all.allies","{TURNS}ターンの間、仲間全員が通常攻撃で敵に与えたダメージの{LIFESTEAL}%を回復する。"
@@ -2142,6 +2228,7 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.lightning.single.enemies","{TURNS}ターンの間、ターゲットがターン毎に{MINDAMAGEPERTURN}～{MAXDAMAGEPERTURN}の電撃ダメージを受ける。"
 "specials.v2.statuseffect.minor.lightning.single.enemies.onremoval.damage.all.allies.deathbythiseffect","{TURNS}ターンの間、ターゲットがターン毎に{MINDAMAGEPERTURN}～{MAXDAMAGEPERTURN}の電撃ダメージを受ける。ターゲットが電撃ダメージで倒れた場合、敵全員が{FIXEDPOWER}ダメージを受ける。"
 "specials.v2.statuseffect.minor.manacorruption.all.enemies.single.allies","{TURNS}ターンの間、敵全員がマナ崩壊の影響を受ける。マナ崩壊の影響に苦しむいずれかの敵が追加のマナ供給源からマナを入手するたびに、敵全員に{DAMAGE}ダメージが付与される。"
+"specials.v2.statuseffect.minor.manacorruption.neartotarget.enemies.single.allies","{TURNS}ターンの間、ターゲットと近くにいる敵がマナ崩壊の影響を受ける。マナ崩壊の影響に苦しむいずれかの敵が追加のマナ供給源からマナを入手するたびに、敵全員に{DAMAGE}ダメージが付与される。"
 "specials.v2.statuseffect.minor.manafreeze.all.enemies","敵全員がマナを生成できなくなる({TURNS}ターン)"
 "specials.v2.statuseffect.minor.manafreeze.neartotarget.enemies","{TURNS}ターンの間、ターゲットと近くにいる敵がマナを獲得できなくなる。"
 "specials.v2.statuseffect.minor.manafreeze.single.allies","術者がマナを生成できなくなる({TURNS}ターン)"
@@ -2211,13 +2298,24 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.moonriseward.single.allies.decrease.specialskill.yellow","{TURNS}ターンの間、術者にムーンライズウォードが付与され、特殊スキルによる被ダメージを最大で{MAX}軽減する。ダメージ軽減効果は、防御者の防御力と攻撃者の攻撃力によって決まる。攻撃者が聖属性の場合、さらにダメージが{ADDITIONALDAMAGEMODIFIER}%軽減される。"
 "specials.v2.statuseffect.minor.mysterypotion.all.enemies.onremoval.damage.single.allies.expiration.mana_freeze","敵全員に「謎のポーション」が付与される。「謎のポーション」は{TURNS}ターン後に爆発し、ターゲットに{DAMAGE}ダメージを与える。爆発後の{STATUSEFFECT1TURNS}ターンは、ターゲットのマナが回復しなくなる。"
 "specials.v2.statuseffect.minor.normalattackmodifier.all.allies","{TURNS}ターンの間、仲間全員の通常攻撃が{ATTACK}%になる。この効果は、通常攻撃を変化させる一般的な効果とは別に有効化することができる。この効果が有効な間、通常攻撃は最大で{MAXATTACK}%まで増加できる。"
+"specials.v2.statuseffect.minor.normalattackmodifier.blue.allies","{TURNS}ターンの間、氷属性の仲間全員の通常攻撃が{ATTACK}%になる。この効果は、通常攻撃を変化させる一般的な効果とは別に有効化することができる。この効果が有効な間、通常攻撃は最大で{MAXATTACK}%まで増加する。"
+"specials.v2.statuseffect.minor.normalattackmodifier.green.allies","{TURNS}ターンの間、自然属性の仲間全員の通常攻撃が{ATTACK}%になる。この効果は、通常攻撃を変化させる一般的な効果とは別に有効化することができる。この効果が有効な間、通常攻撃は最大で{MAXATTACK}%まで増加する。"
 "specials.v2.statuseffect.minor.normalattackmodifier.neartotarget.allies","{TURNS}ターンの間、術者と近くにいる仲間の通常攻撃が{ATTACK}%になる。この効果は、通常攻撃を変化させる一般的な効果とは別に有効化することができる。この効果が有効な間、通常攻撃は最大で{MAXATTACK}%まで増加できる。"
+"specials.v2.statuseffect.minor.normalattackmodifier.purple.allies","{TURNS}ターンの間、闇属性の仲間全員の通常攻撃が{ATTACK}%になる。この効果は、通常攻撃を変化させる一般的な効果とは別に有効化することができる。この効果が有効な間、通常攻撃は最大で{MAXATTACK}%まで増加する。"
+"specials.v2.statuseffect.minor.normalattackmodifier.red.allies","{TURNS}ターンの間、炎属性の仲間全員の通常攻撃が{ATTACK}%になる。この効果は、通常攻撃を変化させる一般的な効果とは別に有効化することができる。この効果が有効な間、通常攻撃は最大で{MAXATTACK}%まで増加する。"
 "specials.v2.statuseffect.minor.normalattackmodifier.single.allies","術者の通常攻撃が{ATTACK}%になる({TURNS}ターン)"
+"specials.v2.statuseffect.minor.normalattackmodifier.yellow.allies","{TURNS}ターンの間、聖属性の仲間全員の通常攻撃が{ATTACK}%になる。この効果は、通常攻撃を変化させる一般的な効果とは別に有効化することができる。この効果が有効な間、通常攻撃は最大で{MAXATTACK}%まで増加する。"
+"specials.v2.statuseffect.minor.normalattacknullifier.all.enemies","{TURNS}ターンの間、敵全員の兵団ダメージが無効になる。"
 "specials.v2.statuseffect.minor.normalattacknullifier.neartotarget.enemies","{TURNS}ターンの間、ターゲットと近くにいる敵の兵団ダメージが無効になる。"
+"specials.v2.statuseffect.minor.normalattacknullifier.sides.enemies","{TURNS}ターンの間、敵陣形の両端にいる敵の兵団ダメージが無効になる。"
+"specials.v2.statuseffect.minor.normalattacknullifier.single.enemies","{TURNS}ターンの間、ターゲットの兵団ダメージが無効になる。"
+"specials.v2.statuseffect.minor.normalattacknullifier.single.enemies.chain_strike","{TURNS}ターンの間、攻撃の当たったターゲット全員の兵団ダメージが無効になる。"
 "specials.v2.statuseffect.minor.normalattackreceiveddamagemodifier.neartotargetminor.enemies","3ターンの間、ターゲットが通常攻撃から{DAMAGEMODIFIER}%の追加ダメージを、近くにいる敵が通常攻撃から{MINORDAMAGEMODIFIER}%のダメージを受ける。"
 "specials.v2.statuseffect.minor.painempathy.sides.enemies","{TURNS}ターンの間、敵陣形の端にいる敵が、その仲間に与えられた全ダメージの{DAMAGEMULTIPLIER}%を受ける。"
 "specials.v2.statuseffect.minor.painempathy.single.enemies","{TURNS}ターンの間、ターゲットが、その仲間に与えられた全ダメージの{DAMAGEMULTIPLIER}%を受ける。"
 "specials.v2.statuseffect.minor.poison.all.enemies","{TURNS}ターンの間、敵全員に{DAMAGE}の毒ダメージを与える。"
+"specials.v2.statuseffect.minor.poison.all.enemies.absorb_boostedhealth.to.all","{TURNS}ターンの間、敵全員に{DAMAGE}の毒ダメージを与える。術者と仲間全員は、与えた毒ダメージの{ABSORBHEALING}%をブーストライフとして吸収する。"
+"specials.v2.statuseffect.minor.poison.all.enemies.absorb_boostedhealth.to.single","{TURNS}ターンの間、敵全員に{DAMAGE}の毒ダメージを与える。術者は、与えた毒ダメージの{ABSORBHEALING}%をブーストライフとして吸収する。"
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_healing.to.all","{TURNS}ターンの間、敵全員に{DAMAGE}の毒ダメージを与える。術者と仲間全員は、与えた毒ダメージの{ABSORBHEALING}%を回復として吸収する。"
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_healing.to.single","{TURNS}ターンの間、敵全員に{DAMAGE}の毒ダメージを与える。術者は、与えた毒ダメージの{ABSORBHEALING}%を回復として吸収する。"
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_mana.to.single","{TURNS}ターンにわたって、敵全員が{DAMAGE}の毒ダメージを受ける。毒ダメージが付与されるたびに、術者のマナが少量回復する。"
@@ -2229,6 +2327,7 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.poison.neartotarget.enemies.noturns","毎ターン、ターゲットと近くにいる敵に{DAMAGE}の継続毒ダメージを与える。"
 "specials.v2.statuseffect.minor.poison.sides.enemies","敵陣形の両端にいる敵に{DAMAGE}の毒ダメージを与える({TURNS}ターン)。"
 "specials.v2.statuseffect.minor.poison.single.enemies","{TURNS}ターンの間、ターゲットに{DAMAGE}の毒ダメージを与える。"
+"specials.v2.statuseffect.minor.poison.single.enemies.absorb_boostedhealth.to.single","{TURNS}ターンの間、ターゲットに{DAMAGE}の毒ダメージを与える。術者は、与えた毒ダメージの{ABSORBHEALING}%をブーストライフとして吸収する。"
 "specials.v2.statuseffect.minor.poison.single.enemies.absorb_healing.to.single","{TURNS}ターンの間、ターゲットに{DAMAGE}の毒ダメージを与える。術者は、与えた毒ダメージの{ABSORBHEALING}%を回復として吸収する。"
 "specials.v2.statuseffect.minor.poison.single.enemies.absorb_mana.to.single","{TURNS}ターンにわたって、ターゲットが{DAMAGE}の毒ダメージを受ける。毒ダメージが付与されるたびに、術者のマナが少量回復する。"
 "specials.v2.statuseffect.minor.poison.single.enemies.contagious","{TURNS}ターンの間、ターゲットに{DAMAGE}の毒ダメージを与える。この効果は近くにいる敵にも波及する。"
@@ -2296,6 +2395,9 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.reddefensemodifier.neartotarget.enemies","{TURNS}ターンの間、ターゲットと近くにいる敵の炎属性への防御力が{DEFENSE}%になる。"
 "specials.v2.statuseffect.minor.reddefensemodifier.single.allies","{TURNS}ターンの間、術者の炎属性に対する防御力が{DEFENSE}%になる。"
 "specials.v2.statuseffect.minor.reddefensemodifier.single.enemies","{TURNS}ターンの間、ターゲットの炎属性に対する防御力が{DEFENSE}%になる。"
+"specials.v2.statuseffect.minor.redtrap.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.chain_strike.amplified.against_green.against_titan.modifies_power","攻撃を受けた敵をスパイクトラップによって苦しめる。
+スパイクトラップは、ターゲットの炎属性防御力を{DEFENSE}%にする。自然属性のタイタンに対しては、スパイクトラップはターゲットの炎属性防御力を{AMPLIFIEDDEFENSE}%にする。
+スパイクトラップは{TURNS}ターン後に爆発し、その所有者に{DAMAGE}のダメージを与える。"
 "specials.v2.statuseffect.minor.reducefamiliarhealth.all.enemies.minion.bigminion","敵全員が{TURNS}ターンの間、ミニオンの外傷を負う。
 ミニオンの外傷：毎ターン、ターゲットのミニオンのライフが{HEALTHREDUCTION}%減少し、メガミニオンのライフが{BIGMINIONHEALTHREDUCTION}%減少する。"
 "specials.v2.statuseffect.minor.reducefamiliarhealth.neartotarget.enemies.minion.bigminion","ターゲットと近くにいる敵が{TURNS}ターンの間、ミニオンの外傷を負う。
@@ -2321,6 +2423,10 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.reflectminorbuffs.neartotarget.enemies.randomenemy","{TURNS}ターンにわたり、ターゲットと近くにいる敵がステータス効果バフを跳ね返し、そのバフを相手チームのランダムなキャラクター1体に付与する。"
 "specials.v2.statuseffect.minor.reflectminordebuffs.all.allies.randomenemy","{TURNS}ターンにわたり、仲間全員がステータス異常を跳ね返し、そのステータス異常を相手チームのランダムなキャラクター1体に付与する。"
 "specials.v2.statuseffect.minor.reflectminordebuffs.neartotarget.allies.randomenemy","{TURNS}ターンにわたり、術者と近くにいる仲間がステータス異常を跳ね返し、そのステータス異常を相手チームのランダムなキャラクター1体に付与する。"
+"specials.v2.statuseffect.minor.resilientrot.single.allies.resilient_rot","{TURNS}ターンの間、術者に強靭な腐敗が付与される。
+
+強靭な腐敗
+{STATUSEFFECTS}"
 "specials.v2.statuseffect.minor.resistcleansefromspecial.all.enemies","{TURNS}ターンの間、敵全員が特殊スキルによるステータス異常の浄化または再割り当てができない。"
 "specials.v2.statuseffect.minor.resistcleansefromspecial.all.enemies.while.single.allies.familiaralive.bone_trap_parasite_amund.bone_trap_parasite","敵全員に対する特殊スキルでのステータス異常の浄化または再割り当ては、それらの敵がボーントラップのフィエンドを所有している限り実行できない。"
 "specials.v2.statuseffect.minor.resistcleansefromspecial.neartotarget.enemies","{TURNS}ターンの間、ターゲットと近くにいる敵が特殊スキルによるステータス異常の浄化または再割り当てができない。"
@@ -2332,6 +2438,7 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage","{TURNS}ターンの間、ターゲットが回復不可となり、回復に失敗する度に{FIXEDPOWER}ダメージを受ける。"
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.chain_strike","{TURNS}ターンの間、ターゲットが回復不可となり、回復に失敗する度に{FIXEDPOWER}ダメージを受ける。"
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.chain_strike.chain_strike_turundh.on_additional_hit","{TURNS}ターンの間、二度目に攻撃を与えたターゲットが回復不可となり、回復に失敗する度に{FIXEDPOWER}ダメージを受ける。"
+"specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.noturns.chain_strike","{TURNS}ターンの間、攻撃の当たったターゲット全員が回復不可となり、回復に失敗する度に{FIXEDPOWER}ダメージを受ける。"
 "specials.v2.statuseffect.minor.resistmanaeffects.all.allies","{TURNS}ターンの間、仲間全員が新たなマイナスのマナ効果への耐性を持つ。"
 "specials.v2.statuseffect.minor.resistmanaeffects.all.allies.onresist.addmana.single.allies","{TURNS}ターンの間、仲間全員が新たなマイナスのマナ効果への耐性を持つ。無効化するたびにマナが{POWER}%増加する。"
 "specials.v2.statuseffect.minor.resistmanaeffects.neartotarget.allies.onresist.addmana.single.allies","{TURNS}ターンの間、術者と近くにいる仲間が新たなマイナスのマナ効果への耐性を持つ。無効化するたびにマナが{POWER}%増加する。"
@@ -2349,6 +2456,10 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.resistresurrecteffects.neartotarget.enemies","{TURNS}ターンの間、ターゲットと近くにいる敵が自身を復活させるステータス効果を新たに受けることができない。"
 "specials.v2.statuseffect.minor.resistspecialblocking.all.allies","{TURNS}ターンの間、仲間全員が特殊スキルの使用を妨げる新たな効果への耐性を持つ。"
 "specials.v2.statuseffect.minor.resistspecialblocking.neartotarget.allies","{TURNS}ターンの間、術者と近くにいる仲間が特殊スキルの使用を妨げる新たな効果への耐性を持つ。"
+"specials.v2.statuseffect.minor.resonancedamageovertime.neartotarget.enemies.neartotargetexceptmaintarget","{TURNS}ターンの間、ターゲットと近くにいる敵が共鳴ダメージを受ける。共鳴ダメージは、ターゲットの敵に{DAMAGEPERTURN}ダメージを与え、近くにいる敵に{RESONANCEDAMAGE}ダメージを与える。"
+"specials.v2.statuseffect.minor.resonancedamageovertime.sides.enemies.neartotargetexceptmaintarget","{TURNS}ターンの間、敵陣営の両端にいる敵が共鳴ダメージを受ける。共鳴ダメージは、ターゲットの敵に{DAMAGEPERTURN}ダメージを与え、近くにいる敵に{RESONANCEDAMAGE}ダメージを与える。"
+"specials.v2.statuseffect.minor.resonancedamageovertime.single.enemies.neartotargetexceptmaintarget","{TURNS}ターンの間、ターゲットが共鳴ダメージを受ける。共鳴ダメージは、ターゲットの敵に{DAMAGEPERTURN}ダメージを与え、近くにいる敵に{RESONANCEDAMAGE}ダメージを与える。"
+"specials.v2.statuseffect.minor.resonancedamageovertime.single.enemies.neartotargetexceptmaintarget.chain_strike","{TURNS}ターンの間、攻撃の当たった敵が共鳴ダメージを受ける。共鳴ダメージは、ターゲットの敵に{DAMAGEPERTURN}ダメージを与え、近くにいる敵に{RESONANCEDAMAGE}ダメージを与える。"
 "specials.v2.statuseffect.minor.revive.draugrblessing.all.allies","仲間全員が、ドラウグの恩恵を受ける。恩恵を受けた英雄が{TURNS}ターン以内に倒れると、ドラウグとなって生まれ変わり、以下のステータスを得る：
 
 {INHERITEDHEALTH}%のライフを受け継ぐ。
@@ -2420,6 +2531,7 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.specialdamagepowermodifier.neartotarget.allies","{TURNS}ターンの間、術者と近くにいる仲間の特殊スキルによる攻撃力が{POWER}%になる。"
 "specials.v2.statuseffect.minor.specialrevengestatuseffectskill.neartotarget.allies.on.enemyspecialhit.damage.single.enemies","次の{TURNS}ターンの間、術者と近くにいる仲間が敵の特殊スキルによりダメージを受けるたびに、その攻撃者に対して{FIXEDPOWER}ダメージを与える。"
 "specials.v2.statuseffect.minor.specialrevengestatuseffectskill.single.allies.on.enemyspecial.damage.all.enemies","次の{TURNS}ターンの間に敵1体が特殊スキルを使用すると、このキャラクターが敵全員に{POWER1}%のダメージを与える。"
+"specials.v2.statuseffect.minor.specialrevengestatuseffectskill.single.allies.on.enemyspecial.damage.random.enemies","次の{TURNS}ターンの間に敵1体が特殊スキルを使用すると、このキャラクターがランダムな敵に{POWER1}%のダメージを与える。"
 "specials.v2.statuseffect.minor.specialrevengestatuseffectskill.single.allies.on.enemyspecial.damage.single.enemies.with_chance","次の{TURNS}ターンの間に敵1体が特殊スキルを使用すると、このキャラクターが{CHANCE}%の確率でランダムな敵1体に{POWER1}%のダメージを与える。"
 "specials.v2.statuseffect.minor.specialrevengestatuseffectskill.single.allies.on.enemyspecial.heal.all.allies","次の{TURNS}ターンの間に敵1体が特殊スキルを使用すると、このキャラクターが仲間全員のライフを{FIXEDPOWER}回復する。"
 "specials.v2.statuseffect.minor.specialrevengestatuseffectskill.single.allies.on.enemyspecialhit.damage.all.enemies","次の{TURNS}ターンの間、術者が敵の特殊スキルによりダメージを受けるたびに、敵全員に対して{FIXEDPOWER}ダメージを与える。"
@@ -2515,6 +2627,7 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.druid_thorn_empowered","{TURNS}ターンの間、仲間全員が{DODGE}%の確率で特殊スキルを回避する。回避が成功するたびに、強化されたソーンミニオンをサモンする。"
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.sakura_fox","{TURNS}ターンの間、仲間全員が{DODGE}%の確率で特殊スキルを回避する。回避が成功するたびに、サクラフォックスのミニオンをサモンする。"
 "specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_red_titan","仲間全員が{TURNS}ターンにわたって{ATTACK}%の攻撃力を得る。炎属性のタイタンに対しては仲間全員が{ATTACKAGAINSTVALIDTARGET}%の攻撃力を得る。"
+"specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_yellow_titan","仲間全員が{TURNS}ターンにわたって{ATTACK}%の攻撃力を得る。聖属性のタイタンに対しては仲間全員が{ATTACKAGAINSTVALIDTARGET}%の攻撃力を得る。"
 "specials.v2.statuseffect.minor.taunt.single.allies","{TURNS}ターンの間、術者が挑発のステータス効果を発動し、敵が術者の仲間に特殊スキルを使用できなくなる。"
 "specials.v2.statuseffect.minor.toxin.all.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","敵全員が{TURNS}ターンにわたって{DAMAGE}の猛毒ダメージを受ける。
 HPがブーストされたターゲットやミニオンまたはメガミニオンを所有するターゲットには追加ダメージを付与する。"
@@ -2562,6 +2675,7 @@ HPがブーストされたターゲットやミニオンまたはメガミニオ
 "specials.v2.statuseffect.permanent.insanity.single.allies","術者に{INSANITYTOADD}狂気を付与する。"
 "specials.v2.statuseffect.permanent.insanity.single.enemies","ターゲットに{INSANITYTOADD}狂気を付与する。"
 "specials.v2.statuseffect.permanent.insanity.single.enemies.chain_strike","攻撃が命中したターゲットは、その後攻撃を受けるたびに{INSANITYTOADD}狂気を付与される。"
+"specials.v2.statuseffect.permanent.insanity.single.enemies.chain_strike.chain_strike_cassilda.on_additional_hit","攻撃が命中したターゲットは、その後攻撃を受けるたびに{INSANITYTOADD}狂気を付与される。"
 "specials.v2.statuseffect.permanent.managenerationmodifier.red.allies","炎の英雄全員のナ生成が{MANAREGEN}%になる"
 "specials.v2.statuseffect.permanent.specialdamagepowermodifier.green.allies","自然属性の英雄全員の特殊スキルによる攻撃力が{POWER}%になる。"
 "specials.v2.statuseffect.permanent.warattackmodifier.all.enemies","防御チームの英雄の攻撃力が{ATTACK}%になる。この効果は発動するごとに強化されていく。"

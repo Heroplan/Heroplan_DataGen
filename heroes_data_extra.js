@@ -43583,5 +43583,31 @@ window.allHeroesExtra = [
         "healthBonus": "85%",
         "manaBonus": "5%",
         "family": "classic"
+    },
+    {
+        "name": "Veer",
+        "fancy name": "Prideful Assassin",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
+        "Release date": "2026-01-28",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "Ability Scores Modifiers",
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers",
+            "Dodgers"
+        ],
+        "heroId": "mahayoddha_veer",
+        "baseAttack": 653,
+        "baseDefense": 625,
+        "baseHealth": 1108,
+        "specialId": "bagh_nakh_thrust",
+        "passiveSkills": [
+            "increased_damage_against_minions_and_mega_minions",
+            "mana_on_damage_received"
+        ],
+        "family": "mahayoddha"
     }
 ];

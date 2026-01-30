@@ -18,20 +18,21 @@ Dieser Charakter hat derzeit:
 "herocard.passive_skill.description.conditionaleffectovertime.revival.all.allies.while.single.allies.hasdeadallies","Alle {TURNS} Züge werden alle besiegten Verbündeten mit {POWER} % LP wiederbelebt."
 "herocard.passive_skill.description.conditionaleffectovertime.revival.neartotargetexceptcaster.allies.while.single.allies.hasdeadallies","Alle {TURNS} Züge werden alle besiegten Verbündeten in der Nähe mit {POWER} % LP wiederbelebt."
 "herocard.passive_skill.description.conditionaleffectovertime.usable_once.heal.addmana.everyturn.while.single.allies.lowhealth","Wenn dieser Charakter während eines Kampfes zum ersten Mal einen Zug mit wenig Leben startet, stellt er {HEALTH} % Leben wieder her und erhält {MANA} % Mana."
-"herocard.passive_skill.description.convertincomingdamagetoheal.all.statuseffect","Immer wenn dieser Charakter Schaden durch eine negative Statusänderung erleiden würde, gewinnt er stattdessen dieselbe Menge an Leben zurück."
-"herocard.passive_skill.description.convertincomingdamagetoheal.statuseffect","Immer wenn dieser Charakter Schaden durch eine negative Statusänderung erleiden würde, gewinnt er stattdessen Leben zurück. Die Menge beträgt dabei {MULTIPLIER} % des Schadens."
+"herocard.passive_skill.description.convertincomingdamagetoheal.all.statuseffect","Immer wenn dieser Charakter Schaden durch eine negative Statusänderung oder durch einen negativen Stapel erleiden würde, gewinnt er stattdessen dieselbe Menge an Leben zurück."
+"herocard.passive_skill.description.convertincomingdamagetoheal.statuseffect","Immer wenn dieser Charakter Schaden durch eine negative Statusänderung oder durch einen negativen Stapel erleiden würde, gewinnt er stattdessen Leben zurück. Die Menge beträgt dabei {MULTIPLIER} % des Schadens."
 "herocard.passive_skill.description.criticalmodifiersupportcharacter.troop","{CRITICALMODIFIER} % Chance auf kritische Treffer."
 "herocard.passive_skill.description.damage.all.enemies","Verursacht {DAMAGE} % Schaden bei allen Gegnern."
 "herocard.passive_skill.description.damagefamiliarsovertime.all.enemies.minion.bigminion","Verursacht {DAMAGEPERTURN} Schaden an allen gegnerischen Lakaien und Mega-Lakaien alle {TURNS} Runden."
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.bigminion.minion","Verursacht {DAMAGEPERTURN} Schaden an allen gegnerischen Lakaien und Mega-Lakaien zu Beginn einer Runde."
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion","Verursacht {DAMAGEPERTURN} Schaden an allen gegnerischen Lakaien und Mega-Lakaien zu Beginn einer Runde."
 "herocard.passive_skill.description.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Der gesamte Schaden, den dieser Charakter durch Angriffe und Spezialfähigkeiten verursacht, ist um {DAMAGEINCREASEPERSTEP} % pro {INSANITYPERSTEP} Wahnsinn auf diesem Charakter erhöht, bis zu {MAXDAMAGEINCREASE} %."
-"herocard.passive_skill.description.dealtdamagemodifieragainststatuseffect.bloodlily.stacks.troop.specialskill.npcnormalattack.add_modifier_per_stack","Der ganze Schaden, den dieser Charakter mit normalen Angriffen und Spezialfähigkeiten verursacht, wird um {MODIFIER} % pro Blutlilien-Stapel auf dem Ziel erhöht."
-"herocard.passive_skill.description.dealtstrongelementsupportcharacterdamage.increase","Die Truppen dieses Helden verursachen zusätzlichen Elementarschaden gegen das schwächere Element.
+"herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single.troop.specialskill.npcnormalattack.add_modifier_per_stack","Der ganze Schaden, den dieser Charakter mit normalen Angriffen und Spezialfähigkeiten verursacht, wird um {MODIFIER} % pro Blutlilien-Stapel auf dem Ziel erhöht."
+"herocard.passive_skill.description.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all.specialskill.any","Wenn Verbündete Tanzen, verursacht die Spezialfähigkeit dieses Charakters {MODIFIERCHANGE} % mehr Schaden."
+"herocard.passive_skill.description.dealtstrongelementsupportcharacterdamage.increase","Die Truppen dieses Charakters verursachen zusätzlichen Schaden gegen das schwächere Element.
 
-Zusätzlicher Elementarschaden verursacht: +{MODIFIER} %"
-"herocard.passive_skill.description.debuffdamagereduction","Schaden durch negative Statusänderungen wird verringert um {DAMAGEREDUCTION} %"
-"herocard.passive_skill.description.debuffdamagereductionsupportcharacter.troop","Schaden durch negative Statusänderungen wird für diesen Charakter verringert um {DAMAGEREDUCTION} %."
+Zusätzlicher verursachter Schaden: +{MODIFIER} %"
+"herocard.passive_skill.description.debuffdamagereduction","Schaden durch negative Statusänderungen und negative Stapel wird um {DAMAGEREDUCTION} % verringert"
+"herocard.passive_skill.description.debuffdamagereductionsupportcharacter.troop","Schaden durch negative Statusänderungen und negative Stapel wird für diesen Charakter verringert um {DAMAGEREDUCTION} %."
 "herocard.passive_skill.description.destructivecoreintrinsicchargeeffectonspecial.damage.all.enemies.always","Beim Konstruktkern dieses Charakters handelt es sich um einen Zerstörungskern.
 
 Der Zerstörungskern wird immer aktiviert, wenn die Spezialfähigkeit des Charakters aktiviert wird:
@@ -155,275 +156,7 @@ Der Lakaikern wird immer aktiviert, wenn die Spezialfähigkeit dieses Charakters
 "herocard.passive_skill.description.memorizestatuseffects","Dieser Charakter besitzt die angeborene Fähigkeit, sich negative Statusänderungen einzuprägen. Die letzte negative Statusänderung, die auf den Charakter angewandt wurde, bleibt eingeprägt, bis die Spezialfähigkeit gewirkt wird. Nur negativen Statusänderungen mit einer Dauer können eingeprägt werden."
 "herocard.passive_skill.description.memorizestatuseffects#2","Dieser Charakter besitzt die angeborene Fähigkeit, sich negative Statusänderungen einzuprägen. Die letzten {0} negativen Statusänderungen, die auf den Charakter angewandt wurden, bleiben eingeprägt, bis die Spezialfähigkeit gewirkt wird. Nur negativen Statusänderungen mit einer Dauer können eingeprägt werden."
 "herocard.passive_skill.description.memorizestatuseffects#3","This character has innate ability to Memorize status ailments. The latest {0} status ailments that are cast on this character will stay memorized until the Special Skill is cast. Only status ailments with a duration can be memorized. (THIRD FORM)"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_blue","Dieser Mime gibt dir eine Chance auf zusätzliche Beute, wenn du Stufen abschließt:
-
-*****
- Alpha-Äther
- Eis-Äther III
-
-****
- Eis-Äther II
-
-***
- Eis-Äther I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_green","Dieser Mime gibt dir eine Chance auf zusätzliche Beute, wenn du Stufen abschließt:
-
-*****
- Alpha-Äther
- Natur-Äther III
-
-****
- Natur-Äther II
-
-***
- Natur-Äther I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_purple","Dieser Mime gibt dir eine Chance auf zusätzliche Beute, wenn du Stufen abschließt:
-
-*****
- Alpha-Äther
- Finster-Äther III
-
-****
- Finster-Äther II
-
-***
- Finster-Äther I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_red","Dieser Mime gibt dir eine Chance auf zusätzliche Beute, wenn du Stufen abschließt:
-
-*****
- Alpha-Äther
- Feuer-Äther III
-
-****
- Feuer-Äther II
-
-***
- Feuer-Äther I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_yellow","Dieser Mime gibt dir eine Chance auf zusätzliche Beute, wenn du Stufen abschließt:
-
-*****
- Alpha-Äther
- Heilig-Äther III
-
-****
- Heilig-Äther II
-
-***
- Heilig-Äther I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_blue","Dieser Mime gewährt beim Abschluss von Etappen eine Chance auf zusätzliche Beute:
-
-****
- Damaszenerklinge
- Buch der Taktik
- Fernrohr
-***
- Edle Handschuhe
- Kompass
- Wintermantel
- Kampfleitfaden
- Hohe Stiefel
- Kettenhemd
-
-**
- Starkes Seil"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_epic_yellow","Dieser Mime gewährt beim Abschluss von Etappen eine Chance auf zusätzliche Beute:
-
-***
- Versteckte Klinge
- Magiekugel
- Stabiler Schild
- Fallenwerkzeug
- Wintermantel
- Kampfleitfaden
- Kettenhemd
- Schwertscheide
- Hohe Stiefel
-
-**
- Geheime Schriften
- Dolch
- Lederrüstung
- Schleifstein
- Starkes Seil
- Holzschild
-
-*
- Rucksack
- Übungsschwert
- Einfache Kleidung"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_green","Dieser Mime gewährt beim Abschluss von Etappen eine Chance auf zusätzliche Beute:
-
-****
- Damaszenerklinge
- Buch der Taktik
- Geheimtrunk
-***
- Edle Handschuhe
- Kompass
- Stabiler Schild
- Hohe Stiefel
- Schwertscheide
-**
- Starkes Seil
- Dolch"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_purple","Dieser Mime gewährt beim Abschluss von Etappen eine Chance auf zusätzliche Beute:
-
-****
- Damaszenerklinge
- Buch der Taktik
- Wappenrock
-
-***
- Edle Handschuhe
- Kompass
- Fallenwerkzeuge
- Hohe Stiefel
- Schwertscheide
-**
- Starkes Seil
- Dolch"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_red","Dieser Mime gewährt beim Abschluss von Etappen eine Chance auf zusätzliche Beute:
-
-****
- Damaszenerklinge
- Buch der Taktik
- Mystische Ringe
-***
- Edle Handschuhe
- Kompass
- Versteckte Klinge
- Kettenhemd
- Hohe Stiefel
-
-**
- Geheime Schriften"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_yellow","Dieser Mime gewährt beim Abschluss von Etappen eine Chance auf zusätzliche Beute:
-
-****
- Damaszenerklinge
- Buch der Taktik
- Giftpfeile
-
-***
- Edle Handschuhe
- Kompass
- Magiekugel
- Kettenhemd
- Hohe Stiefel
- Geheime Schriften"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_blue","Dieser Mime gewährt beim Abschluss von Etappen eine Chance auf zusätzliche Beute:
-
-*****
- Meisterwappen des Zauberers
- Meisterwappen des Magiers
-
-****
- Wappen des Zauberers
- Wappen des Magiers"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_green","Dieser Mime gewährt beim Abschluss von Etappen eine Chance auf zusätzliche Beute:
-
-*****
- Meisterwappen des Paladins
- Meisterwappen des Druiden
-
-****
- Wappen des Paladins
- Wappen des Druiden"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_purple","Dieser Mime gewährt beim Abschluss von Etappen eine Chance auf zusätzliche Beute:
-
-*****
- Meisterwappen des Schurken
- Meisterwappen des Waldläufers
-
-****
- Wappen des Schurken
- Wappen des Waldläufers"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_red","Dieser Mime gewährt beim Abschluss von Etappen eine Chance auf zusätzliche Beute:
-
-*****
- Meisterwappen des Kämpfers
- Meisterwappen des Barbaren
-
-****
- Wappen des Kämpfers
- Wappen des Barbaren"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_yellow","Dieser Mime gewährt beim Abschluss von Etappen eine Chance auf zusätzliche Beute:
-
-*****
- Meisterwappen des Klerikers
- Meisterwappen des Mönchs
-
-****
- Wappen des Klerikers
- Wappen des Mönchs"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_experience_rare_red","Dieser Mime gewährt beim Abschluss von Etappen eine Chance auf zusätzliche Beute:
-
-**
-Ungewöhnliche Feuer-, Natur-, Eis-, Schatten- und Licht-Helden
-
-*
-Gewöhnliche Meister-Trainer-Helden
-Gewöhnliche Feuer-, Natur-, Eis-, Schatten- und Licht-Helden"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_blue","Dieser Mime gibt dir die Chance auf zusätzliche Beute, wenn du Stufen abschließt: 
-
-***
-Seltene Eis-Trainerhelden
-
-**
-Ungewöhnliche Eis-Trainerhelden
-Ungewöhnliche Eis-Helden
-
-*
-Gewöhnliche Eis-Trainerhelden
-Gewöhnliche Eis-Helden"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_green","Dieser Mime gibt dir die Chance auf zusätzliche Beute, wenn du Stufen abschließt: 
-
-***
-Seltene Natur-Trainerhelden
-
-**
-Ungewöhnliche Natur-Trainerhelden
-Ungewöhnliche Natur-Helden
-
-*
-Gewöhnliche Natur-Trainerhelden
-Gewöhnliche Natur-Helden"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_purple","Dieser Mime gibt dir die Chance auf zusätzliche Beute, wenn du Stufen abschließt: 
-
-***
-Seltene Schatten-Trainerhelden
-
-**
-Ungewöhnliche Schatten-Trainerhelden
-Ungewöhnliche Schatten-Helden
-
-*
-Gewöhnliche Schatten-Helden
-Gewöhnliche Schatten-Trainerhelden"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_red","Dieser Mime gibt dir die Chance auf zusätzliche Beute, wenn du Stufen abschließt: 
-
-***
-Seltene Feuer-Trainerhelden
-
-**
-Ungewöhnliche Feuer-Trainerhelden
-Ungewöhnliche Feuer-Helden
-
-*
-Gewöhnliche Feuer-Trainerhelden
-Gewöhnliche Feuer-Helden"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_yellow","Dieser Mime gibt dir die Chance auf zusätzliche Beute, wenn du Stufen abschließt: 
-
-***
-Seltene Licht-Trainerhelden
-
-**
-Ungewöhnliche Licht-Trainerhelden
-Ungewöhnliche Licht-Helden
-
-*
-Gewöhnliche Licht-Trainerhelden
-Gewöhnliche Licht-Helden"
+"herocard.passive_skill.description.mimiclootonlevelcompleted","Jeder einzigartige Mime in deinem Team kann dir zusätzliche Beute gewähren, wenn du Etappen abschließt. Dieser Mime gewährt eine Chance auf folgende zusätzliche Beute:"
 "herocard.passive_skill.description.nevermissspecial","Die Spezialfähigkeit dieses Charakters verfehlt ihre Ziele nie."
 "herocard.passive_skill.description.ransack","Zu Beginn jedes Zugs raubt dieser Charakter einen zufälligen Gegner aus:
 
@@ -439,10 +172,10 @@ Beim sicheren Stehlen werden sekundäre Effekte wie Schaden bei Entfernung von d
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","Wenn dieser Charakter seine Spezialfähigkeit wirkt, hat er eine Chance von {CHANCE} %, den neuesten entfernbaren Bonus eines zufälligen Gegners mit Boni zu stehlen. Wenn kein Gegner Boni hat, wird allen Gegnern {DAMAGE} % Schaden zugefügt."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.heal.always.minordebuff.newest","Wenn dieser Charakter seine Spezialfähigkeit einsetzt, überträgt er die neueste reinigbare negative Statusänderung von sich auf das Ziel. Wenn die Spezialfähigkeit keinen Gegner anvisieren kann, wird stattdessen ein zufälliger Gegner ausgewählt. Wenn dieser Charakter keine reinigbaren negativen Statusänderungen hat, erhält er {HEALTH} % Gesundheit zurück."
 "herocard.passive_skill.description.receivedeffectreplacement.minordebuff","{REPLACEMENTCHANCE} %ige Chance, eingehende negative Effekte durch entsprechende positive Effekte zu ersetzen."
-"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","Dieser Held erleidet weniger Elementarschaden durch Truppen des stärkeren Elements.
+"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","Dieser Charakter erleidet weniger Schaden durch Truppen des stärkeren Elements.
 
-Elementarschaden erlitten: -{MODIFIER} %"
-"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.combined","{MODIFIER} % weniger erhaltener Schaden von Truppen des stärkeren Elements."
+Erlittener Schaden: -{MODIFIER} %"
+"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.combined","{MODIFIER} % weniger erlittener Schaden von Truppen des stärkeren Elements."
 "herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.increase.dragon","{MODIFIER} % mehr erhaltener Schaden von Feuerbällen des stärkeren Elements."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single","Wenn dieser Charakter zum ersten Mal tödlichen Schaden erleiden würde, wird dieser Schaden stattdessen zu einem zufälligen Gegner weitergeleitet.
 
@@ -481,7 +214,7 @@ Dazu gehören
 Dazu gehören negative Statusänderungen und -stärkungen, positive und negative Steigerungen sowie Verwelkungs- und Wachstumseffekte."
 "herocard.passive_skill.description.resist.allmanaeffects.alldebuffs","Der Charakter ist immun gegen Manareduktionen und negative Stapel, die die Manaregeneration beeinträchtigen. Gilt auch für Statuseffekte, die Mana blockieren oder Mana stehlen."
 "herocard.passive_skill.description.resist.allmanaeffects.manareduction.alldebuffs","Der Charakter ist immun gegen negative Statusänderungen und negative Stapel, die die Manaregeneration beeinträchtigen. Gilt auch für Statuseffekte, die Mana blockieren oder Mana stehlen."
-"herocard.passive_skill.description.resist.allstatuseffectdamage.none","Dieser Charakter ist immun gegen eingehenden Schaden durch Statuseffekte."
+"herocard.passive_skill.description.resist.allstatuseffectdamage.none","Dieser Charakter ist immun gegen eingehenden Schaden durch Statuseffekte und Stapel."
 "herocard.passive_skill.description.resist.attackdelay","Der normale Angriff dieses Charakters kann nicht verzögert werden."
 "herocard.passive_skill.description.resist.attackdelay.alldebuffs","Der normale Angriff dieses Charakters kann nicht verzögert werden."
 "herocard.passive_skill.description.resist.attackmodifiers","Der Charakter ist immun gegen negative Statusänderungen, die den Angriff beeinträchtigen."
@@ -558,6 +291,9 @@ Folgende Spezialfähigkeit:
 "herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance","Wenn dieser Charakter besiegt wird, hat er eine Chance von {TOTALCHANCE} %, zu Beginn seines nächsten Zuges mit {HEALTH} % Gesundheit und {MANA} % Mana wiederzubeleben. 
 
 Kann bis zu {MAXACTIVATIONCOUNT}-mal aktiviert werden. Die Chance auf Wiederbelebung wird bei jeder Aktivierung verringert. Kann nicht durch negative Statusänderungen oder passive Fähigkeiten verhindert werden."
+"herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance.ignoresreviveblockingdebuffs","Wenn dieser Charakter besiegt wird, hat er eine Chance von {TOTALCHANCE} %, zu Beginn seines nächsten Zuges mit {HEALTH} % Gesundheit und {MANA} % Mana wiederzubeleben. 
+
+Kann bis zu {MAXACTIVATIONCOUNT}-mal aktiviert werden. Die Chance auf Wiederbelebung wird bei jeder Aktivierung verringert. Kann nicht durch negative Statusänderungen oder passive Fähigkeiten verhindert werden."
 "herocard.passive_skill.description.setstatuseffectdurationonaddition.all.allies.activates_on_ally_action.alldebuffs.dance","Alle von Gegnern gewirkten Balladen dauern nur {TURNS} Runde."
 "herocard.passive_skill.description.setstatuseffectdurationonaddition.single.enemies.activates_on_enemy_action.allbuffs.dance","Alle von Gegnern gewirkten Tänze dauern nur {TURNS} Runde."
 "herocard.passive_skill.description.sharereceiveddamage","{SHAREDDAMAGEPORTION} % des erhaltenen Schadens wird mit allen anderen Verbündeten geteilt."
@@ -597,37 +333,64 @@ Der Setzling-Feind entwickelt sich zu einem Spross-Feind nach {EVOLVINGFAMILIAR1
 Der Spross-Feind entwickelt sich zu einem Blüten-Mega-Feind nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden.
 
 Setzling-Feind: 
-{EVOLVINGFAMILIAR1ATTACK} % Angriff, {EVOLVINGFAMILIAR1HEALTH} % Leben.
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % Leben.
 
 Spross-Feind: 
-{EVOLVINGFAMILIAR2ATTACK} % Angriff, {EVOLVINGFAMILIAR2HEALTH} % Leben.
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % Leben.
 
 Blüten-Mega-Feind: 
-{EVOLVINGFAMILIAR3ATTACK} % Angriff, {EVOLVINGFAMILIAR3HEALTH} % Leben."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Beschwört jede Runde einen Setzling-Feind für einen zufälligen Gegner. Diese passive Fähigkeit kann nur einmal pro Zug für jedes Team aktiviert werden.
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Beschwört jede Runde einen Setzling-Feind für einen zufälligen Gegner. Diese passive Fähigkeit wird für jedes Team nur einmal pro Runde aktiviert.
 Der Setzling-Feind entwickelt sich zu einem Spross-Feind nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden.
 Der Spross-Feind entwickelt sich zu einem Blüten-Mega-Feind nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden.
 
 Setzling-Feind: 
-{EVOLVINGFAMILIAR1ATTACK} % Angriff, {EVOLVINGFAMILIAR1HEALTH} % Leben.
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % Leben.
 
 Spross-Feind: 
-{EVOLVINGFAMILIAR2ATTACK} % Angriff, {EVOLVINGFAMILIAR2HEALTH} % Leben.
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % Leben.
 
 Blüten-Mega-Feind: 
-{EVOLVINGFAMILIAR3ATTACK} % Angriff, {EVOLVINGFAMILIAR3HEALTH} % Leben."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Beschwört jede Runde einen Setzling-Feind für einen zufälligen Gegner. Diese passive Fähigkeit kann nur einmal pro Zug für jedes Team aktiviert werden.
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Beschwört jede Runde einen Setzling-Feind für einen zufälligen Gegner. Diese passive Fähigkeit wird für jedes Team nur einmal pro Runde aktiviert.
 Der Setzling-Feind entwickelt sich zu einem Spross-Feind nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden.
 Der Spross-Feind entwickelt sich zu einem Blüten-Mega-Feind nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden.
-Jedes Mal, wenn der Feind Heilung absorbiert, wird seine Entwicklung um {EVOLVINGFAMILIAR1TURNSDELAY} verzögert.
+Jedes Mal, wenn der Feind Heilung absorbiert, wird seine Entwicklung um {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} verzögert.
+
 Setzling-Feind: 
-{EVOLVINGFAMILIAR1ATTACK} % Angriff, {EVOLVINGFAMILIAR1HEALTH} % Leben.
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % Leben.
 
 Spross-Feind: 
-{EVOLVINGFAMILIAR2ATTACK} % Angriff, {EVOLVINGFAMILIAR2HEALTH} % Leben.
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % Leben.
 
 Blüten-Mega-Feind: 
-{EVOLVINGFAMILIAR3ATTACK} % Angriff, {EVOLVINGFAMILIAR3HEALTH} % Leben."
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Beschwört jede Runde einen Setzling-Feind für einen zufälligen Gegner. Diese passive Fähigkeit wird für jedes Team nur einmal pro Runde aktiviert.
+Der Setzling-Feind entwickelt sich zu einem Spross-Feind nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden.
+Der Spross-Feind entwickelt sich zu einem Blüten-Mega-Feind nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden.
+Jedes Mal, wenn der Feind Heilung absorbiert, wird seine Entwicklung um {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} verzögert.
+
+Setzling-Feind: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % Leben.
+
+Spross-Feind: 
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % Leben.
+
+Blüten-Mega-Feind: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Beschwört jede Runde einen Setzling-Feind für einen zufälligen Gegner. Diese passive Fähigkeit wird für jedes Team nur einmal pro Runde aktiviert.
+Der Setzling-Feind entwickelt sich zu einem Spross-Feind nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden.
+Der Spross-Feind entwickelt sich zu einem Blüten-Mega-Feind nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden.
+Jedes Mal, wenn der Feind Heilung absorbiert, wird seine Entwicklung um {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} verzögert.
+
+Setzling-Feind: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % Leben.
+
+Spross-Feind: 
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % Leben.
+
+Blüten-Mega-Feind: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Wenn dieser Charakter besiegt wird, beschwört er einen Schleim-Megalakaien zu Verbündeten in der Nähe mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff, die von diesem Charakter geerbt wurden."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Wenn dieser Charakter besiegt wird, beschwört er einen Schleim-Megalakaien zu Verbündeten in der Nähe mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff, die von diesem Charakter geerbt wurden."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Wenn dieser Charakter besiegt wird, beschwört er einen Schleim-Megalakaien zu Verbündeten in der Nähe mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff, die von diesem Charakter geerbt wurden."
@@ -644,6 +407,7 @@ Blüten-Mega-Feind:
 "herocard.passive_skill.description.summononsummon.activates_on_enemy_action.allies.owl.minion","Beschwört einen Spatzlakaien für sich selbst, wenn ein Feind mithilfe einer Spezialfähigkeit Lakaien beschwört."
 "herocard.passive_skill.description.summononsummon.activates_on_enemy_action.enemies.cursed_sapling_parasite.minion","Wenn ein Feind einen beliebigen Lakaien mit einer Spezialfähigkeit beschwört, beschwört dieser Charakter einen verfluchten Setzling auf diesen Feind."
 "herocard.passive_skill.description.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","Wenn ein Gegner beliebige Lakaien mit einer Spezialfähigkeit beschwört, beschwört dieser Charakter einen Setzling-Feind für diesen Gegner."
+"herocard.passive_skill.description.targetstatedependenteffectonspecial.healthboost.all.allies.fixedpower.always.checkstate.all.allies.dance","Wenn Verbündete Tanzen, wenn dieser Charakter seine Spezialfähigkeit wirkt, wird das Leben aller Verbündeter um {HEALTHBOOST} verstärkt. Verstärktes Leben kann die max. LP übersteigen."
 "herocard.passive_skill.description.taunt","Die Spezialfähigkeit dieses Charakters wird von Verspotten nicht beeinflusst."
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.blue","Wenn dieser Charakter seine Spezialfähigkeit einsetzt, werden Eisschilde auf dem Feld mit einer Genauigkeit von {MODIFIER} % geschwächt."
 "herocard.passive_skill.description.tileenhancementonspecial.accuracymodifier.green","Wenn dieser Charakter seine Spezialfähigkeit einsetzt, werden Naturschilde auf dem Feld mit einer Genauigkeit von {MODIFIER} % geschwächt."
@@ -655,25 +419,15 @@ Blüten-Mega-Feind:
 "herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.purple","Wenn dieser Charakter seine Spezialfähigkeit einsetzt, werden Schattenschilde auf dem Feld mit einer Chance auf kritische Treffer von {MODIFIER} % verstärkt."
 "herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.red","Wenn dieser Charakter seine Spezialfähigkeit einsetzt, werden Feuerschilde auf dem Feld mit einer Chance auf kritische Treffer von {MODIFIER} % verstärkt."
 "herocard.passive_skill.description.tileenhancementonspecial.criticalchancemultiplier.yellow","Wenn dieser Charakter seine Spezialfähigkeit einsetzt, werden Lichtschilde auf dem Feld mit einer Chance auf kritische Treffer von {MODIFIER} % verstärkt."
-"herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Jedes Mal, wenn dieser Charakter seine Spezialfähigkeit wirkt, werden alle entfernbaren Boni, die den Angriff, die Verteidigung und die Manageneration betreffen, auf allen Gegnern in passende nicht entfernbare negative Statusänderungen verwandelt.
-
-Verwandlungseffekte: 
-Angriffsboni werden für {STATUSEFFECT1TURNS} Runden in {STATUSEFFECT1ATTACK} % Angriffsverschlechterungen verwandelt.
-Verteidigungsboni werden für {STATUSEFFECT2TURNS} Runden in {STATUSEFFECT2DEFENSE} % Verteidigungsverschlechterungen verwandelt.
-Manaregenerationsboni werden für {STATUSEFFECT3TURNS} Runden in {STATUSEFFECT3MANAREGEN} % Manaregenerationsbeeinträchtigungen verwandelt."
-"herocard.passive_skill.description.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Jedes Mal, wenn dieser Charakter seine Spezialfähigkeit wirkt, werden alle säuberbaren negativen Statusänderungen, die den Angriff, die Verteidigung und die Manageneration betreffen, auf allen Verbündeten in passende nicht entfernbare Boni verwandelt.
-
-Verwandlungseffekte: 
-Angriffsverschlechterungen werden für {STATUSEFFECT1TURNS} Runden in {STATUSEFFECT1ATTACK} % Angriffsboni verwandelt.
-Verteidigungsverschlechterungen werden für {STATUSEFFECT2TURNS} Runden in {STATUSEFFECT2DEFENSE} % Verteidigungsboni verwandelt.
-Manaregenerationsbeeinträchtigungen werden für {STATUSEFFECT3TURNS} Runden in {STATUSEFFECT3MANAREGEN} % Manaregenerationsboni verwandelt."
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Immer wenn dieser Charakter seine Spezialfähigkeit wirkt, werden alle bannbaren Boni, die den Angriff, die Verteidigung und die Manaregeneration für alle Gegner betreffen, in passende, nicht bannbare negative Statusänderungen verwandelt."
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Immer wenn dieser Charakter seine Spezialfähigkeit wirkt, werden alle säuberbaren Statusänderungen, die den Angriff, die Verteidigung und die Manaregeneration für alle Verbündeten betreffen, in passende, nicht bannbare Boni verwandelt."
 "herocard.passive_skill.description.wither.all.enemies","Basisangriff und Basisverteidigung aller Gegner werden für max. {MAXACTIVATIONCOUNT} Runden jede Runde um {STATINCREASE} verringert."
 "herocard.passive_skill.inactive","INAKTIV: Erreiche die maximale Stufe und den vollen Aufstieg, um zu aktivieren."
 "herocard.passive_skill.replace.minordebuff.attackmodifier.to.minorbuff.attackmodifier","Angriffsverschlechterungen zu {ATTACK} % Angriff für {TURNS} Züge."
 "herocard.passive_skill.replace.minordebuff.buffimmunity.to.minorbuff.debuffshield","Bonusimmunitätsverschlechterungen zu Bonusimmunität für {TURNS} Züge."
 "herocard.passive_skill.replace.minordebuff.defensemodifier.to.minorbuff.defensemodifier","Verteidigungsverschlechterungen zu {DEFENSE} % Verteidigung für {TURNS} Züge."
 "herocard.passive_skill.replace.minordebuff.healingmodifier.to.minorbuff.healmultiplier","Heilungsverringerung zu {HEALING} % erhöhter Heilung für {TURNS} Züge."
-"herocard.passive_skill.replace.minordebuff.managenerationmodifier.to.minorbuff.managenerationmodifier","Manaregenerationsverschlechterungen zu {MANAREGEN} % Manaregeneration für {TURNS} Züge."
+"herocard.passive_skill.replace.minordebuff.manaeffect.to.minorbuff.managenerationmodifier","Manaverschlechterungen zu {MANAREGEN} % Manaregeneration für {TURNS} Züge."
 "herocard.passive_skill.replace.minordebuff.receiveddamagemodifier.to.minorbuff.receiveddamagemodifier","Schadenserhöhungs-Statuseffekte zu {DAMAGEREDUCTION} % Schadensreduzierung für {TURNS} Züge."
 "herocard.passive_skill.replace.minordebuff.statuseffectreflect.to.minorbuff.reflectminordebuffs","Bonus-Reflektor-Effekte zu Statusleiden-Reflektor für {TURNS} Züge."
 "herocard.passive_skill.replace_direct_effect.attackwither","Angriffsverwelken zu Angriffswachstum: {FIXEDPOWER} Angriff."
@@ -706,7 +460,8 @@ Manaregenerationsbeeinträchtigungen werden für {STATUSEFFECT3TURNS} Runden in 
 "herocard.passive_skill.title.criticalmodifiersupportcharacter.troop","Krit.-Modifikator"
 "herocard.passive_skill.title.critmodifier","Krit.-Chance-Modifikator"
 "herocard.passive_skill.title.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Von den Alten markiert"
-"herocard.passive_skill.title.dealtdamagemodifieragainststatuseffect.bloodlily.stacks","Blutmarkierung"
+"herocard.passive_skill.title.dealtdamagemodifieronownedstatuseffect.bloodlily.stacks.enemies.single","Blutmarkierung"
+"herocard.passive_skill.title.dealtdamagemodifieronownedstatuseffect.dance.allstatuseffects.allies.all","Wilder Tänzer"
 "herocard.passive_skill.title.dealtstrongelementtroopdamage","Truppenmeisterung"
 "herocard.passive_skill.title.debuffdamagereduction","Schadensverringerung bei negativen Statusänderungen"
 "herocard.passive_skill.title.debuffdamagereductionsupportcharacter.troop","Schadensverringerung bei negativen Statusänderungen"
@@ -822,6 +577,7 @@ Manaregenerationsbeeinträchtigungen werden für {STATUSEFFECT3TURNS} Runden in 
 "herocard.passive_skill.title.ransack","Diebische Gelegenheit"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Bonus stehlen"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","Sinn des Jägers"
+"herocard.passive_skill.title.received_strong_troop_damage_pve","Truppen-Schadensreduzierung"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Truppenmeisterung"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Starke Erhöhung des Feuerballschadens"
 "herocard.passive_skill.title.redirectlethaldamage.enemies.single","Dem Tod ein Schnippchen schlagen"
@@ -939,7 +695,10 @@ statuseffekten"
 "herocard.passive_skill.title.stylish","Fesch!"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","Setzling-Beschwörer"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Setzling-Beschwörer"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Setzling-Beschwörer"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Setzling-Beschwörer"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Setzling-Beschwörer"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Setzling-Beschwörer"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Schleimlakai bei Niederlage"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Schleimlakai bei Niederlage"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Schleimlakai bei Niederlage"
@@ -956,6 +715,7 @@ statuseffekten"
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.allies.owl.minion","Spatzbeschwörung"
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.cursed_sapling_parasite.minion","Verfluchter-Setzling-Beschwörung"
 "herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","Setzling-Beschwörer"
+"herocard.passive_skill.title.targetstatedependenteffectonspecial.healthboost.checkstate.all.allies.dance","Anmutige Tänzerin"
 "herocard.passive_skill.title.taunt","Verspotten ignorieren"
 "herocard.passive_skill.title.titan_dread_damage_minions","Furcht"
 "herocard.passive_skill.title.titan_dread_damage_minions_15","Furcht"

@@ -50,6 +50,8 @@
 "herocard.family.title.fleur_de_sang_pve_tier3.short","Fleur de Sang"
 "herocard.family.title.forsaken","Forlatt familie"
 "herocard.family.title.forsaken.short","Forlatt"
+"herocard.family.title.fortune","Lykkedanser-familie"
+"herocard.family.title.fortune.short","Lykke"
 "herocard.family.title.fox","Revefamilie"
 "herocard.family.title.fox.short","Rev"
 "herocard.family.title.gargoyle","Griffamilie"

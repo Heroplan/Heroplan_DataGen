@@ -50,6 +50,8 @@
 "herocard.family.title.fleur_de_sang_pve_tier3.short","Fleur de Sang"
 "herocard.family.title.forsaken","Familia de forajidos"
 "herocard.family.title.forsaken.short","Forajidos"
+"herocard.family.title.fortune","Familia de bailarines de la fortuna"
+"herocard.family.title.fortune.short","Fortuna"
 "herocard.family.title.fox","Familia de zorros"
 "herocard.family.title.fox.short","Zorros"
 "herocard.family.title.gargoyle","Familia de gárgolas"

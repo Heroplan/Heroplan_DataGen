@@ -50,6 +50,8 @@
 "herocard.family.title.fleur_de_sang_pve_tier3.short","Fleur de Sang"
 "herocard.family.title.forsaken","Verlorenen-Familie"
 "herocard.family.title.forsaken.short","Verlorene"
+"herocard.family.title.fortune","Glückstänzer-Familie"
+"herocard.family.title.fortune.short","Glück"
 "herocard.family.title.fox","Fuchsfamilie"
 "herocard.family.title.fox.short","Fuchs"
 "herocard.family.title.gargoyle","Gargoyle-Familie"

@@ -50,6 +50,8 @@
 "herocard.family.title.fleur_de_sang_pve_tier3.short","زهرة الدم"
 "herocard.family.title.forsaken","عائلة المنبوذ"
 "herocard.family.title.forsaken.short","المنبوذ"
+"herocard.family.title.fortune","عائلة راقص الحظ"
+"herocard.family.title.fortune.short","الحظ"
 "herocard.family.title.fox","عائلة الثعالب"
 "herocard.family.title.fox.short","الثعلب"
 "herocard.family.title.gargoyle","عائلة المزراب"
