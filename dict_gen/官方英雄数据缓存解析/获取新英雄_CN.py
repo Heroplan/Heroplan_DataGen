@@ -225,17 +225,28 @@ def save_heroes_data(heroes_list, output_file, list_type="英雄"):
     print(f"\n排序后的{list_type}列表:")
     for hero in heroes_list:
         date_str = hero.get("canBeReceivedDate", "无日期")
-        print(f"  {date_str}: {hero['name']} : {hero['fancy_name']} - {hero['color']} - {hero['star']} star - {hero['family']}")
+        # 颜色翻译字典
+        COLOR_TRANSLATION = {
+            "Red": "红",
+            "Blue": "蓝", 
+            "Green": "绿",
+            "Yellow": "黄",
+            "Purple": "紫"
+        }
+        # 添加颜色翻译
+        color_en = hero.get("color", "")
+        color_cn = COLOR_TRANSLATION.get(color_en, color_en)
+        print(f"  {date_str}: {hero['name']} : {hero['fancy_name']} - {color_cn} - {hero['star']}星 - {hero['family']}")
 
 # 文件路径
 file_1 = './CachedConfigurations/json/characters_en.json'
 file_2 = 'T:/FileTemp/CachedConfigurations/json/characters_en.json'
-name_dict_file = '../官方语言字典生成/generated_txt/heroes_name_en.txt'
-fancy_name_dict_file = '../官方语言字典生成/generated_txt/heroes_name_fancy_en.txt'
-family_dict_file = '../官方语言字典生成/generated_txt/family_title_en.txt'
-current_unique_output = 'new_heroes.json'  # 年份<2200的独有项
-future_unique_output = 'future_heroes.json'     # 年份>=2200的独有项
-future_all_output = 'future_heroes_all.json'         # 年份>=2200的所有项
+name_dict_file = '../官方语言字典生成/generated_txt/heroes_name_cn.txt'
+fancy_name_dict_file = '../官方语言字典生成/generated_txt/heroes_name_fancy_cn.txt'
+family_dict_file = '../官方语言字典生成/generated_txt/family_title_cn.txt'
+current_unique_output = 'new_heroes_cn.json'  # 年份<2200的独有项
+future_unique_output = 'future_heroes_cn.json'     # 年份>=2200的独有项
+future_all_output = 'future_heroes_all_cn.json'         # 年份>=2200的所有项
 
 # 检查文件是否存在
 for file_path, desc in [

@@ -11502,7 +11502,7 @@
                   },
                   {
                     "type": "Avatar",
-                    "id": "The Justicar Crusader",
+                    "id": "The Enlightened-The Justicar Crusader",
                     "amount": 1
                   }
                 ]
@@ -11536,7 +11536,7 @@
                   },
                   {
                     "type": "Avatar",
-                    "id": "The Great Frog Tamer",
+                    "id": "The Great Phoenix Tamer-The Great Frog Tamer",
                     "amount": 1
                   },
                   {
@@ -11570,7 +11570,7 @@
                   },
                   {
                     "type": "Avatar",
-                    "id": "The Vanquisher",
+                    "id": "The Untamable-The Vanquisher",
                     "amount": 1
                   }
                 ]
@@ -11729,7 +11729,7 @@
                   },
                   {
                     "type": "Avatar",
-                    "id": "The Cephaloid Servant",
+                    "id": "The Accursed-The Cephaloid Servant",
                     "amount": 1
                   },
                   {
@@ -11773,7 +11773,7 @@
                   },
                   {
                     "type": "Avatar",
-                    "id": "Dark Duo",
+                    "id": "Dynamic Duo-Dark Duo",
                     "amount": 1
                   }
                 ]
@@ -11812,7 +11812,7 @@
                   },
                   {
                     "type": "Avatar",
-                    "id": "Bedtime Bruiser",
+                    "id": "Champion Bruiser-Bedtime Bruiser",
                     "amount": 1
                   }
                 ]
@@ -11952,7 +11952,7 @@
                   },
                   {
                     "type": "Avatar",
-                    "id": "Master of Clowns",
+                    "id": "Master of Circus-Master of Clowns",
                     "amount": 1
                   },
                   {
@@ -12070,7 +12070,7 @@
                   },
                   {
                     "type": "Avatar",
-                    "id": "Sovereign of Flora",
+                    "id": "Sovereign of Cerbera-Sovereign of Flora",
                     "amount": 1
                   }
                 ]
@@ -12138,7 +12138,7 @@
                   },
                   {
                     "type": "Avatar",
-                    "id": "Astronomer of Karemdol",
+                    "id": "Bane of Karemdol-Astronomer of Karemdol",
                     "amount": 1
                   }
                 ]
@@ -15091,7 +15091,7 @@
                 "content": [
                   {
                     "type": "Avatar",
-                    "id": "Callous Pirate",
+                    "id": "Depraved Assassin-Callous Pirate",
                     "amount": 1
                   },
                   {
@@ -15398,12 +15398,12 @@
                 "content": [
                   {
                     "type": "Avatar",
-                    "id": "Boulanger Musketeer",
+                    "id": "Romantic Musketeer-Boulanger Musketeer",
                     "amount": 1
                   },
                   {
                     "type": "Avatar",
-                    "id": "Pompous Jester",
+                    "id": "Pompous Duke-Pompous Jester",
                     "amount": 1
                   },
                   {
@@ -23616,7 +23616,7 @@
             "gemValue": 1000
           },
           {
-            "id": "Fisherman Bull",
+            "id": "Florist Bull-Fisherman Bull",
             "gemValue": 1000
           },
           {
@@ -23784,11 +23784,11 @@
             "gemValue": 1000
           },
           {
-            "id": "Eternal Sage",
+            "id": "Eternal Bard-Eternal Sage",
             "gemValue": 1000
           },
           {
-            "id": "Infernal Kin of Väinämöinen",
+            "id": "Cursed Kin of Väinämöinen-Infernal Kin of Väinämöinen",
             "gemValue": 1000
           },
           {
@@ -23860,7 +23860,7 @@
             "gemValue": 1000
           },
           {
-            "id": "Vampire Kingpin",
+            "id": "Vampire Scion-Vampire Kingpin",
             "gemValue": 1000
           },
           {
@@ -23904,39 +23904,39 @@
             "gemValue": 1000
           },
           {
-            "id": "Master of Clowns",
+            "id": "Master of Circus-Master of Clowns",
             "gemValue": 1000
           },
           {
-            "id": "Dark Duo",
+            "id": "Dynamic Duo-Dark Duo",
             "gemValue": 1000
           },
           {
-            "id": "The Great Frog Tamer",
+            "id": "The Great Phoenix Tamer-The Great Frog Tamer",
             "gemValue": 1000
           },
           {
-            "id": "The Justicar Crusader",
+            "id": "The Enlightened-The Justicar Crusader",
             "gemValue": 1000
           },
           {
-            "id": "The Vanquisher",
+            "id": "The Untamable-The Vanquisher",
             "gemValue": 1000
           },
           {
-            "id": "The Cephaloid Servant",
+            "id": "The Accursed-The Cephaloid Servant",
             "gemValue": 1000
           },
           {
-            "id": "Astronomer of Karemdol",
+            "id": "Bane of Karemdol-Astronomer of Karemdol",
             "gemValue": 1000
           },
           {
-            "id": "Bedtime Bruiser",
+            "id": "Champion Bruiser-Bedtime Bruiser",
             "gemValue": 1000
           },
           {
-            "id": "Sovereign of Flora",
+            "id": "Sovereign of Cerbera-Sovereign of Flora",
             "gemValue": 1000
           },
           {
@@ -24036,7 +24036,7 @@
             "gemValue": 1000
           },
           {
-            "id": "Captain of Snowboard Team",
+            "id": "Captain of Santa's Guards-Captain of Snowboard Team",
             "gemValue": 1000
           },
           {
@@ -24468,7 +24468,7 @@
             "gemValue": 1000
           },
           {
-            "id": "Seal Donut Vendor",
+            "id": "Seal Lifeguard-Seal Donut Vendor",
             "gemValue": 1000
           },
           {
@@ -24620,11 +24620,11 @@
             "gemValue": 1000
           },
           {
-            "id": "Fading Champion",
+            "id": "Undying Champion-Fading Champion",
             "gemValue": 1000
           },
           {
-            "id": "Frozen Hunter",
+            "id": "Ferocious Hunter-Frozen Hunter",
             "gemValue": 1000
           },
           {
@@ -24656,23 +24656,23 @@
             "gemValue": 1000
           },
           {
-            "id": "Cyber Courier",
+            "id": "Cyber Rogue-Cyber Courier",
             "gemValue": 1000
           },
           {
-            "id": "Galactic Jailer",
+            "id": "Galactic Savior-Galactic Jailer",
             "gemValue": 1000
           },
           {
-            "id": "Exiled Plasma Hacker",
+            "id": "Exiled Plasma Blade-Exiled Plasma Hacker",
             "gemValue": 1000
           },
           {
-            "id": "Idol of Elemental Creations",
+            "id": "Master of Elemental Creations-Idol of Elemental Creations",
             "gemValue": 1000
           },
           {
-            "id": "Defender of Galaxies",
+            "id": "Defender of Space-Time-Defender of Galaxies",
             "gemValue": 1000
           },
           {
@@ -24724,43 +24724,43 @@
             "gemValue": 1000
           },
           {
-            "id": "Glass Scientist",
+            "id": "Mad Scientist-Glass Scientist",
             "gemValue": 1000
           },
           {
-            "id": "Glass Defender",
+            "id": "Stout Defender-Glass Defender",
             "gemValue": 1000
           },
           {
-            "id": "Vitrail of Glaceholm",
+            "id": "Mage of Glaceholm-Vitrail of Glaceholm",
             "gemValue": 1000
           },
           {
-            "id": "Vitrail of Shaguad",
+            "id": "Ranger of Shaguad-Vitrail of Shaguad",
             "gemValue": 1000
           },
           {
-            "id": "Glass Assassin",
+            "id": "Unhinged Assassin-Glass Assassin",
             "gemValue": 1000
           },
           {
-            "id": "Vitrail of Frostmorrow",
+            "id": "Wielder of Frostmorrow-Vitrail of Frostmorrow",
             "gemValue": 1000
           },
           {
-            "id": "Glass Knight",
+            "id": "Protector Knight-Glass Knight",
             "gemValue": 1000
           },
           {
-            "id": "Deathbound Vitrail",
+            "id": "Deathbound Lady-Deathbound Vitrail",
             "gemValue": 1000
           },
           {
-            "id": "Shieldmaster of Glass",
+            "id": "Shieldmaster of Moonlight-Shieldmaster of Glass",
             "gemValue": 1000
           },
           {
-            "id": "Glass Remnant",
+            "id": "Solemn Remnant-Glass Remnant",
             "gemValue": 1000
           },
           {
@@ -24852,31 +24852,31 @@
             "gemValue": 1000
           },
           {
-            "id": "Boulanger Musketeer",
+            "id": "Romantic Musketeer-Boulanger Musketeer",
             "gemValue": 1000
           },
           {
-            "id": "Farrier Musketeer",
+            "id": "Veteran Musketeer-Farrier Musketeer",
             "gemValue": 1000
           },
           {
-            "id": "Merchant Musketeer",
+            "id": "Jolly Musketeer-Merchant Musketeer",
             "gemValue": 1000
           },
           {
-            "id": "Pompous Jester",
+            "id": "Pompous Duke-Pompous Jester",
             "gemValue": 1000
           },
           {
-            "id": "Callous Pirate",
+            "id": "Depraved Assassin-Callous Pirate",
             "gemValue": 1000
           },
           {
-            "id": "Friendly Fruit Harvester",
+            "id": "Friendly Florist-Friendly Fruit Harvester",
             "gemValue": 1000
           },
           {
-            "id": "Valiant Adventurer",
+            "id": "Valiant Valet-Valiant Adventurer",
             "gemValue": 1000
           },
           {
@@ -25240,7 +25240,7 @@
             "gemValue": 1000
           },
           {
-            "id": "Centaur of the Taproom",
+            "id": "Centaur of the Woodlands-Centaur of the Taproom",
             "gemValue": 1000
           },
           {
@@ -59173,7 +59173,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Ardent Chimney-Sweeper",
+            "costumeId": "Ardent Musketeer-Ardent Chimney-Sweeper",
             "parentHeroId": "musketeer_dartagnan"
           },
           {
@@ -59185,7 +59185,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-02-17 07:00:00",
-            "costumeId": "Lunar Lantern Rabbit",
+            "costumeId": "Lunar Protector Rabbit-Lunar Lantern Rabbit",
             "parentHeroId": "lunar_new_year_xiaotu"
           },
           {
@@ -59197,7 +59197,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-01-19 07:00:00",
-            "costumeId": "Cupid of Lone Rangers",
+            "costumeId": "Cupid of Heartbreakers-Cupid of Lone Rangers",
             "parentHeroId": "valentines_zarola"
           },
           {
@@ -59209,7 +59209,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-01-19 07:00:00",
-            "costumeId": "Cupid of Painters",
+            "costumeId": "Cupid of Delights-Cupid of Painters",
             "parentHeroId": "valentines_voluptas"
           },
           {
@@ -59221,7 +59221,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-01-19 07:00:00",
-            "costumeId": "Cupid of Fiery Passion",
+            "costumeId": "Cupid of Affection-Cupid of Fiery Passion",
             "parentHeroId": "valentines_cupido"
           },
           {
@@ -59233,7 +59233,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Stylish Duelist",
+            "costumeId": "Dashing Duelist-Stylish Duelist",
             "parentHeroId": "nordic_swordman"
           },
           {
@@ -59245,7 +59245,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-01-07 07:00:00",
-            "costumeId": "Stylish Mage",
+            "costumeId": "Mage from the Sandsea-Stylish Mage",
             "parentHeroId": "nomad_mage"
           },
           {
@@ -59257,7 +59257,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-01-07 07:00:00",
-            "costumeId": "Vibrant Bamboo",
+            "costumeId": "Branch of Bamboo-Vibrant Bamboo",
             "parentHeroId": "oriental_panda_berserker"
           },
           {
@@ -59269,7 +59269,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-01-26 07:00:00",
-            "costumeId": "Stylish Elf",
+            "costumeId": "Elven Veteran-Stylish Elf",
             "parentHeroId": "elven_captain"
           },
           {
@@ -59281,7 +59281,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-01-07 07:00:00",
-            "costumeId": "Heir of Evil Style",
+            "costumeId": "Dark Orphan-Heir of Evil Style",
             "parentHeroId": "nordic_ancestral_warrior"
           },
           {
@@ -59293,7 +59293,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-01-07 07:00:00",
-            "costumeId": "The Fancy",
+            "costumeId": "The Unwavering-The Fancy",
             "parentHeroId": "orc_gladiator"
           },
           {
@@ -59305,7 +59305,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-01-26 07:00:00",
-            "costumeId": "Stylish Bodyguard",
+            "costumeId": "Praetorian Bodyguard-Stylish Bodyguard",
             "parentHeroId": "underworld_champion"
           },
           {
@@ -59317,7 +59317,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-01-26 07:00:00",
-            "costumeId": "Stylish Spearmaster",
+            "costumeId": "Spearmaster of Moonlight-Stylish Spearmaster",
             "parentHeroId": "forest_male_elf"
           },
           {
@@ -59329,7 +59329,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-01-07 07:00:00",
-            "costumeId": "Stylish Leor",
+            "costumeId": "Last of the Leors-Stylish Leor",
             "parentHeroId": "lionman_barbarian"
           },
           {
@@ -59341,7 +59341,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-01-07 07:00:00",
-            "costumeId": "Stylish Executioner",
+            "costumeId": "Executor from Descenthia-Stylish Executioner",
             "parentHeroId": "cultist_sorceress"
           },
           {
@@ -59353,7 +59353,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-11-12 07:00:00",
-            "costumeId": "Callous Pirate",
+            "costumeId": "Depraved Assassin-Callous Pirate",
             "parentHeroId": "musketeer_felton"
           },
           {
@@ -59365,7 +59365,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Valiant Adventurer",
+            "costumeId": "Valiant Valet-Valiant Adventurer",
             "parentHeroId": "musketeer_planchet"
           },
           {
@@ -59377,7 +59377,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Friendly Fruit Harvester",
+            "costumeId": "Friendly Florist-Friendly Fruit Harvester",
             "parentHeroId": "musketeer_kitty"
           },
           {
@@ -59389,7 +59389,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Machiavellian Herbalist",
+            "costumeId": "Machiavellian Villainess-Machiavellian Herbalist",
             "parentHeroId": "musketeer_milady_de_winter"
           },
           {
@@ -59401,7 +59401,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-10-25 07:00:00",
-            "costumeId": "Titan of Magma",
+            "costumeId": "Titan of Sea-Titan of Magma",
             "parentHeroId": "s2_oceanus"
           },
           {
@@ -59413,7 +59413,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-10-15 07:00:00",
-            "costumeId": "Dwarven Replenisher",
+            "costumeId": "Dwarven Rage Runner-Dwarven Replenisher",
             "parentHeroId": "tales2_helgi"
           },
           {
@@ -59425,7 +59425,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-10-15 07:00:00",
-            "costumeId": "Dwarven Ghostly Skald",
+            "costumeId": "Dwarven Golden Skald-Dwarven Ghostly Skald",
             "parentHeroId": "tales2_fjalar"
           },
           {
@@ -59437,7 +59437,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Dwarven Regal Soldier",
+            "costumeId": "Dwarven Wind Warrior-Dwarven Regal Soldier",
             "parentHeroId": "tales2_gandr"
           },
           {
@@ -59449,7 +59449,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-10-15 07:00:00",
-            "costumeId": "Dwarven Maestro Trickster",
+            "costumeId": "Dwarven Merry Trickster-Dwarven Maestro Trickster",
             "parentHeroId": "tales2_ott"
           },
           {
@@ -59461,7 +59461,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-12-19 07:00:00",
-            "costumeId": "Farrier Musketeer",
+            "costumeId": "Veteran Musketeer-Farrier Musketeer",
             "parentHeroId": "musketeer_athos"
           },
           {
@@ -59473,7 +59473,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-11-12 07:00:00",
-            "costumeId": "Boulanger Musketeer",
+            "costumeId": "Romantic Musketeer-Boulanger Musketeer",
             "parentHeroId": "musketeer_aramis"
           },
           {
@@ -59485,7 +59485,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-10-08 07:00:00",
-            "costumeId": "The Backstabbing Butler",
+            "costumeId": "Cunning Butler-The Backstabbing Butler",
             "parentHeroId": "halloween_edwin"
           },
           {
@@ -59497,7 +59497,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Cosmic Alchemist",
+            "costumeId": "Cosmic Chef-Cosmic Alchemist",
             "parentHeroId": "elemental_quinn"
           },
           {
@@ -59509,7 +59509,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Cyber Blade Master",
+            "costumeId": "Supersonic Blade Master-Cyber Blade Master",
             "parentHeroId": "elemental_farrah"
           },
           {
@@ -59521,7 +59521,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Scythe Master of the Music",
+            "costumeId": "Scythe Master of the Dark Sea-Scythe Master of the Music",
             "parentHeroId": "elemental_niki"
           },
           {
@@ -59533,7 +59533,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Warlord of the Legion",
+            "costumeId": "Warlord of the Unwavering Orcs-Warlord of the Legion",
             "parentHeroId": "elemental_ironmaw"
           },
           {
@@ -59545,7 +59545,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Blade Assassin",
+            "costumeId": "Blade Alchemist-Blade Assassin",
             "parentHeroId": "elemental_desmond"
           },
           {
@@ -59557,7 +59557,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Mythic Navigator",
+            "costumeId": "Electric Navigator-Mythic Navigator",
             "parentHeroId": "elemental_jolt"
           },
           {
@@ -59569,7 +59569,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Sporty Hazard",
+            "costumeId": "Multidimensional Hazard-Sporty Hazard",
             "parentHeroId": "elemental_gastille"
           },
           {
@@ -59581,7 +59581,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Savage Bounty Hunter",
+            "costumeId": "Fierce Bounty Hunter-Savage Bounty Hunter",
             "parentHeroId": "elemental_ash"
           },
           {
@@ -59593,7 +59593,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Treasured Quartermaster",
+            "costumeId": "Hospitable Quartermaster-Treasured Quartermaster",
             "parentHeroId": "elemental_grilka"
           },
           {
@@ -59605,7 +59605,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Elemental Occultist",
+            "costumeId": "Elemental Shaman-Elemental Occultist",
             "parentHeroId": "elemental_craum"
           },
           {
@@ -59617,7 +59617,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Jewelled Assassin",
+            "costumeId": "Cold Blooded Assassin-Jewelled Assassin",
             "parentHeroId": "elemental_nylora"
           },
           {
@@ -59629,7 +59629,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Clown Captain",
+            "costumeId": "Cyborg Captain-Clown Captain",
             "parentHeroId": "elemental_vander"
           },
           {
@@ -59641,7 +59641,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Hoverboard Mage",
+            "costumeId": "Hoverboarding Elf-Hoverboard Mage",
             "parentHeroId": "elemental_zuni"
           },
           {
@@ -59713,7 +59713,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-05-28 07:00:00",
-            "costumeId": "Elemental Colossus",
+            "costumeId": "Elemental Hoplite-Elemental Colossus",
             "parentHeroId": "tales1_aqualith"
           },
           {
@@ -59725,7 +59725,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-05-28 07:00:00",
-            "costumeId": "Siphoner of the Deep",
+            "costumeId": "Temple Keeper of the Deep-Siphoner of the Deep",
             "parentHeroId": "tales1_ultrox"
           },
           {
@@ -59737,7 +59737,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-06-26 07:00:00",
-            "costumeId": "Scavenger of the Deep",
+            "costumeId": "Treasure Hunter of the Deep-Scavenger of the Deep",
             "parentHeroId": "tales1_gelert"
           },
           {
@@ -59749,7 +59749,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-07-05 07:00:00",
-            "costumeId": "Tower Postmaster",
+            "costumeId": "Tower Headmaster-Tower Postmaster",
             "parentHeroId": "magic_nadezhda"
           },
           {
@@ -59761,7 +59761,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-05-29 07:00:00",
-            "costumeId": "Supreme Dark Sorceress",
+            "costumeId": "Superintendent Supreme-Supreme Dark Sorceress",
             "parentHeroId": "magic_agrafena"
           },
           {
@@ -59821,7 +59821,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-11-14 07:00:00",
-            "costumeId": "The Justicar Crusader",
+            "costumeId": "The Enlightened-The Justicar Crusader",
             "parentHeroId": "slayer_caitlin"
           },
           {
@@ -59833,7 +59833,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-11-14 07:00:00",
-            "costumeId": "The Vanquisher",
+            "costumeId": "The Untamable-The Vanquisher",
             "parentHeroId": "slayer_saoirse"
           },
           {
@@ -59845,7 +59845,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-04-09 07:00:00",
-            "costumeId": "The Cephaloid Servant",
+            "costumeId": "The Accursed-The Cephaloid Servant",
             "parentHeroId": "slayer_senan"
           },
           {
@@ -59857,7 +59857,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-11-14 07:00:00",
-            "costumeId": "Astronomer of Karemdol",
+            "costumeId": "Bane of Karemdol-Astronomer of Karemdol",
             "parentHeroId": "villain_dark_lord"
           },
           {
@@ -59869,7 +59869,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-06-15 07:00:00",
-            "costumeId": "Bedtime Bruiser",
+            "costumeId": "Champion Bruiser-Bedtime Bruiser",
             "parentHeroId": "villain_karnov"
           },
           {
@@ -59881,7 +59881,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-06-15 07:00:00",
-            "costumeId": "Sovereign of Flora",
+            "costumeId": "Sovereign of Cerbera-Sovereign of Flora",
             "parentHeroId": "villain_toxicandra"
           },
           {
@@ -59893,7 +59893,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-08-08 07:00:00",
-            "costumeId": "Master of Clowns",
+            "costumeId": "Master of Circus-Master of Clowns",
             "parentHeroId": "circus_director_zuri"
           },
           {
@@ -59905,7 +59905,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-12-17 07:00:00",
-            "costumeId": "Warden of the Wolves",
+            "costumeId": "Warden of the Castle-Warden of the Wolves",
             "parentHeroId": "castle_wolf_ferant"
           },
           {
@@ -59917,7 +59917,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Frosthunter of the Ravens",
+            "costumeId": "Stalker of the Castle-Frosthunter of the Ravens",
             "parentHeroId": "castle_raven_quintin"
           },
           {
@@ -59929,7 +59929,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-12-17 07:00:00",
-            "costumeId": "Captain of the Ravens",
+            "costumeId": "Captain of the Castle-Captain of the Ravens",
             "parentHeroId": "castle_raven_rayne"
           },
           {
@@ -59941,7 +59941,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-12-11 07:00:00",
-            "costumeId": "Glass Remnant",
+            "costumeId": "Solemn Remnant-Glass Remnant",
             "parentHeroId": "undead_running_skeleton"
           },
           {
@@ -59953,7 +59953,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-11-25 07:00:00",
-            "costumeId": "Glass Knight",
+            "costumeId": "Protector Knight-Glass Knight",
             "parentHeroId": "royal_knight"
           },
           {
@@ -59965,7 +59965,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-11-25 07:00:00",
-            "costumeId": "Glass Assassin",
+            "costumeId": "Unhinged Assassin-Glass Assassin",
             "parentHeroId": "blackguard_skulker"
           },
           {
@@ -59977,7 +59977,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-10-09 07:00:00",
-            "costumeId": "Vitrail of Shaguad",
+            "costumeId": "Ranger of Shaguad-Vitrail of Shaguad",
             "parentHeroId": "oriental_female_guard"
           },
           {
@@ -59989,7 +59989,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-10-09 07:00:00",
-            "costumeId": "Vitrail of Glaceholm",
+            "costumeId": "Mage of Glaceholm-Vitrail of Glaceholm",
             "parentHeroId": "nordic_mage"
           },
           {
@@ -60001,7 +60001,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-09-07 07:00:00",
-            "costumeId": "Relentless Vitrail",
+            "costumeId": "Relentless Remnant-Relentless Vitrail",
             "parentHeroId": "undead_horned_skeleton"
           },
           {
@@ -60013,7 +60013,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-09-07 07:00:00",
-            "costumeId": "Glass Fighter",
+            "costumeId": "Lizardfolk Fighter-Glass Fighter",
             "parentHeroId": "lizardman_warrior"
           },
           {
@@ -60025,7 +60025,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-08-10 07:00:00",
-            "costumeId": "The Hotblooded Vitrail",
+            "costumeId": "The Hotblooded-The Hotblooded Vitrail",
             "parentHeroId": "dwarven_smasher"
           },
           {
@@ -60037,7 +60037,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-08-10 07:00:00",
-            "costumeId": "Last to Shatter",
+            "costumeId": "First in Battle-Last to Shatter",
             "parentHeroId": "orc_warrior"
           },
           {
@@ -60049,7 +60049,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-07-16 07:00:00",
-            "costumeId": "Glass Cutpurse",
+            "costumeId": "The Cutpurse-Glass Cutpurse",
             "parentHeroId": "goblin_fighter"
           },
           {
@@ -60061,7 +60061,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-07-16 07:00:00",
-            "costumeId": "Ascendant Vitrail",
+            "costumeId": "Ascendant Shaman-Ascendant Vitrail",
             "parentHeroId": "nomad_female_shaman"
           },
           {
@@ -60073,7 +60073,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-06-18 07:00:00",
-            "costumeId": "Jovial Vitrail",
+            "costumeId": "Jovial Brother-Jovial Vitrail",
             "parentHeroId": "forest_friar"
           },
           {
@@ -60085,7 +60085,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-06-18 07:00:00",
-            "costumeId": "The Ferocious Glass",
+            "costumeId": "The Ferocious-The Ferocious Glass",
             "parentHeroId": "nordic_chained_werewolf"
           },
           {
@@ -60097,7 +60097,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-05-10 07:00:00",
-            "costumeId": "Glass Archer",
+            "costumeId": "Able Archer-Glass Archer",
             "parentHeroId": "forest_archer"
           },
           {
@@ -60109,7 +60109,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-05-10 07:00:00",
-            "costumeId": "Glass Brawler",
+            "costumeId": "Noble Defender-Glass Brawler",
             "parentHeroId": "oriental_brawler"
           },
           {
@@ -60121,7 +60121,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-04-23 07:00:00",
-            "costumeId": "Glass Spirit",
+            "costumeId": "Glade Spirit-Glass Spirit",
             "parentHeroId": "forest_female_spirit"
           },
           {
@@ -60133,7 +60133,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-04-23 07:00:00",
-            "costumeId": "Seeker of Glass",
+            "costumeId": "Seeker of Throne-Seeker of Glass",
             "parentHeroId": "nomad_female_swordmaster"
           },
           {
@@ -60145,7 +60145,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-04-08 07:00:00",
-            "costumeId": "Resolute Vitrail",
+            "costumeId": "Resolute Warden-Resolute Vitrail",
             "parentHeroId": "blackguard_female_captain"
           },
           {
@@ -60157,7 +60157,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-03-11 07:00:00",
-            "costumeId": "Glass Healer",
+            "costumeId": "Selfless Healer-Glass Healer",
             "parentHeroId": "oriental_female_mage"
           },
           {
@@ -60169,7 +60169,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-03-11 07:00:00",
-            "costumeId": "Glass Magician",
+            "costumeId": "Dread Magician-Glass Magician",
             "parentHeroId": "cultist_mage"
           },
           {
@@ -60181,7 +60181,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-03-11 07:00:00",
-            "costumeId": "Vitrail of Rathwood",
+            "costumeId": "Druid of Rathwood-Vitrail of Rathwood",
             "parentHeroId": "forest_female_druid"
           },
           {
@@ -60193,7 +60193,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-11-25 07:00:00",
-            "costumeId": "Deathbound Vitrail",
+            "costumeId": "Deathbound Lady-Deathbound Vitrail",
             "parentHeroId": "undead_female_warrior"
           },
           {
@@ -60205,7 +60205,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-10-09 07:00:00",
-            "costumeId": "Glass Defender",
+            "costumeId": "Stout Defender-Glass Defender",
             "parentHeroId": "dwarven_guard"
           },
           {
@@ -60217,7 +60217,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-09-07 07:00:00",
-            "costumeId": "Mournful Vitrail",
+            "costumeId": "Mournful Duke-Mournful Vitrail",
             "parentHeroId": "blackguard_commander"
           },
           {
@@ -60229,7 +60229,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-09-07 07:00:00",
-            "costumeId": "Raider from the Glass Sea",
+            "costumeId": "Raider from the Sandsea-Raider from the Glass Sea",
             "parentHeroId": "nomad_female_assassin"
           },
           {
@@ -60241,7 +60241,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-08-10 07:00:00",
-            "costumeId": "Glass Monkey",
+            "costumeId": "Monkey Lord-Glass Monkey",
             "parentHeroId": "oriental_monkey_captain"
           },
           {
@@ -60253,7 +60253,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-08-10 07:00:00",
-            "costumeId": "Glass Champion",
+            "costumeId": "Willful Champion-Glass Champion",
             "parentHeroId": "royal_female_knight"
           },
           {
@@ -60265,7 +60265,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-07-16 07:00:00",
-            "costumeId": "Glass Tactician",
+            "costumeId": "Master Tactician-Glass Tactician",
             "parentHeroId": "oriental_falconer"
           },
           {
@@ -60277,7 +60277,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-07-16 07:00:00",
-            "costumeId": "Glass Cavalier",
+            "costumeId": "Noble Cavalier-Glass Cavalier",
             "parentHeroId": "blackguard_knight"
           },
           {
@@ -60289,7 +60289,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-06-18 07:00:00",
-            "costumeId": "Glass Chieftain",
+            "costumeId": "Lizardfolk Chieftain-Glass Chieftain",
             "parentHeroId": "lizardman_trapper"
           },
           {
@@ -60301,7 +60301,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-06-18 07:00:00",
-            "costumeId": "Blade of Glass",
+            "costumeId": "Blade of Bamboo-Blade of Glass",
             "parentHeroId": "oriental_panda_warrior"
           },
           {
@@ -60313,7 +60313,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-05-10 07:00:00",
-            "costumeId": "Mighty Vitrail",
+            "costumeId": "Mighty Brother-Mighty Vitrail",
             "parentHeroId": "forest_woodsman_warrior"
           },
           {
@@ -60325,7 +60325,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-05-10 07:00:00",
-            "costumeId": "The Hungry Vitrail",
+            "costumeId": "The Hungry-The Hungry Vitrail",
             "parentHeroId": "orc_troopmaster"
           },
           {
@@ -60337,7 +60337,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-04-23 07:00:00",
-            "costumeId": "Vitrail of Dragonia",
+            "costumeId": "Priestess of Dragonia-Vitrail of Dragonia",
             "parentHeroId": "nomad_female_berserker"
           },
           {
@@ -60349,7 +60349,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-04-23 07:00:00",
-            "costumeId": "Deathbound Vitrail",
+            "costumeId": "Deathbound Lord-Deathbound Vitrail",
             "parentHeroId": "undead_captain_warrior"
           },
           {
@@ -60361,7 +60361,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-04-08 07:00:00",
-            "costumeId": "Glass Witch",
+            "costumeId": "Bog Witch-Glass Witch",
             "parentHeroId": "goblin_mage"
           },
           {
@@ -60373,7 +60373,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-04-08 07:00:00",
-            "costumeId": "Glass Bounty hunter",
+            "costumeId": "Brave Bounty Hunter-Glass Bounty hunter",
             "parentHeroId": "nomad_axe_adventurer"
           },
           {
@@ -60385,7 +60385,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-03-11 07:00:00",
-            "costumeId": "Brewer Vitrail",
+            "costumeId": "Master Brewer-Brewer Vitrail",
             "parentHeroId": "dwarwen_brewmaster"
           },
           {
@@ -60397,7 +60397,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-03-11 07:00:00",
-            "costumeId": "Vitrail of the Forest",
+            "costumeId": "Wisdom of the Forest-Vitrail of the Forest",
             "parentHeroId": "forest_mage"
           },
           {
@@ -60409,7 +60409,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-03-11 07:00:00",
-            "costumeId": "Glass General",
+            "costumeId": "Wise General-Glass General",
             "parentHeroId": "oriental_female_templar"
           },
           {
@@ -60421,7 +60421,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-12-11 07:00:00",
-            "costumeId": "Shieldmaster of Glass",
+            "costumeId": "Shieldmaster of Moonlight-Shieldmaster of Glass",
             "parentHeroId": "forest_female_elf"
           },
           {
@@ -60433,7 +60433,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-11-25 07:00:00",
-            "costumeId": "Vitrail of Frostmorrow",
+            "costumeId": "Wielder of Frostmorrow-Vitrail of Frostmorrow",
             "parentHeroId": "royal_knight_commander"
           },
           {
@@ -60445,7 +60445,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-10-09 07:00:00",
-            "costumeId": "Glass Scientist",
+            "costumeId": "Mad Scientist-Glass Scientist",
             "parentHeroId": "cultist_inventor"
           },
           {
@@ -60457,7 +60457,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-09-07 07:00:00",
-            "costumeId": "Vitrail of the Woods",
+            "costumeId": "Ancient of the Woods-Vitrail of the Woods",
             "parentHeroId": "forest_titan"
           },
           {
@@ -60469,7 +60469,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-08-10 07:00:00",
-            "costumeId": "Vitrail of Stone",
+            "costumeId": "Ancient of Stone-Vitrail of Stone",
             "parentHeroId": "exalted_female_statue"
           },
           {
@@ -60481,7 +60481,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-07-16 07:00:00",
-            "costumeId": "Captain of the Glass Guard",
+            "costumeId": "Captain of the Royal Guard-Captain of the Glass Guard",
             "parentHeroId": "nomad_female_lord"
           },
           {
@@ -60493,7 +60493,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-06-18 07:00:00",
-            "costumeId": "Vitrail of Glaceholm",
+            "costumeId": "Protector of Glaceholm-Vitrail of Glaceholm",
             "parentHeroId": "nordic_ice_enchantress"
           },
           {
@@ -60505,7 +60505,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-06-18 07:00:00",
-            "costumeId": "Chief of Vitrails",
+            "costumeId": "Chief of Tribes-Chief of Vitrails",
             "parentHeroId": "tribal_chief"
           },
           {
@@ -60517,7 +60517,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-04-23 07:00:00",
-            "costumeId": "Glass Sniper",
+            "costumeId": "Magitech Sniper-Glass Sniper",
             "parentHeroId": "magitech_sniper"
           },
           {
@@ -60529,7 +60529,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-05-10 07:00:00",
-            "costumeId": "The Noble Vitrail",
+            "costumeId": "The Noble Heart-The Noble Vitrail",
             "parentHeroId": "elven_archer"
           },
           {
@@ -60541,7 +60541,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-04-08 07:00:00",
-            "costumeId": "Vitrail of the Sun",
+            "costumeId": "Flame of the Sun-Vitrail of the Sun",
             "parentHeroId": "oriental_enchanted_monk"
           },
           {
@@ -60553,7 +60553,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-03-11 07:00:00",
-            "costumeId": "Vitrail of Ice",
+            "costumeId": "Ancient of Ice-Vitrail of Ice",
             "parentHeroId": "exalted_warrior"
           },
           {
@@ -60565,7 +60565,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-02-11 07:00:00",
-            "costumeId": "Vitrail of Windemer",
+            "costumeId": "Lady of Windemer-Vitrail of Windemer",
             "parentHeroId": "nomad_female_captain"
           },
           {
@@ -60577,7 +60577,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-02-11 07:00:00",
-            "costumeId": "Unyielding Vitrail",
+            "costumeId": "Unyielding King-Unyielding Vitrail",
             "parentHeroId": "oriental_warrior_king"
           },
           {
@@ -60589,7 +60589,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-01-14 07:00:00",
-            "costumeId": "Praetorian Vitrail",
+            "costumeId": "Praetorian Bodyguard-Praetorian Vitrail",
             "parentHeroId": "underworld_champion"
           },
           {
@@ -60601,7 +60601,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-12-25 07:00:00",
-            "costumeId": "Nomad from the Glass Sea",
+            "costumeId": "Mage from the Sandsea-Nomad from the Glass Sea",
             "parentHeroId": "nomad_mage"
           },
           {
@@ -60613,7 +60613,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-12-25 07:00:00",
-            "costumeId": "Branch of Glass",
+            "costumeId": "Branch of Bamboo-Branch of Glass",
             "parentHeroId": "oriental_panda_berserker"
           },
           {
@@ -60625,7 +60625,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-12-25 07:00:00",
-            "costumeId": "The Reflecting",
+            "costumeId": "The Unwavering-The Reflecting",
             "parentHeroId": "orc_gladiator"
           },
           {
@@ -60637,7 +60637,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-12-25 07:00:00",
-            "costumeId": "Dark Vitrail",
+            "costumeId": "Dark Orphan-Dark Vitrail",
             "parentHeroId": "nordic_ancestral_warrior"
           },
           {
@@ -60649,7 +60649,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-12-25 07:00:00",
-            "costumeId": "Vitrail from Descenthia",
+            "costumeId": "Executor from Descenthia-Vitrail from Descenthia",
             "parentHeroId": "cultist_sorceress"
           },
           {
@@ -60661,7 +60661,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-12-25 07:00:00",
-            "costumeId": "Glass Scholar",
+            "costumeId": "Scholar Supreme-Glass Scholar",
             "parentHeroId": "oriental_female_mystic"
           },
           {
@@ -60673,7 +60673,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-12-25 07:00:00",
-            "costumeId": "Hammer of Glass",
+            "costumeId": "Hammer of Justice-Hammer of Glass",
             "parentHeroId": "nordic_male_lord"
           },
           {
@@ -60685,7 +60685,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-04-29 07:00:00",
-            "costumeId": "Fishboy Scout",
+            "costumeId": "Fishman Skirmish Leader-Fishboy Scout",
             "parentHeroId": "tales1_bagreg"
           },
           {
@@ -60697,7 +60697,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-02-03 07:00:00",
-            "costumeId": "Dodgy Alchemist of the Deep",
+            "costumeId": "Dodgy Merchant of the Deep-Dodgy Alchemist of the Deep",
             "parentHeroId": "tales1_jaco"
           },
           {
@@ -60709,7 +60709,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-03-31 07:00:00",
-            "costumeId": "Fishman Bard",
+            "costumeId": "Fishman Marauder-Fishman Bard",
             "parentHeroId": "tales1_mulgog"
           },
           {
@@ -60721,7 +60721,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-02-03 07:00:00",
-            "costumeId": "Jagged Butcher",
+            "costumeId": "Great Betrayer-Jagged Butcher",
             "parentHeroId": "tales1_sharkhai"
           },
           {
@@ -60733,7 +60733,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-02-03 07:00:00",
-            "costumeId": "Naga Guard",
+            "costumeId": "Naga Berserker-Naga Guard",
             "parentHeroId": "tales1_spartoi"
           },
           {
@@ -60745,7 +60745,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-12-14 07:00:00",
-            "costumeId": "The Supreme Hadal Being",
+            "costumeId": "The Eternal Hadal Being-The Supreme Hadal Being",
             "parentHeroId": "tales1_domiventus"
           },
           {
@@ -60757,7 +60757,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-11-21 07:00:00",
-            "costumeId": "Glacial Siren of the Deep",
+            "costumeId": "Glacial Nereid of the Deep-Glacial Siren of the Deep",
             "parentHeroId": "tales1_atlanteia"
           },
           {
@@ -60814,7 +60814,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-09-21 07:00:00",
-            "costumeId": "Flamboyant Jockey of Atlantis",
+            "costumeId": "Flamboyant Hussar of Atlantis-Flamboyant Jockey of Atlantis",
             "parentHeroId": "tales1_lasalle"
           },
           {
@@ -60826,7 +60826,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-07-27 07:00:00",
-            "costumeId": "Wise Roller of the Quarry",
+            "costumeId": "Wise Sage of the Oceans-Wise Roller of the Quarry",
             "parentHeroId": "tales1_galapago"
           },
           {
@@ -60838,7 +60838,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-08-24 07:00:00",
-            "costumeId": "Primordial Goddess of the Crystals",
+            "costumeId": "Primordial Goddess of the Oceans-Primordial Goddess of the Crystals",
             "parentHeroId": "tales1_thalassa"
           },
           {
@@ -60862,7 +60862,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-07-22 07:00:00",
-            "costumeId": "Eternal Sage",
+            "costumeId": "Eternal Bard-Eternal Sage",
             "parentHeroId": "kalevala_vainamoinen"
           },
           {
@@ -60874,7 +60874,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-10-29 07:00:00",
-            "costumeId": "Merciless Bear General",
+            "costumeId": "Merciless General-Merciless Bear General",
             "parentHeroId": "kingdom_zhang_fei"
           },
           {
@@ -60886,7 +60886,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-11-30 07:00:00",
-            "costumeId": "Warlord of Fortune",
+            "costumeId": "Warlord of Wu-Warlord of Fortune",
             "parentHeroId": "kingdom_sun_quan"
           },
           {
@@ -60898,7 +60898,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-12-28 07:00:00",
-            "costumeId": "Wrathful Tiger Warlord",
+            "costumeId": "Wrathful Warlord-Wrathful Tiger Warlord",
             "parentHeroId": "kingdom_lu_bu"
           },
           {
@@ -60910,7 +60910,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-01-29 07:00:00",
-            "costumeId": "Raven Commander",
+            "costumeId": "Young Commander-Raven Commander",
             "parentHeroId": "kingdom_zhou_yu"
           },
           {
@@ -60922,7 +60922,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-01-29 07:00:00",
-            "costumeId": "Gentle Calligrapher",
+            "costumeId": "Gentle Noblewoman-Gentle Calligrapher",
             "parentHeroId": "kingdom_wang_yuanji"
           },
           {
@@ -60934,7 +60934,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-01-29 07:00:00",
-            "costumeId": "Warlord of Forest",
+            "costumeId": "Warlord of Shu-Warlord of Forest",
             "parentHeroId": "kingdom_liu_bei"
           },
           {
@@ -60946,7 +60946,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-10-01 07:00:00",
-            "costumeId": "Inferno General",
+            "costumeId": "Valiant General-Inferno General",
             "parentHeroId": "kingdom_guan_yu"
           },
           {
@@ -60958,7 +60958,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-08-02 07:00:00",
-            "costumeId": "Warlord of Ice",
+            "costumeId": "Warlord of Wei-Warlord of Ice",
             "parentHeroId": "kingdom_cao_cao"
           },
           {
@@ -60970,7 +60970,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-04-14 07:00:00",
-            "costumeId": "Pharaoh's Blade",
+            "costumeId": "Pharaoh's Shield-Pharaoh's Blade",
             "parentHeroId": "s5_waqas"
           },
           {
@@ -60982,7 +60982,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-02-17 07:00:00",
-            "costumeId": "Young Artist",
+            "costumeId": "Young Sphinx-Young Artist",
             "parentHeroId": "s5_rekhetre"
           },
           {
@@ -60994,7 +60994,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-03-17 07:00:00",
-            "costumeId": "Stressed-Out Curator",
+            "costumeId": "Stressed-Out Scribe-Stressed-Out Curator",
             "parentHeroId": "s5_jarif"
           },
           {
@@ -61006,7 +61006,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-09-07 07:00:00",
-            "costumeId": "Fortuitous Miner",
+            "costumeId": "Fortuitous Farmer-Fortuitous Miner",
             "parentHeroId": "s5_faiez"
           },
           {
@@ -61018,7 +61018,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-01-20 07:00:00",
-            "costumeId": "Scarab Sentinel",
+            "costumeId": "Scarab Guard-Scarab Sentinel",
             "parentHeroId": "s5_scoratek"
           },
           {
@@ -61030,7 +61030,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-10-05 07:00:00",
-            "costumeId": "Elder Log",
+            "costumeId": "Elder Pharaoh-Elder Log",
             "parentHeroId": "s5_ptolemy"
           },
           {
@@ -61042,7 +61042,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-11-01 07:00:00",
-            "costumeId": "Sworn Champion",
+            "costumeId": "Sworn Soldier-Sworn Champion",
             "parentHeroId": "s5_junaid"
           },
           {
@@ -61054,7 +61054,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-02-17 07:00:00",
-            "costumeId": "Scarab Overlord",
+            "costumeId": "Scarab God-Scarab Overlord",
             "parentHeroId": "s5_khepri"
           },
           {
@@ -61066,7 +61066,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-09-07 07:00:00",
-            "costumeId": "Knight of the Moon",
+            "costumeId": "God of the Moon-Knight of the Moon",
             "parentHeroId": "s5_khonshu"
           },
           {
@@ -61078,7 +61078,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-11-01 07:00:00",
-            "costumeId": "Aquatic Androsphinx",
+            "costumeId": "Acute Androsphinx-Aquatic Androsphinx",
             "parentHeroId": "s5_khafre"
           },
           {
@@ -61090,7 +61090,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-10-05 07:00:00",
-            "costumeId": "Colossus of Paper and Sand",
+            "costumeId": "Golem of Paper and Sand-Colossus of Paper and Sand",
             "parentHeroId": "s5_papyros"
           },
           {
@@ -61102,7 +61102,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-05-14 07:00:00",
-            "costumeId": "Dark Tyrant",
+            "costumeId": "Dark Usurper-Dark Tyrant",
             "parentHeroId": "s5_set"
           },
           {
@@ -61114,7 +61114,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-07-10 07:00:00",
-            "costumeId": "Vanquisher of the Moon",
+            "costumeId": "Sphinx of the Moon-Vanquisher of the Moon",
             "parentHeroId": "s5_sneferu"
           },
           {
@@ -61126,7 +61126,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-12-10 07:00:00",
-            "costumeId": "Heron of Creation",
+            "costumeId": "Spirit of Creation-Heron of Creation",
             "parentHeroId": "s5_bennu"
           },
           {
@@ -61138,7 +61138,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-03-17 07:00:00",
-            "costumeId": "Warden of the Sun",
+            "costumeId": "Eye of the Sun-Warden of the Sun",
             "parentHeroId": "s5_sekhmet"
           },
           {
@@ -61150,7 +61150,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-01-20 07:00:00",
-            "costumeId": "Siren of the Sea",
+            "costumeId": "Siren of the River-Siren of the Sea",
             "parentHeroId": "s5_el_naddaha"
           },
           {
@@ -61162,7 +61162,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-07-13 07:00:00",
-            "costumeId": "Mummy Champion",
+            "costumeId": "Mummy Warrior-Mummy Champion",
             "parentHeroId": "s5_ahhotep"
           },
           {
@@ -61174,7 +61174,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-08-10 07:00:00",
-            "costumeId": "Street-Smart Sorcerer",
+            "costumeId": "Street-Smart Urchin-Street-Smart Sorcerer",
             "parentHeroId": "s5_aqeela"
           },
           {
@@ -61186,7 +61186,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-06-24 07:00:00",
-            "costumeId": "Dancing Tavern Keeper",
+            "costumeId": "Tough-as-Nails Tavern Keeper-Dancing Tavern Keeper",
             "parentHeroId": "s5_azmia"
           },
           {
@@ -61198,7 +61198,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-08-10 07:00:00",
-            "costumeId": "Eye of the Forest",
+            "costumeId": "Eye of the Moon-Eye of the Forest",
             "parentHeroId": "s5_bastet"
           },
           {
@@ -61210,7 +61210,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-07-13 07:00:00",
-            "costumeId": "Guardian of the River",
+            "costumeId": "God of the River-Guardian of the River",
             "parentHeroId": "s5_sobek"
           },
           {
@@ -61222,7 +61222,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-10-06 07:00:00",
-            "costumeId": "Solemn Toon",
+            "costumeId": "Solemn Remnant-Solemn Toon",
             "parentHeroId": "undead_running_skeleton"
           },
           {
@@ -61234,7 +61234,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-09-08 07:00:00",
-            "costumeId": "Unhinged Toon",
+            "costumeId": "Unhinged Assassin-Unhinged Toon",
             "parentHeroId": "blackguard_skulker"
           },
           {
@@ -61246,7 +61246,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-09-08 07:00:00",
-            "costumeId": "Toon Knight",
+            "costumeId": "Protector Knight-Toon Knight",
             "parentHeroId": "royal_knight"
           },
           {
@@ -61258,7 +61258,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-08-11 07:00:00",
-            "costumeId": "Relentless Toon",
+            "costumeId": "Relentless Remnant-Relentless Toon",
             "parentHeroId": "undead_horned_skeleton"
           },
           {
@@ -61270,7 +61270,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-08-11 07:00:00",
-            "costumeId": "Toon of Shaguad",
+            "costumeId": "Ranger of Shaguad-Toon of Shaguad",
             "parentHeroId": "oriental_female_guard"
           },
           {
@@ -61282,7 +61282,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-10-06 07:00:00",
-            "costumeId": "Deathless Toon",
+            "costumeId": "Deathbound Lady-Deathless Toon",
             "parentHeroId": "undead_female_warrior"
           },
           {
@@ -61294,7 +61294,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-09-08 07:00:00",
-            "costumeId": "Toon Defender",
+            "costumeId": "Stout Defender-Toon Defender",
             "parentHeroId": "dwarven_guard"
           },
           {
@@ -61306,7 +61306,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-08-11 07:00:00",
-            "costumeId": "Mournful Toon",
+            "costumeId": "Mournful Duke-Mournful Toon",
             "parentHeroId": "blackguard_commander"
           },
           {
@@ -61318,7 +61318,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-08-11 07:00:00",
-            "costumeId": "Raider from the Toon Sea",
+            "costumeId": "Raider from the Sandsea-Raider from the Toon Sea",
             "parentHeroId": "nomad_female_assassin"
           },
           {
@@ -61330,7 +61330,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-05-27 07:00:00",
-            "costumeId": "Molten Queen",
+            "costumeId": "Mummy Queen-Molten Queen",
             "parentHeroId": "s5_tetisheri"
           },
           {
@@ -61342,7 +61342,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-07-16 07:00:00",
-            "costumeId": "Toon of Glaceholm",
+            "costumeId": "Mage of Glaceholm-Toon of Glaceholm",
             "parentHeroId": "nordic_mage"
           },
           {
@@ -61354,7 +61354,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-07-16 07:00:00",
-            "costumeId": "Toon Fighter",
+            "costumeId": "Lizardfolk Fighter-Toon Fighter",
             "parentHeroId": "lizardman_warrior"
           },
           {
@@ -61366,7 +61366,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-07-16 07:00:00",
-            "costumeId": "Monkey Toon",
+            "costumeId": "Monkey Lord-Monkey Toon",
             "parentHeroId": "oriental_monkey_captain"
           },
           {
@@ -61378,7 +61378,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-05-31 07:00:00",
-            "costumeId": "First Toon in Battle",
+            "costumeId": "First in Battle-First Toon in Battle",
             "parentHeroId": "orc_warrior"
           },
           {
@@ -61390,7 +61390,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-06-28 07:00:00",
-            "costumeId": "The Hotblooded Toon",
+            "costumeId": "The Hotblooded-The Hotblooded Toon",
             "parentHeroId": "dwarven_smasher"
           },
           {
@@ -61402,7 +61402,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-05-06 07:00:00",
-            "costumeId": "Ascendant Toon",
+            "costumeId": "Ascendant Shaman-Ascendant Toon",
             "parentHeroId": "nomad_female_shaman"
           },
           {
@@ -61414,7 +61414,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-05-31 07:00:00",
-            "costumeId": "Jovial Toon",
+            "costumeId": "Jovial Brother-Jovial Toon",
             "parentHeroId": "forest_friar"
           },
           {
@@ -61426,7 +61426,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-06-28 07:00:00",
-            "costumeId": "The Cutpurse Toon",
+            "costumeId": "The Cutpurse-The Cutpurse Toon",
             "parentHeroId": "goblin_fighter"
           },
           {
@@ -61438,7 +61438,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-05-06 07:00:00",
-            "costumeId": "Toon Archer",
+            "costumeId": "Able Archer-Toon Archer",
             "parentHeroId": "forest_archer"
           },
           {
@@ -61450,7 +61450,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-06-28 07:00:00",
-            "costumeId": "Toon Cavalier",
+            "costumeId": "Noble Cavalier-Toon Cavalier",
             "parentHeroId": "blackguard_knight"
           },
           {
@@ -61462,7 +61462,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-05-06 07:00:00",
-            "costumeId": "Mighty Toon",
+            "costumeId": "Mighty Brother-Mighty Toon",
             "parentHeroId": "forest_woodsman_warrior"
           },
           {
@@ -61474,7 +61474,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-05-31 07:00:00",
-            "costumeId": "Toon Chieftain",
+            "costumeId": "Lizardfolk Chieftain-Toon Chieftain",
             "parentHeroId": "lizardman_trapper"
           },
           {
@@ -61486,7 +61486,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-05-31 07:00:00",
-            "costumeId": "Toon of Bamboo",
+            "costumeId": "Blade of Bamboo-Toon of Bamboo",
             "parentHeroId": "oriental_panda_warrior"
           },
           {
@@ -61498,7 +61498,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-04-08 07:00:00",
-            "costumeId": "The Ferocious Toon",
+            "costumeId": "The Ferocious-The Ferocious Toon",
             "parentHeroId": "nordic_chained_werewolf"
           },
           {
@@ -61510,7 +61510,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-04-08 07:00:00",
-            "costumeId": "Toon Spirit",
+            "costumeId": "Glade Spirit-Toon Spirit",
             "parentHeroId": "forest_female_spirit"
           },
           {
@@ -61522,7 +61522,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-03-11 07:00:00",
-            "costumeId": "Seeker of Toons",
+            "costumeId": "Seeker of Throne-Seeker of Toons",
             "parentHeroId": "nomad_female_swordmaster"
           },
           {
@@ -61534,7 +61534,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-03-11 07:00:00",
-            "costumeId": "Toon Witch",
+            "costumeId": "Bog Witch-Toon Witch",
             "parentHeroId": "goblin_mage"
           },
           {
@@ -61546,7 +61546,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-04-08 07:00:00",
-            "costumeId": "Deathbound Toon",
+            "costumeId": "Deathbound Lord-Deathbound Toon",
             "parentHeroId": "undead_captain_warrior"
           },
           {
@@ -61558,7 +61558,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-03-04 07:00:00",
-            "costumeId": "Sphinx at the Spa",
+            "costumeId": "Cunning Sphinx-Sphinx at the Spa",
             "parentHeroId": "s5_hetepheres"
           },
           {
@@ -61570,7 +61570,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-02-05 07:00:00",
-            "costumeId": "Starlit Mother",
+            "costumeId": "Goddess of Motherhood-Starlit Mother",
             "parentHeroId": "s5_hathor"
           },
           {
@@ -61582,7 +61582,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-02-05 07:00:00",
-            "costumeId": "Arbiter of the Dancefloor",
+            "costumeId": "God of the Afterlife-Arbiter of the Dancefloor",
             "parentHeroId": "s5_anubis"
           },
           {
@@ -61594,7 +61594,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-02-12 07:00:00",
-            "costumeId": "Toon Healer",
+            "costumeId": "Selfless Healer-Toon Healer",
             "parentHeroId": "oriental_female_mage"
           },
           {
@@ -61606,7 +61606,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-02-12 07:00:00",
-            "costumeId": "Toon General",
+            "costumeId": "Wise General-Toon General",
             "parentHeroId": "oriental_female_templar"
           },
           {
@@ -61618,7 +61618,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-09-26 07:00:00",
-            "costumeId": "Octopod Hierophant",
+            "costumeId": "Octopod Priest-Octopod Hierophant",
             "parentHeroId": "s4_exeera"
           },
           {
@@ -61630,7 +61630,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-10-05 07:00:00",
-            "costumeId": "Malicious Kitty Cat",
+            "costumeId": "Mischievous Kitty Cat-Malicious Kitty Cat",
             "parentHeroId": "wonderland_cheshire_cat"
           },
           {
@@ -61642,7 +61642,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-08-10 07:00:00",
-            "costumeId": "Vampire Hunter of Grimforest",
+            "costumeId": "Witch Hunter of Grimforest-Vampire Hunter of Grimforest",
             "parentHeroId": "fables_hansel"
           },
           {
@@ -61654,7 +61654,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-12-07 07:00:00",
-            "costumeId": "Morlock Cheerleader",
+            "costumeId": "Morlock Brute-Morlock Cheerleader",
             "parentHeroId": "s4_tettukh"
           },
           {
@@ -61666,7 +61666,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-07-31 07:00:00",
-            "costumeId": "Dapper Fish",
+            "costumeId": "Trickster Fish-Dapper Fish",
             "parentHeroId": "s3_loki_fish"
           },
           {
@@ -61678,7 +61678,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-09-25 07:00:00",
-            "costumeId": "Architect of Yggdrasil",
+            "costumeId": "Messenger of Yggdrasil-Architect of Yggdrasil",
             "parentHeroId": "s3_ratatoskr"
           },
           {
@@ -61690,7 +61690,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-08-28 07:00:00",
-            "costumeId": "Puppeteers of Destiny",
+            "costumeId": "Weavers of Destiny-Puppeteers of Destiny",
             "parentHeroId": "s3_norns"
           },
           {
@@ -61702,7 +61702,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-08-07 07:00:00",
-            "costumeId": "Protector of the Bears",
+            "costumeId": "Spirit of the Forest-Protector of the Bears",
             "parentHeroId": "kalevala_mielikki"
           },
           {
@@ -61714,7 +61714,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-08-07 07:00:00",
-            "costumeId": "Lake Maiden",
+            "costumeId": "Summer Maiden-Lake Maiden",
             "parentHeroId": "kalevala_aino"
           },
           {
@@ -61726,7 +61726,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-03-08 07:00:00",
-            "costumeId": "The Hermit Alchemist",
+            "costumeId": "The Adept Archer-The Hermit Alchemist",
             "parentHeroId": "forest_god_gregorion"
           },
           {
@@ -61738,7 +61738,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-02-09 07:00:00",
-            "costumeId": "Mirage Engineer",
+            "costumeId": "Mirage Assassin-Mirage Engineer",
             "parentHeroId": "dark_god_september"
           },
           {
@@ -61750,7 +61750,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-01-11 07:00:00",
-            "costumeId": "Cosmic Conjurer",
+            "costumeId": "Master of Crypts-Cosmic Conjurer",
             "parentHeroId": "witch_king"
           },
           {
@@ -61762,7 +61762,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-10-02 07:00:00",
-            "costumeId": "Brave Huntress",
+            "costumeId": "Brave Heiress-Brave Huntress",
             "parentHeroId": "forest_god_evelyn"
           },
           {
@@ -61774,7 +61774,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-12-19 07:00:00",
-            "costumeId": "Avian Celestial",
+            "costumeId": "Celestial of Nature-Avian Celestial",
             "parentHeroId": "forest_god_zeline"
           },
           {
@@ -61786,7 +61786,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-05-15 07:00:00",
-            "costumeId": "Guardian of the Celestial Temple",
+            "costumeId": "Hero of the Forbidden Island-Guardian of the Celestial Temple",
             "parentHeroId": "holy_god_delilah"
           },
           {
@@ -61809,7 +61809,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-01-26 07:00:00",
-            "costumeId": "Bone Collector of Teltoc",
+            "costumeId": "Assassin of Teltoc-Bone Collector of Teltoc",
             "parentHeroId": "guardian_jackal_assassin"
           },
           {
@@ -61821,7 +61821,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-12-26 07:00:00",
-            "costumeId": "Love Doctor",
+            "costumeId": "Mad Scientist-Love Doctor",
             "parentHeroId": "cultist_inventor"
           },
           {
@@ -61833,7 +61833,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-09-05 07:00:00",
-            "costumeId": "Scribe Supreme",
+            "costumeId": "Scholar Supreme-Scribe Supreme",
             "parentHeroId": "oriental_female_mystic"
           },
           {
@@ -61845,7 +61845,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-12-26 07:00:00",
-            "costumeId": "Unyielding Mage",
+            "costumeId": "Unyielding King-Unyielding Mage",
             "parentHeroId": "oriental_warrior_king"
           },
           {
@@ -61857,7 +61857,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-10-31 07:00:00",
-            "costumeId": "Nightmare of the Woods",
+            "costumeId": "Ancient of the Woods-Nightmare of the Woods",
             "parentHeroId": "forest_titan"
           },
           {
@@ -61869,7 +61869,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-10-31 07:00:00",
-            "costumeId": "Undead Sniper",
+            "costumeId": "Magitech Sniper-Undead Sniper",
             "parentHeroId": "magitech_sniper"
           },
           {
@@ -61881,7 +61881,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-02-20 07:00:00",
-            "costumeId": "Ancient of Thorns",
+            "costumeId": "Ancient of Stone-Ancient of Thorns",
             "parentHeroId": "exalted_female_statue"
           },
           {
@@ -61893,7 +61893,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-09-05 07:00:00",
-            "costumeId": "Chief of Leopards",
+            "costumeId": "Chief of Tribes-Chief of Leopards",
             "parentHeroId": "tribal_chief"
           },
           {
@@ -61905,7 +61905,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-10-31 07:00:00",
-            "costumeId": "Ancient of the Underworld",
+            "costumeId": "Ancient of Ice-Ancient of the Underworld",
             "parentHeroId": "exalted_warrior"
           },
           {
@@ -61917,7 +61917,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-12-26 07:00:00",
-            "costumeId": "Might of the Sun",
+            "costumeId": "Flame of the Sun-Might of the Sun",
             "parentHeroId": "oriental_enchanted_monk"
           },
           {
@@ -61929,7 +61929,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-09-05 07:00:00",
-            "costumeId": "Praetorian Vampire",
+            "costumeId": "Praetorian Bodyguard-Praetorian Vampire",
             "parentHeroId": "underworld_champion"
           },
           {
@@ -61941,7 +61941,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-09-05 07:00:00",
-            "costumeId": "Ruler of Glaceholm",
+            "costumeId": "Protector of Glaceholm-Ruler of Glaceholm",
             "parentHeroId": "nordic_ice_enchantress"
           },
           {
@@ -61953,7 +61953,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-07-04 07:00:00",
-            "costumeId": "Brave Soldier",
+            "costumeId": "Brave Villager-Brave Soldier",
             "parentHeroId": "s3_bjorn"
           },
           {
@@ -61965,7 +61965,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-07-04 07:00:00",
-            "costumeId": "Bee Captain of Alfheim",
+            "costumeId": "Beekeeper of Alfheim-Bee Captain of Alfheim",
             "parentHeroId": "s3_kvasir"
           },
           {
@@ -61977,7 +61977,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-07-04 07:00:00",
-            "costumeId": "Unhallowed Fire Giant",
+            "costumeId": "Burly Fire Giant-Unhallowed Fire Giant",
             "parentHeroId": "s3_sumle"
           },
           {
@@ -61989,7 +61989,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-07-04 07:00:00",
-            "costumeId": "Unchained Boar",
+            "costumeId": "Golden Boar-Unchained Boar",
             "parentHeroId": "s3_gullinbursti"
           },
           {
@@ -62001,7 +62001,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-05-02 07:00:00",
-            "costumeId": "Lonesome Yurei",
+            "costumeId": "Lone Ghost-Lonesome Yurei",
             "parentHeroId": "s2_ghost_woman"
           },
           {
@@ -62013,7 +62013,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-05-02 07:00:00",
-            "costumeId": "Atlantean Sentinel",
+            "costumeId": "Watcher of Atlantis-Atlantean Sentinel",
             "parentHeroId": "s2_atlantean_robot"
           },
           {
@@ -62025,7 +62025,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-05-02 07:00:00",
-            "costumeId": "Bold Brewmaster",
+            "costumeId": "Valiant Fisherman-Bold Brewmaster",
             "parentHeroId": "s2_rugged_fisherman"
           },
           {
@@ -62037,7 +62037,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-05-02 07:00:00",
-            "costumeId": "Lieutenant of Atlantis",
+            "costumeId": "Merman of Atlantis-Lieutenant of Atlantis",
             "parentHeroId": "s2_merman"
           },
           {
@@ -62049,7 +62049,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-05-02 07:00:00",
-            "costumeId": "Emissary of Atlantis",
+            "costumeId": "Mermaid of Atlantis-Emissary of Atlantis",
             "parentHeroId": "s2_merwoman"
           },
           {
@@ -62437,7 +62437,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-12-01 07:00:00",
-            "costumeId": "Holiday Prankster",
+            "costumeId": "Holiday Ghoul-Holiday Prankster",
             "parentHeroId": "christmas_krampus"
           },
           {
@@ -62449,7 +62449,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-12-01 07:00:00",
-            "costumeId": "Hard Rock Santa",
+            "costumeId": "The Gift-Bringer-Hard Rock Santa",
             "parentHeroId": "christmas_santa"
           },
           {
@@ -62461,7 +62461,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-10-04 07:00:00",
-            "costumeId": "The Mobster",
+            "costumeId": "The Monster-The Mobster",
             "parentHeroId": "halloween_frank"
           },
           {
@@ -62473,7 +62473,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-10-04 07:00:00",
-            "costumeId": "The Mobstress",
+            "costumeId": "The Monstress-The Mobstress",
             "parentHeroId": "halloween_francine"
           },
           {
@@ -62485,7 +62485,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-10-04 07:00:00",
-            "costumeId": "King of Crime",
+            "costumeId": "Vampire King-King of Crime",
             "parentHeroId": "vampire_king"
           },
           {
@@ -62702,7 +62702,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-01-01 07:00:00",
-            "costumeId": "Cast Iron Chef",
+            "costumeId": "The Unwavering-Cast Iron Chef",
             "parentHeroId": "orc_gladiator"
           },
           {
@@ -62714,7 +62714,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-01-01 07:00:00",
-            "costumeId": "Duke of Rock",
+            "costumeId": "Mournful Duke-Duke of Rock",
             "parentHeroId": "blackguard_commander"
           },
           {
@@ -62726,7 +62726,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-01-01 07:00:00",
-            "costumeId": "Magician Supreme",
+            "costumeId": "Scholar Supreme-Magician Supreme",
             "parentHeroId": "oriental_female_mystic"
           },
           {
@@ -62738,7 +62738,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-01-01 07:00:00",
-            "costumeId": "Noble Brawler",
+            "costumeId": "Noble Defender-Noble Brawler",
             "parentHeroId": "oriental_brawler"
           },
           {
@@ -62750,7 +62750,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-01-01 07:00:00",
-            "costumeId": "Shaman of Concordia",
+            "costumeId": "Druid of Rathwood-Shaman of Concordia",
             "parentHeroId": "forest_female_druid"
           },
           {
@@ -62762,7 +62762,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-01-01 07:00:00",
-            "costumeId": "Captain of Fire",
+            "costumeId": "Captain of the Royal Guard-Captain of Fire",
             "parentHeroId": "nomad_female_lord"
           },
           {
@@ -62774,7 +62774,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-01-01 07:00:00",
-            "costumeId": "Brave Blacksmith",
+            "costumeId": "Protector Knight-Brave Blacksmith",
             "parentHeroId": "royal_knight"
           },
           {
@@ -62786,7 +62786,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-01-01 07:00:00",
-            "costumeId": "Ascendant Mender",
+            "costumeId": "Ascendant Shaman-Ascendant Mender",
             "parentHeroId": "nomad_female_shaman"
           },
           {
@@ -62798,7 +62798,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-01-01 07:00:00",
-            "costumeId": "Wooden Jester",
+            "costumeId": "Ancient of the Woods-Wooden Jester",
             "parentHeroId": "forest_titan"
           },
           {
@@ -62810,7 +62810,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-01-01 07:00:00",
-            "costumeId": "Ice Witch of Glaceholm",
+            "costumeId": "Protector of Glaceholm-Ice Witch of Glaceholm",
             "parentHeroId": "nordic_ice_enchantress"
           },
           {
@@ -62822,7 +62822,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-01-01 07:00:00",
-            "costumeId": "Fury of the Sun",
+            "costumeId": "Flame of the Sun-Fury of the Sun",
             "parentHeroId": "oriental_enchanted_monk"
           },
           {
@@ -62834,7 +62834,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-01-01 07:00:00",
-            "costumeId": "Ceremonial Assassin",
+            "costumeId": "Wise General-Ceremonial Assassin",
             "parentHeroId": "oriental_female_templar"
           },
           {
@@ -62846,7 +62846,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-01-01 07:00:00",
-            "costumeId": "The Noble Guardian",
+            "costumeId": "The Noble Heart-The Noble Guardian",
             "parentHeroId": "elven_archer"
           },
           {
@@ -62858,7 +62858,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-01-01 07:00:00",
-            "costumeId": "Mighty Wizard",
+            "costumeId": "Wisdom of the Forest-Mighty Wizard",
             "parentHeroId": "forest_mage"
           },
           {
@@ -62870,7 +62870,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-01-01 07:00:00",
-            "costumeId": "Electro Scientist",
+            "costumeId": "Mad Scientist-Electro Scientist",
             "parentHeroId": "cultist_inventor"
           },
           {
@@ -62882,7 +62882,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-01-01 07:00:00",
-            "costumeId": "Axe of Justice",
+            "costumeId": "Hammer of Justice-Axe of Justice",
             "parentHeroId": "nordic_male_lord"
           },
           {
@@ -62894,7 +62894,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-01-01 07:00:00",
-            "costumeId": "Dapper Noble",
+            "costumeId": "Noble Cavalier-Dapper Noble",
             "parentHeroId": "blackguard_knight"
           },
           {
@@ -62906,7 +62906,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-01-01 07:00:00",
-            "costumeId": "Candy Witch",
+            "costumeId": "Bog Witch-Candy Witch",
             "parentHeroId": "goblin_mage"
           },
           {
@@ -62918,7 +62918,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-01-01 07:00:00",
-            "costumeId": "Viking Champion",
+            "costumeId": "Willful Champion-Viking Champion",
             "parentHeroId": "royal_female_knight"
           },
           {
@@ -62930,7 +62930,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-01-01 07:00:00",
-            "costumeId": "Roman Remnant",
+            "costumeId": "Solemn Remnant-Roman Remnant",
             "parentHeroId": "undead_running_skeleton"
           },
           {
@@ -62942,7 +62942,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-05-18 07:00:00",
-            "costumeId": "Priestess of Moonlight",
+            "costumeId": "Shieldmaster of Moonlight-Priestess of Moonlight",
             "parentHeroId": "forest_female_elf"
           },
           {
@@ -62954,7 +62954,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-05-18 07:00:00",
-            "costumeId": "Grove Spirit",
+            "costumeId": "Glade Spirit-Grove Spirit",
             "parentHeroId": "forest_female_spirit"
           },
           {
@@ -62966,7 +62966,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-05-18 07:00:00",
-            "costumeId": "Moonlit Conqueror",
+            "costumeId": "Spearmaster of Moonlight-Moonlit Conqueror",
             "parentHeroId": "forest_male_elf"
           },
           {
@@ -62978,7 +62978,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-05-18 07:00:00",
-            "costumeId": "Stealthy Brother",
+            "costumeId": "Mighty Brother-Stealthy Brother",
             "parentHeroId": "forest_woodsman_warrior"
           },
           {
@@ -62990,7 +62990,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-05-18 07:00:00",
-            "costumeId": "The Cutthroat",
+            "costumeId": "The Cutpurse-The Cutthroat",
             "parentHeroId": "goblin_fighter"
           },
           {
@@ -63002,7 +63002,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-05-18 07:00:00",
-            "costumeId": "King of the Leors",
+            "costumeId": "Last of the Leors-King of the Leors",
             "parentHeroId": "lionman_barbarian"
           },
           {
@@ -63014,7 +63014,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-05-18 07:00:00",
-            "costumeId": "Steampunk Sniper",
+            "costumeId": "Magitech Sniper-Steampunk Sniper",
             "parentHeroId": "magitech_sniper"
           },
           {
@@ -63026,7 +63026,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-05-18 07:00:00",
-            "costumeId": "Seeker of Gods",
+            "costumeId": "Seeker of Throne-Seeker of Gods",
             "parentHeroId": "nomad_female_swordmaster"
           },
           {
@@ -63038,7 +63038,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-05-18 07:00:00",
-            "costumeId": "Resolute Overseer",
+            "costumeId": "Resolute Warden-Resolute Overseer",
             "parentHeroId": "blackguard_female_captain"
           },
           {
@@ -63050,7 +63050,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-05-18 07:00:00",
-            "costumeId": "Undead Magician",
+            "costumeId": "Dread Magician-Undead Magician",
             "parentHeroId": "cultist_mage"
           },
           {
@@ -63062,7 +63062,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-05-18 07:00:00",
-            "costumeId": "Master Shredder",
+            "costumeId": "Master Brewer-Master Shredder",
             "parentHeroId": "dwarwen_brewmaster"
           },
           {
@@ -63074,7 +63074,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-05-18 07:00:00",
-            "costumeId": "Elven Avenger",
+            "costumeId": "Elven Veteran-Elven Avenger",
             "parentHeroId": "elven_captain"
           },
           {
@@ -63086,7 +63086,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-05-18 07:00:00",
-            "costumeId": "Adroit Archer",
+            "costumeId": "Able Archer-Adroit Archer",
             "parentHeroId": "forest_archer"
           },
           {
@@ -63098,7 +63098,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-05-18 07:00:00",
-            "costumeId": "Unhinged Surgeon",
+            "costumeId": "Unhinged Assassin-Unhinged Surgeon",
             "parentHeroId": "blackguard_skulker"
           },
           {
@@ -63110,7 +63110,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-05-18 07:00:00",
-            "costumeId": "Monstress of Descenthia",
+            "costumeId": "Executor from Descenthia-Monstress of Descenthia",
             "parentHeroId": "cultist_sorceress"
           },
           {
@@ -63122,7 +63122,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-05-18 07:00:00",
-            "costumeId": "Heavyweight Defender",
+            "costumeId": "Stout Defender-Heavyweight Defender",
             "parentHeroId": "dwarven_guard"
           },
           {
@@ -63134,7 +63134,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-05-18 07:00:00",
-            "costumeId": "The Heated",
+            "costumeId": "The Hotblooded-The Heated",
             "parentHeroId": "dwarven_smasher"
           },
           {
@@ -63146,7 +63146,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-05-18 07:00:00",
-            "costumeId": "Monolith of Ice",
+            "costumeId": "Ancient of Ice-Monolith of Ice",
             "parentHeroId": "exalted_warrior"
           },
           {
@@ -63158,7 +63158,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-05-18 07:00:00",
-            "costumeId": "Jovial Explorer",
+            "costumeId": "Jovial Brother-Jovial Explorer",
             "parentHeroId": "forest_friar"
           },
           {
@@ -63170,7 +63170,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-05-18 07:00:00",
-            "costumeId": "Lizardfolk Elder",
+            "costumeId": "Lizardfolk Chieftain-Lizardfolk Elder",
             "parentHeroId": "lizardman_trapper"
           },
           {
@@ -63182,7 +63182,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-05-18 07:00:00",
-            "costumeId": "Lizardfolk Ancestor",
+            "costumeId": "Lizardfolk Fighter-Lizardfolk Ancestor",
             "parentHeroId": "lizardman_warrior"
           },
           {
@@ -63194,7 +63194,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "Monkey Ronin",
+            "costumeId": "Monkey Lord-Monkey Ronin",
             "parentHeroId": "oriental_monkey_captain"
           },
           {
@@ -63206,7 +63206,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "Clean-Cut Climber",
+            "costumeId": "Dashing Duelist-Clean-Cut Climber",
             "parentHeroId": "nordic_swordman"
           },
           {
@@ -63218,7 +63218,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "Hermit of Glaceholm",
+            "costumeId": "Mage of Glaceholm-Hermit of Glaceholm",
             "parentHeroId": "nordic_mage"
           },
           {
@@ -63230,7 +63230,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "King Frostmorrow",
+            "costumeId": "Wielder of Frostmorrow-King Frostmorrow",
             "parentHeroId": "royal_knight_commander"
           },
           {
@@ -63242,7 +63242,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "Assassin from the Sandsea",
+            "costumeId": "Raider from the Sandsea-Assassin from the Sandsea",
             "parentHeroId": "nomad_female_assassin"
           },
           {
@@ -63254,7 +63254,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "Deathless Princess",
+            "costumeId": "Deathbound Lady-Deathless Princess",
             "parentHeroId": "undead_female_warrior"
           },
           {
@@ -63266,7 +63266,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "Jester Remnant",
+            "costumeId": "Relentless Remnant-Jester Remnant",
             "parentHeroId": "undead_horned_skeleton"
           },
           {
@@ -63278,7 +63278,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "Praetorian Gladiator",
+            "costumeId": "Praetorian Bodyguard-Praetorian Gladiator",
             "parentHeroId": "underworld_champion"
           },
           {
@@ -63290,7 +63290,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "Last to Retreat",
+            "costumeId": "First in Battle-Last to Retreat",
             "parentHeroId": "orc_warrior"
           },
           {
@@ -63302,7 +63302,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "Terror of Windemer",
+            "costumeId": "Lady of Windemer-Terror of Windemer",
             "parentHeroId": "nomad_female_captain"
           },
           {
@@ -63314,7 +63314,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "King of Sparta",
+            "costumeId": "Unyielding King-King of Sparta",
             "parentHeroId": "oriental_warrior_king"
           },
           {
@@ -63326,7 +63326,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "Avenger of Tribes",
+            "costumeId": "Chief of Tribes-Avenger of Tribes",
             "parentHeroId": "tribal_chief"
           },
           {
@@ -63338,7 +63338,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "Shaman of Dragonia",
+            "costumeId": "Priestess of Dragonia-Shaman of Dragonia",
             "parentHeroId": "nomad_female_berserker"
           },
           {
@@ -63350,7 +63350,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "Magnanimous Mender",
+            "costumeId": "Selfless Healer-Magnanimous Mender",
             "parentHeroId": "oriental_female_mage"
           },
           {
@@ -63362,7 +63362,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "Ancient of the Sun",
+            "costumeId": "Ancient of Stone-Ancient of the Sun",
             "parentHeroId": "exalted_female_statue"
           },
           {
@@ -63374,7 +63374,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "Wizard from the Sandsea",
+            "costumeId": "Mage from the Sandsea-Wizard from the Sandsea",
             "parentHeroId": "nomad_mage"
           },
           {
@@ -63386,7 +63386,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "Bark of Bamboo",
+            "costumeId": "Blade of Bamboo-Bark of Bamboo",
             "parentHeroId": "oriental_panda_warrior"
           },
           {
@@ -63398,7 +63398,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "Heir of Evil",
+            "costumeId": "Dark Orphan-Heir of Evil",
             "parentHeroId": "nordic_ancestral_warrior"
           },
           {
@@ -63410,7 +63410,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "Garlic Thief",
+            "costumeId": "The Ferocious-Garlic Thief",
             "parentHeroId": "nordic_chained_werewolf"
           },
           {
@@ -63422,7 +63422,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "The Coveteus",
+            "costumeId": "The Hungry-The Coveteus",
             "parentHeroId": "orc_troopmaster"
           },
           {
@@ -63434,7 +63434,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "Root of Bamboo",
+            "costumeId": "Branch of Bamboo-Root of Bamboo",
             "parentHeroId": "oriental_panda_berserker"
           },
           {
@@ -63446,7 +63446,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "Shaguadian Guardian",
+            "costumeId": "Ranger of Shaguad-Shaguadian Guardian",
             "parentHeroId": "oriental_female_guard"
           },
           {
@@ -63458,7 +63458,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "Deathless Prince",
+            "costumeId": "Deathbound Lord-Deathless Prince",
             "parentHeroId": "undead_captain_warrior"
           },
           {
@@ -63470,7 +63470,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "Fiery Bounty Hunter",
+            "costumeId": "Brave Bounty Hunter-Fiery Bounty Hunter",
             "parentHeroId": "nomad_axe_adventurer"
           },
           {
@@ -63482,7 +63482,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-01-18 07:00:00",
-            "costumeId": "Master Conservator",
+            "costumeId": "Master Tactician-Master Conservator",
             "parentHeroId": "oriental_falconer"
           },
           {
@@ -63494,7 +63494,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-12-23 07:00:00",
-            "costumeId": "Iceberg Champion",
+            "costumeId": "Huntress of Ice Giants-Iceberg Champion",
             "parentHeroId": "ice_god_eskimo"
           },
           {
@@ -63506,7 +63506,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-12-23 07:00:00",
-            "costumeId": "Goddess of War",
+            "costumeId": "Celestial of Ice-Goddess of War",
             "parentHeroId": "ice_god_athena"
           },
           {
@@ -63518,7 +63518,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-10-20 07:00:00",
-            "costumeId": "Everoak Knight",
+            "costumeId": "Seelie Champion-Everoak Knight",
             "parentHeroId": "forest_god_oberon"
           },
           {
@@ -63530,7 +63530,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-06-16 07:00:00",
-            "costumeId": "Negative Knight",
+            "costumeId": "Terror of Avalon-Negative Knight",
             "parentHeroId": "knights_black_knight"
           },
           {
@@ -63542,7 +63542,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-06-21 07:00:00",
-            "costumeId": "King of Lifeguards",
+            "costumeId": "King of Sand Empire-King of Lifeguards",
             "parentHeroId": "sand_king"
           },
           {
@@ -63554,7 +63554,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-02-17 07:00:00",
-            "costumeId": "Mask of Madness",
+            "costumeId": "Guide of Wonderland-Mask of Madness",
             "parentHeroId": "wonderland_white_rabbit"
           },
           {
@@ -63566,7 +63566,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-11-15 07:00:00",
-            "costumeId": "Deadly Reef Queen",
+            "costumeId": "Empress of the Depths-Deadly Reef Queen",
             "parentHeroId": "s2_ursena"
           },
           {
@@ -63578,7 +63578,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-12-15 07:00:00",
-            "costumeId": "Slayer White",
+            "costumeId": "Princess of Grimforest-Slayer White",
             "parentHeroId": "fables_snow_white"
           },
           {
@@ -63590,7 +63590,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-10-20 07:00:00",
-            "costumeId": "High Revenant Archer",
+            "costumeId": "Reanimated Huntress-High Revenant Archer",
             "parentHeroId": "dark_god_seshat"
           },
           {
@@ -63602,7 +63602,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-06-16 07:00:00",
-            "costumeId": "Eternal Trickster",
+            "costumeId": "Jester of Grimforest-Eternal Trickster",
             "parentHeroId": "fables_rumpelstiltskin"
           },
           {
@@ -63614,7 +63614,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-06-21 07:00:00",
-            "costumeId": "Surfer Queen",
+            "costumeId": "Queen of Sand Empire-Surfer Queen",
             "parentHeroId": "sand_queen"
           },
           {
@@ -63626,7 +63626,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-11-15 07:00:00",
-            "costumeId": "Slayer of Atlantis",
+            "costumeId": "Ruler of Atlantis-Slayer of Atlantis",
             "parentHeroId": "s2_poseidon"
           },
           {
@@ -63638,7 +63638,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-03-21 07:00:00",
-            "costumeId": "Rift Breaker",
+            "costumeId": "Guardian of Springvale-Rift Breaker",
             "parentHeroId": "rabbit_blue"
           },
           {
@@ -63650,7 +63650,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-02-17 07:00:00",
-            "costumeId": "Soul-Stealing Priestess",
+            "costumeId": "Voodoo Queen of Corellia-Soul-Stealing Priestess",
             "parentHeroId": "pirate_marie_therese"
           },
           {
@@ -63662,7 +63662,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-12-15 07:00:00",
-            "costumeId": "Lady of Blades",
+            "costumeId": "Sorceress of Avalon-Lady of Blades",
             "parentHeroId": "knights_lady_of_the_lake"
           },
           {
@@ -63674,7 +63674,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-03-21 07:00:00",
-            "costumeId": "Ultimate Farmer",
+            "costumeId": "Savage Protector of Springvale-Ultimate Farmer",
             "parentHeroId": "easter_killhare"
           },
           {
@@ -63686,7 +63686,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-11-15 07:00:00",
-            "costumeId": "Beetle Samurai",
+            "costumeId": "Cursed Warlord-Beetle Samurai",
             "parentHeroId": "s2_cursed_samurai"
           },
           {
@@ -63698,7 +63698,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-12-15 07:00:00",
-            "costumeId": "Jabbermoth",
+            "costumeId": "Horror of Wonderland-Jabbermoth",
             "parentHeroId": "wonderland_jabberwocky"
           },
           {
@@ -63710,7 +63710,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-06-16 07:00:00",
-            "costumeId": "Fierce Panther",
+            "costumeId": "Warrior of Teltoc-Fierce Panther",
             "parentHeroId": "guardian_cat_warrior"
           },
           {
@@ -63722,7 +63722,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-04-14 07:00:00",
-            "costumeId": "Conqueror Kong",
+            "costumeId": "Chieftain of Teltoc-Conqueror Kong",
             "parentHeroId": "guardian_gorilla_chieftain"
           },
           {
@@ -63734,7 +63734,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-10-20 07:00:00",
-            "costumeId": "Burning Avenger",
+            "costumeId": "Blood-Stained Druid-Burning Avenger",
             "parentHeroId": "fire_god_doom"
           },
           {
@@ -63746,7 +63746,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-04-14 07:00:00",
-            "costumeId": "Bleak Commodore",
+            "costumeId": "Commodore of Corellia-Bleak Commodore",
             "parentHeroId": "pirate_commodore_finley"
           },
           {
@@ -63758,7 +63758,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-12-23 07:00:00",
-            "costumeId": "Serene Fighter",
+            "costumeId": "Master of Martial Arts-Serene Fighter",
             "parentHeroId": "holy_god_drake_lee"
           },
           {
@@ -63770,7 +63770,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-11-15 07:00:00",
-            "costumeId": "Enchanter of Atlantis",
+            "costumeId": "Princess of Atlantis-Enchanter of Atlantis",
             "parentHeroId": "s2_ariel"
           },
           {
@@ -63782,7 +63782,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-10-04 07:00:00",
-            "costumeId": "Queen of Crime",
+            "costumeId": "Vampire Queen-Queen of Crime",
             "parentHeroId": "halloween_vanda"
           },
           {
@@ -63794,7 +63794,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2021-12-01 07:00:00",
-            "costumeId": "Holiday Sweater Enthusiast",
+            "costumeId": "The Northern Chef-Holiday Sweater Enthusiast",
             "parentHeroId": "christmas_mrs_claus"
           },
           {
@@ -63806,7 +63806,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-03-21 07:00:00",
-            "costumeId": "Egg Hunter of Springvale",
+            "costumeId": "Champion of Springvale-Egg Hunter of Springvale",
             "parentHeroId": "rabbit_green"
           },
           {
@@ -63818,7 +63818,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-05-02 07:00:00",
-            "costumeId": "White Kitsune Spirit",
+            "costumeId": "Nine-tailed Spirit-White Kitsune Spirit",
             "parentHeroId": "s2_fox_girl"
           },
           {
@@ -63830,7 +63830,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-05-16 07:00:00",
-            "costumeId": "Protector of the Beach",
+            "costumeId": "Protector of Sand Empire-Protector of the Beach",
             "parentHeroId": "sand_roc"
           },
           {
@@ -63842,7 +63842,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-07-04 07:00:00",
-            "costumeId": "Guardian of Jotunheim",
+            "costumeId": "Goddess of Jotunheim-Guardian of Jotunheim",
             "parentHeroId": "s3_skadi"
           },
           {
@@ -63854,7 +63854,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-11-21 07:00:00",
-            "costumeId": "Fiery God",
+            "costumeId": "Luminous God-Fiery God",
             "parentHeroId": "s3_baldur"
           },
           {
@@ -63866,7 +63866,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-08-29 07:00:00",
-            "costumeId": "Golden Deity",
+            "costumeId": "Fair-Haired Deity-Golden Deity",
             "parentHeroId": "s3_sif"
           },
           {
@@ -63878,7 +63878,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-09-26 07:00:00",
-            "costumeId": "Goddess of the Wild",
+            "costumeId": "Goddess of Harvest-Goddess of the Wild",
             "parentHeroId": "s3_gefjon"
           },
           {
@@ -63890,7 +63890,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-08-01 07:00:00",
-            "costumeId": "Witch of the Fallen",
+            "costumeId": "Lady of the Slain-Witch of the Fallen",
             "parentHeroId": "s3_freya"
           },
           {
@@ -63902,7 +63902,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-10-24 07:00:00",
-            "costumeId": "Dreaded Watchman",
+            "costumeId": "Vigilant Watchman-Dreaded Watchman",
             "parentHeroId": "s3_heimdall"
           },
           {
@@ -63914,7 +63914,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-09-05 07:00:00",
-            "costumeId": "Sorceress of Dragonia",
+            "costumeId": "Priestess of Dragonia-Sorceress of Dragonia",
             "parentHeroId": "nomad_female_berserker"
           },
           {
@@ -63926,7 +63926,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-09-05 07:00:00",
-            "costumeId": "Moonlit King",
+            "costumeId": "Spearmaster of Moonlight-Moonlit King",
             "parentHeroId": "forest_male_elf"
           },
           {
@@ -63938,7 +63938,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-10-31 07:00:00",
-            "costumeId": "Master Wood Carver",
+            "costumeId": "Master Brewer-Master Wood Carver",
             "parentHeroId": "dwarwen_brewmaster"
           },
           {
@@ -63950,7 +63950,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-12-26 07:00:00",
-            "costumeId": "Elven Cavalier",
+            "costumeId": "Elven Veteran-Elven Cavalier",
             "parentHeroId": "elven_captain"
           },
           {
@@ -63962,7 +63962,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-02-20 07:00:00",
-            "costumeId": "Fireworks General",
+            "costumeId": "Wise General-Fireworks General",
             "parentHeroId": "oriental_female_templar"
           },
           {
@@ -63974,7 +63974,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-04-17 07:00:00",
-            "costumeId": "Deathbound Reveller",
+            "costumeId": "Deathbound Lord-Deathbound Reveller",
             "parentHeroId": "undead_captain_warrior"
           },
           {
@@ -63986,7 +63986,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-01-26 07:00:00",
-            "costumeId": "Swift Striker of Teltoc",
+            "costumeId": "Druid of Teltoc-Swift Striker of Teltoc",
             "parentHeroId": "guardian_gazelle"
           },
           {
@@ -63998,7 +63998,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-04-20 07:00:00",
-            "costumeId": "Dragonrider of Avalon",
+            "costumeId": "Queen of Avalon-Dragonrider of Avalon",
             "parentHeroId": "knights_guinevere"
           },
           {
@@ -64010,7 +64010,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-04-20 07:00:00",
-            "costumeId": "Astromancer of Avalon",
+            "costumeId": "Wizard of Avalon-Astromancer of Avalon",
             "parentHeroId": "knights_merlin"
           },
           {
@@ -64022,7 +64022,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-10-30 07:00:00",
-            "costumeId": "Dancer from the Sandsea",
+            "costumeId": "Raider from the Sandsea-Dancer from the Sandsea",
             "parentHeroId": "nomad_female_assassin"
           },
           {
@@ -64034,7 +64034,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-03-13 07:00:00",
-            "costumeId": "Valiant All-Father",
+            "costumeId": "Wise All-Father-Valiant All-Father",
             "parentHeroId": "s3_odin"
           },
           {
@@ -64046,7 +64046,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-02-13 07:00:00",
-            "costumeId": "Savage Justice",
+            "costumeId": "Relentless Justice-Savage Justice",
             "parentHeroId": "s3_tyr"
           },
           {
@@ -64058,7 +64058,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-01-16 07:00:00",
-            "costumeId": "Goddess of Clairvoyance",
+            "costumeId": "Goddess of Foresight-Goddess of Clairvoyance",
             "parentHeroId": "s3_frigg"
           },
           {
@@ -64070,7 +64070,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-12-19 07:00:00",
-            "costumeId": "Conduit of Thunder",
+            "costumeId": "God of Thunder-Conduit of Thunder",
             "parentHeroId": "s3_thor"
           },
           {
@@ -64082,7 +64082,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-04-10 07:00:00",
-            "costumeId": "Guardian of Niflheim",
+            "costumeId": "Leader of Niflheim-Guardian of Niflheim",
             "parentHeroId": "s3_fenrir"
           },
           {
@@ -64094,7 +64094,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-11-28 11:00:00",
-            "costumeId": "Challenger of Boreas",
+            "costumeId": "Son of Zeus-Challenger of Boreas",
             "parentHeroId": "ice_god_perseus"
           },
           {
@@ -64106,7 +64106,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-11-28 11:00:00",
-            "costumeId": "Omen of Darkness",
+            "costumeId": "Celestial of Darkness-Omen of Darkness",
             "parentHeroId": "dark_god_hel"
           },
           {
@@ -64118,7 +64118,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-01-16 07:00:00",
-            "costumeId": "Herbalist of Svartalfheim",
+            "costumeId": "Poisoner of Svartalfheim-Herbalist of Svartalfheim",
             "parentHeroId": "s3_fura"
           },
           {
@@ -64130,7 +64130,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-03-13 07:00:00",
-            "costumeId": "Lord of Svartalfheim",
+            "costumeId": "Shadowblade of Svartalfheim-Lord of Svartalfheim",
             "parentHeroId": "s3_almur"
           },
           {
@@ -64142,7 +64142,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-04-10 07:00:00",
-            "costumeId": "Explorer Dwarf of Jotunheim",
+            "costumeId": "Ice Dwarf of Jotunheim-Explorer Dwarf of Jotunheim",
             "parentHeroId": "s3_nordri"
           },
           {
@@ -64154,7 +64154,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-02-13 07:00:00",
-            "costumeId": "Ferocious Viking Battler",
+            "costumeId": "Cursed Viking Battler-Ferocious Viking Battler",
             "parentHeroId": "s3_ei_dunn"
           },
           {
@@ -64166,7 +64166,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2022-12-12 07:00:00",
-            "costumeId": "Prince of the Lūʻau",
+            "costumeId": "Prince of the Jungle-Prince of the Lūʻau",
             "parentHeroId": "s2_junglehunter"
           },
           {
@@ -64178,7 +64178,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-01-09 07:00:00",
-            "costumeId": "Magnificent Hula Dancer",
+            "costumeId": "Magnificent Mercenary-Magnificent Hula Dancer",
             "parentHeroId": "s2_mercenary_woman"
           },
           {
@@ -64190,7 +64190,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-10-30 07:00:00",
-            "costumeId": "Lamenting Duke",
+            "costumeId": "Mournful Duke-Lamenting Duke",
             "parentHeroId": "blackguard_commander"
           },
           {
@@ -64202,7 +64202,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-11-27 07:00:00",
-            "costumeId": "Deathbound Princess",
+            "costumeId": "Deathbound Lady-Deathbound Princess",
             "parentHeroId": "undead_female_warrior"
           },
           {
@@ -64214,7 +64214,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-10-30 07:00:00",
-            "costumeId": "Party Wizard",
+            "costumeId": "Wisdom of the Forest-Party Wizard",
             "parentHeroId": "forest_mage"
           },
           {
@@ -64226,7 +64226,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-05-08 07:00:00",
-            "costumeId": "Shapeshifter God",
+            "costumeId": "Trickster God-Shapeshifter God",
             "parentHeroId": "s3_loki_male"
           },
           {
@@ -64238,7 +64238,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-04-17 07:00:00",
-            "costumeId": "Noble Healer",
+            "costumeId": "Noble Cavalier-Noble Healer",
             "parentHeroId": "blackguard_knight"
           },
           {
@@ -64250,7 +64250,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-10-30 07:00:00",
-            "costumeId": "Mighty Highlander",
+            "costumeId": "Mighty Brother-Mighty Highlander",
             "parentHeroId": "forest_woodsman_warrior"
           },
           {
@@ -64262,7 +64262,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-11-27 07:00:00",
-            "costumeId": "Tavern Defender",
+            "costumeId": "Stout Defender-Tavern Defender",
             "parentHeroId": "dwarven_guard"
           },
           {
@@ -64274,7 +64274,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-06-12 07:00:00",
-            "costumeId": "The Feral Sage",
+            "costumeId": "The Unwavering-The Feral Sage",
             "parentHeroId": "orc_gladiator"
           },
           {
@@ -64286,7 +64286,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-11-27 07:00:00",
-            "costumeId": "Willful Prospector",
+            "costumeId": "Willful Champion-Willful Prospector",
             "parentHeroId": "royal_female_knight"
           },
           {
@@ -64298,7 +64298,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-04-17 07:00:00",
-            "costumeId": "Toad Witch",
+            "costumeId": "Bog Witch-Toad Witch",
             "parentHeroId": "goblin_mage"
           },
           {
@@ -64310,7 +64310,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-06-12 07:00:00",
-            "costumeId": "Dark Messenger",
+            "costumeId": "Dark Orphan-Dark Messenger",
             "parentHeroId": "nordic_ancestral_warrior"
           },
           {
@@ -64322,7 +64322,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-06-12 07:00:00",
-            "costumeId": "Brave Tracker",
+            "costumeId": "Brave Bounty Hunter-Brave Tracker",
             "parentHeroId": "nomad_axe_adventurer"
           },
           {
@@ -64334,7 +64334,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-04-17 07:00:00",
-            "costumeId": "The Epicurean",
+            "costumeId": "The Hungry-The Epicurean",
             "parentHeroId": "orc_troopmaster"
           },
           {
@@ -64346,7 +64346,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-02-20 07:00:00",
-            "costumeId": "Leor Babysitter",
+            "costumeId": "Last of the Leors-Leor Babysitter",
             "parentHeroId": "lionman_barbarian"
           },
           {
@@ -64358,7 +64358,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-06-12 07:00:00",
-            "costumeId": "Master Thief of Windemer",
+            "costumeId": "Lady of Windemer-Master Thief of Windemer",
             "parentHeroId": "nomad_female_captain"
           },
           {
@@ -64370,7 +64370,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-04-17 07:00:00",
-            "costumeId": "The Noble Raven",
+            "costumeId": "The Noble Heart-The Noble Raven",
             "parentHeroId": "elven_archer"
           },
           {
@@ -64382,7 +64382,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-04-17 07:00:00",
-            "costumeId": "Moonlit Fairy",
+            "costumeId": "Shieldmaster of Moonlight-Moonlit Fairy",
             "parentHeroId": "forest_female_elf"
           },
           {
@@ -64394,7 +64394,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-08-07 07:00:00",
-            "costumeId": "Captain of the Wicked",
+            "costumeId": "Captain of the Royal Guard-Captain of the Wicked",
             "parentHeroId": "nomad_female_lord"
           },
           {
@@ -64406,7 +64406,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-09-04 07:00:00",
-            "costumeId": "Hammer of Injustice",
+            "costumeId": "Hammer of Justice-Hammer of Injustice",
             "parentHeroId": "nordic_male_lord"
           },
           {
@@ -64418,7 +64418,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-06-12 07:00:00",
-            "costumeId": "Snake of Descenthia",
+            "costumeId": "Executor from Descenthia-Snake of Descenthia",
             "parentHeroId": "cultist_sorceress"
           },
           {
@@ -64430,7 +64430,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-07-10 07:00:00",
-            "costumeId": "Commander Frostmorrow",
+            "costumeId": "Wielder of Frostmorrow-Commander Frostmorrow",
             "parentHeroId": "royal_knight_commander"
           },
           {
@@ -64442,7 +64442,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-01-23 07:00:00",
-            "costumeId": "Periwig Judge",
+            "costumeId": "Steadfast Judge-Periwig Judge",
             "parentHeroId": "dark_god_aeron"
           },
           {
@@ -64454,7 +64454,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-01-23 07:00:00",
-            "costumeId": "Frozen Farmer",
+            "costumeId": "Frozen Highlander-Frozen Farmer",
             "parentHeroId": "ice_god_october"
           },
           {
@@ -64466,7 +64466,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-03-20 07:00:00",
-            "costumeId": "Keymaster of War",
+            "costumeId": "Deity of War-Keymaster of War",
             "parentHeroId": "fire_god_ares"
           },
           {
@@ -64478,7 +64478,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-03-20 07:00:00",
-            "costumeId": "Long-Lost Adventurer",
+            "costumeId": "Long-Lost Daughter-Long-Lost Adventurer",
             "parentHeroId": "fire_god_zimkitha"
           },
           {
@@ -64500,7 +64500,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-04-03 07:00:00",
-            "costumeId": "Guardian of the Reef",
+            "costumeId": "Guardian of Atlantis-Guardian of the Reef",
             "parentHeroId": "s2_skyllaros"
           },
           {
@@ -64512,7 +64512,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-02-06 07:00:00",
-            "costumeId": "Savage Blademaster",
+            "costumeId": "Savage Butcher-Savage Blademaster",
             "parentHeroId": "s2_hammerhead_hulk"
           },
           {
@@ -64524,7 +64524,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-03-06 07:00:00",
-            "costumeId": "Blazing Beauty",
+            "costumeId": "Fatal Beauty-Blazing Beauty",
             "parentHeroId": "s2_noble_lady"
           },
           {
@@ -64536,7 +64536,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-02-06 07:00:00",
-            "costumeId": "Fearless Merchant",
+            "costumeId": "Dauntless Deceiver-Fearless Merchant",
             "parentHeroId": "s2_tanuki_raccoon"
           },
           {
@@ -64548,7 +64548,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-03-06 07:00:00",
-            "costumeId": "Chameleon Alchemist",
+            "costumeId": "Chameleon Shaman-Chameleon Alchemist",
             "parentHeroId": "s2_chameleon_mage"
           },
           {
@@ -64560,7 +64560,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-04-03 07:00:00",
-            "costumeId": "Champion of Atlantis",
+            "costumeId": "Captain of Atlantis-Champion of Atlantis",
             "parentHeroId": "s2_triton"
           },
           {
@@ -64572,7 +64572,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-04-03 07:00:00",
-            "costumeId": "World Heavyweight Champion",
+            "costumeId": "Chameleon General-World Heavyweight Champion",
             "parentHeroId": "s2_chameleon_chief"
           },
           {
@@ -64584,7 +64584,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-04-03 07:00:00",
-            "costumeId": "Farseer of Atlantis",
+            "costumeId": "Mage of Atlantis-Farseer of Atlantis",
             "parentHeroId": "s2_proteus"
           },
           {
@@ -64596,7 +64596,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-04-03 07:00:00",
-            "costumeId": "Shallows Pursuer",
+            "costumeId": "Shallows Hunter-Shallows Pursuer",
             "parentHeroId": "s2_fiji_mermaid"
           },
           {
@@ -64608,7 +64608,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-04-03 07:00:00",
-            "costumeId": "Khevtuul of Guile",
+            "costumeId": "Daimyo of Deceit-Khevtuul of Guile",
             "parentHeroId": "s2_demon_master"
           },
           {
@@ -64620,7 +64620,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-05-15 07:00:00",
-            "costumeId": "Fireborn Seamstress",
+            "costumeId": "Fireborn Enchantress-Fireborn Seamstress",
             "parentHeroId": "fire_god_natalya"
           },
           {
@@ -64632,7 +64632,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-10-02 07:00:00",
-            "costumeId": "Escape Artist",
+            "costumeId": "Invincible Ronin-Escape Artist",
             "parentHeroId": "holy_god_musashi"
           },
           {
@@ -64644,7 +64644,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-04-27 07:00:00",
-            "costumeId": "Sagacious Jeweler",
+            "costumeId": "Sagacious Scientist-Sagacious Jeweler",
             "parentHeroId": "s4_professor_lidenbrock"
           },
           {
@@ -64656,7 +64656,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-04-27 07:00:00",
-            "costumeId": "Bridal Aristocrat",
+            "costumeId": "Arachnid Aristocrat-Bridal Aristocrat",
             "parentHeroId": "s4_elizabeth"
           },
           {
@@ -64668,7 +64668,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-05-25 07:00:00",
-            "costumeId": "Exquisite Engineer",
+            "costumeId": "Courageous Voyager-Exquisite Engineer",
             "parentHeroId": "s4_phileas_fogg"
           },
           {
@@ -64680,7 +64680,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-04-27 07:00:00",
-            "costumeId": "Devious Scribe",
+            "costumeId": "Devious Scientist-Devious Scribe",
             "parentHeroId": "s4_doctor_moreau"
           },
           {
@@ -64692,7 +64692,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-04-27 07:00:00",
-            "costumeId": "Leader of the Undying",
+            "costumeId": "Leader of the Eloi-Leader of the Undying",
             "parentHeroId": "s4_lepiota"
           },
           {
@@ -64704,7 +64704,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-06-22 07:00:00",
-            "costumeId": "Morlock Kite Master",
+            "costumeId": "Morlock Battle Master-Morlock Kite Master",
             "parentHeroId": "s4_garjammal"
           },
           {
@@ -64716,7 +64716,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-07-03 07:00:00",
-            "costumeId": "Hatter of Svartalfheim",
+            "costumeId": "Queen of Svartalfheim-Hatter of Svartalfheim",
             "parentHeroId": "s3_alfrike"
           },
           {
@@ -64728,7 +64728,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-06-05 07:00:00",
-            "costumeId": "Conjurer of the Dísir",
+            "costumeId": "Princess of the Dísir-Conjurer of the Dísir",
             "parentHeroId": "s3_bera"
           },
           {
@@ -64740,7 +64740,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-08-07 07:00:00",
-            "costumeId": "Battle-Scarred Son",
+            "costumeId": "Vengeful Son-Battle-Scarred Son",
             "parentHeroId": "kalevala_kullervo"
           },
           {
@@ -64752,7 +64752,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-10-23 07:00:00",
-            "costumeId": "Trickster Mother",
+            "costumeId": "Trickster Goddess-Trickster Mother",
             "parentHeroId": "s3_loki_female"
           },
           {
@@ -64764,7 +64764,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-05-23 07:00:00",
-            "costumeId": "Moleman  Potter",
+            "costumeId": "Mighty Moleman-Moleman  Potter",
             "parentHeroId": "s4_morris"
           },
           {
@@ -64776,7 +64776,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-09-07 07:00:00",
-            "costumeId": "Lotus Princess",
+            "costumeId": "Kind-hearted Princess-Lotus Princess",
             "parentHeroId": "s4_aouda"
           },
           {
@@ -64788,7 +64788,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-07-20 07:00:00",
-            "costumeId": "Eloi Sage",
+            "costumeId": "Eloi Hunter-Eloi Sage",
             "parentHeroId": "s4_morel"
           },
           {
@@ -64800,7 +64800,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-08-17 07:00:00",
-            "costumeId": "Molluscan Suitor",
+            "costumeId": "Octopod Champion-Molluscan Suitor",
             "parentHeroId": "s4_octros"
           },
           {
@@ -64812,7 +64812,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-11-09 07:00:00",
-            "costumeId": "Octopod Jailer",
+            "costumeId": "Octopod Sorcerer-Octopod Jailer",
             "parentHeroId": "s4_xnolphod"
           },
           {
@@ -64824,7 +64824,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-10-12 07:00:00",
-            "costumeId": "Elegant Artist",
+            "costumeId": "Clever Voyager-Elegant Artist",
             "parentHeroId": "s4_passepartout"
           },
           {
@@ -64836,7 +64836,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-05-23 07:00:00",
-            "costumeId": "Halfling Novelist",
+            "costumeId": "Halfling Adventurer-Halfling Novelist",
             "parentHeroId": "s4_mack"
           },
           {
@@ -64848,7 +64848,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-11-09 07:00:00",
-            "costumeId": "Invisible Priest",
+            "costumeId": "Invisible Man-Invisible Priest",
             "parentHeroId": "s4_griffin"
           },
           {
@@ -64860,7 +64860,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-04-25 07:00:00",
-            "costumeId": "Ettin Mason",
+            "costumeId": "Ettin Smasher-Ettin Mason",
             "parentHeroId": "s4_rokkamush"
           },
           {
@@ -64872,7 +64872,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-01-04 07:00:00",
-            "costumeId": "Octopod Dancer",
+            "costumeId": "Octropod Assassin-Octopod Dancer",
             "parentHeroId": "s4_zila_lei"
           },
           {
@@ -64884,7 +64884,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-08-10 07:00:00",
-            "costumeId": "Masked Highwaycat",
+            "costumeId": "Cat of Grimforest-Masked Highwaycat",
             "parentHeroId": "fables_puss_in_boots"
           },
           {
@@ -64896,7 +64896,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-12-07 07:00:00",
-            "costumeId": "Eloi Baker",
+            "costumeId": "Eloi Fisherman-Eloi Baker",
             "parentHeroId": "s4_helo"
           },
           {
@@ -64908,7 +64908,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-02-29 07:00:00",
-            "costumeId": "Halfling Lodger",
+            "costumeId": "Halfling Arbalist-Halfling Lodger",
             "parentHeroId": "s4_poppy"
           },
           {
@@ -64920,7 +64920,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-04-25 07:00:00",
-            "costumeId": "Morlock Bartender",
+            "costumeId": "Morlock Hoarder-Morlock Bartender",
             "parentHeroId": "s4_vollermork"
           },
           {
@@ -64932,7 +64932,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-10-05 07:00:00",
-            "costumeId": "Benefactor of Wonderland",
+            "costumeId": "Monarch of Wonderland-Benefactor of Wonderland",
             "parentHeroId": "wonderland_queen"
           },
           {
@@ -64944,7 +64944,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-10-30 07:00:00",
-            "costumeId": "Hammer of Toon Power",
+            "costumeId": "Hammer of Justice-Hammer of Toon Power",
             "parentHeroId": "nordic_male_lord"
           },
           {
@@ -64956,7 +64956,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-12-28 07:00:00",
-            "costumeId": "Rebel Queen",
+            "costumeId": "Lady of Corellia-Rebel Queen",
             "parentHeroId": "pirate_lady"
           },
           {
@@ -64968,7 +64968,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-12-28 07:00:00",
-            "costumeId": "Paper Boy at Shore",
+            "costumeId": "Cabin Boy of Corellia-Paper Boy at Shore",
             "parentHeroId": "pirate_cabin_boy"
           },
           {
@@ -64980,7 +64980,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-11-27 07:00:00",
-            "costumeId": "Lizardfolk Fisher",
+            "costumeId": "Lizardfolk Chieftain-Lizardfolk Fisher",
             "parentHeroId": "lizardman_trapper"
           },
           {
@@ -64992,7 +64992,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-10-30 07:00:00",
-            "costumeId": "Tiger Master",
+            "costumeId": "Master Tactician-Tiger Master",
             "parentHeroId": "oriental_falconer"
           },
           {
@@ -65004,7 +65004,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-11-27 07:00:00",
-            "costumeId": "Bamboo Dueller",
+            "costumeId": "Blade of Bamboo-Bamboo Dueller",
             "parentHeroId": "oriental_panda_warrior"
           },
           {
@@ -65016,7 +65016,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-10-30 07:00:00",
-            "costumeId": "Monkey Reveller",
+            "costumeId": "Monkey Lord-Monkey Reveller",
             "parentHeroId": "oriental_monkey_captain"
           },
           {
@@ -65028,7 +65028,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-12-28 07:00:00",
-            "costumeId": "Rotten Captain of Corellia",
+            "costumeId": "Dread Captain of Corellia-Rotten Captain of Corellia",
             "parentHeroId": "pirate_dread_captain"
           },
           {
@@ -65040,7 +65040,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-11-09 07:00:00",
-            "costumeId": "Halfling Gardener",
+            "costumeId": "Halfling Elder-Halfling Gardener",
             "parentHeroId": "s4_gramps"
           },
           {
@@ -65052,7 +65052,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-10-30 07:00:00",
-            "costumeId": "Toon Executioner",
+            "costumeId": "Executor from Descenthia-Toon Executioner",
             "parentHeroId": "cultist_sorceress"
           },
           {
@@ -65064,7 +65064,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-05-31 07:00:00",
-            "costumeId": "Captain of the Royal Toons",
+            "costumeId": "Captain of the Royal Guard-Captain of the Royal Toons",
             "parentHeroId": "nomad_female_lord"
           },
           {
@@ -65076,7 +65076,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-10-30 07:00:00",
-            "costumeId": "Toon Scholar",
+            "costumeId": "Scholar Supreme-Toon Scholar",
             "parentHeroId": "oriental_female_mystic"
           },
           {
@@ -65088,7 +65088,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-10-30 07:00:00",
-            "costumeId": "Toon Leor",
+            "costumeId": "Last of the Leors-Toon Leor",
             "parentHeroId": "lionman_barbarian"
           },
           {
@@ -65100,7 +65100,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-03-11 07:00:00",
-            "costumeId": "Toon Sniper",
+            "costumeId": "Magitech Sniper-Toon Sniper",
             "parentHeroId": "magitech_sniper"
           },
           {
@@ -65112,7 +65112,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-11-27 07:00:00",
-            "costumeId": "Toon Spearmaster",
+            "costumeId": "Spearmaster of Moonlight-Toon Spearmaster",
             "parentHeroId": "forest_male_elf"
           },
           {
@@ -65124,7 +65124,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-07-16 07:00:00",
-            "costumeId": "Toon of the Woods",
+            "costumeId": "Ancient of the Woods-Toon of the Woods",
             "parentHeroId": "forest_titan"
           },
           {
@@ -65136,7 +65136,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-05-06 07:00:00",
-            "costumeId": "Protector of Toons",
+            "costumeId": "Protector of Glaceholm-Protector of Toons",
             "parentHeroId": "nordic_ice_enchantress"
           },
           {
@@ -65148,7 +65148,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-02-12 07:00:00",
-            "costumeId": "Toon of the Sun",
+            "costumeId": "Flame of the Sun-Toon of the Sun",
             "parentHeroId": "oriental_enchanted_monk"
           },
           {
@@ -65160,7 +65160,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-06-28 07:00:00",
-            "costumeId": "Toon of Stone",
+            "costumeId": "Ancient of Stone-Toon of Stone",
             "parentHeroId": "exalted_female_statue"
           },
           {
@@ -65172,7 +65172,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-04-08 07:00:00",
-            "costumeId": "Chief of Toons",
+            "costumeId": "Chief of Tribes-Chief of Toons",
             "parentHeroId": "tribal_chief"
           },
           {
@@ -65184,7 +65184,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-12-25 07:00:00",
-            "costumeId": "Unyielding Toon",
+            "costumeId": "Unyielding King-Unyielding Toon",
             "parentHeroId": "oriental_warrior_king"
           },
           {
@@ -65196,7 +65196,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-02-12 07:00:00",
-            "costumeId": "The Noble Toon",
+            "costumeId": "The Noble Heart-The Noble Toon",
             "parentHeroId": "elven_archer"
           },
           {
@@ -65208,7 +65208,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-01-22 07:00:00",
-            "costumeId": "Toon of Ice",
+            "costumeId": "Ancient of Ice-Toon of Ice",
             "parentHeroId": "exalted_warrior"
           },
           {
@@ -65220,7 +65220,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-12-25 07:00:00",
-            "costumeId": "Toon of Windemer",
+            "costumeId": "Lady of Windemer-Toon of Windemer",
             "parentHeroId": "nomad_female_captain"
           },
           {
@@ -65232,7 +65232,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-11-27 07:00:00",
-            "costumeId": "Praetorian Toon",
+            "costumeId": "Praetorian Bodyguard-Praetorian Toon",
             "parentHeroId": "underworld_champion"
           },
           {
@@ -65244,7 +65244,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-08-11 07:00:00",
-            "costumeId": "Toon Scientist",
+            "costumeId": "Mad Scientist-Toon Scientist",
             "parentHeroId": "cultist_inventor"
           },
           {
@@ -65256,7 +65256,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-09-08 07:00:00",
-            "costumeId": "Toon Frostmorrow",
+            "costumeId": "Wielder of Frostmorrow-Toon Frostmorrow",
             "parentHeroId": "royal_knight_commander"
           },
           {
@@ -65268,7 +65268,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-01-04 07:00:00",
-            "costumeId": "Eloi Painter",
+            "costumeId": "Eloi Rogue-Eloi Painter",
             "parentHeroId": "s4_russula"
           },
           {
@@ -65280,7 +65280,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-09-26 07:00:00",
-            "costumeId": "Ettin Grillmaster",
+            "costumeId": "Ettin Commander-Ettin Grillmaster",
             "parentHeroId": "s4_kravekrush"
           },
           {
@@ -65292,7 +65292,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-08-29 07:00:00",
-            "costumeId": "The Deathless King",
+            "costumeId": "King of the Depths-The Deathless King",
             "parentHeroId": "s4_lughaidh"
           },
           {
@@ -65304,7 +65304,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-02-29 07:00:00",
-            "costumeId": "Apocynacid Queen",
+            "costumeId": "Myriapod Queen-Apocynacid Queen",
             "parentHeroId": "s4_zenobia"
           },
           {
@@ -65316,7 +65316,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-12-07 07:00:00",
-            "costumeId": "Enigmatic Machinist",
+            "costumeId": "Enigmatic Explorer-Enigmatic Machinist",
             "parentHeroId": "s4_captain_nemo"
           },
           {
@@ -65328,7 +65328,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-08-01 07:00:00",
-            "costumeId": "Warrior of Kelp",
+            "costumeId": "Warrior of the Depths-Warrior of Kelp",
             "parentHeroId": "s4_congalach"
           },
           {
@@ -65340,7 +65340,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-04-25 07:00:00",
-            "costumeId": "Adventurous Drover",
+            "costumeId": "Adventurous Archaeologist-Adventurous Drover",
             "parentHeroId": "s4_hannah"
           },
           {
@@ -65352,7 +65352,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-06-20 07:00:00",
-            "costumeId": "Apocynacid Prince",
+            "costumeId": "Myriapod Prince-Apocynacid Prince",
             "parentHeroId": "s4_zekena"
           },
           {
@@ -65364,7 +65364,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-02-01 07:00:00",
-            "costumeId": "Morlock Running Back",
+            "costumeId": "Morlock Chieftain-Morlock Running Back",
             "parentHeroId": "s4_akkorog"
           },
           {
@@ -65376,7 +65376,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-03-28 07:00:00",
-            "costumeId": "Head Nurse",
+            "costumeId": "Head of the Moles-Head Nurse",
             "parentHeroId": "s4_hulda"
           },
           {
@@ -65388,7 +65388,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-05-23 07:00:00",
-            "costumeId": "Heiress to the Flame",
+            "costumeId": "Heiress of the Underworld-Heiress to the Flame",
             "parentHeroId": "s4_xenda"
           },
           {
@@ -65400,7 +65400,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-12-25 07:00:00",
-            "costumeId": "The Unwavering Toon",
+            "costumeId": "The Unwavering-The Unwavering Toon",
             "parentHeroId": "orc_gladiator"
           },
           {
@@ -65412,7 +65412,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-01-22 07:00:00",
-            "costumeId": "Elven Toon",
+            "costumeId": "Elven Veteran-Elven Toon",
             "parentHeroId": "elven_captain"
           },
           {
@@ -65424,7 +65424,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-12-25 07:00:00",
-            "costumeId": "Dark Toon",
+            "costumeId": "Dark Orphan-Dark Toon",
             "parentHeroId": "nordic_ancestral_warrior"
           },
           {
@@ -65436,7 +65436,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-01-22 07:00:00",
-            "costumeId": "Toon Wizard",
+            "costumeId": "Wisdom of the Forest-Toon Wizard",
             "parentHeroId": "forest_mage"
           },
           {
@@ -65448,7 +65448,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-01-22 07:00:00",
-            "costumeId": "Toon of Rathwood",
+            "costumeId": "Druid of Rathwood-Toon of Rathwood",
             "parentHeroId": "forest_female_druid"
           },
           {
@@ -65460,7 +65460,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-12-25 07:00:00",
-            "costumeId": "Branch of Toons",
+            "costumeId": "Branch of Bamboo-Branch of Toons",
             "parentHeroId": "oriental_panda_berserker"
           },
           {
@@ -65472,7 +65472,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-12-25 07:00:00",
-            "costumeId": "Talented Toon",
+            "costumeId": "Dashing Duelist-Talented Toon",
             "parentHeroId": "nordic_swordman"
           },
           {
@@ -65484,7 +65484,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-01-22 07:00:00",
-            "costumeId": "Toon Magician",
+            "costumeId": "Dread Magician-Toon Magician",
             "parentHeroId": "cultist_mage"
           },
           {
@@ -65496,7 +65496,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-12-25 07:00:00",
-            "costumeId": "Mage from the Toon Sea",
+            "costumeId": "Mage from the Sandsea-Mage from the Toon Sea",
             "parentHeroId": "nomad_mage"
           },
           {
@@ -65508,7 +65508,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-02-12 07:00:00",
-            "costumeId": "Toon Brewer",
+            "costumeId": "Master Brewer-Toon Brewer",
             "parentHeroId": "dwarwen_brewmaster"
           },
           {
@@ -65520,7 +65520,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-02-12 07:00:00",
-            "costumeId": "Resolute Toon",
+            "costumeId": "Resolute Warden-Resolute Toon",
             "parentHeroId": "blackguard_female_captain"
           },
           {
@@ -65532,7 +65532,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-03-04 07:00:00",
-            "costumeId": "Pharaoh Reborn",
+            "costumeId": "Mummy Pharaoh-Pharaoh Reborn",
             "parentHeroId": "s5_ahmose"
           },
           {
@@ -65544,7 +65544,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-04-01 07:00:00",
-            "costumeId": "Golden Hunter",
+            "costumeId": "God of the Hunt-Golden Hunter",
             "parentHeroId": "s5_horus"
           },
           {
@@ -65556,7 +65556,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-02-05 07:00:00",
-            "costumeId": "Lady of the Iteru",
+            "costumeId": "Lady of Harmony-Lady of the Iteru",
             "parentHeroId": "s5_maat"
           },
           {
@@ -65568,7 +65568,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-03-11 07:00:00",
-            "costumeId": "Toon Bounty Hunter",
+            "costumeId": "Brave Bounty Hunter-Toon Bounty Hunter",
             "parentHeroId": "nomad_axe_adventurer"
           },
           {
@@ -65580,7 +65580,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-04-08 07:00:00",
-            "costumeId": "Toon of Dragonia",
+            "costumeId": "Priestess of Dragonia-Toon of Dragonia",
             "parentHeroId": "nomad_female_berserker"
           },
           {
@@ -65592,7 +65592,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-03-11 07:00:00",
-            "costumeId": "Toon Brawler",
+            "costumeId": "Noble Defender-Toon Brawler",
             "parentHeroId": "oriental_brawler"
           },
           {
@@ -65604,7 +65604,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-03-18 07:00:00",
-            "costumeId": "Gallant Llama Troubadour",
+            "costumeId": "Traveling Llama Troubadour-Gallant Llama Troubadour",
             "parentHeroId": "easter_archie"
           },
           {
@@ -65616,7 +65616,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-03-18 07:00:00",
-            "costumeId": "Fisherman Bull",
+            "costumeId": "Florist Bull-Fisherman Bull",
             "parentHeroId": "easter_jasper"
           },
           {
@@ -65628,7 +65628,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-04-18 07:00:00",
-            "costumeId": "Croquet Princess of Wonderland",
+            "costumeId": "Adventurer of Wonderland-Croquet Princess of Wonderland",
             "parentHeroId": "wonderland_alice"
           },
           {
@@ -65640,7 +65640,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-04-18 07:00:00",
-            "costumeId": "Tea Connoisseur of Wonderland",
+            "costumeId": "Riddler of Wonderland-Tea Connoisseur of Wonderland",
             "parentHeroId": "wonderland_hatter"
           },
           {
@@ -65652,7 +65652,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-05-06 07:00:00",
-            "costumeId": "The Hungry Toon",
+            "costumeId": "The Hungry-The Hungry Toon",
             "parentHeroId": "orc_troopmaster"
           },
           {
@@ -65664,7 +65664,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-06-28 07:00:00",
-            "costumeId": "Toon Tactician",
+            "costumeId": "Master Tactician-Toon Tactician",
             "parentHeroId": "oriental_falconer"
           },
           {
@@ -65676,7 +65676,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-07-16 07:00:00",
-            "costumeId": "Toon Champion",
+            "costumeId": "Willful Champion-Toon Champion",
             "parentHeroId": "royal_female_knight"
           },
           {
@@ -65688,7 +65688,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-10-06 07:00:00",
-            "costumeId": "Toon Shieldmaster",
+            "costumeId": "Shieldmaster of Moonlight-Toon Shieldmaster",
             "parentHeroId": "forest_female_elf"
           },
           {
@@ -65700,7 +65700,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-04-29 07:00:00",
-            "costumeId": "Feline Pharaoh",
+            "costumeId": "Divine Pharaoh-Feline Pharaoh",
             "parentHeroId": "s5_cleopatra"
           },
           {
@@ -65712,7 +65712,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-06-24 07:00:00",
-            "costumeId": "Sphinx of the Disco",
+            "costumeId": "Sphinx of the Sun-Sphinx of the Disco",
             "parentHeroId": "s5_meresankh"
           },
           {
@@ -65724,7 +65724,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-06-11 07:00:00",
-            "costumeId": "Lady of the Golden Sun",
+            "costumeId": "Lady of Ten Thousand Names-Lady of the Golden Sun",
             "parentHeroId": "s5_eset"
           },
           {
@@ -65736,7 +65736,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-05-28 07:00:00",
-            "costumeId": "Flower Beauty",
+            "costumeId": "Brilliant Beauty-Flower Beauty",
             "parentHeroId": "kingdom_diaochan"
           },
           {
@@ -65748,7 +65748,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-05-28 07:00:00",
-            "costumeId": "Strategist Supreme",
+            "costumeId": "Master Strategist-Strategist Supreme",
             "parentHeroId": "kingdom_zhuge_liang"
           },
           {
@@ -65772,7 +65772,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-01-09 07:00:00",
-            "costumeId": "Jellyfish Noble",
+            "costumeId": "Water Spirit of Plunder-Jellyfish Noble",
             "parentHeroId": "tales1_persa"
           },
           {
@@ -65784,7 +65784,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-05-23 07:00:00",
-            "costumeId": "Warrior God of the Depths",
+            "costumeId": "Primordial God of the Depths-Warrior God of the Depths",
             "parentHeroId": "tales1_phorcys"
           },
           {
@@ -65796,7 +65796,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-07-22 07:00:00",
-            "costumeId": "Infernal Kin of Väinämöinen",
+            "costumeId": "Cursed Kin of Väinämöinen-Infernal Kin of Väinämöinen",
             "parentHeroId": "kalevala_ukkonen"
           },
           {
@@ -65820,7 +65820,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-06-20 07:00:00",
-            "costumeId": "Prince of the Eternal Pearls",
+            "costumeId": "Prince of the Eternal Deep-Prince of the Eternal Pearls",
             "parentHeroId": "tales1_gestalt"
           },
           {
@@ -65832,7 +65832,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-10-19 07:00:00",
-            "costumeId": "Naga Goddess of the Deep",
+            "costumeId": "Naga Queen of the Deep-Naga Goddess of the Deep",
             "parentHeroId": "tales1_medea"
           },
           {
@@ -65844,7 +65844,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-09-23 07:00:00",
-            "costumeId": "Vampire Kingpin",
+            "costumeId": "Vampire Scion-Vampire Kingpin",
             "parentHeroId": "halloween_alucard"
           },
           {
@@ -65856,7 +65856,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-12-17 07:00:00",
-            "costumeId": "Champion of the Wolves",
+            "costumeId": "Champion of the Castle-Champion of the Wolves",
             "parentHeroId": "castle_wolf_quenell"
           },
           {
@@ -65868,7 +65868,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-12-17 07:00:00",
-            "costumeId": "Commander of the Wolves",
+            "costumeId": "Commander of the Castle-Commander of the Wolves",
             "parentHeroId": "castle_wolf_wolfgang"
           },
           {
@@ -65880,7 +65880,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-04-09 07:00:00",
-            "costumeId": "The Great Frog Tamer",
+            "costumeId": "The Great Phoenix Tamer-The Great Frog Tamer",
             "parentHeroId": "circus_emilio"
           },
           {
@@ -65892,7 +65892,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-08-08 07:00:00",
-            "costumeId": "Dark Duo",
+            "costumeId": "Dynamic Duo-Dark Duo",
             "parentHeroId": "circus_eiora_and_fluffy"
           },
           {
@@ -65904,7 +65904,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-12-01 07:00:00",
-            "costumeId": "Captain of Snowboard Team",
+            "costumeId": "Captain of Santa's Guards-Captain of Snowboard Team",
             "parentHeroId": "christmas_mr_pengi"
           },
           {
@@ -65916,7 +65916,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-12-25 07:00:00",
-            "costumeId": "Glass Leor",
+            "costumeId": "Last of the Leors-Glass Leor",
             "parentHeroId": "lionman_barbarian"
           },
           {
@@ -65928,7 +65928,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-01-14 07:00:00",
-            "costumeId": "Glass Spearmaster",
+            "costumeId": "Spearmaster of Moonlight-Glass Spearmaster",
             "parentHeroId": "forest_male_elf"
           },
           {
@@ -65940,7 +65940,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-01-14 07:00:00",
-            "costumeId": "Elven Vitrail",
+            "costumeId": "Elven Veteran-Elven Vitrail",
             "parentHeroId": "elven_captain"
           },
           {
@@ -65952,7 +65952,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-12-11 07:00:00",
-            "costumeId": "Glass Duelist",
+            "costumeId": "Dashing Duelist-Glass Duelist",
             "parentHeroId": "nordic_swordman"
           },
           {
@@ -65976,7 +65976,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-03-03 07:00:00",
-            "costumeId": "Primordial Queen of Sea Monsters",
+            "costumeId": "Primordial Goddess of Sea Monsters-Primordial Queen of Sea Monsters",
             "parentHeroId": "tales1_ceto"
           },
           {
@@ -65988,7 +65988,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-03-31 07:00:00",
-            "costumeId": "Princess of the Reef",
+            "costumeId": "Nereid Princess-Princess of the Reef",
             "parentHeroId": "tales1_ephyra"
           },
           {
@@ -66000,7 +66000,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-04-17 07:00:00",
-            "costumeId": "Teacher of Arctic Spells",
+            "costumeId": "Teacher of the Arcane Arts-Teacher of Arctic Spells",
             "parentHeroId": "magic_milena"
           },
           {
@@ -66012,7 +66012,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-05-24 07:00:00",
-            "costumeId": "Flame Surgeon",
+            "costumeId": "Conductor of Flames-Flame Surgeon",
             "parentHeroId": "elemental_ignazio"
           },
           {
@@ -66024,7 +66024,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-06-20 07:00:00",
-            "costumeId": "The Gilded Enigma",
+            "costumeId": "The Cosmic Enigma-The Gilded Enigma",
             "parentHeroId": "elemental_jequn"
           },
           {
@@ -66036,7 +66036,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-07-18 07:00:00",
-            "costumeId": "Disco Sharpshooter",
+            "costumeId": "Natural Sharpshooter-Disco Sharpshooter",
             "parentHeroId": "elemental_roz"
           },
           {
@@ -66048,7 +66048,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-08-12 07:00:00",
-            "costumeId": "Cultivating Beast",
+            "costumeId": "Universal Beast-Cultivating Beast",
             "parentHeroId": "elemental_zengar"
           },
           {
@@ -66060,7 +66060,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-08-28 07:00:00",
-            "costumeId": "Modifier of Obscura",
+            "costumeId": "Modifier of Reality-Modifier of Obscura",
             "parentHeroId": "elemental_griffex"
           },
           {
@@ -66072,7 +66072,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-06-03 07:00:00",
-            "costumeId": "Seal Donut Vendor",
+            "costumeId": "Seal Lifeguard-Seal Donut Vendor",
             "parentHeroId": "beachparty_flip"
           },
           {
@@ -66084,7 +66084,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-07-23 07:00:00",
-            "costumeId": "Champion of the Bramble",
+            "costumeId": "Champion of the Court-Champion of the Bramble",
             "parentHeroId": "magic_ray"
           },
           {
@@ -66096,7 +66096,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-08-20 07:00:00",
-            "costumeId": "Mystic Pie Master",
+            "costumeId": "Mystic Chess Master-Mystic Pie Master",
             "parentHeroId": "magic_vaishali"
           },
           {
@@ -66108,7 +66108,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-07-28 07:00:00",
-            "costumeId": "Mistress of the North",
+            "costumeId": "Witch of the North-Mistress of the North",
             "parentHeroId": "kalevala_louhi"
           },
           {
@@ -66120,7 +66120,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-07-28 07:00:00",
-            "costumeId": "Expert Artificer",
+            "costumeId": "Expert Blacksmith-Expert Artificer",
             "parentHeroId": "kalevala_ilmarinen"
           },
           {
@@ -66132,7 +66132,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-07-28 07:00:00",
-            "costumeId": "Fading Champion",
+            "costumeId": "Undying Champion-Fading Champion",
             "parentHeroId": "kalevala_lemminkainen"
           },
           {
@@ -66144,7 +66144,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-07-28 07:00:00",
-            "costumeId": "Frozen Hunter",
+            "costumeId": "Ferocious Hunter-Frozen Hunter",
             "parentHeroId": "kalevala_joukahainen"
           },
           {
@@ -66156,7 +66156,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-09-04 07:00:00",
-            "costumeId": "Exiled Plasma Hacker",
+            "costumeId": "Exiled Plasma Blade-Exiled Plasma Hacker",
             "parentHeroId": "elemental_doxan"
           },
           {
@@ -66168,7 +66168,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-11-10 07:00:00",
-            "costumeId": "Defender of Galaxies",
+            "costumeId": "Defender of Space-Time-Defender of Galaxies",
             "parentHeroId": "elemental_zandria"
           },
           {
@@ -66180,7 +66180,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-12-07 07:00:00",
-            "costumeId": "Idol of Elemental Creations",
+            "costumeId": "Master of Elemental Creations-Idol of Elemental Creations",
             "parentHeroId": "elemental_xandrella"
           },
           {
@@ -66192,7 +66192,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-01-02 07:00:00",
-            "costumeId": "Galactic Jailer",
+            "costumeId": "Galactic Savior-Galactic Jailer",
             "parentHeroId": "elemental_anzia"
           },
           {
@@ -66204,7 +66204,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Cyber Courier",
+            "costumeId": "Cyber Rogue-Cyber Courier",
             "parentHeroId": "elemental_aconia"
           },
           {
@@ -66216,7 +66216,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Three-Eyed Enchanter",
+            "costumeId": "Three-Eyed Psychic-Three-Eyed Enchanter",
             "parentHeroId": "elemental_zaria"
           },
           {
@@ -66228,7 +66228,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Dual Blade Arthropod",
+            "costumeId": "Dual Blade Specialist-Dual Blade Arthropod",
             "parentHeroId": "elemental_xavier"
           },
           {
@@ -66240,7 +66240,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-09-17 07:00:00",
-            "costumeId": "Twilight Conjurer",
+            "costumeId": "Starlight Conjurer-Twilight Conjurer",
             "parentHeroId": "magic_becky"
           },
           {
@@ -66252,7 +66252,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-10-08 07:00:00",
-            "costumeId": "Baroness of Dust",
+            "costumeId": "Charlady of Morlovia-Baroness of Dust",
             "parentHeroId": "halloween_ana_belle"
           },
           {
@@ -66264,7 +66264,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-10-19 07:00:00",
-            "costumeId": "Floral Tinkerer",
+            "costumeId": "Arcanist Tinkerer-Floral Tinkerer",
             "parentHeroId": "magic_camilla"
           },
           {
@@ -66276,7 +66276,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-11-03 07:00:00",
-            "costumeId": "Enchantments Professor",
+            "costumeId": "Charms Professor-Enchantments Professor",
             "parentHeroId": "magic_cristobal"
           },
           {
@@ -66288,7 +66288,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-01-23 07:00:00",
-            "costumeId": "Merchant Musketeer",
+            "costumeId": "Jolly Musketeer-Merchant Musketeer",
             "parentHeroId": "musketeer_porthos"
           },
           {
@@ -66300,7 +66300,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-11-12 07:00:00",
-            "costumeId": "Pompous Jester",
+            "costumeId": "Pompous Duke-Pompous Jester",
             "parentHeroId": "musketeer_villiers"
           },
           {
@@ -66312,7 +66312,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-10-15 07:00:00",
-            "costumeId": "Dwarven Fallen Prince",
+            "costumeId": "Dwarven Fabled Prince-Dwarven Fallen Prince",
             "parentHeroId": "tales2_regin"
           },
           {
@@ -66324,7 +66324,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-10-25 07:00:00",
-            "costumeId": "Avenger of All Rivers",
+            "costumeId": "Goddess of all Rivers-Avenger of All Rivers",
             "parentHeroId": "s2_tethys"
           },
           {
@@ -69683,7 +69683,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Toon Celestial of Darkness",
+            "costumeId": "Celestial of Darkness-Toon Celestial of Darkness",
             "parentHeroId": "dark_god_hel"
           },
           {
@@ -69695,7 +69695,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Toon Celestial of Ice",
+            "costumeId": "Celestial of Ice-Toon Celestial of Ice",
             "parentHeroId": "ice_god_athena"
           },
           {
@@ -69707,7 +69707,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Toon of the Jungle",
+            "costumeId": "Prince of the Jungle-Toon of the Jungle",
             "parentHeroId": "s2_junglehunter"
           },
           {
@@ -69719,7 +69719,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Toon Beauty",
+            "costumeId": "Fatal Beauty-Toon Beauty",
             "parentHeroId": "s2_noble_lady"
           },
           {
@@ -69731,7 +69731,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Nine-tailed Toon",
+            "costumeId": "Nine-tailed Spirit-Nine-tailed Toon",
             "parentHeroId": "s2_fox_girl"
           },
           {
@@ -69743,7 +69743,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Cursed Toonlord",
+            "costumeId": "Cursed Warlord-Cursed Toonlord",
             "parentHeroId": "s2_cursed_samurai"
           },
           {
@@ -69755,7 +69755,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Toon Guardian of Atlantis",
+            "costumeId": "Guardian of Atlantis-Toon Guardian of Atlantis",
             "parentHeroId": "s2_skyllaros"
           },
           {
@@ -69767,7 +69767,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Toon Princess of Atlantis",
+            "costumeId": "Princess of Atlantis-Toon Princess of Atlantis",
             "parentHeroId": "s2_ariel"
           },
           {
@@ -69779,7 +69779,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Toon Ruler of Atlantis",
+            "costumeId": "Ruler of Atlantis-Toon Ruler of Atlantis",
             "parentHeroId": "s2_poseidon"
           },
           {
@@ -69791,7 +69791,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Toon of the Depths",
+            "costumeId": "Empress of the Depths-Toon of the Depths",
             "parentHeroId": "s2_ursena"
           },
           {
@@ -69803,7 +69803,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Toon Chameleon Shaman",
+            "costumeId": "Chameleon Shaman-Toon Chameleon Shaman",
             "parentHeroId": "s2_chameleon_mage"
           },
           {
@@ -69815,7 +69815,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Valiant Fishertoon",
+            "costumeId": "Valiant Fisherman-Valiant Fishertoon",
             "parentHeroId": "s2_rugged_fisherman"
           },
           {
@@ -69827,7 +69827,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Toon of Deceit",
+            "costumeId": "Daimyo of Deceit-Toon of Deceit",
             "parentHeroId": "s2_demon_master"
           },
           {
@@ -69839,7 +69839,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Toon Mage of Atlantis",
+            "costumeId": "Mage of Atlantis-Toon Mage of Atlantis",
             "parentHeroId": "s2_proteus"
           },
           {
@@ -69851,7 +69851,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Atlantean Watcher Toon",
+            "costumeId": "Watcher of Atlantis-Atlantean Watcher Toon",
             "parentHeroId": "s2_atlantean_robot"
           },
           {
@@ -69863,7 +69863,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Toon Hunter",
+            "costumeId": "Shallows Hunter-Toon Hunter",
             "parentHeroId": "s2_fiji_mermaid"
           },
           {
@@ -69875,7 +69875,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Toon Mermaid",
+            "costumeId": "Mermaid of Atlantis-Toon Mermaid",
             "parentHeroId": "s2_merwoman"
           },
           {
@@ -69887,7 +69887,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Toon Merman",
+            "costumeId": "Merman of Atlantis-Toon Merman",
             "parentHeroId": "s2_merman"
           },
           {
@@ -69899,7 +69899,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-11-30 07:00:00",
-            "costumeId": "Peculiar Arcane Buccaneer",
+            "costumeId": "Peculiar Inventor Wizard-Peculiar Arcane Buccaneer",
             "parentHeroId": "magic_ulius"
           },
           {
@@ -69911,7 +69911,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-12-01 07:00:00",
-            "costumeId": "Gnome Master of Gifts",
+            "costumeId": "Gnome Explorer-Gnome Master of Gifts",
             "parentHeroId": "christmas_ginger"
           },
           {
@@ -69923,7 +69923,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-12-01 07:00:00",
-            "costumeId": "Santa's Bookkeeper",
+            "costumeId": "Santa's Little Helper-Santa's Bookkeeper",
             "parentHeroId": "christmas_elf"
           },
           {
@@ -69935,7 +69935,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-12-01 07:00:00",
-            "costumeId": "Santa's Knightly Steed",
+            "costumeId": "Santa's Loyal Steed-Santa's Knightly Steed",
             "parentHeroId": "christmas_reindeer"
           },
           {
@@ -69947,7 +69947,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-01-07 07:00:00",
-            "costumeId": "Paladin of Style",
+            "costumeId": "Hammer of Justice-Paladin of Style",
             "parentHeroId": "nordic_male_lord"
           },
           {
@@ -69959,7 +69959,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-01-07 07:00:00",
-            "costumeId": "Stylish Scholar",
+            "costumeId": "Scholar Supreme-Stylish Scholar",
             "parentHeroId": "oriental_female_mystic"
           },
           {
@@ -69971,7 +69971,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2025-12-27 07:00:00",
-            "costumeId": "Centaur of the Taproom",
+            "costumeId": "Centaur of the Woodlands-Centaur of the Taproom",
             "parentHeroId": "magic_telonius"
           },
           {
@@ -69983,7 +69983,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Herald of Judgment",
+            "costumeId": "Herald of Sacrifice-Herald of Judgment",
             "parentHeroId": "magic_jett"
           },
           {
@@ -69995,7 +69995,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-02-17 07:00:00",
-            "costumeId": "Lunar Lucky Tiger",
+            "costumeId": "Lunar Brawler Tiger-Lunar Lucky Tiger",
             "parentHeroId": "lunar_new_year_laohu"
           },
           {
@@ -70007,7 +70007,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Stylish Lady of Windemer",
+            "costumeId": "Lady of Windemer-Stylish Lady of Windemer",
             "parentHeroId": "nomad_female_captain"
           },
           {
@@ -70019,7 +70019,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "King of Style",
+            "costumeId": "Unyielding King-King of Style",
             "parentHeroId": "oriental_warrior_king"
           },
           {
@@ -70031,7 +70031,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Stylish General",
+            "costumeId": "Wise General-Stylish General",
             "parentHeroId": "oriental_female_templar"
           },
           {
@@ -70043,7 +70043,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Stylish Druid",
+            "costumeId": "Druid of Rathwood-Stylish Druid",
             "parentHeroId": "forest_female_druid"
           },
           {
@@ -70055,7 +70055,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Stylish Ancient of Ice",
+            "costumeId": "Ancient of Ice-Stylish Ancient of Ice",
             "parentHeroId": "exalted_warrior"
           },
           {
@@ -70067,7 +70067,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Stylish Wizard",
+            "costumeId": "Wisdom of the Forest-Stylish Wizard",
             "parentHeroId": "forest_mage"
           },
           {
@@ -70079,7 +70079,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Stylish Taster",
+            "costumeId": "Master Brewer-Stylish Taster",
             "parentHeroId": "dwarwen_brewmaster"
           },
           {
@@ -70091,7 +70091,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Stylish Magician",
+            "costumeId": "Dread Magician-Stylish Magician",
             "parentHeroId": "cultist_mage"
           },
           {
@@ -70103,7 +70103,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Stylish Healer",
+            "costumeId": "Selfless Healer-Stylish Healer",
             "parentHeroId": "oriental_female_mage"
           }
         ],
