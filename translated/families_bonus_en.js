@@ -150,7 +150,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 15,
-        "name": "titanhunter",
+        "name": "titan_hunter",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
             " * At the start of battle, receives 10% / 15% / 20% mana. Against Titans, receives 40% / 60% / 100% mana.",

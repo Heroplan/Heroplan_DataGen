@@ -1,16 +1,5 @@
 [
     {
-        "name": "Chingiriko",
-        "fancy_name": "Shadow Stalker Slime",
-        "color": "Red",
-        "Release date": "",
-        "star": 5,
-        "family": "slime",
-        "costume_id": 0,
-        "heroId": "slime_chingiriko",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Indigon",
         "fancy_name": "Furious Mushroom Champion",
         "color": "Blue",

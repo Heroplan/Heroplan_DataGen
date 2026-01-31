@@ -92,5 +92,6 @@ window.family_values = {
     "hotm2022": "Monthly Hero - 2022",
     "hotm2023": "Monthly Hero - 2023",
     "hotm2024": "Monthly Hero - 2024",
-    "hotm2025": "Monthly Hero - 2025"
+    "hotm2025": "Monthly Hero - 2025",
+    "hotm2026": "Monthly Hero - 2026"
 };

@@ -43609,5 +43609,30 @@ window.allHeroesExtra = [
             "mana_on_damage_received"
         ],
         "family": "mahayoddha"
+    },
+    {
+        "name": "Chingiriko",
+        "fancy name": "Shadow Stalker Slime",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "average",
+        "Release date": "2026-01-31",
+        "AetherPower": "Counterattack",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)",
+            "Buff Stealers"
+        ],
+        "heroId": "slime_chingiriko",
+        "baseAttack": 653,
+        "baseDefense": 627,
+        "baseHealth": 1107,
+        "specialId": "slingja_attack_chingiriko",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_red",
+            "summon_slime_minion_on_death_red"
+        ],
+        "family": "slime"
     }
 ];

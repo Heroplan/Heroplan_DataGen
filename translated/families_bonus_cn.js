@@ -150,7 +150,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 15,
-        "name": "titanhunter",
+        "name": "titan_hunter",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
             "* 战斗开始时，获得 10% / 15% / 20% 的法力。对阵泰坦时，获得 40% / 60% / 100% 的法力。",

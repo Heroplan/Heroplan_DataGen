@@ -46,6 +46,8 @@ family_name_corrections = {
     "theinstitute": "institute",
     "astraldemons": "astral_demons",
     "beautyandthebeast": "beauty_beast",
+    "titanhunter": "titan_hunter",
+    
     
 }
 

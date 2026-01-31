@@ -1003,5 +1003,10 @@
   "Mindless Heal 2": "2個目標盲目治療",
   "Humility": "謙遜",
   "Healing Steal 3": "3個目標治療偷取",
-  "Damage on Dodge": "閃避時造成傷害"
+  "Damage on Dodge": "閃避時造成傷害",
+  "Sticky Surface Buff 3": "3個目標粘性表面增益",
+  "Sticky Surface Buff All": "全體粘性表面增益",
+  "Buff Dispell Immunity All": "全體增益驅散免疫",
+  "Healing Debuff Imunity All": "全體治療減益免疫",
+  "Delayed Healer All": "全體延遲治療"
 }
