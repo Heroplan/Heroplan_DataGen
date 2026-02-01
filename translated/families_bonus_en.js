@@ -314,7 +314,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 32,
-        "name": "2026",
+        "name": "hotm2026",
         "bonus": [
             "Bonus will activate on January 1st, 2027"
         ]

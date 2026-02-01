@@ -23,6 +23,7 @@ family_name_corrections = {
     "2023": "hotm2023",
     "2024": "hotm2024",
     "2025": "hotm2025",
+    "2026": "hotm2026",
     "sakura": "japanese",
     "grimforest": "fable",
     "guardiansteltoc": "guardian",

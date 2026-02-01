@@ -314,7 +314,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 32,
-        "name": "2026",
+        "name": "hotm2026",
         "bonus": [
             "加成將於 2027 年 1 月啟用"
         ]
