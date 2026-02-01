@@ -1,5 +1,17 @@
 [
     {
+        "name": "Dvalin",
+        "fancy_name": "Frost Wielder",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2026-02-01 07:00:00",
+        "star": 5,
+        "family": "hotm2026",
+        "costume_id": 0,
+        "heroId": "ice_god_dvalin",
+        "Lottery_Only": 1
+    },
+    {
         "name": "Indigon",
         "fancy_name": "Furious Mushroom Champion",
         "color": "Blue",

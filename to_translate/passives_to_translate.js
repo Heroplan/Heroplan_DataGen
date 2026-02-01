@@ -12218,66 +12218,71 @@ const allTranslations =
     },
     {
         "originalIndex": 1666,
-        "name": "Indigon",
+        "name": "Dvalin",
         "passives": []
     },
     {
         "originalIndex": 1667,
-        "name": "Broseph",
+        "name": "Indigon",
         "passives": []
     },
     {
         "originalIndex": 1668,
-        "name": "Pineon",
+        "name": "Broseph",
         "passives": []
     },
     {
         "originalIndex": 1669,
-        "name": "Caleb",
+        "name": "Pineon",
         "passives": []
     },
     {
         "originalIndex": 1670,
-        "name": "Zenas",
+        "name": "Caleb",
         "passives": []
     },
     {
         "originalIndex": 1671,
-        "name": "Xiaotu C1",
+        "name": "Zenas",
         "passives": []
     },
     {
         "originalIndex": 1672,
-        "name": "Laohu C1",
+        "name": "Xiaotu C1",
         "passives": []
     },
     {
         "originalIndex": 1673,
-        "name": "Bai Yan",
+        "name": "Laohu C1",
         "passives": []
     },
     {
         "originalIndex": 1674,
-        "name": "Wei Qi",
+        "name": "Bai Yan",
         "passives": []
     },
     {
         "originalIndex": 1675,
-        "name": "Yan Qing",
+        "name": "Wei Qi",
         "passives": []
     },
     {
         "originalIndex": 1676,
-        "name": "Ling Long",
+        "name": "Yan Qing",
         "passives": []
     },
     {
         "originalIndex": 1677,
-        "name": "Dragon Kids",
+        "name": "Ling Long",
         "passives": []
     },
     {
         "originalIndex": 1678,
+        "name": "Dragon Kids",
+        "passives": []
+    },
+    {
+        "originalIndex": 1679,
         "name": "Hongyunxing",
         "passives": []
     }

@@ -16151,66 +16151,71 @@ const translatedEffectsCN =
     },
     {
         "originalIndex": 1666,
-        "name": "Indigon",
+        "name": "Dvalin",
         "effects": []
     },
     {
         "originalIndex": 1667,
-        "name": "Broseph",
+        "name": "Indigon",
         "effects": []
     },
     {
         "originalIndex": 1668,
-        "name": "Pineon",
+        "name": "Broseph",
         "effects": []
     },
     {
         "originalIndex": 1669,
-        "name": "Caleb",
+        "name": "Pineon",
         "effects": []
     },
     {
         "originalIndex": 1670,
-        "name": "Zenas",
+        "name": "Caleb",
         "effects": []
     },
     {
         "originalIndex": 1671,
-        "name": "Xiaotu C1",
+        "name": "Zenas",
         "effects": []
     },
     {
         "originalIndex": 1672,
-        "name": "Laohu C1",
+        "name": "Xiaotu C1",
         "effects": []
     },
     {
         "originalIndex": 1673,
-        "name": "Bai Yan",
+        "name": "Laohu C1",
         "effects": []
     },
     {
         "originalIndex": 1674,
-        "name": "Wei Qi",
+        "name": "Bai Yan",
         "effects": []
     },
     {
         "originalIndex": 1675,
-        "name": "Yan Qing",
+        "name": "Wei Qi",
         "effects": []
     },
     {
         "originalIndex": 1676,
-        "name": "Ling Long",
+        "name": "Yan Qing",
         "effects": []
     },
     {
         "originalIndex": 1677,
-        "name": "Dragon Kids",
+        "name": "Ling Long",
         "effects": []
     },
     {
         "originalIndex": 1678,
+        "name": "Dragon Kids",
+        "effects": []
+    },
+    {
+        "originalIndex": 1679,
         "name": "Hongyunxing",
         "effects": []
     }

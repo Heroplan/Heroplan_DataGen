@@ -117582,6 +117582,32 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Dvalin",
+        "fancy_name": "Frost Wielder",
+        "AetherPower": "",
+        "color": "Blue",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "ice_god_dvalin",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "hotm2026",
+        "costume_id": 0,
+        "originalIndex": 1666,
+        "cn_skill_info": []
+    },
+    {
         "name": "Indigon",
         "fancy_name": "Furious Mushroom Champion",
         "AetherPower": "",
@@ -117604,7 +117630,7 @@ window.allHeroes =
         "passives": [],
         "family": "vegetable",
         "costume_id": 0,
-        "originalIndex": 1666,
+        "originalIndex": 1667,
         "cn_skill_info": []
     },
     {
@@ -117630,7 +117656,7 @@ window.allHeroes =
         "passives": [],
         "family": "vegetable",
         "costume_id": 0,
-        "originalIndex": 1667,
+        "originalIndex": 1668,
         "cn_skill_info": []
     },
     {
@@ -117656,7 +117682,7 @@ window.allHeroes =
         "passives": [],
         "family": "vegetable",
         "costume_id": 0,
-        "originalIndex": 1668,
+        "originalIndex": 1669,
         "cn_skill_info": []
     },
     {
@@ -117682,7 +117708,7 @@ window.allHeroes =
         "passives": [],
         "family": "vegetable",
         "costume_id": 0,
-        "originalIndex": 1669,
+        "originalIndex": 1670,
         "cn_skill_info": []
     },
     {
@@ -117708,7 +117734,7 @@ window.allHeroes =
         "passives": [],
         "family": "institute",
         "costume_id": 0,
-        "originalIndex": 1670,
+        "originalIndex": 1671,
         "cn_skill_info": []
     },
     {
@@ -117734,7 +117760,7 @@ window.allHeroes =
         "passives": [],
         "family": "zodiac",
         "costume_id": 1,
-        "originalIndex": 1671,
+        "originalIndex": 1672,
         "cn_skill_info": []
     },
     {
@@ -117760,7 +117786,7 @@ window.allHeroes =
         "passives": [],
         "family": "zodiac",
         "costume_id": 1,
-        "originalIndex": 1672,
+        "originalIndex": 1673,
         "cn_skill_info": []
     },
     {
@@ -117786,7 +117812,7 @@ window.allHeroes =
         "passives": [],
         "family": "fortune",
         "costume_id": 0,
-        "originalIndex": 1673,
+        "originalIndex": 1674,
         "cn_skill_info": []
     },
     {
@@ -117812,7 +117838,7 @@ window.allHeroes =
         "passives": [],
         "family": "fortune",
         "costume_id": 0,
-        "originalIndex": 1674,
+        "originalIndex": 1675,
         "cn_skill_info": []
     },
     {
@@ -117838,7 +117864,7 @@ window.allHeroes =
         "passives": [],
         "family": "fortune",
         "costume_id": 0,
-        "originalIndex": 1675,
+        "originalIndex": 1676,
         "cn_skill_info": []
     },
     {
@@ -117864,7 +117890,7 @@ window.allHeroes =
         "passives": [],
         "family": "fortune",
         "costume_id": 0,
-        "originalIndex": 1676,
+        "originalIndex": 1677,
         "cn_skill_info": []
     },
     {
@@ -117890,7 +117916,7 @@ window.allHeroes =
         "passives": [],
         "family": "fortune",
         "costume_id": 0,
-        "originalIndex": 1677,
+        "originalIndex": 1678,
         "cn_skill_info": []
     },
     {
@@ -117916,7 +117942,7 @@ window.allHeroes =
         "passives": [],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1678,
+        "originalIndex": 1679,
         "cn_skill_info": []
     }
 ];
