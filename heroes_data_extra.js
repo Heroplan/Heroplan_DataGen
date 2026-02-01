@@ -43634,5 +43634,58 @@ window.allHeroesExtra = [
             "summon_slime_minion_on_death_red"
         ],
         "family": "slime"
+    },
+    {
+        "name": "Dvalin",
+        "fancy name": "Frost Wielder",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
+        "Release date": "2026-02-01",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Minions Counters",
+            "Buffers (ATK)"
+        ],
+        "heroId": "ice_god_dvalin",
+        "baseAttack": 593,
+        "baseDefense": 576,
+        "baseHealth": 1012,
+        "specialId": "frostbound_smash",
+        "passiveSkills": [
+            "mana_on_enemy_frost",
+            "resist_buff_immunity"
+        ],
+        "family": "hotm2026"
+    },
+    {
+        "name": "Zheng Tianshou",
+        "fancy name": "Fair-Faced Gentleman of Water Margin",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
+        "Release date": "2026-02-01",
+        "AetherPower": "Regen",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Dispellers",
+            "Damage Reducers"
+        ],
+        "heroId": "outlaw_zheng_tianshou",
+        "baseAttack": 636,
+        "baseDefense": 644,
+        "baseHealth": 1117,
+        "specialId": "gallant_stance",
+        "passiveSkills": [
+            "resist_bleed",
+            "righteous_rebellion_parent",
+            "health_boost_on_special_critical_damage_all"
+        ],
+        "family": "outlaw"
     }
 ];
