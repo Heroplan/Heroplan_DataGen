@@ -83,6 +83,7 @@ window.family_values = {
     "beauty_beast": "Alliance - Beauty and the Beast",
     "shady_scoundrels": "Shady Scoundrel",
     "titan_hunter": "Titan Hunter Summon - Titan Hunter",
+    "fortune": "Monthly Event - Fortune Dancer",
 
     "hotm2017": "Monthly Hero - 2017",
     "hotm2018": "Monthly Hero - 2018",

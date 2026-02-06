@@ -1,53 +1,5 @@
 [
     {
-        "name": "Indigon",
-        "fancy_name": "Furious Mushroom Champion",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2026-02-04 07:00:00",
-        "star": 5,
-        "family": "vegetable",
-        "costume_id": 0,
-        "heroId": "vegetable_indigon",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Broseph",
-        "fancy_name": "Broccoli Shaman",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-02-04 07:00:00",
-        "star": 5,
-        "family": "vegetable",
-        "costume_id": 0,
-        "heroId": "vegetable_broseph",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Pineon",
-        "fancy_name": "Pineapple Prodigy",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2026-02-04 07:00:00",
-        "star": 4,
-        "family": "vegetable",
-        "costume_id": 0,
-        "heroId": "vegetable_pineon",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Caleb",
-        "fancy_name": "Cabbage Soldier",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2026-02-04 07:00:00",
-        "star": 3,
-        "family": "vegetable",
-        "costume_id": 0,
-        "heroId": "vegetable_caleb",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Zenas",
         "fancy_name": "Expert Mineralogist",
         "color": "Green",

@@ -83,6 +83,7 @@ window.family_values = {
     "beauty_beast": "聯盟 - 美女與野獸",
     "shady_scoundrels": "陰險無賴",
     "titan_hunter": "泰坦獵人召喚 - 泰坦獵人",
+    "fortune": "月活動 - 鴻運舞者",
 
     "hotm2017": "月英 - 2017",
     "hotm2018": "月英 - 2018",

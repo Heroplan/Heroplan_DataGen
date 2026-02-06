@@ -1008,5 +1008,11 @@
   "Sticky Surface Buff All": "全體粘性表面增益",
   "Buff Dispell Immunity All": "全體增益驅散免疫",
   "Healing Debuff Imunity All": "全體治療減益免疫",
-  "Delayed Healer All": "全體延遲治療"
+  "Delayed Healer All": "全體延遲治療",
+  "Mana Gen Buff Stack All": "全體法力生成增益 (疊加)",
+  "Uproots Cleanse 3": "3個目標拔除並淨化",
+  "Defense Growth 3": "3個目標防禦成長",
+  "Resonance DoT on hit": "命中時觸發共鳴持續傷害",
+  "Harvest Buffs 1": "收穫增益 (單體)",
+  "Self Mana Gen Buff Stack": "自身法力生成增益 (疊加)"
 }

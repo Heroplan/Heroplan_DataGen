@@ -43687,5 +43687,89 @@ window.allHeroesExtra = [
             "health_boost_on_special_critical_damage_all"
         ],
         "family": "outlaw"
+    },
+    {
+        "name": "Caleb",
+        "fancy name": "Cabbage Soldier",
+        "element": "Blue",
+        "rarity": 3,
+        "class": "Fighter",
+        "speed": "average",
+        "Release date": "2026-02-04",
+        "AetherPower": "Dodge",
+        "skill_types": [],
+        "heroId": "vegetable_caleb",
+        "baseAttack": 325,
+        "baseDefense": 323,
+        "baseHealth": 519,
+        "specialId": "cabbage_barrage",
+        "passiveSkills": [
+            "summon_seedling_parasite_per_turn_shared_with_delay_rare_veggie",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "vegetable"
+    },
+    {
+        "name": "Indigon",
+        "fancy name": "Furious Mushroom Champion",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
+        "Release date": "2026-02-04",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "vegetable_indigon",
+        "baseAttack": 643,
+        "baseDefense": 604,
+        "baseHealth": 1102,
+        "specialId": "brand_of_reckoning",
+        "passiveSkills": [
+            "summon_seedling_parasite_per_turn_shared_with_delay_veggie",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "vegetable"
+    },
+    {
+        "name": "Broseph",
+        "fancy name": "Broccoli Shaman",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
+        "Release date": "2026-02-04",
+        "AetherPower": "Ailment Immunity",
+        "skill_types": [],
+        "heroId": "vegetable_broseph",
+        "baseAttack": 622,
+        "baseDefense": 623,
+        "baseHealth": 1105,
+        "specialId": "superfood_purification",
+        "passiveSkills": [
+            "summon_seedling_parasite_per_turn_shared_with_delay_veggie",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "vegetable"
+    },
+    {
+        "name": "Pineon",
+        "fancy name": "Pineapple Prodigy",
+        "element": "Yellow",
+        "rarity": 4,
+        "class": "Wizard",
+        "speed": "average",
+        "Release date": "2026-02-04",
+        "AetherPower": "Special Boost",
+        "skill_types": [],
+        "heroId": "vegetable_pineon",
+        "baseAttack": 402,
+        "baseDefense": 385,
+        "baseHealth": 603,
+        "specialId": "tangy_torture",
+        "passiveSkills": [
+            "summon_seedling_parasite_per_turn_shared_with_delay_epic_veggie",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "vegetable"
     }
 ];

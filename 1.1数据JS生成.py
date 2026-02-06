@@ -626,6 +626,8 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             elif hero_family in ['musketeer', 'beauty_beast']: source_to_translate = 'musketeer'
             elif hero_family in ['shady_scoundrels']: source_to_translate = 'blackfriday'
             elif hero_family in ['mahayoddha']: source_to_translate = 'temple'
+            elif hero_family in ['vegetable']: source_to_translate = 'farmland'
+            elif hero_family in ['fortune']: source_to_translate = 'lunarnewyear2026'
 
             # --- 修改: 检测到缺失时，保存名字、颜色和星级 ---
             if not extra: 
