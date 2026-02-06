@@ -43794,5 +43794,31 @@ window.allHeroesExtra = [
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "family": "vegetable"
+    },
+    {
+        "name": "Zenas",
+        "fancy name": "Expert Mineralogist",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
+        "Release date": "2026-02-06",
+        "AetherPower": "Fiend Resist",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Fiends Summoners",
+            "Dispellers",
+            "Mindless Attack & Mindless Heal",
+            "Negative Effects On Self Or Allies"
+        ],
+        "heroId": "institute_zenas",
+        "baseAttack": 647,
+        "baseDefense": 633,
+        "baseHealth": 1114,
+        "specialId": "moldavite_wings",
+        "passiveSkills": [
+            "revive_in_alternative_form_with_insanity_chance"
+        ],
+        "family": "institute"
     }
 ];

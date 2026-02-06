@@ -1,17 +1,5 @@
 [
     {
-        "name": "Zenas",
-        "fancy_name": "Expert Mineralogist",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-02-06 07:00:00",
-        "star": 5,
-        "family": "institute",
-        "costume_id": 0,
-        "heroId": "institute_zenas",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Xiaotu C1",
         "fancy_name": "Lunar Protector Rabbit",
         "color": "Red",
