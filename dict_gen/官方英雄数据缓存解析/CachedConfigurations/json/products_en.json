@@ -144,7 +144,7 @@
         "id": "lottery_featured_event_farmland",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 151,
+        "uiPriority": 170,
         "associatedEvent": "RecurringFarmland",
         "bonusChest": "beowulf_chest",
         "bonusChestRequirement": 5,
@@ -1507,7 +1507,6 @@
         "id": "com.smallgiantgames.empires.christmas_booster",
         "dollarValue": 12,
         "zyngaStoreDollarValueOverride": 11,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -2267,7 +2266,7 @@
         "id": "lottery_wilderness_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 163,
+        "uiPriority": 175,
         "associatedEvent": "WildernessSummon",
         "bonusChest": "wilderness_chest",
         "bonusChestRequirement": 10,
@@ -2373,7 +2372,7 @@
         "id": "lottery_shadow_default",
         "gemPrice": 450,
         "amount": 1,
-        "uiPriority": 157,
+        "uiPriority": 163,
         "associatedEvent": "ShadowQuest",
         "bonusChest": "shadow_summon_chest",
         "bonusChestRequirement": 10,
@@ -16245,7 +16244,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.xmas_tier3",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -16267,7 +16265,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.xmas_tier6",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -17625,12 +17622,12 @@
           {
             "type": "Item",
             "id": "misc_loot_ticket",
-            "amount": 15
+            "amount": 10
           },
           {
             "type": "Item",
             "id": "refill_energy_pve_full",
-            "amount": 3
+            "amount": 1
           }
         ]
       },
@@ -20733,7 +20730,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic4_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -20923,6 +20919,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -26587,6 +26584,38 @@
           {
             "type": "Item",
             "id": "titan_battle_time_freeze",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.mds_creator6k_50shadow",
+        "zyngaStoreProduct": true,
+        "contents": [
+          {
+            "type": "Avatar",
+            "id": "Captivated by the Unknown",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "lottery_shadow_coin",
+            "amount": 50
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_rainbow_rare",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "refill_food_giant",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "refill_iron_giant",
             "amount": 1
           }
         ]
@@ -32451,8 +32480,8 @@
       {
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_red_1",
-        "dollarValue": 25,
-        "zyngaStoreDollarValueOverride": 23,
+        "dollarValue": 15,
+        "zyngaStoreDollarValueOverride": 13,
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
@@ -32486,8 +32515,8 @@
       {
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_red_3",
-        "dollarValue": 35,
-        "zyngaStoreDollarValueOverride": 32,
+        "dollarValue": 25,
+        "zyngaStoreDollarValueOverride": 22,
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
@@ -32521,8 +32550,8 @@
       {
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_red_6",
-        "dollarValue": 50,
-        "zyngaStoreDollarValueOverride": 45,
+        "dollarValue": 35,
+        "zyngaStoreDollarValueOverride": 30,
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
@@ -32575,8 +32604,8 @@
       {
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_green_1",
-        "dollarValue": 25,
-        "zyngaStoreDollarValueOverride": 23,
+        "dollarValue": 15,
+        "zyngaStoreDollarValueOverride": 13,
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
@@ -32610,8 +32639,8 @@
       {
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_green_3",
-        "dollarValue": 35,
-        "zyngaStoreDollarValueOverride": 32,
+        "dollarValue": 25,
+        "zyngaStoreDollarValueOverride": 22,
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
@@ -32645,8 +32674,8 @@
       {
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_green_6",
-        "dollarValue": 50,
-        "zyngaStoreDollarValueOverride": 45,
+        "dollarValue": 35,
+        "zyngaStoreDollarValueOverride": 30,
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
@@ -32699,8 +32728,8 @@
       {
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_blue_1",
-        "dollarValue": 25,
-        "zyngaStoreDollarValueOverride": 23,
+        "dollarValue": 15,
+        "zyngaStoreDollarValueOverride": 13,
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
@@ -32734,8 +32763,8 @@
       {
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_blue_3",
-        "dollarValue": 35,
-        "zyngaStoreDollarValueOverride": 32,
+        "dollarValue": 25,
+        "zyngaStoreDollarValueOverride": 22,
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
@@ -32769,8 +32798,8 @@
       {
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_blue_6",
-        "dollarValue": 50,
-        "zyngaStoreDollarValueOverride": 45,
+        "dollarValue": 35,
+        "zyngaStoreDollarValueOverride": 30,
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
@@ -32823,8 +32852,8 @@
       {
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_yellow_1",
-        "dollarValue": 25,
-        "zyngaStoreDollarValueOverride": 23,
+        "dollarValue": 15,
+        "zyngaStoreDollarValueOverride": 13,
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
@@ -32858,8 +32887,8 @@
       {
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_yellow_3",
-        "dollarValue": 35,
-        "zyngaStoreDollarValueOverride": 32,
+        "dollarValue": 25,
+        "zyngaStoreDollarValueOverride": 22,
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
@@ -32893,8 +32922,8 @@
       {
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_yellow_6",
-        "dollarValue": 50,
-        "zyngaStoreDollarValueOverride": 45,
+        "dollarValue": 35,
+        "zyngaStoreDollarValueOverride": 30,
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
@@ -32947,8 +32976,8 @@
       {
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_purple_1",
-        "dollarValue": 25,
-        "zyngaStoreDollarValueOverride": 23,
+        "dollarValue": 15,
+        "zyngaStoreDollarValueOverride": 13,
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
@@ -32982,8 +33011,8 @@
       {
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_purple_3",
-        "dollarValue": 35,
-        "zyngaStoreDollarValueOverride": 32,
+        "dollarValue": 25,
+        "zyngaStoreDollarValueOverride": 22,
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
@@ -33017,8 +33046,8 @@
       {
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.last_hero_ascension_purple_6",
-        "dollarValue": 50,
-        "zyngaStoreDollarValueOverride": 45,
+        "dollarValue": 35,
+        "zyngaStoreDollarValueOverride": 30,
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
@@ -36200,7 +36229,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic3_alliancegift",
+        "allianceGiftCustomContentId": "dynamic_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36210,7 +36239,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36247,7 +36275,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -58487,5 +58514,5 @@
       }
     ]
   },
-  "productsConfigId": 1364479934
+  "productsConfigId": 2498995931
 }

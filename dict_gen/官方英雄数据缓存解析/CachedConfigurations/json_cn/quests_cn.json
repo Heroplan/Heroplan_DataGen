@@ -36,7 +36,7 @@
     "recurringDragonQuestCooldownDurationSeconds": 0,
     "recurringRareDragonQuestSchedulingCadence": 4,
     "shadowQuestEnabled": true,
-    "legendaryTroopQuestsEnabled": false,
+    "legendaryTroopQuestsEnabled": true,
     "questLines": [
       {
         "id": "food",
@@ -112411,5 +112411,5 @@
       "maxRareMonstersPerEvent": 100
     }
   },
-  "questsConfigId": 214572180
+  "questsConfigId": 4132658216
 }

@@ -22014,7 +22014,6 @@
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
-        "strongAttackElement": "Green",
         "statusEffects": [
           {
             "id": "burn_contagious_dartagnan_costume",
@@ -48075,7 +48074,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 5800,
+          "powerMultiplierPerMil": 5950,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -50274,7 +50273,7 @@
             "statusTargetType": "NearToTarget"
           },
           {
-            "id": "brittle_specials_morryster",
+            "id": "brittle_more",
             "sideAffected": "Enemies",
             "statusTargetType": "NearToTarget",
             "turns": 4
@@ -51272,7 +51271,7 @@
         ],
         "statusEffects": [
           {
-            "id": "bouncing_damage_over_time_xshahr",
+            "id": "resonance_damage_over_time_xshahr",
             "sideAffected": "Enemies",
             "statusTargetType": "Single",
             "turns": 3
@@ -51412,9 +51411,9 @@
           "typeOfTarget": "All"
         },
         "maxLevel": 8,
-        "absorbDamagePerMil": 280,
         "properties": [
-          "fire_strike_gandr_costume"
+          "fire_strike_gandr_costume",
+          "health_boost_allies_on_damage_gandr_costume"
         ],
         "statusEffects": [
           {
@@ -52979,7 +52978,7 @@
         ],
         "statusEffects": [
           {
-            "id": "bouncing_damage_over_time_ibelis",
+            "id": "resonance_damage_over_time_ibelis",
             "sideAffected": "Enemies",
             "statusTargetType": "Sides",
             "turns": 2
@@ -52992,7 +52991,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3650,
+          "powerMultiplierPerMil": 3550,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -53115,6 +53114,7 @@
         },
         "maxLevel": 8,
         "properties": [
+          "bypass_defensive_buffs_always",
           "cascading_attack_wilcox"
         ],
         "statusEffects": [
@@ -53187,8 +53187,7 @@
           "sideAffected": "Allies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Heal",
-          "powerMultiplierPerMil": 425,
-          "powerMultiplierIncrementPerLevelPerMil": 10
+          "powerMultiplierPerMil": 100
         },
         "maxLevel": 8,
         "properties": [
@@ -54535,7 +54534,7 @@
       {
         "propertyType": "DamageIncreasedByTargetMana",
         "id": "mana_feed_haradea",
-        "targetManaDamageIncrementPerMil": 1400
+        "targetManaDamageIncrementPerMil": 600
       },
       {
         "propertyType": "DamageIncreasedByCharactersState",
@@ -65002,12 +65001,12 @@
           {
             "sideAffected": "Allies",
             "effectType": "HealthBoost",
-            "fixedPower": 1000
+            "fixedPower": 1200
           },
           {
             "sideAffected": "Allies",
             "effectType": "AddMana",
-            "powerMultiplierPerMil": 200
+            "powerMultiplierPerMil": 300
           }
         ]
       },
@@ -65908,7 +65907,7 @@
           "Parasite",
           "BigParasite"
         ],
-        "familiarId": "evolving_seedling_parasite"
+        "familiarId": "evolving_seedling_parasite_with_delay"
       },
       {
         "propertyType": "DamageIncreasedByTargetFamiliarCount",
@@ -66017,7 +66016,8 @@
         "id": "growth_ellery",
         "baseAttackIncrease": 260,
         "baseAttackIncreasePerLevel": 20,
-        "baseDefenseIncrease": 0,
+        "baseDefenseIncrease": 260,
+        "baseDefenseIncreasePerLevel": 20,
         "targetType": "NearToTarget",
         "sideAffected": "Allies"
       },
@@ -66249,7 +66249,7 @@
         "extraHitChancePerMil": 600,
         "statusEffects": [
           {
-            "id": "bouncing_damage_over_time_mael",
+            "id": "resonance_damage_over_time_mael",
             "turns": 3
           }
         ],
@@ -66770,7 +66770,7 @@
         "propertyType": "DifferentExtraHitPowerChainStrike",
         "id": "chain_strike_cassilda",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 3150,
+        "powerMultiplierPerMil": 2900,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "maxExtraHits": 5,
         "extraHitChancePerMil": 1000,
@@ -66790,7 +66790,7 @@
           }
         ],
         "allowMainTargetInRandomTargets": true,
-        "additionalHitDamagePerMil": 2150,
+        "additionalHitDamagePerMil": 2400,
         "additionalHitDamageIncrementPerLevelPerMil": 50
       },
       {
@@ -66837,7 +66837,7 @@
           }
         ],
         "applyStatusEffectsOnHit": true,
-        "familiarId": "evolving_seedling_parasite"
+        "familiarId": "evolving_seedling_parasite_with_delay"
       },
       {
         "propertyType": "EffectPerFamiliar",
@@ -67000,7 +67000,7 @@
           "Parasite",
           "BigParasite"
         ],
-        "familiarId": "evolving_seedling_parasite"
+        "familiarId": "evolving_seedling_parasite_with_delay"
       },
       {
         "propertyType": "RemoveStatusEffectsWithEffectPerTarget",
@@ -67079,8 +67079,16 @@
         "reductionIncrementPerLevel": 10,
         "targetType": "NearToTarget",
         "sideAffected": "Enemies"
+      },
+      {
+        "propertyType": "HealthSteal",
+        "id": "health_boost_allies_on_damage_gandr_costume",
+        "sharedHealthPerMil": 270,
+        "isHealthBoost": true,
+        "targetType": "All",
+        "sideAffected": "Allies"
       }
     ]
   },
-  "specialsConfigId": 1078469609
+  "specialsConfigId": 2444831
 }

@@ -648,18 +648,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Arzen",
-        "fancy_name": "Vicious Overseer Construct",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "Construct Family",
-        "costume_id": 0,
-        "heroId": "construct_arzen",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Sylosis",
         "fancy_name": "Martial Artist Construct",
         "color": "Green",
@@ -960,66 +948,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Jett",
-        "fancy_name": "Herald of Judgment",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "Magic Family",
-        "costume_id": 1,
-        "heroId": "magic_jett_costume_eyes",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Marjana",
-        "fancy_name": "Stylish Lady of Windemer",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "Classic Family",
-        "costume_id": 1,
-        "heroId": "nomad_female_captain_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Leonidas",
-        "fancy_name": "King of Style",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "Classic Family",
-        "costume_id": 1,
-        "heroId": "oriental_warrior_king_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Li Xiu",
-        "fancy_name": "Stylish General",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 4,
-        "family": "Classic Family",
-        "costume_id": 1,
-        "heroId": "oriental_female_templar_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Brienne",
-        "fancy_name": "Stylish Druid",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 3,
-        "family": "Classic Family",
-        "costume_id": 1,
-        "heroId": "forest_female_druid_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Magni",
         "fancy_name": "Stylish Ancient of Ice",
         "color": "Blue",
@@ -1185,42 +1113,6 @@
         "family": "Beauty and the Beast Family",
         "costume_id": 0,
         "heroId": "beauty_beast_ivete",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Borgholf",
-        "fancy_name": "Trapper from the Grove",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "Titan Hunter Family",
-        "costume_id": 0,
-        "heroId": "titan_hunter_borgholf",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Kesha",
-        "fancy_name": "Enchantress of Al-Layl",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "Magic Carpet Family",
-        "costume_id": 0,
-        "heroId": "magic_carpet_kesha",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Haradea",
-        "fancy_name": "Astral Demon Voidbender",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "Astral Demons",
-        "costume_id": 0,
-        "heroId": "astral_demon_haradea",
         "Lottery_Only": 1
     },
     {

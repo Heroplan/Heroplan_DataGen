@@ -477,10 +477,10 @@ window.allHeroes =
         ],
         "heroId": "vegetable_caleb",
         "star": 3,
-        "power": 545,
-        "attack": 564,
-        "defense": 561,
-        "health": 902,
+        "power": 540,
+        "attack": 559,
+        "defense": 556,
+        "health": 886,
         "effects": [
             "對目標造成 320% 傷害。",
             "敵人每持有一名惡魔或超級惡魔，都將造成 5% 額外傷害，最多累積造成 370% 傷害。",
@@ -500,16 +500,16 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 8,
         "lb1": {
-            "attack": 640,
-            "defense": 636,
-            "health": 1022,
-            "power": 610
+            "attack": 634,
+            "defense": 630,
+            "health": 1004,
+            "power": 603
         },
         "lb2": {
-            "attack": 791,
-            "defense": 786,
-            "health": 1263,
-            "power": 738
+            "attack": 783,
+            "defense": 778,
+            "health": 1241,
+            "power": 730
         },
         "cn_skill_info": [
             {
@@ -13473,15 +13473,15 @@ window.allHeroes =
         "Release date": "2026-02-04",
         "specialId": "brand_of_reckoning",
         "passiveSkills": [
-            "summon_seedling_parasite_per_turn_shared_with_delay_veggie",
+            "summon_seedling_parasite_with_delay",
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "heroId": "vegetable_indigon",
         "star": 5,
-        "power": 1254,
-        "attack": 1324,
-        "defense": 1244,
-        "health": 2270,
+        "power": 1278,
+        "attack": 1349,
+        "defense": 1289,
+        "health": 2288,
         "effects": [
             "對所有敵人造成 300% 傷害。",
             "敵人每持有一名惡魔或超級惡魔，都將造成 5% 額外傷害，最多累積造成 350% 傷害。",
@@ -13502,16 +13502,16 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 194,
         "lb1": {
-            "attack": 1427,
-            "defense": 1340,
-            "health": 2446,
-            "power": 1342
+            "attack": 1454,
+            "defense": 1389,
+            "health": 2466,
+            "power": 1368
         },
         "lb2": {
-            "attack": 1633,
-            "defense": 1534,
-            "health": 2799,
-            "power": 1517
+            "attack": 1663,
+            "defense": 1590,
+            "health": 2821,
+            "power": 1547
         },
         "cn_skill_info": [
             {
@@ -33475,15 +33475,15 @@ window.allHeroes =
         "Release date": "2026-02-04",
         "specialId": "superfood_purification",
         "passiveSkills": [
-            "summon_seedling_parasite_per_turn_shared_with_delay_veggie",
+            "summon_seedling_parasite_with_delay",
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "heroId": "vegetable_broseph",
         "star": 5,
-        "power": 1251,
-        "attack": 1281,
-        "defense": 1283,
-        "health": 2276,
+        "power": 1278,
+        "attack": 1320,
+        "defense": 1322,
+        "health": 2294,
         "effects": [
             "為施法者和附近盟友恢復 50% 生命值。",
             "拔除施法者與附近盟友的减益。（拔除可以從每個目標上安全地移除 2 個状態異常、負面疊加或枯萎效果。包含不可淨化的狀態異常與跳舞效果。每移除一個效果，施法者獲得 7% 加成生命值，加成生命值可超過最大生命值。安全淨化可避免移除状態異常時的第二效果，例如移除時受到傷害。被動技能、家族效果等外部效果仍可發動。枯萎效果會最先被移除。其他效果則是以最後獲得的開始移除。）",
@@ -33503,16 +33503,16 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 480,
         "lb1": {
-            "attack": 1380,
-            "defense": 1383,
-            "health": 2453,
-            "power": 1338
+            "attack": 1423,
+            "defense": 1425,
+            "health": 2473,
+            "power": 1368
         },
         "lb2": {
-            "attack": 1579,
-            "defense": 1582,
-            "health": 2806,
-            "power": 1513
+            "attack": 1628,
+            "defense": 1630,
+            "health": 2829,
+            "power": 1547
         },
         "cn_skill_info": [
             {
@@ -43022,10 +43022,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tales2_ott_costume_herbalist",
         "star": 5,
-        "power": 1245,
-        "attack": 1203,
-        "defense": 1280,
-        "health": 2438,
+        "power": 1274,
+        "attack": 1237,
+        "defense": 1316,
+        "health": 2483,
         "effects": [
             "為所有盟友提供 800 點加成生命值。加成生命值能夠超過最大生命值。",
             "所有盟友都可獲得火風暴護體，持續 3 個回合，所受到的特殊技能傷害最高減少 -1280 點。攻擊者為自然元素角色時，額外減少 30% 傷害。",
@@ -43041,16 +43041,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 612,
         "lb1": {
-            "attack": 1296,
-            "defense": 1380,
-            "health": 2627,
-            "power": 1332
+            "attack": 1333,
+            "defense": 1418,
+            "health": 2676,
+            "power": 1363
         },
         "lb2": {
-            "attack": 1483,
-            "defense": 1579,
-            "health": 3006,
-            "power": 1507
+            "attack": 1525,
+            "defense": 1623,
+            "health": 3061,
+            "power": 1541
         },
         "cn_skill_info": [
             {
@@ -58806,7 +58806,7 @@ window.allHeroes =
         "Release date": "2025-09-02",
         "specialId": "guard_the_garden",
         "passiveSkills": [
-            "summon_seedling_parasite_per_turn_veggie",
+            "summon_seedling_parasite_with_delay",
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "heroId": "vegetable_elsbeth",
@@ -80767,7 +80767,7 @@ window.allHeroes =
         "Release date": "2025-09-02",
         "specialId": "capsicum_charge",
         "passiveSkills": [
-            "summon_seedling_parasite_per_turn_veggie",
+            "summon_seedling_parasite_with_delay",
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "heroId": "vegetable_bartholomew",
@@ -91667,10 +91667,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "tales2_regin_costume_omen",
         "star": 5,
-        "power": 1246,
-        "attack": 1278,
-        "defense": 1212,
-        "health": 2389,
+        "power": 1274,
+        "attack": 1314,
+        "defense": 1246,
+        "health": 2432,
         "effects": [
             "驅散目標和附近敵人的增益。",
             "使用火風暴打擊攻擊目標與附近敵人，造成最多 2220 點傷害。如果目標為自然元素角色，則造成額外 40% 傷害。此特殊技能必定命中其目標。",
@@ -91686,16 +91686,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1301,
         "lb1": {
-            "attack": 1377,
-            "defense": 1306,
-            "health": 2574,
-            "power": 1332
+            "attack": 1416,
+            "defense": 1343,
+            "health": 2621,
+            "power": 1363
         },
         "lb2": {
-            "attack": 1576,
-            "defense": 1494,
-            "health": 2945,
-            "power": 1507
+            "attack": 1620,
+            "defense": 1536,
+            "health": 2999,
+            "power": 1541
         },
         "cn_skill_info": [
             {
@@ -101827,10 +101827,10 @@ window.allHeroes =
         ],
         "heroId": "vegetable_pineon",
         "star": 4,
-        "power": 792,
-        "attack": 854,
-        "defense": 818,
-        "health": 1281,
+        "power": 798,
+        "attack": 860,
+        "defense": 824,
+        "health": 1300,
         "effects": [
             "對目標造成 415% 傷害。",
             "從目標的身上豐收增益。（豐收可以從每個目标上，安全地移除 2 個增益、正面叠加或成長效果。包含无法驅散增益和跳舞效果。每移除一個效果，施法者獲得 7% 加成生命值，加成生命值可超過最大生命值。安全移除可避免移除狀態效果增益时的第二效果。例如移除時受到傷害。被動技能、家族效果等外部效果仍可發動。成長效果會最先被移除。其他效果則是以最新的開始移除。）",
@@ -101850,16 +101850,16 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1448,
         "lb1": {
-            "attack": 928,
-            "defense": 888,
-            "health": 1392,
-            "power": 853
+            "attack": 935,
+            "defense": 895,
+            "health": 1413,
+            "power": 860
         },
         "lb2": {
-            "attack": 1076,
-            "defense": 1030,
-            "health": 1614,
-            "power": 975
+            "attack": 1084,
+            "defense": 1038,
+            "health": 1638,
+            "power": 984
         },
         "cn_skill_info": [
             {
@@ -118303,6 +118303,84 @@ window.allHeroes =
         "family": "zodiac",
         "costume_id": 0,
         "originalIndex": 1680,
+        "cn_skill_info": []
+    },
+    {
+        "name": "亞真 (Arzen)",
+        "fancy_name": "邪惡的監督構造體",
+        "AetherPower": "",
+        "color": "紫",
+        "class": "騎士",
+        "speed": "慢速",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "construct_arzen",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "construct",
+        "costume_id": 0,
+        "originalIndex": 1681,
+        "cn_skill_info": []
+    },
+    {
+        "name": "博爾霍夫 (Borgholf)",
+        "fancy_name": "樹林部隊",
+        "AetherPower": "",
+        "color": "綠",
+        "class": "騎士",
+        "speed": "慢速",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "titan_hunter_borgholf",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "titan_hunter",
+        "costume_id": 0,
+        "originalIndex": 1682,
+        "cn_skill_info": []
+    },
+    {
+        "name": "哈拉狄亞 (Haradea)",
+        "fancy_name": "星界惡魔御虛者",
+        "AetherPower": "",
+        "color": "紫",
+        "class": "騎士",
+        "speed": "慢速",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "astral_demon_haradea",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "astral_demon",
+        "costume_id": 0,
+        "originalIndex": 1683,
         "cn_skill_info": []
     }
 ];

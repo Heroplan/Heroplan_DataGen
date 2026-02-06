@@ -3902,9 +3902,9 @@
               "eventEndingOffer": "",
               "manuallyOverwritten": true,
               "featuredCharacters": [
-                "magic_carpet_lando",
-                "magic_nadezhda_costume_postmaster",
-                "magic_carpet_naeem"
+                "magic_carpet_kesha",
+                "magic_jett_costume_eyes",
+                "magic_carpet_ragrim"
               ],
               "startTime": "2026-02-10 07:00:00",
               "endTime": "2026-02-15 07:00:00"
@@ -15536,7 +15536,7 @@
           }
         ],
         "challengeEventRareMonsterProbabilityPerEnergyPerMil": 3,
-        "monthlyDragonSummonEnabled": false,
+        "monthlyDragonSummonEnabled": true,
         "monthlyDragonSummonChancePerMil": 13
       },
       "pvpEvents": {
@@ -69982,7 +69982,7 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-02-10 07:00:00",
             "costumeId": "Herald of Sacrifice-Herald of Judgment",
             "parentHeroId": "magic_jett"
           },
@@ -70006,7 +70006,7 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-02-14 07:00:00",
             "costumeId": "Lady of Windemer-Stylish Lady of Windemer",
             "parentHeroId": "nomad_female_captain"
           },
@@ -70018,7 +70018,7 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-02-14 07:00:00",
             "costumeId": "Unyielding King-King of Style",
             "parentHeroId": "oriental_warrior_king"
           },
@@ -70030,7 +70030,7 @@
             ],
             "rarity": 4,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-02-14 07:00:00",
             "costumeId": "Wise General-Stylish General",
             "parentHeroId": "oriental_female_templar"
           },
@@ -70042,7 +70042,7 @@
             ],
             "rarity": 3,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-02-14 07:00:00",
             "costumeId": "Druid of Rathwood-Stylish Druid",
             "parentHeroId": "forest_female_druid"
           },
@@ -72136,7 +72136,7 @@
                 "rare": true
               }
             ],
-            "claimAllLevelRequirement": 20
+            "claimAllLevelRequirement": 10
           },
           {
             "gameMode": "Dragon",
@@ -72465,7 +72465,7 @@
                 "rare": true
               }
             ],
-            "claimAllLevelRequirement": 10
+            "claimAllLevelRequirement": 1
           }
         ],
         "classicAndTrainerDragonsOnly": true
@@ -82307,9 +82307,9 @@
                     "manaBonusPerMil": 30
                   },
                   {
-                    "attackBonusPerMil": 70,
-                    "defenseBonusPerMil": 70,
-                    "healthBonusPerMil": 90,
+                    "attackBonusPerMil": 100,
+                    "defenseBonusPerMil": 100,
+                    "healthBonusPerMil": 110,
                     "manaBonusPerMil": 50
                   }
                 ]
@@ -84685,7 +84685,7 @@
         "maxHeartsGivenFromSingleDragon": 6000,
         "lootId": "dragon_hearts_rewards",
         "heartsRequiredForLoot": 5000,
-        "trainerDragonCommendingEnabled": true
+        "trainerDragonCommendingEnabled": false
       },
       "ownedHeroAttributeConfig": {
         "isEnabled": true,
@@ -84800,10 +84800,10 @@
     "minSecondsBetweenRecentActivityRequests": 30,
     "colorBlindModeEnabled": true,
     "languageSelectionEnabled": true,
-    "maxVersionToShowUpdateOutReminderAndroid": "82.0.2",
-    "maxVersionToShowUpdateOutReminderIos": "82.0.2",
+    "maxVersionToShowUpdateOutReminderAndroid": "82.0.3",
+    "maxVersionToShowUpdateOutReminderIos": "82.0.3",
     "maxVersionToShowUpdateOutReminderAndroidStandalone": "82.0.3",
-    "standaloneNewVersionRolloutPercentage": 70,
+    "standaloneNewVersionRolloutPercentage": 100,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -84895,5 +84895,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 2816085539
+  "otherConfigId": 1374595392
 }

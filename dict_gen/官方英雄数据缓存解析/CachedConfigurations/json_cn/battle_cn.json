@@ -33491,7 +33491,7 @@
           "ElementShield"
         ],
         "passiveSkills": [
-          "summon_seedling_parasite_per_turn_veggie",
+          "summon_seedling_parasite_with_delay",
           "resist_special_blocking_with_health_boost_and_mana_pve"
         ],
         "type": "Boss",
@@ -33510,7 +33510,7 @@
         "baseDefense": 150,
         "manaSpeedId": "慢",
         "passiveSkills": [
-          "summon_seedling_parasite_per_turn_veggie",
+          "summon_seedling_parasite_with_delay",
           "resist_special_blocking_with_health_boost_and_mana_pve"
         ],
         "type": "Boss",
@@ -33532,7 +33532,7 @@
           "ElementShield"
         ],
         "passiveSkills": [
-          "summon_seedling_parasite_per_turn_veggie",
+          "summon_seedling_parasite_with_delay",
           "resist_special_blocking_with_health_boost_and_mana_pve"
         ],
         "type": "Boss",
@@ -33551,7 +33551,7 @@
         "baseDefense": 150,
         "manaSpeedId": "慢",
         "passiveSkills": [
-          "summon_seedling_parasite_per_turn_veggie",
+          "summon_seedling_parasite_with_delay",
           "resist_special_blocking_with_health_boost_and_mana_pve"
         ],
         "type": "Boss",
@@ -33570,7 +33570,7 @@
         "baseDefense": 150,
         "manaSpeedId": "慢",
         "passiveSkills": [
-          "summon_seedling_parasite_per_turn_veggie",
+          "summon_seedling_parasite_with_delay",
           "resist_special_blocking_with_health_boost_and_mana_pve"
         ],
         "type": "Boss",
@@ -33589,7 +33589,7 @@
         "baseDefense": 150,
         "manaSpeedId": "慢",
         "passiveSkills": [
-          "summon_seedling_parasite_per_turn_veggie",
+          "summon_seedling_parasite_with_delay",
           "resist_special_blocking_with_health_boost_and_mana_pve"
         ],
         "type": "Boss",
@@ -55667,7 +55667,7 @@
         "id": "add_insanity_to_self_khatrox",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 50,
+        "insanityToAdd": 45,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -55732,7 +55732,7 @@
         "id": "add_insanity_to_self_morryster",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 50,
+        "insanityToAdd": 45,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -55784,7 +55784,7 @@
         "id": "add_insanity_to_self_demhalar",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 45,
+        "insanityToAdd": 40,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -55832,7 +55832,8 @@
         "buff": "MinorDebuff",
         "damageMultiplierPerMil": 100,
         "damageMultiplierIncrementPerLevelPerMil": 10,
-        "additionalCasterSideEffectTargetType": "Single"
+        "additionalCasterSideEffect": "HealthBoost",
+        "additionalCasterSideEffectPowerPerMil": 500
       },
       {
         "statusEffect": "ManaOnOwnSpecial",
@@ -55900,9 +55901,9 @@
         "isUnreallocatableByConfigOverride": true,
         "requiredDamageSources": [
           "SpecialSkill",
+          "StatusEffectSkill",
           "Troop",
-          "NpcNormalAttack",
-          "StatusEffect"
+          "NpcNormalAttack"
         ],
         "receivedDamageMultiplierPerMil": 500,
         "receivedDamageMultiplierIncrementPerLevelPerMil": 0
@@ -56290,7 +56291,7 @@
         "id": "add_insanity_to_self_emilie",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 50,
+        "insanityToAdd": 45,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -56638,7 +56639,7 @@
         "id": "add_insanity_to_self_ellery",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 50,
+        "insanityToAdd": 45,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -56716,7 +56717,7 @@
         "id": "add_insanity_to_self_kadath",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 45,
+        "insanityToAdd": 40,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -56750,7 +56751,7 @@
         "statusEffect": "CounterAttack",
         "id": "counter_attack_gandr_costume",
         "buff": "MinorBuff",
-        "damageDeflectionPerMil": 540,
+        "damageDeflectionPerMil": 560,
         "damageDeflectionPerLevelPerMil": 20
       },
       {
@@ -56866,7 +56867,7 @@
             "excludeEffectTriggerRemovalReasons": [],
             "statusEffects": [
               {
-                "id": "bouncing_damage_over_time_anatemah",
+                "id": "resonance_damage_over_time_anatemah",
                 "sideAffected": "Allies",
                 "statusTargetType": "Single",
                 "turns": 3
@@ -57250,7 +57251,7 @@
         "statusEffect": "ResonanceDamageOverTime",
         "id": "resonance_damage_over_time_mael",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 120,
+        "damageMultiplierPerMil": 200,
         "damageMultiplierIncrementPerLevelPerMil": 5,
         "resonanceDamageTargetType": "NearToTargetExceptMainTarget",
         "resonanceDamageMultiplierPerMil": 500,
@@ -57260,7 +57261,7 @@
         "statusEffect": "ResonanceDamageOverTime",
         "id": "resonance_damage_over_time_xshahr",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 180,
+        "damageMultiplierPerMil": 290,
         "damageMultiplierIncrementPerLevelPerMil": 5,
         "resonanceDamageTargetType": "NearToTargetExceptMainTarget",
         "resonanceDamageMultiplierPerMil": 500,
@@ -57270,7 +57271,7 @@
         "statusEffect": "ResonanceDamageOverTime",
         "id": "resonance_damage_over_time_haradea",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 180,
+        "damageMultiplierPerMil": 365,
         "damageMultiplierIncrementPerLevelPerMil": 5,
         "resonanceDamageTargetType": "NearToTargetExceptMainTarget",
         "resonanceDamageMultiplierPerMil": 500,
@@ -57280,7 +57281,7 @@
         "statusEffect": "ResonanceDamageOverTime",
         "id": "resonance_damage_over_time_anatemah",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 270,
+        "damageMultiplierPerMil": 490,
         "damageMultiplierIncrementPerLevelPerMil": 20,
         "resonanceDamageTargetType": "NearToTargetExceptMainTarget",
         "resonanceDamageMultiplierPerMil": 500,
@@ -57290,7 +57291,7 @@
         "statusEffect": "ResonanceDamageOverTime",
         "id": "resonance_damage_over_time_ibelis",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 55,
+        "damageMultiplierPerMil": 492,
         "damageMultiplierIncrementPerLevelPerMil": 5,
         "resonanceDamageTargetType": "NearToTargetExceptMainTarget",
         "resonanceDamageMultiplierPerMil": 500,
@@ -57454,7 +57455,7 @@
         "id": "add_insanity_to_self_wilcox",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 45,
+        "insanityToAdd": 40,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -57480,7 +57481,7 @@
         "id": "add_insanity_to_self_inanis",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 40,
+        "insanityToAdd": 35,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -57499,7 +57500,7 @@
         "statusEffect": "CounterAttack",
         "id": "counterattack_meenakshi",
         "buff": "MinorBuff",
-        "damageDeflectionPerMil": 1310,
+        "damageDeflectionPerMil": 1360,
         "damageDeflectionPerLevelPerMil": 20
       },
       {
@@ -57815,7 +57816,7 @@
         "id": "add_insanity_to_self_cassilda",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 50,
+        "insanityToAdd": 45,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -68031,7 +68032,7 @@
             "id": "damage_seedling_parasite"
           }
         ],
-        "healthPerMil": 150,
+        "healthPerMil": 200,
         "monsterHealthPerMil": 200
       },
       {
@@ -68061,7 +68062,7 @@
             "id": "damage_sapling_parasite"
           }
         ],
-        "healthPerMil": 250,
+        "healthPerMil": 300,
         "monsterHealthPerMil": 500
       },
       {
@@ -90189,5 +90190,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 2380893827
+  "battleConfigId": 4060292375
 }

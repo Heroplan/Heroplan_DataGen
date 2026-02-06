@@ -6,6 +6,94 @@
           {
             "key": "odds.hero_lottery_hero_lunar_new_year_2026_seasonal_5",
             "text": "Eroe del Capodanno lunare [#ffc3ff]Leggendario[#] (non in evidenza): [#!]{0}%[#]"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra",
+            "text": "Il [#!]demone Piantina[#] si evolve in un [#!]demone Alberello[#] dopo {EVOLVINGFAMILIAR1EVOLVETURNS} turni.\n[*] Il [#!]demone Alberello[#] si evolve in un [#!]demone Mega Fiore[#] dopo {EVOLVINGFAMILIAR2EVOLVETURNS} turni.\n\n[*] [#!]Demone Piantina[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] di Salute.\n[*] [#!]Demone Alberello[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] di Salute.\n[*] [#!]Demone Mega Fiore[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] di Salute.\n\n[*] Un demone danneggia il suo bersaglio a ogni turno. Un demone scompare dopo aver assorbito la guarigione. La quantità di guarigione richiesta varia in base alla Salute massima del bersaglio.\n[*] L'evoluzione dei demoni viene ritardata di {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno ogni volta che assorbe guarigione."
+          },
+          {
+            "key": "recent_activity.source.purchasegems_direct_checkout",
+            "text": "Hai acquistato {0} con pagamento diretto"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
+            "text": "[#!]Iterazione +{BASESTACKCOUNT} (max: {MAXSTACK}):[#] tutti i danni subiti dall'evocatore e dagli alleati vicini vengono ridotti del {DAMAGEMODIFIER}%."
+          },
+          {
+            "key": "lottery.description.summon_chest_promo_challenge",
+            "text": "In evidenza i Vegetali valorosi con demoni evolutivi!"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Evoca un [#!]demone Piantina[#] a ogni turno contro un nemico casuale.\n[*] Il [#!]demone Piantina[#] si evolve in un [#!]demone Alberello[#] dopo {EVOLVINGFAMILIAR1EVOLVETURNS} turni.\n[*] Il [#!]demone Alberello[#] si evolve in un [#!]demone Mega Fiore[#] dopo {EVOLVINGFAMILIAR2EVOLVETURNS} turni.\n[*] L'evoluzione dei demoni viene ritardata di {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno ogni volta che assorbono guarigione.\n\n[#!]Demone Piantina[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] di Salute.\n\n[#!]Demone Alberello[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] di Salute.\n\n[#!]Demone Mega Fiore[#]:\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] di Salute."
+          },
+          {
+            "key": "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold",
+            "text": "Se il bersaglio ha meno del {THRESHOLD1}% di Salute prima di subire i danni, bersaglia un altro nemico che aveva meno del {THRESHOLD2}% di Salute prima di subire i danni da questa Abilità speciale. Se nessuno degli altri nemici ha meno del {THRESHOLD3}% di Salute, il bersaglio sarà un nemico a caso. I danni si riducono a ogni colpo consecutivo. Ogni nemico può essere colpito una sola volta."
+          },
+          {
+            "key": "rare_monster.spawn_chance.lunarnewyearrare.message.zero_chance_disclaimer",
+            "text": "In questa impresa hai sconfitto tutti i [#!]Draghi della fortuna[#]."
+          },
+          {
+            "key": "brawl.bonus.cupid.attackmultiplier.defensemultiplier.healthmultiplier.managenerationmultiplier",
+            "text": "[*] Attacco, Difesa, Salute e rigenerazione mana aumentati."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Evoca un [#!]demone Piantina[#] a ogni turno contro un nemico casuale. Questa abilità passiva si attiva una sola volta per turno per ogni squadra.\n[*] Il [#!]demone Piantina[#] si evolve in un [#!]demone Alberello[#] dopo {EVOLVINGFAMILIAR1EVOLVETURNS} turni.\n[*] Il [#!]demone Alberello[#] si evolve in un [#!]demone Mega Fiore[#] dopo {EVOLVINGFAMILIAR2EVOLVETURNS} turni.\n[*] L'evoluzione dei demoni viene ritardata di {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno ogni volta che assorbono guarigione.\n\n[#!]Demone Piantina[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] di Salute.\n\n[#!]Demone Alberello[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] di Salute.\n\n[#!]Demone Mega Fiore[#]:\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] di Salute."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Evoca un [#!]demone Piantina[#] a ogni turno contro un nemico casuale. Questa abilità passiva si attiva una sola volta per turno per ogni squadra.\n[*] Il [#!]demone Piantina[#] si evolve in un [#!]demone Alberello[#] dopo {EVOLVINGFAMILIAR1EVOLVETURNS} turni.\n[*] Il [#!]demone Alberello[#] si evolve in un [#!]demone Mega Fiore[#] dopo {EVOLVINGFAMILIAR2EVOLVETURNS} turni.\n[*] L'evoluzione dei demoni viene ritardata di {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno ogni volta che assorbono guarigione.\n\n[#!]Demone Piantina[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] di Salute.\n\n[#!]Demone Alberello[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] di Salute.\n\n[#!]Demone Mega Fiore[#]:\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] di Salute."
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Evocatore della Piantina"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Evocatore della Piantina"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Evocatore della Piantina"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_enhanced_criticals.cupid",
+            "text": "Maggiore riduzione degli HP max con i [#!]colpi critici[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid",
+            "text": "Immunità dai disturbi che influenzano la [#!]guarigione[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid",
+            "text": "Immunità dalle [#!]riduzioni del mana[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid",
+            "text": "Immunità dai disturbi che influenzano la [#!]rigenerazione mana[#]."
+          },
+          {
+            "key": "lottery.description.banner.seasonalpremiumsummon.lunarnewyear",
+            "text": "Ottieni [#ffce60]10 Spirito della fortuna[#] a ogni Chiamata!"
+          },
+          {
+            "key": "promo.description.lottery_hero_valentines",
+            "text": "Scopri [##elementgreen]{0}[#] e altri Eroi a tempo limitato nella Chiamata stagionale!"
+          },
+          {
+            "key": "pvp_rules.newevent.started.description.valentines_brawl",
+            "text": "Gli Eroi della famiglia [#!]Amorini[#] ricevono vari benefici nella Zuffa raid:"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay",
+            "text": "Infligge il {DAMAGE}% di danni al bersaglio e a {MAXHITS} nemici casuali.\n[*] Evoca un [#!]demone Piantina[#] per ogni nemico colpito."
+          },
+          {
+            "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
+            "text": "Al termine di ogni turno, infligge il {POWER}% di danni a un nemico a caso e aumenta la propria Salute per il {DAMAGEABSORB}% dei danni totali inflitti."
           }
         ]
       },
@@ -14,6 +102,94 @@
           {
             "key": "odds.hero_lottery_hero_lunar_new_year_2026_seasonal_5",
             "text": "[#ffc3ff]Легендарный[#] герой (не из рекомендованных): [#!]{0} %[#]"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra",
+            "text": "[#!]Росток-паразит[#] превращается в [#!]пророщенного паразита[#] спустя {EVOLVINGFAMILIAR1EVOLVETURNS} х.\n[*][#!]Пророщенный паразит[#] превращается в [#!]цветущего мегапаразита[#] спустя {EVOLVINGFAMILIAR2EVOLVETURNS} х.\n\n[*] [#!]Росток-паразит[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] % атаки, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] % здоровья\n[*] [#!]Пророщенный паразит[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] % атаки, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] % здоровья\n[*] [#!]Цветущий мегапаразит[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % атаки, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % здоровья\n\n[*]Паразит наносит урон своей цели каждый ход. Паразит поглощает лечение и исчезает, когда впитает исцеление в размере, зависящем от макс. здоровья цели.\n[*]Эволюция паразитов задерживается на {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} х. всякий раз, когда они поглощают лечение."
+          },
+          {
+            "key": "recent_activity.source.purchasegems_direct_checkout",
+            "text": "Приобретено с помощью прямых платежей: {0}"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
+            "text": "[#!]Складывается +{BASESTACKCOUNT} (до {MAXSTACK}) р.:[#] весь урон, получаемый героем и союзниками поблизости, увеличивается на {DAMAGEMODIFIER} %"
+          },
+          {
+            "key": "lottery.description.summon_chest_promo_challenge",
+            "text": "Включает отважные овощи с эволюционирующими паразитами!"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Призывает [#!]росток-паразит[#] к случайному врагу каждый ход.\n[*][#!]Росток-паразит[#] превращается в [#!]пророщенного паразита[#] спустя {EVOLVINGFAMILIAR1EVOLVETURNS} х.\n[*][#!]Пророщенный паразит[#] превращается в [#!]цветок-мегапаразит[#] спустя {EVOLVINGFAMILIAR2EVOLVETURNS} х.\n[*]Эволюция паразитов задерживается на {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} х. всякий раз, когда они поглощают лечение.\n\n[#!]Росток-паразит[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] атаки, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] здоровья.\n\n[#!]Пророщенный паразит[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] атаки, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] здоровья.\n\n[#!]Цветок-мегапаразит[#]:\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] атаки, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] здоровья."
+          },
+          {
+            "key": "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold",
+            "text": "Если у цели было меньше {THRESHOLD1} % здоровья до получения урона, выбирает целью другого врага, у которого было меньше {THRESHOLD2} % здоровья до получения любого урона от этого особого навыка. Если ни у одного врага нет здоровья меньше, чем {THRESHOLD3} %, выбирает целью случайного врага. Урон снижается после каждого попадания. Каждого врага можно атаковать только один раз."
+          },
+          {
+            "key": "rare_monster.spawn_chance.lunarnewyearrare.message.zero_chance_disclaimer",
+            "text": "Вы победили всех [#!]драконов удачи[#] в этом квесте."
+          },
+          {
+            "key": "brawl.bonus.cupid.attackmultiplier.defensemultiplier.healthmultiplier.managenerationmultiplier",
+            "text": "[*]Бонус к атаке, защите, здоровью и генерации маны."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Призывает [#!]росток-паразит[#] к случайному врагу каждый ход. Этот пассивный навык может активироваться только один раз за ход для каждой команды.\n[*][#!]Росток-паразит[#] превращается в [#!]пророщенного паразита[#] спустя {EVOLVINGFAMILIAR1EVOLVETURNS} х.\n[*][#!]Пророщенный паразит[#] превращается в [#!]цветок-мегапаразит[#] спустя {EVOLVINGFAMILIAR2EVOLVETURNS} х.\n[*]Эволюция паразитов задерживается на {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} х. всякий раз, когда они поглощают лечение.\n\n[#!]Росток-паразит[#]: \n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] атаки, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] здоровья.\n\n[#!]Пророщенный паразит[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] атаки, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] здоровья.\n\n[#!]Цветок-мегапаразит[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] атаки, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] здоровья."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Призывает [#!]росток-паразит[#] к случайному врагу каждый ход. Этот пассивный навык может активироваться только один раз за ход для каждой команды.\n[*][#!]Росток-паразит[#] превращается в [#!]пророщенного паразита[#] спустя {EVOLVINGFAMILIAR1EVOLVETURNS} х.\n[*][#!]Пророщенный паразит[#] превращается в [#!]цветок-мегапаразит[#] спустя {EVOLVINGFAMILIAR2EVOLVETURNS} х.\n[*]Эволюция паразитов задерживается на {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} х. всякий раз, когда они поглощают лечение.\n\n[#!]Росток-паразит[#]: \n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] атаки, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] здоровья.\n\n[#!]Пророщенный паразит[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] атаки, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] здоровья.\n\n[#!]Цветок-мегапаразит[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] атаки, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] здоровья."
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Заклинатель ростков"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Заклинатель ростков"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Заклинатель ростков"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_enhanced_criticals.cupid",
+            "text": "[#!]Крит. попадания[#] сильнее уменьшают макс. здоровье."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid",
+            "text": "Иммунитет к недугам, влияющим на [#!]лечение[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid",
+            "text": "Иммунитет к [#!]уменьшению маны[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid",
+            "text": "Иммунитет к недугам, влияющим на генерацию маны"
+          },
+          {
+            "key": "lottery.description.banner.seasonalpremiumsummon.lunarnewyear",
+            "text": "Получайте [#ffce60]10 духов удачи[#] с каждым призывом!"
+          },
+          {
+            "key": "promo.description.lottery_hero_valentines",
+            "text": "Спешите! В сезонном призыве вас ждет [##elementgreen]{0}[#] и другие герои!"
+          },
+          {
+            "key": "pvp_rules.newevent.started.description.valentines_brawl",
+            "text": "Герои семьи [#!]купидонов[#] получают различные бонусы в данной схватке набегов:"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay",
+            "text": "Наносит {DAMAGE} % урона цели и случайным врагам (вплоть до ({MAXHITS})).\n[*]Призывает [#!]росток-паразит[#] к задетым врагам."
+          },
+          {
+            "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
+            "text": "В конце каждого хода наносят {POWER} % урона случайному врагу и усиливают свое здоровье на {DAMAGEABSORB} % нанесенного урона."
           }
         ]
       },
@@ -22,6 +198,94 @@
           {
             "key": "odds.hero_lottery_hero_lunar_new_year_2026_seasonal_5",
             "text": "[#ffc3ff]Legendarny[#] bohater Księżycowego Nowego Roku (niewyróżniony): [#!]{0}%[#]"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra",
+            "text": "[*] [#!]Potwór sadzonka[#] ewoluuje w [#!]kiełkującego potwora[#] po upływie {EVOLVINGFAMILIAR1EVOLVETURNS} tur.\n[*][#!]Kiełkujący potwór[#] ewoluuje w [#!]kwitnącego mega potwora[#] po upływie {EVOLVINGFAMILIAR2EVOLVETURNS} tur.\n\n[*] [#!]Potwór sadzonka[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] ataku, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] zdrowia.\n[*] [#!]Kiełkujący potwór[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] ataku, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] zdrowia.\n[*] [#!]Kwitnący mega potwór[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] ataku, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] zdrowia.\n\n[*]Potwór zadaje obrażenia celowi co turę i znika po pochłonięciu leczenia. Ilość wymaganego leczenia zależy od maksymalnego zdrowia celu.\n[*]Ewolucja potworów zostaje opóźniona o {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tur(y) za każdym razem, gdy pochłoną leczenie."
+          },
+          {
+            "key": "recent_activity.source.purchasegems_direct_checkout",
+            "text": "Zakupiono {0} za pomocą Direct Pay"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
+            "text": "[#!]Kumulacja +{BASESTACKCOUNT} (maks.: {MAXSTACK}):[#] Wszystkie obrażenia odnoszone przez rzucającego i pobliskich sojuszników są zwiększone o {DAMAGEMODIFIER}%."
+          },
+          {
+            "key": "lottery.description.summon_chest_promo_challenge",
+            "text": "Obejmuje waleczne warzywa z ewoluującymi potworami!"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Co turę wzywa na losowego wroga [#!]potwora sadzonkę[#].\n[*] [#!]Potwór sadzonka[#] ewoluuje w [#!]kiełkującego potwora[#] po upływie {EVOLVINGFAMILIAR1EVOLVETURNS} tur.\n[*] [#!]Kiełkujący potwór[#] ewoluuje w [#!]kwitnącego mega potwora[#] po upływie {EVOLVINGFAMILIAR2EVOLVETURNS} tur.\n[*]Ewolucja potworów zostaje opóźniona o {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tur(y) za każdym razem, gdy pochłoną leczenie.\n\n[#!]Potwór sadzonka[#]: \n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] ataku, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] zdrowia.\n\n[#!]Kiełkujący potwór[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] ataku, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] zdrowia.\n\n[#!]Kwitnący mega potwór[#]:\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] ataku, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] zdrowia."
+          },
+          {
+            "key": "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold",
+            "text": "Jeśli cel ma mniej niż {THRESHOLD1}% zdrowia przed otrzymaniem obrażeń, obiera za cel innego wroga, który miał mniej niż {THRESHOLD2}% zdrowia przed otrzymaniem obrażeń od tej umiejętności specjalnej. Jeśli żaden z wrogów nie ma mniej niż {THRESHOLD3}% zdrowia, obiera za cel losowego wroga. Z każdym kolejnym trafieniem obrażenia są coraz mniejsze. Każdy z wrogów może być trafiony tylko raz."
+          },
+          {
+            "key": "rare_monster.spawn_chance.lunarnewyearrare.message.zero_chance_disclaimer",
+            "text": "W tej misji pokonano wszystkie [#!]smoki fortuny[#]."
+          },
+          {
+            "key": "brawl.bonus.cupid.attackmultiplier.defensemultiplier.healthmultiplier.managenerationmultiplier",
+            "text": "[*]Zwiększony atak, obrona, zdrowia i regeneracja many."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Co turę wzywa na losowego wroga [#!]potwora sadzonkę[#]. Ta umiejętność pasywna aktywuje się tylko raz na turę dla każdej drużyny.\n[*] [#!]Potwór sadzonka[#] ewoluuje w [#!]kiełkującego potwora[#] po upływie {EVOLVINGFAMILIAR1EVOLVETURNS} tur.\n[*] [#!]Kiełkujący potwór[#] ewoluuje w [#!]kwitnącego mega potwora[#] po upływie {EVOLVINGFAMILIAR2EVOLVETURNS} tur.\n[*]Ewolucja potworów zostaje opóźniona o {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tur(y) za każdym razem, gdy pochłoną leczenie.\n\n[#!]Potwór sadzonka[#]: \n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] ataku, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] zdrowia.\n\n[#!]Kiełkujący potwór[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] ataku, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] zdrowia.\n\n[#!]Kwitnący mega potwór[#]:\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] ataku, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] zdrowia."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Co turę wzywa na losowego wroga [#!]potwora sadzonkę[#]. Ta umiejętność pasywna aktywuje się tylko raz na turę dla każdej drużyny.\n[*] [#!]Potwór sadzonka[#] ewoluuje w [#!]kiełkującego potwora[#] po upływie {EVOLVINGFAMILIAR1EVOLVETURNS} tur.\n[*] [#!]Kiełkujący potwór[#] ewoluuje w [#!]kwitnącego mega potwora[#] po upływie {EVOLVINGFAMILIAR2EVOLVETURNS} tur.\n[*]Ewolucja potworów zostaje opóźniona o {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tur(y) za każdym razem, gdy pochłoną leczenie.\n\n[#!]Potwór sadzonka[#]: \n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] ataku, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] zdrowia.\n\n[#!]Kiełkujący potwór[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] ataku, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] zdrowia.\n\n[#!]Kwitnący mega potwór[#]:\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] ataku, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] zdrowia."
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Przywoływacz sadzonek"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Przywoływacz sadzonek"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Przywoływacz sadzonek"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_enhanced_criticals.cupid",
+            "text": "Większe maksymalne zdrowie zmniejszone dzięki [#!]trafieniom krytycznym[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid",
+            "text": "Niewrażliwość na dolegliwości ze statusu wpływające na [#!]leczenie[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid",
+            "text": "Niewrażliwość na [#!]zmniejszenia many[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid",
+            "text": "Niewrażliwość na dolegliwości ze statusu wpływające na [#!]regenerację many[#]."
+          },
+          {
+            "key": "lottery.description.banner.seasonalpremiumsummon.lunarnewyear",
+            "text": "Zdobądź [#ffce60]10 dusz fortuny[#] przy każdym wezwaniu!"
+          },
+          {
+            "key": "promo.description.lottery_hero_valentines",
+            "text": "[##elementgreen]{0}[#] i pozostali bohaterowie oferty limitowanej w wezwaniu sezonowym!"
+          },
+          {
+            "key": "pvp_rules.newevent.started.description.valentines_brawl",
+            "text": "Bohaterowie z rodziny [#!]kupidynów[#] otrzymują różne korzyści w walce najazdowej:"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay",
+            "text": "Zadaje {DAMAGE}% obrażeń celowi i {MAXHITS} losowym wrogom.\n[*]Wzywa [#!]potwora sadzonkę[#] na każdego trafionego wroga."
+          },
+          {
+            "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
+            "text": "Na koniec każdej tury zadaje {POWER}% obrażeń losowemu wrogowi i wzmacniają swoje zdrowie o {DAMAGEABSORB}% zadanych obrażeń."
           }
         ]
       },
@@ -30,6 +294,94 @@
           {
             "key": "odds.hero_lottery_hero_lunar_new_year_2026_seasonal_5",
             "text": "[#ffc3ff]傳奇[#]農曆新年英雄（非精選）：[#!]{0}%[#]"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra",
+            "text": "{EVOLVINGFAMILIAR1EVOLVETURNS}回合後，[#!]種子惡魔[#]會進化為[#!]發芽惡魔[#]。\n[*]{EVOLVINGFAMILIAR2EVOLVETURNS}回合後，[#!]發芽惡魔[#]會進化為[#!]盛開超級惡魔[#]。\n\n[*] [#!]種子惡魔[#]：[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]生命。\n[*] [#!]發芽惡魔[#]：[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]生命。\n[#!]盛開超級惡魔[#]：[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]生命。\n\n[*]惡魔會在每個回合攻擊其目標。惡魔會在吸收治療後消失。根據目標的最大生命值決定所需的治療量。\n[*]惡魔每次吸收傷害時，會使進化延遲{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。"
+          },
+          {
+            "key": "recent_activity.source.purchasegems_direct_checkout",
+            "text": "使用直接支付購買了{0}"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
+            "text": "[#!]疊加+{BASESTACKCOUNT}（最大值：{MAXSTACK}）：[#]施法者和附近盟友受到的所有傷害增加{DAMAGEMODIFIER}%。"
+          },
+          {
+            "key": "lottery.description.summon_chest_promo_challenge",
+            "text": "英勇的蔬菜與不斷進化的惡魔聯袂登場！"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "每回合對一位隨機敵人召喚一個[#!]種子惡魔[#]。\n[*]{EVOLVINGFAMILIAR1EVOLVETURNS}回合後，[#!]種子惡魔[#]會進化為[#!]發芽惡魔[#]。\n[*]{EVOLVINGFAMILIAR2EVOLVETURNS}回合後，[#!]發芽惡魔[#]會進化為[#!]盛開超級惡魔[#]。\n[*]惡魔每次吸收傷害後，進化會延遲 {EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。\n\n[#!]種子惡魔[#]：\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]生命。\n\n[#!]發芽惡魔[#]：\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]生命。\n\n[#!]盛開超級惡魔[#]：\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]生命。"
+          },
+          {
+            "key": "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold",
+            "text": "如果目標在受到傷害前生命值小於{THRESHOLD1}%，則在受到此特殊技能的任何傷害前，會將目標轉移為其他生命值小於{THRESHOLD2}%的敵人。如果沒有其他敵人的生命之小於{THRESHOLD3}%，便將目標改為隨機敵人。每次連續攻擊所造成的傷害都會減少。每個敵人只會被擊中一次。"
+          },
+          {
+            "key": "rare_monster.spawn_chance.lunarnewyearrare.message.zero_chance_disclaimer",
+            "text": "你已擊敗這項任務中的所有[#!]鴻運巨龍[#]。"
+          },
+          {
+            "key": "brawl.bonus.cupid.attackmultiplier.defensemultiplier.healthmultiplier.managenerationmultiplier",
+            "text": "[*]提升攻擊、防禦、生命值與法力產出。"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "每回合對一位隨機敵人召喚一個[#!]種子惡魔[#]。此被動技能每回合每隊只能啟用一次。\n[*]{EVOLVINGFAMILIAR1EVOLVETURNS}回合後，[#!]種子惡魔[#]會進化為[#!]發芽惡魔[#]。\n[*]{EVOLVINGFAMILIAR2EVOLVETURNS}回合後，[#!]發芽惡魔[#]會進化為[#!]盛開超級惡魔[#]。\n[*]惡魔每次吸收傷害後，進化會延遲 {EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。\n\n[#!]種子惡魔[#]：\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]生命。\n\n[#!]發芽惡魔[#]：\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]生命。\n\n[#!]盛開超級惡魔[#]：\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]生命。"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "每回合對一位隨機敵人召喚一個[#!]種子惡魔[#]。此被動技能每回合每隊只能啟用一次。\n[*]{EVOLVINGFAMILIAR1EVOLVETURNS}回合後，[#!]種子惡魔[#]會進化為[#!]發芽惡魔[#]。\n[*]{EVOLVINGFAMILIAR2EVOLVETURNS}回合後，[#!]發芽惡魔[#]會進化為[#!]盛開超級惡魔[#]。\n[*]惡魔每次吸收傷害後，進化會延遲 {EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。\n\n[#!]種子惡魔[#]：\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]生命。\n\n[#!]發芽惡魔[#]：\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]生命。\n\n[#!]盛開超級惡魔[#]：\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]生命。"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "樹苗召喚"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "樹苗召喚"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "樹苗召喚"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_enhanced_criticals.cupid",
+            "text": "[#!]暴擊[#]減少更多最大生命。"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid",
+            "text": "對影響[#!]治療[#]的狀態異常免疫。"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid",
+            "text": "對[#!]法力減損[#]免疫。"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid",
+            "text": "對影響[#!]法力產出[#]的狀態異常免疫。"
+          },
+          {
+            "key": "lottery.description.banner.seasonalpremiumsummon.lunarnewyear",
+            "text": "每次召喚可獲得[#ffce60]10個鴻運之靈[#]！"
+          },
+          {
+            "key": "promo.description.lottery_hero_valentines",
+            "text": "快來看看「賽季召喚」的[##elementgreen]{0}[#]與其他限時英雄！"
+          },
+          {
+            "key": "pvp_rules.newevent.started.description.valentines_brawl",
+            "text": "[#!]邱比特[#]家族英雄在突襲亂鬥中可獲得各種助益："
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay",
+            "text": "對目標和{MAXHITS}名隨機敵人造成{DAMAGE}%傷害。\n每攻擊一個敵人，就召喚一個[#!]種子惡魔[#]。"
+          },
+          {
+            "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
+            "text": "在每回合結束時，對一名隨機敵人造成{POWER}%傷害，並獲得所造成之總傷害{DAMAGEABSORB}%的加成生命。"
           }
         ]
       },
@@ -38,6 +390,94 @@
           {
             "key": "odds.hero_lottery_hero_lunar_new_year_2026_seasonal_5",
             "text": "[#ffc3ff]전설[#] 설날 영웅 (획득률 보너스 없음): [#!]{0}%[#]"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra",
+            "text": "{EVOLVINGFAMILIAR1EVOLVETURNS}턴 후 [#!]씨앗 악마[#]가 [#!]새싹 악마[#]로 진화합니다.\n[*] [#!]새싹 악마[#]는 {EVOLVINGFAMILIAR2EVOLVETURNS}턴 후 [#!]개화 메가 악마[#]로 진화합니다.\n\n[*] [#!]씨앗 악마[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] 공격력, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] HP.\n[*] [#!]새싹 악마[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] 공격력, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] HP.\n[*] [#!]개화 메가 악마[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] 공격력, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] HP.\n\n[*]악마는 매 턴마다 대상에게 피해를 줍니다. 악마가 치유를 흡수하면 사라집니다. 대상의 최대 HP에 따라 필요한 치유 양입니다.\n[*]악마들이 치유를 흡수할 때마다 진화가 {EVOLVINGFAMILIAR1EVOLVETURNSDELAY}턴씩 지연됩니다."
+          },
+          {
+            "key": "recent_activity.source.purchasegems_direct_checkout",
+            "text": "Direct Pay로 {0} 구매함"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
+            "text": "[#!]중첩 +{BASESTACKCOUNT} (최대: {MAXSTACK}):[#] 시전자와 주변 아군이 받은 모든 피해가 {DAMAGEMODIFIER}% 증가합니다."
+          },
+          {
+            "key": "lottery.description.summon_chest_promo_challenge",
+            "text": "진화하는 악마와 함께 용맹한 채소를 선보입니다!"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "매턴마다 무작위 적 하나에게 [#!]씨앗 악마[#]를 소환합니다.\n[*][#!]씨앗 악마[#]는 {EVOLVINGFAMILIAR1EVOLVETURNS} 턴 후 [#!]새싹 악마[#]로 진화합니다.\n[*][#!]새싹 악마[#]는 {EVOLVINGFAMILIAR2EVOLVETURNS} 턴 후 [#!]개화 메가 악마[#]로 진화합니다.\n[*]악마가 치유를 흡수할 때마다 악마의 진화가 {EVOLVINGFAMILIAR1EVOLVETURNSDELAY}턴 지연됩니다.\n\n[#!]씨앗 악마[#]: \n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] 공격력, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] HP\n\n[#!]새싹 악마[#]: \n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] 공격력, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] HP\n\n[#!]개화 메가 악마[#]: \n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] 공격력, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] HP."
+          },
+          {
+            "key": "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold",
+            "text": "대상이 피해를 받기 전에 HP가 {THRESHOLD1}% 미만일 경우 이 특수 스킬로 피해를 받지 않은 {THRESHOLD2}% 미만의 체력이 있는 다른 적을 대상으로 삼습니다. 체력이 {THRESHOLD3}% 미만인 적이 없는 경우 무작위로 적 하나를 공격합니다. 적에게 주는 피해는 공격을 거듭할 수록 감소하며 각각의 적은 한 번씩만 공격을 받습니다."
+          },
+          {
+            "key": "rare_monster.spawn_chance.lunarnewyearrare.message.zero_chance_disclaimer",
+            "text": "이 퀘스트에서 [#!]행운 드래곤[#]을 물리쳤습니다."
+          },
+          {
+            "key": "brawl.bonus.cupid.attackmultiplier.defensemultiplier.healthmultiplier.managenerationmultiplier",
+            "text": "[*]공격력, 방어력, HP 및 마나 재생력이 증가했습니다."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "매턴마다 무작위 적 하나에게 [#!]씨앗 악마[#]를 소환합니다. 이 패시브 스킬은 각 팀마다 턴당 한 번만 활성화됩니다.\n[*][#!]씨앗 악마[#]는 {EVOLVINGFAMILIAR1EVOLVETURNS} 턴 후 [#!]새싹 악마[#]로 진화합니다.\n[*][#!]새싹 악마[#]는 {EVOLVINGFAMILIAR2EVOLVETURNS} 턴 후 [#!]개화 메가 악마[#]로 진화합니다.\n[*]악마가 치유를 흡수할 때마다 악마의 진화가 {EVOLVINGFAMILIAR1EVOLVETURNSDELAY}턴 지연됩니다.\n\n[#!]씨앗 악마[#]: \n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] 공격력, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] HP\n\n[#!]새싹 악마[#]: \n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] 공격력, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] HP\n\n[#!]개화 메가 악마[#]: \n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] 공격력, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] HP."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "매턴마다 무작위 적 하나에게 [#!]씨앗 악마[#]를 소환합니다. 이 패시브 스킬은 각 팀마다 턴당 한 번만 활성화됩니다.\n[*][#!]씨앗 악마[#]는 {EVOLVINGFAMILIAR1EVOLVETURNS} 턴 후 [#!]새싹 악마[#]로 진화합니다.\n[*][#!]새싹 악마[#]는 {EVOLVINGFAMILIAR2EVOLVETURNS} 턴 후 [#!]개화 메가 악마[#]로 진화합니다.\n[*]악마가 치유를 흡수할 때마다 악마의 진화가 {EVOLVINGFAMILIAR1EVOLVETURNSDELAY}턴 지연됩니다.\n\n[#!]씨앗 악마[#]: \n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] 공격력, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] HP\n\n[#!]새싹 악마[#]: \n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] 공격력, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] HP\n\n[#!]개화 메가 악마[#]: \n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] 공격력, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] HP."
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "묘목 소환사"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "묘목 소환사"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "묘목 소환사"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_enhanced_criticals.cupid",
+            "text": "[#!]치명타[#]로 최대 HP가 더 감소합니다."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid",
+            "text": "[#!]치유력[#]에 영향을 주는 상태 이상 효과에 면역."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid",
+            "text": "[#!]마나 감소[#]에 면역."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid",
+            "text": "[#!]마나 재생력[#]에 영향을 주는 상태 이상 효과에 면역."
+          },
+          {
+            "key": "lottery.description.banner.seasonalpremiumsummon.lunarnewyear",
+            "text": "모든 소환에서 [#ffce60]행운 영혼 10개[#]를 받으세요!"
+          },
+          {
+            "key": "promo.description.lottery_hero_valentines",
+            "text": "시즌 소환에서 [##elementgreen]{0}[#] 및 다른 기간 한정 영웅을 확인하세요!"
+          },
+          {
+            "key": "pvp_rules.newevent.started.description.valentines_brawl",
+            "text": "[#!]큐피드[#] 패밀리의 영웅은 레이드 쟁탈전에서 다양한 혜택을 받습니다:"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay",
+            "text": "대상과 무작위 적 {MAXHITS}명에게 {DAMAGE}%의 피해를 줍니다.\n[*]적을 맞출 때마다 [#!]씨앗 악마[#]를 소환합니다."
+          },
+          {
+            "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
+            "text": "매 턴이 끝날 때마다 무작위로 적 하나에게 {POWER}%의 피해를 주고 적에게 준 총 피해의 {DAMAGEABSORB}% 만큼 HP가 증가합니다."
           }
         ]
       },
@@ -46,6 +486,94 @@
           {
             "key": "odds.hero_lottery_hero_lunar_new_year_2026_seasonal_5",
             "text": "[#ffc3ff]Legendärer[#] Mondneujahrs-Held (nicht vorgestellt): [#!]{0} %[#]"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra",
+            "text": "Der [#!]Setzling-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem [#!]Spross-Feind[#].\n[*]Der [#!]Wurzelfresser-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem [#!]Mega-Blütenfeind[#].\n\n[*] [#!]Setzling-Feind[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] Gesundheit.\n[*] [#!]Spross-Feind[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] Gesundheit.\n[*] [#!]Mega-Blütenfeind[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] Gesundheit.\n\n[*]Ein Feind fügt seinem Ziel jede Runde Schaden zu. Ein Feind verschwindet, nachdem er Heilung absorbiert hat. Die erforderliche Heilungsmenge hängt vom max. Leben des Ziels ab.\n[*]Die Entwicklung  der Feinde wird jedes Mal, wenn sie Heilung absorbieren, um {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} Runden verzögert."
+          },
+          {
+            "key": "recent_activity.source.purchasegems_direct_checkout",
+            "text": "{0} mit Direktzahlung gekauft"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
+            "text": "[#!]Stapel +{BASESTACKCOUNT} (Max.: {MAXSTACK}):[#] Der gesamte Schaden, den der Wirker und Verbündete in der Nähe erleiden, wird um {DAMAGEMODIFIER} % erhöht."
+          },
+          {
+            "key": "lottery.description.summon_chest_promo_challenge",
+            "text": "Mit Geschicktem Gemüse und sich entwickelnden Feinden!"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Beschwört jede Runde einen [#!]Setzling-Feind[#] für einen zufälligen Gegner.\n[*]Der [#!]Setzling-Feind[#] entwickelt sich zu einem [#!]Spross-Feind[#] nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden.\n[*]Der [#!]Spross-Feind[#] entwickelt sich zu einem [#!]Blüten-Mega-Feind[#] nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden.\n[*]Jedes Mal, wenn der Feind Heilung absorbiert, wird seine Entwicklung um {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} verzögert.\n\n[#!]Setzling-Feind[#]: \n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] % Leben.\n\n[#!]Spross-Feind[#]: \n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] % Leben.\n\n[#!]Blüten-Mega-Feind[#]: \n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % Leben."
+          },
+          {
+            "key": "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold",
+            "text": "Wenn das Ziel weniger als {THRESHOLD1} % Leben hatte, bevor es Schaden erlitten hat, wird ein anderer Gegner anvisiert, der weniger als {THRESHOLD2} % Leben hatte, bevor er Schaden durch diese Spezialfähigkeit erlitten hat. Wenn keiner der anderen Gegner weniger als {THRESHOLD3} % Leben hatte, wird ein zufälliger Gegner anvisiert. Der Schaden wird bei jedem Folgetreffer weniger. Jeder Gegner kann nur einmal getroffen werden."
+          },
+          {
+            "key": "rare_monster.spawn_chance.lunarnewyearrare.message.zero_chance_disclaimer",
+            "text": "Du hast alle [#!]Glücksdrachen[#] in dieser Quest besiegt."
+          },
+          {
+            "key": "brawl.bonus.cupid.attackmultiplier.defensemultiplier.healthmultiplier.managenerationmultiplier",
+            "text": "[*]Erhöhter Angriff, erhöhte Verteidigung und erhöhte Manaregeneration."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Beschwört jede Runde einen [#!]Setzling-Feind[#] für einen zufälligen Gegner. Diese passive Fähigkeit wird für jedes Team nur einmal pro Runde aktiviert.\n[*]Der [#!]Setzling-Feind[#] entwickelt sich zu einem [#!]Spross-Feind[#] nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden.\n[*]Der [#!]Spross-Feind[#] entwickelt sich zu einem [#!]Blüten-Mega-Feind[#] nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden.\n[*]Jedes Mal, wenn der Feind Heilung absorbiert, wird seine Entwicklung um {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} verzögert.\n\n[#!]Setzling-Feind[#]: \n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] % Leben.\n\n[#!]Spross-Feind[#]: \n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] % Leben.\n\n[#!]Blüten-Mega-Feind[#]: \n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % Leben."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Beschwört jede Runde einen [#!]Setzling-Feind[#] für einen zufälligen Gegner. Diese passive Fähigkeit wird für jedes Team nur einmal pro Runde aktiviert.\n[*]Der [#!]Setzling-Feind[#] entwickelt sich zu einem [#!]Spross-Feind[#] nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden.\n[*]Der [#!]Spross-Feind[#] entwickelt sich zu einem [#!]Blüten-Mega-Feind[#] nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden.\n[*]Jedes Mal, wenn der Feind Heilung absorbiert, wird seine Entwicklung um {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} verzögert.\n\n[#!]Setzling-Feind[#]: \n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] % Leben.\n\n[#!]Spross-Feind[#]: \n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] % Leben.\n\n[#!]Blüten-Mega-Feind[#]: \n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % Leben."
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Setzling-Beschwörer"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Setzling-Beschwörer"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Setzling-Beschwörer"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_enhanced_criticals.cupid",
+            "text": "[#!]Kritische Treffer[#] reduzieren die max. Gesundheit stärker."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid",
+            "text": "Immunität gegen negative Statusänderungen, die die [#!]Heilung[#] beeinträchtigen."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid",
+            "text": "Immunität gegen [#!]Manareduktionen[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid",
+            "text": "Immunität gegen negative Statusänderungen, die die [#!]Manaregeneration[#] beeinträchtigen."
+          },
+          {
+            "key": "lottery.description.banner.seasonalpremiumsummon.lunarnewyear",
+            "text": "Hol dir [#ffce60]10 Glücksgeister[#] bei jeder Beschwörung!"
+          },
+          {
+            "key": "promo.description.lottery_hero_valentines",
+            "text": "Sieh dir [##elementgreen]{0}[#] und andere limitierte Helden in der saisonalen Beschwörung an!"
+          },
+          {
+            "key": "pvp_rules.newevent.started.description.valentines_brawl",
+            "text": "Helden der [#!]Amor[#]-Familie erhalten verschiedene Vorteile im Prügelei-Überfall:"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay",
+            "text": "Verursacht {DAMAGE} % Schaden am Ziel und an {MAXHITS} zufälligen Gegnern.\n[*]Beschwört einen [#!]Setzling-Feind[#] für jeden getroffenen Gegner."
+          },
+          {
+            "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
+            "text": "Am Ende jedes Zuges wird einem zufälligen Gegner {POWER} % Schaden zugefügt und das eigene Leben um {DAMAGEABSORB} % des verursachten Gesamtschadens verstärkt."
           }
         ]
       },
@@ -54,6 +582,94 @@
           {
             "key": "odds.hero_lottery_hero_lunar_new_year_2026_seasonal_5",
             "text": "[#ffc3ff]レジェンド[#]旧正月英雄（注目以外）：[#!]{0}%[#]"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra",
+            "text": "[#!]苗木のフィエンド[#]は{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に[#!]新芽のフィエンド[#]に進化する。\n[*][#!]新芽のフィエンド[#]は{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に[#!]開花のメガフィエンド[#]に進化する。\n\n[*][#!]苗木のフィエンド[#]：攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]%\n[*] [#!]新芽のフィエンド[#]：攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#]%\n[*] [#!]開花のメガフィエンド[#]：\n攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#]%\n\n[*]フィエンドは毎ターン、ターゲットにダメージを与える。フィエンドは回復を吸収しつくすと消滅する。必要な回復量はターゲットの最大HPに依存する。\n[*]回復を吸収するたびにフィエンドの進化は{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}ターン遅延する。"
+          },
+          {
+            "key": "recent_activity.source.purchasegems_direct_checkout",
+            "text": "Direct Pay（直接支払い）を使用して{0}を購入した"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
+            "text": "[#!]累積効果+{BASESTACKCOUNT}（最大：{MAXSTACK}）：[#]術者と近くにいる仲間が受けるすべてのダメージが{DAMAGEMODIFIER}%増加する。"
+          },
+          {
+            "key": "lottery.description.summon_chest_promo_challenge",
+            "text": "勇猛な野菜と、進化するフィエンドが登場！"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "毎ターン、ランダムに敵1体に対して[#!]苗木のフィエンド[#]をサモンする。\n[*][#!]苗木のフィエンド[#]は{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に[#!]新芽のフィエンド[#]に進化する。\n[*][#!]新芽のフィエンド[#]は{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に[#!]開花のメガフィエンド[#]に進化する。\n[*]回復を吸収するたびにフィエンドの進化は{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}ターン遅延する。\n\n[#!]苗木のフィエンド[#]：\n攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]%\n\n[#!]新芽のフィエンド[#]：\n攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#]%\n\n[#!]開花のメガフィエンド[#]：\n攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#]%"
+          },
+          {
+            "key": "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold",
+            "text": "ターゲットのHPが{THRESHOLD1}%未満の場合に、この特殊スキルで攻撃すると、HPが{THRESHOLD2}%未満の別の敵にもダメージを与えられる。ターゲット以外にHPが{THRESHOLD3}%未満の敵がいない場合はランダムな敵を攻撃する。ダメージは攻撃が連続で当たる度に減少する。それぞれの敵は1度しか攻撃できない。"
+          },
+          {
+            "key": "rare_monster.spawn_chance.lunarnewyearrare.message.zero_chance_disclaimer",
+            "text": "このクエストに出現する[#!]幸運のドラゴン[#]をすべて倒した。"
+          },
+          {
+            "key": "brawl.bonus.cupid.attackmultiplier.defensemultiplier.healthmultiplier.managenerationmultiplier",
+            "text": "[*]攻撃力、防御力、HP、マナ生成が強化されている。"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "毎ターン、ランダムに敵1体に対して[#!]苗木のフィエンド[#]をサモンする。このパッシブスキルは各チームにつき1回だけ発動する。\n[*][#!]苗木のフィエンド[#]は{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に[#!]新芽のフィエンド[#]に進化する。\n[*][#!]新芽のフィエンド[#]は{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に[#!]開花のメガフィエンド[#]に進化する。\n[*]回復を吸収するたびにフィエンドの進化は{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}ターン遅延する。\n\n[#!]苗木のフィエンド[#]：\n攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]%\n\n[#!]新芽のフィエンド[#]：\n攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#]%\n\n[#!]開花のメガフィエンド[#]：\n攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#]%"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "毎ターン、ランダムに敵1体に対して[#!]苗木のフィエンド[#]をサモンする。このパッシブスキルは各チームにつき1回だけ発動する。\n[*][#!]苗木のフィエンド[#]は{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に[#!]新芽のフィエンド[#]に進化する。\n[*][#!]新芽のフィエンド[#]は{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に[#!]開花のメガフィエンド[#]に進化する。\n[*]回復を吸収するたびにフィエンドの進化は{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}ターン遅延する。\n\n[#!]苗木のフィエンド[#]：\n攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]%\n\n[#!]新芽のフィエンド[#]：\n攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#]%\n\n[#!]開花のメガフィエンド[#]：\n攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#]%"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "苗木の召喚者"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "苗木の召喚者"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "苗木の召喚者"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_enhanced_criticals.cupid",
+            "text": "[#!]クリティカルヒット[#]による最大ライフ減少量が増加する。"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid",
+            "text": "[#!]回復[#]に影響するステータス異常への耐性を持つ。"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid",
+            "text": "[#!]マナ減少[#]に対して無効。"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid",
+            "text": "[#!]マナ生成[#]に影響を与えるステータス異常への耐性を持つ。"
+          },
+          {
+            "key": "lottery.description.banner.seasonalpremiumsummon.lunarnewyear",
+            "text": "サモンするたびに[#ffce60]幸運の精霊×10[#]を獲得しよう！"
+          },
+          {
+            "key": "promo.description.lottery_hero_valentines",
+            "text": "シーズンサモンで、[##elementgreen]{0}[#]やその他の期間限定の英雄たちをチェックしよう！"
+          },
+          {
+            "key": "pvp_rules.newevent.started.description.valentines_brawl",
+            "text": "[#!]キューピッド[#]の英雄は、レイド乱闘において様々なメリットを得られる。"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay",
+            "text": "ターゲットとランダムな敵{MAXHITS}体に{DAMAGE}%のダメージを与える。\n[*]攻撃を与えた敵それぞれに対して[#!]苗木のフィエンド[#]をサモンする。"
+          },
+          {
+            "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
+            "text": "各ターン終了時に、ランダムな敵に{POWER}%のダメージを与え、与えた全ダメージの{DAMAGEABSORB}%分自身のライフをブーストする。"
           }
         ]
       },
@@ -62,6 +678,94 @@
           {
             "key": "odds.hero_lottery_hero_lunar_new_year_2026_seasonal_5",
             "text": "[#ffc3ff]Legendarisk[#] kinesiskt nyår-hjälte (ej utvald): [#!]{0} %[#]"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra",
+            "text": "[#!]Groddodjuret[#] utvecklas till ett [#!]skottodjur[#] efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.\n[*][#!]Skottodjuret[#] utvecklas till ett [#!]blomstermegaodjur[#] efter {EVOLVINGFAMILIAR2EVOLVETURNS} rundor.\n\n[#!]Groddodjuret[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] attack, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] hälsa.\n\n[#!]Skottodjuret[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] attack, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] hälsa.\n\n[#!]Blomstermegaodjuret[#]: \n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] attack, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] hälsa.\n\n[*]Odjur skadar sina mål varje runda. Odjur försvinner efter att ha absorberat läkning. Mängden läkning som krävs beror på målets maxhälsa.\n[*]Utvecklingen av odjur fördröjs med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runda varje gång de absorberar läkning."
+          },
+          {
+            "key": "recent_activity.source.purchasegems_direct_checkout",
+            "text": "Köpte {0} med direktbetalning"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
+            "text": "[#!]Staplas +{BASESTACKCOUNT} (Max: {MAXSTACK}):[#] All skada som användaren och allierade i närheten tar ökar med {DAMAGEMODIFIER} %."
+          },
+          {
+            "key": "lottery.description.summon_chest_promo_challenge",
+            "text": "Tappra grönsaker med utvecklande odjur!"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Åkallar ett [#!]groddodjur[#] på en slumpmässig fiende.\n[*][#!]Groddodjuret[#] utvecklas till ett [#!]skottodjur[#] efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.\n[*][#!]Skottodjuret[#] utvecklas till ett [#!]blomstermegaodjur[#] efter {EVOLVINGFAMILIAR2EVOLVETURNS} rundor.\n[*]Odjurens utveckling fördröjs med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} rundor varje gång de absorberar läkning.\n\n[#!]Groddodjuret[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] attack, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] hälsa.\n\n[#!]Skottodjuret[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] attack, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] hälsa.\n\n[#!]Blomstermegaodjuret[#]: \n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] attack, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] hälsa."
+          },
+          {
+            "key": "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold",
+            "text": "Om måltavlan har mindre än {THRESHOLD1} % hälsa innan den tog skada så blir en annan fiende som hade mindre än {THRESHOLD2} % hälsa innan den tog skada från den här specialförmågan ett mål. Om inga av de andra fienderna har mindre än {THRESHOLD3} % hälsa så blir en slumpmässig fiende målet. Skadan sänks per träff. Varje fiende kan bara träffas en gång."
+          },
+          {
+            "key": "rare_monster.spawn_chance.lunarnewyearrare.message.zero_chance_disclaimer",
+            "text": "Du har besegrat alla [#!]lyckodrakar[#] i det här uppdraget."
+          },
+          {
+            "key": "brawl.bonus.cupid.attackmultiplier.defensemultiplier.healthmultiplier.managenerationmultiplier",
+            "text": "[*]Ger bättre anfall, försvar, hälsa och manaskapande."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Åkallar ett [#!]groddodjur[#] på en slumpmässig fiende varje runda. Den här passiva förmågan aktiveras bara en gång per tur för varje lag.\n[*][#!]Groddodjuret[#] utvecklas till ett [#!]skottodjur[#] efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.\n[*][#!]Skottodjuret[#] utvecklas till ett [#!]blomstermegaodjur[#] efter {EVOLVINGFAMILIAR2EVOLVETURNS} rundor.\n[*]Odjurens utveckling fördröjs med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} rundor varje gång de absorberar läkning.\n\n[#!]Groddodjuret[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] attack, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] hälsa.\n\n[#!]Skottodjuret[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] attack, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] hälsa.\n\n[#!]Blomstermegaodjuret[#]: \n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] attack, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] hälsa."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Åkallar ett [#!]groddodjur[#] på en slumpmässig fiende varje runda. Den här passiva förmågan aktiveras bara en gång per tur för varje lag.\n[*][#!]Groddodjuret[#] utvecklas till ett [#!]skottodjur[#] efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.\n[*][#!]Skottodjuret[#] utvecklas till ett [#!]blomstermegaodjur[#] efter {EVOLVINGFAMILIAR2EVOLVETURNS} rundor.\n[*]Odjurens utveckling fördröjs med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} rundor varje gång de absorberar läkning.\n\n[#!]Groddodjuret[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] attack, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] hälsa.\n\n[#!]Skottodjuret[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] attack, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] hälsa.\n\n[#!]Blomstermegaodjuret[#]: \n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] attack, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] hälsa."
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Groddåkallare"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Groddåkallare"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Groddåkallare"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_enhanced_criticals.cupid",
+            "text": "[#!]Kritiska träffar[#] sänker maxhälsan ännu mer."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid",
+            "text": "Immunitet mot negativa statuseffekter som påverkar [#!]läkning[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid",
+            "text": "Immunitet mot [#!]manaminskningar[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid",
+            "text": "Immunitet mot negativa statuseffekter som påverkar [#!]manaskapande[#]."
+          },
+          {
+            "key": "lottery.description.banner.seasonalpremiumsummon.lunarnewyear",
+            "text": "Få [#ffce60]10 lyckoandar[#] per åkallelse!"
+          },
+          {
+            "key": "promo.description.lottery_hero_valentines",
+            "text": "Kolla in [##elementgreen]{0}[#] och andra tidsbegränsade hjältar i säsongsåkallelsen!"
+          },
+          {
+            "key": "pvp_rules.newevent.started.description.valentines_brawl",
+            "text": "Hjältar i familjen [#!]Amorin[#] får olika fördelar i plundringsstriden:"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay",
+            "text": "Gör {DAMAGE} % skada mot målet och {MAXHITS} slumpmässiga fiender.\n[*]Åkallar ett [#!]groddodjur[#] på varje fiende som träffas."
+          },
+          {
+            "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
+            "text": "Gör {POWER} % skada i slutet av varje runda mot en slumpmässig fiende och ökar sedan sin hälsa med motsvarande {DAMAGEABSORB} % av gjord totalskada."
           }
         ]
       },
@@ -70,6 +774,94 @@
           {
             "key": "odds.hero_lottery_hero_lunar_new_year_2026_seasonal_5",
             "text": "[#ffc3ff]Efsanevi[#] Ay Yılı Kahramanı (vitrinde değil): [#!]%{0}[#]"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra",
+            "text": "[#!]Fide Canavarı[#], {EVOLVINGFAMILIAR1EVOLVETURNS} tur sonra bir [#!]Filiz Canavarına[#] evrilir.\n[*][#!]Filiz Canavarı[#], {EVOLVINGFAMILIAR2EVOLVETURNS} tur sonra bir [#!]Çiçek Açan Mega Canavara[#] evrilir.\n\n[*] [#!]Fide Canavarı[#]: [#!]%{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] saldırı, [#!]%{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] sağlık.\n[*] [#!]Filiz Canavarı[#]: [#!]%{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] saldırı, [#!]%{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] sağlık.\n[*] [#!]Çiçek Açan Mega Canavar[#]: [#!]%{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] saldırı, [#!]%{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] sağlık.\n\n[*]Canavar, her turda hedefine hasar verir. Canavar, şifa emdikten sonra ortadan kaybolur. Gereken şifa miktarı hedefin maks. sağlığına bağlıdır.\n[*]Canavarlar her şifa emdiklerinde evrilmeleri {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tur gecikir."
+          },
+          {
+            "key": "recent_activity.source.purchasegems_direct_checkout",
+            "text": "Doğrudan Ödeme kullanarak {0} satın alındı"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
+            "text": "[#!]İstif +{BASESTACKCOUNT} (Maks: {MAXSTACK}):[#] Eylemcinin ve yakındaki müttefiklerin aldığı tüm hasar %{DAMAGEMODIFIER} artırılır."
+          },
+          {
+            "key": "lottery.description.summon_chest_promo_challenge",
+            "text": "Evrilen Canavarlar ile Cesur Sebzeler burada!"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Her tur rastgele bir düşmana bir [#!]Fide Canavarı[#] çağırır.\n[*][#!]Fide Canavarı[#] {EVOLVINGFAMILIAR1EVOLVETURNS} tur sonra bir [#!]Filiz Canavarına[#] evrilir.\n[*][#!]Filiz Canavarı[#] {EVOLVINGFAMILIAR2EVOLVETURNS} tur sonra bir [#!]Çiçek Açan Mega Canavara[#] evrilir.\n[*]Canavarlar her şifa emdiklerinde evrilmeleri {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tur gecikir.\n\n[#!]Fide Canavarı[#]:\n[#!]%{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] saldırı, [#!]%{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] sağlık.\n\n[#!]Filiz Canavarı[#]:\n[#!]%{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] saldırı, [#!]%{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] sağlık.\n\n[#!]Çiçek Açan Mega Canavar[#]:\n[#!]%{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] saldırı, [#!]%{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] sağlık."
+          },
+          {
+            "key": "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold",
+            "text": "Hedefin hasar almadan önceki sağlığı %{THRESHOLD1} oranından daha azsa bu Özel Yetenekten hasar almadan önce sağlığı %{THRESHOLD2} oranından daha az olan başka bir düşmanı hedef alır. Diğer düşmanların hiçbirinin sağlığı %{THRESHOLD3} oranından az değilse rastgele bir düşmanı hedef alır. Ardışık her darbede hasar azaltılır. Her düşmana yalnızca bir defa vurulabilir."
+          },
+          {
+            "key": "rare_monster.spawn_chance.lunarnewyearrare.message.zero_chance_disclaimer",
+            "text": "Bu Görevdeki tüm [#!]Talih Ejderhalarını[#] yendin."
+          },
+          {
+            "key": "brawl.bonus.cupid.attackmultiplier.defensemultiplier.healthmultiplier.managenerationmultiplier",
+            "text": "[*]Artırılmış saldırı, savunma, sağlık ve mana üretimi."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Her tur rastgele bir düşmana bir [#!]Fide Canavarı[#] çağırır. Bu Pasif Yetenek, her takım için her turda yalnızca bir defa etkinleştirilebilir.\n[*][#!]Fide Canavarı[#] {EVOLVINGFAMILIAR1EVOLVETURNS} tur sonra bir [#!]Filiz Canavarına[#] evrilir.\n[*][#!]Filiz Canavarı[#] {EVOLVINGFAMILIAR2EVOLVETURNS} tur sonra bir [#!]Çiçek Açan Mega Canavara[#] evrilir.\n[*]Canavarlar her şifa emdiklerinde evrilmeleri {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tur gecikir.\n\n[#!]Fide Canavarı[#]:\n[#!]%{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] saldırı, [#!]%{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] sağlık.\n\n[#!]Filiz Canavarı[#]:\n[#!]%{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] saldırı, [#!]%{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] sağlık.\n\n[#!]Çiçek Açan Mega Canavar[#]:\n[#!]%{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] saldırı, [#!]%{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] sağlık."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Her tur rastgele bir düşmana bir [#!]Fide Canavarı[#] çağırır. Bu Pasif Yetenek, her takım için her turda yalnızca bir defa etkinleştirilebilir.\n[*][#!]Fide Canavarı[#] {EVOLVINGFAMILIAR1EVOLVETURNS} tur sonra bir [#!]Filiz Canavarına[#] evrilir.\n[*][#!]Filiz Canavarı[#] {EVOLVINGFAMILIAR2EVOLVETURNS} tur sonra bir [#!]Çiçek Açan Mega Canavara[#] evrilir.\n[*]Canavarlar her şifa emdiklerinde evrilmeleri {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tur gecikir.\n\n[#!]Fide Canavarı[#]:\n[#!]%{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] saldırı, [#!]%{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] sağlık.\n\n[#!]Filiz Canavarı[#]:\n[#!]%{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] saldırı, [#!]%{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] sağlık.\n\n[#!]Çiçek Açan Mega Canavar[#]:\n[#!]%{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] saldırı, [#!]%{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] sağlık."
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Fide Ulağı"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Fide Ulağı"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Fide Ulağı"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_enhanced_criticals.cupid",
+            "text": "[#!]Kritik darbeler[#], maks. sağlığı daha fazla azaltır."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid",
+            "text": "[#!]Şifayı[#] etkileyen durum engellerine karşı bağışıklık."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid",
+            "text": "[#!]Mana azaltmalarına[#] karşı bağışıklık."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid",
+            "text": "[#!]Mana üretimini[#] etkileyen durum engellerine karşı bağışıklık."
+          },
+          {
+            "key": "lottery.description.banner.seasonalpremiumsummon.lunarnewyear",
+            "text": "Her çağrıda [#ffce60]10 Talih Ruhu[#] al!"
+          },
+          {
+            "key": "promo.description.lottery_hero_valentines",
+            "text": "[##elementgreen]{0}[#] ve sınırlı süreli diğer Kahramanlar, göz atman için Sezon Çağrısında seni bekliyor!"
+          },
+          {
+            "key": "pvp_rules.newevent.started.description.valentines_brawl",
+            "text": "[#!]Aşk Meleği[#] ailesinin Kahramanları, Baskın Kavgasında çeşitli avantajlar elde eder:"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay",
+            "text": "Hedefe ve rastgele {MAXHITS} düşmana %{DAMAGE} hasar verir.\n[*]Vurulan her düşmana bir [#!]Fide Canavarı[#] çağırır."
+          },
+          {
+            "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
+            "text": "Her turun sonunda rastgele bir düşmana %{POWER} hasar verir ve verilen toplam hasarın %{DAMAGEABSORB} kadarı sağlık yeniler."
           }
         ]
       },
@@ -80,8 +872,92 @@
             "text": "[#ffc3ff]Legendary[#] Lunar Year Hero (non-featured): [#!]{0}%[#]"
           },
           {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra",
+            "text": "The [#!]Seedling Fiend[#] evolves into a [#!]Sprout Fiend[#] after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.\n[*]The [#!]Sprout Fiend[#] evolves into a [#!]Blossom Mega Fiend[#] after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.\n\n[*] [#!]Seedling Fiend[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] health.\n[*] [#!]Sprout Fiend[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] health.\n[*] [#!]Blossom Mega Fiend[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] health.\n\n[*]A Fiend damages their target every turn. A Fiend disappears after absorbing healing. Amount of healing required depends on the target's max health.\n[*]The evolution of the Fiends is delayed by {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turn each time they absorb healing."
+          },
+          {
             "key": "lottery.description.summon_chest_promo_challenge",
             "text": "Featuring Valiant Vegetables with Evolving Fiends!"
+          },
+          {
+            "key": "recent_activity.source.purchasegems_direct_checkout",
+            "text": "Purchased {0} using Direct Pay"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
+            "text": "[#!]Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}):[#] All damage the caster and nearby allies receive is increased by {DAMAGEMODIFIER}%."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Summons a [#!]Seedling Fiend[#] every turn to a random enemy.\n[*]The [#!]Seedling Fiend[#] evolves into a [#!]Sprout Fiend[#] after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.\n[*]The [#!]Sprout Fiend[#] evolves into a [#!]Blossom Mega Fiend[#] after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.\n[*]The evolution of the Fiends is delayed by {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turn each time they absorb healing.\n\n[#!]Seedling Fiend[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] health.\n\n[#!]Sprout Fiend[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] health.\n\n[#!]Blossom Mega Fiend[#]:\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] health."
+          },
+          {
+            "key": "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold",
+            "text": "If the target has less than {THRESHOLD1}% health before receiving damage, targets another enemy who had less than {THRESHOLD2}% health before receiving any damage from this Special Skill. If none of the other enemies have less than {THRESHOLD3}% health, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once."
+          },
+          {
+            "key": "rare_monster.spawn_chance.lunarnewyearrare.message.zero_chance_disclaimer",
+            "text": "You have defeated all [#!]Fortune Dragons[#] in this Quest."
+          },
+          {
+            "key": "brawl.bonus.cupid.attackmultiplier.defensemultiplier.healthmultiplier.managenerationmultiplier",
+            "text": "[*]Increased attack, defense, health and mana generation."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Summons a [#!]Seedling Fiend[#] every turn to a random enemy. This Passive Skill only activates once per turn for each team.\n[*]The [#!]Seedling Fiend[#] evolves into a [#!]Sprout Fiend[#] after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.\n[*]The [#!]Sprout Fiend[#] evolves into a [#!]Blossom Mega Fiend[#] after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.\n[*]The evolution of the Fiends is delayed by {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turn each time they absorb healing.\n\n[#!]Seedling Fiend[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] health.\n\n[#!]Sprout Fiend[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] health.\n\n[#!]Blossom Mega Fiend[#]:\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] health."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Summons a [#!]Seedling Fiend[#] every turn to a random enemy. This Passive Skill only activates once per turn for each team.\n[*]The [#!]Seedling Fiend[#] evolves into a [#!]Sprout Fiend[#] after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.\n[*]The [#!]Sprout Fiend[#] evolves into a [#!]Blossom Mega Fiend[#] after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.\n[*]The evolution of the Fiends is delayed by {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turn each time they absorb healing.\n\n[#!]Seedling Fiend[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] health.\n\n[#!]Sprout Fiend[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] health.\n\n[#!]Blossom Mega Fiend[#]:\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] health."
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Seedling Summoner"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Seedling Summoner"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Seedling Summoner"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_enhanced_criticals.cupid",
+            "text": "More max health reduced with [#!]critical hits[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid",
+            "text": "Immunity to status ailments that affect [#!]healing[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid",
+            "text": "Immunity to [#!]mana reductions[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid",
+            "text": "Immunity to status ailments that affect [#!]mana generation[#]."
+          },
+          {
+            "key": "lottery.description.banner.seasonalpremiumsummon.lunarnewyear",
+            "text": "Get [#ffce60]10 Fortune Spirit[#] on every summon!"
+          },
+          {
+            "key": "promo.description.lottery_hero_valentines",
+            "text": "Check out [##elementgreen]{0}[#] and other limited time Heroes in the Seasonal Summon!"
+          },
+          {
+            "key": "pvp_rules.newevent.started.description.valentines_brawl",
+            "text": "Heroes of the [#!]Cupid[#] family receive various benefits in the Raid Brawl:"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay",
+            "text": "Deals {DAMAGE}% damage to the target and {MAXHITS} random enemies.\n[*]Summons a [#!]Seedling Fiend[#] to each hit enemy."
+          },
+          {
+            "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
+            "text": "At the end of each turn deals {POWER}% damage to a random enemy and boosts health for themselves with {DAMAGEABSORB}% of total damage dealt."
           }
         ]
       },
@@ -90,6 +966,94 @@
           {
             "key": "odds.hero_lottery_hero_lunar_new_year_2026_seasonal_5",
             "text": "بطل السنة القمرية [#ffc3ff]الأسطوري[#] (غير متضمن): [#!]{0}%[#]"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra",
+            "text": "[*]يتطور [#!]شرير البذرة[#] إلى [#!]شرير برعم[#] بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.\n[*]يتطور [#!]شرير البرعم[#] إلى [#!]شرير ضخم مزدهر[#] بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.\n\n[*]شرير البذرة[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}% من الهجوم، [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% من الصحة.\n[*] [#!]شرير برعم[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}% من الهجوم، [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% من الصحة.\n[*] [#!]شرير ضخم مزدهر[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}% من الهجوم، [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% من الصحة.\n\n[*]يلحق الشرير ضررًا لهدفه كل جولة. يختفي الشرير بعد امتصاص الشفاء. يعتمد مقدار الشفاء المطلوب على صحة الهدف القصوى.\n[*]يتأخر تطور الأشرار بمقدار {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} من الجولات كل مرة يمتصوا فيها الشفاء."
+          },
+          {
+            "key": "recent_activity.source.purchasegems_direct_checkout",
+            "text": "تم شراء {0} باستخدام الدفع المباشر"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
+            "text": "[#!]تكدس+{BASESTACKCOUNT} (الحد الأقصى: {MAXSTACK}):[#] تتم زيادة كل الضرر الذي يتلقاه الرامي والحلفاء المجاورون بنسبة {DAMAGEMODIFIER}%."
+          },
+          {
+            "key": "lottery.description.summon_chest_promo_challenge",
+            "text": "تضم الخضروات الباسلة مع الأشرار المتطورين!"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "يستدعي [#!]شرير بذرة[#] كل جولة إلى عدو عشوائي./\n[*]يتطور [#!]الشرير البذرة[#] ليصبح [#!]شريرًا برعمًا[#] بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.\n[*]يتطور [#!]الشرير البرعم[#] إلى [#!]شرير ضخم مزدهر[#] بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.\n[*]يتأخر تطور الأشرار بمقدار {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} من الجولات في كل مرة يمتصون بها الشفاء.\n\n[#!]الشرير البذرة[#]: \n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]% من الهجوم، [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]% من الصحة.\n\n[#!]الشرير البرعم[#]: \n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#]% من الهجوم [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#]% من الصحة.\n\n[#!]الشرير الضخم المزدهر[#]: \n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] من الهجوم، [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] من الصحة."
+          },
+          {
+            "key": "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold",
+            "text": "إذا كان لدى الهدف أقل من {THRESHOLD1}% من الصحة قبل تلقي الضرر، فإنه يستهدف عدوًا آخر لديه أقل من {THRESHOLD2}% من الصحة قبل تلقي أي ضرر من هذه المهارة الخاصة. إذا لم يكن لدى أي من الأعداء الآخرين أقل من {THRESHOLD3}% من الصحة، فسيستهدف عدوًا عشوائيًا. يقل الضرر مع كل ضربة متتالية. لا يمكن إصابة كلِّ عدوٍ إلا مرةً واحدةً."
+          },
+          {
+            "key": "rare_monster.spawn_chance.lunarnewyearrare.message.zero_chance_disclaimer",
+            "text": "لقد هزمت كل [#!]تنانين الحظ[#] في هذه المهمة."
+          },
+          {
+            "key": "brawl.bonus.cupid.attackmultiplier.defensemultiplier.healthmultiplier.managenerationmultiplier",
+            "text": "[*]زيادة في الهجوم، والدفاع، والصحة، وتجدد القوة."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "يستدعي [#!]شرير بذرة[#] كل جولة إلى عدو عشوائي. هذه المهارة الكامنة تنشط فقط مرة واحدة في الجولة لكل فريق.\n[*]يتطور [#!]الشرير البذرة[#] ليصبح [#!]شريرًا برعمًا[#] بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.\n[*]يتطور [#!]الشرير البرعم[#] إلى [#!]شرير ضخم مزدهر[#] بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.\n[*]يتأخر تطور الأشرار بمقدار {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} من الجولات في كل مرة يمتصون بها الشفاء.\n\n[#!]الشرير البذرة[#]: \n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]% من الهجوم، [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]% من الصحة.\n\n[#!]الشرير البرعم[#]: \n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#]% من الهجوم [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#]% من الصحة.\n\n[#!]الشرير الضخم المزدهر[#]: \n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] من الهجوم، [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] من الصحة."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "يستدعي [#!]شرير بذرة[#] كل جولة إلى عدو عشوائي. هذه المهارة الكامنة تنشط فقط مرة واحدة في الجولة لكل فريق.\n[*]يتطور [#!]الشرير البذرة[#] ليصبح [#!]شريرًا برعمًا[#] بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.\n[*]يتطور [#!]الشرير البرعم[#] إلى [#!]شرير ضخم مزدهر[#] بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.\n[*]يتأخر تطور الأشرار بمقدار {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} من الجولات في كل مرة يمتصون بها الشفاء.\n\n[#!]الشرير البذرة[#]: \n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]% من الهجوم، [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]% من الصحة.\n\n[#!]الشرير البرعم[#]: \n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#]% من الهجوم [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#]% من الصحة.\n\n[#!]الشرير الضخم المزدهر[#]: \n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] من الهجوم، [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] من الصحة."
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "مُستدعى البذرة"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "مُستدعى البذرة"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "مُستدعى البذرة"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_enhanced_criticals.cupid",
+            "text": "تم تخفيض الحد الأقصى للصحة مع [#!]الضربات الحرجة[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid",
+            "text": "حصانة ضد حالات الأمراض التي تؤثر في [#!]الشفاء[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid",
+            "text": "حصانة ضد [#!]التخفيضات في القوة[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid",
+            "text": "حصانة ضد حالات الأمراض التي تؤثر في [#!]تجدد القوة[#]."
+          },
+          {
+            "key": "lottery.description.banner.seasonalpremiumsummon.lunarnewyear",
+            "text": "احصل على [#ffce60] 10 من روح الحظ[#] عند كل استدعاء!"
+          },
+          {
+            "key": "promo.description.lottery_hero_valentines",
+            "text": "تحقَّق من [##elementgreen]{0}[#] وأبطال آخرين لفترة محدودة في الاستدعاء الموسمي!"
+          },
+          {
+            "key": "pvp_rules.newevent.started.description.valentines_brawl",
+            "text": "يتلقى أبطال عائلة [#!]كيوبيد[#] مزايا مختلفة في مداهمة الشجار:"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay",
+            "text": "يسبب {DAMAGE}% من الضرر للهدف و{MAXHITS} من الأعداء العشوائيين.\n[*]يستدعي [#!]شرير البذرة[#] لكل عدو مصاب."
+          },
+          {
+            "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
+            "text": "في نهاية كل جولة، يلحق {POWER}% من الضرر بعدو عشوائي، ويعزز صحته بنسبة {DAMAGEABSORB}% من إجمالي الضرر المُلحق."
           }
         ]
       },
@@ -98,6 +1062,94 @@
           {
             "key": "odds.hero_lottery_hero_lunar_new_year_2026_seasonal_5",
             "text": "Héros [#ffc3ff]légendaire[#] du Nouvel An lunaire (pas à la une) : [#!]{0} %[#]"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra",
+            "text": "[*]Le [#!]démon plantule[#] devient un [#!]démon jeune pousse[#] après {EVOLVINGFAMILIAR1EVOLVETURNS} tours.\n[*]Le [#!]démon jeune pousse[#] devient un [#!]méga démon florissant[#] après {EVOLVINGFAMILIAR2EVOLVETURNS} tours.\n\n[*] [#!]Démon plantule[#] : [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] d'attaque, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] de santé.\n[*] [#!]Démon jeune pousse[#] : [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] d'attaque, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] de santé.\n[*] [#!]Méga démon florissant[#] : [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] d'attaque, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] de santé.\n\n[*]Les démons infligent des dégâts à leur cible à chaque tour et disparaissent après avoir absorbé une quantité de soins proportionnelle à la santé maximale de la cible.\n[*]L'évolution du démon est retardée de {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tour à chaque fois qu'il absorbe des soins."
+          },
+          {
+            "key": "recent_activity.source.purchasegems_direct_checkout",
+            "text": "Achat : {0} avec paiement direct"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
+            "text": "[#!]Cumul +{BASESTACKCOUNT} (maximum : {MAXSTACK}) :[#] tous les dégâts subis par le lanceur et les alliés proches sont augmentés de {DAMAGEMODIFIER} %."
+          },
+          {
+            "key": "lottery.description.summon_chest_promo_challenge",
+            "text": "En vedette : de Braves légumes avec des démons évolutifs !"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "À chaque tour, invoque un [#!]démon plantule[#] pour un ennemi aléatoire.\n[*]Le [#!]démon plantule[#] devient un [#!]démon jeune pousse[#] au bout de {EVOLVINGFAMILIAR1EVOLVETURNS} tours.\n[*]Le [#!]démon jeune pousse[#] devient un [#!]méga démon florissant[#] au bout de {EVOLVINGFAMILIAR2EVOLVETURNS} tours.\n[*]L'évolution du démon est retardée de {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tour à chaque fois qu'il absorbe des soins.\n\n[#!]Démon plantule[#] :\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] % de santé.\n\n[#!]Démon jeune pousse[#] :\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] % de santé.\n\n[#!]Méga démon florissant[#] :\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % de santé."
+          },
+          {
+            "key": "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold",
+            "text": "Si la cible avait moins de {THRESHOLD1} % de PV avant de subir les dégâts, la compétence spéciale cible un autre ennemi qui avait moins de {THRESHOLD2} % de PV avant de subir les dégâts. Si aucun des autres ennemis n'avait moins {THRESHOLD3} % de PV, la compétence cible un ennemi aléatoire. Les dégâts diminuent à chaque coup consécutif. Chaque ennemi ne peut être frappé qu'une fois."
+          },
+          {
+            "key": "rare_monster.spawn_chance.lunarnewyearrare.message.zero_chance_disclaimer",
+            "text": "Vous avez vaincu tous les [#!]dragons de la fortune[#] de cette quête."
+          },
+          {
+            "key": "brawl.bonus.cupid.attackmultiplier.defensemultiplier.healthmultiplier.managenerationmultiplier",
+            "text": "[*]Attaque, défense, santé et génération de mana augmentées."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "À chaque tour, invoque un [#!]démon plantule[#] pour un ennemi aléatoire. Cette compétence passive s'active une seule fois par tour pour chaque équipe. \n[*]Le [#!]démon plantule[#] devient un [#!]démon jeune pousse[#] au bout de {EVOLVINGFAMILIAR1EVOLVETURNS} tours.\n[*]Le [#!]démon jeune pousse[#] devient un [#!]méga démon florissant[#] au bout de {EVOLVINGFAMILIAR2EVOLVETURNS} tours.\n[*]L'évolution du démon est retardée de {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tour à chaque fois qu'il absorbe des soins.\n\n[#!]Démon plantule[#] :\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] % de santé.\n\n[#!]Démon jeune pousse[#] :\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] % de santé.\n\n[#!]Méga démon florissant[#] :\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % de santé."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "À chaque tour, invoque un [#!]démon plantule[#] pour un ennemi aléatoire. Cette compétence passive s'active une seule fois par tour pour chaque équipe. \n[*]Le [#!]démon plantule[#] devient un [#!]démon jeune pousse[#] au bout de {EVOLVINGFAMILIAR1EVOLVETURNS} tours.\n[*]Le [#!]démon jeune pousse[#] devient un [#!]méga démon florissant[#] au bout de {EVOLVINGFAMILIAR2EVOLVETURNS} tours.\n[*]L'évolution du démon est retardée de {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tour à chaque fois qu'il absorbe des soins.\n\n[#!]Démon plantule[#] :\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] % de santé.\n\n[#!]Démon jeune pousse[#] :\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] % de santé.\n\n[#!]Méga démon florissant[#] :\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % de santé."
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Invocation de plantule"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Invocation de plantule"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Invocation de plantule"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_enhanced_criticals.cupid",
+            "text": "Plus de santé max réduite avec les [#!]coups critiques[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid",
+            "text": "Immunité aux effets négatifs qui affectent les [#!]soins[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid",
+            "text": "Immunité aux [#!]réductions de mana[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid",
+            "text": "Immunité aux effets négatifs qui affectent la [#!]génération de mana[#]."
+          },
+          {
+            "key": "lottery.description.banner.seasonalpremiumsummon.lunarnewyear",
+            "text": "Vous obtenez [#ffce60]10 esprits de la fortune[#] à chaque invocation !"
+          },
+          {
+            "key": "promo.description.lottery_hero_valentines",
+            "text": "Découvrez [##elementgreen]{0}[#] et d'autres héros pendant une durée limitée dans l'invocation saisonnière !"
+          },
+          {
+            "key": "pvp_rules.newevent.started.description.valentines_brawl",
+            "text": "Les héros de la famille [#!]Cupidons[#] bénéficient de divers avantages dans le Raid brutal :"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay",
+            "text": "Inflige {DAMAGE} % de dégâts à la cible et {MAXHITS} ennemis aléatoires.\n[*]Invoque un [#!]démon plantule[#] pour chaque ennemi touché."
+          },
+          {
+            "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
+            "text": "Au début de chaque tour, inflige {POWER} % de dégâts à un ennemi aléatoire, et sa santé est boostée à hauteur de {DAMAGEABSORB} % des dégâts infligés."
           }
         ]
       },
@@ -106,6 +1158,94 @@
           {
             "key": "odds.hero_lottery_hero_lunar_new_year_2026_seasonal_5",
             "text": "Herói [#ffc3ff]lendário[#] do Ano Novo Lunar (sem destaque): [#!]{0}%[#]"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra",
+            "text": "O [#!]demônio Muda[#] se transforma em [#!]demônio Broto[#] após  {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.\n[*] O [#!]demônio Broto[#] se transforma em [#!]demônio mega Florescência[#] após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.\n\n[*] [#!]Demônio Muda[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] de vida\n[*] [#!]Demônio Broto[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] de vida\n[*] [#!]Megademônio Broto[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] de vida\n\n[*] O demônio causa dano ao alvo a cada turno e desaparece após absorver a cura. A quantidade de cura necessária depende do limite de vida do alvo.\n[*] A evolução dos demônios é atrasada em {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que eles absorvem cura."
+          },
+          {
+            "key": "recent_activity.source.purchasegems_direct_checkout",
+            "text": "Comprou {0} usando o pagamento direto"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
+            "text": "[#!]Cumulativo +{BASESTACKCOUNT} (máx.: {MAXSTACK}):[#] todo o dano recebido pelo invocador e pelos aliados próximos aumenta em {DAMAGEMODIFIER}%."
+          },
+          {
+            "key": "lottery.description.summon_chest_promo_challenge",
+            "text": "Com Hortaliças Honradas e demônios com evolução!"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Convoca um [#!]demônio Seedling[#] a cada turno para um inimigo aleatório.\n[*] O [#!]demônio Muda[#] se transforma em [#!]demônio Broto[#] após  {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.\n[*] O [#!]demônio Broto[#] se transforma em [#!]megademônio Florescência[#] após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.[*] A evolução dos demônios é atrasada em {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que eles absorvem cura.\n\n\n\n[#!]Demônio Muda[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] de vida\n\n[#!]Demônio Broto[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] de vida\n\n[#!]Megademônio Broto[#]:\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] de vida"
+          },
+          {
+            "key": "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold",
+            "text": "Quando o alvo tem menos de {THRESHOLD1}% de vida antes de receber o dano, atinge outro inimigo com menos de {THRESHOLD2}% de vida antes de receber qualquer dano desta habilidade especial. Quando nenhum outro inimigo tem menos de {THRESHOLD3}% de vida, atinge um inimigo aleatório. O dano diminui a cada acerto consecutivo. Cada inimigo pode ser atingido uma vez."
+          },
+          {
+            "key": "rare_monster.spawn_chance.lunarnewyearrare.message.zero_chance_disclaimer",
+            "text": "Você derrotou todos os [#!]Dragões da Fortuna[#] do objetivo."
+          },
+          {
+            "key": "brawl.bonus.cupid.attackmultiplier.defensemultiplier.healthmultiplier.managenerationmultiplier",
+            "text": "[*] Mais ataque, defesa, vida e geração de mana."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Convoca um [#!]demônio Seedling[#] a cada turno para um inimigo aleatório. Essa habilidade passiva é ativada uma vez por turno para cada equipe.\n[*] O [#!]demônio Muda[#] se transforma em [#!]demônio Broto[#] após  {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.\n[*] O [#!]demônio Broto[#] se transforma em [#!]megademônio Florescência[#] após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.[*] A evolução dos demônios é atrasada em {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que eles absorvem cura.\n\n\n\n[#!]Demônio Muda[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] de vida\n\n[#!]Demônio Broto[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] de vida\n\n[#!]Megademônio Broto[#]:\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] de vida"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Convoca um [#!]demônio Seedling[#] a cada turno para um inimigo aleatório. Essa habilidade passiva é ativada uma vez por turno para cada equipe.\n[*] O [#!]demônio Muda[#] se transforma em [#!]demônio Broto[#] após  {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.\n[*] O [#!]demônio Broto[#] se transforma em [#!]megademônio Florescência[#] após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.[*] A evolução dos demônios é atrasada em {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que eles absorvem cura.\n\n\n\n[#!]Demônio Muda[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] de vida\n\n[#!]Demônio Broto[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] de vida\n\n[#!]Megademônio Broto[#]:\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] de vida"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Convocador de Muda"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Convocador de Muda"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Convocador de Muda"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_enhanced_criticals.cupid",
+            "text": "A redução do limite de vida é maior com [#!]acertos críticos[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid",
+            "text": "Imunidade contra males de status que afetam a [#!]cura[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid",
+            "text": "Imunidade a [#!]reduções de mana[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid",
+            "text": "Imunidade contra males de status que afetam a [#!]geração de mana[#]."
+          },
+          {
+            "key": "lottery.description.banner.seasonalpremiumsummon.lunarnewyear",
+            "text": "Receba [#ffce60]10 de essência da fortuna[#] em cada convocação!"
+          },
+          {
+            "key": "promo.description.lottery_hero_valentines",
+            "text": "Confira [##elementgreen]{0}[#] e outros heróis de tempo limitado na Convocação da Temporada!"
+          },
+          {
+            "key": "pvp_rules.newevent.started.description.valentines_brawl",
+            "text": "Heróis da família [#!]Cupido[#] recebem vários benefícios na Briga de Investida:"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay",
+            "text": "Causa {DAMAGE}% de dano ao alvo e {MAXHITS} inimigos aleatórios.\n[*] Convoca um [#!]demônio Muda[#] para cada inimigo atingido."
+          },
+          {
+            "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
+            "text": "Ao fim de cada turno, causa {POWER}% de dano a um inimigo aleatório e reforça a própria vida no equivalente a {DAMAGEABSORB}% do total de dano causado."
           }
         ]
       },
@@ -114,6 +1254,94 @@
           {
             "key": "odds.hero_lottery_hero_lunar_new_year_2026_seasonal_5",
             "text": "Pahlawan Tahun Lunar [#ffc3ff]Legendaris[#] (non-unggulan): [#!]{0}%[#]"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra",
+            "text": "[#!]Iblis Benih[#] berubah menjadi [#!]Iblis Tunas[#] setelah {EVOLVINGFAMILIAR1EVOLVETURNS} giliran.\n[*][#!]Iblis Tunas[#] berubah menjadi [#!]Iblis Mega Mekar[#] setelah {EVOLVINGFAMILIAR2EVOLVETURNS} giliran.\n\n[*] [#!]Iblis Benih[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] serangan, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] kesehatan.\n[*] [#!]Iblis Benih[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] serangan, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] kesehatan.\n[*] [#!]Iblis Mega Mekar[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] serangan, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] kesehatan.\n\n[*]Iblis merusak sasaran setiap giliran. Iblis menghilang setelah menyerap penyembuhan. Jumlah penyembuhab yang diperlukan tergantung kesehatan maks sasaran.\n[*]Evolusi Iblis ditunda sebanyak {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} giliran setiap kali mereka menyerap penyembuhan."
+          },
+          {
+            "key": "recent_activity.source.purchasegems_direct_checkout",
+            "text": "Membeli {0} menggunakan Pembayaran Langsung"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
+            "text": "[#!]Tumpukan +{BASESTACKCOUNT} (Maks: {MAXSTACK}):[#] Semua kerusakan yang diterima perapal dan sekutu terdekat meningkat {DAMAGEMODIFIER}%."
+          },
+          {
+            "key": "lottery.description.summon_chest_promo_challenge",
+            "text": "Menampilkan Sayuran Perkasa dengan Iblis Evolusi!"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Memanggil [#!]Iblis Benih[#] setiap giliran ke musuh acak.\n[*][#!]Iblis Benih[#] berubah menjadi [#!]Iblis Tunas[#] setelah {EVOLVINGFAMILIAR1EVOLVETURNS} giliran.\n[*][#!]Iblis Tunas[#] berubah menjadi [#!]Iblis Mega Mekar[#] setelah {EVOLVINGFAMILIAR2EVOLVETURNS} giliran.\n [*]Evolusi Iblis ditunda sebanyak {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} giliran setiap kali mereka menyerap penyembuhan.\n\n[#!]Iblis Benih[#]: \nserangan [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#], kesehatan [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#].\n\n[#!]Iblis Tunas[#]: \nserangan [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#], kesehatan [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#].\n\n[#!]Iblis Mega Mekar[#]: \nserangan [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#], kesehatan [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]."
+          },
+          {
+            "key": "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold",
+            "text": "Jika kesehatan sasaran kurang dari {THRESHOLD1}% sebelum mengalami kerusakan, menrgetkan musuh lain dengan kesehatan kurang dari {THRESHOLD2}% sebelum mengalami kerusakan apa pun dari Keahlian Khusus ini. Jika tidak ada musuh lain yang memiliki kesehatan kurang dari {THRESHOLD3}%, menarget musuh secara acak. Kerusakannya berkurang pada setiap serangan beruntun. Setiap musuh hanya dapat terkena satu kali."
+          },
+          {
+            "key": "rare_monster.spawn_chance.lunarnewyearrare.message.zero_chance_disclaimer",
+            "text": "Semua [#!]Naga Hoki[#] di Petualangan ini telah dikalahkan."
+          },
+          {
+            "key": "brawl.bonus.cupid.attackmultiplier.defensemultiplier.healthmultiplier.managenerationmultiplier",
+            "text": "[*]Peningkatan serangan, pertahanan, dan generasi mana."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Memanggil [#!]Iblis Benih[#] setiap giliran ke musuh acak. Keahlian Pasif ini hanya aktif satu kali per giliran untuk setiap tim.\n[*][#!]Iblis Benih[#] berubah menjadi [#!]Iblis Tunas[#] setelah {EVOLVINGFAMILIAR1EVOLVETURNS} giliran.\n[*][#!]Iblis Tunas[#] berubah menjadi [#!]Iblis Mega Mekar[#] setelah {EVOLVINGFAMILIAR2EVOLVETURNS} giliran.\n [*]Evolusi Iblis ditunda sebanyak {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} giliran setiap kali mereka menyerap penyembuhan.\n\n[#!]Iblis Benih[#]: \nserangan [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#], kesehatan [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#].\n\n[#!]Iblis Tunas[#]: \nserangan [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#], kesehatan [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#].\n\n[#!]Iblis Mega Mekar[#]: \nserangan [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#], kesehatan [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Memanggil [#!]Iblis Benih[#] setiap giliran ke musuh acak. Keahlian Pasif ini hanya aktif satu kali per giliran untuk setiap tim.\n[*][#!]Iblis Benih[#] berubah menjadi [#!]Iblis Tunas[#] setelah {EVOLVINGFAMILIAR1EVOLVETURNS} giliran.\n[*][#!]Iblis Tunas[#] berubah menjadi [#!]Iblis Mega Mekar[#] setelah {EVOLVINGFAMILIAR2EVOLVETURNS} giliran.\n [*]Evolusi Iblis ditunda sebanyak {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} giliran setiap kali mereka menyerap penyembuhan.\n\n[#!]Iblis Benih[#]: \nserangan [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#], kesehatan [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#].\n\n[#!]Iblis Tunas[#]: \nserangan [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#], kesehatan [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#].\n\n[#!]Iblis Mega Mekar[#]: \nserangan [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#], kesehatan [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]."
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Pemanggil Benih"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Pemanggil Benih"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Pemanggil Benih"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_enhanced_criticals.cupid",
+            "text": "Lebih banyak kesehatan maks. yang dikurangi dengan [#!]pukulan kritis[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid",
+            "text": "Kekebalan terhadap status pelemahan yang memengaruhi [#!]penyembuhan[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid",
+            "text": "Kekebalan terhadap [#!]pengurangan mana[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid",
+            "text": "Kekebalan terhadap status pelemahan yang memengaruhi [#!]generasi mana[#]."
+          },
+          {
+            "key": "lottery.description.banner.seasonalpremiumsummon.lunarnewyear",
+            "text": "Dapatkan [#ffce60]10 Roh Hoki[#] di setiap Panggilan!"
+          },
+          {
+            "key": "promo.description.lottery_hero_valentines",
+            "text": "Lihat [##elementgreen]{0}[#] dan Pahlawan waktu terbatas lainnya di Panggilan Musiman!"
+          },
+          {
+            "key": "pvp_rules.newevent.started.description.valentines_brawl",
+            "text": "Pahlawan dari keluarga [#!]Cupid[#] menerima berbagai manfaat dalam Baku Hantam Serangan:"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay",
+            "text": "Menimbulkan {DAMAGE}% kerusakan pada sasaran dan {MAXHITS} musuh acak.\n[*]Memanggil satu [#!]Iblis Benih[#] untuk setiap musuh yang terkena."
+          },
+          {
+            "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
+            "text": "Di akhir tiap giliran, menimbulkan {POWER}% kerusakan ke musuh acak dan meningkatkan kesehatan diri sendiri sebesar {DAMAGEABSORB}% dari kerusakan yang ditimbulkan."
           }
         ]
       },
@@ -122,6 +1350,94 @@
           {
             "key": "odds.hero_lottery_hero_lunar_new_year_2026_seasonal_5",
             "text": "[#ffc3ff]Legendaarinen[#] kuuvuoden sankari (ei esittelyssä oleva): [#!]{0} %[#]"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra",
+            "text": "[#!]Siementaimiriiviö[#] kehittyy [#!]taimiriiviöksi[#] {EVOLVINGFAMILIAR1EVOLVETURNS} vuoron jälkeen.\n[*][#!]Taimiriiviö[#] kehittyy [#!]kukkivaksi megariiviöksi[#] {EVOLVINGFAMILIAR2EVOLVETURNS} vuoron jälkeen.\n\n[*] [#!]Siementaimiriiviö[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] terveyttä\n[*] [#!]Taimiriiviö[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] terveyttä\n[*] [#!]Kukkiva megariiviö[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] terveyttä.\n\n[*]Riiviö vaurioittaa kohdettaan joka vuorolla. Riiviö katoaa imettyään parannusta. Tarvittavan parannuksen määrä riippuu kohteen maksimiterveydestä.\n[*]Riiviöiden evoluutio viivästyy {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} vuorolla aina kun ne imevät parannusta."
+          },
+          {
+            "key": "recent_activity.source.purchasegems_direct_checkout",
+            "text": "{0} ostettu suoramaksulla"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
+            "text": "[#!]Kasauma +{BASESTACKCOUNT} (maksimi: {MAXSTACK}):[#] Kaikki loitsijan ja lähellä olevien liittolaisten kärsimä vaurio kasvaa {DAMAGEMODIFIER} %"
+          },
+          {
+            "key": "lottery.description.summon_chest_promo_challenge",
+            "text": "Esittelyssä urhoolliset kasvit ja kehittyvät riiviöt!"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Kutsuu joka vuorolla [#!]siementaimiriiviön[#] satunnaiselle viholliselle.\n[*][#!]Siementaimiriiviö[#] kehittyy [#!]taimiriiviöksi[#] {EVOLVINGFAMILIAR1EVOLVETURNS} vuoron jälkeen.\n[*][#!]Taimiriiviö[#] kehittyy [#!]kukkivaksi megariiviöksi[#] {EVOLVINGFAMILIAR2EVOLVETURNS} vuoron jälkeen.\n[*]Riiviöiden evoluutio viivästyy {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} vuorolla aina kun ne imevät parannusta.\n\n[#!]Siementaimiriiviö[#]: \n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] terveyttä.\n\n[#!]Taimiriiviö[#]: \n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] terveyttä.\n\n[#!]Kukkiva megariiviö[#]: \n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] terveyttä."
+          },
+          {
+            "key": "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold",
+            "text": "Jos kohteella on alle {THRESHOLD1} % terveyttä ennen vaurion kärsimistä, tuottaa vauriota toiselle viholliselle, jolla oli alle {THRESHOLD2} % terveyttä ennen tämän erikoistaidon tuottaman vaurion kärsimistä. Jos yhdelläkään muulla vihollisella ei ole alle {THRESHOLD3} % terveyttä, tuottaa vauriota satunnaiselle viholliselle. Jokaisen perättäisen osuman vaurio laskee. Kuhunkin viholliseen voi osua vain kerran."
+          },
+          {
+            "key": "rare_monster.spawn_chance.lunarnewyearrare.message.zero_chance_disclaimer",
+            "text": "Kukistit tämän seikkailun kaikki [#!]onnenlohikäärmeet[#]."
+          },
+          {
+            "key": "brawl.bonus.cupid.attackmultiplier.defensemultiplier.healthmultiplier.managenerationmultiplier",
+            "text": "[*]Hyökkäys, puolustus, terveys ja manatuotanto nousevat."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Kutsuu joka vuorolla [#!]siementaimiriiviön[#] satunnaiselle viholliselle. Tämä passiivinen taito aktivoituu vain kerran vuorossa ryhmää kohti.\n[*][#!]Siementaimiriiviö[#] kehittyy [#!]taimiriiviöksi[#] {EVOLVINGFAMILIAR1EVOLVETURNS} vuoron jälkeen.\n[*][#!]Taimiriiviö[#] kehittyy [#!]kukkivaksi megariiviöksi[#] {EVOLVINGFAMILIAR2EVOLVETURNS} vuoron jälkeen.\n[*]Riiviöiden evoluutio viivästyy {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} vuorolla aina kun ne imevät parannusta.\n\n[#!]Siementaimiriiviö[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] terveyttä.\n\n[#!]Taimiriiviö[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] terveyttä.\n\n[#!]Kukkiva megariiviö[#]:\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] terveyttä."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Kutsuu joka vuorolla [#!]siementaimiriiviön[#] satunnaiselle viholliselle. Tämä passiivinen taito aktivoituu vain kerran vuorossa ryhmää kohti.\n[*][#!]Siementaimiriiviö[#] kehittyy [#!]taimiriiviöksi[#] {EVOLVINGFAMILIAR1EVOLVETURNS} vuoron jälkeen.\n[*][#!]Taimiriiviö[#] kehittyy [#!]kukkivaksi megariiviöksi[#] {EVOLVINGFAMILIAR2EVOLVETURNS} vuoron jälkeen.\n[*]Riiviöiden evoluutio viivästyy {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} vuorolla aina kun ne imevät parannusta.\n\n[#!]Siementaimiriiviö[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] terveyttä.\n\n[#!]Taimiriiviö[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] terveyttä.\n\n[#!]Kukkiva megariiviö[#]:\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] terveyttä."
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Siementaimien kutsuja"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Siementaimien kutsuja"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Siementaimien kutsuja"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_enhanced_criticals.cupid",
+            "text": "[#!]Kriittiset osumat[#] vähentävät maksimiterveyttä enemmän."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid",
+            "text": "Immuuni [#!]parannukseen[#] vaikuttaville vaivoille."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid",
+            "text": "Immuuni [#!]manavähennyksille[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid",
+            "text": "Immuuni [#!]manatuotantoon[#] vaikuttaville vaivoille."
+          },
+          {
+            "key": "lottery.description.banner.seasonalpremiumsummon.lunarnewyear",
+            "text": "Saat [#ffce60]10 onnen henkeä[#] joka kutsusta!"
+          },
+          {
+            "key": "promo.description.lottery_hero_valentines",
+            "text": "Tsekkaa [##elementgreen]{0}[#] ja muut rajoitetun ajan sankarit kausikutsussa!"
+          },
+          {
+            "key": "pvp_rules.newevent.started.description.valentines_brawl",
+            "text": "[#!]Cupido[#]perheen sankarit saavat erilaisia etuja rynnäkkökisassa:"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay",
+            "text": "Tuottaa {DAMAGE} % vauriota kohteelle ja {MAXHITS} satunnaisille vihollisille.\n[*]Kutsuu [#!]siementaimiriiviön[#] jokaiselle osutulle viholliselle."
+          },
+          {
+            "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
+            "text": "Tuottaa joka vuoron lopussa {POWER} % vauriota satunnaiselle viholliselle ja tehostaa terveyttään {DAMAGEABSORB} % tuotetusta kokonaisvauriosta."
           }
         ]
       },
@@ -130,6 +1446,94 @@
           {
             "key": "odds.hero_lottery_hero_lunar_new_year_2026_seasonal_5",
             "text": "[#ffc3ff]Legendarisk[#] månenytårshelt (ikke præsenteret): [#!]{0} %[#]"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra",
+            "text": "[*][#!]Frøplantedjævlen[#] udvikler sig til en [#!]spiredjævel[#] efter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.\n[*] [#!]Spiredjævlen[#] udvikler sig til en [#!]blomstrende megadjævel[#] efter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.\n\n[*] [#!]Frøplantedjævel[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] angreb, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] helbred.\n[*] [#!]Spiredjævel[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] angreb, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] helbred.\n[*] [#!]Blomstrende megadjævel[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] angreb, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] helbred.\n\n[*]Djævle skader deres mål i hver runde. En djævel forsvinder, når den absorberer helbredelse. Den mængde helbredelse, som er påkrævet, afhænger af målets maksimale helbred.\n[*]Djævlenes udvikling forsinkes med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runde, hver gang de absorberer helbred."
+          },
+          {
+            "key": "recent_activity.source.purchasegems_direct_checkout",
+            "text": "Købte {0} med direkte betaling"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
+            "text": "[#!]Stack +{BASESTACKCOUNT} (Maks: {MAXSTACK}):[#] Al skade, kasteren og allierede i nærheden tager, forøges med {DAMAGEMODIFIER} %"
+          },
+          {
+            "key": "lottery.description.summon_chest_promo_challenge",
+            "text": "Indeholder Tapre Grøntsager med Ekspanderende Djævle!"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Hidkalder en [#!]frøplantedjævel[#] hver runde til en tilfældig fjende.\n[*][#!]Frøplantedjævlen[#] udvikler sig til en [#!]spiredjævel[#] efter {EVOLVINGFAMILIAR1EVOLVETURNS} runder. \n[*]Udviklingen af djævlene forsinkes med {EVOLVINGFAMILIAR2EVOLVETURNS} runde, hver gang de absorberer helbredelse.\n\n[#!]Spiredjævlen[#]:\n[#!] udvikler sig til en [#!]blomstrende megadjævel[#] efter {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runder.\n\n[#!]Frøplantedjævel[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] angreb, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#]  helbred\n\n[#!]Spiredjævel[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#]  angreb, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#]  helbred\n\n[#!]Blomstrende megadjævel[#]: \n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] angreb, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#]  helbred."
+          },
+          {
+            "key": "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold",
+            "text": "Hvis målet har mindre end {THRESHOLD1} % helbred, før de tager skade, vælges en anden fjende som mål, som har mindre end {THRESHOLD2} % helbred, før de tager skade fra denne særlige egenskab. Hvis ingen anden fjende har mindre end {THRESHOLD3} % helbred, vælges en tilfældig fjende. Skaden reduceres ved hver følgende træffer. Hver fjende kan kun blive ramt én gang."
+          },
+          {
+            "key": "rare_monster.spawn_chance.lunarnewyearrare.message.zero_chance_disclaimer",
+            "text": "Du har besejret alle [#!]lykkedrager[#] i denne mission."
+          },
+          {
+            "key": "brawl.bonus.cupid.attackmultiplier.defensemultiplier.healthmultiplier.managenerationmultiplier",
+            "text": "[*]Øget angreb, forsvar, helbred og managendannelse."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Hidkalder en [#!]frøplantedjævel[#] hver runde til en tilfældig fjende. Denne passive egenskab aktiveres kun én gang pr. runde for hvert hold.\n[*][#!]Frøplantedjævlen[#] udvikler sig til en [#!]spiredjævel[#] efter {EVOLVINGFAMILIAR1EVOLVETURNS} runder. \n[*]Udviklingen af djævlene forsinkes med {EVOLVINGFAMILIAR2EVOLVETURNS} runde, hver gang de absorberer helbredelse.\n\n[#!]Spiredjævlen[#]:\n[#!] udvikler sig til en [#!]blomstrende megadjævel[#] efter {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runder.\n\n[#!]Frøplantedjævel[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] angreb, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#]  helbred\n\n[#!]Spiredjævel[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#]  angreb, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#]  helbred\n\n[#!]Blomstrende megadjævel[#]: \n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] angreb, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#]  helbred"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Hidkalder en [#!]frøplantedjævel[#] hver runde til en tilfældig fjende. Denne passive egenskab aktiveres kun én gang pr. runde for hvert hold.\n[*][#!]Frøplantedjævlen[#] udvikler sig til en [#!]spiredjævel[#] efter {EVOLVINGFAMILIAR1EVOLVETURNS} runder. \n[*]Udviklingen af djævlene forsinkes med {EVOLVINGFAMILIAR2EVOLVETURNS} runde, hver gang de absorberer helbredelse.\n\n[#!]Spiredjævlen[#]:\n[#!] udvikler sig til en [#!]blomstrende megadjævel[#] efter {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runder.\n\n[#!]Frøplantedjævel[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] angreb, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#]  helbred\n\n[#!]Spiredjævel[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#]  angreb, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#]  helbred\n\n[#!]Blomstrende megadjævel[#]: \n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] angreb, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#]  helbred"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Frøplantefremkalder"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Frøplantefremkalder"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Frøplantefremkalder"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_enhanced_criticals.cupid",
+            "text": "Mere maks. helbred reduceret med [#!]kritiske træffere[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid",
+            "text": "Immun over for statuslidelser, der påvirker [#!]helbredelse[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid",
+            "text": "Immunitet over for [#!]manareduktioner[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid",
+            "text": "Immun over for statuslidelser, der påvirker [#!]managendannelse[#]."
+          },
+          {
+            "key": "lottery.description.banner.seasonalpremiumsummon.lunarnewyear",
+            "text": "Få [#ffce60]10 lykkeånder[#] med hver hidkaldelse!"
+          },
+          {
+            "key": "promo.description.lottery_hero_valentines",
+            "text": "Se [##elementgreen]{0}[#] og andre tidsbegrænsede helte i Sæsonhidkaldelsen!"
+          },
+          {
+            "key": "pvp_rules.newevent.started.description.valentines_brawl",
+            "text": "Helte fra [#!]Amor[#]-familien får forskellige fordele i Togtslagsmål:"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay",
+            "text": "Forvolder {DAMAGE} % skade på et mål og {MAXHITS} tilfældige fjender.\n[*]Hidkalder en [#!]frøplantedjævel[#] til hver ramt fjende."
+          },
+          {
+            "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
+            "text": "I slutningen af hver runde forårsages der {POWER} % skade på en tilfældig fjende, og eget helbred forbedres med {DAMAGEABSORB} % af den tildelte skade."
           }
         ]
       },
@@ -138,6 +1542,94 @@
           {
             "key": "odds.hero_lottery_hero_lunar_new_year_2026_seasonal_5",
             "text": "Héroe del Año Nuevo lunar [#ffc3ff]legendario[#] no destacado: [#!]{0} %[#]"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra",
+            "text": "[*] El [#!]demonio brote maldito[#] se convierte en [#!]demonio retoño[#] pasados {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.\n[*] El [#!]demonio retoño[#] se convierte en [#!]megademonio flor[#] pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.\n\n[*] [#!]Demonio brote maldito[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] de vitalidad\n\n[*] [#!]Demonio retoño[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] de vitalidad\n\n[*] [#!]Megademonio flor[#]:\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % de vitalidad\n\n[*] El demonio inflige daño al objetivo en cada turno. Desaparece al absorber curación. La cantidad de curación depende de la vitalidad máxima del objetivo.\n[*] La evolución de los demonios se retrasa {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que absorben curación."
+          },
+          {
+            "key": "recent_activity.source.purchasegems_direct_checkout",
+            "text": "Adquirido con pago directo {0}"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
+            "text": "[#!]Acumulación +{BASESTACKCOUNT} (máx.: {MAXSTACK}):[#] Todo el daño que reciben el héroe y los aliados cercanos se reduce un {DAMAGEMODIFIER} %."
+          },
+          {
+            "key": "lottery.description.summon_chest_promo_challenge",
+            "text": "¡Verduras valerosas con demonios evolutivos!"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Invoca un [#!]demonio brote maldito[#] para un enemigo aleatorio en cada turno.\n[*] El [#!]demonio brote maldito[#] se convierte en [#!]demonio retoño[#] pasados {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.\n[*] El [#!]demonio retoño[#] se convierte en [#!]megademonio flor[#] pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.\n[*] La evolución de los demonios se retrasa {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que absorben curación.\n\n[#!]Demonio brote maldito[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] de vitalidad.\n\n[#!]Demonio retoño[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] de vitalidad.\n\n[#!]Megademonio flor[#]:\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] de vitalidad."
+          },
+          {
+            "key": "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold",
+            "text": "Si el objetivo tiene menos de un {THRESHOLD1} % de vitalidad antes de recibir daño, ataca a otro enemigo que tenga menos del {THRESHOLD2} % de vitalidad antes de recibir daño de esta habilidad especial. Si ningún otro enemigo tiene menos de un {THRESHOLD3} % de vitalidad, ataca a un enemigo aleatorio. El daño se reduce con cada golpe consecutivo. Solo puede golpear una vez a cada enemigo."
+          },
+          {
+            "key": "rare_monster.spawn_chance.lunarnewyearrare.message.zero_chance_disclaimer",
+            "text": "Has derrotado a todos los [#!]dragones de la fortuna[#] en esta aventura."
+          },
+          {
+            "key": "brawl.bonus.cupid.attackmultiplier.defensemultiplier.healthmultiplier.managenerationmultiplier",
+            "text": "[*]Aumento del ataque, la defensa, la vitalidad y la regeneración de maná."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Invoca un [#!]demonio brote maldito[#] para un enemigo aleatorio en cada turno. Esta habilidad pasiva solo se activa una vez por turno para cada equipo.\n[*] El [#!]demonio brote maldito[#] se convierte en [#!]demonio retoño[#] pasados {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.\n[*] El [#!]demonio retoño[#] se convierte en [#!]megademonio flor[#] pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.\n[*] La evolución de los demonios se retrasa {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que absorben curación.\n\n[#!]Demonio brote maldito[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] de vitalidad.\n\n[#!]Demonio retoño[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] de vitalidad.\n\n[#!]Megademonio flor[#]:\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] de vitalidad."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Invoca un [#!]demonio brote maldito[#] para un enemigo aleatorio en cada turno. Esta habilidad pasiva solo se activa una vez por turno para cada equipo.\n[*] El [#!]demonio brote maldito[#] se convierte en [#!]demonio retoño[#] pasados {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.\n[*] El [#!]demonio retoño[#] se convierte en [#!]megademonio flor[#] pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.\n[*] La evolución de los demonios se retrasa {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que absorben curación.\n\n[#!]Demonio brote maldito[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] de vitalidad.\n\n[#!]Demonio retoño[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] de vitalidad.\n\n[#!]Megademonio flor[#]:\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] de vitalidad."
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Invoca un brote"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Invoca un brote"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Invoca un brote"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_enhanced_criticals.cupid",
+            "text": "Más vitalidad máxima reducida con los [#!]golpes críticos[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid",
+            "text": "Inmunidad a los estados alterados que afectan a la [#!]curación[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid",
+            "text": "Inmunidad a las [#!]reducciones de maná[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid",
+            "text": "Inmunidad a los estados alterados que afectan a la [#!]regeneración de maná[#]."
+          },
+          {
+            "key": "lottery.description.banner.seasonalpremiumsummon.lunarnewyear",
+            "text": "¡Consigue [#ffce60]10 espíritus de la fortuna[#] con cada invocación!"
+          },
+          {
+            "key": "promo.description.lottery_hero_valentines",
+            "text": "¡Echa un vistazo a [##elementgreen]{0}[#] y a otros héroes por tiempo limitado en la invocación de temporada!"
+          },
+          {
+            "key": "pvp_rules.newevent.started.description.valentines_brawl",
+            "text": "Los héroes de la [#!]familia de cupidos[#] reciben varios beneficios en la reyerta de asalto:"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay",
+            "text": "Inflige un {DAMAGE} % de daño al objetivo y a {MAXHITS} enemigos aleatorios.\n[*] Invoca un [#!]demonio brote maldito[#] para cada enemigo golpeado."
+          },
+          {
+            "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
+            "text": "Al final de cada turno, inflige un {POWER} % de daño a un enemigo aleatorio y potencia la vitalidad un {DAMAGEABSORB} % del daño total infligido."
           }
         ]
       },
@@ -146,6 +1638,94 @@
           {
             "key": "odds.hero_lottery_hero_lunar_new_year_2026_seasonal_5",
             "text": "[#ffc3ff]Legendarisk[#] Månenyttår-helt (ikke fremhevet): [#!]{0} %[#]"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra",
+            "text": "[#!]Frøplante-djevelen[#] utvikler seg til en [#!]knopp-djevel[#] etter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.\n[*][#!]Knopp-djevelen[#] utvikler seg til en [#!]blomst-megadjevel[#] etter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.\n\n[*] [#!]Frøplante-djevel[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] angrep, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] helse\n[*] [#!]Knopp-djevel[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] angrep, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] helse\n[*] [#!]Blomst-megadjevel[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] angrep, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] helse\n\n[*]En djevel skader målet sitt hver runde. En djevel forsvinner etter å ha absorbert helse. Mengde helse som kreves avhenger av målets maksimale helse.\n[*]Utviklingen til djevelen er forsinket med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runde hver gang de absorberer helbredelse."
+          },
+          {
+            "key": "recent_activity.source.purchasegems_direct_checkout",
+            "text": "Kjøpte {0} med Direct Pay"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
+            "text": "[#!]Stabel +{BASESTACKCOUNT} (Maksimalt: {MAXSTACK}):[#] All skade brukeren og allierte i nærheten mottar økes med {DAMAGEMODIFIER} %."
+          },
+          {
+            "key": "lottery.description.summon_chest_promo_challenge",
+            "text": "Med tapre grønnsaker med djevler som utvikler seg!"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Fremkaller en [#!]frøplante-djevel[#] hver runde til en tilfeldig fiende.\n[*][#!]Frøplante-djevelen[#] utvikler seg til en [#!]knopp-djevel[#] etter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.\n[*][#!]Knopp-djevelen[#] utvikler seg til en [#!]blomst-megadjevel[#] etter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.\n[*]Utviklingen til djevelen er forsinket med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runde hver gang de absorberer helbredelse.\n\n[#!]Frøplante-djevel[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] angrep, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] helse.\n\n[#!]Knopp-djevel[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] angrep, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] helse.\n\n[#!]Blomst-megadjevel[#]:\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] angrep, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] helse."
+          },
+          {
+            "key": "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold",
+            "text": "Hvis målet hadde mindre enn {THRESHOLD1} % helse før skaden ble påført, vil skaden også påføres en annen fiende med mindre enn {THRESHOLD2} % helse før noen skade er tatt fra denne spesialferdigheten. Hvis ingen av de andre fiendene har mindre enn {THRESHOLD3} % helse, vil en tilfeldig fiende rammes. Skaden reduseres for hvert etterfølgende treff. Hver fiende kan kun treffes én gang."
+          },
+          {
+            "key": "rare_monster.spawn_chance.lunarnewyearrare.message.zero_chance_disclaimer",
+            "text": "Du har beseiret alle [#!]lykkedragene[#] i dette oppdraget."
+          },
+          {
+            "key": "brawl.bonus.cupid.attackmultiplier.defensemultiplier.healthmultiplier.managenerationmultiplier",
+            "text": "[*]Økt angrep, forsvar, helse og mana-generering."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Fremkaller en [#!]frøplante-djevel[#] hver runde til en tilfeldig fiende. Denne passive ferdigheten aktiveres kun én gang per runde for hvert lag.\n[*][#!]Frøplante-djevelen[#] utvikler seg til en [#!]knopp-djevel[#] etter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.\n[*][#!]Knopp-djevelen[#] utvikler seg til en [#!]blomst-megadjevel[#] etter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.\n[*]Utviklingen til djevelen er forsinket med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runde hver gang de absorberer helbredelse.\n\n[#!]Frøplante-djevel[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] angrep, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] helse.\n\n[#!]Knopp-djevel[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] angrep, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] helse.\n\n[#!]Blomst-megadjevel[#]:\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] angrep, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] helse."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Fremkaller en [#!]frøplante-djevel[#] hver runde til en tilfeldig fiende. Denne passive ferdigheten aktiveres kun én gang per runde for hvert lag.\n[*][#!]Frøplante-djevelen[#] utvikler seg til en [#!]knopp-djevel[#] etter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.\n[*][#!]Knopp-djevelen[#] utvikler seg til en [#!]blomst-megadjevel[#] etter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.\n[*]Utviklingen til djevelen er forsinket med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runde hver gang de absorberer helbredelse.\n\n[#!]Frøplante-djevel[#]:\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] angrep, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] helse.\n\n[#!]Knopp-djevel[#]:\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] angrep, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] helse.\n\n[#!]Blomst-megadjevel[#]:\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] angrep, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] helse."
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Fremkalling av frøplante"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Fremkalling av frøplante"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Fremkalling av frøplante"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_enhanced_criticals.cupid",
+            "text": "Mer maksimal helse redusert med [#!]kritiske treff[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid",
+            "text": "Immun mot statuslidelser som påvirker [#!]helbredelse[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid",
+            "text": "Immunitet mot [#!]manareduksjoner[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid",
+            "text": "Immun mot statuslidelser som påvirker [#!]mana-generering[#]."
+          },
+          {
+            "key": "lottery.description.banner.seasonalpremiumsummon.lunarnewyear",
+            "text": "Få [#ffce60]10 lykkeånder[#] for hver fremkalling!"
+          },
+          {
+            "key": "promo.description.lottery_hero_valentines",
+            "text": "Sjekk ut [##elementgreen]{0}[#] og andre tidsbegrensede helter i Sesongfremkalling!"
+          },
+          {
+            "key": "pvp_rules.newevent.started.description.valentines_brawl",
+            "text": "Helter i [#!]Cupido[#]-familien mottar forskjellige fordeler i raidkamp:"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay",
+            "text": "Påfører {DAMAGE} % skade på målet og {MAXHITS} tilfeldige fiender.\n[*]Fremkaller en [#!]frøplante-djevel[#] for hver fiende som blir truffet."
+          },
+          {
+            "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
+            "text": "Ved slutten av hver tur påføres en tilfeldig fiende {POWER} % skade, og de øker helsen sin med {DAMAGEABSORB} % av total skade påført."
           }
         ]
       },
@@ -154,6 +1734,94 @@
           {
             "key": "odds.hero_lottery_hero_lunar_new_year_2026_seasonal_5",
             "text": "[#ffc3ff]Legendarische[#] Maanjaarheld (niet-uitgelicht): [#!]{0}%[#]"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra",
+            "text": "De [#!]zaailingdemon[#] ontwikkelt zich tot een [#!]scheutdemon[#] na {EVOLVINGFAMILIAR1EVOLVETURNS} beurten.\n[*]De [#!]scheutdemon[#] ontwikkelt zich tot een [#!]bloesemmegademon[#] na {EVOLVINGFAMILIAR2EVOLVETURNS} beurten.\n\n[*] [#!]Zaailingdemon[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]% aanvalskracht, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]% gezondheid\n[*] [#!]Scheutdemon[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] aanvalskracht, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] gezondheid\n[*] [#!]Bloesemmegademon[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] aanvalskracht, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] gezondheid\n\n[*]Een demon brengt zijn doelwit elke beurt schade toe. Een demon verdwijnt na genezing te hebben geabsorbeerd. De vereiste hoeveelheid genezing hangt af van de maximale gezondheid van het doelwit.\n[*]Elke keer dat demonen gezondheid absorberen, wordt hun evolutie vertraagd met {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} beurt."
+          },
+          {
+            "key": "recent_activity.source.purchasegems_direct_checkout",
+            "text": "{0} gekocht met DirectPay"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
+            "text": "[#!]Cumulatief +{BASESTACKCOUNT} (max. {MAXSTACK}):[#] alle schade die de spreukspreker en bondgenoten in de buurt oplopen, wordt verhoogd met {DAMAGEMODIFIER}%."
+          },
+          {
+            "key": "lottery.description.summon_chest_promo_challenge",
+            "text": "Met dappere groenten met evoluerende demonen!"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Roept elke beurt een [#!]zaailingdemon[#] aan voor een willekeurige vijand.\n[*]De [#!]zaailingdemon[#] ontwikkelt zich tot een [#!]scheutdemon[#] na {EVOLVINGFAMILIAR1EVOLVETURNS} beurten.\n[*]De [#!]scheutdemon[#] ontwikkelt zich tot een [#!]bloesemmegademon[#] na {EVOLVINGFAMILIAR2EVOLVETURNS} beurten.\n[*]Elke keer dat demonen gezondheid absorberen, wordt hun evolutie vertraagd met {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} beurt.\n\n[#!]Zaailingdemon[#]: \n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] aanval, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] gezondheid.\n\n[#!]Scheutdemon[#]: \n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] aanval, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] gezondheid.\n\n[#!]Bloesemmegademon[#]: \n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] aanval, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] gezondheid."
+          },
+          {
+            "key": "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold",
+            "text": "Als het doelwit minder dan {THRESHOLD1}% gezondheid heeft voordat het schade lijdt, wordt een andere vijand die minder dan {THRESHOLD2}% gezondheid heeft voordat het schade lijdt door deze speciale vaardigheid. Als geen van de andere vijanden minder dan {THRESHOLD3}% schade heeft, wordt een willekeurige vijand het doelwit. De schade wordt minder bij iedere achtereenvolgende treffer. Iedere vijand kan maar één keer worden getroffen."
+          },
+          {
+            "key": "rare_monster.spawn_chance.lunarnewyearrare.message.zero_chance_disclaimer",
+            "text": "Je hebt alle [#!]fortuindraken[#] in deze opdracht verslagen."
+          },
+          {
+            "key": "brawl.bonus.cupid.attackmultiplier.defensemultiplier.healthmultiplier.managenerationmultiplier",
+            "text": "[*]Meer aanval, verdediging, gezondheid en manarecuperatie."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Roept elke beurt een [#!]zaailingdemon[#] aan voor een willekeurige vijand. Deze passieve vaardigheid wordt slechts één keer per beurt per team geactiveerd\n[*]De [#!]zaailingdemon[#] ontwikkelt zich tot een [#!]scheutdemon[#] na {EVOLVINGFAMILIAR1EVOLVETURNS} beurten.\n[*]De [#!]scheutdemon[#] ontwikkelt zich tot een [#!]bloesemmegademon[#] na {EVOLVINGFAMILIAR2EVOLVETURNS} beurten.\n[*]Elke keer dat demonen gezondheid absorberen, wordt hun evolutie vertraagd met {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} beurt.\n\n[#!]Zaailingdemon[#]: \n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] aanval, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] gezondheid.\n\n[#!]Scheutdemon[#]: \n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] aanval, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] gezondheid.\n\n[#!]Bloesemmegademon[#]: \n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] aanval, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] gezondheid."
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Roept elke beurt een [#!]zaailingdemon[#] aan voor een willekeurige vijand. Deze passieve vaardigheid wordt slechts één keer per beurt per team geactiveerd\n[*]De [#!]zaailingdemon[#] ontwikkelt zich tot een [#!]scheutdemon[#] na {EVOLVINGFAMILIAR1EVOLVETURNS} beurten.\n[*]De [#!]scheutdemon[#] ontwikkelt zich tot een [#!]bloesemmegademon[#] na {EVOLVINGFAMILIAR2EVOLVETURNS} beurten.\n[*]Elke keer dat demonen gezondheid absorberen, wordt hun evolutie vertraagd met {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} beurt.\n\n[#!]Zaailingdemon[#]: \n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] aanval, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] gezondheid.\n\n[#!]Scheutdemon[#]: \n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] aanval, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] gezondheid.\n\n[#!]Bloesemmegademon[#]: \n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] aanval, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] gezondheid."
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "Zaailingaanroeper"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "Zaailingaanroeper"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "Zaailingaanroeper"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_enhanced_criticals.cupid",
+            "text": "Meer maximale gezondheid wordt verlaagd met [#!]kritieke treffers[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid",
+            "text": "Immuniteit voor statusaandoeningen die invloed hebben op de [#!]genezing[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid",
+            "text": "Immuniteit voor [#!]manareducties[#]."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid",
+            "text": "Immuniteit voor statusaandoeningen die invloed hebben op de [#!]manarecuperatie[#]."
+          },
+          {
+            "key": "lottery.description.banner.seasonalpremiumsummon.lunarnewyear",
+            "text": "Ontvang bij iedere aanroep [#ffce60]10 fortuingeesten[#]!"
+          },
+          {
+            "key": "promo.description.lottery_hero_valentines",
+            "text": "Bekijk [##elementgreen]{0}[#] en andere tijdelijk beschikbare helden in de seizoensaanroep!"
+          },
+          {
+            "key": "pvp_rules.newevent.started.description.valentines_brawl",
+            "text": "Helden van de [#!]Cupido[#]-familie ontvangen verschillende voordelen in de overvalsknokpartij:"
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay",
+            "text": "Brengt {DAMAGE}% schade toe aan het doelwit en {MAXHITS} willekeurige vijanden.\n[*]Roept een [#!]zaailingdemon[#] aan voor elke geraakte vijand."
+          },
+          {
+            "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
+            "text": "Na afloop van elke beurt brengt {POWER}% schade toe aan een willekeurige vijand en verhoogt de eigen gezondheid voor {DAMAGEABSORB}% van de toegebrachte schade."
           }
         ]
       },
@@ -162,10 +1830,98 @@
           {
             "key": "odds.hero_lottery_hero_lunar_new_year_2026_seasonal_5",
             "text": "[#ffc3ff]传奇[#]农历生肖英雄（非精选）：[#!]{0}%[#]"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra",
+            "text": "[*]{EVOLVINGFAMILIAR1EVOLVETURNS}回合后，[#!]幼苗恶魔[#]进化为[#!]萌芽恶魔[#]。\n[*]{EVOLVINGFAMILIAR2EVOLVETURNS}回合后，[#!]萌芽恶魔[#]进化为[#!]鲜花超级恶魔[#]。\n\n[*] [#!]幼苗恶魔[#]：[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]生命值。\n[*] [#!]萌芽恶魔[#]：[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]生命值。\n[*] [#!]鲜花超级恶魔[#]：[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]生命值。\n\n[*]恶魔每回合对其目标造成伤害，且吸收治疗后便会消失。吸收的治疗量取决于目标的最大生命值。\n[*]恶魔每次吸收治疗，其进化都会延缓{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。"
+          },
+          {
+            "key": "recent_activity.source.purchasegems_direct_checkout",
+            "text": "已使用直接付款购买{0}"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
+            "text": "[#!]叠加+{BASESTACKCOUNT}（最多：{MAXSTACK}层）：[#]施法者和附近盟友受到的所有伤害增加{DAMAGEMODIFIER}%。"
+          },
+          {
+            "key": "lottery.description.summon_chest_promo_challenge",
+            "text": "拥有进化恶魔的英勇植物！"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "每回合为一名随机敌人召唤一个[#!]幼苗恶魔[#]。\n[*]{EVOLVINGFAMILIAR1EVOLVETURNS}回合后，[#!]幼苗恶魔[#]进化为[#!]萌芽恶魔[#]。\n[*]{EVOLVINGFAMILIAR2EVOLVETURNS}回合后，[#!]萌芽恶魔[#]进化为[#!]鲜花超级恶魔[#]。\n\n[#!]幼苗恶魔[#]：\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]生命值。\n[*]恶魔每次吸收治疗时，其进化将延迟{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。\n\n[#!]萌芽恶魔[#]：\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]生命值。\n\n[#!]鲜花超级恶魔[#]：\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]生命值。"
+          },
+          {
+            "key": "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold",
+            "text": "若目标在受到伤害前生命值低于{THRESHOLD1}%，则多瞄准一名在受到此特殊技能伤害前生命值低于{THRESHOLD2}%的敌人。若其他敌人的生命都在{THRESHOLD3}%以上，则瞄准一名随机敌人。每下攻击的伤害都会递减。每个敌人只能被击中一次。"
+          },
+          {
+            "key": "rare_monster.spawn_chance.lunarnewyearrare.message.zero_chance_disclaimer",
+            "text": "你已击败此任务中的所有[#!]幸运巨龙[#]。"
+          },
+          {
+            "key": "brawl.bonus.cupid.attackmultiplier.defensemultiplier.healthmultiplier.managenerationmultiplier",
+            "text": "[*]攻击、防御、生命和法力生成都得到提升。"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "每回合为一名随机敌人召唤一个[#!]幼苗恶魔[#]。该被动技能每个战队每回合只会触发一次。\n[*]{EVOLVINGFAMILIAR1EVOLVETURNS}回合后，[#!]幼苗恶魔[#]进化为[#!]萌芽恶魔[#]。\n[*]{EVOLVINGFAMILIAR2EVOLVETURNS}回合后，[#!]萌芽恶魔[#]进化为[#!]鲜花超级恶魔[#]。\n\n[#!]幼苗恶魔[#]：\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]生命值。\n[*]恶魔每次吸收治疗时，其进化将延迟{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。\n\n[#!]萌芽恶魔[#]：\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]生命值。\n\n[#!]鲜花超级恶魔[#]：\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]生命值。"
+          },
+          {
+            "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "每回合为一名随机敌人召唤一个[#!]幼苗恶魔[#]。该被动技能每个战队每回合只会触发一次。\n[*]{EVOLVINGFAMILIAR1EVOLVETURNS}回合后，[#!]幼苗恶魔[#]进化为[#!]萌芽恶魔[#]。\n[*]{EVOLVINGFAMILIAR2EVOLVETURNS}回合后，[#!]萌芽恶魔[#]进化为[#!]鲜花超级恶魔[#]。\n\n[#!]幼苗恶魔[#]：\n[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]生命值。\n[*]恶魔每次吸收治疗时，其进化将延迟{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。\n\n[#!]萌芽恶魔[#]：\n[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]生命值。\n\n[#!]鲜花超级恶魔[#]：\n[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]生命值。"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
+            "text": "幼苗召唤师"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn",
+            "text": "幼苗召唤师"
+          },
+          {
+            "key": "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn",
+            "text": "幼苗召唤师"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_enhanced_criticals.cupid",
+            "text": "[#!]暴击[#]将进一步降低最大生命值。"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_healing_ailments.side.both.buffcategory.statuseffectdebuffs.tags.healeffect.affectedfamilies.cupid",
+            "text": "免疫影响[#!]治疗量[#]的状态异常。"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_reductions.side.both.affectedfamilies.cupid",
+            "text": "对[#!]法力减损[#]免疫。"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_mana_status_effects.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.affectedfamilies.cupid",
+            "text": "免疫影响[#!]法力生成[#]的状态异常。"
+          },
+          {
+            "key": "lottery.description.banner.seasonalpremiumsummon.lunarnewyear",
+            "text": "每次召唤可获得[#ffce60]10个幸运之灵[#]！"
+          },
+          {
+            "key": "promo.description.lottery_hero_valentines",
+            "text": "查看季节召唤中的[##elementgreen]{0}[#]与其他限时英雄！"
+          },
+          {
+            "key": "pvp_rules.newevent.started.description.valentines_brawl",
+            "text": "[#!]爱神[#]家族的英雄在突袭乱斗中获得多种加成："
+          },
+          {
+            "key": "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay",
+            "text": "对目标和随机{MAXHITS}名敌人造成{DAMAGE}%伤害。\n[*]在受到伤害的敌人处召唤[#!]幼苗恶魔[#]。"
+          },
+          {
+            "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
+            "text": "每回合结束时，对一名随机敌人造成{POWER}%伤害，并为自身提高等同于总伤害值{DAMAGEABSORB}%的生命值。"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 3200425824
+  "languageOverridesConfigId": 2723277471
 }

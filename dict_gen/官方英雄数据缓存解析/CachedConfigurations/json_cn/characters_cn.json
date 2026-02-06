@@ -22515,7 +22515,7 @@
       "molten_core_costume",
       "resist_burn_with_health_and_mana_boost_costume"
     ],
-    "classType": "游侠",
+    "classType": "圣骑士",
     "aetherGift": "Mana Boost",
     "rarity": 5,
     "specialId": "皇家枪锋",
@@ -30297,7 +30297,7 @@
     "baseDefense": 611,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "summon_seedling_parasite_per_turn_veggie",
+      "summon_seedling_parasite_with_delay",
       "resist_special_blocking_with_health_boost_and_mana"
     ],
     "classType": "野蛮人",
@@ -30316,7 +30316,7 @@
     "baseDefense": 606,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "summon_seedling_parasite_per_turn_veggie",
+      "summon_seedling_parasite_with_delay",
       "resist_special_blocking_with_health_boost_and_mana"
     ],
     "classType": "圣骑士",
@@ -30515,7 +30515,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "恶毒打击",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-11 07:00:00",
     "origin": "盟约召唤"
   },
   "construct_sylosis": {
@@ -32075,7 +32075,7 @@
     ],
     "rarity": 5,
     "specialId": "冥界凝视",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-10 07:00:00",
     "origin": "魔法高塔",
     "parentHeroId": "杰特"
   },
@@ -32135,7 +32135,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "英姿粉碎",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-14 07:00:00",
     "origin": "Season1",
     "parentHeroId": "马里亚娜"
   },
@@ -32155,7 +32155,7 @@
     "aetherGift": "Counterattack",
     "rarity": 5,
     "specialId": "英姿劈砍",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-14 07:00:00",
     "origin": "Season1",
     "parentHeroId": "莱昂尼达斯"
   },
@@ -32175,7 +32175,7 @@
     "aetherGift": "Counterattack",
     "rarity": 4,
     "specialId": "英姿之刃斩击",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-14 07:00:00",
     "origin": "Season1",
     "parentHeroId": "丽秀"
   },
@@ -32195,7 +32195,7 @@
     "aetherGift": "Defense Up",
     "rarity": 3,
     "specialId": "英姿狂怒",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-14 07:00:00",
     "origin": "Season1",
     "parentHeroId": "布里恩妮"
   },
@@ -32634,7 +32634,7 @@
     "aetherGift": "Regen",
     "rarity": 5,
     "specialId": "青翠陷阱",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-16 07:00:00",
     "origin": "TitanHunter"
   },
   "magic_carpet_amelia": {
@@ -32714,7 +32714,7 @@
     "aetherGift": "Special Boost",
     "rarity": 5,
     "specialId": "永恒之爱",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-10 07:00:00",
     "origin": "魔法高塔"
   },
   "mahayoddha_veer": {
@@ -33018,7 +33018,7 @@
     "aetherGift": "Dodge",
     "rarity": 5,
     "specialId": "暗星齐射",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-15 07:00:00",
     "origin": "星体位面"
   },
   "astral_demon_zondalath": {
@@ -33323,9 +33323,9 @@
     "id": "泽纳斯",
     "element": "绿",
     "family": "学院家族",
-    "baseHealth": 1108,
-    "baseAttack": 636,
-    "baseDefense": 622,
+    "baseHealth": 1114,
+    "baseAttack": 647,
+    "baseDefense": 633,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "revive_in_alternative_form_with_insanity_chance"
@@ -33400,7 +33400,7 @@
     "baseDefense": 628,
     "manaSpeedId": "慢",
     "passiveSkills": [
-      "summon_seedling_parasite_per_turn_shared_with_delay_veggie",
+      "summon_seedling_parasite_with_delay",
       "resist_special_blocking_with_health_boost_and_mana"
     ],
     "classType": "战士",
@@ -33414,12 +33414,12 @@
     "id": "因迪冈",
     "element": "蓝",
     "family": "英勇植物家族",
-    "baseHealth": 1102,
-    "baseAttack": 643,
-    "baseDefense": 604,
+    "baseHealth": 1111,
+    "baseAttack": 655,
+    "baseDefense": 626,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "summon_seedling_parasite_per_turn_shared_with_delay_veggie",
+      "summon_seedling_parasite_with_delay",
       "resist_special_blocking_with_health_boost_and_mana"
     ],
     "classType": "僧侣",
@@ -33433,12 +33433,12 @@
     "id": "布罗瑟夫",
     "element": "绿",
     "family": "英勇植物家族",
-    "baseHealth": 1105,
-    "baseAttack": 622,
-    "baseDefense": 623,
+    "baseHealth": 1114,
+    "baseAttack": 641,
+    "baseDefense": 642,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "summon_seedling_parasite_per_turn_shared_with_delay_veggie",
+      "summon_seedling_parasite_with_delay",
       "resist_special_blocking_with_health_boost_and_mana"
     ],
     "classType": "德鲁伊",
@@ -33452,9 +33452,9 @@
     "id": "派能",
     "element": "黄",
     "family": "英勇植物家族",
-    "baseHealth": 603,
-    "baseAttack": 402,
-    "baseDefense": 385,
+    "baseHealth": 612,
+    "baseAttack": 405,
+    "baseDefense": 388,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "summon_seedling_parasite_per_turn_shared_with_delay_epic_veggie",
@@ -33471,9 +33471,9 @@
     "id": "迦勒",
     "element": "蓝",
     "family": "英勇植物家族",
-    "baseHealth": 519,
-    "baseAttack": 325,
-    "baseDefense": 323,
+    "baseHealth": 510,
+    "baseAttack": 322,
+    "baseDefense": 320,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "summon_seedling_parasite_per_turn_shared_with_delay_rare_veggie",

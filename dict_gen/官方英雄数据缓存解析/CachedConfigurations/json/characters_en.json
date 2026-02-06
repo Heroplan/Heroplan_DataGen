@@ -22515,7 +22515,7 @@
       "molten_core_costume",
       "resist_burn_with_health_and_mana_boost_costume"
     ],
-    "classType": "Ranger",
+    "classType": "Paladin",
     "aetherGift": "Mana Boost",
     "rarity": 5,
     "specialId": "regal_spearhead",
@@ -30297,7 +30297,7 @@
     "baseDefense": 611,
     "manaSpeedId": "average",
     "passiveSkills": [
-      "summon_seedling_parasite_per_turn_veggie",
+      "summon_seedling_parasite_with_delay",
       "resist_special_blocking_with_health_boost_and_mana"
     ],
     "classType": "Barbarian",
@@ -30316,7 +30316,7 @@
     "baseDefense": 606,
     "manaSpeedId": "fast",
     "passiveSkills": [
-      "summon_seedling_parasite_per_turn_veggie",
+      "summon_seedling_parasite_with_delay",
       "resist_special_blocking_with_health_boost_and_mana"
     ],
     "classType": "Paladin",
@@ -30515,7 +30515,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "vicious_strike",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-11 07:00:00",
     "origin": "Covenant Summon"
   },
   "construct_sylosis": {
@@ -32075,7 +32075,7 @@
     ],
     "rarity": 5,
     "specialId": "gaze_of_the_underworld",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-10 07:00:00",
     "origin": "Tower of Magic",
     "parentHeroId": "magic_jett"
   },
@@ -32135,7 +32135,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "stylish_smash",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-14 07:00:00",
     "origin": "Season1",
     "parentHeroId": "nomad_female_captain"
   },
@@ -32155,7 +32155,7 @@
     "aetherGift": "Counterattack",
     "rarity": 5,
     "specialId": "stylish_cleave",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-14 07:00:00",
     "origin": "Season1",
     "parentHeroId": "oriental_warrior_king"
   },
@@ -32175,7 +32175,7 @@
     "aetherGift": "Counterattack",
     "rarity": 4,
     "specialId": "slash_of_stylish_blades",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-14 07:00:00",
     "origin": "Season1",
     "parentHeroId": "oriental_female_templar"
   },
@@ -32195,7 +32195,7 @@
     "aetherGift": "Defense Up",
     "rarity": 3,
     "specialId": "stylish_fury",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-14 07:00:00",
     "origin": "Season1",
     "parentHeroId": "forest_female_druid"
   },
@@ -32634,7 +32634,7 @@
     "aetherGift": "Regen",
     "rarity": 5,
     "specialId": "verdant_trap",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-16 07:00:00",
     "origin": "TitanHunter"
   },
   "magic_carpet_amelia": {
@@ -32714,7 +32714,7 @@
     "aetherGift": "Special Boost",
     "rarity": 5,
     "specialId": "eternal_ishq",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-10 07:00:00",
     "origin": "Tower of Magic"
   },
   "mahayoddha_veer": {
@@ -33018,7 +33018,7 @@
     "aetherGift": "Dodge",
     "rarity": 5,
     "specialId": "volley_of_dark_stars",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-15 07:00:00",
     "origin": "Astral Plane"
   },
   "astral_demon_zondalath": {
@@ -33323,9 +33323,9 @@
     "id": "Expert Mineralogist",
     "element": "Green",
     "family": "institute",
-    "baseHealth": 1108,
-    "baseAttack": 636,
-    "baseDefense": 622,
+    "baseHealth": 1114,
+    "baseAttack": 647,
+    "baseDefense": 633,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "revive_in_alternative_form_with_insanity_chance"
@@ -33400,7 +33400,7 @@
     "baseDefense": 628,
     "manaSpeedId": "slow",
     "passiveSkills": [
-      "summon_seedling_parasite_per_turn_shared_with_delay_veggie",
+      "summon_seedling_parasite_with_delay",
       "resist_special_blocking_with_health_boost_and_mana"
     ],
     "classType": "Fighter",
@@ -33414,12 +33414,12 @@
     "id": "Furious Mushroom Champion",
     "element": "Blue",
     "family": "vegetable",
-    "baseHealth": 1102,
-    "baseAttack": 643,
-    "baseDefense": 604,
+    "baseHealth": 1111,
+    "baseAttack": 655,
+    "baseDefense": 626,
     "manaSpeedId": "average",
     "passiveSkills": [
-      "summon_seedling_parasite_per_turn_shared_with_delay_veggie",
+      "summon_seedling_parasite_with_delay",
       "resist_special_blocking_with_health_boost_and_mana"
     ],
     "classType": "Monk",
@@ -33433,12 +33433,12 @@
     "id": "Broccoli Shaman",
     "element": "Green",
     "family": "vegetable",
-    "baseHealth": 1105,
-    "baseAttack": 622,
-    "baseDefense": 623,
+    "baseHealth": 1114,
+    "baseAttack": 641,
+    "baseDefense": 642,
     "manaSpeedId": "fast",
     "passiveSkills": [
-      "summon_seedling_parasite_per_turn_shared_with_delay_veggie",
+      "summon_seedling_parasite_with_delay",
       "resist_special_blocking_with_health_boost_and_mana"
     ],
     "classType": "Druid",
@@ -33452,9 +33452,9 @@
     "id": "Pineapple Prodigy",
     "element": "Yellow",
     "family": "vegetable",
-    "baseHealth": 603,
-    "baseAttack": 402,
-    "baseDefense": 385,
+    "baseHealth": 612,
+    "baseAttack": 405,
+    "baseDefense": 388,
     "manaSpeedId": "average",
     "passiveSkills": [
       "summon_seedling_parasite_per_turn_shared_with_delay_epic_veggie",
@@ -33471,9 +33471,9 @@
     "id": "Cabbage Soldier",
     "element": "Blue",
     "family": "vegetable",
-    "baseHealth": 519,
-    "baseAttack": 325,
-    "baseDefense": 323,
+    "baseHealth": 510,
+    "baseAttack": 322,
+    "baseDefense": 320,
     "manaSpeedId": "average",
     "passiveSkills": [
       "summon_seedling_parasite_per_turn_shared_with_delay_rare_veggie",

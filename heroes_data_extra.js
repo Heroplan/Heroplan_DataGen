@@ -39069,7 +39069,7 @@ window.allHeroesExtra = [
         "baseHealth": 1085,
         "specialId": "guard_the_garden",
         "passiveSkills": [
-            "summon_seedling_parasite_per_turn_veggie",
+            "summon_seedling_parasite_with_delay",
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "family": "vegetable"
@@ -39095,7 +39095,7 @@ window.allHeroesExtra = [
         "baseHealth": 1055,
         "specialId": "capsicum_charge",
         "passiveSkills": [
-            "summon_seedling_parasite_per_turn_veggie",
+            "summon_seedling_parasite_with_delay",
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "family": "vegetable"
@@ -40245,9 +40245,9 @@ window.allHeroesExtra = [
             "resist_burn_with_health_and_mana_boost_costume"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "7%",
-        "defenseBonus": "7%",
-        "healthBonus": "9%",
+        "attackBonus": "10%",
+        "defenseBonus": "10%",
+        "healthBonus": "11%",
         "manaBonus": "5%",
         "family": "nidavellir"
     },
@@ -40281,9 +40281,9 @@ window.allHeroesExtra = [
             "resist_burn_with_health_and_mana_boost_costume"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "7%",
-        "defenseBonus": "7%",
-        "healthBonus": "9%",
+        "attackBonus": "10%",
+        "defenseBonus": "10%",
+        "healthBonus": "11%",
         "manaBonus": "5%",
         "family": "nidavellir"
     },
@@ -43704,9 +43704,9 @@ window.allHeroesExtra = [
             "Debuffers (ATK)"
         ],
         "heroId": "vegetable_caleb",
-        "baseAttack": 325,
-        "baseDefense": 323,
-        "baseHealth": 519,
+        "baseAttack": 322,
+        "baseDefense": 320,
+        "baseHealth": 510,
         "specialId": "cabbage_barrage",
         "passiveSkills": [
             "summon_seedling_parasite_per_turn_shared_with_delay_rare_veggie",
@@ -43732,12 +43732,12 @@ window.allHeroesExtra = [
             "Stacking Heroes"
         ],
         "heroId": "vegetable_indigon",
-        "baseAttack": 643,
-        "baseDefense": 604,
-        "baseHealth": 1102,
+        "baseAttack": 655,
+        "baseDefense": 626,
+        "baseHealth": 1111,
         "specialId": "brand_of_reckoning",
         "passiveSkills": [
-            "summon_seedling_parasite_per_turn_shared_with_delay_veggie",
+            "summon_seedling_parasite_with_delay",
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "family": "vegetable"
@@ -43758,12 +43758,12 @@ window.allHeroesExtra = [
             "Ability Scores Modifiers"
         ],
         "heroId": "vegetable_broseph",
-        "baseAttack": 622,
-        "baseDefense": 623,
-        "baseHealth": 1105,
+        "baseAttack": 641,
+        "baseDefense": 642,
+        "baseHealth": 1114,
         "specialId": "superfood_purification",
         "passiveSkills": [
-            "summon_seedling_parasite_per_turn_shared_with_delay_veggie",
+            "summon_seedling_parasite_with_delay",
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "family": "vegetable"
@@ -43785,9 +43785,9 @@ window.allHeroesExtra = [
             "Stacking Heroes"
         ],
         "heroId": "vegetable_pineon",
-        "baseAttack": 402,
-        "baseDefense": 385,
-        "baseHealth": 603,
+        "baseAttack": 405,
+        "baseDefense": 388,
+        "baseHealth": 612,
         "specialId": "tangy_torture",
         "passiveSkills": [
             "summon_seedling_parasite_per_turn_shared_with_delay_epic_veggie",
