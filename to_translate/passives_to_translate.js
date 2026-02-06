@@ -64,7 +64,7 @@ const allTranslations =
         "name": "Caleb",
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
-            "Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy.",
+            "Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy. This Passive Skill only activates once per turn for each team.",
             "* The Seedling Fiend evolves into a Sprout Fiend after 2 turns.",
             "* The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.",
             "* The evolution of the Fiends is delayed by 1 turn each time they absorb healing.",
@@ -10583,7 +10583,7 @@ const allTranslations =
         "name": "Pineon",
         "passives": [
             "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
-            "Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy.",
+            "Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy. This Passive Skill only activates once per turn for each team.",
             "* The Seedling Fiend evolves into a Sprout Fiend after 2 turns.",
             "* The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.",
             "* The evolution of the Fiends is delayed by 1 turn each time they absorb healing.",

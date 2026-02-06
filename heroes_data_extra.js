@@ -43697,7 +43697,12 @@ window.allHeroesExtra = [
         "speed": "average",
         "Release date": "2026-02-04",
         "AetherPower": "Dodge",
-        "skill_types": [],
+        "skill_types": [
+            "Fiends Summoners",
+            "Snipers",
+            "Extra Damage Dealers",
+            "Debuffers (ATK)"
+        ],
         "heroId": "vegetable_caleb",
         "baseAttack": 325,
         "baseDefense": 323,
@@ -43718,7 +43723,14 @@ window.allHeroesExtra = [
         "speed": "average",
         "Release date": "2026-02-04",
         "AetherPower": "Attack Up",
-        "skill_types": [],
+        "skill_types": [
+            "Fiends Summoners",
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Debuffers (DEF)",
+            "Mana Generation Buffers",
+            "Stacking Heroes"
+        ],
         "heroId": "vegetable_indigon",
         "baseAttack": 643,
         "baseDefense": 604,
@@ -43739,7 +43751,12 @@ window.allHeroesExtra = [
         "speed": "fast",
         "Release date": "2026-02-04",
         "AetherPower": "Ailment Immunity",
-        "skill_types": [],
+        "skill_types": [
+            "Fiends Summoners",
+            "Healers",
+            "Cleansers",
+            "Ability Scores Modifiers"
+        ],
         "heroId": "vegetable_broseph",
         "baseAttack": 622,
         "baseDefense": 623,
@@ -43760,7 +43777,13 @@ window.allHeroesExtra = [
         "speed": "average",
         "Release date": "2026-02-04",
         "AetherPower": "Special Boost",
-        "skill_types": [],
+        "skill_types": [
+            "Fiends Summoners",
+            "Snipers",
+            "Dispellers",
+            "Mana Generation Buffers",
+            "Stacking Heroes"
+        ],
         "heroId": "vegetable_pineon",
         "baseAttack": 402,
         "baseDefense": 385,

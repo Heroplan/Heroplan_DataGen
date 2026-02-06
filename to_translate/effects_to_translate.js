@@ -4562,8 +4562,7 @@ const allTranslations =
         "name": "Broseph",
         "effects": [
             "Recovers 50% health for the caster and nearby allies.",
-            "Uproots debuffs from the caster and nearby allies. (Uproot safely removes 2 status ailments, negative Stacks or Wither effects from each target. This includes uncleansable status ailments and dance effects. The caster receives 7% boosted health for each effect removed. Boosted health can exceed max HP. Safe cleanse bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate.",
-            "Wither effects are removed first. Other effects, the latest is removed first.)",
+            "Uproots debuffs from the caster and nearby allies. (Uproot safely removes 2 status ailments, negative Stacks or Wither effects from each target. This includes uncleansable status ailments and dance effects. The caster receives 7% boosted health for each effect removed. Boosted health can exceed max HP. Safe cleanse bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate. Wither effects are removed first. Other effects, the latest is removed first.)",
             "Growth: All allies get 125 attack and 125 defense."
         ]
     },
