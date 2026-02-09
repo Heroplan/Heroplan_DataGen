@@ -11,6 +11,7 @@ family_name_corrections = {
     "magiccarpet": "magic_carpet",
     "outlaws": "outlaw",
     "springvale": "easter",
+    "corellia": "pirate",
     "morlovia": "halloween",
     "fleurdesang": "fleur_de_sang",
     "christmas": "winter",

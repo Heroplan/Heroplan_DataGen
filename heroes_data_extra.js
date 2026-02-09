@@ -43820,5 +43820,34 @@ window.allHeroesExtra = [
             "revive_in_alternative_form_with_insanity_chance"
         ],
         "family": "institute"
+    },
+    {
+        "name": "Aether Mimic Dark",
+        "fancy name": "Starved Storage of Rods",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
+        "Release date": "2026-02-08",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "Snipers",
+            "Healers (Special)",
+            "Health Boosters",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers"
+        ],
+        "heroId": "mimic_aether_purple",
+        "baseAttack": 647,
+        "baseDefense": 647,
+        "baseHealth": 1097,
+        "specialId": "aether_mimic_bite_purple",
+        "passiveSkills": [
+            "mimic_aether_purple",
+            "never_miss_special"
+        ],
+        "family": "mimic"
     }
 ];

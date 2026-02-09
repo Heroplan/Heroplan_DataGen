@@ -2788,6 +2788,12 @@
             "endTime": "2026-01-28 07:00:00"
           },
           {
+            "id": "SecretSummonAetherMimicPurple",
+            "type": "MysteryHero",
+            "startTime": "2026-02-08 07:00:00",
+            "endTime": "2026-02-09 07:00:00"
+          },
+          {
             "id": "LunarNewYear2026",
             "type": "Seasonal",
             "eventBonus": "lunar_new_year_bonus",
@@ -3904,7 +3910,7 @@
               "featuredCharacters": [
                 "magic_carpet_kesha",
                 "magic_jett_costume_eyes",
-                "magic_carpet_ragrim"
+                "magic_carpet_shareef"
               ],
               "startTime": "2026-02-10 07:00:00",
               "endTime": "2026-02-15 07:00:00"
@@ -82923,6 +82929,51 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "magic_feb_2026",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 290,
+                    "defenseBonusPerMil": 290,
+                    "healthBonusPerMil": 290,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 320,
+                    "defenseBonusPerMil": 320,
+                    "healthBonusPerMil": 320,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 350,
+                    "defenseBonusPerMil": 350,
+                    "healthBonusPerMil": 350,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 380,
+                    "defenseBonusPerMil": 380,
+                    "healthBonusPerMil": 390,
+                    "manaBonusPerMil": 10
+                  }
+                ]
+              }
+            ]
           }
         ],
         "enabled": true
@@ -84895,5 +84946,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1374595392
+  "otherConfigId": 404975167
 }

@@ -144,8 +144,6 @@ def process_hero_data(hero_id_key, hero_data, name_dict, fancy_name_dict, family
         print(f"  警告: 无法为 {hero_id_key} 找到fancy_name，使用ID作为回退")
         fancy_name = hero_data.get("id", hero_id_key)  # 回退到characters_en.json中的id
     
-    #print(f"  找到名称: {name}, fancy_name: {fancy_name}")
-    
     # 构建新的英雄数据
     new_hero = {
         "name": name,
@@ -160,25 +158,29 @@ def process_hero_data(hero_id_key, hero_data, name_dict, fancy_name_dict, family
         "Lottery_Only": 1
     }
     return new_hero
-
-# 生成新的英雄列表
-def generate_heroes_data(file_1, file_2, name_dict, fancy_name_dict, family_dict):
-    print("开始生成英雄数据...")
-
+# 新增函数：解析日期字符串用于与当前日期比较
+def parse_date_for_comparison(date_str):
+    if not date_str:
+        return datetime.min  # 将空日期视为很早的日期，放入future_heroes_list
+    try:
+        return datetime.strptime(date_str, "%Y-%m-%d %H:%M:%S")
+    except ValueError:
+        return datetime.min  # 格式错误的日期视为很早的日期，放入future_heroes_list
+    
+# 生成新的英雄列表 (单文件，按日期年份分类)
+def generate_heroes_data_single_file(single_file, name_dict, fancy_name_dict, family_dict):
+    print("开始从单个文件生成英雄数据...")
+    
     # 加载文件
-    chars_1 = load_json(file_1)
-    chars_2 = load_json(file_2)
-
-    # 生成三份统计
-    current_unique_heroes = []  # 年份<2200的独有项
-    future_unique_heroes = []   # 年份>=2200的独有项
-    future_all_heroes = []      # 年份>=2200的所有项
+    all_heroes = load_json(single_file)
+    
+    new_heroes_list = []   # 年份 < 2200
+    future_heroes_list = []  # 年份 >= 2200
     
     # 处理所有英雄
-    for hero_id_key, hero_data in chars_2.items():
+    for hero_id_key, hero_data in all_heroes.items():
         can_be_received_date = hero_data.get("canBeReceivedDate", "")
         is_future = is_year_gte_2200(can_be_received_date)
-        is_unique = hero_id_key not in chars_1
         
         # 处理英雄数据
         hero_processed = process_hero_data(hero_id_key, hero_data, name_dict, fancy_name_dict, family_dict)
@@ -187,19 +189,16 @@ def generate_heroes_data(file_1, file_2, name_dict, fancy_name_dict, family_dict
             
         if is_future:
             # 未来英雄：年份>=2200
-            if is_unique:
-                # 添加到未来独有列表
-                future_unique_heroes.append(hero_processed)
-            
-            # 添加到未来所有列表（无论是否独有）
-            future_all_heroes.append(hero_processed)
+            future_heroes_list.append(hero_processed)
         else:
-            # 当前英雄：年份<2200
-            if is_unique:
-                # 添加到当前独有列表
-                current_unique_heroes.append(hero_processed)
-    
-    return current_unique_heroes, future_unique_heroes, future_all_heroes
+            # 新英雄
+            now = datetime.now()
+            # 判断发布日期与当前日期的关系
+            target_date = parse_date_for_comparison(can_be_received_date)
+            if target_date > now:
+                # 新英雄：发布日期在当前日期之后
+                new_heroes_list.append(hero_processed)
+    return new_heroes_list, future_heroes_list
 
 # 保存数据到文件
 def save_heroes_data(heroes_list, output_file, list_type="英雄"):
@@ -222,34 +221,41 @@ def save_heroes_data(heroes_list, output_file, list_type="英雄"):
     print(f"{list_type}数据已生成并保存到 {output_file}")
     
     # 打印排序后的英雄列表
-    print(f"\n排序后的{list_type}列表:")
-    for hero in heroes_list:
-        date_str = hero.get("canBeReceivedDate", "无日期")
-        print(f"  {date_str}: {hero['name']} : {hero['fancy_name']} - {hero['color']} - {hero['star']} star - {hero['family']}")
+    #print(f"\n排序后的{list_type}列表:")
+    #for hero in heroes_list:
+        #date_str = hero.get("canBeReceivedDate", "无日期")
+        #print(f"  {date_str}: {hero['name']} : {hero['fancy_name']} - {hero['color']} - {hero['star']} star - {hero['family']}")
 
+# === 主程序开始 ===
 # 文件路径
-file_1 = './CachedConfigurations/json/characters_en.json'
-file_2 = 'T:/FileTemp/CachedConfigurations/json/characters_en.json'
+single_input_file = 'T:/FileTemp/CachedConfigurations/json/characters_en.json'  # 只读取这个文件
 name_dict_file = '../官方语言字典生成/generated_txt/heroes_name_en.txt'
 fancy_name_dict_file = '../官方语言字典生成/generated_txt/heroes_name_fancy_en.txt'
 family_dict_file = '../官方语言字典生成/generated_txt/family_title_en.txt'
-current_unique_output = 'new_heroes.json'  # 年份<2200的独有项
-future_unique_output = 'future_heroes.json'     # 年份>=2200的独有项
-future_all_output = 'future_heroes_all.json'         # 年份>=2200的所有项
 
-# 检查文件是否存在
+new_heroes_output = 'new_heroes.json'     # 未来英雄
+future_heroes_output = 'future_heroes.json'  # 年份 >= 2200
+
+# 检查主输入文件是否存在
+if not os.path.exists(single_input_file):
+    print(f"错误: 主输入文件不存在: {single_input_file}")
+    print(f"当前工作目录: {os.getcwd()}")
+    input("\n按任意键退出...")
+    exit(1)
+
+# 检查字典文件是否存在，并尝试调整路径
 for file_path, desc in [
     (name_dict_file, "名称字典"), 
     (fancy_name_dict_file, "Fancy名称字典"),
     (family_dict_file, "家族字典")
 ]:
     if not os.path.exists(file_path):
-        print(f"错误: {desc}文件不存在: {file_path}")
-        print(f"当前工作目录: {os.getcwd()}")
+        print(f"警告: {desc}文件不存在于指定路径: {file_path}")
+        print(f"正在尝试查找相对路径...")
         # 尝试相对路径
         alt_path = f'./官方语言字典生成/generated_txt/{os.path.basename(file_path)}'
         if os.path.exists(alt_path):
-            print(f"尝试使用路径: {alt_path}")
+            print(f"找到文件于: {alt_path}")
             if desc == "名称字典":
                 name_dict_file = alt_path
             elif desc == "Fancy名称字典":
@@ -257,7 +263,8 @@ for file_path, desc in [
             else:  # 家族字典
                 family_dict_file = alt_path
         else:
-            print(f"请确保文件路径正确，然后重试")
+            print(f"错误: 无法找到{desc}文件。请确保文件路径正确。")
+            input("\n按任意键退出...")
             exit(1)
 
 # 读取英雄名称字典文件
@@ -265,32 +272,20 @@ name_dict = load_name_dict(name_dict_file, prefix="heroes.name.")
 fancy_name_dict = load_name_dict(fancy_name_dict_file, prefix="heroes.name_fancy.")
 family_dict = load_family_dict(family_dict_file)
 
-# 打印字典中的一些示例
-print(f"\n名称字典包含 {len(name_dict)} 个条目")
-print(f"\nFancy名称字典包含 {len(fancy_name_dict)} 个条目")
-print(f"\n家族字典包含 {len(family_dict)} 个条目")
-print("家族字典示例:")
-for i, (key, value) in enumerate(list(family_dict.items())[:5]):
-    print(f"  {key}: {value}")
-
-# 生成英雄数据
-current_unique, future_unique, future_all = generate_heroes_data(
-    file_1, file_2, name_dict, fancy_name_dict, family_dict
+# 生成英雄数据 (单文件，按日期分类)
+new_heroes, future_heroes = generate_heroes_data_single_file(
+    single_input_file, name_dict, fancy_name_dict, family_dict
 )
 
-# 保存当前独有英雄（年份<2200的独有项）
-save_heroes_data(current_unique, current_unique_output, "当前独有英雄")
+# 保存新英雄 (年份 < 2200)
+save_heroes_data(new_heroes, new_heroes_output, "新英雄 (年份<2200)")
 
-# 保存未来独有英雄（年份>=2200的独有项）
-save_heroes_data(future_unique, future_unique_output, "未来独有英雄")
-
-# 保存未来所有英雄（年份>=2200的所有项）
-save_heroes_data(future_all, future_all_output, "未来所有英雄")
+# 保存未来英雄 (年份 >= 2200)
+save_heroes_data(future_heroes, future_heroes_output, "未来英雄 (年份>=2200)")
 
 print(f"\n=== 统计汇总 ===")
-print(f"当前独有英雄数量（年份<2200的独有项）: {len(current_unique)}")
-print(f"未来独有英雄数量（年份>=2200的独有项）: {len(future_unique)}")
-print(f"未来所有英雄数量（年份>=2200的所有项）: {len(future_all)}")
-print(f"未来重复英雄数量（未来所有-未来独有）: {len(future_all) - len(future_unique)}")
+print(f"新英雄数量 (年份<2200): {len(new_heroes)}")
+print(f"未来英雄数量 (年份>=2200): {len(future_heroes)}")
+print(f"英雄总数: {len(new_heroes) + len(future_heroes)}")
 
 input("\n按任意键退出...")

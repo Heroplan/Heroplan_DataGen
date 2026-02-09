@@ -23402,7 +23402,6 @@
           }
         ],
         "offerCategory": "Event",
-        "zyngaStoreEnabled": true,
         "productIntervalSeconds": 86400
       },
       {
@@ -80469,6 +80468,13 @@
         "endTime": "2026-02-10 06:30:00"
       },
       {
+        "id": "rosterexpansionoffer",
+        "slot": "LeftBottom",
+        "scheduledManually": true,
+        "startTime": "2026-02-09 07:00:00",
+        "endTime": "2026-02-10 07:00:00"
+      },
+      {
         "id": "triple_levelupsummon",
         "slot": "RightTop",
         "scheduledManually": true,
@@ -103101,6 +103107,188 @@
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup_summon_021626",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-16 07:00:00",
+            "endDate": "2026-02-17 07:00:00",
+            "featuredHeroes": [
+              "s5_hetepheres_costume_spa",
+              "s5_cleopatra_costume_feline"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup_summon_021726",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-17 07:00:00",
+            "endDate": "2026-02-18 07:00:00",
+            "featuredHeroes": [
+              "shadow_hysteria",
+              "shadow_gwendoline"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup_summon_021826",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-18 07:00:00",
+            "endDate": "2026-02-19 07:00:00",
+            "featuredHeroes": [
+              "shadow_rosanna",
+              "shadow_zavinia"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup_summon_021926",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-19 07:00:00",
+            "endDate": "2026-02-20 07:00:00",
+            "featuredHeroes": [
+              "shadow_omen",
+              "shadow_hunter"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup_summon_022026",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-20 07:00:00",
+            "endDate": "2026-02-21 07:00:00",
+            "featuredHeroes": [
+              "bard_dunnar_hart",
+              "villain_dark_lord_costume_astronomer"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup_summon_022126",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-21 07:00:00",
+            "endDate": "2026-02-22 07:00:00",
+            "featuredHeroes": [
+              "goblin_darkfeather",
+              "garrison_godfrey"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup_summon_022226",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-22 07:00:00",
+            "endDate": "2026-02-23 07:00:00",
+            "featuredHeroes": [
+              "kalevala_mother_lemminkainen",
+              "kalevala_suomuhauki"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup_summon_022326",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-23 07:00:00",
+            "endDate": "2026-02-24 07:00:00",
+            "featuredHeroes": [
+              "faun_philomena",
+              "faun_ysabel"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup_summon_022426",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-24 07:00:00",
+            "endDate": "2026-02-25 07:00:00",
+            "featuredHeroes": [
+              "magic_carpet_lando",
+              "magic_milena_costume_ice"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup_summon_022526",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-25 07:00:00",
+            "endDate": "2026-02-26 07:00:00",
+            "featuredHeroes": [
+              "magic_vaishali_costume_chef",
+              "magic_carpet_naeem"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup_summon_022626",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-26 07:00:00",
+            "endDate": "2026-02-27 07:00:00",
+            "featuredHeroes": [
+              "magic_carpet_zazha",
+              "magic_ray_costume_spiky"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup_summon_022726",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-27 07:00:00",
+            "endDate": "2026-02-28 07:00:00",
+            "featuredHeroes": [
+              "faun_isidore",
+              "faun_tamlin"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup_summon_022826",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-28 07:00:00",
+            "endDate": "2026-03-01 07:00:00",
+            "featuredHeroes": [
+              "faun_yolanda",
+              "faun_maud"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup_summon_030126",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-03-01 07:00:00",
+            "endDate": "2026-03-02 07:00:00",
+            "featuredHeroes": [
+              "shadow_rashan",
+              "shadow_abigail"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
           }
         ],
         "extraHeroPools": [
@@ -104873,5 +105061,5 @@
     ],
     "freeGiftIndicatorEnabled": true
   },
-  "shopConfigId": 3098123150
+  "shopConfigId": 1868470405
 }

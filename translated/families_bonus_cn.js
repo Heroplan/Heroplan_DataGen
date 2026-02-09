@@ -207,7 +207,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 21,
-        "name": "corellia",
+        "name": "pirate",
         "bonus": [
             "2 / 3 / 4 / 5 位独特英雄的加成：",
             "+3% / +6% / +10% / +15% 攻击力。",

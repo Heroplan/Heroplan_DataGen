@@ -207,7 +207,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 21,
-        "name": "corellia",
+        "name": "pirate",
         "bonus": [
             "Bonus for 2/3/4/5 Unique Heroes:",
             "+3%/+6%/+10%/+15% attack",

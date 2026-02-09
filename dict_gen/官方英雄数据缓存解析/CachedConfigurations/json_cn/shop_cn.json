@@ -23402,7 +23402,6 @@
           }
         ],
         "offerCategory": "Event",
-        "zyngaStoreEnabled": true,
         "productIntervalSeconds": 86400
       },
       {
@@ -80469,6 +80468,13 @@
         "endTime": "2026-02-10 06:30:00"
       },
       {
+        "id": "rosterexpansionoffer",
+        "slot": "LeftBottom",
+        "scheduledManually": true,
+        "startTime": "2026-02-09 07:00:00",
+        "endTime": "2026-02-10 07:00:00"
+      },
+      {
         "id": "triple_levelupsummon",
         "slot": "RightTop",
         "scheduledManually": true,
@@ -103101,6 +103107,188 @@
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "节选召唤",
+            "id": "pickup_summon_021626",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-16 07:00:00",
+            "endDate": "2026-02-17 07:00:00",
+            "featuredHeroes": [
+              "赫特费雷斯-水疗的斯芬克斯",
+              "克利奥帕特拉-猫法老"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "节选召唤",
+            "id": "pickup_summon_021726",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-17 07:00:00",
+            "endDate": "2026-02-18 07:00:00",
+            "featuredHeroes": [
+              "希丝特莉亚",
+              "格温多林"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "节选召唤",
+            "id": "pickup_summon_021826",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-18 07:00:00",
+            "endDate": "2026-02-19 07:00:00",
+            "featuredHeroes": [
+              "罗莎娜",
+              "扎维尼亚"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "节选召唤",
+            "id": "pickup_summon_021926",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-19 07:00:00",
+            "endDate": "2026-02-20 07:00:00",
+            "featuredHeroes": [
+              "奥门",
+              "狩猎者"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "节选召唤",
+            "id": "pickup_summon_022026",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-20 07:00:00",
+            "endDate": "2026-02-21 07:00:00",
+            "featuredHeroes": [
+              "邓纳·哈特",
+              "暗黑领主-卡莱姆多天文学者"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "节选召唤",
+            "id": "pickup_summon_022126",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-21 07:00:00",
+            "endDate": "2026-02-22 07:00:00",
+            "featuredHeroes": [
+              "暗羽",
+              "戈弗雷"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "节选召唤",
+            "id": "pickup_summon_022226",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-22 07:00:00",
+            "endDate": "2026-02-23 07:00:00",
+            "featuredHeroes": [
+              "勒明盖宁之母",
+              "鳞梭鱼"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "节选召唤",
+            "id": "pickup_summon_022326",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-23 07:00:00",
+            "endDate": "2026-02-24 07:00:00",
+            "featuredHeroes": [
+              "菲洛梅娜",
+              "伊莎贝尔"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "节选召唤",
+            "id": "pickup_summon_022426",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-24 07:00:00",
+            "endDate": "2026-02-25 07:00:00",
+            "featuredHeroes": [
+              "兰度",
+              "米莱娜-北极法术导师"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "节选召唤",
+            "id": "pickup_summon_022526",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-25 07:00:00",
+            "endDate": "2026-02-26 07:00:00",
+            "featuredHeroes": [
+              "吠舍离-秘派大师",
+              "纳伊姆"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "节选召唤",
+            "id": "pickup_summon_022626",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-26 07:00:00",
+            "endDate": "2026-02-27 07:00:00",
+            "featuredHeroes": [
+              "扎莎",
+              "雷-荆棘斗士"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "节选召唤",
+            "id": "pickup_summon_022726",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-27 07:00:00",
+            "endDate": "2026-02-28 07:00:00",
+            "featuredHeroes": [
+              "艾西多尔",
+              "塔姆林"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "节选召唤",
+            "id": "pickup_summon_022826",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-02-28 07:00:00",
+            "endDate": "2026-03-01 07:00:00",
+            "featuredHeroes": [
+              "约兰达",
+              "莫德"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "节选召唤",
+            "id": "pickup_summon_030126",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-03-01 07:00:00",
+            "endDate": "2026-03-02 07:00:00",
+            "featuredHeroes": [
+              "拉尚",
+              "阿比盖尔"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
           }
         ],
         "extraHeroPools": [
@@ -104873,5 +105061,5 @@
     ],
     "freeGiftIndicatorEnabled": true
   },
-  "shopConfigId": 3098123150
+  "shopConfigId": 1868470405
 }
