@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (509 / 0)
+✅ 成功匹配的服装 (510 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -207,6 +207,7 @@ Name: Boril Costume1, Fancy Name: Heavyweight Defender
 Name: Grimm Costume1, Fancy Name: Heir of Evil
 Name: Grimm stylish, Fancy Name: Heir of Evil Style
 Name: Xenda Costume1, Fancy Name: Heiress to the Flame
+Name: Jett costume1, Fancy Name: Herald of Judgment
 Name: Fura Costume1, Fancy Name: Herbalist of Svartalfheim
 Name: Ulmer Costume1, Fancy Name: Hermit of Glaceholm
 Name: Bennu Costume1, Fancy Name: Heron of Creation

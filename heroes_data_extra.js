@@ -36304,7 +36304,8 @@ window.allHeroesExtra = [
         "AetherPower": "Regen",
         "skill_types": [
             "Dancers",
-            "Healers"
+            "Healers",
+            "Dodgers"
         ],
         "heroId": "slime_sludgus",
         "baseAttack": 545,
@@ -43849,5 +43850,96 @@ window.allHeroesExtra = [
             "never_miss_special"
         ],
         "family": "mimic"
+    },
+    {
+        "name": "Kesha",
+        "fancy name": "Enchantress of Al-Layl",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
+        "Release date": "2026-02-10",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Dancers",
+            "Mana Generation Buffers",
+            "Damage Reducers"
+        ],
+        "heroId": "magic_carpet_kesha",
+        "baseAttack": 634,
+        "baseDefense": 651,
+        "baseHealth": 1117,
+        "specialId": "eternal_ishq",
+        "passiveSkills": [
+            "reduce_big_minion_health",
+            "fly_magic_carpet",
+            "buffs_to_debuffs_on_special_cast_magic_carpet"
+        ],
+        "family": "magic_carpet"
+    },
+    {
+        "name": "Arzen",
+        "fancy name": "Vicious Overseer Construct",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
+        "Release date": "2026-02-11",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Snipers",
+            "Chain & Random Attackers",
+            "Healing Reducers"
+        ],
+        "heroId": "construct_arzen",
+        "baseAttack": 653,
+        "baseDefense": 644,
+        "baseHealth": 1084,
+        "specialId": "vicious_strike",
+        "passiveSkills": [
+            "minion_core",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "construct"
+    },
+    {
+        "name": "Jett costume1",
+        "fancy name": "Herald of Judgment",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "charge_magic",
+        "Release date": "2026-02-10",
+        "AetherPower": "Counterattack",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Healers (Special)",
+            "Health Boosters",
+            "Snipers",
+            "AoE Attackers (Hit-3)",
+            "Stacking Heroes",
+            "Mana Reducers or Blockers",
+            "Healers"
+        ],
+        "heroId": "magic_jett_costume_eyes",
+        "baseAttack": 469,
+        "baseDefense": 451,
+        "baseHealth": 815,
+        "specialId": "vapors_of_the_underworld",
+        "specialId_costume": "gaze_of_the_underworld",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special_costume",
+            "magic_heal_on_full_charge_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "reduce_big_minion_health"
+        ],
+        "attackBonus": "38%",
+        "defenseBonus": "38%",
+        "healthBonus": "39%",
+        "manaBonus": "1%",
+        "family": "magic"
     }
 ];

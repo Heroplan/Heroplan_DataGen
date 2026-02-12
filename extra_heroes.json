@@ -1,41 +1,5 @@
 [
     {
-        "name": "Jett C1",
-        "fancy_name": "Herald of Judgment",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2026-02-10 07:00:00",
-        "star": 5,
-        "family": "Magic Family",
-        "costume_id": 1,
-        "heroId": "magic_jett_costume_eyes",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Kesha",
-        "fancy_name": "Enchantress of Al-Layl",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2026-02-10 07:00:00",
-        "star": 5,
-        "family": "Magic Carpet Family",
-        "costume_id": 0,
-        "heroId": "magic_carpet_kesha",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Arzen",
-        "fancy_name": "Vicious Overseer Construct",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2026-02-11 07:00:00",
-        "star": 5,
-        "family": "Construct Family",
-        "costume_id": 0,
-        "heroId": "construct_arzen",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Marjana C5",
         "fancy_name": "Stylish Lady of Windemer",
         "color": "Red",
