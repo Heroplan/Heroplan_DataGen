@@ -1,17 +1,5 @@
 [
     {
-        "name": "Borgholf",
-        "fancy_name": "Trapper from the Grove",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-02-16 07:00:00",
-        "star": 5,
-        "family": "Titan Hunter Family",
-        "costume_id": 0,
-        "heroId": "titan_hunter_borgholf",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Xiaotu C1",
         "fancy_name": "Lunar Lantern Rabbit",
         "color": "Red",

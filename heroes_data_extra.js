@@ -44088,5 +44088,31 @@ window.allHeroesExtra = [
         "healthBonus": "85%",
         "manaBonus": "5%",
         "family": "classic"
+    },
+    {
+        "name": "Borgholf",
+        "fancy name": "Trapper from the Grove",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
+        "Release date": "2026-02-16",
+        "AetherPower": "Regen",
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Debuffers (DEF)",
+            "Extra Damage Dealers",
+            "Board Alterers"
+        ],
+        "heroId": "titan_hunter_borgholf",
+        "baseAttack": 651,
+        "baseDefense": 634,
+        "baseHealth": 1114,
+        "specialId": "verdant_trap",
+        "passiveSkills": [
+            "titan_hunter_hunting_flare_on_special_cast",
+            "tile_enhancement_green_on_special_titan_hunter_parent"
+        ],
+        "family": "titan_hunter"
     }
 ];
