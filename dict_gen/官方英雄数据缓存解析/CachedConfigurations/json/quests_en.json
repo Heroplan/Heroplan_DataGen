@@ -112339,19 +112339,6 @@
       "enabled": true,
       "entries": [
         {
-          "overridden": true,
-          "id": "dragon_cave_classic2025_9_5",
-          "questLineId": "dragon_cave_classic",
-          "startTime": "2025-09-18 07:00:00",
-          "endTime": "2025-09-21 07:00:00"
-        },
-        {
-          "id": "dragon_cave_classic2025_10_3",
-          "questLineId": "dragon_cave_classic",
-          "startTime": "2025-10-03 07:00:00",
-          "endTime": "2025-10-06 07:00:00"
-        },
-        {
           "id": "dragon_cave_classic2025_10_31",
           "questLineId": "dragon_cave_classic",
           "startTime": "2025-10-31 07:00:00",
@@ -112404,6 +112391,12 @@
           "questLineId": "dragon_cave_classic",
           "startTime": "2026-06-12 07:00:00",
           "endTime": "2026-06-15 07:00:00"
+        },
+        {
+          "id": "dragon_cave_classic2026_7_10",
+          "questLineId": "dragon_cave_classic",
+          "startTime": "2026-07-10 07:00:00",
+          "endTime": "2026-07-13 07:00:00"
         }
       ]
     },
@@ -112411,5 +112404,5 @@
       "maxRareMonstersPerEvent": 100
     }
   },
-  "questsConfigId": 4132658216
+  "questsConfigId": 1231349283
 }

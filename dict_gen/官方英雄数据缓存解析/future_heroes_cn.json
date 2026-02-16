@@ -168,18 +168,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "阿珂妮亚",
-        "fancy_name": "赛博信使",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "超级元素人家族",
-        "costume_id": 1,
-        "heroId": "elemental_aconia_costume_courier",
-        "Lottery_Only": 1
-    },
-    {
         "name": "萨里亚",
         "fancy_name": "三眼巫师",
         "color": "Red",
@@ -372,54 +360,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "达达尼昂",
-        "fancy_name": "炽热烟囱清扫者",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "火枪手家族",
-        "costume_id": 1,
-        "heroId": "musketeer_dartagnan_costume_chimney_sweeper",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "凯蒂",
-        "fancy_name": "友善采果人",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 4,
-        "family": "火枪手家族",
-        "costume_id": 1,
-        "heroId": "musketeer_kitty_costume_harvester",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "布朗歇",
-        "fancy_name": "英勇冒险家",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 3,
-        "family": "火枪手家族",
-        "costume_id": 1,
-        "heroId": "musketeer_planchet_costume_adventurer",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "甘德尔",
-        "fancy_name": "矮人皇家士兵",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "尼达维利尔王国",
-        "costume_id": 1,
-        "heroId": "tales2_gandr_costume_guardian",
-        "Lottery_Only": 1
-    },
-    {
         "name": "莫德雷德",
         "fancy_name": "knights_mordred",
         "color": "Purple",
@@ -576,18 +516,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "萨宛",
-        "fancy_name": "沐光谷猫灵",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "野猫家族",
-        "costume_id": 0,
-        "heroId": "wild_cat_savann",
-        "Lottery_Only": 1
-    },
-    {
         "name": "沙尔-艾兰",
         "fancy_name": "冷血前线山猫",
         "color": "Red",
@@ -633,18 +561,6 @@
         "family": "梁山好汉家族",
         "costume_id": 0,
         "heroId": "outlaw_xiang_chong",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "斯雷迈尔",
-        "fancy_name": "顽固史莱姆执行者",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "史莱姆家族",
-        "costume_id": 0,
-        "heroId": "slime_slaymire",
         "Lottery_Only": 1
     },
     {
@@ -1029,18 +945,6 @@
         "family": "美女与野兽家族",
         "costume_id": 0,
         "heroId": "beauty_beast_jacquespierre",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "塞莉莎",
-        "fancy_name": "魔咒城堡恩典仙子",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "美女与野兽家族",
-        "costume_id": 0,
-        "heroId": "beauty_beast_cerissa",
         "Lottery_Only": 1
     },
     {

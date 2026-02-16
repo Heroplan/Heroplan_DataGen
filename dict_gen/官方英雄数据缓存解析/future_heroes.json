@@ -168,18 +168,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Aconia",
-        "fancy_name": "Cyber Courier",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "Super Elemental Family",
-        "costume_id": 1,
-        "heroId": "elemental_aconia_costume_courier",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Zaria",
         "fancy_name": "Three-Eyed Enchanter",
         "color": "Red",
@@ -372,54 +360,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "D´Artagnan",
-        "fancy_name": "Ardent Chimney-Sweeper",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "Musketeer Family",
-        "costume_id": 1,
-        "heroId": "musketeer_dartagnan_costume_chimney_sweeper",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Kitty",
-        "fancy_name": "Friendly Fruit Harvester",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 4,
-        "family": "Musketeer Family",
-        "costume_id": 1,
-        "heroId": "musketeer_kitty_costume_harvester",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Planchet",
-        "fancy_name": "Valiant Adventurer",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 3,
-        "family": "Musketeer Family",
-        "costume_id": 1,
-        "heroId": "musketeer_planchet_costume_adventurer",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Gandr",
-        "fancy_name": "Dwarven Regal Soldier",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "Nidavellir Realm",
-        "costume_id": 1,
-        "heroId": "tales2_gandr_costume_guardian",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Mordred",
         "fancy_name": "knights_mordred",
         "color": "Purple",
@@ -576,18 +516,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Savann",
-        "fancy_name": "Cat of the Sun-Blessed Valley",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "Wild Cat Family",
-        "costume_id": 0,
-        "heroId": "wild_cat_savann",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Shar-alen",
         "fancy_name": "Ruthless Frontline Lynx",
         "color": "Red",
@@ -633,18 +561,6 @@
         "family": "Outlaws of Liangshan Family",
         "costume_id": 0,
         "heroId": "outlaw_xiang_chong",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Slaymire",
-        "fancy_name": "Stubborn Slime Executor",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "Slime Family",
-        "costume_id": 0,
-        "heroId": "slime_slaymire",
         "Lottery_Only": 1
     },
     {
@@ -1029,18 +945,6 @@
         "family": "Beauty and the Beast Family",
         "costume_id": 0,
         "heroId": "beauty_beast_jacquespierre",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Cerissa",
-        "fancy_name": "Gracious Fairy of the Bewitched Castle",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "Beauty and the Beast Family",
-        "costume_id": 0,
-        "heroId": "beauty_beast_cerissa",
         "Lottery_Only": 1
     },
     {

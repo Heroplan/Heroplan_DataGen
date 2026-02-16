@@ -1422,7 +1422,12 @@
           "MonthlyDragonDecember2026",
           "MonthlyDragonJanuary2027",
           "MonthlyDragonFebruary2027",
-          "MonthlyDragonMarch2027"
+          "MonthlyDragonMarch2027",
+          "SecretSummonTroopMimicRed",
+          "SecretSummonTroopMimicBlue",
+          "SecretSummonTroopMimicGreen",
+          "SecretSummonTroopMimicYellow",
+          "SecretSummonTroopMimicPurple"
         ],
         "uniqueEvents": [
           {
@@ -2938,21 +2943,6 @@
         ],
         "challengeEventEntries": [
           {
-            "id": "RecurringBeowulf",
-            "type": "Challenge",
-            "eventBundle": "bundle_challenge_1",
-            "eventOffer": "eventoffer_double_calendar",
-            "eventEndingOffer": "",
-            "featuredCharacters": [
-              "beowulf_hygd",
-              "beowulf_hrothgar",
-              "beowulf_freawaru"
-            ],
-            "eventBonus": "event_hero_bonus_challenge_events",
-            "startTime": "2026-01-09 07:00:00",
-            "endTime": "2026-01-13 07:00:00"
-          },
-          {
             "id": "RecurringFarmland",
             "type": "Challenge",
             "eventBundle": "bundle_challenge_1",
@@ -2973,6 +2963,7 @@
             "eventBundle": "bundle_challenge_1",
             "eventOffer": "eventoffer_double_calendar",
             "eventEndingOffer": "",
+            "manuallyOverwritten": true,
             "featuredCharacters": [
               "vegetable_indigon",
               "vegetable_broseph",
@@ -2981,6 +2972,22 @@
             "eventBonus": "event_hero_bonus_challenge_events",
             "startTime": "2026-03-06 07:00:00",
             "endTime": "2026-03-10 07:00:00"
+          },
+          {
+            "id": "RecurringFarmland",
+            "type": "Challenge",
+            "eventBundle": "bundle_challenge_1",
+            "eventOffer": "eventoffer_double_calendar",
+            "eventEndingOffer": "",
+            "manuallyOverwritten": true,
+            "featuredCharacters": [
+              "vegetable_indigon",
+              "vegetable_broseph",
+              "vegetable_elsbeth"
+            ],
+            "eventBonus": "event_hero_bonus_challenge_events",
+            "startTime": "2026-04-02 07:00:00",
+            "endTime": "2026-04-06 07:00:00"
           }
         ],
         "allianceQuestEventEntries": [
@@ -3022,8 +3029,8 @@
             "eventOffer": "alliancequest_calendar",
             "eventEndingOffer": "",
             "featuredCharacters": [
-              "musketeer_cardinal_richelieu",
-              "musketeer_rochefort",
+              "beauty_beast_cerissa",
+              "musketeer_dartagnan_costume_chimney_sweeper",
               "musketeer_porthos_costume_merchant"
             ],
             "eventBonus": "event_hero_bonus_alliance_quest",
@@ -3047,19 +3054,6 @@
           }
         ],
         "treasureQuestEventEntries": [
-          {
-            "id": "TreasureQuestXPRed",
-            "type": "TreasureQuest",
-            "eventEndingOffer": "",
-            "manuallyOverwritten": true,
-            "featuredFamilies": [
-              "kingdom",
-              "journey"
-            ],
-            "eventBonus": "event_hero_bonus_treasure_quest",
-            "startTime": "2025-12-22 07:00:00",
-            "endTime": "2025-12-24 07:00:00"
-          },
           {
             "id": "TreasureQuestXPPurple",
             "type": "TreasureQuest",
@@ -3188,6 +3182,35 @@
             "eventBonus": "event_hero_bonus_treasure_quest",
             "startTime": "2026-06-08 07:00:00",
             "endTime": "2026-06-10 07:00:00"
+          },
+          {
+            "id": "TreasureQuestXPRed",
+            "type": "TreasureQuest",
+            "eventBundle": "",
+            "eventOffer": "",
+            "eventEndingOffer": "",
+            "featuredFamilies": [
+              "kingdom",
+              "journey"
+            ],
+            "eventBonus": "event_hero_bonus_treasure_quest",
+            "startTime": "2026-06-29 07:00:00",
+            "endTime": "2026-07-01 07:00:00"
+          },
+          {
+            "id": "TreasureQuestXPPurple",
+            "type": "TreasureQuest",
+            "eventBundle": "",
+            "eventOffer": "",
+            "eventEndingOffer": "",
+            "featuredFamilies": [
+              "super_elemental",
+              "magic",
+              "construct"
+            ],
+            "eventBonus": "event_hero_bonus_treasure_quest",
+            "startTime": "2026-07-20 07:00:00",
+            "endTime": "2026-07-22 07:00:00"
           }
         ],
         "chessEventEntries": [
@@ -15560,38 +15583,6 @@
         "pvpEventEntries": [
           {
             "specialRuleId": "rush_attack",
-            "rarityRequirementsId": "rare",
-            "elementRequirementsId": "no_yellow",
-            "tournamentOfferId": "com.smallgiantgames.empires.trainerpack2020",
-            "startTime": "2025-11-30 08:00:00",
-            "endTime": "2025-12-06 08:00:00"
-          },
-          {
-            "specialRuleId": "buff_booster",
-            "rarityRequirementsId": "legendary",
-            "elementRequirementsId": "no_blue",
-            "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer1",
-            "startTime": "2025-12-07 08:00:00",
-            "endTime": "2025-12-13 08:00:00"
-          },
-          {
-            "specialRuleId": "dragon_tournament",
-            "rarityRequirementsId": "legendary",
-            "elementRequirementsId": "all_elements",
-            "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer2",
-            "startTime": "2025-12-14 08:00:00",
-            "endTime": "2025-12-20 08:00:00"
-          },
-          {
-            "specialRuleId": "bloody_battle",
-            "rarityRequirementsId": "rare",
-            "elementRequirementsId": "all_elements",
-            "tournamentOfferId": "com.smallgiantgames.empires.trainerpack2020",
-            "startTime": "2025-12-21 08:00:00",
-            "endTime": "2025-12-27 08:00:00"
-          },
-          {
-            "specialRuleId": "rush_attack",
             "rarityRequirementsId": "epic",
             "elementRequirementsId": "no_purple",
             "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer1",
@@ -15773,6 +15764,38 @@
             "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer2",
             "startTime": "2026-05-31 08:00:00",
             "endTime": "2026-06-06 08:00:00"
+          },
+          {
+            "specialRuleId": "buff_booster",
+            "rarityRequirementsId": "epic",
+            "elementRequirementsId": "no_red",
+            "tournamentOfferId": "com.smallgiantgames.empires.trainerpack2020",
+            "startTime": "2026-06-07 08:00:00",
+            "endTime": "2026-06-13 08:00:00"
+          },
+          {
+            "specialRuleId": "rush_attack",
+            "rarityRequirementsId": "legendary",
+            "elementRequirementsId": "no_blue",
+            "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer1",
+            "startTime": "2026-06-14 08:00:00",
+            "endTime": "2026-06-20 08:00:00"
+          },
+          {
+            "specialRuleId": "buff_booster",
+            "rarityRequirementsId": "epic",
+            "elementRequirementsId": "all_elements",
+            "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer2",
+            "startTime": "2026-06-21 08:00:00",
+            "endTime": "2026-06-27 08:00:00"
+          },
+          {
+            "specialRuleId": "bloody_battle",
+            "rarityRequirementsId": "rare",
+            "elementRequirementsId": "no_red",
+            "tournamentOfferId": "com.smallgiantgames.empires.trainerpack2020",
+            "startTime": "2026-06-28 08:00:00",
+            "endTime": "2026-07-04 08:00:00"
           }
         ],
         "pvpEventSchedule": {
@@ -16216,6 +16239,20 @@
             "elementRequirementsId": "no_yellow",
             "startTime": "2026-05-31 08:00:00",
             "endTime": "2026-06-06 08:00:00"
+          },
+          {
+            "specialRuleId": "buff_booster_dragon",
+            "rarityRequirementsId": "epic",
+            "elementRequirementsId": "no_green",
+            "startTime": "2026-06-14 08:00:00",
+            "endTime": "2026-06-20 08:00:00"
+          },
+          {
+            "specialRuleId": "bloody_battle_dragon",
+            "rarityRequirementsId": "legendary",
+            "elementRequirementsId": "no_red",
+            "startTime": "2026-06-28 08:00:00",
+            "endTime": "2026-07-04 08:00:00"
           }
         ],
         "pvpEventSchedule": {
@@ -43035,18 +43072,6 @@
           ],
           "challengeSeasonsEntries": [
             {
-              "occurrenceId": "path_of_valor_17_11_2025",
-              "challengeSeasonId": "path_of_valor_8",
-              "startTime": "2025-11-17 07:00:00",
-              "endTime": "2025-12-15 07:00:00"
-            },
-            {
-              "occurrenceId": "path_of_valor_15_12_2025",
-              "challengeSeasonId": "path_of_valor_9",
-              "startTime": "2025-12-15 07:00:00",
-              "endTime": "2026-01-12 07:00:00"
-            },
-            {
               "occurrenceId": "path_of_valor_12_1_2026",
               "challengeSeasonId": "path_of_valor_10",
               "startTime": "2026-01-12 07:00:00",
@@ -43087,6 +43112,12 @@
               "challengeSeasonId": "path_of_valor_6",
               "startTime": "2026-06-29 07:00:00",
               "endTime": "2026-07-27 07:00:00"
+            },
+            {
+              "occurrenceId": "path_of_valor_27_7_2026",
+              "challengeSeasonId": "path_of_valor_7",
+              "startTime": "2026-07-27 07:00:00",
+              "endTime": "2026-08-24 07:00:00"
             }
           ]
         },
@@ -46383,18 +46414,6 @@
           ],
           "challengeSeasonsEntries": [
             {
-              "occurrenceId": "path_of_giants_17_11_2025",
-              "challengeSeasonId": "path_of_giants_3",
-              "startTime": "2025-11-17 07:00:00",
-              "endTime": "2025-12-15 07:00:00"
-            },
-            {
-              "occurrenceId": "path_of_giants_15_12_2025",
-              "challengeSeasonId": "path_of_giants_4",
-              "startTime": "2025-12-15 07:00:00",
-              "endTime": "2026-01-12 07:00:00"
-            },
-            {
               "occurrenceId": "path_of_giants_12_1_2026",
               "challengeSeasonId": "path_of_giants_5",
               "startTime": "2026-01-12 07:00:00",
@@ -46435,6 +46454,12 @@
               "challengeSeasonId": "path_of_giants_1",
               "startTime": "2026-06-29 07:00:00",
               "endTime": "2026-07-27 07:00:00"
+            },
+            {
+              "occurrenceId": "path_of_giants_27_7_2026",
+              "challengeSeasonId": "path_of_giants_2",
+              "startTime": "2026-07-27 07:00:00",
+              "endTime": "2026-08-24 07:00:00"
             }
           ]
         },
@@ -50499,12 +50524,6 @@
           ],
           "challengeSeasonsEntries": [
             {
-              "occurrenceId": "path_of_dragons_1_12_2025",
-              "challengeSeasonId": "path_of_dragons_6",
-              "startTime": "2025-12-01 07:00:00",
-              "endTime": "2025-12-29 07:00:00"
-            },
-            {
               "occurrenceId": "path_of_dragons_29_12_2025",
               "challengeSeasonId": "path_of_dragons_7",
               "startTime": "2025-12-29 07:00:00",
@@ -50545,6 +50564,12 @@
               "challengeSeasonId": "path_of_dragons_3",
               "startTime": "2026-06-15 07:00:00",
               "endTime": "2026-07-13 07:00:00"
+            },
+            {
+              "occurrenceId": "path_of_dragons_13_7_2026",
+              "challengeSeasonId": "path_of_dragons_4",
+              "startTime": "2026-07-13 07:00:00",
+              "endTime": "2026-08-10 07:00:00"
             }
           ]
         },
@@ -52365,6 +52390,12 @@
               "overridden": true,
               "startTime": "2026-07-13 07:00:00",
               "endTime": "2026-07-15 07:00:00"
+            },
+            {
+              "uberTitanId": "mythic_titan_ifrit",
+              "overridden": true,
+              "startTime": "2026-09-17 07:00:00",
+              "endTime": "2026-09-19 07:00:00"
             }
           ]
         },
@@ -52933,12 +52964,6 @@
           "entries": [
             {
               "overridden": true,
-              "id": "mercenary_war_3_2_2026",
-              "startTime": "2025-12-14 07:00:00",
-              "endTime": "2025-12-19 07:00:00"
-            },
-            {
-              "overridden": true,
               "id": "mercenary_war_31_3_2026",
               "startTime": "2026-01-13 07:00:00",
               "endTime": "2026-01-18 07:00:00"
@@ -52954,6 +52979,12 @@
               "id": "mercenary_war_3_1_2026",
               "startTime": "2026-03-01 07:00:00",
               "endTime": "2026-03-06 07:00:00"
+            },
+            {
+              "overridden": true,
+              "id": "mercenary_war_28_3_2026",
+              "startTime": "2026-03-28 07:00:00",
+              "endTime": "2026-04-02 07:00:00"
             }
           ]
         },
@@ -58566,8 +58597,8 @@
               "overridden": true,
               "blessingSetId": "hexmap_blessing_set2",
               "id": "MonsterIsland2",
-              "startTime": "2026-03-15 07:00:00",
-              "endTime": "2026-03-19 07:00:00"
+              "startTime": "2026-03-20 07:00:00",
+              "endTime": "2026-03-24 07:00:00"
             }
           ],
           "alternatingScheduleStartTimeOffset": 43200
@@ -59178,7 +59209,7 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-02-20 07:00:00",
             "costumeId": "Ardent Musketeer-Ardent Chimney-Sweeper",
             "parentHeroId": "musketeer_dartagnan"
           },
@@ -59370,7 +59401,7 @@
             ],
             "rarity": 3,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-02-20 07:00:00",
             "costumeId": "Valiant Valet-Valiant Adventurer",
             "parentHeroId": "musketeer_planchet"
           },
@@ -59382,7 +59413,7 @@
             ],
             "rarity": 4,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-02-20 07:00:00",
             "costumeId": "Friendly Florist-Friendly Fruit Harvester",
             "parentHeroId": "musketeer_kitty"
           },
@@ -59442,7 +59473,7 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-02-18 07:00:00",
             "costumeId": "Dwarven Wind Warrior-Dwarven Regal Soldier",
             "parentHeroId": "tales2_gandr"
           },
@@ -59657,7 +59688,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 500,
+            "gemValue": 1200,
             "season": "Season2"
           },
           {
@@ -59667,7 +59698,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 500,
+            "gemValue": 1200,
             "season": "Season3"
           },
           {
@@ -59677,7 +59708,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 500,
+            "gemValue": 1200,
             "season": "Season4"
           },
           {
@@ -59687,7 +59718,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 500,
+            "gemValue": 1200,
             "season": "Season5"
           },
           {
@@ -59697,7 +59728,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 500,
+            "gemValue": 1200,
             "season": "UntoldTales1"
           },
           {
@@ -59707,7 +59738,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 500,
+            "gemValue": 1200,
             "season": "UntoldTales2"
           },
           {
@@ -60773,7 +60804,7 @@
               "Dragon"
             ],
             "rarity": 1,
-            "gemValue": 100
+            "gemValue": 5
           },
           {
             "itemType": "AssistSkillUpgradeMaterial",
@@ -60782,7 +60813,7 @@
               "Dragon"
             ],
             "rarity": 2,
-            "gemValue": 200
+            "gemValue": 10
           },
           {
             "itemType": "AssistSkillUpgradeMaterial",
@@ -60791,7 +60822,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 300
+            "gemValue": 35
           },
           {
             "itemType": "AssistSkillUpgradeMaterial",
@@ -60800,7 +60831,7 @@
               "Dragon"
             ],
             "rarity": 4,
-            "gemValue": 400
+            "gemValue": 70
           },
           {
             "itemType": "AssistSkillUpgradeMaterial",
@@ -60809,7 +60840,7 @@
               "Dragon"
             ],
             "rarity": 5,
-            "gemValue": 500
+            "gemValue": 430
           },
           {
             "itemType": "Costume",
@@ -62065,7 +62096,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 20000,
+            "gemValue": 3300,
             "givenItemId": "misc_free_talent_point",
             "givenItemAmount": 10
           },
@@ -62076,7 +62107,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 10500,
+            "gemValue": 1000,
             "givenItemId": "misc_free_talent_point",
             "givenItemAmount": 3
           },
@@ -62087,7 +62118,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 2000,
+            "gemValue": 300,
             "typeOfTome": "LevelUp",
             "effectAmount": 5,
             "increaseSpecialLevel": true,
@@ -62153,7 +62184,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 20000,
+            "gemValue": 3200,
             "typeOfTome": "LevelUp",
             "effectAmount": 80,
             "increaseSpecialLevel": true,
@@ -62244,7 +62275,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 40000,
+            "gemValue": 6400,
             "typeOfTome": "Ascension"
           },
           {
@@ -62254,7 +62285,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 80000,
+            "gemValue": 2900,
             "typeOfTome": "LimitBreak",
             "targetedLimitBreakLevel": 1
           },
@@ -62265,7 +62296,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 80000,
+            "gemValue": 5800,
             "canBeReceivedDate": "2031-09-09 01:46:39",
             "typeOfTome": "LimitBreak",
             "targetedLimitBreakLevel": 2
@@ -62301,7 +62332,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 8000,
+            "gemValue": 430,
             "canBeReceivedDate": "2025-11-12 07:00:00",
             "typeOfTome": "ElementalLevelUp",
             "effectAmount": 20,
@@ -62315,7 +62346,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 8000,
+            "gemValue": 430,
             "canBeReceivedDate": "2025-11-12 07:00:00",
             "typeOfTome": "ElementalLevelUp",
             "effectAmount": 20,
@@ -62329,7 +62360,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 8000,
+            "gemValue": 430,
             "canBeReceivedDate": "2025-11-12 07:00:00",
             "typeOfTome": "ElementalLevelUp",
             "effectAmount": 20,
@@ -62343,7 +62374,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 8000,
+            "gemValue": 430,
             "canBeReceivedDate": "2025-11-12 07:00:00",
             "typeOfTome": "ElementalLevelUp",
             "effectAmount": 20,
@@ -62357,7 +62388,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 8000,
+            "gemValue": 430,
             "canBeReceivedDate": "2025-11-12 07:00:00",
             "typeOfTome": "ElementalLevelUp",
             "effectAmount": 20,
@@ -62371,7 +62402,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 20000,
+            "gemValue": 2150,
             "canBeReceivedDate": "2025-11-12 07:00:00",
             "typeOfTome": "ElementalLevelUp",
             "increaseSpecialLevel": true,
@@ -62385,7 +62416,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 20000,
+            "gemValue": 2150,
             "canBeReceivedDate": "2025-11-12 07:00:00",
             "typeOfTome": "ElementalLevelUp",
             "increaseSpecialLevel": true,
@@ -62399,7 +62430,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 20000,
+            "gemValue": 2150,
             "canBeReceivedDate": "2025-11-12 07:00:00",
             "typeOfTome": "ElementalLevelUp",
             "increaseSpecialLevel": true,
@@ -62413,7 +62444,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 20000,
+            "gemValue": 2150,
             "canBeReceivedDate": "2025-11-12 07:00:00",
             "typeOfTome": "ElementalLevelUp",
             "increaseSpecialLevel": true,
@@ -62427,7 +62458,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 20000,
+            "gemValue": 2150,
             "canBeReceivedDate": "2025-11-12 07:00:00",
             "typeOfTome": "ElementalLevelUp",
             "increaseSpecialLevel": true,
@@ -62534,7 +62565,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 7500,
+            "gemValue": 430,
             "canBeReceivedDate": "2023-03-20 07:00:00"
           },
           {
@@ -62544,7 +62575,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 5000
+            "gemValue": 430
           },
           {
             "itemType": "HeroLimitBreak",
@@ -62553,7 +62584,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 5000
+            "gemValue": 430
           },
           {
             "itemType": "HeroLimitBreak",
@@ -62562,7 +62593,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 5000
+            "gemValue": 430
           },
           {
             "itemType": "HeroLimitBreak",
@@ -62571,7 +62602,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 5000
+            "gemValue": 430
           },
           {
             "itemType": "HeroLimitBreak",
@@ -62580,7 +62611,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 5000
+            "gemValue": 430
           },
           {
             "itemType": "HeroLimitBreak",
@@ -62589,7 +62620,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 1000
+            "gemValue": 60
           },
           {
             "itemType": "HeroLimitBreak",
@@ -62598,7 +62629,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 1000
+            "gemValue": 60
           },
           {
             "itemType": "HeroLimitBreak",
@@ -62607,7 +62638,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 1000
+            "gemValue": 60
           },
           {
             "itemType": "HeroLimitBreak",
@@ -62616,7 +62647,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 1000
+            "gemValue": 60
           },
           {
             "itemType": "HeroLimitBreak",
@@ -62625,7 +62656,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 1000
+            "gemValue": 60
           },
           {
             "itemType": "HeroLimitBreak",
@@ -62634,7 +62665,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 300
+            "gemValue": 30
           },
           {
             "itemType": "HeroLimitBreak",
@@ -62643,7 +62674,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 300
+            "gemValue": 30
           },
           {
             "itemType": "HeroLimitBreak",
@@ -62652,7 +62683,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 300
+            "gemValue": 30
           },
           {
             "itemType": "HeroLimitBreak",
@@ -62661,7 +62692,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 300
+            "gemValue": 30
           },
           {
             "itemType": "HeroLimitBreak",
@@ -62670,7 +62701,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 300
+            "gemValue": 30
           },
           {
             "itemType": "PiggyBankBag",
@@ -64494,7 +64525,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 100,
+            "gemValue": 15,
             "typeOfRefill": "PveEnergy"
           },
           {
@@ -66209,7 +66240,7 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-02-19 07:00:00",
             "costumeId": "Cyber Rogue-Cyber Courier",
             "parentHeroId": "elemental_aconia"
           },
@@ -66340,7 +66371,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 100,
+            "gemValue": 15,
             "typeOfRefill": "PvpEnergy"
           },
           {
@@ -66350,7 +66381,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 200,
+            "gemValue": 25,
             "typeOfRefill": "AllianceEnergy"
           },
           {
@@ -66360,7 +66391,7 @@
               "Classic"
             ],
             "rarity": 1,
-            "gemValue": 16,
+            "gemValue": 5,
             "typeOfRefill": "Food",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 10000
@@ -66372,7 +66403,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 81,
+            "gemValue": 8,
             "typeOfRefill": "Food",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 50000
@@ -66384,7 +66415,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 163,
+            "gemValue": 10,
             "typeOfRefill": "Food",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 100000
@@ -66396,7 +66427,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 407,
+            "gemValue": 15,
             "typeOfRefill": "Food",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 250000
@@ -66408,7 +66439,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 814,
+            "gemValue": 40,
             "typeOfRefill": "Food",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 500000
@@ -66420,7 +66451,7 @@
               "Classic"
             ],
             "rarity": 1,
-            "gemValue": 16,
+            "gemValue": 5,
             "typeOfRefill": "Iron",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 10000
@@ -66432,7 +66463,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 81,
+            "gemValue": 8,
             "typeOfRefill": "Iron",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 50000
@@ -66444,7 +66475,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 163,
+            "gemValue": 10,
             "typeOfRefill": "Iron",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 100000
@@ -66456,7 +66487,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 407,
+            "gemValue": 15,
             "typeOfRefill": "Iron",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 250000
@@ -66468,7 +66499,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 814,
+            "gemValue": 40,
             "typeOfRefill": "Iron",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 500000
@@ -66480,7 +66511,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 50,
+            "gemValue": 5,
             "typeOfRefill": "TowerEnergy",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 5
@@ -66492,7 +66523,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 10,
+            "gemValue": 15,
             "typeOfRefill": "TowerEnergy",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 1
@@ -66504,7 +66535,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 200,
+            "gemValue": 25,
             "typeOfRefill": "UberTitanEnergy",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 1
@@ -66516,7 +66547,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 25,
+            "gemValue": 30,
             "typeOfRefill": "FriendlyEnergy",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 1
@@ -66567,7 +66598,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 100,
+            "gemValue": 30,
             "canBeReceivedDate": "2200-01-01 07:00:00",
             "typeOfRefill": "TempleEnergy"
           },
@@ -66578,7 +66609,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 150,
+            "gemValue": 5,
             "amountForSummon": 1
           },
           {
@@ -66588,7 +66619,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 300,
+            "gemValue": 85,
             "amountForSummon": 1
           },
           {
@@ -66598,7 +66629,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 200,
+            "gemValue": 60,
             "amountForSummon": 1
           },
           {
@@ -66608,7 +66639,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 3,
+            "gemValue": 15,
             "amountForSummon": 100
           },
           {
@@ -66618,7 +66649,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 4,
+            "gemValue": 15,
             "amountForSummon": 100
           },
           {
@@ -66628,7 +66659,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 60,
+            "gemValue": 30,
             "amountForSummon": 5
           },
           {
@@ -66638,7 +66669,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 30,
+            "gemValue": 15,
             "amountForSummon": 10
           },
           {
@@ -66648,7 +66679,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 30,
+            "gemValue": 15,
             "amountForSummon": 10
           },
           {
@@ -66658,7 +66689,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 4,
+            "gemValue": 15,
             "amountForSummon": 100
           },
           {
@@ -66668,7 +66699,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 3,
+            "gemValue": 15,
             "amountForSummon": 100
           },
           {
@@ -66678,7 +66709,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 3,
+            "gemValue": 20,
             "amountForSummon": 100
           },
           {
@@ -66688,7 +66719,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 3,
+            "gemValue": 20,
             "amountForSummon": 100
           },
           {
@@ -66698,7 +66729,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 3,
+            "gemValue": 15,
             "canBeReceivedDate": "2200-01-01 07:00:00",
             "amountForSummon": 100
           },
@@ -66709,7 +66740,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 3,
+            "gemValue": 15,
             "canBeReceivedDate": "2200-01-01 07:00:00",
             "amountForSummon": 100
           },
@@ -66720,7 +66751,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 50,
+            "gemValue": 15,
             "amountForSummon": 10,
             "amountFor10Summon": 90
           },
@@ -66731,7 +66762,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 3,
+            "gemValue": 15,
             "amountForSummon": 100
           },
           {
@@ -66741,7 +66772,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 4,
+            "gemValue": 15,
             "amountForSummon": 100
           },
           {
@@ -66751,7 +66782,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 4,
+            "gemValue": 15,
             "amountForSummon": 100
           },
           {
@@ -66761,7 +66792,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 3,
+            "gemValue": 15,
             "amountForSummon": 100
           },
           {
@@ -66771,7 +66802,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 3,
+            "gemValue": 15,
             "amountForSummon": 100
           },
           {
@@ -66781,7 +66812,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 1200,
+            "gemValue": 700,
             "amountForSummon": 1,
             "guaranteedRarity": 4
           },
@@ -66792,7 +66823,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 8600,
+            "gemValue": 1700,
             "amountForSummon": 1,
             "guaranteedRarity": 5
           },
@@ -66803,7 +66834,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 3,
+            "gemValue": 15,
             "amountForSummon": 100
           },
           {
@@ -66813,7 +66844,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 3,
+            "gemValue": 15,
             "amountForSummon": 100
           },
           {
@@ -66823,7 +66854,7 @@
               "Dragon"
             ],
             "rarity": 4,
-            "gemValue": 300,
+            "gemValue": 145,
             "amountForSummon": 1
           },
           {
@@ -66833,7 +66864,7 @@
               "Dragon"
             ],
             "rarity": 4,
-            "gemValue": 3,
+            "gemValue": 4,
             "amountForSummon": 100
           },
           {
@@ -66843,7 +66874,7 @@
               "Dragon"
             ],
             "rarity": 4,
-            "gemValue": 3,
+            "gemValue": 40,
             "amountForSummon": 100
           },
           {
@@ -66853,7 +66884,7 @@
               "Dragon"
             ],
             "rarity": 5,
-            "gemValue": 8600,
+            "gemValue": 1450,
             "canBeReceivedDate": "2025-04-07 07:00:00",
             "amountForSummon": 1,
             "guaranteedRarity": 5
@@ -66865,7 +66896,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 3,
+            "gemValue": 15,
             "canBeReceivedDate": "2023-09-18 07:00:00",
             "amountForSummon": 100
           },
@@ -66876,7 +66907,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 3,
+            "gemValue": 25,
             "canBeReceivedDate": "2200-01-01 07:00:00",
             "amountForSummon": 100
           },
@@ -66887,7 +66918,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 50,
+            "gemValue": 25,
             "amountForSummon": 10,
             "amountFor10Summon": 90
           },
@@ -66898,7 +66929,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 3,
+            "gemValue": 15,
             "canBeReceivedDate": "2023-09-18 07:00:00",
             "amountForSummon": 100
           },
@@ -66909,7 +66940,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 3,
+            "gemValue": 15,
             "amountForSummon": 100
           },
           {
@@ -66919,7 +66950,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 3,
+            "gemValue": 25,
             "canBeReceivedDate": "2025-01-01 07:00:00",
             "amountForSummon": 100
           },
@@ -66930,7 +66961,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 50,
+            "gemValue": 150,
             "amountForSummon": 100
           },
           {
@@ -66964,7 +66995,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 3,
+            "gemValue": 15,
             "canBeReceivedDate": "2200-01-01 07:00:00",
             "amountForSummon": 100
           },
@@ -67019,7 +67050,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 100,
+            "gemValue": 10,
             "firstProvince": 8,
             "provinceRewardWeight": 1
           },
@@ -67030,7 +67061,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 100,
+            "gemValue": 10,
             "firstProvince": 8,
             "provinceRewardWeight": 1
           },
@@ -67041,7 +67072,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 100,
+            "gemValue": 10,
             "firstProvince": 5,
             "provinceRewardWeight": 1
           },
@@ -67052,7 +67083,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 100,
+            "gemValue": 10,
             "firstProvince": 8,
             "provinceRewardWeight": 1
           },
@@ -67063,7 +67094,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 100,
+            "gemValue": 10,
             "firstProvince": 5,
             "provinceRewardWeight": 1
           },
@@ -67074,7 +67105,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 100,
+            "gemValue": 10,
             "firstProvince": 5,
             "provinceRewardWeight": 1
           },
@@ -67097,7 +67128,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 300,
+            "gemValue": 10,
             "firstProvince": 12,
             "provinceRewardWeight": 1
           },
@@ -67108,7 +67139,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 300,
+            "gemValue": 10,
             "firstProvince": 12,
             "provinceRewardWeight": 1
           },
@@ -67119,7 +67150,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 1000,
+            "gemValue": 90,
             "firstProvince": 0,
             "provinceRewardWeight": 1
           },
@@ -67130,7 +67161,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 1000,
+            "gemValue": 90,
             "firstProvince": 0,
             "provinceRewardWeight": 1
           },
@@ -67141,7 +67172,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 1000,
+            "gemValue": 115,
             "firstProvince": 0,
             "provinceRewardWeight": 1
           },
@@ -67152,7 +67183,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 1000,
+            "gemValue": 115,
             "firstProvince": 0,
             "provinceRewardWeight": 1
           },
@@ -67163,7 +67194,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 300,
+            "gemValue": 10,
             "firstProvince": 12,
             "provinceRewardWeight": 1
           },
@@ -67174,7 +67205,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 1000,
+            "gemValue": 115,
             "firstProvince": 0,
             "provinceRewardWeight": 1
           },
@@ -67185,7 +67216,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 300,
+            "gemValue": 10,
             "firstProvince": 12,
             "provinceRewardWeight": 1
           },
@@ -67196,7 +67227,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 1000,
+            "gemValue": 115,
             "firstProvince": 0,
             "provinceRewardWeight": 1
           },
@@ -67207,7 +67238,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 1000,
+            "gemValue": 115,
             "firstProvince": 0,
             "provinceRewardWeight": 1
           },
@@ -67218,7 +67249,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 5000,
+            "gemValue": 575,
             "firstProvince": 0,
             "provinceRewardWeight": 1
           },
@@ -67242,7 +67273,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 5000,
+            "gemValue": 715,
             "firstProvince": 0,
             "provinceRewardWeight": 1
           },
@@ -67253,7 +67284,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 5000,
+            "gemValue": 715,
             "firstProvince": 0,
             "provinceRewardWeight": 1
           },
@@ -67264,7 +67295,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 5000,
+            "gemValue": 715,
             "firstProvince": 0,
             "provinceRewardWeight": 1
           },
@@ -67275,7 +67306,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 5000,
+            "gemValue": 715,
             "firstProvince": 0,
             "provinceRewardWeight": 1
           },
@@ -67286,7 +67317,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 5000,
+            "gemValue": 715,
             "firstProvince": 0,
             "provinceRewardWeight": 1
           },
@@ -67297,7 +67328,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 5000,
+            "gemValue": 575,
             "firstProvince": 0,
             "provinceRewardWeight": 1
           },
@@ -67319,7 +67350,7 @@
               "Classic"
             ],
             "rarity": 1,
-            "gemValue": 5,
+            "gemValue": 10,
             "firstProvince": 1,
             "provinceRewardWeight": 4
           },
@@ -67385,7 +67416,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 30,
+            "gemValue": 15,
             "firstProvince": 1,
             "provinceRewardWeight": 1
           },
@@ -67396,7 +67427,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 30,
+            "gemValue": 15,
             "firstProvince": 1,
             "provinceRewardWeight": 1
           },
@@ -67407,7 +67438,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 30,
+            "gemValue": 15,
             "firstProvince": 1,
             "provinceRewardWeight": 1
           },
@@ -67418,7 +67449,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 30,
+            "gemValue": 15,
             "firstProvince": 1,
             "provinceRewardWeight": 1
           },
@@ -67429,7 +67460,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 30,
+            "gemValue": 15,
             "firstProvince": 1,
             "provinceRewardWeight": 1
           },
@@ -67440,7 +67471,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 30,
+            "gemValue": 15,
             "firstProvince": 1,
             "provinceRewardWeight": 1
           },
@@ -67451,7 +67482,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 100,
+            "gemValue": 20,
             "firstProvince": 5,
             "provinceRewardWeight": 1
           },
@@ -67462,7 +67493,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 100,
+            "gemValue": 20,
             "firstProvince": 5,
             "provinceRewardWeight": 1
           },
@@ -67473,7 +67504,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 100,
+            "gemValue": 20,
             "firstProvince": 5,
             "provinceRewardWeight": 1
           },
@@ -67484,7 +67515,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 100,
+            "gemValue": 20,
             "firstProvince": 5,
             "provinceRewardWeight": 1
           },
@@ -67495,7 +67526,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 300,
+            "gemValue": 30,
             "firstProvince": 6,
             "provinceRewardWeight": 1
           },
@@ -67506,7 +67537,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 300,
+            "gemValue": 30,
             "firstProvince": 7,
             "provinceRewardWeight": 1
           },
@@ -67517,7 +67548,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 300,
+            "gemValue": 30,
             "firstProvince": 5,
             "provinceRewardWeight": 1
           },
@@ -67528,7 +67559,7 @@
               "Dragon"
             ],
             "rarity": 1,
-            "gemValue": 10,
+            "gemValue": 2,
             "firstProvince": 1,
             "provinceRewardWeight": 1
           },
@@ -67539,7 +67570,7 @@
               "Dragon"
             ],
             "rarity": 1,
-            "gemValue": 10,
+            "gemValue": 2,
             "firstProvince": 1,
             "provinceRewardWeight": 1
           },
@@ -67550,7 +67581,7 @@
               "Dragon"
             ],
             "rarity": 1,
-            "gemValue": 10,
+            "gemValue": 2,
             "firstProvince": 1,
             "provinceRewardWeight": 1
           },
@@ -67561,7 +67592,7 @@
               "Dragon"
             ],
             "rarity": 2,
-            "gemValue": 30,
+            "gemValue": 4,
             "firstProvince": 1,
             "provinceRewardWeight": 1
           },
@@ -67572,7 +67603,7 @@
               "Dragon"
             ],
             "rarity": 2,
-            "gemValue": 30,
+            "gemValue": 4,
             "firstProvince": 1,
             "provinceRewardWeight": 1
           },
@@ -67583,7 +67614,7 @@
               "Dragon"
             ],
             "rarity": 2,
-            "gemValue": 30,
+            "gemValue": 4,
             "firstProvince": 1,
             "provinceRewardWeight": 1
           },
@@ -67594,7 +67625,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 100,
+            "gemValue": 5,
             "firstProvince": 1,
             "provinceRewardWeight": 1
           },
@@ -67605,7 +67636,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 100,
+            "gemValue": 5,
             "firstProvince": 1,
             "provinceRewardWeight": 1
           },
@@ -67616,7 +67647,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 100,
+            "gemValue": 5,
             "firstProvince": 1,
             "provinceRewardWeight": 1
           },
@@ -67627,7 +67658,7 @@
               "Dragon"
             ],
             "rarity": 4,
-            "gemValue": 300,
+            "gemValue": 10,
             "firstProvince": 1,
             "provinceRewardWeight": 1
           },
@@ -67638,7 +67669,7 @@
               "Dragon"
             ],
             "rarity": 4,
-            "gemValue": 300,
+            "gemValue": 10,
             "firstProvince": 1,
             "provinceRewardWeight": 1
           },
@@ -67649,7 +67680,7 @@
               "Dragon"
             ],
             "rarity": 4,
-            "gemValue": 300,
+            "gemValue": 10,
             "firstProvince": 1,
             "provinceRewardWeight": 1
           },
@@ -67660,7 +67691,7 @@
               "Dragon"
             ],
             "rarity": 4,
-            "gemValue": 300,
+            "gemValue": 10,
             "notAllowedAsLoot": true,
             "firstProvince": 0,
             "provinceRewardWeight": 1
@@ -67672,7 +67703,7 @@
               "Dragon"
             ],
             "rarity": 4,
-            "gemValue": 300,
+            "gemValue": 10,
             "notAllowedAsLoot": true,
             "firstProvince": 0,
             "provinceRewardWeight": 1
@@ -67684,7 +67715,7 @@
               "Dragon"
             ],
             "rarity": 4,
-            "gemValue": 300,
+            "gemValue": 10,
             "notAllowedAsLoot": true,
             "firstProvince": 0,
             "provinceRewardWeight": 1
@@ -67696,7 +67727,7 @@
               "Classic"
             ],
             "rarity": 1,
-            "gemValue": 20,
+            "gemValue": 10,
             "sideAffected": "Allies",
             "typeOfTarget": "Single",
             "directEffects": [
@@ -67715,7 +67746,7 @@
               "Classic"
             ],
             "rarity": 1,
-            "gemValue": 20,
+            "gemValue": 10,
             "sideAffected": "Allies",
             "typeOfTarget": "Single",
             "directEffects": [
@@ -67734,7 +67765,7 @@
               "Classic"
             ],
             "rarity": 1,
-            "gemValue": 20,
+            "gemValue": 10,
             "sideAffected": "Allies",
             "typeOfTarget": "All",
             "directEffects": [
@@ -67754,7 +67785,7 @@
               "Classic"
             ],
             "rarity": 1,
-            "gemValue": 30,
+            "gemValue": 10,
             "sideAffected": "Enemies",
             "typeOfTarget": "All",
             "directEffects": [
@@ -67776,7 +67807,7 @@
               "Classic"
             ],
             "rarity": 1,
-            "gemValue": 30,
+            "gemValue": 10,
             "sideAffected": "Allies",
             "typeOfTarget": "Single",
             "directEffects": [
@@ -67795,7 +67826,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 60,
+            "gemValue": 15,
             "sideAffected": "Allies",
             "typeOfTarget": "All",
             "directEffects": [],
@@ -67812,7 +67843,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 50,
+            "gemValue": 15,
             "sideAffected": "Allies",
             "typeOfTarget": "All",
             "directEffects": [],
@@ -67829,7 +67860,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 70,
+            "gemValue": 15,
             "sideAffected": "Enemies",
             "typeOfTarget": "All",
             "directEffects": [
@@ -67851,7 +67882,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 60,
+            "gemValue": 15,
             "sideAffected": "Allies",
             "typeOfTarget": "Single",
             "directEffects": [
@@ -67870,7 +67901,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 50,
+            "gemValue": 15,
             "sideAffected": "Allies",
             "typeOfTarget": "Single",
             "directEffects": [
@@ -67889,7 +67920,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 60,
+            "gemValue": 20,
             "sideAffected": "Allies",
             "typeOfTarget": "All",
             "directEffects": [
@@ -67909,7 +67940,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 80,
+            "gemValue": 20,
             "sideAffected": "Enemies",
             "typeOfTarget": "All",
             "directEffects": [
@@ -67931,7 +67962,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 80,
+            "gemValue": 20,
             "sideAffected": "Allies",
             "typeOfTarget": "Single",
             "directEffects": [
@@ -67950,7 +67981,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 80,
+            "gemValue": 20,
             "sideAffected": "Allies",
             "typeOfTarget": "All",
             "directEffects": [],
@@ -67968,7 +67999,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 100,
+            "gemValue": 50,
             "sideAffected": "Allies",
             "typeOfTarget": "Single",
             "directEffects": [
@@ -67987,7 +68018,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 150,
+            "gemValue": 50,
             "sideAffected": "Enemies",
             "typeOfTarget": "All",
             "directEffects": [
@@ -68010,7 +68041,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 100,
+            "gemValue": 50,
             "sideAffected": "Allies",
             "typeOfTarget": "Single",
             "directEffects": [
@@ -68029,7 +68060,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 120,
+            "gemValue": 50,
             "sideAffected": "Enemies",
             "typeOfTarget": "All",
             "directEffects": [
@@ -68049,7 +68080,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 150,
+            "gemValue": 100,
             "sideAffected": "Allies",
             "typeOfTarget": "All",
             "directEffects": [
@@ -68069,7 +68100,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 200,
+            "gemValue": 50,
             "sideAffected": "Allies",
             "typeOfTarget": "All",
             "directEffects": [
@@ -68089,7 +68120,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 20
+            "gemValue": 10
           },
           {
             "itemType": "Other",
@@ -68098,7 +68129,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 500
+            "gemValue": 35
           },
           {
             "itemType": "Other",
@@ -68107,7 +68138,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 500
+            "gemValue": 2000
           },
           {
             "itemType": "Other",
@@ -68116,7 +68147,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 2000
+            "gemValue": 360
           },
           {
             "itemType": "Other",
@@ -68134,7 +68165,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 1000
+            "gemValue": 2000
           },
           {
             "itemType": "HeroEmblem",
@@ -68143,7 +68174,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 20,
+            "gemValue": 15,
             "heroClass": "Barbarian"
           },
           {
@@ -68153,7 +68184,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 20,
+            "gemValue": 15,
             "heroClass": "Fighter"
           },
           {
@@ -68163,7 +68194,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 20,
+            "gemValue": 15,
             "heroClass": "Wizard"
           },
           {
@@ -68173,7 +68204,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 20,
+            "gemValue": 15,
             "heroClass": "Cleric"
           },
           {
@@ -68183,7 +68214,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 20,
+            "gemValue": 15,
             "heroClass": "Rogue"
           },
           {
@@ -68193,7 +68224,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 20,
+            "gemValue": 15,
             "heroClass": "Druid"
           },
           {
@@ -68203,7 +68234,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 20,
+            "gemValue": 15,
             "heroClass": "Monk"
           },
           {
@@ -68213,7 +68244,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 20,
+            "gemValue": 15,
             "heroClass": "Ranger"
           },
           {
@@ -68223,7 +68254,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 20,
+            "gemValue": 15,
             "heroClass": "Sorcerer"
           },
           {
@@ -68233,7 +68264,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 20,
+            "gemValue": 15,
             "heroClass": "Paladin"
           },
           {
@@ -68243,7 +68274,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 40,
+            "gemValue": 30,
             "canBeReceivedDate": "2024-05-14 07:00:00",
             "heroClass": "Barbarian"
           },
@@ -68254,7 +68285,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 40,
+            "gemValue": 30,
             "canBeReceivedDate": "2024-05-14 07:00:00",
             "heroClass": "Fighter"
           },
@@ -68265,7 +68296,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 40,
+            "gemValue": 30,
             "canBeReceivedDate": "2024-05-14 07:00:00",
             "heroClass": "Wizard"
           },
@@ -68276,7 +68307,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 40,
+            "gemValue": 30,
             "canBeReceivedDate": "2024-05-14 07:00:00",
             "heroClass": "Cleric"
           },
@@ -68287,7 +68318,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 40,
+            "gemValue": 30,
             "canBeReceivedDate": "2024-05-14 07:00:00",
             "heroClass": "Rogue"
           },
@@ -68298,7 +68329,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 40,
+            "gemValue": 30,
             "canBeReceivedDate": "2024-05-14 07:00:00",
             "heroClass": "Druid"
           },
@@ -68309,7 +68340,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 40,
+            "gemValue": 30,
             "canBeReceivedDate": "2024-05-14 07:00:00",
             "heroClass": "Monk"
           },
@@ -68320,7 +68351,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 40,
+            "gemValue": 30,
             "canBeReceivedDate": "2024-05-14 07:00:00",
             "heroClass": "Ranger"
           },
@@ -68331,7 +68362,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 40,
+            "gemValue": 30,
             "canBeReceivedDate": "2024-05-14 07:00:00",
             "heroClass": "Sorcerer"
           },
@@ -68342,7 +68373,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 40,
+            "gemValue": 30,
             "canBeReceivedDate": "2024-05-14 07:00:00",
             "heroClass": "Paladin"
           },
@@ -68353,7 +68384,7 @@
               "Classic"
             ],
             "rarity": 1,
-            "gemValue": 50
+            "gemValue": 15
           },
           {
             "itemType": "TitanCrafting",
@@ -68362,7 +68393,7 @@
               "Classic"
             ],
             "rarity": 1,
-            "gemValue": 50
+            "gemValue": 15
           },
           {
             "itemType": "TitanCrafting",
@@ -68371,7 +68402,7 @@
               "Classic"
             ],
             "rarity": 1,
-            "gemValue": 50
+            "gemValue": 15
           },
           {
             "itemType": "TitanCrafting",
@@ -68380,7 +68411,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 100
+            "gemValue": 20
           },
           {
             "itemType": "TitanCrafting",
@@ -68389,7 +68420,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 100
+            "gemValue": 20
           },
           {
             "itemType": "TitanCrafting",
@@ -68398,7 +68429,7 @@
               "Classic"
             ],
             "rarity": 2,
-            "gemValue": 100
+            "gemValue": 20
           },
           {
             "itemType": "TitanCrafting",
@@ -68407,7 +68438,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 200
+            "gemValue": 30
           },
           {
             "itemType": "TitanCrafting",
@@ -68416,7 +68447,7 @@
               "Classic"
             ],
             "rarity": 3,
-            "gemValue": 200
+            "gemValue": 30
           },
           {
             "itemType": "TitanCrafting",
@@ -68425,7 +68456,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 500
+            "gemValue": 40
           },
           {
             "itemType": "TitanCrafting",
@@ -68434,7 +68465,7 @@
               "Classic"
             ],
             "rarity": 4,
-            "gemValue": 500
+            "gemValue": 40
           },
           {
             "itemType": "TitanBattle",
@@ -68443,7 +68474,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 50,
+            "gemValue": 15,
             "sideAffected": "Enemies",
             "typeOfTarget": "Single",
             "directEffects": [
@@ -68464,7 +68495,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 300,
+            "gemValue": 30,
             "sideAffected": "Allies",
             "typeOfTarget": "Single",
             "directEffects": [],
@@ -68479,7 +68510,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 300,
+            "gemValue": 15,
             "sideAffected": "Enemies",
             "typeOfTarget": "All",
             "directEffects": [
@@ -68502,7 +68533,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 150,
+            "gemValue": 10,
             "sideAffected": "Allies",
             "typeOfTarget": "Single",
             "directEffects": [],
@@ -68519,7 +68550,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 100,
+            "gemValue": 13,
             "sideAffected": "Allies",
             "typeOfTarget": "All",
             "directEffects": [],
@@ -68537,7 +68568,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 150,
+            "gemValue": 10,
             "sideAffected": "Allies",
             "typeOfTarget": "All",
             "directEffects": [
@@ -68561,7 +68592,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 250,
+            "gemValue": 10,
             "sideAffected": "Enemies",
             "typeOfTarget": "Single",
             "directEffects": [
@@ -68581,7 +68612,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 250,
+            "gemValue": 25,
             "sideAffected": "Allies",
             "typeOfTarget": "NearToTarget",
             "directEffects": [
@@ -68601,7 +68632,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 100,
+            "gemValue": 10,
             "sideAffected": "Allies",
             "typeOfTarget": "NearToTarget",
             "directEffects": [],
@@ -68618,7 +68649,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 150,
+            "gemValue": 10,
             "sideAffected": "Enemies",
             "typeOfTarget": "Single",
             "directEffects": [],
@@ -68635,7 +68666,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 1000,
+            "gemValue": 425,
             "relicEffect": "harvester_generic"
           },
           {
@@ -68645,7 +68676,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 1000,
+            "gemValue": 230,
             "relicEffect": "harvester_iron"
           },
           {
@@ -68655,7 +68686,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 1000,
+            "gemValue": 230,
             "relicEffect": "harvester_food"
           },
           {
@@ -68665,7 +68696,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 1000,
+            "gemValue": 215,
             "relicEffect": "harvester_items"
           },
           {
@@ -68675,7 +68706,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 1000,
+            "gemValue": 215,
             "relicEffect": "harvester_crafting"
           },
           {
@@ -68685,7 +68716,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 1000,
+            "gemValue": 230,
             "relicEffect": "harvester_recruits"
           },
           {
@@ -68695,7 +68726,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 1000,
+            "gemValue": 30,
             "relicEffect": "bag_of_holding_2"
           },
           {
@@ -68705,7 +68736,7 @@
               "Classic"
             ],
             "rarity": 5,
-            "gemValue": 1000,
+            "gemValue": 425,
             "canBeReceivedDate": "2025-03-01 07:00:00",
             "relicEffect": "level_up_xp_multiplier"
           },
@@ -68717,7 +68748,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 36,
+            "gemValue": 15,
             "amountInSeconds": 3600
           },
           {
@@ -68728,7 +68759,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 360,
+            "gemValue": 145,
             "amountInSeconds": 36000
           },
           {
@@ -68739,7 +68770,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 864,
+            "gemValue": 1450,
             "amountInSeconds": 86400
           },
           {
@@ -68749,7 +68780,7 @@
               "Dragon"
             ],
             "rarity": 1,
-            "gemValue": 30,
+            "gemValue": 2,
             "sideAffected": "Allies",
             "typeOfTarget": "Single",
             "directEffects": [
@@ -68769,7 +68800,7 @@
               "Dragon"
             ],
             "rarity": 2,
-            "gemValue": 50,
+            "gemValue": 4,
             "sideAffected": "Allies",
             "typeOfTarget": "Single",
             "directEffects": [
@@ -68789,7 +68820,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 100,
+            "gemValue": 10,
             "sideAffected": "Allies",
             "typeOfTarget": "Single",
             "directEffects": [
@@ -68809,7 +68840,7 @@
               "Dragon"
             ],
             "rarity": 4,
-            "gemValue": 150,
+            "gemValue": 15,
             "sideAffected": "Allies",
             "typeOfTarget": "All",
             "directEffects": [
@@ -68831,7 +68862,7 @@
               "Dragon"
             ],
             "rarity": 2,
-            "gemValue": 50,
+            "gemValue": 4,
             "sideAffected": "Allies",
             "typeOfTarget": "All",
             "directEffects": [],
@@ -68850,7 +68881,7 @@
               "Dragon"
             ],
             "rarity": 2,
-            "gemValue": 50,
+            "gemValue": 4,
             "sideAffected": "Allies",
             "typeOfTarget": "All",
             "directEffects": [],
@@ -68869,7 +68900,7 @@
               "Dragon"
             ],
             "rarity": 5,
-            "gemValue": 300,
+            "gemValue": 20,
             "sideAffected": "Allies",
             "typeOfTarget": "All",
             "directEffects": [
@@ -68893,7 +68924,7 @@
               "Dragon"
             ],
             "rarity": 1,
-            "gemValue": 30,
+            "gemValue": 2,
             "sideAffected": "Enemies",
             "typeOfTarget": "All",
             "directEffects": [
@@ -68914,7 +68945,7 @@
               "Dragon"
             ],
             "rarity": 4,
-            "gemValue": 150,
+            "gemValue": 15,
             "sideAffected": "Enemies",
             "typeOfTarget": "All",
             "directEffects": [
@@ -68939,7 +68970,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 100,
+            "gemValue": 10,
             "sideAffected": "Enemies",
             "typeOfTarget": "All",
             "directEffects": [
@@ -68962,7 +68993,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 100,
+            "gemValue": 10,
             "sideAffected": "Enemies",
             "typeOfTarget": "All",
             "directEffects": [
@@ -68986,7 +69017,7 @@
               "Dragon"
             ],
             "rarity": 1,
-            "gemValue": 30,
+            "gemValue": 2,
             "sideAffected": "Allies",
             "typeOfTarget": "Single",
             "directEffects": [
@@ -69006,7 +69037,7 @@
               "Dragon"
             ],
             "rarity": 2,
-            "gemValue": 50,
+            "gemValue": 4,
             "sideAffected": "Allies",
             "typeOfTarget": "Single",
             "directEffects": [
@@ -69026,7 +69057,7 @@
               "Dragon"
             ],
             "rarity": 4,
-            "gemValue": 150,
+            "gemValue": 15,
             "sideAffected": "Allies",
             "typeOfTarget": "Single",
             "directEffects": [
@@ -69046,7 +69077,7 @@
               "Dragon"
             ],
             "rarity": 1,
-            "gemValue": 20,
+            "gemValue": 2,
             "sideAffected": "Allies",
             "typeOfTarget": "All",
             "directEffects": [
@@ -69067,7 +69098,7 @@
               "Dragon"
             ],
             "rarity": 5,
-            "gemValue": 300,
+            "gemValue": 20,
             "sideAffected": "Allies",
             "typeOfTarget": "All",
             "directEffects": [
@@ -69092,7 +69123,7 @@
               "Dragon"
             ],
             "rarity": 5,
-            "gemValue": 300,
+            "gemValue": 20,
             "sideAffected": "Allies",
             "typeOfTarget": "All",
             "directEffects": [
@@ -69115,7 +69146,7 @@
               "Dragon"
             ],
             "rarity": 1,
-            "gemValue": 10,
+            "gemValue": 5,
             "associatedElement": "Blue",
             "firstProvince": 1,
             "provinceRewardWeight": 2
@@ -69127,7 +69158,7 @@
               "Dragon"
             ],
             "rarity": 1,
-            "gemValue": 10,
+            "gemValue": 5,
             "associatedElement": "Green",
             "firstProvince": 1,
             "provinceRewardWeight": 2
@@ -69139,7 +69170,7 @@
               "Dragon"
             ],
             "rarity": 1,
-            "gemValue": 10,
+            "gemValue": 5,
             "associatedElement": "Purple",
             "firstProvince": 1,
             "provinceRewardWeight": 2
@@ -69151,7 +69182,7 @@
               "Dragon"
             ],
             "rarity": 1,
-            "gemValue": 10,
+            "gemValue": 5,
             "associatedElement": "Red",
             "firstProvince": 1,
             "provinceRewardWeight": 2
@@ -69163,7 +69194,7 @@
               "Dragon"
             ],
             "rarity": 1,
-            "gemValue": 10,
+            "gemValue": 5,
             "associatedElement": "Yellow",
             "firstProvince": 1,
             "provinceRewardWeight": 2
@@ -69175,7 +69206,7 @@
               "Dragon"
             ],
             "rarity": 1,
-            "gemValue": 10,
+            "gemValue": 5,
             "associatedElement": "All",
             "firstProvince": 1,
             "provinceRewardWeight": 25
@@ -69187,7 +69218,7 @@
               "Dragon"
             ],
             "rarity": 2,
-            "gemValue": 100,
+            "gemValue": 10,
             "associatedElement": "Red",
             "firstProvince": 1,
             "provinceRewardWeight": 1
@@ -69199,7 +69230,7 @@
               "Dragon"
             ],
             "rarity": 2,
-            "gemValue": 100,
+            "gemValue": 10,
             "associatedElement": "Purple",
             "firstProvince": 1,
             "provinceRewardWeight": 1
@@ -69211,7 +69242,7 @@
               "Dragon"
             ],
             "rarity": 2,
-            "gemValue": 100,
+            "gemValue": 10,
             "associatedElement": "Yellow",
             "firstProvince": 1,
             "provinceRewardWeight": 1
@@ -69223,7 +69254,7 @@
               "Dragon"
             ],
             "rarity": 2,
-            "gemValue": 100,
+            "gemValue": 10,
             "associatedElement": "All",
             "firstProvince": 1,
             "provinceRewardWeight": 1
@@ -69235,7 +69266,7 @@
               "Dragon"
             ],
             "rarity": 2,
-            "gemValue": 100,
+            "gemValue": 10,
             "associatedElement": "Blue",
             "firstProvince": 1,
             "provinceRewardWeight": 1
@@ -69247,7 +69278,7 @@
               "Dragon"
             ],
             "rarity": 2,
-            "gemValue": 100,
+            "gemValue": 10,
             "associatedElement": "Green",
             "firstProvince": 1,
             "provinceRewardWeight": 1
@@ -69259,7 +69290,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 300,
+            "gemValue": 15,
             "associatedElement": "Blue",
             "firstProvince": 1,
             "provinceRewardWeight": 1
@@ -69271,7 +69302,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 300,
+            "gemValue": 15,
             "associatedElement": "Yellow",
             "firstProvince": 1,
             "provinceRewardWeight": 1
@@ -69283,7 +69314,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 1000,
+            "gemValue": 145,
             "associatedElement": "All",
             "firstProvince": 0,
             "provinceRewardWeight": 1
@@ -69295,7 +69326,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 1000,
+            "gemValue": 145,
             "associatedElement": "Red",
             "firstProvince": 0,
             "provinceRewardWeight": 1
@@ -69307,7 +69338,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 1000,
+            "gemValue": 145,
             "associatedElement": "Yellow",
             "firstProvince": 0,
             "provinceRewardWeight": 1
@@ -69319,7 +69350,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 300,
+            "gemValue": 15,
             "associatedElement": "Purple",
             "firstProvince": 1,
             "provinceRewardWeight": 1
@@ -69331,7 +69362,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 300,
+            "gemValue": 15,
             "associatedElement": "Red",
             "firstProvince": 1,
             "provinceRewardWeight": 1
@@ -69343,7 +69374,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 300,
+            "gemValue": 15,
             "associatedElement": "Green",
             "firstProvince": 1,
             "provinceRewardWeight": 1
@@ -69355,7 +69386,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 1000,
+            "gemValue": 145,
             "associatedElement": "Green",
             "firstProvince": 0,
             "provinceRewardWeight": 1
@@ -69367,7 +69398,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 300,
+            "gemValue": 15,
             "associatedElement": "All",
             "firstProvince": 1,
             "provinceRewardWeight": 1
@@ -69379,7 +69410,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 1000,
+            "gemValue": 145,
             "associatedElement": "Purple",
             "firstProvince": 0,
             "provinceRewardWeight": 1
@@ -69391,7 +69422,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 1000,
+            "gemValue": 145,
             "associatedElement": "Blue",
             "firstProvince": 0,
             "provinceRewardWeight": 1
@@ -69403,7 +69434,7 @@
               "Dragon"
             ],
             "rarity": 4,
-            "gemValue": 5000,
+            "gemValue": 860,
             "associatedElement": "All",
             "firstProvince": 0,
             "provinceRewardWeight": 1
@@ -69415,7 +69446,7 @@
               "Dragon"
             ],
             "rarity": 4,
-            "gemValue": 5000,
+            "gemValue": 860,
             "associatedElement": "Blue",
             "firstProvince": 0,
             "provinceRewardWeight": 1
@@ -69427,7 +69458,7 @@
               "Dragon"
             ],
             "rarity": 4,
-            "gemValue": 5000,
+            "gemValue": 860,
             "associatedElement": "Green",
             "firstProvince": 0,
             "provinceRewardWeight": 1
@@ -69439,7 +69470,7 @@
               "Dragon"
             ],
             "rarity": 4,
-            "gemValue": 5000,
+            "gemValue": 860,
             "associatedElement": "Red",
             "firstProvince": 0,
             "provinceRewardWeight": 1
@@ -69451,7 +69482,7 @@
               "Dragon"
             ],
             "rarity": 4,
-            "gemValue": 5000,
+            "gemValue": 860,
             "associatedElement": "Purple",
             "firstProvince": 0,
             "provinceRewardWeight": 1
@@ -69463,7 +69494,7 @@
               "Dragon"
             ],
             "rarity": 4,
-            "gemValue": 5000,
+            "gemValue": 860,
             "associatedElement": "Yellow",
             "firstProvince": 0,
             "provinceRewardWeight": 1
@@ -69475,7 +69506,7 @@
               "Dragon"
             ],
             "rarity": 4,
-            "gemValue": 5000,
+            "gemValue": 860,
             "associatedElement": "All",
             "firstProvince": 0,
             "provinceRewardWeight": 1
@@ -69487,7 +69518,7 @@
               "Dragon"
             ],
             "rarity": 1,
-            "gemValue": 16,
+            "gemValue": 2,
             "typeOfRefill": "Food",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 10000
@@ -69499,7 +69530,7 @@
               "Dragon"
             ],
             "rarity": 2,
-            "gemValue": 81,
+            "gemValue": 4,
             "typeOfRefill": "Food",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 50000
@@ -69511,7 +69542,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 163,
+            "gemValue": 15,
             "typeOfRefill": "Food",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 100000
@@ -69523,7 +69554,7 @@
               "Dragon"
             ],
             "rarity": 4,
-            "gemValue": 407,
+            "gemValue": 35,
             "typeOfRefill": "Food",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 250000
@@ -69535,7 +69566,7 @@
               "Dragon"
             ],
             "rarity": 5,
-            "gemValue": 814,
+            "gemValue": 75,
             "typeOfRefill": "Food",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 500000
@@ -69547,7 +69578,7 @@
               "Dragon"
             ],
             "rarity": 1,
-            "gemValue": 16,
+            "gemValue": 2,
             "typeOfRefill": "Iron",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 10000
@@ -69559,7 +69590,7 @@
               "Dragon"
             ],
             "rarity": 2,
-            "gemValue": 81,
+            "gemValue": 4,
             "typeOfRefill": "Iron",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 50000
@@ -69571,7 +69602,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 163,
+            "gemValue": 15,
             "typeOfRefill": "Iron",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 100000
@@ -69583,7 +69614,7 @@
               "Dragon"
             ],
             "rarity": 4,
-            "gemValue": 407,
+            "gemValue": 35,
             "typeOfRefill": "Iron",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 250000
@@ -69595,7 +69626,7 @@
               "Dragon"
             ],
             "rarity": 5,
-            "gemValue": 814,
+            "gemValue": 75,
             "typeOfRefill": "Iron",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 500000
@@ -69607,7 +69638,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 100,
+            "gemValue": 45,
             "typeOfRefill": "PveEnergy"
           },
           {
@@ -69617,7 +69648,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 100,
+            "gemValue": 45,
             "typeOfRefill": "PvpEnergy"
           },
           {
@@ -69627,7 +69658,7 @@
               "Dragon"
             ],
             "rarity": 1,
-            "gemValue": 50,
+            "gemValue": 4,
             "typeOfRefill": "Recruits",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 10
@@ -69639,7 +69670,7 @@
               "Dragon"
             ],
             "rarity": 2,
-            "gemValue": 100,
+            "gemValue": 5,
             "typeOfRefill": "Recruits",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 20
@@ -69651,7 +69682,7 @@
               "Dragon"
             ],
             "rarity": 3,
-            "gemValue": 250,
+            "gemValue": 4,
             "typeOfRefill": "Recruits",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 30
@@ -69663,7 +69694,7 @@
               "Dragon"
             ],
             "rarity": 4,
-            "gemValue": 500,
+            "gemValue": 8,
             "typeOfRefill": "Recruits",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 50
@@ -69675,7 +69706,7 @@
               "Dragon"
             ],
             "rarity": 5,
-            "gemValue": 1000,
+            "gemValue": 20,
             "typeOfRefill": "Recruits",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 100
@@ -82805,10 +82836,54 @@
                 "bonusLevels": []
               },
               {
-                "bonusLevels": []
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 110,
+                    "defenseBonusPerMil": 110,
+                    "healthBonusPerMil": 110,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 120,
+                    "defenseBonusPerMil": 120,
+                    "healthBonusPerMil": 120,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 130,
+                    "defenseBonusPerMil": 130,
+                    "healthBonusPerMil": 130,
+                    "manaBonusPerMil": 50
+                  }
+                ]
               },
               {
-                "bonusLevels": []
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 120,
+                    "defenseBonusPerMil": 120,
+                    "healthBonusPerMil": 140,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 130,
+                    "defenseBonusPerMil": 130,
+                    "healthBonusPerMil": 160,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 140,
+                    "defenseBonusPerMil": 140,
+                    "healthBonusPerMil": 180,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 180,
+                    "defenseBonusPerMil": 180,
+                    "healthBonusPerMil": 200,
+                    "manaBonusPerMil": 50
+                  }
+                ]
               },
               {
                 "bonusLevels": [
@@ -82912,19 +82987,19 @@
                     "attackBonusPerMil": 340,
                     "defenseBonusPerMil": 340,
                     "healthBonusPerMil": 360,
-                    "manaBonusPerMil": 10
+                    "manaBonusPerMil": 20
                   },
                   {
                     "attackBonusPerMil": 360,
                     "defenseBonusPerMil": 360,
                     "healthBonusPerMil": 390,
-                    "manaBonusPerMil": 10
+                    "manaBonusPerMil": 30
                   },
                   {
-                    "attackBonusPerMil": 380,
-                    "defenseBonusPerMil": 380,
-                    "healthBonusPerMil": 420,
-                    "manaBonusPerMil": 10
+                    "attackBonusPerMil": 550,
+                    "defenseBonusPerMil": 550,
+                    "healthBonusPerMil": 600,
+                    "manaBonusPerMil": 50
                   }
                 ]
               }
@@ -82970,6 +83045,96 @@
                     "defenseBonusPerMil": 380,
                     "healthBonusPerMil": 390,
                     "manaBonusPerMil": 10
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "tales2_feb26",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 10,
+                    "defenseBonusPerMil": 10,
+                    "healthBonusPerMil": 30,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 30,
+                    "defenseBonusPerMil": 30,
+                    "healthBonusPerMil": 50,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 50,
+                    "defenseBonusPerMil": 50,
+                    "healthBonusPerMil": 70,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 100,
+                    "defenseBonusPerMil": 100,
+                    "healthBonusPerMil": 120,
+                    "manaBonusPerMil": 50
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "elemental_feb_2026",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 280,
+                    "defenseBonusPerMil": 280,
+                    "healthBonusPerMil": 300,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 320,
+                    "defenseBonusPerMil": 320,
+                    "healthBonusPerMil": 350,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 360,
+                    "defenseBonusPerMil": 360,
+                    "healthBonusPerMil": 400,
+                    "manaBonusPerMil": 40
+                  },
+                  {
+                    "attackBonusPerMil": 470,
+                    "defenseBonusPerMil": 470,
+                    "healthBonusPerMil": 470,
+                    "manaBonusPerMil": 50
                   }
                 ]
               }
@@ -84946,5 +85111,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 404975167
+  "otherConfigId": 1832232895
 }

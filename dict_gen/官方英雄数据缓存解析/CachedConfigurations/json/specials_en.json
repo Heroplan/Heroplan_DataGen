@@ -59148,7 +59148,7 @@
         "propertyType": "ChainStrike",
         "id": "verdant_trap_chain_strike",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 2850,
+        "powerMultiplierPerMil": 2400,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "maxExtraHits": 2,
         "extraHitChancePerMil": 1000,
@@ -67090,5 +67090,5 @@
       }
     ]
   },
-  "specialsConfigId": 2444831
+  "specialsConfigId": 3427177262
 }

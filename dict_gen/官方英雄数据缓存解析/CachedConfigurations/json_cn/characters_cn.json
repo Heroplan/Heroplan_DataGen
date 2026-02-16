@@ -11103,7 +11103,7 @@
     "specialId": "嗜血匕首",
     "canBeReceivedDate": "2023-05-22 07:00:00",
     "origin": "SuperElemental",
-    "costumeBonusesId": "elemental"
+    "costumeBonusesId": "elemental_feb_2026"
   },
   "holy_god_celidana": {
     "id": "塞利达纳",
@@ -16624,7 +16624,7 @@
     "specialId": "练剑穿心",
     "canBeReceivedDate": "2023-03-08 07:00:00",
     "origin": "勇者与美人",
-    "costumeBonusesId": "musketeer"
+    "costumeBonusesId": "musketeer_dec_2025"
   },
   "journey_erlang_shen": {
     "id": "二郎神",
@@ -16733,7 +16733,7 @@
     "specialId": "善意之花",
     "canBeReceivedDate": "2023-03-08 07:00:00",
     "origin": "勇者与美人",
-    "costumeBonusesId": "musketeer"
+    "costumeBonusesId": "musketeer_dec_2025"
   },
   "musketeer_felton": {
     "id": "费尔顿",
@@ -21897,7 +21897,7 @@
     "id": "赛博信使",
     "element": "紫",
     "family": "超级元素人家族",
-    "baseHealth": 827,
+    "baseHealth": 828,
     "baseAttack": 426,
     "baseDefense": 415,
     "manaSpeedId": "快速",
@@ -21908,7 +21908,7 @@
     "aetherGift": "Damage Reduction",
     "rarity": 5,
     "specialId": "撕裂信笺",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-19 07:00:00",
     "origin": "SuperElemental",
     "parentHeroId": "阿珂妮亚"
   },
@@ -22399,7 +22399,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "烟尘清扫",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-20 07:00:00",
     "origin": "勇者与美人",
     "parentHeroId": "达达尼昂"
   },
@@ -22459,7 +22459,7 @@
     "aetherGift": "Heal Increase",
     "rarity": 4,
     "specialId": "善行之果",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-20 07:00:00",
     "origin": "勇者与美人",
     "parentHeroId": "凯蒂"
   },
@@ -22479,7 +22479,7 @@
     "aetherGift": "Fiend Resist",
     "rarity": 3,
     "specialId": "冒险家斩击",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-20 07:00:00",
     "origin": "勇者与美人",
     "parentHeroId": "布朗歇"
   },
@@ -22519,7 +22519,7 @@
     "aetherGift": "Mana Boost",
     "rarity": 5,
     "specialId": "皇家枪锋",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-18 07:00:00",
     "origin": "烈焰与冰霜宝藏",
     "parentHeroId": "甘德尔"
   },
@@ -25847,7 +25847,7 @@
     "specialId": "枪杖狂澜",
     "canBeReceivedDate": "2024-12-03 07:00:00",
     "origin": "烈焰与冰霜宝藏",
-    "costumeBonusesId": "tales2"
+    "costumeBonusesId": "tales2_feb26"
   },
   "tales2_ott": {
     "id": "奥特",
@@ -28330,9 +28330,9 @@
     "id": "萨宛",
     "element": "黄",
     "family": "野猫家族",
-    "baseHealth": 1090,
-    "baseAttack": 639,
-    "baseDefense": 612,
+    "baseHealth": 1114,
+    "baseAttack": 674,
+    "baseDefense": 606,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "resist_all_defense_effects",
@@ -28342,7 +28342,7 @@
     "aetherGift": "Regen",
     "rarity": 5,
     "specialId": "旭日礼赞",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-21 07:00:00",
     "origin": "荒野召唤"
   },
   "wild_cat_gitnib": {
@@ -30062,9 +30062,9 @@
     "id": "斯雷迈尔",
     "element": "紫",
     "family": "史莱姆家族",
-    "baseHealth": 1000,
-    "baseAttack": 550,
-    "baseDefense": 600,
+    "baseHealth": 1113,
+    "baseAttack": 631,
+    "baseDefense": 660,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "summon_slime_minion_on_damage_purple",
@@ -30074,7 +30074,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "黏性处决",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-19 07:00:00",
     "origin": "SuperElemental"
   },
   "slime_labblub": {
@@ -31218,8 +31218,7 @@
     "specialId": "渴望之咬",
     "canBeReceivedDate": "2026-02-08 07:00:00",
     "origin": "SecretSummonAetherMimicPurple",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_aether_yellow": {
     "id": "艾瑟尔拟态兽",
@@ -32083,9 +32082,9 @@
     "id": "农历灯灵兔",
     "element": "红",
     "family": "zodiac_rabbit",
-    "baseHealth": 727,
+    "baseHealth": 728,
     "baseAttack": 415,
-    "baseDefense": 398,
+    "baseDefense": 399,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "enemy_minion_follower_silencer"
@@ -32103,8 +32102,8 @@
     "id": "农历祥瑞虎",
     "element": "黄",
     "family": "zodiac_tiger",
-    "baseHealth": 747,
-    "baseAttack": 410,
+    "baseHealth": 748,
+    "baseAttack": 411,
     "baseDefense": 391,
     "manaSpeedId": "快速",
     "passiveSkills": [
@@ -32423,9 +32422,9 @@
     "id": "塞莉莎",
     "element": "黄",
     "family": "美女与野兽家族",
-    "baseHealth": 1095,
-    "baseAttack": 602,
-    "baseDefense": 608,
+    "baseHealth": 1114,
+    "baseAttack": 641,
+    "baseDefense": 647,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
@@ -32436,7 +32435,7 @@
     "aetherGift": "Heal Increase",
     "rarity": 5,
     "specialId": "羁绊咒语",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-02-20 07:00:00",
     "origin": "勇者与美人"
   },
   "beauty_beast_seraphine": {
@@ -32622,9 +32621,9 @@
     "id": "博尔戈夫",
     "element": "绿",
     "family": "泰坦猎手家族",
-    "baseHealth": 1095,
-    "baseAttack": 639,
-    "baseDefense": 621,
+    "baseHealth": 1114,
+    "baseAttack": 651,
+    "baseDefense": 634,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "titan_hunter_hunting_flare_on_special_cast",
@@ -33193,8 +33192,8 @@
     "id": "彦青",
     "element": "蓝",
     "family": "幸运舞者家族",
-    "baseHealth": 1104,
-    "baseAttack": 649,
+    "baseHealth": 1100,
+    "baseAttack": 650,
     "baseDefense": 644,
     "manaSpeedId": "dancer",
     "passiveSkills": [
@@ -33213,7 +33212,7 @@
     "family": "幸运舞者家族",
     "baseHealth": 682,
     "baseAttack": 387,
-    "baseDefense": 375,
+    "baseDefense": 376,
     "manaSpeedId": "dancer",
     "passiveSkills": [
       "dealt_damage_modifier_on_any_dancing_ally"
@@ -33229,8 +33228,8 @@
     "id": "龙之子",
     "element": "红",
     "family": "幸运舞者家族",
-    "baseHealth": 582,
-    "baseAttack": 299,
+    "baseHealth": 583,
+    "baseAttack": 300,
     "baseDefense": 313,
     "manaSpeedId": "dancer",
     "passiveSkills": [
@@ -33503,8 +33502,9 @@
     "rarity": 5,
     "specialId": "饕餮啃噬",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "Mimic",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true
+    "origin": "SecretSummonTroopMimicRed",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true,
+    "isSecret": true
   },
   "mimic_troop_blue": {
     "id": "队伍拟态兽",
@@ -33523,8 +33523,9 @@
     "rarity": 5,
     "specialId": "饕餮啃噬",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "Mimic",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true
+    "origin": "SecretSummonTroopMimicBlue",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true,
+    "isSecret": true
   },
   "mimic_troop_green": {
     "id": "队伍拟态兽",
@@ -33543,8 +33544,9 @@
     "rarity": 5,
     "specialId": "饕餮啃噬",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "Mimic",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true
+    "origin": "SecretSummonTroopMimicGreen",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true,
+    "isSecret": true
   },
   "mimic_troop_yellow": {
     "id": "队伍拟态兽",
@@ -33563,8 +33565,9 @@
     "rarity": 5,
     "specialId": "饕餮啃噬",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "Mimic",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true
+    "origin": "SecretSummonTroopMimicYellow",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true,
+    "isSecret": true
   },
   "mimic_troop_purple": {
     "id": "队伍拟态兽",
@@ -33583,16 +33586,17 @@
     "rarity": 5,
     "specialId": "饕餮啃噬",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "Mimic",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true
+    "origin": "SecretSummonTroopMimicPurple",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true,
+    "isSecret": true
   },
   "lunar_new_year_hongyunxing": {
     "id": "鸿运星",
     "element": "红",
     "family": "zodiac_horse",
-    "baseHealth": 1081,
-    "baseAttack": 630,
-    "baseDefense": 628,
+    "baseHealth": 1112,
+    "baseAttack": 645,
+    "baseDefense": 643,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "enemy_minion_follower_silencer"

@@ -42962,11 +42962,11 @@
               "ReplaceSameStatusEffect"
             ],
             "excludeEffectTriggerRemovalReasons": [],
-            "fixedPower": 450,
+            "fixedPower": 300,
             "maxActivationsPerTurn": 2
           }
         ],
-        "defenseMultiplierPerMil": 550
+        "defenseMultiplierPerMil": 580
       },
       {
         "statusEffect": "RedTrap",
@@ -90190,5 +90190,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 4060292375
+  "battleConfigId": 3007003769
 }

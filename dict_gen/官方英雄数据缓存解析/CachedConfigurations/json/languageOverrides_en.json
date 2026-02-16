@@ -94,6 +94,10 @@
           {
             "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
             "text": "Al termine di ogni turno, infligge il {POWER}% di danni a un nemico a caso e aumenta la propria Salute per il {DAMAGEABSORB}% dei danni totali inflitti."
+          },
+          {
+            "key": "specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single",
+            "text": "Se il bersaglio viene sconfitto dall'attacco, tutti gli alleati ottengono il {EFFECT2POWER}% di mana e la loro Salute  aumenta di {EFFECT1FIXEDPOWER}. La Salute potenziata può superare gli HP massimi."
           }
         ]
       },
@@ -113,7 +117,7 @@
           },
           {
             "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
-            "text": "[#!]Складывается +{BASESTACKCOUNT} (до {MAXSTACK}) р.:[#] весь урон, получаемый героем и союзниками поблизости, увеличивается на {DAMAGEMODIFIER} %"
+            "text": "[#!]Сумма +{BASESTACKCOUNT} (до {MAXSTACK}):[#] Весь урон герою и союзникам рядом снижается на {DAMAGEMODIFIER} %."
           },
           {
             "key": "lottery.description.summon_chest_promo_challenge",
@@ -190,6 +194,10 @@
           {
             "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
             "text": "В конце каждого хода наносят {POWER} % урона случайному врагу и усиливают свое здоровье на {DAMAGEABSORB} % нанесенного урона."
+          },
+          {
+            "key": "specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single",
+            "text": "Если цель побеждена атакой, все союзники получают {EFFECT2POWER} % маны, а их здоровье увеличивается на {EFFECT1FIXEDPOWER}. Увеличенное здоровье не может превышать максимальное."
           }
         ]
       },
@@ -209,7 +217,7 @@
           },
           {
             "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
-            "text": "[#!]Kumulacja +{BASESTACKCOUNT} (maks.: {MAXSTACK}):[#] Wszystkie obrażenia odnoszone przez rzucającego i pobliskich sojuszników są zwiększone o {DAMAGEMODIFIER}%."
+            "text": "[#!]Kumulacja +{BASESTACKCOUNT} (maks.: {MAXSTACK}):[#] Wszystkie obrażenia odnoszone przez rzucającego i pobliskich sojuszników są zmniejszone o {DAMAGEMODIFIER}%."
           },
           {
             "key": "lottery.description.summon_chest_promo_challenge",
@@ -286,6 +294,10 @@
           {
             "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
             "text": "Na koniec każdej tury zadaje {POWER}% obrażeń losowemu wrogowi i wzmacniają swoje zdrowie o {DAMAGEABSORB}% zadanych obrażeń."
+          },
+          {
+            "key": "specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single",
+            "text": "Jeśli cel zostanie pokonany atakiem, wszyscy sojusznicy otrzymują {EFFECT2POWER}% many i ich zdrowie zostaje wzmocnione o {EFFECT1FIXEDPOWER} pkt. Wzmocnione zdrowie może przekroczyć maks. liczbę PŻ."
           }
         ]
       },
@@ -305,7 +317,7 @@
           },
           {
             "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
-            "text": "[#!]疊加+{BASESTACKCOUNT}（最大值：{MAXSTACK}）：[#]施法者和附近盟友受到的所有傷害增加{DAMAGEMODIFIER}%。"
+            "text": "[#!]疊加+{BASESTACKCOUNT}（最大值：{MAXSTACK}）：[#]施法者和附近盟友受到的所有傷害減少{DAMAGEMODIFIER}%。"
           },
           {
             "key": "lottery.description.summon_chest_promo_challenge",
@@ -382,6 +394,10 @@
           {
             "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
             "text": "在每回合結束時，對一名隨機敵人造成{POWER}%傷害，並獲得所造成之總傷害{DAMAGEABSORB}%的加成生命。"
+          },
+          {
+            "key": "specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single",
+            "text": "若目標被攻擊擊敗，所有盟友獲得{EFFECT2POWER}%法力，且所有盟友生命值加成{EFFECT1FIXEDPOWER}。生命值加成可以超過最大生命值"
           }
         ]
       },
@@ -401,7 +417,7 @@
           },
           {
             "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
-            "text": "[#!]중첩 +{BASESTACKCOUNT} (최대: {MAXSTACK}):[#] 시전자와 주변 아군이 받은 모든 피해가 {DAMAGEMODIFIER}% 증가합니다."
+            "text": "[#!]중첩 +{BASESTACKCOUNT} (최대: {MAXSTACK}):[#] 시전자와 주변 아군이 받은 모든 피해가 {DAMAGEMODIFIER}% 감소합니다."
           },
           {
             "key": "lottery.description.summon_chest_promo_challenge",
@@ -478,6 +494,10 @@
           {
             "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
             "text": "매 턴이 끝날 때마다 무작위로 적 하나에게 {POWER}%의 피해를 주고 적에게 준 총 피해의 {DAMAGEABSORB}% 만큼 HP가 증가합니다."
+          },
+          {
+            "key": "specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single",
+            "text": "공격으로 대상이 쓰러지면 모든 아군이 {EFFECT2POWER}% 마나를 받으며 이들의 HP가 {EFFECT1FIXEDPOWER} 증가합니다. 증가한 HP는 최대 HP를 초과할 수 있습니다."
           }
         ]
       },
@@ -497,7 +517,7 @@
           },
           {
             "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
-            "text": "[#!]Stapel +{BASESTACKCOUNT} (Max.: {MAXSTACK}):[#] Der gesamte Schaden, den der Wirker und Verbündete in der Nähe erleiden, wird um {DAMAGEMODIFIER} % erhöht."
+            "text": "[#!]Stapel +{BASESTACKCOUNT} (Max.: {MAXSTACK}):[#] Der gesamte Schaden, den der Wirker und Verbündete in der Nähe erleiden, wird um {DAMAGEMODIFIER} % reduziert."
           },
           {
             "key": "lottery.description.summon_chest_promo_challenge",
@@ -574,6 +594,10 @@
           {
             "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
             "text": "Am Ende jedes Zuges wird einem zufälligen Gegner {POWER} % Schaden zugefügt und das eigene Leben um {DAMAGEABSORB} % des verursachten Gesamtschadens verstärkt."
+          },
+          {
+            "key": "specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single",
+            "text": "Wenn das Ziel durch den Angriff besiegt wird, erhalten alle Verbündeten {EFFECT2POWER} % Mana und eine Lebensverstärkung von {EFFECT1FIXEDPOWER}. Verstärktes Leben kann die max. LP übersteigen."
           }
         ]
       },
@@ -593,7 +617,7 @@
           },
           {
             "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
-            "text": "[#!]累積効果+{BASESTACKCOUNT}（最大：{MAXSTACK}）：[#]術者と近くにいる仲間が受けるすべてのダメージが{DAMAGEMODIFIER}%増加する。"
+            "text": "[#!]累積効果+{BASESTACKCOUNT}（最大：{MAXSTACK}）：[#]術者と近くにいる仲間が受けるすべてのダメージが{DAMAGEMODIFIER}%減少する。"
           },
           {
             "key": "lottery.description.summon_chest_promo_challenge",
@@ -670,6 +694,10 @@
           {
             "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
             "text": "各ターン終了時に、ランダムな敵に{POWER}%のダメージを与え、与えた全ダメージの{DAMAGEABSORB}%分自身のライフをブーストする。"
+          },
+          {
+            "key": "specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single",
+            "text": "攻撃によってターゲットを倒した場合、仲間全員が{EFFECT2POWER}%のマナを回復し、ライフが{EFFECT1FIXEDPOWER}ブーストされる。ブーストされたライフは最大ライフを越えることができる。"
           }
         ]
       },
@@ -689,7 +717,7 @@
           },
           {
             "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
-            "text": "[#!]Staplas +{BASESTACKCOUNT} (Max: {MAXSTACK}):[#] All skada som användaren och allierade i närheten tar ökar med {DAMAGEMODIFIER} %."
+            "text": "[#!]Staplas +{BASESTACKCOUNT} (Max: {MAXSTACK}):[#] All skada som användaren och allierade i närheten tar sänks med {DAMAGEMODIFIER} %."
           },
           {
             "key": "lottery.description.summon_chest_promo_challenge",
@@ -766,6 +794,10 @@
           {
             "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
             "text": "Gör {POWER} % skada i slutet av varje runda mot en slumpmässig fiende och ökar sedan sin hälsa med motsvarande {DAMAGEABSORB} % av gjord totalskada."
+          },
+          {
+            "key": "specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single",
+            "text": "Om målet besegras av attacken får alla allierade {EFFECT2POWER} % mana och deras hälsa ökar med {EFFECT1FIXEDPOWER}. Hälsohöjningen kan överstiga maxhälsan."
           }
         ]
       },
@@ -785,7 +817,7 @@
           },
           {
             "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
-            "text": "[#!]İstif +{BASESTACKCOUNT} (Maks: {MAXSTACK}):[#] Eylemcinin ve yakındaki müttefiklerin aldığı tüm hasar %{DAMAGEMODIFIER} artırılır."
+            "text": "[#!]İstif +{BASESTACKCOUNT} (Maks.: {MAXSTACK}):[#] Eylemcinin ve yakındaki müttefiklerin aldığı tüm hasar %{DAMAGEMODIFIER} azalır."
           },
           {
             "key": "lottery.description.summon_chest_promo_challenge",
@@ -862,6 +894,10 @@
           {
             "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
             "text": "Her turun sonunda rastgele bir düşmana %{POWER} hasar verir ve verilen toplam hasarın %{DAMAGEABSORB} kadarı sağlık yeniler."
+          },
+          {
+            "key": "specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single",
+            "text": "Hedef, saldırı sonucunda yenilirse tüm müttefikler %{EFFECT2POWER} mana kazanır ve sağlıkları {EFFECT1FIXEDPOWER} artar. Güçlendirilmiş sağlık, maks. SP'yi geçebilir"
           }
         ]
       },
@@ -885,7 +921,7 @@
           },
           {
             "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
-            "text": "[#!]Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}):[#] All damage the caster and nearby allies receive is increased by {DAMAGEMODIFIER}%."
+            "text": "[#!]Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}):[#] All damage the caster and nearby allies receive is reduced by {DAMAGEMODIFIER}%."
           },
           {
             "key": "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies",
@@ -958,6 +994,10 @@
           {
             "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
             "text": "At the end of each turn deals {POWER}% damage to a random enemy and boosts health for themselves with {DAMAGEABSORB}% of total damage dealt."
+          },
+          {
+            "key": "specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single",
+            "text": "If the target is defeated by the attack, all allies get {EFFECT2POWER}% mana and their health is boosted by {EFFECT1FIXEDPOWER}. Boosted health can exceed max HP."
           }
         ]
       },
@@ -977,7 +1017,7 @@
           },
           {
             "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
-            "text": "[#!]تكدس+{BASESTACKCOUNT} (الحد الأقصى: {MAXSTACK}):[#] تتم زيادة كل الضرر الذي يتلقاه الرامي والحلفاء المجاورون بنسبة {DAMAGEMODIFIER}%."
+            "text": "[#!]تكدس +{BASESTACKCOUNT} (الحد الأقصى: {MAXSTACK}):[#] يتم خفض كل الضرر الذي يتلقاه الرامي والحلفاء المجاورون بنسبة {DAMAGEMODIFIER}%."
           },
           {
             "key": "lottery.description.summon_chest_promo_challenge",
@@ -1054,6 +1094,10 @@
           {
             "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
             "text": "في نهاية كل جولة، يلحق {POWER}% من الضرر بعدو عشوائي، ويعزز صحته بنسبة {DAMAGEABSORB}% من إجمالي الضرر المُلحق."
+          },
+          {
+            "key": "specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single",
+            "text": "إذا تغلب الهجوم على الهدف، يحصل جميع الحلفاء على {EFFECT2POWER}% من القوة، وتُعزز صحتهم بمقدار {EFFECT1FIXEDPOWER}. يمكن للصحة المعززة تجاوز الحد الأقصى للصحة"
           }
         ]
       },
@@ -1073,7 +1117,7 @@
           },
           {
             "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
-            "text": "[#!]Cumul +{BASESTACKCOUNT} (maximum : {MAXSTACK}) :[#] tous les dégâts subis par le lanceur et les alliés proches sont augmentés de {DAMAGEMODIFIER} %."
+            "text": "[#!]Cumul +{BASESTACKCOUNT} (maximum : {MAXSTACK}) :[#] tous les dégâts subis par le lanceur et les alliés proches sont réduits de {DAMAGEMODIFIER} %."
           },
           {
             "key": "lottery.description.summon_chest_promo_challenge",
@@ -1150,6 +1194,10 @@
           {
             "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
             "text": "Au début de chaque tour, inflige {POWER} % de dégâts à un ennemi aléatoire, et sa santé est boostée à hauteur de {DAMAGEABSORB} % des dégâts infligés."
+          },
+          {
+            "key": "specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single",
+            "text": "Si la cible est éliminée par l'attaque, tous les alliés reçoivent {EFFECT2POWER} % de mana, et leur santé est boostée de {EFFECT1FIXEDPOWER}. Le maximum de PV peut être dépassé."
           }
         ]
       },
@@ -1169,7 +1217,7 @@
           },
           {
             "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
-            "text": "[#!]Cumulativo +{BASESTACKCOUNT} (máx.: {MAXSTACK}):[#] todo o dano recebido pelo invocador e pelos aliados próximos aumenta em {DAMAGEMODIFIER}%."
+            "text": "[#!]Acumulação +{BASESTACKCOUNT} (máx.: {MAXSTACK}):[#] todo o dano recebido pelo invocador e pelos aliados próximos diminui em {DAMAGEMODIFIER}%."
           },
           {
             "key": "lottery.description.summon_chest_promo_challenge",
@@ -1246,6 +1294,10 @@
           {
             "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
             "text": "Ao fim de cada turno, causa {POWER}% de dano a um inimigo aleatório e reforça a própria vida no equivalente a {DAMAGEABSORB}% do total de dano causado."
+          },
+          {
+            "key": "specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single",
+            "text": "Quando o alvo é derrotado pelo ataque, todos os aliados recebem {EFFECT2POWER}% de mana e a vida deles é reforçada em {EFFECT1FIXEDPOWER}. A vida reforçada pode ultrapassar o limite de PV."
           }
         ]
       },
@@ -1265,7 +1317,7 @@
           },
           {
             "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
-            "text": "[#!]Tumpukan +{BASESTACKCOUNT} (Maks: {MAXSTACK}):[#] Semua kerusakan yang diterima perapal dan sekutu terdekat meningkat {DAMAGEMODIFIER}%."
+            "text": "[#!]Tumpukan +{BASESTACKCOUNT} (Maks: {MAXSTACK}):[#] Semua kerusakan yang diterima perapal dan sekutu terdekat berkurang {DAMAGEMODIFIER}%."
           },
           {
             "key": "lottery.description.summon_chest_promo_challenge",
@@ -1342,6 +1394,10 @@
           {
             "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
             "text": "Di akhir tiap giliran, menimbulkan {POWER}% kerusakan ke musuh acak dan meningkatkan kesehatan diri sendiri sebesar {DAMAGEABSORB}% dari kerusakan yang ditimbulkan."
+          },
+          {
+            "key": "specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single",
+            "text": "Jika sasaran dikalahkan serangan tersebut, semua sekutu mendapat mana {EFFECT2POWER}% dan kesehatan mereka ditingkatkan {EFFECT1FIXEDPOWER}. Peningkatan kesehatan dapat melampaui HP maks."
           }
         ]
       },
@@ -1361,7 +1417,7 @@
           },
           {
             "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
-            "text": "[#!]Kasauma +{BASESTACKCOUNT} (maksimi: {MAXSTACK}):[#] Kaikki loitsijan ja lähellä olevien liittolaisten kärsimä vaurio kasvaa {DAMAGEMODIFIER} %"
+            "text": "[#!]Kasauma +{BASESTACKCOUNT} (maksimi: {MAXSTACK}):[#] Kaikki loitsijan ja lähellä olevien liittolaisten kärsimä vaurio laskee {DAMAGEMODIFIER} %"
           },
           {
             "key": "lottery.description.summon_chest_promo_challenge",
@@ -1438,6 +1494,10 @@
           {
             "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
             "text": "Tuottaa joka vuoron lopussa {POWER} % vauriota satunnaiselle viholliselle ja tehostaa terveyttään {DAMAGEABSORB} % tuotetusta kokonaisvauriosta."
+          },
+          {
+            "key": "specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single",
+            "text": "Jos hyökkäys kukistaa kohteen, kaikki liittolaiset saavat {EFFECT2POWER} % manaa ja {EFFECT1FIXEDPOWER} tehostettua terveyttä. Tehostettu terveys voi ylittää maksimiterveyden."
           }
         ]
       },
@@ -1457,7 +1517,7 @@
           },
           {
             "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
-            "text": "[#!]Stack +{BASESTACKCOUNT} (Maks: {MAXSTACK}):[#] Al skade, kasteren og allierede i nærheden tager, forøges med {DAMAGEMODIFIER} %"
+            "text": "[#!]Stack +{BASESTACKCOUNT} (Maks: {MAXSTACK}):[#] Al skade, kasteren og allierede i nærheden tager, formindskes med {DAMAGEMODIFIER} %"
           },
           {
             "key": "lottery.description.summon_chest_promo_challenge",
@@ -1534,6 +1594,10 @@
           {
             "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
             "text": "I slutningen af hver runde forårsages der {POWER} % skade på en tilfældig fjende, og eget helbred forbedres med {DAMAGEABSORB} % af den tildelte skade."
+          },
+          {
+            "key": "specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single",
+            "text": "Hvis målet besejres af angrebet, får alle allierede {EFFECT2POWER} % mana, og helbredet styrkes med {EFFECT1FIXEDPOWER}. Styrket helbred kan overstige maks. helbred."
           }
         ]
       },
@@ -1630,6 +1694,10 @@
           {
             "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
             "text": "Al final de cada turno, inflige un {POWER} % de daño a un enemigo aleatorio y potencia la vitalidad un {DAMAGEABSORB} % del daño total infligido."
+          },
+          {
+            "key": "specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single",
+            "text": "Si el ataque derrota al objetivo, todos los aliados obtienen un {EFFECT2POWER} % de maná y su vitalidad se potencia en {EFFECT1FIXEDPOWER}. La vitalidad potenciada puede exceder la VIT máxima."
           }
         ]
       },
@@ -1649,7 +1717,7 @@
           },
           {
             "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
-            "text": "[#!]Stabel +{BASESTACKCOUNT} (Maksimalt: {MAXSTACK}):[#] All skade brukeren og allierte i nærheten mottar økes med {DAMAGEMODIFIER} %."
+            "text": "[#!]Stabel +{BASESTACKCOUNT} (Maksimalt: {MAXSTACK}):[#] All skade brukeren og allierte i nærheten mottar reduseres med {DAMAGEMODIFIER} %."
           },
           {
             "key": "lottery.description.summon_chest_promo_challenge",
@@ -1726,6 +1794,10 @@
           {
             "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
             "text": "Ved slutten av hver tur påføres en tilfeldig fiende {POWER} % skade, og de øker helsen sin med {DAMAGEABSORB} % av total skade påført."
+          },
+          {
+            "key": "specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single",
+            "text": "Hvis målet beseires av angrepet, får alle allierte {EFFECT2POWER} % mana, og helsen deres økes med {EFFECT1FIXEDPOWER}. Økt helse kan overskride maksimal helse."
           }
         ]
       },
@@ -1745,7 +1817,7 @@
           },
           {
             "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
-            "text": "[#!]Cumulatief +{BASESTACKCOUNT} (max. {MAXSTACK}):[#] alle schade die de spreukspreker en bondgenoten in de buurt oplopen, wordt verhoogd met {DAMAGEMODIFIER}%."
+            "text": "[#!]Cumulatief +{BASESTACKCOUNT} (max. {MAXSTACK}):[#] alle schade die de spreukspreker en bondgenoten in de buurt oplopen, wordt verlaagd met {DAMAGEMODIFIER}%."
           },
           {
             "key": "lottery.description.summon_chest_promo_challenge",
@@ -1822,6 +1894,10 @@
           {
             "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
             "text": "Na afloop van elke beurt brengt {POWER}% schade toe aan een willekeurige vijand en verhoogt de eigen gezondheid voor {DAMAGEABSORB}% van de toegebrachte schade."
+          },
+          {
+            "key": "specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single",
+            "text": "Als het doelwit door de aanval wordt verslagen, krijgen alle bondgenoten {EFFECT2POWER}% mana en een gezondheidsboost met {EFFECT1FIXEDPOWER}. De gezondheidsboost kan niet meer zijn dan maximaal gezondheid."
           }
         ]
       },
@@ -1841,7 +1917,7 @@
           },
           {
             "key": "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount",
-            "text": "[#!]叠加+{BASESTACKCOUNT}（最多：{MAXSTACK}层）：[#]施法者和附近盟友受到的所有伤害增加{DAMAGEMODIFIER}%。"
+            "text": "[#!]叠加+{BASESTACKCOUNT}（最多：{MAXSTACK}层）：[#]施法者和附近盟友受到的所有伤害降低{DAMAGEMODIFIER}%。"
           },
           {
             "key": "lottery.description.summon_chest_promo_challenge",
@@ -1918,10 +1994,14 @@
           {
             "key": "statuseffects.description.brutalsupportstatuseffectskill.on.turnend.damage.random.enemies.with_damageabsorb.healthboost",
             "text": "每回合结束时，对一名随机敌人造成{POWER}%伤害，并为自身提高等同于总伤害值{DAMAGEABSORB}%的生命值。"
+          },
+          {
+            "key": "specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single",
+            "text": "若目标因受到攻击被击败，所有盟友将获得{EFFECT2POWER}%法力，并且他们的生命值提高{EFFECT1FIXEDPOWER}点。提高的生命值可以超过最大生命值。"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 2723277471
+  "languageOverridesConfigId": 2053817080
 }

@@ -1063,7 +1063,7 @@
         "id": "lottery_season_untold_tales2",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 139,
+        "uiPriority": 163,
         "bonusChest": "untold_tales2",
         "bonusChestRequirement": 10,
         "bonusChestLimit": 12,
@@ -1162,7 +1162,7 @@
         "id": "lottery_super_elemental_purple",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 139,
+        "uiPriority": 166,
         "associatedEvent": "SuperElemental",
         "bonusChest": "super_elemental_chest_purple",
         "bonusChestRequirement": 10,
@@ -2266,7 +2266,7 @@
         "id": "lottery_wilderness_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 175,
+        "uiPriority": 167,
         "associatedEvent": "WildernessSummon",
         "bonusChest": "wilderness_chest",
         "bonusChestRequirement": 10,
@@ -4248,7 +4248,7 @@
         "id": "lottery_hero_lunar_new_year_2026",
         "gemPrice": 300,
         "amount": 1,
-        "uiPriority": 136,
+        "uiPriority": 168,
         "associatedEvent": "LunarNewYear2026",
         "bucketWeights": [
           710,
@@ -9067,7 +9067,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.expensiveoffer2",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -16444,6 +16443,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.mystery1",
         "dollarValue": 1,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -16457,6 +16457,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.mystery1_bonus",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -20728,6 +20729,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -20917,7 +20919,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -22384,53 +22385,28 @@
           {
             "type": "Item",
             "id": "lottery_mimic_coin",
-            "amount": 100,
+            "amount": 200,
             "zyngaStoreExtraAmount": 100
           },
           {
             "type": "Item",
             "id": "lottery_covenant_coin",
-            "amount": 100
+            "amount": 200
           },
           {
             "type": "Item",
             "id": "lottery_tower_coin",
-            "amount": 100
+            "amount": 200
           },
           {
             "type": "Item",
-            "id": "lottery_super_elemental_coin",
-            "amount": 100
+            "id": "lottery_pickup_coin",
+            "amount": 200
           },
           {
             "type": "Item",
-            "id": "lottery_challenge_coin",
-            "amount": 10
-          },
-          {
-            "type": "Item",
-            "id": "lottery_legendary_troop",
-            "amount": 100
-          },
-          {
-            "type": "Item",
-            "id": "lottery_alliance_coin",
-            "amount": 10
-          },
-          {
-            "type": "Item",
-            "id": "lottery_wilderness_coin",
-            "amount": 100
-          },
-          {
-            "type": "Item",
-            "id": "lottery_shadow_coin",
-            "amount": 100
-          },
-          {
-            "type": "Item",
-            "id": "lottery_mercenary_war_coin",
-            "amount": 100
+            "id": "lottery_season5_coin",
+            "amount": 200
           }
         ],
         "allianceGiftCustomContentId": "valentines2022_alliancemember_gift_5"
@@ -28726,7 +28702,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_rocket_tier1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28745,7 +28720,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_rocket_tier2",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28769,7 +28743,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_rocket_tier3",
         "dollarValue": 15,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28793,7 +28766,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_rocket_tier4",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28812,7 +28784,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_rocket_tier5",
         "dollarValue": 3,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29502,8 +29473,19 @@
           {
             "type": "Item",
             "id": "lottery_goblin_coin",
-            "amount": 300,
-            "zyngaStoreExtraAmount": 50
+            "amount": 250,
+            "zyngaStoreExtraAmount": 100
+          },
+          {
+            "type": "Item",
+            "id": "misc_loot_ticket",
+            "amount": 20,
+            "zyngaStoreExtraAmount": 10
+          },
+          {
+            "type": "Item",
+            "id": "refill_energy_pve_full",
+            "amount": 1
           }
         ]
       },
@@ -29521,18 +29503,9 @@
           },
           {
             "type": "Item",
-            "id": "refill_energy_pve_full",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "battle_hail_of_spears",
-            "amount": 10
-          },
-          {
-            "type": "Item",
-            "id": "battle_mana_potion",
-            "amount": 10
+            "id": "refill_food_giant",
+            "amount": 5,
+            "zyngaStoreExtraAmount": 1
           }
         ]
       },
@@ -30261,19 +30234,14 @@
         "id": "offer_7th_birthday_free_fri",
         "contents": [
           {
-            "type": "Troop",
-            "id": "rainbow_rare_trainer",
-            "amount": 1
+            "type": "Item",
+            "id": "lottery_shadow_coin",
+            "amount": 100
           },
           {
-            "type": "Troop",
-            "id": "rainbow_uncommon_trainer",
-            "amount": 1
-          },
-          {
-            "type": "Troop",
-            "id": "rainbow_common_trainer",
-            "amount": 1
+            "type": "Item",
+            "id": "lottery_pickup_coin",
+            "amount": 100
           }
         ]
       },
@@ -30319,13 +30287,18 @@
         "id": "offer_7th_birthday_free_mon",
         "contents": [
           {
-            "type": "Item",
-            "id": "lottery_alliance_coin",
-            "amount": 10
+            "type": "Troop",
+            "id": "rainbow_rare_trainer",
+            "amount": 1
           },
           {
-            "type": "Item",
-            "id": "lottery_elite_hero",
+            "type": "Troop",
+            "id": "rainbow_uncommon_trainer",
+            "amount": 1
+          },
+          {
+            "type": "Troop",
+            "id": "rainbow_common_trainer",
             "amount": 1
           }
         ]
@@ -31173,6 +31146,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.7th_birthday_2024_tue1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -31186,6 +31160,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.7th_birthday_2024_tue2",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -31199,6 +31174,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.7th_birthday_2024_wed1",
         "dollarValue": 3,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -31212,6 +31188,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.7th_birthday_2024_wed2",
         "dollarValue": 20,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -31225,6 +31202,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.7th_birthday_2024_thu1",
         "dollarValue": 15,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -31238,6 +31216,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.7th_birthday_2024_thu2",
         "dollarValue": 50,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -31251,27 +31230,28 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.7th_birthday_2024_fri1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
             "type": "Gem",
             "amount": 500,
-            "zyngaStoreExtraAmount": 150
+            "zyngaStoreExtraAmount": 100
           },
           {
-            "type": "Hero",
-            "id": "trainer_rainbow_rare",
-            "amount": 5
+            "type": "Item",
+            "id": "hero_limitbreak_alpha",
+            "amount": 3
           },
           {
-            "type": "Hero",
-            "id": "trainer_rainbow_uncommon",
-            "amount": 7
+            "type": "Item",
+            "id": "refill_food_giant",
+            "amount": 1
           },
           {
-            "type": "Hero",
-            "id": "trainer_rainbow_common",
-            "amount": 10
+            "type": "Item",
+            "id": "refill_iron_giant",
+            "amount": 1
           }
         ]
       },
@@ -31279,6 +31259,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.7th_birthday_2024_fri2",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -31288,28 +31269,28 @@
           },
           {
             "type": "Item",
-            "id": "emblem_master_monk",
-            "amount": 40
+            "id": "tome_levels_legendary",
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "emblem_master_rogue",
-            "amount": 40
+            "id": "tome_levels_epic",
+            "amount": 5
+          },
+          {
+            "type": "Product",
+            "id": "hero_cap_increase",
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "emblem_master_druid",
-            "amount": 40
+            "id": "refill_food_giant",
+            "amount": 3
           },
           {
             "type": "Item",
-            "id": "emblem_master_wizard",
-            "amount": 40
-          },
-          {
-            "type": "Item",
-            "id": "emblem_master_cleric",
-            "amount": 40
+            "id": "refill_iron_giant",
+            "amount": 3
           }
         ]
       },
@@ -31317,6 +31298,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.7th_birthday_2024_sat1",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -31325,9 +31307,24 @@
             "zyngaStoreExtraAmount": 200
           },
           {
+            "type": "Product",
+            "id": "hero_cap_increase",
+            "amount": 1
+          },
+          {
             "type": "Item",
-            "id": "hero_limitbreak_alpha",
+            "id": "tome_levels_epic",
             "amount": 5
+          },
+          {
+            "type": "Item",
+            "id": "refill_food_giant",
+            "amount": 3
+          },
+          {
+            "type": "Item",
+            "id": "refill_iron_giant",
+            "amount": 3
           }
         ]
       },
@@ -31335,6 +31332,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.7th_birthday_2024_sat2",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -31344,28 +31342,28 @@
           },
           {
             "type": "Item",
-            "id": "emblem_master_barbarian",
-            "amount": 40
+            "id": "tome_limit_break_1",
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "emblem_master_sorcerer",
-            "amount": 40
+            "id": "hero_limitbreak_alpha",
+            "amount": 3
           },
           {
-            "type": "Item",
-            "id": "emblem_master_paladin",
-            "amount": 40
+            "type": "Hero",
+            "id": "trainer_rainbow_epic",
+            "amount": 3
           },
           {
-            "type": "Item",
-            "id": "emblem_master_fighter",
-            "amount": 40
+            "type": "Hero",
+            "id": "trainer_rainbow_rare",
+            "amount": 4
           },
           {
-            "type": "Item",
-            "id": "emblem_master_ranger",
-            "amount": 40
+            "type": "Hero",
+            "id": "trainer_rainbow_uncommon",
+            "amount": 5
           }
         ]
       },
@@ -31373,6 +31371,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.7th_birthday_2024_sun1",
         "dollarValue": 3,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -31384,6 +31383,11 @@
             "type": "Item",
             "id": "hero_limitbreak_alpha",
             "amount": 2
+          },
+          {
+            "type": "Item",
+            "id": "refill_food_giant",
+            "amount": 1
           }
         ]
       },
@@ -31391,153 +31395,18 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.7th_birthday_2024_sun2",
         "dollarValue": 25,
-        "realMoneyProductInStore": true,
-        "contents": [
-          {
-            "type": "Item",
-            "id": "hero_mysterious_tonic",
-            "amount": 2
-          },
-          {
-            "type": "Item",
-            "id": "hero_mystic_rings",
-            "amount": 2
-          },
-          {
-            "type": "Item",
-            "id": "emblem_rogue",
-            "amount": 750,
-            "zyngaStoreExtraAmount": 150
-          },
-          {
-            "type": "Item",
-            "id": "emblem_master_rogue",
-            "amount": 50
-          },
-          {
-            "type": "Item",
-            "id": "emblem_druid",
-            "amount": 750,
-            "zyngaStoreExtraAmount": 150
-          },
-          {
-            "type": "Item",
-            "id": "emblem_master_druid",
-            "amount": 50
-          }
-        ]
-      },
-      {
-        "productType": "Offer",
-        "id": "com.smallgiantgames.empires.7th_birthday_2024_mon1",
-        "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
             "type": "Gem",
-            "amount": 500,
-            "zyngaStoreExtraAmount": 150
-          },
-          {
-            "type": "Hero",
-            "id": "trainer_rainbow_rare",
-            "amount": 5
-          },
-          {
-            "type": "Hero",
-            "id": "trainer_rainbow_uncommon",
-            "amount": 7
-          },
-          {
-            "type": "Hero",
-            "id": "trainer_rainbow_common",
-            "amount": 10
-          }
-        ]
-      },
-      {
-        "productType": "Offer",
-        "id": "com.smallgiantgames.empires.7th_birthday_2024_mon2",
-        "dollarValue": 30,
-        "realMoneyProductInStore": true,
-        "contents": [
-          {
-            "type": "Gem",
-            "amount": 3000,
+            "amount": 2500,
             "zyngaStoreExtraAmount": 500
           },
           {
-            "type": "Item",
-            "id": "hero_limitbreak_legendary_red",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_legendary_blue",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_legendary_green",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_legendary_yellow",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_legendary_purple",
-            "amount": 1
-          }
-        ]
-      },
-      {
-        "productType": "Offer",
-        "id": "com.smallgiantgames.empires.7th_birthday_2024_fri3",
-        "dollarValue": 100,
-        "realMoneyProductInStore": true,
-        "contents": [
-          {
-            "type": "Gem",
-            "amount": 10000,
-            "zyngaStoreExtraAmount": 2000
-          },
-          {
-            "type": "Item",
-            "id": "tome_ascension",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_alpha",
-            "amount": 5
-          },
-          {
-            "type": "Item",
-            "id": "emblem_monk",
-            "amount": 600
-          },
-          {
-            "type": "Item",
-            "id": "emblem_rogue",
-            "amount": 600
-          },
-          {
-            "type": "Item",
-            "id": "emblem_druid",
-            "amount": 600
-          },
-          {
-            "type": "Item",
-            "id": "emblem_wizard",
-            "amount": 600
-          },
-          {
-            "type": "Item",
-            "id": "emblem_cleric",
-            "amount": 600
+            "type": "Hero",
+            "id": "trainer_rainbow_epic",
+            "amount": 30
           },
           {
             "type": "Item",
@@ -31550,41 +31419,90 @@
             "amount": 10
           },
           {
-            "type": "Item",
-            "id": "titan_battle_scroll_of_alteration",
-            "amount": 10
+            "type": "Product",
+            "id": "hero_cap_increase",
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "titan_battle_hurricane",
-            "amount": 10
-          },
-          {
-            "type": "Item",
-            "id": "titan_battle_giant_harpoon",
-            "amount": 10
-          },
-          {
-            "type": "Item",
-            "id": "titan_battle_time_freeze",
-            "amount": 10
-          },
-          {
-            "type": "Item",
-            "id": "battle_mana_potion",
-            "amount": 10
-          },
-          {
-            "type": "Item",
-            "id": "battle_field_aid",
+            "id": "misc_loot_ticket",
             "amount": 10
           }
         ]
       },
       {
         "productType": "Offer",
-        "id": "com.smallgiantgames.empires.7th_birthday_2024_sat3",
+        "id": "com.smallgiantgames.empires.7th_birthday_2024_mon1",
+        "dollarValue": 5,
+        "realMoneyProductActive": true,
+        "realMoneyProductInStore": true,
+        "contents": [
+          {
+            "type": "Gem",
+            "amount": 500,
+            "zyngaStoreExtraAmount": 150
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_rainbow_rare",
+            "amount": 10
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_rainbow_uncommon",
+            "amount": 14
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_rainbow_common",
+            "amount": 20
+          }
+        ]
+      },
+      {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.7th_birthday_2024_mon2",
+        "dollarValue": 30,
+        "realMoneyProductActive": true,
+        "realMoneyProductInStore": true,
+        "contents": [
+          {
+            "type": "Gem",
+            "amount": 3000,
+            "zyngaStoreExtraAmount": 500
+          },
+          {
+            "type": "Item",
+            "id": "tome_ascension",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "refill_food_giant",
+            "amount": 3
+          },
+          {
+            "type": "Item",
+            "id": "refill_food_large",
+            "amount": 10
+          },
+          {
+            "type": "Item",
+            "id": "refill_iron_giant",
+            "amount": 3
+          },
+          {
+            "type": "Item",
+            "id": "refill_iron_large",
+            "amount": 10
+          }
+        ]
+      },
+      {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.7th_birthday_2024_fri3",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -31600,32 +31518,32 @@
           {
             "type": "Item",
             "id": "hero_limitbreak_alpha",
-            "amount": 5
+            "amount": 10
           },
           {
             "type": "Item",
-            "id": "emblem_ranger",
-            "amount": 600
+            "id": "hero_limitbreak_legendary_red",
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "emblem_fighter",
-            "amount": 600
+            "id": "hero_limitbreak_legendary_blue",
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "emblem_paladin",
-            "amount": 600
+            "id": "hero_limitbreak_legendary_green",
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "emblem_sorcerer",
-            "amount": 600
+            "id": "hero_limitbreak_legendary_yellow",
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "emblem_barbarian",
-            "amount": 600
+            "id": "hero_limitbreak_legendary_purple",
+            "amount": 1
           },
           {
             "type": "Item",
@@ -31658,13 +31576,102 @@
             "amount": 10
           },
           {
+            "type": "Product",
+            "id": "hero_cap_increase",
+            "amount": 1
+          },
+          {
             "type": "Item",
-            "id": "battle_mana_potion",
+            "id": "refill_energy_pve_full",
+            "amount": 10
+          }
+        ]
+      },
+      {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.7th_birthday_2024_sat3",
+        "dollarValue": 100,
+        "realMoneyProductActive": true,
+        "realMoneyProductInStore": true,
+        "contents": [
+          {
+            "type": "Gem",
+            "amount": 10000,
+            "zyngaStoreExtraAmount": 2000
+          },
+          {
+            "type": "Item",
+            "id": "tome_ascension",
+            "amount": 1
+          },
+          {
+            "type": "Product",
+            "id": "hero_cap_increase",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "emblem_barbarian",
+            "amount": 300
+          },
+          {
+            "type": "Item",
+            "id": "emblem_fighter",
+            "amount": 300
+          },
+          {
+            "type": "Item",
+            "id": "emblem_ranger",
+            "amount": 300
+          },
+          {
+            "type": "Item",
+            "id": "emblem_paladin",
+            "amount": 300
+          },
+          {
+            "type": "Item",
+            "id": "emblem_sorcerer",
+            "amount": 300
+          },
+          {
+            "type": "Item",
+            "id": "emblem_master_barbarian",
+            "amount": 30
+          },
+          {
+            "type": "Item",
+            "id": "emblem_master_fighter",
+            "amount": 30
+          },
+          {
+            "type": "Item",
+            "id": "emblem_master_ranger",
+            "amount": 30
+          },
+          {
+            "type": "Item",
+            "id": "emblem_master_paladin",
+            "amount": 30
+          },
+          {
+            "type": "Item",
+            "id": "emblem_master_sorcerer",
+            "amount": 30
+          },
+          {
+            "type": "Item",
+            "id": "titan_battle_time_freeze",
             "amount": 10
           },
           {
             "type": "Item",
-            "id": "battle_field_aid",
+            "id": "misc_loot_ticket",
+            "amount": 10
+          },
+          {
+            "type": "Item",
+            "id": "refill_energy_pve_full",
             "amount": 10
           }
         ]
@@ -31673,6 +31680,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.7th_birthday_2024_sun3",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -31687,12 +31695,22 @@
           },
           {
             "type": "Item",
-            "id": "hero_mystic_rings",
+            "id": "tome_levels_legendary",
             "amount": 1
           },
           {
             "type": "Item",
-            "id": "hero_mysterious_tonic",
+            "id": "hero_damascus_blade",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "hero_tome_of_tactics",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "hero_mystic_rings",
             "amount": 1
           },
           {
@@ -31702,7 +31720,7 @@
           },
           {
             "type": "Item",
-            "id": "hero_poison_darts",
+            "id": "hero_mysterious_tonic",
             "amount": 1
           },
           {
@@ -31712,23 +31730,13 @@
           },
           {
             "type": "Item",
-            "id": "hero_damascus_blade",
-            "amount": 2
+            "id": "hero_poison_darts",
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "hero_tome_of_tactics",
-            "amount": 2
-          },
-          {
-            "type": "Item",
-            "id": "refill_food_giant",
-            "amount": 10
-          },
-          {
-            "type": "Item",
-            "id": "refill_iron_giant",
-            "amount": 10
+            "id": "tome_levels_epic",
+            "amount": 1
           },
           {
             "type": "Item",
@@ -31747,13 +31755,13 @@
           },
           {
             "type": "Item",
-            "id": "titan_battle_time_freeze",
+            "id": "misc_loot_ticket",
             "amount": 10
           },
           {
             "type": "Item",
-            "id": "hero_limitbreak_alpha",
-            "amount": 3
+            "id": "refill_energy_pve_full",
+            "amount": 10
           }
         ]
       },
@@ -31761,6 +31769,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.7th_birthday_2024_mon3",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -31770,48 +31779,63 @@
           },
           {
             "type": "Item",
-            "id": "tome_ascension",
+            "id": "tome_levels_legendary",
             "amount": 1
           },
           {
             "type": "Item",
-            "id": "hero_limitbreak_alpha",
-            "amount": 2
+            "id": "tome_levels_epic",
+            "amount": 5
           },
           {
             "type": "Item",
-            "id": "hero_limitbreak_legendary_red",
-            "amount": 2
+            "id": "emblem_monk",
+            "amount": 300
           },
           {
             "type": "Item",
-            "id": "hero_limitbreak_legendary_blue",
-            "amount": 2
+            "id": "emblem_rogue",
+            "amount": 300
           },
           {
             "type": "Item",
-            "id": "hero_limitbreak_legendary_green",
-            "amount": 2
+            "id": "emblem_druid",
+            "amount": 300
           },
           {
             "type": "Item",
-            "id": "hero_limitbreak_legendary_yellow",
-            "amount": 2
+            "id": "emblem_wizard",
+            "amount": 300
           },
           {
             "type": "Item",
-            "id": "hero_limitbreak_legendary_purple",
-            "amount": 2
+            "id": "emblem_cleric",
+            "amount": 300
           },
           {
             "type": "Item",
-            "id": "refill_food_giant",
-            "amount": 10
+            "id": "emblem_master_monk",
+            "amount": 30
           },
           {
             "type": "Item",
-            "id": "refill_iron_giant",
-            "amount": 10
+            "id": "emblem_master_rogue",
+            "amount": 30
+          },
+          {
+            "type": "Item",
+            "id": "emblem_master_druid",
+            "amount": 30
+          },
+          {
+            "type": "Item",
+            "id": "emblem_master_wizard",
+            "amount": 30
+          },
+          {
+            "type": "Item",
+            "id": "emblem_master_cleric",
+            "amount": 30
           },
           {
             "type": "Item",
@@ -31820,27 +31844,12 @@
           },
           {
             "type": "Item",
-            "id": "titan_battle_hurricane",
+            "id": "misc_loot_ticket",
             "amount": 10
           },
           {
             "type": "Item",
-            "id": "titan_battle_giant_harpoon",
-            "amount": 10
-          },
-          {
-            "type": "Item",
-            "id": "titan_battle_time_freeze",
-            "amount": 10
-          },
-          {
-            "type": "Item",
-            "id": "battle_mana_potion",
-            "amount": 10
-          },
-          {
-            "type": "Item",
-            "id": "battle_field_aid",
+            "id": "refill_energy_pve_full",
             "amount": 10
           }
         ]
@@ -32004,8 +32013,19 @@
           {
             "type": "Item",
             "id": "lottery_astralelves_coin",
-            "amount": 300,
-            "zyngaStoreExtraAmount": 50
+            "amount": 250,
+            "zyngaStoreExtraAmount": 100
+          },
+          {
+            "type": "Item",
+            "id": "misc_loot_ticket",
+            "amount": 20,
+            "zyngaStoreExtraAmount": 10
+          },
+          {
+            "type": "Item",
+            "id": "refill_energy_pve_full",
+            "amount": 1
           }
         ]
       },
@@ -32024,18 +32044,9 @@
           },
           {
             "type": "Item",
-            "id": "refill_energy_pve_full",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "battle_hail_of_spears",
-            "amount": 10
-          },
-          {
-            "type": "Item",
-            "id": "battle_mana_potion",
-            "amount": 10
+            "id": "refill_food_giant",
+            "amount": 5,
+            "zyngaStoreExtraAmount": 1
           }
         ]
       },
@@ -36216,7 +36227,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36226,6 +36236,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic5_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -37391,7 +37402,7 @@
           {
             "type": "Item",
             "id": "lottery_goblin_coin",
-            "amount": 100,
+            "amount": 150,
             "zyngaStoreExtraAmount": 50
           }
         ]
@@ -37429,7 +37440,7 @@
           {
             "type": "Item",
             "id": "lottery_astralelves_coin",
-            "amount": 100,
+            "amount": 150,
             "zyngaStoreExtraAmount": 50
           }
         ]
@@ -55786,6 +55797,33 @@
         ]
       },
       {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.mds_lny2026",
+        "zyngaStoreProduct": true,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "lottery_elite_hero",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "refill_energy_pve_full",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "battle_tornado",
+            "amount": 8
+          },
+          {
+            "type": "Item",
+            "id": "battle_mana_potion",
+            "amount": 8
+          }
+        ]
+      },
+      {
         "productType": "AllianceEventSummon",
         "id": "lottery_featured_alliance_quest_castle_ad",
         "sourceProductId": "lottery_featured_alliance_quest_castle",
@@ -55862,7 +55900,7 @@
         "id": "lottery_featured_alliance_quest_musketeers",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 165,
+        "uiPriority": 166,
         "associatedEvent": "AllianceQuestMusketeers",
         "bonusChest": "alliance_quest_chest",
         "bonusChestRequirement": 5,
@@ -58501,5 +58539,5 @@
       }
     ]
   },
-  "productsConfigId": 2740558973
+  "productsConfigId": 3998671878
 }

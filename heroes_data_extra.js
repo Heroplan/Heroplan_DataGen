@@ -43941,5 +43941,152 @@ window.allHeroesExtra = [
         "healthBonus": "39%",
         "manaBonus": "1%",
         "family": "magic"
+    },
+    {
+        "name": "Haradea",
+        "fancy name": "Astral Demon Voidbender",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
+        "Release date": "2026-02-15",
+        "AetherPower": "Dodge",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers",
+            "DoT Attackers",
+            "Mana Corruption"
+        ],
+        "heroId": "astral_demon_haradea",
+        "baseAttack": 657,
+        "baseDefense": 635,
+        "baseHealth": 1095,
+        "specialId": "volley_of_dark_stars",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
+        ],
+        "family": "astral_demons"
+    },
+    {
+        "name": "Brienne stylish",
+        "fancy name": "Stylish Druid",
+        "element": "Green",
+        "rarity": 3,
+        "class": "Druid",
+        "speed": "average",
+        "Release date": "2026-02-14",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "Buffers (ATK)",
+            "Heal over Time (HoT)"
+        ],
+        "heroId": "forest_female_druid_costume_stylish",
+        "baseAttack": 236,
+        "baseDefense": 260,
+        "baseHealth": 445,
+        "specialId": "natures_blessing",
+        "specialId_costume": "stylish_fury",
+        "passiveSkills": [
+            "stylish"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "25%",
+        "defenseBonus": "25%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Marjana stylish",
+        "fancy name": "Stylish Lady of Windemer",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
+        "Release date": "2026-02-14",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Snipers",
+            "Extra Damage Dealers",
+            "DoT Attackers"
+        ],
+        "heroId": "nomad_female_captain_costume_stylish",
+        "baseAttack": 365,
+        "baseDefense": 320,
+        "baseHealth": 644,
+        "specialId": "magma_smash",
+        "specialId_costume": "stylish_smash",
+        "passiveSkills": [
+            "stylish"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "85%",
+        "defenseBonus": "85%",
+        "healthBonus": "85%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Li Xiu stylish",
+        "fancy name": "Stylish General",
+        "element": "Yellow",
+        "rarity": 4,
+        "class": "Monk",
+        "speed": "average",
+        "Release date": "2026-02-14",
+        "AetherPower": "Counterattack",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Mana Reducers or Blockers"
+        ],
+        "heroId": "oriental_female_templar_costume_stylish",
+        "baseAttack": 320,
+        "baseDefense": 293,
+        "baseHealth": 495,
+        "specialId": "slash_of_seven_blades",
+        "specialId_costume": "slash_of_stylish_blades",
+        "passiveSkills": [
+            "stylish"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "30%",
+        "defenseBonus": "30%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Leonidas stylish",
+        "fancy name": "King of Style",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
+        "Release date": "2026-02-14",
+        "AetherPower": "Counterattack",
+        "skill_types": [
+            "Snipers",
+            "Extra Damage Dealers",
+            "Healers (Special)",
+            "Mana Reducers or Blockers"
+        ],
+        "heroId": "oriental_warrior_king_costume_stylish",
+        "baseAttack": 372,
+        "baseDefense": 334,
+        "baseHealth": 591,
+        "specialId": "spartan_cleave",
+        "specialId_costume": "stylish_cleave",
+        "passiveSkills": [
+            "stylish"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "85%",
+        "defenseBonus": "85%",
+        "healthBonus": "85%",
+        "manaBonus": "5%",
+        "family": "classic"
     }
 ];

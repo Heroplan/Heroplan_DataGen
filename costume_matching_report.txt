@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (510 / 0)
+✅ 成功匹配的服装 (514 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -233,6 +233,7 @@ Name: Thorne Costume1, Fancy Name: King Frostmorrow
 Name: Victor Costume1, Fancy Name: King of Crime
 Name: Yunan Costume1, Fancy Name: King of Lifeguards
 Name: Leonidas Costume1, Fancy Name: King of Sparta
+Name: Leonidas stylish, Fancy Name: King of Style
 Name: Azlar Costume1, Fancy Name: King of the Leors
 Name: Khonshu Costume1, Fancy Name: Knight of the Moon
 Name: Lady of the Lake Costume1, Fancy Name: Lady of Blades
@@ -380,8 +381,11 @@ Name: Zhuge Liang Costume1, Fancy Name: Strategist Supreme
 Name: Aqeela Costume1, Fancy Name: Street-Smart Sorcerer
 Name: Jarif Costume1, Fancy Name: Stressed-Out Curator
 Name: Obakan stylish, Fancy Name: Stylish Bodyguard
+Name: Brienne stylish, Fancy Name: Stylish Druid
 Name: Caedmon stylish, Fancy Name: Stylish Elf
 Name: Sartana stylish, Fancy Name: Stylish Executioner
+Name: Li Xiu stylish, Fancy Name: Stylish General
+Name: Marjana stylish, Fancy Name: Stylish Lady of Windemer
 Name: Azlar stylish, Fancy Name: Stylish Leor
 Name: Jahangir stylish, Fancy Name: Stylish Mage
 Name: Vivica stylish, Fancy Name: Stylish Scholar
