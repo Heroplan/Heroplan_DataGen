@@ -24409,7 +24409,7 @@ window.allHeroes =
             "Stylish!: 65% chance to replace incoming negative effects with matching positive ones."
         ],
         "family": "classic",
-        "costume_id": 5,
+        "costume_id": 4,
         "originalIndex": 347,
         "lb1": {
             "attack": 581,

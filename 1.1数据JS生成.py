@@ -763,6 +763,8 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                         elif yml_suffix == 'costume5': final_suffix = 'stylish'
 
                     costume_id = int(re.match(r'costume(\d*)', key).group(1) or 1)
+                    if base_name_normalized in SPECIAL_COSTUME_HEROES and costume_id >= 5:
+                        costume_id = costume_id - 1
                     yml_costume_full_name = f"{hero_name_raw} {final_suffix}".strip()
                     
                     extra_c = heroes_extra_lookup.get(normalize_for_hero_name(yml_costume_full_name), {})

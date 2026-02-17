@@ -24409,7 +24409,7 @@ window.allHeroes =
             "华丽登场！：有 65% 的几率将受到的负面效果替换为对应的正面效果。"
         ],
         "family": "classic",
-        "costume_id": 5,
+        "costume_id": 4,
         "originalIndex": 347,
         "lb1": {
             "attack": 581,

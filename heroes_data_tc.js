@@ -24409,7 +24409,7 @@ window.allHeroes =
             "有型！：有 65% 機率將受到的負面效果替換為相對應的正面效果。"
         ],
         "family": "classic",
-        "costume_id": 5,
+        "costume_id": 4,
         "originalIndex": 347,
         "lb1": {
             "attack": 581,
