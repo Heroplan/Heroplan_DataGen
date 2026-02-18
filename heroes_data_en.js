@@ -33912,14 +33912,14 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Status - Cleanse Ailments"
-                ]
-            },
-            {
                 "增益效果": [
                     "Atk - Growth : Atk↑",
                     "Def - Growth : Def↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
