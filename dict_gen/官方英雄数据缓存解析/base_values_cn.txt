@@ -22,6 +22,7 @@
 "base.sorcerer","术士"
 "base.wizard","巫师"
 "base.very_fast","飞速"
+"base.dancer","舞者"
 "base.fast","快速"
 "base.average","中等"
 "base.slow","慢"
