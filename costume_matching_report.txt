@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (514 / 0)
+✅ 成功匹配的服装 (516 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -254,6 +254,8 @@ Name: Zimkitha Costume1, Fancy Name: Long-Lost Adventurer
 Name: Almur Costume1, Fancy Name: Lord of Svartalfheim
 Name: Aouda Costume1, Fancy Name: Lotus Princess
 Name: Quintus Costume2, Fancy Name: Love Doctor
+Name: Xiaotu costume1, Fancy Name: Lunar Lantern Rabbit
+Name: Laohu costume1, Fancy Name: Lunar Lucky Tiger
 Name: Jahangir Toon, Fancy Name: Mage from the Toon Sea
 Name: Vivica Costume1, Fancy Name: Magician Supreme
 Name: Kailani Costume1, Fancy Name: Magnanimous Mender

@@ -49,6 +49,7 @@ family_name_corrections = {
     "astraldemons": "astral_demons",
     "beautyandthebeast": "beauty_beast",
     "titanhunter": "titan_hunter",
+    "fortunedancer": "fortune",
     
     
 }

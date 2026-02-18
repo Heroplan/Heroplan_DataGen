@@ -1021,5 +1021,15 @@
   "Mana Corruption 3": "3個目標法力腐蝕",
   "Fiend Destroyer": "惡魔摧毀者",
   "Astral Beam hit All": "全體星界射線",
-  "Exploding Spike Trap on hit": "命中時觸發爆炸尖刺陷阱"
+  "Exploding Spike Trap on hit": "命中時觸發爆炸尖刺陷阱",
+  "Safely Dispel 2": "安全驅散 (2個目標)",
+  "Spirit Slash Hit 2": "靈魂斬擊命中 (2個目標)",
+  "Flowing Fortune Dance Buff 2": "2個目標流水福運之舞增益",
+  "Spirit Slash Hit 1": "靈魂斬擊命中 (單體)",
+  "Vibrant Fortune Dance Buff 2": "2個目標活力福運之舞增益",
+  "Safely Clean 3": "安全淨化 (3個目標)",
+  "Spirit Aura Boosted Heal 3": "3個目標靈氣加成治療",
+  "Fiery Fortune Dance Buff 2": "2個目標烈焰福運之舞增益",
+  "Mana over time All": "全體持續獲得法力",
+  "Attack Buff All while Boosted Health": "擁有生命值加成時全體攻擊增益"
 }

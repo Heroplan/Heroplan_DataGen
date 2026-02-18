@@ -44114,5 +44114,229 @@ window.allHeroesExtra = [
             "tile_enhancement_green_on_special_titan_hunter_parent"
         ],
         "family": "titan_hunter"
+    },
+    {
+        "name": "Yan Qing",
+        "fancy name": "Lantern Dragon Dancer",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "dancer",
+        "Release date": "2026-02-17",
+        "AetherPower": "Dodge",
+        "skill_types": [
+            "Snipers",
+            "Dispellers",
+            "Dancers",
+            "Mana Generation Buffers",
+            "Extra Damage Dealers",
+            "Damage Reducers"
+        ],
+        "heroId": "fortune_yan_qing",
+        "baseAttack": 650,
+        "baseDefense": 644,
+        "baseHealth": 1100,
+        "specialId": "flowing_dragon_dual_slash",
+        "passiveSkills": [
+            "dealt_damage_modifier_on_any_dancing_ally"
+        ],
+        "family": "fortune"
+    },
+    {
+        "name": "Ling Long",
+        "fancy name": "Junior Dragon Dancer",
+        "element": "Green",
+        "rarity": 4,
+        "class": "Fighter",
+        "speed": "dancer",
+        "Release date": "2026-02-17",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "Snipers",
+            "Dispellers",
+            "Dancers",
+            "Buffers (DEF)",
+            "Extra Damage Dealers",
+            "Damage Reducers"
+        ],
+        "heroId": "fortune_ling_long",
+        "baseAttack": 387,
+        "baseDefense": 376,
+        "baseHealth": 682,
+        "specialId": "spirited_slash",
+        "passiveSkills": [
+            "dealt_damage_modifier_on_any_dancing_ally"
+        ],
+        "family": "fortune"
+    },
+    {
+        "name": "Wei Qi",
+        "fancy name": "Snow Lion Dancer",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "dancer",
+        "Release date": "2026-02-17",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Snipers",
+            "Dispellers",
+            "Dancers",
+            "Buffers (DEF)",
+            "Extra Damage Dealers",
+            "Damage Reducers"
+        ],
+        "heroId": "fortune_wei_qi",
+        "baseAttack": 657,
+        "baseDefense": 633,
+        "baseHealth": 1105,
+        "specialId": "slash_of_the_vibrant_lion",
+        "passiveSkills": [
+            "dealt_damage_modifier_on_any_dancing_ally"
+        ],
+        "family": "fortune"
+    },
+    {
+        "name": "Dragon Kids",
+        "fancy name": "The Next Generation of Dragon Dancers",
+        "element": "Red",
+        "rarity": 3,
+        "class": "Cleric",
+        "speed": "dancer",
+        "Release date": "2026-02-17",
+        "AetherPower": "Special Armor",
+        "skill_types": [
+            "Healers",
+            "Health Boosters",
+            "Cleansers",
+            "Dancers",
+            "Buffers (ATK)",
+            "Extra Damage Dealers",
+            "Damage Reducers"
+        ],
+        "heroId": "fortune_dragon_kids",
+        "baseAttack": 300,
+        "baseDefense": 313,
+        "baseHealth": 583,
+        "specialId": "protective_aura",
+        "passiveSkills": [
+            "boosted_health_on_any_dancing_ally"
+        ],
+        "family": "fortune"
+    },
+    {
+        "name": "Bai Yan",
+        "fancy name": "Lion Dance Drummer",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Druid",
+        "speed": "dancer",
+        "Release date": "2026-02-17",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "Healers",
+            "Health Boosters",
+            "Cleansers",
+            "Dancers",
+            "Buffers (ATK)",
+            "Extra Damage Dealers",
+            "Damage Reducers"
+        ],
+        "heroId": "fortune_bai_yan",
+        "baseAttack": 641,
+        "baseDefense": 651,
+        "baseHealth": 1109,
+        "specialId": "aura_of_the_fiery_lion",
+        "passiveSkills": [
+            "boosted_health_on_any_dancing_ally"
+        ],
+        "family": "fortune"
+    },
+    {
+        "name": "Hongyunxing",
+        "fancy name": "Lunar Itinerant Horse",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
+        "Release date": "2026-02-17",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "Heal over Time (HoT)",
+            "Health Boosters",
+            "Mana Raisers",
+            "Cleansers"
+        ],
+        "heroId": "lunar_new_year_hongyunxing",
+        "baseAttack": 645,
+        "baseDefense": 643,
+        "baseHealth": 1112,
+        "specialId": "ardent_panacea",
+        "passiveSkills": [
+            "enemy_minion_follower_silencer"
+        ],
+        "family": "zodiac_horse"
+    },
+    {
+        "name": "Xiaotu costume1",
+        "fancy name": "Lunar Lantern Rabbit",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
+        "Release date": "2026-02-17",
+        "AetherPower": "Rage",
+        "skill_types": [
+            "Healing Reducers",
+            "Minions Counters",
+            "Snipers",
+            "Max Health Reducers"
+        ],
+        "heroId": "lunar_new_year_xiaotu_costume_golden",
+        "baseAttack": 415,
+        "baseDefense": 399,
+        "baseHealth": 728,
+        "specialId": "reverse_recovery",
+        "specialId_costume": "ill_fated_recovery",
+        "passiveSkills": [
+            "enemy_minion_follower_silencer"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "55%",
+        "defenseBonus": "55%",
+        "healthBonus": "60%",
+        "manaBonus": "5%",
+        "family": "zodiac_rabbit"
+    },
+    {
+        "name": "Laohu costume1",
+        "fancy name": "Lunar Lucky Tiger",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
+        "Release date": "2026-02-17",
+        "AetherPower": "Regen",
+        "skill_types": [
+            "Health Boosters",
+            "Minions Counters",
+            "Snipers",
+            "Buffers (ATK)"
+        ],
+        "heroId": "lunar_new_year_laohu_costume_golden",
+        "baseAttack": 411,
+        "baseDefense": 391,
+        "baseHealth": 748,
+        "specialId": "fierce_fu_jow_pai",
+        "specialId_costume": "lucky_fu_jow_pai",
+        "passiveSkills": [
+            "enemy_minion_follower_silencer"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "55%",
+        "defenseBonus": "55%",
+        "healthBonus": "60%",
+        "manaBonus": "5%",
+        "family": "zodiac_tiger"
     }
 ];

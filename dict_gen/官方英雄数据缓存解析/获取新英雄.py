@@ -152,7 +152,7 @@ def process_hero_data(hero_id_key, hero_data, name_dict, fancy_name_dict, family
         "Release date": "",  # 固定为空字符串
         "canBeReceivedDate": can_be_received_date,  # 保留原始值
         "star": star,
-        "family": family_display,  # 使用家族显示名称
+        "family": family_id, # family_display,  # 使用家族显示名称
         "costume_id": 1 if parent_hero_id else 0,
         "heroId": hero_id_key,  # 使用原始键名
         "Lottery_Only": 1
