@@ -516,6 +516,18 @@
         "Lottery_Only": 1
     },
     {
+        "name": "Savann",
+        "fancy_name": "Cat of the Sun-Blessed Valley",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "star": 5,
+        "family": "wild_cat",
+        "costume_id": 0,
+        "heroId": "wild_cat_savann",
+        "Lottery_Only": 1
+    },
+    {
         "name": "Shar-alen",
         "fancy_name": "Ruthless Frontline Lynx",
         "color": "Red",
@@ -549,18 +561,6 @@
         "family": "outlaw",
         "costume_id": 0,
         "heroId": "outlaw_shi_jin",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Xiang Chong",
-        "fancy_name": "Flying Star of Water Margin",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "outlaw",
-        "costume_id": 0,
-        "heroId": "outlaw_xiang_chong",
         "Lottery_Only": 1
     },
     {
@@ -1020,18 +1020,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Meenakshi",
-        "fancy_name": "Coconut Chechi",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "mahayoddha",
-        "costume_id": 0,
-        "heroId": "mahayoddha_meenakshi",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Dagny",
         "fancy_name": "Vanguard of the Wilds",
         "color": "Yellow",
@@ -1089,18 +1077,6 @@
         "family": "institute",
         "costume_id": 0,
         "heroId": "institute_professor_ambrose",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Cassilda",
-        "fancy_name": "Frenzied Archpriestess",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "forsaken",
-        "costume_id": 0,
-        "heroId": "forsaken_cassilda",
         "Lottery_Only": 1
     },
     {

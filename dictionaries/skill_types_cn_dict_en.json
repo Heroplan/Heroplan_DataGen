@@ -78,6 +78,7 @@
     "防御-反击/反弹：神圣": "Def - Reflect : Holy",
     "防御-反击/反弹：自然": "Def - Reflect : Nature",
     "防御-伤害减免": "Def - Dmg Reduction",
+    "防御-叠加：伤害减免": "Def - Stack : Dmg Reduction",
     "防御-伤害分担": "Def - Dmg Share",
     "防御-闪避": "Def - Dodge",
     "防御-叠加：防御力↑": "Def - Stack : Def ↑",

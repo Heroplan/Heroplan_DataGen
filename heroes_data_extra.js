@@ -44243,9 +44243,9 @@ window.allHeroesExtra = [
             "Damage Reducers"
         ],
         "heroId": "fortune_bai_yan",
-        "baseAttack": 641,
-        "baseDefense": 651,
-        "baseHealth": 1109,
+        "baseAttack": 645,
+        "baseDefense": 646,
+        "baseHealth": 1112,
         "specialId": "aura_of_the_fiery_lion",
         "passiveSkills": [
             "boosted_health_on_any_dancing_ally"
@@ -44338,5 +44338,219 @@ window.allHeroesExtra = [
         "healthBonus": "60%",
         "manaBonus": "5%",
         "family": "zodiac_tiger"
+    },
+    {
+        "name": "Gandr costume1",
+        "fancy name": "Dwarven Regal Soldier",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
+        "Release date": "2026-02-18",
+        "AetherPower": "Mana Boost",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Healers (Special)",
+            "Health Boosters",
+            "Counterattackers",
+            "Extra Damage Dealers",
+            "Bypassers",
+            "DoT Attackers",
+            "Debuffers (DEF)",
+            "Minions Counters"
+        ],
+        "heroId": "tales2_gandr_costume_guardian",
+        "baseAttack": 570,
+        "baseDefense": 565,
+        "baseHealth": 1060,
+        "specialId": "spearwand_gale",
+        "specialId_costume": "regal_spearhead",
+        "passiveSkills": [
+            "molten_core_costume",
+            "resist_burn_with_health_and_mana_boost_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "10%",
+        "defenseBonus": "10%",
+        "healthBonus": "12%",
+        "manaBonus": "5%",
+        "family": "nidavellir"
+    },
+    {
+        "name": "Planchet costume1",
+        "fancy name": "Valiant Adventurer",
+        "element": "Blue",
+        "rarity": 3,
+        "class": "Paladin",
+        "speed": "fast",
+        "Release date": "2026-02-20",
+        "AetherPower": "Fiend Resist",
+        "skill_types": [
+            "Heal over Time (HoT)",
+            "Minions Counters",
+            "Snipers"
+        ],
+        "heroId": "musketeer_planchet_costume_adventurer",
+        "baseAttack": 301,
+        "baseDefense": 259,
+        "baseHealth": 464,
+        "specialId": "piercing_practice_slash",
+        "specialId_costume": "adventurers_slash",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received_costume",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "13%",
+        "defenseBonus": "13%",
+        "healthBonus": "13%",
+        "manaBonus": "5%",
+        "family": "musketeer"
+    },
+    {
+        "name": "Kitty costume1",
+        "fancy name": "Friendly Fruit Harvester",
+        "element": "Purple",
+        "rarity": 4,
+        "class": "Cleric",
+        "speed": "average",
+        "Release date": "2026-02-20",
+        "AetherPower": "Heal Increase",
+        "skill_types": [
+            "Buffers (DEF)",
+            "Health Boosters",
+            "Reflectors",
+            "Heal over Time (HoT)"
+        ],
+        "heroId": "musketeer_kitty_costume_harvester",
+        "baseAttack": 300,
+        "baseDefense": 317,
+        "baseHealth": 642,
+        "specialId": "flower_of_kindness",
+        "specialId_costume": "fruits_of_kindness",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received_costume",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "20%",
+        "manaBonus": "5%",
+        "family": "musketeer"
+    },
+    {
+        "name": "Aconia costume1",
+        "fancy name": "Cyber Courier",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
+        "Release date": "2026-02-19",
+        "AetherPower": "Damage Reduction",
+        "skill_types": [
+            "DoT Attackers",
+            "Fiends Summoners",
+            "Extra Damage Dealers"
+        ],
+        "heroId": "elemental_aconia_costume_courier",
+        "baseAttack": 426,
+        "baseDefense": 415,
+        "baseHealth": 828,
+        "specialId": "bleed_inducing_daggers",
+        "specialId_costume": "lacerating_letters",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "47%",
+        "defenseBonus": "47%",
+        "healthBonus": "47%",
+        "manaBonus": "5%",
+        "family": "super_elemental"
+    },
+    {
+        "name": "Slaymire",
+        "fancy name": "Stubborn Slime Executor",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
+        "Release date": "2026-02-19",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Snipers",
+            "Mana Raisers",
+            "Health Boosters",
+            "Sleepweavers"
+        ],
+        "heroId": "slime_slaymire",
+        "baseAttack": 631,
+        "baseDefense": 660,
+        "baseHealth": 1113,
+        "specialId": "glutinous_execution",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_purple",
+            "summon_slime_minion_on_death_purple"
+        ],
+        "family": "slime"
+    },
+    {
+        "name": "D'Artagnan costume1",
+        "fancy name": "Ardent Chimney-Sweeper",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
+        "Release date": "2026-02-20",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers",
+            "Heal over Time (HoT)",
+            "Health Boosters"
+        ],
+        "heroId": "musketeer_dartagnan_costume_chimney_sweeper",
+        "baseAttack": 422,
+        "baseDefense": 405,
+        "baseHealth": 756,
+        "specialId": "flaming_rapier",
+        "specialId_costume": "sweep_the_soot",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received_costume",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "53%",
+        "defenseBonus": "53%",
+        "healthBonus": "53%",
+        "manaBonus": "5%",
+        "family": "musketeer"
+    },
+    {
+        "name": "Cerissa",
+        "fancy name": "Gracious Fairy of the Bewitched Castle",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
+        "Release date": "2026-02-20",
+        "AetherPower": "Heal Increase",
+        "skill_types": [
+            "Health Boosters",
+            "Damage Reducers",
+            "Mana Generation Buffers"
+        ],
+        "heroId": "beauty_beast_cerissa",
+        "baseAttack": 641,
+        "baseDefense": 647,
+        "baseHealth": 1114,
+        "specialId": "spell_of_camaraderie",
+        "passiveSkills": [
+            "convert_incoming_damage_to_heal",
+            "heal_on_expired_or_cleared_debuff_average",
+            "reduce_revival_health_all_enemies"
+        ],
+        "family": "beauty_beast"
     }
 ];

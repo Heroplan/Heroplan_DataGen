@@ -3028,6 +3028,7 @@
             "eventBundle": "bundle_challenge_1",
             "eventOffer": "alliancequest_calendar",
             "eventEndingOffer": "",
+            "manuallyOverwritten": true,
             "featuredCharacters": [
               "beauty_beast_cerissa",
               "musketeer_dartagnan_costume_chimney_sweeper",
@@ -3043,14 +3044,15 @@
             "eventBundle": "bundle_challenge_1",
             "eventOffer": "alliancequest_calendar",
             "eventEndingOffer": "",
+            "manuallyOverwritten": true,
             "featuredCharacters": [
               "beauty_beast_laurent",
               "musketeer_porthos_costume_merchant",
               "beauty_beast_dominique"
             ],
             "eventBonus": "event_hero_bonus_alliance_quest",
-            "startTime": "2026-04-08 07:00:00",
-            "endTime": "2026-04-13 07:00:00"
+            "startTime": "2026-03-15 07:00:00",
+            "endTime": "2026-03-20 07:00:00"
           }
         ],
         "treasureQuestEventEntries": [
@@ -84334,11 +84336,12 @@
         ]
       },
       "directCheckoutConfiguration": {
-        "enabled": true,
+        "enabled": false,
         "minimizedView": false,
         "autoRedirectView": true,
         "stickyBuyButton": false,
         "levelRequirement": 10,
+        "spentDollarsRequirement": 100,
         "checkoutUrl": "https://www.empiresandpuzzles.com"
       },
       "reporting": {
@@ -85018,8 +85021,8 @@
     "languageSelectionEnabled": true,
     "maxVersionToShowUpdateOutReminderAndroid": "82.0.3",
     "maxVersionToShowUpdateOutReminderIos": "82.0.3",
-    "maxVersionToShowUpdateOutReminderAndroidStandalone": "82.0.3",
-    "standaloneNewVersionRolloutPercentage": 100,
+    "maxVersionToShowUpdateOutReminderAndroidStandalone": "83.0.0",
+    "standaloneNewVersionRolloutPercentage": 70,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -85111,5 +85114,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1832232895
+  "otherConfigId": 3736482543
 }

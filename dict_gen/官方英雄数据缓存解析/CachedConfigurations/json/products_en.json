@@ -26,7 +26,7 @@
         "id": "lottery_temple_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 167,
+        "uiPriority": 170,
         "associatedEvent": "Temple",
         "bucketWeights": [
           568,
@@ -1162,7 +1162,7 @@
         "id": "lottery_super_elemental_purple",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 166,
+        "uiPriority": 165,
         "associatedEvent": "SuperElemental",
         "bonusChest": "super_elemental_chest_purple",
         "bonusChestRequirement": 10,
@@ -2266,7 +2266,7 @@
         "id": "lottery_wilderness_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 167,
+        "uiPriority": 166,
         "associatedEvent": "WildernessSummon",
         "bonusChest": "wilderness_chest",
         "bonusChestRequirement": 10,
@@ -2372,7 +2372,7 @@
         "id": "lottery_shadow_default",
         "gemPrice": 450,
         "amount": 1,
-        "uiPriority": 163,
+        "uiPriority": 169,
         "associatedEvent": "ShadowQuest",
         "bonusChest": "shadow_summon_chest",
         "bonusChestRequirement": 10,
@@ -4253,16 +4253,16 @@
         "bucketWeights": [
           710,
           265,
-          12,
+          9,
           0,
           0,
           0,
           0,
           0,
-          8,
+          13,
           0,
           0,
-          5
+          3
         ],
         "perfectSummon": "seasonal_perfect_10",
         "linkedOrigins": [
@@ -4270,7 +4270,8 @@
         ],
         "featuredNonCostumedHeroes": [
           "lunar_new_year_hongyunxing",
-          "lunar_new_year_laohu_costume_golden"
+          "lunar_new_year_laohu_costume_golden",
+          "lunar_new_year_xiaotu_costume_golden"
         ],
         "availableEventCostumesAreFeatured": false,
         "premiumSummonProductId": "lottery_seasonal_premium_lunar_new_year_2026",
@@ -4284,7 +4285,8 @@
         "amount": 10,
         "featuredNonCostumedHeroes": [
           "lunar_new_year_hongyunxing",
-          "lunar_new_year_laohu_costume_golden"
+          "lunar_new_year_laohu_costume_golden",
+          "lunar_new_year_xiaotu_costume_golden"
         ],
         "availableEventCostumesAreFeatured": false,
         "premiumSummonProductId": "lottery_seasonal_premium_lunar_new_year_2026",
@@ -23277,7 +23279,6 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_blue",
         "dollarValue": 20,
         "zyngaStoreDollarValueOverride": 18,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23327,7 +23328,6 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_green",
         "dollarValue": 20,
         "zyngaStoreDollarValueOverride": 18,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23377,7 +23377,6 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_purple",
         "dollarValue": 20,
         "zyngaStoreDollarValueOverride": 18,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23427,7 +23426,6 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_red",
         "dollarValue": 20,
         "zyngaStoreDollarValueOverride": 18,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23477,7 +23475,6 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_yellow",
         "dollarValue": 20,
         "zyngaStoreDollarValueOverride": 18,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24775,6 +24772,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_yellow_calendar_1_tier1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24794,6 +24792,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_yellow_calendar_1_tier2",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24812,6 +24811,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_yellow_calendar_2_tier1",
         "dollarValue": 4,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24848,6 +24848,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_yellow_calendar_3_tier1",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24867,6 +24868,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_yellow_calendar_3_tier2",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28597,7 +28599,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_nature_1",
         "dollarValue": 2,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28616,7 +28617,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_nature_2",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28635,7 +28635,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_nature_3",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28654,7 +28653,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_nature_4",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28678,7 +28676,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_nature_5",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29555,6 +29552,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_yellow_calendar_2_tier2b",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36236,7 +36234,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic5_alliancegift",
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -55824,6 +55822,38 @@
         ]
       },
       {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.mds_commappr",
+        "zyngaStoreProduct": true,
+        "contents": [
+          {
+            "type": "AvatarPin",
+            "id": "helmet_alliance",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "lottery_elite_hero",
+            "amount": 10
+          },
+          {
+            "type": "Item",
+            "id": "misc_loot_ticket",
+            "amount": 100
+          },
+          {
+            "type": "Product",
+            "id": "com.smallgiantgames.empires.viptimesaver_premium2",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "refill_energy_pve_full",
+            "amount": 5
+          }
+        ]
+      },
+      {
         "productType": "AllianceEventSummon",
         "id": "lottery_featured_alliance_quest_castle_ad",
         "sourceProductId": "lottery_featured_alliance_quest_castle",
@@ -58539,5 +58569,5 @@
       }
     ]
   },
-  "productsConfigId": 3998671878
+  "productsConfigId": 2953029858
 }

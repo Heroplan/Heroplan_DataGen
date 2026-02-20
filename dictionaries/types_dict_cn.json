@@ -1031,5 +1031,11 @@
   "Spirit Aura Boosted Heal 3": "3个目标灵气加成治疗",
   "Fiery Fortune Dance Buff 2": "2个目标烈焰福运之舞增益",
   "Mana over time All": "全体持续获得法力",
-  "Attack Buff All while Boosted Health": "拥有生命值加成时全体攻击增益"
+  "Attack Buff All while Boosted Health": "拥有生命值加成时全体攻击增益",
+  "Safely Clean Self": "自身安全净化",
+  "Mana boost All on kill": "击杀时全体法力提升",
+  "Boosted Heal All on kill": "击杀时全体生命值加成治疗",
+  "Delayed Paralyze 1": "延迟麻痹 (单体)",
+  "Boosted Heal 3": "3个目标生命值加成治疗",
+  "Damage Reduction Buff Stack 3": "3个目标伤害减免增益 (可叠加)"
 }

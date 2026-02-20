@@ -595,7 +595,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 6350,
+          "powerMultiplierPerMil": 7150,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -3255,7 +3255,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 1970,
+          "powerMultiplierPerMil": 2270,
           "powerMultiplierIncrementPerLevelPerMil": 40
         },
         "maxLevel": 8,
@@ -10349,7 +10349,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3350,
+          "powerMultiplierPerMil": 3850,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -10594,7 +10594,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 5500,
+          "powerMultiplierPerMil": 6000,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -15643,7 +15643,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2450,
+          "powerMultiplierPerMil": 2750,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -15773,7 +15773,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTargetMinor",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3700,
+          "powerMultiplierPerMil": 4000,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -22556,12 +22556,6 @@
         "maxLevel": 8,
         "statusEffects": [
           {
-            "id": "frost_milady_de_winter_costume",
-            "sideAffected": "Enemies",
-            "statusTargetType": "All",
-            "turns": 6
-          },
-          {
             "id": "health_boost_recovery_milady_de_winter_costume",
             "sideAffected": "Allies",
             "statusTargetType": "Single",
@@ -23013,7 +23007,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4150,
+          "powerMultiplierPerMil": 4450,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -24272,7 +24266,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3050,
+          "powerMultiplierPerMil": 3350,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -26964,7 +26958,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 1750,
+          "powerMultiplierPerMil": 2050,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -32418,7 +32412,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2950,
+          "powerMultiplierPerMil": 3450,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -32469,7 +32463,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 5150,
+          "powerMultiplierPerMil": 5650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -42839,7 +42833,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4050,
+          "powerMultiplierPerMil": 4550,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -47906,13 +47900,14 @@
         "id": "cherry_pudding_served",
         "directEffect": {
           "sideAffected": "Allies",
-          "typeOfTarget": "NearToTargetExceptCaster",
-          "effectType": "AddMana",
-          "powerMultiplierPerMil": 230,
+          "typeOfTarget": "NearToTarget",
+          "effectType": "Heal",
+          "powerMultiplierPerMil": 180,
           "powerMultiplierIncrementPerLevelPerMil": 10
         },
         "maxLevel": 8,
         "properties": [
+          "direct_mana_zestique",
           "growth_zestique"
         ],
         "summonedFamiliars": [
@@ -47939,6 +47934,14 @@
             "id": "slime_big_minion_purple",
             "sideAffected": "Allies",
             "familiarTargetType": "Sides"
+          }
+        ],
+        "statusEffects": [
+          {
+            "id": "health_boost_recovery_sliposi",
+            "sideAffected": "Allies",
+            "statusTargetType": "Single",
+            "turns": 4
           }
         ]
       },
@@ -48108,6 +48111,12 @@
           {
             "id": "resist_mana_effects_add_mana",
             "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 4
+          },
+          {
+            "id": "devouring_goo_magistine",
+            "sideAffected": "Enemies",
             "statusTargetType": "All",
             "turns": 4
           }
@@ -49483,6 +49492,14 @@
             "familiarTargetType": "SingleAndYellow",
             "amountPerCharacter": 1
           }
+        ],
+        "statusEffects": [
+          {
+            "id": "debuff_damage_increase_aconia_costume",
+            "sideAffected": "Enemies",
+            "statusTargetType": "All",
+            "turns": 6
+          }
         ]
       },
       {
@@ -49545,7 +49562,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2650,
+          "powerMultiplierPerMil": 5650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -49730,6 +49747,7 @@
           "typeOfTarget": "All"
         },
         "maxLevel": 8,
+        "strongAttackElement": "Purple",
         "properties": [
           "extra_damage_with_yellow_allies_xavier_arthropod_costume",
           "reduce_mana_with_yellow_allies_xavier_arthropod_costume"
@@ -50728,13 +50746,6 @@
         "maxLevel": 0,
         "properties": [
           "damage_eldritch_host"
-        ],
-        "statusEffects": [
-          {
-            "id": "add_insanity_to_self_eldritch_host",
-            "sideAffected": "Allies",
-            "statusTargetType": "Single"
-          }
         ]
       },
       {
@@ -51043,7 +51054,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4250,
+          "powerMultiplierPerMil": 4650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -51068,10 +51079,13 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3700,
+          "powerMultiplierPerMil": 4150,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
+        "properties": [
+          "growth_bulklug"
+        ],
         "statusEffects": [
           {
             "id": "nature_mirror_bulklug",
@@ -51143,7 +51157,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2900,
+          "powerMultiplierPerMil": 3150,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -51158,7 +51172,7 @@
             "id": "revive_slime",
             "sideAffected": "Allies",
             "statusTargetType": "Single",
-            "turns": 4
+            "turns": 3
           }
         ]
       },
@@ -53017,12 +53031,12 @@
         "id": "solar_shroud",
         "directEffect": {
           "sideAffected": "Allies",
-          "typeOfTarget": "All"
+          "typeOfTarget": "All",
+          "effectType": "Heal",
+          "powerMultiplierPerMil": 380,
+          "powerMultiplierIncrementPerLevelPerMil": 10
         },
         "maxLevel": 8,
-        "properties": [
-          "heal_per_yellow_tile_zondalath"
-        ],
         "statusEffects": [
           {
             "id": "received_damage_reduction_zondalath",
@@ -53787,7 +53801,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2150,
+          "powerMultiplierPerMil": 3050,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -54066,14 +54080,6 @@
         "maxLevel": 8,
         "properties": [
           "chain_strike_onwyn"
-        ],
-        "statusEffects": [
-          {
-            "id": "bleed_familiar_owner_onwyn",
-            "sideAffected": "Enemies",
-            "statusTargetType": "SmallFamiliarOwners",
-            "turns": 6
-          }
         ]
       },
       {
@@ -54161,7 +54167,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4950,
+          "powerMultiplierPerMil": 4450,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -54189,7 +54195,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4950,
+          "powerMultiplierPerMil": 4450,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -54217,7 +54223,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4950,
+          "powerMultiplierPerMil": 4450,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -54245,7 +54251,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4950,
+          "powerMultiplierPerMil": 4450,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -54273,7 +54279,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4950,
+          "powerMultiplierPerMil": 4450,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -63565,6 +63571,15 @@
       },
       {
         "propertyType": "SecondaryDirectEffect",
+        "id": "direct_mana_zestique",
+        "powerMultiplierPerMil": 230,
+        "powerMultiplierIncrementPerLevelPerMil": 10,
+        "effectType": "AddMana",
+        "targetType": "NearToTargetExceptCaster",
+        "sideAffected": "Allies"
+      },
+      {
+        "propertyType": "SecondaryDirectEffect",
         "id": "direct_heal_beowulf",
         "powerMultiplierPerMil": 80,
         "powerMultiplierIncrementPerLevelPerMil": 10,
@@ -64986,12 +65001,12 @@
         "propertyType": "DifferentExtraHitPowerChainStrike",
         "id": "chain_strike_shi_jin",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 2650,
+        "powerMultiplierPerMil": 5150,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "maxExtraHits": 8,
         "extraHitChancePerMil": 1000,
         "allowMainTargetInRandomTargets": true,
-        "additionalHitDamagePerMil": 850,
+        "additionalHitDamagePerMil": 1150,
         "additionalHitDamageIncrementPerLevelPerMil": 50
       },
       {
@@ -65452,12 +65467,12 @@
           {
             "countRequirement": 1,
             "effectTargetType": "NearToTarget",
-            "powerIncrementPerMil": 300
+            "powerIncrementPerMil": 600
           },
           {
             "countRequirement": 2,
             "effectTargetType": "All",
-            "powerIncrementPerMil": 600
+            "powerIncrementPerMil": 900
           }
         ],
         "effectType": "Damage",
@@ -66826,14 +66841,14 @@
         "propertyType": "ChainStrikeWithFamiliarSummonToHitTargets",
         "id": "chain_strike_onwyn",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 3500,
+        "powerMultiplierPerMil": 3400,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "maxExtraHits": 5,
         "extraHitChancePerMil": 1000,
         "statusEffects": [
           {
             "id": "blind_onwyn",
-            "turns": 6
+            "turns": 5
           }
         ],
         "applyStatusEffectsOnHit": true,
@@ -66881,6 +66896,15 @@
         "baseDefenseIncrease": 55,
         "baseDefenseIncreasePerLevel": 10,
         "targetType": "All",
+        "sideAffected": "Allies"
+      },
+      {
+        "propertyType": "Growth",
+        "id": "growth_bulklug",
+        "baseAttackIncrease": 130,
+        "baseAttackIncreasePerLevel": 10,
+        "baseDefenseIncrease": 0,
+        "targetType": "NearToTarget",
         "sideAffected": "Allies"
       },
       {
@@ -67012,7 +67036,7 @@
         "targetType": "Single",
         "sideAffected": "Enemies",
         "effectOnRemovalType": "Damage",
-        "basePowerMultiplierPerMil": 7150,
+        "basePowerMultiplierPerMil": 6650,
         "basePowerMultiplierIncrementPerLevelPerMil": 50,
         "powerIncrementPerStatusEffectPerMil": 65036
       },
@@ -67040,7 +67064,7 @@
         "targetType": "Sides",
         "sideAffected": "Enemies",
         "effectOnRemovalType": "Damage",
-        "basePowerMultiplierPerMil": 5650,
+        "basePowerMultiplierPerMil": 4650,
         "basePowerMultiplierIncrementPerLevelPerMil": 50,
         "powerIncrementPerStatusEffectPerMil": 64936
       },
@@ -67054,7 +67078,7 @@
         "targetType": "Single",
         "sideAffected": "Enemies",
         "effectOnRemovalType": "Damage",
-        "basePowerMultiplierPerMil": 4650,
+        "basePowerMultiplierPerMil": 3650,
         "basePowerMultiplierIncrementPerLevelPerMil": 50,
         "powerIncrementPerStatusEffectPerMil": 65136
       },
@@ -67090,5 +67114,5 @@
       }
     ]
   },
-  "specialsConfigId": 3427177262
+  "specialsConfigId": 1811784312
 }

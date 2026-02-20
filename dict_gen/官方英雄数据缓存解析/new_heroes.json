@@ -72,15 +72,39 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Savann",
-        "fancy_name": "Cat of the Sun-Blessed Valley",
-        "color": "Yellow",
+        "name": "Cassilda",
+        "fancy_name": "Frenzied Archpriestess",
+        "color": "Blue",
         "Release date": "",
-        "canBeReceivedDate": "2026-02-21 07:00:00",
+        "canBeReceivedDate": "2026-02-24 07:00:00",
         "star": 5,
-        "family": "wild_cat",
+        "family": "forsaken",
         "costume_id": 0,
-        "heroId": "wild_cat_savann",
+        "heroId": "forsaken_cassilda",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Meenakshi",
+        "fancy_name": "Coconut Chechi",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2026-02-25 07:00:00",
+        "star": 5,
+        "family": "mahayoddha",
+        "costume_id": 0,
+        "heroId": "mahayoddha_meenakshi",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Xiang Chong",
+        "fancy_name": "Flying Star of Water Margin",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2026-03-01 07:00:00",
+        "star": 5,
+        "family": "outlaw",
+        "costume_id": 0,
+        "heroId": "outlaw_xiang_chong",
         "Lottery_Only": 1
     },
     {

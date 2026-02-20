@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (516 / 0)
+✅ 成功匹配的服装 (521 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -10,6 +10,7 @@ Name: Zenobia Costume1, Fancy Name: Apocynacid Queen
 Name: Khufu Costume1, Fancy Name: Aquatic Androsphinx
 Name: Anubis Costume1, Fancy Name: Arbiter of the Dancefloor
 Name: Ratatoskr Costume1, Fancy Name: Architect of Yggdrasil
+Name: D'Artagnan costume1, Fancy Name: Ardent Chimney-Sweeper
 Name: Hawkmoon Costume1, Fancy Name: Ascendant Mender
 Name: Hawkmoon Toon, Fancy Name: Ascendant Toon
 Name: Hawkmoon Glass, Fancy Name: Ascendant Vitrail
@@ -74,6 +75,7 @@ Name: Zengar costume1, Fancy Name: Cultivating Beast
 Name: Cupido costume1, Fancy Name: Cupid of Fiery Passion
 Name: Zarola costume1, Fancy Name: Cupid of Lone Rangers
 Name: Voluptas costume1, Fancy Name: Cupid of Painters
+Name: Aconia costume1, Fancy Name: Cyber Courier
 Name: Scarlett Costume2, Fancy Name: Dancer from the Sandsea
 Name: Azmia Costume1, Fancy Name: Dancing Tavern Keeper
 Name: Salmon Loki Costume1, Fancy Name: Dapper Fish
@@ -101,6 +103,7 @@ Name: Tiburtus Costume1, Fancy Name: Duke of Rock
 Name: Regin costume1, Fancy Name: Dwarven Fallen Prince
 Name: Fjalar costume1, Fancy Name: Dwarven Ghostly Skald
 Name: Ott costume1, Fancy Name: Dwarven Maestro Trickster
+Name: Gandr costume1, Fancy Name: Dwarven Regal Soldier
 Name: Helgi costume1, Fancy Name: Dwarven Replenisher
 Name: Jack O'Hare Costume1, Fancy Name: Egg Hunter of Springvale
 Name: Ptolemy Costume1, Fancy Name: Elder Log
@@ -149,6 +152,7 @@ Name: Ignazio Costume1, Fancy Name: Flame Surgeon
 Name: Camilla costume1, Fancy Name: Floral Tinkerer
 Name: Diaochan Costume1, Fancy Name: Flower Beauty
 Name: Faiez Costume1, Fancy Name: Fortuitous Miner
+Name: Kitty costume1, Fancy Name: Friendly Fruit Harvester
 Name: Aegir Costume1, Fancy Name: Frozen Farmer
 Name: Joukahainen Costume1, Fancy Name: Frozen Hunter
 Name: Joon Costume1, Fancy Name: Fury of the Sun
@@ -482,6 +486,7 @@ Name: Renfeld Toon, Fancy Name: Unhinged Toon
 Name: Leonidas Costume2, Fancy Name: Unyielding Mage
 Name: Leonidas Toon, Fancy Name: Unyielding Toon
 Name: Leonidas Glass, Fancy Name: Unyielding Vitrail
+Name: Planchet costume1, Fancy Name: Valiant Adventurer
 Name: Odin Costume1, Fancy Name: Valiant All-Father
 Name: Hansel Costume1, Fancy Name: Vampire Hunter of Grimforest
 Name: Alucard Costume1, Fancy Name: Vampire Kingpin

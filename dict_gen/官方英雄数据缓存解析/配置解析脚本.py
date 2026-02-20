@@ -4,11 +4,6 @@ import asyncio
 import subprocess
 from asyncio.subprocess import PIPE
 
-# 强制设置系统编码为 UTF-8
-sys.stdout.reconfigure(encoding='utf-8', errors='replace')
-sys.stderr.reconfigure(encoding='utf-8', errors='replace')
-
-
 async def run_script(script_path, folder_path):
     """执行单个脚本并实时打印输出"""
     normalized_script = os.path.abspath(script_path)

@@ -10,7 +10,7 @@
         "manaSpeedId": "very_fast",
         "specialId": "poison_bite",
         "inheritedBaseHealthPercentagePerMil": 1000,
-        "maximumBaseHealth": 2000,
+        "maximumBaseHealth": 3000,
         "isHeroAlternativeForm": true
       },
       {
@@ -23,7 +23,7 @@
         "versionUnsafe": true,
         "specialId": "eternal_loyalty",
         "inheritedBaseHealthPercentagePerMil": 1000,
-        "maximumBaseHealth": 2000,
+        "maximumBaseHealth": 3000,
         "isHeroAlternativeForm": true
       },
       {
@@ -51,7 +51,7 @@
         "manaSpeedId": "fast",
         "specialId": "eldritch_blight",
         "inheritedBaseHealthPercentagePerMil": 1000,
-        "maximumBaseHealth": 2000,
+        "maximumBaseHealth": 3000,
         "isHeroAlternativeForm": true
       }
     ],
@@ -34292,6 +34292,19 @@
       },
       {
         "statusEffect": "FixedHealthRecovery",
+        "id": "health_boost_recovery_sliposi",
+        "buff": "MinorBuff",
+        "buffTypeOverride": {
+          "overrideBuffTypeElement": "None",
+          "buffTypeOverride": "None"
+        },
+        "iconOverrideStatusEffectId": "health_boost_recovery_porthos_costume",
+        "healthPoints": 115,
+        "healthPointsIncrementPerLevel": 20,
+        "isHealthBoost": true
+      },
+      {
+        "statusEffect": "FixedHealthRecovery",
         "id": "health_boost_recovery_milady_de_winter_costume",
         "buff": "MinorBuff",
         "healthPoints": 110,
@@ -41453,7 +41466,7 @@
         "statusEffect": "Burn",
         "id": "burn_natalya_costume",
         "buff": "MajorDebuff",
-        "damageMultiplierPerMil": 250,
+        "damageMultiplierPerMil": 270,
         "damageMultiplierIncrementPerLevelPerMil": 19,
         "strongAttackMultiplierIncrementPerMil": 50
       },
@@ -45083,7 +45096,7 @@
         "statusEffect": "Burn",
         "id": "burn_natalya",
         "buff": "MajorDebuff",
-        "damageMultiplierPerMil": 300,
+        "damageMultiplierPerMil": 320,
         "damageMultiplierIncrementPerLevelPerMil": 5,
         "strongAttackMultiplierIncrementPerMil": 50
       },
@@ -45129,7 +45142,7 @@
       {
         "statusEffect": "ReceivedDamageModifier",
         "id": "received_damage_reduction_zondalath",
-        "buff": "MajorBuff",
+        "buff": "MinorBuff",
         "receivedDamageMultiplierPerMil": 640,
         "receivedDamageMultiplierIncrementPerLevelPerMil": 236
       },
@@ -45255,7 +45268,7 @@
           {
             "typeOfTarget": "Random",
             "effectType": "Damage",
-            "powerMultiplierPerMil": 2650,
+            "powerMultiplierPerMil": 5650,
             "powerMultiplierIncrementPerLevelPerMil": 50
           }
         ],
@@ -45272,7 +45285,7 @@
           {
             "typeOfTarget": "Random",
             "effectType": "Damage",
-            "powerMultiplierPerMil": 1950,
+            "powerMultiplierPerMil": 4650,
             "powerMultiplierIncrementPerLevelPerMil": 50
           }
         ],
@@ -50100,7 +50113,7 @@
         "id": "increasing_special_damage_until_special_cast_zondalath",
         "buff": "MinorBuff",
         "removalTrigger": "SpecialCast",
-        "powerAdditionPerMil": 500,
+        "powerAdditionPerMil": 300,
         "powerAdditionIncrementPerLevelPerMil": 0,
         "powerAdditionIncrementPerTurnPerMil": 300,
         "powerAdditionIncrementPerTurnPerLevelPerMil": 0,
@@ -52756,6 +52769,14 @@
         "damageMultiplierIncrementPerLevelPerMil": 20
       },
       {
+        "statusEffect": "DebuffDamageModifier",
+        "id": "debuff_damage_increase_aconia_costume",
+        "buff": "MinorDebuff",
+        "iconOverrideStatusEffectId": "debuff_damage_increase_grendels_mother",
+        "damageMultiplierPerMil": 1160,
+        "damageMultiplierIncrementPerLevelPerMil": 20
+      },
+      {
         "statusEffect": "StatusEffectGeneratorStatusEffectSkill",
         "id": "status_effect_generator_grendels_mother",
         "buff": "MajorBuff",
@@ -54240,7 +54261,7 @@
         "statusEffect": "PainEmpathy",
         "id": "pain_empathy_sharalen",
         "buff": "MinorDebuff",
-        "sharedDamageMultiplierPerMil": 560,
+        "sharedDamageMultiplierPerMil": 860,
         "sharedDamageMultiplierIncrementPerLevelPerMil": 20
       },
       {
@@ -55308,7 +55329,7 @@
           {
             "typeOfTarget": "Random",
             "effectType": "Damage",
-            "powerMultiplierPerMil": 2650,
+            "powerMultiplierPerMil": 3650,
             "powerMultiplierIncrementPerLevelPerMil": 50
           }
         ],
@@ -56979,7 +57000,7 @@
         "attackMultiplierIncrementPerLevelPerMil": 10,
         "affectedMonsterCategory": "Titan",
         "affectedElement": "Yellow",
-        "attackMultiplierAgainstValidTargetPerMil": 1530,
+        "attackMultiplierAgainstValidTargetPerMil": 2030,
         "attackMultiplierAgainstValidTargetIncrementPerLevelPerMil": 10
       },
       {
@@ -57568,7 +57589,7 @@
         "statusEffect": "DefenseModifier",
         "id": "defense_vibrant_fortune_dance",
         "buff": "MinorBuff",
-        "defenseMultiplierPerMil": 1460,
+        "defenseMultiplierPerMil": 1360,
         "defenseMultiplierIncrementPerLevelPerMil": 20
       },
       {
@@ -57582,7 +57603,7 @@
         "statusEffect": "AttackModifier",
         "id": "attack_fiery_fortune_dance",
         "buff": "MinorBuff",
-        "attackMultiplierPerMil": 1460,
+        "attackMultiplierPerMil": 1360,
         "attackMultiplierIncrementPerLevelPerMil": 20
       },
       {
@@ -57663,7 +57684,7 @@
         "buff": "MinorBuff",
         "damageMultiplierPerMil": 1130,
         "damageMultiplierIncrementPerLevelPerMil": 10,
-        "damageMultiplierAgainstElementPerMil": 1360,
+        "damageMultiplierAgainstElementPerMil": 1160,
         "damageMultiplierAgainstElementIncrementPerLevelPerMil": 20,
         "element": "Blue"
       },
@@ -57673,7 +57694,7 @@
         "buff": "MinorBuff",
         "damageMultiplierPerMil": 870,
         "damageMultiplierIncrementPerLevelPerMil": 246,
-        "damageMultiplierAgainstElementPerMil": 640,
+        "damageMultiplierAgainstElementPerMil": 840,
         "damageMultiplierAgainstElementIncrementPerLevelPerMil": 236,
         "element": "Red",
         "affectedSources": [
@@ -57686,8 +57707,8 @@
         "buff": "MinorBuff",
         "damageMultiplierPerMil": 1080,
         "damageMultiplierIncrementPerLevelPerMil": 10,
-        "damageMultiplierAgainstElementPerMil": 1260,
-        "damageMultiplierAgainstElementIncrementPerLevelPerMil": 20,
+        "damageMultiplierAgainstElementPerMil": 1130,
+        "damageMultiplierAgainstElementIncrementPerLevelPerMil": 10,
         "element": "Blue"
       },
       {
@@ -57696,8 +57717,8 @@
         "buff": "MinorBuff",
         "damageMultiplierPerMil": 920,
         "damageMultiplierIncrementPerLevelPerMil": 246,
-        "damageMultiplierAgainstElementPerMil": 740,
-        "damageMultiplierAgainstElementIncrementPerLevelPerMil": 236,
+        "damageMultiplierAgainstElementPerMil": 870,
+        "damageMultiplierAgainstElementIncrementPerLevelPerMil": 246,
         "element": "Red",
         "affectedSources": [
           "SpecialSkill"
@@ -57709,7 +57730,7 @@
         "buff": "MinorBuff",
         "damageMultiplierPerMil": 1130,
         "damageMultiplierIncrementPerLevelPerMil": 10,
-        "damageMultiplierAgainstElementPerMil": 1360,
+        "damageMultiplierAgainstElementPerMil": 1160,
         "damageMultiplierAgainstElementIncrementPerLevelPerMil": 20,
         "element": "Green"
       },
@@ -57719,7 +57740,7 @@
         "buff": "MinorBuff",
         "damageMultiplierPerMil": 870,
         "damageMultiplierIncrementPerLevelPerMil": 246,
-        "damageMultiplierAgainstElementPerMil": 640,
+        "damageMultiplierAgainstElementPerMil": 840,
         "damageMultiplierAgainstElementIncrementPerLevelPerMil": 236,
         "element": "Blue",
         "affectedSources": [
@@ -57732,8 +57753,8 @@
         "buff": "MinorBuff",
         "damageMultiplierPerMil": 1030,
         "damageMultiplierIncrementPerLevelPerMil": 10,
-        "damageMultiplierAgainstElementPerMil": 1160,
-        "damageMultiplierAgainstElementIncrementPerLevelPerMil": 20,
+        "damageMultiplierAgainstElementPerMil": 1080,
+        "damageMultiplierAgainstElementIncrementPerLevelPerMil": 10,
         "element": "Green"
       },
       {
@@ -57742,8 +57763,8 @@
         "buff": "MinorBuff",
         "damageMultiplierPerMil": 970,
         "damageMultiplierIncrementPerLevelPerMil": 246,
-        "damageMultiplierAgainstElementPerMil": 840,
-        "damageMultiplierAgainstElementIncrementPerLevelPerMil": 236,
+        "damageMultiplierAgainstElementPerMil": 920,
+        "damageMultiplierAgainstElementIncrementPerLevelPerMil": 246,
         "element": "Blue",
         "affectedSources": [
           "SpecialSkill"
@@ -57755,7 +57776,7 @@
         "buff": "MinorBuff",
         "damageMultiplierPerMil": 1130,
         "damageMultiplierIncrementPerLevelPerMil": 10,
-        "damageMultiplierAgainstElementPerMil": 1360,
+        "damageMultiplierAgainstElementPerMil": 1160,
         "damageMultiplierAgainstElementIncrementPerLevelPerMil": 20,
         "element": "Red"
       },
@@ -57765,7 +57786,7 @@
         "buff": "MinorBuff",
         "damageMultiplierPerMil": 870,
         "damageMultiplierIncrementPerLevelPerMil": 246,
-        "damageMultiplierAgainstElementPerMil": 640,
+        "damageMultiplierAgainstElementPerMil": 840,
         "damageMultiplierAgainstElementIncrementPerLevelPerMil": 236,
         "element": "Green",
         "affectedSources": [
@@ -57940,7 +57961,7 @@
         "statusEffect": "NormalAttackModifier",
         "id": "normal_attack_boost_troop_mimic",
         "buff": "MinorBuff",
-        "attackMultiplierPerMil": 2250,
+        "attackMultiplierPerMil": 1650,
         "attackMultiplierIncrementPerLevelPerMil": 50,
         "maxAttackMultiplierPerMil": 3000
       },
@@ -65290,7 +65311,7 @@
         "affectedBuffCategory": "AllStatusEffects",
         "ownedEffectsCheckedFromSide": "Allies",
         "ownedEffectsCheckedFromTarget": "All",
-        "damageModifierPerStatusEffectPerMil": 500,
+        "damageModifierPerStatusEffectPerMil": 300,
         "maxModifierCount": 1,
         "acceptedDamageSources": [
           "SpecialSkill"
@@ -71164,7 +71185,7 @@
         "effectTriggers": [
           "Turn"
         ],
-        "attackPercentPerMil": 320,
+        "attackPercentPerMil": 670,
         "attackPercentIncrementPerLevelPerMil": 20,
         "monsterAttackPercentPerMil": 420
       },
@@ -71479,7 +71500,7 @@
           "Turn"
         ],
         "sideAffected": "Allies",
-        "attackPercentPerMil": 270,
+        "attackPercentPerMil": 620,
         "attackPercentIncrementPerLevelPerMil": 20
       },
       {
@@ -77489,10 +77510,10 @@
       {
         "id": "lunar_new_year_brawl",
         "effects": [
+          "lunar_new_year_brawl_resist_dot",
           "lunar_new_year_brawl_enhanced_criticals",
           "lunar_new_year_brawl_resist_mana_reductions",
-          "lunar_new_year_brawl_resist_mana_silence",
-          "lunar_new_year_brawl_resist_dot"
+          "lunar_new_year_brawl_resist_mana_silence"
         ]
       },
       {
@@ -82402,11 +82423,11 @@
         "statMultipliers": [
           {
             "type": "AttackMultiplier",
-            "multiplierPerMil": 1800
+            "multiplierPerMil": 1500
           },
           {
             "type": "DefenseMultiplier",
-            "multiplierPerMil": 1400
+            "multiplierPerMil": 1300
           },
           {
             "type": "HealthMultiplier",
@@ -89783,6 +89804,12 @@
             "effectType": "Damage",
             "fixedPower": 464,
             "fixedPowerIncrementPerLevel": 44
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 111,
+            "fixedPowerIncrementPerLevel": 11
           }
         ],
         "statusEffects": [
@@ -90190,5 +90217,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 3007003769
+  "battleConfigId": 2298724884
 }

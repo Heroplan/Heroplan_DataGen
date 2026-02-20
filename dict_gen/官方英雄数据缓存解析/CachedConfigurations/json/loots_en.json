@@ -36140,7 +36140,7 @@
                 "oriental_warrior",
                 "oriental_monkey_warrior",
                 "oriental_panda_scout",
-                "oriental_panda_scout"
+                "oriental_squire"
               ],
               "weights": [
                 936,
@@ -36184,8 +36184,8 @@
                 "blackguard_female_archer",
                 "cultist_thief",
                 "cultist_female_poisoner",
-                "cultist_female_poisoner",
-                "undead_screaming_zombie"
+                "undead_screaming_zombie",
+                "blackguard_scout"
               ],
               "weights": [
                 936,
@@ -39902,15 +39902,15 @@
                 "red_rare_female_mage"
               ],
               "weights": [
-                9525,
-                100,
-                100,
-                100,
-                50,
-                50,
-                25,
-                25,
-                25
+                9700,
+                85,
+                85,
+                85,
+                15,
+                15,
+                5,
+                5,
+                5
               ]
             }
           },
@@ -39925,10 +39925,10 @@
                 "rainbow_rare_trainer"
               ],
               "weights": [
-                986,
+                9900,
+                85,
                 10,
-                3,
-                1
+                5
               ]
             }
           }
@@ -39953,15 +39953,15 @@
                 "blue_rare_knight"
               ],
               "weights": [
-                9525,
-                100,
-                100,
-                100,
-                50,
-                50,
-                25,
-                25,
-                25
+                9700,
+                85,
+                85,
+                85,
+                15,
+                15,
+                5,
+                5,
+                5
               ]
             }
           },
@@ -39976,10 +39976,10 @@
                 "rainbow_rare_trainer"
               ],
               "weights": [
-                986,
+                9900,
+                85,
                 10,
-                3,
-                1
+                5
               ]
             }
           }
@@ -40004,15 +40004,15 @@
                 "green_rare_cultist"
               ],
               "weights": [
-                9525,
-                100,
-                100,
-                100,
-                50,
-                50,
-                25,
-                25,
-                25
+                9700,
+                85,
+                85,
+                85,
+                15,
+                15,
+                5,
+                5,
+                5
               ]
             }
           },
@@ -40027,10 +40027,10 @@
                 "rainbow_rare_trainer"
               ],
               "weights": [
-                986,
+                9900,
+                85,
                 10,
-                3,
-                1
+                5
               ]
             }
           }
@@ -40055,15 +40055,15 @@
                 "yellow_rare_statue"
               ],
               "weights": [
-                9525,
-                100,
-                100,
-                100,
-                50,
-                50,
-                25,
-                25,
-                25
+                9700,
+                85,
+                85,
+                85,
+                15,
+                15,
+                5,
+                5,
+                5
               ]
             }
           },
@@ -40078,10 +40078,10 @@
                 "rainbow_rare_trainer"
               ],
               "weights": [
-                986,
+                9900,
+                85,
                 10,
-                3,
-                1
+                5
               ]
             }
           }
@@ -40106,15 +40106,15 @@
                 "purple_rare_knight"
               ],
               "weights": [
-                9525,
-                100,
-                100,
-                100,
-                50,
-                50,
-                25,
-                25,
-                25
+                9700,
+                85,
+                85,
+                85,
+                15,
+                15,
+                5,
+                5,
+                5
               ]
             }
           },
@@ -40129,10 +40129,10 @@
                 "rainbow_rare_trainer"
               ],
               "weights": [
-                986,
+                9900,
+                85,
                 10,
-                3,
-                1
+                5
               ]
             }
           }
@@ -47007,5 +47007,5 @@
       }
     ]
   },
-  "lootsConfigId": 1681422571
+  "lootsConfigId": 3726603196
 }
