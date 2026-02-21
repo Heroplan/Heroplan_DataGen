@@ -1037,5 +1037,6 @@
   "Boosted Heal All on kill": "击杀时全体生命值加成治疗",
   "Delayed Paralyze 1": "延迟麻痹 (单体)",
   "Boosted Heal 3": "3个目标生命值加成治疗",
-  "Damage Reduction Buff Stack 3": "3个目标伤害减免增益 (可叠加)"
+  "Damage Reduction Buff Stack 3": "3个目标伤害减免增益 (可叠加)",
+  "Devouring Goo Debuff All": "全体吞噬粘液减益"
 }

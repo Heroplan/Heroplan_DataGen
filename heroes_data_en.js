@@ -9162,7 +9162,7 @@ window.allHeroes =
         "defense": 1312,
         "health": 2261,
         "effects": [
-            "Deals 460% damage to all enemies.",
+            "Deals 500% damage to all enemies.",
             "The caster steals generated mana of all enemies over 5 turns starting low and increasing every turn until on the last turn all generated mana is stolen. This effect can't be cleansed, but it gets removed if the caster is defeated.",
             "All allies get Sticky surface for 5 turns. This effect can't be dispelled.",
             "Sticky Surface: Steals 1 random dispellable buff or Growth effect from an attacking enemy. (Stolen dispellable buff or Growth effect is chosen by random. Sticky Surface is activated when any damage is received from an enemy. Each character with Sticky Surface can only steal one status effect buff or Growth effect per turn from normal attacks.)"
@@ -11221,7 +11221,6 @@ window.allHeroes =
             "* 1200 defense.",
             "Special Skill: Eldrich Bright.",
             "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "* Inflicts 30 Insanity on the caster.",
             "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
         ],
         "family": "institute",
@@ -12666,7 +12665,7 @@ window.allHeroes =
         "health": 1705,
         "effects": [
             "This Special Skill never misses its targets.",
-            "Deals 550% damage to the target.",
+            "Deals 600% damage to the target.",
             "The target becomes marked for 3 turns. Whenever a marked target dodges, they gain a stack (Max: 10). Each stack increases all damage the target receives by +5%.",
             "Element Link gives all Ice allies +10% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ],
@@ -13639,7 +13638,7 @@ window.allHeroes =
         "defense": 751,
         "health": 1378,
         "effects": [
-            "Deals 405% damage to the target and minor damage to the nearby enemies.",
+            "Deals 435% damage to the target and minor damage to the nearby enemies.",
             "Dispells buffs from the target and nearby enemies at the end of each turn for 3 turns.",
             "Deals extra damage against Fire.",
             "Element Link gives all Ice allies +10% attack for 4 turns. This effect can't be dispelled."
@@ -18461,7 +18460,7 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
-            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage on all enemies."
+            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage to all enemies."
         ],
         "family": "musketeer",
         "costume_id": 1,
@@ -33429,14 +33428,11 @@ window.allHeroes =
         "defense": 774,
         "health": 1367,
         "effects": [
-            "Deals 370% damage to all enemies.",
+            "Deals 420% damage to all enemies.",
             "Lifts all cleansable status ailments that affect attack or defense from all allies and randomly distributes them on enemies.",
             "Element Link summons a Nature Minion for all Nature allies with 6% HP and 10% attack inherited from the caster."
         ],
-        "passives": [
-            "Resist Blind: This character has innate resistance against status ailments that affect accurancy. Doesn't apply to status effects from allies.",
-            "Mana on Minion Death: The character gains a small amount of mana when a Minion owned by them is destroyed."
-        ],
+        "passives": [],
         "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 479,
@@ -34005,12 +34001,14 @@ window.allHeroes =
         "skill": "Building Blocks",
         "types": [
             "Hit 3",
+            "Attack Buff 3",
             "Elemental Reflect 3",
             "Elemental Counterattack 3",
             "Self Slime Revive"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
+            "Ability Scores Modifiers",
             "Reflectors",
             "Counterattackers",
             "Revivers"
@@ -34029,7 +34027,8 @@ window.allHeroes =
         "defense": 1297,
         "health": 2261,
         "effects": [
-            "Deals 405% damage to target and nearby enemies.",
+            "Deals 450% damage to target and nearby enemies.",
+            "The caster and nearby allies get 200 attack.",
             "The caster and the nearby allies reflects all status ailments and 160% damage back to the attacker and block other negative effects from enemies' Fire Special Skills for 4 turns. This effect can't be dispelled. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)",
             "The caster receive Slime Revive status effect for 4 turns. This effect can't be dispelled.",
             "If defeated while Slime Revive is active, the caster will be reborn as a Slime."
@@ -34061,6 +34060,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
+                    "Atk - Growth : Atk↑",
                     "Def - Reflect : Fire",
                     "Heal - Self Revive"
                 ]
@@ -36037,7 +36037,6 @@ window.allHeroes =
             "* 1200 defense.",
             "Special Skill: Eldrich Bright.",
             "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "* Inflicts 30 Insanity on the caster.",
             "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
         ],
         "family": "institute",
@@ -40603,7 +40602,6 @@ window.allHeroes =
             "* 1200 defense.",
             "Special Skill: Eldrich Bright.",
             "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "* Inflicts 30 Insanity on the caster.",
             "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
         ],
         "family": "forsaken",
@@ -47265,7 +47263,7 @@ window.allHeroes =
         "health": 1524,
         "effects": [
             "Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.",
-            "Deals 340% damage to the target and nearby enemies.",
+            "Deals 370% damage to the target and nearby enemies.",
             "The target and nearby enemies receive 572 Poison damage over 4 turns.",
             "Element Link gives all Nature allies +5% chance to dodge status ailments for 4 turns. This effect cannot be dispelled."
         ],
@@ -48093,7 +48091,7 @@ window.allHeroes =
         "defense": 688,
         "health": 1308,
         "effects": [
-            "Deals 225% damage to all enemies",
+            "Deals 255% damage to all enemies",
             "All enemies get -34% attack for 4 turns",
             "Deals extra damage against Ice",
             "Dispels buffs from all enemies",
@@ -48175,7 +48173,7 @@ window.allHeroes =
         "health": 1908,
         "effects": [
             "Dispels buffs from all enemies.",
-            "Deals 210% damage to all enemies.",
+            "Deals 240% damage to all enemies.",
             "All enemies get -38% attack for 4 turns.",
             "Deals extra damage against Ice",
             "Elemental Link gives +10% mana generation for all Nature allies for 4 turns. This effect can't be dispelled."
@@ -48269,7 +48267,6 @@ window.allHeroes =
             "* 1200 defense.",
             "Special Skill: Eldrich Bright.",
             "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "* Inflicts 30 Insanity on the caster.",
             "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
         ],
         "family": "institute",
@@ -69357,9 +69354,12 @@ window.allHeroes =
         "skill": "Sticky Express",
         "types": [
             "Mana Increase 2",
-            "Slime Mega Minion 2"
+            "Slime Mega Minion 2",
+            "Self Boosted HoT"
         ],
         "skill_types": [
+            "Heal over Time (HoT)",
+            "Health Boosters",
             "Mana Raisers",
             "Mega Minions Summoners"
         ],
@@ -69378,7 +69378,8 @@ window.allHeroes =
         "health": 2263,
         "effects": [
             "Increases the mana of allies on the edges of the formation by 30%.",
-            "Summon a Slime Mega Minion for the allies on the edges of the enemy formation with 50% HP and 40% attack inherited from the caster."
+            "Summon a Slime Mega Minion for the allies on the edges of the enemy formation with 50% HP and 40% attack inherited from the caster.",
+            "The caster regenerates 1020 boosted health over 4 turns."
         ],
         "passives": [
             "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
@@ -69402,6 +69403,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
+                    "Heal - Self Recovery / Boost Health",
                     "Mana - Mana Gain",
                     "Summon - Mega Minion"
                 ]
@@ -71458,7 +71460,7 @@ window.allHeroes =
         "defense": 809,
         "health": 1398,
         "effects": [
-            "Deals 280% damage to all enemies.",
+            "Deals 310% damage to all enemies.",
             "Damage bypasses target's minions.",
             "Summons a Cursed Sapling Fiend for all enemies. The Fiend damages its target with 75% attack every turn.",
             "The Cursed Sapling Fiend absorbs healing and it disappears after absorbing a healing amount equal to 60% of its owner's max health.",
@@ -72206,7 +72208,7 @@ window.allHeroes =
         "defense": 1036,
         "health": 1662,
         "effects": [
-            "Deals 440% damage to the target.",
+            "Deals 490% damage to the target.",
             "The target gets -34% defense for 2 turns. The effect duration resets if the target is hit with direct damage from a Special Skill.",
             "The target gets -34% decrease for any healing received for 2 turns. The effect duration resets if the target is hit with direct damage from a Special Skill.",
             "Element Link gives all Dark allies +20% critical chance for 6 turns. This effect cannot be dispelled."
@@ -84337,7 +84339,6 @@ window.allHeroes =
             "* 1200 defense.",
             "Special Skill: Eldrich Bright.",
             "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "* Inflicts 30 Insanity on the caster.",
             "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
         ],
         "family": "forsaken",
@@ -91182,7 +91183,7 @@ window.allHeroes =
         "defense": 679,
         "health": 1419,
         "effects": [
-            "The target receives 960 Burn damage over 4 turns. This effect can't be cleansed.",
+            "The target receives 1020 Burn damage over 4 turns. This effect can't be cleansed.",
             "The target gets -54% mana generation for 4 turns. This effect can't be cleansed.",
             "Deals extra damage against Nature.",
             "Elemental Link gives +10% mana generation to all Fire allies for 4 turns. This effect can't be displelled."
@@ -91256,7 +91257,7 @@ window.allHeroes =
         "defense": 851,
         "health": 2025,
         "effects": [
-            "The target receives 1432 Burn damage over 4 turns. This effect can't be cleansed.",
+            "The target receives 1504 Burn damage over 4 turns. This effect can't be cleansed.",
             "The target gets -50% mana generation for 4 turns. This effect can't be cleansed.",
             "Deals extra damage against Nature.",
             "Elemental Link gives +10% mana generation to all Fire allies for 4 turns. This effect can't be displelled."
@@ -93741,7 +93742,7 @@ window.allHeroes =
         "health": 1503,
         "effects": [
             "Steals 50% mana from the target and distributes them on allies.",
-            "Deals 450% damage to the target.",
+            "Deals 480% damage to the target.",
             "The more health the enemy has, the more damage they will receive, up to 600%.",
             "Element Link gives all Fire allies get +5% chance to dodge status ailments for 4 turns. This effect can't be dispelled."
         ],
@@ -96332,7 +96333,6 @@ window.allHeroes =
             "* 1200 defense.",
             "Special Skill: Eldrich Bright.",
             "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "* Inflicts 30 Insanity on the caster.",
             "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
         ],
         "family": "institute",
@@ -97238,11 +97238,13 @@ window.allHeroes =
         "skill": "Cherry Pudding Served!",
         "types": [
             "Mana Increase 2",
+            "Healer 3",
             "Growth 2",
             "Slime Mega Minion Self"
         ],
         "skill_types": [
             "Mana Raisers",
+            "Healers",
             "Ability Scores Modifiers",
             "Mega Minions Summoners"
         ],
@@ -97261,6 +97263,7 @@ window.allHeroes =
         "health": 2261,
         "effects": [
             "Increases the mana of nearby allies by 30%.",
+            "Recovers 25% health for the caster and nearby allies.",
             "Growth: Nearby allies gets 300 attack and 300 defense.",
             "Summon a Slime Mega Minion with 50% HP and 40% attack inherited from the caster."
         ],
@@ -97284,6 +97287,11 @@ window.allHeroes =
             "power": 1504
         },
         "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
             {
                 "特殊效果": [
                     "Mana - Mana Gain",
@@ -112115,12 +112123,14 @@ window.allHeroes =
             "Hit All",
             "Mana Boost All",
             "Mana Debuffs Immunity All",
-            "Mana Increase if Resist All"
+            "Mana Increase if Resist All",
+            "Devouring Goo Debuff All"
         ],
         "skill_types": [
             "Minions Counters",
             "AoE Attackers (Hit-5)",
             "Mana Raisers",
+            "Dispellers",
             "Status Effects Blockers"
         ],
         "source": "Super Elementals",
@@ -112140,7 +112150,8 @@ window.allHeroes =
             "Destroys all Minions from all enemies and damages Mega Minions.",
             "Deals 350% damage to all enemies.",
             "All allies get 5% mana for each destroyed Minion.",
-            "All allies are immune to new negative mana effects for 4 turns, and their mana is increased by 20% for each resisted effect."
+            "All allies are immune to new negative mana effects for 4 turns, and their mana is increased by 20% for each resisted effect.",
+            "All enemies receive Devouring Goo for 4 turns. Removes all dispellable buffs and Growth effects and deals 200 damage each turn. If effects are removed, 50 more damage is dealt for each removed effect."
         ],
         "passives": [
             "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
@@ -112177,6 +112188,11 @@ window.allHeroes =
             {
                 "增益效果": [
                     "Status - Block Ailments"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Devouring Goo"
                 ]
             }
         ]
@@ -117719,7 +117735,7 @@ window.allHeroes =
         "defense": 727,
         "health": 1324,
         "effects": [
-            "Deals 585% damage to the target",
+            "Deals 635% damage to the target",
             "Damage bypasses target's Minions.",
             "All enemies who own a Minion or a fiend receive 420 Sand damage over 3 turns.",
             "Element Link summons a Holy Minion for all Holy allies with 6% HP and 10% attack inherited from the caster"
@@ -120105,7 +120121,7 @@ window.allHeroes =
         "defense": 999,
         "health": 1744,
         "effects": [
-            "Deals 330% damage to all enemies.",
+            "Deals 380% damage to all enemies.",
             "Cleanses status ailments from all allies.",
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."

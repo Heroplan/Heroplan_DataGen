@@ -1187,7 +1187,6 @@ const allTranslations =
             "* 1200 defense.",
             "Special Skill: Eldrich Bright.",
             "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "* Inflicts 30 Insanity on the caster.",
             "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
         ]
     },
@@ -1960,7 +1959,7 @@ const allTranslations =
         "name": "Porthos C1",
         "passives": [
             "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
-            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage on all enemies."
+            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage to all enemies."
         ]
     },
     {
@@ -3447,10 +3446,7 @@ const allTranslations =
     {
         "originalIndex": 479,
         "name": "Bertila",
-        "passives": [
-            "Resist Blind: This character has innate resistance against status ailments that affect accurancy. Doesn't apply to status effects from allies.",
-            "Mana on Minion Death: The character gains a small amount of mana when a Minion owned by them is destroyed."
-        ]
+        "passives": []
     },
     {
         "originalIndex": 480,
@@ -3751,7 +3747,6 @@ const allTranslations =
             "* 1200 defense.",
             "Special Skill: Eldrich Bright.",
             "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "* Inflicts 30 Insanity on the caster.",
             "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
         ]
     },
@@ -4218,7 +4213,6 @@ const allTranslations =
             "* 1200 defense.",
             "Special Skill: Eldrich Bright.",
             "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "* Inflicts 30 Insanity on the caster.",
             "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
         ]
     },
@@ -5039,7 +5033,6 @@ const allTranslations =
             "* 1200 defense.",
             "Special Skill: Eldrich Bright.",
             "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "* Inflicts 30 Insanity on the caster.",
             "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
         ]
     },
@@ -8780,7 +8773,6 @@ const allTranslations =
             "* 1200 defense.",
             "Special Skill: Eldrich Bright.",
             "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "* Inflicts 30 Insanity on the caster.",
             "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
         ]
     },
@@ -10024,7 +10016,6 @@ const allTranslations =
             "* 1200 defense.",
             "Special Skill: Eldrich Bright.",
             "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "* Inflicts 30 Insanity on the caster.",
             "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
         ]
     },

@@ -39692,6 +39692,8 @@ window.allHeroesExtra = [
         "Release date": "2025-09-25",
         "AetherPower": "Dodge",
         "skill_types": [
+            "Heal over Time (HoT)",
+            "Health Boosters",
             "Mana Raisers",
             "Mega Minions Summoners"
         ],
@@ -40123,6 +40125,7 @@ window.allHeroesExtra = [
         "AetherPower": "Dodge",
         "skill_types": [
             "Mana Raisers",
+            "Healers",
             "Ability Scores Modifiers",
             "Mega Minions Summoners"
         ],
@@ -40789,6 +40792,7 @@ window.allHeroesExtra = [
             "Minions Counters",
             "AoE Attackers (Hit-5)",
             "Mana Raisers",
+            "Dispellers",
             "Status Effects Blockers"
         ],
         "heroId": "slime_labblub",
@@ -41661,6 +41665,7 @@ window.allHeroesExtra = [
         "AetherPower": "Boosted Regen",
         "skill_types": [
             "AoE Attackers (Hit-3)",
+            "Ability Scores Modifiers",
             "Reflectors",
             "Counterattackers",
             "Revivers"

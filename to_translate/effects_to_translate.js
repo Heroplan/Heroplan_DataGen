@@ -1240,7 +1240,7 @@ const allTranslations =
         "originalIndex": 136,
         "name": "Boboo Sang",
         "effects": [
-            "Deals 460% damage to all enemies.",
+            "Deals 500% damage to all enemies.",
             "The caster steals generated mana of all enemies over 5 turns starting low and increasing every turn until on the last turn all generated mana is stolen. This effect can't be cleansed, but it gets removed if the caster is defeated.",
             "All allies get Sticky surface for 5 turns. This effect can't be dispelled.",
             "Sticky Surface: Steals 1 random dispellable buff or Growth effect from an attacking enemy. (Stolen dispellable buff or Growth effect is chosen by random. Sticky Surface is activated when any damage is received from an enemy. Each character with Sticky Surface can only steal one status effect buff or Growth effect per turn from normal attacks.)"
@@ -1718,7 +1718,7 @@ const allTranslations =
         "name": "Gladius",
         "effects": [
             "This Special Skill never misses its targets.",
-            "Deals 550% damage to the target.",
+            "Deals 600% damage to the target.",
             "The target becomes marked for 3 turns. Whenever a marked target dodges, they gain a stack (Max: 10). Each stack increases all damage the target receives by +5%.",
             "Element Link gives all Ice allies +10% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ]
@@ -1843,7 +1843,7 @@ const allTranslations =
         "originalIndex": 196,
         "name": "Iris",
         "effects": [
-            "Deals 405% damage to the target and minor damage to the nearby enemies.",
+            "Deals 435% damage to the target and minor damage to the nearby enemies.",
             "Dispells buffs from the target and nearby enemies at the end of each turn for 3 turns.",
             "Deals extra damage against Fire.",
             "Element Link gives all Ice allies +10% attack for 4 turns. This effect can't be dispelled."
@@ -4558,7 +4558,7 @@ const allTranslations =
         "originalIndex": 479,
         "name": "Bertila",
         "effects": [
-            "Deals 370% damage to all enemies.",
+            "Deals 420% damage to all enemies.",
             "Lifts all cleansable status ailments that affect attack or defense from all allies and randomly distributes them on enemies.",
             "Element Link summons a Nature Minion for all Nature allies with 6% HP and 10% attack inherited from the caster."
         ]
@@ -4634,7 +4634,8 @@ const allTranslations =
         "originalIndex": 487,
         "name": "Bulklug",
         "effects": [
-            "Deals 405% damage to target and nearby enemies.",
+            "Deals 450% damage to target and nearby enemies.",
+            "The caster and nearby allies get 200 attack.",
             "The caster and the nearby allies reflects all status ailments and 160% damage back to the attacker and block other negative effects from enemies' Fire Special Skills for 4 turns. This effect can't be dispelled. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)",
             "The caster receive Slime Revive status effect for 4 turns. This effect can't be dispelled.",
             "If defeated while Slime Revive is active, the caster will be reborn as a Slime."
@@ -6488,7 +6489,7 @@ const allTranslations =
         "name": "Viselus",
         "effects": [
             "Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.",
-            "Deals 340% damage to the target and nearby enemies.",
+            "Deals 370% damage to the target and nearby enemies.",
             "The target and nearby enemies receive 572 Poison damage over 4 turns.",
             "Element Link gives all Nature allies +5% chance to dodge status ailments for 4 turns. This effect cannot be dispelled."
         ]
@@ -6597,7 +6598,7 @@ const allTranslations =
         "originalIndex": 681,
         "name": "Zeline",
         "effects": [
-            "Deals 225% damage to all enemies",
+            "Deals 255% damage to all enemies",
             "All enemies get -34% attack for 4 turns",
             "Deals extra damage against Ice",
             "Dispels buffs from all enemies",
@@ -6609,7 +6610,7 @@ const allTranslations =
         "name": "Zeline C1",
         "effects": [
             "Dispels buffs from all enemies.",
-            "Deals 210% damage to all enemies.",
+            "Deals 240% damage to all enemies.",
             "All enemies get -38% attack for 4 turns.",
             "Deals extra damage against Ice",
             "Elemental Link gives +10% mana generation for all Nature allies for 4 turns. This effect can't be dispelled."
@@ -9537,7 +9538,8 @@ const allTranslations =
         "name": "Sliposi",
         "effects": [
             "Increases the mana of allies on the edges of the formation by 30%.",
-            "Summon a Slime Mega Minion for the allies on the edges of the enemy formation with 50% HP and 40% attack inherited from the caster."
+            "Summon a Slime Mega Minion for the allies on the edges of the enemy formation with 50% HP and 40% attack inherited from the caster.",
+            "The caster regenerates 1020 boosted health over 4 turns."
         ]
     },
     {
@@ -9836,7 +9838,7 @@ const allTranslations =
         "originalIndex": 1012,
         "name": "Viscaro",
         "effects": [
-            "Deals 280% damage to all enemies.",
+            "Deals 310% damage to all enemies.",
             "Damage bypasses target's minions.",
             "Summons a Cursed Sapling Fiend for all enemies. The Fiend damages its target with 75% attack every turn.",
             "The Cursed Sapling Fiend absorbs healing and it disappears after absorbing a healing amount equal to 60% of its owner's max health.",
@@ -9937,7 +9939,7 @@ const allTranslations =
         "originalIndex": 1022,
         "name": "Zed",
         "effects": [
-            "Deals 440% damage to the target.",
+            "Deals 490% damage to the target.",
             "The target gets -34% defense for 2 turns. The effect duration resets if the target is hit with direct damage from a Special Skill.",
             "The target gets -34% decrease for any healing received for 2 turns. The effect duration resets if the target is hit with direct damage from a Special Skill.",
             "Element Link gives all Dark allies +20% critical chance for 6 turns. This effect cannot be dispelled."
@@ -12523,7 +12525,7 @@ const allTranslations =
         "originalIndex": 1293,
         "name": "Natalya",
         "effects": [
-            "The target receives 960 Burn damage over 4 turns. This effect can't be cleansed.",
+            "The target receives 1020 Burn damage over 4 turns. This effect can't be cleansed.",
             "The target gets -54% mana generation for 4 turns. This effect can't be cleansed.",
             "Deals extra damage against Nature.",
             "Elemental Link gives +10% mana generation to all Fire allies for 4 turns. This effect can't be displelled."
@@ -12533,7 +12535,7 @@ const allTranslations =
         "originalIndex": 1294,
         "name": "Natalya C1",
         "effects": [
-            "The target receives 1432 Burn damage over 4 turns. This effect can't be cleansed.",
+            "The target receives 1504 Burn damage over 4 turns. This effect can't be cleansed.",
             "The target gets -50% mana generation for 4 turns. This effect can't be cleansed.",
             "Deals extra damage against Nature.",
             "Elemental Link gives +10% mana generation to all Fire allies for 4 turns. This effect can't be displelled."
@@ -12876,7 +12878,7 @@ const allTranslations =
         "name": "Roughian & Nurgib",
         "effects": [
             "Steals 50% mana from the target and distributes them on allies.",
-            "Deals 450% damage to the target.",
+            "Deals 480% damage to the target.",
             "The more health the enemy has, the more damage they will receive, up to 600%.",
             "Element Link gives all Fire allies get +5% chance to dodge status ailments for 4 turns. This effect can't be dispelled."
         ]
@@ -13344,6 +13346,7 @@ const allTranslations =
         "name": "Zestique",
         "effects": [
             "Increases the mana of nearby allies by 30%.",
+            "Recovers 25% health for the caster and nearby allies.",
             "Growth: Nearby allies gets 300 attack and 300 defense.",
             "Summon a Slime Mega Minion with 50% HP and 40% attack inherited from the caster."
         ]
@@ -15372,7 +15375,8 @@ const allTranslations =
             "Destroys all Minions from all enemies and damages Mega Minions.",
             "Deals 350% damage to all enemies.",
             "All allies get 5% mana for each destroyed Minion.",
-            "All allies are immune to new negative mana effects for 4 turns, and their mana is increased by 20% for each resisted effect."
+            "All allies are immune to new negative mana effects for 4 turns, and their mana is increased by 20% for each resisted effect.",
+            "All enemies receive Devouring Goo for 4 turns. Removes all dispellable buffs and Growth effects and deals 200 damage each turn. If effects are removed, 50 more damage is dealt for each removed effect."
         ]
     },
     {
@@ -16152,7 +16156,7 @@ const allTranslations =
         "originalIndex": 1665,
         "name": "Uraeus",
         "effects": [
-            "Deals 585% damage to the target",
+            "Deals 635% damage to the target",
             "Damage bypasses target's Minions.",
             "All enemies who own a Minion or a fiend receive 420 Sand damage over 3 turns.",
             "Element Link summons a Holy Minion for all Holy allies with 6% HP and 10% attack inherited from the caster"
@@ -16473,7 +16477,7 @@ const allTranslations =
         "originalIndex": 1697,
         "name": "Zora",
         "effects": [
-            "Deals 330% damage to all enemies.",
+            "Deals 380% damage to all enemies.",
             "Cleanses status ailments from all allies.",
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
