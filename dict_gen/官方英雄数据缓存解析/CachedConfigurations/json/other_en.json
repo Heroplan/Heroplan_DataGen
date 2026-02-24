@@ -2799,6 +2799,12 @@
             "endTime": "2026-02-09 07:00:00"
           },
           {
+            "id": "SecretSummonTroopMimicBlue",
+            "type": "MysteryHero",
+            "startTime": "2026-02-23 07:00:00",
+            "endTime": "2026-02-24 07:00:00"
+          },
+          {
             "id": "LunarNewYear2026",
             "type": "Seasonal",
             "eventBonus": "lunar_new_year_bonus",
@@ -85022,7 +85028,7 @@
     "maxVersionToShowUpdateOutReminderAndroid": "82.0.3",
     "maxVersionToShowUpdateOutReminderIos": "82.0.3",
     "maxVersionToShowUpdateOutReminderAndroidStandalone": "83.0.0",
-    "standaloneNewVersionRolloutPercentage": 70,
+    "standaloneNewVersionRolloutPercentage": 100,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -85114,5 +85120,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 3736482543
+  "otherConfigId": 3470986753
 }

@@ -1,74 +1,14 @@
 [
     {
-        "name": "Aconia",
-        "fancy_name": "Cyber Courier",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2026-02-19 07:00:00",
-        "star": 5,
-        "family": "super_elemental",
-        "costume_id": 1,
-        "heroId": "elemental_aconia_costume_courier",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Slaymire",
-        "fancy_name": "Stubborn Slime Executor",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2026-02-19 07:00:00",
-        "star": 5,
-        "family": "slime",
-        "costume_id": 0,
-        "heroId": "slime_slaymire",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "D´Artagnan",
-        "fancy_name": "Ardent Chimney-Sweeper",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2026-02-20 07:00:00",
-        "star": 5,
-        "family": "musketeer",
-        "costume_id": 1,
-        "heroId": "musketeer_dartagnan_costume_chimney_sweeper",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Kitty",
-        "fancy_name": "Friendly Fruit Harvester",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2026-02-20 07:00:00",
-        "star": 4,
-        "family": "musketeer",
-        "costume_id": 1,
-        "heroId": "musketeer_kitty_costume_harvester",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Planchet",
-        "fancy_name": "Valiant Adventurer",
+        "name": "Troop Mimic",
+        "fancy_name": "Bounty of Dreadful Arsenal",
         "color": "Blue",
         "Release date": "",
-        "canBeReceivedDate": "2026-02-20 07:00:00",
-        "star": 3,
-        "family": "musketeer",
-        "costume_id": 1,
-        "heroId": "musketeer_planchet_costume_adventurer",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Cerissa",
-        "fancy_name": "Gracious Fairy of the Bewitched Castle",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2026-02-20 07:00:00",
+        "canBeReceivedDate": "2026-02-23 07:00:00",
         "star": 5,
-        "family": "beauty_beast",
+        "family": "mimic",
         "costume_id": 0,
-        "heroId": "beauty_beast_cerissa",
+        "heroId": "mimic_troop_blue",
         "Lottery_Only": 1
     },
     {
@@ -96,15 +36,15 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Xiang Chong",
-        "fancy_name": "Flying Star of Water Margin",
-        "color": "Green",
+        "name": "Shi Jin",
+        "fancy_name": "Nine Dragon Tattoos of Water Margin",
+        "color": "Purple",
         "Release date": "",
         "canBeReceivedDate": "2026-03-01 07:00:00",
         "star": 5,
         "family": "outlaw",
         "costume_id": 0,
-        "heroId": "outlaw_xiang_chong",
+        "heroId": "outlaw_shi_jin",
         "Lottery_Only": 1
     },
     {

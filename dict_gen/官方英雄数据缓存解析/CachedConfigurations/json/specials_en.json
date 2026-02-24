@@ -54137,8 +54137,7 @@
           {
             "id": "stacking_mana_pineon",
             "sideAffected": "Allies",
-            "statusTargetType": "Single",
-            "turns": 4
+            "statusTargetType": "Single"
           }
         ]
       },
@@ -54467,8 +54466,7 @@
           {
             "id": "stacking_mana_pineon",
             "sideAffected": "Allies",
-            "statusTargetType": "Single",
-            "turns": 4
+            "statusTargetType": "Single"
           },
           {
             "id": "resilient_rot",
@@ -67114,5 +67112,5 @@
       }
     ]
   },
-  "specialsConfigId": 1811784312
+  "specialsConfigId": 1480319258
 }

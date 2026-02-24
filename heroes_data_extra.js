@@ -44557,5 +44557,61 @@ window.allHeroesExtra = [
             "reduce_revival_health_all_enemies"
         ],
         "family": "beauty_beast"
+    },
+    {
+        "name": "Cassilda",
+        "fancy name": "Frenzied Archpriestess",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
+        "Release date": "2026-02-24",
+        "AetherPower": "Counterattack",
+        "skill_types": [
+            "Snipers",
+            "Debuffers (DEF)",
+            "Dispellers",
+            "Buff Blockers",
+            "Mindless Attack & Mindless Heal",
+            "Chain & Random Attackers",
+            "Negative Effects On Self Or Allies"
+        ],
+        "heroId": "forsaken_cassilda",
+        "baseAttack": 644,
+        "baseDefense": 649,
+        "baseHealth": 1111,
+        "specialId": "discordant_incantation",
+        "passiveSkills": [
+            "revive_in_alternative_form_with_insanity_chance"
+        ],
+        "family": "forsaken"
+    },
+    {
+        "name": "Troop Mimic Ice",
+        "fancy name": "Bounty of Dreadful Arsenal",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
+        "Release date": "2026-02-23",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "Snipers",
+            "Bypassers",
+            "Healers (Special)",
+            "Mana Raisers",
+            "Buffers (ATK)",
+            "Ghost Form & Hiding"
+        ],
+        "heroId": "mimic_troop_blue",
+        "baseAttack": 649,
+        "baseDefense": 647,
+        "baseHealth": 1099,
+        "specialId": "gluttonous_chomp_blue",
+        "passiveSkills": [
+            "mimic_troop_blue",
+            "never_miss_special"
+        ],
+        "family": "mimic"
     }
 ];

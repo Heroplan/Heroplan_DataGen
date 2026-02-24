@@ -27890,27 +27890,32 @@
         "id": "com.smallgiantgames.empires.summoning_bonanza_50",
         "dollarValue": 50,
         "zyngaStoreDollarValueOverride": 45,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_goblin_coin",
-            "amount": 500
+            "id": "lottery_wilderness_coin",
+            "amount": 500,
+            "zyngaStoreExtraAmount": 100
           },
           {
             "type": "Item",
-            "id": "lottery_tower_coin",
-            "amount": 500
+            "id": "lottery_alliance_coin",
+            "amount": 50,
+            "zyngaStoreExtraAmount": 10
           },
           {
             "type": "Item",
-            "id": "lottery_untold_tales_coin",
-            "amount": 500
+            "id": "lottery_pickup_coin",
+            "amount": 500,
+            "zyngaStoreExtraAmount": 100
           },
           {
             "type": "Item",
-            "id": "lottery_ascension_coin",
-            "amount": 500
+            "id": "lottery_elite_hero",
+            "amount": 5,
+            "zyngaStoreExtraAmount": 1
           },
           {
             "type": "Item",
@@ -27934,8 +27939,9 @@
           },
           {
             "type": "Item",
-            "id": "lottery_covenant_coin",
-            "amount": 500
+            "id": "lottery_untold_tales_coin",
+            "amount": 500,
+            "zyngaStoreExtraAmount": 100
           },
           {
             "type": "Item",
@@ -27944,8 +27950,9 @@
           },
           {
             "type": "Item",
-            "id": "lottery_alliance_coin",
-            "amount": 50
+            "id": "lottery_ascension_coin",
+            "amount": 500,
+            "zyngaStoreExtraAmount": 100
           },
           {
             "type": "Item",
@@ -36234,7 +36241,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36262,6 +36268,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36271,6 +36278,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -58569,5 +58577,5 @@
       }
     ]
   },
-  "productsConfigId": 2953029858
+  "productsConfigId": 2227465486
 }

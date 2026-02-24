@@ -195,7 +195,7 @@ def generate_heroes_data_single_file(single_file, name_dict, fancy_name_dict, fa
             now = datetime.now()
             # 判断发布日期与当前日期的关系
             target_date = parse_date_for_comparison(can_be_received_date)
-            if target_date > now:
+            if target_date >= now:
                 # 新英雄：发布日期在当前日期之后
                 new_heroes_list.append(hero_processed)
     return new_heroes_list, future_heroes_list

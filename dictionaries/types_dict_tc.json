@@ -1038,5 +1038,7 @@
   "Delayed Paralyze 1": "延遲麻痺 (單體)",
   "Boosted Heal 3": "3個目標生命值加成治療",
   "Damage Reduction Buff Stack 3": "3個目標傷害減免增益 (可疊加)",
-  "Devouring Goo Debuff All": "全體吞噬粘液減益"
+  "Devouring Goo Debuff All": "全體吞噬粘液減益",
+  "Block Talent Skills on hit": "命中時封印天賦技能",
+  "Normal Attack Buff All": "全體普通攻擊增益"
 }
