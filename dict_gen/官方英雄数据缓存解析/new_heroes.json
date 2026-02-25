@@ -1,29 +1,5 @@
 [
     {
-        "name": "Troop Mimic",
-        "fancy_name": "Bounty of Dreadful Arsenal",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2026-02-23 07:00:00",
-        "star": 5,
-        "family": "mimic",
-        "costume_id": 0,
-        "heroId": "mimic_troop_blue",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Cassilda",
-        "fancy_name": "Frenzied Archpriestess",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2026-02-24 07:00:00",
-        "star": 5,
-        "family": "forsaken",
-        "costume_id": 0,
-        "heroId": "forsaken_cassilda",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Meenakshi",
         "fancy_name": "Coconut Chechi",
         "color": "Green",
@@ -57,6 +33,54 @@
         "family": "hotm2026",
         "costume_id": 0,
         "heroId": "holy_god_gilda",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Savann",
+        "fancy_name": "Cat of the Sun-Blessed Valley",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2026-03-04 07:00:00",
+        "star": 5,
+        "family": "wild_cat",
+        "costume_id": 0,
+        "heroId": "wild_cat_savann",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Onwyn",
+        "fancy_name": "Onion Bandit",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2026-03-06 07:00:00",
+        "star": 5,
+        "family": "vegetable",
+        "costume_id": 0,
+        "heroId": "vegetable_onwyn",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Zondalath",
+        "fancy_name": "Astral Demon Sun-Wielder",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2026-03-07 07:00:00",
+        "star": 5,
+        "family": "astral_demons",
+        "costume_id": 0,
+        "heroId": "astral_demon_zondalath",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Brachynd",
+        "fancy_name": "Warden of the Cove",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2026-03-09 07:00:00",
+        "star": 5,
+        "family": "titan_hunter",
+        "costume_id": 0,
+        "heroId": "titan_hunter_brachynd",
         "Lottery_Only": 1
     }
 ]

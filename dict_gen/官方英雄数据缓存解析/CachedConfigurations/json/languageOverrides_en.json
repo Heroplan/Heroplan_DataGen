@@ -602,6 +602,10 @@
           {
             "key": "specials.v2.statuseffect.minor.possession.sides.enemies.healing_gift",
             "text": "Die Gegner an den Rändern der gegnerischen Formation werden {TURNS} Züge lang gezwungen, [#!]Gedankenlose Heilung[#]  zu wirken, wenn ihr Mana voll ist.\n\n[#!]{SPECIALTITLE}[#]\n{SPECIALDESCRIPTION}"
+          },
+          {
+            "key": "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.single.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target",
+            "text": "Fügt dem Ziel {POWER} % [#!]Geisterhieb[#]-Schaden zu. [#!]Geisterhieb[#] entfernt sicher Buffs, ehe der Schaden verursacht wird."
           }
         ]
       },
@@ -2031,5 +2035,5 @@
       }
     }
   },
-  "languageOverridesConfigId": 2719863739
+  "languageOverridesConfigId": 61753377
 }

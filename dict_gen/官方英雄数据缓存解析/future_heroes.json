@@ -516,18 +516,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Savann",
-        "fancy_name": "Cat of the Sun-Blessed Valley",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "wild_cat",
-        "costume_id": 0,
-        "heroId": "wild_cat_savann",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Shar-alen",
         "fancy_name": "Ruthless Frontline Lynx",
         "color": "Red",
@@ -1008,18 +996,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Zondalath",
-        "fancy_name": "Astral Demon Sun-Wielder",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "astral_demons",
-        "costume_id": 0,
-        "heroId": "astral_demon_zondalath",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Dagny",
         "fancy_name": "Vanguard of the Wilds",
         "color": "Yellow",
@@ -1029,18 +1005,6 @@
         "family": "titan_hunter",
         "costume_id": 0,
         "heroId": "titan_hunter_savanna",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Brachynd",
-        "fancy_name": "Warden of the Cove",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "titan_hunter",
-        "costume_id": 0,
-        "heroId": "titan_hunter_brachynd",
         "Lottery_Only": 1
     },
     {
@@ -1089,18 +1053,6 @@
         "family": "forsaken",
         "costume_id": 0,
         "heroId": "forsaken_amarosa",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Onwyn",
-        "fancy_name": "Onion Bandit",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "vegetable",
-        "costume_id": 0,
-        "heroId": "vegetable_onwyn",
         "Lottery_Only": 1
     },
     {

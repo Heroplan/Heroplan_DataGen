@@ -23104,6 +23104,7 @@
         "id": "com.smallgiantgames.empires.triple_souloffer_1",
         "dollarValue": 20,
         "zyngaStoreDollarValueOverride": 18,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23143,6 +23144,7 @@
         "id": "com.smallgiantgames.empires.triple_souloffer_2",
         "dollarValue": 30,
         "zyngaStoreDollarValueOverride": 27,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23182,6 +23184,7 @@
         "id": "com.smallgiantgames.empires.triple_souloffer_3",
         "dollarValue": 50,
         "zyngaStoreDollarValueOverride": 45,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28706,6 +28709,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_rocket_tier1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28724,6 +28728,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_rocket_tier2",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28747,6 +28752,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_rocket_tier3",
         "dollarValue": 15,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28770,6 +28776,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_rocket_tier4",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28788,6 +28795,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_rocket_tier5",
         "dollarValue": 3,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36278,7 +36286,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic_alliancegift",
+        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -58577,5 +58585,5 @@
       }
     ]
   },
-  "productsConfigId": 2227465486
+  "productsConfigId": 869347612
 }

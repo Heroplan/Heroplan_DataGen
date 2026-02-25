@@ -1,5 +1,6 @@
 {
   "otherConfig": {
+    "abCode": "direct_checkout_rollout_phase3",
     "logic": {
       "dragonAscension": {
         "characterRecipes": [
@@ -2945,6 +2946,12 @@
             ],
             "startTime": "2027-03-01 07:00:00",
             "endTime": "2027-04-01 06:59:59"
+          },
+          {
+            "id": "CovenantQuest1",
+            "type": "CovenantQuest",
+            "startTime": "2026-03-05 07:00:00",
+            "endTime": "2026-03-08 07:00:00"
           }
         ],
         "challengeEventEntries": [
@@ -2971,9 +2978,9 @@
             "eventEndingOffer": "",
             "manuallyOverwritten": true,
             "featuredCharacters": [
+              "vegetable_onwyn",
               "vegetable_indigon",
-              "vegetable_broseph",
-              "vegetable_elsbeth"
+              "vegetable_broseph"
             ],
             "eventBonus": "event_hero_bonus_challenge_events",
             "startTime": "2026-03-06 07:00:00",
@@ -52953,6 +52960,43 @@
               ],
               "startTime": "2025-11-20 07:00:00",
               "endTime": "2025-11-23 07:00:00"
+            },
+            {
+              "id": "soul_exchange_2026_02_26",
+              "soulExchangeTiers": [
+                {
+                  "cost": 10,
+                  "heroes": [
+                    "ballerina_odile",
+                    "s5_meresankh_costume_disco",
+                    "shadow_abigail",
+                    "tales1_thalassa_costume_crystals",
+                    "s5_ahmose_costume_reborn"
+                  ]
+                },
+                {
+                  "cost": 15,
+                  "heroes": [
+                    "fox_swiftpaw",
+                    "fox_silverpaw",
+                    "garrison_iocantha",
+                    "gargoyle_pophit",
+                    "faun_peregrine"
+                  ]
+                },
+                {
+                  "cost": 20,
+                  "heroes": [
+                    "slime_gooldron",
+                    "beowulf_wealhtheow",
+                    "tales1_domiventus_costume_supreme",
+                    "beowulf_hrothgar",
+                    "astral_dwarf_maegwyn"
+                  ]
+                }
+              ],
+              "startTime": "2026-02-26 07:00:00",
+              "endTime": "2026-03-01 07:00:00"
             }
           ]
         }
@@ -85025,8 +85069,8 @@
     "minSecondsBetweenRecentActivityRequests": 30,
     "colorBlindModeEnabled": true,
     "languageSelectionEnabled": true,
-    "maxVersionToShowUpdateOutReminderAndroid": "82.0.3",
-    "maxVersionToShowUpdateOutReminderIos": "82.0.3",
+    "maxVersionToShowUpdateOutReminderAndroid": "83.0.0",
+    "maxVersionToShowUpdateOutReminderIos": "83.0.0",
     "maxVersionToShowUpdateOutReminderAndroidStandalone": "83.0.0",
     "standaloneNewVersionRolloutPercentage": 100,
     "fastClientLogFlushTimeSeconds": 5,
@@ -85120,5 +85164,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 3470986753
+  "otherConfigId": 3490089420
 }
