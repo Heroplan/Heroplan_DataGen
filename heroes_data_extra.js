@@ -44613,5 +44613,31 @@ window.allHeroesExtra = [
             "never_miss_special"
         ],
         "family": "mimic"
+    },
+    {
+        "name": "Meenakshi",
+        "fancy name": "Coconut Chechi",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2026-02-25",
+        "AetherPower": "Special Armor",
+        "skill_types": [
+            "Healers",
+            "Healers (Special)",
+            "Counterattackers",
+            "Mana Raisers"
+        ],
+        "heroId": "mahayoddha_meenakshi",
+        "baseAttack": 632,
+        "baseDefense": 662,
+        "baseHealth": 1115,
+        "specialId": "coastal_recharge",
+        "passiveSkills": [
+            "resist_negative_minion_and_mega_minion_effects",
+            "mana_on_damage_received"
+        ],
+        "family": "mahayoddha"
     }
 ];
