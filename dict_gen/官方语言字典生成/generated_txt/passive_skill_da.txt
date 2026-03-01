@@ -45,7 +45,7 @@ Den ødelæggende kerne aktiveres, hver gang figurens særlige egenskab kastes:
 "herocard.passive_skill.description.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","Æder alle håndlangere fra en tilfældigt udvalgt fjende hver {TURNS}. runde og modtager en lille mængde mana for hver fortæret håndlanger."
 "herocard.passive_skill.description.effectondamagedone.bufftoremove.minordebuff.latest.from.all.allies.safe.specialskill.only_criticals.once","Hvis denne figur får et kritisk slag, når de bruger deres særlige egenskab, renser det den seneste statuslidelse på alle allierede. Denne effekt kan aktiveres én gang per runde."
 "herocard.passive_skill.description.effectondamagedone.healthboost.all.allies.specialskill.only_criticals.once","Hvis denne figur får et kritisk slag, når de bruger deres særlige egenskab, forøger det alle allieredes helbred med {HEALTHBOOST} %. Effekten kan aktiveres en gang pr. tur."
-"herocard.passive_skill.description.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill.single.allies.onceperturn"," Når denne figurs særlige egenskab rammer en figur, der har højere aktuelt helbred, får du {PASSIVESKILL1HEALTHBOOST} % øget helbred.
+"herocard.passive_skill.description.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill.single.allies.onceperturn","Når denne figurs særlige egenskab rammer en figur, der har højere aktuelt helbred, får du {PASSIVESKILL1HEALTHBOOST} % øget helbred.
  Når denne figur rammes af en særlig egenskab fra en figur, der har højere aktuelt helbred, får du {PASSIVESKILL2POWER} % mana.
 Du kan aktivere en effekt én gang per runde."
 "herocard.passive_skill.description.effectondamagereceived.addmana.specialskill.single.allies","Når denne figur modtager skade fra særlige egenskaber, får den {POWER} % i mana."
@@ -231,7 +231,7 @@ Dette inkluderer statuseffektbuffere og lidelser, positive og negative kumulativ
 "herocard.passive_skill.description.resist.criticalhits.none","Denne figur er immun over for ekstra skade og yderligere effekter fra kritiske træffere."
 "herocard.passive_skill.description.resist.defensemodifierdebuffs","Denne figur er immun over for statuslidelser, der påvirker forsvar. Gælder ikke statuslidelser, der påvirker elementforsvar."
 "herocard.passive_skill.description.resist.defensemodifiers.alldebuffs","Denne figur er immun over for statuslidelser og negative stakke, der påvirker forsvar. Gælder ikke statuslidelser, der påvirker elementforsvar."
-"herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion"," Immun over for effekter, der fjerner håndlangere.
+"herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion","Immun over for effekter, der fjerner håndlangere.
  Kan ikke forhindres for håndlanger, der modtager det.
  En håndlangers angreb og evner kan ikke slås fra."
 "herocard.passive_skill.description.resist.frost","Denne figur er immun over for statuslidelser, der forvolder frost-skade."
@@ -366,36 +366,36 @@ Spiredjævel:
 
 Blomstrende megadjævel: 
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %  helbred"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Hidkalder en frøplantedjævel hver runde til en tilfældig fjende. Denne passive egenskab aktiveres kun én gang pr. runde for hvert hold.
-Frøplantedjævlen udvikler sig til en spiredjævel efter {EVOLVINGFAMILIAR1EVOLVETURNS} runder. 
-Udviklingen af djævlene forsinkes med {EVOLVINGFAMILIAR2EVOLVETURNS} runde, hver gang de absorberer helbredelse.
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Hidkalder en [#!]frøplantedjævel[#] hver runde til en tilfældig fjende. Denne passive egenskab aktiveres kun én gang pr. runde for hvert hold.
+[*][#!]Frøplantedjævlen[#] udvikler sig til en [#!]spiredjævel[#] efter {EVOLVINGFAMILIAR1EVOLVETURNS} runder. 
+[*]Udviklingen af djævlene forsinkes med {EVOLVINGFAMILIAR2EVOLVETURNS} runde, hver gang de absorberer helbredelse.
 
-Spiredjævlen:
- udvikler sig til en blomstrende megadjævel efter {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runder.
+[#!]Spiredjævlen[#]:
+[#!] udvikler sig til en [#!]blomstrende megadjævel[#] efter {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runder.
 
-Frøplantedjævel:
-{EVOLVINGFAMILIAR1FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %  helbred
+[#!]Frøplantedjævel[#]:
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] angreb, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#]  helbred
 
-Spiredjævel:
-{EVOLVINGFAMILIAR2FAMILIARATTACK} %  angreb, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %  helbred
+[#!]Spiredjævel[#]:
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#]  angreb, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#]  helbred
 
-Blomstrende megadjævel: 
-{EVOLVINGFAMILIAR3FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %  helbred"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Hidkalder en frøplantedjævel hver runde til en tilfældig fjende. Denne passive egenskab aktiveres kun én gang pr. runde for hvert hold.
-Frøplantedjævlen udvikler sig til en spiredjævel efter {EVOLVINGFAMILIAR1EVOLVETURNS} runder. 
-Udviklingen af djævlene forsinkes med {EVOLVINGFAMILIAR2EVOLVETURNS} runde, hver gang de absorberer helbredelse.
+[#!]Blomstrende megadjævel[#]: 
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] angreb, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#]  helbred"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Hidkalder en [#!]frøplantedjævel[#] hver runde til en tilfældig fjende. Denne passive egenskab aktiveres kun én gang pr. runde for hvert hold.
+[*][#!]Frøplantedjævlen[#] udvikler sig til en [#!]spiredjævel[#] efter {EVOLVINGFAMILIAR1EVOLVETURNS} runder. 
+[*]Udviklingen af djævlene forsinkes med {EVOLVINGFAMILIAR2EVOLVETURNS} runde, hver gang de absorberer helbredelse.
 
-Spiredjævlen:
- udvikler sig til en blomstrende megadjævel efter {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runder.
+[#!]Spiredjævlen[#]:
+[#!] udvikler sig til en [#!]blomstrende megadjævel[#] efter {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runder.
 
-Frøplantedjævel:
-{EVOLVINGFAMILIAR1FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %  helbred
+[#!]Frøplantedjævel[#]:
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] angreb, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#]  helbred
 
-Spiredjævel:
-{EVOLVINGFAMILIAR2FAMILIARATTACK} %  angreb, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %  helbred
+[#!]Spiredjævel[#]:
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#]  angreb, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#]  helbred
 
-Blomstrende megadjævel: 
-{EVOLVINGFAMILIAR3FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %  helbred"
+[#!]Blomstrende megadjævel[#]: 
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] angreb, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#]  helbred"
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Når denne figur er besejret, hidkalder de slim-kæmpehåndlangere til allierede i nærheden med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb arvet af denne figur."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Når denne figur er besejret, hidkalder de slim-kæmpehåndlangere til allierede i nærheden med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb arvet af denne figur."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Når denne figur er besejret, hidkalder de slim-kæmpehåndlangere til allierede i nærheden med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb arvet af denne figur."
@@ -724,3 +724,18 @@ Smidig"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Forvandl buffere"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Forvandl lidelser"
 "herocard.passive_skill.title.wither.all.enemies","Visne"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Hidkalder en [#!]frøplantedjævel[#] hver runde til en tilfældig fjende.
+[*][#!]Frøplantedjævlen[#] udvikler sig til en [#!]spiredjævel[#] efter {EVOLVINGFAMILIAR1EVOLVETURNS} runder. 
+[*]Udviklingen af djævlene forsinkes med {EVOLVINGFAMILIAR2EVOLVETURNS} runde, hver gang de absorberer helbredelse.
+
+[#!]Spiredjævlen[#]:
+[#!] udvikler sig til en [#!]blomstrende megadjævel[#] efter {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runder.
+
+[#!]Frøplantedjævel[#]:
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] angreb, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#]  helbred
+
+[#!]Spiredjævel[#]:
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#]  angreb, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#]  helbred
+
+[#!]Blomstrende megadjævel[#]: 
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] angreb, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#]  helbred."

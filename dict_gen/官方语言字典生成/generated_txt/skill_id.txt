@@ -522,7 +522,7 @@ Efek status yang memengaruhi penyembuhan yang diterima akan memengaruhi skala pe
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","Menimbulkan {DAMAGE}% kerusakan pada sasaran dan {MAXHITS} musuh acak.
 Memanggil satu Iblis Benih untuk setiap musuh yang terkena."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","Menimbulkan {DAMAGE}% kerusakan pada sasaran dan {MAXHITS} musuh acak.
-Memanggil satu Iblis Benih untuk setiap musuh yang terkena."
+[*]Memanggil satu [#!]Iblis Benih[#] untuk setiap musuh yang terkena."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","Menimbulkan kerusakan {DAMAGE}% ke sasaran dan {MAXHITS} musuh acak.
 Memanggil Iblis Rudal untuk memukul musuh. Iblis menyerang musuh dengan {FAMILIARATTACK}% serangan tiap giliran.
 Iblis Rudal menyerap penyembuhan dan menghilang setelah menyerap kesehatan sebanyak {FAMILIARHEALTHPERCENT}% dari kesehatan maksimum pemiliknya."
@@ -632,7 +632,7 @@ Kubus Gelap mengurangi kesehatan maksimal dari sasaran sebesar {REDUCTION}. Efek
 "specials.v2.property.effectonkill.heal.single.allies.addmana.single.allies.directeffecttargettype.single","Jika musuh dikalahkan serangan, kesehatan perapal pulih {EFFECT1POWER}% dan meraih {EFFECT2POWER}% mana."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single","Jika sasaran dikalahkan serangan, kesehatan perapal pulih {FIXEDPOWER}."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single.fixedpower","Jika sasaran dikalahkan serangan, kesehatan perapal pulih {FIXEDPOWER}."
-"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","Jika sasaran dikalahkan serangan, semua sekutu mendapat mana {EFFECT2POWER}% dan kesehatan semua sekutu naik {EFFECT1FIXEDPOWER}. Peningkatan kesehatan dapat melampaui HP maks"
+"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","Jika sasaran dikalahkan serangan tersebut, semua sekutu mendapat mana {EFFECT2POWER}% dan kesehatan mereka ditingkatkan {EFFECT1FIXEDPOWER}. Peningkatan kesehatan dapat melampaui HP maks."
 "specials.v2.property.effectonkill.statuseffect.fearstatuseffectskill.neartotarget.enemies","Jika sasaran dikalahkan oleh serangan tersebut, musuh terdekat menyerah pada rasa Takut selama {STATUSEFFECT1TURNS} giliran."
 "specials.v2.property.effectonkill.statuseffect.insanity.neartotargetexceptmaintarget.enemies","Jika sasaran dikalahkan oleh serangan tersebut, musuh terdekat terkena {STATUSEFFECT1INSANITYTOADD} Kegilaan."
 "specials.v2.property.effectonkill.statuseffect.manafreeze.neartotargetexceptmaintarget.enemies","Jika sasaran dikalahkan oleh serangan tersebut, musuh terdekat tidak dapat memperoleh mana selama {STATUSEFFECT1TURNS} giliran."
@@ -937,9 +937,9 @@ Pencurian aman melewati efek sekunder, seperti kerusakan saat dihapus, dari genj
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.single.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","Menimbulkan {POWER}% kerusakan Tebasan Roh pada sasaran. Tebasan Roh dengan aman menghilangkan genjotan sebelum menimbulkan kerusakan."
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectdebuffs.neartotarget.allies.bypassremoveeffects.effectonremoval.healthboost.has_base_power.power_changes_per_removed_status_from_target","Meningkatkan kesehatan perapal dan sekutu terdekat sebesar {FIXEDPOWER} dengan Aura Roh. Aura Roh dengan aman menghilangkan status pelemahan sebelum meningkatkan kesehatan."
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.all.allies.effectonremoval.addmana.power_changes_per_removed_status_from_target","Dengan aman membersihkan semua status pelemahan dari semua sekutu, dan menambah mana semua sekutu sebesar {POWERPERREMOVALFROMTARGET}% untuk setiap pelemahan yang dibersihkan."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra"," Kerusakan berkurang sebesar {POWERPERREMOVALFROMTARGET}% untuk setiap genjotan yang dihapus.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","Kerusakan berkurang sebesar {POWERPERREMOVALFROMTARGET}% untuk setiap genjotan yang dihapus.
  Genjotan yang tidak bisa dienyahkan akan dihapus juga."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra"," Genjotan kesehatan berkurang sebesar {FIXEDPOWERPERREMOVALFROMTARGET} untuk setiap pelemahan yang dihapus.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","Genjotan kesehatan berkurang sebesar {FIXEDPOWERPERREMOVALFROMTARGET} untuk setiap pelemahan yang dihapus.
  Pelemahan yang tidak dapat dibersihkan juga dihapus."
 "specials.v2.property.repeatspecial.blade_wings.random","Setelah berhasil dirapal, berpeluang {REPEATCHANCE}% untuk merapal Sayap Bilah lagi pada sasaran acak.
 Bisa merapal ulang hingga {MAXREPEATS} kali dan peluang merapal ulang berkurang sebesar {REPEATCHANCEDECREASE}% seusai tiap berhasil merapal."
@@ -1110,14 +1110,15 @@ Musuh dengan Antek atau Antek Mega mendapat {STATUSEFFECT1DEFENSE}% pertahanan s
 Musuh dengan Antek atau Antek Mega mendapat {STATUSEFFECT1DEFENSE}% pertahanan selama {STATUSEFFECT1TURNS} giliran."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","Menimbulkan {POWERFORTARGETSTHATMEETCONDITION}% kerusakan terhadap musuh dengan genjotan pertahanan, Antek, atau Antek Mega.
 Musuh dengan genjotan pertahanan, Antek, atau Antek Mega mendapat {STATUSEFFECT1DEFENSE}% pertahanan selama {STATUSEFFECT1TURNS} giliran."
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","Iblis Benih berubah menjadi Iblis Tunas setelah {EVOLVINGFAMILIAR1EVOLVETURNS} giliran.
-Iblis Tunas berubah menjadi Iblis Mega Mekar setelah {EVOLVINGFAMILIAR2EVOLVETURNS} giliran.
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","[#!]Iblis Benih[#] berubah menjadi [#!]Iblis Tunas[#] setelah {EVOLVINGFAMILIAR1EVOLVETURNS} giliran.
+[*][#!]Iblis Tunas[#] berubah menjadi [#!]Iblis Mega Mekar[#] setelah {EVOLVINGFAMILIAR2EVOLVETURNS} giliran.
 
- Iblis Benih: {EVOLVINGFAMILIAR1FAMILIARATTACK}% serangan, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% kesehatan.
- Iblis Benih: {EVOLVINGFAMILIAR2FAMILIARATTACK}% serangan, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% kesehatan.
- Iblis Mega Mekar: {EVOLVINGFAMILIAR3FAMILIARATTACK}% serangan, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% kesehatan.
+[*] [#!]Iblis Benih[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] serangan, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] kesehatan.
+[*] [#!]Iblis Benih[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] serangan, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] kesehatan.
+[*] [#!]Iblis Mega Mekar[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] serangan, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] kesehatan.
 
-Iblis merusak sasaran setiap giliran. Iblis menghilang setelah menyerap penyembuhan. Jumlah penyembuhab yang diperlukan tergantung kesehatan maks sasaran."
+[*]Iblis merusak sasaran setiap giliran. Iblis menghilang setelah menyerap penyembuhan. Jumlah penyembuhab yang diperlukan tergantung kesehatan maks sasaran.
+[*]Evolusi Iblis ditunda sebanyak {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} giliran setiap kali mereka menyerap penyembuhan."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","Jika sasaran memiliki Iblis atau Iblis Mega, menimbulkan kerusakan {DAMAGE}% kepada satu musuh acak yang berbeda.
 Memanggil satu Iblis Benih untuk setiap musuh yang terkena."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","Jika sasaran memiliki Iblis atau Iblis Mega, menimbulkan kerusakan {DAMAGE}% kepada satu musuh acak yang berbeda.
@@ -1136,7 +1137,7 @@ Memanggil satu Iblis Benih untuk setiap musuh yang terkena."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold","Jika kesehatan sasaran lebih dari {THRESHOLD1}% sebelum mengalami kerusakan, menarget musuh lain dengan kesehatan lebih dari {THRESHOLD2}% sebelum mengalami kerusakan apa pun dari Keahlian Khusus ini. Jika tidak ada musuh lain dengan kesehatan {THRESHOLD3}%, menarget musuh acak. Kerusakan berkurang pada setiap pukulan beruntun. Setiap musuh hanya bisa terkena satu kali."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold.damage_increases","Jika kesehatan sasaran lebih dari {THRESHOLD1}% sebelum mengalami kerusakan, menarget musuh lain dengan kesehatan lebih dari {THRESHOLD2}% sebelum mengalami kerusakan apa pun dari Keahlian Khusus ini. Jika tidak ada musuh lain dengan kesehatan {THRESHOLD3}%, menarget musuh acak. Kerusakan bertambah pada setiap pukulan beruntun. Setiap musuh hanya bisa terkena satu kali."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_mana_threshold","Jika sasaran memiliki mana lebih dari {THRESHOLD1}% sebelum mengalami kerusakan, menarget musuh lain dengan mana lebih dari {THRESHOLD2}% sebelum mengalami kerusakan apa pun dari Keahlian Khusus ini. Jika tidak ada musuh lain dengan mana {THRESHOLD3}%, menarget musuh acak. Kerusakan berkurang pada setiap pukulan beruntun. Setiap musuh hanya bisa terkena satu kali."
-"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","Jika kesehatan sasaran kurang dari {THRESHOLD1}% sebelum mengalami kerusakan, menrgetkan musuh lain dengan kesehatan kurang dari {THRESHOLD2}% sebelum mengalami kerusakan apa pun dari Keahlian Khusus ini. Jika tidak ada musuh lain yang memiliki kesehatan sebesar {THRESHOLD3}%, menarget musuh secara acak. Kerusakannya berkurang pada setiap serangan beruntun. Setiap musuh hanya dapat terkena satu kali."
+"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","Jika kesehatan sasaran kurang dari {THRESHOLD1}% sebelum mengalami kerusakan, menrgetkan musuh lain dengan kesehatan kurang dari {THRESHOLD2}% sebelum mengalami kerusakan apa pun dari Keahlian Khusus ini. Jika tidak ada musuh lain yang memiliki kesehatan kurang dari {THRESHOLD3}%, menarget musuh secara acak. Kerusakannya berkurang pada setiap serangan beruntun. Setiap musuh hanya dapat terkena satu kali."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.blue_tiles.all","Jika terpasang {COUNTREQUIREMENT} perisai Es atau lebih, kerusakan akan ditimbulkan kepada semua musuh."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.green_tiles.all","Jika terpasang {COUNTREQUIREMENT} perisai Alam atau lebih, kerusakan akan ditimbulkan kepada semua musuh."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.purple_tiles.all","Jika terpasang {COUNTREQUIREMENT} perisai Gelap atau lebih, kerusakan dan status pelemahan akan ditimbulkan kepada semua musuh."
@@ -2694,3 +2695,4 @@ Kegilaan pahlawan bisa diturunkan dengan penyembuhan langsung dari Keahlian Khus
 "specials.v2.strongattack.yellow","Kerusakan ekstra terhadap elemen Suci."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","Efek ini mungkin hanya terjadi sekali per Antek Kepala Hidra."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","Saat Antek Kepala Hidra dikalahkan, sekutu acak akan menerima Titisan Antek Kepala Hidra yang mewarisi statistik Antek asli."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","[#!]Tumpukan +{BASESTACKCOUNT} (Maks: {MAXSTACK}):[#] Semua kerusakan yang diterima perapal dan sekutu terdekat berkurang {DAMAGEMODIFIER}%."

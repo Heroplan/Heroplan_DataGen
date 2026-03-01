@@ -521,7 +521,7 @@ Les effets affectant les soins affectent le modificateur de soins."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","Inflige {DAMAGE} % de dégâts à la cible et {MAXHITS} ennemis aléatoires.
 Invoque un démon plantule pour chaque ennemi touché."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","Inflige {DAMAGE} % de dégâts à la cible et {MAXHITS} ennemis aléatoires.
-Invoque un démon plantule pour chaque ennemi touché."
+[*]Invoque un [#!]démon plantule[#] pour chaque ennemi touché."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","Inflige {DAMAGE} % de dégâts à la cible et à {MAXHITS} ennemis aléatoires.
 Invoque un démon missile qui attaque les ennemis. Il inflige des dégâts à l'ennemi à hauteur de {FAMILIARATTACK} % d'attaque à chaque tour.
 Le démon missile absorbe les soins et disparaît après avoir absorbé {FAMILIARHEALTHPERCENT} % de la santé maximum de son propriétaire."
@@ -937,9 +937,9 @@ La santé boostée subit une réduction supplémentaire de {REDUCTION}."
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.single.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","Inflige {POWER} % de dégâts de Taillade spirituelle à la cible. Taillade spirituelle supprime les bonus de façon sûre avant d'infliger des dégâts."
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectdebuffs.neartotarget.allies.bypassremoveeffects.effectonremoval.healthboost.has_base_power.power_changes_per_removed_status_from_target","Augmente la santé du lanceur et des alliés proches de {FIXEDPOWER} avec Aura spirituelle. Aura spirituelle supprime les effets négatifs avant de booster la santé."
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.all.allies.effectonremoval.addmana.power_changes_per_removed_status_from_target","Purifie de façon sûre tous les effets négatifs des alliés, et augmente leur mana de {POWERPERREMOVALFROMTARGET} % pour chaque effet purifié."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra"," Les dégâts sont réduits de {POWERPERREMOVALFROMTARGET} % pour chaque bonus supprimé.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","Les dégâts sont réduits de {POWERPERREMOVALFROMTARGET} % pour chaque bonus supprimé.
  Les bonus non dissipables sont également supprimés."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra"," Le bonus de santé est réduit de {FIXEDPOWERPERREMOVALFROMTARGET} pour chaque effet supprimé.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","Le bonus de santé est réduit de {FIXEDPOWERPERREMOVALFROMTARGET} pour chaque effet supprimé.
  Les effets négatifs non purifiables sont également supprimés."
 "specials.v2.property.repeatspecial.blade_wings.random","Après une utilisation réussie, {REPEATCHANCE} % de chances de lancer à nouveau Ailes acérées sur une cible aléatoire.
 Possible jusqu'à {MAXREPEATS} fois, la probabilité étant réduite de {REPEATCHANCEDECREASE} % après chaque utilisation réussie."
@@ -1110,14 +1110,15 @@ Les ennemis disposant de sbires ou de méga sbires reçoivent {STATUSEFFECT1DEFE
 Les ennemis disposant de sbires ou de méga sbires reçoivent {STATUSEFFECT1DEFENSE} % de défense pour {STATUSEFFECT1TURNS} tours."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","Inflige {POWERFORTARGETSTHATMEETCONDITION} % de dégâts aux ennemis disposant de bonus défensifs, de sbires ou de méga sbires.
 Les ennemis disposant de bonus défensifs, de sbires ou de méga sbires reçoivent {STATUSEFFECT1DEFENSE} % de défense pour {STATUSEFFECT1TURNS} tours."
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","Le démon plantule devient un démon jeune pousse après {EVOLVINGFAMILIAR1EVOLVETURNS} tours.
-Le démon jeune pousse devient un méga démon florissant après {EVOLVINGFAMILIAR2EVOLVETURNS} tours.
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","[*]Le [#!]démon plantule[#] devient un [#!]démon jeune pousse[#] après {EVOLVINGFAMILIAR1EVOLVETURNS} tours.
+[*]Le [#!]démon jeune pousse[#] devient un [#!]méga démon florissant[#] après {EVOLVINGFAMILIAR2EVOLVETURNS} tours.
 
- Démon plantule : {EVOLVINGFAMILIAR1FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de santé.
- Démon jeune pousse : {EVOLVINGFAMILIAR2FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de santé.
- Méga démon florissant : {EVOLVINGFAMILIAR3FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de santé.
+[*] [#!]Démon plantule[#] : [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] d'attaque, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] de santé.
+[*] [#!]Démon jeune pousse[#] : [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] d'attaque, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] de santé.
+[*] [#!]Méga démon florissant[#] : [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] d'attaque, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] de santé.
 
-Les démons infligent des dégâts à leur cible à chaque tour et disparaissent après avoir absorbé une quantité de soins proportionnelle à la santé maximale de la cible."
+[*]Les démons infligent des dégâts à leur cible à chaque tour et disparaissent après avoir absorbé une quantité de soins proportionnelle à la santé maximale de la cible.
+[*]L'évolution du démon est retardée de {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tour à chaque fois qu'il absorbe des soins."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","Si la cible à des démons ou des méga démons, inflige {DAMAGE} % de dégâts à un autre ennemi aléatoire.
 Invoque un démon plantule pour chaque ennemi touché."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","Si la cible à des démons ou des méga démons, inflige {DAMAGE} % de dégâts à un autre ennemi aléatoire.
@@ -2690,3 +2691,4 @@ La folie d'un héros peut être réduite par les soins directs d'une compétence
 "specials.v2.strongattack.yellow","Inflige des dégâts supplémentaires contre Sacré."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","Cet effet ne peut se déclencher qu'une fois par tête d'hydre ressuscitée."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","Quand le sbire tête d'hydre ressuscitée est vaincu, un allié aléatoire reçoit un sbire tête d'hydre ressuscitée qui hérite des stats du sbire d'origine."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","[#!]Cumul +{BASESTACKCOUNT} (maximum : {MAXSTACK}) :[#] tous les dégâts subis par le lanceur et les alliés proches sont réduits de {DAMAGEMODIFIER} %."

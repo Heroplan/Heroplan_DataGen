@@ -318,15 +318,15 @@ if __name__ == "__main__":
         
         # 提取英文子集
         en_subset = {k: v for k, v in full_english_data.items() if any(k.startswith(p) for p in prefixes)}
-        en_lines = [m.group(0) for m in re.finditer(r'\"([^"]+)\",\"((?:.|\n)*?)\"(?:\n|$)', full_english_content) 
-                   if any(m.group(1).startswith(p) for p in prefixes)]
 
         # 为英文生成中间文件
-        if en_lines:
+        if en_subset:
             en_output_path = os.path.join(INTERMEDIATE_TXT_DIR, f"{output_type}_en.txt")
+            # 从应用了覆盖项的字典重新生成文本行
+            regenerated_lines = [f'"{k}","{v}"\n' for k, v in en_subset.items()]
             with open(en_output_path, 'w', encoding='utf-8') as f:
-                f.write("".join(en_lines))
-            print(f"已提取 {len(en_lines)} 条英文条目到文件 {en_output_path}")
+                f.writelines(regenerated_lines)
+            print(f"已提取 {len(regenerated_lines)} 条英文条目到文件 {en_output_path}")
             
             # 对familybonus类型进行复制重命名操作
             if output_type == "family_bonus":
@@ -346,21 +346,19 @@ if __name__ == "__main__":
             # 提取目标语言子集
             target_subset = {k: v for k, v in lang_data.items() if any(k.startswith(p) for p in prefixes)}
             
-            # 如果原始语言文件存在，也从那里提取
-            if lang_info['file_path']:
-                target_lines = [m.group(0) for m in re.finditer(r'\"([^"]+)\",\"((?:.|\n)*?)\"(?:\n|$)', lang_content) 
-                               if any(m.group(1).startswith(p) for p in prefixes)]
-
-                # 生成目标语言的中间文件
-                if target_lines:
-                    target_output_path = os.path.join(INTERMEDIATE_TXT_DIR, f"{output_type}_{lang_suffix}.txt")
-                    with open(target_output_path, 'w', encoding='utf-8') as f:
-                        f.write("".join(target_lines))
-                    print(f"已提取 {len(target_lines)} 条{lang_prefix}条目到文件 {target_output_path}")
-                    
-                    # 对familybonus类型进行复制重命名操作
-                    if output_type == "family_bonus":
-                        copy_and_rename_entries_in_file(target_output_path)
+            # 生成目标语言的中间文件
+            if target_subset:
+                target_output_path = os.path.join(INTERMEDIATE_TXT_DIR, f"{output_type}_{lang_suffix}.txt")
+                # 从应用了覆盖项的字典重新生成文本行
+                regenerated_target_lines = [f'"{k}","{v}"\n' for k, v in target_subset.items()]
+                with open(target_output_path, 'w', encoding='utf-8') as f:
+                    f.writelines(regenerated_target_lines)
+                extracted_count = len(regenerated_target_lines)
+                print(f"已提取 {extracted_count} 条{lang_prefix}条目到文件 {target_output_path}")
+                
+                # 对familybonus类型进行复制重命名操作
+                if output_type == "family_bonus":
+                    copy_and_rename_entries_in_file(target_output_path)
             else:
                 # 如果只有覆盖项而没有原始文件，我们不能生成中间txt文件，但仍可以处理翻译映射
                 print(f"仅使用覆盖项处理{lang_prefix}的{output_type}数据")

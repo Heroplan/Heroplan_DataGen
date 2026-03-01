@@ -45,7 +45,7 @@ The Destructive Core activates each time this character's Special Skill is cast:
 "herocard.passive_skill.description.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","Every {TURNS} turns, eats all Minions from a random enemy and gains a small amount of mana for each eaten Minion."
 "herocard.passive_skill.description.effectondamagedone.bufftoremove.minordebuff.latest.from.all.allies.safe.specialskill.only_criticals.once","When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status ailment from all allies. This effect can activate once per turn."
 "herocard.passive_skill.description.effectondamagedone.healthboost.all.allies.specialskill.only_criticals.once","When this character scores a critical hit with their Special Skill, they boost the health of all their allies by {HEALTHBOOST}%. This effect can activate once per turn."
-"herocard.passive_skill.description.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill.single.allies.onceperturn"," When this character's Special Skill hits a character that had higher current HP, gain {PASSIVESKILL1HEALTHBOOST}% boosted health.
+"herocard.passive_skill.description.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill.single.allies.onceperturn","When this character's Special Skill hits a character that had higher current HP, gain {PASSIVESKILL1HEALTHBOOST}% boosted health.
  When this character is hit by the Special Skill of a character that had higher current HP, gain {PASSIVESKILL2POWER}% mana.
 Each of these effects can activate once per turn."
 "herocard.passive_skill.description.effectondamagereceived.addmana.specialskill.single.allies","When this character receives damage Special Skills, they receive {POWER}% of mana."
@@ -232,7 +232,7 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 "herocard.passive_skill.description.resist.criticalhits.none","This character is immune to extra damage and additional effects from Critical Hits."
 "herocard.passive_skill.description.resist.defensemodifierdebuffs","This character is immune to status ailments that affect defense. Doesn't apply to status ailments that affect elemental defense."
 "herocard.passive_skill.description.resist.defensemodifiers.alldebuffs","This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense."
-"herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion"," Immune to effects that remove Minions.
+"herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion","Immune to effects that remove Minions.
  Can't be prevented from receiving Minions.
  Minion attacks and abilities can't be disabled."
 "herocard.passive_skill.description.resist.frost","This character is immune to status ailments that deal Frost damage."
@@ -352,19 +352,19 @@ Sprout Fiend:
 
 Blossom Mega Fiend:
 {EVOLVINGFAMILIAR3FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% health."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Summons a Seedling Fiend every turn to a random enemy.
-The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
-The Sprout Fiend evolves into a Blossom Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
-The evolution of the Fiends is delayed by {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turn each time they absorb healing.
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Summons a [#!]Seedling Fiend[#] every turn to a random enemy.
+[*]The [#!]Seedling Fiend[#] evolves into a [#!]Sprout Fiend[#] after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
+[*]The [#!]Sprout Fiend[#] evolves into a [#!]Blossom Mega Fiend[#] after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
+[*]The evolution of the Fiends is delayed by {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turn each time they absorb healing.
 
-Seedling Fiend:
-{EVOLVINGFAMILIAR1FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% health.
+[#!]Seedling Fiend[#]:
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] health.
 
-Sprout Fiend:
-{EVOLVINGFAMILIAR2FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% health.
+[#!]Sprout Fiend[#]:
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] health.
 
-Blossom Mega Fiend:
-{EVOLVINGFAMILIAR3FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% health."
+[#!]Blossom Mega Fiend[#]:
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] health."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Summons a Seedling Fiend every turn to a random enemy. This Passive Skill only activates once per turn for each team.
 The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
 The Sprout Fiend evolves into a Blossom Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
@@ -378,32 +378,32 @@ Sprout Fiend:
 
 Blossom Mega Fiend:
 {EVOLVINGFAMILIAR3FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% health."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Summons a Seedling Fiend every turn to a random enemy. This Passive Skill only activates once per turn for each team.
-The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
-The Sprout Fiend evolves into a Blossom Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
-The evolution of the Fiends is delayed by {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turn each time they absorb healing.
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Summons a [#!]Seedling Fiend[#] every turn to a random enemy. This Passive Skill only activates once per turn for each team.
+[*]The [#!]Seedling Fiend[#] evolves into a [#!]Sprout Fiend[#] after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
+[*]The [#!]Sprout Fiend[#] evolves into a [#!]Blossom Mega Fiend[#] after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
+[*]The evolution of the Fiends is delayed by {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turn each time they absorb healing.
 
-Seedling Fiend:
-{EVOLVINGFAMILIAR1FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% health.
+[#!]Seedling Fiend[#]:
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] health.
 
-Sprout Fiend:
-{EVOLVINGFAMILIAR2FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% health.
+[#!]Sprout Fiend[#]:
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] health.
 
-Blossom Mega Fiend:
-{EVOLVINGFAMILIAR3FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% health."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Summons a Seedling Fiend every turn to a random enemy. This Passive Skill only activates once per turn for each team.
-The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
-The Sprout Fiend evolves into a Blossom Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
-The evolution of the Fiends is delayed by {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turn each time they absorb healing.
+[#!]Blossom Mega Fiend[#]:
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] health."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Summons a [#!]Seedling Fiend[#] every turn to a random enemy. This Passive Skill only activates once per turn for each team.
+[*]The [#!]Seedling Fiend[#] evolves into a [#!]Sprout Fiend[#] after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
+[*]The [#!]Sprout Fiend[#] evolves into a [#!]Blossom Mega Fiend[#] after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
+[*]The evolution of the Fiends is delayed by {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turn each time they absorb healing.
 
-Seedling Fiend:
-{EVOLVINGFAMILIAR1FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% health.
+[#!]Seedling Fiend[#]:
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] health.
 
-Sprout Fiend:
-{EVOLVINGFAMILIAR2FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% health.
+[#!]Sprout Fiend[#]:
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] health.
 
-Blossom Mega Fiend:
-{EVOLVINGFAMILIAR3FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% health."
+[#!]Blossom Mega Fiend[#]:
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] health."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","When this character is defeated, they summon Slime Mega Minions to nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from this character."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","When this character is defeated, they summon Slime Mega Minions to nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from this character."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","When this character is defeated, they summon Slime Mega Minions to nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from this character."

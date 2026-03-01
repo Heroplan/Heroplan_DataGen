@@ -523,7 +523,7 @@
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","대상과 무작위 적 {MAXHITS}명에게 {DAMAGE}%의 피해를 줍니다.
 적을 맞출 때마다 씨앗 악마를 소환합니다."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","대상과 무작위 적 {MAXHITS}명에게 {DAMAGE}%의 피해를 줍니다.
-적을 맞출 때마다 씨앗 악마를 소환합니다."
+[*]적을 맞출 때마다 [#!]씨앗 악마[#]를 소환합니다."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","대상과 {MAXHITS}명의 랜덤 적들에게 {DAMAGE}%의 피해를 줍니다. 
 적들을 공격할 미사일 악마를 소환합니다. 악마는 턴마다 {FAMILIARATTACK}%의 공격력으로 적에게 피해를 줍니다.
 미사일 악마는 치유를 흡수하며, 주인의 최대 HP의 {FAMILIARHEALTHPERCENT}%에 해당하는 HP를 흡수하면 사라집니다."
@@ -634,7 +634,7 @@
 "specials.v2.property.effectonkill.heal.single.allies.addmana.single.allies.directeffecttargettype.single","공격을 받은 적이 쓰러질 경우, 시전자의 HP가 {EFFECT1POWER}% 회복되고 마나가 {EFFECT2POWER}% 생성됩니다."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single","공격으로 대상이 쓰러지면 시전자는 {FIXEDPOWER}의 HP를 회복합니다."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single.fixedpower","공격으로 대상이 쓰러지면 시전자는 {FIXEDPOWER}의 HP를 회복합니다."
-"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","대상이 공격을 받고 쓰러지면, 모든 아군이 {EFFECT2POWER}%의 마나를 생성하고, 전체 아군의 HP가 {EFFECT1FIXEDPOWER}만큼 증가합니다. 증가한 HP는 최대 HP를 초과할 수 있습니다."
+"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","공격으로 대상이 쓰러지면 모든 아군이 {EFFECT2POWER}% 마나를 받으며 이들의 HP가 {EFFECT1FIXEDPOWER} 증가합니다. 증가한 HP는 최대 HP를 초과할 수 있습니다."
 "specials.v2.property.effectonkill.statuseffect.fearstatuseffectskill.neartotarget.enemies","공격자가 대상을 쓰러뜨리면 주변의 적이 {STATUSEFFECT1TURNS}턴 동안 공포에 무릎을 꿇습니다."
 "specials.v2.property.effectonkill.statuseffect.insanity.neartotargetexceptmaintarget.enemies","이 공격으로 대상이 쓰러지면 주변의 적이 {STATUSEFFECT1INSANITYTOADD} 광기를 받습니다."
 "specials.v2.property.effectonkill.statuseffect.manafreeze.neartotargetexceptmaintarget.enemies","공격자가 대상을 쓰러뜨리면 주변의 적이 {STATUSEFFECT1TURNS}턴 동안 마나를 생성하지 못합니다."
@@ -939,9 +939,9 @@
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.single.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","대상에게 {POWER}% 영혼 베기 피해를 입힙니다. 영혼 베기는 피해를 주기 전에 효과를 안전하게 제거합니다."
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectdebuffs.neartotarget.allies.bypassremoveeffects.effectonremoval.healthboost.has_base_power.power_changes_per_removed_status_from_target","영혼 오라로 시전자와 근처 아군의 HP를 {FIXEDPOWER} 증폭시킵니다. 영혼 오라는 HP 증폭 전에 상태 이상을 제거합니다."
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.all.allies.effectonremoval.addmana.power_changes_per_removed_status_from_target","모든 아군의 모든 상태 이상을 안전하게 정화하고, 치유된 상태 이상 하나당 모든 아군의 마나를 {POWERPERREMOVALFROMTARGET}%만큼 증가시킵니다."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra"," 제거된 강화 효과 하나마다 {POWERPERREMOVALFROMTARGET}%의 피해가 감소합니다.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","제거된 강화 효과 하나마다 {POWERPERREMOVALFROMTARGET}%의 피해가 감소합니다.
  해제 불가능한 버프도 제거됩니다."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra"," 제거된 상태 이상 하나마다 HP 증폭이 {FIXEDPOWERPERREMOVALFROMTARGET} 감소합니다.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","제거된 상태 이상 하나마다 HP 증폭이 {FIXEDPOWERPERREMOVALFROMTARGET} 감소합니다.
  정화 불가능한 상태 이상도 제거됩니다."
 "specials.v2.property.repeatspecial.blade_wings.random","스킬 시전이 성공한 후 무작위 적에게 {REPEATCHANCE}% 확률로 블레이드 윙을 다시 시전합니다.
 최대 {MAXREPEATS} 회까지 시전할 수 있으며 시전이 성공할 때마다 다시 시전할 확률이 {REPEATCHANCEDECREASE}%씩 감소합니다."
@@ -1112,14 +1112,15 @@
 하수인 또는 메가 하수인이 있는 적은 {STATUSEFFECT1TURNS}턴 동안 {STATUSEFFECT1DEFENSE}%의 방어력을 받습니다."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","방어 버프가 있는 적, 하수인 또는 메가 하수인에게 {POWERFORTARGETSTHATMEETCONDITION}%의 피해를 줍니다.
 방어 버프가 있는 적, 하수인 또는 메가 하수인은 {STATUSEFFECT1TURNS}턴 동안 {STATUSEFFECT1DEFENSE}%의 방어력을 받습니다."
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","{EVOLVINGFAMILIAR1EVOLVETURNS}턴 후 씨앗 악마가 새싹 악마로 진화합니다.
- 새싹 악마는 {EVOLVINGFAMILIAR2EVOLVETURNS}턴 후 개화 메가 악마로 진화합니다.
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","{EVOLVINGFAMILIAR1EVOLVETURNS}턴 후 [#!]씨앗 악마[#]가 [#!]새싹 악마[#]로 진화합니다.
+[*] [#!]새싹 악마[#]는 {EVOLVINGFAMILIAR2EVOLVETURNS}턴 후 [#!]개화 메가 악마[#]로 진화합니다.
 
- 씨앗 악마: {EVOLVINGFAMILIAR1FAMILIARATTACK}% 공격력, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% HP.
- 새싹 악마: {EVOLVINGFAMILIAR2FAMILIARATTACK}% 공격력, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% HP.
- 개화 메가 악마: {EVOLVINGFAMILIAR3FAMILIARATTACK}% 공격력, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% HP.
+[*] [#!]씨앗 악마[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] 공격력, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] HP.
+[*] [#!]새싹 악마[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] 공격력, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] HP.
+[*] [#!]개화 메가 악마[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] 공격력, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] HP.
 
-악마는 매 턴마다 대상에게 피해를 줍니다. 악마가 치유를 흡수하면 사라집니다. 대상의 최대 HP에 따라 필요한 치유 양입니다."
+[*]악마는 매 턴마다 대상에게 피해를 줍니다. 악마가 치유를 흡수하면 사라집니다. 대상의 최대 HP에 따라 필요한 치유 양입니다.
+[*]악마들이 치유를 흡수할 때마다 진화가 {EVOLVINGFAMILIAR1EVOLVETURNSDELAY}턴씩 지연됩니다."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","대상에게 악마나 메가 악마가 있을 경우, 무작위 다른 적에게 {DAMAGE}%의 피해를 줍니다.
 적중한 각 적에게 씨앗 악마를 소환합니다."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","대상에게 악마나 메가 악마가 있을 경우, 무작위 다른 적에게 {DAMAGE}%의 피해를 줍니다.
@@ -1138,7 +1139,7 @@
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold","대상이 피해를 받기 전에 {THRESHOLD1}%의 체력이 있는 경우 이 특수 스킬로 피해를 받지 않은 {THRESHOLD2}% 이상의 체력이 있는 다른 적을 대상으로 삼습니다. 적들 중 {THRESHOLD3}% 이상의 체력이 없는 경우 무작위로 적 하나를 공격합니다. 적에게 주는 피해는 공격을 거듭할 수록 감소하며 각각의 적은 한 번씩만 공격을 받습니다."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold.damage_increases","대상이 피해를 받기 전에 {THRESHOLD1}%의 체력이 있는 경우 이 특수 스킬로 피해를 받지 않은 {THRESHOLD2}% 이상의 체력이 있는 다른 적을 대상으로 삼습니다. 적들 중 {THRESHOLD3}% 이상의 체력이 없는 경우 무작위로 적 하나를 공격합니다. 적에게 주는 피해는 공격을 거듭할 수록 증가하며 각각의 적은 한 번씩만 공격을 받습니다."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_mana_threshold","대상이 피해를 받기 전에 {THRESHOLD1}%의 마나가 있는 경우 이 특수 스킬로 피해를 받지 않은 {THRESHOLD2}% 이상의 마나가 있는 다른 적을 대상으로 삼습니다. 적들 중 {THRESHOLD3}% 이상의 마나가 없는 경우 무작위로 적 하나를 공격합니다. 적에게 주는 피해는 공격을 거듭할 수록 감소하며 각각의 적은 한 번씩만 공격을 받습니다."
-"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","대상이 피해를 받기 전에 HP가 {THRESHOLD1}% 미만일 경우 이 특수 스킬로 피해를 받지 않은 {THRESHOLD2}% 미만의 체력이 있는 다른 적을 대상으로 삼습니다. 적들 중 {THRESHOLD3}%의 체력이 없는 경우 무작위로 적 하나를 공격합니다. 적에게 주는 피해는 공격을 거듭할 수록 감소하며 각각의 적은 한 번씩만 공격을 받습니다."
+"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","대상이 피해를 받기 전에 HP가 {THRESHOLD1}% 미만일 경우 이 특수 스킬로 피해를 받지 않은 {THRESHOLD2}% 미만의 체력이 있는 다른 적을 대상으로 삼습니다. 체력이 {THRESHOLD3}% 미만인 적이 없는 경우 무작위로 적 하나를 공격합니다. 적에게 주는 피해는 공격을 거듭할 수록 감소하며 각각의 적은 한 번씩만 공격을 받습니다."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.blue_tiles.all","보드 위에 {COUNTREQUIREMENT}개 이상의 얼음 방어막이  있을 경우 대신 모든 적이 피해를 입습니다."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.green_tiles.all","보드 위에 {COUNTREQUIREMENT}개 이상의 자연 방어막이  있을 경우 대신 모든 적이 피해를 입습니다."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.purple_tiles.all","보드 위에 {COUNTREQUIREMENT}개 이상의 암흑 방어막이 있을 경우 대신 모든 적이 피해 및 상태 이상 효과를 입습니다"
@@ -2693,3 +2694,4 @@ HP {HEALTH}%
 "specials.v2.strongattack.yellow","신성 속성의 적에게 추가 피해를 줍니다."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","아 효과는 히드라 머리 하수인 하나 당 한 번만 발생합니다."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","히드라 머리 하수인이 쓰러지면 무작위 아군 하나가 원래 하수인의 능력치를 물려 받은 부활한 히드라 머리 하수인을 받습니다."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","[#!]중첩 +{BASESTACKCOUNT} (최대: {MAXSTACK}):[#] 시전자와 주변 아군이 받은 모든 피해가 {DAMAGEMODIFIER}% 감소합니다."

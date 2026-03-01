@@ -521,7 +521,7 @@ Statuseffekte, die die erhaltene Heilung beeinflussen, wirken sich auf die Heilu
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","Verursacht {DAMAGE} % Schaden am Ziel und an {MAXHITS} zufälligen Gegnern.
 Beschwört einen Setzling-Feind für jeden getroffenen Gegner."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","Verursacht {DAMAGE} % Schaden am Ziel und an {MAXHITS} zufälligen Gegnern.
-Beschwört einen Setzling-Feind für jeden getroffenen Gegner."
+[*]Beschwört einen [#!]Setzling-Feind[#] für jeden getroffenen Gegner."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","Verursacht {DAMAGE} % Schaden am Ziel und {MAXHITS} zufälligen Gegnern.
 Beschwört einen Geschoss-Feind, um Gegner zu treffen. Der Feind greift den Gegner mit {FAMILIARATTACK} % Angriff bei jedem Zug an.
 Der Geschoss-Feind absorbiert Heilung und verschwindet, wenn er Leben in Höhe von {FAMILIARHEALTHPERCENT} % des max. Lebens des Besitzers aufgenommen hat."
@@ -934,12 +934,12 @@ Beim sicheren Stehlen werden sekundäre Effekte wie Schaden bei Entfernung von d
 "specials.v2.property.removestatuseffectsandbasemodifiers.single.allies.allstatuseffectsandstacks","Wirkt Vollständige Entfernung auf den Wirker."
 "specials.v2.property.removestatuseffectsandbasemodifiers.single.enemies.allstatuseffectsandstacks","Wirkt Vollständige Entfernung auf das Ziel."
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.sides.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","Fügt Gegnern am Rand der gegnerischen Formation {POWER} % Geisterhieb-Schaden zu. Geisterhieb entfernt sicher Buffs, ehe der Schaden verursacht wird."
-"specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.single.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","Fügt Gegnern {POWER} % Geisterhieb-Schaden zu. Geisterhieb entfernt sicher Buffs, ehe der Schaden verursacht wird."
+"specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.single.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","Fügt dem Ziel {POWER} % [#!]Geisterhieb[#]-Schaden zu. [#!]Geisterhieb[#] entfernt sicher Buffs, ehe der Schaden verursacht wird."
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectdebuffs.neartotarget.allies.bypassremoveeffects.effectonremoval.healthboost.has_base_power.power_changes_per_removed_status_from_target","Verstärkt die Gesundheit des Wirkers und Verbündeter in der Nähe mit Geisteraura um {FIXEDPOWER}. Geisteraura entfernt sicher negative Statusänderungen, bevor die Gesundheit erhöht wird."
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.all.allies.effectonremoval.addmana.power_changes_per_removed_status_from_target","Reinigt alle negativen Statusänderungen aller Verbündeten auf sichere Weise und erhöht das Mana aller Verbündeten um {POWERPERREMOVALFROMTARGET} % für jede gereinigte negative Statusänderung."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra"," Für jeden entfernten Bonus wird der Schaden um {POWERPERREMOVALFROMTARGET} % reduziert.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","Für jeden entfernten Bonus wird der Schaden um {POWERPERREMOVALFROMTARGET} % reduziert.
  Nicht bannbare Boni werden ebenfalls entfernt."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra"," Für jede entfernte Statusänderung wird der Gesundheitsbonus um {FIXEDPOWERPERREMOVALFROMTARGET} verringert.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","Für jede entfernte Statusänderung wird der Gesundheitsbonus um {FIXEDPOWERPERREMOVALFROMTARGET} verringert.
  Nicht säuberbare Statusänderungen werden ebenfalls entfernt."
 "specials.v2.property.repeatspecial.blade_wings.random","Hat nach dem erfolgreichen Wirken eine Chance von {REPEATCHANCE} %, Klingenschwingen erneut auf ein zufälliges Ziel zu wirken.
 Kann bis zu {MAXREPEATS}-mal erneut gewirkt werden und die Chance auf Wiederholung wird nach jedem erfolgreichen Wirken um {REPEATCHANCEDECREASE} % reduziert."
@@ -1110,14 +1110,15 @@ Gegner mit Lakaien oder Mega-Lakaien erhalten {STATUSEFFECT1DEFENSE} % Verteidi
 Gegner mit Lakaien oder Mega-Lakaien erhalten {STATUSEFFECT1DEFENSE} % Verteidigung für {STATUSEFFECT1TURNS} Züge."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","Verursacht {POWERFORTARGETSTHATMEETCONDITION} % Schaden gegen Gegner mit Verteidigungsboni, Lakaien oder Mega-Lakaien.
 Gegner mit Verteidigungsboni, Lakaien oder Mega-Lakaien erhalten {STATUSEFFECT1DEFENSE} % Verteidigung für {STATUSEFFECT1TURNS} Züge."
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","Der Setzling-Feind entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem Spross-Feind.
-Der Wurzelfresser-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","Der [#!]Setzling-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem [#!]Spross-Feind[#].
+[*]Der [#!]Wurzelfresser-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem [#!]Mega-Blütenfeind[#].
 
- Setzling-Feind: {EVOLVINGFAMILIAR1FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % Gesundheit.
- Spross-Feind: {EVOLVINGFAMILIAR2FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % Gesundheit.
- Mega-Blütenfeind: {EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Gesundheit.
+[*] [#!]Setzling-Feind[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] Gesundheit.
+[*] [#!]Spross-Feind[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] Gesundheit.
+[*] [#!]Mega-Blütenfeind[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] Gesundheit.
 
-Ein Feind fügt seinem Ziel jede Runde Schaden zu. Ein Feind verschwindet, nachdem er Heilung absorbiert hat. Die erforderliche Heilungsmenge hängt vom max. Leben des Ziels ab."
+[*]Ein Feind fügt seinem Ziel jede Runde Schaden zu. Ein Feind verschwindet, nachdem er Heilung absorbiert hat. Die erforderliche Heilungsmenge hängt vom max. Leben des Ziels ab.
+[*]Die Entwicklung  der Feinde wird jedes Mal, wenn sie Heilung absorbieren, um {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} Runden verzögert."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","Wenn das Ziel über Feinde oder Mega-Feinde verfügt, wird einem zufälligen anderen Gegner {DAMAGE} % Schaden zugefügt.
 Beschwört einen Setzling-Feind für jeden getroffenen Gegner."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","Wenn das Ziel über Feinde oder Mega-Feinde verfügt, wird einem zufälligen anderen Gegner {DAMAGE} % Schaden zugefügt.
@@ -1136,7 +1137,7 @@ Beschwört einen Setzling-Feind für jeden getroffenen Gegner."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold","Wenn das Ziel mehr als {THRESHOLD1} % Leben hatte, bevor es Schaden erlitten hat, wird ein anderer Gegner anvisiert, der mehr als {THRESHOLD2} % Leben hatte, bevor er Schaden durch diese Spezialfähigkeit erlitten hat. Wenn keiner der anderen Gegner {THRESHOLD3} % Leben hatte, wird ein zufälliger Gegner anvisiert. Der Schaden wird bei jedem Folgetreffer weniger. Jeder Gegner kann nur einmal getroffen werden."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold.damage_increases","Wenn das Ziel mehr als {THRESHOLD1} % Leben hatte, bevor es Schaden erlitten hat, wird ein anderer Gegner anvisiert, der mehr als {THRESHOLD2} % Leben hatte, bevor er Schaden durch diese Spezialfähigkeit erlitten hat. Wenn keiner der anderen Gegner {THRESHOLD3} % Leben hatte, wird ein zufälliger Gegner anvisiert. Der Schaden wird bei jedem Folgetreffer erhöht. Jeder Gegner kann nur einmal getroffen werden."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_mana_threshold","Wenn das Ziel mehr als {THRESHOLD1} % Mana hatte, bevor es Schaden erlitten hat, wird ein anderer Gegner anvisiert, der mehr als {THRESHOLD2} % Mana hatte, bevor er Schaden durch diese Spezialfähigkeit erlitten hat. Wenn keiner der anderen Gegner {THRESHOLD3} % Mana hatte, wird ein zufälliger Gegner anvisiert. Der Schaden wird bei jedem Folgetreffer weniger. Jeder Gegner kann nur einmal getroffen werden."
-"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","Wenn das Ziel weniger als {THRESHOLD1} % Leben hatte, bevor es Schaden erlitten hat, wird ein anderer Gegner anvisiert, der weniger als {THRESHOLD2} % Leben hatte, bevor er Schaden durch diese Spezialfähigkeit erlitten hat. Wenn keiner der anderen Gegner {THRESHOLD3} % Leben hatte, wird ein zufälliger Gegner anvisiert. Der Schaden wird bei jedem Folgetreffer weniger. Jeder Gegner kann nur einmal getroffen werden."
+"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","Wenn das Ziel weniger als {THRESHOLD1} % Leben hatte, bevor es Schaden erlitten hat, wird ein anderer Gegner anvisiert, der weniger als {THRESHOLD2} % Leben hatte, bevor er Schaden durch diese Spezialfähigkeit erlitten hat. Wenn keiner der anderen Gegner weniger als {THRESHOLD3} % Leben hatte, wird ein zufälliger Gegner anvisiert. Der Schaden wird bei jedem Folgetreffer weniger. Jeder Gegner kann nur einmal getroffen werden."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.blue_tiles.all","Wenn sich auf dem Spielbrett {COUNTREQUIREMENT} oder mehr Eis-Schilde befinden, wird stattdessen allen Gegnern Schaden zugefügt."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.green_tiles.all","Wenn sich auf dem Spielbrett {COUNTREQUIREMENT} oder mehr Natur-Schilde befinden, wird stattdessen allen Gegnern Schaden zugefügt."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.purple_tiles.all","Wenn sich auf dem Spielbrett {COUNTREQUIREMENT} oder mehr Schatten-Schilde befinden, wird stattdessen allen Gegnern Schaden und negative Statusänderungen zugefügt."
@@ -2341,9 +2342,9 @@ Jeder Mondstrahl verringert das Mana des getroffenen Gegners um {ABSPOWER2} %."
 {SPECIALDESCRIPTION}"
 "specials.v2.statuseffect.minor.possession.neartotarget.enemies.mindless_attack","Das Ziel und nahe Gegner wirken automatisch Blindwütiger Angriff auf einen zufälligen Verbündeten, sobald sein Mana innerhalb der nächsten {TURNS} Züge voll ist."
 "specials.v2.statuseffect.minor.possession.random.enemies.shifting_mindless_attack.removeonspecialcast","Das zufällig getroffene Ziel wirkt automatisch Wechselnder blindwütiger Angriff auf einen zufälligen Verbündeten, sobald sein Mana innerhalb der nächsten {TURNS} Züge voll ist. Wenn dieser Effekt ausgelöst wird, wird er auf den getroffenen Verbündeten übertragen und die Dauer startet von Neuem."
-"specials.v2.statuseffect.minor.possession.sides.enemies.healing_gift","Das Ziel und Gegner an den Rändern der gegnerischen Formation werden {TURNS} Züge lang gezwungen, Gedankenlose Heilung  zu wirken, wenn ihr Mana voll ist.
+"specials.v2.statuseffect.minor.possession.sides.enemies.healing_gift","Die Gegner an den Rändern der gegnerischen Formation werden {TURNS} Züge lang gezwungen, [#!]Gedankenlose Heilung[#]  zu wirken, wenn ihr Mana voll ist.
 
-{SPECIALTITLE}
+[#!]{SPECIALTITLE}[#]
 {SPECIALDESCRIPTION}"
 "specials.v2.statuseffect.minor.possession.single.allies.shifting_mindless_attack.removeonspecialcast","Das Ziel wirkt automatisch Wechselnder blindwütiger Angriff auf einen zufälligen Verbündeten, sobald sein Mana innerhalb der nächsten {TURNS} Züge voll ist. Wenn dieser Effekt ausgelöst wird, wird er auf den getroffenen Verbündeten übertragen und die Dauer startet von Neuem."
 "specials.v2.statuseffect.minor.possession.single.enemies.healing_gift_anteros","Das Ziel werden {TURNS} Züge lang gezwungen, Gedankenlose Heilung  zu wirken, wenn Mana voll ist.
@@ -2689,3 +2690,4 @@ Der Wahnsinn eines Helden kann durch direkte Heilung mit einer Spezialfähigkeit
 "specials.v2.strongattack.yellow","Fügt Licht zusätzlichen Schaden zu."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","Dieser Effekt kann nur einmal pro Hydrakopf-Lakai angewendet werden."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","Wenn der Hydrakopf-Lakai besiegt wird, erhält ein zufälliger Verbündeter einen wiedergeborenen Hydrakopf-Lakaien, der die Werte des ursprünglichen Lakaien übernimmt."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","[#!]Stapel +{BASESTACKCOUNT} (Max.: {MAXSTACK}):[#] Der gesamte Schaden, den der Wirker und Verbündete in der Nähe erleiden, wird um {DAMAGEMODIFIER} % reduziert."

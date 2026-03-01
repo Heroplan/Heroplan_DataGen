@@ -1584,7 +1584,7 @@
 "heroes.name_fancy.slime_labblub","Curious Scientist Slime"
 "heroes.name_fancy.slime_magistine","Spell Weaving Slime"
 "heroes.name_fancy.slime_mucktus","Fiendish Forest Blob"
-"heroes.name_fancy.slime_slaymire","Stubborn Slime Executor"
+"heroes.name_fancy.slime_slaymire","Stubborn Slime Executioner"
 "heroes.name_fancy.slime_slimgo","Sneaky Rogue Slime"
 "heroes.name_fancy.slime_sliposi","Slippery Courier Slime"
 "heroes.name_fancy.slime_sludgus","Singing Tavern Slime"

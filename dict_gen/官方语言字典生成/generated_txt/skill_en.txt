@@ -524,7 +524,7 @@ Status effects affecting healing received do affect the healing scaling."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","Deals {DAMAGE}% damage to the target and {MAXHITS} random enemies.
 Summons a Seedling Fiend to each hit enemy."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","Deals {DAMAGE}% damage to the target and {MAXHITS} random enemies.
-Summons a Seedling Fiend to each hit enemy."
+[*]Summons a [#!]Seedling Fiend[#] to each hit enemy."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","Deals {DAMAGE}% damage to the target and {MAXHITS} random enemies.
 Summons a Missile Fiend to hit enemies. The Fiend damages the enemy with {FAMILIARATTACK}% attack every turn.
 The Missile Fiend absorbs healing and disappears when it has absorbed health equal to {FAMILIARHEALTHPERCENT}% of its owner's max health."
@@ -635,7 +635,7 @@ Dark Cube reduces max health of the target by {REDUCTION}. The effect is stronge
 "specials.v2.property.effectonkill.heal.single.allies.addmana.single.allies.directeffecttargettype.single","If an enemy is defeated by the attack, the caster recovers {EFFECT1POWER}% health and gains {EFFECT2POWER}% mana."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single","If the target is defeated by the attack, the caster recovers {FIXEDPOWER} health."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single.fixedpower","If the target is defeated by the attack, the caster recovers {FIXEDPOWER} health."
-"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","If the target is defeated by attack, all allies get {EFFECT2POWER}% mana and  boost health of all allies by {EFFECT1FIXEDPOWER}. Boosted health can exceed max HP"
+"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","If the target is defeated by the attack, all allies get {EFFECT2POWER}% mana and their health is boosted by {EFFECT1FIXEDPOWER}. Boosted health can exceed max HP."
 "specials.v2.property.effectonkill.statuseffect.fearstatuseffectskill.neartotarget.enemies","If the target is defeated by the attack, then nearby enemies succumb to Fear for {STATUSEFFECT1TURNS} turns."
 "specials.v2.property.effectonkill.statuseffect.insanity.neartotargetexceptmaintarget.enemies","If the target is defeated by the attack, then nearby enemies are inflicted with  {STATUSEFFECT1INSANITYTOADD} Insanity."
 "specials.v2.property.effectonkill.statuseffect.manafreeze.neartotargetexceptmaintarget.enemies","If the target is defeated by the attack, then nearby enemies are unable to gain any mana for {STATUSEFFECT1TURNS} turns."
@@ -940,9 +940,9 @@ Safe stealing bypasses secondary effects, such as damage on removal, from the re
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.single.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","Deals {POWER}% Spirit Slash damage to the target. Spirit Slash safely removes buffs before dealing damage."
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectdebuffs.neartotarget.allies.bypassremoveeffects.effectonremoval.healthboost.has_base_power.power_changes_per_removed_status_from_target","Boosts the caster and nearby allies' health by {FIXEDPOWER} with Spirit Aura. Spirit Aura safely removes status ailments before boosting health."
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.all.allies.effectonremoval.addmana.power_changes_per_removed_status_from_target","Safely cleanses all status ailments from all allies, and increases all allies' mana by {POWERPERREMOVALFROMTARGET}% for each cleansed ailment."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra"," Damage is reduced by {POWERPERREMOVALFROMTARGET}% for each removed buff.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","Damage is reduced by {POWERPERREMOVALFROMTARGET}% for each removed buff.
  Undispellable buffs are also removed."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra"," The health boost is reduced by {FIXEDPOWERPERREMOVALFROMTARGET} for each removed ailment.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","The health boost is reduced by {FIXEDPOWERPERREMOVALFROMTARGET} for each removed ailment.
  Uncleansable ailments are also removed."
 "specials.v2.property.repeatspecial.blade_wings.random","After a successful cast, has a {REPEATCHANCE}% chance to recast Blade Wings on a random target.
 Can recast up to {MAXREPEATS} times and the chance to recast is reduced by {REPEATCHANCEDECREASE}% after every successful cast."
@@ -1113,14 +1113,15 @@ Enemies with Minions or Mega Minions receive {STATUSEFFECT1DEFENSE}% defense for
 Enemies with Minions or Mega Minions receive {STATUSEFFECT1DEFENSE}% defense for {STATUSEFFECT1TURNS} turns."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","Deals {POWERFORTARGETSTHATMEETCONDITION}% damage against enemies with any defensive buffs, Minions or Mega Minions.
 Enemies with any defensive buffs, Minions or Mega Minions receive {STATUSEFFECT1DEFENSE}% defense for {STATUSEFFECT1TURNS} turns."
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
-The Sprout Fiend evolves into a Blossom Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","The [#!]Seedling Fiend[#] evolves into a [#!]Sprout Fiend[#] after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
+[*]The [#!]Sprout Fiend[#] evolves into a [#!]Blossom Mega Fiend[#] after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
 
- Seedling Fiend: {EVOLVINGFAMILIAR1FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% health.
- Sprout Fiend: {EVOLVINGFAMILIAR2FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% health.
- Blossom Mega Fiend: {EVOLVINGFAMILIAR3FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% health.
+[*] [#!]Seedling Fiend[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] health.
+[*] [#!]Sprout Fiend[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] health.
+[*] [#!]Blossom Mega Fiend[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] health.
 
-A Fiend damages their target every turn. A Fiend disappears after absorbing healing. Amount of healing required depends on the target's max health."
+[*]A Fiend damages their target every turn. A Fiend disappears after absorbing healing. Amount of healing required depends on the target's max health.
+[*]The evolution of the Fiends is delayed by {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turn each time they absorb healing."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","If the target has Fiends or Mega Fiends, deals {DAMAGE}% damage to a random different enemy.
 Summons a Seedling Fiend to each hit enemy."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","If the target has Fiends or Mega Fiends, deals {DAMAGE}% damage to a random different enemy.
@@ -1433,26 +1434,26 @@ Ballad of Pain
 "specials.v2.statuseffect.major.elementmirror.red.neartotarget.allies","The caster and the nearby allies reflect all status ailments and {DEFLECTION}% damage back to the attacker and block other negative effects from enemies' Fire Special Skills for {TURNS} turns. This effect can't be dispelled."
 "specials.v2.statuseffect.major.ethereal.single.allies","The caster shifts into Ghost form for {TURNS} turns.
  While in Ghost form the caster gains {ATTACK}% attack."
-"specials.v2.statuseffect.major.fieryfortunedancemultieffect.neartotargetexceptcaster.allies.fiery_fortune_dance","Nearby allies dance the Fiery Fortune Dance for {TURNS} turns.
+"specials.v2.statuseffect.major.fieryfortunedancemultieffect.neartotargetexceptcaster.allies.fiery_fortune_dance","Nearby allies dance the [#!]Fiery Fortune Dance[#] for {TURNS} turns.
 
-Fiery Fortune Dance
+[#!]Fiery Fortune Dance[#]
 {STATUSEFFECTS}
-Fortune Dances stack with other Dance effects."
-"specials.v2.statuseffect.major.fieryfortunedancemultieffect.neartotargetexceptcaster.allies.fiery_fortune_dance_dragon_kids","Nearby allies dance the Fiery Fortune Dance for {TURNS} turns.
+[*][#!]Fortune Dances[#] stack with other Dance effects."
+"specials.v2.statuseffect.major.fieryfortunedancemultieffect.neartotargetexceptcaster.allies.fiery_fortune_dance_dragon_kids","Nearby allies dance the [#!]Fiery Fortune Dance[#] for {TURNS} turns.
 
-Fiery Fortune Dance
+[#!]Fiery Fortune Dance[#]
 {STATUSEFFECTS}
-Fortune Dances stack with other Dance effects."
+[*][#!]Fortune Dances[#] stack with other Dance effects."
 "specials.v2.statuseffect.major.fixedhealthrecovery.all.allies","All allies regenerate {TOTAL} HP over {TURNS} turns. This effect can't be dispelled."
 "specials.v2.statuseffect.major.fixedhealthrecovery.allexceptcaster.allies.while.caster.allies.transcendentalframe","While in Ghost form, all allies except the caster regenerate {HPPERTURN} HP every turn."
 "specials.v2.statuseffect.major.fixedhealthrecovery.healthboost.all.allies","All allies regenerate {TOTAL} boosted health over {TURNS} turns. Boosted health can exceed max HP. This effect can't be dispelled."
 "specials.v2.statuseffect.major.fixedhealthrecovery.healthboost.allexceptcaster.allies.while.caster.allies.transcendentalframe","While in Ghost form, all allies except the caster regenerate {HPPERTURN} boosted health every turn. Boosted health can exceed max HP."
 "specials.v2.statuseffect.major.fixedhealthrecovery.single.allies.while.caster.allies.transcendentalframe","While in Ghost form, the caster regenerates {HPPERTURN} HP every turn."
-"specials.v2.statuseffect.major.flowingfortunedancemultieffect.neartotargetexceptcaster.allies.flowing_fortune_dance","Nearby allies dance the Flowing Fortune Dance for {TURNS} turns.
+"specials.v2.statuseffect.major.flowingfortunedancemultieffect.neartotargetexceptcaster.allies.flowing_fortune_dance","Nearby allies dance the [#!]Flowing Fortune Dance[#] for {TURNS} turns.
 
-Flowing Fortune Dance
+[#!]Flowing Fortune Dance[#]
 {STATUSEFFECTS}
-Fortune Dances stack with other Dance effects."
+[*][#!]Fortune Dances[#] stack with other Dance effects."
 "specials.v2.statuseffect.major.frost.all.enemies","All enemies receive {DAMAGE} Frost damage over {TURNS} turns. This effect can't be cleansed."
 "specials.v2.statuseffect.major.frost.single.enemies.chain_strike","Stack (Max: {MAXSTACK}): Hit enemies receives {DAMAGE} Frost damage at the end of each turn. This is uncleansable."
 "specials.v2.statuseffect.major.ghost.single.allies.onremoval.damage.all.enemies.expiration.basic_attack_chao_gai.all.allies.special_damage_power_modifier_chao_gai.all.allies","The caster shifts into Ghost form for {TURNS} turns. 
@@ -1668,16 +1669,16 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to di
 {REPLACEDSPECIALDESCRIPTION}"
 "specials.v2.statuseffect.major.ubertitanstackingattackmodifier.single.allies","Stack (Max: {MAXSTACK}): The Mythic Titan gets {ATTACK}% attack for {TURNS} turns."
 "specials.v2.statuseffect.major.ubertitanstackingreceiveddamagemodifier.single.allies.decrease","Stack (Max: {MAXSTACK}): Received damage is reduced by {DAMAGEREDUCTION}% for {TURNS} turns."
-"specials.v2.statuseffect.major.vibrantfortunedancemultieffect.neartotargetexceptcaster.allies.vibrant_fortune_dance","Nearby allies dance the Vibrant Fortune Dance for {TURNS} turns.
+"specials.v2.statuseffect.major.vibrantfortunedancemultieffect.neartotargetexceptcaster.allies.vibrant_fortune_dance","Nearby allies dance the [#!]Vibrant Fortune Dance[#] for {TURNS} turns.
 
-Vibrant Fortune Dance
+[#!]Vibrant Fortune Dance[#]
 {STATUSEFFECTS}
-Fortune Dances stack with other Dance effects."
-"specials.v2.statuseffect.major.vibrantfortunedancemultieffect.neartotargetexceptcaster.allies.vibrant_fortune_dance_ling_long","Nearby allies dance the Vibrant Fortune Dance for {TURNS} turns.
+[*][#!]Fortune Dances[#] stack with other Dance effects."
+"specials.v2.statuseffect.major.vibrantfortunedancemultieffect.neartotargetexceptcaster.allies.vibrant_fortune_dance_ling_long","Nearby allies dance the [#!]Vibrant Fortune Dance[#] for {TURNS} turns.
 
-Vibrant Fortune Dance
+[#!]Vibrant Fortune Dance[#]
 {STATUSEFFECTS}
-Fortune Dances stack with other Dance effects."
+[*][#!]Fortune Dances[#] stack with other Dance effects."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","All enemies get {ACCURACY}% accuracy for {TURNS} turns."
 "specials.v2.statuseffect.minor.accuracymodifier.allminor.enemies","The target gets {ACCURACY}% accuracy and all other enemies get {MINORACCURACY}% accuracy for {TURNS} turns."
 "specials.v2.statuseffect.minor.accuracymodifier.blue.enemies","All Ice enemies get {ACCURACY}% accuracy for {TURNS} turns."
@@ -2694,3 +2695,4 @@ Hero's Insanity can be lowered by direct heal from a Special Skill."
 "specials.v2.strongattack.yellow","Deals extra damage against Holy."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","This effect may only happen once per Hydra Head Minion."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","When the Hydra Head Minion is defeated, a random ally receives a Reborn Hydra Head Minion that inherits the stats of the original Minion."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","[#!]Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}):[#] All damage the caster and nearby allies receive is reduced by {DAMAGEMODIFIER}%."

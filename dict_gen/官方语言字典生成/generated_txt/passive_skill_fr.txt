@@ -45,7 +45,7 @@ Le noyau destructeur s'active à chaque fois que la compétence spéciale de ce 
 "herocard.passive_skill.description.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","Tous les {TURNS} tours, consomme tous les sbires d'un ennemi aléatoire et obtient une petite quantité de mana pour chacun d'entre eux."
 "herocard.passive_skill.description.effectondamagedone.bufftoremove.minordebuff.latest.from.all.allies.safe.specialskill.only_criticals.once","Quand ce personnage réalise un coup critique avec sa compétence spéciale, il purifie de façon sûre l'effet négatif purifiable le plus récent de chaque allié. Cet effet peut s'activer une fois par tour."
 "herocard.passive_skill.description.effectondamagedone.healthboost.all.allies.specialskill.only_criticals.once","Quand ce personnage réalise un coup critique avec sa compétence spéciale, la santé de tous ses alliés est boostée de {HEALTHBOOST} %. Cet effet peut s'activer une fois par tour."
-"herocard.passive_skill.description.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill.single.allies.onceperturn"," Quand la compétence spéciale de ce personnage touche un personnage qui a plus de PV, sa santé est boostée de {PASSIVESKILL1HEALTHBOOST} %.
+"herocard.passive_skill.description.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill.single.allies.onceperturn","Quand la compétence spéciale de ce personnage touche un personnage qui a plus de PV, sa santé est boostée de {PASSIVESKILL1HEALTHBOOST} %.
  Quand ce personnage est touché par la compétence spéciale d'un personnage qui a plus de PV, il reçoit {PASSIVESKILL2POWER} % de mana.
 Chacun de ces effets peut s'activer une fois par tour."
 "herocard.passive_skill.description.effectondamagereceived.addmana.specialskill.single.allies","Quand ce personnage subit des dégâts de compétence spéciale, il reçoit {POWER} % de mana."
@@ -232,7 +232,7 @@ Cela concerne les bonus, les effets négatifs, les cumuls positifs ou négatifs 
 "herocard.passive_skill.description.resist.criticalhits.none","Ce personnage est immunisé contre les dégâts supplémentaires et les autres effets des coups critiques."
 "herocard.passive_skill.description.resist.defensemodifierdebuffs","Ce personnage est immunisé contre les effets négatifs qui touchent la défense. Ne s'applique pas aux effets négatifs qui affectent la défense élémentaire."
 "herocard.passive_skill.description.resist.defensemodifiers.alldebuffs","Ce personnage est immunisé contre les effets et cumuls négatifs qui touchent la défense. Ne s'applique pas aux effets négatifs qui affectent la défense élémentaire."
-"herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion"," Immunité contre les effets qui suppriment les sbires.
+"herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion","Immunité contre les effets qui suppriment les sbires.
  Rien ne peut empêcher de recevoir des sbires.
  Les attaques et capacités des sbires ne peuvent pas être désactivées."
 "herocard.passive_skill.description.resist.frost","Ce personnage est immunisé contre les effets négatifs qui infligent des dégâts de givre."
@@ -365,32 +365,32 @@ Démon jeune pousse :
 
 Méga démon florissant :
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de santé."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","À chaque tour, invoque un démon plantule pour un ennemi aléatoire. Cette compétence passive s'active une seule fois par tour pour chaque équipe. 
-Le démon plantule devient un démon jeune pousse au bout de {EVOLVINGFAMILIAR1EVOLVETURNS} tours.
-Le démon jeune pousse devient un méga démon florissant au bout de {EVOLVINGFAMILIAR2EVOLVETURNS} tours.
-L'évolution du démon est retardée de {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tour à chaque fois qu'il absorbe des soins.
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","À chaque tour, invoque un [#!]démon plantule[#] pour un ennemi aléatoire. Cette compétence passive s'active une seule fois par tour pour chaque équipe. 
+[*]Le [#!]démon plantule[#] devient un [#!]démon jeune pousse[#] au bout de {EVOLVINGFAMILIAR1EVOLVETURNS} tours.
+[*]Le [#!]démon jeune pousse[#] devient un [#!]méga démon florissant[#] au bout de {EVOLVINGFAMILIAR2EVOLVETURNS} tours.
+[*]L'évolution du démon est retardée de {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tour à chaque fois qu'il absorbe des soins.
 
-Démon plantule :
-{EVOLVINGFAMILIAR1FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de santé.
+[#!]Démon plantule[#] :
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] % de santé.
 
-Démon jeune pousse :
-{EVOLVINGFAMILIAR2FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de santé.
+[#!]Démon jeune pousse[#] :
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] % de santé.
 
-Méga démon florissant :
-{EVOLVINGFAMILIAR3FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de santé."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","À chaque tour, invoque un démon plantule pour un ennemi aléatoire. Cette compétence passive s'active une seule fois par tour pour chaque équipe. 
-Le démon plantule devient un démon jeune pousse au bout de {EVOLVINGFAMILIAR1EVOLVETURNS} tours.
-Le démon jeune pousse devient un méga démon florissant au bout de {EVOLVINGFAMILIAR2EVOLVETURNS} tours.
-L'évolution du démon est retardée de {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tour à chaque fois qu'il absorbe des soins.
+[#!]Méga démon florissant[#] :
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % de santé."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","À chaque tour, invoque un [#!]démon plantule[#] pour un ennemi aléatoire. Cette compétence passive s'active une seule fois par tour pour chaque équipe. 
+[*]Le [#!]démon plantule[#] devient un [#!]démon jeune pousse[#] au bout de {EVOLVINGFAMILIAR1EVOLVETURNS} tours.
+[*]Le [#!]démon jeune pousse[#] devient un [#!]méga démon florissant[#] au bout de {EVOLVINGFAMILIAR2EVOLVETURNS} tours.
+[*]L'évolution du démon est retardée de {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tour à chaque fois qu'il absorbe des soins.
 
-Démon plantule :
-{EVOLVINGFAMILIAR1FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de santé.
+[#!]Démon plantule[#] :
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] % de santé.
 
-Démon jeune pousse :
-{EVOLVINGFAMILIAR2FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de santé.
+[#!]Démon jeune pousse[#] :
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] % de santé.
 
-Méga démon florissant :
-{EVOLVINGFAMILIAR3FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de santé."
+[#!]Méga démon florissant[#] :
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % de santé."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Lorsque ce personnage est vaincu, des méga sbires gluants sont invoqués sur les alliés proches avec {FAMILIARHEALTHPERCENT} % de PV et {FAMILIARATTACK} % d'attaque hérités de ce personnage."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Lorsque ce personnage est vaincu, des méga sbires gluants sont invoqués sur les alliés proches avec {FAMILIARHEALTHPERCENT} % de PV et {FAMILIARATTACK} % d'attaque hérités de ce personnage."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Lorsque ce personnage est vaincu, des méga sbires gluants sont invoqués sur les alliés proches avec {FAMILIARHEALTHPERCENT} % de PV et {FAMILIARATTACK} % d'attaque hérités de ce personnage."
@@ -719,3 +719,16 @@ Corps agile"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Transformation des bonus"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Transformation des effets négatifs"
 "herocard.passive_skill.title.wither.all.enemies","Flétrissement"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","À chaque tour, invoque un [#!]démon plantule[#] pour un ennemi aléatoire.
+[*]Le [#!]démon plantule[#] devient un [#!]démon jeune pousse[#] au bout de {EVOLVINGFAMILIAR1EVOLVETURNS} tours.
+[*]Le [#!]démon jeune pousse[#] devient un [#!]méga démon florissant[#] au bout de {EVOLVINGFAMILIAR2EVOLVETURNS} tours.
+[*]L'évolution du démon est retardée de {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tour à chaque fois qu'il absorbe des soins.
+
+[#!]Démon plantule[#] :
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] % de santé.
+
+[#!]Démon jeune pousse[#] :
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] % de santé.
+
+[#!]Méga démon florissant[#] :
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % de santé."

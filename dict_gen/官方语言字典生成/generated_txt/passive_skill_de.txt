@@ -45,7 +45,7 @@ Der Zerstörungskern wird immer aktiviert, wenn die Spezialfähigkeit des Charak
 "herocard.passive_skill.description.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","Frisst alle {TURNS} Runden alle Schergen eines zufälligen Gegners und erhält eine kleine Menge Mana für jeden gefressenen Schergen."
 "herocard.passive_skill.description.effectondamagedone.bufftoremove.minordebuff.latest.from.all.allies.safe.specialskill.only_criticals.once","Wenn dieser Charakter mit seiner Spezialfähigkeit einen kritischen Treffer erzielt, befreit er garantiert alle Verbündeten von der neusten säuberbaren negativen Statusänderung. Dieser Effekt kann einmal pro Runde aktiviert werden."
 "herocard.passive_skill.description.effectondamagedone.healthboost.all.allies.specialskill.only_criticals.once","Wenn dieser Charakter mit seiner Spezialfähigkeit einen kritischen Treffer erzielt, verstärkt er das Leben all seiner Verbündeten um {HEALTHBOOST} %. Dieser Effekt kann einmal pro Zug aktiviert werden."
-"herocard.passive_skill.description.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill.single.allies.onceperturn"," Trifft die Spezialfähigkeit dieses Charakters einen Gegner, der aktuell über mehr LP verfügt, erhält er {PASSIVESKILL1HEALTHBOOST} % Lebensverstärkung.
+"herocard.passive_skill.description.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill.single.allies.onceperturn","Trifft die Spezialfähigkeit dieses Charakters einen Gegner, der aktuell über mehr LP verfügt, erhält er {PASSIVESKILL1HEALTHBOOST} % Lebensverstärkung.
  Wird dieser Charakter von der Spezialfähigkeit eines Gegners getroffen, der aktuell über mehr LP verfügt, erhält er {PASSIVESKILL2POWER} % Mana.
 Jeder dieser Effekte kann einmal pro Runde aktiviert werden."
 "herocard.passive_skill.description.effectondamagereceived.addmana.specialskill.single.allies","Wenn dieser Charakter Schaden durch Spezialfähigkeiten erleidet, erhält er {POWER} % Mana."
@@ -232,7 +232,7 @@ Dazu gehören negative Statusänderungen und -stärkungen, positive und negative
 "herocard.passive_skill.description.resist.criticalhits.none","Dieser Charakter ist immun gegen zusätzlichen Schaden und zusätzliche Effekte durch kritische Treffer."
 "herocard.passive_skill.description.resist.defensemodifierdebuffs","Der Charakter ist immun gegen negative Statusänderungen, die die Verteidigung beeinträchtigen. Gilt nicht für Statuseffekte, die die Elementarverteidigung beeinträchtigen."
 "herocard.passive_skill.description.resist.defensemodifiers.alldebuffs","Der Charakter ist immun gegen negative Statusänderungen und negative Stapel, die die Verteidigung beeinträchtigen. Gilt nicht für Statuseffekte, die die Elementarverteidigung beeinträchtigen."
-"herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion"," Immun gegen Effekte, die Lakaien entfernen.
+"herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion","Immun gegen Effekte, die Lakaien entfernen.
  Lakaien können trotzdem erhalten werden.
  Angriffe und Fähigkeiten von Lakaien können nicht ausgeschaltet werden."
 "herocard.passive_skill.description.resist.frost","Der Charakter ist immun gegen negative Statusänderungen, die Frostschaden verursachen."
@@ -365,32 +365,32 @@ Spross-Feind:
 
 Blüten-Mega-Feind: 
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Beschwört jede Runde einen Setzling-Feind für einen zufälligen Gegner. Diese passive Fähigkeit wird für jedes Team nur einmal pro Runde aktiviert.
-Der Setzling-Feind entwickelt sich zu einem Spross-Feind nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden.
-Der Spross-Feind entwickelt sich zu einem Blüten-Mega-Feind nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden.
-Jedes Mal, wenn der Feind Heilung absorbiert, wird seine Entwicklung um {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} verzögert.
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Beschwört jede Runde einen [#!]Setzling-Feind[#] für einen zufälligen Gegner. Diese passive Fähigkeit wird für jedes Team nur einmal pro Runde aktiviert.
+[*]Der [#!]Setzling-Feind[#] entwickelt sich zu einem [#!]Spross-Feind[#] nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden.
+[*]Der [#!]Spross-Feind[#] entwickelt sich zu einem [#!]Blüten-Mega-Feind[#] nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden.
+[*]Jedes Mal, wenn der Feind Heilung absorbiert, wird seine Entwicklung um {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} verzögert.
 
-Setzling-Feind: 
-{EVOLVINGFAMILIAR1FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % Leben.
+[#!]Setzling-Feind[#]: 
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] % Leben.
 
-Spross-Feind: 
-{EVOLVINGFAMILIAR2FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % Leben.
+[#!]Spross-Feind[#]: 
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] % Leben.
 
-Blüten-Mega-Feind: 
-{EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Beschwört jede Runde einen Setzling-Feind für einen zufälligen Gegner. Diese passive Fähigkeit wird für jedes Team nur einmal pro Runde aktiviert.
-Der Setzling-Feind entwickelt sich zu einem Spross-Feind nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden.
-Der Spross-Feind entwickelt sich zu einem Blüten-Mega-Feind nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden.
-Jedes Mal, wenn der Feind Heilung absorbiert, wird seine Entwicklung um {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} verzögert.
+[#!]Blüten-Mega-Feind[#]: 
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % Leben."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Beschwört jede Runde einen [#!]Setzling-Feind[#] für einen zufälligen Gegner. Diese passive Fähigkeit wird für jedes Team nur einmal pro Runde aktiviert.
+[*]Der [#!]Setzling-Feind[#] entwickelt sich zu einem [#!]Spross-Feind[#] nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden.
+[*]Der [#!]Spross-Feind[#] entwickelt sich zu einem [#!]Blüten-Mega-Feind[#] nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden.
+[*]Jedes Mal, wenn der Feind Heilung absorbiert, wird seine Entwicklung um {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} verzögert.
 
-Setzling-Feind: 
-{EVOLVINGFAMILIAR1FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % Leben.
+[#!]Setzling-Feind[#]: 
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] % Leben.
 
-Spross-Feind: 
-{EVOLVINGFAMILIAR2FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % Leben.
+[#!]Spross-Feind[#]: 
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] % Leben.
 
-Blüten-Mega-Feind: 
-{EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben."
+[#!]Blüten-Mega-Feind[#]: 
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % Leben."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Wenn dieser Charakter besiegt wird, beschwört er einen Schleim-Megalakaien zu Verbündeten in der Nähe mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff, die von diesem Charakter geerbt wurden."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Wenn dieser Charakter besiegt wird, beschwört er einen Schleim-Megalakaien zu Verbündeten in der Nähe mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff, die von diesem Charakter geerbt wurden."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Wenn dieser Charakter besiegt wird, beschwört er einen Schleim-Megalakaien zu Verbündeten in der Nähe mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff, die von diesem Charakter geerbt wurden."
@@ -729,3 +729,16 @@ statuseffekten"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Boni verwandeln"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Negative Statusänderungen verwandeln"
 "herocard.passive_skill.title.wither.all.enemies","Verwelken"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Beschwört jede Runde einen [#!]Setzling-Feind[#] für einen zufälligen Gegner.
+[*]Der [#!]Setzling-Feind[#] entwickelt sich zu einem [#!]Spross-Feind[#] nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden.
+[*]Der [#!]Spross-Feind[#] entwickelt sich zu einem [#!]Blüten-Mega-Feind[#] nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden.
+[*]Jedes Mal, wenn der Feind Heilung absorbiert, wird seine Entwicklung um {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} verzögert.
+
+[#!]Setzling-Feind[#]: 
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] % Leben.
+
+[#!]Spross-Feind[#]: 
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] % Leben.
+
+[#!]Blüten-Mega-Feind[#]: 
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % Leben."

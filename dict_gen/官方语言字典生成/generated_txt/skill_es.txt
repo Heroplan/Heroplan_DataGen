@@ -524,7 +524,7 @@ Por cada enemigo de hielo alcanzado, la vitalidad potenciada es un {AMPLIFIEDSHA
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","Inflige un {DAMAGE} % de daño al objetivo y a {MAXHITS} enemigos aleatorios.
  Invoca un demonio brote maldito para cada enemigo golpeado."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","Inflige un {DAMAGE} % de daño al objetivo y a {MAXHITS} enemigos aleatorios.
- Invoca un demonio brote maldito para cada enemigo golpeado."
+[*] Invoca un [#!]demonio brote maldito[#] para cada enemigo golpeado."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","Causa un {DAMAGE} % de daño al objetivo y a {MAXHITS} enemigos aleatorios.
  Invoca un demonio misil que daña al enemigo con un {FAMILIARATTACK} % de ataque cada turno.
  El demonio absorbe la curación y desaparece tras absorber una cantidad de vitalidad equivalente al {FAMILIARHEALTHPERCENT} % de la vitalidad máxima de su dueño."
@@ -635,7 +635,7 @@ Por cada enemigo de hielo alcanzado, la vitalidad potenciada es un {AMPLIFIEDSHA
 "specials.v2.property.effectonkill.heal.single.allies.addmana.single.allies.directeffecttargettype.single","Si el ataque derrota a un enemigo, el héroe recupera un {EFFECT1POWER} % de vitalidad y obtiene un {EFFECT2POWER} % de maná."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single","Si el ataque derrota al objetivo, el héroe recupera {FIXEDPOWER} de vitalidad."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single.fixedpower","Si el ataque derrota al objetivo, el héroe recupera {FIXEDPOWER} de vitalidad."
-"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","Si el ataque derrota al objetivo, todos los aliados obtienen un {EFFECT2POWER} % de maná y potencia la vitalidad de todos los aliados en {EFFECT1FIXEDPOWER}. La vitalidad potenciada puede exceder la VIT máxima."
+"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","Si el ataque derrota al objetivo, todos los aliados obtienen un {EFFECT2POWER} % de maná y su vitalidad se potencia en {EFFECT1FIXEDPOWER}. La vitalidad potenciada puede exceder la VIT máxima."
 "specials.v2.property.effectonkill.statuseffect.fearstatuseffectskill.neartotarget.enemies","Si el ataque derrota al objetivo, los enemigos cercanos sucumben al miedo durante {STATUSEFFECT1TURNS} turnos."
 "specials.v2.property.effectonkill.statuseffect.insanity.neartotargetexceptmaintarget.enemies","Si el ataque derrota al objetivo, los enemigos cercanos sufren {STATUSEFFECT1INSANITYTOADD} de demencia."
 "specials.v2.property.effectonkill.statuseffect.manafreeze.neartotargetexceptmaintarget.enemies","Si el ataque derrota al objetivo, los enemigos cercanos no pueden obtener maná durante {STATUSEFFECT1TURNS} turnos."
@@ -877,7 +877,7 @@ Límites de la modificación de las puntuaciones de habilidad
 "specials.v2.property.random_special_mimic","Usa uno de estos ataques especiales:"
 "specials.v2.property.random_special_mimic2","Usa uno de estos ataques especiales:"
 "specials.v2.property.random_special_yona","Roba una carta para un efecto concreto:"
-"specials.v2.property.random_special_zidane"," Usa una flecha al azar con un efecto específico:"
+"specials.v2.property.random_special_zidane","Usa una flecha al azar con un efecto específico:"
 "specials.v2.property.randomspecialwithchance.extra","Probabilidad de que cada efecto se active:
 {SPECIALSWITHCHANCES}"
 "specials.v2.property.randomspecialwithchance.extradescriptionline","{0}: {1} %"
@@ -940,9 +940,9 @@ Límites de la modificación de las puntuaciones de habilidad
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.single.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","Inflige un {POWER} % de daño de sablazo espiritual al objetivo. Sablazo espiritual elimina de forma segura las bendiciones antes de infligir daño."
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectdebuffs.neartotarget.allies.bypassremoveeffects.effectonremoval.healthboost.has_base_power.power_changes_per_removed_status_from_target","Potencia la vitalidad del héroe y de los aliados cercanos en {FIXEDPOWER} con aura espiritual. Aura espiritual elimina de forma segura los estados alterados antes de potenciar la vitalidad."
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.all.allies.effectonremoval.addmana.power_changes_per_removed_status_from_target","Purifica de forma segura los estados alterados de todos los aliados y aumenta el maná de todos los aliados un {POWERPERREMOVALFROMTARGET} % por cada estado purificado."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra"," El daño se reduce en un {POWERPERREMOVALFROMTARGET} % por cada bendición eliminada.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","El daño se reduce en un {POWERPERREMOVALFROMTARGET} % por cada bendición eliminada.
  Las bendiciones indescartables también se eliminan."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra"," La vitalidad potenciada se reduce en {FIXEDPOWERPERREMOVALFROMTARGET} por cada estado alterado eliminado.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","La vitalidad potenciada se reduce en {FIXEDPOWERPERREMOVALFROMTARGET} por cada estado alterado eliminado.
  Los estados alterados impurificables también se eliminan."
 "specials.v2.property.repeatspecial.blade_wings.random","Tras usarse con éxito, tiene un {REPEATCHANCE} % de probabilidad de volver a usar Alas de cuchilla contra un objetivo aleatorio.
  Puede volver a usar la habilidad hasta {MAXREPEATS} veces, y la probabilidad de volver a usarla se reduce un {REPEATCHANCEDECREASE} % después de cada uso con éxito."
@@ -1113,19 +1113,20 @@ Efectos de transformación:
  Los enemigos con secuaces o megasecuaces reciben un {STATUSEFFECT1DEFENSE} % de defensa durante {STATUSEFFECT1TURNS} turnos."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","Inflige un {POWERFORTARGETSTHATMEETCONDITION} % de daño a los enemigos con bendiciones de defensa, secuaces o megasecuaces.
  Los enemigos con bendiciones de defensa, secuaces o megasecuaces reciben un {STATUSEFFECT1DEFENSE} % de defensa durante {STATUSEFFECT1TURNS} turnos."
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra"," El demonio brote maldito se convierte en demonio retoño pasados {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
- El demonio retoño se convierte en megademonio flor pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","[*] El [#!]demonio brote maldito[#] se convierte en [#!]demonio retoño[#] pasados {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
+[*] El [#!]demonio retoño[#] se convierte en [#!]megademonio flor[#] pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
 
- Demonio brote maldito:
-{EVOLVINGFAMILIAR1FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de vitalidad
+[*] [#!]Demonio brote maldito[#]:
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] de vitalidad
 
- Demonio retoño:
-{EVOLVINGFAMILIAR2FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de vitalidad
+[*] [#!]Demonio retoño[#]:
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] de vitalidad
 
- Megademonio flor:
-{EVOLVINGFAMILIAR3FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de vitalidad
+[*] [#!]Megademonio flor[#]:
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % de vitalidad
 
- El demonio inflige daño al objetivo en cada turno. Desaparece al absorber curación. La cantidad de curación depende de la vitalidad máxima del objetivo."
+[*] El demonio inflige daño al objetivo en cada turno. Desaparece al absorber curación. La cantidad de curación depende de la vitalidad máxima del objetivo.
+[*] La evolución de los demonios se retrasa {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que absorben curación."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","Si el objetivo tiene demonios o megademonios, inflige un {DAMAGE} % de daño a un enemigo diferente aleatorio.
  Invoca un demonio brote maldito para cada enemigo golpeado."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","Si el objetivo tiene demonios o megademonios, inflige un {DAMAGE} % de daño a un enemigo diferente aleatorio.
@@ -1144,7 +1145,7 @@ Efectos de transformación:
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold","Si el objetivo tiene más de un {THRESHOLD1} % de vitalidad antes de recibir daño, ataca a otro enemigo que tenga más del {THRESHOLD2} % de vitalidad antes de recibir daño de esta habilidad especial. Si ningún otro enemigo tiene un {THRESHOLD3} % de vitalidad, ataca a un enemigo aleatorio. El daño se reduce con cada golpe consecutivo. Solo puede golpear una vez a cada enemigo."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold.damage_increases","Si el objetivo tiene más de un {THRESHOLD1} % de vitalidad antes de recibir daño, ataca a otro enemigo que tenga más del {THRESHOLD2} % de vitalidad antes de recibir daño de esta habilidad especial. Si ningún otro enemigo tiene un {THRESHOLD3} % de vitalidad, ataca a un enemigo aleatorio. El daño aumenta con cada golpe consecutivo. Solo puede golpear una vez a cada enemigo."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_mana_threshold","Si el objetivo tiene más de un {THRESHOLD1} % de maná antes de recibir daño, ataca a otro enemigo que tenga más del {THRESHOLD2} % de maná antes de recibir daño de esta habilidad especial. Si ningún otro enemigo tiene un {THRESHOLD3} % de maná, ataca a un enemigo aleatorio. El daño se reduce con cada golpe consecutivo. Solo puede golpear una vez a cada enemigo."
-"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","Si el objetivo tiene menos de un {THRESHOLD1} % de vitalidad antes de recibir daño, ataca a otro enemigo que tenga menos del {THRESHOLD2} % de vitalidad antes de recibir daño de esta habilidad especial. Si ningún otro enemigo tiene un {THRESHOLD3} % de vitalidad, ataca a un enemigo aleatorio. El daño se reduce con cada golpe consecutivo. Solo puede golpear una vez a cada enemigo."
+"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","Si el objetivo tiene menos de un {THRESHOLD1} % de vitalidad antes de recibir daño, ataca a otro enemigo que tenga menos del {THRESHOLD2} % de vitalidad antes de recibir daño de esta habilidad especial. Si ningún otro enemigo tiene menos de un {THRESHOLD3} % de vitalidad, ataca a un enemigo aleatorio. El daño se reduce con cada golpe consecutivo. Solo puede golpear una vez a cada enemigo."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.blue_tiles.all","Si hay {COUNTREQUIREMENT} o más escudos de hielo en el tablero, en su lugar el daño se inflige a todos los enemigos."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.green_tiles.all","Si hay {COUNTREQUIREMENT} o más escudos de naturaleza en el tablero, en su lugar el daño se inflige a todos los enemigos."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.purple_tiles.all","Si hay {COUNTREQUIREMENT} o más escudos oscuros en el tablero, en su lugar el daño y los estados alterados se infligen a todos los enemigos."
@@ -2699,3 +2700,4 @@ Demencia
 "specials.v2.strongattack.yellow","Causa daño adicional contra sagrado."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","Este efecto solo puede producirse una vez por cada secuaz cabeza de hidra."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","Cuando el secuaz cabeza de hidra es derrotado, un aliado aleatorio recibe un secuaz cabeza de hidra renacido que hereda las estadísticas del secuaz original."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","[#!]Acumulación +{BASESTACKCOUNT} (máx.: {MAXSTACK}):[#] Todo el daño que reciben el héroe y los aliados cercanos se reduce un {DAMAGEMODIFIER} %."

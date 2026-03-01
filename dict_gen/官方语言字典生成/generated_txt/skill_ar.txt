@@ -466,7 +466,7 @@
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","يسبب {DAMAGE}% من الضرر للهدف و{MAXHITS} من الأعداء العشوائيين.
 يستدعي شرير البذرة لكل عدو مصاب."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","يسبب {DAMAGE}% من الضرر للهدف و{MAXHITS} من الأعداء العشوائيين.
-يستدعي شرير البذرة لكل عدو مصاب."
+[*]يستدعي [#!]شرير البذرة[#] لكل عدو مصاب."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","لإلحاق {DAMAGE}% من الضرر بالهدف و{MAXHITS} الأعداء القريبون. يستدعي صاروخ شرير لإصابة الأعداء. يلحق الشرير ضررًا بالعدو بنسبة {FAMILIARATTACK}% من الهجوم كل جولة. يمتص صاروخ الشرير العلاج ويختفي عندما يمتص صحة تساوي {FAMILIARHEALTHPERCENT}% من الصحة القصوى لمالكها."
 "specials.v2.property.chainstrikewithhitperfamiliar.allies.minion","لإلحاق ضرر إضافي بنسبة {EXTRADAMAGE}% لعدد عشوائي من الأعداء مساوٍ لعدد التوابع الذين يملكهم الحلفاء. يتم خفض الضرر على كل ضربة متتالية."
 "specials.v2.property.chainstrikewithhitperfamiliar.enemies.parasite","لإلحاق ضرر إضافي بنسبة {EXTRADAMAGE}% لعدد عشوائي من الأعداء مساوٍ لعدد الأشرار الذين يملكهم الأعداء. يتم خفض الضرر على كل ضربة متتالية."
@@ -568,7 +568,7 @@
 "specials.v2.property.effectonkill.heal.single.allies.addmana.single.allies.directeffecttargettype.single","إذا تغلب الهجوم على أحد الأعداء، يستعيد منفذ المهارة {EFFECT1POWER}% من الصحة، ويكتسب {EFFECT2POWER}% من القوة."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single","إذا تغلّب الهجوم على الهدف، فإن الرامي يستعيد {FIXEDPOWER} من الصحة."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single.fixedpower","إذا تغلّب الهجوم على الهدف، فإن الرامي يستعيد {FIXEDPOWER} من الصحة."
-"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","إذا تغلب الهجوم على الهدف، يحصل جميع الحلفاء على {EFFECT2POWER}% من القوة، وتُعزز صحة جميع الحلفاء بمقدار {EFFECT1FIXEDPOWER}. يمكن للصحة المعززة تجاوز الحد الأقصى لنقاط الصحة"
+"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","إذا تغلب الهجوم على الهدف، يحصل جميع الحلفاء على {EFFECT2POWER}% من القوة، وتُعزز صحتهم بمقدار {EFFECT1FIXEDPOWER}. يمكن للصحة المعززة تجاوز الحد الأقصى للصحة"
 "specials.v2.property.effectonkill.statuseffect.fearstatuseffectskill.neartotarget.enemies","إذا هُزم الهدف من خلال الهجوم، فسيستسلم الأعداء القريبون للـالخوف طوال {STATUSEFFECT1TURNS} من الجولات."
 "specials.v2.property.effectonkill.statuseffect.insanity.neartotargetexceptmaintarget.enemies","إذا تمت هزيمة الهدف بالهجوم، يتم حينها إلحاق الضرر بالأعداء القريبين بمقدار {STATUSEFFECT1INSANITYTOADD} من الجنون."
 "specials.v2.property.effectonkill.statuseffect.manafreeze.neartotargetexceptmaintarget.enemies","إذا هُزم الهدف من خلال الهجوم، فلن يتمكن الأعداء القريبون من الحصول على أي قوة طوال {STATUSEFFECT1TURNS} من الجولات."
@@ -868,9 +868,9 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.single.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","يلحق {POWER}% من ضرر ضربة الروح بالهدف. تزيل ضربة الروح التعزيزات بأمان قبل إلحاق الضرر."
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectdebuffs.neartotarget.allies.bypassremoveeffects.effectonremoval.healthboost.has_base_power.power_changes_per_removed_status_from_target","يعزز صحة الرامي والحلفاء القريبين بمقدار {FIXEDPOWER} بواسطة هالة الروح. تزيل هالة الروح أمراض الحالة بأمان قبل تعزيز الصحة."
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.all.allies.effectonremoval.addmana.power_changes_per_removed_status_from_target","لتطهير جميع الحلفاء من أمراض الحالات بأمان، وزيادة قوة جميع الحلفاء بنسبة {POWERPERREMOVALFROMTARGET}% لكل مرض تم تطهيره."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra"," ينخفض الضرر بنسبة {POWERPERREMOVALFROMTARGET}% لكل علاوة تمت إزالتها.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","ينخفض الضرر بنسبة {POWERPERREMOVALFROMTARGET}% لكل علاوة تمت إزالتها.
  تتم إزالة العلاوات غير القابلة للتبديد أيضًا."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra"," يتم تقليل تعزيز الصحة بمقدار {FIXEDPOWERPERREMOVALFROMTARGET} لكل مرض تمت إزالته.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","يتم تقليل تعزيز الصحة بمقدار {FIXEDPOWERPERREMOVALFROMTARGET} لكل مرض تمت إزالته.
 يتم أيضا إزالة الأمراض غير القابلة للتطهير."
 "specials.v2.property.repeatspecial.blade_wings.random","بعد الإلقاء الناجح، توجد احتمالية بنسبة {REPEATCHANCE}% لإعادة إلقاء الأجنحة الحادة على هدف عشوائي.
 يمكن إعادة الإلقاء حتى {MAXREPEATS} من المرات، وتقل احتمالية إعادة الإلقاء بنسبة {REPEATCHANCEDECREASE}% بعد كل إلقاء ناجح."
@@ -1031,14 +1031,15 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 يحصل الأعداء الذين لديهم أتباع أو أتباع ضخام على {STATUSEFFECT1DEFENSE}% من الدفاع لمدة {STATUSEFFECT1TURNS} من الأدوار."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","يلحق {POWERFORTARGETSTHATMEETCONDITION}% من الضرر بالأعداء الذين لديهم تعزيزات دفاعية أو أتباع أو أتباع ضخام.
 يحصل الأعداء الذين لديهم تعزيزات دفاعية أو أتباع أو أتباع ضخام على {STATUSEFFECT1DEFENSE}% من الدفاع لمدة {STATUSEFFECT1TURNS} من الأدوار."
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","يتطور شرير البذرة إلى شرير برعم بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.
-يتطور شرير البرعم إلى شرير ضخم مزدهر بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","[*]يتطور [#!]شرير البذرة[#] إلى [#!]شرير برعم[#] بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.
+[*]يتطور [#!]شرير البرعم[#] إلى [#!]شرير ضخم مزدهر[#] بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.
 
-شرير البذرة: {EVOLVINGFAMILIAR1FAMILIARATTACK}% من الهجوم، {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% من الصحة.
- شرير برعم: {EVOLVINGFAMILIAR2FAMILIARATTACK}% من الهجوم، {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% من الصحة.
- شرير ضخم مزدهر: {EVOLVINGFAMILIAR3FAMILIARATTACK}% من الهجوم، {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% من الصحة.
+[*]شرير البذرة[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}% من الهجوم، [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% من الصحة.
+[*] [#!]شرير برعم[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}% من الهجوم، [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% من الصحة.
+[*] [#!]شرير ضخم مزدهر[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}% من الهجوم، [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% من الصحة.
 
-يلحق الشرير ضررًا لهدفه كل جولة. يختفي الشرير بعد امتصاص الشفاء. يعتمد مقدار الشفاء المطلوب على صحة الهدف القصوى."
+[*]يلحق الشرير ضررًا لهدفه كل جولة. يختفي الشرير بعد امتصاص الشفاء. يعتمد مقدار الشفاء المطلوب على صحة الهدف القصوى.
+[*]يتأخر تطور الأشرار بمقدار {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} من الجولات كل مرة يمتصوا فيها الشفاء."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","إذا كان الهدف يمتلك أشرارًا أو أشرارًا ضخمة، فإنه يلحق {DAMAGE}% من الضرر لعدو مختلف عشوائيًا.
 يستدعي الشرير البذرة لكل عدو مصاب."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","إذا كان الهدف يمتلك أشرارًا أو أشرارًا ضخمة، فإنه يلحق {DAMAGE}% من الضرر لعدو مختلف عشوائيًا.
@@ -1057,7 +1058,7 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold","إذا كان لدى الهدف أكثر من {THRESHOLD1}% من الصحة قبل تلقي الضرر، فإنه يستهدف عدوًا آخر لديه أكثر من {THRESHOLD2}% من الصحة فبل تلقي أي ضرر من هذه المهارة الخاصة. إذا لم يكن لدى أي من الأعداء الآخرين صحة بنسبة {THRESHOLD3}%، فسيستهدف عدوًا عشوائيًا. يخف الضرر مع كل ضربة متتالية. لا يمكن إصابة كلِّ عدوٍ إلا مرةً واحدةً."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold.damage_increases","إذا كان لدى الهدف أكثر من {THRESHOLD1}% من الصحة قبل تلقي الضرر، فإنه يستهدف عدوًّا آخر لديه أكثر من {THRESHOLD2}% من الصحة فبل تلقي أي ضرر من هذه المهارة الخاصة. إذا لم يكن لدى أي من الأعداء الآخرين صحة بنسبة {THRESHOLD3}%، فسيستهدف عدوًّا عشوائيًّا. يزداد الضرر مع كل ضربة متتالية. لا يمكن إصابة كلِّ عدوٍ إلا مرةً واحدةً."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_mana_threshold","إذا كان لدى الهدف أكثر من {THRESHOLD1}% من القوة قبل تلقي الضرر، فسيتم استهداف عدو آخر لديه أكثر من {THRESHOLD2}% من القوة فبل تلقي أي ضرر من هذه المهارة الخاصة. إذا لم يكن لدى أي من الأعداء الآخرين قوة بنسبة {THRESHOLD3}%، فسيتم استهداف عدو عشوائي. يخف الضرر مع كل إصابة متتالية. لا يمكن إصابة كلِّ عدوٍ إلا مرةً واحدةً."
-"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","إذا كان لدى الهدف أقل من {THRESHOLD1}% من الصحة قبل تلقي الضرر، فإنه يستهدف عدوًا آخر لديه أقل من {THRESHOLD2}% من الصحة قبل تلقي أي ضرر من هذه المهارة الخاصة. إذا لم يكن لدى أي من الأعداء الآخرين {THRESHOLD3}% من الصحة، فسيستهدف عدوًا عشوائيًا. يقل الضرر مع كل ضربة متتالية. لا يمكن إصابة كلِّ عدوٍ إلا مرةً واحدةً."
+"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","إذا كان لدى الهدف أقل من {THRESHOLD1}% من الصحة قبل تلقي الضرر، فإنه يستهدف عدوًا آخر لديه أقل من {THRESHOLD2}% من الصحة قبل تلقي أي ضرر من هذه المهارة الخاصة. إذا لم يكن لدى أي من الأعداء الآخرين أقل من {THRESHOLD3}% من الصحة، فسيستهدف عدوًا عشوائيًا. يقل الضرر مع كل ضربة متتالية. لا يمكن إصابة كلِّ عدوٍ إلا مرةً واحدةً."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.blue_tiles.all","إذا كان هناك {COUNTREQUIREMENT} أو أكثر من دروع الجليد على اللوح، يتم إلحاق الضرر بجميع الأعداء."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.green_tiles.all","إذا كان هناك {COUNTREQUIREMENT} أو أكثر من دروع الطبيعة على اللوح، يتم إلحاق الضرر بجميع الأعداء."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.purple_tiles.all","إذا كان هناك {COUNTREQUIREMENT} أو أكثر من دروع الظلام على اللوح، يتم إلحاق الضرر بجميع الأعداء."
@@ -2593,3 +2594,4 @@ Min {MINSTAT}% وحد أقصاه {MAXSTAT}% من قيمته الأصلية.
 "specials.v2.strongattack.yellow","يسبب ضرر إضافي ضد المقدس."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","يمكن أن يحدث هذا التأثير مرة واحدة لكل تابع رأس هيدرا."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","عند هزيمة تابع رأس الهيدرا، يتلقى حليف عشوائي تابع رأس هيدرا مُعاد إحياؤه، يرث إحصاءات التابع الأصلي."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","[#!]تكدس +{BASESTACKCOUNT} (الحد الأقصى: {MAXSTACK}):[#] يتم خفض كل الضرر الذي يتلقاه الرامي والحلفاء المجاورون بنسبة {DAMAGEMODIFIER}%."

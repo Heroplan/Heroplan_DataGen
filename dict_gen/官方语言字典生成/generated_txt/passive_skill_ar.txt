@@ -45,7 +45,7 @@
 "herocard.passive_skill.description.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","كل {TURNS} من الأدوار، قم بأكل جميع الأتباع الخاصة بعدو عشوائي واكتسب قدرًا صغيرًا من القوة عن كل تابع تأكله."
 "herocard.passive_skill.description.effectondamagedone.bufftoremove.minordebuff.latest.from.all.allies.safe.specialskill.only_criticals.once","عندما تسجل هذه الشخصية ضربة حرجة باستخدام مهارتها الخاصة، تطهّر آخر حالة مرضية يمكن تطهيرها من جميع الحلفاء بأمان. يمكن تفعيل هذا التأثير مرة واحدة في كل جولة."
 "herocard.passive_skill.description.effectondamagedone.healthboost.all.allies.specialskill.only_criticals.once","عندما تسجل هذه الشخصية ضربة حرجة باستخدام مهارتها الخاصة، تزيد صحة جميع حلفائها بنسبة {HEALTHBOOST}%. يمكن تنشيط هذا التأثير مرة واحدة في كل دور."
-"herocard.passive_skill.description.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill.single.allies.onceperturn"," عندما تصيب المهارة الخاصة لهذه الشخصية شخصية كانت تمتلك نقاط صحة حالية أعلى، يتم اكتساب {PASSIVESKILL1HEALTHBOOST}% من الصحة المعززة. 
+"herocard.passive_skill.description.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill.single.allies.onceperturn","عندما تصيب المهارة الخاصة لهذه الشخصية شخصية كانت تمتلك نقاط صحة حالية أعلى، يتم اكتساب {PASSIVESKILL1HEALTHBOOST}% من الصحة المعززة. 
  عندما تتم إصابة هذه الشخصية بالمهارة الخاصة لشخصية كانت تمتلك نقاط صحة حالية أعلى، يتم اكتساب {PASSIVESKILL2POWER}% من القوة.
 يمكن تفعيل كل تأثير من التأثيرات مرة واحدة في كل جولة."
 "herocard.passive_skill.description.effectondamagereceived.addmana.specialskill.single.allies","عندما تتلقى هذه الشخصية ضرر المهارات الخاصة، تحصل على {POWER}% من القوة."
@@ -232,7 +232,7 @@
 "herocard.passive_skill.description.resist.criticalhits.none","هذه الشخصية منيعة ضد الضرر الإضافي والتأثيرات الإضافية من الضربات الحرجة."
 "herocard.passive_skill.description.resist.defensemodifierdebuffs","هذه الشخصية محصنة ضد حالات الأمراض التي تؤثر في الدفاع. ينطبق ذلك أيضًا على حالات الأمراض التي تؤثر في دفاع العناصر."
 "herocard.passive_skill.description.resist.defensemodifiers.alldebuffs","هذه الشخصية محصنة ضد حالات الأمراض والتراكمات السلبية التي تؤثر في الدفاع. ينطبق ذلك أيضًا على حالات الأمراض التي تؤثر في دفاع العناصر."
-"herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion"," حصانة ضد التأثيرات التي تزيل التابعين.
+"herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion","حصانة ضد التأثيرات التي تزيل التابعين.
  لا يمكن المنع من تلقي التابعين.
  لا يمكن تعطيل هجمات التابعين والقدرات."
 "herocard.passive_skill.description.resist.frost","هذه الشخصية محصنة ضد حالات الأمراض التي تلحق ضرر الصقيع."
@@ -365,32 +365,32 @@
 
 الشرير الضخم المزدهر: 
 {EVOLVINGFAMILIAR3FAMILIARATTACK}% من الهجوم، {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% من الصحة."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","يستدعي شرير بذرة كل جولة إلى عدو عشوائي. هذه المهارة الكامنة تنشط فقط مرة واحدة في الجولة لكل فريق.
-يتطور الشرير البذرة ليصبح شريرًا برعمًا بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.
-يتطور الشرير البرعم إلى شرير ضخم مزدهر بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.
-يتأخر تطور الأشرار بمقدار {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} من الجولات في كل مرة يمتصون بها الشفاء.
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","يستدعي [#!]شرير بذرة[#] كل جولة إلى عدو عشوائي. هذه المهارة الكامنة تنشط فقط مرة واحدة في الجولة لكل فريق.
+[*]يتطور [#!]الشرير البذرة[#] ليصبح [#!]شريرًا برعمًا[#] بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.
+[*]يتطور [#!]الشرير البرعم[#] إلى [#!]شرير ضخم مزدهر[#] بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.
+[*]يتأخر تطور الأشرار بمقدار {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} من الجولات في كل مرة يمتصون بها الشفاء.
 
-الشرير البذرة: 
-{EVOLVINGFAMILIAR1FAMILIARATTACK}% من الهجوم، {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% من الصحة.
+[#!]الشرير البذرة[#]: 
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]% من الهجوم، [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]% من الصحة.
 
-الشرير البرعم: 
-{EVOLVINGFAMILIAR2FAMILIARATTACK}% من الهجوم {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% من الصحة.
+[#!]الشرير البرعم[#]: 
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#]% من الهجوم [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#]% من الصحة.
 
-الشرير الضخم المزدهر: 
-{EVOLVINGFAMILIAR3FAMILIARATTACK}% من الهجوم، {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% من الصحة."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","يستدعي شرير بذرة كل جولة إلى عدو عشوائي. هذه المهارة الكامنة تنشط فقط مرة واحدة في الجولة لكل فريق.
-يتطور الشرير البذرة ليصبح شريرًا برعمًا بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.
-يتطور الشرير البرعم إلى شرير ضخم مزدهر بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.
-يتأخر تطور الأشرار بمقدار {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} من الجولات في كل مرة يمتصون بها الشفاء.
+[#!]الشرير الضخم المزدهر[#]: 
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] من الهجوم، [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] من الصحة."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","يستدعي [#!]شرير بذرة[#] كل جولة إلى عدو عشوائي. هذه المهارة الكامنة تنشط فقط مرة واحدة في الجولة لكل فريق.
+[*]يتطور [#!]الشرير البذرة[#] ليصبح [#!]شريرًا برعمًا[#] بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.
+[*]يتطور [#!]الشرير البرعم[#] إلى [#!]شرير ضخم مزدهر[#] بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.
+[*]يتأخر تطور الأشرار بمقدار {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} من الجولات في كل مرة يمتصون بها الشفاء.
 
-الشرير البذرة: 
-{EVOLVINGFAMILIAR1FAMILIARATTACK}% من الهجوم، {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% من الصحة.
+[#!]الشرير البذرة[#]: 
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]% من الهجوم، [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]% من الصحة.
 
-الشرير البرعم: 
-{EVOLVINGFAMILIAR2FAMILIARATTACK}% من الهجوم {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% من الصحة.
+[#!]الشرير البرعم[#]: 
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#]% من الهجوم [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#]% من الصحة.
 
-الشرير الضخم المزدهر: 
-{EVOLVINGFAMILIAR3FAMILIARATTACK}% من الهجوم، {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% من الصحة."
+[#!]الشرير الضخم المزدهر[#]: 
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] من الهجوم، [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] من الصحة."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","عندما تتعرض هذه الشخصية للهزيمة، ستستدعي أتباع السلايم الضخام إلى الحلفاء المجاورين، بصحة قدرها {FAMILIARHEALTHPERCENT}%، وهجوم قدره {FAMILIARATTACK}% مَوروثَين من هذه الشخصية."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","عندما تتعرض هذه الشخصية للهزيمة، ستستدعي أتباع السلايم الضخام إلى الحلفاء المجاورين، بصحة قدرها {FAMILIARHEALTHPERCENT}%، وهجوم قدره {FAMILIARATTACK}% مَوروثَين من هذه الشخصية."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","عندما تتعرض هذه الشخصية للهزيمة، ستستدعي أتباع السلايم الضخام إلى الحلفاء المجاورين، بصحة قدرها {FAMILIARHEALTHPERCENT}%، وهجوم قدره {FAMILIARATTACK}% مَوروثَين من هذه الشخصية."
@@ -719,3 +719,16 @@
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","تحويل التعزيزات"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","تحويل حالة الأمراض"
 "herocard.passive_skill.title.wither.all.enemies","التلف"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","يستدعي [#!]شرير بذرة[#] كل جولة إلى عدو عشوائي./
+[*]يتطور [#!]الشرير البذرة[#] ليصبح [#!]شريرًا برعمًا[#] بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.
+[*]يتطور [#!]الشرير البرعم[#] إلى [#!]شرير ضخم مزدهر[#] بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.
+[*]يتأخر تطور الأشرار بمقدار {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} من الجولات في كل مرة يمتصون بها الشفاء.
+
+[#!]الشرير البذرة[#]: 
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]% من الهجوم، [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]% من الصحة.
+
+[#!]الشرير البرعم[#]: 
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#]% من الهجوم [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#]% من الصحة.
+
+[#!]الشرير الضخم المزدهر[#]: 
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] من الهجوم، [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] من الصحة."

@@ -522,7 +522,7 @@
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","Наносит {DAMAGE} % урона цели и случайным врагам (вплоть до ({MAXHITS})).
 Призывает росток-паразит к задетым врагам."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","Наносит {DAMAGE} % урона цели и случайным врагам (вплоть до ({MAXHITS})).
-Призывает росток-паразит к задетым врагам."
+[*]Призывает [#!]росток-паразит[#] к задетым врагам."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","Наносит {DAMAGE} % урона цели и {MAXHITS} случайным врагам.
 Призывает снаряд-паразит для цели и врагов поблизости. Паразит атакует врага с силой {FAMILIARATTACK} % атаки каждый ход.
 Снаряд-паразит поглощает лечение и исчезает, когда впитает здоровье в количестве, равном {FAMILIARHEALTHPERCENT} % макс. здоровья владельца."
@@ -633,7 +633,7 @@
 "specials.v2.property.effectonkill.heal.single.allies.addmana.single.allies.directeffecttargettype.single","Если в результате атаки враг побежден, герой восстанавливает {EFFECT1POWER} % здоровья и получает {EFFECT2POWER} % маны."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single","Если атака побеждает цель, герой восстанавливает {FIXEDPOWER} здоровья."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single.fixedpower","Если атака побеждает цель, герой восстанавливает {FIXEDPOWER} здоровья."
-"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","Если в результате атаки цель побеждена, все союзники получают {EFFECT2POWER} % маны и усиление здоровья на {EFFECT1FIXEDPOWER}. Повышенное здоровье может превысить максимум."
+"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","Если цель побеждена атакой, все союзники получают {EFFECT2POWER} % маны, а их здоровье увеличивается на {EFFECT1FIXEDPOWER}. Увеличенное здоровье не может превышать максимальное."
 "specials.v2.property.effectonkill.statuseffect.fearstatuseffectskill.neartotarget.enemies","Если цель побеждена атакой, врагов поблизости охватывает страх на {STATUSEFFECT1TURNS} х."
 "specials.v2.property.effectonkill.statuseffect.insanity.neartotargetexceptmaintarget.enemies","Если цель побеждена атакой, враги поблизости получают {STATUSEFFECT1INSANITYTOADD} ед. безумия."
 "specials.v2.property.effectonkill.statuseffect.manafreeze.neartotargetexceptmaintarget.enemies","Если цель побеждена атакой, враги поблизости не могут получить ману в течение {STATUSEFFECT1TURNS} х."
@@ -939,9 +939,9 @@
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.single.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","Наносит {POWER} % урона удара духа цели. Удар духа безопасно снимает усиления, затем наносит урон."
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectdebuffs.neartotarget.allies.bypassremoveeffects.effectonremoval.healthboost.has_base_power.power_changes_per_removed_status_from_target","Повышает здоровье героя и ближайших союзников на {FIXEDPOWER} с помощью ауры духа. Аура духа безопасно снимает недуги, затем повышает здоровье."
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.all.allies.effectonremoval.addmana.power_changes_per_removed_status_from_target","Безопасно очищает всех союзников от всех недугов и увеличивает их ману на {POWERPERREMOVALFROMTARGET} % за каждый очищенный недуг."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra"," Уменьшаетс урон на {POWERPERREMOVALFROMTARGET} % за каждое снятое усиление.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","Уменьшаетс урон на {POWERPERREMOVALFROMTARGET} % за каждое снятое усиление.
  Также снимает усиления, которые нельзя снять."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra"," Снижает увеличенное здоровье на {FIXEDPOWERPERREMOVALFROMTARGET} за каждый снятый недуг.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","Снижает увеличенное здоровье на {FIXEDPOWERPERREMOVALFROMTARGET} за каждый снятый недуг.
  Также снимает недуги, которые нельзя очистить."
 "specials.v2.property.repeatspecial.blade_wings.random","При успешном использовании с вероятностью {REPEATCHANCE} % повторно вызывает крылья-клинки у случайной цели.
 Можно повторить до {MAXREPEATS} р., после каждого успешного использования вероятность снижается на {REPEATCHANCEDECREASE} %."
@@ -1112,14 +1112,15 @@
 Враги с прислужниками или мегаприслужниками получают {STATUSEFFECT1DEFENSE} % защиты на {STATUSEFFECT1TURNS} х."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","Наносит {POWERFORTARGETSTHATMEETCONDITION} % урона врагам с защитными усилениями, прислужниками или мегаприслужниками.
 Враги с защитными усилениями, прислужниками или мегаприслужниками получают {STATUSEFFECT1DEFENSE} % защиты на {STATUSEFFECT1TURNS} х."
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","Росток-паразит превращается в пророщенного паразита спустя {EVOLVINGFAMILIAR1EVOLVETURNS} х.
-Пророщенный паразит превращается в цветущего мегапаразита спустя {EVOLVINGFAMILIAR2EVOLVETURNS} х.
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","[#!]Росток-паразит[#] превращается в [#!]пророщенного паразита[#] спустя {EVOLVINGFAMILIAR1EVOLVETURNS} х.
+[*][#!]Пророщенный паразит[#] превращается в [#!]цветущего мегапаразита[#] спустя {EVOLVINGFAMILIAR2EVOLVETURNS} х.
 
- Росток-паразит: {EVOLVINGFAMILIAR1FAMILIARATTACK} % атаки, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % здоровья.
- Пророщенный паразит: {EVOLVINGFAMILIAR2FAMILIARATTACK} % атаки, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % здоровья.
- Цветущий мегапаразит: {EVOLVINGFAMILIAR3FAMILIARATTACK} % атаки, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % здоровья.
+[*] [#!]Росток-паразит[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] % атаки, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] % здоровья
+[*] [#!]Пророщенный паразит[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] % атаки, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] % здоровья
+[*] [#!]Цветущий мегапаразит[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % атаки, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % здоровья
 
-Паразит наносит урон своей цели каждый ход. Паразит поглощает лечение и исчезает, когда впитает исцеление в размере, зависящем от макс. здоровья цели."
+[*]Паразит наносит урон своей цели каждый ход. Паразит поглощает лечение и исчезает, когда впитает исцеление в размере, зависящем от макс. здоровья цели.
+[*]Эволюция паразитов задерживается на {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} х. всякий раз, когда они поглощают лечение."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","Если у цели есть паразиты или мегапаразиты, наносит {DAMAGE} % урона случайному врагу.
 Призывает росток-паразит к задетым врагам."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","Если у цели есть паразиты или мегапаразиты, наносит {DAMAGE} % урона случайному врагу.
@@ -1138,7 +1139,7 @@
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold","Если у цели было больше {THRESHOLD1} % здоровья до получения урона, выбирает целью другого врага, у которого было больше {THRESHOLD2} % здоровья до получения любого урона от этого особого навыка. Если ни у одного врага нет {THRESHOLD3} % здоровья, выбирает целью случайного врага. Урон снижается после каждого попадания. Каждого врага можно атаковать только один раз."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold.damage_increases","Если у цели было больше {THRESHOLD1} % здоровья до получения урона, выбирает целью другого врага, у которого было больше {THRESHOLD2} % здоровья до получения любого урона от этого особого навыка. Если ни у одного врага нет {THRESHOLD3} % здоровья, выбирает целью случайного врага. Урон увеличивается после каждого попадания. Каждого врага можно атаковать только один раз."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_mana_threshold","Если у цели было больше {THRESHOLD1} % маны до получения урона, выбирает целью другого врага, у которого было больше {THRESHOLD2} % маны до получения любого урона от этого особого навыка. Если ни у одного врага нет {THRESHOLD3} % маны, выбирает целью случайного врага. Урон снижается после каждого попадания. Каждого врага можно атаковать только один раз."
-"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","Если у цели было меньше {THRESHOLD1} % здоровья до получения урона, выбирает целью другого врага, у которого было меньше {THRESHOLD2} % здоровья до получения любого урона от этого особого навыка. Если ни у одного врага нет {THRESHOLD3} % здоровья, выбирает целью случайного врага. Урон снижается после каждого попадания. Каждого врага можно атаковать только один раз."
+"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","Если у цели было меньше {THRESHOLD1} % здоровья до получения урона, выбирает целью другого врага, у которого было меньше {THRESHOLD2} % здоровья до получения любого урона от этого особого навыка. Если ни у одного врага нет здоровья меньше, чем {THRESHOLD3} %, выбирает целью случайного врага. Урон снижается после каждого попадания. Каждого врага можно атаковать только один раз."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.blue_tiles.all","Если на поле не менее {COUNTREQUIREMENT} щитов льда, урон наносится всем врагам."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.green_tiles.all","Если на поле не менее {COUNTREQUIREMENT} щитов природы, урон наносится всем врагам."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.purple_tiles.all","Если на поле не менее {COUNTREQUIREMENT} щитов тьмы, урон наносится и недуги передаются всем врагам."
@@ -2690,3 +2691,4 @@
 "specials.v2.strongattack.yellow","Наносит дополнительный урон Святыне."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","Эффект может сработать только один раз за каждую голову гидры."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","Когда голова гидры погибает, случайный союзник получает перерожденную голову гидры с теми же характеристиками, что и у исходного прислужника."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","[#!]Сумма +{BASESTACKCOUNT} (до {MAXSTACK}):[#] Весь урон герою и союзникам рядом снижается на {DAMAGEMODIFIER} %."

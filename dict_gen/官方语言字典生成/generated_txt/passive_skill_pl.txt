@@ -45,7 +45,7 @@ Obrażenia dodatkowe: +{MODIFIER}%"
 "herocard.passive_skill.description.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","Po każdych {TURNS} turach pożera wszystkich pomocników losowego wroga i zdobywa małą ilość many za każdego pożartego pomocnika."
 "herocard.passive_skill.description.effectondamagedone.bufftoremove.minordebuff.latest.from.all.allies.safe.specialskill.only_criticals.once","Gdy ta postać trafi krytycznie umiejętnością specjalną, bezpiecznie oczyszcza wszystkich sojuszników z ostatniej oczyszczalnej dolegliwości ze statusu. Efekt ten może się aktywować raz na turę."
 "herocard.passive_skill.description.effectondamagedone.healthboost.all.allies.specialskill.only_criticals.once","Gdy ta postać trafi krytycznie umiejętnością specjalną, wzmacnia zdrowie wszystkich sojuszników o {HEALTHBOOST}%. Efekt ten może się aktywować raz na turę."
-"herocard.passive_skill.description.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill.single.allies.onceperturn"," Gdy specjalna umiejętność tej postaci trafi postać, która ma więcej bieżących PŻ, zyskuje {PASSIVESKILL1HEALTHBOOST}% wzmocnionego zdrowia.
+"herocard.passive_skill.description.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill.single.allies.onceperturn","Gdy specjalna umiejętność tej postaci trafi postać, która ma więcej bieżących PŻ, zyskuje {PASSIVESKILL1HEALTHBOOST}% wzmocnionego zdrowia.
  Gdy ta postać zostanie trafiona umiejętnością specjalną postaci, która ma więcej bieżących PŻ, zyskuje {PASSIVESKILL2POWER}% many.
 Każdy z tych efektów może się aktywować raz na turę."
 "herocard.passive_skill.description.effectondamagereceived.addmana.specialskill.single.allies","Gdy ta postać otrzymuje obrażenia od umiejętności specjalnych, otrzymuje {POWER}% many."
@@ -232,7 +232,7 @@ Obejmuje to wzmocnienia i dolegliwości ze statusu, pozytywne i negatywne kumula
 "herocard.passive_skill.description.resist.criticalhits.none","Ta postać jest odporna na dodatkowe obrażenia i efekty od trafień krytycznych."
 "herocard.passive_skill.description.resist.defensemodifierdebuffs","Ten wróg ma odporność na dolegliwości ze statusu, które wpływają na obronę. Nie dotyczy dolegliwości ze statusu wpływających na obronę przed żywiołami."
 "herocard.passive_skill.description.resist.defensemodifiers.alldebuffs","Ten wróg ma odporność na dolegliwości ze statusu i kumulacje negatywne, które wpływają na obronę. Nie dotyczy dolegliwości ze statusu wpływających na obronę przed żywiołami."
-"herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion"," Odporność na usunięcie pomocników.
+"herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion","Odporność na usunięcie pomocników.
  Nie można zapobiec pojawianiu się pomocników.
  Nie można wyłączyć ataków i umiejętności pomocników."
 "herocard.passive_skill.description.resist.frost","Ta postać ma odporność na dolegliwości ze statusu, które zadają obrażenia od mrozu."
@@ -365,32 +365,32 @@ Kiełkujący potwór:
 
 Kwitnący mega potwór:
 {EVOLVINGFAMILIAR3FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% zdrowia."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Co turę wzywa na losowego wroga potwora sadzonkę. Ta umiejętność pasywna aktywuje się tylko raz na turę dla każdej drużyny.
- Potwór sadzonka ewoluuje w kiełkującego potwora po upływie {EVOLVINGFAMILIAR1EVOLVETURNS} tur.
- Kiełkujący potwór ewoluuje w kwitnącego mega potwora po upływie {EVOLVINGFAMILIAR2EVOLVETURNS} tur.
-Ewolucja potworów zostaje opóźniona o {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tur(y) za każdym razem, gdy pochłoną leczenie.
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Co turę wzywa na losowego wroga [#!]potwora sadzonkę[#]. Ta umiejętność pasywna aktywuje się tylko raz na turę dla każdej drużyny.
+[*] [#!]Potwór sadzonka[#] ewoluuje w [#!]kiełkującego potwora[#] po upływie {EVOLVINGFAMILIAR1EVOLVETURNS} tur.
+[*] [#!]Kiełkujący potwór[#] ewoluuje w [#!]kwitnącego mega potwora[#] po upływie {EVOLVINGFAMILIAR2EVOLVETURNS} tur.
+[*]Ewolucja potworów zostaje opóźniona o {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tur(y) za każdym razem, gdy pochłoną leczenie.
 
-Potwór sadzonka: 
-{EVOLVINGFAMILIAR1FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% zdrowia.
+[#!]Potwór sadzonka[#]: 
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] ataku, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] zdrowia.
 
-Kiełkujący potwór:
-{EVOLVINGFAMILIAR2FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% zdrowia.
+[#!]Kiełkujący potwór[#]:
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] ataku, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] zdrowia.
 
-Kwitnący mega potwór:
-{EVOLVINGFAMILIAR3FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% zdrowia."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Co turę wzywa na losowego wroga potwora sadzonkę. Ta umiejętność pasywna aktywuje się tylko raz na turę dla każdej drużyny.
- Potwór sadzonka ewoluuje w kiełkującego potwora po upływie {EVOLVINGFAMILIAR1EVOLVETURNS} tur.
- Kiełkujący potwór ewoluuje w kwitnącego mega potwora po upływie {EVOLVINGFAMILIAR2EVOLVETURNS} tur.
-Ewolucja potworów zostaje opóźniona o {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tur(y) za każdym razem, gdy pochłoną leczenie.
+[#!]Kwitnący mega potwór[#]:
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] ataku, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] zdrowia."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Co turę wzywa na losowego wroga [#!]potwora sadzonkę[#]. Ta umiejętność pasywna aktywuje się tylko raz na turę dla każdej drużyny.
+[*] [#!]Potwór sadzonka[#] ewoluuje w [#!]kiełkującego potwora[#] po upływie {EVOLVINGFAMILIAR1EVOLVETURNS} tur.
+[*] [#!]Kiełkujący potwór[#] ewoluuje w [#!]kwitnącego mega potwora[#] po upływie {EVOLVINGFAMILIAR2EVOLVETURNS} tur.
+[*]Ewolucja potworów zostaje opóźniona o {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tur(y) za każdym razem, gdy pochłoną leczenie.
 
-Potwór sadzonka: 
-{EVOLVINGFAMILIAR1FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% zdrowia.
+[#!]Potwór sadzonka[#]: 
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] ataku, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] zdrowia.
 
-Kiełkujący potwór:
-{EVOLVINGFAMILIAR2FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% zdrowia.
+[#!]Kiełkujący potwór[#]:
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] ataku, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] zdrowia.
 
-Kwitnący mega potwór:
-{EVOLVINGFAMILIAR3FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% zdrowia."
+[#!]Kwitnący mega potwór[#]:
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] ataku, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] zdrowia."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Gdy ta postać zostanie pokonana, wzywa dla pobliskich sojuszników śluzowych mega pomocników z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od tej postaci."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Gdy ta postać zostanie pokonana, wzywa dla pobliskich sojuszników śluzowych mega pomocników z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od tej postaci."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Gdy ta postać zostanie pokonana, wzywa dla pobliskich sojuszników śluzowych mega pomocników z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od tej postaci."
@@ -719,3 +719,16 @@ Gibka postawa"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Przemiana wzmocnień"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Przemiana dolegliwości"
 "herocard.passive_skill.title.wither.all.enemies","Susza"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Co turę wzywa na losowego wroga [#!]potwora sadzonkę[#].
+[*] [#!]Potwór sadzonka[#] ewoluuje w [#!]kiełkującego potwora[#] po upływie {EVOLVINGFAMILIAR1EVOLVETURNS} tur.
+[*] [#!]Kiełkujący potwór[#] ewoluuje w [#!]kwitnącego mega potwora[#] po upływie {EVOLVINGFAMILIAR2EVOLVETURNS} tur.
+[*]Ewolucja potworów zostaje opóźniona o {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tur(y) za każdym razem, gdy pochłoną leczenie.
+
+[#!]Potwór sadzonka[#]: 
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] ataku, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] zdrowia.
+
+[#!]Kiełkujący potwór[#]:
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] ataku, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] zdrowia.
+
+[#!]Kwitnący mega potwór[#]:
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] ataku, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] zdrowia."

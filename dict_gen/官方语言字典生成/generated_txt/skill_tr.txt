@@ -517,7 +517,7 @@ Alınan şifayı etkileyen durum efektleri, şifa ölçeklendirmeyi etkiler."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","Hedefe ve rastgele {MAXHITS} düşmana %{DAMAGE} hasar verir.
 Vurulan her düşmana bir Fide Canavarı çağırır."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","Hedefe ve rastgele {MAXHITS} düşmana %{DAMAGE} hasar verir.
-Vurulan her düşmana bir Fide Canavarı çağırır."
+[*]Vurulan her düşmana bir [#!]Fide Canavarı[#] çağırır."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","Hedefe ve rastgele {MAXHITS} düşmana %{DAMAGE} hasar verir.
 Hedef ve yakındaki düşmanlar için bir Füze Canavarı çağırır. Canavar, %{FAMILIARATTACK} saldırıyla tüm düşmanlara her turda hasar verir.
 Füze Canavarı, şifayı emer ve sahibinin maks. sağlığını %{FAMILIARHEALTHPERCENT} oranında emince ortadan kaybolur."
@@ -628,7 +628,7 @@ Karanlık Küp, hedefin maksimum sağlığını {REDUCTION} düşürür. Efekt, 
 "specials.v2.property.effectonkill.heal.single.allies.addmana.single.allies.directeffecttargettype.single","Saldırı sonucunda bir düşman yenilirse eylemci %{EFFECT1POWER} sağlık yeniler ve %{EFFECT2POWER} mana kazanır."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single","Hedef, saldırı sonucunda yenilirse eylemci {FIXEDPOWER} sağlık yeniler."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single.fixedpower","Hedef, saldırı sonucunda yenilirse eylemci {FIXEDPOWER} sağlık yeniler."
-"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","Hedef, saldırı sonucunda yenilirse tüm müttefikler %{EFFECT2POWER} mana kazanır ve tüm müttefiklerin sağlığı {EFFECT1FIXEDPOWER} artar. Güçlendirilmiş sağlık, maks. SP'yi geçebilir"
+"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","Hedef, saldırı sonucunda yenilirse tüm müttefikler %{EFFECT2POWER} mana kazanır ve sağlıkları {EFFECT1FIXEDPOWER} artar. Güçlendirilmiş sağlık, maks. SP'yi geçebilir"
 "specials.v2.property.effectonkill.statuseffect.fearstatuseffectskill.neartotarget.enemies","Saldırı sonucunda hedef yenilirse yakındaki düşmanlar {STATUSEFFECT1TURNS} tur boyunca Korkuya yenik düşerler."
 "specials.v2.property.effectonkill.statuseffect.insanity.neartotargetexceptmaintarget.enemies","Hedef bu saldırıyla yenilirse yakındaki düşmanlara {STATUSEFFECT1INSANITYTOADD} Delilik efekti uygulanır."
 "specials.v2.property.effectonkill.statuseffect.manafreeze.neartotargetexceptmaintarget.enemies","Saldırı sonucunda hedef yenilirse yakındaki düşmanlar {STATUSEFFECT1TURNS} tur boyunca mana kazanamazlar."
@@ -934,9 +934,9 @@ Güvenli çalma, kaldırılan buff'ın kaldırmadan sonra hasar gibi ikincil efe
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.single.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","Hedefe %{POWER} Ruh Kesiği hasarı verir. Ruh Kesiği, hasar vermeden önce buff'ları güvenle kaldırır."
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectdebuffs.neartotarget.allies.bypassremoveeffects.effectonremoval.healthboost.has_base_power.power_changes_per_removed_status_from_target","Eylemcinin ve yakındaki müttefiklerin sağlığını Ruh Aurası ile {FIXEDPOWER} güçlendirir. Ruh Aurası, sağlığı güçlendirmeden önce durum engellerini güvenle kaldırır."
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.all.allies.effectonremoval.addmana.power_changes_per_removed_status_from_target","Tüm müttefiklerden tüm durum engellerini güvenle arındırır ve arındırılan her engel için tüm müttefiklerin manasını %{POWERPERREMOVALFROMTARGET} artırır."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra"," Hasar, kaldırılan her buff için %{POWERPERREMOVALFROMTARGET} azalır.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","Hasar, kaldırılan her buff için %{POWERPERREMOVALFROMTARGET} azalır.
  Bozulamaz buff'lar da kaldırılır."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra"," Sağlık artışı, kaldırılan her engel için {FIXEDPOWERPERREMOVALFROMTARGET} azalır.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","Sağlık artışı, kaldırılan her engel için {FIXEDPOWERPERREMOVALFROMTARGET} azalır.
  Arındırılamaz engeller de kaldırılır."
 "specials.v2.property.repeatspecial.blade_wings.random","Başarılı bir uygulamadan sonra %{REPEATCHANCE} şansla rastgele bir hedefe tekrar Kılıç Kanatlar uygular.
 {MAXREPEATS} defaya kadar tekrar uygulayabilir ve tekrar uygulama şansı, her başarılı uygulamadan sonra %{REPEATCHANCEDECREASE} azalır."
@@ -1107,14 +1107,15 @@ Hizmetkarları veya Mega Hizmetkarları olan düşmanlar {STATUSEFFECT1TURNS} tu
 Hizmetkarları veya Mega Hizmetkarları olan düşmanlar {STATUSEFFECT1TURNS} tur boyunca %{STATUSEFFECT1DEFENSE} savunma alır."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","Savunma buff'ları, Hizmetkarları veya Mega Hizmetkarları olan düşmanlara %{POWERFORTARGETSTHATMEETCONDITION} hasar verir.
 Savunma buff'ları, Hizmetkarları veya Mega Hizmetkarları olan düşmanlar {STATUSEFFECT1TURNS} tur boyunca %{STATUSEFFECT1DEFENSE} savunma alır."
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","Fide Canavarı, {EVOLVINGFAMILIAR1EVOLVETURNS} tur sonra bir Filiz Canavarına evrilir.
-Filiz Canavarı, {EVOLVINGFAMILIAR2EVOLVETURNS} tur sonra bir Çiçek Açan Mega Canavara evrilir.
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","[#!]Fide Canavarı[#], {EVOLVINGFAMILIAR1EVOLVETURNS} tur sonra bir [#!]Filiz Canavarına[#] evrilir.
+[*][#!]Filiz Canavarı[#], {EVOLVINGFAMILIAR2EVOLVETURNS} tur sonra bir [#!]Çiçek Açan Mega Canavara[#] evrilir.
 
- Fide Canavarı: %{EVOLVINGFAMILIAR1FAMILIARATTACK} saldırı, %{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} sağlık.
- Filiz Canavarı: %{EVOLVINGFAMILIAR2FAMILIARATTACK} saldırı, %{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} sağlık.
- Çiçek Açan Mega Canavar: %{EVOLVINGFAMILIAR3FAMILIARATTACK} saldırı, %{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} sağlık.
+[*] [#!]Fide Canavarı[#]: [#!]%{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] saldırı, [#!]%{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] sağlık.
+[*] [#!]Filiz Canavarı[#]: [#!]%{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] saldırı, [#!]%{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] sağlık.
+[*] [#!]Çiçek Açan Mega Canavar[#]: [#!]%{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] saldırı, [#!]%{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] sağlık.
 
-Canavar, her turda hedefine hasar verir. Canavar, şifa emdikten sonra ortadan kaybolur. Gereken şifa miktarı hedefin maks. sağlığına bağlıdır."
+[*]Canavar, her turda hedefine hasar verir. Canavar, şifa emdikten sonra ortadan kaybolur. Gereken şifa miktarı hedefin maks. sağlığına bağlıdır.
+[*]Canavarlar her şifa emdiklerinde evrilmeleri {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tur gecikir."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","Hedefin Canavarları veya Mega Canavarları varsa farklı rastgele bir düşmana %{DAMAGE} hasar verir.
 Vurulan her düşmanda bir Fide Canavarı çağırır."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","Hedefin Canavarları veya Mega Canavarları varsa farklı rastgele bir düşmana %{DAMAGE} hasar verir.
@@ -1133,7 +1134,7 @@ Vurulan her düşmanda bir Fide Canavarı çağırır."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold","Hedefin hasar almadan önceki sağlığı %{THRESHOLD1} oranından daha yüksekse bu Özel Yetenekten hasar almadan önce sağlığı %{THRESHOLD2} oranından daha yüksek olan bir düşmanı hedef alır. Diğer düşmanların hiçbirinin sağlığı %{THRESHOLD3} değilse rastgele bir düşmanı hedef alır. Ardışık her darbede hasar azaltılır. Her düşmana yalnızca bir defa vurulabilir."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold.damage_increases","Hedefin hasar almadan önceki sağlığı %{THRESHOLD1} oranından daha yüksekse bu Özel Yetenekten hasar almadan önce sağlığı %{THRESHOLD2} oranından daha yüksek olan bir düşmanı hedef alır. Diğer düşmanların hiçbirinin sağlığı %{THRESHOLD3} değilse rastgele bir düşmanı hedef alır. Ardışık her darbede hasar artar. Her düşmana yalnızca bir defa vurulabilir."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_mana_threshold","Hedefin hasar almadan önceki manası %{THRESHOLD1} oranından daha yüksekse bu Özel Yetenekten hasar almadan önce manası %{THRESHOLD2} oranından daha yüksek olan bir düşmanı hedef alır. Diğer düşmanların hiçbirinin manası %{THRESHOLD3} değilse rastgele bir düşmanı hedef alır. Ardışık her darbede hasar azaltılır. Her düşmana yalnızca bir defa vurulabilir."
-"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","Hedefin hasar almadan önceki sağlığı %{THRESHOLD1} oranından daha azsa bu Özel Yetenekten hasar almadan önce sağlığı %{THRESHOLD2} oranından daha az olan bir düşmanı hedef alır. Diğer düşmanların hiçbirinin sağlığı %{THRESHOLD3} değilse rastgele bir düşmanı hedef alır. Ardışık her darbede hasar azaltılır. Her düşmana yalnızca bir defa vurulabilir."
+"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","Hedefin hasar almadan önceki sağlığı %{THRESHOLD1} oranından daha azsa bu Özel Yetenekten hasar almadan önce sağlığı %{THRESHOLD2} oranından daha az olan başka bir düşmanı hedef alır. Diğer düşmanların hiçbirinin sağlığı %{THRESHOLD3} oranından az değilse rastgele bir düşmanı hedef alır. Ardışık her darbede hasar azaltılır. Her düşmana yalnızca bir defa vurulabilir."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.blue_tiles.all","Panoda {COUNTREQUIREMENT} veya daha fazla Buz kalkanı varsa bunun yerine hasar tüm düşmanlara verilir."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.green_tiles.all","Panoda {COUNTREQUIREMENT} veya daha fazla Doğa kalkanı varsa bunun yerine hasar tüm düşmanlara verilir."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.purple_tiles.all","Panoda {COUNTREQUIREMENT} veya daha fazla Karanlık kalkanı varsa bunun yerine hasar ve durum engelleri tüm düşmanlara verilir."
@@ -2688,3 +2689,4 @@ Kahramanın Deliliği, bir Özel Yetenekle doğrudan iyileştirilerek düşürü
 "specials.v2.strongattack.yellow","Kutsala ekstra hasar verir."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","Bu efekt yalnızca her Hidra Başı Hizmetkarı için bir defa gerçekleşebilir."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","Hidra Başı Hizmetkarı yenildiğinde rastgele bir müttefik, asıl Hizmetkarın istatistiklerini devralan bir Yeniden Doğan Hidra Başı Hizmetkarı alır."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","[#!]İstif +{BASESTACKCOUNT} (Maks.: {MAXSTACK}):[#] Eylemcinin ve yakındaki müttefiklerin aldığı tüm hasar %{DAMAGEMODIFIER} azalır."

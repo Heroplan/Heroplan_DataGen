@@ -388,32 +388,32 @@
 
 開花のメガフィエンド：
 攻撃力{EVOLVINGFAMILIAR3FAMILIARATTACK}%、ライフ{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","毎ターン、ランダムに敵1体に対して苗木のフィエンドをサモンする。このパッシブスキルは各チームにつき1回だけ発動する。
-苗木のフィエンドは{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に新芽のフィエンドに進化する。
-新芽のフィエンドは{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に開花のメガフィエンドに進化する。
-回復を吸収するたびにフィエンドの進化は{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}ターン遅延する。
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","毎ターン、ランダムに敵1体に対して[#!]苗木のフィエンド[#]をサモンする。このパッシブスキルは各チームにつき1回だけ発動する。
+[*][#!]苗木のフィエンド[#]は{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に[#!]新芽のフィエンド[#]に進化する。
+[*][#!]新芽のフィエンド[#]は{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に[#!]開花のメガフィエンド[#]に進化する。
+[*]回復を吸収するたびにフィエンドの進化は{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}ターン遅延する。
 
-苗木のフィエンド：
-攻撃力{EVOLVINGFAMILIAR1FAMILIARATTACK}%、ライフ{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%
+[#!]苗木のフィエンド[#]：
+攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]%
 
-新芽のフィエンド：
-攻撃力{EVOLVINGFAMILIAR2FAMILIARATTACK}%、ライフ{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%
+[#!]新芽のフィエンド[#]：
+攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#]%
 
-開花のメガフィエンド：
-攻撃力{EVOLVINGFAMILIAR3FAMILIARATTACK}%、ライフ{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","毎ターン、ランダムに敵1体に対して苗木のフィエンドをサモンする。このパッシブスキルは各チームにつき1回だけ発動する。
-苗木のフィエンドは{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に新芽のフィエンドに進化する。
-新芽のフィエンドは{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に開花のメガフィエンドに進化する。
-回復を吸収するたびにフィエンドの進化は{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}ターン遅延する。
+[#!]開花のメガフィエンド[#]：
+攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#]%"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","毎ターン、ランダムに敵1体に対して[#!]苗木のフィエンド[#]をサモンする。このパッシブスキルは各チームにつき1回だけ発動する。
+[*][#!]苗木のフィエンド[#]は{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に[#!]新芽のフィエンド[#]に進化する。
+[*][#!]新芽のフィエンド[#]は{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に[#!]開花のメガフィエンド[#]に進化する。
+[*]回復を吸収するたびにフィエンドの進化は{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}ターン遅延する。
 
-苗木のフィエンド：
-攻撃力{EVOLVINGFAMILIAR1FAMILIARATTACK}%、ライフ{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%
+[#!]苗木のフィエンド[#]：
+攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]%
 
-新芽のフィエンド：
-攻撃力{EVOLVINGFAMILIAR2FAMILIARATTACK}%、ライフ{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%
+[#!]新芽のフィエンド[#]：
+攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#]%
 
-開花のメガフィエンド：
-攻撃力{EVOLVINGFAMILIAR3FAMILIARATTACK}%、ライフ{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%"
+[#!]開花のメガフィエンド[#]：
+攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#]%"
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","このキャラクターが倒れると、このキャラクターの{FAMILIARHEALTHPERCENT}%のHPと{FAMILIARATTACK}%の攻撃力を持つスライムのメガミニオンが、近くにいる仲間のもとにサモンされる。"
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","このキャラクターが倒れると、このキャラクターの{FAMILIARHEALTHPERCENT}%のHPと{FAMILIARATTACK}%の攻撃力を持つスライムのメガミニオンが、近くにいる仲間のもとにサモンされる。"
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","このキャラクターが倒れると、このキャラクターの{FAMILIARHEALTHPERCENT}%のHPと{FAMILIARATTACK}%の攻撃力を持つスライムのメガミニオンが、近くにいる仲間のもとにサモンされる。"
@@ -745,3 +745,16 @@
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","バフ変化"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","ステータス異常変化"
 "herocard.passive_skill.title.wither.all.enemies","弱化"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","毎ターン、ランダムに敵1体に対して[#!]苗木のフィエンド[#]をサモンする。
+[*][#!]苗木のフィエンド[#]は{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に[#!]新芽のフィエンド[#]に進化する。
+[*][#!]新芽のフィエンド[#]は{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に[#!]開花のメガフィエンド[#]に進化する。
+[*]回復を吸収するたびにフィエンドの進化は{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}ターン遅延する。
+
+[#!]苗木のフィエンド[#]：
+攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]%
+
+[#!]新芽のフィエンド[#]：
+攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#]%
+
+[#!]開花のメガフィエンド[#]：
+攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#]%"

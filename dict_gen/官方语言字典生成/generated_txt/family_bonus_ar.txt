@@ -34,7 +34,7 @@
 "familybonuses.description.long.counter_attack_ninja","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% فرصة لشن هجوم مضاد مع {MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% من الضرر المتلقى."
 "familybonuses.description.long.counter_attack_ninja2","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% فرصة لشن هجوم مضاد مع {MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% من الضرر المتلقى."
 "familybonuses.description.long.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","شن هجومًا مضادًّا بنسبة {1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% من الضرر المتلقى من مهارات العملاق الخاصة."
-"familybonuses.description.long.crit_multiplier_zodiac_dragon"," {2MEMBERSMULTIPLIERPERCENTCHANGE}% من الفرص الحاسمة."
+"familybonuses.description.long.crit_multiplier_zodiac_dragon","{2MEMBERSMULTIPLIERPERCENTCHANGE}% من الفرص الحاسمة."
 "familybonuses.description.long.critical_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% فرصة حاسمة."
 "familybonuses.description.long.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% فرصة حاسمة."
 "familybonuses.description.long.critical_multiplier_hotm2021","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% فرصة حاسمة."

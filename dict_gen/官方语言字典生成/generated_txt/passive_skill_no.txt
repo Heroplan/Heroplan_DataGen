@@ -45,7 +45,7 @@ Ekstra skade påført: +{MODIFIER} %"
 "herocard.passive_skill.description.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","Hver {TURNS}. runde spises alle undersåtter fra en tilfeldig fiende og får en liten mengde mana for hver spiste undersått."
 "herocard.passive_skill.description.effectondamagedone.bufftoremove.minordebuff.latest.from.all.allies.safe.specialskill.only_criticals.once","Når denne figuren får et kritisk treff med spesialferdigheten, renser figuren den siste rensbare statuslidelsen fra alle allierte. Denne effekten kan aktiveres én gang per runde."
 "herocard.passive_skill.description.effectondamagedone.healthboost.all.allies.specialskill.only_criticals.once","Når denne figuren får et kritisk treff med spesialferdigheten sin, øker den helsen til alle sine allierte med {HEALTHBOOST} %. Denne effekten kan aktiveres én gang per runde."
-"herocard.passive_skill.description.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill.single.allies.onceperturn"," Når denne figurens spesialferdighet treffer en figur som hadde høyere nåværende HP, får du {PASSIVESKILL1HEALTHBOOST} % økt helse.
+"herocard.passive_skill.description.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill.single.allies.onceperturn","Når denne figurens spesialferdighet treffer en figur som hadde høyere nåværende HP, får du {PASSIVESKILL1HEALTHBOOST} % økt helse.
  Når denne figuren treffes av spesialferdigheten fra en figur som hadde høyere nåværende HP, får du {PASSIVESKILL2POWER} % mana.
 Hver av disse effektene kan aktiveres én gang per runde."
 "herocard.passive_skill.description.effectondamagereceived.addmana.specialskill.single.allies","Når denne figuren tar skade fra spesialferdigheter, får den {POWER} % med mana."
@@ -232,7 +232,7 @@ Dette inkluderer statuseffektøkninger og -lidelser, positive og negative stable
 "herocard.passive_skill.description.resist.criticalhits.none","Denne figuren er immun mot ekstra skade og ytterligere effekter fra kritiske treff."
 "herocard.passive_skill.description.resist.defensemodifierdebuffs","Denne figuren er immun mot statuslidelser som påvirker forsvar. Gjelder ikke for statuslidelser som påvirker elementforsvar."
 "herocard.passive_skill.description.resist.defensemodifiers.alldebuffs","Denne figuren er immun mot statuslidelser og negative stabler som påvirker forsvar. Gjelder ikke for statuslidelser som påvirker elementforsvar."
-"herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion"," Immun mot effekter som fjerner undersåtter.
+"herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion","Immun mot effekter som fjerner undersåtter.
  Kan ikke hindres i å motta undersåtter.
  Undersåtts angrep og evner kan ikke deaktiveres."
 "herocard.passive_skill.description.resist.frost","Denne figuren er immun mot statuslidelser som påfører frostskade."
@@ -365,32 +365,32 @@ Knopp-djevel:
 
 Blomst-megadjevel:
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % helse."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Fremkaller en frøplante-djevel hver runde til en tilfeldig fiende. Denne passive ferdigheten aktiveres kun én gang per runde for hvert lag.
-Frøplante-djevelen utvikler seg til en knopp-djevel etter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
-Knopp-djevelen utvikler seg til en blomst-megadjevel etter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
-Utviklingen til djevelen er forsinket med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runde hver gang de absorberer helbredelse.
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Fremkaller en [#!]frøplante-djevel[#] hver runde til en tilfeldig fiende. Denne passive ferdigheten aktiveres kun én gang per runde for hvert lag.
+[*][#!]Frøplante-djevelen[#] utvikler seg til en [#!]knopp-djevel[#] etter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
+[*][#!]Knopp-djevelen[#] utvikler seg til en [#!]blomst-megadjevel[#] etter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
+[*]Utviklingen til djevelen er forsinket med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runde hver gang de absorberer helbredelse.
 
-Frøplante-djevel:
-{EVOLVINGFAMILIAR1FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % helse.
+[#!]Frøplante-djevel[#]:
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] angrep, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] helse.
 
-Knopp-djevel:
-{EVOLVINGFAMILIAR2FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % helse.
+[#!]Knopp-djevel[#]:
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] angrep, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] helse.
 
-Blomst-megadjevel:
-{EVOLVINGFAMILIAR3FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % helse."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Fremkaller en frøplante-djevel hver runde til en tilfeldig fiende. Denne passive ferdigheten aktiveres kun én gang per runde for hvert lag.
-Frøplante-djevelen utvikler seg til en knopp-djevel etter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
-Knopp-djevelen utvikler seg til en blomst-megadjevel etter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
-Utviklingen til djevelen er forsinket med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runde hver gang de absorberer helbredelse.
+[#!]Blomst-megadjevel[#]:
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] angrep, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] helse."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Fremkaller en [#!]frøplante-djevel[#] hver runde til en tilfeldig fiende. Denne passive ferdigheten aktiveres kun én gang per runde for hvert lag.
+[*][#!]Frøplante-djevelen[#] utvikler seg til en [#!]knopp-djevel[#] etter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
+[*][#!]Knopp-djevelen[#] utvikler seg til en [#!]blomst-megadjevel[#] etter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
+[*]Utviklingen til djevelen er forsinket med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runde hver gang de absorberer helbredelse.
 
-Frøplante-djevel:
-{EVOLVINGFAMILIAR1FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % helse.
+[#!]Frøplante-djevel[#]:
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] angrep, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] helse.
 
-Knopp-djevel:
-{EVOLVINGFAMILIAR2FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % helse.
+[#!]Knopp-djevel[#]:
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] angrep, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] helse.
 
-Blomst-megadjevel:
-{EVOLVINGFAMILIAR3FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % helse."
+[#!]Blomst-megadjevel[#]:
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] angrep, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] helse."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Når denne figuren beseires, tilkaller den slim-megaundersåtter til allierte i nærheten med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % arvet fra denne figuren."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Når denne figuren beseires, tilkaller den slim-megaundersåtter til allierte i nærheten med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % arvet fra denne figuren."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Når denne figuren beseires, tilkaller den slim-megaundersåtter til allierte i nærheten med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % arvet fra denne figuren."
@@ -719,3 +719,16 @@ Lithe-ramme"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Transformer økninger"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Transformer lidelser"
 "herocard.passive_skill.title.wither.all.enemies","Visne"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Fremkaller en [#!]frøplante-djevel[#] hver runde til en tilfeldig fiende.
+[*][#!]Frøplante-djevelen[#] utvikler seg til en [#!]knopp-djevel[#] etter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
+[*][#!]Knopp-djevelen[#] utvikler seg til en [#!]blomst-megadjevel[#] etter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
+[*]Utviklingen til djevelen er forsinket med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runde hver gang de absorberer helbredelse.
+
+[#!]Frøplante-djevel[#]:
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] angrep, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] helse.
+
+[#!]Knopp-djevel[#]:
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] angrep, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] helse.
+
+[#!]Blomst-megadjevel[#]:
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] angrep, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] helse."

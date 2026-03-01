@@ -524,7 +524,7 @@ Z każdym uderzeniem atakujący otrzymuje następujący efekt statusu:
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","Zadaje {DAMAGE}% obrażeń celowi i {MAXHITS} losowym wrogom.
 Wzywa potwora sadzonkę na każdego trafionego wroga."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","Zadaje {DAMAGE}% obrażeń celowi i {MAXHITS} losowym wrogom.
-Wzywa potwora sadzonkę na każdego trafionego wroga."
+[*]Wzywa [#!]potwora sadzonkę[#] na każdego trafionego wroga."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","Zadaje {DAMAGE}% obrażeń celowi i {MAXHITS} losowym wrogom.
 Wzywa Rakietowego potwora, by atakował wrogów. Zadaje on wrogowi obrażenia o wartości {FAMILIARATTACK}% ataku w każdej turze.
 Rakietowy potwór wysysa efekty leczenia i znika, gdy wchłonie zdrowie równe {FAMILIARHEALTHPERCENT}% maksymalnego zdrowia właściciela."
@@ -635,7 +635,7 @@ Kostka mroku obniża maks. poziom zdrowia celu o {REDUCTION} pkt. Efekt jest sil
 "specials.v2.property.effectonkill.heal.single.allies.addmana.single.allies.directeffecttargettype.single","Jeśli wróg zostanie pokonany atakiem, rzucający odzyskuje {EFFECT1POWER}% zdrowia i zyskuje {EFFECT2POWER}% many."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single","Jeśli atak pokona cel, rzucający odzyskuje {FIXEDPOWER} pkt. zdrowia."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single.fixedpower","Jeśli atak pokona cel, rzucający odzyskuje {FIXEDPOWER} pkt. zdrowia."
-"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","Jeśli cen zostanie pokonany atakiem, wszyscy sojusznicy otrzymują {EFFECT2POWER}% many i wzmacniają zdrowie wszystkich sojuszników o {EFFECT1FIXEDPOWER} pkt. Wzmocnione zdrowie może przekroczyć maks. liczbę PŻ."
+"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","Jeśli cel zostanie pokonany atakiem, wszyscy sojusznicy otrzymują {EFFECT2POWER}% many i ich zdrowie zostaje wzmocnione o {EFFECT1FIXEDPOWER} pkt. Wzmocnione zdrowie może przekroczyć maks. liczbę PŻ."
 "specials.v2.property.effectonkill.statuseffect.fearstatuseffectskill.neartotarget.enemies","Jeśli atak pokona cel, pobliscy wrogowie zostaną przestraszeni na okres {STATUSEFFECT1TURNS} tur."
 "specials.v2.property.effectonkill.statuseffect.insanity.neartotargetexceptmaintarget.enemies","Jeśli cel zostanie pokonany atakiem, na pobliskich wrogów nakładane jest {STATUSEFFECT1INSANITYTOADD} pkt. obłędu."
 "specials.v2.property.effectonkill.statuseffect.manafreeze.neartotargetexceptmaintarget.enemies","Jeśli atak pokona cel, pobliscy wrogowie nie będą mogli otrzymać many przez okres {STATUSEFFECT1TURNS} tur."
@@ -940,9 +940,9 @@ Bezpieczna kradzież pomija efekty drugorzędne, takie jak obrażenia nakładane
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.single.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","Zadaje celowi {POWER}% obrażeń od duchowego cięcia. Duchowe cięcie bezpiecznie usuwa wzmocnienia, zanim zada obrażenia."
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectdebuffs.neartotarget.allies.bypassremoveeffects.effectonremoval.healthboost.has_base_power.power_changes_per_removed_status_from_target","Wzmacnia zdrowie rzucającego i pobliskich sojuszników o {FIXEDPOWER} pkt. za pomocą duchowej aury. Duchowa aura bezpiecznie usuwa dolegliwości ze statusu przed wzmocnieniem zdrowia."
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.all.allies.effectonremoval.addmana.power_changes_per_removed_status_from_target","Bezpiecznie oczyszcza wszystkich sojuszników ze wszystkich dolegliwości ze statusu i zwiększa ich manę o {POWERPERREMOVALFROMTARGET}% za każdą oczyszczoną dolegliwość."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra"," Obrażenia są zmniejszone o {POWERPERREMOVALFROMTARGET}% za każde usunięte wzmocnienie.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","Obrażenia są zmniejszone o {POWERPERREMOVALFROMTARGET}% za każde usunięte wzmocnienie.
  Nieodwoływalne wzmocnienia również zostają usunięte."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra"," Wzmocnienie zdrowia zostaje zmniejszone o {FIXEDPOWERPERREMOVALFROMTARGET} za każdą usuniętą dolegliwość.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","Wzmocnienie zdrowia zostaje zmniejszone o {FIXEDPOWERPERREMOVALFROMTARGET} za każdą usuniętą dolegliwość.
  Niemożliwe do oczyszczenia dolegliwości również zostają usunięte."
 "specials.v2.property.repeatspecial.blade_wings.random","Po udanym rzuceniu ma {REPEATCHANCE}% szansy na ponowne rzucenie skrzydlatych ostrzy przeciwko losowemu celowi.
 Może rzucić ponownie maksymalnie {MAXREPEATS} razy, a szansa na ponowne rzucenie zmniejsza się o {REPEATCHANCEDECREASE}% po każdym udanym rzuceniu."
@@ -1113,14 +1113,15 @@ Wrogowie z pomocnikami lub mega pomocnikami otrzymują {STATUSEFFECT1DEFENSE}% d
 Wrogowie z pomocnikami lub mega pomocnikami otrzymują {STATUSEFFECT1DEFENSE}% do obrony na okres {STATUSEFFECT1TURNS} tur."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","Zadaje {POWERFORTARGETSTHATMEETCONDITION}% obrażeń przeciwko wrogom ze wzmocnieniami obrony, pomocnikami lub mega pomocnikami.
 Wrogowie ze wzmocnieniami obrony, pomocnikami lub mega pomocnikami otrzymują {STATUSEFFECT1DEFENSE}% do obrony na okres {STATUSEFFECT1TURNS} tur."
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra"," Potwór sadzonka ewoluuje w kiełkującego potwora po upływie {EVOLVINGFAMILIAR1EVOLVETURNS} tur.
-Kiełkujący potwór ewoluuje w kwitnącego mega potwora po upływie {EVOLVINGFAMILIAR2EVOLVETURNS} tur.
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","[*] [#!]Potwór sadzonka[#] ewoluuje w [#!]kiełkującego potwora[#] po upływie {EVOLVINGFAMILIAR1EVOLVETURNS} tur.
+[*][#!]Kiełkujący potwór[#] ewoluuje w [#!]kwitnącego mega potwora[#] po upływie {EVOLVINGFAMILIAR2EVOLVETURNS} tur.
 
- Potwór sadzonka: {EVOLVINGFAMILIAR1FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% zdrowia.
- Kiełkujący potwór: {EVOLVINGFAMILIAR2FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% zdrowia.
- Kwitnący mega potwór: {EVOLVINGFAMILIAR3FAMILIARATTACK}% ataku, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% zdrowia.
+[*] [#!]Potwór sadzonka[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] ataku, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] zdrowia.
+[*] [#!]Kiełkujący potwór[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] ataku, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] zdrowia.
+[*] [#!]Kwitnący mega potwór[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] ataku, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] zdrowia.
 
-Potwór zadaje obrażenia celowi co turę i znika po pochłonięciu leczenia. Ilość wymaganego leczenia zależy od maksymalnego zdrowia celu."
+[*]Potwór zadaje obrażenia celowi co turę i znika po pochłonięciu leczenia. Ilość wymaganego leczenia zależy od maksymalnego zdrowia celu.
+[*]Ewolucja potworów zostaje opóźniona o {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tur(y) za każdym razem, gdy pochłoną leczenie."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","Jeśli cel ma potwory lub mega potwory, zadaje {DAMAGE}% obrażeń innemu losowemu wrogowi.
 Wzywa na każdego trafionego wroga potwora sadzonkę."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","Jeśli cel ma potwory lub mega potwory, zadaje {DAMAGE}% obrażeń innemu losowemu wrogowi.
@@ -1139,7 +1140,7 @@ Wzywa na każdego trafionego wroga potwora sadzonkę."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold","Jeśli cel ma więcej niż {THRESHOLD1}% zdrowia przed otrzymaniem obrażeń, obiera za cel innego wroga, który miał więcej niż {THRESHOLD2}% zdrowia przed otrzymaniem jakichkolwiek obrażeń od tej umiejętności specjalnej. Jeśli żaden z wrogów nie ma mniej niż {THRESHOLD3}% zdrowia, obiera za cel losowego wroga. Z każdym kolejnym trafieniem obrażenia są coraz mniejsze. Każdy z wrogów może być trafiony tylko raz."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold.damage_increases","Jeśli cel ma więcej niż {THRESHOLD1}% zdrowia przed otrzymaniem obrażeń, obiera za cel innego wroga, który miał więcej niż {THRESHOLD2}% zdrowia przed otrzymaniem jakichkolwiek obrażeń od tej umiejętności specjalnej. Jeśli żaden z wrogów nie ma mniej niż {THRESHOLD3}% zdrowia, obiera za cel losowego wroga. Z każdym kolejnym trafieniem obrażenia są coraz wyższe. Każdy z wrogów może być trafiony tylko raz."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_mana_threshold","Jeśli cel ma więcej niż {THRESHOLD1}% many przed otrzymaniem obrażeń, obiera za cel innego wroga, który miał więcej niż {THRESHOLD2}% many przed otrzymaniem jakichkolwiek obrażeń od tej umiejętności specjalnej. Jeśli żaden z wrogów nie ma mniej niż {THRESHOLD3}% many, obiera za cel losowego wroga. Z każdym kolejnym trafieniem obrażenia są coraz mniejsze. Każdy z wrogów może być trafiony tylko raz."
-"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","Jeśli cel ma mniej niż {THRESHOLD1}% zdrowia przed otrzymaniem obrażeń, obiera za cel innego wroga, który miał mniej niż {THRESHOLD2}% zdrowia przed otrzymaniem obrażeń od tej umiejętności specjalnej. Jeśli żaden z wrogów nie ma {THRESHOLD3}% zdrowia, obiera za cel losowego wroga. Z każdym kolejnym trafieniem obrażenia są coraz mniejsze. Każdy z wrogów może być trafiony tylko raz."
+"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","Jeśli cel ma mniej niż {THRESHOLD1}% zdrowia przed otrzymaniem obrażeń, obiera za cel innego wroga, który miał mniej niż {THRESHOLD2}% zdrowia przed otrzymaniem obrażeń od tej umiejętności specjalnej. Jeśli żaden z wrogów nie ma mniej niż {THRESHOLD3}% zdrowia, obiera za cel losowego wroga. Z każdym kolejnym trafieniem obrażenia są coraz mniejsze. Każdy z wrogów może być trafiony tylko raz."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.blue_tiles.all","Jeśli na planszy jest {COUNTREQUIREMENT} lub więcej tarcz lodu, obrażenia są zadawane wszystkim wrogom."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.green_tiles.all","Jeśli na planszy jest {COUNTREQUIREMENT} lub więcej tarcz natury, obrażenia są zadawane wszystkim wrogom."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.purple_tiles.all","Jeśli na planszy jest {COUNTREQUIREMENT} lub więcej tarcz mroku, obrażenia i efekty ze statusu są nakładane na wszystkich wrogów."
@@ -2689,3 +2690,4 @@ Obłęd bohatera może zostać zmniejszony poprzez bezpośrednie uleczenie umiej
 "specials.v2.strongattack.yellow","Zadaje dodatkowe obrażenia przeciwko światłości."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","Ten efekt może wystąpić tylko raz na każdym pomocniku głowie hydry."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","Gdy pomocnik głowa hydry zostanie pokonany, losowy sojusznik otrzymuje pomocnika odrodzoną głowę hydry, która dziedziczy statystyki pierwotnego pomocnika."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","[#!]Kumulacja +{BASESTACKCOUNT} (maks.: {MAXSTACK}):[#] Wszystkie obrażenia odnoszone przez rzucającego i pobliskich sojuszników są zmniejszone o {DAMAGEMODIFIER}%."

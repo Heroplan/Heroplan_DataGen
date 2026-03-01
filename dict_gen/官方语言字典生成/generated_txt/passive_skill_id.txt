@@ -45,7 +45,7 @@ The Inti Destruktif aktif setiap kali Keahlian Khusus karakter ini dirapal:
 "herocard.passive_skill.description.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","Tiap {TURNS} giliran, memakan semua Antek dari musuh secara acak dan mendapat sedikit mana tiap Antek yang dimakan."
 "herocard.passive_skill.description.effectondamagedone.bufftoremove.minordebuff.latest.from.all.allies.safe.specialskill.only_criticals.once","Saat karakter ini mencetak pukulan kritis dengan Keahlian Khusus, dia membersihkan status pelemahan terbaru yang bisa dibersihkan dari semua sekutu. Efek ini dapat diaktifkan sekali per giliran."
 "herocard.passive_skill.description.effectondamagedone.healthboost.all.allies.specialskill.only_criticals.once","Saat karakter ini mencetak pukulan kritis dengan Keahlian Khusus, kesehatan semua sekutunya meningkat {HEALTHBOOST}%. Efek ini bisa diaktifkan sekali per giliran."
-"herocard.passive_skill.description.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill.single.allies.onceperturn"," Saat Keahlian Khusus karakter ini mengenai karakter dengan HP saat ini yang lebih tinggi, meraih {PASSIVESKILL1HEALTHBOOST}% peningkatan kesehatan.
+"herocard.passive_skill.description.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill.single.allies.onceperturn","Saat Keahlian Khusus karakter ini mengenai karakter dengan HP saat ini yang lebih tinggi, meraih {PASSIVESKILL1HEALTHBOOST}% peningkatan kesehatan.
  Saat karakter ini terkena Keahlian Khusus dari karakter dengan HP saat ini lebih tinggi, meraih {PASSIVESKILL2POWER}% mana.
 Setiap efek ini dapat diaktifkan sekali per giliran."
 "herocard.passive_skill.description.effectondamagereceived.addmana.specialskill.single.allies","Saat karakter ini mengalami kerusakan Keahlian Khusus, dia mendapat {POWER}% mana."
@@ -364,32 +364,32 @@ serangan {EVOLVINGFAMILIAR2FAMILIARATTACK}%, kesehatan {EVOLVINGFAMILIAR2FAMILIA
 
 Iblis Mega Mekar: 
 serangan {EVOLVINGFAMILIAR3FAMILIARATTACK}%, kesehatan {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Memanggil Iblis Benih setiap giliran ke musuh acak. Keahlian Pasif ini hanya aktif satu kali per giliran untuk setiap tim.
-Iblis Benih berubah menjadi Iblis Tunas setelah {EVOLVINGFAMILIAR1EVOLVETURNS} giliran.
-Iblis Tunas berubah menjadi Iblis Mega Mekar setelah {EVOLVINGFAMILIAR2EVOLVETURNS} giliran.
- Evolusi Iblis ditunda sebanyak {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} giliran setiap kali mereka menyerap penyembuhan.
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Memanggil [#!]Iblis Benih[#] setiap giliran ke musuh acak. Keahlian Pasif ini hanya aktif satu kali per giliran untuk setiap tim.
+[*][#!]Iblis Benih[#] berubah menjadi [#!]Iblis Tunas[#] setelah {EVOLVINGFAMILIAR1EVOLVETURNS} giliran.
+[*][#!]Iblis Tunas[#] berubah menjadi [#!]Iblis Mega Mekar[#] setelah {EVOLVINGFAMILIAR2EVOLVETURNS} giliran.
+ [*]Evolusi Iblis ditunda sebanyak {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} giliran setiap kali mereka menyerap penyembuhan.
 
-Iblis Benih: 
-serangan {EVOLVINGFAMILIAR1FAMILIARATTACK}%, kesehatan {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%.
+[#!]Iblis Benih[#]: 
+serangan [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#], kesehatan [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#].
 
-Iblis Tunas: 
-serangan {EVOLVINGFAMILIAR2FAMILIARATTACK}%, kesehatan {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%.
+[#!]Iblis Tunas[#]: 
+serangan [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#], kesehatan [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#].
 
-Iblis Mega Mekar: 
-serangan {EVOLVINGFAMILIAR3FAMILIARATTACK}%, kesehatan {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Memanggil Iblis Benih setiap giliran ke musuh acak. Keahlian Pasif ini hanya aktif satu kali per giliran untuk setiap tim.
-Iblis Benih berubah menjadi Iblis Tunas setelah {EVOLVINGFAMILIAR1EVOLVETURNS} giliran.
-Iblis Tunas berubah menjadi Iblis Mega Mekar setelah {EVOLVINGFAMILIAR2EVOLVETURNS} giliran.
- Evolusi Iblis ditunda sebanyak {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} giliran setiap kali mereka menyerap penyembuhan.
+[#!]Iblis Mega Mekar[#]: 
+serangan [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#], kesehatan [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Memanggil [#!]Iblis Benih[#] setiap giliran ke musuh acak. Keahlian Pasif ini hanya aktif satu kali per giliran untuk setiap tim.
+[*][#!]Iblis Benih[#] berubah menjadi [#!]Iblis Tunas[#] setelah {EVOLVINGFAMILIAR1EVOLVETURNS} giliran.
+[*][#!]Iblis Tunas[#] berubah menjadi [#!]Iblis Mega Mekar[#] setelah {EVOLVINGFAMILIAR2EVOLVETURNS} giliran.
+ [*]Evolusi Iblis ditunda sebanyak {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} giliran setiap kali mereka menyerap penyembuhan.
 
-Iblis Benih: 
-serangan {EVOLVINGFAMILIAR1FAMILIARATTACK}%, kesehatan {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%.
+[#!]Iblis Benih[#]: 
+serangan [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#], kesehatan [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#].
 
-Iblis Tunas: 
-serangan {EVOLVINGFAMILIAR2FAMILIARATTACK}%, kesehatan {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%.
+[#!]Iblis Tunas[#]: 
+serangan [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#], kesehatan [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#].
 
-Iblis Mega Mekar: 
-serangan {EVOLVINGFAMILIAR3FAMILIARATTACK}%, kesehatan {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%."
+[#!]Iblis Mega Mekar[#]: 
+serangan [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#], kesehatan [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Saat karakter ini kalah, dia memanggil Antek Mega Lendir ke sekutu terdekat dengan {FAMILIARHEALTHPERCENT}% HP dan {FAMILIARATTACK}% serangan yang diwarisi dari karakter ini."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Saat karakter ini kalah, dia memanggil Antek Mega Lendir ke sekutu terdekat dengan {FAMILIARHEALTHPERCENT}% HP dan {FAMILIARATTACK}% serangan yang diwarisi dari karakter ini."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Saat karakter ini kalah, dia memanggil Antek Mega Lendir ke sekutu terdekat dengan {FAMILIARHEALTHPERCENT}% HP dan {FAMILIARATTACK}% serangan yang diwarisi dari karakter ini."
@@ -718,3 +718,16 @@ Bingkai Lentur"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Genjotan Transformasi"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Pelemahan Transformasi"
 "herocard.passive_skill.title.wither.all.enemies","Layu"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Memanggil [#!]Iblis Benih[#] setiap giliran ke musuh acak.
+[*][#!]Iblis Benih[#] berubah menjadi [#!]Iblis Tunas[#] setelah {EVOLVINGFAMILIAR1EVOLVETURNS} giliran.
+[*][#!]Iblis Tunas[#] berubah menjadi [#!]Iblis Mega Mekar[#] setelah {EVOLVINGFAMILIAR2EVOLVETURNS} giliran.
+ [*]Evolusi Iblis ditunda sebanyak {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} giliran setiap kali mereka menyerap penyembuhan.
+
+[#!]Iblis Benih[#]: 
+serangan [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#], kesehatan [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#].
+
+[#!]Iblis Tunas[#]: 
+serangan [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#], kesehatan [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#].
+
+[#!]Iblis Mega Mekar[#]: 
+serangan [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#], kesehatan [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]."

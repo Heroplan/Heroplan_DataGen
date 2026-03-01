@@ -520,7 +520,7 @@ Statuseffekter, der påvirker modtaget helbredelse, påvirker også helbredelses
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","Forvolder {DAMAGE} % skade på et mål og {MAXHITS} tilfældige fjender.
 Hidkalder en frøplantedjævel til hver ramt fjende."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","Forvolder {DAMAGE} % skade på et mål og {MAXHITS} tilfældige fjender.
-Hidkalder en frøplantedjævel til hver ramt fjende."
+[*]Hidkalder en [#!]frøplantedjævel[#] til hver ramt fjende."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","Forvolder målet {DAMAGE} % skade og {MAXHITS} tilfældige fjender.
 Hidkalder en missildjævel, som kan ramme fjender. Djævlen skader fjenden med {FAMILIARATTACK} % angreb i hver runde.
 Missildjævlen optager helbredelse og forsvinder, når den har optaget helbredelse, der svarer til {FAMILIARHEALTHPERCENT} % af ejerens maks. helbred."
@@ -630,7 +630,7 @@ Mørke kuber reducerer maks. helbred for målet med {REDUCTION}. Effekten er st�
 "specials.v2.property.effectonkill.heal.single.allies.addmana.single.allies.directeffecttargettype.single","Hvis en fjende besejres af angrebet, genvinder kasteren {EFFECT1POWER} % helbred og får {EFFECT2POWER} % mana."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single","Hvis målet besejres af angrebet, genvinder kasteren {FIXEDPOWER} HP."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single.fixedpower","Hvis målet besejres af angrebet, genvinder kasteren {FIXEDPOWER} HP."
-"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","Hvis målet nedkæmpes af angreb, får alle allierede {EFFECT2POWER} % mana og styrker helbredet hos alle allierede med {EFFECT1FIXEDPOWER}. Styrket helbred kan overstige maks. helbred."
+"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","Hvis målet besejres af angrebet, får alle allierede {EFFECT2POWER} % mana, og helbredet styrkes med {EFFECT1FIXEDPOWER}. Styrket helbred kan overstige maks. helbred."
 "specials.v2.property.effectonkill.statuseffect.fearstatuseffectskill.neartotarget.enemies","Hvis målet besejres af angrebet, bliver fjender i nærheden ramt af frygt i {STATUSEFFECT1TURNS} runder."
 "specials.v2.property.effectonkill.statuseffect.insanity.neartotargetexceptmaintarget.enemies","Hvis målet besejres af angrebet, bliver fjender i nærheden ramt af {STATUSEFFECT1INSANITYTOADD} vanvid."
 "specials.v2.property.effectonkill.statuseffect.manafreeze.neartotargetexceptmaintarget.enemies","Hvis målet besejres af angrebet, kan fjender i nærheden ikke få mana i {STATUSEFFECT1TURNS} runder."
@@ -934,9 +934,9 @@ Ved stjælning på sikker vis bliver sekundære effekter fra de fjernede buffere
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.single.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","Forvolder {POWER} % Spirit Slash-skade på målet. Spirit Slash fjerner sikkert forstærkere, før de gør skade."
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectdebuffs.neartotarget.allies.bypassremoveeffects.effectonremoval.healthboost.has_base_power.power_changes_per_removed_status_from_target","Forstærker helbredet for kasteren og allierede i nærheden med {FIXEDPOWER} med Spirit Aura. Spirit Aura fjerner sikkert statuslidelser, før de forstærker helbredet."
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.all.allies.effectonremoval.addmana.power_changes_per_removed_status_from_target","Fjerner sikkert alle statuslidelser fra alle allierede og øger alle allieredes mana med {POWERPERREMOVALFROMTARGET} % for hver af de rensede lidelser."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra"," Skade reduceres med {POWERPERREMOVALFROMTARGET} % for hver fjernet forstærker.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","Skade reduceres med {POWERPERREMOVALFROMTARGET} % for hver fjernet forstærker.
  Uophævelige forstærkere fjernes også."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra"," Helbredsbonussen reduceres med {FIXEDPOWERPERREMOVALFROMTARGET} for hver fjernet lidelse.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","Helbredsbonussen reduceres med {FIXEDPOWERPERREMOVALFROMTARGET} for hver fjernet lidelse.
  Uophævelige lidelser fjernes også."
 "specials.v2.property.repeatspecial.blade_wings.random","Efter et succesfuldt kast er der {REPEATCHANCE} % chance for at kaste klingevinger igen mod et tilfældigt mål.
 Kan kastes igen op til {MAXREPEATS} gange, hvor chancen for at kaste igen reduceres med {REPEATCHANCEDECREASE} % efter hvert succesfulde kast."
@@ -1107,14 +1107,15 @@ Fjender med håndlangere eller kæmpehåndlangere får {STATUSEFFECT1DEFENSE} %
 Fjender med håndlangere eller kæmpehåndlangere får {STATUSEFFECT1DEFENSE} % forsvar i {STATUSEFFECT1TURNS} runder."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","Forvolder {POWERFORTARGETSTHATMEETCONDITION} % skade mod fjender med forsvarsbuffere, håndlangere eller kæmpehåndlangere.
 Fjender med forsvarsbuffere, håndlangere eller kæmpehåndlangere får {STATUSEFFECT1DEFENSE} % forsvar i {STATUSEFFECT1TURNS} runder."
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","Frøplantedjævlen udvikler sig til en spiredjævel efter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
- Spiredjævlen udvikler sig til en blomstrende megadjævel efter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","[*][#!]Frøplantedjævlen[#] udvikler sig til en [#!]spiredjævel[#] efter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
+[*] [#!]Spiredjævlen[#] udvikler sig til en [#!]blomstrende megadjævel[#] efter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
 
- Frøplantedjævel: {EVOLVINGFAMILIAR1FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % helbred.
- Spiredjævel: {EVOLVINGFAMILIAR2FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % helbred.
- Blomstrende megadjævel: {EVOLVINGFAMILIAR3FAMILIARATTACK} % angreb, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % helbred.
+[*] [#!]Frøplantedjævel[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] angreb, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] helbred.
+[*] [#!]Spiredjævel[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] angreb, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] helbred.
+[*] [#!]Blomstrende megadjævel[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] angreb, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] helbred.
 
-Djævle skader deres mål i hver runde. En djævel forsvinder, når den absorberer helbredelse. Den mængde helbredelse, som er påkrævet, afhænger af målets maksimale helbred."
+[*]Djævle skader deres mål i hver runde. En djævel forsvinder, når den absorberer helbredelse. Den mængde helbredelse, som er påkrævet, afhænger af målets maksimale helbred.
+[*]Djævlenes udvikling forsinkes med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runde, hver gang de absorberer helbred."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","Hvis målet har djævle eller megadjævle, giver det {DAMAGE} % skade til en tilfældig anden fjende.
 Hidkalder en frøplantedjævel til hver ramt fjende."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","Hvis målet har djævle eller megadjævle, giver det {DAMAGE} % skade til en tilfældig anden fjende.
@@ -1133,7 +1134,7 @@ Hidkalder en frøplantedjævel til hver ramt fjende."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold","Hvis målet har over {THRESHOLD1} % helbred inden skaden, bliver en anden fjende med mere end {THRESHOLD2} % helbred inden et angreb med den særlige egenskab angrebet. Hvis ingen af de andre fjender har {THRESHOLD3} % helbred, bliver en tilfældig fjende angrebet. Skaden mindskes ved hvert følgende slag. Hver fjende kan kun rammes én gang."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold.damage_increases","Hvis målet har over {THRESHOLD1} % helbred inden skaden, bliver en anden fjende med mere end {THRESHOLD2} % helbred inden et angreb med den særlige egenskab angrebet. Hvis ingen af de andre fjender har {THRESHOLD3} % helbred, bliver en tilfældig fjende angrebet. Skaden forøges ved hvert følgende slag. Hver fjende kan kun rammes én gang."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_mana_threshold","Hvis målet har over {THRESHOLD1} % mana inden skaden, bliver en anden fjende med mere end {THRESHOLD2} % mana inden et angreb med den særlige egenskab angrebet. Hvis ingen af de andre fjender har {THRESHOLD3} % mana, bliver en tilfældig fjende angrebet. Skaden mindskes ved hvert følgende slag. Hver fjende kan kun rammes én gang."
-"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","Hvis målet har mindre end {THRESHOLD1} % helbred, før de tager skade, vælges en anden fjende som mål, som har mindre end {THRESHOLD2} % helbred, før de tager skade fra denne særlige egenskab. Hvis ingen anden fjende har {THRESHOLD3} % helbred, vælges en tilfældig fjende. Skaden reduceres ved hver følgende træffer. Hver fjende kan kun blive ramt én gang."
+"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","Hvis målet har mindre end {THRESHOLD1} % helbred, før de tager skade, vælges en anden fjende som mål, som har mindre end {THRESHOLD2} % helbred, før de tager skade fra denne særlige egenskab. Hvis ingen anden fjende har mindre end {THRESHOLD3} % helbred, vælges en tilfældig fjende. Skaden reduceres ved hver følgende træffer. Hver fjende kan kun blive ramt én gang."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.blue_tiles.all","Hvis der er {COUNTREQUIREMENT} eller flere isskjolde på brættet, bliver skade forvoldt på alle fjender."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.green_tiles.all","Hvis der er {COUNTREQUIREMENT} eller flere naturskjolde på brættet, bliver skade forvoldt på alle fjender."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.purple_tiles.all","Hvis der er {COUNTREQUIREMENT} eller flere mørkeskjolde på brættet, bliver skade forvoldt på alle fjender."
@@ -2688,3 +2689,4 @@ Heltes vanvid kan reduceres af at blive direkte helet af en særlig egenskab."
 "specials.v2.strongattack.yellow","Giver ekstra skade mod helligdom."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","Denne effekt kan kun finde sted en gang pr. hydrahovedet håndlanger."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","Når den hydrahovede håndlanger overvindes, får en tilfældig allieret en genfødt hydrahovedet håndlanger, som arver den originale håndlangers statistikker."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","[#!]Stack +{BASESTACKCOUNT} (Maks: {MAXSTACK}):[#] Al skade, kasteren og allierede i nærheden tager, formindskes med {DAMAGEMODIFIER} %"

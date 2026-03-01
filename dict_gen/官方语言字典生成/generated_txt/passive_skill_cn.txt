@@ -365,32 +365,32 @@
 
 鲜花超级恶魔：
 {EVOLVINGFAMILIAR3FAMILIARATTACK}%攻击力，{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%生命值。"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","每回合为一名随机敌人召唤一个幼苗恶魔。该被动技能每个战队每回合只会触发一次。
-{EVOLVINGFAMILIAR1EVOLVETURNS}回合后，幼苗恶魔进化为萌芽恶魔。
-{EVOLVINGFAMILIAR2EVOLVETURNS}回合后，萌芽恶魔进化为鲜花超级恶魔。
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","每回合为一名随机敌人召唤一个[#!]幼苗恶魔[#]。该被动技能每个战队每回合只会触发一次。
+[*]{EVOLVINGFAMILIAR1EVOLVETURNS}回合后，[#!]幼苗恶魔[#]进化为[#!]萌芽恶魔[#]。
+[*]{EVOLVINGFAMILIAR2EVOLVETURNS}回合后，[#!]萌芽恶魔[#]进化为[#!]鲜花超级恶魔[#]。
 
-幼苗恶魔：
-{EVOLVINGFAMILIAR1FAMILIARATTACK}%攻击力，{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%生命值。
-恶魔每次吸收治疗时，其进化将延迟{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。
+[#!]幼苗恶魔[#]：
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]生命值。
+[*]恶魔每次吸收治疗时，其进化将延迟{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。
 
-萌芽恶魔：
-{EVOLVINGFAMILIAR2FAMILIARATTACK}%攻击力，{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%生命值。
+[#!]萌芽恶魔[#]：
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]生命值。
 
-鲜花超级恶魔：
-{EVOLVINGFAMILIAR3FAMILIARATTACK}%攻击力，{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%生命值。"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","每回合为一名随机敌人召唤一个幼苗恶魔。该被动技能每个战队每回合只会触发一次。
-{EVOLVINGFAMILIAR1EVOLVETURNS}回合后，幼苗恶魔进化为萌芽恶魔。
-{EVOLVINGFAMILIAR2EVOLVETURNS}回合后，萌芽恶魔进化为鲜花超级恶魔。
+[#!]鲜花超级恶魔[#]：
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]生命值。"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","每回合为一名随机敌人召唤一个[#!]幼苗恶魔[#]。该被动技能每个战队每回合只会触发一次。
+[*]{EVOLVINGFAMILIAR1EVOLVETURNS}回合后，[#!]幼苗恶魔[#]进化为[#!]萌芽恶魔[#]。
+[*]{EVOLVINGFAMILIAR2EVOLVETURNS}回合后，[#!]萌芽恶魔[#]进化为[#!]鲜花超级恶魔[#]。
 
-幼苗恶魔：
-{EVOLVINGFAMILIAR1FAMILIARATTACK}%攻击力，{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%生命值。
-恶魔每次吸收治疗时，其进化将延迟{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。
+[#!]幼苗恶魔[#]：
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]生命值。
+[*]恶魔每次吸收治疗时，其进化将延迟{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。
 
-萌芽恶魔：
-{EVOLVINGFAMILIAR2FAMILIARATTACK}%攻击力，{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%生命值。
+[#!]萌芽恶魔[#]：
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]生命值。
 
-鲜花超级恶魔：
-{EVOLVINGFAMILIAR3FAMILIARATTACK}%攻击力，{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%生命值。"
+[#!]鲜花超级恶魔[#]：
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]生命值。"
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","该角色被击败后，会为附近盟友召唤史莱姆超级小兵，此超级小兵继承该角色的{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻击力。"
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","该角色被击败后，会为附近盟友召唤史莱姆超级小兵，此超级小兵继承该角色的{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻击力。"
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","该角色被击败后，会为附近盟友召唤史莱姆超级小兵，此超级小兵继承该角色的{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻击力。"
@@ -719,3 +719,16 @@
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","转换增益"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","转换状态异常"
 "herocard.passive_skill.title.wither.all.enemies","衰退"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","每回合为一名随机敌人召唤一个[#!]幼苗恶魔[#]。
+[*]{EVOLVINGFAMILIAR1EVOLVETURNS}回合后，[#!]幼苗恶魔[#]进化为[#!]萌芽恶魔[#]。
+[*]{EVOLVINGFAMILIAR2EVOLVETURNS}回合后，[#!]萌芽恶魔[#]进化为[#!]鲜花超级恶魔[#]。
+
+[#!]幼苗恶魔[#]：
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]生命值。
+[*]恶魔每次吸收治疗时，其进化将延迟{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。
+
+[#!]萌芽恶魔[#]：
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]生命值。
+
+[#!]鲜花超级恶魔[#]：
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]生命值。"

@@ -523,7 +523,7 @@ Saatuun parannukseen vaikuttavat tilaefektit vaikuttavat myös parannuksen skaal
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","Tuottaa {DAMAGE} % vauriota kohteelle ja {MAXHITS} satunnaisille vihollisille.
 Kutsuu siementaimiriiviön jokaiselle osutulle viholliselle."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","Tuottaa {DAMAGE} % vauriota kohteelle ja {MAXHITS} satunnaisille vihollisille.
-Kutsuu siementaimiriiviön jokaiselle osutulle viholliselle."
+[*]Kutsuu [#!]siementaimiriiviön[#] jokaiselle osutulle viholliselle."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","Tuottaa {DAMAGE} % vauriota kohteelle ja {MAXHITS} satunnaiselle viholliselle.
 Kutsuu ammusriiviön iskemään vihollisia. Riiviö vaurioittaa vihollista {FAMILIARATTACK} %:n hyökkäyksellä joka vuorolla.
 Ammusriiviö imee parannuksen itseensä ja katoaa, kun se on imenyt terveyttä määrän, joka on {FAMILIARHEALTHPERCENT} % sen omistajan maksimiterveydestä."
@@ -876,7 +876,7 @@ Hyökkäykseen ja puolustukseen vaikuttavat tehosteet ja vaivat eivät vaikuta v
 "specials.v2.property.random_special_mimic","Matkija tekee yhden seuraavista erikoishyökkäyksistä:"
 "specials.v2.property.random_special_mimic2","Matkija tekee yhden seuraavista erikoishyökkäyksistä:"
 "specials.v2.property.random_special_yona","Vedä kortti saadaksesi erityisen efektin:"
-"specials.v2.property.random_special_zidane"," Käytä satunnaista nuolta, jolla on tietty vaikutus:"
+"specials.v2.property.random_special_zidane","Käytä satunnaista nuolta, jolla on tietty vaikutus:"
 "specials.v2.property.randomspecialwithchance.extra","Kunkin efektin todennäköisyys:
 {SPECIALSWITHCHANCES}"
 "specials.v2.property.randomspecialwithchance.extradescriptionline","{0}: {1} %"
@@ -939,9 +939,9 @@ Turvallinen varastaminen ohittaa poistettujen tehosteiden toissijaiset vaikutuks
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.single.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","Tuottaa {POWER} % henkisivallusvauriota kohteelle. Henkisivallus poistaa tehosteet turvallisesti ennen vaurion tuottamista."
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectdebuffs.neartotarget.allies.bypassremoveeffects.effectonremoval.healthboost.has_base_power.power_changes_per_removed_status_from_target","Tehostaa loitsijan ja lähellä olevien liittolaisten terveyttä {FIXEDPOWER} pistettä henkiauralla. Henkiaura poistaa vaivat turvallisesti ennen terveyden tehostamista."
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.all.allies.effectonremoval.addmana.power_changes_per_removed_status_from_target","Puhdistaa turvallisesti kaikki vaivat kaikilta liittolaisilta, ja lisää kaikkien liittolaisten manaa {POWERPERREMOVALFROMTARGET} % jokaista puhdistettua vaivaa kohti."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra"," Vauriosta vähennetään {POWERPERREMOVALFROMTARGET} % jokaista poistettua tehostetta kohti.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","Vauriosta vähennetään {POWERPERREMOVALFROMTARGET} % jokaista poistettua tehostetta kohti.
  Myös ei häivytettävissä olevat tehosteet poistetaan."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra"," Terveystehostusta vähennetään {FIXEDPOWERPERREMOVALFROMTARGET} jokaista poistettua vaivaa kohti.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","Terveystehostusta vähennetään {FIXEDPOWERPERREMOVALFROMTARGET} jokaista poistettua vaivaa kohti.
  Myös ei puhdistettavissa olevat vaivat poistetaan."
 "specials.v2.property.repeatspecial.blade_wings.random","Onnistuneen loitsimisen jälkeen {REPEATCHANCE} %:n mahdollisuus loitsia Teräsiivet uudelleen satunnaiseen kohteeseen.
 Voi loitsia uudelleen enintään {MAXREPEATS} kertaa. Uudelleen loitsimisen mahdollisuus laskee {REPEATCHANCEDECREASE} % jokaisen onnistuneen loitsimisen jälkeen."
@@ -1112,14 +1112,15 @@ Viholliset, joilla on käskyläisiä tai megakäskyläisiä saavat {STATUSEFFECT
 Viholliset, joilla on käskyläisiä tai megakäskyläisiä saavat {STATUSEFFECT1DEFENSE} % puolustusta {STATUSEFFECT1TURNS} vuoron ajaksi."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","Tuottaa {POWERFORTARGETSTHATMEETCONDITION} % vauriota vihollisille, joilla on puolustustehosteita, käskyläisiä tai megakäskyläisiä.
 Viholliset, joilla on puolustustehosteita, käskyläisiä tai megakäskyläisiä saavat {STATUSEFFECT1DEFENSE} % puolustusta {STATUSEFFECT1TURNS} vuoron ajaksi."
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","Siementaimiriiviö kehittyy taimiriiviöksi {EVOLVINGFAMILIAR1EVOLVETURNS} vuoron jälkeen.
-Taimiriiviö kehittyy kukkivaksi megariiviöksi {EVOLVINGFAMILIAR2EVOLVETURNS} vuoron jälkeen.
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","[#!]Siementaimiriiviö[#] kehittyy [#!]taimiriiviöksi[#] {EVOLVINGFAMILIAR1EVOLVETURNS} vuoron jälkeen.
+[*][#!]Taimiriiviö[#] kehittyy [#!]kukkivaksi megariiviöksi[#] {EVOLVINGFAMILIAR2EVOLVETURNS} vuoron jälkeen.
 
- Siementaimiriiviö: {EVOLVINGFAMILIAR1FAMILIARATTACK} % hyökkäystä, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % terveyttä
- Taimiriiviö: {EVOLVINGFAMILIAR2FAMILIARATTACK} % hyökkäystä, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % terveyttä
- Kukkiva megariiviö: {EVOLVINGFAMILIAR3FAMILIARATTACK} % hyökkäystä, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % terveyttä.
+[*] [#!]Siementaimiriiviö[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] terveyttä
+[*] [#!]Taimiriiviö[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] terveyttä
+[*] [#!]Kukkiva megariiviö[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] terveyttä.
 
-Riiviö vaurioittaa kohdettaan joka vuorolla. Riiviö katoaa imettyään parannusta. Tarvittavan parannuksen määrä riippuu kohteen maksimiterveydestä."
+[*]Riiviö vaurioittaa kohdettaan joka vuorolla. Riiviö katoaa imettyään parannusta. Tarvittavan parannuksen määrä riippuu kohteen maksimiterveydestä.
+[*]Riiviöiden evoluutio viivästyy {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} vuorolla aina kun ne imevät parannusta."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","Jos kohteella on riiviöitä tai megariiviöitä, tämä tuottaa {DAMAGE} % vauriota satunnaiselle toiselle viholliselle.
 Kutsuu jokaiselle osutulle viholliselle siementaimiriiviön."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","Jos kohteella on riiviöitä tai megariiviöitä, tämä tuottaa {DAMAGE} % vauriota satunnaiselle toiselle viholliselle.
@@ -1138,7 +1139,7 @@ Kutsuu jokaiselle osutulle viholliselle siementaimiriiviön."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold","Jos kohteella oli yli {THRESHOLD1} % terveyttä ennen vaurion kärsimistä, tuottaa vauriota toiselle viholliselle, jolla oli yli {THRESHOLD2} % terveyttä ennen tämä erikoistaidon tuottaman vaurion kärsimistä. Jos yhdelläkään muulla vihollisella ei ollut {THRESHOLD3} % terveyttä, tuottaa vauriota satunnaiselle viholliselle. Jokaisen perättäisen osuman vaurio laskee. Kuhunkin viholliseen voi osua vain kerran."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold.damage_increases","Jos kohteella oli yli {THRESHOLD1} % terveyttä ennen vaurion kärsimistä, tuottaa vauriota toiselle viholliselle, jolla oli yli {THRESHOLD2} % terveyttä ennen tämä erikoistaidon tuottaman vaurion kärsimistä. Jos yhdelläkään muulla vihollisella ei ollut {THRESHOLD3} % terveyttä, tuottaa vauriota satunnaiselle viholliselle. Jokaisen perättäisen osuman vaurio nousee. Kuhunkin viholliseen voi osua vain kerran."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_mana_threshold","Jos kohteella oli yli {THRESHOLD1} % manaa ennen vaurion kärsimistä, tuottaa vauriota toiselle viholliselle, jolla oli yli {THRESHOLD2} % manaa ennen tämä erikoistaidon tuottaman vaurion kärsimistä. Jos yhdelläkään muulla vihollisella ei ollut {THRESHOLD3} % manaa, tuottaa vauriota satunnaiselle viholliselle. Jokaisen perättäisen osuman vaurio laskee. Kuhunkin viholliseen voi osua vain kerran."
-"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","Jos kohteella on alle {THRESHOLD1} % terveyttä ennen vaurion kärsimistä, tuottaa vauriota toiselle viholliselle, jolla oli alle {THRESHOLD2} % terveyttä ennen tämän erikoistaidon tuottaman vaurion kärsimistä. Jos yhdelläkään muulla vihollisella ei ole {THRESHOLD3} % terveyttä, tuottaa vauriota satunnaiselle viholliselle. Jokaisen perättäisen osuman vaurio laskee. Kuhunkin viholliseen voi osua vain kerran."
+"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","Jos kohteella on alle {THRESHOLD1} % terveyttä ennen vaurion kärsimistä, tuottaa vauriota toiselle viholliselle, jolla oli alle {THRESHOLD2} % terveyttä ennen tämän erikoistaidon tuottaman vaurion kärsimistä. Jos yhdelläkään muulla vihollisella ei ole alle {THRESHOLD3} % terveyttä, tuottaa vauriota satunnaiselle viholliselle. Jokaisen perättäisen osuman vaurio laskee. Kuhunkin viholliseen voi osua vain kerran."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.blue_tiles.all","Jos laudalla on vähintään {COUNTREQUIREMENT} jääkilpeä, kaikki viholliset kärsivät vauriota."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.green_tiles.all","Jos laudalla on vähintään {COUNTREQUIREMENT} luontokilpeä, kaikki viholliset kärsivät vauriota."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.purple_tiles.all","Jos laudalla on vähintään {COUNTREQUIREMENT} pimeyden kilpeä, kaikki viholliset kärsivät vauriota ja saavat vaivoja."
@@ -2693,3 +2694,4 @@ Sankarin hulluutta voi laskea erikoistaidon suoralla parannuksella."
 "specials.v2.strongattack.yellow","Tuottaa lisävauriota pyhää vastaan."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","Tämä efekti voi tapahtua vain kerran ikitursaanpääkäskyläistä kohti."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","Kun ikitursaanpääkäskyläinen kukistuu, satunnainen liittolainen saa uudelleensyntyneen ikitursaanpääkäskyläisen, joka perii alkuperäisen käskyläisen ominaisuudet."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","[#!]Kasauma +{BASESTACKCOUNT} (maksimi: {MAXSTACK}):[#] Kaikki loitsijan ja lähellä olevien liittolaisten kärsimä vaurio laskee {DAMAGEMODIFIER} %"

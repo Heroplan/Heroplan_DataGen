@@ -524,7 +524,7 @@ Anfallaren får följande statuseffekter för varje träff:
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","Gör {DAMAGE} % skada mot målet och {MAXHITS} slumpmässiga fiender.
 Åkallar ett groddodjur på varje fiende som träffas."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","Gör {DAMAGE} % skada mot målet och {MAXHITS} slumpmässiga fiender.
-Åkallar ett groddodjur på varje fiende som träffas."
+[*]Åkallar ett [#!]groddodjur[#] på varje fiende som träffas."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","Gör {DAMAGE} % skada mot målet och {MAXHITS} slumpade fiender.
 Åkallar ett missilodjur mot fiender. Det skadar fienden med {FAMILIARATTACK} % attack i varje runda.
 Missilodjuret absorberar läkning och försvinner när det absorberat den mängd hälsa som motsvarar {FAMILIARHEALTHPERCENT} % av sin ägares maximala hälsa."
@@ -635,7 +635,7 @@ Mörk kub reducerar målets maxhälsa med {REDUCTION}. Effekten är starkare mot
 "specials.v2.property.effectonkill.heal.single.allies.addmana.single.allies.directeffecttargettype.single","Om en fiende besegras av attacken återfår användaren {EFFECT1POWER} % hälsa och får {EFFECT2POWER} % mana."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single","Användaren får {FIXEDPOWER} hälsa om målet besegras av attacken."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single.fixedpower","Användaren får {FIXEDPOWER} hälsa om målet besegras av attacken."
-"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","Om målet besegras av attacken får alla allierade {EFFECT2POWER} % mana och {EFFECT1FIXEDPOWER} mer hälsa. Hälsohöjningen kan överstiga maxhälsan."
+"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","Om målet besegras av attacken får alla allierade {EFFECT2POWER} % mana och deras hälsa ökar med {EFFECT1FIXEDPOWER}. Hälsohöjningen kan överstiga maxhälsan."
 "specials.v2.property.effectonkill.statuseffect.fearstatuseffectskill.neartotarget.enemies","Om målet besegras av attacken kan fiender i närheten drabbas av skräck i {STATUSEFFECT1TURNS} rundor."
 "specials.v2.property.effectonkill.statuseffect.insanity.neartotargetexceptmaintarget.enemies","Om målet besegras av attacken drabbas fiender i närheten av {STATUSEFFECT1INSANITYTOADD} vansinne."
 "specials.v2.property.effectonkill.statuseffect.manafreeze.neartotargetexceptmaintarget.enemies","Om målet besegras av attacken kan fiender i närheten inte få mana under {STATUSEFFECT1TURNS} rundor."
@@ -940,9 +940,9 @@ Riskfria stölder kringgår sekundära effekter, såsom skada vid borttagning, h
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.single.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","Gör {POWER} % skada med andehugg mot målet. Andehugg tar säkert bort bonusar innan det gör skada."
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectdebuffs.neartotarget.allies.bypassremoveeffects.effectonremoval.healthboost.has_base_power.power_changes_per_removed_status_from_target","Ökar hälsan hos användaren och allierade i närheten med {FIXEDPOWER} med andeaura. Andeaura tar säkert bort negativa statuseffekter innan den ökar hälsan."
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.all.allies.effectonremoval.addmana.power_changes_per_removed_status_from_target","Rensar säkert alla negativa statuseffekter från alla allierade och ökar alla allierades mana med {POWERPERREMOVALFROMTARGET} % för varje rensad negativ effekt."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra"," Skadan sänks med {POWERPERREMOVALFROMTARGET} % per borttagen bonus.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","Skadan sänks med {POWERPERREMOVALFROMTARGET} % per borttagen bonus.
  Bonusar som inte kan avbrytas tas också bort."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra"," Hälsobonusen sänks med {FIXEDPOWERPERREMOVALFROMTARGET} per borttagen negativ statuseffekt.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","Hälsobonusen sänks med {FIXEDPOWERPERREMOVALFROMTARGET} per borttagen negativ statuseffekt.
  Negativa statuseffekter som inte kan renas tas också bort."
 "specials.v2.property.repeatspecial.blade_wings.random","Har {REPEATCHANCE} % chans att använda Svärdvingar igen på ett slumpmässigt mål efter en lyckad användning.
 Går att använda på nytt upp till {MAXREPEATS} gånger, och chansen för återanvändning sjunker med {REPEATCHANCEDECREASE} % efter varje lyckad användning."
@@ -1113,19 +1113,20 @@ Fiender med undersåtar eller megaundersåtar får {STATUSEFFECT1DEFENSE} % fö
 Fiender med undersåtar eller megaundersåtar får {STATUSEFFECT1DEFENSE} % försvar i {STATUSEFFECT1TURNS} rundor."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","Gör {POWERFORTARGETSTHATMEETCONDITION} % skada mot fiender med försvarsbonusar, undersåtar eller megaundersåtar.
 Fiender med försvarsbonusar, undersåtar eller megaundersåtar får {STATUSEFFECT1DEFENSE} % försvar i {STATUSEFFECT1TURNS} rundor."
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","Groddodjuret utvecklas till ett skottodjur efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.
-Skottodjuret utvecklas till ett blomstermegaodjur efter {EVOLVINGFAMILIAR2EVOLVETURNS} rundor.
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","[#!]Groddodjuret[#] utvecklas till ett [#!]skottodjur[#] efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.
+[*][#!]Skottodjuret[#] utvecklas till ett [#!]blomstermegaodjur[#] efter {EVOLVINGFAMILIAR2EVOLVETURNS} rundor.
 
-Groddodjuret:
-{EVOLVINGFAMILIAR1FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % hälsa.
+[#!]Groddodjuret[#]:
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] attack, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] hälsa.
 
-Skottodjuret:
-{EVOLVINGFAMILIAR2FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % hälsa.
+[#!]Skottodjuret[#]:
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] attack, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] hälsa.
 
-Blomstermegaodjuret: 
-{EVOLVINGFAMILIAR3FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % hälsa.
+[#!]Blomstermegaodjuret[#]: 
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] attack, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] hälsa.
 
-Odjur skadar sina mål varje runda. Odjur försvinner efter att ha absorberat läkning. Mängden läkning som krävs beror på målets maxhälsa."
+[*]Odjur skadar sina mål varje runda. Odjur försvinner efter att ha absorberat läkning. Mängden läkning som krävs beror på målets maxhälsa.
+[*]Utvecklingen av odjur fördröjs med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runda varje gång de absorberar läkning."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","Om målet har odjur eller megaodjur tar en annan slumpmässig fiende {DAMAGE} % skada.
 Åkallar ett groddodjur på varje fiende som träffas."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","Om målet har odjur eller megaodjur tar en annan slumpmässig fiende {DAMAGE} % skada.
@@ -1144,7 +1145,7 @@ Odjur skadar sina mål varje runda. Odjur försvinner efter att ha absorberat l�
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold","Om måltavlan hade mer än {THRESHOLD1} % hälsa innan den tog skada så blir en annan fiende som hade mer än {THRESHOLD2} % hälsa innan den tog skada från den här specialförmågan ett mål. Om ingen av fienderna hade {THRESHOLD3} % hälsa så blir en slumpmässig fiende mål. Skadan sänks med varje ny träff. Varje fiende kan bara träffas en gång."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold.damage_increases","Om måltavlan hade mer än {THRESHOLD1} % hälsa innan den tog skada så blir en annan fiende som hade mer än {THRESHOLD2} % hälsa innan den tog skada från den här specialförmågan ett mål. Om ingen av fienderna hade {THRESHOLD3} % hälsa så blir en slumpmässig fiende mål. Skadan höjs med varje ny träff. Varje fiende kan bara träffas en gång."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_mana_threshold","Om måltavlan hade mer än {THRESHOLD1} % mana innan den tog skada blir en annan fiende som hade mer än {THRESHOLD2} % mana innan den tog skada från den här specialförmågan ett mål. Om ingen av fienderna hade {THRESHOLD3} % mana så blir en slumpmässig fiende mål. Skadan sänks per träff. Varje fiende kan bara träffas en gång."
-"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","Om måltavlan har mindre än {THRESHOLD1} % hälsa innan den tog skada så blir en annan fiende som hade mindre än {THRESHOLD2} % hälsa innan den tog skada från den här specialförmågan ett mål. Om inga av de andra fienderna har {THRESHOLD3} % hälsa så blir en slumpmässig fiende målet. Skadan sänks per träff. Varje fiende kan bara träffas en gång."
+"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","Om måltavlan har mindre än {THRESHOLD1} % hälsa innan den tog skada så blir en annan fiende som hade mindre än {THRESHOLD2} % hälsa innan den tog skada från den här specialförmågan ett mål. Om inga av de andra fienderna har mindre än {THRESHOLD3} % hälsa så blir en slumpmässig fiende målet. Skadan sänks per träff. Varje fiende kan bara träffas en gång."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.blue_tiles.all","Om det finns {COUNTREQUIREMENT} eller fler issköldar på brädet tar alla fiender skada istället."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.green_tiles.all","Om det finns {COUNTREQUIREMENT} eller fler natursköldar på brädet tar alla fiender skada istället."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.purple_tiles.all","Om det finns {COUNTREQUIREMENT} eller fler mörkersköldar på brädet tar alla fiender skada och de negativa statuseffekterna istället."
@@ -2701,3 +2702,4 @@ En hjältes vansinne kan minskas genom direkt läkning från en specialförmåga
 "specials.v2.strongattack.yellow","Gör extra skada mot heligt."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","Effekten kan bar aktiveras en gång per hydrahuvudsundersåte."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","När hydrahuvudsundersåten besegras får en slumpvald allierad en återfödd hydrahuvudsundersåte som ärver den ursprungliga undersåtens attribut."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","[#!]Staplas +{BASESTACKCOUNT} (Max: {MAXSTACK}):[#] All skada som användaren och allierade i närheten tar sänks med {DAMAGEMODIFIER} %."

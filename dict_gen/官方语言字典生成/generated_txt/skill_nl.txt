@@ -522,7 +522,7 @@ Statuseffecten die invloed hebben op ontvangen genezing, hebben ook effect op de
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","Brengt {DAMAGE}% schade toe aan het doelwit en {MAXHITS} willekeurige vijanden.
 Roept een zaailingdemon aan voor elke geraakte vijand."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","Brengt {DAMAGE}% schade toe aan het doelwit en {MAXHITS} willekeurige vijanden.
-Roept een zaailingdemon aan voor elke geraakte vijand."
+[*]Roept een [#!]zaailingdemon[#] aan voor elke geraakte vijand."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","Brengt {DAMAGE}% schade toe aan voor het doelwit en {MAXHITS} willekeurige vijanden.
 Roept een raketdemon aan die vijanden raakt. De demon brengt de vijand elke beurt schade toe met {FAMILIARATTACK}% aanvalskracht.
 De raketdemon absorbeert genezing en verdwijnt als hij het equivalent van {FAMILIARHEALTHPERCENT}% van de maximale gezondheid van zijn eigenaar heeft geabsorbeerd."
@@ -633,7 +633,7 @@ Richt {POWERPERTILE}% extra schade aan voor elk vuurschild op het bord, tot maxi
 "specials.v2.property.effectonkill.heal.single.allies.addmana.single.allies.directeffecttargettype.single","Als een vijand door de aanval wordt verslagen, herstelt de spreukspreker {EFFECT1POWER}% gezondheid en krijgt deze {EFFECT2POWER}% mana."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single","Als het doelwit verslagen wordt door de aanval, herstelt de spreukspreker {FIXEDPOWER} gezondheid."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single.fixedpower","Als het doelwit verslagen wordt door de aanval, herstelt de spreukspreker {FIXEDPOWER} gezondheid."
-"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","Als het doelwit door de aanval wordt verslagen, krijgen alle bondgenoten {EFFECT2POWER}% mana en een gezondheidsboost voor alle bondgenoten met {EFFECT1FIXEDPOWER}. De gezondheidsboost kan niet meer zijn dan maximaal HP"
+"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","Als het doelwit door de aanval wordt verslagen, krijgen alle bondgenoten {EFFECT2POWER}% mana en een gezondheidsboost met {EFFECT1FIXEDPOWER}. De gezondheidsboost kan niet meer zijn dan maximaal gezondheid."
 "specials.v2.property.effectonkill.statuseffect.fearstatuseffectskill.neartotarget.enemies","Als het doelwit verslagen wordt door de aanval, kunnen vijanden in de buurt {STATUSEFFECT1TURNS} beurten overmand worden door angst."
 "specials.v2.property.effectonkill.statuseffect.insanity.neartotargetexceptmaintarget.enemies","Als het doelwit wordt verslagen door de aanval, dan lopen vijanden in de buurt {STATUSEFFECT1INSANITYTOADD} waanzin op."
 "specials.v2.property.effectonkill.statuseffect.manafreeze.neartotargetexceptmaintarget.enemies","Als het doelwit verslagen wordt door de aanval, kunnen vijanden in de buurt {STATUSEFFECT1TURNS} beurten lang geen mana recupereren."
@@ -938,9 +938,9 @@ Veilig stelen omzeilt secundaire effecten zoals schade na verwijdering uit verwi
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.single.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","Brengt {POWER}% bezielde slag-schade toe aan het doelwit. Bezielde slag verwijdert oppeppers veilig voordat er schade wordt veroorzaakt."
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectdebuffs.neartotarget.allies.bypassremoveeffects.effectonremoval.healthboost.has_base_power.power_changes_per_removed_status_from_target","Verhoogt de gezondheid van de spreukspreker en bondgenoten in de buurt met {FIXEDPOWER} met geestaura. Geestaura verwijdert statusaandoeningen veilig voordat ze de gezondheid een boost geven."
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.all.allies.effectonremoval.addmana.power_changes_per_removed_status_from_target","Zuivert veilig alle statuseffecten van alle bondgenoten en verhoogt de mana van alle bondgenoten met {POWERPERREMOVALFROMTARGET}% voor elk gezuiverd effect."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra"," Schade wordt verminderd met {POWERPERREMOVALFROMTARGET}% voor iedere verwijderde oppepper.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","Schade wordt verminderd met {POWERPERREMOVALFROMTARGET}% voor iedere verwijderde oppepper.
  Niet-verwijderbare oppeppers worden ook verwijderd."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra"," De gezondheidsboost wordt verminderd met {FIXEDPOWERPERREMOVALFROMTARGET} voor iedere verwijderde aandoening.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","De gezondheidsboost wordt verminderd met {FIXEDPOWERPERREMOVALFROMTARGET} voor iedere verwijderde aandoening.
  Niet-zuiverbare aandoeningen worden ook verwijderd."
 "specials.v2.property.repeatspecial.blade_wings.random","Heeft na een succesvol gebruik {REPEATCHANCE}% kans om zwaardvleugels nogmaals toe te passen op een willekeurig doelwit.
 Kan toe {MAXREPEATS} keer opnieuw toepassen en de kans wordt na elke gelukte toepassing met {REPEATCHANCEDECREASE}% verlaagd."
@@ -1113,14 +1113,15 @@ Vijanden met volgelingen of megavolgelingen krijgen {STATUSEFFECT1TURNS} beurten
 Vijanden met volgelingen of megavolgelingen krijgen {STATUSEFFECT1TURNS} beurten lang {STATUSEFFECT1DEFENSE}% verdedigingskracht."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","Brengt {POWERFORTARGETSTHATMEETCONDITION}% schade toe aan vijanden met verdedigingsoppeppers, volgelingen of megavolgelingen.
 Vijanden met verdedigingsoppeppers, volgelingen of megavolgelingen krijgen {STATUSEFFECT1TURNS} beurten lang {STATUSEFFECT1DEFENSE}% verdedigingskracht."
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","De zaailingdemon ontwikkelt zich tot een scheutdemon na {EVOLVINGFAMILIAR1EVOLVETURNS} beurten.
-De scheutdemon ontwikkelt zich tot een bloesemmegademon na {EVOLVINGFAMILIAR2EVOLVETURNS} beurten.
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","De [#!]zaailingdemon[#] ontwikkelt zich tot een [#!]scheutdemon[#] na {EVOLVINGFAMILIAR1EVOLVETURNS} beurten.
+[*]De [#!]scheutdemon[#] ontwikkelt zich tot een [#!]bloesemmegademon[#] na {EVOLVINGFAMILIAR2EVOLVETURNS} beurten.
 
- Zaailingdemon: {EVOLVINGFAMILIAR1FAMILIARATTACK}% aanvalskracht, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% gezondheid
- Scheutdemon: {EVOLVINGFAMILIAR2FAMILIARATTACK}% aanvalskracht, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% gezondheid
- Bloesemmegademon: {EVOLVINGFAMILIAR3FAMILIARATTACK}% aanvalskracht, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% gezondheid
+[*] [#!]Zaailingdemon[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]% aanvalskracht, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]% gezondheid
+[*] [#!]Scheutdemon[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] aanvalskracht, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] gezondheid
+[*] [#!]Bloesemmegademon[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] aanvalskracht, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] gezondheid
 
-Een demon brengt zijn doelwit elke beurt schade toe. Een demon verdwijnt na genezing te hebben geabsorbeerd. De vereiste hoeveelheid genezing hangt af van de maximale gezondheid van het doelwit."
+[*]Een demon brengt zijn doelwit elke beurt schade toe. Een demon verdwijnt na genezing te hebben geabsorbeerd. De vereiste hoeveelheid genezing hangt af van de maximale gezondheid van het doelwit.
+[*]Elke keer dat demonen gezondheid absorberen, wordt hun evolutie vertraagd met {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} beurt."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","Brengt {DAMAGE}% schade toe aan een willekeurige, andere vijand als het doelwit demonen of megademonen heeft.
 Roept een zaailingdemon aan voor elke geraakte vijand."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","Brengt {DAMAGE}% schade toe aan een willekeurige, andere vijand als het doelwit demonen of megademonen heeft.
@@ -1139,7 +1140,7 @@ Roept een zaailingdemon aan voor elke geraakte vijand."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold","Als het doelwit meer dan {THRESHOLD1}% gezondheid had voordat het schade leed, wordt een andere vijand het doelwit die meer dan {THRESHOLD2}% gezondheid had voordat hij schade leed door deze speciale vaardigheid. Als geen van de andere vijanden {THRESHOLD3}% schade hadden, wordt een willekeurige vijand het doelwit. De schade wordt minder bij iedere achtereenvolgende treffer. Iedere vijand kan maar één keer worden getroffen."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold.damage_increases","Als het doelwit meer dan {THRESHOLD1}% gezondheid had voordat het schade leed, wordt een andere vijand het doelwit die meer dan {THRESHOLD2}% gezondheid had voordat hij schade leed door deze speciale vaardigheid. Als geen van de andere vijanden {THRESHOLD3}% schade hadden, wordt een willekeurige vijand het doelwit. De schade wordt vergroot bij iedere achtereenvolgende treffer. Iedere vijand kan maar één keer worden getroffen."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_mana_threshold","Als het doelwit meer dan {THRESHOLD1}% mana had voordat het schade leed, wordt een andere vijand het doelwit die meer dan {THRESHOLD2}% mana had voordat hij schade leed door deze speciale vaardigheid. Als geen van de andere vijanden {THRESHOLD3}% mana hadden, wordt een willekeurige vijand het doelwit. De schade wordt minder bij iedere achtereenvolgende treffer. Iedere vijand kan maar één keer worden getroffen."
-"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","Als het doelwit minder dan {THRESHOLD1}% gezondheid heeft voordat het schade lijdt, wordt een andere vijand die minder dan {THRESHOLD2}% gezondheid heeft voordat het schade lijdt door deze speciale vaardigheid. Als geen van de andere vijanden {THRESHOLD3}% schade heeft, wordt een willekeurige vijand het doelwit. De schade wordt minder bij iedere achtereenvolgende treffer. Iedere vijand kan maar één keer worden getroffen."
+"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","Als het doelwit minder dan {THRESHOLD1}% gezondheid heeft voordat het schade lijdt, wordt een andere vijand die minder dan {THRESHOLD2}% gezondheid heeft voordat het schade lijdt door deze speciale vaardigheid. Als geen van de andere vijanden minder dan {THRESHOLD3}% schade heeft, wordt een willekeurige vijand het doelwit. De schade wordt minder bij iedere achtereenvolgende treffer. Iedere vijand kan maar één keer worden getroffen."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.blue_tiles.all","Als er {COUNTREQUIREMENT} of meer ijsschilden op het bord zijn, wordt er in plaats daarvan schade toegebracht aan alle vijanden."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.green_tiles.all","Als er {COUNTREQUIREMENT} of meer natuurschilden op het bord zijn, wordt er in plaats daarvan schade toegebracht aan alle vijanden."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.purple_tiles.all","Als er {COUNTREQUIREMENT} of meer duistere schilden op het bord zijn, worden er in plaats daarvan schade en statusaandoeningen toegebracht aan alle vijanden."
@@ -2692,3 +2693,4 @@ De waanzin van een held kan worden verminderd door directe genezing van een spec
 "specials.v2.strongattack.yellow","Extra schadelijk tegen Heiligheid."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","Dit effect kan slechts één keer per hydrahoofdvolgeling plaatsvinden."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","Wanneer de hydrahoofdvolgeling wordt verslagen, krijgt een willekeurige bondgenoot een herboren hydrahoofdvolgeling met de statistieken van de oorspronkelijke volgeling."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","[#!]Cumulatief +{BASESTACKCOUNT} (max. {MAXSTACK}):[#] alle schade die de spreukspreker en bondgenoten in de buurt oplopen, wordt verlaagd met {DAMAGEMODIFIER}%."

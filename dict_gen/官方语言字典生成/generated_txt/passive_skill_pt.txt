@@ -45,7 +45,7 @@ O Núcleo Destrutivo é ativado a cada vez que a habilidade especial deste perso
 "herocard.passive_skill.description.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","A cada {TURNS} turnos, devora todos os ajudantes de um inimigo aleatório e ganha uma pequena quantidade de mana por cada ajudante devorado."
 "herocard.passive_skill.description.effectondamagedone.bufftoremove.minordebuff.latest.from.all.allies.safe.specialskill.only_criticals.once","Ao causar um acerto crítico com a habilidade especial, este personagem expurga com segurança o mal de status expurgável mais recente de todos os aliados. Este efeito pode ser ativado uma vez por turno."
 "herocard.passive_skill.description.effectondamagedone.healthboost.all.allies.specialskill.only_criticals.once","Ao causar um acerto crítico com a habilidade especial, este personagem reforça em {HEALTHBOOST}% a vida de todos os aliados. Este efeito pode ser ativado uma vez por turno."
-"herocard.passive_skill.description.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill.single.allies.onceperturn"," Quando este personagem lança a habilidade especial e atinge um personagem com mais PV do que ele, recebe {PASSIVESKILL1HEALTHBOOST}% de vida reforçada.
+"herocard.passive_skill.description.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill.single.allies.onceperturn","Quando este personagem lança a habilidade especial e atinge um personagem com mais PV do que ele, recebe {PASSIVESKILL1HEALTHBOOST}% de vida reforçada.
  Quando este personagem é atingido pela  habilidade especial de um personagem com mais PV que ele, recebe {PASSIVESKILL2POWER}% de mana.
  Cada um destes efeitos pode ser ativado uma vez por turno."
 "herocard.passive_skill.description.effectondamagereceived.addmana.specialskill.single.allies","Quando recebe dano de habilidades especiais, este personagem recebe {POWER}% de mana."
@@ -104,7 +104,7 @@ Limite de {MAXMANAGAINPERTURN}% de mana por turno."
 "herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.damage.all.enemies.enemies.parasite","Quando um demônio é convocado para qualquer inimigo, este personagem causa {DAMAGE}% de dano a todos os inimigos. Este efeito pode ser ativado uma vez por turno."
 "herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.healthboost.fixedpower.enemies.parasite","Quando um demônio é convocado para qualquer inimigo, este personagem recebe {POWER} de vida reforçada. Este efeito pode ser ativado uma vez por turno."
 "herocard.passive_skill.description.extraactionsafterspecial","{CHANCE}% de chance de realizar ações adicionais quando este personagem usa a habilidade especial:"
-"herocard.passive_skill.description.familiaraccuracymodifier.all.enemies.minion.bigminion"," Todos os ajudantes dos inimigos têm {MINIONMODIFIER}% de precisão.
+"herocard.passive_skill.description.familiaraccuracymodifier.all.enemies.minion.bigminion","Todos os ajudantes dos inimigos têm {MINIONMODIFIER}% de precisão.
  Todos os mega-ajudantes dos inimigos têm {MEGAMINIONMODIFIER}% de precisão."
 "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","O núcleo de construto deste personagem é um núcleo de ajudante.
 
@@ -232,7 +232,7 @@ Isso inclui males e reforços de efeitos de status, acumulações positivas e ne
 "herocard.passive_skill.description.resist.criticalhits.none","Este personagem é imune a dano adicional e aos efeitos adicionais de acertos críticos."
 "herocard.passive_skill.description.resist.defensemodifierdebuffs","Este personagem é imune a males de status que afetam a defesa. Não se aplica a males de status que afetam a defesa elemental."
 "herocard.passive_skill.description.resist.defensemodifiers.alldebuffs","Este personagem é imune a males de status e acumulações negativas que afetam a defesa. Não se aplica a males de status que afetam a defesa elemental."
-"herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion"," Imune a efeitos que removem ajudantes.
+"herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion","Imune a efeitos que removem ajudantes.
  Não pode ser impedido de receber ajudantes.
  Os ataques e as habilidades de ajudantes não podem ser desativadas."
 "herocard.passive_skill.description.resist.frost","Este personagem é imune a males de status causam dano de neve."
@@ -288,10 +288,10 @@ O Hospedeiro Místico tem:
 
 {ALTERNATIVEFORMSPECIALTITLE}
 {ALTERNATIVEFORMSPECIALDESCRIPTION}"
-"herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance"," Quando é derrotado, este personagem tem {TOTALCHANCE}% de chance de reviver no início do turno seguinte com {HEALTH}% de vida e {MANA}% de mana.
+"herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance","Quando é derrotado, este personagem tem {TOTALCHANCE}% de chance de reviver no início do turno seguinte com {HEALTH}% de vida e {MANA}% de mana.
 
  Limite de {MAXACTIVATIONCOUNT} ativações. A chance de reviver diminui a cada ativação. Males de status e habilidades passivas não previnem o efeito."
-"herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance.ignoresreviveblockingdebuffs"," Quando é derrotado, este personagem tem {TOTALCHANCE}% de chance de reviver no início do turno seguinte com {HEALTH}% de vida e {MANA}% de mana.
+"herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance.ignoresreviveblockingdebuffs","Quando é derrotado, este personagem tem {TOTALCHANCE}% de chance de reviver no início do turno seguinte com {HEALTH}% de vida e {MANA}% de mana.
 
  Limite de {MAXACTIVATIONCOUNT} ativações. A chance de reviver diminui a cada ativação. Males de status e habilidades passivas não previnem o efeito."
 "herocard.passive_skill.description.setstatuseffectdurationonaddition.all.allies.activates_on_ally_action.alldebuffs.dance","Todas as Baladas lançadas por inimigos duram apenas {TURNS} turno."
@@ -366,34 +366,34 @@ Demônio Broto:
 
 Megademônio Broto:
 {EVOLVINGFAMILIAR3FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% de vida"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Convoca um demônio Seedling a cada turno para um inimigo aleatório. Essa habilidade passiva é ativada uma vez por turno para cada equipe.
- O demônio Muda se transforma em demônio Broto após  {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
- O demônio Broto se transforma em megademônio Florescência após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos. A evolução dos demônios é atrasada em {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que eles absorvem cura.
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Convoca um [#!]demônio Seedling[#] a cada turno para um inimigo aleatório. Essa habilidade passiva é ativada uma vez por turno para cada equipe.
+[*] O [#!]demônio Muda[#] se transforma em [#!]demônio Broto[#] após  {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
+[*] O [#!]demônio Broto[#] se transforma em [#!]megademônio Florescência[#] após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.[*] A evolução dos demônios é atrasada em {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que eles absorvem cura.
 
 
 
-Demônio Muda:
-{EVOLVINGFAMILIAR1FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% de vida
+[#!]Demônio Muda[#]:
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] de vida
 
-Demônio Broto:
-{EVOLVINGFAMILIAR2FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% de vida
+[#!]Demônio Broto[#]:
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] de vida
 
-Megademônio Broto:
-{EVOLVINGFAMILIAR3FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% de vida"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Convoca um demônio Seedling a cada turno para um inimigo aleatório. Essa habilidade passiva é ativada uma vez por turno para cada equipe.
- O demônio Muda se transforma em demônio Broto após  {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
- O demônio Broto se transforma em megademônio Florescência após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos. A evolução dos demônios é atrasada em {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que eles absorvem cura.
+[#!]Megademônio Broto[#]:
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] de vida"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Convoca um [#!]demônio Seedling[#] a cada turno para um inimigo aleatório. Essa habilidade passiva é ativada uma vez por turno para cada equipe.
+[*] O [#!]demônio Muda[#] se transforma em [#!]demônio Broto[#] após  {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
+[*] O [#!]demônio Broto[#] se transforma em [#!]megademônio Florescência[#] após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.[*] A evolução dos demônios é atrasada em {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que eles absorvem cura.
 
 
 
-Demônio Muda:
-{EVOLVINGFAMILIAR1FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% de vida
+[#!]Demônio Muda[#]:
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] de vida
 
-Demônio Broto:
-{EVOLVINGFAMILIAR2FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% de vida
+[#!]Demônio Broto[#]:
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] de vida
 
-Megademônio Broto:
-{EVOLVINGFAMILIAR3FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% de vida"
+[#!]Megademônio Broto[#]:
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] de vida"
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Quando é derrotado, este personagem convoca mega-ajudantes Gosma para os aliados próximos com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque deste personagem."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Quando é derrotado, este personagem convoca mega-ajudantes Gosma para os aliados próximos com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque deste personagem."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Quando é derrotado, este personagem convoca mega-ajudantes Gosma para os aliados próximos com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque deste personagem."
@@ -722,3 +722,17 @@ Esbelto"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Transformação de Reforços"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Transformação de Males"
 "herocard.passive_skill.title.wither.all.enemies","Atrofia"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Convoca um [#!]demônio Seedling[#] a cada turno para um inimigo aleatório.
+[*] O [#!]demônio Muda[#] se transforma em [#!]demônio Broto[#] após  {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
+[*] O [#!]demônio Broto[#] se transforma em [#!]megademônio Florescência[#] após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.[*] A evolução dos demônios é atrasada em {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que eles absorvem cura.
+
+
+
+[#!]Demônio Muda[#]:
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] de vida
+
+[#!]Demônio Broto[#]:
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] de vida
+
+[#!]Megademônio Broto[#]:
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] de vida"

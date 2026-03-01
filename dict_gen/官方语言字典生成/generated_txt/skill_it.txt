@@ -524,7 +524,7 @@ Il demone Verme assorbe la guarigione e scompare dopo aver assorbito Salute pari
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","Infligge il {DAMAGE}% di danni al bersaglio e a {MAXHITS} nemici casuali.
  Evoca un demone Piantina per ogni nemico colpito."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","Infligge il {DAMAGE}% di danni al bersaglio e a {MAXHITS} nemici casuali.
- Evoca un demone Piantina per ogni nemico colpito."
+[*] Evoca un [#!]demone Piantina[#] per ogni nemico colpito."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","Infligge il {DAMAGE}% dei danni al beraglio e a {MAXHITS} nemici a caso.
 Chiama un demone missile per il bersaglio e per i nemici vicini. Il demone missile infligge danni al nemico con il {FAMILIARATTACK}% di Attacco a ogni turno.
 Il demone missile assorbe la guarigione e scompare quando ha assorbito Salute pari al {FAMILIARHEALTHPERCENT}% della Salute massima del suo proprietario."
@@ -634,7 +634,7 @@ I Cubi oscuri riducono di {REDUCTION} la Salute massima del bersaglio. L'effetto
 "specials.v2.property.effectonkill.heal.single.allies.addmana.single.allies.directeffecttargettype.single","Se un nemico viene sconfitto dall'attacco, l'evocatore recupera il {EFFECT1POWER}% di Salute e guadagna il {EFFECT2POWER}% di mana."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single","Se il bersaglio viene sconfitto dall'attacco, l'evocatore recupera {FIXEDPOWER} di Salute."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single.fixedpower","Se il bersaglio viene sconfitto dall'attacco, l'evocatore recupera {FIXEDPOWER} di Salute."
-"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","Se il bersaglio viene sconfitto dall'attacco, tutti gli alleati ottengono il {EFFECT2POWER}% di mana e la Salute di tutti gli alleati aumenta di {EFFECT1FIXEDPOWER}. La Salute potenziata può superare gli HP massimi."
+"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","Se il bersaglio viene sconfitto dall'attacco, tutti gli alleati ottengono il {EFFECT2POWER}% di mana e la loro Salute  aumenta di {EFFECT1FIXEDPOWER}. La Salute potenziata può superare gli HP massimi."
 "specials.v2.property.effectonkill.statuseffect.fearstatuseffectskill.neartotarget.enemies","Se il bersaglio viene sconfitto dall'attacco, i nemici vicini soccombono a Paura per {STATUSEFFECT1TURNS} turni."
 "specials.v2.property.effectonkill.statuseffect.insanity.neartotargetexceptmaintarget.enemies","Se il bersaglio viene sconfitto dall'attacco, i nemici vicini subiscono {STATUSEFFECT1INSANITYTOADD} di Follia."
 "specials.v2.property.effectonkill.statuseffect.manafreeze.neartotargetexceptmaintarget.enemies","Se il bersaglio viene sconfitto dall'attacco, i nemici vicini non potranno guadagnare mana per {STATUSEFFECT1TURNS} turni."
@@ -876,7 +876,7 @@ Le magie benefiche e i disturbi che influenzano Attacco e Difesa non hanno effet
 "specials.v2.property.random_special_mimic","Il mimic effettua uno dei seguenti attacchi speciali:"
 "specials.v2.property.random_special_mimic2","Il mimic effettua uno dei seguenti attacchi speciali:"
 "specials.v2.property.random_special_yona","Prendi una carta per un effetto specifico:"
-"specials.v2.property.random_special_zidane"," Usa un dardo casuale per ottenere un effetto specifico:"
+"specials.v2.property.random_special_zidane","Usa un dardo casuale per ottenere un effetto specifico:"
 "specials.v2.property.randomspecialwithchance.extra","Probabilità di attivazione per ogni effetto:
 {SPECIALSWITHCHANCES}"
 "specials.v2.property.randomspecialwithchance.extradescriptionline","{0}: {1}%"
@@ -939,9 +939,9 @@ Le magie benefiche e i disturbi che influenzano Attacco e Difesa non hanno effet
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.single.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","Infligge il {POWER}% di danni di Fendente spirituale al bersaglio. Fendente spirituale rimuove le magie benefiche in modo sicuro prima di infliggere danni."
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectdebuffs.neartotarget.allies.bypassremoveeffects.effectonremoval.healthboost.has_base_power.power_changes_per_removed_status_from_target","Aumenta di {FIXEDPOWER} la Salute dell'evocatore e degli alleati vicini con Aura spirituale. Aura spirituale rimuove i disturbi prima di potenziare la Salute."
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.all.allies.effectonremoval.addmana.power_changes_per_removed_status_from_target","Rimuove in modo sicuro tutti i disturbi da tutti gli alleati e aumenta del {POWERPERREMOVALFROMTARGET}% il mana di tutti gli alleati per ogni disturbo rimosso."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra"," I danni vengono ridotti del {POWERPERREMOVALFROMTARGET}% per ogni magia benefica rimossa.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","I danni vengono ridotti del {POWERPERREMOVALFROMTARGET}% per ogni magia benefica rimossa.
  Anche le magie benefiche non annullabili vengono rimosse."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra"," L'aumento della Salute viene ridotto di {FIXEDPOWERPERREMOVALFROMTARGET} per ogni disturbo rimosso.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","L'aumento della Salute viene ridotto di {FIXEDPOWERPERREMOVALFROMTARGET} per ogni disturbo rimosso.
  Anche i disturbi non annullabili vengono rimossi."
 "specials.v2.property.repeatspecial.blade_wings.random","Quando il lancio va a segno, ha il {REPEATCHANCE}% di probabilità di lanciare nuovamente Ali di lama su un bersaglio casuale.
  Può essere lanciata fino a {MAXREPEATS} volte e le probabilità di ripeterla vengono ridotte del {REPEATCHANCEDECREASE}% dopo ogni lancio andato a buon fine."
@@ -1112,14 +1112,15 @@ Effetti trasformati:
  I nemici con servitori o servitori Mega ricevono il {STATUSEFFECT1DEFENSE}% di Difesa per {STATUSEFFECT1TURNS} turni."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","Infligge il {POWERFORTARGETSTHATMEETCONDITION}% di danni ai nemici con magie benefiche difensive, servitori o servitori Mega.
  I nemici con magie benefiche difensive, servitori o servitori Mega ricevono il {STATUSEFFECT1DEFENSE}% di Difesa per {STATUSEFFECT1TURNS} turni."
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","Il demone Piantina si evolve in un demone Alberello dopo {EVOLVINGFAMILIAR1EVOLVETURNS} turni.
- Il demone Alberello si evolve in un demone Mega Fiore dopo {EVOLVINGFAMILIAR2EVOLVETURNS} turni.
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","Il [#!]demone Piantina[#] si evolve in un [#!]demone Alberello[#] dopo {EVOLVINGFAMILIAR1EVOLVETURNS} turni.
+[*] Il [#!]demone Alberello[#] si evolve in un [#!]demone Mega Fiore[#] dopo {EVOLVINGFAMILIAR2EVOLVETURNS} turni.
 
- Demone Piantina: {EVOLVINGFAMILIAR1FAMILIARATTACK}% di Attacco, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% di Salute.
- Demone Alberello: {EVOLVINGFAMILIAR2FAMILIARATTACK}% di Attacco, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% di Salute.
- Demone Mega Fiore: {EVOLVINGFAMILIAR3FAMILIARATTACK}% di Attacco, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% di Salute.
+[*] [#!]Demone Piantina[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] di Salute.
+[*] [#!]Demone Alberello[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] di Salute.
+[*] [#!]Demone Mega Fiore[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] di Salute.
 
- Un demone danneggia il suo bersaglio a ogni turno. Un demone scompare dopo aver assorbito la guarigione. La quantità di guarigione richiesta varia in base alla Salute massima del bersaglio."
+[*] Un demone danneggia il suo bersaglio a ogni turno. Un demone scompare dopo aver assorbito la guarigione. La quantità di guarigione richiesta varia in base alla Salute massima del bersaglio.
+[*] L'evoluzione dei demoni viene ritardata di {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno ogni volta che assorbe guarigione."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","Se il bersaglio ha demoni o demoni Mega, infligge un {DAMAGE}% di danni a un nemico diverso a caso.
 Evoca un demone Piantina su ciascun nemico colpito."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","Se il bersaglio ha demoni o demoni Mega, infligge un {DAMAGE}% di danni a un nemico diverso a caso.
@@ -1138,7 +1139,7 @@ Evoca un demone Piantina su ciascun nemico colpito."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold","Se il bersaglio aveva più del {THRESHOLD1}% di Salute prima di subire i danni, prende di mira un altro nemico che aveva più del {THRESHOLD2}% di Salute prima di subire i danni da questa Abilità speciale. Se nessuno degli altri nemici aveva il {THRESHOLD3}% di Salute, il bersaglio sarà un nemico a caso. I danni si riducono a ogni colpo consecutivo. Ogni nemico può essere colpito una sola volta."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold.damage_increases","Se il bersaglio aveva più del {THRESHOLD1}% di Salute prima di subire i danni, prende di mira un altro nemico che aveva più del {THRESHOLD2}% di Salute prima di subire i danni da questa Abilità speciale. Se nessuno degli altri nemici aveva il {THRESHOLD3}% di Salute, il bersaglio sarà un nemico a caso. I danni aumentano a ogni colpo consecutivo. Ogni nemico può essere colpito una sola volta."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_mana_threshold","Se il bersaglio aveva più del {THRESHOLD1}% di mana prima di subire i danni, bersaglia un altro nemico che aveva più del {THRESHOLD2}% di mana prima di ricevere i danni da questa Abilità speciale. Se nessuno degli altri nemici aveva il {THRESHOLD3}% di mana, bersaglia un nemico a caso. I danni si riducono a ogni colpo consecutivo. Ogni nemico può essere colpito una sola volta."
-"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","Se il bersaglio ha meno del {THRESHOLD1}% di Salute prima di subire i danni, bersaglia un altro nemico che aveva meno del {THRESHOLD2}% di Salute prima di subire i danni da questa Abilità speciale. Se nessuno degli altri nemici ha il {THRESHOLD3}% di Salute, il bersaglio sarà un nemico a caso. I danni si riducono a ogni colpo consecutivo. Ogni nemico può essere colpito una sola volta."
+"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","Se il bersaglio ha meno del {THRESHOLD1}% di Salute prima di subire i danni, bersaglia un altro nemico che aveva meno del {THRESHOLD2}% di Salute prima di subire i danni da questa Abilità speciale. Se nessuno degli altri nemici ha meno del {THRESHOLD3}% di Salute, il bersaglio sarà un nemico a caso. I danni si riducono a ogni colpo consecutivo. Ogni nemico può essere colpito una sola volta."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.blue_tiles.all","Se ci sono {COUNTREQUIREMENT} o più scudi di tipo Ghiaccio sul campo di battaglia, i danni vengono inflitti a tutti i nemici."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.green_tiles.all","Se ci sono {COUNTREQUIREMENT} o più scudi di tipo Natura sul campo di battaglia, i danni vengono invece inflitti a tutti i nemici."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.purple_tiles.all","Se ci sono {COUNTREQUIREMENT} o più scudi di tipo Oscurità sul campo di battaglia, i danni e i disturbi vengono invece inflitti a tutti i nemici."
@@ -2695,3 +2696,4 @@ Follia
 "specials.v2.strongattack.yellow","Infligge danni extra contro Sacro."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","Questo effetto può verificarsi solo una volta per ogni servitore Testa d'idra."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","Quando il servitore Testa d'idra viene sconfitto, un alleato a caso riceve un servitore Testa d'idra rinato che eredita le statistiche del servitore originale."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","[#!]Iterazione +{BASESTACKCOUNT} (max: {MAXSTACK}):[#] tutti i danni subiti dall'evocatore e dagli alleati vicini vengono ridotti del {DAMAGEMODIFIER}%."

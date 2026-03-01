@@ -520,7 +520,7 @@
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","對目標和{MAXHITS}名隨機敵人造成{DAMAGE}%傷害。
 每攻擊一個敵人，就召喚一個種子惡魔。"
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","對目標和{MAXHITS}名隨機敵人造成{DAMAGE}%傷害。
-每攻擊一個敵人，就召喚一個種子惡魔。"
+每攻擊一個敵人，就召喚一個[#!]種子惡魔[#]。"
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","對目標和{MAXHITS}隨機敵人造成{DAMAGE}%傷害。
 召喚飛彈惡魔攻擊敵人。惡魔每一回合以{FAMILIARATTACK}%的攻擊力對敵人造成傷害。
 飛彈惡魔會吸收治療效果，並於所吸收的生命值等於其擁有者最大生命值的{FAMILIARHEALTHPERCENT}%時消失。"
@@ -631,7 +631,7 @@
 "specials.v2.property.effectonkill.heal.single.allies.addmana.single.allies.directeffecttargettype.single","若敵人被該攻擊所打敗，施法者恢復{EFFECT1POWER}%生命值並獲得{EFFECT2POWER}%法力。"
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single","若攻擊擊敗目標，施法者會恢復{FIXEDPOWER}生命值。"
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single.fixedpower","若攻擊擊敗目標，施法者會恢復{FIXEDPOWER}生命值。"
-"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","若目標被攻擊擊敗，所有盟友獲得{EFFECT2POWER}%法力，並使所有盟友獲得生命值加成{EFFECT1FIXEDPOWER}。生命值加成可以超過最大生命值"
+"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","若目標被攻擊擊敗，所有盟友獲得{EFFECT2POWER}%法力，且所有盟友生命值加成{EFFECT1FIXEDPOWER}。生命值加成可以超過最大生命值"
 "specials.v2.property.effectonkill.statuseffect.fearstatuseffectskill.neartotarget.enemies","若目標被攻擊擊敗，則附近敵人會屈服於恐懼，持續{STATUSEFFECT1TURNS}個回合。"
 "specials.v2.property.effectonkill.statuseffect.insanity.neartotargetexceptmaintarget.enemies","若目標遭攻擊而落敗，附近敵人則受到{STATUSEFFECT1INSANITYTOADD}點瘋狂。"
 "specials.v2.property.effectonkill.statuseffect.manafreeze.neartotargetexceptmaintarget.enemies","若目標被攻擊擊敗，則附近敵人無法獲得任何法力，持續{STATUSEFFECT1TURNS}個回合。"
@@ -1108,14 +1108,15 @@
 有小兵或超級小兵的敵人獲得{STATUSEFFECT1DEFENSE}%防禦，持續{STATUSEFFECT1TURNS}個回合。"
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","對有任意防禦增益、小兵或超級小兵的敵人造成{POWERFORTARGETSTHATMEETCONDITION}%傷害。
 有任意防禦增益、小兵或超級小兵的敵人獲得{STATUSEFFECT1DEFENSE}%防禦，持續{STATUSEFFECT1TURNS}個回合。"
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","{EVOLVINGFAMILIAR1EVOLVETURNS}回合後，種子惡魔會進化為發芽惡魔。
-{EVOLVINGFAMILIAR2EVOLVETURNS}回合後，發芽惡魔會進化為盛開超級惡魔。
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","{EVOLVINGFAMILIAR1EVOLVETURNS}回合後，[#!]種子惡魔[#]會進化為[#!]發芽惡魔[#]。
+[*]{EVOLVINGFAMILIAR2EVOLVETURNS}回合後，[#!]發芽惡魔[#]會進化為[#!]盛開超級惡魔[#]。
 
- 種子惡魔：{EVOLVINGFAMILIAR1FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%生命。
- 發芽惡魔：{EVOLVINGFAMILIAR2FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%生命。
-盛開超級惡魔：{EVOLVINGFAMILIAR3FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%生命。
+[*] [#!]種子惡魔[#]：[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]生命。
+[*] [#!]發芽惡魔[#]：[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]生命。
+[#!]盛開超級惡魔[#]：[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]生命。
 
-惡魔會在每個回合攻擊其目標。惡魔會在吸收治療後消失。根據目標的最大生命值決定所需的治療量。"
+[*]惡魔會在每個回合攻擊其目標。惡魔會在吸收治療後消失。根據目標的最大生命值決定所需的治療量。
+[*]惡魔每次吸收傷害時，會使進化延遲{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。"
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","如果目標有惡魔或超級惡魔，則對不同的隨機敵人造成{DAMAGE}%傷害。
 每攻擊一個敵人，就召喚一個種子惡魔。"
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","如果目標有惡魔或超級惡魔，則對不同的隨機敵人造成{DAMAGE}%傷害。
@@ -1134,7 +1135,7 @@
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold","若目標在受到傷害前有超過{THRESHOLD1}%的生命，則瞄準其他在受到此特殊技能傷害前超過{THRESHOLD2}%生命的敵人。若無其他敵人有{THRESHOLD3}%生命，則隨機瞄準敵人。每次連續攻擊，傷害會減少。每個敵人只能受攻擊一次。"
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold.damage_increases","若目標在受到傷害前有超過{THRESHOLD1}%的生命，則瞄準其他在受到此特殊技能傷害前超過{THRESHOLD2}%生命的敵人。若無其他敵人有{THRESHOLD3}%生命，則隨機瞄準敵人。每次連續攻擊，傷害會增加。每個敵人只能受攻擊一次。"
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_mana_threshold","若目標在受到傷害前擁有超過{THRESHOLD1}%的法力，則瞄準其他在受到此特殊技能傷害前法力超過{THRESHOLD2}%的敵人。若其他敵人的法力皆未達{THRESHOLD3}%，則隨機瞄準敵人。每次連續攻擊的傷害都會減少。每個敵人只能受攻擊一次。"
-"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","如果目標在受到傷害前生命值小於{THRESHOLD1}%，則在受到此特殊技能的任何傷害前，會將目標轉移為其他生命值小於{THRESHOLD2}%的敵人。如果沒有其他敵人具有{THRESHOLD3}%的生命值，便將目標改為隨機敵人。每次連續攻擊所造成的傷害都會減少。每個敵人只會被擊中一次。"
+"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","如果目標在受到傷害前生命值小於{THRESHOLD1}%，則在受到此特殊技能的任何傷害前，會將目標轉移為其他生命值小於{THRESHOLD2}%的敵人。如果沒有其他敵人的生命之小於{THRESHOLD3}%，便將目標改為隨機敵人。每次連續攻擊所造成的傷害都會減少。每個敵人只會被擊中一次。"
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.blue_tiles.all","若面板上有{COUNTREQUIREMENT}個以上的冰雪護盾，反而則對所有敵人造成傷害。"
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.green_tiles.all","若面板上有{COUNTREQUIREMENT}個以上的自然護盾，反而則對所有敵人造成傷害。"
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.purple_tiles.all","若面板上有{COUNTREQUIREMENT}個以上的暗黑護盾，反而則對所有敵人造成傷害和狀態異常。"
@@ -2691,3 +2692,4 @@
 "specials.v2.strongattack.yellow","對神聖造成額外傷害。"
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","此效果每個九頭蛇頭小兵只能發生一次。"
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","當九頭蛇頭小兵被擊敗時，一名隨機盟友會收到一個重生九頭蛇頭小兵，其會繼承原始小兵的數值。"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","[#!]疊加+{BASESTACKCOUNT}（最大值：{MAXSTACK}）：[#]施法者和附近盟友受到的所有傷害減少{DAMAGEMODIFIER}%。"

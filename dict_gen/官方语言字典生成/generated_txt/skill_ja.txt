@@ -519,7 +519,7 @@
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","ターゲットとランダムな敵{MAXHITS}体に{DAMAGE}%のダメージを与える。
 攻撃を与えた敵それぞれに対して苗木のフィエンドをサモンする。"
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","ターゲットとランダムな敵{MAXHITS}体に{DAMAGE}%のダメージを与える。
-攻撃を与えた敵それぞれに対して苗木のフィエンドをサモンする。"
+[*]攻撃を与えた敵それぞれに対して[#!]苗木のフィエンド[#]をサモンする。"
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","ターゲットとランダムな敵{MAXHITS}体に{DAMAGE}%のダメージを与える。
 攻撃を受けた敵にミサイル フィエンドをサモンし、ターン毎に{FAMILIARATTACK}%の攻撃力でダメージを与える。
 ミサイル フィエンドは回復を吸収し、所有者の最大HPの{FAMILIARHEALTHPERCENT}%に等しいライフを吸収すると消滅する。"
@@ -630,7 +630,7 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.property.effectonkill.heal.single.allies.addmana.single.allies.directeffecttargettype.single","敵がこの攻撃で倒された場合、術者のライフが{EFFECT1POWER}%、マナが{EFFECT2POWER}%回復する。"
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single","攻撃によってターゲットを倒した場合、術者のライフが{FIXEDPOWER}回復する。"
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single.fixedpower","攻撃によってターゲットを倒した場合、術者のライフが{FIXEDPOWER}回復する。"
-"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","攻撃によってターゲットを倒した場合、仲間全員が{EFFECT2POWER}%のマナを回復し、ライフが{EFFECT1FIXEDPOWER}ブーストする。ブーストされたライフは最大ライフを越えることができる。"
+"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","攻撃によってターゲットを倒した場合、仲間全員が{EFFECT2POWER}%のマナを回復し、ライフが{EFFECT1FIXEDPOWER}ブーストされる。ブーストされたライフは最大ライフを越えることができる。"
 "specials.v2.property.effectonkill.statuseffect.fearstatuseffectskill.neartotarget.enemies","攻撃によりターゲットが倒れた場合、その周囲の敵が{STATUSEFFECT1TURNS}ターンの間、恐怖に屈する。"
 "specials.v2.property.effectonkill.statuseffect.insanity.neartotargetexceptmaintarget.enemies","攻撃によりターゲットが倒された場合、近くにいる敵に{STATUSEFFECT1INSANITYTOADD}狂気が付与される。"
 "specials.v2.property.effectonkill.statuseffect.manafreeze.neartotargetexceptmaintarget.enemies","攻撃によりターゲットが倒れた場合、その周囲の敵が{STATUSEFFECT1TURNS}ターンの間マナを獲得できなくなる。"
@@ -1109,15 +1109,16 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 ミニオンまたはメガミニオンを所有する敵は{STATUSEFFECT1TURNS}ターンの間、防御力が{STATUSEFFECT1DEFENSE}%になる。"
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","いずれかの防御バフかミニオンまたはメガミニオンを所有する敵に{POWERFORTARGETSTHATMEETCONDITION}%のダメージを付与する。
 いずれかの防御バフかミニオンまたはメガミニオンを所有する敵は{STATUSEFFECT1TURNS}ターンの間、防御力が{STATUSEFFECT1DEFENSE}%になる。"
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","苗木のフィエンドは{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に新芽のフィエンドに進化する。
-新芽のフィエンドは{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に開花のメガフィエンドに進化する。
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","[#!]苗木のフィエンド[#]は{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に[#!]新芽のフィエンド[#]に進化する。
+[*][#!]新芽のフィエンド[#]は{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に[#!]開花のメガフィエンド[#]に進化する。
 
-苗木のフィエンド：攻撃力{EVOLVINGFAMILIAR1FAMILIARATTACK}%、ライフ{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%
- 新芽のフィエンド：攻撃力{EVOLVINGFAMILIAR2FAMILIARATTACK}%、ライフ{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%
- 開花のメガフィエンド：
-攻撃力{EVOLVINGFAMILIAR3FAMILIARATTACK}%、ライフ{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%
+[*][#!]苗木のフィエンド[#]：攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]%
+[*] [#!]新芽のフィエンド[#]：攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#]%
+[*] [#!]開花のメガフィエンド[#]：
+攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#]%
 
-フィエンドは毎ターン、ターゲットにダメージを与える。フィエンドは回復を吸収しつくすと消滅する。必要な回復量はターゲットの最大HPに依存する。"
+[*]フィエンドは毎ターン、ターゲットにダメージを与える。フィエンドは回復を吸収しつくすと消滅する。必要な回復量はターゲットの最大HPに依存する。
+[*]回復を吸収するたびにフィエンドの進化は{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}ターン遅延する。"
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","ターゲットがフィエンドかメガフィエンドを所有していた場合、ランダムで異なる敵に{DAMAGE}%のダメージを与える。
 攻撃を与えた敵それぞれに対して苗木のフィエンドをサモンする。"
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","ターゲットがフィエンドかメガフィエンドを所有していた場合、ランダムで異なる敵に{DAMAGE}%のダメージを与える。
@@ -1136,7 +1137,7 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold","ターゲットのHPが{THRESHOLD1}%以上の場合に、この特殊スキルで攻撃すると、HPが{THRESHOLD2}%以上の別の敵にもダメージを与えられる。ターゲット以外にHPが{THRESHOLD3}%以上の敵がいない場合はランダムな敵を攻撃する。ダメージは攻撃が連続で当たる度に減少する。それぞれの敵は1度しか攻撃できない。"
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold.damage_increases","ターゲットのライフが{THRESHOLD1}%以上の場合に、この特殊スキルで攻撃すると、ライフが{THRESHOLD2}%以上の別の敵にもダメージを与えられる。ターゲット以外にライフが{THRESHOLD3}%以上の敵がいない場合はランダムな敵を攻撃する。ダメージは攻撃が連続で当たる度に増加する。それぞれの敵は1度しか攻撃できない。"
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_mana_threshold","ターゲットのマナが{THRESHOLD1}%以上の場合に、この特殊スキルで攻撃すると、マナが{THRESHOLD2}%以上の別の敵にもダメージを与えられる。ターゲット以外にマナが{THRESHOLD3}%以上の敵がいない場合はランダムな敵を攻撃する。ダメージは攻撃が連続で当たる度に減少する。それぞれの敵は1度しか攻撃できない。"
-"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","ターゲットのHPが{THRESHOLD1}%未満の場合に、この特殊スキルで攻撃すると、HPが{THRESHOLD2}%未満の別の敵にもダメージを与えられる。ターゲット以外にHPが{THRESHOLD3}%の敵がいない場合はランダムな敵を攻撃する。ダメージは攻撃が連続で当たる度に減少する。それぞれの敵は1度しか攻撃できない。"
+"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","ターゲットのHPが{THRESHOLD1}%未満の場合に、この特殊スキルで攻撃すると、HPが{THRESHOLD2}%未満の別の敵にもダメージを与えられる。ターゲット以外にHPが{THRESHOLD3}%未満の敵がいない場合はランダムな敵を攻撃する。ダメージは攻撃が連続で当たる度に減少する。それぞれの敵は1度しか攻撃できない。"
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.blue_tiles.all","ボード上に氷属性の盾が{COUNTREQUIREMENT}個以上ある場合、敵全員にダメージを与える。"
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.green_tiles.all","ボード上に自然属性の盾が{COUNTREQUIREMENT}個以上ある場合、敵全員にダメージを与える。"
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.purple_tiles.all","ボード上に闇属性の盾が{COUNTREQUIREMENT}個以上ある場合、敵全員にダメージを与え、ステータス異常を付与する。"
@@ -2692,3 +2693,4 @@ HPがブーストされたターゲットやミニオンまたはメガミニオ
 "specials.v2.strongattack.yellow","聖属性の対象に追加ダメージを与える。"
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","この効果はヒドラヘッドのミニオン1体につき1回のみ発動する。"
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","ヒドラヘッドのミニオンが倒されると、ランダムでいずれかの仲間が元のミニオンのスタッツを受け継ぐ「復活のヒドラヘッドのミニオン」を獲得する。"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","[#!]累積効果+{BASESTACKCOUNT}（最大：{MAXSTACK}）：[#]術者と近くにいる仲間が受けるすべてのダメージが{DAMAGEMODIFIER}%減少する。"

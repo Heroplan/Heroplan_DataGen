@@ -364,32 +364,32 @@ The 駭異宿主具有：
 
 盛開超級惡魔：
 {EVOLVINGFAMILIAR3FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%生命。"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","每回合對一位隨機敵人召喚一個種子惡魔。此被動技能每回合每隊只能啟用一次。
-{EVOLVINGFAMILIAR1EVOLVETURNS}回合後，種子惡魔會進化為發芽惡魔。
-{EVOLVINGFAMILIAR2EVOLVETURNS}回合後，發芽惡魔會進化為盛開超級惡魔。
-惡魔每次吸收傷害後，進化會延遲 {EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","每回合對一位隨機敵人召喚一個[#!]種子惡魔[#]。此被動技能每回合每隊只能啟用一次。
+[*]{EVOLVINGFAMILIAR1EVOLVETURNS}回合後，[#!]種子惡魔[#]會進化為[#!]發芽惡魔[#]。
+[*]{EVOLVINGFAMILIAR2EVOLVETURNS}回合後，[#!]發芽惡魔[#]會進化為[#!]盛開超級惡魔[#]。
+[*]惡魔每次吸收傷害後，進化會延遲 {EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。
 
-種子惡魔：
-{EVOLVINGFAMILIAR1FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%生命。
+[#!]種子惡魔[#]：
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]生命。
 
-發芽惡魔：
-{EVOLVINGFAMILIAR2FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%生命。
+[#!]發芽惡魔[#]：
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]生命。
 
-盛開超級惡魔：
-{EVOLVINGFAMILIAR3FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%生命。"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","每回合對一位隨機敵人召喚一個種子惡魔。此被動技能每回合每隊只能啟用一次。
-{EVOLVINGFAMILIAR1EVOLVETURNS}回合後，種子惡魔會進化為發芽惡魔。
-{EVOLVINGFAMILIAR2EVOLVETURNS}回合後，發芽惡魔會進化為盛開超級惡魔。
-惡魔每次吸收傷害後，進化會延遲 {EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。
+[#!]盛開超級惡魔[#]：
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]生命。"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","每回合對一位隨機敵人召喚一個[#!]種子惡魔[#]。此被動技能每回合每隊只能啟用一次。
+[*]{EVOLVINGFAMILIAR1EVOLVETURNS}回合後，[#!]種子惡魔[#]會進化為[#!]發芽惡魔[#]。
+[*]{EVOLVINGFAMILIAR2EVOLVETURNS}回合後，[#!]發芽惡魔[#]會進化為[#!]盛開超級惡魔[#]。
+[*]惡魔每次吸收傷害後，進化會延遲 {EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。
 
-種子惡魔：
-{EVOLVINGFAMILIAR1FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%生命。
+[#!]種子惡魔[#]：
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]生命。
 
-發芽惡魔：
-{EVOLVINGFAMILIAR2FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%生命。
+[#!]發芽惡魔[#]：
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]生命。
 
-盛開超級惡魔：
-{EVOLVINGFAMILIAR3FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%生命。"
+[#!]盛開超級惡魔[#]：
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]生命。"
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","當此角色被擊敗時，會召喚史萊姆超級小兵給附近盟友，這些小兵繼承此角色的{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻擊力。"
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","當此角色被擊敗時，會召喚史萊姆超級小兵給附近盟友，這些小兵繼承此角色的{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻擊力。"
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","當此角色被擊敗時，會召喚史萊姆超級小兵給附近盟友，這些小兵繼承此角色的{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻擊力。"
@@ -718,3 +718,16 @@ The 駭異宿主具有：
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","轉化增益"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","轉化異常"
 "herocard.passive_skill.title.wither.all.enemies","枯萎"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","每回合對一位隨機敵人召喚一個[#!]種子惡魔[#]。
+[*]{EVOLVINGFAMILIAR1EVOLVETURNS}回合後，[#!]種子惡魔[#]會進化為[#!]發芽惡魔[#]。
+[*]{EVOLVINGFAMILIAR2EVOLVETURNS}回合後，[#!]發芽惡魔[#]會進化為[#!]盛開超級惡魔[#]。
+[*]惡魔每次吸收傷害後，進化會延遲 {EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。
+
+[#!]種子惡魔[#]：
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]生命。
+
+[#!]發芽惡魔[#]：
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]生命。
+
+[#!]盛開超級惡魔[#]：
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]生命。"

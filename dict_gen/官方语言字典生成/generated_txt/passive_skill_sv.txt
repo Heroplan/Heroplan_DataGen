@@ -45,7 +45,7 @@ Förödelsekärnan aktiveras varje gång den här karaktärens specialförmåga 
 "herocard.passive_skill.description.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","Äter alla undersåtar från en slumpmässig fiende med {TURNS} rundors mellanrum och får lite mana per uppäten undersåte."
 "herocard.passive_skill.description.effectondamagedone.bufftoremove.minordebuff.latest.from.all.allies.safe.specialskill.only_criticals.once","När den här karaktären lyckas få in en kritisk träff med sin specialförmåga avbryts den senaste negativa statuseffekten som kan renas på alla allierade. Den här effekten kan aktiveras en gång per tur."
 "herocard.passive_skill.description.effectondamagedone.healthboost.all.allies.specialskill.only_criticals.once","När den här karaktären lyckas få in en kritisk träff med sin specialförmåga ökar den hälsan hos alla sina allierade med {HEALTHBOOST} %. Den här effekten kan aktiveras en gång per runda."
-"herocard.passive_skill.description.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill.single.allies.onceperturn"," När den här karaktärens specialförmåga träffar en karaktär som har högre HP får karaktären {PASSIVESKILL1HEALTHBOOST} % ökad hälsa.
+"herocard.passive_skill.description.effectondamagedonetohealthiertarget.healthboost.specialskill.once.effectondamagereceivedfromhealthierattacker.addmana.specialskill.single.allies.onceperturn","När den här karaktärens specialförmåga träffar en karaktär som har högre HP får karaktären {PASSIVESKILL1HEALTHBOOST} % ökad hälsa.
  När den här karaktären träffas av en specialförmåga från en karaktär som har högre HP får karaktären {PASSIVESKILL2POWER} % mana.
 Var och en av de här effekterna kan aktiveras en gång per runda."
 "herocard.passive_skill.description.effectondamagereceived.addmana.specialskill.single.allies","När karaktären tar skada från specialförmågor får den {POWER} % av sin mana."
@@ -231,7 +231,7 @@ Det här innefattar positiva och negativa statuseffekter, positiva och negativa 
 "herocard.passive_skill.description.resist.criticalhits.none","Den här karaktären är immun mot extraskada och effekter från kritiska träffar."
 "herocard.passive_skill.description.resist.defensemodifierdebuffs","Karaktären är immun mot negativa statuseffekter på försvar. Gäller inte negativa statuseffekter som påverkar elementförsvar."
 "herocard.passive_skill.description.resist.defensemodifiers.alldebuffs","Karaktären är immun mot negativa statuseffekter och staplar som påverkar försvar. Gäller inte negativa statuseffekter som påverkar elementförsvar."
-"herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion"," Immun mot effekter som tar bort undersåtar.
+"herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion","Immun mot effekter som tar bort undersåtar.
  Får alltid undersåtar – det kan inte förhindras.
  Undersåtarnas attacker och förmågor kan inte inaktiveras."
 "herocard.passive_skill.description.resist.frost","Karaktären är immun mot negativa statuseffekter som gör frostskada."
@@ -364,32 +364,32 @@ Skottodjuret:
 
 Blomstermegaodjuret: 
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % hälsa."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Åkallar ett groddodjur på en slumpmässig fiende varje runda. Den här passiva förmågan aktiveras bara en gång per tur för varje lag.
-Groddodjuret utvecklas till ett skottodjur efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.
-Skottodjuret utvecklas till ett blomstermegaodjur efter {EVOLVINGFAMILIAR2EVOLVETURNS} rundor.
-Odjurens utveckling fördröjs med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} rundor varje gång de absorberar läkning.
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Åkallar ett [#!]groddodjur[#] på en slumpmässig fiende varje runda. Den här passiva förmågan aktiveras bara en gång per tur för varje lag.
+[*][#!]Groddodjuret[#] utvecklas till ett [#!]skottodjur[#] efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.
+[*][#!]Skottodjuret[#] utvecklas till ett [#!]blomstermegaodjur[#] efter {EVOLVINGFAMILIAR2EVOLVETURNS} rundor.
+[*]Odjurens utveckling fördröjs med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} rundor varje gång de absorberar läkning.
 
-Groddodjuret:
-{EVOLVINGFAMILIAR1FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % hälsa.
+[#!]Groddodjuret[#]:
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] attack, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] hälsa.
 
-Skottodjuret:
-{EVOLVINGFAMILIAR2FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % hälsa.
+[#!]Skottodjuret[#]:
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] attack, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] hälsa.
 
-Blomstermegaodjuret: 
-{EVOLVINGFAMILIAR3FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % hälsa."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Åkallar ett groddodjur på en slumpmässig fiende varje runda. Den här passiva förmågan aktiveras bara en gång per tur för varje lag.
-Groddodjuret utvecklas till ett skottodjur efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.
-Skottodjuret utvecklas till ett blomstermegaodjur efter {EVOLVINGFAMILIAR2EVOLVETURNS} rundor.
-Odjurens utveckling fördröjs med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} rundor varje gång de absorberar läkning.
+[#!]Blomstermegaodjuret[#]: 
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] attack, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] hälsa."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Åkallar ett [#!]groddodjur[#] på en slumpmässig fiende varje runda. Den här passiva förmågan aktiveras bara en gång per tur för varje lag.
+[*][#!]Groddodjuret[#] utvecklas till ett [#!]skottodjur[#] efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.
+[*][#!]Skottodjuret[#] utvecklas till ett [#!]blomstermegaodjur[#] efter {EVOLVINGFAMILIAR2EVOLVETURNS} rundor.
+[*]Odjurens utveckling fördröjs med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} rundor varje gång de absorberar läkning.
 
-Groddodjuret:
-{EVOLVINGFAMILIAR1FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % hälsa.
+[#!]Groddodjuret[#]:
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] attack, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] hälsa.
 
-Skottodjuret:
-{EVOLVINGFAMILIAR2FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % hälsa.
+[#!]Skottodjuret[#]:
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] attack, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] hälsa.
 
-Blomstermegaodjuret: 
-{EVOLVINGFAMILIAR3FAMILIARATTACK} % attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % hälsa."
+[#!]Blomstermegaodjuret[#]: 
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] attack, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] hälsa."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","När den här karaktären besegras får allierade i närheten slemmegaundersåtar med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvts från samma karaktär."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","När den här karaktären besegras får allierade i närheten slemmegaundersåtar med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvts från samma karaktär."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","När den här karaktären besegras får allierade i närheten slemmegaundersåtar med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvts från samma karaktär."
@@ -718,3 +718,16 @@ Vig kropp"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Förvandla bonusar"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Förvandla negativa effekter"
 "herocard.passive_skill.title.wither.all.enemies","Vittra"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Åkallar ett [#!]groddodjur[#] på en slumpmässig fiende.
+[*][#!]Groddodjuret[#] utvecklas till ett [#!]skottodjur[#] efter {EVOLVINGFAMILIAR1EVOLVETURNS} rundor.
+[*][#!]Skottodjuret[#] utvecklas till ett [#!]blomstermegaodjur[#] efter {EVOLVINGFAMILIAR2EVOLVETURNS} rundor.
+[*]Odjurens utveckling fördröjs med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} rundor varje gång de absorberar läkning.
+
+[#!]Groddodjuret[#]:
+[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] attack, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] hälsa.
+
+[#!]Skottodjuret[#]:
+[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] attack, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] hälsa.
+
+[#!]Blomstermegaodjuret[#]: 
+[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] attack, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] hälsa."

@@ -523,7 +523,7 @@ Cada ataque de um ajudante Xulu dá ao alvo o seguinte mal de status:"
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","Causa {DAMAGE}% de dano ao alvo e {MAXHITS} inimigos aleatórios.
  Convoca um demônio Muda para cada inimigo atingido."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","Causa {DAMAGE}% de dano ao alvo e {MAXHITS} inimigos aleatórios.
- Convoca um demônio Muda para cada inimigo atingido."
+[*] Convoca um [#!]demônio Muda[#] para cada inimigo atingido."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","Causa {DAMAGE}% de dano ao alvo e a {MAXHITS} inimigos aleatórios.
  Convoca um demônio Míssil para atingir os inimigos. O demônio causa dano ao inimigo com {FAMILIARATTACK}% de ataque a cada turno.
  O demônio Míssil absorve a cura e desaparece depois de absorver vida equivalente a {FAMILIARHEALTHPERCENT}% do limite de vida do dono."
@@ -634,7 +634,7 @@ Cada ataque de um ajudante Xulu dá ao alvo o seguinte mal de status:"
 "specials.v2.property.effectonkill.heal.single.allies.addmana.single.allies.directeffecttargettype.single","Quando um inimigo é derrotado pelo ataque, o invocador recupera {EFFECT1POWER}% de vida e ganha {EFFECT2POWER}% de mana."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single","Quando o ataque derrota o alvo, o invocador recupera {FIXEDPOWER} de vida."
 "specials.v2.property.effectonkill.heal.single.allies.directeffecttargettype.single.fixedpower","Quando o ataque derrota o alvo, o invocador recupera {FIXEDPOWER} de vida."
-"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","Quando o alvo é derrotado pelo ataque, todos os aliados recebem {EFFECT2POWER}% de mana e têm a vida reforçada em {EFFECT1FIXEDPOWER}. A vida reforçada pode exceder o limite de PV."
+"specials.v2.property.effectonkill.healthboost.all.allies.addmana.all.allies.directeffecttargettype.single","Quando o alvo é derrotado pelo ataque, todos os aliados recebem {EFFECT2POWER}% de mana e a vida deles é reforçada em {EFFECT1FIXEDPOWER}. A vida reforçada pode ultrapassar o limite de PV."
 "specials.v2.property.effectonkill.statuseffect.fearstatuseffectskill.neartotarget.enemies","Quando o alvo é derrotado pelo ataque, os inimigos próximos sucumbem ao Medo por {STATUSEFFECT1TURNS} turnos."
 "specials.v2.property.effectonkill.statuseffect.insanity.neartotargetexceptmaintarget.enemies","Quando o ataque derrota o alvo, os inimigos próximos recebem {STATUSEFFECT1INSANITYTOADD} Insanidade."
 "specials.v2.property.effectonkill.statuseffect.manafreeze.neartotargetexceptmaintarget.enemies","Quando o alvo é derrotado pelo ataque, os inimigos próximos não recebem mana por {STATUSEFFECT1TURNS} turnos."
@@ -940,9 +940,9 @@ Limites de modificação das Pontuações de Habilidade:
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.single.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","Causa {POWER}% do dano de Corte espiritual ao alvo. Corte espiritual remove reforços com segurança antes de causar dano."
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectdebuffs.neartotarget.allies.bypassremoveeffects.effectonremoval.healthboost.has_base_power.power_changes_per_removed_status_from_target","Reforça a vida do invocador e dos aliados próximos em {FIXEDPOWER} com Aura espiritual. Aura espiritual remove com segurança os males de status antes de reforçar a vida."
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.all.allies.effectonremoval.addmana.power_changes_per_removed_status_from_target","Expurga com segurança todos os males de status de todos os aliados e aumenta em {POWERPERREMOVALFROMTARGET}% o mana de todos os aliados por cada mal expurgado."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra"," O dano é reduzido em {POWERPERREMOVALFROMTARGET}% por cada reforço removido.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","O dano é reduzido em {POWERPERREMOVALFROMTARGET}% por cada reforço removido.
  Os reforços indissipáveis também são removidos."
-"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra"," O reforço de vida é reduzido em {FIXEDPOWERPERREMOVALFROMTARGET} por cada mal removido.
+"specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectdebuffs.extra","O reforço de vida é reduzido em {FIXEDPOWERPERREMOVALFROMTARGET} por cada mal removido.
  Os males inexpurgáveis também são removidos."
 "specials.v2.property.repeatspecial.blade_wings.random","Após um lançamento bem sucedido, tem {REPEATCHANCE}% de chance de lançar Asas Laminadas novamente em um alvo aleatório.
 Pode lançar novamente {MAXREPEATS} vezes, e a chance de lançar novamente diminui em {REPEATCHANCEDECREASE}% a cada lançamento bem sucedido."
@@ -1113,14 +1113,15 @@ Efeitos da transformação:
  Os inimigos com ajudantes ou mega-ajudantes recebem {STATUSEFFECT1DEFENSE}% de defesa por {STATUSEFFECT1TURNS} turnos."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","Causa {POWERFORTARGETSTHATMEETCONDITION}% de dano contra inimigos com reforços defensivos, ajudantes ou mega-ajudantes.
  Os inimigos com reforços defensivos, ajudantes ou mega-ajudantes recebem {STATUSEFFECT1DEFENSE}% de defesa por {STATUSEFFECT1TURNS} turnos."
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra"," O demônio Muda se transforma em demônio Broto após {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
- O demônio Broto se transforma em  megademônio Broto após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","O [#!]demônio Muda[#] se transforma em [#!]demônio Broto[#] após  {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
+[*] O [#!]demônio Broto[#] se transforma em [#!]demônio mega Florescência[#] após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
 
- Demônio Muda: {EVOLVINGFAMILIAR1FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% de vida
- Demônio Broto: {EVOLVINGFAMILIAR2FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% de vida
- Megademônio Broto: {EVOLVINGFAMILIAR3FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% de vida
+[*] [#!]Demônio Muda[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] de vida
+[*] [#!]Demônio Broto[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] de vida
+[*] [#!]Megademônio Broto[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] de vida
 
- O demônio causa dano ao alvo a cada turno e desaparece após absorver a cura. A quantidade de cura necessária depende do limite de vida do alvo."
+[*] O demônio causa dano ao alvo a cada turno e desaparece após absorver a cura. A quantidade de cura necessária depende do limite de vida do alvo.
+[*] A evolução dos demônios é atrasada em {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que eles absorvem cura."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","Quando o alvo tem demônios ou megademônios, causa {DAMAGE}% de dano a outro inimigo aleatório.
  Convoca um demônio Muda para atingir cada inimigo."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","Quando o alvo tem demônios ou megademônios, causa {DAMAGE}% de dano a outro inimigo aleatório.
@@ -1139,7 +1140,7 @@ Efeitos da transformação:
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold","Quando o alvo tem mais de {THRESHOLD1}% de vida antes de receber o dano, atinge outro inimigo com mais de {THRESHOLD2}% de vida antes de receber qualquer dano desta habilidade especial. Quando nenhum outro inimigo tem {THRESHOLD3}% de vida, atinge um inimigo aleatório. O dano diminui a cada acerto consecutivo. Cada inimigo pode ser atingido uma vez."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold.damage_increases","Quando o alvo tem mais de {THRESHOLD1}% de vida antes de receber o dano, atinge outro inimigo com mais de {THRESHOLD2}% de vida antes de receber qualquer dano desta habilidade especial. Quando nenhum outro inimigo tem {THRESHOLD3}% de vida, atinge um inimigo aleatório. O dano aumenta a cada acerto consecutivo. Cada inimigo pode ser atingido uma vez."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_mana_threshold","Quando o alvo tem mais de {THRESHOLD1}% do mana antes de receber o dano, atinge outro inimigo com mais de {THRESHOLD2}% do mana antes de receber qualquer dano desta habilidade especial. Quando nenhum outro inimigo tem {THRESHOLD3}% do mana, atinge um inimigo aleatório. O dano diminui a cada acerto consecutivo. Cada inimigo pode ser atingido uma vez."
-"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","Quando o alvo tem menos de {THRESHOLD1}% de vida antes de receber o dano, atinge outro inimigo com menos de {THRESHOLD2}% de vida antes de receber qualquer dano desta habilidade especial. Quando nenhum outro inimigo tem {THRESHOLD3}% de vida, atinge um inimigo aleatório. O dano diminui a cada acerto consecutivo. Cada inimigo pode ser atingido uma vez."
+"specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold","Quando o alvo tem menos de {THRESHOLD1}% de vida antes de receber o dano, atinge outro inimigo com menos de {THRESHOLD2}% de vida antes de receber qualquer dano desta habilidade especial. Quando nenhum outro inimigo tem menos de {THRESHOLD3}% de vida, atinge um inimigo aleatório. O dano diminui a cada acerto consecutivo. Cada inimigo pode ser atingido uma vez."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.blue_tiles.all","Quando existem {COUNTREQUIREMENT} ou mais escudos de Gelo no tabuleiro, o dano é causado a todos os inimigos."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.green_tiles.all","Quando existem {COUNTREQUIREMENT} ou mais escudos de Natureza no tabuleiro, o dano é causado a todos os inimigos."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.all.enemies.purple_tiles.all","Quando existem {COUNTREQUIREMENT} ou mais escudos de Trevas no tabuleiro, o dano é causado e os males de status são aplicados a todos os inimigos."
@@ -2694,3 +2695,4 @@ Dá a chance de reverter o alvo de uma habilidade especial.
 "specials.v2.strongattack.yellow","Causa dano extra contra Luz."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","Este efeito acontece apenas uma vez por ajudante Cabeça de Hidra."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","Quando o ajudante Cabeça de Hidra Renascida é derrotado, um aliado aleatório recebe um ajudante Cabeça de Hidra Renascida que herda os atributos do ajudante original."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","[#!]Acumulação +{BASESTACKCOUNT} (máx.: {MAXSTACK}):[#] todo o dano recebido pelo invocador e pelos aliados próximos diminui em {DAMAGEMODIFIER}%."
