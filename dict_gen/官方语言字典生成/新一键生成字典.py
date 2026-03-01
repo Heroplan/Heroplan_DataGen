@@ -134,8 +134,8 @@ def parse_source_text(text_content, filename_for_log):
         parsed_data[label] = safe_value.strip()
     return parsed_data
 
-def process_language_file(file_path, is_json=False):
-    """统一处理语言文件（JSON或TXT），返回清理后的内容和解析后的数据。"""
+def process_language_file(file_path, is_json=False, language_overrides=None):
+    """统一处理语言文件（JSON或TXT），并在内存中应用覆盖项，返回清理后的内容和解析后的数据。"""
     content = ""
     try:
         if is_json:
@@ -156,7 +156,11 @@ def process_language_file(file_path, is_json=False):
     # 使用更通用的正则表达式，删除所有[]及其内部内容
     cleaned_content = re.sub(r'\[.*?\]', '', content)
     parsed_data = parse_source_text(cleaned_content, file_path)
-    
+
+    # 如果有语言覆盖项，合并到解析后的数据中
+    if language_overrides:
+        parsed_data = merge_data_with_overrides(parsed_data, language_overrides)
+
     return cleaned_content, parsed_data
 
 def create_translation_map(english_data_subset, target_language_data_subset, analysis_type_name, lang_code):
@@ -273,25 +277,17 @@ if __name__ == "__main__":
 
     # 处理英文文件
     full_english_content, full_english_data = process_language_file(english_file, is_json=False)
+    # 处理英文文件并应用覆盖项
+    full_english_content, full_english_data = process_language_file(english_file, is_json=False, language_overrides=language_overrides.get('English', {}))
     print(f"英文文件 '{english_file}' 清理和解析完成，共 {len(full_english_data)} 条目。")
-    
-    # 如果有英语覆盖项，则合并
-    if 'English' in language_overrides:
-        full_english_data = merge_data_with_overrides(full_english_data, language_overrides['English'])
-        print(f"已将 {len(language_overrides.get('English', {}))} 个英语覆盖项合并到英文数据中。")
 
     # 动态查找和处理所有配置的语言文件
     language_files = {}
     for lang_prefix, lang_suffix in LANGUAGE_CONFIG.items():
         lang_file = find_language_file(LANGUAGES_DIR, lang_prefix)
         if lang_file:
-            content, data = process_language_file(lang_file, is_json=False)
+            content, data = process_language_file(lang_file, is_json=False, language_overrides=language_overrides.get(lang_prefix, {}))
             if data:
-                # 如果有该语言的覆盖项，则合并
-                if lang_prefix in language_overrides:
-                    data = merge_data_with_overrides(data, language_overrides[lang_prefix])
-                    print(f"已将 {len(language_overrides.get(lang_prefix, {}))} 个{lang_prefix}覆盖项合并到{lang_prefix}数据中。")
-                
                 language_files[lang_prefix] = {
                     'file_path': lang_file,
                     'content': content,

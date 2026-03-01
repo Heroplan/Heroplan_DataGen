@@ -39725,7 +39725,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2150,
+          "powerMultiplierPerMil": 2350,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -39738,11 +39738,6 @@
             "sideAffected": "Allies",
             "statusTargetType": "Single",
             "turns": 3
-          },
-          {
-            "id": "stacking_crit_modifier_xiang_chong",
-            "sideAffected": "Allies",
-            "statusTargetType": "Single"
           }
         ]
       },
@@ -47994,9 +47989,10 @@
         ],
         "statusEffects": [
           {
-            "id": "stacking_crit_modifier_shi_jin",
+            "id": "attack_buff_boldtusk_glass",
             "sideAffected": "Allies",
-            "statusTargetType": "All"
+            "statusTargetType": "All",
+            "turns": 4
           }
         ]
       },
@@ -67112,5 +67108,5 @@
       }
     ]
   },
-  "specialsConfigId": 1480319258
+  "specialsConfigId": 1438767226
 }

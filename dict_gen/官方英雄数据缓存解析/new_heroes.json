@@ -1,17 +1,5 @@
 [
     {
-        "name": "Meenakshi",
-        "fancy_name": "Coconut Chechi",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-02-25 07:00:00",
-        "star": 5,
-        "family": "mahayoddha",
-        "costume_id": 0,
-        "heroId": "mahayoddha_meenakshi",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Shi Jin",
         "fancy_name": "Nine Dragon Tattoos of Water Margin",
         "color": "Purple",

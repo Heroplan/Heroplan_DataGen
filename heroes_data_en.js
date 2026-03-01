@@ -69540,7 +69540,7 @@ window.allHeroes =
     },
     {
         "name": "Slaymire",
-        "fancy_name": "Stubborn Slime Executor",
+        "fancy_name": "Stubborn Slime Executioner",
         "AetherPower": "Attack Up",
         "color": "Purple",
         "class": "Barbarian",

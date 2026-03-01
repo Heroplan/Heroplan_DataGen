@@ -58079,12 +58079,12 @@
           {
             "typeOfTarget": "Random",
             "effectType": "Damage",
-            "powerMultiplierPerMil": 1200,
+            "powerMultiplierPerMil": 3150,
             "powerMultiplierIncrementPerLevelPerMil": 50
           }
         ],
         "activationChancePerMil": 1000,
-        "absorbDamagePerMil": 250,
+        "absorbDamagePerMil": 500,
         "isAbsorbDamageBoostedHealing": true,
         "effectActivationTypes": [
           "TurnEnd"
@@ -90217,5 +90217,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 2298724884
+  "battleConfigId": 3686597814
 }

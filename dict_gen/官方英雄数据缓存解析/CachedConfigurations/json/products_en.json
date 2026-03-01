@@ -144,7 +144,7 @@
         "id": "lottery_featured_event_farmland",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 170,
+        "uiPriority": 172,
         "associatedEvent": "RecurringFarmland",
         "bonusChest": "beowulf_chest",
         "bonusChestRequirement": 5,
@@ -2246,7 +2246,7 @@
         "id": "lottery_covenant_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 164,
+        "uiPriority": 169,
         "associatedEvent": "CovenantSummon",
         "bonusChest": "covenant_chest",
         "bonusChestRequirement": 10,
@@ -2266,7 +2266,7 @@
         "id": "lottery_wilderness_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 166,
+        "uiPriority": 171,
         "associatedEvent": "WildernessSummon",
         "bonusChest": "wilderness_chest",
         "bonusChestRequirement": 10,
@@ -3824,7 +3824,7 @@
         "id": "lottery_mercenary_war_default",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 169,
+        "uiPriority": 170,
         "associatedEvent": "KingdomWar",
         "bonusChest": "3kw_chest",
         "bonusChestRequirement": 5,
@@ -20731,7 +20731,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36249,6 +36248,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36276,7 +36276,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36286,7 +36285,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic3_alliancegift",
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -45030,6 +45029,38 @@
           {
             "type": "Gem",
             "amount": 600
+          }
+        ]
+      },
+      {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.mds_code_creatorcode",
+        "zyngaStoreProduct": true,
+        "contents": [
+          {
+            "type": "Avatar",
+            "id": "Nine Dragon Tattoos of Water Margin",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "lottery_mercenary_war_coin",
+            "amount": 50
+          },
+          {
+            "type": "Item",
+            "id": "refill_food_giant",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "refill_iron_giant",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "refill_energy_pve_full",
+            "amount": 2
           }
         ]
       },
@@ -55870,6 +55901,23 @@
         ]
       },
       {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.mds_lny_3kw",
+        "zyngaStoreProduct": true,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "lottery_3kw_limited_pool_summon_coin",
+            "amount": 25
+          },
+          {
+            "type": "Item",
+            "id": "refill_energy_pvp_full",
+            "amount": 1
+          }
+        ]
+      },
+      {
         "productType": "AllianceEventSummon",
         "id": "lottery_featured_alliance_quest_castle_ad",
         "sourceProductId": "lottery_featured_alliance_quest_castle",
@@ -56141,7 +56189,7 @@
         "id": "lottery_astralelves_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 164,
+        "uiPriority": 173,
         "associatedEvent": "AstralElves",
         "bucketWeights": [
           568,
@@ -58585,5 +58633,5 @@
       }
     ]
   },
-  "productsConfigId": 869347612
+  "productsConfigId": 1781715364
 }

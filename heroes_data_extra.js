@@ -44476,7 +44476,7 @@ window.allHeroesExtra = [
     },
     {
         "name": "Slaymire",
-        "fancy name": "Stubborn Slime Executor",
+        "fancy name": "Stubborn Slime Executioner",
         "element": "Purple",
         "rarity": 5,
         "class": "Barbarian",
