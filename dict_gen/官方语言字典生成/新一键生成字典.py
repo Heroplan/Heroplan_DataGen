@@ -275,8 +275,6 @@ if __name__ == "__main__":
         print(f"错误: 在 '{LANGUAGES_DIR}' 目录中未找到英文源文件。脚本终止。")
         exit(1)
 
-    # 处理英文文件
-    full_english_content, full_english_data = process_language_file(english_file, is_json=False)
     # 处理英文文件并应用覆盖项
     full_english_content, full_english_data = process_language_file(english_file, is_json=False, language_overrides=language_overrides.get('English', {}))
     print(f"英文文件 '{english_file}' 清理和解析完成，共 {len(full_english_data)} 条目。")
