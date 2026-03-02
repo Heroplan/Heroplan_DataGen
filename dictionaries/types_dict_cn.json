@@ -1041,5 +1041,7 @@
   "Devouring Goo Debuff All": "全体吞噬粘液减益",
   "Block Talent Skills on hit": "命中时封印天赋技能",
   "Normal Attack Buff All": "全体普通攻击增益",
-  "Mana on Counterattack 3": "3个目标反击时获得法力"
+  "Mana on Counterattack 3": "3个目标反击时获得法力",
+  "Attack Buff on hit": "命中时攻击增益",
+  "Blind on hit": "命中时致盲"
 }

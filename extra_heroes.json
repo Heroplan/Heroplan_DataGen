@@ -1,29 +1,5 @@
 [
     {
-        "name": "Shi Jin",
-        "fancy_name": "Nine Dragon Tattoos of Water Margin",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2026-03-01 07:00:00",
-        "star": 5,
-        "family": "outlaw",
-        "costume_id": 0,
-        "heroId": "outlaw_shi_jin",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Gilda",
-        "fancy_name": "Dwarven Guider of Light",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2026-03-01 07:00:00",
-        "star": 5,
-        "family": "hotm2026",
-        "costume_id": 0,
-        "heroId": "holy_god_gilda",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Savann",
         "fancy_name": "Cat of the Sun-Blessed Valley",
         "color": "Yellow",

@@ -555,6 +555,7 @@
     "^\\*\\s+Rare\\s+Holy\\s+Trainer\\s+Heroes$": "* 稀有神圣训练师英雄。",
     "^\\*\\s+Common\\s+Holy\\s+Heroes$": "* 普通神圣英雄。",
     "^\\*\\s+Uncommon\\s+Holy\\s+Heroes$": "* 非凡神圣英雄。",
+    "^Resist\\s+Blind:\\s+This\\s+character\\s+is\\s+immune\\s+to\\s+status\\s+ailments\\s+that\\s+affect\\s+accuracy\\.?\\s*\\s+Doesn['’]?t\\s+apply\\s+to\\s+original\\s+status\\s+effects\\s+from\\s+allies\\.?\\s*$": "抵抗致盲：此角色免疫影响精准度的状态异常。不包括来自盟友的原始状态效果。",
     "^Resist\\s+Mana\\s+Ailments:\\s+This\\s+character\\s+has\\s+innate\\s+resistance\\s+against\\s+ailments\\s+that\\s+affect\\s+mana\\.?\\s*$": "抵抗法力异常：该角色天生对影响法力的异常状态有抵抗能力。",
     "^Health\\s+Recovery\\s+on\\s+Status\\s+Ailment\\s+Received:\\s+This\\s+character\\s+recovers([+-]?\\s*\\d+\\s*%?)\\s+\\s+health\\s+when\\s+they\\s+receive\\s+a\\s+status\\s+ailment\\s+or\\s+a\\s+negative\\s+stack\\.?\\s*$": "受到状态异常时恢复生命：该角色在受到状态异常或负面效果叠加时恢复\\1 的生命值。",
     "^Effects\\s+on\\s+Special\\s+Skill:([+-]?\\s*\\d+\\s*%?)\\s+chance\\s+to\\s+perform\\s+the\\s+following\\s+actions\\s+when\\s+this\\s+character\\s+casts\\s+their\\s+Special\\s+Skill\\s+['’]?$": "特殊技能效果：当该角色施放其特殊技能时，有\\1 几率执行以下操作：",

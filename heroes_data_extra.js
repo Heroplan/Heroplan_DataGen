@@ -44639,5 +44639,59 @@ window.allHeroesExtra = [
             "mana_on_damage_received"
         ],
         "family": "mahayoddha"
+    },
+    {
+        "name": "Shi Jin",
+        "fancy name": "Nine Dragon Tattoos of Water Margin",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
+        "Release date": "2026-03-01",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Extra Damage Dealers",
+            "Snipers",
+            "Chain & Random Attackers",
+            "Buffers (ATK)"
+        ],
+        "heroId": "outlaw_shi_jin",
+        "baseAttack": 650,
+        "baseDefense": 639,
+        "baseHealth": 1117,
+        "specialId": "nine_dragon_strike",
+        "passiveSkills": [
+            "resist_bleed",
+            "righteous_rebellion_parent",
+            "health_boost_on_special_critical_damage_all"
+        ],
+        "family": "outlaw"
+    },
+    {
+        "name": "Gilda",
+        "fancy name": "Dwarven Guider of Light",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
+        "Release date": "2026-03-01",
+        "AetherPower": "Damage Reduction",
+        "skill_types": [
+            "Snipers",
+            "Chain & Random Attackers",
+            "Minions Counters",
+            "Debuffers (ATK)",
+            "Buffers (ATK)"
+        ],
+        "heroId": "holy_god_gilda",
+        "baseAttack": 616,
+        "baseDefense": 612,
+        "baseHealth": 911,
+        "specialId": "divine_current",
+        "passiveSkills": [
+            "resist_accuracy_modifier_debuffs",
+            "bypass_minions_and_mega_minions"
+        ],
+        "family": "hotm2026"
     }
 ];
