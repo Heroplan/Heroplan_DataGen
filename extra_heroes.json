@@ -178,29 +178,5 @@
         "costume_id": 0,
         "heroId": "easter_marko",
         "Lottery_Only": 1
-    },
-    {
-        "name": "Cordelia",
-        "fancy_name": "Queen of Curses",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2026-04-01 07:00:00",
-        "star": 5,
-        "family": "hotm2026",
-        "costume_id": 0,
-        "heroId": "dark_god_cordelia",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Coleston",
-        "fancy_name": "Unstoppable Halfling",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-05-01 07:00:00",
-        "star": 5,
-        "family": "hotm2026",
-        "costume_id": 0,
-        "heroId": "nature_god_coleston",
-        "Lottery_Only": 1
     }
 ]
