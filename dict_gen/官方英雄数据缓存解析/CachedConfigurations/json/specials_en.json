@@ -366,6 +366,28 @@
         ]
       },
       {
+        "id": "stylish_vines",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 2000,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "extra_damage_damaged_target_stylish_skittleskull"
+        ],
+        "statusEffects": [
+          {
+            "id": "stun_stylish_skittleskull",
+            "sideAffected": "Enemies",
+            "statusTargetType": "All",
+            "turns": 6
+          }
+        ]
+      },
+      {
         "id": "glass_vines",
         "directEffect": {
           "sideAffected": "Enemies",
@@ -639,6 +661,132 @@
             "sideAffected": "Allies",
             "statusTargetType": "Single",
             "turns": 3
+          }
+        ]
+      },
+      {
+        "id": "ruthless_derision",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All"
+        },
+        "maxLevel": 8,
+        "properties": [
+          "branching_special_seraphine"
+        ]
+      },
+      {
+        "id": "ruthless_derision1",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 3250,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "extra_damage_damaged_target_seraphine1"
+        ],
+        "statusEffects": [
+          {
+            "id": "resist_healing_with_damage_seraphine1",
+            "sideAffected": "Enemies",
+            "statusTargetType": "LessThanHalfHpLeft",
+            "turns": 4
+          },
+          {
+            "id": "stacking_received_damage_increase_seraphine1",
+            "sideAffected": "Enemies",
+            "statusTargetType": "LessThanHalfHpLeft"
+          }
+        ]
+      },
+      {
+        "id": "ruthless_derision2",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 3050,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "extra_damage_damaged_target_seraphine2"
+        ],
+        "statusEffects": [
+          {
+            "id": "resist_healing_with_damage_seraphine2",
+            "sideAffected": "Enemies",
+            "statusTargetType": "LessThanHalfHpLeft",
+            "turns": 4
+          },
+          {
+            "id": "stacking_received_damage_increase_seraphine2",
+            "sideAffected": "Enemies",
+            "statusTargetType": "LessThanHalfHpLeft"
+          }
+        ]
+      },
+      {
+        "id": "ingenious_gadgets",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All"
+        },
+        "maxLevel": 8,
+        "properties": [
+          "branching_special_jacquespierre"
+        ]
+      },
+      {
+        "id": "ingenious_gadgets1",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "Single",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 6650,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "statusEffects": [
+          {
+            "id": "damage_on_removal_ingenious_bomb1",
+            "sideAffected": "Enemies",
+            "statusTargetType": "Single",
+            "turns": 4
+          },
+          {
+            "id": "heal_on_removal_ingenious_stabilizer1",
+            "sideAffected": "Allies",
+            "statusTargetType": "Random",
+            "turns": 4
+          }
+        ]
+      },
+      {
+        "id": "ingenious_gadgets2",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "Single",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 5650,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "statusEffects": [
+          {
+            "id": "damage_on_removal_ingenious_bomb2",
+            "sideAffected": "Enemies",
+            "statusTargetType": "Single",
+            "turns": 4
+          },
+          {
+            "id": "heal_on_removal_ingenious_stabilizer2",
+            "sideAffected": "Allies",
+            "statusTargetType": "Random",
+            "turns": 4
           }
         ]
       },
@@ -1467,6 +1615,20 @@
         "buffToRemove": "MinorBuff"
       },
       {
+        "id": "stylish_mist",
+        "directEffect": {
+          "sideAffected": "Allies",
+          "typeOfTarget": "All",
+          "powerMultiplierPerMil": 300,
+          "powerMultiplierIncrementPerLevelPerMil": 10
+        },
+        "maxLevel": 8,
+        "properties": [
+          "extra_heal_lowest_hp_ally_stylish_belith"
+        ],
+        "buffToRemove": "MinorBuff"
+      },
+      {
         "id": "fog_of_the_fallen",
         "directEffect": {
           "sideAffected": "Allies",
@@ -1518,6 +1680,22 @@
         "maxLevel": 8,
         "absorbDamagePerMil": 500,
         "absorbDamageTargetType": "Single"
+      },
+      {
+        "id": "stylish_stab",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "Single",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 2500,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "absorbDamagePerMil": 500,
+        "absorbDamageTargetType": "Single",
+        "properties": [
+          "extra_damage_damaged_target_stylish_prisca"
+        ]
       },
       {
         "id": "glass_stab",
@@ -2127,6 +2305,20 @@
         ]
       },
       {
+        "id": "stylish_arrow",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "Single",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 5600,
+          "powerMultiplierIncrementPerLevelPerMil": 75
+        },
+        "maxLevel": 8,
+        "properties": [
+          "extra_damage_damaged_target_stylish_lianna"
+        ]
+      },
+      {
         "id": "solar_beam",
         "directEffect": {
           "sideAffected": "Enemies",
@@ -2161,6 +2353,28 @@
         "statusEffects": [
           {
             "id": "blind_glass",
+            "sideAffected": "Enemies",
+            "statusTargetType": "Single",
+            "turns": 6
+          }
+        ]
+      },
+      {
+        "id": "stylish_beam",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "Single",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 5150,
+          "powerMultiplierIncrementPerLevelPerMil": 75
+        },
+        "maxLevel": 8,
+        "properties": [
+          "extra_damage_damaged_target_stylish_joon"
+        ],
+        "statusEffects": [
+          {
+            "id": "blind_stylish_joon",
             "sideAffected": "Enemies",
             "statusTargetType": "Single",
             "turns": 6
@@ -2342,6 +2556,28 @@
             "sideAffected": "Enemies",
             "statusTargetType": "All",
             "turns": 3
+          }
+        ]
+      },
+      {
+        "id": "stylish_flames",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 1950,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "extra_damage_damaged_target_stylish_colen"
+        ],
+        "statusEffects": [
+          {
+            "id": "burn_more",
+            "sideAffected": "Enemies",
+            "statusTargetType": "All",
+            "turns": 6
           }
         ]
       },
@@ -22068,6 +22304,31 @@
         ]
       },
       {
+        "id": "exterminators_ploy",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "NearToTargetMinor",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 5600,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "statusEffects": [
+          {
+            "id": "damage_all_allies_on_death_rochefort_costume",
+            "sideAffected": "Enemies",
+            "statusTargetType": "Single",
+            "turns": 3
+          },
+          {
+            "id": "health_boost_recovery_rochefort_costume",
+            "sideAffected": "Allies",
+            "statusTargetType": "Single",
+            "turns": 4
+          }
+        ]
+      },
+      {
         "id": "piercing_shot",
         "directEffect": {
           "sideAffected": "Enemies",
@@ -23347,6 +23608,31 @@
             "id": "damage_on_dodged_special",
             "sideAffected": "Allies",
             "statusTargetType": "All",
+            "turns": 3
+          }
+        ]
+      },
+      {
+        "id": "fusiliers_flurry",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 2450,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "statusEffects": [
+          {
+            "id": "damage_on_dodged_special_constance_costume",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 3
+          },
+          {
+            "id": "health_boost_recovery_constance_costume",
+            "sideAffected": "Allies",
+            "statusTargetType": "Single",
             "turns": 3
           }
         ]
@@ -40697,6 +40983,34 @@
         ]
       },
       {
+        "id": "nights_calibration",
+        "directEffect": {
+          "sideAffected": "Allies",
+          "typeOfTarget": "All"
+        },
+        "maxLevel": 8,
+        "statusEffects": [
+          {
+            "id": "hp_recovery_dularfulr_engineer",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 4
+          },
+          {
+            "id": "fire_ward_dularfulr_engineer",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 4
+          },
+          {
+            "id": "debuff_shield_with_heal_on_resist_dularfulr_engineer",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 4
+          }
+        ]
+      },
+      {
         "id": "nights_whisper_pve",
         "directEffect": {
           "sideAffected": "Allies",
@@ -42348,6 +42662,31 @@
         ]
       },
       {
+        "id": "mana_immolation_soul_seeker",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All"
+        },
+        "maxLevel": 8,
+        "properties": [
+          "fire_strike_aethslegaur_soul_seeker"
+        ],
+        "statusEffects": [
+          {
+            "id": "damage_on_dodged_special_aethslegaur_soul_seeker",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 5
+          },
+          {
+            "id": "immolation_mark_aethslegaur",
+            "sideAffected": "Allies",
+            "statusTargetType": "Single",
+            "turns": 5
+          }
+        ]
+      },
+      {
         "id": "dwarven_kings_levy",
         "directEffect": {
           "sideAffected": "Enemies",
@@ -42413,6 +42752,32 @@
         ]
       },
       {
+        "id": "curing_venom",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All"
+        },
+        "maxLevel": 8,
+        "properties": [
+          "fire_strike_dagr_plague",
+          "bypass_familiars"
+        ],
+        "statusEffects": [
+          {
+            "id": "healing_poison_dagr_plague",
+            "sideAffected": "Enemies",
+            "statusTargetType": "All",
+            "turns": 4
+          },
+          {
+            "id": "poison_burn_damage_modifier_dagr_plague",
+            "sideAffected": "Enemies",
+            "statusTargetType": "All",
+            "turns": 4
+          }
+        ]
+      },
+      {
         "id": "poetic_justice",
         "directEffect": {
           "sideAffected": "Enemies",
@@ -42452,6 +42817,38 @@
           },
           {
             "id": "mana_regen_andvari",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 4
+          }
+        ]
+      },
+      {
+        "id": "saga_of_restoration",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All"
+        },
+        "maxLevel": 8,
+        "properties": [
+          "eat_minions_followers_all",
+          "eat_parasites_all"
+        ],
+        "statusEffects": [
+          {
+            "id": "resist_new_minions",
+            "sideAffected": "Enemies",
+            "statusTargetType": "All",
+            "turns": 4
+          },
+          {
+            "id": "resist_new_parasites",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 4
+          },
+          {
+            "id": "fire_ward_andvari_c1",
             "sideAffected": "Allies",
             "statusTargetType": "All",
             "turns": 4
@@ -46251,6 +46648,30 @@
         ]
       },
       {
+        "id": "stylish_bolt",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "Single",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 5750,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "extra_damage_damaged_target_stylish_domitia"
+        ],
+        "buffToRemove": "MinorBuff",
+        "buffToRemoveTargetType": "NearToTarget",
+        "statusEffects": [
+          {
+            "id": "barrier_holy_stylish_domitia",
+            "sideAffected": "Allies",
+            "statusTargetType": "NearToTarget",
+            "turns": 4
+          }
+        ]
+      },
+      {
         "id": "glass_riposte",
         "directEffect": {
           "sideAffected": "Allies",
@@ -46269,6 +46690,28 @@
             "sideAffected": "Allies",
             "statusTargetType": "Purple",
             "turns": 2
+          }
+        ]
+      },
+      {
+        "id": "stylish_riposte_cyprian",
+        "directEffect": {
+          "sideAffected": "Allies",
+          "typeOfTarget": "NearToTargetMinor"
+        },
+        "maxLevel": 8,
+        "statusEffects": [
+          {
+            "id": "counter_attack_boril_cyprian",
+            "sideAffected": "Allies",
+            "statusTargetType": "NearToTarget",
+            "turns": 5
+          },
+          {
+            "id": "hp_recovery_stylish_cyprian",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 5
           }
         ]
       },
@@ -46296,6 +46739,29 @@
         ]
       },
       {
+        "id": "stylish_dance",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "Single",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 3100,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "extra_damage_damaged_target_stylish_kelile"
+        ],
+        "buffToRemoveTargetType": "Single",
+        "statusEffects": [
+          {
+            "id": "burn_kelile_stylish",
+            "sideAffected": "Enemies",
+            "statusTargetType": "Single",
+            "turns": 3
+          }
+        ]
+      },
+      {
         "id": "glass_cut",
         "directEffect": {
           "sideAffected": "Enemies",
@@ -46308,6 +46774,21 @@
         "properties": [
           "mana_reduction_secondary_effect_single_enemy",
           "bypass_defensive_buffs_always"
+        ]
+      },
+      {
+        "id": "stylish_cut",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "Single",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 2700,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "mana_reduction_secondary_effect_single_enemy",
+          "extra_damage_damaged_target_stylish_azar"
         ]
       },
       {
@@ -51709,13 +52190,13 @@
         ],
         "statusEffects": [
           {
-            "id": "normal_damage_boost",
+            "id": "normal_damage_boost_tarlak_toon",
             "sideAffected": "Allies",
             "statusTargetType": "All",
             "turns": 4
           },
           {
-            "id": "hp_recovery_less_less",
+            "id": "hp_recovery_tarlak_toon",
             "sideAffected": "Allies",
             "statusTargetType": "All",
             "turns": 4
@@ -51728,17 +52209,17 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2100,
+          "powerMultiplierPerMil": 2200,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
         "strongAttackElement": "Green",
         "properties": [
-          "mana_reduction_secondary_effect_neartotarget_enemies_more"
+          "mana_reduction_secondary_effect_neartotarget_enemies_mitsuko_cute"
         ],
         "statusEffects": [
           {
-            "id": "fire_mirror",
+            "id": "fire_mirror_mitsuko_cute",
             "sideAffected": "Allies",
             "statusTargetType": "All",
             "turns": 4
@@ -51751,14 +52232,14 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 1450,
+          "powerMultiplierPerMil": 2050,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
         "strongAttackElement": "Purple",
         "statusEffects": [
           {
-            "id": "lucky_nine",
+            "id": "lucky_nine_inari_cute",
             "sideAffected": "Allies",
             "statusTargetType": "All",
             "turns": 3
@@ -51771,7 +52252,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 1900,
+          "powerMultiplierPerMil": 2400,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -51781,7 +52262,8 @@
         ],
         "buffToRemove": "MinorBuff",
         "buffToRemoveTargetType": "Single",
-        "removeBuffsFirst": true
+        "removeBuffsFirst": true,
+        "bypassBuffRemovalEffects": true
       },
       {
         "id": "toon_annihilation",
@@ -51789,7 +52271,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 1350,
+          "powerMultiplierPerMil": 2850,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -51799,7 +52281,7 @@
         ],
         "statusEffects": [
           {
-            "id": "resurrect",
+            "id": "revive_atomos_cute",
             "sideAffected": "Allies",
             "statusTargetType": "Single",
             "turns": 5
@@ -51812,7 +52294,7 @@
           "sideAffected": "Allies",
           "typeOfTarget": "All",
           "effectType": "Heal",
-          "powerMultiplierPerMil": 330,
+          "powerMultiplierPerMil": 390,
           "powerMultiplierIncrementPerLevelPerMil": 10
         },
         "maxLevel": 8,
@@ -51823,7 +52305,7 @@
         "buffToRemoveSideAffected": "Allies",
         "statusEffects": [
           {
-            "id": "mana_regen",
+            "id": "mana_regen_ariel_cute",
             "sideAffected": "Allies",
             "statusTargetType": "All",
             "turns": 4
@@ -51836,14 +52318,14 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4150,
+          "powerMultiplierPerMil": 5150,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
         "strongAttackElement": "Purple",
         "statusEffects": [
           {
-            "id": "resist_mana_effects",
+            "id": "resist_mana_effects_add_mana_poseidon_cute",
             "sideAffected": "Allies",
             "statusTargetType": "All",
             "turns": 3
@@ -51862,17 +52344,19 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 950,
+          "powerMultiplierPerMil": 1750,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
         "strongAttackElement": "Yellow",
         "properties": [
+          "always_hit",
+          "status_effect_amplifier_against_purple",
           "double_damage_to_healthy_target"
         ],
         "statusEffects": [
           {
-            "id": "dark_mirror",
+            "id": "dark_mirror_ursena_cute",
             "sideAffected": "Allies",
             "statusTargetType": "All",
             "turns": 4
@@ -51885,7 +52369,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 1550,
+          "powerMultiplierPerMil": 1850,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -51943,14 +52427,14 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2650,
+          "powerMultiplierPerMil": 2950,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
         "strongAttackElement": "Green",
         "statusEffects": [
           {
-            "id": "counter_attack_more",
+            "id": "counter_attack_more_more",
             "sideAffected": "Allies",
             "statusTargetType": "Single",
             "turns": 5
@@ -51973,7 +52457,7 @@
         "strongAttackElement": "Yellow",
         "statusEffects": [
           {
-            "id": "poison_proteus",
+            "id": "poison_proteus_cute",
             "sideAffected": "Enemies",
             "statusTargetType": "NearToTarget",
             "turns": 3
@@ -51992,20 +52476,20 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTargetMinor",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 1300,
+          "powerMultiplierPerMil": 1600,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
         "strongAttackElement": "Blue",
         "statusEffects": [
           {
-            "id": "attack_rally",
+            "id": "attack_rally_gadeirus_cute",
             "sideAffected": "Allies",
             "statusTargetType": "NearToTarget",
             "turns": 4
           },
           {
-            "id": "hp_recovery",
+            "id": "hp_recovery_gadeirus_cute",
             "sideAffected": "Allies",
             "statusTargetType": "NearToTarget",
             "turns": 4
@@ -52020,6 +52504,9 @@
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
+        "properties": [
+          "status_effect_amplifier_against_yellow"
+        ],
         "buffToRemove": "MinorDebuff",
         "buffToRemoveSideAffected": "Allies",
         "statusEffects": [
@@ -52043,7 +52530,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 850,
+          "powerMultiplierPerMil": 950,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -52063,7 +52550,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2850,
+          "powerMultiplierPerMil": 2950,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -52132,6 +52619,18 @@
         "properties": [
           "verdant_trap_chain_strike",
           "status_effect_amplifier_against_blue_titans_reduced_power_borgholf"
+        ]
+      },
+      {
+        "id": "desert_trap",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All"
+        },
+        "maxLevel": 8,
+        "properties": [
+          "desert_trap_chain_strike",
+          "status_effect_amplifier_against_purple_titans_reduced_power_veldt"
         ]
       },
       {
@@ -52690,6 +53189,102 @@
         ]
       },
       {
+        "id": "rite_of_protection",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "NearToTarget",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 2550,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 10,
+        "absorbDamagePerMil": 350,
+        "absorbDamageTargetType": "Single",
+        "statusEffects": [
+          {
+            "id": "taunt",
+            "sideAffected": "Allies",
+            "statusTargetType": "Single",
+            "turns": 4
+          },
+          {
+            "id": "received_damage_reduction_velmuthraal",
+            "sideAffected": "Allies",
+            "statusTargetType": "Single",
+            "turns": 4
+          }
+        ]
+      },
+      {
+        "id": "the_scent_of_blood",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All"
+        },
+        "maxLevel": 10,
+        "properties": [
+          "damage_per_removed_status_effect_thenzar"
+        ],
+        "buffToRemove": "MinorBuff",
+        "buffToRemoveTargetType": "Single",
+        "removeBuffsFirst": true
+      },
+      {
+        "id": "acorn_bombardment",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All"
+        },
+        "maxLevel": 10,
+        "properties": [
+          "chain_strike_qillix"
+        ],
+        "statusEffects": [
+          {
+            "id": "increasing_special_damage_until_special_cast_qillix",
+            "sideAffected": "Allies",
+            "statusTargetType": "Single"
+          },
+          {
+            "id": "dodge_special_damage_qillix",
+            "sideAffected": "Allies",
+            "statusTargetType": "Single",
+            "turns": 3
+          }
+        ]
+      },
+      {
+        "id": "celestial_balance",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All"
+        },
+        "maxLevel": 10,
+        "absorbDamagePerMil": 150,
+        "properties": [
+          "damage_highest_hp_enemy_fauran"
+        ]
+      },
+      {
+        "id": "frantic_pincers",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "Sides",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 2050,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 10,
+        "statusEffects": [
+          {
+            "id": "reduce_healing_cruug",
+            "sideAffected": "Enemies",
+            "statusTargetType": "Sides",
+            "turns": 3
+          }
+        ]
+      },
+      {
         "id": "bound_by_knowledge",
         "directEffect": {
           "sideAffected": "Allies",
@@ -52829,11 +53424,25 @@
         "id": "claws_of_the_north",
         "directEffect": {
           "sideAffected": "Enemies",
-          "typeOfTarget": "All"
+          "typeOfTarget": "Single",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 2550,
+          "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 10,
-        "properties": [
-          "branching_special_froastyx"
+        "statusEffects": [
+          {
+            "id": "mana_regen_reduction_froastyx",
+            "sideAffected": "Enemies",
+            "statusTargetType": "Single",
+            "turns": 3
+          },
+          {
+            "id": "frost_froastyx",
+            "sideAffected": "Enemies",
+            "statusTargetType": "Single",
+            "turns": 3
+          }
         ]
       },
       {
@@ -53020,6 +53629,39 @@
             "sideAffected": "Enemies",
             "statusTargetType": "NearToTarget",
             "turns": 3
+          }
+        ]
+      },
+      {
+        "id": "astral_madness_unleashed",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All"
+        },
+        "maxLevel": 8,
+        "properties": [
+          "chain_strike_carthizux"
+        ]
+      },
+      {
+        "id": "cosmic_spirals",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 3200,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "wither_ushal"
+        ],
+        "statusEffects": [
+          {
+            "id": "astral_beam_ushal",
+            "sideAffected": "Allies",
+            "statusTargetType": "Single",
+            "turns": 4
           }
         ]
       },
@@ -53820,6 +54462,34 @@
         ]
       },
       {
+        "id": "verdant_guard",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 2150,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "extra_damage_against_titans_orson"
+        ],
+        "statusEffects": [
+          {
+            "id": "attack_up_orson",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 4
+          },
+          {
+            "id": "soul_connection",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 4
+          }
+        ]
+      },
+      {
         "id": "crimson_trap",
         "directEffect": {
           "sideAffected": "Enemies",
@@ -53850,6 +54520,30 @@
         "statusEffects": [
           {
             "id": "brittle_konradus",
+            "sideAffected": "Enemies",
+            "statusTargetType": "Single",
+            "turns": 3
+          }
+        ]
+      },
+      {
+        "id": "venom_hunt",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "Single",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 5650,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "extra_damage_against_titans_vendela",
+          "bypass_defensive_buffs_always",
+          "status_effect_amplifier_against_yellow_titans_reduced_power_vendela"
+        ],
+        "statusEffects": [
+          {
+            "id": "brittle_vendela",
             "sideAffected": "Enemies",
             "statusTargetType": "Single",
             "turns": 3
@@ -54523,6 +55217,631 @@
             "turns": 3
           }
         ]
+      },
+      {
+        "id": "blazing_matchstick",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "NearToTarget",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 3550,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "statusEffects": [
+          {
+            "id": "wild_burn",
+            "sideAffected": "Enemies",
+            "statusTargetType": "NearToTarget",
+            "turns": 3
+          },
+          {
+            "id": "mana_generation_embertail",
+            "sideAffected": "Allies",
+            "statusTargetType": "NearToTarget",
+            "turns": 3
+          }
+        ]
+      },
+      {
+        "id": "vibrant_whistle",
+        "directEffect": {
+          "sideAffected": "Allies",
+          "typeOfTarget": "All"
+        },
+        "maxLevel": 8,
+        "statusEffects": [
+          {
+            "id": "wild_hp_recovery",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 4
+          },
+          {
+            "id": "mana_overtime_sproutwhisker",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 4
+          },
+          {
+            "id": "defense_up_sproutwhisker",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 4
+          }
+        ]
+      },
+      {
+        "id": "roasting_rooster",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "NearToTarget",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 3900,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "statusEffects": [
+          {
+            "id": "burn_damage_whitley",
+            "sideAffected": "Enemies",
+            "statusTargetType": "NearToTarget",
+            "turns": 4
+          },
+          {
+            "id": "wound_whitley",
+            "sideAffected": "Enemies",
+            "statusTargetType": "NearToTarget",
+            "turns": 4
+          },
+          {
+            "id": "mark_ice_whitley",
+            "sideAffected": "Allies",
+            "statusTargetType": "Single",
+            "turns": 4
+          }
+        ]
+      },
+      {
+        "id": "globetrotting_gifts",
+        "directEffect": {
+          "sideAffected": "Allies",
+          "typeOfTarget": "All",
+          "effectType": "Heal",
+          "powerMultiplierPerMil": 380,
+          "powerMultiplierIncrementPerLevelPerMil": 10
+        },
+        "maxLevel": 8,
+        "statusEffects": [
+          {
+            "id": "dispel_ailments",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 4
+          },
+          {
+            "id": "dodge_special_damage_marko",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 4
+          },
+          {
+            "id": "mana_regen_reduction_marko",
+            "sideAffected": "Allies",
+            "statusTargetType": "Single",
+            "turns": 4
+          }
+        ]
+      },
+      {
+        "id": "destined_curse",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "NearToTarget",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 3500,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "statusEffects": [
+          {
+            "id": "curse_cordelia",
+            "sideAffected": "Enemies",
+            "statusTargetType": "NearToTarget",
+            "turns": 4
+          },
+          {
+            "id": "damage_all_allies_on_death_cordelia",
+            "sideAffected": "Enemies",
+            "statusTargetType": "Single",
+            "turns": 4
+          },
+          {
+            "id": "dark_elemental_crit_modifier_more",
+            "sideAffected": "Allies",
+            "statusTargetType": "Purple",
+            "turns": 4
+          }
+        ]
+      },
+      {
+        "id": "alchemist_lance",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "Single",
+          "powerMultiplierPerMil": 3950,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "strongAttackElement": "Purple",
+        "properties": [
+          "cascading_attack"
+        ],
+        "statusEffects": [
+          {
+            "id": "stun_roostley_costume",
+            "sideAffected": "Allies",
+            "statusTargetType": "Single",
+            "turns": 3
+          }
+        ]
+      },
+      {
+        "id": "shearing_treatment",
+        "directEffect": {
+          "sideAffected": "Allies",
+          "typeOfTarget": "All",
+          "effectType": "Heal",
+          "powerMultiplierPerMil": 350,
+          "powerMultiplierIncrementPerLevelPerMil": 10
+        },
+        "maxLevel": 8,
+        "statusEffects": [
+          {
+            "id": "barrier_dark_woolerton_costume",
+            "sideAffected": "Allies",
+            "statusTargetType": "Single",
+            "turns": 3
+          },
+          {
+            "id": "mana_freeze_major",
+            "sideAffected": "Allies",
+            "statusTargetType": "Single",
+            "turns": 2
+          }
+        ]
+      },
+      {
+        "id": "prudent_stab",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "Single",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 3400,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "damage_more_wabbit_costume"
+        ],
+        "statusEffects": [
+          {
+            "id": "exhaust_wabbit_costume",
+            "sideAffected": "Allies",
+            "statusTargetType": "Single",
+            "turns": 3
+          }
+        ]
+      },
+      {
+        "id": "toon_tide",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 4650,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "strongAttackElement": "Yellow",
+        "properties": [
+          "damage_to_allies"
+        ],
+        "statusEffects": [
+          {
+            "id": "mark_dark",
+            "sideAffected": "Both",
+            "statusTargetType": "NotPurple",
+            "turns": 4
+          }
+        ],
+        "immuneElement": "Purple"
+      },
+      {
+        "id": "toon_chain",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "Single"
+        },
+        "maxLevel": 8,
+        "strongAttackElement": "Red",
+        "properties": [
+          "chain_strike_misandra_cute"
+        ]
+      },
+      {
+        "id": "farmhands_fury",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "Single",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 4000,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "bypass_defensive_buffs_always",
+          "wither_coleston"
+        ],
+        "statusEffects": [
+          {
+            "id": "green_elemental_healing",
+            "sideAffected": "Allies",
+            "statusTargetType": "Green",
+            "turns": 4
+          }
+        ]
+      },
+      {
+        "id": "aetheric_transmutation",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All"
+        },
+        "maxLevel": 8,
+        "properties": [
+          "add_status_effects_first_azureus",
+          "damage_azureus"
+        ],
+        "statusEffects": [
+          {
+            "id": "taunt",
+            "sideAffected": "Allies",
+            "statusTargetType": "Single",
+            "turns": 4
+          },
+          {
+            "id": "nature_mirror_azureus",
+            "sideAffected": "Allies",
+            "statusTargetType": "Single",
+            "turns": 4
+          },
+          {
+            "id": "add_insanity_to_self_azureus",
+            "sideAffected": "Allies",
+            "statusTargetType": "Single"
+          }
+        ]
+      },
+      {
+        "id": "iaijutsu_slashes",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All"
+        },
+        "maxLevel": 8,
+        "properties": [
+          "charged_special_iaijutsu_slashes"
+        ]
+      },
+      {
+        "id": "iaijutsu_1",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All",
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "chain_strike_miran_1"
+        ]
+      },
+      {
+        "id": "iaijutsu_2",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All",
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "chain_strike_miran_2"
+        ]
+      },
+      {
+        "id": "iaijutsu_3",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All",
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "chain_strike_miran_3"
+        ]
+      },
+      {
+        "id": "two_sword_technique",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All"
+        },
+        "maxLevel": 8,
+        "properties": [
+          "charged_special_asakura_masao"
+        ]
+      },
+      {
+        "id": "two_sword_technique_1",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "Single",
+          "powerMultiplierPerMil": 2150,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "cascading_attack_masao_1",
+          "growth_masao_1"
+        ]
+      },
+      {
+        "id": "two_sword_technique_2",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "Single",
+          "powerMultiplierPerMil": 3650,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "cascading_attack_masao_2",
+          "growth_masao_2"
+        ]
+      },
+      {
+        "id": "two_sword_technique_3",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "Single",
+          "powerMultiplierPerMil": 5650,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "cascading_attack_masao_3",
+          "growth_masao_3"
+        ]
+      },
+      {
+        "id": "shuriken_storm",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All"
+        },
+        "maxLevel": 8,
+        "properties": [
+          "charged_special_kageyama_nagato"
+        ]
+      },
+      {
+        "id": "shuriken_storm_1",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "Single",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 3200,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "buff_steal_nagato_1"
+        ],
+        "statusEffects": [
+          {
+            "id": "piercing_shuriken_1",
+            "sideAffected": "Allies",
+            "statusTargetType": "Single",
+            "turns": 2
+          }
+        ]
+      },
+      {
+        "id": "shuriken_storm_2",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "Single",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 3400,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "buff_steal_nagato_2"
+        ],
+        "statusEffects": [
+          {
+            "id": "piercing_shuriken_2",
+            "sideAffected": "Allies",
+            "statusTargetType": "NearToTarget",
+            "turns": 3
+          }
+        ]
+      },
+      {
+        "id": "shuriken_storm3",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "Single",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 3800,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "buff_steal_nagato_3"
+        ],
+        "statusEffects": [
+          {
+            "id": "piercing_shuriken_3",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 5
+          }
+        ]
+      },
+      {
+        "id": "lethal_strikes",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All"
+        },
+        "maxLevel": 8,
+        "properties": [
+          "charged_special_tokage_daigo"
+        ]
+      },
+      {
+        "id": "lethal_strikes_1",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "Single",
+          "powerMultiplierPerMil": 1450,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "cascading_attack_daigo_1",
+          "bypass_diago_1"
+        ]
+      },
+      {
+        "id": "lethal_strikes_2",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "NearToTarget",
+          "powerMultiplierPerMil": 2450,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "cascading_attack_daigo_2",
+          "bypass_diago_2"
+        ]
+      },
+      {
+        "id": "lethal_strikes_3",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All",
+          "powerMultiplierPerMil": 3450,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "cascading_attack_daigo_3",
+          "bypass_diago_3"
+        ]
+      },
+      {
+        "id": "flying_front_kick",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All"
+        },
+        "maxLevel": 8,
+        "properties": [
+          "charged_special_yamada_jingasa"
+        ]
+      },
+      {
+        "id": "flying_front_kick_1",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All"
+        },
+        "maxLevel": 8,
+        "properties": [
+          "chain_strike_jingasa_1"
+        ]
+      },
+      {
+        "id": "flying_front_kick_2",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All"
+        },
+        "maxLevel": 8,
+        "properties": [
+          "chain_strike_jingasa_2"
+        ]
+      },
+      {
+        "id": "flying_front_kick_3",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All"
+        },
+        "maxLevel": 8,
+        "properties": [
+          "chain_strike_jingasa_3"
+        ]
+      },
+      {
+        "id": "urumi_lashing",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 3800
+        },
+        "maxLevel": 8,
+        "properties": [
+          "cascading_ajay",
+          "extra_damage_per_base_stat_all"
+        ]
+      },
+      {
+        "id": "bitter_wilting",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 5150,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "reduce_max_health_auberguy",
+          "harvest_auberguy",
+          "wither_auberguy"
+        ]
+      },
+      {
+        "id": "thandai_trance",
+        "directEffect": {
+          "sideAffected": "Allies",
+          "typeOfTarget": "All",
+          "effectType": "Heal",
+          "powerMultiplierPerMil": 300,
+          "powerMultiplierIncrementPerLevelPerMil": 20
+        },
+        "maxLevel": 8,
+        "properties": [
+          "extra_heal_per_base_stat_modifiers",
+          "dispel_buffs_from_all_enemies",
+          "sleep_highest_mana_bhairavi"
+        ]
       }
     ],
     "specialProperties": [
@@ -54589,6 +55908,20 @@
         "extraHitChancePerMil": 420,
         "minorDamageOnExtraHits": true,
         "fixedAdditionalEffectPower": 50,
+        "effectType": "AddMana",
+        "targetType": "All",
+        "sideAffected": "Allies"
+      },
+      {
+        "propertyType": "ChainStrikeWithEffectPerHit",
+        "id": "chain_strike_misandra_cute",
+        "chainEffectType": "Damage",
+        "powerMultiplierPerMil": 3750,
+        "powerMultiplierIncrementPerLevelPerMil": 50,
+        "maxExtraHits": 4,
+        "extraHitChancePerMil": 800,
+        "minorDamageOnExtraHits": true,
+        "fixedAdditionalEffectPower": 80,
         "effectType": "AddMana",
         "targetType": "All",
         "sideAffected": "Allies"
@@ -55437,6 +56770,19 @@
         "includeMissedTargetsInComparison": true,
         "powerForTargetsThatMeetConditionPerMil": 580,
         "powerForOtherTargetsPerMil": 490,
+        "powerIncrementPerLevelPerMil": 10,
+        "directionOfCondition": "Lowest",
+        "statForCondition": "CurrentHp",
+        "effectType": "Heal",
+        "sideAffected": "Allies",
+        "targetType": "All"
+      },
+      {
+        "propertyType": "ConditionalEffect",
+        "id": "extra_heal_lowest_hp_ally_stylish_belith",
+        "includeMissedTargetsInComparison": true,
+        "powerForTargetsThatMeetConditionPerMil": 370,
+        "powerForOtherTargetsPerMil": 300,
         "powerIncrementPerLevelPerMil": 10,
         "directionOfCondition": "Lowest",
         "statForCondition": "CurrentHp",
@@ -56824,6 +58170,14 @@
       },
       {
         "propertyType": "SecondaryDirectEffect",
+        "id": "mana_reduction_secondary_effect_neartotarget_enemies_mitsuko_cute",
+        "powerMultiplierPerMil": 65036,
+        "effectType": "AddMana",
+        "targetType": "NearToTarget",
+        "sideAffected": "Enemies"
+      },
+      {
+        "propertyType": "SecondaryDirectEffect",
         "id": "mana_reduction_secondary_effect_neartotarget_enemies",
         "powerMultiplierPerMil": 65386,
         "effectType": "AddMana",
@@ -56941,6 +58295,18 @@
         "familiarTypes": [
           "Minion",
           "Follower"
+        ],
+        "effectType": "Heal",
+        "targetType": "All",
+        "sideAffected": "Allies"
+      },
+      {
+        "propertyType": "EffectPerEatenFamiliar",
+        "id": "eat_minions_and_fiends_and_heal_andvari_c1",
+        "powerPerEatenFamiliarPerMil": 50,
+        "familiarTypes": [
+          "Minion",
+          "Parasite"
         ],
         "effectType": "Heal",
         "targetType": "All",
@@ -57587,6 +58953,13 @@
       },
       {
         "propertyType": "TargetHealthDependantExtraDamage",
+        "id": "extra_damage_damaged_target_stylish_joon",
+        "damageMultiplierPerMil": 1177,
+        "targetHealthBoundaryForExtraDamagePerMil": 500,
+        "applyExtraDamageIfOverHealthBoundary": false
+      },
+      {
+        "propertyType": "TargetHealthDependantExtraDamage",
         "id": "extra_damage_damaged_target_stylish_sartana",
         "damageMultiplierPerMil": 1119,
         "targetHealthBoundaryForExtraDamagePerMil": 500,
@@ -57631,6 +59004,20 @@
         "propertyType": "TargetHealthDependantExtraDamage",
         "id": "extra_damage_damaged_target_stylish_jahangir",
         "damageMultiplierPerMil": 1410,
+        "targetHealthBoundaryForExtraDamagePerMil": 500,
+        "applyExtraDamageIfOverHealthBoundary": false
+      },
+      {
+        "propertyType": "TargetHealthDependantExtraDamage",
+        "id": "extra_damage_damaged_target_seraphine1",
+        "damageMultiplierPerMil": 1111,
+        "targetHealthBoundaryForExtraDamagePerMil": 500,
+        "applyExtraDamageIfOverHealthBoundary": false
+      },
+      {
+        "propertyType": "TargetHealthDependantExtraDamage",
+        "id": "extra_damage_damaged_target_seraphine2",
+        "damageMultiplierPerMil": 1088,
         "targetHealthBoundaryForExtraDamagePerMil": 500,
         "applyExtraDamageIfOverHealthBoundary": false
       },
@@ -59163,9 +60550,26 @@
       },
       {
         "propertyType": "ChainStrike",
+        "id": "desert_trap_chain_strike",
+        "chainEffectType": "Damage",
+        "powerMultiplierPerMil": 2850,
+        "powerMultiplierIncrementPerLevelPerMil": 50,
+        "maxExtraHits": 2,
+        "extraHitChancePerMil": 1000,
+        "statusEffects": [
+          {
+            "id": "yellow_trap",
+            "turns": 3
+          }
+        ],
+        "useRandomMainTarget": true,
+        "minorDamageOnExtraHits": false
+      },
+      {
+        "propertyType": "ChainStrike",
         "id": "crimson_trap_chain_strike",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 2400,
+        "powerMultiplierPerMil": 2850,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "maxExtraHits": 2,
         "extraHitChancePerMil": 1000,
@@ -60458,6 +61862,18 @@
         ]
       },
       {
+        "propertyType": "AddStatusEffectsFirst",
+        "id": "add_status_effects_first_azureus",
+        "statusEffects": [
+          {
+            "id": "element_swap_red_azureus",
+            "sideAffected": "Enemies",
+            "statusTargetType": "All",
+            "turns": 4
+          }
+        ]
+      },
+      {
         "propertyType": "AddStatusEffects",
         "id": "add_status_effects_gawain",
         "statusEffects": [
@@ -60517,6 +61933,22 @@
         ],
         "effectType": "Damage",
         "targetType": "NearToTarget",
+        "sideAffected": "Enemies"
+      },
+      {
+        "propertyType": "SecondaryDirectEffect",
+        "id": "damage_azureus",
+        "powerMultiplierPerMil": 3200,
+        "powerMultiplierIncrementPerLevelPerMil": 50,
+        "statusEffects": [
+          {
+            "id": "add_insanity_azureus",
+            "sideAffected": "Enemies",
+            "statusTargetType": "All"
+          }
+        ],
+        "effectType": "Damage",
+        "targetType": "All",
         "sideAffected": "Enemies"
       },
       {
@@ -61527,6 +62959,15 @@
         "sideAffected": "Enemies"
       },
       {
+        "propertyType": "Wither",
+        "id": "wither_ushal",
+        "baseAttackIncrease": 65216,
+        "baseAttackIncreasePerLevel": 241,
+        "baseDefenseIncrease": 0,
+        "targetType": "All",
+        "sideAffected": "Enemies"
+      },
+      {
         "propertyType": "RemoveStatusEffects",
         "id": "remove_debuffs_gideon",
         "buffToRemove": "MinorDebuff",
@@ -62341,7 +63782,7 @@
           }
         ],
         "powerForTargetsThatMeetConditionPerMil": 7150,
-        "powerForOtherTargetsPerMil": 1150,
+        "powerForOtherTargetsPerMil": 2650,
         "powerIncrementPerLevelPerMil": 50,
         "directionOfCondition": "Highest",
         "statForCondition": "CurrentHp",
@@ -62605,6 +64046,18 @@
       },
       {
         "propertyType": "FirestormStrike",
+        "id": "fire_strike_aethslegaur_soul_seeker",
+        "fixedPower": 1815,
+        "fixedPowerIncrementPerLevel": 55,
+        "targetType": "Single",
+        "sideAffected": "Enemies",
+        "effectType": "Damage",
+        "strongAttackElementDamageModifierPerMil": 330,
+        "strongAttackElementDamageModifierIncrementPerLevelPerMil": 10,
+        "strongAttackElement": "Green"
+      },
+      {
+        "propertyType": "FirestormStrike",
         "id": "fire_strike_hreidmarr",
         "fixedPower": 890,
         "fixedPowerIncrementPerLevel": 30,
@@ -62619,6 +64072,18 @@
         "propertyType": "FirestormStrike",
         "id": "fire_strike_dagr",
         "fixedPower": 540,
+        "fixedPowerIncrementPerLevel": 30,
+        "targetType": "All",
+        "sideAffected": "Enemies",
+        "effectType": "Damage",
+        "strongAttackElementDamageModifierPerMil": 330,
+        "strongAttackElementDamageModifierIncrementPerLevelPerMil": 10,
+        "strongAttackElement": "Green"
+      },
+      {
+        "propertyType": "FirestormStrike",
+        "id": "fire_strike_dagr_plague",
+        "fixedPower": 615,
         "fixedPowerIncrementPerLevel": 30,
         "targetType": "All",
         "sideAffected": "Enemies",
@@ -64924,6 +66389,24 @@
       },
       {
         "propertyType": "BranchingSpecial",
+        "id": "branching_special_seraphine",
+        "specialIdIfConditionTrue": "ruthless_derision1",
+        "specialIdIfConditionFalse": "ruthless_derision2",
+        "requiredIntrinsicChargeAmountPerMil": 350,
+        "conditionCheckedFromSide": "Allies",
+        "conditionCheckedFromTarget": "Caster"
+      },
+      {
+        "propertyType": "BranchingSpecial",
+        "id": "branching_special_jacquespierre",
+        "specialIdIfConditionTrue": "ingenious_gadgets1",
+        "specialIdIfConditionFalse": "ingenious_gadgets2",
+        "requiredIntrinsicChargeAmountPerMil": 350,
+        "conditionCheckedFromSide": "Allies",
+        "conditionCheckedFromTarget": "Caster"
+      },
+      {
+        "propertyType": "BranchingSpecial",
         "id": "branching_special_laurent",
         "specialIdIfConditionTrue": "unyielding_stance1",
         "specialIdIfConditionFalse": "unyielding_stance2",
@@ -66267,6 +67750,28 @@
         "minorDamageOnExtraHits": true
       },
       {
+        "propertyType": "ChainStrike",
+        "id": "chain_strike_carthizux",
+        "chainEffectType": "Damage",
+        "powerMultiplierPerMil": 3650,
+        "powerMultiplierIncrementPerLevelPerMil": 50,
+        "maxExtraHits": 4,
+        "extraHitChancePerMil": 750,
+        "statusEffects": [
+          {
+            "id": "resonance_damage_over_time_carthizux",
+            "turns": 3
+          },
+          {
+            "id": "constant_mana_steal_carthizux",
+            "turns": 3
+          }
+        ],
+        "allowMainTargetInRandomTargets": true,
+        "applyStatusEffectsOnHit": true,
+        "minorDamageOnExtraHits": false
+      },
+      {
         "propertyType": "RemoveStatusEffects",
         "id": "remove_buffs_safe_all",
         "buffToRemove": "MinorBuff",
@@ -66332,7 +67837,19 @@
       },
       {
         "propertyType": "ExtraDamageAgainstMonsterCategory",
+        "id": "extra_damage_against_titans_orson",
+        "damageMultiplierPerMil": 2000,
+        "affectedMonsterCategory": "Titan"
+      },
+      {
+        "propertyType": "ExtraDamageAgainstMonsterCategory",
         "id": "extra_damage_against_titans_konradus",
+        "damageMultiplierPerMil": 1167,
+        "affectedMonsterCategory": "Titan"
+      },
+      {
+        "propertyType": "ExtraDamageAgainstMonsterCategory",
+        "id": "extra_damage_against_titans_vendela",
         "damageMultiplierPerMil": 1167,
         "affectedMonsterCategory": "Titan"
       },
@@ -66578,7 +68095,7 @@
         "affectedStatusEffectType": "None",
         "affectedElement": "Green",
         "affectedMonsterCategory": "Titan",
-        "powerModifierPerMil": 65136,
+        "powerModifierPerMil": 65166,
         "useEmbeddedAmplifierKey": true
       },
       {
@@ -66601,6 +68118,15 @@
       },
       {
         "propertyType": "StatusEffectAmplifier",
+        "id": "status_effect_amplifier_against_purple_titans_reduced_power_veldt",
+        "affectedStatusEffectType": "None",
+        "affectedElement": "Purple",
+        "affectedMonsterCategory": "Titan",
+        "powerModifierPerMil": 65166,
+        "useEmbeddedAmplifierKey": true
+      },
+      {
+        "propertyType": "StatusEffectAmplifier",
         "id": "status_effect_amplifier_against_red_titans_reduced_power",
         "affectedStatusEffectType": "None",
         "affectedElement": "Red",
@@ -66613,6 +68139,15 @@
         "id": "status_effect_amplifier_against_red_titans_reduced_power_konradus",
         "affectedStatusEffectType": "None",
         "affectedElement": "Red",
+        "affectedMonsterCategory": "Titan",
+        "durationModifier": 2,
+        "powerModifierPerMil": 65196
+      },
+      {
+        "propertyType": "StatusEffectAmplifier",
+        "id": "status_effect_amplifier_against_yellow_titans_reduced_power_vendela",
+        "affectedStatusEffectType": "None",
+        "affectedElement": "Yellow",
         "affectedMonsterCategory": "Titan",
         "durationModifier": 2,
         "powerModifierPerMil": 65196
@@ -67105,8 +68640,444 @@
         "isHealthBoost": true,
         "targetType": "All",
         "sideAffected": "Allies"
+      },
+      {
+        "propertyType": "ChainStrike",
+        "id": "chain_strike_qillix",
+        "chainEffectType": "Damage",
+        "powerMultiplierPerMil": 1550,
+        "powerMultiplierIncrementPerLevelPerMil": 50,
+        "maxExtraHits": 3,
+        "extraHitChancePerMil": 1000,
+        "useRandomMainTarget": true,
+        "minorDamageOnExtraHits": false
+      },
+      {
+        "propertyType": "StatusEffectTagConditionRepeatSpecial",
+        "id": "repeat_special_bleed_condition_thenzar",
+        "initialRepeatChancePerMil": 1000,
+        "repeatChanceDecrementPerRepeatPerMil": 0,
+        "maxRepeats": 1,
+        "isRandomMainTarget": false,
+        "requiredStatusEffectTag": "Bleed"
+      },
+      {
+        "propertyType": "ConditionalEffect",
+        "id": "damage_highest_hp_enemy_fauran",
+        "includeMissedTargetsInComparison": true,
+        "powerForTargetsThatMeetConditionPerMil": 3050,
+        "powerForOtherTargetsPerMil": 1550,
+        "powerIncrementPerLevelPerMil": 50,
+        "directionOfCondition": "Highest",
+        "statForCondition": "CurrentHp",
+        "effectType": "Damage",
+        "sideAffected": "Enemies",
+        "targetType": "All"
+      },
+      {
+        "propertyType": "TargetHealthDependantExtraDamage",
+        "id": "damage_more_wabbit_costume",
+        "damageMultiplierPerMil": 1068,
+        "targetHealthBoundaryForExtraDamagePerMil": 500,
+        "applyExtraDamageIfOverHealthBoundary": false
+      },
+      {
+        "propertyType": "EffectPerRemovedStatusEffect",
+        "id": "damage_per_removed_status_effect_thenzar",
+        "powerMultiplierPerMil": 3300,
+        "powerMultiplierIncrementPerLevelPerMil": 50,
+        "effectType": "Damage",
+        "targetType": "Single",
+        "sideAffected": "Enemies",
+        "powerPerRemovedStatusEffectPerMil": 500,
+        "maxAmountOfRemovedStatusEffects": 3
+      },
+      {
+        "propertyType": "TargetHealthDependantExtraDamage",
+        "id": "extra_damage_damaged_target_stylish_lianna",
+        "damageMultiplierPerMil": 1163,
+        "targetHealthBoundaryForExtraDamagePerMil": 500,
+        "applyExtraDamageIfOverHealthBoundary": false
+      },
+      {
+        "propertyType": "TargetHealthDependantExtraDamage",
+        "id": "extra_damage_damaged_target_stylish_colen",
+        "damageMultiplierPerMil": 1348,
+        "targetHealthBoundaryForExtraDamagePerMil": 500,
+        "applyExtraDamageIfOverHealthBoundary": false
+      },
+      {
+        "propertyType": "TargetHealthDependantExtraDamage",
+        "id": "extra_damage_damaged_target_stylish_kelile",
+        "damageMultiplierPerMil": 1145,
+        "targetHealthBoundaryForExtraDamagePerMil": 500,
+        "applyExtraDamageIfOverHealthBoundary": false
+      },
+      {
+        "propertyType": "TargetHealthDependantExtraDamage",
+        "id": "extra_damage_damaged_target_stylish_domitia",
+        "damageMultiplierPerMil": 1238,
+        "targetHealthBoundaryForExtraDamagePerMil": 500,
+        "applyExtraDamageIfOverHealthBoundary": false
+      },
+      {
+        "propertyType": "TargetHealthDependantExtraDamage",
+        "id": "extra_damage_damaged_target_stylish_skittleskull",
+        "damageMultiplierPerMil": 1340,
+        "targetHealthBoundaryForExtraDamagePerMil": 500,
+        "applyExtraDamageIfOverHealthBoundary": false
+      },
+      {
+        "propertyType": "TargetHealthDependantExtraDamage",
+        "id": "extra_damage_damaged_target_stylish_prisca",
+        "damageMultiplierPerMil": 1263,
+        "targetHealthBoundaryForExtraDamagePerMil": 500,
+        "applyExtraDamageIfOverHealthBoundary": false
+      },
+      {
+        "propertyType": "TargetHealthDependantExtraDamage",
+        "id": "extra_damage_damaged_target_stylish_azar",
+        "damageMultiplierPerMil": 1164,
+        "targetHealthBoundaryForExtraDamagePerMil": 500,
+        "applyExtraDamageIfOverHealthBoundary": false
+      },
+      {
+        "propertyType": "Wither",
+        "id": "wither_coleston",
+        "baseAttackIncrease": 0,
+        "baseDefenseIncrease": 65306,
+        "baseDefenseIncreasePerLevel": 246,
+        "targetType": "Single",
+        "sideAffected": "Enemies"
+      },
+      {
+        "propertyType": "ChargedSpecial",
+        "id": "charged_special_iaijutsu_slashes",
+        "specialIds": [
+          "iaijutsu_1",
+          "iaijutsu_2",
+          "iaijutsu_3"
+        ]
+      },
+      {
+        "propertyType": "ChargedSpecial",
+        "id": "charged_special_asakura_masao",
+        "specialIds": [
+          "two_sword_technique_1",
+          "two_sword_technique_2",
+          "two_sword_technique_3"
+        ]
+      },
+      {
+        "propertyType": "ChargedSpecial",
+        "id": "charged_special_tokage_daigo",
+        "specialIds": [
+          "lethal_strikes_1",
+          "lethal_strikes_2",
+          "lethal_strikes_3"
+        ]
+      },
+      {
+        "propertyType": "ChargedSpecial",
+        "id": "charged_special_kageyama_nagato",
+        "specialIds": [
+          "shuriken_storm_1",
+          "shuriken_storm_2",
+          "shuriken_storm3"
+        ]
+      },
+      {
+        "propertyType": "ChargedSpecial",
+        "id": "charged_special_yamada_jingasa",
+        "specialIds": [
+          "flying_front_kick_1",
+          "flying_front_kick_2",
+          "flying_front_kick_3"
+        ]
+      },
+      {
+        "propertyType": "ChainStrike",
+        "id": "chain_strike_miran_1",
+        "chainEffectType": "Damage",
+        "powerMultiplierPerMil": 2750,
+        "powerMultiplierIncrementPerLevelPerMil": 50,
+        "maxExtraHits": 1,
+        "extraHitChancePerMil": 1000,
+        "applyDispelOnHit": true,
+        "dispelCountPerTarget": 1,
+        "buffCategoryToDispel": "MinorBuff",
+        "minorDamageOnExtraHits": false
+      },
+      {
+        "propertyType": "ChainStrike",
+        "id": "chain_strike_miran_2",
+        "chainEffectType": "Damage",
+        "powerMultiplierPerMil": 2850,
+        "powerMultiplierIncrementPerLevelPerMil": 50,
+        "maxExtraHits": 4,
+        "extraHitChancePerMil": 1000,
+        "statusEffects": [
+          {
+            "id": "stacking_defense_miran_2"
+          }
+        ],
+        "applyDispelOnHit": true,
+        "dispelCountPerTarget": 1,
+        "buffCategoryToDispel": "MinorBuff",
+        "minorDamageOnExtraHits": false
+      },
+      {
+        "propertyType": "ChainStrike",
+        "id": "chain_strike_miran_3",
+        "chainEffectType": "Damage",
+        "powerMultiplierPerMil": 2950,
+        "powerMultiplierIncrementPerLevelPerMil": 50,
+        "maxExtraHits": 10,
+        "extraHitChancePerMil": 1000,
+        "statusEffects": [
+          {
+            "id": "stacking_defense_miran_3"
+          }
+        ],
+        "applyDispelOnHit": true,
+        "dispelCountPerTarget": 1,
+        "buffCategoryToDispel": "MinorBuff",
+        "bypassOnRemovalEffects": true,
+        "minorDamageOnExtraHits": false
+      },
+      {
+        "propertyType": "CascadingAttack",
+        "id": "cascading_attack_masao_1",
+        "chainEffectType": "Damage",
+        "minorDamageOnExtraHits": false
+      },
+      {
+        "propertyType": "CascadingAttack",
+        "id": "cascading_attack_masao_2",
+        "chainEffectType": "Damage",
+        "minorDamageOnExtraHits": false
+      },
+      {
+        "propertyType": "CascadingAttack",
+        "id": "cascading_attack_masao_3",
+        "chainEffectType": "Damage",
+        "minorDamageOnExtraHits": false
+      },
+      {
+        "propertyType": "Growth",
+        "id": "growth_masao_1",
+        "baseAttackIncrease": 30,
+        "baseAttackIncreasePerLevel": 10,
+        "baseDefenseIncrease": 30,
+        "baseDefenseIncreasePerLevel": 10,
+        "targetType": "Single",
+        "sideAffected": "Allies"
+      },
+      {
+        "propertyType": "Growth",
+        "id": "growth_masao_2",
+        "baseAttackIncrease": 110,
+        "baseAttackIncreasePerLevel": 20,
+        "baseDefenseIncrease": 110,
+        "baseDefenseIncreasePerLevel": 20,
+        "targetType": "NearToTarget",
+        "sideAffected": "Allies"
+      },
+      {
+        "propertyType": "Growth",
+        "id": "growth_masao_3",
+        "baseAttackIncrease": 320,
+        "baseAttackIncreasePerLevel": 40,
+        "baseDefenseIncrease": 320,
+        "baseDefenseIncreasePerLevel": 40,
+        "targetType": "All",
+        "sideAffected": "Allies"
+      },
+      {
+        "propertyType": "StatusEffectReallocation",
+        "id": "buff_steal_nagato_1",
+        "reallocateToTargetType": "Single",
+        "reallocateToSideAffected": "Allies",
+        "reallocateStatusEffectType": "MinorBuff",
+        "customReallocationCount": 1,
+        "reallocateRandomStatusEffect": true,
+        "targetType": "Single",
+        "sideAffected": "Enemies"
+      },
+      {
+        "propertyType": "StatusEffectReallocation",
+        "id": "buff_steal_nagato_2",
+        "reallocateToTargetType": "All",
+        "reallocateToSideAffected": "Allies",
+        "reallocateStatusEffectType": "MinorBuff",
+        "customReallocationCount": 2,
+        "targetType": "NearToTarget",
+        "sideAffected": "Enemies"
+      },
+      {
+        "propertyType": "StatusEffectReallocation",
+        "id": "buff_steal_nagato_3",
+        "reallocateToTargetType": "All",
+        "reallocateToSideAffected": "Allies",
+        "reallocateStatusEffectType": "MinorBuff",
+        "targetType": "All",
+        "sideAffected": "Enemies"
+      },
+      {
+        "propertyType": "CascadingAttack",
+        "id": "cascading_attack_daigo_3",
+        "chainEffectType": "Damage",
+        "statusEffects": [
+          {
+            "id": "poison_daigo3",
+            "turns": 4
+          }
+        ],
+        "minorDamageOnExtraHits": false
+      },
+      {
+        "propertyType": "CascadingAttack",
+        "id": "cascading_attack_daigo_1",
+        "chainEffectType": "Damage",
+        "statusEffects": [
+          {
+            "id": "poison_daigo",
+            "turns": 2
+          }
+        ],
+        "minorDamageOnExtraHits": false
+      },
+      {
+        "propertyType": "CascadingAttack",
+        "id": "cascading_attack_daigo_2",
+        "chainEffectType": "Damage",
+        "statusEffects": [
+          {
+            "id": "poison_daigo2",
+            "turns": 3
+          }
+        ],
+        "minorDamageOnExtraHits": false
+      },
+      {
+        "propertyType": "BypassDefensiveBuffs",
+        "id": "bypass_diago_1",
+        "bypassChancePerMil": 650,
+        "bypassChanceIncrementPerLevelPerMil": 0
+      },
+      {
+        "propertyType": "BypassDefensiveBuffs",
+        "id": "bypass_diago_2",
+        "bypassChancePerMil": 850,
+        "bypassChanceIncrementPerLevelPerMil": 0
+      },
+      {
+        "propertyType": "BypassDefensiveBuffs",
+        "id": "bypass_diago_3",
+        "bypassChancePerMil": 1000,
+        "bypassChanceIncrementPerLevelPerMil": 0
+      },
+      {
+        "propertyType": "ChainStrike",
+        "id": "chain_strike_jingasa_1",
+        "chainEffectType": "Damage",
+        "powerMultiplierPerMil": 1650,
+        "powerMultiplierIncrementPerLevelPerMil": 50,
+        "maxExtraHits": 1,
+        "extraHitChancePerMil": 1000,
+        "minorDamageOnExtraHits": false
+      },
+      {
+        "propertyType": "ChainStrike",
+        "id": "chain_strike_jingasa_2",
+        "chainEffectType": "Damage",
+        "powerMultiplierPerMil": 2250,
+        "powerMultiplierIncrementPerLevelPerMil": 50,
+        "maxExtraHits": 2,
+        "extraHitChancePerMil": 1000,
+        "statusEffects": [
+          {
+            "id": "stun_jingasa_2",
+            "turns": 3
+          }
+        ],
+        "minorDamageOnExtraHits": false
+      },
+      {
+        "propertyType": "ChainStrike",
+        "id": "chain_strike_jingasa_3",
+        "chainEffectType": "Damage",
+        "powerMultiplierPerMil": 2850,
+        "powerMultiplierIncrementPerLevelPerMil": 50,
+        "maxExtraHits": 3,
+        "extraHitChancePerMil": 1000,
+        "statusEffects": [
+          {
+            "id": "stun_jingasa_3",
+            "turns": 5
+          }
+        ],
+        "minorDamageOnExtraHits": false
+      },
+      {
+        "propertyType": "CascadingAttack",
+        "id": "cascading_ajay",
+        "chainEffectType": "Damage",
+        "minorDamageOnExtraHits": false
+      },
+      {
+        "propertyType": "ConditionalEffect",
+        "id": "sleep_highest_mana_bhairavi",
+        "statusEffects": [
+          {
+            "id": "deep_sleep_bhairavi",
+            "turns": 5
+          }
+        ],
+        "powerForTargetsThatMeetConditionPerMil": 0,
+        "powerForOtherTargetsPerMil": 0,
+        "powerIncrementPerLevelPerMil": 0,
+        "directionOfCondition": "Highest",
+        "statForCondition": "CurrentProportionalMana",
+        "effectType": "None",
+        "sideAffected": "Enemies",
+        "targetType": "All"
+      },
+      {
+        "propertyType": "ReduceMaxHealth",
+        "id": "reduce_max_health_auberguy",
+        "reduction": 625,
+        "reductionIncrementPerLevel": 25,
+        "targetType": "All",
+        "sideAffected": "Enemies"
+      },
+      {
+        "propertyType": "Wither",
+        "id": "wither_auberguy",
+        "baseAttackIncrease": 0,
+        "baseDefenseIncrease": 65156,
+        "baseDefenseIncreasePerLevel": 246,
+        "targetType": "All",
+        "sideAffected": "Enemies"
+      },
+      {
+        "propertyType": "EffectOnRemoveStatusEffectsAndBaseModifiers",
+        "id": "harvest_auberguy",
+        "targetType": "All",
+        "sideAffected": "Enemies",
+        "buffToRemove": "AllBuffs",
+        "maxBuffsToRemove": 2,
+        "bypassOnRemovalEffects": true,
+        "effectOnRemoval": {
+          "sideAffected": "Allies",
+          "typeOfTarget": "Single",
+          "effectType": "HealthBoost",
+          "powerMultiplierPerMil": 70
+        },
+        "maxEffectPowerPerMil": 420,
+        "removeGrowthEffects": true
       }
     ]
   },
-  "specialsConfigId": 1438767226
+  "specialsConfigId": 2736155067
 }

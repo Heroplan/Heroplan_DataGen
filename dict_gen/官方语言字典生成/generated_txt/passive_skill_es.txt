@@ -64,6 +64,9 @@ El núcleo destructor se activa cada vez que este personaje lanza su habilidad e
 "herocard.passive_skill.description.effectonheal.addmana","Este personaje recibe un {POWER} % de maná cada vez que recupera vitalidad."
 "herocard.passive_skill.description.effectonheal.heal","Este personaje recibe un {POWER} % de vitalidad cada vez que recupera vitalidad."
 "herocard.passive_skill.description.effectonhealsupportcharacter.troop.heal","Este personaje recibe un {POWER} % de vitalidad cada vez que recupera vitalidad."
+"herocard.passive_skill.description.effectonownerdeath.damage.single.enemies.specialskill.targetattackerside","Cuando este personaje cae derrotado por una habilidad especial, realiza estas acciones:
+ El atacante recibe un {DAMAGE} % de daño.
+ El atacante recibe {STATUSEFFECT1DAMAGE} de daño de sangrado durante {TURNS} turnos."
 "herocard.passive_skill.description.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Este personaje obtiene un {HEALTHBOOST} % de vitalidad potenciada y un {MANA} % de maná al resistir un ataque."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Este personaje obtiene un {POWER} % de maná cada vez que un enemigo lanza una habilidad especial que potencie la vitalidad directamente."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.fixedpower.on_healthboost_cast","Este personaje obtiene {POWER} de vitalidad potenciada cada vez que un enemigo lanza una habilidad especial que potencie la vitalidad directamente."
@@ -71,6 +74,7 @@ El núcleo destructor se activa cada vez que este personaje lanza su habilidad e
 "herocard.passive_skill.description.effectonspecialskilldamagedone.bufftoremove.minordebuff.from.all.allies.safe.only_criticals","Cuando este personaje asesta un golpe crítico con su habilidad especial, purifica de forma segura el último estado alterado purificable de todos los aliados."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals","Cuando este personaje asesta un golpe crítico con su habilidad especial, potencia un {HEALTHBOOST} % la vitalidad de todos los aliados."
 "herocard.passive_skill.description.effectonspecialskilldamagereceived.healthboost.all.allies.only_criticals","Cuando este personaje asesta un golpe crítico con su habilidad especial, potencia un {HEALTHBOOST} % la vitalidad de todos los aliados."
+"herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","Cuando un aliado lanza su habilidad especial, este personaje inflige {POWER} % de daño y otorga {DIRECTEFFECT1STATUSEFFECT1DEFENSE} % de defensa durante {DIRECTEFFECT1STATUSEFFECT1TURNS} turnos a un enemigo aleatorio."
 "herocard.passive_skill.description.effectonspecialwithchance.activates_on_enemy_action.healthboost.fixedpower","Cuando un enemigo lanza su habilidad especial, este personaje tiene un {CHANCE} % de probabilidad de potenciar su vitalidad en {HEALTHBOOST}."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.all.allies","Cuando este personaje usa su habilidad especial, tiene un {CHANCE} % de probabilidad de otorgar un {POWER} % de maná a todos los aliados. Si la habilidad especial está cargada por completo, la probabilidad es del {CHANCEFULLYCHARGED} %."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.notblue.allies","Cuando este personaje usa su habilidad especial, tiene un {CHANCE} % de probabilidad de otorgar un {POWER} % de maná a todos los aliados que no sean del elemento hielo. Si la habilidad especial está cargada por completo, la probabilidad es del {CHANCEFULLYCHARGED} %."
@@ -113,6 +117,14 @@ El núcleo secuaz se activa cada vez que este personaje lanza su habilidad espec
  Con un núcleo secuaz cargado al máximo, invoca a un secuaz robot asesino para cada aliado con un {FAMILIARHEALTHPERCENT} % VIT y un {FAMILIARATTACK} % de ataque heredados del héroe.
  La VIT y el ataque heredados aumentan en función de la carga del núcleo. La carga completa se agota cuando se activa el núcleo.
  Antes de golpear al objetivo, el secuaz robot asesino destruye a todos sus secuaces e inflige daño a sus megasecuaces."
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always.temp.with.wither","El núcleo de creación de este personaje es un núcleo secuaz.
+
+El núcleo secuaz se activa cada vez que este personaje lanza su habilidad especial:
+
+ Con un núcleo secuaz cargado al máximo, invoca a un secuaz robot asesino para cada aliado con un {FAMILIARHEALTHPERCENT} % VIT y un {FAMILIARATTACK} % de ataque heredados del héroe.
+ La VIT y el ataque heredados aumentan en función de la carga del núcleo. La carga completa se agota cuando se activa el núcleo.
+ Antes de golpear al objetivo, el secuaz robot asesino destruye a todos sus secuaces e inflige daño a sus megasecuaces.
+ Merma: Cada golpe de un secuaz robot asesino le otorga al objetivo {ATTACKMODIFIER} de ataque."
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.bigminion.decrease","Los megasecuaces enemigos tienen un {HEALTHMODIFIER} % de VIT."
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.minion.decrease","Los secuaces enemigos tienen un {HEALTHMODIFIER} % de VIT."
 "herocard.passive_skill.description.familiarsilencer.all.enemies.bigminion","Los megasecuaces enemigos no pueden atacar ni usar habilidades."
@@ -157,7 +169,12 @@ El núcleo secuaz se activa cada vez que este personaje lanza su habilidad espec
 "herocard.passive_skill.description.memorizestatuseffects#2","Este personaje tiene la habilidad innata de memorizar los estados alterados. Memorizará los últimos {0} estados alterados que se usen en su contra hasta que emplee su habilidad especial. Solo puede memorizar los estados alterados con una duración limitada."
 "herocard.passive_skill.description.memorizestatuseffects#3","This character has innate ability to Memorize status ailments. The latest {0} status ailments that are cast on this character will stay memorized until the Special Skill is cast. Only status ailments with a duration can be memorized. (THIRD FORM)"
 "herocard.passive_skill.description.mimiclootonlevelcompleted","Cada copia única de tu equipo puede proporcionarte botín extra al completar fases. Esta copia otorga la probabilidad de conseguir el siguiente botín extra:"
+"herocard.passive_skill.description.minioncorruption.all.enemies","Al final de cada turno, los enemigos con demencia tienen una probabilidad de que sus secuaces se transformen en demonios.
+ Al llegar a {AUTOMATICTRANSFORMINSANITYTHRESHOLD} de demencia, la transformación se activa automáticamente.
+ Un secuaz se transformará en un demonio sobrenatural: {FAMILIAR1FAMILIARATTACK} % de ataque y {FAMILIAR1FAMILIARHEALTHPERCENT} % de vitalidad; aplica {FAMILIAR1INSANITYTOADD} de demencia por turno.
+ Un megasecuaz se transformará un en megademonio sobrenatural: {FAMILIAR2FAMILIARATTACK} % de ataque y {FAMILIAR2FAMILIARHEALTHPERCENT} % de vitalidad; aplica {FAMILIAR2INSANITYTOADD} de demencia por turno."
 "herocard.passive_skill.description.nevermissspecial","La habilidad especial de este personaje nunca falla."
+"herocard.passive_skill.description.preventboostedhealth.all.enemies","La vitalidad de los enemigos no puede aumentar por encima de su vitalidad máxima."
 "herocard.passive_skill.description.ransack","Al comienzo de cada turno, este personaje saquea a un enemigo aleatorio:
 
  Roba {DAMAGE} de vitalidad.
@@ -197,6 +214,7 @@ El núcleo reparador se activa cada vez que este personaje lanza su habilidad es
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.attackwither.defensewither.alldebuffs.with_chance","{CHANCE} % de probabilidad extra de resistir todos los estados alterados, descartes de bendiciones y efectos de merma."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.insanity.with_chance","{CHANCE} % de probabilidad extra de resistir todos los estados alterados, reducciones de maná, descartes de bendiciones y la demencia."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance","{CHANCE} % de probabilidad extra de resistir todos los estados alterados, reducciones de maná y descartes de bendiciones."
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance.with_effect.addmana","{CHANCE} % de probabilidad extra de resistir todos los estados alterados, reducciones de maná y descartes de bendiciones. Obtiene un {MANA} % de maná cada vez que resiste."
 "herocard.passive_skill.description.resist.alldebuffs.with_chance","{CHANCE} % de probabilidad extra de resistir todos los estados alterados."
 "herocard.passive_skill.description.resist.alldefensemodifiers.alldebuffs","Este personaje es inmune a los estados alterados que afectan a la defensa. Se aplica también a estados alterados que afectan a la defensa elemental."
 "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.alldebuffs","Este personaje es inmune a los estados alterados, acumulaciones y efectos de merma que afectan a la defensa."
@@ -220,6 +238,12 @@ Esto incluye bendiciones y alteraciones de estado, acumulaciones positivas y neg
 "herocard.passive_skill.description.resist.attackmodifiers","Este personaje es inmune a los estados alterados que afectan al ataque."
 "herocard.passive_skill.description.resist.attackmodifiers.allstatuseffectsandstacks","Este personaje es inmune a todos los efectos de estado y acumulaciones que afectan al ataque, incluidas las bendiciones de estado."
 "herocard.passive_skill.description.resist.attackmodifiers.attackwither.alldebuffs","Este personaje es inmune a los estados alterados, acumulaciones y efectos de merma que afectan al ataque."
+"herocard.passive_skill.description.resist.attackmodifiers.attackwither.attackgrowth.allstatuseffectsandstacks","A este personaje no le afectan los efectos que aumentan o reducen el ataque.
+
+Esto incluye:
+ Bendiciones y alteraciones de estado
+ Acumulaciones positivas y negativas
+ Efectos de crecimiento y merma"
 "herocard.passive_skill.description.resist.bleed","Este personaje es inmune a los estados alterados que infligen daño de sangrado."
 "herocard.passive_skill.description.resist.bleed.with_effect.healthboost.addmana","Este personaje es inmune a los estados alterados que infligen daño de sangrado y obtiene {HEALTHBOOST} de vitalidad potenciada y un {MANA} % de maná cada vez que resiste un ataque."
 "herocard.passive_skill.description.resist.buffdispels","Este personaje es inmune a los efectos que descartan sus bendiciones de estado."
@@ -352,6 +376,19 @@ Demonio retoño:
 
 Megademonio flor:
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de vitalidad."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Invoca un demonio brote maldito para un enemigo aleatorio en cada turno.
+ El demonio brote maldito se convierte en demonio retoño pasados {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
+ El demonio retoño se convierte en megademonio flor pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
+ La evolución de los demonios se retrasa {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que absorben curación.
+
+Demonio brote maldito:
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de vitalidad.
+
+Demonio retoño:
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de vitalidad.
+
+Megademonio flor:
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de vitalidad."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Invoca un demonio brote maldito para un enemigo aleatorio en cada turno. Esta habilidad pasiva solo se activa una vez por turno para cada equipo.
  El demonio brote maldito se convierte en demonio retoño pasados {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
  El demonio retoño se convierte en megademonio flor pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
@@ -365,32 +402,32 @@ Demonio retoño:
 
 Megademonio flor:
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de vitalidad."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Invoca un [#!]demonio brote maldito[#] para un enemigo aleatorio en cada turno. Esta habilidad pasiva solo se activa una vez por turno para cada equipo.
-[*] El [#!]demonio brote maldito[#] se convierte en [#!]demonio retoño[#] pasados {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
-[*] El [#!]demonio retoño[#] se convierte en [#!]megademonio flor[#] pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
-[*] La evolución de los demonios se retrasa {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que absorben curación.
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Invoca un demonio brote maldito para un enemigo aleatorio en cada turno. Esta habilidad pasiva solo se activa una vez por turno para cada equipo.
+ El demonio brote maldito se convierte en demonio retoño pasados {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
+ El demonio retoño se convierte en megademonio flor pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
+ La evolución de los demonios se retrasa {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que absorben curación.
 
-[#!]Demonio brote maldito[#]:
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] de vitalidad.
+Demonio brote maldito:
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de vitalidad.
 
-[#!]Demonio retoño[#]:
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] de vitalidad.
+Demonio retoño:
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de vitalidad.
 
-[#!]Megademonio flor[#]:
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] de vitalidad."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Invoca un [#!]demonio brote maldito[#] para un enemigo aleatorio en cada turno. Esta habilidad pasiva solo se activa una vez por turno para cada equipo.
-[*] El [#!]demonio brote maldito[#] se convierte en [#!]demonio retoño[#] pasados {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
-[*] El [#!]demonio retoño[#] se convierte en [#!]megademonio flor[#] pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
-[*] La evolución de los demonios se retrasa {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que absorben curación.
+Megademonio flor:
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de vitalidad."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Invoca un demonio brote maldito para un enemigo aleatorio en cada turno. Esta habilidad pasiva solo se activa una vez por turno para cada equipo.
+ El demonio brote maldito se convierte en demonio retoño pasados {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
+ El demonio retoño se convierte en megademonio flor pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
+ La evolución de los demonios se retrasa {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que absorben curación.
 
-[#!]Demonio brote maldito[#]:
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] de vitalidad.
+Demonio brote maldito:
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de vitalidad.
 
-[#!]Demonio retoño[#]:
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] de vitalidad.
+Demonio retoño:
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de vitalidad.
 
-[#!]Megademonio flor[#]:
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] de vitalidad."
+Megademonio flor:
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de vitalidad."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Cuando este personaje cae derrotado, invoca megasecuaces viscosos para los aliados cercanos con un {FAMILIARHEALTHPERCENT} % de VIT y un {FAMILIARATTACK} % de ataque heredados del personaje."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Cuando este personaje cae derrotado, invoca megasecuaces viscosos para los aliados cercanos con un {FAMILIARHEALTHPERCENT} % de VIT y un {FAMILIARATTACK} % de ataque heredados del personaje."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Cuando este personaje cae derrotado, invoca megasecuaces viscosos para los aliados cercanos con un {FAMILIARHEALTHPERCENT} % de VIT y un {FAMILIARATTACK} % de ataque heredados del personaje."
@@ -425,6 +462,7 @@ Megademonio flor:
 "herocard.passive_skill.inactive","Inactiva: Alcanza el nivel máximo y ascensión completa para activarla."
 "herocard.passive_skill.replace.minordebuff.attackmodifier.to.minorbuff.attackmodifier","Alteraciones de ataque a un {ATTACK} % de ataque durante {TURNS} turnos."
 "herocard.passive_skill.replace.minordebuff.buffimmunity.to.minorbuff.debuffshield","Alteraciones de inmunidad a bendiciones a inmunidad a alteraciones durante {TURNS} turnos."
+"herocard.passive_skill.replace.minordebuff.damageovertime.to.minorbuff.fixedhealthrecovery","Estados alterados de daño con el tiempo hasta {TOTAL} de VIT regenerada durante {TURNS} turnos."
 "herocard.passive_skill.replace.minordebuff.defensemodifier.to.minorbuff.defensemodifier","Alteraciones de defensa a un {DEFENSE} % de defensa durante {TURNS} turnos."
 "herocard.passive_skill.replace.minordebuff.healingmodifier.to.minorbuff.healmultiplier","Reducciones de curación a un {HEALING} % más de curación durante {TURNS} turnos."
 "herocard.passive_skill.replace.minordebuff.manaeffect.to.minorbuff.managenerationmodifier","Alteraciones de maná a un {MANAREGEN} % de regeneración de maná durante {TURNS} turnos."
@@ -491,6 +529,7 @@ Megademonio flor:
 "herocard.passive_skill.title.effectonhealsupportcharacter.troop.heal","Vitalidad extra"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.attackmodifier","Efecto de estado al reducirse el maná"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.yellowdefensemodifier","Efecto de estado al reducirse el maná"
+"herocard.passive_skill.title.effectonownerdeath.damage.statuseffects.bleeding","Derrota deshonrosa"
 "herocard.passive_skill.title.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Vitalidad potenciada y maná al resistir"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Maná con habilidad especial que aumenta la vitalidad"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.on_healthboost_cast","Vitalidad potenciada con potenciación de vitalidad enemiga"
@@ -498,6 +537,7 @@ Megademonio flor:
 "herocard.passive_skill.title.effectonspecialskilldamagedone.bufftoremove.minordebuff.safe.only_criticals","Purificación con ataque especial crítico"
 "herocard.passive_skill.title.effectonspecialskilldamagedone.healthboost.only_criticals","Vitalidad potenciada con ataque especial crítico"
 "herocard.passive_skill.title.effectonspecialskilldamagereceived.healthboost.only_criticals","Vitalidad potenciada con ataque especial crítico"
+"herocard.passive_skill.title.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.directeffect1_statuseffects.defensemodifier","Mordisquito"
 "herocard.passive_skill.title.effectonspecialwithchance.activates_on_enemy_action.healthboost","Vitalidad potenciada con habilidad especial enemiga"
 "herocard.passive_skill.title.effectonspecialwithchance.addmana","Maná con habilidad especial"
 "herocard.passive_skill.title.effectonspecialwithchance.bufftoremove.minorbuff.latest","Descarte con habilidad especial"
@@ -514,6 +554,8 @@ Megademonio flor:
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.managenerationmodifier","Efecto de estado con habilidad especial"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.poison","Veneno con habilidad especial"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.possession","Ataque salvaje con habilidad especial"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackingdefensemodifier","Acumulación con habilidad especial"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackinghealthgeneration","Acumulación con habilidad especial"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.underwater","Daño con el tiempo con habilidad especial"
 "herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.damage.faster.average.once","Daño con habilidad especial enemiga"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.allbuffs.taunt","Maná con burla"
@@ -537,6 +579,7 @@ Megademonio flor:
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","Maná al invocar demonio"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.damage.enemies.parasite","Ira de las mascotas"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.healthboost.enemies.parasite","Vitalidad potenciada al invocar demonio"
+"herocard.passive_skill.title.empowered_toon_resist_manareduction_dispels","Caricatura fortalecida"
 "herocard.passive_skill.title.familiaraccuracymodifier.all.enemies.minion.bigminion","Ceguera de secuaces"
 "herocard.passive_skill.title.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core","Núcleo secuaz"
 "herocard.passive_skill.title.familiarhealthmodifier.all.enemies.bigminion.decrease","Megasecuaces más débiles"
@@ -573,7 +616,9 @@ Megademonio flor:
 "herocard.passive_skill.title.memorizestatuseffects","Memoriza estados alterados"
 "herocard.passive_skill.title.mimic_dread_damage_minions","Temible"
 "herocard.passive_skill.title.mimiclootonlevelcompleted","Botín de copia"
+"herocard.passive_skill.title.minioncorruption.all.enemies","Corrupción de secuaces"
 "herocard.passive_skill.title.nevermissspecial","Precisión perfecta"
+"herocard.passive_skill.title.preventboostedhealth.all.enemies","Impedir curación potenciada"
 "herocard.passive_skill.title.ransack","Oportunidad de robar"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Roba bendición"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","Sentido de caza"
@@ -626,6 +671,8 @@ Megademonio flor:
 "herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","Resistencia fortalecida contra el bloqueo de habilidades especiales"
 "herocard.passive_skill.title.resist.stopmanageneration","Resiste la detención de regeneración de maná"
 "herocard.passive_skill.title.resist.water","Resiste Agua"
+"herocard.passive_skill.title.resist_all_attack_effects","Rasgo:
+Estructura diminuta"
 "herocard.passive_skill.title.resist_all_defense_effects","Rasgo:
 Estructura flexible"
 "herocard.passive_skill.title.resistdebuffsfromfamiliars.minion","Resiste los estados alterados de los secuaces"
@@ -683,6 +730,9 @@ Estructura flexible"
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","Bendición de regeneración de maná con alteraciones"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","Máscara elemental"
 "herocard.passive_skill.title.stylish","¡Con estilo!"
+"herocard.passive_skill.title.stylish_epic","¡Con estilo!"
+"herocard.passive_skill.title.stylish_legendary","¡Con estilo!"
+"herocard.passive_skill.title.stylish_rare","¡Con estilo!"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","Invoca un brote"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Invoca un brote"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Invoca un brote"
@@ -719,16 +769,3 @@ Estructura flexible"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Transformar bendiciones"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Transformar alteraciones"
 "herocard.passive_skill.title.wither.all.enemies","Merma"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Invoca un [#!]demonio brote maldito[#] para un enemigo aleatorio en cada turno.
-[*] El [#!]demonio brote maldito[#] se convierte en [#!]demonio retoño[#] pasados {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
-[*] El [#!]demonio retoño[#] se convierte en [#!]megademonio flor[#] pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
-[*] La evolución de los demonios se retrasa {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que absorben curación.
-
-[#!]Demonio brote maldito[#]:
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] de vitalidad.
-
-[#!]Demonio retoño[#]:
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] de vitalidad.
-
-[#!]Megademonio flor[#]:
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] de ataque y [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] de vitalidad."

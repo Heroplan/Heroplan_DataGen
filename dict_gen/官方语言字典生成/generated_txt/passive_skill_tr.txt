@@ -64,6 +64,9 @@ Bu efektlerin her biri tur başına bir defa etkinleşebilir."
 "herocard.passive_skill.description.effectonheal.addmana","Bu karakter her sağlık yenilediğinde %{POWER} mana alır."
 "herocard.passive_skill.description.effectonheal.heal","Bu karakter her sağlık yenilediğinde %{POWER} sağlık alır."
 "herocard.passive_skill.description.effectonhealsupportcharacter.troop.heal","Bu karakter her sağlık yenilediğinde %{POWER} sağlık alır."
+"herocard.passive_skill.description.effectonownerdeath.damage.single.enemies.specialskill.targetattackerside","Bu karakter bir Özel Yetenekle yenilgiye uğratıldığında aşağıdaki eylemleri gerçekleştirir:
+Saldırgan %{DAMAGE} hasar alır.
+Saldırgan {TURNS} tur boyunca {STATUSEFFECT1DAMAGE} Kanama hasarı alır."
 "herocard.passive_skill.description.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Bu karakter, başarılı direnmelerde %{HEALTHBOOST} artırılmış sağlık ve %{MANA} mana kazanır."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Bu karakter, bir düşman her sağlığı doğrudan artıran bir Özel Yetenek uyguladığında %{POWER} mana kazanır."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.fixedpower.on_healthboost_cast","Bu karakter, bir düşman her sağlığı doğrudan artıran bir Özel Yetenek uyguladığında {POWER} artırılmış sağlık alır."
@@ -71,6 +74,7 @@ Bu efektlerin her biri tur başına bir defa etkinleşebilir."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.bufftoremove.minordebuff.from.all.allies.safe.only_criticals","Bu karakter, Özel Yeteneği ile bir kritik darbe uyguladığında tüm müttefiklerden son arındırılabilir durum engelini arındırır."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals","Bu karakter, Özel Yeteneği ile bir kritik darbe uyguladığında tüm müttefiklerinin sağlığını %{HEALTHBOOST} artırır."
 "herocard.passive_skill.description.effectonspecialskilldamagereceived.healthboost.all.allies.only_criticals","Bu karakter, Özel Yeteneği ile bir kritik darbe uyguladığında tüm müttefiklerinin sağlığını %{HEALTHBOOST} artırır."
+"herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","Bir müttefik Özel Yeteneğini uyguladığında bu karakter {DIRECTEFFECT1STATUSEFFECT1TURNS} tur boyunca rastgele bir düşmana %{POWER} hasar ve %{DIRECTEFFECT1STATUSEFFECT1DEFENSE} savunma verir."
 "herocard.passive_skill.description.effectonspecialwithchance.activates_on_enemy_action.healthboost.fixedpower","Bir düşman Özel Yetenek uyguladığında bu karakterin, sağlığını {HEALTHBOOST} artırmak için %{CHANCE} şansı bulunur."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.all.allies","Bu Kahramanın Özel Yeteneği tamamen doluyken tüm müttefiklere %{POWER} mana vermesi için %{CHANCE} şans bulunur. Özel Yetenek tamamen doluysa %{CHANCEFULLYCHARGED} şans bulunur."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.notblue.allies","Bu Kahramanın Özel Yeteneği tamamen doluyken Buz elementinden olmayan tüm müttefiklere %{POWER} mana vermesi için %{CHANCE} şans bulunur. Özel Yetenek tamamen doluysa %{CHANCEFULLYCHARGED} şans bulunur."
@@ -113,6 +117,14 @@ Hizmetkar Merkezi, bu karakterin Özel Yeteneği her uygulandığında etkinleş
  Tamamen dolan bir Hizmetkar Merkezi, eylemciden tüm müttefiklere miras kalan %{FAMILIARHEALTHPERCENT} SP'ye ve %{FAMILIARATTACK} saldırıya sahip bir Katil Bot Hizmetkar çağırır.
  Eylemciden miras kalan SP ve saldırı, Merkezin dolum miktarına göre değişir. Merkez etkinleştirildiğinde doluluk oranı tamamen boşaltılır.
  Katil Bot Hizmetkar, hedefe vurmadan önce hedefteki tüm Hizmetkarları yok eder ve Mega Hizmetkarlara hasar verir."
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always.temp.with.wither","Bu karakterin Yapı Merkezi Hizmetkar Merkezidir.
+
+Hizmetkar Merkezi, bu karakterin Özel Yeteneği her uygulandığında etkinleşir:
+
+ Tamamen dolan bir Hizmetkar Merkezi, eylemciden tüm müttefiklere miras kalan %{FAMILIARHEALTHPERCENT} SP'ye ve %{FAMILIARATTACK} saldırıya sahip bir Katil Bot Hizmetkar çağırır.
+ Eylemciden miras kalan SP ve saldırı, Merkezin dolum miktarına göre değişir. Merkez etkinleştirildiğinde doluluk oranı tamamen boşaltılır.
+ Katil Bot Hizmetkar, hedefe vurmadan önce hedefteki tüm Hizmetkarları yok eder ve Mega Hizmetkarlara hasar verir.
+ Soldurma: Katil Bot Hizmetkarın yaptığı her vuruş hedefine {ATTACKMODIFIER} saldırı verir."
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.bigminion.decrease","Düşman Mega Hizmetkarların %{HEALTHMODIFIER} SP'si bulunur."
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.minion.decrease","Düşman Hizmetkarların {HEALTHMODIFIER}% SP'si bulunur."
 "herocard.passive_skill.description.familiarsilencer.all.enemies.bigminion","Düşman Mega Hizmetkarlar saldıramaz veya kabiliyet kullanamaz."
@@ -157,7 +169,11 @@ Hizmetkar Merkezi, bu karakterin Özel Yeteneği her uygulandığında etkinleş
 "herocard.passive_skill.description.memorizestatuseffects#2","Bu karakter, durum engellerini Ezberleme konusunda doğuştan yeteneklidir. Karaktere uygulanan en yeni {0} durum engeli, Özel Yetenek uygulanana kadar ezberde kalır. Yalnızca süreli durum engelleri ezberlenebilir."
 "herocard.passive_skill.description.memorizestatuseffects#3","This character has innate ability to Memorize status ailments. The latest {0} status ailments that are cast on this character will stay memorized until the Special Skill is cast. Only status ailments with a duration can be memorized. (THIRD FORM)"
 "herocard.passive_skill.description.mimiclootonlevelcompleted","Takımındaki her benzersiz Taklitçi, aşamaları tamamlarken ekstra ganimet elde etmeni sağlayabilir. Taklit, aşağıdaki ekstra ganimetleri elde etme şansını verir:"
+"herocard.passive_skill.description.minioncorruption.all.enemies","Deliliğe sahip olan düşmanların her turun sonunda Hizmetkarlarını ve Canavarlara dönüştürme şansı vardır. {AUTOMATICTRANSFORMINSANITYTHRESHOLD} Deliliğe ulaşınca dönüşüm otomatik olarak etkinleşir.
+ Bir Hizmetkar, Tuhaf Canavara dönüşür: %{FAMILIAR1FAMILIARATTACK} saldırı, %{FAMILIAR1FAMILIARHEALTHPERCENT} sağlık, her turda {FAMILIAR1INSANITYTOADD} Delilik uygular
+ Bir Mega Hizmetkar, Tuhaf Mega Canavara dönüşür: %{FAMILIAR2FAMILIARATTACK} saldırı, %{FAMILIAR2FAMILIARHEALTHPERCENT} sağlık, her turda {FAMILIAR2INSANITYTOADD} Delilik uygular."
 "herocard.passive_skill.description.nevermissspecial","Bu karakterin Özel Yeteneği, hedefini asla şaşırmaz."
+"herocard.passive_skill.description.preventboostedhealth.all.enemies","Düşmanların sağlığı maks. sağlıklarını geçemez."
 "herocard.passive_skill.description.ransack","Her turun başında, bu karakter rastgele bir düşmanı Yağmalar:
 
 {DAMAGE} çalar.
@@ -197,6 +213,7 @@ Onarım Merkezi bu karakterin Özel Yeteneği her uygulandığında etkinleşir:
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.attackwither.defensewither.alldebuffs.with_chance","Tüm durum engellerine, mana düşüşlerine, buff bozmalarına ve Soldurma efektlerine direnmek için %{CHANCE} ekstra şans."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.insanity.with_chance","Tüm durum engellerine, mana azaltmalarına, buff bozmalarına ve Deliliğe direnmek için %{CHANCE} ekstra şans."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance","Tüm durum engellerine, mana düşüşlerine ve buff bozmalarına direnmek için %{CHANCE} ekstra şans."
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance.with_effect.addmana","Tüm durum engellerine, mana düşüşlerine ve buff bozmalarına direnmek için %{CHANCE} ekstra şans. Her başarılı direnmede %{MANA} mana kazanımı."
 "herocard.passive_skill.description.resist.alldebuffs.with_chance","Tüm durum engellerine direnmek için %{CHANCE} ekstra şans."
 "herocard.passive_skill.description.resist.alldefensemodifiers.alldebuffs","Bu karakterin, savunmayı etkileyen durum engellerine karşı bağışıklığı bulunur. Elementer savunmaları etkileyen durum engellerine de uygulanır."
 "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.alldebuffs","Bu karakterin, savunmaları etkileyen durum engellerine, istiflere ve Soldurma efektlerine karşı bağışıklığı bulunur."
@@ -220,6 +237,12 @@ Buna Soldurma ve Büyüme efektlerinin yanı sıra durum efekti güçlendirmeler
 "herocard.passive_skill.description.resist.attackmodifiers","Bu karakterin, saldırıyı etkileyen durum engellerine karşı bağışıklığı bulunur."
 "herocard.passive_skill.description.resist.attackmodifiers.allstatuseffectsandstacks","Bu karakterin, saldırıları etkileyen tüm durum efektlerine ve istiflerine karşı bağışıklığı bulunur. Buna durum efekti buff'ları da dâhildir."
 "herocard.passive_skill.description.resist.attackmodifiers.attackwither.alldebuffs","Bu karakterin, saldırıyı etkileyen durum engellerine, istiflere ve Soldurma efektlerine karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.attackmodifiers.attackwither.attackgrowth.allstatuseffectsandstacks","Bu karakter saldırıyı artıran veya azaltan efektlerden etkilenmez.
+
+Buna 
+ Durum efekti buff'ları ve engelleri
+ Olumlu ve olumsuz İstifler
+ Büyüme ve Soldurma efektleri dâhildir."
 "herocard.passive_skill.description.resist.bleed","Bu karakterin, Kanama hasarı veren durum engellerine karşı bağışıklığı bulunur."
 "herocard.passive_skill.description.resist.bleed.with_effect.healthboost.addmana","Bu karakterin, Kanama hasarı veren durum engellerine karşı bağışıklığı bulunur ve her direndiğinde {HEALTHBOOST} güçlendirilmiş sağlık ve %{MANA} mana kazanır."
 "herocard.passive_skill.description.resist.buffdispels","Bu karakterin, durum efekti buff'larını bozan efektlere karşı bağışıklığı bulunur."
@@ -352,6 +375,19 @@ Filiz Canavarı:
 
 Çiçek Açan Mega Canavar:
 %{EVOLVINGFAMILIAR3FAMILIARATTACK} saldırı, %{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} sağlık."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Her tur rastgele bir düşmana bir Fide Canavarı çağırır.
+Fide Canavarı {EVOLVINGFAMILIAR1EVOLVETURNS} tur sonra bir Filiz Canavarına evrilir.
+Filiz Canavarı {EVOLVINGFAMILIAR2EVOLVETURNS} tur sonra bir Çiçek Açan Mega Canavara evrilir.
+Canavarlar her şifa emdiklerinde evrilmeleri {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tur gecikir.
+
+Fide Canavarı:
+%{EVOLVINGFAMILIAR1FAMILIARATTACK} saldırı, %{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} sağlık.
+
+Filiz Canavarı:
+%{EVOLVINGFAMILIAR2FAMILIARATTACK} saldırı, %{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} sağlık.
+
+Çiçek Açan Mega Canavar:
+%{EVOLVINGFAMILIAR3FAMILIARATTACK} saldırı, %{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} sağlık."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Her tur rastgele bir düşmana bir Fide Canavarı çağırır. Bu Pasif Yetenek, her takım için her turda yalnızca bir defa etkinleştirilebilir.
 Fide Canavarı {EVOLVINGFAMILIAR1EVOLVETURNS} tur sonra bir Filiz Canavarına evrilir.
 Filiz Canavarı {EVOLVINGFAMILIAR2EVOLVETURNS} tur sonra bir Çiçek Açan Mega Canavara evrilir.
@@ -365,32 +401,32 @@ Filiz Canavarı:
 
 Çiçek Açan Mega Canavar:
 %{EVOLVINGFAMILIAR3FAMILIARATTACK} saldırı, %{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} sağlık."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Her tur rastgele bir düşmana bir [#!]Fide Canavarı[#] çağırır. Bu Pasif Yetenek, her takım için her turda yalnızca bir defa etkinleştirilebilir.
-[*][#!]Fide Canavarı[#] {EVOLVINGFAMILIAR1EVOLVETURNS} tur sonra bir [#!]Filiz Canavarına[#] evrilir.
-[*][#!]Filiz Canavarı[#] {EVOLVINGFAMILIAR2EVOLVETURNS} tur sonra bir [#!]Çiçek Açan Mega Canavara[#] evrilir.
-[*]Canavarlar her şifa emdiklerinde evrilmeleri {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tur gecikir.
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Her tur rastgele bir düşmana bir Fide Canavarı çağırır. Bu Pasif Yetenek, her takım için her turda yalnızca bir defa etkinleştirilebilir.
+Fide Canavarı {EVOLVINGFAMILIAR1EVOLVETURNS} tur sonra bir Filiz Canavarına evrilir.
+Filiz Canavarı {EVOLVINGFAMILIAR2EVOLVETURNS} tur sonra bir Çiçek Açan Mega Canavara evrilir.
+Canavarlar her şifa emdiklerinde evrilmeleri {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tur gecikir.
 
-[#!]Fide Canavarı[#]:
-[#!]%{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] saldırı, [#!]%{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] sağlık.
+Fide Canavarı:
+%{EVOLVINGFAMILIAR1FAMILIARATTACK} saldırı, %{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} sağlık.
 
-[#!]Filiz Canavarı[#]:
-[#!]%{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] saldırı, [#!]%{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] sağlık.
+Filiz Canavarı:
+%{EVOLVINGFAMILIAR2FAMILIARATTACK} saldırı, %{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} sağlık.
 
-[#!]Çiçek Açan Mega Canavar[#]:
-[#!]%{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] saldırı, [#!]%{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] sağlık."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Her tur rastgele bir düşmana bir [#!]Fide Canavarı[#] çağırır. Bu Pasif Yetenek, her takım için her turda yalnızca bir defa etkinleştirilebilir.
-[*][#!]Fide Canavarı[#] {EVOLVINGFAMILIAR1EVOLVETURNS} tur sonra bir [#!]Filiz Canavarına[#] evrilir.
-[*][#!]Filiz Canavarı[#] {EVOLVINGFAMILIAR2EVOLVETURNS} tur sonra bir [#!]Çiçek Açan Mega Canavara[#] evrilir.
-[*]Canavarlar her şifa emdiklerinde evrilmeleri {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tur gecikir.
+Çiçek Açan Mega Canavar:
+%{EVOLVINGFAMILIAR3FAMILIARATTACK} saldırı, %{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} sağlık."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Her tur rastgele bir düşmana bir Fide Canavarı çağırır. Bu Pasif Yetenek, her takım için her turda yalnızca bir defa etkinleştirilebilir.
+Fide Canavarı {EVOLVINGFAMILIAR1EVOLVETURNS} tur sonra bir Filiz Canavarına evrilir.
+Filiz Canavarı {EVOLVINGFAMILIAR2EVOLVETURNS} tur sonra bir Çiçek Açan Mega Canavara evrilir.
+Canavarlar her şifa emdiklerinde evrilmeleri {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tur gecikir.
 
-[#!]Fide Canavarı[#]:
-[#!]%{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] saldırı, [#!]%{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] sağlık.
+Fide Canavarı:
+%{EVOLVINGFAMILIAR1FAMILIARATTACK} saldırı, %{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} sağlık.
 
-[#!]Filiz Canavarı[#]:
-[#!]%{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] saldırı, [#!]%{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] sağlık.
+Filiz Canavarı:
+%{EVOLVINGFAMILIAR2FAMILIARATTACK} saldırı, %{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} sağlık.
 
-[#!]Çiçek Açan Mega Canavar[#]:
-[#!]%{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] saldırı, [#!]%{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] sağlık."
+Çiçek Açan Mega Canavar:
+%{EVOLVINGFAMILIAR3FAMILIARATTACK} saldırı, %{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} sağlık."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Bu karakter yenildiğinde yakındaki müttefiklere bu karakterden devralınan %{FAMILIARHEALTHPERCENT} SP'ye ve %{FAMILIARATTACK} saldırıya sahip Balçık Mega Hizmetkarları çağırır."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Bu karakter yenildiğinde yakındaki müttefiklere bu karakterden devralınan %{FAMILIARHEALTHPERCENT} SP'ye ve %{FAMILIARATTACK} saldırıya sahip Balçık Mega Hizmetkarları çağırır."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Bu karakter yenildiğinde yakındaki müttefiklere bu karakterden devralınan %{FAMILIARHEALTHPERCENT} SP'ye ve %{FAMILIARATTACK} saldırıya sahip Balçık Mega Hizmetkarları çağırır."
@@ -425,6 +461,7 @@ Filiz Canavarı:
 "herocard.passive_skill.inactive","AKTİF DEĞİL: Etkinleştirmek için maks. seviyeye ve tam yükselişe ulaş."
 "herocard.passive_skill.replace.minordebuff.attackmodifier.to.minorbuff.attackmodifier","{TURNS} tur boyunca %{ATTACK} saldırıya saldırı engelleri."
 "herocard.passive_skill.replace.minordebuff.buffimmunity.to.minorbuff.debuffshield","{TURNS} tur boyunca engellere bağışıklığa buff bağışıklık engelleri."
+"herocard.passive_skill.replace.minordebuff.damageovertime.to.minorbuff.fixedhealthrecovery","Üretilen {TOTAL} SP'ye {TURNS} tur boyunca zamanla hasar durum engelleri uygulanır."
 "herocard.passive_skill.replace.minordebuff.defensemodifier.to.minorbuff.defensemodifier","{TURNS} tur boyunca %{DEFENSE} savunmaya savunma engelleri."
 "herocard.passive_skill.replace.minordebuff.healingmodifier.to.minorbuff.healmultiplier","%{HEALING} artırılmış şifaya {TURNS} tur boyunca şifa azaltmaları."
 "herocard.passive_skill.replace.minordebuff.manaeffect.to.minorbuff.managenerationmodifier","%{MANAREGEN} mana üretimine {TURNS} tur boyunca mana engelleri."
@@ -491,6 +528,7 @@ Filiz Canavarı:
 "herocard.passive_skill.title.effectonhealsupportcharacter.troop.heal","Ekstra ŞİFA"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.attackmodifier","Mana Azaltmasında Durum Efekti"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.yellowdefensemodifier","Mana Azaltmasında Durum Efekti"
+"herocard.passive_skill.title.effectonownerdeath.damage.statuseffects.bleeding","Onursuz Yenilgi"
 "herocard.passive_skill.title.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Dirençte Sağlık Artışı ve Mana"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Sağlık Artıran Özel Yetenekte Mana"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.on_healthboost_cast","Düşman Sağlık Artışında Sağlık Artışı"
@@ -498,6 +536,7 @@ Filiz Canavarı:
 "herocard.passive_skill.title.effectonspecialskilldamagedone.bufftoremove.minordebuff.safe.only_criticals","Kritik Özel Saldırıda Arındırma"
 "herocard.passive_skill.title.effectonspecialskilldamagedone.healthboost.only_criticals","Kritik Özel Saldırıda Sağlık Artışı"
 "herocard.passive_skill.title.effectonspecialskilldamagereceived.healthboost.only_criticals","Kritik Özel Saldırıda Sağlık Artışı"
+"herocard.passive_skill.title.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.directeffect1_statuseffects.defensemodifier","Atıştırmalık"
 "herocard.passive_skill.title.effectonspecialwithchance.activates_on_enemy_action.healthboost","Düşman Özel Uyguladığında Sağlık Artır"
 "herocard.passive_skill.title.effectonspecialwithchance.addmana","Özel Uygulandığında Mana"
 "herocard.passive_skill.title.effectonspecialwithchance.bufftoremove.minorbuff.latest","Özel Yetenekte Bozma"
@@ -514,6 +553,8 @@ Filiz Canavarı:
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.managenerationmodifier","Özel Yetenekte Durum Efekti"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.poison","Özel Yetenekte Zehir"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.possession","Özel Yetenekte Akılsız Saldırı"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackingdefensemodifier","Özel Yetenekte İstif"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackinghealthgeneration","Özel yetenekte istif"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.underwater","Özel Yetenekte Zamanla Hasar"
 "herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.damage.faster.average.once","Düşman Özel Yeteneğinde Hasar"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.allbuffs.taunt","Alayda Mana"
@@ -537,6 +578,7 @@ Filiz Canavarı:
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","Canavar Çağrısında Mana"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.damage.enemies.parasite","Evcil Hayvanları Gazabı"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.healthboost.enemies.parasite","Canavar Çağrısında Sağlık Artışı"
+"herocard.passive_skill.title.empowered_toon_resist_manareduction_dispels","Güçlü Çizgi"
 "herocard.passive_skill.title.familiaraccuracymodifier.all.enemies.minion.bigminion","Hizmetkar Kör Etme"
 "herocard.passive_skill.title.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core","Hizmetkar Merkezi"
 "herocard.passive_skill.title.familiarhealthmodifier.all.enemies.bigminion.decrease","Zayıf Mega Hizmetkarlar"
@@ -573,7 +615,9 @@ Filiz Canavarı:
 "herocard.passive_skill.title.memorizestatuseffects","Durum Engellerini Ezberle"
 "herocard.passive_skill.title.mimic_dread_damage_minions","Dehşet"
 "herocard.passive_skill.title.mimiclootonlevelcompleted","Taklit Ganimeti"
+"herocard.passive_skill.title.minioncorruption.all.enemies","Hizmetkar Yozlaşması"
 "herocard.passive_skill.title.nevermissspecial","Mükemmel İsabetlilik"
+"herocard.passive_skill.title.preventboostedhealth.all.enemies","Güçlendirilmiş İyileştirmeyi Engelle"
 "herocard.passive_skill.title.ransack","Hırsızın Fırsatı"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Buff'ı Çal"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","Avcı Hissi"
@@ -626,6 +670,8 @@ Filiz Canavarı:
 "herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","Güçlü Özel Yetenek Engelleme Direnci"
 "herocard.passive_skill.title.resist.stopmanageneration","Mana Üretimi Durdurulmasına Karşı Direnç"
 "herocard.passive_skill.title.resist.water","Su Direnci"
+"herocard.passive_skill.title.resist_all_attack_effects","Vasıf:
+Minik Çerçeve"
 "herocard.passive_skill.title.resist_all_defense_effects","Vasıf: 
 Esnek Gövde"
 "herocard.passive_skill.title.resistdebuffsfromfamiliars.minion","Hizmetkarlardan Gelen Durum Engellerine Direnç"
@@ -683,6 +729,9 @@ Esnek Gövde"
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","Engellerden Gelen Mana Üretimi Buff'ı"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","Elementer Maskesi"
 "herocard.passive_skill.title.stylish","Şık!"
+"herocard.passive_skill.title.stylish_epic","Şık!"
+"herocard.passive_skill.title.stylish_legendary","Şık!"
+"herocard.passive_skill.title.stylish_rare","Şık!"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","Fide Ulağı"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Fide Ulağı"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Fide Ulağı"
@@ -719,16 +768,3 @@ Esnek Gövde"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Buff'ları Dönüştür"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Engelleri Dönüştür"
 "herocard.passive_skill.title.wither.all.enemies","Soldurma"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Her tur rastgele bir düşmana bir [#!]Fide Canavarı[#] çağırır.
-[*][#!]Fide Canavarı[#] {EVOLVINGFAMILIAR1EVOLVETURNS} tur sonra bir [#!]Filiz Canavarına[#] evrilir.
-[*][#!]Filiz Canavarı[#] {EVOLVINGFAMILIAR2EVOLVETURNS} tur sonra bir [#!]Çiçek Açan Mega Canavara[#] evrilir.
-[*]Canavarlar her şifa emdiklerinde evrilmeleri {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tur gecikir.
-
-[#!]Fide Canavarı[#]:
-[#!]%{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] saldırı, [#!]%{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] sağlık.
-
-[#!]Filiz Canavarı[#]:
-[#!]%{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] saldırı, [#!]%{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] sağlık.
-
-[#!]Çiçek Açan Mega Canavar[#]:
-[#!]%{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] saldırı, [#!]%{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] sağlık."

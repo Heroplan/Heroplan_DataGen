@@ -63,7 +63,8 @@ REPLACEMENT_RULES = {
         "parentHeroId",
         "includedHeroes",
         "includedExtraHeroes",
-        "entities"
+        "entities",
+        "entitiesToChooseFrom"
         
     ): [
         {

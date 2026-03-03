@@ -64,6 +64,9 @@
 "herocard.passive_skill.description.effectonheal.addmana","此角色每次恢复生命时，都会获得{POWER}%法力。"
 "herocard.passive_skill.description.effectonheal.heal","此角色每次恢复生命时，都会获得{POWER}%生命。"
 "herocard.passive_skill.description.effectonhealsupportcharacter.troop.heal","此角色每次恢复生命时，都会获得{POWER}%生命。"
+"herocard.passive_skill.description.effectonownerdeath.damage.single.enemies.specialskill.targetattackerside","当此角色被特殊技能击败时，会执行以下操作：
+攻击者受到{DAMAGE}%伤害。
+攻击者在{TURNS}回合内受到共计{STATUSEFFECT1DAMAGE}点流血伤害。"
 "herocard.passive_skill.description.effectonresist.activates_on_enemy_action.healthboost.addmana.once","此角色在成功抵抗后获得{HEALTHBOOST}%生命加成和{MANA}%法力。"
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","每当一名敌人施放直接提高生命值的特殊技能时，此角色都会获得{POWER}%法力。"
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.fixedpower.on_healthboost_cast","每当一名敌人施放直接提高生命值的特殊技能时，此角色都会获得{POWER}点生命加成。"
@@ -71,6 +74,7 @@
 "herocard.passive_skill.description.effectonspecialskilldamagedone.bufftoremove.minordebuff.from.all.allies.safe.only_criticals","当该角色使用特殊技能造成暴击时，安全精华从所有敌人处获得的可精华状态异常。"
 "herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals","当此角色使用特殊技能造成暴击时，所有盟友获得{HEALTHBOOST}%生命加成。"
 "herocard.passive_skill.description.effectonspecialskilldamagereceived.healthboost.all.allies.only_criticals","当此角色使用特殊技能造成暴击时，所有盟友获得{HEALTHBOOST}%生命加成。"
+"herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","任何一名盟友施放其特殊技能时，此角色对一名随机敌人造成{POWER}%伤害并给予{DIRECTEFFECT1STATUSEFFECT1DEFENSE}%防御，持续{DIRECTEFFECT1STATUSEFFECT1TURNS}回合。"
 "herocard.passive_skill.description.effectonspecialwithchance.activates_on_enemy_action.healthboost.fixedpower","每当有一名敌人施放特殊技能时，此角色有{CHANCE}%几率将自身的生命值提高{HEALTHBOOST}点。"
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.all.allies","此角色在施放特殊技能时，有{CHANCE}%的几率给予所有盟友{POWER}%的法力值。若该特殊技能已完全充满，则几率为{CHANCEFULLYCHARGED}%。"
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.notblue.allies","此角色在施放特殊技能时，有{CHANCE}%的几率给予所有不属于冰雪元素的盟友{POWER}%的法力值。若该特殊技能已完全充满，则几率为{CHANCEFULLYCHARGED}%。"
@@ -113,6 +117,14 @@
 若小兵核心已完全充满，为所有盟友召唤一个杀戮机器人小兵，小兵继承施法者的{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻击力。
 核心的充能越高，继承的生命值和攻击力越多。核心启动时会耗尽所有充能。
 杀戮机器人小兵在攻击目标前，会摧毁目标的所有小兵，并对超级小兵造成伤害。"
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always.temp.with.wither","此角色的机械核心为小兵核心。
+
+每当此角色施放特殊技能时，都会启动小兵核心：
+
+若小兵核心已完全充满，为所有盟友召唤一个杀戮机器人小兵，小兵继承施法者的{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻击力。
+核心的充能越高，继承的生命值和攻击力越多。核心启动时会耗尽所有充能。
+杀戮机器人小兵在攻击目标前，会摧毁目标的所有小兵，并对超级小兵造成伤害。
+ 衰退：杀戮机器人小兵每次命中，会给予目标{ATTACKMODIFIER}攻击力。"
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.bigminion.decrease","敌方超级小兵拥有{HEALTHMODIFIER}%的生命值。"
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.minion.decrease","敌方小兵拥有{HEALTHMODIFIER}%的生命值。"
 "herocard.passive_skill.description.familiarsilencer.all.enemies.bigminion","敌方超级小兵无法攻击或使用技能。"
@@ -157,7 +169,11 @@
 "herocard.passive_skill.description.memorizestatuseffects#2","此角色的天赋能回溯状态异常。对此角色施放的最后{0}个状态异常会被回溯，直到此角色施放特殊技能为止。只有拥有持续时间的状态异常才可被回溯。"
 "herocard.passive_skill.description.memorizestatuseffects#3","This character has innate ability to Memorize status ailments. The latest {0} status ailments that are cast on this character will stay memorized until the Special Skill is cast. Only status ailments with a duration can be memorized. (THIRD FORM)"
 "herocard.passive_skill.description.mimiclootonlevelcompleted","在完成关卡时，你的战队中每拥有一个不同的拟态兽，系统便会给予你额外的战利品。拟态兽有概率赋予以下额外战利品："
+"herocard.passive_skill.description.minioncorruption.all.enemies","回合结束时，狂乱的敌人有几率将小兵转化为恶魔。达到{AUTOMATICTRANSFORMINSANITYTHRESHOLD}点狂乱后自动激活转化。
+小兵会变身成上古邪神恶魔：{FAMILIAR1FAMILIARATTACK}%攻击力，{FAMILIAR1FAMILIARHEALTHPERCENT}%生命值，每回合施加{FAMILIAR1INSANITYTOADD}点狂乱。
+超级小兵会变身成上古邪神超级恶魔：{FAMILIAR2FAMILIARATTACK}%攻击力，{FAMILIAR2FAMILIARHEALTHPERCENT}%生命值，每回合施加{FAMILIAR2INSANITYTOADD}点狂乱。"
 "herocard.passive_skill.description.nevermissspecial","此角色的特殊技能必定命中。"
+"herocard.passive_skill.description.preventboostedhealth.all.enemies","敌人的生命值不能增加到超过其最大生命值。"
 "herocard.passive_skill.description.ransack","每回合开始时，该角色会掠夺一名随机敌人：
 
 偷取{DAMAGE}点生命值。
@@ -197,6 +213,7 @@
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.attackwither.defensewither.alldebuffs.with_chance","额外{CHANCE}%几率抵抗所有状态异常、法力减损、增益驱散和衰退效果。"
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.insanity.with_chance","额外{CHANCE}%几率抵抗所有状态异常、法力减损、增益驱散和狂乱。"
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance","额外{CHANCE}%几率抵抗所有状态异常、法力减损以及增益驱散。"
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance.with_effect.addmana","额外{CHANCE}%几率抵抗所有状态异常、法力减损以及增益驱散。成功抵抗后获得{MANA}%法力。"
 "herocard.passive_skill.description.resist.alldebuffs.with_chance","额外{CHANCE}%几率抵抗所有状态异常。"
 "herocard.passive_skill.description.resist.alldefensemodifiers.alldebuffs","此角色免疫影响防御的状态异常，包括影响元素防御的状态异常。"
 "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.alldebuffs","此角色免疫影响防御的状态异常、叠加以及衰退效果。"
@@ -220,6 +237,12 @@
 "herocard.passive_skill.description.resist.attackmodifiers","此角色免疫影响攻击的状态异常。"
 "herocard.passive_skill.description.resist.attackmodifiers.allstatuseffectsandstacks","此角色免疫所有影响攻击的状态效果与叠加，包括状态效果增益。"
 "herocard.passive_skill.description.resist.attackmodifiers.attackwither.alldebuffs","此角色免疫影响攻击的状态异常、叠加以及衰退效果。"
+"herocard.passive_skill.description.resist.attackmodifiers.attackwither.attackgrowth.allstatuseffectsandstacks","此角色不会受到增强或削弱攻击效果的影响。
+
+包括
+状态效果增益和异常
+正面和负面效果叠加
+衰退和成长效果。"
 "herocard.passive_skill.description.resist.bleed","此角色免疫造成流血伤害的状态异常。"
 "herocard.passive_skill.description.resist.bleed.with_effect.healthboost.addmana","此角色免疫造成流血伤害的状态异常，并且每次抵抗获得{HEALTHBOOST}点生命加成和{MANA}%法力。"
 "herocard.passive_skill.description.resist.buffdispels","此角色免疫驱散其状态效果增益的效果。"
@@ -352,6 +375,19 @@
 
 鲜花超级恶魔：
 {EVOLVINGFAMILIAR3FAMILIARATTACK}%攻击力，{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%生命值。"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","每回合为一名随机敌人召唤一个幼苗恶魔。
+{EVOLVINGFAMILIAR1EVOLVETURNS}回合后，幼苗恶魔进化为萌芽恶魔。
+{EVOLVINGFAMILIAR2EVOLVETURNS}回合后，萌芽恶魔进化为鲜花超级恶魔。
+
+幼苗恶魔：
+{EVOLVINGFAMILIAR1FAMILIARATTACK}%攻击力，{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%生命值。
+恶魔每次吸收治疗时，其进化将延迟{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。
+
+萌芽恶魔：
+{EVOLVINGFAMILIAR2FAMILIARATTACK}%攻击力，{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%生命值。
+
+鲜花超级恶魔：
+{EVOLVINGFAMILIAR3FAMILIARATTACK}%攻击力，{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%生命值。"
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","每回合为一名随机敌人召唤一个幼苗恶魔。该被动技能每个战队每回合只会触发一次。
 {EVOLVINGFAMILIAR1EVOLVETURNS}回合后，幼苗恶魔进化为萌芽恶魔。
 {EVOLVINGFAMILIAR2EVOLVETURNS}回合后，萌芽恶魔进化为鲜花超级恶魔。
@@ -365,32 +401,32 @@
 
 鲜花超级恶魔：
 {EVOLVINGFAMILIAR3FAMILIARATTACK}%攻击力，{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%生命值。"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","每回合为一名随机敌人召唤一个[#!]幼苗恶魔[#]。该被动技能每个战队每回合只会触发一次。
-[*]{EVOLVINGFAMILIAR1EVOLVETURNS}回合后，[#!]幼苗恶魔[#]进化为[#!]萌芽恶魔[#]。
-[*]{EVOLVINGFAMILIAR2EVOLVETURNS}回合后，[#!]萌芽恶魔[#]进化为[#!]鲜花超级恶魔[#]。
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","每回合为一名随机敌人召唤一个幼苗恶魔。该被动技能每个战队每回合只会触发一次。
+{EVOLVINGFAMILIAR1EVOLVETURNS}回合后，幼苗恶魔进化为萌芽恶魔。
+{EVOLVINGFAMILIAR2EVOLVETURNS}回合后，萌芽恶魔进化为鲜花超级恶魔。
 
-[#!]幼苗恶魔[#]：
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]生命值。
-[*]恶魔每次吸收治疗时，其进化将延迟{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。
+幼苗恶魔：
+{EVOLVINGFAMILIAR1FAMILIARATTACK}%攻击力，{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%生命值。
+恶魔每次吸收治疗时，其进化将延迟{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。
 
-[#!]萌芽恶魔[#]：
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]生命值。
+萌芽恶魔：
+{EVOLVINGFAMILIAR2FAMILIARATTACK}%攻击力，{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%生命值。
 
-[#!]鲜花超级恶魔[#]：
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]生命值。"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","每回合为一名随机敌人召唤一个[#!]幼苗恶魔[#]。该被动技能每个战队每回合只会触发一次。
-[*]{EVOLVINGFAMILIAR1EVOLVETURNS}回合后，[#!]幼苗恶魔[#]进化为[#!]萌芽恶魔[#]。
-[*]{EVOLVINGFAMILIAR2EVOLVETURNS}回合后，[#!]萌芽恶魔[#]进化为[#!]鲜花超级恶魔[#]。
+鲜花超级恶魔：
+{EVOLVINGFAMILIAR3FAMILIARATTACK}%攻击力，{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%生命值。"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","每回合为一名随机敌人召唤一个幼苗恶魔。该被动技能每个战队每回合只会触发一次。
+{EVOLVINGFAMILIAR1EVOLVETURNS}回合后，幼苗恶魔进化为萌芽恶魔。
+{EVOLVINGFAMILIAR2EVOLVETURNS}回合后，萌芽恶魔进化为鲜花超级恶魔。
 
-[#!]幼苗恶魔[#]：
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]生命值。
-[*]恶魔每次吸收治疗时，其进化将延迟{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。
+幼苗恶魔：
+{EVOLVINGFAMILIAR1FAMILIARATTACK}%攻击力，{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%生命值。
+恶魔每次吸收治疗时，其进化将延迟{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。
 
-[#!]萌芽恶魔[#]：
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]生命值。
+萌芽恶魔：
+{EVOLVINGFAMILIAR2FAMILIARATTACK}%攻击力，{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%生命值。
 
-[#!]鲜花超级恶魔[#]：
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]生命值。"
+鲜花超级恶魔：
+{EVOLVINGFAMILIAR3FAMILIARATTACK}%攻击力，{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%生命值。"
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","该角色被击败后，会为附近盟友召唤史莱姆超级小兵，此超级小兵继承该角色的{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻击力。"
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","该角色被击败后，会为附近盟友召唤史莱姆超级小兵，此超级小兵继承该角色的{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻击力。"
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","该角色被击败后，会为附近盟友召唤史莱姆超级小兵，此超级小兵继承该角色的{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻击力。"
@@ -425,6 +461,7 @@
 "herocard.passive_skill.inactive","未激活：达到最高等级且完全进阶才能激活。"
 "herocard.passive_skill.replace.minordebuff.attackmodifier.to.minorbuff.attackmodifier","攻击异常转化为{ATTACK}%攻击力，持续{TURNS}回合。"
 "herocard.passive_skill.replace.minordebuff.buffimmunity.to.minorbuff.debuffshield","增益免疫异常转化为异常免疫，持续{TURNS}回合。"
+"herocard.passive_skill.replace.minordebuff.damageovertime.to.minorbuff.fixedhealthrecovery","持续伤害状态异常在{TURNS}回合内恢复共计{TOTAL}点生命值。"
 "herocard.passive_skill.replace.minordebuff.defensemodifier.to.minorbuff.defensemodifier","防御异常转化为{DEFENSE}%防御力，持续{TURNS}回合。"
 "herocard.passive_skill.replace.minordebuff.healingmodifier.to.minorbuff.healmultiplier","治疗减损转化为{HEALING}%生命值提升，持续{TURNS}回合。"
 "herocard.passive_skill.replace.minordebuff.manaeffect.to.minorbuff.managenerationmodifier","法力异常转化为{MANAREGEN}%法力生成，持续{TURNS}回合。"
@@ -491,6 +528,7 @@
 "herocard.passive_skill.title.effectonhealsupportcharacter.troop.heal","额外治疗"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.attackmodifier","法力减损时获得状态效果"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.yellowdefensemodifier","法力减损时获得状态效果"
+"herocard.passive_skill.title.effectonownerdeath.damage.statuseffects.bleeding","蒙羞落败"
 "herocard.passive_skill.title.effectonresist.activates_on_enemy_action.healthboost.addmana.once","抵抗时获得生命加成和法力"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","敌人施放生命加成的特殊技能时获得法力"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.on_healthboost_cast","敌人获得生命加成时自身亦获得生命加成"
@@ -498,6 +536,7 @@
 "herocard.passive_skill.title.effectonspecialskilldamagedone.bufftoremove.minordebuff.safe.only_criticals","特殊攻击暴击时获得净化效果"
 "herocard.passive_skill.title.effectonspecialskilldamagedone.healthboost.only_criticals","特殊攻击暴击时获得生命值加成"
 "herocard.passive_skill.title.effectonspecialskilldamagereceived.healthboost.only_criticals","特殊攻击暴击时获得生命值加成"
+"herocard.passive_skill.title.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.directeffect1_statuseffects.defensemodifier","尼布尔"
 "herocard.passive_skill.title.effectonspecialwithchance.activates_on_enemy_action.healthboost","敌人施放特殊技能时提高生命值"
 "herocard.passive_skill.title.effectonspecialwithchance.addmana","施放特殊技能时给予法力"
 "herocard.passive_skill.title.effectonspecialwithchance.bufftoremove.minorbuff.latest","施放特殊技能时附带驱散"
@@ -514,6 +553,8 @@
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.managenerationmodifier","施放特殊技能时获得状态效果"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.poison","施放特殊技能时附带剧毒"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.possession","施放特殊技能时施加莽夫乱拳"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackingdefensemodifier","施放特殊技能时给予叠加"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackinghealthgeneration","施放特殊技能时给予叠加"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.underwater","施放特殊技能时造成持续伤害"
 "herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.damage.faster.average.once","敌人施放特殊技能时造成伤害"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.allbuffs.taunt","嘲讽时获得法力"
@@ -537,6 +578,7 @@
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","召唤恶魔时获得法力"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.damage.enemies.parasite","萌宠之怒"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.healthboost.enemies.parasite","召唤恶魔时获得生命加成"
+"herocard.passive_skill.title.empowered_toon_resist_manareduction_dispels","强化卡通"
 "herocard.passive_skill.title.familiaraccuracymodifier.all.enemies.minion.bigminion","致盲小兵"
 "herocard.passive_skill.title.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core","小兵核心"
 "herocard.passive_skill.title.familiarhealthmodifier.all.enemies.bigminion.decrease","较弱的超级小兵"
@@ -573,7 +615,9 @@
 "herocard.passive_skill.title.memorizestatuseffects","回溯状态异常"
 "herocard.passive_skill.title.mimic_dread_damage_minions","恐惧"
 "herocard.passive_skill.title.mimiclootonlevelcompleted","拟态兽战利品"
+"herocard.passive_skill.title.minioncorruption.all.enemies","小兵腐化"
 "herocard.passive_skill.title.nevermissspecial","完美精准度"
+"herocard.passive_skill.title.preventboostedhealth.all.enemies","阻止生命加成"
 "herocard.passive_skill.title.ransack","盗贼的良机"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","窃取增益"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","猎手的感官"
@@ -626,6 +670,8 @@
 "herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","强化抵抗特殊技能格挡"
 "herocard.passive_skill.title.resist.stopmanageneration","抵抗法力生成停止"
 "herocard.passive_skill.title.resist.water","抵抗水系"
+"herocard.passive_skill.title.resist_all_attack_effects","特质：
+娇小体型"
 "herocard.passive_skill.title.resist_all_defense_effects","特质：
 韧性体格"
 "herocard.passive_skill.title.resistdebuffsfromfamiliars.minion","抵抗小兵导致的状态异常"
@@ -683,6 +729,9 @@
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","受到异常时获得法力生成增益"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","元素人面具"
 "herocard.passive_skill.title.stylish","华丽登场！"
+"herocard.passive_skill.title.stylish_epic","华丽登场！"
+"herocard.passive_skill.title.stylish_legendary","华丽登场！"
+"herocard.passive_skill.title.stylish_rare","华丽登场！"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","幼苗召唤师"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","幼苗召唤师"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","幼苗召唤师"
@@ -719,16 +768,3 @@
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","转换增益"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","转换状态异常"
 "herocard.passive_skill.title.wither.all.enemies","衰退"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","每回合为一名随机敌人召唤一个[#!]幼苗恶魔[#]。
-[*]{EVOLVINGFAMILIAR1EVOLVETURNS}回合后，[#!]幼苗恶魔[#]进化为[#!]萌芽恶魔[#]。
-[*]{EVOLVINGFAMILIAR2EVOLVETURNS}回合后，[#!]萌芽恶魔[#]进化为[#!]鲜花超级恶魔[#]。
-
-[#!]幼苗恶魔[#]：
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]生命值。
-[*]恶魔每次吸收治疗时，其进化将延迟{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。
-
-[#!]萌芽恶魔[#]：
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]生命值。
-
-[#!]鲜花超级恶魔[#]：
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]攻击力，[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]生命值。"

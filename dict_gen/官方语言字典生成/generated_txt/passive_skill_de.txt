@@ -64,6 +64,9 @@ Maximal {MAXMANAGAINPERTURN} % Mana pro Zug erhalten."
 "herocard.passive_skill.description.effectonheal.addmana","Dieser Charakter erhält jedes Mal {POWER} % Mana, wenn seine Gesundheit wiederhergestellt wird."
 "herocard.passive_skill.description.effectonheal.heal","Dieser Charakter erhält jedes Mal {POWER} % Leben, wenn seine Gesundheit wiederhergestellt wird."
 "herocard.passive_skill.description.effectonhealsupportcharacter.troop.heal","Dieser Charakter erhält jedes Mal {POWER} % Leben, wenn seine Gesundheit wiederhergestellt wird."
+"herocard.passive_skill.description.effectonownerdeath.damage.single.enemies.specialskill.targetattackerside","Wenn dieser Charakter durch eine Spezialfähigkeit besiegt wird, führt er folgende Aktionen aus:
+Der Angreifer erleidet {DAMAGE} % Schaden.
+Der Angreifer erleidet {STATUSEFFECT1DAMAGE} Blutungsschaden über {TURNS} Runden."
 "herocard.passive_skill.description.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Dieser Charakter erhält {HEALTHBOOST} % verstärktes Leben und {MANA} % Mana bei einem erfolgreichen Widerstand."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Dieser Charakter erhält jedes Mal {POWER} % Mana, wenn ein Gegner eine Spezialfähigkeit wirkt, die direkt das Leben verstärkt."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.fixedpower.on_healthboost_cast","Dieser Charakter erhält jedes Mal  {POWER} verstärktes Leben, wenn ein Gegner eine Spezialfähigkeit wirkt, die direkt das Leben verstärkt."
@@ -71,6 +74,7 @@ Maximal {MAXMANAGAINPERTURN} % Mana pro Zug erhalten."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.bufftoremove.minordebuff.from.all.allies.safe.only_criticals","Wenn dieser Charakter mit seiner Spezialfähigkeit einen kritischen Treffer erzielt, befreit er garantiert alle Verbündeten von der neusten säuberbaren negativen Statusänderung."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals","Wenn dieser Charakter mit seiner Spezialfähigkeit einen kritischen Treffer erzielt, verstärkt er das Leben all seiner Verbündeten um {HEALTHBOOST} %."
 "herocard.passive_skill.description.effectonspecialskilldamagereceived.healthboost.all.allies.only_criticals","Wenn dieser Charakter mit seiner Spezialfähigkeit einen kritischen Treffer erzielt, verstärkt er das Leben all seiner Verbündeten um {HEALTHBOOST} %."
+"herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","Wenn ein Verbündeter seine Spezialfähigkeit wirkt, fügt dieser Charakter einem zufälligen Gegner {POWER} % Schaden zu und gibt ihm {DIRECTEFFECT1STATUSEFFECT1DEFENSE} % Verteidigung für {DIRECTEFFECT1STATUSEFFECT1TURNS} Runden."
 "herocard.passive_skill.description.effectonspecialwithchance.activates_on_enemy_action.healthboost.fixedpower","Wenn ein Gegner seine Spezialfähigkeit wirkt, hat dieser Charakter eine Chance von {CHANCE} %, die Gesundheit dieses Charakters um {HEALTHBOOST} zu erhöhen."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.all.allies","Wenn dieser Charakter seine Spezialfähigkeit wirkt, hat er eine Chance von {CHANCE} %, allen Verbündeten {POWER} % Mana zu gewähren. Bei vollständig aufgeladener Spezialfähigkeit beträgt die Chance {CHANCEFULLYCHARGED} %."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.notblue.allies","Wenn dieser Charakter seine Spezialfähigkeit wirkt, hat er eine Chance von {CHANCE} %, allen Verbündeten, die nicht zum Eiselement gehören, {POWER} % Mana zu gewähren. Bei vollständig aufgeladener Spezialfähigkeit beträgt die Chance {CHANCEFULLYCHARGED} %."
@@ -113,6 +117,14 @@ Der Lakaikern wird immer aktiviert, wenn die Spezialfähigkeit dieses Charakters
  Bei vollständig aufgeladenem Lakaikern wird ein Killer-Bot-Lakai mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff des Wirkers für alle Verbündeten beschworen.
  Die vom Wirker übernommenen LP und Angriff steigen mit der Aufladung im Kern. Wird der Kern aktiviert, wird die gesamte Aufladung verbraucht.
  Bevor der Killer-Bot-Lakai ein Ziel trifft, zerstört er alle Lakaien des Ziels und fügt Mega-Lakaien Schaden zu."
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always.temp.with.wither","Der Konstruktkern dieses Charakters ist ein Lakaikern.
+
+Der Lakaikern wird immer aktiviert, wenn die Spezialfähigkeit dieses Charakters gewirkt wird:
+
+ Bei vollständig aufgeladenem Lakaikern wird ein Killer-Bot-Lakai mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff des Wirkers für alle Verbündeten beschworen.
+ Die vom Wirker übernommenen LP und Angriff steigen mit der Aufladung im Kern. Wird der Kern aktiviert, wird die gesamte Aufladung verbraucht.
+ Bevor der Killer-Bot-Lakai ein Ziel trifft, zerstört er alle Lakaien des Ziels und fügt Mega-Lakaien Schaden zu.
+ Verwelken: Jeder Treffer von einem Killer-Bot-Minion gibt seinem Ziel {ATTACKMODIFIER} Angriff."
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.bigminion.decrease","Feindliche Mega-Vasallen haben {HEALTHMODIFIER} % TP."
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.minion.decrease","Feindliche Vasallen haben {HEALTHMODIFIER} % TP."
 "herocard.passive_skill.description.familiarsilencer.all.enemies.bigminion","Gegnerische Mega-Lakaien können nicht angreifen oder Fähigkeiten einsetzen."
@@ -157,7 +169,11 @@ Der Lakaikern wird immer aktiviert, wenn die Spezialfähigkeit dieses Charakters
 "herocard.passive_skill.description.memorizestatuseffects#2","Dieser Charakter besitzt die angeborene Fähigkeit, sich negative Statusänderungen einzuprägen. Die letzten {0} negativen Statusänderungen, die auf den Charakter angewandt wurden, bleiben eingeprägt, bis die Spezialfähigkeit gewirkt wird. Nur negativen Statusänderungen mit einer Dauer können eingeprägt werden."
 "herocard.passive_skill.description.memorizestatuseffects#3","This character has innate ability to Memorize status ailments. The latest {0} status ailments that are cast on this character will stay memorized until the Special Skill is cast. Only status ailments with a duration can be memorized. (THIRD FORM)"
 "herocard.passive_skill.description.mimiclootonlevelcompleted","Jeder einzigartige Mime in deinem Team kann dir zusätzliche Beute gewähren, wenn du Etappen abschließt. Dieser Mime gewährt eine Chance auf folgende zusätzliche Beute:"
+"herocard.passive_skill.description.minioncorruption.all.enemies","Am Ende von jedem Zug haben Gegner mit Wahnsinn eine Chance, dass ihre Lakaien zu Feinden werden. Wenn {AUTOMATICTRANSFORMINSANITYTHRESHOLD} Wahnsinn erreicht wird, passiert die Verwandlung automatisch.
+ Ein Lakai verwandelt sich in einen Gespenstischer Feind: {FAMILIAR1FAMILIARATTACK} % Angriff, {FAMILIAR1FAMILIARHEALTHPERCENT} % Leben, verursacht {FAMILIAR1INSANITYTOADD} Wahnsinn pro Runde.
+ Ein Mega-Minion verwandelt sich in einen Gespenstischer Mega-Feind: {FAMILIAR2FAMILIARATTACK} % Angriff, {FAMILIAR2FAMILIARHEALTHPERCENT} % LEben, verursacht {FAMILIAR2INSANITYTOADD} Wahnsinn pro Runde."
 "herocard.passive_skill.description.nevermissspecial","Die Spezialfähigkeit dieses Charakters verfehlt ihre Ziele nie."
+"herocard.passive_skill.description.preventboostedhealth.all.enemies","Das Leben von Gegnern kann nicht über ihr max. Leben hinaus erhöht werden."
 "herocard.passive_skill.description.ransack","Zu Beginn jedes Zugs raubt dieser Charakter einen zufälligen Gegner aus:
 
 Er stiehlt {DAMAGE} Leben.
@@ -197,6 +213,7 @@ Der Reparaturkern wird immer aktiviert, wenn die Spezialfähigkeit des Charakter
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.attackwither.defensewither.alldebuffs.with_chance","{CHANCE} % zusätzliche Chance, allen negativen Statusänderungen, Manaverringerungen, dem Entfernen von Boni und Verwelkeffekten zu widerstehen."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.insanity.with_chance","{CHANCE} % zusätzliche Chance, allen negativen Statusänderungen, Manaverringerungen und dem Entfernen von Boni und Wahnsinn zu widerstehen."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance","{CHANCE} % zusätzliche Chance, allen negativen Statusänderungen, Manaverringerungen und dem Entfernen von Boni zu widerstehen."
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance.with_effect.addmana","{CHANCE} % zusätzliche Chance, allen negativen Statusänderungen, Manaverringerungen und dem Entfernen von Boni zu widerstehen. Bei jedem erfolgreichen Widerstand erhältst du {MANA} % Man."
 "herocard.passive_skill.description.resist.alldebuffs.with_chance","{CHANCE} % zusätzliche Chance, allen negativen Statusänderungen zu widerstehen."
 "herocard.passive_skill.description.resist.alldefensemodifiers.alldebuffs","Der Charakter ist immun gegen negative Statusänderungen, die die Verteidigung beeinträchtigen. Gilt auch für Statuseffekte, die die Elementarverteidigung beeinträchtigen."
 "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.alldebuffs","Der Charakter ist immun gegen negative Statusänderungen, Stapel und Verwelken-Effekte, die die Verteidigung beeinträchtigen."
@@ -220,6 +237,12 @@ Dazu gehören negative Statusänderungen und -stärkungen, positive und negative
 "herocard.passive_skill.description.resist.attackmodifiers","Der Charakter ist immun gegen negative Statusänderungen, die den Angriff beeinträchtigen."
 "herocard.passive_skill.description.resist.attackmodifiers.allstatuseffectsandstacks","Der Charakter ist immun gegen alle Statuseffekte und Stapel, die den Angriff beeinträchtigen. Das betrifft auch Statuseffekt-Boni."
 "herocard.passive_skill.description.resist.attackmodifiers.attackwither.alldebuffs","Der Charakter ist immun gegen negative Statusänderungen, Stapel und Verwelken-Effekte, die den Angriff beeinträchtigen."
+"herocard.passive_skill.description.resist.attackmodifiers.attackwither.attackgrowth.allstatuseffectsandstacks","Dieser Charakter wird nicht von Effekten beeinflusst, die den Angriff erhöhen oder verringern.
+
+Dazu gehören 
+ negative Statusänderungen und -stärkungen,
+ positive und negative Steigerungen sowie 
+ Verwelkungs- und Wachstumseffekte."
 "herocard.passive_skill.description.resist.bleed","Der Charakter ist immun gegen negative Statusänderungen, die Blutungsschaden verursachen."
 "herocard.passive_skill.description.resist.bleed.with_effect.healthboost.addmana","Dieser Charakter ist immun gegen negative Statusänderungen, die Blutungsschaden verursachen, und erhält {HEALTHBOOST} verstärktes Leben und {MANA} % Mana, wenn er diese Immunität nutzt."
 "herocard.passive_skill.description.resist.buffdispels","Der Charakter ist immun gegen Effekte, die seine Statuseffekt-Boni entfernen würden."
@@ -352,6 +375,19 @@ Spross-Feind:
 
 Blüten-Mega-Feind: 
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Beschwört jede Runde einen Setzling-Feind für einen zufälligen Gegner.
+Der Setzling-Feind entwickelt sich zu einem Spross-Feind nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden.
+Der Spross-Feind entwickelt sich zu einem Blüten-Mega-Feind nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden.
+Jedes Mal, wenn der Feind Heilung absorbiert, wird seine Entwicklung um {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} verzögert.
+
+Setzling-Feind: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % Leben.
+
+Spross-Feind: 
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % Leben.
+
+Blüten-Mega-Feind: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Beschwört jede Runde einen Setzling-Feind für einen zufälligen Gegner. Diese passive Fähigkeit wird für jedes Team nur einmal pro Runde aktiviert.
 Der Setzling-Feind entwickelt sich zu einem Spross-Feind nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden.
 Der Spross-Feind entwickelt sich zu einem Blüten-Mega-Feind nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden.
@@ -365,32 +401,32 @@ Spross-Feind:
 
 Blüten-Mega-Feind: 
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Beschwört jede Runde einen [#!]Setzling-Feind[#] für einen zufälligen Gegner. Diese passive Fähigkeit wird für jedes Team nur einmal pro Runde aktiviert.
-[*]Der [#!]Setzling-Feind[#] entwickelt sich zu einem [#!]Spross-Feind[#] nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden.
-[*]Der [#!]Spross-Feind[#] entwickelt sich zu einem [#!]Blüten-Mega-Feind[#] nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden.
-[*]Jedes Mal, wenn der Feind Heilung absorbiert, wird seine Entwicklung um {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} verzögert.
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Beschwört jede Runde einen Setzling-Feind für einen zufälligen Gegner. Diese passive Fähigkeit wird für jedes Team nur einmal pro Runde aktiviert.
+Der Setzling-Feind entwickelt sich zu einem Spross-Feind nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden.
+Der Spross-Feind entwickelt sich zu einem Blüten-Mega-Feind nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden.
+Jedes Mal, wenn der Feind Heilung absorbiert, wird seine Entwicklung um {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} verzögert.
 
-[#!]Setzling-Feind[#]: 
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] % Leben.
+Setzling-Feind: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % Leben.
 
-[#!]Spross-Feind[#]: 
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] % Leben.
+Spross-Feind: 
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % Leben.
 
-[#!]Blüten-Mega-Feind[#]: 
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % Leben."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Beschwört jede Runde einen [#!]Setzling-Feind[#] für einen zufälligen Gegner. Diese passive Fähigkeit wird für jedes Team nur einmal pro Runde aktiviert.
-[*]Der [#!]Setzling-Feind[#] entwickelt sich zu einem [#!]Spross-Feind[#] nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden.
-[*]Der [#!]Spross-Feind[#] entwickelt sich zu einem [#!]Blüten-Mega-Feind[#] nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden.
-[*]Jedes Mal, wenn der Feind Heilung absorbiert, wird seine Entwicklung um {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} verzögert.
+Blüten-Mega-Feind: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Beschwört jede Runde einen Setzling-Feind für einen zufälligen Gegner. Diese passive Fähigkeit wird für jedes Team nur einmal pro Runde aktiviert.
+Der Setzling-Feind entwickelt sich zu einem Spross-Feind nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden.
+Der Spross-Feind entwickelt sich zu einem Blüten-Mega-Feind nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden.
+Jedes Mal, wenn der Feind Heilung absorbiert, wird seine Entwicklung um {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} verzögert.
 
-[#!]Setzling-Feind[#]: 
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] % Leben.
+Setzling-Feind: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % Leben.
 
-[#!]Spross-Feind[#]: 
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] % Leben.
+Spross-Feind: 
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % Leben.
 
-[#!]Blüten-Mega-Feind[#]: 
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % Leben."
+Blüten-Mega-Feind: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Wenn dieser Charakter besiegt wird, beschwört er einen Schleim-Megalakaien zu Verbündeten in der Nähe mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff, die von diesem Charakter geerbt wurden."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Wenn dieser Charakter besiegt wird, beschwört er einen Schleim-Megalakaien zu Verbündeten in der Nähe mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff, die von diesem Charakter geerbt wurden."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Wenn dieser Charakter besiegt wird, beschwört er einen Schleim-Megalakaien zu Verbündeten in der Nähe mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff, die von diesem Charakter geerbt wurden."
@@ -425,6 +461,7 @@ Blüten-Mega-Feind:
 "herocard.passive_skill.inactive","INAKTIV: Erreiche die maximale Stufe und den vollen Aufstieg, um zu aktivieren."
 "herocard.passive_skill.replace.minordebuff.attackmodifier.to.minorbuff.attackmodifier","Angriffsverschlechterungen zu {ATTACK} % Angriff für {TURNS} Züge."
 "herocard.passive_skill.replace.minordebuff.buffimmunity.to.minorbuff.debuffshield","Bonusimmunitätsverschlechterungen zu Bonusimmunität für {TURNS} Züge."
+"herocard.passive_skill.replace.minordebuff.damageovertime.to.minorbuff.fixedhealthrecovery","Negative Statusänderungen, die Schaden über Zeit verursachen, zu über {TURNS} Züge {TOTAL} Leben wiederherstellen"
 "herocard.passive_skill.replace.minordebuff.defensemodifier.to.minorbuff.defensemodifier","Verteidigungsverschlechterungen zu {DEFENSE} % Verteidigung für {TURNS} Züge."
 "herocard.passive_skill.replace.minordebuff.healingmodifier.to.minorbuff.healmultiplier","Heilungsverringerung zu {HEALING} % erhöhter Heilung für {TURNS} Züge."
 "herocard.passive_skill.replace.minordebuff.manaeffect.to.minorbuff.managenerationmodifier","Manaverschlechterungen zu {MANAREGEN} % Manaregeneration für {TURNS} Züge."
@@ -491,6 +528,7 @@ Blüten-Mega-Feind:
 "herocard.passive_skill.title.effectonhealsupportcharacter.troop.heal","Zusätzliche Heilung"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.attackmodifier","Statuseffekt für Manaverringerung"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.yellowdefensemodifier","Statuseffekt für Manaverringerung"
+"herocard.passive_skill.title.effectonownerdeath.damage.statuseffects.bleeding","Ehrlose Niederlage"
 "herocard.passive_skill.title.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Lebensbonus und Mana bei Widerstand"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Mana bei lebensverstärkender Spezialfähigkeit"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.on_healthboost_cast","Mehr Leben bei gegnerischer Lebensverstärkung"
@@ -498,6 +536,7 @@ Blüten-Mega-Feind:
 "herocard.passive_skill.title.effectonspecialskilldamagedone.bufftoremove.minordebuff.safe.only_criticals","Reinigung bei kritischem Spezialangriff"
 "herocard.passive_skill.title.effectonspecialskilldamagedone.healthboost.only_criticals","Lebensverstärkung bei kritischem Spezialangriff"
 "herocard.passive_skill.title.effectonspecialskilldamagereceived.healthboost.only_criticals","Lebensverstärkung bei kritischem Spezialangriff"
+"herocard.passive_skill.title.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.directeffect1_statuseffects.defensemodifier","Knabbern"
 "herocard.passive_skill.title.effectonspecialwithchance.activates_on_enemy_action.healthboost","Leben bei gegnerischer Spezialfähigkeit verstärken"
 "herocard.passive_skill.title.effectonspecialwithchance.addmana","Mana bei voller Aufladung"
 "herocard.passive_skill.title.effectonspecialwithchance.bufftoremove.minorbuff.latest","Entfernen bei Spezialfähigkeit"
@@ -514,6 +553,8 @@ Blüten-Mega-Feind:
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.managenerationmodifier","Statuseffekt bei voller Aufladung"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.poison","Vergiftung bei Spezialfähigkeit"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.possession","Blindwütiger Angriff bei Spezialfähigkeit"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackingdefensemodifier","Stapel bei Spezialfähigkeit"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackinghealthgeneration","Stapel bei Spezialfähigkeit"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.underwater","Schaden über Zeit bei voller Aufladung"
 "herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.damage.faster.average.once","Schaden bei gegnerischer Spezialfähigkeit"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.allbuffs.taunt","Mana bei Verspotten"
@@ -537,6 +578,7 @@ Blüten-Mega-Feind:
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","Mana bei Feindbeschwörung"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.damage.enemies.parasite","Zorn der Haustiere"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.healthboost.enemies.parasite","Mehr Leben bei Feindbeschwörung"
+"herocard.passive_skill.title.empowered_toon_resist_manareduction_dispels","Ermächtigter Toon"
 "herocard.passive_skill.title.familiaraccuracymodifier.all.enemies.minion.bigminion","Lakaien blenden"
 "herocard.passive_skill.title.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core","Lakaikern"
 "herocard.passive_skill.title.familiarhealthmodifier.all.enemies.bigminion.decrease","Schwächere Mega-Lakaien"
@@ -573,7 +615,9 @@ Blüten-Mega-Feind:
 "herocard.passive_skill.title.memorizestatuseffects","Negative Statusänderungen einprägen"
 "herocard.passive_skill.title.mimic_dread_damage_minions","Furcht"
 "herocard.passive_skill.title.mimiclootonlevelcompleted","Mimenbeute"
+"herocard.passive_skill.title.minioncorruption.all.enemies","Lakaienverderbnis"
 "herocard.passive_skill.title.nevermissspecial","Perfekte Genauigkeit"
+"herocard.passive_skill.title.preventboostedhealth.all.enemies","Verhindert verstärkte Heilung"
 "herocard.passive_skill.title.ransack","Diebische Gelegenheit"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Bonus stehlen"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","Sinn des Jägers"
@@ -634,6 +678,8 @@ terungen widerstehen"
 "herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","Verstärktes Spezialfähigkeits-Blockierung widerstehen"
 "herocard.passive_skill.title.resist.stopmanageneration","Manaregeneration-Stoppung widerstehen"
 "herocard.passive_skill.title.resist.water","Wasser widerstehen"
+"herocard.passive_skill.title.resist_all_attack_effects","Attribut:
+Winziger Rahmen"
 "herocard.passive_skill.title.resist_all_defense_effects","Attribut: 
 Lithe-Rahmen"
 "herocard.passive_skill.title.resistdebuffsfromfamiliars.minion","Negativen Statusänderungen von Lakaien widerstehen"
@@ -693,6 +739,9 @@ statuseffekten"
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","Manaregenerationsbonus bei negativen Statusänderungen"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","Elementarmaske"
 "herocard.passive_skill.title.stylish","Fesch!"
+"herocard.passive_skill.title.stylish_epic","Fesch!"
+"herocard.passive_skill.title.stylish_legendary","Fesch!"
+"herocard.passive_skill.title.stylish_rare","Fesch!"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","Setzling-Beschwörer"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Setzling-Beschwörer"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Setzling-Beschwörer"
@@ -729,16 +778,3 @@ statuseffekten"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Boni verwandeln"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Negative Statusänderungen verwandeln"
 "herocard.passive_skill.title.wither.all.enemies","Verwelken"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Beschwört jede Runde einen [#!]Setzling-Feind[#] für einen zufälligen Gegner.
-[*]Der [#!]Setzling-Feind[#] entwickelt sich zu einem [#!]Spross-Feind[#] nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden.
-[*]Der [#!]Spross-Feind[#] entwickelt sich zu einem [#!]Blüten-Mega-Feind[#] nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden.
-[*]Jedes Mal, wenn der Feind Heilung absorbiert, wird seine Entwicklung um {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} verzögert.
-
-[#!]Setzling-Feind[#]: 
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] % Leben.
-
-[#!]Spross-Feind[#]: 
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] % Leben.
-
-[#!]Blüten-Mega-Feind[#]: 
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % Leben."

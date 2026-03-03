@@ -8,12 +8,12 @@
 "herocard.passive_skill.description.caststatuseffectdurationmodifier.turns_with_chance","{0} turnos: {1}%"
 "herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier","Quando tem qualquer quantidade de Impulso de Voo, este personagem recebe:
  Até {MAXMANAGENERATIONMODIFIER}% de geração de mana
- Até {MAXDODGEMODIFIER}% de chance adicional de esquiva
+ Até {MAXDODGEMODIFIER}% mais chance de esquiva
  Os efeitos diminuem conforme o Impulso de Voo do personagem diminui."
 "herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier.battle","Impulso de Voo {CHARGE}%
 No momento, este personagem tem:
  {MANAGENERATIONMODIFIER}% de geração de mana
- {DODGEMODIFIER}% de chance adicionald e esquiva"
+ {DODGEMODIFIER}% mais chance de esquiva"
 "herocard.passive_skill.description.conditionaleffectovertime.addmana.everyturn.while.all.allies.haswither","Ganhe {POWER}% de mana no início de cada turno quando um aliado no campo de batalha tem um efeito de Atrofia ativo."
 "herocard.passive_skill.description.conditionaleffectovertime.revival.all.allies.while.single.allies.hasdeadallies","Revive todos os aliados derrotados com {POWER}% de PV a cada {TURNS}."
 "herocard.passive_skill.description.conditionaleffectovertime.revival.neartotargetexceptcaster.allies.while.single.allies.hasdeadallies","Revive os aliados derrotados próximos com {POWER}% de PV a cada {TURNS}."
@@ -64,6 +64,9 @@ Limite de {MAXMANAGAINPERTURN}% de mana por turno."
 "herocard.passive_skill.description.effectonheal.addmana","Este personagem recebe {POWER}% de mana sempre que recupera vida."
 "herocard.passive_skill.description.effectonheal.heal","Este personagem recebe {POWER}% de vida sempre que recupera vida."
 "herocard.passive_skill.description.effectonhealsupportcharacter.troop.heal","Este personagem recebe {POWER}% de vida sempre que recupera vida."
+"herocard.passive_skill.description.effectonownerdeath.damage.single.enemies.specialskill.targetattackerside","Quando este personagem é derrotado por uma habilidade especial, realiza as seguintes ações:
+ O atacante recebe {DAMAGE}% de dano.
+ O atacante recebe {STATUSEFFECT1DAMAGE} de dano de sangramento por {TURNS} turnos."
 "herocard.passive_skill.description.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Este personagem recebe {HEALTHBOOST}% de vida reforçada e {MANA}% de mana ao resistir."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Este personagem ganha {POWER}% de mana cada vez que um inimigo lança uma habilidade especial que reforça diretamente a vida."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.fixedpower.on_healthboost_cast","Este personagem recebe {POWER} de vida reforçada cada vez que um inimigo lança uma habilidade especial que reforça diretamente a vida."
@@ -71,6 +74,7 @@ Limite de {MAXMANAGAINPERTURN}% de mana por turno."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.bufftoremove.minordebuff.from.all.allies.safe.only_criticals","Ao causar um acerto crítico com a habilidade especial, este personagem expurga com segurança o mal de status expurgável mais recente de todos os aliados."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals","Ao causar um acerto crítico com a habilidade especial, este personagem reforça em {HEALTHBOOST}% a vida de todos os aliados."
 "herocard.passive_skill.description.effectonspecialskilldamagereceived.healthboost.all.allies.only_criticals","Ao causar um acerto crítico com a habilidade especial, este personagem reforça em {HEALTHBOOST}% a vida de todos os aliados."
+"herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","Quando um aliado lança a habilidade especial, este personagem causa {POWER}% de dano e dá {DIRECTEFFECT1STATUSEFFECT1DEFENSE}% de defesa por {DIRECTEFFECT1STATUSEFFECT1TURNS} turnos a um inimigo aleatório."
 "herocard.passive_skill.description.effectonspecialwithchance.activates_on_enemy_action.healthboost.fixedpower","Quando um inimigo lança a própria habilidade especial, este personagem tem {CHANCE}% de chance de reforçar a própria vida em {HEALTHBOOST}."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.all.allies","Quando este personagem lança a habilidade especial, tem {CHANCE}% de chance de dar {POWER}% de mana a todos os aliados. Quando a habilidade especial está totalmente carregada, a chance é de {CHANCEFULLYCHARGED}%."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.notblue.allies","Quando este personagem lança a habilidade especial, tem {CHANCE}% de chance de dar {POWER}% de mana a todos os aliados que não são do elemento Gelo. Quando a habilidade especial está totalmente carregada, a chance é de {CHANCEFULLYCHARGED}%."
@@ -113,6 +117,14 @@ O núcleo de ajudante é ativado sempre que a habilidade especial deste personag
  Com um núcleo de ajudante totalmente carregado, convoca um ajudante Bot Assassino com {FAMILIARHEALTHPERCENT}% de HP e {FAMILIARATTACK}% de ataque do invocador para todos os aliados.
  O total de PV e ataque herdados do invocador são calculados de acordo com a quantidade de carga do núcleo. Toda a carga é consumida quando o núcleo é ativado.
  Antes de atingir um alvo, o Bot Assassino destrói todos os ajudantes do alvo e causa dano aos mega-ajudantes."
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always.temp.with.wither","O núcleo de construto deste personagem é um núcleo de ajudante.
+
+O núcleo de ajudante é ativado sempre que a habilidade especial deste personagem é lançada:
+
+ Com um núcleo de ajudante totalmente carregado, convoca um ajudante Bot Assassino com {FAMILIARHEALTHPERCENT}% de HP e {FAMILIARATTACK}% de ataque do invocador para todos os aliados.
+ O total de PV e ataque herdados do invocador são calculados de acordo com a quantidade de carga do núcleo. Toda a carga é consumida quando o núcleo é ativado.
+ Antes de atingir um alvo, o Bot Assassino destrói todos os ajudantes do alvo e causa dano aos mega-ajudantes.
+ Definhar: cada acerto de um ajudante Bot Assassino dá {ATTACKMODIFIER} de ataque ao alvo."
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.bigminion.decrease","Os mega-ajudantes inimigos têm {HEALTHMODIFIER}% de PV."
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.minion.decrease","Os ajudantes inimigos têm {HEALTHMODIFIER}% de PV."
 "herocard.passive_skill.description.familiarsilencer.all.enemies.bigminion","Os mega-ajudantes inimigos não podem atacar nem usar habilidades."
@@ -157,7 +169,11 @@ O núcleo de ajudante é ativado sempre que a habilidade especial deste personag
 "herocard.passive_skill.description.memorizestatuseffects#2","Este personagem tem a capacidade inata de memorizar males de status. Os últimos {0} males de status lançados no personagem são memorizados até que a habilidade especial seja lançada. Apenas males de status com duração limitada podem ser memorizados."
 "herocard.passive_skill.description.memorizestatuseffects#3","Este personagem tem a capacidade inata de memorizar males de status. Os últimos {0} males de status lançados no personagem são memorizados até que a habilidade especial seja lançada. Apenas males de status com duração limitada podem ser memorizados."
 "herocard.passive_skill.description.mimiclootonlevelcompleted","Cada mimese diferente da equipe permite receber mais espólios ao completar fases. Esta mimese dá a chance de receber os seguintes espólios adicionais:"
+"herocard.passive_skill.description.minioncorruption.all.enemies","Ao fim de cada turno, os ajudantes dos inimigos com Insanidade podem se transformar em demônios. Ao atingir {AUTOMATICTRANSFORMINSANITYTHRESHOLD} Insanidade, a transformação é ativada automaticamente.
+ O ajudante se transforma em demônio Místico: {FAMILIAR1FAMILIARATTACK}% de ataque, {FAMILIAR1FAMILIARHEALTHPERCENT}% de vida, aplica {FAMILIAR1INSANITYTOADD} Insanidade a cada turno.
+ O mega-ajudante se transforma em megademônio Místico: {FAMILIAR2FAMILIARATTACK}% de ataque, {FAMILIAR2FAMILIARHEALTHPERCENT}% de vida, aplica {FAMILIAR2INSANITYTOADD} Insanity a cada turno."
 "herocard.passive_skill.description.nevermissspecial","A habilidade especial deste personagem nunca erra os alvos."
+"herocard.passive_skill.description.preventboostedhealth.all.enemies","A vida dos inimigos não pode ultrapassar o limite de vida."
 "herocard.passive_skill.description.ransack","No início de cada turno, este personagem saqueia um inimigo aleatório:
 
  Rouba{DAMAGE} de vida.
@@ -193,11 +209,12 @@ O Núcleo de Reparo é ativado a cada vez que a habilidade especial deste person
 "herocard.passive_skill.description.repeatspecial","{REPEATCHANCE}% de chance de lançar a habilidade especial deste Herói {REPEATS} vezes."
 "herocard.passive_skill.description.resist.accuracymodifiers","Este personagem é imune a males de status que afetam a precisão. Não se aplica a efeitos de status originais dos aliados."
 "herocard.passive_skill.description.resist.alldebuffs.alldebuffs","Este personagem é imune a males de status e acumulações negativas."
-"herocard.passive_skill.description.resist.alldebuffs.buffdispels.with_chance","{CHANCE}% de chance de resistir a todos os males de status e dissipações de reforços."
-"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.attackwither.defensewither.alldebuffs.with_chance","{CHANCE}% de chance de resistir a todos os males de status, reduções de mana, dissipações de reforços e efeitos Atrofia."
-"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.insanity.with_chance","{CHANCE}% de chance de resistir a todos os males de status, reduções de mana, dissipações de reforços e Insanidade."
-"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance","{CHANCE}% de chance de resistir a todos os males de status, reduções de mana e dissipações de reforços."
-"herocard.passive_skill.description.resist.alldebuffs.with_chance","{CHANCE}% de chance de resistir a todos os males de status."
+"herocard.passive_skill.description.resist.alldebuffs.buffdispels.with_chance","{CHANCE}% mais chance de resistir a todos os males de status e dissipações de reforços."
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.attackwither.defensewither.alldebuffs.with_chance","{CHANCE}% mais chance de resistir a todos os males de status, reduções de mana, dissipações de reforços e efeitos Atrofia."
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.insanity.with_chance","{CHANCE}% mais chance de resistir a todos os males de status, reduções de mana, dissipações de reforços e Insanidade."
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance","{CHANCE}% mais chance de resistir a todos os males de status, reduções de mana e dissipações de reforços."
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance.with_effect.addmana","{CHANCE}% mais chance de resistir a todos os males de status, reduções de mana e dissipações de reforços. Ganhe {MANA}% cada vez que resistir."
+"herocard.passive_skill.description.resist.alldebuffs.with_chance","{CHANCE}% mais chance de resistir a todos os males de status."
 "herocard.passive_skill.description.resist.alldefensemodifiers.alldebuffs","Este personagem é imune a males de status que afetam a defesa. Também se aplica a males de status que afetam a defesa elemental."
 "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.alldebuffs","Este personagem é imune a males de status, acumulações e efeitos Atrofia que afetam a defesa."
 "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.allstatuseffects","Este personagem não é afetado por efeitos que aumentam ou reduzem a defesa.
@@ -217,18 +234,24 @@ Isso inclui males e reforços de efeitos de status, acumulações positivas e ne
 "herocard.passive_skill.description.resist.allstatuseffectdamage.none","Este personagem é imune ao dano de efeitos de status e acumulações."
 "herocard.passive_skill.description.resist.attackdelay","O ataque normal deste personagem não pode ser atrasado."
 "herocard.passive_skill.description.resist.attackdelay.alldebuffs","O ataque normal deste personagem não pode ser atrasado."
-"herocard.passive_skill.description.resist.attackmodifiers","Este personagem é imune a males de status afetam o ataque."
+"herocard.passive_skill.description.resist.attackmodifiers","Este personagem é imune a males de status que afetam o ataque."
 "herocard.passive_skill.description.resist.attackmodifiers.allstatuseffectsandstacks","Este personagem é imune a todos os efeitos de status e acumulações que afetam o ataque, inclusive reforços de efeitos de status."
 "herocard.passive_skill.description.resist.attackmodifiers.attackwither.alldebuffs","Este personagem é imune a males de status, acumulações e efeitos Atrofia que afetam o ataque."
+"herocard.passive_skill.description.resist.attackmodifiers.attackwither.attackgrowth.allstatuseffectsandstacks","Este personagem não é afetado por efeitos que aumentam ou reduzem o ataque.
+
+Isso inclui:
+ Males e reforços de efeitos de status
+ Acumulações positivas e negativas
+ Efeitos Atrofia e Crescimento"
 "herocard.passive_skill.description.resist.bleed","Este personagem é imune a males de status causam dano de sangramento."
 "herocard.passive_skill.description.resist.bleed.with_effect.healthboost.addmana","Este personagem é imune a males de status que causam dano de sangramento e ganha {HEALTHBOOST} de vida reforçada e {MANA}% de mana sempre que resiste."
 "herocard.passive_skill.description.resist.buffdispels","Este personagem é imune a efeitos que dissipariaml os reforços de efeito de status dele."
-"herocard.passive_skill.description.resist.buffdispels.none.with_chance","{CHANCE}% de chance de resistir a dissipações de reforços."
+"herocard.passive_skill.description.resist.buffdispels.none.with_chance","{CHANCE}% mais chance de resistir a dissipações de reforços."
 "herocard.passive_skill.description.resist.buffimmunity","Este personagem é imune a efeitos que o impediriam de receber novos reforços de efeito de status."
 "herocard.passive_skill.description.resist.burn","Este personagem é imune a males de status causam dano de queimadura."
 "herocard.passive_skill.description.resist.burn.with_effect.healthboost.addmana","Este personagem é imune a males de status que causam dano de queimadura e ganha {HEALTHBOOST} de vida reforçada e {MANA}% de mana sempre que resiste."
 "herocard.passive_skill.description.resist.can_stack.alldebuffs","Este personagem é imune a males de status."
-"herocard.passive_skill.description.resist.can_stack.alldebuffs.with_chance","{CHANCE}% de chance de resistir a todos os males de status."
+"herocard.passive_skill.description.resist.can_stack.alldebuffs.with_chance","{CHANCE}% mais chance de resistir a todos os males de status."
 "herocard.passive_skill.description.resist.criticalhits.none","Este personagem é imune a dano adicional e aos efeitos adicionais de acertos críticos."
 "herocard.passive_skill.description.resist.defensemodifierdebuffs","Este personagem é imune a males de status que afetam a defesa. Não se aplica a males de status que afetam a defesa elemental."
 "herocard.passive_skill.description.resist.defensemodifiers.alldebuffs","Este personagem é imune a males de status e acumulações negativas que afetam a defesa. Não se aplica a males de status que afetam a defesa elemental."
@@ -237,15 +260,15 @@ Isso inclui males e reforços de efeitos de status, acumulações positivas e ne
  Os ataques e as habilidades de ajudantes não podem ser desativadas."
 "herocard.passive_skill.description.resist.frost","Este personagem é imune a males de status causam dano de neve."
 "herocard.passive_skill.description.resist.frost.with_effect.healthboost.addmana","Este personagem é imune a males de status que causam dano de neve e ganha {HEALTHBOOST} de vida reforçada e {MANA}% de mana sempre que resiste."
-"herocard.passive_skill.description.resist.healeffects","Este personagem é imune a males de status afetam a cura."
+"herocard.passive_skill.description.resist.healeffects","Este personagem é imune a males de status que afetam a cura."
 "herocard.passive_skill.description.resist.healthsteal","Este personagem é imune a males de status roubam vida."
 "herocard.passive_skill.description.resist.insanity.permanentstatuseffects","Este personagem é imune a Insanidade."
-"herocard.passive_skill.description.resist.manadebuffs","Este personagem é imune a males de status afetam o mana."
+"herocard.passive_skill.description.resist.manadebuffs","Este personagem é imune a males de status que afetam o mana."
 "herocard.passive_skill.description.resist.manaeffectsandspecialblocking","Este personagem é imune a males de status que afetam a geração de mana ou impedem o uso de habilidades especiais."
 "herocard.passive_skill.description.resist.manaeffectsandspecialblocking.with_chance","Este personagem tem {CHANCE}% de chance de resistir a males de status que afetam o mana ou impedem o uso de habilidades especiais."
 "herocard.passive_skill.description.resist.managenerationmodifiers.alldebuffs","Este personagem é imune a males de status e acumulações negativas que afetam a geração de mana. Não se aplica a males de status que interrompem a geração ou roubam mana."
 "herocard.passive_skill.description.resist.manareduction","Este personagem é imune a reduções de mana."
-"herocard.passive_skill.description.resist.manareduction.alldebuffs.with_chance","{CHANCE}% de chance adicional de resistir a reduções de mana."
+"herocard.passive_skill.description.resist.manareduction.alldebuffs.with_chance","{CHANCE}% mais chance de resistir a reduções de mana."
 "herocard.passive_skill.description.resist.manareduction.none.with_effect.healthboost.addmana","Este personagem é imune a reduções de mana e ganha {HEALTHBOOST} de vida reforçada e {MANA}% de mana sempre que resiste."
 "herocard.passive_skill.description.resist.maxhealthreduction","Este personagem é imune à redução do limite de vida."
 "herocard.passive_skill.description.resist.poison","Este personagem é imune a males de status causam dano de veneno."
@@ -263,7 +286,7 @@ Isso inclui males e reforços de efeitos de status, acumulações positivas e ne
 "herocard.passive_skill.description.resistnegativefamiliareffects.minion.bigminion","Este personagem é imune a efeitos negativos e dano de ajudantes e mega-ajudantes."
 "herocard.passive_skill.description.resistnewfamiliars.parasite","Este personagem não pode receber demônios."
 "herocard.passive_skill.description.resistnewfamiliars.parasite.bigparasite","Este personagem não pode receber demônios nem megademônios."
-"herocard.passive_skill.description.resistsupportcharacter.troop.alldebuffs.with_chance","{CHANCE}% de chance de resistir a todos os males de status."
+"herocard.passive_skill.description.resistsupportcharacter.troop.alldebuffs.with_chance","{CHANCE}% mais chance de resistir a todos os males de status."
 "herocard.passive_skill.description.revivalchancemodifier.all.enemies","A chance de reviver diminui para todos os inimigos na batalha, tornando-se equivalente a {MODIFIER}% do valor original."
 "herocard.passive_skill.description.revivalhealthmodifier.all.enemies.excluding.boss","Todos os inimigos têm {HEALTHMODIFIER}% de vida quando revividos. Os chefes inimigos não são afetados."
 "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance","Quando é derrotado, este personagem pode renascer como Hospedeiro Místico. A chance é de {CHANCEINCREASEPERSTEP}% por {INSANITYPERSTEP} Insanidade do personagem, até o limite de {MAXCHANCEINCREASE}% de chance. 
@@ -352,6 +375,20 @@ Demônio Broto:
 
 Megademônio Broto:
 {EVOLVINGFAMILIAR3FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% de vida"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Convoca um demônio Seedling a cada turno para um inimigo aleatório.
+ O demônio Muda se transforma em demônio Broto após  {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
+ O demônio Broto se transforma em megademônio Florescência após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos. A evolução dos demônios é atrasada em {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que eles absorvem cura.
+
+
+
+Demônio Muda:
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% de vida
+
+Demônio Broto:
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% de vida
+
+Megademônio Broto:
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% de vida"
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Convoca um demônio Seedling a cada turno para um inimigo aleatório. Essa habilidade passiva é ativada uma vez por turno para cada equipe.
  O demônio Muda se transforma em demônio Broto após  {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
  O demônio Broto se transforma em megademônio Florescência após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos. A evolução dos demônios é atrasada em {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que eles absorvem cura.
@@ -366,34 +403,34 @@ Demônio Broto:
 
 Megademônio Broto:
 {EVOLVINGFAMILIAR3FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% de vida"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Convoca um [#!]demônio Seedling[#] a cada turno para um inimigo aleatório. Essa habilidade passiva é ativada uma vez por turno para cada equipe.
-[*] O [#!]demônio Muda[#] se transforma em [#!]demônio Broto[#] após  {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
-[*] O [#!]demônio Broto[#] se transforma em [#!]megademônio Florescência[#] após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.[*] A evolução dos demônios é atrasada em {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que eles absorvem cura.
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Convoca um demônio Seedling a cada turno para um inimigo aleatório. Essa habilidade passiva é ativada uma vez por turno para cada equipe.
+ O demônio Muda se transforma em demônio Broto após  {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
+ O demônio Broto se transforma em megademônio Florescência após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos. A evolução dos demônios é atrasada em {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que eles absorvem cura.
 
 
 
-[#!]Demônio Muda[#]:
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] de vida
+Demônio Muda:
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% de vida
 
-[#!]Demônio Broto[#]:
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] de vida
+Demônio Broto:
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% de vida
 
-[#!]Megademônio Broto[#]:
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] de vida"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Convoca um [#!]demônio Seedling[#] a cada turno para um inimigo aleatório. Essa habilidade passiva é ativada uma vez por turno para cada equipe.
-[*] O [#!]demônio Muda[#] se transforma em [#!]demônio Broto[#] após  {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
-[*] O [#!]demônio Broto[#] se transforma em [#!]megademônio Florescência[#] após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.[*] A evolução dos demônios é atrasada em {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que eles absorvem cura.
+Megademônio Broto:
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% de vida"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Convoca um demônio Seedling a cada turno para um inimigo aleatório. Essa habilidade passiva é ativada uma vez por turno para cada equipe.
+ O demônio Muda se transforma em demônio Broto após  {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
+ O demônio Broto se transforma em megademônio Florescência após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos. A evolução dos demônios é atrasada em {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que eles absorvem cura.
 
 
 
-[#!]Demônio Muda[#]:
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] de vida
+Demônio Muda:
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% de vida
 
-[#!]Demônio Broto[#]:
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] de vida
+Demônio Broto:
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% de vida
 
-[#!]Megademônio Broto[#]:
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] de vida"
+Megademônio Broto:
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% de ataque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% de vida"
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Quando é derrotado, este personagem convoca mega-ajudantes Gosma para os aliados próximos com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque deste personagem."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Quando é derrotado, este personagem convoca mega-ajudantes Gosma para os aliados próximos com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque deste personagem."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Quando é derrotado, este personagem convoca mega-ajudantes Gosma para os aliados próximos com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque deste personagem."
@@ -428,6 +465,7 @@ Megademônio Broto:
 "herocard.passive_skill.inactive","INATIVO: chegue ao nível máximo e à ascensão total para ativar."
 "herocard.passive_skill.replace.minordebuff.attackmodifier.to.minorbuff.attackmodifier","Males de status viram {ATTACK}% de ataque por {TURNS} turnos."
 "herocard.passive_skill.replace.minordebuff.buffimmunity.to.minorbuff.debuffshield","Males de imunidade a reforços viram imunidade a males por {TURNS} turnos."
+"herocard.passive_skill.replace.minordebuff.damageovertime.to.minorbuff.fixedhealthrecovery","Males de status com dano ao longo do tempo viram recuperação de {TOTAL} PV por {TURNS} turns."
 "herocard.passive_skill.replace.minordebuff.defensemodifier.to.minorbuff.defensemodifier","Males de defesa viram {DEFENSE}% de defesa por {TURNS} turnos."
 "herocard.passive_skill.replace.minordebuff.healingmodifier.to.minorbuff.healmultiplier","Reduções de cura viram {HEALING}% mais cura por {TURNS} turnos."
 "herocard.passive_skill.replace.minordebuff.manaeffect.to.minorbuff.managenerationmodifier","Os males de mana são convertidos em {MANAREGEN}% de geração de mana por {TURNS} turnos."
@@ -494,6 +532,7 @@ Megademônio Broto:
 "herocard.passive_skill.title.effectonhealsupportcharacter.troop.heal","CURA extra"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.attackmodifier","Efeito de status por redução de mana"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.yellowdefensemodifier","Efeito de status por redução de mana"
+"herocard.passive_skill.title.effectonownerdeath.damage.statuseffects.bleeding","Derrota desonrosa"
 "herocard.passive_skill.title.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Reforço de Vida e Mana ao Resistir"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Mana por Habilidade Especial de Reforço de Vida"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.on_healthboost_cast","Reforço de Vida por Vida Reforçada de Inimigo"
@@ -501,6 +540,7 @@ Megademônio Broto:
 "herocard.passive_skill.title.effectonspecialskilldamagedone.bufftoremove.minordebuff.safe.only_criticals","Expurgo com ataque especial crítico"
 "herocard.passive_skill.title.effectonspecialskilldamagedone.healthboost.only_criticals","Reforço de vida com ataque especial crítico"
 "herocard.passive_skill.title.effectonspecialskilldamagereceived.healthboost.only_criticals","Reforço de vida com ataque especial crítico"
+"herocard.passive_skill.title.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.directeffect1_statuseffects.defensemodifier","Mordiscada"
 "herocard.passive_skill.title.effectonspecialwithchance.activates_on_enemy_action.healthboost","Reforço de Vida por Especial de Inimigo"
 "herocard.passive_skill.title.effectonspecialwithchance.addmana","Mana por Especial"
 "herocard.passive_skill.title.effectonspecialwithchance.bufftoremove.minorbuff.latest","Dissipar por Habilidade Especial"
@@ -517,6 +557,8 @@ Megademônio Broto:
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.managenerationmodifier","Efeito de status por especial"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.poison","Veneno por habilidade especial"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.possession","Ataque Aleatório por Habilidade Especial"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackingdefensemodifier","Acumulação de especial"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackinghealthgeneration","Acumulação por especial"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.underwater","Dano ao Longo do Tempo por Especial"
 "herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.damage.faster.average.once","Dano por Habilidade Especial"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.allbuffs.taunt","Mana por Provocar"
@@ -540,6 +582,7 @@ Megademônio Broto:
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","Mana por Convocação de Demônio"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.damage.enemies.parasite","Fúria Animal"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.healthboost.enemies.parasite","Reforço de Vida por Convocação de Demônio"
+"herocard.passive_skill.title.empowered_toon_resist_manareduction_dispels","Fofura empoderada"
 "herocard.passive_skill.title.familiaraccuracymodifier.all.enemies.minion.bigminion","Ajudante cego"
 "herocard.passive_skill.title.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core","Núcleo de Ajudante"
 "herocard.passive_skill.title.familiarhealthmodifier.all.enemies.bigminion.decrease","Mega-ajudantes mais fracos"
@@ -563,7 +606,7 @@ Megademônio Broto:
 "herocard.passive_skill.title.increasespecialdamage.usable_once","Mais Dano de Habilidade Especial"
 "herocard.passive_skill.title.increasespecialdamagesupportcharacter.troop","Mais Dano de Habilidade Especial"
 "herocard.passive_skill.title.insanitydamagereduction","Marca dos Antigos"
-"herocard.passive_skill.title.iterateeffectonspecial","Chance extra de efeitos por habilidade especial"
+"herocard.passive_skill.title.iterateeffectonspecial","Mais chance de efeitos por habilidade especial"
 "herocard.passive_skill.title.league_accuracy_modifier_against_family","Desvantagem na Liga"
 "herocard.passive_skill.title.league_featured_family_resist","Vantagem na Liga"
 "herocard.passive_skill.title.league_heal_modifier_against_family","Desvantagem na Liga"
@@ -576,7 +619,9 @@ Megademônio Broto:
 "herocard.passive_skill.title.memorizestatuseffects","Memorizar males de status"
 "herocard.passive_skill.title.mimic_dread_damage_minions","Pavor"
 "herocard.passive_skill.title.mimiclootonlevelcompleted","Espólios de Mimese"
+"herocard.passive_skill.title.minioncorruption.all.enemies","Corrupção de ajudante"
 "herocard.passive_skill.title.nevermissspecial","Precisão Perfeita"
+"herocard.passive_skill.title.preventboostedhealth.all.enemies","Impedir cura reforçada"
 "herocard.passive_skill.title.ransack","Oportunidade de Ladrão"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Roubar Reforço"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","Sentido de Caçador"
@@ -629,8 +674,10 @@ Megademônio Broto:
 "herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","Resistência reforçada ao bloqueio de habilidades especiais"
 "herocard.passive_skill.title.resist.stopmanageneration","Resistência a interrupção da geração de mana"
 "herocard.passive_skill.title.resist.water","Resistência a água"
-"herocard.passive_skill.title.resist_all_defense_effects","Característica: 
-Esbelto"
+"herocard.passive_skill.title.resist_all_attack_effects","Característica:
+Minúsculo"
+"herocard.passive_skill.title.resist_all_defense_effects","Característica:
+Pequeno"
 "herocard.passive_skill.title.resistdebuffsfromfamiliars.minion","Resistência a males de status de ajudantes"
 "herocard.passive_skill.title.resistfamiliarremoval.minion.bigminion","Resistir à remoção de ajudantes"
 "herocard.passive_skill.title.resistnegativefamiliareffects.minion","Resistência a efeitos negativos de ajudantes"
@@ -686,6 +733,9 @@ Esbelto"
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","Reforço de geração de mana por males de status"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","Máscara Elemental"
 "herocard.passive_skill.title.stylish","Estiloso!"
+"herocard.passive_skill.title.stylish_epic","Estiloso!"
+"herocard.passive_skill.title.stylish_legendary","Estiloso!"
+"herocard.passive_skill.title.stylish_rare","Estiloso!"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","Convocador de Muda"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Convocador de Muda"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Convocador de Muda"
@@ -722,17 +772,3 @@ Esbelto"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Transformação de Reforços"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Transformação de Males"
 "herocard.passive_skill.title.wither.all.enemies","Atrofia"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Convoca um [#!]demônio Seedling[#] a cada turno para um inimigo aleatório.
-[*] O [#!]demônio Muda[#] se transforma em [#!]demônio Broto[#] após  {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
-[*] O [#!]demônio Broto[#] se transforma em [#!]megademônio Florescência[#] após {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.[*] A evolução dos demônios é atrasada em {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que eles absorvem cura.
-
-
-
-[#!]Demônio Muda[#]:
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] de vida
-
-[#!]Demônio Broto[#]:
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] de vida
-
-[#!]Megademônio Broto[#]:
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] de ataque, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] de vida"

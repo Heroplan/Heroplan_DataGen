@@ -63,6 +63,9 @@ Elk van deze effecten kan maar één keer per beurt geactiveerd worden."
 "herocard.passive_skill.description.effectonheal.addmana","Dit personage ontvangt {POWER}% mana telkens als de gezondheid ervan is hersteld."
 "herocard.passive_skill.description.effectonheal.heal","Dit personage ontvangt {POWER}% gezondheid telkens als de gezondheid ervan wordt hersteld."
 "herocard.passive_skill.description.effectonhealsupportcharacter.troop.heal","Dit personage ontvangt {POWER}% gezondheid telkens als de gezondheid ervan wordt hersteld."
+"herocard.passive_skill.description.effectonownerdeath.damage.single.enemies.specialskill.targetattackerside","Als dit personage wordt verslagen door een speciale vaardigheid, voert het de volgende acties uit:
+De aanvaller lijdt {DAMAGE}% schade.
+De aanvaller ontvangt gedurende {TURNS} beurten {STATUSEFFECT1DAMAGE} bloedschade."
 "herocard.passive_skill.description.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Dit personage krijgt {HEALTHBOOST}% meer gezondheid en {MANA}% mana bij succesvol verzet."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Dit personage krijgt elke keer als een vijand een speciale vaardigheid gebruikt die gezondheid verhoogt onmiddellijk {POWER}% mana."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.fixedpower.on_healthboost_cast","Dit personage krijgt elke keer als een vijand een speciale vaardigheid gebruikt die gezondheid verhoogt onmiddellijk {POWER} verhoogde gezondheid."
@@ -70,6 +73,7 @@ Elk van deze effecten kan maar één keer per beurt geactiveerd worden."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.bufftoremove.minordebuff.from.all.allies.safe.only_criticals","Als dit personage een speciale vaardigheid gebruikt en een  kritieke treffer maakt, worden de nieuwste zuiverbare statusaandoeningen van alle bondgenoten gezuiverd."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals","Als dit personage een speciale vaardigheid gebruikt en een kritieke treffer maakt, krijgt de gezondheid van alle bondgenoten van het personage een boost van {HEALTHBOOST}%."
 "herocard.passive_skill.description.effectonspecialskilldamagereceived.healthboost.all.allies.only_criticals","Als dit personage een speciale vaardigheid gebruikt en een  kritieke treffer maakt, krijgt de gezondheid van alle bondgenoten van het personage een boost van {HEALTHBOOST}%."
+"herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","Als een bondgenoot een speciale vaardigheid toepast, brengt dit personage {POWER}% schade toe en geeft het {DIRECTEFFECT1STATUSEFFECT1TURNS} beurten lang {DIRECTEFFECT1STATUSEFFECT1DEFENSE}% verdediging aan een willekeurige vijand."
 "herocard.passive_skill.description.effectonspecialwithchance.activates_on_enemy_action.healthboost.fixedpower","Als een vijand een speciale vaardigheid gebruikt, heeft dit personage {CHANCE}% kans op een gezondheidsboost van {HEALTHBOOST}."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.all.allies","Als dit personage een speciale vaardigheid gebruikt, heeft hij of zij {CHANCE}% kans om {POWER}% mana te geven aan alle bondgenoten. Bij een volledig opgeladen speciale vaardigheid is de kans {CHANCEFULLYCHARGED}%."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.notblue.allies","Als dit personage een speciale vaardigheid gebruikt, heeft hij of zij {CHANCE}% kans om {POWER}% mana te geven aan alle bondgenoten die geen ijshelden zijn. Bij een volledig opgeladen speciale vaardigheid, is de kans {CHANCEFULLYCHARGED}%."
@@ -112,6 +116,13 @@ De volgelingkern wordt geactiveerd als de speciale vaardigheid van dit personage
  Met een volledig opgeladen volgelingkern, wordt een killerbotvolgeling aangeroepen. Deze erft {FAMILIARHEALTHPERCENT}% HP en {FAMILIARATTACK}% aanvalskracht van de spreukspreker voor alle bondgenoten.
  De HP en aanvalskracht die van de spreukspreker worden geërfd, worden opgeschaald op basis van de hoeveelheid lading in de kern. De lading wordt volledig gebruikt wanneer de kern wordt geactiveerd.
  Voordat de killerbotvolgeling een doel raakt, vernietigt hij alle volgelingen van het doelwit en beschadigt hij megavolgelingen."
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always.temp.with.wither","De constructiekern van dit personage is een volgelingkern.
+
+De volgelingkern wordt geactiveerd als de speciale vaardigheid van dit personage gebruikt wordt:
+
+ Met een volledig opgeladen volgelingkern, wordt een killerbotvolgeling aangeroepen. Deze erft {FAMILIARHEALTHPERCENT}% HP en {FAMILIARATTACK}% aanvalskracht van de spreukspreker voor alle bondgenoten.
+ De HP en aanvalskracht die van de spreukspreker worden geërfd, worden opgeschaald op basis van de hoeveelheid lading in de kern. De lading wordt volledig gebruikt wanneer de kern wordt geactiveerd.
+ Voordat de killerbotvolgeling een doel raakt, vernietigt hij alle volgelingen van het doelwit en beschadigt hij megavolgelingen. Verwelken: iedere treffer van een Killerbotvolgeling levert het doelwit {ATTACKMODIFIER} aanvalskracht op."
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.bigminion.decrease","Vijandelijke megavolgelingen hebben {HEALTHMODIFIER}% gezondheid."
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.minion.decrease","Vijandelijke volgelingen hebben {HEALTHMODIFIER}% gezondheid."
 "herocard.passive_skill.description.familiarsilencer.all.enemies.bigminion","Vijandelijke megavolgelingen kunnen niet aanvallen en kunnen geen vaardigheden gebruiken."
@@ -156,7 +167,11 @@ De volgelingkern wordt geactiveerd als de speciale vaardigheid van dit personage
 "herocard.passive_skill.description.memorizestatuseffects#2","Dit personage heeft de aangeboren vaardigheid om statusaandoeningen te onthouden. De laatste {0} statusaandoeningen die op het personage zijn geworpen, worden onthouden tot de speciale vaardigheid wordt geactiveerd. Alleen statuseffecten kunnen worden onthouden."
 "herocard.passive_skill.description.memorizestatuseffects#3","Dit personage heeft de aangeboren vaardigheid om statusaandoeningen te onthouden. De laatste {0} statusaandoeningen die op het personage zijn geworpen, worden onthouden tot de speciale vaardigheid wordt geactiveerd. Alleen statuseffecten kunnen worden onthouden."
 "herocard.passive_skill.description.mimiclootonlevelcompleted","Elke unieke nabootser in je team kan extra buit opleveren wanneer je etappes voltooit. Deze nabootser biedt kans op de volgende extra buit:"
+"herocard.passive_skill.description.minioncorruption.all.enemies","Aan het eind van iedere beurt hebben vijanden met waanzin een kans om hun volgelingen om te zetten in demonen. De verandering wordt automatisch geactiveerd zodra {AUTOMATICTRANSFORMINSANITYTHRESHOLD} waanzin bereikt wordt.
+ Een volgeling verandert in een Eldritch-demon: {FAMILIAR1FAMILIARATTACK}% aanvalskracht, {FAMILIAR1FAMILIARHEALTHPERCENT}% gezondheid, brengt iedere beurt {FAMILIAR1INSANITYTOADD} waanzin toe.
+ Een megavolgeling verandert in een Eldritch-megademon: {FAMILIAR2FAMILIARATTACK}% aanvalskracht, {FAMILIAR2FAMILIARHEALTHPERCENT}% gezondheid, brengt elke beurt {FAMILIAR2INSANITYTOADD} waanzin toe."
 "herocard.passive_skill.description.nevermissspecial","De speciale vaardigheid van dit personage mist nooit zijn doelen."
+"herocard.passive_skill.description.preventboostedhealth.all.enemies","De gezondheid van vijanden kan niet boven hun maximale gezondheid uit stijgen."
 "herocard.passive_skill.description.ransack","Aan het begin van een beurt plundert dit personage een willekeurige vijand:
 
 Steelt {DAMAGE} gezondheid.
@@ -195,6 +210,7 @@ De reparatiekern wordt geactiveerd als de speciale vaardigheid van dit personage
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.attackwither.defensewither.alldebuffs.with_chance","{CHANCE}% extra kans om alle negatieve statusaandoeningen, manaverminderingen, verwijderde oppeppers en verwelkingseffecten te weerstaan."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.insanity.with_chance","{CHANCE}% extra kans om alle negatieve statuseffecten, manaverminderingen, waanzin en het verwijderen van oppeppers te weerstaan."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance","{CHANCE}% extra kans om alle negatieve statuseffecten, manaverminderingen en het verwijderen van oppeppers te weerstaan."
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance.with_effect.addmana","{CHANCE}% extra kans om alle statusaandoeningen, manareducties en het verwijderen van oppeppers te weerstaan. Krijg {MANA}% mana voor iedere keer dat weerstand wordt geboden."
 "herocard.passive_skill.description.resist.alldebuffs.with_chance","{CHANCE}% extra kans om alle statuseffecten te weerstaan."
 "herocard.passive_skill.description.resist.alldefensemodifiers.alldebuffs","Dit personage is immuun voor statusaandoeningen die invloed hebben op de verdediging. Is ook van invloed op statusaandoeningen die elementenverdediging beïnvloeden."
 "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.alldebuffs","Dit personage is immuun voor statuseffecten, cumulatieve en verwelkingseffecten die invloed hebben op de verdediging."
@@ -218,6 +234,12 @@ Dit geldt ook voor statuseffectoppeppers en -aandoeningen, positieve en negatiev
 "herocard.passive_skill.description.resist.attackmodifiers","Dit personage is immuun voor statusaandoeningen die invloed hebben op de aanvalskracht."
 "herocard.passive_skill.description.resist.attackmodifiers.allstatuseffectsandstacks","Dit personage is immuun voor alle statuseffecten en cumulatieve effecten die invloed hebben op de aanvalskracht. Dit geldt ook voor statuseffectoppeppers."
 "herocard.passive_skill.description.resist.attackmodifiers.attackwither.alldebuffs","Dit personage is immuun voor statuseffecten, cumulatieve en verwelkingseffecten die invloed hebben op de aanvalskracht."
+"herocard.passive_skill.description.resist.attackmodifiers.attackwither.attackgrowth.allstatuseffectsandstacks","Dit personage wordt niet beïnvloed door effecten die aanvalskracht vergroten of verkleinen.
+
+Dit geldt voor 
+ Statuseffectoppeppers en -aandoeningen
+ Positieve en negatieve stapelingen
+ Groei- en verwelkingseffecten."
 "herocard.passive_skill.description.resist.bleed","Dit personage is immuun voor statusaandoeningen die bloedschade aanrichten."
 "herocard.passive_skill.description.resist.bleed.with_effect.healthboost.addmana","Dit personage is immuun voor statusaandoeningen die bloedschade aanrichten en krijgt elke keer als het weerstand biedt {HEALTHBOOST} meer gezondheid en {MANA}% mana."
 "herocard.passive_skill.description.resist.buffdispels","Dit personage is immuun voor effecten die hun statuseffectoppeppers zouden verwijderen."
@@ -352,6 +374,19 @@ Scheutdemon:
 
 Bloesemmegademon: 
 {EVOLVINGFAMILIAR3FAMILIARATTACK}% aanval, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% gezondheid."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Roept elke beurt een zaailingdemon aan voor een willekeurige vijand.
+De zaailingdemon ontwikkelt zich tot een scheutdemon na {EVOLVINGFAMILIAR1EVOLVETURNS} beurten.
+De scheutdemon ontwikkelt zich tot een bloesemmegademon na {EVOLVINGFAMILIAR2EVOLVETURNS} beurten.
+Elke keer dat demonen gezondheid absorberen, wordt hun evolutie vertraagd met {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} beurt.
+
+Zaailingdemon: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% aanval, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% gezondheid.
+
+Scheutdemon: 
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% aanval, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% gezondheid.
+
+Bloesemmegademon: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% aanval, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% gezondheid."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Roept elke beurt een zaailingdemon aan voor een willekeurige vijand. Deze passieve vaardigheid wordt slechts één keer per beurt per team geactiveerd
 De zaailingdemon ontwikkelt zich tot een scheutdemon na {EVOLVINGFAMILIAR1EVOLVETURNS} beurten.
 De scheutdemon ontwikkelt zich tot een bloesemmegademon na {EVOLVINGFAMILIAR2EVOLVETURNS} beurten.
@@ -365,32 +400,32 @@ Scheutdemon:
 
 Bloesemmegademon: 
 {EVOLVINGFAMILIAR3FAMILIARATTACK}% aanval, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% gezondheid."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Roept elke beurt een [#!]zaailingdemon[#] aan voor een willekeurige vijand. Deze passieve vaardigheid wordt slechts één keer per beurt per team geactiveerd
-[*]De [#!]zaailingdemon[#] ontwikkelt zich tot een [#!]scheutdemon[#] na {EVOLVINGFAMILIAR1EVOLVETURNS} beurten.
-[*]De [#!]scheutdemon[#] ontwikkelt zich tot een [#!]bloesemmegademon[#] na {EVOLVINGFAMILIAR2EVOLVETURNS} beurten.
-[*]Elke keer dat demonen gezondheid absorberen, wordt hun evolutie vertraagd met {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} beurt.
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Roept elke beurt een zaailingdemon aan voor een willekeurige vijand. Deze passieve vaardigheid wordt slechts één keer per beurt per team geactiveerd
+De zaailingdemon ontwikkelt zich tot een scheutdemon na {EVOLVINGFAMILIAR1EVOLVETURNS} beurten.
+De scheutdemon ontwikkelt zich tot een bloesemmegademon na {EVOLVINGFAMILIAR2EVOLVETURNS} beurten.
+Elke keer dat demonen gezondheid absorberen, wordt hun evolutie vertraagd met {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} beurt.
 
-[#!]Zaailingdemon[#]: 
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] aanval, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] gezondheid.
+Zaailingdemon: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% aanval, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% gezondheid.
 
-[#!]Scheutdemon[#]: 
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] aanval, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] gezondheid.
+Scheutdemon: 
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% aanval, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% gezondheid.
 
-[#!]Bloesemmegademon[#]: 
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] aanval, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] gezondheid."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Roept elke beurt een [#!]zaailingdemon[#] aan voor een willekeurige vijand. Deze passieve vaardigheid wordt slechts één keer per beurt per team geactiveerd
-[*]De [#!]zaailingdemon[#] ontwikkelt zich tot een [#!]scheutdemon[#] na {EVOLVINGFAMILIAR1EVOLVETURNS} beurten.
-[*]De [#!]scheutdemon[#] ontwikkelt zich tot een [#!]bloesemmegademon[#] na {EVOLVINGFAMILIAR2EVOLVETURNS} beurten.
-[*]Elke keer dat demonen gezondheid absorberen, wordt hun evolutie vertraagd met {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} beurt.
+Bloesemmegademon: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% aanval, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% gezondheid."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Roept elke beurt een zaailingdemon aan voor een willekeurige vijand. Deze passieve vaardigheid wordt slechts één keer per beurt per team geactiveerd
+De zaailingdemon ontwikkelt zich tot een scheutdemon na {EVOLVINGFAMILIAR1EVOLVETURNS} beurten.
+De scheutdemon ontwikkelt zich tot een bloesemmegademon na {EVOLVINGFAMILIAR2EVOLVETURNS} beurten.
+Elke keer dat demonen gezondheid absorberen, wordt hun evolutie vertraagd met {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} beurt.
 
-[#!]Zaailingdemon[#]: 
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] aanval, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] gezondheid.
+Zaailingdemon: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% aanval, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% gezondheid.
 
-[#!]Scheutdemon[#]: 
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] aanval, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] gezondheid.
+Scheutdemon: 
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% aanval, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% gezondheid.
 
-[#!]Bloesemmegademon[#]: 
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] aanval, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] gezondheid."
+Bloesemmegademon: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% aanval, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% gezondheid."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Als dit personage wordt verslagen, roept het slijmmegavolgelingen aan naar bondgenoten in de buurt, met {FAMILIARHEALTHPERCENT}% gezondheid en {FAMILIARATTACK}% aanvalskracht van het verslagen personage."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Als dit personage wordt verslagen, roept het slijmmegavolgelingen aan naar bondgenoten in de buurt, met {FAMILIARHEALTHPERCENT}% gezondheid en {FAMILIARATTACK}% aanvalskracht van het verslagen personage."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Als dit personage wordt verslagen, roept het slijmmegavolgelingen aan naar bondgenoten in de buurt, met {FAMILIARHEALTHPERCENT}% gezondheid en {FAMILIARATTACK}% aanvalskracht van het verslagen personage."
@@ -425,6 +460,7 @@ Bloesemmegademon:
 "herocard.passive_skill.inactive","INACTIEF: bereik het hoogste niveau en volledige verheffing om te activeren."
 "herocard.passive_skill.replace.minordebuff.attackmodifier.to.minorbuff.attackmodifier","Aanvalsaandoeningen voor {TURNS} beurten lang {ATTACK}% aanvalskracht."
 "herocard.passive_skill.replace.minordebuff.buffimmunity.to.minorbuff.debuffshield","Oppeppersimmuniteitsaandoeningen voor {TURNS} beurten lang aandoeningsimmuniteit."
+"herocard.passive_skill.replace.minordebuff.damageovertime.to.minorbuff.fixedhealthrecovery","Statusaandoeningen die in de loop van de tijd schade aanbrengen voor {TOTAL} geregenereerde gezondheid gedurende {TURNS} beurten."
 "herocard.passive_skill.replace.minordebuff.defensemodifier.to.minorbuff.defensemodifier","Verdedigingsaandoeningen voor {TURNS} beurten lang {DEFENSE}% verdediging."
 "herocard.passive_skill.replace.minordebuff.healingmodifier.to.minorbuff.healmultiplier","Genezingsverminderingen naar {TURNS} beurten lang {HEALING}% meer genezing."
 "herocard.passive_skill.replace.minordebuff.manaeffect.to.minorbuff.managenerationmodifier","Alle mana-aandoeningen voor {TURNS} beurten lang {MANAREGEN}% manarecuperatie."
@@ -491,6 +527,7 @@ Bloesemmegademon:
 "herocard.passive_skill.title.effectonhealsupportcharacter.troop.heal","Extra GENEZING"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.attackmodifier","Statuseffect bij manareductie"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.yellowdefensemodifier","Statuseffect bij manareductie"
+"herocard.passive_skill.title.effectonownerdeath.damage.statuseffects.bleeding","Oneerbare nederlaag"
 "herocard.passive_skill.title.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Gezondheidsboost en mana bij weerstand"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Mana bij speciale vaardigheid met gezondheidsboost"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.on_healthboost_cast","Gezondheidsverhoging bij gezondheidsverhoging door vijand"
@@ -498,6 +535,7 @@ Bloesemmegademon:
 "herocard.passive_skill.title.effectonspecialskilldamagedone.bufftoremove.minordebuff.safe.only_criticals","Zuivering bij een kritieke speciale aanval"
 "herocard.passive_skill.title.effectonspecialskilldamagedone.healthboost.only_criticals","Gezondheidsverhoging bij kritieke speciale aanval"
 "herocard.passive_skill.title.effectonspecialskilldamagereceived.healthboost.only_criticals","Gezondheidsverhoging bij kritieke speciale aanval"
+"herocard.passive_skill.title.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.directeffect1_statuseffects.defensemodifier","Knagen"
 "herocard.passive_skill.title.effectonspecialwithchance.activates_on_enemy_action.healthboost","Gezondheidsboost bij speciale vaardigheid vijand"
 "herocard.passive_skill.title.effectonspecialwithchance.addmana","Mana bij special"
 "herocard.passive_skill.title.effectonspecialwithchance.bufftoremove.minorbuff.latest","Verwijderen bij speciale vaardigheid"
@@ -514,6 +552,8 @@ Bloesemmegademon:
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.managenerationmodifier","Statuseffect bij special"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.poison","Gif bij speciale vaardigheid"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.possession","Hersenloze aanval bij speciale vaardigheid"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackingdefensemodifier","Speciale stapeling"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackinghealthgeneration","Speciale stapeling"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.underwater","Geleidelijke schade bij special"
 "herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.damage.faster.average.once","Schade bij vijandelijke speciale vaardigheid"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.allbuffs.taunt","Mana bij uitlokking"
@@ -537,6 +577,7 @@ Bloesemmegademon:
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","Mana bij demonaanroep"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.damage.enemies.parasite","Wraak van huisdieren"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.healthboost.enemies.parasite","Gezondheidsverhoging bij demonaanroep"
+"herocard.passive_skill.title.empowered_toon_resist_manareduction_dispels","Versterkte Toon"
 "herocard.passive_skill.title.familiaraccuracymodifier.all.enemies.minion.bigminion","Volgelingenblindheid"
 "herocard.passive_skill.title.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core","Volgelingkern"
 "herocard.passive_skill.title.familiarhealthmodifier.all.enemies.bigminion.decrease","Zwakkere megavolgelingen"
@@ -573,7 +614,9 @@ Bloesemmegademon:
 "herocard.passive_skill.title.memorizestatuseffects","Statusaandoeningen onthouden"
 "herocard.passive_skill.title.mimic_dread_damage_minions","Afschrikwekkend"
 "herocard.passive_skill.title.mimiclootonlevelcompleted","Nabootsersbuit"
+"herocard.passive_skill.title.minioncorruption.all.enemies","Volgelingencorruptie"
 "herocard.passive_skill.title.nevermissspecial","Perfecte nauwkeurigheid"
+"herocard.passive_skill.title.preventboostedhealth.all.enemies","Voorkomt verhoogde genezing"
 "herocard.passive_skill.title.ransack","Kans voor een dief"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Oppepper stelen"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","Jagersinstinct"
@@ -626,6 +669,8 @@ Bloesemmegademon:
 "herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","Versterkte weerstand tegen blokkeren van speciale vaardigheden"
 "herocard.passive_skill.title.resist.stopmanageneration","Weerstaat manarecuperatie-effecten"
 "herocard.passive_skill.title.resist.water","Weerstand tegen water"
+"herocard.passive_skill.title.resist_all_attack_effects","Kenmerk:
+piepklein"
 "herocard.passive_skill.title.resist_all_defense_effects","Kenmerk: 
 wendbaar"
 "herocard.passive_skill.title.resistdebuffsfromfamiliars.minion","Weerstand tegen statuseffecten van volgelingen"
@@ -683,6 +728,9 @@ wendbaar"
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","Manarecuperatie-oppepper door effecten"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","Elementenmagie"
 "herocard.passive_skill.title.stylish","Stijlvol!"
+"herocard.passive_skill.title.stylish_epic","Stijlvol!"
+"herocard.passive_skill.title.stylish_legendary","Stijlvol!"
+"herocard.passive_skill.title.stylish_rare","Stijlvol!"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","Zaailingaanroeper"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Zaailingaanroeper"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Zaailingaanroeper"
@@ -719,16 +767,3 @@ wendbaar"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Omgezette oppeppers"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Omgezette aandoeningen"
 "herocard.passive_skill.title.wither.all.enemies","Verwelken"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Roept elke beurt een [#!]zaailingdemon[#] aan voor een willekeurige vijand.
-[*]De [#!]zaailingdemon[#] ontwikkelt zich tot een [#!]scheutdemon[#] na {EVOLVINGFAMILIAR1EVOLVETURNS} beurten.
-[*]De [#!]scheutdemon[#] ontwikkelt zich tot een [#!]bloesemmegademon[#] na {EVOLVINGFAMILIAR2EVOLVETURNS} beurten.
-[*]Elke keer dat demonen gezondheid absorberen, wordt hun evolutie vertraagd met {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} beurt.
-
-[#!]Zaailingdemon[#]: 
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] aanval, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] gezondheid.
-
-[#!]Scheutdemon[#]: 
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] aanval, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] gezondheid.
-
-[#!]Bloesemmegademon[#]: 
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] aanval, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] gezondheid."

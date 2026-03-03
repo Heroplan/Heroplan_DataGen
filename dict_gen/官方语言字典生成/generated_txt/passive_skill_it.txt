@@ -64,6 +64,9 @@ Il Nucleo distruttivo si attiva ogni volta che viene lanciata l'Abilità special
 "herocard.passive_skill.description.effectonheal.addmana","Questo personaggio riceve il {POWER}% di mana ogni volta che recupera Salute."
 "herocard.passive_skill.description.effectonheal.heal","Questo personaggio riceve il {POWER}% di Salute ogni volta che la sua salute viene recuperata."
 "herocard.passive_skill.description.effectonhealsupportcharacter.troop.heal","Questo personaggio riceve il {POWER}% di Salute ogni volta che la sua salute viene recuperata."
+"herocard.passive_skill.description.effectonownerdeath.damage.single.enemies.specialskill.targetattackerside","Quando questo personaggio viene sconfitto da un'Abilità speciale, compie le seguenti azioni:
+ L'attaccante subisce il {DAMAGE}% di danni.
+ L'attaccante subisce {STATUSEFFECT1DAMAGE} danni da sanguinamento nel corso di {TURNS} turni."
 "herocard.passive_skill.description.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Questo personaggio ottiene il {HEALTHBOOST}% di Salute potenziata e il {MANA}% di mana quando riesce a resistere."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Questo personaggio ottiene un {POWER}% di mana ogni volta che un nemico lancia un'Abilità speciale che aumenta direttamente la Salute."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.fixedpower.on_healthboost_cast","Questo personaggio ottiene {POWER} di Salute potenziata ogni volta che un nemico lancia un'Abilità speciale che aumenta direttamente la Salute."
@@ -71,6 +74,7 @@ Il Nucleo distruttivo si attiva ogni volta che viene lanciata l'Abilità special
 "herocard.passive_skill.description.effectonspecialskilldamagedone.bufftoremove.minordebuff.from.all.allies.safe.only_criticals","Quando questo personaggio realizza un colpo critico con l'Abilità speciale, annulla l'ultimo disturbo annullabile da tutti gli alleati."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals","Quando questo personaggio realizza un colpo critico con la sua Abilità speciale, aumenta del {HEALTHBOOST}% la Salute di tutti i suoi alleati."
 "herocard.passive_skill.description.effectonspecialskilldamagereceived.healthboost.all.allies.only_criticals","Quando questo personaggio realizza un colpo critico con la sua Abilità speciale, aumenta del {HEALTHBOOST}% la Salute di tutti i suoi alleati."
+"herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","Quando un alleato lancia la sua Abilità speciale, questo personaggio infligge il {POWER}% di danni e conferisce a un nemico casuale il {DIRECTEFFECT1STATUSEFFECT1DEFENSE}% di Difesa per {DIRECTEFFECT1STATUSEFFECT1TURNS} turni."
 "herocard.passive_skill.description.effectonspecialwithchance.activates_on_enemy_action.healthboost.fixedpower","Quando un nemico lancia la sua Abilità speciale, questo personaggio ha una probabilità del {CHANCE}% di aumentare di {HEALTHBOOST} la sua Salute."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.all.allies","Quando questo personaggio lancia la sua Abilità speciale, ha una probabilità del {CHANCE}% di dare il {POWER}% di mana a tutti gli alleati. Se l'Abilità speciale è completamente carica, la probabilità è del {CHANCEFULLYCHARGED}%."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.notblue.allies","Quando questo personaggio lancia la sua Abilità speciale, ha una probabilità del {CHANCE}% di dare il {POWER}% di mana a tutti gli alleati che non appartengono all'elemento Ghiaccio. Se l'Abilità speciale è completamente carica, la probabilità è del {CHANCEFULLYCHARGED}%."
@@ -110,9 +114,17 @@ Il Nucleo distruttivo si attiva ogni volta che viene lanciata l'Abilità special
 
 Il Nucleo servitore si attiva ogni volta che viene utilizzata l'Abilità speciale di questo personaggio:
 
- Con un Nucleo servitore completamente carico, chiama un servitore Killer Bot con {FAMILIARHEALTHPERCENT}% HP e {FAMILIARATTACK}% di attacco ereditati dall'alleato su tutti gli alleati.
- Gli HP e l'attacco ereditati dall'evocatore sono scalati dalla quantità di carica del Nucleo. Tutta la carica si esaurisce quando il Nucleo viene attivato.
+ Con un Nucleo servitore completamente carico, chiama un servitore Killer Bot con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore su tutti gli alleati.
+ Gli HP e l'Attacco ereditati dall'evocatore vengono scalati in base alla carica del Nucleo. Tutta la carica viene consumata quando il Nucleo si attiva.
  Prima che il servitore Killer Bot colpisca un bersaglio, distrugge tutti i servitori del bersaglio e danneggia i servitori Mega."
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always.temp.with.wither","Il Nucleo costrutto di questo personaggio è un Nucleo servitore.
+
+Il Nucleo servitore si attiva ogni volta che viene utilizzata l'Abilità speciale di questo personaggio:
+
+ Con un Nucleo servitore completamente carico, chiama un servitore Killer Bot con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore su tutti gli alleati.
+ Gli HP e l'Attacco ereditati dall'evocatore vengono scalati in base alla carica del Nucleo. Tutta la carica viene consumata quando il Nucleo si attiva.
+ Prima che il servitore Killer Bot colpisca un bersaglio, distrugge tutti i servitori del bersaglio e danneggia i servitori Mega.
+ Avvizzimento: ogni colpo di un servitore Killer Bot conferisce al bersaglio {ATTACKMODIFIER} Attacco."
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.bigminion.decrease","I servitori Mega nemici hanno il {HEALTHMODIFIER}% di HP."
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.minion.decrease","I servitori nemici hanno il {HEALTHMODIFIER}% di HP."
 "herocard.passive_skill.description.familiarsilencer.all.enemies.bigminion","I servitori Mega nemici non possono attaccare né usare abilità."
@@ -157,7 +169,11 @@ Il Nucleo servitore si attiva ogni volta che viene utilizzata l'Abilità special
 "herocard.passive_skill.description.memorizestatuseffects#2","Questo personaggio possiede l'abilità innata di Memorizzare i disturbi. Gli ultimi {0} disturbi lanciati su questo personaggio resteranno memorizzati finché non sarà lanciata l'Abilità speciale. Solo i disturbi con una durata possono essere memorizzati."
 "herocard.passive_skill.description.memorizestatuseffects#3","This character has innate ability to Memorize status ailments. The latest {0} status ailments that are cast on this character will stay memorized until the Special Skill is cast. Only status ailments with a duration can be memorized. (THIRD FORM)"
 "herocard.passive_skill.description.mimiclootonlevelcompleted","Ogni Mimic unico nella tua squadra può darti bottino extra al completamento degli stadi. Questo mimic garantisce una probabilità per i seguenti bottini extra:"
+"herocard.passive_skill.description.minioncorruption.all.enemies","Alla fine di ogni turno, i nemici con Follia hanno una probabilità di vedere i loro servitori trasformarsi in demoni. Raggiungere {AUTOMATICTRANSFORMINSANITYTHRESHOLD} Follia attiva automaticamente la trasformazione.
+ Un servitore si trasforma in un demone sinistro: {FAMILIAR1FAMILIARATTACK}% di Attacco, {FAMILIAR1FAMILIARHEALTHPERCENT}% di Salute, infligge {FAMILIAR1INSANITYTOADD} Follia a ogni turno.
+ Un servitore Mega si trasforma in un demone sinistro Mega: {FAMILIAR2FAMILIARATTACK}% di Attacco, {FAMILIAR2FAMILIARHEALTHPERCENT}% di Salute, infligge {FAMILIAR2INSANITYTOADD} Follia a ogni turno."
 "herocard.passive_skill.description.nevermissspecial","L'Abilità speciale di questo personaggio non manca mai il bersaglio."
+"herocard.passive_skill.description.preventboostedhealth.all.enemies","La Salute dei nemici non può aumentare oltre il valore massimo."
 "herocard.passive_skill.description.ransack","All'inizio di ogni turno, questo personaggio saccheggia un nemico a caso:
 
  Ruba {DAMAGE} di Salute.
@@ -197,6 +213,7 @@ Il Nucleo riparatore si attiva ogni volta che viene lanciata l'Abilità speciale
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.attackwither.defensewither.alldebuffs.with_chance","{CHANCE}% di probabilità extra di resistere a ogni disturbo, riduzione del mana, annullamento delle magie benefiche ed effetti di Avvizzimento."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.insanity.with_chance","{CHANCE}% di probabilità extra di resistere a ogni disturbo, riduzione del mana, annullamento delle magie benefiche e Follia."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance","{CHANCE}% di probabilità extra di resistere a ogni disturbo, riduzione del mana e annullamento delle magie benefiche."
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance.with_effect.addmana","{CHANCE}% di probabilità extra di resistere a ogni disturbo, riduzione del mana e annullamento delle magie benefiche. Ottieni il {MANA}% di mana a ogni resistenza riuscita."
 "herocard.passive_skill.description.resist.alldebuffs.with_chance","{CHANCE}% di probabilità extra di resistere a tutti i disturbi."
 "herocard.passive_skill.description.resist.alldefensemodifiers.alldebuffs","Questo personaggio è immune ai disturbi che influenzano la difesa. Si applica anche ai disturbi che influenzano la difesa elementale."
 "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.alldebuffs","Questo personaggio è immune ai disturbi, alle iterazioni negative e agli effetti di Avvizzimento che influenzano la difesa."
@@ -220,6 +237,12 @@ Questo include le magie benefiche e i disturbi degli effetti di stato, le iteraz
 "herocard.passive_skill.description.resist.attackmodifiers","Questo personaggio è immune ai disturbi che influenzano l'attacco."
 "herocard.passive_skill.description.resist.attackmodifiers.allstatuseffectsandstacks","Questo personaggio è immune a tutti gli effetti di stato e alle iterazioni che influenzano l'attacco. Questo include magie benefiche degli effetti di stato."
 "herocard.passive_skill.description.resist.attackmodifiers.attackwither.alldebuffs","Questo personaggio è immune ai disturbi, alle iterazioni negative e agli effetti di Avvizzire che influenzano l'attacco."
+"herocard.passive_skill.description.resist.attackmodifiers.attackwither.attackgrowth.allstatuseffectsandstacks","Questo personaggio non è influenzato dagli effetti che aumentano o riducono l'Attacco.
+
+Questo include
+ Le magie benefiche e i disturbi degli effetti di stato
+ Le iterazioni positive e negative
+ Gli effetti di Crescita e Avvizzimento"
 "herocard.passive_skill.description.resist.bleed","Questo personaggio è immune ai disturbi che infliggono danni da sanguinamento."
 "herocard.passive_skill.description.resist.bleed.with_effect.healthboost.addmana","Questo personaggio è immune dai disturbi che infliggono danni da sanguinamento e guadagna {HEALTHBOOST} di Salute potenziata e il {MANA}% di mana ogni volta che vi resiste."
 "herocard.passive_skill.description.resist.buffdispels","Questo personaggio è immune agli effetti che potrebbero annullare le sue magie benefiche degli effetti di stato."
@@ -352,6 +375,19 @@ Demone Alberello:
 
 Demone Mega Fiore:
 {EVOLVINGFAMILIAR3FAMILIARATTACK}% di Attacco, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% di Salute."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Evoca un demone Piantina a ogni turno contro un nemico casuale.
+ Il demone Piantina si evolve in un demone Alberello dopo {EVOLVINGFAMILIAR1EVOLVETURNS} turni.
+ Il demone Alberello si evolve in un demone Mega Fiore dopo {EVOLVINGFAMILIAR2EVOLVETURNS} turni.
+ L'evoluzione dei demoni viene ritardata di {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno ogni volta che assorbono guarigione.
+
+Demone Piantina:
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% di Attacco, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% di Salute.
+
+Demone Alberello:
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% di Attacco, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% di Salute.
+
+Demone Mega Fiore:
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% di Attacco, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% di Salute."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Evoca un demone Piantina a ogni turno contro un nemico casuale. Questa abilità passiva si attiva una sola volta per turno per ogni squadra.
  Il demone Piantina si evolve in un demone Alberello dopo {EVOLVINGFAMILIAR1EVOLVETURNS} turni.
  Il demone Alberello si evolve in un demone Mega Fiore dopo {EVOLVINGFAMILIAR2EVOLVETURNS} turni.
@@ -365,32 +401,32 @@ Demone Alberello:
 
 Demone Mega Fiore:
 {EVOLVINGFAMILIAR3FAMILIARATTACK}% di Attacco, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% di Salute."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Evoca un [#!]demone Piantina[#] a ogni turno contro un nemico casuale. Questa abilità passiva si attiva una sola volta per turno per ogni squadra.
-[*] Il [#!]demone Piantina[#] si evolve in un [#!]demone Alberello[#] dopo {EVOLVINGFAMILIAR1EVOLVETURNS} turni.
-[*] Il [#!]demone Alberello[#] si evolve in un [#!]demone Mega Fiore[#] dopo {EVOLVINGFAMILIAR2EVOLVETURNS} turni.
-[*] L'evoluzione dei demoni viene ritardata di {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno ogni volta che assorbono guarigione.
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Evoca un demone Piantina a ogni turno contro un nemico casuale. Questa abilità passiva si attiva una sola volta per turno per ogni squadra.
+ Il demone Piantina si evolve in un demone Alberello dopo {EVOLVINGFAMILIAR1EVOLVETURNS} turni.
+ Il demone Alberello si evolve in un demone Mega Fiore dopo {EVOLVINGFAMILIAR2EVOLVETURNS} turni.
+ L'evoluzione dei demoni viene ritardata di {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno ogni volta che assorbono guarigione.
 
-[#!]Demone Piantina[#]:
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] di Salute.
+Demone Piantina:
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% di Attacco, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% di Salute.
 
-[#!]Demone Alberello[#]:
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] di Salute.
+Demone Alberello:
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% di Attacco, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% di Salute.
 
-[#!]Demone Mega Fiore[#]:
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] di Salute."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Evoca un [#!]demone Piantina[#] a ogni turno contro un nemico casuale. Questa abilità passiva si attiva una sola volta per turno per ogni squadra.
-[*] Il [#!]demone Piantina[#] si evolve in un [#!]demone Alberello[#] dopo {EVOLVINGFAMILIAR1EVOLVETURNS} turni.
-[*] Il [#!]demone Alberello[#] si evolve in un [#!]demone Mega Fiore[#] dopo {EVOLVINGFAMILIAR2EVOLVETURNS} turni.
-[*] L'evoluzione dei demoni viene ritardata di {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno ogni volta che assorbono guarigione.
+Demone Mega Fiore:
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% di Attacco, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% di Salute."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Evoca un demone Piantina a ogni turno contro un nemico casuale. Questa abilità passiva si attiva una sola volta per turno per ogni squadra.
+ Il demone Piantina si evolve in un demone Alberello dopo {EVOLVINGFAMILIAR1EVOLVETURNS} turni.
+ Il demone Alberello si evolve in un demone Mega Fiore dopo {EVOLVINGFAMILIAR2EVOLVETURNS} turni.
+ L'evoluzione dei demoni viene ritardata di {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno ogni volta che assorbono guarigione.
 
-[#!]Demone Piantina[#]:
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] di Salute.
+Demone Piantina:
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% di Attacco, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% di Salute.
 
-[#!]Demone Alberello[#]:
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] di Salute.
+Demone Alberello:
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% di Attacco, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% di Salute.
 
-[#!]Demone Mega Fiore[#]:
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] di Salute."
+Demone Mega Fiore:
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% di Attacco, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% di Salute."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Quando questo personaggio muore, evoca servitori Mega slime per gli alleati vicini con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di attacco ereditati da questo personaggio."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Quando questo personaggio muore, evoca servitori Mega slime per gli alleati vicini con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di attacco ereditati da questo personaggio."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Quando questo personaggio muore, evoca servitori Mega slime per gli alleati vicini con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di attacco ereditati da questo personaggio."
@@ -425,6 +461,7 @@ Demone Mega Fiore:
 "herocard.passive_skill.inactive","INATTIVA: raggiungi il livello massimo e l'ascensione completa per attivarla."
 "herocard.passive_skill.replace.minordebuff.attackmodifier.to.minorbuff.attackmodifier","Disturbi dell'attacco trasformati nel {ATTACK}% di Attacco per {TURNS} turni."
 "herocard.passive_skill.replace.minordebuff.buffimmunity.to.minorbuff.debuffshield","Immunità dai bonus trasformata in immunità dai disturbi per {TURNS} turni."
+"herocard.passive_skill.replace.minordebuff.damageovertime.to.minorbuff.fixedhealthrecovery","Disturbi che infliggono danni nel tempo nel {TOTAL} HP rigenerati nel corso di {TURNS} turni."
 "herocard.passive_skill.replace.minordebuff.defensemodifier.to.minorbuff.defensemodifier","Disturbi della difesa trasformati nel {DEFENSE}% di Difesa per {TURNS} turni."
 "herocard.passive_skill.replace.minordebuff.healingmodifier.to.minorbuff.healmultiplier","Riduzioni di guarigione trasformate in un aumento del {HEALING}% della guarigione per {TURNS} turni."
 "herocard.passive_skill.replace.minordebuff.manaeffect.to.minorbuff.managenerationmodifier","Disturbi al mana trasformati nel {MANAREGEN}% di rigenerazione mana per {TURNS} turni."
@@ -491,6 +528,7 @@ Demone Mega Fiore:
 "herocard.passive_skill.title.effectonhealsupportcharacter.troop.heal","GUARIGIONE extra"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.attackmodifier","Effetto di stato per riduzione del mana"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.yellowdefensemodifier","Effetto di stato per riduzione del mana"
+"herocard.passive_skill.title.effectonownerdeath.damage.statuseffects.bleeding","Sconfitta disonorevole"
 "herocard.passive_skill.title.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Aumento salute e mana su resistenza"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Mana per Abilità speciale aumenta salute"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.on_healthboost_cast","Salute potenziata su Salute potenziata nemica"
@@ -498,6 +536,7 @@ Demone Mega Fiore:
 "herocard.passive_skill.title.effectonspecialskilldamagedone.bufftoremove.minordebuff.safe.only_criticals","Si annulla con attacco speciale critico"
 "herocard.passive_skill.title.effectonspecialskilldamagedone.healthboost.only_criticals","Salute potenziata su attacco speciale critico"
 "herocard.passive_skill.title.effectonspecialskilldamagereceived.healthboost.only_criticals","Salute potenziata su attacco speciale critico"
+"herocard.passive_skill.title.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.directeffect1_statuseffects.defensemodifier","Morsicchiata"
 "herocard.passive_skill.title.effectonspecialwithchance.activates_on_enemy_action.healthboost","Aumento Salute su Abilità speciale nemica"
 "herocard.passive_skill.title.effectonspecialwithchance.addmana","Mana su Abilità speciali"
 "herocard.passive_skill.title.effectonspecialwithchance.bufftoremove.minorbuff.latest","Annullamento su Abilità speciale"
@@ -514,6 +553,8 @@ Demone Mega Fiore:
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.managenerationmodifier","Effetto di stato su Abilità speciali"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.poison","Veleno su Abilità speciali"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.possession","Attacco irrazionale su Abilità speciali"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackingdefensemodifier","Iterazione con le Abilità speciali"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackinghealthgeneration","Iterazione con le Abilità speciali"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.underwater","Danni nel tempo su Abilità speciali"
 "herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.damage.faster.average.once","Danni su Abilità speciali nemiche"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.allbuffs.taunt","Mana su Deridi"
@@ -537,6 +578,7 @@ Demone Mega Fiore:
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","Mana su evocazione demoni"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.damage.enemies.parasite","Ira degli animali"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.healthboost.enemies.parasite","Salute potenziata su evocazione demoni"
+"herocard.passive_skill.title.empowered_toon_resist_manareduction_dispels","Cartone potenziato"
 "herocard.passive_skill.title.familiaraccuracymodifier.all.enemies.minion.bigminion","Servitori ciechi"
 "herocard.passive_skill.title.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core","Nucleo Servitore"
 "herocard.passive_skill.title.familiarhealthmodifier.all.enemies.bigminion.decrease","Servitori Mega più deboli"
@@ -573,7 +615,9 @@ Demone Mega Fiore:
 "herocard.passive_skill.title.memorizestatuseffects","Memorizza disturbi"
 "herocard.passive_skill.title.mimic_dread_damage_minions","Timore"
 "herocard.passive_skill.title.mimiclootonlevelcompleted","Bottino Mimic"
+"herocard.passive_skill.title.minioncorruption.all.enemies","Corruzione dei servitori"
 "herocard.passive_skill.title.nevermissspecial","Precisione perfetta"
+"herocard.passive_skill.title.preventboostedhealth.all.enemies","Blocca la Cura potenziata"
 "herocard.passive_skill.title.ransack","Occasione del ladro"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Ruba magia benefica"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","Senso del cacciatore"
@@ -626,6 +670,8 @@ Demone Mega Fiore:
 "herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","Aumento resistenza al blocco delle Abilità speciali"
 "herocard.passive_skill.title.resist.stopmanageneration","Resisti alle interruzioni della rigenerazione mana"
 "herocard.passive_skill.title.resist.water","Resisti all'acqua"
+"herocard.passive_skill.title.resist_all_attack_effects","Tratto:
+Sagoma minuta"
 "herocard.passive_skill.title.resist_all_defense_effects","Tratto: 
 Struttura agile"
 "herocard.passive_skill.title.resistdebuffsfromfamiliars.minion","Resisti ai disturbi dei servitori"
@@ -683,6 +729,9 @@ Struttura agile"
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","Magia benefica di rigenerazione mana dai disturbi"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","Maschera elementale"
 "herocard.passive_skill.title.stylish","Che eleganza!"
+"herocard.passive_skill.title.stylish_epic","Che eleganza!"
+"herocard.passive_skill.title.stylish_legendary","Che eleganza!"
+"herocard.passive_skill.title.stylish_rare","Che eleganza!"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","Evocatore della Piantina"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Evocatore della Piantina"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Evocatore della Piantina"
@@ -719,16 +768,3 @@ Struttura agile"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Trasforma magie benefiche"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Trasforma disturbi"
 "herocard.passive_skill.title.wither.all.enemies","Avvizzimento"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Evoca un [#!]demone Piantina[#] a ogni turno contro un nemico casuale.
-[*] Il [#!]demone Piantina[#] si evolve in un [#!]demone Alberello[#] dopo {EVOLVINGFAMILIAR1EVOLVETURNS} turni.
-[*] Il [#!]demone Alberello[#] si evolve in un [#!]demone Mega Fiore[#] dopo {EVOLVINGFAMILIAR2EVOLVETURNS} turni.
-[*] L'evoluzione dei demoni viene ritardata di {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno ogni volta che assorbono guarigione.
-
-[#!]Demone Piantina[#]:
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] di Salute.
-
-[#!]Demone Alberello[#]:
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] di Salute.
-
-[#!]Demone Mega Fiore[#]:
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] di Salute."

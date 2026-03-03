@@ -64,6 +64,9 @@ Chacun de ces effets peut s'activer une fois par tour."
 "herocard.passive_skill.description.effectonheal.addmana","Ce personnage reçoit {POWER} % de mana à chaque fois qu'il récupère de la santé."
 "herocard.passive_skill.description.effectonheal.heal","Ce personnage reçoit {POWER} % de santé à chaque fois qu'il récupère de la santé."
 "herocard.passive_skill.description.effectonhealsupportcharacter.troop.heal","Ce personnage reçoit {POWER} % de santé à chaque fois qu'il récupère de la santé."
+"herocard.passive_skill.description.effectonownerdeath.damage.single.enemies.specialskill.targetattackerside","Quand ce personnage est vaincu par une compétence spéciale, il réalise les actions suivantes :
+L'attaquant subit {DAMAGE} % de dégâts.
+L'attaquant subit {STATUSEFFECT1DAMAGE} points de dégâts de saignement pendant {TURNS} tours."
 "herocard.passive_skill.description.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Ce personnage reçoit {HEALTHBOOST} % de santé boostée et {MANA} % de mana lors d'une résistance réussie."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Le personnage reçoit {POWER} % de mana à chaque fois qu'un ennemi utilise une compétence spéciale qui booste directement la santé."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.fixedpower.on_healthboost_cast","La santé de ce personnage est boostée de {POWER} à chaque fois qu'un ennemi utilise une compétence spéciale qui booste directement la santé."
@@ -71,6 +74,8 @@ Chacun de ces effets peut s'activer une fois par tour."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.bufftoremove.minordebuff.from.all.allies.safe.only_criticals","Quand ce personnage réalise un coup critique avec sa compétence spéciale, il purifie de façon sûre l'effet négatif purifiable le plus récent de chaque allié."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals","Quand ce personnage réalise un coup critique avec sa compétence spéciale, la santé de tous ses alliés est boostée de {HEALTHBOOST} %."
 "herocard.passive_skill.description.effectonspecialskilldamagereceived.healthboost.all.allies.only_criticals","Quand ce personnage réalise un coup critique avec sa compétence spéciale, la santé de tous ses alliés est boostée de {HEALTHBOOST} %."
+"herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","Lorsqu'un autre allié lance sa compétence spéciale :
+ Ce personnage inflige {POWER} % de dégâts et confère {DIRECTEFFECT1STATUSEFFECT1DEFENSE} % de défense pendant {DIRECTEFFECT1STATUSEFFECT1TURNS} tours à un ennemi aléatoire."
 "herocard.passive_skill.description.effectonspecialwithchance.activates_on_enemy_action.healthboost.fixedpower","Lorsqu'un ennemi utilise sa compétence spéciale, la santé de ce personnage a {CHANCE} % de chances d'être boostée de {HEALTHBOOST}."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.all.allies","Avec une compétence spéciale chargée au maximum, ce héros a {CHANCE} % de chances d'octroyer {POWER} % de mana à tous les alliés. Si la compétence spéciale est chargée au maximum, les chances passent à {CHANCEFULLYCHARGED} %."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.notblue.allies","Avec une compétence spéciale chargée au maximum, ce héros a {CHANCE} % de chances d'octroyer {POWER} % de mana à tous les alliés qui ne sont pas de l'élément Glace. Si la compétence spéciale est chargée au maximum, les chances passent à {CHANCEFULLYCHARGED} %."
@@ -113,6 +118,14 @@ Le noyau sbire s'active à chaque fois que le personnage utilise sa compétence 
  Avec un noyau sbire entièrement chargé, chaque allié reçoit un sbire robot tueur avec {FAMILIARHEALTHPERCENT} % de PV et {FAMILIARATTACK} % d'attaque hérités du lanceur.
  Les PV et l'attaque hérités sont proportionnels à la charge du noyau. Toute la charge est dépensée lorsque le noyau est activé.
  Avant de frapper une cible, le sbire robot tueur détruit tous ses sbires et inflige des dégâts aux méga sbires."
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always.temp.with.wither","Le noyau de golem de ce personnage est un noyau sbire.
+
+Le noyau sbire s'active à chaque fois que le personnage utilise sa compétence spéciale :
+
+ Avec un noyau sbire entièrement chargé, chaque allié reçoit un sbire robot tueur avec {FAMILIARHEALTHPERCENT} % de PV et {FAMILIARATTACK} % d'attaque hérités du lanceur.
+ Les PV et l'attaque hérités sont proportionnels à la charge du noyau. Toute la charge est dépensée lorsque le noyau est activé.
+ Avant de frapper une cible, le sbire robot tueur détruit tous ses sbires et inflige des dégâts aux méga sbires.
+ Flétrissement : chaque coup du sbire robot tueur donne à sa cible {ATTACKMODIFIER} d'attaque."
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.bigminion.decrease","Les méga sbires ennemis ont {HEALTHMODIFIER} % de PV."
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.minion.decrease","Les sbires ennemis ont {HEALTHMODIFIER} % de PV."
 "herocard.passive_skill.description.familiarsilencer.all.enemies.bigminion","Les méga sbires ennemis ne peuvent pas attaquer ou utiliser leurs compétences."
@@ -157,7 +170,11 @@ Le noyau sbire s'active à chaque fois que le personnage utilise sa compétence 
 "herocard.passive_skill.description.memorizestatuseffects#2","Ce personnage a la capacité innée de mémoriser les effets négatifs. Les {0} derniers effets négatifs qui ont été lancés contre lui restent en mémoire jusqu'à l'utilisation de la compétence spéciale. Seuls les effets négatifs possédant une durée peuvent être mémorisés."
 "herocard.passive_skill.description.memorizestatuseffects#3","This character has innate ability to Memorize status ailments. The latest {0} status ailments that are cast on this character will stay memorized until the Special Skill is cast. Only status ailments with a duration can be memorized. (THIRD FORM)"
 "herocard.passive_skill.description.mimiclootonlevelcompleted","Chaque imposteur unique dans votre équipe peut vous rapporter du butin supplémentaire en terminant des étape. Cet imposteur octroie une chance d'obtenir le butin supplémentaire suivant :"
+"herocard.passive_skill.description.minioncorruption.all.enemies","À la fin du tour, les ennemis atteints de folie ont une chance de voir leurs sbires se transformer en démons. La transformation s'active automatiquement à {AUTOMATICTRANSFORMINSANITYTHRESHOLD} points de folie.
+ Les sbires se transforment en démons fantasmagoriques : {FAMILIAR1FAMILIARATTACK} % d'attaque, {FAMILIAR1FAMILIARHEALTHPERCENT} % de santé, inflige {FAMILIAR1INSANITYTOADD} points de folie chaque tour.
+ Les méga sbires se transforment en méga démons fantasmagoriques : {FAMILIAR2FAMILIARATTACK} % d'attaque, {FAMILIAR2FAMILIARHEALTHPERCENT} % de santé, inflige {FAMILIAR2INSANITYTOADD} points de santé à chaque tour."
 "herocard.passive_skill.description.nevermissspecial","La compétence spéciale de ce personnage ne rate jamais sa cible."
+"herocard.passive_skill.description.preventboostedhealth.all.enemies","La santé des ennemis ne peut pas augmenter au-delà de leur santé maximale."
 "herocard.passive_skill.description.ransack","Au début de chaque tour, ce personnage pille un ennemi aléatoire :
 
 Vole {DAMAGE} PV.
@@ -197,6 +214,7 @@ Le noyau réparateur s'active à chaque fois que la compétence spéciale de ce 
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.attackwither.defensewither.alldebuffs.with_chance","{CHANCE} % de chances supplémentaires de résister à tous les effets négatifs, réductions de mana, dissipations de bonus et effets de flétrissement."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.insanity.with_chance","{CHANCE} % de chances supplémentaires de résister aux effets négatifs, aux réductions de mana, aux dissipations de bonus et à la folie."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance","{CHANCE} % de chances supplémentaires de résister à tous les effets négatifs, réductions de mana et dissipations de bonus."
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance.with_effect.addmana","{CHANCE} % de chances supplémentaires de résister à tous les effets négatifs, réductions de mana et dissipations de bonus. Gagne {MANA} % de mana lors d'une résistance réussie."
 "herocard.passive_skill.description.resist.alldebuffs.with_chance","{CHANCE} % de chances supplémentaires de résister à tous les effets négatifs."
 "herocard.passive_skill.description.resist.alldefensemodifiers.alldebuffs","Ce personnage est immunisé contre les effets négatifs qui touchent la défense. S'applique également aux effets négatifs qui affectent la défense élémentaire."
 "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.alldebuffs","Ce personnage est immunisé contre les effets négatifs, cumuls et effets de flétrissement qui touchent la défense."
@@ -220,6 +238,12 @@ Cela concerne les bonus, les effets négatifs, les cumuls positifs ou négatifs 
 "herocard.passive_skill.description.resist.attackmodifiers","Ce personnage est immunisé contre les effets négatifs qui touchent l'attaque."
 "herocard.passive_skill.description.resist.attackmodifiers.allstatuseffectsandstacks","Ce personnage est immunisé contre les effets et cumuls qui touchent l'attaque, y compris les bonus."
 "herocard.passive_skill.description.resist.attackmodifiers.attackwither.alldebuffs","Ce personnage est immunisé contre les effets négatifs, cumuls et effets de flétrissement qui touchent l'attaque."
+"herocard.passive_skill.description.resist.attackmodifiers.attackwither.attackgrowth.allstatuseffectsandstacks","Ce personnage n'est pas affecté par les effets qui augmentent ou réduisent l'attaque.
+
+Cela inclut :
+ Les bonus et effets négatifs
+ Les cumuls positifs et négatifs
+ Les effets de croissance et de flétrissement"
 "herocard.passive_skill.description.resist.bleed","Ce personnage est immunisé contre les effets négatifs qui infligent des dégâts de saignement."
 "herocard.passive_skill.description.resist.bleed.with_effect.healthboost.addmana","Ce personnage est immunisé contre les effets négatifs qui infligent des dégâts de saignement et reçoit {HEALTHBOOST} points de santé boostée et {MANA} % de mana à chaque fois qu'il résiste."
 "herocard.passive_skill.description.resist.buffdispels","Ce personnage est immunisé contre les effets qui dissipent les bonus."
@@ -352,6 +376,19 @@ Démon jeune pousse :
 
 Méga démon florissant :
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de santé."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","À chaque tour, invoque un démon plantule pour un ennemi aléatoire.
+Le démon plantule devient un démon jeune pousse au bout de {EVOLVINGFAMILIAR1EVOLVETURNS} tours.
+Le démon jeune pousse devient un méga démon florissant au bout de {EVOLVINGFAMILIAR2EVOLVETURNS} tours.
+L'évolution du démon est retardée de {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tour à chaque fois qu'il absorbe des soins.
+
+Démon plantule :
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de santé.
+
+Démon jeune pousse :
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de santé.
+
+Méga démon florissant :
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de santé."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","À chaque tour, invoque un démon plantule pour un ennemi aléatoire. Cette compétence passive s'active une seule fois par tour pour chaque équipe. 
 Le démon plantule devient un démon jeune pousse au bout de {EVOLVINGFAMILIAR1EVOLVETURNS} tours.
 Le démon jeune pousse devient un méga démon florissant au bout de {EVOLVINGFAMILIAR2EVOLVETURNS} tours.
@@ -365,32 +402,32 @@ Démon jeune pousse :
 
 Méga démon florissant :
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de santé."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","À chaque tour, invoque un [#!]démon plantule[#] pour un ennemi aléatoire. Cette compétence passive s'active une seule fois par tour pour chaque équipe. 
-[*]Le [#!]démon plantule[#] devient un [#!]démon jeune pousse[#] au bout de {EVOLVINGFAMILIAR1EVOLVETURNS} tours.
-[*]Le [#!]démon jeune pousse[#] devient un [#!]méga démon florissant[#] au bout de {EVOLVINGFAMILIAR2EVOLVETURNS} tours.
-[*]L'évolution du démon est retardée de {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tour à chaque fois qu'il absorbe des soins.
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","À chaque tour, invoque un démon plantule pour un ennemi aléatoire. Cette compétence passive s'active une seule fois par tour pour chaque équipe. 
+Le démon plantule devient un démon jeune pousse au bout de {EVOLVINGFAMILIAR1EVOLVETURNS} tours.
+Le démon jeune pousse devient un méga démon florissant au bout de {EVOLVINGFAMILIAR2EVOLVETURNS} tours.
+L'évolution du démon est retardée de {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tour à chaque fois qu'il absorbe des soins.
 
-[#!]Démon plantule[#] :
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] % de santé.
+Démon plantule :
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de santé.
 
-[#!]Démon jeune pousse[#] :
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] % de santé.
+Démon jeune pousse :
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de santé.
 
-[#!]Méga démon florissant[#] :
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % de santé."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","À chaque tour, invoque un [#!]démon plantule[#] pour un ennemi aléatoire. Cette compétence passive s'active une seule fois par tour pour chaque équipe. 
-[*]Le [#!]démon plantule[#] devient un [#!]démon jeune pousse[#] au bout de {EVOLVINGFAMILIAR1EVOLVETURNS} tours.
-[*]Le [#!]démon jeune pousse[#] devient un [#!]méga démon florissant[#] au bout de {EVOLVINGFAMILIAR2EVOLVETURNS} tours.
-[*]L'évolution du démon est retardée de {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tour à chaque fois qu'il absorbe des soins.
+Méga démon florissant :
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de santé."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","À chaque tour, invoque un démon plantule pour un ennemi aléatoire. Cette compétence passive s'active une seule fois par tour pour chaque équipe. 
+Le démon plantule devient un démon jeune pousse au bout de {EVOLVINGFAMILIAR1EVOLVETURNS} tours.
+Le démon jeune pousse devient un méga démon florissant au bout de {EVOLVINGFAMILIAR2EVOLVETURNS} tours.
+L'évolution du démon est retardée de {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tour à chaque fois qu'il absorbe des soins.
 
-[#!]Démon plantule[#] :
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] % de santé.
+Démon plantule :
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de santé.
 
-[#!]Démon jeune pousse[#] :
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] % de santé.
+Démon jeune pousse :
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de santé.
 
-[#!]Méga démon florissant[#] :
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % de santé."
+Méga démon florissant :
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % d'attaque, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de santé."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Lorsque ce personnage est vaincu, des méga sbires gluants sont invoqués sur les alliés proches avec {FAMILIARHEALTHPERCENT} % de PV et {FAMILIARATTACK} % d'attaque hérités de ce personnage."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Lorsque ce personnage est vaincu, des méga sbires gluants sont invoqués sur les alliés proches avec {FAMILIARHEALTHPERCENT} % de PV et {FAMILIARATTACK} % d'attaque hérités de ce personnage."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Lorsque ce personnage est vaincu, des méga sbires gluants sont invoqués sur les alliés proches avec {FAMILIARHEALTHPERCENT} % de PV et {FAMILIARATTACK} % d'attaque hérités de ce personnage."
@@ -425,6 +462,7 @@ Méga démon florissant :
 "herocard.passive_skill.inactive","EFFET INACTIF : atteignez le niveau maximal et l'évolution complète pour l'activer."
 "herocard.passive_skill.replace.minordebuff.attackmodifier.to.minorbuff.attackmodifier","Les malus d'attaque deviennent des bonus de {ATTACK} % pendant {TURNS} tours."
 "herocard.passive_skill.replace.minordebuff.buffimmunity.to.minorbuff.debuffshield","Les immunités aux bonus deviennent des immunités aux malus pendant {TURNS} tours."
+"herocard.passive_skill.replace.minordebuff.damageovertime.to.minorbuff.fixedhealthrecovery","Les effets négatifs de dégâts sur la durée deviennent des régénérations de {TOTAL} PV sur {TURNS} tours."
 "herocard.passive_skill.replace.minordebuff.defensemodifier.to.minorbuff.defensemodifier","Les malus de défense deviennent des bonus de {DEFENSE} % pendant {TURNS} tours."
 "herocard.passive_skill.replace.minordebuff.healingmodifier.to.minorbuff.healmultiplier","Les réductions de soins deviennent des bonus de {HEALING} % pendant {TURNS} tours."
 "herocard.passive_skill.replace.minordebuff.manaeffect.to.minorbuff.managenerationmodifier","Les malus de mana deviennent des bonus de {MANAREGEN} % pendant {TURNS} tours."
@@ -491,6 +529,7 @@ Méga démon florissant :
 "herocard.passive_skill.title.effectonhealsupportcharacter.troop.heal","Soins supplémentaires"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.attackmodifier","Effet de statut lors de réduction de mana"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.yellowdefensemodifier","Effet de statut lors de réduction de mana"
+"herocard.passive_skill.title.effectonownerdeath.damage.statuseffects.bleeding","Défaite déshonorante"
 "herocard.passive_skill.title.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Santé boostée et mana sur résistance"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Mana lors de compétences spéciales boostant la santé"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.on_healthboost_cast","Santé boostée lors de boost de santé ennemi"
@@ -498,6 +537,7 @@ Méga démon florissant :
 "herocard.passive_skill.title.effectonspecialskilldamagedone.bufftoremove.minordebuff.safe.only_criticals","Purification lors des coups critiques offensifs"
 "herocard.passive_skill.title.effectonspecialskilldamagedone.healthboost.only_criticals","Santé boostée lors des attaques spéciales critiques"
 "herocard.passive_skill.title.effectonspecialskilldamagereceived.healthboost.only_criticals","Santé boostée lors des attaques spéciales critiques"
+"herocard.passive_skill.title.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.directeffect1_statuseffects.defensemodifier","Grignotage"
 "herocard.passive_skill.title.effectonspecialwithchance.activates_on_enemy_action.healthboost","Boost de santé lors des compétences spéciales ennemies"
 "herocard.passive_skill.title.effectonspecialwithchance.addmana","Mana lors de la compétence spéciale"
 "herocard.passive_skill.title.effectonspecialwithchance.bufftoremove.minorbuff.latest","Dissipation lors des compétences spéciales"
@@ -514,6 +554,8 @@ Méga démon florissant :
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.managenerationmodifier","Effet appliqué lors de la compétence spéciale"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.poison","Poison lors des compétences spéciales"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.possession","Attaque irréfléchie lors de la compétence spéciale"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackingdefensemodifier","Cumul lors de la compétence spéciale"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackinghealthgeneration","Cumul lors de la compétence spéciale"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.underwater","Dégâts sur le temps lors des compétences spéciales"
 "herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.damage.faster.average.once","Dégâts lors de compétence spéciale ennemie"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.allbuffs.taunt","Mana sur provocation"
@@ -537,6 +579,7 @@ Méga démon florissant :
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","Mana lors d'invocation de démon"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.damage.enemies.parasite","Colère des familiers"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.healthboost.enemies.parasite","Santé boostée lors d'invocation de démon"
+"herocard.passive_skill.title.empowered_toon_resist_manareduction_dispels","Toon renforcé"
 "herocard.passive_skill.title.familiaraccuracymodifier.all.enemies.minion.bigminion","Aveuglement de sbires"
 "herocard.passive_skill.title.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core","Noyau sbire"
 "herocard.passive_skill.title.familiarhealthmodifier.all.enemies.bigminion.decrease","Méga sbires affaiblis"
@@ -573,7 +616,9 @@ Méga démon florissant :
 "herocard.passive_skill.title.memorizestatuseffects","Mémorisation des effets négatifs"
 "herocard.passive_skill.title.mimic_dread_damage_minions","Terreur"
 "herocard.passive_skill.title.mimiclootonlevelcompleted","Butin d'imposteur"
+"herocard.passive_skill.title.minioncorruption.all.enemies","Corruption de sbire"
 "herocard.passive_skill.title.nevermissspecial","Précision parfaite"
+"herocard.passive_skill.title.preventboostedhealth.all.enemies","Empêchement des soins boostés"
 "herocard.passive_skill.title.ransack","Opportunité du voleur"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Vol de bonus"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","Sens de chasseur"
@@ -626,6 +671,8 @@ Méga démon florissant :
 "herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","Résistance renforcée au blocage des compétences spéciales"
 "herocard.passive_skill.title.resist.stopmanageneration","Résistance à l'arrêt de génération de mana"
 "herocard.passive_skill.title.resist.water","Résistance à l'eau"
+"herocard.passive_skill.title.resist_all_attack_effects","Trait :
+Corps minuscule"
 "herocard.passive_skill.title.resist_all_defense_effects","Trait :
 Corps agile"
 "herocard.passive_skill.title.resistdebuffsfromfamiliars.minion","Résistance aux effets négatifs des sbires"
@@ -683,6 +730,9 @@ Corps agile"
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","Bonus de génération de mana avec effets négatifs"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","Masque élémentaire"
 "herocard.passive_skill.title.stylish","Élégance"
+"herocard.passive_skill.title.stylish_epic","Élégance"
+"herocard.passive_skill.title.stylish_legendary","Élégance"
+"herocard.passive_skill.title.stylish_rare","Élégance"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","Invocation de plantule"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Invocation de plantule"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Invocation de plantule"
@@ -719,16 +769,3 @@ Corps agile"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Transformation des bonus"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Transformation des effets négatifs"
 "herocard.passive_skill.title.wither.all.enemies","Flétrissement"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","À chaque tour, invoque un [#!]démon plantule[#] pour un ennemi aléatoire.
-[*]Le [#!]démon plantule[#] devient un [#!]démon jeune pousse[#] au bout de {EVOLVINGFAMILIAR1EVOLVETURNS} tours.
-[*]Le [#!]démon jeune pousse[#] devient un [#!]méga démon florissant[#] au bout de {EVOLVINGFAMILIAR2EVOLVETURNS} tours.
-[*]L'évolution du démon est retardée de {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} tour à chaque fois qu'il absorbe des soins.
-
-[#!]Démon plantule[#] :
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#] % de santé.
-
-[#!]Démon jeune pousse[#] :
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#] % de santé.
-
-[#!]Méga démon florissant[#] :
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % d'attaque, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % de santé."

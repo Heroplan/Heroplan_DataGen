@@ -39884,6 +39884,18 @@
         ]
       },
       {
+        "id": "returning_user_experience_away_90",
+        "entities": [
+          {
+            "type": "Resource",
+            "resourceResolver": {
+              "resolverType": "Fixed",
+              "resourceType": "Iron"
+            }
+          }
+        ]
+      },
+      {
         "id": "Bounty of Dreadful Arsenal",
         "entities": [
           {
@@ -42085,6 +42097,36 @@
             }
           }
         ]
+      },
+      {
+        "id": "tasklist_rue_chapter_1",
+        "entities": [
+          {
+            "type": "Resource",
+            "resourceResolver": {
+              "resolverType": "Fixed",
+              "resourceType": "Gems"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 10
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "lottery_basic"
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "trainer_rainbow_common"
+            }
+          }
+        ]
       }
     ],
     "sharedPoolLoots": [
@@ -43845,6 +43887,126 @@
           }
         ],
         "occurrenceType": "ExclusiveOnly"
+      },
+      {
+        "id": "squire_event_daily_reward_1",
+        "lootPool": [
+          {
+            "type": "Troop",
+            "rarity": 1,
+            "element": "All",
+            "amount": 1,
+            "weight": 110
+          },
+          {
+            "type": "Troop",
+            "rarity": 2,
+            "element": "All",
+            "amount": 1,
+            "weight": 74
+          },
+          {
+            "type": "Troop",
+            "rarity": 3,
+            "element": "All",
+            "amount": 1,
+            "weight": 30
+          },
+          {
+            "type": "Pre2024Hero",
+            "rarity": 3,
+            "amount": 1,
+            "weight": 80
+          },
+          {
+            "type": "Pre2024Hero",
+            "rarity": 4,
+            "amount": 1,
+            "weight": 40
+          },
+          {
+            "type": "Pre2024Hero",
+            "rarity": 5,
+            "amount": 1,
+            "weight": 22
+          },
+          {
+            "type": "TrainerHero",
+            "rarity": 1,
+            "element": "All",
+            "amount": 1,
+            "weight": 110
+          },
+          {
+            "type": "TrainerHero",
+            "rarity": 2,
+            "element": "All",
+            "amount": 1,
+            "weight": 74
+          },
+          {
+            "type": "TrainerHero",
+            "rarity": 3,
+            "element": "All",
+            "amount": 1,
+            "weight": 30
+          },
+          {
+            "type": "TrainerHero",
+            "rarity": 4,
+            "element": "All",
+            "amount": 1,
+            "weight": 10
+          },
+          {
+            "type": "BattleItem",
+            "rarity": 1,
+            "amount": 3,
+            "weight": 110
+          },
+          {
+            "type": "BattleItem",
+            "rarity": 2,
+            "amount": 3,
+            "weight": 74
+          },
+          {
+            "type": "BattleItem",
+            "rarity": 3,
+            "amount": 3,
+            "weight": 10
+          },
+          {
+            "type": "BattleItem",
+            "rarity": 4,
+            "amount": 3,
+            "weight": 2
+          },
+          {
+            "type": "AscensionItem",
+            "rarity": 1,
+            "amount": 5,
+            "weight": 110
+          },
+          {
+            "type": "AscensionItem",
+            "rarity": 2,
+            "amount": 5,
+            "weight": 74
+          },
+          {
+            "type": "AscensionItem",
+            "rarity": 3,
+            "amount": 1,
+            "weight": 30
+          },
+          {
+            "type": "AscensionItem",
+            "rarity": 4,
+            "amount": 1,
+            "weight": 10
+          }
+        ]
       }
     ],
     "guaranteedPoolLoots": [],
@@ -43903,6 +44065,9 @@
           0,
           0,
           0
+        ],
+        "allianceCoinWeights": [
+          0
         ]
       },
       {
@@ -43956,6 +44121,9 @@
           0,
           0,
           0,
+          0
+        ],
+        "allianceCoinWeights": [
           0
         ]
       },
@@ -44013,6 +44181,9 @@
           0,
           0,
           0
+        ],
+        "allianceCoinWeights": [
+          0
         ]
       },
       {
@@ -44068,6 +44239,9 @@
           0,
           0,
           0,
+          0
+        ],
+        "allianceCoinWeights": [
           0
         ]
       },
@@ -44125,6 +44299,9 @@
           0,
           0,
           0
+        ],
+        "allianceCoinWeights": [
+          0
         ]
       },
       {
@@ -44180,6 +44357,9 @@
           0,
           0,
           0,
+          0
+        ],
+        "allianceCoinWeights": [
           0
         ]
       },
@@ -44237,6 +44417,9 @@
           0,
           0,
           0
+        ],
+        "allianceCoinWeights": [
+          0
         ]
       },
       {
@@ -44291,6 +44474,9 @@
           0,
           0,
           0,
+          0
+        ],
+        "allianceCoinWeights": [
           0
         ]
       },
@@ -44347,6 +44533,9 @@
           0,
           1,
           0
+        ],
+        "allianceCoinWeights": [
+          0
         ]
       },
       {
@@ -44401,6 +44590,9 @@
           0,
           0,
           1,
+          0
+        ],
+        "allianceCoinWeights": [
           0
         ]
       }
@@ -44459,6 +44651,9 @@
           0,
           0,
           0
+        ],
+        "allianceCoinWeights": [
+          0
         ]
       },
       {
@@ -44514,6 +44709,9 @@
           0,
           0,
           0,
+          0
+        ],
+        "allianceCoinWeights": [
           0
         ]
       },
@@ -44571,6 +44769,9 @@
           0,
           0,
           0
+        ],
+        "allianceCoinWeights": [
+          0
         ]
       },
       {
@@ -44625,6 +44826,9 @@
           0,
           0,
           0,
+          0
+        ],
+        "allianceCoinWeights": [
           0
         ]
       },
@@ -44682,6 +44886,9 @@
           0,
           0,
           0
+        ],
+        "allianceCoinWeights": [
+          0
         ]
       },
       {
@@ -44738,6 +44945,294 @@
           0,
           0,
           0
+        ],
+        "allianceCoinWeights": [
+          0
+        ]
+      },
+      {
+        "id": "musketeer_aftermath_rare_blue",
+        "mapSeasonCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "challengeCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "craftingItemsWeights": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "epicHeroClassEmblemsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "resourceBundlesWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "ancientDragonCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "seasonalSpiritsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "allianceCoinWeights": [
+          1
+        ]
+      },
+      {
+        "id": "musketeer_aftermath_rare_green",
+        "mapSeasonCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "challengeCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "craftingItemsWeights": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "epicHeroClassEmblemsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "resourceBundlesWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "ancientDragonCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "seasonalSpiritsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "allianceCoinWeights": [
+          1
+        ]
+      },
+      {
+        "id": "musketeer_aftermath_rare_purple",
+        "mapSeasonCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "challengeCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "craftingItemsWeights": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "epicHeroClassEmblemsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "resourceBundlesWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "ancientDragonCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "seasonalSpiritsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "allianceCoinWeights": [
+          1
+        ]
+      },
+      {
+        "id": "musketeer_aftermath_rare_red",
+        "mapSeasonCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "challengeCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "craftingItemsWeights": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "epicHeroClassEmblemsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "resourceBundlesWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "ancientDragonCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "seasonalSpiritsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "allianceCoinWeights": [
+          1
+        ]
+      },
+      {
+        "id": "musketeer_aftermath_rare_yellow",
+        "mapSeasonCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "challengeCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "craftingItemsWeights": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "epicHeroClassEmblemsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "resourceBundlesWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "ancientDragonCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "seasonalSpiritsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "allianceCoinWeights": [
+          1
         ]
       }
     ],
@@ -47007,5 +47502,5 @@
       }
     ]
   },
-  "lootsConfigId": 3726603196
+  "lootsConfigId": 2146364252
 }

@@ -38,6 +38,7 @@ Il demone Mega Luccio assorbe la guarigione e scompare quando ha assorbito Salut
 "specials.v2.clearbuffs.minorbuff.neartotarget.enemies","Rimuove le magie benefiche dal bersaglio e dai nemici vicini."
 "specials.v2.clearbuffs.minorbuff.sides.enemies","Annulla le magie benefiche dei nemici nella parte esterna della formazione nemica."
 "specials.v2.clearbuffs.minorbuff.single.enemies","Rimuove le magie benefiche dal bersaglio."
+"specials.v2.clearbuffs.minorbuff.single.enemies.bypassremoveeffects","Annulla in sicurezza le magie benefiche dal bersaglio."
 "specials.v2.clearbuffs.minordebuff.all.allies","Annulla i disturbi di tutti gli alleati."
 "specials.v2.clearbuffs.minordebuff.all.allies.latest","Rimuove l'ultimo disturbo annullabile da tutti gli alleati."
 "specials.v2.clearbuffs.minordebuff.neartotarget.allies","Annulla i disturbi dell'evocatore e degli alleati vicini."
@@ -93,6 +94,8 @@ Il demone Mega Luccio assorbe la guarigione e scompare quando ha assorbito Salut
 "specials.v2.directeffect.reducemaxhealth.all.enemies.fixedpower","Riduce di {REDUCTION} la Salute massima di tutti i nemici. L'effetto è più forte contro bersagli con Salute potenziata."
 "specials.v2.directeffect.revival.all.allies.with_chance","Ogni alleato sconfitto ha il {CHANCE}% di probabilità di rinascere col {HEALTH}% di HP."
 "specials.v2.directeffect.shufflepositions.all.enemies","Riposiziona casualmente i nemici."
+"specials.v2.dispel.minorbuff.chain_strike","Annulla {REMOVALCOUNT} magie benefiche da ogni nemico colpito."
+"specials.v2.dispel.minorbuff.safe.chain_strike","Rimuove in sicurezza le magie benefiche da ogni nemico colpito."
 "specials.v2.familiars.statuseffect","{0}"
 "specials.v2.follower.follower_dragon_mordax.single.multiplepercharacter","Evoca {FAMILIARAMOUNT} Teste di idra con {FAMILIARHEALTH} HP per l'evocatore. Non si può impedire alle Teste di idra di essere evocate e cercare di rubare una Testa di idra è letale."
 "specials.v2.follower.follower_moreau.single.multiplepercharacter","Evoca {FAMILIARAMOUNT} Cristalli protettori con {FAMILIARHEALTH} HP per l'evocatore. Non si può impedire ai Cristalli protettori di essere evocati e cercare di rubare un Cristallo protettore è letale."
@@ -135,9 +138,8 @@ Ogni colpo del servitore ape infligge i seguenti disturbi al bersaglio:"
 "specials.v2.minion.bone_skull_minion.explode","Quando il servitore teschio d'ossa viene distrutto, infligge {FAMILIARFIXEDEXPLOSIONDAMAGE} danni a tutti i nemici."
 "specials.v2.minion.brown_puppy.all","Chiama un servitore cucciolo marrone per ogni alleato con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore."
 "specials.v2.minion.bull.single.multiplepercharacter","Chiama 3 servitori toro per l'evocatore con un {FAMILIARHEALTHPERCENT}% di HP e un {FAMILIARATTACK}% di Attacco ereditati dall'evocatore."
-"specials.v2.minion.butterfly.all","Chiama un servitore farfalla per ogni alleato, con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore.
-
-Ogni colpo del servitore farfalla infligge il seguente disturbo al bersaglio:"
+"specials.v2.minion.butterfly.all","Chiama un servitore Farfalla per ogni alleato, con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore.
+ Ogni colpo del servitore Farfalla infligge il seguente disturbo al bersaglio:"
 "specials.v2.minion.card_soldier.single","Evoca un servitore carta da gioco con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore."
 "specials.v2.minion.card_soldier_costume.single","Evoca un servitore Carta da gioco con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore."
 "specials.v2.minion.card_soldier_no_taunt.single","Evoca un servitore Carta da gioco con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore."
@@ -177,9 +179,8 @@ Il servitore Volpe furba ha il {FAMILIARDODGECHANCE}% di probabilità di schivar
 "specials.v2.minion.gargoyle_minion.all","Chiama un servitore Gargoyle per ogni alleato con un {FAMILIARHEALTHPERCENT}% di HP e un {FAMILIARATTACK}% di Attacco ereditati dall'evocatore."
 "specials.v2.minion.grimoire.all","Chiama un servitore del grimorio per ogni alleato con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore."
 "specials.v2.minion.guardian_minion_delilah_costume.all","Chiama un servitore guardiano per ogni alleato con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore."
-"specials.v2.minion.harpoon_sentry.all","Chiama un servitore sentinella con arpione per ogni alleato, con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore.
-
-Ogni colpo del servitore sentinella con arpione riduce del {FAMILIARADDMANA}% il mana del bersaglio e gli infligge il seguente disturbo:"
+"specials.v2.minion.harpoon_sentry.all","Chiama un servitore Sentinella con arpione per ogni alleato, con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore.
+ Ogni colpo del servitore Sentinella con arpione riduce del {FAMILIARADDMANA}% il mana del bersaglio e gli infligge il seguente disturbo:"
 "specials.v2.minion.holy.all","Chiama un servitore di tipo Sacro per ogni alleato con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore."
 "specials.v2.minion.holy.yellow","Collegamento elementale chiama un servitore sacro per tutti gli alleati di tipo Sacro con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore."
 "specials.v2.minion.holy_god_delilah.all","Chiama un servitore guardiano per ogni alleato con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore."
@@ -244,6 +245,7 @@ Il servitore corvo conferisce un {ATTACK}% di Attacco a tutti gli altri servitor
 "specials.v2.minion.rock_golem_minion.all","Evoca un servitore golem di pietra per ogni alleato con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore."
 "specials.v2.minion.sakura_fox","Il servitore volpe sakura eredita il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco dall'evocatore e, alla fine di ogni turno, gli conferisce il {FAMILIARADDMANA}% di mana."
 "specials.v2.minion.sakura_fox.neartotarget","Evoca un servitore volpe sakura per l'evocatore e gli alleati vicini. Il servitore volpe sakura eredita il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco dall'evocatore e, alla fine di ogni turno, gli conferisce il {FAMILIARADDMANA}% di mana."
+"specials.v2.minion.sakura_fox_costume","Evoca un servitore volpe sakura per l'evocatore e gli alleati vicini. Il servitore volpe sakura eredita il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco dall'evocatore e, alla fine di ogni turno, gli conferisce il {FAMILIARADDMANA}% di mana."
 "specials.v2.minion.sakura_fox_costume.neartotarget","Evoca un servitore volpe sakura per l'evocatore e gli alleati vicini. Il servitore volpe sakura eredita il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco dall'evocatore e, alla fine di ogni turno, gli conferisce il {FAMILIARADDMANA}% di mana."
 "specials.v2.minion.sand_golem.all","Evoca un servitore golem di sabbia per ogni alleato con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore."
 "specials.v2.minion.sand_golem_papyros_costume.all","Evoca un servitore golem di sabbia per ogni alleato con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore."
@@ -276,8 +278,7 @@ Il servitore corvo conferisce un {ATTACK}% di Attacco a tutti gli altri servitor
 "specials.v2.minion.wu_soldier.single","Chiama un servitore soldato di Wu con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore."
 "specials.v2.minion.wu_soldier_costumes.all","Chiama un servitore soldato di Wu per ogni alleato con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore."
 "specials.v2.minion.xulu_minion.all","Chiama un servitore Xulu per ogni alleato, con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore.
-
-Ogni colpo del servitore Xulu infligge il seguente disturbo al bersaglio:"
+ Ogni colpo del servitore Xulu infligge il seguente disturbo al bersaglio:"
 "specials.v2.moreau_parasite.summonedbyfamiliar","Il demone scheletro ombra infligge danni al suo bersaglio con il {FAMILIARATTACK}% di Attacco a ogni turno.
 Il demone scheletro ombra assorbe la guarigione e scompare dopo aver assorbito Salute pari al {FAMILIARHEALTHPERCENT}% della Salute massima del suo bersaglio."
 "specials.v2.moreau_parasite.to.single.enemies.summonedby.follower_moreau.hasturns","Il Cristallo protettore evoca un demone scheletro ombra per un nemico ogni {FAMILIAREFFECTFREQUENCY} turni."
@@ -503,12 +504,15 @@ Il demone Verme assorbe la guarigione e scompare dopo aver assorbito Salute pari
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets","Infligge il {DAMAGE}% di danni al bersaglio e a {MAXHITS} nemici casuali."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.minordamage.with_chance","Ha una probabilità del {CHANCE}% di sferrare colpi aggiuntivi su nemici a caso fino a un massimo di {MAXHITS} volte. I colpi aggiuntivi infliggono danni minori."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.randommaintarget","Infligge il {DAMAGE}% dei danni a {TOTALMAXHITS} nemici casuali."
+"specials.v2.property.chainstrike.allowmaintargetinrandomtargets.with_chance","Ha una probabilità del {CHANCE}% di sferrare colpi aggiuntivi su nemici a caso fino a un massimo di {MAXHITS} volte."
 "specials.v2.property.chainstrike.minordamage","Infligge danni minori extra a {MAXHITS} nemici casuali."
 "specials.v2.property.chainstrike.minordamage.with_chance","Ha una probabilità del {CHANCE}% di sferrare colpi aggiuntivi su nemici a caso fino a un massimo di {MAXHITS} volte. I colpi aggiuntivi infliggono danni minori."
 "specials.v2.property.chainstrike.randommaintarget","Infligge il {DAMAGE}% dei danni a {TOTALMAXHITS} nemici casuali."
 "specials.v2.property.chainstrikewitheffectonsametargethits.addmana.single.allies.2_outof_2","L'evocatore ottiene un {EXTRAEFFECTPOWER}% di mana se entrambi gli attacchi colpiscono lo stesso bersaglio."
 "specials.v2.property.chainstrikewitheffectonsametargethits.allowmaintargetinrandomtargets.onehit","Infligge il {DAMAGE}% di danni a un nemico a caso."
-"specials.v2.property.chainstrikewitheffectperhit.addmana.all.allies.minordamage.with_chance","Ha una probabilità del {CHANCE}% di sferrare colpi aggiuntivi su nemici a caso fino a un massimo di {MAXHITS} volte. I colpi aggiuntivi infliggono danni minori.
+"specials.v2.property.chainstrikewitheffectperhit.addmana.all.allies.moderate.minordamage.with_chance","Ha una probabilità del {CHANCE}% di sferrare colpi aggiuntivi su nemici a caso fino a un massimo di {MAXHITS} volte. I colpi aggiuntivi infliggono danni minori.
+ Tutti gli alleati ottengono una quantità moderata di mana per ogni colpo."
+"specials.v2.property.chainstrikewitheffectperhit.addmana.all.allies.small.minordamage.with_chance","Ha una probabilità del {CHANCE}% di sferrare colpi aggiuntivi su nemici a caso fino a un massimo di {MAXHITS} volte. I colpi aggiuntivi infliggono danni minori.
  Tutti gli alleati ottengono una piccola quantità di mana per ogni colpo."
 "specials.v2.property.chainstrikewitheffectperhit.all.allies.minordamage.with_chance","Ha una probabilità del {CHANCE}% di sferrare colpi aggiuntivi su nemici a caso fino a un massimo di {MAXHITS} volte. I colpi aggiuntivi infliggono danni minori."
 "specials.v2.property.chainstrikewitheffectperhit.damage.statuseffect.single.enemies.with_chance","Ha una probabilità del {CHANCE}% di sferrare colpi aggiuntivi su nemici a caso fino a un massimo di {MAXHITS} volte."
@@ -524,7 +528,7 @@ Il demone Verme assorbe la guarigione e scompare dopo aver assorbito Salute pari
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","Infligge il {DAMAGE}% di danni al bersaglio e a {MAXHITS} nemici casuali.
  Evoca un demone Piantina per ogni nemico colpito."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","Infligge il {DAMAGE}% di danni al bersaglio e a {MAXHITS} nemici casuali.
-[*] Evoca un [#!]demone Piantina[#] per ogni nemico colpito."
+ Evoca un demone Piantina per ogni nemico colpito."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","Infligge il {DAMAGE}% dei danni al beraglio e a {MAXHITS} nemici a caso.
 Chiama un demone missile per il bersaglio e per i nemici vicini. Il demone missile infligge danni al nemico con il {FAMILIARATTACK}% di Attacco a ogni turno.
 Il demone missile assorbe la guarigione e scompare quando ha assorbito Salute pari al {FAMILIARHEALTHPERCENT}% della Salute massima del suo proprietario."
@@ -642,6 +646,7 @@ I Cubi oscuri riducono di {REDUCTION} la Salute massima del bersaglio. L'effetto
 "specials.v2.property.effectonkill.statuseffect.managenerationmodifier.neartotarget.allies","Se il bersaglio viene sconfitto dall'attacco, l'evocatore e gli alleati vicini ricevono il {STATUSEFFECT1MANAREGEN}% di rigenerazione mana per {STATUSEFFECT1TURNS} turni."
 "specials.v2.property.effectonkill.statuseffect.managenerationmodifier.single.allies","Se il bersaglio viene sconfitto dall'attacco, l'evocatore riceve il {STATUSEFFECT1MANAREGEN}% di rigenerazione mana per {STATUSEFFECT1TURNS} turni."
 "specials.v2.property.effectonremovedstatuseffectspertarget.minordebuff.all.allies.effectonremoval.addmana.single","Annulla tutti i disturbi da tutti gli alleati e aumenta il Mana di tutti gli alleati di {POWER}% per ogni disturbo annullato."
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","Raccoglie magie benefiche da tutti i nemici."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","Raccolto rimuove in modo sicuro {MAXREMOVALCOUNT} magie benefiche, iterazioni positive o effetti di Crescita da ciascun bersaglio. Sono incluse le magie benefiche non rimovibili e gli effetti di Danza.
 La salute dell'evocatore viene potenziata di un {HEALTHBOOST}% per ogni effetto rimosso. La Salute potenziata può superare gli HP massimi.
 
@@ -671,6 +676,7 @@ Gli effetti di Crescita vengono rimossi per primi. Gli altri effetti vengono rim
 "specials.v2.property.effectpereatenfamiliar.damage.all.enemies.permil.minion.follower.minion.follower","Infligge il {DAMAGE}% di danni extra a tutti i nemici per ogni servitore distrutto."
 "specials.v2.property.effectpereatenfamiliar.heal.all.allies.fixed.minion.follower","Tutti gli alleati recuperano {HEALTHPERFAMILIAR} HP per ogni servitore distrutto."
 "specials.v2.property.effectpereatenfamiliar.heal.all.allies.permil.minion.follower","Tutti gli alleati recuperano il {HEALTHPERFAMILIAR}% di HP per ogni servitore distrutto."
+"specials.v2.property.effectpereatenfamiliar.heal.all.allies.permil.minion.parasite","Tutti gli alleati recuperano il {HEALTHPERFAMILIAR}% di HP per ogni servitore e demone distrutto."
 "specials.v2.property.effectpereatenfamiliar.heal.neartotarget.allies.fixed","L'evocatore e gli alleati vicini recuperano {HEALTHPERFAMILIAR} HP per ogni servitore distrutto."
 "specials.v2.property.effectpereatenfamiliar.heal.neartotarget.allies.permil","L'evocatore e gli alleati vicini recuperano il {HEALTHPERFAMILIAR}% di Salute per ogni servitore distrutto."
 "specials.v2.property.effectpereatenfamiliar.heal.single.allies.fixed","L'evocatore recupera {HEALTHPERFAMILIAR} HP per ogni servitore distrutto."
@@ -698,6 +704,8 @@ Tutti gli alleati recuperano il {POWERPERFAMILIAR}% di salute in più per ogni d
 "specials.v2.property.effectperremovedstatuseffect.addmana.neartotarget.enemies.no_base_effect","Riduce del {POWERPEREFFECT}% il mana del bersaglio e dei nemici vicini per ogni effetto di stato rimosso, fino al {MAXPOWER}% in totale."
 "specials.v2.property.effectperremovedstatuseffect.damage.all.enemies","Infligge il {BASEPOWER}% di danni a tutti i nemici.
 Infligge il {POWERPEREFFECT}% di danni aggiuntivi per ogni effetto rimosso, fino a un massimo di danni totali pari al {MAXPOWER}%."
+"specials.v2.property.effectperremovedstatuseffect.damage.single.enemies","Infligge il {BASEPOWER}% di danni al bersaglio.
+ Infligge il {POWERPEREFFECT}% di danni aggiuntivi per ogni effetto rimosso (fino a un massimo del {MAXPOWER}% di danni totali)."
 "specials.v2.property.effectperremovedstatuseffect.heal.all.allies","Fa recuperare un {BASEPOWER}% di Salute a tutti gli alleati.
 Fa recuperare un ulteriore {POWERPEREFFECT}% di Salute per effetto di stato rimosso, fino a un {MAXPOWER}% di Salute totale."
 "specials.v2.property.effectperremovedstatuseffect.heal.all.allies.no_base_effect","Fa recuperare il {POWERPEREFFECT}% di Salute a tutti gli alleati per ogni effetto di stato rimosso, fino a un massimo del {MAXPOWER}% di Salute totale."
@@ -847,7 +855,7 @@ Tale variazione è influenzata da Crescita e Avvizzimento.
 Le magie benefiche e i disturbi che influenzano Attacco e Difesa non hanno effetto sulla variazione dei danni."
 "specials.v2.property.pre.alwayshit","Questa Abilità speciale non manca mai il bersaglio."
 "specials.v2.property.pre.eatfamiliars.all.allies.parasite","Distrugge tutti i demoni di tutti gli alleati."
-"specials.v2.property.pre.eatfamiliars.all.allies.parasite.bigparasite","Distrugge tutti i demoni di tutti gli alleati. Questo effetto infligge danni ai demoni Mega."
+"specials.v2.property.pre.eatfamiliars.all.allies.parasite.bigparasite","Distrugge tutti i demoni di tutti gli alleati e infligge danni a tutti i demoni Mega."
 "specials.v2.property.pre.eatfamiliars.all.allies.parasite.replacewith.gargoyle_minion","Sostituisce tutti i demoni su tutti gli alleati con servi Gargoyle."
 "specials.v2.property.pre.eatfamiliars.all.allies.parasite.replacewith.jellyfish_minion","Sostituisce tutti i demoni su tutti gli alleati con servi medusa."
 "specials.v2.property.pre.eatfamiliars.all.allies.parasite.replacewith.jellyfish_minion_costume2","Sostituisce tutti i demoni su tutti gli alleati con servi medusa."
@@ -972,6 +980,7 @@ Ogni scudo di tipo Sacro sul campo di battaglia aumenta del {CHANCEPERTILE}% le 
 "specials.v2.property.secondarydirecteffect.damage.all.enemies","Infligge il {SECONDARYPOWER}% di danni a tutti i nemici."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_abigail","Infligge un {SECONDARYPOWER}% di danni e causa {STATUSEFFECT1INSANITYTOADD} di Follia a tutti i nemici."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_ambrose","Infligge un {SECONDARYPOWER}% di danni e causa {STATUSEFFECT1INSANITYTOADD} di Follia a tutti i nemici."
+"specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_azureus","Infligge un {SECONDARYPOWER}% di danni e causa {STATUSEFFECT1INSANITYTOADD} di Follia a tutti i nemici."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_cultist_villager_female","Infligge un {SECONDARYPOWER}% di danni e causa {STATUSEFFECT1INSANITYTOADD} di Follia a tutti i nemici."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_gwendoline_changed_appearance","Infligge un {SECONDARYPOWER}% di danni e causa {STATUSEFFECT1INSANITYTOADD} di Follia a tutti i nemici."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_on_damage_khatrox","Infligge un {SECONDARYPOWER}% di danni e causa {STATUSEFFECT1INSANITYTOADD} di Follia a tutti i nemici."
@@ -1060,6 +1069,7 @@ Se il bersaglio non ha un'Abilità speciale, o se non può essere copiata, verr�
 "specials.v2.property.statuseffectreallocation.from.all.enemies.to.single.allies","Ruba tutte le magie benefiche annullabili da tutti i nemici e le trasferisce all'evocatore."
 "specials.v2.property.statuseffectreallocation.from.neartotarget.allies.to.all.enemies","Rimuove tutti i disturbi annullabili dall'evocatore e dagli alleati vicini e li distribuisce casualmente tra i nemici."
 "specials.v2.property.statuseffectreallocation.from.neartotarget.enemies.to.all.allies","Ruba tutte le magie benefiche annullabili dal bersaglio e dai nemici vicini, e le distribuisce casualmente tra gli alleati."
+"specials.v2.property.statuseffectreallocation.from.neartotarget.enemies.to.all.allies.customreallocationcount.multiple","Ruba {CUSTOMREALLOCATIONCOUNT} magie benefiche a caso annullabili dal bersaglio e dai nemici vicini, e le distribuisce casualmente tra gli alleati."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.all.allies","Ruba tutte le magie benefiche annullabili dal bersaglio e le distribuisce casualmente tra gli alleati."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.neartotarget.allies","Ruba tutte le magie benefiche annullabili dal bersaglio e le distribuisce casualmente tra l'evocatore e gli alleati vicini."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.single.allies.customreallocationcount","Ruba l'ultima magia benefica annullabile dal bersaglio e la conferisce all'evocatore."
@@ -1081,6 +1091,7 @@ Infligge un {POWERPERALLOCATION}% di danni aggiuntivi per ogni magia benefica di
 "specials.v2.property.statuseffectreallocationwithfallbackeffect.from.all.enemies.to.all.allies.customreallocationcount","Ruba l'ultima magia benefica degli effetti di stato annullabile a tutti i nemici e la distribuisce casualmente tra gli alleati."
 "specials.v2.property.statuseffecttagconditionrepeatspecial.extra","Se il bersaglio è sconfitto, l'abilità speciale non viene lanciata nuovamente."
 "specials.v2.property.statuseffecttagconditionrepeatspecial.freezing_power_hooks.random","Se il bersaglio è stato colpito dal Gelo, Ganci potenti congelanti verrà ripetuto una volta su un bersaglio casuale."
+"specials.v2.property.statuseffecttagconditionrepeatspecial.the_scent_of_blood","Se il bersaglio è stato colpito da Sanguinamento, L'odore del sangue verrà rilanciata una volta sul bersaglio."
 "specials.v2.property.statuseffecttransform.all.allies.minordebuff.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Tutti i disturbi che influenzano l'Attacco, la Difesa e la rigenerazione mana di tutti gli alleati vengono trasformati in magie benefiche corrispondenti non annullabili."
 "specials.v2.property.statuseffecttransform.all.enemies.minorbuff.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Tutte le magie benefiche che influenzano l'Attacco, la Difesa e la rigenerazione mana di tutti i nemici vengono trasformate in disturbi corrispondenti non rimovibili."
 "specials.v2.property.statuseffecttransform.minorbuff.attackmodifier.defensemodifier.managenerationmodifier.extra","La trasformazione non può essere bloccata dagli effetti di stato, dagli effetti delle famiglie o dalle abilità passive.
@@ -1112,28 +1123,28 @@ Effetti trasformati:
  I nemici con servitori o servitori Mega ricevono il {STATUSEFFECT1DEFENSE}% di Difesa per {STATUSEFFECT1TURNS} turni."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","Infligge il {POWERFORTARGETSTHATMEETCONDITION}% di danni ai nemici con magie benefiche difensive, servitori o servitori Mega.
  I nemici con magie benefiche difensive, servitori o servitori Mega ricevono il {STATUSEFFECT1DEFENSE}% di Difesa per {STATUSEFFECT1TURNS} turni."
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","Il [#!]demone Piantina[#] si evolve in un [#!]demone Alberello[#] dopo {EVOLVINGFAMILIAR1EVOLVETURNS} turni.
-[*] Il [#!]demone Alberello[#] si evolve in un [#!]demone Mega Fiore[#] dopo {EVOLVINGFAMILIAR2EVOLVETURNS} turni.
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","Il demone Piantina si evolve in un demone Alberello dopo {EVOLVINGFAMILIAR1EVOLVETURNS} turni.
+ Il demone Alberello si evolve in un demone Mega Fiore dopo {EVOLVINGFAMILIAR2EVOLVETURNS} turni.
 
-[*] [#!]Demone Piantina[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] di Salute.
-[*] [#!]Demone Alberello[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] di Salute.
-[*] [#!]Demone Mega Fiore[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] di Attacco, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] di Salute.
+ Demone Piantina: {EVOLVINGFAMILIAR1FAMILIARATTACK}% di Attacco, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% di Salute.
+ Demone Alberello: {EVOLVINGFAMILIAR2FAMILIARATTACK}% di Attacco, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% di Salute.
+ Demone Mega Fiore: {EVOLVINGFAMILIAR3FAMILIARATTACK}% di Attacco, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% di Salute.
 
-[*] Un demone danneggia il suo bersaglio a ogni turno. Un demone scompare dopo aver assorbito la guarigione. La quantità di guarigione richiesta varia in base alla Salute massima del bersaglio.
-[*] L'evoluzione dei demoni viene ritardata di {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno ogni volta che assorbe guarigione."
+ Un demone danneggia il suo bersaglio a ogni turno. Un demone scompare dopo aver assorbito la guarigione. La quantità di guarigione richiesta varia in base alla Salute massima del bersaglio.
+ L'evoluzione dei demoni viene ritardata di {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno ogni volta che assorbe guarigione."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","Se il bersaglio ha demoni o demoni Mega, infligge un {DAMAGE}% di danni a un nemico diverso a caso.
 Evoca un demone Piantina su ciascun nemico colpito."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","Se il bersaglio ha demoni o demoni Mega, infligge un {DAMAGE}% di danni a un nemico diverso a caso.
 Evoca un demone Piantina su ciascun nemico colpito."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.parasite.bigparasite.evolving_root_rot_fiend","Se il bersaglio ha demoni o demoni Mega, infligge un {DAMAGE}% di danni a un nemico diverso a caso.
 Evoca un demone Piantina su ciascun nemico colpito."
-"specials.v2.property.targethealthdependantextradamage.over_health_boundary.all","Infligge il {DAMAGEMULTIPLIER}% di danni ai nemici con più del {HEALTHBOUNDARY}% di Salute rimasta."
-"specials.v2.property.targethealthdependantextradamage.over_health_boundary.neartotarget","Infligge il {DAMAGEMULTIPLIER}% di danni ai nemici con più del {HEALTHBOUNDARY}% di Salute rimasta."
-"specials.v2.property.targethealthdependantextradamage.over_health_boundary.single","Infligge il {DAMAGEMULTIPLIER}% di danni se il bersaglio ha più del {HEALTHBOUNDARY}% di Salute rimasta."
-"specials.v2.property.targethealthdependantextradamage.under_health_boundary.all","Infligge il {DAMAGEMULTIPLIER}% di danni ai nemici con meno del {HEALTHBOUNDARY}% di Salute rimasta."
-"specials.v2.property.targethealthdependantextradamage.under_health_boundary.neartotarget","Infligge il {DAMAGEMULTIPLIER}% di danni ai nemici con meno del {HEALTHBOUNDARY}% di Salute rimasta."
+"specials.v2.property.targethealthdependantextradamage.over_health_boundary.all","Se i nemici hanno più del {HEALTHBOUNDARY}% di Salute rimasta, infligge il {DAMAGEMULTIPLIER}% di danni."
+"specials.v2.property.targethealthdependantextradamage.over_health_boundary.neartotarget","Se i nemici hanno più del {HEALTHBOUNDARY}% di Salute rimasta, infligge il {DAMAGEMULTIPLIER}% di danni."
+"specials.v2.property.targethealthdependantextradamage.over_health_boundary.single","Se il bersaglio ha più del {HEALTHBOUNDARY}% di Salute rimasta, infligge il {DAMAGEMULTIPLIER}% di danni."
+"specials.v2.property.targethealthdependantextradamage.under_health_boundary.all","Se i nemici hanno meno del {HEALTHBOUNDARY}% di Salute rimasta, infligge il {DAMAGEMULTIPLIER}% di danni."
+"specials.v2.property.targethealthdependantextradamage.under_health_boundary.neartotarget","Se i nemici hanno meno del {HEALTHBOUNDARY}% di Salute rimasta, infligge il {DAMAGEMULTIPLIER}% di danni."
 "specials.v2.property.targethealthdependantextradamage.under_health_boundary.neartotargetminor","Infligge danni extra ai nemici con meno del {HEALTHBOUNDARY}% di Salute rimasta."
-"specials.v2.property.targethealthdependantextradamage.under_health_boundary.single","Infligge il {DAMAGEMULTIPLIER}% di danni se il bersaglio ha meno del {HEALTHBOUNDARY}% di Salute rimasta."
+"specials.v2.property.targethealthdependantextradamage.under_health_boundary.single","Se il bersaglio ha meno del {HEALTHBOUNDARY}% di Salute rimasta, infligge il {DAMAGEMULTIPLIER}% di danni."
 "specials.v2.property.thresholdaftereffectchainstrike.allowmaintargetinrandomtargets.target_random.allow_duplicates.over_mana_threshold","Se il bersaglio ha più del {THRESHOLD1}% di mana dopo la riduzione del mana, l'Abilità speciale si ripete bersagliando un nemico a caso. I danni vengono ridotti a ogni colpo consecutivo."
 "specials.v2.property.thresholdaftereffectchainstrike.over_mana_threshold","Se il bersaglio ha più del {THRESHOLD1}% di mana dopo la riduzione del mana, l'Abilità speciale si ripete bersagliando un nemico a caso. I danni vengono ridotti a ogni colpo consecutivo."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold","Se il bersaglio aveva più del {THRESHOLD1}% di Salute prima di subire i danni, prende di mira un altro nemico che aveva più del {THRESHOLD2}% di Salute prima di subire i danni da questa Abilità speciale. Se nessuno degli altri nemici aveva il {THRESHOLD3}% di Salute, il bersaglio sarà un nemico a caso. I danni si riducono a ogni colpo consecutivo. Ogni nemico può essere colpito una sola volta."
@@ -1243,6 +1254,7 @@ Quando l'evocatore esce allo scoperto, infligge {DAMAGE} danni a tutti i nemici 
 "specials.v2.statuseffect.major.baldurstatuseffectskill.single.allies.on.turnend.damage.random.enemies.while.caster.allies.boostedhealth","Finché l'evocatore ha la Salute potenziata, infligge il {POWER1}% di danni a un nemico a caso alla fine di ogni turno. Questo effetto non può essere annullato."
 "specials.v2.statuseffect.major.berserkdefense.neartotarget.allies","L'evocatore e gli alleati vicini ricevono il {DEFENSE}% di Difesa, che aumenta del {CHANGE}% ogni volta che vengono colpiti nel corso di {TURNS} turni, fino a un massimo del {MAXMODIFIER}%. Questo effetto non può essere annullato."
 "specials.v2.statuseffect.major.berserkdefense.single.allies","L'evocatore riceve il {DEFENSE}% di Difesa, che aumenta del {CHANGE}% ogni volta che viene colpito nel corso di {TURNS} turni, fino a un massimo del {MAXMODIFIER}%. Questo effetto non può essere annullato."
+"specials.v2.statuseffect.major.bluedefensemodifier.single.allies","L'Eroe riceve il {DEFENSE}% di Difesa da Ghiaccio per {TURNS} turni. Questo effetto non può essere rimosso."
 "specials.v2.statuseffect.major.buffimmunity.neartotarget.enemies","Il bersaglio e i nemici vicini sono immuni a nuove magie benefiche degli effetti di stato per {TURNS} turni. Questo effetto è annullabile."
 "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration","Tutti gli alleati infliggono {DAMAGE} - {MAXDAMAGE} danni a un nemico casuale dopo {TURNS} turni, in base ai danni subiti dagli alleati mentre questo effetto era attivo. Questo effetto non può essere annullato."
 "specials.v2.statuseffect.major.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death","Infligge {DAMAGE} - {MAXDAMAGE} danni a tutti i nemici dopo {TURNS} turni o se l'evocatore viene sconfitto, in base ai danni subiti dall'evocatore mentre questo effetto era attivo. Questo effetto non può essere annullato."
@@ -1431,6 +1443,7 @@ Quando la forma di Fantasma spietato termina, il personaggio subisce {REMOVALEFF
 "specials.v2.statuseffect.major.elementlinkyellowdefensemodifier.purple.allies","Collegamento elementale fornisce a tutti gli alleati Oscurità {DEFENSE}% Difesa da Sacro per {TURNS} turni. Questo effetto non può essere annullato."
 "specials.v2.statuseffect.major.elementmirror.red.all.allies","Tutti gli alleati riflettono contro l'assalitore tutti i disturbi e il {DEFLECTION}% dei danni. Inoltre, bloccano gli altri effetti negativi causati dalle Abilità speciali di tipo Fuoco dei nemici per {TURNS} turni. Questo effetto non può essere annullato."
 "specials.v2.statuseffect.major.elementmirror.red.neartotarget.allies","L'evocatore e gli alleati vicini riflettono contro l'assalitore tutti i disturbi e il {DEFLECTION}% dei danni. Inoltre, bloccano gli altri effetti negativi causati dalle Abilità speciali di tipo Fuoco dei nemici per {TURNS} turni. Questo effetto non può essere annullato."
+"specials.v2.statuseffect.major.elementswap.all.enemies.red","L'elemento di tutti i nemici cambia in Fuoco per {TURNS} turni. Questo effetto non può essere annullato."
 "specials.v2.statuseffect.major.ethereal.single.allies","L'evocatore assume la forma di Spettro per {TURNS} turni.
  Mentre è nella forma di Spettro, l'evocatore riceve il {ATTACK}% di Attacco."
 "specials.v2.statuseffect.major.fieryfortunedancemultieffect.neartotargetexceptcaster.allies.fiery_fortune_dance","Gli alleati vicini ballano la Danza della fortuna ardente per {TURNS} turni.
@@ -1548,6 +1561,18 @@ Difesa ridotta.
 Abilità speciale devastante: Colpo feroce.
 Questo effetto non può essere annullato."
 "specials.v2.statuseffect.major.revive.resurrectmajor.allexceptcaster.allies","Se un alleato qualsiasi, eccetto l'evocatore, viene sconfitto nei prossimi {TURNS} turni, viene rianimato all'inizio del suo turno successivo con il {HEALTH}% di Salute. Tutti gli effetti di stato e le iterazioni vengono rimossi quando l'alleato viene sconfitto. Questo effetto non può essere annullato."
+"specials.v2.statuseffect.major.revive.reviveatomoscute.single.allies","Se l'evocatore viene sconfitto nei prossimi {TURNS} turni, viene rianimato all'inizio del suo turno successivo con il {HEALTH}% di Salute. Tutti gli effetti di stato e le iterazioni vengono rimossi al momento della sconfitta. Questo effetto non può essere annullato."
+"specials.v2.statuseffect.major.revive.reviveslime.neartotarget.allies","L'evocatore e gli alleati vicini ricevono Rinascita Slime per {TURNS} turni. Questo effetto non può essere annullato.
+ Se viene sconfitto mentre Rinascita Slime è attiva, il personaggio rinascerà come Slime.
+
+Slime
+ {HEALTH}% di Salute ereditata.
+ {CHANGEDAPPEARANCEATTACK}% di Attacco.
+ {CHANGEDAPPEARANCEDEFENSE}% di Difesa.
+ Abilità speciale: {CHANGEDAPPEARANCEREPLACEDSPECIALTITLE}.
+ Questo effetto non può essere annullato.
+
+Se lo Slime non viene sconfitto entro {CHANGEDAPPEARANCETURNS} turni, rinascerà come forma originale del personaggio, ereditando la Salute e il mana dello Slime."
 "specials.v2.statuseffect.major.revive.reviveslime.single.allies","L'evocatore riceve Rinascita Slime per {TURNS} turni. Questo effetto non può essere annullato.
  Se viene sconfitto mentre Rinascita Slime è attiva, l'evocatore rinascerà come Slime.
 
@@ -1848,7 +1873,6 @@ Danza della fortuna vibrante
 "specials.v2.statuseffect.minor.bluedefensemodifier.neartotarget.allies","L'evocatore e gli alleati vicini ricevono il {DEFENSE}% di Difesa da Ghiaccio per {TURNS} turni."
 "specials.v2.statuseffect.minor.bluedefensemodifier.neartotarget.enemies","Il bersaglio e i nemici vicini ricevono {DEFENSE}% Difesa da Ghiaccio per {TURNS} turni."
 "specials.v2.statuseffect.minor.bluedefensemodifier.red.enemies","Tutti i nemici di tipo Fuoco ricevono il {DEFENSE}% di Difesa contro il tipo Ghiaccio per {TURNS} turni."
-"specials.v2.statuseffect.minor.bluedefensemodifier.single.allies","L'evocatore riceve il {DEFENSE}% di Difesa da Ghiaccio per {TURNS} turni."
 "specials.v2.statuseffect.minor.bluedefensemodifier.single.enemies","Il bersaglio riceve {DEFENSE}% Difesa da Ghiaccio per {TURNS} turni."
 "specials.v2.statuseffect.minor.bonetossstatuseffectskill.single.allies.on.turnend.damage.random.enemies.summonfamiliar.random.enemies.fox_skeleton_fiend.with_chance","Alla fine di ogni turno, l'evocatore esegue un Lancio d'ossa contro un nemico casuale per {TURNS} turni.
 Ogni Lancio d'ossa infligge il {POWER1}% di danni.
@@ -1886,6 +1910,7 @@ Ogni Lancio d'ossa infligge il {POWER1}% di danni.
 "specials.v2.statuseffect.minor.burn.green.enemies","Tutti i nemici di tipo Natura subiscono {DAMAGE} danni da ustione nel corso di {TURNS} turni."
 "specials.v2.statuseffect.minor.burn.neartotarget.enemies","Il bersaglio e i nemici vicini subiscono {DAMAGE} danni da ustione nell'arco di {TURNS} turni."
 "specials.v2.statuseffect.minor.burn.neartotarget.enemies.absorb_boostedhealth.to.all","Il bersaglio e i nemici vicini subiscono {DAMAGE} danni da ustione nel corso di {TURNS} turni. L'evocatore e tutti i suoi alleati assorbono il {ABSORBHEALING}% di danni da ustione inflitti come Salute potenziata."
+"specials.v2.statuseffect.minor.burn.neartotarget.enemies.absorb_healing.to.all","Il bersaglio e i nemici vicini subiscono {DAMAGE} danni da ustione nel corso di {TURNS} turni. L'evocatore e tutti i suoi alleati assorbono il {ABSORBHEALING}% di danni da ustione inflitti come Salute."
 "specials.v2.statuseffect.minor.burn.neartotarget.enemies.absorb_healing.to.single","Il bersaglio e i nemici vicini subiscono {DAMAGE} danni da ustione nel corso di {TURNS} turni. L'evocatore assorbe il {ABSORBHEALING}% di danni da ustione inflitti come Salute."
 "specials.v2.statuseffect.minor.burn.neartotarget.enemies.noturns","Il bersaglio e i nemici vicini ricevono {DAMAGE} danni da ustione permanenti per turno."
 "specials.v2.statuseffect.minor.burn.purple.enemies","Tutti i nemici di tipo Oscurità subiscono {DAMAGE} danni da ustione nel corso di {TURNS} turni."
@@ -1904,6 +1929,7 @@ Ogni Lancio d'ossa infligge il {POWER1}% di danni.
 "specials.v2.statuseffect.minor.changingmanageneration.neartotarget.enemies","La rigenerazione mana del bersaglio e dei nemici vicini viene ridotta del {CHANGE}% a ogni turno per {TURNS} turni."
 "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Tutti gli alleati ottengono il {ATTACK}% di Attacco normale per {TURNS} turni. L'Attacco normale aumenta del {CHANGE}% a ogni turno. Questo effetto può essere attivo insieme agli effetti che alterano l'Attacco in generale. Gli attacchi normali possono avere un aumento massimo totale del {MAXATTACK}% della potenza mentre questo effetto è attivo."
 "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","L'evocatore ottiene {ATTACK}% di attacco normale per {TURNS} turni. L'attacco normale viene aumentato del {CHANGE}% ogni turno. Questo effetto può essere attivo in aggiunta agli effetti che modificano l'attacco in generale. Gli attacchi normali possono avere un massimo di {MAXATTACK}% di potenza aumentata mentre questo effetto è attivo."
+"specials.v2.statuseffect.minor.constantmanasteal.single.enemies.chain_strike","L'evocatore ruba il {CURRENTMANASTEAL}% del mana generato dai nemici colpiti nel corso di {TURNS} turni. Questo effetto viene eliminato se l'evocatore viene sconfitto."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier","Tutti i nemici subiscono Ustione corrosiva per {TURNS} turni. Ustione corrosiva infligge {DAMAGEPERTURN} danni da ustione e riduce del {CHANGE}% a ogni turno la Difesa del bersaglio."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier.extra_minion_damage.minion.bigminion.extra_minion_damage.minion.bigminion","Tutti i nemici subiscono Ustione corrosiva per {TURNS} turni. Ustione corrosiva infligge {DAMAGEPERTURN} danni da ustione e riduce del {CHANGE}% a ogni turno la Difesa del bersaglio. Infligge danni extra agli Eroi con servitori o con un servitore Mega."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier.extra_minion_damage.minion.bigminion.follower.extra_minion_damage.minion.bigminion.follower","Tutti i nemici subiscono Ustione corrosiva per {TURNS} turni. Ustione corrosiva infligge {DAMAGEPERTURN} danni da ustione e riduce del {CHANGE}% a ogni turno la Difesa del bersaglio. Infligge danni extra agli Eroi con servitori o con un servitore Mega."
@@ -2027,6 +2053,7 @@ Ogni Lancio d'ossa infligge il {POWER1}% di danni.
 "specials.v2.statuseffect.minor.dispel.neartotarget.enemies.minorbuff","Annulla le magie benefiche dal bersaglio e dai nemici vicini alla fine di ogni turno per {TURNS} turni."
 "specials.v2.statuseffect.minor.dispel.single.allies.minordebuff","Annulla i disturbi dell'evocatore al termine di ogni turno, per {TURNS} turni."
 "specials.v2.statuseffect.minor.dispel.single.enemies.minorbuff","Annulla le magie benefiche dal bersaglio al termine di ogni turno, per {TURNS} turni."
+"specials.v2.statuseffect.minor.dispel.single.enemies.minorbuff.chain_strike","Annulla le magie benefiche da ogni nemico colpito alla fine di ogni turno per {TURNS} turni."
 "specials.v2.statuseffect.minor.dispelimmunity.all.allies","Tutti gli alleati sono immuni dall'annullamento delle magie benefiche e dalle riallocazioni per {TURNS} turni."
 "specials.v2.statuseffect.minor.dispelimmunity.neartotarget.allies","L'evocatore e gli alleati vicini sono immuni dall'annullamento delle magie benefiche e dalle riallocazioni per {TURNS} turni."
 "specials.v2.statuseffect.minor.dispelimmunity.single.allies","L'evocatore è immune dall'annullamento delle magie benefiche e dalle riallocazioni per {TURNS} turni."
@@ -2185,6 +2212,7 @@ Ogni moneta infligge un {POWER1}% di danni."
 "specials.v2.statuseffect.minor.healmultiplier.neartotarget.enemies","Il bersaglio e i nemici vicini ricevono un aumento del {HEALING}% alle cure ricevute per {TURNS} turni."
 "specials.v2.statuseffect.minor.healmultiplier.neartotarget.enemies.decrease","Il bersaglio e i nemici vicini subiscono una riduzione del {HEALING}% alle cure ricevute per {TURNS} turni."
 "specials.v2.statuseffect.minor.healmultiplier.neartotargetminor.enemies.decrease","Il bersaglio subisce una riduzione del {HEALING}% e i nemici vicini del {MINORHEALING}% a qualsiasi guarigione ricevuta per {TURNS} turni."
+"specials.v2.statuseffect.minor.healmultiplier.sides.enemies.decrease","I nemici ai confini della formazione nemica ricevono il {HEALING}% di guarigione per {TURNS} turni."
 "specials.v2.statuseffect.minor.healmultiplier.single.enemies","Il bersaglio riceve un aumento del {HEALING}% alle cure ricevute per {TURNS} turni."
 "specials.v2.statuseffect.minor.healmultiplier.single.enemies.decrease","Il bersaglio subisce una riduzione del {HEALING}% alle cure ricevute per {TURNS} turni."
 "specials.v2.statuseffect.minor.healmultiplier.single.enemies.decrease.resetondirectspecialdamage","Il bersaglio riceve {HEALING}% di riduzione per ogni cura ricevuta per {TURNS} turni. La durata dell'effetto si ripristina se il bersaglio subisce danni diretti da un'Abilità speciale."
@@ -2224,6 +2252,8 @@ Ogni moneta infligge un {POWER1}% di danni."
 "specials.v2.statuseffect.minor.increasingproportionalmanarecovery.neartotargetexceptcaster.allies","Gli alleati vicini ricevono mana a ogni turno per {TURNS} turni. Il mana ricevuto aumenta a ogni turno fino all'ultimo, in cui il mana conferito è pari al {MAXMANAPERTURN}%."
 "specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.allexceptcaster.allies.removeonspecialcast","Tutti gli alleati tranne l'evocatore ottengono il {POWER}% di potenza d'attacco aggiuntiva per la prossima Abilità speciale che lanciano. La potenza d'attacco aggiuntiva aumenta del {INCREASEPERTURN}% a ogni turno, fino a un massimo del {MAXPOWERADDITION}% in totale."
 "specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.single.allies.removeonspecialcast","L'evocatore ottiene il {POWER}% di potenza d'attacco aggiuntiva per la prossima Abilità speciale che lancia. La potenza d'attacco aggiuntiva aumenta del {INCREASEPERTURN}% a ogni turno, fino a un massimo del {MAXPOWERADDITION}% in totale."
+"specials.v2.statuseffect.minor.ingeniousbomb.single.enemies.onremoval.damage.neartotarget.allies.expiration.replacesamestatuseffect.death.override","Il bersaglio riceve una Bomba ingegnosa. Dopo {TURNS} turni, la Bomba ingegnosa esplode e infligge {DAMAGE} danni al proprietario e agli alleati vicini. La Bomba ingegnosa esplode anche se viene sostituita o se il proprietario viene sconfitto."
+"specials.v2.statuseffect.minor.ingeniousstabilizer.random.allies.onremoval.heal.neartotarget.allies.expiration.replacesamestatuseffect.death.override","Un alleato casuale riceve uno Stabilizzatore ingegnoso. Dopo {TURNS} turni, lo Stabilizzatore ingegnoso si attiva e fa recuperare il {POWER}% di Salute al proprietario e gli alleati vicini. Lo Stabilizzatore ingegnoso si attiva anche se viene sostituito o se il proprietario viene sconfitto."
 "specials.v2.statuseffect.minor.insanityonhit.single.allies","Per {TURNS} turni successivi, l'evocatore infligge {STATUSEFFECT1INSANITYTOADD} di Follia a tutti i nemici ogni volta che viene colpito. L'effetto si attiva quando il nemico infligge danni con Abilità speciali. Le caselle e gli attacchi normali sono limitati a una volta per turno."
 "specials.v2.statuseffect.minor.invisible.single.allies.all.enemies.expiration.while.caster.allies.hastargetableallies","Se l'evocatore ha alleati disponibili, non è bersagliabile per {TURNS} turni. Infligge {FIXEDPOWER} danni a tutti i nemici dopo l'ultimo turno o quando l'evocatore diventa l'ultimo personaggio bersagliabile."
 "specials.v2.statuseffect.minor.lifesteal.all.allies","Tutti gli alleati curano {LIFESTEAL}% dei danni normali inferti per {TURNS} turni."
@@ -2272,6 +2302,7 @@ Ogni moneta infligge un {POWER1}% di danni."
 "specials.v2.statuseffect.minor.manaonremoval.single.enemies.onremoval.addmana.all.enemies.death","Se il bersaglio viene sconfitto nei prossimi {TURNS} turni, tutti gli alleati dell'evocatore ottengono il {MANA}% di mana."
 "specials.v2.statuseffect.minor.manaonremovalmanagenerationmodifier.all.allies.onremoval.addmana.single.allies","Tutti gli alleati ottengono il {MANAREGEN}% di rigenerazione del mana per {TURNS} turni. Se l'effetto viene rimosso prima della fine della durata, il bersaglio con l'effetto ottiene il {MANA}% di mana."
 "specials.v2.statuseffect.minor.manaonremovalmanagenerationmodifier.all.enemies.onremoval.addmana.single.allies.decrease","Tutti i nemici ottengono il {MANAREGEN}% di rigenerazione del mana per {TURNS} turni. Se l'effetto viene rimosso prima della fine della durata, il mana del bersaglio con l'effetto viene ridotto del {MANA}%."
+"specials.v2.statuseffect.minor.manaovertime.all.allies","Per i prossimi {TURNS} turni, tutti gli alleati ricevono il {MANAMODIFIERPERTURN}% di mana alla fine del turno."
 "specials.v2.statuseffect.minor.manaovertime.all.enemies.decrease","Per {TURNS} turni, riduce del {MANAMODIFIERPERTURN}% il mana di tutti i nemici alla fine del turno."
 "specials.v2.statuseffect.minor.manaovertime.allexceptcaster.allies","Per i prossimi {TURNS} turni, tutti gli alleati, tranne l'evocatore, ricevono il {MANAMODIFIERPERTURN}% di mana alla fine del turno."
 "specials.v2.statuseffect.minor.manaovertime.moderate.all.allies","Tutti gli alleati ricevono una quantità moderata di mana nel corso di {TURNS} turni."
@@ -2295,6 +2326,9 @@ Ogni Raggio lunare riduce del {ABSPOWER2}% il mana del nemico colpito."
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.single.allies.on.turnend.damage.random.enemies.addmana.random.enemies","Alla fine di ogni turno, l'evocatore spara un Raggio lunare contro un nemico a caso per {TURNS} turni.
 Ogni Raggio lunare infligge il {POWER1}% di danni.
 Ogni Raggio lunare riduce del {ABSPOWER2}% il mana del nemico colpito."
+"specials.v2.statuseffect.minor.moonbeamstatuseffectskill.single.allies.on.turnend.damage.random.enemies.reducemaxhealth.random.enemies.with_chance","Alla fine di ogni turno, l'evocatore spara un Raggio astrale contro un nemico a caso per {TURNS} turni.
+ Ogni Raggio astrale infligge il {POWER1}% di danni.
+ Ogni Raggio astrale riduce di {REDUCTION2} la Salute massima del nemico colpito."
 "specials.v2.statuseffect.minor.moonriseward.all.allies.decrease.specialskill.statuseffectskill.green","Tutti gli alleati ricevono una Guardia Firestorm per {TURNS} turni, che riduce di un massimo di {MAX} i danni degli attacchi con Abilità speciale. Riduce i danni di un ulteriore {ADDITIONALDAMAGEMODIFIER}% se l'attaccante è di elemento Natura."
 "specials.v2.statuseffect.minor.moonriseward.all.allies.decrease.specialskill.statuseffectskill.red","Tutti gli alleati ricevono una Guardia della Caduta dei ghiacci per {TURNS} turni, che riduce di un massimo di {MAX} i danni degli attacchi con Abilità speciale. Riduce i danni di un ulteriore {ADDITIONALDAMAGEMODIFIER}% se l'attaccante è di elemento Fuoco."
 "specials.v2.statuseffect.minor.moonriseward.all.allies.decrease.specialskill.statuseffectskill.yellow","Tutti gli alleati ricevono una Guardia della Levata della luna per {TURNS} turni, che riduce di un massimo di {MAX} i danni degli attacchi con Abilità speciale. Riduce i danni di un ulteriore {ADDITIONALDAMAGEMODIFIER}% se l'attaccante è di elemento Sacro."
@@ -2320,6 +2354,12 @@ Ogni Raggio lunare riduce del {ABSPOWER2}% il mana del nemico colpito."
 "specials.v2.statuseffect.minor.normalattackreceiveddamagemodifier.neartotargetminor.enemies","Il bersaglio subisce il {DAMAGEMODIFIER}% di danni aumentati dagli attacchi normali e i nemici vicini subiscono il {MINORDAMAGEMODIFIER}% di danni dagli attacchi normali per 3 turni."
 "specials.v2.statuseffect.minor.painempathy.sides.enemies","Per {TURNS} turni, i nemici ai confini della formazione ricevono il {DAMAGEMULTIPLIER}% di tutti i danni inflitti ai loro alleati."
 "specials.v2.statuseffect.minor.painempathy.single.enemies","Per {TURNS} turni, il bersaglio riceve il {DAMAGEMULTIPLIER}% di tutti i danni inflitti ai suoi alleati."
+"specials.v2.statuseffect.minor.piercingshurikenstatuseffectskill.all.allies.on.turnend.damage.random.enemies.with_chance","Alla fine di ogni turno, tutti gli alleati lanciano uno Shuriken perforante a un nemico a caso per {TURNS} turni.
+ Ogni Shuriken perforante infligge il {POWER1}% di danni."
+"specials.v2.statuseffect.minor.piercingshurikenstatuseffectskill.neartotarget.allies.on.turnend.damage.random.enemies.with_chance","Alla fine di ogni turno, l'evocatore e gli alleati vicini lanciano uno Shuriken perforante contro un nemico a caso per {TURNS} turni.
+ Ogni Shuriken perforante infligge il {POWER1}% di danni."
+"specials.v2.statuseffect.minor.piercingshurikenstatuseffectskill.single.allies.on.turnend.damage.random.enemies.with_chance","Alla fine di ogni turno, l'evocatore lancia uno Shuriken perforante contro un nemico a caso per {TURNS} turni.
+ Ogni Shuriken perforante infligge il {POWER1}% di danni."
 "specials.v2.statuseffect.minor.poison.all.enemies","Tutti i nemici subiscono {DAMAGE} danni da veleno nell'arco di {TURNS} turni."
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_boostedhealth.to.all","Tutti i nemici subiscono {DAMAGE} danni da veleno nel corso di {TURNS} turni. L'evocatore e tutti i suoi alleati assorbono il {ABSORBHEALING}% dei danni da veleno inflitti come Salute potenziata."
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_boostedhealth.to.single","Tutti i nemici subiscono {DAMAGE} danni da veleno nel corso di {TURNS} turni. L'evocatore assorbe il {ABSORBHEALING}% dei danni da veleno inflitti come Salute potenziata."
@@ -2337,6 +2377,7 @@ Ogni Raggio lunare riduce del {ABSPOWER2}% il mana del nemico colpito."
 "specials.v2.statuseffect.minor.poison.single.enemies.absorb_boostedhealth.to.single","Il bersaglio subisce {DAMAGE} danni da veleno nel corso di {TURNS} turni. L'evocatore assorbe il {ABSORBHEALING}% dei danni da veleno inflitti come Salute potenziata."
 "specials.v2.statuseffect.minor.poison.single.enemies.absorb_healing.to.single","Il bersaglio subisce {DAMAGE} danni da veleno nel corso di {TURNS} turni. L'evocatore assorbe il {ABSORBHEALING}% dei danni da veleno inflitti come Salute."
 "specials.v2.statuseffect.minor.poison.single.enemies.absorb_mana.to.single","Il bersaglio subisce {DAMAGE} danni da veleno nel corso di {TURNS} turni. L'evocatore riceve una piccola quantità di mana ogni volta che vengono applicati i danni da veleno."
+"specials.v2.statuseffect.minor.poison.single.enemies.chain_strike","Tutti i bersagli colpiti subiscono {DAMAGE} danni da veleno nel corso di {TURNS} turni."
 "specials.v2.statuseffect.minor.poison.single.enemies.contagious","Il bersaglio riceve {DAMAGE} danni da veleno nel corso di {TURNS} turni. Questo effetto si diffonde ai nemici vicini."
 "specials.v2.statuseffect.minor.poison.yellow.enemies","Tutti i nemici di tipo Sacro subiscono {DAMAGE} danni da veleno nell'arco di {TURNS} turni."
 "specials.v2.statuseffect.minor.poisonpertile.purple.all.enemies","Tutti i nemici subiscono {BASEDAMAGE} danni da veleno e un aumento di {DAMAGEPERTILE} danni per ogni scudo di tipo Oscurità sul campo di battaglia per {TURNS} turni, fino a un massimo di {MAXDAMAGE} danni."
@@ -2372,6 +2413,8 @@ Ogni Raggio lunare riduce del {ABSPOWER2}% il mana del nemico colpito."
 "specials.v2.statuseffect.minor.purpledefensemodifier.all.enemies","Tutti i nemici ricevono il {DEFENSE}% di Difesa da Oscurità per {TURNS} turni."
 "specials.v2.statuseffect.minor.purpledefensemodifier.neartotarget.allies","L'evocatore e gli alleati vicini ricevono {DEFENSE}% Difesa da Oscurità per {TURNS} turni."
 "specials.v2.statuseffect.minor.purpledefensemodifier.neartotarget.enemies","Il bersaglio e i nemici vicini ricevono {DEFENSE}% Difesa da Oscurità per {TURNS} turni."
+"specials.v2.statuseffect.minor.purpledefensemodifier.notpurple.both","Tutti gli alleati e i nemici ricevono il {DEFENSE}% di Difesa da Oscurità per {TURNS} turni."
+"specials.v2.statuseffect.minor.purpledefensemodifier.single.allies","L'evocatore riceve il {DEFENSE}% di Difesa da Oscurità per {TURNS} turni."
 "specials.v2.statuseffect.minor.purpledefensemodifier.single.enemies.chain_strike","Tutti i bersagli colpiti ricevono il {DEFENSE}% di Difesa da Oscurità per {TURNS} turni."
 "specials.v2.statuseffect.minor.purpledefensemodifier.yellow.enemies","Tutti i nemici di tipo Sacro ricevono il {DEFENSE}% di Difesa contro l'Oscurità per {TURNS} turni."
 "specials.v2.statuseffect.minor.reallocatestatuseffectsperturn.single.allies.enemies.minorbuff.newest","Al termine di ogni turno, ruba l'ultima magia benefica annullabile da tutti i nemici e la distribuisce casualmente tra gli alleati per {TURNS} turni."
@@ -2440,6 +2483,7 @@ Marciume resiliente
 "specials.v2.statuseffect.minor.resistcleansefromspecial.sides.enemies","I nemici ai margini della formazione non possono essere rimossi né riallocati dalle Abilità speciali per {TURNS} turni."
 "specials.v2.statuseffect.minor.resistcleansefromspecial.single.enemies","I disturbi del bersaglio non possono essere rimossi né riallocati dalle Abilità speciali per {TURNS} turni."
 "specials.v2.statuseffect.minor.resisthealing.all.enemies.damage","Tutti i nemici resistono alla guarigione e subiscono {FIXEDPOWER} danni per ogni guarigione a cui hanno resistito per {TURNS} turni."
+"specials.v2.statuseffect.minor.resisthealing.lessthanhalfhpleft.enemies.damage","I nemici con meno del 50% di Salute residua resistono alla guarigione e subiscono {FIXEDPOWER} danni per ogni guarigione a cui hanno resistito per {TURNS} turni."
 "specials.v2.statuseffect.minor.resisthealing.neartotarget.enemies.damage","Il bersaglio e i nemici vicini resistono alla guarigione e subiscono {FIXEDPOWER} danni per ogni guarigione a cui hanno resistito per {TURNS} turni."
 "specials.v2.statuseffect.minor.resisthealing.sides.enemies.damage","I nemici ai confini della formazione nemica resistono alla guarigione e subiscono {FIXEDPOWER} danni per ogni guarigione a cui hanno resistito per {TURNS} turni."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage","Il bersaglio resiste alla guarigione e subisce {FIXEDPOWER} danni per ogni guarigione a cui ha resistito per {TURNS} turni."
@@ -2580,10 +2624,10 @@ Non appena risorge, tutti i nemici ottengono il {STATUSEFFECT1ACCURACY}% di prec
  Dopo che Disturbo della difesa potenziato termina o viene rimosso o sostituito, annulla tutte le magie benefiche degli effetti di stato del bersaglio."
 "specials.v2.statuseffect.minor.specialskilldefensemodifier.single.enemies.withactivationcount.onremoval.expiration.dispel.removal.override.replacesamestatuseffect.reallocation.removes.statuseffectbuffs.single.allies","Disturbo della difesa potenziato: il bersaglio riceve un {SPECIALSKILLDEFENSE}% di Difesa contro le Abilità speciali. Questo effetto dura finché il bersaglio non subisce danni da un'Abilità speciale {MAXACTIVATIONCOUNT} volte.
  Dopo che Disturbo della difesa potenziato termina o viene rimosso o sostituito, annulla tutte le magie benefiche degli effetti di stato del bersaglio."
-"specials.v2.statuseffect.minor.spellslay.all.enemies","Quando il mana è al massimo, infligge automaticamente {DAMAGE} danni al nemico colpito e ne riduce il mana del {MANAREDUCTION}% ogni volta per {TURNS} turni."
-"specials.v2.statuseffect.minor.spellslay.neartotarget.enemies","Quando il mana è al massimo, infligge automaticamente {DAMAGE} danni al nemico colpito e ne riduce il mana del {MANAREDUCTION}% ogni volta per {TURNS} turni."
-"specials.v2.statuseffect.minor.spellslay.single.enemies","Quando il mana del bersaglio è al massimo, gli infligge automaticamente {DAMAGE} danni e ne riduce il mana del {MANAREDUCTION}% per {TURNS} turni."
-"specials.v2.statuseffect.minor.spellslay.singleandblue.enemies","Quando il mana del bersaglio e di tutti i nemici di tipo Ghiaccio è al massimo, gli infligge automaticamente {DAMAGE} danni. Inoltre, ne riduce il mana del {MANAREDUCTION}% per {TURNS} turni."
+"specials.v2.statuseffect.minor.spellslay.all.enemies","Tutti i nemici subiscono {DAMAGE} danni e perdono il {MANAREDUCTION}% di mana ogni volta che il loro mana si riempie, per i prossimi {TURNS} turni."
+"specials.v2.statuseffect.minor.spellslay.neartotarget.enemies","Il bersaglio e i nemici vicini subiscono {DAMAGE} danni e perdono il {MANAREDUCTION}% di mana ogni volta che il loro mana si riempie, per i prossimi {TURNS} turni."
+"specials.v2.statuseffect.minor.spellslay.single.enemies","Il bersaglio subisce {DAMAGE} danni e perde il {MANAREDUCTION}% di mana ogni volta che il suo mana si riempie, per i prossimi {TURNS} turni."
+"specials.v2.statuseffect.minor.spellslay.singleandblue.enemies","Il bersaglio e tutti i nemici di tipo Ghiaccio vicini subiscono {DAMAGE} danni e perdono il {MANAREDUCTION}% di mana ogni volta che il loro mana si riempie, per i prossimi {TURNS} turni."
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies","Iterazione (max: {MAXSTACK}): tutti gli alleati ottengono il {ATTACK}% di Attacco."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","Iterazione (max: {MAXSTACK}): l'evocatore ottiene il {ATTACK}% di Attacco."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","Iterazione (max: {MAXSTACK}): l'evocatore ottiene il {ATTACK}% di Attacco extra per ogni servitore distrutto."
@@ -2614,7 +2658,10 @@ Non appena risorge, tutti i nemici ottengono il {STATUSEFFECT1ACCURACY}% di prec
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","Iterazione (max: {MAXSTACK}): tutti gli alleati ottengono il {MAXHEALTH}% di HP ereditati per i nuovi servitori che evocano."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","Iterazione (max: {MAXSTACK}): tutti i danni subiti da tutti gli alleati vengono ridotti del {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","Iterazione (max: {MAXSTACK}): tutti i danni subiti da tutti i nemici vengono aumentati del {DAMAGEMODIFIER}%."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","Iterazione (max: {MAXSTACK}): i nemici con meno del 50% di Salute residua subiscono il {DAMAGEMODIFIER}% di danni."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies.withbasestackcount","Iterazione +{BASESTACKCOUNT} (max: {MAXSTACK}): i nemici con meno del 50% di Salute residua subiscono il {DAMAGEMODIFIER}% di danni."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease","Iterazione (max: {MAXSTACK}): tutti i danni subiti dall'evocatore e dagli alleati vicini vengono ridotti del {DAMAGEMODIFIER}%."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","Iterazione +{BASESTACKCOUNT} (max: {MAXSTACK}): tutti i danni subiti dall'evocatore e dagli alleati vicini vengono ridotti del {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.enemies","Iterazione (max: {MAXSTACK}): tutti i danni subiti dal bersaglio e dai nemici vicini vengono aumentati del {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","Iterazione (max: {MAXSTACK}): tutti i danni subiti dall'evocatore vengono ridotti del {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","Iterazione (max: {MAXSTACK}): tutti i danni subiti dal bersaglio vengono aumentati del {DAMAGEMODIFIER}%."
@@ -2633,6 +2680,8 @@ Ogni schivata dà a tutti gli alleati il {MANAREGEN}% di rigenerazione mana per 
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.druid_thorn","Tutti gli alleati hanno il {DODGE}% di probabilità di schivare le Abilità speciali per {TURNS} turni. Ogni schivata chiama un servitore spina."
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.druid_thorn_empowered","Tutti gli alleati hanno il {DODGE}% di probabilità di schivare le Abilità speciali per {TURNS} turni. Ogni schivata chiama un servitore spina potenziata."
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.sakura_fox","Tutti gli alleati hanno una probabilità del {DODGE}% di schivare le Abilità speciali per {TURNS} turni. Ogni Abilità speciale schivata chiama un servitore Sakura Volpe."
+"specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.sakura_fox_costume","Tutti gli alleati hanno una probabilità del {DODGE}% di schivare le Abilità speciali per {TURNS} turni. Ogni Abilità speciale schivata chiama un servitore Sakura Volpe."
+"specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_blue_titan","Tutti gli alleati ottengono il {ATTACK}% di Attacco per {TURNS} turni. Contro i Titani di tipo Ghiaccio, tutti gli alleati ottengono il {ATTACKAGAINSTVALIDTARGET}% di Attacco."
 "specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_red_titan","Tutti gli alleati ottengono il {ATTACK}% di Attacco per {TURNS} turni. Contro i Titani di tipo Fuoco, tutti gli alleati ottengono il {ATTACKAGAINSTVALIDTARGET}% di Attacco."
 "specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_yellow_titan","Tutti gli alleati ottengono il {ATTACK}% di Attacco per {TURNS} turni. Contro i Titani di tipo Sacro, tutti gli alleati ottengono il {ATTACKAGAINSTVALIDTARGET}% di Attacco."
 "specials.v2.statuseffect.minor.taunt.single.allies","L'evocatore ottiene Deridi, che impedisce ai nemici di usare le Abilità speciali sui suoi alleati per {TURNS} turni."
@@ -2658,12 +2707,18 @@ Ogni schivata dà a tutti gli alleati il {MANAREGEN}% di rigenerazione mana per 
  Se il Cubo di magma viene annullato, il proprietario ottiene il {STATUSEFFECT1MANAREGEN}% di rigenerazione mana per {REMOVALEFFECT2STATUSEFFECT1TURNS} turni."
 "specials.v2.statuseffect.minor.underwaterpertile.blue.all.enemies.buffoverride.red.majordebuff","Tutti i nemici ricevono {BASEDAMAGE} danni da acqua e un aumento dei danni di {DAMAGEPERTILE} per ogni scudo di tipo Ghiaccio sul campo di battaglia per {TURNS} turni, fino a {MAXDAMAGE} danni. Questo effetto non può essere annullato per tutti i nemici di tipo Fuoco."
 "specials.v2.statuseffect.minor.vengeance.single.allies.onremoval.damage.all.enemies.dispel.removal.specialskill","L'evocatore ottiene Vendetta per {TURNS} turni. Se Vendetta viene annullata da un'Abilità speciale, tutti i nemici subiscono {DAMAGE} danni."
+"specials.v2.statuseffect.minor.wildburn.neartotarget.enemies","Selvaggio: per {TURNS} turni, il bersaglio e i nemici vicini subiscono ogni turno {DAMAGEPERTURN} o {WILDDAMAGEPERTURN} danni da ustione."
+"specials.v2.statuseffect.minor.wildhealthrecovery.all.allies","Selvaggio: per {TURNS} turni, tutti gli alleati rigenerano {HPPERTURN} HP oppure ricevono {WILDHPPERTURN} Salute potenziata a ogni turno."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.all.allies","Tutti gli alleati ricevono il {DEFENSE}% di Difesa dal Sacro per {TURNS} turni."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.neartotarget.allies","L'evocatore e gli alleati vicini ricevono il {DEFENSE}% di Difesa da Sacro per {TURNS} turni."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.neartotarget.enemies","L'obiettivo e i nemici vicini ricevono il {DEFENSE}% di difesa da Sacro per {TURNS} turni."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.single.allies","L'evocatore riceve il {DEFENSE}% di Difesa contro il tipo Sacro per {TURNS} turni."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.single.enemies","Il bersaglio riceve {DEFENSE}% Difesa da Sacro per {TURNS} turni."
+"specials.v2.statuseffect.minor.yellowtrap.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.chain_strike.amplified.against_purple.against_titan.modifies_power","I nemici colpiti diventano afflitti da Trappola a punte.
+ La Trappola a punte fornisce al suo bersaglio il {DEFENSE}% di Difesa contro il tipo Sacro. Contro i Titani di tipo Oscurità, la Trappola a punte fornisce al bersaglio il {AMPLIFIEDDEFENSE}% di Difesa contro il tipo Sacro.
+ Le Trappole a punte esplodono entro {TURNS} turni infliggendo {DAMAGE} danni al loro proprietario."
 "specials.v2.statuseffect.minor.zombiecurse.all.enemies","Tutti i nemici subiscono Maledizione zombi. Quando il nemico maledetto viene sconfitto, esplode infliggendo {EXPLOSIONDAMAGE} danni a tutti i suoi alleati. L'effetto dura {TURNS} turni."
+"specials.v2.statuseffect.minor.zombiecurse.neartotarget.enemies","Il bersaglio e i nemici vicini subiscono Maledizione zombi. Quando il nemico maledetto viene sconfitto, esplode infliggendo {EXPLOSIONDAMAGE} danni a tutti i suoi alleati. L'effetto dura {TURNS} turni."
 "specials.v2.statuseffect.permanent.accuracymodifier.purple.allies","Tutti gli Eroi di tipo Oscurità ricevono un {ACCURACY}% di precisione."
 "specials.v2.statuseffect.permanent.attackmodifier.yellow.allies","Tutti gli Eroi di tipo Sacro ricevono un {ATTACK}% di Attacco."
 "specials.v2.statuseffect.permanent.insanity.all.allies","Infligge {INSANITYTOADD} di Follia a tutti gli alleati."
@@ -2673,10 +2728,10 @@ Follia
  Aggiunge una probabilità di invertire il bersaglio di un'Abilità speciale.
  La Follia dell'Eroe può essere ridotta dalla guarigione diretta di un'Abilità speciale."
 "specials.v2.statuseffect.permanent.insanity.all.enemies","Infligge {INSANITYTOADD} di Follia a tutti i nemici."
-"specials.v2.statuseffect.permanent.insanity.allexceptcaster.allies","Infligge {INSANITYTOADD} di Follia a tutti gli alleati, tranne che all'evocatore."
+"specials.v2.statuseffect.permanent.insanity.allexceptcaster.allies","Lanciare questa Abilità speciale infligge {INSANITYTOADD} di Follia a tutti gli alleati tranne l'evocatore."
 "specials.v2.statuseffect.permanent.insanity.neartotarget.enemies","Infligge {INSANITYTOADD} di Follia al bersaglio e ai nemici vicini."
-"specials.v2.statuseffect.permanent.insanity.neartotargetexceptcaster.allies","Infligge {INSANITYTOADD} di Follia agli alleati vicini."
-"specials.v2.statuseffect.permanent.insanity.single.allies","Infligge {INSANITYTOADD} di Follia all'evocatore."
+"specials.v2.statuseffect.permanent.insanity.neartotargetexceptcaster.allies","Lanciare questa Abilità speciale infligge {INSANITYTOADD} di Follia agli alleati vicini."
+"specials.v2.statuseffect.permanent.insanity.single.allies","Lanciare questa Abilità speciale infligge {INSANITYTOADD} di Follia all'evocatore."
 "specials.v2.statuseffect.permanent.insanity.single.enemies","Infligge {INSANITYTOADD} di Follia al bersaglio."
 "specials.v2.statuseffect.permanent.insanity.single.enemies.chain_strike","Tutti i bersagli colpiti ottengono {INSANITYTOADD} di Follia ogni volta che vengono colpiti."
 "specials.v2.statuseffect.permanent.insanity.single.enemies.chain_strike.chain_strike_cassilda.on_additional_hit","Tutti i bersagli colpiti ottengono {INSANITYTOADD} di Follia ogni volta che vengono colpiti."
@@ -2694,6 +2749,6 @@ Follia
 "specials.v2.strongattack.purple","Infligge danni extra contro Oscurità."
 "specials.v2.strongattack.red","Infligge danni extra contro Fuoco."
 "specials.v2.strongattack.yellow","Infligge danni extra contro Sacro."
+"specials.v2.toon_tide.immuneelement.purple","Tutti gli alleati e i nemici di tipo Oscurità sono immuni da quest'attacco."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","Questo effetto può verificarsi solo una volta per ogni servitore Testa d'idra."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","Quando il servitore Testa d'idra viene sconfitto, un alleato a caso riceve un servitore Testa d'idra rinato che eredita le statistiche del servitore originale."
-"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","[#!]Iterazione +{BASESTACKCOUNT} (max: {MAXSTACK}):[#] tutti i danni subiti dall'evocatore e dagli alleati vicini vengono ridotti del {DAMAGEMODIFIER}%."

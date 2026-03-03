@@ -2,6 +2,276 @@
   "productsConfig": {
     "products": [
       {
+        "productType": "WelcomeBackSummon",
+        "id": "lottery_welcome_back_default",
+        "gemPrice": 300,
+        "amount": 1,
+        "uiPriority": 9999,
+        "bucketWeights": [
+          100,
+          100,
+          1
+        ],
+        "bonusLegendaryHeroPullAmount": 1,
+        "duration": "6天",
+        "minimumDaysAway": 28,
+        "maximumDaysAway": 89,
+        "heroCutoffDaysStart": 365,
+        "heroCutoffDaysEnd": 60,
+        "powerGradeWeights": [
+          100,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "hasGuaranteedFeaturedBucketPowerGrade": false,
+        "guaranteedFeaturedBucketPowerGrade": "Basic"
+      },
+      {
+        "productType": "WelcomeBackSummon",
+        "id": "lottery_welcome_back_medium_ad",
+        "sourceProductId": "lottery_welcome_back_medium",
+        "amount": 1,
+        "bucketWeights": [
+          100,
+          100,
+          1
+        ],
+        "extraBucketsPullAmount": 1,
+        "duration": "6天",
+        "minimumDaysAway": 90,
+        "maximumDaysAway": 365,
+        "heroCutoffDaysStart": 180,
+        "heroCutoffDaysEnd": 40,
+        "powerGradeWeights": [
+          0,
+          100,
+          100,
+          100,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "hasGuaranteedFeaturedBucketPowerGrade": false,
+        "guaranteedFeaturedBucketPowerGrade": "Basic"
+      },
+      {
+        "productType": "WelcomeBackSummon",
+        "id": "lottery_welcome_back_medium",
+        "gemPrice": 300,
+        "amount": 1,
+        "uiPriority": 9999,
+        "bucketWeights": [
+          100,
+          100,
+          1
+        ],
+        "duration": "6天",
+        "minimumDaysAway": 90,
+        "maximumDaysAway": 365,
+        "heroCutoffDaysStart": 180,
+        "heroCutoffDaysEnd": 40,
+        "powerGradeWeights": [
+          0,
+          100,
+          100,
+          100,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "hasGuaranteedFeaturedBucketPowerGrade": false,
+        "guaranteedFeaturedBucketPowerGrade": "Basic"
+      },
+      {
+        "productType": "WelcomeBackSummon",
+        "id": "lottery_welcome_back_long",
+        "gemPrice": 300,
+        "amount": 1,
+        "uiPriority": 9999,
+        "bucketWeights": [
+          100,
+          100,
+          1
+        ],
+        "duration": "6天",
+        "minimumDaysAway": 366,
+        "maximumDaysAway": 0,
+        "heroCutoffDaysStart": 90,
+        "heroCutoffDaysEnd": 20,
+        "powerGradeWeights": [
+          0,
+          100,
+          100,
+          100,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "hasGuaranteedFeaturedBucketPowerGrade": false,
+        "guaranteedFeaturedBucketPowerGrade": "Basic"
+      },
+      {
+        "productType": "WelcomeBackSummon",
+        "id": "lottery_welcome_back_long_bulk",
+        "gemPrice": 3000,
+        "sourceProductId": "lottery_welcome_back_long",
+        "amount": 10,
+        "extraBucketsPullAmount": 10,
+        "duration": "6天",
+        "minimumDaysAway": 366,
+        "maximumDaysAway": 0,
+        "heroCutoffDaysStart": 90,
+        "heroCutoffDaysEnd": 20,
+        "hasGuaranteedFeaturedBucketPowerGrade": false,
+        "guaranteedFeaturedBucketPowerGrade": "Basic"
+      },
+      {
+        "productType": "WelcomeBackSummon",
+        "id": "lottery_welcome_back_long_30_bulk",
+        "gemPrice": 9000,
+        "sourceProductId": "lottery_welcome_back_long",
+        "amount": 30,
+        "extraBucketsPullAmount": 30,
+        "duration": "6天",
+        "minimumDaysAway": 366,
+        "maximumDaysAway": 0,
+        "heroCutoffDaysStart": 90,
+        "heroCutoffDaysEnd": 20,
+        "hasGuaranteedFeaturedBucketPowerGrade": false,
+        "guaranteedFeaturedBucketPowerGrade": "Basic"
+      },
+      {
+        "productType": "WelcomeBackSummon",
+        "id": "lottery_welcome_back_long_ad",
+        "sourceProductId": "lottery_welcome_back_long",
+        "amount": 1,
+        "bucketWeights": [
+          100,
+          100,
+          1
+        ],
+        "extraBucketsPullAmount": 1,
+        "duration": "6天",
+        "minimumDaysAway": 366,
+        "maximumDaysAway": 0,
+        "heroCutoffDaysStart": 90,
+        "heroCutoffDaysEnd": 20,
+        "powerGradeWeights": [
+          0,
+          100,
+          100,
+          100,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "hasGuaranteedFeaturedBucketPowerGrade": false,
+        "guaranteedFeaturedBucketPowerGrade": "Basic"
+      },
+      {
+        "productType": "WelcomeBackSummon",
+        "id": "lottery_welcome_back_medium_bulk",
+        "gemPrice": 3000,
+        "sourceProductId": "lottery_welcome_back_medium",
+        "amount": 10,
+        "extraBucketsPullAmount": 10,
+        "duration": "6天",
+        "minimumDaysAway": 90,
+        "maximumDaysAway": 365,
+        "heroCutoffDaysStart": 180,
+        "heroCutoffDaysEnd": 40,
+        "hasGuaranteedFeaturedBucketPowerGrade": false,
+        "guaranteedFeaturedBucketPowerGrade": "Basic"
+      },
+      {
+        "productType": "WelcomeBackSummon",
+        "id": "lottery_welcome_back_medium_30_bulk",
+        "gemPrice": 9000,
+        "sourceProductId": "lottery_welcome_back_medium",
+        "amount": 30,
+        "extraBucketsPullAmount": 30,
+        "duration": "6天",
+        "minimumDaysAway": 90,
+        "maximumDaysAway": 365,
+        "heroCutoffDaysStart": 180,
+        "heroCutoffDaysEnd": 40,
+        "hasGuaranteedFeaturedBucketPowerGrade": false,
+        "guaranteedFeaturedBucketPowerGrade": "Basic"
+      },
+      {
+        "productType": "WelcomeBackSummon",
+        "id": "lottery_welcome_back_default_bulk",
+        "gemPrice": 3000,
+        "sourceProductId": "lottery_welcome_back_default",
+        "amount": 10,
+        "duration": "6天",
+        "minimumDaysAway": 28,
+        "maximumDaysAway": 89,
+        "heroCutoffDaysStart": 365,
+        "heroCutoffDaysEnd": 60,
+        "hasGuaranteedFeaturedBucketPowerGrade": false,
+        "guaranteedFeaturedBucketPowerGrade": "Basic"
+      },
+      {
+        "productType": "WelcomeBackSummon",
+        "id": "lottery_welcome_back_default_30_bulk",
+        "gemPrice": 9000,
+        "sourceProductId": "lottery_welcome_back_default",
+        "amount": 30,
+        "duration": "6天",
+        "minimumDaysAway": 28,
+        "maximumDaysAway": 89,
+        "heroCutoffDaysStart": 365,
+        "heroCutoffDaysEnd": 60,
+        "hasGuaranteedFeaturedBucketPowerGrade": false,
+        "guaranteedFeaturedBucketPowerGrade": "Basic"
+      },
+      {
+        "productType": "WelcomeBackSummon",
+        "id": "lottery_welcome_back_default_ad",
+        "sourceProductId": "lottery_welcome_back_default",
+        "amount": 1,
+        "bucketWeights": [
+          100,
+          100,
+          1
+        ],
+        "extraBucketsPullAmount": 1,
+        "bonusLegendaryHeroPullAmount": 1,
+        "duration": "6天",
+        "minimumDaysAway": 28,
+        "maximumDaysAway": 89,
+        "heroCutoffDaysStart": 365,
+        "heroCutoffDaysEnd": 60,
+        "powerGradeWeights": [
+          100,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "hasGuaranteedFeaturedBucketPowerGrade": false,
+        "guaranteedFeaturedBucketPowerGrade": "Basic"
+      },
+      {
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.challengecalendar_4_10",
         "dollarValue": 10,
@@ -1503,6 +1773,36 @@
         ]
       },
       {
+        "productType": "SimpleProductWithInstantContents",
+        "id": "com.smallgiantgames.empires.alliancequest2_lure_bonus",
+        "dollarValue": 10,
+        "instantContents": [
+          {
+            "type": "Item",
+            "id": "lure_bonus_alliance_quest2",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "misc_loot_ticket",
+            "amount": 60,
+            "zyngaStoreExtraAmount": 20
+          },
+          {
+            "type": "Item",
+            "id": "refill_energy_pve_full",
+            "amount": 6,
+            "zyngaStoreExtraAmount": 2
+          },
+          {
+            "type": "Item",
+            "id": "refill_food_giant",
+            "amount": 3,
+            "zyngaStoreExtraAmount": 2
+          }
+        ]
+      },
+      {
         "productType": "QuestBoosterOffer",
         "id": "com.smallgiantgames.empires.christmas_booster",
         "dollarValue": 12,
@@ -1560,6 +1860,7 @@
         "id": "com.smallgiantgames.empires.springvale_booster",
         "dollarValue": 12,
         "zyngaStoreDollarValueOverride": 11,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -1574,7 +1875,7 @@
           },
           {
             "type": "Avatar",
-            "id": "Occultist of Springvale",
+            "id": "easter_duke_whitley",
             "amount": 1
           }
         ],
@@ -2312,7 +2613,7 @@
         "id": "lottery_mimic_default",
         "gemPrice": 270,
         "amount": 1,
-        "uiPriority": 160,
+        "uiPriority": 169,
         "bucketWeights": [
           710,
           265,
@@ -3438,6 +3739,8 @@
         "productType": "SeasonPass",
         "id": "com.smallgiantgames.empires.path_of_dragons_season_pass_elite",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
+        "realMoneyProductInStore": true,
         "instantContents": [
           {
             "type": "Gem",
@@ -3749,7 +4052,10 @@
           285,
           15,
           10
-        ]
+        ],
+        "bonusLegendaryHeroChancePerMil": 200,
+        "bonusLegendaryHeroPullAmount": 1,
+        "bonusLegendaryHeroPullTriggersOnEventHeroesOnly": true
       },
       {
         "productType": "TowerEventSummon",
@@ -4379,9 +4685,9 @@
         "sourceProductId": "lottery_hero_easter",
         "amount": 10,
         "featuredNonCostumedHeroes": [
-          "easter_viscount_cluckwood",
-          "easter_sadie",
-          "easter_miss_ethel"
+          "easter_duke_whitley",
+          "easter_marko",
+          "easter_sir_roostley_costume_alchemist"
         ],
         "availableEventCostumesAreFeatured": false
       },
@@ -4408,9 +4714,9 @@
         ],
         "perfectSummon": "seasonal_perfect_10",
         "featuredNonCostumedHeroes": [
-          "easter_viscount_cluckwood",
-          "easter_sadie",
-          "easter_miss_ethel"
+          "easter_duke_whitley",
+          "easter_marko",
+          "easter_sir_roostley_costume_alchemist"
         ],
         "availableEventCostumesAreFeatured": false
       },
@@ -9069,6 +9375,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.expensiveoffer2",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -9137,6 +9444,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.expensiveoffer3",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -11524,6 +11832,244 @@
         "productType": "BattleItem",
         "id": "battle_hail_of_arrows",
         "gemPrice": 30
+      },
+      {
+        "productType": "AscensionItem",
+        "id": "hero_wooden_shield",
+        "gemPrice": 20,
+        "purchaseLimit": 4,
+        "amount": 5
+      },
+      {
+        "productType": "AscensionItem",
+        "id": "hero_leather_armor",
+        "gemPrice": 20,
+        "purchaseLimit": 4,
+        "amount": 5
+      },
+      {
+        "productType": "AscensionItem",
+        "id": "hero_sharpening_stone",
+        "gemPrice": 20,
+        "purchaseLimit": 4,
+        "amount": 5
+      },
+      {
+        "productType": "AscensionItem",
+        "id": "hero_strong_rope",
+        "gemPrice": 20,
+        "purchaseLimit": 4,
+        "amount": 5
+      },
+      {
+        "productType": "AscensionItem",
+        "id": "hero_dagger",
+        "gemPrice": 20,
+        "purchaseLimit": 4,
+        "amount": 5
+      },
+      {
+        "productType": "AscensionItem",
+        "id": "hero_arcane_scripts",
+        "gemPrice": 20,
+        "purchaseLimit": 4,
+        "amount": 5
+      },
+      {
+        "productType": "AscensionItem",
+        "id": "hero_battle_manual",
+        "gemPrice": 30,
+        "purchaseLimit": 3,
+        "amount": 3
+      },
+      {
+        "productType": "AscensionItem",
+        "id": "hero_chainmail_shirt",
+        "gemPrice": 30,
+        "purchaseLimit": 3,
+        "amount": 3
+      },
+      {
+        "productType": "AscensionItem",
+        "id": "hero_adventurers_kit",
+        "gemPrice": 10,
+        "purchaseLimit": 5,
+        "amount": 10
+      },
+      {
+        "productType": "AscensionItem",
+        "id": "hero_practice_sword",
+        "gemPrice": 10,
+        "purchaseLimit": 5,
+        "amount": 10
+      },
+      {
+        "productType": "AscensionItem",
+        "id": "hero_rugged_clothes",
+        "gemPrice": 10,
+        "purchaseLimit": 5,
+        "amount": 10
+      },
+      {
+        "productType": "AscensionItem",
+        "id": "hero_training_manual",
+        "gemPrice": 10,
+        "purchaseLimit": 5,
+        "amount": 10
+      },
+      {
+        "productType": "AscensionItem",
+        "id": "hero_tall_boots",
+        "gemPrice": 30,
+        "purchaseLimit": 3,
+        "amount": 3
+      },
+      {
+        "productType": "AscensionItem",
+        "id": "hero_scabbard",
+        "gemPrice": 30,
+        "purchaseLimit": 3,
+        "amount": 3
+      },
+      {
+        "productType": "LimitBreakItem",
+        "id": "hero_limitbreak_epic_blue",
+        "gemPrice": 35,
+        "purchaseLimit": 2,
+        "amount": 3
+      },
+      {
+        "productType": "LimitBreakItem",
+        "id": "hero_limitbreak_epic_red",
+        "gemPrice": 35,
+        "purchaseLimit": 2,
+        "amount": 3
+      },
+      {
+        "productType": "LimitBreakItem",
+        "id": "hero_limitbreak_epic_green",
+        "gemPrice": 35,
+        "purchaseLimit": 2,
+        "amount": 3
+      },
+      {
+        "productType": "LimitBreakItem",
+        "id": "hero_limitbreak_epic_yellow",
+        "gemPrice": 35,
+        "purchaseLimit": 2,
+        "amount": 3
+      },
+      {
+        "productType": "LimitBreakItem",
+        "id": "hero_limitbreak_epic_purple",
+        "gemPrice": 35,
+        "purchaseLimit": 2,
+        "amount": 3
+      },
+      {
+        "productType": "LimitBreakItem",
+        "id": "hero_limitbreak_rare_blue",
+        "gemPrice": 30,
+        "purchaseLimit": 3,
+        "amount": 5
+      },
+      {
+        "productType": "LimitBreakItem",
+        "id": "hero_limitbreak_rare_red",
+        "gemPrice": 30,
+        "purchaseLimit": 3,
+        "amount": 5
+      },
+      {
+        "productType": "LimitBreakItem",
+        "id": "hero_limitbreak_rare_green",
+        "gemPrice": 30,
+        "purchaseLimit": 3,
+        "amount": 5
+      },
+      {
+        "productType": "LimitBreakItem",
+        "id": "hero_limitbreak_rare_yellow",
+        "gemPrice": 30,
+        "purchaseLimit": 3,
+        "amount": 5
+      },
+      {
+        "productType": "LimitBreakItem",
+        "id": "hero_limitbreak_rare_purple",
+        "gemPrice": 30,
+        "purchaseLimit": 3,
+        "amount": 5
+      },
+      {
+        "productType": "LimitBreakItem",
+        "id": "emblem_barbarian",
+        "gemPrice": 70,
+        "purchaseLimit": 2,
+        "amount": 25
+      },
+      {
+        "productType": "LimitBreakItem",
+        "id": "emblem_fighter",
+        "gemPrice": 70,
+        "purchaseLimit": 2,
+        "amount": 25
+      },
+      {
+        "productType": "LimitBreakItem",
+        "id": "emblem_wizard",
+        "gemPrice": 70,
+        "purchaseLimit": 2,
+        "amount": 25
+      },
+      {
+        "productType": "LimitBreakItem",
+        "id": "emblem_cleric",
+        "gemPrice": 70,
+        "purchaseLimit": 2,
+        "amount": 25
+      },
+      {
+        "productType": "LimitBreakItem",
+        "id": "emblem_rogue",
+        "gemPrice": 70,
+        "purchaseLimit": 2,
+        "amount": 25
+      },
+      {
+        "productType": "LimitBreakItem",
+        "id": "emblem_druid",
+        "gemPrice": 70,
+        "purchaseLimit": 2,
+        "amount": 25
+      },
+      {
+        "productType": "LimitBreakItem",
+        "id": "emblem_monk",
+        "gemPrice": 70,
+        "purchaseLimit": 2,
+        "amount": 25
+      },
+      {
+        "productType": "LimitBreakItem",
+        "id": "emblem_ranger",
+        "gemPrice": 70,
+        "purchaseLimit": 2,
+        "amount": 25
+      },
+      {
+        "productType": "LimitBreakItem",
+        "id": "emblem_sorcerer",
+        "gemPrice": 70,
+        "purchaseLimit": 2,
+        "amount": 25
+      },
+      {
+        "productType": "LimitBreakItem",
+        "id": "emblem_paladin",
+        "gemPrice": 70,
+        "purchaseLimit": 2,
+        "amount": 25
       },
       {
         "productType": "EpicHeroSummon",
@@ -14015,6 +14561,366 @@
             "type": "Item",
             "id": "battle_true_healing_potion",
             "amount": 5
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_ascensionitem_1",
+        "gemPrice": 999,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "hero_damascus_blade",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_ascensionitem_2",
+        "gemPrice": 999,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "hero_farsight_telescope",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_ascensionitem_3",
+        "gemPrice": 999,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "hero_mysterious_tonic",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_ascensionitem_4",
+        "gemPrice": 999,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "hero_mystic_rings",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_ascensionitem_5",
+        "gemPrice": 999,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "hero_poison_darts",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_ascensionitem_6",
+        "gemPrice": 999,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "hero_royal_tabard",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_ascensionitem_7",
+        "gemPrice": 999,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "hero_tome_of_tactics",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_ascensionitem_8",
+        "gemPrice": 180,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "hero_compass",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_ascensionitem_9",
+        "gemPrice": 180,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "hero_fine_gloves",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_ascensionitem_10",
+        "gemPrice": 220,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "hero_hidden_blade",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_ascensionitem_11",
+        "gemPrice": 220,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "hero_orb_of_magic",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_ascensionitem_12",
+        "gemPrice": 220,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "hero_trap_tools",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_ascensionitem_13",
+        "gemPrice": 220,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "hero_warm_cape",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_ascensionitem_14",
+        "gemPrice": 220,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "hero_sturdy_shield",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_limitbreakitem_1",
+        "gemPrice": 999,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_alpha",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_limitbreakitem_2",
+        "gemPrice": 999,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_legendary_blue",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_limitbreakitem_3",
+        "gemPrice": 999,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_legendary_green",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_limitbreakitem_4",
+        "gemPrice": 999,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_legendary_purple",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_limitbreakitem_5",
+        "gemPrice": 999,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_legendary_red",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_limitbreakitem_6",
+        "gemPrice": 999,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_legendary_yellow",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_limitbreakitem_7",
+        "gemPrice": 600,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "emblem_master_barbarian",
+            "amount": 10
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_limitbreakitem_8",
+        "gemPrice": 600,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "emblem_master_cleric",
+            "amount": 10
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_limitbreakitem_9",
+        "gemPrice": 600,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "emblem_master_druid",
+            "amount": 10
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_limitbreakitem_10",
+        "gemPrice": 600,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "emblem_master_fighter",
+            "amount": 10
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_limitbreakitem_11",
+        "gemPrice": 600,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "emblem_master_monk",
+            "amount": 10
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_limitbreakitem_12",
+        "gemPrice": 600,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "emblem_master_paladin",
+            "amount": 10
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_limitbreakitem_13",
+        "gemPrice": 600,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "emblem_master_ranger",
+            "amount": 10
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_limitbreakitem_14",
+        "gemPrice": 600,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "emblem_master_rogue",
+            "amount": 10
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_limitbreakitem_15",
+        "gemPrice": 600,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "emblem_master_sorcerer",
+            "amount": 10
+          }
+        ]
+      },
+      {
+        "productType": "Bundle",
+        "id": "bundle_limitbreakitem_16",
+        "gemPrice": 600,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "emblem_master_wizard",
+            "amount": 10
           }
         ]
       },
@@ -17077,6 +17983,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.easter_tier2",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -17091,6 +17998,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.easter_tier4",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -17098,6 +18006,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.easter_tier5",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -17112,6 +18021,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.easter_tier7",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -18220,45 +19130,25 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.tower_day1",
         "dollarValue": 3,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
-            "type": "Gem",
-            "amount": 300
+            "type": "Item",
+            "id": "lottery_tower_coin",
+            "amount": 250,
+            "zyngaStoreExtraAmount": 50
           },
           {
             "type": "Item",
-            "id": "lottery_tower_coin",
-            "amount": 100
+            "id": "refill_food_giant",
+            "amount": 3
           }
         ]
       },
       {
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.tower_day2",
-        "dollarValue": 10,
-        "realMoneyProductInStore": true,
-        "contents": [
-          {
-            "type": "Item",
-            "id": "titan_battle_hurricane",
-            "amount": 15
-          },
-          {
-            "type": "Item",
-            "id": "titan_battle_time_freeze",
-            "amount": 15
-          },
-          {
-            "type": "Item",
-            "id": "titan_battle_scroll_of_alteration",
-            "amount": 15
-          }
-        ]
-      },
-      {
-        "productType": "Offer",
-        "id": "com.smallgiantgames.empires.tower_day3",
         "dollarValue": 10,
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
@@ -18275,8 +19165,33 @@
           },
           {
             "type": "Item",
-            "id": "refill_food_giant",
-            "amount": 5
+            "id": "misc_loot_ticket",
+            "amount": 20
+          }
+        ]
+      },
+      {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.tower_day3",
+        "dollarValue": 10,
+        "realMoneyProductActive": true,
+        "realMoneyProductInStore": true,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "lottery_tower_coin",
+            "amount": 500,
+            "zyngaStoreExtraAmount": 100
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_alpha",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "misc_free_talent_point",
+            "amount": 1
           }
         ]
       },
@@ -18296,12 +19211,7 @@
           {
             "type": "Hero",
             "id": "trainer_rainbow_uncommon",
-            "amount": 3
-          },
-          {
-            "type": "Item",
-            "id": "refill_food_giant",
-            "amount": 2
+            "amount": 4
           }
         ]
       },
@@ -18413,6 +19323,50 @@
             "type": "Hero",
             "id": "trainer_rainbow_uncommon",
             "amount": 3
+          }
+        ]
+      },
+      {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.tower_2_1",
+        "dollarValue": 20,
+        "realMoneyProductActive": true,
+        "realMoneyProductInStore": true,
+        "contents": [
+          {
+            "type": "Gem",
+            "amount": 2000,
+            "zyngaStoreExtraAmount": 200
+          },
+          {
+            "type": "Item",
+            "id": "lottery_tower_coin",
+            "amount": 400
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_alpha",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.tower_3_2",
+        "dollarValue": 15,
+        "realMoneyProductActive": true,
+        "realMoneyProductInStore": true,
+        "contents": [
+          {
+            "type": "Gem",
+            "amount": 1500,
+            "zyngaStoreExtraAmount": 250
+          },
+          {
+            "type": "Item",
+            "id": "lottery_tower_coin",
+            "amount": 450,
+            "zyngaStoreExtraAmount": 50
           }
         ]
       },
@@ -33614,6 +34568,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_1",
         "dollarValue": 4,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33632,6 +34587,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_2",
         "dollarValue": 7,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33650,6 +34606,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_3",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33673,6 +34630,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_4",
         "dollarValue": 15,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34239,6 +35197,7 @@
         "dollarValue": 5,
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
+        "directCheckoutDisabled": true,
         "contents": [],
         "userSelectableContentId": "dragon_select_asc4_new"
       },
@@ -37501,17 +38460,17 @@
           {
             "type": "Item",
             "id": "relic_harvester_iron",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
             "id": "relic_harvester_food",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
             "id": "relic_harvester_recruits",
-            "amount": 1
+            "amount": 2
           }
         ]
       },
@@ -58347,6 +59306,61 @@
         "avatarPinId": "community_rose"
       },
       {
+        "productType": "AvatarPin",
+        "id": "avatar_pin_community_horse",
+        "avatarPinId": "community_horse"
+      },
+      {
+        "productType": "AvatarPin",
+        "id": "avatar_pin_community_beta_bug",
+        "avatarPinId": "community_beta_bug"
+      },
+      {
+        "productType": "AvatarPin",
+        "id": "avatar_pin_community_ec_basketball",
+        "avatarPinId": "community_ec_basketball"
+      },
+      {
+        "productType": "AvatarPin",
+        "id": "avatar_pin_community_ec_bunny",
+        "avatarPinId": "community_ec_bunny"
+      },
+      {
+        "productType": "AvatarPin",
+        "id": "avatar_pin_community_ec_clover",
+        "avatarPinId": "community_ec_clover"
+      },
+      {
+        "productType": "AvatarPin",
+        "id": "avatar_pin_community_ec_egg",
+        "avatarPinId": "community_ec_egg"
+      },
+      {
+        "productType": "AvatarPin",
+        "id": "avatar_pin_community_ec_football",
+        "avatarPinId": "community_ec_football"
+      },
+      {
+        "productType": "AvatarPin",
+        "id": "avatar_pin_community_ec_potofgold",
+        "avatarPinId": "community_ec_potofgold"
+      },
+      {
+        "productType": "AvatarPin",
+        "id": "avatar_pin_community_ec_soccer",
+        "avatarPinId": "community_ec_soccer"
+      },
+      {
+        "productType": "AvatarPin",
+        "id": "avatar_pin_community_ec_springflower",
+        "avatarPinId": "community_ec_springflower"
+      },
+      {
+        "productType": "AvatarPin",
+        "id": "avatar_pin_community_ec_sunshine",
+        "avatarPinId": "community_ec_sunshine"
+      },
+      {
         "productType": "AvatarBackground",
         "id": "avatar_background_red",
         "avatarBackgroundId": "red"
@@ -58630,8 +59644,28 @@
         "productType": "AvatarBackground",
         "id": "avatar_background_community_winter_background",
         "avatarBackgroundId": "community_winter_background"
+      },
+      {
+        "productType": "AvatarBackground",
+        "id": "avatar_background_community_lunar_pattern",
+        "avatarBackgroundId": "community_lunar_pattern"
+      },
+      {
+        "productType": "AvatarBackground",
+        "id": "avatar_background_community_ec_clovers",
+        "avatarBackgroundId": "community_ec_clovers"
+      },
+      {
+        "productType": "AvatarBackground",
+        "id": "avatar_background_community_ec_eggs",
+        "avatarBackgroundId": "community_ec_eggs"
+      },
+      {
+        "productType": "AvatarBackground",
+        "id": "avatar_background_community_ec_sunflowers",
+        "avatarBackgroundId": "community_ec_sunflowers"
       }
     ]
   },
-  "productsConfigId": 1781715364
+  "productsConfigId": 1149205603
 }

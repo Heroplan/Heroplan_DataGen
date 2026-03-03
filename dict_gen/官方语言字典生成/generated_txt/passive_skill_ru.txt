@@ -63,6 +63,9 @@
 "herocard.passive_skill.description.effectonheal.addmana","Этот герой получает {POWER} % маны каждый раз, когда его здоровье восстанавливается."
 "herocard.passive_skill.description.effectonheal.heal","Этот герой получает {POWER} % здоровья каждый раз, когда его здоровье восстанавливается."
 "herocard.passive_skill.description.effectonhealsupportcharacter.troop.heal","Этот герой получает {POWER} % здоровья каждый раз, когда его здоровье восстанавливается."
+"herocard.passive_skill.description.effectonownerdeath.damage.single.enemies.specialskill.targetattackerside","Если этот персонаж побежден особым навыком, происходит следующее:
+Атакующий получает {DAMAGE} % урона.
+Атакующий получает {STATUSEFFECT1DAMAGE} ед. урона от кровотечения в течение {TURNS} х."
 "herocard.passive_skill.description.effectonresist.activates_on_enemy_action.healthboost.addmana.once","При успешном сопротивлении этот герой увеличивает свое здоровье на {HEALTHBOOST} % и получает {MANA} % маны."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Герой получает {POWER} % маны каждый раз, когда враг использует особый навык, прямо увеличивающий здоровье."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.fixedpower.on_healthboost_cast","Герой получает {POWER} увеличенного здоровья каждый раз, когда враг использует особый навык, прямо увеличивающий здоровье."
@@ -70,6 +73,8 @@
 "herocard.passive_skill.description.effectonspecialskilldamagedone.bufftoremove.minordebuff.from.all.allies.safe.only_criticals","Когда этот герой наносит критический удар своим особым навыком, он безопасно очищает последний очищаемый недуг со всех союзников."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals","Когда этот герой наносит критический удар своим особым навыком, он увеличивает здоровье всех союзников на {HEALTHBOOST} %."
 "herocard.passive_skill.description.effectonspecialskilldamagereceived.healthboost.all.allies.only_criticals","Когда этот герой наносит критический удар своим особым навыком, он увеличивает здоровье всех союзников на {HEALTHBOOST} %"
+"herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","Когда союзник использует особый навык:
+ Этот персонаж наносит {POWER} % урона, а также дает {DIRECTEFFECT1STATUSEFFECT1DEFENSE} % защиты на {DIRECTEFFECT1STATUSEFFECT1TURNS} х. случайному врагу."
 "herocard.passive_skill.description.effectonspecialwithchance.activates_on_enemy_action.healthboost.fixedpower","Когда враг использует особый навык, у этого героя есть шанс {CHANCE} % увеличить свое здоровье на {HEALTHBOOST}."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.all.allies","При использовании особого навыка герой с вероятностью {CHANCE} % даст {POWER} % маны всем союзникам. Если особый навык полностью заряжен, вероятность {CHANCEFULLYCHARGED} %."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.notblue.allies","При использовании особого навыка герой с вероятностью {CHANCE} % даст {POWER} % маны всем союзникам, которые не относятся к стихии льда. Если особый навык полностью заряжен, вероятность {CHANCEFULLYCHARGED} %."
@@ -112,6 +117,14 @@
  Полностью заряженное ядро прислужников призывает бота-убийцу с {FAMILIARHEALTHPERCENT} % ОЗ и {FAMILIARATTACK} % атаки героя для всех союзников.
  ОЗ и атака, получаемые от героя, зависят от заряда ядра. Весь заряд расходуется при активации ядра.
  До того, как бот-убийца атакует цель, он уничтожает всех прислужников цели и наносит урон мегаприслужникам."
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always.temp.with.wither","Структурное ядро этого героя — ядро прислужников.
+
+Ядро прислужников активируется каждый раз при использовании особого навыка героя:
+
+ Полностью заряженное ядро прислужников призывает бота-убийцу с {FAMILIARHEALTHPERCENT} % ОЗ и {FAMILIARATTACK} % атаки героя для всех союзников.
+ ОЗ и атака, получаемые от героя, зависят от заряда ядра. Весь заряд расходуется при активации ядра.
+ До того, как бот-убийца атакует цель, он уничтожает всех прислужников цели и наносит урон мегаприслужникам.
+ Увядание: Каждый удар бота-убийцы меняет атаку цели на {ATTACKMODIFIER}."
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.bigminion.decrease","Вражеские мегаприслужники получают {HEALTHMODIFIER} % ОЗ."
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.minion.decrease","Вражеские прислужники получают {HEALTHMODIFIER} % ОЗ."
 "herocard.passive_skill.description.familiarsilencer.all.enemies.bigminion","Мегаприслужники противника не могут атаковать или использовать способности."
@@ -156,7 +169,11 @@
 "herocard.passive_skill.description.memorizestatuseffects#2","Персонаж обладает врожденной способностью запоминать недуги. Персонаж запомнит последние полученные недуги в количестве {0} до использования особого навыка. Можно запомнить только ограниченные по времени недуги."
 "herocard.passive_skill.description.memorizestatuseffects#3","Персонаж обладает врожденной способностью запоминать недуги. Персонаж запомнит последние полученные недуги в количестве {0} до использования особого навыка. Можно запомнить только ограниченные по времени недуги."
 "herocard.passive_skill.description.mimiclootonlevelcompleted","Каждый уникальный имитатор в вашем отряде дает шанс получить дополнительную добычу при завершении этапов. Этот имитатор дает шанс получить следующую дополнительную добычу:"
+"herocard.passive_skill.description.minioncorruption.all.enemies","В конце каждого хода у врагов с безумием есть шанс превратить своих прислужников в паразитов. По достижении {AUTOMATICTRANSFORMINSANITYTHRESHOLD} ед. безумия превращение происходит автоматически.
+ Прислужник превратится в жуткого паразита: {FAMILIAR1FAMILIARATTACK} % атаки, {FAMILIAR1FAMILIARHEALTHPERCENT} % здоровья, налагает {FAMILIAR1INSANITYTOADD} ед. безумия каждый ход.
+ Мегаприслужник превратится в жуткого мегапаразита: {FAMILIAR2FAMILIARATTACK} % атаки, {FAMILIAR2FAMILIARHEALTHPERCENT} % здоровья, налагает {FAMILIAR2INSANITYTOADD} безумия каждый ход."
 "herocard.passive_skill.description.nevermissspecial","Особый навык этого героя всегда попадает в цель."
+"herocard.passive_skill.description.preventboostedhealth.all.enemies","Здоровье врагов не может превышать максимальное значение."
 "herocard.passive_skill.description.ransack","В начале каждого хода этот герой грабит случайного врага:
 
 Крадет {DAMAGE} здоровья.
@@ -195,6 +212,7 @@
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.attackwither.defensewither.alldebuffs.with_chance","{CHANCE} % шанса сопротивления всем недугам, уменьшению маны и снятию усилений."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.insanity.with_chance","+{CHANCE} % шанса сопротивления всем недугам, уменьшению маны, снятию усилений и безумию."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance","+{CHANCE} % шанса сопротивления всем недугам, уменьшению маны и снятию усилений."
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance.with_effect.addmana","+{CHANCE} % шанса сопротивления всем недугам, уменьшению маны и снятию усилений. Даёт {MANA} % маны при каждом успешном сопротивлени."
 "herocard.passive_skill.description.resist.alldebuffs.with_chance","+{CHANCE} % шанса сопротивления всем недугам."
 "herocard.passive_skill.description.resist.alldefensemodifiers.alldebuffs","Персонаж обладает иммунитетом к недугам, которые влияют на защиту. Также применяется к недугам, влияющим на защиту от стихий."
 "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.alldebuffs","Персонаж обладает иммунитетом к недугам, накапливаемым эффектам и эффектам увядания, которые влияют на защиту."
@@ -218,6 +236,12 @@
 "herocard.passive_skill.description.resist.attackmodifiers","Персонаж обладает иммунитетом к недугам, которые влияют на атаку."
 "herocard.passive_skill.description.resist.attackmodifiers.allstatuseffectsandstacks","Персонаж обладает иммунитетом ко всем эффектам, в том числе складываемым, которые влияют на атаку. Это касается и усилений эффектов статуса."
 "herocard.passive_skill.description.resist.attackmodifiers.attackwither.alldebuffs","Персонаж обладает иммунитетом к недугам, накапливаемым эффектам и эффектам увядания, которые влияют на атаку."
+"herocard.passive_skill.description.resist.attackmodifiers.attackwither.attackgrowth.allstatuseffectsandstacks","Персонаж обладает иммунитетом к эффектам, усиливающим или ослабляющим атаку.
+
+Сюда относятся:
+ усиливающие эффекты статуса и недуги
+ положительные и отрицательные складываемые эффекты
+ эффекты роста и увядания"
 "herocard.passive_skill.description.resist.bleed","Персонаж обладает иммунитетом к недугам, которые наносят урон от кровотечения."
 "herocard.passive_skill.description.resist.bleed.with_effect.healthboost.addmana","Герой обладает иммунитетом к недугам, наносящим урон от кровотечения, а при успешном сопротивлении увеличивает свое здоровье на {HEALTHBOOST} и получает {MANA} % маны."
 "herocard.passive_skill.description.resist.buffdispels","Персонаж обладает иммунитетом к эффектам, снимающим усиления статуса."
@@ -346,6 +370,19 @@
 Пророщенный паразит: {EVOLVINGFAMILIAR2FAMILIARATTACK} % атаки, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % здоровья
 
 Цветок-мегапаразит: {EVOLVINGFAMILIAR3FAMILIARATTACK} % атаки, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % здоровья."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Призывает росток-паразит к случайному врагу каждый ход.
+Росток-паразит превращается в пророщенного паразита спустя {EVOLVINGFAMILIAR1EVOLVETURNS} х.
+Пророщенный паразит превращается в цветок-мегапаразит спустя {EVOLVINGFAMILIAR2EVOLVETURNS} х.
+Эволюция паразитов задерживается на {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} х. всякий раз, когда они поглощают лечение.
+
+Росток-паразит:
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % атаки, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % здоровья.
+
+Пророщенный паразит:
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % атаки, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % здоровья.
+
+Цветок-мегапаразит:
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % атаки, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % здоровья."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Призывает росток-паразит к случайному врагу каждый ход. Этот пассивный навык может активироваться только один раз за ход для каждой команды.
 Росток-паразит превращается в пророщенного паразита спустя {EVOLVINGFAMILIAR1EVOLVETURNS} х.
 Пророщенный паразит превращается в цветок-мегапаразит спустя {EVOLVINGFAMILIAR2EVOLVETURNS} х.
@@ -357,28 +394,28 @@
 Пророщенный паразит: {EVOLVINGFAMILIAR2FAMILIARATTACK} % атаки, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % здоровья.
 
 Цветок-мегапаразит: {EVOLVINGFAMILIAR3FAMILIARATTACK} % атаки, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % здоровья."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Призывает [#!]росток-паразит[#] к случайному врагу каждый ход. Этот пассивный навык может активироваться только один раз за ход для каждой команды.
-[*][#!]Росток-паразит[#] превращается в [#!]пророщенного паразита[#] спустя {EVOLVINGFAMILIAR1EVOLVETURNS} х.
-[*][#!]Пророщенный паразит[#] превращается в [#!]цветок-мегапаразит[#] спустя {EVOLVINGFAMILIAR2EVOLVETURNS} х.
-[*]Эволюция паразитов задерживается на {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} х. всякий раз, когда они поглощают лечение.
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Призывает росток-паразит к случайному врагу каждый ход. Этот пассивный навык может активироваться только один раз за ход для каждой команды.
+Росток-паразит превращается в пророщенного паразита спустя {EVOLVINGFAMILIAR1EVOLVETURNS} х.
+Пророщенный паразит превращается в цветок-мегапаразит спустя {EVOLVINGFAMILIAR2EVOLVETURNS} х.
+Эволюция паразитов задерживается на {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} х. всякий раз, когда они поглощают лечение.
 
-[#!]Росток-паразит[#]: 
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] атаки, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] здоровья.
+Росток-паразит: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % атаки, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % здоровья.
 
-[#!]Пророщенный паразит[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] атаки, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] здоровья.
+Пророщенный паразит: {EVOLVINGFAMILIAR2FAMILIARATTACK} % атаки, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % здоровья.
 
-[#!]Цветок-мегапаразит[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] атаки, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] здоровья."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Призывает [#!]росток-паразит[#] к случайному врагу каждый ход. Этот пассивный навык может активироваться только один раз за ход для каждой команды.
-[*][#!]Росток-паразит[#] превращается в [#!]пророщенного паразита[#] спустя {EVOLVINGFAMILIAR1EVOLVETURNS} х.
-[*][#!]Пророщенный паразит[#] превращается в [#!]цветок-мегапаразит[#] спустя {EVOLVINGFAMILIAR2EVOLVETURNS} х.
-[*]Эволюция паразитов задерживается на {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} х. всякий раз, когда они поглощают лечение.
+Цветок-мегапаразит: {EVOLVINGFAMILIAR3FAMILIARATTACK} % атаки, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % здоровья."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Призывает росток-паразит к случайному врагу каждый ход. Этот пассивный навык может активироваться только один раз за ход для каждой команды.
+Росток-паразит превращается в пророщенного паразита спустя {EVOLVINGFAMILIAR1EVOLVETURNS} х.
+Пророщенный паразит превращается в цветок-мегапаразит спустя {EVOLVINGFAMILIAR2EVOLVETURNS} х.
+Эволюция паразитов задерживается на {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} х. всякий раз, когда они поглощают лечение.
 
-[#!]Росток-паразит[#]: 
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] атаки, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] здоровья.
+Росток-паразит: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % атаки, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % здоровья.
 
-[#!]Пророщенный паразит[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] атаки, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] здоровья.
+Пророщенный паразит: {EVOLVINGFAMILIAR2FAMILIARATTACK} % атаки, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % здоровья.
 
-[#!]Цветок-мегапаразит[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] атаки, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] здоровья."
+Цветок-мегапаразит: {EVOLVINGFAMILIAR3FAMILIARATTACK} % атаки, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % здоровья."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Когда герой побежден, он призывает склизких мегаприслужников для союзников поблизости, у которых будет {FAMILIARHEALTHPERCENT} % ОЗ и {FAMILIARATTACK} % атаки побежденного героя."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Когда герой побежден, он призывает склизких мегаприслужников для союзников поблизости, у которых будет {FAMILIARHEALTHPERCENT} % ОЗ и {FAMILIARATTACK} % атаки побежденного героя."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Когда герой побежден, он призывает склизких мегаприслужников для союзников поблизости, у которых будет {FAMILIARHEALTHPERCENT} % ОЗ и {FAMILIARATTACK} % атаки побежденного героя."
@@ -413,6 +450,7 @@
 "herocard.passive_skill.inactive","НЕАКТИВНО: достигните максимального уровня и полного перерождения, чтобы активировать."
 "herocard.passive_skill.replace.minordebuff.attackmodifier.to.minorbuff.attackmodifier","Недуги, влияющие на атаку, заменяются усилениями атаки ({ATTACK} %) на {TURNS} х."
 "herocard.passive_skill.replace.minordebuff.buffimmunity.to.minorbuff.debuffshield","Недуги, влияющие на восприимчивость к усилениям, заменяются на невосприимчивость к недугам на {TURNS} х."
+"herocard.passive_skill.replace.minordebuff.damageovertime.to.minorbuff.fixedhealthrecovery","Длительный урон от недугов сменяется восстановлением {TOTAL} ОЗ в течение {TURNS} х."
 "herocard.passive_skill.replace.minordebuff.defensemodifier.to.minorbuff.defensemodifier","Недуги, влияющие на защиту, заменяются усилениями защиты ({DEFENSE} %) на {TURNS} х."
 "herocard.passive_skill.replace.minordebuff.healingmodifier.to.minorbuff.healmultiplier","Уменьшенное лечение заменяется на {HEALING} % увеличенного лечения на {TURNS} х."
 "herocard.passive_skill.replace.minordebuff.manaeffect.to.minorbuff.managenerationmodifier","Недуги, влияющие на ману, заменяются на генерацию маны ({MANAREGEN} %) на {TURNS} х."
@@ -479,6 +517,7 @@
 "herocard.passive_skill.title.effectonhealsupportcharacter.troop.heal","Дополнительное ИСЦЕЛЕНИЕ"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.attackmodifier","Эффект статуса при уменьшении маны"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.yellowdefensemodifier","Эффект статуса при уменьшении маны"
+"herocard.passive_skill.title.effectonownerdeath.damage.statuseffects.bleeding","Позорное поражение"
 "herocard.passive_skill.title.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Увеличение здоровья и получение маны при сопротивлении"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Мана от использования особого навыка здоровья"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.on_healthboost_cast","Увеличение здоровья при увеличении здоровья врага"
@@ -486,6 +525,7 @@
 "herocard.passive_skill.title.effectonspecialskilldamagedone.bufftoremove.minordebuff.safe.only_criticals","Очищение при критическом ударе особым навыком"
 "herocard.passive_skill.title.effectonspecialskilldamagedone.healthboost.only_criticals","Увеличение здоровья от критического особого навыка"
 "herocard.passive_skill.title.effectonspecialskilldamagereceived.healthboost.only_criticals","Увеличение здоровья от критического особого навыка"
+"herocard.passive_skill.title.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.directeffect1_statuseffects.defensemodifier","Покусывание"
 "herocard.passive_skill.title.effectonspecialwithchance.activates_on_enemy_action.healthboost","Увеличение здоровья от особой атаки врага"
 "herocard.passive_skill.title.effectonspecialwithchance.addmana","Мана при особом навыке"
 "herocard.passive_skill.title.effectonspecialwithchance.bufftoremove.minorbuff.latest","Снятие усиления при использовании особого навыка"
@@ -502,6 +542,8 @@
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.managenerationmodifier","Эффект статуса при особом навыке"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.poison","Отравление при особом навыке"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.possession","Безумная атака при особом навыке"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackingdefensemodifier","Складываемые эффекты при особом навыке"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackinghealthgeneration","Складываемые эффекты при особом навыке"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.underwater","Постепенный урон при особом навыке"
 "herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.damage.faster.average.once","Урон за особый навык врага"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.allbuffs.taunt","Мана за насмешку"
@@ -525,6 +567,7 @@
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","Мана при призыве паразита"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.damage.enemies.parasite","Гнев питомцев"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.healthboost.enemies.parasite","Увеличение здоровья при призыве паразита"
+"herocard.passive_skill.title.empowered_toon_resist_manareduction_dispels","Усиленная мультяшка"
 "herocard.passive_skill.title.familiaraccuracymodifier.all.enemies.minion.bigminion","Слепота прислужника"
 "herocard.passive_skill.title.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core","Ядро прислужников"
 "herocard.passive_skill.title.familiarhealthmodifier.all.enemies.bigminion.decrease","Слабые мегаприслужники"
@@ -561,7 +604,9 @@
 "herocard.passive_skill.title.memorizestatuseffects","Запоминание недугов"
 "herocard.passive_skill.title.mimic_dread_damage_minions","Ужас"
 "herocard.passive_skill.title.mimiclootonlevelcompleted","Добыча имитатора"
+"herocard.passive_skill.title.minioncorruption.all.enemies","Осквернение прислужников"
 "herocard.passive_skill.title.nevermissspecial","Идеальная меткость"
+"herocard.passive_skill.title.preventboostedhealth.all.enemies","Предотвращение усиленного исцеления"
 "herocard.passive_skill.title.ransack","Шанс вора"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Кража усиления"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","Охотничье чутье"
@@ -614,6 +659,8 @@
 "herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","Усиленное сопротивление блокировке особых навыков"
 "herocard.passive_skill.title.resist.stopmanageneration","Сопротивление остановке генерации маны"
 "herocard.passive_skill.title.resist.water","Сопротивление воде"
+"herocard.passive_skill.title.resist_all_attack_effects","Черта:
+крохотная фигура"
 "herocard.passive_skill.title.resist_all_defense_effects","Черта: 
 изящная фигура"
 "herocard.passive_skill.title.resistdebuffsfromfamiliars.minion","Сопротивление недугам от прислужников"
@@ -671,6 +718,9 @@
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","Усиление генерации маны от недугов"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","Маска стихии"
 "herocard.passive_skill.title.stylish","Стильно!"
+"herocard.passive_skill.title.stylish_epic","Стильно!"
+"herocard.passive_skill.title.stylish_legendary","Стильно!"
+"herocard.passive_skill.title.stylish_rare","Стильно!"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","Заклинатель ростков"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Заклинатель ростков"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Заклинатель ростков"
@@ -707,16 +757,3 @@
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Превращение усилений"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Превращение недугов"
 "herocard.passive_skill.title.wither.all.enemies","Увядание"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Призывает [#!]росток-паразит[#] к случайному врагу каждый ход.
-[*][#!]Росток-паразит[#] превращается в [#!]пророщенного паразита[#] спустя {EVOLVINGFAMILIAR1EVOLVETURNS} х.
-[*][#!]Пророщенный паразит[#] превращается в [#!]цветок-мегапаразит[#] спустя {EVOLVINGFAMILIAR2EVOLVETURNS} х.
-[*]Эволюция паразитов задерживается на {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} х. всякий раз, когда они поглощают лечение.
-
-[#!]Росток-паразит[#]:
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] атаки, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] здоровья.
-
-[#!]Пророщенный паразит[#]:
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] атаки, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] здоровья.
-
-[#!]Цветок-мегапаразит[#]:
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] атаки, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] здоровья."

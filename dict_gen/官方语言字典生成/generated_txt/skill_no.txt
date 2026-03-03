@@ -38,6 +38,7 @@ Gjedde-megadjevelen absorberer helbredelse og forsvinner når den har absorbert 
 "specials.v2.clearbuffs.minorbuff.neartotarget.enemies","Fjerner økninger fra målet og fiender i nærheten."
 "specials.v2.clearbuffs.minorbuff.sides.enemies","Fjerner økninger fra fiender på utkanten av fiendeformasjonen."
 "specials.v2.clearbuffs.minorbuff.single.enemies","Fjerner økninger fra målet."
+"specials.v2.clearbuffs.minorbuff.single.enemies.bypassremoveeffects","Fjerner økninger fra målet på en trygg måte."
 "specials.v2.clearbuffs.minordebuff.all.allies","Renser bort statuslidelser fra alle allierte."
 "specials.v2.clearbuffs.minordebuff.all.allies.latest","Renser den siste rensbare statuslidelsen fra alle allierte."
 "specials.v2.clearbuffs.minordebuff.neartotarget.allies","Renser bort statuslidelser fra brukeren og allierte i nærheten."
@@ -93,6 +94,8 @@ Gjedde-megadjevelen absorberer helbredelse og forsvinner når den har absorbert 
 "specials.v2.directeffect.reducemaxhealth.all.enemies.fixedpower","Reduserer maksimal helse for alle fiender med {REDUCTION}. Effekten er sterkere mot helter med økt helse."
 "specials.v2.directeffect.revival.all.allies.with_chance","Hver beseirede allierte har en {CHANCE} % sjanse til å gjenopplives med {HEALTH} % HP."
 "specials.v2.directeffect.shufflepositions.all.enemies","Omarrangerer fiendens stillinger tilfeldig."
+"specials.v2.dispel.minorbuff.chain_strike","Fjerner {REMOVALCOUNT} økninger fra hver fiende som blir truffet."
+"specials.v2.dispel.minorbuff.safe.chain_strike","Fjerner økninger på en trygg måte fra hver fiende som blir truffet."
 "specials.v2.familiars.statuseffect","{0}"
 "specials.v2.follower.follower_dragon_mordax.single.multiplepercharacter","Fremkaller {FAMILIARAMOUNT} hydrahoder med {FAMILIARHEALTH} HP til brukeren. Hydrahoder kan ikke hindres i å bli påkalt, og blir hydrahoder forsøkt stjålet, blir de drept i stedet."
 "specials.v2.follower.follower_moreau.single.multiplepercharacter","Påkaller {FAMILIARAMOUNT} beskytterkrystaller med {FAMILIARHEALTH} HP til brukeren. Beskytterkrystaller kan ikke hindres i å bli påkalt, og blir en beskytterkrystall forsøkt stjålet, blir den drept i stedet."
@@ -135,9 +138,8 @@ Hvert treff fra en bie-undersått påfører målet følgende statuslidelser:"
 "specials.v2.minion.bone_skull_minion.explode","Når knokkelskalle-undersåtten ødelegges, gjør den {FAMILIARFIXEDEXPLOSIONDAMAGE} skade på alle fiender."
 "specials.v2.minion.brown_puppy.all","Fremkaller en brun valp-undersått for hver allierte med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren."
 "specials.v2.minion.bull.single.multiplepercharacter","Fremkaller 3 okseundersåtter for brukeren. Okseundersåtten får {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren."
-"specials.v2.minion.butterfly.all","Fremkaller en sommerfugl-undersått for hver alliert med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren. 
-
-Hvert treff fra en sommerfugl-undersått påfører målet følgende statuslidelse:"
+"specials.v2.minion.butterfly.all","Fremkaller en sommerfugl-undersått for hver alliert med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren.
+ Hvert treff fra en sommerfugl-undersått påfører målet følgende statuslidelse:"
 "specials.v2.minion.card_soldier.single","Fremkaller en spillekort-undersått med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren."
 "specials.v2.minion.card_soldier_costume.single","Fremkaller en spillekort-undersått med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren."
 "specials.v2.minion.card_soldier_no_taunt.single","Fremkaller en spillekort-undersått med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren."
@@ -177,9 +179,8 @@ Den slu rev-undersåtten har {FAMILIARDODGECHANCE} % sjanse til å unnvike innk
 "specials.v2.minion.gargoyle_minion.all","Fremkaller en griff-undersått for hver alliert. Griff-undersåtten får {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren."
 "specials.v2.minion.grimoire.all","Fremkaller en grimoire-undersått for alle allierte, med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren."
 "specials.v2.minion.guardian_minion_delilah_costume.all","Fremkaller en vokter-undersått for hver allierte med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren."
-"specials.v2.minion.harpoon_sentry.all","Fremkaller en harpunvakt-undersått for hver alliert med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren. 
-
-Hvert treff fra en harpunvakt-undersått reduserer manaen til målet med {FAMILIARADDMANA} % og påfører målet følgende statuslidelser:"
+"specials.v2.minion.harpoon_sentry.all","Fremkaller en harpunvakt-undersått for hver alliert med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren.
+ Hvert treff fra en harpunvakt-undersått reduserer manaen til målet med {FAMILIARADDMANA} % og påfører målet følgende statuslidelser:"
 "specials.v2.minion.holy.all","Fremkaller en hellig undersått for alle allierte, med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren."
 "specials.v2.minion.holy.yellow","Elementlink påkaller en hellig undersått for alle hellig-allierte, med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren."
 "specials.v2.minion.holy_god_delilah.all","Fremkaller en vokter-undersått for hver allierte med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren."
@@ -241,6 +242,7 @@ Ravn-undersått gir {ATTACK} % angrep til alle eierens andre undersåtter."
 "specials.v2.minion.rock_golem_minion.all","Fremkaller en steingolemundersått for hver allierte med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren."
 "specials.v2.minion.sakura_fox","Sakura rev-undersått har {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren. Undersåtten gir eieren {FAMILIARADDMANA} % mana ved slutten av hver runde."
 "specials.v2.minion.sakura_fox.neartotarget","Påkaller en Sakura rev-undersått for brukeren og allierte i nærheten. Sakura rev-undersått har {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren. Undersåtten gir eieren {FAMILIARADDMANA} % mana ved slutten av hver runde."
+"specials.v2.minion.sakura_fox_costume","Påkaller en Sakura rev-undersått for brukeren og allierte i nærheten. Sakura rev-undersått har {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren. Undersåtten gir eieren {FAMILIARADDMANA} % mana ved slutten av hver runde."
 "specials.v2.minion.sakura_fox_costume.neartotarget","Påkaller en Sakura rev-undersått for brukeren og allierte i nærheten. Sakura rev-undersått har {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren. Undersåtten gir eieren {FAMILIARADDMANA} % mana ved slutten av hver runde."
 "specials.v2.minion.sand_golem.all","Fremkaller en sandgolemundersått for hver allierte med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren."
 "specials.v2.minion.sand_golem_papyros_costume.all","Fremkaller en sandgolemundersått for hver allierte med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren."
@@ -272,9 +274,8 @@ Ravn-undersått gir {ATTACK} % angrep til alle eierens andre undersåtter."
 "specials.v2.minion.wu_soldier.all","Fremkaller en Wu-soldatundersått for hver allierte med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren."
 "specials.v2.minion.wu_soldier.single","Påkaller en Wu-soldatundersått med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren."
 "specials.v2.minion.wu_soldier_costumes.all","Fremkaller en Wu-soldatundersått for hver allierte med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren."
-"specials.v2.minion.xulu_minion.all","Fremkaller en Xulu-undersått for hver alliert med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren. 
-
-Hvert treff fra en Xulu-undersått påfører målet følgende statuslidelse:"
+"specials.v2.minion.xulu_minion.all","Fremkaller en Xulu-undersått for hver alliert med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren.
+ Hvert treff fra en Xulu-undersått påfører målet følgende statuslidelse:"
 "specials.v2.moreau_parasite.summonedbyfamiliar","Levningskyggedjevelen skader målet sitt med {FAMILIARATTACK} % angrep hver runde.
 Levningskyggedjevelen absorberer helbredelse. Den forsvinner etter å ha absorbert et helbredende tall tilsvarende {FAMILIARHEALTHPERCENT} % av målets maksimale helse."
 "specials.v2.moreau_parasite.to.single.enemies.summonedby.follower_moreau.hasturns","Beskytterkrystaller fremkaller en levningskyggedjevel for en fiende hver {FAMILIAREFFECTFREQUENCY}. tur."
@@ -498,12 +499,15 @@ Statuseffekter som påvirker helse mottatt, påvirker skaleringen til helbredels
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets","Påfører {DAMAGE} % skade på målet {MAXHITS} tilfeldige fiender."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.minordamage.with_chance","Har en {CHANCE} % mulighet for ytterligere angrep mot tilfeldige fiender, opptil {MAXHITS} ganger. Ytterligere angrep gjør minimal skade."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.randommaintarget","Påfører {DAMAGE} % skade på {TOTALMAXHITS} tilfeldige fiender."
+"specials.v2.property.chainstrike.allowmaintargetinrandomtargets.with_chance","Har en {CHANCE} % mulighet for ytterligere angrep mot tilfeldige fiender, opptil {MAXHITS} ganger."
 "specials.v2.property.chainstrike.minordamage","Påfører ytterligere mindre skade på {MAXHITS} tilfeldige fiender."
 "specials.v2.property.chainstrike.minordamage.with_chance","Har en {CHANCE} % mulighet for ytterligere angrep mot tilfeldige fiender, opptil {MAXHITS} ganger. Ytterligere angrep gjør minimal skade."
 "specials.v2.property.chainstrike.randommaintarget","Påfører {DAMAGE} % skade på {TOTALMAXHITS} tilfeldige fiender."
 "specials.v2.property.chainstrikewitheffectonsametargethits.addmana.single.allies.2_outof_2","Brukeren får {EXTRAEFFECTPOWER} % mana hvis begge angrep treffer samme mål."
 "specials.v2.property.chainstrikewitheffectonsametargethits.allowmaintargetinrandomtargets.onehit","Påfører {DAMAGE} % skade på en tilfeldig fiende."
-"specials.v2.property.chainstrikewitheffectperhit.addmana.all.allies.minordamage.with_chance","Har en {CHANCE} % mulighet for ytterligere angrep mot tilfeldige fiender, opptil {MAXHITS} ganger. Ytterligere angrep gjør minimal skade. 
+"specials.v2.property.chainstrikewitheffectperhit.addmana.all.allies.moderate.minordamage.with_chance","Har en {CHANCE} % mulighet for ytterligere angrep mot tilfeldige fiender, opptil {MAXHITS} ganger. Ytterligere angrep gjør minimal skade. 
+ Alle allierte får en moderat mengde mana for hver treff."
+"specials.v2.property.chainstrikewitheffectperhit.addmana.all.allies.small.minordamage.with_chance","Har en {CHANCE} % mulighet for ytterligere angrep mot tilfeldige fiender, opptil {MAXHITS} ganger. Ytterligere angrep gjør minimal skade. 
  Alle allierte får en liten mengde mana for hver treff."
 "specials.v2.property.chainstrikewitheffectperhit.all.allies.minordamage.with_chance","Har en {CHANCE} % mulighet for ytterligere angrep mot tilfeldige fiender, opptil {MAXHITS} ganger. Ytterligere angrep gjør minimal skade."
 "specials.v2.property.chainstrikewitheffectperhit.damage.statuseffect.single.enemies.with_chance","Har en {CHANCE} % mulighet for ytterligere angrep mot tilfeldige fiender, opptil {MAXHITS} ganger."
@@ -519,7 +523,7 @@ Statuseffekter som påvirker helse mottatt, påvirker skaleringen til helbredels
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","Påfører {DAMAGE} % skade på målet og {MAXHITS} tilfeldige fiender.
 Fremkaller en frøplante-djevel for hver fiende som blir truffet."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","Påfører {DAMAGE} % skade på målet og {MAXHITS} tilfeldige fiender.
-[*]Fremkaller en [#!]frøplante-djevel[#] for hver fiende som blir truffet."
+Fremkaller en frøplante-djevel for hver fiende som blir truffet."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","Påfører målet og {MAXHITS} tilfeldige fiender {DAMAGE} % skade.
 Fremkaller en kastedjevel som treffer fiender. Djevelen skader fienden med {FAMILIARATTACK} % angrep hver runde.
 Kastedjevelen absorberer helbredelse og forsvinner når den har absorbert helse tilsvarende {FAMILIARHEALTHPERCENT} % av eierens maksimale helse."
@@ -638,6 +642,7 @@ Mørk kube reduserer målets maksimale helse med {REDUCTION}. Effekten er sterke
 "specials.v2.property.effectonkill.statuseffect.managenerationmodifier.neartotarget.allies","Hvis målet beseires med angrepet, får brukeren og allierte i nærheten {STATUSEFFECT1MANAREGEN} % mana-generering i {STATUSEFFECT1TURNS} runder."
 "specials.v2.property.effectonkill.statuseffect.managenerationmodifier.single.allies","Hvis målet beseires med angrepet, får brukeren {STATUSEFFECT1MANAREGEN} % mana-generering i {STATUSEFFECT1TURNS} runder."
 "specials.v2.property.effectonremovedstatuseffectspertarget.minordebuff.all.allies.effectonremoval.addmana.single","Renser alle statuslidelser på en trygg måte fra alle allierte og øker alle alliertes mana med {POWER} % for hver rensede lidelse."
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","Innhøster økninger fra alle fiender."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","Innhøsting fjerner trygt {MAXREMOVALCOUNT} økninger, positive stabler eller veksteffekter fra hvert mål. Dette inkluderer undispellable økninger som ikke kan fjernes og danseeffekter.
 Brukeren mottar {HEALTHBOOST} % økt helse for hver effekt fjernet. Økt helse kan overskride maksimal HP.
 
@@ -667,6 +672,7 @@ Visneeffekter fjernes først. For andre effekter fjernes den siste først."
 "specials.v2.property.effectpereatenfamiliar.damage.all.enemies.permil.minion.follower.minion.follower","Påfører {DAMAGE} % skade på alle fiender for hver undersått knust."
 "specials.v2.property.effectpereatenfamiliar.heal.all.allies.fixed.minion.follower","Alle allierte får tilbake {HEALTHPERFAMILIAR} HP for hver ødelagte undersått."
 "specials.v2.property.effectpereatenfamiliar.heal.all.allies.permil.minion.follower","Alle allierte får tilbake {HEALTHPERFAMILIAR} % helse for hver ødelagte undersått."
+"specials.v2.property.effectpereatenfamiliar.heal.all.allies.permil.minion.parasite","Alle allierte får tilbake {HEALTHPERFAMILIAR} % helse for hver ødelagte undersått og djevel."
 "specials.v2.property.effectpereatenfamiliar.heal.neartotarget.allies.fixed","Brukeren og allierte i nærheten får tilbake {HEALTHPERFAMILIAR} HP for hver ødelagte undersått."
 "specials.v2.property.effectpereatenfamiliar.heal.neartotarget.allies.permil","Brukeren og allierte i nærheten får tilbake {HEALTHPERFAMILIAR} % helse for hver ødelagte undersått."
 "specials.v2.property.effectpereatenfamiliar.heal.single.allies.fixed","Brukeren får tilbake {HEALTHPERFAMILIAR} HP for hver ødelagte undersått."
@@ -694,6 +700,8 @@ Alle allerte får tilbake ytterligere {POWERPERFAMILIAR} % helse for hver under
 "specials.v2.property.effectperremovedstatuseffect.addmana.neartotarget.enemies.no_base_effect","Reduserer manaen til målet og fiender i nærheten med {POWERPEREFFECT} % for hver fjernede statuseffekt, opptil {MAXPOWER} % totalt."
 "specials.v2.property.effectperremovedstatuseffect.damage.all.enemies","Gjør {BASEPOWER} % skade på alle fiender.
 Gjør ytterligere {POWERPEREFFECT} % skade for hver statustilstand som fjernes, opptil totalt {MAXPOWER} % skade."
+"specials.v2.property.effectperremovedstatuseffect.damage.single.enemies","Gjør {BASEPOWER} % skade på målet.
+ Påfører ytterligere {POWERPEREFFECT} % skade for hver statustilstand som fjernes, opp til totalt {MAXPOWER} % skade."
 "specials.v2.property.effectperremovedstatuseffect.heal.all.allies","Gjenvinner {BASEPOWER} % helse for alle allierte.
 Gjenvinner ytterligere {POWERPEREFFECT} % helse per statuseffekt som fjernes, inntil {MAXPOWER} % helse til sammen."
 "specials.v2.property.effectperremovedstatuseffect.heal.all.allies.no_base_effect","Gjenvinner {POWERPEREFFECT} % helse per statuseffekt som fjernes for alle allierte, inntil {MAXPOWER} % helse til sammen."
@@ -843,7 +851,7 @@ Vekst og visning påvirker skalering av skade.
 Økninger og statuslidelser som påvirker angrep og forsvar, påvirker ikke skaleringen av skade."
 "specials.v2.property.pre.alwayshit","Denne spesialferdigheten bommer aldri på målet sitt."
 "specials.v2.property.pre.eatfamiliars.all.allies.parasite","Ødelegger alle djevler fra alle allierte."
-"specials.v2.property.pre.eatfamiliars.all.allies.parasite.bigparasite","Ødelegger alle djevler fra alle allierte. Denne effekten skader megadjevler."
+"specials.v2.property.pre.eatfamiliars.all.allies.parasite.bigparasite","Ødelegger alle djevler fra alle allierte og skader alle megadjevler."
 "specials.v2.property.pre.eatfamiliars.all.allies.parasite.replacewith.gargoyle_minion","Erstatter alle smådjevler på alle allierte med griff-undersåtter."
 "specials.v2.property.pre.eatfamiliars.all.allies.parasite.replacewith.jellyfish_minion","Erstatter alle smådjevler på alle allierte med manet-undersåtter."
 "specials.v2.property.pre.eatfamiliars.all.allies.parasite.replacewith.jellyfish_minion_costume2","Erstatter alle smådjevler på alle allierte med manet-undersåtter."
@@ -968,6 +976,7 @@ Hvert hellige skjold på brettet øker sjansen for gjenopplivelse med {CHANCEPER
 "specials.v2.property.secondarydirecteffect.damage.all.enemies","Påfører {SECONDARYPOWER} % skade på alle fiender."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_abigail","Gjør {SECONDARYPOWER} % skade på alle fiender og påfører dem {STATUSEFFECT1INSANITYTOADD} galskap."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_ambrose","Gjør {SECONDARYPOWER} % skade på alle fiender og påfører dem {STATUSEFFECT1INSANITYTOADD} galskap."
+"specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_azureus","Gjør {SECONDARYPOWER} % skade på alle fiender og påfører dem {STATUSEFFECT1INSANITYTOADD} galskap."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_cultist_villager_female","Gjør {SECONDARYPOWER} % skade på alle fiender og påfører dem {STATUSEFFECT1INSANITYTOADD} galskap."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_gwendoline_changed_appearance","Gjør {SECONDARYPOWER} % skade på alle fiender og påfører dem {STATUSEFFECT1INSANITYTOADD} galskap."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_on_damage_khatrox","Gjør {SECONDARYPOWER} % skade på alle fiender og påfører dem {STATUSEFFECT1INSANITYTOADD} galskap."
@@ -1056,6 +1065,7 @@ Hvis målet ikke har en spesialferdighet eller denne ikke kan kopieres, brukes f
 "specials.v2.property.statuseffectreallocation.from.all.enemies.to.single.allies","Stjeler alle fjernbare økninger fra alle fiender og gir dem til brukeren."
 "specials.v2.property.statuseffectreallocation.from.neartotarget.allies.to.all.enemies","Fjerner alle statuslidelser som kan renses bort, fra brukere og allierte i nærheten, og fordeler dem tilfeldig på fiendene."
 "specials.v2.property.statuseffectreallocation.from.neartotarget.enemies.to.all.allies","Stjeler alle fjernbare økninger fra målet og fiender i nærheten, og fordeler dem tilfeldig til allierte."
+"specials.v2.property.statuseffectreallocation.from.neartotarget.enemies.to.all.allies.customreallocationcount.multiple","Stjeler {CUSTOMREALLOCATIONCOUNT} fjernbare økninger fra målet og fiender i nærheten, og fordeler dem tilfeldig til allierte."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.all.allies","Stjeler alle fjernbare økninger fra målet, og fordeler dem tilfeldig til allierte."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.neartotarget.allies","Stjeler alle fjernbare økninger fra målet og fordeler dem tilfeldig på brukeren og allierte i nærheten."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.single.allies.customreallocationcount","Stjeler den siste fjernbare økningen fra målet, og gir den til brukeren."
@@ -1077,6 +1087,7 @@ Gjør ytterligere {POWERPERALLOCATION} % skade for hver statuseffektøkning som
 "specials.v2.property.statuseffectreallocationwithfallbackeffect.from.all.enemies.to.all.allies.customreallocationcount","Stjeler den nyeste fjernbare statuseffektøkningen fra alle fiender, og fordeler dem tilfeldig på allierte."
 "specials.v2.property.statuseffecttagconditionrepeatspecial.extra","Hvis målet beseires, brukes ikke spesialferdigheten på nytt."
 "specials.v2.property.statuseffecttagconditionrepeatspecial.freezing_power_hooks.random","Hvis målet er påført frost, brukes frysende kraftslag igjen én gang på et tilfeldig mål."
+"specials.v2.property.statuseffecttagconditionrepeatspecial.the_scent_of_blood","Hvis målet er påført blødning, vil Blodlukt brukes på nytt én gang på målet."
 "specials.v2.property.statuseffecttransform.all.allies.minordebuff.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Alle lidelser som påvirker angrep, forsvar og mana-generering på alle allierte, forvandles til matchende økninger som ikke kan fjernes."
 "specials.v2.property.statuseffecttransform.all.enemies.minorbuff.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Alle økninger som påvirker angrep, forsvar og mana-generering på alle fiender, forvandles til matchende lidelser som ikke kan fjernes."
 "specials.v2.property.statuseffecttransform.minorbuff.attackmodifier.defensemodifier.managenerationmodifier.extra","Forvandling kan ikke blokkeres av statuseffekter, familieeffekter eller passive effekter.
@@ -1108,28 +1119,28 @@ Fiender med undersåtter eller megaundersåtter mottar  {STATUSEFFECT1DEFENSE} 
 Fiender med undersåtter eller megaundersåtter mottar  {STATUSEFFECT1DEFENSE} % forsvar i {STATUSEFFECT1TURNS} runder."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","Påfører {POWERFORTARGETSTHATMEETCONDITION} % skade mot fiender med defensive økninger, undersåtter eller megaundersåtter.
 Fiender med defensive økninger, undersåtter eller megaundersåtter mottar  {STATUSEFFECT1DEFENSE} % forsvar i {STATUSEFFECT1TURNS} runder."
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","[#!]Frøplante-djevelen[#] utvikler seg til en [#!]knopp-djevel[#] etter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
-[*][#!]Knopp-djevelen[#] utvikler seg til en [#!]blomst-megadjevel[#] etter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","Frøplante-djevelen utvikler seg til en knopp-djevel etter {EVOLVINGFAMILIAR1EVOLVETURNS} runder.
+Knopp-djevelen utvikler seg til en blomst-megadjevel etter {EVOLVINGFAMILIAR2EVOLVETURNS} runder.
 
-[*] [#!]Frøplante-djevel[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] angrep, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] helse
-[*] [#!]Knopp-djevel[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] angrep, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] helse
-[*] [#!]Blomst-megadjevel[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] angrep, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] helse
+ Frøplante-djevel: {EVOLVINGFAMILIAR1FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % helse
+ Knopp-djevel: {EVOLVINGFAMILIAR2FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % helse
+ Blomst-megadjevel: {EVOLVINGFAMILIAR3FAMILIARATTACK} % angrep, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % helse
 
-[*]En djevel skader målet sitt hver runde. En djevel forsvinner etter å ha absorbert helse. Mengde helse som kreves avhenger av målets maksimale helse.
-[*]Utviklingen til djevelen er forsinket med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runde hver gang de absorberer helbredelse."
+En djevel skader målet sitt hver runde. En djevel forsvinner etter å ha absorbert helse. Mengde helse som kreves avhenger av målets maksimale helse.
+Utviklingen til djevelen er forsinket med {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} runde hver gang de absorberer helbredelse."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","Hvis målet har djevler eller megadjevler, påføres {DAMAGE} %  skade på en tilfeldig annen fiend¨.
 Summons a Seedling Fiend to each hit enemy."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","Hvis målet har djevler eller megadjevler, påføres {DAMAGE} %  skade på en tilfeldig annen fiend¨.
 Summons a Seedling Fiend to each hit enemy."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.parasite.bigparasite.evolving_root_rot_fiend","Hvis målet har djevler eller megadjevler, påføres {DAMAGE} %  skade på en tilfeldig annen fiend¨.
 Summons a Seedling Fiend to each hit enemy."
-"specials.v2.property.targethealthdependantextradamage.over_health_boundary.all","Gjør {DAMAGEMULTIPLIER} % skade på fiendene med mer enn {HEALTHBOUNDARY} % helse."
-"specials.v2.property.targethealthdependantextradamage.over_health_boundary.neartotarget","Gjør {DAMAGEMULTIPLIER} % skade på fiendene med mer enn {HEALTHBOUNDARY} % helse."
-"specials.v2.property.targethealthdependantextradamage.over_health_boundary.single","Gjør {DAMAGEMULTIPLIER} % skade hvis målet har igjen mer enn {HEALTHBOUNDARY} % helse."
-"specials.v2.property.targethealthdependantextradamage.under_health_boundary.all","Gjør {DAMAGEMULTIPLIER} % skade på fiendene med mindre enn {HEALTHBOUNDARY} % helse."
-"specials.v2.property.targethealthdependantextradamage.under_health_boundary.neartotarget","Gjør {DAMAGEMULTIPLIER} % skade på fiendene med mindre enn {HEALTHBOUNDARY} % helse."
+"specials.v2.property.targethealthdependantextradamage.over_health_boundary.all","Hvis fienden har mer enn {HEALTHBOUNDARY} % helse igjen, påføres {DAMAGEMULTIPLIER} % skade i stedet."
+"specials.v2.property.targethealthdependantextradamage.over_health_boundary.neartotarget","Hvis fienden har mer enn {HEALTHBOUNDARY} % helse igjen, påføres {DAMAGEMULTIPLIER} % skade i stedet."
+"specials.v2.property.targethealthdependantextradamage.over_health_boundary.single","Hvis målet har mer enn {HEALTHBOUNDARY} % helse igjen, påføres {DAMAGEMULTIPLIER} % skade i stedet."
+"specials.v2.property.targethealthdependantextradamage.under_health_boundary.all","Hvis fienden har mindre enn {HEALTHBOUNDARY} % helse igjen, påføres {DAMAGEMULTIPLIER} % skade i stedet."
+"specials.v2.property.targethealthdependantextradamage.under_health_boundary.neartotarget","Hvis fienden har mindre enn {HEALTHBOUNDARY} % helse igjen, påføres {DAMAGEMULTIPLIER} % skade i stedet."
 "specials.v2.property.targethealthdependantextradamage.under_health_boundary.neartotargetminor","Gjør ekstra skade på fiendene med mindre enn {HEALTHBOUNDARY} % helse igjen."
-"specials.v2.property.targethealthdependantextradamage.under_health_boundary.single","Gjør {DAMAGEMULTIPLIER} % skade hvis målet har igjen mindre enn {HEALTHBOUNDARY} % helse."
+"specials.v2.property.targethealthdependantextradamage.under_health_boundary.single","Hvis målet har mindre enn {HEALTHBOUNDARY} % helse igjen, påføres {DAMAGEMULTIPLIER} % skade i stedet."
 "specials.v2.property.thresholdaftereffectchainstrike.allowmaintargetinrandomtargets.target_random.allow_duplicates.over_mana_threshold","Hvis målet har mer enn {THRESHOLD1} % mana etter manareduksjonen, brukes spesialferdigheten på en ny tilfeldig fiende. Skaden reduseres for hvert etterfølgende treff."
 "specials.v2.property.thresholdaftereffectchainstrike.over_mana_threshold","Hvis målet har mer enn {THRESHOLD1} % mana etter manareduksjonen, brukes spesialferdigheten på en ny tilfeldig fiende. Skaden reduseres for hvert etterfølgende treff."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold","Hvis målet hadde mer enn {THRESHOLD1} % helse før skaden ble påført, vil skaden også påføres en annen fiende med over {THRESHOLD2} % helse før noen skade er tatt fra denne spesialferdigheten. Hvis ingen av de andre fiendene hadde {THRESHOLD3} % helse, vil en tilfeldig fiende rammes. Skaden reduseres for hvert etterfølgende treff. Hver fiende kan kun treffes én gang."
@@ -1239,6 +1250,7 @@ Når brukeren ikke lenger skjuler seg, gjør den {DAMAGE} skade på alle fienden
 "specials.v2.statuseffect.major.baldurstatuseffectskill.single.allies.on.turnend.damage.random.enemies.while.caster.allies.boostedhealth","Gjør {POWER1} % skade på en tilfeldig fiende etter hver runde, så lenge brukeren har økt helse. Denne effekten kan ikke fjernes."
 "specials.v2.statuseffect.major.berserkdefense.neartotarget.allies","Brukeren og allierte i nærheten får {DEFENSE} % forsvar, og ytterligere {CHANGE} % økning hver gang de treffes gjennom {TURNS} runder, ned til {MAXMODIFIER} % forsvar. Denne effekten kan ikke fjernes."
 "specials.v2.statuseffect.major.berserkdefense.single.allies","Brukeren får {DEFENSE} % forsvar, og ytterligere {CHANGE} % økning hver gang de treffes gjennom {TURNS} runder, opp til {MAXMODIFIER} % forsvar. Denne effekten kan ikke fjernes."
+"specials.v2.statuseffect.major.bluedefensemodifier.single.allies","Brukeren får {DEFENSE} % forsvar mot is i {TURNS} runder. Denne effekten kan ikke renses."
 "specials.v2.statuseffect.major.buffimmunity.neartotarget.enemies","Målet og fiender i nærheten er immune mot nye statuseffektøkninger i {TURNS} runder. Denne effekten er ufjernbar."
 "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration","Alle allierte påfører {DAMAGE}–{MAXDAMAGE} skade på en tilfeldig fiende etter {TURNS} runder, basert på skaden allierte tok mens denne effekten var aktiv. Denne effekten kan ikke fjernes."
 "specials.v2.statuseffect.major.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death","Påfører {DAMAGE}–{MAXDAMAGE} skade på alle fiender etter {TURNS} runder eller hvis brukeren beseires, basert på skaden brukeren hadde tatt mens denne effekten var aktiv. Denne effekten kan ikke fjernes."
@@ -1427,6 +1439,7 @@ Lidelseballade
 "specials.v2.statuseffect.major.elementlinkyellowdefensemodifier.purple.allies","Elementlink gir alle mørke-allierte {DEFENSE} % forsvar mot hellig i {TURNS} runder. Denne effekten kan ikke fjernes."
 "specials.v2.statuseffect.major.elementmirror.red.all.allies","Alle allierte reflekterer alle statuslidelser og {DEFLECTION} % skade tilbake til angriperen og blokkerer andre negative effekter fra fienders ild-spesialferdigheter i {TURNS} runder. Denne effekten kan ikke fjernes."
 "specials.v2.statuseffect.major.elementmirror.red.neartotarget.allies","Brukeren og allierte i nærheten reflekterer alle statuslidelser og {DEFLECTION} % skade tilbake til angriperen og blokkerer andre negative effekter fra fienders ild-spesialferdigheter i {TURNS} runder. Denne effekten kan ikke fjernes."
+"specials.v2.statuseffect.major.elementswap.all.enemies.red","Alle fienders element endres til ild i {TURNS} runder. Denne effekten kan ikke renses."
 "specials.v2.statuseffect.major.ethereal.single.allies","Brukeren og allierte i nærheten bytter til spøkelsesform i {TURNS} turns.
  Mens den er i spøkelsesform, får den {ATTACK} % angrep."
 "specials.v2.statuseffect.major.fieryfortunedancemultieffect.neartotargetexceptcaster.allies.fiery_fortune_dance","Allierte i nærheten danser vill lykkedans i {TURNS} runder.
@@ -1544,6 +1557,16 @@ Nedsatt forsvar.
 Knusende spesialferdighet: Raserihugg.
 Denne effekten kan ikke fjernes."
 "specials.v2.statuseffect.major.revive.resurrectmajor.allexceptcaster.allies","Dersom en alliert, bortsett fra brukeren, beseires i løpet av de neste {TURNS} rundene, gjenopplives de i begynnelsen av neste runde med {HEALTH} % helse. Alle statustilstander og stabler fjernes når den allierte beseires. Denne effekten kan ikke fjernes."
+"specials.v2.statuseffect.major.revive.reviveatomoscute.single.allies","Dersom brukeren beseires i løpet av de neste {TURNS} rundene, gjenopplives de i begynnelsen av neste runde med {HEALTH} % helse. Alle statustilstander og stabler fjernes når brukeren beseires. Denne effekten kan ikke fjernes."
+"specials.v2.statuseffect.major.revive.reviveslime.neartotarget.allies","Brukeren og allierte i nærheten mottar slimgjenoppliving i {TURNS} runder. Denne effekten kan ikke fjernes.
+Hvis figuren beseires mens slimgjenoppliving er aktiv, gjenfødes brukeren som et Slim
+{HEALTH} % nedarvet helse
+{CHANGEDAPPEARANCEATTACK} % angrep
+{CHANGEDAPPEARANCEDEFENSE} % forsvar
+Spesialferdighet: {CHANGEDAPPEARANCEREPLACEDSPECIALTITLE}
+Denne effekten kan ikke fjernes.
+
+Hvis Slim ikke beseires på {CHANGEDAPPEARANCETURNS} runder, blir det gjenfødt som figurens opprinnelige form og nedarver Slims helse og mana."
 "specials.v2.statuseffect.major.revive.reviveslime.single.allies","Brukeren mottar slimgjenoppliving i {TURNS} runder. Denne effekten kan ikke fjernes.
 Hvis brukeren beseires mens slimgjenoppliving er aktiv, gjenfødes brukeren som et Slim
 {HEALTH} % nedarvet helse
@@ -1838,7 +1861,6 @@ Mens påvirket av astralkule, kan ikke eieren får nye statuseffektøkninger.
 "specials.v2.statuseffect.minor.bluedefensemodifier.neartotarget.allies","Brukeren og allierte i nærheten får {DEFENSE} % forsvar mot is i {TURNS} runder."
 "specials.v2.statuseffect.minor.bluedefensemodifier.neartotarget.enemies","Målet og fiender i nærheten får {DEFENSE} % forsvar mot is i {TURNS} runder."
 "specials.v2.statuseffect.minor.bluedefensemodifier.red.enemies","Alle ildfiender får {DEFENSE} % forsvar mot is i {TURNS} runder."
-"specials.v2.statuseffect.minor.bluedefensemodifier.single.allies","Brukeren får {DEFENSE} % forsvar mot is i {TURNS} runder."
 "specials.v2.statuseffect.minor.bluedefensemodifier.single.enemies","Målet for {DEFENSE} % forsvar mot is i {TURNS} runder."
 "specials.v2.statuseffect.minor.bonetossstatuseffectskill.single.allies.on.turnend.damage.random.enemies.summonfamiliar.random.enemies.fox_skeleton_fiend.with_chance","Etter hver runde bruker brukeren beinkast på en tilfeldig fiende i {TURNS} runder.
 Hvert beinkast påfører {POWER1} % skade.
@@ -1876,6 +1898,7 @@ Rev-skjelettdjevelen absorberer helbredelse. Den forsvinner etter å ha absorber
 "specials.v2.statuseffect.minor.burn.green.enemies","Alle natur-fiender tar {DAMAGE} brannskade gjennom {TURNS} runder."
 "specials.v2.statuseffect.minor.burn.neartotarget.enemies","Målet og fiender i nærheten tar {DAMAGE} brannskade over {TURNS} runder."
 "specials.v2.statuseffect.minor.burn.neartotarget.enemies.absorb_boostedhealth.to.all","Målet og fiender i nærheten tar {DAMAGE} brannskade over {TURNS} runder. Brukeren og alle dens allierte absorberer {ABSORBHEALING} % av påført brannskade som økt helse."
+"specials.v2.statuseffect.minor.burn.neartotarget.enemies.absorb_healing.to.all","Målet og fiender i nærheten tar {DAMAGE} brannskade over {TURNS} runder. Brukeren og alle dens allierte absorberer {ABSORBHEALING} % av påført brannskade som helse."
 "specials.v2.statuseffect.minor.burn.neartotarget.enemies.absorb_healing.to.single","Målet og fiender i nærheten tar {DAMAGE} brannskade over {TURNS} runder. Brukeren absorberer {ABSORBHEALING} % av påført brannskade som helse."
 "specials.v2.statuseffect.minor.burn.neartotarget.enemies.noturns","Målet og fiender i nærheten tar varig {DAMAGE} brannskade gjennom hver runde."
 "specials.v2.statuseffect.minor.burn.purple.enemies","Alle mørke-fiender tar {DAMAGE} brannskade gjennom {TURNS} runder."
@@ -1894,6 +1917,7 @@ Rev-skjelettdjevelen absorberer helbredelse. Den forsvinner etter å ha absorber
 "specials.v2.statuseffect.minor.changingmanageneration.neartotarget.enemies","Mana-genereringen til målet og fiender i nærheten senkes med {CHANGE} % per runde i {TURNS} runder."
 "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Alle allierte får {ATTACK} % normalt angrep i {TURNS} runder. Det vanlige angrepet økes med {CHANGE} % hver runde. Denne effekten kan være aktiv i tillegg til effekter som generelt endrer angrepet. Vanlige angrep kan til sammen ha maksimalt {MAXATTACK} % økt styrke mens denne effekten er aktiv."
 "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","Brukeren får {ATTACK} % normalt angrep i {TURNS} runder. Det vanlige angrepet økes med {CHANGE} % hver runde. Denne effekten kan være aktiv i tillegg til effekter som generelt endrer angrepet. Vanlige angrep kan til sammen ha maksimalt {MAXATTACK} % økt styrke mens denne effekten er aktiv."
+"specials.v2.statuseffect.minor.constantmanasteal.single.enemies.chain_strike","Brukeren stjeler {CURRENTMANASTEAL} % av generert mana fra trufne fiender over {TURNS} runder. Denne effekten fjernes dersom brukeren beseires."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier","Alle fiender utsettes for etsende brenning i {TURNS} runder. Etsende brenning gjør {DAMAGEPERTURN} brannskade og senker målets forsvar med {CHANGE} % hver runde."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier.extra_minion_damage.minion.bigminion.extra_minion_damage.minion.bigminion","Alle fiender utsettes for etsende brenning i {TURNS} runder. Etsende brenning gjør {DAMAGEPERTURN} brannskade og senker målets forsvar med {CHANGE} % hver runde. Påfører ekstra skade mot helter med undersått eller megaundersått."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier.extra_minion_damage.minion.bigminion.follower.extra_minion_damage.minion.bigminion.follower","Alle fiender utsettes for etsende brenning i {TURNS} runder. Etsende brenning gjør {DAMAGEPERTURN} brannskade og senker målets forsvar med {CHANGE} % hver runde. Påfører ekstra skade mot helter med undersått eller megaundersått."
@@ -2017,6 +2041,7 @@ Fortærende gørr: Fjerner alle økninger og veksteffekter som kan fjernes, påf
 "specials.v2.statuseffect.minor.dispel.neartotarget.enemies.minorbuff","Fjerner økninger fra målet og fiender i nærheten ved slutten av hver tur, i {TURNS} runder."
 "specials.v2.statuseffect.minor.dispel.single.allies.minordebuff","Renser bort statuslidelser fra brukeren etter hver runde i {TURNS} runder."
 "specials.v2.statuseffect.minor.dispel.single.enemies.minorbuff","Fjerner økninger fra målet ved slutten av hver tur, i {TURNS} runder."
+"specials.v2.statuseffect.minor.dispel.single.enemies.minorbuff.chain_strike","Fjerner økninger fra hver trufne fiende ved slutten av hver tur, i {TURNS} runder."
 "specials.v2.statuseffect.minor.dispelimmunity.all.allies","Alle allierte er immune mot fjerning og flytting av økninger i {TURNS} runder."
 "specials.v2.statuseffect.minor.dispelimmunity.neartotarget.allies","Brukeren og allierte i nærheten er immune mot fjerning og flytting av økninger i {TURNS} runder."
 "specials.v2.statuseffect.minor.dispelimmunity.single.allies","Brukeren er immun mot fjerning og flytting av økninger i {TURNS} runder."
@@ -2175,6 +2200,7 @@ Hver myne påfører {POWER1} % skade."
 "specials.v2.statuseffect.minor.healmultiplier.neartotarget.enemies","Målet og fiender i nærheten får {HEALING} % økning på all helbredelse de mottar i {TURNS} runder."
 "specials.v2.statuseffect.minor.healmultiplier.neartotarget.enemies.decrease","Målet og fiender i nærheten får {HEALING} % reduksjon på all helbredelse de mottar i {TURNS} runder."
 "specials.v2.statuseffect.minor.healmultiplier.neartotargetminor.enemies.decrease","Målet får {HEALING} % reduksjon og fiender i nærheten får {MINORHEALING} % reduksjon på all helbredelse de mottar i {TURNS} runder."
+"specials.v2.statuseffect.minor.healmultiplier.sides.enemies.decrease","Fiendene på kantene av fiendeformasjonen får {HEALING} % helbredelse i {TURNS} runder."
 "specials.v2.statuseffect.minor.healmultiplier.single.enemies","Målet får {HEALING} % økning på all helbredelse de mottar i {TURNS} runder."
 "specials.v2.statuseffect.minor.healmultiplier.single.enemies.decrease","Målet får {HEALING} % reduksjon på all helbredelse de mottar i {TURNS} runder."
 "specials.v2.statuseffect.minor.healmultiplier.single.enemies.decrease.resetondirectspecialdamage","Målet får {HEALING} % reduksjon for all helbredelse mottatt i {TURNS} runder. Effektvarigheten tilbakestilles dersom målet treffes med direkte skade fra en spesialferdighet."
@@ -2214,6 +2240,8 @@ Hver myne påfører {POWER1} % skade."
 "specials.v2.statuseffect.minor.increasingproportionalmanarecovery.neartotargetexceptcaster.allies","Allierte i nærheten får mana hver runde i {TURNS} runder. Mottatt mana øker hver runde, frem til den siste runden, og da vil {MAXMANAPERTURN} % mana mottas."
 "specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.allexceptcaster.allies.removeonspecialcast","Alle allierte, utenom brukeren, får {POWER} % ekstra kraft for neste spesialferdighet som brukes. Den ekstra angrepskraften øker med {INCREASEPERTURN} % hver tur, opptil maksimalt {MAXPOWERADDITION} % totalt."
 "specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.single.allies.removeonspecialcast","Brukeren får {POWER} % ekstra angrepskraft for neste spesialferdighet som brukes. Den ekstra angrepskraften øker med {INCREASEPERTURN} % hver tur, opptil maksimalt {MAXPOWERADDITION} % totalt."
+"specials.v2.statuseffect.minor.ingeniousbomb.single.enemies.onremoval.damage.neartotarget.allies.expiration.replacesamestatuseffect.death.override","Målet mottar en genial bombe. Etter {TURNS} runder eksploderer den geniale bomben og gjør {DAMAGE} skade på eieren og allierte i nærheten. Den geniale bomben eksploderer også hvis den erstattes eller eieren beseires."
+"specials.v2.statuseffect.minor.ingeniousstabilizer.random.allies.onremoval.heal.neartotarget.allies.expiration.replacesamestatuseffect.death.override","En tilfeldig alliert mottar en genial stabilisering. Etter {TURNS} runder aktiveres den geniale stabilisering og får tilbake {POWER} % helse for eieren og allierte i nærheten. Den geniale stabiliseringen aktiveres også hvis den erstattes eller eieren beseires."
 "specials.v2.statuseffect.minor.insanityonhit.single.allies","De neste {TURNS} rundene gir brukeren alle fiender {STATUSEFFECT1INSANITYTOADD} galskap hver gang brukeren blir truffet. Effekten blir aktivert når fienden gjør skade via spesialferdigheter. Fliser og normale angrep er begrenset til én per runde."
 "specials.v2.statuseffect.minor.invisible.single.allies.all.enemies.expiration.while.caster.allies.hastargetableallies","Hvis brukeren har allierte målmuligheter, er brukeren fritatt fra å kunne være et mål i {TURNS} runder. Påfører {FIXEDPOWER} skade på alle fiender etter den siste runden eller når brukeren er den siste figuren som kan være målmulighet."
 "specials.v2.statuseffect.minor.lifesteal.all.allies","Alle allierte helbredes for {LIFESTEAL} % av tildelt normal skade i {TURNS} runder."
@@ -2262,6 +2290,7 @@ Hver myne påfører {POWER1} % skade."
 "specials.v2.statuseffect.minor.manaonremoval.single.enemies.onremoval.addmana.all.enemies.death","Hvis målet beseires de neste {TURNS} rundene, får alle allierte av brukeren {MANA} % mana."
 "specials.v2.statuseffect.minor.manaonremovalmanagenerationmodifier.all.allies.onremoval.addmana.single.allies","Alle allierte får {MANAREGEN} % mana-generering i {TURNS} runder. Hvis effekten fjernes før varigheten er over, vil målet med effekten få {MANA} % mana."
 "specials.v2.statuseffect.minor.manaonremovalmanagenerationmodifier.all.enemies.onremoval.addmana.single.allies.decrease","Alle fiender får {MANAREGEN} % mana-generering i {TURNS} runder. Hvis effekten fjernes før varigheten er over, vil manaen til målet med effekten reduseres med {MANA} % mana."
+"specials.v2.statuseffect.minor.manaovertime.all.allies","De neste {TURNS} rundene mottar alle allierte {MANAMODIFIERPERTURN} % mana når runden er over."
 "specials.v2.statuseffect.minor.manaovertime.all.enemies.decrease","I {TURNS} runder reduseres manaen til alle fiender med {MANAMODIFIERPERTURN} % ved slutten av runden."
 "specials.v2.statuseffect.minor.manaovertime.allexceptcaster.allies","De neste {TURNS} rundene mottar alle allierte, med unntak av brukeren, {MANAMODIFIERPERTURN} % mana når runden er over."
 "specials.v2.statuseffect.minor.manaovertime.moderate.all.allies","Alle allierte mottar et moderat antall mana over {TURNS} runder."
@@ -2285,6 +2314,9 @@ Hver månestråle reduserer manaen til fienden som er truffet, med {ABSPOWER2} 
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.single.allies.on.turnend.damage.random.enemies.addmana.random.enemies","Ved slutten av hver tur vil brukeren skyte en månestråle på en tilfeldig fiende i {TURNS} runder.
 Hver månestråle påfører {POWER1} % skade.
 Hver månestråle reduserer manaen til fienden som er truffet med {ABSPOWER2} %."
+"specials.v2.statuseffect.minor.moonbeamstatuseffectskill.single.allies.on.turnend.damage.random.enemies.reducemaxhealth.random.enemies.with_chance","Ved slutten av hver runde skyter brukeren en astralstråle på en tilfeldig fiende i {TURNS} runder.
+Hver astralstråle påfører {POWER1} % skade.
+Hver astralstråle reduserer maksimal helse på fienden truffet med {REDUCTION2}."
 "specials.v2.statuseffect.minor.moonriseward.all.allies.decrease.specialskill.statuseffectskill.green","Alle allierte får en ildstormverge i {TURNS} runder som reduserer innkommende skade fra spesialferdighet med opptil -{MAX}. Reduserer skade med ytterligere {ADDITIONALDAMAGEMODIFIER} % når angriperen er av natur-element."
 "specials.v2.statuseffect.minor.moonriseward.all.allies.decrease.specialskill.statuseffectskill.red","Alle allierte får en frostverge i {TURNS} runder som reduserer innkommende skade fra spesialferdighet med opptil -{MAX}. Reduserer skade med ytterligere {ADDITIONALDAMAGEMODIFIER} % når angriperen er av ild-element."
 "specials.v2.statuseffect.minor.moonriseward.all.allies.decrease.specialskill.statuseffectskill.yellow","Alle allierte får en måneoppgangvokter i {TURNS} runder som reduserer innkommende skade fra spesialferdighet med opptil -{MAX}. Reduserer skade med ytterligere {ADDITIONALDAMAGEMODIFIER} % når angriperen er av hellig-element."
@@ -2310,6 +2342,12 @@ Hver månestråle reduserer manaen til fienden som er truffet med {ABSPOWER2} %
 "specials.v2.statuseffect.minor.normalattackreceiveddamagemodifier.neartotargetminor.enemies","Målet tar {DAMAGEMODIFIER} % økt skade fra normale angrep, og fiender i nærheten tar {MINORDAMAGEMODIFIER} % skade fra normale angrep i 3 runder."
 "specials.v2.statuseffect.minor.painempathy.sides.enemies","I {TURNS} runder tar fiendene på kanten av fiendens formasjon {DAMAGEMULTIPLIER} % av all skade påført deres allierte."
 "specials.v2.statuseffect.minor.painempathy.single.enemies","I {TURNS} runder tar målet {DAMAGEMULTIPLIER} % av all skade påført deres allierte."
+"specials.v2.statuseffect.minor.piercingshurikenstatuseffectskill.all.allies.on.turnend.damage.random.enemies.with_chance","Ved slutten av hver runde kaster alle allierte en gjennomtrengende shuriken på en tilfeldig fiende i {TURNS} runder.
+Hver gjennomtrengende shuriken påfører {POWER1} % skade."
+"specials.v2.statuseffect.minor.piercingshurikenstatuseffectskill.neartotarget.allies.on.turnend.damage.random.enemies.with_chance","Ved slutten av hver runde kaster brukeren og allierte i nærheten en gjennomtrengende shuriken på en tilfeldig fiende i {TURNS} runder.
+Hver gjennomtrengende shuriken påfører {POWER1} % skade."
+"specials.v2.statuseffect.minor.piercingshurikenstatuseffectskill.single.allies.on.turnend.damage.random.enemies.with_chance","Ved slutten av hver runde kaster brukeren en gjennomtrengende shuriken på en tilfeldig fiende i {TURNS} runder.
+Hver gjennomtrengende shuriken påfører {POWER1} % skade."
 "specials.v2.statuseffect.minor.poison.all.enemies","Alle fiender tar {DAMAGE} giftskade over {TURNS} runder."
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_boostedhealth.to.all","Alle fiender tar {DAMAGE} giftskade over {TURNS} runder. Brukeren og alle allierte absorberer {ABSORBHEALING} % av påført giftskade som økt helse."
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_boostedhealth.to.single","Alle fiender tar {DAMAGE} giftskade over {TURNS} runder. Brukeren absorberer {ABSORBHEALING} % av påført giftskade som økt helse."
@@ -2327,6 +2365,7 @@ Hver månestråle reduserer manaen til fienden som er truffet med {ABSPOWER2} %
 "specials.v2.statuseffect.minor.poison.single.enemies.absorb_boostedhealth.to.single","Målet tar {DAMAGE} giftskade over {TURNS} runder. Brukeren absorberer {ABSORBHEALING} % av påført giftskade som økt helse."
 "specials.v2.statuseffect.minor.poison.single.enemies.absorb_healing.to.single","Målet tar {DAMAGE} giftskade over {TURNS} runder. Brukeren absorberer {ABSORBHEALING} % av påført giftskade som helse."
 "specials.v2.statuseffect.minor.poison.single.enemies.absorb_mana.to.single","Målet tar {DAMAGE} giftskade over {TURNS} runder. Brukeren får en liten mengde mana hver gang giftskaden brukes."
+"specials.v2.statuseffect.minor.poison.single.enemies.chain_strike","Alle mål som blir truffet, tar {DAMAGE} giftskade over {TURNS} runder."
 "specials.v2.statuseffect.minor.poison.single.enemies.contagious","Målet tar {DAMAGE} giftskade over {TURNS} runder. Denne effekten sprer seg til fiender i nærheten."
 "specials.v2.statuseffect.minor.poison.yellow.enemies","Alle hellig-fiender tar {DAMAGE} giftskade over {TURNS} runder."
 "specials.v2.statuseffect.minor.poisonpertile.purple.all.enemies","Alle fiender får {BASEDAMAGE} giftskade og en økning på {DAMAGEPERTILE} skade per mørke-skjold på brettet i {TURNS} runder, inntil {MAXDAMAGE} skade."
@@ -2362,6 +2401,8 @@ Hver månestråle reduserer manaen til fienden som er truffet med {ABSPOWER2} %
 "specials.v2.statuseffect.minor.purpledefensemodifier.all.enemies","Alle fiender får {DEFENSE} % forsvar mot mørk i {TURNS} runder."
 "specials.v2.statuseffect.minor.purpledefensemodifier.neartotarget.allies","Brukeren og allierte i nærheten får {DEFENSE} % forsvar mot mørke i {TURNS} runder."
 "specials.v2.statuseffect.minor.purpledefensemodifier.neartotarget.enemies","Målet og fiender i nærheten får {DEFENSE} % forsvar mot mørke i {TURNS} runder."
+"specials.v2.statuseffect.minor.purpledefensemodifier.notpurple.both","Alle allierte og fiender får {DEFENSE} % forsvar mot mørk i {TURNS} runder."
+"specials.v2.statuseffect.minor.purpledefensemodifier.single.allies","Brukeren får {DEFENSE} % forsvar mot mørke i {TURNS} runder."
 "specials.v2.statuseffect.minor.purpledefensemodifier.single.enemies.chain_strike","Alle trufne mål får {DEFENSE} % forsvar mot mørke i {TURNS} runder."
 "specials.v2.statuseffect.minor.purpledefensemodifier.yellow.enemies","Alle hellig-fiender får {DEFENSE} % forsvar mot mørk i {TURNS} runder."
 "specials.v2.statuseffect.minor.reallocatestatuseffectsperturn.single.allies.enemies.minorbuff.newest","Ved slutten av hver runde stjeles den nyeste fjernbare økningen fra alle fiender, og fordeler dem tilfeldig blant allierte i {TURNS} runder."
@@ -2430,6 +2471,7 @@ Motstandsråte
 "specials.v2.statuseffect.minor.resistcleansefromspecial.sides.enemies","Fiendene på kanten av fiendens formasjon kan ikke få statuslidelsene sine fjernet eller flyttet av spesialferdigheter i {TURNS} runder."
 "specials.v2.statuseffect.minor.resistcleansefromspecial.single.enemies","Målet kan ikke få statuslidelsene sine fjernet eller flyttet av spesialferdigheter i {TURNS} runder."
 "specials.v2.statuseffect.minor.resisthealing.all.enemies.damage","Alle fiender i nærheten motstår helbredelse og tar {FIXEDPOWER} skade per motstått helbredelse i {TURNS} runder."
+"specials.v2.statuseffect.minor.resisthealing.lessthanhalfhpleft.enemies.damage","Fiendene med mindre enn 50 % helse igjen motstår helbredelse og tar {FIXEDPOWER} skade per motstått helbredelse i {TURNS} runder."
 "specials.v2.statuseffect.minor.resisthealing.neartotarget.enemies.damage","Målet og fiender i nærheten motstår helbredelse og tar {FIXEDPOWER} skade per motstått helbredelse i {TURNS} runder."
 "specials.v2.statuseffect.minor.resisthealing.sides.enemies.damage","Fiendene på kanten av fiendens formasjon motstår helbredelse og tar {FIXEDPOWER} skade per motstått helbredelse i {TURNS} runder."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage","Målet motstår helbredelse og tar {FIXEDPOWER} skade per motstått helbredelse i {TURNS} runder."
@@ -2568,10 +2610,10 @@ Når Forbedret forsvarslidelse avsluttes, fjernes eller erstattes, tar fienden {
  Når Forbedret forsvarslidelse avsluttes, fjernes eller erstattes, fjernes alle statustilstand-økninger fra målet."
 "specials.v2.statuseffect.minor.specialskilldefensemodifier.single.enemies.withactivationcount.onremoval.expiration.dispel.removal.override.replacesamestatuseffect.reallocation.removes.statuseffectbuffs.single.allies","Forbedret forsvarslidelse: Målet får {SPECIALSKILLDEFENSE} % forsvar mot spesialferdigheter. Denne effekten varer frem til målet tar skade fra en spesialferdighet {MAXACTIVATIONCOUNT} ganger.
  Når Forbedret forsvarslidelse avsluttes, fjernes eller erstattes, fjernes alle statustilstand-økninger fra målet."
-"specials.v2.statuseffect.minor.spellslay.all.enemies","Gjør automatisk {DAMAGE} skade på fienden som rammes, og forbruker {MANAREDUCTION} % mana fra den rammede fienden hver gang denne får full mana, i {TURNS} turer."
-"specials.v2.statuseffect.minor.spellslay.neartotarget.enemies","Gjør automatisk {DAMAGE} skade på fienden som rammes, og forbruker {MANAREDUCTION} % mana fra den rammede fienden hver gang denne får full mana, i {TURNS} turer."
-"specials.v2.statuseffect.minor.spellslay.single.enemies","Gjør automatisk {DAMAGE} skade på målet, og tar {MANAREDUCTION} % mana fra målet når målet får full mana i {TURNS} runder."
-"specials.v2.statuseffect.minor.spellslay.singleandblue.enemies","Gjør automatisk {DAMAGE} skade på målet og alle is-fiender når de får full mana, og manaen til målene reduseres med {MANAREDUCTION} % i {TURNS} runder."
+"specials.v2.statuseffect.minor.spellslay.all.enemies","Alle fiender tar {DAMAGE} skade og mister {MANAREDUCTION} % mana når manaen er full, de neste {TURNS} rundene."
+"specials.v2.statuseffect.minor.spellslay.neartotarget.enemies","Målet og fiender i nærheten tar {DAMAGE} skade og mister {MANAREDUCTION} % mana når manaen er full, de neste {TURNS} rundene."
+"specials.v2.statuseffect.minor.spellslay.single.enemies","Målet tar {DAMAGE} skade og mister {MANAREDUCTION} % mana når manaen er full, de neste {TURNS} rundene."
+"specials.v2.statuseffect.minor.spellslay.singleandblue.enemies","Målet og alle isfiender tar {DAMAGE} skade og mister {MANAREDUCTION} % mana når manaen er full, de neste {TURNS} rundene."
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies","Stabel (Maks: {MAXSTACK}): Alle allierte får {ATTACK} % angrep."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","Stabel (Maks: {MAXSTACK}): Brukeren får {ATTACK} % angrep."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","Stabel (Maks.: {MAXSTACK}): Brukeren får et ytterligere {ATTACK} % angrep for hver ødelagte undersått."
@@ -2602,7 +2644,10 @@ Når Forbedret forsvarslidelse avsluttes, fjernes eller erstattes, tar fienden {
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","Stabel (Maks: {MAXSTACK}): Alle allierte får {MAXHEALTH} % nedarvet HP for nye undersåtter de fremkaller."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","Stabel (Maksimalt: {MAXSTACK}): All skade alle allierte tar reduseres med {DAMAGEMODIFIER} %"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","Stabel (Maksimalt: {MAXSTACK}): All skade alle fiender tar øker med {DAMAGEMODIFIER} %"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","Stabel (Maks: {MAXSTACK}): Fiender med mindre enn 50 % helse igjen tar {DAMAGEMODIFIER} % skade."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies.withbasestackcount","Stabel +{BASESTACKCOUNT} (Maks: {MAXSTACK}): Fiender med mindre enn 50 % helse igjen tar {DAMAGEMODIFIER} % skade."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease","Stabel (Maksimalt: {MAXSTACK}): All skade brukeren og allierte i nærhetne mottar er redusert med {DAMAGEMODIFIER} %."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","Stabel +{BASESTACKCOUNT} (Maksimalt: {MAXSTACK}): All skade brukeren og allierte i nærheten mottar reduseres med {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.enemies","Stabel (Maksimalt: {MAXSTACK}): All skade målet og fiender i nærheten tar øker med {DAMAGEMODIFIER} %"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","Stabel (Maksimalt: {MAXSTACK}): All skade brukeren mottar er redusert med {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","Stabel (Maksimalt: {MAXSTACK}): All skade som målet tas øker med {DAMAGEMODIFIER} %."
@@ -2621,6 +2666,8 @@ Hver unnvikelse gir alle allierte {MANAREGEN} % mana-generering i {TURNS} runde
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.druid_thorn","Alle allierte får {DODGE} % sjanse til å dukke unna spesialferdigheter i {TURNS} runder. Hvert dukk fremkaller en torne-undersått."
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.druid_thorn_empowered","Alle allierte får {DODGE} % sjanse til å dukke unna spesialferdigheter i {TURNS} runder. Hvert dukk fremkaller en styrket torne-undersått."
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.sakura_fox","Alle allierte får {DODGE} % sjanse til å dukke unna spesialferdigheter i {TURNS} runder. Hvert dukk fremkaller en Sakura rev-undersått."
+"specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.sakura_fox_costume","Alle allierte får {DODGE} % sjanse til å dukke unna spesialferdigheter i {TURNS} runder. Hvert dukk fremkaller en Sakura rev-undersått."
+"specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_blue_titan","Alle allierte får {ATTACK} % angrep i {TURNS} runder. Mot is-titaner får alle allierte {ATTACKAGAINSTVALIDTARGET} % angrep."
 "specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_red_titan","Alle allierte får {ATTACK} % angrep i {TURNS} runder. Mot ild-titaner får alle allierte {ATTACKAGAINSTVALIDTARGET} % angrep."
 "specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_yellow_titan","Alle allierte får {ATTACK} % angrep i {TURNS} runder. Mot hellig-titaner får alle allierte {ATTACKAGAINSTVALIDTARGET} % angrep."
 "specials.v2.statuseffect.minor.taunt.single.allies","Brukeren mottar Provoser, som forhindrer fiender fra å bruke spesialferdigheter på brukerens allierte i {TURNS} runder."
@@ -2646,12 +2693,18 @@ Hver unnvikelse gir alle allierte {MANAREGEN} % mana-generering i {TURNS} runde
  Hvis magmakuben blir fjernet, får eieren {STATUSEFFECT1MANAREGEN} % mana-generering i {REMOVALEFFECT2STATUSEFFECT1TURNS} runder."
 "specials.v2.statuseffect.minor.underwaterpertile.blue.all.enemies.buffoverride.red.majordebuff","Alle fiender får {BASEDAMAGE} vannskade og en økning på {DAMAGEPERTILE} skade per is-skjold på brettet i {TURNS} runder, inntil {MAXDAMAGE} skade. Denne effekten kan ikke renses bort for ild-fiender."
 "specials.v2.statuseffect.minor.vengeance.single.allies.onremoval.damage.all.enemies.dispel.removal.specialskill","Brukeren får Hevn i {TURNS} runder. Hvis Hevn fjernes av en spesialferdighet, vil alle fiender ta {DAMAGE} skade."
+"specials.v2.statuseffect.minor.wildburn.neartotarget.enemies","Vill: I {TURNS} runder tar målet og fiender i nærheten {DAMAGEPERTURN} eller {WILDDAMAGEPERTURN} brannskade per runde."
+"specials.v2.statuseffect.minor.wildhealthrecovery.all.allies","Vill: I {TURNS} runder vil alle allierte enten få tilbake {HPPERTURN} HP eller motta {WILDHPPERTURN} økt helse hver runde."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.all.allies","Alle allierte får {DEFENSE} % forsvar mot hellig i {TURNS} runder."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.neartotarget.allies","Brukeren og allierte i nærheten får {DEFENSE} % forsvar mot hellig i {TURNS} runder."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.neartotarget.enemies","Målet og fiender i nærheten får {DEFENSE} % forsvar mot hellig i {TURNS} runder."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.single.allies","Brukeren får {DEFENSE} % forsvar mot hellig i {TURNS} runder."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.single.enemies","Målet for {DEFENSE} % forsvar mot hellig i {TURNS} runder."
+"specials.v2.statuseffect.minor.yellowtrap.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.chain_strike.amplified.against_purple.against_titan.modifies_power","Fiender som treffes blir påvirket av piggfelle.
+ Piggfellen gir målet {DEFENSE} % forsvar mot hellig. Mot mørke-titaner gir piggfellen målet {AMPLIFIEDDEFENSE} % forsvar mot hellig.
+ Piggfeller eksploderer etter {TURNS} runder og påfører eieren {DAMAGE} skade."
 "specials.v2.statuseffect.minor.zombiecurse.all.enemies","Alle fiender får zombiens forbannelse. Når den forbannede fienden beseires, eksploderer den og gjør {EXPLOSIONDAMAGE} skade på alle sine allierte. Denne effekten varer i {TURNS} runder."
+"specials.v2.statuseffect.minor.zombiecurse.neartotarget.enemies","Målet og fiender i nærheten får zombiens forbannelse. Når den forbannede fienden beseires, eksploderer den og gjør {EXPLOSIONDAMAGE} skade på alle sine allierte. Denne effekten varer i {TURNS} runder."
 "specials.v2.statuseffect.permanent.accuracymodifier.purple.allies","Alle mørk-helter får {ACCURACY} % treffsikkerhet."
 "specials.v2.statuseffect.permanent.attackmodifier.yellow.allies","Alle hellige helter får {ATTACK} % angrep."
 "specials.v2.statuseffect.permanent.insanity.all.allies","Påfører alle allierte {INSANITYTOADD} galskap."
@@ -2661,10 +2714,10 @@ Galskap
 Legger til en sjanse for å reversere målrettingen til en spesialferdighet.
 Helters galskap kan senkes ved direkte helbredelse fra en spesialferdighet."
 "specials.v2.statuseffect.permanent.insanity.all.enemies","Påfører alle fiender {INSANITYTOADD} galskap."
-"specials.v2.statuseffect.permanent.insanity.allexceptcaster.allies","Påfører alle allierte, med unntak av brukeren, {INSANITYTOADD} galskap."
+"specials.v2.statuseffect.permanent.insanity.allexceptcaster.allies","Bruk av denne spesialferdigheten påfører alle allierte, med unntak av brukeren, {INSANITYTOADD} galskap."
 "specials.v2.statuseffect.permanent.insanity.neartotarget.enemies","Påfører målet og fiender i nærheten {INSANITYTOADD} galskap."
-"specials.v2.statuseffect.permanent.insanity.neartotargetexceptcaster.allies","Påfører allierte i nærheten {INSANITYTOADD} galskap."
-"specials.v2.statuseffect.permanent.insanity.single.allies","Påfører brukeren {INSANITYTOADD} galskap."
+"specials.v2.statuseffect.permanent.insanity.neartotargetexceptcaster.allies","Bruk av denne spesialferdigheten påfører allierte i nærheten {INSANITYTOADD} galskap."
+"specials.v2.statuseffect.permanent.insanity.single.allies","Bruk av denne spesialferdigheten påfører brukeren {INSANITYTOADD} galskap."
 "specials.v2.statuseffect.permanent.insanity.single.enemies","Påfører målet {INSANITYTOADD} galskap."
 "specials.v2.statuseffect.permanent.insanity.single.enemies.chain_strike","Alle trufne mål får {INSANITYTOADD} galskap hver gang de treffes."
 "specials.v2.statuseffect.permanent.insanity.single.enemies.chain_strike.chain_strike_cassilda.on_additional_hit","Alle trufne mål får {INSANITYTOADD} galskap hver gang de treffes."
@@ -2682,6 +2735,6 @@ Helters galskap kan senkes ved direkte helbredelse fra en spesialferdighet."
 "specials.v2.strongattack.purple","Påfører ekstra skade mot mørke."
 "specials.v2.strongattack.red","Påfører ekstra skade mot ild."
 "specials.v2.strongattack.yellow","Påfører ekstra skade mot hellig."
+"specials.v2.toon_tide.immuneelement.purple","Alle Mørke allierte og fiender er immune mot dette angrepet."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","Denne effekten kan bare aktiveres én gang per hydrahode-undersått."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","Når hydrahode-undersåtten beseires, gjenoppliver en tilfeldig alliert en gjenfødt hydrahode-undersått som nedarver tallene fra den opprinnelige undersåtten."
-"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","[#!]Stabel +{BASESTACKCOUNT} (Maksimalt: {MAXSTACK}):[#] All skade brukeren og allierte i nærheten mottar reduseres med {DAMAGEMODIFIER} %."

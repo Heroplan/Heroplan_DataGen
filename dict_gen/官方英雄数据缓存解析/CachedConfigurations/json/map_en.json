@@ -244,7 +244,6 @@
             "energyCost": 3,
             "commonMonstersLevel": 1,
             "monsterAttackModifierPerMil": 64736,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "animal_scarab",
               "goblin_thug"
@@ -282,7 +281,6 @@
             "energyCost": 3,
             "commonMonstersLevel": 5,
             "monsterAttackModifierPerMil": 64736,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "animal_wolf",
               "ratman_scout"
@@ -320,7 +318,6 @@
             "energyCost": 3,
             "commonMonstersLevel": 7,
             "monsterAttackModifierPerMil": 64736,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "animal_scarab",
               "goblin_thug"
@@ -358,7 +355,6 @@
             "energyCost": 3,
             "commonMonstersLevel": 8,
             "monsterAttackModifierPerMil": 64736,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "animal_wolf",
               "ratman_scout"
@@ -396,10 +392,8 @@
             "energyCost": 3,
             "commonMonstersLevel": 10,
             "monsterAttackModifierPerMil": 65236,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [],
-            "numberOfRandomizedWaves": 0,
             "predeterminedWaves": [
               {
                 "waveFormationId": "fixed_1",
@@ -421,7 +415,6 @@
             "energyCost": 3,
             "commonMonstersLevel": 7,
             "monsterAttackModifierPerMil": 65036,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "animal_warhound",
               "thug_club_and_shield"
@@ -459,7 +452,6 @@
             "energyCost": 3,
             "commonMonstersLevel": 9,
             "monsterAttackModifierPerMil": 65036,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "thug_assassin",
               "animal_festering_rat"
@@ -497,7 +489,6 @@
             "energyCost": 3,
             "commonMonstersLevel": 10,
             "monsterAttackModifierPerMil": 65036,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "animal_warhound",
               "thug_club_and_shield"
@@ -535,7 +526,6 @@
             "energyCost": 3,
             "commonMonstersLevel": 9,
             "monsterAttackModifierPerMil": 65036,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "thug_assassin",
               "animal_festering_rat"
@@ -570,7 +560,6 @@
             "energyCost": 3,
             "commonMonstersLevel": 10,
             "monsterAttackModifierPerMil": 65036,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "animal_warhound",
               "thug_club_and_shield"
@@ -608,10 +597,8 @@
             "energyCost": 3,
             "commonMonstersLevel": 15,
             "monsterAttackModifierPerMil": 65036,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [],
-            "numberOfRandomizedWaves": 0,
             "predeterminedWaves": [
               {
                 "waveFormationId": "fixed_1",
@@ -633,7 +620,6 @@
             "energyCost": 3,
             "commonMonstersLevel": 12,
             "monsterAttackModifierPerMil": 65136,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "goblin_thug_2",
               "animal_centipede"
@@ -671,7 +657,6 @@
             "energyCost": 3,
             "commonMonstersLevel": 15,
             "monsterAttackModifierPerMil": 65386,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "fishman_scout",
               "animal_flying_piranha"
@@ -706,7 +691,6 @@
             "energyCost": 3,
             "commonMonstersLevel": 13,
             "monsterAttackModifierPerMil": 65136,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "goblin_thug_2",
               "animal_centipede"
@@ -744,7 +728,6 @@
             "energyCost": 3,
             "commonMonstersLevel": 15,
             "monsterAttackModifierPerMil": 156,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "doomknight_common",
               "doomknight_rare"
@@ -780,7 +763,6 @@
             "energyCost": 3,
             "commonMonstersLevel": 12,
             "monsterAttackModifierPerMil": 65136,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "goblin_thug_2",
               "animal_centipede"
@@ -818,7 +800,6 @@
             "energyCost": 3,
             "commonMonstersLevel": 19,
             "monsterAttackModifierPerMil": 100,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "fishman_scout",
               "animal_flying_piranha"
@@ -856,7 +837,6 @@
             "energyCost": 3,
             "commonMonstersLevel": 9,
             "monsterAttackModifierPerMil": 65036,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "goblin_thug_2",
               "animal_centipede"
@@ -891,7 +871,6 @@
             "provinceId": "province_4",
             "energyCost": 3,
             "commonMonstersLevel": 9,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "vampire_minion",
               "animal_spider"
@@ -925,7 +904,6 @@
             "provinceId": "province_4",
             "energyCost": 3,
             "commonMonstersLevel": 15,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "undead_tired_skeleton",
               "minion_gargoyle"
@@ -963,7 +941,6 @@
             "energyCost": 3,
             "commonMonstersLevel": 16,
             "monsterAttackModifierPerMil": 80,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "doomknight_common",
               "doomknight_rare"
@@ -999,7 +976,6 @@
             "energyCost": 3,
             "commonMonstersLevel": 12,
             "monsterAttackModifierPerMil": 65336,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "vampire_minion",
               "animal_spider"
@@ -1037,7 +1013,6 @@
             "energyCost": 3,
             "commonMonstersLevel": 20,
             "monsterAttackModifierPerMil": 100,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "undead_tired_skeleton",
               "minion_gargoyle"
@@ -1070,7 +1045,6 @@
             "provinceId": "province_4",
             "energyCost": 3,
             "commonMonstersLevel": 11,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "vampire_minion",
               "animal_spider"
@@ -1106,7 +1080,6 @@
             "provinceId": "province_4",
             "energyCost": 3,
             "commonMonstersLevel": 14,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "undead_tired_skeleton",
               "minion_gargoyle"
@@ -1140,7 +1113,6 @@
             "provinceId": "province_5",
             "energyCost": 3,
             "commonMonstersLevel": 18,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "thug_assassin",
               "animal_wolf"
@@ -7757,7 +7729,6 @@
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [],
-            "numberOfRandomizedWaves": 0,
             "predeterminedWaves": [
               {
                 "waveFormationId": "boss_3_A",
@@ -7781,10 +7752,7 @@
             "recruitsReward": 9,
             "xpReward": 2837
           }
-        ],
-        "seasonRareMonsterConfiguration": {
-          "lureBonusFeatureEnabled": false
-        }
+        ]
       },
       {
         "season": "Season2",
@@ -20610,13 +20578,6 @@
             "hmXpReward": 4650
           }
         ],
-        "seasonRareMonsterConfiguration": {
-          "lureBonusFeatureEnabled": true,
-          "maxRareMonstersPerInterval": 15,
-          "rareMonsterSpawnLimitIntervalDuration": 86400,
-          "lureBonusMaxRareMonstersPerInterval": 25,
-          "lureBonusRareMonsterSpawnChanceMultiplierPerMil": 10000
-        },
         "buttonUnlockProvinceRequirement": "province_10",
         "mapUnlockProvinceRequirement": "province_15",
         "firstHiddenProvince": "s2_province_25",
@@ -37477,13 +37438,6 @@
             "hmXpReward": 4995
           }
         ],
-        "seasonRareMonsterConfiguration": {
-          "lureBonusFeatureEnabled": true,
-          "maxRareMonstersPerInterval": 15,
-          "rareMonsterSpawnLimitIntervalDuration": 86400,
-          "lureBonusMaxRareMonstersPerInterval": 25,
-          "lureBonusRareMonsterSpawnChanceMultiplierPerMil": 10000
-        },
         "buttonUnlockProvinceRequirement": "s2_province_03",
         "mapUnlockProvinceRequirement": "s2_province_15",
         "firstHiddenProvince": "s3_province_33",
@@ -55534,13 +55488,6 @@
             "hmXpReward": 5140
           }
         ],
-        "seasonRareMonsterConfiguration": {
-          "lureBonusFeatureEnabled": true,
-          "maxRareMonstersPerInterval": 15,
-          "rareMonsterSpawnLimitIntervalDuration": 86400,
-          "lureBonusMaxRareMonstersPerInterval": 25,
-          "lureBonusRareMonsterSpawnChanceMultiplierPerMil": 10000
-        },
         "buttonUnlockProvinceRequirement": "s3_province_03",
         "mapUnlockProvinceRequirement": "s3_province_10",
         "provincesUnlockSchedule": {
@@ -71311,7 +71258,6 @@
             "provinceId": "s5_province_34",
             "energyCost": 10,
             "commonMonstersLevel": 131,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "s5_jackal_warrior",
               "s5_crypt_sarcophagus"
@@ -71357,7 +71303,6 @@
             "energyCost": 10,
             "commonMonstersLevel": 138,
             "monsterAttackModifierPerMil": 600,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "s5_jackal_priestess",
               "s5_animal_cobra"
@@ -71403,7 +71348,6 @@
             "energyCost": 10,
             "commonMonstersLevel": 140,
             "monsterAttackModifierPerMil": 100,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "s5_animal_cobra",
               "s5_crypt_sarcophagus"
@@ -71452,7 +71396,6 @@
             "energyCost": 10,
             "commonMonstersLevel": 140,
             "monsterAttackModifierPerMil": 750,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "s5_jackal_warrior",
               "s5_animal_cobra"
@@ -71494,7 +71437,6 @@
             "provinceId": "s5_province_34",
             "energyCost": 10,
             "commonMonstersLevel": 142,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "s5_crypt_sarcophagus",
               "s5_jackal_priestess"
@@ -71764,7 +71706,6 @@
             "energyCost": 10,
             "commonMonstersLevel": 141,
             "monsterAttackModifierPerMil": 300,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "s5_jackal_priestess",
               "s5_canopic_jar_red"
@@ -71813,7 +71754,6 @@
             "energyCost": 10,
             "commonMonstersLevel": 138,
             "monsterAttackModifierPerMil": 500,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "s5_jackal_warrior",
               "s5_canopic_jar_yellow"
@@ -71853,7 +71793,6 @@
             "energyCost": 10,
             "commonMonstersLevel": 136,
             "monsterAttackModifierPerMil": 250,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "s5_canopic_jar_red",
               "s5_canopic_jar_yellow"
@@ -71899,7 +71838,6 @@
             "energyCost": 10,
             "commonMonstersLevel": 140,
             "monsterAttackModifierPerMil": 550,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "s5_jackal_warrior",
               "s5_canopic_jar_red"
@@ -71945,7 +71883,6 @@
             "energyCost": 10,
             "commonMonstersLevel": 142,
             "monsterAttackModifierPerMil": 250,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "s5_canopic_jar_yellow",
               "s5_jackal_priestess"
@@ -72505,13 +72442,6 @@
             "hmXpReward": 5290
           }
         ],
-        "seasonRareMonsterConfiguration": {
-          "lureBonusFeatureEnabled": true,
-          "maxRareMonstersPerInterval": 15,
-          "rareMonsterSpawnLimitIntervalDuration": 86400,
-          "lureBonusMaxRareMonstersPerInterval": 25,
-          "lureBonusRareMonsterSpawnChanceMultiplierPerMil": 10000
-        },
         "buttonUnlockProvinceRequirement": "s4_province_03",
         "mapUnlockProvinceRequirement": "s4_province_05",
         "firstHiddenProvince": "s5_province_34",
@@ -73493,7 +73423,6 @@
             "provinceId": "dragon_s1_province_01",
             "energyCost": 3,
             "commonMonstersLevel": 23,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_frog_dragon",
               "dragon_small_panda_dragon"
@@ -73540,7 +73469,6 @@
             "provinceId": "dragon_s1_province_01",
             "energyCost": 3,
             "commonMonstersLevel": 24,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_frog_dragon",
               "dragon_small_panda_dragon"
@@ -73587,7 +73515,6 @@
             "provinceId": "dragon_s1_province_01",
             "energyCost": 3,
             "commonMonstersLevel": 25,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_frog_dragon",
               "dragon_small_panda_dragon"
@@ -73634,7 +73561,6 @@
             "provinceId": "dragon_s1_province_01",
             "energyCost": 3,
             "commonMonstersLevel": 27,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_frog_dragon",
               "dragon_small_panda_dragon"
@@ -73681,7 +73607,6 @@
             "provinceId": "dragon_s1_province_01",
             "energyCost": 3,
             "commonMonstersLevel": 30,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_frog_dragon",
               "dragon_small_panda_dragon"
@@ -73728,7 +73653,6 @@
             "provinceId": "dragon_s1_province_01",
             "energyCost": 3,
             "commonMonstersLevel": 35,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_frog_dragon",
               "dragon_small_panda_dragon"
@@ -73775,7 +73699,6 @@
             "provinceId": "dragon_s1_province_01",
             "energyCost": 3,
             "commonMonstersLevel": 38,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_frog_dragon",
               "dragon_small_panda_dragon"
@@ -73822,7 +73745,6 @@
             "provinceId": "dragon_s1_province_01",
             "energyCost": 3,
             "commonMonstersLevel": 40,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_frog_dragon",
               "dragon_small_panda_dragon"
@@ -73869,7 +73791,6 @@
             "provinceId": "dragon_s1_province_01",
             "energyCost": 3,
             "commonMonstersLevel": 43,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_frog_dragon",
               "dragon_small_panda_dragon"
@@ -73913,7 +73834,6 @@
             "provinceId": "dragon_s1_province_01",
             "energyCost": 3,
             "commonMonstersLevel": 45,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_frog_dragon",
               "dragon_small_panda_dragon"
@@ -73957,7 +73877,6 @@
             "provinceId": "dragon_s1_province_01",
             "energyCost": 3,
             "commonMonstersLevel": 48,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [
               "random_4_A",
@@ -73987,7 +73906,6 @@
             "provinceId": "dragon_s1_province_02",
             "energyCost": 3,
             "commonMonstersLevel": 45,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_fox_dragon",
               "dragon_small_bee_dragon"
@@ -74034,7 +73952,6 @@
             "provinceId": "dragon_s1_province_02",
             "energyCost": 3,
             "commonMonstersLevel": 45,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_fox_dragon",
               "dragon_small_bee_dragon"
@@ -74081,7 +73998,6 @@
             "provinceId": "dragon_s1_province_02",
             "energyCost": 3,
             "commonMonstersLevel": 45,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_fox_dragon",
               "dragon_small_bee_dragon"
@@ -74128,7 +74044,6 @@
             "provinceId": "dragon_s1_province_02",
             "energyCost": 3,
             "commonMonstersLevel": 46,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_fox_dragon",
               "dragon_small_bee_dragon"
@@ -74175,7 +74090,6 @@
             "provinceId": "dragon_s1_province_02",
             "energyCost": 3,
             "commonMonstersLevel": 47,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_fox_dragon",
               "dragon_small_bee_dragon"
@@ -74222,7 +74136,6 @@
             "provinceId": "dragon_s1_province_02",
             "energyCost": 3,
             "commonMonstersLevel": 48,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_fox_dragon",
               "dragon_small_bee_dragon"
@@ -74269,7 +74182,6 @@
             "provinceId": "dragon_s1_province_02",
             "energyCost": 3,
             "commonMonstersLevel": 49,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_fox_dragon",
               "dragon_small_bee_dragon"
@@ -74316,7 +74228,6 @@
             "provinceId": "dragon_s1_province_02",
             "energyCost": 3,
             "commonMonstersLevel": 50,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_fox_dragon",
               "dragon_small_bee_dragon"
@@ -74363,7 +74274,6 @@
             "provinceId": "dragon_s1_province_02",
             "energyCost": 3,
             "commonMonstersLevel": 51,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_fox_dragon",
               "dragon_small_bee_dragon"
@@ -74407,7 +74317,6 @@
             "provinceId": "dragon_s1_province_02",
             "energyCost": 3,
             "commonMonstersLevel": 52,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_fox_dragon",
               "dragon_small_bee_dragon"
@@ -74451,7 +74360,6 @@
             "provinceId": "dragon_s1_province_02",
             "energyCost": 3,
             "commonMonstersLevel": 52,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [
               "random_4_A",
@@ -74481,7 +74389,6 @@
             "provinceId": "dragon_s1_province_03",
             "energyCost": 3,
             "commonMonstersLevel": 40,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_fox_dragon",
               "dragon_small_bee_dragon"
@@ -74529,7 +74436,6 @@
             "provinceId": "dragon_s1_province_03",
             "energyCost": 3,
             "commonMonstersLevel": 40,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_fox_dragon",
               "dragon_small_bee_dragon"
@@ -74577,7 +74483,6 @@
             "provinceId": "dragon_s1_province_03",
             "energyCost": 3,
             "commonMonstersLevel": 45,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_fox_dragon",
               "dragon_small_bee_dragon"
@@ -74625,7 +74530,6 @@
             "provinceId": "dragon_s1_province_03",
             "energyCost": 3,
             "commonMonstersLevel": 47,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_fox_dragon",
               "dragon_small_bee_dragon"
@@ -74673,7 +74577,6 @@
             "provinceId": "dragon_s1_province_03",
             "energyCost": 3,
             "commonMonstersLevel": 49,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_fox_dragon",
               "dragon_small_bee_dragon"
@@ -74721,7 +74624,6 @@
             "provinceId": "dragon_s1_province_03",
             "energyCost": 3,
             "commonMonstersLevel": 51,
-            "commonMonstersLevelDeviation": 0,
             "randomizedMonsterIds": [
               "dragon_small_fox_dragon",
               "dragon_small_bee_dragon"
@@ -85000,9 +84902,6 @@
             "hmXpReward": 3900
           }
         ],
-        "seasonRareMonsterConfiguration": {
-          "lureBonusFeatureEnabled": false
-        },
         "provincesUnlockSchedule": {
           "week": "Third",
           "day": "Thursday",
@@ -93356,7 +93255,6 @@
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [],
-            "numberOfRandomizedWaves": 0,
             "predeterminedWaves": [
               {
                 "waveFormationId": "boss_5_M",
@@ -93425,7 +93323,6 @@
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [],
-            "numberOfRandomizedWaves": 0,
             "predeterminedWaves": [
               {
                 "waveFormationId": "fixed_3_A",
@@ -93771,7 +93668,6 @@
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [],
-            "numberOfRandomizedWaves": 0,
             "predeterminedWaves": [
               {
                 "waveFormationId": "fixed_3_A",
@@ -94121,7 +94017,6 @@
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [],
-            "numberOfRandomizedWaves": 0,
             "predeterminedWaves": [
               {
                 "waveFormationId": "fixed_3_A",
@@ -94471,7 +94366,6 @@
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [],
-            "numberOfRandomizedWaves": 0,
             "predeterminedWaves": [
               {
                 "waveFormationId": "pvp_default",
@@ -94578,7 +94472,6 @@
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [],
-            "numberOfRandomizedWaves": 0,
             "predeterminedWaves": [
               {
                 "waveFormationId": "pvp_default",
@@ -94685,7 +94578,6 @@
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [],
-            "numberOfRandomizedWaves": 0,
             "predeterminedWaves": [
               {
                 "waveFormationId": "pvp_default",
@@ -94792,7 +94684,6 @@
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [],
-            "numberOfRandomizedWaves": 0,
             "predeterminedWaves": [
               {
                 "waveFormationId": "boss_3_A",
@@ -94937,7 +94828,6 @@
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [],
-            "numberOfRandomizedWaves": 0,
             "predeterminedWaves": [
               {
                 "waveFormationId": "boss_3_A",
@@ -95082,7 +94972,6 @@
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [],
-            "numberOfRandomizedWaves": 0,
             "predeterminedWaves": [
               {
                 "waveFormationId": "boss_3_A",
@@ -95227,7 +95116,6 @@
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [],
-            "numberOfRandomizedWaves": 0,
             "predeterminedWaves": [
               {
                 "waveFormationId": "boss_3_A",
@@ -95406,7 +95294,6 @@
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [],
-            "numberOfRandomizedWaves": 0,
             "predeterminedWaves": [
               {
                 "waveFormationId": "boss_3_A",
@@ -95585,7 +95472,6 @@
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [],
-            "numberOfRandomizedWaves": 0,
             "predeterminedWaves": [
               {
                 "waveFormationId": "boss_3_A",
@@ -95764,7 +95650,6 @@
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [],
-            "numberOfRandomizedWaves": 0,
             "predeterminedWaves": [
               {
                 "waveFormationId": "boss_1",
@@ -95855,7 +95740,6 @@
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [],
-            "numberOfRandomizedWaves": 0,
             "predeterminedWaves": [
               {
                 "waveFormationId": "boss_1",
@@ -95946,7 +95830,6 @@
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [],
-            "numberOfRandomizedWaves": 0,
             "predeterminedWaves": [
               {
                 "waveFormationId": "boss_1",
@@ -96028,13 +95911,6 @@
             "hmXpReward": 2850
           }
         ],
-        "seasonRareMonsterConfiguration": {
-          "lureBonusFeatureEnabled": true,
-          "maxRareMonstersPerInterval": 15,
-          "rareMonsterSpawnLimitIntervalDuration": 86400,
-          "lureBonusMaxRareMonstersPerInterval": 25,
-          "lureBonusRareMonsterSpawnChanceMultiplierPerMil": 10000
-        },
         "buttonUnlockProvinceRequirement": "province_10",
         "mapUnlockProvinceRequirement": "s5_province_05",
         "provincesUnlockSchedule": {
@@ -104302,7 +104178,6 @@
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [],
-            "numberOfRandomizedWaves": 0,
             "predeterminedWaves": [
               {
                 "waveFormationId": "boss_3_A_big",
@@ -104363,7 +104238,6 @@
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [],
-            "numberOfRandomizedWaves": 0,
             "predeterminedWaves": [
               {
                 "waveFormationId": "boss_1",
@@ -104393,13 +104267,6 @@
             "hmXpReward": 2850
           }
         ],
-        "seasonRareMonsterConfiguration": {
-          "lureBonusFeatureEnabled": true,
-          "maxRareMonstersPerInterval": 15,
-          "rareMonsterSpawnLimitIntervalDuration": 86400,
-          "lureBonusMaxRareMonstersPerInterval": 25,
-          "lureBonusRareMonsterSpawnChanceMultiplierPerMil": 10000
-        },
         "buttonUnlockProvinceRequirement": "tales1_chapter_03",
         "mapUnlockProvinceRequirement": "tales1_chapter_03",
         "provincesUnlockSchedule": {
@@ -139127,5 +138994,5 @@
     "untoldTalesEnabled": true,
     "dragonProvinceCompletionRewardsEnabled": true
   },
-  "mapConfigId": 2971545118
+  "mapConfigId": 4003362014
 }

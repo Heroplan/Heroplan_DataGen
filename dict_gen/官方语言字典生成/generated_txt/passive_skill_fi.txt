@@ -64,6 +64,9 @@ Kukin näistä vaikutuksista voi aktivoitua kerran vuorossa."
 "herocard.passive_skill.description.effectonheal.addmana","Tämä hahmo saa {POWER} % manaa aina kun hän saa terveyttä takaisin."
 "herocard.passive_skill.description.effectonheal.heal","Tämä hahmo saa {POWER} % terveyttä aina kun hän saa terveyttä takaisin."
 "herocard.passive_skill.description.effectonhealsupportcharacter.troop.heal","Tämä hahmo saa {POWER} % terveyttä aina kun hän saa terveyttä takaisin."
+"herocard.passive_skill.description.effectonownerdeath.damage.single.enemies.specialskill.targetattackerside","Kun tämä hahmo kukistetaan erikoistaidolla, suoritetaan seuraavat toimenpiteet:
+Hyökkääjä kärsii {DAMAGE} % vauriota.
+ Hyökkääjä kärsii {STATUSEFFECT1DAMAGE} verenvuotovauriota {TURNS} vuoron aikana."
 "herocard.passive_skill.description.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Tämä hahmo saa {HEALTHBOOST} % tehostettua terveyttä ja {MANA} % manaa onnistuneesta vastustuksesta."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Tämä hahmo saa {POWER} % manaa aina kun vihollinen käyttää suoraan terveyttä tehostavaa erikoistaitoa."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.fixedpower.on_healthboost_cast","Tämä hahmo saa {POWER} tehostettua terveyttä aina kun vihollinen käyttää suoraan terveyttä tehostavaa erikoistaitoa."
@@ -71,6 +74,7 @@ Kukin näistä vaikutuksista voi aktivoitua kerran vuorossa."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.bufftoremove.minordebuff.from.all.allies.safe.only_criticals","Kun tämä hahmo saa kriittisen osuman erikoistaidollaan, hän puhdistaa turvallisesti uusimman puhdistettavan vaivan kaikilta liittolaisilta."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals","Kun tämä hahmo saa kriittisen osuman erikoistaidollaan, hän tehostaa kaikkien liittolaistensa terveyttä {HEALTHBOOST} %."
 "herocard.passive_skill.description.effectonspecialskilldamagereceived.healthboost.all.allies.only_criticals","Kun tämä hahmo saa kriittisen osuman erikoistaidollaan, hän tehostaa kaikkien liittolaistensa terveyttä {HEALTHBOOST} %."
+"herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","Kun liittolainen käyttää erikoistaitoa, tämä hahmo tuottaa {POWER} % vauriota  ja antaa {DIRECTEFFECT1STATUSEFFECT1DEFENSE} % puolustusta {DIRECTEFFECT1STATUSEFFECT1TURNS} vuoron ajaksi satunnaiselle viholliselle."
 "herocard.passive_skill.description.effectonspecialwithchance.activates_on_enemy_action.healthboost.fixedpower","Kun vihollinen loitsii erikoistaitonsa, tällä hahmolla on {CHANCE} %:n mahdollisuus tehostaa tämän hahmon terveyttä {HEALTHBOOST}."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.all.allies","Kun tämä hahmo käyttää erikoistaitoaan, hänellä on {CHANCE} %:n mahdollisuus antaa {POWER} % manaa kaikille liittolaisille. Jos erikoistaito on ladattu täyteen, mahdollisuus on {CHANCEFULLYCHARGED} %."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.notblue.allies","Kun tämä hahmo käyttää erikoistaitoaan, hänellä on {CHANCE} %:n mahdollisuus antaa {POWER} % manaa kaikille liittolaisille, jotka eivät ole jääelementtiä. Jos erikoistaito on ladattu täyteen, mahdollisuus on {CHANCEFULLYCHARGED} %."
@@ -113,6 +117,14 @@ Käskyläisydin aktivoituu aina kun tämän hahmon erikoistaitoa käytetään:
  Täysin ladattu käskyläisydin kutsuu kaikille liittolaisille tappajabottikäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä.
  Loitsijalta peritty terveys ja hyökkäys skaalautuvat ytimen latauksen mukaan. Ytimen lataus tyhjenee kokonaan, kun ydin aktivoituu.
  Ennen kuin tappajabottikäskyläinen osuu kohteeseen, se tuhoaa kohteen kaikki käskyläiset ja vaurioittaa sen megakäskyläisiä."
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always.temp.with.wither","Tämän hahmon rakennelmaydin on käskyläisydin.
+
+Käskyläisydin aktivoituu aina kun tämän hahmon erikoistaitoa käytetään:
+
+ Täysin ladattu käskyläisydin kutsuu kaikille liittolaisille tappajabottikäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä.
+ Loitsijalta peritty terveys ja hyökkäys skaalautuvat ytimen latauksen mukaan. Ytimen lataus tyhjenee kokonaan, kun ydin aktivoituu.
+ Ennen kuin tappajabottikäskyläinen osuu kohteeseen, se tuhoaa kohteen kaikki käskyläiset ja vaurioittaa sen megakäskyläisiä.
+ Näivetys: Tappajabottikäskyläisen osumat antavat kohteelle {ATTACKMODIFIER} hyökkäystä."
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.bigminion.decrease","Vihollisen megakäskyläisillä on {HEALTHMODIFIER} % terveyttä."
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.minion.decrease","Vihollisen käskyläisillä on {HEALTHMODIFIER} % terveyttä."
 "herocard.passive_skill.description.familiarsilencer.all.enemies.bigminion","Vihollisen megakäskyläiset eivät voi hyökätä tai käyttää kykyjään."
@@ -157,7 +169,12 @@ Käskyläisydin aktivoituu aina kun tämän hahmon erikoistaitoa käytetään:
 "herocard.passive_skill.description.memorizestatuseffects#2","Tällä hahmolla on luontainen kyky painaa muistiin vaivoja. Viimeisimmät {0} hahmoon kohdistettua vaivaa pysyvät muistissa kunnes erikoistaitoa käytetään. Muistiin voi painaa vain vaivoja, joilla on kestoaika."
 "herocard.passive_skill.description.memorizestatuseffects#3","This character has innate ability to Memorize status ailments. The latest {0} status ailments that are cast on this character will stay memorized until the Special Skill is cast. Only status ailments with a duration can be memorized. (THIRD FORM)"
 "herocard.passive_skill.description.mimiclootonlevelcompleted","Jokainen ryhmäsi uniikki matkija voi antaa ylimääräistä saalista vyöhykkeiden suorittamisesta. Tämä matkija antaa mahdollisuuden seuraavaan ylimääräiseen saaliiseen:"
+"herocard.passive_skill.description.minioncorruption.all.enemies","Jokaisen vuoron lopussa hulluilla vihollisilla on mahdollisuus, että heidän käskyläisensä muuttuvat riiviöiksi.
+Jos hulluus nousee {AUTOMATICTRANSFORMINSANITYTHRESHOLD} pisteeseen, muutos aktivoituu automaattisesti.
+ Käskyläinen muuttuu ikiaikaiseksi riiviöksi: {FAMILIAR1FAMILIARATTACK} % hyökkäystä, {FAMILIAR1FAMILIARHEALTHPERCENT} % terveyttä, aiheuttaa {FAMILIAR1INSANITYTOADD} hulluutta joka vuorolla.
+ Megakäskyläinen muuttuu ikiaikaiseksi megariiviöksi: {FAMILIAR2FAMILIARATTACK} % hyökkäystä, {FAMILIAR2FAMILIARHEALTHPERCENT} % terveyttä, aiheuttaa {FAMILIAR2INSANITYTOADD} hulluutta joka vuorolla."
 "herocard.passive_skill.description.nevermissspecial","Tämän hahmon erikoistaito osuu aina kohteisiinsa."
+"herocard.passive_skill.description.preventboostedhealth.all.enemies","Vihollisten terveys ei voi kasvaa maksimiterveyttä suuremmaksi."
 "herocard.passive_skill.description.ransack","Tämä hahmo ryöstää satunnaisen vihollisen joka vuoron alussa:
 
 Varastaa {DAMAGE} terveyttä.
@@ -197,6 +214,7 @@ Korjausydin aktivoituu aina kun tämän hahmon erikoistaitoa käytetään:
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.attackwither.defensewither.alldebuffs.with_chance","{CHANCE} %:n lisämahdollisuus vastustaa kaikkia vaivoja, manavähennyksiä, tehosteiden häivytyksiä ja näivetysefektejä."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.insanity.with_chance","{CHANCE} %:n lisämahdollisuus vastustaa kaikkia vaivoja, manavähennyksiä, tehosteiden häivytyksiä ja hulluutta."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance","{CHANCE} %:n lisämahdollisuus vastustaa kaikkia vaivoja, manavähennyksiä ja tehosteiden häivytyksiä."
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance.with_effect.addmana","{CHANCE} %:n lisämahdollisuus vastustaa kaikkia vaivoja, manavähennyksiä ja tehosteiden häivytyksiä. {MANA} % manaa jokaisesta onnistuneesta vastustuksesta."
 "herocard.passive_skill.description.resist.alldebuffs.with_chance","{CHANCE} %:n lisämahdollisuus vastustaa kaikkia vaivoja."
 "herocard.passive_skill.description.resist.alldefensemodifiers.alldebuffs","Hahmo on immuuni puolustukseen vaikuttaville vaivoille. Koskee myös elementaalipuolustukseen vaikuttavia vaivoja."
 "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.alldebuffs","Hahmo on immuuni puolustukseen vaikuttaville vaivoille, kasaumille ja näivetysefekteille."
@@ -220,6 +238,12 @@ Tämä koskee tilaefektitehosteita ja vaivoja, positiivisia ja negatiivisia kasa
 "herocard.passive_skill.description.resist.attackmodifiers","Hahmo on immuuni hyökkäykseen vaikuttaville vaivoille."
 "herocard.passive_skill.description.resist.attackmodifiers.allstatuseffectsandstacks","Hahmo on immuuni hyökkäykseen vaikuttaville tilaefekteille ja kasaumille. Koskee myös tilaefektitehosteita."
 "herocard.passive_skill.description.resist.attackmodifiers.attackwither.alldebuffs","Hahmo on immuuni hyökkäykseen vaikuttaville vaivoille, kasaumille ja näivetysefekteille."
+"herocard.passive_skill.description.resist.attackmodifiers.attackwither.attackgrowth.allstatuseffectsandstacks","Tämä hahmo on immuuni efekteille, jotka lisäävät tai vähentävät hyökkäystä.
+
+Tämä koskee
+ Tilaefektitehosteita ja vaivoja
+ Positiivisia ja negatiivisia kasaumia
+ Näivetys- ja kasvuefektejä"
 "herocard.passive_skill.description.resist.bleed","Hahmo on immuuni verenvuotovauriota tuottaville vaivoille."
 "herocard.passive_skill.description.resist.bleed.with_effect.healthboost.addmana","Hahmo on immuuni verenvuotovauriota tuottaville vaivoille, ja hän saa {HEALTHBOOST} tehostettua terveyttä ja {MANA} % manaa jokaisesta vastustuskerrasta."
 "herocard.passive_skill.description.resist.buffdispels","Hahmo on immuuni tilaefektitehosteita häivyttäville efekteille."
@@ -352,6 +376,19 @@ Taimiriiviö:
 
 Kukkiva megariiviö:
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % hyökkäystä, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % terveyttä."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Kutsuu joka vuorolla siementaimiriiviön satunnaiselle viholliselle.
+Siementaimiriiviö kehittyy taimiriiviöksi {EVOLVINGFAMILIAR1EVOLVETURNS} vuoron jälkeen.
+Taimiriiviö kehittyy kukkivaksi megariiviöksi {EVOLVINGFAMILIAR2EVOLVETURNS} vuoron jälkeen.
+Riiviöiden evoluutio viivästyy {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} vuorolla aina kun ne imevät parannusta.
+
+Siementaimiriiviö: 
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % hyökkäystä, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % terveyttä.
+
+Taimiriiviö: 
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % hyökkäystä, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % terveyttä.
+
+Kukkiva megariiviö: 
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % hyökkäystä, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % terveyttä."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Kutsuu joka vuorolla siementaimiriiviön satunnaiselle viholliselle. Tämä passiivinen taito aktivoituu vain kerran vuorossa ryhmää kohti.
 Siementaimiriiviö kehittyy taimiriiviöksi {EVOLVINGFAMILIAR1EVOLVETURNS} vuoron jälkeen.
 Taimiriiviö kehittyy kukkivaksi megariiviöksi {EVOLVINGFAMILIAR2EVOLVETURNS} vuoron jälkeen.
@@ -365,32 +402,32 @@ Taimiriiviö:
 
 Kukkiva megariiviö:
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % hyökkäystä, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % terveyttä."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Kutsuu joka vuorolla [#!]siementaimiriiviön[#] satunnaiselle viholliselle. Tämä passiivinen taito aktivoituu vain kerran vuorossa ryhmää kohti.
-[*][#!]Siementaimiriiviö[#] kehittyy [#!]taimiriiviöksi[#] {EVOLVINGFAMILIAR1EVOLVETURNS} vuoron jälkeen.
-[*][#!]Taimiriiviö[#] kehittyy [#!]kukkivaksi megariiviöksi[#] {EVOLVINGFAMILIAR2EVOLVETURNS} vuoron jälkeen.
-[*]Riiviöiden evoluutio viivästyy {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} vuorolla aina kun ne imevät parannusta.
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Kutsuu joka vuorolla siementaimiriiviön satunnaiselle viholliselle. Tämä passiivinen taito aktivoituu vain kerran vuorossa ryhmää kohti.
+Siementaimiriiviö kehittyy taimiriiviöksi {EVOLVINGFAMILIAR1EVOLVETURNS} vuoron jälkeen.
+Taimiriiviö kehittyy kukkivaksi megariiviöksi {EVOLVINGFAMILIAR2EVOLVETURNS} vuoron jälkeen.
+Riiviöiden evoluutio viivästyy {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} vuorolla aina kun ne imevät parannusta.
 
-[#!]Siementaimiriiviö[#]:
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] terveyttä.
+Siementaimiriiviö:
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % hyökkäystä, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % terveyttä.
 
-[#!]Taimiriiviö[#]:
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] terveyttä.
+Taimiriiviö:
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % hyökkäystä, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % terveyttä.
 
-[#!]Kukkiva megariiviö[#]:
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] terveyttä."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Kutsuu joka vuorolla [#!]siementaimiriiviön[#] satunnaiselle viholliselle. Tämä passiivinen taito aktivoituu vain kerran vuorossa ryhmää kohti.
-[*][#!]Siementaimiriiviö[#] kehittyy [#!]taimiriiviöksi[#] {EVOLVINGFAMILIAR1EVOLVETURNS} vuoron jälkeen.
-[*][#!]Taimiriiviö[#] kehittyy [#!]kukkivaksi megariiviöksi[#] {EVOLVINGFAMILIAR2EVOLVETURNS} vuoron jälkeen.
-[*]Riiviöiden evoluutio viivästyy {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} vuorolla aina kun ne imevät parannusta.
+Kukkiva megariiviö:
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % hyökkäystä, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % terveyttä."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Kutsuu joka vuorolla siementaimiriiviön satunnaiselle viholliselle. Tämä passiivinen taito aktivoituu vain kerran vuorossa ryhmää kohti.
+Siementaimiriiviö kehittyy taimiriiviöksi {EVOLVINGFAMILIAR1EVOLVETURNS} vuoron jälkeen.
+Taimiriiviö kehittyy kukkivaksi megariiviöksi {EVOLVINGFAMILIAR2EVOLVETURNS} vuoron jälkeen.
+Riiviöiden evoluutio viivästyy {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} vuorolla aina kun ne imevät parannusta.
 
-[#!]Siementaimiriiviö[#]:
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] terveyttä.
+Siementaimiriiviö:
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % hyökkäystä, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % terveyttä.
 
-[#!]Taimiriiviö[#]:
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] terveyttä.
+Taimiriiviö:
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % hyökkäystä, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % terveyttä.
 
-[#!]Kukkiva megariiviö[#]:
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] terveyttä."
+Kukkiva megariiviö:
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % hyökkäystä, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % terveyttä."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Kun tämä hahmo kukistuu, hän kutsuu lähellä oleville liittolaisille limamegakäskyläiset, jotka perivät {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä tältä sankarilta."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Kun tämä hahmo kukistuu, hän kutsuu lähellä oleville liittolaisille limamegakäskyläiset, jotka perivät {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä tältä sankarilta."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Kun tämä hahmo kukistuu, hän kutsuu lähellä oleville liittolaisille limamegakäskyläiset, jotka perivät {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä tältä sankarilta."
@@ -425,6 +462,7 @@ Kukkiva megariiviö:
 "herocard.passive_skill.inactive","EI AKTIIVINEN: Aktivoituu, kun saavutat maksitason ja täyden ylennyksen."
 "herocard.passive_skill.replace.minordebuff.attackmodifier.to.minorbuff.attackmodifier","Hyökkäysvaivoista {ATTACK} % hyökkäystä {TURNS} vuoron ajan."
 "herocard.passive_skill.replace.minordebuff.buffimmunity.to.minorbuff.debuffshield","Tehosteimmuniteettivaivoista vaivaimmuniteetti {TURNS} vuoron ajaksi."
+"herocard.passive_skill.replace.minordebuff.damageovertime.to.minorbuff.fixedhealthrecovery","Vauriota ajan mittaan tuottavista vaivoista tulee {TOTAL} terveyttä {TURNS} vuoron aikana palauttavia tehosteita."
 "herocard.passive_skill.replace.minordebuff.defensemodifier.to.minorbuff.defensemodifier","Puolustusvaivoista {DEFENSE} % puolustusta {TURNS} vuoron ajaksi."
 "herocard.passive_skill.replace.minordebuff.healingmodifier.to.minorbuff.healmultiplier","Parannusvähennyksistä {HEALING} % parannuksen tehostusta {TURNS} vuoron ajaksi."
 "herocard.passive_skill.replace.minordebuff.manaeffect.to.minorbuff.managenerationmodifier","Manavaivoista {MANAREGEN} % manatuotantoa {TURNS} vuoron ajan."
@@ -491,6 +529,7 @@ Kukkiva megariiviö:
 "herocard.passive_skill.title.effectonhealsupportcharacter.troop.heal","Lisäparannus"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.attackmodifier","Tilaefekti manan vähennyksestä"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.yellowdefensemodifier","Tilaefekti manan vähennyksestä"
+"herocard.passive_skill.title.effectonownerdeath.damage.statuseffects.bleeding","Kunniaton tappio"
 "herocard.passive_skill.title.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Tehostettua terveyttä ja manaa vastustuksesta"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Manaa terveyttä vahvistavista erikoistaidoista"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.on_healthboost_cast","Tehostettua terveyttä vihollisen terveyden tehostuksista"
@@ -498,6 +537,7 @@ Kukkiva megariiviö:
 "herocard.passive_skill.title.effectonspecialskilldamagedone.bufftoremove.minordebuff.safe.only_criticals","Puhdistaa erikoistaidon kriittisellä osumalla"
 "herocard.passive_skill.title.effectonspecialskilldamagedone.healthboost.only_criticals","Tehostettua terveyttä erikoistaidon kriittisestä osumasta"
 "herocard.passive_skill.title.effectonspecialskilldamagereceived.healthboost.only_criticals","Tehostettua terveyttä erikoistaidon kriittisestä osumasta"
+"herocard.passive_skill.title.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.directeffect1_statuseffects.defensemodifier","Näykkäisy"
 "herocard.passive_skill.title.effectonspecialwithchance.activates_on_enemy_action.healthboost","Vihollisen erikoistaidot lisäävät terveyttä"
 "herocard.passive_skill.title.effectonspecialwithchance.addmana","Manaa erikoistaidosta"
 "herocard.passive_skill.title.effectonspecialwithchance.bufftoremove.minorbuff.latest","Häivytys erikoistaidosta"
@@ -514,6 +554,8 @@ Kukkiva megariiviö:
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.managenerationmodifier","Tilaefekti erikoistaidosta"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.poison","Myrkkyä erikoistaidosta"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.possession","Mieletön hyökkäys erikoistaidosta"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackingdefensemodifier","Kasauma erikoistaidosta"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackinghealthgeneration","Kasauma erikoistaidosta"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.underwater","Vauriota ajan mittaan erikoistaidosta"
 "herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.damage.faster.average.once","Vauriota vihollisen erikoistaidosta"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.allbuffs.taunt","Manaa piikittelystä"
@@ -537,6 +579,7 @@ Kukkiva megariiviö:
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","Manaa riiviöiden kutsumisesta"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.damage.enemies.parasite","Lemmikkien viha"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.healthboost.enemies.parasite","Tehostettua terveyttä riiviöiden kutsumisesta"
+"herocard.passive_skill.title.empowered_toon_resist_manareduction_dispels","Voimakas piirretty"
 "herocard.passive_skill.title.familiaraccuracymodifier.all.enemies.minion.bigminion","Käskyläisten sokaisu"
 "herocard.passive_skill.title.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core","Käskyläisydin"
 "herocard.passive_skill.title.familiarhealthmodifier.all.enemies.bigminion.decrease","Heikommat megakäskyläiset"
@@ -573,7 +616,9 @@ Kukkiva megariiviö:
 "herocard.passive_skill.title.memorizestatuseffects","Vaivojen muistaminen"
 "herocard.passive_skill.title.mimic_dread_damage_minions","Kammo"
 "herocard.passive_skill.title.mimiclootonlevelcompleted","Matkijan saalis"
+"herocard.passive_skill.title.minioncorruption.all.enemies","Käskyläisten korruptio"
 "herocard.passive_skill.title.nevermissspecial","Täydellinen tarkkuus"
+"herocard.passive_skill.title.preventboostedhealth.all.enemies","Tehostetun parannuksen esto"
 "herocard.passive_skill.title.ransack","Varkaan tilaisuus"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Tehosteen anastus"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","Metsästäjän vaisto"
@@ -626,6 +671,8 @@ Kukkiva megariiviö:
 "herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","Erikoistaitojen eston voimakas vastustus"
 "herocard.passive_skill.title.resist.stopmanageneration","Manatuotannon pysäyttävien vaivojen vastustus"
 "herocard.passive_skill.title.resist.water","Veden vastustus"
+"herocard.passive_skill.title.resist_all_attack_effects","Piirre:
+Pienikokoinen"
 "herocard.passive_skill.title.resist_all_defense_effects","Piirre: 
 Solakka"
 "herocard.passive_skill.title.resistdebuffsfromfamiliars.minion","Käskyläisten vaivojen vastustus"
@@ -683,6 +730,9 @@ Solakka"
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","Manatuotantotehoste vaivoista"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","Elementaalinaamio"
 "herocard.passive_skill.title.stylish","Tyylikäs!"
+"herocard.passive_skill.title.stylish_epic","Tyylikäs!"
+"herocard.passive_skill.title.stylish_legendary","Tyylikäs!"
+"herocard.passive_skill.title.stylish_rare","Tyylikäs!"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","Siementaimien kutsuja"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Siementaimien kutsuja"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Siementaimien kutsuja"
@@ -719,16 +769,3 @@ Solakka"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Tehosteiden muuttaminen"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Vaivojen muuttaminen"
 "herocard.passive_skill.title.wither.all.enemies","Näivettäminen"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Kutsuu joka vuorolla [#!]siementaimiriiviön[#] satunnaiselle viholliselle.
-[*][#!]Siementaimiriiviö[#] kehittyy [#!]taimiriiviöksi[#] {EVOLVINGFAMILIAR1EVOLVETURNS} vuoron jälkeen.
-[*][#!]Taimiriiviö[#] kehittyy [#!]kukkivaksi megariiviöksi[#] {EVOLVINGFAMILIAR2EVOLVETURNS} vuoron jälkeen.
-[*]Riiviöiden evoluutio viivästyy {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} vuorolla aina kun ne imevät parannusta.
-
-[#!]Siementaimiriiviö[#]: 
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] terveyttä.
-
-[#!]Taimiriiviö[#]: 
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] terveyttä.
-
-[#!]Kukkiva megariiviö[#]: 
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] terveyttä."

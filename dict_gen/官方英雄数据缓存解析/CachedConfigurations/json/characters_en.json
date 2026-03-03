@@ -4112,7 +4112,8 @@
     "aetherGift": "Rage",
     "rarity": 3,
     "specialId": "reckless_stab",
-    "origin": "Easter"
+    "origin": "Easter",
+    "costumeBonusesId": "easter_2026"
   },
   "fire_god_ares": {
     "id": "Deity of War",
@@ -6469,7 +6470,8 @@
     "aetherGift": "Defense Up",
     "rarity": 4,
     "specialId": "smooth_treatment",
-    "origin": "Easter"
+    "origin": "Easter",
+    "costumeBonusesId": "easter_2026"
   },
   "easter_sir_roostley": {
     "id": "Mighty Knight of Springvale",
@@ -6483,7 +6485,8 @@
     "aetherGift": "Special Boost",
     "rarity": 5,
     "specialId": "luminous_lance",
-    "origin": "Easter"
+    "origin": "Easter",
+    "costumeBonusesId": "easter_2026"
   },
   "easter_killhare": {
     "id": "Savage Protector of Springvale",
@@ -16275,7 +16278,8 @@
     "rarity": 5,
     "specialId": "dishonorable_ploy",
     "canBeReceivedDate": "2023-09-20 07:00:00",
-    "origin": "The Brave & The Beautiful"
+    "origin": "The Brave & The Beautiful",
+    "costumeBonusesId": "musketeer_dec_2025"
   },
   "monster_hunter_otis": {
     "id": "Hunter Blademaster",
@@ -16770,7 +16774,8 @@
     "rarity": 5,
     "specialId": "sword_dance",
     "canBeReceivedDate": "2023-07-26 07:00:00",
-    "origin": "The Brave & The Beautiful"
+    "origin": "The Brave & The Beautiful",
+    "costumeBonusesId": "musketeer_dec_2025"
   },
   "lunar_new_year_laohu": {
     "id": "Lunar Brawler Tiger",
@@ -20289,6 +20294,26 @@
     "origin": "Season1",
     "parentHeroId": "oriental_enchanted_monk"
   },
+  "oriental_enchanted_monk_costume_stylish": {
+    "id": "oriental_enchanted_monk_costume_stylish",
+    "element": "Yellow",
+    "family": "classic",
+    "baseHealth": 639,
+    "baseAttack": 379,
+    "baseDefense": 300,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "stylish"
+    ],
+    "classType": "Monk",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "Dodge",
+    "rarity": 5,
+    "specialId": "stylish_beam",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Season1",
+    "parentHeroId": "oriental_enchanted_monk"
+  },
   "elven_archer_costume_glass": {
     "id": "The Noble Vitrail",
     "element": "Green",
@@ -20309,6 +20334,26 @@
     "origin": "Season1",
     "parentHeroId": "elven_archer"
   },
+  "elven_archer_costume_stylish": {
+    "id": "elven_archer_costume_stylish",
+    "element": "Green",
+    "family": "classic",
+    "baseHealth": 596,
+    "baseAttack": 370,
+    "baseDefense": 338,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "stylish"
+    ],
+    "classType": "Ranger",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "stylish_arrow",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Season1",
+    "parentHeroId": "elven_archer"
+  },
   "magitech_sniper_costume_glass": {
     "id": "Glass Sniper",
     "element": "Purple",
@@ -20326,6 +20371,26 @@
     "rarity": 5,
     "specialId": "glass_bolt",
     "canBeReceivedDate": "2025-04-23 07:00:00",
+    "origin": "Season1",
+    "parentHeroId": "magitech_sniper"
+  },
+  "magitech_sniper_costume_stylish": {
+    "id": "magitech_sniper_costume_stylish",
+    "element": "Purple",
+    "family": "classic",
+    "baseHealth": 631,
+    "baseAttack": 375,
+    "baseDefense": 318,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "stylish"
+    ],
+    "classType": "Rogue",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "stylish_bolt",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Season1",
     "parentHeroId": "magitech_sniper"
   },
@@ -20589,6 +20654,26 @@
     "origin": "Season1",
     "parentHeroId": "nomad_axe_adventurer"
   },
+  "nomad_axe_adventurer_costume_stylish": {
+    "id": "nomad_axe_adventurer_costume_stylish",
+    "element": "Red",
+    "family": "classic",
+    "baseHealth": 500,
+    "baseAttack": 351,
+    "baseDefense": 254,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "stylish"
+    ],
+    "classType": "Fighter",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "Attack Up",
+    "rarity": 4,
+    "specialId": "stylish_flames",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Season1",
+    "parentHeroId": "nomad_axe_adventurer"
+  },
   "goblin_mage_costume_glass": {
     "id": "Glass Witch",
     "element": "Green",
@@ -20606,6 +20691,26 @@
     "rarity": 4,
     "specialId": "glass_vines",
     "canBeReceivedDate": "2025-04-08 07:00:00",
+    "origin": "Season1",
+    "parentHeroId": "goblin_mage"
+  },
+  "goblin_mage_costume_stylish": {
+    "id": "goblin_mage_costume_stylish",
+    "element": "Green",
+    "family": "classic",
+    "baseHealth": 454,
+    "baseAttack": 352,
+    "baseDefense": 278,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "stylish"
+    ],
+    "classType": "Sorcerer",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "Mana Boost",
+    "rarity": 4,
+    "specialId": "stylish_vines",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Season1",
     "parentHeroId": "goblin_mage"
   },
@@ -20629,6 +20734,26 @@
     "origin": "Season1",
     "parentHeroId": "undead_captain_warrior"
   },
+  "undead_captain_warrior_costume_stylish": {
+    "id": "undead_captain_warrior_costume_stylish",
+    "element": "Purple",
+    "family": "classic",
+    "baseHealth": 654,
+    "baseAttack": 262,
+    "baseDefense": 287,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "stylish"
+    ],
+    "classType": "Paladin",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "Counterattack",
+    "rarity": 4,
+    "specialId": "stylish_riposte_cyprian",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Season1",
+    "parentHeroId": "undead_captain_warrior"
+  },
   "nomad_female_berserker_costume_glass": {
     "id": "Vitrail of Dragonia",
     "element": "Red",
@@ -20646,6 +20771,26 @@
     "rarity": 4,
     "specialId": "dance_of_glass",
     "canBeReceivedDate": "2025-04-23 07:00:00",
+    "origin": "Season1",
+    "parentHeroId": "nomad_female_berserker"
+  },
+  "nomad_female_berserker_costume_stylish": {
+    "id": "nomad_female_berserker_costume_stylish",
+    "element": "Red",
+    "family": "classic",
+    "baseHealth": 447,
+    "baseAttack": 336,
+    "baseDefense": 301,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "stylish"
+    ],
+    "classType": "Rogue",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "Attack Up",
+    "rarity": 4,
+    "specialId": "stylish_dance",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Season1",
     "parentHeroId": "nomad_female_berserker"
   },
@@ -20989,6 +21134,26 @@
     "origin": "Season1",
     "parentHeroId": "blackguard_female_captain"
   },
+  "blackguard_female_captain_costume_stylish": {
+    "id": "blackguard_female_captain_costume_stylish",
+    "element": "Purple",
+    "family": "classic",
+    "baseHealth": 438,
+    "baseAttack": 250,
+    "baseDefense": 259,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "stylish"
+    ],
+    "classType": "Paladin",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "Special Boost",
+    "rarity": 3,
+    "specialId": "stylish_stab",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Season1",
+    "parentHeroId": "blackguard_female_captain"
+  },
   "nomad_female_swordmaster_costume_glass": {
     "id": "Seeker of Glass",
     "element": "Red",
@@ -21009,6 +21174,26 @@
     "origin": "Season1",
     "parentHeroId": "nomad_female_swordmaster"
   },
+  "nomad_female_swordmaster_costume_stylish": {
+    "id": "nomad_female_swordmaster_costume_stylish",
+    "element": "Red",
+    "family": "classic",
+    "baseHealth": 369,
+    "baseAttack": 300,
+    "baseDefense": 225,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "stylish"
+    ],
+    "classType": "Barbarian",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "Rage",
+    "rarity": 3,
+    "specialId": "stylish_cut",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Season1",
+    "parentHeroId": "nomad_female_swordmaster"
+  },
   "forest_female_spirit_costume_glass": {
     "id": "Glass Spirit",
     "element": "Green",
@@ -21026,6 +21211,26 @@
     "rarity": 3,
     "specialId": "glass_mist",
     "canBeReceivedDate": "2025-04-23 07:00:00",
+    "origin": "Season1",
+    "parentHeroId": "forest_female_spirit"
+  },
+  "forest_female_spirit_costume_stylish": {
+    "id": "forest_female_spirit_costume_stylish",
+    "element": "Green",
+    "family": "classic",
+    "baseHealth": 425,
+    "baseAttack": 255,
+    "baseDefense": 250,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "stylish"
+    ],
+    "classType": "Druid",
+    "hasImprovedTalentSkill": true,
+    "aetherGift": "Defense Up",
+    "rarity": 3,
+    "specialId": "stylish_mist",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Season1",
     "parentHeroId": "forest_female_spirit"
   },
@@ -22402,6 +22607,46 @@
     "canBeReceivedDate": "2026-02-20 07:00:00",
     "origin": "The Brave & The Beautiful",
     "parentHeroId": "musketeer_dartagnan"
+  },
+  "musketeer_rochefort_costume_ratcatcher": {
+    "id": "musketeer_rochefort_costume_ratcatcher",
+    "element": "Purple",
+    "family": "musketeer",
+    "baseHealth": 850,
+    "baseAttack": 440,
+    "baseDefense": 420,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "damage_all_enemies_on_cover_or_special_damage_received_costume",
+      "resist_defense_modifier_debuffs"
+    ],
+    "classType": "Rogue",
+    "aetherGift": "Fiend Resist",
+    "rarity": 5,
+    "specialId": "exterminators_ploy",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "The Brave & The Beautiful",
+    "parentHeroId": "musketeer_rochefort"
+  },
+  "musketeer_constance_costume_fusilier": {
+    "id": "musketeer_constance_costume_fusilier",
+    "element": "Yellow",
+    "family": "musketeer",
+    "baseHealth": 835,
+    "baseAttack": 423,
+    "baseDefense": 450,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "damage_all_enemies_on_cover_or_special_damage_received_costume",
+      "resist_defense_modifier_debuffs"
+    ],
+    "classType": "Ranger",
+    "aetherGift": "Regen",
+    "rarity": 5,
+    "specialId": "fusiliers_flurry",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "The Brave & The Beautiful",
+    "parentHeroId": "musketeer_constance"
   },
   "musketeer_villiers_costume_jester": {
     "id": "Pompous Jester",
@@ -25886,7 +26131,8 @@
     "rarity": 5,
     "specialId": "mana_immolation",
     "canBeReceivedDate": "2025-03-23 07:00:00",
-    "origin": "Treasures of Flame and Frost"
+    "origin": "Treasures of Flame and Frost",
+    "costumeBonusesId": "tales2"
   },
   "tales2_dagr": {
     "id": "Dwarven Mountain Shaman",
@@ -30059,7 +30305,7 @@
     "origin": "SuperElemental"
   },
   "slime_slaymire": {
-    "id": "Stubborn Slime Executor",
+    "id": "Stubborn Slime Executioner",
     "element": "Purple",
     "family": "slime",
     "baseHealth": 1113,
@@ -31460,10 +31706,13 @@
     "id": "Toon of the Jungle",
     "element": "Green",
     "family": "lagoon",
-    "baseHealth": 602,
-    "baseAttack": 400,
-    "baseDefense": 324,
+    "baseHealth": 600,
+    "baseAttack": 405,
+    "baseDefense": 320,
     "manaSpeedId": "average",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
     "classType": "Monk",
     "aetherGift": "Counterattack",
     "rarity": 5,
@@ -31476,10 +31725,13 @@
     "id": "Toon Beauty",
     "element": "Red",
     "family": "japanese",
-    "baseHealth": 704,
-    "baseAttack": 338,
-    "baseDefense": 353,
+    "baseHealth": 703,
+    "baseAttack": 342,
+    "baseDefense": 349,
     "manaSpeedId": "average",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
     "classType": "Sorcerer",
     "aetherGift": "Special Boost",
     "rarity": 5,
@@ -31493,9 +31745,12 @@
     "element": "Yellow",
     "family": "japanese",
     "baseHealth": 637,
-    "baseAttack": 395,
-    "baseDefense": 312,
+    "baseAttack": 402,
+    "baseDefense": 304,
     "manaSpeedId": "average",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
     "classType": "Rogue",
     "aetherGift": "Attack Up",
     "rarity": 5,
@@ -31509,9 +31764,12 @@
     "element": "Purple",
     "family": "japanese",
     "baseHealth": 606,
-    "baseAttack": 379,
-    "baseDefense": 347,
+    "baseAttack": 384,
+    "baseDefense": 341,
     "manaSpeedId": "very_fast",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
     "classType": "Barbarian",
     "aetherGift": "Dodge",
     "rarity": 5,
@@ -31525,9 +31783,12 @@
     "element": "Green",
     "family": "atlantis",
     "baseHealth": 649,
-    "baseAttack": 356,
-    "baseDefense": 353,
+    "baseAttack": 361,
+    "baseDefense": 348,
     "manaSpeedId": "average",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
     "classType": "Barbarian",
     "aetherGift": "Rage",
     "rarity": 5,
@@ -31540,10 +31801,13 @@
     "id": "Toon Princess of Atlantis",
     "element": "Blue",
     "family": "atlantis",
-    "baseHealth": 612,
-    "baseAttack": 355,
-    "baseDefense": 373,
+    "baseHealth": 613,
+    "baseAttack": 350,
+    "baseDefense": 379,
     "manaSpeedId": "average",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
     "classType": "Cleric",
     "aetherGift": "Defense Up",
     "rarity": 5,
@@ -31557,9 +31821,12 @@
     "element": "Yellow",
     "family": "atlantis",
     "baseHealth": 655,
-    "baseAttack": 362,
-    "baseDefense": 349,
+    "baseAttack": 357,
+    "baseDefense": 356,
     "manaSpeedId": "fast",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
     "classType": "Fighter",
     "aetherGift": "Attack Up",
     "rarity": 5,
@@ -31573,9 +31840,12 @@
     "element": "Purple",
     "family": "atlantis",
     "baseHealth": 623,
-    "baseAttack": 369,
-    "baseDefense": 355,
+    "baseAttack": 374,
+    "baseDefense": 350,
     "manaSpeedId": "average",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
     "classType": "Sorcerer",
     "aetherGift": "Bulwark",
     "rarity": 5,
@@ -31588,10 +31858,13 @@
     "id": "Toon Chameleon Shaman",
     "element": "Blue",
     "family": "lagoon",
-    "baseHealth": 508,
-    "baseAttack": 323,
-    "baseDefense": 290,
+    "baseHealth": 510,
+    "baseAttack": 327,
+    "baseDefense": 285,
     "manaSpeedId": "average",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
     "classType": "Cleric",
     "aetherGift": "Boosted Regen",
     "rarity": 4,
@@ -31605,9 +31878,12 @@
     "element": "Red",
     "family": "lagoon",
     "baseHealth": 538,
-    "baseAttack": 285,
-    "baseDefense": 325,
+    "baseAttack": 280,
+    "baseDefense": 333,
     "manaSpeedId": "average",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
     "classType": "Monk",
     "aetherGift": "Regen",
     "rarity": 4,
@@ -31621,9 +31897,12 @@
     "element": "Red",
     "family": "japanese",
     "baseHealth": 524,
-    "baseAttack": 313,
-    "baseDefense": 298,
+    "baseAttack": 319,
+    "baseDefense": 292,
     "manaSpeedId": "average",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
     "classType": "Fighter",
     "aetherGift": "Attack Up",
     "rarity": 4,
@@ -31637,9 +31916,12 @@
     "element": "Purple",
     "family": "atlantis",
     "baseHealth": 508,
-    "baseAttack": 333,
-    "baseDefense": 280,
+    "baseAttack": 328,
+    "baseDefense": 287,
     "manaSpeedId": "average",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
     "classType": "Wizard",
     "aetherGift": "Damage Reduction",
     "rarity": 4,
@@ -31652,10 +31934,13 @@
     "id": "Atlantean Watcher Toon",
     "element": "Green",
     "family": "atlantis",
-    "baseHealth": 516,
-    "baseAttack": 291,
-    "baseDefense": 325,
+    "baseHealth": 514,
+    "baseAttack": 297,
+    "baseDefense": 320,
     "manaSpeedId": "slow",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
     "classType": "Druid",
     "aetherGift": "Fiend Resist",
     "rarity": 4,
@@ -31669,9 +31954,12 @@
     "element": "Purple",
     "family": "lagoon",
     "baseHealth": 430,
-    "baseAttack": 251,
-    "baseDefense": 261,
+    "baseAttack": 241,
+    "baseDefense": 276,
     "manaSpeedId": "slow",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
     "classType": "Sorcerer",
     "aetherGift": "Counterattack",
     "rarity": 3,
@@ -31685,9 +31973,12 @@
     "element": "Yellow",
     "family": "atlantis",
     "baseHealth": 394,
-    "baseAttack": 291,
-    "baseDefense": 233,
+    "baseAttack": 296,
+    "baseDefense": 228,
     "manaSpeedId": "fast",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
     "classType": "Druid",
     "aetherGift": "Attack Up",
     "rarity": 3,
@@ -31701,9 +31992,12 @@
     "element": "Green",
     "family": "atlantis",
     "baseHealth": 398,
-    "baseAttack": 273,
-    "baseDefense": 248,
+    "baseAttack": 279,
+    "baseDefense": 243,
     "manaSpeedId": "fast",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
     "classType": "Cleric",
     "aetherGift": "Attack Up",
     "rarity": 3,
@@ -32298,6 +32592,181 @@
     "origin": "Season1",
     "parentHeroId": "oriental_female_mage"
   },
+  "easter_sir_roostley_costume_alchemist": {
+    "id": "easter_sir_roostley_costume_alchemist",
+    "element": "Yellow",
+    "family": "easter",
+    "baseHealth": 652,
+    "baseAttack": 380,
+    "baseDefense": 353,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "easter_defense_down_stack_on_special"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "alchemist_lance",
+    "canBeReceivedDate": "2026-03-30 07:00:00",
+    "origin": "Easter",
+    "parentHeroId": "easter_sir_roostley"
+  },
+  "easter_lady_woolerton_costume_coiffeuse": {
+    "id": "easter_lady_woolerton_costume_coiffeuse",
+    "element": "Yellow",
+    "family": "easter",
+    "baseHealth": 576,
+    "baseAttack": 293,
+    "baseDefense": 317,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "easter_health_generation_stack_on_special_epic"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Boosted Regen",
+    "rarity": 4,
+    "specialId": "shearing_treatment",
+    "canBeReceivedDate": "2026-03-30 07:00:00",
+    "origin": "Easter",
+    "parentHeroId": "easter_lady_woolerton"
+  },
+  "rabbit_red_costume_knight": {
+    "id": "rabbit_red_costume_knight",
+    "element": "Red",
+    "family": "easter",
+    "baseHealth": 354,
+    "baseAttack": 313,
+    "baseDefense": 215,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "easter_defense_down_stack_on_special"
+    ],
+    "classType": "Fighter",
+    "aetherGift": "Special Boost",
+    "rarity": 3,
+    "specialId": "prudent_stab",
+    "canBeReceivedDate": "2026-03-30 07:00:00",
+    "origin": "Easter",
+    "parentHeroId": "rabbit_red"
+  },
+  "s2_hammerhead_hulk_costume_cute": {
+    "id": "s2_hammerhead_hulk_costume_cute",
+    "element": "Purple",
+    "family": "lagoon",
+    "baseHealth": 700,
+    "baseAttack": 357,
+    "baseDefense": 329,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Barbarian",
+    "aetherGift": "Rage",
+    "rarity": 5,
+    "specialId": "toon_tide",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Atlantis Summon",
+    "parentHeroId": "s2_hammerhead_hulk"
+  },
+  "s2_mercenary_woman_costume_cute": {
+    "id": "s2_mercenary_woman_costume_cute",
+    "element": "Blue",
+    "family": "lagoon",
+    "baseHealth": 644,
+    "baseAttack": 358,
+    "baseDefense": 358,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "empowered_toon_resist_manareduction_dispels"
+    ],
+    "classType": "Fighter",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "toon_chain",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Atlantis Summon",
+    "parentHeroId": "s2_mercenary_woman"
+  },
+  "tales2_aethslegaur_costume_soul_seeker": {
+    "id": "tales2_aethslegaur_costume_soul_seeker",
+    "element": "Red",
+    "family": "nidavellir",
+    "baseHealth": 1115,
+    "baseAttack": 562,
+    "baseDefense": 580,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "molten_core_costume",
+      "resist_burn_with_health_and_mana_boost_costume"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Mana Generation",
+    "rarity": 5,
+    "specialId": "mana_immolation_soul_seeker",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Treasures of Flame and Frost",
+    "parentHeroId": "tales2_aethslegaur"
+  },
+  "tales2_dularfulr_costume_engineer": {
+    "id": "tales2_dularfulr_costume_engineer",
+    "element": "Purple",
+    "family": "nidavellir",
+    "baseHealth": 1074,
+    "baseAttack": 555,
+    "baseDefense": 574,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "molten_core_costume",
+      "resist_burn_with_health_and_mana_boost_costume"
+    ],
+    "classType": "Paladin",
+    "aetherGift": "Defense Up",
+    "rarity": 5,
+    "specialId": "nights_calibration",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Treasures of Flame and Frost",
+    "parentHeroId": "tales2_dularfulr"
+  },
+  "tales2_andvari_costume_c1": {
+    "id": "tales2_andvari_costume_c1",
+    "element": "Blue",
+    "family": "nidavellir",
+    "baseHealth": 1092,
+    "baseAttack": 550,
+    "baseDefense": 578,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "molten_core_costume",
+      "resist_burn_with_health_and_mana_boost_costume"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "saga_of_restoration",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Treasures of Flame and Frost",
+    "parentHeroId": "tales2_andvari"
+  },
+  "tales2_dagr_costume_plague_shaman": {
+    "id": "tales2_dagr_costume_plague_shaman",
+    "element": "Green",
+    "family": "nidavellir",
+    "baseHealth": 1030,
+    "baseAttack": 600,
+    "baseDefense": 556,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "molten_core_costume",
+      "resist_burn_with_health_and_mana_boost_costume"
+    ],
+    "classType": "Monk",
+    "aetherGift": "Special Boost",
+    "rarity": 5,
+    "specialId": "curing_venom",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Treasures of Flame and Frost",
+    "parentHeroId": "tales2_dagr"
+  },
   "beauty_beast_dominique": {
     "id": "The Faithful Protector",
     "element": "Blue",
@@ -32402,19 +32871,19 @@
     "id": "beauty_beast_jacquespierre",
     "element": "Green",
     "family": "beauty_beast",
-    "baseHealth": 1092,
-    "baseAttack": 605,
-    "baseDefense": 606,
-    "manaSpeedId": "very_fast",
+    "baseHealth": 1103,
+    "baseAttack": 660,
+    "baseDefense": 619,
+    "manaSpeedId": "average",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
       "heal_on_expired_or_cleared_debuff_average",
       "reduce_revival_health_all_enemies"
     ],
-    "classType": "Druid",
-    "aetherGift": "Fiend Resist",
+    "classType": "Ranger",
+    "aetherGift": "Attack Up",
     "rarity": 5,
-    "specialId": "beautiful_petals",
+    "specialId": "ingenious_gadgets",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "The Brave & The Beautiful"
   },
@@ -32442,19 +32911,19 @@
     "id": "beauty_beast_seraphine",
     "element": "Blue",
     "family": "beauty_beast",
-    "baseHealth": 1092,
-    "baseAttack": 605,
-    "baseDefense": 606,
-    "manaSpeedId": "very_fast",
+    "baseHealth": 1104,
+    "baseAttack": 658,
+    "baseDefense": 621,
+    "manaSpeedId": "average",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
       "heal_on_expired_or_cleared_debuff_average",
       "reduce_revival_health_all_enemies"
     ],
-    "classType": "Druid",
-    "aetherGift": "Fiend Resist",
+    "classType": "Sorcerer",
+    "aetherGift": "Damage Reduction",
     "rarity": 5,
-    "specialId": "beautiful_petals",
+    "specialId": "ruthless_derision",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "The Brave & The Beautiful"
   },
@@ -33040,6 +33509,46 @@
     "canBeReceivedDate": "2026-03-07 07:00:00",
     "origin": "Astral Plane"
   },
+  "astral_demon_carthizux": {
+    "id": "astral_demon_carthizux",
+    "element": "Red",
+    "family": "astral_demons",
+    "baseHealth": 1071,
+    "baseAttack": 664,
+    "baseDefense": 630,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "never_miss_special",
+      "resist_all_mana_debuffs_and_reductions",
+      "mana_generation_modifier_all_enemies_more_sources"
+    ],
+    "classType": "Rogue",
+    "aetherGift": "Rage",
+    "rarity": 5,
+    "specialId": "astral_madness_unleashed",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Astral Plane"
+  },
+  "astral_demon_ushal": {
+    "id": "astral_demon_ushal",
+    "element": "Blue",
+    "family": "astral_demons",
+    "baseHealth": 1077,
+    "baseAttack": 656,
+    "baseDefense": 636,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "never_miss_special",
+      "resist_all_mana_debuffs_and_reductions",
+      "mana_generation_modifier_all_enemies_more_sources"
+    ],
+    "classType": "Wizard",
+    "aetherGift": "Damage Reduction",
+    "rarity": 5,
+    "specialId": "cosmic_spirals",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Astral Plane"
+  },
   "mahayoddha_jyoti": {
     "id": "Chari Dancer",
     "element": "Red",
@@ -33315,6 +33824,63 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "arctic_hunt",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "TitanHunter"
+  },
+  "titan_hunter_vendela": {
+    "id": "titan_hunter_vendela",
+    "element": "Purple",
+    "family": "titan_hunter",
+    "baseHealth": 1103,
+    "baseAttack": 642,
+    "baseDefense": 634,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "titan_hunter_hunting_flare_on_special_cast",
+      "tile_enhancement_purple_on_special_titan_hunter_parent"
+    ],
+    "classType": "Monk",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "venom_hunt",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "TitanHunter"
+  },
+  "titan_hunter_orson": {
+    "id": "titan_hunter_orson",
+    "element": "Green",
+    "family": "titan_hunter",
+    "baseHealth": 1109,
+    "baseAttack": 661,
+    "baseDefense": 607,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "titan_hunter_hunting_flare_on_special_cast",
+      "tile_enhancement_green_on_special_titan_hunter_parent"
+    ],
+    "classType": "Paladin",
+    "aetherGift": "Defense Up",
+    "rarity": 5,
+    "specialId": "verdant_guard",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "TitanHunter"
+  },
+  "titan_hunter_veldt": {
+    "id": "titan_hunter_veldt",
+    "element": "Yellow",
+    "family": "titan_hunter",
+    "baseHealth": 1102,
+    "baseAttack": 646,
+    "baseDefense": 629,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "titan_hunter_hunting_flare_on_special_cast",
+      "tile_enhancement_yellow_on_special_titan_hunter_parent"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Regen",
+    "rarity": 5,
+    "specialId": "desert_trap",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "TitanHunter"
   },
@@ -33607,5 +34173,341 @@
     "canBeReceivedDate": "2026-02-17 07:00:00",
     "origin": "LunarNewYear",
     "additionalBattleSpecificHeroEffectOrigin": "LunarNewYear2026"
+  },
+  "rodent_embertail": {
+    "id": "rodent_embertail",
+    "element": "Red",
+    "family": "rodent",
+    "baseHealth": 1090,
+    "baseAttack": 658,
+    "baseDefense": 637,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "resist_all_attack_effects",
+      "rodent_effects_on_ally_passive_skill"
+    ],
+    "classType": "Wizard",
+    "aetherGift": "Damage Reduction",
+    "rarity": 5,
+    "specialId": "blazing_matchstick",
+    "canBeReceivedDate": "2026-03-18 07:00:00",
+    "origin": "Birthday Summon"
+  },
+  "rodent_sproutwhisker": {
+    "id": "rodent_sproutwhisker",
+    "element": "Green",
+    "family": "rodent",
+    "baseHealth": 1100,
+    "baseAttack": 638,
+    "baseDefense": 657,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "resist_all_attack_effects",
+      "rodent_effects_on_ally_passive_skill"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Regen",
+    "rarity": 5,
+    "specialId": "vibrant_whistle",
+    "canBeReceivedDate": "2026-03-18 07:00:00",
+    "origin": "Birthday Summon"
+  },
+  "easter_duke_whitley": {
+    "id": "easter_duke_whitley",
+    "element": "Red",
+    "family": "easter",
+    "baseHealth": 1111,
+    "baseAttack": 655,
+    "baseDefense": 626,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "easter_defense_down_stack_on_special"
+    ],
+    "classType": "Wizard",
+    "aetherGift": "Special Boost",
+    "rarity": 5,
+    "specialId": "roasting_rooster",
+    "canBeReceivedDate": "2026-03-30 07:00:00",
+    "origin": "Easter"
+  },
+  "easter_marko": {
+    "id": "easter_marko",
+    "element": "Blue",
+    "family": "easter",
+    "baseHealth": 1125,
+    "baseAttack": 632,
+    "baseDefense": 647,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "easter_health_generation_stack_on_special"
+    ],
+    "classType": "Monk",
+    "aetherGift": "Heal Increase",
+    "rarity": 5,
+    "specialId": "globetrotting_gifts",
+    "canBeReceivedDate": "2026-03-30 07:00:00",
+    "origin": "Easter"
+  },
+  "dark_god_cordelia": {
+    "id": "dark_god_cordelia",
+    "element": "Purple",
+    "family": "hotm2026",
+    "baseHealth": 1074,
+    "baseAttack": 553,
+    "baseDefense": 596,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "resist_poison",
+      "resist_direct_mana_reductions"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Damage Reduction",
+    "rarity": 5,
+    "specialId": "destined_curse",
+    "canBeReceivedDate": "2026-04-01 07:00:00",
+    "origin": "MonthlyHeroApril2026"
+  },
+  "nature_god_coleston": {
+    "id": "nature_god_coleston",
+    "element": "Green",
+    "family": "hotm2026",
+    "baseHealth": 900,
+    "baseAttack": 500,
+    "baseDefense": 500,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "resist_burn",
+      "dodge_enemy_damage_special"
+    ],
+    "classType": "Fighter",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "farmhands_fury",
+    "canBeReceivedDate": "2026-05-01 07:00:00",
+    "origin": "MonthlyHeroMay2026"
+  },
+  "institute_azureus": {
+    "id": "institute_azureus",
+    "element": "Blue",
+    "family": "institute",
+    "baseHealth": 1140,
+    "baseAttack": 626,
+    "baseDefense": 648,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "revive_in_alternative_form_with_insanity_chance"
+    ],
+    "classType": "Paladin",
+    "aetherGift": "Taunt",
+    "rarity": 5,
+    "specialId": "aetheric_transmutation",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "ShadowQuest"
+  },
+  "institute_axioma": {
+    "id": "institute_axioma",
+    "element": "Yellow",
+    "family": "institute",
+    "baseHealth": 1130,
+    "baseAttack": 633,
+    "baseDefense": 645,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "damage_increase_by_insanity"
+    ],
+    "classType": "Wizard",
+    "aetherGift": "Counterattack",
+    "rarity": 5,
+    "specialId": "tackle",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "ShadowQuest"
+  },
+  "forsaken_nyctalos": {
+    "id": "forsaken_nyctalos",
+    "element": "Purple",
+    "family": "forsaken",
+    "baseHealth": 1110,
+    "baseAttack": 650,
+    "baseDefense": 633,
+    "manaSpeedId": "very_fast",
+    "passiveSkills": [
+      "damage_increase_by_insanity"
+    ],
+    "classType": "Ranger",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "tackle",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "ShadowQuest"
+  },
+  "forsaken_vermis": {
+    "id": "forsaken_vermis",
+    "element": "Yellow",
+    "family": "forsaken",
+    "baseHealth": 1119,
+    "baseAttack": 638,
+    "baseDefense": 643,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "revive_in_alternative_form_with_insanity_chance"
+    ],
+    "classType": "Monk",
+    "aetherGift": "Fiend Resist",
+    "rarity": 5,
+    "specialId": "tackle",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "ShadowQuest"
+  },
+  "ronin_mikanagi_miran": {
+    "id": "ronin_mikanagi_miran",
+    "element": "Purple",
+    "family": "ronin",
+    "baseHealth": 1120,
+    "baseAttack": 648,
+    "baseDefense": 632,
+    "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "dishonorable_death",
+      "prevent_boosted_health"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "iaijutsu_slashes",
+    "canBeReceivedDate": "2026-03-10 07:00:00",
+    "origin": "Ninja Tower"
+  },
+  "ronin_asakura_masao": {
+    "id": "ronin_asakura_masao",
+    "element": "Red",
+    "family": "ronin",
+    "baseHealth": 1130,
+    "baseAttack": 630,
+    "baseDefense": 650,
+    "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "dishonorable_death",
+      "prevent_boosted_health"
+    ],
+    "classType": "Paladin",
+    "aetherGift": "Damage Reduction",
+    "rarity": 5,
+    "specialId": "two_sword_technique",
+    "canBeReceivedDate": "2026-03-10 07:00:00",
+    "origin": "Ninja Tower"
+  },
+  "ronin_kageyama_nagato": {
+    "id": "ronin_kageyama_nagato",
+    "element": "Green",
+    "family": "ronin",
+    "baseHealth": 1110,
+    "baseAttack": 655,
+    "baseDefense": 627,
+    "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "dishonorable_death",
+      "prevent_boosted_health"
+    ],
+    "classType": "Rogue",
+    "aetherGift": "Dodge",
+    "rarity": 5,
+    "specialId": "shuriken_storm",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Ninja Tower"
+  },
+  "ronin_tokage_daigo": {
+    "id": "ronin_tokage_daigo",
+    "element": "Purple",
+    "family": "ronin",
+    "baseHealth": 612,
+    "baseAttack": 421,
+    "baseDefense": 375,
+    "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "dishonorable_death",
+      "prevent_boosted_health"
+    ],
+    "classType": "Ranger",
+    "aetherGift": "Attack Up",
+    "rarity": 4,
+    "specialId": "lethal_strikes",
+    "canBeReceivedDate": "2026-03-10 07:00:00",
+    "origin": "Ninja Tower"
+  },
+  "ronin_yamada_jingasa": {
+    "id": "ronin_yamada_jingasa",
+    "element": "Red",
+    "family": "ronin",
+    "baseHealth": 520,
+    "baseAttack": 330,
+    "baseDefense": 310,
+    "manaSpeedId": "charge_ninja",
+    "passiveSkills": [
+      "dishonorable_death",
+      "prevent_boosted_health"
+    ],
+    "classType": "Monk",
+    "aetherGift": "Attack Up",
+    "rarity": 3,
+    "specialId": "flying_front_kick",
+    "canBeReceivedDate": "2026-03-10 07:00:00",
+    "origin": "Ninja Tower"
+  },
+  "mahayoddha_ajay": {
+    "id": "mahayoddha_ajay",
+    "element": "Yellow",
+    "family": "mahayoddha",
+    "baseHealth": 1108,
+    "baseAttack": 655,
+    "baseDefense": 632,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "increased_damage_against_minions_and_mega_minions",
+      "mana_on_damage_received"
+    ],
+    "classType": "Barbarian",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "urumi_lashing",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Windfall Temple"
+  },
+  "vegetable_auberguy": {
+    "id": "vegetable_auberguy",
+    "element": "Purple",
+    "family": "vegetable",
+    "baseHealth": 1132,
+    "baseAttack": 636,
+    "baseDefense": 645,
+    "manaSpeedId": "very_slow",
+    "passiveSkills": [
+      "summon_seedling_parasite_per_turn_shared_with_delay_rare_veggie",
+      "resist_special_blocking_with_health_boost_and_mana"
+    ],
+    "classType": "Wizard",
+    "aetherGift": "Special Boost",
+    "rarity": 5,
+    "specialId": "bitter_wilting",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Vigilant Vegetables"
+  },
+  "mahayoddha_bhairavi_devi": {
+    "id": "mahayoddha_bhairavi_devi",
+    "element": "Blue",
+    "family": "mahayoddha",
+    "baseHealth": 1135,
+    "baseAttack": 634,
+    "baseDefense": 645,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "resist_negative_minion_and_mega_minion_effects",
+      "mana_on_damage_received"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Heal Increase",
+    "rarity": 5,
+    "specialId": "thandai_trance",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Windfall Temple"
   }
 }

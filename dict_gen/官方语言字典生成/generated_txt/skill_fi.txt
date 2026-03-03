@@ -38,6 +38,7 @@ Haukimegariiviö imee parannuksen itseensä ja katoaa, kun se on imenyt terveytt
 "specials.v2.clearbuffs.minorbuff.neartotarget.enemies","Häivyttää tehosteet kohteelta ja lähellä olevilta vihollisilta."
 "specials.v2.clearbuffs.minorbuff.sides.enemies","Häivyttää tehosteet vihollisryhmän laidoilla olevilta vihollisilta."
 "specials.v2.clearbuffs.minorbuff.single.enemies","Häivyttää tehosteet kohteelta."
+"specials.v2.clearbuffs.minorbuff.single.enemies.bypassremoveeffects","Häivyttää tehosteet kohteelta turvallisesti."
 "specials.v2.clearbuffs.minordebuff.all.allies","Puhdistaa vaivat kaikilta liittolaisilta."
 "specials.v2.clearbuffs.minordebuff.all.allies.latest","Puhdistaa viimeisimmän puhdistettavan vaivan kaikilta liittolaisilta."
 "specials.v2.clearbuffs.minordebuff.neartotarget.allies","Puhdistaa vaivat loitsijalta ja lähellä olevilta liittolaisilta."
@@ -93,6 +94,8 @@ Haukimegariiviö imee parannuksen itseensä ja katoaa, kun se on imenyt terveytt
 "specials.v2.directeffect.reducemaxhealth.all.enemies.fixedpower","Vähentää {REDUCTION} kaikkien vihollisten maksimiterveydestä. Vaikutus on suurempi kohteissa, joiden terveyttä on tehostettu."
 "specials.v2.directeffect.revival.all.allies.with_chance","Jokaisella kukistuneella liittolaisella on {CHANCE} %:n mahdollisuus saada {HEALTH} % terveyttä tullessaan elvytetyksi."
 "specials.v2.directeffect.shufflepositions.all.enemies","Uudelleenjärjestää vihollisten paikat sattumanvaraisesti."
+"specials.v2.dispel.minorbuff.chain_strike","Häivyttää {REMOVALCOUNT} tehostetta osutuilta vihollisilta."
+"specials.v2.dispel.minorbuff.safe.chain_strike","Häivyttää tehosteet osutuilta vihollisilta turvallisesti."
 "specials.v2.familiars.statuseffect","{0}"
 "specials.v2.follower.follower_dragon_mordax.single.multiplepercharacter","Kutsuu loitsijalle {FAMILIARAMOUNT} ikitursaan päätä, joilla on {FAMILIARHEALTH} terveyttä. Ikitursaan päiden kutsumista ei voi estää, ja pään varastamisyritys johtaa pään kuolemaan."
 "specials.v2.follower.follower_moreau.single.multiplepercharacter","Kutsuu loitsijalle {FAMILIARAMOUNT} suojelijakristallia, joilla on {FAMILIARHEALTH} terveyttä. Suojelijakristallien kutsumista ei voi estää, ja kristallin varastamisyritys johtaa kristallin kuolemaan."
@@ -136,8 +139,7 @@ Jokainen mehiläiskäskyläisen osuma aiheuttaa kohteelle seuraavat vaivat:"
 "specials.v2.minion.brown_puppy.all","Kutsuu jokaista liittolaista kohden ruskean pentukäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä."
 "specials.v2.minion.bull.single.multiplepercharacter","Kutsuu kolme härkäkäskyläistä loitsijalle. Härkäkäskyläinen perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä."
 "specials.v2.minion.butterfly.all","Kutsuu jokaiselle liittolaiselle perhoskäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä.
-
-Jokainen perhoskäskyläisen osuma aiheuttaa kohteelle seuraavan vaivan:"
+ Jokainen perhoskäskyläisen osuma aiheuttaa kohteelle seuraavan vaivan:"
 "specials.v2.minion.card_soldier.single","Kutsuu pelikorttikäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä."
 "specials.v2.minion.card_soldier_costume.single","Kutsuu pelikorttikäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä."
 "specials.v2.minion.card_soldier_no_taunt.single","Kutsuu pelikorttikäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä."
@@ -178,8 +180,7 @@ Jokainen kalakäskyläisen osuma aiheuttaa kohteelle seuraavat vaivat:"
 "specials.v2.minion.grimoire.all","Kutsuu kaikille liittolaisille loitsukirjakäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä."
 "specials.v2.minion.guardian_minion_delilah_costume.all","Kutsuu jokaista liittolaista kohden vartijakäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä."
 "specials.v2.minion.harpoon_sentry.all","Kutsuu jokaiselle liittolaiselle harppuunavahdin, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä.
-
-Jokainen harppuunavahdin osuma vähentää kohteen manaa {FAMILIARADDMANA} % ja aiheuttaa kohteelle seuraavat vaivat:"
+ Jokainen harppuunavahdin osuma vähentää kohteen manaa {FAMILIARADDMANA} % ja aiheuttaa kohteelle seuraavat vaivat:"
 "specials.v2.minion.holy.all","Kutsuu kaikille liittolaisille pyhän käskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä."
 "specials.v2.minion.holy.yellow","Elementtilinkki kutsuu kaikille pyhilleliittolaisille pyhän käskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä."
 "specials.v2.minion.holy_god_delilah.all","Kutsuu jokaista liittolaista kohden vartijakäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä."
@@ -244,6 +245,7 @@ Korppikäskyläinen antaa {ATTACK} % hyökkäystä kaikille omistajansa muille 
 "specials.v2.minion.rock_golem_minion.all","Kutsuu jokaiselle liittolaiselle kivigolemkäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä."
 "specials.v2.minion.sakura_fox","Sakura-kettukäskyläisellä on {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä perittynä loitsijalta. Käskyläinen lisää omistajalleen {FAMILIARADDMANA} % manaa jokaisen vuoron lopussa."
 "specials.v2.minion.sakura_fox.neartotarget","Kutsuu loitsijalle ja lähellä oleville liittolaisille Sakura-kettukäskyläisen. Sakura-kettukäskyläisellä on {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä perittynä loitsijalta. Käskyläinen lisää omistajalleen {FAMILIARADDMANA} % manaa jokaisen vuoron lopussa."
+"specials.v2.minion.sakura_fox_costume","Kutsuu loitsijalle ja lähellä oleville liittolaisille Sakura-kettukäskyläisen. Sakura-kettukäskyläisellä on {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä perittynä loitsijalta. Käskyläinen lisää omistajalleen {FAMILIARADDMANA} % manaa jokaisen vuoron lopussa."
 "specials.v2.minion.sakura_fox_costume.neartotarget","Kutsuu loitsijalle ja lähellä oleville liittolaisille Sakura-kettukäskyläisen. Sakura-kettukäskyläisellä on {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä perittynä loitsijalta. Käskyläinen lisää omistajalleen {FAMILIARADDMANA} % manaa jokaisen vuoron lopussa."
 "specials.v2.minion.sand_golem.all","Kutsuu jokaiselle liittolaiselle hiekkagolemkäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä."
 "specials.v2.minion.sand_golem_papyros_costume.all","Kutsuu jokaiselle liittolaiselle hiekkagolemkäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä."
@@ -276,8 +278,7 @@ Korppikäskyläinen antaa {ATTACK} % hyökkäystä kaikille omistajansa muille 
 "specials.v2.minion.wu_soldier.single","Kutsuu Wun sotilaskäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä."
 "specials.v2.minion.wu_soldier_costumes.all","Kutsuu jokaiselle liittolaiselle Wun sotilaskäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä."
 "specials.v2.minion.xulu_minion.all","Kutsuu jokaiselle liittolaiselle Xulu-käskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä.
-
-Jokainen Xulu-käskyläisen osuma aiheuttaa kohteelle seuraavan vaivan:"
+ Jokainen Xulu-käskyläisen osuma aiheuttaa kohteelle seuraavan vaivan:"
 "specials.v2.moreau_parasite.summonedbyfamiliar","Jäännevarjoriiviö vaurioittaa kohdettaan {FAMILIARATTACK} %:n hyökkäyksellä joka vuorolla.
 Jäännevarjoriiviö imee parannuksen itseensä. Se katoaa, kun se on imenyt parannusta määrän, joka on {FAMILIARHEALTHPERCENT} % sen kohteen maksimiterveydestä."
 "specials.v2.moreau_parasite.to.single.enemies.summonedby.follower_moreau.hasturns","Suojelijakristalli kutsuu viholliselle jäännevarjoriiviön {FAMILIAREFFECTFREQUENCY} vuoron välein."
@@ -502,12 +503,15 @@ Saatuun parannukseen vaikuttavat tilaefektit vaikuttavat myös parannuksen skaal
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets","Tuottaa {DAMAGE} % vauriota kohteelle ja {MAXHITS} satunnaiselle viholliselle."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.minordamage.with_chance","{CHANCE} %:n mahdollisuus iskeä lisäosumia satunnaisiin vihollisiin enintään {MAXHITS} kertaa. Lisäiskut tekevät vähäistä vauriota."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.randommaintarget","Tuottaa {DAMAGE} % vauriota {TOTALMAXHITS} satunnaiselle viholliselle."
+"specials.v2.property.chainstrike.allowmaintargetinrandomtargets.with_chance","{CHANCE} %:n mahdollisuus iskeä lisäosumia satunnaisiin vihollisiin enintään {MAXHITS} kertaa."
 "specials.v2.property.chainstrike.minordamage","Tuottaa lisää vähäistä vauriota {MAXHITS} satunnaiselle viholliselle."
 "specials.v2.property.chainstrike.minordamage.with_chance","{CHANCE} %:n mahdollisuus iskeä lisäosumia satunnaisiin vihollisiin enintään {MAXHITS} kertaa. Lisäiskut tekevät vähäistä vauriota."
 "specials.v2.property.chainstrike.randommaintarget","Tuottaa {DAMAGE} % vauriota {TOTALMAXHITS} satunnaiselle viholliselle."
 "specials.v2.property.chainstrikewitheffectonsametargethits.addmana.single.allies.2_outof_2","Loitsija saa {EXTRAEFFECTPOWER} % manaa, jos kumpikin hyökkäys osuu samaan kohteeseen."
 "specials.v2.property.chainstrikewitheffectonsametargethits.allowmaintargetinrandomtargets.onehit","Tuottaa {DAMAGE} % vauriota satunnaiselle viholliselle."
-"specials.v2.property.chainstrikewitheffectperhit.addmana.all.allies.minordamage.with_chance","{CHANCE} %:n mahdollisuus iskeä lisäosumia satunnaisiin vihollisiin enintään {MAXHITS} kertaa. Lisäiskut tekevät vähäistä vauriota.
+"specials.v2.property.chainstrikewitheffectperhit.addmana.all.allies.moderate.minordamage.with_chance","{CHANCE} %:n mahdollisuus iskeä lisäosumia satunnaisiin vihollisiin enintään {MAXHITS} kertaa. Lisäiskut tekevät vähäistä vauriota.
+ Kaikki liittolaiset saavat kohtalaisen määrän manaa jokaisesta iskusta."
+"specials.v2.property.chainstrikewitheffectperhit.addmana.all.allies.small.minordamage.with_chance","{CHANCE} %:n mahdollisuus iskeä lisäosumia satunnaisiin vihollisiin enintään {MAXHITS} kertaa. Lisäiskut tekevät vähäistä vauriota.
  Kaikki liittolaiset saavat pienen määrän manaa jokaisesta iskusta."
 "specials.v2.property.chainstrikewitheffectperhit.all.allies.minordamage.with_chance","{CHANCE} %:n mahdollisuus iskeä lisäosumia satunnaisiin vihollisiin enintään {MAXHITS} kertaa. Lisäiskut tekevät vähäistä vauriota."
 "specials.v2.property.chainstrikewitheffectperhit.damage.statuseffect.single.enemies.with_chance","{CHANCE} %:n mahdollisuus iskeä lisäosumia satunnaisiin vihollisiin enintään {MAXHITS} kertaa."
@@ -523,7 +527,7 @@ Saatuun parannukseen vaikuttavat tilaefektit vaikuttavat myös parannuksen skaal
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","Tuottaa {DAMAGE} % vauriota kohteelle ja {MAXHITS} satunnaisille vihollisille.
 Kutsuu siementaimiriiviön jokaiselle osutulle viholliselle."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","Tuottaa {DAMAGE} % vauriota kohteelle ja {MAXHITS} satunnaisille vihollisille.
-[*]Kutsuu [#!]siementaimiriiviön[#] jokaiselle osutulle viholliselle."
+Kutsuu siementaimiriiviön jokaiselle osutulle viholliselle."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","Tuottaa {DAMAGE} % vauriota kohteelle ja {MAXHITS} satunnaiselle viholliselle.
 Kutsuu ammusriiviön iskemään vihollisia. Riiviö vaurioittaa vihollista {FAMILIARATTACK} %:n hyökkäyksellä joka vuorolla.
 Ammusriiviö imee parannuksen itseensä ja katoaa, kun se on imenyt terveyttä määrän, joka on {FAMILIARHEALTHPERCENT} % sen omistajan maksimiterveydestä."
@@ -642,6 +646,7 @@ Lisää satunnaisen kohteen aktiivisten vaivojen kestoa {TURNS} vuorolla."
 "specials.v2.property.effectonkill.statuseffect.managenerationmodifier.neartotarget.allies","Jos hyökkäys kukistaa kohteen, loitsija ja lähellä olevat liittolaiset saavat {STATUSEFFECT1MANAREGEN} % manatuotantoa {STATUSEFFECT1TURNS} vuoron ajaksi."
 "specials.v2.property.effectonkill.statuseffect.managenerationmodifier.single.allies","Jos hyökkäys kukistaa kohteen, loitsija saa {STATUSEFFECT1MANAREGEN} % manatuotantoa {STATUSEFFECT1TURNS} vuoron ajaksi."
 "specials.v2.property.effectonremovedstatuseffectspertarget.minordebuff.all.allies.effectonremoval.addmana.single","Puhdistaa kaikki vaivat kaikilta liittolaisilta, ja lisää kaikkien liittolaisten manaa {POWER} % jokaista puhdistettua vaivaa kohti."
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","Kerää tehosteita kaikilta vihollisilta."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","Sadonkorjuu poistaa kultakin kohteelta turvallisesti {MAXREMOVALCOUNT} tehostetta, positiivista kasaumaa tai kasvuefektiä. Tämä koskee myös tehosteita, joita ei voi häivyttää, sekä tanssitilaefektejä.
 Loitsija saa {HEALTHBOOST} % tehostettua terveyttä jokaisesta poistetusta efektistä. Tehostettu terveys voi ylittää maksimiterveyden.
 
@@ -671,6 +676,7 @@ Näivetysefektit poistetaan ensin. Muista efekteistä uusin poistetaan ensin."
 "specials.v2.property.effectpereatenfamiliar.damage.all.enemies.permil.minion.follower.minion.follower","Tekee {DAMAGE} % lisävauriota kaikille vihollisille jokaisesta tuhotusta käskyläisestä."
 "specials.v2.property.effectpereatenfamiliar.heal.all.allies.fixed.minion.follower","Kaikille liittolaisille palautetaan {HEALTHPERFAMILIAR} terveyspistettä jokaisesta tuhotusta käskyläisestä."
 "specials.v2.property.effectpereatenfamiliar.heal.all.allies.permil.minion.follower","Kaikille liittolaisille palautetaan {HEALTHPERFAMILIAR} % terveyttä jokaisesta tuhotusta käskyläisestä."
+"specials.v2.property.effectpereatenfamiliar.heal.all.allies.permil.minion.parasite","Kaikille liittolaisille palautetaan {HEALTHPERFAMILIAR} % terveyttä jokaisesta tuhotusta käskyläisestä ja riiviöstä."
 "specials.v2.property.effectpereatenfamiliar.heal.neartotarget.allies.fixed","Loitsijalle ja lähellä oleville liittolaisille palautetaan {HEALTHPERFAMILIAR} terveyspistettä jokaisesta tuhotusta käskyläisestä."
 "specials.v2.property.effectpereatenfamiliar.heal.neartotarget.allies.permil","Loitsijalle ja lähellä oleville liittolaisille palautetaan {HEALTHPERFAMILIAR} % terveyttä jokaisesta tuhotusta käskyläisestä."
 "specials.v2.property.effectpereatenfamiliar.heal.single.allies.fixed","Loitsijalle palautetaan {HEALTHPERFAMILIAR} terveyspistettä jokaisesta tuhotusta käskyläisestä."
@@ -697,6 +703,8 @@ Kaikki liittolaiset saavat {POWERPERFAMILIAR} % lisäterveyttä takaisin jokais
 "specials.v2.property.effectperremovedstatuseffect.addmana.neartotarget.enemies","Vähentää kohteen ja lähellä olevien vihollisten manaa {BASEPOWER} % ja lisäksi {POWERPEREFFECT} % jokaista poistettua tilaefektiä kohti, enintään yhteensä {MAXPOWER} %."
 "specials.v2.property.effectperremovedstatuseffect.addmana.neartotarget.enemies.no_base_effect","Vähentää kohteen ja lähellä olevien vihollisten manaa {POWERPEREFFECT} % jokaista poistettua tilaefektiä kohti, enintään yhteensä {MAXPOWER} %."
 "specials.v2.property.effectperremovedstatuseffect.damage.all.enemies","Tuottaa {BASEPOWER} % vauriota kaikille vihollisille.
+Tuottaa {POWERPEREFFECT} % lisävauriota jokaisesta poistetusta tilaefektistä. Yhteisvaurio on enintään {MAXPOWER} %."
+"specials.v2.property.effectperremovedstatuseffect.damage.single.enemies","Tuottaa {BASEPOWER} % vauriota kohteelle.
 Tuottaa {POWERPEREFFECT} % lisävauriota jokaisesta poistetusta tilaefektistä. Yhteisvaurio on enintään {MAXPOWER} %."
 "specials.v2.property.effectperremovedstatuseffect.heal.all.allies","Palauttaa {BASEPOWER} % terveyttä kaikille liittolaisille.
 Palauttaa {POWERPEREFFECT} % terveyttä lisää jokaista poistettua vaivaa kohti, yhteensä enintään {MAXPOWER} % terveyttä."
@@ -847,7 +855,7 @@ Kasvu ja Näivettäminen vaikuttavat vaurion skaalautumiseen.
 Hyökkäykseen ja puolustukseen vaikuttavat tehosteet ja vaivat eivät vaikuta vaurion skaalautumiseen."
 "specials.v2.property.pre.alwayshit","Tämä erikoistaito osuu aina kohteisiinsa."
 "specials.v2.property.pre.eatfamiliars.all.allies.parasite","Tuhoaa kaikki riiviöt kaikilta liittolaisilta."
-"specials.v2.property.pre.eatfamiliars.all.allies.parasite.bigparasite","Tuhoaa kaikki riiviöt kaikilta liittolaisilta ja vaurioittaa megariiviöitä."
+"specials.v2.property.pre.eatfamiliars.all.allies.parasite.bigparasite","Tuhoaa kaikki riiviöt kaikilta liittolaisilta ja vaurioittaa kaikkia megariiviöitä."
 "specials.v2.property.pre.eatfamiliars.all.allies.parasite.replacewith.gargoyle_minion","Vaihtaa kaikkien liittolaisten riiviöt gargoilikäskyläisiksi."
 "specials.v2.property.pre.eatfamiliars.all.allies.parasite.replacewith.jellyfish_minion","Vaihtaa kaikkien liittolaisten riiviöt meduusakäskyläisiksi."
 "specials.v2.property.pre.eatfamiliars.all.allies.parasite.replacewith.jellyfish_minion_costume2","Vaihtaa kaikkien liittolaisten riiviöt meduusakäskyläisiksi."
@@ -972,6 +980,7 @@ Jokainen laudalla oleva pyhä kilpi nostaa elpymismahdollisuutta {CHANCEPERTILE}
 "specials.v2.property.secondarydirecteffect.damage.all.enemies","Tuottaa {SECONDARYPOWER} % vauriota kaikille vihollisille."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_abigail","Tuottaa {SECONDARYPOWER} % vauriota kaikille vihollisille ja aiheuttaa heille {STATUSEFFECT1INSANITYTOADD} hulluutta."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_ambrose","Tuottaa {SECONDARYPOWER} % vauriota kaikille vihollisille ja aiheuttaa heille {STATUSEFFECT1INSANITYTOADD} hulluutta."
+"specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_azureus","Tuottaa {SECONDARYPOWER} % vauriota kaikille vihollisille ja aiheuttaa heille {STATUSEFFECT1INSANITYTOADD} hulluutta."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_cultist_villager_female","Tuottaa {SECONDARYPOWER} % vauriota kaikille vihollisille ja aiheuttaa heille {STATUSEFFECT1INSANITYTOADD} hulluutta."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_gwendoline_changed_appearance","Tuottaa {SECONDARYPOWER} % vauriota kaikille vihollisille ja aiheuttaa heille {STATUSEFFECT1INSANITYTOADD} hulluutta."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_on_damage_khatrox","Tuottaa {SECONDARYPOWER} % vauriota kaikille vihollisille ja aiheuttaa heille {STATUSEFFECT1INSANITYTOADD} hulluutta."
@@ -1060,6 +1069,7 @@ Jos kohteella ei ole erikoistaitoa, tai sitä ei voi kopioida, käytetään seur
 "specials.v2.property.statuseffectreallocation.from.all.enemies.to.single.allies","Varastaa kaikki häivytettävät tehosteet kaikilta vihollisilta ja antaa ne loitsijalle."
 "specials.v2.property.statuseffectreallocation.from.neartotarget.allies.to.all.enemies","Ottaa kaikki puhdistettavat vaivat loitsijalta ja lähellä olevilta liittolaisilta ja jakaa ne sattumanvaraisesti vihollisille."
 "specials.v2.property.statuseffectreallocation.from.neartotarget.enemies.to.all.allies","Varastaa kaikki häivytettävät tehosteet kohteelta ja lähellä olevilta vihollisilta ja jakaa ne sattumanvaraisesti liittolaisille."
+"specials.v2.property.statuseffectreallocation.from.neartotarget.enemies.to.all.allies.customreallocationcount.multiple","Varastaa {CUSTOMREALLOCATIONCOUNT} satunnaista häivytettävää tehostetta kohteelta ja lähellä olevilta vihollisilta ja jakaa ne sattumanvaraisesti liittolaisille."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.all.allies","Varastaa kaikki häivytettävät tehosteet kohteelta ja jakaa ne sattumanvaraisesti liittolaisille."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.neartotarget.allies","Varastaa kaikki häivytettävät tehosteet kohteelta ja jakaa ne sattumanvaraisesti loitsijalle ja lähellä oleville liittolaisille."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.single.allies.customreallocationcount","Varastaa kohteelta viimeisimmän häivytettävän tehosteen ja antaa sen loitsijalle."
@@ -1081,6 +1091,7 @@ Tuottaa {POWERPERALLOCATION} % lisävauriota jokaisesta poistetusta tilaefektin
 "specials.v2.property.statuseffectreallocationwithfallbackeffect.from.all.enemies.to.all.allies.customreallocationcount","Varastaa uusimman häivytettävän tilaefektitehosteen kaikilta vihollisilta ja jakaa ne sattumanvaraisesti liittolaisille."
 "specials.v2.property.statuseffecttagconditionrepeatspecial.extra","Jos kohde kukistuu, erikoistaitoa ei loitsita uudelleen."
 "specials.v2.property.statuseffecttagconditionrepeatspecial.freezing_power_hooks.random","Jos kohde on jo jäätynyt, jäädyttävät voimakoukut loitsitaan kerran johonkin toiseen, satunnaiseen kohteeseen."
+"specials.v2.property.statuseffecttagconditionrepeatspecial.the_scent_of_blood","Jos kohteella on verenvuoto, Veren vainu loitsitaan häneen uudelleen yhden kerran."
 "specials.v2.property.statuseffecttransform.all.allies.minordebuff.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Kaikkien liittolaisten hyökkäykseen, puolustukseen ja manatuotantoon vaikuttavat vaivat muuttuvat vastaaviksi tehosteiksi, joita ei voi häivyttää."
 "specials.v2.property.statuseffecttransform.all.enemies.minorbuff.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Kaikkien vihollisten hyökkäykseen, puolustukseen ja manatuotantoon vaikuttavat tehosteet muuttuvat vastaaviksi vaivoiksi, joita ei voi puhdistaa."
 "specials.v2.property.statuseffecttransform.minorbuff.attackmodifier.defensemodifier.managenerationmodifier.extra","Muuttumista ei voi estää tilaefekteillä, perhevaikutuksilla tai passiivisilla taidoilla.
@@ -1112,28 +1123,28 @@ Viholliset, joilla on käskyläisiä tai megakäskyläisiä saavat {STATUSEFFECT
 Viholliset, joilla on käskyläisiä tai megakäskyläisiä saavat {STATUSEFFECT1DEFENSE} % puolustusta {STATUSEFFECT1TURNS} vuoron ajaksi."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","Tuottaa {POWERFORTARGETSTHATMEETCONDITION} % vauriota vihollisille, joilla on puolustustehosteita, käskyläisiä tai megakäskyläisiä.
 Viholliset, joilla on puolustustehosteita, käskyläisiä tai megakäskyläisiä saavat {STATUSEFFECT1DEFENSE} % puolustusta {STATUSEFFECT1TURNS} vuoron ajaksi."
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","[#!]Siementaimiriiviö[#] kehittyy [#!]taimiriiviöksi[#] {EVOLVINGFAMILIAR1EVOLVETURNS} vuoron jälkeen.
-[*][#!]Taimiriiviö[#] kehittyy [#!]kukkivaksi megariiviöksi[#] {EVOLVINGFAMILIAR2EVOLVETURNS} vuoron jälkeen.
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","Siementaimiriiviö kehittyy taimiriiviöksi {EVOLVINGFAMILIAR1EVOLVETURNS} vuoron jälkeen.
+Taimiriiviö kehittyy kukkivaksi megariiviöksi {EVOLVINGFAMILIAR2EVOLVETURNS} vuoron jälkeen.
 
-[*] [#!]Siementaimiriiviö[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] terveyttä
-[*] [#!]Taimiriiviö[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] terveyttä
-[*] [#!]Kukkiva megariiviö[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] terveyttä.
+ Siementaimiriiviö: {EVOLVINGFAMILIAR1FAMILIARATTACK} % hyökkäystä, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % terveyttä
+ Taimiriiviö: {EVOLVINGFAMILIAR2FAMILIARATTACK} % hyökkäystä, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % terveyttä
+ Kukkiva megariiviö: {EVOLVINGFAMILIAR3FAMILIARATTACK} % hyökkäystä, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % terveyttä.
 
-[*]Riiviö vaurioittaa kohdettaan joka vuorolla. Riiviö katoaa imettyään parannusta. Tarvittavan parannuksen määrä riippuu kohteen maksimiterveydestä.
-[*]Riiviöiden evoluutio viivästyy {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} vuorolla aina kun ne imevät parannusta."
+Riiviö vaurioittaa kohdettaan joka vuorolla. Riiviö katoaa imettyään parannusta. Tarvittavan parannuksen määrä riippuu kohteen maksimiterveydestä.
+Riiviöiden evoluutio viivästyy {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} vuorolla aina kun ne imevät parannusta."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","Jos kohteella on riiviöitä tai megariiviöitä, tämä tuottaa {DAMAGE} % vauriota satunnaiselle toiselle viholliselle.
 Kutsuu jokaiselle osutulle viholliselle siementaimiriiviön."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","Jos kohteella on riiviöitä tai megariiviöitä, tämä tuottaa {DAMAGE} % vauriota satunnaiselle toiselle viholliselle.
 Kutsuu jokaiselle osutulle viholliselle siementaimiriiviön."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.parasite.bigparasite.evolving_root_rot_fiend","Jos kohteella on riiviöitä tai megariiviöitä, tämä tuottaa {DAMAGE} % vauriota satunnaiselle toiselle viholliselle.
 Kutsuu jokaiselle osutulle viholliselle siementaimiriiviön."
-"specials.v2.property.targethealthdependantextradamage.over_health_boundary.all","Tuottaa {DAMAGEMULTIPLIER} % vauriota vihollisille, joilla on yli {HEALTHBOUNDARY} % terveyttä jäljellä."
-"specials.v2.property.targethealthdependantextradamage.over_health_boundary.neartotarget","Tuottaa {DAMAGEMULTIPLIER} % vauriota vihollisille, joilla on yli {HEALTHBOUNDARY} % terveyttä jäljellä."
-"specials.v2.property.targethealthdependantextradamage.over_health_boundary.single","Tuottaa {DAMAGEMULTIPLIER} % vauriota, jos kohteella on yli {HEALTHBOUNDARY} % terveyttä jäljellä."
-"specials.v2.property.targethealthdependantextradamage.under_health_boundary.all","Tuottaa {DAMAGEMULTIPLIER} % vauriota vihollisille, joilla on alle {HEALTHBOUNDARY} % terveyttä jäljellä."
-"specials.v2.property.targethealthdependantextradamage.under_health_boundary.neartotarget","Tuottaa {DAMAGEMULTIPLIER} % vauriota vihollisille, joilla on alle {HEALTHBOUNDARY} % terveyttä jäljellä."
+"specials.v2.property.targethealthdependantextradamage.over_health_boundary.all","Jos vihollisilla on yli {HEALTHBOUNDARY} % terveyttä jäljellä, tuottaa {DAMAGEMULTIPLIER} % vauriota sen sijaan."
+"specials.v2.property.targethealthdependantextradamage.over_health_boundary.neartotarget","Jos vihollisilla on yli {HEALTHBOUNDARY} % terveyttä jäljellä, tuottaa {DAMAGEMULTIPLIER} % vauriota sen sijaan."
+"specials.v2.property.targethealthdependantextradamage.over_health_boundary.single","Jos kohteella on yli {HEALTHBOUNDARY} % terveyttä jäljellä, tuottaa {DAMAGEMULTIPLIER} % vauriota sen sijaan."
+"specials.v2.property.targethealthdependantextradamage.under_health_boundary.all","Jos vihollisilla on alle {HEALTHBOUNDARY} % terveyttä jäljellä, tuottaa {DAMAGEMULTIPLIER} % vauriota sen sijaan."
+"specials.v2.property.targethealthdependantextradamage.under_health_boundary.neartotarget","Jos vihollisilla on alle {HEALTHBOUNDARY} % terveyttä jäljellä, tuottaa {DAMAGEMULTIPLIER} % vauriota sen sijaan."
 "specials.v2.property.targethealthdependantextradamage.under_health_boundary.neartotargetminor","Tuottaa lisävauriota vihollisille, joilla on alle {HEALTHBOUNDARY} % terveyttä jäljellä."
-"specials.v2.property.targethealthdependantextradamage.under_health_boundary.single","Tuottaa {DAMAGEMULTIPLIER} % vauriota, jos kohteella on alle {HEALTHBOUNDARY} % terveyttä jäljellä."
+"specials.v2.property.targethealthdependantextradamage.under_health_boundary.single","Jos kohteella on alle {HEALTHBOUNDARY} % terveyttä jäljellä, tuottaa {DAMAGEMULTIPLIER} % vauriota sen sijaan."
 "specials.v2.property.thresholdaftereffectchainstrike.allowmaintargetinrandomtargets.target_random.allow_duplicates.over_mana_threshold","Jos kohteella on yli {THRESHOLD1} % manaa mananvähennyksen jälkeen, erikoistaito toistuu kohdistuen satunnaiseen viholliseen. Jokainen seuraava isku tekee vähemmän vauriota."
 "specials.v2.property.thresholdaftereffectchainstrike.over_mana_threshold","Jos kohteella on yli {THRESHOLD1} % manaa mananvähennyksen jälkeen, erikoistaito toistuu kohdistuen satunnaiseen viholliseen. Jokainen seuraava isku tekee vähemmän vauriota."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold","Jos kohteella oli yli {THRESHOLD1} % terveyttä ennen vaurion kärsimistä, tuottaa vauriota toiselle viholliselle, jolla oli yli {THRESHOLD2} % terveyttä ennen tämä erikoistaidon tuottaman vaurion kärsimistä. Jos yhdelläkään muulla vihollisella ei ollut {THRESHOLD3} % terveyttä, tuottaa vauriota satunnaiselle viholliselle. Jokaisen perättäisen osuman vaurio laskee. Kuhunkin viholliseen voi osua vain kerran."
@@ -1243,6 +1254,7 @@ Kun loitsija tulee pois piilosta, hän tekee {DAMAGE} vauriota kaikille vihollis
 "specials.v2.statuseffect.major.baldurstatuseffectskill.single.allies.on.turnend.damage.random.enemies.while.caster.allies.boostedhealth","Aiheuttaa {POWER1} % vauriota satunnaiselle viholliselle joka vuoron lopussa, kun loitsijalla on tehostettu terveys. Vaikutusta ei voi häivyttää."
 "specials.v2.statuseffect.major.berserkdefense.neartotarget.allies","Loitsija ja lähellä olevat liittolaiset saavat {DEFENSE} % puolustusta ja {CHANGE} % lisäyksen aina, kun heihin osutaan {TURNS} vuoron aikana, yhteensä enintään {MAXMODIFIER} % puolustusta. Vaikutusta ei voi häivyttää."
 "specials.v2.statuseffect.major.berserkdefense.single.allies","Loitsija saa {DEFENSE} % puolustusta ja {CHANGE} %:n lisäyksen aina, kun häneen osutaan {TURNS} vuoron aikana, yhteensä enintään {MAXMODIFIER} % puolustusta. Vaikutusta ei voi häivyttää."
+"specials.v2.statuseffect.major.bluedefensemodifier.single.allies","Loitsija saa {DEFENSE} % puolustusta jäätä vastaan {TURNS} vuoron ajaksi. Vaikutusta ei voi puhdistaa."
 "specials.v2.statuseffect.major.buffimmunity.neartotarget.enemies","Kohde ja lähellä olevat viholliset ovat immuuneja uusille tilaefektien tehosteille {TURNS} vuoron ajan. Vaikutusta ei voi häivyttää."
 "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration","Kaikki liittolaiset tekevät {DAMAGE}–{MAXDAMAGE} vauriota satunnaiselle viholliselle {TURNS} vuoron jälkeen. Vaurion määrä perustuu liittolaisten kärsimään vaurioon vaikutuksen voimassaoloaikana. Vaikutusta ei voi häivyttää."
 "specials.v2.statuseffect.major.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death","Tekee {DAMAGE}–{MAXDAMAGE} vauriota kaikille vihollisille {TURNS} vuoron jälkeen tai jos loitsija kukistuu. Vaurion määrä perustuu loitsijan kärsimään vaurioon vaikutuksen voimassaoloaikana. Vaikutusta ei voi häivyttää."
@@ -1431,6 +1443,7 @@ Balladi tuskasta
 "specials.v2.statuseffect.major.elementlinkyellowdefensemodifier.purple.allies","Elementtiyhteys antaa kaikille pimeyden liittolaisille {DEFENSE} % puolustusta pyhää vastaan {TURNS} vuoron ajaksi. Vaikutusta ei voi häivyttää."
 "specials.v2.statuseffect.major.elementmirror.red.all.allies","Kaikki liittolaiset heijastavat kaikki vaivat ja {DEFLECTION} % vauriota takaisin hyökkääjään ja estävät muut negatiiviset efektit vihollisten tulen erikoistaidoista {TURNS} vuoron ajan. Vaikutusta ei voi häivyttää."
 "specials.v2.statuseffect.major.elementmirror.red.neartotarget.allies","Loitsija ja lähellä olevat liittolaiset heijastavat kaikki vaivat ja {DEFLECTION} % vauriota takaisin hyökkääjään ja estävät muut negatiiviset efektit vihollisten tulen erikoistaidoista {TURNS} vuoron ajan. Vaikutusta ei voi häivyttää."
+"specials.v2.statuseffect.major.elementswap.all.enemies.red","Kaikkien vihollisten elementti muuttuu tuleksi {TURNS} vuoron ajaksi. Vaikutusta ei voi puhdistaa."
 "specials.v2.statuseffect.major.ethereal.single.allies","Loitsija muuttuu haamuksi {TURNS} vuoron ajaksi.
  Haamun muodossa loitsija saa {ATTACK} % hyökkäystä."
 "specials.v2.statuseffect.major.fieryfortunedancemultieffect.neartotargetexceptcaster.allies.fiery_fortune_dance","Lähellä olevat liittolaiset tanssivat tulista onnentanssia {TURNS} vuoron ajan.
@@ -1548,6 +1561,18 @@ Tahmea pinta: Varastaa {REALLOCATIONCOUNT} satunnaisen häivytettävän tehostee
  Tuhoava erikoistaito: raivokas sivallus
  Vaikutusta ei voi häivyttää."
 "specials.v2.statuseffect.major.revive.resurrectmajor.allexceptcaster.allies","Jos yksikään muu liittolainen kuin loitsija kukistuu seuraavan {TURNS} vuoron aikana, hän palaa seuraavan vuoronsa alussa {HEALTH} % terveyttä jäljellä. Kaikki tilaefektit ja kasaumat poistuvat liittolaisen kukistuessa. Vaikutusta ei voi häivyttää."
+"specials.v2.statuseffect.major.revive.reviveatomoscute.single.allies","Jos loitsija kukistuu seuraavan {TURNS} vuoron aikana, hän palaa kuolleista seuraavan vuoronsa alussa ja hänellä on {HEALTH} % terveyttä. Kaikki tilaefektit ja kasaumat poistuvat loitsijan kukistuessa. Vaikutusta ei voi häivyttää."
+"specials.v2.statuseffect.major.revive.reviveslime.neartotarget.allies","Loitsija ja lähellä olevat liittolaiset saavat limaelvytyksen {TURNS} vuoron ajaksi. Vaikutusta ei voi häivyttää.
+Jos hahmo kukistuu limaelvytyksen ollessa aktiivisena, hahmo syntyy uudelleen limana.
+
+Lima
+{HEALTH} % perittyä terveyttä
+{CHANGEDAPPEARANCEATTACK} % hyökkäystä
+{CHANGEDAPPEARANCEDEFENSE} % puolustusta
+Erikoistaito: {CHANGEDAPPEARANCEREPLACEDSPECIALTITLE}
+Vaikutusta ei voi häivyttää.
+
+Jos limaa ei kukisteta {CHANGEDAPPEARANCETURNS} vuoron aikana, se syntyy uudelleen hahmon alkuperäisenä muotona perien liman terveyden ja manan."
 "specials.v2.statuseffect.major.revive.reviveslime.single.allies","Loitsija saa limaelvytyksen {TURNS} vuoron ajaksi. Vaikutusta ei voi häivyttää.
 Jos loitsija kukistuu limaelvytyksen ollessa aktiivisena, loitsija syntyy uudelleen limana.
 
@@ -1846,7 +1871,6 @@ Astraalipallon piinaama omistaja ei voi saada uusia tilaefektitehosteita.
 "specials.v2.statuseffect.minor.bluedefensemodifier.neartotarget.allies","Loitsija ja lähellä olevat liittolaiset saavat {DEFENSE} % puolustusta jäätä vastaan {TURNS} vuoron ajaksi."
 "specials.v2.statuseffect.minor.bluedefensemodifier.neartotarget.enemies","Kohde ja lähellä olevat viholliset saavat {DEFENSE} % puolustusta jäätä vastaan {TURNS} vuoron ajaksi."
 "specials.v2.statuseffect.minor.bluedefensemodifier.red.enemies","Kaikki tuliviholliset saavat {DEFENSE} % puolustusta jäätä vastaan {TURNS} vuoron ajaksi."
-"specials.v2.statuseffect.minor.bluedefensemodifier.single.allies","Loitsija saa {DEFENSE} % puolustusta jäätä vastaan {TURNS} vuoron ajaksi."
 "specials.v2.statuseffect.minor.bluedefensemodifier.single.enemies","Kohde saa {DEFENSE} % puolustusta jäätä vastaan {TURNS} vuoron ajaksi."
 "specials.v2.statuseffect.minor.bonetossstatuseffectskill.single.allies.on.turnend.damage.random.enemies.summonfamiliar.random.enemies.fox_skeleton_fiend.with_chance","Joka vuoron lopussa loitsija loitsii satunnaiseen viholliseen luunheiton {TURNS} vuoron ajaksi.
 Kukin luunheitto tuottaa {POWER1} % vauriota.
@@ -1884,6 +1908,7 @@ Luurankoketturiiviö imee parannuksen itseensä. Se katoaa, kun se on imenyt par
 "specials.v2.statuseffect.minor.burn.green.enemies","Kaikki luontoviholliset kärsivät {DAMAGE} palovauriota {TURNS} vuoron aikana."
 "specials.v2.statuseffect.minor.burn.neartotarget.enemies","Kohde ja lähellä olevat viholliset kärsivät {DAMAGE} palovauriota {TURNS} vuoron aikana."
 "specials.v2.statuseffect.minor.burn.neartotarget.enemies.absorb_boostedhealth.to.all","Kohde ja lähellä olevat viholliset kärsivät {DAMAGE} palovauriota {TURNS} vuoron aikana. Loitsija ja kaikki hänen liittolaisensa imevät {ABSORBHEALING} % tuotetusta palovauriosta tehostettuna terveytenä."
+"specials.v2.statuseffect.minor.burn.neartotarget.enemies.absorb_healing.to.all","Kohde ja lähellä olevat viholliset kärsivät {DAMAGE} palovauriota {TURNS} vuoron aikana. Loitsija ja kaikki hänen liittolaisensa imevät {ABSORBHEALING} % tuotetusta palovauriosta terveytenä."
 "specials.v2.statuseffect.minor.burn.neartotarget.enemies.absorb_healing.to.single","Kohde ja lähellä olevat viholliset kärsivät {DAMAGE} palovauriota {TURNS} vuoron aikana. Loitsija imee {ABSORBHEALING} % tuotetusta palovauriosta terveytenä."
 "specials.v2.statuseffect.minor.burn.neartotarget.enemies.noturns","Kohde ja lähellä olevat viholliset kärsivät {DAMAGE} pistettä pysyvää palovauriota vuoron aikana."
 "specials.v2.statuseffect.minor.burn.purple.enemies","Kaikki pimeyden viholliset kärsivät {DAMAGE} palovauriota {TURNS} vuoron aikana."
@@ -1902,6 +1927,7 @@ Luurankoketturiiviö imee parannuksen itseensä. Se katoaa, kun se on imenyt par
 "specials.v2.statuseffect.minor.changingmanageneration.neartotarget.enemies","Kohteen ja lähellä olevien vihollisten manatuotanto laskee {CHANGE} % joka vuoro {TURNS} vuoron ajan."
 "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Kaikki liittolaiset saavat {ATTACK} % normaalia hyökkäystä {TURNS} vuoron ajaksi. Normaali hyökkäys nousee {CHANGE} % joka vuorolla. Tämä vaikutus voi olla voimassa muiden hyökkäykseen vaikuttavien vaikutusten lisäksi. Normaalit hyökkäykset voivat saada yhteensä enintään {MAXATTACK} % lisää voimaa tämän vaikutuksen ollessa voimassa."
 "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","Loitsija saa {ATTACK} % normaalia hyökkäystä {TURNS} vuoron ajaksi. Normaali hyökkäys nousee {CHANGE} % joka vuorolla. Tämä vaikutus voi olla voimassa muiden hyökkäykseen vaikuttavien vaikutusten lisäksi. Normaalit hyökkäykset voivat saada yhteensä enintään {MAXATTACK} % lisää voimaa tämän vaikutuksen ollessa voimassa."
+"specials.v2.statuseffect.minor.constantmanasteal.single.enemies.chain_strike","Loitsija anastaa {CURRENTMANASTEAL} % osuttujen vihollisten tuottamasta manasta {TURNS} vuoron aikana. Vaikutus poistuu, jos loitsija kukistuu."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier","Kaikki viholliset saavat syövyttävän palamisen {TURNS} vuoron ajaksi. Syövyttävä palaminen tuottaa {DAMAGEPERTURN} palovauriota ja laskee kohteen puolustusta {CHANGE} % joka vuoro."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier.extra_minion_damage.minion.bigminion.extra_minion_damage.minion.bigminion","Kaikki viholliset saavat syövyttävän palamisen {TURNS} vuoron ajaksi. Syövyttävä palaminen tuottaa {DAMAGEPERTURN} palovauriota ja laskee kohteen puolustusta {CHANGE} % joka vuoro. Tuottaa lisävauriota sankareille, joilla on käskyläisiä tai megakäskyläinen."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier.extra_minion_damage.minion.bigminion.follower.extra_minion_damage.minion.bigminion.follower","Kaikki viholliset saavat syövyttävän palamisen {TURNS} vuoron ajaksi. Syövyttävä palaminen tuottaa {DAMAGEPERTURN} palovauriota ja laskee kohteen puolustusta {CHANGE} % joka vuoro. Tuottaa lisävauriota sankareille, joilla on käskyläisiä tai megakäskyläinen."
@@ -2025,6 +2051,7 @@ Ahmijamönjä: Poistaa kaikki häivytettävät tehosteet ja kasvuefektit, tuotta
 "specials.v2.statuseffect.minor.dispel.neartotarget.enemies.minorbuff","Häivyttää kohteelta ja lähellä olevilta vihollisilta tehosteita jokaisen vuoron lopussa {TURNS} vuoron ajan."
 "specials.v2.statuseffect.minor.dispel.single.allies.minordebuff","Puhdistaa loitsijalta vaivat jokaisen vuoron lopussa {TURNS} vuoron ajan."
 "specials.v2.statuseffect.minor.dispel.single.enemies.minorbuff","Häivyttää kohteelta tehosteita jokaisen vuoron lopussa {TURNS} vuoron ajan."
+"specials.v2.statuseffect.minor.dispel.single.enemies.minorbuff.chain_strike","Häivyttää osutuilta vihollisilta tehosteita jokaisen vuoron lopussa {TURNS} vuoron ajan."
 "specials.v2.statuseffect.minor.dispelimmunity.all.allies","Kaikki liittolaiset ovat immuuneja tehosteiden häivytyksille ja siirroille {TURNS} vuoron ajan."
 "specials.v2.statuseffect.minor.dispelimmunity.neartotarget.allies","Loitsija ja lähellä olevat liittolaiset ovat immuuneja tehosteiden häivytyksille ja siirroille {TURNS} vuoron ajan."
 "specials.v2.statuseffect.minor.dispelimmunity.single.allies","Loitsija on immuuni tehosteiden häivytyksille ja siirroille {TURNS} vuoron ajan."
@@ -2183,6 +2210,7 @@ Jokainen kolikko tuottaa {POWER1} % vauriota."
 "specials.v2.statuseffect.minor.healmultiplier.neartotarget.enemies","Kohde ja lähellä olevat viholliset saavat {HEALING} % tehokkaampaa parannusta {TURNS} vuoron ajan."
 "specials.v2.statuseffect.minor.healmultiplier.neartotarget.enemies.decrease","Kohde ja lähellä olevat viholliset saavat {HEALING} % tehottomampaa parannusta {TURNS} vuoron ajan."
 "specials.v2.statuseffect.minor.healmultiplier.neartotargetminor.enemies.decrease","Kohde saa {HEALING} % tehottomampaa parannusta ja läheiset viholliset saavat {MINORHEALING} % tehottomampaa parannusta {TURNS} vuoron ajan."
+"specials.v2.statuseffect.minor.healmultiplier.sides.enemies.decrease","Vihollisryhmän laidoilla olevat viholliset saavat {HEALING} % parannusta {TURNS} vuoron ajan."
 "specials.v2.statuseffect.minor.healmultiplier.single.enemies","Kohde saa {HEALING} % tehokkaampaa parannusta {TURNS} vuoron ajan."
 "specials.v2.statuseffect.minor.healmultiplier.single.enemies.decrease","Kohde saa {HEALING} % tehottomampaa parannusta {TURNS} vuoron ajan."
 "specials.v2.statuseffect.minor.healmultiplier.single.enemies.decrease.resetondirectspecialdamage","Kohde saa {HEALING} % tehottomampaa parannusta {TURNS} vuoron ajan. Efektin kestolaskuri alkaa alusta, jos kohde kärsii suoraa vauriota erikoistaidosta."
@@ -2222,6 +2250,8 @@ Jokainen kolikko tuottaa {POWER1} % vauriota."
 "specials.v2.statuseffect.minor.increasingproportionalmanarecovery.neartotargetexceptcaster.allies","Lähellä olevat liittolaiset saavat joka vuorolla manaa {TURNS} vuoron ajan. Saadun manan määrä nousee joka vuorolla, ollen viimeisellä vuorolla {MAXMANAPERTURN} % manasta."
 "specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.allexceptcaster.allies.removeonspecialcast","Kaikki liittolaiset loitsijaa lukuun ottamatta saavat {POWER} % lisää hyökkäystehoa seuraavaan käyttämäänsä erikoistaitoon. Lisähyökkäysteho nousee {INCREASEPERTURN} % joka vuorolla kunnes saavuttaa {MAXPOWERADDITION} %:n maksimimäärän."
 "specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.single.allies.removeonspecialcast","Loitsija saa {POWER} % lisää hyökkäystehoa seuraavaan käyttämäänsä erikoistaitoon. Lisähyökkäysteho nousee {INCREASEPERTURN} % joka vuorolla kunnes saavuttaa {MAXPOWERADDITION} %:n maksimimäärän."
+"specials.v2.statuseffect.minor.ingeniousbomb.single.enemies.onremoval.damage.neartotarget.allies.expiration.replacesamestatuseffect.death.override","Kohde saa nerokkaan pommin. Nerokas pommi räjähtää {TURNS} vuoron jälkeen tuottaen {DAMAGE} vauriota omistajalle ja lähellä oleville liittolaisille. Nerokas pommi räjähtää myös silloin, jos se korvataan tai sen omistaja kukistuu."
+"specials.v2.statuseffect.minor.ingeniousstabilizer.random.allies.onremoval.heal.neartotarget.allies.expiration.replacesamestatuseffect.death.override","Satunnainen liittolainen saa nerokkaan vakauttimen. Nerokas vakautin aktivoituu {TURNS} vuoron jälkeen ja palauttaa {POWER} % terveyttä omistajalle ja lähellä oleville liittolaisille. Nerokas vakautin aktivoituu myös silloin, jos se korvataan tai sen omistaja kukistuu."
 "specials.v2.statuseffect.minor.insanityonhit.single.allies","Seuraavan {TURNS} vuoron aikana loitsija aiheuttaa {STATUSEFFECT1INSANITYTOADD} hulluutta kaikille vihollisille aina kun loitsijaan osutaan. Efekti laukeaa, kun viholliset tuottavat vauriota erikoistaidoilla. Laatat ja normaalit hyökkäykset voivat laukaista efektin korkeintaan kerran vuoron aikana."
 "specials.v2.statuseffect.minor.invisible.single.allies.all.enemies.expiration.while.caster.allies.hastargetableallies","Jos loitsijalla on kohteeksi kelpaavia liittolaisia, loitsijasta tulee kohteeksi kelpaamaton {TURNS} vuoron ajaksi. Tuottaa {FIXEDPOWER} vauriota kaikille vihollisille viimeisen vuoron jälkeen tai kun loitsijasta tulee viimeinen kohteeksi kelpaava hahmo."
 "specials.v2.statuseffect.minor.lifesteal.all.allies","Kaikki liittolaiset parantavat {LIFESTEAL} % tehdystä normaalivauriosta {TURNS} vuoron ajan."
@@ -2270,6 +2300,7 @@ Jokainen kolikko tuottaa {POWER1} % vauriota."
 "specials.v2.statuseffect.minor.manaonremoval.single.enemies.onremoval.addmana.all.enemies.death","Jos kohde kukistetaan seuraavan {TURNS} vuoron aikana, kaikki loitsijan liittolaiset saavat {MANA} % manaa."
 "specials.v2.statuseffect.minor.manaonremovalmanagenerationmodifier.all.allies.onremoval.addmana.single.allies","Kaikki liittolaiset saavat {MANAREGEN} % manatuotantoa {TURNS} vuoron ajaksi. Jos vaikutus poistetaan ennen keston päättymistä, vaikutuksen kohde saa {MANA} % manaa."
 "specials.v2.statuseffect.minor.manaonremovalmanagenerationmodifier.all.enemies.onremoval.addmana.single.allies.decrease","Kaikki viholliset saavat {MANAREGEN} % manatuotantoa {TURNS} vuoron ajaksi. Jos vaikutus poistetaan ennen keston päättymistä, vaikutuksen kohteen mana laskee {MANA} %."
+"specials.v2.statuseffect.minor.manaovertime.all.allies","Kaikki liittolaiset saavat {MANAMODIFIERPERTURN} % manaa vuoron lopussa {TURNS} vuoron ajan."
 "specials.v2.statuseffect.minor.manaovertime.all.enemies.decrease","Vähentää {TURNS} vuoron ajan kaikkien vihollisten manaa {MANAMODIFIERPERTURN} % vuoron lopussa."
 "specials.v2.statuseffect.minor.manaovertime.allexceptcaster.allies","Kaikki liittolaiset paitsi loitsija saavat {MANAMODIFIERPERTURN} % manaa vuoron lopussa {TURNS} vuoron ajan."
 "specials.v2.statuseffect.minor.manaovertime.moderate.all.allies","Kaikki liittolaiset saavat kohtalaisen määrän manaa {TURNS} vuoron aikana."
@@ -2293,6 +2324,9 @@ Jokainen kuunsäde vähentää osutun vihollisen manaa {ABSPOWER2} %."
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.single.allies.on.turnend.damage.random.enemies.addmana.random.enemies","Loitsija ampuu kuunsäteen satunnaiseen viholliseen jokaisen vuoron lopussa {TURNS} vuoron ajan.
 Jokainen kuunsäde tekee {POWER1} % vauriota.
 Jokainen kuunsäde vähentää osutun vihollisen manaa {ABSPOWER2} %."
+"specials.v2.statuseffect.minor.moonbeamstatuseffectskill.single.allies.on.turnend.damage.random.enemies.reducemaxhealth.random.enemies.with_chance","Loitsija ampuu astraalisäteen satunnaiseen viholliseen jokaisen vuoron lopussa {TURNS} vuoron ajan.
+Jokainen astraalisäde tekee {POWER1} % vauriota.
+Jokainen astraalisäde vähentää osutun vihollisen maksimiterveyttä {REDUCTION2} pisteellä."
 "specials.v2.statuseffect.minor.moonriseward.all.allies.decrease.specialskill.statuseffectskill.green","Kaikki liittolaiset saavat {TURNS} vuoron ajaksi tulimyrskysuojan, joka vähentää erikoistaidoista tulevaa vauriota enintään -{MAX} pistettä. Vähentää vauriota vielä {ADDITIONALDAMAGEMODIFIER} % lisää, kun hyökkääjän elementti on luonto."
 "specials.v2.statuseffect.minor.moonriseward.all.allies.decrease.specialskill.statuseffectskill.red","Kaikki liittolaiset saavat {TURNS} vuoron ajaksi hallasuojan, joka vähentää erikoistaidoista tulevaa vauriota enintään -{MAX} pistettä. Vähentää vauriota vielä {ADDITIONALDAMAGEMODIFIER} % lisää, kun hyökkääjän elementti on tuli."
 "specials.v2.statuseffect.minor.moonriseward.all.allies.decrease.specialskill.statuseffectskill.yellow","Kaikki liittolaiset saavat {TURNS} vuoron ajaksi kuunnoususuojan, joka vähentää erikoistaidoista tulevaa vauriota enintään -{MAX} pistettä. Vähentää vauriota vielä {ADDITIONALDAMAGEMODIFIER} % lisää, kun hyökkääjän elementti on pyhä."
@@ -2318,6 +2352,12 @@ Jokainen kuunsäde vähentää osutun vihollisen manaa {ABSPOWER2} %."
 "specials.v2.statuseffect.minor.normalattackreceiveddamagemodifier.neartotargetminor.enemies","Kohde kärsii {DAMAGEMODIFIER} % enemmän vauriota normaaleista hyökkäyksistä ja läheiset viholliset kärsivät {MINORDAMAGEMODIFIER} % enemmän vauriota normaaleista hyökkäyksistä 3 vuoron ajan."
 "specials.v2.statuseffect.minor.painempathy.sides.enemies","Vihollisryhmän laidoilla olevat viholliset kärsivät {TURNS} vuoron ajan {DAMAGEMULTIPLIER} % kaikesta heidän liittolaisilleen tuotetusta vauriosta."
 "specials.v2.statuseffect.minor.painempathy.single.enemies","Kohde kärsii {TURNS} vuoron ajan {DAMAGEMULTIPLIER} % kaikesta hänen liittolaisilleen tuotetusta vauriosta."
+"specials.v2.statuseffect.minor.piercingshurikenstatuseffectskill.all.allies.on.turnend.damage.random.enemies.with_chance","Kaikki liittolaiset heittävät lävistävän heittotähden satunnaiseen viholliseen jokaisen vuoron lopussa {TURNS} vuoron ajan.
+Jokainen lävistävä heittotähti tuottaa {POWER1} % vauriota."
+"specials.v2.statuseffect.minor.piercingshurikenstatuseffectskill.neartotarget.allies.on.turnend.damage.random.enemies.with_chance","Loitsija ja lähellä olevat liittolaiset heittävät lävistävän heittotähden satunnaiseen viholliseen jokaisen vuoron lopussa {TURNS} vuoron ajan.
+Jokainen lävistävä heittotähti tuottaa {POWER1} % vauriota."
+"specials.v2.statuseffect.minor.piercingshurikenstatuseffectskill.single.allies.on.turnend.damage.random.enemies.with_chance","Loitsija heittää lävistävän heittotähden satunnaiseen viholliseen jokaisen vuoron lopussa {TURNS} vuoron ajan.
+Jokainen lävistävä heittotähti tuottaa {POWER1} % vauriota."
 "specials.v2.statuseffect.minor.poison.all.enemies","Kaikki viholliset kärsivät {DAMAGE} myrkkyvauriota {TURNS} vuoron aikana."
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_boostedhealth.to.all","Kaikki viholliset kärsivät {DAMAGE} myrkkyvauriota {TURNS} vuoron aikana. Loitsija ja kaikki hänen liittolaisensa imevät {ABSORBHEALING} % tuotetusta myrkkyvauriosta tehostettuna terveytenä."
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_boostedhealth.to.single","Kaikki viholliset kärsivät {DAMAGE} myrkkyvauriota {TURNS} vuoron aikana. Loitsija imee {ABSORBHEALING} % tuotetusta myrkkyvauriosta tehostettuna terveytenä."
@@ -2335,6 +2375,7 @@ Jokainen kuunsäde vähentää osutun vihollisen manaa {ABSPOWER2} %."
 "specials.v2.statuseffect.minor.poison.single.enemies.absorb_boostedhealth.to.single","Kohde kärsii {DAMAGE} myrkkyvauriota {TURNS} vuoron aikana. Loitsija imee {ABSORBHEALING} % tuotetusta myrkkyvauriosta tehostettuna terveytenä."
 "specials.v2.statuseffect.minor.poison.single.enemies.absorb_healing.to.single","Kohde kärsii {DAMAGE} myrkkyvauriota {TURNS} vuoron aikana. Loitsija imee {ABSORBHEALING} % tuotetusta myrkkyvauriosta terveytenä."
 "specials.v2.statuseffect.minor.poison.single.enemies.absorb_mana.to.single","Kohde kärsii {DAMAGE} myrkkyvauriota {TURNS} vuoron aikana. Loitsija saa pienen määrän manaa aina kun myrkkyvauriota tuotetaan."
+"specials.v2.statuseffect.minor.poison.single.enemies.chain_strike","Kaikki osutut kohteet kärsivät {DAMAGE} myrkkyvauriota {TURNS} vuoron aikana."
 "specials.v2.statuseffect.minor.poison.single.enemies.contagious","Kohde kärsii {DAMAGE} myrkkyvauriota {TURNS} vuoron aikana. Vaikutus leviää lähellä oleviin vihollisiin."
 "specials.v2.statuseffect.minor.poison.yellow.enemies","Kaikki pyhät viholliset kärsivät {DAMAGE} myrkkyvauriota {TURNS} vuoron aikana."
 "specials.v2.statuseffect.minor.poisonpertile.purple.all.enemies","Kaikki viholliset kärsivät {BASEDAMAGE} myrkkyvauriota, sekä {DAMAGEPERTILE} vauriota jokaista laudalla olevaa pimeyden kilpeä kohti {TURNS} vuoron ajan, enintään {MAXDAMAGE} vauriota."
@@ -2370,6 +2411,8 @@ Jokainen kuunsäde vähentää osutun vihollisen manaa {ABSPOWER2} %."
 "specials.v2.statuseffect.minor.purpledefensemodifier.all.enemies","Kaikki viholliset saavat {DEFENSE} % puolustusta pimeyttä vastaan {TURNS} vuoron ajaksi."
 "specials.v2.statuseffect.minor.purpledefensemodifier.neartotarget.allies","Loitsija ja lähellä olevat liittolaiset saavat {DEFENSE} % puolustusta pimeyttä vastaan {TURNS} vuoron ajaksi."
 "specials.v2.statuseffect.minor.purpledefensemodifier.neartotarget.enemies","Kohde ja lähellä olevat viholliset saavat {DEFENSE} % puolustusta pimeyttä vastaan {TURNS} vuoron ajaksi."
+"specials.v2.statuseffect.minor.purpledefensemodifier.notpurple.both","Kaikki liittolaiset ja viholliset saavat {DEFENSE} % puolustusta pimeyttä vastaan {TURNS} vuoron ajaksi."
+"specials.v2.statuseffect.minor.purpledefensemodifier.single.allies","Loitsija saa {DEFENSE} % puolustusta pimeyttä vastaan {TURNS} vuoron ajaksi."
 "specials.v2.statuseffect.minor.purpledefensemodifier.single.enemies.chain_strike","Kaikki osutut kohteet saavat {DEFENSE} % puolustusta pimeyttä vastaan {TURNS} vuoron ajaksi."
 "specials.v2.statuseffect.minor.purpledefensemodifier.yellow.enemies","Kaikki pyhät viholliset saavat {DEFENSE} % puolustusta pimeyttä vastaan {TURNS} vuoron ajaksi."
 "specials.v2.statuseffect.minor.reallocatestatuseffectsperturn.single.allies.enemies.minorbuff.newest","Varastaa {TURNS} vuoron ajan jokaisen vuoron lopussa uusimman häivytettävän tehosteen kaikilta vihollisilta ja jakaa ne sattumanvaraisesti liittolaisille."
@@ -2438,6 +2481,7 @@ Sitkeä laho
 "specials.v2.statuseffect.minor.resistcleansefromspecial.sides.enemies","Vihollismuodostelman laidoilla olevat viholliset eivät voi puhdistaa tai siirtää vaivojaan erikoistaidoilla {TURNS} vuoroon."
 "specials.v2.statuseffect.minor.resistcleansefromspecial.single.enemies","Kohteen vaivoja ei voi puhdistaa tai siirtää erikoistaidoilla {TURNS} vuoroon."
 "specials.v2.statuseffect.minor.resisthealing.all.enemies.damage","Kaikki viholliset vastustavat parannusta ja kärsivät {FIXEDPOWER} vauriota kutakin vastustettua parannusta kohti {TURNS} vuoron ajan."
+"specials.v2.statuseffect.minor.resisthealing.lessthanhalfhpleft.enemies.damage","Viholliset, joilla on alle 50 % terveyttä jäljellä, vastustavat parannusta ja kärsivät {FIXEDPOWER} vauriota kutakin vastustettua parannusta kohti {TURNS} vuoron ajan."
 "specials.v2.statuseffect.minor.resisthealing.neartotarget.enemies.damage","Kohde ja lähellä olevat viholliset vastustavat parannusta ja kärsivät {FIXEDPOWER} vauriota kutakin vastustettua parannusta kohti {TURNS} vuoron ajan."
 "specials.v2.statuseffect.minor.resisthealing.sides.enemies.damage","Vihollisryhmän laidoilla olevat viholliset vastustavat parannusta ja kärsivät {FIXEDPOWER} vauriota kutakin vastustettua parannusta kohti {TURNS} vuoron ajan."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage","Kohde vastustaa parannusta ja kärsii {FIXEDPOWER} vauriota kutakin vastustettua parannusta kohti {TURNS} vuoron ajan."
@@ -2578,10 +2622,10 @@ Kun parempi puolustusvaiva päättyy tai poistetaan tai korvataan, vihollinen sa
  Kun parempi puolustusvaiva päättyy tai poistetaan tai korvataan, kohteen kaikki tilaefektien tehosteet häivytetään."
 "specials.v2.statuseffect.minor.specialskilldefensemodifier.single.enemies.withactivationcount.onremoval.expiration.dispel.removal.override.replacesamestatuseffect.reallocation.removes.statuseffectbuffs.single.allies","Parempi puolustusvaiva: Kohde saa {SPECIALSKILLDEFENSE} % puolustusta erikoistaitoja vastaan. Vaikutus kestää, kunnes kohde kärsii vauriota erikoistaidosta {MAXACTIVATIONCOUNT} kertaa.
  Kun parempi puolustusvaiva päättyy tai poistetaan tai korvataan, kohteen kaikki tilaefektien tehosteet häivytetään."
-"specials.v2.statuseffect.minor.spellslay.all.enemies","Tekee osutulle viholliselle automaattisesti {DAMAGE} vauriota ja kuluttaa {MANAREDUCTION} % osutun vihollisen manaa aina kun sen mana täyttyy {TURNS} vuoron ajan."
-"specials.v2.statuseffect.minor.spellslay.neartotarget.enemies","Tekee osutulle viholliselle automaattisesti {DAMAGE} vauriota ja kuluttaa {MANAREDUCTION} % osutun vihollisen manaa aina kun sen mana täyttyy {TURNS} vuoron ajan."
-"specials.v2.statuseffect.minor.spellslay.single.enemies","Tekee kohteelle automaattisesti {DAMAGE} vauriota ja kuluttaa {MANAREDUCTION} % kohteen manaa, kun se täyttyy {TURNS} vuoron ajan."
-"specials.v2.statuseffect.minor.spellslay.singleandblue.enemies","Tekee kohteelle ja kaikille jäävihollisille automaattisesti {DAMAGE} vauriota, kun niiden mana täyttyy ja vähentää niiden manaa {MANAREDUCTION} % {TURNS} vuoron ajan."
+"specials.v2.statuseffect.minor.spellslay.all.enemies","Kaikki viholliset kärsivät {DAMAGE} vauriota ja menettävät {MANAREDUCTION} % manaa aina, kun heidän manansa täyttyy seuraavan {TURNS} vuoron aikana."
+"specials.v2.statuseffect.minor.spellslay.neartotarget.enemies","Kohde ja lähellä olevat viholliset kärsivät {DAMAGE} vauriota ja menettävät {MANAREDUCTION} % manaa aina, kun heidän manansa täyttyy seuraavan {TURNS} vuoron aikana."
+"specials.v2.statuseffect.minor.spellslay.single.enemies","Kohde kärsii {DAMAGE} vauriota ja menettää {MANAREDUCTION} % manaa aina, kun hänen manansa täyttyy seuraavan {TURNS} vuoron aikana."
+"specials.v2.statuseffect.minor.spellslay.singleandblue.enemies","Kohde ja kaikki jääviholliset kärsivät {DAMAGE} vauriota ja menettävät {MANAREDUCTION} % manaa aina, kun heidän manansa täyttyy seuraavan {TURNS} vuoron aikana."
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies","Kasauma (maksimi: {MAXSTACK}): Kaikki liittolaiset saavat {ATTACK} % hyökkäystä."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","Kasauma (maksimi: {MAXSTACK}): Loitsija saa {ATTACK} % hyökkäystä."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","Kasauma (maksimi: {MAXSTACK}): Loitsija saa {ATTACK} % hyökkäystä jokaisesta tuhotusta käskyläisestä."
@@ -2612,7 +2656,10 @@ Kun parempi puolustusvaiva päättyy tai poistetaan tai korvataan, vihollinen sa
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","Kasauma (maksimi: {MAXSTACK}): Kaikki liittolaiset saavat {MAXHEALTH} % perittyä terveyttä uusista kutsumistaan käskyläisistä."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","Kasauma (maksimi: {MAXSTACK}): Kaikki liittolaisten kärsimä vaurio laskee {DAMAGEMODIFIER} %"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","Kasauma (maksimi: {MAXSTACK}): Kaikki vihollisten kärsimä vaurio kasvaa {DAMAGEMODIFIER} %"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","Kasauma (maksimi: {MAXSTACK}): Viholliset, joilla on alle 50 % terveyttä jäljellä, kärsivät {DAMAGEMODIFIER} % vauriota."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies.withbasestackcount","Kasauma +{BASESTACKCOUNT} (maksimi: {MAXSTACK}): Viholliset, joilla on alle 50 % terveyttä jäljellä, kärsivät {DAMAGEMODIFIER} % vauriota."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease","Kasauma (maksimi: {MAXSTACK}): Kaikki loitsijan ja lähellä olevien liittolaisten kärsimä vaurio laskee {DAMAGEMODIFIER} %"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","Kasauma +{BASESTACKCOUNT} (maksimi: {MAXSTACK}): Kaikki loitsijan ja lähellä olevien liittolaisten kärsimä vaurio laskee {DAMAGEMODIFIER} %"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.enemies","Kasauma (maksimi: {MAXSTACK}): Kaikki kohteen ja lähellä olevien vihollisten kärsimä vaurio kasvaa {DAMAGEMODIFIER} %"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","Kasauma (maksimi: {MAXSTACK}): Kaikki loitsijan kärsimä vaurio laskee {DAMAGEMODIFIER} %"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","Kasauma (maksimi: {MAXSTACK}): Kaikki kohteen kärsimä vaurio kasvaa {DAMAGEMODIFIER} %."
@@ -2631,6 +2678,8 @@ Jokainen väistö antaa kaikille liittolaisille {MANAREGEN} % manatuotantoa {TU
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.druid_thorn","Kaikki liittolaiset saavat {DODGE} % mahdollisuuden väistää erikoistaitoja {TURNS} vuoron ajan. Jokainen väistö kutsuu piikkikäskyläisen."
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.druid_thorn_empowered","Kaikki liittolaiset saavat {DODGE} %:n mahdollisuuden väistää erikoistaitoja {TURNS} vuoron ajan. Jokainen väistö kutsuu vahvistetun piikkikäskyläisen."
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.sakura_fox","Kaikki liittolaiset saavat {DODGE} % mahdollisuuden väistää erikoistaitoja {TURNS} vuoron ajan. Jokainen väistö kutsuu Sakura-kettukäskyläisen."
+"specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.sakura_fox_costume","Kaikki liittolaiset saavat {DODGE} % mahdollisuuden väistää erikoistaitoja {TURNS} vuoron ajan. Jokainen väistö kutsuu Sakura-kettukäskyläisen."
+"specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_blue_titan","Kaikki liittolaiset saavat {ATTACK} % hyökkäystä {TURNS} vuoron ajaksi. Jäätitaaneja vastaan kaikki liittolaiset saavat {ATTACKAGAINSTVALIDTARGET} % hyökkäystä."
 "specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_red_titan","Kaikki liittolaiset saavat {ATTACK} % hyökkäystä {TURNS} vuoron ajaksi. Tulititaaneja vastaan kaikki liittolaiset saavat {ATTACKAGAINSTVALIDTARGET} % hyökkäystä."
 "specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_yellow_titan","Kaikki liittolaiset saavat {ATTACK} % hyökkäystä {TURNS} vuoron ajaksi. Pyhiä titaaneja vastaan kaikki liittolaiset saavat {ATTACKAGAINSTVALIDTARGET} % hyökkäystä."
 "specials.v2.statuseffect.minor.taunt.single.allies","Loitsija saa piikittelyn, joka estää vihollisia käyttämästä erikoistaitoa loitsijan liittolaisiin {TURNS} vuoron ajan."
@@ -2656,12 +2705,18 @@ Jokainen väistö antaa kaikille liittolaisille {MANAREGEN} % manatuotantoa {TU
  Jos magmakuutio puhdistetaan, omistaja saa {STATUSEFFECT1MANAREGEN} % manatuotantoon {REMOVALEFFECT2STATUSEFFECT1TURNS} vuoron ajaksi."
 "specials.v2.statuseffect.minor.underwaterpertile.blue.all.enemies.buffoverride.red.majordebuff","Kaikki viholliset kärsivät {BASEDAMAGE} vesivauriota, sekä {DAMAGEPERTILE} vauriota jokaista laudalla olevaa jääkilpeä kohti {TURNS} vuoron ajan, enintään {MAXDAMAGE} vauriota. Vaikutusta ei voi puhdistaa tulivihollisilta."
 "specials.v2.statuseffect.minor.vengeance.single.allies.onremoval.damage.all.enemies.dispel.removal.specialskill","Loitsija saa koston {TURNS} vuoron ajaksi. Jos kosto häivytetään erikoistaidolla, kaikki viholliset kärsivät {DAMAGE} vauriota."
+"specials.v2.statuseffect.minor.wildburn.neartotarget.enemies","Jokeri: Kohde ja lähellä olevat viholliset kärsivät {DAMAGEPERTURN} tai {WILDDAMAGEPERTURN} palovauriota joka vuorolla {TURNS} vuoron ajan."
+"specials.v2.statuseffect.minor.wildhealthrecovery.all.allies","Jokeri: Kaikki liittolaiset saavat {TURNS} vuoron ajan joka vuorolla joko {HPPERTURN} terveyttä takaisin tai {WILDHPPERTURN} tehostettua terveyttä."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.all.allies","Kaikki liittolaiset saavat {DEFENSE} % puolustusta pyhää vastaan {TURNS} vuoron ajaksi."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.neartotarget.allies","Loitsija ja lähellä olevat liittolaiset saavat {DEFENSE} % puolustusta pyhää vastaan {TURNS} vuoron ajaksi."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.neartotarget.enemies","Kohde ja lähellä olevat viholliset saavat {DEFENSE} % puolustusta pyhiä vastaan {TURNS} vuoron ajaksi."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.single.allies","Loitsija saa {DEFENSE} % puolustusta pyhää vastaan {TURNS} vuoron ajaksi."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.single.enemies","Kohde saa {DEFENSE} % puolustusta pyhää vastaan {TURNS} vuoron ajaksi."
+"specials.v2.statuseffect.minor.yellowtrap.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.chain_strike.amplified.against_purple.against_titan.modifies_power","Osutut viholliset joutuvat piikkiansan vaikutuksen alaisiksi.
+ Piikkiansa antaa kohteelleen {DEFENSE} % puolustusta pyhää vastaan. Pimeyden titaaneja vastaan piikkiansa antaa kohteelleen {AMPLIFIEDDEFENSE} % puolustusta pyhää vastaan.
+ Piikkiansat räjähtävät {TURNS} vuoron jälkeen ja tuottavat {DAMAGE} vauriota omistajilleen."
 "specials.v2.statuseffect.minor.zombiecurse.all.enemies","Kaikki viholliset saavat zombin kirouksen. Kun kirottu sankari kukistuu, hän räjähtää ja tekee {EXPLOSIONDAMAGE} vauriota kaikille liittolaisilleen. Efektin vaikutus kestää {TURNS} vuoroa."
+"specials.v2.statuseffect.minor.zombiecurse.neartotarget.enemies","Kohde ja lähellä olevat viholliset saavat zombin kirouksen. Kun kirottu sankari kukistuu, hän räjähtää ja tekee {EXPLOSIONDAMAGE} vauriota kaikille liittolaisilleen. Efektin vaikutus kestää {TURNS} vuoroa."
 "specials.v2.statuseffect.permanent.accuracymodifier.purple.allies","Kaikki pimeyden sankarit saavat {ACCURACY} % tarkkuutta."
 "specials.v2.statuseffect.permanent.attackmodifier.yellow.allies","Kaikki pyhät sankarit saavat {ATTACK} % hyökkäystä."
 "specials.v2.statuseffect.permanent.insanity.all.allies","Aiheuttaa {INSANITYTOADD} hulluutta kaikille liittolaisille."
@@ -2671,10 +2726,10 @@ Hulluus
 Lisää mahdollisuuden muuttaa erikoistaidon kohteet päinvastaisiksi.
 Sankarin hulluutta voi laskea erikoistaidon suoralla parannuksella."
 "specials.v2.statuseffect.permanent.insanity.all.enemies","Aiheuttaa {INSANITYTOADD} hulluutta kaikille vihollisille."
-"specials.v2.statuseffect.permanent.insanity.allexceptcaster.allies","Aiheuttaa {INSANITYTOADD} hulluutta kaikille liittolaisille paitsi loitsijalle."
+"specials.v2.statuseffect.permanent.insanity.allexceptcaster.allies","Tämän erikoistaidon käyttäminen aiheuttaa {INSANITYTOADD} hulluutta kaikille liittolaisille paitsi loitsijalle."
 "specials.v2.statuseffect.permanent.insanity.neartotarget.enemies","Aiheuttaa {INSANITYTOADD} hulluutta kohteelle ja lähellä oleville vihollisille."
-"specials.v2.statuseffect.permanent.insanity.neartotargetexceptcaster.allies","Aiheuttaa {INSANITYTOADD} hulluutta lähellä oleville liittolaisille."
-"specials.v2.statuseffect.permanent.insanity.single.allies","Aiheuttaa {INSANITYTOADD} hulluutta loitsijalle."
+"specials.v2.statuseffect.permanent.insanity.neartotargetexceptcaster.allies","Tämän erikoistaidon käyttäminen aiheuttaa {INSANITYTOADD} hulluutta lähellä oleville liittolaisille."
+"specials.v2.statuseffect.permanent.insanity.single.allies","Tämän erikoistaidon käyttäminen aiheuttaa {INSANITYTOADD} hulluutta loitsijalle."
 "specials.v2.statuseffect.permanent.insanity.single.enemies","Aiheuttaa {INSANITYTOADD} hulluutta kohteelle."
 "specials.v2.statuseffect.permanent.insanity.single.enemies.chain_strike","Kaikki osutut kohteet saavat {INSANITYTOADD} hulluutta jokaisesta osumasta."
 "specials.v2.statuseffect.permanent.insanity.single.enemies.chain_strike.chain_strike_cassilda.on_additional_hit","Kaikki osutut kohteet saavat {INSANITYTOADD} hulluutta jokaisesta osumasta."
@@ -2692,6 +2747,6 @@ Sankarin hulluutta voi laskea erikoistaidon suoralla parannuksella."
 "specials.v2.strongattack.purple","Tuottaa lisävauriota pimeyttä vastaan."
 "specials.v2.strongattack.red","Tuottaa lisävauriota tulta vastaan."
 "specials.v2.strongattack.yellow","Tuottaa lisävauriota pyhää vastaan."
+"specials.v2.toon_tide.immuneelement.purple","Kaikki pimeyden liittolaiset ja viholliset ovat immuuneja tälle hyökkäykselle."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","Tämä efekti voi tapahtua vain kerran ikitursaanpääkäskyläistä kohti."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","Kun ikitursaanpääkäskyläinen kukistuu, satunnainen liittolainen saa uudelleensyntyneen ikitursaanpääkäskyläisen, joka perii alkuperäisen käskyläisen ominaisuudet."
-"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","[#!]Kasauma +{BASESTACKCOUNT} (maksimi: {MAXSTACK}):[#] Kaikki loitsijan ja lähellä olevien liittolaisten kärsimä vaurio laskee {DAMAGEMODIFIER} %"

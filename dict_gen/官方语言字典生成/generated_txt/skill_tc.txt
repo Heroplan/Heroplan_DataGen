@@ -38,6 +38,7 @@
 "specials.v2.clearbuffs.minorbuff.neartotarget.enemies","驅散目標和附近敵人的增益。"
 "specials.v2.clearbuffs.minorbuff.sides.enemies","驅散敵方陣型邊緣敵人的增益效果。"
 "specials.v2.clearbuffs.minorbuff.single.enemies","驅散目標的增益。"
+"specials.v2.clearbuffs.minorbuff.single.enemies.bypassremoveeffects","安全驅散目標身上的增益。"
 "specials.v2.clearbuffs.minordebuff.all.allies","淨化所有盟友的狀態異常。"
 "specials.v2.clearbuffs.minordebuff.all.allies.latest","淨化所有盟友的最新的可淨化狀態異常。"
 "specials.v2.clearbuffs.minordebuff.neartotarget.allies","淨化施法者與附近盟友的狀態異常。"
@@ -93,6 +94,8 @@
 "specials.v2.directeffect.reducemaxhealth.all.enemies.fixedpower","使所有敵人的最大生命值降低{REDUCTION}點。對有生命加成的目標效果更大。"
 "specials.v2.directeffect.revival.all.allies.with_chance","每個被擊敗的盟友有{CHANCE}%的機率以{HEALTH}%生命復活。"
 "specials.v2.directeffect.shufflepositions.all.enemies","隨機重新排列敵人位置。"
+"specials.v2.dispel.minorbuff.chain_strike","驅散每名被擊中敵人身上的{REMOVALCOUNT}個增益效果。"
+"specials.v2.dispel.minorbuff.safe.chain_strike","安全驅散每名被擊中敵人身上的增益。"
 "specials.v2.familiars.statuseffect","{0}"
 "specials.v2.follower.follower_dragon_mordax.single.multiplepercharacter","召喚{FAMILIARAMOUNT}個九頭蛇頭，九頭蛇頭獲得施法者的{FAMILIARHEALTH}生命值。九頭蛇頭的召喚無法阻止，竊取九頭蛇頭會改為將其擊殺。"
 "specials.v2.follower.follower_moreau.single.multiplepercharacter","召喚{FAMILIARAMOUNT}個保護者水晶，保護者水晶獲得施法者的{FAMILIARHEALTH}生命值。保護者水晶無法阻止其被召喚且偷取保護者水晶則會使其致死。"
@@ -134,7 +137,6 @@
 "specials.v2.minion.brown_puppy.all","為每個盟友召喚一個棕色狗狗小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命值與{FAMILIARATTACK}%攻擊。"
 "specials.v2.minion.bull.single.multiplepercharacter","施法者召喚3個公牛小兵。公牛小兵繼承施法者{FAMILIARHEALTHPERCENT}%生命與{FAMILIARATTACK}%攻擊。"
 "specials.v2.minion.butterfly.all","為每個盟友召喚一個蝴蝶小兵，其可從師法者繼承{FAMILIARHEALTHPERCENT}%生命值及{FAMILIARATTACK}%攻擊。
-
 蝴蝶小兵的每一次攻擊都會對被命中的目標施加下列的狀態異常："
 "specials.v2.minion.card_soldier.single","召喚一個撲克小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命與{FAMILIARATTACK}%攻擊。"
 "specials.v2.minion.card_soldier_costume.single","召喚一個撲克小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命與{FAMILIARATTACK}%攻擊。"
@@ -176,7 +178,6 @@
 "specials.v2.minion.grimoire.all","為所有盟友召喚一個魔書小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命值與{FAMILIARATTACK}%攻擊。"
 "specials.v2.minion.guardian_minion_delilah_costume.all","為每個盟友召喚一個守護者小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命與{FAMILIARATTACK}%攻擊。"
 "specials.v2.minion.harpoon_sentry.all","為每個盟友召喚一個魚叉哨兵小兵，其可從施法者身上繼承{FAMILIARHEALTHPERCENT}%生命值及{FAMILIARATTACK}%攻擊。
-
 魚叉哨兵小兵的每一次攻擊都會減少目標的{FAMILIARADDMANA}%法力，並對命中的目標施加下列的狀態異常："
 "specials.v2.minion.holy.all","為所有盟友召喚一個神聖小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命與{FAMILIARATTACK}%攻擊。"
 "specials.v2.minion.holy.yellow","元素鏈會為所有神聖系盟友召喚一個神聖小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命與{FAMILIARATTACK}%攻擊。"
@@ -242,6 +243,7 @@
 "specials.v2.minion.rock_golem_minion.all","為每個盟友召喚一個石巨像小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命值與{FAMILIARATTACK}%攻擊。"
 "specials.v2.minion.sakura_fox","櫻花狐狸小兵從施法者繼承{FAMILIARHEALTHPERCENT}%生命與{FAMILIARATTACK}%攻擊的。它在每個回合結束時為主人增加{FAMILIARADDMANA}%法力。"
 "specials.v2.minion.sakura_fox.neartotarget","為施法者與附近盟友召喚一個櫻花狐狸小兵。櫻花狐狸小兵從施法者繼承{FAMILIARHEALTHPERCENT}%生命與{FAMILIARATTACK}%攻擊。它在每個回合結束時為主人增加{FAMILIARADDMANA}%法力。"
+"specials.v2.minion.sakura_fox_costume","為施法者與附近盟友召喚一個櫻花狐狸小兵。櫻花狐狸小兵從施法者繼承{FAMILIARHEALTHPERCENT}%生命與{FAMILIARATTACK}%攻擊。它在每個回合結束時為主人增加{FAMILIARADDMANA}%法力。"
 "specials.v2.minion.sakura_fox_costume.neartotarget","為施法者與附近盟友召喚一個櫻花狐狸小兵。櫻花狐狸小兵從施法者繼承{FAMILIARHEALTHPERCENT}%生命與{FAMILIARATTACK}%攻擊。它在每個回合結束時為主人增加{FAMILIARADDMANA}%法力。"
 "specials.v2.minion.sand_golem.all","為每個盟友召喚一個砂巨像小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命值與{FAMILIARATTACK}%攻擊。"
 "specials.v2.minion.sand_golem_papyros_costume.all","為每個盟友召喚一個砂巨像小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命值與{FAMILIARATTACK}%攻擊。"
@@ -274,7 +276,6 @@
 "specials.v2.minion.wu_soldier.single","召喚一個吳國戰士小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命值與{FAMILIARATTACK}%攻擊。"
 "specials.v2.minion.wu_soldier_costumes.all","為每個盟友召喚一個吳國戰士小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命值與{FAMILIARATTACK}%攻擊。"
 "specials.v2.minion.xulu_minion.all","為每個盟友召喚一個徐璐小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命值及{FAMILIARATTACK}%攻擊力。
-
 徐璐小兵的每一次攻擊都會對被命中的目標施加下列的狀態異常："
 "specials.v2.moreau_parasite.summonedbyfamiliar","殘跡暗影惡魔每回合以{FAMILIARATTACK}%的攻擊力對目標造成傷害。
 殘跡暗影惡魔會吸收治療效果。在吸收的治療量等於目標最大生命值的{FAMILIARHEALTHPERCENT}%時消失。"
@@ -500,12 +501,15 @@
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets","對目標和{MAXHITS}名隨機敵人造成{DAMAGE}%傷害。"
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.minordamage.with_chance","有{CHANCE}%的機率可額外攻擊隨機敵人，最多{MAXHITS}次。額外攻擊可造成輕微傷害。"
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.randommaintarget","對{TOTALMAXHITS}名隨機敵人造成{DAMAGE}%傷害。"
+"specials.v2.property.chainstrike.allowmaintargetinrandomtargets.with_chance","有{CHANCE}%的機率可額外攻擊隨機敵人，最多{MAXHITS}次。"
 "specials.v2.property.chainstrike.minordamage","對{MAXHITS}名隨機敵人造成額外輕微傷害。"
 "specials.v2.property.chainstrike.minordamage.with_chance","有{CHANCE}%的機率可額外攻擊隨機敵人，最多{MAXHITS}次。額外攻擊可造成輕微傷害。"
 "specials.v2.property.chainstrike.randommaintarget","對{TOTALMAXHITS}名隨機敵人造成{DAMAGE}%傷害。"
 "specials.v2.property.chainstrikewitheffectonsametargethits.addmana.single.allies.2_outof_2","若兩次攻擊皆命中同一目標，則施法者獲得{EXTRAEFFECTPOWER}%法力。"
 "specials.v2.property.chainstrikewitheffectonsametargethits.allowmaintargetinrandomtargets.onehit","對一名隨機敵人造成{DAMAGE}%傷害。"
-"specials.v2.property.chainstrikewitheffectperhit.addmana.all.allies.minordamage.with_chance","有{CHANCE}%的機率可額外攻擊隨機敵人，最多{MAXHITS}次。額外攻擊可造成輕微傷害。 所有盟友每次攻擊可增加少量法力。"
+"specials.v2.property.chainstrikewitheffectperhit.addmana.all.allies.moderate.minordamage.with_chance","有{CHANCE}%的機率可額外攻擊隨機敵人，最多{MAXHITS}次。額外攻擊可造成輕微傷害。
+所有盟友每次攻擊可增加適量法力。"
+"specials.v2.property.chainstrikewitheffectperhit.addmana.all.allies.small.minordamage.with_chance","有{CHANCE}%的機率可額外攻擊隨機敵人，最多{MAXHITS}次。額外攻擊可造成輕微傷害。 所有盟友每次攻擊可增加少量法力。"
 "specials.v2.property.chainstrikewitheffectperhit.all.allies.minordamage.with_chance","有{CHANCE}%的機率可額外攻擊隨機敵人，最多{MAXHITS}次。額外攻擊可造成輕微傷害。"
 "specials.v2.property.chainstrikewitheffectperhit.damage.statuseffect.single.enemies.with_chance","有{CHANCE}%的機率可額外攻擊隨機敵人，最多{MAXHITS}次。"
 "specials.v2.property.chainstrikewitheffectperhit.statuseffect.single.allies.minordamage.with_chance","有{CHANCE}%的機率可額外攻擊隨機敵人，最多{MAXHITS}次。額外攻擊可造成輕微傷害。
@@ -520,7 +524,7 @@
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","對目標和{MAXHITS}名隨機敵人造成{DAMAGE}%傷害。
 每攻擊一個敵人，就召喚一個種子惡魔。"
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","對目標和{MAXHITS}名隨機敵人造成{DAMAGE}%傷害。
-每攻擊一個敵人，就召喚一個[#!]種子惡魔[#]。"
+每攻擊一個敵人，就召喚一個種子惡魔。"
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","對目標和{MAXHITS}隨機敵人造成{DAMAGE}%傷害。
 召喚飛彈惡魔攻擊敵人。惡魔每一回合以{FAMILIARATTACK}%的攻擊力對敵人造成傷害。
 飛彈惡魔會吸收治療效果，並於所吸收的生命值等於其擁有者最大生命值的{FAMILIARHEALTHPERCENT}%時消失。"
@@ -639,6 +643,7 @@
 "specials.v2.property.effectonkill.statuseffect.managenerationmodifier.neartotarget.allies","如果目標被攻擊擊敗，施法者和附近盟友都可獲得{STATUSEFFECT1MANAREGEN}%法力產出，持續 {STATUSEFFECT1TURNS}個回合。"
 "specials.v2.property.effectonkill.statuseffect.managenerationmodifier.single.allies","如果目標被攻擊擊敗，施法者可獲得{STATUSEFFECT1MANAREGEN}%法力產出，持續 {STATUSEFFECT1TURNS}個回合。"
 "specials.v2.property.effectonremovedstatuseffectspertarget.minordebuff.all.allies.effectonremoval.addmana.single","淨化所有盟友的所有狀態異常，根據每個淨化的異常，提升所有盟友的法力{POWER}%。"
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","從所有敵人的身上豐收增益。"
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","豐收可以從每個目標上，安全地移除{MAXREMOVALCOUNT}個增益、正面疊加或成長效果。包含不可驅散增益和跳舞效果。
 每移除一個效果，施法者獲得{HEALTHBOOST}%加成生命值，加成生命值可超過最大生命值。
 
@@ -668,6 +673,7 @@
 "specials.v2.property.effectpereatenfamiliar.damage.all.enemies.permil.minion.follower.minion.follower","每摧毀一名小兵，便對所有敵人造成{DAMAGE}%額外傷害。"
 "specials.v2.property.effectpereatenfamiliar.heal.all.allies.fixed.minion.follower","每個摧毀的小兵使所有盟友恢復{HEALTHPERFAMILIAR}點生命。"
 "specials.v2.property.effectpereatenfamiliar.heal.all.allies.permil.minion.follower","每個摧毀的小兵使所有盟友恢復{HEALTHPERFAMILIAR}%生命。"
+"specials.v2.property.effectpereatenfamiliar.heal.all.allies.permil.minion.parasite","每個摧毀的小兵和惡魔使所有盟友恢復{HEALTHPERFAMILIAR}%生命。"
 "specials.v2.property.effectpereatenfamiliar.heal.neartotarget.allies.fixed","每個摧毀的小兵使施法者與附近盟友恢復{HEALTHPERFAMILIAR}點生命。"
 "specials.v2.property.effectpereatenfamiliar.heal.neartotarget.allies.permil","每個摧毀的小兵使所有盟友恢復{HEALTHPERFAMILIAR}%生命。"
 "specials.v2.property.effectpereatenfamiliar.heal.single.allies.fixed","每個摧毀的小兵使施法者恢復{HEALTHPERFAMILIAR}點生命。"
@@ -695,6 +701,8 @@
 "specials.v2.property.effectperremovedstatuseffect.addmana.neartotarget.enemies.no_base_effect","每有一個已移除狀態效果，則減少目標和附近敵人{POWERPEREFFECT}%法力，總計最高為{MAXPOWER}%。"
 "specials.v2.property.effectperremovedstatuseffect.damage.all.enemies","對所有敵人造成{BASEPOWER}%傷害。
 每移除一個狀態效果，將造成{POWERPEREFFECT}%額外傷害，最多累積造成{MAXPOWER}%傷害。"
+"specials.v2.property.effectperremovedstatuseffect.damage.single.enemies","對目標造成{BASEPOWER}%傷害。
+每移除一個狀態效果對{POWERPEREFFECT}%額外傷害，最多累積造成{MAXPOWER}%傷害。"
 "specials.v2.property.effectperremovedstatuseffect.heal.all.allies","為所有盟友回復{BASEPOWER}%生命。
 每移除一個異常效果，便額外回復{POWERPEREFFECT}%生命，總共至多回復{MAXPOWER}%生命。"
 "specials.v2.property.effectperremovedstatuseffect.heal.all.allies.no_base_effect","每為所有盟友移除一個狀態效果，便回復{POWERPEREFFECT}%生命，總共至多回復{MAXPOWER}%生命。"
@@ -843,7 +851,7 @@
 影響攻擊與防禦的增益與狀態異常，不會影響傷害的比率。"
 "specials.v2.property.pre.alwayshit","此特殊技能必定命中目標。"
 "specials.v2.property.pre.eatfamiliars.all.allies.parasite","摧毀所有盟友的惡魔。"
-"specials.v2.property.pre.eatfamiliars.all.allies.parasite.bigparasite","摧毀所有盟友的所有惡魔。此效果會對超級惡魔造成傷害。"
+"specials.v2.property.pre.eatfamiliars.all.allies.parasite.bigparasite","摧毀所有盟友的所有惡魔，並對所有超級惡魔造成傷害。"
 "specials.v2.property.pre.eatfamiliars.all.allies.parasite.replacewith.gargoyle_minion","替代所有盟友的惡魔為石像鬼小兵。"
 "specials.v2.property.pre.eatfamiliars.all.allies.parasite.replacewith.jellyfish_minion","將所有盟友的所有惡魔替代為水母小兵。"
 "specials.v2.property.pre.eatfamiliars.all.allies.parasite.replacewith.jellyfish_minion_costume2","將所有盟友的所有惡魔替代為水母小兵。"
@@ -968,6 +976,7 @@
 "specials.v2.property.secondarydirecteffect.damage.all.enemies","對所有敵人造成{SECONDARYPOWER}%傷害。"
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_abigail","對所有敵人造成{SECONDARYPOWER}%傷害，並對其造成{STATUSEFFECT1INSANITYTOADD}點瘋狂。"
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_ambrose","對所有敵人造成{SECONDARYPOWER}%傷害，並對其造成{STATUSEFFECT1INSANITYTOADD}點瘋狂。"
+"specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_azureus","對所有敵人造成{SECONDARYPOWER}%傷害，並對其造成{STATUSEFFECT1INSANITYTOADD}點瘋狂。"
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_cultist_villager_female","對所有敵人造成{SECONDARYPOWER}%傷害，並對其造成{STATUSEFFECT1INSANITYTOADD}點瘋狂。"
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_gwendoline_changed_appearance","對所有敵人造成{SECONDARYPOWER}%傷害，並對其造成{STATUSEFFECT1INSANITYTOADD}點瘋狂。"
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_on_damage_khatrox","對所有敵人造成{SECONDARYPOWER}%傷害，並對其造成{STATUSEFFECT1INSANITYTOADD}點瘋狂。"
@@ -1056,6 +1065,7 @@
 "specials.v2.property.statuseffectreallocation.from.all.enemies.to.single.allies","偷走所有敵人的全部可驅散增益，並將增益轉移給施法者。"
 "specials.v2.property.statuseffectreallocation.from.neartotarget.allies.to.all.enemies","消除施法者與附近盟友的全部可驅散的狀態異常，並隨機分配給所有敵人。"
 "specials.v2.property.statuseffectreallocation.from.neartotarget.enemies.to.all.allies","偷走目標及鄰近敵人的全部可驅散增益，並隨機分配給所有盟友。"
+"specials.v2.property.statuseffectreallocation.from.neartotarget.enemies.to.all.allies.customreallocationcount.multiple","偷走目標及鄰近敵人的{CUSTOMREALLOCATIONCOUNT}隨機可驅散增益，並隨機分配給所有盟友。"
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.all.allies","偷走目標的全部可驅散增益，並隨機分配給所有盟友。"
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.neartotarget.allies","偷走目標的全部可驅散增益，並隨機分配給施法者和附近盟友。"
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.single.allies.customreallocationcount","從目標竊取最新的可驅散增益並分給施法者。"
@@ -1077,6 +1087,7 @@
 "specials.v2.property.statuseffectreallocationwithfallbackeffect.from.all.enemies.to.all.allies.customreallocationcount","竊取所有敵人的最新狀態的可驅散效果增益，並將它們隨機分配給盟友。"
 "specials.v2.property.statuseffecttagconditionrepeatspecial.extra","如果擊敗目標，特殊技能不會重新施放。"
 "specials.v2.property.statuseffecttagconditionrepeatspecial.freezing_power_hooks.random","如果目標受到冰霜影響，將對一名隨機目標重新施放一次凍霜強力勾。"
+"specials.v2.property.statuseffecttagconditionrepeatspecial.the_scent_of_blood","若目標被施加流血效果，將再次對目標施放血之氣息。"
 "specials.v2.property.statuseffecttransform.all.allies.minordebuff.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","將全體盟友身上能影響攻擊、防禦和法力產出的所有異常轉變為對應之不可驅散增益。"
 "specials.v2.property.statuseffecttransform.all.enemies.minorbuff.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","將全體敵人身上能影響攻擊、防禦和法力產出的所有增益轉變為對應之不可淨化異常。"
 "specials.v2.property.statuseffecttransform.minorbuff.attackmodifier.defensemodifier.managenerationmodifier.extra","轉變效果無法被狀態效果、家族效果或被動技能封鎖。
@@ -1108,28 +1119,28 @@
 有小兵或超級小兵的敵人獲得{STATUSEFFECT1DEFENSE}%防禦，持續{STATUSEFFECT1TURNS}個回合。"
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","對有任意防禦增益、小兵或超級小兵的敵人造成{POWERFORTARGETSTHATMEETCONDITION}%傷害。
 有任意防禦增益、小兵或超級小兵的敵人獲得{STATUSEFFECT1DEFENSE}%防禦，持續{STATUSEFFECT1TURNS}個回合。"
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","{EVOLVINGFAMILIAR1EVOLVETURNS}回合後，[#!]種子惡魔[#]會進化為[#!]發芽惡魔[#]。
-[*]{EVOLVINGFAMILIAR2EVOLVETURNS}回合後，[#!]發芽惡魔[#]會進化為[#!]盛開超級惡魔[#]。
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","{EVOLVINGFAMILIAR1EVOLVETURNS}回合後，種子惡魔會進化為發芽惡魔。
+{EVOLVINGFAMILIAR2EVOLVETURNS}回合後，發芽惡魔會進化為盛開超級惡魔。
 
-[*] [#!]種子惡魔[#]：[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]生命。
-[*] [#!]發芽惡魔[#]：[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]生命。
-[#!]盛開超級惡魔[#]：[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]生命。
+ 種子惡魔：{EVOLVINGFAMILIAR1FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%生命。
+ 發芽惡魔：{EVOLVINGFAMILIAR2FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%生命。
+盛開超級惡魔：{EVOLVINGFAMILIAR3FAMILIARATTACK}%攻擊、{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%生命。
 
-[*]惡魔會在每個回合攻擊其目標。惡魔會在吸收治療後消失。根據目標的最大生命值決定所需的治療量。
-[*]惡魔每次吸收傷害時，會使進化延遲{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。"
+惡魔會在每個回合攻擊其目標。惡魔會在吸收治療後消失。根據目標的最大生命值決定所需的治療量。
+惡魔每次吸收傷害時，會使進化延遲{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}回合。"
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","如果目標有惡魔或超級惡魔，則對不同的隨機敵人造成{DAMAGE}%傷害。
 每攻擊一個敵人，就召喚一個種子惡魔。"
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","如果目標有惡魔或超級惡魔，則對不同的隨機敵人造成{DAMAGE}%傷害。
 每攻擊一個敵人，就召喚一個種子惡魔。"
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.parasite.bigparasite.evolving_root_rot_fiend","如果目標有惡魔或超級惡魔，則對不同的隨機敵人造成{DAMAGE}%傷害。
 每攻擊一個敵人，就召喚一個種子惡魔。"
-"specials.v2.property.targethealthdependantextradamage.over_health_boundary.all","對剩餘生命超過{HEALTHBOUNDARY}%的敵人造成{DAMAGEMULTIPLIER}%傷害。"
-"specials.v2.property.targethealthdependantextradamage.over_health_boundary.neartotarget","對剩餘生命超過{HEALTHBOUNDARY}%的敵人造成{DAMAGEMULTIPLIER}%傷害。"
-"specials.v2.property.targethealthdependantextradamage.over_health_boundary.single","如果目標剩餘生命超過{HEALTHBOUNDARY}%，可造成{DAMAGEMULTIPLIER}%傷害。"
-"specials.v2.property.targethealthdependantextradamage.under_health_boundary.all","對剩餘生命少於{HEALTHBOUNDARY}%的敵人造成{DAMAGEMULTIPLIER}%傷害。"
-"specials.v2.property.targethealthdependantextradamage.under_health_boundary.neartotarget","對剩餘生命少於{HEALTHBOUNDARY}%的敵人造成{DAMAGEMULTIPLIER}%傷害。"
+"specials.v2.property.targethealthdependantextradamage.over_health_boundary.all","如果敵人的剩餘生命超過{HEALTHBOUNDARY}%，改為造成{DAMAGEMULTIPLIER}%傷害。"
+"specials.v2.property.targethealthdependantextradamage.over_health_boundary.neartotarget","如果敵人的剩餘生命超過{HEALTHBOUNDARY}%，改為造成{DAMAGEMULTIPLIER}%傷害。"
+"specials.v2.property.targethealthdependantextradamage.over_health_boundary.single","如果目標剩餘生命超過{HEALTHBOUNDARY}%，改為造成{DAMAGEMULTIPLIER}%傷害。"
+"specials.v2.property.targethealthdependantextradamage.under_health_boundary.all","如果敵人的剩餘生命不到{HEALTHBOUNDARY}%，改為造成{DAMAGEMULTIPLIER}%傷害。"
+"specials.v2.property.targethealthdependantextradamage.under_health_boundary.neartotarget","如果敵人的剩餘生命不到{HEALTHBOUNDARY}%，改為造成{DAMAGEMULTIPLIER}%傷害。"
 "specials.v2.property.targethealthdependantextradamage.under_health_boundary.neartotargetminor","對剩餘生命值少於{HEALTHBOUNDARY}%的敵人造成額外傷害。"
-"specials.v2.property.targethealthdependantextradamage.under_health_boundary.single","如果目標剩餘生命少於{HEALTHBOUNDARY}%，可造成{DAMAGEMULTIPLIER}%傷害。"
+"specials.v2.property.targethealthdependantextradamage.under_health_boundary.single","如果目標剩餘生命不到{HEALTHBOUNDARY}%，改為造成{DAMAGEMULTIPLIER}%傷害。"
 "specials.v2.property.thresholdaftereffectchainstrike.allowmaintargetinrandomtargets.target_random.allow_duplicates.over_mana_threshold","若目標法力減損後依然擁有{THRESHOLD1}%以上的法力，則此特殊技能將再次生效並攻擊一名隨機敵人。每次連續攻擊後，傷害將會降低。"
 "specials.v2.property.thresholdaftereffectchainstrike.over_mana_threshold","若目標法力減損後依然擁有{THRESHOLD1}%以上的法力，則此特殊技能將再次生效並攻擊一名隨機敵人。每次連續攻擊後，傷害將會降低。"
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold","若目標在受到傷害前有超過{THRESHOLD1}%的生命，則瞄準其他在受到此特殊技能傷害前超過{THRESHOLD2}%生命的敵人。若無其他敵人有{THRESHOLD3}%生命，則隨機瞄準敵人。每次連續攻擊，傷害會減少。每個敵人只能受攻擊一次。"
@@ -1238,6 +1249,7 @@
 "specials.v2.statuseffect.major.baldurstatuseffectskill.single.allies.on.turnend.damage.random.enemies.while.caster.allies.boostedhealth","施法者擁有生命加成時，每回合結束時會對隨機敵人造成{POWER1}%傷害。此效果無法驅散。"
 "specials.v2.statuseffect.major.berserkdefense.neartotarget.allies","施法者與附近盟友獲得{DEFENSE}%防禦，並在每次被擊中後增加{CHANGE}%，持續{TURNS}個回合，最低{MAXMODIFIER}%防禦。此效果無法驅散。"
 "specials.v2.statuseffect.major.berserkdefense.single.allies","施法者獲得{DEFENSE}%防禦，並在每次被擊中後增加{CHANGE}%，持續{TURNS}個回合，最高{MAXMODIFIER}%防禦。此效果無法驅散。"
+"specials.v2.statuseffect.major.bluedefensemodifier.single.allies","施法者獲得{DEFENSE}%對冰雪系的防禦，持續{TURNS}回合。此效果無法淨化。"
 "specials.v2.statuseffect.major.buffimmunity.neartotarget.enemies","目標及附近敵人在{TURNS}回合內無法獲得新的狀態效果增益。此效果不可驅散。"
 "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration","此效果啟用時，將根據盟友所受到的傷害，在{TURNS}個回合後由所有盟友對一名隨機敵人造成{DAMAGE} - {MAXDAMAGE}點傷害。此效果無法驅散。"
 "specials.v2.statuseffect.major.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death","此效果啟用時，將根據施法者所受到的傷害，在{TURNS}個回合後，或施法者被擊敗時，對所有敵人造成{DAMAGE} - {MAXDAMAGE}點傷害。此效果無法驅散。"
@@ -1426,6 +1438,7 @@
 "specials.v2.statuseffect.major.elementlinkyellowdefensemodifier.purple.allies","元素鏈給予所有暗黑系盟友抵禦{DEFENSE}神聖系的%防禦，持續{TURNS}個回合。此效果無法驅散。"
 "specials.v2.statuseffect.major.elementmirror.red.all.allies","所有盟友將全部狀態異常和{DEFLECTION}%傷害反射給進攻者，並抵擋其它來自敵人烈火特殊技能的負面效果，持續{TURNS}個回合。此效果無法驅散。"
 "specials.v2.statuseffect.major.elementmirror.red.neartotarget.allies","施法者和附近盟友將全部狀態異常和{DEFLECTION}%傷害反射給進攻者，並抵擋其它來自敵人烈火特殊技能的負面效果，持續{TURNS}回合。此效果無法驅散。"
+"specials.v2.statuseffect.major.elementswap.all.enemies.red","所有敵人的元素變成烈火系，持續{TURNS}回合，此效果無法淨化。"
 "specials.v2.statuseffect.major.ethereal.single.allies","施法者轉變為幽靈型態，持續{TURNS}個回合。
 在變為幽靈型態時，施法者獲得 {ATTACK}%攻擊。"
 "specials.v2.statuseffect.major.fieryfortunedancemultieffect.neartotargetexceptcaster.allies.fiery_fortune_dance","附近盟友跳起火焰鴻運舞蹈，持續{TURNS}回合。
@@ -1543,6 +1556,18 @@
 破壞力超強的特殊技能：爆裂連斬
 此效果無法驅散。"
 "specials.v2.statuseffect.major.revive.resurrectmajor.allexceptcaster.allies","如果除了施放者以外的任何盟友在後續{TURNS}個回合中被擊敗，他們將在下一個回合開頭以{HEALTH}%生命值復活。盟友被擊敗時，所有狀態效果與疊加都會被移除。此效果無法驅散。"
+"specials.v2.statuseffect.major.revive.reviveatomoscute.single.allies","如果施法者在後續{TURNS}個回合中被擊敗，他們將在下一個回合開頭以{HEALTH}%生命值復活。施法者被擊敗時，所有狀態效果與疊加會被移除。此效果無法驅散。"
+"specials.v2.statuseffect.major.revive.reviveslime.neartotarget.allies","施法者和附近盟友獲得史萊姆復活，持續{TURNS}回合。此效果無法驅散。
+若角色在擁有史萊姆復活狀態效果時被擊敗，將重生為史萊姆。
+
+史萊姆擁有
+{HEALTH}%繼承的生命值
+{CHANGEDAPPEARANCEATTACK}%攻擊
+{CHANGEDAPPEARANCEDEFENSE}%防禦
+特殊技能：{CHANGEDAPPEARANCEREPLACEDSPECIALTITLE}
+此效果無法驅散。
+
+若史萊姆在{CHANGEDAPPEARANCETURNS}個回合內未被擊敗，則將重生為角色原本型態，並繼承史萊姆的生命值和法力。"
 "specials.v2.statuseffect.major.revive.reviveslime.single.allies","施法者獲得史萊姆復活，持續{TURNS}個回合。此效果無法驅散。
 若施法者在擁有史萊姆復活狀態效果時被擊敗，將重生為史萊姆。
 
@@ -1843,7 +1868,6 @@
 "specials.v2.statuseffect.minor.bluedefensemodifier.neartotarget.allies","施法者與附近盟友獲得{DEFENSE}%冰雪系防禦，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.bluedefensemodifier.neartotarget.enemies","目標與附近敵人獲得抵禦{DEFENSE}冰雪系的%防禦，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.bluedefensemodifier.red.enemies","所有烈火敵人獲得冰雪系{DEFENSE}%防禦，持續{TURNS}個回合。"
-"specials.v2.statuseffect.minor.bluedefensemodifier.single.allies","施法者獲得抵禦{DEFENSE}冰雪系的%防禦，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.bluedefensemodifier.single.enemies","目標獲得抵禦{DEFENSE}冰雪系的%防禦，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.bonetossstatuseffectskill.single.allies.on.turnend.damage.random.enemies.summonfamiliar.random.enemies.fox_skeleton_fiend.with_chance","每回合結束時，施法者會對隨機敵人施放白骨投擲，持續{TURNS}個回合。
 每次白骨投擲都會造成{POWER1}%傷害。
@@ -1881,6 +1905,7 @@
 "specials.v2.statuseffect.minor.burn.green.enemies","所有自然系敵人在{TURNS}個回合內受到{DAMAGE}點燃燒傷害。"
 "specials.v2.statuseffect.minor.burn.neartotarget.enemies","目標與附近敵人在{TURNS}個回合內受到{DAMAGE}點燃燒傷害。"
 "specials.v2.statuseffect.minor.burn.neartotarget.enemies.absorb_boostedhealth.to.all","目標與附近敵人受到{DAMAGE}點燃燒傷害，持續{TURNS}回合。施法者和其所有盟友能吸收已造成之燃燒傷害的{ABSORBHEALING}%作為生命值加成。"
+"specials.v2.statuseffect.minor.burn.neartotarget.enemies.absorb_healing.to.all","目標與附近敵人受到{DAMAGE}點燃燒傷害，持續{TURNS}回合。施法者和其所有盟友能吸收已造成之燃燒傷害的{ABSORBHEALING}%作為生命值。"
 "specials.v2.statuseffect.minor.burn.neartotarget.enemies.absorb_healing.to.single","目標與附近敵人受到{DAMAGE}點燃燒傷害，持續{TURNS}回合。施法者能吸收已造成之燃燒傷害的{ABSORBHEALING}%作為生命值。"
 "specials.v2.statuseffect.minor.burn.neartotarget.enemies.noturns","目標和附近敵人每個回合持續受到{DAMAGE}點燃燒傷害。"
 "specials.v2.statuseffect.minor.burn.purple.enemies","所有黑暗系敵人在{TURNS}個回合內受到{DAMAGE}點燃燒傷害。"
@@ -1899,6 +1924,7 @@
 "specials.v2.statuseffect.minor.changingmanageneration.neartotarget.enemies","每個回合，目標的法力產出與附近敵人的法力產出會降低{CHANGE}%，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","所有盟友承受{TURNS}回合的{ATTACK}%普通攻擊。普通攻擊每回合增加{CHANGE}%。除了可變更整體攻擊的效果，可另外啟動此效果。啟動此效果時，普通攻擊最多可提升{MAXATTACK}%威力。"
 "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","施法者承受{TURNS}回合的{ATTACK}%普通攻擊。普通攻擊每回合增加{CHANGE}%。除了可變更整體攻擊的效果，可另外啟動此效果。啟動此效果時，普通攻擊最多可提升{MAXATTACK}%威力。"
+"specials.v2.statuseffect.minor.constantmanasteal.single.enemies.chain_strike","施法者竊取所擊中敵人所產出法力的{CURRENTMANASTEAL}%，持續{TURNS}個回合。如果施法者被擊敗，可移除此效果。"
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier","所有敵人受到腐蝕燒傷，持續{TURNS}回合。腐蝕燒傷會造成{DAMAGEPERTURN}燃燒傷害，而且每個回合降低目標的防禦{CHANGE}%。"
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier.extra_minion_damage.minion.bigminion.extra_minion_damage.minion.bigminion","所有敵人受到腐蝕燒傷，持續{TURNS}回合。腐蝕燒傷會造成{DAMAGEPERTURN}燃燒傷害，而且每個回合降低目標的防禦{CHANGE}%。對擁有小兵或超級小兵的英雄造成額外傷害。"
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier.extra_minion_damage.minion.bigminion.follower.extra_minion_damage.minion.bigminion.follower","所有敵人受到腐蝕燒傷，持續{TURNS}回合。腐蝕燒傷會造成{DAMAGEPERTURN}燃燒傷害，而且每個回合降低目標的防禦{CHANGE}%。對擁有小兵或超級小兵的英雄造成額外傷害。"
@@ -2022,6 +2048,7 @@
 "specials.v2.statuseffect.minor.dispel.neartotarget.enemies.minorbuff","每回合結束時驅散目標和附近敵人身上的增益，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.dispel.single.allies.minordebuff","每個回合結束時淨化施法者的狀態異常，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.dispel.single.enemies.minorbuff","每回合結束時驅散目標的增益，持續{TURNS}個回合。"
+"specials.v2.statuseffect.minor.dispel.single.enemies.minorbuff.chain_strike","每回合結束時驅散所擊中各敵人身上的增益，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.dispelimmunity.all.allies","所有盟友在{TURNS}回合內對增益驅散和轉移免疫。"
 "specials.v2.statuseffect.minor.dispelimmunity.neartotarget.allies","施法者與附近盟友免疫增益驅散和轉移，持續{TURNS}回合。"
 "specials.v2.statuseffect.minor.dispelimmunity.single.allies","施法者免疫增益驅散和轉移，持續{TURNS}回合。"
@@ -2180,6 +2207,7 @@
 "specials.v2.statuseffect.minor.healmultiplier.neartotarget.enemies","目標與附近敵人獲得的治療增加{HEALING}%，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.healmultiplier.neartotarget.enemies.decrease","目標與附近敵人獲得的治療減少{HEALING}%，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.healmultiplier.neartotargetminor.enemies.decrease","目標獲得的治療減少{HEALING}%，附近敵人獲得的治療減少{MINORHEALING}%，持續{TURNS}個回合。"
+"specials.v2.statuseffect.minor.healmultiplier.sides.enemies.decrease","位於敵方陣型邊緣的敵人獲得{HEALING}%治療，持續{TURNS}回合。"
 "specials.v2.statuseffect.minor.healmultiplier.single.enemies","目標獲得的治療增加{HEALING}%，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.healmultiplier.single.enemies.decrease","目標獲得的治療減少{HEALING}%，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.healmultiplier.single.enemies.decrease.resetondirectspecialdamage","目標獲得的任何治療降低{HEALING}%，持續{TURNS}個回合。目標受到來自特殊技能的直接傷害命中後，效果持續時間會被重設。"
@@ -2219,6 +2247,8 @@
 "specials.v2.statuseffect.minor.increasingproportionalmanarecovery.neartotargetexceptcaster.allies","附近的盟友每回合獲得法力，持續{TURNS}個回合。每回合獲得的法力會增加，直到最後一回合獲得{MAXMANAPERTURN}%法力。"
 "specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.allexceptcaster.allies.removeonspecialcast","除了施法者之外的所有盟友下一次使用特殊技能時獲得額外{POWER}%攻擊力。額外攻擊力每回合增加{INCREASEPERTURN}%，總計最多增加{MAXPOWERADDITION}%。"
 "specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.single.allies.removeonspecialcast","施法者下一次使用特殊技能時獲得額外{POWER}%攻擊力。額外攻擊力每回合增加{INCREASEPERTURN}%，總計最多增加{MAXPOWERADDITION}%。"
+"specials.v2.statuseffect.minor.ingeniousbomb.single.enemies.onremoval.damage.neartotarget.allies.expiration.replacesamestatuseffect.death.override","目標收到神秘炸彈。{TURNS}回合後，神秘炸彈會爆炸，對擁有者或附近的盟友造成{DAMAGE}點傷害。被取代或擁有者被擊敗時，神秘炸彈也會爆炸。"
+"specials.v2.statuseffect.minor.ingeniousstabilizer.random.allies.onremoval.heal.neartotarget.allies.expiration.replacesamestatuseffect.death.override","一名隨機盟友獲得神秘穩定劑。{TURNS}回合後，神秘穩定劑會啟動，恢復擁有者和附近盟友的{POWER}%生命值. 被取代或擁有者被擊敗時，神秘穩定劑也會爆炸。"
 "specials.v2.statuseffect.minor.insanityonhit.single.allies","在接下來的{TURNS}個回合中，每次施法者被擊中時，都會對所有敵人造成{STATUSEFFECT1INSANITYTOADD}點瘋狂。當敵人透過特殊技能造成傷害時，皆會觸發此效果。磚格和普通攻擊每回合僅限一次。"
 "specials.v2.statuseffect.minor.invisible.single.allies.all.enemies.expiration.while.caster.allies.hastargetableallies","若施法者有可作為目標的盟友，則施法者無法作為目標，持續{TURNS}個回合。在最終回合後或施法者成為最後可作為目標的角色時，對所有敵人造成{FIXEDPOWER}點傷害。"
 "specials.v2.statuseffect.minor.lifesteal.all.allies","所有盟友治療所造成普通傷害的{LIFESTEAL}%，持續{TURNS}個回合。"
@@ -2267,6 +2297,7 @@
 "specials.v2.statuseffect.minor.manaonremoval.single.enemies.onremoval.addmana.all.enemies.death","若目標在{TURNS}回合內被擊敗，施法者的所有盟友都會獲得{MANA}%法力。"
 "specials.v2.statuseffect.minor.manaonremovalmanagenerationmodifier.all.allies.onremoval.addmana.single.allies","所有盟友獲得{MANAREGEN}%法力產出，持續{TURNS}個回合。持續時間結束前若失去此狀態效果，有該效果的目標獲得{MANA}%法力。"
 "specials.v2.statuseffect.minor.manaonremovalmanagenerationmodifier.all.enemies.onremoval.addmana.single.allies.decrease","所有敵人獲得{MANAREGEN}%法力產出，持續{TURNS}個回合。持續時間結束前若失去此狀態效果，有該效果的目標減少{MANA}%法力。"
+"specials.v2.statuseffect.minor.manaovertime.all.allies","接下來{TURNS}個回合，所有盟友都會在回合結束時獲得{MANAMODIFIERPERTURN}%法力。"
 "specials.v2.statuseffect.minor.manaovertime.all.enemies.decrease","在回合結束時，所有敵人的法力減少{MANAMODIFIERPERTURN}%，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.manaovertime.allexceptcaster.allies","接下來{TURNS}個回合，施法者以外的所有盟友，都會在回合結束時獲得{MANAMODIFIERPERTURN}%法力。"
 "specials.v2.statuseffect.minor.manaovertime.moderate.all.allies","所有盟友在{TURNS}個回合內獲得適量法力。"
@@ -2290,6 +2321,9 @@
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.single.allies.on.turnend.damage.random.enemies.addmana.random.enemies","每回合結束時，施法者對隨機敵人發出月光射線，持續{TURNS}回合。
 每道月光射線造成{POWER1}%傷害。
 每道月光射線能使擊中的敵人法力減少{ABSPOWER2}%。"
+"specials.v2.statuseffect.minor.moonbeamstatuseffectskill.single.allies.on.turnend.damage.random.enemies.reducemaxhealth.random.enemies.with_chance","每回合結束時，施法者對隨機敵人發出星界射線，持續{TURNS}個回合。
+每道星界射線造成{POWER1}%傷害。
+每道星界射線能使被擊中敵人的最大生命值減少{REDUCTION2}。"
 "specials.v2.statuseffect.minor.moonriseward.all.allies.decrease.specialskill.statuseffectskill.green","所有盟友都可獲得火風暴護體，持續{TURNS}個回合，所受到的特殊技能傷害最高減少{MAX}點。攻擊者為自然元素角色時，額外減少{ADDITIONALDAMAGEMODIFIER}%傷害。"
 "specials.v2.statuseffect.minor.moonriseward.all.allies.decrease.specialskill.statuseffectskill.red","所有盟友都可獲得霜降護體，持續{TURNS}個回合，所受到的特殊技能傷害最高減少{MAX}點。攻擊者為烈火元素時，額外減少{ADDITIONALDAMAGEMODIFIER}%傷害。"
 "specials.v2.statuseffect.minor.moonriseward.all.allies.decrease.specialskill.statuseffectskill.yellow","所有盟友獲得月昇護體，持續{TURNS}個回合，所受到的特殊技能傷害最高減少{MAX}點。攻擊者為神聖系元素角色時，則減少額外{ADDITIONALDAMAGEMODIFIER}%傷害。"
@@ -2315,6 +2349,12 @@
 "specials.v2.statuseffect.minor.normalattackreceiveddamagemodifier.neartotargetminor.enemies","目標受到的普通攻擊傷害提高{DAMAGEMODIFIER}%，附近敵人受到的普通攻擊傷害提高{MINORDAMAGEMODIFIER}%，持續3個回合。"
 "specials.v2.statuseffect.minor.painempathy.sides.enemies","在{TURNS}回合內，在敵方陣型邊緣的敵人受到{DAMAGEMULTIPLIER}%對其盟友造成的所有傷害。"
 "specials.v2.statuseffect.minor.painempathy.single.enemies","在{TURNS}回合內，目標受到{DAMAGEMULTIPLIER}%對其盟友造成的所有傷害。"
+"specials.v2.statuseffect.minor.piercingshurikenstatuseffectskill.all.allies.on.turnend.damage.random.enemies.with_chance","每回合結束時，所有盟友對隨機敵人投擲尖銳手裡劍，持續{TURNS}回合。
+每把尖銳手裡劍可造成{POWER1}%傷害。"
+"specials.v2.statuseffect.minor.piercingshurikenstatuseffectskill.neartotarget.allies.on.turnend.damage.random.enemies.with_chance","每回合結束時，施法者和附近的盟友對隨機敵人投擲尖銳手裡劍，持續{TURNS}回合。
+每把尖銳手裡劍可造成{POWER1}%傷害。"
+"specials.v2.statuseffect.minor.piercingshurikenstatuseffectskill.single.allies.on.turnend.damage.random.enemies.with_chance","每回合結束時，施法者對隨機敵人投擲尖銳手裡劍，持續{TURNS}回合。
+每把尖銳手裡劍可造成{POWER1}%傷害。"
 "specials.v2.statuseffect.minor.poison.all.enemies","所有敵人在{TURNS}個回合內受到{DAMAGE}點劇毒傷害。"
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_boostedhealth.to.all","所有敵人在{TURNS}個回合內受到{DAMAGE}點劇毒傷害。施法者和所有其盟友能吸收所造成之劇毒傷害的{ABSORBHEALING}%作為生命值加成。"
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_boostedhealth.to.single","所有敵人在{TURNS}個回合內受到{DAMAGE}點劇毒傷害。施法者能吸收所造成之劇毒傷害的{ABSORBHEALING}%作為生命值加成。"
@@ -2332,6 +2372,7 @@
 "specials.v2.statuseffect.minor.poison.single.enemies.absorb_boostedhealth.to.single","目標在{TURNS}個回合內受到{DAMAGE}點劇毒傷害。施法者能吸收所造成之劇毒傷害的{ABSORBHEALING}%作為生命值加成。"
 "specials.v2.statuseffect.minor.poison.single.enemies.absorb_healing.to.single","目標在{TURNS}個回合內受到{DAMAGE}點劇毒傷害。施法者能吸收所造成之劇毒傷害的{ABSORBHEALING}%作為生命值。"
 "specials.v2.statuseffect.minor.poison.single.enemies.absorb_mana.to.single","目標在{TURNS}個回合內受到{DAMAGE}點劇毒傷害。施法者每次施加劇毒傷害皆可獲得少量法力。"
+"specials.v2.statuseffect.minor.poison.single.enemies.chain_strike","所有被擊中的目標在{TURNS}個回合內受到{DAMAGE}點劇毒傷害。"
 "specials.v2.statuseffect.minor.poison.single.enemies.contagious","目標在{TURNS}個回合內受到{DAMAGE}點劇毒傷害。此效果會擴散至附近的敵人。"
 "specials.v2.statuseffect.minor.poison.yellow.enemies","所有神聖系敵人在{TURNS}個回合內受到{DAMAGE}點劇毒傷害。"
 "specials.v2.statuseffect.minor.poisonpertile.purple.all.enemies","所有敵人受到{BASEDAMAGE}劇毒傷害，每個面板上的暗黑護盾都會提高{DAMAGEPERTILE}傷害，持續{TURNS}個回合，最大造成{MAXDAMAGE}傷害。"
@@ -2367,6 +2408,8 @@
 "specials.v2.statuseffect.minor.purpledefensemodifier.all.enemies","所有敵人對暗黑增加{DEFENSE}%防禦，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.purpledefensemodifier.neartotarget.allies","施法者與附近盟友獲得抵禦{DEFENSE}暗黑系的%防禦，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.purpledefensemodifier.neartotarget.enemies","目標與附近敵人獲得抵禦{DEFENSE}暗黑系的%防禦，持續{TURNS}個回合。"
+"specials.v2.statuseffect.minor.purpledefensemodifier.notpurple.both","所有盟友和敵人對暗黑增加{DEFENSE}%防禦，持續{TURNS}個回合。"
+"specials.v2.statuseffect.minor.purpledefensemodifier.single.allies","施法者獲得抵禦{DEFENSE}暗黑系的%防禦，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.purpledefensemodifier.single.enemies.chain_strike","所有命中目標獲得{DEFENSE}%抵禦暗黑系的防禦力，持續{TURNS}回合。"
 "specials.v2.statuseffect.minor.purpledefensemodifier.yellow.enemies","所有神聖敵人對暗黑增加{DEFENSE}%防禦，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.reallocatestatuseffectsperturn.single.allies.enemies.minorbuff.newest","每個回合結束時，偷走所有敵人的最新的可驅散增益，並隨機分配給盟友，持續{TURNS}個回合。"
@@ -2435,6 +2478,7 @@
 "specials.v2.statuseffect.minor.resistcleansefromspecial.sides.enemies","位於敵方陣型邊緣的敵人無法使用特殊技能淨化或轉移自己的狀態異常，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.resistcleansefromspecial.single.enemies","目標無法使用特殊技能淨化或轉移自己的狀態異常，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.resisthealing.all.enemies.damage","所有敵人抵禦治療，且每次抵禦治療，則受到{FIXEDPOWER}傷害，持續{TURNS}回合。"
+"specials.v2.statuseffect.minor.resisthealing.lessthanhalfhpleft.enemies.damage","剩餘生命低於50%的敵人抵禦治療，且每次抵禦治療，則受到{FIXEDPOWER}傷害，持續{TURNS}回合。"
 "specials.v2.statuseffect.minor.resisthealing.neartotarget.enemies.damage","目標和附近敵人抵禦治療，且每次抵禦治療，則受到{FIXEDPOWER}傷害，持續{TURNS}回合。"
 "specials.v2.statuseffect.minor.resisthealing.sides.enemies.damage","位於敵方陣型邊緣的敵人抵禦治療，且每次抵禦治療，則受到{FIXEDPOWER}傷害，持續{TURNS}回合。"
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage","目標抵禦治療，且每次抵禦治療則受到{FIXEDPOWER}點傷害，持續{TURNS}回合。"
@@ -2575,10 +2619,10 @@
 在強化防禦異常結束、移除或取代後，驅散目標的所有狀態效果增益。"
 "specials.v2.statuseffect.minor.specialskilldefensemodifier.single.enemies.withactivationcount.onremoval.expiration.dispel.removal.override.replacesamestatuseffect.reallocation.removes.statuseffectbuffs.single.allies","強化防禦異常：目標取得{SPECIALSKILLDEFENSE}%對特殊技能的防禦。此效果持續到目標受到{MAXACTIVATIONCOUNT}次特殊技能傷害為止。
 在強化防禦異常結束、移除或取代後，驅散目標的所有狀態效果增益。"
-"specials.v2.statuseffect.minor.spellslay.all.enemies","如果被擊中的敵人具有滿格法力，則自動對被擊中的敵人造成{DAMAGE}點傷害，並消耗其{MANAREDUCTION}%法力，持續{TURNS}個回合。"
-"specials.v2.statuseffect.minor.spellslay.neartotarget.enemies","如果被擊中的敵人具有滿格法力，則自動對被擊中的敵人造成{DAMAGE}點傷害，並消耗其{MANAREDUCTION}%法力，持續{TURNS}個回合。"
-"specials.v2.statuseffect.minor.spellslay.single.enemies","目標法力滿格時，自動對目標造成{DAMAGE}點傷害，並消耗目標的{MANAREDUCTION}%法力，持續{TURNS}個回合。"
-"specials.v2.statuseffect.minor.spellslay.singleandblue.enemies","目標法力滿格時，自動對目標與所有冰雪敵人造成{DAMAGE}點傷害，並使目標法力減少{MANAREDUCTION}%，持續{TURNS}個回合。"
+"specials.v2.statuseffect.minor.spellslay.all.enemies","所有敵人受到{DAMAGE}點傷害，且在接下來{TURNS}回合內，每當其法力值蓄滿時，會失去{MANAREDUCTION}%法力。"
+"specials.v2.statuseffect.minor.spellslay.neartotarget.enemies","目標及其附近敵人受到{DAMAGE}點傷害，且在接下來{TURNS}回合內，每當其法力值蓄滿時，會失去{MANAREDUCTION}%法力。"
+"specials.v2.statuseffect.minor.spellslay.single.enemies","目標受到{DAMAGE}點傷害，且在接下來{TURNS}回合內，每當其法力值蓄滿時，會失去{MANAREDUCTION}%法力。"
+"specials.v2.statuseffect.minor.spellslay.singleandblue.enemies","目標及所有冰雪敵人受到{DAMAGE}點傷害，且在接下來{TURNS}回合內，每當其法力值蓄滿時，會失去{MANAREDUCTION}%法力。"
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies","疊加（上限：{MAXSTACK}）：所有盟友獲得{ATTACK}%攻擊。"
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","疊加（上限：{MAXSTACK}）：施法者獲得{ATTACK}%攻擊。"
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","疊加（上限：{MAXSTACK}）：每摧毀一名小兵，施法者獲得額外{ATTACK}%攻擊。"
@@ -2609,7 +2653,10 @@
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","疊加（上限：{MAXSTACK}）：所有盟友因自身所召喚小兵而獲得{MAXHEALTH}%繼承生命值。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","疊加（最大值：{MAXSTACK}）：所有盟友受到的所有傷害減少{DAMAGEMODIFIER}%。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","疊加（最大值：{MAXSTACK}）：所有敵人受到的所有傷害增加{DAMAGEMODIFIER}%。"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","疊加（最大值：{MAXSTACK}）：剩餘生命低於50%的敵人獲得{DAMAGEMODIFIER}%傷害。"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies.withbasestackcount","疊加+{BASESTACKCOUNT}（最大值：{MAXSTACK}）：生命值低於50%的敵人受到{DAMAGEMODIFIER}%傷害。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease","疊加（最大值：{MAXSTACK}）：施法者和附近盟友受到的所有傷害減少{DAMAGEMODIFIER}%。"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","疊加+{BASESTACKCOUNT}（最大值：{MAXSTACK}）：施法者和附近盟友受到的所有傷害減少{DAMAGEMODIFIER}%。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.enemies","疊加（最大值：{MAXSTACK}）：目標和附近敵人受到的所有傷害增加{DAMAGEMODIFIER}%。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","疊加（最大值：{MAXSTACK}）：施法者受到的所有傷害減少{DAMAGEMODIFIER}%。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","疊加(最大值：{MAXSTACK})：目標受到的所有傷害增加{DAMAGEMODIFIER}%。"
@@ -2628,6 +2675,8 @@
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.druid_thorn","所有盟友獲得{DODGE}%的機率閃避特殊技能，持續{TURNS}個回合。每次閃避都會召喚一個荊刺小兵。"
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.druid_thorn_empowered","所有盟友獲得{DODGE}%的機率可閃避特殊技能，持續{TURNS}個回合。每次閃避都會召喚一個強化荊刺小兵。"
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.sakura_fox","所有盟友都有{DODGE}%的機率閃避特殊技能，持續{TURNS}個回合。每次閃避召喚一個櫻花狐狸小兵。"
+"specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.sakura_fox_costume","所有盟友都有{DODGE}%的機率閃避特殊技能，持續{TURNS}個回合。每次閃避召喚一個櫻花狐狸小兵。"
+"specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_blue_titan","所有盟友獲得{ATTACK}%攻擊，持續{TURNS}回合。對上 冰雪泰坦時，所有盟友獲得{ATTACKAGAINSTVALIDTARGET}%攻擊。"
 "specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_red_titan","所有盟友獲得{ATTACK}%攻擊，持續{TURNS}回合。對上烈火泰坦時，所有盟友獲得{ATTACKAGAINSTVALIDTARGET}%攻擊。"
 "specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_yellow_titan","所有盟友獲得{ATTACK}%攻擊，持續{TURNS}回合。對上神聖泰坦時，所有盟友獲得{ATTACKAGAINSTVALIDTARGET}%攻擊。"
 "specials.v2.statuseffect.minor.taunt.single.allies","施法者受到的嘲諷，可阻止敵人對施法者的盟友使用特殊技能，持續{TURNS}個回合。"
@@ -2654,12 +2703,18 @@
 若岩漿立方被淨化，則擁有者獲得{STATUSEFFECT1MANAREGEN}%法力產出，持續{REMOVALEFFECT2STATUSEFFECT1TURNS}個回合。"
 "specials.v2.statuseffect.minor.underwaterpertile.blue.all.enemies.buffoverride.red.majordebuff","所以敵人受到{BASEDAMAGE}水系傷害，每個面板上的冰雪護盾都會提高{DAMAGEPERTILE}傷害，持續{TURNS}個回合，最大造成{MAXDAMAGE}傷害。所有的烈火敵人都不可淨化此效果。"
 "specials.v2.statuseffect.minor.vengeance.single.allies.onremoval.damage.all.enemies.dispel.removal.specialskill","施法者獲得復仇效果，持續{TURNS}個回合。如果復仇效果被特殊技能驅散，則所有敵人承受{DAMAGE}點傷害。"
+"specials.v2.statuseffect.minor.wildburn.neartotarget.enemies","荒野：持續{TURNS}回合，目標與附近敵人每回合受到{DAMAGEPERTURN}或{WILDDAMAGEPERTURN}點燃燒傷害。"
+"specials.v2.statuseffect.minor.wildhealthrecovery.all.allies","荒野：持續{TURNS}回合，所有盟友每回合回復{HPPERTURN}點生命值，或獲得{WILDHPPERTURN}點強化生命值。"
 "specials.v2.statuseffect.minor.yellowdefensemodifier.all.allies","所有盟友得到對神聖系的{DEFENSE}%防禦，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.yellowdefensemodifier.neartotarget.allies","施法者與附近盟友獲得抵禦{DEFENSE}神聖系的%防禦，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.yellowdefensemodifier.neartotarget.enemies","目標與附近敵人獲得抵禦神聖系的{DEFENSE}%防禦，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.yellowdefensemodifier.single.allies","施法者獲得抵禦神聖系的{DEFENSE}%防禦，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.yellowdefensemodifier.single.enemies","目標獲得抵禦{DEFENSE}神聖系的%防禦，持續{TURNS}個回合。"
+"specials.v2.statuseffect.minor.yellowtrap.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.chain_strike.amplified.against_purple.against_titan.modifies_power","被擊中的敵人受到尖刺陷阱影響。
+尖刺陷阱會賦予其目標{DEFENSE}%對神聖的防禦。對暗黑泰坦時，尖刺陷阱會賦予其目標{AMPLIFIEDDEFENSE}%對神聖的防禦。
+尖刺陷阱會在{TURNS}回合後爆炸，對其所有者造成{DAMAGE}點傷害。"
 "specials.v2.statuseffect.minor.zombiecurse.all.enemies","所有敵人受到僵屍詛咒。受詛咒的敵人被擊敗時，將會爆炸並對其所有盟友造成{EXPLOSIONDAMAGE}傷害。此效果持續{TURNS}個回合。"
+"specials.v2.statuseffect.minor.zombiecurse.neartotarget.enemies","目標與附近敵人受到僵屍詛咒。受詛咒的敵人被擊敗時，將會爆炸並對其所有盟友造成{EXPLOSIONDAMAGE}傷害。此效果持續{TURNS}回合。"
 "specials.v2.statuseffect.permanent.accuracymodifier.purple.allies","所有暗黑英雄獲得{ACCURACY}%精準度。"
 "specials.v2.statuseffect.permanent.attackmodifier.yellow.allies","所有神聖英雄獲得{ATTACK}%攻擊。"
 "specials.v2.statuseffect.permanent.insanity.all.allies","對所有盟友造成{INSANITYTOADD}點瘋狂。"
@@ -2669,10 +2724,10 @@
 增加逆轉特殊技能目標的機率。
 英雄的瘋狂可以透過特殊技能的直接治療來降低。"
 "specials.v2.statuseffect.permanent.insanity.all.enemies","對所有敵人造成{INSANITYTOADD}點瘋狂。"
-"specials.v2.statuseffect.permanent.insanity.allexceptcaster.allies","除了施法者，對所有盟友造成{INSANITYTOADD}點瘋狂。"
+"specials.v2.statuseffect.permanent.insanity.allexceptcaster.allies","施放此特殊技能會對施法者以外的所有盟友造成{INSANITYTOADD}點瘋狂。"
 "specials.v2.statuseffect.permanent.insanity.neartotarget.enemies","對目標和鄰近敵人造成{INSANITYTOADD}點瘋狂。"
-"specials.v2.statuseffect.permanent.insanity.neartotargetexceptcaster.allies","對附近盟友造成{INSANITYTOADD}點瘋狂。"
-"specials.v2.statuseffect.permanent.insanity.single.allies","對施法者造成{INSANITYTOADD}點瘋狂。"
+"specials.v2.statuseffect.permanent.insanity.neartotargetexceptcaster.allies","施放此特殊技能會對附近盟友造成{INSANITYTOADD}點瘋狂。"
+"specials.v2.statuseffect.permanent.insanity.single.allies","施放此特殊技能會對施法者造成{INSANITYTOADD}點瘋狂。"
 "specials.v2.statuseffect.permanent.insanity.single.enemies","對目標造成{INSANITYTOADD}點瘋狂。"
 "specials.v2.statuseffect.permanent.insanity.single.enemies.chain_strike","所有被擊中的目標在每次被擊中時獲得{INSANITYTOADD}點瘋狂。"
 "specials.v2.statuseffect.permanent.insanity.single.enemies.chain_strike.chain_strike_cassilda.on_additional_hit","所有被擊中的目標在每次被擊中時獲得{INSANITYTOADD}點瘋狂。"
@@ -2690,6 +2745,6 @@
 "specials.v2.strongattack.purple","對暗黑造成額外傷害。"
 "specials.v2.strongattack.red","對烈火造成額外傷害。"
 "specials.v2.strongattack.yellow","對神聖造成額外傷害。"
+"specials.v2.toon_tide.immuneelement.purple","所有暗黑盟友與敵人對攻擊免疫。"
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","此效果每個九頭蛇頭小兵只能發生一次。"
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","當九頭蛇頭小兵被擊敗時，一名隨機盟友會收到一個重生九頭蛇頭小兵，其會繼承原始小兵的數值。"
-"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","[#!]疊加+{BASESTACKCOUNT}（最大值：{MAXSTACK}）：[#]施法者和附近盟友受到的所有傷害減少{DAMAGEMODIFIER}%。"

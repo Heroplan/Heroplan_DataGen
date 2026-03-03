@@ -64,6 +64,9 @@
 "herocard.passive_skill.description.effectonheal.addmana","HPが回復するたびに、このキャラクターのマナが{POWER}%増加する。"
 "herocard.passive_skill.description.effectonheal.heal","このキャラクターのライフが回復するたびに、さらにライフが{POWER}%増加する。"
 "herocard.passive_skill.description.effectonhealsupportcharacter.troop.heal","このキャラクターのライフが回復するたびに、さらにライフが{POWER}%増加する。"
+"herocard.passive_skill.description.effectonownerdeath.damage.single.enemies.specialskill.targetattackerside","このキャラクターが特殊スキルによって倒されると、次の効果を発動する：
+攻撃者が{DAMAGE}%ダメージを受ける。
+攻撃者が{TURNS}ターンの間、{STATUSEFFECT1DAMAGE}の出血ダメージを受ける。"
 "herocard.passive_skill.description.effectonresist.activates_on_enemy_action.healthboost.addmana.once","このキャラクターが抵抗に成功すると、そのライフが{HEALTHBOOST}%ブーストされ、マナが{MANA}%増加する。"
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","敵がライフを直接ブーストさせる特殊スキルを使用するたびに、このキャラクターのマナが{POWER}%増加する。"
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.fixedpower.on_healthboost_cast","敵がライフを直接ブーストさせる特殊スキルを使用するたびに、このキャラクターも{POWER}のHPブーストを獲得する。"
@@ -73,6 +76,9 @@
 "herocard.passive_skill.description.effectonspecialskilldamagedone.bufftoremove.minordebuff.from.all.allies.safe.only_criticals","このキャラクターが特殊スキルを使用してクリティカル攻撃を与えると、仲間全員から最新のステータス異常を解除する。"
 "herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals","このキャラクターが特殊スキルでクリティカル攻撃を与えると、仲間全員が{HEALTHBOOST}%のHPボーナスを得る。"
 "herocard.passive_skill.description.effectonspecialskilldamagereceived.healthboost.all.allies.only_criticals","このキャラクターが特殊スキルでクリティカル攻撃を与えると、仲間全員が{HEALTHBOOST}%のHPボーナスを得る。"
+"herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","仲間が特殊スキルを使用した場合：
+このキャラクターがランダムな敵1体に{POWER}%ダメージを与える。
+そのランダムな敵は{DIRECTEFFECT1STATUSEFFECT1TURNS}ターンの間、防御力が{DIRECTEFFECT1STATUSEFFECT1DEFENSE}%になる。"
 "herocard.passive_skill.description.effectonspecialwithchance.activates_on_enemy_action.healthboost.fixedpower","このキャラクターは、敵が特殊スキルを発動した際に{CHANCE}%の確率で自身のライフを{HEALTHBOOST}ブーストさせる。"
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.all.allies","このキャラクターが
 特殊スキルを使用した場合、
@@ -133,6 +139,14 @@
  ミニオンコアをフルチャージすると、術者から継承したHP{FAMILIARHEALTHPERCENT}%、攻撃力{FAMILIARATTACK}%のキラーボットミニオンを仲間全員にサモンする。
  術者から継承するHPと攻撃力はコアのチャージ量に基づいて計算される。コアを起動するとチャージをすべて消費する。
  キラーボットミニオンはターゲットに攻撃を与える前に、ターゲットのミニオンをすべて破壊し、メガミニオンにダメージを与える。"
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always.temp.with.wither","このキャラクターの蓄積コアはミニオンコアだ。
+
+ミニオンコアはこのキャラクターが特殊スキルを使用するたびに発動する：
+
+ ミニオンコアをフルチャージすると、術者から継承したHP{FAMILIARHEALTHPERCENT}%、攻撃力{FAMILIARATTACK}%のキラーボットミニオンを仲間全員にサモンする。
+ 術者から継承するHPと攻撃力はコアのチャージ量に基づいて計算される。コアを起動するとチャージをすべて消費する。
+ キラーボットミニオンはターゲットに攻撃を与える前に、ターゲットのミニオンをすべて破壊し、メガミニオンにダメージを与える。
+ 弱化： キラーボットミニオンの攻撃が当たったターゲットの攻撃力は{ATTACKMODIFIER}になる。"
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.bigminion.decrease","敵のメガミニオンのHPが{HEALTHMODIFIER}%になる。"
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.minion.decrease","敵のミニオンのHPが{HEALTHMODIFIER}%になる。"
 "herocard.passive_skill.description.familiarsilencer.all.enemies.bigminion","敵のメガミニオンが攻撃できず、能力も使用できなくなる。"
@@ -177,7 +191,12 @@
 "herocard.passive_skill.description.memorizestatuseffects#2","このキャラクターは、ステータス異常を記憶する天賦の才能を持つ。特殊スキルが発動されるまで、このキャラクターに発動された最新の{0}個のステータス異常を記憶する（持続型のステータス異常のみ、記憶することができる）。"
 "herocard.passive_skill.description.memorizestatuseffects#3","This character has innate ability to Memorize status ailments. The latest {0} status ailments that are cast on this character will stay memorized until the Special Skill is cast. Only status ailments with a duration can be memorized. (THIRD FORM)"
 "herocard.passive_skill.description.mimiclootonlevelcompleted","チーム内にいるユニークなミミックは、それぞれステージクリア時に追加の略奪アイテムを付与する。このミミックは、以下の追加の略奪アイテムを一定確率で入手する機会を与える。"
+"herocard.passive_skill.description.minioncorruption.all.enemies","各ターン終了時、狂気が付与された敵は一定確率でミニオンをフィエンドに変化させる。
+狂気が{AUTOMATICTRANSFORMINSANITYTHRESHOLD}個累積すると、自動で変化を生じさせる。
+ミニオンがエルドリッチのフィエンドに変化する場合：攻撃力{FAMILIAR1FAMILIARATTACK}%、ライフ{FAMILIAR1FAMILIARHEALTHPERCENT}%、毎ターン{FAMILIAR1INSANITYTOADD}個の狂気を付与する。
+メガミニオンがエルドリッチのメガフィエンドに変化する場合：攻撃力{FAMILIAR2FAMILIARATTACK}%、ライフ{FAMILIAR2FAMILIARHEALTHPERCENT}%、毎ターン{FAMILIAR2INSANITYTOADD}個の狂気を付与する。"
 "herocard.passive_skill.description.nevermissspecial","このキャラクターの特殊スキルはターゲットに必ず命中する。"
+"herocard.passive_skill.description.preventboostedhealth.all.enemies","敵のライフは元の最大値を超えることはできない。"
 "herocard.passive_skill.description.ransack","各ターン開始時に、このキャラクターはランダムな敵1体に強奪を行う：
 
 ライフを{DAMAGE}奪取する。
@@ -217,6 +236,7 @@
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.attackwither.defensewither.alldebuffs.with_chance","すべてのステータス異常、マナ奪取、バフ解除、弱化効果に耐性を持つ確率が、さらに{CHANCE}%上昇する。"
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.insanity.with_chance","すべてのステータス異常、マナ奪取、バフ解除、狂気に耐性を持つ確率が、さらに{CHANCE}%上昇する。"
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance","すべてのステータス異常、マナ奪取、バフ解除に耐性を持つ確率が、さらに{CHANCE}%上昇する。"
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance.with_effect.addmana","すべてのステータス異常、マナ奪取、バフ解除に耐性を持つ確率が、さらに{CHANCE}%上昇する。阻止に成功するたびに、{MANA}%のマナを得る。"
 "herocard.passive_skill.description.resist.alldebuffs.with_chance","すべてのステータス異常に耐性を持つ確率が、さらに{CHANCE}%上昇する。"
 "herocard.passive_skill.description.resist.alldefensemodifiers.alldebuffs","このキャラクターは防御力に影響するステータス異常への耐性を持つ。属性防御力に影響するステータス異常にも適用される。"
 "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.alldebuffs","このキャラクターは防御力に影響するステータス異常、重複効果、弱体効果への耐性を持つ。"
@@ -240,6 +260,12 @@
 "herocard.passive_skill.description.resist.attackmodifiers","このキャラクターは攻撃力に影響するステータス異常への耐性を持つ。"
 "herocard.passive_skill.description.resist.attackmodifiers.allstatuseffectsandstacks","このキャラクターは、攻撃力に影響するすべてのステータス効果と累積への耐性を持つ。対象にはステータス効果バフも含まれる。"
 "herocard.passive_skill.description.resist.attackmodifiers.attackwither.alldebuffs","このキャラクターは攻撃力に影響するステータス異常、重複効果、弱体効果への耐性を持つ。"
+"herocard.passive_skill.description.resist.attackmodifiers.attackwither.attackgrowth.allstatuseffectsandstacks","このキャラクターは攻撃力の増減に影響するステータス効果を無効化する。
+
+これには
+ステータス効果バフやステータス異常、
+プラスやマイナスの累積、
+弱化および成長効果を含む。"
 "herocard.passive_skill.description.resist.bleed","このキャラクターは出血ダメージを与えるステータス異常への耐性を持つ。"
 "herocard.passive_skill.description.resist.bleed.with_effect.healthboost.addmana","このキャラクターは出血ダメージを与えるステータス異常に対する耐性を持つ。これにより、抵抗に成功するたびにライフが{HEALTHBOOST}ブーストされ、さらに{MANA}%のマナも獲得する。"
 "herocard.passive_skill.description.resist.buffdispels","このキャラクターはステータス効果バフを解除する効果への耐性を持つ。"
@@ -375,6 +401,19 @@
 
 開花のメガフィエンド：
 攻撃力{EVOLVINGFAMILIAR3FAMILIARATTACK}%、ライフ{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","毎ターン、ランダムに敵1体に対して苗木のフィエンドをサモンする。
+苗木のフィエンドは{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に新芽のフィエンドに進化する。
+新芽のフィエンドは{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に開花のメガフィエンドに進化する。
+回復を吸収するたびにフィエンドの進化は{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}ターン遅延する。
+
+苗木のフィエンド：
+攻撃力{EVOLVINGFAMILIAR1FAMILIARATTACK}%、ライフ{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%
+
+新芽のフィエンド：
+攻撃力{EVOLVINGFAMILIAR2FAMILIARATTACK}%、ライフ{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%
+
+開花のメガフィエンド：
+攻撃力{EVOLVINGFAMILIAR3FAMILIARATTACK}%、ライフ{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%"
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","毎ターン、ランダムに敵1体に対して苗木のフィエンドをサモンする。このパッシブスキルは各チームにつき1回だけ発動する。
 苗木のフィエンドは{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に新芽のフィエンドに進化する。
 新芽のフィエンドは{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に開花のメガフィエンドに進化する。
@@ -388,32 +427,32 @@
 
 開花のメガフィエンド：
 攻撃力{EVOLVINGFAMILIAR3FAMILIARATTACK}%、ライフ{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","毎ターン、ランダムに敵1体に対して[#!]苗木のフィエンド[#]をサモンする。このパッシブスキルは各チームにつき1回だけ発動する。
-[*][#!]苗木のフィエンド[#]は{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に[#!]新芽のフィエンド[#]に進化する。
-[*][#!]新芽のフィエンド[#]は{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に[#!]開花のメガフィエンド[#]に進化する。
-[*]回復を吸収するたびにフィエンドの進化は{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}ターン遅延する。
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","毎ターン、ランダムに敵1体に対して苗木のフィエンドをサモンする。このパッシブスキルは各チームにつき1回だけ発動する。
+苗木のフィエンドは{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に新芽のフィエンドに進化する。
+新芽のフィエンドは{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に開花のメガフィエンドに進化する。
+回復を吸収するたびにフィエンドの進化は{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}ターン遅延する。
 
-[#!]苗木のフィエンド[#]：
-攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]%
+苗木のフィエンド：
+攻撃力{EVOLVINGFAMILIAR1FAMILIARATTACK}%、ライフ{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%
 
-[#!]新芽のフィエンド[#]：
-攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#]%
+新芽のフィエンド：
+攻撃力{EVOLVINGFAMILIAR2FAMILIARATTACK}%、ライフ{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%
 
-[#!]開花のメガフィエンド[#]：
-攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#]%"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","毎ターン、ランダムに敵1体に対して[#!]苗木のフィエンド[#]をサモンする。このパッシブスキルは各チームにつき1回だけ発動する。
-[*][#!]苗木のフィエンド[#]は{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に[#!]新芽のフィエンド[#]に進化する。
-[*][#!]新芽のフィエンド[#]は{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に[#!]開花のメガフィエンド[#]に進化する。
-[*]回復を吸収するたびにフィエンドの進化は{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}ターン遅延する。
+開花のメガフィエンド：
+攻撃力{EVOLVINGFAMILIAR3FAMILIARATTACK}%、ライフ{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","毎ターン、ランダムに敵1体に対して苗木のフィエンドをサモンする。このパッシブスキルは各チームにつき1回だけ発動する。
+苗木のフィエンドは{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に新芽のフィエンドに進化する。
+新芽のフィエンドは{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に開花のメガフィエンドに進化する。
+回復を吸収するたびにフィエンドの進化は{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}ターン遅延する。
 
-[#!]苗木のフィエンド[#]：
-攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]%
+苗木のフィエンド：
+攻撃力{EVOLVINGFAMILIAR1FAMILIARATTACK}%、ライフ{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%
 
-[#!]新芽のフィエンド[#]：
-攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#]%
+新芽のフィエンド：
+攻撃力{EVOLVINGFAMILIAR2FAMILIARATTACK}%、ライフ{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%
 
-[#!]開花のメガフィエンド[#]：
-攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#]%"
+開花のメガフィエンド：
+攻撃力{EVOLVINGFAMILIAR3FAMILIARATTACK}%、ライフ{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%"
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","このキャラクターが倒れると、このキャラクターの{FAMILIARHEALTHPERCENT}%のHPと{FAMILIARATTACK}%の攻撃力を持つスライムのメガミニオンが、近くにいる仲間のもとにサモンされる。"
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","このキャラクターが倒れると、このキャラクターの{FAMILIARHEALTHPERCENT}%のHPと{FAMILIARATTACK}%の攻撃力を持つスライムのメガミニオンが、近くにいる仲間のもとにサモンされる。"
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","このキャラクターが倒れると、このキャラクターの{FAMILIARHEALTHPERCENT}%のHPと{FAMILIARATTACK}%の攻撃力を持つスライムのメガミニオンが、近くにいる仲間のもとにサモンされる。"
@@ -448,6 +487,7 @@
 "herocard.passive_skill.inactive","無効：発動するには最高レベルに到達し、完全にアセンドする必要がある。"
 "herocard.passive_skill.replace.minordebuff.attackmodifier.to.minorbuff.attackmodifier","{TURNS}ターンの間、攻撃力異常の攻撃力が{ATTACK}%になる。"
 "herocard.passive_skill.replace.minordebuff.buffimmunity.to.minorbuff.debuffshield","{TURNS}ターンの間、バフ耐性異常が異常耐性になる。"
+"herocard.passive_skill.replace.minordebuff.damageovertime.to.minorbuff.fixedhealthrecovery","{TURNS}ターンにわたって回復された{TOTAL}HPに対して、時間経過でダメージを与えるステータス異常を付与する。"
 "herocard.passive_skill.replace.minordebuff.defensemodifier.to.minorbuff.defensemodifier","{TURNS}ターンの間、防御力異常の防御力が{DEFENSE}%になる。"
 "herocard.passive_skill.replace.minordebuff.healingmodifier.to.minorbuff.healmultiplier","{TURNS}ターンの間、回復軽減の回復が{HEALING}%増加する。"
 "herocard.passive_skill.replace.minordebuff.manaeffect.to.minorbuff.managenerationmodifier","{TURNS}ターンの間、{MANAREGEN}%のマナ生成ステータス異常が付与される。"
@@ -514,6 +554,7 @@
 "herocard.passive_skill.title.effectonhealsupportcharacter.troop.heal","回復量増加"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.attackmodifier","マナ減少時のステータス効果"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.yellowdefensemodifier","マナ減少時のステータス効果"
+"herocard.passive_skill.title.effectonownerdeath.damage.statuseffects.bleeding","不名誉な敗北"
 "herocard.passive_skill.title.effectonresist.activates_on_enemy_action.healthboost.addmana.once","抵抗時にライフブースト&マナを獲得"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","特殊スキルでライフブースト時にマナを獲得"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.on_healthboost_cast","敵HPブースト時のセルフHPブースト"
@@ -521,6 +562,7 @@
 "herocard.passive_skill.title.effectonspecialskilldamagedone.bufftoremove.minordebuff.safe.only_criticals","クリティカル特殊攻撃時の浄化"
 "herocard.passive_skill.title.effectonspecialskilldamagedone.healthboost.only_criticals","クリティカル特殊攻撃時のHPブースト"
 "herocard.passive_skill.title.effectonspecialskilldamagereceived.healthboost.only_criticals","クリティカル特殊攻撃時のHPブースト"
+"herocard.passive_skill.title.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.directeffect1_statuseffects.defensemodifier","かじりつき"
 "herocard.passive_skill.title.effectonspecialwithchance.activates_on_enemy_action.healthboost","敵のフルチャージ時にHPブーストを発動"
 "herocard.passive_skill.title.effectonspecialwithchance.addmana","特殊スキルによるマナ"
 "herocard.passive_skill.title.effectonspecialwithchance.bufftoremove.minorbuff.latest","特殊スキルで解除"
@@ -537,6 +579,8 @@
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.managenerationmodifier","特殊スキルによるステータス効果"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.poison","特殊スキルで毒を付与"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.possession","特殊スキル時のマインドレスアタック"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackingdefensemodifier","特殊スキルを累積"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackinghealthgeneration","特殊スキルを累積"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.underwater","一定期間の特殊スキルによるダメージ"
 "herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.damage.faster.average.once","敵が特殊スキル使用時にダメージを付与"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.allbuffs.taunt","マナ挑発"
@@ -561,6 +605,7 @@
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","フィエンドサモン時のマナ"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.damage.enemies.parasite","ペットの怒り"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.healthboost.enemies.parasite","フィエンドサモン時のHPブースト"
+"herocard.passive_skill.title.empowered_toon_resist_manareduction_dispels","アニメスタイル強化"
 "herocard.passive_skill.title.familiaraccuracymodifier.all.enemies.minion.bigminion","ミニオンブラインド"
 "herocard.passive_skill.title.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core","ミニオンコア"
 "herocard.passive_skill.title.familiarhealthmodifier.all.enemies.bigminion.decrease","メガミニオン弱体化"
@@ -597,7 +642,9 @@
 "herocard.passive_skill.title.memorizestatuseffects","ステータス異常を記憶"
 "herocard.passive_skill.title.mimic_dread_damage_minions","恐怖"
 "herocard.passive_skill.title.mimiclootonlevelcompleted","ミミックの戦利品"
+"herocard.passive_skill.title.minioncorruption.all.enemies","ミニオンの堕落"
 "herocard.passive_skill.title.nevermissspecial","百発百中の命中率"
+"herocard.passive_skill.title.preventboostedhealth.all.enemies","回復ブーストを無効化する"
 "herocard.passive_skill.title.ransack","盗人の好機"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","バフ奪取"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","ハンターの勘"
@@ -651,6 +698,8 @@
 "herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","強化特殊スキルブロック耐性"
 "herocard.passive_skill.title.resist.stopmanageneration","マナ生成停止耐性"
 "herocard.passive_skill.title.resist.water","水耐性"
+"herocard.passive_skill.title.resist_all_attack_effects","トレーラー：
+小さなフレーム"
 "herocard.passive_skill.title.resist_all_defense_effects","特性：
 柔軟な体"
 "herocard.passive_skill.title.resistdebuffsfromfamiliars.minion","ミニオンからのステータス異常に抵抗"
@@ -709,6 +758,9 @@
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","異常からのマナ生成バフ"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","エレメントマスク"
 "herocard.passive_skill.title.stylish","スタイリッシュ！"
+"herocard.passive_skill.title.stylish_epic","スタイリッシュ！"
+"herocard.passive_skill.title.stylish_legendary","スタイリッシュ！"
+"herocard.passive_skill.title.stylish_rare","スタイリッシュ！"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","苗木の召喚者"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","苗木の召喚者"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","苗木の召喚者"
@@ -745,16 +797,3 @@
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","バフ変化"
 "herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","ステータス異常変化"
 "herocard.passive_skill.title.wither.all.enemies","弱化"
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","毎ターン、ランダムに敵1体に対して[#!]苗木のフィエンド[#]をサモンする。
-[*][#!]苗木のフィエンド[#]は{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に[#!]新芽のフィエンド[#]に進化する。
-[*][#!]新芽のフィエンド[#]は{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に[#!]開花のメガフィエンド[#]に進化する。
-[*]回復を吸収するたびにフィエンドの進化は{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}ターン遅延する。
-
-[#!]苗木のフィエンド[#]：
-攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]%
-
-[#!]新芽のフィエンド[#]：
-攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#]%
-
-[#!]開花のメガフィエンド[#]：
-攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#]%"

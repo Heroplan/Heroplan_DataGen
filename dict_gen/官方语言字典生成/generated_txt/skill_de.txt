@@ -38,6 +38,7 @@ Der Hecht-Megafeind absorbiert Heilung und verschwindet, wenn er Leben in Höhe 
 "specials.v2.clearbuffs.minorbuff.neartotarget.enemies","Entfernt Boni vom Ziel und nahen Gegnern."
 "specials.v2.clearbuffs.minorbuff.sides.enemies","Bannt Boni von Gegnern am Rand der gegnerischen Formation."
 "specials.v2.clearbuffs.minorbuff.single.enemies","Entfernt Boni vom Ziel."
+"specials.v2.clearbuffs.minorbuff.single.enemies.bypassremoveeffects","Entfernt sicher Boni vom Ziel."
 "specials.v2.clearbuffs.minordebuff.all.allies","Reinigt negative Statusänderungen von allen Verbündeten."
 "specials.v2.clearbuffs.minordebuff.all.allies.latest","Reinigt die neueste säuberbare negative Statusänderung von allen Verbündeten."
 "specials.v2.clearbuffs.minordebuff.neartotarget.allies","Reinigt negative Statusänderungen vom Wirker und nahen Verbündeten."
@@ -93,6 +94,8 @@ Der Hecht-Megafeind absorbiert Heilung und verschwindet, wenn er Leben in Höhe 
 "specials.v2.directeffect.reducemaxhealth.all.enemies.fixedpower","Verringert das maximale Leben aller Gegner um {REDUCTION}. Der Effekt wirkt stärker gegen Ziele mit verstärktem Leben."
 "specials.v2.directeffect.revival.all.allies.with_chance","Jeder besiegte Held hat eine {CHANCE} %-Chance, mit {HEALTH} % LP wiederbelebt zu werden."
 "specials.v2.directeffect.shufflepositions.all.enemies","Ordnet die Positionen des Feindes zufällig neu an."
+"specials.v2.dispel.minorbuff.chain_strike","Entfernt {REMOVALCOUNT} Boni von jedem getroffenen Gegner."
+"specials.v2.dispel.minorbuff.safe.chain_strike","Entfernt sicher Boni von jedem getroffenen Gegner."
 "specials.v2.familiars.statuseffect","{0}"
 "specials.v2.follower.follower_dragon_mordax.single.multiplepercharacter","Beschwört {FAMILIARAMOUNT} Hydraköpfe mit {FAMILIARHEALTH} LP für den Wirker. Das Beschwören von Hydraköpfen kann nicht verhindert werden und beim Diebstahl eines Hydrakopfs wird dieser getötet."
 "specials.v2.follower.follower_moreau.single.multiplepercharacter","Beschwört {FAMILIARAMOUNT} Schutzkristalle mit {FAMILIARHEALTH} LP für den Wirker. Das Beschwören von Schutzkristallen kann nicht verhindert werden und beim Diebstahl eines Schutzkristalls wird dieser getötet."
@@ -135,9 +138,8 @@ Jeder Treffer eines Bienenlakaien verleiht dem Ziel folgende negative Statusänd
 "specials.v2.minion.bone_skull_minion.explode","Wenn der Knochenschädel-Lakai zerstört wird, fügt er allen Gegnern {FAMILIARFIXEDEXPLOSIONDAMAGE} Schaden zu."
 "specials.v2.minion.brown_puppy.all","Beschwört einen braunen Welpen-Lakaien für jeden Verbündeten mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % des Angriffs des Wirkers."
 "specials.v2.minion.bull.single.multiplepercharacter","Beschwört für den Wirker 3 Stierlakaien. Der Stierlakai übernimmt {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff des Wirkers."
-"specials.v2.minion.butterfly.all","Beschwört einen Schmetterlingslakaien für jeden Verbündeten mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff vom Wirker.
-
-Jeder Treffer eines Schmetterlingslakaien verleiht dem Ziel folgende negative Statusänderung:"
+"specials.v2.minion.butterfly.all","Beschwört für jeden Verbündeten einen Schmetterlingslakai mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff, die er vom Wirker bekommt.
+ Jeder Treffer eines Schmetterlingslakais gibt dem Ziel den folgenden Statuseffekt:"
 "specials.v2.minion.card_soldier.single","Beschwört einen Spielkartenlakaien mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff des Wirkers."
 "specials.v2.minion.card_soldier_costume.single","Beschwört einen Spielkartenlakaien mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff des Wirkers."
 "specials.v2.minion.card_soldier_no_taunt.single","Beschwört einen Spielkartenlakaien mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff des Wirkers."
@@ -177,9 +179,8 @@ Der Schlauer-Fuchs-Lakai hat eine Chance von {FAMILIARDODGECHANCE} %, eintreffe
 "specials.v2.minion.gargoyle_minion.all","Beschwört für jeden Verbündeten einen Gargoyle-Lakaien. Der Gargoyle-Lakai übernimmt {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff des Wirkers."
 "specials.v2.minion.grimoire.all","Beschwört für alle Verbündeten einen Grimoire-Lakaien mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff des Wirkers."
 "specials.v2.minion.guardian_minion_delilah_costume.all","Beschwört einen Wächterlakaien für jeden Verbündeten mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % des Angriffs des Wirkers."
-"specials.v2.minion.harpoon_sentry.all","Beschwört einen Harpunenwächter-Lakaien für jeden Verbündeten mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff vom Wirker.
-
-Jeder Treffer eines Harpunenwächter-Lakaien senkt das Mana des Ziels um {FAMILIARADDMANA} % und verleiht dem Ziel folgende negativen Statusänderungen:"
+"specials.v2.minion.harpoon_sentry.all","Beschwört für jeden Verbündeten einen Harpunenwächter-Lakai mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff, die er vom Wirker bekommt.
+ Jeder Treffer eines Harpunenwächter-Lakais verringert das Mana des Ziels um {FAMILIARADDMANA} % und gibt dem Ziel die folgenden Statusänderungen:"
 "specials.v2.minion.holy.all","Beschwört für alle Verbündeten einen Licht-Lakaien mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff des Wirkers."
 "specials.v2.minion.holy.yellow","Die elementare Verbindung beschwört einen Licht-Lakaien für alle Licht-Verbündeten mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff des Wirkers."
 "specials.v2.minion.holy_god_delilah.all","Beschwört einen Wächterlakaien für jeden Verbündeten mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % des Angriffs des Wirkers."
@@ -241,6 +242,7 @@ Der Rabenlakai gewährt allen anderen Lakaien seines Besitzers {ATTACK} % Angri
 "specials.v2.minion.rock_golem_minion.all","Beschwört einen Felsgolem-Lakaien für jeden Verbündeten mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % des Angriffs des Wirkers."
 "specials.v2.minion.sakura_fox","Sakura-Fuchs-Lakai erhält {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff des Wirkers. Der Lakai gibt dem Besitzer am Ende jedes Zugs {FAMILIARADDMANA} % Mana zusätzlich."
 "specials.v2.minion.sakura_fox.neartotarget","Beschwört einen Sakura-Fuchs-Lakaien für den Wirker und nahe Verbündete. Sakura-Fuchs-Lakai erhält {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff des Wirkers. Der Lakai gibt dem Besitzer am Ende jedes Zugs {FAMILIARADDMANA} % Mana zusätzlich."
+"specials.v2.minion.sakura_fox_costume","Beschwört einen Sakura-Fuchs-Lakaien für den Wirker und nahe Verbündete. Sakura-Fuchs-Lakai erhält {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff des Wirkers. Der Lakai gibt dem Besitzer am Ende jedes Zugs {FAMILIARADDMANA} % Mana zusätzlich."
 "specials.v2.minion.sakura_fox_costume.neartotarget","Beschwört einen Sakura-Fuchs-Lakaien für den Wirker und nahe Verbündete. Sakura-Fuchs-Lakai erhält {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff des Wirkers. Der Lakai gibt dem Besitzer am Ende jedes Zugs {FAMILIARADDMANA} % Mana zusätzlich."
 "specials.v2.minion.sand_golem.all","Beschwört einen Sandgolem-Lakaien für jeden Verbündeten mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % des Angriffs des Wirkers."
 "specials.v2.minion.sand_golem_papyros_costume.all","Beschwört einen Sandgolem-Lakaien für jeden Verbündeten mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % des Angriffs des Wirkers."
@@ -272,9 +274,8 @@ Der Rabenlakai gewährt allen anderen Lakaien seines Besitzers {ATTACK} % Angri
 "specials.v2.minion.wu_soldier.all","Beschwört einen Wu-Soldaten-Lakaien für jeden Verbündeten mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % des Angriffs des Wirkers."
 "specials.v2.minion.wu_soldier.single","Beschwört einen Wu-Soldaten-Lakaien mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % des Angriffs des Wirkers."
 "specials.v2.minion.wu_soldier_costumes.all","Beschwört einen Wu-Soldaten-Lakaien für jeden Verbündeten mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % des Angriffs des Wirkers."
-"specials.v2.minion.xulu_minion.all","Beschwört einen Xulu-Lakaien für jeden Verbündeten mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff vom Wirker.
-
-Jeder Treffer eines Xulu-Lakaien verleiht dem Ziel folgende negative Statusänderung:"
+"specials.v2.minion.xulu_minion.all","Beschwört für jeden Verbündeten einen Xulu-Lakai mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff, die er vom Wirker übernimmt.
+ Jeder Treffer eines Xulu-Lakais gibt dem Ziel die folgende Statusänderung:"
 "specials.v2.moreau_parasite.summonedbyfamiliar","Der Überbleibselschatten-Feind greift sein Ziel mit {FAMILIARATTACK} % Angriff bei jedem Zug an.
 Der Überbleibselschatten-Feind absorbiert Heilung. Er verschwindet, wenn er Leben in Höhe von {FAMILIARHEALTHPERCENT} % des max. Lebens des Ziels aufgenommen hat."
 "specials.v2.moreau_parasite.to.single.enemies.summonedby.follower_moreau.hasturns","Der Schutzkristall beschwört für jeden Gegner einen Überbleibselschatten alle {FAMILIAREFFECTFREQUENCY} Züge."
@@ -500,12 +501,15 @@ Statuseffekte, die die erhaltene Heilung beeinflussen, wirken sich auf die Heilu
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets","Verursacht {DAMAGE} % Schaden am Ziel und an {MAXHITS} zufälligen Gegnern."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.minordamage.with_chance","Hat {CHANCE} % Chance auf zusätzliche Treffer bis zu {MAXHITS}-mal bei zufälligen Gegnern. Zusätzliche Treffer fügen geringen Schaden zu."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets.randommaintarget","Verursacht {DAMAGE} % Schaden an {TOTALMAXHITS} zufälligen Gegnern."
+"specials.v2.property.chainstrike.allowmaintargetinrandomtargets.with_chance","Hat {CHANCE} % Chance auf zusätzliche Treffer bis zu {MAXHITS}-mal bei zufälligen Gegnern."
 "specials.v2.property.chainstrike.minordamage","Verursacht zusätzlich geringen Schaden an {MAXHITS} zufälligen Gegnern."
 "specials.v2.property.chainstrike.minordamage.with_chance","Hat {CHANCE} % Chance auf zusätzliche Treffer bis zu {MAXHITS}-mal bei zufälligen Gegnern. Zusätzliche Treffer fügen geringen Schaden zu."
 "specials.v2.property.chainstrike.randommaintarget","Verursacht {DAMAGE} % Schaden an {TOTALMAXHITS} zufälligen Gegnern."
 "specials.v2.property.chainstrikewitheffectonsametargethits.addmana.single.allies.2_outof_2","Der Wirker erhält {EXTRAEFFECTPOWER} % Mana, wenn beide Angriffe das gleiche Ziel treffen."
 "specials.v2.property.chainstrikewitheffectonsametargethits.allowmaintargetinrandomtargets.onehit","Fügt einem zufälligen Gegner {DAMAGE} % Schaden zu."
-"specials.v2.property.chainstrikewitheffectperhit.addmana.all.allies.minordamage.with_chance","Hat {CHANCE} % Chance auf zusätzliche Treffer bis zu {MAXHITS}-mal bei zufälligen Gegnern. Zusätzliche Treffer fügen geringen Schaden zu.
+"specials.v2.property.chainstrikewitheffectperhit.addmana.all.allies.moderate.minordamage.with_chance","Hat {CHANCE} % Chance auf zusätzliche Treffer bis zu {MAXHITS}-mal bei zufälligen Gegnern. Zusätzliche Treffer fügen geringen Schaden zu.
+ Alle Verbündeten erhalten für jeden Treffer eine mittelgroße Menge Mana."
+"specials.v2.property.chainstrikewitheffectperhit.addmana.all.allies.small.minordamage.with_chance","Hat {CHANCE} % Chance auf zusätzliche Treffer bis zu {MAXHITS}-mal bei zufälligen Gegnern. Zusätzliche Treffer fügen geringen Schaden zu.
  Alle Verbündeten erhalten für jeden Treffer eine kleine Menge Mana."
 "specials.v2.property.chainstrikewitheffectperhit.all.allies.minordamage.with_chance","Hat {CHANCE} % Chance auf zusätzliche Treffer bis zu {MAXHITS}-mal bei zufälligen Gegnern. Zusätzliche Treffer fügen geringen Schaden zu."
 "specials.v2.property.chainstrikewitheffectperhit.damage.statuseffect.single.enemies.with_chance","Hat {CHANCE} % Chance auf zusätzliche Treffer bis zu {MAXHITS}-mal bei zufälligen Gegnern."
@@ -521,7 +525,7 @@ Statuseffekte, die die erhaltene Heilung beeinflussen, wirken sich auf die Heilu
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite","Verursacht {DAMAGE} % Schaden am Ziel und an {MAXHITS} zufälligen Gegnern.
 Beschwört einen Setzling-Feind für jeden getroffenen Gegner."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.evolving_seedling_parasite_with_delay","Verursacht {DAMAGE} % Schaden am Ziel und an {MAXHITS} zufälligen Gegnern.
-[*]Beschwört einen [#!]Setzling-Feind[#] für jeden getroffenen Gegner."
+Beschwört einen Setzling-Feind für jeden getroffenen Gegner."
 "specials.v2.property.chainstrikewithfamiliarsummontohittargets.missile_parasite","Verursacht {DAMAGE} % Schaden am Ziel und {MAXHITS} zufälligen Gegnern.
 Beschwört einen Geschoss-Feind, um Gegner zu treffen. Der Feind greift den Gegner mit {FAMILIARATTACK} % Angriff bei jedem Zug an.
 Der Geschoss-Feind absorbiert Heilung und verschwindet, wenn er Leben in Höhe von {FAMILIARHEALTHPERCENT} % des max. Lebens des Besitzers aufgenommen hat."
@@ -640,6 +644,7 @@ Schattenwürfel verringern das maximale Leben des Ziels um {REDUCTION}. Der Effe
 "specials.v2.property.effectonkill.statuseffect.managenerationmodifier.neartotarget.allies","Wenn das Ziel mit dem Angriff besiegt wird, erhalten der Wirker und nahe Verbündete {STATUSEFFECT1MANAREGEN} % Manaregeneration für {STATUSEFFECT1TURNS} Züge."
 "specials.v2.property.effectonkill.statuseffect.managenerationmodifier.single.allies","Wenn das Ziel mit dem Angriff besiegt wird, erhält der Wirker {STATUSEFFECT1MANAREGEN} % Manaregeneration für {STATUSEFFECT1TURNS} Züge."
 "specials.v2.property.effectonremovedstatuseffectspertarget.minordebuff.all.allies.effectonremoval.addmana.single","Reinigt alle negativen Statusänderungen aller Verbündeten und erhöht das Mana aller Verbündeten um {POWER} % für jede gereinigte negative Statusänderung."
+"specials.v2.property.effectonremovestatuseffectsandbasemodifiers.all.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth","Sammelt Buffs von allen Gegnern."
 "specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra","Ernte entfernt {MAXREMOVALCOUNT} Boni, positive Stapel oder Wachstumseffekte sicher von jedem Ziel. Dazu zählen auch nicht bannbare Boni und Tanzeffekte.
 Der Wirker erhält {HEALTHBOOST} % verstärktes Leben für jeden entfernten Effekt. Das verstärkte Leben kann die max. LP übersteigen.
 
@@ -669,6 +674,7 @@ Verwelken-Effekte werden zuerst entfernt. Für alle anderen Effekte gilt: Der ne
 "specials.v2.property.effectpereatenfamiliar.damage.all.enemies.permil.minion.follower.minion.follower","Fügt allen Gegnern pro zerstörtem Lakaien zusätzlich {DAMAGE} % Schaden zu."
 "specials.v2.property.effectpereatenfamiliar.heal.all.allies.fixed.minion.follower","Alle Verbündeten erhalten {HEALTHPERFAMILIAR} LP für jeden zerstörten Lakaien zurück."
 "specials.v2.property.effectpereatenfamiliar.heal.all.allies.permil.minion.follower","Alle Verbündeten erhalten {HEALTHPERFAMILIAR} % Leben für jeden zerstörten Lakaien zurück."
+"specials.v2.property.effectpereatenfamiliar.heal.all.allies.permil.minion.parasite","Alle Verbündeten erhalten pro zerstörtem Lakai und Feind {HEALTHPERFAMILIAR} % Leben zurück."
 "specials.v2.property.effectpereatenfamiliar.heal.neartotarget.allies.fixed","Der Wirker und nahe Verbündete erhalten {HEALTHPERFAMILIAR} LP für jeden zerstörten Lakaien zurück."
 "specials.v2.property.effectpereatenfamiliar.heal.neartotarget.allies.permil","Der Wirker und nahe Verbündete erhalten {HEALTHPERFAMILIAR} % Leben für jeden zerstörten Lakaien zurück."
 "specials.v2.property.effectpereatenfamiliar.heal.single.allies.fixed","Der Wirker stellt {HEALTHPERFAMILIAR} LP für jeden zerstörten Lakaien wiederher."
@@ -696,6 +702,7 @@ Alle Verbündeten stellen zusätzlich {POWERPERFAMILIAR} % Leben für jeden Fei
 "specials.v2.property.effectperremovedstatuseffect.addmana.neartotarget.enemies.no_base_effect","Verringert das Mana des Ziels und naher Gegner um {POWERPEREFFECT} % für jeden entfernten Statuseffekt, bis zu insgesamt {MAXPOWER} %."
 "specials.v2.property.effectperremovedstatuseffect.damage.all.enemies","Fügt allen Gegnern {BASEPOWER} % Schaden zu.
 Fügt zusätzlich {POWERPEREFFECT} % Schaden pro entferntem Statuseffekt zu – bis zu {MAXPOWER} % Schaden insgesamt."
+"specials.v2.property.effectperremovedstatuseffect.damage.single.enemies","Verursacht {BASEPOWER} % Schaden am Ziel. Verursacht zusätzlich {POWERPEREFFECT} % Schaden pro entfernter Statusänderung, bis zu insgesamt {MAXPOWER} % Schaden."
 "specials.v2.property.effectperremovedstatuseffect.heal.all.allies","Stellt {BASEPOWER} % Leben für alle Verbündeten wiederher.
 Stellt zusätzlich {POWERPEREFFECT} % Leben pro entferntem Statuseffekt wiederher, bis zu insgesamt {MAXPOWER} % Leben."
 "specials.v2.property.effectperremovedstatuseffect.heal.all.allies.no_base_effect","Stellt {POWERPEREFFECT} % Leben pro jedem entfernten Statuseffekt bei allen Verbündeten wieder her, bis zu insgesamt {MAXPOWER} % Leben."
@@ -845,7 +852,7 @@ Wachstum und Verwelken wirken sich auf die Schadensberechnung aus.
 Boni und negative Statusänderungen, die Angriff und Verteidigung betreffen, wirken sich nicht auf die Schadensberechnung aus."
 "specials.v2.property.pre.alwayshit","Diese Spezialfähigkeit verfehlt ihre Ziele nie."
 "specials.v2.property.pre.eatfamiliars.all.allies.parasite","Zerstört alle Feinde von allen Verbündeten."
-"specials.v2.property.pre.eatfamiliars.all.allies.parasite.bigparasite","Zerstört alle Feinde aller Verbündeten. Dieser Effekt fügt Megafeinden Schaden zu."
+"specials.v2.property.pre.eatfamiliars.all.allies.parasite.bigparasite","Vernichtet alle Feinde von allen Verbündeten und fügt allen Mega-Feinden Schaden zu."
 "specials.v2.property.pre.eatfamiliars.all.allies.parasite.replacewith.gargoyle_minion","Ersetzt alle Feinde von Verbündeten mit Gargoyle-Lakaien."
 "specials.v2.property.pre.eatfamiliars.all.allies.parasite.replacewith.jellyfish_minion","Ersetzt alle Feinde von Verbündeten mit Quallen-Lakaien."
 "specials.v2.property.pre.eatfamiliars.all.allies.parasite.replacewith.jellyfish_minion_costume2","Ersetzt alle Feinde von Verbündeten mit Quallen-Lakaien."
@@ -934,7 +941,7 @@ Beim sicheren Stehlen werden sekundäre Effekte wie Schaden bei Entfernung von d
 "specials.v2.property.removestatuseffectsandbasemodifiers.single.allies.allstatuseffectsandstacks","Wirkt Vollständige Entfernung auf den Wirker."
 "specials.v2.property.removestatuseffectsandbasemodifiers.single.enemies.allstatuseffectsandstacks","Wirkt Vollständige Entfernung auf das Ziel."
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.sides.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","Fügt Gegnern am Rand der gegnerischen Formation {POWER} % Geisterhieb-Schaden zu. Geisterhieb entfernt sicher Buffs, ehe der Schaden verursacht wird."
-"specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.single.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","Fügt dem Ziel {POWER} % [#!]Geisterhieb[#]-Schaden zu. [#!]Geisterhieb[#] entfernt sicher Buffs, ehe der Schaden verursacht wird."
+"specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectbuffs.single.enemies.bypassremoveeffects.effectonremoval.damage.has_base_power.power_changes_per_removed_status_from_target","Fügt dem Ziel {POWER} % Geisterhieb-Schaden zu. Geisterhieb entfernt sicher Buffs, ehe der Schaden verursacht wird."
 "specials.v2.property.removestatuseffectswitheffectpertarget.flavor_spirit.statuseffectdebuffs.neartotarget.allies.bypassremoveeffects.effectonremoval.healthboost.has_base_power.power_changes_per_removed_status_from_target","Verstärkt die Gesundheit des Wirkers und Verbündeter in der Nähe mit Geisteraura um {FIXEDPOWER}. Geisteraura entfernt sicher negative Statusänderungen, bevor die Gesundheit erhöht wird."
 "specials.v2.property.removestatuseffectswitheffectpertarget.minordebuff.all.allies.effectonremoval.addmana.power_changes_per_removed_status_from_target","Reinigt alle negativen Statusänderungen aller Verbündeten auf sichere Weise und erhöht das Mana aller Verbündeten um {POWERPERREMOVALFROMTARGET} % für jede gereinigte negative Statusänderung."
 "specials.v2.property.removestatuseffectswitheffectpertarget.statuseffectbuffs.extra","Für jeden entfernten Bonus wird der Schaden um {POWERPERREMOVALFROMTARGET} % reduziert.
@@ -970,6 +977,7 @@ Jeder Lichtschild auf dem Spielfeld erhöht die Chance, wiederbelebt zu werden, 
 "specials.v2.property.secondarydirecteffect.damage.all.enemies","Verursacht {SECONDARYPOWER} % Schaden bei allen Gegnern."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_abigail","Verursacht {SECONDARYPOWER} % Schaden bei allen Gegnern und fügt ihnen {STATUSEFFECT1INSANITYTOADD} Wahnsinn zu."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_ambrose","Verursacht {SECONDARYPOWER} % Schaden bei allen Gegnern und fügt ihnen {STATUSEFFECT1INSANITYTOADD} Wahnsinn zu."
+"specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_azureus","Verursacht {SECONDARYPOWER} % Schaden bei allen Gegnern und fügt ihnen {STATUSEFFECT1INSANITYTOADD} Wahnsinn zu."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_cultist_villager_female","Verursacht {SECONDARYPOWER} % Schaden bei allen Gegnern und fügt ihnen {STATUSEFFECT1INSANITYTOADD} Wahnsinn zu."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_gwendoline_changed_appearance","Verursacht {SECONDARYPOWER} % Schaden bei allen Gegnern und fügt ihnen {STATUSEFFECT1INSANITYTOADD} Wahnsinn zu."
 "specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_on_damage_khatrox","Verursacht {SECONDARYPOWER} % Schaden bei allen Gegnern und fügt ihnen {STATUSEFFECT1INSANITYTOADD} Wahnsinn zu."
@@ -1058,6 +1066,7 @@ Wenn das Ziel keine Spezialfähigkeit besitzt oder diese nicht kopiert werden ka
 "specials.v2.property.statuseffectreallocation.from.all.enemies.to.single.allies","Überträgt alle bannbaren Boni von allen Gegnern auf den Wirker."
 "specials.v2.property.statuseffectreallocation.from.neartotarget.allies.to.all.enemies","Nimmt alle säuberbaren negativen Statusänderungen vom Wirker und nahen Verbündeten und verteilt sie zufällig auf die Gegner."
 "specials.v2.property.statuseffectreallocation.from.neartotarget.enemies.to.all.allies","Stiehlt alle bannbaren Boni vom Ziel und nahen Feinden und verteilt sie zufällig auf Verbündete."
+"specials.v2.property.statuseffectreallocation.from.neartotarget.enemies.to.all.allies.customreallocationcount.multiple","Stiehlt {CUSTOMREALLOCATIONCOUNT} zufällige entfernbare Buffs vom Ziel und nahen Gegnern und verteilt sie nach dem Zufallsprinzip auf Verbündete."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.all.allies","Stiehlt alle bannbaren Boni vom Ziel und verteilt sie zufällig auf Verbündete."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.neartotarget.allies","Stiehlt alle bannbaren Boni vom Ziel und verteilt sie zufällig auf den Wirker und Verbündete in der Nähe."
 "specials.v2.property.statuseffectreallocation.from.single.enemies.to.single.allies.customreallocationcount","Stiehlt dem Ziel den letzten bannbaren Bonus und schenkt ihn dem Wirker."
@@ -1079,6 +1088,7 @@ Fügt zusätzlich {POWERPERALLOCATION} % Schaden pro übertragenem Statuseffekt
 "specials.v2.property.statuseffectreallocationwithfallbackeffect.from.all.enemies.to.all.allies.customreallocationcount","Stiehlt den letzten bannbaren Statuseffekt-Bonus von allen Gegnern und verteilt ihn zufällig auf Verbündete."
 "specials.v2.property.statuseffecttagconditionrepeatspecial.extra","Wenn das Ziel besiegt wurde, wird die Spezialfähigkeit nicht erneut gewirkt."
 "specials.v2.property.statuseffecttagconditionrepeatspecial.freezing_power_hooks.random","Wenn das Ziel mit Frost belegt wurde, wird auf ein zufälliges Ziel einmal erneut Einfrierende Krafthaken gewirkt."
+"specials.v2.property.statuseffecttagconditionrepeatspecial.the_scent_of_blood","Wenn das Ziel mit Blutung belegt wurde, wird einmal erneut Der Geruch von Blut auf es gewirkt."
 "specials.v2.property.statuseffecttransform.all.allies.minordebuff.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Alle Änderungen, die den Angriff, die Verteidigung und die Manaregeneration aller Verbündeten beeinträchtigen, werden in passende, nicht bannbare Buffs verwandelt."
 "specials.v2.property.statuseffecttransform.all.enemies.minorbuff.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Alle Boni, die den Angriff, die Verteidigung und die Manaerzeugung aller Gegner beeinflussen, werden in entsprechende nicht zu reinigende Änderungen verwandelt."
 "specials.v2.property.statuseffecttransform.minorbuff.attackmodifier.defensemodifier.managenerationmodifier.extra","Die Verwandlung kann nicht durch Statuseffekte, Familieneffekte oder Passive blockiert werden.
@@ -1110,28 +1120,28 @@ Gegner mit Lakaien oder Mega-Lakaien erhalten {STATUSEFFECT1DEFENSE} % Verteidi
 Gegner mit Lakaien oder Mega-Lakaien erhalten {STATUSEFFECT1DEFENSE} % Verteidigung für {STATUSEFFECT1TURNS} Züge."
 "specials.v2.property.superscratch.target_defensive_buffs.statuseffects.brittle_superscratch.extra","Verursacht {POWERFORTARGETSTHATMEETCONDITION} % Schaden gegen Gegner mit Verteidigungsboni, Lakaien oder Mega-Lakaien.
 Gegner mit Verteidigungsboni, Lakaien oder Mega-Lakaien erhalten {STATUSEFFECT1DEFENSE} % Verteidigung für {STATUSEFFECT1TURNS} Züge."
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","Der [#!]Setzling-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem [#!]Spross-Feind[#].
-[*]Der [#!]Wurzelfresser-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem [#!]Mega-Blütenfeind[#].
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra","Der Setzling-Feind entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem Spross-Feind.
+Der Wurzelfresser-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
 
-[*] [#!]Setzling-Feind[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] Gesundheit.
-[*] [#!]Spross-Feind[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] Gesundheit.
-[*] [#!]Mega-Blütenfeind[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] Gesundheit.
+ Setzling-Feind: {EVOLVINGFAMILIAR1FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % Gesundheit.
+ Spross-Feind: {EVOLVINGFAMILIAR2FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % Gesundheit.
+ Mega-Blütenfeind: {EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Gesundheit.
 
-[*]Ein Feind fügt seinem Ziel jede Runde Schaden zu. Ein Feind verschwindet, nachdem er Heilung absorbiert hat. Die erforderliche Heilungsmenge hängt vom max. Leben des Ziels ab.
-[*]Die Entwicklung  der Feinde wird jedes Mal, wenn sie Heilung absorbieren, um {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} Runden verzögert."
+Ein Feind fügt seinem Ziel jede Runde Schaden zu. Ein Feind verschwindet, nachdem er Heilung absorbiert hat. Die erforderliche Heilungsmenge hängt vom max. Leben des Ziels ab.
+Die Entwicklung  der Feinde wird jedes Mal, wenn sie Heilung absorbieren, um {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} Runden verzögert."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","Wenn das Ziel über Feinde oder Mega-Feinde verfügt, wird einem zufälligen anderen Gegner {DAMAGE} % Schaden zugefügt.
 Beschwört einen Setzling-Feind für jeden getroffenen Gegner."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","Wenn das Ziel über Feinde oder Mega-Feinde verfügt, wird einem zufälligen anderen Gegner {DAMAGE} % Schaden zugefügt.
 Beschwört einen Setzling-Feind für jeden getroffenen Gegner."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.parasite.bigparasite.evolving_root_rot_fiend","Wenn das Ziel über Feinde oder Mega-Feinde verfügt, wird einem zufälligen anderen Gegner {DAMAGE} % Schaden zugefügt.
 Beschwört einen Setzling-Feind für jeden getroffenen Gegner."
-"specials.v2.property.targethealthdependantextradamage.over_health_boundary.all","Fügt Gegnern {DAMAGEMULTIPLIER} % Schaden zu, wenn sie mehr als {HEALTHBOUNDARY} % Leben haben."
-"specials.v2.property.targethealthdependantextradamage.over_health_boundary.neartotarget","Fügt Gegnern {DAMAGEMULTIPLIER} % Schaden zu, wenn sie mehr als {HEALTHBOUNDARY} % Leben haben."
-"specials.v2.property.targethealthdependantextradamage.over_health_boundary.single","Fügt {DAMAGEMULTIPLIER} % Schaden zu, wenn das Ziel noch mehr als {HEALTHBOUNDARY} % Leben hat."
-"specials.v2.property.targethealthdependantextradamage.under_health_boundary.all","Fügt Gegnern {DAMAGEMULTIPLIER} % Schaden zu, wenn sie weniger als {HEALTHBOUNDARY} % Leben haben."
-"specials.v2.property.targethealthdependantextradamage.under_health_boundary.neartotarget","Fügt Gegnern {DAMAGEMULTIPLIER} % Schaden zu, wenn sie weniger als {HEALTHBOUNDARY} % Leben haben."
+"specials.v2.property.targethealthdependantextradamage.over_health_boundary.all","Wenn die Gegner noch mehr als {HEALTHBOUNDARY} % Leben haben, verursacht es stattdessen {DAMAGEMULTIPLIER} % Schaden."
+"specials.v2.property.targethealthdependantextradamage.over_health_boundary.neartotarget","Wenn die Gegner noch mehr als {HEALTHBOUNDARY} % Leben haben, verursacht es stattdessen {DAMAGEMULTIPLIER} % Schaden."
+"specials.v2.property.targethealthdependantextradamage.over_health_boundary.single","Wenn das Ziel noch mehr als {HEALTHBOUNDARY} % Leben hat, verursacht es stattdessen {DAMAGEMULTIPLIER} % Schaden."
+"specials.v2.property.targethealthdependantextradamage.under_health_boundary.all","Wenn die Gegner weniger als {HEALTHBOUNDARY} % Leben übrig haben, verursacht das stattdessen {DAMAGEMULTIPLIER} % Schaden."
+"specials.v2.property.targethealthdependantextradamage.under_health_boundary.neartotarget","Wenn die Gegner weniger als {HEALTHBOUNDARY} % Leben übrig haben, verursacht das stattdessen {DAMAGEMULTIPLIER} % Schaden."
 "specials.v2.property.targethealthdependantextradamage.under_health_boundary.neartotargetminor","Fügt Gegnern zusätzlichen Schaden zu, wenn sie weniger als {HEALTHBOUNDARY} % Leben haben."
-"specials.v2.property.targethealthdependantextradamage.under_health_boundary.single","Fügt {DAMAGEMULTIPLIER} % Schaden zu, wenn das Ziel weniger als {HEALTHBOUNDARY} % Leben hat."
+"specials.v2.property.targethealthdependantextradamage.under_health_boundary.single","Wenn das Ziel weniger als {HEALTHBOUNDARY} % Leben übrig hat, verursacht es stattdessen {DAMAGEMULTIPLIER} % Schaden."
 "specials.v2.property.thresholdaftereffectchainstrike.allowmaintargetinrandomtargets.target_random.allow_duplicates.over_mana_threshold","Wenn das Ziel nach der Mana-Reduktion mehr als {THRESHOLD1} % Mana hat, nimmt die Spezialfähigkeit einen weiteren zufälligen Gegner ins Visier. Bei jedem nachfolgenden Treffer wird der Schaden verringert."
 "specials.v2.property.thresholdaftereffectchainstrike.over_mana_threshold","Wenn das Ziel nach der Mana-Reduktion mehr als {THRESHOLD1} % Mana hat, nimmt die Spezialfähigkeit einen weiteren zufälligen Gegner ins Visier. Bei jedem nachfolgenden Treffer wird der Schaden verringert."
 "specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold","Wenn das Ziel mehr als {THRESHOLD1} % Leben hatte, bevor es Schaden erlitten hat, wird ein anderer Gegner anvisiert, der mehr als {THRESHOLD2} % Leben hatte, bevor er Schaden durch diese Spezialfähigkeit erlitten hat. Wenn keiner der anderen Gegner {THRESHOLD3} % Leben hatte, wird ein zufälliger Gegner anvisiert. Der Schaden wird bei jedem Folgetreffer weniger. Jeder Gegner kann nur einmal getroffen werden."
@@ -1241,6 +1251,7 @@ Wenn der Wirker sein Versteck verlässt, erleiden alle Feinde {DAMAGE} Schaden, 
 "specials.v2.statuseffect.major.baldurstatuseffectskill.single.allies.on.turnend.damage.random.enemies.while.caster.allies.boostedhealth","Fügt einem zufälligen Gegner am Ende jeder Runde {POWER1} % Schaden zu, solange der Wirker die Gesundheit erhöht hat. Dieser Effekt kann nicht gebannt werden."
 "specials.v2.statuseffect.major.berserkdefense.neartotarget.allies","Der Wirker und nahe Verbündete erhalten {DEFENSE} % Verteidigung und eine weitere {CHANGE} %ige Erhöhung jedes Mal, wenn sie während {TURNS} Zügen getroffen werden, bis zu {MAXMODIFIER} % Verteidigung. Dieser Effekt kann nicht gebannt werden."
 "specials.v2.statuseffect.major.berserkdefense.single.allies","Der Wirker erhält {DEFENSE} % Verteidigung und eine weitere {CHANGE} %ige Erhöhung jedes Mal, wenn sie während {TURNS} Zügen getroffen werden, bis zu {MAXMODIFIER} % Verteidigung. Dieser Effekt kann nicht gebannt werden."
+"specials.v2.statuseffect.major.bluedefensemodifier.single.allies","Der Wirker erhält {DEFENSE} % Verteidigung gegen Eis für {TURNS} Runden. Dieser Effekt kann nicht gereinigt werden."
 "specials.v2.statuseffect.major.buffimmunity.neartotarget.enemies","Das Ziel und nahe Gegner sind für {TURNS} Runden immun gegen neue Statuseffekt-Boni. Dieser Effekt kann nicht gebannt werden."
 "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration","Alle Verbündeten verursachen {DAMAGE}–{MAXDAMAGE} Schaden an einem zufälligen Gegner nach {TURNS} Zügen, basierend auf dem Schaden, den Verbündete erlitten haben, während dieser Effekt aktiv war. Dieser Effekt kann nicht gebannt werden."
 "specials.v2.statuseffect.major.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death","Verursacht basierend auf dem Schaden, den der Wirker erlitten hatte, während dieser Effekt aktiv war, {DAMAGE}–{MAXDAMAGE} Schaden an allen Gegnern nach {TURNS} Zügen oder wenn der Wirker besiegt wird. Dieser Effekt kann nicht gereinigt werden."
@@ -1429,6 +1440,7 @@ In der Gestalt des Grässlichen Geistes kann der Wirker Schaden durch Gegner erl
 "specials.v2.statuseffect.major.elementlinkyellowdefensemodifier.purple.allies","Elementare Verbindung verleiht allen Schatten-Verbündeten {DEFENSE} % Verteidigung gegen Heilig für {TURNS} Züge. Der Effekt kann nicht gebannt werden."
 "specials.v2.statuseffect.major.elementmirror.red.all.allies","Alle Verbündeten reflektieren alle negativen Statusänderungen und {DEFLECTION} % Schaden zurück auf den Angreifer und blockieren andere negative Effekte durch Feuer-Spezialfähigkeiten vom Gegner für {TURNS} Züge. Dieser Effekt kann nicht gebannt werden."
 "specials.v2.statuseffect.major.elementmirror.red.neartotarget.allies","Der Wirker und nahe Verbündete reflektieren alle negativen Statusänderungen und {DEFLECTION} % Schaden zurück auf den Angreifer und blockieren andere negative Effekte durch Feuer-Spezialfähigkeiten vom Gegner für {TURNS} Züge. Dieser Effekt kann nicht gebannt werden."
+"specials.v2.statuseffect.major.elementswap.all.enemies.red","Das Element aller Gegner wird für {TURNS} Runden zu Feuer geändert. Dieser Effekt kann nicht entfernt werden."
 "specials.v2.statuseffect.major.ethereal.single.allies","Der Wirker wechselt für {TURNS} Runden in die Geisterform.
  In der Geisterform erhält der Wirker {ATTACK} % Angriff."
 "specials.v2.statuseffect.major.fieryfortunedancemultieffect.neartotargetexceptcaster.allies.fiery_fortune_dance","Verbündete in der Nähe tanzen für {TURNS} Runden den Feurigen Glückstanz.
@@ -1545,6 +1557,18 @@ Verringerter Verteidigung.
 Vernichtender Spezialfähigkeit: Wuthieb.
 Der Effekt kann nicht gebannt werden."
 "specials.v2.statuseffect.major.revive.resurrectmajor.allexceptcaster.allies","Wenn während der nächsten {TURNS} Züge ein Verbündeter (mit Ausnahme des Wirkers) besiegt wird, wird er zu Beginn der nächsten Runde mit {HEALTH} % Leben wiederbelebt. Alle Statuseffekte und Stapel werden entfernt, wenn der Verbündete besiegt wird. Dieser Effekt kann nicht gebannt werden."
+"specials.v2.statuseffect.major.revive.reviveatomoscute.single.allies","Wenn während der nächsten {TURNS} Züge der Wirker besiegt wird, wird er zu Beginn der nächsten Runde mit {HEALTH} % Leben wiederbelebt. Alle Statuseffekte und Stapel werden entfernt, wenn der Wirker besiegt wird. Dieser Effekt kann nicht gebannt werden."
+"specials.v2.statuseffect.major.revive.reviveslime.neartotarget.allies","Der Wirker und Verbündete in der Nähe werden für {TURNS} Züge zur Schleimkopie. Dieser Effekt kann nicht gebannt werden.
+Wenn der Charakter besiegt wird, während er noch eine Schleimkopie ist, wird er als Schleim wiedergeboren und hat:
+
+Schleim
+{HEALTH} % vererbtes Leben.
+{CHANGEDAPPEARANCEATTACK} % Angriff.
+{CHANGEDAPPEARANCEDEFENSE} % Verteidigung.
+Spezialfähigkeit: {CHANGEDAPPEARANCEREPLACEDSPECIALTITLE}.
+Dieser Effekt kann nicht gebannt werden.
+
+Wenn der Schleim nicht innerhalb von {CHANGEDAPPEARANCETURNS} Zügen besiegt wird, wird er als die ursprüngliche Gestalt des Charakters wiedergeboren. Dieser übernimmt Leben und Mana des Schleims."
 "specials.v2.statuseffect.major.revive.reviveslime.single.allies","Der Wirker wird für {TURNS} Züge zur Schleimkopie. Dieser Effekt kann nicht gesäubert werden.
 Wenn der Wirker besiegt wird, während er noch eine Schleimkopie ist, wird er als Schleim wiedergeboren und hat:
 
@@ -1843,7 +1867,6 @@ Solange der Charakter von der Astralkugel betroffen ist, kann er keine neuen Sta
 "specials.v2.statuseffect.minor.bluedefensemodifier.neartotarget.allies","Der Wirker und nahe Verbündete erhalten {DEFENSE} % Verteidigung gegen Eis für {TURNS} Züge."
 "specials.v2.statuseffect.minor.bluedefensemodifier.neartotarget.enemies","Das Ziel und nahe Gegner erhalten {DEFENSE} % Verteidigung gegen Eis für {TURNS} Züge."
 "specials.v2.statuseffect.minor.bluedefensemodifier.red.enemies","Alle Feuergegner erhalten {DEFENSE} % Verteidigung gegen Eis für {TURNS} Züge."
-"specials.v2.statuseffect.minor.bluedefensemodifier.single.allies","Der Wirker erhält {DEFENSE} % Verteidigung gegen Eis für {TURNS} Züge."
 "specials.v2.statuseffect.minor.bluedefensemodifier.single.enemies","Das Ziel erhält {DEFENSE} % Verteidigung gegen Eis für {TURNS} Züge."
 "specials.v2.statuseffect.minor.bonetossstatuseffectskill.single.allies.on.turnend.damage.random.enemies.summonfamiliar.random.enemies.fox_skeleton_fiend.with_chance","Am Ende jeder Runde belegt der Wirker einen zufälligen Gegner mit Knochenwurf für {TURNS} Runden.
 Jeder Knochenwurf verursacht {POWER1} % Schaden.
@@ -1881,6 +1904,7 @@ Der Skelettfuchs-Feind absorbiert Heilung. Er verschwindet, wenn er Heilung in H
 "specials.v2.statuseffect.minor.burn.green.enemies","Alle Naturgegner erhalten {DAMAGE} Brandschaden für {TURNS} Züge."
 "specials.v2.statuseffect.minor.burn.neartotarget.enemies","Das Ziel und nahe Gegner erleiden {DAMAGE} Brandschaden über {TURNS} Züge."
 "specials.v2.statuseffect.minor.burn.neartotarget.enemies.absorb_boostedhealth.to.all","Das Ziel und nahe Gegner erleiden {DAMAGE} Brandschaden über {TURNS} Züge. Der Wirker und all seine Verbündeten absorbieren {ABSORBHEALING} % des zugefügten Brandschadens als Leben."
+"specials.v2.statuseffect.minor.burn.neartotarget.enemies.absorb_healing.to.all","Das Ziel und nahe Gegner erleiden {DAMAGE} Brandschaden über {TURNS} Züge. Der Wirker und all seine Verbündeten absorbieren {ABSORBHEALING} % des zugefügten Brandschadens als Leben."
 "specials.v2.statuseffect.minor.burn.neartotarget.enemies.absorb_healing.to.single","Das Ziel und nahe Gegner erleiden {DAMAGE} Brandschaden über {TURNS} Züge. Der Wirker absorbiert {ABSORBHEALING} % des zugefügten Brandschadens als Leben."
 "specials.v2.statuseffect.minor.burn.neartotarget.enemies.noturns","Das Ziel und Gegner in der Nähe erhalten dauerhaft {DAMAGE} Brandschaden pro Runde."
 "specials.v2.statuseffect.minor.burn.purple.enemies","Alle Dunklen Gegner erhalten {DAMAGE} Brandschaden für {TURNS} Züge."
@@ -1899,6 +1923,7 @@ Der Skelettfuchs-Feind absorbiert Heilung. Er verschwindet, wenn er Heilung in H
 "specials.v2.statuseffect.minor.changingmanageneration.neartotarget.enemies","Die Manaregeneration des Ziels und von nahen Feinden wird um {CHANGE} % pro Zug für {TURNS} Züge gesenkt."
 "specials.v2.statuseffect.minor.changingnormalattackmodifier.all.allies","Alle Verbündeten erhalten {ATTACK} % normalen Angriff für {TURNS} Züge. Der normale Angriff wird jeden Zug um {CHANGE} % erhöht. Dieser Effekt kann gleichzeitig mit anderen Angriffseffekten wirken. Normale Angriffe können bis zu {MAXATTACK} % erhöhte Kraft haben, wenn dieser Effekt aktiv ist."
 "specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies","Der Wirker erhält {ATTACK} % normalen Angriff für {TURNS} Züge. Der normale Angriff wird jeden Zug um {CHANGE} % erhöht. Dieser Effekt kann gleichzeitig mit anderen Angriffseffekten wirken. Normale Angriffe können bis zu {MAXATTACK} % erhöhte Kraft haben, wenn dieser Effekt aktiv ist."
+"specials.v2.statuseffect.minor.constantmanasteal.single.enemies.chain_strike","Der Wirker stiehlt über {TURNS} Runden hinweg {CURRENTMANASTEAL} % des Mana, das er durch Treffer gegen Gegner erzeugt. Dieser Effekt wird aufgehoben, wenn der Wirker besiegt wird."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier","Alle Gegner erleiden ätzenden Brand für {TURNS} Züge. Der ätzende Brand verursacht {DAMAGEPERTURN} Brandschaden und verringert die Verteidigung des Ziels um {CHANGE} % pro Zug."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier.extra_minion_damage.minion.bigminion.extra_minion_damage.minion.bigminion","Alle Gegner erleiden ätzenden Brand für {TURNS} Züge. Der ätzende Brand verursacht {DAMAGEPERTURN} Brandschaden und verringert die Verteidigung des Ziels um {CHANGE} % pro Zug. Verursacht zusätzlichen Schaden gegen Helden mit Lakaien oder einem Mega-Lakaien."
 "specials.v2.statuseffect.minor.corrosiveburn.all.enemies.defensemodifier.extra_minion_damage.minion.bigminion.follower.extra_minion_damage.minion.bigminion.follower","Alle Gegner erleiden ätzenden Brand für {TURNS} Züge. Der ätzende Brand verursacht {DAMAGEPERTURN} Brandschaden und verringert die Verteidigung des Ziels um {CHANGE} % pro Zug. Verursacht zusätzlichen Schaden gegen Helden mit Lakaien oder einem Mega-Lakaien."
@@ -2022,6 +2047,7 @@ Verschlingender Schleim: Entfernt alle bannbaren Boni und Wachstumseffekte, veru
 "specials.v2.statuseffect.minor.dispel.neartotarget.enemies.minorbuff","Entfernt {TURNS} Züge lang am Ende jedes Zugs Boni vom Ziel und nahen Gegnern."
 "specials.v2.statuseffect.minor.dispel.single.allies.minordebuff","Reinigt am Ende des Zugs negative Statusänderungen für den Wirker für {TURNS} Züge."
 "specials.v2.statuseffect.minor.dispel.single.enemies.minorbuff","Entfernt {TURNS} Züge lang am Ende jedes Zugs Boni vom Ziel."
+"specials.v2.statuseffect.minor.dispel.single.enemies.minorbuff.chain_strike","Entfernt am Ende jeder Runde für {TURNS} Runden alle Buffs von jedem getroffenen Gegner."
 "specials.v2.statuseffect.minor.dispelimmunity.all.allies","Alle Verbündeten sind für {TURNS} Züge gegen Boni-Entfernungen und Verschiebungen immun."
 "specials.v2.statuseffect.minor.dispelimmunity.neartotarget.allies","Der Wirker und nahe Verbündete sind {TURNS} Züge gegen Boni-Entfernungen und Verschiebungen immun."
 "specials.v2.statuseffect.minor.dispelimmunity.single.allies","Der Wirker ist {TURNS} Züge gegen Boni-Entfernungen und Verschiebungen immun."
@@ -2179,6 +2205,7 @@ Jede Münze verursacht {POWER1} % Schaden."
 "specials.v2.statuseffect.minor.healmultiplier.neartotarget.enemies","Das Ziel und nahe Gegner erhalten {HEALING} % Erhöhung für jede erhaltene Heilung für {TURNS} Züge."
 "specials.v2.statuseffect.minor.healmultiplier.neartotarget.enemies.decrease","Das Ziel und nahe Gegner erhalten {HEALING} % Verringerung für jede erhaltene Heilung für {TURNS} Züge."
 "specials.v2.statuseffect.minor.healmultiplier.neartotargetminor.enemies.decrease","Das Ziel erhält {HEALING} % Verringerung und nahe Gegner erhalten {MINORHEALING} % Verringerung für jede erhaltene Heilung für {TURNS} Züge."
+"specials.v2.statuseffect.minor.healmultiplier.sides.enemies.decrease","Die Feinde am Rand der Feindformation erhalten für {TURNS} Züge {HEALING} % erhaltene Heilung."
 "specials.v2.statuseffect.minor.healmultiplier.single.enemies","Das Ziel erhält {HEALING} % Erhöhung für jede erhaltene Heilung für {TURNS} Züge."
 "specials.v2.statuseffect.minor.healmultiplier.single.enemies.decrease","Das Ziel erhält {HEALING} % Verringerung für jede erhaltene Heilung für {TURNS} Züge."
 "specials.v2.statuseffect.minor.healmultiplier.single.enemies.decrease.resetondirectspecialdamage","Das Ziel erhält {HEALING} % verringerte Heilung für {TURNS} Züge. Die Effektdauer wird zurückgesetzt, wenn das Ziel direkt von einer Spezialfähigkeit getroffen wird."
@@ -2218,6 +2245,8 @@ Jede Münze verursacht {POWER1} % Schaden."
 "specials.v2.statuseffect.minor.increasingproportionalmanarecovery.neartotargetexceptcaster.allies","Nahe Verbündete erhalten für {TURNS} Züge jeden Zug Mana. Erhaltenes Mana wird jeden Zug bis zum letzten Zug erhöht, bei dem {MAXMANAPERTURN} % Mana vergeben wird."
 "specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.allexceptcaster.allies.removeonspecialcast","Alle Verbündeten außer dem Wirker erhalten {POWER} % zusätzliche Angriffsstärke für die nächste Spezialfähigkeit, die sie wirken. Die zusätzliche Angriffsstärke erhöht sich um {INCREASEPERTURN} % pro Zug, bis zu maximal insgesamt {MAXPOWERADDITION} %."
 "specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.single.allies.removeonspecialcast","Der Wirker erhält {POWER} % zusätzliche Angriffsstärke für die nächste Spezialfähigkeit, die er wirkt. Die zusätzliche Angriffsstärke erhöht sich um {INCREASEPERTURN} % pro Zug, bis zu maximal insgesamt {MAXPOWERADDITION} %."
+"specials.v2.statuseffect.minor.ingeniousbomb.single.enemies.onremoval.damage.neartotarget.allies.expiration.replacesamestatuseffect.death.override","Das Ziel erhält eine geniale Bombe. Nach {TURNS} Runden explodiert die geniale Bombe und fügt dem Besitzer und nahen Verbündeten {DAMAGE} Schaden zu. Die geniale Bombe explodiert auch, wenn sie ersetzt oder der Besitzer besiegt wird."
+"specials.v2.statuseffect.minor.ingeniousstabilizer.random.allies.onremoval.heal.neartotarget.allies.expiration.replacesamestatuseffect.death.override","Ein zufälliger Verbündeter erhält einen genialen Stabilisator. Nach {TURNS} Runden wird der geniale Stabilisator aktiviert und regeneriert {POWER} % Leben für den Besitzer und Verbündete in der Nähe. Der geniale Stabilisator wird ebenfalls aktiviert, wenn er ersetzt oder der Besitzer besiegt wird."
 "specials.v2.statuseffect.minor.insanityonhit.single.allies","Für die nächsten {TURNS} Züge verursacht der Wirker jedes Mal, wenn er getroffen wird, {STATUSEFFECT1INSANITYTOADD} Wahnsinn bei allen Gegnern. Der Effekt wird ausgelöst, wenn der Gegner Schaden mit seinen Spezialfähigkeiten verursacht. Felder und normale Angriffe können nur einmal pro Zug genutzt werden."
 "specials.v2.statuseffect.minor.invisible.single.allies.all.enemies.expiration.while.caster.allies.hastargetableallies","Wenn der Wirker anvisierbare Ziele hat, dann kann er selbst {TURNS} Züge lang nicht anvisiert werden. Verursacht {FIXEDPOWER} Schaden an allen Gegnern nach dem letzten Zug oder wenn der Wirker der letzte anvisierbare Charakter wird."
 "specials.v2.statuseffect.minor.lifesteal.all.allies","Alle Verbündeten heilen {LIFESTEAL} % des ausgeteilten normalen Schadens für {TURNS} Züge."
@@ -2266,6 +2295,7 @@ Jede Münze verursacht {POWER1} % Schaden."
 "specials.v2.statuseffect.minor.manaonremoval.single.enemies.onremoval.addmana.all.enemies.death","Wird das Ziel in den nächsten {TURNS} Zügen besiegt, erhalten alle Verbündeten des Wirkers {MANA} % Mana."
 "specials.v2.statuseffect.minor.manaonremovalmanagenerationmodifier.all.allies.onremoval.addmana.single.allies","Alle Verbündeten erhalten {MANAREGEN} % Manaregeneration für {TURNS} Züge. Wenn der Effekt vor Ablauf der Dauer entfernt wird, erhält das Ziel mit dem Effekt {MANA} % Mana."
 "specials.v2.statuseffect.minor.manaonremovalmanagenerationmodifier.all.enemies.onremoval.addmana.single.allies.decrease","Alle Gegner erhalten {MANAREGEN} % Manaregeneration für {TURNS} Züge. Wenn der Effekt vor Ablauf der Dauer entfernt wird, wird das Mana des Ziels mit dem Effekt um {MANA} % Mana reduziert."
+"specials.v2.statuseffect.minor.manaovertime.all.allies","Für die nächsten {TURNS} Runden erhalten alle Verbündeten am Ende der Runde {MANAMODIFIERPERTURN} % Mana."
 "specials.v2.statuseffect.minor.manaovertime.all.enemies.decrease","Verringert das Mana aller Gegner {TURNS} Züge lang am Ende jedes Zugs um {MANAMODIFIERPERTURN} %."
 "specials.v2.statuseffect.minor.manaovertime.allexceptcaster.allies","Alle Verbündeten bis auf den Wirker erhalten für die nächsten {TURNS} Runden {MANAMODIFIERPERTURN} % Mana am Ende der Runde."
 "specials.v2.statuseffect.minor.manaovertime.moderate.all.allies","Alle Verbündeten erhalten eine moderate Menge Mana über {TURNS} Züge."
@@ -2289,6 +2319,9 @@ Jeder Mondstrahl verringert das Mana des getroffenen Gegners um {ABSPOWER2} %."
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.single.allies.on.turnend.damage.random.enemies.addmana.random.enemies","Am Ende jedes Zugs schießt der Wirker einen Mondstrahl auf einen zufälligen Gegner für {TURNS} Züge.
 Jeder Mondstrahl verursacht {POWER1} % Schaden.
 Jeder Mondstrahl verringert das Mana des getroffenen Gegners um {ABSPOWER2} %."
+"specials.v2.statuseffect.minor.moonbeamstatuseffectskill.single.allies.on.turnend.damage.random.enemies.reducemaxhealth.random.enemies.with_chance","Am Ende von jeder Runde schießt der Wirker {TURNS} Runden lang einen Astralstrahl auf einen zufälligen Gegner.
+Jeder Astralstrahl verursacht {POWER1} % Schaden.
+Jeder Astralstrahl verringert das maximale Leben des getroffenen Gegners um {REDUCTION2}."
 "specials.v2.statuseffect.minor.moonriseward.all.allies.decrease.specialskill.statuseffectskill.green","Alle Verbündeten erhalten für {TURNS} Züge ein Firestorm-Mündel, das durch Spezialfähigkeiten verursachten Schaden um bis zu {MAX} verringert. Verringert den Schaden um zusätzliche {ADDITIONALDAMAGEMODIFIER} %, wenn der Angreifer das Element Natur hat."
 "specials.v2.statuseffect.minor.moonriseward.all.allies.decrease.specialskill.statuseffectskill.red","Alle Verbündeten erhalten für {TURNS} Züge ein Frostfall-Mündel, das durch Spezialfähigkeiten verursachten Schaden um bis zu {MAX} verringert. Verringert den Schaden um zusätzliche {ADDITIONALDAMAGEMODIFIER} %, wenn der Angreifer das Element Feuer hat."
 "specials.v2.statuseffect.minor.moonriseward.all.allies.decrease.specialskill.statuseffectskill.yellow","Alle Verbündeten erhalten für {TURNS} Züge einen Mondaufgang-Mündel, der durch Spezialfähigkeiten verursachten Schaden um bis zu {MAX} verringert. Verringert den Schaden um zusätzliche {ADDITIONALDAMAGEMODIFIER} %, wenn der Angreifer das Element Licht hat."
@@ -2314,6 +2347,12 @@ Jeder Mondstrahl verringert das Mana des getroffenen Gegners um {ABSPOWER2} %."
 "specials.v2.statuseffect.minor.normalattackreceiveddamagemodifier.neartotargetminor.enemies","Das Ziel erleidet {DAMAGEMODIFIER} % erhöhten Schaden durch normale Angriffe und nahe Gegner erleiden {MINORDAMAGEMODIFIER} % Schaden durch normale Angriffe für 3 Runden."
 "specials.v2.statuseffect.minor.painempathy.sides.enemies","{TURNS} Züge lang erleiden Gegner an den Rändern der gegnerischen Formation {DAMAGEMULTIPLIER} % sämtlichen Schadens, der ihren Verbündeten zugefügt wird."
 "specials.v2.statuseffect.minor.painempathy.single.enemies","{TURNS} Züge lang erleidet das Ziel {DAMAGEMULTIPLIER} % sämtlichen Schadens, der seinen Verbündeten zugefügt wird."
+"specials.v2.statuseffect.minor.piercingshurikenstatuseffectskill.all.allies.on.turnend.damage.random.enemies.with_chance","Am Ende jeder Runde werfen alle Verbündeten einen Durchbohrenden Shuriken auf einen zufälligen Gegner für {TURNS} Runden.
+Jeder durchdringende Shuriken verursacht {POWER1} % Schaden."
+"specials.v2.statuseffect.minor.piercingshurikenstatuseffectskill.neartotarget.allies.on.turnend.damage.random.enemies.with_chance","Am Ende von jeder Runde werfen der Wirker und alle Verbündeten in der Nähe {TURNS} Runden lang einen durchbohrenden Shuriken auf einen zufälligen Gegner.
+Jeder durchbohrende Shuriken verursacht {POWER1} % Schaden."
+"specials.v2.statuseffect.minor.piercingshurikenstatuseffectskill.single.allies.on.turnend.damage.random.enemies.with_chance","Am Ende jeder Runde wirft der Wirker {TURNS} Runden lang einen durchdringenden Shuriken auf einen zufälligen Gegner.
+Jeder durchdringende Shuriken verursacht {POWER1} % Schaden."
 "specials.v2.statuseffect.minor.poison.all.enemies","Alle Gegner erleiden {DAMAGE} Giftschaden über {TURNS} Züge."
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_boostedhealth.to.all","Alle Gegner erleiden {DAMAGE} Giftschaden über {TURNS} Züge. Der Wirker und alle seine Verbündeten absorbieren {ABSORBHEALING} % des zugefügten Giftschadens als Lebensverstärkung."
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_boostedhealth.to.single","Alle Gegner erleiden {DAMAGE} Giftschaden über {TURNS} Züge. Der Wirker absorbiert {ABSORBHEALING} % des zugefügten Giftschadens als Lebensverstärkung."
@@ -2331,6 +2370,7 @@ Jeder Mondstrahl verringert das Mana des getroffenen Gegners um {ABSPOWER2} %."
 "specials.v2.statuseffect.minor.poison.single.enemies.absorb_boostedhealth.to.single","Das Ziel erleidet {DAMAGE} Giftschaden über {TURNS} Züge. Der Wirker absorbiert {ABSORBHEALING} % des zugefügten Giftschadens als Lebensverstärkung."
 "specials.v2.statuseffect.minor.poison.single.enemies.absorb_healing.to.single","Das Ziel erleidet {DAMAGE} Giftschaden über {TURNS} Züge. Der Wirker absorbiert {ABSORBHEALING} % des zugefügten Giftschadens als Leben."
 "specials.v2.statuseffect.minor.poison.single.enemies.absorb_mana.to.single","Das Ziel erleidet über {TURNS} Runden {DAMAGE} Giftschaden. Der Wirker erhält jedes Mal eine kleine Menge Mana, wenn Giftschaden verursacht wird."
+"specials.v2.statuseffect.minor.poison.single.enemies.chain_strike","Alle getroffenen Ziele erhalten {DAMAGE} Gift-Schaden über {TURNS} Runden."
 "specials.v2.statuseffect.minor.poison.single.enemies.contagious","Das Ziel erhält {DAMAGE} Giftschaden über {TURNS} Züge. Dieser Effekt breitet sich auf nahe Gegner aus."
 "specials.v2.statuseffect.minor.poison.yellow.enemies","Alle Heiligen Gegner erleiden {DAMAGE} Giftschaden über {TURNS} Züge."
 "specials.v2.statuseffect.minor.poisonpertile.purple.all.enemies","Alle Gegner erhalten für {TURNS} Züge {BASEDAMAGE} Giftschaden und eine Schadenserhöhung von {DAMAGEPERTILE} pro Schattenschild bis zu {MAXDAMAGE} Schaden."
@@ -2342,9 +2382,9 @@ Jeder Mondstrahl verringert das Mana des getroffenen Gegners um {ABSPOWER2} %."
 {SPECIALDESCRIPTION}"
 "specials.v2.statuseffect.minor.possession.neartotarget.enemies.mindless_attack","Das Ziel und nahe Gegner wirken automatisch Blindwütiger Angriff auf einen zufälligen Verbündeten, sobald sein Mana innerhalb der nächsten {TURNS} Züge voll ist."
 "specials.v2.statuseffect.minor.possession.random.enemies.shifting_mindless_attack.removeonspecialcast","Das zufällig getroffene Ziel wirkt automatisch Wechselnder blindwütiger Angriff auf einen zufälligen Verbündeten, sobald sein Mana innerhalb der nächsten {TURNS} Züge voll ist. Wenn dieser Effekt ausgelöst wird, wird er auf den getroffenen Verbündeten übertragen und die Dauer startet von Neuem."
-"specials.v2.statuseffect.minor.possession.sides.enemies.healing_gift","Die Gegner an den Rändern der gegnerischen Formation werden {TURNS} Züge lang gezwungen, [#!]Gedankenlose Heilung[#]  zu wirken, wenn ihr Mana voll ist.
+"specials.v2.statuseffect.minor.possession.sides.enemies.healing_gift","Die Gegner an den Rändern der gegnerischen Formation werden {TURNS} Züge lang gezwungen, Gedankenlose Heilung  zu wirken, wenn ihr Mana voll ist.
 
-[#!]{SPECIALTITLE}[#]
+{SPECIALTITLE}
 {SPECIALDESCRIPTION}"
 "specials.v2.statuseffect.minor.possession.single.allies.shifting_mindless_attack.removeonspecialcast","Das Ziel wirkt automatisch Wechselnder blindwütiger Angriff auf einen zufälligen Verbündeten, sobald sein Mana innerhalb der nächsten {TURNS} Züge voll ist. Wenn dieser Effekt ausgelöst wird, wird er auf den getroffenen Verbündeten übertragen und die Dauer startet von Neuem."
 "specials.v2.statuseffect.minor.possession.single.enemies.healing_gift_anteros","Das Ziel werden {TURNS} Züge lang gezwungen, Gedankenlose Heilung  zu wirken, wenn Mana voll ist.
@@ -2366,6 +2406,8 @@ Jeder Mondstrahl verringert das Mana des getroffenen Gegners um {ABSPOWER2} %."
 "specials.v2.statuseffect.minor.purpledefensemodifier.all.enemies","Alle Feinde erhalten {DEFENSE} % Verteidigung gegen Schatten für {TURNS} Züge."
 "specials.v2.statuseffect.minor.purpledefensemodifier.neartotarget.allies","Der Wirker und nahe Verbündete erhalten {DEFENSE} % Verteidigung gegen Schatten für {TURNS} Züge."
 "specials.v2.statuseffect.minor.purpledefensemodifier.neartotarget.enemies","Das Ziel und nahe Gegner erhalten {DEFENSE} % Verteidigung gegen Schatten für {TURNS} Züge."
+"specials.v2.statuseffect.minor.purpledefensemodifier.notpurple.both","Alle Verbündeten und Gegner erhalten {DEFENSE} % Verteidigung gegen Dunkelheit für {TURNS} Runden."
+"specials.v2.statuseffect.minor.purpledefensemodifier.single.allies","Der Wirker erhält {DEFENSE} % Verteidigung gegen Dunkelheit für {TURNS} Runden."
 "specials.v2.statuseffect.minor.purpledefensemodifier.single.enemies.chain_strike","Alle getroffenen Ziele erhalten {DEFENSE} % Verteidigung gegen Schatten für {TURNS} Züge."
 "specials.v2.statuseffect.minor.purpledefensemodifier.yellow.enemies","Alle Lichtgegner erhalten {DEFENSE} % Verteidigung gegen Schatten für {TURNS} Züge."
 "specials.v2.statuseffect.minor.reallocatestatuseffectsperturn.single.allies.enemies.minorbuff.newest","Entzieht am Ende jedes Zuges allen Gegnern die neueste aufhebbare Stärkung und verteilt sie zufällig auf die Verbündeten für {TURNS} Züge."
@@ -2434,6 +2476,7 @@ Widerstandsfähige Fäulnis
 "specials.v2.statuseffect.minor.resistcleansefromspecial.sides.enemies","Die Gegner am Rand der gegnerischen Formation können ihre negativen Statusänderungen oder Verschiebungen durch Spezialfähigkeiten für {TURNS} Züge nicht entfernen."
 "specials.v2.statuseffect.minor.resistcleansefromspecial.single.enemies","Das Ziel kann seine negativen Statusänderungen oder Verschiebungen durch Spezialfähigkeiten für {TURNS} Züge nicht entfernen."
 "specials.v2.statuseffect.minor.resisthealing.all.enemies.damage","Alle Gegner können Heilung widerstehen und erhalten {FIXEDPOWER} Schaden pro widerstandener Heilung für {TURNS} Züge."
+"specials.v2.statuseffect.minor.resisthealing.lessthanhalfhpleft.enemies.damage","Gegner mit weniger als 50 % verbleibender Gesundheit widerstehen Heilung und erhalten {FIXEDPOWER} Schaden pro widerstandener Heilung für {TURNS} Züge."
 "specials.v2.statuseffect.minor.resisthealing.neartotarget.enemies.damage","Das Ziel und nahe Gegner können Heilung widerstehen und erhalten {FIXEDPOWER} Schaden pro widerstandener Heilung für {TURNS} Züge."
 "specials.v2.statuseffect.minor.resisthealing.sides.enemies.damage","Die Gegner an den Rändern der Gegnerformation widerstehen der Heilung und erhalten {FIXEDPOWER} Schaden für jede widerstandene Heilung für {TURNS} Züge."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage","Das Ziel kann Heilung widerstehen und erhält {FIXEDPOWER} Schaden pro widerstandener Heilung für {TURNS} Züge."
@@ -2574,10 +2617,10 @@ Wenn die Verstärkte Verteidigungsstatusänderung endet oder entfernt oder erset
  Wenn die Verstärkte Verteidigungsstatusänderung endet oder entfernt oder ersetzt wird, werden alle Statuseffektboni auf dem Ziel entfernt."
 "specials.v2.statuseffect.minor.specialskilldefensemodifier.single.enemies.withactivationcount.onremoval.expiration.dispel.removal.override.replacesamestatuseffect.reallocation.removes.statuseffectbuffs.single.allies","Verstärkte Verteidigungsstatusänderung: Das Ziel erhält {SPECIALSKILLDEFENSE} % Verteidigung gegen Spezialfähigkeiten. Dieser Effekt hält an, bis das Ziel {MAXACTIVATIONCOUNT}-mal Schaden durch eine Spezialfähigkeit erlitten hat.
  Wenn die Verstärkte Verteidigungsstatusänderung endet oder entfernt oder ersetzt wird, werden alle Statuseffektboni auf dem Ziel entfernt."
-"specials.v2.statuseffect.minor.spellslay.all.enemies","Fügt dem getroffenen Gegner automatisch {DAMAGE} Schaden zu und reduziert sein Mana um {MANAREDUCTION} %, wenn sein Mana voll aufgefüllt ist, für {TURNS} Züge."
-"specials.v2.statuseffect.minor.spellslay.neartotarget.enemies","Fügt dem getroffenen Gegner automatisch {DAMAGE} Schaden zu und reduziert sein Mana um {MANAREDUCTION} %, wenn sein Mana voll aufgefüllt ist, für {TURNS} Züge."
-"specials.v2.statuseffect.minor.spellslay.single.enemies","Fügt dem Ziel automatisch {DAMAGE} Schaden zu und reduziert sein Mana um {MANAREDUCTION} %, wenn das Mana des Ziels voll aufgefüllt ist, für {TURNS} Züge."
-"specials.v2.statuseffect.minor.spellslay.singleandblue.enemies","Fügt dem Ziel und allen Eisgegnern automatisch {DAMAGE} Schaden zu, wenn deren Mana voll aufgefüllt ist, und reduziert ihr Mana um {MANAREDUCTION} % für {TURNS} Züge."
+"specials.v2.statuseffect.minor.spellslay.all.enemies","Alle Gegner erhalten {DAMAGE} Schaden und verlieren {MANAREDUCTION} % Mana, wenn ihr Mana in den nächsten {TURNS} Runden voll ist."
+"specials.v2.statuseffect.minor.spellslay.neartotarget.enemies","Das Ziel und nahe Gegner erhalten {DAMAGE} Schaden und verlieren {MANAREDUCTION} % Mana, wenn ihr Mana in den nächsten {TURNS} Runden voll ist."
+"specials.v2.statuseffect.minor.spellslay.single.enemies","Das Ziel erhält {DAMAGE} Schaden und verliert {MANAREDUCTION} % Mana, wenn sein Mana in den nächsten {TURNS} Runden voll ist."
+"specials.v2.statuseffect.minor.spellslay.singleandblue.enemies","Das Ziel und alle Eis-Gegner erhalten {DAMAGE} Schaden und verlieren {MANAREDUCTION} % Mana, wenn ihr Mana in den nächsten {TURNS} Runden voll ist."
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies","Stapel (Max.: {MAXSTACK}): Alle Verbündeten erhalten {ATTACK} % Angriff."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","Stapel (Max.: {MAXSTACK}): Der Wirker erhält {ATTACK} % Angriff."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","Stapel (Max.: {MAXSTACK}): Der Wirker erhält zusätzlich {ATTACK} % Angriff pro zerstörtem Lakaien."
@@ -2608,7 +2651,10 @@ Wenn die Verstärkte Verteidigungsstatusänderung endet oder entfernt oder erset
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","Stapel (Max.: {MAXSTACK}): Alle Verbündeten erhalten {MAXHEALTH} % vererbte LP für neue Lakaien, die sie beschwören."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","Stapel (Max.: {MAXSTACK}): Der gesamte Schaden, den alle Verbündeten erleiden, wird um {DAMAGEMODIFIER} % verringert."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","Stapel (Max.: {MAXSTACK}): Der gesamte Schaden, den alle Gegner erleiden, wird um {DAMAGEMODIFIER} % erhöht."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","Stapel (max.: {MAXSTACK}): Gegner mit weniger als 50 % verbleibender Gesundheit erleiden {DAMAGEMODIFIER} % Schaden."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies.withbasestackcount","Stapel +{BASESTACKCOUNT} (max.: {MAXSTACK}): Gegner mit weniger als 50 % verbleibender Gesundheit erleiden {DAMAGEMODIFIER} % Schaden."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease","Stapel (Max.: {MAXSTACK}): Der gesamte Schaden, den der Wirker und Verbündete in der Nähe erleiden, wird um {DAMAGEMODIFIER} % verringert."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","Stapel +{BASESTACKCOUNT} (Max.: {MAXSTACK}): Der gesamte Schaden, den der Wirker und Verbündete in der Nähe erleiden, wird um {DAMAGEMODIFIER} % reduziert."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.enemies","Stapel (Max.: {MAXSTACK}): Der gesamte Schaden, den das Ziel und nahe Gegner erleiden, wird um {DAMAGEMODIFIER} % erhöht."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","Stapel (Max.: {MAXSTACK}): Der gesamte Schaden, den der Wirker erleidet, wird um {DAMAGEMODIFIER} % verringert."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","Stapel (Max.: {MAXSTACK}): Der gesamte Schaden, den das Ziel erleidet, wird um {DAMAGEMODIFIER} % erhöht."
@@ -2627,6 +2673,8 @@ Jedes Ausweichen gewährt allen Verbündeten {MANAREGEN} % Manaregeneration fü
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.druid_thorn","Alle Verbündeten erhalten eine Chance von {DODGE} %, Spezialfähigkeiten für {TURNS} Züge auszuweichen. Jedes Ausweichen ruft einen Dornlakaien herbei."
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.druid_thorn_empowered","Alle Verbündeten erhalten eine Chance von {DODGE} %, Spezialfähigkeiten für {TURNS} Züge auszuweichen. Jedes Ausweichen ruft einen verstärkten Dornlakaien herbei."
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.sakura_fox","Alle Verbündeten erhalten eine Chance von {DODGE} %, Spezialfähigkeiten für {TURNS} Züge auszuweichen. Jedes Ausweichen ruft einen Sakura-Fuchs-Lakaien herbei."
+"specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.sakura_fox_costume","Alle Verbündeten erhalten eine Chance von {DODGE} %, Spezialfähigkeiten für {TURNS} Züge auszuweichen. Jedes Ausweichen ruft einen Sakura-Fuchs-Lakaien herbei."
+"specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_blue_titan","Alle Verbündeten erhalten für {TURNS} Züge {ATTACK} % Angriff. Gegen Eis-Titanen erhalten alle Verbündeten {ATTACKAGAINSTVALIDTARGET} % Angriff."
 "specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_red_titan","Alle Verbündeten erhalten für {TURNS} Züge {ATTACK} % Angriff. Gegen Feuer-Titanen erhalten alle Verbündeten {ATTACKAGAINSTVALIDTARGET} % Angriff."
 "specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_yellow_titan","Alle Verbündeten erhalten für {TURNS} Züge {ATTACK} % Angriff. Gegen Heilig-Titanen erhalten alle Verbündeten {ATTACKAGAINSTVALIDTARGET} % Angriff."
 "specials.v2.statuseffect.minor.taunt.single.allies","Der Wirker erhält Verspotten, was {TURNS} Züge lang verhindert, dass die Gegner Spezialfähigkeiten bei den Verbündeten des Wirkers einsetzen können."
@@ -2652,12 +2700,18 @@ Jedes Ausweichen gewährt allen Verbündeten {MANAREGEN} % Manaregeneration fü
  Wenn der Magmawürfel gereinigt wird, erhält der Besitzer {STATUSEFFECT1MANAREGEN} % Manaregeneration für {REMOVALEFFECT2STATUSEFFECT1TURNS} Züge."
 "specials.v2.statuseffect.minor.underwaterpertile.blue.all.enemies.buffoverride.red.majordebuff","Alle Gegner erhalten für {TURNS} Züge {BASEDAMAGE} Wasserschaden und eine Schadenserhöhung von {DAMAGEPERTILE} pro Eisschild bis zu {MAXDAMAGE} Schaden. Dieser Effekt kann für Feuergegner nicht gesäubert werden."
 "specials.v2.statuseffect.minor.vengeance.single.allies.onremoval.damage.all.enemies.dispel.removal.specialskill","Der Wirker erhält Vergeltung für {TURNS} Züge. Wenn Vergeltung durch eine Spezialfähigkeit gebannt wird, erleiden alle Gegner {DAMAGE} Schaden."
+"specials.v2.statuseffect.minor.wildburn.neartotarget.enemies","Wild: Für {TURNS} Runden erhalten das Ziel und nahe Gegner {DAMAGEPERTURN} oder {WILDDAMAGEPERTURN} Brandschaden pro Runde."
+"specials.v2.statuseffect.minor.wildhealthrecovery.all.allies","Wild: Für {TURNS} Runden regenerieren alle Verbündeten {HPPERTURN} LP oder erhalten jede Runde {WILDHPPERTURN} verstärktes Leben."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.all.allies","Alle Verbündeten erhalten {DEFENSE} % Verteidigung gegen Heilig für {TURNS} Züge."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.neartotarget.allies","Der Wirker und nahe Verbündete erhalten {DEFENSE} % Verteidigung gegen Licht für {TURNS} Züge."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.neartotarget.enemies","Das Ziel und nahe Gegner erhalten {DEFENSE} % Verteidigung gegen Heilig für {TURNS} Züge."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.single.allies","Der Wirker erhält {DEFENSE} % Verteidigung gegen Licht für {TURNS} Züge."
 "specials.v2.statuseffect.minor.yellowdefensemodifier.single.enemies","Das Ziel erhält {DEFENSE} % Verteidigung gegen Licht für {TURNS} Züge."
+"specials.v2.statuseffect.minor.yellowtrap.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.chain_strike.amplified.against_purple.against_titan.modifies_power","Getroffene Gegner werden mit Stachelfalle belegt.
+ Die Stachelfalle gewährt ihrem Ziel {DEFENSE} % Verteidigung gegen Heilig. Gegen Finster-Titanen gewährt die Stachelfalle ihrem Ziel {AMPLIFIEDDEFENSE} % Verteidigung gegen Heilig.
+ Stachelfallen explodieren nach {TURNS} Zügen und fügen ihrem Besitzer {DAMAGE} Schaden zu."
 "specials.v2.statuseffect.minor.zombiecurse.all.enemies","Alle Gegner erhalten den Zombiefluch. Wird der verfluchte Gegner besiegt, explodiert er und bewirkt {EXPLOSIONDAMAGE} Schaden bei all seinen Verbündeten. Effekt hält für {TURNS} Züge an."
+"specials.v2.statuseffect.minor.zombiecurse.neartotarget.enemies","Das Ziel und Gegner in der Nähe erhalten den Zombiefluch. Wird der verfluchte Gegner besiegt, explodiert er und bewirkt {EXPLOSIONDAMAGE} Schaden bei all seinen Verbündeten. Effekt hält für {TURNS} Züge an."
 "specials.v2.statuseffect.permanent.accuracymodifier.purple.allies","Alle Schattenhelden erhalten {ACCURACY} % Genauigkeit."
 "specials.v2.statuseffect.permanent.attackmodifier.yellow.allies","Alle Lichthelden erhalten {ATTACK} % Angriff."
 "specials.v2.statuseffect.permanent.insanity.all.allies","Verursacht {INSANITYTOADD} Wahnsinn bei allen Verbündeten."
@@ -2667,10 +2721,10 @@ Wahnsinn
 Bietet die Chance, das Ziel einer Spezialfähigkeit zu ändern.
 Der Wahnsinn eines Helden kann durch direkte Heilung mit einer Spezialfähigkeit gelindert werden."
 "specials.v2.statuseffect.permanent.insanity.all.enemies","Verursacht {INSANITYTOADD} Wahnsinn bei allen Gegnern."
-"specials.v2.statuseffect.permanent.insanity.allexceptcaster.allies","Verursacht {INSANITYTOADD} Wahnsinn bei allen Verbündeten, aber nicht dem Wirker selbst."
+"specials.v2.statuseffect.permanent.insanity.allexceptcaster.allies","Wenn du diese Spezialfähigkeit einsetzt, löst {INSANITYTOADD} Wahnsinn aus, außer bei dir selbst."
 "specials.v2.statuseffect.permanent.insanity.neartotarget.enemies","Verursacht {INSANITYTOADD} Wahnsinn beim Ziel und bei Gegnern in der Nähe."
-"specials.v2.statuseffect.permanent.insanity.neartotargetexceptcaster.allies","Verursacht {INSANITYTOADD} Wahnsinn bei nahen Verbündeten."
-"specials.v2.statuseffect.permanent.insanity.single.allies","Verursacht {INSANITYTOADD} Wahnsinn beim Wirker."
+"specials.v2.statuseffect.permanent.insanity.neartotargetexceptcaster.allies","Der Einsatz dieser Spezialfähigkeit verursacht {INSANITYTOADD} Wahnsinn bei nahen Verbündeten."
+"specials.v2.statuseffect.permanent.insanity.single.allies","Der Einsatz dieser Spezialfähigkeit verursacht {INSANITYTOADD} Wahnsinn beim Wirker."
 "specials.v2.statuseffect.permanent.insanity.single.enemies","Verursacht {INSANITYTOADD} Wahnsinn beim Ziel."
 "specials.v2.statuseffect.permanent.insanity.single.enemies.chain_strike","Alle getroffenen Ziele erleiden {INSANITYTOADD} Wahnsinn bei jedem Treffer."
 "specials.v2.statuseffect.permanent.insanity.single.enemies.chain_strike.chain_strike_cassilda.on_additional_hit","Alle getroffenen Ziele erleiden {INSANITYTOADD} Wahnsinn bei jedem Treffer."
@@ -2688,6 +2742,6 @@ Der Wahnsinn eines Helden kann durch direkte Heilung mit einer Spezialfähigkeit
 "specials.v2.strongattack.purple","Fügt Schatten zusätzlichen Schaden zu."
 "specials.v2.strongattack.red","Fügt Feuer zusätzlichen Schaden zu."
 "specials.v2.strongattack.yellow","Fügt Licht zusätzlichen Schaden zu."
+"specials.v2.toon_tide.immuneelement.purple","Alle Schatten-Verbündeten und -Gegner sind gegen diesen Angriff immun."
 "specials.v2.zombie_hydra_head.summonedbyfamiliar","Dieser Effekt kann nur einmal pro Hydrakopf-Lakai angewendet werden."
 "specials.v2.zombie_hydra_head.to.randomexceptmaintarget.allies.summonedby.hydra_head","Wenn der Hydrakopf-Lakai besiegt wird, erhält ein zufälliger Verbündeter einen wiedergeborenen Hydrakopf-Lakaien, der die Werte des ursprünglichen Lakaien übernimmt."
-"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease.withbasestackcount","[#!]Stapel +{BASESTACKCOUNT} (Max.: {MAXSTACK}):[#] Der gesamte Schaden, den der Wirker und Verbündete in der Nähe erleiden, wird um {DAMAGEMODIFIER} % reduziert."

@@ -64,6 +64,9 @@ Each of these effects can activate once per turn."
 "herocard.passive_skill.description.effectonheal.addmana","This character receives {POWER}% mana each time its health is recovered."
 "herocard.passive_skill.description.effectonheal.heal","This character receives {POWER}% health each time its health is recovered."
 "herocard.passive_skill.description.effectonhealsupportcharacter.troop.heal","This character receives {POWER}% health each time its health is recovered."
+"herocard.passive_skill.description.effectonownerdeath.damage.single.enemies.specialskill.targetattackerside","When this character is defeated by a Special Skill, they perform the following actions:
+The attacker receives {DAMAGE}% damage.
+The attacker receives {STATUSEFFECT1DAMAGE} Bleed damage over {TURNS} turns."
 "herocard.passive_skill.description.effectonresist.activates_on_enemy_action.healthboost.addmana.once","This character gets {HEALTHBOOST}% boosted health and {MANA}% mana on successful resist."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","This character gains {POWER}% mana each time an enemy casts a Special Skill that directly boosts health."
 "herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.fixedpower.on_healthboost_cast","This character gets {POWER} boosted health each time an enemy casts a Special Skill that directly boosts health."
@@ -71,6 +74,7 @@ Each of these effects can activate once per turn."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.bufftoremove.minordebuff.from.all.allies.safe.only_criticals","When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status ailment from all allies."
 "herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals","When this character scores a critical hit with their Special Skill, they boost the health of all their allies by {HEALTHBOOST}%."
 "herocard.passive_skill.description.effectonspecialskilldamagereceived.healthboost.all.allies.only_criticals","When this character scores a critical hit with their Special Skill, they boost the health of all their allies by {HEALTHBOOST}%"
+"herocard.passive_skill.description.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.random.enemies.directeffect1_statuseffects.defensemodifier.always","When an ally casts their Special Skill, this character deals {POWER}% damage and gives {DIRECTEFFECT1STATUSEFFECT1DEFENSE}% defense for {DIRECTEFFECT1STATUSEFFECT1TURNS} turns to a random enemy."
 "herocard.passive_skill.description.effectonspecialwithchance.activates_on_enemy_action.healthboost.fixedpower","When an enemy casts their Special Skill, this character has a {CHANCE}% chance to boost this character's health by {HEALTHBOOST}."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.all.allies","When this character casts their Special Skill, they have a {CHANCE}% chance to give {POWER}% mana to all allies. If the Special Skill is fully charged, the chance is {CHANCEFULLYCHARGED}%."
 "herocard.passive_skill.description.effectonspecialwithchance.addmana.notblue.allies","When this character casts their Special Skill, they have a {CHANCE}% chance to give {POWER}% mana to all allies that are not of Ice element. If the Special Skill is fully charged, the chance is {CHANCEFULLYCHARGED}%."
@@ -110,9 +114,17 @@ All enemies' Mega Minions have {MEGAMINIONMODIFIER}% accuracy."
 
 The Minion Core activates each time this character's Special Skill is cast:
 
- With a fully charged  Minion Core, summons a Killer Bot Minion with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster on all allies.
+ With a fully charged Minion Core, summons a Killer Bot Minion with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster on all allies.
  The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.
  Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions."
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always.temp.with.wither","The Construct Core of this character is a Minion Core.
+
+The Minion Core activates each time this character's Special Skill is cast:
+
+ With a fully charged Minion Core, summons a Killer Bot Minion with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster on all allies.
+ The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.
+ Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.
+ Wither: Each hit from a Killer Bot Minion gives its target {ATTACKMODIFIER} attack."
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.bigminion.decrease","Enemy Mega Minions have {HEALTHMODIFIER}% HP."
 "herocard.passive_skill.description.familiarhealthmodifier.all.enemies.minion.decrease","Enemy Minions have {HEALTHMODIFIER}% HP."
 "herocard.passive_skill.description.familiarsilencer.all.enemies.bigminion","Enemy Mega Minions can't attack or use abilities."
@@ -157,7 +169,11 @@ The Minion Core activates each time this character's Special Skill is cast:
 "herocard.passive_skill.description.memorizestatuseffects#2","This character has innate ability to Memorize status ailments. The latest {0} status ailments that are cast on this character will stay memorized until the Special Skill is cast. Only status ailments with a duration can be memorized."
 "herocard.passive_skill.description.memorizestatuseffects#3","This character has innate ability to Memorize status ailments. The latest {0} status ailments that are cast on this character will stay memorized until the Special Skill is cast. Only status ailments with a duration can be memorized. (THIRD FORM)"
 "herocard.passive_skill.description.mimiclootonlevelcompleted","Each unique Mimic on your team can give you extra loot when completing stages. This Mimic grants a chance for the following extra loot:"
+"herocard.passive_skill.description.minioncorruption.all.enemies","At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching {AUTOMATICTRANSFORMINSANITYTHRESHOLD} Insanity activates the transformation automatically.
+ A Minion will transform into an Eldritch Fiend: {FAMILIAR1FAMILIARATTACK}% attack, {FAMILIAR1FAMILIARHEALTHPERCENT}% health, inflicts {FAMILIAR1INSANITYTOADD} Insanity every turn.
+ A Mega Minion will transform into an Eldritch Mega Fiend: {FAMILIAR2FAMILIARATTACK}% attack, {FAMILIAR2FAMILIARHEALTHPERCENT}% health, inflicts {FAMILIAR2INSANITYTOADD} Insanity every turn."
 "herocard.passive_skill.description.nevermissspecial","This character's Special Skill never misses its targets."
+"herocard.passive_skill.description.preventboostedhealth.all.enemies","Enemies' health cannot increase above their max health."
 "herocard.passive_skill.description.ransack","At the start of each turn, this character Ransacks a random enemy:
 
 Steals {DAMAGE} health.
@@ -197,6 +213,7 @@ The Repair Core activates each time this character's Special Skill is cast:
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.attackwither.defensewither.alldebuffs.with_chance","{CHANCE}% extra chance to resist all status ailments, mana reductions, buff dispels and Wither effects."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.insanity.with_chance","{CHANCE}% extra chance to resist all status ailments, mana reductions, buff dispels and Insanity."
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance","{CHANCE}% extra chance to resist all status ailments, mana reductions and buff dispels."
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance.with_effect.addmana","{CHANCE}% extra chance to resist all status ailments, mana reductions and buff dispels. Gain {MANA}% mana on each successful resist."
 "herocard.passive_skill.description.resist.alldebuffs.with_chance","{CHANCE}% extra chance to resist all status ailments."
 "herocard.passive_skill.description.resist.alldefensemodifiers.alldebuffs","This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense."
 "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.alldebuffs","This character is immune to status ailments, stacks and Wither effects that affect defense."
@@ -220,6 +237,12 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 "herocard.passive_skill.description.resist.attackmodifiers","This character is immune to status ailments that affect attack."
 "herocard.passive_skill.description.resist.attackmodifiers.allstatuseffectsandstacks","This character is immune to all status effects and stacks that affect attack. This includes status effect buffs."
 "herocard.passive_skill.description.resist.attackmodifiers.attackwither.alldebuffs","This character is immune to status ailments, stacks and Wither effects that affect attack."
+"herocard.passive_skill.description.resist.attackmodifiers.attackwither.attackgrowth.allstatuseffectsandstacks","This character is not affected by effects that increase or reduce attack.
+
+This includes
+ Status effect buffs and ailments
+ Positive and negative Stacks
+ Growth and Wither effects"
 "herocard.passive_skill.description.resist.bleed","This character is immune to status ailments that deal Bleed damage."
 "herocard.passive_skill.description.resist.bleed.with_effect.healthboost.addmana","This character is immune to status ailments that deal Bleed damage and gains {HEALTHBOOST} boosted health and {MANA}% mana each time they resist."
 "herocard.passive_skill.description.resist.buffdispels","This character is immune to effects that would dispel their status effect buffs."
@@ -352,19 +375,19 @@ Sprout Fiend:
 
 Blossom Mega Fiend:
 {EVOLVINGFAMILIAR3FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% health."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Summons a [#!]Seedling Fiend[#] every turn to a random enemy.
-[*]The [#!]Seedling Fiend[#] evolves into a [#!]Sprout Fiend[#] after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
-[*]The [#!]Sprout Fiend[#] evolves into a [#!]Blossom Mega Fiend[#] after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
-[*]The evolution of the Fiends is delayed by {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turn each time they absorb healing.
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Summons a Seedling Fiend every turn to a random enemy.
+The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
+The Sprout Fiend evolves into a Blossom Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
+The evolution of the Fiends is delayed by {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turn each time they absorb healing.
 
-[#!]Seedling Fiend[#]:
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] health.
+Seedling Fiend:
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% health.
 
-[#!]Sprout Fiend[#]:
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] health.
+Sprout Fiend:
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% health.
 
-[#!]Blossom Mega Fiend[#]:
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] health."
+Blossom Mega Fiend:
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% health."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.sharedonceperturn","Summons a Seedling Fiend every turn to a random enemy. This Passive Skill only activates once per turn for each team.
 The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
 The Sprout Fiend evolves into a Blossom Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
@@ -378,32 +401,32 @@ Sprout Fiend:
 
 Blossom Mega Fiend:
 {EVOLVINGFAMILIAR3FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% health."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Summons a [#!]Seedling Fiend[#] every turn to a random enemy. This Passive Skill only activates once per turn for each team.
-[*]The [#!]Seedling Fiend[#] evolves into a [#!]Sprout Fiend[#] after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
-[*]The [#!]Sprout Fiend[#] evolves into a [#!]Blossom Mega Fiend[#] after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
-[*]The evolution of the Fiends is delayed by {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turn each time they absorb healing.
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn","Summons a Seedling Fiend every turn to a random enemy. This Passive Skill only activates once per turn for each team.
+The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
+The Sprout Fiend evolves into a Blossom Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
+The evolution of the Fiends is delayed by {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turn each time they absorb healing.
 
-[#!]Seedling Fiend[#]:
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] health.
+Seedling Fiend:
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% health.
 
-[#!]Sprout Fiend[#]:
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] health.
+Sprout Fiend:
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% health.
 
-[#!]Blossom Mega Fiend[#]:
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] health."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Summons a [#!]Seedling Fiend[#] every turn to a random enemy. This Passive Skill only activates once per turn for each team.
-[*]The [#!]Seedling Fiend[#] evolves into a [#!]Sprout Fiend[#] after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
-[*]The [#!]Sprout Fiend[#] evolves into a [#!]Blossom Mega Fiend[#] after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
-[*]The evolution of the Fiends is delayed by {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turn each time they absorb healing.
+Blossom Mega Fiend:
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% health."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","Summons a Seedling Fiend every turn to a random enemy. This Passive Skill only activates once per turn for each team.
+The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
+The Sprout Fiend evolves into a Blossom Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
+The evolution of the Fiends is delayed by {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turn each time they absorb healing.
 
-[#!]Seedling Fiend[#]:
-[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] health.
+Seedling Fiend:
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% health.
 
-[#!]Sprout Fiend[#]:
-[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] health.
+Sprout Fiend:
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% health.
 
-[#!]Blossom Mega Fiend[#]:
-[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] attack, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] health."
+Blossom Mega Fiend:
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% attack, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% health."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","When this character is defeated, they summon Slime Mega Minions to nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from this character."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","When this character is defeated, they summon Slime Mega Minions to nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from this character."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","When this character is defeated, they summon Slime Mega Minions to nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from this character."
@@ -438,6 +461,7 @@ Blossom Mega Fiend:
 "herocard.passive_skill.inactive","INACTIVE: Reach max level and full ascension to activate."
 "herocard.passive_skill.replace.minordebuff.attackmodifier.to.minorbuff.attackmodifier","Attack ailments to {ATTACK}% attack for {TURNS} turns."
 "herocard.passive_skill.replace.minordebuff.buffimmunity.to.minorbuff.debuffshield","Buff immunity ailments to ailment immunity for {TURNS} turns."
+"herocard.passive_skill.replace.minordebuff.damageovertime.to.minorbuff.fixedhealthrecovery","Damage over time status ailments to {TOTAL} HP regenerated over {TURNS} turns."
 "herocard.passive_skill.replace.minordebuff.defensemodifier.to.minorbuff.defensemodifier","Defense ailments to {DEFENSE}% defense for {TURNS} turns."
 "herocard.passive_skill.replace.minordebuff.healingmodifier.to.minorbuff.healmultiplier","Healing reductions to {HEALING}% increased healing for {TURNS} turns."
 "herocard.passive_skill.replace.minordebuff.manaeffect.to.minorbuff.managenerationmodifier","Mana ailments to {MANAREGEN}% mana generation for {TURNS} turns."
@@ -504,6 +528,7 @@ Blossom Mega Fiend:
 "herocard.passive_skill.title.effectonhealsupportcharacter.troop.heal","Extra HEALING"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.attackmodifier","Status Effect on Mana Reduction"
 "herocard.passive_skill.title.effectonmanareduction.statuseffects.yellowdefensemodifier","Status Effect on Mana Reduction"
+"herocard.passive_skill.title.effectonownerdeath.damage.statuseffects.bleeding","Dishonorable Defeat"
 "herocard.passive_skill.title.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Health Boost and Mana on Resist"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Mana On Health Boosting Special Skill"
 "herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.on_healthboost_cast","Health Boost On Enemy Health Boost"
@@ -511,6 +536,7 @@ Blossom Mega Fiend:
 "herocard.passive_skill.title.effectonspecialskilldamagedone.bufftoremove.minordebuff.safe.only_criticals","Cleanse on Critical Special Attack"
 "herocard.passive_skill.title.effectonspecialskilldamagedone.healthboost.only_criticals","Health Boost on Critical Special Attack"
 "herocard.passive_skill.title.effectonspecialskilldamagereceived.healthboost.only_criticals","Health Boost on Critical Special Attack"
+"herocard.passive_skill.title.effectonspecialwithchance.activates_on_ally_action.does_not_activate_on_owner_action.damage.directeffect1_statuseffects.defensemodifier","Nibble"
 "herocard.passive_skill.title.effectonspecialwithchance.activates_on_enemy_action.healthboost","Boost Health On Enemy Special"
 "herocard.passive_skill.title.effectonspecialwithchance.addmana","Mana on Special"
 "herocard.passive_skill.title.effectonspecialwithchance.bufftoremove.minorbuff.latest","Dispel on Special Skill"
@@ -527,6 +553,8 @@ Blossom Mega Fiend:
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.managenerationmodifier","Status Effect on Special"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.poison","Poison on Special Skill"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.possession","Mindless Attack on Special Skill"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackingdefensemodifier","Stack on Special"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.stackinghealthgeneration","Stack on special"
 "herocard.passive_skill.title.effectonspecialwithchance.statuseffects.underwater","Damage Over Time on Special"
 "herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.damage.faster.average.once","Damage on Enemy Special"
 "herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.allbuffs.taunt","Mana On Taunt"
@@ -550,6 +578,7 @@ Blossom Mega Fiend:
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","Mana on Fiend Summon"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.damage.enemies.parasite","Wrath of Pets"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.healthboost.enemies.parasite","Health Boost on Fiend Summon"
+"herocard.passive_skill.title.empowered_toon_resist_manareduction_dispels","Empowered Toon"
 "herocard.passive_skill.title.familiaraccuracymodifier.all.enemies.minion.bigminion","Minion Blind"
 "herocard.passive_skill.title.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core","Minion Core"
 "herocard.passive_skill.title.familiarhealthmodifier.all.enemies.bigminion.decrease","Weaker Mega Minions"
@@ -586,7 +615,9 @@ Blossom Mega Fiend:
 "herocard.passive_skill.title.memorizestatuseffects","Memorize Status Ailments"
 "herocard.passive_skill.title.mimic_dread_damage_minions","Dread"
 "herocard.passive_skill.title.mimiclootonlevelcompleted","Mimic Loot"
+"herocard.passive_skill.title.minioncorruption.all.enemies","Minion Corruption"
 "herocard.passive_skill.title.nevermissspecial","Perfect Accuracy"
+"herocard.passive_skill.title.preventboostedhealth.all.enemies","Prevent Boosted Healing"
 "herocard.passive_skill.title.ransack","Thief's Opportunity"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Steal Buff"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","Hunter's Sense"
@@ -639,6 +670,8 @@ Blossom Mega Fiend:
 "herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","Empowered Resist Special Skill Blocking"
 "herocard.passive_skill.title.resist.stopmanageneration","Resist Mana Generation Stopping"
 "herocard.passive_skill.title.resist.water","Resist Water"
+"herocard.passive_skill.title.resist_all_attack_effects","Trait:
+Tiny Frame"
 "herocard.passive_skill.title.resist_all_defense_effects","Trait: 
 Lithe Frame"
 "herocard.passive_skill.title.resistdebuffsfromfamiliars.minion","Resist Status Ailments from Minions"
@@ -696,6 +729,9 @@ Lithe Frame"
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","Mana Generation Buff from Ailments"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","Elemental Mask"
 "herocard.passive_skill.title.stylish","Stylish!"
+"herocard.passive_skill.title.stylish_epic","Stylish!"
+"herocard.passive_skill.title.stylish_legendary","Stylish!"
+"herocard.passive_skill.title.stylish_rare","Stylish!"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","Seedling Summoner"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Seedling Summoner"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","Seedling Summoner"
