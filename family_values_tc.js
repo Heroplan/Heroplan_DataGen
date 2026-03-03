@@ -84,6 +84,8 @@ window.family_values = {
     "shady_scoundrels": "陰險無賴",
     "titan_hunter": "泰坦獵人召喚 - 泰坦獵人",
     "fortune": "月活動 - 鴻運舞者",
+    "rodent": "生日召喚 - 冒險小鼠",
+    "ronin": "高塔 - 浪人",
 
     "hotm2017": "月英 - 2017",
     "hotm2018": "月英 - 2018",

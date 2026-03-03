@@ -84,6 +84,8 @@ window.family_values = {
     "shady_scoundrels": "Shady Scoundrel",
     "titan_hunter": "Titan Hunter Summon - Titan Hunter",
     "fortune": "Monthly Event - Fortune Dancer",
+    "rodent": "Birthday Summon - Adventurous Rodent",
+    "ronin": "Tower - Ronin",
 
     "hotm2017": "Monthly Hero - 2017",
     "hotm2018": "Monthly Hero - 2018",
