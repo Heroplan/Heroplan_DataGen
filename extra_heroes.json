@@ -1,17 +1,5 @@
 [
     {
-        "name": "Savann",
-        "fancy_name": "Cat of the Sun-Blessed Valley",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2026-03-04 07:00:00",
-        "star": 5,
-        "family": "wild_cat",
-        "costume_id": 0,
-        "heroId": "wild_cat_savann",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Onwyn",
         "fancy_name": "Onion Bandit",
         "color": "Yellow",

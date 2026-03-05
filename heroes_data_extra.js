@@ -44693,5 +44693,30 @@ window.allHeroesExtra = [
             "bypass_minions_and_mega_minions"
         ],
         "family": "hotm2026"
+    },
+    {
+        "name": "Savann",
+        "fancy name": "Cat of the Sun-Blessed Valley",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
+        "Release date": "2026-03-04",
+        "AetherPower": "Regen",
+        "skill_types": [
+            "Max Health Reducers",
+            "Silencers",
+            "Ability Scores Modifiers"
+        ],
+        "heroId": "wild_cat_savann",
+        "baseAttack": 676,
+        "baseDefense": 608,
+        "baseHealth": 1120,
+        "specialId": "greeting_of_the_sun",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "family": "wild_cat"
     }
 ];
