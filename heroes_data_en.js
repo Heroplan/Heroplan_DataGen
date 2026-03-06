@@ -115277,6 +115277,91 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Onwyn",
+        "fancy_name": "Onion Bandit",
+        "AetherPower": "Counterattack",
+        "color": "Yellow",
+        "class": "Ranger",
+        "speed": "Slow",
+        "skill": "Teargas Roulette",
+        "types": [
+            "Hit 1",
+            "Hit Random 5",
+            "Summon Seedling Fiend to hit enemies",
+            "Blind to hit enemies"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Chain & Random Attackers",
+            "Fiends Summoners",
+            "Debuffers (ATK)"
+        ],
+        "source": "Challenge - Vigilant Vegetables Summon",
+        "Release date": "2026-03-06",
+        "specialId": "teargas_roulette",
+        "passiveSkills": [
+            "summon_seedling_parasite_with_delay",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "heroId": "vegetable_onwyn",
+        "star": 5,
+        "power": 1285,
+        "attack": 1336,
+        "defense": 1322,
+        "health": 2305,
+        "effects": [
+            "Deals 375% damage to the target and 5 random enemies.",
+            "Summons a Seedling Fiend to each hit enemy. (The Seeding Fiend evolves into a Sprout Fiend after 2 turns. The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.",
+            "* Seedling Fiend: 50% attack, 20% health.",
+            "* Sprout Fiend: 75% attack, 30% health.",
+            "* Blossom Mega Fiend: 250% attack, 60% health. A Fiend damages their target every turn. A Fiend disappears after absorbing healing. Amount of healing required depends on the target's max health. The Evolution of the Fiends is delayed with 1 turn each time they are absorb healing.)",
+            "All hit target gets -49% accuracy for 5 turns. (Chance to miss also applies to offensive Special Skills.)"
+        ],
+        "passives": [
+            "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
+            "Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy.",
+            "* The Seedling Fiend evolves into a Sprout Fiend after 2 turns.",
+            "* The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.",
+            "* The evolution of the Fiends is delayed by 1 turn each time they absorb healing.",
+            "1) Seedling Fiend: 50% attack, 20% health",
+            "2) Sprout Fiend: 75% attack, 30% health",
+            "3) Blossom Mega Fiend: 250% attack, 60% health."
+        ],
+        "family": "vegetable",
+        "costume_id": 0,
+        "originalIndex": 1631,
+        "lb1": {
+            "attack": 1440,
+            "defense": 1425,
+            "health": 2484,
+            "power": 1375
+        },
+        "lb2": {
+            "attack": 1648,
+            "defense": 1630,
+            "health": 2842,
+            "power": 1556
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Atk: Random"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Papyros",
         "fancy_name": "Golem of Paper and Sand",
         "AetherPower": "Special Armor",
@@ -115316,7 +115401,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1631,
+        "originalIndex": 1632,
         "lb1": {
             "attack": 876,
             "defense": 883,
@@ -115402,7 +115487,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1632,
+        "originalIndex": 1633,
         "lb1": {
             "attack": 1223,
             "defense": 1329,
@@ -115479,7 +115564,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1633,
+        "originalIndex": 1634,
         "lb1": {
             "attack": 896,
             "defense": 821,
@@ -115561,7 +115646,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1634,
+        "originalIndex": 1635,
         "lb1": {
             "attack": 1054,
             "defense": 1105,
@@ -115650,7 +115735,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1635,
+        "originalIndex": 1636,
         "lb1": {
             "attack": 1363,
             "defense": 1400,
@@ -115728,7 +115813,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1636,
+        "originalIndex": 1637,
         "lb1": {
             "attack": 1252,
             "defense": 1278,
@@ -115806,7 +115891,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1637,
+        "originalIndex": 1638,
         "lb1": {
             "attack": 1351,
             "defense": 1201,
@@ -115874,7 +115959,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 1638,
+        "originalIndex": 1639,
         "lb1": {
             "attack": 803,
             "defense": 774,
@@ -115935,7 +116020,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 1639,
+        "originalIndex": 1640,
         "lb1": {
             "attack": 1450,
             "defense": 1401,
@@ -116001,7 +116086,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1640,
+        "originalIndex": 1641,
         "lb1": {
             "attack": 803,
             "defense": 870,
@@ -116073,7 +116158,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1641,
+        "originalIndex": 1642,
         "lb1": {
             "attack": 1038,
             "defense": 1125,
@@ -116133,7 +116218,7 @@ window.allHeroes =
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1642,
+        "originalIndex": 1643,
         "lb1": {
             "attack": 859,
             "defense": 896,
@@ -116204,7 +116289,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1643,
+        "originalIndex": 1644,
         "lb1": {
             "attack": 792,
             "defense": 765,
@@ -116274,7 +116359,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1644,
+        "originalIndex": 1645,
         "lb1": {
             "attack": 1004,
             "defense": 979,
@@ -116343,7 +116428,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1645,
+        "originalIndex": 1646,
         "lb1": {
             "attack": 828,
             "defense": 843,
@@ -116412,7 +116497,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1646,
+        "originalIndex": 1647,
         "lb1": {
             "attack": 1338,
             "defense": 1385,
@@ -116479,7 +116564,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1647,
+        "originalIndex": 1648,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -116551,7 +116636,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1648,
+        "originalIndex": 1649,
         "lb1": {
             "attack": 821,
             "defense": 796,
@@ -116617,7 +116702,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1649,
+        "originalIndex": 1650,
         "lb1": {
             "attack": 1023,
             "defense": 1010,
@@ -116694,7 +116779,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1650,
+        "originalIndex": 1651,
         "lb1": {
             "attack": 1167,
             "defense": 1252,
@@ -116775,7 +116860,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1651,
+        "originalIndex": 1652,
         "lb1": {
             "attack": 1345,
             "defense": 1314,
@@ -116856,7 +116941,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1652,
+        "originalIndex": 1653,
         "lb1": {
             "attack": 1329,
             "defense": 1276,
@@ -116929,7 +117014,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1653,
+        "originalIndex": 1654,
         "lb1": {
             "attack": 1338,
             "defense": 1316,
@@ -117016,7 +117101,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1654,
+        "originalIndex": 1655,
         "lb1": {
             "attack": 1500,
             "defense": 1349,
@@ -117086,7 +117171,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1655,
+        "originalIndex": 1656,
         "lb1": {
             "attack": 1125,
             "defense": 1172,
@@ -117169,7 +117254,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1656,
+        "originalIndex": 1657,
         "lb1": {
             "attack": 976,
             "defense": 1107,
@@ -117256,7 +117341,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1657,
+        "originalIndex": 1658,
         "lb1": {
             "attack": 1440,
             "defense": 1367,
@@ -117331,7 +117416,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1658,
+        "originalIndex": 1659,
         "lb1": {
             "attack": 1136,
             "defense": 1238,
@@ -117399,7 +117484,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1659,
+        "originalIndex": 1660,
         "lb1": {
             "attack": 850,
             "defense": 772,
@@ -117461,7 +117546,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1660,
+        "originalIndex": 1661,
         "lb1": {
             "attack": 1037,
             "defense": 1031,
@@ -117525,7 +117610,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1661,
+        "originalIndex": 1662,
         "lb1": {
             "attack": 1334,
             "defense": 1309,
@@ -117591,7 +117676,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1662,
+        "originalIndex": 1663,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -117661,7 +117746,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1663,
+        "originalIndex": 1664,
         "lb1": {
             "attack": 1209,
             "defense": 1165,
@@ -117745,7 +117830,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1664,
+        "originalIndex": 1665,
         "lb1": {
             "attack": 1474,
             "defense": 1249,
@@ -117815,7 +117900,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1665,
+        "originalIndex": 1666,
         "lb1": {
             "attack": 1090,
             "defense": 1156,
@@ -117888,7 +117973,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1666,
+        "originalIndex": 1667,
         "lb1": {
             "attack": 808,
             "defense": 792,
@@ -117957,7 +118042,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1667,
+        "originalIndex": 1668,
         "lb1": {
             "attack": 1008,
             "defense": 1020,
@@ -118028,7 +118113,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1668,
+        "originalIndex": 1669,
         "lb1": {
             "attack": 927,
             "defense": 941,
@@ -118105,7 +118190,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1669,
+        "originalIndex": 1670,
         "lb1": {
             "attack": 1258,
             "defense": 1147,
@@ -118178,7 +118263,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1670,
+        "originalIndex": 1671,
         "lb1": {
             "attack": 885,
             "defense": 759,
@@ -118255,7 +118340,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1671,
+        "originalIndex": 1672,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -118336,7 +118421,7 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1672,
+        "originalIndex": 1673,
         "lb1": {
             "attack": 1367,
             "defense": 1427,
@@ -118422,7 +118507,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1673,
+        "originalIndex": 1674,
         "lb1": {
             "attack": 1012,
             "defense": 1018,
@@ -118519,7 +118604,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1674,
+        "originalIndex": 1675,
         "lb1": {
             "attack": 1336,
             "defense": 1353,
@@ -118591,7 +118676,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1675,
+        "originalIndex": 1676,
         "lb1": {
             "attack": 770,
             "defense": 748,
@@ -118660,7 +118745,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1676,
+        "originalIndex": 1677,
         "lb1": {
             "attack": 860,
             "defense": 852,
@@ -118729,7 +118814,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1677,
+        "originalIndex": 1678,
         "lb1": {
             "attack": 967,
             "defense": 976,
@@ -118802,7 +118887,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1678,
+        "originalIndex": 1679,
         "lb1": {
             "attack": 1187,
             "defense": 1197,
@@ -118878,7 +118963,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1679,
+        "originalIndex": 1680,
         "lb1": {
             "attack": 1336,
             "defense": 1355,
@@ -118952,7 +119037,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1680,
+        "originalIndex": 1681,
         "lb1": {
             "attack": 1408,
             "defense": 1437,
@@ -119021,7 +119106,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1681,
+        "originalIndex": 1682,
         "lb1": {
             "attack": 1276,
             "defense": 1207,
@@ -119102,7 +119187,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1682,
+        "originalIndex": 1683,
         "lb1": {
             "attack": 1198,
             "defense": 1332,
@@ -119184,7 +119269,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1683,
+        "originalIndex": 1684,
         "lb1": {
             "attack": 1391,
             "defense": 1414,
@@ -119250,7 +119335,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1684,
+        "originalIndex": 1685,
         "lb1": {
             "attack": 788,
             "defense": 808,
@@ -119315,7 +119400,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 1685,
+        "originalIndex": 1686,
         "lb1": {
             "attack": 1014,
             "defense": 998,
@@ -119399,7 +119484,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1686,
+        "originalIndex": 1687,
         "lb1": {
             "attack": 896,
             "defense": 970,
@@ -119481,7 +119566,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1687,
+        "originalIndex": 1688,
         "lb1": {
             "attack": 1036,
             "defense": 1132,
@@ -119550,7 +119635,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1688,
+        "originalIndex": 1689,
         "lb1": {
             "attack": 828,
             "defense": 845,
@@ -119623,7 +119708,7 @@ window.allHeroes =
         ],
         "family": "wolf",
         "costume_id": 1,
-        "originalIndex": 1689,
+        "originalIndex": 1690,
         "lb1": {
             "attack": 1222,
             "defense": 1258,
@@ -119703,7 +119788,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1690,
+        "originalIndex": 1691,
         "lb1": {
             "attack": 1354,
             "defense": 1418,
@@ -119772,7 +119857,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1691,
+        "originalIndex": 1692,
         "lb1": {
             "attack": 1305,
             "defense": 1256,
@@ -119849,7 +119934,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1692,
+        "originalIndex": 1693,
         "lb1": {
             "attack": 1025,
             "defense": 956,
@@ -119919,7 +120004,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1693,
+        "originalIndex": 1694,
         "lb1": {
             "attack": 879,
             "defense": 947,
@@ -119993,7 +120078,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1694,
+        "originalIndex": 1695,
         "lb1": {
             "attack": 1296,
             "defense": 1374,
@@ -120074,7 +120159,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1695,
+        "originalIndex": 1696,
         "lb1": {
             "attack": 1398,
             "defense": 1258,
@@ -120143,7 +120228,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1696,
+        "originalIndex": 1697,
         "lb1": {
             "attack": 863,
             "defense": 814,
@@ -120220,7 +120305,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1697,
+        "originalIndex": 1698,
         "lb1": {
             "attack": 1128,
             "defense": 1044,
@@ -120294,7 +120379,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1698,
+        "originalIndex": 1699,
         "lb1": {
             "attack": 1070,
             "defense": 1078,
@@ -120358,7 +120443,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1699,
+        "originalIndex": 1700,
         "lb1": {
             "attack": 923,
             "defense": 816,
@@ -120429,7 +120514,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1700,
+        "originalIndex": 1701,
         "lb1": {
             "attack": 1288,
             "defense": 1072,
@@ -120498,7 +120583,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1701,
+        "originalIndex": 1702,
         "lb1": {
             "attack": 765,
             "defense": 947,
@@ -120571,7 +120656,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1702,
+        "originalIndex": 1703,
         "lb1": {
             "attack": 1024,
             "defense": 1282,
@@ -120641,7 +120726,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1703,
+        "originalIndex": 1704,
         "lb1": {
             "attack": 939,
             "defense": 1076,
@@ -120671,32 +120756,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "Onwyn",
-        "fancy_name": "Onion Bandit",
-        "AetherPower": "",
-        "color": "Yellow",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "vegetable_onwyn",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "vegetable",
-        "costume_id": 0,
-        "originalIndex": 1704,
-        "cn_skill_info": []
     },
     {
         "name": "Zondalath",

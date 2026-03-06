@@ -8662,15 +8662,15 @@ window.allHeroes =
             "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
             "1 倍法力充能：",
             "* 对目标及附近敌人造成 250% 伤害。",
-            "* 目标与附近敌人获得 -35% 精准度，持续 2 回合。进攻型特殊技能也有相同几率落空。",
+            "* 目标与附近敌人获得 -35% 精准度，持续 2 回合。（进攻型特殊技能也有相同几率落空）",
             "* 若目标和附近敌人的特殊技能在 2 回合内落空，则该敌人将对一名随机盟友造成 320 点伤害。",
             "2 倍法力充能：",
             "* 对目标及附近敌人造成 325% 伤害。",
-            "* 目标与附近敌人获得 -40% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。",
+            "* 目标与附近敌人获得 -40% 精准度，持续 3 回合。（进攻型特殊技能也有相同几率落空）",
             "* 若目标和附近敌人的特殊技能在 3 回合内落空，则该敌人将对一名随机盟友造成 390 点伤害。",
             "3 倍法力充能：",
             "* 对目标及附近敌人造成 400% 伤害。",
-            "* 目标与附近敌人获得 -54% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。",
+            "* 目标与附近敌人获得 -54% 精准度，持续 4 回合。（进攻型特殊技能也有相同几率落空）",
             "* 若目标和附近敌人的特殊技能在 4 回合内落空，则该敌人将对一名随机盟友造成 470 点伤害。"
         ],
         "passives": [],
@@ -13196,7 +13196,7 @@ window.allHeroes =
         "effects": [
             "为所有盟友恢复 50% 生命值。",
             "所有盟友获得对自然系 +84% 的防御，每次被击中后额外增加 2% 防御，持续 4 回合。",
-            "所有敌人获得 -40% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。"
+            "所有敌人获得 -40% 精准度，持续 4 回合。（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [
             "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
@@ -13275,7 +13275,7 @@ window.allHeroes =
         "effects": [
             "为所有盟友恢复 54% 生命值。",
             "所有盟友获得对自然系 +64% 的防御，每次被击中后额外增加 3% 防御，持续 4 回合。",
-            "所有敌人获得 -45% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。"
+            "所有敌人获得 -45% 精准度，持续 4 回合。（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [
             "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
@@ -18709,7 +18709,7 @@ window.allHeroes =
         "effects": [
             "提高所有盟友 400 点生命值。提高的生命值可以超过最大生命值。",
             "所有敌人对新的增益状态效果免疫，持续 3 回合。",
-            "所有烈火系敌人获得 -38 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。",
+            "所有烈火系敌人获得 -38 精准度，持续 3 回合。（进攻型特殊技能也有相同几率落空）",
             "所有暗黑系敌人获得 -38% 法力生成，持续 3 回合。",
             "所有神圣系敌人获得 -38% 防御，持续 3 回合。",
             "所有自然系敌人获得 -38% 攻击力，持续 3 回合。"
@@ -27697,7 +27697,7 @@ window.allHeroes =
         "health": 1253,
         "effects": [
             "对所有敌人造成 200% 伤害。",
-            "所有冰雪系敌人获得 -30% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。",
+            "所有冰雪系敌人获得 -30% 精准度，持续 4 回合。（进攻型特殊技能也有相同几率落空）",
             "所有神圣系敌人获得 -30% 法力生成，持续 4 回合。",
             "所有暗黑系敌人获得 -30% 防御，持续 4 回合。",
             "所有烈火系敌人获得 -30% 攻击力，持续 4 回合。"
@@ -32738,7 +32738,7 @@ window.allHeroes =
         "effects": [
             "对所有敌人造成 250% 伤害。",
             "所有敌人对新的增益状态效果免疫，持续 4 回合，且每当有增益效果尝试施加于其上，他们都将受到 150 点伤害。",
-            "施法者获得 -10% 精准度，持续 4 回合。此效果无法净化。进攻型特殊技能也有相同几率落空。"
+            "施法者获得 -10% 精准度，持续 4 回合。此效果无法净化。（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [],
         "family": "easter",
@@ -43975,15 +43975,15 @@ window.allHeroes =
             "1 倍法力充能：",
             "* 对目标造成 240% 伤害。",
             "* 目标在 2 回合内受到共计 220 点剧毒伤害。",
-            "* 目标获得 -35% 精准度，持续 2 回合。进攻型特殊技能也有相同几率落空。",
+            "* 目标获得 -35% 精准度，持续 2 回合。（进攻型特殊技能也有相同几率落空）",
             "2 倍法力充能：",
             "* 对目标及附近敌人造成 280% 伤害。",
             "* 目标与附近敌人在 3 回合内受到共计 438 点剧毒伤害。",
-            "* 目标与附近敌人获得 -40% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。",
+            "* 目标与附近敌人获得 -40% 精准度，持续 3 回合。（进攻型特殊技能也有相同几率落空）",
             "3 倍法力充能：",
             "* 对所有敌人造成 320% 伤害。",
             "* 所有敌人在 4 回合内受到共计 764 点剧毒伤害。",
-            "* 所有敌人获得 -54% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。"
+            "* 所有敌人获得 -54% 精准度，持续 4 回合。（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [],
         "family": "ninja",
@@ -47194,7 +47194,7 @@ window.allHeroes =
         "health": 1481,
         "effects": [
             "对目标及附近敌人造成 270% 伤害。",
-            "所有敌人获得 -30% 精准度，持续 3 回合。对烈火系角色，此状态效果无法净化且持续时间延长 2 回合。进攻型特殊技能也有相同几率落空。"
+            "所有敌人获得 -30% 精准度，持续 3 回合。对烈火系角色，此状态效果无法净化且持续时间延长 2 回合。（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [
             "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
@@ -47259,7 +47259,7 @@ window.allHeroes =
         "health": 1974,
         "effects": [
             "对目标及附近敌人造成 300% 伤害。",
-            "所有敌人获得 -25% 精准度，持续 3 回合。对烈火系角色，此状态效果无法净化且持续时间延长 2 回合。进攻型特殊技能也有相同几率落空。"
+            "所有敌人获得 -25% 精准度，持续 3 回合。对烈火系角色，此状态效果无法净化且持续时间延长 2 回合。（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [
             "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
@@ -47459,7 +47459,7 @@ window.allHeroes =
         "effects": [
             "使用月出闪袭攻击所有敌人，造成最多 1200 点伤害。若目标为神圣系元素则额外造成 40% 伤害。",
             "所有敌人在 4 回合内受到共计 924 点流血伤害。",
-            "所有敌人获得 -45% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。"
+            "所有敌人获得 -45% 精准度，持续 4 回合。（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [
             "阻碍法力：通过特殊技能、被动技能、家族奖励和状态效果获得的法力将减少 -80%。此效果适用于战场上的所有敌人。"
@@ -50235,13 +50235,13 @@ window.allHeroes =
             "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
             "1 倍法力充能：",
             "- 所有敌人在 2 回合内受到共计 64 点剧毒伤害。",
-            "- 所有敌人获得 -40% 精准度，持续 2 回合。进攻型特殊技能也有相同几率落空。",
+            "- 所有敌人获得 -40% 精准度，持续 2 回合。（进攻型特殊技能也有相同几率落空）",
             "2 倍法力充能：",
             "- 所有敌人在 4 回合内受到共计 196 点剧毒伤害。",
-            "- 所有敌人获得 -40% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。",
+            "- 所有敌人获得 -40% 精准度，持续 4 回合。（进攻型特殊技能也有相同几率落空）",
             "3 倍法力充能：",
             "- 所有敌人在 6 回合内受到共计 354 点剧毒伤害。",
-            "- 所有敌人获得 -40% 精准度，持续 6 回合。进攻型特殊技能也有相同几率落空。"
+            "- 所有敌人获得 -40% 精准度，持续 6 回合。（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [],
         "family": "ninja",
@@ -59523,7 +59523,7 @@ window.allHeroes =
         "health": 1439,
         "effects": [
             "对目标及附近敌人造成 270% 伤害。",
-            "目标与附近敌人获得 -35% 精准度，持续 3 回合。若目标受到治疗，则效果持续时间将重置。进攻型特殊技能也有相同几率落空。"
+            "目标与附近敌人获得 -35% 精准度，持续 3 回合。若目标受到治疗，则效果持续时间将重置。（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [
             "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。"
@@ -59590,7 +59590,7 @@ window.allHeroes =
         "health": 1952,
         "effects": [
             "对目标及附近敌人造成 265% 伤害。",
-            "目标与附近敌人获得 -40% 精准度，持续 4 回合。若目标受到治疗，则效果持续时间将重置。进攻型特殊技能也有相同几率落空。"
+            "目标与附近敌人获得 -40% 精准度，持续 4 回合。若目标受到治疗，则效果持续时间将重置。（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [
             "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。",
@@ -64608,7 +64608,7 @@ window.allHeroes =
         "health": 1751,
         "effects": [
             "对目标及附近敌人造成 470% 伤害。",
-            "目标与附近敌人获得 -40% 精准度，持续 6 回合。进攻型特殊技能也有相同几率落空。",
+            "目标与附近敌人获得 -40% 精准度，持续 6 回合。（进攻型特殊技能也有相同几率落空）",
             "目标与附近敌人获得 -34% 防御，持续 6 回合。",
             "施法者在 6 回合内恢复 918 点生命值。"
         ],
@@ -95400,7 +95400,7 @@ window.allHeroes =
         "effects": [
             "对目标及附近敌人造成 345% 伤害。",
             "使目标和附近敌人的法力减少 20%。",
-            "目标与附近敌人获得 -35% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。",
+            "目标与附近敌人获得 -35% 精准度，持续 4 回合。（进攻型特殊技能也有相同几率落空）",
             "元素链为全体烈火系盟友提供 +10% 的法力生成，持续 4 回合。此效果无法驱散。"
         ],
         "passives": [
@@ -98268,7 +98268,7 @@ window.allHeroes =
         "health": 693,
         "effects": [
             "对目标造成 300% 伤害。",
-            "目标获得 -35% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。"
+            "目标获得 -35% 精准度，持续 4 回合。（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [],
         "family": "classic",
@@ -98329,7 +98329,7 @@ window.allHeroes =
         "health": 682,
         "effects": [
             "对目标造成 280% 伤害。",
-            "目标获得 -40% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。"
+            "目标获得 -40% 精准度，持续 4 回合。（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [],
         "family": "classic",
@@ -100490,7 +100490,7 @@ window.allHeroes =
         "health": 869,
         "effects": [
             "对所有敌人造成 120% 伤害。",
-            "所有敌人获得 -25% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。"
+            "所有敌人获得 -25% 精准度，持续 3 回合。（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [],
         "family": "atlantis",
@@ -102037,7 +102037,7 @@ window.allHeroes =
             "变个戏法获得一个特殊效果：",
             "刀剑：",
             "* 对所有敌人造成 255% 伤害。",
-            "* 所有敌人获得 -54% 精准度，持续 3 回合，进攻型特殊技能也有相同几率落空。",
+            "* 所有敌人获得 -54% 精准度，持续 3 回合，（进攻型特殊技能也有相同几率落空）",
             "瓶子：",
             "* 所有盟友获得 +24% 法力生成，持续 4 回合。",
             "* 所有盟友获得 +63% 防御，持续 4 回合。",
@@ -103100,7 +103100,7 @@ window.allHeroes =
         "effects": [
             "对所有敌人造成 210% 伤害。",
             "所有敌人获得 -40% 精准度，持续 4 回合。",
-            "进攻型特殊技能也有相同几率落空。"
+            "（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [],
         "family": "classic",
@@ -103163,7 +103163,7 @@ window.allHeroes =
         "health": 1280,
         "effects": [
             "对所有敌人造成 160% 伤害。",
-            "所有敌人获得 -30% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。",
+            "所有敌人获得 -30% 精准度，持续 4 回合。（进攻型特殊技能也有相同几率落空）",
             "所有敌人获得的治疗减少 -50%，持续 4 回合。此效果无法净化。"
         ],
         "passives": [],
@@ -103228,7 +103228,7 @@ window.allHeroes =
         "health": 1361,
         "effects": [
             "对所有敌人造成 200% 伤害。",
-            "所有敌人获得 -30% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。",
+            "所有敌人获得 -30% 精准度，持续 4 回合。（进攻型特殊技能也有相同几率落空）",
             "所有敌人获得 -24% 法力生成，持续 4 回合。"
         ],
         "passives": [],
@@ -104646,7 +104646,7 @@ window.allHeroes =
         "health": 992,
         "effects": [
             "所有盟友获得 +185% 攻击力与 -32% 精准度，持续 5 回合。",
-            "进攻型特殊技能也有相同几率落空。"
+            "（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [],
         "family": "classic",
@@ -104765,7 +104765,7 @@ window.allHeroes =
         "defense": 725,
         "health": 1211,
         "effects": [
-            "所有盟友获得 +170% 攻击力与 -25% 精准度，持续 5 回合。进攻型特殊技能也有相同几率落空。"
+            "所有盟友获得 +170% 攻击力与 -25% 精准度，持续 5 回合。（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [],
         "family": "classic",
@@ -104891,7 +104891,7 @@ window.allHeroes =
         "defense": 799,
         "health": 1304,
         "effects": [
-            "所有盟友获得 +180% 攻击力与 -32% 精准度，持续 5 回合。（进攻型特殊技能也有相同几率落空。）",
+            "所有盟友获得 +180% 攻击力与 -32% 精准度，持续 5 回合。（（进攻型特殊技能也有相同几率落空））",
             "所有神圣系盟友可反弹状态异常和负面效果叠加，持续 2 回合。（同队角色、小兵和恶魔施放的状态效果无法反弹）"
         ],
         "passives": [
@@ -106209,7 +106209,7 @@ window.allHeroes =
         "health": 1314,
         "effects": [
             "对目标造成 390% 伤害。",
-            "目标获得 -75% 精准度，持续 2 回合。进攻型特殊技能也有相同几率落空。",
+            "目标获得 -75% 精准度，持续 2 回合。（进攻型特殊技能也有相同几率落空）",
             "目标获得的治疗减少 -75%，持续 2 回合。",
             "元素链为全体神圣系盟友提供针对特殊技能 +30% 的防御，持续 4 回合。此效果无法净化。"
         ],
@@ -107527,7 +107527,7 @@ window.allHeroes =
         "health": 1353,
         "effects": [
             "对目标及附近敌人造成 330% 伤害。",
-            "目标与附近敌人获得 -35% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。",
+            "目标与附近敌人获得 -35% 精准度，持续 3 回合。（进攻型特殊技能也有相同几率落空）",
             "元素链为全体神圣系盟友提供 +5% 的攻击和 +5% 的防御，持续 6 回合。此效果无法净化。"
         ],
         "passives": [],
@@ -107594,7 +107594,7 @@ window.allHeroes =
         "health": 1947,
         "effects": [
             "对目标及附近敌人造成 300% 伤害。",
-            "目标与附近敌人获得 -50% 精准度，持续 3 回合。若目标受到治疗，则效果持续时间将重置。进攻型特殊技能也有相同几率落空。",
+            "目标与附近敌人获得 -50% 精准度，持续 3 回合。若目标受到治疗，则效果持续时间将重置。（进攻型特殊技能也有相同几率落空）",
             "元素链为全体神圣系盟友提供 +5% 的攻击和 +5% 的防御，持续 6 回合。此效果无法驱散。"
         ],
         "passives": [
@@ -110876,7 +110876,7 @@ window.allHeroes =
         "effects": [
             "对所有敌人造成 210% 伤害。",
             "为施法者和附近盟友召唤一个樱花狐狸小兵。樱花狐狸小兵从施法者处继承了 12% 生命和 30% 攻击力。该小兵可在每回合结束时为主人增加 7% 法力。",
-            "所有敌人获得 -40% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。"
+            "所有敌人获得 -40% 精准度，持续 3 回合。（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [],
         "family": "japanese",
@@ -111540,7 +111540,7 @@ window.allHeroes =
         "health": 1339,
         "effects": [
             "对目标造成 468% 伤害。",
-            "目标获得 -40% 精准度，持续 6 回合。进攻型特殊技能也有相同几率落空。"
+            "目标获得 -40% 精准度，持续 6 回合。（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [],
         "family": "classic",
@@ -111601,7 +111601,7 @@ window.allHeroes =
         "health": 1599,
         "effects": [
             "对目标造成 488% 伤害。",
-            "目标获得 -35% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。"
+            "目标获得 -35% 精准度，持续 4 回合。（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [],
         "family": "classic",
@@ -111665,7 +111665,7 @@ window.allHeroes =
         "effects": [
             "对目标及附近敌人造成 260% 伤害。",
             "目标与附近敌人在 3 回合内受到共计 195 点燃烧伤害。",
-            "目标与附近敌人获得 -35% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。"
+            "目标与附近敌人获得 -35% 精准度，持续 3 回合。（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [],
         "family": "classic",
@@ -111938,7 +111938,7 @@ window.allHeroes =
         "health": 1425,
         "effects": [
             "对所有敌人造成 285% 伤害。",
-            "所有敌人获得 -40% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。"
+            "所有敌人获得 -40% 精准度，持续 4 回合。（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [],
         "family": "classic",
@@ -112074,7 +112074,7 @@ window.allHeroes =
         "effects": [
             "对所有敌人造成 300% 伤害。",
             "每有一个敌人被击败，伤害增加 45%。",
-            "所有敌人获得 -40% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。"
+            "所有敌人获得 -40% 精准度，持续 3 回合。（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [],
         "family": "classic",
@@ -113604,7 +113604,7 @@ window.allHeroes =
             "对所有敌人造成 325% 伤害。",
             "所有敌人在 4 回合内受到共计 364 点流血伤害。对暗黑系角色，此状态效果无法净化且持续时间延长 2 回合。",
             "所有敌人获得的治疗减少 -75%，持续 4 回合。对暗黑系角色，此状态效果无法净化且持续时间延长 2 回合。",
-            "所有敌人获得 -35% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。对暗黑系角色，此状态效果无法净化且持续时间延长 2 回合。",
+            "所有敌人获得 -35% 精准度，持续 4 回合。（进攻型特殊技能也有相同几率落空）对暗黑系角色，此状态效果无法净化且持续时间延长 2 回合。",
             "对暗黑系造成额外伤害。"
         ],
         "passives": [
@@ -114350,7 +114350,7 @@ window.allHeroes =
             "2 倍法力充能：",
             "* 召唤蝴蝶恶魔附身于所有敌人。恶魔每回合对敌人造成 43% 攻击力的伤害。",
             "* 蝴蝶恶魔会吸收治疗。它在吸收了相当于其所有者最大生命值 50% 的治疗量后便会消失。",
-            "* 蝴蝶恶魔被召唤后，只要其所有者拥有蝴蝶恶魔，其所有者就会获得 -50% 精准度。此效果无法净化。进攻型特殊技能也有相同几率落空。"
+            "* 蝴蝶恶魔被召唤后，只要其所有者拥有蝴蝶恶魔，其所有者就会获得 -50% 精准度。此效果无法净化。（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [
             "此角色在施放特殊技能时，有 50% 的几率为所有盟友恢复 15% 的生命值。若该特殊技能已完全充满，则几率为 100%。"
@@ -114691,7 +114691,7 @@ window.allHeroes =
         "effects": [
             "对所有敌人造成 200% 伤害。",
             "使所有敌人的法力减少 20%。",
-            "所有敌人获得 -35% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。",
+            "所有敌人获得 -35% 精准度，持续 4 回合。（进攻型特殊技能也有相同几率落空）",
             "元素链为全体神圣系盟友提供 +4% 的法力生成，持续 4 回合。此效果无法驱散。"
         ],
         "passives": [
@@ -115277,6 +115277,91 @@ window.allHeroes =
         ]
     },
     {
+        "name": "昂温 (Onwyn)",
+        "fancy_name": "洋葱土匪",
+        "AetherPower": "反击",
+        "color": "黄",
+        "class": "游侠",
+        "speed": "慢",
+        "skill": "催泪轮盘",
+        "types": [
+            "攻击单个目标",
+            "随机攻击5个目标",
+            "召唤幼苗恶魔攻击敌人",
+            "致盲攻击者"
+        ],
+        "skill_types": [
+            "狙击手",
+            "连锁与随机攻击",
+            "召唤恶魔",
+            "攻击减益"
+        ],
+        "source": "挑战 - 英勇植物召唤",
+        "Release date": "2026-03-06",
+        "specialId": "teargas_roulette",
+        "passiveSkills": [
+            "summon_seedling_parasite_with_delay",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "heroId": "vegetable_onwyn",
+        "star": 5,
+        "power": 1285,
+        "attack": 1336,
+        "defense": 1322,
+        "health": 2305,
+        "effects": [
+            "对目标和随机 5 名敌人造成 375% 伤害。",
+            "在受到伤害的敌人处召唤幼苗恶魔。（2 回合后幼苗恶魔进化为萌芽恶魔，再过 2 回合后萌芽恶魔进化为鲜花超级恶魔。）",
+            "* 幼苗恶魔: 50% 攻击力， 20% 生命值。",
+            "* 萌芽恶魔: 75% 攻击力， 30% 生命值。",
+            "* 鲜花超级恶魔: 250% 攻击力， 60% 生命值。（恶魔每回合对其目标造成伤害，且吸收治疗后便会消失，吸收的治疗量取决于目标的最大生命值。恶魔每次吸收治疗，其进化都会延缓 1 回合。)",
+            "所有被击中的目标获得 -49% 精准度，持续 5 回合。（进攻型特殊技能也有相同几率落空）"
+        ],
+        "passives": [
+            "强化抵抗特殊技能格挡: 此英雄免疫禁用特殊技能的状态异常。每次抵抗时还会获得 450 点生命加成和 5% 法力。",
+            "幼苗召唤师：每回合为一名随机敌人召唤一个幼苗恶魔。",
+            "* 2 回合后，幼苗恶魔进化为萌芽恶魔。",
+            "* 再过 2 回合后萌芽恶魔进化为鲜花超级恶魔。",
+            "* 恶魔每次吸收治疗时，其进化将延迟 1 回合。",
+            "1 ） 幼苗恶魔: 50% 攻击力， 20% 生命值。",
+            "2 ） 萌芽恶魔: 75% 攻击力， 30% 生命值。",
+            "3 ） 鲜花超级恶魔: 250% 攻击力， 60% 生命值。"
+        ],
+        "family": "vegetable",
+        "costume_id": 0,
+        "originalIndex": 1631,
+        "lb1": {
+            "attack": 1440,
+            "defense": 1425,
+            "health": 2484,
+            "power": 1375
+        },
+        "lb2": {
+            "attack": 1648,
+            "defense": 1630,
+            "health": 2842,
+            "power": 1556
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：单体",
+                    "攻击：随机"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "召唤-恶魔"
+                ]
+            },
+            {
+                "负面效果": [
+                    "攻击-命中率↓"
+                ]
+            }
+        ]
+    },
+    {
         "name": "帕普罗斯 (Papyros)",
         "fancy_name": "纸莎魔像",
         "AetherPower": "特殊护甲",
@@ -115316,7 +115401,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1631,
+        "originalIndex": 1632,
         "lb1": {
             "attack": 876,
             "defense": 883,
@@ -115402,7 +115487,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1632,
+        "originalIndex": 1633,
         "lb1": {
             "attack": 1223,
             "defense": 1329,
@@ -115479,7 +115564,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1633,
+        "originalIndex": 1634,
         "lb1": {
             "attack": 896,
             "defense": 821,
@@ -115561,7 +115646,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1634,
+        "originalIndex": 1635,
         "lb1": {
             "attack": 1054,
             "defense": 1105,
@@ -115650,7 +115735,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1635,
+        "originalIndex": 1636,
         "lb1": {
             "attack": 1363,
             "defense": 1400,
@@ -115728,7 +115813,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1636,
+        "originalIndex": 1637,
         "lb1": {
             "attack": 1252,
             "defense": 1278,
@@ -115806,7 +115891,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1637,
+        "originalIndex": 1638,
         "lb1": {
             "attack": 1351,
             "defense": 1201,
@@ -115874,7 +115959,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 1638,
+        "originalIndex": 1639,
         "lb1": {
             "attack": 803,
             "defense": 774,
@@ -115935,7 +116020,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 1639,
+        "originalIndex": 1640,
         "lb1": {
             "attack": 1450,
             "defense": 1401,
@@ -116001,7 +116086,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1640,
+        "originalIndex": 1641,
         "lb1": {
             "attack": 803,
             "defense": 870,
@@ -116073,7 +116158,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1641,
+        "originalIndex": 1642,
         "lb1": {
             "attack": 1038,
             "defense": 1125,
@@ -116133,7 +116218,7 @@ window.allHeroes =
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1642,
+        "originalIndex": 1643,
         "lb1": {
             "attack": 859,
             "defense": 896,
@@ -116204,7 +116289,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1643,
+        "originalIndex": 1644,
         "lb1": {
             "attack": 792,
             "defense": 765,
@@ -116274,7 +116359,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1644,
+        "originalIndex": 1645,
         "lb1": {
             "attack": 1004,
             "defense": 979,
@@ -116343,7 +116428,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1645,
+        "originalIndex": 1646,
         "lb1": {
             "attack": 828,
             "defense": 843,
@@ -116412,7 +116497,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1646,
+        "originalIndex": 1647,
         "lb1": {
             "attack": 1338,
             "defense": 1385,
@@ -116479,7 +116564,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1647,
+        "originalIndex": 1648,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -116551,7 +116636,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1648,
+        "originalIndex": 1649,
         "lb1": {
             "attack": 821,
             "defense": 796,
@@ -116617,7 +116702,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1649,
+        "originalIndex": 1650,
         "lb1": {
             "attack": 1023,
             "defense": 1010,
@@ -116694,7 +116779,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1650,
+        "originalIndex": 1651,
         "lb1": {
             "attack": 1167,
             "defense": 1252,
@@ -116775,7 +116860,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1651,
+        "originalIndex": 1652,
         "lb1": {
             "attack": 1345,
             "defense": 1314,
@@ -116856,7 +116941,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1652,
+        "originalIndex": 1653,
         "lb1": {
             "attack": 1329,
             "defense": 1276,
@@ -116929,7 +117014,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1653,
+        "originalIndex": 1654,
         "lb1": {
             "attack": 1338,
             "defense": 1316,
@@ -117016,7 +117101,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1654,
+        "originalIndex": 1655,
         "lb1": {
             "attack": 1500,
             "defense": 1349,
@@ -117086,7 +117171,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1655,
+        "originalIndex": 1656,
         "lb1": {
             "attack": 1125,
             "defense": 1172,
@@ -117169,7 +117254,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1656,
+        "originalIndex": 1657,
         "lb1": {
             "attack": 976,
             "defense": 1107,
@@ -117256,7 +117341,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1657,
+        "originalIndex": 1658,
         "lb1": {
             "attack": 1440,
             "defense": 1367,
@@ -117331,7 +117416,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1658,
+        "originalIndex": 1659,
         "lb1": {
             "attack": 1136,
             "defense": 1238,
@@ -117399,7 +117484,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1659,
+        "originalIndex": 1660,
         "lb1": {
             "attack": 850,
             "defense": 772,
@@ -117461,7 +117546,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1660,
+        "originalIndex": 1661,
         "lb1": {
             "attack": 1037,
             "defense": 1031,
@@ -117525,7 +117610,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1661,
+        "originalIndex": 1662,
         "lb1": {
             "attack": 1334,
             "defense": 1309,
@@ -117591,7 +117676,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1662,
+        "originalIndex": 1663,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -117661,7 +117746,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1663,
+        "originalIndex": 1664,
         "lb1": {
             "attack": 1209,
             "defense": 1165,
@@ -117745,7 +117830,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1664,
+        "originalIndex": 1665,
         "lb1": {
             "attack": 1474,
             "defense": 1249,
@@ -117815,7 +117900,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1665,
+        "originalIndex": 1666,
         "lb1": {
             "attack": 1090,
             "defense": 1156,
@@ -117877,18 +117962,18 @@ window.allHeroes =
             "特殊技能连续使用会有不同的效果，顺序为：",
             "第一次：",
             "* 对目标造成 280% 伤害。",
-            "* 目标获得 -40% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。",
+            "* 目标获得 -40% 精准度，持续 3 回合。（进攻型特殊技能也有相同几率落空）",
             "第二次：",
             "* 对目标及附近敌人造成 280% 伤害。",
-            "* 目标与附近敌人获得 -40% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。",
+            "* 目标与附近敌人获得 -40% 精准度，持续 3 回合。（进攻型特殊技能也有相同几率落空）",
             "第三次：",
             "* 对所有敌人造成 280% 伤害。",
-            "* 所有敌人获得 -40% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。"
+            "* 所有敌人获得 -40% 精准度，持续 3 回合。（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1666,
+        "originalIndex": 1667,
         "lb1": {
             "attack": 808,
             "defense": 792,
@@ -117946,18 +118031,18 @@ window.allHeroes =
             "特殊技能连续使用会有不同的效果，顺序为：",
             "第一次：",
             "* 对所有敌人造成 185% 伤害。",
-            "* 所有敌人获得 -25% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。",
+            "* 所有敌人获得 -25% 精准度，持续 3 回合。（进攻型特殊技能也有相同几率落空）",
             "第二次：",
             "* 对所有敌人造成 260% 伤害。",
-            "* 所有敌人获得 -35% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。",
+            "* 所有敌人获得 -35% 精准度，持续 3 回合。（进攻型特殊技能也有相同几率落空）",
             "第三次：",
             "* 对所有敌人造成 290% 伤害。",
-            "* 所有敌人获得 -54% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。"
+            "* 所有敌人获得 -54% 精准度，持续 3 回合。（进攻型特殊技能也有相同几率落空）"
         ],
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1667,
+        "originalIndex": 1668,
         "lb1": {
             "attack": 1008,
             "defense": 1020,
@@ -118028,7 +118113,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1668,
+        "originalIndex": 1669,
         "lb1": {
             "attack": 927,
             "defense": 941,
@@ -118105,7 +118190,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1669,
+        "originalIndex": 1670,
         "lb1": {
             "attack": 1258,
             "defense": 1147,
@@ -118178,7 +118263,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1670,
+        "originalIndex": 1671,
         "lb1": {
             "attack": 885,
             "defense": 759,
@@ -118255,7 +118340,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1671,
+        "originalIndex": 1672,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -118336,7 +118421,7 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1672,
+        "originalIndex": 1673,
         "lb1": {
             "attack": 1367,
             "defense": 1427,
@@ -118422,7 +118507,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1673,
+        "originalIndex": 1674,
         "lb1": {
             "attack": 1012,
             "defense": 1018,
@@ -118519,7 +118604,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1674,
+        "originalIndex": 1675,
         "lb1": {
             "attack": 1336,
             "defense": 1353,
@@ -118591,7 +118676,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1675,
+        "originalIndex": 1676,
         "lb1": {
             "attack": 770,
             "defense": 748,
@@ -118660,7 +118745,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1676,
+        "originalIndex": 1677,
         "lb1": {
             "attack": 860,
             "defense": 852,
@@ -118729,7 +118814,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1677,
+        "originalIndex": 1678,
         "lb1": {
             "attack": 967,
             "defense": 976,
@@ -118802,7 +118887,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1678,
+        "originalIndex": 1679,
         "lb1": {
             "attack": 1187,
             "defense": 1197,
@@ -118878,7 +118963,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1679,
+        "originalIndex": 1680,
         "lb1": {
             "attack": 1336,
             "defense": 1355,
@@ -118952,7 +119037,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1680,
+        "originalIndex": 1681,
         "lb1": {
             "attack": 1408,
             "defense": 1437,
@@ -119021,7 +119106,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1681,
+        "originalIndex": 1682,
         "lb1": {
             "attack": 1276,
             "defense": 1207,
@@ -119102,7 +119187,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1682,
+        "originalIndex": 1683,
         "lb1": {
             "attack": 1198,
             "defense": 1332,
@@ -119184,7 +119269,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1683,
+        "originalIndex": 1684,
         "lb1": {
             "attack": 1391,
             "defense": 1414,
@@ -119250,7 +119335,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1684,
+        "originalIndex": 1685,
         "lb1": {
             "attack": 788,
             "defense": 808,
@@ -119315,7 +119400,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 1685,
+        "originalIndex": 1686,
         "lb1": {
             "attack": 1014,
             "defense": 998,
@@ -119399,7 +119484,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1686,
+        "originalIndex": 1687,
         "lb1": {
             "attack": 896,
             "defense": 970,
@@ -119481,7 +119566,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1687,
+        "originalIndex": 1688,
         "lb1": {
             "attack": 1036,
             "defense": 1132,
@@ -119550,7 +119635,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1688,
+        "originalIndex": 1689,
         "lb1": {
             "attack": 828,
             "defense": 845,
@@ -119623,7 +119708,7 @@ window.allHeroes =
         ],
         "family": "wolf",
         "costume_id": 1,
-        "originalIndex": 1689,
+        "originalIndex": 1690,
         "lb1": {
             "attack": 1222,
             "defense": 1258,
@@ -119703,7 +119788,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1690,
+        "originalIndex": 1691,
         "lb1": {
             "attack": 1354,
             "defense": 1418,
@@ -119772,7 +119857,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1691,
+        "originalIndex": 1692,
         "lb1": {
             "attack": 1305,
             "defense": 1256,
@@ -119849,7 +119934,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1692,
+        "originalIndex": 1693,
         "lb1": {
             "attack": 1025,
             "defense": 956,
@@ -119919,7 +120004,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1693,
+        "originalIndex": 1694,
         "lb1": {
             "attack": 879,
             "defense": 947,
@@ -119993,7 +120078,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1694,
+        "originalIndex": 1695,
         "lb1": {
             "attack": 1296,
             "defense": 1374,
@@ -120074,7 +120159,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1695,
+        "originalIndex": 1696,
         "lb1": {
             "attack": 1398,
             "defense": 1258,
@@ -120143,7 +120228,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1696,
+        "originalIndex": 1697,
         "lb1": {
             "attack": 863,
             "defense": 814,
@@ -120220,7 +120305,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1697,
+        "originalIndex": 1698,
         "lb1": {
             "attack": 1128,
             "defense": 1044,
@@ -120294,7 +120379,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1698,
+        "originalIndex": 1699,
         "lb1": {
             "attack": 1070,
             "defense": 1078,
@@ -120358,7 +120443,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1699,
+        "originalIndex": 1700,
         "lb1": {
             "attack": 923,
             "defense": 816,
@@ -120429,7 +120514,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1700,
+        "originalIndex": 1701,
         "lb1": {
             "attack": 1288,
             "defense": 1072,
@@ -120498,7 +120583,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1701,
+        "originalIndex": 1702,
         "lb1": {
             "attack": 765,
             "defense": 947,
@@ -120571,7 +120656,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1702,
+        "originalIndex": 1703,
         "lb1": {
             "attack": 1024,
             "defense": 1282,
@@ -120641,7 +120726,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1703,
+        "originalIndex": 1704,
         "lb1": {
             "attack": 939,
             "defense": 1076,
@@ -120671,32 +120756,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "昂温 (Onwyn)",
-        "fancy_name": "洋葱土匪",
-        "AetherPower": "",
-        "color": "黄",
-        "class": "圣骑士",
-        "speed": "慢",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "vegetable_onwyn",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "vegetable",
-        "costume_id": 0,
-        "originalIndex": 1704,
-        "cn_skill_info": []
     },
     {
         "name": "尊达拉斯 (Zondalath)",

@@ -44718,5 +44718,31 @@ window.allHeroesExtra = [
             "revive_chance_nine_lives"
         ],
         "family": "wild_cat"
+    },
+    {
+        "name": "Onwyn",
+        "fancy name": "Onion Bandit",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "slow",
+        "Release date": "2026-03-06",
+        "AetherPower": "Counterattack",
+        "skill_types": [
+            "Snipers",
+            "Chain & Random Attackers",
+            "Fiends Summoners",
+            "Debuffers (ATK)"
+        ],
+        "heroId": "vegetable_onwyn",
+        "baseAttack": 649,
+        "baseDefense": 642,
+        "baseHealth": 1119,
+        "specialId": "teargas_roulette",
+        "passiveSkills": [
+            "summon_seedling_parasite_with_delay",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "vegetable"
     }
 ];

@@ -1045,5 +1045,7 @@
   "Attack Buff on hit": "命中時攻擊增益",
   "Blind on hit": "命中時致盲",
   "Max Health Reduction 1": "單體最大生命值削減",
-  "Attack Growth 2": "2個目標攻擊成長"
+  "Attack Growth 2": "2個目標攻擊成長",
+  "Summon Seedling Fiend to hit enemies": "召喚幼苗惡魔攻擊敵人",
+  "Blind to hit enemies": "致盲攻擊者"
 }

@@ -1,17 +1,5 @@
 [
     {
-        "name": "Onwyn",
-        "fancy_name": "Onion Bandit",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2026-03-06 07:00:00",
-        "star": 5,
-        "family": "vegetable",
-        "costume_id": 0,
-        "heroId": "vegetable_onwyn",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Zondalath",
         "fancy_name": "Astral Demon Sun-Wielder",
         "color": "Yellow",
