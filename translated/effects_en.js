@@ -16548,6 +16548,15 @@ const allTranslations =
     },
     {
         "originalIndex": 1704,
+        "name": "Zondalath",
+        "effects": [
+            "Recovers 45% health for all allies.",
+            "All allies reduce all received damage by -50% for 4 turns.",
+            "All allies except the caster get an additional +30% attack power for the next Special Skill they cast. The additional attack power increases +30% each turn, up to a maximum of +120% in total."
+        ]
+    },
+    {
+        "originalIndex": 1705,
         "name": "Zora",
         "effects": [
             "Deals 380% damage to all enemies.",
@@ -16555,11 +16564,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "originalIndex": 1705,
-        "name": "Zondalath",
-        "effects": []
     },
     {
         "originalIndex": 1706,
@@ -16588,36 +16592,81 @@ const allTranslations =
     },
     {
         "originalIndex": 1711,
-        "name": "Embertail",
+        "name": "Lianna C5",
         "effects": []
     },
     {
         "originalIndex": 1712,
-        "name": "Sproutwhisker",
+        "name": "Magni C5",
         "effects": []
     },
     {
         "originalIndex": 1713,
-        "name": "Sir Roostley C1",
+        "name": "Melendor C5",
         "effects": []
     },
     {
         "originalIndex": 1714,
-        "name": "Lady Woolerton C1",
+        "name": "Kiril C5",
         "effects": []
     },
     {
         "originalIndex": 1715,
-        "name": "Squire Wabbit C1",
+        "name": "Balthazar C5",
         "effects": []
     },
     {
         "originalIndex": 1716,
-        "name": "Duke Whitley",
+        "name": "Kailani C4",
         "effects": []
     },
     {
         "originalIndex": 1717,
+        "name": "Andvari C1",
+        "effects": []
+    },
+    {
+        "originalIndex": 1718,
+        "name": "Milady de Winter C1",
+        "effects": []
+    },
+    {
+        "originalIndex": 1719,
+        "name": "Pendulus Clonk",
+        "effects": []
+    },
+    {
+        "originalIndex": 1720,
+        "name": "Embertail",
+        "effects": []
+    },
+    {
+        "originalIndex": 1721,
+        "name": "Sproutwhisker",
+        "effects": []
+    },
+    {
+        "originalIndex": 1722,
+        "name": "Sir Roostley C1",
+        "effects": []
+    },
+    {
+        "originalIndex": 1723,
+        "name": "Lady Woolerton C1",
+        "effects": []
+    },
+    {
+        "originalIndex": 1724,
+        "name": "Squire Wabbit C1",
+        "effects": []
+    },
+    {
+        "originalIndex": 1725,
+        "name": "Duke Whitley",
+        "effects": []
+    },
+    {
+        "originalIndex": 1726,
         "name": "Marko",
         "effects": []
     }

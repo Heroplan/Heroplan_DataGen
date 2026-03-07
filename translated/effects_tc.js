@@ -16548,6 +16548,15 @@ const translatedEffectsTC =
     },
     {
         "originalIndex": 1704,
+        "name": "Zondalath",
+        "effects": [
+            "為所有盟友恢復 45% 生命值。",
+            "所有盟友受到的所有傷害降低 -50%，持續 4 回合。",
+            "除了施法者之外的所有盟友下一次使用特殊技能時獲得額外 +30% 攻擊力。额外攻擊力每回合增加 +30%，總計最多增加 +120%。"
+        ]
+    },
+    {
+        "originalIndex": 1705,
         "name": "Zora",
         "effects": [
             "對所有敵人造成 380% 傷害。",
@@ -16555,11 +16564,6 @@ const translatedEffectsTC =
             "所有盟友獲得 +20% 攻擊力，且每移除一個狀態效果便再增加 +5% 攻擊力，最高可達 +60%，持續 4 回合。",
             "元素鏈為全體神聖系盟友提供額外 +10% 的特殊技能傷害，持續 4 回合。此效果無法驅散。"
         ]
-    },
-    {
-        "originalIndex": 1705,
-        "name": "Zondalath",
-        "effects": []
     },
     {
         "originalIndex": 1706,
@@ -16588,36 +16592,81 @@ const translatedEffectsTC =
     },
     {
         "originalIndex": 1711,
-        "name": "Embertail",
+        "name": "Lianna C5",
         "effects": []
     },
     {
         "originalIndex": 1712,
-        "name": "Sproutwhisker",
+        "name": "Magni C5",
         "effects": []
     },
     {
         "originalIndex": 1713,
-        "name": "Sir Roostley C1",
+        "name": "Melendor C5",
         "effects": []
     },
     {
         "originalIndex": 1714,
-        "name": "Lady Woolerton C1",
+        "name": "Kiril C5",
         "effects": []
     },
     {
         "originalIndex": 1715,
-        "name": "Squire Wabbit C1",
+        "name": "Balthazar C5",
         "effects": []
     },
     {
         "originalIndex": 1716,
-        "name": "Duke Whitley",
+        "name": "Kailani C4",
         "effects": []
     },
     {
         "originalIndex": 1717,
+        "name": "Andvari C1",
+        "effects": []
+    },
+    {
+        "originalIndex": 1718,
+        "name": "Milady de Winter C1",
+        "effects": []
+    },
+    {
+        "originalIndex": 1719,
+        "name": "Pendulus Clonk",
+        "effects": []
+    },
+    {
+        "originalIndex": 1720,
+        "name": "Embertail",
+        "effects": []
+    },
+    {
+        "originalIndex": 1721,
+        "name": "Sproutwhisker",
+        "effects": []
+    },
+    {
+        "originalIndex": 1722,
+        "name": "Sir Roostley C1",
+        "effects": []
+    },
+    {
+        "originalIndex": 1723,
+        "name": "Lady Woolerton C1",
+        "effects": []
+    },
+    {
+        "originalIndex": 1724,
+        "name": "Squire Wabbit C1",
+        "effects": []
+    },
+    {
+        "originalIndex": 1725,
+        "name": "Duke Whitley",
+        "effects": []
+    },
+    {
+        "originalIndex": 1726,
         "name": "Marko",
         "effects": []
     }

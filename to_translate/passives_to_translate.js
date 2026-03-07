@@ -12602,16 +12602,20 @@ const allTranslations =
     },
     {
         "originalIndex": 1704,
+        "name": "Zondalath",
+        "passives": [
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in battle.",
+            "Resist Negative Mana Effects: This character is immune to mana reductions, as well as status ailments and negative stacks that affect mana generation. Applies also to effects and status ailments that block or steal mana.",
+            "Resist Healing Ailments: This character is immune to status ailments that affect healing."
+        ]
+    },
+    {
+        "originalIndex": 1705,
         "name": "Zora",
         "passives": [
             "Resist Mana Reduction: This character has innate resistance against mana reduction.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "originalIndex": 1705,
-        "name": "Zondalath",
-        "passives": []
     },
     {
         "originalIndex": 1706,
@@ -12640,36 +12644,81 @@ const allTranslations =
     },
     {
         "originalIndex": 1711,
-        "name": "Embertail",
+        "name": "Lianna C5",
         "passives": []
     },
     {
         "originalIndex": 1712,
-        "name": "Sproutwhisker",
+        "name": "Magni C5",
         "passives": []
     },
     {
         "originalIndex": 1713,
-        "name": "Sir Roostley C1",
+        "name": "Melendor C5",
         "passives": []
     },
     {
         "originalIndex": 1714,
-        "name": "Lady Woolerton C1",
+        "name": "Kiril C5",
         "passives": []
     },
     {
         "originalIndex": 1715,
-        "name": "Squire Wabbit C1",
+        "name": "Balthazar C5",
         "passives": []
     },
     {
         "originalIndex": 1716,
-        "name": "Duke Whitley",
+        "name": "Kailani C4",
         "passives": []
     },
     {
         "originalIndex": 1717,
+        "name": "Andvari C1",
+        "passives": []
+    },
+    {
+        "originalIndex": 1718,
+        "name": "Milady de Winter C1",
+        "passives": []
+    },
+    {
+        "originalIndex": 1719,
+        "name": "Pendulus Clonk",
+        "passives": []
+    },
+    {
+        "originalIndex": 1720,
+        "name": "Embertail",
+        "passives": []
+    },
+    {
+        "originalIndex": 1721,
+        "name": "Sproutwhisker",
+        "passives": []
+    },
+    {
+        "originalIndex": 1722,
+        "name": "Sir Roostley C1",
+        "passives": []
+    },
+    {
+        "originalIndex": 1723,
+        "name": "Lady Woolerton C1",
+        "passives": []
+    },
+    {
+        "originalIndex": 1724,
+        "name": "Squire Wabbit C1",
+        "passives": []
+    },
+    {
+        "originalIndex": 1725,
+        "name": "Duke Whitley",
+        "passives": []
+    },
+    {
+        "originalIndex": 1726,
         "name": "Marko",
         "passives": []
     }

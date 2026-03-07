@@ -3065,9 +3065,9 @@
             "eventEndingOffer": "",
             "manuallyOverwritten": true,
             "featuredCharacters": [
+              "beauty_beast_pendulus_clonk",
               "beauty_beast_laurent",
-              "musketeer_porthos_costume_merchant",
-              "beauty_beast_dominique"
+              "musketeer_milady_de_winter_costume_herbalist"
             ],
             "eventBonus": "event_hero_bonus_alliance_quest",
             "startTime": "2026-03-15 07:00:00",
@@ -3082,7 +3082,7 @@
             "manuallyOverwritten": true,
             "featuredCharacters": [
               "musketeer_constance",
-              "musketeer_milady_de_winter",
+              "musketeer_milady_de_winter_costume_herbalist",
               "musketeer_queen_anne"
             ],
             "eventBonus": "event_hero_bonus_alliance_quest",
@@ -4293,7 +4293,7 @@
               "featuredCharacters": [
                 "ronin_asakura_masao",
                 "ronin_mikanagi_miran",
-                "ninja_myoinni"
+                "ninja_nomad"
               ],
               "startTime": "2026-03-10 07:00:00",
               "endTime": "2026-03-15 07:00:00"
@@ -4306,9 +4306,9 @@
               "eventEndingOffer": "",
               "manuallyOverwritten": true,
               "featuredCharacters": [
-                "ninja_nomad",
-                "ninja_iga",
-                "ninja_tora"
+                "ronin_asakura_masao",
+                "ronin_mikanagi_miran",
+                "ninja_nomad"
               ],
               "startTime": "2026-04-06 07:00:00",
               "endTime": "2026-04-11 07:00:00"
@@ -4508,7 +4508,7 @@
                     },
                     {
                       "type": "Avatar",
-                      "id": "ronin_yamada_jingasa",
+                      "id": "Karate Champion",
                       "amount": 1
                     }
                   ]
@@ -4961,7 +4961,7 @@
                     },
                     {
                       "type": "Avatar",
-                      "id": "ronin_tokage_daigo",
+                      "id": "Cold Blooded Ronin",
                       "amount": 1
                     }
                   ]
@@ -5099,7 +5099,7 @@
                     },
                     {
                       "type": "Avatar",
-                      "id": "ronin_asakura_masao",
+                      "id": "Enraged Ronin",
                       "amount": 1
                     }
                   ]
@@ -5168,7 +5168,7 @@
                     },
                     {
                       "type": "Avatar",
-                      "id": "ronin_mikanagi_miran",
+                      "id": "Demon Ronin",
                       "amount": 1
                     }
                   ]
@@ -25615,11 +25615,11 @@
             "gemValue": 1000
           },
           {
-            "id": "beauty_beast_jacquespierre",
+            "id": "Beauty's Father, the Famous Inventor",
             "gemValue": 1000
           },
           {
-            "id": "beauty_beast_seraphine",
+            "id": "Beauty's Spiteful Sister",
             "gemValue": 1000
           },
           {
@@ -25743,11 +25743,11 @@
             "gemValue": 1000
           },
           {
-            "id": "astral_demon_carthizux",
+            "id": "Astral Demon Maniac",
             "gemValue": 1000
           },
           {
-            "id": "astral_demon_ushal",
+            "id": "Astral Demon Cosmomage",
             "gemValue": 1000
           },
           {
@@ -26015,15 +26015,15 @@
             "gemValue": 1000
           },
           {
-            "id": "easter_duke_whitley",
+            "id": "High Mage of Springvale",
             "gemValue": 1000
           },
           {
-            "id": "easter_marko",
+            "id": "Wayfarer of Springvale",
             "gemValue": 1000
           },
           {
-            "id": "dark_god_cordelia",
+            "id": "Queen of Curses",
             "gemValue": 1000
           },
           {
@@ -26039,27 +26039,27 @@
             "gemValue": 1000
           },
           {
-            "id": "mahayoddha_ajay",
+            "id": "Urumi Warrior",
             "gemValue": 1000
           },
           {
-            "id": "mahayoddha_bhairavi_devi",
+            "id": "Jestful Thakurain",
             "gemValue": 1000
           },
           {
-            "id": "ronin_asakura_masao",
+            "id": "Enraged Ronin",
             "gemValue": 1000
           },
           {
-            "id": "ronin_kageyama_nagato",
+            "id": "Thief-Shuriken Ronin",
             "gemValue": 1000
           },
           {
-            "id": "ronin_mikanagi_miran",
+            "id": "Demon Ronin",
             "gemValue": 1000
           },
           {
-            "id": "vegetable_auberguy",
+            "id": "Aubergine Wizard",
             "gemValue": 1000
           },
           {
@@ -26111,11 +26111,11 @@
             "gemValue": 1000
           },
           {
-            "id": "ronin_tokage_daigo",
+            "id": "Cold Blooded Ronin",
             "gemValue": 1000
           },
           {
-            "id": "ronin_yamada_jingasa",
+            "id": "Karate Champion",
             "gemValue": 1000
           },
           {
@@ -26139,11 +26139,11 @@
             "gemValue": 1000
           },
           {
-            "id": "rodent_sproutwhisker",
+            "id": "The Dark-furred Cleric",
             "gemValue": 1000
           },
           {
-            "id": "rodent_embertail",
+            "id": "The Pyromouse",
             "gemValue": 1000
           }
         ],
@@ -60432,7 +60432,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-01-07 07:00:00",
-            "costumeId": "Executor from Descenthia-Stylish Executioner",
+            "costumeId": "Executioner from Descenthia-Stylish Executioner",
             "parentHeroId": "cultist_sorceress"
           },
           {
@@ -60479,7 +60479,7 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-03-15 07:00:00",
             "costumeId": "Machiavellian Villainess-Machiavellian Herbalist",
             "parentHeroId": "musketeer_milady_de_winter"
           },
@@ -61756,7 +61756,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-12-25 07:00:00",
-            "costumeId": "Executor from Descenthia-Vitrail from Descenthia",
+            "costumeId": "Executioner from Descenthia-Vitrail from Descenthia",
             "parentHeroId": "cultist_sorceress"
           },
           {
@@ -64217,7 +64217,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2020-05-18 07:00:00",
-            "costumeId": "Executor from Descenthia-Monstress of Descenthia",
+            "costumeId": "Executioner from Descenthia-Monstress of Descenthia",
             "parentHeroId": "cultist_sorceress"
           },
           {
@@ -65525,7 +65525,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-06-12 07:00:00",
-            "costumeId": "Executor from Descenthia-Snake of Descenthia",
+            "costumeId": "Executioner from Descenthia-Snake of Descenthia",
             "parentHeroId": "cultist_sorceress"
           },
           {
@@ -66159,7 +66159,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2023-10-30 07:00:00",
-            "costumeId": "Executor from Descenthia-Toon Executioner",
+            "costumeId": "Executioner from Descenthia-Toon Executioner",
             "parentHeroId": "cultist_sorceress"
           },
           {
@@ -71161,7 +71161,7 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-03-12 07:00:00",
             "costumeId": "Ancient of Ice-Stylish Ancient of Ice",
             "parentHeroId": "exalted_warrior"
           },
@@ -71173,7 +71173,7 @@
             ],
             "rarity": 4,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-03-12 07:00:00",
             "costumeId": "Wisdom of the Forest-Stylish Wizard",
             "parentHeroId": "forest_mage"
           },
@@ -71185,7 +71185,7 @@
             ],
             "rarity": 4,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-03-12 07:00:00",
             "costumeId": "Master Brewer-Stylish Taster",
             "parentHeroId": "dwarwen_brewmaster"
           },
@@ -71197,7 +71197,7 @@
             ],
             "rarity": 3,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-03-12 07:00:00",
             "costumeId": "Dread Magician-Stylish Magician",
             "parentHeroId": "cultist_mage"
           },
@@ -71209,7 +71209,7 @@
             ],
             "rarity": 3,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-03-12 07:00:00",
             "costumeId": "Selfless Healer-Stylish Healer",
             "parentHeroId": "oriental_female_mage"
           },
@@ -71222,7 +71222,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-03-30 07:00:00",
-            "costumeId": "easter_sir_roostley_costume_alchemist",
+            "costumeId": "Mighty Knight of Springvale-Mighty Alchemist of Springvale",
             "parentHeroId": "easter_sir_roostley"
           },
           {
@@ -71234,7 +71234,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-03-30 07:00:00",
-            "costumeId": "easter_lady_woolerton_costume_coiffeuse",
+            "costumeId": "Mender of Springvale-Coiffeuse of Springvale",
             "parentHeroId": "easter_lady_woolerton"
           },
           {
@@ -71246,7 +71246,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-03-30 07:00:00",
-            "costumeId": "rabbit_red_costume_knight",
+            "costumeId": "Squire of Springvale-Junior Kinght of Springvale",
             "parentHeroId": "rabbit_red"
           },
           {
@@ -71258,7 +71258,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "s2_hammerhead_hulk_costume_cute",
+            "costumeId": "Savage Butcher-Savage Toon",
             "parentHeroId": "s2_hammerhead_hulk"
           },
           {
@@ -71269,7 +71269,7 @@
             ],
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "s2_mercenary_woman_costume_cute",
+            "costumeId": "Magnificent Mercenary-Magnificent Toon",
             "parentHeroId": "s2_mercenary_woman"
           },
           {
@@ -71281,7 +71281,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "oriental_enchanted_monk_costume_stylish",
+            "costumeId": "Flame of the Sun-Stylish Sun Monk",
             "parentHeroId": "oriental_enchanted_monk"
           },
           {
@@ -71292,8 +71292,8 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "elven_archer_costume_stylish",
+            "canBeReceivedDate": "2026-03-12 07:00:00",
+            "costumeId": "The Noble Heart-Stylish Archer",
             "parentHeroId": "elven_archer"
           },
           {
@@ -71305,7 +71305,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "nomad_axe_adventurer_costume_stylish",
+            "costumeId": "Brave Bounty Hunter-Stylish Bounty Hunter",
             "parentHeroId": "nomad_axe_adventurer"
           },
           {
@@ -71317,7 +71317,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "goblin_mage_costume_stylish",
+            "costumeId": "Bog Witch-Stylish Witch",
             "parentHeroId": "goblin_mage"
           },
           {
@@ -71329,7 +71329,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "blackguard_female_captain_costume_stylish",
+            "costumeId": "Resolute Warden-Stylish Warden",
             "parentHeroId": "blackguard_female_captain"
           },
           {
@@ -71341,7 +71341,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "magitech_sniper_costume_stylish",
+            "costumeId": "Magitech Sniper-Stylish Sniper",
             "parentHeroId": "magitech_sniper"
           },
           {
@@ -71353,7 +71353,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "undead_captain_warrior_costume_stylish",
+            "costumeId": "Deathbound Lord-Stylish Deathbound Lord",
             "parentHeroId": "undead_captain_warrior"
           },
           {
@@ -71365,7 +71365,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "nomad_female_berserker_costume_stylish",
+            "costumeId": "Priestess of Dragonia-Stylish Priestess",
             "parentHeroId": "nomad_female_berserker"
           },
           {
@@ -71377,7 +71377,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "nomad_female_swordmaster_costume_stylish",
+            "costumeId": "Seeker of Throne-Seeker of Style",
             "parentHeroId": "nomad_female_swordmaster"
           },
           {
@@ -71389,7 +71389,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "forest_female_spirit_costume_stylish",
+            "costumeId": "Glade Spirit-Stylish Spirit",
             "parentHeroId": "forest_female_spirit"
           },
           {
@@ -71401,7 +71401,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "tales2_aethslegaur_costume_soul_seeker",
+            "costumeId": "Dwarven Fire Seeker-Dwarven Soul Seeker",
             "parentHeroId": "tales2_aethslegaur"
           },
           {
@@ -71413,7 +71413,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "tales2_dularfulr_costume_engineer",
+            "costumeId": "Dwarven Dark Seer-Dwarven Dark Engineer",
             "parentHeroId": "tales2_dularfulr"
           },
           {
@@ -71424,8 +71424,8 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "tales2_andvari_costume_c1",
+            "canBeReceivedDate": "2026-03-14 07:00:00",
+            "costumeId": "Dwarven Oracle-Dwarven Restorer",
             "parentHeroId": "tales2_andvari"
           },
           {
@@ -71437,7 +71437,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "tales2_dagr_costume_plague_shaman",
+            "costumeId": "Dwarven Mountain Shaman-Dwarven Plague Shaman",
             "parentHeroId": "tales2_dagr"
           },
           {
@@ -71449,7 +71449,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "musketeer_rochefort_costume_ratcatcher",
+            "costumeId": "Ruthless Miscreant-Ruthless Rat-Catcher",
             "parentHeroId": "musketeer_rochefort"
           },
           {
@@ -71461,7 +71461,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "musketeer_constance_costume_fusilier",
+            "costumeId": "Courageous Musketeer-Courageous Fusilier",
             "parentHeroId": "musketeer_constance"
           }
         ],
@@ -84593,6 +84593,96 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "tales2_mar_2026",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 20,
+                    "defenseBonusPerMil": 20,
+                    "healthBonusPerMil": 30,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 40,
+                    "defenseBonusPerMil": 40,
+                    "healthBonusPerMil": 50,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 60,
+                    "defenseBonusPerMil": 60,
+                    "healthBonusPerMil": 70,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 110,
+                    "defenseBonusPerMil": 110,
+                    "healthBonusPerMil": 120,
+                    "manaBonusPerMil": 50
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "musketeer_mar_2026",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 430,
+                    "defenseBonusPerMil": 430,
+                    "healthBonusPerMil": 520,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 460,
+                    "defenseBonusPerMil": 460,
+                    "healthBonusPerMil": 560,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 490,
+                    "defenseBonusPerMil": 490,
+                    "healthBonusPerMil": 590,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 550,
+                    "defenseBonusPerMil": 550,
+                    "healthBonusPerMil": 600,
+                    "manaBonusPerMil": 50
+                  }
+                ]
+              }
+            ]
           }
         ],
         "enabled": true
@@ -86369,7 +86459,18 @@
       "ownedHeroAttributeConfig": {
         "isEnabled": true,
         "minPlayerLevel": 10,
-        "ownedHeroAttributeRules": [],
+        "ownedHeroAttributeRules": [
+          {
+            "id": "test_1",
+            "source": "Summon",
+            "attributeEffectId": "super_xp",
+            "chancePerMil": 500,
+            "summonId": "lottery_common_default",
+            "startTime": "2027-01-01 07:00:00",
+            "endTime": "2027-01-07 07:00:00",
+            "heroFamilyId": "classic"
+          }
+        ],
         "ownedHeroAttributeEffects": [
           {
             "effectType": "SuperXpMultiplier",
@@ -86575,10 +86676,10 @@
     "minSecondsBetweenRecentActivityRequests": 30,
     "colorBlindModeEnabled": true,
     "languageSelectionEnabled": true,
-    "maxVersionToShowUpdateOutReminderAndroid": "83.0.0",
+    "maxVersionToShowUpdateOutReminderAndroid": "84.0.0.2970",
     "maxVersionToShowUpdateOutReminderIos": "83.0.0",
-    "maxVersionToShowUpdateOutReminderAndroidStandalone": "83.0.1",
-    "standaloneNewVersionRolloutPercentage": 30,
+    "maxVersionToShowUpdateOutReminderAndroidStandalone": "84.0.0.405",
+    "standaloneNewVersionRolloutPercentage": 100,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -86670,5 +86771,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 2500511337
+  "otherConfigId": 2795214806
 }

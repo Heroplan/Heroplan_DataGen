@@ -57329,7 +57329,7 @@
         "attackMultiplierIncrementPerLevelPerMil": 10,
         "affectedMonsterCategory": "Titan",
         "affectedElement": "Yellow",
-        "attackMultiplierAgainstValidTargetPerMil": 2030,
+        "attackMultiplierAgainstValidTargetPerMil": 1530,
         "attackMultiplierAgainstValidTargetIncrementPerLevelPerMil": 10
       },
       {
@@ -58203,7 +58203,7 @@
         "id": "add_insanity_ambrose",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 20,
+        "insanityToAdd": 25,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -58216,7 +58216,7 @@
         "id": "add_insanity_to_self_ambrose",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 50,
+        "insanityToAdd": 45,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -62031,12 +62031,12 @@
         "targets": "Single",
         "targetsSideAffected": "Allies",
         "manaSpeedToStatusEffect": {
-          "very_slow": "stone_5_hits",
-          "slow": "stone_5_hits",
+          "slow_boss": "stone_5_hits",
           "average": "stone_4_hits",
           "fast": "stone_3_hits",
+          "slow": "stone_5_hits",
           "very_fast": "stone_2_hits",
-          "slow_boss": "stone_5_hits"
+          "very_slow": "stone_5_hits"
         },
         "statusEffectTargetType": "Single",
         "statusEffectSide": "Allies"
@@ -62463,12 +62463,12 @@
         "targets": "Single",
         "targetsSideAffected": "Allies",
         "manaSpeedToStatusEffect": {
-          "very_slow": "stone_3_hits",
-          "slow": "stone_3_hits",
+          "slow_boss": "stone_3_hits",
           "average": "stone_3_hits",
           "fast": "stone_3_hits",
+          "slow": "stone_3_hits",
           "very_fast": "stone_3_hits",
-          "slow_boss": "stone_3_hits"
+          "very_slow": "stone_3_hits"
         },
         "statusEffectTargetType": "Single",
         "statusEffectSide": "Allies"
@@ -63024,11 +63024,11 @@
         "targets": "Single",
         "targetsSideAffected": "Allies",
         "manaSpeedToStatusEffect": {
-          "fast": "attack_modifier_jungle_hunter_passive",
           "average": "attack_modifier_jungle_hunter_passive",
+          "fast": "attack_modifier_jungle_hunter_passive",
           "slow": "attack_modifier_jungle_hunter_passive",
-          "very_slow": "attack_modifier_jungle_hunter_passive",
-          "very_fast": "attack_modifier_jungle_hunter_passive"
+          "very_fast": "attack_modifier_jungle_hunter_passive",
+          "very_slow": "attack_modifier_jungle_hunter_passive"
         },
         "statusEffectTargetType": "Single",
         "statusEffectSide": "Allies",
@@ -63935,12 +63935,12 @@
         "targets": "Single",
         "targetsSideAffected": "Allies",
         "manaSpeedToStatusEffect": {
-          "very_slow": "soft_skin_5_activations",
-          "slow": "soft_skin_5_activations",
+          "slow_boss": "soft_skin_5_activations",
           "average": "soft_skin_4_activations",
           "fast": "soft_skin_3_activations",
+          "slow": "soft_skin_5_activations",
           "very_fast": "soft_skin_2_activations",
-          "slow_boss": "soft_skin_5_activations"
+          "very_slow": "soft_skin_5_activations"
         },
         "statusEffectTargetType": "Single",
         "statusEffectSide": "Allies"
@@ -64261,12 +64261,12 @@
         "targets": "Single",
         "targetsSideAffected": "Allies",
         "manaSpeedToStatusEffect": {
-          "very_slow": "soft_skin_3_activations",
-          "slow": "soft_skin_3_activations",
+          "slow_boss": "soft_skin_3_activations",
           "average": "soft_skin_3_activations",
           "fast": "soft_skin_3_activations",
+          "slow": "soft_skin_3_activations",
           "very_fast": "soft_skin_3_activations",
-          "slow_boss": "soft_skin_3_activations"
+          "very_slow": "soft_skin_3_activations"
         },
         "statusEffectTargetType": "Single",
         "statusEffectSide": "Allies"
@@ -65869,8 +65869,8 @@
         "targets": "Single",
         "targetsSideAffected": "Allies",
         "manaSpeedToStatusEffect": {
-          "fast": "damage_on_critical_hit_received_titan_hunter",
-          "average": "damage_on_critical_hit_received_titan_hunter"
+          "average": "damage_on_critical_hit_received_titan_hunter",
+          "fast": "damage_on_critical_hit_received_titan_hunter"
         },
         "statusEffectTargetType": "Random",
         "statusEffectSide": "Enemies",
@@ -81202,11 +81202,11 @@
         "match5ExplosionPattern": "AllTilesOfElement",
         "match4ExplosionPattern": "Cross",
         "match5TileMatchEffectPerElement": {
-          "Blue": "super_underwater_blue",
-          "Green": "super_underwater_green",
           "Red": "super_underwater_red",
           "Yellow": "super_underwater_yellow",
-          "Purple": "super_underwater_purple"
+          "Blue": "super_underwater_blue",
+          "Purple": "super_underwater_purple",
+          "Green": "super_underwater_green"
         }
       },
       {
@@ -91879,5 +91879,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 1275610640
+  "battleConfigId": 318190667
 }

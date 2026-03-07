@@ -12602,16 +12602,20 @@ const translatedPassivesTC =
     },
     {
         "originalIndex": 1704,
+        "name": "Zondalath",
+        "passives": [
+            "阻礙法力：降低 -80% 特殊技能、被動技能家族加成和狀態效果所增加的法力量。該效果適用於戰鬥的所有敵人。",
+            "抵禦負面法力效果：此角色對法力減損以及影響法力產出的状態異常和負面疊加免疫，亦適用於封鎖或竊取法力的效果和狀態異常。",
+            "抵禦治療異常：此角色對影響治療的狀態異常免疫。"
+        ]
+    },
+    {
+        "originalIndex": 1705,
         "name": "Zora",
         "passives": [
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "originalIndex": 1705,
-        "name": "Zondalath",
-        "passives": []
     },
     {
         "originalIndex": 1706,
@@ -12640,36 +12644,81 @@ const translatedPassivesTC =
     },
     {
         "originalIndex": 1711,
-        "name": "Embertail",
+        "name": "Lianna C5",
         "passives": []
     },
     {
         "originalIndex": 1712,
-        "name": "Sproutwhisker",
+        "name": "Magni C5",
         "passives": []
     },
     {
         "originalIndex": 1713,
-        "name": "Sir Roostley C1",
+        "name": "Melendor C5",
         "passives": []
     },
     {
         "originalIndex": 1714,
-        "name": "Lady Woolerton C1",
+        "name": "Kiril C5",
         "passives": []
     },
     {
         "originalIndex": 1715,
-        "name": "Squire Wabbit C1",
+        "name": "Balthazar C5",
         "passives": []
     },
     {
         "originalIndex": 1716,
-        "name": "Duke Whitley",
+        "name": "Kailani C4",
         "passives": []
     },
     {
         "originalIndex": 1717,
+        "name": "Andvari C1",
+        "passives": []
+    },
+    {
+        "originalIndex": 1718,
+        "name": "Milady de Winter C1",
+        "passives": []
+    },
+    {
+        "originalIndex": 1719,
+        "name": "Pendulus Clonk",
+        "passives": []
+    },
+    {
+        "originalIndex": 1720,
+        "name": "Embertail",
+        "passives": []
+    },
+    {
+        "originalIndex": 1721,
+        "name": "Sproutwhisker",
+        "passives": []
+    },
+    {
+        "originalIndex": 1722,
+        "name": "Sir Roostley C1",
+        "passives": []
+    },
+    {
+        "originalIndex": 1723,
+        "name": "Lady Woolerton C1",
+        "passives": []
+    },
+    {
+        "originalIndex": 1724,
+        "name": "Squire Wabbit C1",
+        "passives": []
+    },
+    {
+        "originalIndex": 1725,
+        "name": "Duke Whitley",
+        "passives": []
+    },
+    {
+        "originalIndex": 1726,
         "name": "Marko",
         "passives": []
     }

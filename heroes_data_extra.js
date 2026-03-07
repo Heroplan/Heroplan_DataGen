@@ -44744,5 +44744,31 @@ window.allHeroesExtra = [
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "family": "vegetable"
+    },
+    {
+        "name": "Zondalath",
+        "fancy name": "Astral Demon Sun-Wielder",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
+        "Release date": "2026-03-07",
+        "AetherPower": "Fiend Resist",
+        "skill_types": [
+            "Healers",
+            "Damage Reducers",
+            "Buffers (ATK)"
+        ],
+        "heroId": "astral_demon_zondalath",
+        "baseAttack": 637,
+        "baseDefense": 660,
+        "baseHealth": 1117,
+        "specialId": "solar_shroud",
+        "passiveSkills": [
+            "resist_heal_multiplier_debuffs",
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
+        ],
+        "family": "astral_demons"
     }
 ];

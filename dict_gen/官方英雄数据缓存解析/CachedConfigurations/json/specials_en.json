@@ -50017,7 +50017,7 @@
           "sideAffected": "Allies",
           "typeOfTarget": "All",
           "effectType": "Heal",
-          "powerMultiplierPerMil": 530,
+          "powerMultiplierPerMil": 350,
           "powerMultiplierIncrementPerLevelPerMil": 10
         },
         "maxLevel": 8,
@@ -50026,7 +50026,7 @@
         ],
         "statusEffects": [
           {
-            "id": "debuff_shield_with_heal_on_resist_more",
+            "id": "debuff_shield_minor",
             "sideAffected": "Allies",
             "statusTargetType": "All",
             "turns": 4
@@ -54439,7 +54439,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3050,
+          "powerMultiplierPerMil": 2150,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -55839,8 +55839,14 @@
         "maxLevel": 8,
         "properties": [
           "extra_heal_per_base_stat_modifiers",
-          "dispel_buffs_from_all_enemies",
-          "sleep_highest_mana_bhairavi"
+          "cleanse_debuffs_from_all_allies"
+        ],
+        "statusEffects": [
+          {
+            "id": "deep_sleep_bhairavi",
+            "sideAffected": "Enemies",
+            "statusTargetType": "All"
+          }
         ]
       }
     ],
@@ -66821,10 +66827,10 @@
         "basePowerIncrementPerLevelPerMil": 10,
         "powerPerTilePerMil": 0,
         "powerPerTileIncrementPerLevelPerMil": 0,
-        "maxAmountOfTiles": 16,
+        "maxAmountOfTiles": 8,
         "targetType": "All",
         "sideAffected": "Allies",
-        "effectChancePerMil": 50,
+        "effectChancePerMil": 250,
         "effectChanceIncrementPerTilePerMil": 50
       },
       {
@@ -68297,7 +68303,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "damage_ambrose",
-        "powerMultiplierPerMil": 4350,
+        "powerMultiplierPerMil": 3650,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "statusEffects": [
           {
@@ -69079,5 +69085,5 @@
       }
     ]
   },
-  "specialsConfigId": 2736155067
+  "specialsConfigId": 706648021
 }

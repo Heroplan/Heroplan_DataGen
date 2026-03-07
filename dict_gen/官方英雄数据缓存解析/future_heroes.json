@@ -120,18 +120,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Lianna",
-        "fancy_name": "Stylish Archer",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "classic",
-        "costume_id": 1,
-        "heroId": "elven_archer_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Domitia",
         "fancy_name": "Stylish Sniper",
         "color": "Purple",
@@ -465,18 +453,6 @@
         "family": "super_elemental",
         "costume_id": 1,
         "heroId": "elemental_vander_costume_clown",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Milady de Winter",
-        "fancy_name": "Machiavellian Herbalist",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "musketeer",
-        "costume_id": 1,
-        "heroId": "musketeer_milady_de_winter_costume_herbalist",
         "Lottery_Only": 1
     },
     {
@@ -984,66 +960,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Magni",
-        "fancy_name": "Stylish Ancient of Ice",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "classic",
-        "costume_id": 1,
-        "heroId": "exalted_warrior_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Melendor",
-        "fancy_name": "Stylish Wizard",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 4,
-        "family": "classic",
-        "costume_id": 1,
-        "heroId": "forest_mage_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Kiril",
-        "fancy_name": "Stylish Taster",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 4,
-        "family": "classic",
-        "costume_id": 1,
-        "heroId": "dwarwen_brewmaster_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Balthazar",
-        "fancy_name": "Stylish Magician",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 3,
-        "family": "classic",
-        "costume_id": 1,
-        "heroId": "cultist_mage_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Kailani",
-        "fancy_name": "Stylish Healer",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 3,
-        "family": "classic",
-        "costume_id": 1,
-        "heroId": "oriental_female_mage_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Mok-Arr",
         "fancy_name": "Savage Toon",
         "color": "Purple",
@@ -1092,18 +1008,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Andvari",
-        "fancy_name": "Dwarven Restorer",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "nidavellir",
-        "costume_id": 1,
-        "heroId": "tales2_andvari_costume_c1",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Dagr",
         "fancy_name": "Dwarven Plague Shaman",
         "color": "Green",
@@ -1125,18 +1029,6 @@
         "family": "beauty_beast",
         "costume_id": 0,
         "heroId": "beauty_beast_beauty",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Pendulus Clonk",
-        "fancy_name": "Impatient Clock of the Bewitched Castle",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "beauty_beast",
-        "costume_id": 0,
-        "heroId": "beauty_beast_pendulus_clonk",
         "Lottery_Only": 1
     },
     {

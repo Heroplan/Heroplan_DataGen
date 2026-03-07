@@ -3065,9 +3065,9 @@
             "eventEndingOffer": "",
             "manuallyOverwritten": true,
             "featuredCharacters": [
+              "beauty_beast_pendulus_clonk",
               "beauty_beast_laurent",
-              "musketeer_porthos_costume_merchant",
-              "beauty_beast_dominique"
+              "musketeer_milady_de_winter_costume_herbalist"
             ],
             "eventBonus": "event_hero_bonus_alliance_quest",
             "startTime": "2026-03-15 07:00:00",
@@ -3082,7 +3082,7 @@
             "manuallyOverwritten": true,
             "featuredCharacters": [
               "musketeer_constance",
-              "musketeer_milady_de_winter",
+              "musketeer_milady_de_winter_costume_herbalist",
               "musketeer_queen_anne"
             ],
             "eventBonus": "event_hero_bonus_alliance_quest",
@@ -4293,7 +4293,7 @@
               "featuredCharacters": [
                 "ronin_asakura_masao",
                 "ronin_mikanagi_miran",
-                "ninja_myoinni"
+                "ninja_nomad"
               ],
               "startTime": "2026-03-10 07:00:00",
               "endTime": "2026-03-15 07:00:00"
@@ -4306,9 +4306,9 @@
               "eventEndingOffer": "",
               "manuallyOverwritten": true,
               "featuredCharacters": [
-                "ninja_nomad",
-                "ninja_iga",
-                "ninja_tora"
+                "ronin_asakura_masao",
+                "ronin_mikanagi_miran",
+                "ninja_nomad"
               ],
               "startTime": "2026-04-06 07:00:00",
               "endTime": "2026-04-11 07:00:00"
@@ -4508,7 +4508,7 @@
                     },
                     {
                       "type": "Avatar",
-                      "id": "ronin_yamada_jingasa",
+                      "id": "山田阵笠",
                       "amount": 1
                     }
                   ]
@@ -4961,7 +4961,7 @@
                     },
                     {
                       "type": "Avatar",
-                      "id": "ronin_tokage_daigo",
+                      "id": "蜥蜴大王",
                       "amount": 1
                     }
                   ]
@@ -5099,7 +5099,7 @@
                     },
                     {
                       "type": "Avatar",
-                      "id": "ronin_asakura_masao",
+                      "id": "朝仓正雄",
                       "amount": 1
                     }
                   ]
@@ -5168,7 +5168,7 @@
                     },
                     {
                       "type": "Avatar",
-                      "id": "ronin_mikanagi_miran",
+                      "id": "金虎米兰",
                       "amount": 1
                     }
                   ]
@@ -25743,11 +25743,11 @@
             "gemValue": 1000
           },
           {
-            "id": "astral_demon_carthizux",
+            "id": "卡蒂祖克斯",
             "gemValue": 1000
           },
           {
-            "id": "astral_demon_ushal",
+            "id": "乌煞尔",
             "gemValue": 1000
           },
           {
@@ -26015,15 +26015,15 @@
             "gemValue": 1000
           },
           {
-            "id": "easter_duke_whitley",
+            "id": "惠特利公爵",
             "gemValue": 1000
           },
           {
-            "id": "easter_marko",
+            "id": "马可",
             "gemValue": 1000
           },
           {
-            "id": "dark_god_cordelia",
+            "id": "科德莉亚",
             "gemValue": 1000
           },
           {
@@ -26039,27 +26039,27 @@
             "gemValue": 1000
           },
           {
-            "id": "mahayoddha_ajay",
+            "id": "阿杰",
             "gemValue": 1000
           },
           {
-            "id": "mahayoddha_bhairavi_devi",
+            "id": "巴洛维德威",
             "gemValue": 1000
           },
           {
-            "id": "ronin_asakura_masao",
+            "id": "朝仓正雄",
             "gemValue": 1000
           },
           {
-            "id": "ronin_kageyama_nagato",
+            "id": "影山长门",
             "gemValue": 1000
           },
           {
-            "id": "ronin_mikanagi_miran",
+            "id": "金虎米兰",
             "gemValue": 1000
           },
           {
-            "id": "vegetable_auberguy",
+            "id": "奥柏格",
             "gemValue": 1000
           },
           {
@@ -26111,11 +26111,11 @@
             "gemValue": 1000
           },
           {
-            "id": "ronin_tokage_daigo",
+            "id": "蜥蜴大王",
             "gemValue": 1000
           },
           {
-            "id": "ronin_yamada_jingasa",
+            "id": "山田阵笠",
             "gemValue": 1000
           },
           {
@@ -26139,11 +26139,11 @@
             "gemValue": 1000
           },
           {
-            "id": "rodent_sproutwhisker",
+            "id": "娇嫩芽须",
             "gemValue": 1000
           },
           {
-            "id": "rodent_embertail",
+            "id": "余烬之尾",
             "gemValue": 1000
           }
         ],
@@ -60479,7 +60479,7 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-03-15 07:00:00",
             "costumeId": "米莱狄·德·温特-马基维利亚草药师",
             "parentHeroId": "米莱狄·德·温特"
           },
@@ -71161,7 +71161,7 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-03-12 07:00:00",
             "costumeId": "马格尼-英姿冰雪长者",
             "parentHeroId": "马格尼"
           },
@@ -71173,7 +71173,7 @@
             ],
             "rarity": 4,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-03-12 07:00:00",
             "costumeId": "米兰朵-英姿巫师",
             "parentHeroId": "米兰朵"
           },
@@ -71185,7 +71185,7 @@
             ],
             "rarity": 4,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-03-12 07:00:00",
             "costumeId": "基里尔-英姿品鉴师",
             "parentHeroId": "基里尔"
           },
@@ -71197,7 +71197,7 @@
             ],
             "rarity": 3,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-03-12 07:00:00",
             "costumeId": "巴特萨-英姿魔术师",
             "parentHeroId": "巴特萨"
           },
@@ -71209,7 +71209,7 @@
             ],
             "rarity": 3,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-03-12 07:00:00",
             "costumeId": "凯兰尼-英姿医者",
             "parentHeroId": "凯兰尼"
           },
@@ -71222,7 +71222,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-03-30 07:00:00",
-            "costumeId": "easter_sir_roostley_costume_alchemist",
+            "costumeId": "咕咕鸡先生-神力春谷炼金术师",
             "parentHeroId": "咕咕鸡先生"
           },
           {
@@ -71234,7 +71234,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-03-30 07:00:00",
-            "costumeId": "easter_lady_woolerton_costume_coiffeuse",
+            "costumeId": "伍尔顿女士-春谷发艺师",
             "parentHeroId": "伍尔顿女士"
           },
           {
@@ -71246,7 +71246,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2026-03-30 07:00:00",
-            "costumeId": "rabbit_red_costume_knight",
+            "costumeId": "兔子随从-少年春谷骑士",
             "parentHeroId": "兔子随从"
           },
           {
@@ -71258,7 +71258,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "s2_hammerhead_hulk_costume_cute",
+            "costumeId": "巨齿鲨-凶残的卡通",
             "parentHeroId": "巨齿鲨"
           },
           {
@@ -71269,7 +71269,7 @@
             ],
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "s2_mercenary_woman_costume_cute",
+            "costumeId": "米桑德拉-壮丽的卡通",
             "parentHeroId": "米桑德拉"
           },
           {
@@ -71281,7 +71281,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "oriental_enchanted_monk_costume_stylish",
+            "costumeId": "尤恩-英姿太阳僧侣",
             "parentHeroId": "尤恩"
           },
           {
@@ -71292,8 +71292,8 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "elven_archer_costume_stylish",
+            "canBeReceivedDate": "2026-03-12 07:00:00",
+            "costumeId": "丽阿娜-英姿弓箭手",
             "parentHeroId": "丽阿娜"
           },
           {
@@ -71305,7 +71305,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "nomad_axe_adventurer_costume_stylish",
+            "costumeId": "科伦-英姿赏金猎手",
             "parentHeroId": "科伦"
           },
           {
@@ -71317,7 +71317,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "goblin_mage_costume_stylish",
+            "costumeId": "柱子骨骼-英姿女巫",
             "parentHeroId": "柱子骨骼"
           },
           {
@@ -71329,7 +71329,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "blackguard_female_captain_costume_stylish",
+            "costumeId": "普利斯卡-英姿守卫",
             "parentHeroId": "普利斯卡"
           },
           {
@@ -71341,7 +71341,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "magitech_sniper_costume_stylish",
+            "costumeId": "多米西亚-英姿狙击手",
             "parentHeroId": "多米西亚"
           },
           {
@@ -71353,7 +71353,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "undead_captain_warrior_costume_stylish",
+            "costumeId": "塞普里恩-英姿驭死领主",
             "parentHeroId": "塞普里恩"
           },
           {
@@ -71365,7 +71365,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "nomad_female_berserker_costume_stylish",
+            "costumeId": "卡莉莱-英姿女祭司",
             "parentHeroId": "卡莉莱"
           },
           {
@@ -71377,7 +71377,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "nomad_female_swordmaster_costume_stylish",
+            "costumeId": "阿萨尔-时尚探索者",
             "parentHeroId": "阿萨尔"
           },
           {
@@ -71389,7 +71389,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "forest_female_spirit_costume_stylish",
+            "costumeId": "贝丽丝-英姿英灵",
             "parentHeroId": "贝丽丝"
           },
           {
@@ -71401,7 +71401,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "tales2_aethslegaur_costume_soul_seeker",
+            "costumeId": "埃斯莱高-矮人觅魂者",
             "parentHeroId": "埃斯莱高"
           },
           {
@@ -71413,7 +71413,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "tales2_dularfulr_costume_engineer",
+            "costumeId": "杜拉富勒-矮人黑暗工程师",
             "parentHeroId": "杜拉富勒"
           },
           {
@@ -71424,8 +71424,8 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "tales2_andvari_costume_c1",
+            "canBeReceivedDate": "2026-03-14 07:00:00",
+            "costumeId": "安德瓦里-矮人恢复者",
             "parentHeroId": "安德瓦里"
           },
           {
@@ -71437,7 +71437,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "tales2_dagr_costume_plague_shaman",
+            "costumeId": "达格-矮人瘟疫萨满",
             "parentHeroId": "达格"
           },
           {
@@ -71449,7 +71449,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "musketeer_rochefort_costume_ratcatcher",
+            "costumeId": "罗什福尔-无情捕鼠者",
             "parentHeroId": "罗什福尔"
           },
           {
@@ -71461,7 +71461,7 @@
             "rarity": 5,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "musketeer_constance_costume_fusilier",
+            "costumeId": "康斯坦丝-英勇火枪兵",
             "parentHeroId": "康斯坦丝"
           }
         ],
@@ -84593,6 +84593,96 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "tales2_mar_2026",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 20,
+                    "defenseBonusPerMil": 20,
+                    "healthBonusPerMil": 30,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 40,
+                    "defenseBonusPerMil": 40,
+                    "healthBonusPerMil": 50,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 60,
+                    "defenseBonusPerMil": 60,
+                    "healthBonusPerMil": 70,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 110,
+                    "defenseBonusPerMil": 110,
+                    "healthBonusPerMil": 120,
+                    "manaBonusPerMil": 50
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "musketeer_mar_2026",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 430,
+                    "defenseBonusPerMil": 430,
+                    "healthBonusPerMil": 520,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 460,
+                    "defenseBonusPerMil": 460,
+                    "healthBonusPerMil": 560,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 490,
+                    "defenseBonusPerMil": 490,
+                    "healthBonusPerMil": 590,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 550,
+                    "defenseBonusPerMil": 550,
+                    "healthBonusPerMil": 600,
+                    "manaBonusPerMil": 50
+                  }
+                ]
+              }
+            ]
           }
         ],
         "enabled": true
@@ -86369,7 +86459,18 @@
       "ownedHeroAttributeConfig": {
         "isEnabled": true,
         "minPlayerLevel": 10,
-        "ownedHeroAttributeRules": [],
+        "ownedHeroAttributeRules": [
+          {
+            "id": "test_1",
+            "source": "Summon",
+            "attributeEffectId": "super_xp",
+            "chancePerMil": 500,
+            "summonId": "lottery_common_default",
+            "startTime": "2027-01-01 07:00:00",
+            "endTime": "2027-01-07 07:00:00",
+            "heroFamilyId": "classic"
+          }
+        ],
         "ownedHeroAttributeEffects": [
           {
             "effectType": "SuperXpMultiplier",
@@ -86575,10 +86676,10 @@
     "minSecondsBetweenRecentActivityRequests": 30,
     "colorBlindModeEnabled": true,
     "languageSelectionEnabled": true,
-    "maxVersionToShowUpdateOutReminderAndroid": "83.0.0",
+    "maxVersionToShowUpdateOutReminderAndroid": "84.0.0.2970",
     "maxVersionToShowUpdateOutReminderIos": "83.0.0",
-    "maxVersionToShowUpdateOutReminderAndroidStandalone": "83.0.1",
-    "standaloneNewVersionRolloutPercentage": 30,
+    "maxVersionToShowUpdateOutReminderAndroidStandalone": "84.0.0.405",
+    "standaloneNewVersionRolloutPercentage": 100,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -86670,5 +86771,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 2500511337
+  "otherConfigId": 2795214806
 }
