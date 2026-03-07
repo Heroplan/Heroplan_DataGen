@@ -44770,5 +44770,33 @@ window.allHeroesExtra = [
             "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "astral_demons"
+    },
+    {
+        "name": "Troop Mimic Fire",
+        "fancy name": "Bounty of Dreadful Arsenal",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
+        "Release date": "2026-03-08",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "Snipers",
+            "Bypassers",
+            "Healers (Special)",
+            "Mana Raisers",
+            "Buffers (ATK)",
+            "Ghost Form & Hiding"
+        ],
+        "heroId": "mimic_troop_red",
+        "baseAttack": 649,
+        "baseDefense": 647,
+        "baseHealth": 1099,
+        "specialId": "gluttonous_chomp_red",
+        "passiveSkills": [
+            "mimic_troop_red",
+            "never_miss_special"
+        ],
+        "family": "mimic"
     }
 ];

@@ -2973,6 +2973,12 @@
             "type": "MonthlyHero",
             "startTime": "2026-05-01 07:00:00",
             "endTime": "2026-06-01 06:59:59"
+          },
+          {
+            "id": "SecretSummonTroopMimicRed",
+            "type": "MysteryHero",
+            "startTime": "2026-03-08 07:00:00",
+            "endTime": "2026-03-09 07:00:00"
           }
         ],
         "challengeEventEntries": [
@@ -86771,5 +86777,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 2795214806
+  "otherConfigId": 3730019072
 }
