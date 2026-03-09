@@ -10014,18 +10014,18 @@ const translatedPassivesCN =
             "完美精准度：该角色的特殊技能必定命中目标。",
             "拟态兽战利品：该拟态兽在完成关卡时有几率获得额外战利品。",
             "稀有：",
-            "* 帝国精英先锋。",
-            "* 掠劫箭手。",
-            "* 帝国骑士。",
+            "* 野蛮战锤人。",
+            "* 野蛮牛头怪。",
+            "* 召火战斗法师。",
             "* 训练师队伍。",
             "罕见：",
-            "* 帝国士兵。",
-            "* 民兵菜鸟。",
+            "* 野蛮狂战士。",
+            "* 召火巫师。",
             "* 训练师队伍。",
             "普通：",
             "* 普通村民。",
-            "* 民兵箭手。",
-            "* 帝国先锋。",
+            "* 野蛮僧侣。",
+            "* 野蛮战士。",
             "* 训练师队伍。"
         ]
     },
@@ -12666,32 +12666,32 @@ const translatedPassivesCN =
     },
     {
         "originalIndex": 1712,
-        "name": "Lianna C5",
+        "name": "Lianna Stylish",
         "passives": []
     },
     {
         "originalIndex": 1713,
-        "name": "Magni C5",
+        "name": "Magni Stylish",
         "passives": []
     },
     {
         "originalIndex": 1714,
-        "name": "Melendor C5",
+        "name": "Melendor Stylish",
         "passives": []
     },
     {
         "originalIndex": 1715,
-        "name": "Kiril C5",
+        "name": "Kiril Stylish",
         "passives": []
     },
     {
         "originalIndex": 1716,
-        "name": "Balthazar C5",
+        "name": "Balthazar Stylish",
         "passives": []
     },
     {
         "originalIndex": 1717,
-        "name": "Kailani C4",
+        "name": "Kailani Stylish",
         "passives": []
     },
     {

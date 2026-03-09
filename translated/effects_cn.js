@@ -16602,32 +16602,32 @@ const translatedEffectsCN =
     },
     {
         "originalIndex": 1712,
-        "name": "Lianna C5",
+        "name": "Lianna Stylish",
         "effects": []
     },
     {
         "originalIndex": 1713,
-        "name": "Magni C5",
+        "name": "Magni Stylish",
         "effects": []
     },
     {
         "originalIndex": 1714,
-        "name": "Melendor C5",
+        "name": "Melendor Stylish",
         "effects": []
     },
     {
         "originalIndex": 1715,
-        "name": "Kiril C5",
+        "name": "Kiril Stylish",
         "effects": []
     },
     {
         "originalIndex": 1716,
-        "name": "Balthazar C5",
+        "name": "Balthazar Stylish",
         "effects": []
     },
     {
         "originalIndex": 1717,
-        "name": "Kailani C4",
+        "name": "Kailani Stylish",
         "effects": []
     },
     {

@@ -10014,18 +10014,18 @@ const allTranslations =
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
             "Mimic Loot: This Mimic grants a chance for the following extra loot when completing stages",
             "RARE",
-            "* Imperial Elite Strikers",
-            "* Ravager Archers",
-            "* Imperial Knights",
+            "* Barbaric Maulers",
+            "* Barbaric Minotaurs",
+            "* Firecaller Battlemages",
             "* Trainer Troop",
             "UNCOMMON",
-            "* Imperial Soldiers",
-            "* Militia Rookies",
+            "* Barbaric Berserkers",
+            "* Firecaller Wizards",
             "* Trainer Troop",
             "COMMON",
             "* Common Villager",
-            "* Militia Archers",
-            "* Imperial Strikers",
+            "* Barbaric Monks",
+            "* Barbaric Fighters",
             "* Trainer Troop"
         ]
     },
@@ -12666,32 +12666,32 @@ const allTranslations =
     },
     {
         "originalIndex": 1712,
-        "name": "Lianna C5",
+        "name": "Lianna Stylish",
         "passives": []
     },
     {
         "originalIndex": 1713,
-        "name": "Magni C5",
+        "name": "Magni Stylish",
         "passives": []
     },
     {
         "originalIndex": 1714,
-        "name": "Melendor C5",
+        "name": "Melendor Stylish",
         "passives": []
     },
     {
         "originalIndex": 1715,
-        "name": "Kiril C5",
+        "name": "Kiril Stylish",
         "passives": []
     },
     {
         "originalIndex": 1716,
-        "name": "Balthazar C5",
+        "name": "Balthazar Stylish",
         "passives": []
     },
     {
         "originalIndex": 1717,
-        "name": "Kailani C4",
+        "name": "Kailani Stylish",
         "passives": []
     },
     {

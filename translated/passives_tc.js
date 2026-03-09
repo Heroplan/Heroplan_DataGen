@@ -10014,18 +10014,18 @@ const translatedPassivesTC =
             "完美精準度：此角色的特殊技能必定命中目標。",
             "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品。",
             "稀有：",
-            "* 帝國精英先锋。",
-            "* 掠劫箭手。",
-            "* 帝國騎士。",
+            "* 野蠻戰錘人。",
+            "* 野蠻牛頭怪。",
+            "* 召火戰鬥法師。",
             "* 訓練師部隊。",
             "罕見：",
-            "* 帝國士兵。",
-            "* 民兵菜烏。",
+            "* 野蠻狂戰士。",
+            "* 召火巫師。",
             "* 訓練師部隊。",
             "普通：",
             "* 普通村民。",
-            "* 民兵箭手。",
-            "* 帝國先鋒。",
+            "* 野蠻僧侶。",
+            "* 野蠻戰士。",
             "* 訓練師部隊。"
         ]
     },
@@ -12666,32 +12666,32 @@ const translatedPassivesTC =
     },
     {
         "originalIndex": 1712,
-        "name": "Lianna C5",
+        "name": "Lianna Stylish",
         "passives": []
     },
     {
         "originalIndex": 1713,
-        "name": "Magni C5",
+        "name": "Magni Stylish",
         "passives": []
     },
     {
         "originalIndex": 1714,
-        "name": "Melendor C5",
+        "name": "Melendor Stylish",
         "passives": []
     },
     {
         "originalIndex": 1715,
-        "name": "Kiril C5",
+        "name": "Kiril Stylish",
         "passives": []
     },
     {
         "originalIndex": 1716,
-        "name": "Balthazar C5",
+        "name": "Balthazar Stylish",
         "passives": []
     },
     {
         "originalIndex": 1717,
-        "name": "Kailani C4",
+        "name": "Kailani Stylish",
         "passives": []
     },
     {
