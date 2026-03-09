@@ -1226,18 +1226,6 @@
     {
         "name": "Troop Mimic",
         "fancy_name": "Bounty of Dreadful Arsenal",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "mimic",
-        "costume_id": 0,
-        "heroId": "mimic_troop_red",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Troop Mimic",
-        "fancy_name": "Bounty of Dreadful Arsenal",
         "color": "Green",
         "Release date": "",
         "canBeReceivedDate": "2200-01-01 07:00:00",

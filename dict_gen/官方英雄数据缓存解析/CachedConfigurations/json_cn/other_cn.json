@@ -86683,7 +86683,7 @@
     "colorBlindModeEnabled": true,
     "languageSelectionEnabled": true,
     "maxVersionToShowUpdateOutReminderAndroid": "84.0.0.2970",
-    "maxVersionToShowUpdateOutReminderIos": "83.0.0",
+    "maxVersionToShowUpdateOutReminderIos": "83.0.1",
     "maxVersionToShowUpdateOutReminderAndroidStandalone": "84.0.0.405",
     "standaloneNewVersionRolloutPercentage": 100,
     "fastClientLogFlushTimeSeconds": 5,
@@ -86777,5 +86777,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 3730019072
+  "otherConfigId": 3807203638
 }

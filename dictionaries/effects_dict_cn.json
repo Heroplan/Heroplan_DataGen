@@ -1391,6 +1391,8 @@
     "^Each\\s+hit\\s+from\\s+the\\s+Moth\\s+Minion\\s+gives\\s+the\\s+target\\s+the\\s+following\\s+status\\s+ailments:$": "飞蛾小兵的每次攻击都会对目标施加以下状态异常：",
     "^\\*\\s+The\\s+target\\s+can['’]?t\\s+receive\\s+new\\s+Minions\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "* 目标无法获得新的小兵，持续\\1回合。",
     "^All\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+mana\\s+generation\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+This\\s+effect\\s+can['’]?t\\s+be\\s+dispelled\\.?\\s*$": "所有盟友获得 \\1 法力生成，持续\\2回合。此效果无法驱散。",
+    "^Deals([+-]?\\s*\\d+\\s*%?)\\s+damage\\s+to\\s+all\\s+\\s+enemies\\.?\\s*$": "对所有敌人造成\\1 伤害。",
+    "^All\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+attack\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+Against\\s+Holy\\s+Titans,\\s+all\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+attack\\.?\\s*$": "所有盟友获得\\1攻击力，持续\\2回合。对抗神圣系泰坦时，所有盟友获得\\3攻击力。",
     "^Lifts\\s+the\\s+latest\\s+status\\s+ailments\\s+from\\s+all\\s+allies\\s+and\\s+distributes\\s+them\\s+on\\s+enemies\\.?\\s*$": "解除所有盟友的最新可净化状态异常并随机施放给敌人。",
     "^All\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+chance\\s+to\\s+dodge\\s+Special\\s+Skills\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+Each\\s+dodge\\s+boosts\\s+health\\s+by([+-]?\\s*\\d+\\s*%?)\\.?\\s*\\s+Boosted\\s+health\\s+can\\s+exceed\\s+max\\s+HP\\.?\\s*$": "所有盟友有 \\1 的几率闪避特殊技能，持续\\2回合。每次躲避都能使生命值提高\\3点。提高的生命值可以超过最大生命值。",
     "^Attacks\\s+the\\s+target\\s+with\\s+Moonrise\\s+Strike,\\s+dealing\\s+up\\s+to([+-]?\\s*\\d+\\s*%?)damage\\.?\\s*\\s+Deals([+-]?\\s*\\d+\\s*%?)\\s+more\\s+damage\\s+if\\s+the\\s+target\\s+is\\s+Holy\\.?\\s*$": "使用月出闪袭攻击目标，造成最多\\1点伤害。若目标为神圣系元素则额外造成\\2 伤害。",

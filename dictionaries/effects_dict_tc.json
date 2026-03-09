@@ -1391,6 +1391,8 @@
     "^Each\\s+hit\\s+from\\s+the\\s+Moth\\s+Minion\\s+gives\\s+the\\s+target\\s+the\\s+following\\s+status\\s+ailments:$": "蛾小兵的每一次攻擊都會對被命中的目標施加下列的狀態異常：",
     "^\\*\\s+The\\s+target\\s+can['’]?t\\s+receive\\s+new\\s+Minions\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "* 目標在\\1回合內無法獲得新的小兵。",
     "^All\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+mana\\s+generation\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+This\\s+effect\\s+can['’]?t\\s+be\\s+dispelled\\.?\\s*$": "所有盟友獲得 \\1 法力產出，持續\\2回合。此效果無法驅散。",
+    "^Deals([+-]?\\s*\\d+\\s*%?)\\s+damage\\s+to\\s+all\\s+\\s+enemies\\.?\\s*$": "對所有敵人造成\\1 傷害。",
+    "^All\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+attack\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+Against\\s+Holy\\s+Titans,\\s+all\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+attack\\.?\\s*$": "所有盟友獲得\\1攻擊，持續\\2回合。對上神聖泰坦時，所有盟友獲得\\3攻擊。",
     "^Lifts\\s+the\\s+latest\\s+status\\s+ailments\\s+from\\s+all\\s+allies\\s+and\\s+distributes\\s+them\\s+on\\s+enemies\\.?\\s*$": "消除所有盟友最新的可淨化的狀態異常，並隨機分配給所有敵人。",
     "^All\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+chance\\s+to\\s+dodge\\s+Special\\s+Skills\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+Each\\s+dodge\\s+boosts\\s+health\\s+by([+-]?\\s*\\d+\\s*%?)\\.?\\s*\\s+Boosted\\s+health\\s+can\\s+exceed\\s+max\\s+HP\\.?\\s*$": "所有盟友有 \\1 的機率閃避特殊技能，持續\\2回合。每次躲避都能使生命值提高\\3點。加成生命值能夠超過最大生命值。",
     "^Attacks\\s+the\\s+target\\s+with\\s+Moonrise\\s+Strike,\\s+dealing\\s+up\\s+to([+-]?\\s*\\d+\\s*%?)damage\\.?\\s*\\s+Deals([+-]?\\s*\\d+\\s*%?)\\s+more\\s+damage\\s+if\\s+the\\s+target\\s+is\\s+Holy\\.?\\s*$": "使用月昇打擊攻擊目標，造成最高\\1點傷害。如果目標為神聖系元素角色，則造成額外\\2 傷害。",

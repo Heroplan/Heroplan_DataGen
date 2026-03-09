@@ -44798,5 +44798,31 @@ window.allHeroesExtra = [
             "never_miss_special"
         ],
         "family": "mimic"
+    },
+    {
+        "name": "Brachynd",
+        "fancy name": "Warden of the Cove",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2026-03-09",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Buffers (ATK)",
+            "Damage Sharers"
+        ],
+        "heroId": "titan_hunter_brachynd",
+        "baseAttack": 658,
+        "baseDefense": 634,
+        "baseHealth": 1118,
+        "specialId": "venom_guard",
+        "passiveSkills": [
+            "titan_hunter_hunting_flare_on_special_cast",
+            "tile_enhancement_purple_on_special_titan_hunter_parent"
+        ],
+        "family": "titan_hunter"
     }
 ];
