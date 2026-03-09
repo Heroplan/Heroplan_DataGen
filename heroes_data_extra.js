@@ -39065,9 +39065,9 @@ window.allHeroesExtra = [
             "Buffers (DEF)"
         ],
         "heroId": "vegetable_elsbeth",
-        "baseAttack": 620,
-        "baseDefense": 606,
-        "baseHealth": 1085,
+        "baseAttack": 647,
+        "baseDefense": 633,
+        "baseHealth": 1114,
         "specialId": "guard_the_garden",
         "passiveSkills": [
             "summon_seedling_parasite_with_delay",
@@ -39091,9 +39091,9 @@ window.allHeroesExtra = [
             "Counterattackers"
         ],
         "heroId": "vegetable_bartholomew",
-        "baseAttack": 628,
-        "baseDefense": 611,
-        "baseHealth": 1055,
+        "baseAttack": 649,
+        "baseDefense": 634,
+        "baseHealth": 1106,
         "specialId": "capsicum_charge",
         "passiveSkills": [
             "summon_seedling_parasite_with_delay",
@@ -39355,7 +39355,8 @@ window.allHeroesExtra = [
         "baseHealth": 1099,
         "specialId": "obliterating_surge",
         "passiveSkills": [
-            "revive_in_alternative_form_with_insanity_chance"
+            "revive_in_alternative_form_with_insanity_chance",
+            "corrupt_minions_all_enemies"
         ],
         "family": "forsaken"
     },
@@ -39381,7 +39382,8 @@ window.allHeroesExtra = [
         "baseHealth": 1089,
         "specialId": "seeking_shots",
         "passiveSkills": [
-            "damage_increase_by_insanity"
+            "damage_increase_by_insanity",
+            "corrupt_minions_all_enemies"
         ],
         "family": "institute"
     },
@@ -39626,7 +39628,8 @@ window.allHeroesExtra = [
         "baseHealth": 1089,
         "specialId": "drawn_to_the_depths",
         "passiveSkills": [
-            "revive_in_alternative_form_with_insanity_chance"
+            "revive_in_alternative_form_with_insanity_chance",
+            "corrupt_minions_all_enemies"
         ],
         "family": "forsaken"
     },
@@ -40664,7 +40667,8 @@ window.allHeroesExtra = [
         "baseHealth": 1098,
         "specialId": "endless_maze",
         "passiveSkills": [
-            "revive_in_alternative_form_with_insanity_chance"
+            "revive_in_alternative_form_with_insanity_chance",
+            "corrupt_minions_all_enemies"
         ],
         "family": "institute"
     },
@@ -40974,7 +40978,8 @@ window.allHeroesExtra = [
         "baseHealth": 1093,
         "specialId": "cult_of_arachnid",
         "passiveSkills": [
-            "damage_increase_by_insanity"
+            "damage_increase_by_insanity",
+            "corrupt_minions_all_enemies"
         ],
         "family": "forsaken"
     },
@@ -42010,7 +42015,8 @@ window.allHeroesExtra = [
         "baseHealth": 1097,
         "specialId": "mutated_specimen",
         "passiveSkills": [
-            "revive_in_alternative_form_with_insanity_chance"
+            "revive_in_alternative_form_with_insanity_chance",
+            "corrupt_minions_all_enemies"
         ],
         "family": "institute"
     },
@@ -42576,7 +42582,8 @@ window.allHeroesExtra = [
         "baseHealth": 1069,
         "specialId": "severed_seal",
         "passiveSkills": [
-            "damage_increase_by_insanity"
+            "damage_increase_by_insanity",
+            "corrupt_minions_all_enemies"
         ],
         "family": "forsaken"
     },
@@ -42790,7 +42797,7 @@ window.allHeroesExtra = [
         "specialId": "ramming_pulverizer",
         "specialId_costume": "stylish_pulverizer",
         "passiveSkills": [
-            "stylish"
+            "stylish_epic"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "30%",
@@ -42820,7 +42827,7 @@ window.allHeroesExtra = [
         "specialId": "cloud_hammer",
         "specialId_costume": "champagne_hammer",
         "passiveSkills": [
-            "stylish"
+            "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "85%",
@@ -42850,7 +42857,7 @@ window.allHeroesExtra = [
         "specialId": "deathstrike",
         "specialId_costume": "stylish_strike",
         "passiveSkills": [
-            "stylish"
+            "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "85%",
@@ -42880,7 +42887,7 @@ window.allHeroesExtra = [
         "specialId": "fireball",
         "specialId_costume": "stylish_fireball",
         "passiveSkills": [
-            "stylish"
+            "stylish_rare"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "25%",
@@ -42909,7 +42916,7 @@ window.allHeroesExtra = [
         "specialId": "warcry",
         "specialId_costume": "stylish_warcry",
         "passiveSkills": [
-            "stylish"
+            "stylish_epic"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "30%",
@@ -42939,7 +42946,7 @@ window.allHeroesExtra = [
         "specialId": "volcanic_eruption",
         "specialId_costume": "stylish_eruption",
         "passiveSkills": [
-            "stylish"
+            "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "85%",
@@ -42969,7 +42976,7 @@ window.allHeroesExtra = [
         "specialId": "mystic_chop",
         "specialId_costume": "stylish_chop",
         "passiveSkills": [
-            "stylish"
+            "stylish_rare"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "25%",
@@ -42999,7 +43006,7 @@ window.allHeroesExtra = [
         "specialId": "omniheal",
         "specialId_costume": "stylish_heal",
         "passiveSkills": [
-            "stylish"
+            "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "85%",
@@ -43057,7 +43064,8 @@ window.allHeroesExtra = [
         "baseHealth": 1088,
         "specialId": "volatile_crystal_conduit",
         "passiveSkills": [
-            "revive_in_alternative_form_with_insanity_chance"
+            "revive_in_alternative_form_with_insanity_chance",
+            "corrupt_minions_all_enemies"
         ],
         "family": "institute"
     },
@@ -43521,7 +43529,7 @@ window.allHeroesExtra = [
         "specialId": "piercing_strike",
         "specialId_costume": "stylish_strike_caedmon",
         "passiveSkills": [
-            "stylish"
+            "stylish_epic"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "30%",
@@ -43551,7 +43559,7 @@ window.allHeroesExtra = [
         "specialId": "crescent_spear",
         "specialId_costume": "stylish_spear",
         "passiveSkills": [
-            "stylish"
+            "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "85%",
@@ -43581,7 +43589,7 @@ window.allHeroesExtra = [
         "specialId": "cleave_counter",
         "specialId_costume": "stylish_counterattack",
         "passiveSkills": [
-            "stylish"
+            "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "85%",
@@ -43823,7 +43831,8 @@ window.allHeroesExtra = [
         "baseHealth": 1114,
         "specialId": "moldavite_wings",
         "passiveSkills": [
-            "revive_in_alternative_form_with_insanity_chance"
+            "revive_in_alternative_form_with_insanity_chance",
+            "corrupt_minions_all_enemies"
         ],
         "family": "institute"
     },
@@ -43994,7 +44003,7 @@ window.allHeroesExtra = [
         "specialId": "natures_blessing",
         "specialId_costume": "stylish_fury",
         "passiveSkills": [
-            "stylish"
+            "stylish_rare"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "25%",
@@ -44024,7 +44033,7 @@ window.allHeroesExtra = [
         "specialId": "magma_smash",
         "specialId_costume": "stylish_smash",
         "passiveSkills": [
-            "stylish"
+            "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "85%",
@@ -44054,7 +44063,7 @@ window.allHeroesExtra = [
         "specialId": "slash_of_seven_blades",
         "specialId_costume": "slash_of_stylish_blades",
         "passiveSkills": [
-            "stylish"
+            "stylish_epic"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "30%",
@@ -44085,7 +44094,7 @@ window.allHeroesExtra = [
         "specialId": "spartan_cleave",
         "specialId_costume": "stylish_cleave",
         "passiveSkills": [
-            "stylish"
+            "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "85%",
@@ -44582,7 +44591,8 @@ window.allHeroesExtra = [
         "baseHealth": 1111,
         "specialId": "discordant_incantation",
         "passiveSkills": [
-            "revive_in_alternative_form_with_insanity_chance"
+            "revive_in_alternative_form_with_insanity_chance",
+            "corrupt_minions_all_enemies"
         ],
         "family": "forsaken"
     },

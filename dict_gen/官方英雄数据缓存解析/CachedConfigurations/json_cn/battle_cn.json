@@ -46103,7 +46103,7 @@
         "id": "add_insanity_to_self_hysteria",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 55,
+        "insanityToAdd": 45,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -46142,7 +46142,7 @@
         "id": "add_insanity_to_self_omen",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 50,
+        "insanityToAdd": 45,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -46155,7 +46155,7 @@
         "id": "add_insanity_to_self_melancholia",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 55,
+        "insanityToAdd": 50,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -47462,7 +47462,7 @@
         "id": "add_insanity_to_self_hunter",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 50,
+        "insanityToAdd": 45,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -47488,7 +47488,7 @@
         "id": "add_insanity_to_self_abigail",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 55,
+        "insanityToAdd": 50,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -48409,7 +48409,7 @@
         "id": "add_insanity_to_allies_gwendoline",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 40,
+        "insanityToAdd": 35,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -48496,7 +48496,7 @@
         "id": "add_insanity_to_self_rashan",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 45,
+        "insanityToAdd": 40,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -48530,7 +48530,7 @@
         "id": "add_insanity_to_self_burton",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 50,
+        "insanityToAdd": 40,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -49500,7 +49500,7 @@
         "id": "add_insanity_to_self_rosanna",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 50,
+        "insanityToAdd": 40,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -49550,7 +49550,7 @@
         "id": "add_insanity_to_self_salvatore",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 30,
+        "insanityToAdd": 25,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -49563,7 +49563,7 @@
         "id": "add_insanity_to_self_penelope",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 50,
+        "insanityToAdd": 45,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -49602,7 +49602,7 @@
         "id": "add_insanity_to_self_wulfstan",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 55,
+        "insanityToAdd": 45,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -49635,7 +49635,7 @@
         "id": "add_insanity_to_self_asketel",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 55,
+        "insanityToAdd": 45,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -69350,6 +69350,12 @@
           },
           {
             "id": "damage_construct_minion_core"
+          },
+          {
+            "id": "wither_construct_minion_core"
+          },
+          {
+            "id": "heal_construct_minion"
           }
         ],
         "healthPerMil": 270
@@ -71915,6 +71921,15 @@
         "healPercentPerMil": 70,
         "healPercentIncrementPerLevelPerMil": 10,
         "monsterHealPercentPerMil": 70
+      },
+      {
+        "effectType": "Heal",
+        "id": "heal_construct_minion",
+        "effectTriggers": [
+          "Turn"
+        ],
+        "healPercentPerMil": 50,
+        "monsterHealPercentPerMil": 10
       },
       {
         "effectType": "AddStatusEffects",
@@ -89722,7 +89737,8 @@
     ],
     "passiveSkillsWithExtraDescription": [
       "ReceivedEffectReplacement",
-      "TransformStatusEffectOnSpecialCast"
+      "TransformStatusEffectOnSpecialCast",
+      "ReviveInAlternativeFormWithInsanityChance"
     ],
     "statsPerLevelConfiguration": {
       "defaultMonsterStatsMultiplierPerLevelPerMil": 60,
@@ -89909,7 +89925,7 @@
       "riderHeroDefenseBonusMultiplierPerMil": 3000,
       "riderHeroHealthBonusMultiplierPerMil": 3000
     },
-    "dragonAssistSkillsBypassDebuffImmunities": false,
+    "dragonAssistSkillsBypassDebuffImmunities": true,
     "assistSkills": [
       {
         "id": "dragon_blazing_inferno",
@@ -91879,5 +91895,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 318190667
+  "battleConfigId": 2341873523
 }

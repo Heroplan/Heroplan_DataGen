@@ -20303,7 +20303,7 @@
     "baseDefense": 300,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "stylish"
+      "stylish_legendary"
     ],
     "classType": "僧侣",
     "hasImprovedTalentSkill": true,
@@ -20343,7 +20343,7 @@
     "baseDefense": 338,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "stylish"
+      "stylish_legendary"
     ],
     "classType": "游侠",
     "hasImprovedTalentSkill": true,
@@ -20383,7 +20383,7 @@
     "baseDefense": 318,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "stylish"
+      "stylish_legendary"
     ],
     "classType": "盗贼",
     "hasImprovedTalentSkill": true,
@@ -20663,7 +20663,7 @@
     "baseDefense": 254,
     "manaSpeedId": "慢",
     "passiveSkills": [
-      "stylish"
+      "stylish_epic"
     ],
     "classType": "战士",
     "hasImprovedTalentSkill": true,
@@ -20703,7 +20703,7 @@
     "baseDefense": 278,
     "manaSpeedId": "慢",
     "passiveSkills": [
-      "stylish"
+      "stylish_epic"
     ],
     "classType": "术士",
     "hasImprovedTalentSkill": true,
@@ -20743,7 +20743,7 @@
     "baseDefense": 287,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "stylish"
+      "stylish_epic"
     ],
     "classType": "圣骑士",
     "hasImprovedTalentSkill": true,
@@ -20783,7 +20783,7 @@
     "baseDefense": 301,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "stylish"
+      "stylish_epic"
     ],
     "classType": "盗贼",
     "hasImprovedTalentSkill": true,
@@ -21143,7 +21143,7 @@
     "baseDefense": 259,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "stylish"
+      "stylish_rare"
     ],
     "classType": "圣骑士",
     "hasImprovedTalentSkill": true,
@@ -21183,7 +21183,7 @@
     "baseDefense": 225,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "stylish"
+      "stylish_rare"
     ],
     "classType": "野蛮人",
     "hasImprovedTalentSkill": true,
@@ -21223,7 +21223,7 @@
     "baseDefense": 250,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "stylish"
+      "stylish_rare"
     ],
     "classType": "德鲁伊",
     "hasImprovedTalentSkill": true,
@@ -30539,9 +30539,9 @@
     "id": "巴塞洛缪",
     "element": "红",
     "family": "英勇植物家族",
-    "baseHealth": 1055,
-    "baseAttack": 628,
-    "baseDefense": 611,
+    "baseHealth": 1106,
+    "baseAttack": 649,
+    "baseDefense": 634,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "summon_seedling_parasite_with_delay",
@@ -30558,9 +30558,9 @@
     "id": "埃尔斯贝特",
     "element": "紫",
     "family": "英勇植物家族",
-    "baseHealth": 1085,
-    "baseAttack": 620,
-    "baseDefense": 606,
+    "baseHealth": 1114,
+    "baseAttack": 647,
+    "baseDefense": 633,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "summon_seedling_parasite_with_delay",
@@ -30886,7 +30886,8 @@
     "baseDefense": 580,
     "manaSpeedId": "慢",
     "passiveSkills": [
-      "revive_in_alternative_form_with_insanity_chance"
+      "revive_in_alternative_form_with_insanity_chance",
+      "corrupt_minions_all_enemies"
     ],
     "classType": "野蛮人",
     "aetherGift": "Bulwark",
@@ -30919,7 +30920,8 @@
     "baseDefense": 635,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "damage_increase_by_insanity"
+      "damage_increase_by_insanity",
+      "corrupt_minions_all_enemies"
     ],
     "classType": "战士",
     "aetherGift": "Counterattack",
@@ -30955,7 +30957,8 @@
     "baseDefense": 607,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "revive_in_alternative_form_with_insanity_chance"
+      "revive_in_alternative_form_with_insanity_chance",
+      "corrupt_minions_all_enemies"
     ],
     "classType": "术士",
     "aetherGift": "Rage",
@@ -30973,7 +30976,8 @@
     "baseDefense": 639,
     "manaSpeedId": "慢",
     "passiveSkills": [
-      "revive_in_alternative_form_with_insanity_chance"
+      "revive_in_alternative_form_with_insanity_chance",
+      "corrupt_minions_all_enemies"
     ],
     "classType": "牧师",
     "aetherGift": "Damage Reduction",
@@ -31591,7 +31595,8 @@
     "baseDefense": 616,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "damage_increase_by_insanity"
+      "damage_increase_by_insanity",
+      "corrupt_minions_all_enemies"
     ],
     "classType": "巫师",
     "aetherGift": "Bulwark",
@@ -31624,7 +31629,8 @@
     "baseDefense": 623,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "revive_in_alternative_form_with_insanity_chance"
+      "revive_in_alternative_form_with_insanity_chance",
+      "corrupt_minions_all_enemies"
     ],
     "classType": "术士",
     "aetherGift": "Ailment Immunity",
@@ -32096,7 +32102,7 @@
     "baseDefense": 350,
     "manaSpeedId": "慢",
     "passiveSkills": [
-      "stylish"
+      "stylish_legendary"
     ],
     "classType": "牧师",
     "hasImprovedTalentSkill": true,
@@ -32116,7 +32122,7 @@
     "baseDefense": 318,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "stylish"
+      "stylish_legendary"
     ],
     "classType": "圣骑士",
     "hasImprovedTalentSkill": true,
@@ -32136,7 +32142,7 @@
     "baseDefense": 336,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "stylish"
+      "stylish_legendary"
     ],
     "classType": "巫师",
     "hasImprovedTalentSkill": true,
@@ -32156,7 +32162,7 @@
     "baseDefense": 329,
     "manaSpeedId": "慢",
     "passiveSkills": [
-      "stylish"
+      "stylish_legendary"
     ],
     "classType": "野蛮人",
     "hasImprovedTalentSkill": true,
@@ -32176,7 +32182,7 @@
     "baseDefense": 337,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "stylish"
+      "stylish_legendary"
     ],
     "classType": "牧师",
     "hasImprovedTalentSkill": true,
@@ -32196,7 +32202,7 @@
     "baseDefense": 327,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "stylish"
+      "stylish_legendary"
     ],
     "classType": "野蛮人",
     "hasImprovedTalentSkill": true,
@@ -32216,7 +32222,7 @@
     "baseDefense": 339,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "stylish"
+      "stylish_epic"
     ],
     "classType": "战士",
     "hasImprovedTalentSkill": true,
@@ -32236,7 +32242,7 @@
     "baseDefense": 255,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "stylish"
+      "stylish_epic"
     ],
     "classType": "野蛮人",
     "hasImprovedTalentSkill": true,
@@ -32256,7 +32262,7 @@
     "baseDefense": 297,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "stylish"
+      "stylish_epic"
     ],
     "classType": "德鲁伊",
     "hasImprovedTalentSkill": true,
@@ -32276,7 +32282,7 @@
     "baseDefense": 209,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "stylish"
+      "stylish_rare"
     ],
     "classType": "僧侣",
     "hasImprovedTalentSkill": true,
@@ -32296,7 +32302,7 @@
     "baseDefense": 239,
     "manaSpeedId": "慢",
     "passiveSkills": [
-      "stylish"
+      "stylish_rare"
     ],
     "classType": "术士",
     "hasImprovedTalentSkill": true,
@@ -32316,7 +32322,7 @@
     "baseDefense": 239,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "stylish"
+      "stylish_rare"
     ],
     "classType": "战士",
     "hasImprovedTalentSkill": true,
@@ -32422,7 +32428,7 @@
     "baseDefense": 320,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "stylish"
+      "stylish_legendary"
     ],
     "classType": "盗贼",
     "hasImprovedTalentSkill": true,
@@ -32442,7 +32448,7 @@
     "baseDefense": 334,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "stylish"
+      "stylish_legendary"
     ],
     "classType": "僧侣",
     "hasImprovedTalentSkill": true,
@@ -32462,7 +32468,7 @@
     "baseDefense": 293,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "stylish"
+      "stylish_epic"
     ],
     "classType": "僧侣",
     "hasImprovedTalentSkill": true,
@@ -32482,7 +32488,7 @@
     "baseDefense": 260,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "stylish"
+      "stylish_rare"
     ],
     "classType": "德鲁伊",
     "hasImprovedTalentSkill": true,
@@ -32502,7 +32508,7 @@
     "baseDefense": 299,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "stylish"
+      "stylish_legendary"
     ],
     "classType": "战士",
     "hasImprovedTalentSkill": true,
@@ -32522,7 +32528,7 @@
     "baseDefense": 297,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "stylish"
+      "stylish_epic"
     ],
     "classType": "德鲁伊",
     "hasImprovedTalentSkill": true,
@@ -32542,7 +32548,7 @@
     "baseDefense": 326,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "stylish"
+      "stylish_epic"
     ],
     "classType": "巫师",
     "hasImprovedTalentSkill": true,
@@ -32562,7 +32568,7 @@
     "baseDefense": 232,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "stylish"
+      "stylish_rare"
     ],
     "classType": "巫师",
     "hasImprovedTalentSkill": true,
@@ -32582,7 +32588,7 @@
     "baseDefense": 274,
     "manaSpeedId": "慢",
     "passiveSkills": [
-      "stylish"
+      "stylish_rare"
     ],
     "classType": "牧师",
     "hasImprovedTalentSkill": true,
@@ -33423,7 +33429,8 @@
     "baseDefense": 628,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "revive_in_alternative_form_with_insanity_chance"
+      "revive_in_alternative_form_with_insanity_chance",
+      "corrupt_minions_all_enemies"
     ],
     "classType": "游侠",
     "aetherGift": "Special Boost",
@@ -33441,7 +33448,8 @@
     "baseDefense": 628,
     "manaSpeedId": "飞速",
     "passiveSkills": [
-      "damage_increase_by_insanity"
+      "damage_increase_by_insanity",
+      "corrupt_minions_all_enemies"
     ],
     "classType": "战士",
     "aetherGift": "Dodge",
@@ -33894,7 +33902,8 @@
     "baseDefense": 633,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "revive_in_alternative_form_with_insanity_chance"
+      "revive_in_alternative_form_with_insanity_chance",
+      "corrupt_minions_all_enemies"
     ],
     "classType": "德鲁伊",
     "aetherGift": "Fiend Resist",
@@ -33912,7 +33921,8 @@
     "baseDefense": 644,
     "manaSpeedId": "慢",
     "passiveSkills": [
-      "damage_increase_by_insanity"
+      "damage_increase_by_insanity",
+      "corrupt_minions_all_enemies"
     ],
     "classType": "牧师",
     "aetherGift": "Bulwark",
@@ -33930,7 +33940,8 @@
     "baseDefense": 649,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "revive_in_alternative_form_with_insanity_chance"
+      "revive_in_alternative_form_with_insanity_chance",
+      "corrupt_minions_all_enemies"
     ],
     "classType": "术士",
     "aetherGift": "Counterattack",
@@ -33948,7 +33959,8 @@
     "baseDefense": 607,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "damage_increase_by_insanity"
+      "damage_increase_by_insanity",
+      "corrupt_minions_all_enemies"
     ],
     "classType": "圣骑士",
     "aetherGift": "Vampire",

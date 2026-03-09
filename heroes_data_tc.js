@@ -4924,7 +4924,7 @@ window.allHeroes =
         "specialId": "stylish_pulverizer",
         "parent_specialId": "ramming_pulverizer",
         "passiveSkills": [
-            "stylish"
+            "stylish_epic"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_ancestral_warrior_costume_stylish",
@@ -9763,7 +9763,8 @@ window.allHeroes =
         "Release date": "2026-02-24",
         "specialId": "discordant_incantation",
         "passiveSkills": [
-            "revive_in_alternative_form_with_insanity_chance"
+            "revive_in_alternative_form_with_insanity_chance",
+            "corrupt_minions_all_enemies"
         ],
         "heroId": "forsaken_cassilda",
         "star": 5,
@@ -11294,7 +11295,8 @@ window.allHeroes =
         "Release date": "2025-10-24",
         "specialId": "endless_maze",
         "passiveSkills": [
-            "revive_in_alternative_form_with_insanity_chance"
+            "revive_in_alternative_form_with_insanity_chance",
+            "corrupt_minions_all_enemies"
         ],
         "heroId": "institute_emilie",
         "star": 5,
@@ -19315,7 +19317,7 @@ window.allHeroes =
         "specialId": "champagne_hammer",
         "parent_specialId": "cloud_hammer",
         "passiveSkills": [
-            "stylish"
+            "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_male_lord_costume_stylish",
@@ -24734,7 +24736,7 @@ window.allHeroes =
         "specialId": "stylish_fury",
         "parent_specialId": "natures_blessing",
         "passiveSkills": [
-            "stylish"
+            "stylish_rare"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_female_druid_costume_stylish",
@@ -28605,7 +28607,7 @@ window.allHeroes =
         "specialId": "stylish_strike_caedmon",
         "parent_specialId": "piercing_strike",
         "passiveSkills": [
-            "stylish"
+            "stylish_epic"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elven_captain_costume_stylish",
@@ -36131,7 +36133,7 @@ window.allHeroes =
         "specialId": "stylish_spear",
         "parent_specialId": "crescent_spear",
         "passiveSkills": [
-            "stylish"
+            "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_male_elf_costume_stylish",
@@ -36204,7 +36206,8 @@ window.allHeroes =
         "Release date": "2025-12-03",
         "specialId": "mutated_specimen",
         "passiveSkills": [
-            "revive_in_alternative_form_with_insanity_chance"
+            "revive_in_alternative_form_with_insanity_chance",
+            "corrupt_minions_all_enemies"
         ],
         "heroId": "institute_ellery",
         "star": 5,
@@ -40771,7 +40774,8 @@ window.allHeroes =
         "Release date": "2025-09-09",
         "specialId": "obliterating_surge",
         "passiveSkills": [
-            "revive_in_alternative_form_with_insanity_chance"
+            "revive_in_alternative_form_with_insanity_chance",
+            "corrupt_minions_all_enemies"
         ],
         "heroId": "forsaken_khatrox",
         "star": 5,
@@ -48513,7 +48517,8 @@ window.allHeroes =
         "Release date": "2026-02-06",
         "specialId": "moldavite_wings",
         "passiveSkills": [
-            "revive_in_alternative_form_with_insanity_chance"
+            "revive_in_alternative_form_with_insanity_chance",
+            "corrupt_minions_all_enemies"
         ],
         "heroId": "institute_zenas",
         "star": 5,
@@ -58001,7 +58006,7 @@ window.allHeroes =
         "effects": [
             "對所有敵人造成 250% 傷害。",
             "對上泰坦造成 500% 傷害。",
-            "所有盟友獲得+50%攻擊，持續4回合。對上神聖泰坦時，所有盟友獲得+60%攻擊。",
+            "所有盟友獲得 +50% 攻擊，持續 4 回合。對上神聖泰坦時，所有盟友獲得 +60% 攻擊。",
             "所有盟友得到靈魂連結，持續 4 回合。靈魂連結的盟友會分享承受的傷害。"
         ],
         "passives": [
@@ -60108,10 +60113,10 @@ window.allHeroes =
         ],
         "heroId": "vegetable_elsbeth",
         "star": 5,
-        "power": 1234,
-        "attack": 1277,
-        "defense": 1248,
-        "health": 2235,
+        "power": 1277,
+        "attack": 1332,
+        "defense": 1303,
+        "health": 2294,
         "effects": [
             "對目標造成 600% 傷害。",
             "如果目標有惡魔或超級惡魔，则對不同的隨機敵人造成 500% 傷害。",
@@ -60132,16 +60137,16 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 855,
         "lb1": {
-            "attack": 1376,
-            "defense": 1345,
-            "health": 2408,
-            "power": 1320
+            "attack": 1436,
+            "defense": 1405,
+            "health": 2473,
+            "power": 1367
         },
         "lb2": {
-            "attack": 1574,
-            "defense": 1539,
-            "health": 2755,
-            "power": 1492
+            "attack": 1643,
+            "defense": 1607,
+            "health": 2829,
+            "power": 1546
         },
         "cn_skill_info": [
             {
@@ -62840,7 +62845,8 @@ window.allHeroes =
         "Release date": "2025-11-06",
         "specialId": "cult_of_arachnid",
         "passiveSkills": [
-            "damage_increase_by_insanity"
+            "damage_increase_by_insanity",
+            "corrupt_minions_all_enemies"
         ],
         "heroId": "forsaken_kadath",
         "star": 5,
@@ -66631,7 +66637,7 @@ window.allHeroes =
         "specialId": "stylish_counterattack",
         "parent_specialId": "cleave_counter",
         "passiveSkills": [
-            "stylish"
+            "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "underworld_champion_costume_stylish",
@@ -67403,7 +67409,8 @@ window.allHeroes =
         "Release date": "2025-09-09",
         "specialId": "seeking_shots",
         "passiveSkills": [
-            "damage_increase_by_insanity"
+            "damage_increase_by_insanity",
+            "corrupt_minions_all_enemies"
         ],
         "heroId": "institute_professor_morryster",
         "star": 5,
@@ -68637,7 +68644,7 @@ window.allHeroes =
         "specialId": "stylish_strike",
         "parent_specialId": "deathstrike",
         "passiveSkills": [
-            "stylish"
+            "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_sorceress_costume_stylish",
@@ -74803,7 +74810,7 @@ window.allHeroes =
         "specialId": "stylish_fireball",
         "parent_specialId": "fireball",
         "passiveSkills": [
-            "stylish"
+            "stylish_rare"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_mage_costume_stylish",
@@ -76715,7 +76722,7 @@ window.allHeroes =
         "specialId": "stylish_warcry",
         "parent_specialId": "warcry",
         "passiveSkills": [
-            "stylish"
+            "stylish_epic"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_gladiator_costume_stylish",
@@ -82227,7 +82234,7 @@ window.allHeroes =
         "specialId": "stylish_eruption",
         "parent_specialId": "volcanic_eruption",
         "passiveSkills": [
-            "stylish"
+            "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "lionman_barbarian_costume_stylish",
@@ -82592,10 +82599,10 @@ window.allHeroes =
         ],
         "heroId": "vegetable_bartholomew",
         "star": 5,
-        "power": 1234,
-        "attack": 1293,
-        "defense": 1258,
-        "health": 2173,
+        "power": 1277,
+        "attack": 1336,
+        "defense": 1306,
+        "health": 2278,
         "effects": [
             "對目標及附近敵人造成 300% 傷害。",
             "敵人每持有一名惡魔或超級惡魔，都將造成 15% 額外傷害，最多累積造成 450% 傷害。",
@@ -82616,16 +82623,16 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1175,
         "lb1": {
-            "attack": 1394,
-            "defense": 1356,
-            "health": 2342,
-            "power": 1320
+            "attack": 1440,
+            "defense": 1407,
+            "health": 2455,
+            "power": 1366
         },
         "lb2": {
-            "attack": 1595,
-            "defense": 1551,
-            "health": 2679,
-            "power": 1492
+            "attack": 1648,
+            "defense": 1610,
+            "health": 2809,
+            "power": 1545
         },
         "cn_skill_info": [
             {
@@ -84747,7 +84754,8 @@ window.allHeroes =
         "Release date": "2025-09-23",
         "specialId": "drawn_to_the_depths",
         "passiveSkills": [
-            "revive_in_alternative_form_with_insanity_chance"
+            "revive_in_alternative_form_with_insanity_chance",
+            "corrupt_minions_all_enemies"
         ],
         "heroId": "forsaken_demhalar",
         "star": 5,
@@ -91126,7 +91134,7 @@ window.allHeroes =
         "specialId": "stylish_smash",
         "parent_specialId": "magma_smash",
         "passiveSkills": [
-            "stylish"
+            "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_captain_costume_stylish",
@@ -96834,7 +96842,8 @@ window.allHeroes =
         "Release date": "2026-01-11",
         "specialId": "volatile_crystal_conduit",
         "passiveSkills": [
-            "revive_in_alternative_form_with_insanity_chance"
+            "revive_in_alternative_form_with_insanity_chance",
+            "corrupt_minions_all_enemies"
         ],
         "heroId": "institute_wilcox",
         "star": 5,
@@ -99736,7 +99745,7 @@ window.allHeroes =
         "specialId": "stylish_chop",
         "parent_specialId": "mystic_chop",
         "passiveSkills": [
-            "stylish"
+            "stylish_rare"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_panda_berserker_costume_stylish",
@@ -103976,7 +103985,7 @@ window.allHeroes =
         "specialId": "slash_of_stylish_blades",
         "parent_specialId": "slash_of_seven_blades",
         "passiveSkills": [
-            "stylish"
+            "stylish_epic"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_templar_costume_stylish",
@@ -110897,7 +110906,8 @@ window.allHeroes =
         "Release date": "2025-12-28",
         "specialId": "severed_seal",
         "passiveSkills": [
-            "damage_increase_by_insanity"
+            "damage_increase_by_insanity",
+            "corrupt_minions_all_enemies"
         ],
         "heroId": "forsaken_inanis",
         "star": 5,
@@ -113538,7 +113548,7 @@ window.allHeroes =
         "specialId": "stylish_cleave",
         "parent_specialId": "spartan_cleave",
         "passiveSkills": [
-            "stylish"
+            "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_warrior_king_costume_stylish",
@@ -119190,7 +119200,7 @@ window.allHeroes =
         "specialId": "stylish_heal",
         "parent_specialId": "omniheal",
         "passiveSkills": [
-            "stylish"
+            "stylish_legendary"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_mystic_costume_stylish",

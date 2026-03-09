@@ -44021,6 +44021,20 @@
         "endTime": "2026-03-11 07:00:00"
       },
       {
+        "id": "selectableoffer_elemental3",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2026-03-09 09:30:00",
+        "endTime": "2026-03-10 07:00:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.limitbreakaether_dark",
+        "slot": "LeftBottom",
+        "scheduledManually": true,
+        "startTime": "2026-03-09 09:30:00",
+        "endTime": "2026-03-11 07:00:00"
+      },
+      {
         "id": "dynamic_offer_51_ducks",
         "slot": "ShopOnly",
         "scheduledManually": true,
@@ -44046,7 +44060,7 @@
       },
       {
         "id": "mastertraineroffer2",
-        "slot": "LeftBottom",
+        "slot": "RightExtraTop",
         "scheduledManually": true,
         "startTime": "2026-03-10 07:00:00",
         "endTime": "2026-03-11 07:00:00"
@@ -44195,6 +44209,13 @@
         "scheduledManually": true,
         "startTime": "2026-03-12 07:00:00",
         "endTime": "2026-03-14 06:30:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.limitbreakaether_fire",
+        "slot": "RightBottom",
+        "scheduledManually": true,
+        "startTime": "2026-03-12 07:00:00",
+        "endTime": "2026-03-14 07:00:00"
       },
       {
         "id": "dragon_flaming_new",
@@ -44585,6 +44606,13 @@
         "endTime": "2026-03-26 07:00:00"
       },
       {
+        "id": "com.smallgiantgames.empires.mystery3",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2026-03-22 10:00:00",
+        "endTime": "2026-03-23 07:00:00"
+      },
+      {
         "id": "7th_Birthday_2024_sun",
         "slot": "LeftTop",
         "scheduledManually": true,
@@ -44596,6 +44624,13 @@
         "slot": "RightTop",
         "startTime": "2026-03-23 07:00:00",
         "endTime": "2026-03-25 07:00:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.mystery2",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2026-03-23 10:00:00",
+        "endTime": "2026-03-24 07:00:00"
       },
       {
         "id": "7th_Birthday_2024_fri",
@@ -44630,6 +44665,13 @@
         "scheduledManually": true,
         "startTime": "2026-03-24 07:00:00",
         "endTime": "2026-03-28 07:00:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.mystery1",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2026-03-24 10:00:00",
+        "endTime": "2026-03-25 07:00:00"
       },
       {
         "id": "aethercrystalsoffer2",
@@ -69234,9 +69276,9 @@
           },
           {
             "entities": [
-              "dragon_bonefang",
-              "dragon_terrorclaw",
-              "dragon_regium"
+              "dragon_erudius",
+              "dragon_mordax",
+              "dragon_rangifer"
             ]
           },
           {
@@ -71081,5 +71123,5 @@
       ]
     }
   },
-  "shopConfigId": 4142660435
+  "shopConfigId": 2662136920
 }

@@ -3518,7 +3518,7 @@
           "sideAffected": "Allies",
           "typeOfTarget": "All",
           "effectType": "Heal",
-          "powerMultiplierPerMil": 330,
+          "powerMultiplierPerMil": 350,
           "powerMultiplierIncrementPerLevelPerMil": 10
         },
         "maxLevel": 8,
@@ -6767,7 +6767,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 1250,
+          "powerMultiplierPerMil": 1650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -11261,7 +11261,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3150,
+          "powerMultiplierPerMil": 3450,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -17152,7 +17152,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTargetMinor",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4550,
+          "powerMultiplierPerMil": 4850,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -25149,7 +25149,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3450,
+          "powerMultiplierPerMil": 3750,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -27218,7 +27218,7 @@
           "sideAffected": "Allies",
           "typeOfTarget": "All",
           "effectType": "Heal",
-          "powerMultiplierPerMil": 300,
+          "powerMultiplierPerMil": 330,
           "powerMultiplierIncrementPerLevelPerMil": 10
         },
         "maxLevel": 8,
@@ -45721,7 +45721,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2650,
+          "powerMultiplierPerMil": 2950,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -50763,11 +50763,6 @@
         ],
         "statusEffects": [
           {
-            "id": "minion_corruption_morryster_has_insanity",
-            "sideAffected": "Enemies",
-            "statusTargetType": "NearToTarget"
-          },
-          {
             "id": "brittle_more",
             "sideAffected": "Enemies",
             "statusTargetType": "NearToTarget",
@@ -50820,11 +50815,6 @@
             "sideAffected": "Enemies",
             "statusTargetType": "NearToTarget",
             "turns": 3
-          },
-          {
-            "id": "minion_corruption_demhalar_has_insanity",
-            "sideAffected": "Enemies",
-            "statusTargetType": "NearToTarget"
           },
           {
             "id": "add_insanity_to_self_demhalar",
@@ -61538,7 +61528,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "direct_heal_anoushka",
-        "powerMultiplierPerMil": 230,
+        "powerMultiplierPerMil": 250,
         "powerMultiplierIncrementPerLevelPerMil": 10,
         "effectType": "Heal",
         "targetType": "All",
@@ -69085,5 +69075,5 @@
       }
     ]
   },
-  "specialsConfigId": 706648021
+  "specialsConfigId": 4056209623
 }

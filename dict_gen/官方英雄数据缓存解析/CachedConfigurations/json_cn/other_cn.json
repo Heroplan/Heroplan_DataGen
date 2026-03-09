@@ -3615,6 +3615,13 @@
             "endTime": "2026-05-30 07:00:00"
           },
           {
+            "id": "AncientDragon",
+            "targetEvent": "AncientDragon",
+            "rareMonsterStateConfigId": "ancient_dragon",
+            "startTime": "2026-06-02 07:00:00",
+            "endTime": "2026-06-06 07:00:00"
+          },
+          {
             "id": "AllianceQuestMusketeers",
             "targetEvent": "AllianceQuestMusketeers",
             "rareMonsterStateConfigId": "alliance_quest2",
@@ -86777,5 +86784,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 3807203638
+  "otherConfigId": 629349326
 }

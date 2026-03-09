@@ -1,67 +1,327 @@
 {
   "languageOverridesConfig": {
     "overrides": {
-      "English": {
-        "overrideEntries": []
-      },
-      "Dutch": {
-        "overrideEntries": []
-      },
-      "French": {
-        "overrideEntries": []
-      },
-      "German": {
-        "overrideEntries": []
-      },
-      "Indonesian": {
-        "overrideEntries": []
-      },
       "Italian": {
-        "overrideEntries": []
-      },
-      "Polish": {
-        "overrideEntries": []
-      },
-      "Portuguese": {
-        "overrideEntries": []
+        "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Se sconfitto, questo personaggio ha la possibilità di rinascere come [#!]Ospite sinistro[#]. Le probabilità sono del [#!]{CHANCEINCREASEPERSTEP}%[#] ogni [#!]{INSANITYPERSTEP}[#] [#!]Follia[#] di questo personaggio, fino a una probabilità massima del [#!]{MAXCHANCEINCREASE}%[#].\n\nSe questo personaggio si sconfigge da sé quando attiva [#!]Follia[#], le probabilità di rinascere sono sempre del [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
+          },
+          {
+            "key": "passive_skill.reviveinalternativeformwithinsanitychance.extra",
+            "text": "L'[#!]Ospite sinistro[#] ha:\n[*] [#!]{INHERITEDHEALTH}%[#] di Salute ereditata.\n[*] [#!]{ATTACK}[#] di Attacco.\n[*] [#!]{DEFENSE}[#] di Difesa.\n[*] Le seguenti Abilità speciali:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Il Nucleo costrutto di questo personaggio è un [#!]Nucleo servitore[#].\n\nIl [#!]Nucleo servitore[#] si attiva ogni volta che viene utilizzata l'[#!]Abilità speciale[#] di questo personaggio:\n\n[*] Con un [#!]Nucleo servitore[#] completamente carico, chiama un [#!]servitore Killer Bot[#] con il [#!]{FAMILIARHEALTHPERCENT}%[#!] di HP e il [#!]{FAMILIARATTACK}%[#] di Attacco ereditati dall'evocatore su tutti gli alleati.\n[*] Gli HP e l'Attacco ereditati dall'evocatore vengono scalati in base alla carica del Nucleo. Tutta la carica viene consumata quando il Nucleo si attiva.\n[*] Prima che il servitore Killer Bot colpisca un bersaglio, distrugge tutti i [#!]servitori[#] del bersaglio e danneggia i [#!]servitori Mega[#].\n[*] Il servitore recupera il {FAMILIARHEAL}% di Salute per il suo proprietario alla fine di ogni turno.\n[*] [#!]Avvizzimento[#]: ogni colpo di un servitore Killer Bot conferisce al bersaglio [#!]{ATTACKMODIFIER}[#] Attacco."
+          }
+        ]
       },
       "Russian": {
-        "overrideEntries": []
+        "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "При поражении герой имеет шанс возродиться в виде [#!]хозяина жути[#]. Шанс [#!]{CHANCEINCREASEPERSTEP} %[#] за [#!]{INSANITYPERSTEP}[#] ед. [#!]безумия[#] у героя, до максимума [#!]{MAXCHANCEINCREASE} %[#]. \n\nЕсли во время активации [#!]безумия[#] герой уничтожает сам себя, то шанс становится равным [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
+          },
+          {
+            "key": "passive_skill.reviveinalternativeformwithinsanitychance.extra",
+            "text": "[#!]Хозяин жути[#] получает:\n[*][#!]{INHERITEDHEALTH} %[#]  здоровья от героя. \n[*][#!]{ATTACK}[#] атаки.\n[*][#!]{DEFENSE}[#] защиты.\n[*]Особый навык:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Структурное ядро этого героя — [#!]ядро прислужников[#].\n\n[#!]Ядро прислужников[#] активируется каждый раз при использовании особого навыка героя:\n\n[*] Полностью заряженное [#!]ядро прислужников[#] призывает [#!]бота-убийцу[#] с [#!]{FAMILIARHEALTHPERCENT} %[#] ОЗ и [#!]{FAMILIARATTACK} %[#] атаки героя для всех союзников.\n[*] ОЗ и атака, получаемые от героя, зависят от заряда ядра. Весь заряд расходуется при активации ядра.\n[*] До того, как бот-убийца атакует цель, он уничтожает всех [#!]прислужников[#] цели и наносит урон [#!]мегаприслужникам[#].\n[*]Прислужник восстанавливает {FAMILIARHEAL} % здоровья своему владельцу в конце каждого хода.\n[*] [#!]Увядание:[#] Каждый удар бота-убийцы меняет атаку цели на [#!]{ATTACKMODIFIER}[#]."
+          }
+        ]
       },
-      "Spanish": {
-        "overrideEntries": []
-      },
-      "Danish": {
-        "overrideEntries": []
-      },
-      "Finnish": {
-        "overrideEntries": []
-      },
-      "Norwegian": {
-        "overrideEntries": []
-      },
-      "Swedish": {
-        "overrideEntries": []
-      },
-      "Korean": {
-        "overrideEntries": []
-      },
-      "Japanese": {
-        "overrideEntries": []
-      },
-      "ChineseSimplified": {
-        "overrideEntries": []
+      "Polish": {
+        "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "W przypadku porażki ta postać ma szanse na odrodzenie jako [#!]nadprzyrodzony nosiciel[#]. Szanse wynoszą [#!]{CHANCEINCREASEPERSTEP}%[#] za każde [#!]{INSANITYPERSTEP}[#] pkt. [#!]obłędu[#] tej postaci, maksymalnie do [#!]{MAXCHANCEINCREASE}%[#].\n\nJeśli ta postać pokona sama siebie, gdy aktywuje się [#!]obłęd[#], szanse wynoszą [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
+          },
+          {
+            "key": "passive_skill.reviveinalternativeformwithinsanitychance.extra",
+            "text": "[#!]Nadprzyrodzony nosiciel[#] ma:\n[*][#!]{INHERITEDHEALTH}%[#] odziedziczonego zdrowia. \n[*][#!]{ATTACK}[#] pkt. ataku.\n[*][#!]{DEFENSE}[#] pkt. obrony.\n[*]Następująca umiejętność specjalna:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Rdzeń konstruktu tej postaci to [#!]rdzeń pomocnika[#].\n\n[#!]Rdzeń pomocnika[#] aktywuje się za każdym razem, gdy rzucona zostanie [#!]umiejętność specjalna[#] tej postaci:\n\n[*] Przy pełnym naładowaniu [#!]rdzenia pomocnika[#], wzywa dla wszystkich sojuszników [#!]zabójczego bota[#] z [#!]{FAMILIARHEALTHPERCENT}%[#] PŻ i [#!]{FAMILIARATTACK}%[#] ataku przejętymi od bohatera.\n[*]PŻ i atak przejęte od rzucającego skalują się z poziomem naładowania rdzenia. Po aktywacji rdzenia zużyty zostaje cały ładunek.\n[*] Zanim zabójczy bot trafi cel, niszczy wszystkich [#!]pomocników[#] celu i zadaje obrażenia [#!]mega pomocnikom[#].\n[*]Pomocnik przywraca {FAMILIARHEAL}% zdrowia jego właścicielowi na końcu każdej tury.\n[*] [#!]Susza:[#] Zabójczy bot każdym trafieniem zapewnia celowi [#!]{ATTACKMODIFIER}[#] ataku."
+          }
+        ]
       },
       "ChineseTraditional": {
-        "overrideEntries": []
+        "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "如果被擊敗，此角色有機率重生為[#!]駭異宿主[#]。此角色每有[#!]{INSANITYPERSTEP}[#]點[#!]瘋狂[#]，該機率為[#!]{CHANCEINCREASEPERSTEP}%[#]，最高機率為[#!]{MAXCHANCEINCREASE}%[#]。\n\n在[#!]瘋狂[#]生效時，若此角色擊敗自己，重生的機率一律為[#!]{CHANCEONSELFCAUSEDDEATH}%[#]。"
+          },
+          {
+            "key": "passive_skill.reviveinalternativeformwithinsanitychance.extra",
+            "text": "The [#!]駭異宿主[#]具有：\n[*][#!]{INHERITEDHEALTH}%[#]繼承生命。\n[*][#!]{ATTACK}[#]點攻擊。\n[*][#!]{DEFENSE}[#]點防禦。\n[*]以下特殊技能：\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "此角色的構造體核心是[#!]小兵核心[#]。\n\n每次施放此角色的[#!]特殊技能[#]時，就會啟動[#!]小兵核心[#]：\n\n[*]完全充能的[#!]小兵核心[#]會為所有盟友召喚一個[#!]殺手機器人小兵[#]，擁有繼承自施法者的[#!]{FAMILIARHEALTHPERCENT}%[#]生命值和[#!]{FAMILIARATTACK}%[#]攻擊。\n[*]繼承自施法者的生命值和攻擊，會根據核心的充能而有所變動。核心啟動後，會耗盡所有充能。\n[*]在殺手機器人小兵命中目標前，會消滅目標的所有[#!]小兵[#]，並對[#!]超級小兵[#]造成傷害。\n[*]小兵於每回合結束時，會為其主人治療{FAMILIARHEAL}%生命值。\n[*][#!]枯萎：[#]殺手機器人小兵每次攻擊， 都會使目標的攻擊力變為[#!]{ATTACKMODIFIER}[#]。"
+          }
+        ]
+      },
+      "Korean": {
+        "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "이 캐릭터는 패배 시 일정 확률로 [#!]엘드리히 호스트[#]로 부활할 수 있습니다. 그 확률은 이 캐릭터의 [#!]{INSANITYPERSTEP}[#] [#!]광기[#]당 [#!]{CHANCEINCREASEPERSTEP}%[#]이며 [#!]{MAXCHANCEINCREASE}%[#]를 초과할 수 없습니다. \n\n[#!]광기[#]가 활성화되어 이 캐릭터가 스스로 쓰러지면 그 확률은 [#!]{CHANCEONSELFCAUSEDDEATH}%[#]입니다."
+          },
+          {
+            "key": "passive_skill.reviveinalternativeformwithinsanitychance.extra",
+            "text": "[#!]엘드리히 호스트[#]는 다음과 같은 특성을 갖습니다.\n[*][#!]{INHERITEDHEALTH}%[#] HP 계승. \n[*][#!]{ATTACK}[#] 공격력.\n[*][#!]{DEFENSE}[#] 방어력.\n[*]다음 특수 스킬: \n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "이 캐릭터의 수호물 코어는 [#!]하수인 코어[#]입니다.\n\n[#!]하수인 코어[#]는 이 캐릭터의 [#!]특수 스킬[#]이 시전될 때마다 발동합니다.\n\n[*]에너지가 완충된 [#!]하수인 코어[#]는 시전자로부터 [#!]{FAMILIARHEALTHPERCENT}%[#] HP와 [#!]{FAMILIARATTACK}%[#] 공격력을 물려받은 [#!]킬러봇 하수인[#]을 모든 아군에게 소환합니다.\n[*] 시전자로부터 물려받는 HP와 공격력은 코어의 에너지 충전도에 따라 변합니다. 충전된 에너지는 코어가 활성화된 동안 소모됩니다.\n[*] 킬러봇 하수인은 대상을 공격하기 전에 대상이 보낸 모든 [#!]하수인[#]을 파괴하고 [#!]메가 하수인[#]에게 피해를 가합니다.\n[*]각 턴 종료 시 하수인이 주인의 HP를 {FAMILIARHEAL}% 회복시킵니다.\n[*][#!]쇠퇴:[#] 킬러봇 하수인의 타격마다 대상에게 [#!]{ATTACKMODIFIER}[#] 공격력을 줍니다."
+          }
+        ]
+      },
+      "German": {
+        "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Wenn er besiegt wurde, hat dieser Charakter eine Chance, als [#!]Gespenstischer Wirt[#] wiedergeboren zu werden. Die Chance beträgt [#!]{CHANCEINCREASEPERSTEP} %[#] pro [#!]{INSANITYPERSTEP}[#] [#!]Wahnsinn[#] auf diesem Charakter, bis zu maximal {MAXCHANCEINCREASE} %.\n\nWenn sich dieser Charakter bei Aktivierung von [#!]Wahnsinn[#] selbst besiegt, beträgt die Chance [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
+          },
+          {
+            "key": "passive_skill.reviveinalternativeformwithinsanitychance.extra",
+            "text": "Der [#!]Gespenstische Wirt[#] hat:\n[*][#!]{INHERITEDHEALTH} %[#] vererbtes Leben. \n[*][#!]{ATTACK}[#] Angriff.\n[*][#!]{DEFENSE}[#] Verteidigung.\n[*]Folgende Spezialfähigkeit: \n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Der Konstruktkern dieses Charakters ist ein [#!]Lakaikern[#].\n\nDer [#!]Lakaikern[#] wird immer aktiviert, wenn die [#!]Spezialfähigkeit[#] dieses Charakters gewirkt wird:\n\n[*] Bei vollständig aufgeladenem [#!]Lakaikern[#] wird ein [#!]Killer-Bot-Lakai mit [#!]{FAMILIARHEALTHPERCENT} %[#] LP und [#!]{FAMILIARATTACK} %[#] Angriff des Wirkers für alle Verbündeten beschworen.\n[*] Die vom Wirker übernommenen LP und Angriff steigen mit der Aufladung im Kern. Wird der Kern aktiviert, wird die gesamte Aufladung verbraucht.\n[*] Bevor der Killer-Bot-Lakai ein Ziel trifft, zerstört er alle [#!]Lakaien[#] des Ziels und fügt [#!]Mega-Lakaien[#] Schaden zu.\n[*] Der Lakai stellt am Ende jeder Runde {FAMILIARHEAL} % Leben seines Besitzers wieder her.\n[*] [#!]Verwelken:[#] Jeder Treffer von einem Killer-Bot-Lakai gibt seinem Ziel [#!]{ATTACKMODIFIER}[#] Angriff."
+          }
+        ]
+      },
+      "Japanese": {
+        "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "このキャラクターが倒されると、一定確率で[#!]エルドリッチの主人[#]として復活する。この確率はこのキャラクターに付与されている[#!]{INSANITYPERSTEP}[#][#!]狂気[#]につき[#!]{CHANCEINCREASEPERSTEP}%[#]となる。最大で[#!]{MAXCHANCEINCREASE}%[#]まで。\n\n[#!]狂気[#]を発動してこのキャラクターが自身を倒した場合、復活する可能性が常に[#!]{CHANCEONSELFCAUSEDDEATH}%[#]になる。"
+          },
+          {
+            "key": "passive_skill.reviveinalternativeformwithinsanitychance.extra",
+            "text": "[#!]エルドリッチの主人[#]のステータス：\n[*]キャラクターのライフの[#!]{INHERITEDHEALTH}%[#]を継承。\n[*]攻撃力[#!]{ATTACK}[#]。\n[*]防御力[#!]{DEFENSE}[#]。\n[*]特殊スキル：\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "このキャラクターの蓄積コアは[#!]ミニオンコア[#]だ。\n\n[#!]ミニオンコア[#]はこのキャラクターが[#!]特殊スキル[#]を使用するたびに発動する：\n\n[*] [#!]ミニオンコア[#]をフルチャージすると、術者から継承したHP[#!]{FAMILIARHEALTHPERCENT}%[#]、攻撃力[#!]{FAMILIARATTACK}%[#]の[#!]キラーボットミニオン[#]を仲間全員にサモンする。\n[*] 術者から継承するHPと攻撃力はコアのチャージ量に基づいて計算される。コアを起動するとチャージをすべて消費する。\n[*] キラーボットミニオンはターゲットに攻撃を与える前に、ターゲットの[#!]ミニオン[#]をすべて破壊し、[#!]メガミニオン[#]にダメージを与える。\n[*]ミニオンは、各ターン終了時に所有者のライフを{FAMILIARHEAL}%回復する。\n[*] [#!]弱化：[#] キラーボットミニオンの攻撃が当たったターゲットの攻撃力は[#!]{ATTACKMODIFIER}[#]になる。"
+          }
+        ]
+      },
+      "Swedish": {
+        "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Om den här karaktären besegras har den en chans att återfödas som en [#!]kuslig värd[#]. Chansen är [#!]{CHANCEINCREASEPERSTEP} %[#] per [#!]{INSANITYPERSTEP}[#] [#!]vansinne[#] på den här karaktären, upp till en maximal chans på [#!]{MAXCHANCEINCREASE} %[#].\n\nOm den här karaktären besegrar sig själv när [#!]vansinne[#] aktiveras är chansen att återfödas [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
+          },
+          {
+            "key": "passive_skill.reviveinalternativeformwithinsanitychance.extra",
+            "text": "Den [#!]kusliga värden[#] har:\n[*][#!]{INHERITEDHEALTH} %[#] ärvd hälsa.\n[*][#!]{ATTACK}[#] attack.\n[*][#!]{DEFENSE}[#] försvar.\n[*]Följande specialförmåga:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Den här karaktärens konstruktionskärna är en [#!]undersåteskärna[#].\n\n[#!]Undersåteskärnan[#] aktiveras varje gång den här karaktärens [#!]specialförmåga[#] används:\n\n[*] När [#!]undersåteskärnan[#] är fulladdad åkallas en [#!]mördarrobotsundersåte[#] med [#!]{FAMILIARHEALTHPERCENT} %[#] hälsa och [#!]{FAMILIARATTACK} %[#] attack som ärvs från användaren åt alla allierade.\n[*] Mängden hälsa och attack som ärvs från användaren skalas med mängden laddning i kärnan. All laddning förbrukas när kärnan aktiveras.\n[*] Innan mördarrobotundersåten träffar ett mål förstör den alla målets [#!]undersåtar[#] och skadar dess [#!]megaundersåtar[#].\n[*]Undersåten återställer {FAMILIARHEAL} % hälsa åt sin ägare i slutet av varje runda.\n[*][#!]Vittring:[#] Varje träff från en mördarrobotsundersåte ger dess mål [#!]{ATTACKMODIFIER}[#] attack."
+          }
+        ]
       },
       "Turkish": {
-        "overrideEntries": []
+        "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Bu karakterin yenildiğinde [#!]Tuhaf Konak[#] olarak dirilme şansı vardır. Şans, karakter üzerindeki {INSANITYPERSTEP} [#!]Delilik[#] başına en fazla [#!]%{MAXCHANCEINCREASE}[#] olmak üzere %{CHANCEINCREASEPERSTEP} oranındadır. \n\nBu karakter [#!]Deliliği[#] etkinleştirirken kendini alt ederse yeniden dirilme şansı her zaman [#!]%{CHANCEONSELFCAUSEDDEATH}[#] olur."
+          },
+          {
+            "key": "passive_skill.reviveinalternativeformwithinsanitychance.extra",
+            "text": "[#!]Tuhaf Konak[#] şunlara sahiptir:\n[*][#!]%{INHERITEDHEALTH}[#] devralınan sağlık. \n[*][#!]{ATTACK}[#] saldırı.\n[*][#!]{DEFENSE}[#] savunma.\n[*]Şu Özel Yetenek:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Bu karakterin Yapı Merkezi [#!]Hizmetkar Merkezidir[#].\n\n[#!]Hizmetkar Merkezi[#], bu karakterin [#!]Özel Yeteneği[#] her uygulandığında etkinleşir:\n\n[*] Tamamen dolan bir [#!]Hizmetkar Merkezi[#], eylemciden tüm müttefiklere miras kalan [#!]%{FAMILIARHEALTHPERCENT}[#] SP'ye ve [#!]%{FAMILIARATTACK}[#] saldırıya sahip bir [#!]Katil Bot Hizmetkar[#] çağırır.\n[*] Eylemciden miras kalan SP ve saldırı, Merkezin dolum miktarına göre değişir. Merkez etkinleştirildiğinde doluluk oranı tamamen boşaltılır.\n[*] Katil Bot Hizmetkar, hedefe vurmadan önce hedefteki tüm [#!]Hizmetkarları[#] yok eder ve [#!]Mega Hizmetkarlara[#] hasar verir.\n[*] Hizmetkar, her turun sonunda sahibi için %{FAMILIARHEAL} sağlık yeniler.\n[*] [#!]Soldurma:[#] Katil Bot Hizmetkarın yaptığı her vuruş hedefine [#!]{ATTACKMODIFIER}[#] saldırı verir."
+          }
+        ]
+      },
+      "English": {
+        "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "If defeated, this character has a chance to be reborn as an [#!]Eldritch Host[#]. The chance is [#!]{CHANCEINCREASEPERSTEP}%[#] per [#!]{INSANITYPERSTEP}[#] [#!]Insanity[#] on this character, up to a maximum chance of [#!]{MAXCHANCEINCREASE}%[#]. \n\nIf this character defeats themself when activating [#!]Insanity[#], the chance to be reborn is always [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
+          },
+          {
+            "key": "passive_skill.reviveinalternativeformwithinsanitychance.extra",
+            "text": "The [#!]Eldritch Host[#] has:\n[*][#!]{INHERITEDHEALTH}%[#] inherited health. \n[*][#!]{ATTACK}[#] attack.\n[*][#!]{DEFENSE}[#] defense.\n[*]The following Special Skill:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "The Construct Core of this character is a [#!]Minion Core[#].\n\nThe [#!]Minion Core[#] activates each time this character's [#!]Special Skill[#] is cast:\n\n[*] With a fully charged [#!]Minion Core[#], summons a [#!]Killer Bot Minion[#] with [#!]{FAMILIARHEALTHPERCENT}%[#] HP and [#!]{FAMILIARATTACK}%[#] attack inherited from the caster on all allies.\n[*] The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.\n[*] Before the Killer Bot Minion hits a target, it destroys all [#!]Minions[#] from the target and damages [#!]Mega Minions[#].\n[*]The Killer Bot Minion recovers {FAMILIARHEAL}% health for its owner at the end of each turn.\n[*][#!]Wither:[#] Each hit from a Killer Bot Minion gives its target [#!]{ATTACKMODIFIER}[#] attack."
+          }
+        ]
       },
       "Arabic": {
-        "overrideEntries": []
+        "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "عند الهزيمة، يكون لدى الشخصية فرصة لإعادة الإحياء كـ [#!]مضيف شعوذة[#]. الفرصة هي [#!]{CHANCEINCREASEPERSTEP}%[#] لكل [#!]{INSANITYPERSTEP}[#] [#!]جنون[#] لهذه الشخصية، بحد أقصى [#!]{MAXCHANCEINCREASE}%[#]. \n\nإذا هزمت هذه الشخصية نفسها عند تفعيل [#!]الجنون[#]، فإن فرصة إعادة الإحياء دائمًا تكون [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
+          },
+          {
+            "key": "passive_skill.reviveinalternativeformwithinsanitychance.extra",
+            "text": "[#!]مضيف الشعوذة[#] لديه:\n[*][#!]{INHERITEDHEALTH}%[#] من الصحة الموروثة. \n[*][#!]{ATTACK}[#] من الهجوم.\n[*][#!]{DEFENSE}[#] من الدفاع.\n[*]المهارة الخاصة التالية:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "جوهر بناء هذه الشخصية هو [#!]جوهر تابع[#].\n\nيتم تنشيط [#!]جوهر التابع[#] كلما يتم إلقاء [#!]المهارة الخاصة[#] لهذه الشخصية:\n\n[*] مع [#!]جوهر تابع[#] مشحون بالكامل، يتم استدعاء [#!]تابع آلي قاتل[#] مع صحة بنسبة [#!]{FAMILIARHEALTHPERCENT}%[#] وهجوم بنسبة [#!]{FAMILIARATTACK}%[#] موروث من الملقي لكل الحلفاء.\n[*] يتم تحديد الصحة والهجوم الموروثين من الملقي حسب مقدار شحن الجوهر. يتم استنفاد كل الشحنات عند تفعيل الجوهر.\n[*] قبل أن يصيب التابع الآلي القاتل هدفًا، يدمر كل [#!]الأتباع[#] من الأهداف، ويلحق الضرر بـ[#!]الأتباع الضخام[#].\n[*]يستعيد التابع {FAMILIARHEAL}% من الصحة لمالكه في نهاية كل جولة.\n[*] [#!]التلف:[#] كل إصابة من التابع الآلي القاتل تمنح هدفها [#!]{ATTACKMODIFIER}[#] من الهجوم."
+          }
+        ]
+      },
+      "French": {
+        "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "S'il est vaincu, ce personnage a une chance de renaître sous la forme d'un [#!]hôte fantasmagorique[#]. La probabilité est de [#!]{CHANCEINCREASEPERSTEP} %[#] pour chaque tranche de [#!]{INSANITYPERSTEP}[#] point(s) de [#!]folie[#] sur le personnage, jusqu'à un maximum de [#!]{MAXCHANCEINCREASE} % [#].\n\nSi le personnage s'élimine lui-même lors de l'activation de la [#!]folie[#], la probabilité est de [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
+          },
+          {
+            "key": "passive_skill.reviveinalternativeformwithinsanitychance.extra",
+            "text": "L'[#!]hôte fantasmagorique[#] a :\n[*][#!]{INHERITEDHEALTH} %[#] de santé héritée.\n[*][#!]{ATTACK}[#] points d'attaque.\n[*][#!]{DEFENSE}[#] points de défense.\n[*]La compétence spéciale suivante :\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Le noyau de golem de ce personnage est un [#!]noyau sbire[#].\n\nLe [#!]noyau sbire[#] s'active à chaque fois que le personnage utilise sa [#!]compétence spéciale[#] :\n\n[*] Avec un [#!]noyau sbire[#] entièrement chargé, chaque allié reçoit un [#!]sbire robot tueur[#] avec [#!]{FAMILIARHEALTHPERCENT} %[#] de PV et [#!]{FAMILIARATTACK} %[#] d'attaque hérités du lanceur.\n[*] Les PV et l'attaque hérités sont proportionnels à la charge du noyau. Toute la charge est dépensée lorsque le noyau est activé.\n[*] Avant de frapper une cible, le sbire robot tueur détruit tous ses [#!]sbires[#] et inflige des dégâts aux [#!]méga sbires[#].\n[*]Le sbire récupère {FAMILIARHEAL} % de santé pour son propriétaire à la fin de chaque tour.\n[*] [#!]Flétrissement :[#] chaque coup du sbire robot tueur donne à sa cible [#!]{ATTACKMODIFIER}[#] d'attaque."
+          }
+        ]
+      },
+      "Portuguese": {
+        "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Quando é derrotado, este personagem pode renascer como [#!]Hospedeiro Místico[#]. A chance é de [#!]{CHANCEINCREASEPERSTEP}%[#] por [#!]{INSANITYPERSTEP}[#] [#!]Insanidade[#] do personagem, até o limite de [#!]{MAXCHANCEINCREASE}%[#] de chance. \n\nQuando este personagem derrota a si mesmo ao ativar  [#!]Insanidade[#], a chance de renascer é sempre [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
+          },
+          {
+            "key": "passive_skill.reviveinalternativeformwithinsanitychance.extra",
+            "text": "O [#!]Hospedeiro Místico[#] tem:\n[*] [#!]{INHERITEDHEALTH}%[#] de vida herdada\n[*] [#!]{ATTACK}[#] de ataque\n[*] [#!]{DEFENSE}[#] de defesa\n[*]A seguinte habilidade especial:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "O núcleo de construto deste personagem é um [#!]núcleo de ajudante[#].\n\nO [#!]núcleo de ajudante[#] é ativado sempre que a [#!]habilidade especial[#] deste personagem é lançada:\n\n[*] Com um [#!]núcleo de ajudante[#] totalmente carregado, convoca um [#!]ajudante Bot Assassino[#] com [#!]{FAMILIARHEALTHPERCENT}%[#] de HP e [#!]{FAMILIARATTACK}%[#] de ataque do invocador para todos os aliados.\n[*] O total de PV e ataque herdados do invocador são calculados de acordo com a quantidade de carga do núcleo. Toda a carga é consumida quando o núcleo é ativado.\n[*] Antes de atingir um alvo, o Bot Assassino destrói todos os [#!]ajudantes[#] do alvo e causa dano aos [#!]mega-ajudantes[#].\n[*] O ajudante restaura {FAMILIARHEAL}% da vida do dono ao fim de cada turno.\n[*] [#!]Definhar:[#] cada acerto de um ajudante Bot Assassino dá [#!]{ATTACKMODIFIER}[#] de ataque ao alvo."
+          }
+        ]
+      },
+      "Indonesian": {
+        "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Jika kalah, karakter ini berpeluang terlahir sebagai [#!]Inang Eldritch[#]. Peluangnya [#!]{CHANCEINCREASEPERSTEP}%[#] per [#!]{INSANITYPERSTEP}[#] [#!]Kegilaan[#] pada karakter ini, hingga peluang maks [#!]{MAXCHANCEINCREASE}%[#].\n\nJika karakter ini mengalahan diri sendiri saat [#!]Kegilaan[#] diaktifkan, peluangnya untuk terlahir kembali selalu [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
+          },
+          {
+            "key": "passive_skill.reviveinalternativeformwithinsanitychance.extra",
+            "text": "[#!]Inang Eldritch[#] memiliki \n[*]{INHERITEDHEALTH}% kesehatan yang diwarisi. \n[*][#!]{ATTACK}[#] serangan.\n[*][#!]{DEFENSE}[#] pertahanan.\n[*]Keahlian Khusus berikut:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Inti Konstruksi karakter ini adalah [#!]Inti Antek[#].\n\n[#!]Inti Antek[#] aktif setiap kali [#!]Keahlian Khusus[#] karakter ini dirapal:\n\n[*] Dengan [#!]Inti Antek[#] yang terisi penuh, memanggil [#!]Antek Bot Pembunuh[#] dengan [#!]{FAMILIARHEALTHPERCENT}%[#] HP dan serangan [#!]{FAMILIARATTACK}%[#] yang diwarisi dari perapal pada semua sekutu.\n[*] HP dan serangan yang diwarisi dari perapal diskalakan berdasarkan jumlah muatan di Inti. Semua muatan akan habis saat Inti diaktifkan.\n[*] Sebelum Antek Bot Pembunuh mengenai sasaran, ia menghancurkan semua [#!]Antek[#] sasaran dan merusak [#!]Antek Mega[#].\n[*]Antek memulihkan {FAMILIARHEAL}% kesehatan untuk pemiliknya di akhir setiap giliran.\n[*][#!]Layu:[#] Setiap serangan dari Antek Bot Pembunuh memberi targetnya [#!]{ATTACKMODIFIER}[#] serangan."
+          }
+        ]
+      },
+      "Finnish": {
+        "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Jos tämä hahmo kukistuu, hänellä on mahdollisuus syntyä uudelleen [#!]ikiaikaisena oliona[#]. Mahdollisuus on [#!]{CHANCEINCREASEPERSTEP} %[#] jokaista tällä hahmolla olevaa [#!]{INSANITYPERSTEP}[#] [#!]hulluuspistettä[#] kohti, yhteensä enintään [#!]{MAXCHANCEINCREASE} %[#]. \n\nJos tämä hahmo kukistaa itsensä [#!]hulluuden[#] aktivoituessa, uudelleen syntymisen mahdollisuus on aina [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
+          },
+          {
+            "key": "passive_skill.reviveinalternativeformwithinsanitychance.extra",
+            "text": "[#!]Ikiaikaisella oliolla[#] on:\n[*][#!]{INHERITEDHEALTH} %[#] perittyä terveyttä. \n[*][#!]{ATTACK}[#] hyökkäystä.\n[*][#!]{DEFENSE}[#] puolustusta.\n[*]Seuraava erikoistaito:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Tämän hahmon rakennelmaydin on [#!]käskyläisydin[#].\n\n[#!]Käskyläisydin[#] aktivoituu aina kun tämän hahmon [#!]erikoistaitoa[#] käytetään:\n\n[*] Täysin ladattu [#!]käskyläisydin[#] kutsuu kaikille liittolaisille [#!]tappajabottikäskyläisen[#], joka perii loitsijalta [#!]{FAMILIARHEALTHPERCENT} %[#] terveyttä ja [#!]{FAMILIARATTACK} %[#] hyökkäystä.\n[*] Loitsijalta peritty terveys ja hyökkäys skaalautuvat ytimen latauksen mukaan. Ytimen lataus tyhjenee kokonaan, kun ydin aktivoituu.\n[*] Ennen kuin tappajabottikäskyläinen osuu kohteeseen, se tuhoaa kohteen kaikki [#!]käskyläiset[#] ja vaurioittaa sen [#!]megakäskyläisiä[#].\n[*]Käskyläinen palauttaa {FAMILIARHEAL} % terveyttä omistajalleen joka vuoron lopussa.\n[*] [#!]Näivetys:[#] Tappajabottikäskyläisen osumat antavat kohteelle [#!]{ATTACKMODIFIER}[#] hyökkäystä."
+          }
+        ]
+      },
+      "Danish": {
+        "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Hvis denne figur bliver besejret, er der en chance for, at den genfødes som en [#!]sælsom vært[#]. Chancen er [#!]{CHANCEINCREASEPERSTEP} %[#] pr. [#!]{INSANITYPERSTEP}[#] [#!]vanvid[#] på denne figur op til maks. chance på [#!]{MAXCHANCEINCREASE} %[#]. \n\nHvis denne figur besejrer sig selv, når [#!]vanviddet[#] aktiveres, er chancen for at blive genfødt altid [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
+          },
+          {
+            "key": "passive_skill.reviveinalternativeformwithinsanitychance.extra",
+            "text": "Den [#!]sælsomme vært[#] har:\n[*][#!]{INHERITEDHEALTH} %[#] nedarvet helbred. \n[*][#!]{ATTACK}[#] angreb.\n[*][#!]{DEFENSE}[#] forsvar.\n[*]Følgende særlige egenskab:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Denne figurs byggekerne er en [#!]håndlangerkerne[#].\n\n[#!]Håndlangerkernen[#] aktiveres, hver gang denne figurs særlige egenskab kastes:\n\n[*] Med en fuldt opladet [#!]håndlangerkerne[#] hidkaldes en  dræberbot-håndlanger med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb arvet kasteren på alle allierede.\n[*] De HP og det angreb, der arves fra kasteren, skaleres med ladningen i kernen. Al ladning udtømmes, når kernen aktiveres.\n[*] Før dræberbot-håndlangeren rammer et mål, tilintetgør den alle [#!]håndlangere[#] fra målet og skader [#!]kæmpehåndlangere[#].\n[*]Håndlangeren genvinder {FAMILIARHEAL} % helbred til sin ejer i slutningen af hver runde.\n[*][#!]Forvitring:[#] Hver træffer fra en dræberbot-håndlanger giver dens mål [#!]{ATTACKMODIFIER}[#] angreb."
+          }
+        ]
+      },
+      "Spanish": {
+        "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Si este personaje cae derrotado, tiene una probabilidad de renacer como [#!]huésped sobrenatural[#]. La probabilidad es del [#!]{CHANCEINCREASEPERSTEP} %[#] por cada [#!]{INSANITYPERSTEP}[#] de [#!]demencia[#] que tenga el personaje hasta un máximo del [#!]{MAXCHANCEINCREASE} %[#].\n\nSi este personaje cae derrotado cuando se activa la [#!]demencia[#], siempre tiene un [#!]{CHANCEONSELFCAUSEDDEATH} %[#] de probabilidad de renacer."
+          },
+          {
+            "key": "passive_skill.reviveinalternativeformwithinsanitychance.extra",
+            "text": "El [#!]huésped sobrenatural[#] tiene:\n[*] [#!]{INHERITEDHEALTH} %[#] de vitalidad heredada\n[*] [#!]{ATTACK}[#] de ataque\n[*] [#!]{DEFENSE}[#] de defensa\n[*] La habilidad especial:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "El núcleo de creación de este personaje es un [#!]núcleo secuaz[#].\n\nEl [#!]núcleo secuaz[#] se activa cada vez que este personaje lanza su [#!]habilidad especial[#]:\n\n[*] Con un [#!]núcleo secuaz[#] cargado al máximo, invoca a un [#!]secuaz robot asesino[#] para cada aliado con un [#!]{FAMILIARHEALTHPERCENT}[#] % VIT y un [#!]{FAMILIARATTACK}[#] % de ataque heredados del héroe.\n[*] La VIT y el ataque heredados aumentan en función de la carga del núcleo. La carga completa se agota cuando se activa el núcleo.\n[*] Antes de golpear al objetivo, el secuaz robot asesino destruye a todos sus [#!]secuaces[#] e inflige daño a sus [#!]megasecuaces[#].\n[*] El secuaz recupera un {FAMILIARHEAL} % de vitalidad para su dueño al final de cada turno.\n[*] [#!]Merma:[#] Cada golpe de un secuaz robot asesino le otorga al objetivo [#!]{ATTACKMODIFIER}[#] de ataque."
+          }
+        ]
+      },
+      "Norwegian": {
+        "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Hvis den beseires, har denne figuren en sjanse til å bli gjenfødt som en [#!]uhyggelig vert[#]. Sjansen er [#!]{CHANCEINCREASEPERSTEP} %[#] per [#!]{INSANITYPERSTEP}[#] [#!]galskap[#] på denne figuren, opptil en maksimal sjanse på [#!]{MAXCHANCEINCREASE} %[#]. \n\nHvis denne figuren beseirer seg selv når [#!]galskap[#] aktiveres, er sjansen [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
+          },
+          {
+            "key": "passive_skill.reviveinalternativeformwithinsanitychance.extra",
+            "text": "Den [#!]uhyggelige verten[#] har:\n[*][#!]{INHERITEDHEALTH} %[#] nedarvet helse. \n[*][#!]{ATTACK}[#] angrep.\n[*][#!]{DEFENSE}[#] forsvar.\n[*]Følgende spesialferdighet:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Konstruktørkjernen til denne figuren er en [#!]undersåttkjerne[#].\n\n[#!]Undersåttkjernen[#] aktiveres hver gang denne figurens [#!]spesialferdighet[#] brukes:\n\n[*] Med en fulladet [#!]undersåttkjerne[#] kan du fremkalle en [#!]drapsrobotundersått[#] med [#!]{FAMILIARHEALTHPERCENT} %[#] HP og [#!]{FAMILIARATTACK} %[#] nedarvet angrep fra brukeren på alle allierte.\n[*] HP og angrep nedarvet fra brukeren skaleres av ladningen i kjernen. Alle ladninger brukes når kjernen aktiveres.\n[*] Før drapsrobotundersåtten treffer et mål, ødelegger den alle [#!]undersåtter[#] fra målet og skader [#!]megaundersåtter[#].\n[*]Undersåtten gir tilbake {FAMILIARHEAL} % helse til eieren sin ved slutten av hver runde.\n[*][#!]Visne:[#] Hvert treff fra en drapsrobotundersått gir målet [#!]{ATTACKMODIFIER}[#] angrep."
+          }
+        ]
+      },
+      "Dutch": {
+        "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Als dit personage verslagen wordt, is er een kans dat het herboren wordt als een [#!]Eldritch-host[#]. De kans is [#!]{CHANCEINCREASEPERSTEP}%[#] per [#!]{INSANITYPERSTEP}[#] [#!]waanzin[#] voor dit personage en maximaal [#!]{MAXCHANCEINCREASE}%[#].\n\nAls dit personage zichzelf verslaat terwijl [#!]waanzin[#] wordt geactiveerd, is de kans op hergeboorte altijd [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
+          },
+          {
+            "key": "passive_skill.reviveinalternativeformwithinsanitychance.extra",
+            "text": "De [#!]Eldritch-host[#] heeft:\n[*][#!]{INHERITEDHEALTH}%[#] geërfde gezondheid. \n[*][#!]{ATTACK}[#] aanval.\n[*][#!]{DEFENSE}[#] verdediging.\n[*]Speciale vaardigheid: [#!]Eldritch-verderf[#].\n[*]De volgende speciale vaardigheid:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "De constructiekern van dit personage is een [#!]volgelingkern[#].\n\nDe [#!]volgelingkern[#] wordt geactiveerd als de [#!]speciale vaardigheid[#] van dit personage wordt gebruikt:\n\n[*] Met een volledig opgeladen [#!]volgelingkern[#], wordt een [#!]killerbotvolgeling aangeroepen. Deze erft [#!]{FAMILIARHEALTHPERCENT}%[#] HP en [#!]{FAMILIARATTACK}%[#] aanvalskracht van de spreukspreker voor alle bondgenoten.\n[*] De HP en aanvalskracht die van de spreukspreker worden geërfd, worden opgeschaald op basis van de hoeveelheid lading in de kern. De lading wordt volledig gebruikt wanneer de kern wordt geactiveerd.\n[*] Voordat de killerbotvolgeling een doel raakt, vernietigt hij alle [#!]volgelingen[#] van het doelwit en beschadigt hij [#!]megavolgelingen[#].\n[*]De volgeling herstelt aan het eind van iedere beurt {FAMILIARHEAL}% gezondheid voor zijn eigenaar.[*] [#!]Verwelken:[#] iedere treffer van een killerbotvolgeling levert het doelwit [#!]{ATTACKMODIFIER}[#] aanvalskracht op."
+          }
+        ]
+      },
+      "ChineseSimplified": {
+        "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "被击败后，该角色有几率以[#!]上古邪神宿主[#]的姿态重生。该角色每有[#!]{INSANITYPERSTEP}[#]点[#!]狂乱[#]值，几率便会提升[#!]{CHANCEINCREASEPERSTEP}%[#]，最多可提升至[#!]{MAXCHANCEINCREASE}%[#]。\n\n若因自身[#!]狂乱[#]效果而被自己击败，重生几率始终为[#!]{CHANCEONSELFCAUSEDDEATH}%[#]。"
+          },
+          {
+            "key": "passive_skill.reviveinalternativeformwithinsanitychance.extra",
+            "text": "[#!]上古邪神宿主[#]拥有：\n[*][#!]{INHERITEDHEALTH}%[#]继承生命值。\n[*][#!]{ATTACK}[#]攻击力。\n[*][#!]{DEFENSE}[#]防御力。\n[*]以下特殊技能：\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "此角色的机械核心为[#!]小兵核心[#]。\n\n每当此角色施放[#!]特殊技能[#]时，都会启动[#!]小兵核心[#]：\n\n[*]若[#!]小兵核心[#]已完全充满，为所有盟友召唤一个[#!]杀戮机器人小兵[#]，小兵继承施法者的[#!]{FAMILIARHEALTHPERCENT}%[#]生命值和[#!]{FAMILIARATTACK}%[#]攻击力。\n[*]核心的充能越高，继承的生命值和攻击力越多。核心启动时会耗尽所有充能。\n[*]杀戮机器人小兵在攻击目标前，会摧毁目标的所有[#!]小兵[#]，并对[#!]超级小兵[#]造成伤害。\n[*]每回合结束时，小兵为其所有者恢复{FAMILIARHEAL}%的生命值。\n[*][#!]衰退：[#]杀戮机器人小兵每次命中，会给予目标[#!]{ATTACKMODIFIER}[#]攻击力。"
+          }
+        ]
       }
     }
   },
-  "languageOverridesConfigId": 1744595863
+  "languageOverridesConfigId": 2572042288
 }

@@ -17379,6 +17379,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.mystery2",
         "dollarValue": 2,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -17392,6 +17393,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.mystery2_bonus",
         "dollarValue": 8,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -17405,6 +17407,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.mystery3",
         "dollarValue": 3,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -17418,6 +17421,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.mystery3_bonus",
         "dollarValue": 20,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -59665,5 +59669,5 @@
       }
     ]
   },
-  "productsConfigId": 2386390930
+  "productsConfigId": 2545700981
 }
