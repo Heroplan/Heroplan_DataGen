@@ -44834,5 +44834,107 @@ window.allHeroesExtra = [
             "tile_enhancement_purple_on_special_titan_hunter_parent"
         ],
         "family": "titan_hunter"
+    },
+    {
+        "name": "Tokage Daigo",
+        "fancy name": "Cold Blooded Ronin",
+        "element": "Purple",
+        "rarity": 4,
+        "class": "Ranger",
+        "speed": "charge_ninja",
+        "Release date": "2026-03-10",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Snipers",
+            "Chain & Random Attackers",
+            "DoT Attackers",
+            "Bypassers"
+        ],
+        "heroId": "ronin_tokage_daigo",
+        "baseAttack": 420,
+        "baseDefense": 374,
+        "baseHealth": 609,
+        "specialId": "lethal_strikes",
+        "passiveSkills": [
+            "dishonorable_death",
+            "prevent_boosted_health"
+        ],
+        "family": "ronin"
+    },
+    {
+        "name": "Mikanagi Miran",
+        "fancy name": "Demon Ronin",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "charge_ninja",
+        "Release date": "2026-03-10",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Snipers",
+            "Chain & Random Attackers",
+            "Dispellers",
+            "Debuffers (DEF)"
+        ],
+        "heroId": "ronin_mikanagi_miran",
+        "baseAttack": 656,
+        "baseDefense": 640,
+        "baseHealth": 1115,
+        "specialId": "iaijutsu_slashes",
+        "passiveSkills": [
+            "dishonorable_death",
+            "prevent_boosted_health"
+        ],
+        "family": "ronin"
+    },
+    {
+        "name": "Yamada Jingasa",
+        "fancy name": "Karate Champion",
+        "element": "Red",
+        "rarity": 3,
+        "class": "Monk",
+        "speed": "charge_ninja",
+        "Release date": "2026-03-10",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Snipers",
+            "Chain & Random Attackers",
+            "Debuffers (ATK)"
+        ],
+        "heroId": "ronin_yamada_jingasa",
+        "baseAttack": 330,
+        "baseDefense": 310,
+        "baseHealth": 520,
+        "specialId": "flying_front_kick",
+        "passiveSkills": [
+            "dishonorable_death",
+            "prevent_boosted_health"
+        ],
+        "family": "ronin"
+    },
+    {
+        "name": "Asakura Masao",
+        "fancy name": "Enraged Ronin",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "charge_ninja",
+        "Release date": "2026-03-10",
+        "AetherPower": "Damage Reduction",
+        "skill_types": [
+            "Snipers",
+            "Chain & Random Attackers",
+            "Ability Scores Modifiers"
+        ],
+        "heroId": "ronin_asakura_masao",
+        "baseAttack": 639,
+        "baseDefense": 659,
+        "baseHealth": 1120,
+        "specialId": "two_sword_technique",
+        "passiveSkills": [
+            "dishonorable_death",
+            "prevent_boosted_health"
+        ],
+        "family": "ronin"
     }
 ];

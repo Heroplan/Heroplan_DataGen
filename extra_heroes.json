@@ -1,53 +1,5 @@
 [
     {
-        "name": "Mikanagi Miran",
-        "fancy_name": "Demon Ronin",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2026-03-10 07:00:00",
-        "star": 5,
-        "family": "ronin",
-        "costume_id": 0,
-        "heroId": "ronin_mikanagi_miran",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Asakura Masao",
-        "fancy_name": "Enraged Ronin",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2026-03-10 07:00:00",
-        "star": 5,
-        "family": "ronin",
-        "costume_id": 0,
-        "heroId": "ronin_asakura_masao",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Tokage Daigo",
-        "fancy_name": "Cold Blooded Ronin",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2026-03-10 07:00:00",
-        "star": 4,
-        "family": "ronin",
-        "costume_id": 0,
-        "heroId": "ronin_tokage_daigo",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Yamada Jingasa",
-        "fancy_name": "Karate Champion",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2026-03-10 07:00:00",
-        "star": 3,
-        "family": "ronin",
-        "costume_id": 0,
-        "heroId": "ronin_yamada_jingasa",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Lianna Stylish",
         "fancy_name": "Stylish Archer",
         "color": "Green",

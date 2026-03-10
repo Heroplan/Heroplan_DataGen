@@ -1048,5 +1048,12 @@
   "Attack Growth 2": "2个目标攻击成长",
   "Summon Seedling Fiend to hit enemies": "召唤幼苗恶魔攻击敌人",
   "Blind to hit enemies": "致盲攻击者",
-  "Power Boost 4": "4个目标技能威力提升"
+  "Power Boost 4": "4个目标技能威力提升",
+  "DoT on hit": "命中时触发持续伤害",
+  "Slime Revive Self": "史莱姆自身复活",
+  "Hit Random 1 / 4 / 10": "随机攻击 1 / 4 / 10 次",
+  "Dispel / Dispel / Safely Dispel 1 buff on hit": "命中时 驱散 / 安全驱散 1个增益",
+  "Defense Stack on hit": "命中时防御叠加",
+  "Hit Random 1 / 2 / 3": "随机攻击 1 / 2 / 3 次",
+  "Growth Self / 3 / All": "成长：自身 / 3个目标 / 全体"
 }
