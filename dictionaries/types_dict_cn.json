@@ -1055,5 +1055,11 @@
   "Dispel / Dispel / Safely Dispel 1 buff on hit": "命中时 驱散 / 安全驱散 1个增益",
   "Defense Stack on hit": "命中时防御叠加",
   "Hit Random 1 / 2 / 3": "随机攻击 1 / 2 / 3 次",
-  "Growth Self / 3 / All": "成长：自身 / 3个目标 / 全体"
+  "Growth Self / 3 / All": "成长：自身 / 3个目标 / 全体",
+  "Stoneskin Self": "自身石化皮肤",
+  "Insanity on dodge": "闪避时施加狂乱",
+  "Buff Stealer 1": "单体增益窃取者",
+  "Sleep 1": "单体睡眠",
+  "Insanity Inflicting Fiend": "施加狂乱的恶魔",
+  "Mana Boost on bypass": "绕过时获得法力提升值"
 }

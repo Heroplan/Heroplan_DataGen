@@ -9283,8 +9283,9 @@ window.allHeroes =
         "skill": "Petrifying Knuckles",
         "types": [
             "Hit 3",
-            "Insanity",
-            "Self Stoneskin"
+            "Insanity 3",
+            "Stoneskin Self",
+            "Insanity Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -9304,7 +9305,7 @@ window.allHeroes =
         "effects": [
             "Deals 400% damage to the target and nearby enemies and inflicts 25 Insanity on them.",
             "The caster activates Stoneskin that drops all damage dealt to the caster to 1 but is removed after 5 hits. This affects can't be dispelled.",
-            "Inflicts 50 Insanity to the caster."
+            "Casting this Special Skill inflicts 40 Insanity to the caster."
         ],
         "passives": [],
         "family": "investigator",
@@ -9778,9 +9779,10 @@ window.allHeroes =
             "Deals 275% damage to 5 random enemies. (This effect targets the same enemy as the first hit if there are no other valid targets.)",
             "All hit targets get 10 Insanity every time they are hit.",
             "All hit targets cannot activate their Talent Skills for 4 turns.",
-            "Inflicts 45 Insanity on the caster."
+            "Casting this Special Skill inflicts 45 Insanity on the caster."
         ],
         "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
             "The Eldritch Host has",
             "* 100% inherited health.",
@@ -11308,19 +11310,18 @@ window.allHeroes =
             "Casts Full Removal on the target. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even effects and stacks that are otherwise undispellable or uncleansable.)",
             "The target shifts into Abyss Ghost form for 5 turns.",
             "While in Abyss Ghost form the target receives 226 damage each turn.",
-            "When the Abyss Ghost form expires:",
-            "* Deals 1200 damage to all allies and inflicts 15 Insanity on them.",
-            "Inflicts 45 Insanity on the caster."
+            "When the Abyss Ghost form expires - Deals 1200 damage to all allies and inflicts 15 Insanity on them.",
+            "Casting this Special Skill inflicts 45 Insanity on the caster."
         ],
         "passives": [
-            "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
+            "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%. If this character defeats themself when activating Insanity, the chance to be reborn is always 100%.",
             "The Eldritch Host has:",
             "* 100% inherited health.",
             "* 1200 attack.",
             "* 1200 defense.",
             "Special Skill: Eldrich Bright.",
-            "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
+            "* Deals 400% damage to the target and inflicts 35 Insanity on them."
         ],
         "family": "institute",
         "costume_id": 0,
@@ -12390,11 +12391,11 @@ window.allHeroes =
         "health": 2134,
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
-            "Reduces the duration for the caster and nearby allies' active status ailments by 2 turns. (The duration reduction affects both cleansable and uncleansable effects. If the duration of any effect is reduced to zero, the effect is considered as having expired naturally.)",
+            "Reduces the duration for the caster and nearby allies' active status ailments by 2 turns. (The duration modification affects both cleansable and uncleansable effects. If the duration of any effect is reduced to zero, the effect is considered as having expired naturally.)",
             "The caster and nearby allies get +40% critical chance for 3 turns."
         ],
         "passives": [
-            "Resist Mana Reduction: This character has an innate resistance against mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -13589,7 +13590,7 @@ window.allHeroes =
         "effects": [
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
             "For the next 4 turns, the caster inflicts 10 Insanity to all enemies each time the caster is hit. The effect is triggered when the enemy deals damage through Special Skills. Tiles and normal attacks are limited to once per turn.",
-            "Inflicts 55 Insanity on the caster."
+            "Casting this Special Skill inflicts 45 Insanity on the caster."
         ],
         "passives": [],
         "family": "cultist",
@@ -19896,11 +19897,11 @@ window.allHeroes =
         "defense": 1246,
         "health": 2360,
         "effects": [
-            "Casts Full Removal on the caster. (Full Removal removes all status effects, stacks and Gowth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleansable. )",
+            "Casts Full Removal on the caster. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleansable. )",
             "The caster shifts into Deranged Dire Ghost form for 5 turns.",
             "While in Deranged Dire Ghost form the caster automatically deal 350% damage and inflict 30 Insanity on a random enemy each turn.",
             "While in Deranged Dire Ghost form the caster and nearby allies can take damage from enemies whose element is stronger against them. (While in Ghost form, Character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.)",
-            "Inflicts 30 Insanity on all allies except the caster."
+            "Casting this Special Skill inflicts 25 Insanity on all allies except the caster."
         ],
         "passives": [],
         "family": "cultist",
@@ -36225,9 +36226,10 @@ window.allHeroes =
             "Each hit from an Aberration Mega Minion gives the target the following status ailment:",
             "* The target receives 489 Toxin damage over 3 turns. Damage is increased against targets with boosted health, Minions or a Mega Minion.  (The Toxin damage is increased by +100% against targets with boosted health. The Toxin damage is increased by +33% per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)",
             "* Inflicts 10 Insanity on the target.",
-            "Inflicts 45 Insanity to the caster."
+            "Casting this Special Skill inflicts 45 Insanity to the caster."
         ],
         "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
             "The Eldritch Host has:",
             "* 100% inherited health.",
@@ -40791,9 +40793,10 @@ window.allHeroes =
             "Boosts health of the caster by 1000. Boosted health can exceed max HP.",
             "Deals 470% damage to all enemies and inflicts 25 Insanity on them.",
             "Store all damage dealt to the caster for 3 turns. When the effect ends, stored damage is dealt to all enemies, up to a maximum of 1500 damage. This effect can't be dispelled.",
-            "Inflicts 45 Insanity to the caster."
+            "Casting this Special Skill inflicts 45 Insanity to the caster."
         ],
         "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
             "The Eldritch Host has:",
             "* 100% inherited health.",
@@ -43814,9 +43817,10 @@ window.allHeroes =
         "skill": "Cut, Cure and Craze",
         "types": [
             "Hit All",
-            "Healer",
-            "Dodge Buff",
-            "Insanity"
+            "Healer All",
+            "Dodge Buff All",
+            "Insanity on dodge",
+            "Insanity Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -43836,9 +43840,9 @@ window.allHeroes =
         "health": 2191,
         "effects": [
             "Deals 440% damage to all enemies.",
-            "Heals all allies for 35% of the damage dealth.",
+            "Heals all allies for 35% of the damage dealt.",
             "All allies get +45% chance to dodge Special Skills for 5 turns. Each dodge inflicts 15 Insanity on the attacker.",
-            "Inflicts 50 Insanity to the caster."
+            "Casting this Special Skill inflicts 50 Insanity to the caster."
         ],
         "passives": [],
         "family": "investigator",
@@ -46409,9 +46413,9 @@ window.allHeroes =
         "skill": "Force of Forest",
         "types": [
             "Hit All",
-            "Summoner",
-            "HOT",
-            "Mana Generation Debuff"
+            "Summoner All",
+            "HoT All",
+            "Mana Generation Debuff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -46433,7 +46437,7 @@ window.allHeroes =
         "defense": 832,
         "health": 1425,
         "effects": [
-            "Deals 160% damage to all enemies.",
+            "Deals 200% damage to all enemies.",
             "Summons a Forest Familiar Minion for all allies with 15% HP and 15% attack inherited from the caster.",
             "All allies regenerate 506 HP over 2 turns.",
             "All enemies get -24% mana generation for 2 turns.",
@@ -48536,9 +48540,10 @@ window.allHeroes =
             "The Moldavite Owl Fiend absorbs healing. It disappears after absorbing a healing equal to 25% of its target's max health.",
             "The Moldavite Owl Fiend infllicts 5 Insanity on the owner on every turn.",
             "At the end of each turn, the Moldavite Owl Fiend dispels one of its target's dispellable buffs.",
-            "Inflicts 40 Insanity on the caster."
+            "Casting this Special Skill inflicts 40 Insanity on the caster."
         ],
         "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
             "The Eldritch Host has:",
             "* 100% inherited health.",
@@ -56792,9 +56797,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Strange Incense",
         "types": [
-            "Heal all",
-            "Buff Stealer",
-            "Sleep"
+            "Heal All",
+            "Buff Stealer 1",
+            "Sleep 1"
         ],
         "skill_types": [
             "Buff Stealers",
@@ -56816,7 +56821,7 @@ window.allHeroes =
         "defense": 984,
         "health": 1788,
         "effects": [
-            "Recover 30% health for all allies.",
+            "Recover 32% health for all allies.",
             "Steals all dispellable buffs from the target and randomly distributes them on allies.",
             "The target falls asleep.",
             "While asleep, the target can't attack or gain mana.",
@@ -57439,7 +57444,7 @@ window.allHeroes =
         "effects": [
             "Deals 410% damage to the target and nearby enemies and inflicts 40 Insanity on them.",
             "All active status ailments are uncleansable for the target and nearby enemies for the remaining turns of the status ailment.",
-            "Inflicts 55 Insanity to the caster."
+            "Casting this Special Skill inflicts 45 Insanity to the caster."
         ],
         "passives": [],
         "family": "cultist",
@@ -62329,8 +62334,8 @@ window.allHeroes =
             "This Special Skill never misses its targets.",
             "The target get -25% defense for 3 turns.",
             "Deals 530% damage to the target.",
-            "If the target is defeated by the attack, then nearby enemies are inficted with 100 Insanity.",
-            "Inflicts 50 Insanity to the caster."
+            "If the target is defeated by the attack, then nearby enemies are inflicted with 100 Insanity.",
+            "Casting this Special Skill inflicts 45 Insanity to the caster."
         ],
         "passives": [
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
@@ -62957,9 +62962,10 @@ window.allHeroes =
             "The target succumbs to Fear for 3 turns. (The target gets -40% defense. Removes all dispellable buffs and Growth effects when a Fear status effect is added. The target cannot gain new buffs or Growth effects for the duration. Target with Fear deals 160% damage to random ally each time any other ally casts their Special Skill. Each character can trigger this effect once per turn.)",
             "Deals 570% damage to the target and inflicts 55 Insanity on them.",
             "If the target is defeated by the attack, then nearby enemies succumb to Fear for 3 turns. (The target gets -40% defense. Removes all dispellable buffs and Growth effects when a Fear status effect is added. The target cannot gain new buffs or Growth effects for the duration. Target with Fear deals 160% damage to random ally each time any other ally casts their Special Skill. Each character can trigger this effect once per turn.)",
-            "Inflicts 40 Insanity to the caster."
+            "Casting this Special Skill inflicts 40 Insanity to the caster."
         ],
         "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 6% per 10 Insanity on this character, up to 60%."
         ],
         "family": "forsaken",
@@ -65146,7 +65152,7 @@ window.allHeroes =
         "defense": 741,
         "health": 1339,
         "effects": [
-            "Deals 350% damage to the target and nearby enemies",
+            "Deals 380% damage to the target and nearby enemies",
             "Randomly casts one of the following alternatives:",
             "Alternative 1:",
             "* The target and nearby enemies get -54% defense for 3 turns",
@@ -65685,7 +65691,7 @@ window.allHeroes =
             "Revives all allies with 70% HP and 50 Insanity.",
             "All allies get +74% defense against Special Skills for 5 turns.",
             "If any ally except the caster is defeated in 5 turns, all enemies receive 400 damage.",
-            "Inflicts 55 Insanity on the caster."
+            "Casting this Special Skill inflicts 50 Insanity on the caster."
         ],
         "passives": [
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
@@ -67584,7 +67590,6 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Insanity 3",
-            "Minion Corruption 3",
             "Defense Debuff 3",
             "Self Insanity"
         ],
@@ -67610,11 +67615,11 @@ window.allHeroes =
         "health": 2243,
         "effects": [
             "Deals 460% damage to the target and nearby enemies and inflicts 50 Insanity on them.",
-            "Inflicts the target and nearby enemies with Minion Corruption for 4 turns, that adds a chance of Minions transforming into Fiends. This effect is uncleansable.",
             "The target and nearby enemies get -44% defense for 4 turns.",
-            "Inflicts 45 Insanity to the caster."
+            "Casting this Special Skill inflicts 45 Insanity on the caster."
         ],
         "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 6% per 10 Insanity on this character, up to 60%."
         ],
         "family": "institute",
@@ -80795,7 +80800,7 @@ window.allHeroes =
         "skill": "Whispers of Xulu",
         "types": [
             "Hit All",
-            "Summoner",
+            "Summoner All",
             "DoT",
             "Insanity"
         ],
@@ -80823,7 +80828,7 @@ window.allHeroes =
             "Each hit from a Xulu Minion gives the target the following status ailments:",
             "* The target receives 340 Bleed damage over 4 turns.",
             "* Inflicts 5 Insanity on the target.",
-            "Inflicts 55 Insanity on the caster."
+            "Casting this Special Skill inflicts 50 Insanity on the caster."
         ],
         "passives": [
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
@@ -85102,7 +85107,6 @@ window.allHeroes =
             "Hit 3",
             "Insanity 3",
             "DoT 3",
-            "Minion Corruption 3",
             "Self Insanity"
         ],
         "skill_types": [
@@ -85128,10 +85132,10 @@ window.allHeroes =
         "effects": [
             "Deals 350% damage to the target and nearby enemies and inflicts 35 Insanity on them.",
             "The target and nearby enemies receive 654 Water damage over 3 turns. All allies absorb 50% of dealt Water damage as boosted health.",
-            "Inflicts the target and nearby enemies with Minion Corruption for 3 turns, that adds a chance of Minions transforming into Fiends. This effect is uncleansable.",
-            "Inflicts 40 Insanity to the caster."
+            "Casting this Special Skill inflicts 40 Insanity to the caster."
         ],
         "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
             "The Eldritch Host has:",
             "* 100% inherited health.",
@@ -86192,7 +86196,7 @@ window.allHeroes =
         "types": [
             "Hit All",
             "DoT All",
-            "Dispeller"
+            "Dispeller All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -86214,7 +86218,7 @@ window.allHeroes =
         "defense": 1097,
         "health": 1769,
         "effects": [
-            "Deals 300% damage to all enemies.",
+            "Deals 330% damage to all enemies.",
             "All enemies receive 640 Burn damage over 4 turns.",
             "Dispel buffs from all enemies.",
             "Elemental Link gives all Fire allies +30% defense against Special Skills for 4 turns. This effect can't be dispelled."
@@ -92821,7 +92825,8 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Replicating Fiend Summoner 1",
-            "Insanity Inflincting Fiend"
+            "Insanity Inflicting Fiend",
+            "Insanity Self"
         ],
         "skill_types": [
             "Snipers",
@@ -92847,7 +92852,7 @@ window.allHeroes =
             "The Ominous Tentacle Fiend absorbs healing and disappears when it has absorbed health equal to 15% of its owner's max health.",
             "The Ominous Tentacle Fiend generates clone of itself to nearby enemies after every turn. (Cloned Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend)",
             "The Ominous Tentacle inflicts 5 Insanity on the owner on every turn.",
-            "Inflits 50 Instanity on the caster."
+            "Casting this Special Skill inflicts 45 Insanity on the caster."
         ],
         "passives": [
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
@@ -93663,7 +93668,7 @@ window.allHeroes =
         "effects": [
             "Deals 330% damage to the enemies on the edges of the enemy formation and inflicts 25 Insanity on them. If only one enemy alive, the damage and Insanity is doubled.",
             "The enemies on the edges of the enemy formation resist healing and receive 250 damage per each resisted healing for 3 turns.",
-            "Inflicts 45 Insanity on the caster."
+            "Casting this Special Skill inflicts 40 Insanity on the caster."
         ],
         "passives": [
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
@@ -94364,7 +94369,8 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Possible Extra Hits",
-            "Insanity"
+            "Insanity on hit",
+            "Insanity Self"
         ],
         "skill_types": [
             "Snipers",
@@ -94385,7 +94391,7 @@ window.allHeroes =
             "Deals 500% damage to the target.",
             "Has a 80% chance for additional hits on random enemies up to 4 times. Additional hits deal minor damage.",
             "All hit targets get 20 Insanity every time they are hit.",
-            "Inflicts 50 Insanity to the caster."
+            "Casting this Special Skill inflicts 40 Insanity to the caster."
         ],
         "passives": [],
         "family": "investigator",
@@ -97220,9 +97226,10 @@ window.allHeroes =
             "The attack chains through all the enemies who are adjacent to any hit enemy and bypasses defensive buffs.",
             "All hit targets 20 Insanity every time they are hit.",
             "After 1 turn the target gets Paralyzed for4 turns. (Paralyzed enemies can't attack or gain mana and receive +50% increased damage. Once Paralyzed, the effect can't be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)",
-            "Inflicts 40 Insanity on the caster."
+            "Casting this Special Skill inflicts 40 Insanity on the caster."
         ],
         "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
             "The Eldritch Host has:",
             "* 100% inherited health.",
@@ -97777,7 +97784,8 @@ window.allHeroes =
         "skill": "Indifferent Blade",
         "types": [
             "Hit 3",
-            "Bypass"
+            "Bypass",
+            "Mana Boost on bypass"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -97799,7 +97807,7 @@ window.allHeroes =
         "defense": 756,
         "health": 1406,
         "effects": [
-            "Deals 490% damage to the target and minor damage to nearby enemies.",
+            "Deals 520% damage to the target and minor damage to nearby enemies.",
             "The attack bypasses defensive buffs. This includes counterattacks.",
             "The caster gains 25% mana if any defensive buffs were bypassed.",
             "Element Link gives all Fire allies +10% defense for 4 turns. This effect can't be dispelled."
@@ -107645,9 +107653,9 @@ window.allHeroes =
         "defense": 704,
         "health": 1345,
         "effects": [
-            "Recovers 40% health for all allies",
+            "Recovers 42% health for all allies",
             "Summons a Guardian Minion for each ally with 20% HP and 20% attack inherited from the caster",
-            "Elemental Link gives +10% mana generation for all Holy allies for 4 turns. This effect can't be displelled."
+            "Elemental Link gives +10% mana generation for all Holy allies for 4 turns. This effect can't be dispelled."
         ],
         "passives": [],
         "family": "hotm2018",
@@ -107711,7 +107719,7 @@ window.allHeroes =
         "defense": 905,
         "health": 1974,
         "effects": [
-            "Recovers 37% health for all allies.",
+            "Recovers 40% health for all allies.",
             "Summons a Guardian Minion for each ally with 25% HP and 30% attack inherited from the caster.",
             "Elemental Link gives +10% mana generation for all Holy allies for 4 turns. This effect can't be displelled."
         ],
@@ -109561,7 +109569,8 @@ window.allHeroes =
         "skill": "Reckless Charge",
         "types": [
             "Hit 3",
-            "Defense Buff"
+            "Bypass Chance",
+            "Defense Buff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -109582,7 +109591,7 @@ window.allHeroes =
         "defense": 770,
         "health": 1555,
         "effects": [
-            "Deals 380% damage to the target and nearby enemies.",
+            "Deals 410% damage to the target and nearby enemies.",
             "The attack has a 80% chance to bypass defensive buffs. This includes counterattacks.",
             "All allies get +45% defense for 4 turns.",
             "Element Link gives all Holy allies a +5% chance to dodge status ailments for 4 turns. This effect cannot be dispelled."
@@ -110472,7 +110481,7 @@ window.allHeroes =
             "Cleanses status ailments from the caster and nearby allies.",
             "Recovers 70% health for the caster and nearby allies.",
             "The caster and nearby allies receive a moderate amount of mana over 6 turns.",
-            "Inflicts 40 Insanity to nearby allies.",
+            "Casting this Special Skill inflicts 35 Insanity to nearby allies.",
             "The caster turns into Yag-Mago for 6 turns. This effect can't be dispelled. The Yag-Mago has 200% attack, 150% defense and the following Special Skill:",
             "- Ethernal Bond (Very Fast)",
             "* Deals 300% damage to all enemies and inflicts 20 Insanity on them.",
@@ -111286,9 +111295,10 @@ window.allHeroes =
             "Deals additional 330% damage to 2 random enemies.",
             "All hit targets get 15 Insanity every time they are hit.",
             "Stack (Max: 10): All damage the hit enemy receives is increased by 4%.",
-            "Inflicts 35 Insanity on the caster."
+            "Casting this Special Skill inflicts 35 Insanity on the caster."
         ],
         "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 6% per 10 Insanity on this character, up to 60%."
         ],
         "family": "forsaken",
@@ -120402,7 +120412,7 @@ window.allHeroes =
         "effects": [
             "Steals all dispellable buff from all enemies to the caster.",
             "Deals 350% damage to all and inflicts 10 Insanity on them.",
-            "Inflicts 55 Insanity on the caster."
+            "Casting this Special Skill inflicts 45 Insanity on the caster."
         ],
         "passives": [],
         "family": "cultist",

@@ -1028,6 +1028,7 @@ const allTranslations =
         "originalIndex": 144,
         "name": "Cassilda",
         "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
             "The Eldritch Host has",
             "* 100% inherited health.",
@@ -1194,14 +1195,14 @@ const allTranslations =
         "originalIndex": 164,
         "name": "Emilie",
         "passives": [
-            "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
+            "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%. If this character defeats themself when activating Insanity, the chance to be reborn is always 100%.",
             "The Eldritch Host has:",
             "* 100% inherited health.",
             "* 1200 attack.",
             "* 1200 defense.",
             "Special Skill: Eldrich Bright.",
-            "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
+            "* Deals 400% damage to the target and inflicts 35 Insanity on them."
         ]
     },
     {
@@ -1311,7 +1312,7 @@ const allTranslations =
         "originalIndex": 179,
         "name": "Frostsnout",
         "passives": [
-            "Resist Mana Reduction: This character has an innate resistance against mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -3780,6 +3781,7 @@ const allTranslations =
         "originalIndex": 517,
         "name": "Ellery",
         "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
             "The Eldritch Host has:",
             "* 100% inherited health.",
@@ -4246,6 +4248,7 @@ const allTranslations =
         "originalIndex": 579,
         "name": "Khatrox",
         "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
             "The Eldritch Host has:",
             "* 100% inherited health.",
@@ -5076,6 +5079,7 @@ const allTranslations =
         "originalIndex": 686,
         "name": "Zenas",
         "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
             "The Eldritch Host has:",
             "* 100% inherited health.",
@@ -6589,6 +6593,7 @@ const allTranslations =
         "originalIndex": 893,
         "name": "Kadath",
         "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 6% per 10 Insanity on this character, up to 60%."
         ]
     },
@@ -7066,6 +7071,7 @@ const allTranslations =
         "originalIndex": 957,
         "name": "Prof. Morryster",
         "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 6% per 10 Insanity on this character, up to 60%."
         ]
     },
@@ -8884,6 +8890,7 @@ const allTranslations =
         "originalIndex": 1209,
         "name": "Demhalar",
         "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
             "The Eldritch Host has:",
             "* 100% inherited health.",
@@ -10151,6 +10158,7 @@ const allTranslations =
         "originalIndex": 1371,
         "name": "Wilcox",
         "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
             "The Eldritch Host has:",
             "* 100% inherited health.",
@@ -11654,6 +11662,7 @@ const allTranslations =
         "originalIndex": 1573,
         "name": "Inanis",
         "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 6% per 10 Insanity on this character, up to 60%."
         ]
     },
