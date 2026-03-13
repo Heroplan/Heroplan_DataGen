@@ -44936,5 +44936,182 @@ window.allHeroesExtra = [
             "prevent_boosted_health"
         ],
         "family": "ronin"
+    },
+    {
+        "name": "Kiril stylish",
+        "fancy name": "Stylish Taster",
+        "element": "Blue",
+        "rarity": 4,
+        "class": "Wizard",
+        "speed": "average",
+        "Release date": "2026-03-12",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "Healers",
+            "Buffers (ATK)",
+            "Buffers (DEF)"
+        ],
+        "heroId": "dwarwen_brewmaster_costume_stylish",
+        "baseAttack": 298,
+        "baseDefense": 326,
+        "baseHealth": 503,
+        "specialId": "blessed_brew",
+        "specialId_costume": "stylish_appetizer",
+        "passiveSkills": [
+            "stylish_epic"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "30%",
+        "defenseBonus": "30%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Magni stylish",
+        "fancy name": "Stylish Ancient of Ice",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
+        "Release date": "2026-03-12",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Snipers",
+            "Extra Damage Dealers",
+            "Buffers (DEF)"
+        ],
+        "heroId": "exalted_warrior_costume_stylish",
+        "baseAttack": 378,
+        "baseDefense": 299,
+        "baseHealth": 653,
+        "specialId": "strike_of_the_ancients",
+        "specialId_costume": "stylish_strike_magni",
+        "passiveSkills": [
+            "stylish_legendary"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "85%",
+        "defenseBonus": "85%",
+        "healthBonus": "85%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Melendor stylish",
+        "fancy name": "Stylish Wizard",
+        "element": "Green",
+        "rarity": 4,
+        "class": "Druid",
+        "speed": "average",
+        "Release date": "2026-03-12",
+        "AetherPower": "Special Armor",
+        "skill_types": [
+            "Healers",
+            "Dispellers"
+        ],
+        "heroId": "forest_mage_costume_stylish",
+        "baseAttack": 320,
+        "baseDefense": 297,
+        "baseHealth": 479,
+        "specialId": "fog_of_the_fallen",
+        "specialId_costume": "fog_of_the_stylish",
+        "passiveSkills": [
+            "stylish_epic"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "30%",
+        "defenseBonus": "30%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Lianna stylish",
+        "fancy name": "Stylish Archer",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
+        "Release date": "2026-03-12",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Snipers",
+            "Extra Damage Dealers"
+        ],
+        "heroId": "elven_archer_costume_stylish",
+        "baseAttack": 370,
+        "baseDefense": 338,
+        "baseHealth": 596,
+        "specialId": "perfect_shot",
+        "specialId_costume": "stylish_arrow",
+        "passiveSkills": [
+            "stylish_legendary"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "85%",
+        "defenseBonus": "85%",
+        "healthBonus": "85%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Balthazar stylish",
+        "fancy name": "Stylish Magician",
+        "element": "Purple",
+        "rarity": 3,
+        "class": "Wizard",
+        "speed": "fast",
+        "Release date": "2026-03-12",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "Snipers",
+            "Extra Damage Dealers"
+        ],
+        "heroId": "cultist_mage_costume_stylish",
+        "baseAttack": 292,
+        "baseDefense": 232,
+        "baseHealth": 372,
+        "specialId": "electric_jolt",
+        "specialId_costume": "stylish_jolt",
+        "passiveSkills": [
+            "stylish_rare"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "25%",
+        "defenseBonus": "25%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Kailani stylish",
+        "fancy name": "Stylish Healer",
+        "element": "Yellow",
+        "rarity": 3,
+        "class": "Cleric",
+        "speed": "slow",
+        "Release date": "2026-03-12",
+        "AetherPower": "Special Armor",
+        "skill_types": [
+            "Damage Sharers",
+            "Buffers (DEF)",
+            "Heal over Time (HoT)"
+        ],
+        "heroId": "oriental_female_mage_costume_stylish",
+        "baseAttack": 237,
+        "baseDefense": 274,
+        "baseHealth": 427,
+        "specialId": "stone_skin",
+        "specialId_costume": "style_link",
+        "passiveSkills": [
+            "stylish_rare"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "25%",
+        "defenseBonus": "25%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "classic"
     }
 ];
