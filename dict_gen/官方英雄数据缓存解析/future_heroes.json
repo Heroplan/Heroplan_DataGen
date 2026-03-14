@@ -288,18 +288,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Xavier",
-        "fancy_name": "Dual Blade Arthropod",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "super_elemental",
-        "costume_id": 1,
-        "heroId": "elemental_xavier_costume_arthropod",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Zuni",
         "fancy_name": "Hoverboard Mage",
         "color": "Green",
@@ -612,18 +600,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Berit",
-        "fancy_name": "Berylline Bruiser",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "plains_hunter",
-        "costume_id": 0,
-        "heroId": "monster_hunter_berit",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Beatrice",
         "fancy_name": "Quartermaster Sergeant",
         "color": "Purple",
@@ -717,18 +693,6 @@
         "family": "slime",
         "costume_id": 0,
         "heroId": "slime_achillea",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Justico",
-        "fancy_name": "Protector Slime",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "slime",
-        "costume_id": 0,
-        "heroId": "slime_justico",
         "Lottery_Only": 1
     },
     {
@@ -1197,18 +1161,6 @@
         "family": "titan_hunter",
         "costume_id": 0,
         "heroId": "titan_hunter_veldt",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Prof. Ambrose",
-        "fancy_name": "Director of the Institute",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "institute",
-        "costume_id": 0,
-        "heroId": "institute_professor_ambrose",
         "Lottery_Only": 1
     },
     {

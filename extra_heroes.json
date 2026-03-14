@@ -36,6 +36,30 @@
         "Lottery_Only": 1
     },
     {
+        "name": "Xavier C1",
+        "fancy_name": "Dual Blade Arthropod",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2026-03-17 07:00:00",
+        "star": 5,
+        "family": "super_elemental",
+        "costume_id": 1,
+        "heroId": "elemental_xavier_costume_arthropod",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Justico",
+        "fancy_name": "Protector Slime",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2026-03-17 07:00:00",
+        "star": 5,
+        "family": "slime",
+        "costume_id": 0,
+        "heroId": "slime_justico",
+        "Lottery_Only": 1
+    },
+    {
         "name": "Embertail",
         "fancy_name": "The Pyromouse",
         "color": "Red",
@@ -60,7 +84,31 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Sir Roostley C1",
+        "name": "Berit",
+        "fancy_name": "Berylline Bruiser",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2026-03-20 07:00:00",
+        "star": 5,
+        "family": "plains_hunter",
+        "costume_id": 0,
+        "heroId": "monster_hunter_berit",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Prof. Ambrose",
+        "fancy_name": "Director of the Institute",
+        "color": "Yellow",
+        "Release date": "",
+        "canBeReceivedDate": "2026-03-22 07:00:00",
+        "star": 5,
+        "family": "institute",
+        "costume_id": 0,
+        "heroId": "institute_professor_ambrose",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Sir Roostley",
         "fancy_name": "Mighty Alchemist of Springvale",
         "color": "Yellow",
         "Release date": "",

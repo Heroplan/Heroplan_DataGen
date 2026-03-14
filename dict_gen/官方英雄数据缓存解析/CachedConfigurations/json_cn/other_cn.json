@@ -1,6 +1,5 @@
 {
   "otherConfig": {
-    "abCode": "direct_checkout_rollout_phase3",
     "logic": {
       "dragonAscension": {
         "characterRecipes": [
@@ -3627,6 +3626,13 @@
             "rareMonsterStateConfigId": "alliance_quest2",
             "startTime": "2026-06-03 07:00:00",
             "endTime": "2026-06-08 07:00:00"
+          },
+          {
+            "id": "AncientDragon",
+            "targetEvent": "AncientDragon",
+            "rareMonsterStateConfigId": "ancient_dragon",
+            "startTime": "2026-06-09 07:00:00",
+            "endTime": "2026-06-13 07:00:00"
           }
         ],
         "challengeEventsConfig": {
@@ -51542,7 +51548,7 @@
         },
         "freeChestLootId": "challengeseason_freechest_path_of_dragons",
         "premiumChestLootId": "challengeseason_premiumchest_path_of_dragons",
-        "elitePassActivationTime": 6311458800,
+        "elitePassActivationTime": 827564400,
         "upgradeToElitePassActivationTime": "2200-01-01 07:00:00",
         "challengeSeasonChestEnabled": true,
         "previousSeasonRewardingEnabled": true
@@ -67347,7 +67353,7 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2026-03-17 07:00:00",
             "costumeId": "泽维尔-双刃节肢怪",
             "parentHeroId": "泽维尔"
           },
@@ -84696,6 +84702,51 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "elemental_mar_2026",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 270,
+                    "defenseBonusPerMil": 270,
+                    "healthBonusPerMil": 290,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 320,
+                    "defenseBonusPerMil": 320,
+                    "healthBonusPerMil": 340,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 370,
+                    "defenseBonusPerMil": 370,
+                    "healthBonusPerMil": 390,
+                    "manaBonusPerMil": 40
+                  },
+                  {
+                    "attackBonusPerMil": 420,
+                    "defenseBonusPerMil": 420,
+                    "healthBonusPerMil": 440,
+                    "manaBonusPerMil": 50
+                  }
+                ]
+              }
+            ]
           }
         ],
         "enabled": true
@@ -85891,7 +85942,7 @@
         ]
       },
       "directCheckoutConfiguration": {
-        "enabled": false,
+        "enabled": true,
         "minimizedView": false,
         "autoRedirectView": true,
         "stickyBuyButton": false,
@@ -86600,7 +86651,7 @@
           }
         ]
       },
-      "d2CMaxVersionEnabled": "84.0.0",
+      "d2CMaxVersionEnabled": "84.0.1",
       "schedulesGlobalConfig": {
         "generatedScheduleTimeSpanSeconds": 12096000,
         "editorWarningThresholdSeconds": 3456000,
@@ -86689,9 +86740,9 @@
     "minSecondsBetweenRecentActivityRequests": 30,
     "colorBlindModeEnabled": true,
     "languageSelectionEnabled": true,
-    "maxVersionToShowUpdateOutReminderAndroid": "84.0.0.2970",
-    "maxVersionToShowUpdateOutReminderIos": "83.0.1",
-    "maxVersionToShowUpdateOutReminderAndroidStandalone": "84.0.0.405",
+    "maxVersionToShowUpdateOutReminderAndroid": "84.0.0",
+    "maxVersionToShowUpdateOutReminderIos": "84.0.0",
+    "maxVersionToShowUpdateOutReminderAndroidStandalone": "84.0.0",
     "standaloneNewVersionRolloutPercentage": 100,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
@@ -86784,5 +86835,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 629349326
+  "otherConfigId": 652961672
 }

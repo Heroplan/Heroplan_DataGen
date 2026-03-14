@@ -51639,7 +51639,7 @@
             "id": "revive_slime",
             "sideAffected": "Allies",
             "statusTargetType": "Single",
-            "turns": 3
+            "turns": 4
           }
         ]
       },
@@ -69075,5 +69075,5 @@
       }
     ]
   },
-  "specialsConfigId": 4056209623
+  "specialsConfigId": 2233178082
 }

@@ -43935,14 +43935,14 @@
             "rarity": 1,
             "element": "All",
             "amount": 1,
-            "weight": 110
+            "weight": 200
           },
           {
             "type": "TrainerHero",
             "rarity": 2,
             "element": "All",
             "amount": 1,
-            "weight": 74
+            "weight": 134
           },
           {
             "type": "TrainerHero",
@@ -43986,13 +43986,13 @@
             "type": "AscensionItem",
             "rarity": 1,
             "amount": 5,
-            "weight": 110
+            "weight": 20
           },
           {
             "type": "AscensionItem",
             "rarity": 2,
             "amount": 5,
-            "weight": 74
+            "weight": 14
           },
           {
             "type": "AscensionItem",
@@ -47502,5 +47502,5 @@
       }
     ]
   },
-  "lootsConfigId": 2146364252
+  "lootsConfigId": 3974885180
 }

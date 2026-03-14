@@ -1465,7 +1465,7 @@
         "id": "lottery_super_elemental_yellow",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 148,
+        "uiPriority": 176,
         "associatedEvent": "SuperElemental",
         "bonusChest": "super_elemental_chest_yellow",
         "bonusChestRequirement": 10,
@@ -2167,7 +2167,7 @@
         "id": "lottery_black_7th_birthday",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 120,
+        "uiPriority": 177,
         "associatedEvent": "7thBirthday",
         "bonusChest": "7th_birthday_chest",
         "bonusChestRequirement": 10,
@@ -2587,7 +2587,7 @@
         "id": "lottery_ascension_default",
         "gemPrice": 270,
         "amount": 1,
-        "uiPriority": 90,
+        "uiPriority": 167,
         "bucketWeights": [
           710,
           265,
@@ -2673,7 +2673,7 @@
         "id": "lottery_shadow_default",
         "gemPrice": 450,
         "amount": 1,
-        "uiPriority": 169,
+        "uiPriority": 177,
         "associatedEvent": "ShadowQuest",
         "bonusChest": "shadow_summon_chest",
         "bonusChestRequirement": 10,
@@ -4165,7 +4165,7 @@
         "id": "lottery_monster_island_default",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 151,
+        "uiPriority": 176,
         "associatedEvent": "MonsterIsland1",
         "bonusChest": "monster_island_chest",
         "bonusChestRequirement": 10,
@@ -21878,6 +21878,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -23236,7 +23237,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentines2022_day2",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23262,7 +23262,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentines2022_day3",
         "dollarValue": 20,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23300,7 +23299,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentines2022_day4",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24497,7 +24495,7 @@
           },
           {
             "type": "Item",
-            "id": "lottery_wilderness_coin",
+            "id": "lottery_ascension_coin",
             "amount": 100,
             "zyngaStoreExtraAmount": 50
           }
@@ -37208,7 +37206,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic3_alliancegift",
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -37236,7 +37234,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -37246,7 +37243,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -39171,12 +39167,12 @@
           {
             "type": "Item",
             "id": "relic_harvester_food",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
             "id": "relic_harvester_iron",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
@@ -39206,7 +39202,7 @@
           {
             "type": "Item",
             "id": "relic_harvester_recruits",
-            "amount": 1
+            "amount": 2
           }
         ]
       },
@@ -56879,6 +56875,27 @@
         ]
       },
       {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.mds_9y_creator_comm",
+        "zyngaStoreProduct": true,
+        "contents": [
+          {
+            "type": "Gem",
+            "amount": 999
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_rainbow_rare",
+            "amount": 3
+          },
+          {
+            "type": "Item",
+            "id": "collection_free_talent_points_epic",
+            "amount": 1
+          }
+        ]
+      },
+      {
         "productType": "AllianceEventSummon",
         "id": "lottery_featured_alliance_quest_castle_ad",
         "sourceProductId": "lottery_featured_alliance_quest_castle",
@@ -59669,5 +59686,5 @@
       }
     ]
   },
-  "productsConfigId": 2545700981
+  "productsConfigId": 2217627662
 }

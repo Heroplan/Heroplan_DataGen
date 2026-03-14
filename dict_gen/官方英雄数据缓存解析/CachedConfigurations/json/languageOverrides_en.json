@@ -14,6 +14,26 @@
           {
             "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
             "text": "Il Nucleo costrutto di questo personaggio è un [#!]Nucleo servitore[#].\n\nIl [#!]Nucleo servitore[#] si attiva ogni volta che viene utilizzata l'[#!]Abilità speciale[#] di questo personaggio:\n\n[*] Con un [#!]Nucleo servitore[#] completamente carico, chiama un [#!]servitore Killer Bot[#] con il [#!]{FAMILIARHEALTHPERCENT}%[#!] di HP e il [#!]{FAMILIARATTACK}%[#] di Attacco ereditati dall'evocatore su tutti gli alleati.\n[*] Gli HP e l'Attacco ereditati dall'evocatore vengono scalati in base alla carica del Nucleo. Tutta la carica viene consumata quando il Nucleo si attiva.\n[*] Prima che il servitore Killer Bot colpisca un bersaglio, distrugge tutti i [#!]servitori[#] del bersaglio e danneggia i [#!]servitori Mega[#].\n[*] Il servitore recupera il {FAMILIARHEAL}% di Salute per il suo proprietario alla fine di ogni turno.\n[*] [#!]Avvizzimento[#]: ogni colpo di un servitore Killer Bot conferisce al bersaglio [#!]{ATTACKMODIFIER}[#] Attacco."
+          },
+          {
+            "key": "roster_cleanup.dialog.info.selection.description",
+            "text": "Gli Eroi vengono selezionati per il riciclo secondo i seguenti criteri:\n\n[#!]INCLUSI[#]:\n{0}\n\n[#!]ESCLUSI[#]:\n[*] In una squadra\n[*] Nei preferiti\n[*] Bloccati nella rosa Eroi\n[*] Talenti sbloccati\n[*] Se non viene soddisfatto alcun criterio di esclusione, viene esclusa la copia più potente di ogni Eroe."
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.chain_strike",
+            "text": "Annulla {REMOVALCOUNT} magia benefica da ogni nemico colpito."
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.safe.chain_strike",
+            "text": "Annulla in sicurezza {REMOVALCOUNT} magia benefica da ogni nemico colpito."
+          },
+          {
+            "key": "familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "[#!]{1MEMBERCHANCE}[#]/[#!]{2MEMBERSCHANCE}[#]% di probabilità di rimuovere 1 disturbo da tutti gli alleati quando subiscono danni da Abilità speciali."
+          },
+          {
+            "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "[#!]{CHANCE}[#]% di probabilità di rimuovere 1 disturbo da tutti gli alleati quando subiscono danni da Abilità speciali."
           }
         ]
       },
@@ -30,6 +50,26 @@
           {
             "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
             "text": "Структурное ядро этого героя — [#!]ядро прислужников[#].\n\n[#!]Ядро прислужников[#] активируется каждый раз при использовании особого навыка героя:\n\n[*] Полностью заряженное [#!]ядро прислужников[#] призывает [#!]бота-убийцу[#] с [#!]{FAMILIARHEALTHPERCENT} %[#] ОЗ и [#!]{FAMILIARATTACK} %[#] атаки героя для всех союзников.\n[*] ОЗ и атака, получаемые от героя, зависят от заряда ядра. Весь заряд расходуется при активации ядра.\n[*] До того, как бот-убийца атакует цель, он уничтожает всех [#!]прислужников[#] цели и наносит урон [#!]мегаприслужникам[#].\n[*]Прислужник восстанавливает {FAMILIARHEAL} % здоровья своему владельцу в конце каждого хода.\n[*] [#!]Увядание:[#] Каждый удар бота-убийцы меняет атаку цели на [#!]{ATTACKMODIFIER}[#]."
+          },
+          {
+            "key": "roster_cleanup.dialog.info.selection.description",
+            "text": "Герои для переработки выбираются по следующим критериям:\n\n[#!]ВКЛЮЧАЮТСЯ[#]:\n{0}\n\n[#!]ИСКЛЮЧАЮТСЯ[#]:\n[*] В команде\n[*] В избранном\n[*] Закреплены в реестре героев\n[*] Разблокированы таланты\n[*] Если герой не соответствует критериям исключения, исключается самая сильная копия каждого героя"
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.chain_strike",
+            "text": "Снимает эффект «{REMOVALCOUNT}» с каждого задетого врага."
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.safe.chain_strike",
+            "text": "Безопасно снимает эффект «{REMOVALCOUNT}» с каждого задетого врага."
+          },
+          {
+            "key": "familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "Шанс [#!]{1MEMBERCHANCE}[#]/[#!]{2MEMBERSCHANCE}[#] % снять 1 недуг со всех союзников при получении урона от особых навыков."
+          },
+          {
+            "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "Шанс [#!]{CHANCE}[#] % снять 1 недуг со всех союзников при получении урона от особых навыков"
           }
         ]
       },
@@ -46,6 +86,26 @@
           {
             "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
             "text": "Rdzeń konstruktu tej postaci to [#!]rdzeń pomocnika[#].\n\n[#!]Rdzeń pomocnika[#] aktywuje się za każdym razem, gdy rzucona zostanie [#!]umiejętność specjalna[#] tej postaci:\n\n[*] Przy pełnym naładowaniu [#!]rdzenia pomocnika[#], wzywa dla wszystkich sojuszników [#!]zabójczego bota[#] z [#!]{FAMILIARHEALTHPERCENT}%[#] PŻ i [#!]{FAMILIARATTACK}%[#] ataku przejętymi od bohatera.\n[*]PŻ i atak przejęte od rzucającego skalują się z poziomem naładowania rdzenia. Po aktywacji rdzenia zużyty zostaje cały ładunek.\n[*] Zanim zabójczy bot trafi cel, niszczy wszystkich [#!]pomocników[#] celu i zadaje obrażenia [#!]mega pomocnikom[#].\n[*]Pomocnik przywraca {FAMILIARHEAL}% zdrowia jego właścicielowi na końcu każdej tury.\n[*] [#!]Susza:[#] Zabójczy bot każdym trafieniem zapewnia celowi [#!]{ATTACKMODIFIER}[#] ataku."
+          },
+          {
+            "key": "roster_cleanup.dialog.info.selection.description",
+            "text": "Bohaterowie są wybierani do zamiany wedle następujących kryteriów:\n\n[#!]WŁĄCZONY[#]:\n{0}\n\n[#!]WYŁĄCZONY[#]:\n[*] W drużynie\n[*] W ulubionych\n[*] Przypięty w liście bohaterów\n[*] Odblokowane talenty\n[*] Jeśli żadne z kryteriów wykluczenia nie są spełnione, wyklucza się najsilniejszą kopię każdego bohatera."
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.chain_strike",
+            "text": "Usuwa wzmocnienia ({REMOVALCOUNT}) z każdego trafionego wroga."
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.safe.chain_strike",
+            "text": "Bezpiecznie usuwa wzmocnienia ({REMOVALCOUNT}) z każdego trafionego wroga."
+          },
+          {
+            "key": "familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "[#!]{1MEMBERCHANCE}[#]/[#!]{2MEMBERSCHANCE}[#]% szansy na oczyszczenie wszystkich sojuszników z 1 dolegliwości ze statusu po otrzymaniu obrażeń od umiejętności specjalnej."
+          },
+          {
+            "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "[#!]{CHANCE}[#]% szansy na oczyszczenie wszystkich sojuszników z 1 dolegliwości ze statrusu po otrzymaniu obrażeń od umiejętności specjalnej"
           }
         ]
       },
@@ -62,6 +122,26 @@
           {
             "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
             "text": "此角色的構造體核心是[#!]小兵核心[#]。\n\n每次施放此角色的[#!]特殊技能[#]時，就會啟動[#!]小兵核心[#]：\n\n[*]完全充能的[#!]小兵核心[#]會為所有盟友召喚一個[#!]殺手機器人小兵[#]，擁有繼承自施法者的[#!]{FAMILIARHEALTHPERCENT}%[#]生命值和[#!]{FAMILIARATTACK}%[#]攻擊。\n[*]繼承自施法者的生命值和攻擊，會根據核心的充能而有所變動。核心啟動後，會耗盡所有充能。\n[*]在殺手機器人小兵命中目標前，會消滅目標的所有[#!]小兵[#]，並對[#!]超級小兵[#]造成傷害。\n[*]小兵於每回合結束時，會為其主人治療{FAMILIARHEAL}%生命值。\n[*][#!]枯萎：[#]殺手機器人小兵每次攻擊， 都會使目標的攻擊力變為[#!]{ATTACKMODIFIER}[#]。"
+          },
+          {
+            "key": "roster_cleanup.dialog.info.selection.description",
+            "text": "可選取符合以下條件的英雄進行轉換：\n\n[#!]包含[#]：\n{0}\n\n[#!]不包含[#]：\n[*]已編入戰隊\n[*]已加入最愛\n[*]已在英雄名錄中置頂\n[*]已解鎖天賦\n[*]若不符合上述任何排除條件，則每位英雄中戰力最強的副本將被排除"
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.chain_strike",
+            "text": "驅散每名被擊中敵人身上的{REMOVALCOUNT}個增益效果。"
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.safe.chain_strike",
+            "text": "安全驅散每名被擊中敵人身上的{REMOVALCOUNT}個增益效果。"
+          },
+          {
+            "key": "familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "當此角色受特殊技能傷害時，有[#!]{1MEMBERCHANCE}[#]/[#!]{2MEMBERSCHANCE}[#]%機率可以淨化此所有盟友的一個狀態異常。"
+          },
+          {
+            "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "當此角色受特殊技能傷害時，有[#!]{CHANCE}[#]%機率可以淨化所有盟友的1個狀態異常。"
           }
         ]
       },
@@ -78,6 +158,38 @@
           {
             "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
             "text": "이 캐릭터의 수호물 코어는 [#!]하수인 코어[#]입니다.\n\n[#!]하수인 코어[#]는 이 캐릭터의 [#!]특수 스킬[#]이 시전될 때마다 발동합니다.\n\n[*]에너지가 완충된 [#!]하수인 코어[#]는 시전자로부터 [#!]{FAMILIARHEALTHPERCENT}%[#] HP와 [#!]{FAMILIARATTACK}%[#] 공격력을 물려받은 [#!]킬러봇 하수인[#]을 모든 아군에게 소환합니다.\n[*] 시전자로부터 물려받는 HP와 공격력은 코어의 에너지 충전도에 따라 변합니다. 충전된 에너지는 코어가 활성화된 동안 소모됩니다.\n[*] 킬러봇 하수인은 대상을 공격하기 전에 대상이 보낸 모든 [#!]하수인[#]을 파괴하고 [#!]메가 하수인[#]에게 피해를 가합니다.\n[*]각 턴 종료 시 하수인이 주인의 HP를 {FAMILIARHEAL}% 회복시킵니다.\n[*][#!]쇠퇴:[#] 킬러봇 하수인의 타격마다 대상에게 [#!]{ATTACKMODIFIER}[#] 공격력을 줍니다."
+          },
+          {
+            "key": "platinum.trader.info.description",
+            "text": "인벤토리에서 플래티넘으로 아이템을 거래합니다.\n\n[#!]플래티넘 상점[#]이 활성화되면 플래티넘으로 귀중한 아이템을 얻을 수 있습니다."
+          },
+          {
+            "key": "platinum.trader.description",
+            "text": "플래티넘 무역상에 오신 것을 환영합니다.\n여기에서는 아이템으로 플레티넘을 거래할 수 있습니다."
+          },
+          {
+            "key": "shop.platinum.info.description",
+            "text": "플래티넘 상점에서 플래티넘으로 아이템을 구매합니다.\n\n플래티넘은 [#!]플래티넘 무역상[#]이 활성화되면 얻을 수 있습니다."
+          },
+          {
+            "key": "roster_cleanup.dialog.info.selection.description",
+            "text": "영웅은 다음 조건에 따라 재활용으로 선택됩니다:\n\n[#!]포함 사항[#]:\n{0}\n\n[#!]제외 사항[#]:\n[*] 팀에 속한 경우\n[*] 선호 목록에 있는 경우\n[*] 영웅 목록에 고정된 경우\n[*] 특성이 잠금 해제된 경우\n[*] 제외 사항에 해당되지 않는 경우 가장 강력한 각 영웅의 복제가 제외됩니다"
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.chain_strike",
+            "text": "타격에 맞은 각 적에게서 강화 효과 {REMOVALCOUNT}개를 해제합니다."
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.safe.chain_strike",
+            "text": "타격에 맞은 각 적에게서 안전하게 강화 효과 {REMOVALCOUNT}개를 해제합니다."
+          },
+          {
+            "key": "familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "특수 스킬 피해를 받을 때 [#!]{1MEMBERCHANCE}[#]/[#!]{2MEMBERSCHANCE}[#]% 확률로 모든 아군에게서 상태 이상 효과 1개를 정화합니다."
+          },
+          {
+            "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "특수 스킬 피해를 받을 때 [#!]{CHANCE}[#]% 확률로 모든 아군에게서 상태 이상 효과 1개를 정화합니다"
           }
         ]
       },
@@ -94,6 +206,38 @@
           {
             "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
             "text": "Der Konstruktkern dieses Charakters ist ein [#!]Lakaikern[#].\n\nDer [#!]Lakaikern[#] wird immer aktiviert, wenn die [#!]Spezialfähigkeit[#] dieses Charakters gewirkt wird:\n\n[*] Bei vollständig aufgeladenem [#!]Lakaikern[#] wird ein [#!]Killer-Bot-Lakai mit [#!]{FAMILIARHEALTHPERCENT} %[#] LP und [#!]{FAMILIARATTACK} %[#] Angriff des Wirkers für alle Verbündeten beschworen.\n[*] Die vom Wirker übernommenen LP und Angriff steigen mit der Aufladung im Kern. Wird der Kern aktiviert, wird die gesamte Aufladung verbraucht.\n[*] Bevor der Killer-Bot-Lakai ein Ziel trifft, zerstört er alle [#!]Lakaien[#] des Ziels und fügt [#!]Mega-Lakaien[#] Schaden zu.\n[*] Der Lakai stellt am Ende jeder Runde {FAMILIARHEAL} % Leben seines Besitzers wieder her.\n[*] [#!]Verwelken:[#] Jeder Treffer von einem Killer-Bot-Lakai gibt seinem Ziel [#!]{ATTACKMODIFIER}[#] Angriff."
+          },
+          {
+            "key": "specials.v2.property.targethealthdependantextradamage.under_health_boundary.all",
+            "text": "Wenn die Gegner weniger als {HEALTHBOUNDARY} % Leben übrig haben, wird stattdessen {DAMAGEMULTIPLIER} % Schaden verursacht."
+          },
+          {
+            "key": "specials.v2.property.targethealthdependantextradamage.under_health_boundary.neartotarget",
+            "text": "Wenn die Gegner weniger als {HEALTHBOUNDARY} % Leben übrig haben, wird stattdessen {DAMAGEMULTIPLIER} % Schaden verursacht."
+          },
+          {
+            "key": "heroes.name_fancy.astral_demon_ushal",
+            "text": "Astraldämon-Kosmagier"
+          },
+          {
+            "key": "roster_cleanup.dialog.info.selection.description",
+            "text": "Helden werden nach den folgenden Kriterien für die Umwandlung ausgewählt:\n\n[#!]INKLUDIERT[#]:\n{0}\n\n[#!]AUSGESCHLOSSEN[#]:\n[*] Im Team\n[*] In Favoriten\n[*] In Heldenliste angeheftet\n[*] Talente freigeschaltet\n[*] Wurden keine Ausschlusskriterien erfüllt, wird die mächtigste Version jedes Helden ausgeschlossen."
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.chain_strike",
+            "text": "Entfernt {REMOVALCOUNT} Bonus von jedem getroffenen Gegner."
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.safe.chain_strike",
+            "text": "Entfernt sicher {REMOVALCOUNT} Bonus von jedem getroffenen Gegner."
+          },
+          {
+            "key": "familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "[#!]{1MEMBERCHANCE}[#]/[#!]{2MEMBERSCHANCE}[#] % Chance, 1 negative Statusänderung von allen Verbündeten zu entfernen, wenn dieser Charakter Schaden durch eine Spezialfähigkeit erleidet."
+          },
+          {
+            "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "[#!]{CHANCE}[#] % Chance, 1 negative Statusänderung von allen Verbündeten zu entfernen, wenn dieser Charakter Schaden durch eine Spezialfähigkeit erleidet."
           }
         ]
       },
@@ -110,6 +254,26 @@
           {
             "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
             "text": "このキャラクターの蓄積コアは[#!]ミニオンコア[#]だ。\n\n[#!]ミニオンコア[#]はこのキャラクターが[#!]特殊スキル[#]を使用するたびに発動する：\n\n[*] [#!]ミニオンコア[#]をフルチャージすると、術者から継承したHP[#!]{FAMILIARHEALTHPERCENT}%[#]、攻撃力[#!]{FAMILIARATTACK}%[#]の[#!]キラーボットミニオン[#]を仲間全員にサモンする。\n[*] 術者から継承するHPと攻撃力はコアのチャージ量に基づいて計算される。コアを起動するとチャージをすべて消費する。\n[*] キラーボットミニオンはターゲットに攻撃を与える前に、ターゲットの[#!]ミニオン[#]をすべて破壊し、[#!]メガミニオン[#]にダメージを与える。\n[*]ミニオンは、各ターン終了時に所有者のライフを{FAMILIARHEAL}%回復する。\n[*] [#!]弱化：[#] キラーボットミニオンの攻撃が当たったターゲットの攻撃力は[#!]{ATTACKMODIFIER}[#]になる。"
+          },
+          {
+            "key": "roster_cleanup.dialog.info.selection.description",
+            "text": "英雄は次の基準に基づいて再利用対象として選択される：\n\n[#!]含む[#]：\n{0}\n\n[#!]含まれない[#]：\n[*] チームに所属している\n[*] お気に入り登録されている\n[*] 英雄リストにピン留めされている\n[*] アビリティが解放されている\n[*]除外基準を満たさない場合、各英雄の最も強力なコピーが除外される"
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.chain_strike",
+            "text": "攻撃を受けた敵全員から{REMOVALCOUNT}個のバフを解除する。"
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.safe.chain_strike",
+            "text": "攻撃を受けた敵全員から{REMOVALCOUNT}個のバフを確実に解除する。"
+          },
+          {
+            "key": "familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "特殊スキルによるダメージを受けると[#!]{1MEMBERCHANCE}[#]/[#!]{2MEMBERSCHANCE}[#]%の確率で、味方全員に付与されたステータス異常1つを浄化する。"
+          },
+          {
+            "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "特殊スキルによるダメージを受けると、[#!]{CHANCE}[#]%の確率で、味方全員に付与された浄化可能なステータス異常1つを浄化する。"
           }
         ]
       },
@@ -126,6 +290,26 @@
           {
             "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
             "text": "Den här karaktärens konstruktionskärna är en [#!]undersåteskärna[#].\n\n[#!]Undersåteskärnan[#] aktiveras varje gång den här karaktärens [#!]specialförmåga[#] används:\n\n[*] När [#!]undersåteskärnan[#] är fulladdad åkallas en [#!]mördarrobotsundersåte[#] med [#!]{FAMILIARHEALTHPERCENT} %[#] hälsa och [#!]{FAMILIARATTACK} %[#] attack som ärvs från användaren åt alla allierade.\n[*] Mängden hälsa och attack som ärvs från användaren skalas med mängden laddning i kärnan. All laddning förbrukas när kärnan aktiveras.\n[*] Innan mördarrobotundersåten träffar ett mål förstör den alla målets [#!]undersåtar[#] och skadar dess [#!]megaundersåtar[#].\n[*]Undersåten återställer {FAMILIARHEAL} % hälsa åt sin ägare i slutet av varje runda.\n[*][#!]Vittring:[#] Varje träff från en mördarrobotsundersåte ger dess mål [#!]{ATTACKMODIFIER}[#] attack."
+          },
+          {
+            "key": "roster_cleanup.dialog.info.selection.description",
+            "text": "Hjältar väljs ut för återvinning enligt följande kriterier:\n\n[#!]INKLUDERD[#]:\n{0}\n\n[#!]EXKLUDERAD[#]:\n[*] I ett lag\n[*] I favoriter\n[*] Fäst i hjältesamlingen\n[*] Upplåsta talanger\n[*]Om inga exkluderingskriterier uppfylls exkluderas det kraftfullaste exemplaret av varje hjälte"
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.chain_strike",
+            "text": "Tar bort {REMOVALCOUNT} bonus från varje träffad fiende."
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.safe.chain_strike",
+            "text": "Tar säkert bort {REMOVALCOUNT} bonus från varje träffad fiende."
+          },
+          {
+            "key": "familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "[#!]{1MEMBERCHANCE}[#]/[#!]{2MEMBERSCHANCE}[#] % chans att rensa en negativ statuseffekt från alla allierade när den tar skada av en specialförmåga."
+          },
+          {
+            "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "[#!]{CHANCE}[#] % chans att rensa en negativa statuseffekter från alla allierade när karaktären tar skada av en specialförmåga"
           }
         ]
       },
@@ -142,6 +326,26 @@
           {
             "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
             "text": "Bu karakterin Yapı Merkezi [#!]Hizmetkar Merkezidir[#].\n\n[#!]Hizmetkar Merkezi[#], bu karakterin [#!]Özel Yeteneği[#] her uygulandığında etkinleşir:\n\n[*] Tamamen dolan bir [#!]Hizmetkar Merkezi[#], eylemciden tüm müttefiklere miras kalan [#!]%{FAMILIARHEALTHPERCENT}[#] SP'ye ve [#!]%{FAMILIARATTACK}[#] saldırıya sahip bir [#!]Katil Bot Hizmetkar[#] çağırır.\n[*] Eylemciden miras kalan SP ve saldırı, Merkezin dolum miktarına göre değişir. Merkez etkinleştirildiğinde doluluk oranı tamamen boşaltılır.\n[*] Katil Bot Hizmetkar, hedefe vurmadan önce hedefteki tüm [#!]Hizmetkarları[#] yok eder ve [#!]Mega Hizmetkarlara[#] hasar verir.\n[*] Hizmetkar, her turun sonunda sahibi için %{FAMILIARHEAL} sağlık yeniler.\n[*] [#!]Soldurma:[#] Katil Bot Hizmetkarın yaptığı her vuruş hedefine [#!]{ATTACKMODIFIER}[#] saldırı verir."
+          },
+          {
+            "key": "roster_cleanup.dialog.info.selection.description",
+            "text": "Kahramanlar, geri dönüşüm için şu ölçütlere göre seçilir:\n\n[#!]DÂHİL EDİLEN[#]:\n{0}\n\n[#!]HARİÇ TUTULAN[#]:\n[*] Bir takımda\n[*] Favorilerde\n[*] Kahraman kadrosunda sabitlenmiş\n[*] Becerilerinin kilidi açılmış\n[*] Hiçbir hariç tutma kriteri karşılanmıyorsa her Kahramanın en güçlü kopyası hariç tutulur"
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.chain_strike",
+            "text": "Vurulan her düşmanın {REMOVALCOUNT} buff'ını bozar."
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.safe.chain_strike",
+            "text": "Vurulan her düşmanın {REMOVALCOUNT} buff'ını güvenli bir şekilde bozar."
+          },
+          {
+            "key": "familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "Özel Yetenek hasarı alırken tüm müttefiklerden 1 durum engelini arındırmak için %[#!]{1MEMBERCHANCE}[#]/[#!]{2MEMBERSCHANCE}[#] şans."
+          },
+          {
+            "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "Özel Yetenek hasarı alındığında tüm müttefiklerden, 1 durum engelini arındırmak için %[#!]{CHANCE}[#] şans"
           }
         ]
       },
@@ -158,6 +362,26 @@
           {
             "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
             "text": "The Construct Core of this character is a [#!]Minion Core[#].\n\nThe [#!]Minion Core[#] activates each time this character's [#!]Special Skill[#] is cast:\n\n[*] With a fully charged [#!]Minion Core[#], summons a [#!]Killer Bot Minion[#] with [#!]{FAMILIARHEALTHPERCENT}%[#] HP and [#!]{FAMILIARATTACK}%[#] attack inherited from the caster on all allies.\n[*] The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.\n[*] Before the Killer Bot Minion hits a target, it destroys all [#!]Minions[#] from the target and damages [#!]Mega Minions[#].\n[*]The Killer Bot Minion recovers {FAMILIARHEAL}% health for its owner at the end of each turn.\n[*][#!]Wither:[#] Each hit from a Killer Bot Minion gives its target [#!]{ATTACKMODIFIER}[#] attack."
+          },
+          {
+            "key": "roster_cleanup.dialog.info.selection.description",
+            "text": "Heroes are selected for recycling according to the following criteria:\n\n[#!]INCLUDED[#]:\n{0}\n\n[#!]EXCLUDED[#]:\n[*] In a team\n[*] In favorites\n[*] Pinned in Hero roster\n[*] Talents unlocked\n[*] If no exclusion criteria are met, the most powerful copy of each Hero is excluded"
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.chain_strike",
+            "text": "Dispels {REMOVALCOUNT} buff from each hit enemy."
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.safe.chain_strike",
+            "text": "Safely dispels {REMOVALCOUNT} buff from each hit enemy."
+          },
+          {
+            "key": "familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "[#!]{1MEMBERCHANCE}[#]/[#!]{2MEMBERSCHANCE}[#]% chance to cleanse 1 status ailment from all allies when receiving Special Skill damage."
+          },
+          {
+            "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "[#!]{CHANCE}[#]% chance to cleanse 1 status ailment from all allies on received Special Skill damage"
           }
         ]
       },
@@ -174,6 +398,26 @@
           {
             "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
             "text": "جوهر بناء هذه الشخصية هو [#!]جوهر تابع[#].\n\nيتم تنشيط [#!]جوهر التابع[#] كلما يتم إلقاء [#!]المهارة الخاصة[#] لهذه الشخصية:\n\n[*] مع [#!]جوهر تابع[#] مشحون بالكامل، يتم استدعاء [#!]تابع آلي قاتل[#] مع صحة بنسبة [#!]{FAMILIARHEALTHPERCENT}%[#] وهجوم بنسبة [#!]{FAMILIARATTACK}%[#] موروث من الملقي لكل الحلفاء.\n[*] يتم تحديد الصحة والهجوم الموروثين من الملقي حسب مقدار شحن الجوهر. يتم استنفاد كل الشحنات عند تفعيل الجوهر.\n[*] قبل أن يصيب التابع الآلي القاتل هدفًا، يدمر كل [#!]الأتباع[#] من الأهداف، ويلحق الضرر بـ[#!]الأتباع الضخام[#].\n[*]يستعيد التابع {FAMILIARHEAL}% من الصحة لمالكه في نهاية كل جولة.\n[*] [#!]التلف:[#] كل إصابة من التابع الآلي القاتل تمنح هدفها [#!]{ATTACKMODIFIER}[#] من الهجوم."
+          },
+          {
+            "key": "roster_cleanup.dialog.info.selection.description",
+            "text": "يتم اختيار الأبطال لإعادة التدوير وفقًا للمعايير التالية:\n\n[#!]متضمن[#]:\n{0}\n\n[#!]مستبعد[#]:\n[*] في فريق\n[*] في المفضلات\n[*] مثبت في لائحة الأبطال\n[*] مواهب مفتوحة\n[*] إذا لم تتحقق أي من معايير الاستبعاد، يتم استبعاد النسخة الأقوى من كل بطل."
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.chain_strike",
+            "text": "لتبديد {REMOVALCOUNT} من التعزيز من كل عدو مصاب."
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.safe.chain_strike",
+            "text": "لتبديد {REMOVALCOUNT} من التعزيز بأمان من كل عدو مصاب."
+          },
+          {
+            "key": "familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "فرصة بنسبة [#!]{1MEMBERCHANCE}[#]/[#!]{2MEMBERSCHANCE}[#]% لتطهير حالة مرضية واحدة عن جميع الحلفاء عند تلقي ضرر مهارة خاصة."
+          },
+          {
+            "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "فرصة بنسبة [#!]{CHANCE}[#]% لتطهير حالة مرضية عن جميع الحلفاء عند تلقي ضرر مهارة خاصة."
           }
         ]
       },
@@ -190,6 +434,26 @@
           {
             "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
             "text": "Le noyau de golem de ce personnage est un [#!]noyau sbire[#].\n\nLe [#!]noyau sbire[#] s'active à chaque fois que le personnage utilise sa [#!]compétence spéciale[#] :\n\n[*] Avec un [#!]noyau sbire[#] entièrement chargé, chaque allié reçoit un [#!]sbire robot tueur[#] avec [#!]{FAMILIARHEALTHPERCENT} %[#] de PV et [#!]{FAMILIARATTACK} %[#] d'attaque hérités du lanceur.\n[*] Les PV et l'attaque hérités sont proportionnels à la charge du noyau. Toute la charge est dépensée lorsque le noyau est activé.\n[*] Avant de frapper une cible, le sbire robot tueur détruit tous ses [#!]sbires[#] et inflige des dégâts aux [#!]méga sbires[#].\n[*]Le sbire récupère {FAMILIARHEAL} % de santé pour son propriétaire à la fin de chaque tour.\n[*] [#!]Flétrissement :[#] chaque coup du sbire robot tueur donne à sa cible [#!]{ATTACKMODIFIER}[#] d'attaque."
+          },
+          {
+            "key": "roster_cleanup.dialog.info.selection.description",
+            "text": "Les héros sont sélectionnés pour le recyclage selon les critères suivants :\n\n[#!]INCLUS[#] :\n{0}\n\n[#!]EXCLUS[#] :\n[*] Dans une équipe\n[*] Dans les favoris\n[*] Épinglé dans la liste des héros\n[*] Talents débloqués\n[*] Si aucun critère n'est rempli, l'exemplaire le plus puissant de chaque héros est exclu"
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.chain_strike",
+            "text": "Dissipe {REMOVALCOUNT} bonus pour chaque ennemi touché."
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.safe.chain_strike",
+            "text": "Dissipe de façon sûre {REMOVALCOUNT} bonus pour chaque ennemi touché."
+          },
+          {
+            "key": "familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "[#!]{1MEMBERCHANCE}[#]/[#!]{2MEMBERSCHANCE}[#] % de chances de purifier 1 effet négatif purifiable pour tous les alliés lorsqu'ils subissent des dégâts de compétence spéciale."
+          },
+          {
+            "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "[#!]{CHANCE}[#] % de chances de purifier 1 effet négatif purifiable de tous les alliés lorsqu'ils subissent des dégâts de compétence spéciale."
           }
         ]
       },
@@ -206,6 +470,26 @@
           {
             "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
             "text": "O núcleo de construto deste personagem é um [#!]núcleo de ajudante[#].\n\nO [#!]núcleo de ajudante[#] é ativado sempre que a [#!]habilidade especial[#] deste personagem é lançada:\n\n[*] Com um [#!]núcleo de ajudante[#] totalmente carregado, convoca um [#!]ajudante Bot Assassino[#] com [#!]{FAMILIARHEALTHPERCENT}%[#] de HP e [#!]{FAMILIARATTACK}%[#] de ataque do invocador para todos os aliados.\n[*] O total de PV e ataque herdados do invocador são calculados de acordo com a quantidade de carga do núcleo. Toda a carga é consumida quando o núcleo é ativado.\n[*] Antes de atingir um alvo, o Bot Assassino destrói todos os [#!]ajudantes[#] do alvo e causa dano aos [#!]mega-ajudantes[#].\n[*] O ajudante restaura {FAMILIARHEAL}% da vida do dono ao fim de cada turno.\n[*] [#!]Definhar:[#] cada acerto de um ajudante Bot Assassino dá [#!]{ATTACKMODIFIER}[#] de ataque ao alvo."
+          },
+          {
+            "key": "roster_cleanup.dialog.info.selection.description",
+            "text": "Heróis são selecionados para reciclagem conforme os critérios a seguir:\n\n[#!]INCLUÍDOS[#]:\n{0}\n\n[#!]EXCLUÍDOS[#]:\n[*]Membros de equipe\n[*]Favoritos\n[*]Fixados no quadro de heróis\n[*]Com talentos desbloqueados\n[*]Se nenhum critério de exclusão for aplicável, a cópia mais poderosa de cada herói é excluída"
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.chain_strike",
+            "text": "Dissipa {REMOVALCOUNT} reforços de cada inimigo atingido."
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.safe.chain_strike",
+            "text": "Dissipa em segurança {REMOVALCOUNT} reforços de cada inimigo atingido."
+          },
+          {
+            "key": "familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "[#!]{1MEMBERCHANCE}[#]/[#!]{2MEMBERSCHANCE}[#]% de chance de expurgar 1 mal de status de todos os aliados ao receber dano de uma habilidade especial."
+          },
+          {
+            "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "[#!]{CHANCE}[#]% de chance de expurgar 1 mal de status de todos os aliados ao receber dano de uma habilidade especial."
           }
         ]
       },
@@ -222,6 +506,26 @@
           {
             "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
             "text": "Inti Konstruksi karakter ini adalah [#!]Inti Antek[#].\n\n[#!]Inti Antek[#] aktif setiap kali [#!]Keahlian Khusus[#] karakter ini dirapal:\n\n[*] Dengan [#!]Inti Antek[#] yang terisi penuh, memanggil [#!]Antek Bot Pembunuh[#] dengan [#!]{FAMILIARHEALTHPERCENT}%[#] HP dan serangan [#!]{FAMILIARATTACK}%[#] yang diwarisi dari perapal pada semua sekutu.\n[*] HP dan serangan yang diwarisi dari perapal diskalakan berdasarkan jumlah muatan di Inti. Semua muatan akan habis saat Inti diaktifkan.\n[*] Sebelum Antek Bot Pembunuh mengenai sasaran, ia menghancurkan semua [#!]Antek[#] sasaran dan merusak [#!]Antek Mega[#].\n[*]Antek memulihkan {FAMILIARHEAL}% kesehatan untuk pemiliknya di akhir setiap giliran.\n[*][#!]Layu:[#] Setiap serangan dari Antek Bot Pembunuh memberi targetnya [#!]{ATTACKMODIFIER}[#] serangan."
+          },
+          {
+            "key": "roster_cleanup.dialog.info.selection.description",
+            "text": "Pahlawan dipilih untuk didaur ulang berdasarkan kriteria berikut:\n\n[#!]TERMASUK[#]:\n{0}\n\n[#!]DIKECUALIKAN[#]:\n[*] Dalam tim\n[*] Dalam favorit\n[*] Dipin dalam daftar Pahlawan\n[*] Bakat sudah dibuka\n[*] Jika tidak ada kriteria pengecualian yang terpenuhi, salinan terkuat dari tiap Pahlawan akan dikecualikan"
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.chain_strike",
+            "text": "Mengenyahkan {REMOVALCOUNT} genjotan dari setiap musuh yang terkena."
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.safe.chain_strike",
+            "text": "Dengan aman mengenyahkan {REMOVALCOUNT} genjotan dari setiap musuh yang terkena."
+          },
+          {
+            "key": "familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "Peluang [#!]{1MEMBERCHANCE}[#]/[#!]{2MEMBERSCHANCE}[#]% untuk membersihkan 1 status pelemahan dari semua sekutu saat menderita kerusakan dari Keahlian Khusus."
+          },
+          {
+            "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "Peluang [#!]{CHANCE}[#]% untuk membersihkan 1 status pelemahan dari semua sekutu atas kerusakan Keahlian Khusus yang diderita"
           }
         ]
       },
@@ -238,6 +542,26 @@
           {
             "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
             "text": "Tämän hahmon rakennelmaydin on [#!]käskyläisydin[#].\n\n[#!]Käskyläisydin[#] aktivoituu aina kun tämän hahmon [#!]erikoistaitoa[#] käytetään:\n\n[*] Täysin ladattu [#!]käskyläisydin[#] kutsuu kaikille liittolaisille [#!]tappajabottikäskyläisen[#], joka perii loitsijalta [#!]{FAMILIARHEALTHPERCENT} %[#] terveyttä ja [#!]{FAMILIARATTACK} %[#] hyökkäystä.\n[*] Loitsijalta peritty terveys ja hyökkäys skaalautuvat ytimen latauksen mukaan. Ytimen lataus tyhjenee kokonaan, kun ydin aktivoituu.\n[*] Ennen kuin tappajabottikäskyläinen osuu kohteeseen, se tuhoaa kohteen kaikki [#!]käskyläiset[#] ja vaurioittaa sen [#!]megakäskyläisiä[#].\n[*]Käskyläinen palauttaa {FAMILIARHEAL} % terveyttä omistajalleen joka vuoron lopussa.\n[*] [#!]Näivetys:[#] Tappajabottikäskyläisen osumat antavat kohteelle [#!]{ATTACKMODIFIER}[#] hyökkäystä."
+          },
+          {
+            "key": "roster_cleanup.dialog.info.selection.description",
+            "text": "Sankarit valitaan kierrätykseen seuraavien kriteerien mukaisesti:\n\n[#!]KIERRÄTETÄÄN[#]:\n{0}\n\n[#!]EI KIERRÄTETÄ[#]:\n[*] Ryhmässä\n[*] Suosikeissa\n[*] Kiinnitetty sankarilistassa\n[*] Kyvyt avattu\n[*] Jos mitkään kriteerit eivät täyty, kunkin sankarin vahvin kopio jätetään pois kierrätettävien joukosta."
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.chain_strike",
+            "text": "Häivyttää {REMOVALCOUNT} tehosteen osutuilta vihollisilta."
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.safe.chain_strike",
+            "text": "Häivyttää turvallisesti {REMOVALCOUNT} tehosteen osutuilta vihollisilta."
+          },
+          {
+            "key": "familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "[#!]{1MEMBERCHANCE} %:n[#]/[#!]{2MEMBERSCHANCE}[#] %:n mahdollisuus puhdistaa yksi vaiva kaikilta liittolaisilta, kun hahmo kärsii vauriota erikoistaidosta."
+          },
+          {
+            "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "[#!]{CHANCE}[#] %:n mahdollisuus puhdistaa yksi vaiva kaikilta liittolaisilta, kun hahmo kärsii vauriota erikoistaidosta"
           }
         ]
       },
@@ -254,6 +578,26 @@
           {
             "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
             "text": "Denne figurs byggekerne er en [#!]håndlangerkerne[#].\n\n[#!]Håndlangerkernen[#] aktiveres, hver gang denne figurs særlige egenskab kastes:\n\n[*] Med en fuldt opladet [#!]håndlangerkerne[#] hidkaldes en  dræberbot-håndlanger med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb arvet kasteren på alle allierede.\n[*] De HP og det angreb, der arves fra kasteren, skaleres med ladningen i kernen. Al ladning udtømmes, når kernen aktiveres.\n[*] Før dræberbot-håndlangeren rammer et mål, tilintetgør den alle [#!]håndlangere[#] fra målet og skader [#!]kæmpehåndlangere[#].\n[*]Håndlangeren genvinder {FAMILIARHEAL} % helbred til sin ejer i slutningen af hver runde.\n[*][#!]Forvitring:[#] Hver træffer fra en dræberbot-håndlanger giver dens mål [#!]{ATTACKMODIFIER}[#] angreb."
+          },
+          {
+            "key": "roster_cleanup.dialog.info.selection.description",
+            "text": "Helte bliver udvalgt til genvinding efter følgende kriterier:\n\n[#!]INKLUDERET[#]:\n{0}\n\n[#!]EKSKLUDERET[#]:\n[*] I et hold\n[*] I favoritter\n[*] Hæftet i heltelisten\n[*] Du har låst op for talenter\n[*]Hvis ingen udelukkelseskriterier opfyldes, så bliver den stærkeste udgave af hver helt udelukket"
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.chain_strike",
+            "text": "Ophæver {REMOVALCOUNT} buff fra hver ramt fjende."
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.safe.chain_strike",
+            "text": "Ophæver {REMOVALCOUNT} buff sikkert fra hver ramt fjende."
+          },
+          {
+            "key": "familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "[#!]{1MEMBERCHANCE}[#]/[#!]{2MEMBERSCHANCE}[#] % chance for at fjerne 1 statuslidelse fra alle allierede, når de tager skade fra særlige egenskaber."
+          },
+          {
+            "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "[#!]{CHANCE}[#] % chance for at fjerne 1 statuslidelse fra alle allierede, når d tager skade fra særlige egenskaber"
           }
         ]
       },
@@ -270,6 +614,26 @@
           {
             "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
             "text": "El núcleo de creación de este personaje es un [#!]núcleo secuaz[#].\n\nEl [#!]núcleo secuaz[#] se activa cada vez que este personaje lanza su [#!]habilidad especial[#]:\n\n[*] Con un [#!]núcleo secuaz[#] cargado al máximo, invoca a un [#!]secuaz robot asesino[#] para cada aliado con un [#!]{FAMILIARHEALTHPERCENT}[#] % VIT y un [#!]{FAMILIARATTACK}[#] % de ataque heredados del héroe.\n[*] La VIT y el ataque heredados aumentan en función de la carga del núcleo. La carga completa se agota cuando se activa el núcleo.\n[*] Antes de golpear al objetivo, el secuaz robot asesino destruye a todos sus [#!]secuaces[#] e inflige daño a sus [#!]megasecuaces[#].\n[*] El secuaz recupera un {FAMILIARHEAL} % de vitalidad para su dueño al final de cada turno.\n[*] [#!]Merma:[#] Cada golpe de un secuaz robot asesino le otorga al objetivo [#!]{ATTACKMODIFIER}[#] de ataque."
+          },
+          {
+            "key": "roster_cleanup.dialog.info.selection.description",
+            "text": "Los héroes se seleccionan para el reciclaje según los siguientes criterios:\n\n[#!]SE INCLUYEN[#]:\n{0}\n\n[#!]SE EXCLUYEN[#]:\n[*] Si están en un equipo.\n[*] Si están en tus favoritos.\n[*] Si están anclados en tu lista de héroes.\n[*] Si tienen talentos desbloqueados.\n[*] Si no cumplen los criterios de exclusión, se excluye la copia más poderosa de cada héroe."
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.chain_strike",
+            "text": "Descarta {REMOVALCOUNT} bendición de cada enemigo golpeado."
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.safe.chain_strike",
+            "text": "Descarta {REMOVALCOUNT} bendición de cada enemigo golpeado de forma segura."
+          },
+          {
+            "key": "familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "[#!]{1MEMBERCHANCE} %[#]/[#!]{2MEMBERSCHANCE} %[#] de probabilidad de purificar 1 estado alterado de todos los aliados cuando recibe daño de la habilidad especial de un enemigo."
+          },
+          {
+            "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "[#!]{CHANCE} %[#] de probabilidad de purificar 1 estado alterado de todos los aliados cuando recibe daño de la habilidad especial de un enemigo."
           }
         ]
       },
@@ -286,6 +650,26 @@
           {
             "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
             "text": "Konstruktørkjernen til denne figuren er en [#!]undersåttkjerne[#].\n\n[#!]Undersåttkjernen[#] aktiveres hver gang denne figurens [#!]spesialferdighet[#] brukes:\n\n[*] Med en fulladet [#!]undersåttkjerne[#] kan du fremkalle en [#!]drapsrobotundersått[#] med [#!]{FAMILIARHEALTHPERCENT} %[#] HP og [#!]{FAMILIARATTACK} %[#] nedarvet angrep fra brukeren på alle allierte.\n[*] HP og angrep nedarvet fra brukeren skaleres av ladningen i kjernen. Alle ladninger brukes når kjernen aktiveres.\n[*] Før drapsrobotundersåtten treffer et mål, ødelegger den alle [#!]undersåtter[#] fra målet og skader [#!]megaundersåtter[#].\n[*]Undersåtten gir tilbake {FAMILIARHEAL} % helse til eieren sin ved slutten av hver runde.\n[*][#!]Visne:[#] Hvert treff fra en drapsrobotundersått gir målet [#!]{ATTACKMODIFIER}[#] angrep."
+          },
+          {
+            "key": "roster_cleanup.dialog.info.selection.description",
+            "text": "Helter velges for resirkulering i henhold til følgende kriterier:\n\n[#!]INKLUDERT[#]:\n{0}\n\n[#!]EKSKLUDERT[#]:\n[*] På et lag\n[*] I favoritter\n[*] Festet i helteliste\n[*] Talenter låst opp\n[*] Hvis ingen ekskluderingskriterier er møtt, ekskluderes den kraftigste kopien av helten"
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.chain_strike",
+            "text": "Fjerner {REMOVALCOUNT} økning fra hver fiende som blir truffet."
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.safe.chain_strike",
+            "text": "Fjerner trygt {REMOVALCOUNT} økning fra hver fiende som blir truffet."
+          },
+          {
+            "key": "familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "[#!]{1MEMBERCHANCE}[#]/[#!]{2MEMBERSCHANCE}[#] % sjanse til å rense 1 statuslidelse fra alle allierte når den tar skade fra spesialferdighet."
+          },
+          {
+            "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "[#!]{CHANCE}[#] % sjanse til å rense 1 statuslidelse som kan renses, fra alle allierte når den tar skade fra spesialferdighet."
           }
         ]
       },
@@ -302,6 +686,26 @@
           {
             "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
             "text": "De constructiekern van dit personage is een [#!]volgelingkern[#].\n\nDe [#!]volgelingkern[#] wordt geactiveerd als de [#!]speciale vaardigheid[#] van dit personage wordt gebruikt:\n\n[*] Met een volledig opgeladen [#!]volgelingkern[#], wordt een [#!]killerbotvolgeling aangeroepen. Deze erft [#!]{FAMILIARHEALTHPERCENT}%[#] HP en [#!]{FAMILIARATTACK}%[#] aanvalskracht van de spreukspreker voor alle bondgenoten.\n[*] De HP en aanvalskracht die van de spreukspreker worden geërfd, worden opgeschaald op basis van de hoeveelheid lading in de kern. De lading wordt volledig gebruikt wanneer de kern wordt geactiveerd.\n[*] Voordat de killerbotvolgeling een doel raakt, vernietigt hij alle [#!]volgelingen[#] van het doelwit en beschadigt hij [#!]megavolgelingen[#].\n[*]De volgeling herstelt aan het eind van iedere beurt {FAMILIARHEAL}% gezondheid voor zijn eigenaar.[*] [#!]Verwelken:[#] iedere treffer van een killerbotvolgeling levert het doelwit [#!]{ATTACKMODIFIER}[#] aanvalskracht op."
+          },
+          {
+            "key": "roster_cleanup.dialog.info.selection.description",
+            "text": "Helden worden geselecteerd voor recycling volgens de volgende criteria:\n\n[#!]INCLUSIEF[#]:\n{0}\n\n[#!]EXCLUSIEF[#]:\n[*] In een team\n[*] In favorieten\n[*] Vastgezet in heldenselectie\n[*] Ontgrendelde talenten\n[*] Als er niet wordt voldaan aan uitsluitingscriteria, wordt de krachtigste versie van iedere held uitgesloten"
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.chain_strike",
+            "text": "Verwijdert {REMOVALCOUNT} oppepper van iedere getroffen vijand."
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.safe.chain_strike",
+            "text": "Verwijdert veilig {REMOVALCOUNT} oppepper van iedere getroffen vijand."
+          },
+          {
+            "key": "familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "[#!]{1MEMBERCHANCE}[#]/[#!]{2MEMBERSCHANCE}[#]% kans om één zuiverbare statusaandoening te zuiveren van alle bondgenoten wanneer ze schade oplopen door een speciale vaardigheid."
+          },
+          {
+            "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "[#!]{CHANCE}[#]% kans om één zuiverbare statusaandoeningen te zuiveren van alle bondgenoten wanneer ze schade oplopen door een speciale vaardigheid"
           }
         ]
       },
@@ -318,10 +722,30 @@
           {
             "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
             "text": "此角色的机械核心为[#!]小兵核心[#]。\n\n每当此角色施放[#!]特殊技能[#]时，都会启动[#!]小兵核心[#]：\n\n[*]若[#!]小兵核心[#]已完全充满，为所有盟友召唤一个[#!]杀戮机器人小兵[#]，小兵继承施法者的[#!]{FAMILIARHEALTHPERCENT}%[#]生命值和[#!]{FAMILIARATTACK}%[#]攻击力。\n[*]核心的充能越高，继承的生命值和攻击力越多。核心启动时会耗尽所有充能。\n[*]杀戮机器人小兵在攻击目标前，会摧毁目标的所有[#!]小兵[#]，并对[#!]超级小兵[#]造成伤害。\n[*]每回合结束时，小兵为其所有者恢复{FAMILIARHEAL}%的生命值。\n[*][#!]衰退：[#]杀戮机器人小兵每次命中，会给予目标[#!]{ATTACKMODIFIER}[#]攻击力。"
+          },
+          {
+            "key": "roster_cleanup.dialog.info.selection.description",
+            "text": "按以下条件筛选可回收英雄：\n\n[#!]包含[#]：\n{0}\n\n[#!]不包含[#]：\n[*]在战队中\n[*]在最爱列表中\n[*]已固定在英雄列表中\n[*]天赋已解锁\n[*]若不满足以上排除条件，则排除每个英雄中强度最高的重复卡牌"
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.chain_strike",
+            "text": "驱散每个被击中敌人身上的{REMOVALCOUNT}个增益。"
+          },
+          {
+            "key": "specials.v2.dispel.minorbuff.safe.chain_strike",
+            "text": "安全驱散每个被击中敌人身上的{REMOVALCOUNT}个增益。"
+          },
+          {
+            "key": "familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "受到特殊技能伤害时，有[#!]{1MEMBERCHANCE}[#]/[#!]{2MEMBERSCHANCE}[#]%几率为所有盟友净化1种状态异常。"
+          },
+          {
+            "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
+            "text": "受到特殊技能伤害时，有[#!]{CHANCE}[#]%几率为所有盟友净化1种状态异常"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 2572042288
+  "languageOverridesConfigId": 2015096821
 }
