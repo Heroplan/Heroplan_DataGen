@@ -114,7 +114,7 @@ window.families_bonus = [
         "bonus": [
             "Bonus for 1/2 Heroes:",
             " * This character gains 3% / 6% mana when taking Special Skills damage. This effect can activate once per turn.",
-            " * 60% / 85% chance to cleanse all status ailments from this character when receiving Special Skill damage."
+            " * 60% / 85%  chance to cleanse 1 status ailment from all allies when receiving Special Skill damage."
         ]
     },
     {

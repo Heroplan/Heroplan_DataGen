@@ -1,41 +1,5 @@
 [
     {
-        "name": "Andvari C1",
-        "fancy_name": "Dwarven Restorer",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2026-03-14 07:00:00",
-        "star": 5,
-        "family": "nidavellir",
-        "costume_id": 1,
-        "heroId": "tales2_andvari_costume_c1",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Milady de Winter C1",
-        "fancy_name": "Machiavellian Herbalist",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2026-03-15 07:00:00",
-        "star": 5,
-        "family": "musketeer",
-        "costume_id": 1,
-        "heroId": "musketeer_milady_de_winter_costume_herbalist",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Pendulus Clonk",
-        "fancy_name": "Impatient Clock of the Bewitched Castle",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2026-03-15 07:00:00",
-        "star": 5,
-        "family": "beauty_beast",
-        "costume_id": 0,
-        "heroId": "beauty_beast_pendulus_clonk",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Xavier C1",
         "fancy_name": "Dual Blade Arthropod",
         "color": "Yellow",
@@ -108,7 +72,7 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Sir Roostley",
+        "name": "Sir Roostley C1",
         "fancy_name": "Mighty Alchemist of Springvale",
         "color": "Yellow",
         "Release date": "",

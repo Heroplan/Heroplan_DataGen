@@ -1108,5 +1108,10 @@
   "Undispellable Ailments All": "全体不可净化异常状态",
   "Mana Generation Debuff Self": "自身法力生成减益",
   "Attack Debuff All Dark": "全体暗属性攻击减益",
-  "Mana Boost All on Minion kill": "击杀小怪时全体法力提升"
+  "Mana Boost All on Minion kill": "击杀小怪时全体法力提升",
+  "Minion Immunity Debuff All": "全体小怪/魔仆免疫减益",
+  "Fiend Immunity Buff All": "全体魔仆免疫增益",
+  "Boosted HoT Self": "自身生命值加成持续治疗",
+  "Extra Hit Random 1 after enemy SS": "敌人释放特技后随机追加 1 次攻击",
+  "Delayed Heal Self": "自身延迟治疗"
 }

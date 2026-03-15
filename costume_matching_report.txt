@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (527 / 0)
+✅ 成功匹配的服装 (529 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -105,6 +105,7 @@ Name: Fjalar costume1, Fancy Name: Dwarven Ghostly Skald
 Name: Ott costume1, Fancy Name: Dwarven Maestro Trickster
 Name: Gandr costume1, Fancy Name: Dwarven Regal Soldier
 Name: Helgi costume1, Fancy Name: Dwarven Replenisher
+Name: Andvari costume1, Fancy Name: Dwarven Restorer
 Name: Jack O'Hare Costume1, Fancy Name: Egg Hunter of Springvale
 Name: Ptolemy Costume1, Fancy Name: Elder Log
 Name: Quintus Costume1, Fancy Name: Electro Scientist
@@ -260,6 +261,7 @@ Name: Aouda Costume1, Fancy Name: Lotus Princess
 Name: Quintus Costume2, Fancy Name: Love Doctor
 Name: Xiaotu costume1, Fancy Name: Lunar Lantern Rabbit
 Name: Laohu costume1, Fancy Name: Lunar Lucky Tiger
+Name: Milady de Winter costume1, Fancy Name: Machiavellian Herbalist
 Name: Jahangir Toon, Fancy Name: Mage from the Toon Sea
 Name: Vivica Costume1, Fancy Name: Magician Supreme
 Name: Kailani Costume1, Fancy Name: Magnanimous Mender

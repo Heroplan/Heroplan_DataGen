@@ -45113,5 +45113,98 @@ window.allHeroesExtra = [
         "healthBonus": "30%",
         "manaBonus": "5%",
         "family": "classic"
+    },
+    {
+        "name": "Andvari costume1",
+        "fancy name": "Dwarven Restorer",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
+        "Release date": "2026-03-14",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "DoT Attackers",
+            "Fiends Counters",
+            "Extra Damage Dealers",
+            "Minions Counters",
+            "Damage Reducers",
+            "Debuffers (DEF)"
+        ],
+        "heroId": "tales2_andvari_costume_c1",
+        "baseAttack": 550,
+        "baseDefense": 578,
+        "baseHealth": 1092,
+        "specialId": "saga_of_deliverance",
+        "specialId_costume": "saga_of_restoration",
+        "passiveSkills": [
+            "molten_core_costume",
+            "resist_burn_with_health_and_mana_boost_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "11%",
+        "defenseBonus": "11%",
+        "healthBonus": "12%",
+        "manaBonus": "5%",
+        "family": "nidavellir"
+    },
+    {
+        "name": "Milady de Winter costume1",
+        "fancy name": "Machiavellian Herbalist",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Druid",
+        "speed": "slow",
+        "Release date": "2026-03-15",
+        "AetherPower": "Special Armor",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Heal over Time (HoT)",
+            "Health Boosters",
+            "Reflectors"
+        ],
+        "heroId": "musketeer_milady_de_winter_costume_herbalist",
+        "baseAttack": 401,
+        "baseDefense": 406,
+        "baseHealth": 758,
+        "specialId": "masterful_manipulation",
+        "specialId_costume": "cultivated_manipulation",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received_costume",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "55%",
+        "defenseBonus": "55%",
+        "healthBonus": "60%",
+        "manaBonus": "5%",
+        "family": "musketeer"
+    },
+    {
+        "name": "Pendulus Clonk",
+        "fancy name": "Impatient Clock of the Bewitched Castle",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
+        "Release date": "2026-03-15",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "Snipers",
+            "Mana Raisers",
+            "Healers (Special)",
+            "Chain & Random Attackers"
+        ],
+        "heroId": "beauty_beast_pendulus_clonk",
+        "baseAttack": 660,
+        "baseDefense": 631,
+        "baseHealth": 1120,
+        "specialId": "always_on_time",
+        "passiveSkills": [
+            "convert_incoming_damage_to_heal",
+            "heal_on_expired_or_cleared_debuff",
+            "reduce_revival_health_all_enemies"
+        ],
+        "family": "beauty_beast"
     }
 ];
