@@ -979,9 +979,9 @@ const allTranslations =
         "heroId": "ice_god_eskimo",
         "name": "Alasie",
         "effects": [
-            "Deals 542% damage to the target",
-            "The target and nearby enemies get -24% mana generation for 3 turns. This effect can't be cleansed",
-            "Elemental Link gives all Ice allies +5% attack and +5% defense for 6 turns. This effect can't be cleansed"
+            "Deals 542% damage to the target.",
+            "The target and nearby enemies get -24% mana generation for 3 turns. This effect can't be cleansed.",
+            "Elemental Link gives all Ice allies +5% attack and +5% defense for 6 turns. This effect can't be cleansed."
         ]
     },
     {
@@ -1416,7 +1416,7 @@ const allTranslations =
         "name": "Chang'e",
         "effects": [
             "Deals 310% damage to all enemies.",
-            "All enemies cannot cast any new status effects on enemies or allies for 4 turns. This includes stacks. This only includes status effects cast with Special Skills.",
+            "All enemies cannot cast any new status effects on enemies or allies for 4 turns. (This includes stacks. This only includes status effects cast with Special Skills.)",
             "All allies get +45% defense against Special Skills for 4 turns."
         ]
     },
@@ -1528,11 +1528,11 @@ const allTranslations =
         "effects": [
             "If the caster has 35 or more Humility:",
             "Deals 460% damage to the target and nearby enemies.",
-            "The target and nearby enemeis receive 1260 Bleed damage over 4 turns.",
+            "The target and nearby enemies receive 1260 Bleed damage over 4 turns.",
             "The caster and nearby allies counterattack with 150% of the damage received for 4 turns.",
             "Otherwise:",
             "Deals 405% damage to the target and nearby enemies.",
-            "The target and nearby enemeis receive 960 Bleed damage over 4 turns."
+            "The target and nearby enemies receive 960 Bleed damage over 4 turns."
         ]
     },
     {
@@ -1570,7 +1570,7 @@ const allTranslations =
         "heroId": "castle_wolf_esme",
         "name": "Esme",
         "effects": [
-            "Destroys all Fiends from all allies.",
+            "Destroys all Fiends from all allies and damages Mega Fiends.",
             "Boosts health of all allies by 650. Boosted health can exceed max HP.",
             "If an ally had fiends they will be immune to new Fiends for 4 turns."
         ]
@@ -1580,7 +1580,7 @@ const allTranslations =
         "name": "Exeera",
         "effects": [
             "All enemies receive 237 Water damage, and an increase of 33 damage per each Ice shield on the board over 3 turns, up to 633 damage. This effect is uncleansable for all Fire enemies.",
-            "All Ice enemies are immune to this attack"
+            "All Ice enemies are immune to this attack."
         ]
     },
     {
@@ -1606,8 +1606,8 @@ const allTranslations =
         "name": "Fenrir",
         "effects": [
             "Deals 320% damage to the target.",
-            "Deals 640% damage if the target has less than 50% health remaining.",
-            "The caster gains a moderate amount of mana for each enemy killed and a small amount of mana for each enemy minion killed.",
+            "If the target has less than 50% health remaining, deals 640% damage instead.",
+            "The caster gains a moderate amount of mana for each enemy defeated and a small amount of mana for each enemy Minion destroyed.",
             "Heals the caster for 50% of damage dealt."
         ]
     },
@@ -1635,9 +1635,9 @@ const allTranslations =
         "heroId": "pirate_commodore_finley",
         "name": "Finley",
         "effects": [
-            "Deals 385% damage to the target",
-            "If the target has buffs, targets another enemy with buffs. If none of the other enemies have buffs, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once",
-            "All hit targets get -34% defense for 3 turns"
+            "Deals 385% damage to the target.",
+            "If the target has buffs, targets another enemy with buffs. If none of the other enemies have buffs, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.",
+            "All hit targets get -34% defense for 3 turns."
         ]
     },
     {
@@ -1750,7 +1750,7 @@ const allTranslations =
         "effects": [
             "This Special Skill never misses its targets.",
             "Deals 600% damage to the target.",
-            "The target becomes marked for 3 turns. Whenever a marked target dodges, they gain a stack (Max: 10). Each stack increases all damage the target receives by +5%.",
+            "The target gets a Mark of Dodge for 3 turns. Whenever a marked target dodges, they gain a stack (Max: 10). Each stack increases all damage the target receives by +5%.",
             "Element Link gives all Ice allies +10% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ]
     },
@@ -1781,14 +1781,14 @@ const allTranslations =
         "effects": [
             "Recovers 54% health for all allies.",
             "Growth: All allies get 450 attack and 450 defense.",
-            "All allies get +30% mana generation for 4 turns. If the effect is removed before the durantion ends, the target with effect gets +10% mana."
+            "All allies get +30% mana generation for 4 turns. If the effect is removed before the duration ends, the target with effect gets +10% mana."
         ]
     },
     {
         "heroId": "guardian_hippo",
         "name": "Guardian Hippo",
         "effects": [
-            "For the next 3 turns, this character deals 225% damage to all enemies each time any other ally casts their Special skill. Damage is dealt on the first Special Skill cast of each character per turn. Damage is dealt on the first Special Skill cast of each character per turn.",
+            "For the next 3 turns, this character deals 225% damage to all enemies each time any other ally casts their Special skill. (Damage is dealt on the first Special Skill cast of each character per turn. Damage is dealt on the first Special Skill cast of each character per turn.)",
             "All allies get +34% mana generation for 3 turns."
         ]
     },
@@ -1979,8 +1979,8 @@ const allTranslations =
         "heroId": "goblin_kettle",
         "name": "Kettle",
         "effects": [
-            "Cook random foord for special effect (Activation chance for each effect):",
-            "- Exquiste Food (45%)",
+            "Cook random food for special effect (Activation chance for each effect):",
+            "- Exquisite Food (45%)",
             "* Recovers 50% health for all allies.",
             "* Growth: All allies get 400 defense.",
             "- Rotten Food (45%)",
@@ -2015,7 +2015,7 @@ const allTranslations =
         "effects": [
             "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns.",
-            "The caster gets +44% defense, and a further 10% increase every time they are hit during 3 turns.  This effect can't be dispelled.",
+            "The caster gets +44% defense, and a further 10% increase every time they are hit during 3 turns, up to +94% defense. This effect can't be dispelled.",
             "All allies get +50% attack for 3 turns"
         ]
     },
@@ -2588,7 +2588,7 @@ const allTranslations =
         "name": "Quintin",
         "effects": [
             "Deals 420% damage to the target.",
-            "The target receives 100% damage for all the damage their allies receive for 4 turns."
+            "For 4 turns, the target receives 100% damage for all the damage dealt to their allies."
         ]
     },
     {
@@ -2810,8 +2810,8 @@ const allTranslations =
         "name": "Skadi",
         "effects": [
             "Deals 220% damage to all enemies.",
-            "The damage is increased by 50% per each dead enemy.",
-            "Stack (Max: 10): All enemies receive 35 Frost damage per each killed enemy or enemy minion at the end of each turn.",
+            "The damage is increased by 50% per each defeated enemy.",
+            "Stack (Max: 10): All enemies receive 30 Frost damage per each defeated enemy or enemy minion at the end of each turn.",
             "Stack (Max: 10): All enemies get -6% mana generation per each killed enemy or enemy minion."
         ]
     },
@@ -2847,8 +2847,9 @@ const allTranslations =
         "heroId": "fables_snow_white",
         "name": "Snow White",
         "effects": [
-            "Cleanses all buffs and status ailments from all allies and enemies.",
-            "Deals 180% damage to all enemies, and additional 15% damage per removed status effect, up to 420% damage in total."
+            "Dispels and cleanses all buffs and status ailments from all allies and enemies.",
+            "Deals 180% damage to all enemies.",
+            "Deals additional 15% damage per removed status effect, up to 420% damage in total."
         ]
     },
     {
@@ -3054,7 +3055,7 @@ const allTranslations =
         "name": "Timius",
         "effects": [
             "Dispels buffs from the target and nearby enemies.",
-            "Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1500 damage. Deals 40% more damage if the target is Holy.",
+            "Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1500 damage. Deals 40% more damage if the target is Holy. This Special Skill never misses its targets.",
             "The target and nearby enemies are immune to new status effect buffs for 3 turns."
         ]
     },
@@ -4488,7 +4489,7 @@ const allTranslations =
         "effects": [
             "Each fallen ally has a 38% chance to get revived with 28% HP.",
             "All allies regenerate 648 HP over 4 turns.",
-            "All allies ge +38% mana generation for 4 turns.",
+            "All allies get +38% mana generation for 4 turns.",
             "Element Link gives all Nature allies +15% attack and +15 defense for 6 turns. This effect can't be dispelled."
         ]
     },
@@ -4536,7 +4537,7 @@ const allTranslations =
         "effects": [
             "Deals 300% damage to all enemies.",
             "Summons a Bodyguard Mega Minion with 50% HP and 250% attack inherited from the caster.",
-            "The target hit by the Bodyguard Mega Minion falls asleep and receives +60% increased damage when sleeping. (A sleeping target cannot gain mana. The sleeping target is woken once it takes damage. This excludes dmaage from Minions and Fiends. The effect is uncleansable.)"
+            "The target hit by the Bodyguard Mega Minion falls asleep and receives +60% increased damage when sleeping. (A sleeping target cannot gain mana. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. The effect is uncleansable.)"
         ]
     },
     {
@@ -4862,8 +4863,8 @@ const allTranslations =
         "name": "Edwin",
         "effects": [
             "Deals 250% damage to all enemies.",
-            "The attack bypasses defensive buffs. This includes counterattacks.",
-            "The enemies can't get their status ailments cleansed or reallocated by Special Skills for 3 turns."
+            "The attack bypasses defensive buffs. (This includes counterattacks.)",
+            "All enemies can't get their status ailments cleansed or reallocated by Special Skills for 3 turns."
         ]
     },
     {
@@ -5073,7 +5074,7 @@ const allTranslations =
         "heroId": "masquerade_februus",
         "name": "Februus",
         "effects": [
-            "Destroys all Fiends from all allies.",
+            "Destroys all Fiends from all allies and damages all Mega Minions.",
             "Cleanses status ailments from all allies.",
             "All allies regenerate 1190 HP over 5 turns. This effect can't be dispelled.",
             "All enemies receive 815 Poison damage over 5 turns. This effect can't be cleansed."
@@ -5425,7 +5426,7 @@ const allTranslations =
             "Above or equal to 50%:",
             "* The ally gets +50% defense for 3 turns.",
             "* The ally gets +34% mana generation for 3 turns.",
-            "Bellow 50% HP:",
+            "Below 50% HP:",
             "* The ally regenerates 810 HP over 3 turns.",
             "* The ally gets +50% defense for 3 turns.",
             "* The ally counterattacks with 130% of the damage received for 3 turns."
@@ -5658,8 +5659,8 @@ const allTranslations =
         "heroId": "pirate_lady",
         "name": "Lady Locke",
         "effects": [
-            "The target and nearby enemies receive 932 damage over 4 turns, starting low and increasing with every turn",
-            "Cleanses status ailments from all allies"
+            "The target and nearby enemies receive 932 damage over 4 turns, starting low and increasing with every turn.",
+            "Cleanses status ailments from all allies."
         ]
     },
     {
@@ -5675,9 +5676,9 @@ const allTranslations =
         "heroId": "knights_lady_of_the_lake",
         "name": "Lady of the Lake",
         "effects": [
-            "Recovers 42% health for all allies",
-            "Summons a Magic Sword Minion for the caster and nearby allies with 14% HP and 15% attack inherited from the caster",
-            "The Minion removes -10% mana from the target when it hits them"
+            "Recovers 42% health for all allies.",
+            "Summons a Magic Sword Minion for the caster and nearby allies with 14% HP and 15% attack inherited from the caster.",
+            "The Minion removes -10% mana from the target when it hits them."
         ]
     },
     {
@@ -5721,7 +5722,7 @@ const allTranslations =
         "effects": [
             "Growth: All allies get 355 defense.",
             "Summons a Spotted Boar Mega Minion with 65% HP and 260% attack inherited from the caster.",
-            "When summoned the Spotted Boar Mega Minion gives its owner immunity to buff dispels and reallocation for as long as the owner has a Spotted Boar Mega Minion. This immunity also includes this effect itself."
+            "When summoned the Spotted Boar Mega Minion gives its owner immunity to buff dispels and reallocation for as long as the owner has a Spotted Boar Mega Minion. (This immunity also includes this effect itself.)"
         ]
     },
     {
@@ -6113,12 +6114,14 @@ const allTranslations =
         "name": "Prince Siegfried",
         "effects": [
             "If the caster is defeated during the next 5 turns, they are resurrected in the beginning of their next turn with 30% health and all allies recover 1100 HP. (All status effects and stacks are removed when the caster is defeated)",
-            "Casts Dance of the Heron to all allies but caster for 5 turns. All existing status effects will be removed when this effect is added.",
-            "Dance of the Heron",
+            "All allies except the caster dance the Dance of the Heron for 5 turns.",
+            "Dance of the Heron:",
             "* Counterattack with 130% of the damage received.",
             "* Received damage is reduced by -35%.",
-            "* Gives immunity to new status effects. New dance status effects will replace this effect.",
-            "* This effect cannot be dispelled. The effect is removed when the caster is defeated."
+            "Additional info:",
+            "* All existing status effects will be removed when a dance status effect is added.",
+            "* Dance gives immunity to new status effects. New dance status effects will replace this effect.",
+            "* Dance effect cannot be dispelled. The effect is removed when the caster is defeated."
         ]
     },
     {
@@ -6188,7 +6191,7 @@ const allTranslations =
         "name": "Relius",
         "effects": [
             "Recovers 30% health for all allies.",
-            "Each fallen ally has a 40% chance to get revived with 30% HP.",
+            "Each defeated ally has a 40% chance to get revived with 30% HP.",
             "All allies a get Moonrise Ward for 4 turns, that reduces incoming Special Skill damage by -800. Reduces by additional 30% when attacker is Holy."
         ]
     },
@@ -6206,8 +6209,8 @@ const allTranslations =
         "name": "Roz",
         "effects": [
             "Deals 530% damage to the target.",
-            "If there are 6 or more Nature shields on the board damage is dealt to the target and nearby enemies.",
-            "If there are 12 or more Nature shields on the board damage is dealt to all enemies."
+            "If there are 6 or more Nature shields on the board damage is dealt to the target and nearby enemies instead.",
+            "If there are 12 or more Nature shields on the board damage is dealt to all enemies instead."
         ]
     },
     {
@@ -6416,10 +6419,7 @@ const allTranslations =
         "name": "Teddy",
         "effects": [
             "Deals 180% damage to all enemies.",
-            "All enemies fall asleep.",
-            "While asleep, the target can't attack or gain mana.",
-            "All damage dealt to the sleeping target is increased by +70%.",
-            "The sleeping target is woken once it takes damage. The excudes damage from Minions or Fiends.",
+            "All enemies fall asleep and receives +70% increased damage while sleeping. (A sleeping target cannot gain mana or attack. The sleeping target is woken once it takes damage. This excludes damage from Minions, Fiends, Mega Minions and Mega Fiends. This effect is uncleansable.)",
             "All allies regenerate 1200 HP over 4 turns."
         ]
     },
@@ -6565,9 +6565,9 @@ const allTranslations =
         "heroId": "owl_verus",
         "name": "Verus",
         "effects": [
-            "Attacks all enemies with Moonrise Strike, dealing up to 1200 damage. Deals 40% more damage if the target is Holy.",
+            "Attacks all enemies with Moonrise Strike, dealing up to 1200 damage. Deals 40% more damage if the target is Holy. This Special Skill never misses its targets.",
             "All enemies receive 924 Bleed damage over 4 turns.",
-            "All enemies get -45% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills."
+            "All enemies get -45% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)"
         ]
     },
     {
@@ -6684,10 +6684,10 @@ const allTranslations =
         "heroId": "forest_god_zeline",
         "name": "Zeline",
         "effects": [
-            "Deals 255% damage to all enemies",
-            "All enemies get -34% attack for 4 turns",
-            "Deals extra damage against Ice",
-            "Dispels buffs from all enemies",
+            "Deals 255% damage to all enemies.",
+            "All enemies get -34% attack for 4 turns.",
+            "Deals extra damage against Ice.",
+            "Dispels buffs from all enemies.",
             "Elemental Link gives +10% mana generation for all Nature allies for 4 turns. This effect can't be dispelled."
         ]
     },
@@ -6729,7 +6729,7 @@ const allTranslations =
         "name": "Zuni",
         "effects": [
             "Deals 300% damage to the target.",
-            "If the target is of Ice element, deals 275% damage to all other enemes.",
+            "If the target is of Ice element, deals 275% damage to all other enemies.",
             "Hit enemies get -34% attack for 3 turns. Against Ice characters, this status effect becomes uncleasable and lasts 2 turns longer.",
             "Hit enemies get -34% defense for 3 turns. Against Ice characters, this status effect becomes uncleasable and lasts 2 turns longer."
         ]
@@ -6985,7 +6985,7 @@ const allTranslations =
         "name": "Oberon",
         "effects": [
             "Deals 121% damage to all enemies.",
-            "All enemies receive 102 damage over 6 turns."
+            "All enemies receive 96 Poison damage over 6 turns."
         ]
     },
     {
@@ -7360,7 +7360,7 @@ const allTranslations =
         "heroId": "journey_heifeng_guai",
         "name": "Heifeng Guai",
         "effects": [
-            "Deals 285% damage to target",
+            "Deals 285% damage to target.",
             "The duration of dispellable status ailments is reset for the target.",
             "The target gets -35% defense for 3 turns."
         ]
@@ -7868,10 +7868,7 @@ const allTranslations =
         "effects": [
             "Recover 32% health for all allies.",
             "Steals all dispellable buffs from the target and randomly distributes them on allies.",
-            "The target falls asleep.",
-            "While asleep, the target can't attack or gain mana.",
-            "All damage dealt to the sleeping target is increased by +50%.",
-            "The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends.",
+            "The target falls asleep and receives +50% increased damage while sleeping. (A sleeping character cannot gain mana or attack. The sleeping target is woken once it takes damage. This excludes damage from Minions, Fiends, Mega Minions and Mega Fiends. This effect is uncleansable)",
             "Elemental Link gives all Dark allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
     },
@@ -8001,7 +7998,7 @@ const allTranslations =
             "Recovers 42% health for all allies.",
             "All allies recover additional 8% health for each Fiend owned by the allies.",
             "All allies get +54% attack for 4 turns.",
-            "All allies are immune to buff dispels and reallocations for 4 turns. The immunity also includes this effect itself."
+            "All allies are immune to buff dispels and reallocations for 4 turns. (The immunity also includes this effect itself.)"
         ]
     },
     {
@@ -8009,8 +8006,8 @@ const allTranslations =
         "name": "Bera",
         "effects": [
             "Summons a Moth Minion for each ally. The Moth Minion inherits 20% HP and 20% attack from the caster.",
-            "Each hit from a Moth Minon gives the target the following status ailments:",
-            "* The target receives 207 Poison damage over 3 turns.",
+            "Each hit from a Moth Minion gives the target the following status ailments:",
+            "* The target receives 180 Poison damage over 3 turns.",
             "* The target resists new Minions for 3 turns."
         ]
     },
@@ -8466,9 +8463,9 @@ const allTranslations =
         "heroId": "guardian_cat_warrior",
         "name": "Guardian Panther",
         "effects": [
-            "Deals 210% damage to the target and nearby enemies",
-            "The target and nearby enemies get -54% defense against Dark for 4 turns",
-            "Dispels buffs from the target and nearby enemies"
+            "Deals 210% damage to the target and nearby enemies.",
+            "The target and nearby enemies get -54% defense against Dark for 4 turns.",
+            "Dispels buffs from the target and nearby enemies."
         ]
     },
     {
@@ -8539,10 +8536,10 @@ const allTranslations =
         "heroId": "dark_god_hel",
         "name": "Hel",
         "effects": [
-            "Deals 375% damage to the target and minor damage to nearby enemies",
-            "The target and nearby enemies can't gain mana for 4 turns",
-            "Deals extra damage against Holy",
-            "Elemental Link gives all Dark allies +15% attack and +15% defense for 6 turns. This effect can't be displelled."
+            "Deals 375% damage to the target and minor damage to nearby enemies.",
+            "The target and nearby enemies can't gain mana for 4 turns.",
+            "Deals extra damage against Holy.",
+            "Elemental Link gives all Dark allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -8757,7 +8754,7 @@ const allTranslations =
         "name": "Khiona",
         "effects": [
             "Deals 422% damage to the target",
-            "The caster and nearby allies get +45% attack, and a further 20% increase every time they are hit during 3 turns.",
+            "The caster and nearby allies get +45% attack, and a further 20% increase every time they are hit during 3 turns, up to +145% attack.",
             "Element Link recovers 4% health for all Dark allies for 6 turns. This effect can't be cleansed"
         ]
     },
@@ -8848,9 +8845,7 @@ const allTranslations =
             "Deals 158% damage to the target.",
             "Cast Full Removal on the target. (Full Removal removes all status efects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleasable.)",
             "The target shifts into Abyss Ghost form for 4 turns.",
-            "While in Abyss Ghost form the target receives 88 damage each turn.",
-            "While in Ghost form, Character can't gain mana and can't be healed by Special Skills, but it is immune to normal attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.",
-            "Can't be cast if there's only one enemy left in battle."
+            "While in Abyss Ghost form the target receives 88 damage each turn. (While in Ghost form, Character can't gain mana and can't be healed by Special Skills, but it is immune to normal attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects. Can't be cast if there's only one enemy left in battle. Titans and Mythic Titans are not affected by this status effect.)"
         ]
     },
     {
@@ -8928,7 +8923,7 @@ const allTranslations =
         "name": "Lucinda",
         "effects": [
             "Deals 470% damage to target and nearby enemies.",
-            "The target and nearby enemies get -40% accuracy for 6 turns. Chance to miss also applies to offensive Special Skills.",
+            "The target and nearby enemies get -40% accuracy for 6 turns. (Chance to miss also applies to offensive Special Skills.)",
             "The target and nearby enemies get -34% defense for 6 turns.",
             "The caster regenerates 918 HP over 6 turns."
         ]
@@ -9261,9 +9256,8 @@ const allTranslations =
         "heroId": "owl_ommodus",
         "name": "Ommodus",
         "effects": [
-            "Destroys all Fiends from all allies. This effect damages Mega Fiends.",
-            "This Special Skill never misses its targets.",
-            "Attacks all enemies with Moonrise Strike, dealing up to 2000 damage. Deals 40% more damage if the target is Holy.",
+            "Destroys all Fiends from all allies and damages all Mega Fiends.",
+            "Attacks all enemies with Moonrise Strike, dealing up to 2000 damage. Deals 40% more damage if the target is Holy. This Special Skill never misses its targets.",
             "All allies get 5% mana for each destroyed Fiend."
         ]
     },
@@ -9448,7 +9442,7 @@ const allTranslations =
         "name": "Rochefort",
         "effects": [
             "Deals 565% damage to the target and minor damage to nearby enemies.",
-            "If the targets is defeated in 3 turns all enemies receive 626 damage."
+            "If the target is defeated in 3 turns, all enemies receive 626 damage."
         ]
     },
     {
@@ -9475,7 +9469,7 @@ const allTranslations =
         "heroId": "pirate_dread_captain",
         "name": "Sargasso",
         "effects": [
-            "Deals 415% damage to the target and minor damage to nearby enemies",
+            "Deals 415% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies get -90% increase for any healing received for 4 turns."
         ]
     },
@@ -9493,7 +9487,7 @@ const allTranslations =
         "name": "Sartana",
         "effects": [
             "Deals 452% damage to the target.",
-            "The target receives 306 Poison damage over 6 turns."
+            "The target receives 294 Poison damage over 6 turns."
         ]
     },
     {
@@ -9750,8 +9744,8 @@ const allTranslations =
         "name": "Tenebrae",
         "effects": [
             "Deals 395% damage to the target.",
-            "The target get Soul Bound for 3 turns. This effect can't be cleansed. This effect will always bypass reflection.",
-            "All damage received by the caster is also dealt to all Soul Bound Enemies. Damage is shared between all Soul Bound enemies. This effect will not share damage coming from other shared damage sources or counterattacks."
+            "The target get Soul Bound for 3 turns. This effect can't be cleansed. (This effect will always bypass reflection.)",
+            "All damage received by the caster is also dealt to all Soul Bound Enemies. (Damage is shared between all Soul Bound enemies. This effect will not share damage coming from other shared damage sources or counterattacks.)"
         ]
     },
     {
@@ -9965,7 +9959,7 @@ const allTranslations =
         "name": "Victor",
         "effects": [
             "Deals 250% damage to the target.",
-            "The target receives 510 Surge Bleed over 5 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 455, up to 1410 damage in total.",
+            "The target receives 510 Surge Bleed over 5 turns. (If a target already has this effect, the duration will be refreshed and the damage will be increased by 455, up to 1410 damage in total.)",
             "The caster steals 75% of any healing applied to the target for 5 turns.",
             "All allies get +30% defense for 5 turns."
         ]
@@ -10365,7 +10359,7 @@ const allTranslations =
         "name": "Jahangir",
         "effects": [
             "Deals 145% damage to all enemies.",
-            "All enemies receive 120 damage over 6 turns."
+            "All enemies receive 114 Burn damage over 6 turns."
         ]
     },
     {
@@ -10445,7 +10439,7 @@ const allTranslations =
         "name": "Nashgar",
         "effects": [
             "Deals 290% damage to the target.",
-            "The target receives 126 Burn damage over 6 turns."
+            "The target receives 120 Burn damage over 6 turns."
         ]
     },
     {
@@ -10694,7 +10688,7 @@ const allTranslations =
         "name": "Colen",
         "effects": [
             "Deals 180% damage to all enemies.",
-            "All enemies receive 348 damage over 6 turns."
+            "All enemies receive 330 Burn damage over 6 turns."
         ]
     },
     {
@@ -10760,8 +10754,8 @@ const allTranslations =
         "heroId": "orc_troopmaster",
         "name": "Gormek",
         "effects": [
-            "Deals 295% damage to the target and minor damage on nearby enemies.",
-            "The target an nearby enemies get -34% defense for 6 turns."
+            "Deals 295% damage to the target and minor damage to nearby enemies.",
+            "The target and nearby enemies get -34% defense for 6 turns."
         ]
     },
     {
@@ -10846,7 +10840,7 @@ const allTranslations =
         "name": "Kelile",
         "effects": [
             "Deals 320% damage to the target.",
-            "The target receives 414 damage over 6 turns."
+            "The target receives 360 Burn damage over 6 turns."
         ]
     },
     {
@@ -11216,7 +11210,7 @@ const allTranslations =
             "Deals 250% damage to the target and nearby enemies.",
             "All allies recover 10% health for each destroyed Minion.",
             "All allies get 3% mana for each destroyed Minion.",
-            "The attack bypasses defensive buffs. This includes counterattacks."
+            "The attack bypasses defensive buffs. (This includes counterattacks.)"
         ]
     },
     {
@@ -11264,9 +11258,9 @@ const allTranslations =
         "heroId": "fire_god_anzogh",
         "name": "Anzogh",
         "effects": [
-            "Deals 280% damage to all enemies",
-            "Heals each ally with 35% of total damage dealt",
-            "Element Link gives all Fire allies +46% defense against Ice for 4 turns. This effect can't be cleansed"
+            "Deals 280% damage to all enemies.",
+            "Heals each ally with 35% of total damage dealt.",
+            "Element Link gives all Fire allies +46% defense against Ice for 4 turns. This effect can't be cleansed."
         ]
     },
     {
@@ -11524,9 +11518,9 @@ const allTranslations =
         "heroId": "knights_black_knight",
         "name": "Black Knight",
         "effects": [
-            "The caster has a 50% chance to drop any received damage to 1 for 3 turns",
+            "The caster has a 50% chance to drop any received damage to 1 for 3 turns.",
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns.",
-            "All allies get +45% attack, and a further 20% increase every time they are hit during 3 turns"
+            "All allies get +45% attack, and a further 20% increase every time they are hit during 3 turns."
         ]
     },
     {
@@ -11571,8 +11565,8 @@ const allTranslations =
         "heroId": "pirate_swashbuckler",
         "name": "Captain Kestrel",
         "effects": [
-            "Deals 215% damage to the target and nearby enemies",
-            "The more mana enemies have, the more damage they will receive, up to 335%"
+            "Deals 215% damage to the target and nearby enemies.",
+            "The more mana enemies have, the more damage they will receive, up to 335%."
         ]
     },
     {
@@ -11755,7 +11749,7 @@ const allTranslations =
             "Dispels buffs from the target.",
             "Blocks Talent Skill activation for the target.",
             "Deals 485% damage to the target.",
-            "The target cannot cast any new status effects on enemies or allies for 3 turns. This includes stacks. This only includes status effects cast with Special Skills."
+            "The target cannot cast any new status effects on enemies or allies for 3 turns. (This includes stacks. This only includes status effects cast with Special Skills.)"
         ]
     },
     {
@@ -12064,7 +12058,7 @@ const allTranslations =
         "heroId": "owl_fulvia",
         "name": "Fulvia",
         "effects": [
-            "Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1440 damage. Deals 40% more damage if the target is Holy.",
+            "Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1440 damage. Deals 40% more damage if the target is Holy. This Special Skill never misses its targets.",
             "For 3 turns, reduces the mana of the target and nearby enemies by -15% at the end of turn.",
             "The target and nearby enemies get -50% decrease for any healing received for 3 turns."
         ]
@@ -12182,7 +12176,7 @@ const allTranslations =
         "heroId": "fire_god_nadnog",
         "name": "Grazul",
         "effects": [
-            "Recovers 23% health for all allies",
+            "Recovers 23% health for all allies.",
             "All allies are immune to new status ailments for 2 turns.",
             "Element Link gives +4% mana regeneration for all Fire allies for 4 turns. This effect can't be dispelled."
         ]
@@ -12551,7 +12545,7 @@ const allTranslations =
         "heroId": "owl_lodius",
         "name": "Lodius",
         "effects": [
-            "Attacks the target with Moonrise Strike, dealing up to 2200 damage. Deals 40% more damage if the target is Holy.",
+            "Attacks the target with Moonrise Strike, dealing up to 2200 damage. Deals 40% more damage if the target is Holy. This Special Skill never misses its targets.",
             "If the target is defeated by the attack, then nearby enemies are unable to gain any mana for 3 turns.",
             "All allies counterattack with 60% of the damage received for 3 turns."
         ]
@@ -12717,10 +12711,10 @@ const allTranslations =
         "heroId": "fire_god_natalya",
         "name": "Natalya",
         "effects": [
-            "The target receives 1020 Burn damage over 4 turns. This effect can't be cleansed.",
+            "The target receives 1016 Burn damage over 4 turns. This effect can't be cleansed.",
             "The target gets -54% mana generation for 4 turns. This effect can't be cleansed.",
             "Deals extra damage against Nature.",
-            "Elemental Link gives +10% mana generation to all Fire allies for 4 turns. This effect can't be displelled."
+            "Elemental Link gives +10% mana generation to all Fire allies for 4 turns. This effect can't be dispelled."
         ]
     },
     {
@@ -12759,7 +12753,7 @@ const allTranslations =
         "effects": [
             "This Special Skill never misses its targets.",
             "Deals 430% damage to all enemies.",
-            "Heal all allies who have less than 60% HP left. Fire allies are healed to 75% health, and other allies to 60% health."
+            "Heal all allies who have less than 60% HP left. Fire allies are healed to 75% health, and other allies to 60% health. (Ignores heal steal, healing modifiers and Fiends.)"
         ]
     },
     {
@@ -13345,7 +13339,7 @@ const allTranslations =
         "heroId": "castle_bear_torben",
         "name": "Torben",
         "effects": [
-            "The target receives 80% damage for all the damage their allies receive for 3 turns.",
+            "For 3 turns, the target receives 80% damage for all the damage dealt to their allies.",
             "The target get -44% defense for 3 turns.",
             "Deals 200% damage to the target and nearby enemies."
         ]
@@ -14808,12 +14802,15 @@ const allTranslations =
         "name": "Christine Daae",
         "effects": [
             "Deals 355% damage to the target and nearby enemies.",
-            "The target and nearby enemies dance to Ballad of Passion for 3 turns. All existing status effects will be removed when this effect is added.",
-            "Ballad of Passion",
-            "* -40% acuracy.",
+            "The target and nearby enemies dance to Ballad of Passion for 3 turns.",
+            "Ballad of Passion:",
+            "* -40% accuracy.",
             "* -40% defense.",
-            "* Gives immunity to new status effects. New dance status effects will replace this effect.",
-            "* This effect cannot be dispelled. The effect is removed when the caster dies."
+            "Additional Info:",
+            "* Chance to miss also applies to offensive Special Skills.",
+            "* All existing status effects will be removed when a dance status effect is added.",
+            "* Dance gives immunity to new status effects. New dance status effects will replace this effect.",
+            "* Dance effect cannot be dispelled. The effect is removed when the caster is defeated."
         ]
     },
     {
@@ -14853,8 +14850,8 @@ const allTranslations =
         "heroId": "holy_god_delilah",
         "name": "Delilah",
         "effects": [
-            "Recovers 42% health for all allies",
-            "Summons a Guardian Minion for each ally with 20% HP and 20% attack inherited from the caster",
+            "Recovers 42% health for all allies.",
+            "Summons a Guardian Minion for each ally with 20% HP and 20% attack inherited from the caster.",
             "Elemental Link gives +10% mana generation for all Holy allies for 4 turns. This effect can't be dispelled."
         ]
     },
@@ -15021,7 +15018,7 @@ const allTranslations =
         "heroId": "circus_faline",
         "name": "Faline",
         "effects": [
-            "Deals 330% daamage to the target and nearby enemies.",
+            "Deals 330% damage to the target and nearby enemies.",
             "The hit enemy with the fastest base mana speed gets -64% mana generation for 3 turns."
         ]
     },
@@ -15126,9 +15123,9 @@ const allTranslations =
         "heroId": "lunar_new_year_gongniu",
         "name": "Gongniu",
         "effects": [
-            "All allies get +54% defense, and a further +5% increase every time they are hit during 3 turns.",
+            "All allies get +54% defense, and a further +5% increase every time they are hit during 3 turns, up to +79% defense.",
             "All allies recover 1000 health after 3 turns. If the effect is removed or replaced before the duration ends, recovers 1400 health instead.",
-            "All allies gain 25% mana after 3 turns.If the effect is removed or replaced before the duration ends, gains 35% mana instead. (This effect cannot replaced with itself.)"
+            "All allies gain 25% mana after 3 turns. If the effect is removed or replaced before the duration ends, gains 35% mana instead. (This effect cannot replaced with itself.)"
         ]
     },
     {
@@ -15197,7 +15194,7 @@ const allTranslations =
         "name": "Guardian Owl",
         "effects": [
             "Deals 300% damage to all enemies.",
-            "Damage is increased by 60% per each dead ally (max damage 540%).",
+            "The damage is increased by 60% per each defeated ally.",
             "The caster gets +46% defense for 5 turns.",
             "The caster regenerates 915 HP over 5 turns."
         ]
@@ -15550,6 +15547,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "slime_justico",
+        "name": "Justico",
+        "effects": [
+            "Deals 350% damage to all enemies.",
+            "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
+            "The caster receive Slime Revive status effect for 4 turns. This effect can't be dispelled.",
+            "If defeated while Slime Revive is active, the caster will be reborn as a Slime."
+        ]
+    },
+    {
         "heroId": "holy_god_kara",
         "name": "Kara",
         "effects": [
@@ -15643,10 +15650,10 @@ const allTranslations =
         "heroId": "champions_lazara",
         "name": "Lazara",
         "effects": [
-            "Cleanses status ailments from all allies without triggering secondary effects.",
+            "Safely cleanses status ailments from all allies.",
             "Deals 325% damage to all enemies.",
             "All enemies get -50% decrease for any healing received for 4 turns.",
-            "All enemies can't get their status ailments cleansed or reallocated by Special Skills for 4 turns. (This effect also prevents cleansing and reallocating of itself."
+            "All enemies can't get their status ailments cleansed or reallocated by Special Skills for 4 turns. (This effect also prevents cleansing and reallocating of itself.)"
         ]
     },
     {
@@ -15721,9 +15728,9 @@ const allTranslations =
         "name": "Livia",
         "effects": [
             "Lifts all cleansable status ailments from the caster and nearby allies and randomly distributes them on enemies.",
-            "The caster and nearby allies get Moonrise Ward for 4 turns, that reduces incoming Special Skill damage by -1320. Reduces damage by additional 30% when attack is Holy.",
+            "The caster and nearby allies get Moonrise Ward for 4 turns, that reduces incoming Special Skill damage by -1320. Reduces damage by additional 30% when attacker is of the  Holy element.",
             "The caster and nearby allies regenerate 1800 HP over 4 turns.",
-            "The caster and nearby allies reflect status ailments and negative stacks for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected."
+            "The caster and nearby allies reflect status ailments and negative stacks for 4 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)"
         ]
     },
     {
@@ -15970,7 +15977,7 @@ const allTranslations =
         "heroId": "bard_ogima",
         "name": "Ogima",
         "effects": [
-            "Destroys all Minions for all enemies and damages all Mega Minions.",
+            "Destroys all Minions for all enemies and damages Mega Minions.",
             "Deals 275% damage to all enemies.",
             "Deals additional 30% damage to all enemies for each Minion destroyed.",
             "Stack (Max: 10): All enemies get -7% mana generation for each destroyed Minion."
@@ -16001,7 +16008,8 @@ const allTranslations =
         "heroId": "s5_papyros",
         "name": "Papyros",
         "effects": [
-            "Sand Golem Minion has 14% HP and 18% attack inherited from the caster. Each time the Sand Golem Minion is attacked by normal attacks or Special Skills, the attacker receives 294 Sand damage over 3 turns.",
+            "Summons a Sand Golem Minion for each ally with 14% HP and 18% attack inherited from the caster.",
+            "Each time the Sand Golem Minion is attacked by normal attacks or Special Skills, the attacker receives 294 Sand damage over 3 turns.",
             "All allies get +30% defense for 3 turns."
         ]
     },
@@ -16113,7 +16121,7 @@ const allTranslations =
         "name": "Queen Guowang",
         "effects": [
             "Deals 330% damage to all enemies.",
-            "All allies get +10% mana every time an enemy uses their Special Skill during 4 turns. Mana is received at the end of a Special Skill. Mana will not be received if this status effect is removed during a Special Skill",
+            "All allies get 10% mana every time an enemy uses their Special Skill during 4 turns. (Mana is received at the end of a Special Skill. Mana will not be received if this status effect is removed during a Special Skill.)",
             "The caster gets Vengeance for 4 turns. If Vengeance is dispelled by an enemy's Special Skill, all enemies receive 525 damage."
         ]
     },
@@ -16122,7 +16130,7 @@ const allTranslations =
         "name": "Rana",
         "effects": [
             "Deals 185% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 423 damage over 3 turns.",
+            "The target and nearby enemies receive 402 Sand damage over 3 turns.",
             "The target and nearby enemies get -75% increase for any healing received for 2 turns. This effect can't be cleansed.",
             "Cleanses status ailments from the caster."
         ]
@@ -16413,7 +16421,7 @@ const allTranslations =
         "effects": [
             "Deals 635% damage to the target",
             "Damage bypasses target's Minions.",
-            "All enemies who own a Minion or a fiend receive 420 Sand damage over 3 turns.",
+            "All enemies who own a Minion or a Fiend receive 420 Sand damage over 3 turns.",
             "Element Link summons a Holy Minion for all Holy allies with 6% HP and 10% attack inherited from the caster"
         ]
     },
@@ -16550,7 +16558,7 @@ const allTranslations =
         "name": "White Rabbit",
         "effects": [
             "Deals 280% Damage to the target and nearby enemies",
-            "Target gets -34% defense for 4 turns. The effect duration is reset if the target is healed. This effect can't be cleansed."
+            "The target gets -34% defense for 4 turns. The effect duration is reset if the target is healed. This effect can't be cleansed."
         ]
     },
     {
@@ -16582,7 +16590,7 @@ const allTranslations =
         "effects": [
             "Cleanses status ailments from all allies.",
             "Boosts health of all allies by 1200. Boosted health can exceed max HP.",
-            "All allies resists max health reduction for 5 turns.",
+            "All allies are immune to max health reduction for 5 turns.",
             "All allies get +60% defense as long as the caster has boosted health. This effect can't be cleansed."
         ]
     },
@@ -16750,11 +16758,6 @@ const allTranslations =
     {
         "heroId": "elemental_xavier_costume_arthropod",
         "name": "Xavier C1",
-        "effects": []
-    },
-    {
-        "heroId": "slime_justico",
-        "name": "Justico",
         "effects": []
     },
     {

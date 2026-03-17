@@ -53,7 +53,7 @@ const allTranslations =
         "heroId": "tales2_bryggvir",
         "name": "Bryggvir",
         "passives": [
-            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 153 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -446,7 +446,7 @@ const allTranslations =
         "heroId": "tales2_dain",
         "name": "Dain",
         "passives": [
-            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 193 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -485,7 +485,7 @@ const allTranslations =
         "heroId": "garrison_greg",
         "name": "Greg",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against Mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -608,7 +608,7 @@ const allTranslations =
         "heroId": "owl_olbec",
         "name": "Olbec",
         "passives": [
-            "Reduce Mana Gain from Special Skill: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -765,7 +765,7 @@ const allTranslations =
         "heroId": "ice_god_alexandrine",
         "name": "Alexandrine",
         "passives": [
-            "Resist Healing Ailments: This character has an innate resistance against status ailments that affect Healing.",
+            "Resist Healing Ailments: This character is immune to status ailments that affect healing.",
             "Health Recovery on Status Ailment Received: This character recovers 10% health when they receive a status ailment or a negative stack."
         ]
     },
@@ -778,8 +778,8 @@ const allTranslations =
         "heroId": "styx_amphitrite",
         "name": "Amphitrite",
         "passives": [
-            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
-            "Resist Defense Ailments: The character has innate resistance against status ailments that effect defense. Applies also to status ailment that affect elemental defense."
+            "Weaker Minions: Enemy Minions have -50% HP.",
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ]
     },
     {
@@ -795,7 +795,7 @@ const allTranslations =
         "heroId": "tales2_andvari",
         "name": "Andvari",
         "passives": [
-            "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 309 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -817,9 +817,9 @@ const allTranslations =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ]
     },
     {
@@ -837,8 +837,8 @@ const allTranslations =
         "heroId": "ice_god_areax",
         "name": "Areax",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
-            "Resist Water Damage: This character has innate resistance against Water damage."
+            "Resist Water: This character is immune to status ailments that deal Water damage.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills."
         ]
     },
     {
@@ -929,7 +929,7 @@ const allTranslations =
         "name": "Balur",
         "passives": [
             "Heal on Bleed: This character regenerates 50 HP each time an enemy receives Bleed damage.",
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack."
         ]
     },
     {
@@ -1005,7 +1005,7 @@ const allTranslations =
         "heroId": "garrison_caelen",
         "name": "Caelen",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -1036,9 +1036,9 @@ const allTranslations =
         "name": "Cao Cao C1",
         "passives": [
             "Unstoppable Minions:",
-            "* Resistance against Minion removal.",
+            "* Immune to effects that remove Minions.",
             "* Can't be prevented from receiving Minions.",
-            "* Minion attack and abilities can't be disabled."
+            "* Minion attacks and abilities can't be disabled."
         ]
     },
     {
@@ -1060,7 +1060,7 @@ const allTranslations =
         "heroId": "slayer_cathal",
         "name": "Cathal",
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects."
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
         ]
     },
     {
@@ -1068,14 +1068,14 @@ const allTranslations =
         "name": "Cel",
         "passives": [
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed.",
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ]
     },
     {
         "heroId": "bard_celimene",
         "name": "Celimene",
         "passives": [
-            "Attack Ailment Reduction: Reduces the effect of status ailments affecting attack by -80%. The effect applies to this character and its allies in the battle."
+            "Attack Ailment Reduction: Reduces the effect of status ailments affecting attack by 80%. The effect applies to this character and its allies in the battle."
         ]
     },
     {
@@ -1133,7 +1133,7 @@ const allTranslations =
         "heroId": "garrison_ciara",
         "name": "Ciara",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -1149,8 +1149,8 @@ const allTranslations =
         "heroId": "ice_god_claeg",
         "name": "Claeg",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
-            "Resist Burn: This character has innate resistance against Burn."
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
+            "Resist Burn: This character is immune to status ailments that deal Burn damage."
         ]
     },
     {
@@ -1270,7 +1270,7 @@ const allTranslations =
         "name": "Fergus",
         "passives": [
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Growth effects from all enemies."
         ]
     },
@@ -1290,7 +1290,7 @@ const allTranslations =
         "heroId": "ballerina_firmin",
         "name": "Firmin Richard",
         "passives": [
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.",
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack.",
             "Heal when status ailment expires or is cleared: This character receives 5% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ]
     },
@@ -1314,14 +1314,14 @@ const allTranslations =
         "heroId": "ice_god_frida",
         "name": "Frida",
         "passives": [
-            "Resist Attack Ailments: This character has an innate resistance against status ailments that affect Attack."
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack."
         ]
     },
     {
         "heroId": "ice_god_frosth",
         "name": "Frosth",
         "passives": [
-            "Resist Burn: This character has innate resistance against Burn.",
+            "Resist Burn: This character is immune to status ailments that deal Burn damage.",
             "Cleanse on Minion Death: This character is cleansed of status ailments when a Minion owned by them is destroyed."
         ]
     },
@@ -1329,7 +1329,7 @@ const allTranslations =
         "heroId": "garrison_frostsnout",
         "name": "Frostsnout",
         "passives": [
-            "Resist Mana Reduction: This character is immune to mana reductions.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -1344,11 +1344,11 @@ const allTranslations =
         "heroId": "construct_blue_mage",
         "name": "Ghealach",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Destructive Core: The Construct Core of this character is Destructive Core.",
             "The Destructive Core activates each time this character's Special Skill is cast",
             "* With fully charged Destructive Core, deals 180% damage to all enemies.",
-            "* The damage is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
+            "* The damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -1383,15 +1383,15 @@ const allTranslations =
         "heroId": "ice_god_callum",
         "name": "Gladius",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
-            "Mana on Enemy Defensive Buffs: This character gains 10% mana when any enemy receives a defenseive buff."
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
+            "Mana on Enemy Defensive Buff: This character gains 10% mana when an enemy receives a status effect buff that affects defense. This effect can activate only once per turn."
         ]
     },
     {
         "heroId": "ice_god_glenda",
         "name": "Glenda",
         "passives": [
-            "Resist Buff Immunity: This character has innate resistance against status ailments that give immunity to new buffs."
+            "Resist Buff Blocking: This character is immune to effects that would block them from receiving new status effect buffs."
         ]
     },
     {
@@ -1461,7 +1461,7 @@ const allTranslations =
         "heroId": "tales2_hogne",
         "name": "Hogne",
         "passives": [
-            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 315 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -1499,7 +1499,7 @@ const allTranslations =
         "heroId": "ice_god_iris",
         "name": "Iris",
         "passives": [
-            "Resist Burn: This character has innate resistance against Burn.",
+            "Resist Burn: This character is immune to status ailments that deal Burn damage.",
             "Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled from this character. This effect can activate only once per turn."
         ]
     },
@@ -1547,9 +1547,9 @@ const allTranslations =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ]
     },
     {
@@ -1601,8 +1601,8 @@ const allTranslations =
         "heroId": "ice_god_klaern",
         "name": "Klaern",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
-            "Resist Mana Reduction: This character has innate resistance against mana reduction."
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skill.",
+            "Resist Mana Reduction: This character is immune to mana reductions."
         ]
     },
     {
@@ -1683,7 +1683,7 @@ const allTranslations =
         "heroId": "castle_stag_lysanor",
         "name": "Lysanor",
         "passives": [
-            "Mana on Buff Received: Gain 5% mana when receiving a buff or a positive stack.",
+            "Mana on Buff Received: This character gains 5% mana when receiving a buff or a positive stack.",
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ]
     },
@@ -1735,7 +1735,7 @@ const allTranslations =
         "heroId": "owl_mariol",
         "name": "Mariol",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -1759,7 +1759,7 @@ const allTranslations =
         "heroId": "ice_god_mene",
         "name": "Mene",
         "passives": [
-            "Resist Burn: This character has innate resistance against Burn.",
+            "Resist Burn: This character is immune to status ailments that deal Burn damage.",
             "Mana on Frost: This character gains 5% mana each time an enemy receives Frost damage."
         ]
     },
@@ -1767,7 +1767,7 @@ const allTranslations =
         "heroId": "ice_god_miki",
         "name": "Miki",
         "passives": [
-            "Resist Special Skill Blocking: This character has an innate resistance against status aliments that Block Special Skills."
+            "Resist Special Skill Blocking: This character has is immune to status ailments that prevent the use of Special Skill."
         ]
     },
     {
@@ -1828,14 +1828,14 @@ const allTranslations =
         "passives": [
             "Mana Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.",
             "Damage on Enemy Special: If a target is Average mana speed or faster casts a Special Skill, all enemies receive 100 damage. This effect can activate only once per turn.",
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack."
         ]
     },
     {
         "heroId": "beachparty_misty",
         "name": "Misty",
         "passives": [
-            "Resist Water Damage: This character has innate resistance against Water Damage.",
+            "Resist Water: This character is immune to status ailments that deal Water damage.",
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 210 Water damage over 2 turns."
         ]
     },
@@ -1887,10 +1887,10 @@ const allTranslations =
         "heroId": "construct_nautica",
         "name": "Nautica",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character has is immune to status ailments that prevent the use of Special Skill.",
             "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
             "* With fully charged Repair Core, boosts the health of all allies by 25%.",
-            "* The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
+            "* The healing is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -1898,7 +1898,7 @@ const allTranslations =
         "name": "Nerasis",
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its target.",
-            "Resist Burn: This character has innate resistance against Burn."
+            "Resist Burn: This character is immune to status ailments that deal Burn damage."
         ]
     },
     {
@@ -1933,7 +1933,7 @@ const allTranslations =
         "name": "Odette",
         "passives": [
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Doesn't apply to status ailments that affect elemental defense."
+            "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense."
         ]
     },
     {
@@ -1995,7 +1995,7 @@ const allTranslations =
         "heroId": "gargoyle_pophit",
         "name": "Pophit",
         "passives": [
-            "Gargoyle's Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 5 times they receive damage, it is reduced by -90%. They are also immune to all status ailments, mana reductions and Insanity. This effect can't be dispelled."
+            "Gargoyle's Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 3 times they receive damage, it is reduced by -90%. They are also immune to all status ailments, mana reductions and Insanity. This effect can't be dispelled."
         ]
     },
     {
@@ -2028,9 +2028,9 @@ const allTranslations =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ]
     },
     {
@@ -2042,14 +2042,14 @@ const allTranslations =
         "heroId": "ice_god_raffaele",
         "name": "Raffaele",
         "passives": [
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect Attack."
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack."
         ]
     },
     {
         "heroId": "slayer_rian",
         "name": "Rian",
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects."
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
         ]
     },
     {
@@ -2136,7 +2136,7 @@ const allTranslations =
         "heroId": "champions_satori",
         "name": "Satori",
         "passives": [
-            "Mana Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.",
+            "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.",
             "Health Boost on Buff Dispel: This character receives 450 boosted health each time a buff is dispelled from this character. This effect can activate only once per turn.",
             "Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled from them. This effect can activate only once per turn."
         ]
@@ -2253,15 +2253,15 @@ const allTranslations =
         "heroId": "astral_starwalker",
         "name": "Starwalker",
         "passives": [
-            "Share Received Damage: 20% of damage received by this character is shared with other allies.",
-            "Resist Poison: This character has innate resistance against Poison."
+            "Resist Poison: This character is immune to status ailments that deal Poison damage.",
+            "Share Received Damage: 20% of damage received by this character is shared with other allies."
         ]
     },
     {
         "heroId": "ice_god_suzuna",
         "name": "Suzuna",
         "passives": [
-            "Resist Healing Ailments: This character has innate resistance against status ailments that affect healing.",
+            "Resist Healing Ailments: This character is immune to status ailments that affect healing.",
             "Resist Fiends: This character can't receive Fiends."
         ]
     },
@@ -2269,7 +2269,7 @@ const allTranslations =
         "heroId": "tales2_svafa",
         "name": "Svafa",
         "passives": [
-            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 346 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -2298,8 +2298,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
-            "* All allies get +21% critical chance for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "* All allies get +21% critical chance for 2 turns."
         ]
     },
     {
@@ -2316,8 +2315,8 @@ const allTranslations =
         "heroId": "styx_thanatos",
         "name": "Thanatos",
         "passives": [
-            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
+            "Weaker Minions: Enemy Minions have -50% HP.",
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ]
     },
     {
@@ -2358,7 +2357,7 @@ const allTranslations =
         "heroId": "owl_timius",
         "name": "Timius",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -2370,8 +2369,8 @@ const allTranslations =
         "heroId": "monster_hunter_tremor",
         "name": "Tremor",
         "passives": [
-            "Damage over time on special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
-            "Hunter's Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack."
+            "Hunter's Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack.",
+            "Damage over time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -2417,7 +2416,7 @@ const allTranslations =
         "heroId": "ice_god_vela",
         "name": "Vela",
         "passives": [
-            "Resist Negative Minion Effects: This character has an innate resistance against incoming negative effects and damage from Minions."
+            "Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions."
         ]
     },
     {
@@ -2496,9 +2495,9 @@ const allTranslations =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ]
     },
     {
@@ -2726,7 +2725,7 @@ const allTranslations =
         "heroId": "owl_featherino",
         "name": "Featherino",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -2911,7 +2910,7 @@ const allTranslations =
         "heroId": "garrison_william",
         "name": "William",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -3340,7 +3339,7 @@ const allTranslations =
         "heroId": "tales2_snorri",
         "name": "Snorri",
         "passives": [
-            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted heath and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 209 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -3428,7 +3427,7 @@ const allTranslations =
         "heroId": "garrison_archibald",
         "name": "Archibald",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Growth effects from all enemies."
         ]
     },
@@ -3453,7 +3452,7 @@ const allTranslations =
         "heroId": "ballerina_armand",
         "name": "Armand Moncharmin",
         "passives": [
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.",
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack.",
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ]
     },
@@ -3519,14 +3518,17 @@ const allTranslations =
         "heroId": "nature_god_balbar",
         "name": "Balbar",
         "passives": [
-            "Resist buff immunity: This character has innate resistance against status ailments that give immunity to new buffs.",
+            "Resist Buff Blocking: This character is immune to effects that would block them from receiving new status effect buffs.",
             "Health recovery on buff received: This character recovers 5% health when they receive a buff or a positive stack."
         ]
     },
     {
         "heroId": "nature_god_bertila",
         "name": "Bertila",
-        "passives": []
+        "passives": [
+            "Resist Blind: This character is immune to status ailments that affect accuracy. Doesn't apply to original status effects from allies.",
+            "Mana on Minion Death: This character gains a small amount of mana when a Minion owned by them is destroyed."
+        ]
     },
     {
         "heroId": "nature_god_bo_and_runt",
@@ -3624,8 +3626,8 @@ const allTranslations =
         "heroId": "nature_god_cinisia",
         "name": "Cinisia",
         "passives": [
-            "Increased Attack Per Non-Nature Enemy: At the start of the battle, this character's attack is increased by 5% for enemy that is not of Nature element. In battles with multiple waves, this effect is refreshed at the beginning of each wave.",
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack.",
+            "Increased Attack Per Non-Nature Enemy: At the start of the battle, this character's attack is increased by 5% for enemy that is not of Nature element. In battles with multiple waves, this effect is refreshed at the beginning of each wave."
         ]
     },
     {
@@ -3688,7 +3690,7 @@ const allTranslations =
         "heroId": "tales2_dagr",
         "name": "Dagr",
         "passives": [
-            "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 330 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -3698,7 +3700,7 @@ const allTranslations =
         "heroId": "ballerina_daroga",
         "name": "Daroga",
         "passives": [
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.",
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack.",
             "Heal when status ailment expires or is cleared: This character receives 5% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ]
     },
@@ -3835,7 +3837,7 @@ const allTranslations =
         "heroId": "forest_god_elradir",
         "name": "Elradir",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that Block Special Skills.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack."
         ]
     },
@@ -3902,7 +3904,7 @@ const allTranslations =
         "heroId": "tales2_fafnir",
         "name": "Fafnir",
         "passives": [
-            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted heath and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 337 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -3912,17 +3914,17 @@ const allTranslations =
         "heroId": "masquerade_februus",
         "name": "Februus",
         "passives": [
-            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed.",
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
+            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed."
         ]
     },
     {
         "heroId": "construct_ferrus",
         "name": "Ferrus",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skill.",
             "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast:",
-            "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 128 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 128 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
@@ -3983,10 +3985,10 @@ const allTranslations =
         "heroId": "construct_frond",
         "name": "Frond",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character's Special Skill is cast:",
             "* With fully charged Destructive Core, deals 180% damage to all enemies.",
-            "* The damage is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
+            "* The damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -4003,8 +4005,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
-            "* All allies get +21% critical chance for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "* All allies get +21% critical chance for 2 turns."
         ]
     },
     {
@@ -4074,7 +4075,7 @@ const allTranslations =
         "heroId": "garrison_godfrey",
         "name": "Godfrey",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -4090,7 +4091,7 @@ const allTranslations =
         "heroId": "forest_god_grace",
         "name": "Grace",
         "passives": [
-            "Resist Burn: This character has innate resistance against Burn.",
+            "Resist Burn: This character is immune to status ailments that deal Burn damage.",
             "Mana on Taunt: Each time an enemy receives a Taunt status effect this character's mana is increased by 10%."
         ]
     },
@@ -4137,9 +4138,9 @@ const allTranslations =
         "name": "Guan Yu C1",
         "passives": [
             "Unstoppable Minions:",
-            "* Resistance against Minion removal.",
+            "* Immune to effects that remove Minions.",
             "* Can't be prevented from receiving Minions.",
-            "* Minion attack and abilities can't be disabled."
+            "* Minion attacks and abilities can't be disabled."
         ]
     },
     {
@@ -4159,10 +4160,10 @@ const allTranslations =
         "heroId": "construct_haulstone",
         "name": "Haulstone",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skill.",
             "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
             "* With fully charged Repair Core, boosts the health of all allies by 25%.",
-            "* The healing is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
+            "* The healing is scaled by the amount of charge in the Core, All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -4302,14 +4303,14 @@ const allTranslations =
         "heroId": "forest_god_kingston",
         "name": "Kingston",
         "passives": [
-            "Resist Burn: The character has an innate resistance against Burn."
+            "Resist Burn: This character is immune to status ailments that deal Burn damage."
         ]
     },
     {
         "heroId": "garrison_kolya",
         "name": "Kolya",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -4348,7 +4349,7 @@ const allTranslations =
         "heroId": "nature_god_leadria",
         "name": "Leadria",
         "passives": [
-            "Resist Max Health Reduction: This character has innate resistance against max health reduction.",
+            "Resist Max Health Reduction: This character is immune to max health reduction.",
             "Boosted Health From Dead Minion: This character recovers 50 boosted health when a minion owned by them is destroyed."
         ]
     },
@@ -4449,9 +4450,9 @@ const allTranslations =
         "name": "Liu Bei C1",
         "passives": [
             "Unstoppable Minions:",
-            "* Resistance against Minion removal.",
+            "* Immune to effects that remove Minions.",
             "* Can't be prevented from receiving Minions.",
-            "* Minion attack and abilities can't be disabled."
+            "* Minion attacks and abilities can't be disabled."
         ]
     },
     {
@@ -4502,7 +4503,7 @@ const allTranslations =
         "heroId": "forest_god_elinor",
         "name": "Margaret",
         "passives": [
-            "Resist Dispels: This character has an innate ability to resist dispels of buffs."
+            "Resist Dispels: This character is immune to effects that would dispel their status effect buffs."
         ]
     },
     {
@@ -4557,7 +4558,7 @@ const allTranslations =
         "heroId": "astral_moonflower",
         "name": "Moonflower",
         "passives": [
-            "Resist Poison: This character has innate resistance against Poison.",
+            "Resist Poison: This character is immune to status ailments that deal Poison damage.",
             "Share Received Damage: 20% of damage received by this character is shared with other allies."
         ]
     },
@@ -4666,7 +4667,7 @@ const allTranslations =
         "heroId": "garrison_pip",
         "name": "Pip",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -4674,7 +4675,7 @@ const allTranslations =
         "heroId": "ballerina_prince_siegfried",
         "name": "Prince Siegfried",
         "passives": [
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Doesn't apply to status ailments that affect elemental defense.",
+            "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
             "Heal when status ailment expires or is cleared: This character receives 20% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ]
     },
@@ -4682,7 +4683,7 @@ const allTranslations =
         "heroId": "lunar_new_year_qinglong",
         "name": "Qinglong",
         "passives": [
-            "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
+            "Stop Minions: Enemy Minions can't attack or use abilities."
         ]
     },
     {
@@ -4735,7 +4736,7 @@ const allTranslations =
         "heroId": "owl_relius",
         "name": "Relius",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -4754,9 +4755,9 @@ const allTranslations =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ]
     },
     {
@@ -4765,9 +4766,9 @@ const allTranslations =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +150%",
+            "* Dealt extra elemental damage: +150%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -25%"
+            "* Received elemental damage: -25%"
         ]
     },
     {
@@ -4787,8 +4788,8 @@ const allTranslations =
         "heroId": "nature_god_silvaria",
         "name": "Silvaria",
         "passives": [
-            "Resist Minion Removal: This character has innate resistance against Minion removal.",
-            "Summon on Burn: Each time this character receives a Burn status ailment, they summon a Forest Guardian Minion for themseles. Forest Guardian Minion inherits 40% HP and 40% atack from this character."
+            "Resist Minion Removal: This character is immune to effects that would remove Minions from them.",
+            "Summon on Burn: Each time this character receives a Burn status ailment, they summon a Forest Guardian Minion for themselves. Forest Guardian Minion inherits 40% HP and 40% atack from this character."
         ]
     },
     {
@@ -4912,7 +4913,7 @@ const allTranslations =
         "heroId": "forest_god_telluria",
         "name": "Telluria",
         "passives": [
-            "Resist Minion Removal: The Hero has innate resistance against Minion Removal."
+            "Resist Minion Removal: This character is immune to effects that would remove Minions from them."
         ]
     },
     {
@@ -4964,7 +4965,7 @@ const allTranslations =
         "name": "Theodosius",
         "passives": [
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -5022,14 +5023,14 @@ const allTranslations =
         "heroId": "owl_verus",
         "name": "Verus",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
         "heroId": "nature_god_viselus",
         "name": "Viselus",
         "passives": [
-            "Resist Poison: This character has innate resistance against Poison.",
+            "Resist Poison: This character is immune to status ailments that deal Poison damage.",
             "Health Boost of Poison: Boosts health of this character and nearby allies by 2% for each enemy inflicted with Poison at the end of each turn. Boosted health can exceed max HP."
         ]
     },
@@ -5053,9 +5054,9 @@ const allTranslations =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ]
     },
     {
@@ -5080,7 +5081,7 @@ const allTranslations =
         "heroId": "lunar_new_year_xiaoqing",
         "name": "Xiaoqing",
         "passives": [
-            "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
+            "Stop Minions: Enemy Minions can't attack or use abilities."
         ]
     },
     {
@@ -5140,7 +5141,7 @@ const allTranslations =
         "heroId": "forest_god_zocc",
         "name": "Zocc",
         "passives": [
-            "Resist Water Damage: This character has an innate resistance against Water damage."
+            "Resist Water: This character is immune to status ailments that deal Water damage."
         ]
     },
     {
@@ -5149,9 +5150,9 @@ const allTranslations =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ]
     },
     {
@@ -5608,7 +5609,7 @@ const allTranslations =
         "heroId": "owl_juliani",
         "name": "Juliani",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -5953,7 +5954,7 @@ const allTranslations =
         "heroId": "dark_god_anoushka",
         "name": "Anoushka",
         "passives": [
-            "Resist Blind: This character has innate resistance against status ailments that affect accurancy. Doesn't apply to status effects from allies.",
+            "Resist Blind: This character is immune to status ailments that affect accuracy. Doesn't apply to original status effects from allies.",
             "Health Recovery on Status Ailment Received: This character recovers 10% health when they receive a status ailment or negative stack."
         ]
     },
@@ -5997,7 +5998,7 @@ const allTranslations =
         "name": "Arfanias",
         "passives": [
             "Status Effect on Mana Reduction: This character gets +30% attack for 3 turns when their mana reduced.",
-            "Resist Health Steal Ailments: This hero has innate resistance against status ailments that steal health."
+            "Resist Health Steal Ailments: This hero is immune to status ailments that steal health."
         ]
     },
     {
@@ -6080,7 +6081,7 @@ const allTranslations =
         "heroId": "bard_belladonna",
         "name": "Belladonna",
         "passives": [
-            "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Mana increase reduction: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -6129,14 +6130,14 @@ const allTranslations =
         "heroId": "owl_cennius",
         "name": "Cennius",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
         "heroId": "dark_god_chakkoszrot",
         "name": "Chakkoszrot",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack."
         ]
     },
@@ -6156,15 +6157,15 @@ const allTranslations =
         "heroId": "styx_charon",
         "name": "Charon",
         "passives": [
-            "Resist Defense Ailments: This Hero has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
-            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
+            "Weaker Minions: Enemy Minions have -50% HP."
         ]
     },
     {
         "heroId": "dark_god_clarissa",
         "name": "Clarissa",
         "passives": [
-            "Resist Poison: This character has innate resistance against Poison."
+            "Resist Poison: This character is immune to status ailments that deal Poison damage."
         ]
     },
     {
@@ -6232,8 +6233,8 @@ const allTranslations =
         "name": "Diaochan C1",
         "passives": [
             "Unstoppable Minions:",
-            "* Resistance against Minion removal.",
-            "* Can't be prevented from receiving minions.",
+            "* Immune to effects that remove Minions.",
+            "* Can't be prevented from receiving Minions.",
             "* Minion attacks and abilities can't be disabled."
         ]
     },
@@ -6285,7 +6286,7 @@ const allTranslations =
         "heroId": "astral_dreadstar",
         "name": "Dreadstar",
         "passives": [
-            "Resist Poison: This character has innate resistance against Poison.",
+            "Resist Poison: This character is immune to status ailments that deal Poison damage",
             "Share Received Damage: 20% of damage received by this character is shared with other allies."
         ]
     },
@@ -6301,7 +6302,7 @@ const allTranslations =
         "heroId": "tales2_dularfulr",
         "name": "Dularfulr",
         "passives": [
-            "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted heath and 5% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 308 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -6452,9 +6453,9 @@ const allTranslations =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ]
     },
     {
@@ -6472,7 +6473,7 @@ const allTranslations =
         "heroId": "dark_god_grimble",
         "name": "Grimble",
         "passives": [
-            "Resist Blind: This character has an innate resistance against status ailments that affect Accuracy. Doesn't apply to status effects from allies."
+            "Resist Blind: This character is immune to status ailments that affect accuracy. Doesn't apply to original status effects from allies."
         ]
     },
     {
@@ -6541,7 +6542,7 @@ const allTranslations =
         "heroId": "tales2_hreidmarr",
         "name": "Hreidmarr",
         "passives": [
-            "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 312 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -6629,8 +6630,8 @@ const allTranslations =
         "heroId": "magic_jett",
         "name": "Jett",
         "passives": [
-            "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully changed, all enemies get two stacks. An enemy can have up to 10 stacks.",
-            "Health Recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully changed, the chance is 100%."
+            "Health Recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully changed, the chance is 100%.",
+            "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully changed, all enemies get two stacks. An enemy can have up to 10 stacks."
         ]
     },
     {
@@ -6758,7 +6759,7 @@ const allTranslations =
         "heroId": "dark_god_kunchen",
         "name": "Kunchen",
         "passives": [
-            "Resist Defense Ailments: This character has an innate resistance against status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect Elemental Defense."
+            "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense."
         ]
     },
     {
@@ -6831,9 +6832,9 @@ const allTranslations =
         "name": "Lu Bu C1",
         "passives": [
             "Unstoppable Minions:",
-            "* Resistance against Minion removal.",
+            "* Immune to effects that remove Minions.",
             "* Can't be prevented from receiving Minions.",
-            "* Minion attack and abilities can't be disabled."
+            "* Minion attacks and abilities can't be disabled."
         ]
     },
     {
@@ -6853,22 +6854,22 @@ const allTranslations =
         "name": "Luna",
         "passives": [
             "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.",
-            "Wrath of pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
+            "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
         ]
     },
     {
         "heroId": "ballerina_madame_giry",
         "name": "Madame Giry",
         "passives": [
-            "Heal when status ailment expires or is cleared: This character receives 20% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack.",
+            "Heal when status ailment expires or is cleared: This character receives 20% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ]
     },
     {
         "heroId": "garrison_maisie",
         "name": "Maisie",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -6876,7 +6877,7 @@ const allTranslations =
         "heroId": "dark_god_malicna",
         "name": "Malicna",
         "passives": [
-            "Resist Health Steal Ailments: This character has innate resistance against status ailments that steal health.",
+            "Resist Health Steal Ailments: This character is immune to status ailments that steal health.",
             "Status Effect on Mana Reduction: This character gets +94% defense against Holy for 3 turns when their mana is reduced."
         ]
     },
@@ -6922,8 +6923,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
-            "* The caster gets +19% mana generation for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "* The caster gets +19% mana generation for 2 turns."
         ]
     },
     {
@@ -6983,7 +6983,7 @@ const allTranslations =
         "name": "Mortimer",
         "passives": [
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 202 Water damage over 2 turns.",
-            "Resist Water Damage: This character has innate resistance against Water Damage."
+            "Resist Water: This character is immune to status ailments that deal Water damage."
         ]
     },
     {
@@ -7011,8 +7011,8 @@ const allTranslations =
         "heroId": "styx_nyx",
         "name": "Nyx",
         "passives": [
-            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
+            "Weaker Minions: Enemy Minions have -50% HP.",
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ]
     },
     {
@@ -7063,7 +7063,7 @@ const allTranslations =
         "heroId": "owl_ommodus",
         "name": "Ommodus",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -7090,7 +7090,7 @@ const allTranslations =
         "name": "Phantom of the Opera",
         "passives": [
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack."
         ]
     },
     {
@@ -7099,8 +7099,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
-            "* All allies get +21% critical chance for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "* All allies get +21% critical chance for 2 turns."
         ]
     },
     {
@@ -7255,21 +7254,21 @@ const allTranslations =
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
             "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
             "* With fully charged Repair Core, boosts the health of all allies by 25%.",
-            "* The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
+            "* The healing is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
         "heroId": "slayer_senan",
         "name": "Senan",
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects."
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
         ]
     },
     {
         "heroId": "slayer_senan_costume_tentacles",
         "name": "Senan C1",
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects.",
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks.",
             "Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 544 Bleed damage over 4 turns."
         ]
     },
@@ -7285,14 +7284,14 @@ const allTranslations =
         "heroId": "dark_god_seshat",
         "name": "Seshat",
         "passives": [
-            "Resist mana reduction: This character has innate resistance against mana reduction."
+            "Resist mana reduction: This character is immune to mana reduction."
         ]
     },
     {
         "heroId": "dark_god_seshat_costume_revenant",
         "name": "Seshat C1",
         "passives": [
-            "Resist mana reduction: This character has innate resistance against mana reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ]
     },
@@ -7320,10 +7319,10 @@ const allTranslations =
         "heroId": "construct_shacklebolt",
         "name": "Shacklebolt",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character's Special Skill is cast:",
             "* With fully charged Destructive Core, deals 180% damage to all enemies.",
-            "* The damage is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
+            "* The damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -7417,9 +7416,9 @@ const allTranslations =
         "heroId": "construct_tenebrae",
         "name": "Tenebrae",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast:",
-            "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 140 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 140 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
@@ -7448,7 +7447,7 @@ const allTranslations =
         "heroId": "tales2_thrivaldi",
         "name": "Thrivaldi",
         "passives": [
-            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 331 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -7465,15 +7464,15 @@ const allTranslations =
         "heroId": "dark_god_turgruk",
         "name": "Turgruk",
         "passives": [
-            "Increased special skill damage: The first time this character casts a Special Skill that deals damage, an additional 50% is added to its power.",
-            "Resist blind: This character has innate resistance against status ailments that affect accuracy. Doesn't apply to status effects from allies."
+            "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 50% is added to its power.",
+            "Resist Blind: This character is immune to status ailments that affect accuracy. Doesn't apply to original status effects from allies."
         ]
     },
     {
         "heroId": "wonderland_tweedles",
         "name": "Tweedles",
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects."
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
         ]
     },
     {
@@ -7523,8 +7522,8 @@ const allTranslations =
         "heroId": "dark_god_uthragan",
         "name": "Uthragan",
         "passives": [
-            "Mana Generation Stopping: This character has innate resistance against status ailments that stop mana generation.",
-            "Resist Poison: This character has innate resistance against Poison."
+            "Resist Poison: This character is immune to status ailments that deal Poison damage.",
+            "Resist Mana Generation Stopping: This character is immune to status ailments that stop mana generation."
         ]
     },
     {
@@ -7582,7 +7581,7 @@ const allTranslations =
         "heroId": "garrison_violet_potts",
         "name": "Violet Potts",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -7591,7 +7590,7 @@ const allTranslations =
         "name": "Viscaro",
         "passives": [
             "Cursed sapling summoner: When an enemy summons any minions by special skill, this character summons a Cursed Sapling Fiend for that enemy.",
-            "Resist negative minion effects: This character has innate resistance against incoming negative effects and damage from Minions."
+            "Resist negative minion effects: This character is immune to incoming negative effects and damage from Minions."
         ]
     },
     {
@@ -7677,7 +7676,7 @@ const allTranslations =
         "heroId": "dark_god_zulag",
         "name": "Zulag",
         "passives": [
-            "Resist Sand Damage: This character has innate resistance against Sand damage."
+            "Resist Sand: This character is immune to status ailments that deal Sand damage."
         ]
     },
     {
@@ -8349,7 +8348,7 @@ const allTranslations =
         "name": "Raul",
         "passives": [
             "Heal when status ailment expires or is cleared: This character receives 10%  health each time a status ailment expires or is cleansed, removed or  reallocated from them. This effect can activate only once per turn.",
-            "Resist Attack Ailments: This character has innate resistance against status  ailments that affect attack."
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack."
         ]
     },
     {
@@ -8469,9 +8468,9 @@ const allTranslations =
         "name": "Zhou Yu C1",
         "passives": [
             "Unstoppable Minions:",
-            "* Resistance against Minion removal.",
+            "* Immune to effects that remove Minions.",
             "* Can't be prevented from receiving Minions.",
-            "* Minion attack and abilities can't be disabled."
+            "* Minion attacks and abilities can't be disabled."
         ]
     },
     {
@@ -8508,7 +8507,7 @@ const allTranslations =
         "heroId": "tales2_aethslegaur",
         "name": "Aethslegaur",
         "passives": [
-            "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 312 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -8555,7 +8554,7 @@ const allTranslations =
         "heroId": "fire_god_anzogh",
         "name": "Anzogh",
         "passives": [
-            "Resist Mana Generation Ailments: This character has an innate resistance against status ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana."
+            "Resist Mana Generation Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana."
         ]
     },
     {
@@ -8744,7 +8743,7 @@ const allTranslations =
         "heroId": "pirate_boatswain",
         "name": "Black Caesar",
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects."
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
         ]
     },
     {
@@ -8761,10 +8760,10 @@ const allTranslations =
         "heroId": "construct_japanese_doll",
         "name": "Blossom",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
             "* With fully charged Repair Core, boosts the health of all allies by 25%.",
-            "* The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
+            "* The healing is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -8779,11 +8778,11 @@ const allTranslations =
         "heroId": "construct_brimstone",
         "name": "Brimstone",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skill.",
             "Destructive Core: The Construct Core of this character is Destructive Core.",
             "The Destructive Core activates each time this character's Special Skill is cast",
             "* With fully charged Destructive Core, deals 180% damage to all enemies.",
-            "* The damage is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
+            "* The damage is scaled by the amount of charge in the Core, All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -8848,7 +8847,7 @@ const allTranslations =
         "heroId": "ballerina_charlotta",
         "name": "Charlotta",
         "passives": [
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.",
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack.",
             "Heal when status ailment expires or is cleared: This character receives 20% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ]
     },
@@ -8887,7 +8886,7 @@ const allTranslations =
         "heroId": "fables_cinderella",
         "name": "Cinderella",
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects."
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
         ]
     },
     {
@@ -8958,7 +8957,7 @@ const allTranslations =
         "heroId": "garrison_dima",
         "name": "Dima",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -8987,9 +8986,9 @@ const allTranslations =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ]
     },
     {
@@ -9065,7 +9064,7 @@ const allTranslations =
         "heroId": "fire_god_eliane",
         "name": "Eliane",
         "passives": [
-            "Resist Burn: This character has innate resistance against Burn.",
+            "Resist Burn: This character is immune to status ailments that deal Burn damage.",
             "Mana on Burn: This character gains 5% mana each time an enemy receives Burn damage."
         ]
     },
@@ -9126,15 +9125,15 @@ const allTranslations =
         "heroId": "styx_erebus",
         "name": "Erebus",
         "passives": [
-            "Resist defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
-            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
+            "Weaker Minions: Enemy Minions have -50% HP."
         ]
     },
     {
         "heroId": "owl_eron",
         "name": "Eron",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -9154,7 +9153,7 @@ const allTranslations =
         "heroId": "tales2_fimafeng",
         "name": "Fimafeng",
         "passives": [
-            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 338 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -9164,7 +9163,7 @@ const allTranslations =
         "heroId": "garrison_flamehide",
         "name": "Flamehide",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Growth effects from all enemies."
         ]
     },
@@ -9172,7 +9171,7 @@ const allTranslations =
         "heroId": "beachparty_flip",
         "name": "Flip",
         "passives": [
-            "Resist Water Damage: This character has innate resistance against Water Damage.",
+            "Resist Water: This character is immune to status ailments that deal Water damage.",
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 200 Water damage over 2 turns."
         ]
     },
@@ -9188,7 +9187,7 @@ const allTranslations =
         "heroId": "owl_fulvia",
         "name": "Fulvia",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -9256,7 +9255,7 @@ const allTranslations =
         "heroId": "fire_god_nadnog",
         "name": "Grazul",
         "passives": [
-            "Resist Healing Ailments: This character has an innate ability to resist status aliments that affect Healing"
+            "Resist Healing Ailments: This character is immune to status ailments that affect healing."
         ]
     },
     {
@@ -9322,26 +9321,26 @@ const allTranslations =
         "heroId": "construct_hornfel",
         "name": "Hornfel",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Destructive Core: The Construct Core of this character is Destructive Core.",
             "The Destructive Core activates each time this character's Special Skill is cast",
             "* With fully charged Destructive Core, deals 180% damage to all enemies.",
-            "* The damage is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
+            "* The damage is scaled by the amount of charge in the Core, All charge is exhausted when the Core is activated."
         ]
     },
     {
         "heroId": "styx_hypnos",
         "name": "Hypnos",
         "passives": [
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
-            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
+            "Weaker Minions: Enemy Minions have -50% HP."
         ]
     },
     {
         "heroId": "garrison_iarlaith",
         "name": "Iarlaith",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -9351,9 +9350,9 @@ const allTranslations =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ]
     },
     {
@@ -9385,7 +9384,7 @@ const allTranslations =
         "heroId": "garrison_iocantha",
         "name": "Iocantha",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -9394,8 +9393,8 @@ const allTranslations =
         "name": "Isidore",
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
-            "Resist Insanity: This character has innate resistance against Insanity.",
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
+            "Resist Insanity: This character is immune to Insanity.",
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack."
         ]
     },
     {
@@ -9407,7 +9406,7 @@ const allTranslations =
         "heroId": "fire_god_jean_francois",
         "name": "Jean-Francois",
         "passives": [
-            "Resist Health Steal Ailments: The Hero has an innate resistance against status ailments that Steal Health."
+            "Resist Health Steal Ailments: This hero is immune to status ailments that steal health."
         ]
     },
     {
@@ -9515,8 +9514,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
-            "* All allies get +21% critical chance for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "* All allies get +21% critical chance for 2 turns."
         ]
     },
     {
@@ -9550,7 +9548,7 @@ const allTranslations =
         "heroId": "owl_lodius",
         "name": "Lodius",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -9682,7 +9680,7 @@ const allTranslations =
         "name": "Neema",
         "passives": [
             "Ignore Taunt: This character's Special Skill is not affected by Taunt.",
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills."
         ]
     },
     {
@@ -9721,7 +9719,7 @@ const allTranslations =
         "heroId": "champions_norman",
         "name": "Norman",
         "passives": [
-            "Mana Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.",
+            "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.",
             "Mana on Taunt: Each time an enemy receives Taunt status effect this character's mana is increased by 10%.",
             "Ignore Taunt: The character's Special Skill is not affected by Taunt."
         ]
@@ -9895,7 +9893,7 @@ const allTranslations =
         "heroId": "fire_god_reuben",
         "name": "Reuben",
         "passives": [
-            "Resist Mana Generation Ailments: This character has innate resistance against status ailments and negative stacks that affect Mana Generation. Doesn't apply to status ailments that stop mana generation or steal mana."
+            "Resist Mana Generation Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana."
         ]
     },
     {
@@ -9954,7 +9952,7 @@ const allTranslations =
         "heroId": "fire_god_russell",
         "name": "Russell",
         "passives": [
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect Attack.",
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack.",
             "Mana on Burn: This character gains 5% mana each time an enemy receives Burn damage."
         ]
     },
@@ -9998,14 +9996,14 @@ const allTranslations =
         "heroId": "slayer_saoirse",
         "name": "Saoirse",
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects."
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
         ]
     },
     {
         "heroId": "slayer_saoirse_costume_knight",
         "name": "Saoirse C1",
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects.",
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks.",
             "Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 452 Bleed damage over 4 turns."
         ]
     },
@@ -10071,15 +10069,15 @@ const allTranslations =
         "heroId": "fire_god_skargremar",
         "name": "Skargremar",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against ailments that block Special Skills.",
-            "Resist Defense Ailments: This character has innate resistance against ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense."
+            "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skill."
         ]
     },
     {
         "heroId": "astral_sparklight",
         "name": "Sparklight",
         "passives": [
-            "Resist Poison: This character has innate resistance against Poison.",
+            "Resist Poison: This character is immune to status ailments that deal Poison damage.",
             "Share Received Damage: 20% of damage received by this character is shared with other allies."
         ]
     },
@@ -10093,9 +10091,9 @@ const allTranslations =
         "name": "Sun Quan C1",
         "passives": [
             "Unstoppable Minions:",
-            "* Resistance against Minion removal.",
+            "* Immune to effects that remove Minions.",
             "* Can't be prevented from receiving Minions.",
-            "* Minion attack and abilities can't be disabled."
+            "* Minion attacks and abilities can't be disabled."
         ]
     },
     {
@@ -10103,7 +10101,7 @@ const allTranslations =
         "name": "Tahir",
         "passives": [
             "Health recovery on status Ailment Received: This character recovers 50 HP when they receive a status ailment or a negative stack.",
-            "Resist Bleed Damage: This character has innate resistance against Bleed."
+            "Resist Bleed: This character is immune to status ailments that deal Bleed damage."
         ]
     },
     {
@@ -10202,7 +10200,7 @@ const allTranslations =
         "heroId": "garrison_vanya",
         "name": "Vanya",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
@@ -10235,14 +10233,14 @@ const allTranslations =
         "heroId": "s4_xenda",
         "name": "Xenda",
         "passives": [
-            "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character."
+            "Special Skill Damage Reduction: Received damage is reduced by -20% for the first 3 times this character receives damage from Special Skills."
         ]
     },
     {
         "heroId": "s4_xenda_costume_flame",
         "name": "Xenda C1",
         "passives": [
-            "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.",
+            "Special Skill Damage Reduction: Received damage is reduced by -20% for the first 3 times this character receives damage from Special Skills",
             "Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attack and Special Skill damage against targets with boosted health for 4 turns."
         ]
     },
@@ -10250,7 +10248,7 @@ const allTranslations =
         "heroId": "lunar_new_year_xiaotu",
         "name": "Xiaotu",
         "passives": [
-            "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
+            "Stop Minions: Enemy Minions can't attack or use abilities."
         ]
     },
     {
@@ -10273,7 +10271,7 @@ const allTranslations =
         "name": "Yang Mai",
         "passives": [
             "Status effect on mana reduction: The caster gets +30% attack for 3 turns when their mana is reduced.",
-            "Resist water damage: This character has innate resistance against Water damage."
+            "Resist Water: This character is immune to status ailments that deal Water damage."
         ]
     },
     {
@@ -10289,8 +10287,8 @@ const allTranslations =
         "heroId": "fire_god_zagrog",
         "name": "Zagrog",
         "passives": [
-            "Resist attack status effects: This character has innate resistance against all status effects and stacks that effect attack. This includes buffs.",
-            "Resist mana ailments: This character has innate resistance against status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana."
+            "Resist Mana Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.",
+            "Resist Attack Status Effects: This character is immune to all status effects and stacks that effect attack. This includes status effect buffs."
         ]
     },
     {
@@ -10307,9 +10305,9 @@ const allTranslations =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ]
     },
     {
@@ -11074,9 +11072,9 @@ const allTranslations =
         "name": "Wang Yuanji C1",
         "passives": [
             "Unstoppable Minions:",
-            "* Resistance against Minion removal.",
+            "* Immune to effects that remove Minions.",
             "* Can't be prevented from receiving Minions.",
-            "* Minion attack and abilities can't be disabled."
+            "* Minion attacks and abilities can't be disabled."
         ]
     },
     {
@@ -11255,21 +11253,21 @@ const allTranslations =
         "heroId": "holy_god_bai_yeong",
         "name": "Bai Yeong",
         "passives": [
-            "Resist Status Ailments from Minions: This character has innate resistance against status ailments that are from minions."
+            "Resist Status Ailments From Minions: This character is immune to status ailments that are from Minions."
         ]
     },
     {
         "heroId": "lunar_new_year_baishu",
         "name": "Baishu",
         "passives": [
-            "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
+            "Stop Minions: Enemy Minions can't attack or use abilities."
         ]
     },
     {
         "heroId": "tales2_bragi",
         "name": "Bragi",
         "passives": [
-            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted heath and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 343 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -11279,7 +11277,7 @@ const allTranslations =
         "heroId": "slayer_caitlin",
         "name": "Caitlin",
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects."
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
         ]
     },
     {
@@ -11294,7 +11292,7 @@ const allTranslations =
         "heroId": "holy_god_celidana",
         "name": "Celidana",
         "passives": [
-            "Resist Max Health Reduction: This character has innate resistance against max health reduction.",
+            "Resist Max Health Reduction: This character is immune to max health reduction.",
             "Boost Health on Enemy Special: When an enemy casts their Special Skill, this character has a 50% chance to boost this character's health by 100."
         ]
     },
@@ -11311,7 +11309,7 @@ const allTranslations =
         "heroId": "ballerina_christine_daae",
         "name": "Christine Daae",
         "passives": [
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.",
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack.",
             "Heal when status ailment expires or is cleared: This character receives 5% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ]
     },
@@ -11366,8 +11364,8 @@ const allTranslations =
         "heroId": "holy_god_devana",
         "name": "Devana",
         "passives": [
-            "Resist Dispels: This character has an innate resistance against Dispels of buffs.",
-            "Resist Negative Minion Effects: This character has an innate resistance against incoming negative effects and damage from Minions."
+            "Resist Dispels: This character is immune to effects that would dispel their status effect buffs.",
+            "Resist negative minion effects: This character is immune to incoming negative effects and damage from Minions."
         ]
     },
     {
@@ -11468,11 +11466,11 @@ const allTranslations =
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            "* Common Holy Trainer Heroes",
-            "* Uncommon Holy Trainer Heroes",
             "* Rare Holy Trainer Heroes",
-            "* Common Holy Heroes",
-            "* Uncommon Holy Heroes"
+            "* Uncommon Holy Trainer Heroes",
+            "* Uncommon Holy Heroes",
+            "* Common Holy Trainer Heroes",
+            "* Common Holy Heroes"
         ]
     },
     {
@@ -11499,7 +11497,7 @@ const allTranslations =
         "heroId": "garrison_frank_fangs_brimwell",
         "name": "Frank 'Fangs' Brimwell",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -11522,7 +11520,7 @@ const allTranslations =
         "heroId": "tales2_gandr",
         "name": "Gandr",
         "passives": [
-            "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted heath and 5% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 315 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -11532,7 +11530,7 @@ const allTranslations =
         "heroId": "tales2_gandr_costume_guardian",
         "name": "Gandr C1",
         "passives": [
-            "Empowered Resist Burn: This character has innate resistance against Burn and gains 600 boosted heath and 10% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 380 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -11559,7 +11557,7 @@ const allTranslations =
         "heroId": "holy_god_gilligan",
         "name": "Gilligan",
         "passives": [
-            "Resist Mana Ailments: This character has innate resistance against ailments that affect mana.",
+            "Resist Mana Ailments: This character is immune to status ailments that affect mana.",
             "Mana Per Enemy Buff: Gains a small amount of mana for every active status effect buff that the enemy team has at the start of each turn (maximum of 20 buffs)."
         ]
     },
@@ -11576,7 +11574,7 @@ const allTranslations =
         "name": "Gongniu",
         "passives": [
             "Health Recovery on Status Ailment Received: This character recovers 10%  health when they receive a status ailment or a negative stack.",
-            "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
+            "Stop Minions: Enemy Minions can't attack or use abilities."
         ]
     },
     {
@@ -11671,7 +11669,7 @@ const allTranslations =
         "heroId": "holy_god_hanitra",
         "name": "Hanitra",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skill.",
             "Mana on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
         ]
     },
@@ -11695,18 +11693,18 @@ const allTranslations =
         "heroId": "s5_horus",
         "name": "Horus",
         "passives": [
-            "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill '",
+            "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill:",
             "* Deals 70% damage to all enemies.",
-            "* All enemies get -34% attack for 3 turns.'"
+            "* All enemies get -34% attack for 3 turns."
         ]
     },
     {
         "heroId": "s5_horus_costume_golden",
         "name": "Horus C1",
         "passives": [
-            "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill '",
+            "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill:",
             "* Deals 70% damage to all enemies.",
-            "* All enemies get -34% attack for 3 turns.'",
+            "* All enemies get -34% attack for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ]
@@ -11764,17 +11762,17 @@ const allTranslations =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ]
     },
     {
         "heroId": "holy_god_ithar",
         "name": "Ithar",
         "passives": [
-            "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage.",
-            "Resist Status Ailments From Minions: This character has innate resistance against status ailments that are from Minions."
+            "Resist Status Ailments From Minions: This character is immune to status ailments that are from Minions.",
+            "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ]
     },
     {
@@ -11800,9 +11798,9 @@ const allTranslations =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ]
     },
     {
@@ -11882,11 +11880,19 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "slime_justico",
+        "name": "Justico",
+        "passives": [
+            "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
+            "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
+        ]
+    },
+    {
         "heroId": "holy_god_kara",
         "name": "Kara",
         "passives": [
             "Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled from this character.",
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ]
     },
     {
@@ -11935,7 +11941,7 @@ const allTranslations =
         "heroId": "lunar_new_year_laohu",
         "name": "Laohu",
         "passives": [
-            "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
+            "Stop Minions: Enemy Minions can't attack or use abilities."
         ]
     },
     {
@@ -11958,7 +11964,7 @@ const allTranslations =
         "heroId": "astral_lemonwood",
         "name": "Lemonwood",
         "passives": [
-            "Resist Poison: This character has innate resistance against Poison.",
+            "Resist Poison: This character is immune to status ailments that deal Poison damage",
             "Share Received Damage: 20% of damage received by this character is shared with other allies."
         ]
     },
@@ -12002,7 +12008,7 @@ const allTranslations =
         "heroId": "owl_livia",
         "name": "Livia",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -12024,7 +12030,7 @@ const allTranslations =
         "heroId": "holy_god_malosi",
         "name": "Malosi",
         "passives": [
-            "Resist Defense Ailments: The hero has an innate resistance against status ailments and negative stacks that affect Defense. Doesn't apply to status ailments that affect elemental defense."
+            "Resist Defense Ailments: The character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense."
         ]
     },
     {
@@ -12109,7 +12115,7 @@ const allTranslations =
         "heroId": "tales2_motsognir",
         "name": "Motsognir",
         "passives": [
-            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted heath and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 316 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -12131,15 +12137,15 @@ const allTranslations =
         "heroId": "holy_god_neith",
         "name": "Neith",
         "passives": [
-            "Resist Mana Generation Stopping: This character has an innate resistance against status ailments that Stop Mana Generation."
+            "Resist Mana Generation Stopping: This character is immune to status ailments that stop mana generation."
         ]
     },
     {
         "heroId": "styx_nemesis",
         "name": "Nemesis",
         "passives": [
-            "Resist Defense Ailments: Duration of the defense status ailments this character receives from Special Skills is decreased by 2 turns.",
-            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
+            "Weaker Minions: Enemy Minions have -50% HP."
         ]
     },
     {
@@ -12175,14 +12181,14 @@ const allTranslations =
         "heroId": "bard_ogima",
         "name": "Ogima",
         "passives": [
-            "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
         "heroId": "holy_god_onatel",
         "name": "Onatel",
         "passives": [
-            "Resist Blind: This character has an innate ability to resist status ailments that affect Accuracy. Doesn't apply to status effects from allies."
+            "Resist Blind: This character is immune to status ailments that affect accuracy. Doesn't apply to original status effects from allies."
         ]
     },
     {
@@ -12249,7 +12255,7 @@ const allTranslations =
         "heroId": "owl_pertinax",
         "name": "Pertinax",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -12305,7 +12311,7 @@ const allTranslations =
         "heroId": "holy_god_ranvir",
         "name": "Ranvir",
         "passives": [
-            "Resist Poison: This character has an innate resistance against Poison."
+            "Resist Poison: This character is immune to status ailments that deal Poison damage."
         ]
     },
     {
@@ -12321,7 +12327,7 @@ const allTranslations =
         "heroId": "bard_rhys",
         "name": "Rhys",
         "passives": [
-            "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -12338,7 +12344,7 @@ const allTranslations =
         "heroId": "garrison_rosalind",
         "name": "Rosalind",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -12398,10 +12404,10 @@ const allTranslations =
         "heroId": "construct_shaal",
         "name": "Shaal",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
             "* With fully charged Repair Core, boosts the health of all allies by 25%.",
-            "* The healing is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
+            "* The healing is scaled by the amount of charge in the Core, All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -12423,7 +12429,7 @@ const allTranslations =
         "heroId": "garrison_shimmerscale",
         "name": "Shimmerscale",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -12515,7 +12521,7 @@ const allTranslations =
         "heroId": "holy_god_uraeus",
         "name": "Uraeus",
         "passives": [
-            "Resist Sand Damage: This character has an innate resistance against Sand damage.",
+            "Resist Sand: This character is immune to status ailments that deal Sand damage.",
             "Health from Dead Minion: This character recovers 50 health when a Minion owned by them is destroyed."
         ]
     },
@@ -12631,7 +12637,7 @@ const allTranslations =
         "heroId": "castle_bear_winnie",
         "name": "Winnie",
         "passives": [
-            "Mana on Buff Received: Gain 5% mana when receiving a buff or a positive stack",
+            "Mana on Buff Received: This character gains 5% mana when receiving a buff or a positive stack",
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ]
     },
@@ -12672,9 +12678,9 @@ const allTranslations =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ]
     },
     {
@@ -12683,9 +12689,9 @@ const allTranslations =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ]
     },
     {
@@ -12746,9 +12752,9 @@ const allTranslations =
         "name": "Zhang Fei C1",
         "passives": [
             "Unstoppable Minions:",
-            "* Resistance against Minion removal.",
+            "* Immune to effects that remove Minions.",
             "* Can't be prevented from receiving Minions.",
-            "* Minion attack and abilities can't be disabled."
+            "* Minion attacks and abilities can't be disabled."
         ]
     },
     {
@@ -12761,8 +12767,8 @@ const allTranslations =
         "name": "Zhuge Liang C1",
         "passives": [
             "Unstoppable Minions:",
-            "* Resistance against Minion removal.",
-            "* Can't be prevented from receiving minions.",
+            "* Immune to effects that remove Minions.",
+            "* Can't be prevented from receiving Minions.",
             "* Minion attacks and abilities can't be disabled."
         ]
     },
@@ -12779,18 +12785,13 @@ const allTranslations =
         "heroId": "holy_god_zora",
         "name": "Zora",
         "passives": [
-            "Resist Mana Reduction: This character has innate resistance against mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
     },
     {
         "heroId": "elemental_xavier_costume_arthropod",
         "name": "Xavier C1",
-        "passives": []
-    },
-    {
-        "heroId": "slime_justico",
-        "name": "Justico",
         "passives": []
     },
     {

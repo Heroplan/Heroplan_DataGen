@@ -45206,5 +45206,30 @@ window.allHeroesExtra = [
             "reduce_revival_health_all_enemies"
         ],
         "family": "beauty_beast"
+    },
+    {
+        "name": "Justico",
+        "fancy name": "Protector Slime",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2026-03-17",
+        "AetherPower": "Taunt",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Taunters",
+            "Revivers"
+        ],
+        "heroId": "slime_justico",
+        "baseAttack": 636,
+        "baseDefense": 665,
+        "baseHealth": 1118,
+        "specialId": "viscous_shield_justico",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_yellow",
+            "summon_slime_minion_on_death_yellow"
+        ],
+        "family": "slime"
     }
 ];

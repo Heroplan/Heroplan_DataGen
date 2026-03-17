@@ -415,7 +415,7 @@ window.allHeroes =
             "Increases the mana of the caster and nearby allies by 10%."
         ],
         "passives": [
-            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 153 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -2254,7 +2254,7 @@ window.allHeroes =
         "types": [
             "Minion Destroyer 1",
             "Hit 1",
-            "Self Boosted HoT"
+            "Boosted HoT Self"
         ],
         "skill_types": [
             "Heal over Time (HoT)",
@@ -3130,7 +3130,8 @@ window.allHeroes =
         "skill": "Sword of Wei",
         "types": [
             "Hit 3",
-            "Summoner"
+            "Summoner Self",
+            "Minion Dispels on hit"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -4186,7 +4187,7 @@ window.allHeroes =
             "The caster and nearby allies get +120% normal attack for 3 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maxiumum of +200% increased attack while this effect is active."
         ],
         "passives": [
-            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 193 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -4517,7 +4518,8 @@ window.allHeroes =
         "skill": "Scale of the Newt",
         "types": [
             "Hit All",
-            "Sword Guard Mega Minion"
+            "Sword Guard Mega Minion",
+            "Spreading DoT Minion"
         ],
         "skill_types": [
             "Mega Minions Summoners",
@@ -4543,7 +4545,7 @@ window.allHeroes =
             "The target hit by the Sword Guard Mega Minion receives 267 Bleed damage over 3 turns. This effect spreads to nearby enemies."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against Mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -5823,7 +5825,7 @@ window.allHeroes =
             "Reduces the mana of the target by 10%."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skill: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -6667,7 +6669,8 @@ window.allHeroes =
         "skill": "Qilin Blade",
         "types": [
             "Hit 1",
-            "Summoner"
+            "Summoner 3",
+            "Minion Dispels on hit"
         ],
         "skill_types": [
             "Dispellers",
@@ -6862,7 +6865,7 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Fiend Summoner 3",
-            "Defense debuff 3"
+            "Defense Debuff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -6937,7 +6940,7 @@ window.allHeroes =
         "types": [
             "Ally Damage Share",
             "Defense Buff All",
-            "Heal on damage All"
+            "Heal on damage dealt All"
         ],
         "skill_types": [
             "Buffers (DEF)",
@@ -7294,7 +7297,7 @@ window.allHeroes =
         "skill": "Spirit Arrow",
         "types": [
             "Hit 1",
-            "Mana Generation Debuff"
+            "Mana Generation Debuff 3"
         ],
         "skill_types": [
             "Mana Reducers or Blockers",
@@ -7313,9 +7316,9 @@ window.allHeroes =
         "defense": 706,
         "health": 1336,
         "effects": [
-            "Deals 542% damage to the target",
-            "The target and nearby enemies get -24% mana generation for 3 turns. This effect can't be cleansed",
-            "Elemental Link gives all Ice allies +5% attack and +5% defense for 6 turns. This effect can't be cleansed"
+            "Deals 542% damage to the target.",
+            "The target and nearby enemies get -24% mana generation for 3 turns. This effect can't be cleansed.",
+            "Elemental Link gives all Ice allies +5% attack and +5% defense for 6 turns. This effect can't be cleansed."
         ],
         "passives": [],
         "family": "hotm2018",
@@ -7356,7 +7359,7 @@ window.allHeroes =
         "skill": "Arrow of Nujalik",
         "types": [
             "Hit 3",
-            "Mana reduction 3",
+            "Mana Reduction 3",
             "Mana Generation Debuff 3"
         ],
         "skill_types": [
@@ -7431,7 +7434,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Shimmering Shield",
         "types": [
-            "Heal all",
+            "Heal All",
             "Board Alterer"
         ],
         "skill_types": [
@@ -7461,7 +7464,7 @@ window.allHeroes =
             "Element Link gives +10% increase for any healing received for all Ice allies for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Healing Ailments: This character has an innate resistance against status ailments that affect Healing.",
+            "Resist Healing Ailments: This character is immune to status ailments that affect healing.",
             "Health Recovery on Status Ailment Received: This character recovers 10% health when they receive a status ailment or a negative stack."
         ],
         "family": "hotm2021",
@@ -7606,8 +7609,8 @@ window.allHeroes =
             "* All enemies get -75% decrease of any healing received for 4 turns."
         ],
         "passives": [
-            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
-            "Resist Defense Ailments: The character has innate resistance against status ailments that effect defense. Applies also to status ailment that affect elemental defense."
+            "Weaker Minions: Enemy Minions have -50% HP.",
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
         "family": "styx",
         "costume_id": 0,
@@ -7766,7 +7769,7 @@ window.allHeroes =
             "All allies get +40% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
         ],
         "passives": [
-            "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 309 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -7922,9 +7925,9 @@ window.allHeroes =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -8029,7 +8032,7 @@ window.allHeroes =
         "skill": "Radiating Frost",
         "types": [
             "Hit 1",
-            "Chain",
+            "Chain Hit",
             "DoT 1"
         ],
         "skill_types": [
@@ -8058,8 +8061,8 @@ window.allHeroes =
             "Element Link gives +10% mana generation for all Ice allies for 4 turns. This effect cannot be dispelled."
         ],
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
-            "Resist Water Damage: This character has innate resistance against Water damage."
+            "Resist Water: This character is immune to status ailments that deal Water damage.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills."
         ],
         "family": "hotm2023",
         "costume_id": 0,
@@ -8632,8 +8635,9 @@ window.allHeroes =
         "speed": "Changing Tides",
         "skill": "Aphotic Maw",
         "types": [
-            "DoT",
-            "Mana steal"
+            "DoT All",
+            "Attack Debuff DoT",
+            "Mana Steal All"
         ],
         "skill_types": [
             "Debuffers (ATK)",
@@ -8713,8 +8717,9 @@ window.allHeroes =
         "speed": "Changing Tides",
         "skill": "Aphotic Whisper",
         "types": [
-            "DoT",
-            "Mana Steal"
+            "DoT All",
+            "Attack Debuff DoT",
+            "Mana Steal All"
         ],
         "skill_types": [
             "Debuffers (ATK)",
@@ -8877,7 +8882,7 @@ window.allHeroes =
         "skill": "Double Flail Mayhem",
         "types": [
             "Hit 1",
-            "Dot 1",
+            "DoT 1",
             "Fiend Immunity All"
         ],
         "skill_types": [
@@ -8906,7 +8911,7 @@ window.allHeroes =
         ],
         "passives": [
             "Heal on Bleed: This character regenerates 50 HP each time an enemy receives Bleed damage.",
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack."
         ],
         "family": "hotm2022",
         "costume_id": 0,
@@ -9029,7 +9034,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Divine Reflection",
         "types": [
-            "Counterattack 3"
+            "Counterattack 3",
+            "Received Damage Reduced 3"
         ],
         "skill_types": [
             "Damage Reducers",
@@ -9089,7 +9095,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Sacred Reflection",
         "types": [
-            "Counterattack 3"
+            "Counterattack 3",
+            "Received Damage Reduced 3"
         ],
         "skill_types": [
             "Counterattackers",
@@ -9512,6 +9519,7 @@ window.allHeroes =
         "skill": "Soothing Melody",
         "types": [
             "Shield Guard Mega Minion",
+            "Cleanser Minion",
             "Sleep All"
         ],
         "skill_types": [
@@ -9541,7 +9549,7 @@ window.allHeroes =
             "The sleeping target is woken once it take damage. This excludes damage from Minions and Fiends."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -9584,6 +9592,7 @@ window.allHeroes =
         "skill": "Mechanical Augmentations",
         "types": [
             "Boosted Heal All",
+            "SS Defense Buff All",
             "Max Health Reduction All",
             "SS Defense Debuff All"
         ],
@@ -9665,6 +9674,7 @@ window.allHeroes =
         "skill": "Flower Arrangements",
         "types": [
             "Boosted Heal All",
+            "SS Defense Buff All",
             "Max Health Reduction All",
             "SS Defense Debuff All",
             "Healing Debuff All"
@@ -9756,8 +9766,9 @@ window.allHeroes =
         "skill": "Order to Overwhelm",
         "types": [
             "Hit All",
-            "Summoner",
-            "Defense buff"
+            "Summoner All",
+            "Minion Dispels on hit",
+            "Defense Buff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -9826,8 +9837,9 @@ window.allHeroes =
         "skill": "Ice-Cold Order",
         "types": [
             "Hit All",
-            "Summoner",
-            "Defense buff"
+            "Summoner All",
+            "Minion Dispels on hit",
+            "Defense Buff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -9857,9 +9869,9 @@ window.allHeroes =
         ],
         "passives": [
             "Unstoppable Minions:",
-            "* Resistance against Minion removal.",
+            "* Immune to effects that remove Minions.",
             "* Can't be prevented from receiving Minions.",
-            "* Minion attack and abilities can't be disabled."
+            "* Minion attacks and abilities can't be disabled."
         ],
         "family": "kingdom",
         "costume_id": 1,
@@ -10035,7 +10047,7 @@ window.allHeroes =
             "Stack (Max: 10): The caster recovers 15 HP each turn."
         ],
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects."
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
         ],
         "family": "slayers",
         "costume_id": 0,
@@ -10107,7 +10119,7 @@ window.allHeroes =
         ],
         "passives": [
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed.",
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
         "family": "masquerade",
         "costume_id": 0,
@@ -10148,7 +10160,7 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Cleanse Immunity 3",
-            "Defense Debuff"
+            "Defense Debuff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -10173,7 +10185,7 @@ window.allHeroes =
             "The target and nearby enemies get -44% defense for 3 turns."
         ],
         "passives": [
-            "Attack Ailment Reduction: Reduces the effect of status ailments affecting attack by -80%. The effect applies to this character and its allies in the battle."
+            "Attack Ailment Reduction: Reduces the effect of status ailments affecting attack by 80%. The effect applies to this character and its allies in the battle."
         ],
         "family": "bard",
         "costume_id": 0,
@@ -10214,6 +10226,7 @@ window.allHeroes =
         "skill": "Tidal Vortex",
         "types": [
             "Hit All",
+            "Debuffs on SS use",
             "DoT All"
         ],
         "skill_types": [
@@ -10389,8 +10402,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Lunar Locket",
         "types": [
-            "Hit all",
-            "Block Status Effects Cast All"
+            "Hit All",
+            "Block Status Effects Cast All",
+            "SS Defense Buff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -10412,7 +10426,7 @@ window.allHeroes =
         "health": 1678,
         "effects": [
             "Deals 310% damage to all enemies.",
-            "All enemies cannot cast any new status effects on enemies or allies for 4 turns. This includes stacks. This only includes status effects cast with Special Skills.",
+            "All enemies cannot cast any new status effects on enemies or allies for 4 turns. (This includes stacks. This only includes status effects cast with Special Skills.)",
             "All allies get +45% defense against Special Skills for 4 turns."
         ],
         "passives": [
@@ -10692,7 +10706,8 @@ window.allHeroes =
         "skill": "Strict Standards",
         "types": [
             "Hit All",
-            "Spear Guard Mega Minion"
+            "Spear Guard Mega Minion",
+            "Dispeller Minion"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -10718,7 +10733,7 @@ window.allHeroes =
             "Each hit from the Spear Guard Mega Minion dispels all dispellable buffs from the target."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -10860,8 +10875,8 @@ window.allHeroes =
             "Elemental Link gives all Ice allies +30% defense against Special Skills for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
-            "Resist Burn: This character has innate resistance against Burn."
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
+            "Resist Burn: This character is immune to status ailments that deal Burn damage."
         ],
         "family": "hotm2025",
         "costume_id": 0,
@@ -11194,7 +11209,7 @@ window.allHeroes =
             "Humility",
             "Hit 3",
             "DoT 3",
-            "Counterattack"
+            "Counterattack 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -11218,11 +11233,11 @@ window.allHeroes =
         "effects": [
             "If the caster has 35 or more Humility:",
             "Deals 460% damage to the target and nearby enemies.",
-            "The target and nearby enemeis receive 1260 Bleed damage over 4 turns.",
+            "The target and nearby enemies receive 1260 Bleed damage over 4 turns.",
             "The caster and nearby allies counterattack with 150% of the damage received for 4 turns.",
             "Otherwise:",
             "Deals 405% damage to the target and nearby enemies.",
-            "The target and nearby enemeis receive 960 Bleed damage over 4 turns."
+            "The target and nearby enemies receive 960 Bleed damage over 4 turns."
         ],
         "passives": [
             "Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.",
@@ -11530,7 +11545,7 @@ window.allHeroes =
         "types": [
             "Fiend Destroyer All",
             "Boosted Heal All",
-            "Fiend immunity"
+            "Fiend Immunity"
         ],
         "skill_types": [
             "Fiends Counters",
@@ -11549,7 +11564,7 @@ window.allHeroes =
         "defense": 780,
         "health": 1477,
         "effects": [
-            "Destroys all Fiends from all allies.",
+            "Destroys all Fiends from all allies and damages Mega Fiends.",
             "Boosts health of all allies by 650. Boosted health can exceed max HP.",
             "If an ally had fiends they will be immune to new Fiends for 4 turns."
         ],
@@ -11616,7 +11631,7 @@ window.allHeroes =
         "health": 1390,
         "effects": [
             "All enemies receive 237 Water damage, and an increase of 33 damage per each Ice shield on the board over 3 turns, up to 633 damage. This effect is uncleansable for all Fire enemies.",
-            "All Ice enemies are immune to this attack"
+            "All Ice enemies are immune to this attack."
         ],
         "passives": [
             "Start Battle with Mana: This character receives 20% mana at the start of the battle."
@@ -11825,8 +11840,8 @@ window.allHeroes =
         "skill": "Gargantuan Bite",
         "types": [
             "Hit 1",
-            "Mana boost on kill",
-            "Self Heal"
+            "Mana Boost on kill",
+            "Heal Self"
         ],
         "skill_types": [
             "Mana Raisers",
@@ -11846,8 +11861,8 @@ window.allHeroes =
         "health": 1297,
         "effects": [
             "Deals 320% damage to the target.",
-            "Deals 640% damage if the target has less than 50% health remaining.",
-            "The caster gains a moderate amount of mana for each enemy killed and a small amount of mana for each enemy minion killed.",
+            "If the target has less than 50% health remaining, deals 640% damage instead.",
+            "The caster gains a moderate amount of mana for each enemy defeated and a small amount of mana for each enemy Minion destroyed.",
             "Heals the caster for 50% of damage dealt."
         ],
         "passives": [],
@@ -11891,8 +11906,8 @@ window.allHeroes =
         "skill": "Colossal Bite",
         "types": [
             "Hit 1",
-            "Self heal",
-            "Self Mana Boost"
+            "Heal Self",
+            "Boost Mana Self"
         ],
         "skill_types": [
             "Healers (Special)",
@@ -11958,9 +11973,10 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Keep the Peace",
         "types": [
-            "Mana reducer",
+            "Mana Reducer All",
             "Mana Generation Debuff All",
-            "Sword Guard Mega Minion"
+            "Sword Guard Mega Minion",
+            "Spreading DoT Minion"
         ],
         "skill_types": [
             "Mana Reducers or Blockers",
@@ -11989,7 +12005,7 @@ window.allHeroes =
         ],
         "passives": [
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Growth effects from all enemies."
         ],
         "family": "garrison",
@@ -12038,7 +12054,7 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Chain Hit",
-            "Defense Debuff"
+            "Defense Debuff on hit"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -12056,9 +12072,9 @@ window.allHeroes =
         "defense": 745,
         "health": 1314,
         "effects": [
-            "Deals 385% damage to the target",
-            "If the target has buffs, targets another enemy with buffs. If none of the other enemies have buffs, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once",
-            "All hit targets get -34% defense for 3 turns"
+            "Deals 385% damage to the target.",
+            "If the target has buffs, targets another enemy with buffs. If none of the other enemies have buffs, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.",
+            "All hit targets get -34% defense for 3 turns."
         ],
         "passives": [],
         "family": "pirate",
@@ -12100,8 +12116,8 @@ window.allHeroes =
         "skill": "Commodore's Malice",
         "types": [
             "Hit 1",
-            "Bounce",
-            "Defense Debuff"
+            "Chain Hit",
+            "Defense Debuff on hit"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -12198,7 +12214,7 @@ window.allHeroes =
             "Stack (Max: 10): All alies get +20% defense."
         ],
         "passives": [
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.",
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack.",
             "Heal when status ailment expires or is cleared: This character receives 5% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ],
         "family": "opera",
@@ -12239,8 +12255,9 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Shady Concerto",
         "types": [
-            "Hit all",
-            "Wither All",
+            "Hit All",
+            "Attack Wither All",
+            "Defense Wither All",
             "Mana Generation Debuff All"
         ],
         "skill_types": [
@@ -12391,7 +12408,7 @@ window.allHeroes =
         "skill": "Polar Bash",
         "types": [
             "Hit 3",
-            "EDD 3",
+            "Elemental Defense Debuff 3",
             "Dispeller 3"
         ],
         "skill_types": [
@@ -12419,7 +12436,7 @@ window.allHeroes =
             "Element Link gives all Ice allies +46% defense against Nature for 4 turns. This effect can't be cleansed."
         ],
         "passives": [
-            "Resist Attack Ailments: This character has an innate resistance against status ailments that affect Attack."
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack."
         ],
         "family": "hotm2019",
         "costume_id": 0,
@@ -12491,7 +12508,7 @@ window.allHeroes =
             "Element Link gives all Ice allies small amounts of mana at the end of the turn for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Burn: This character has innate resistance against Burn.",
+            "Resist Burn: This character is immune to status ailments that deal Burn damage.",
             "Cleanse on Minion Death: This character is cleansed of status ailments when a Minion owned by them is destroyed."
         ],
         "family": "hotm2021",
@@ -12555,7 +12572,7 @@ window.allHeroes =
             "The caster and nearby allies get +40% critical chance for 3 turns."
         ],
         "passives": [
-            "Resist Mana Reduction: This character is immune to mana reductions.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -12601,6 +12618,7 @@ window.allHeroes =
         "skill": "Educated Exorcism",
         "types": [
             "Hit 1",
+            "Fiend Damage Immunity All",
             "Fiend Immunity All"
         ],
         "skill_types": [
@@ -12696,11 +12714,11 @@ window.allHeroes =
             "The caster steals 45% of the generated mana from the target and nearby enemies. The effect lasts as long as the target has Fallen Star Fiends. This effect can't be cleansed, but it gets removed if the caster dies."
         ],
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Destructive Core: The Construct Core of this character is Destructive Core.",
             "The Destructive Core activates each time this character's Special Skill is cast",
             "* With fully charged Destructive Core, deals 180% damage to all enemies.",
-            "* The damage is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
+            "* The damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -12928,12 +12946,12 @@ window.allHeroes =
         "effects": [
             "This Special Skill never misses its targets.",
             "Deals 600% damage to the target.",
-            "The target becomes marked for 3 turns. Whenever a marked target dodges, they gain a stack (Max: 10). Each stack increases all damage the target receives by +5%.",
+            "The target gets a Mark of Dodge for 3 turns. Whenever a marked target dodges, they gain a stack (Max: 10). Each stack increases all damage the target receives by +5%.",
             "Element Link gives all Ice allies +10% additional Special Skill damage for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
-            "Mana on Enemy Defensive Buffs: This character gains 10% mana when any enemy receives a defenseive buff."
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
+            "Mana on Enemy Defensive Buff: This character gains 10% mana when an enemy receives a status effect buff that affects defense. This effect can activate only once per turn."
         ],
         "family": "hotm2024",
         "costume_id": 0,
@@ -12978,6 +12996,7 @@ window.allHeroes =
         "skill": "Midnight Magic",
         "types": [
             "Hit 3",
+            "Boost SS Damage Buff 3",
             "Cleanser All"
         ],
         "skill_types": [
@@ -13005,7 +13024,7 @@ window.allHeroes =
             "Element Link summons an Ice Minion for all Ice allies with 6% HP and 10% attack inherited from the caster."
         ],
         "passives": [
-            "Resist Buff Immunity: This character has innate resistance against status ailments that give immunity to new buffs."
+            "Resist Buff Blocking: This character is immune to effects that would block them from receiving new status effect buffs."
         ],
         "family": "hotm2020",
         "costume_id": 0,
@@ -13158,7 +13177,7 @@ window.allHeroes =
         "effects": [
             "Recovers 54% health for all allies.",
             "Growth: All allies get 450 attack and 450 defense.",
-            "All allies get +30% mana generation for 4 turns. If the effect is removed before the durantion ends, the target with effect gets +10% mana."
+            "All allies get +30% mana generation for 4 turns. If the effect is removed before the duration ends, the target with effect gets +10% mana."
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill.",
@@ -13222,7 +13241,7 @@ window.allHeroes =
         "defense": 782,
         "health": 1483,
         "effects": [
-            "For the next 3 turns, this character deals 225% damage to all enemies each time any other ally casts their Special skill. Damage is dealt on the first Special Skill cast of each character per turn. Damage is dealt on the first Special Skill cast of each character per turn.",
+            "For the next 3 turns, this character deals 225% damage to all enemies each time any other ally casts their Special skill. (Damage is dealt on the first Special Skill cast of each character per turn. Damage is dealt on the first Special Skill cast of each character per turn.)",
             "All allies get +34% mana generation for 3 turns."
         ],
         "passives": [],
@@ -13494,7 +13513,8 @@ window.allHeroes =
         "skill": "Grips of Longing",
         "types": [
             "Dispeller 1",
-            "Hit 1"
+            "Hit 1",
+            "Damage Increased SS 3"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -13597,7 +13617,7 @@ window.allHeroes =
             "The target and nearby enemies get -70% decrease of any healing received for 4 turns."
         ],
         "passives": [
-            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 315 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -13908,7 +13928,7 @@ window.allHeroes =
             "Element Link gives all Ice allies +10% attack for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Burn: This character has innate resistance against Burn.",
+            "Resist Burn: This character is immune to status ailments that deal Burn damage.",
             "Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled from this character. This effect can activate only once per turn."
         ],
         "family": "hotm2022",
@@ -14366,7 +14386,7 @@ window.allHeroes =
             "Hit 1",
             "Chain Hit",
             "Blind All",
-            "Elemental Attack Buff"
+            "Attack Buff All Ice"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -14395,9 +14415,9 @@ window.allHeroes =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -14516,8 +14536,7 @@ window.allHeroes =
         "skill": "Love Cannon",
         "types": [
             "Hit 1",
-            "Mindless heal 1",
-            "Hit random 3",
+            "Hit Random 3",
             "Mindless Heal on Hit"
         ],
         "skill_types": [
@@ -14691,8 +14710,8 @@ window.allHeroes =
         "defense": 900,
         "health": 1652,
         "effects": [
-            "Cook random foord for special effect (Activation chance for each effect):",
-            "- Exquiste Food (45%)",
+            "Cook random food for special effect (Activation chance for each effect):",
+            "- Exquisite Food (45%)",
             "* Recovers 50% health for all allies.",
             "* Growth: All allies get 400 defense.",
             "- Rotten Food (45%)",
@@ -14757,8 +14776,8 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Attack Debuff 1",
-            "EDD 1",
-            "Self SS Defense Buff"
+            "Elemental Defense Debuff 1",
+            "SS Defense Buff Self"
         ],
         "skill_types": [
             "Buffers (DEF)",
@@ -14826,8 +14845,8 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Hailstorm",
         "types": [
-            "Hit all",
-            "Dot All"
+            "Hit All",
+            "DoT All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -14854,8 +14873,8 @@ window.allHeroes =
             "Element Link gives all ice allies +10% defense for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
-            "Resist Mana Reduction: This character has innate resistance against mana reduction."
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skill.",
+            "Resist Mana Reduction: This character is immune to mana reductions."
         ],
         "family": "hotm2022",
         "costume_id": 0,
@@ -14902,7 +14921,7 @@ window.allHeroes =
         "types": [
             "Summoner All",
             "Taunt",
-            "Self Defense Buff",
+            "Defense Buff Self",
             "Attack Buff All"
         ],
         "skill_types": [
@@ -14924,7 +14943,7 @@ window.allHeroes =
         "effects": [
             "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns.",
-            "The caster gets +44% defense, and a further 10% increase every time they are hit during 3 turns.  This effect can't be dispelled.",
+            "The caster gets +44% defense, and a further 10% increase every time they are hit during 3 turns, up to +94% defense. This effect can't be dispelled.",
             "All allies get +50% attack for 3 turns"
         ],
         "passives": [],
@@ -15269,7 +15288,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Trickster's Mischief",
         "types": [
-            "Copy Special Skill",
+            "Copy Special Skill 1",
             "Hit 1"
         ],
         "skill_types": [
@@ -15324,8 +15343,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Shapeshifter's Deception",
         "types": [
-            "Copy Buffs",
-            "Copy Special Skill",
+            "Copy Buffs 1",
+            "Copy Special Skill 1",
             "Hit 1"
         ],
         "skill_types": [
@@ -15562,7 +15581,7 @@ window.allHeroes =
             "All allies regenerate 1270 boosted health over 5 turns. Boosted health can exceed max HP."
         ],
         "passives": [
-            "Mana on Buff Received: Gain 5% mana when receiving a buff or a positive stack.",
+            "Mana on Buff Received: This character gains 5% mana when receiving a buff or a positive stack.",
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ],
         "family": "stag",
@@ -16078,7 +16097,7 @@ window.allHeroes =
         "skill": "Healing Mirror",
         "types": [
             "Healer All",
-            "Moonrise Ward",
+            "Moonrise Ward All",
             "Cleanser All"
         ],
         "skill_types": [
@@ -16104,7 +16123,7 @@ window.allHeroes =
             "Cleanses status ailments from all allies."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -16149,7 +16168,7 @@ window.allHeroes =
         "skill": "Reckless Finisher",
         "types": [
             "Hit 3",
-            "Self Defense Debuff"
+            "Defense Debuff Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -16208,7 +16227,7 @@ window.allHeroes =
         "skill": "Rift Blade",
         "types": [
             "Hit All",
-            "Self Mana Generation Debuff"
+            "Mana Generation Debuff Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -16369,7 +16388,7 @@ window.allHeroes =
             "Element Link gives all Ice allies +20% critical chance for 6 turns. This effect cannot be dispelled."
         ],
         "passives": [
-            "Resist Burn: This character has innate resistance against Burn.",
+            "Resist Burn: This character is immune to status ailments that deal Burn damage.",
             "Mana on Frost: This character gains 5% mana each time an enemy receives Frost damage."
         ],
         "family": "hotm2024",
@@ -16411,7 +16430,7 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Wrath of Tundra",
         "types": [
-            "Titan Attack Buff",
+            "Titan Attack Buff All",
             "Silencer 3"
         ],
         "skill_types": [
@@ -16437,7 +16456,7 @@ window.allHeroes =
             "Element Link gives +4% mana regeneration for all Ice allies for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Special Skill Blocking: This character has an innate resistance against status aliments that Block Special Skills."
+            "Resist Special Skill Blocking: This character has is immune to status ailments that prevent the use of Special Skill."
         ],
         "family": "hotm2019",
         "costume_id": 0,
@@ -16477,7 +16496,7 @@ window.allHeroes =
         "skill": "Masterful Manipulation",
         "types": [
             "Hit All",
-            "Self HoT",
+            "HoT Self",
             "Reflect Buffs All",
             "Reflect Ailments All"
         ],
@@ -16879,7 +16898,7 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Possible Extra Hits",
-            "Mana Boost All"
+            "Mana Boost All on hit"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -16942,7 +16961,7 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Possible Extra Hits",
-            "Mindless Attack"
+            "Mindless Attack on hit"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -17068,7 +17087,7 @@ window.allHeroes =
         "skill": "Cut Down the Competition",
         "types": [
             "Hit All",
-            "Healer"
+            "Healer All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -17099,7 +17118,7 @@ window.allHeroes =
         "passives": [
             "Mana Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.",
             "Damage on Enemy Special: If a target is Average mana speed or faster casts a Special Skill, all enemies receive 100 damage. This effect can activate only once per turn.",
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack."
         ],
         "family": "champions",
         "costume_id": 0,
@@ -17139,7 +17158,7 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Seastar Burst",
         "types": [
-            "Booste Healer All",
+            "Boosted Heal All",
             "Max Health Reduction All",
             "Hit All"
         ],
@@ -17168,7 +17187,7 @@ window.allHeroes =
             "Deals 180% damage to all enemies."
         ],
         "passives": [
-            "Resist Water Damage: This character has innate resistance against Water Damage.",
+            "Resist Water: This character is immune to status ailments that deal Water damage.",
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 210 Water damage over 2 turns."
         ],
         "family": "beachparty",
@@ -17506,7 +17525,7 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Hit Random",
-            "DoT",
+            "DoT on hit",
             "Summoner 3"
         ],
         "skill_types": [
@@ -17654,9 +17673,9 @@ window.allHeroes =
         "skill": "Pathfinder's Compass",
         "types": [
             "Healer All",
-            "Mana boost 3",
-            "Mana gen buff 2",
-            "Critical Buff 3"
+            "Mana Boost 2",
+            "Mana Generation Buff 2",
+            "Critical Chance Buff 3"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -17685,10 +17704,10 @@ window.allHeroes =
             "The caster and nearby allies get +50% critical chance for 4 turns."
         ],
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character has is immune to status ailments that prevent the use of Special Skill.",
             "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
             "* With fully charged Repair Core, boosts the health of all allies by 25%.",
-            "* The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
+            "* The healing is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -17760,7 +17779,7 @@ window.allHeroes =
         ],
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its target.",
-            "Resist Burn: This character has innate resistance against Burn."
+            "Resist Burn: This character is immune to status ailments that deal Burn damage."
         ],
         "family": "hotm2025",
         "costume_id": 0,
@@ -17805,7 +17824,7 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Wrath of the Nine Beaks",
         "types": [
-            "Hit 9",
+            "Hit Random 9",
             "Buffs Duration Reset All",
             "Status Ailment Reset All",
             "Attack Buff All",
@@ -18070,7 +18089,7 @@ window.allHeroes =
         ],
         "passives": [
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Doesn't apply to status ailments that affect elemental defense."
+            "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense."
         ],
         "family": "opera",
         "costume_id": 0,
@@ -18728,7 +18747,7 @@ window.allHeroes =
             "Nearby allies receive Softskin. (The next time they receive damage, it is reduced by -90%. They are also immune to all status ailments, mana reductions and Insanity. This effect can't be dispelled.)"
         ],
         "passives": [
-            "Gargoyle's Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 5 times they receive damage, it is reduced by -90%. They are also immune to all status ailments, mana reductions and Insanity. This effect can't be dispelled."
+            "Gargoyle's Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 3 times they receive damage, it is reduced by -90%. They are also immune to all status ailments, mana reductions and Insanity. This effect can't be dispelled."
         ],
         "family": "gargoyle",
         "costume_id": 0,
@@ -18851,7 +18870,7 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Board Alterer",
-            "Self Boosted HoT"
+            "Boosted HoT Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -19010,10 +19029,10 @@ window.allHeroes =
         "types": [
             "Boosted Heal All",
             "Buff Immunity All",
-            "Elemental Fire Blind",
-            "Elemental Dark Mana Gen Debuff",
-            "Elemental Holy Defense Debuff",
-            "Elemental Nature Attack Debuff"
+            "Blind All Fire enemies",
+            "Mana Gen Debuff All Dark enemies",
+            "Defense Debuff All Holy enemies",
+            "Attack Debuff All Nature enemies"
         ],
         "skill_types": [
             "Buff Blockers",
@@ -19045,9 +19064,9 @@ window.allHeroes =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -19109,7 +19128,7 @@ window.allHeroes =
         "health": 1396,
         "effects": [
             "Deals 420% damage to the target.",
-            "The target receives 100% damage for all the damage their allies receive for 4 turns."
+            "For 4 turns, the target receives 100% damage for all the damage dealt to their allies."
         ],
         "passives": [],
         "family": "raven",
@@ -19149,7 +19168,7 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Ice Treatment",
         "types": [
-            "Healer",
+            "Healer All",
             "HoT All",
             "Cleanser All"
         ],
@@ -19178,7 +19197,7 @@ window.allHeroes =
             "Element Link gives all Ice allies +30% defense against Special Skills for 4 turns. This effect can't be cleansed."
         ],
         "passives": [
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect Attack."
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack."
         ],
         "family": "hotm2020",
         "costume_id": 0,
@@ -19253,7 +19272,7 @@ window.allHeroes =
             "Stack +2 (Max: 10): The caster recovers 20 HP each turn."
         ],
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects."
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
         ],
         "family": "slayers",
         "costume_id": 0,
@@ -19962,7 +19981,7 @@ window.allHeroes =
         "skill": "Vengeful Backstab",
         "types": [
             "Hit 1",
-            "Hiding"
+            "Hiding Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -20035,7 +20054,7 @@ window.allHeroes =
         "skill": "Artful Backstab",
         "types": [
             "Hit 1",
-            "Hiding"
+            "Hiding Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -20270,7 +20289,8 @@ window.allHeroes =
         "skill": "Thousand Palm Strikes",
         "types": [
             "Hit all",
-            "Drop to 1 Damage 3"
+            "Drop to 1 Damage 3",
+            "Dispeller all on dispelled effect"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -20298,7 +20318,7 @@ window.allHeroes =
             "The caster and nearby allies have 55% chance to drop any received damage to 1 for 4 turns. If this effect is dispelled, it dispels buffs from all enemies."
         ],
         "passives": [
-            "Mana Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.",
+            "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.",
             "Health Boost on Buff Dispel: This character receives 450 boosted health each time a buff is dispelled from this character. This effect can activate only once per turn.",
             "Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled from them. This effect can activate only once per turn."
         ],
@@ -20646,8 +20666,8 @@ window.allHeroes =
         "skill": "Iceberg Crush",
         "types": [
             "Hit All",
-            "DoT Stack",
-            "Mana Generation Debuff Stack"
+            "DoT Stack All on enemy/minion defeated",
+            "Mana Generation Debuff Stack All on enemy/minion defeated"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -20668,8 +20688,8 @@ window.allHeroes =
         "health": 1411,
         "effects": [
             "Deals 220% damage to all enemies.",
-            "The damage is increased by 50% per each dead enemy.",
-            "Stack (Max: 10): All enemies receive 35 Frost damage per each killed enemy or enemy minion at the end of each turn.",
+            "The damage is increased by 50% per each defeated enemy.",
+            "Stack (Max: 10): All enemies receive 30 Frost damage per each defeated enemy or enemy minion at the end of each turn.",
             "Stack (Max: 10): All enemies get -6% mana generation per each killed enemy or enemy minion."
         ],
         "passives": [],
@@ -20719,8 +20739,8 @@ window.allHeroes =
         "skill": "Iceberg Havoc",
         "types": [
             "Hit 3",
-            "DoT Stack",
-            "Mana Generation Debuff Stack"
+            "DoT Stack All on enemy/minion defeated",
+            "Mana Generation Debuff Stack All on enemy/minion defeated"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -20938,8 +20958,8 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Enchanted Edge",
         "types": [
-            "Dispeller",
-            "Cleanser",
+            "Dispeller All",
+            "Cleanser All",
             "Hit All"
         ],
         "skill_types": [
@@ -20960,8 +20980,9 @@ window.allHeroes =
         "defense": 747,
         "health": 1299,
         "effects": [
-            "Cleanses all buffs and status ailments from all allies and enemies.",
-            "Deals 180% damage to all enemies, and additional 15% damage per removed status effect, up to 420% damage in total."
+            "Dispels and cleanses all buffs and status ailments from all allies and enemies.",
+            "Deals 180% damage to all enemies.",
+            "Deals additional 15% damage per removed status effect, up to 420% damage in total."
         ],
         "passives": [],
         "family": "fable",
@@ -21418,8 +21439,8 @@ window.allHeroes =
             "All enemies get -35% defense for 3 turns. If the effect is removed before the duration ends, the target with effect suffers 577 damage."
         ],
         "passives": [
-            "Share Received Damage: 20% of damage received by this character is shared with other allies.",
-            "Resist Poison: This character has innate resistance against Poison."
+            "Resist Poison: This character is immune to status ailments that deal Poison damage.",
+            "Share Received Damage: 20% of damage received by this character is shared with other allies."
         ],
         "family": "astral_elves",
         "costume_id": 0,
@@ -21495,7 +21516,7 @@ window.allHeroes =
             "Element Link recovers 4% health for all Ice allies for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Healing Ailments: This character has innate resistance against status ailments that affect healing.",
+            "Resist Healing Ailments: This character is immune to status ailments that affect healing.",
             "Resist Fiends: This character can't receive Fiends."
         ],
         "family": "hotm2023",
@@ -21569,7 +21590,7 @@ window.allHeroes =
             "The target and nearby enemies get a Mark of Bleed for 3 turns. Whenever a marked target receives Bleed damage, they gain a stack (Max: 10). Each stack increases all damage the target receives by 5%."
         ],
         "passives": [
-            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 346 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -21694,7 +21715,7 @@ window.allHeroes =
         "skill": "Amphibious Assault",
         "types": [
             "Hit 3",
-            "Dot 3",
+            "DoT 3",
             "Attack Buff All"
         ],
         "skill_types": [
@@ -21833,9 +21854,9 @@ window.allHeroes =
         "speed": "Changing Tides",
         "skill": "Ocean's Embrace",
         "types": [
-            "Heal all",
-            "Status Ailment Reset",
-            "Status Ailment Immunity"
+            "Heal All",
+            "Status Ailments Immunity All",
+            "Status Ailments Reset All"
         ],
         "skill_types": [
             "Effect Duration Resetters",
@@ -21867,8 +21888,7 @@ window.allHeroes =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
-            "* All allies get +21% critical chance for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "* All allies get +21% critical chance for 2 turns."
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
@@ -21997,7 +22017,8 @@ window.allHeroes =
         "types": [
             "Charge",
             "Healer All",
-            "Mana Generation Buff All"
+            "Mana Generation Buff All",
+            "Mana Increase All"
         ],
         "skill_types": [
             "Healers",
@@ -22032,8 +22053,8 @@ window.allHeroes =
             "* All allies get +40% mana generation for 4 turns."
         ],
         "passives": [
-            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
+            "Weaker Minions: Enemy Minions have -50% HP.",
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
         "family": "styx",
         "costume_id": 0,
@@ -22449,7 +22470,7 @@ window.allHeroes =
         "skill": "For Queen And Hollow",
         "types": [
             "Dispeller 3",
-            "Hit 3",
+            "Moonrose Strike Hit 3",
             "Buff Immunity 3"
         ],
         "skill_types": [
@@ -22474,11 +22495,11 @@ window.allHeroes =
         "health": 1643,
         "effects": [
             "Dispels buffs from the target and nearby enemies.",
-            "Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1500 damage. Deals 40% more damage if the target is Holy.",
+            "Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1500 damage. Deals 40% more damage if the target is Holy. This Special Skill never misses its targets.",
             "The target and nearby enemies are immune to new status effect buffs for 3 turns."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -22598,9 +22619,9 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Protective Stance",
         "types": [
-            "Heal All",
-            "Hit All",
-            "Stack 1"
+            "Delayed Heal All",
+            "Delayed Damage All",
+            "Attack Stack Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -22628,8 +22649,8 @@ window.allHeroes =
             "Stack (Max: 10): The caster gets +15% attack against the weaker element."
         ],
         "passives": [
-            "Damage over time on special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
-            "Hunter's Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack."
+            "Hunter's Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack.",
+            "Damage over time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
@@ -22937,7 +22958,7 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Dot All",
-            "Atack debuff All"
+            "Attack Debuff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -22966,7 +22987,7 @@ window.allHeroes =
             "Element link gives all Ice allies +10% critical chance for 6 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Negative Minion Effects: This character has an innate resistance against incoming negative effects and damage from Minions."
+            "Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions."
         ],
         "family": "hotm2020",
         "costume_id": 0,
@@ -23248,9 +23269,9 @@ window.allHeroes =
         "skill": "Harpoon Sentry",
         "types": [
             "Summoner All",
-            "Mana reducer Minion",
-            "SS Defense Down Minion hit",
-            "Buff Immunity Minion hit"
+            "Mana Reducing Minion",
+            "SS Defense Down on Minion hit",
+            "Buff Immunity on Minion hit"
         ],
         "skill_types": [
             "Buff Blockers",
@@ -23557,7 +23578,7 @@ window.allHeroes =
         "skill": "Blue Shroom Wand",
         "types": [
             "Hit 1",
-            "Summoner 1",
+            "Summoner Self",
             "Spreading DoT 1"
         ],
         "skill_types": [
@@ -23624,10 +23645,10 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Great Frost Axe",
         "types": [
-            "Damage 1",
-            "Damage 2 if Fire",
-            "Dot 1",
-            "Dot 2 if Fire"
+            "Hit 1",
+            "Hit 2 if Fire",
+            "DoT 1",
+            "DoT 2 if Fire"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -23655,9 +23676,9 @@ window.allHeroes =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -25817,7 +25838,7 @@ window.allHeroes =
             "Attacks the target and nearby enemies with Moonrise Strike, dealing up to 700 damage. Deals 20% more damage if the target is of the Holy element. This Special Skill never misses its targets."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -26252,7 +26273,7 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Enchanted Axe Swing",
         "types": [
-            "Dispeller",
+            "Dispeller All",
             "Hit All"
         ],
         "skill_types": [
@@ -27005,7 +27026,8 @@ window.allHeroes =
         "skill": "Spear of Shu",
         "types": [
             "Hit 1",
-            "Summoner"
+            "Summoner Self",
+            "Counterattack Minion"
         ],
         "skill_types": [
             "Counterattackers",
@@ -27070,8 +27092,9 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Gentleman's Cane",
         "types": [
+            "Humility",
             "Hit 3",
-            "Self Counterattack"
+            "Counterattack Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -27656,8 +27679,8 @@ window.allHeroes =
         "skill": "Situational Awareness",
         "types": [
             "Hit 3",
-            "Defense buff",
-            "Critical chance buff"
+            "Defense Buff 3",
+            "Critical Chance Buff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -27683,7 +27706,7 @@ window.allHeroes =
             "The caster and nearby allies get +36% critical chance for 3 turns."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -32280,7 +32303,7 @@ window.allHeroes =
             "All damage received by the caster is also dealt to all Soul Bound enemies. (Damage is shared between all Soul Bound enemies. This effect will not share damage coming from other shared damage sources or counterattacks.)"
         ],
         "passives": [
-            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted heath and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 209 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -32536,7 +32559,8 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Fiend Summoner 3",
-            "Self Boosted HoT"
+            "Buff Stealing Fiend",
+            "Boosted HoT Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -32760,8 +32784,8 @@ window.allHeroes =
         "skill": "Ancient Mirror",
         "types": [
             "Hit All",
-            "Elemental Reflect All",
-            "Elemental Counterattack All"
+            "Elemental Counterattack All",
+            "Elemental Reflect All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -32899,8 +32923,8 @@ window.allHeroes =
         "skill": "Midsummer's Dream",
         "types": [
             "Reviver",
-            "HoT",
-            "MoT"
+            "HoT All",
+            "MoT All"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -32965,8 +32989,9 @@ window.allHeroes =
         "skill": "Midsummer's Reverie",
         "types": [
             "Reviver",
-            "HoT",
-            "MoT"
+            "HoT All",
+            "Mana Generation Buff All",
+            "MoT All"
         ],
         "skill_types": [
             "Heal over Time (HoT)",
@@ -32993,7 +33018,7 @@ window.allHeroes =
         "effects": [
             "Each fallen ally has a 38% chance to get revived with 28% HP.",
             "All allies regenerate 648 HP over 4 turns.",
-            "All allies ge +38% mana generation for 4 turns.",
+            "All allies get +38% mana generation for 4 turns.",
             "Element Link gives all Nature allies +15% attack and +15 defense for 6 turns. This effect can't be dispelled."
         ],
         "passives": [
@@ -33039,8 +33064,9 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Bypass Minions",
-            "EDD",
-            "Sword Guard Mega Minion"
+            "Elemental Defense Debuff All",
+            "Sword Guard Mega Minion",
+            "Spreading DoT Minion"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -33070,7 +33096,7 @@ window.allHeroes =
             "The target hit by the Sword Guard Mega Minion receives 441 Bleed damage over 3 turns. This effect spreads to nearby enemies."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Growth effects from all enemies."
         ],
         "family": "garrison",
@@ -33119,8 +33145,9 @@ window.allHeroes =
         "skill": "Fabled Llama Ballad",
         "types": [
             "Hit All",
-            "Buff Immunity Debuff",
-            "Self Blind"
+            "Buff Immunity Debuff All",
+            "Damage on attempted buff",
+            "Blind Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -33247,8 +33274,8 @@ window.allHeroes =
         "skill": "Gargoyles of Redemption",
         "types": [
             "Fiend Replacement All",
-            "Minion Summoner All",
-            "Boosted Health per Minion"
+            "Summoner All",
+            "Boosted Health per Minion owned"
         ],
         "skill_types": [
             "Fiends Counters",
@@ -33311,7 +33338,8 @@ window.allHeroes =
         "skill": "Make Them Harmless",
         "types": [
             "Hit All",
-            "Bodyguard Mega Minion"
+            "Bodyguard Mega Minion",
+            "Sleep on Minion hit"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -33334,10 +33362,10 @@ window.allHeroes =
         "effects": [
             "Deals 300% damage to all enemies.",
             "Summons a Bodyguard Mega Minion with 50% HP and 250% attack inherited from the caster.",
-            "The target hit by the Bodyguard Mega Minion falls asleep and receives +60% increased damage when sleeping. (A sleeping target cannot gain mana. The sleeping target is woken once it takes damage. This excludes dmaage from Minions and Fiends. The effect is uncleansable.)"
+            "The target hit by the Bodyguard Mega Minion falls asleep and receives +60% increased damage when sleeping. (A sleeping target cannot gain mana. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. The effect is uncleansable.)"
         ],
         "passives": [
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.",
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack.",
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ],
         "family": "opera",
@@ -33484,8 +33512,9 @@ window.allHeroes =
         "types": [
             "Minion Destroyer 1",
             "Hit 1",
+            "Mana boosts on minion destroyed",
             "Bypass",
-            "Boosted HoT"
+            "HoT Self"
         ],
         "skill_types": [
             "Bypassers",
@@ -33558,9 +33587,9 @@ window.allHeroes =
         "types": [
             "Minion Destroyer 1",
             "Hit 1",
-            "Bypass",
             "Mana boost on Minion Destroyed",
-            "Boosted HoT"
+            "Bypass",
+            "Boosted HoT Self"
         ],
         "skill_types": [
             "Bypassers",
@@ -33926,7 +33955,7 @@ window.allHeroes =
         "skill": "Slumber Spores",
         "types": [
             "Hit 1",
-            "Sleep"
+            "Sleep 1"
         ],
         "skill_types": [
             "Extra Damage Dealers",
@@ -33957,7 +33986,7 @@ window.allHeroes =
             "Element Link gives +10% increase for any healing received for all Nature allies for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist buff immunity: This character has innate resistance against status ailments that give immunity to new buffs.",
+            "Resist Buff Blocking: This character is immune to effects that would block them from receiving new status effect buffs.",
             "Health recovery on buff received: This character recovers 5% health when they receive a buff or a positive stack."
         ],
         "family": "hotm2021",
@@ -34025,7 +34054,10 @@ window.allHeroes =
             "Lifts all cleansable status ailments that affect attack or defense from all allies and randomly distributes them on enemies.",
             "Element Link summons a Nature Minion for all Nature allies with 6% HP and 10% attack inherited from the caster."
         ],
-        "passives": [],
+        "passives": [
+            "Resist Blind: This character is immune to status ailments that affect accuracy. Doesn't apply to original status effects from allies.",
+            "Mana on Minion Death: This character gains a small amount of mana when a Minion owned by them is destroyed."
+        ],
         "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 486,
@@ -34294,7 +34326,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Boar Call",
         "types": [
-            "White Boar Mega Minion"
+            "White Boar Mega Minion",
+            "Counterattack Mega Minion"
         ],
         "skill_types": [
             "Counterattackers",
@@ -34822,8 +34855,8 @@ window.allHeroes =
         "skill": "Fury of Ash",
         "types": [
             "Hit All",
-            "Healing Decrease",
-            "DoT"
+            "Healing Decrease All",
+            "DoT All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -34851,8 +34884,8 @@ window.allHeroes =
             "Element Link gives +10% mana generation for all Nature allies for 4 turns. This effect cannot be dispelled."
         ],
         "passives": [
-            "Increased Attack Per Non-Nature Enemy: At the start of the battle, this character's attack is increased by 5% for enemy that is not of Nature element. In battles with multiple waves, this effect is refreshed at the beginning of each wave.",
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack.",
+            "Increased Attack Per Non-Nature Enemy: At the start of the battle, this character's attack is increased by 5% for enemy that is not of Nature element. In battles with multiple waves, this effect is refreshed at the beginning of each wave."
         ],
         "family": "hotm2023",
         "costume_id": 0,
@@ -34893,8 +34926,8 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Spectre's Flail",
         "types": [
-            "Hit 5 random",
-            "Attack Debuff stack"
+            "Hit Random 5",
+            "Attack Debuff stack on hit"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -35337,9 +35370,10 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Blazing Venom",
         "types": [
-            "Hit All",
+            "Firestorm Strike All",
             "Bypass Minions",
-            "DoT All"
+            "DoT All",
+            "Burn and Poison Increased Damage Debuff All"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -35369,7 +35403,7 @@ window.allHeroes =
             "All enemies take +50% increased damage from Burn and Poison status ailments for 4 turns."
         ],
         "passives": [
-            "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 330 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -35421,7 +35455,7 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Spreading DoT 1",
-            "Attack Stack All"
+            "Attack Buff Stack All"
         ],
         "skill_types": [
             "Snipers",
@@ -35448,7 +35482,7 @@ window.allHeroes =
             "Stack (Max 10): All allies get +25% attack."
         ],
         "passives": [
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.",
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack.",
             "Heal when status ailment expires or is cleared: This character receives 5% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ],
         "family": "opera",
@@ -35496,7 +35530,7 @@ window.allHeroes =
         "types": [
             "Hit 2",
             "Health boost for 3",
-            "Silencer"
+            "Silencer 2"
         ],
         "skill_types": [
             "Health Boosters",
@@ -35697,9 +35731,9 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Hemlock Tea",
         "types": [
-            "Hit all",
+            "Hit All",
             "Bypass",
-            "Cleanse Immunity All"
+            "Cleanse Immunity Debuff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -35720,8 +35754,8 @@ window.allHeroes =
         "health": 1693,
         "effects": [
             "Deals 250% damage to all enemies.",
-            "The attack bypasses defensive buffs. This includes counterattacks.",
-            "The enemies can't get their status ailments cleansed or reallocated by Special Skills for 3 turns."
+            "The attack bypasses defensive buffs. (This includes counterattacks.)",
+            "All enemies can't get their status ailments cleansed or reallocated by Special Skills for 3 turns."
         ],
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies."
@@ -35848,7 +35882,7 @@ window.allHeroes =
         "types": [
             "Minion Destroyer 1",
             "Hit 1",
-            "Health reduction on Minion owner"
+            "Health reduction on each Minion owner"
         ],
         "skill_types": [
             "Max Health Reducers",
@@ -36711,7 +36745,7 @@ window.allHeroes =
             "Element Link gives all Nature allies small amount of mana at the end of the turn for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that Block Special Skills.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack."
         ],
         "family": "hotm2021",
@@ -36995,8 +37029,8 @@ window.allHeroes =
         "skill": "Shattering Warcry",
         "types": [
             "Hit 3",
-            "Elemental Defense Debuff",
-            "Dispeller"
+            "Elemental Defense Debuff 3",
+            "Dispeller 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -37064,8 +37098,8 @@ window.allHeroes =
         "skill": "Warcry of the Hunt",
         "types": [
             "Hit 3",
-            "Elemental Defense Debuff",
-            "Dispeller"
+            "Elemental Defense Debuff 3",
+            "Dispeller 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -37257,7 +37291,7 @@ window.allHeroes =
             "The target and nearby enemies reflect status effect buffs to a random character on the opposing team for 3 turns. (Only dispellable buffs are reflected.)"
         ],
         "passives": [
-            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted heath and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 337 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -37308,7 +37342,7 @@ window.allHeroes =
             "Fiend Destroyer All",
             "Cleanser All",
             "HoT All",
-            "Dot All"
+            "DoT All"
         ],
         "skill_types": [
             "Cleansers",
@@ -37330,14 +37364,14 @@ window.allHeroes =
         "defense": 912,
         "health": 1876,
         "effects": [
-            "Destroys all Fiends from all allies.",
+            "Destroys all Fiends from all allies and damages all Mega Minions.",
             "Cleanses status ailments from all allies.",
             "All allies regenerate 1190 HP over 5 turns. This effect can't be dispelled.",
             "All enemies receive 815 Poison damage over 5 turns. This effect can't be cleansed."
         ],
         "passives": [
-            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed.",
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
+            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed."
         ],
         "family": "masquerade",
         "costume_id": 0,
@@ -37384,8 +37418,8 @@ window.allHeroes =
         "skill": "Corroding Cutlass",
         "types": [
             "Hit 3",
-            "DoT",
-            "Elemental Defense Debuff"
+            "DoT 3",
+            "Elemental Defense Debuff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -37414,9 +37448,9 @@ window.allHeroes =
             "The target and nearby enemies get -60% defense against Nature for 3 turns."
         ],
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skill.",
             "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast:",
-            "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 128 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 128 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "construct",
@@ -37600,7 +37634,7 @@ window.allHeroes =
         "skill": "Electric Cut",
         "types": [
             "Hit 3",
-            "Cleanser"
+            "Cleanser All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -37670,7 +37704,7 @@ window.allHeroes =
         "skill": "Electric Stab",
         "types": [
             "Hit 3",
-            "Cleanser",
+            "Cleanser All",
             "Elemental Defense Debuff All Ice"
         ],
         "skill_types": [
@@ -37819,7 +37853,7 @@ window.allHeroes =
         "skill": "Brittling Force",
         "types": [
             "Hit All",
-            "Defense Debuff"
+            "Defense Debuff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -37953,8 +37987,8 @@ window.allHeroes =
         "skill": "Royal Poisoner",
         "types": [
             "Hit All",
-            "DoT",
-            "Mana gen debuff"
+            "DoT All",
+            "Mana Generation Debuff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -38053,10 +38087,10 @@ window.allHeroes =
             "All allies' normal attacks and Special Skills deals +85% damage against targets with boosted health for 3 turns."
         ],
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character's Special Skill is cast:",
             "* With fully charged Destructive Core, deals 180% damage to all enemies.",
-            "* The damage is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
+            "* The damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -38170,8 +38204,9 @@ window.allHeroes =
         "skill": "Testudo Roll",
         "types": [
             "Minion Destroyer All",
-            "Hit all",
-            "Defense Buff All"
+            "Hit All",
+            "Defense Buff All",
+            "Heal Stack on minion destroyed"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -38207,8 +38242,7 @@ window.allHeroes =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
-            "* All allies get +21% critical chance for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "* All allies get +21% critical chance for 2 turns."
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
@@ -38342,7 +38376,7 @@ window.allHeroes =
         "skill": "Flail of Destruction",
         "types": [
             "Hit 1",
-            "Self HoT"
+            "HoT Self"
         ],
         "skill_types": [
             "Heal over Time (HoT)",
@@ -38546,7 +38580,7 @@ window.allHeroes =
         "types": [
             "Mana steal 1",
             "Hit 1",
-            "Mana gen Buff All"
+            "Mana Generation Buff All"
         ],
         "skill_types": [
             "Mana Generation Buffers",
@@ -38725,9 +38759,9 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Hasty Trigger Finger",
         "types": [
-            "Summoner",
-            "Hit 1 on Ally SS",
-            "SS Damage Buff All"
+            "Summoner All",
+            "Hit Random 1 on Ally SS",
+            "SS Damage Buff 4"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -38870,8 +38904,9 @@ window.allHeroes =
         "skill": "Holding Down the Fort",
         "types": [
             "Healer All",
-            "Ailments Immunity All",
-            "Spear Guard Mega Minion"
+            "Ailments Immunity Buff All",
+            "Spear Guard Mega Minion",
+            "Dispeller Minion"
         ],
         "skill_types": [
             "Healers",
@@ -38899,7 +38934,7 @@ window.allHeroes =
             "Each hit from the Spear Guard Mega Minion dispels all dispellable buffs from the target."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -39055,7 +39090,7 @@ window.allHeroes =
             "Element Link gives all Nature allies immunity to new Fiends for 4 turns."
         ],
         "passives": [
-            "Resist Burn: This character has innate resistance against Burn.",
+            "Resist Burn: This character is immune to status ailments that deal Burn damage.",
             "Mana on Taunt: Each time an enemy receives a Taunt status effect this character's mana is increased by 10%."
         ],
         "family": "hotm2022",
@@ -39098,7 +39133,8 @@ window.allHeroes =
         "types": [
             "Defense debuff",
             "Hit all",
-            "Self Resurrection"
+            "Self Resurrection",
+            "Damage All on resurrection"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -39169,7 +39205,7 @@ window.allHeroes =
         "skill": "Unwavering Focus",
         "types": [
             "Hit 1",
-            "Critical Hit Buff"
+            "Critical Chance Buff All"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -39230,7 +39266,7 @@ window.allHeroes =
         "skill": "Exquisite Alchemy",
         "types": [
             "Hit 1",
-            "Critical Hit Buff"
+            "Critical Chance Buff All"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -39453,7 +39489,7 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Bypass Minions",
-            "Defense Debuff"
+            "Defense Debuff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -39520,7 +39556,7 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Bypass Minions",
-            "Defense Debuff"
+            "Defense Debuff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -39548,9 +39584,9 @@ window.allHeroes =
         ],
         "passives": [
             "Unstoppable Minions:",
-            "* Resistance against Minion removal.",
+            "* Immune to effects that remove Minions.",
             "* Can't be prevented from receiving Minions.",
-            "* Minion attack and abilities can't be disabled."
+            "* Minion attacks and abilities can't be disabled."
         ],
         "family": "kingdom",
         "costume_id": 1,
@@ -39594,10 +39630,10 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Elemental Magic",
         "types": [
-            "Dispeller",
-            "Attack Buff",
-            "Critical Buff",
-            "Element Change"
+            "Dispeller All",
+            "Element Change All",
+            "Attack Buff All",
+            "Critical Chance Buff All"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -39663,7 +39699,7 @@ window.allHeroes =
         "skill": "Demolishing Crush",
         "types": [
             "Hit 3",
-            "Damage Receive Debuff"
+            "Damage Receive Debuff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -39763,16 +39799,16 @@ window.allHeroes =
             "Above or equal to 50%:",
             "* The ally gets +50% defense for 3 turns.",
             "* The ally gets +34% mana generation for 3 turns.",
-            "Bellow 50% HP:",
+            "Below 50% HP:",
             "* The ally regenerates 810 HP over 3 turns.",
             "* The ally gets +50% defense for 3 turns.",
             "* The ally counterattacks with 130% of the damage received for 3 turns."
         ],
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skill.",
             "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
             "* With fully charged Repair Core, boosts the health of all allies by 25%.",
-            "* The healing is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
+            "* The healing is scaled by the amount of charge in the Core, All charge is exhausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -39819,9 +39855,9 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Boon of Gjallarhorn",
         "types": [
-            "Health Boost",
+            "Health Boost All",
             "Reviver",
-            "Attack Buff"
+            "Attack Buff All"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -39882,9 +39918,9 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Blessing of Gjallarhorn",
         "types": [
-            "Revive",
-            "Attack Buff",
-            "Regeneration"
+            "Reviver",
+            "Attack Buff All",
+            "Boosted HoT All"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -40508,8 +40544,8 @@ window.allHeroes =
         "skill": "Dreaded Waters",
         "types": [
             "Hit 3",
-            "Dot 3",
-            "Healing Steal"
+            "DoT 3",
+            "Healing Steal 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -41247,7 +41283,7 @@ window.allHeroes =
         "skill": "Stiletto Cyclone",
         "types": [
             "Hit 1",
-            "Attack Debuff"
+            "Attack Debuff 3"
         ],
         "skill_types": [
             "Debuffers (ATK)",
@@ -41272,7 +41308,7 @@ window.allHeroes =
             "Element Link gives +4% mana generation for all Nature allies for 4 turns. This effect can't be cleansed."
         ],
         "passives": [
-            "Resist Burn: The character has an innate resistance against Burn."
+            "Resist Burn: This character is immune to status ailments that deal Burn damage."
         ],
         "family": "hotm2019",
         "costume_id": 0,
@@ -41311,9 +41347,10 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Laundry Day",
         "types": [
-            "Dispel latest buff",
+            "Dispel latest buff All",
             "Hit All",
-            "Shield Guard Mega Minion"
+            "Shield Guard Mega Minion",
+            "Safely clean all allies Minion"
         ],
         "skill_types": [
             "Dispellers",
@@ -41343,7 +41380,7 @@ window.allHeroes =
             "The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment from all allies each turn. (Safe cleanse bypasses secondary effects, such as damage on removal, from the remove status ailment. External effects such as passive skills and family effects can still activate.)"
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -41412,8 +41449,8 @@ window.allHeroes =
         "defense": 665,
         "health": 1231,
         "effects": [
-            "The target and nearby enemies receive 932 damage over 4 turns, starting low and increasing with every turn",
-            "Cleanses status ailments from all allies"
+            "The target and nearby enemies receive 932 damage over 4 turns, starting low and increasing with every turn.",
+            "Cleanses status ailments from all allies."
         ],
         "passives": [],
         "family": "pirate",
@@ -41524,8 +41561,8 @@ window.allHeroes =
         "skill": "Magical Sword",
         "types": [
             "Healer",
-            "Summoner",
-            "Mana Reduction"
+            "Summoner 3",
+            "Mana Reduction Minion"
         ],
         "skill_types": [
             "Healers",
@@ -41543,9 +41580,9 @@ window.allHeroes =
         "defense": 741,
         "health": 1312,
         "effects": [
-            "Recovers 42% health for all allies",
-            "Summons a Magic Sword Minion for the caster and nearby allies with 14% HP and 15% attack inherited from the caster",
-            "The Minion removes -10% mana from the target when it hits them"
+            "Recovers 42% health for all allies.",
+            "Summons a Magic Sword Minion for the caster and nearby allies with 14% HP and 15% attack inherited from the caster.",
+            "The Minion removes -10% mana from the target when it hits them."
         ],
         "passives": [],
         "family": "knight",
@@ -41586,8 +41623,9 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Blessed Blades",
         "types": [
-            "Health Boost",
-            "Summoner"
+            "Health Boost All",
+            "Summoner 3",
+            "Mana Generation Debuff Minion"
         ],
         "skill_types": [
             "Health Boosters",
@@ -41740,7 +41778,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Spirit of Spring",
         "types": [
-            "Summoner"
+            "Summoner All",
+            "Minion Boosting Health",
+            "SS Increased Damage Buff All"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -41767,7 +41807,7 @@ window.allHeroes =
             "Element Link gives all Nature allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ],
         "passives": [
-            "Resist Max Health Reduction: This character has innate resistance against max health reduction.",
+            "Resist Max Health Reduction: This character is immune to max health reduction.",
             "Boosted Health From Dead Minion: This character recovers 50 boosted health when a minion owned by them is destroyed."
         ],
         "family": "hotm2023",
@@ -41810,7 +41850,7 @@ window.allHeroes =
         "skill": "Flute of Enchantment",
         "types": [
             "Defense Growth All",
-            "Mega Minion"
+            "Spotted Boar Mega Minion"
         ],
         "skill_types": [
             "Ability Scores Modifiers",
@@ -41832,7 +41872,7 @@ window.allHeroes =
         "effects": [
             "Growth: All allies get 355 defense.",
             "Summons a Spotted Boar Mega Minion with 65% HP and 260% attack inherited from the caster.",
-            "When summoned the Spotted Boar Mega Minion gives its owner immunity to buff dispels and reallocation for as long as the owner has a Spotted Boar Mega Minion. This immunity also includes this effect itself."
+            "When summoned the Spotted Boar Mega Minion gives its owner immunity to buff dispels and reallocation for as long as the owner has a Spotted Boar Mega Minion. (This immunity also includes this effect itself.)"
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
@@ -42004,7 +42044,7 @@ window.allHeroes =
         "skill": "Pure Shot",
         "types": [
             "Hit 1",
-            "Mana Generation Debuff"
+            "Mana Generation Debuff 1"
         ],
         "skill_types": [
             "Mana Reducers or Blockers",
@@ -42065,7 +42105,7 @@ window.allHeroes =
         "skill": "Flawless Shot",
         "types": [
             "Hit 1",
-            "Silencer"
+            "Silencer 1"
         ],
         "skill_types": [
             "Silencers",
@@ -42560,8 +42600,8 @@ window.allHeroes =
         "skill": "Call to Arms",
         "types": [
             "Hit 3",
-            "Summoner",
-            "Minion Counterattack"
+            "Summoner All",
+            "Counterattack Minion"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -42627,8 +42667,8 @@ window.allHeroes =
         "skill": "Forest Command",
         "types": [
             "Hit 3",
-            "Summoner",
-            "Minion Counterattack"
+            "Summoner All",
+            "Counterattack Minion"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -42656,9 +42696,9 @@ window.allHeroes =
         ],
         "passives": [
             "Unstoppable Minions:",
-            "* Resistance against Minion removal.",
+            "* Immune to effects that remove Minions.",
             "* Can't be prevented from receiving Minions.",
-            "* Minion attack and abilities can't be disabled."
+            "* Minion attacks and abilities can't be disabled."
         ],
         "family": "kingdom",
         "costume_id": 1,
@@ -42854,7 +42894,8 @@ window.allHeroes =
         "skill": "Bringer of Order",
         "types": [
             "Hit All",
-            "Defense Debuff"
+            "Defense Debuff All",
+            "Attack Debuff All Fire"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -42922,7 +42963,8 @@ window.allHeroes =
         "skill": "Protector of the Blue River",
         "types": [
             "Hit All",
-            "Defense Debuff"
+            "Defense Debuff All",
+            "Attack Debuff All Fire"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -43069,7 +43111,8 @@ window.allHeroes =
         "skill": "Hide in Shadows",
         "types": [
             "Hit 3",
-            "Dodge Buff"
+            "Dodge Chance Buff 3",
+            "Mana Boost on dodge"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -43094,7 +43137,7 @@ window.allHeroes =
             "Elemental Link gives all Nature allies +46% defense against Fire for 4 turns. This effect cannot be dispelled."
         ],
         "passives": [
-            "Resist Dispels: This character has an innate ability to resist dispels of buffs."
+            "Resist Dispels: This character is immune to effects that would dispel their status effect buffs."
         ],
         "family": "hotm2019",
         "costume_id": 0,
@@ -43135,7 +43178,7 @@ window.allHeroes =
         "skill": "Puppy Tales",
         "types": [
             "Heal All",
-            "Summoner",
+            "Summoner All",
             "Damage Reduction All"
         ],
         "skill_types": [
@@ -43498,8 +43541,9 @@ window.allHeroes =
         "skill": "Misty Punches",
         "types": [
             "Hit 3",
+            "Resist Healing Debuff 3",
             "Damage on each Resisted Healing 3",
-            "Self Elemental Attack Stack"
+            "Attack Stack Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -43572,8 +43616,8 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Leafglow Bloom",
         "types": [
-            "Hit All",
-            "Mana generation buff"
+            "Hit All after Enemy SS",
+            "Mana Generation Buff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -43598,7 +43642,7 @@ window.allHeroes =
             "All allies get +35% mana generation for 3 turns."
         ],
         "passives": [
-            "Resist Poison: This character has innate resistance against Poison.",
+            "Resist Poison: This character is immune to status ailments that deal Poison damage.",
             "Share Received Damage: 20% of damage received by this character is shared with other allies."
         ],
         "family": "astral_elves",
@@ -43638,7 +43682,8 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Devourer of Vitality",
         "types": [
-            "Health Drain"
+            "Health Drain 1",
+            "Elemental Defense Buff 3"
         ],
         "skill_types": [
             "Buffers (DEF)",
@@ -43706,9 +43751,9 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Super Porridge",
         "types": [
-            "Healer",
+            "Healer All",
             "Reviver",
-            "Summoner"
+            "Summoner All"
         ],
         "skill_types": [
             "Healers",
@@ -43770,7 +43815,7 @@ window.allHeroes =
         "skill": "Hyper Porridge",
         "types": [
             "Reviver",
-            "Summoner",
+            "Summoner All",
             "HoT All"
         ],
         "skill_types": [
@@ -44055,8 +44100,8 @@ window.allHeroes =
         "skill": "The Perfect Throw",
         "types": [
             "Hit 3",
-            "DoT",
-            "Boosted health convert"
+            "DoT 3",
+            "Boosted health convert 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -44501,7 +44546,7 @@ window.allHeroes =
         "types": [
             "Dispeller 1",
             "Hit 1",
-            "Elemental Debuff 1"
+            "Elemental Defense Debuff 1"
         ],
         "skill_types": [
             "Debuffers (DEF)",
@@ -44572,7 +44617,7 @@ window.allHeroes =
         "types": [
             "Dispeller 1",
             "Hit 1",
-            "Elemental Debuff 1"
+            "Elemental Defense Debuff 1"
         ],
         "skill_types": [
             "Debuffers (DEF)",
@@ -44650,7 +44695,8 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Hit 2 random",
-            "DoT"
+            "DoT on hit",
+            "Increased Bleed DoT on hit"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -44678,7 +44724,7 @@ window.allHeroes =
             "All hit targets take +50% increased damage from Bleed status ailments for 3 turns."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -44723,9 +44769,9 @@ window.allHeroes =
         "types": [
             "Self Resurrection",
             "Dance of the Heron 4",
-            "Counterattack",
-            "Damage reducer",
-            "Status Effect immunity"
+            "Counterattack 4",
+            "Reduced Damage 4",
+            "Status Effect Immunity"
         ],
         "skill_types": [
             "Counterattackers",
@@ -44748,15 +44794,17 @@ window.allHeroes =
         "health": 1823,
         "effects": [
             "If the caster is defeated during the next 5 turns, they are resurrected in the beginning of their next turn with 30% health and all allies recover 1100 HP. (All status effects and stacks are removed when the caster is defeated)",
-            "Casts Dance of the Heron to all allies but caster for 5 turns. All existing status effects will be removed when this effect is added.",
-            "Dance of the Heron",
+            "All allies except the caster dance the Dance of the Heron for 5 turns.",
+            "Dance of the Heron:",
             "* Counterattack with 130% of the damage received.",
             "* Received damage is reduced by -35%.",
-            "* Gives immunity to new status effects. New dance status effects will replace this effect.",
-            "* This effect cannot be dispelled. The effect is removed when the caster is defeated."
+            "Additional info:",
+            "* All existing status effects will be removed when a dance status effect is added.",
+            "* Dance gives immunity to new status effects. New dance status effects will replace this effect.",
+            "* Dance effect cannot be dispelled. The effect is removed when the caster is defeated."
         ],
         "passives": [
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Doesn't apply to status ailments that affect elemental defense.",
+            "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
             "Heal when status ailment expires or is cleared: This character receives 20% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ],
         "family": "opera",
@@ -44803,9 +44851,9 @@ window.allHeroes =
         "speed": "Very Fast",
         "skill": "Confident Strategy",
         "types": [
-            "Hit all",
-            "Steal 1 buff",
-            "Attack buff"
+            "Hit All",
+            "Steal 1 Buff All",
+            "Attack Buff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -44831,7 +44879,7 @@ window.allHeroes =
             "All allies get +8% attack per transferred status effect buff for 2 turns."
         ],
         "passives": [
-            "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
+            "Stop Minions: Enemy Minions can't attack or use abilities."
         ],
         "family": "zodiac",
         "costume_id": 0,
@@ -44876,7 +44924,7 @@ window.allHeroes =
         "skill": "The Queen's Speech",
         "types": [
             "Taunt",
-            "Self HoT",
+            "HoT Self",
             "Defense Buff All",
             "Mana Generation Buff All"
         ],
@@ -45165,7 +45213,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Nuts of Yggdrasil",
         "types": [
-            "Healer",
+            "Healer All",
             "Board Alterer"
         ],
         "skill_types": [
@@ -45226,7 +45274,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Roots of Yggdrasil",
         "types": [
-            "Healer",
+            "HoT All",
             "Board Alterer"
         ],
         "skill_types": [
@@ -45289,9 +45337,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Mixed Green Herbs",
         "types": [
-            "Healer",
+            "Healer All",
             "Reviver",
-            "Reduced damage from SS"
+            "Moonrise Ward All"
         ],
         "skill_types": [
             "Damage Reducers",
@@ -45312,11 +45360,11 @@ window.allHeroes =
         "health": 1695,
         "effects": [
             "Recovers 30% health for all allies.",
-            "Each fallen ally has a 40% chance to get revived with 30% HP.",
+            "Each defeated ally has a 40% chance to get revived with 30% HP.",
             "All allies a get Moonrise Ward for 4 turns, that reduces incoming Special Skill damage by -800. Reduces by additional 30% when attacker is Holy."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -45453,15 +45501,15 @@ window.allHeroes =
         "health": 1874,
         "effects": [
             "Deals 530% damage to the target.",
-            "If there are 6 or more Nature shields on the board damage is dealt to the target and nearby enemies.",
-            "If there are 12 or more Nature shields on the board damage is dealt to all enemies."
+            "If there are 6 or more Nature shields on the board damage is dealt to the target and nearby enemies instead.",
+            "If there are 12 or more Nature shields on the board damage is dealt to all enemies instead."
         ],
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -45526,9 +45574,9 @@ window.allHeroes =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +150%",
+            "* Dealt extra elemental damage: +150%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -25%"
+            "* Received elemental damage: -25%"
         ],
         "family": "super_elemental",
         "costume_id": 1,
@@ -45640,8 +45688,8 @@ window.allHeroes =
         "skill": "Prayer of the Desert",
         "types": [
             "Hit 1",
-            "Healer",
-            "Dodge Buff"
+            "Healer All",
+            "Dodge Chance Buff All"
         ],
         "skill_types": [
             "Dodgers",
@@ -45712,9 +45760,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Power of Flora",
         "types": [
-            "Defense Debuff",
+            "Defense Debuff 3",
             "Hit 1",
-            "Summoner"
+            "Summoner All"
         ],
         "skill_types": [
             "Debuffers (DEF)",
@@ -45741,8 +45789,8 @@ window.allHeroes =
             "Element Link gives all Nature allies +10% atack for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Minion Removal: This character has innate resistance against Minion removal.",
-            "Summon on Burn: Each time this character receives a Burn status ailment, they summon a Forest Guardian Minion for themseles. Forest Guardian Minion inherits 40% HP and 40% atack from this character."
+            "Resist Minion Removal: This character is immune to effects that would remove Minions from them.",
+            "Summon on Burn: Each time this character receives a Burn status ailment, they summon a Forest Guardian Minion for themselves. Forest Guardian Minion inherits 40% HP and 40% atack from this character."
         ],
         "family": "hotm2022",
         "costume_id": 0,
@@ -45786,9 +45834,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Goblin Serenade",
         "types": [
-            "Wither Attack Debuff",
-            "Health reduction",
-            "Defense Debuff"
+            "Attack Wither All",
+            "Health Reduction All",
+            "SS Defense Debuff All"
         ],
         "skill_types": [
             "Ability Scores Modifiers",
@@ -45997,7 +46045,7 @@ window.allHeroes =
         "speed": "Changing Tides",
         "skill": "Overwhelming Raid",
         "types": [
-            "Hit all",
+            "Hit All",
             "Fiend Summoner All"
         ],
         "skill_types": [
@@ -46070,7 +46118,7 @@ window.allHeroes =
         "speed": "Changing Tides",
         "skill": "Opposing Raid",
         "types": [
-            "Hit all",
+            "Hit All",
             "Fiend Summoner All"
         ],
         "skill_types": [
@@ -46221,8 +46269,8 @@ window.allHeroes =
         "skill": "Mallet Swing of the Beast",
         "types": [
             "Hit 3",
-            "Blind",
-            "DoT"
+            "Blind 3",
+            "DoT 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -46682,8 +46730,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Martial Prowess",
         "types": [
-            "Titan Attack Buff",
-            "HoT"
+            "Titan Attack Buff All",
+            "HoT All"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -46741,8 +46789,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Kane Prowess",
         "types": [
-            "Health Boost",
-            "Titan Attack Buff"
+            "Health Boost All",
+            "Titan Attack Buff All"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -46803,7 +46851,7 @@ window.allHeroes =
         "skill": "The Call to Hibernate",
         "types": [
             "Hit All",
-            "Sleep",
+            "Sleep All",
             "HoT All"
         ],
         "skill_types": [
@@ -46827,10 +46875,7 @@ window.allHeroes =
         "health": 1627,
         "effects": [
             "Deals 180% damage to all enemies.",
-            "All enemies fall asleep.",
-            "While asleep, the target can't attack or gain mana.",
-            "All damage dealt to the sleeping target is increased by +70%.",
-            "The sleeping target is woken once it takes damage. The excudes damage from Minions or Fiends.",
+            "All enemies fall asleep and receives +70% increased damage while sleeping. (A sleeping target cannot gain mana or attack. The sleeping target is woken once it takes damage. This excludes damage from Minions, Fiends, Mega Minions and Mega Fiends. This effect is uncleansable.)",
             "All allies regenerate 1200 HP over 4 turns."
         ],
         "passives": [
@@ -46907,7 +46952,7 @@ window.allHeroes =
             "Element Link gives all Nature allies +10% critical chance for 6 turns. This effect can't be cleansed."
         ],
         "passives": [
-            "Resist Minion Removal: The Hero has innate resistance against Minion Removal."
+            "Resist Minion Removal: This character is immune to effects that would remove Minions from them."
         ],
         "family": "hotm2020",
         "costume_id": 0,
@@ -46954,7 +46999,7 @@ window.allHeroes =
         "types": [
             "Charge",
             "Increased Damage from Ailments All",
-            "DoT all",
+            "DoT All",
             "Healer 3",
             "Damage from Ailments Immunity 3"
         ],
@@ -47210,7 +47255,7 @@ window.allHeroes =
         "skill": "Mad as a Hatter",
         "types": [
             "Hit 3",
-            "Buff Stealer"
+            "Buff Stealer All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -47269,8 +47314,8 @@ window.allHeroes =
         "skill": "Mad Tea Party",
         "types": [
             "Hit 3",
-            "Buff Stealer",
-            "Minion"
+            "Buff Stealer All",
+            "Minion Summoner Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -47338,10 +47383,10 @@ window.allHeroes =
         "skill": "Reporting for Duty",
         "types": [
             "Hit All",
-            "Reduce Ailments duration 3",
-            "Reduce Buff duration 3",
-            "Defense Buff",
-            "Defense Debuff"
+            "Reduce Ailments duration by 3 All",
+            "Reduce Buff duration by 3 All",
+            "Defense Buff All",
+            "Defense Debuff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -47372,7 +47417,7 @@ window.allHeroes =
         ],
         "passives": [
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -47649,7 +47694,7 @@ window.allHeroes =
         "skill": "Song of the Morass",
         "types": [
             "Hit 3",
-            "Accuracy debuff"
+            "Blind All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -47712,7 +47757,7 @@ window.allHeroes =
         "skill": "Poem of the Morass",
         "types": [
             "Hit 3",
-            "Accuracy debuff"
+            "Blind All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -47911,8 +47956,8 @@ window.allHeroes =
         "skill": "Swooping Talon",
         "types": [
             "Hit All",
-            "Dot",
-            "Blind"
+            "DoT All",
+            "Blind All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -47932,12 +47977,12 @@ window.allHeroes =
         "defense": 1046,
         "health": 1812,
         "effects": [
-            "Attacks all enemies with Moonrise Strike, dealing up to 1200 damage. Deals 40% more damage if the target is Holy.",
+            "Attacks all enemies with Moonrise Strike, dealing up to 1200 damage. Deals 40% more damage if the target is Holy. This Special Skill never misses its targets.",
             "All enemies receive 924 Bleed damage over 4 turns.",
-            "All enemies get -45% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills."
+            "All enemies get -45% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)"
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -48013,7 +48058,7 @@ window.allHeroes =
             "Element Link gives all Nature allies +5% chance to dodge status ailments for 4 turns. This effect cannot be dispelled."
         ],
         "passives": [
-            "Resist Poison: This character has innate resistance against Poison.",
+            "Resist Poison: This character is immune to status ailments that deal Poison damage.",
             "Health Boost of Poison: Boosts health of this character and nearby allies by 2% for each enemy inflicted with Poison at the end of each turn. Boosted health can exceed max HP."
         ],
         "family": "hotm2023",
@@ -48243,9 +48288,9 @@ window.allHeroes =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -48376,7 +48421,7 @@ window.allHeroes =
         "skill": "Power of the Forest",
         "types": [
             "Hit All",
-            "Self Power Boost",
+            "Power Boost Self",
             "Mana Corruption All"
         ],
         "skill_types": [
@@ -48475,7 +48520,7 @@ window.allHeroes =
             "All allies have a 60% chance to reflect any status ailment to a random character on the opposing team for 3 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)"
         ],
         "passives": [
-            "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
+            "Stop Minions: Enemy Minions can't attack or use abilities."
         ],
         "family": "zodiac",
         "costume_id": 0,
@@ -48603,8 +48648,8 @@ window.allHeroes =
         "skill": "Sand Storm",
         "types": [
             "Hit All",
-            "DOT All",
-            "Healing Debuff",
+            "DoT All",
+            "Healing Debuff All",
             "Cleanser All"
         ],
         "skill_types": [
@@ -48671,7 +48716,7 @@ window.allHeroes =
         "skill": "Wipeout",
         "types": [
             "Hit All",
-            "Dot all",
+            "DoT All",
             "Mana Generation Buff All",
             "Cleanser All"
         ],
@@ -48815,8 +48860,8 @@ window.allHeroes =
         "skill": "Emerald Flash",
         "types": [
             "Hit All",
-            "Attack Debuff",
-            "Dispeller"
+            "Attack Debuff All",
+            "Dispeller All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -48836,10 +48881,10 @@ window.allHeroes =
         "defense": 688,
         "health": 1308,
         "effects": [
-            "Deals 255% damage to all enemies",
-            "All enemies get -34% attack for 4 turns",
-            "Deals extra damage against Ice",
-            "Dispels buffs from all enemies",
+            "Deals 255% damage to all enemies.",
+            "All enemies get -34% attack for 4 turns.",
+            "Deals extra damage against Ice.",
+            "Dispels buffs from all enemies.",
             "Elemental Link gives +10% mana generation for all Nature allies for 4 turns. This effect can't be dispelled."
         ],
         "passives": [],
@@ -48890,9 +48935,9 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Plume Flash",
         "types": [
-            "Dispeller",
+            "Dispeller All",
             "Hit All",
-            "Attack Debuff"
+            "Attack Debuff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -49065,7 +49110,8 @@ window.allHeroes =
         "skill": "Keyknife Typhoon",
         "types": [
             "Hit 1",
-            "Mindless Attack"
+            "Mana Boosts 1",
+            "Mindless Attack 1"
         ],
         "skill_types": [
             "Mindless Attack & Mindless Heal",
@@ -49091,7 +49137,7 @@ window.allHeroes =
             "Element Link gives all Nature allies +30% defense against Special Skills for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Water Damage: This character has an innate resistance against Water damage."
+            "Resist Water: This character is immune to status ailments that deal Water damage."
         ],
         "family": "hotm2020",
         "costume_id": 0,
@@ -49131,9 +49177,9 @@ window.allHeroes =
         "skill": "Hoverboard Slam",
         "types": [
             "Hit 1",
-            "Hit All",
-            "Attack Debuff",
-            "Defense Debuff"
+            "Hit All on Ice hit",
+            "Attack Debuff All hit",
+            "Defense Debuff All hit"
         ],
         "skill_types": [
             "Debuffers (ATK)",
@@ -49155,16 +49201,16 @@ window.allHeroes =
         "health": 1670,
         "effects": [
             "Deals 300% damage to the target.",
-            "If the target is of Ice element, deals 275% damage to all other enemes.",
+            "If the target is of Ice element, deals 275% damage to all other enemies.",
             "Hit enemies get -34% attack for 3 turns. Against Ice characters, this status effect becomes uncleasable and lasts 2 turns longer.",
             "Hit enemies get -34% defense for 3 turns. Against Ice characters, this status effect becomes uncleasable and lasts 2 turns longer."
         ],
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -51002,7 +51048,7 @@ window.allHeroes =
         "health": 839,
         "effects": [
             "Deals 121% damage to all enemies.",
-            "All enemies receive 102 damage over 6 turns."
+            "All enemies receive 96 Poison damage over 6 turns."
         ],
         "passives": [],
         "family": "classic",
@@ -53732,7 +53778,8 @@ window.allHeroes =
         "skill": "Black Tassel Spear Sting",
         "types": [
             "Hit 1",
-            "Defense Down"
+            "Status Ailments reset 1",
+            "Defense Debuff 1"
         ],
         "skill_types": [
             "Debuffers (DEF)",
@@ -53750,7 +53797,7 @@ window.allHeroes =
         "defense": 624,
         "health": 1379,
         "effects": [
-            "Deals 285% damage to target",
+            "Deals 285% damage to target.",
             "The duration of dispellable status ailments is reset for the target.",
             "The target gets -35% defense for 3 turns."
         ],
@@ -53963,7 +54010,7 @@ window.allHeroes =
             "The target and nearby enemies receive 900 Poison damage over 5 turns. The caster and all allies absorb 35% of the dealt Poison damage as health."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -54080,7 +54127,7 @@ window.allHeroes =
         "types": [
             "Boosted Healer All",
             "Reflect Ailments All",
-            "Self SS Defense Buff"
+            "SS Defense Buff Self"
         ],
         "skill_types": [
             "Buffers (DEF)",
@@ -54610,7 +54657,7 @@ window.allHeroes =
         "skill": "Purification",
         "types": [
             "Heal All",
-            "Cleanser"
+            "Cleanser All"
         ],
         "skill_types": [
             "Cleansers",
@@ -56251,8 +56298,8 @@ window.allHeroes =
         "skill": "Poisonous Mist",
         "types": [
             "Hit 3",
-            "Wither attack",
-            "Wither defense",
+            "Attack Wither 3",
+            "Defense Wither 3",
             "Reflect Buffs 3"
         ],
         "skill_types": [
@@ -56322,7 +56369,7 @@ window.allHeroes =
         "skill": "Bleed Inducing Daggers",
         "types": [
             "Fiend Summoner 1",
-            "Elemental Fiend Summoner"
+            "Fiend Summoner on Holy Enemies"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -57047,9 +57094,9 @@ window.allHeroes =
         "speed": "Very Slow",
         "skill": "Cube of Dark Realm",
         "types": [
-            "Hit 5",
-            "Health Reduction",
-            "Mindless Attack"
+            "Hit Random 5",
+            "Max Health Reduction on hit",
+            "Mindless Attack on hit"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -57111,9 +57158,9 @@ window.allHeroes =
         "speed": "Very Slow",
         "skill": "Cavalier Hat of Dark Realm",
         "types": [
-            "Hit 5",
-            "Health Reduction",
-            "Mindless Attack"
+            "Hit Random 5",
+            "Max Health Reduction on hit",
+            "Mindless Attack on hit"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -57330,7 +57377,7 @@ window.allHeroes =
         "skill": "Strange Incense",
         "types": [
             "Heal All",
-            "Buff Stealer 1",
+            "Buff Steal 1",
             "Sleep 1"
         ],
         "skill_types": [
@@ -57355,14 +57402,11 @@ window.allHeroes =
         "effects": [
             "Recover 32% health for all allies.",
             "Steals all dispellable buffs from the target and randomly distributes them on allies.",
-            "The target falls asleep.",
-            "While asleep, the target can't attack or gain mana.",
-            "All damage dealt to the sleeping target is increased by +50%.",
-            "The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends.",
+            "The target falls asleep and receives +50% increased damage while sleeping. (A sleeping character cannot gain mana or attack. The sleeping target is woken once it takes damage. This excludes damage from Minions, Fiends, Mega Minions and Mega Fiends. This effect is uncleansable)",
             "Elemental Link gives all Dark allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ],
         "passives": [
-            "Resist Blind: This character has innate resistance against status ailments that affect accurancy. Doesn't apply to status effects from allies.",
+            "Resist Blind: This character is immune to status ailments that affect accuracy. Doesn't apply to original status effects from allies.",
             "Health Recovery on Status Ailment Received: This character recovers 10% health when they receive a status ailment or negative stack."
         ],
         "family": "hotm2024",
@@ -57408,9 +57452,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Mark of Anubis",
         "types": [
-            "Greed",
-            "DoT all",
-            "Defense Debuff"
+            "Greed 1",
+            "DoT All",
+            "Defense Debuff All"
         ],
         "skill_types": [
             "Buff Blockers",
@@ -57556,9 +57600,9 @@ window.allHeroes =
         "skill": "Charmer's Blades",
         "types": [
             "Hit 3",
-            "Damage Boosted Heal All",
+            "Boosted Heal All",
             "Status Ailment Immunity All",
-            "Self Defense Buff"
+            "Defense Buff Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -57629,7 +57673,7 @@ window.allHeroes =
             "Hit 3",
             "Damage Boosted Heal All",
             "Status Ailment Immunity All",
-            "Self Damage Reduction Buff"
+            "Damage Reduction Buff Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -57703,7 +57747,7 @@ window.allHeroes =
         "skill": "Dagger of Shadows",
         "types": [
             "Hit 1",
-            "Dodge"
+            "Dodge Chance Self"
         ],
         "skill_types": [
             "Dodgers",
@@ -57732,7 +57776,7 @@ window.allHeroes =
         ],
         "passives": [
             "Status Effect on Mana Reduction: This character gets +30% attack for 3 turns when their mana reduced.",
-            "Resist Health Steal Ailments: This hero has innate resistance against status ailments that steal health."
+            "Resist Health Steal Ailments: This hero is immune to status ailments that steal health."
         ],
         "family": "hotm2022",
         "costume_id": 0,
@@ -58019,7 +58063,7 @@ window.allHeroes =
         "skill": "Quick and Nimble",
         "types": [
             "Hit All",
-            "Dodge Buff"
+            "Dodge Chance Buff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -58163,7 +58207,7 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mana Reduce 4 on Enemy SS",
-            "Mana Increase",
+            "Mana Increase All",
             "Hit All on Ally SS"
         ],
         "skill_types": [
@@ -58342,9 +58386,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Mystical Concerto",
         "types": [
-            "Heal all",
-            "Attack Buff",
-            "Dispel Immunity"
+            "Heal All",
+            "Attack Buff All",
+            "Dispel Immunity Buff All"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -58368,10 +58412,10 @@ window.allHeroes =
             "Recovers 42% health for all allies.",
             "All allies recover additional 8% health for each Fiend owned by the allies.",
             "All allies get +54% attack for 4 turns.",
-            "All allies are immune to buff dispels and reallocations for 4 turns. The immunity also includes this effect itself."
+            "All allies are immune to buff dispels and reallocations for 4 turns. (The immunity also includes this effect itself.)"
         ],
         "passives": [
-            "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Mana increase reduction: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "bard",
         "costume_id": 0,
@@ -58412,9 +58456,9 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Dísir of Dusk",
         "types": [
-            "Summoner",
-            "Minion Blocking",
-            "DoT 1"
+            "Summoner All",
+            "Minion hit with DoT 1",
+            "Minion hit with Minion Blocking"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -58433,8 +58477,8 @@ window.allHeroes =
         "health": 1369,
         "effects": [
             "Summons a Moth Minion for each ally. The Moth Minion inherits 20% HP and 20% attack from the caster.",
-            "Each hit from a Moth Minon gives the target the following status ailments:",
-            "* The target receives 207 Poison damage over 3 turns.",
+            "Each hit from a Moth Minion gives the target the following status ailments:",
+            "* The target receives 180 Poison damage over 3 turns.",
             "* The target resists new Minions for 3 turns."
         ],
         "passives": [],
@@ -58481,9 +58525,9 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Dísir of Dreams",
         "types": [
-            "Summoner",
-            "Minion Blocking",
-            "DoT 1"
+            "Summoner All",
+            "Minion hit with DoT 1",
+            "Minion hit with Minion Blocking"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -58552,9 +58596,9 @@ window.allHeroes =
         "speed": "Very Slow",
         "skill": "Unstoppable Growl",
         "types": [
-            "Mana Generation Buff",
-            "Mana Generation Debuff",
-            "Counterattack"
+            "Mana Generation Buff All",
+            "Mana Generation Debuff All",
+            "Counterattack All"
         ],
         "skill_types": [
             "Counterattackers",
@@ -58863,7 +58907,7 @@ window.allHeroes =
             "Can recast up to 3 times and chance to recast is reduced by -35% after every successful cast."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -58909,8 +58953,8 @@ window.allHeroes =
         "skill": "Stalling Spell",
         "types": [
             "Hit All",
-            "Mana Generation Debuff",
-            "Buff Immunity Debuff"
+            "Mana Generation Debuff All",
+            "Buff Immunity Debuff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -58938,7 +58982,7 @@ window.allHeroes =
             "Element Link gives +10% increase for any healing received for all Dark allies for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack."
         ],
         "family": "hotm2021",
@@ -59066,9 +59110,9 @@ window.allHeroes =
         "skill": "Ferry From the Beyond",
         "types": [
             "Charge",
-            "Boost health All",
+            "Boost Health All",
             "Reviver",
-            "HoT"
+            "HoT All"
         ],
         "skill_types": [
             "Health Boosters",
@@ -59101,8 +59145,8 @@ window.allHeroes =
             "* All allies regenerate 952 HP over 4 turns."
         ],
         "passives": [
-            "Resist Defense Ailments: This Hero has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
-            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
+            "Weaker Minions: Enemy Minions have -50% HP."
         ],
         "family": "styx",
         "costume_id": 0,
@@ -59167,7 +59211,7 @@ window.allHeroes =
             "Element Link gives all Dark allies +30% defense against Special Skills for 4 turns. This effect can't be cleansed."
         ],
         "passives": [
-            "Resist Poison: This character has innate resistance against Poison."
+            "Resist Poison: This character is immune to status ailments that deal Poison damage."
         ],
         "family": "hotm2020",
         "costume_id": 0,
@@ -59214,7 +59258,7 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Reduces buffs duration 3",
-            "Dot 3",
+            "DoT 3",
             "Mana Generation Debuff 3"
         ],
         "skill_types": [
@@ -59286,7 +59330,7 @@ window.allHeroes =
         "skill": "Pulsarstrike",
         "types": [
             "Hit 1",
-            "Reduces buffs duration 3",
+            "Reduces Buffs Duration 3",
             "DoT 3",
             "Mana Generation Debuff 3"
         ],
@@ -59510,9 +59554,9 @@ window.allHeroes =
         "speed": "Very Fast",
         "skill": "Unhallowed Spirits",
         "types": [
-            "Buff Stealer",
+            "Buff Steal 1",
             "Hit 1",
-            "Defense Debuff"
+            "Defense Wither 1"
         ],
         "skill_types": [
             "Ability Scores Modifiers",
@@ -59740,8 +59784,9 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Lady's Charm",
         "types": [
-            "Heal all",
-            "Summoner"
+            "Healer All",
+            "Summoner 3",
+            "Buff Stealing Minion"
         ],
         "skill_types": [
             "Buff Stealers",
@@ -59802,8 +59847,9 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Lady's Flowers",
         "types": [
-            "Healer",
-            "Summoner"
+            "Healer All",
+            "Summoner 3",
+            "Buff Stealing Minion"
         ],
         "skill_types": [
             "Buff Stealers",
@@ -59831,8 +59877,8 @@ window.allHeroes =
         ],
         "passives": [
             "Unstoppable Minions:",
-            "* Resistance against Minion removal.",
-            "* Can't be prevented from receiving minions.",
+            "* Immune to effects that remove Minions.",
+            "* Can't be prevented from receiving Minions.",
             "* Minion attacks and abilities can't be disabled."
         ],
         "family": "kingdom",
@@ -60223,7 +60269,7 @@ window.allHeroes =
         "skill": "Blinding Wisdom",
         "types": [
             "Hit 3",
-            "Accuracy Debuff"
+            "Blind 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -60286,7 +60332,7 @@ window.allHeroes =
         "skill": "Blinding Knowledge",
         "types": [
             "Hit 3",
-            "Accuracy Debuff"
+            "Blind 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -60354,8 +60400,8 @@ window.allHeroes =
         "skill": "Astral Dominion",
         "types": [
             "Hit All",
-            "Mana Generation debuff",
-            "Healing debuff"
+            "Mana Generation Debuff All",
+            "Healing Debuff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -60385,7 +60431,7 @@ window.allHeroes =
             "All enemies get -85% decrease of any healing received for 4 turns."
         ],
         "passives": [
-            "Resist Poison: This character has innate resistance against Poison.",
+            "Resist Poison: This character is immune to status ailments that deal Poison damage",
             "Share Received Damage: 20% of damage received by this character is shared with other allies."
         ],
         "family": "astral_elves",
@@ -60503,9 +60549,9 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Night's Whisper",
         "types": [
-            "Healer",
-            "Firestorm Ward",
-            "Status Ailments Immunity"
+            "Healer All",
+            "Firestorm Ward Buff All",
+            "Status Ailments Immunity All"
         ],
         "skill_types": [
             "Healers",
@@ -60534,7 +60580,7 @@ window.allHeroes =
             "All allies are immune to new status ailments for 4 turns."
         ],
         "passives": [
-            "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted heath and 5% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 308 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -60905,7 +60951,7 @@ window.allHeroes =
         "skill": "Arrow of Desire",
         "types": [
             "Hit 1",
-            "Damage Received Debuff"
+            "Damage Received Debuff 1"
         ],
         "skill_types": [
             "Extra Damage Dealers",
@@ -61124,8 +61170,8 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Ravens' Vigil",
         "types": [
-            "Summoner",
-            "Defense Buffer"
+            "Summoner All",
+            "Defense Buff All"
         ],
         "skill_types": [
             "Buffers (DEF)",
@@ -61186,8 +61232,8 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Ravens' Watch",
         "types": [
-            "Summoner",
-            "Dodge Buff"
+            "Summoner All",
+            "Dodge Chance Buff All"
         ],
         "skill_types": [
             "Dodgers",
@@ -61461,8 +61507,8 @@ window.allHeroes =
         "skill": "Titantooth Blade",
         "types": [
             "Hit 1",
-            "Defense Debuff",
-            "Mana Gain Freeze"
+            "Defense Debuff 1",
+            "Mana Gain Freeze 1"
         ],
         "skill_types": [
             "Debuffers (DEF)",
@@ -61695,9 +61741,9 @@ window.allHeroes =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -61810,7 +61856,8 @@ window.allHeroes =
         "skill": "Gnomish Carnage",
         "types": [
             "Minion Destroyer All",
-            "Hit All"
+            "Hit All",
+            "Mana Boost All on minion kill"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -61837,7 +61884,7 @@ window.allHeroes =
             "Element Link gives all Dark allies +10% critical chance for 6 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Blind: This character has an innate resistance against status ailments that affect Accuracy. Doesn't apply to status effects from allies."
+            "Resist Blind: This character is immune to status ailments that affect accuracy. Doesn't apply to original status effects from allies."
         ],
         "family": "hotm2019",
         "costume_id": 0,
@@ -61882,8 +61929,8 @@ window.allHeroes =
         "skill": "Eye of the Panther",
         "types": [
             "Hit 3",
-            "Dispeller",
-            "Elemental Defense Debuff"
+            "Elemental Defense Debuff 3",
+            "Dispeller 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -61901,9 +61948,9 @@ window.allHeroes =
         "defense": 630,
         "health": 1349,
         "effects": [
-            "Deals 210% damage to the target and nearby enemies",
-            "The target and nearby enemies get -54% defense against Dark for 4 turns",
-            "Dispels buffs from the target and nearby enemies"
+            "Deals 210% damage to the target and nearby enemies.",
+            "The target and nearby enemies get -54% defense against Dark for 4 turns.",
+            "Dispels buffs from the target and nearby enemies."
         ],
         "passives": [],
         "family": "guardian",
@@ -61948,8 +61995,9 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Roar of the Panther",
         "types": [
-            "Hit all",
-            "Defense Debuff"
+            "Hit All",
+            "Defense Debuff All",
+            "Buff Immunity Debuff All"
         ],
         "skill_types": [
             "Buff Blockers",
@@ -62318,7 +62366,7 @@ window.allHeroes =
         "skill": "Medicinal Fumes",
         "types": [
             "Boosted HoT All",
-            "Mana Regen All",
+            "Mana Boost over time All",
             "Reflect Ailments All",
             "Reflect Stacks All"
         ],
@@ -62391,7 +62439,7 @@ window.allHeroes =
         "skill": "Crush of Hel",
         "types": [
             "Hit 3",
-            "Mana Gain Freeze"
+            "Mana Gain Freeze 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -62411,10 +62459,10 @@ window.allHeroes =
         "defense": 692,
         "health": 1328,
         "effects": [
-            "Deals 375% damage to the target and minor damage to nearby enemies",
-            "The target and nearby enemies can't gain mana for 4 turns",
-            "Deals extra damage against Holy",
-            "Elemental Link gives all Dark allies +15% attack and +15% defense for 6 turns. This effect can't be displelled."
+            "Deals 375% damage to the target and minor damage to nearby enemies.",
+            "The target and nearby enemies can't gain mana for 4 turns.",
+            "Deals extra damage against Holy.",
+            "Elemental Link gives all Dark allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
         ],
         "passives": [],
         "family": "hotm2017",
@@ -62460,7 +62508,7 @@ window.allHeroes =
         "skill": "Crush of Malice",
         "types": [
             "Hit All",
-            "Mana Steal"
+            "Mana Steal All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -62569,7 +62617,7 @@ window.allHeroes =
             "At the end of each turn, steals the latest dispellable buff from all enemies and distributes them randomly among allies for 5 turn."
         ],
         "passives": [
-            "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 312 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -62703,7 +62751,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Pet Larva",
         "types": [
-            "Summoner"
+            "Summoner All",
+            "Mana Generation Buff Minion",
+            "Defense Buff Minion"
         ],
         "skill_types": [
             "Buffers (DEF)",
@@ -62770,7 +62820,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Larva Prescription",
         "types": [
-            "Summoner"
+            "Summoner All",
+            "Mana Generation Buff Minion",
+            "Defense Buff Minion"
         ],
         "skill_types": [
             "Buffers (DEF)",
@@ -62918,8 +62970,9 @@ window.allHeroes =
         "skill": "Firestone Daggers",
         "types": [
             "Hit 3",
+            "Status Ailments Reset",
             "DoT 3",
-            "Stack"
+            "Attack Stack Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -63155,8 +63208,8 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Sideswipe",
         "types": [
-            "Hit 3",
-            "Dot 3"
+            "Hit 2",
+            "DoT 2"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -63216,7 +63269,8 @@ window.allHeroes =
         "skill": "Avenger of Mothkind",
         "types": [
             "Hit 2",
-            "Dot"
+            "DoT 2",
+            "Mana Generation Debuff on DoT"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -63287,7 +63341,7 @@ window.allHeroes =
             "Hit 1",
             "DoT 1",
             "Hit all",
-            "Dot All"
+            "DoT All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -63322,8 +63376,8 @@ window.allHeroes =
             "* All enemies receives 730 Poision damage over 5 turns. The caster and all their allies absorb 30% of the dealt Poison damage as health."
         ],
         "passives": [
-            "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully changed, all enemies get two stacks. An enemy can have up to 10 stacks.",
-            "Health Recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully changed, the chance is 100%."
+            "Health Recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully changed, the chance is 100%.",
+            "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully changed, all enemies get two stacks. An enemy can have up to 10 stacks."
         ],
         "family": "magic",
         "costume_id": 0,
@@ -63619,7 +63673,7 @@ window.allHeroes =
         "types": [
             "Dispeller 1",
             "Hit 1",
-            "Buff immunity 1",
+            "Buff Immunity 1",
             "Defense Debuff 1"
         ],
         "skill_types": [
@@ -64031,7 +64085,7 @@ window.allHeroes =
         "skill": "Bleeding Edge",
         "types": [
             "Hit 1",
-            "Attack Buff"
+            "Attack Buff 3"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -64050,7 +64104,7 @@ window.allHeroes =
         "health": 1336,
         "effects": [
             "Deals 422% damage to the target",
-            "The caster and nearby allies get +45% attack, and a further 20% increase every time they are hit during 3 turns.",
+            "The caster and nearby allies get +45% attack, and a further 20% increase every time they are hit during 3 turns, up to +145% attack.",
             "Element Link recovers 4% health for all Dark allies for 6 turns. This effect can't be cleansed"
         ],
         "passives": [],
@@ -64092,7 +64146,7 @@ window.allHeroes =
         "skill": "Bleeding Hammer",
         "types": [
             "Hit 1",
-            "Attack Buff"
+            "Attack Buff 3"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -64159,7 +64213,8 @@ window.allHeroes =
         "speed": "Very Fast",
         "skill": "Midnight Strike",
         "types": [
-            "Hit 1"
+            "Hit 1",
+            "Mana boost Self on kill"
         ],
         "skill_types": [
             "Mana Raisers",
@@ -64294,7 +64349,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Reckless Swing",
         "types": [
-            "Hit All"
+            "Hit All",
+            "Defense Debuff All allies except Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -64352,7 +64408,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Championship Carrot",
         "types": [
-            "Hit all"
+            "Hit All",
+            "Attack Debuff All allies except Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -64556,9 +64613,9 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Power of Ajna",
         "types": [
-            "Healer",
-            "Defense Debuffer",
-            "Cleanser"
+            "Healer All",
+            "Defense Debuff All",
+            "Cleanser All"
         ],
         "skill_types": [
             "Cleansers",
@@ -64585,7 +64642,7 @@ window.allHeroes =
             "Element Link gives all Dark allies +46% defense against Holy for 4 turns. This effect can't be cleansed."
         ],
         "passives": [
-            "Resist Defense Ailments: This character has an innate resistance against status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect Elemental Defense."
+            "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense."
         ],
         "family": "hotm2019",
         "costume_id": 0,
@@ -64729,9 +64786,7 @@ window.allHeroes =
             "Deals 158% damage to the target.",
             "Cast Full Removal on the target. (Full Removal removes all status efects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleasable.)",
             "The target shifts into Abyss Ghost form for 4 turns.",
-            "While in Abyss Ghost form the target receives 88 damage each turn.",
-            "While in Ghost form, Character can't gain mana and can't be healed by Special Skills, but it is immune to normal attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.",
-            "Can't be cast if there's only one enemy left in battle."
+            "While in Abyss Ghost form the target receives 88 damage each turn. (While in Ghost form, Character can't gain mana and can't be healed by Special Skills, but it is immune to normal attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects. Can't be cast if there's only one enemy left in battle. Titans and Mythic Titans are not affected by this status effect.)"
         ],
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character."
@@ -65015,8 +65070,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Feather Tempest",
         "types": [
-            "Dispeler all",
-            "Hit all"
+            "Dispeler All",
+            "Hit All",
+            "Defense Debuff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -65259,9 +65315,9 @@ window.allHeroes =
         ],
         "passives": [
             "Unstoppable Minions:",
-            "* Resistance against Minion removal.",
+            "* Immune to effects that remove Minions.",
             "* Can't be prevented from receiving Minions.",
-            "* Minion attack and abilities can't be disabled."
+            "* Minion attacks and abilities can't be disabled."
         ],
         "family": "kingdom",
         "costume_id": 1,
@@ -65308,7 +65364,7 @@ window.allHeroes =
             "Hit 3",
             "Blind 3",
             "Defense Debuff 3",
-            "Self HoT"
+            "HoT Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -65330,7 +65386,7 @@ window.allHeroes =
         "health": 1751,
         "effects": [
             "Deals 470% damage to target and nearby enemies.",
-            "The target and nearby enemies get -40% accuracy for 6 turns. Chance to miss also applies to offensive Special Skills.",
+            "The target and nearby enemies get -40% accuracy for 6 turns. (Chance to miss also applies to offensive Special Skills.)",
             "The target and nearby enemies get -34% defense for 6 turns.",
             "The caster regenerates 918 HP over 6 turns."
         ],
@@ -65382,7 +65438,8 @@ window.allHeroes =
         "skill": "Fullmetal Pelt",
         "types": [
             "Taunt",
-            "MoT"
+            "SS Defense Buff Self",
+            "MoT 2"
         ],
         "skill_types": [
             "Buffers (DEF)",
@@ -65439,7 +65496,8 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Lunar Blessing",
         "types": [
-            "Healer 3"
+            "Healer 3",
+            "Moon Beam Buff 3"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -65467,7 +65525,7 @@ window.allHeroes =
         ],
         "passives": [
             "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.",
-            "Wrath of pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
+            "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
         ],
         "family": "mighty_pet",
         "costume_id": 0,
@@ -65507,9 +65565,9 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Summoning of Ballerinas",
         "types": [
-            "Hit all",
+            "Hit All",
             "Fiend Summoner All",
-            "Buff Immunity Fiend",
+            "Buff Immunity Fiends",
             "Elemental Defense Debuff All"
         ],
         "skill_types": [
@@ -65540,8 +65598,8 @@ window.allHeroes =
             "All enemies get -44% defense against Dark for 4 turns."
         ],
         "passives": [
-            "Heal when status ailment expires or is cleared: This character receives 20% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack.",
+            "Heal when status ailment expires or is cleared: This character receives 20% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ],
         "family": "opera",
         "costume_id": 0,
@@ -65587,7 +65645,8 @@ window.allHeroes =
         "skill": "Join In Joyful Song",
         "types": [
             "Boost Health All",
-            "Mega Minion"
+            "Shield Guard Mega Minion",
+            "Safely Clean all allies Minion"
         ],
         "skill_types": [
             "Health Boosters",
@@ -65615,7 +65674,7 @@ window.allHeroes =
             "The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment from all allies each turn. (Safe cleanse bypasses secondary effect, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate.)"
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -65661,8 +65720,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Grimoire Skim",
         "types": [
-            "Gambler",
-            "Hit 3"
+            "Hit 3",
+            "Gambler"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -65698,7 +65757,7 @@ window.allHeroes =
             "Element Link gives all Dark allies small amount of mana at the end of the turn for 4 turns. This effect can't be dispelled"
         ],
         "passives": [
-            "Resist Health Steal Ailments: This character has innate resistance against status ailments that steal health.",
+            "Resist Health Steal Ailments: This character is immune to status ailments that steal health.",
             "Status Effect on Mana Reduction: This character gets +94% defense against Holy for 3 turns when their mana is reduced."
         ],
         "family": "hotm2021",
@@ -65746,9 +65805,9 @@ window.allHeroes =
         "skill": "Zombie Blessing",
         "types": [
             "Hit All",
-            "Healer",
-            "Defense Buffer",
-            "Zombie Buff"
+            "HoT All",
+            "Defense Buff All",
+            "Zombie Blessing Buff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -65817,9 +65876,10 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Zombie Invocation",
         "types": [
-            "Hit all",
-            "Health boost",
-            "Zombie"
+            "Hit All",
+            "Boosted HoT All",
+            "Defense Buff All",
+            "Zombie Blessing Buff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -66042,8 +66102,8 @@ window.allHeroes =
         "skill": "Shatter Psyche",
         "types": [
             "Hit 3",
-            "Mindless attack 1",
-            "Healing debuff 3"
+            "Mindless Attack 1",
+            "Healing Debuff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -66076,8 +66136,7 @@ window.allHeroes =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
-            "* The caster gets +19% mana generation for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "* The caster gets +19% mana generation for 2 turns."
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
@@ -66118,8 +66177,8 @@ window.allHeroes =
         "skill": "Shatter Soul",
         "types": [
             "Hit 3",
-            "Mindless attack 1",
-            "Healing debuff 3"
+            "Mindless Attack 1",
+            "Healing Debuff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -66369,6 +66428,7 @@ window.allHeroes =
         "skill": "Black Tide",
         "types": [
             "Hit All",
+            "Hit All allies",
             "Hits Ignore Dark"
         ],
         "skill_types": [
@@ -66436,8 +66496,8 @@ window.allHeroes =
         "skill": "Emerald Tide",
         "types": [
             "Hit All",
-            "Elemental Attack Buff",
-            "Attack Debuff"
+            "Attack Buff All dark",
+            "Attack Debuff All not dark"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -66513,7 +66573,7 @@ window.allHeroes =
         "skill": "Scythe of Sorceries",
         "types": [
             "Hit 3",
-            "Mana generation debuff 1",
+            "Mana Generation Debuff 1",
             "Max Health Reduction 2"
         ],
         "skill_types": [
@@ -66667,7 +66727,8 @@ window.allHeroes =
         "skill": "Tidal Waves",
         "types": [
             "Hit 3",
-            "Silencer"
+            "Silencer 3",
+            "SS Block Immunity 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -66694,7 +66755,7 @@ window.allHeroes =
         ],
         "passives": [
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 202 Water damage over 2 turns.",
-            "Resist Water Damage: This character has innate resistance against Water Damage."
+            "Resist Water: This character is immune to status ailments that deal Water damage."
         ],
         "family": "beachparty",
         "costume_id": 0,
@@ -66942,9 +67003,10 @@ window.allHeroes =
         "speed": "Styx",
         "skill": "Night Falls",
         "types": [
-            "Hit all",
-            "Defense Debuff",
-            "Attack Buff"
+            "Charge",
+            "Hit All",
+            "Attack Buff All",
+            "Defense Debuff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -66978,8 +67040,8 @@ window.allHeroes =
             "* All enemies get -44% defense for 4 turns."
         ],
         "passives": [
-            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
+            "Weaker Minions: Enemy Minions have -50% HP.",
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
         "family": "styx",
         "costume_id": 0,
@@ -67506,8 +67568,8 @@ window.allHeroes =
         "skill": "Poleaxe of the Law",
         "types": [
             "Fiend Destroyer All",
-            "Hit All Moonrise Strike",
-            "Mana on Fiend Destroyed All"
+            "Moonrise Strike Hit All",
+            "Mana Increase All on Fiend Destroyed"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -67529,13 +67591,12 @@ window.allHeroes =
         "defense": 1023,
         "health": 1627,
         "effects": [
-            "Destroys all Fiends from all allies. This effect damages Mega Fiends.",
-            "This Special Skill never misses its targets.",
-            "Attacks all enemies with Moonrise Strike, dealing up to 2000 damage. Deals 40% more damage if the target is Holy.",
+            "Destroys all Fiends from all allies and damages all Mega Fiends.",
+            "Attacks all enemies with Moonrise Strike, dealing up to 2000 damage. Deals 40% more damage if the target is Holy. This Special Skill never misses its targets.",
             "All allies get 5% mana for each destroyed Fiend."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -67745,8 +67806,8 @@ window.allHeroes =
         "skill": "Putrid Perfume",
         "types": [
             "Hit All",
-            "Summoner",
-            "Dot All"
+            "Summoner All",
+            "DoT All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -67814,11 +67875,11 @@ window.allHeroes =
         "skill": "Ballad of Obsession",
         "types": [
             "Hit 3",
-            "Cleanser",
-            "Ballad of Obsession",
-            "Mana gen debuff",
-            "Healing Decrease",
-            "Status Effect immunity"
+            "Ballad of Obsession 3",
+            "Cleanser 3",
+            "Mana Generation  Debuff 3",
+            "Healing Decrease 3",
+            "Status Effect Immunity 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -67852,7 +67913,7 @@ window.allHeroes =
         ],
         "passives": [
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack."
         ],
         "family": "opera",
         "costume_id": 0,
@@ -67894,8 +67955,9 @@ window.allHeroes =
         "skill": "Rally of the Deep",
         "types": [
             "Summoner 3",
+            "Mana Increase Minion",
             "Taunt",
-            "Attack Stack All"
+            "Minion Attack Stack All"
         ],
         "skill_types": [
             "Mana Raisers",
@@ -67931,8 +67993,7 @@ window.allHeroes =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
-            "* All allies get +21% critical chance for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "* All allies get +21% critical chance for 2 turns."
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
@@ -68057,7 +68118,7 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Dispeller All",
-            "Healer All"
+            "Heal All on buff dispelled"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -68708,7 +68769,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Dishonorable Ploy",
         "types": [
-            "Hit 3"
+            "Hit 3",
+            "Damage All if target defeated"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -68728,7 +68790,7 @@ window.allHeroes =
         "health": 1835,
         "effects": [
             "Deals 565% damage to the target and minor damage to nearby enemies.",
-            "If the targets is defeated in 3 turns all enemies receive 626 damage."
+            "If the target is defeated in 3 turns, all enemies receive 626 damage."
         ],
         "passives": [
             "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 60% chance to deal 20% of the received damage to all enemies."
@@ -68770,7 +68832,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Trickster's Transformation",
         "types": [
-            "Hit Some",
+            "Hit All Holy",
             "Weird"
         ],
         "skill_types": [
@@ -68836,7 +68898,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Gentleman's Transformation",
         "types": [
-            "Hit Some",
+            "Hit All Holy",
             "Weird"
         ],
         "skill_types": [
@@ -68905,7 +68967,7 @@ window.allHeroes =
         "skill": "Curse of Sargasso",
         "types": [
             "Hit 3",
-            "Healing Debuff"
+            "Healing Debuff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -68922,7 +68984,7 @@ window.allHeroes =
         "defense": 708,
         "health": 1334,
         "effects": [
-            "Deals 415% damage to the target and minor damage to nearby enemies",
+            "Deals 415% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies get -90% increase for any healing received for 4 turns."
         ],
         "passives": [],
@@ -69052,7 +69114,7 @@ window.allHeroes =
         "health": 1382,
         "effects": [
             "Deals 452% damage to the target.",
-            "The target receives 306 Poison damage over 6 turns."
+            "The target receives 294 Poison damage over 6 turns."
         ],
         "passives": [],
         "family": "classic",
@@ -69519,9 +69581,9 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Void Bomb",
         "types": [
-            "HoT",
-            "Counterattack",
-            "Stores damage"
+            "HoT All",
+            "Counterattack Self",
+            "Stored Damage Hit All"
         ],
         "skill_types": [
             "Counterattackers",
@@ -69551,7 +69613,7 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
             "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
             "* With fully charged Repair Core, boosts the health of all allies by 25%.",
-            "* The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
+            "* The healing is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -69597,7 +69659,8 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Fiend Summoner All",
-            "Stacks"
+            "Mana Generation Buff Stack Self",
+            "Mana HoT Stack Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -69628,7 +69691,7 @@ window.allHeroes =
             "Stack +2 (Max: 10): The caster recovers 30 HP each turn."
         ],
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects."
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
         ],
         "family": "slayers",
         "costume_id": 0,
@@ -69675,7 +69738,8 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Fiend Summoner All",
-            "Stacks"
+            "Mana Generation Buff Stack Self",
+            "Mana HoT Stack Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -69710,7 +69774,7 @@ window.allHeroes =
             "Stack +3 (Max 10): The caster recovers 45 HP each turn."
         ],
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects.",
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks.",
             "Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 544 Bleed damage over 4 turns."
         ],
         "family": "slayers",
@@ -69832,8 +69896,8 @@ window.allHeroes =
         "skill": "Conjuration Arrow",
         "types": [
             "Hit 1",
-            "Summoner",
-            "Dispeller"
+            "Replicator Minion Summoner Self",
+            "Dispeller 3"
         ],
         "skill_types": [
             "Dispellers",
@@ -69860,7 +69924,7 @@ window.allHeroes =
             "Elemental Link gives +4% mana generation for all Dark allies  for 4 turns. This effect can't be cleansed"
         ],
         "passives": [
-            "Resist mana reduction: This character has innate resistance against mana reduction."
+            "Resist mana reduction: This character is immune to mana reduction."
         ],
         "family": "hotm2019",
         "costume_id": 0,
@@ -69904,9 +69968,9 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Exorcizing Arrow",
         "types": [
-            "Dispeller",
+            "Dispeller 3",
             "Hit 1",
-            "Summoner"
+            "Replicator Minion Summoner Self"
         ],
         "skill_types": [
             "Dispellers",
@@ -69938,7 +70002,7 @@ window.allHeroes =
             "Element Link gives +4% mana generation for all Dark allies for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist mana reduction: This character has innate resistance against mana reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ],
         "family": "hotm2019",
@@ -69983,9 +70047,9 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Legions of Darkness",
         "types": [
-            "Summoner",
-            "DoT all",
-            "Mana Reduction All on Defeat"
+            "Summoner All",
+            "DoT All",
+            "Mana Reduction All on Defeat Self"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -70139,8 +70203,8 @@ window.allHeroes =
         "skill": "Ironbound Fury",
         "types": [
             "Hit 3",
-            "Mana Steal",
-            "Buff copy"
+            "Mana Steal 3",
+            "Buff Copy 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -70167,10 +70231,10 @@ window.allHeroes =
             "Copies all dispellable buffs from the target and nearby enemies, and randomly distributes them on allies."
         ],
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character's Special Skill is cast:",
             "* With fully charged Destructive Core, deals 180% damage to all enemies.",
-            "* The damage is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
+            "* The damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -70587,7 +70651,7 @@ window.allHeroes =
         "skill": "Disheartening Riddle",
         "types": [
             "Hit 1",
-            "Chain",
+            "Chain Hit",
             "Buff Immunity on Hit target"
         ],
         "skill_types": [
@@ -70982,13 +71046,13 @@ window.allHeroes =
         "health": 1586,
         "effects": [
             "Deals 395% damage to the target.",
-            "The target get Soul Bound for 3 turns. This effect can't be cleansed. This effect will always bypass reflection.",
-            "All damage received by the caster is also dealt to all Soul Bound Enemies. Damage is shared between all Soul Bound enemies. This effect will not share damage coming from other shared damage sources or counterattacks."
+            "The target get Soul Bound for 3 turns. This effect can't be cleansed. (This effect will always bypass reflection.)",
+            "All damage received by the caster is also dealt to all Soul Bound Enemies. (Damage is shared between all Soul Bound enemies. This effect will not share damage coming from other shared damage sources or counterattacks.)"
         ],
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast:",
-            "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 140 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 140 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "construct",
@@ -71029,7 +71093,7 @@ window.allHeroes =
         "skill": "Dinner with the Beast",
         "types": [
             "Humility",
-            "Hit random 6",
+            "Hit random 6 or 5",
             "Elemental Defense Debuff on hit",
             "Mindless Attack on hit",
             "Self Boosted HoT"
@@ -71114,7 +71178,7 @@ window.allHeroes =
         "skill": "Skeletal Summon",
         "types": [
             "Hit 3",
-            "Summoner"
+            "Summoner 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -71177,7 +71241,7 @@ window.allHeroes =
         "skill": "Undying Summon",
         "types": [
             "Hit 3",
-            "Summoner"
+            "Summoner 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -71244,7 +71308,7 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Defense Buff All",
-            "Ailments Damage Immunity"
+            "Ailments Damage Immunity All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -71275,7 +71339,7 @@ window.allHeroes =
             "All allies are immune to damage from status ailments fo 4 turns."
         ],
         "passives": [
-            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 331 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -71404,7 +71468,8 @@ window.allHeroes =
         "speed": "Very Fast",
         "skill": "Marked Aim",
         "types": [
-            "Hit 1"
+            "Hit 1",
+            "Increased Damage Stack 1"
         ],
         "skill_types": [
             "Extra Damage Dealers",
@@ -71430,8 +71495,8 @@ window.allHeroes =
             "Element Link gives all Dark allies +5% chance to dodge status ailments for 4 turns. This effect cannot be dispelled."
         ],
         "passives": [
-            "Increased special skill damage: The first time this character casts a Special Skill that deals damage, an additional 50% is added to its power.",
-            "Resist blind: This character has innate resistance against status ailments that affect accuracy. Doesn't apply to status effects from allies."
+            "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 50% is added to its power.",
+            "Resist Blind: This character is immune to status ailments that affect accuracy. Doesn't apply to original status effects from allies."
         ],
         "family": "hotm2023",
         "costume_id": 0,
@@ -71470,9 +71535,10 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Dum and Dee",
         "types": [
-            "Hit 2",
-            "Attack debuff",
-            "Defense debuff"
+            "Hit Random 1",
+            "Defense debuff",
+            "Hit Random 1",
+            "Attack debuff"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -71500,7 +71566,7 @@ window.allHeroes =
             "The caster gets 30% mana if both attacks hit the same target."
         ],
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects."
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
         ],
         "family": "wonderland",
         "costume_id": 0,
@@ -71547,7 +71613,7 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Counterattack 3",
-            "Damage reduction 3"
+            "Damage Reduction 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -72008,7 +72074,7 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "DoT 3",
-            "Heal self"
+            "Heal self on DoT"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -72034,8 +72100,8 @@ window.allHeroes =
             "Element Link gives +10% mana generation for all Dark allies for 4 turns.  This effect cannot be dispelled."
         ],
         "passives": [
-            "Mana Generation Stopping: This character has innate resistance against status ailments that stop mana generation.",
-            "Resist Poison: This character has innate resistance against Poison."
+            "Resist Poison: This character is immune to status ailments that deal Poison damage.",
+            "Resist Mana Generation Stopping: This character is immune to status ailments that stop mana generation."
         ],
         "family": "hotm2023",
         "costume_id": 0,
@@ -72377,8 +72443,8 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "DoT 1",
-            "Healing Steal",
-            "Defense Buff"
+            "Healing Steal 1",
+            "Defense Buff All"
         ],
         "skill_types": [
             "Buffers (DEF)",
@@ -72401,7 +72467,7 @@ window.allHeroes =
         "health": 1347,
         "effects": [
             "Deals 250% damage to the target.",
-            "The target receives 510 Surge Bleed over 5 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 455, up to 1410 damage in total.",
+            "The target receives 510 Surge Bleed over 5 turns. (If a target already has this effect, the duration will be refreshed and the damage will be increased by 455, up to 1410 damage in total.)",
             "The caster steals 75% of any healing applied to the target for 5 turns.",
             "All allies get +30% defense for 5 turns."
         ],
@@ -72525,9 +72591,10 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Lucky Coin",
         "types": [
-            "Safe cleaner",
-            "Buff immunity",
-            "Mega Minion"
+            "Safe cleaner All",
+            "Buff Immunity Debuff All",
+            "Sword Guard Mega Minion",
+            "Spreading DoT Minion"
         ],
         "skill_types": [
             "Mega Minions Summoners",
@@ -72555,7 +72622,7 @@ window.allHeroes =
             "The target hit by the Sword Guard Mega Minion receives 447 Bleed damage over 3 turns. This effect spreads to nearby enemies."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -72638,7 +72705,7 @@ window.allHeroes =
         ],
         "passives": [
             "Cursed sapling summoner: When an enemy summons any minions by special skill, this character summons a Cursed Sapling Fiend for that enemy.",
-            "Resist negative minion effects: This character has innate resistance against incoming negative effects and damage from Minions."
+            "Resist negative minion effects: This character is immune to incoming negative effects and damage from Minions."
         ],
         "family": "hotm2022",
         "costume_id": 0,
@@ -72898,7 +72965,8 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Wrathful Sting",
         "types": [
-            "Dispeller",
+            "SS Ignores Dodge",
+            "Dispeller 3",
             "DoT 3"
         ],
         "skill_types": [
@@ -72975,10 +73043,10 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Fury of the Mountain Lord",
         "types": [
-            "Health Reduction",
-            "Health Boost",
-            "Mana Generation Debuff",
-            "Mana Generation Buff"
+            "Max Health Reduction over time All",
+            "Boosted HoT All",
+            "Mana Generation Debuff All",
+            "Mana Generation Buff All"
         ],
         "skill_types": [
             "Health Boosters",
@@ -73432,7 +73500,8 @@ window.allHeroes =
         "skill": "Robust Ward",
         "types": [
             "HoT 3",
-            "Defense Buff"
+            "Defense Buff 3",
+            "SS Defense Buff 3"
         ],
         "skill_types": [
             "Buffers (DEF)",
@@ -73458,7 +73527,7 @@ window.allHeroes =
             "Element Link summons a Dark Minion for all Dark allies with 6% HP and 10% attack inherited from the caster"
         ],
         "passives": [
-            "Resist Sand Damage: This character has innate resistance against Sand damage."
+            "Resist Sand: This character is immune to status ailments that deal Sand damage."
         ],
         "family": "hotm2020",
         "costume_id": 0,
@@ -75283,7 +75352,7 @@ window.allHeroes =
         "health": 599,
         "effects": [
             "Deals 145% damage to all enemies.",
-            "All enemies receive 120 damage over 6 turns."
+            "All enemies receive 114 Burn damage over 6 turns."
         ],
         "passives": [],
         "family": "classic",
@@ -75674,7 +75743,8 @@ window.allHeroes =
         "skill": "Sickle of Wu",
         "types": [
             "Hit All",
-            "Summoner"
+            "Summoner All",
+            "Minion with DoT"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -75874,7 +75944,7 @@ window.allHeroes =
         "skill": "Burning Strike",
         "types": [
             "Hit 1",
-            "Dot 1"
+            "DoT 1"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -75892,7 +75962,7 @@ window.allHeroes =
         "health": 684,
         "effects": [
             "Deals 290% damage to the target.",
-            "The target receives 126 Burn damage over 6 turns."
+            "The target receives 120 Burn damage over 6 turns."
         ],
         "passives": [],
         "family": "classic",
@@ -77724,7 +77794,7 @@ window.allHeroes =
         "skill": "Fire Storm",
         "types": [
             "Hit All",
-            "Dot All"
+            "DoT All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -77742,7 +77812,7 @@ window.allHeroes =
         "health": 1094,
         "effects": [
             "Deals 180% damage to all enemies.",
-            "All enemies receive 348 damage over 6 turns."
+            "All enemies receive 330 Burn damage over 6 turns."
         ],
         "passives": [],
         "family": "classic",
@@ -78261,8 +78331,8 @@ window.allHeroes =
         "defense": 565,
         "health": 1430,
         "effects": [
-            "Deals 295% damage to the target and minor damage on nearby enemies.",
-            "The target an nearby enemies get -34% defense for 6 turns."
+            "Deals 295% damage to the target and minor damage to nearby enemies.",
+            "The target and nearby enemies get -34% defense for 6 turns."
         ],
         "passives": [],
         "family": "classic",
@@ -78933,7 +79003,7 @@ window.allHeroes =
         "health": 935,
         "effects": [
             "Deals 320% damage to the target.",
-            "The target receives 414 damage over 6 turns."
+            "The target receives 360 Burn damage over 6 turns."
         ],
         "passives": [],
         "family": "classic",
@@ -79876,10 +79946,10 @@ window.allHeroes =
         "skill": "Ballad of Attraction",
         "types": [
             "Hit 3",
-            "Ballad of Attraction",
-            "Mana gen debuff",
-            "Healing debuff",
-            "Status Effect immunity"
+            "Ballad of Attraction 3",
+            "Mana Generation Debuff while dancing",
+            "Healing Debuff  while dancing",
+            "Status Effect immunity  while dancing"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -79915,7 +79985,7 @@ window.allHeroes =
         ],
         "passives": [
             "Heal when status ailment expires or is cleared: This character receives 10%  health each time a status ailment expires or is cleansed, removed or  reallocated from them. This effect can activate only once per turn.",
-            "Resist Attack Ailments: This character has innate resistance against status  ailments that affect attack."
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack."
         ],
         "family": "opera",
         "costume_id": 0,
@@ -80873,7 +80943,7 @@ window.allHeroes =
         "skill": "Royal Blades",
         "types": [
             "Hit 3",
-            "Defense Debuff"
+            "Defense Debuff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -81196,8 +81266,8 @@ window.allHeroes =
         "skill": "Scion Sword",
         "types": [
             "Hit 1",
-            "Summoner",
-            "Minion DoT"
+            "Summoner All",
+            "Minion with DoT"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -81264,8 +81334,8 @@ window.allHeroes =
         "skill": "Scion Blade",
         "types": [
             "Hit 1",
-            "Summoner 1",
-            "Minion DoT"
+            "Summoner All",
+            "Minion with DoT"
         ],
         "skill_types": [
             "Snipers",
@@ -81293,9 +81363,9 @@ window.allHeroes =
         ],
         "passives": [
             "Unstoppable Minions:",
-            "* Resistance against Minion removal.",
+            "* Immune to effects that remove Minions.",
             "* Can't be prevented from receiving Minions.",
-            "* Minion attack and abilities can't be disabled."
+            "* Minion attacks and abilities can't be disabled."
         ],
         "family": "kingdom",
         "costume_id": 1,
@@ -81583,8 +81653,8 @@ window.allHeroes =
         "skill": "Mana Immolation",
         "types": [
             "Hit 1",
-            "Dodge All",
-            "Self Mark of Immolation"
+            "Dodge Chance All",
+            "Mark of Immolation Stack Self"
         ],
         "skill_types": [
             "Dodgers",
@@ -81616,7 +81686,7 @@ window.allHeroes =
             "This character gets a Mark of Immolation for 5 turns. Whenever an enemy or an ally receives Burn damage, the caster gains a stack. (Max: 10). Each stacks increases mana generation of the caster by +6%."
         ],
         "passives": [
-            "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 312 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -81667,6 +81737,7 @@ window.allHeroes =
         "types": [
             "Minion Destroyer 3",
             "Hit 3",
+            "Heal All per minion destroyed",
             "Bypass"
         ],
         "skill_types": [
@@ -81693,7 +81764,7 @@ window.allHeroes =
             "Deals 250% damage to the target and nearby enemies.",
             "All allies recover 10% health for each destroyed Minion.",
             "All allies get 3% mana for each destroyed Minion.",
-            "The attack bypasses defensive buffs. This includes counterattacks."
+            "The attack bypasses defensive buffs. (This includes counterattacks.)"
         ],
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies."
@@ -81814,7 +81885,8 @@ window.allHeroes =
         "skill": "Spear of Blood Pact",
         "types": [
             "Hit 1",
-            "Self heal",
+            "Heal Self",
+            "Healing Resist Debuff 1",
             "Damage on each Resisted Healing 1"
         ],
         "skill_types": [
@@ -82030,8 +82102,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Flaming Grudge",
         "types": [
-            "Healer",
-            "Hit All"
+            "Hit All",
+            "Healer All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -82051,12 +82123,12 @@ window.allHeroes =
         "defense": 793,
         "health": 1279,
         "effects": [
-            "Deals 280% damage to all enemies",
-            "Heals each ally with 35% of total damage dealt",
-            "Element Link gives all Fire allies +46% defense against Ice for 4 turns. This effect can't be cleansed"
+            "Deals 280% damage to all enemies.",
+            "Heals each ally with 35% of total damage dealt.",
+            "Element Link gives all Fire allies +46% defense against Ice for 4 turns. This effect can't be cleansed."
         ],
         "passives": [
-            "Resist Mana Generation Ailments: This character has an innate resistance against status ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana."
+            "Resist Mana Generation Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana."
         ],
         "family": "hotm2019",
         "costume_id": 0,
@@ -82092,7 +82164,8 @@ window.allHeroes =
         "skill": "Wicked Witchcraft",
         "types": [
             "Max Health Reduction",
-            "DoT All"
+            "DoT All",
+            "Boosted Heal Decrease Debuff All"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -82236,8 +82309,8 @@ window.allHeroes =
         "skill": "Might of Ares",
         "types": [
             "Attack Buff 3",
-            "Crit Buff 3",
-            "Hot 3"
+            "Critical Chance Buff 3",
+            "HoT 3"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -82301,7 +82374,7 @@ window.allHeroes =
         "types": [
             "Attack Buff 3",
             "Counterattack 3",
-            "Health Boost 3"
+            "Boosted Heal 3"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -83292,10 +83365,10 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Unbreakable Brawler",
         "types": [
-            "Hit 1",
-            "Self Health Boost",
-            "Mana reduction immunity All",
-            "Hit 1 random"
+            "Hit Random 1",
+            "Boosted Health Self",
+            "Mana Reduction Immunity All if boosted HP",
+            "Hit 1 random each turn if boosted HP"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -83355,9 +83428,9 @@ window.allHeroes =
         "skill": "Relentless Brawler",
         "types": [
             "Hit 1",
-            "Self Health Boost",
-            "Mana reduction immunity All",
-            "Hit 1 random"
+            "Boosted Health Self",
+            "Mana Reduction Immunity All if boosted HP",
+            "Hit 1 random each turn if boosted HP"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -83837,7 +83910,7 @@ window.allHeroes =
             "When summoned, the Pirate Skeleton Fiend gives -45% attack for its owner for as long as the owner has Priate Skeleton Fiends. This effect can't be cleansed."
         ],
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects."
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
         ],
         "family": "pirate",
         "costume_id": 0,
@@ -83881,7 +83954,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Just a Flesh Wound",
         "types": [
-            "Drop to 1 Damage Self",
+            "Drop Damage to 1 Buff Self",
             "Taunt",
             "Attack Buff All"
         ],
@@ -83901,9 +83974,9 @@ window.allHeroes =
         "defense": 846,
         "health": 1458,
         "effects": [
-            "The caster has a 50% chance to drop any received damage to 1 for 3 turns",
+            "The caster has a 50% chance to drop any received damage to 1 for 3 turns.",
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns.",
-            "All allies get +45% attack, and a further 20% increase every time they are hit during 3 turns"
+            "All allies get +45% attack, and a further 20% increase every time they are hit during 3 turns."
         ],
         "passives": [],
         "family": "knight",
@@ -83940,7 +84013,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "But a Scratch",
         "types": [
-            "Drop to 1 Damage All",
+            "Drop Damage to 1 Buff Self",
             "Taunt",
             "Attack Buff All"
         ],
@@ -84001,8 +84074,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Songs of the Cherry Tree",
         "types": [
-            "Healer",
-            "Dispeller"
+            "Healer All",
+            "Dispeller All",
+            "Extra Heal on each dispel"
         ],
         "skill_types": [
             "Dispellers",
@@ -84029,10 +84103,10 @@ window.allHeroes =
             "Recovers 70 health per each removed status effect for all allies, up to 560 health in total."
         ],
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
             "* With fully charged Repair Core, boosts the health of all allies by 25%.",
-            "* The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
+            "* The healing is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -84073,7 +84147,7 @@ window.allHeroes =
         "skill": "Fury of the Silverback",
         "types": [
             "Hit 1",
-            "Self Attack Buff Stack"
+            "Attack Stack Self"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -84174,11 +84248,11 @@ window.allHeroes =
             "All allies get +86% defense against Ice for 3 turns."
         ],
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skill.",
             "Destructive Core: The Construct Core of this character is Destructive Core.",
             "The Destructive Core activates each time this character's Special Skill is cast",
             "* With fully charged Destructive Core, deals 180% damage to all enemies.",
-            "* The damage is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
+            "* The damage is scaled by the amount of charge in the Core, All charge is exhausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -84244,8 +84318,8 @@ window.allHeroes =
         "defense": 702,
         "health": 1353,
         "effects": [
-            "Deals 215% damage to the target and nearby enemies",
-            "The more mana enemies have, the more damage they will receive, up to 335%"
+            "Deals 215% damage to the target and nearby enemies.",
+            "The more mana enemies have, the more damage they will receive, up to 335%."
         ],
         "passives": [],
         "family": "pirate",
@@ -84484,8 +84558,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Master of Ailments",
         "types": [
-            "Spread Debuffs",
-            "Debuff Duration Reset",
+            "Spread Debuffs 2",
+            "Debuff Duration Reset 3",
             "Hit 3"
         ],
         "skill_types": [
@@ -84709,7 +84783,10 @@ window.allHeroes =
         "skill": "Ballad of Condemnation",
         "types": [
             "Hit 3",
-            "Dance Ballad of Condemnation 3"
+            "Dance Ballad of Condemnation 3",
+            "Mana Generation Debuff  while dancing",
+            "Healing Debuff  while dancing",
+            "Buff Immunity while dancing"
         ],
         "skill_types": [
             "Dancers",
@@ -84741,7 +84818,7 @@ window.allHeroes =
             "When the dance ends, the target suffers 1500 damage. (All existing status effects will be removed a dance status effect is added. Dance gives immunity to new status effects. New dance status effect will replace this effect. Dance effect cannot be dispelled. This effect is removed when the caster is defeated.)"
         ],
         "passives": [
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.",
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack.",
             "Heal when status ailment expires or is cleared: This character receives 20% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ],
         "family": "opera",
@@ -84935,8 +85012,8 @@ window.allHeroes =
         "skill": "Slice and Dice",
         "types": [
             "Hit 3",
-            "Healer",
-            "Dot 3"
+            "Healer All",
+            "DoT 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -85109,7 +85186,7 @@ window.allHeroes =
             "All enemies get -44% defense for 4 turns."
         ],
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects."
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
         ],
         "family": "fable",
         "costume_id": 0,
@@ -85425,8 +85502,8 @@ window.allHeroes =
         "skill": "Flaming Rapier",
         "types": [
             "Hit 1",
-            "Dot 1",
-            "Self HoT"
+            "Spreading Dot 1",
+            "HoT Self"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -85498,7 +85575,7 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Spreading DoT 1",
-            "Self Boosted Heal"
+            "Boosted Heal Self"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -85600,7 +85677,7 @@ window.allHeroes =
             "Dispels buffs from the target.",
             "Blocks Talent Skill activation for the target.",
             "Deals 485% damage to the target.",
-            "The target cannot cast any new status effects on enemies or allies for 3 turns. This includes stacks. This only includes status effects cast with Special Skills."
+            "The target cannot cast any new status effects on enemies or allies for 3 turns. (This includes stacks. This only includes status effects cast with Special Skills.)"
         ],
         "passives": [
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
@@ -85733,7 +85810,7 @@ window.allHeroes =
             "Hit 3",
             "Defense Debuff 3",
             "Sword Guard Mega Minion",
-            "Spreading DoT"
+            "Spreading DoT Minion"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -85761,7 +85838,7 @@ window.allHeroes =
             "The target hit by the Sword Guard Mega Minion recieves 456 Bleed damage over 3 turns. This effect spreads on nearby enemies."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -85809,8 +85886,8 @@ window.allHeroes =
         "skill": "Supernova",
         "types": [
             "Hit 3",
-            "DoT",
-            "Defense debuff"
+            "Corrosive Burn DoT 3",
+            "Defense Debuff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -85885,8 +85962,8 @@ window.allHeroes =
         "skill": "Sunken Abyss",
         "types": [
             "Hit 3",
-            "DoT 3",
-            "Defense debuff 3"
+            "Corrosive Burn DoT 3",
+            "Defense Debuff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -85994,9 +86071,9 @@ window.allHeroes =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -86413,7 +86490,7 @@ window.allHeroes =
         "skill": "Wall of Swords",
         "types": [
             "Hit All",
-            "Counterattack"
+            "Counterattack 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -86768,7 +86845,7 @@ window.allHeroes =
             "Elemental Link gives all Fire allies +30% defense against Special Skills for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Burn: This character has innate resistance against Burn.",
+            "Resist Burn: This character is immune to status ailments that deal Burn damage.",
             "Mana on Burn: This character gains 5% mana each time an enemy receives Burn damage."
         ],
         "family": "hotm2025",
@@ -87373,7 +87450,9 @@ window.allHeroes =
         "types": [
             "Charge",
             "Destroys Minions 1",
-            "Hit 1"
+            "Hit 1",
+            "Summoner Block 1",
+            "Damage on each attempted summon"
         ],
         "skill_types": [
             "Minions Counters",
@@ -87407,8 +87486,8 @@ window.allHeroes =
             "* The target can't summon new Minions with Special Skill and receives 200 damage for each Minion they attempt to summon for 4 turns."
         ],
         "passives": [
-            "Resist defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
-            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
+            "Weaker Minions: Enemy Minions have -50% HP."
         ],
         "family": "styx",
         "costume_id": 0,
@@ -87479,7 +87558,7 @@ window.allHeroes =
             "All enemies get -35% defense for 4 turns."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -87644,7 +87723,7 @@ window.allHeroes =
             "Stack (Max: 10): All allies get +20% defense."
         ],
         "passives": [
-            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 338 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -87700,7 +87779,7 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Sword Guard Mega Minion",
-            "Spreading DoT"
+            "Spreading DoT Minion"
         ],
         "skill_types": [
             "Snipers",
@@ -87726,7 +87805,7 @@ window.allHeroes =
             "The target hit by the Sword Guard Mega Minion receives 468 Bleed damage over 3 turns. This effect spreads to nearby enemies."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Growth effects from all enemies."
         ],
         "family": "garrison",
@@ -87773,8 +87852,8 @@ window.allHeroes =
         "skill": "To the Rescue!",
         "types": [
             "Healer",
-            "Bypass All",
-            "Crit Buff All"
+            "Bypass Buff All",
+            "Crit Chance Buff All"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -87800,7 +87879,7 @@ window.allHeroes =
             "All allies get +50% critical chance for 4 turns."
         ],
         "passives": [
-            "Resist Water Damage: This character has innate resistance against Water Damage.",
+            "Resist Water: This character is immune to status ailments that deal Water damage.",
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 200 Water damage over 2 turns."
         ],
         "family": "beachparty",
@@ -87921,7 +88000,7 @@ window.allHeroes =
         "skill": "Royal Assault",
         "types": [
             "Hit 3",
-            "Mana reducer 3",
+            "Mana Reducer 3",
             "Healing Debuff 3"
         ],
         "skill_types": [
@@ -87943,12 +88022,12 @@ window.allHeroes =
         "defense": 1011,
         "health": 1542,
         "effects": [
-            "Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1440 damage. Deals 40% more damage if the target is Holy.",
+            "Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1440 damage. Deals 40% more damage if the target is Holy. This Special Skill never misses its targets.",
             "For 3 turns, reduces the mana of the target and nearby enemies by -15% at the end of turn.",
             "The target and nearby enemies get -50% decrease for any healing received for 3 turns."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -88192,7 +88271,7 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Maiden's Orders",
         "types": [
-            "Destroys Mega/Minions",
+            "Destroys Mega/Minions 1",
             "Hit 3"
         ],
         "skill_types": [
@@ -88254,7 +88333,7 @@ window.allHeroes =
         "skill": "Underwater Magma Cube",
         "types": [
             "Hit Random 3/5",
-            "Magma Cube on hit",
+            "Exploding Magma Cube on hit",
             "Defense Debuff on hit"
         ],
         "skill_types": [
@@ -88500,7 +88579,7 @@ window.allHeroes =
         "skill": "Ashes to Ashes",
         "types": [
             "Hit 3",
-            "Dot 3"
+            "DoT 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -88644,8 +88723,8 @@ window.allHeroes =
         "speed": "Very Fast",
         "skill": "Mending Mantra",
         "types": [
-            "Healer",
-            "Status Ailment Immunity"
+            "Healer All",
+            "Status Ailment Immunity All"
         ],
         "skill_types": [
             "Healers",
@@ -88665,12 +88744,12 @@ window.allHeroes =
         "defense": 817,
         "health": 1406,
         "effects": [
-            "Recovers 23% health for all allies",
+            "Recovers 23% health for all allies.",
             "All allies are immune to new status ailments for 2 turns.",
             "Element Link gives +4% mana regeneration for all Fire allies for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Healing Ailments: This character has an innate ability to resist status aliments that affect Healing"
+            "Resist Healing Ailments: This character is immune to status ailments that affect healing."
         ],
         "family": "hotm2019",
         "costume_id": 0,
@@ -88990,8 +89069,8 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Motherly Care",
         "types": [
-            "Health Boost",
-            "Status Ailment Immunity"
+            "Health Boost All",
+            "Status Ailment Immunity All"
         ],
         "skill_types": [
             "Health Boosters",
@@ -89278,8 +89357,8 @@ window.allHeroes =
         "skill": "Bulwark Charge",
         "types": [
             "Hit 3",
-            "Knocks down",
-            "Attack buff 3"
+            "Knocks Down 3",
+            "Attack Buff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -89308,11 +89387,11 @@ window.allHeroes =
             "The caster and nearby allies get +50% attack for 3 turns."
         ],
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Destructive Core: The Construct Core of this character is Destructive Core.",
             "The Destructive Core activates each time this character's Special Skill is cast",
             "* With fully charged Destructive Core, deals 180% damage to all enemies.",
-            "* The damage is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
+            "* The damage is scaled by the amount of charge in the Core, All charge is exhausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
@@ -89352,9 +89431,9 @@ window.allHeroes =
         "skill": "Sweet Dreams",
         "types": [
             "Charge",
-            "Hit all",
+            "Hit All",
             "Buff Immunity All",
-            "Dispell"
+            "Dispeler All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -89389,8 +89468,8 @@ window.allHeroes =
             "* All enemies are immune to new status effects buffs for 4 turns."
         ],
         "passives": [
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
-            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
+            "Weaker Minions: Enemy Minions have -50% HP."
         ],
         "family": "styx",
         "costume_id": 0,
@@ -89463,7 +89542,7 @@ window.allHeroes =
             "Stack (Max: 10): All damage all enemies receive is increased by +8%."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -89508,8 +89587,7 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Purifying Flame",
         "types": [
-            "Heal all",
-            "Elemental Heal Red",
+            "Heal All",
             "Attack Buff All",
             "Cleanser All"
         ],
@@ -89540,9 +89618,9 @@ window.allHeroes =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -89670,7 +89748,7 @@ window.allHeroes =
         "types": [
             "Mana Reduction All",
             "Enemy Damage Share",
-            "Defense debuff"
+            "Defense Debuff All"
         ],
         "skill_types": [
             "Damage Sharers",
@@ -89812,10 +89890,10 @@ window.allHeroes =
         "speed": "Very Fast",
         "skill": "Aces High",
         "types": [
-            "Cleanser",
+            "Bypass",
             "Hit 1",
             "Random Hit 2",
-            "Reduce Buff duration"
+            "Reduce Buff Duration on hit"
         ],
         "skill_types": [
             "Bypassers",
@@ -89841,7 +89919,7 @@ window.allHeroes =
             "Each hit reduces the duration of all status effect buffs on the hit enemy by one turn. (The duration reduction affects both dispellable and undispellabe status effect buffs. If the duration on any buff is reduced to zero, the effect is considered as having expired naturally.)"
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -89914,8 +89992,8 @@ window.allHeroes =
         ],
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
-            "Resist Insanity: This character has innate resistance against Insanity.",
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
+            "Resist Insanity: This character is immune to Insanity.",
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack."
         ],
         "family": "faun",
         "costume_id": 0,
@@ -90018,7 +90096,9 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Seal of Fire",
         "types": [
-            "Dot all"
+            "DoT All",
+            "Elemental SS Defense All",
+            "Defense Status Ailments Protection Buff All"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -90045,7 +90125,7 @@ window.allHeroes =
             "Element Link gives all Fire allies +10% critical chance for 6 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Health Steal Ailments: The Hero has an innate resistance against status ailments that Steal Health."
+            "Resist Health Steal Ailments: This hero is immune to status ailments that steal health."
         ],
         "family": "hotm2020",
         "costume_id": 0,
@@ -90609,7 +90689,7 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Chain",
-            "Elemental Defense Debuff"
+            "Elemental Defense Debuff 1"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -90884,7 +90964,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Trickster's Malice",
         "types": [
-            "Lifts Ailments",
+            "Lifts Ailments All",
             "Hit All"
         ],
         "skill_types": [
@@ -90946,7 +91026,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Trickster's Lullaby",
         "types": [
-            "Lifts Ailments",
+            "Lifts Ailments All",
             "Hit All"
         ],
         "skill_types": [
@@ -91046,8 +91126,7 @@ window.allHeroes =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
-            "* All allies get +21% critical chance for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "* All allies get +21% critical chance for 2 turns."
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
@@ -91166,7 +91245,7 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Impeding Bolts",
         "types": [
-            "Talent Silence All",
+            "Talent Activation Block All",
             "Hit All"
         ],
         "skill_types": [
@@ -91306,7 +91385,8 @@ window.allHeroes =
         "skill": "Battle Claw Strike",
         "types": [
             "Hit 1",
-            "Counterattack"
+            "Mana Gain Freeze nearby on kill",
+            "Counterattack All"
         ],
         "skill_types": [
             "Counterattackers",
@@ -91327,12 +91407,12 @@ window.allHeroes =
         "defense": 1038,
         "health": 1600,
         "effects": [
-            "Attacks the target with Moonrise Strike, dealing up to 2200 damage. Deals 40% more damage if the target is Holy.",
+            "Attacks the target with Moonrise Strike, dealing up to 2200 damage. Deals 40% more damage if the target is Holy. This Special Skill never misses its targets.",
             "If the target is defeated by the attack, then nearby enemies are unable to gain any mana for 3 turns.",
             "All allies counterattack with 60% of the damage received for 3 turns."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -91464,8 +91544,8 @@ window.allHeroes =
         "skill": "Heedless Hammer Flurry",
         "types": [
             "Hit 1",
-            "Chance Extra Hit 1",
-            "Black Boar Mega Minion"
+            "Extra Hit 1 Chance",
+            "Black Boar Mega Minion Self"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -92514,8 +92594,8 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Burning Chains",
         "types": [
-            "Dot 1",
-            "Mana Generation Debuff"
+            "DoT 1",
+            "Mana Generation Debuff 1"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -92534,10 +92614,10 @@ window.allHeroes =
         "defense": 679,
         "health": 1419,
         "effects": [
-            "The target receives 1020 Burn damage over 4 turns. This effect can't be cleansed.",
+            "The target receives 1016 Burn damage over 4 turns. This effect can't be cleansed.",
             "The target gets -54% mana generation for 4 turns. This effect can't be cleansed.",
             "Deals extra damage against Nature.",
-            "Elemental Link gives +10% mana generation to all Fire allies for 4 turns. This effect can't be displelled."
+            "Elemental Link gives +10% mana generation to all Fire allies for 4 turns. This effect can't be dispelled."
         ],
         "passives": [],
         "family": "hotm2018",
@@ -92584,7 +92664,7 @@ window.allHeroes =
         "skill": "Burning Thread",
         "types": [
             "Dot 1",
-            "Mana Generation Debuff"
+            "Mana Generation Debuff 1"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -92659,7 +92739,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Fire Tigers",
         "types": [
-            "Hit all",
+            "Hit All",
             "Fiend Summoner All",
             "Taunt Block Fiend"
         ],
@@ -92692,7 +92772,7 @@ window.allHeroes =
         ],
         "passives": [
             "Ignore Taunt: This character's Special Skill is not affected by Taunt.",
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills."
         ],
         "family": "hotm2023",
         "costume_id": 0,
@@ -92827,7 +92907,7 @@ window.allHeroes =
         "effects": [
             "This Special Skill never misses its targets.",
             "Deals 430% damage to all enemies.",
-            "Heal all allies who have less than 60% HP left. Fire allies are healed to 75% health, and other allies to 60% health."
+            "Heal all allies who have less than 60% HP left. Fire allies are healed to 75% health, and other allies to 60% health. (Ignores heal steal, healing modifiers and Fiends.)"
         ],
         "passives": [
             "Troop Mastery:",
@@ -92957,9 +93037,9 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Sparrow Fury",
         "types": [
-            "Healer",
-            "Summoner",
-            "Minion Destroyer"
+            "Healer All",
+            "Minion Destroyer Summoner All",
+            ""
         ],
         "skill_types": [
             "Healers",
@@ -93028,7 +93108,7 @@ window.allHeroes =
         "types": [
             "Ignore Dodge",
             "Bypass",
-            "Hit all"
+            "Hit All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -93054,7 +93134,7 @@ window.allHeroes =
             "Deals 320% damage to all enemies."
         ],
         "passives": [
-            "Mana Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.",
+            "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.",
             "Mana on Taunt: Each time an enemy receives Taunt status effect this character's mana is increased by 10%.",
             "Ignore Taunt: The character's Special Skill is not affected by Taunt."
         ],
@@ -93097,7 +93177,7 @@ window.allHeroes =
         "skill": "Strength of the Behemoth",
         "types": [
             "Hit All",
-            "Attack Buff All",
+            "Titan Attack Buff All",
             "Defense Buff All"
         ],
         "skill_types": [
@@ -93160,7 +93240,7 @@ window.allHeroes =
         "skill": "Strength of the Volcano",
         "types": [
             "Hit All",
-            "Attack Buff All",
+            "Titan Attack Buff All",
             "Defense Buff All"
         ],
         "skill_types": [
@@ -93224,8 +93304,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "The Hallowed Blade",
         "types": [
-            "Hit all",
-            "Attack Debuff"
+            "Hit All",
+            "Attack Debuff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -93745,7 +93825,7 @@ window.allHeroes =
         "types": [
             "Heal All",
             "Buff Duration Reset All",
-            "Critical Buff All",
+            "Critical Chance Buff All",
             "Attack Buff All"
         ],
         "skill_types": [
@@ -93897,9 +93977,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Three Blind Mice",
         "types": [
-            "Summoner",
-            "Hot",
-            "Attack Buff"
+            "Summoner Self",
+            "HoT All",
+            "Attack Buff All"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -93967,7 +94047,7 @@ window.allHeroes =
         "skill": "Three Bandit Mice",
         "types": [
             "Summoner",
-            "Hot All",
+            "HoT All",
             "Attack Buff All"
         ],
         "skill_types": [
@@ -94038,8 +94118,9 @@ window.allHeroes =
         "skill": "Queen of Cards",
         "types": [
             "Hit 3",
-            "Summoner",
-            "Taunt"
+            "Summoner Self",
+            "Taunt Minion",
+            "SS Defense Buff Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -94108,8 +94189,9 @@ window.allHeroes =
         "skill": "Loving Queen",
         "types": [
             "Hit 3",
-            "Summoner 1",
-            "Taunt Minion"
+            "Summoner Self",
+            "Taunt Minion",
+            "SS Defense Buff Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -94342,10 +94424,10 @@ window.allHeroes =
             "Charge",
             "DoT All",
             "Elemental Defense Debuff All",
-            "Dispeller",
+            "Dispeller All",
             "HoT All",
             "Elemental Attack Buff All",
-            "Cleanser"
+            "Cleanser All"
         ],
         "skill_types": [
             "Cleansers",
@@ -94539,8 +94621,9 @@ window.allHeroes =
         "skill": "Forest Friends",
         "types": [
             "Hit All",
-            "Summoner",
-            "Healer"
+            "Summoner All",
+            "Healer Minion",
+            "Mana Reduction Immunity Minion"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -94780,7 +94863,7 @@ window.allHeroes =
         "skill": "Occult Redemption",
         "types": [
             "Hit 3",
-            "Damage reduction buff"
+            "Damage Reduction Buff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -94805,7 +94888,7 @@ window.allHeroes =
             "Element Link summons a Fire Minion for all Fire allies with 6% HP and 10% attack inherited from the caster."
         ],
         "passives": [
-            "Resist Mana Generation Ailments: This character has innate resistance against status ailments and negative stacks that affect Mana Generation. Doesn't apply to status ailments that stop mana generation or steal mana."
+            "Resist Mana Generation Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana."
         ],
         "family": "hotm2020",
         "costume_id": 0,
@@ -95065,7 +95148,7 @@ window.allHeroes =
             "Cleanser All",
             "Attack Growth All",
             "HoT All",
-            "Self Special Skill Defense Buff"
+            "Special Skill Defense Buff Self"
         ],
         "skill_types": [
             "Healers",
@@ -95149,7 +95232,7 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Mana Scavenge",
         "types": [
-            "Mana steal",
+            "Mana steal 1",
             "Hit 1"
         ],
         "skill_types": [
@@ -95418,7 +95501,7 @@ window.allHeroes =
             "Element Link gives +10% increase for any healing received for all Fire allies for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect Attack.",
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack.",
             "Mana on Burn: This character gains 5% mana each time an enemy receives Burn damage."
         ],
         "family": "hotm2021",
@@ -95706,9 +95789,9 @@ window.allHeroes =
         "skill": "Ultimate Gift Sack",
         "types": [
             "Hit All",
-            "Attack Debuff",
-            "Defense Debuff",
-            "Summoner"
+            "Summoner All",
+            "Attack Debuff All",
+            "Defense Debuff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -95885,7 +95968,7 @@ window.allHeroes =
             "Stack (Max: 10): The caster recovers 10 HP each turn."
         ],
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects."
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
         ],
         "family": "slayers",
         "costume_id": 0,
@@ -95967,7 +96050,7 @@ window.allHeroes =
             "Stack +2 (Max: 10): The caster recovers 30 HP each turn."
         ],
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects.",
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks.",
             "Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 452 Bleed damage over 4 turns."
         ],
         "family": "slayers",
@@ -96171,7 +96254,7 @@ window.allHeroes =
         "skill": "Pounce of the Lioness",
         "types": [
             "Hit 1",
-            "Damage Heal"
+            "Damage Heal All"
         ],
         "skill_types": [
             "Healers (Special)",
@@ -96487,8 +96570,8 @@ window.allHeroes =
             "Element Link gives +10% mana generations for all Fire allies for 4 turns. This effect cannot be dispelled."
         ],
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against ailments that block Special Skills.",
-            "Resist Defense Ailments: This character has innate resistance against ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense."
+            "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skill."
         ],
         "family": "hotm2023",
         "costume_id": 0,
@@ -96534,7 +96617,8 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "DoT 3",
-            "Reflect Buffs All"
+            "Boosted Heal All on DoT",
+            "Reflect Buffs 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -96563,7 +96647,7 @@ window.allHeroes =
             "The target and nearby enemies reflect status effect buffs to a random character on the opposing team for 4 turns. (Only dispellable buffs are reflected)"
         ],
         "passives": [
-            "Resist Poison: This character has innate resistance against Poison.",
+            "Resist Poison: This character is immune to status ailments that deal Poison damage.",
             "Share Received Damage: 20% of damage received by this character is shared with other allies."
         ],
         "family": "astral_elves",
@@ -96613,7 +96697,7 @@ window.allHeroes =
         "skill": "Command to Advance",
         "types": [
             "Hit 3",
-            "Summoner",
+            "Summoner All",
             "Minions with DoT"
         ],
         "skill_types": [
@@ -96681,7 +96765,7 @@ window.allHeroes =
         "skill": "Order to Advance",
         "types": [
             "Hit 3",
-            "Summoner",
+            "Summoner All",
             "Minions with DoT"
         ],
         "skill_types": [
@@ -96710,9 +96794,9 @@ window.allHeroes =
         ],
         "passives": [
             "Unstoppable Minions:",
-            "* Resistance against Minion removal.",
+            "* Immune to effects that remove Minions.",
             "* Can't be prevented from receiving Minions.",
-            "* Minion attack and abilities can't be disabled."
+            "* Minion attacks and abilities can't be disabled."
         ],
         "family": "kingdom",
         "costume_id": 1,
@@ -96788,7 +96872,7 @@ window.allHeroes =
         ],
         "passives": [
             "Health recovery on status Ailment Received: This character recovers 50 HP when they receive a status ailment or a negative stack.",
-            "Resist Bleed Damage: This character has innate resistance against Bleed."
+            "Resist Bleed: This character is immune to status ailments that deal Bleed damage."
         ],
         "family": "hotm2022",
         "costume_id": 0,
@@ -96834,8 +96918,8 @@ window.allHeroes =
         "skill": "Ancient Spell",
         "types": [
             "Hit 3",
-            "Defense Debuff",
-            "Mana boost"
+            "Defense Debuff 1",
+            "Mana Boost All if target defeated"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -97052,7 +97136,7 @@ window.allHeroes =
         "skill": "Mark the Prey",
         "types": [
             "Damage Link 1",
-            "Defense debuff 1",
+            "Defense Debuff 1",
             "Hit 3"
         ],
         "skill_types": [
@@ -97074,7 +97158,7 @@ window.allHeroes =
         "defense": 945,
         "health": 1633,
         "effects": [
-            "The target receives 80% damage for all the damage their allies receive for 3 turns.",
+            "For 3 turns, the target receives 80% damage for all the damage dealt to their allies.",
             "The target get -44% defense for 3 turns.",
             "Deals 200% damage to the target and nearby enemies."
         ],
@@ -97217,7 +97301,7 @@ window.allHeroes =
             "Bypass Chance",
             "DoT 1",
             "Self HoT",
-            "Self Resurection"
+            "Self Resurrection"
         ],
         "skill_types": [
             "Bypassers",
@@ -97291,7 +97375,7 @@ window.allHeroes =
             "Hit 3",
             "Bypass",
             "Dot 3",
-            "Self Resurection"
+            "Self Resurrection"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -97369,9 +97453,9 @@ window.allHeroes =
         "skill": "Chords of Distortion",
         "types": [
             "Hit all",
-            "Attack Buff",
+            "Attack Debuff All",
             "HoT 3",
-            "Dispel Immunity 3"
+            "Dispel Immunity Buff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -97521,8 +97605,8 @@ window.allHeroes =
         "skill": "Twilight of Sorrow",
         "types": [
             "Hit All",
-            "Health Steal",
-            "Status Ailment Immunity"
+            "Health Steal All",
+            "Status Ailment Immunity All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -97593,7 +97677,7 @@ window.allHeroes =
         "skill": "Twilight of Ruin",
         "types": [
             "Hit All",
-            "Healing Steal",
+            "Healing Steal All",
             "Status Ailment Immunity All"
         ],
         "skill_types": [
@@ -97667,7 +97751,8 @@ window.allHeroes =
         "skill": "Sense of Wonder",
         "types": [
             "Heal All",
-            "Shield Guard Mega Minion"
+            "Shield Guard Mega Minion",
+            "Clean all Minion"
         ],
         "skill_types": [
             "Mega Minions Summoners",
@@ -97694,7 +97779,7 @@ window.allHeroes =
             "The Shield Guard Mega Minion cleanses the latest cleansable status ailments from all allies each turn. This does not trigger secondary effects."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
@@ -97907,8 +97992,9 @@ window.allHeroes =
         "skill": "Underworld Blaze",
         "types": [
             "Hit All",
-            "Dot All",
-            "Mana steal"
+            "DoT All",
+            "Heal Self on burn",
+            "Mana Steal All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -97935,7 +98021,7 @@ window.allHeroes =
             "The caster steals generated mana of all enemies over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen."
         ],
         "passives": [
-            "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character."
+            "Special Skill Damage Reduction: Received damage is reduced by -20% for the first 3 times this character receives damage from Special Skills."
         ],
         "family": "abyss",
         "costume_id": 0,
@@ -98014,7 +98100,7 @@ window.allHeroes =
             "The caster steals generated mana of all enemies over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen."
         ],
         "passives": [
-            "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.",
+            "Special Skill Damage Reduction: Received damage is reduced by -20% for the first 3 times this character receives damage from Special Skills",
             "Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attack and Special Skill damage against targets with boosted health for 4 turns."
         ],
         "family": "abyss",
@@ -98062,6 +98148,7 @@ window.allHeroes =
         "skill": "Reverse Recovery",
         "types": [
             "Hit 1",
+            "Healing Resist Debuff 3",
             "Damage on each Resisted Healing 3"
         ],
         "skill_types": [
@@ -98086,7 +98173,7 @@ window.allHeroes =
             "The target and nearby enemies resist healing and receive 250 damage per each resisted healing for 4 turns."
         ],
         "passives": [
-            "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
+            "Stop Minions: Enemy Minions can't attack or use abilities."
         ],
         "family": "zodiac",
         "costume_id": 0,
@@ -98195,9 +98282,10 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Peach of Immortality",
         "types": [
-            "Self Resurection",
-            "Crit Buff All",
-            "Buff Attack Stack All"
+            "Self Resurrection",
+            "Damage All on resurrection",
+            "Crit Chance Buff All",
+            "Attack Buff Stack All"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -98261,7 +98349,8 @@ window.allHeroes =
         "skill": "Flaming Fury",
         "types": [
             "Hit 1",
-            "Self Attack Buff Stack"
+            "Chance for Random Hit 1",
+            "Attack Buff Stack Self"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -98292,7 +98381,7 @@ window.allHeroes =
         ],
         "passives": [
             "Status effect on mana reduction: The caster gets +30% attack for 3 turns when their mana is reduced.",
-            "Resist water damage: This character has innate resistance against Water damage."
+            "Resist Water: This character is immune to status ailments that deal Water damage."
         ],
         "family": "hotm2021",
         "costume_id": 0,
@@ -98440,8 +98529,8 @@ window.allHeroes =
             "Element Link gives all Fire allies +10% defense for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist attack status effects: This character has innate resistance against all status effects and stacks that effect attack. This includes buffs.",
-            "Resist mana ailments: This character has innate resistance against status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana."
+            "Resist Mana Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.",
+            "Resist Attack Status Effects: This character is immune to all status effects and stacks that effect attack. This includes status effect buffs."
         ],
         "family": "hotm2022",
         "costume_id": 0,
@@ -98562,7 +98651,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Cataclysmic Divination",
         "types": [
-            "Hit all"
+            "Hit All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -98588,9 +98677,9 @@ window.allHeroes =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -98933,8 +99022,8 @@ window.allHeroes =
         "skill": "Dawn Strike",
         "types": [
             "Hit All",
-            "Attack Buff",
-            "Cleanser"
+            "Attack Buff All",
+            "Cleanser All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -99001,8 +99090,8 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Morning Catch",
         "types": [
-            "Dispeller",
-            "Hit all"
+            "Dispeller All",
+            "Hit All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -100396,8 +100485,8 @@ window.allHeroes =
         "skill": "Swashbuckling Stab",
         "types": [
             "Hit 1",
-            "Buff Reflect All",
-            "Self Boosted HoT"
+            "Reflect Buffs All",
+            "Boosted HoT Self"
         ],
         "skill_types": [
             "Extra Damage Dealers",
@@ -102811,6 +102900,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Engulfing Candlelight",
         "types": [
+            "Humility",
             "Hit 2",
             "Max Health Reduction 2"
         ],
@@ -103932,7 +104022,7 @@ window.allHeroes =
         "types": [
             "Chance of Critical hits",
             "Hit All",
-            "Counterattack 1",
+            "Counterattack Self",
             "Mana Reducer on Counterattack"
         ],
         "skill_types": [
@@ -104726,7 +104816,7 @@ window.allHeroes =
         "skill": "Slash of Seven Blades",
         "types": [
             "Hit All",
-            "Mana Reduction"
+            "Mana Reduction All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -105834,9 +105924,9 @@ window.allHeroes =
         ],
         "passives": [
             "Unstoppable Minions:",
-            "* Resistance against Minion removal.",
+            "* Immune to effects that remove Minions.",
             "* Can't be prevented from receiving Minions.",
-            "* Minion attack and abilities can't be disabled."
+            "* Minion attacks and abilities can't be disabled."
         ],
         "family": "kingdom",
         "costume_id": 1,
@@ -106343,6 +106433,7 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Colossal Chops",
         "types": [
+            "Reposition All",
             "Hit 3"
         ],
         "skill_types": [
@@ -106405,8 +106496,10 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Colossal Carry",
         "types": [
+            "Reposition All",
             "Hit 3",
-            "Dodge stack"
+            "SS Dodge Chance Self",
+            "Defense Buff Stack on dodge"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -106695,7 +106788,9 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Cannon Blast",
         "types": [
-            "Hit 1"
+            "Hit 1",
+            "Hit Random",
+            "Debuffs if SS use on hit"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -107439,8 +107534,8 @@ window.allHeroes =
         "skill": "Stunning Steel",
         "types": [
             "Hit 1",
-            "Blind",
-            "Healing Debuff"
+            "Blind 1",
+            "Healing Debuff 1"
         ],
         "skill_types": [
             "Debuffers (ATK)",
@@ -107467,7 +107562,7 @@ window.allHeroes =
             "Element Link gives all Holy allies +30% defense against Special Skills for 4 turns. This effect can't be cleansed."
         ],
         "passives": [
-            "Resist Status Ailments from Minions: This character has innate resistance against status ailments that are from minions."
+            "Resist Status Ailments From Minions: This character is immune to status ailments that are from Minions."
         ],
         "family": "hotm2020",
         "costume_id": 0,
@@ -107535,7 +107630,7 @@ window.allHeroes =
             "If no ailments were succesfully distributed, deals 200% damage to all enemies."
         ],
         "passives": [
-            "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
+            "Stop Minions: Enemy Minions can't attack or use abilities."
         ],
         "family": "zodiac",
         "costume_id": 0,
@@ -107606,7 +107701,7 @@ window.allHeroes =
             "If the target has been inflicted with Frost, Freezing Power Hooks will be recast once on a random target. (If the target is defeated, the Special Skill will not be recast.)"
         ],
         "passives": [
-            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted heath and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 343 Frost damage and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -107684,7 +107779,7 @@ window.allHeroes =
             "Stack +2 (Max: 10): The caster recovers 20 HP each turn."
         ],
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects."
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks."
         ],
         "family": "slayers",
         "costume_id": 0,
@@ -107846,7 +107941,7 @@ window.allHeroes =
             "Element Link gives all Holy allies immunity to new Fiends for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Max Health Reduction: This character has innate resistance against max health reduction.",
+            "Resist Max Health Reduction: This character is immune to max health reduction.",
             "Boost Health on Enemy Special: When an enemy casts their Special Skill, this character has a 50% chance to boost this character's health by 100."
         ],
         "family": "hotm2022",
@@ -107967,10 +108062,10 @@ window.allHeroes =
         "skill": "Ballad of Passion",
         "types": [
             "Hit 3",
-            "Ballad of Passion",
-            "Blind",
-            "Defense debuff",
-            "Buff immunity"
+            "Ballad of Passion 3",
+            "Blind 3  while dancing",
+            "Defense Debuff 3  while dancing",
+            "Buff Immunity 3  while dancing"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -107996,15 +108091,18 @@ window.allHeroes =
         "health": 1672,
         "effects": [
             "Deals 355% damage to the target and nearby enemies.",
-            "The target and nearby enemies dance to Ballad of Passion for 3 turns. All existing status effects will be removed when this effect is added.",
-            "Ballad of Passion",
-            "* -40% acuracy.",
+            "The target and nearby enemies dance to Ballad of Passion for 3 turns.",
+            "Ballad of Passion:",
+            "* -40% accuracy.",
             "* -40% defense.",
-            "* Gives immunity to new status effects. New dance status effects will replace this effect.",
-            "* This effect cannot be dispelled. The effect is removed when the caster dies."
+            "Additional Info:",
+            "* Chance to miss also applies to offensive Special Skills.",
+            "* All existing status effects will be removed when a dance status effect is added.",
+            "* Dance gives immunity to new status effects. New dance status effects will replace this effect.",
+            "* Dance effect cannot be dispelled. The effect is removed when the caster is defeated."
         ],
         "passives": [
-            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.",
+            "Resist Attack Ailments: This character is immune to status ailments that affect attack.",
             "Heal when status ailment expires or is cleared: This character receives 5% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ],
         "family": "opera",
@@ -108053,7 +108151,8 @@ window.allHeroes =
         "skill": "Channeler of the Gods",
         "types": [
             "Healer",
-            "Status Ailment Immunity"
+            "Status Ailment Immunity",
+            "Heal on Ailment attempt"
         ],
         "skill_types": [
             "Healers",
@@ -108195,7 +108294,9 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Sword Dance",
         "types": [
-            "Hit All"
+            "Hit All",
+            "Dodge Chance Buff All",
+            "Damage attacker on dodge"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -108264,8 +108365,8 @@ window.allHeroes =
         "skill": "Liturgy of the Fallen",
         "types": [
             "Reviver",
-            "Healer",
-            "Defense Buff"
+            "HoT All",
+            "Defense Buff All"
         ],
         "skill_types": [
             "Buffers (DEF)",
@@ -108332,8 +108433,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Summon Temple Guardians",
         "types": [
-            "Healer",
-            "Summoner"
+            "Healer All",
+            "Summoner All"
         ],
         "skill_types": [
             "Healers",
@@ -108351,8 +108452,8 @@ window.allHeroes =
         "defense": 704,
         "health": 1345,
         "effects": [
-            "Recovers 42% health for all allies",
-            "Summons a Guardian Minion for each ally with 20% HP and 20% attack inherited from the caster",
+            "Recovers 42% health for all allies.",
+            "Summons a Guardian Minion for each ally with 20% HP and 20% attack inherited from the caster.",
             "Elemental Link gives +10% mana generation for all Holy allies for 4 turns. This effect can't be dispelled."
         ],
         "passives": [],
@@ -108393,8 +108494,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Summon Celestial Guardians",
         "types": [
-            "Healer",
-            "Summoner"
+            "Healer All",
+            "Summoner All"
         ],
         "skill_types": [
             "Healers",
@@ -108493,8 +108594,8 @@ window.allHeroes =
             "Element Link givs all Holy allies small amount of mana at the end of the turn for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Dispels: This character has an innate resistance against Dispels of buffs.",
-            "Resist Negative Minion Effects: This character has an innate resistance against incoming negative effects and damage from Minions."
+            "Resist Dispels: This character is immune to effects that would dispel their status effect buffs.",
+            "Resist negative minion effects: This character is immune to incoming negative effects and damage from Minions."
         ],
         "family": "hotm2021",
         "costume_id": 0,
@@ -108760,7 +108861,7 @@ window.allHeroes =
         "skill": "Flails of Fury",
         "types": [
             "Hit 3",
-            "Blind"
+            "Blind 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -108822,7 +108923,7 @@ window.allHeroes =
         "skill": "Fabled Fist",
         "types": [
             "Hit 3",
-            "Blind"
+            "Blind 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -109049,7 +109150,7 @@ window.allHeroes =
         "skill": "Seabed Pirouette",
         "types": [
             "Minion Summoner All",
-            "Stack",
+            "Increased Minion HP Stack All",
             "Fiend Replacement All"
         ],
         "skill_types": [
@@ -109204,7 +109305,7 @@ window.allHeroes =
         "skill": "Deteriorating Morale",
         "types": [
             "Hit 3",
-            "Attack Debuff"
+            "Attack Debuff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -109453,11 +109554,11 @@ window.allHeroes =
         "passives": [
             "Perfect Accuracy: This character's Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            "* Common Holy Trainer Heroes",
-            "* Uncommon Holy Trainer Heroes",
             "* Rare Holy Trainer Heroes",
-            "* Common Holy Heroes",
-            "* Uncommon Holy Heroes"
+            "* Uncommon Holy Trainer Heroes",
+            "* Uncommon Holy Heroes",
+            "* Common Holy Trainer Heroes",
+            "* Common Holy Heroes"
         ],
         "family": "mimic",
         "costume_id": 0,
@@ -109595,7 +109696,7 @@ window.allHeroes =
         "defense": 751,
         "health": 1394,
         "effects": [
-            "Deals 330% daamage to the target and nearby enemies.",
+            "Deals 330% damage to the target and nearby enemies.",
             "The hit enemy with the fastest base mana speed gets -64% mana generation for 3 turns."
         ],
         "passives": [],
@@ -109738,7 +109839,7 @@ window.allHeroes =
             "The Recruit Guard Mega Minion gains more HP and attack when there are more unique Garrison Guard heroes on the team, up to 30% HP and 140% attack."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
@@ -109973,7 +110074,7 @@ window.allHeroes =
             "All allies counterattack with 65% of the damage received for 5 turns."
         ],
         "passives": [
-            "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted heath and 5% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 315 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -110058,7 +110159,7 @@ window.allHeroes =
             "All allies counterattack with 70% of the damage received for 5 turns."
         ],
         "passives": [
-            "Empowered Resist Burn: This character has innate resistance against Burn and gains 600 boosted heath and 10% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deals Burn damage and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core: The Molten Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 380 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
             "* The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -110295,7 +110396,7 @@ window.allHeroes =
             "Element Link gives all Holy allies a +5% chance to dodge status ailments for 4 turns. This effect cannot be dispelled."
         ],
         "passives": [
-            "Resist Mana Ailments: This character has innate resistance against ailments that affect mana.",
+            "Resist Mana Ailments: This character is immune to status ailments that affect mana.",
             "Mana Per Enemy Buff: Gains a small amount of mana for every active status effect buff that the enemy team has at the start of each turn (maximum of 20 buffs)."
         ],
         "family": "hotm2023",
@@ -110410,9 +110511,9 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Rejuvenating Elixir",
         "types": [
-            "Defense buff",
-            "Healer delayed",
-            "Mana boost delayed"
+            "Defense Buff All",
+            "Delayed Heal All",
+            "Delayed Mana Boost All"
         ],
         "skill_types": [
             "Buffers (DEF)",
@@ -110433,13 +110534,13 @@ window.allHeroes =
         "defense": 1042,
         "health": 1864,
         "effects": [
-            "All allies get +54% defense, and a further +5% increase every time they are hit during 3 turns.",
+            "All allies get +54% defense, and a further +5% increase every time they are hit during 3 turns, up to +79% defense.",
             "All allies recover 1000 health after 3 turns. If the effect is removed or replaced before the duration ends, recovers 1400 health instead.",
-            "All allies gain 25% mana after 3 turns.If the effect is removed or replaced before the duration ends, gains 35% mana instead. (This effect cannot replaced with itself.)"
+            "All allies gain 25% mana after 3 turns. If the effect is removed or replaced before the duration ends, gains 35% mana instead. (This effect cannot replaced with itself.)"
         ],
         "passives": [
             "Health Recovery on Status Ailment Received: This character recovers 10%  health when they receive a status ailment or a negative stack.",
-            "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
+            "Stop Minions: Enemy Minions can't attack or use abilities."
         ],
         "family": "zodiac",
         "costume_id": 0,
@@ -110710,10 +110811,10 @@ window.allHeroes =
             "Full Cleanser 4",
             "Self HoT",
             "Dance of Spirits 4",
-            "Attack Buff 4 while Dancing",
-            "Damage Reduction 4 while Dancing",
-            "Damage if caster Defeat 4",
-            "Mana Reduction if caster Defeat 4"
+            "Attack Buff while Dancing",
+            "Damage Reduction while Dancing",
+            "Damage if caster Defeated while Dancing",
+            "Mana Reduction if caster Defeated while Dancing"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -110870,8 +110971,8 @@ window.allHeroes =
         "skill": "Stately Retribution",
         "types": [
             "Hit All",
-            "Self Defense Buff",
-            "Self HoT"
+            "Defense Buff Self",
+            "HoT Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -110891,7 +110992,7 @@ window.allHeroes =
         "health": 1483,
         "effects": [
             "Deals 300% damage to all enemies.",
-            "Damage is increased by 60% per each dead ally (max damage 540%).",
+            "The damage is increased by 60% per each defeated ally.",
             "The caster gets +46% defense for 5 turns.",
             "The caster regenerates 915 HP over 5 turns."
         ],
@@ -111011,8 +111112,8 @@ window.allHeroes =
         "skill": "Word of the Queen",
         "types": [
             "Mana Reduction All",
-            "HoT All",
-            "Elemental Defense Buff All"
+            "HoT 3",
+            "Elemental Defense Buff 3"
         ],
         "skill_types": [
             "Buffers (DEF)",
@@ -111308,9 +111409,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Strike of a Thousand Howls",
         "types": [
-            "Hit all",
-            "Counterattack",
-            "Crit Buff"
+            "Hit All",
+            "Counterattack All",
+            "Critical Chance Buff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -111452,8 +111553,9 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Dancing Dodge",
         "types": [
-            "Dodge Buff",
-            "Health Boost"
+            "Dodge Chance Buff All",
+            "Health Boost on dodge",
+            "Max Health Reduction Immunity All"
         ],
         "skill_types": [
             "Dodgers",
@@ -111479,7 +111581,7 @@ window.allHeroes =
             "Element Link gives +10% increase for any healing received for all Holy allies for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skill.",
             "Mana on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
         ],
         "family": "hotm2021",
@@ -111678,7 +111780,7 @@ window.allHeroes =
         "skill": "Unrelenting Hunter",
         "types": [
             "Hit 3",
-            "Health reduction"
+            "Health Reduction 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -111701,9 +111803,9 @@ window.allHeroes =
             "Reduces max health of the target and nearby enemies by 450 over 3 turns. The effect is stronger against targets with boosted health. Max health can't get lower than 30% of the original health. Any boosted health is reduced by an additional 150 per turn."
         ],
         "passives": [
-            "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill '",
+            "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill:",
             "* Deals 70% damage to all enemies.",
-            "* All enemies get -34% attack for 3 turns.'"
+            "* All enemies get -34% attack for 3 turns."
         ],
         "family": "sun",
         "costume_id": 0,
@@ -111771,9 +111873,9 @@ window.allHeroes =
             "Reduces max health of the target and nearby enemies by 600 over 3 turns. The effect is stronger against targets with boosted health. Max health can't get lower than 30% of the original health. Any boosted health is reduced by an additional 200 per turn."
         ],
         "passives": [
-            "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill '",
+            "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill:",
             "* Deals 70% damage to all enemies.",
-            "* All enemies get -34% attack for 3 turns.'",
+            "* All enemies get -34% attack for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ],
@@ -112040,8 +112142,9 @@ window.allHeroes =
         "skill": "Lucky Nine",
         "types": [
             "Hit All",
-            "Dodge Buff",
-            "Summon on Dodge"
+            "Dodge Chance Buff",
+            "Minion Summon on dodge",
+            "Mana Boost Minion each turn"
         ],
         "skill_types": [
             "Dodgers",
@@ -112109,8 +112212,9 @@ window.allHeroes =
         "skill": "Blinding Spell",
         "types": [
             "Hit All",
-            "Summoner",
-            "Accuracy Debuff"
+            "Summoner 3",
+            "Mana Boost Minion each turn",
+            "Blind All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -112267,7 +112371,7 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Hit Dark",
-            "Mana gen debuff"
+            "Mana Generation Debuff All"
         ],
         "skill_types": [
             "Extra Damage Dealers",
@@ -112296,9 +112400,9 @@ window.allHeroes =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -112342,9 +112446,9 @@ window.allHeroes =
         "speed": "Very Fast",
         "skill": "Stupendous Break In",
         "types": [
-            "Buff Stealer",
-            "Mana Stealer",
-            "Attack Buff"
+            "Buff Stealer 1",
+            "Mana Stealer 1",
+            "Attack Buff All"
         ],
         "skill_types": [
             "Buff Stealers",
@@ -112373,8 +112477,8 @@ window.allHeroes =
             "Element Link gives +10% mana generation for all Holy allies for 4 turns. This effect cannot be dispelled."
         ],
         "passives": [
-            "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage.",
-            "Resist Status Ailments From Minions: This character has innate resistance against status ailments that are from Minions."
+            "Resist Status Ailments From Minions: This character is immune to status ailments that are from Minions.",
+            "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
         "family": "hotm2023",
         "costume_id": 0,
@@ -112418,8 +112522,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "The Two Sides of the Moon",
         "types": [
-            "Hit 2",
+            "Hit 1",
             "Defense debuff",
+            "Hit Random 1",
             "Mana generation debuff"
         ],
         "skill_types": [
@@ -112631,7 +112736,10 @@ window.allHeroes =
         "skill": "Archaic Sacred Symbol",
         "types": [
             "Hit All",
-            "Elemental"
+            "Blind All Dark",
+            "Defense Debuff All Ice",
+            "Mana Generation Debuff All Nature",
+            "Attack Debuff All Fire"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -112661,9 +112769,9 @@ window.allHeroes =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
@@ -113113,9 +113221,9 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Strike From the Skies",
         "types": [
-            "Hit all",
-            "Healing Debuff",
-            "Mana Debuff"
+            "Hit All",
+            "Boosted Healing Debuff All",
+            "Mana Gain Debuff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -113517,6 +113625,76 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Justico",
+        "fancy_name": "Protector Slime",
+        "AetherPower": "Taunt",
+        "color": "Yellow",
+        "class": "Paladin",
+        "speed": "Average",
+        "skill": "Viscous Shield",
+        "types": [
+            "Hit All",
+            "Taunt",
+            "Slime Revive Self"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Taunters",
+            "Revivers"
+        ],
+        "source": "Super Elementals",
+        "Release date": "2026-03-17",
+        "specialId": "viscous_shield_justico",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_yellow",
+            "summon_slime_minion_on_death_yellow"
+        ],
+        "heroId": "slime_justico",
+        "star": 5,
+        "power": 1289,
+        "attack": 1310,
+        "defense": 1369,
+        "health": 2303,
+        "effects": [
+            "Deals 350% damage to all enemies.",
+            "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
+            "The caster receive Slime Revive status effect for 4 turns. This effect can't be dispelled.",
+            "If defeated while Slime Revive is active, the caster will be reborn as a Slime."
+        ],
+        "passives": [
+            "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
+            "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
+        ],
+        "family": "slime",
+        "costume_id": 0,
+        "originalIndex": 1604,
+        "lb1": {
+            "attack": 1411,
+            "defense": 1476,
+            "health": 2481,
+            "power": 1379
+        },
+        "lb2": {
+            "attack": 1615,
+            "defense": 1689,
+            "health": 2839,
+            "power": 1560
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Taunt",
+                    "Heal - Self Revive"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Kara",
         "fancy_name": "Hallowed Defender",
         "AetherPower": "Taunt",
@@ -113526,7 +113704,8 @@ window.allHeroes =
         "skill": "Shieldmaiden's Protection",
         "types": [
             "Taunt",
-            "Attack Buff"
+            "SS Defense Buff Self",
+            "Attack Buff All"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -113554,11 +113733,11 @@ window.allHeroes =
         ],
         "passives": [
             "Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled from this character.",
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1604,
+        "originalIndex": 1605,
         "lb1": {
             "attack": 814,
             "defense": 825,
@@ -113591,8 +113770,8 @@ window.allHeroes =
         "skill": "Heirloom Dagger",
         "types": [
             "Hit 1",
-            "Bounce",
-            "Mindless Attack"
+            "Hit Random 1",
+            "Mindless Attack on hit"
         ],
         "skill_types": [
             "Mindless Attack & Mindless Heal",
@@ -113620,7 +113799,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1605,
+        "originalIndex": 1606,
         "lb1": {
             "attack": 879,
             "defense": 852,
@@ -113657,8 +113836,8 @@ window.allHeroes =
         "skill": "Cunning Knife",
         "types": [
             "Hit 1",
-            "Bounce",
-            "Mindless Attack"
+            "Hit Random 1",
+            "Mindless Attack on hit"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -113688,7 +113867,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 1606,
+        "originalIndex": 1607,
         "lb1": {
             "attack": 1145,
             "defense": 1207,
@@ -113726,7 +113905,7 @@ window.allHeroes =
         "types": [
             "Charge",
             "Hit 1",
-            "Hide",
+            "Hide Self",
             "Mindless Attack 1"
         ],
         "skill_types": [
@@ -113769,7 +113948,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1607,
+        "originalIndex": 1608,
         "lb1": {
             "attack": 874,
             "defense": 939,
@@ -113854,7 +114033,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1608,
+        "originalIndex": 1609,
         "lb1": {
             "attack": 1351,
             "defense": 1418,
@@ -113944,7 +114123,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1609,
+        "originalIndex": 1610,
         "lb1": {
             "attack": 1283,
             "defense": 1358,
@@ -113986,7 +114165,7 @@ window.allHeroes =
         "skill": "Fierce Fu Jow Pai",
         "types": [
             "Hit 1",
-            "Self Health Boost"
+            "Health Boost Self"
         ],
         "skill_types": [
             "Health Boosters",
@@ -114010,11 +114189,11 @@ window.allHeroes =
             "Boosts the caster's health by 50% of damage dealt."
         ],
         "passives": [
-            "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
+            "Stop Minions: Enemy Minions can't attack or use abilities."
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1610,
+        "originalIndex": 1611,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -114083,7 +114262,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 1,
-        "originalIndex": 1611,
+        "originalIndex": 1612,
         "lb1": {
             "attack": 1414,
             "defense": 1345,
@@ -114123,7 +114302,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Home Run",
         "types": [
-            "Cleanser All",
+            "Safely Cleanser All",
             "Hit All",
             "Healing Decrease All",
             "Cleanse Immunity All"
@@ -114149,10 +114328,10 @@ window.allHeroes =
         "defense": 1017,
         "health": 1730,
         "effects": [
-            "Cleanses status ailments from all allies without triggering secondary effects.",
+            "Safely cleanses status ailments from all allies.",
             "Deals 325% damage to all enemies.",
             "All enemies get -50% decrease for any healing received for 4 turns.",
-            "All enemies can't get their status ailments cleansed or reallocated by Special Skills for 4 turns. (This effect also prevents cleansing and reallocating of itself."
+            "All enemies can't get their status ailments cleansed or reallocated by Special Skills for 4 turns. (This effect also prevents cleansing and reallocating of itself.)"
         ],
         "passives": [
             "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.",
@@ -114161,7 +114340,7 @@ window.allHeroes =
         ],
         "family": "champions",
         "costume_id": 0,
-        "originalIndex": 1612,
+        "originalIndex": 1613,
         "lb1": {
             "attack": 1121,
             "defense": 1096,
@@ -114199,7 +114378,8 @@ window.allHeroes =
         "skill": "Wandering Star Shot",
         "types": [
             "Hit 1",
-            "Mana Reduction"
+            "Chain Hit",
+            "Mana Reduction on Hit"
         ],
         "skill_types": [
             "Damage Sharers",
@@ -114229,12 +114409,12 @@ window.allHeroes =
             "If the target has more than 30% mana after mana reduction, the Special Skill repeats, targeting a random enemy. The damage is reduced on each consecutive hit."
         ],
         "passives": [
-            "Resist Poison: This character has innate resistance against Poison.",
+            "Resist Poison: This character is immune to status ailments that deal Poison damage",
             "Share Received Damage: 20% of damage received by this character is shared with other allies."
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1613,
+        "originalIndex": 1614,
         "lb1": {
             "attack": 1123,
             "defense": 1116,
@@ -114297,7 +114477,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1614,
+        "originalIndex": 1615,
         "lb1": {
             "attack": 788,
             "defense": 774,
@@ -114362,7 +114542,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1615,
+        "originalIndex": 1616,
         "lb1": {
             "attack": 870,
             "defense": 898,
@@ -114427,7 +114607,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1616,
+        "originalIndex": 1617,
         "lb1": {
             "attack": 999,
             "defense": 1010,
@@ -114502,7 +114682,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1617,
+        "originalIndex": 1618,
         "lb1": {
             "attack": 1228,
             "defense": 1187,
@@ -114575,7 +114755,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1618,
+        "originalIndex": 1619,
         "lb1": {
             "attack": 1441,
             "defense": 1301,
@@ -114650,7 +114830,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1619,
+        "originalIndex": 1620,
         "lb1": {
             "attack": 1527,
             "defense": 1371,
@@ -114713,16 +114893,16 @@ window.allHeroes =
         "health": 2004,
         "effects": [
             "Lifts all cleansable status ailments from the caster and nearby allies and randomly distributes them on enemies.",
-            "The caster and nearby allies get Moonrise Ward for 4 turns, that reduces incoming Special Skill damage by -1320. Reduces damage by additional 30% when attack is Holy.",
+            "The caster and nearby allies get Moonrise Ward for 4 turns, that reduces incoming Special Skill damage by -1320. Reduces damage by additional 30% when attacker is of the  Holy element.",
             "The caster and nearby allies regenerate 1800 HP over 4 turns.",
-            "The caster and nearby allies reflect status ailments and negative stacks for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected."
+            "The caster and nearby allies reflect status ailments and negative stacks for 4 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)"
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1620,
+        "originalIndex": 1621,
         "lb1": {
             "attack": 1045,
             "defense": 1165,
@@ -114798,7 +114978,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1621,
+        "originalIndex": 1622,
         "lb1": {
             "attack": 1383,
             "defense": 1356,
@@ -114840,9 +115020,9 @@ window.allHeroes =
         "skill": "Wild Cleave",
         "types": [
             "Hit All",
-            "DoT all",
-            "Healing Debuff",
-            "Accuracy Debuff"
+            "DoT All",
+            "Healing Debuff All",
+            "Blind All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -114877,7 +115057,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1622,
+        "originalIndex": 1623,
         "lb1": {
             "attack": 901,
             "defense": 943,
@@ -114946,11 +115126,11 @@ window.allHeroes =
             "Element Link gives all Holy allies +10% critical chance for 6 turns. This effect can't be cleansed."
         ],
         "passives": [
-            "Resist Defense Ailments: The hero has an innate resistance against status ailments and negative stacks that affect Defense. Doesn't apply to status ailments that affect elemental defense."
+            "Resist Defense Ailments: The character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense."
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1623,
+        "originalIndex": 1624,
         "lb1": {
             "attack": 801,
             "defense": 785,
@@ -114985,7 +115165,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Muffin Poisoning",
         "types": [
-            "Dot All",
+            "DoT All",
             "Fiend Summoner All"
         ],
         "skill_types": [
@@ -115018,7 +115198,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1624,
+        "originalIndex": 1625,
         "lb1": {
             "attack": 881,
             "defense": 888,
@@ -115095,7 +115275,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1625,
+        "originalIndex": 1626,
         "lb1": {
             "attack": 1154,
             "defense": 1165,
@@ -115169,7 +115349,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 1626,
+        "originalIndex": 1627,
         "lb1": {
             "attack": 1065,
             "defense": 1145,
@@ -115245,7 +115425,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1627,
+        "originalIndex": 1628,
         "lb1": {
             "attack": 1134,
             "defense": 1245,
@@ -115280,9 +115460,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Impossible Riddle",
         "types": [
-            "Hit all",
-            "Mana Reduction",
-            "Mana Generation Debuff"
+            "Hit All",
+            "Mana Reduction All",
+            "Mana Generation Debuff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -115314,7 +115494,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1628,
+        "originalIndex": 1629,
         "lb1": {
             "attack": 832,
             "defense": 947,
@@ -115396,7 +115576,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1629,
+        "originalIndex": 1630,
         "lb1": {
             "attack": 1287,
             "defense": 1310,
@@ -115474,7 +115654,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1630,
+        "originalIndex": 1631,
         "lb1": {
             "attack": 772,
             "defense": 885,
@@ -115543,7 +115723,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1631,
+        "originalIndex": 1632,
         "lb1": {
             "attack": 1112,
             "defense": 1298,
@@ -115621,7 +115801,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1632,
+        "originalIndex": 1633,
         "lb1": {
             "attack": 814,
             "defense": 854,
@@ -115690,7 +115870,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1633,
+        "originalIndex": 1634,
         "lb1": {
             "attack": 1376,
             "defense": 1327,
@@ -115759,14 +115939,14 @@ window.allHeroes =
             "All allies get +55% critical chance for 4 turns."
         ],
         "passives": [
-            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted heath and 5% mana each time they resist.",
+            "Empowered Resist Frost: This character is immune to status ailments that deals Frost damage and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character's Special Skill is cast",
             "* All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 316 Frost damage, and lowers the target's attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 1634,
+        "originalIndex": 1635,
         "lb1": {
             "attack": 1265,
             "defense": 1316,
@@ -115800,7 +115980,7 @@ window.allHeroes =
         "skill": "Dragon Fang",
         "types": [
             "Hit 3",
-            "Self Heal"
+            "Heal Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -115826,7 +116006,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 1635,
+        "originalIndex": 1636,
         "lb1": {
             "attack": 848,
             "defense": 732,
@@ -115862,7 +116042,7 @@ window.allHeroes =
         "skill": "Rod of Freedom",
         "types": [
             "Hit 3",
-            "Self Heal"
+            "Heal Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -115895,7 +116075,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 1636,
+        "originalIndex": 1637,
         "lb1": {
             "attack": 1065,
             "defense": 939,
@@ -115931,8 +116111,8 @@ window.allHeroes =
         "skill": "Sickle of Eradication",
         "types": [
             "Hit All",
-            "Mana Reduction",
-            "Blind"
+            "Mana Reduction All",
+            "Blind All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -115959,11 +116139,11 @@ window.allHeroes =
             "Elemental link gives +4% mana generation for all Holy allies for 4 turns. This effect cannot be dispelled."
         ],
         "passives": [
-            "Resist Mana Generation Stopping: This character has an innate resistance against status ailments that Stop Mana Generation."
+            "Resist Mana Generation Stopping: This character is immune to status ailments that stop mana generation."
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1637,
+        "originalIndex": 1638,
         "lb1": {
             "attack": 792,
             "defense": 794,
@@ -116003,7 +116183,10 @@ window.allHeroes =
         "speed": "Styx",
         "skill": "Day of Reckoning",
         "types": [
-            "Charge"
+            "Charge",
+            "Hit 1",
+            "Damage All on each enemy mana increase",
+            "Buff Immunity All with replacing"
         ],
         "skill_types": [
             "Buff Blockers",
@@ -116037,12 +116220,12 @@ window.allHeroes =
             "* For 3 turns each time an enemy's mana is increased by a Special Skill, status effect, level property, passive skill, family effect or minion, they receive 250 damage."
         ],
         "passives": [
-            "Resist Defense Ailments: Duration of the defense status ailments this character receives from Special Skills is decreased by 2 turns.",
-            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
+            "Weaker Minions: Enemy Minions have -50% HP."
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1638,
+        "originalIndex": 1639,
         "lb1": {
             "attack": 945,
             "defense": 843,
@@ -116118,7 +116301,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1639,
+        "originalIndex": 1640,
         "lb1": {
             "attack": 1396,
             "defense": 1214,
@@ -116159,7 +116342,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Twist of Fate",
         "types": [
-            "Hit 3"
+            "Hit 3",
+            "Weaker Defense 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)"
@@ -116181,7 +116365,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 0,
-        "originalIndex": 1640,
+        "originalIndex": 1641,
         "lb1": {
             "attack": 830,
             "defense": 774,
@@ -116216,7 +116400,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Wrath of Fate",
         "types": [
-            "Hit 3"
+            "Hit 3",
+            "Weaker Defense 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)"
@@ -116240,7 +116425,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 1,
-        "originalIndex": 1641,
+        "originalIndex": 1642,
         "lb1": {
             "attack": 1145,
             "defense": 991,
@@ -116276,7 +116461,7 @@ window.allHeroes =
         "skill": "Fury of Grimnir",
         "types": [
             "Hit All",
-            "Mana Generation Buff"
+            "Mana Generation Buff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -116301,7 +116486,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1642,
+        "originalIndex": 1643,
         "lb1": {
             "attack": 821,
             "defense": 810,
@@ -116342,7 +116527,7 @@ window.allHeroes =
         "skill": "Rage of Grimnir",
         "types": [
             "Hit All",
-            "Mana Generation Buff"
+            "Mana Generation Buff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -116369,7 +116554,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1643,
+        "originalIndex": 1644,
         "lb1": {
             "attack": 1031,
             "defense": 1054,
@@ -116411,7 +116596,7 @@ window.allHeroes =
         "types": [
             "Minion Destroyer All",
             "Hit All",
-            "Mana Generation Debuff Stack All"
+            "Mana Generation Stack All on minion destroyed"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -116432,17 +116617,17 @@ window.allHeroes =
         "defense": 799,
         "health": 1404,
         "effects": [
-            "Destroys all Minions for all enemies and damages all Mega Minions.",
+            "Destroys all Minions for all enemies and damages Mega Minions.",
             "Deals 275% damage to all enemies.",
             "Deals additional 30% damage to all enemies for each Minion destroyed.",
             "Stack (Max: 10): All enemies get -7% mana generation for each destroyed Minion."
         ],
         "passives": [
-            "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1644,
+        "originalIndex": 1645,
         "lb1": {
             "attack": 899,
             "defense": 861,
@@ -116484,7 +116669,7 @@ window.allHeroes =
         "skill": "Eye of the Prophet",
         "types": [
             "Hit 3",
-            "Mana Steal"
+            "Mana Steal 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -116510,11 +116695,11 @@ window.allHeroes =
             "Element Link recovers 4% health for all Holy allies for 6 turns. This effect can't be cleansed"
         ],
         "passives": [
-            "Resist Blind: This character has an innate ability to resist status ailments that affect Accuracy. Doesn't apply to status effects from allies."
+            "Resist Blind: This character is immune to status ailments that affect accuracy. Doesn't apply to original status effects from allies."
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1645,
+        "originalIndex": 1646,
         "lb1": {
             "attack": 666,
             "defense": 879,
@@ -116593,7 +116778,7 @@ window.allHeroes =
         ],
         "family": "vegetable",
         "costume_id": 0,
-        "originalIndex": 1646,
+        "originalIndex": 1647,
         "lb1": {
             "attack": 1440,
             "defense": 1425,
@@ -116634,8 +116819,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Summon Sand Golems",
         "types": [
-            "Summoner",
-            "Defense Buff"
+            "Summoner All",
+            "Defense Buff All"
         ],
         "skill_types": [
             "Buffers (DEF)",
@@ -116655,7 +116840,8 @@ window.allHeroes =
         "defense": 819,
         "health": 1569,
         "effects": [
-            "Sand Golem Minion has 14% HP and 18% attack inherited from the caster. Each time the Sand Golem Minion is attacked by normal attacks or Special Skills, the attacker receives 294 Sand damage over 3 turns.",
+            "Summons a Sand Golem Minion for each ally with 14% HP and 18% attack inherited from the caster.",
+            "Each time the Sand Golem Minion is attacked by normal attacks or Special Skills, the attacker receives 294 Sand damage over 3 turns.",
             "All allies get +30% defense for 3 turns."
         ],
         "passives": [
@@ -116665,7 +116851,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1647,
+        "originalIndex": 1648,
         "lb1": {
             "attack": 876,
             "defense": 883,
@@ -116751,7 +116937,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1648,
+        "originalIndex": 1649,
         "lb1": {
             "attack": 1223,
             "defense": 1329,
@@ -116828,7 +117014,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1649,
+        "originalIndex": 1650,
         "lb1": {
             "attack": 896,
             "defense": 821,
@@ -116868,9 +117054,9 @@ window.allHeroes =
         "speed": "Changing Tides",
         "skill": "Ocean's Ruin",
         "types": [
-            "Buff Stealer",
+            "Buff Stealer 1/3",
             "Hit 1",
-            "Spreading DoT"
+            "Spreading DoT  1"
         ],
         "skill_types": [
             "Snipers",
@@ -116910,7 +117096,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1650,
+        "originalIndex": 1651,
         "lb1": {
             "attack": 1054,
             "defense": 1105,
@@ -116999,7 +117185,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1651,
+        "originalIndex": 1652,
         "lb1": {
             "attack": 1363,
             "defense": 1400,
@@ -117073,11 +117259,11 @@ window.allHeroes =
             "While in Owlhalla the target receives 360 damage each turn. (While in Ghost form, Character can't gain mana and can't be healed by Special Skills, but is immune to normal attack, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects. Can't be cast if there is only one enemy left in the battle.)"
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1652,
+        "originalIndex": 1653,
         "lb1": {
             "attack": 1252,
             "defense": 1278,
@@ -117155,7 +117341,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1653,
+        "originalIndex": 1654,
         "lb1": {
             "attack": 1351,
             "defense": 1201,
@@ -117223,7 +117409,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 1654,
+        "originalIndex": 1655,
         "lb1": {
             "attack": 803,
             "defense": 774,
@@ -117284,7 +117470,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 1655,
+        "originalIndex": 1656,
         "lb1": {
             "attack": 1450,
             "defense": 1401,
@@ -117320,8 +117506,8 @@ window.allHeroes =
         "skill": "Glorious Grace",
         "types": [
             "Cleanse All",
-            "Health Boost",
-            "HOT"
+            "Health Boost All",
+            "Boosted HoT All"
         ],
         "skill_types": [
             "Cleansers",
@@ -117350,7 +117536,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1656,
+        "originalIndex": 1657,
         "lb1": {
             "attack": 803,
             "defense": 870,
@@ -117387,8 +117573,8 @@ window.allHeroes =
         "skill": "Dazzling Gleam",
         "types": [
             "Cleanse All",
-            "Health Boost",
-            "HOT"
+            "Boosted Heal All",
+            "Boosted HoT All"
         ],
         "skill_types": [
             "Cleansers",
@@ -117422,7 +117608,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1657,
+        "originalIndex": 1658,
         "lb1": {
             "attack": 1038,
             "defense": 1125,
@@ -117458,7 +117644,10 @@ window.allHeroes =
         "speed": "Average",
         "skill": "The Queen's Radiance",
         "types": [
-            "Hit All"
+            "Hit All",
+            "Mana Increase All on enemy SS",
+            "Vengeance Self",
+            "Damage All on dispel Vengeance"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -117476,13 +117665,13 @@ window.allHeroes =
         "health": 1608,
         "effects": [
             "Deals 330% damage to all enemies.",
-            "All allies get +10% mana every time an enemy uses their Special Skill during 4 turns. Mana is received at the end of a Special Skill. Mana will not be received if this status effect is removed during a Special Skill",
+            "All allies get 10% mana every time an enemy uses their Special Skill during 4 turns. (Mana is received at the end of a Special Skill. Mana will not be received if this status effect is removed during a Special Skill.)",
             "The caster gets Vengeance for 4 turns. If Vengeance is dispelled by an enemy's Special Skill, all enemies receive 525 damage."
         ],
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1658,
+        "originalIndex": 1659,
         "lb1": {
             "attack": 859,
             "defense": 896,
@@ -117546,14 +117735,14 @@ window.allHeroes =
         "health": 1367,
         "effects": [
             "Deals 185% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 423 damage over 3 turns.",
+            "The target and nearby enemies receive 402 Sand damage over 3 turns.",
             "The target and nearby enemies get -75% increase for any healing received for 2 turns. This effect can't be cleansed.",
             "Cleanses status ailments from the caster."
         ],
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1659,
+        "originalIndex": 1660,
         "lb1": {
             "attack": 792,
             "defense": 765,
@@ -117623,7 +117812,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1660,
+        "originalIndex": 1661,
         "lb1": {
             "attack": 1004,
             "defense": 979,
@@ -117662,7 +117851,7 @@ window.allHeroes =
         "skill": "Mystic's Virtue",
         "types": [
             "Hit 1",
-            "Titan Attack Buff"
+            "Titan Attack Buff All"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -117688,11 +117877,11 @@ window.allHeroes =
             "Element Link gives all Holy allies +46% defense against Dark for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Poison: This character has an innate resistance against Poison."
+            "Resist Poison: This character is immune to status ailments that deal Poison damage."
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1661,
+        "originalIndex": 1662,
         "lb1": {
             "attack": 828,
             "defense": 843,
@@ -117761,7 +117950,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1662,
+        "originalIndex": 1663,
         "lb1": {
             "attack": 1338,
             "defense": 1385,
@@ -117824,11 +118013,11 @@ window.allHeroes =
             "Cleanses status ailments from all allies."
         ],
         "passives": [
-            "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1663,
+        "originalIndex": 1664,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -117873,7 +118062,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Sand Cyclone",
         "types": [
-            "Dot All",
+            "DoT All",
             "Healing Debuff All",
             "Cleanser All"
         ],
@@ -117900,7 +118089,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1664,
+        "originalIndex": 1665,
         "lb1": {
             "attack": 821,
             "defense": 796,
@@ -117937,7 +118126,7 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Beach Party",
         "types": [
-            "Dot All",
+            "DoT All",
             "Defense Debuff All",
             "Dispeller All"
         ],
@@ -117966,7 +118155,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1665,
+        "originalIndex": 1666,
         "lb1": {
             "attack": 1023,
             "defense": 1010,
@@ -118038,12 +118227,12 @@ window.allHeroes =
             "The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment from all allies each turn. (Safe cleanse bypasses secondary effects, such as damage on remova, from the remove status ailment. External effects such as passive skills and family effects can still activate."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1666,
+        "originalIndex": 1667,
         "lb1": {
             "attack": 1167,
             "defense": 1252,
@@ -118124,7 +118313,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1667,
+        "originalIndex": 1668,
         "lb1": {
             "attack": 1345,
             "defense": 1314,
@@ -118205,7 +118394,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1668,
+        "originalIndex": 1669,
         "lb1": {
             "attack": 1329,
             "defense": 1276,
@@ -118278,7 +118467,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1669,
+        "originalIndex": 1670,
         "lb1": {
             "attack": 1338,
             "defense": 1316,
@@ -118365,7 +118554,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1670,
+        "originalIndex": 1671,
         "lb1": {
             "attack": 1500,
             "defense": 1349,
@@ -118435,7 +118624,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1671,
+        "originalIndex": 1672,
         "lb1": {
             "attack": 1125,
             "defense": 1172,
@@ -118480,9 +118669,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Reversed Lifeforce",
         "types": [
-            "Hit all",
-            "Healer",
-            "Cleanser"
+            "Hit All",
+            "Healer All",
+            "Cleanser All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -118511,14 +118700,14 @@ window.allHeroes =
             "Cleanses status ailments from all allies."
         ],
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
             "* With fully charged Repair Core, boosts the health of all allies by 25%.",
-            "* The healing is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
+            "* The healing is scaled by the amount of charge in the Core, All charge is exhausted when the Core is activated."
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1672,
+        "originalIndex": 1673,
         "lb1": {
             "attack": 976,
             "defense": 1107,
@@ -118605,7 +118794,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1673,
+        "originalIndex": 1674,
         "lb1": {
             "attack": 1440,
             "defense": 1367,
@@ -118649,7 +118838,8 @@ window.allHeroes =
         "skill": "Rude Awakening",
         "types": [
             "Hit 3",
-            "Sword Guard Mega Minion"
+            "Sword Guard Mega Minion",
+            "Spreading DoT Minion"
         ],
         "skill_types": [
             "Mega Minions Summoners",
@@ -118675,12 +118865,12 @@ window.allHeroes =
             "The target hit by the Sword Guard Mega Minion receives 411 Bleed damage over 3 turns. This effect spreads to nearby enemies."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist mana reduction: This character is immune to mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1674,
+        "originalIndex": 1675,
         "lb1": {
             "attack": 1136,
             "defense": 1238,
@@ -118721,8 +118911,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Gold Weaver",
         "types": [
-            "Counterattack",
-            "Mana Generation Buff"
+            "Counterattack 3",
+            "Damage Reduction Buff 3",
+            "Mana Generation Buff 3"
         ],
         "skill_types": [
             "Buffers (DEF)",
@@ -118748,7 +118939,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1675,
+        "originalIndex": 1676,
         "lb1": {
             "attack": 850,
             "defense": 772,
@@ -118780,9 +118971,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Golden Strings",
         "types": [
-            "Mana boost",
-            "Counterattack",
-            "Damage Reduction"
+            "Boost Mana 3",
+            "Counterattack 3",
+            "Damage Reduction Buff 3"
         ],
         "skill_types": [
             "Buffers (DEF)",
@@ -118810,7 +119001,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1676,
+        "originalIndex": 1677,
         "lb1": {
             "attack": 1037,
             "defense": 1031,
@@ -118874,7 +119065,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1677,
+        "originalIndex": 1678,
         "lb1": {
             "attack": 1334,
             "defense": 1309,
@@ -118916,7 +119107,8 @@ window.allHeroes =
         "skill": "Luminous Lance",
         "types": [
             "Hit 1",
-            "Chain Hit"
+            "Chain Hit",
+            "Defense Debuff Self"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -118940,7 +119132,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1678,
+        "originalIndex": 1679,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -119010,7 +119202,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1679,
+        "originalIndex": 1680,
         "lb1": {
             "attack": 1209,
             "defense": 1165,
@@ -119094,7 +119286,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1680,
+        "originalIndex": 1681,
         "lb1": {
             "attack": 1474,
             "defense": 1249,
@@ -119131,9 +119323,9 @@ window.allHeroes =
         "speed": "Very Fast",
         "skill": "Golden Cicada",
         "types": [
-            "Healer",
-            "Cleanser",
-            "Defense Buff"
+            "Boosted Heal All",
+            "Cleanse Latest Ailment All",
+            "Defense Buff All"
         ],
         "skill_types": [
             "Health Boosters",
@@ -119164,7 +119356,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1681,
+        "originalIndex": 1682,
         "lb1": {
             "attack": 1090,
             "defense": 1156,
@@ -119204,8 +119396,8 @@ window.allHeroes =
         "speed": "Very Fast",
         "skill": "Power of Mjölnir",
         "types": [
-            "Hit All",
-            "Blind"
+            "Hit 1/3/All",
+            "Blind 1/3/All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -119237,7 +119429,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1682,
+        "originalIndex": 1683,
         "lb1": {
             "attack": 808,
             "defense": 792,
@@ -119273,7 +119465,7 @@ window.allHeroes =
         "skill": "Energy of Mjölnir",
         "types": [
             "Hit All",
-            "Blind"
+            "Blind All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -119306,7 +119498,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1683,
+        "originalIndex": 1684,
         "lb1": {
             "attack": 1008,
             "defense": 1020,
@@ -119344,7 +119536,7 @@ window.allHeroes =
             "Taunt",
             "Self Boosted HoT",
             "Delayed Hit All",
-            "Self Attack Stack"
+            "Attack Stack Self"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -119377,7 +119569,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1684,
+        "originalIndex": 1685,
         "lb1": {
             "attack": 927,
             "defense": 941,
@@ -119454,7 +119646,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1685,
+        "originalIndex": 1686,
         "lb1": {
             "attack": 1258,
             "defense": 1147,
@@ -119527,7 +119719,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1686,
+        "originalIndex": 1687,
         "lb1": {
             "attack": 885,
             "defense": 759,
@@ -119568,9 +119760,9 @@ window.allHeroes =
         "skill": "Strike of the Cobra",
         "types": [
             "Hit 1",
-            "Minion Bypass",
-            "DoT on Minion",
-            "DoT on Fiend"
+            "Bypass Minions",
+            "DoT on minion owner",
+            "DoT on fiend owner"
         ],
         "skill_types": [
             "DoT Attackers",
@@ -119595,16 +119787,16 @@ window.allHeroes =
         "effects": [
             "Deals 635% damage to the target",
             "Damage bypasses target's Minions.",
-            "All enemies who own a Minion or a fiend receive 420 Sand damage over 3 turns.",
+            "All enemies who own a Minion or a Fiend receive 420 Sand damage over 3 turns.",
             "Element Link summons a Holy Minion for all Holy allies with 6% HP and 10% attack inherited from the caster"
         ],
         "passives": [
-            "Resist Sand Damage: This character has an innate resistance against Sand damage.",
+            "Resist Sand: This character is immune to status ailments that deal Sand damage.",
             "Health from Dead Minion: This character recovers 50 health when a Minion owned by them is destroyed."
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1687,
+        "originalIndex": 1688,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -119685,7 +119877,7 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1688,
+        "originalIndex": 1689,
         "lb1": {
             "attack": 1367,
             "defense": 1427,
@@ -119726,6 +119918,7 @@ window.allHeroes =
         "speed": "Magic",
         "skill": "Pawns of Divinity",
         "types": [
+            "Charge",
             "HoT All",
             "Attack Buff All",
             "Cleanser All",
@@ -119771,7 +119964,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1689,
+        "originalIndex": 1690,
         "lb1": {
             "attack": 1012,
             "defense": 1018,
@@ -119815,6 +120008,7 @@ window.allHeroes =
         "speed": "Magic",
         "skill": "Crust of Divinity",
         "types": [
+            "Charge",
             "HoT All",
             "Attack Buff All",
             "Cleanser All",
@@ -119868,7 +120062,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1690,
+        "originalIndex": 1691,
         "lb1": {
             "attack": 1336,
             "defense": 1353,
@@ -119940,7 +120134,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1691,
+        "originalIndex": 1692,
         "lb1": {
             "attack": 770,
             "defense": 748,
@@ -120009,7 +120203,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1692,
+        "originalIndex": 1693,
         "lb1": {
             "attack": 860,
             "defense": 852,
@@ -120078,7 +120272,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1693,
+        "originalIndex": 1694,
         "lb1": {
             "attack": 967,
             "defense": 976,
@@ -120151,7 +120345,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1694,
+        "originalIndex": 1695,
         "lb1": {
             "attack": 1187,
             "defense": 1197,
@@ -120228,7 +120422,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1695,
+        "originalIndex": 1696,
         "lb1": {
             "attack": 1336,
             "defense": 1355,
@@ -120302,7 +120496,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1696,
+        "originalIndex": 1697,
         "lb1": {
             "attack": 1408,
             "defense": 1437,
@@ -120371,7 +120565,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1697,
+        "originalIndex": 1698,
         "lb1": {
             "attack": 1276,
             "defense": 1207,
@@ -120452,7 +120646,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1698,
+        "originalIndex": 1699,
         "lb1": {
             "attack": 1198,
             "defense": 1332,
@@ -120534,7 +120728,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1699,
+        "originalIndex": 1700,
         "lb1": {
             "attack": 1391,
             "defense": 1414,
@@ -120577,7 +120771,7 @@ window.allHeroes =
         "skill": "Rabbit's Watch",
         "types": [
             "Hit 3",
-            "Defense Debuff"
+            "Defense Debuff 1"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -120595,12 +120789,12 @@ window.allHeroes =
         "health": 1353,
         "effects": [
             "Deals 280% Damage to the target and nearby enemies",
-            "Target gets -34% defense for 4 turns. The effect duration is reset if the target is healed. This effect can't be cleansed."
+            "The target gets -34% defense for 4 turns. The effect duration is reset if the target is healed. This effect can't be cleansed."
         ],
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1700,
+        "originalIndex": 1701,
         "lb1": {
             "attack": 788,
             "defense": 808,
@@ -120636,7 +120830,7 @@ window.allHeroes =
         "skill": "Cosmic Clock",
         "types": [
             "Hit 3",
-            "Defense Debuff"
+            "Defense Debuff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -120665,7 +120859,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 1701,
+        "originalIndex": 1702,
         "lb1": {
             "attack": 1014,
             "defense": 998,
@@ -120749,7 +120943,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1702,
+        "originalIndex": 1703,
         "lb1": {
             "attack": 896,
             "defense": 970,
@@ -120796,9 +120990,9 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Ursine Protection",
         "types": [
-            "Cleanser",
-            "Health Boost",
-            "Defense Buff"
+            "Cleanser All",
+            "Health Boost All",
+            "Defense Buff if caster has boosted health"
         ],
         "skill_types": [
             "Buffers (DEF)",
@@ -120822,16 +121016,16 @@ window.allHeroes =
         "effects": [
             "Cleanses status ailments from all allies.",
             "Boosts health of all allies by 1200. Boosted health can exceed max HP.",
-            "All allies resists max health reduction for 5 turns.",
+            "All allies are immune to max health reduction for 5 turns.",
             "All allies get +60% defense as long as the caster has boosted health. This effect can't be cleansed."
         ],
         "passives": [
-            "Mana on Buff Received: Gain 5% mana when receiving a buff or a positive stack",
+            "Mana on Buff Received: This character gains 5% mana when receiving a buff or a positive stack",
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1703,
+        "originalIndex": 1704,
         "lb1": {
             "attack": 1036,
             "defense": 1132,
@@ -120873,7 +121067,7 @@ window.allHeroes =
         "skill": "Commander's Gauntlet",
         "types": [
             "Hit all",
-            "Damage Reduction 1",
+            "Damage Reduction Self",
             "Boosted HoT All"
         ],
         "skill_types": [
@@ -120900,7 +121094,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1704,
+        "originalIndex": 1705,
         "lb1": {
             "attack": 828,
             "defense": 845,
@@ -120973,7 +121167,7 @@ window.allHeroes =
         ],
         "family": "wolf",
         "costume_id": 1,
-        "originalIndex": 1705,
+        "originalIndex": 1706,
         "lb1": {
             "attack": 1222,
             "defense": 1258,
@@ -121053,7 +121247,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1706,
+        "originalIndex": 1707,
         "lb1": {
             "attack": 1354,
             "defense": 1418,
@@ -121122,7 +121316,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1707,
+        "originalIndex": 1708,
         "lb1": {
             "attack": 1305,
             "defense": 1256,
@@ -121163,8 +121357,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Cascading Whirlwind",
         "types": [
-            "Hit 1",
-            "Mana reducer"
+            "Hit 1,3 or All",
+            "Mana Reducer on hit"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -121193,13 +121387,13 @@ window.allHeroes =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1708,
+        "originalIndex": 1709,
         "lb1": {
             "attack": 1025,
             "defense": 956,
@@ -121263,13 +121457,13 @@ window.allHeroes =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1709,
+        "originalIndex": 1710,
         "lb1": {
             "attack": 879,
             "defense": 947,
@@ -121343,7 +121537,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1710,
+        "originalIndex": 1711,
         "lb1": {
             "attack": 1296,
             "defense": 1374,
@@ -121424,7 +121618,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1711,
+        "originalIndex": 1712,
         "lb1": {
             "attack": 1398,
             "defense": 1258,
@@ -121463,8 +121657,8 @@ window.allHeroes =
         "skill": "Swift Stingers",
         "types": [
             "Hit 1",
-            "Bounce",
-            "Defense Debuff"
+            "Hit Random 1",
+            "Defense Debuff 1"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -121493,7 +121687,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1712,
+        "originalIndex": 1713,
         "lb1": {
             "attack": 863,
             "defense": 814,
@@ -121570,7 +121764,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1713,
+        "originalIndex": 1714,
         "lb1": {
             "attack": 1128,
             "defense": 1044,
@@ -121644,7 +121838,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1714,
+        "originalIndex": 1715,
         "lb1": {
             "attack": 1070,
             "defense": 1078,
@@ -121708,7 +121902,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1715,
+        "originalIndex": 1716,
         "lb1": {
             "attack": 923,
             "defense": 816,
@@ -121773,13 +121967,13 @@ window.allHeroes =
         ],
         "passives": [
             "Unstoppable Minions:",
-            "* Resistance against Minion removal.",
+            "* Immune to effects that remove Minions.",
             "* Can't be prevented from receiving Minions.",
-            "* Minion attack and abilities can't be disabled."
+            "* Minion attacks and abilities can't be disabled."
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1716,
+        "originalIndex": 1717,
         "lb1": {
             "attack": 1288,
             "defense": 1072,
@@ -121848,7 +122042,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1717,
+        "originalIndex": 1718,
         "lb1": {
             "attack": 765,
             "defense": 947,
@@ -121915,13 +122109,13 @@ window.allHeroes =
         ],
         "passives": [
             "Unstoppable Minions:",
-            "* Resistance against Minion removal.",
-            "* Can't be prevented from receiving minions.",
+            "* Immune to effects that remove Minions.",
+            "* Can't be prevented from receiving Minions.",
             "* Minion attacks and abilities can't be disabled."
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1718,
+        "originalIndex": 1719,
         "lb1": {
             "attack": 1024,
             "defense": 1282,
@@ -121992,7 +122186,7 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1719,
+        "originalIndex": 1720,
         "lb1": {
             "attack": 1414,
             "defense": 1465,
@@ -122057,12 +122251,12 @@ window.allHeroes =
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ],
         "passives": [
-            "Resist Mana Reduction: This character has innate resistance against mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1720,
+        "originalIndex": 1721,
         "lb1": {
             "attack": 939,
             "defense": 1076,
@@ -122116,32 +122310,6 @@ window.allHeroes =
         "passives": [],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1721,
-        "cn_skill_info": []
-    },
-    {
-        "name": "Justico",
-        "fancy_name": "Protector Slime",
-        "AetherPower": "",
-        "color": "Yellow",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "slime_justico",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "slime",
-        "costume_id": 0,
         "originalIndex": 1722,
         "cn_skill_info": []
     },

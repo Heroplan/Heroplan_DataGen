@@ -12,18 +12,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Justico",
-        "fancy_name": "Protector Slime",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2026-03-17 07:00:00",
-        "star": 5,
-        "family": "slime",
-        "costume_id": 0,
-        "heroId": "slime_justico",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Embertail",
         "fancy_name": "The Pyromouse",
         "color": "Red",
