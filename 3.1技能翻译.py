@@ -178,8 +178,8 @@ def main():
                         else:
                             final_translation = Translator.format_spacing(trans_main + trans_paren)
                     else: # 如果拆分翻译也失败了，记录具体失败的部分
-                        if not trans_main: logger.warning(f"[CN翻译失败] 索引 {item['originalIndex']} 主句部分: '{main_part}'")
-                        if not trans_paren: logger.warning(f"[CN翻译失败] 索引 {item['originalIndex']} 括号部分: '{paren_part}'")
+                        if not trans_main: logger.warning(f"[CN翻译失败] 索引 {item['heroId']} 主句部分: '{main_part}'")
+                        if not trans_paren: logger.warning(f"[CN翻译失败] 索引 {item['heroId']} 括号部分: '{paren_part}'")
             else:
                 # 不带括号，直接翻译
                 final_translation = translator_cn.translate(effect_str)
@@ -188,7 +188,7 @@ def main():
                 translated_effects_cn.append(final_translation)
             else:
                 is_cn_item_fully_translated = False
-                if not match: logger.warning(f"[CN翻译失败] 索引 {item['originalIndex']} 整句: '{effect_str}'")
+                if not match: logger.warning(f"[CN翻译失败] 索引 {item['heroId']} 整句: '{effect_str}'")
                 translated_effects_cn.append(effect_str) 
         
         translated_data_cn[item_index]['effects'] = translated_effects_cn
@@ -213,8 +213,8 @@ def main():
                         else:
                             final_translation = Translator.format_spacing(trans_main + trans_paren)
                     else:
-                        if not trans_main: logger.warning(f"[TC翻译失败] 索引 {item['originalIndex']} 主句部分: '{main_part}'")
-                        if not trans_paren: logger.warning(f"[TC翻译失败] 索引 {item['originalIndex']} 括号部分: '{paren_part}'")
+                        if not trans_main: logger.warning(f"[TC翻译失败] 索引 {item['heroId']} 主句部分: '{main_part}'")
+                        if not trans_paren: logger.warning(f"[TC翻译失败] 索引 {item['heroId']} 括号部分: '{paren_part}'")
             else:
                 final_translation = translator_tc.translate(effect_str)
 
@@ -222,7 +222,7 @@ def main():
                 translated_effects_tc.append(final_translation)
             else:
                 is_tc_item_fully_translated = False
-                if not match: logger.warning(f"[TC翻译失败] 索引 {item['originalIndex']} 整句: '{effect_str}'")
+                if not match: logger.warning(f"[TC翻译失败] 索引 {item['heroId']} 整句: '{effect_str}'")
                 translated_effects_tc.append(effect_str)
         
         translated_data_tc[item_index]['effects'] = translated_effects_tc

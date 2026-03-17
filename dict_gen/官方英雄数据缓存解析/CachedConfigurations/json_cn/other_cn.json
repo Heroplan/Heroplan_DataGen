@@ -86664,7 +86664,8 @@
           "HarvestSummon",
           "MercenaryWar",
           "AscensionSummon",
-          "GoblinSummon"
+          "GoblinSummon",
+          "TitanHunterSummon"
         ]
       }
     },
@@ -86835,5 +86836,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 652961672
+  "otherConfigId": 4180575951
 }

@@ -217,8 +217,8 @@ def main():
                         final_translation = Translator.format_spacing(trans_main + trans_paren)
                 else: # 如果任一部分翻译失败
                     is_cn_item_fully_translated = False
-                    if not trans_main: logger.warning(f"[CN翻译失败] 索引 {item['originalIndex']} 主句部分: '{main_part}'")
-                    if not trans_paren: logger.warning(f"[CN翻译失败] 索引 {item['originalIndex']} 括号部分: '{paren_part}'")
+                    if not trans_main: logger.warning(f"[CN翻译失败] 索引 {item['heroId']} 主句部分: '{main_part}'")
+                    if not trans_paren: logger.warning(f"[CN翻译失败] 索引 {item['heroId']} 括号部分: '{paren_part}'")
             else:
                 final_translation = translator_cn.translate(passive_str)
             
@@ -227,7 +227,7 @@ def main():
             else:
                 is_cn_item_fully_translated = False
                 # 只有在非括号匹配情况下才记录整句失败，避免重复记录
-                if not match: logger.warning(f"[CN翻译失败] 索引 {item['originalIndex']} 整句: '{passive_str}'")
+                if not match: logger.warning(f"[CN翻译失败] 索引 {item['heroId']} 整句: '{passive_str}'")
                 translated_passives_cn.append(passive_str)
         
         translated_data_cn[item_index]['passives'] = translated_passives_cn
@@ -251,8 +251,8 @@ def main():
                         final_translation = Translator.format_spacing(trans_main + trans_paren)
                 else:
                     is_tc_item_fully_translated = False
-                    if not trans_main: logger.warning(f"[TC翻译失败] 索引 {item['originalIndex']} 主句部分: '{main_part}'")
-                    if not trans_paren: logger.warning(f"[TC翻译失败] 索引 {item['originalIndex']} 括号部分: '{paren_part}'")
+                    if not trans_main: logger.warning(f"[TC翻译失败] 索引 {item['heroId']} 主句部分: '{main_part}'")
+                    if not trans_paren: logger.warning(f"[TC翻译失败] 索引 {item['heroId']} 括号部分: '{paren_part}'")
             else:
                 final_translation = translator_tc.translate(passive_str)
             
@@ -260,7 +260,7 @@ def main():
                 translated_passives_tc.append(final_translation)
             else:
                 is_tc_item_fully_translated = False
-                if not match: logger.warning(f"[TC翻译失败] 索引 {item['originalIndex']} 整句: '{passive_str}'")
+                if not match: logger.warning(f"[TC翻译失败] 索引 {item['heroId']} 整句: '{passive_str}'")
                 translated_passives_tc.append(passive_str)
 
         translated_data_tc[item_index]['passives'] = translated_passives_tc

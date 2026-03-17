@@ -17680,6 +17680,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.emblemoffermega_tier1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -17714,8 +17715,8 @@
           },
           {
             "type": "Item",
-            "id": "battle_mana_potion",
-            "amount": 2
+            "id": "titan_battle_hurricane",
+            "amount": 5
           },
           {
             "type": "Item",
@@ -17748,6 +17749,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.emblemoffermega_tier2",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -17782,8 +17784,8 @@
           },
           {
             "type": "Item",
-            "id": "refill_energy_pvp_full",
-            "amount": 2
+            "id": "titan_battle_scroll_of_alteration",
+            "amount": 5
           },
           {
             "type": "Item",
@@ -23215,7 +23217,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentines2022_day1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23335,7 +23336,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentines2022_day5",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23371,7 +23371,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentines2022_day6",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24237,6 +24236,7 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_blue",
         "dollarValue": 20,
         "zyngaStoreDollarValueOverride": 18,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24286,6 +24286,7 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_green",
         "dollarValue": 20,
         "zyngaStoreDollarValueOverride": 18,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24335,6 +24336,7 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_purple",
         "dollarValue": 20,
         "zyngaStoreDollarValueOverride": 18,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24384,6 +24386,7 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_red",
         "dollarValue": 20,
         "zyngaStoreDollarValueOverride": 18,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24433,6 +24436,7 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_yellow",
         "dollarValue": 20,
         "zyngaStoreDollarValueOverride": 18,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29023,7 +29027,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentinescalendar_tier2",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -29039,7 +29042,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentinescalendar_tier4",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -29047,7 +29049,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentinescalendar_tier5",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -30909,7 +30910,7 @@
           {
             "type": "Gem",
             "amount": 4300,
-            "zyngaStoreExtraAmount": 477
+            "zyngaStoreExtraAmount": 500
           }
         ]
       },
@@ -32119,7 +32120,7 @@
           {
             "type": "Gem",
             "amount": 700,
-            "zyngaStoreExtraAmount": 70
+            "zyngaStoreExtraAmount": 77
           }
         ]
       },
@@ -32188,8 +32189,8 @@
         "contents": [
           {
             "type": "Gem",
-            "amount": 6400,
-            "zyngaStoreExtraAmount": 600
+            "amount": 6500,
+            "zyngaStoreExtraAmount": 700
           }
         ]
       },
@@ -33176,6 +33177,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.heroes_birthday7",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33191,17 +33193,17 @@
           {
             "type": "Hero",
             "id": "trainer_rainbow_common",
-            "amount": 8
+            "amount": 9
           },
           {
             "type": "Item",
             "id": "refill_food_giant",
-            "amount": 8
+            "amount": 9
           },
           {
             "type": "Item",
             "id": "titan_battle_giant_harpoon",
-            "amount": 8
+            "amount": 9
           }
         ]
       },
@@ -35196,7 +35198,6 @@
         "dollarValue": 5,
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
-        "directCheckoutDisabled": true,
         "contents": [],
         "userSelectableContentId": "dragon_select_asc4_new"
       },
@@ -37252,6 +37253,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic4_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -56896,6 +56898,28 @@
         ]
       },
       {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.mds_9y_code",
+        "zyngaStoreProduct": true,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "time_skip_hour",
+            "amount": 3
+          },
+          {
+            "type": "Item",
+            "id": "refill_food_large",
+            "amount": 3
+          },
+          {
+            "type": "Hero",
+            "id": "trainer_rainbow_common",
+            "amount": 3
+          }
+        ]
+      },
+      {
         "productType": "AllianceEventSummon",
         "id": "lottery_featured_alliance_quest_castle_ad",
         "sourceProductId": "lottery_featured_alliance_quest_castle",
@@ -59686,5 +59710,5 @@
       }
     ]
   },
-  "productsConfigId": 2217627662
+  "productsConfigId": 3116409401
 }

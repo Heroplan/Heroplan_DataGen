@@ -89,8 +89,8 @@ def create_effects_dictionary(original_data, translated_data, lang_name, logger)
     # 正则表达式，用于匹配结尾是否为“非标点”（字母、数字、汉字）
     ends_with_word_char = re.compile(r'[\w\u4e00-\u9fa5]$')
 
-    original_map = {item['originalIndex']: item.get('effects', []) for item in original_data}
-    translated_map = {item['originalIndex']: item.get('effects', []) for item in translated_data}
+    original_map = {item['heroId']: item.get('effects', []) for item in original_data}
+    translated_map = {item['heroId']: item.get('effects', []) for item in translated_data}
 
     for index in original_map:
         if index not in translated_map: continue
@@ -171,9 +171,9 @@ def create_effects_dictionary(original_data, translated_data, lang_name, logger)
 
 def analyze_effects_discrepancies(logger, original_data, cn_data, tc_data):
     logger.info("--- 开始生成技能(effects)的结构性差异报告 ---")
-    original_map = {item['originalIndex']: item for item in original_data}
-    cn_map = {item['originalIndex']: item for item in cn_data if item}
-    tc_map = {item['originalIndex']: item for item in tc_data if item}
+    original_map = {item['heroId']: item for item in original_data}
+    cn_map = {item['heroId']: item for item in cn_data if item}
+    tc_map = {item['heroId']: item for item in tc_data if item}
     
     report_lines = []
     discrepancy_count = 0

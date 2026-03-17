@@ -139,6 +139,7 @@ def extract_all_without_uniqueness_check(
     next_display_index = 0
     for hero in heroes_to_add:
         hero_name = hero.get("name", "") # 获取英雄名称
+        hero_id = hero.get("heroId", "") # 获取英雄ID
         skill_name = hero.get("skill", "") # Original skill name, though not used in output directly
         
         # 使用 hero.get(extract_key, []) 来安全地获取数据，如果不存在则返回空列表
@@ -146,7 +147,7 @@ def extract_all_without_uniqueness_check(
         processed_data = process_and_split_multiline_strings(data_to_extract)
         
         entry = {
-            "originalIndex": next_display_index,
+            "heroId": hero_id,
             "name": hero_name,  # 添加英雄名称
             extract_key: processed_data
         }

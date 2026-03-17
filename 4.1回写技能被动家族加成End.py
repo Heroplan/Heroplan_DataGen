@@ -87,12 +87,12 @@ def run_cumulative_update(lang_code, config, tasks, logger):
             logger.warning(f"警告 [{lang_upper}]: 跳过 '{field_name}'，翻译文件加载或解析失败。")
             continue
         
-        translation_map = {item.get('originalIndex'): item.get(field_name) for item in translated_data if item.get('originalIndex') is not None}
+        translation_map = {item.get('heroId'): item.get(field_name) for item in translated_data if item.get('heroId') is not None}
         
         update_count = 0
         for hero in all_heroes_in_memory:
-            if (hero_originalIndex := hero.get('originalIndex')) in translation_map:
-                if (translated_field_data := translation_map[hero_originalIndex]) is not None:
+            if (hero_id := hero.get('heroId')) in translation_map:
+                if (translated_field_data := translation_map[hero_id]) is not None:
                     hero[field_name] = translated_field_data
                     update_count += 1
         logger.info(f"在内存中为 [{lang_upper}] 更新了 {update_count} 个英雄的 '{field_name}' 字段。")
