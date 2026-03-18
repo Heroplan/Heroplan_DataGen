@@ -56272,12 +56272,12 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Atk: Single",
-                    "Dmg: DoT"
+                    "Dmg: DoT",
+                    "Atk - Chain"
                 ]
             },
             {
                 "特殊效果": [
-                    "Atk - Chain",
                     "Atk - Bypass / Ignore"
                 ]
             },
@@ -82507,11 +82507,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
-                ]
-            },
-            {
-                "特殊效果": [
+                    "Atk: Single",
                     "Atk - Chain"
                 ]
             },
@@ -110338,11 +110334,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
-                ]
-            },
-            {
-                "特殊效果": [
+                    "Atk: Single",
                     "Atk - Chain"
                 ]
             },
