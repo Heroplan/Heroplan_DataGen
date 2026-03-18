@@ -168,25 +168,27 @@ def calculate_costume_bonus(hero_extra_entry, rarity, costume_bonuses_id):
     if not bonus_levels: return None, "稀有度对应的 bonusLevels 为空"
     
     bonus_data = None
-    # 对 "classic" 和 "default" 类型的服装进行特殊处理，因为它们的奖励等级与服装数量有关
-    if costume_bonuses_id == 'classic' or costume_bonuses_id == 'default':
-        hero_name = hero_extra_entry.get("name", "").lower()
-        costume_number = 1
-        if "costume1" in hero_name: costume_number = 1
-        elif "costume2" in hero_name: costume_number = 2
-        elif "toon" in hero_name: costume_number = 3 if rarity >= 4 else 2
-        elif "glass" in hero_name: costume_number = 4 if rarity >= 4 else 3
-        elif "stylish" in hero_name: costume_number = 5 if rarity >= 4 else 4
-        
-        stages_per_costume = 4 if rarity >= 4 else 3 # 4/5星英雄每套服装有4个奖励阶段, 3星是3个
-        target_index = (costume_number * stages_per_costume) - 1
-        
-        if target_index < len(bonus_levels):
-            bonus_data = bonus_levels[target_index]
-        else: return None, f"计算出的索引 {target_index} 超出 '{costume_bonuses_id}' 奖励列表范围"
-    else:
-        # 对于其他类型的服装（如超级服装），直接取最后一个阶段的奖励
-        bonus_data = bonus_levels[-1]
+
+    hero_name = hero_extra_entry.get("name", "").lower()
+    costume_number = 1
+    if "costume1" in hero_name: costume_number = 1
+    elif "costume2" in hero_name: costume_number = 2
+    elif "toon" in hero_name: costume_number = 3 if rarity >= 4 else 2
+    elif "glass" in hero_name: costume_number = 4 if rarity >= 4 else 3
+    elif "stylish" in hero_name: costume_number = 5 if rarity >= 4 else 4
+    
+    #S2 卡通服装统一为2
+    if costume_bonuses_id == 'atlantis':
+        if "toon" in hero_name:
+            costume_number = 2
+
+    stages_per_costume = 4 if rarity >= 4 else 3 # 4/5星英雄每套服装有4个奖励阶段, 3星是3个
+    target_index = (costume_number * stages_per_costume) - 1
+    
+    if target_index < len(bonus_levels):
+        bonus_data = bonus_levels[target_index]
+    else: return None, f"计算出的索引 {target_index} 超出 '{costume_bonuses_id}' 奖励列表范围"
+    
         
     if bonus_data:
         bonuses = {
