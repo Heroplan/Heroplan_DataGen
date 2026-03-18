@@ -4845,6 +4845,14 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "rodent_sproutwhisker",
+        "name": "Sproutwhisker",
+        "passives": [
+            "奈伯：當一名盟友施放特殊技能時，此角色會對一名隨機敵人造成 200% 傷害，並使其防禦提升 -35%，持續 3 回合。",
+            "特性 嬌小體型：此角色不受增加或減少攻擊的效果影響。這包括状態效果增益以及異常，正面與負面疊加，成長和枯萎效果。"
+        ]
+    },
+    {
         "heroId": "monster_hunter_staintongue",
         "name": "Staintongue",
         "passives": [
@@ -9098,6 +9106,14 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "rodent_embertail",
+        "name": "Embertail",
+        "passives": [
+            "奈伯：當一名盟友施放特殊技能時，此角色會對一名隨機敵人造成 200% 傷害，並使其防禦提升 -35%，持續 3 回合。",
+            "特性 嬌小體型：此角色不受增加或減少攻擊的效果影響。這包括状態效果增益以及異常，正面與負面疊加，成長和枯萎效果。"
+        ]
+    },
+    {
         "heroId": "mimic_emblem_red",
         "name": "Emblem Mimic Fire",
         "passives": [
@@ -12799,16 +12815,6 @@ const translatedPassivesTC =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "heroId": "rodent_embertail",
-        "name": "Embertail",
-        "passives": []
-    },
-    {
-        "heroId": "rodent_sproutwhisker",
-        "name": "Sproutwhisker",
-        "passives": []
     },
     {
         "heroId": "monster_hunter_berit",

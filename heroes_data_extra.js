@@ -45264,5 +45264,58 @@ window.allHeroesExtra = [
         "healthBonus": "44%",
         "manaBonus": "5%",
         "family": "super_elemental"
+    },
+    {
+        "name": "Sproutwhisker",
+        "fancy name": "The Dark-furred Cleric",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
+        "Release date": "2026-03-18",
+        "AetherPower": "Regen",
+        "skill_types": [
+            "Heal over Time (HoT)",
+            "Health Boosters",
+            "Healers (Special)",
+            "Mana Raisers",
+            "Buffers (DEF)"
+        ],
+        "heroId": "rodent_sproutwhisker",
+        "baseAttack": 642,
+        "baseDefense": 662,
+        "baseHealth": 1114,
+        "specialId": "vibrant_whistle",
+        "passiveSkills": [
+            "resist_all_attack_effects",
+            "rodent_effects_on_ally_passive_skill"
+        ],
+        "family": "rodent"
+    },
+    {
+        "name": "Embertail",
+        "fancy name": "The Pyromouse",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
+        "Release date": "2026-03-18",
+        "AetherPower": "Damage Reduction",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Mana Generation Buffers"
+        ],
+        "heroId": "rodent_embertail",
+        "baseAttack": 663,
+        "baseDefense": 642,
+        "baseHealth": 1101,
+        "specialId": "blazing_matchstick",
+        "passiveSkills": [
+            "resist_all_attack_effects",
+            "rodent_effects_on_ally_passive_skill"
+        ],
+        "family": "rodent"
     }
 ];

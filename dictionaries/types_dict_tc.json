@@ -1340,5 +1340,9 @@
   "DoT on minion owner": "對小怪擁有者造成持續傷害",
   "DoT on fiend owner": "對魔僕擁有者造成持續傷害",
   "Defense Buff if caster has boosted health": "釋放者擁有生命加成時觸發防禦增益",
-  "Mana Reducer on hit": "命中時削減法力"
+  "Mana Reducer on hit": "命中時削減法力",
+  "Wild": "狂野",
+  "Heal All or Boost Health All": "全體治療或全體生命值提升",
+  "Boost Mana All": "全體法力提升",
+  "Wild DoT 3": "3個目標狂野持續傷害"
 }

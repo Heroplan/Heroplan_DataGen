@@ -178,6 +178,16 @@ window.families_bonus = [
     },
     {
         "originalIndex": 18,
+        "name": "rodent",
+        "bonus": [
+            "Heroes become stronger when teamed with other unique Heroes of the same family.",
+            "Bonus for 1/2/3 Heroes:",
+            " * 6%/12%/18% extra chance to dodge Special Skills.",
+            " * Each Special Skill dodged heals this character for 100/150/200 health."
+        ]
+    },
+    {
+        "originalIndex": 19,
         "name": "sand",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
@@ -186,7 +196,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 19,
+        "originalIndex": 20,
         "name": "halloween",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
@@ -195,7 +205,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 20,
+        "originalIndex": 21,
         "name": "winter",
         "bonus": [
             "Bonus for 2/3 Unique Heroes:",
@@ -205,7 +215,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 21,
+        "originalIndex": 22,
         "name": "ninja",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
@@ -214,7 +224,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 22,
+        "originalIndex": 23,
         "name": "magic",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
@@ -223,7 +233,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 23,
+        "originalIndex": 24,
         "name": "pirate",
         "bonus": [
             "Bonus for 2/3/4/5 Unique Heroes:",
@@ -232,7 +242,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 24,
+        "originalIndex": 25,
         "name": "lagoon",
         "bonus": [
             "Bonus for 1/2/3/4/5 Unique Heroes:",
@@ -240,7 +250,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 25,
+        "originalIndex": 26,
         "name": "hotm2017",
         "bonus": [
             "Bonus for 1/2/3:",
@@ -250,7 +260,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 26,
+        "originalIndex": 27,
         "name": "hotm2018",
         "bonus": [
             "Bonus for 1/2/3:",
@@ -260,7 +270,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 27,
+        "originalIndex": 28,
         "name": "hotm2019",
         "bonus": [
             "Bonus for 1/2/3:",
@@ -270,7 +280,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 28,
+        "originalIndex": 29,
         "name": "hotm2020",
         "bonus": [
             "Bonus for 1/2/3:",
@@ -280,7 +290,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 29,
+        "originalIndex": 30,
         "name": "hotm2021",
         "bonus": [
             "Bonus for 1/2/3:",
@@ -290,7 +300,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 30,
+        "originalIndex": 31,
         "name": "hotm2022",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
@@ -300,7 +310,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 31,
+        "originalIndex": 32,
         "name": "hotm2023",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
@@ -310,7 +320,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 32,
+        "originalIndex": 33,
         "name": "hotm2024",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
@@ -320,7 +330,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 33,
+        "originalIndex": 34,
         "name": "hotm2025",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
@@ -330,14 +340,14 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 34,
+        "originalIndex": 35,
         "name": "hotm2026",
         "bonus": [
             "Bonus will activate on January 1st, 2027"
         ]
     },
     {
-        "originalIndex": 35,
+        "originalIndex": 36,
         "name": "japanese",
         "bonus": [
             "Bonus for 1/2/3/4/5 Unique Heroes:",
@@ -345,7 +355,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 36,
+        "originalIndex": 37,
         "name": "atlantis",
         "bonus": [
             "Bonus for 1/2/3/4/5 Unique Heroes:",
@@ -353,7 +363,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 37,
+        "originalIndex": 38,
         "name": "fable",
         "bonus": [
             "Bonus for 2/3/4/5 Unique Heroes:",
@@ -363,7 +373,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 38,
+        "originalIndex": 39,
         "name": "alfheim",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
@@ -371,7 +381,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 39,
+        "originalIndex": 40,
         "name": "asgard",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
@@ -379,7 +389,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 40,
+        "originalIndex": 41,
         "name": "helheim",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
@@ -387,7 +397,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 41,
+        "originalIndex": 42,
         "name": "jotunheim",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
@@ -395,7 +405,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 42,
+        "originalIndex": 43,
         "name": "midgard",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
@@ -403,7 +413,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 43,
+        "originalIndex": 44,
         "name": "muspelheim",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
@@ -411,7 +421,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 44,
+        "originalIndex": 45,
         "name": "niflheim",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
@@ -419,7 +429,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 45,
+        "originalIndex": 46,
         "name": "svartalfheim",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
@@ -427,7 +437,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 46,
+        "originalIndex": 47,
         "name": "vanaheim",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
@@ -435,7 +445,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 47,
+        "originalIndex": 48,
         "name": "guardian",
         "bonus": [
             "Bonus for 2/3/4/5 Unique Heroes:",
@@ -445,7 +455,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 48,
+        "originalIndex": 49,
         "name": "abyss",
         "bonus": [
             "Bonus for 1/2/3/4/5 Unique Heroes:",
@@ -455,7 +465,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 49,
+        "originalIndex": 50,
         "name": "kingdom",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
@@ -467,7 +477,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 50,
+        "originalIndex": 51,
         "name": "wonderland",
         "bonus": [
             "Bonus for 2/3/4/5 Unique Heroes:",
@@ -477,7 +487,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 51,
+        "originalIndex": 52,
         "name": "sun",
         "bonus": [
             "Bonus for 1/2 Unique Heroes:",
@@ -487,7 +497,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 52,
+        "originalIndex": 53,
         "name": "moon",
         "bonus": [
             "Bonus for 1/2 Unique Heroes:",
@@ -497,7 +507,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 53,
+        "originalIndex": 54,
         "name": "villains",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
@@ -507,7 +517,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 54,
+        "originalIndex": 55,
         "name": "gargoyle",
         "bonus": [
             "Bonus for 1/2/3/ Unique Heroes:",
@@ -516,7 +526,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 55,
+        "originalIndex": 56,
         "name": "styx",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
@@ -524,7 +534,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 56,
+        "originalIndex": 57,
         "name": "kalevala",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
@@ -533,7 +543,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 57,
+        "originalIndex": 58,
         "name": "bard",
         "bonus": [
             "Bard Family grants a solo bonus for any Hero who is the only member of their family on the team:",
@@ -542,7 +552,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 58,
+        "originalIndex": 59,
         "name": "plains_hunter",
         "bonus": [
             "Bonus for 2/3/4/5 Heroes:",
@@ -552,7 +562,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 59,
+        "originalIndex": 60,
         "name": "super_elemental",
         "bonus": [
             "Super Elemental family makes teams of a specific element stronger. This hero enhances <<Hero element>> element.",
@@ -562,7 +572,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 60,
+        "originalIndex": 61,
         "name": "mighty_pet",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
@@ -574,7 +584,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 61,
+        "originalIndex": 62,
         "name": "masquerade",
         "bonus": [
             "Masquerade characters summon a Mask Minion for themselves at the start of the battle. THe more Masquerade characters there are in the same team, the better the Mask Minion is:",
@@ -584,7 +594,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 62,
+        "originalIndex": 63,
         "name": "musketeer",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
@@ -595,7 +605,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 63,
+        "originalIndex": 64,
         "name": "circus",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
@@ -604,7 +614,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 64,
+        "originalIndex": 65,
         "name": "classic",
         "bonus": [
             "Classic Family Heroes need to be fully ascended to receive the Family Bonus.",
@@ -616,7 +626,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 65,
+        "originalIndex": 66,
         "name": "zodiac",
         "bonus": [
             "Heroes become stronger when teamed with other unique Heroes of the same family.",
@@ -633,7 +643,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 66,
+        "originalIndex": 67,
         "name": "cupid",
         "bonus": [
             "Cupid Family grants a solo bonus for any Hero who is the only  member of their family on the team:",
@@ -642,7 +652,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 67,
+        "originalIndex": 68,
         "name": "journey",
         "bonus": [
             "Heroes become stronger when teamed with other unique Heroes of the same family.",
@@ -654,7 +664,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 68,
+        "originalIndex": 69,
         "name": "jungle_hunter",
         "bonus": [
             "Bonus for 2/3/4/5 Heroes:",
@@ -664,7 +674,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 69,
+        "originalIndex": 70,
         "name": "abyss_hunter",
         "bonus": [
             "Bonus for 2/3/4/5 Heroes:",
@@ -674,7 +684,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 70,
+        "originalIndex": 71,
         "name": "tales1_goodies",
         "bonus": [
             "Bonus for 1/2 Unique Heroes:",
@@ -685,7 +695,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 71,
+        "originalIndex": 72,
         "name": "tales1_baddies",
         "bonus": [
             "Bonus for 1/2 Unique Heroes:",
@@ -696,7 +706,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 72,
+        "originalIndex": 73,
         "name": "beachparty",
         "bonus": [
             "Bonus for 1+ Heroes:",
@@ -705,7 +715,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 73,
+        "originalIndex": 74,
         "name": "construct",
         "bonus": [
             "Members of this family have a Construct Core:",
@@ -713,7 +723,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 74,
+        "originalIndex": 75,
         "name": "slayers",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
@@ -724,7 +734,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 75,
+        "originalIndex": 76,
         "name": "opera",
         "bonus": [
             "Heroes become stronger when teamed with other unique Heroes of the same family.",
@@ -736,7 +746,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 76,
+        "originalIndex": 77,
         "name": "maskedgod",
         "bonus": [
             "Masked God characters summon a Mask Minion for themselves at the start of the battle. The more Masked God characters there are in the same team, the better the Mask minion is.",
@@ -746,7 +756,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 77,
+        "originalIndex": 78,
         "name": "goblin",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
@@ -754,7 +764,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 78,
+        "originalIndex": 79,
         "name": "stag",
         "bonus": [
             "Heroes become stronger when teamed with other unique Heroes of the same family.",
@@ -764,7 +774,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 79,
+        "originalIndex": 80,
         "name": "bear",
         "bonus": [
             "Heroes become stronger when teamed with other unique Heroes of the same family.",
@@ -774,7 +784,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 80,
+        "originalIndex": 81,
         "name": "astral_elves",
         "bonus": [
             "Bonus for 1/2 Unique Heroes:",
@@ -782,7 +792,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 81,
+        "originalIndex": 82,
         "name": "champions",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
@@ -790,7 +800,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 82,
+        "originalIndex": 83,
         "name": "owl",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
@@ -798,7 +808,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 83,
+        "originalIndex": 84,
         "name": "investigator",
         "bonus": [
             "Bonus for 1 / 2 / 3 Heroes:",
@@ -808,7 +818,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 84,
+        "originalIndex": 85,
         "name": "garrison",
         "bonus": [
             "Bonus for 1 / 2 / 3 Heroes:",
@@ -816,7 +826,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 85,
+        "originalIndex": 86,
         "name": "wolf",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
@@ -825,7 +835,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 86,
+        "originalIndex": 87,
         "name": "cultist",
         "bonus": [
             "Bonus for 1 / 2 / 3 Heroes:",
@@ -834,7 +844,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 87,
+        "originalIndex": 88,
         "name": "slime",
         "bonus": [
             "Bonus for 1 / 2 / 3 Heroes:",
@@ -842,7 +852,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 88,
+        "originalIndex": 89,
         "name": "fox",
         "bonus": [
             "Bonus for 1/2 Heroes:",
@@ -852,7 +862,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 89,
+        "originalIndex": 90,
         "name": "faun",
         "bonus": [
             "Bonus for 1 / 2 Heroes:",
@@ -861,7 +871,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 90,
+        "originalIndex": 91,
         "name": "mystery",
         "bonus": [
             "Bonus for 2 / 3 Heroes:",
@@ -869,7 +879,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 91,
+        "originalIndex": 92,
         "name": "beowulf",
         "bonus": [
             "Bonus for 1 / 2 Heroes:",
@@ -878,7 +888,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 92,
+        "originalIndex": 93,
         "name": "nidavellir",
         "bonus": [
             "Members of this realm have a Molten Core.",
@@ -887,7 +897,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 93,
+        "originalIndex": 94,
         "name": "astral_dwarfs",
         "bonus": [
             "Bonus for 1/2 Unique Heroes:",
@@ -896,7 +906,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 94,
+        "originalIndex": 95,
         "name": "moths",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
@@ -909,7 +919,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 95,
+        "originalIndex": 96,
         "name": "wild_cat",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",

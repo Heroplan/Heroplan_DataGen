@@ -4845,6 +4845,14 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "rodent_sproutwhisker",
+        "name": "Sproutwhisker",
+        "passives": [
+            "Nibble: When an ally casts their Special Skill, this character deals 200% damage and gives -35% defense for 3 turns to a random enemy.",
+            "Tiny Frame: This character is not affected by effects that increase or reduce attack. This includes status effect buffs and ailments, positive and negative Stacks, Growth and Wither effects."
+        ]
+    },
+    {
         "heroId": "monster_hunter_staintongue",
         "name": "Staintongue",
         "passives": [
@@ -9098,6 +9106,14 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "rodent_embertail",
+        "name": "Embertail",
+        "passives": [
+            "Nibble: When an ally casts their Special Skill, this character deals 200% damage and gives -35% defense for 3 turns to a random enemy.",
+            "Tiny Frame: This character is not affected by effects that increase or reduce attack. This includes status effect buffs and ailments, positive and negative Stacks, Growth and Wither effects."
+        ]
+    },
+    {
         "heroId": "mimic_emblem_red",
         "name": "Emblem Mimic Fire",
         "passives": [
@@ -12799,16 +12815,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "rodent_embertail",
-        "name": "Embertail",
-        "passives": []
-    },
-    {
-        "heroId": "rodent_sproutwhisker",
-        "name": "Sproutwhisker",
-        "passives": []
     },
     {
         "heroId": "monster_hunter_berit",

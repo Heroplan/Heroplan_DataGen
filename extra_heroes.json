@@ -1,29 +1,5 @@
 [
     {
-        "name": "Embertail",
-        "fancy_name": "The Pyromouse",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2026-03-18 07:00:00",
-        "star": 5,
-        "family": "rodent",
-        "costume_id": 0,
-        "heroId": "rodent_embertail",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Sproutwhisker",
-        "fancy_name": "The Dark-furred Cleric",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-03-18 07:00:00",
-        "star": 5,
-        "family": "rodent",
-        "costume_id": 0,
-        "heroId": "rodent_sproutwhisker",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Berit",
         "fancy_name": "Berylline Bruiser",
         "color": "Green",

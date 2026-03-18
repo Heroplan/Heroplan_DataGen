@@ -4845,6 +4845,14 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "rodent_sproutwhisker",
+        "name": "Sproutwhisker",
+        "passives": [
+            "尼布尔：任何一名盟友施放其特殊技能时此角色对一名随机敌人造成 200% 伤害并给予 -35% 防御，持续 3 回合。",
+            "特质 娇小体型：此角色不会受到增强或削弱攻击效果的影响。包括状态效果增益和异常，正面和负面效果叠加，衰退和成长效果。"
+        ]
+    },
+    {
         "heroId": "monster_hunter_staintongue",
         "name": "Staintongue",
         "passives": [
@@ -9098,6 +9106,14 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "rodent_embertail",
+        "name": "Embertail",
+        "passives": [
+            "尼布尔：任何一名盟友施放其特殊技能时此角色对一名随机敌人造成 200% 伤害并给予 -35% 防御，持续 3 回合。",
+            "特质 娇小体型：此角色不会受到增强或削弱攻击效果的影响。包括状态效果增益和异常，正面和负面效果叠加，衰退和成长效果。"
+        ]
+    },
+    {
         "heroId": "mimic_emblem_red",
         "name": "Emblem Mimic Fire",
         "passives": [
@@ -12799,16 +12815,6 @@ const translatedPassivesCN =
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
         ]
-    },
-    {
-        "heroId": "rodent_embertail",
-        "name": "Embertail",
-        "passives": []
-    },
-    {
-        "heroId": "rodent_sproutwhisker",
-        "name": "Sproutwhisker",
-        "passives": []
     },
     {
         "heroId": "monster_hunter_berit",

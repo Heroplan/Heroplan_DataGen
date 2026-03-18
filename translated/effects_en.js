@@ -6322,6 +6322,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "rodent_sproutwhisker",
+        "name": "Sproutwhisker",
+        "effects": [
+            "Wild: For 4 turns, all allies regenerate 400 HP or receive 800 boosted health each turn. (Wild adds a chance each turn for this effect to be more powerful. This Wild effect has a 50% chance to heal extra +100% HP that turn. When extra HP is healed the effect gives boosted health. Wild effects bypass most effects that would normally prevent them from being applied. Wild effects can be applied in addition to other effects of the same type.)",
+            "For the next 4 turns, all allies receive 10% mana at the end of the turn.",
+            "All allies get +55% defense for 4 turns."
+        ]
+    },
+    {
         "heroId": "monster_hunter_staintongue",
         "name": "Staintongue",
         "effects": [
@@ -11943,6 +11952,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "rodent_embertail",
+        "name": "Embertail",
+        "effects": [
+            "Deals 390% damage to the target and nearby enemies.",
+            "Wild: For 3 turns, the target and nearby enemies receive 204 or 408 Burn damage each turn. (Wild adds a chance each turn for this effect to be more powerful. This Wild effect has a 50% chance to deal +100% extra damage that turn. When extra damage is dealt, the effect also reduces enemies' max health and is stronger against boosted health. Wild effects bypass most effects that would normally prevent them from being applied. Wild effects can be applied in addition to other effects of the same type.)",
+            "The caster and nearby allies get +35% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+        ]
+    },
+    {
         "heroId": "mimic_emblem_red",
         "name": "Emblem Mimic Fire",
         "effects": [
@@ -16765,16 +16783,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "rodent_embertail",
-        "name": "Embertail",
-        "effects": []
-    },
-    {
-        "heroId": "rodent_sproutwhisker",
-        "name": "Sproutwhisker",
-        "effects": []
     },
     {
         "heroId": "monster_hunter_berit",
