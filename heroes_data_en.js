@@ -87325,6 +87325,11 @@ window.allHeroes =
                 "增益效果": [
                     "Mana - Mana Gen ↑"
                 ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
             }
         ]
     },
