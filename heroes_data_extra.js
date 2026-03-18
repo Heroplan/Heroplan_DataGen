@@ -36905,10 +36905,11 @@ window.allHeroesExtra = [
         "Release date": "2023-07-17",
         "AetherPower": "Attack Up",
         "skill_types": [
+            "Snipers",
             "AoE Attackers (Hit-3)",
             "AoE Attackers (Hit-5)",
             "Mana Reducers or Blockers",
-            "Snipers"
+            "Extra Damage Dealers"
         ],
         "heroId": "elemental_xavier",
         "baseAttack": 462,
@@ -45231,5 +45232,37 @@ window.allHeroesExtra = [
             "summon_slime_minion_on_death_yellow"
         ],
         "family": "slime"
+    },
+    {
+        "name": "Xavier costume1",
+        "fancy name": "Dual Blade Arthropod",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "average",
+        "Release date": "2026-03-17",
+        "AetherPower": "Rage",
+        "skill_types": [
+            "Snipers",
+            "AoE Attackers (Hit-3)",
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers",
+            "Extra Damage Dealers"
+        ],
+        "heroId": "elemental_xavier_costume_arthropod",
+        "baseAttack": 466,
+        "baseDefense": 430,
+        "baseHealth": 809,
+        "specialId": "cascading_whirlwind",
+        "specialId_costume": "overvlowing_whirlwind",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "42%",
+        "defenseBonus": "42%",
+        "healthBonus": "44%",
+        "manaBonus": "5%",
+        "family": "super_elemental"
     }
 ];

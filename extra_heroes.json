@@ -1,17 +1,5 @@
 [
     {
-        "name": "Xavier C1",
-        "fancy_name": "Dual Blade Arthropod",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2026-03-17 07:00:00",
-        "star": 5,
-        "family": "super_elemental",
-        "costume_id": 1,
-        "heroId": "elemental_xavier_costume_arthropod",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Embertail",
         "fancy_name": "The Pyromouse",
         "color": "Red",

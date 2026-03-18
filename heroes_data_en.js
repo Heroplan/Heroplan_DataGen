@@ -121361,10 +121361,11 @@ window.allHeroes =
             "Mana Reducer on hit"
         ],
         "skill_types": [
+            "Snipers",
             "AoE Attackers (Hit-3)",
             "AoE Attackers (Hit-5)",
             "Mana Reducers or Blockers",
-            "Snipers"
+            "Extra Damage Dealers"
         ],
         "source": "Super Elementals",
         "Release date": "2023-07-17",
@@ -121414,7 +121415,84 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Mana - Mana Cut"
+                    "Mana - Mana Cut",
+                    "Dmg - Extra"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Xavier C1",
+        "fancy_name": "Dual Blade Arthropod",
+        "AetherPower": "Rage",
+        "color": "Yellow",
+        "class": "Ranger",
+        "speed": "Average",
+        "skill": "Overflowing Whirlwind",
+        "types": [
+            "Hit 1,3 or All",
+            "Mana Reducer All"
+        ],
+        "skill_types": [
+            "Snipers",
+            "AoE Attackers (Hit-3)",
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers",
+            "Extra Damage Dealers"
+        ],
+        "source": "Super Elementals",
+        "Release date": "2026-03-17",
+        "specialId": "overvlowing_whirlwind",
+        "parent_specialId": "cascading_whirlwind",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "elemental_xavier_costume_arthropod",
+        "star": 5,
+        "power": 1289,
+        "attack": 1363,
+        "defense": 1257,
+        "health": 2399,
+        "effects": [
+            "Deals 270% damage to the target.",
+            "If 1 ally is of Holy element, the damage will increase to 330% and it will affect nearby enemies.",
+            "If 2 allies are of Holy element, the damage will increase to 360% and it will affect all enemies.",
+            "Reduces the mana of all hit enemies by -25%.",
+            "Deals extra damage against Dark."
+        ],
+        "passives": [
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received elemental damage: -25%"
+        ],
+        "family": "super_elemental",
+        "costume_id": 1,
+        "originalIndex": 1710,
+        "lb1": {
+            "attack": 1469,
+            "defense": 1355,
+            "health": 2586,
+            "power": 1380
+        },
+        "lb2": {
+            "attack": 1680,
+            "defense": 1550,
+            "health": 2958,
+            "power": 1561
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Variable Targets"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut",
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -121463,7 +121541,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1710,
+        "originalIndex": 1711,
         "lb1": {
             "attack": 879,
             "defense": 947,
@@ -121537,7 +121615,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1711,
+        "originalIndex": 1712,
         "lb1": {
             "attack": 1296,
             "defense": 1374,
@@ -121618,7 +121696,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1712,
+        "originalIndex": 1713,
         "lb1": {
             "attack": 1398,
             "defense": 1258,
@@ -121687,7 +121765,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1713,
+        "originalIndex": 1714,
         "lb1": {
             "attack": 863,
             "defense": 814,
@@ -121764,7 +121842,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1714,
+        "originalIndex": 1715,
         "lb1": {
             "attack": 1128,
             "defense": 1044,
@@ -121838,7 +121916,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1715,
+        "originalIndex": 1716,
         "lb1": {
             "attack": 1070,
             "defense": 1078,
@@ -121902,7 +121980,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1716,
+        "originalIndex": 1717,
         "lb1": {
             "attack": 923,
             "defense": 816,
@@ -121973,7 +122051,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1717,
+        "originalIndex": 1718,
         "lb1": {
             "attack": 1288,
             "defense": 1072,
@@ -122042,7 +122120,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1718,
+        "originalIndex": 1719,
         "lb1": {
             "attack": 765,
             "defense": 947,
@@ -122115,7 +122193,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1719,
+        "originalIndex": 1720,
         "lb1": {
             "attack": 1024,
             "defense": 1282,
@@ -122186,7 +122264,7 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1720,
+        "originalIndex": 1721,
         "lb1": {
             "attack": 1414,
             "defense": 1465,
@@ -122256,7 +122334,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1721,
+        "originalIndex": 1722,
         "lb1": {
             "attack": 939,
             "defense": 1076,
@@ -122286,32 +122364,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "Xavier C1",
-        "fancy_name": "Dual Blade Arthropod",
-        "AetherPower": "",
-        "color": "Yellow",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "elemental_xavier_costume_arthropod",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "super_elemental",
-        "costume_id": 1,
-        "originalIndex": 1722,
-        "cn_skill_info": []
     },
     {
         "name": "Embertail",

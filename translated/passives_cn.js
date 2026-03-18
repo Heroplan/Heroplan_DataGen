@@ -12684,6 +12684,17 @@ const translatedPassivesCN =
         ]
     },
     {
+        "heroId": "elemental_xavier_costume_arthropod",
+        "name": "Xavier C1",
+        "passives": [
+            "队伍大师：",
+            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
+            "* 造成的额外元素伤害： +150%",
+            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
+            "* 受到的元素伤害： -25%"
+        ]
+    },
+    {
         "heroId": "elemental_zandria",
         "name": "Zandria",
         "passives": [
@@ -12788,11 +12799,6 @@ const translatedPassivesCN =
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
         ]
-    },
-    {
-        "heroId": "elemental_xavier_costume_arthropod",
-        "name": "Xavier C1",
-        "passives": []
     },
     {
         "heroId": "rodent_embertail",

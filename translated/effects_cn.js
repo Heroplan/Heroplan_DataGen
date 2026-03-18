@@ -16643,6 +16643,17 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "elemental_xavier_costume_arthropod",
+        "name": "Xavier C1",
+        "effects": [
+            "对目标造成 270% 伤害。",
+            "若战队里有 1 名神圣系盟友，该伤害将增加至 330% 并影响附近的敌人。",
+            "若战队里有 2 名神圣系盟友，该伤害将增加至 360% 并影响所有敌人。友方英雄需活着才能触发该效果。",
+            "使所有命中的敌人减少 -25% 法力。",
+            "对暗黑系造成额外伤害。"
+        ]
+    },
+    {
         "heroId": "elemental_zandria",
         "name": "Zandria",
         "effects": [
@@ -16754,11 +16765,6 @@ const translatedEffectsCN =
             "所有盟友获得 +20% 攻击力，且每移除一个状态效果便再增加 +5% 攻击力，最高可达 +60%，持续 4 回合。",
             "元素链为全体神圣系盟友提供额外 +10% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ]
-    },
-    {
-        "heroId": "elemental_xavier_costume_arthropod",
-        "name": "Xavier C1",
-        "effects": []
     },
     {
         "heroId": "rodent_embertail",

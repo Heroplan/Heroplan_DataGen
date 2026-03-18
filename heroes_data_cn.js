@@ -121361,10 +121361,11 @@ window.allHeroes =
             "命中时削减法力"
         ],
         "skill_types": [
+            "狙击手",
             "范围攻击 (打3)",
             "全体攻击 (打5)",
             "法力削减或格挡",
-            "狙击手"
+            "额外伤害"
         ],
         "source": "超级元素人",
         "Release date": "2023-07-17",
@@ -121414,7 +121415,84 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "法力-削减法力"
+                    "法力-削减法力",
+                    "伤害-额外伤害"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "泽维尔 (Xavier) C1",
+        "fancy_name": "双刃节肢怪",
+        "AetherPower": "怒气",
+        "color": "黄",
+        "class": "游侠",
+        "speed": "中等",
+        "skill": "涌动旋风",
+        "types": [
+            "攻击 (1/3/所有) 目标",
+            "全体法力削减"
+        ],
+        "skill_types": [
+            "狙击手",
+            "范围攻击 (打3)",
+            "全体攻击 (打5)",
+            "法力削减或格挡",
+            "额外伤害"
+        ],
+        "source": "超级元素人",
+        "Release date": "2026-03-17",
+        "specialId": "overvlowing_whirlwind",
+        "parent_specialId": "cascading_whirlwind",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "heroId": "elemental_xavier_costume_arthropod",
+        "star": 5,
+        "power": 1289,
+        "attack": 1363,
+        "defense": 1257,
+        "health": 2399,
+        "effects": [
+            "对目标造成 270% 伤害。",
+            "若战队里有 1 名神圣系盟友，该伤害将增加至 330% 并影响附近的敌人。",
+            "若战队里有 2 名神圣系盟友，该伤害将增加至 360% 并影响所有敌人。友方英雄需活着才能触发该效果。",
+            "使所有命中的敌人减少 -25% 法力。",
+            "对暗黑系造成额外伤害。"
+        ],
+        "passives": [
+            "队伍大师：",
+            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
+            "* 造成的额外元素伤害： +150%",
+            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
+            "* 受到的元素伤害： -25%"
+        ],
+        "family": "super_elemental",
+        "costume_id": 1,
+        "originalIndex": 1710,
+        "lb1": {
+            "attack": 1469,
+            "defense": 1355,
+            "health": 2586,
+            "power": 1380
+        },
+        "lb2": {
+            "attack": 1680,
+            "defense": 1550,
+            "health": 2958,
+            "power": 1561
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：数量变化"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "法力-削减法力",
+                    "伤害-额外伤害"
                 ]
             }
         ]
@@ -121463,7 +121541,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1710,
+        "originalIndex": 1711,
         "lb1": {
             "attack": 879,
             "defense": 947,
@@ -121537,7 +121615,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1711,
+        "originalIndex": 1712,
         "lb1": {
             "attack": 1296,
             "defense": 1374,
@@ -121618,7 +121696,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1712,
+        "originalIndex": 1713,
         "lb1": {
             "attack": 1398,
             "defense": 1258,
@@ -121687,7 +121765,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1713,
+        "originalIndex": 1714,
         "lb1": {
             "attack": 863,
             "defense": 814,
@@ -121764,7 +121842,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1714,
+        "originalIndex": 1715,
         "lb1": {
             "attack": 1128,
             "defense": 1044,
@@ -121838,7 +121916,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1715,
+        "originalIndex": 1716,
         "lb1": {
             "attack": 1070,
             "defense": 1078,
@@ -121902,7 +121980,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1716,
+        "originalIndex": 1717,
         "lb1": {
             "attack": 923,
             "defense": 816,
@@ -121973,7 +122051,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1717,
+        "originalIndex": 1718,
         "lb1": {
             "attack": 1288,
             "defense": 1072,
@@ -122042,7 +122120,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1718,
+        "originalIndex": 1719,
         "lb1": {
             "attack": 765,
             "defense": 947,
@@ -122115,7 +122193,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1719,
+        "originalIndex": 1720,
         "lb1": {
             "attack": 1024,
             "defense": 1282,
@@ -122186,7 +122264,7 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1720,
+        "originalIndex": 1721,
         "lb1": {
             "attack": 1414,
             "defense": 1465,
@@ -122256,7 +122334,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1721,
+        "originalIndex": 1722,
         "lb1": {
             "attack": 939,
             "defense": 1076,
@@ -122286,32 +122364,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "泽维尔 (Xavier) C1",
-        "fancy_name": "双刃节肢怪",
-        "AetherPower": "",
-        "color": "黄",
-        "class": "圣骑士",
-        "speed": "慢",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "elemental_xavier_costume_arthropod",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "super_elemental",
-        "costume_id": 1,
-        "originalIndex": 1722,
-        "cn_skill_info": []
     },
     {
         "name": "余烬之尾 (Embertail)",

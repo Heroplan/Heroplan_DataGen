@@ -16643,6 +16643,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "elemental_xavier_costume_arthropod",
+        "name": "Xavier C1",
+        "effects": [
+            "Deals 270% damage to the target.",
+            "If 1 ally is of Holy element, the damage will increase to 330% and it will affect nearby enemies.",
+            "If 2 allies are of Holy element, the damage will increase to 360% and it will affect all enemies.",
+            "Reduces the mana of all hit enemies by -25%.",
+            "Deals extra damage against Dark."
+        ]
+    },
+    {
         "heroId": "elemental_zandria",
         "name": "Zandria",
         "effects": [
@@ -16754,11 +16765,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "elemental_xavier_costume_arthropod",
-        "name": "Xavier C1",
-        "effects": []
     },
     {
         "heroId": "rodent_embertail",

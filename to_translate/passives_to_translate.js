@@ -12684,6 +12684,17 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "elemental_xavier_costume_arthropod",
+        "name": "Xavier C1",
+        "passives": [
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This character's Troops deal extra damage against the weaker element.",
+            "* Extra damage dealt: +150%",
+            "Passive Skill as defending character: This character receives less damage from Troops of the stronger element.",
+            "* Received elemental damage: -25%"
+        ]
+    },
+    {
         "heroId": "elemental_zandria",
         "name": "Zandria",
         "passives": [
@@ -12788,11 +12799,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "elemental_xavier_costume_arthropod",
-        "name": "Xavier C1",
-        "passives": []
     },
     {
         "heroId": "rodent_embertail",
