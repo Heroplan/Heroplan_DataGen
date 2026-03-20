@@ -177,10 +177,12 @@ def calculate_costume_bonus(hero_extra_entry, rarity, costume_bonuses_id):
     elif "glass" in hero_name: costume_number = 4 if rarity >= 4 else 3
     elif "stylish" in hero_name: costume_number = 5 if rarity >= 4 else 4
     
-    #S2 卡通服装统一为2
-    if costume_bonuses_id == 'atlantis':
+    #S1以外卡通服装统一为2
+    if costume_bonuses_id != 'classic':
         if "toon" in hero_name:
             costume_number = 2
+        elif "glass" in hero_name: costume_number = 3
+        elif "stylish" in hero_name: costume_number = 4
 
     stages_per_costume = 4 if rarity >= 4 else 3 # 4/5星英雄每套服装有4个奖励阶段, 3星是3个
     target_index = (costume_number * stages_per_costume) - 1
