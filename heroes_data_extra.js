@@ -45317,5 +45317,29 @@ window.allHeroesExtra = [
             "rodent_effects_on_ally_passive_skill"
         ],
         "family": "rodent"
+    },
+    {
+        "name": "Berit",
+        "fancy name": "Berylline Bruiser",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
+        "Release date": "2026-03-20",
+        "AetherPower": "Boosted Regen",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers"
+        ],
+        "heroId": "monster_hunter_berit",
+        "baseAttack": 651,
+        "baseDefense": 648,
+        "baseHealth": 1115,
+        "specialId": "staggering_blows",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
+        "family": "plains_hunter"
     }
 ];

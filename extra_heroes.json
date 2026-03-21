@@ -1,17 +1,5 @@
 [
     {
-        "name": "Berit",
-        "fancy_name": "Berylline Bruiser",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-03-20 07:00:00",
-        "star": 5,
-        "family": "plains_hunter",
-        "costume_id": 0,
-        "heroId": "monster_hunter_berit",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Prof. Ambrose",
         "fancy_name": "Director of the Institute",
         "color": "Yellow",

@@ -83,7 +83,7 @@ const allTranslations =
         "name": "Dawn",
         "passives": [
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
-            "Status effect on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -577,8 +577,8 @@ const allTranslations =
         "heroId": "monster_hunter_knuckles",
         "name": "Knuckles",
         "passives": [
-            "Damage over time on special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
-            "Hunter's Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack."
+            "Hunter's Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -708,7 +708,7 @@ const allTranslations =
         "name": "Adalinda",
         "passives": [
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
-            "Damage over time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -1887,7 +1887,7 @@ const allTranslations =
         "heroId": "construct_nautica",
         "name": "Nautica",
         "passives": [
-            "Resist Special Skill Blocking: This character has is immune to status ailments that prevent the use of Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
             "* With fully charged Repair Core, boosts the health of all allies by 25%.",
             "* The healing is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -1913,7 +1913,7 @@ const allTranslations =
         "heroId": "monster_hunter_njal",
         "name": "Njal",
         "passives": [
-            "Special Skill damage reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
@@ -2152,7 +2152,7 @@ const allTranslations =
         "heroId": "monster_hunter_sigyn",
         "name": "Sigyn",
         "passives": [
-            "Special Skill damage reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
@@ -2245,8 +2245,8 @@ const allTranslations =
         "heroId": "monster_hunter_sorrow",
         "name": "Sorrow",
         "passives": [
-            "Hunter's sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailment, they recover 8% health.",
-            "Damage over time on special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
+            "Hunter's Sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailments, they recover 8% health.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -2370,7 +2370,7 @@ const allTranslations =
         "name": "Tremor",
         "passives": [
             "Hunter's Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack.",
-            "Damage over time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -2454,8 +2454,8 @@ const allTranslations =
         "heroId": "monster_hunter_waterpipe",
         "name": "Waterpipe",
         "passives": [
-            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
-            "Special Skill damage reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1."
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -2747,8 +2747,8 @@ const allTranslations =
         "heroId": "monster_hunter_fianna",
         "name": "Fianna",
         "passives": [
-            "Status effect on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
-            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1."
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -3258,8 +3258,8 @@ const allTranslations =
         "heroId": "monster_hunter_numbskull",
         "name": "Numbskull",
         "passives": [
-            "Damage over time on special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
-            "Hunter's sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailment, they recover 8% health."
+            "Hunter's Sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailments, they recover 12% health.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -3520,6 +3520,14 @@ const allTranslations =
         "passives": [
             "Resist Buff Blocking: This character is immune to effects that would block them from receiving new status effect buffs.",
             "Health recovery on buff received: This character recovers 5% health when they receive a buff or a positive stack."
+        ]
+    },
+    {
+        "heroId": "monster_hunter_berit",
+        "name": "Berit",
+        "passives": [
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -4280,8 +4288,8 @@ const allTranslations =
         "heroId": "monster_hunter_kai",
         "name": "Kai",
         "passives": [
-            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
-            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1."
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -4550,8 +4558,8 @@ const allTranslations =
         "heroId": "monster_hunter_mistweaver",
         "name": "Mistweaver",
         "passives": [
-            "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total.",
-            "Hunter's Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack."
+            "Hunter's Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -4856,8 +4864,8 @@ const allTranslations =
         "heroId": "monster_hunter_staintongue",
         "name": "Staintongue",
         "passives": [
-            "Hunter's Sense: When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 12% health.",
-            "Damage over Time on Special: When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 5% health."
+            "Hunter's Sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailments, they recover 5% health.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -5297,8 +5305,8 @@ const allTranslations =
         "heroId": "monster_hunter_greel",
         "name": "Greel",
         "passives": [
-            "Hunter's Sense: When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 12% health.",
-            "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total."
+            "Hunter's Sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailments, they recover 12% health.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -5657,8 +5665,8 @@ const allTranslations =
         "heroId": "monster_hunter_meadow",
         "name": "Meadow",
         "passives": [
-            "Status effect on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
-            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1."
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -6303,7 +6311,7 @@ const allTranslations =
         "name": "Dubhan",
         "passives": [
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
-            "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -6435,8 +6443,8 @@ const allTranslations =
         "heroId": "monster_hunter_goretooth",
         "name": "Goretooth",
         "passives": [
-            "Hunter's sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 3% health.",
-            "Damage over time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
+            "Hunter's Sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailments, they recover 3% health.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -6531,7 +6539,7 @@ const allTranslations =
         "name": "Hawthorn",
         "passives": [
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
-            "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -6595,7 +6603,7 @@ const allTranslations =
         "name": "Hurricane",
         "passives": [
             "Hunter's Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack.",
-            "Damage over time on special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -7401,7 +7409,7 @@ const allTranslations =
         "name": "Sorcha",
         "passives": [
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
-            "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -7764,8 +7772,8 @@ const allTranslations =
         "heroId": "monster_hunter_basil",
         "name": "Basil",
         "passives": [
-            "Damage over time on special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
-            "Hunter's sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailments, they recover 12% health."
+            "Hunter's Sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailments, they recover 12% health.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -8321,8 +8329,8 @@ const allTranslations =
         "heroId": "monster_hunter_maheegan",
         "name": "Maheegan",
         "passives": [
-            "When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
-            "Special Skill damage reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1."
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -8779,7 +8787,7 @@ const allTranslations =
         "name": "Bonecrusher",
         "passives": [
             "Hunter's Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack.",
-            "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total."
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -9316,7 +9324,7 @@ const allTranslations =
             "* Boosts health of all allies by 10%. Boosted Heath can exceed max HP.",
             "* All allies gain a small amount of mana.",
             "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.",
-            "Resist Mana Generation Stopping: This character has an innate resistance against status ailments that affect stop mana generation."
+            "Resist Mana Generation Stopping: This character is immune to status ailments that stop mana generation."
         ]
     },
     {
@@ -9776,7 +9784,7 @@ const allTranslations =
         "heroId": "monster_hunter_otis",
         "name": "Otis",
         "passives": [
-            "Hunter's Sense: When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 12% health.",
+            "Hunter's Sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailments, they recover 12% health.",
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
@@ -10354,7 +10362,7 @@ const allTranslations =
         "name": "Zidane",
         "passives": [
             "Increased Attack per Non-Fire Enemy: At the start of each battle, this character's attack is increased by +5% for every enemy that is not of Fire element. In battles with multiple waves, the effect is refreshed at the beginning of each wave.",
-            "Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs."
+            "Resist Buff Blocking: This character is immune to effects that would block them from receiving new status effect buffs."
         ]
     },
     {
@@ -10442,8 +10450,8 @@ const allTranslations =
         "heroId": "monster_hunter_cedar",
         "name": "Cedar",
         "passives": [
-            "Damage over time on special: When this character casts their Special Skill they give a Hunter's Mark on a random enemy. The target receives 150 damage  over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
-            "Hunter's Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack."
+            "Hunter's Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -10480,15 +10488,15 @@ const allTranslations =
         "name": "Dolrak",
         "passives": [
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 124 Water damage over 2 turns.",
-            "Resist Water Damage: This character has innate resistance against Water Damage."
+            "Resist Water: This character is immune to status ailments that deal Water damage."
         ]
     },
     {
         "heroId": "monster_hunter_edelaide",
         "name": "Edelaide",
         "passives": [
-            "When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
-            "Special Skill damage reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1."
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -10575,7 +10583,7 @@ const allTranslations =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* All allies get +21% critical chance for 3 turns.",
-            "Resist Insanity: This character has an innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ]
     },
     {
@@ -10643,7 +10651,7 @@ const allTranslations =
         "heroId": "owl_paeia",
         "name": "Paeia",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -10697,11 +10705,11 @@ const allTranslations =
         "heroId": "construct_rustbeak",
         "name": "Rustbeak",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skill.",
             "Repair Core: The Construct Core of this character is Repair Core.",
             "The Repair Core activates each time this character's Special Skill is cast:",
             "* With fully charged Repair Core, boosts the health of all allies by 25%.",
-            "* The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
+            "* The healing is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -10714,15 +10722,15 @@ const allTranslations =
         "name": "Saskia",
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
-            "Resist Insanity: This character has innate resistance against Insanity.",
-            "Resist Defense Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect defense."
+            "Resist Insanity: This character is immune to Insanity.",
+            "Resist Defense Reduction: This character is immune to status ailments, stacks and Wither effects that affect defense."
         ]
     },
     {
         "heroId": "beowulf_aeschere",
         "name": "Aeschere",
         "passives": [
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack."
         ]
     },
@@ -10773,8 +10781,8 @@ const allTranslations =
         "heroId": "monster_hunter_bogart",
         "name": "Bogart",
         "passives": [
-            "Damage over time on special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
-            "Hunter's sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 8% health."
+            "Hunter's Sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailments, they recover 8% health.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -10835,7 +10843,7 @@ const allTranslations =
         "name": "Errin",
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
-            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.",
             "Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them."
         ]
     },
@@ -11030,15 +11038,15 @@ const allTranslations =
             "* Deals 70% damage to all enemies.",
             "* Dispels the latest dispellable buff from enemies.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Resist Sand Damage: This character has innate resistance against sand damage."
+            "Resist Sand: This character is immune to status ailments that deal Sand damage."
         ]
     },
     {
         "heroId": "styx_steropes",
         "name": "Steropes",
         "passives": [
-            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
+            "Weaker Minions: Enemy Minions have -50% HP.",
+            "Resist Defense Ailments: This character is immune to status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ]
     },
     {
@@ -11128,9 +11136,9 @@ const allTranslations =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ]
     },
     {
@@ -11177,7 +11185,7 @@ const allTranslations =
         "name": "Amund",
         "passives": [
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
-            "Damage over time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -11189,7 +11197,7 @@ const allTranslations =
         "heroId": "valentines_anteros",
         "name": "Anteros",
         "passives": [
-            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills."
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skill."
         ]
     },
     {
@@ -11253,7 +11261,7 @@ const allTranslations =
         "heroId": "holy_god_aurox",
         "name": "Aurox",
         "passives": [
-            "Resist Mana Reduction: This character has innate resistance against mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Increased Special Skill Damage: The first time this character cast a Special Skill that deals damage, an additional 50% is added to its power."
         ]
     },
@@ -11261,7 +11269,7 @@ const allTranslations =
         "heroId": "holy_god_aviana",
         "name": "Aviana",
         "passives": [
-            "Resist Bleed Damage: This character has innate resistance against Bleed.",
+            "Resist Bleed: This character is immune to status ailments that deal Bleed damage.",
             "Mana on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
         ]
     },
@@ -11300,7 +11308,7 @@ const allTranslations =
         "heroId": "slayer_caitlin_costume_crusader",
         "name": "Caitlin C1",
         "passives": [
-            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects.",
+            "Resist Damage from Status Effects: This character is immune to incoming damage from status effects and stacks.",
             "Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 528 Bleed damage over 4 turns."
         ]
     },
@@ -11360,8 +11368,8 @@ const allTranslations =
         "heroId": "monster_hunter_dabria",
         "name": "Dabria",
         "passives": [
-            "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total.",
-            "Hunter's Sense: When this character casts their Special Skill, they have 100% chance to transfer the newest cleansable status ailment from themselves to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 3% health."
+            "Hunter's Sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailments, they recover 8% health.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -11448,7 +11456,7 @@ const allTranslations =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* All allies get +21% critical chance for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ]
     },
     {
@@ -11493,7 +11501,7 @@ const allTranslations =
         "heroId": "holy_god_faeona",
         "name": "Faeona",
         "passives": [
-            "Resist Mana Reduction: This character has innate resistance against mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack."
         ]
     },
@@ -11556,8 +11564,8 @@ const allTranslations =
         "heroId": "faun_gideon",
         "name": "Gideon",
         "passives": [
-            "Resist Defense Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect defense.",
-            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Defense Reduction: This character is immune to status ailments, stacks and Wither effects that affect defense.",
+            "Resist Insanity: This character is immune to Insanity.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stacks."
         ]
     },
@@ -11607,9 +11615,9 @@ const allTranslations =
         "passives": [
             "Troop Mastery:",
             "Passive Skill as attacking character: This hero's Troops deal extra  elemental damage against weaker element.",
-            "- Dealt extra elemental damage: +100%",
+            "* Dealt extra elemental damage: +100%",
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
-            "- Received elemental damage: -10%"
+            "* Received elemental damage: -10%"
         ]
     },
     {
@@ -11660,9 +11668,9 @@ const allTranslations =
         "heroId": "construct_gwynn",
         "name": "Gwynn",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast:",
-            "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 151 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 151 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
@@ -11694,7 +11702,7 @@ const allTranslations =
         "name": "Haumri",
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
-            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.",
             "Perfect Accuracy: This character's Special Skill never misses its targets."
         ]
     },
@@ -12039,7 +12047,7 @@ const allTranslations =
         "name": "Malin",
         "passives": [
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
-            "Damage over time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -12060,7 +12068,7 @@ const allTranslations =
         "heroId": "holy_god_may",
         "name": "May",
         "passives": [
-            "Resist Minion Removal: This character has innate resistance against Minion removal.",
+            "Resist Minion Removal: This character is immune to effects that would remove Minions from them.",
             "Mana on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
         ]
     },
@@ -12068,7 +12076,7 @@ const allTranslations =
         "heroId": "ballerina_meg_giry",
         "name": "Meg Giry",
         "passives": [
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense.",
+            "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ]
     },
@@ -12076,7 +12084,7 @@ const allTranslations =
         "heroId": "astral_melodymuse",
         "name": "Melodymuse",
         "passives": [
-            "Resist Poison: This character has innate resistance against Poison.",
+            "Resist Poison: This character is immune to status ailments that deal Poison damage.",
             "Share Received Damage: 20% of damage received by this character is shared with other allies."
         ]
     },
@@ -12109,7 +12117,7 @@ const allTranslations =
         "heroId": "astral_moonbell",
         "name": "Moonbell",
         "passives": [
-            "Resist Poison: This character has innate resistance against Poison.",
+            "Resist Poison: This character is immune to status ailments that deal Poison damage.",
             "Share Received Damage: 20% of damage received by this character is shared with other allies."
         ]
     },
@@ -12168,8 +12176,8 @@ const allTranslations =
         "heroId": "beowulf_nithgaest",
         "name": "Nithgaest",
         "passives": [
-            "Perfect Accuracy: This character's Special Skill never mises its target.",
-            "Empowered Resist Mana Reduction: This character has innate resistance against mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Perfect Accuracy: This character's Special Skill never misses its target.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ]
     },
@@ -12238,7 +12246,7 @@ const allTranslations =
             "* Boosts health of all allies by 10%. Boosted health can exceed max HP.",
             "* All allies gain a small amount of mana.",
             "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.",
-            "Resist Mana Generation Stopping: This character has an innate resistance against status ailments that affect stop mana generation."
+            "Resist Mana Generation Stopping: This character is immune to status ailments that stop mana generation."
         ]
     },
     {
@@ -12264,7 +12272,7 @@ const allTranslations =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* The caster get +19% mana generation for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ]
     },
     {
@@ -12279,8 +12287,8 @@ const allTranslations =
         "name": "Philomena",
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
-            "Resist Insanity: This character has innate resistance against Insanity.",
-            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
+            "Resist Insanity: This character is immune to Insanity.",
+            "Resist Attack Reduction: This character is immune to status ailments, stacks and Wither effects that affect attack."
         ]
     },
     {
@@ -12381,7 +12389,7 @@ const allTranslations =
         "name": "Salniss",
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
-            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.",
             "Perfect Accuracy: This character's Special Skill never misses its targets."
         ]
     },
@@ -12445,7 +12453,7 @@ const allTranslations =
         "heroId": "garrison_shimmerscale",
         "name": "Shimmerscale",
         "passives": [
-            "Resist mana reduction: This character is immune to mana reduction.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
@@ -12498,8 +12506,8 @@ const allTranslations =
         "heroId": "journey_tang_sanzang",
         "name": "Tang Sanzang",
         "passives": [
-            "Mana on Buff Received: This character has a 50% chance to recover 10% mana when they receive a buff or possitve stack.",
-            "Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitive stack."
+            "Mana on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or positive stack.",
+            "Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or positive stack."
         ]
     },
     {
@@ -12516,8 +12524,8 @@ const allTranslations =
         "heroId": "monster_hunter_thunderclap",
         "name": "Thunderclap",
         "passives": [
-            "Damage over time on special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
-            "Hunter's Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack."
+            "Hunter's Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -12525,7 +12533,7 @@ const allTranslations =
         "name": "Thura",
         "passives": [
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
-            "Damage over time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -12617,7 +12625,7 @@ const allTranslations =
         "passives": [
             "Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
             "Heal when Status Ailment Expires or Is Cleared: This character's receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
-            "Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs."
+            "Resist Buff Blocking: This character is immune to effect that would block them from receiving new status effect buffs."
         ]
     },
     {
@@ -12751,14 +12759,15 @@ const allTranslations =
         "heroId": "s4_zekena",
         "name": "Zekena",
         "passives": [
-            "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn."
+            "Increase Buff Duration: Duration of the first 3 buffs this character receives from Special Skill is increased by 1 turn."
         ]
     },
     {
         "heroId": "s4_zekena_costume_vines",
         "name": "Zekena C1",
         "passives": [
-            "Increased Damage Against Boosted Health: After this character casts their Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns ."
+            "Increase Buff Duration: Duration of the first 3 buffs this character receives from Special Skill is increased by 1 turn.",
+            "Increased Damage Against Boosted Health: After this character casts their Special Skill cast, all allies deal +70% increased normal attacks and Special Skills damage against targets with boosted health for 4 turns ."
         ]
     },
     {
@@ -12766,7 +12775,7 @@ const allTranslations =
         "name": "Zenuk'wa",
         "passives": [
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 238 Water damage over 2 turns.",
-            "Resist Water Damage: This character has innate resistance against Water Damage."
+            "Resist Water Damage: This character is immune to status ailments that deal Water damage."
         ]
     },
     {
@@ -12815,11 +12824,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "monster_hunter_berit",
-        "name": "Berit",
-        "passives": []
     },
     {
         "heroId": "institute_professor_ambrose",
