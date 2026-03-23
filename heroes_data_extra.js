@@ -45341,5 +45341,35 @@ window.allHeroesExtra = [
             "special_damage_reduction_monster_hunters"
         ],
         "family": "plains_hunter"
+    },
+    {
+        "name": "Prof Ambrose",
+        "fancy name": "Director of the Institute",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
+        "Release date": "2026-03-22",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Dispellers",
+            "Buff Blockers",
+            "Extra Damage Dealers",
+            "Ability Scores Modifiers",
+            "AoE Attackers (Hit-5)",
+            "Mindless Attack & Mindless Heal",
+            "Negative Effects On Self Or Allies"
+        ],
+        "heroId": "institute_professor_ambrose",
+        "baseAttack": 639,
+        "baseDefense": 661,
+        "baseHealth": 1120,
+        "specialId": "staff_of_domination",
+        "passiveSkills": [
+            "damage_increase_by_insanity",
+            "corrupt_minions_all_enemies"
+        ],
+        "family": "institute"
     }
 ];

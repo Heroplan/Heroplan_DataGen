@@ -840,7 +840,8 @@ window.families_bonus = [
         "bonus": [
             "Bonus for 1 / 2 / 3 Heroes:",
             "* +20% / +30% / +40% defense",
-            "* +20% / +30% / +40% health"
+            "* +20% / +30% / +40% health",
+            "The members of this family have additional perks in the Shadows of the Deep event."
         ]
     },
     {

@@ -1620,7 +1620,7 @@ window.allHeroes =
         "skill": "組合連拳",
         "types": [
             "攻擊單個目標",
-            "疊加"
+            "自身攻擊增益疊加"
         ],
         "skill_types": [
             "攻擊增益",
@@ -2066,7 +2066,7 @@ window.allHeroes =
         "skill": "霜凍斧頭",
         "types": [
             "攻擊3個目標",
-            "元素防禦降低"
+            "3個目標元素防禦降低"
         ],
         "skill_types": [
             "範圍攻擊 (打3)",
@@ -2125,7 +2125,7 @@ window.allHeroes =
         "skill": "冰斧",
         "types": [
             "攻擊3個目標",
-            "元素防禦降低"
+            "全體元素防禦降低"
         ],
         "skill_types": [
             "範圍攻擊 (打3)",
@@ -2144,7 +2144,7 @@ window.allHeroes =
         "defense": 433,
         "health": 902,
         "effects": [
-            "對目標及附近敵人造成 230% 傷害。",
+            "對目標及附近敵人造成 220% 傷害。",
             "所有敵人獲得對冰雪系 -54% 的防禦，持續 3 回合。對烈火系角色，此狀態效果變為無法淨化且持續時間延長 2 回合。"
         ],
         "passives": [],
@@ -5740,7 +5740,7 @@ window.allHeroes =
         "skill": "苦痛之鍊",
         "types": [
             "攻擊3個目標",
-            "疊加"
+            "自身攻擊增益疊加"
         ],
         "skill_types": [
             "範圍攻擊 (打3)",
@@ -9956,13 +9956,13 @@ window.allHeroes =
         "passives": [
             "小兵腐朽：每回合結束時，有瘋狂的敵人都有機會讓小兵變成惡魔。達到 70 點瘋狂就會自動啟動轉變。小兵變成駭異惡魔： 15% 攻擊、 18% 生命，每回合造成 5 點瘋狂。超級惡魔變成駭異超級惡魔： 115% 攻擊 68% 生命，每回合造成 10% 點瘋狂。",
             "駭異契約：如果被擊败，此角色有機率重生為駭異宿主。此角色每有 10% 點疯狂，該機率為 10，最高機率為 100%。",
+            "在瘋狂生效時，若此角色擊敗自己，重生的機率一律為 100%。",
             "駭異宿主具有：",
             "* 100% 繼承生命。",
             "* 1200 點攻擊。",
             "* 1200 點防禦。",
             "特殊技能:駭異疫病。",
-            "* 對目標造成 400% 傷害，並對其造成 35 點瘋狂。",
-            "在瘋狂生效時，若此角色擊敗自己，重生的機率一律為 100%。"
+            "* 對目標造成 400% 傷害，並對其造成 35 點瘋狂。"
         ],
         "family": "forsaken",
         "costume_id": 0,
@@ -11490,7 +11490,8 @@ window.allHeroes =
         ],
         "passives": [
             "小兵腐朽：每回合結束時，有瘋狂的敵人都有機會讓小兵變成惡魔。達到 70 點瘋狂就會自動啟動轉變。小兵變成駭異惡魔： 15% 攻擊、 18% 生命，每回合造成 5 點瘋狂。超級惡魔變成駭異超級惡魔： 115% 攻擊 68% 生命，每回合造成 10% 點瘋狂。",
-            "駭異契約：如果被擊败，此角色有機率重生為駭異宿主。此角色每有 10% 點疯狂，該機率為 10，最高機率為 100%。在瘋狂生效時，若此角色擊敗自己，重生的機率一律為 100%。",
+            "駭異契約：如果被擊败，此角色有機率重生為駭異宿主。此角色每有 10% 點疯狂，該機率為 10，最高機率為 100%。",
+            "在瘋狂生效時，若此角色擊敗自己，重生的機率一律為 100%。",
             "駭異宿主具有：",
             "* 100% 繼承生命。",
             "* 1200 點攻擊。",
@@ -13750,7 +13751,7 @@ window.allHeroes =
         "skill": "尤格索之眼",
         "types": [
             "嘲諷",
-            "全體狂亂",
+            "命中時施加全體瘋狂",
             "自我狂亂"
         ],
         "skill_types": [
@@ -20216,11 +20217,11 @@ window.allHeroes =
         "speed": "慢速",
         "skill": "瘋狂存在",
         "types": [
-            "自我完全移除",
-            "自我瘋狂恐怖幽靈形態",
-            "攻擊單個目標",
-            "單體狂亂",
-            "對盟友施加狂亂"
+            "自身全效果移除",
+            "自身變為癲狂恐怖幽靈",
+            "幽靈狀態下攻擊單體",
+            "幽靈狀態下施加單體瘋狂",
+            "對除自身外的隊友施加瘋狂"
         ],
         "skill_types": [
             "鬼魂形態與隱藏",
@@ -25141,9 +25142,10 @@ window.allHeroes =
         "speed": "中等",
         "skill": "空洞自誇",
         "types": [
-            "攻擊增益",
-            "防禦增益",
-            "持續治療"
+            "3個目標攻擊增益",
+            "3個目標防禦增益",
+            "3個目標持續治療",
+            "自身延遲減益"
         ],
         "skill_types": [
             "攻擊增益",
@@ -26596,8 +26598,8 @@ window.allHeroes =
         "speed": "中等",
         "skill": "旅人零食",
         "types": [
-            "生命值加成",
-            "攻擊增益"
+            "全體生命值加成",
+            "全體攻擊增益"
         ],
         "skill_types": [
             "攻擊增益",
@@ -28111,8 +28113,8 @@ window.allHeroes =
         "skill": "暗影掃除",
         "types": [
             "攻擊3個目標",
-            "最大生命值降低",
-            "元素防禦降低"
+            "3個目標最大生命值降低",
+            "3個目標元素防禦降低"
         ],
         "skill_types": [
             "範圍攻擊 (打3)",
@@ -28131,7 +28133,7 @@ window.allHeroes =
         "health": 1262,
         "effects": [
             "對目標及附近敵人造成 150% 傷害。",
-            "使目標與附近敵人的最大生命值降低 75 點。對有生命加成的目標效果更大。最大生命值不得低於原最大生命值的 30%。任何生命值加成會造成額外降低 75 點。",
+            "使目標與附近敵人的最大生命值降低 75 點。對有生命加成的目標效果更大。（最大生命值不得低於原最大生命值的 30% 任何生命值加成每回合會造成额外降低 75 點。）",
             "目標與附近敵人獲得對自然系 -54% 的防禦，持續 4 回合。"
         ],
         "passives": [],
@@ -28174,8 +28176,8 @@ window.allHeroes =
         "skill": "暗影戳刺",
         "types": [
             "攻擊單個目標",
-            "法力削減",
-            "元素防禦降低"
+            "單體法力削減",
+            "單體屬性防禦減益"
         ],
         "skill_types": [
             "防禦減益",
@@ -28396,9 +28398,10 @@ window.allHeroes =
         "speed": "快速",
         "skill": "女武神防禦",
         "types": [
-            "治療者",
-            "驅散免疫",
-            "法力生成增益"
+            "治療3個目標",
+            "3個目標驅散免疫",
+            "3個目標特技防禦增益",
+            "3個目標法力生成增益"
         ],
         "skill_types": [
             "防禦增益",
@@ -36731,13 +36734,13 @@ window.allHeroes =
         "passives": [
             "小兵腐朽：每回合結束時，有瘋狂的敵人都有機會讓小兵變成惡魔。達到 70 點瘋狂就會自動啟動轉變。小兵變成駭異惡魔： 15% 攻擊、 18% 生命，每回合造成 5 點瘋狂。超級惡魔變成駭異超級惡魔： 115% 攻擊 68% 生命，每回合造成 10% 點瘋狂。",
             "駭異契約：如果被擊败，此角色有機率重生為駭異宿主。此角色每有 10% 點疯狂，該機率為 10，最高機率為 100%。",
+            "在瘋狂生效時，若此角色擊敗自己，重生的機率一律為 100%。",
             "駭異宿主具有：",
             "* 100% 繼承生命。",
             "* 1200 點攻擊。",
             "* 1200 點防禦。",
             "特殊技能:駭異疫病。",
-            "* 對目標造成 400% 傷害，並對其造成 35 點瘋狂。",
-            "在瘋狂生效時，若此角色擊敗自己，重生的機率一律為 100%。"
+            "* 對目標造成 400% 傷害，並對其造成 35 點瘋狂。"
         ],
         "family": "institute",
         "costume_id": 0,
@@ -37990,7 +37993,7 @@ window.allHeroes =
         "skill": "尖脆爆裂",
         "types": [
             "攻擊所有目標",
-            "防禦降低"
+            "全體防禦降低"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -39947,7 +39950,7 @@ window.allHeroes =
         "health": 1417,
         "effects": [
             "為所有盟友提供 500 點加成生命值。加成生命值能夠超過最大生命值。",
-            "每名陣亡的盟友有 20% 的機率以 30% 的生命值復活。",
+            "每名被擊敗的盟友有 20% 的機率以 30% 的生命值復活。",
             "所有盟友獲得 +30% 攻擊力，持續 4 回合。"
         ],
         "passives": [],
@@ -41266,10 +41269,10 @@ window.allHeroes =
         "speed": "慢速",
         "skill": "湮滅之浪",
         "types": [
-            "全體強化治療",
+            "自身生命值加成治療",
             "攻擊所有目標",
-            "全體敵人瘋狂",
-            "儲存傷害",
+            "全體狂亂",
+            "儲存受到的傷害",
             "自我狂亂"
         ],
         "skill_types": [
@@ -41301,13 +41304,13 @@ window.allHeroes =
         "passives": [
             "小兵腐朽：每回合結束時，有瘋狂的敵人都有機會讓小兵變成惡魔。達到 70 點瘋狂就會自動啟動轉變。小兵變成駭異惡魔： 15% 攻擊、 18% 生命，每回合造成 5 點瘋狂。超級惡魔變成駭異超級惡魔： 115% 攻擊 68% 生命，每回合造成 10% 點瘋狂。",
             "駭異契約：如果被擊败，此角色有機率重生為駭異宿主。此角色每有 10% 點疯狂，該機率為 10，最高機率為 100%。",
+            "在瘋狂生效時，若此角色擊敗自己，重生的機率一律為 100%。",
             "駭異宿主具有：",
             "* 100% 繼承生命。",
             "* 1200 點攻擊。",
             "* 1200 點防禦。",
             "特殊技能:駭異疫病。",
-            "* 對目標造成 400% 傷害，並對其造成 35 點瘋狂。",
-            "在瘋狂生效時，若此角色擊敗自己，重生的機率一律為 100%。"
+            "* 對目標造成 400% 傷害，並對其造成 35 點瘋狂。"
         ],
         "family": "forsaken",
         "costume_id": 0,
@@ -44395,7 +44398,7 @@ window.allHeroes =
         "types": [
             "攻擊所有目標",
             "全體治療",
-            "全體閃避增益",
+            "全體閃避率增益",
             "閃避時施加瘋狂",
             "自我狂亂"
         ],
@@ -48935,8 +48938,9 @@ window.allHeroes =
         "skill": "深淵飛鏢",
         "types": [
             "攻擊單個目標",
-            "隨機攻擊",
-            "狂亂"
+            "隨機額外攻擊",
+            "命中時瘋狂",
+            "自我狂亂"
         ],
         "skill_types": [
             "連鎖與隨機攻擊",
@@ -49165,6 +49169,7 @@ window.allHeroes =
         "types": [
             "攻擊3個目標",
             "3個目標綠玻隕石貓頭鷹惡魔",
+            "魔僕每回合驅散 1 個增益",
             "自我狂亂"
         ],
         "skill_types": [
@@ -49198,13 +49203,13 @@ window.allHeroes =
         "passives": [
             "小兵腐朽：每回合結束時，有瘋狂的敵人都有機會讓小兵變成惡魔。達到 70 點瘋狂就會自動啟動轉變。小兵變成駭異惡魔： 15% 攻擊、 18% 生命，每回合造成 5 點瘋狂。超級惡魔變成駭異超級惡魔： 115% 攻擊 68% 生命，每回合造成 10% 點瘋狂。",
             "駭異契約：如果被擊败，此角色有機率重生為駭異宿主。此角色每有 10% 點疯狂，該機率為 10，最高機率為 100%。",
+            "在瘋狂生效時，若此角色擊敗自己，重生的機率一律為 100%。",
             "駭異宿主具有：",
             "* 100% 繼承生命。",
             "* 1200 點攻擊。",
             "* 1200 點防禦。",
             "特殊技能:駭異疫病。",
-            "* 對目標造成 400% 傷害，並對其造成 35 點瘋狂。",
-            "在瘋狂生效時，若此角色擊敗自己，重生的機率一律為 100%。"
+            "* 對目標造成 400% 傷害，並對其造成 35 點瘋狂。"
         ],
         "family": "institute",
         "costume_id": 0,
@@ -49680,7 +49685,8 @@ window.allHeroes =
         "speed": "慢速",
         "skill": "部族之怒",
         "types": [
-            "攻擊增益"
+            "自我攻擊增益",
+            "全體延遲傷害"
         ],
         "skill_types": [
             "攻擊增益"
@@ -49696,7 +49702,7 @@ window.allHeroes =
         "defense": 504,
         "health": 792,
         "effects": [
-            "施法者獲得 +45% 攻擊力，自己或其盟友每次被擊中後額外增加 20% 攻擊力，持續 3 回合。該效果結束時，所有敵人受到 119 點傷害。在此期間，施法者或其盟友所受每次攻擊可使施法者造成的傷害提高 8 點，最高達到 215 點傷害。"
+            "施法者獲得 +45% 攻擊力，自己或其盟友每次被擊中後額外增加 20% 攻擊力，最高 +285% 攻擊力，持續 3 回合。該效果結束時，所有敵人受到 119 點傷害。在此期間，施法者或其盟友所受每次攻擊可使施法者造成的傷害提高 8 點，最高達到 215 點傷害。"
         ],
         "passives": [],
         "family": "niflheim",
@@ -50250,7 +50256,7 @@ window.allHeroes =
         "skill": "二連斬",
         "types": [
             "攻擊單個目標",
-            "彈射攻擊"
+            "隨機攻擊1個目標"
         ],
         "skill_types": [
             "連鎖與隨機攻擊",
@@ -50311,8 +50317,8 @@ window.allHeroes =
         "skill": "賦能連斬",
         "types": [
             "攻擊單個目標",
-            "彈射",
-            "法力生成降低"
+            "隨機攻擊1個目標",
+            "命中時施加法力生成減益"
         ],
         "skill_types": [
             "連鎖與隨機攻擊",
@@ -53727,8 +53733,8 @@ window.allHeroes =
         "skill": "夜林花粉",
         "types": [
             "攻擊所有目標",
-            "最大生命值降低",
-            "治療降低"
+            "全體最大生命值降低",
+            "全體治療降低"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -53747,7 +53753,7 @@ window.allHeroes =
         "health": 1083,
         "effects": [
             "對所有敵人造成 150% 傷害。",
-            "使所有敵人的最大生命值降低 100 點。對有生命加成的目標效果更大。最大生命值不得低於原最大生命值的 30%。任何生命值加成會造成額外降低 100 點。",
+            "使所有敵人的最大生命值降低 100 點。對有生命加成的目標效果更大。（最大生命值不得低於原最大生命值的 30% 任何生命值加成每回合會造成额外降低 100 點。）",
             "所有敵人獲得的治療減少 -50%，持續 4 回合。"
         ],
         "passives": [],
@@ -53789,7 +53795,9 @@ window.allHeroes =
         "speed": "中等",
         "skill": "夜綻煙塵",
         "types": [
-            "攻擊3個目標"
+            "攻擊3個目標",
+            "3個目標法力削減",
+            "3個目標治療降低"
         ],
         "skill_types": [
             "範圍攻擊 (打3)",
@@ -55762,8 +55770,8 @@ window.allHeroes =
         "skill": "瘋狂燈籠",
         "types": [
             "攻擊所有目標",
-            "狂亂",
-            "增益免疫",
+            "全體狂亂",
+            "全體增益免疫",
             "自我狂亂"
         ],
         "skill_types": [
@@ -57263,7 +57271,7 @@ window.allHeroes =
         "effects": [
             "對命中的目標造成 200% 傷害。",
             "對隨機敵人施放 5 個暗黑立方體。",
-            "暗黑立方體會使目標的最大生命值降低 224 點。最大生命值不得低於原最大生命值的 30%。",
+            "暗黑立方體會使目標的最大生命值降低 224 點。對有生命加成的目標效果更大。（最大生命值不得低於原最大生命值的 30% 任何生命值加成每回合會造成额外降低 224 點。）",
             "在 3 回合內，若命中的敵人在回合開始時法力滿格，該敵人將自動對一名隨機盟友施放莽夫亂拳。"
         ],
         "passives": [],
@@ -57329,7 +57337,7 @@ window.allHeroes =
         "effects": [
             "對命中的目標造成 240% 傷害。",
             "對隨機敵人施放 5 個暗黑立方體。",
-            "暗黑立方體會使目標的最大生命值降低 184 點。此效果對有生命加成的目標效果更大。最大生命值不得低於原最大生命值的 30%。任何生命值加成會造成額外降低 184 點。",
+            "暗黑立方體會使目標的最大生命值降低 184 點。對有生命加成的目標效果更大。（最大生命值不得低於原最大生命值的 30% 任何生命值加成每回合會造成额外降低 184 點。）",
             "在 3 回合內，若命中的敵人在回合開始時法力滿格，該敵人將自動對一名隨機盟友施放莽夫亂拳。"
         ],
         "passives": [],
@@ -58147,6 +58155,7 @@ window.allHeroes =
         "types": [
             "攻擊3個目標",
             "3個目標狂亂",
+            "強制施加 3 個不可淨化的異常狀態",
             "自我狂亂"
         ],
         "skill_types": [
@@ -58696,7 +58705,7 @@ window.allHeroes =
         "effects": [
             "為每個盟友召喚一個蛾小兵。蛾小兵繼承施法者 30% 攻擊與 30% 生命。",
             "蛾小兵的每一次攻擊都會對被命中的目標施加下列的狀態異常：",
-            "* 目標在 3 回合內受到共計 138 點劇毒傷害。",
+            "* 目標在 3 回合內受到共計 153 點劇毒傷害。",
             "* 目標在 3 回合內無法獲得新的小兵。"
         ],
         "passives": [],
@@ -61319,6 +61328,7 @@ window.allHeroes =
         "skill": "渡鴉警備",
         "types": [
             "召喚所有",
+            "全體小怪攻擊增益",
             "全體防禦增益"
         ],
         "skill_types": [
@@ -61381,6 +61391,7 @@ window.allHeroes =
         "skill": "渡鴉看守",
         "types": [
             "召喚所有",
+            "全體小怪攻擊增益",
             "全體閃避率增益"
         ],
         "skill_types": [
@@ -63044,7 +63055,8 @@ window.allHeroes =
         "types": [
             "單體防禦降低",
             "攻擊單個目標",
-            "狂亂"
+            "擊殺時對附近 2 個目標施加瘋狂",
+            "自我狂亂"
         ],
         "skill_types": [
             "防禦減益",
@@ -66405,9 +66417,10 @@ window.allHeroes =
         "speed": "慢速",
         "skill": "殘酷甦醒",
         "types": [
-            "復活者",
-            "防禦增益",
-            "狂亂"
+            "全體復活並帶有瘋狂狀態",
+            "全體特殊技能防禦增益",
+            "若釋放者被擊敗則傷害全體",
+            "自我狂亂"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -67636,9 +67649,10 @@ window.allHeroes =
         "speed": "快速",
         "skill": "黑天鵝之舞",
         "types": [
-            "治療者",
-            "黑天鵝之舞",
-            "隨機攻擊1個目標"
+            "全體治療",
+            "黑天鵝之舞 (4個目標)",
+            "舞蹈時隨機攻擊 1 個目標",
+            "舞蹈時異常狀態免疫"
         ],
         "skill_types": [
             "舞者",
@@ -67669,7 +67683,7 @@ window.allHeroes =
             "* 此效果無法驅散。施法者陣亡後效果移除。"
         ],
         "passives": [
-            "抵禦防禦異常：此角色對影響防禦的狀態異常具有天生抗性。不適用影響元素防禦的狀態異常。",
+            "抵禦防禦異常：此英雄對影響防禦的狀態異常和負面疊加具有天生抗性。不適用影響元素防禦的狀態異常。",
             "狀態異常失效或被清除時獲得治療：每次此角色身上的狀態異常失效或被淨化、被移除或轉移時，獲得 5% 生命值。此效果每回合僅能啟動一次。"
         ],
         "family": "opera",
@@ -69070,7 +69084,7 @@ window.allHeroes =
             "對所有神聖系敵人造成 350% 傷害。",
             "在 4 回合內，所有敵人的元素每回合都會改變。前 3 回合，元素是隨機的。",
             "最後一回合，敵人會恢復其原始元素。",
-            "每次元素改變後，如果敵人元素是神聖系，則受到 736 點傷害。"
+            "每次元素改變後，如果敵人元素是神聖系，則受到 811 點傷害。"
         ],
         "passives": [],
         "family": "niflheim",
@@ -74831,8 +74845,8 @@ window.allHeroes =
         "speed": "中等",
         "skill": "疫病斧",
         "types": [
-            "攻擊所有目標",
-            "法力生成降低"
+            "攻擊3個目標",
+            "3個目標法力生成降低"
         ],
         "skill_types": [
             "範圍攻擊 (打3)",
@@ -74891,7 +74905,7 @@ window.allHeroes =
         "skill": "惡毒利斧",
         "types": [
             "攻擊所有目標",
-            "法力削減"
+            "全體法力削減"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -76419,7 +76433,7 @@ window.allHeroes =
         "types": [
             "攻擊3個目標",
             "3個目標狂亂",
-            "自我攻擊疊加",
+            "自身攻擊增益疊加",
             "自我狂亂"
         ],
         "skill_types": [
@@ -80649,8 +80663,9 @@ window.allHeroes =
         "speed": "慢速",
         "skill": "永恆苦役",
         "types": [
-            "攻擊與暴擊增益",
-            "殭屍增益"
+            "全體攻擊增益",
+            "全體暴擊幾率增益",
+            "全體殭屍增益"
         ],
         "skill_types": [
             "攻擊增益",
@@ -81562,8 +81577,9 @@ window.allHeroes =
         "types": [
             "攻擊所有目標",
             "召喚所有",
-            "持續傷害",
-            "狂亂"
+            "帶持續傷害的小怪",
+            "帶瘋狂效果的小怪",
+            "自我狂亂"
         ],
         "skill_types": [
             "全體攻擊 (打5)",
@@ -83793,7 +83809,7 @@ window.allHeroes =
         "speed": "非常慢",
         "skill": "受詛咒的畫作",
         "types": [
-            "驅散者",
+            "全體驅散",
             "攻擊所有目標",
             "全體詛咒畫像"
         ],
@@ -85874,6 +85890,7 @@ window.allHeroes =
             "攻擊3個目標",
             "3個目標狂亂",
             "3個目標持續傷害",
+            "處於持續傷害狀態時全體治療",
             "自我狂亂"
         ],
         "skill_types": [
@@ -85904,13 +85921,13 @@ window.allHeroes =
         "passives": [
             "小兵腐朽：每回合結束時，有瘋狂的敵人都有機會讓小兵變成惡魔。達到 70 點瘋狂就會自動啟動轉變。小兵變成駭異惡魔： 15% 攻擊、 18% 生命，每回合造成 5 點瘋狂。超級惡魔變成駭異超級惡魔： 115% 攻擊 68% 生命，每回合造成 10% 點瘋狂。",
             "駭異契約：如果被擊败，此角色有機率重生為駭異宿主。此角色每有 10% 點疯狂，該機率為 10，最高機率為 100%。",
+            "在瘋狂生效時，若此角色擊敗自己，重生的機率一律為 100%。",
             "駭異宿主具有：",
             "* 100% 繼承生命。",
             "* 1200 點攻擊。",
             "* 1200 點防禦。",
             "特殊技能:駭異疫病。",
-            "* 對目標造成 400% 傷害，並對其造成 35 點瘋狂。",
-            "在瘋狂生效時，若此角色擊敗自己，重生的機率一律為 100%。"
+            "* 對目標造成 400% 傷害，並對其造成 35 點瘋狂。"
         ],
         "family": "forsaken",
         "costume_id": 0,
@@ -94580,7 +94597,8 @@ window.allHeroes =
         "skill": "乎魯切痕",
         "types": [
             "攻擊2個目標",
-            "2個目標每次抵抗治療時受到傷害",
+            "2個目標治療抵抗減益",
+            "企圖治療時受到傷害",
             "自我狂亂"
         ],
         "skill_types": [
@@ -97551,7 +97569,7 @@ window.allHeroes =
             "攻擊有 60% 的機率無視防禦增益。（包含反擊。）",
             "目標在 4 回合內受到共計 212 點流血傷害。",
             "施法者在 4 回合內恢復 548 點生命值。",
-            "如果施法者在後續 4 個回合中被擊敗，他們將在下一個回合開始時以 32% 生命值復活。施法者被擊敗時，所有狀態效果與疊加會被移除。"
+            "如果施法者在後續 4 個回合中被擊敗，他們將在下一個回合開頭以 32% 生命值復活。施法者被擊敗時，所有狀態效果與疊加會被移除。"
         ],
         "passives": [],
         "family": "helheim",
@@ -97601,6 +97619,7 @@ window.allHeroes =
             "攻擊3個目標",
             "無視防禦",
             "3個目標持續傷害",
+            "處於持續傷害狀態時治療自身",
             "自我復活"
         ],
         "skill_types": [
@@ -97626,7 +97645,7 @@ window.allHeroes =
             "對目標及附近敵人造成 260% 傷害。",
             "攻擊會無視防禦增益。（包含反擊。）",
             "目標與附近敵人在 4 回合內受到共計 648 點流血傷害。施法者能吸收所造成之流血傷害的 40% 作為生命值。",
-            "如果施法者在後續 4 個回合中被擊敗，他們將在下一個回合開始時以 40% 生命值復活。施法者被擊敗時，所有狀態效果與疊加會被移除。"
+            "如果施法者在後續 4 個回合中被擊敗，他們將在下一個回合開頭以 40% 生命值復活。施法者被擊敗時，所有狀態效果與疊加會被移除。"
         ],
         "passives": [],
         "family": "helheim",
@@ -98133,6 +98152,7 @@ window.allHeroes =
         "speed": "快速",
         "skill": "揮發水晶導管",
         "types": [
+            "無視防禦",
             "攻擊單個目標",
             "連鎖攻擊",
             "命中時瘋狂",
@@ -98160,8 +98180,9 @@ window.allHeroes =
         "defense": 1293,
         "health": 2241,
         "effects": [
+            "攻擊會無視防禦增益。",
             "對目標造成 265% 傷害。",
-            "當任何敵人遭到攻擊命中時，鄰近的所有敵人都會受到連鎖攻擊且無視防禦增益。",
+            "當任何敵人遭到攻擊命中時，鄰近的所有敵人都會受到連鎖攻擊。",
             "所有被擊中的目標獲得 20 點瘋狂。",
             "在 1 個回合後，目標會遭到麻痺，持續 4 個回合。（麻痹的敵人無法进行攻墼或獲得法力，受到的傷害也會提高 +50%。一旦被麻痺，效果無法淨化。頭目、泰坦和神話泰坦不受此状態效果影響。）",
             "對施法者造成 40 點瘋狂。"
@@ -98169,13 +98190,13 @@ window.allHeroes =
         "passives": [
             "小兵腐朽：每回合結束時，有瘋狂的敵人都有機會讓小兵變成惡魔。達到 70 點瘋狂就會自動啟動轉變。小兵變成駭異惡魔： 15% 攻擊、 18% 生命，每回合造成 5 點瘋狂。超級惡魔變成駭異超級惡魔： 115% 攻擊 68% 生命，每回合造成 10% 點瘋狂。",
             "駭異契約：如果被擊败，此角色有機率重生為駭異宿主。此角色每有 10% 點疯狂，該機率為 10，最高機率為 100%。",
+            "在瘋狂生效時，若此角色擊敗自己，重生的機率一律為 100%。",
             "駭異宿主具有：",
             "* 100% 繼承生命。",
             "* 1200 點攻擊。",
             "* 1200 點防禦。",
             "特殊技能:駭異疫病。",
-            "* 對目標造成 400% 傷害，並對其造成 35 點瘋狂。",
-            "在瘋狂生效時，若此角色擊敗自己，重生的機率一律為 100%。"
+            "* 對目標造成 400% 傷害，並對其造成 35 點瘋狂。"
         ],
         "family": "institute",
         "costume_id": 0,
@@ -104558,7 +104579,7 @@ window.allHeroes =
         "health": 1486,
         "effects": [
             "所有盟友在 4 個回合內恢復 480 點加成生命值。加成生命值能夠超過最大生命值。",
-            "施法者獲得 +35% 攻擊力，自己或其盟友每次被擊中後額外增加 15% 攻擊力，最高 +215 攻擊力，持續 4 回合。此效果結束時，所有敵人受到 236 點傷害。在此期間，施法者或其盟友所受每次攻擊可使施法者造成的傷害提高 15 點，最高達到 416 點傷害。"
+            "施法者獲得 +35% 攻擊力，自己或其盟友每次被擊中後額外增加 15% 攻擊力，最高 +215 攻擊力，持續 4 回合。該效果結束時，所有敵人受到 236 點傷害。在此期間，施法者或其盟友所受每次攻擊可使施法者造成的傷害提高 15 點，最高達到 416 點傷害。"
         ],
         "passives": [],
         "family": "asgard",
@@ -105454,6 +105475,7 @@ window.allHeroes =
         "types": [
             "攻擊3個目標",
             "3個目標增益免疫減益",
+            "3個目標特殊技能防禦降低",
             "3個目標法力生成降低"
         ],
         "skill_types": [
@@ -117750,6 +117772,95 @@ window.allHeroes =
         ]
     },
     {
+        "name": "安柏斯教授 (Prof. Ambrose)",
+        "fancy_name": "學院院長",
+        "AetherPower": "壁壘",
+        "color": "黃",
+        "class": "牧師",
+        "speed": "慢速",
+        "skill": "統治法杖",
+        "types": [
+            "全體恐懼減益",
+            "全體攻擊衰減",
+            "攻擊所有目標",
+            "全體狂亂",
+            "自我狂亂"
+        ],
+        "skill_types": [
+            "防禦減益",
+            "驅散",
+            "增益格擋者",
+            "額外傷害",
+            "屬性修改",
+            "全體攻擊 (打5)",
+            "失心攻擊&治療",
+            "對自身或友軍負面效果"
+        ],
+        "source": "暗影召喚",
+        "Release date": "2026-03-22",
+        "specialId": "staff_of_domination",
+        "passiveSkills": [
+            "damage_increase_by_insanity",
+            "corrupt_minions_all_enemies"
+        ],
+        "heroId": "institute_professor_ambrose",
+        "star": 5,
+        "power": 1289,
+        "attack": 1316,
+        "defense": 1361,
+        "health": 2307,
+        "effects": [
+            "所有敵人屈服於恐懼，持續 5 回合。（目標獲得 -40% 防禦。 當加入恐懼狀態效果時，會移除所有可被驅散的增益效果與成長效果。目標在持續時間內無法獲得新的增益或成長效果。每當其他盟友施放特殊技能時，受到恐懼影響的目標，會對隨機盟友造成 160% 傷害。每個角色 每回合只能觸發一次此效果。）",
+            "枯萎：所有敵人獲得 -400 點攻擊。",
+            "對所有敵人造成 400% 傷害，并对其造成 25 點疯狂。",
+            "對施法者造成 45 點瘋狂。"
+        ],
+        "passives": [
+            "小兵腐朽：每回合結束時，有瘋狂的敵人都有機會讓小兵變成惡魔。達到 70 點瘋狂就會自動啟動轉變。小兵變成駭異惡魔： 15% 攻擊、 18% 生命，每回合造成 5 點瘋狂。超級惡魔變成駭異超級惡魔： 115% 攻擊 68% 生命，每回合造成 10% 點瘋狂。",
+            "被舊者烙印：此角色每有 10 點疯狂，其普通攻擊和特殊技能造成的所有傷害提升 6%，最高提升 60%。"
+        ],
+        "family": "institute",
+        "costume_id": 0,
+        "originalIndex": 1660,
+        "lb1": {
+            "attack": 1418,
+            "defense": 1467,
+            "health": 2486,
+            "power": 1380
+        },
+        "lb2": {
+            "attack": 1623,
+            "defense": 1678,
+            "health": 2844,
+            "power": 1561
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：全體"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "傷害-條件觸發"
+                ]
+            },
+            {
+                "增益效果": [
+                    "狀態-驅散增益"
+                ]
+            },
+            {
+                "负面效果": [
+                    "防禦-防禦力↓",
+                    "狀態-增益無效化",
+                    "攻擊-枯萎：攻擊力↓",
+                    "狀態-狂亂"
+                ]
+            }
+        ]
+    },
+    {
         "name": "莉登布洛克教授 (Prof. Lidenbrock)",
         "fancy_name": "明智科學家",
         "AetherPower": "治療增加",
@@ -117789,7 +117900,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1660,
+        "originalIndex": 1661,
         "lb1": {
             "attack": 803,
             "defense": 870,
@@ -117861,7 +117972,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1661,
+        "originalIndex": 1662,
         "lb1": {
             "attack": 1038,
             "defense": 1125,
@@ -117924,7 +118035,7 @@ window.allHeroes =
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1662,
+        "originalIndex": 1663,
         "lb1": {
             "attack": 859,
             "defense": 896,
@@ -117995,7 +118106,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1663,
+        "originalIndex": 1664,
         "lb1": {
             "attack": 792,
             "defense": 765,
@@ -118065,7 +118176,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1664,
+        "originalIndex": 1665,
         "lb1": {
             "attack": 1004,
             "defense": 979,
@@ -118134,7 +118245,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1665,
+        "originalIndex": 1666,
         "lb1": {
             "attack": 828,
             "defense": 843,
@@ -118203,7 +118314,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1666,
+        "originalIndex": 1667,
         "lb1": {
             "attack": 1338,
             "defense": 1385,
@@ -118270,7 +118381,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1667,
+        "originalIndex": 1668,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -118342,7 +118453,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1668,
+        "originalIndex": 1669,
         "lb1": {
             "attack": 821,
             "defense": 796,
@@ -118408,7 +118519,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1669,
+        "originalIndex": 1670,
         "lb1": {
             "attack": 1023,
             "defense": 1010,
@@ -118485,7 +118596,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1670,
+        "originalIndex": 1671,
         "lb1": {
             "attack": 1167,
             "defense": 1252,
@@ -118566,7 +118677,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1671,
+        "originalIndex": 1672,
         "lb1": {
             "attack": 1345,
             "defense": 1314,
@@ -118647,7 +118758,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1672,
+        "originalIndex": 1673,
         "lb1": {
             "attack": 1329,
             "defense": 1276,
@@ -118720,7 +118831,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1673,
+        "originalIndex": 1674,
         "lb1": {
             "attack": 1338,
             "defense": 1316,
@@ -118807,7 +118918,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1674,
+        "originalIndex": 1675,
         "lb1": {
             "attack": 1500,
             "defense": 1349,
@@ -118878,7 +118989,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1675,
+        "originalIndex": 1676,
         "lb1": {
             "attack": 1125,
             "defense": 1172,
@@ -118961,7 +119072,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1676,
+        "originalIndex": 1677,
         "lb1": {
             "attack": 976,
             "defense": 1107,
@@ -119048,7 +119159,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1677,
+        "originalIndex": 1678,
         "lb1": {
             "attack": 1440,
             "defense": 1367,
@@ -119124,7 +119235,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1678,
+        "originalIndex": 1679,
         "lb1": {
             "attack": 1136,
             "defense": 1238,
@@ -119193,7 +119304,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1679,
+        "originalIndex": 1680,
         "lb1": {
             "attack": 850,
             "defense": 772,
@@ -119255,7 +119366,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1680,
+        "originalIndex": 1681,
         "lb1": {
             "attack": 1037,
             "defense": 1031,
@@ -119319,7 +119430,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1681,
+        "originalIndex": 1682,
         "lb1": {
             "attack": 1334,
             "defense": 1309,
@@ -119386,7 +119497,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1682,
+        "originalIndex": 1683,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -119458,7 +119569,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1683,
+        "originalIndex": 1684,
         "lb1": {
             "attack": 1209,
             "defense": 1165,
@@ -119542,7 +119653,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1684,
+        "originalIndex": 1685,
         "lb1": {
             "attack": 1474,
             "defense": 1249,
@@ -119612,7 +119723,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1685,
+        "originalIndex": 1686,
         "lb1": {
             "attack": 1090,
             "defense": 1156,
@@ -119685,7 +119796,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1686,
+        "originalIndex": 1687,
         "lb1": {
             "attack": 808,
             "defense": 792,
@@ -119754,7 +119865,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1687,
+        "originalIndex": 1688,
         "lb1": {
             "attack": 1008,
             "defense": 1020,
@@ -119825,7 +119936,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1688,
+        "originalIndex": 1689,
         "lb1": {
             "attack": 927,
             "defense": 941,
@@ -119902,7 +120013,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1689,
+        "originalIndex": 1690,
         "lb1": {
             "attack": 1258,
             "defense": 1147,
@@ -119975,7 +120086,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1690,
+        "originalIndex": 1691,
         "lb1": {
             "attack": 885,
             "defense": 759,
@@ -120052,7 +120163,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1691,
+        "originalIndex": 1692,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -120133,7 +120244,7 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1692,
+        "originalIndex": 1693,
         "lb1": {
             "attack": 1367,
             "defense": 1427,
@@ -120220,7 +120331,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1693,
+        "originalIndex": 1694,
         "lb1": {
             "attack": 1012,
             "defense": 1018,
@@ -120318,7 +120429,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1694,
+        "originalIndex": 1695,
         "lb1": {
             "attack": 1336,
             "defense": 1353,
@@ -120390,7 +120501,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1695,
+        "originalIndex": 1696,
         "lb1": {
             "attack": 770,
             "defense": 748,
@@ -120459,7 +120570,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1696,
+        "originalIndex": 1697,
         "lb1": {
             "attack": 860,
             "defense": 852,
@@ -120528,7 +120639,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1697,
+        "originalIndex": 1698,
         "lb1": {
             "attack": 967,
             "defense": 976,
@@ -120601,7 +120712,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1698,
+        "originalIndex": 1699,
         "lb1": {
             "attack": 1187,
             "defense": 1197,
@@ -120678,7 +120789,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1699,
+        "originalIndex": 1700,
         "lb1": {
             "attack": 1336,
             "defense": 1355,
@@ -120752,7 +120863,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1700,
+        "originalIndex": 1701,
         "lb1": {
             "attack": 1408,
             "defense": 1437,
@@ -120821,7 +120932,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1701,
+        "originalIndex": 1702,
         "lb1": {
             "attack": 1276,
             "defense": 1207,
@@ -120902,7 +121013,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1702,
+        "originalIndex": 1703,
         "lb1": {
             "attack": 1198,
             "defense": 1332,
@@ -120984,7 +121095,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1703,
+        "originalIndex": 1704,
         "lb1": {
             "attack": 1391,
             "defense": 1414,
@@ -121050,7 +121161,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1704,
+        "originalIndex": 1705,
         "lb1": {
             "attack": 788,
             "defense": 808,
@@ -121115,7 +121226,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 1705,
+        "originalIndex": 1706,
         "lb1": {
             "attack": 1014,
             "defense": 998,
@@ -121199,7 +121310,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1706,
+        "originalIndex": 1707,
         "lb1": {
             "attack": 896,
             "defense": 970,
@@ -121281,7 +121392,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1707,
+        "originalIndex": 1708,
         "lb1": {
             "attack": 1036,
             "defense": 1132,
@@ -121350,7 +121461,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1708,
+        "originalIndex": 1709,
         "lb1": {
             "attack": 828,
             "defense": 845,
@@ -121423,7 +121534,7 @@ window.allHeroes =
         ],
         "family": "wolf",
         "costume_id": 1,
-        "originalIndex": 1709,
+        "originalIndex": 1710,
         "lb1": {
             "attack": 1222,
             "defense": 1258,
@@ -121503,7 +121614,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1710,
+        "originalIndex": 1711,
         "lb1": {
             "attack": 1354,
             "defense": 1418,
@@ -121572,7 +121683,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1711,
+        "originalIndex": 1712,
         "lb1": {
             "attack": 1305,
             "defense": 1256,
@@ -121650,7 +121761,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1712,
+        "originalIndex": 1713,
         "lb1": {
             "attack": 1025,
             "defense": 956,
@@ -121726,7 +121837,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1713,
+        "originalIndex": 1714,
         "lb1": {
             "attack": 1469,
             "defense": 1355,
@@ -121797,7 +121908,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1714,
+        "originalIndex": 1715,
         "lb1": {
             "attack": 879,
             "defense": 947,
@@ -121871,7 +121982,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1715,
+        "originalIndex": 1716,
         "lb1": {
             "attack": 1296,
             "defense": 1374,
@@ -121952,7 +122063,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1716,
+        "originalIndex": 1717,
         "lb1": {
             "attack": 1398,
             "defense": 1258,
@@ -122021,7 +122132,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1717,
+        "originalIndex": 1718,
         "lb1": {
             "attack": 863,
             "defense": 814,
@@ -122099,7 +122210,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1718,
+        "originalIndex": 1719,
         "lb1": {
             "attack": 1128,
             "defense": 1044,
@@ -122175,7 +122286,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1719,
+        "originalIndex": 1720,
         "lb1": {
             "attack": 1070,
             "defense": 1078,
@@ -122239,7 +122350,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1720,
+        "originalIndex": 1721,
         "lb1": {
             "attack": 923,
             "defense": 816,
@@ -122310,7 +122421,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1721,
+        "originalIndex": 1722,
         "lb1": {
             "attack": 1288,
             "defense": 1072,
@@ -122379,7 +122490,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1722,
+        "originalIndex": 1723,
         "lb1": {
             "attack": 765,
             "defense": 947,
@@ -122452,7 +122563,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1723,
+        "originalIndex": 1724,
         "lb1": {
             "attack": 1024,
             "defense": 1282,
@@ -122523,7 +122634,7 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1724,
+        "originalIndex": 1725,
         "lb1": {
             "attack": 1414,
             "defense": 1465,
@@ -122593,7 +122704,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1725,
+        "originalIndex": 1726,
         "lb1": {
             "attack": 939,
             "defense": 1076,
@@ -122623,32 +122734,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "安柏斯教授 (Prof. Ambrose)",
-        "fancy_name": "學院院長",
-        "AetherPower": "",
-        "color": "黃",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "institute_professor_ambrose",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "institute",
-        "costume_id": 0,
-        "originalIndex": 1726,
-        "cn_skill_info": []
     },
     {
         "name": "盧斯特力爵士 (Sir Roostley) C1",

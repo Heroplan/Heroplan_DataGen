@@ -358,7 +358,7 @@ const allTranslations =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* All allies get +21% critical chance for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ]
     },
     {
@@ -884,7 +884,7 @@ const allTranslations =
         "name": "Ascian",
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
-            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Insanity: This character is immune to Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ]
     },
@@ -916,7 +916,7 @@ const allTranslations =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
             "* Deals 80% damage to all enemies.",
             "* The caster get +19% mana generation for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ]
     },
     {
@@ -1047,13 +1047,13 @@ const allTranslations =
         "passives": [
             "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
+            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%.",
             "The Eldritch Host has",
             "* 100% inherited health.",
             "* 1200 attack.",
             "* 1200 defense.",
-            "Special Skill - Eldrich Bright.",
-            "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
+            "Special Skill - Eldritch Bright.",
+            "* Deals 400% damage to the target and inflicts 35 Insanity on them."
         ]
     },
     {
@@ -1094,7 +1094,7 @@ const allTranslations =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* All allies get +21% critical chance for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ]
     },
     {
@@ -1213,7 +1213,8 @@ const allTranslations =
         "name": "Emilie",
         "passives": [
             "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
-            "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%. If this character defeats themself when activating Insanity, the chance to be reborn is always 100%.",
+            "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
+            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%.",
             "The Eldritch Host has:",
             "* 100% inherited health.",
             "* 1200 attack.",
@@ -1557,7 +1558,7 @@ const allTranslations =
         "name": "Jolyon",
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
-            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Insanity: This character is immune to Insanity.",
             "Resist Defense Ailments: This character has innate resistance against status ailments, stacks and Wither effects that affect defense."
         ]
     },
@@ -1767,7 +1768,7 @@ const allTranslations =
         "heroId": "ice_god_miki",
         "name": "Miki",
         "passives": [
-            "Resist Special Skill Blocking: This character has is immune to status ailments that prevent the use of Special Skill."
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skill."
         ]
     },
     {
@@ -2308,7 +2309,7 @@ const allTranslations =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* All allies get +21% critical chance for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ]
     },
     {
@@ -2424,7 +2425,7 @@ const allTranslations =
         "name": "Verity",
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
-            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Insanity: This character is immune to Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ]
     },
@@ -3242,7 +3243,7 @@ const allTranslations =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* All allies get +19% mana generation for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ]
     },
     {
@@ -3250,7 +3251,7 @@ const allTranslations =
         "name": "Myrtle",
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
-            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Insanity: This character is immune to Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ]
     },
@@ -3590,7 +3591,7 @@ const allTranslations =
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
             "Resist Defense Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect defense.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ]
     },
     {
@@ -3832,13 +3833,13 @@ const allTranslations =
         "passives": [
             "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
+            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%.",
             "The Eldritch Host has:",
             "* 100% inherited health.",
             "* 1200 attack.",
             "* 1200 defense.",
-            "Special Skill: Eldrich Bright.",
-            "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
+            "Special Skill: Eldritch Bright.",
+            "* Deals 400% damage to the target and inflicts 35 Insanity on them."
         ]
     },
     {
@@ -4023,7 +4024,7 @@ const allTranslations =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* All allies get +21% critical chance for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ]
     },
     {
@@ -4064,7 +4065,7 @@ const allTranslations =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* All allies get +21% critical chance for 2 turns.",
-            "Resist Insanity: This character has an innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ]
     },
     {
@@ -4298,13 +4299,13 @@ const allTranslations =
         "passives": [
             "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
+            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%.",
             "The Eldritch Host has:",
             "* 100% inherited health.",
             "* 1200 attack.",
             "* 1200 defense.",
-            "Special Skill: Eldrich Bright.",
-            "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
+            "Special Skill: Eldritch Bright.",
+            "* Deals 400% damage to the target and inflicts 35 Insanity on them."
         ]
     },
     {
@@ -4647,7 +4648,7 @@ const allTranslations =
         "name": "Peregrine",
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
-            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Insanity: This character is immune to Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ]
     },
@@ -4842,7 +4843,7 @@ const allTranslations =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* The caster gets +19% mana generation for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ]
     },
     {
@@ -5144,13 +5145,13 @@ const allTranslations =
         "passives": [
             "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
+            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%.",
             "The Eldritch Host has:",
             "* 100% inherited health.",
             "* 1200 attack.",
             "* 1200 defense.",
-            "Special Skill: Eldrich Bright.",
-            "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
+            "Special Skill: Eldritch Bright.",
+            "* Deals 400% damage to the target and inflicts 35 Insanity on them."
         ]
     },
     {
@@ -5777,7 +5778,7 @@ const allTranslations =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* The caster gets +19% mana generation for 2 turns.",
-            "Resist Insanity: This character has an innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ]
     },
     {
@@ -6929,7 +6930,7 @@ const allTranslations =
         "name": "Maud",
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
-            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Insanity: This character is immune to Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ]
     },
@@ -6949,7 +6950,7 @@ const allTranslations =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* The caster gets +19% mana generation for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ]
     },
     {
@@ -7071,7 +7072,7 @@ const allTranslations =
         "heroId": "ballerina_odile",
         "name": "Odile",
         "passives": [
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Doesn't apply to status ailments that affect elemental defense.",
+            "Resist Defense Ailments: The character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
             "Heal when status ailment expires or is cleared: This character receives 5% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ]
     },
@@ -7125,7 +7126,7 @@ const allTranslations =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* All allies get +21% critical chance for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ]
     },
     {
@@ -7423,7 +7424,7 @@ const allTranslations =
         "heroId": "faun_tamlin",
         "name": "Tamlin",
         "passives": [
-            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Insanity: This character is immune to Insanity.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stacks.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ]
@@ -7507,7 +7508,7 @@ const allTranslations =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* The caster gets +19% mana generation for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ]
     },
     {
@@ -7663,7 +7664,7 @@ const allTranslations =
         "name": "Ysabel",
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
-            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Insanity: This character is immune to Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ]
     },
@@ -7765,7 +7766,7 @@ const allTranslations =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* The caster gets +19% mana generation for 2 turns.",
-            "Resist Insanity: This character has an innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ]
     },
     {
@@ -8585,7 +8586,7 @@ const allTranslations =
         "name": "Araminta",
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
-            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Insanity: This character is immune to Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ]
     },
@@ -8960,13 +8961,13 @@ const allTranslations =
         "passives": [
             "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
+            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%.",
             "The Eldritch Host has:",
             "* 100% inherited health.",
             "* 1200 attack.",
             "* 1200 defense.",
-            "Special Skill: Eldrich Bright.",
-            "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
+            "Special Skill: Eldritch Bright.",
+            "* Deals 400% damage to the target and inflicts 35 Insanity on them."
         ]
     },
     {
@@ -8993,7 +8994,7 @@ const allTranslations =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:",
             "* Deals 80% damage to all enemies.",
             "* The caster get +19% mana generation for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ]
     },
     {
@@ -9252,7 +9253,7 @@ const allTranslations =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* The caster gets +19% mana generation for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ]
     },
     {
@@ -9548,7 +9549,7 @@ const allTranslations =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* All allies get +21% critical chance for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ]
     },
     {
@@ -10244,13 +10245,13 @@ const allTranslations =
         "passives": [
             "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
+            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%.",
             "The Eldritch Host has:",
             "* 100% inherited health.",
             "* 1200 attack.",
             "* 1200 defense.",
-            "Special Skill: Eldrich Bright.",
-            "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
+            "Special Skill: Eldritch Bright.",
+            "* Deals 400% damage to the target and inflicts 35 Insanity on them."
         ]
     },
     {
@@ -10303,7 +10304,7 @@ const allTranslations =
         "name": "Yolanda",
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
-            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Insanity: This character is immune to Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ]
     },
@@ -12302,6 +12303,14 @@ const allTranslations =
         "passives": []
     },
     {
+        "heroId": "institute_professor_ambrose",
+        "name": "Prof. Ambrose",
+        "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
+            "Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 6% per 10 Insanity on this character, up to 60%."
+        ]
+    },
+    {
         "heroId": "s4_professor_lidenbrock",
         "name": "Prof. Lidenbrock",
         "passives": [
@@ -12824,11 +12833,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "institute_professor_ambrose",
-        "name": "Prof. Ambrose",
-        "passives": []
     },
     {
         "heroId": "easter_sir_roostley_costume_alchemist",

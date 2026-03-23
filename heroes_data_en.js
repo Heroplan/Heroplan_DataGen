@@ -1620,7 +1620,7 @@ window.allHeroes =
         "skill": "Jab and Hook",
         "types": [
             "Hit 1",
-            "Stacking"
+            "Attack Buff Stack Self"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -2066,7 +2066,7 @@ window.allHeroes =
         "skill": "Frosty Axes",
         "types": [
             "Hit 3",
-            "Elemental Defense Debuff"
+            "Elemental Defense Debuff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -2083,8 +2083,8 @@ window.allHeroes =
         "defense": 406,
         "health": 818,
         "effects": [
-            "Deals 245% damage to the target and minor damage to nearby enemies",
-            "The target and nearby enemies get -54% defense against Ice for 4 turns"
+            "Deals 245% damage to the target and minor damage to nearby enemies.",
+            "The target and nearby enemies get -54% defense against Ice for 4 turns."
         ],
         "passives": [],
         "family": "jotunheim",
@@ -2125,7 +2125,7 @@ window.allHeroes =
         "skill": "Icy Axes",
         "types": [
             "Hit 3",
-            "Elemental Defense Debuff"
+            "Elemental Defense Debuff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -2144,7 +2144,7 @@ window.allHeroes =
         "defense": 433,
         "health": 902,
         "effects": [
-            "Deals 230% damage to the target and nearby enemies.",
+            "Deals 220% damage to the target and nearby enemies.",
             "All enemies get -54% defense against Ice for 3 turns. Against Fire characters, this status effect becomes uncleansable and lasts 2 turns longer."
         ],
         "passives": [],
@@ -3423,7 +3423,7 @@ window.allHeroes =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* All allies get +21% critical chance for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
@@ -5602,7 +5602,7 @@ window.allHeroes =
             "Hit 3",
             "Insanity 3",
             "DoT 3",
-            "Self Insanity"
+            "Insanity Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -5625,7 +5625,7 @@ window.allHeroes =
         "effects": [
             "Deals 280% damage to the target and nearby enemies and inflicts 15 Insanity on them.",
             "The target and nearby enemies receive 388 Curse damage over 4 turns, starting low and increasing every turn.",
-            "Inflicts 55 Insanity to the caster."
+            "Casting this Special Skill inflicts 55 Insanity on the caster."
         ],
         "passives": [
             "Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 6% per 10 Insanity on this character, up to 60%."
@@ -5740,7 +5740,7 @@ window.allHeroes =
         "skill": "Chain of Pain",
         "types": [
             "Hit 3",
-            "Stacking"
+            "Attack Buff Stack Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -8444,7 +8444,7 @@ window.allHeroes =
         ],
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
-            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Insanity: This character is immune to Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "faun",
@@ -8758,7 +8758,7 @@ window.allHeroes =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
             "* Deals 80% damage to all enemies.",
             "* The caster get +19% mana generation for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
@@ -9956,13 +9956,13 @@ window.allHeroes =
         "passives": [
             "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
+            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%.",
             "The Eldritch Host has",
             "* 100% inherited health.",
             "* 1200 attack.",
             "* 1200 defense.",
-            "Special Skill - Eldrich Bright.",
-            "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
+            "Special Skill - Eldritch Bright.",
+            "* Deals 400% damage to the target and inflicts 35 Insanity on them."
         ],
         "family": "forsaken",
         "costume_id": 0,
@@ -10354,7 +10354,7 @@ window.allHeroes =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* All allies get +21% critical chance for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
@@ -11490,7 +11490,8 @@ window.allHeroes =
         ],
         "passives": [
             "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
-            "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%. If this character defeats themself when activating Insanity, the chance to be reborn is always 100%.",
+            "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
+            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%.",
             "The Eldritch Host has:",
             "* 100% inherited health.",
             "* 1200 attack.",
@@ -11929,7 +11930,7 @@ window.allHeroes =
         "health": 1735,
         "effects": [
             "Deals 350% damage to the target.",
-            "Deals 700% damage if the target has less than 50% health remaining.",
+            "If the target has less than 50% health remaining, deals 700% damage instead.",
             "The caster recovers 35% health for each enemy killed and 15% health for each enemy Minion killed.",
             "Increases the mana of the caster by 15%."
         ],
@@ -13750,8 +13751,8 @@ window.allHeroes =
         "skill": "Eye of Yog-Sir",
         "types": [
             "Taunt",
-            "Insanity All",
-            "Self Insanity"
+            "Insanity All on hit",
+            "Insanity Self"
         ],
         "skill_types": [
             "Taunters",
@@ -14494,7 +14495,7 @@ window.allHeroes =
         ],
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
-            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Insanity: This character is immune to Insanity.",
             "Resist Defense Ailments: This character has innate resistance against status ailments, stacks and Wither effects that affect defense."
         ],
         "family": "faun",
@@ -16456,7 +16457,7 @@ window.allHeroes =
             "Element Link gives +4% mana regeneration for all Ice allies for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Special Skill Blocking: This character has is immune to status ailments that prevent the use of Special Skill."
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skill."
         ],
         "family": "hotm2019",
         "costume_id": 0,
@@ -20216,11 +20217,11 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Deranged Existence",
         "types": [
-            "Self Full Removal",
-            "Self Deranged Dire Ghost",
-            "Hit 1",
-            "Insanity 1",
-            "Insanity to allies"
+            "Full Removal Self",
+            "Deranged Dire Ghost Self",
+            "Hit 1 while ghost",
+            "Insanity 1 while ghost",
+            "Insanity to allies except Self"
         ],
         "skill_types": [
             "Ghost Form & Hiding",
@@ -20765,9 +20766,9 @@ window.allHeroes =
         "health": 1866,
         "effects": [
             "Deals 320% damage to the target and nearby enemies.",
-            "The damage is increased by 35% per each dead enemy.",
-            "Stack (Max: 10): All enemies receive 54 Frost damage per each killed enemy or enemy Minion at the end of each turn.",
-            "Stack (Max: 10): All enemies get -7% mana generation per each killed enemy or enemy Minion."
+            "The damage is increased by 35% per each defeated enemy.",
+            "Stack (Max: 10): All enemies receive 54 Frost damage per each defeated enemy or enemy Minion at the end of each turn.",
+            "Stack (Max: 10): All enemies get -7% mana generation per each defeated enemy or enemy Minion."
         ],
         "passives": [],
         "family": "jotunheim",
@@ -21974,7 +21975,7 @@ window.allHeroes =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* All allies get +21% critical chance for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
@@ -23067,7 +23068,7 @@ window.allHeroes =
         ],
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
-            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Insanity: This character is immune to Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "faun",
@@ -25141,9 +25142,10 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Hollow Boast",
         "types": [
-            "Attack Buff",
-            "Defense Buff",
-            "HOT"
+            "Attack Buff 3",
+            "Defense Buff 3",
+            "HoT 3",
+            "Delayed Debuffs Self"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -26596,8 +26598,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Traveler's Snack",
         "types": [
-            "Health Boost",
-            "Attack Buff"
+            "Boost Health All",
+            "Attack Buff All"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -26968,7 +26970,7 @@ window.allHeroes =
         "types": [
             "Hit 2",
             "Insanity 2",
-            "Self Insanity"
+            "Insanity Self"
         ],
         "skill_types": [
             "Snipers",
@@ -26986,8 +26988,8 @@ window.allHeroes =
         "defense": 568,
         "health": 908,
         "effects": [
-            "Deals 175% damage to the enemies on the edges of the enemy formation and inflicts 15 Insanity on them. If there is only one enemy the damage and Insanity is doubled.",
-            "Inflicts 35 Instanity to the caster."
+            "Deals 175% damage to the enemies on the edges of the enemy formation and inflicts 15 Insanity on them. If there is only one enemy the damage and Insanity are doubled.",
+            "Casting this Special Skill inflicts 35 Insanity on the caster."
         ],
         "passives": [],
         "family": "forsaken",
@@ -28111,8 +28113,8 @@ window.allHeroes =
         "skill": "Shadow Sweep",
         "types": [
             "Hit 3",
-            "Health Reduction",
-            "Elemental Defense Debuff"
+            "Health Reduction 3",
+            "Elemental Defense Debuff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -28131,7 +28133,7 @@ window.allHeroes =
         "health": 1262,
         "effects": [
             "Deals 150% damage to the target and nearby enemies.",
-            "Reduces max health from the target and nearby enemies by 75. The effect is stronger against targets with boosted health. Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 75.",
+            "Reduces max health from the target and nearby enemies by 75. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 75.)",
             "The target and nearby enemies get -54% defense against Nature for 4 turns."
         ],
         "passives": [],
@@ -28174,8 +28176,8 @@ window.allHeroes =
         "skill": "Shadow Lunge",
         "types": [
             "Hit 1",
-            "Mana Reduction",
-            "Elemental Defense Debuff"
+            "Mana Reduction 1",
+            "Elemental Defense Debuff 1"
         ],
         "skill_types": [
             "Debuffers (DEF)",
@@ -28196,7 +28198,7 @@ window.allHeroes =
         "health": 1349,
         "effects": [
             "Deals 290% damage to the target.",
-            "Reduces the mana of teh target by 20%.",
+            "Reduces the mana of the target by 20%.",
             "The target gets -58% defense against Nature for 3 turns."
         ],
         "passives": [],
@@ -28396,9 +28398,10 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Valkyrie Defense",
         "types": [
-            "Healer",
-            "Dispel Immunity",
-            "Mana Generation Buff"
+            "Healer 3",
+            "Dispel Immunity 3",
+            "SS Defense Buff 3",
+            "Mana Generation Buff 3"
         ],
         "skill_types": [
             "Buffers (DEF)",
@@ -31342,7 +31345,7 @@ window.allHeroes =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* All allies get +19% mana generation for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
@@ -31419,7 +31422,7 @@ window.allHeroes =
         ],
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
-            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Insanity: This character is immune to Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "faun",
@@ -33808,7 +33811,7 @@ window.allHeroes =
             "Hit 3",
             "Insanity 3",
             "Damage from Ailments Immunity All",
-            "Self Insanity"
+            "Insanity Self"
         ],
         "skill_types": [
             "Dispellers",
@@ -34572,7 +34575,7 @@ window.allHeroes =
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
             "Resist Defense Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect defense.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ],
         "family": "faun",
         "costume_id": 0,
@@ -36731,13 +36734,13 @@ window.allHeroes =
         "passives": [
             "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
+            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%.",
             "The Eldritch Host has:",
             "* 100% inherited health.",
             "* 1200 attack.",
             "* 1200 defense.",
-            "Special Skill: Eldrich Bright.",
-            "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
+            "Special Skill: Eldritch Bright.",
+            "* Deals 400% damage to the target and inflicts 35 Insanity on them."
         ],
         "family": "institute",
         "costume_id": 0,
@@ -37990,7 +37993,7 @@ window.allHeroes =
         "skill": "Brittling Burst",
         "types": [
             "Hit All",
-            "Defense Debuff"
+            "Defense Debuff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -38401,7 +38404,7 @@ window.allHeroes =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* All allies get +21% critical chance for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
@@ -38781,7 +38784,7 @@ window.allHeroes =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* All allies get +21% critical chance for 2 turns.",
-            "Resist Insanity: This character has an innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
@@ -39947,7 +39950,7 @@ window.allHeroes =
         "health": 1417,
         "effects": [
             "Boosts health of all allies by 500. Boosted health can exceed max HP.",
-            "Each fallen ally has a 20% chance to get revived with 30% HP.",
+            "Each defeated ally has a 20% chance to get revived with 30% HP.",
             "All allies get +30% attack for 4 turns."
         ],
         "passives": [],
@@ -40012,7 +40015,7 @@ window.allHeroes =
         "defense": 1099,
         "health": 1888,
         "effects": [
-            "Each fallen ally has 50% chance to get revived with 20% HP.",
+            "Each defeated ally has 50% chance to get revived with 20% HP.",
             "All allies get +50% attack for 4 turns.",
             "All allies regenerate 672 boosted health over 4 turns. Boosted health can exceed max HP."
         ],
@@ -41266,10 +41269,10 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Obliterating Surge",
         "types": [
-            "Boosted Heal All",
+            "Boosted Heal Self",
             "Hit All",
-            "Insanity All Enemies",
-            "Stores damage",
+            "Insanity All",
+            "Stores received damage",
             "Self Insanity"
         ],
         "skill_types": [
@@ -41301,13 +41304,13 @@ window.allHeroes =
         "passives": [
             "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
+            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%.",
             "The Eldritch Host has:",
             "* 100% inherited health.",
             "* 1200 attack.",
             "* 1200 defense.",
-            "Special Skill: Eldrich Bright.",
-            "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
+            "Special Skill: Eldritch Bright.",
+            "* Deals 400% damage to the target and inflicts 35 Insanity on them."
         ],
         "family": "forsaken",
         "costume_id": 0,
@@ -44395,7 +44398,7 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Healer All",
-            "Dodge Buff All",
+            "Dodge Chance Buff All",
             "Insanity on dodge",
             "Insanity Self"
         ],
@@ -44497,7 +44500,7 @@ window.allHeroes =
         ],
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
-            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Insanity: This character is immune to Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "faun",
@@ -46228,7 +46231,7 @@ window.allHeroes =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* The caster gets +19% mana generation for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
@@ -48935,8 +48938,9 @@ window.allHeroes =
         "skill": "Darts of the Deep",
         "types": [
             "Hit 1",
-            "Random Hits",
-            "Insanity"
+            "Random Extra Hits",
+            "Insanity on hit",
+            "Insanity Self"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -49165,6 +49169,7 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Moldavite Owl Fiend Summoner 3",
+            "Fiend Dispels 1 buff each turn",
             "Self Insanity"
         ],
         "skill_types": [
@@ -49191,20 +49196,20 @@ window.allHeroes =
             "Deals 360% damage to the target and nearby enemies and inflicts 35 Insanity on them.",
             "Summons a Moldavite Owl Fiend for the target and nearby enemies. The Fiend damage the enemy with 60% attack every turn.",
             "The Moldavite Owl Fiend absorbs healing. It disappears after absorbing a healing equal to 25% of its target's max health.",
-            "The Moldavite Owl Fiend infllicts 5 Insanity on the owner on every turn.",
+            "The Moldavite Owl Fiend inflicts 5 Insanity on the owner on every turn.",
             "At the end of each turn, the Moldavite Owl Fiend dispels one of its target's dispellable buffs.",
             "Casting this Special Skill inflicts 40 Insanity on the caster."
         ],
         "passives": [
             "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
+            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%.",
             "The Eldritch Host has:",
             "* 100% inherited health.",
             "* 1200 attack.",
             "* 1200 defense.",
-            "Special Skill: Eldrich Bright.",
-            "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
+            "Special Skill: Eldritch Bright.",
+            "* Deals 400% damage to the target and inflicts 35 Insanity on them."
         ],
         "family": "institute",
         "costume_id": 0,
@@ -49680,7 +49685,8 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Tribal Rage",
         "types": [
-            "Attack Buff"
+            "Attack Buff Self",
+            "Delayed Damage All"
         ],
         "skill_types": [
             "Buffers (ATK)"
@@ -49696,7 +49702,7 @@ window.allHeroes =
         "defense": 504,
         "health": 792,
         "effects": [
-            "The caster gets +45% attack, and a further 20% increase every time they or any of their allies are hit during 3 turns. When the effect ends, all enemies receive 119 damage. Each hit on the caster or their allies during the duration increases the damage by 8 to a maximum of 215 damage."
+            "The caster gets +45% attack, and a further 20% increase every time they or any of their allies are hit during 3 turns, up to +285% attack. When the effect ends, all enemies receive 119 damage. Each hit on the caster or their allies during the duration increases the damage by 8 to a maximum of 215 damage."
         ],
         "passives": [],
         "family": "niflheim",
@@ -50250,7 +50256,7 @@ window.allHeroes =
         "skill": "Dual Slash",
         "types": [
             "Hit 1",
-            "Hit Bounce"
+            "Hit Random 1"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -50311,8 +50317,8 @@ window.allHeroes =
         "skill": "Empowered Slash",
         "types": [
             "Hit 1",
-            "Bounce",
-            "Mana Generation Debuff"
+            "Hit Random 1",
+            "Mana Generation Debuff on hit"
         ],
         "skill_types": [
             "Chain & Random Attackers",
@@ -53727,8 +53733,8 @@ window.allHeroes =
         "skill": "Nightglade Pollen",
         "types": [
             "Hit All",
-            "Health Reduction",
-            "Healing Debuff"
+            "Max Health Reduction All",
+            "Healing Debuff All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -53747,7 +53753,7 @@ window.allHeroes =
         "health": 1083,
         "effects": [
             "Deals 150% damage to all enemies.",
-            "Reduces max health of all enemies by 100. The effect is stronger against targets with boosted health. Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 100.",
+            "Reduces max health of all enemies by 100. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 100.)",
             "All enemies get -50% decrease for any healing received for 4 turns."
         ],
         "passives": [],
@@ -53789,7 +53795,9 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Nightbloom Dust",
         "types": [
-            "Hit 3"
+            "Hit 3",
+            "Mana Reducer 3",
+            "Healing Debuff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -55150,7 +55158,7 @@ window.allHeroes =
             "Hit 1",
             "Insanity 1",
             "Soul Bound 1",
-            "Self Insanity"
+            "Insanity Self"
         ],
         "skill_types": [
             "Snipers",
@@ -55173,8 +55181,8 @@ window.allHeroes =
         "effects": [
             "Deals 400% damage to the target and inflicts 30 Insanity on them.",
             "The target gets Soul Bound for 3 turns. This effect can't be cleansed. (This effect always bypass reflection.)",
-            "All damage received by the caster is also dealt to all Soul Bound enemies. (Damage is shared between all Soul Bound enemies. This effect wil not share damage incoming from other shared damage sources or counterattacks.)",
-            "Inflicts 55 Insanity to the caster."
+            "All damage received by the caster is also dealt to all Soul Bound enemies. (Damage is shared between all Soul Bound enemies. This effect will not share damage incoming from other shared damage sources or counterattacks.)",
+            "Casting this Special Skill inflicts 55 Insanity on the caster."
         ],
         "passives": [
             "Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 6% per 10 Insanity on this character, up to 60%."
@@ -55726,7 +55734,7 @@ window.allHeroes =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* The caster gets +19% mana generation for 2 turns.",
-            "Resist Insanity: This character has an innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
@@ -55762,9 +55770,9 @@ window.allHeroes =
         "skill": "Lantern of Insanity",
         "types": [
             "Hit All",
-            "Insanity",
-            "Buff Immunity",
-            "Self Insanity"
+            "Insanity All",
+            "Buff Immunity All",
+            "Insanity Self"
         ],
         "skill_types": [
             "Buff Blockers",
@@ -55784,7 +55792,7 @@ window.allHeroes =
         "effects": [
             "Deals 250% damage to all and inflicts 10 Insanity on them.",
             "All enemies are immune to new status effect buffs for 4 turns.",
-            "Inflicts 55 Insanity on the caster."
+            "Casting this Special Skill inflicts 55 Insanity on the caster."
         ],
         "passives": [],
         "family": "cultist",
@@ -57263,7 +57271,7 @@ window.allHeroes =
         "effects": [
             "Deals 200% damage to hit targets.",
             "Casts 5 Dark Cubes to random enemies.",
-            "Dark Cube reduces max health from the target by 224. Max health can't get lower than 30% of the original max health.",
+            "Dark Cube reduces max health from the target by 224. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 224.)",
             "Enemies hit automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns."
         ],
         "passives": [],
@@ -57329,7 +57337,7 @@ window.allHeroes =
         "effects": [
             "Deals 240% damage to hit targets.",
             "Casts 5 Dark Cubes to random enemies.",
-            "Dark Cube reduces max health from the target by 184. This effect is stronger against targets with boosted health. Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 184.",
+            "Dark Cube reduces max health from the target by 184. This effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 184.)",
             "Enemies hit automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns."
         ],
         "passives": [],
@@ -58147,6 +58155,7 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Insanity 3",
+            "Force Uncleanable Ailments 3",
             "Insanity Self"
         ],
         "skill_types": [
@@ -58696,7 +58705,7 @@ window.allHeroes =
         "effects": [
             "Summons a Moth Minion for each ally. Moth Minion inherits 30% attack and 30% HP from the caster.",
             "Each hit from the Moth Minion gives the target the following status ailments:",
-            "* The target receives 138 Poison damage over 3 turns.",
+            "* The target receives 153 Poison damage over 3 turns.",
             "* The target can't receive new Minions for 3 turns."
         ],
         "passives": [],
@@ -61319,6 +61328,7 @@ window.allHeroes =
         "skill": "Ravens' Vigil",
         "types": [
             "Summoner All",
+            "Minions Attack Buff All",
             "Defense Buff All"
         ],
         "skill_types": [
@@ -61381,6 +61391,7 @@ window.allHeroes =
         "skill": "Ravens' Watch",
         "types": [
             "Summoner All",
+            "Minions Attack Buff All",
             "Dodge Chance Buff All"
         ],
         "skill_types": [
@@ -63044,7 +63055,8 @@ window.allHeroes =
         "types": [
             "Defense debuff 1",
             "Hit 1",
-            "Insanity"
+            "Insanity to nearby 2 on kill",
+            "Insanity Self"
         ],
         "skill_types": [
             "Debuffers (DEF)",
@@ -66209,7 +66221,7 @@ window.allHeroes =
         ],
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
-            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Insanity: This character is immune to Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "faun",
@@ -66365,7 +66377,7 @@ window.allHeroes =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* The caster gets +19% mana generation for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
@@ -66405,9 +66417,10 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Grim Awakening",
         "types": [
-            "Reviver",
-            "Defense buff",
-            "Insanity"
+            "Revive All with Insanity",
+            "SS Defense Buff All",
+            "Damage All if caster is defeated",
+            "Insanity Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -67636,9 +67649,10 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Dance of the Black Swan",
         "types": [
-            "Healer",
-            "Dance of the Black Swan",
-            "Hit 1 random"
+            "Healer All",
+            "Dance of the Black Swan 4",
+            "Hit 1 random while dancing",
+            "Ailments Immunity while dancing"
         ],
         "skill_types": [
             "Dancers",
@@ -67669,7 +67683,7 @@ window.allHeroes =
             "* This effect cannot be dispelled. The effect is removed when the caster is defeated."
         ],
         "passives": [
-            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Doesn't apply to status ailments that affect elemental defense.",
+            "Resist Defense Ailments: The character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
             "Heal when status ailment expires or is cleared: This character receives 5% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ],
         "family": "opera",
@@ -68225,7 +68239,7 @@ window.allHeroes =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* All allies get +21% critical chance for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
@@ -69070,7 +69084,7 @@ window.allHeroes =
             "Deals 350% damage to all holy Enemies.",
             "For 4 turns, the element of all enemies is changed each turn. On the first 3 turns, the element is random.",
             "On the last turn, enemies revert to their original element.",
-            "After each element change, enemies take 736 damage if their element is Holy."
+            "After each element change, enemies take 811 damage if their element is Holy."
         ],
         "passives": [],
         "family": "niflheim",
@@ -71127,7 +71141,7 @@ window.allHeroes =
             "After the Enhanced Defense Ailment ends or is removed or replaced, the enemy gets silenced for 6 turns."
         ],
         "passives": [
-            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Insanity: This character is immune to Insanity.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stacks.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
@@ -71881,7 +71895,7 @@ window.allHeroes =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* The caster gets +19% mana generation for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
@@ -73448,7 +73462,7 @@ window.allHeroes =
         ],
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
-            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Insanity: This character is immune to Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "faun",
@@ -74350,7 +74364,7 @@ window.allHeroes =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* The caster gets +19% mana generation for 2 turns.",
-            "Resist Insanity: This character has an innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
@@ -74831,8 +74845,8 @@ window.allHeroes =
         "speed": "Average",
         "skill": "Tainted Axe",
         "types": [
-            "Hit All",
-            "Mana Generation Debuff"
+            "Hit 3",
+            "Mana Generation Debuff 3"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -74891,7 +74905,7 @@ window.allHeroes =
         "skill": "Vicious Axe",
         "types": [
             "Hit All",
-            "Mana Reduction"
+            "Mana Reduction All"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -76419,8 +76433,8 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Insanity 3",
-            "Self Attack Stack",
-            "Self Insanity"
+            "Attack Buff Stack Self",
+            "Insanity Self"
         ],
         "skill_types": [
             "Mindless Attack & Mindless Heal",
@@ -76442,7 +76456,7 @@ window.allHeroes =
         "effects": [
             "Deals 220% damage to the target and nearby enemies and inflicts 25 Insanity on them.",
             "Stack (Max: 10): The caster gets +17% attack.",
-            "Inflicts 40 Instanity to the caster."
+            "Casting this Special Skill inflicts 40 Insanity on the caster."
         ],
         "passives": [],
         "family": "institute",
@@ -80649,8 +80663,9 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Eternal Servitude",
         "types": [
-            "Attack BuffCritical Buff",
-            "Zombie Buff"
+            "Attack Buff All",
+            "Critical Chance Buff All",
+            "Zombie Buff All"
         ],
         "skill_types": [
             "Buffers (ATK)",
@@ -81562,8 +81577,9 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Summoner All",
-            "DoT",
-            "Insanity"
+            "Minion with DoT",
+            "Minion with Insanity",
+            "Insanity Self"
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -82413,7 +82429,7 @@ window.allHeroes =
         ],
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
-            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Insanity: This character is immune to Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "faun",
@@ -83793,7 +83809,7 @@ window.allHeroes =
         "speed": "Very Slow",
         "skill": "Cursed Painting",
         "types": [
-            "Dispeller",
+            "Dispeller All",
             "Hit All",
             "Cursed Paintings All"
         ],
@@ -85874,6 +85890,7 @@ window.allHeroes =
             "Hit 3",
             "Insanity 3",
             "DoT 3",
+            "Heal All on DoT",
             "Self Insanity"
         ],
         "skill_types": [
@@ -85904,13 +85921,13 @@ window.allHeroes =
         "passives": [
             "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
+            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%.",
             "The Eldritch Host has:",
             "* 100% inherited health.",
             "* 1200 attack.",
             "* 1200 defense.",
-            "Special Skill: Eldrich Bright.",
-            "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
+            "Special Skill: Eldritch Bright.",
+            "* Deals 400% damage to the target and inflicts 35 Insanity on them."
         ],
         "family": "forsaken",
         "costume_id": 0,
@@ -86147,7 +86164,7 @@ window.allHeroes =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:",
             "* Deals 80% damage to all enemies.",
             "* The caster get +19% mana generation for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
@@ -88686,7 +88703,7 @@ window.allHeroes =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* The caster gets +19% mana generation for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
@@ -91432,7 +91449,7 @@ window.allHeroes =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             "* Deals 80% damage to all enemies.",
             "* All allies get +21% critical chance for 2 turns.",
-            "Resist Insanity: This character has innate resistance against Insanity."
+            "Resist Insanity: This character is immune to Insanity."
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
@@ -94580,8 +94597,9 @@ window.allHeroes =
         "skill": "Cuts of Hulu",
         "types": [
             "Hit 2",
-            "Damage on each Resisted Healing 2",
-            "Self Insanity"
+            "Resist Healing Debuff 2",
+            "Damage on each attempted heal",
+            "Insanity Self"
         ],
         "skill_types": [
             "Healing Reducers",
@@ -97551,7 +97569,7 @@ window.allHeroes =
             "The attack has a 60% chance to bypass defensive buffs. This includes counterattacks.",
             "The target receives 212 Bleed damage over 4 turns.",
             "The caster regenerates 548 HP over 4 turns.",
-            "If the caster dies during the next 4 turns, they are resurrected in the beginning of their next turn with 32% health. All status effects and stacks are removed when the caster dies."
+            "If the caster is defeated during the next 4 turns, they are resurrected in the beginning of their next turn with 32% health. All status effects and stacks are removed when the caster is defeated."
         ],
         "passives": [],
         "family": "helheim",
@@ -97601,6 +97619,7 @@ window.allHeroes =
             "Hit 3",
             "Bypass",
             "Dot 3",
+            "Heal Self on DoT",
             "Self Resurrection"
         ],
         "skill_types": [
@@ -97626,7 +97645,7 @@ window.allHeroes =
             "Deals 260% damage to the target and nearby enemies.",
             "The attack bypasses defensive buffs. This includes counterattacks.",
             "The target and nearby enemies receive 648 Bleed damage over 4 turns. The caster absorbs 40% of the dealt Bleed damage as health.",
-            "If the caster dies during the next 4 turns they are resurrected in the beginning of their turn with 40% health. All status effects and stacks are removed when the caster dies."
+            "If the caster is defeated during the next 4 turns, they are resurrected in the beginning of their next turn with 40% health. All status effects and stacks are removed when the caster is defeated."
         ],
         "passives": [],
         "family": "helheim",
@@ -98133,11 +98152,12 @@ window.allHeroes =
         "speed": "Fast",
         "skill": "Volatile Crystal Conduit",
         "types": [
+            "Bypass",
             "Hit 1",
             "Chain Hit",
             "Insanity on hit",
             "Delayed Paralyze on hit",
-            "Self Insanity"
+            "Insanity Self"
         ],
         "skill_types": [
             "Snipers",
@@ -98160,22 +98180,23 @@ window.allHeroes =
         "defense": 1293,
         "health": 2241,
         "effects": [
+            "The attack bypasses defensive buffs.",
             "Deals 265% damage to the target.",
-            "The attack chains through all the enemies who are adjacent to any hit enemy and bypasses defensive buffs.",
+            "The attack chains through all the enemies who are adjacent to any hit enemy.",
             "All hit targets 20 Insanity every time they are hit.",
-            "After 1 turn the target gets Paralyzed for4 turns. (Paralyzed enemies can't attack or gain mana and receive +50% increased damage. Once Paralyzed, the effect can't be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)",
+            "After 1 turn the target gets Paralyzed for 4 turns. (Paralyzed enemies can't attack or gain mana and receive +50% increased damage. Once Paralyzed, the effect can't be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)",
             "Casting this Special Skill inflicts 40 Insanity on the caster."
         ],
         "passives": [
             "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
             "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%.",
+            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%.",
             "The Eldritch Host has:",
             "* 100% inherited health.",
             "* 1200 attack.",
             "* 1200 defense.",
-            "Special Skill: Eldrich Bright.",
-            "* Deals 400% damage to the target and inflicts 35 Insanity on them.",
-            "If this character defeats themself when activating Insanity, the chance to be reborn is always 100%."
+            "Special Skill: Eldritch Bright.",
+            "* Deals 400% damage to the target and inflicts 35 Insanity on them."
         ],
         "family": "institute",
         "costume_id": 0,
@@ -98678,7 +98699,7 @@ window.allHeroes =
         ],
         "passives": [
             "Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.",
-            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Insanity: This character is immune to Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "faun",
@@ -105454,6 +105475,7 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Buff Immunity Debuff 3",
+            "SS Defense Debuff 3",
             "Mana Generation Debuff 3"
         ],
         "skill_types": [
@@ -109061,8 +109083,8 @@ window.allHeroes =
         "health": 1911,
         "effects": [
             "For the next 4 turns, this character deals 220% damage and inflicts 15 Insanity to a random target and nearby enemies each time any other ally casts their Special Skill.",
-            "Stack (Max: 10): All allies get +20% attack",
-            "Stack (Max: 10): All allies get +5% mana generation",
+            "Stack (Max: 10): All allies get +20% attack.",
+            "Stack (Max: 10): All allies get +5% mana generation.",
             "Inflicts 50 Insanity to the caster."
         ],
         "passives": [
@@ -117750,6 +117772,95 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Prof. Ambrose",
+        "fancy_name": "Director of the Institute",
+        "AetherPower": "Bulwark",
+        "color": "Yellow",
+        "class": "Cleric",
+        "speed": "Slow",
+        "skill": "Staff of Domination",
+        "types": [
+            "Fear Debuff All",
+            "Attack Wither All",
+            "Hit All",
+            "Insanity All",
+            "Insanity Self"
+        ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Dispellers",
+            "Buff Blockers",
+            "Extra Damage Dealers",
+            "Ability Scores Modifiers",
+            "AoE Attackers (Hit-5)",
+            "Mindless Attack & Mindless Heal",
+            "Negative Effects On Self Or Allies"
+        ],
+        "source": "Shadow Summon",
+        "Release date": "2026-03-22",
+        "specialId": "staff_of_domination",
+        "passiveSkills": [
+            "damage_increase_by_insanity",
+            "corrupt_minions_all_enemies"
+        ],
+        "heroId": "institute_professor_ambrose",
+        "star": 5,
+        "power": 1289,
+        "attack": 1316,
+        "defense": 1361,
+        "health": 2307,
+        "effects": [
+            "All enemies succumb to Fear for 5 turns. (The target gets -40% defense. Removes all dispellable buffs and Growth effects when a Fear status effect is added. The target cannot gain new buffs or Growth effects for the duration. Target with Fear deals 160% damage to a random ally each time any other ally casts their Special Skill. Each character can trigger this effect once per turn.)",
+            "Wither: All enemies get -400 attack.",
+            "Deals 400% damage to all enemies and inflicts 25 Insanity on them.",
+            "Casting this Special Skill inflicts 45 Insanity on the caster."
+        ],
+        "passives": [
+            "Minion Corruption: At the end of each turn, enemies with Insanity have a chance to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health, inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.",
+            "Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 6% per 10 Insanity on this character, up to 60%."
+        ],
+        "family": "institute",
+        "costume_id": 0,
+        "originalIndex": 1660,
+        "lb1": {
+            "attack": 1418,
+            "defense": 1467,
+            "health": 2486,
+            "power": 1380
+        },
+        "lb2": {
+            "attack": 1623,
+            "defense": 1678,
+            "health": 2844,
+            "power": 1561
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Conditional Trigger"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓",
+                    "Status - Buff Immunity",
+                    "Atk - Wither : Atk↓",
+                    "Status - Insanity"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Prof. Lidenbrock",
         "fancy_name": "Sagacious Scientist",
         "AetherPower": "Heal Increase",
@@ -117789,7 +117900,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1660,
+        "originalIndex": 1661,
         "lb1": {
             "attack": 803,
             "defense": 870,
@@ -117861,7 +117972,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1661,
+        "originalIndex": 1662,
         "lb1": {
             "attack": 1038,
             "defense": 1125,
@@ -117924,7 +118035,7 @@ window.allHeroes =
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1662,
+        "originalIndex": 1663,
         "lb1": {
             "attack": 859,
             "defense": 896,
@@ -117995,7 +118106,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1663,
+        "originalIndex": 1664,
         "lb1": {
             "attack": 792,
             "defense": 765,
@@ -118065,7 +118176,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1664,
+        "originalIndex": 1665,
         "lb1": {
             "attack": 1004,
             "defense": 979,
@@ -118134,7 +118245,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1665,
+        "originalIndex": 1666,
         "lb1": {
             "attack": 828,
             "defense": 843,
@@ -118203,7 +118314,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1666,
+        "originalIndex": 1667,
         "lb1": {
             "attack": 1338,
             "defense": 1385,
@@ -118270,7 +118381,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1667,
+        "originalIndex": 1668,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -118342,7 +118453,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1668,
+        "originalIndex": 1669,
         "lb1": {
             "attack": 821,
             "defense": 796,
@@ -118408,7 +118519,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1669,
+        "originalIndex": 1670,
         "lb1": {
             "attack": 1023,
             "defense": 1010,
@@ -118485,7 +118596,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1670,
+        "originalIndex": 1671,
         "lb1": {
             "attack": 1167,
             "defense": 1252,
@@ -118566,7 +118677,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1671,
+        "originalIndex": 1672,
         "lb1": {
             "attack": 1345,
             "defense": 1314,
@@ -118647,7 +118758,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1672,
+        "originalIndex": 1673,
         "lb1": {
             "attack": 1329,
             "defense": 1276,
@@ -118720,7 +118831,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1673,
+        "originalIndex": 1674,
         "lb1": {
             "attack": 1338,
             "defense": 1316,
@@ -118807,7 +118918,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1674,
+        "originalIndex": 1675,
         "lb1": {
             "attack": 1500,
             "defense": 1349,
@@ -118878,7 +118989,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1675,
+        "originalIndex": 1676,
         "lb1": {
             "attack": 1125,
             "defense": 1172,
@@ -118961,7 +119072,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1676,
+        "originalIndex": 1677,
         "lb1": {
             "attack": 976,
             "defense": 1107,
@@ -119048,7 +119159,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1677,
+        "originalIndex": 1678,
         "lb1": {
             "attack": 1440,
             "defense": 1367,
@@ -119124,7 +119235,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1678,
+        "originalIndex": 1679,
         "lb1": {
             "attack": 1136,
             "defense": 1238,
@@ -119193,7 +119304,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1679,
+        "originalIndex": 1680,
         "lb1": {
             "attack": 850,
             "defense": 772,
@@ -119255,7 +119366,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1680,
+        "originalIndex": 1681,
         "lb1": {
             "attack": 1037,
             "defense": 1031,
@@ -119319,7 +119430,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1681,
+        "originalIndex": 1682,
         "lb1": {
             "attack": 1334,
             "defense": 1309,
@@ -119386,7 +119497,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1682,
+        "originalIndex": 1683,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -119458,7 +119569,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1683,
+        "originalIndex": 1684,
         "lb1": {
             "attack": 1209,
             "defense": 1165,
@@ -119542,7 +119653,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1684,
+        "originalIndex": 1685,
         "lb1": {
             "attack": 1474,
             "defense": 1249,
@@ -119612,7 +119723,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1685,
+        "originalIndex": 1686,
         "lb1": {
             "attack": 1090,
             "defense": 1156,
@@ -119685,7 +119796,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1686,
+        "originalIndex": 1687,
         "lb1": {
             "attack": 808,
             "defense": 792,
@@ -119754,7 +119865,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1687,
+        "originalIndex": 1688,
         "lb1": {
             "attack": 1008,
             "defense": 1020,
@@ -119825,7 +119936,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1688,
+        "originalIndex": 1689,
         "lb1": {
             "attack": 927,
             "defense": 941,
@@ -119902,7 +120013,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1689,
+        "originalIndex": 1690,
         "lb1": {
             "attack": 1258,
             "defense": 1147,
@@ -119975,7 +120086,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1690,
+        "originalIndex": 1691,
         "lb1": {
             "attack": 885,
             "defense": 759,
@@ -120052,7 +120163,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1691,
+        "originalIndex": 1692,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -120133,7 +120244,7 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1692,
+        "originalIndex": 1693,
         "lb1": {
             "attack": 1367,
             "defense": 1427,
@@ -120220,7 +120331,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1693,
+        "originalIndex": 1694,
         "lb1": {
             "attack": 1012,
             "defense": 1018,
@@ -120318,7 +120429,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1694,
+        "originalIndex": 1695,
         "lb1": {
             "attack": 1336,
             "defense": 1353,
@@ -120390,7 +120501,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1695,
+        "originalIndex": 1696,
         "lb1": {
             "attack": 770,
             "defense": 748,
@@ -120459,7 +120570,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1696,
+        "originalIndex": 1697,
         "lb1": {
             "attack": 860,
             "defense": 852,
@@ -120528,7 +120639,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1697,
+        "originalIndex": 1698,
         "lb1": {
             "attack": 967,
             "defense": 976,
@@ -120601,7 +120712,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1698,
+        "originalIndex": 1699,
         "lb1": {
             "attack": 1187,
             "defense": 1197,
@@ -120678,7 +120789,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1699,
+        "originalIndex": 1700,
         "lb1": {
             "attack": 1336,
             "defense": 1355,
@@ -120752,7 +120863,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1700,
+        "originalIndex": 1701,
         "lb1": {
             "attack": 1408,
             "defense": 1437,
@@ -120821,7 +120932,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1701,
+        "originalIndex": 1702,
         "lb1": {
             "attack": 1276,
             "defense": 1207,
@@ -120902,7 +121013,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1702,
+        "originalIndex": 1703,
         "lb1": {
             "attack": 1198,
             "defense": 1332,
@@ -120984,7 +121095,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1703,
+        "originalIndex": 1704,
         "lb1": {
             "attack": 1391,
             "defense": 1414,
@@ -121050,7 +121161,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1704,
+        "originalIndex": 1705,
         "lb1": {
             "attack": 788,
             "defense": 808,
@@ -121115,7 +121226,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 1705,
+        "originalIndex": 1706,
         "lb1": {
             "attack": 1014,
             "defense": 998,
@@ -121199,7 +121310,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1706,
+        "originalIndex": 1707,
         "lb1": {
             "attack": 896,
             "defense": 970,
@@ -121281,7 +121392,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1707,
+        "originalIndex": 1708,
         "lb1": {
             "attack": 1036,
             "defense": 1132,
@@ -121350,7 +121461,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1708,
+        "originalIndex": 1709,
         "lb1": {
             "attack": 828,
             "defense": 845,
@@ -121423,7 +121534,7 @@ window.allHeroes =
         ],
         "family": "wolf",
         "costume_id": 1,
-        "originalIndex": 1709,
+        "originalIndex": 1710,
         "lb1": {
             "attack": 1222,
             "defense": 1258,
@@ -121503,7 +121614,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1710,
+        "originalIndex": 1711,
         "lb1": {
             "attack": 1354,
             "defense": 1418,
@@ -121572,7 +121683,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1711,
+        "originalIndex": 1712,
         "lb1": {
             "attack": 1305,
             "defense": 1256,
@@ -121650,7 +121761,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1712,
+        "originalIndex": 1713,
         "lb1": {
             "attack": 1025,
             "defense": 956,
@@ -121726,7 +121837,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1713,
+        "originalIndex": 1714,
         "lb1": {
             "attack": 1469,
             "defense": 1355,
@@ -121797,7 +121908,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1714,
+        "originalIndex": 1715,
         "lb1": {
             "attack": 879,
             "defense": 947,
@@ -121871,7 +121982,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1715,
+        "originalIndex": 1716,
         "lb1": {
             "attack": 1296,
             "defense": 1374,
@@ -121952,7 +122063,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1716,
+        "originalIndex": 1717,
         "lb1": {
             "attack": 1398,
             "defense": 1258,
@@ -122021,7 +122132,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1717,
+        "originalIndex": 1718,
         "lb1": {
             "attack": 863,
             "defense": 814,
@@ -122099,7 +122210,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1718,
+        "originalIndex": 1719,
         "lb1": {
             "attack": 1128,
             "defense": 1044,
@@ -122175,7 +122286,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1719,
+        "originalIndex": 1720,
         "lb1": {
             "attack": 1070,
             "defense": 1078,
@@ -122239,7 +122350,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1720,
+        "originalIndex": 1721,
         "lb1": {
             "attack": 923,
             "defense": 816,
@@ -122310,7 +122421,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1721,
+        "originalIndex": 1722,
         "lb1": {
             "attack": 1288,
             "defense": 1072,
@@ -122379,7 +122490,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1722,
+        "originalIndex": 1723,
         "lb1": {
             "attack": 765,
             "defense": 947,
@@ -122452,7 +122563,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1723,
+        "originalIndex": 1724,
         "lb1": {
             "attack": 1024,
             "defense": 1282,
@@ -122523,7 +122634,7 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1724,
+        "originalIndex": 1725,
         "lb1": {
             "attack": 1414,
             "defense": 1465,
@@ -122593,7 +122704,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1725,
+        "originalIndex": 1726,
         "lb1": {
             "attack": 939,
             "defense": 1076,
@@ -122623,32 +122734,6 @@ window.allHeroes =
                 ]
             }
         ]
-    },
-    {
-        "name": "Prof. Ambrose",
-        "fancy_name": "Director of the Institute",
-        "AetherPower": "",
-        "color": "Yellow",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "institute_professor_ambrose",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "institute",
-        "costume_id": 0,
-        "originalIndex": 1726,
-        "cn_skill_info": []
     },
     {
         "name": "Sir Roostley C1",

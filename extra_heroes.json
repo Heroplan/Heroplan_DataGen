@@ -1,17 +1,5 @@
 [
     {
-        "name": "Prof. Ambrose",
-        "fancy_name": "Director of the Institute",
-        "color": "Yellow",
-        "Release date": "",
-        "canBeReceivedDate": "2026-03-22 07:00:00",
-        "star": 5,
-        "family": "institute",
-        "costume_id": 0,
-        "heroId": "institute_professor_ambrose",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Sir Roostley C1",
         "fancy_name": "Mighty Alchemist of Springvale",
         "color": "Yellow",

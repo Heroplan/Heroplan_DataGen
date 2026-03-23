@@ -273,15 +273,15 @@ const allTranslations =
         "heroId": "s3_nordri",
         "name": "Nordri",
         "effects": [
-            "Deals 245% damage to the target and minor damage to nearby enemies",
-            "The target and nearby enemies get -54% defense against Ice for 4 turns"
+            "Deals 245% damage to the target and minor damage to nearby enemies.",
+            "The target and nearby enemies get -54% defense against Ice for 4 turns."
         ]
     },
     {
         "heroId": "s3_nordri_costume_explorer",
         "name": "Nordri C1",
         "effects": [
-            "Deals 230% damage to the target and nearby enemies.",
+            "Deals 220% damage to the target and nearby enemies.",
             "All enemies get -54% defense against Ice for 3 turns. Against Fire characters, this status effect becomes uncleansable and lasts 2 turns longer."
         ]
     },
@@ -749,7 +749,7 @@ const allTranslations =
         "effects": [
             "Deals 280% damage to the target and nearby enemies and inflicts 15 Insanity on them.",
             "The target and nearby enemies receive 388 Curse damage over 4 turns, starting low and increasing every turn.",
-            "Inflicts 55 Insanity to the caster."
+            "Casting this Special Skill inflicts 55 Insanity on the caster."
         ]
     },
     {
@@ -1616,7 +1616,7 @@ const allTranslations =
         "name": "Fenrir C1",
         "effects": [
             "Deals 350% damage to the target.",
-            "Deals 700% damage if the target has less than 50% health remaining.",
+            "If the target has less than 50% health remaining, deals 700% damage instead.",
             "The caster recovers 35% health for each enemy killed and 15% health for each enemy Minion killed.",
             "Increases the mana of the caster by 15%."
         ]
@@ -2820,9 +2820,9 @@ const allTranslations =
         "name": "Skadi C1",
         "effects": [
             "Deals 320% damage to the target and nearby enemies.",
-            "The damage is increased by 35% per each dead enemy.",
-            "Stack (Max: 10): All enemies receive 54 Frost damage per each killed enemy or enemy Minion at the end of each turn.",
-            "Stack (Max: 10): All enemies get -7% mana generation per each killed enemy or enemy Minion."
+            "The damage is increased by 35% per each defeated enemy.",
+            "Stack (Max: 10): All enemies receive 54 Frost damage per each defeated enemy or enemy Minion at the end of each turn.",
+            "Stack (Max: 10): All enemies get -7% mana generation per each defeated enemy or enemy Minion."
         ]
     },
     {
@@ -3666,8 +3666,8 @@ const allTranslations =
         "heroId": "forsaken_jax",
         "name": "Jax",
         "effects": [
-            "Deals 175% damage to the enemies on the edges of the enemy formation and inflicts 15 Insanity on them. If there is only one enemy the damage and Insanity is doubled.",
-            "Inflicts 35 Instanity to the caster."
+            "Deals 175% damage to the enemies on the edges of the enemy formation and inflicts 15 Insanity on them. If there is only one enemy the damage and Insanity are doubled.",
+            "Casting this Special Skill inflicts 35 Insanity on the caster."
         ]
     },
     {
@@ -3830,7 +3830,7 @@ const allTranslations =
         "name": "Almur",
         "effects": [
             "Deals 150% damage to the target and nearby enemies.",
-            "Reduces max health from the target and nearby enemies by 75. The effect is stronger against targets with boosted health. Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 75.",
+            "Reduces max health from the target and nearby enemies by 75. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 75.)",
             "The target and nearby enemies get -54% defense against Nature for 4 turns."
         ]
     },
@@ -3839,7 +3839,7 @@ const allTranslations =
         "name": "Almur C1",
         "effects": [
             "Deals 290% damage to the target.",
-            "Reduces the mana of teh target by 20%.",
+            "Reduces the mana of the target by 20%.",
             "The target gets -58% defense against Nature for 3 turns."
         ]
     },
@@ -5446,7 +5446,7 @@ const allTranslations =
         "name": "Heimdall",
         "effects": [
             "Boosts health of all allies by 500. Boosted health can exceed max HP.",
-            "Each fallen ally has a 20% chance to get revived with 30% HP.",
+            "Each defeated ally has a 20% chance to get revived with 30% HP.",
             "All allies get +30% attack for 4 turns."
         ]
     },
@@ -5454,7 +5454,7 @@ const allTranslations =
         "heroId": "s3_heimdall_costume_dreaded",
         "name": "Heimdall C1",
         "effects": [
-            "Each fallen ally has 50% chance to get revived with 20% HP.",
+            "Each defeated ally has 50% chance to get revived with 20% HP.",
             "All allies get +50% attack for 4 turns.",
             "All allies regenerate 672 boosted health over 4 turns. Boosted health can exceed max HP."
         ]
@@ -6727,7 +6727,7 @@ const allTranslations =
             "Deals 360% damage to the target and nearby enemies and inflicts 35 Insanity on them.",
             "Summons a Moldavite Owl Fiend for the target and nearby enemies. The Fiend damage the enemy with 60% attack every turn.",
             "The Moldavite Owl Fiend absorbs healing. It disappears after absorbing a healing equal to 25% of its target's max health.",
-            "The Moldavite Owl Fiend infllicts 5 Insanity on the owner on every turn.",
+            "The Moldavite Owl Fiend inflicts 5 Insanity on the owner on every turn.",
             "At the end of each turn, the Moldavite Owl Fiend dispels one of its target's dispellable buffs.",
             "Casting this Special Skill inflicts 40 Insanity on the caster."
         ]
@@ -6799,7 +6799,7 @@ const allTranslations =
         "heroId": "s3_anwindr",
         "name": "An-Windr",
         "effects": [
-            "The caster gets +45% attack, and a further 20% increase every time they or any of their allies are hit during 3 turns. When the effect ends, all enemies receive 119 damage. Each hit on the caster or their allies during the duration increases the damage by 8 to a maximum of 215 damage."
+            "The caster gets +45% attack, and a further 20% increase every time they or any of their allies are hit during 3 turns, up to +285% attack. When the effect ends, all enemies receive 119 damage. Each hit on the caster or their allies during the duration increases the damage by 8 to a maximum of 215 damage."
         ]
     },
     {
@@ -7351,7 +7351,7 @@ const allTranslations =
         "name": "Fura",
         "effects": [
             "Deals 150% damage to all enemies.",
-            "Reduces max health of all enemies by 100. The effect is stronger against targets with boosted health. Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 100.",
+            "Reduces max health of all enemies by 100. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 100.)",
             "All enemies get -50% decrease for any healing received for 4 turns."
         ]
     },
@@ -7540,8 +7540,8 @@ const allTranslations =
         "effects": [
             "Deals 400% damage to the target and inflicts 30 Insanity on them.",
             "The target gets Soul Bound for 3 turns. This effect can't be cleansed. (This effect always bypass reflection.)",
-            "All damage received by the caster is also dealt to all Soul Bound enemies. (Damage is shared between all Soul Bound enemies. This effect wil not share damage incoming from other shared damage sources or counterattacks.)",
-            "Inflicts 55 Insanity to the caster."
+            "All damage received by the caster is also dealt to all Soul Bound enemies. (Damage is shared between all Soul Bound enemies. This effect will not share damage incoming from other shared damage sources or counterattacks.)",
+            "Casting this Special Skill inflicts 55 Insanity on the caster."
         ]
     },
     {
@@ -7631,7 +7631,7 @@ const allTranslations =
         "effects": [
             "Deals 250% damage to all and inflicts 10 Insanity on them.",
             "All enemies are immune to new status effect buffs for 4 turns.",
-            "Inflicts 55 Insanity on the caster."
+            "Casting this Special Skill inflicts 55 Insanity on the caster."
         ]
     },
     {
@@ -7838,7 +7838,7 @@ const allTranslations =
         "effects": [
             "Deals 200% damage to hit targets.",
             "Casts 5 Dark Cubes to random enemies.",
-            "Dark Cube reduces max health from the target by 224. Max health can't get lower than 30% of the original max health.",
+            "Dark Cube reduces max health from the target by 224. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 224.)",
             "Enemies hit automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns."
         ]
     },
@@ -7848,7 +7848,7 @@ const allTranslations =
         "effects": [
             "Deals 240% damage to hit targets.",
             "Casts 5 Dark Cubes to random enemies.",
-            "Dark Cube reduces max health from the target by 184. This effect is stronger against targets with boosted health. Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 184.",
+            "Dark Cube reduces max health from the target by 184. This effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 184.)",
             "Enemies hit automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns."
         ]
     },
@@ -8035,7 +8035,7 @@ const allTranslations =
         "effects": [
             "Summons a Moth Minion for each ally. Moth Minion inherits 30% attack and 30% HP from the caster.",
             "Each hit from the Moth Minion gives the target the following status ailments:",
-            "* The target receives 138 Poison damage over 3 turns.",
+            "* The target receives 153 Poison damage over 3 turns.",
             "* The target can't receive new Minions for 3 turns."
         ]
     },
@@ -9480,7 +9480,7 @@ const allTranslations =
             "Deals 350% damage to all holy Enemies.",
             "For 4 turns, the element of all enemies is changed each turn. On the first 3 turns, the element is random.",
             "On the last turn, enemies revert to their original element.",
-            "After each element change, enemies take 736 damage if their element is Holy."
+            "After each element change, enemies take 811 damage if their element is Holy."
         ]
     },
     {
@@ -10500,7 +10500,7 @@ const allTranslations =
         "effects": [
             "Deals 220% damage to the target and nearby enemies and inflicts 25 Insanity on them.",
             "Stack (Max: 10): The caster gets +17% attack.",
-            "Inflicts 40 Instanity to the caster."
+            "Casting this Special Skill inflicts 40 Insanity on the caster."
         ]
     },
     {
@@ -13389,7 +13389,7 @@ const allTranslations =
             "The attack has a 60% chance to bypass defensive buffs. This includes counterattacks.",
             "The target receives 212 Bleed damage over 4 turns.",
             "The caster regenerates 548 HP over 4 turns.",
-            "If the caster dies during the next 4 turns, they are resurrected in the beginning of their next turn with 32% health. All status effects and stacks are removed when the caster dies."
+            "If the caster is defeated during the next 4 turns, they are resurrected in the beginning of their next turn with 32% health. All status effects and stacks are removed when the caster is defeated."
         ]
     },
     {
@@ -13399,7 +13399,7 @@ const allTranslations =
             "Deals 260% damage to the target and nearby enemies.",
             "The attack bypasses defensive buffs. This includes counterattacks.",
             "The target and nearby enemies receive 648 Bleed damage over 4 turns. The caster absorbs 40% of the dealt Bleed damage as health.",
-            "If the caster dies during the next 4 turns they are resurrected in the beginning of their turn with 40% health. All status effects and stacks are removed when the caster dies."
+            "If the caster is defeated during the next 4 turns, they are resurrected in the beginning of their next turn with 40% health. All status effects and stacks are removed when the caster is defeated."
         ]
     },
     {
@@ -13463,10 +13463,11 @@ const allTranslations =
         "heroId": "institute_wilcox",
         "name": "Wilcox",
         "effects": [
+            "The attack bypasses defensive buffs.",
             "Deals 265% damage to the target.",
-            "The attack chains through all the enemies who are adjacent to any hit enemy and bypasses defensive buffs.",
+            "The attack chains through all the enemies who are adjacent to any hit enemy.",
             "All hit targets 20 Insanity every time they are hit.",
-            "After 1 turn the target gets Paralyzed for4 turns. (Paralyzed enemies can't attack or gain mana and receive +50% increased damage. Once Paralyzed, the effect can't be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)",
+            "After 1 turn the target gets Paralyzed for 4 turns. (Paralyzed enemies can't attack or gain mana and receive +50% increased damage. Once Paralyzed, the effect can't be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)",
             "Casting this Special Skill inflicts 40 Insanity on the caster."
         ]
     },
@@ -14925,8 +14926,8 @@ const allTranslations =
         "name": "Dolores",
         "effects": [
             "For the next 4 turns, this character deals 220% damage and inflicts 15 Insanity to a random target and nearby enemies each time any other ally casts their Special Skill.",
-            "Stack (Max: 10): All allies get +20% attack",
-            "Stack (Max: 10): All allies get +5% mana generation",
+            "Stack (Max: 10): All allies get +20% attack.",
+            "Stack (Max: 10): All allies get +5% mana generation.",
             "Inflicts 50 Insanity to the caster."
         ]
     },
@@ -16126,6 +16127,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "institute_professor_ambrose",
+        "name": "Prof. Ambrose",
+        "effects": [
+            "All enemies succumb to Fear for 5 turns. (The target gets -40% defense. Removes all dispellable buffs and Growth effects when a Fear status effect is added. The target cannot gain new buffs or Growth effects for the duration. Target with Fear deals 160% damage to a random ally each time any other ally casts their Special Skill. Each character can trigger this effect once per turn.)",
+            "Wither: All enemies get -400 attack.",
+            "Deals 400% damage to all enemies and inflicts 25 Insanity on them.",
+            "Casting this Special Skill inflicts 45 Insanity on the caster."
+        ]
+    },
+    {
         "heroId": "s4_professor_lidenbrock",
         "name": "Prof. Lidenbrock",
         "effects": [
@@ -16792,11 +16803,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "institute_professor_ambrose",
-        "name": "Prof. Ambrose",
-        "effects": []
     },
     {
         "heroId": "easter_sir_roostley_costume_alchemist",
