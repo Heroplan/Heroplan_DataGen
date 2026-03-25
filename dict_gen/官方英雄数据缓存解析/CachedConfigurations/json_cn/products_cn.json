@@ -296,7 +296,7 @@
         "id": "lottery_temple_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 170,
+        "uiPriority": 178,
         "associatedEvent": "Temple",
         "bucketWeights": [
           568,
@@ -1833,7 +1833,6 @@
         "id": "com.smallgiantgames.empires.valentinesseasonal_booster",
         "dollarValue": 12,
         "zyngaStoreDollarValueOverride": 11,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -2167,7 +2166,7 @@
         "id": "lottery_black_7th_birthday",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 177,
+        "uiPriority": 179,
         "associatedEvent": "7thBirthday",
         "bonusChest": "7th_birthday_chest",
         "bonusChestRequirement": 10,
@@ -2547,7 +2546,7 @@
         "id": "lottery_covenant_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 169,
+        "uiPriority": 181,
         "associatedEvent": "CovenantSummon",
         "bonusChest": "covenant_chest",
         "bonusChestRequirement": 10,
@@ -2567,7 +2566,7 @@
         "id": "lottery_wilderness_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 171,
+        "uiPriority": 179,
         "associatedEvent": "WildernessSummon",
         "bonusChest": "wilderness_chest",
         "bonusChestRequirement": 10,
@@ -4130,7 +4129,7 @@
         "id": "lottery_mercenary_war_default",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 170,
+        "uiPriority": 180,
         "associatedEvent": "KingdomWar",
         "bonusChest": "3kw_chest",
         "bonusChestRequirement": 5,
@@ -22780,6 +22779,7 @@
         "id": "com.smallgiantgames.empires.selectable_ascension_1",
         "dollarValue": 25,
         "zyngaStoreDollarValueOverride": 23,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23702,7 +23702,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_1",
         "dollarValue": 3,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23726,7 +23725,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_2",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23755,7 +23753,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_3",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23779,7 +23776,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_4",
         "dollarValue": 20,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23808,7 +23804,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_5",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29034,7 +29029,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentinescalendar_tier3",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -32237,18 +32231,19 @@
           },
           {
             "type": "Item",
-            "id": "tome_levels_legendary",
+            "id": "collection_free_talent_points_legendary",
             "amount": 1
           },
           {
             "type": "Item",
-            "id": "tome_levels_epic",
-            "amount": 5
+            "id": "collection_free_talent_points_epic",
+            "amount": 1
           },
           {
-            "type": "Product",
-            "id": "hero_cap_increase",
-            "amount": 1
+            "type": "Item",
+            "id": "misc_free_talent_point",
+            "amount": 2,
+            "zyngaStoreExtraAmount": 1
           },
           {
             "type": "Item",
@@ -37207,7 +37202,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -37244,6 +37238,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic5_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -37253,7 +37248,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic4_alliancegift",
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -37957,7 +37952,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_1a",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -37982,7 +37976,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_1b",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -38007,7 +38000,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_2a",
         "dollarValue": 12,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -38039,7 +38031,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_2b",
         "dollarValue": 12,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -38071,7 +38062,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_3a",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -38111,7 +38101,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_3b",
         "dollarValue": 20,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -59710,5 +59699,5 @@
       }
     ]
   },
-  "productsConfigId": 3116409401
+  "productsConfigId": 2894447007
 }

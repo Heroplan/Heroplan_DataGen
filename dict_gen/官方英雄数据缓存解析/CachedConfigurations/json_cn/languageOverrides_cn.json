@@ -34,6 +34,266 @@
           {
             "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
             "text": "[#!]{CHANCE}[#]% di probabilità di rimuovere 1 disturbo da tutti gli alleati quando subiscono danni da Abilità speciali."
+          },
+          {
+            "key": "eliteclub.agegate.input.description",
+            "text": "Fornisci la tua età"
+          },
+          {
+            "key": "eliteclub.agegate.input.header",
+            "text": "Età:"
+          },
+          {
+            "key": "eliteclub.agegate.input.incorrect",
+            "text": "Immetti la tua età"
+          },
+          {
+            "key": "eliteclub.agegate.input.info",
+            "text": "Ho X anni"
+          },
+          {
+            "key": "eliteclub.agegate.join",
+            "text": "Unisciti"
+          },
+          {
+            "key": "eliteclub.agegate.notification.fillallinfo",
+            "text": "Immetti la tua età"
+          },
+          {
+            "key": "eliteclub.agegate.reward.description",
+            "text": "In quanto membro di grande valore della nostra community, ti invitiamo a unirti al Club élite di Empires & Puzzles. L'iscrizione ti offre accesso e vantaggi!"
+          },
+          {
+            "key": "eliteclub.consentacknowledgement.acceptandclose",
+            "text": "Accetta e chiudi"
+          },
+          {
+            "key": "eliteclub.consentacknowledgement.acceptandupdate",
+            "text": "Accetta e\naggiorna i miei dati"
+          },
+          {
+            "key": "eliteclub.consentacknowledgement.description",
+            "text": "Ciao membro del Club élite, [#!]{0}[#].\nI termini del programma VIP di Zynga sono stati aggiornati. Consulta le informazioni qui sotto. Se non hai ricevuto e-mail o chiamate del Club élite, seleziona \"Aggiorna i miei dati\".\n\n[*] Se hai domande o dubbi, contatta il tuo account manager o scrivici a:\n[#!]VIPrequest@zynga.com[#]"
+          },
+          {
+            "key": "eliteclub.declinetos.confirm",
+            "text": "Ho capito"
+          },
+          {
+            "key": "eliteclub.declinetos.description",
+            "text": "Nota: per continuare a essere un membro del Club élite devi accettare i termini VIP nella pagina precedente.\nSe scegli di non farlo altre [#!]{0}[#] volte, il tuo account verrà escluso dal programma e l'operazione non potrà essere annullata."
+          },
+          {
+            "key": "eliteclub.declinetos.description.optout",
+            "text": "Stai per uscire dal Club élite di Empires & Puzzles. Questa azione non potrà essere annullata."
+          },
+          {
+            "key": "eliteclub.declinetos.goback",
+            "text": "Torna indietro"
+          },
+          {
+            "key": "eliteclub.declinetos.optout",
+            "text": "Esci"
+          },
+          {
+            "key": "eliteclub.emailreminder.error.failedtoverify",
+            "text": "Si è verificato un problema durante la verifica dello stato di conferma dell'e-mail. Se il problema persiste, contatta l'assistenza."
+          },
+          {
+            "key": "eliteclub.informationrequest.description",
+            "text": "In quanto membro di grande valore della nostra community, ti invitiamo a unirti al Club élite di Empires & Puzzles. L'iscrizione ti offre ricompense esclusive, accesso e vantaggi!"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability",
+            "text": "Disponibilità"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability.afternoon",
+            "text": "Pomeriggio"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability.anytime",
+            "text": "Sempre"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability.evening",
+            "text": "Sera"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability.morning",
+            "text": "Mattina"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country",
+            "text": "Paese"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.au",
+            "text": "Australia"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.ca",
+            "text": "Canada"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.gb",
+            "text": "UK"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.countrycode.header",
+            "text": "Numero di telefono (es. +1 - 1234567890)"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.countrycode.incorrect",
+            "text": "esempio: +1"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.email",
+            "text": "E-mail"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.email.incorrect",
+            "text": "esempio: nome@esempio.com"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.name",
+            "text": "Nome"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.name.incorrect",
+            "text": "Inserisci il tuo nome"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.phonenumber",
+            "text": "Numero di telefono"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.phonenumber.incorrect",
+            "text": "esempio: 123456"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.surname",
+            "text": "Cognome"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.surname.incorrect",
+            "text": "Inserisci il tuo cognome"
+          },
+          {
+            "key": "eliteclub.informationrequest.join",
+            "text": "Unisciti"
+          },
+          {
+            "key": "eliteclub.informationrequest.notification.fillallinfo",
+            "text": "Compila tutte le informazioni richieste!"
+          },
+          {
+            "key": "eliteclub.informationrequest.update",
+            "text": "Aggiorna"
+          },
+          {
+            "key": "eliteclub.informationrequest.updatedescription",
+            "text": "Consulta la nostra informativa sulla privacy per sapere come vengono utilizzati i tuoi dati."
+          },
+          {
+            "key": "eliteclub.joincancelled.description",
+            "text": "Se desideri unirti in un secondo momento, puoi trovare il pulsante \"Unisciti al Club élite\" in Menu > Opzioni > Impostazioni."
+          },
+          {
+            "key": "eliteclub.noteligible.description",
+            "text": "Al momento non possiedi i requisiti per entrare a far parte del Club élite."
+          },
+          {
+            "key": "eliteclub.privacy",
+            "text": "Informativa sulla privacy"
+          },
+          {
+            "key": "eliteclub.promotional_emails",
+            "text": "Sì, desidero ricevere messaggi telefonici ed e-mail di marketing ricorrenti da Zynga, sia in diretta che automatizzati, tramite telefono ed e-mail al numero di cellulare e all'indirizzo e-mail forniti sopra, attraverso telefono, segreteria telefonica, sistema di composizione automatica, dispositivo per messaggi vocali registrati o artificiali o altro sistema in diretta o automatizzato. Sono consapevole che il consenso a ricevere messaggi telefonici di marketing automatizzati non è richiesto per effettuare alcun acquisto. La frequenza dei messaggi può variare. Potrebbero essere applicate tariffe per messaggi e dati."
+          },
+          {
+            "key": "eliteclub.rewards.title",
+            "text": "Ricompense"
+          },
+          {
+            "key": "eliteclub.signup.error.sendplayerinformationfailed",
+            "text": "Si è verificato un problema durante la registrazione. Riprova più tardi."
+          },
+          {
+            "key": "eliteclub.terms",
+            "text": "Accetto i termini del programma VIP di Zynga e prendo atto che si applica l'informativa sulla privacy."
+          },
+          {
+            "key": "eliteclub.terms_of_sevice",
+            "text": "Termini del programma VIP"
+          },
+          {
+            "key": "eliteclub.title",
+            "text": "Club élite"
+          },
+          {
+            "key": "eliteclub.title.invite",
+            "text": "Invito al Club élite"
+          },
+          {
+            "key": "eliteclub.title.thankyou",
+            "text": "Grazie"
+          },
+          {
+            "key": "eliteclub.title.update",
+            "text": "Novità dal Club élite"
+          },
+          {
+            "key": "eliteclub.welcome.reward",
+            "text": "Hai ricevuto:"
+          },
+          {
+            "key": "eliteclub.welcome.title",
+            "text": "Benvenuto al"
+          },
+          {
+            "key": "eliteclub.welcome.verification_description",
+            "text": "\"Completa la registrazione tramite il link di verifica che ti è stato inviato via e-mail.\n\n\nGrazie per esserti registrato!\""
+          },
+          {
+            "key": "eliteclub.welcome.verification_update_description",
+            "text": "Verifica il tuo indirizzo e-mail tramite il link di verifica inviato all'indirizzo fornito."
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Club élite"
+          },
+          {
+            "key": "notifications.eliteclub",
+            "text": "Notizie dal Club élite! Accedi e controlla i messaggi!"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.us",
+            "text": "USA"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.de",
+            "text": "Germania"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.es",
+            "text": "Spagna"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.fr",
+            "text": "Francia"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.it",
+            "text": "Italia"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.sa",
+            "text": "Arabia Saudita"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.tr",
+            "text": "Turchia"
           }
         ]
       },
@@ -70,6 +330,34 @@
           {
             "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
             "text": "Шанс [#!]{CHANCE}[#] % снять 1 недуг со всех союзников при получении урона от особых навыков"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.us",
+            "text": "США"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.de",
+            "text": "Германия"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.es",
+            "text": "Испания"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.fr",
+            "text": "Франция"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.it",
+            "text": "Италия"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.sa",
+            "text": "Саудовская Аравия"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.tr",
+            "text": "Турция"
           }
         ]
       },
@@ -106,6 +394,34 @@
           {
             "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
             "text": "[#!]{CHANCE}[#]% szansy na oczyszczenie wszystkich sojuszników z 1 dolegliwości ze statrusu po otrzymaniu obrażeń od umiejętności specjalnej"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.us",
+            "text": "USA"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.de",
+            "text": "Niemcy"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.es",
+            "text": "Hiszpania"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.fr",
+            "text": "Francja"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.it",
+            "text": "Włochy"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.sa",
+            "text": "Arabia Saudyjska"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.tr",
+            "text": "Turcja"
           }
         ]
       },
@@ -142,6 +458,38 @@
           {
             "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
             "text": "當此角色受特殊技能傷害時，有[#!]{CHANCE}[#]%機率可以淨化所有盟友的1個狀態異常。"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.us",
+            "text": "美國"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.de",
+            "text": "德國"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.es",
+            "text": "西班牙"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.fr",
+            "text": "法國"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.it",
+            "text": "義大利"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.sa",
+            "text": "沙烏地阿拉伯"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.tr",
+            "text": "土耳其"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.bleeding.neartotarget.enemies",
+            "text": "目標與附近敵人在{TURNS}個回合內受到{DAMAGE}點流血傷害。"
           }
         ]
       },
@@ -190,6 +538,34 @@
           {
             "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
             "text": "특수 스킬 피해를 받을 때 [#!]{CHANCE}[#]% 확률로 모든 아군에게서 상태 이상 효과 1개를 정화합니다"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.us",
+            "text": "미국"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.de",
+            "text": "독일"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.es",
+            "text": "스페인"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.fr",
+            "text": "프랑스"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.it",
+            "text": "이탈리아"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.sa",
+            "text": "사우디아라비아"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.tr",
+            "text": "터키"
           }
         ]
       },
@@ -238,6 +614,266 @@
           {
             "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
             "text": "[#!]{CHANCE}[#] % Chance, 1 negative Statusänderung von allen Verbündeten zu entfernen, wenn dieser Charakter Schaden durch eine Spezialfähigkeit erleidet."
+          },
+          {
+            "key": "eliteclub.agegate.input.description",
+            "text": "Bitte gib dein Alter an."
+          },
+          {
+            "key": "eliteclub.agegate.input.header",
+            "text": "Alter:"
+          },
+          {
+            "key": "eliteclub.agegate.input.incorrect",
+            "text": "Bitte gib dein Alter an."
+          },
+          {
+            "key": "eliteclub.agegate.input.info",
+            "text": "Ich bin X Jahre alt"
+          },
+          {
+            "key": "eliteclub.agegate.join",
+            "text": "Beitreten"
+          },
+          {
+            "key": "eliteclub.agegate.notification.fillallinfo",
+            "text": "Bitte gib dein Alter an!"
+          },
+          {
+            "key": "eliteclub.agegate.reward.description",
+            "text": "Wir schätzen dich als Spieler wirklich sehr und laden dich ein, dem Empires & Puzzles Elite-Club beizutreten. Auf Mitglieder warten exklusive Bereiche und Vorteile!"
+          },
+          {
+            "key": "eliteclub.consentacknowledgement.acceptandclose",
+            "text": "Annehmen und Schließen"
+          },
+          {
+            "key": "eliteclub.consentacknowledgement.acceptandupdate",
+            "text": "Annehmen und\nmeine Daten aktualisieren"
+          },
+          {
+            "key": "eliteclub.consentacknowledgement.description",
+            "text": "Hallo Elite-Club-Mitglied, [#!]{0}[#].\nDie Richtlinien des Zynga VIP Programms wurden überarbeitet. Bitte lies die Informationen unten durch. Hast du keine E-Mails oder Anrufe über den Elite-Club erhalten, aktualisiere bitte deine Daten.\n\n[*]Bei Fragen oder Bedenken kontaktiere gern jederzeit deinen Kontomanager oder schreibe uns eine E-Mail an:\n [#!]VIPrequest@zynga.com[#]"
+          },
+          {
+            "key": "eliteclub.declinetos.confirm",
+            "text": "Ich verstehe"
+          },
+          {
+            "key": "eliteclub.declinetos.description",
+            "text": "Bitte beachte, dass du den VIP-Richtlinien auf der vorherigen Seite zustimmen musst, um ein Mitglied des Elite-Clubs zu werden.\nWenn du dich noch [#!]{0}[#]-mal dagegen entscheidest, wirst du unwiderruflich aus dem Programm entfernt."
+          },
+          {
+            "key": "eliteclub.declinetos.description.optout",
+            "text": "Du verlässt gleich den Elite-Club von Empires & Puzzles. Dieser Schritt kann nicht rückgängig gemacht werden."
+          },
+          {
+            "key": "eliteclub.declinetos.goback",
+            "text": "Zurück"
+          },
+          {
+            "key": "eliteclub.declinetos.optout",
+            "text": "Verlassen"
+          },
+          {
+            "key": "eliteclub.emailreminder.error.failedtoverify",
+            "text": "Bei der Überprüfung des Verifikationsstatus deiner E-Mail-Adresse ist ein Fehler aufgetreten. Sollte dieser Fehler weiterhin auftreten, wende dich bitte an unseren Support."
+          },
+          {
+            "key": "eliteclub.informationrequest.description",
+            "text": "Wir schätzen dich als Spieler wirklich sehr und laden dich ein, dem Empires & Puzzles Elite-Club beizutreten. Auf Mitglieder warten exklusive Bereiche und Vorteile!"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability",
+            "text": "Verfügbarkeit"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability.afternoon",
+            "text": "Nachmittags"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability.anytime",
+            "text": "Jederzeit"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability.evening",
+            "text": "Abends"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability.morning",
+            "text": "Morgens"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country",
+            "text": "Land"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.au",
+            "text": "Australien"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.ca",
+            "text": "Kanada"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.gb",
+            "text": "Vereinigtes Königreich"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.countrycode.header",
+            "text": "Telefonnummer (e.g. +1 - 1234567890)"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.countrycode.incorrect",
+            "text": "Beispiel: +1"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.email",
+            "text": "E-Mail-Adresse"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.email.incorrect",
+            "text": "Beispiel: name@example.com"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.name",
+            "text": "Vorname"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.name.incorrect",
+            "text": "Gib deinen Vornamen ein."
+          },
+          {
+            "key": "eliteclub.informationrequest.input.phonenumber",
+            "text": "Telefonnummer"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.phonenumber.incorrect",
+            "text": "Beispiel: 123456"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.surname",
+            "text": "Nachname"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.surname.incorrect",
+            "text": "Gib deinen Nachnamen ein."
+          },
+          {
+            "key": "eliteclub.informationrequest.join",
+            "text": "Beitreten"
+          },
+          {
+            "key": "eliteclub.informationrequest.notification.fillallinfo",
+            "text": "Bitte gib alle benötigten Informationen an."
+          },
+          {
+            "key": "eliteclub.informationrequest.update",
+            "text": "Aktualisieren"
+          },
+          {
+            "key": "eliteclub.informationrequest.updatedescription",
+            "text": "Weitere Informationen dazu, wie wir deine Daten verwenden, findest du in unserer Datenschutzrichtlinie."
+          },
+          {
+            "key": "eliteclub.joincancelled.description",
+            "text": "Wenn du später beitreten möchtest, findest du die Option „Dem Elite-Club beitreten“ unter Menü > Optionen > Einstellungen."
+          },
+          {
+            "key": "eliteclub.noteligible.description",
+            "text": "Du bist aktuell nicht berechtigt, dem Elite-Club beizutreten."
+          },
+          {
+            "key": "eliteclub.privacy",
+            "text": "Datenschutzrichtlinie"
+          },
+          {
+            "key": "eliteclub.promotional_emails",
+            "text": "Ja, ich möchte regelmäßige persönliche oder automatische Werbenachrichten in Form von Anrufen, Videoanrufen, einem automatisierten Anrufsystem, mit aufgenommenen oder mit künstlichen Stimmen erstellten Sprachnachrichten oder anderen persönlichen oder automatisierten Systemen von Zynga unter der von mir angegebenen Telefonnummer oder E-Mail-Adresse erhalten. Ich bin darüber informiert, dass der Erhalt von Marketing-Anrufen nicht erforderlich ist, um Käufe tätigen zu können. Es können Kosten für Nachrichten oder Datennutzung anfallen."
+          },
+          {
+            "key": "eliteclub.rewards.title",
+            "text": "Belohnungen"
+          },
+          {
+            "key": "eliteclub.signup.error.sendplayerinformationfailed",
+            "text": "Bei der Anmeldung ist ein Fehler aufgetreten. Bitte versuche es später erneut."
+          },
+          {
+            "key": "eliteclub.terms",
+            "text": "Ich akzeptiere die Zynga-VIP-Richtlinien und nehme zur Kenntnis, dass die Datenschutzrichtlinie gilt"
+          },
+          {
+            "key": "eliteclub.terms_of_sevice",
+            "text": "VIP-Richtlinien"
+          },
+          {
+            "key": "eliteclub.title",
+            "text": "Elite-Club"
+          },
+          {
+            "key": "eliteclub.title.invite",
+            "text": "Elite-Club-Einladung"
+          },
+          {
+            "key": "eliteclub.title.thankyou",
+            "text": "Vielen Dank"
+          },
+          {
+            "key": "eliteclub.title.update",
+            "text": "Elite-Club-Update"
+          },
+          {
+            "key": "eliteclub.welcome.reward",
+            "text": "Du hast Folgendes erhalten:"
+          },
+          {
+            "key": "eliteclub.welcome.title",
+            "text": "Willkommen im"
+          },
+          {
+            "key": "eliteclub.welcome.verification_description",
+            "text": "Bitte schließe deine Anmeldung ab, indem du auf den Bestätigungslink klickst, der an deine E-Mail-Adresse gesendet wurde.\n\nVielen Dank für deine Anmeldung!"
+          },
+          {
+            "key": "eliteclub.welcome.verification_update_description",
+            "text": "Bitte bestätige deine E-Mail-Adresse, indem du auf den Bestätigungslink klickst, der an die angegebene E-Mail-Adresse gesendet wurde."
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Elite-Club"
+          },
+          {
+            "key": "notifications.eliteclub",
+            "text": "Es gibt Neuigkeiten vom Elite-Club! Melde dich an und überprüfe deinen Posteingang!"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.us",
+            "text": "USA"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.de",
+            "text": "Deutschland"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.es",
+            "text": "Spanien"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.fr",
+            "text": "Frankreich"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.it",
+            "text": "Italien"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.sa",
+            "text": "Saudi-Arabien"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.tr",
+            "text": "Türkei"
           }
         ]
       },
@@ -274,6 +910,34 @@
           {
             "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
             "text": "特殊スキルによるダメージを受けると、[#!]{CHANCE}[#]%の確率で、味方全員に付与された浄化可能なステータス異常1つを浄化する。"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.us",
+            "text": "アメリカ"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.de",
+            "text": "ドイツ"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.es",
+            "text": "スペイン"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.fr",
+            "text": "フランス"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.it",
+            "text": "イタリア"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.sa",
+            "text": "サウジアラビア"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.tr",
+            "text": "トルコ"
           }
         ]
       },
@@ -310,6 +974,34 @@
           {
             "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
             "text": "[#!]{CHANCE}[#] % chans att rensa en negativa statuseffekter från alla allierade när karaktären tar skada av en specialförmåga"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.us",
+            "text": "USA"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.de",
+            "text": "Tyskland"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.es",
+            "text": "Spanien"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.fr",
+            "text": "Frankrike"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.it",
+            "text": "Italien"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.sa",
+            "text": "Saudiarabien"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.tr",
+            "text": "Turkiet"
           }
         ]
       },
@@ -346,6 +1038,266 @@
           {
             "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
             "text": "Özel Yetenek hasarı alındığında tüm müttefiklerden, 1 durum engelini arındırmak için %[#!]{CHANCE}[#] şans"
+          },
+          {
+            "key": "eliteclub.agegate.input.description",
+            "text": "Lütfen yaşını gir"
+          },
+          {
+            "key": "eliteclub.agegate.input.header",
+            "text": "Yaş:"
+          },
+          {
+            "key": "eliteclub.agegate.input.incorrect",
+            "text": "Lütfen yaşını gir"
+          },
+          {
+            "key": "eliteclub.agegate.input.info",
+            "text": "X yaşındayım"
+          },
+          {
+            "key": "eliteclub.agegate.join",
+            "text": "Katıl"
+          },
+          {
+            "key": "eliteclub.agegate.notification.fillallinfo",
+            "text": "Lütfen yaşını gir!"
+          },
+          {
+            "key": "eliteclub.agegate.reward.description",
+            "text": "Epey değerli bir oyuncumuz olarak seni Empires & Puzzles Elitler Kulübüne katılmaya davet ediyoruz. Üye olursan erişim ve avantajlar elde edersin!"
+          },
+          {
+            "key": "eliteclub.consentacknowledgement.acceptandclose",
+            "text": "Kabul Et ve Kapat"
+          },
+          {
+            "key": "eliteclub.consentacknowledgement.acceptandupdate",
+            "text": "Kabul Et ve\nBilgilerimi Güncelle"
+          },
+          {
+            "key": "eliteclub.consentacknowledgement.description",
+            "text": "Merhaba Elitler Kulübü Üyesi [#!]{0}[#].\nZynga VIP Programı koşullarımız güncellendi. Lütfen aşağıdaki bilgileri gözden geçir. Elitler Kulübü e-postalarını veya telefon çağrılarını almadıysan lütfen Bilgilerimi Güncelle seçeneğini seç.\n\n[*]Soruların veya endişelerin varsa lütfen hesap yöneticinle iletişime geç veya şu adresten bize e-posta gönder:\n [#!]VIPrequest@zynga.com[#]"
+          },
+          {
+            "key": "eliteclub.declinetos.confirm",
+            "text": "Anladım"
+          },
+          {
+            "key": "eliteclub.declinetos.description",
+            "text": "Elitler Kulübü üyesi olarak devam edebilmek için önceki sayfadaki VIP koşullarını kabul etmen gerektiğini unutma.\nKabul etmezsen [#!]{0}[#] kez daha reddetmen durumunda geri dönülemez şekilde programdan çıkarılırsın."
+          },
+          {
+            "key": "eliteclub.declinetos.description.optout",
+            "text": "Empires & Puzzles Elitler Kulübünden çıkmak üzeresin. Bu eylem geri alınamaz."
+          },
+          {
+            "key": "eliteclub.declinetos.goback",
+            "text": "Geri dön"
+          },
+          {
+            "key": "eliteclub.declinetos.optout",
+            "text": "Çık"
+          },
+          {
+            "key": "eliteclub.emailreminder.error.failedtoverify",
+            "text": "E-posta doğrulama durumunu kontrol ederken bir sorun meydana geldi. Sorun devam ederse lütfen destek ile iletişime geç."
+          },
+          {
+            "key": "eliteclub.informationrequest.description",
+            "text": "Epey değerli bir oyuncumuz olarak seni Empires & Puzzles Elitler Kulübüne katılmaya davet ediyoruz. Üye olursan özel ödüller, erişim ve ayrıcalıklar elde edersin!"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability",
+            "text": "Kullanılabilirlik"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability.afternoon",
+            "text": "Öğleden sonra"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability.anytime",
+            "text": "Her zaman"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability.evening",
+            "text": "Akşam"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability.morning",
+            "text": "Sabah"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country",
+            "text": "Ülke"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.au",
+            "text": "Avustralya"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.ca",
+            "text": "Kanada"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.gb",
+            "text": "UK"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.countrycode.header",
+            "text": "Telefon numarası (ör. +1 - 1234567890)"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.countrycode.incorrect",
+            "text": "örnek: +1"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.email",
+            "text": "E-posta"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.email.incorrect",
+            "text": "örnek: name@example.com"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.name",
+            "text": "Ad"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.name.incorrect",
+            "text": "Adını gir"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.phonenumber",
+            "text": "Telefon numarası"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.phonenumber.incorrect",
+            "text": "örnek: 123456"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.surname",
+            "text": "Aile Adı"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.surname.incorrect",
+            "text": "Aile adını gir"
+          },
+          {
+            "key": "eliteclub.informationrequest.join",
+            "text": "Katıl"
+          },
+          {
+            "key": "eliteclub.informationrequest.notification.fillallinfo",
+            "text": "Lütfen istenen bilgilerin tümünü doldur!"
+          },
+          {
+            "key": "eliteclub.informationrequest.update",
+            "text": "Güncelle"
+          },
+          {
+            "key": "eliteclub.informationrequest.updatedescription",
+            "text": "Verilerinin nasıl kullanacağını öğrenmek için Gizlilik Politikamıza göz at."
+          },
+          {
+            "key": "eliteclub.joincancelled.description",
+            "text": "Daha sonra katılmak istersen \"Elitler Kulübüne Katıl\" düğmesini Menü > Seçenekler > Ayarlar kısmından bulabilirsin."
+          },
+          {
+            "key": "eliteclub.noteligible.description",
+            "text": "Şu anda Elitler Kulübüne katılmaya uygun değilsin."
+          },
+          {
+            "key": "eliteclub.privacy",
+            "text": "Gizlilik Politikası"
+          },
+          {
+            "key": "eliteclub.promotional_emails",
+            "text": "Evet, yukarıda verdiğim cep telefonu numarasına ve e-posta adresine Zynga'dan düzenli olarak canlı veya otomatik pazarlama amaçlı telefon, sesli mesaj, otomatik arama sistemi, kayıtlı veya yapay sesli mesaj cihazı veya diğer canlı veya otomatik sistemler aracılığıyla gönderilebilen telefon ve e-posta mesajları almak istiyorum. Otomatik pazarlama amaçlı telefon mesajları alma izninin herhangi bir satın alma işlemi için gerekli olmadığını anlıyorum. Mesaj sıklığı değişebilir. Mesaj ve veri ücretleri uygulanabilir."
+          },
+          {
+            "key": "eliteclub.rewards.title",
+            "text": "Ödüller"
+          },
+          {
+            "key": "eliteclub.signup.error.sendplayerinformationfailed",
+            "text": "Kayıt esnasında bir sorun meydana geldi. Lütfen daha sonra tekrar dene."
+          },
+          {
+            "key": "eliteclub.terms",
+            "text": "Zynga VIP Programı Koşullarını kabul ediyorum ve Gizlilik Politikasının geçerli olduğunu onaylıyorum."
+          },
+          {
+            "key": "eliteclub.terms_of_sevice",
+            "text": "VIP Programı Koşulları"
+          },
+          {
+            "key": "eliteclub.title",
+            "text": "Elitler Kulübü"
+          },
+          {
+            "key": "eliteclub.title.invite",
+            "text": "Elitler Kulübü Daveti"
+          },
+          {
+            "key": "eliteclub.title.thankyou",
+            "text": "Teşekkürler"
+          },
+          {
+            "key": "eliteclub.title.update",
+            "text": "Elitler Kulübü Güncellemesi"
+          },
+          {
+            "key": "eliteclub.welcome.reward",
+            "text": "Şunları elde ettin:"
+          },
+          {
+            "key": "eliteclub.welcome.title",
+            "text": "Hoş Geldin"
+          },
+          {
+            "key": "eliteclub.welcome.verification_description",
+            "text": "Lütfen e-postana gönderilen doğrulama bağlantısı aracılığıyla kaydını tamamla.\n\nKaydolduğun için teşekkür ederiz!"
+          },
+          {
+            "key": "eliteclub.welcome.verification_update_description",
+            "text": "Lütfen verdiğin adrese gönderilen doğrulama bağlantısı aracılığıyla e-postanı doğrula."
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Elitler kulübü"
+          },
+          {
+            "key": "notifications.eliteclub",
+            "text": "Elitler Kulübünden haberler var! Giriş yap ve Gelen Kutunu kontrol et!"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.us",
+            "text": "ABD"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.de",
+            "text": "Almanya"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.es",
+            "text": "İspanya"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.fr",
+            "text": "Fransa"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.it",
+            "text": "İtalya"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.sa",
+            "text": "Suudi Arabistan"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.tr",
+            "text": "Türkiye"
           }
         ]
       },
@@ -382,6 +1334,30 @@
           {
             "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
             "text": "[#!]{CHANCE}[#]% chance to cleanse 1 status ailment from all allies on received Special Skill damage"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.de",
+            "text": "Germany"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.es",
+            "text": "Spain"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.fr",
+            "text": "France"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.it",
+            "text": "Italy"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.sa",
+            "text": "Saudi Arabia"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.tr",
+            "text": "Turkey"
           }
         ]
       },
@@ -418,6 +1394,266 @@
           {
             "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
             "text": "فرصة بنسبة [#!]{CHANCE}[#]% لتطهير حالة مرضية عن جميع الحلفاء عند تلقي ضرر مهارة خاصة."
+          },
+          {
+            "key": "eliteclub.agegate.input.description",
+            "text": "يُرجى تحديد عمرك"
+          },
+          {
+            "key": "eliteclub.agegate.input.header",
+            "text": "العمر:"
+          },
+          {
+            "key": "eliteclub.agegate.input.incorrect",
+            "text": "يُرجى إدخال عمرك"
+          },
+          {
+            "key": "eliteclub.agegate.input.info",
+            "text": "أبلغ من العمر X عامًا"
+          },
+          {
+            "key": "eliteclub.agegate.join",
+            "text": "انضمام"
+          },
+          {
+            "key": "eliteclub.agegate.notification.fillallinfo",
+            "text": "يُرجى إدخال عمرك"
+          },
+          {
+            "key": "eliteclub.agegate.reward.description",
+            "text": "بصفتك لاعبًا متميزًا معنا، ندعوك للانضمام إلى نادي النخبة في Empires & Puzzles. تمنحك العضوية مزايا وفوائد حصرية!"
+          },
+          {
+            "key": "eliteclub.consentacknowledgement.acceptandclose",
+            "text": "موافقة وإغلاق"
+          },
+          {
+            "key": "eliteclub.consentacknowledgement.acceptandupdate",
+            "text": "موافقة وتحديث معلوماتي"
+          },
+          {
+            "key": "eliteclub.consentacknowledgement.description",
+            "text": "مرحبًا بك يا [#!]{0}[#]، عضو نادي النخبة.\nلقد تم تحديث شروط برنامج Zynga لكبار الشخصيات. يُرجى مراجعة المعلومات أدناه. إذا لم تكن قد تلقيت رسائل البريد الإلكتروني أو المكالمات الهاتفية الخاصة بنادي النخبة، فيُرجى اختيار \"تحديث معلوماتي\".\n\n[*]إذا كانت لديك أي أسئلة أو استفسارات، يُرجى الاتصال بمدير حسابك أو مراسلتنا عبر البريد الإلكتروني على:\n [#!]VIPrequest@zynga.com[#]"
+          },
+          {
+            "key": "eliteclub.declinetos.confirm",
+            "text": "أفهم ذلك"
+          },
+          {
+            "key": "eliteclub.declinetos.description",
+            "text": "يُرجى ملاحظة: لكي تستمر كعضو في نادي النخبة يجب عليك الموافقة على شروط برنامج كبار الشخصيات في الصفحة السابقة.\nإذا اخترت الخروج [#!]{0}[#] من المرات أكثر فسيتم استبعادك من البرنامج، وهو إجراء لا يمكن التراجع عنه."
+          },
+          {
+            "key": "eliteclub.declinetos.description.optout",
+            "text": "أنت على وشك الخروج من نادي النخبة في Empires & Puzzles. لا يمكن التراجع عن هذا الإجراء."
+          },
+          {
+            "key": "eliteclub.declinetos.goback",
+            "text": "عودة"
+          },
+          {
+            "key": "eliteclub.declinetos.optout",
+            "text": "خروج"
+          },
+          {
+            "key": "eliteclub.emailreminder.error.failedtoverify",
+            "text": "حدثت مشكلة أثناء التحقق من حالة البريد الإلكتروني. إذا استمرت المشكلة، يُرجى التواصل مع الدعم."
+          },
+          {
+            "key": "eliteclub.informationrequest.description",
+            "text": "بصفتك لاعبًا متميزًا معنا، ندعوك للانضمام إلى نادي النخبة في Empires & Puzzles. تمنحك العضوية مكافآت، ومزايا، وفوائد حصرية!"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability",
+            "text": "التوفر"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability.afternoon",
+            "text": "بعد الظهر"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability.anytime",
+            "text": "في أي وقت"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability.evening",
+            "text": "المساء"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability.morning",
+            "text": "الصباح"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country",
+            "text": "البلد"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.au",
+            "text": "أستراليا"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.ca",
+            "text": "كندا"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.gb",
+            "text": "المملكة المتحدة"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.countrycode.header",
+            "text": "رقم الهاتف (مثال: 1234567890 - 1+)"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.countrycode.incorrect",
+            "text": "مثال: 1+"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.email",
+            "text": "البريد الإلكتروني"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.email.incorrect",
+            "text": "مثال: name@example.com"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.name",
+            "text": "الاسم الأول"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.name.incorrect",
+            "text": "أدخل اسمك الأول"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.phonenumber",
+            "text": "رقم الهاتف"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.phonenumber.incorrect",
+            "text": "مثال: 123456"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.surname",
+            "text": "اسم العائلة"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.surname.incorrect",
+            "text": "أدخل اسم عائلتك"
+          },
+          {
+            "key": "eliteclub.informationrequest.join",
+            "text": "انضمام"
+          },
+          {
+            "key": "eliteclub.informationrequest.notification.fillallinfo",
+            "text": "يُرجى إكمال جميع البيانات المطلوبة!"
+          },
+          {
+            "key": "eliteclub.informationrequest.update",
+            "text": "تحديث"
+          },
+          {
+            "key": "eliteclub.informationrequest.updatedescription",
+            "text": "يُرجى مراجعة سياسة الخصوصية الخاصة بنا لمعرفة كيفية استخدام بياناتك."
+          },
+          {
+            "key": "eliteclub.joincancelled.description",
+            "text": "إذا كنت ترغب في الانضمام لاحقًا، يمكنك أن تجد زر \"انضمام إلى نادي النخبة\" من القائمة > الخيارات > الإعدادات."
+          },
+          {
+            "key": "eliteclub.noteligible.description",
+            "text": "لست مؤهلًا للانضمام إلى نادي النخبة في الوقت الحالي."
+          },
+          {
+            "key": "eliteclub.privacy",
+            "text": "سياسة الخصوصية"
+          },
+          {
+            "key": "eliteclub.promotional_emails",
+            "text": "نعم، أوافق على تلقي رسائل بريد إلكتروني ومكالمات هاتفية تسويقية دورية (سواء كانت مباشرة أو آلية) من شركة Zynga على رقم الهاتف المحمول والبريد الإلكتروني المقدمين أعلاه، وذلك عبر الهاتف، أو البريد الصوتي، أو نظام اتصال آلي، أو رسائل صوتية مسجلة أو اصطناعية، أو أي نظام مباشر أو آلي آخر. أدرك أن الموافقة على تلقي الرسائل الهاتفية التسويقية الآلية ليست شرطًا لإتمام أي عملية شراء. قد يختلف معدل تكرار الرسائل، كما قد تُطبق رسوم الرسائل والبيانات."
+          },
+          {
+            "key": "eliteclub.rewards.title",
+            "text": "المكافآت"
+          },
+          {
+            "key": "eliteclub.signup.error.sendplayerinformationfailed",
+            "text": "حدثت مشكلة أثناء التسجيل. يُرجى إعادة المحاولة لاحقًا."
+          },
+          {
+            "key": "eliteclub.terms",
+            "text": "أوافق على شروط برنامج Zynga لكبار الشخصيات وأقرّ بأن سياسة الخصوصية تسري على ذلك."
+          },
+          {
+            "key": "eliteclub.terms_of_sevice",
+            "text": "شروط برنامج كبار الشخصيات"
+          },
+          {
+            "key": "eliteclub.title",
+            "text": "نادي النخبة"
+          },
+          {
+            "key": "eliteclub.title.invite",
+            "text": "دعوة للانضمام إلى نادي النخبة"
+          },
+          {
+            "key": "eliteclub.title.thankyou",
+            "text": "شكرًا لك"
+          },
+          {
+            "key": "eliteclub.title.update",
+            "text": "تحديث نادي النخبة"
+          },
+          {
+            "key": "eliteclub.welcome.reward",
+            "text": "لقد تلقيت:"
+          },
+          {
+            "key": "eliteclub.welcome.title",
+            "text": "مرحبًًا بك في"
+          },
+          {
+            "key": "eliteclub.welcome.verification_description",
+            "text": "يُرجى إكمال عملية التسجيل عبر رابط التحقق الذي أرسلناه إلى بريدك الإلكتروني.\n\nشكرًا لك على التسجيل!"
+          },
+          {
+            "key": "eliteclub.welcome.verification_update_description",
+            "text": "يُرجى تأكيد بريدك الإلكتروني عبر رابط التحقق الذي أُرسل إلى العنوان المقدم."
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "نادي النخبة"
+          },
+          {
+            "key": "notifications.eliteclub",
+            "text": "أخبار نادي النخبة! سجّل الدخول وتحقق من بريدك الإلكتروني!"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.us",
+            "text": "الولايات المتحدة الأمريكية"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.de",
+            "text": "ألمانيا"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.es",
+            "text": "إسبانيا"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.fr",
+            "text": "فرنسا"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.it",
+            "text": "إيطاليا"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.sa",
+            "text": "السعودية"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.tr",
+            "text": "تركيا"
           }
         ]
       },
@@ -454,6 +1690,266 @@
           {
             "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
             "text": "[#!]{CHANCE}[#] % de chances de purifier 1 effet négatif purifiable de tous les alliés lorsqu'ils subissent des dégâts de compétence spéciale."
+          },
+          {
+            "key": "eliteclub.agegate.input.description",
+            "text": "Veuillez indiquer votre âge"
+          },
+          {
+            "key": "eliteclub.agegate.input.header",
+            "text": "Âge :"
+          },
+          {
+            "key": "eliteclub.agegate.input.incorrect",
+            "text": "Veuillez saisir votre âge"
+          },
+          {
+            "key": "eliteclub.agegate.input.info",
+            "text": "J'ai X ans"
+          },
+          {
+            "key": "eliteclub.agegate.join",
+            "text": "Rejoindre"
+          },
+          {
+            "key": "eliteclub.agegate.notification.fillallinfo",
+            "text": "Veuillez saisir votre âge !"
+          },
+          {
+            "key": "eliteclub.agegate.reward.description",
+            "text": "En tant que joueur hautement estimé, nous vous invitons à rejoindre le Club des élites d'Empires & Puzzles. En faire partie vous rapporte divers avantages !"
+          },
+          {
+            "key": "eliteclub.consentacknowledgement.acceptandclose",
+            "text": "Accepter et fermer"
+          },
+          {
+            "key": "eliteclub.consentacknowledgement.acceptandupdate",
+            "text": "Accepter et\nMettre à jour mes informations"
+          },
+          {
+            "key": "eliteclub.consentacknowledgement.description",
+            "text": "Bonjour, membre du Club des élites, [#!]{0}[#].\nLes conditions du programme VIP de Zynga ont été mises à jour. Merci d'évaluer les informations ci-dessous. Si vous n'avez pas reçu d'e-mails ni d'appels du Club des élites, veuillez sélectionner Mettre à jour mes informations.\n\n[*]Si vous avez des questions ou des difficultés, contactez votre gestionnaire de compte ou écrivez-nous à :\n [#!]VIPrequest@zynga.com[#]"
+          },
+          {
+            "key": "eliteclub.declinetos.confirm",
+            "text": "Je comprends"
+          },
+          {
+            "key": "eliteclub.declinetos.description",
+            "text": "Remarque : pour continuer à faire partie du Club des élites, vous devez accepter les conditions VIP à la page précédente.\nSi vous refusez [#!]{0}[#] fois de plus, vous serez retiré(e) du programme, et ce définitivement."
+          },
+          {
+            "key": "eliteclub.declinetos.description.optout",
+            "text": "Vous êtes sur le point de quitter le Club des élites d'Empires & Puzzles. Cette action est définitive."
+          },
+          {
+            "key": "eliteclub.declinetos.goback",
+            "text": "Revenir"
+          },
+          {
+            "key": "eliteclub.declinetos.optout",
+            "text": "Quitter"
+          },
+          {
+            "key": "eliteclub.emailreminder.error.failedtoverify",
+            "text": "Un problème est survenu lors de la validation du statut de vérification de l'e-mail. Si le problème persiste, contactez l'assistance."
+          },
+          {
+            "key": "eliteclub.informationrequest.description",
+            "text": "En tant que joueur hautement estimé, nous vous invitons à rejoindre le Club des élites d'Empires & Puzzles. En faire partie vous rapporte des récompenses exclusives et divers avantages !"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability",
+            "text": "Disponibilité"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability.afternoon",
+            "text": "Après-midi"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability.anytime",
+            "text": "N'importe quand"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability.evening",
+            "text": "Soir"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability.morning",
+            "text": "Matin"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country",
+            "text": "Pays"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.au",
+            "text": "Australie"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.ca",
+            "text": "Canada"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.gb",
+            "text": "Royaume-Uni"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.countrycode.header",
+            "text": "Numéro de téléphone (par ex. +33 - 1234567890)"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.countrycode.incorrect",
+            "text": "Exemple : +33"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.email",
+            "text": "Adresse e-mail"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.email.incorrect",
+            "text": "Exemple : monadresse@exemple.com"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.name",
+            "text": "Prénom"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.name.incorrect",
+            "text": "Saisissez votre prénom"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.phonenumber",
+            "text": "Numéro de téléphone"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.phonenumber.incorrect",
+            "text": "Exemple : 123456"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.surname",
+            "text": "Nom de famille"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.surname.incorrect",
+            "text": "Saisssez votre nom de famille"
+          },
+          {
+            "key": "eliteclub.informationrequest.join",
+            "text": "Rejoindre"
+          },
+          {
+            "key": "eliteclub.informationrequest.notification.fillallinfo",
+            "text": "Veuillez renseigner tous les champs !"
+          },
+          {
+            "key": "eliteclub.informationrequest.update",
+            "text": "Mettre à jour"
+          },
+          {
+            "key": "eliteclub.informationrequest.updatedescription",
+            "text": "Consultez notre Politique de confidentialité pour connaître comment vos données sont utilisées."
+          },
+          {
+            "key": "eliteclub.joincancelled.description",
+            "text": "Si vous souhaitez rejoindre plus tard, vous trouverez le bouton Rejoindre le Club des élites dans Menu > Options > Paramètres."
+          },
+          {
+            "key": "eliteclub.noteligible.description",
+            "text": "Vous n'êtes pas admissible pour rejoindre le Club des élites pour le moment."
+          },
+          {
+            "key": "eliteclub.privacy",
+            "text": "Politique de confidentialité"
+          },
+          {
+            "key": "eliteclub.promotional_emails",
+            "text": "Oui, je veux recevoir des messages récurrents en direct ou automatisés par téléphone ou e-mail de la part de Zynga au numéro et à l'adresse indiqués ci-dessus via téléphone, message vocal, système de composition automatique, appareil de message avec voix artificielle ou enregistrée, ou autre système. Je comprends que le consentement à recevoir des messages marketing automatisés par téléphone n'est pas requis pour tout achat. La fréquence des messages variera. Des frais de message et de données peuvent  s'appliquer."
+          },
+          {
+            "key": "eliteclub.rewards.title",
+            "text": "Récompenses"
+          },
+          {
+            "key": "eliteclub.signup.error.sendplayerinformationfailed",
+            "text": "Un problème est survenu pendant l'inscription. Veuillez réessayer plus tard."
+          },
+          {
+            "key": "eliteclub.terms",
+            "text": "J'accepte les conditions du programme VIP de Zynga et reconnais l'application de la Politique de confidentialité."
+          },
+          {
+            "key": "eliteclub.terms_of_sevice",
+            "text": "Conditions du programme VIP"
+          },
+          {
+            "key": "eliteclub.title",
+            "text": "Club des élites"
+          },
+          {
+            "key": "eliteclub.title.invite",
+            "text": "Invitation au Club des élites"
+          },
+          {
+            "key": "eliteclub.title.thankyou",
+            "text": "Merci"
+          },
+          {
+            "key": "eliteclub.title.update",
+            "text": "Mise à jour du Club des élites"
+          },
+          {
+            "key": "eliteclub.welcome.reward",
+            "text": "Vous avez reçu :"
+          },
+          {
+            "key": "eliteclub.welcome.title",
+            "text": "Bienvenue dans le"
+          },
+          {
+            "key": "eliteclub.welcome.verification_description",
+            "text": "Veuillez finaliser votre inscription via le lien de vérification qui a été envoyé à votre adresse e-mail.\n\nMerci de vous être inscrit(e) !"
+          },
+          {
+            "key": "eliteclub.welcome.verification_update_description",
+            "text": "Veuillez authentifier votre adresse e-mail via le lien de vérification qui a été envoyé à l'adresse fournie."
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Club des élites"
+          },
+          {
+            "key": "notifications.eliteclub",
+            "text": "Vous avez des nouvelles du Club des élites ! Connectez-vous et consultez votre boîte de réception !"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.us",
+            "text": "États-Units"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.de",
+            "text": "Allemagne"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.es",
+            "text": "Espagne"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.fr",
+            "text": "France"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.it",
+            "text": "Italie"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.sa",
+            "text": "Arabie saoudite"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.tr",
+            "text": "Turquie"
           }
         ]
       },
@@ -490,6 +1986,34 @@
           {
             "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
             "text": "[#!]{CHANCE}[#]% de chance de expurgar 1 mal de status de todos os aliados ao receber dano de uma habilidade especial."
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.us",
+            "text": "EUA"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.de",
+            "text": "Alemanha"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.es",
+            "text": "Espanha"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.fr",
+            "text": "França"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.it",
+            "text": "Itália"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.sa",
+            "text": "Arábia Saudita"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.tr",
+            "text": "Turquia"
           }
         ]
       },
@@ -526,6 +2050,34 @@
           {
             "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
             "text": "Peluang [#!]{CHANCE}[#]% untuk membersihkan 1 status pelemahan dari semua sekutu atas kerusakan Keahlian Khusus yang diderita"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.us",
+            "text": "AS"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.de",
+            "text": "Jerman"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.es",
+            "text": "Spanyol"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.fr",
+            "text": "Prancis"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.it",
+            "text": "Italia"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.sa",
+            "text": "Arab Saudi"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.tr",
+            "text": "Turki"
           }
         ]
       },
@@ -562,6 +2114,34 @@
           {
             "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
             "text": "[#!]{CHANCE}[#] %:n mahdollisuus puhdistaa yksi vaiva kaikilta liittolaisilta, kun hahmo kärsii vauriota erikoistaidosta"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.us",
+            "text": "USA"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.de",
+            "text": "Saksa"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.es",
+            "text": "Espanja"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.fr",
+            "text": "Ranska"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.it",
+            "text": "Italia"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.sa",
+            "text": "Saudi-Arabia"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.tr",
+            "text": "Turkki"
           }
         ]
       },
@@ -598,6 +2178,34 @@
           {
             "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
             "text": "[#!]{CHANCE}[#] % chance for at fjerne 1 statuslidelse fra alle allierede, når d tager skade fra særlige egenskaber"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.us",
+            "text": "USA"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.de",
+            "text": "Tyskland"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.es",
+            "text": "Spanien"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.fr",
+            "text": "Frankrig"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.it",
+            "text": "Italien"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.sa",
+            "text": "Saudi-Arabien"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.tr",
+            "text": "Tyrkiet"
           }
         ]
       },
@@ -634,6 +2242,266 @@
           {
             "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
             "text": "[#!]{CHANCE} %[#] de probabilidad de purificar 1 estado alterado de todos los aliados cuando recibe daño de la habilidad especial de un enemigo."
+          },
+          {
+            "key": "eliteclub.agegate.input.description",
+            "text": "Indica tu edad."
+          },
+          {
+            "key": "eliteclub.agegate.input.header",
+            "text": "Edad:"
+          },
+          {
+            "key": "eliteclub.agegate.input.incorrect",
+            "text": "Indica tu edad."
+          },
+          {
+            "key": "eliteclub.agegate.input.info",
+            "text": "Tengo X años."
+          },
+          {
+            "key": "eliteclub.agegate.join",
+            "text": "Unirte"
+          },
+          {
+            "key": "eliteclub.agegate.notification.fillallinfo",
+            "text": "¡Indica tu edad!"
+          },
+          {
+            "key": "eliteclub.agegate.reward.description",
+            "text": "Como eres un jugador al que apreciamos, te invitamos a unirte al club de élite de Empires & Puzzles. ¡Suscribirte te da acceso al club y sus beneficios!"
+          },
+          {
+            "key": "eliteclub.consentacknowledgement.acceptandclose",
+            "text": "Aceptar y cerrar"
+          },
+          {
+            "key": "eliteclub.consentacknowledgement.acceptandupdate",
+            "text": "Aceptar y\nActualizar mi información"
+          },
+          {
+            "key": "eliteclub.consentacknowledgement.description",
+            "text": "Hola, miembro del club de élite [#!]{0}[#].\nHemos actualizado las Condiciones del programa VIP de Zynga. Por favor, revisa la información que aparece más abajo. Si no has recibido correos electrónicos o llamadas telefónicas del club de élite, selecciona \"Actualizar mi información\".\n\n[*] Si tienes dudas o preguntas, ponte en contacto con el gestor de tu cuenta o envíamos un correo electrónico a:\n [#!]VIPrequest@zynga.com[#]."
+          },
+          {
+            "key": "eliteclub.declinetos.confirm",
+            "text": "Entendido"
+          },
+          {
+            "key": "eliteclub.declinetos.description",
+            "text": "Nota: Para poder seguir siendo miembro del club de élite, debes aceptar las Condiciones del programa VIP en la página anterior.\nSi decides no acaptarlas [#!]{0}[#] veces más, saldrás del programa y no podrás regresar."
+          },
+          {
+            "key": "eliteclub.declinetos.description.optout",
+            "text": "Estás a punto de salir del club de élite de Empires & Puzzles. Esta acción no puede deshacerse."
+          },
+          {
+            "key": "eliteclub.declinetos.goback",
+            "text": "Volver"
+          },
+          {
+            "key": "eliteclub.declinetos.optout",
+            "text": "Salir"
+          },
+          {
+            "key": "eliteclub.emailreminder.error.failedtoverify",
+            "text": "Ha habido un problema al comprobar el estado de verificación del correo electrónico. Si este problema persiste, ponte en contacto con el equipo de asistencia."
+          },
+          {
+            "key": "eliteclub.informationrequest.description",
+            "text": "Como eres un jugador al que apreciamos, te invitamos a unirte al club de élite de Empires & Puzzles. ¡Suscribirte te da acceso al club, recompensas exclusivas y ventajas!"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability",
+            "text": "Disponibilidad"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability.afternoon",
+            "text": "Tardes"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability.anytime",
+            "text": "Cualquier otra"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability.evening",
+            "text": "Tardes-noches"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.availability.morning",
+            "text": "Mañanas"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country",
+            "text": "País"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.au",
+            "text": "Australia"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.ca",
+            "text": "Canadá"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.gb",
+            "text": "Reino Unido"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.countrycode.header",
+            "text": "Número de teléfono (p. ej.: +1 - 1234567890)"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.countrycode.incorrect",
+            "text": "Ejemplo: +1"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.email",
+            "text": "Correo electrónico"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.email.incorrect",
+            "text": "Ejemplo: name@example.com"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.name",
+            "text": "Nombre"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.name.incorrect",
+            "text": "Escribe tu nombre."
+          },
+          {
+            "key": "eliteclub.informationrequest.input.phonenumber",
+            "text": "Número de teléfono"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.phonenumber.incorrect",
+            "text": "Ejemplo: 123456"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.surname",
+            "text": "Apellido"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.surname.incorrect",
+            "text": "Escribe tu apellido."
+          },
+          {
+            "key": "eliteclub.informationrequest.join",
+            "text": "Unirte"
+          },
+          {
+            "key": "eliteclub.informationrequest.notification.fillallinfo",
+            "text": "¡Rellena toda la información solicitada!"
+          },
+          {
+            "key": "eliteclub.informationrequest.update",
+            "text": "Actualizar"
+          },
+          {
+            "key": "eliteclub.informationrequest.updatedescription",
+            "text": "Consulta nuestra Política de Privacidad para saber cómo se usan tus datos."
+          },
+          {
+            "key": "eliteclub.joincancelled.description",
+            "text": "Si deseas unirte más adelante, encontrarás el botón \"Unirte al club de élite\"  en la sección \"Menú\" > \"Opciones\" > \"Ajustes\"."
+          },
+          {
+            "key": "eliteclub.noteligible.description",
+            "text": "En este momento, no puedes optar a unirte al club de élite."
+          },
+          {
+            "key": "eliteclub.privacy",
+            "text": "Política de Privacidad"
+          },
+          {
+            "key": "eliteclub.promotional_emails",
+            "text": "Sí, deseo recibir correos electrónicos y llamadas telefónicas, de agentes o automatizadas, de parte de Zynga al número de teléfono y a la dirección de correo electrónico que he proporcionado antes mediante teléfono, mensajes de voz, un sistema de marcado automatizado, un dispositivo de mensajes de voz grabados o artificiales, u otro sistema en directo o automatizado. Entiendo que el permiso para recibir mensajes publicitarios de voz artificiales no es necesario para realizar ninguna compra. La frecuencia de los mensajes puede variar. Se pueden aplicar tarifas por datos o por mensajes."
+          },
+          {
+            "key": "eliteclub.rewards.title",
+            "text": "Recompensas"
+          },
+          {
+            "key": "eliteclub.signup.error.sendplayerinformationfailed",
+            "text": "Ha habido un problema con la inscripción. Inténtalo más tarde."
+          },
+          {
+            "key": "eliteclub.terms",
+            "text": "Acepto las Condiciones del programa VIP de Zynga y entiendo que se aplica la Política de Privacidad."
+          },
+          {
+            "key": "eliteclub.terms_of_sevice",
+            "text": "Condiciones del programa VIP"
+          },
+          {
+            "key": "eliteclub.title",
+            "text": "Club de élite"
+          },
+          {
+            "key": "eliteclub.title.invite",
+            "text": "Invitación al club de élite"
+          },
+          {
+            "key": "eliteclub.title.thankyou",
+            "text": "Gracias"
+          },
+          {
+            "key": "eliteclub.title.update",
+            "text": "Actualización del club de élite"
+          },
+          {
+            "key": "eliteclub.welcome.reward",
+            "text": "Has recibido:"
+          },
+          {
+            "key": "eliteclub.welcome.title",
+            "text": "Te damos la bienvenida a"
+          },
+          {
+            "key": "eliteclub.welcome.verification_description",
+            "text": "Completa tu inscripción mediante el enlace de verificación que te hemos enviado a tu dirección de correo electrónico.\n\n¡Gracias por inscribirte!"
+          },
+          {
+            "key": "eliteclub.welcome.verification_update_description",
+            "text": "Verifica tu correo electrónico mediante el enlace de verificación que te hemos enviado a la dirección de correo electrónico que nos has proporcionado."
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Club de élite"
+          },
+          {
+            "key": "notifications.eliteclub",
+            "text": "¡Noticias del club de élite! Inicia sesión y mira en tu bandeja de entrada."
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.us",
+            "text": "EE. UU."
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.de",
+            "text": "Alemania"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.es",
+            "text": "España"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.fr",
+            "text": "Francia"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.it",
+            "text": "Italia"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.sa",
+            "text": "Arabia Saudí"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.tr",
+            "text": "Turquía"
           }
         ]
       },
@@ -670,6 +2538,34 @@
           {
             "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
             "text": "[#!]{CHANCE}[#] % sjanse til å rense 1 statuslidelse som kan renses, fra alle allierte når den tar skade fra spesialferdighet."
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.us",
+            "text": "USA"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.de",
+            "text": "Tyskland"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.es",
+            "text": "Spania"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.fr",
+            "text": "Frankrike"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.it",
+            "text": "Italia"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.sa",
+            "text": "Saudi-Arabia"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.tr",
+            "text": "Tyrkia"
           }
         ]
       },
@@ -706,6 +2602,34 @@
           {
             "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
             "text": "[#!]{CHANCE}[#]% kans om één zuiverbare statusaandoeningen te zuiveren van alle bondgenoten wanneer ze schade oplopen door een speciale vaardigheid"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.us",
+            "text": "VS"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.de",
+            "text": "Duitsland"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.es",
+            "text": "Spanje"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.fr",
+            "text": "Frankrijk"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.it",
+            "text": "Italië"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.sa",
+            "text": "Saoedi-Arabië"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.tr",
+            "text": "Turkije"
           }
         ]
       },
@@ -742,10 +2666,38 @@
           {
             "key": "familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff",
             "text": "受到特殊技能伤害时，有[#!]{CHANCE}[#]%几率为所有盟友净化1种状态异常"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.us",
+            "text": "美国"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.de",
+            "text": "德国"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.es",
+            "text": "西班牙"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.fr",
+            "text": "法国"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.it",
+            "text": "意大利"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.sa",
+            "text": "沙特阿拉伯"
+          },
+          {
+            "key": "eliteclub.informationrequest.input.country.tr",
+            "text": "土耳其"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 2015096821
+  "languageOverridesConfigId": 3413048647
 }

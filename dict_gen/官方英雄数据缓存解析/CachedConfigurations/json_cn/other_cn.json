@@ -3091,8 +3091,8 @@
               "musketeer_queen_anne"
             ],
             "eventBonus": "event_hero_bonus_alliance_quest",
-            "startTime": "2026-04-11 07:00:00",
-            "endTime": "2026-04-16 07:00:00"
+            "startTime": "2026-04-16 07:00:00",
+            "endTime": "2026-04-21 07:00:00"
           },
           {
             "id": "AllianceQuestMusketeers",
@@ -3100,14 +3100,15 @@
             "eventBundle": "bundle_challenge_1",
             "eventOffer": "alliancequest_calendar",
             "eventEndingOffer": "",
+            "manuallyOverwritten": true,
             "featuredCharacters": [
               "musketeer_cardinal_richelieu",
               "musketeer_rochefort",
               "musketeer_porthos_costume_merchant"
             ],
             "eventBonus": "event_hero_bonus_alliance_quest",
-            "startTime": "2026-06-03 07:00:00",
-            "endTime": "2026-06-08 07:00:00"
+            "startTime": "2026-05-08 07:00:00",
+            "endTime": "2026-05-13 07:00:00"
           }
         ],
         "treasureQuestEventEntries": [
@@ -3537,13 +3538,6 @@
             "endTime": "2026-04-15 07:00:00"
           },
           {
-            "id": "AllianceQuestMusketeers",
-            "targetEvent": "AllianceQuestMusketeers",
-            "rareMonsterStateConfigId": "alliance_quest2",
-            "startTime": "2026-04-11 07:00:00",
-            "endTime": "2026-04-16 07:00:00"
-          },
-          {
             "id": "AncientDragon",
             "targetEvent": "AncientDragon",
             "rareMonsterStateConfigId": "ancient_dragon",
@@ -3556,6 +3550,13 @@
             "rareMonsterStateConfigId": "map_season3",
             "startTime": "2026-04-15 07:00:00",
             "endTime": "2026-04-19 07:00:00"
+          },
+          {
+            "id": "AllianceQuestMusketeers",
+            "targetEvent": "AllianceQuestMusketeers",
+            "rareMonsterStateConfigId": "alliance_quest2",
+            "startTime": "2026-04-16 07:00:00",
+            "endTime": "2026-04-21 07:00:00"
           },
           {
             "id": "lottery_season_underwild_2026_6_18",
@@ -3593,6 +3594,13 @@
             "endTime": "2026-05-09 07:00:00"
           },
           {
+            "id": "AllianceQuestMusketeers",
+            "targetEvent": "AllianceQuestMusketeers",
+            "rareMonsterStateConfigId": "alliance_quest2",
+            "startTime": "2026-05-08 07:00:00",
+            "endTime": "2026-05-13 07:00:00"
+          },
+          {
             "id": "AncientDragon",
             "targetEvent": "AncientDragon",
             "rareMonsterStateConfigId": "ancient_dragon",
@@ -3621,18 +3629,18 @@
             "endTime": "2026-06-06 07:00:00"
           },
           {
-            "id": "AllianceQuestMusketeers",
-            "targetEvent": "AllianceQuestMusketeers",
-            "rareMonsterStateConfigId": "alliance_quest2",
-            "startTime": "2026-06-03 07:00:00",
-            "endTime": "2026-06-08 07:00:00"
-          },
-          {
             "id": "AncientDragon",
             "targetEvent": "AncientDragon",
             "rareMonsterStateConfigId": "ancient_dragon",
             "startTime": "2026-06-09 07:00:00",
             "endTime": "2026-06-13 07:00:00"
+          },
+          {
+            "id": "AncientDragon",
+            "targetEvent": "AncientDragon",
+            "rareMonsterStateConfigId": "ancient_dragon",
+            "startTime": "2026-06-16 07:00:00",
+            "endTime": "2026-06-20 07:00:00"
           }
         ],
         "challengeEventsConfig": {
@@ -54037,18 +54045,6 @@
           "entries": [
             {
               "overridden": true,
-              "id": "mercenary_war_31_3_2026",
-              "startTime": "2026-01-13 07:00:00",
-              "endTime": "2026-01-18 07:00:00"
-            },
-            {
-              "overridden": true,
-              "id": "mercenary_war_26_5_2026",
-              "startTime": "2026-02-01 07:00:00",
-              "endTime": "2026-02-06 07:00:00"
-            },
-            {
-              "overridden": true,
               "id": "mercenary_war_3_1_2026",
               "startTime": "2026-03-01 07:00:00",
               "endTime": "2026-03-06 07:00:00"
@@ -54058,6 +54054,24 @@
               "id": "mercenary_war_28_3_2026",
               "startTime": "2026-03-28 07:00:00",
               "endTime": "2026-04-02 07:00:00"
+            },
+            {
+              "overridden": true,
+              "id": "mercenary_war_6_4_2026",
+              "startTime": "2026-04-11 07:00:00",
+              "endTime": "2026-04-16 07:00:00"
+            },
+            {
+              "overridden": true,
+              "id": "mercenary_war_21_5_2026",
+              "startTime": "2026-05-21 07:00:00",
+              "endTime": "2026-05-26 07:00:00"
+            },
+            {
+              "overridden": true,
+              "id": "mercenary_war_13_6_2026",
+              "startTime": "2026-06-13 07:00:00",
+              "endTime": "2026-06-18 07:00:00"
             }
           ]
         },
@@ -86319,6 +86333,36 @@
         "minimumPlayerAge": 21,
         "countries": [
           {
+            "country": "sa",
+            "enabled": true,
+            "flagId": "flag_saudi",
+            "localeCode": "ar_EG"
+          },
+          {
+            "country": "tr",
+            "enabled": true,
+            "flagId": "flag_turkey",
+            "localeCode": "tr_TR"
+          },
+          {
+            "country": "es",
+            "enabled": true,
+            "flagId": "flag_spain",
+            "localeCode": "es_ES"
+          },
+          {
+            "country": "de",
+            "enabled": true,
+            "flagId": "flag_germany",
+            "localeCode": "de_DE"
+          },
+          {
+            "country": "it",
+            "enabled": true,
+            "flagId": "flag_italy",
+            "localeCode": "it_IT"
+          },
+          {
             "country": "au",
             "enabled": true,
             "tosLinkOverride": "",
@@ -86345,6 +86389,12 @@
             "tosLinkOverride": "",
             "flagId": "flag_briton",
             "localeCode": "en_US"
+          },
+          {
+            "country": "fr",
+            "enabled": true,
+            "flagId": "flag_france",
+            "localeCode": "fr_FR"
           }
         ],
         "termsVersion": "v2000",
@@ -86651,7 +86701,7 @@
           }
         ]
       },
-      "d2CMaxVersionEnabled": "84.0.1",
+      "d2CMaxVersionEnabled": "84.0.2",
       "schedulesGlobalConfig": {
         "generatedScheduleTimeSpanSeconds": 12096000,
         "editorWarningThresholdSeconds": 3456000,
@@ -86715,6 +86765,17 @@
         "showInstantlyIfPossible": true,
         "waitForShopInitialization": false,
         "ignoreActivityTriggersPopupsRequirement": false
+      },
+      {
+        "type": "LeftTopOffer",
+        "group": "Essential",
+        "priority": 999,
+        "cooldownSeconds": 14400,
+        "cooldownXpLevels": 0,
+        "delayOnStartupSeconds": 0,
+        "showInstantlyIfPossible": false,
+        "waitForShopInitialization": true,
+        "ignoreActivityTriggersPopupsRequirement": false
       }
     ],
     "ratingPromptDisabledLanguages": [],
@@ -86743,8 +86804,8 @@
     "languageSelectionEnabled": true,
     "maxVersionToShowUpdateOutReminderAndroid": "84.0.0",
     "maxVersionToShowUpdateOutReminderIos": "84.0.0",
-    "maxVersionToShowUpdateOutReminderAndroidStandalone": "84.0.0",
-    "standaloneNewVersionRolloutPercentage": 100,
+    "maxVersionToShowUpdateOutReminderAndroidStandalone": "84.0.1",
+    "standaloneNewVersionRolloutPercentage": 70,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -86836,5 +86897,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 4180575951
+  "otherConfigId": 2284487251
 }

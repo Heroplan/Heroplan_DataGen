@@ -45371,5 +45371,31 @@ window.allHeroesExtra = [
             "corrupt_minions_all_enemies"
         ],
         "family": "institute"
+    },
+    {
+        "name": "Bhairavi Devi",
+        "fancy name": "Jestful Thakurain",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
+        "Release date": "2026-03-24",
+        "AetherPower": "Heal Increase",
+        "skill_types": [
+            "Healers",
+            "Cleansers",
+            "Healers (Special)",
+            "Sleepweavers"
+        ],
+        "heroId": "mahayoddha_bhairavi_devi",
+        "baseAttack": 645,
+        "baseDefense": 656,
+        "baseHealth": 1115,
+        "specialId": "thandai_trance",
+        "passiveSkills": [
+            "resist_negative_minion_and_mega_minion_effects",
+            "mana_on_damage_received"
+        ],
+        "family": "mahayoddha"
     }
 ];

@@ -28615,9 +28615,9 @@
     "id": "沙尔-艾兰",
     "element": "红",
     "family": "野猫家族",
-    "baseHealth": 1033,
-    "baseAttack": 680,
-    "baseDefense": 590,
+    "baseHealth": 1131,
+    "baseAttack": 692,
+    "baseDefense": 592,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "resist_all_defense_effects",
@@ -29315,9 +29315,9 @@
     "id": "项充",
     "element": "绿",
     "family": "梁山好汉家族",
-    "baseHealth": 1108,
-    "baseAttack": 660,
-    "baseDefense": 633,
+    "baseHealth": 1111,
+    "baseAttack": 664,
+    "baseDefense": 637,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "resist_bleed",
@@ -29328,7 +29328,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "利刃风暴",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-03-28 07:00:00",
     "origin": "KingdomWar"
   },
   "magic_carpet_zazha": {
@@ -30788,9 +30788,9 @@
     "id": "丹岩",
     "element": "绿",
     "family": "机械家族",
-    "baseHealth": 1098,
-    "baseAttack": 592,
-    "baseDefense": 624,
+    "baseHealth": 1114,
+    "baseAttack": 640,
+    "baseDefense": 667,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "minion_core",
@@ -30800,7 +30800,7 @@
     "aetherGift": "Damage Reduction",
     "rarity": 5,
     "specialId": "远古科技",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-03-29 07:00:00",
     "origin": "盟约召唤"
   },
   "goblin_soursting": {
@@ -34421,7 +34421,7 @@
       "prevent_boosted_health"
     ],
     "classType": "盗贼",
-    "aetherGift": "Dodge",
+    "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "手里剑风暴",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -34497,7 +34497,7 @@
       "resist_special_blocking_with_health_boost_and_mana"
     ],
     "classType": "巫师",
-    "aetherGift": "Special Boost",
+    "aetherGift": "Special Armor",
     "rarity": 5,
     "specialId": "苦难凋零",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -34507,9 +34507,9 @@
     "id": "巴洛维德威",
     "element": "蓝",
     "family": "马哈尤达家族",
-    "baseHealth": 1135,
-    "baseAttack": 634,
-    "baseDefense": 645,
+    "baseHealth": 1115,
+    "baseAttack": 645,
+    "baseDefense": 656,
     "manaSpeedId": "慢",
     "passiveSkills": [
       "resist_negative_minion_and_mega_minion_effects",
@@ -34519,7 +34519,7 @@
     "aetherGift": "Heal Increase",
     "rarity": 5,
     "specialId": "香料牛奶昏睡",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-03-24 07:00:00",
     "origin": "风泽神殿"
   }
 }

@@ -1237,6 +1237,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "mahayoddha_bhairavi_devi",
+        "name": "Bhairavi Devi",
+        "effects": [
+            "Recovers 44% health for all allies.",
+            "Growth Boon: Deals 2x extra health for each point of modified defense. (Extra health is based on the modified defense on the caster when healing is applied. Up to maximum 800 of additional healing. Status effects affecting healing received do affect the healing scaling.)",
+            "Cleanses status ailments from all allies.",
+            "All enemies fall into Deep Sleep and receive +80% increased damage while in Deep Sleep. (The character in Deep Sleep cannot gain mana or attack. The character in Deep Sleep is woken once it takes 750 damage. This effect is uncleasable.)"
+        ]
+    },
+    {
         "heroId": "bard_bhaltair",
         "name": "Bhaltair",
         "effects": [
@@ -8197,7 +8207,7 @@ const allTranslations =
             "This Special Skill never misses its targets.",
             "Deals 500% damage to the target.",
             "Growth Boon: Deals 2x extra damage for each point of modified attack. (Wither and Growth modify character's Ability Scores.)",
-            "Wither: The target get -350 defense."
+            "Wither: The target gets -350 defense."
         ]
     },
     {

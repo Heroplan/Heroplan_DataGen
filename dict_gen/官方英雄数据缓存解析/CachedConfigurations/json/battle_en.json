@@ -46573,8 +46573,8 @@
         "id": "debuff_shield_with_heal_on_resist_dularfulr_engineer",
         "buff": "MinorBuff",
         "effectOnResistedStatusEffect": "Heal",
-        "fixedPower": 85,
-        "fixedPowerIncrementPerLevel": 5,
+        "fixedPower": 230,
+        "fixedPowerIncrementPerLevel": 10,
         "statusEffectOnResist": {
           "id": ""
         }
@@ -50829,7 +50829,7 @@
         "statusEffect": "MoonriseWard",
         "id": "fire_ward_dularfulr_engineer",
         "buff": "MinorBuff",
-        "fixedDamageModifier": 64996,
+        "fixedDamageModifier": 65046,
         "fixedDamageModifierPerLevel": 226,
         "validEffectSources": [
           "SpecialSkill",
@@ -58679,7 +58679,7 @@
         "statusEffect": "CurseOfDoom",
         "id": "curse_cordelia",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 800,
+        "damageMultiplierPerMil": 650,
         "damageMultiplierIncrementPerLevelPerMil": 50,
         "damageIncrementFactorPerMil": 1400,
         "lastHitWeightPerMil": 300
@@ -58883,7 +58883,7 @@
           {
             "typeOfTarget": "Random",
             "effectType": "Damage",
-            "powerMultiplierPerMil": 2050,
+            "powerMultiplierPerMil": 2650,
             "powerMultiplierIncrementPerLevelPerMil": 50
           }
         ],
@@ -58900,7 +58900,7 @@
           {
             "typeOfTarget": "Random",
             "effectType": "Damage",
-            "powerMultiplierPerMil": 2050,
+            "powerMultiplierPerMil": 2650,
             "powerMultiplierIncrementPerLevelPerMil": 50
           }
         ],
@@ -58917,7 +58917,7 @@
           {
             "typeOfTarget": "Random",
             "effectType": "Damage",
-            "powerMultiplierPerMil": 2050,
+            "powerMultiplierPerMil": 2650,
             "powerMultiplierIncrementPerLevelPerMil": 50
           }
         ],
@@ -91895,5 +91895,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 2341873523
+  "battleConfigId": 3446063821
 }

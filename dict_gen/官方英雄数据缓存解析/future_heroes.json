@@ -636,18 +636,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Xiang Chong",
-        "fancy_name": "Flying Star of Water Margin",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "outlaw",
-        "costume_id": 0,
-        "heroId": "outlaw_xiang_chong",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Sylosis",
         "fancy_name": "Martial Artist Construct",
         "color": "Green",
@@ -657,18 +645,6 @@
         "family": "construct",
         "costume_id": 0,
         "heroId": "construct_sylosis",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Dancrag",
-        "fancy_name": "Ancient Colossus Construct",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "construct",
-        "costume_id": 0,
-        "heroId": "construct_dancrag",
         "Lottery_Only": 1
     },
     {
@@ -1293,18 +1269,6 @@
         "family": "vegetable",
         "costume_id": 0,
         "heroId": "vegetable_auberguy",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Bhairavi Devi",
-        "fancy_name": "Jestful Thakurain",
-        "color": "Blue",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "mahayoddha",
-        "costume_id": 0,
-        "heroId": "mahayoddha_bhairavi_devi",
         "Lottery_Only": 1
     },
     {

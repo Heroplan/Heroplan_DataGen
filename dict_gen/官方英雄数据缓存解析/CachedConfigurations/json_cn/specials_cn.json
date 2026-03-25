@@ -55338,7 +55338,7 @@
             "id": "curse_cordelia",
             "sideAffected": "Enemies",
             "statusTargetType": "NearToTarget",
-            "turns": 4
+            "turns": 5
           },
           {
             "id": "damage_all_allies_on_death_cordelia",
@@ -55630,7 +55630,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3200,
+          "powerMultiplierPerMil": 4650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -55652,7 +55652,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3400,
+          "powerMultiplierPerMil": 5400,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -55674,7 +55674,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3800,
+          "powerMultiplierPerMil": 6150,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -60282,7 +60282,7 @@
       {
         "propertyType": "DelayTurnsToAttack",
         "id": "delay_normal_attacks_rawn",
-        "delay": 4,
+        "delay": 3,
         "effectTargetType": "All"
       },
       {
@@ -60305,7 +60305,7 @@
             "id": "nullify_normal_attacks",
             "sideAffected": "Enemies",
             "statusTargetType": "All",
-            "turns": 4
+            "turns": 3
           }
         ]
       },
@@ -60317,7 +60317,7 @@
             "id": "taunt",
             "sideAffected": "Allies",
             "statusTargetType": "Single",
-            "turns": 6
+            "turns": 5
           }
         ]
       },
@@ -65470,8 +65470,8 @@
             "turns": 6
           }
         ],
-        "powerForTargetsThatMeetConditionPerMil": 6550,
-        "powerForOtherTargetsPerMil": 4250,
+        "powerForTargetsThatMeetConditionPerMil": 5650,
+        "powerForOtherTargetsPerMil": 3650,
         "powerIncrementPerLevelPerMil": 50,
         "directionOfCondition": "Highest",
         "statForCondition": "CurrentHp",
@@ -67765,7 +67765,7 @@
         ],
         "allowMainTargetInRandomTargets": true,
         "applyStatusEffectsOnHit": true,
-        "minorDamageOnExtraHits": false
+        "minorDamageOnExtraHits": true
       },
       {
         "propertyType": "RemoveStatusEffects",
@@ -68903,20 +68903,21 @@
       {
         "propertyType": "StatusEffectReallocation",
         "id": "buff_steal_nagato_2",
-        "reallocateToTargetType": "All",
+        "reallocateToTargetType": "Single",
         "reallocateToSideAffected": "Allies",
         "reallocateStatusEffectType": "MinorBuff",
         "customReallocationCount": 2,
-        "targetType": "NearToTarget",
+        "reallocateRandomStatusEffect": true,
+        "targetType": "Single",
         "sideAffected": "Enemies"
       },
       {
         "propertyType": "StatusEffectReallocation",
         "id": "buff_steal_nagato_3",
-        "reallocateToTargetType": "All",
+        "reallocateToTargetType": "Single",
         "reallocateToSideAffected": "Allies",
         "reallocateStatusEffectType": "MinorBuff",
-        "targetType": "All",
+        "targetType": "Single",
         "sideAffected": "Enemies"
       },
       {
@@ -69075,5 +69076,5 @@
       }
     ]
   },
-  "specialsConfigId": 2233178082
+  "specialsConfigId": 1354986973
 }

@@ -481,18 +481,13 @@
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_costume_key",
-            "amount": 2
+            "id": "lottery_shadow_coin",
+            "amount": 50
           },
           {
             "type": "Item",
-            "id": "lottery_covenant_coin",
-            "amount": 35
-          },
-          {
-            "type": "Item",
-            "id": "lottery_legendary_troop",
-            "amount": 35
+            "id": "lottery_monster_island_coin",
+            "amount": 50
           }
         ]
       },
@@ -540,14 +535,8 @@
         "id": "dynamic5_alliancegift",
         "contents": [
           {
-            "type": "Item",
-            "id": "lottery_covenant_coin",
-            "amount": 50
-          },
-          {
-            "type": "Item",
-            "id": "lottery_tower_coin",
-            "amount": 50
+            "type": "Gem",
+            "amount": 100
           }
         ]
       },
@@ -20530,25 +20519,18 @@
         "id": "dragon_dynamic_11_stargazer",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_3b",
-            "purchaseLimit": 3
+            "id": "com.smallgiantgames.empires.dynamic_25",
+            "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_7c",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_20b",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_100c",
-            "purchaseLimit": 1
+            "id": "com.smallgiantgames.empires.dynamic_10e",
+            "purchaseLimit": 2
           }
         ],
         "mode": "Dragon",
         "offerCategory": "Dynamic",
         "zyngaStoreEnabled": true,
+        "dynamicType": "AllianceGift",
         "titleKey": "shop.offers.title.dynamic.dragon.cosmic"
       },
       {
@@ -20849,7 +20831,8 @@
             "id": "offer_shadow_step_up_free_12",
             "purchaseLimit": 1
           }
-        ]
+        ],
+        "zyngaStoreEnabled": true
       },
       {
         "offerType": "TimedProducts",
@@ -23707,20 +23690,12 @@
         "id": "dynamic_offer_4_purple_senan",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_3",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_7",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_20b",
+            "id": "com.smallgiantgames.empires.dynamic_12b",
             "purchaseLimit": 2
           },
           {
-            "id": "offer_dynamic_free",
-            "purchaseLimit": 1
+            "id": "com.smallgiantgames.empires.dynamic_7d",
+            "purchaseLimit": 2
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -26209,7 +26184,6 @@
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
-        "dynamicType": "AllianceGift",
         "titleKey": "shop.offers.title.dynamic.destined_deals"
       },
       {
@@ -26217,24 +26191,8 @@
         "id": "dynamic_offer_9_purple_morganite",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_3",
+            "id": "com.smallgiantgames.empires.dynamic_10f",
             "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_7b",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_10b",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_30b",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "offer_dynamic_free",
-            "purchaseLimit": 1
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -26242,6 +26200,7 @@
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
+        "dynamicType": "AllianceGift",
         "titleKey": "shop.offers.title.dynamic.feel_the_might"
       },
       {
@@ -26879,28 +26838,8 @@
         "id": "dynamic_offer_12_blue_fenrir",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_12",
+            "id": "com.smallgiantgames.empires.dynamic_10d",
             "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_30",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_12b",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_20",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_10b",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_30b",
-            "purchaseLimit": 2
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -27019,12 +26958,12 @@
         "id": "dynamic_offer_16_celebration_cake",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_35",
-            "purchaseLimit": 1
+            "id": "com.smallgiantgames.empires.dynamic_15d",
+            "purchaseLimit": 4
           },
           {
             "id": "com.smallgiantgames.empires.dynamic_35b",
-            "purchaseLimit": 1
+            "purchaseLimit": 2
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -27039,11 +26978,11 @@
         "id": "dynamic_offer_17_celebration_fireworks",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_17",
-            "purchaseLimit": 2
+            "id": "com.smallgiantgames.empires.dynamic_35b",
+            "purchaseLimit": 4
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_12c",
+            "id": "com.smallgiantgames.empires.dynamic_100d",
             "purchaseLimit": 2
           }
         ],
@@ -27059,39 +26998,11 @@
         "id": "dynamic_offer_18_ducks",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_12",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_30",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_12b",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_20",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_7",
+            "id": "com.smallgiantgames.empires.dynamic_15d",
             "purchaseLimit": 4
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_12c",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_10",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_30b",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_7b",
+            "id": "com.smallgiantgames.empires.dynamic_35b",
             "purchaseLimit": 2
           }
         ],
@@ -27781,6 +27692,7 @@
             "purchaseLimit": 4
           }
         ],
+        "priorityInShop": 3,
         "zyngaStoreEnabled": true
       },
       {
@@ -27800,6 +27712,7 @@
             "purchaseLimit": 4
           }
         ],
+        "priorityInShop": 3,
         "zyngaStoreEnabled": true
       },
       {
@@ -27819,6 +27732,7 @@
             "purchaseLimit": 4
           }
         ],
+        "priorityInShop": 3,
         "zyngaStoreEnabled": true
       },
       {
@@ -27842,6 +27756,7 @@
             "purchaseLimit": 3
           }
         ],
+        "priorityInShop": 3,
         "zyngaStoreEnabled": true
       },
       {
@@ -27865,6 +27780,7 @@
             "purchaseLimit": 3
           }
         ],
+        "priorityInShop": 3,
         "zyngaStoreEnabled": true
       },
       {
@@ -27888,6 +27804,7 @@
             "purchaseLimit": 3
           }
         ],
+        "priorityInShop": 3,
         "zyngaStoreEnabled": true
       },
       {
@@ -27911,6 +27828,7 @@
             "purchaseLimit": 3
           }
         ],
+        "priorityInShop": 3,
         "zyngaStoreEnabled": true
       },
       {
@@ -30095,28 +30013,7 @@
       {
         "offerType": "Dynamic",
         "id": "dynamic_offer_28_faiez_oasis",
-        "products": [
-          {
-            "id": "com.smallgiantgames.empires.dynamic_30d",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_10c",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_7",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_3",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "offer_dynamic_free",
-            "purchaseLimit": 1
-          }
-        ],
+        "products": [],
         "requiresQuestsUnlocked": true,
         "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
@@ -31224,7 +31121,16 @@
       {
         "offerType": "Dynamic",
         "id": "dynamic_offer_58_seshat",
-        "products": [],
+        "products": [
+          {
+            "id": "com.smallgiantgames.empires.dynamic_12",
+            "purchaseLimit": 2
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_10d",
+            "purchaseLimit": 2
+          }
+        ],
         "requiresQuestsUnlocked": true,
         "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
@@ -33266,6 +33172,7 @@
             "purchaseLimit": 2
           }
         ],
+        "priorityInShop": 2,
         "zyngaStoreEnabled": true
       },
       {
@@ -33281,6 +33188,7 @@
             "purchaseLimit": 2
           }
         ],
+        "priorityInShop": 2,
         "zyngaStoreEnabled": true
       },
       {
@@ -33288,7 +33196,7 @@
         "id": "dynamic_offer_flash_01",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_10c",
+            "id": "com.smallgiantgames.empires.dynamic_10d",
             "purchaseLimit": 1
           }
         ],
@@ -33297,7 +33205,7 @@
         "zyngaStoreEnabled": true,
         "dynamicType": "Flash",
         "titleKey": "shop.offers.title.dynamic.flash",
-        "duration": "1小时"
+        "duration": "30分钟"
       },
       {
         "offerType": "Dynamic",
@@ -33320,7 +33228,7 @@
         "id": "dynamic_offer_flash_03",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_33",
+            "id": "com.smallgiantgames.empires.dynamic_20d",
             "purchaseLimit": 1
           }
         ],
@@ -33329,7 +33237,7 @@
         "zyngaStoreEnabled": true,
         "dynamicType": "Flash",
         "titleKey": "shop.offers.title.dynamic.flash",
-        "duration": "15分钟"
+        "duration": "45分钟"
       },
       {
         "offerType": "Calendar",
@@ -38628,6 +38536,22 @@
             ]
           },
           {
+            "activationTime": "2026-03-22 09:45:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_monster_island_coin",
+                "amount": 900,
+                "zyngaStoreExtraAmount": 150
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_alpha",
+                "amount": 1
+              }
+            ]
+          },
+          {
             "activationTime": "2026-03-24 07:00:00",
             "contents": [
               {
@@ -38779,6 +38703,21 @@
                 "type": "Item",
                 "id": "titan_battle_scroll_of_alteration",
                 "amount": 25
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-03-22 11:00:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 3400,
+                "zyngaStoreExtraAmount": 400
+              },
+              {
+                "type": "Product",
+                "id": "dragon_cap_increase",
+                "amount": 1
               }
             ]
           }
@@ -41860,6 +41799,71 @@
             ]
           },
           {
+            "activationTime": "2026-03-21 10:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_pickup_coin",
+                "amount": 850,
+                "zyngaStoreExtraAmount": 150
+              },
+              {
+                "type": "Product",
+                "id": "hero_cap_increase",
+                "amount": 1
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-03-22 09:45:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_monster_island_coin",
+                "amount": 300,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "lottery_pickup_coin",
+                "amount": 300,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "lottery_item_ascension",
+                "amount": 20
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-03-23 17:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 170,
+                "zyngaStoreExtraAmount": 30
+              },
+              {
+                "type": "Item",
+                "id": "refill_energy_pve_full",
+                "amount": 20
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_giant",
+                "amount": 8,
+                "zyngaStoreExtraAmount": 2
+              },
+              {
+                "type": "Item",
+                "id": "relic_harvester_generic",
+                "amount": 1
+              }
+            ]
+          },
+          {
             "activationTime": "2026-03-27 07:00:00",
             "contents": [
               {
@@ -42530,6 +42534,33 @@
                 "id": "lottery_legendary_troop",
                 "amount": 500,
                 "zyngaStoreExtraAmount": 200
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-03-22 17:00:00",
+            "contents": [
+              {
+                "type": "Troop",
+                "id": "rainbow_epic_trainer",
+                "amount": 5,
+                "zyngaStoreExtraAmount": 1
+              },
+              {
+                "type": "Troop",
+                "id": "rainbow_rare_trainer",
+                "amount": 5
+              },
+              {
+                "type": "Hero",
+                "id": "trainer_rainbow_epic",
+                "amount": 5,
+                "zyngaStoreExtraAmount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "trainer_rainbow_rare",
+                "amount": 5
               }
             ]
           },
@@ -43514,6 +43545,40 @@
                 "amount": 2
               }
             ]
+          },
+          {
+            "activationTime": "2026-03-20 10:00:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 10000,
+                "zyngaStoreExtraAmount": 1111
+              },
+              {
+                "type": "Item",
+                "id": "titan_battle_scroll_of_alteration",
+                "amount": 100,
+                "zyngaStoreExtraAmount": 11
+              },
+              {
+                "type": "Item",
+                "id": "titan_battle_hurricane",
+                "amount": 100,
+                "zyngaStoreExtraAmount": 11
+              },
+              {
+                "type": "Item",
+                "id": "battle_tornado",
+                "amount": 100,
+                "zyngaStoreExtraAmount": 11
+              },
+              {
+                "type": "Item",
+                "id": "titan_battle_titan_banner",
+                "amount": 100,
+                "zyngaStoreExtraAmount": 11
+              }
+            ]
           }
         ]
       },
@@ -43946,6 +44011,33 @@
                 "amount": 100
               }
             ]
+          },
+          {
+            "activationTime": "2026-03-20 11:45:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_super_elemental_coin",
+                "amount": 300,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "lottery_pickup_coin",
+                "amount": 300,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_giant",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "refill_iron_giant",
+                "amount": 2
+              }
+            ]
           }
         ]
       },
@@ -44005,6 +44097,39 @@
                 "type": "Item",
                 "id": "tome_levels_epic",
                 "amount": 2
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-03-19 10:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_alliance_coin",
+                "amount": 110,
+                "zyngaStoreExtraAmount": 10
+              },
+              {
+                "type": "Item",
+                "id": "refill_energy_pve_full",
+                "amount": 10,
+                "zyngaStoreExtraAmount": 2
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-03-20 11:45:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_super_elemental_coin",
+                "amount": 1050,
+                "zyngaStoreExtraAmount": 150
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_giant",
+                "amount": 5
               }
             ]
           }
@@ -44206,6 +44331,29 @@
                 "type": "Item",
                 "id": "refill_energy_pve_full",
                 "amount": 2
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-03-19 10:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_alliance_coin",
+                "amount": 50,
+                "zyngaStoreExtraAmount": 5
+              },
+              {
+                "type": "Item",
+                "id": "lottery_super_elemental_coin",
+                "amount": 500,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "lottery_item_limit_break",
+                "amount": 50,
+                "zyngaStoreExtraAmount": 5
               }
             ]
           },
@@ -44550,6 +44698,21 @@
                 "zyngaStoreExtraAmount": 100
               }
             ]
+          },
+          {
+            "activationTime": "2026-03-23 12:00:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 1700,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "misc_free_talent_point",
+                "amount": 1
+              }
+            ]
           }
         ]
       },
@@ -44599,6 +44762,16 @@
                 "type": "Product",
                 "id": "hero_cap_increase",
                 "amount": 1
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-03-22 11:00:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 1250,
+                "zyngaStoreExtraAmount": 100
               }
             ]
           },
@@ -44695,6 +44868,22 @@
                 "type": "Item",
                 "id": "assist_skill_material_common",
                 "amount": 30
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-03-23 10:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_shadow_coin",
+                "amount": 500,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "lottery_monster_island_coin",
+                "amount": 500
               }
             ]
           },
@@ -45180,6 +45369,36 @@
                 "type": "Item",
                 "id": "lottery_mercenary_war_coin",
                 "amount": 300
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-03-20 10:00:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 4700
+              },
+              {
+                "type": "Item",
+                "id": "tome_levels_epic",
+                "amount": 5,
+                "zyngaStoreExtraAmount": 7
+              }
+            ]
+          },
+          {
+            "activationTime": "2026-03-23 12:00:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 4700,
+                "zyngaStoreExtraAmount": 300
+              },
+              {
+                "type": "Item",
+                "id": "collection_free_talent_points_epic",
+                "amount": 1
               }
             ]
           },
@@ -48643,13 +48862,6 @@
         "endTime": "2026-03-13 07:00:00"
       },
       {
-        "id": "dragon_dynamic_11_stargazer",
-        "slot": "RightExtraTop",
-        "scheduledManually": true,
-        "startTime": "2026-03-12 07:00:00",
-        "endTime": "2026-03-14 06:30:00"
-      },
-      {
         "id": "com.smallgiantgames.empires.limitbreakaether_fire",
         "slot": "RightBottom",
         "scheduledManually": true,
@@ -48669,13 +48881,6 @@
         "scheduledManually": true,
         "startTime": "2026-03-12 07:00:00",
         "endTime": "2026-03-16 07:00:00"
-      },
-      {
-        "id": "dynamic_offer_flash_01",
-        "slot": "Flash",
-        "scheduledManually": true,
-        "startTime": "2026-03-12 10:30:00",
-        "endTime": "2026-03-13 06:30:00"
       },
       {
         "id": "dynamic_offer_1_yellow_eloise",
@@ -48802,13 +49007,6 @@
         "endTime": "2026-03-18 07:00:00"
       },
       {
-        "id": "dynamic_offer_17_celebration_fireworks",
-        "slot": "RightExtraTop",
-        "scheduledManually": true,
-        "startTime": "2026-03-14 10:00:00",
-        "endTime": "2026-03-15 06:30:00"
-      },
-      {
         "id": "dynamic_offer_11_yellow_justice",
         "slot": "RightMiddle",
         "startTime": "2026-03-15 07:00:00",
@@ -48929,13 +49127,6 @@
         "slot": "RightTop",
         "startTime": "2026-03-16 07:00:00",
         "endTime": "2026-03-18 07:00:00"
-      },
-      {
-        "id": "dragon_dynamic_05_marmora",
-        "slot": "LeftTop",
-        "scheduledManually": true,
-        "startTime": "2026-03-16 10:00:00",
-        "endTime": "2026-03-17 06:30:00"
       },
       {
         "id": "dynamic_offer_62_consruct_japanese_doll",
@@ -49163,6 +49354,13 @@
         "endTime": "2026-03-21 07:00:00"
       },
       {
+        "id": "titanhunter_a",
+        "slot": "ShopOnly",
+        "scheduledManually": true,
+        "startTime": "2026-03-19 10:00:00",
+        "endTime": "2026-03-20 10:00:00"
+      },
+      {
         "id": "dynamic_offer_15_red_carmenta",
         "slot": "RightBottom",
         "startTime": "2026-03-20 07:00:00",
@@ -49224,6 +49422,27 @@
         "endTime": "2026-03-24 07:00:00"
       },
       {
+        "id": "dynamic_offer_17_celebration_fireworks",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2026-03-20 10:00:00",
+        "endTime": "2026-03-21 06:30:00"
+      },
+      {
+        "id": "titanhunter_b",
+        "slot": "ShopOnly",
+        "scheduledManually": true,
+        "startTime": "2026-03-20 10:00:00",
+        "endTime": "2026-03-21 10:00:00"
+      },
+      {
+        "id": "dynamic_offer_4_purple_senan",
+        "slot": "RightTop",
+        "scheduledManually": true,
+        "startTime": "2026-03-20 11:45:00",
+        "endTime": "2026-03-21 06:30:00"
+      },
+      {
         "id": "dynamic_offer_52_sparkles",
         "slot": "ShopOnly",
         "scheduledManually": true,
@@ -49265,6 +49484,20 @@
         "endTime": "2026-03-23 07:00:00"
       },
       {
+        "id": "titanhunter_a",
+        "slot": "LeftExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2026-03-21 10:00:00",
+        "endTime": "2026-03-22 10:00:00"
+      },
+      {
+        "id": "dynamic_offer_12_blue_fenrir",
+        "slot": "RightTop",
+        "scheduledManually": true,
+        "startTime": "2026-03-21 10:30:00",
+        "endTime": "2026-03-22 06:30:00"
+      },
+      {
         "id": "dynamic_offer_14_purple_umbria",
         "slot": "ShopOnly",
         "scheduledManually": true,
@@ -49299,11 +49532,39 @@
         "endTime": "2026-03-26 07:00:00"
       },
       {
+        "id": "dynamic_offer_58_seshat",
+        "slot": "RightBottom",
+        "scheduledManually": true,
+        "startTime": "2026-03-22 09:45:00",
+        "endTime": "2026-03-23 06:30:00"
+      },
+      {
         "id": "com.smallgiantgames.empires.mystery3",
         "slot": "LeftExtraTop",
         "scheduledManually": true,
         "startTime": "2026-03-22 10:00:00",
         "endTime": "2026-03-23 07:00:00"
+      },
+      {
+        "id": "titanhunter_b",
+        "slot": "LeftExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2026-03-22 10:00:00",
+        "endTime": "2026-03-23 07:00:00"
+      },
+      {
+        "id": "dragon_dynamic_11_stargazer",
+        "slot": "LeftExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2026-03-22 11:00:00",
+        "endTime": "2026-03-23 06:30:00"
+      },
+      {
+        "id": "dynamic_offer_flash_03",
+        "slot": "Flash",
+        "scheduledManually": true,
+        "startTime": "2026-03-22 17:00:00",
+        "endTime": "2026-03-23 17:00:00"
       },
       {
         "id": "dynamic_offer_31_motega",
@@ -49326,6 +49587,13 @@
         "endTime": "2026-03-24 07:00:00"
       },
       {
+        "id": "com.smallgiantgames.empires.mystery2",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2026-03-23 07:00:00",
+        "endTime": "2026-03-24 07:00:00"
+      },
+      {
         "id": "dragon_select_asc3_new",
         "slot": "RightTop",
         "startTime": "2026-03-23 07:00:00",
@@ -49339,11 +49607,32 @@
         "endTime": "2026-03-30 07:00:00"
       },
       {
-        "id": "com.smallgiantgames.empires.mystery2",
-        "slot": "LeftExtraTop",
+        "id": "unlock_mastertrainer",
+        "slot": "LeftBottom",
+        "scheduledManually": true,
+        "startTime": "2026-03-23 07:10:00",
+        "endTime": "2026-03-25 07:00:00"
+      },
+      {
+        "id": "dynamic_offer_9_purple_morganite",
+        "slot": "RightBottom",
         "scheduledManually": true,
         "startTime": "2026-03-23 10:00:00",
-        "endTime": "2026-03-24 07:00:00"
+        "endTime": "2026-03-24 06:30:00"
+      },
+      {
+        "id": "dynamic_offer_18_ducks",
+        "slot": "RightExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2026-03-23 12:00:00",
+        "endTime": "2026-03-24 06:30:00"
+      },
+      {
+        "id": "dynamic_offer_flash_01",
+        "slot": "Flash",
+        "scheduledManually": true,
+        "startTime": "2026-03-23 17:30:00",
+        "endTime": "2026-03-24 10:00:00"
       },
       {
         "id": "dynamic_offer_23_acidfire",
@@ -49361,6 +49650,13 @@
       {
         "id": "7th_Birthday_2024_fri",
         "slot": "LeftTop",
+        "scheduledManually": true,
+        "startTime": "2026-03-24 07:00:00",
+        "endTime": "2026-03-25 07:00:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.mystery1",
+        "slot": "LeftExtraTop",
         "scheduledManually": true,
         "startTime": "2026-03-24 07:00:00",
         "endTime": "2026-03-25 07:00:00"
@@ -49400,13 +49696,6 @@
         "endTime": "2026-03-28 07:00:00"
       },
       {
-        "id": "com.smallgiantgames.empires.mystery1",
-        "slot": "LeftExtraTop",
-        "scheduledManually": true,
-        "startTime": "2026-03-24 10:00:00",
-        "endTime": "2026-03-25 07:00:00"
-      },
-      {
         "id": "dynamic_offer_19_sparkles",
         "slot": "ShopOnly",
         "scheduledManually": true,
@@ -49418,6 +49707,13 @@
         "slot": "RightMiddle",
         "startTime": "2026-03-25 07:00:00",
         "endTime": "2026-03-26 06:30:00"
+      },
+      {
+        "id": "double_wilderness",
+        "slot": "RightBottom",
+        "scheduledManually": true,
+        "startTime": "2026-03-25 07:00:00",
+        "endTime": "2026-03-26 07:00:00"
       },
       {
         "id": "aethercrystalsoffer2",
@@ -49434,6 +49730,20 @@
         "endTime": "2026-03-27 07:00:00"
       },
       {
+        "id": "selectable_limitbreak",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2026-03-25 07:00:00",
+        "endTime": "2026-03-27 07:00:00"
+      },
+      {
+        "id": "selectable_vips",
+        "slot": "LeftBottom",
+        "scheduledManually": true,
+        "startTime": "2026-03-25 10:00:00",
+        "endTime": "2026-03-27 07:00:00"
+      },
+      {
         "id": "dynamic_offer_44_purple_morganite",
         "slot": "RightMiddle",
         "startTime": "2026-03-26 07:00:00",
@@ -49447,6 +49757,13 @@
         "endTime": "2026-03-27 06:30:00"
       },
       {
+        "id": "double_wilderness_2",
+        "slot": "RightExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2026-03-26 07:00:00",
+        "endTime": "2026-03-27 07:00:00"
+      },
+      {
         "id": "dragon_dynamic_12_stargazer",
         "slot": "RightMiddle",
         "scheduledManually": true,
@@ -49456,13 +49773,6 @@
       {
         "id": "dragon_flaming_new",
         "slot": "LeftTop",
-        "scheduledManually": true,
-        "startTime": "2026-03-26 07:00:00",
-        "endTime": "2026-03-28 07:00:00"
-      },
-      {
-        "id": "selectable_vips",
-        "slot": "LeftBottom",
         "scheduledManually": true,
         "startTime": "2026-03-26 07:00:00",
         "endTime": "2026-03-28 07:00:00"
@@ -49502,6 +49812,13 @@
         "endTime": "2026-03-28 06:30:00"
       },
       {
+        "id": "double_wilderness",
+        "slot": "RightExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2026-03-27 07:00:00",
+        "endTime": "2026-03-28 07:00:00"
+      },
+      {
         "id": "dragon_trainer_2",
         "slot": "RightBottom",
         "scheduledManually": true,
@@ -49526,6 +49843,20 @@
         "scheduledManually": true,
         "startTime": "2026-03-28 07:00:00",
         "endTime": "2026-03-29 06:30:00"
+      },
+      {
+        "id": "double_wilderness_2",
+        "slot": "RightTop",
+        "scheduledManually": true,
+        "startTime": "2026-03-28 07:00:00",
+        "endTime": "2026-03-29 07:00:00"
+      },
+      {
+        "id": "selectableoffer_elemental2",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2026-03-28 07:00:00",
+        "endTime": "2026-03-29 07:00:00"
       },
       {
         "id": "ascensioncrystalsoffer",
@@ -49562,12 +49893,40 @@
         "endTime": "2026-03-30 06:30:00"
       },
       {
+        "id": "com.smallgiantgames.empires.double_covenant",
+        "slot": "RightTop",
+        "scheduledManually": true,
+        "startTime": "2026-03-29 07:00:00",
+        "endTime": "2026-03-30 07:00:00"
+      },
+      {
+        "id": "selectable_ascension_1",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2026-03-29 07:00:00",
+        "endTime": "2026-03-30 07:00:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.double_covenant2",
+        "slot": "RightTop",
+        "scheduledManually": true,
+        "startTime": "2026-03-30 07:00:00",
+        "endTime": "2026-03-31 07:00:00"
+      },
+      {
         "id": "easter_5_10",
         "slot": "LeftTop",
         "customContents": [
           "seasonalcalendar_5_day1",
           "seasonalcalendar_10_day1"
         ],
+        "scheduledManually": true,
+        "startTime": "2026-03-30 07:00:00",
+        "endTime": "2026-03-31 07:00:00"
+      },
+      {
+        "id": "triple_alpha",
+        "slot": "LeftExtraTop",
         "scheduledManually": true,
         "startTime": "2026-03-30 07:00:00",
         "endTime": "2026-03-31 07:00:00"
@@ -49600,6 +49959,13 @@
         "endTime": "2026-04-27 07:00:00"
       },
       {
+        "id": "com.smallgiantgames.empires.double_covenant",
+        "slot": "RightTop",
+        "scheduledManually": true,
+        "startTime": "2026-03-31 07:00:00",
+        "endTime": "2026-04-01 07:00:00"
+      },
+      {
         "id": "easter_5_10",
         "slot": "LeftTop",
         "customContents": [
@@ -49629,6 +49995,13 @@
         "slot": "LeftExtraTop",
         "startTime": "2026-03-31 07:00:00",
         "endTime": "2026-04-04 07:00:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.double_covenant2",
+        "slot": "RightTop",
+        "scheduledManually": true,
+        "startTime": "2026-04-01 07:00:00",
+        "endTime": "2026-04-02 07:00:00"
       },
       {
         "id": "easter_5_10_special2",
@@ -49772,15 +50145,8 @@
         "endTime": "2026-04-08 07:00:00"
       },
       {
-        "id": "wardrobe",
-        "slot": "LeftExtraTop",
-        "scheduledManually": true,
-        "startTime": "2026-04-06 07:00:00",
-        "endTime": "2026-04-10 07:00:00"
-      },
-      {
         "id": "com.smallgiantgames.empires.toweroffer",
-        "slot": "RightExtraTop",
+        "slot": "RightTop",
         "scheduledManually": true,
         "startTime": "2026-04-06 07:00:00",
         "endTime": "2026-04-11 07:00:00"
@@ -49937,8 +50303,8 @@
         "endTime": "2026-04-15 07:00:00"
       },
       {
-        "id": "alliancequest_calendar",
-        "slot": "RightExtraTop",
+        "id": "com.smallgiantgames.empires.threekingdomsoffer",
+        "slot": "RightTop",
         "scheduledManually": true,
         "startTime": "2026-04-11 07:00:00",
         "endTime": "2026-04-16 07:00:00"
@@ -50063,6 +50429,13 @@
         "scheduledManually": true,
         "startTime": "2026-04-16 07:00:00",
         "endTime": "2026-04-18 07:00:00"
+      },
+      {
+        "id": "alliancequest_calendar",
+        "slot": "RightTop",
+        "scheduledManually": true,
+        "startTime": "2026-04-16 07:00:00",
+        "endTime": "2026-04-21 07:00:00"
       },
       {
         "id": "easter_5_10_special2",
@@ -50402,6 +50775,13 @@
         "endTime": "2026-05-10 07:00:00"
       },
       {
+        "id": "alliancequest_calendar",
+        "slot": "RightTop",
+        "scheduledManually": true,
+        "startTime": "2026-05-08 07:00:00",
+        "endTime": "2026-05-13 07:00:00"
+      },
+      {
         "id": "dragon_owlfords_new",
         "slot": "LeftTop",
         "scheduledManually": true,
@@ -50538,6 +50918,13 @@
         "scheduledManually": true,
         "startTime": "2026-05-21 07:00:00",
         "endTime": "2026-05-25 07:00:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.threekingdomsoffer",
+        "slot": "RightBottom",
+        "scheduledManually": true,
+        "startTime": "2026-05-21 07:00:00",
+        "endTime": "2026-05-26 07:00:00"
       },
       {
         "id": "dragon_trainer_2",
@@ -50724,6 +51111,13 @@
         "endTime": "2026-06-14 07:00:00"
       },
       {
+        "id": "com.smallgiantgames.empires.threekingdomsoffer",
+        "slot": "RightBottom",
+        "scheduledManually": true,
+        "startTime": "2026-06-13 07:00:00",
+        "endTime": "2026-06-18 07:00:00"
+      },
+      {
         "id": "legendary_troop_calendar",
         "slot": "ShopOnly",
         "scheduledManually": true,
@@ -50743,13 +51137,6 @@
         "scheduledManually": true,
         "startTime": "2026-09-13 07:00:00",
         "endTime": "2026-09-15 07:00:00"
-      },
-      {
-        "id": "dynamic_offer_flash_03",
-        "slot": "Flash",
-        "scheduledManually": true,
-        "startTime": "2026-12-05 07:00:00",
-        "endTime": "2026-12-06 07:00:00"
       }
     ],
     "foodPerGem": 614,
@@ -60863,6 +61250,108 @@
                 "construct_hotspin",
                 "construct_ironvein"
               ]
+            },
+            {
+              "lotteryProductType": "Covenant Summon",
+              "id": "lottery_covenant_2026_03_29",
+              "productId": "lottery_covenant_default",
+              "startDate": "2026-03-29 07:00:00",
+              "endDate": "2026-04-02 07:00:00",
+              "overridden": true,
+              "featuredHeroes": [
+                "construct_dancrag",
+                "construct_arzen",
+                "construct_glacivolt",
+                "astral_demon_ibelis",
+                "magic_carpet_shareef",
+                "mahayoddha_chitrangada"
+              ],
+              "includedHeroes": [
+                "nomad_female_shaman",
+                "knights_bauchan",
+                "nomad_mage",
+                "monster_hunter_basil",
+                "forest_archer",
+                "wonderland_bear",
+                "forest_female_spirit",
+                "forest_friar",
+                "monster_hunter_fianna",
+                "s3_grevle",
+                "dwarven_smasher",
+                "pirate_vodnik",
+                "monster_hunter_dawn",
+                "s3_nordri",
+                "royal_knight",
+                "monster_hunter_cedar",
+                "monster_hunter_edelaide",
+                "oriental_female_mage",
+                "oriental_panda_berserker",
+                "blackguard_female_captain",
+                "guardian_bat",
+                "s2_lantern_ghost",
+                "monster_hunter_greel",
+                "undead_running_skeleton",
+                "knights_sir_lancelot",
+                "nomad_female_assassin",
+                "nomad_female_berserker",
+                "monster_hunter_maheegan",
+                "s2_demon_master",
+                "monster_hunter_numbskull",
+                "forest_mage",
+                "fables_hansel",
+                "goblin_mage",
+                "s3_brynhild",
+                "monster_hunter_knuckles",
+                "dwarwen_brewmaster",
+                "nordic_ancestral_warrior",
+                "royal_female_knight",
+                "oriental_falconer",
+                "monster_hunter_bogart",
+                "s3_mist",
+                "oriental_panda_warrior",
+                "s2_proteus",
+                "pirate_first_mate",
+                "monster_hunter_meadow",
+                "undead_female_warrior",
+                "pirate_swashbuckler",
+                "s3_loki_female",
+                "s3_baldur",
+                "knights_morgan_le_fay",
+                "wonderland_hatter",
+                "guardian_chameleon",
+                "fables_rumpelstiltskin",
+                "wonderland_alice",
+                "s2_mercenary_woman",
+                "s2_poseidon",
+                "s3_norns",
+                "guardian_owl_gentleman",
+                "pirate_dread_captain",
+                "s2_hammerhead_hulk",
+                "fables_boss_wolf",
+                "construct_rustbeak",
+                "construct_bonechill",
+                "construct_ferrus",
+                "construct_haulstone",
+                "construct_blue_mage",
+                "construct_japanese_doll",
+                "construct_brimstone",
+                "construct_shacklebolt",
+                "construct_nocturne",
+                "construct_shaal",
+                "construct_frond",
+                "construct_nautica",
+                "construct_hornfel",
+                "construct_tenebrae",
+                "construct_rhineglow",
+                "construct_carta",
+                "construct_scoria",
+                "construct_skarn",
+                "construct_gwynn",
+                "fox_foxglove",
+                "fox_nettletail",
+                "construct_hotspin",
+                "construct_ironvein"
+              ]
             }
           ],
           "scheduleNotification": true,
@@ -63386,6 +63875,98 @@
                 "wild_cat_ferni",
                 "wild_cat_tunes"
               ]
+            },
+            {
+              "lotteryProductType": "Wilderness Summon",
+              "id": "lottery_wilderness_2026_03_25",
+              "productId": "lottery_wilderness_default",
+              "startDate": "2026-03-25 07:00:00",
+              "endDate": "2026-03-29 07:00:00",
+              "overridden": true,
+              "featuredHeroes": [
+                "moth_gardered",
+                "beauty_beast_dominique",
+                "wild_cat_lennart",
+                "beauty_beast_rose_de_flo"
+              ],
+              "includedHeroes": [
+                "styx_dante",
+                "knights_bauchan",
+                "mighty_pet_rufus",
+                "monster_hunter_basil",
+                "journey_general_yin",
+                "wonderland_bear",
+                "magic_roxia",
+                "forest_friar",
+                "bard_zarel",
+                "s3_grevle",
+                "musketeer_planchet",
+                "pirate_vodnik",
+                "gargoyle_soroca",
+                "s3_nordri",
+                "s4_helo",
+                "faun_saskia",
+                "musketeer_felton",
+                "oriental_female_mage",
+                "oriental_panda_berserker",
+                "s5_aqeela",
+                "knights_treevil",
+                "s2_lantern_ghost",
+                "gargoyle_budatin",
+                "undead_running_skeleton",
+                "knights_sir_lancelot",
+                "bard_zhabog",
+                "ballerina_raul",
+                "magic_lucy",
+                "s2_demon_master",
+                "gargoyle_kalo",
+                "styx_brontes",
+                "fables_hansel",
+                "goblin_mage",
+                "tales1_mulgog",
+                "masquerade_fosco",
+                "dwarwen_brewmaster",
+                "bard_garyas",
+                "s5_azmia",
+                "oriental_falconer",
+                "s5_scoratek",
+                "s3_mist",
+                "mighty_pet_waddles",
+                "s2_proteus",
+                "mighty_pet_cupcake",
+                "castle_bear_koda",
+                "journey_heifeng_guai",
+                "owl_fulvia",
+                "faun_araminta",
+                "s4_xenda",
+                "faun_isidore",
+                "ninja_ekanite",
+                "faun_peregrine",
+                "ballerina_prince_siegfried",
+                "s5_maat",
+                "ninja_oniwakamaru",
+                "magic_camilla",
+                "faun_verity",
+                "guardian_hippo",
+                "faun_gideon",
+                "s5_cleopatra",
+                "s5_eset",
+                "bard_ogima",
+                "s5_bastet",
+                "mighty_pet_luna",
+                "faun_tamlin",
+                "musketeer_rochefort",
+                "faun_myrtle",
+                "faun_maud",
+                "faun_yolanda",
+                "faun_philomena",
+                "faun_ysabel",
+                "faun_jolyon",
+                "faun_ascian",
+                "faun_bramble",
+                "wild_cat_ferni",
+                "wild_cat_tunes"
+              ]
             }
           ],
           "scheduleNotification": true,
@@ -65416,66 +65997,6 @@
           "lotteryEntries": [
             {
               "lotteryProductType": "3 Kingdoms Summon",
-              "id": "mercenary_war_31_3_2026",
-              "productId": "lottery_mercenary_war_default",
-              "startDate": "2026-01-13 07:00:00",
-              "endDate": "2026-01-18 07:00:00",
-              "overridden": true,
-              "featuredHeroes": [
-                "outlaw_hu_sanniang",
-                "outlaw_ruan_xiaoqi",
-                "outlaw_lin_chong"
-              ],
-              "limitedPoolSummonConfiguration": {
-                "enabled": true,
-                "requiredItemId": "lottery_3kw_limited_pool_summon_coin",
-                "requiredItemAmount": 100,
-                "heroes": [
-                  "journey_change",
-                  "kingdom_sun_quan_costume_fire_bat",
-                  "journey_xiong_shanjun",
-                  "kingdom_cao_cao_costume_ice",
-                  "journey_sha_wujing",
-                  "journey_erlang_shen",
-                  "kingdom_guan_yu_costume_dragon",
-                  "journey_xiwangmu",
-                  "journey_tang_sanzang",
-                  "journey_xie_zi_jing"
-                ]
-              }
-            },
-            {
-              "lotteryProductType": "3 Kingdoms Summon",
-              "id": "mercenary_war_26_5_2026",
-              "productId": "lottery_mercenary_war_default",
-              "startDate": "2026-02-01 07:00:00",
-              "endDate": "2026-02-06 07:00:00",
-              "overridden": true,
-              "featuredHeroes": [
-                "outlaw_zheng_tianshou",
-                "outlaw_wu_song",
-                "outlaw_lu_zhishen"
-              ],
-              "limitedPoolSummonConfiguration": {
-                "enabled": true,
-                "requiredItemId": "lottery_3kw_limited_pool_summon_coin",
-                "requiredItemAmount": 100,
-                "heroes": [
-                  "kingdom_liu_bei_costume_nature",
-                  "journey_xie_zi_jing",
-                  "kingdom_cao_cao_costume_ice",
-                  "kingdom_lu_bu_costume_tiger_lord",
-                  "journey_xiong_shanjun",
-                  "journey_erlang_shen",
-                  "kingdom_sun_quan_costume_fire_bat",
-                  "journey_nineheaded_beast",
-                  "kingdom_zhang_fei_costume_bear_slayer",
-                  "journey_tang_sanzang"
-                ]
-              }
-            },
-            {
-              "lotteryProductType": "3 Kingdoms Summon",
               "id": "mercenary_war_3_1_2026",
               "productId": "lottery_mercenary_war_default",
               "startDate": "2026-03-01 07:00:00",
@@ -65512,8 +66033,8 @@
               "endDate": "2026-04-02 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "outlaw_song_jiang",
-                "outlaw_ruan_xiaoqi",
+                "outlaw_xiang_chong",
+                "outlaw_shi_jin",
                 "outlaw_li_kui"
               ],
               "limitedPoolSummonConfiguration": {
@@ -65531,6 +66052,96 @@
                   "kingdom_sun_quan_costume_fire_bat",
                   "kingdom_lu_bu_costume_tiger_lord",
                   "kingdom_guan_yu_costume_dragon"
+                ]
+              }
+            },
+            {
+              "lotteryProductType": "3 Kingdoms Summon",
+              "id": "mercenary_war_6_4_2026",
+              "productId": "lottery_mercenary_war_default",
+              "startDate": "2026-04-11 07:00:00",
+              "endDate": "2026-04-16 07:00:00",
+              "overridden": true,
+              "featuredHeroes": [
+                "outlaw_song_jiang",
+                "outlaw_ruan_xiaoqi",
+                "outlaw_li_kui"
+              ],
+              "limitedPoolSummonConfiguration": {
+                "enabled": true,
+                "requiredItemId": "lottery_3kw_limited_pool_summon_coin",
+                "requiredItemAmount": 100,
+                "heroes": [
+                  "kingdom_cao_cao_costume_ice",
+                  "kingdom_diaochan_costume_flowers",
+                  "kingdom_zhuge_liang_costume_crane",
+                  "kingdom_zhang_fei_costume_bear_slayer",
+                  "kingdom_liu_bei_costume_nature",
+                  "kingdom_guan_yu_costume_dragon",
+                  "kingdom_sun_quan_costume_fire_bat",
+                  "kingdom_lu_bu_costume_tiger_lord",
+                  "journey_change",
+                  "journey_sha_wujing"
+                ]
+              }
+            },
+            {
+              "lotteryProductType": "3 Kingdoms Summon",
+              "id": "mercenary_war_21_5_2026",
+              "productId": "lottery_mercenary_war_default",
+              "startDate": "2026-05-21 07:00:00",
+              "endDate": "2026-05-26 07:00:00",
+              "overridden": true,
+              "featuredHeroes": [
+                "outlaw_song_jiang",
+                "outlaw_ruan_xiaoqi",
+                "outlaw_li_kui"
+              ],
+              "limitedPoolSummonConfiguration": {
+                "enabled": true,
+                "requiredItemId": "lottery_3kw_limited_pool_summon_coin",
+                "requiredItemAmount": 100,
+                "heroes": [
+                  "kingdom_liu_bei_costume_nature",
+                  "journey_xie_zi_jing",
+                  "kingdom_cao_cao_costume_ice",
+                  "kingdom_lu_bu_costume_tiger_lord",
+                  "journey_xiong_shanjun",
+                  "journey_erlang_shen",
+                  "kingdom_sun_quan_costume_fire_bat",
+                  "journey_nineheaded_beast",
+                  "kingdom_zhang_fei_costume_bear_slayer",
+                  "journey_tang_sanzang"
+                ]
+              }
+            },
+            {
+              "lotteryProductType": "3 Kingdoms Summon",
+              "id": "mercenary_war_13_6_2026",
+              "productId": "lottery_mercenary_war_default",
+              "startDate": "2026-06-13 07:00:00",
+              "endDate": "2026-06-18 07:00:00",
+              "overridden": true,
+              "featuredHeroes": [
+                "journey_tang_sanzang",
+                "journey_nineheaded_beast",
+                "outlaw_song_jiang"
+              ],
+              "limitedPoolSummonConfiguration": {
+                "enabled": true,
+                "requiredItemId": "lottery_3kw_limited_pool_summon_coin",
+                "requiredItemAmount": 100,
+                "heroes": [
+                  "journey_change",
+                  "kingdom_sun_quan_costume_fire_bat",
+                  "journey_xiong_shanjun",
+                  "kingdom_cao_cao_costume_ice",
+                  "journey_sha_wujing",
+                  "journey_erlang_shen",
+                  "kingdom_guan_yu_costume_dragon",
+                  "journey_xiwangmu",
+                  "journey_tang_sanzang",
+                  "journey_xie_zi_jing"
                 ]
               }
             }
@@ -65646,7 +66257,7 @@
               "endDate": "2026-03-28 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "mahayoddha_jyoti",
+                "mahayoddha_bhairavi_devi",
                 "mahayoddha_devyani"
               ]
             }
@@ -65869,6 +66480,55 @@
               "featuredHeroes": [
                 "titan_hunter_brachynd",
                 "titan_hunter_borgholf"
+              ],
+              "includedHeroes": [
+                "faun_isidore",
+                "s4_phileas_fogg_costume_engineer",
+                "ice_god_athena_costume_wargoddess",
+                "easter_jasper_costume_fisherman",
+                "goblin_darkfeather",
+                "tales1_gestalt_costume_pearls",
+                "ballerina_daroga",
+                "ice_god_perseus_costume_frozen",
+                "guardian_elephant",
+                "elemental_gastille",
+                "elemental_ash",
+                "ballerina_armand",
+                "goblin_grimsteel",
+                "astral_dwarf_haumri",
+                "elemental_farrah",
+                "s2_rugged_fisherman_costume_sake_master",
+                "castle_raven_franz",
+                "s3_jott",
+                "guardian_jackal_assassin_costume_bones",
+                "tales1_sharkhai_costume_butcher",
+                "kingdom_sun_shangxiang",
+                "s3_almur_costume_lord",
+                "tales2_dain",
+                "monster_hunter_bogart",
+                "magic_sergei",
+                "tales1_bagreg_costume_scout",
+                "astral_dwarf_chires",
+                "s3_nordri_costume_explorer",
+                "beachparty_dolrak",
+                "knights_treevil",
+                "christmas_buster",
+                "bard_zarel",
+                "ballerina_swan_maiden",
+                "shadow_cthuwu",
+                "s2_fiji_mermaid_costume_hunter"
+              ]
+            },
+            {
+              "lotteryProductType": "Titan Hunter Summon",
+              "id": "titan_hunter_2026_03_19",
+              "productId": "lottery_titan_hunter_default",
+              "startDate": "2026-03-19 10:00:00",
+              "endDate": "2026-03-23 07:00:00",
+              "overridden": true,
+              "featuredHeroes": [
+                "titan_hunter_lumi_and_taiga",
+                "titan_hunter_brachynd"
               ],
               "includedHeroes": [
                 "faun_isidore",
@@ -68092,10 +68752,10 @@
           },
           {
             "lotteryProductType": "Tower Summon",
-            "id": "lottery_tower_ninja_6_4_2026",
+            "id": "lottery_tower_ninja_11_4_2026",
             "productId": "lottery_tower_ninja_default",
             "startDate": "2026-04-06 07:00:00",
-            "endDate": "2026-04-11 07:00:00",
+            "endDate": "2026-04-16 07:00:00",
             "questLines": [
               "ninja"
             ]
@@ -69568,7 +70228,7 @@
             "mahayoddha_ustad_anand",
             "vegetable_bartholomew",
             "ronin_asakura_masao",
-            "tales2_regin_costume_omen",
+            "wild_cat_catalina",
             "vegetable_indigon",
             "wild_cat_vernix",
             "magic_carpet_kesha",
@@ -73740,7 +74400,7 @@
             "endDate": "2026-03-22 07:00:00",
             "featuredHeroes": [
               "beowulf_nithgaest",
-              "faun_tamlin"
+              "beowulf_modthryth"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -73767,6 +74427,97 @@
             "featuredHeroes": [
               "ballerina_odile",
               "guardian_gazelle_costume_bandalore"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup15",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-03-24 07:00:00",
+            "endDate": "2026-03-25 07:00:00",
+            "featuredHeroes": [
+              "astral_dwarf_quari",
+              "astral_lemonwood"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup16",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-03-25 07:00:00",
+            "endDate": "2026-03-26 07:00:00",
+            "featuredHeroes": [
+              "owl_verus",
+              "owl_timius"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup17",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-03-26 07:00:00",
+            "endDate": "2026-03-27 07:00:00",
+            "featuredHeroes": [
+              "ballerina_daroga",
+              "gargoyle_pophit"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup18",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-03-27 07:00:00",
+            "endDate": "2026-03-28 07:00:00",
+            "featuredHeroes": [
+              "moth_satinpimenter",
+              "moth_pepperbleu"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup19",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-03-28 07:00:00",
+            "endDate": "2026-03-29 07:00:00",
+            "featuredHeroes": [
+              "slime_goldrip",
+              "slime_sludgus"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup20",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-03-29 07:00:00",
+            "endDate": "2026-03-30 07:00:00",
+            "featuredHeroes": [
+              "garrison_maisie",
+              "monster_hunter_hurricane"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup21",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-03-30 07:00:00",
+            "endDate": "2026-03-31 07:00:00",
+            "featuredHeroes": [
+              "astral_dwarf_haumri",
+              "astral_dwarf_maegwyn"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -74167,9 +74918,9 @@
         "featuredEntityRotation": [
           {
             "entities": [
-              "dragon_bonefang",
               "dragon_regium",
-              "dragon_firewing"
+              "dragon_decoris",
+              "dragon_harmonis"
             ]
           },
           {
@@ -76078,5 +76829,5 @@
       ]
     }
   },
-  "shopConfigId": 1166407590
+  "shopConfigId": 2923626650
 }

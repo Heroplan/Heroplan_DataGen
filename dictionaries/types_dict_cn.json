@@ -1438,5 +1438,8 @@
   "Minion with Insanity": "带疯狂效果的小怪",
   "Resist Healing Debuff 2": "2个目标治疗抵抗减益",
   "Damage on each attempted heal": "企图治疗时受到伤害",
-  "Fear Debuff All": "全体恐惧减益"
+  "Fear Debuff All": "全体恐惧减益",
+  "Hit Growth Boon": "攻击成长恩赐",
+  "Heal Growth Boon": "治疗成长恩赐",
+  "Defense Debuff Wither 1": "单体防御枯萎减益"
 }

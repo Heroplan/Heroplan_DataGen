@@ -968,6 +968,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "mahayoddha_bhairavi_devi",
+        "name": "Bhairavi Devi",
+        "passives": [
+            "Mana on Damage Received:",
+            "* When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
+            "* Maximum of 10% mana gained per turn.",
+            "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions."
+        ]
+    },
+    {
         "heroId": "bard_bhaltair",
         "name": "Bhaltair",
         "passives": [
@@ -1845,7 +1855,7 @@ const allTranslations =
         "name": "Modthryth",
         "passives": [
             "Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Mana Reduction: This character is immune to mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
             "Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs."
         ]
     },
@@ -2161,7 +2171,7 @@ const allTranslations =
         "heroId": "ice_god_sini",
         "name": "Sini",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Status Effect on Mana Reduction: This character get +30% attack for 3 turns when their mana is reduced."
         ]
     },
@@ -3971,8 +3981,8 @@ const allTranslations =
         "name": "Freawaru",
         "passives": [
             "Mana Per Enemy Buff: Gains a small amount of mana for every active status effect buff that the enemy team has at the start of each turn (maximum of 20 buffs).",
-            "Empowered Resist Mana Reduction: This character has innate resistance against mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
-            "Resist Buff Blocking: This character is immune to effect that would block them from receiving new status effect buffs."
+            "Empowered Resist Mana Reduction: This character is immune to mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Resist Buff Blocking: This character is immune to effects that would block them from receiving new status effect buffs."
         ]
     },
     {
@@ -4605,7 +4615,7 @@ const allTranslations =
         "heroId": "nature_god_mystia",
         "name": "Mystia",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Ignore Taunt: This character's Special Skill is not affected by Taunt."
         ]
     },
@@ -8472,7 +8482,7 @@ const allTranslations =
         "heroId": "bard_zhabog",
         "name": "Zhabog",
         "passives": [
-            "Revival chance reduction: The chance of revival is reduced for all enemies in the battle. The chance is 20% of the original value."
+            "Revival Chance Reduction: The chance of revival is reduced for all enemies in the battle. The chance is 20% of the original value."
         ]
     },
     {
