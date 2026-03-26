@@ -1,14 +1,14 @@
 [
     {
-        "name": "Bhairavi Devi",
-        "fancy_name": "Jestful Thakurain",
-        "color": "Blue",
+        "name": "Dancrag",
+        "fancy_name": "Ancient Colossus Construct",
+        "color": "Green",
         "Release date": "",
-        "canBeReceivedDate": "2026-03-24 07:00:00",
+        "canBeReceivedDate": "2026-03-26 07:00:00",
         "star": 5,
-        "family": "mahayoddha",
+        "family": "construct",
         "costume_id": 0,
-        "heroId": "mahayoddha_bhairavi_devi",
+        "heroId": "construct_dancrag",
         "Lottery_Only": 1
     },
     {
@@ -21,18 +21,6 @@
         "family": "outlaw",
         "costume_id": 0,
         "heroId": "outlaw_xiang_chong",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Dancrag",
-        "fancy_name": "Ancient Colossus Construct",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2026-03-29 07:00:00",
-        "star": 5,
-        "family": "construct",
-        "costume_id": 0,
-        "heroId": "construct_dancrag",
         "Lottery_Only": 1
     },
     {
@@ -105,6 +93,42 @@
         "family": "hotm2026",
         "costume_id": 0,
         "heroId": "dark_god_cordelia",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Auberguy",
+        "fancy_name": "Aubergine Wizard",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2026-04-02 07:00:00",
+        "star": 5,
+        "family": "vegetable",
+        "costume_id": 0,
+        "heroId": "vegetable_auberguy",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Carthizux",
+        "fancy_name": "Astral Demon Maniac",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2026-04-05 07:00:00",
+        "star": 5,
+        "family": "astral_demons",
+        "costume_id": 0,
+        "heroId": "astral_demon_carthizux",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Kageyama Nagato",
+        "fancy_name": "Thief-Shuriken Ronin",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2026-04-06 07:00:00",
+        "star": 5,
+        "family": "ronin",
+        "costume_id": 0,
+        "heroId": "ronin_kageyama_nagato",
         "Lottery_Only": 1
     },
     {

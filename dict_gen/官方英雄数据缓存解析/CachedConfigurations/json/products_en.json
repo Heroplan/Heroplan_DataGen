@@ -2546,7 +2546,7 @@
         "id": "lottery_covenant_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 181,
+        "uiPriority": 180,
         "associatedEvent": "CovenantSummon",
         "bonusChest": "covenant_chest",
         "bonusChestRequirement": 10,
@@ -4129,7 +4129,7 @@
         "id": "lottery_mercenary_war_default",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 180,
+        "uiPriority": 181,
         "associatedEvent": "KingdomWar",
         "bonusChest": "3kw_chest",
         "bonusChestRequirement": 5,
@@ -23633,7 +23633,6 @@
         "dollarValue": 10,
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
-        "directCheckoutDisabled": true,
         "contents": [
           {
             "type": "Item",
@@ -26218,7 +26217,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_purple_calendar_1_tier1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -26238,7 +26236,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_purple_calendar_1_tier2",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -26257,7 +26254,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_purple_calendar_2_tier1",
         "dollarValue": 4,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -26294,7 +26290,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_purple_calendar_3_tier1",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -26314,7 +26309,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_purple_calendar_3_tier2",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -30590,7 +30584,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_purple_calendar_2_tier2b",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35193,6 +35186,7 @@
         "dollarValue": 5,
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
+        "directCheckoutDisabled": true,
         "contents": [],
         "userSelectableContentId": "dragon_select_asc4_new"
       },
@@ -37202,6 +37196,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -37267,7 +37262,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -59699,5 +59693,5 @@
       }
     ]
   },
-  "productsConfigId": 2894447007
+  "productsConfigId": 163422665
 }

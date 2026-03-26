@@ -28616,9 +28616,9 @@
     "element": "Red",
     "family": "wild_cat",
     "baseHealth": 1131,
-    "baseAttack": 692,
-    "baseDefense": 592,
-    "manaSpeedId": "fast",
+    "baseAttack": 694,
+    "baseDefense": 594,
+    "manaSpeedId": "very_fast",
     "passiveSkills": [
       "resist_all_defense_effects",
       "revive_chance_nine_lives"
@@ -29316,8 +29316,8 @@
     "element": "Green",
     "family": "outlaw",
     "baseHealth": 1111,
-    "baseAttack": 664,
-    "baseDefense": 637,
+    "baseAttack": 665,
+    "baseDefense": 638,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "resist_bleed",
@@ -30788,7 +30788,7 @@
     "id": "Ancient Colossus Construct",
     "element": "Green",
     "family": "construct",
-    "baseHealth": 1114,
+    "baseHealth": 1113,
     "baseAttack": 640,
     "baseDefense": 667,
     "manaSpeedId": "average",
@@ -30800,7 +30800,7 @@
     "aetherGift": "Damage Reduction",
     "rarity": 5,
     "specialId": "ancient_technology",
-    "canBeReceivedDate": "2026-03-29 07:00:00",
+    "canBeReceivedDate": "2026-03-26 07:00:00",
     "origin": "Covenant Summon"
   },
   "goblin_soursting": {
@@ -33535,7 +33535,7 @@
     "aetherGift": "Rage",
     "rarity": 5,
     "specialId": "astral_madness_unleashed",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-05 07:00:00",
     "origin": "Astral Plane"
   },
   "astral_demon_ushal": {
@@ -34424,7 +34424,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "shuriken_storm",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-06 07:00:00",
     "origin": "Ninja Tower"
   },
   "ronin_tokage_daigo": {
@@ -34500,7 +34500,7 @@
     "aetherGift": "Special Armor",
     "rarity": 5,
     "specialId": "bitter_wilting",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2026-04-02 07:00:00",
     "origin": "Vigilant Vegetables"
   },
   "mahayoddha_bhairavi_devi": {

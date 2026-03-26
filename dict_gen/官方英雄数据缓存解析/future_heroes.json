@@ -1044,18 +1044,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Carthizux",
-        "fancy_name": "Astral Demon Maniac",
-        "color": "Red",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "astral_demons",
-        "costume_id": 0,
-        "heroId": "astral_demon_carthizux",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Ushal",
         "fancy_name": "Astral Demon Cosmomage",
         "color": "Blue",
@@ -1236,18 +1224,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Kageyama Nagato",
-        "fancy_name": "Thief-Shuriken Ronin",
-        "color": "Green",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "ronin",
-        "costume_id": 0,
-        "heroId": "ronin_kageyama_nagato",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Ajay",
         "fancy_name": "Urumi Warrior",
         "color": "Yellow",
@@ -1257,18 +1233,6 @@
         "family": "mahayoddha",
         "costume_id": 0,
         "heroId": "mahayoddha_ajay",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Auberguy",
-        "fancy_name": "Aubergine Wizard",
-        "color": "Purple",
-        "Release date": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
-        "star": 5,
-        "family": "vegetable",
-        "costume_id": 0,
-        "heroId": "vegetable_auberguy",
         "Lottery_Only": 1
     },
     {

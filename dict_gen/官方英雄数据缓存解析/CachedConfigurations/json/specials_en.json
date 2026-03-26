@@ -50017,7 +50017,7 @@
           "sideAffected": "Allies",
           "typeOfTarget": "All",
           "effectType": "Heal",
-          "powerMultiplierPerMil": 350,
+          "powerMultiplierPerMil": 380,
           "powerMultiplierIncrementPerLevelPerMil": 10
         },
         "maxLevel": 8,
@@ -55267,7 +55267,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3900,
+          "powerMultiplierPerMil": 4150,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -55298,7 +55298,7 @@
           "sideAffected": "Allies",
           "typeOfTarget": "All",
           "effectType": "Heal",
-          "powerMultiplierPerMil": 380,
+          "powerMultiplierPerMil": 430,
           "powerMultiplierIncrementPerLevelPerMil": 10
         },
         "maxLevel": 8,
@@ -65447,8 +65447,8 @@
             "turns": 6
           }
         ],
-        "powerForTargetsThatMeetConditionPerMil": 7150,
-        "powerForOtherTargetsPerMil": 4650,
+        "powerForTargetsThatMeetConditionPerMil": 5650,
+        "powerForOtherTargetsPerMil": 3650,
         "powerIncrementPerLevelPerMil": 50,
         "directionOfCondition": "Highest",
         "statForCondition": "CurrentHp",
@@ -68071,7 +68071,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "mana_reduction_sharalen",
-        "powerMultiplierPerMil": 65336,
+        "powerMultiplierPerMil": 65386,
         "effectType": "AddMana",
         "targetType": "Single",
         "sideAffected": "Enemies"
@@ -69076,5 +69076,5 @@
       }
     ]
   },
-  "specialsConfigId": 1354986973
+  "specialsConfigId": 2673441650
 }

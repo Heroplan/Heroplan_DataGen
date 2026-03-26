@@ -3020,9 +3020,9 @@
             "eventEndingOffer": "",
             "manuallyOverwritten": true,
             "featuredCharacters": [
-              "vegetable_indigon",
-              "vegetable_broseph",
-              "vegetable_elsbeth"
+              "vegetable_auberguy",
+              "vegetable_elsbeth",
+              "vegetable_indigon"
             ],
             "eventBonus": "event_hero_bonus_challenge_events",
             "startTime": "2026-04-02 07:00:00",
@@ -3641,6 +3641,13 @@
             "rareMonsterStateConfigId": "ancient_dragon",
             "startTime": "2026-06-16 07:00:00",
             "endTime": "2026-06-20 07:00:00"
+          },
+          {
+            "id": "AncientDragon",
+            "targetEvent": "AncientDragon",
+            "rareMonsterStateConfigId": "ancient_dragon",
+            "startTime": "2026-06-23 07:00:00",
+            "endTime": "2026-06-27 07:00:00"
           }
         ],
         "challengeEventsConfig": {
@@ -4333,9 +4340,9 @@
               "eventEndingOffer": "",
               "manuallyOverwritten": true,
               "featuredCharacters": [
+                "ronin_kageyama_nagato",
                 "ronin_asakura_masao",
-                "ronin_mikanagi_miran",
-                "ninja_nomad"
+                "ronin_mikanagi_miran"
               ],
               "startTime": "2026-04-06 07:00:00",
               "endTime": "2026-04-11 07:00:00"
@@ -54016,7 +54023,7 @@
         }
       },
       "rosterCleanUp": {
-        "enabled": false,
+        "enabled": true,
         "exchangeCoolDownSeconds": 2592000,
         "dismissCoolDownSeconds": 259200,
         "tierConfigs": [
@@ -86575,13 +86582,11 @@
         "minPlayerLevel": 10,
         "ownedHeroAttributeRules": [
           {
-            "id": "test_1",
+            "id": "test_summon_rule_daily",
             "source": "Summon",
             "attributeEffectId": "super_xp",
-            "chancePerMil": 500,
+            "chancePerMil": 50,
             "summonId": "lottery_common_default",
-            "startTime": "2027-01-01 07:00:00",
-            "endTime": "2027-01-07 07:00:00",
             "heroFamilyId": "classic"
           }
         ],
@@ -86590,11 +86595,11 @@
             "effectType": "SuperXpMultiplier",
             "id": "super_xp",
             "sacrificeXpMultiplierPerRarityPerMil": [
-              2800,
-              2800,
-              2800,
-              2800,
-              2800
+              2500,
+              2500,
+              2500,
+              2500,
+              2500
             ],
             "xpNeededToLevelUpMultiplierPerRarityPerMil": [
               0,
@@ -86765,17 +86770,6 @@
         "showInstantlyIfPossible": true,
         "waitForShopInitialization": false,
         "ignoreActivityTriggersPopupsRequirement": false
-      },
-      {
-        "type": "LeftTopOffer",
-        "group": "Essential",
-        "priority": 999,
-        "cooldownSeconds": 14400,
-        "cooldownXpLevels": 0,
-        "delayOnStartupSeconds": 0,
-        "showInstantlyIfPossible": false,
-        "waitForShopInitialization": true,
-        "ignoreActivityTriggersPopupsRequirement": false
       }
     ],
     "ratingPromptDisabledLanguages": [],
@@ -86805,7 +86799,7 @@
     "maxVersionToShowUpdateOutReminderAndroid": "84.0.0",
     "maxVersionToShowUpdateOutReminderIos": "84.0.0",
     "maxVersionToShowUpdateOutReminderAndroidStandalone": "84.0.1",
-    "standaloneNewVersionRolloutPercentage": 70,
+    "standaloneNewVersionRolloutPercentage": 100,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -86897,5 +86891,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 2284487251
+  "otherConfigId": 3110372444
 }

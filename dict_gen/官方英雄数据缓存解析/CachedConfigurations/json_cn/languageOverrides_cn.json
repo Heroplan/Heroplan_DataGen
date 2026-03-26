@@ -1358,6 +1358,18 @@
           {
             "key": "eliteclub.informationrequest.input.country.tr",
             "text": "Turkey"
+          },
+          {
+            "key": "odds.attribute.super_xp.classic",
+            "text": "Each summoned [#!]Classic[#] Hero has a [#!]{0}%[#] chance to have [#!]XP Boost[#]."
+          },
+          {
+            "key": "odds.attribute.title",
+            "text": "XP Boost Chance"
+          },
+          {
+            "key": "odds.details.heroattribute.title",
+            "text": "XP Boost"
           }
         ]
       },
@@ -2699,5 +2711,5 @@
       }
     }
   },
-  "languageOverridesConfigId": 3413048647
+  "languageOverridesConfigId": 3454437177
 }

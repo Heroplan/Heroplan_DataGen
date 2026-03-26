@@ -1,5 +1,29 @@
 [
     {
+        "name": "Dancrag",
+        "fancy_name": "Ancient Colossus Construct",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2026-03-26 07:00:00",
+        "star": 5,
+        "family": "construct",
+        "costume_id": 0,
+        "heroId": "construct_dancrag",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Xiang Chong",
+        "fancy_name": "Flying Star of Water Margin",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2026-03-28 07:00:00",
+        "star": 5,
+        "family": "outlaw",
+        "costume_id": 0,
+        "heroId": "outlaw_xiang_chong",
+        "Lottery_Only": 1
+    },
+    {
         "name": "Sir Roostley C1",
         "fancy_name": "Mighty Alchemist of Springvale",
         "color": "Yellow",
@@ -57,6 +81,42 @@
         "family": "easter",
         "costume_id": 0,
         "heroId": "easter_marko",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Auberguy",
+        "fancy_name": "Aubergine Wizard",
+        "color": "Purple",
+        "Release date": "",
+        "canBeReceivedDate": "2026-04-02 07:00:00",
+        "star": 5,
+        "family": "vegetable",
+        "costume_id": 0,
+        "heroId": "vegetable_auberguy",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Carthizux",
+        "fancy_name": "Astral Demon Maniac",
+        "color": "Red",
+        "Release date": "",
+        "canBeReceivedDate": "2026-04-05 07:00:00",
+        "star": 5,
+        "family": "astral_demons",
+        "costume_id": 0,
+        "heroId": "astral_demon_carthizux",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Kageyama Nagato",
+        "fancy_name": "Thief-Shuriken Ronin",
+        "color": "Green",
+        "Release date": "",
+        "canBeReceivedDate": "2026-04-06 07:00:00",
+        "star": 5,
+        "family": "ronin",
+        "costume_id": 0,
+        "heroId": "ronin_kageyama_nagato",
         "Lottery_Only": 1
     }
 ]

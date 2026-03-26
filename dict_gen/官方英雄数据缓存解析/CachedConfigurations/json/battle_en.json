@@ -54554,7 +54554,7 @@
         "statusEffect": "PainEmpathy",
         "id": "pain_empathy_sharalen",
         "buff": "MinorDebuff",
-        "sharedDamageMultiplierPerMil": 860,
+        "sharedDamageMultiplierPerMil": 560,
         "sharedDamageMultiplierIncrementPerLevelPerMil": 20
       },
       {
@@ -58516,7 +58516,7 @@
           {
             "typeOfTarget": "Random",
             "effectType": "Damage",
-            "powerMultiplierPerMil": 3150,
+            "powerMultiplierPerMil": 4150,
             "powerMultiplierIncrementPerLevelPerMil": 50
           }
         ],
@@ -58706,10 +58706,10 @@
         "statusEffect": "Burn",
         "id": "burn_damage_whitley",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 50,
+        "damageMultiplierPerMil": 85,
         "damageMultiplierIncrementPerLevelPerMil": 10,
         "additionalCasterSideEffect": "Heal",
-        "additionalCasterSideEffectPowerPerMil": 300
+        "additionalCasterSideEffectPowerPerMil": 500
       },
       {
         "statusEffect": "HealMultiplier",
@@ -58743,7 +58743,7 @@
         "statusEffect": "ManaGenerationModifier",
         "id": "mana_regen_reduction_marko",
         "buff": "MajorDebuff",
-        "manaGenerationMultiplierPerMil": 970,
+        "manaGenerationMultiplierPerMil": 920,
         "manaGenerationMultiplierIncrementPerLevelPerMil": 246
       },
       {
@@ -91895,5 +91895,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 3446063821
+  "battleConfigId": 3297390149
 }
