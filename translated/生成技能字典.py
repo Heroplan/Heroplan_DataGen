@@ -169,6 +169,54 @@ def create_effects_dictionary(original_data, translated_data, lang_name, logger)
             
     return regex_dict
 
+def check_untouched_translations(logger, original_data, translated_data, lang_name):
+    """
+    检查指定语言版本的翻译是否与英文原文完全相同（疑似漏翻译）。
+    """
+    logger.info(f"--- 开始检查【{lang_name}】可能漏翻译的技能效果文本 ---")
+    
+    untouched_entries = []
+    original_map = {item['heroId']: item.get('effects', []) for item in original_data}
+    translated_map = {item['heroId']: item.get('effects', []) for item in translated_data}
+    
+    for hero_id in original_map:
+        if hero_id not in translated_map:
+            continue
+        
+        eng_effects = [extract_string_from_item(e) for e in original_map.get(hero_id, [])]
+        trans_effects = [extract_string_from_item(t) for t in translated_map.get(hero_id, [])]
+        
+        # 确保比较的列表长度一致
+        min_len = min(len(eng_effects), len(trans_effects))
+        for i in range(min_len):
+            eng_text = eng_effects[i] if i < len(eng_effects) else None
+            trans_text = trans_effects[i] if i < len(trans_effects) else None
+            
+            if eng_text and trans_text and eng_text.strip() == trans_text.strip():
+                # 找到疑似漏翻译的条目
+                hero_name = next((item.get('name', 'N/A') for item in translated_data if item['heroId'] == hero_id), 'N/A')
+                untouched_entries.append({
+                    'heroId': hero_id,
+                    'name': hero_name,
+                    'english': eng_text.strip(),
+                    'translation': trans_text.strip()
+                })
+    
+    # 生成报告
+    if untouched_entries:
+        try:
+            for entry in untouched_entries:
+                logger.warning(f"英雄ID (heroId): {entry['heroId']}\n")
+                logger.warning(f"英雄名称: {entry['name']}\n")
+                logger.warning(f"英文原文: {entry['english']}\n")
+                logger.warning(f"当前译文: {entry['translation']}\n")
+                logger.warning("-"*50 + "\n")
+            logger.warning(f"  >>> 发现 {len(untouched_entries)} 条技能效果文本可能未被翻译（与原文相同）。")
+        except Exception as e:
+            logger.error(f"保存【{lang_name}】漏翻译检查报告时出错: {e}")
+    else:
+        logger.info(f"  √ 未发现与原文完全相同的技能效果文本（【{lang_name}】基础漏翻译检查通过）。")
+
 def analyze_effects_discrepancies(logger, original_data, cn_data, tc_data):
     logger.info("--- 开始生成技能(effects)的结构性差异报告 ---")
     original_map = {item['heroId']: item for item in original_data}
@@ -223,6 +271,12 @@ def main():
         return
     if cn_data and tc_data:
         analyze_effects_discrepancies(logger, original_data, cn_data, tc_data)
+    #漏翻译检查
+    if cn_data:
+        check_untouched_translations(logger, original_data, cn_data, "简体中文")
+    if tc_data:
+        check_untouched_translations(logger, original_data, tc_data, "繁體中文")
+    
     logger.info("--- 开始处理 简体中文 字典生成 ---")
     dictionary_cn = {}
     if cn_data:

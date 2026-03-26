@@ -3716,6 +3716,20 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "construct_dancrag",
+        "name": "Dancrag",
+        "passives": [
+            "賦能抵禦特殊技能封鎖：此角色對能夠讓特殊技能無法使用的狀熊异常免疫，每次抵抗都會猫得 450 點生命值提升和 5% 法力。",
+            "小兵核心：此角色的横造體核心是小兵核心。",
+            "每次施放此角色的特殊技能時就會啟動小兵核心：",
+            "* 完全充能的小兵核心會為所有盟友召喚一個殺手機器人小兵，擁有繼承自施法者的 27% 生命值和 55% 攻擊。",
+            "* 繼承自施法者的生命值和攻擊，會根據核心的充能而有所變動。核心啟動後，會耗盡所有充能。",
+            "* 在殺手機器人小兵命中目標前曾消滅目标的所有小兵並對超级小兵造成傷害。",
+            "* 小兵於每回合結束時，會為其主人治療 5% 生命值。",
+            "* 枯萎：殺手機器人小兵每次攻擊，都會使目標的攻擊力變為 -50。"
+        ]
+    },
+    {
         "heroId": "ballerina_daroga",
         "name": "Daroga",
         "passives": [
@@ -7485,6 +7499,28 @@ const translatedPassivesTC =
         "name": "Tora",
         "passives": [
             "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
+        ]
+    },
+    {
+        "heroId": "mimic_troop_purple",
+        "name": "Troop Mimic Dark",
+        "passives": [
+            "完美精準度：此角色的特殊技能必定命中目標。",
+            "模仿怪戰利品：完成關卡時，此模仿怪有機會提供額外戰利品。",
+            "稀有：",
+            "* 野蠻戰錘人。",
+            "* 野蠻牛頭怪。",
+            "* 召火戰鬥法師。",
+            "* 訓練師部隊。",
+            "罕見：",
+            "* 野蠻狂戰士。",
+            "* 召火巫師。",
+            "* 訓練師部隊。",
+            "普通：",
+            "* 普通村民。",
+            "* 野蠻僧侶。",
+            "* 野蠻戰士。",
+            "* 訓練師部隊。"
         ]
     },
     {
@@ -12845,6 +12881,11 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "outlaw_xiang_chong",
+        "name": "Xiang Chong",
+        "passives": []
+    },
+    {
         "heroId": "easter_sir_roostley_costume_alchemist",
         "name": "Sir Roostley C1",
         "passives": []
@@ -12867,6 +12908,21 @@ const translatedPassivesTC =
     {
         "heroId": "easter_marko",
         "name": "Marko",
+        "passives": []
+    },
+    {
+        "heroId": "vegetable_auberguy",
+        "name": "Auberguy",
+        "passives": []
+    },
+    {
+        "heroId": "astral_demon_carthizux",
+        "name": "Carthizux",
+        "passives": []
+    },
+    {
+        "heroId": "ronin_kageyama_nagato",
+        "name": "Kageyama Nagato",
         "passives": []
     }
 ];

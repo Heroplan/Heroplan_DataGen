@@ -4842,6 +4842,16 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "construct_dancrag",
+        "name": "Dancrag",
+        "effects": [
+            "为所有盟友恢复 45% 生命值。",
+            "每名被击败盟友有 25% 几率以 40% 的生命值复活。",
+            "面板上每有一面自然系盾牌，则复活几率增加 5%，最高总共可达 65%。",
+            "所有盟友对新的状态异常免疫，持续 4 回合。"
+        ]
+    },
+    {
         "heroId": "ballerina_daroga",
         "name": "Daroga",
         "effects": [
@@ -5490,7 +5500,7 @@ const translatedEffectsCN =
         "name": "Horghall C2",
         "effects": [
             "对所有敌人造成 260% 伤害。",
-            "All enemies get -31% attack, and a further 4% decrease any time they are hit during 4 turns, down to -51% attack.",
+            "所有敌人获得 -31% 攻击力，并在每次被击中时再降低 4% 攻击力，持续 4 回合,最高 -51% 攻击力。",
             "所有敌人获得 -24% 防御，持续 4 回合。",
             "所有敌人在 4 回合内受到共计 228 点剧毒伤害。"
         ]
@@ -7567,7 +7577,7 @@ const translatedEffectsCN =
         "name": "Sabina C1",
         "effects": [
             "所有盟友在 3 回合内恢复 609 点生命值。",
-            "All enemies are immune to new buffs for 3 turns.",
+            "所有敌人对新的增益状态效果免疫，持续 3 回合。",
             "驱散所有敌人的增益。"
         ]
     },
@@ -9835,6 +9845,16 @@ const translatedEffectsCN =
             "- 对所有敌人造成 450% 伤害。",
             "- 敌人每拥有一个小兵或超级小兵，便造成额外 35% 伤害，最多累计造成 800% 伤害。",
             "- 攻击会无视防御增益。（包括反击）"
+        ]
+    },
+    {
+        "heroId": "mimic_troop_purple",
+        "name": "Troop Mimic Dark",
+        "effects": [
+            "对目标造成 480% 伤害。",
+            "若本次攻击将敌人击败，那么施法者将恢复 +50% 生命并获得 +33% 法力。（在单个回合内，当一名角色已经从特殊技能获得了 5 次直接法力补充后，该角色此后再通过特殊技能获得的所有直接法力补充效果都会被削弱。）",
+            "所有暗黑系盟友在 4 回合内获得 +100% 普通攻击。即使英雄身上已有其他影响攻击力的效果，此效果仍然有效。此效果有效期间，普通攻击最多可以增加共计 +200% 攻击力。",
+            "拟态兽宝箱关闭 2 回合。（拟态兽宝箱关闭时免疫伤害和新的状态异常）"
         ]
     },
     {
@@ -16815,6 +16835,11 @@ const translatedEffectsCN =
         ]
     },
     {
+        "heroId": "outlaw_xiang_chong",
+        "name": "Xiang Chong",
+        "effects": []
+    },
+    {
         "heroId": "easter_sir_roostley_costume_alchemist",
         "name": "Sir Roostley C1",
         "effects": []
@@ -16837,6 +16862,21 @@ const translatedEffectsCN =
     {
         "heroId": "easter_marko",
         "name": "Marko",
+        "effects": []
+    },
+    {
+        "heroId": "vegetable_auberguy",
+        "name": "Auberguy",
+        "effects": []
+    },
+    {
+        "heroId": "astral_demon_carthizux",
+        "name": "Carthizux",
+        "effects": []
+    },
+    {
+        "heroId": "ronin_kageyama_nagato",
+        "name": "Kageyama Nagato",
         "effects": []
     }
 ];

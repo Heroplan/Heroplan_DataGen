@@ -3716,6 +3716,20 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "construct_dancrag",
+        "name": "Dancrag",
+        "passives": [
+            "Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.",
+            "Minion Core: The Construct Core of this character is Minion Core.",
+            "The Minion Core activates each time this character's Special Skill is cast:",
+            "* With a fully charged Minion Core, summons a Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.",
+            "* The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.",
+            "* Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.",
+            "* The Killer Bot Minion recovers 5% health for its owner at the end of each turn.",
+            "* Wither: Each hit from a Killer Bot Minion gives its target -50 attack."
+        ]
+    },
+    {
         "heroId": "ballerina_daroga",
         "name": "Daroga",
         "passives": [
@@ -7485,6 +7499,28 @@ const allTranslations =
         "name": "Tora",
         "passives": [
             "Weaker Minions: Enemy Minions have -50% HP."
+        ]
+    },
+    {
+        "heroId": "mimic_troop_purple",
+        "name": "Troop Mimic Dark",
+        "passives": [
+            "Perfect Accuracy: This character's Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic grants a chance for the following extra loot when completing stages",
+            "RARE",
+            "* Barbaric Maulers",
+            "* Barbaric Minotaurs",
+            "* Firecaller Battlemages",
+            "* Trainer Troop",
+            "UNCOMMON",
+            "* Barbaric Berserkers",
+            "* Firecaller Wizards",
+            "* Trainer Troop",
+            "COMMON",
+            "* Common Villager",
+            "* Barbaric Monks",
+            "* Barbaric Fighters",
+            "* Trainer Troop"
         ]
     },
     {
@@ -12845,6 +12881,11 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "outlaw_xiang_chong",
+        "name": "Xiang Chong",
+        "passives": []
+    },
+    {
         "heroId": "easter_sir_roostley_costume_alchemist",
         "name": "Sir Roostley C1",
         "passives": []
@@ -12867,6 +12908,21 @@ const allTranslations =
     {
         "heroId": "easter_marko",
         "name": "Marko",
+        "passives": []
+    },
+    {
+        "heroId": "vegetable_auberguy",
+        "name": "Auberguy",
+        "passives": []
+    },
+    {
+        "heroId": "astral_demon_carthizux",
+        "name": "Carthizux",
+        "passives": []
+    },
+    {
+        "heroId": "ronin_kageyama_nagato",
+        "name": "Kageyama Nagato",
         "passives": []
     }
 ];

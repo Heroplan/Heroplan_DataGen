@@ -58,7 +58,7 @@
     "^The\\s+members\\s+of\\s+this\\s+family\\s+have\\s+additional\\s+perks\\s+in\\s+the\\s+Festival\\s+of\\s+Fortune\\s+event\\.?\\s*$": "活动英雄加成 该家族的成员在幸运庆典活动中拥有额外的加成。",
     "^This\\s+character\\s+has([+-]?\\s*\\d+\\s*%?)\\s+/([+-]?\\s*\\d+\\s*%?)\\s+/([+-]?\\s*\\d+\\s*%?)\\s+extra\\s+chance\\s+to\\s+bypass\\s+defensive\\s+buffs\\s+with\\s+their\\s+attacks\\.?\\s*\\s+If\\s+any\\s+defensive\\s+buffs\\s+are\\s+bypassed,\\s+this\\s+character['’]?s\\s+mana\\s+is\\s+increased\\s+by([+-]?\\s*\\d+\\s*%?)\\.?\\s*$": "此角色在攻击时有\\1 /\\2 /\\3 的额外几率绕过防御增益。如果绕过防御增益，此角色的法力增加\\4。",
     "^Heroes\\s+become\\s+stronger\\s+when\\s+teamed\\s+with\\s+other\\s+unique\\s+Heroes\\s+of\\s+the\\s+same\\s+family\\.?\\s*$": "与同一家族的其他独特英雄组队时，英雄会变得更强。",
-    "^\\s+\\*([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)\\s+extra\\s+chance\\s+to\\s+dodge\\s+Special\\s+Skills\\.?\\s*$": "*\\1/\\2/\\3 额外几率闪避特殊技能。",
+    "^\\s+\\*([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)\\s+extra\\s+chance\\s+to\\s+dodge\\s+Special\\s+Skills\\.?\\s*$": "*\\1 /\\2 /\\3 额外几率闪避特殊技能。",
     "^\\s+\\*\\s+Each\\s+Special\\s+Skill\\s+dodged\\s+heals\\s+this\\s+character\\s+for([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)health\\.?\\s*$": "* 每次闪避特殊技能时，为此角色提供\\1/\\2/\\3治疗。",
     "^Bonus\\s+for([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)Unique\\s+Heroes:$": "\\1/\\2/\\3位独特英雄的加成：",
     "^([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)\\s+defense$": "\\1 / \\2 / \\3 防御。",

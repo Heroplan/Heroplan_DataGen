@@ -23633,6 +23633,7 @@
         "dollarValue": 10,
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
+        "directCheckoutDisabled": true,
         "contents": [
           {
             "type": "Item",
@@ -28841,27 +28842,23 @@
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_wilderness_coin",
-            "amount": 500,
-            "zyngaStoreExtraAmount": 100
+            "id": "lottery_covenant_coin",
+            "amount": 500
           },
           {
             "type": "Item",
-            "id": "lottery_alliance_coin",
-            "amount": 50,
-            "zyngaStoreExtraAmount": 10
+            "id": "lottery_costume_key",
+            "amount": 25
           },
           {
             "type": "Item",
             "id": "lottery_pickup_coin",
-            "amount": 500,
-            "zyngaStoreExtraAmount": 100
+            "amount": 500
           },
           {
             "type": "Item",
             "id": "lottery_elite_hero",
-            "amount": 5,
-            "zyngaStoreExtraAmount": 1
+            "amount": 5
           },
           {
             "type": "Item",
@@ -28886,8 +28883,7 @@
           {
             "type": "Item",
             "id": "lottery_untold_tales_coin",
-            "amount": 500,
-            "zyngaStoreExtraAmount": 100
+            "amount": 500
           },
           {
             "type": "Item",
@@ -28897,8 +28893,7 @@
           {
             "type": "Item",
             "id": "lottery_ascension_coin",
-            "amount": 500,
-            "zyngaStoreExtraAmount": 100
+            "amount": 500
           },
           {
             "type": "Item",
@@ -59693,5 +59688,5 @@
       }
     ]
   },
-  "productsConfigId": 163422665
+  "productsConfigId": 4122145206
 }

@@ -58672,7 +58672,7 @@
         "statusEffect": "StackingHealthGeneration",
         "id": "stacking_health_generation_easter",
         "buff": "StackMinorBuff",
-        "healthPoints": 15,
+        "healthPoints": 30,
         "healthPointsIncrementPerLevel": 0
       },
       {
@@ -58825,7 +58825,7 @@
         "statusEffect": "StackingHealthGeneration",
         "id": "stacking_health_generation_easter_epic",
         "buff": "StackMinorBuff",
-        "healthPoints": 5,
+        "healthPoints": 10,
         "healthPointsIncrementPerLevel": 0
       },
       {
@@ -91895,5 +91895,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 3297390149
+  "battleConfigId": 413089367
 }

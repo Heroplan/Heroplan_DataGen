@@ -58,7 +58,7 @@
     "^The\\s+members\\s+of\\s+this\\s+family\\s+have\\s+additional\\s+perks\\s+in\\s+the\\s+Festival\\s+of\\s+Fortune\\s+event\\.?\\s*$": "活動英雄加成此家族的成員在鸿運節慶活動中有额外福利。",
     "^This\\s+character\\s+has([+-]?\\s*\\d+\\s*%?)\\s+/([+-]?\\s*\\d+\\s*%?)\\s+/([+-]?\\s*\\d+\\s*%?)\\s+extra\\s+chance\\s+to\\s+bypass\\s+defensive\\s+buffs\\s+with\\s+their\\s+attacks\\.?\\s*\\s+If\\s+any\\s+defensive\\s+buffs\\s+are\\s+bypassed,\\s+this\\s+character['’]?s\\s+mana\\s+is\\s+increased\\s+by([+-]?\\s*\\d+\\s*%?)\\.?\\s*$": "此角色已有\\1 /\\2 /\\3 额外機率可以在攻擊時避開防禦增益。如果避開任何防禦增益，則這名角色的法力會增加\\4。",
     "^Heroes\\s+become\\s+stronger\\s+when\\s+teamed\\s+with\\s+other\\s+unique\\s+Heroes\\s+of\\s+the\\s+same\\s+family\\.?\\s*$": "與其他同家族的獨特英雄組隊時，英雄會更強大。",
-    "^\\s+\\*([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)\\s+extra\\s+chance\\s+to\\s+dodge\\s+Special\\s+Skills\\.?\\s*$": "* 有\\1/\\2/\\3的額外機率能避開特殊技能。",
+    "^\\s+\\*([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)\\s+extra\\s+chance\\s+to\\s+dodge\\s+Special\\s+Skills\\.?\\s*$": "* 有\\1 /\\2 /\\3 的額外機率能避開特殊技能。",
     "^\\s+\\*\\s+Each\\s+Special\\s+Skill\\s+dodged\\s+heals\\s+this\\s+character\\s+for([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)health\\.?\\s*$": "* 每次閃避特殊技能時，都會為此角色療\\1/\\2/\\3生命。",
     "^Bonus\\s+for([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)Unique\\s+Heroes:$": "\\1/\\2/\\3位獨特英雄的加成：",
     "^([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)\\s+defense$": "\\1 / \\2 / \\3 防禦",

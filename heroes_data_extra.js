@@ -4886,10 +4886,12 @@ window.allHeroesExtra = [
         "specialId": "reckless_finisher",
         "specialId_costume": "rift_blade",
         "passiveSkills": null,
-        "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "22%",
-        "defenseBonus": "20%",
-        "healthBonus": "25%",
+        "costumeBonusPassiveSkillIds": [
+            "easter_defense_down_stack_on_special"
+        ],
+        "attackBonus": "35%",
+        "defenseBonus": "35%",
+        "healthBonus": "35%",
         "manaBonus": "5%",
         "family": "easter"
     },
@@ -9002,10 +9004,12 @@ window.allHeroesExtra = [
         "specialId": "reckless_slash",
         "specialId_costume": "egg_barrage",
         "passiveSkills": null,
-        "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "3%",
-        "defenseBonus": "3%",
-        "healthBonus": "6%",
+        "costumeBonusPassiveSkillIds": [
+            "easter_defense_down_stack_on_special"
+        ],
+        "attackBonus": "24%",
+        "defenseBonus": "24%",
+        "healthBonus": "24%",
         "manaBonus": "5%",
         "family": "easter"
     },
@@ -10237,10 +10241,12 @@ window.allHeroesExtra = [
         "specialId": "fabled_llama_ballad",
         "specialId_costume": "vigorous_villanelle",
         "passiveSkills": null,
-        "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "22%",
-        "defenseBonus": "20%",
-        "healthBonus": "25%",
+        "costumeBonusPassiveSkillIds": [
+            "easter_defense_down_stack_on_special"
+        ],
+        "attackBonus": "35%",
+        "defenseBonus": "35%",
+        "healthBonus": "35%",
         "manaBonus": "5%",
         "family": "easter"
     },
@@ -19462,10 +19468,12 @@ window.allHeroesExtra = [
         "specialId": "reckless_swing",
         "specialId_costume": "championship_carrot",
         "passiveSkills": null,
-        "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "22%",
-        "defenseBonus": "20%",
-        "healthBonus": "25%",
+        "costumeBonusPassiveSkillIds": [
+            "easter_defense_down_stack_on_special"
+        ],
+        "attackBonus": "35%",
+        "defenseBonus": "35%",
+        "healthBonus": "35%",
         "manaBonus": "5%",
         "family": "easter"
     },
@@ -34293,10 +34301,12 @@ window.allHeroesExtra = [
         "specialId": "petals_of_nourishment",
         "specialId_costume": "dreams_of_nourishment",
         "passiveSkills": null,
-        "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "22%",
-        "defenseBonus": "20%",
-        "healthBonus": "25%",
+        "costumeBonusPassiveSkillIds": [
+            "easter_health_generation_stack_on_special"
+        ],
+        "attackBonus": "35%",
+        "defenseBonus": "35%",
+        "healthBonus": "35%",
         "manaBonus": "5%",
         "family": "easter"
     },
@@ -45397,5 +45407,51 @@ window.allHeroesExtra = [
             "mana_on_damage_received"
         ],
         "family": "mahayoddha"
+    },
+    {
+        "name": "Dancrag",
+        "fancy name": "Ancient Colossus Construct",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
+        "Release date": "2026-03-26",
+        "AetherPower": "Damage Reduction",
+        "skill_types": [
+            "Healers",
+            "Revivers",
+            "Immunity Providers"
+        ],
+        "heroId": "construct_dancrag",
+        "baseAttack": 640,
+        "baseDefense": 667,
+        "baseHealth": 1113,
+        "specialId": "ancient_technology",
+        "passiveSkills": [
+            "minion_core",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "construct"
+    },
+    {
+        "name": "Troop Mimic Dark",
+        "fancy name": "Bounty of Dreadful Arsenal",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
+        "Release date": "2026-03-27",
+        "AetherPower": "Bulwark",
+        "skill_types": [],
+        "heroId": "mimic_troop_purple",
+        "baseAttack": 649,
+        "baseDefense": 647,
+        "baseHealth": 1099,
+        "specialId": "gluttonous_chomp_purple",
+        "passiveSkills": [
+            "mimic_troop_purple",
+            "never_miss_special"
+        ],
+        "family": "mimic"
     }
 ];

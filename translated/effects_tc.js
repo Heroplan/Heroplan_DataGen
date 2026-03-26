@@ -4842,6 +4842,16 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "construct_dancrag",
+        "name": "Dancrag",
+        "effects": [
+            "為所有盟友恢復 45% 生命值。",
+            "每個落敗盟友有 25% 機率以 40% 生命值復活。",
+            "每個在面板上的自然護盾會增加 5% 復活機率，最高至 65% 總機率。",
+            "所有盟友對新的狀態異常免疫，持續 4 回合。"
+        ]
+    },
+    {
         "heroId": "ballerina_daroga",
         "name": "Daroga",
         "effects": [
@@ -9835,6 +9845,16 @@ const translatedEffectsTC =
             "- 對所有敵人造成 450% 傷害。",
             "- 敵人每持有一名小兵或超級小兵，都將造成額外 35% 傷害，最多累積造成 800% 傷害。",
             "- 攻擊会無視防禦增益。（包含反擊）"
+        ]
+    },
+    {
+        "heroId": "mimic_troop_purple",
+        "name": "Troop Mimic Dark",
+        "effects": [
+            "對目標造成 480% 傷害。",
+            "若敵人被該攻擊所打敗，施法者恢復 +50% 生命值並獲得 +33% 法力。（角色在單一回合中，透過特殊技能獲得 5 次直接法力增加後，此角色後續所有透過特殊技能獲得直接法力增加的效果降低。）",
+            "所有暗黑敵人承受 4 回合的 +100% 普通攻擊。除了可變更整體攻擊的效果，可另外啟動此效果。啟動此效果時，普通攻擊最多可提升 +200% 戰力。",
+            "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
         ]
     },
     {
@@ -16815,6 +16835,11 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "outlaw_xiang_chong",
+        "name": "Xiang Chong",
+        "effects": []
+    },
+    {
         "heroId": "easter_sir_roostley_costume_alchemist",
         "name": "Sir Roostley C1",
         "effects": []
@@ -16837,6 +16862,21 @@ const translatedEffectsTC =
     {
         "heroId": "easter_marko",
         "name": "Marko",
+        "effects": []
+    },
+    {
+        "heroId": "vegetable_auberguy",
+        "name": "Auberguy",
+        "effects": []
+    },
+    {
+        "heroId": "astral_demon_carthizux",
+        "name": "Carthizux",
+        "effects": []
+    },
+    {
+        "heroId": "ronin_kageyama_nagato",
+        "name": "Kageyama Nagato",
         "effects": []
     }
 ];

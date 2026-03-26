@@ -4842,6 +4842,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "construct_dancrag",
+        "name": "Dancrag",
+        "effects": [
+            "Recovers 45% health for all allies.",
+            "Each defeated ally has a 25% chance to be revived with 40% HP.",
+            "Each Nature shield on the board increases the chance to be revived by 5%, up to 65% chance in total.",
+            "All allies are immune to new status ailments for 4 turns."
+        ]
+    },
+    {
         "heroId": "ballerina_daroga",
         "name": "Daroga",
         "effects": [
@@ -9835,6 +9845,16 @@ const allTranslations =
             "- Deals 450% damage to all enemies.",
             "- Deals additional 35% damage for each Minion or Mega Minion owned by the enemies up to 800% damage in total.",
             "- The attack bypasses defensive buffs. (This include counterattacks)"
+        ]
+    },
+    {
+        "heroId": "mimic_troop_purple",
+        "name": "Troop Mimic Dark",
+        "effects": [
+            "Deals 480% damage to the target.",
+            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana. (After a character has received 5 direct mana additions from Special Skills during a single turn, all subsequent direct mana additions done by Special Skills will have reduced power on that character.)",
+            "All Dark allies get +100% normal attack for 4 turns. This effect can be active in additional to other effects that alter attack in general. Normal attacks can have a total maximum of +200% increased power while this effect is active.",
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
     },
     {
@@ -16815,6 +16835,11 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "outlaw_xiang_chong",
+        "name": "Xiang Chong",
+        "effects": []
+    },
+    {
         "heroId": "easter_sir_roostley_costume_alchemist",
         "name": "Sir Roostley C1",
         "effects": []
@@ -16837,6 +16862,21 @@ const allTranslations =
     {
         "heroId": "easter_marko",
         "name": "Marko",
+        "effects": []
+    },
+    {
+        "heroId": "vegetable_auberguy",
+        "name": "Auberguy",
+        "effects": []
+    },
+    {
+        "heroId": "astral_demon_carthizux",
+        "name": "Carthizux",
+        "effects": []
+    },
+    {
+        "heroId": "ronin_kageyama_nagato",
+        "name": "Kageyama Nagato",
         "effects": []
     }
 ];

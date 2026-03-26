@@ -138,6 +138,58 @@ def generate_single_dictionary(original_data, translated_data, lang_code, logger
             
     return regex_dict
 
+def check_untouched_family_bonus(logger, original_data, translated_data, lang_name):
+    """
+    检查指定语言版本的家族奖励翻译是否与英文原文完全相同（疑似漏翻译）。
+    """
+    logger.info(f"--- 开始检查【{lang_name}】家族奖励可能漏翻译的文本 ---")
+    
+    untouched_entries = []
+    
+    # 按 originalIndex 建立映射
+    original_map = {item['originalIndex']: item.get('bonus', []) for item in original_data}
+    translated_map = {item['originalIndex']: item.get('bonus', []) for item in translated_data}
+    
+    for index in original_map:
+        if index not in translated_map:
+            continue
+        
+        eng_bonus_list = original_map.get(index, [])
+        trans_bonus_list = translated_map.get(index, [])
+        min_len = min(len(eng_bonus_list), len(trans_bonus_list))
+        
+        for i in range(min_len):
+            eng_text = eng_bonus_list[i] if i < len(eng_bonus_list) else None
+            trans_text = trans_bonus_list[i] if i < len(trans_bonus_list) else None
+            
+            # 移除首尾空白后进行严格比对
+            if eng_text and trans_text and eng_text.strip() == trans_text.strip():
+                # 记录此条目
+                family_name = next((item.get('family', 'N/A') for item in translated_data if item['originalIndex'] == index), 'N/A')
+                untouched_entries.append({
+                    'originalIndex': index,
+                    'family': family_name,
+                    'bonus_index': i,
+                    'english': eng_text.strip(),
+                    'translation': trans_text.strip()
+                })
+    
+    # 生成报告
+    if untouched_entries:
+        import datetime
+        try:
+            for entry in untouched_entries:
+                logger.warning(f"原始索引 (originalIndex): {entry['originalIndex']}\n")
+                logger.warning(f"家族名称: {entry['family']}\n")
+                logger.warning(f"奖励序号: {entry['bonus_index']}\n")
+                logger.warning(f"英文原文: {entry['english']}\n")
+                logger.warning(f"当前译文: {entry['translation']}\n")
+                logger.warning("-"*50 + "\n")
+            logger.warning(f"  >>> 发现 {len(untouched_entries)} 条家族奖励文本可能未被翻译（与原文相同）。")
+        except Exception as e:
+            logger.error(f"保存【{lang_name}】漏翻译检查报告时出错: {e}")
+    else:
+        logger.info(f"  √ 未发现与原文完全相同的家族奖励文本（【{lang_name}】基础漏翻译检查通过）。")
 def main():
     """主函数，用于编排双语家族奖励字典的生成和保存。"""
     logger = setup_logger('../../logs/families_bonus_generate_log.log', 'FamiliesBonusGenerator')
@@ -161,6 +213,12 @@ def main():
     if not original_data or not translated_data_cn or not translated_data_tc:
         logger.error("因一个或多个文件解析错误，无法继续。")
         return
+    
+    #漏翻译检查
+    if translated_data_cn:
+        check_untouched_family_bonus(logger, original_data, translated_data_cn, "简体中文")
+    if translated_data_tc:
+        check_untouched_family_bonus(logger, original_data, translated_data_tc, "繁體中文")
 
     logger.info("--- 正在为简体中文(CN)生成字典 ---")
     dictionary_cn = generate_single_dictionary(original_data, translated_data_cn, 'CN', logger)
