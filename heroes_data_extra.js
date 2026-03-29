@@ -45453,5 +45453,33 @@ window.allHeroesExtra = [
             "never_miss_special"
         ],
         "family": "mimic"
+    },
+    {
+        "name": "Xiang Chong",
+        "fancy name": "Flying Star of Water Margin",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
+        "Release date": "2026-03-28",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Chain & Random Attackers",
+            "Healers (Special)",
+            "Health Boosters"
+        ],
+        "heroId": "outlaw_xiang_chong",
+        "baseAttack": 665,
+        "baseDefense": 638,
+        "baseHealth": 1111,
+        "specialId": "storm_of_blades",
+        "passiveSkills": [
+            "resist_bleed",
+            "righteous_rebellion_parent",
+            "cleanse_on_special_critical_damage_all_safe"
+        ],
+        "family": "outlaw"
     }
 ];

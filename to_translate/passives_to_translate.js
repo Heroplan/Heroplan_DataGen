@@ -385,11 +385,11 @@ const allTranslations =
         "heroId": "construct_bonechill",
         "name": "Bonechill",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Destructive Core: The Construct Core of this character is Destructive Core.",
             "The Destructive Core activates each time this character's Special Skill is cast",
             "* With fully charged Destructive Core, deals 180% damage to all enemies.",
-            "* The damage is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
+            "* The damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -2196,7 +2196,7 @@ const allTranslations =
         "heroId": "construct_skarn",
         "name": "Skarn",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast:",
             "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 153 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -2244,7 +2244,7 @@ const allTranslations =
         "heroId": "outlaw_song_jiang",
         "name": "Song Jiang",
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status ailment from all allies. This effect can activate once per turn.",
             "Righteous Rebellion:",
             "* When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             "* When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
@@ -4457,7 +4457,7 @@ const allTranslations =
         "heroId": "outlaw_lin_chong",
         "name": "Lin Chong",
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status ailment from all allies. This effect can activate once per turn.",
             "Righteous Rebellion:",
             "* When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             "* When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
@@ -4776,10 +4776,11 @@ const allTranslations =
         "heroId": "construct_rhineglow",
         "name": "Rhineglow",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
-            "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character's Special Skill is cast:",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
+            "Destructive Core: The Construct Core of this character is Destructive Core.",
+            "The Destructive Core activates each time this character's Special Skill is cast",
             "* With fully charged Destructive Core, deals 180% damage to all enemies.",
-            "* The damage is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
+            "* The damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -5116,6 +5117,18 @@ const allTranslations =
         "name": "Xiamara",
         "passives": [
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
+        ]
+    },
+    {
+        "heroId": "outlaw_xiang_chong",
+        "name": "Xiang Chong",
+        "passives": [
+            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status ailment from all allies. This effect can activate once per turn.",
+            "Righteous Rebellion:",
+            "* When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
+            "* When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
+            "* Each of these effects can activate once per turn.",
+            "Resist Bleed: This character is immune to status ailments that deal Bleed damage."
         ]
     },
     {
@@ -6154,10 +6167,10 @@ const allTranslations =
         "heroId": "construct_carta",
         "name": "Carta",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
             "* With fully charged Repair Core, boosts the health of all allies by 25%.",
-            "* The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
+            "* The healing is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -6186,7 +6199,7 @@ const allTranslations =
         "heroId": "outlaw_chao_gai",
         "name": "Chao Gai",
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status ailment from all allies. This effect can activate once per turn.",
             "Righteous Rebellion:",
             "* When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             "* When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
@@ -6593,7 +6606,7 @@ const allTranslations =
         "heroId": "outlaw_hu_sanniang",
         "name": "Hu Sanniang",
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status ailment from all allies. This effect can activate once per turn.",
             "Righteous Rebellion:",
             "* When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             "* When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
@@ -7292,7 +7305,7 @@ const allTranslations =
         "heroId": "construct_nocturne",
         "name": "Scath",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character's Special Skill is cast:",
             "* With fully charged Repair Core, boosts the health of all allies by 25%.",
             "* The healing is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
@@ -9607,7 +9620,7 @@ const allTranslations =
         "heroId": "outlaw_li_kui",
         "name": "Li Kui",
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status ailment from all allies. This effect can activate once per turn.",
             "Righteous Rebellion:",
             "* When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             "* When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
@@ -10082,9 +10095,9 @@ const allTranslations =
         "heroId": "construct_scoria",
         "name": "Scoria",
         "passives": [
-            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.",
             "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character's Special Skill is cast:",
-            "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 146 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
+            "* All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 146 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             "* The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
@@ -12431,7 +12444,7 @@ const allTranslations =
         "heroId": "outlaw_ruan_xiaoqi",
         "name": "Ruan Xiaoqi",
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status ailment from all allies. This effect can activate once per turn.",
             "Righteous Rebellion:",
             "* When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             "* When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
@@ -12738,7 +12751,7 @@ const allTranslations =
         "heroId": "outlaw_wu_yong",
         "name": "Wu Yong",
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status ailment from all allies. This effect can activate once per turn.",
             "Righteous Rebellion:",
             "* When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             "* When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
@@ -12879,11 +12892,6 @@ const allTranslations =
             "Resist Mana Reduction: This character is immune to mana reductions.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
-    },
-    {
-        "heroId": "outlaw_xiang_chong",
-        "name": "Xiang Chong",
-        "passives": []
     },
     {
         "heroId": "easter_sir_roostley_costume_alchemist",

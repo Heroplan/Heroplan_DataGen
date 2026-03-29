@@ -1441,5 +1441,12 @@
   "Fear Debuff All": "全體恐懼減益",
   "Hit Growth Boon": "攻擊成長恩賜",
   "Heal Growth Boon": "治療成長恩賜",
-  "Defense Debuff Wither 1": "單體防禦枯萎減益"
+  "Defense Debuff Wither 1": "單體防禦枯萎減益",
+  "Hit Nearby if Fire": "若是火屬性則攻擊附近目標",
+  "Damage 1 when Full Mana": "法力已滿時傷害單體",
+  "Mana Reducer 1 when Full Mana": "法力已滿時削減單體法力",
+  "Hit Random 1 each turn": "每回合隨機攻擊單體",
+  "Boost Health on damage dealt": "造成傷害時提升生命值",
+  "Mana Gain Self on counterattack": "反擊時自身獲得法力",
+  "SS Block Immunity All": "全體特技阻擋免疫"
 }

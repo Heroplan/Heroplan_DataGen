@@ -5823,7 +5823,7 @@ const allTranslations =
         "heroId": "outlaw_lin_chong",
         "name": "Lin Chong",
         "effects": [
-            "This Special Skill has a chance to deal Critical hits.",
+            "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero's overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies' max health on PVP battles. This effect is stronger against boosted health.)",
             "Deals 390% damage to the target and minor damage to nearby enemies.",
             "Stack (Max: 10): All damage the target and nearby enemies receive is increased by +5%.",
             "Stack (Max: 10): Caster and nearby allies get +5% critical chance."
@@ -6230,7 +6230,7 @@ const allTranslations =
         "effects": [
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns.",
             "All allies regenerates 1200 boosted health over 3 turns. Boosted health can exceed max HP. This effect can't be dispelled.",
-            "Stores all damage dealt to the caster for 3 turns. When the effect ends, stored damage is dealth to all enemies, up to a maximum 1200 damage. This effect can't be dispelled."
+            "Stores all damage dealt to the caster for 3 turns. When the effect ends, stored damage is dealt to all enemies, up to a maximum 1200 damage. This effect can't be dispelled."
         ]
     },
     {
@@ -6667,6 +6667,15 @@ const allTranslations =
             "Deals 300% damage to all enemies.",
             "The caster gets additional +100% power for the next Special Skill they cast. The additional power increases +25% each turn, up to a maximum of +200% in total.",
             "All enemies receive Mana Corruption for 4 turns. Each time an afflicted enemy receives mana from an additional source, they receive 400 damage. Additional sources include direct mana addition from Special Skills, status effects, level properties, passive skills, family effects, tile effects and Minions. Mana added for defense team at the end of their turn or from matching tiles is included only if the target has a mana generation bufff or a posive mana generation stack."
+        ]
+    },
+    {
+        "heroId": "outlaw_xiang_chong",
+        "name": "Xiang Chong",
+        "effects": [
+            "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero's overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies' max health on PVP battles. This effect is stronger against boosted health.)",
+            "Deals 270% damage to all enemies.",
+            "For the next 3 turns, the caster deals 450% damage to a random enemy at the end of each turn, and boosts health for themselves with 50% of damage dealt. (Each character can trigger this effect once per turn.)"
         ]
     },
     {
@@ -8124,7 +8133,7 @@ const allTranslations =
             "Casts Full Removal on the caster. (Full Removal removes all status effects, stack, Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleansable.).",
             "The caster shifts into Ghost form for 2 turns.",
             "When Ghost form expires:",
-            "All allies get +40% critical chance for 2 turns. This effect is undispellable. (While in Ghost form. Character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.)"
+            "All allies get +40% critical chance for 2 turns. This effect is undispellable. (While in Ghost form, Character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.)"
         ]
     },
     {
@@ -8356,7 +8365,7 @@ const allTranslations =
             "Deals 600% damage to the target.",
             "If the target has Fiends or Mega Fiends, deals 500% damage to a random enemy.",
             "Summon a Seedling Fiend to each hit enemy. (The Seeding Fiend evolves into a Sprout Fiend after 2 turns. The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns. Seedling Fiend: 50% attack, 20% health, Sprout Fiend: 75% attack, 30% health, Blossom Mega Fiend: 250% attack, 60% health. A Fiend damages their target every turn. A Fiend disappears after absorbing healing. Amount of healing required depends on the target's max health. The evolution of the Fiends is delayed by 1 turn each time they absorb healing.)",
-            "The caster and neaby allies get +44% defense, and a further 10% increase every time they are hit during 3 turns, up to +94% defense."
+            "The caster and nearby allies get +44% defense, and a further 10% increase every time they are hit during 3 turns, up to +94% defense."
         ]
     },
     {
@@ -11108,9 +11117,9 @@ const allTranslations =
         "heroId": "knights_sir_lancelot",
         "name": "Sir Lancelot",
         "effects": [
-            "Deals 265% damage to the target",
-            "The caster and nearby allies get +24% mana generation for 4 turns",
-            "The caster and nearby allies get +48% attack for 4 turns"
+            "Deals 265% damage to the target.",
+            "The caster and nearby allies get +24% mana generation for 4 turns.",
+            "The caster and nearby allies get +48% attack for 4 turns."
         ]
     },
     {
@@ -16145,7 +16154,7 @@ const allTranslations =
         "effects": [
             "Deals 450% damage to the target.",
             "All allies resist new negative mana effects for 3 turns.",
-            "All allies resist new effects that block usage of Special Skills for 3 turns."
+            "All allies are immune to new effects that prevent the use of Special Skills for 3 turns."
         ]
     },
     {
@@ -16684,7 +16693,7 @@ const allTranslations =
         "heroId": "outlaw_wu_yong",
         "name": "Wu Yong",
         "effects": [
-            "This Special Skill has a chance to deal critical hits.",
+            "This Special Skill has a chance to deal critical hits. (The chance of dealing a Critical hit is based on Hero's overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies' max health on PVP battles. This effect is stronger against boosted health.)",
             "Deals 450% damage to the target.",
             "Steals 20% mana from the target and distributes it on allies.",
             "If the target has more than 30% mana after mana stealing, the Special Skill repeats targeting a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.",
@@ -16833,11 +16842,6 @@ const allTranslations =
             "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
             "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ]
-    },
-    {
-        "heroId": "outlaw_xiang_chong",
-        "name": "Xiang Chong",
-        "effects": []
     },
     {
         "heroId": "easter_sir_roostley_costume_alchemist",
