@@ -8,12 +8,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "爆裂連斬",
-        "types": [
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "fierce_slash",
@@ -53,12 +47,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "駭客攻擊",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "hacking_attack",
@@ -98,12 +86,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "防禦策略",
-        "types": [
-            "防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "defensive_tactics",
@@ -143,12 +125,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "爆裂連斬",
-        "types": [
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "fierce_slash",
@@ -188,12 +164,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "攻擊動員",
-        "types": [
-            "攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "attack_rally",
@@ -233,19 +203,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "非常慢",
         "skill": "星界挑釁",
-        "types": [
-            "嘲諷",
-            "全體攻擊降低",
-            "全體防禦降低",
-            "全體法力生成降低"
-        ],
-        "skill_types": [
-            "繞過",
-            "嘲諷",
-            "攻擊減益",
-            "防禦減益",
-            "法力削減或格擋"
-        ],
         "source": "星界召喚",
         "Release date": "2025-10-23",
         "specialId": "astral_provocation",
@@ -309,16 +266,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "縫回原狀",
-        "types": [
-            "全體持續治療",
-            "復活者"
-        ],
-        "skill_types": [
-            "持續治療",
-            "復活",
-            "反製小兵",
-            "狀態效果轉換"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-04-17",
         "specialId": "sewing_back_together",
@@ -385,18 +332,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "山羊衝刺",
-        "types": [
-            "攻擊3個目標",
-            "3個目標法力增加"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "繞過",
-            "額外傷害",
-            "法力提升",
-            "持續傷害",
-            "攻擊減益"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-08-26",
         "specialId": "goat_rush",
@@ -458,16 +393,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "高麗菜彈幕",
-        "types": [
-            "攻擊單個目標",
-            "單體攻擊降低"
-        ],
-        "skill_types": [
-            "召喚惡魔",
-            "狙擊手",
-            "額外傷害",
-            "攻擊減益"
-        ],
         "source": "挑戰 - 警戒蔬菜召唤",
         "Release date": "2026-02-04",
         "specialId": "cabbage_barrage",
@@ -537,14 +462,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "長槍衝擊",
-        "types": [
-            "攻擊所有目標",
-            "自身攻擊減益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "對自身或友軍負面效果"
-        ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "",
         "specialId": "compact_lance",
@@ -596,19 +513,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "狩獵之歌",
-        "types": [
-            "召喚3個小兵",
-            "攻擊附帶法力削減的小兵",
-            "特殊技能防禦增益",
-            "淨化 (3個目標)"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "凈化",
-            "持續傷害",
-            "召喚小兵",
-            "法力削減或格擋"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2022-08-25",
         "specialId": "hunting_ballad",
@@ -674,14 +578,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "喜悅後援",
-        "types": [
-            "全體治療",
-            "召喚所有"
-        ],
-        "skill_types": [
-            "治療",
-            "召喚小兵"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2020-12-01",
         "specialId": "northern_wanderer",
@@ -733,14 +629,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "沼澤連斬",
-        "types": [
-            "攻擊單個目標",
-            "3個目標減益免疫"
-        ],
-        "skill_types": [
-            "提供免疫",
-            "狙擊手"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "jungle_slash",
@@ -792,14 +680,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "狼之撕咬",
-        "types": [
-            "攻擊單個目標",
-            "自我治療"
-        ],
-        "skill_types": [
-            "特殊治療",
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "wolf_bite",
@@ -851,16 +731,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "浣熊撕咬",
-        "types": [
-            "攻擊單個目標",
-            "自身異常狀態免疫增益",
-            "自我攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "提供免疫",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "raccoon_bite",
@@ -916,15 +786,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "公仔之咬",
-        "types": [
-            "攻擊單個目標",
-            "自我治療"
-        ],
-        "skill_types": [
-            "特殊治療",
-            "狙擊手",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-04-08",
         "specialId": "toon_bite",
@@ -984,16 +845,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "玻璃咬擊",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦",
-            "自我治療"
-        ],
-        "skill_types": [
-            "繞過",
-            "特殊治療",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2025-06-18",
         "specialId": "glass_bite",
@@ -1053,13 +904,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "守護者護甲",
-        "types": [
-            "全體治療"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "治療"
-        ],
         "source": "挑戰節 I",
         "Release date": "2021-12-15",
         "specialId": "guardian_armor",
@@ -1111,14 +955,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "靈魂羈絆",
-        "types": [
-            "友方傷害分擔",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "傷害分攤"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "stone_skin",
@@ -1166,14 +1002,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "鋼鐵連結",
-        "types": [
-            "敵方傷害分擔",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "傷害分攤",
-            "防禦減益"
-        ],
         "source": "服裝間",
         "Release date": "2020-01-01",
         "specialId": "shadow_link",
@@ -1227,14 +1055,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "公仔連結",
-        "types": [
-            "友方傷害分擔",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "傷害分攤"
-        ],
         "source": "服裝間",
         "Release date": "2024-09-08",
         "specialId": "toon_link",
@@ -1288,17 +1108,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "玻璃連結",
-        "types": [
-            "友方傷害分擔",
-            "全體防禦增益",
-            "冰雪盟友反射狀態異常",
-            "冰雪盟友反射疊加效果"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "傷害分攤",
-            "反射"
-        ],
         "source": "服裝間",
         "Release date": "2025-11-25",
         "specialId": "glass_stone_skin_gunnar",
@@ -1354,14 +1163,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "治愈一擊",
-        "types": [
-            "全體治療",
-            "淨化全體"
-        ],
-        "skill_types": [
-            "凈化",
-            "治療"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "specialId": "healthiest_catch",
@@ -1417,14 +1218,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "魚味十足的糕點",
-        "types": [
-            "全體持續治療",
-            "淨化全體"
-        ],
-        "skill_types": [
-            "凈化",
-            "持續治療"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-12-07",
         "specialId": "sublime_pastry",
@@ -1482,15 +1275,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "禁止令",
-        "types": [
-            "攻擊單個目標",
-            "單體增益免疫減益",
-            "企圖獲得增益時受到傷害(單體)"
-        ],
-        "skill_types": [
-            "增益格擋者",
-            "狙擊手"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "disabling_decree",
@@ -1548,15 +1332,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "禁用研究",
-        "types": [
-            "攻擊單個目標",
-            "單體增益免疫減益",
-            "企圖獲得增益時受到傷害(單體)"
-        ],
-        "skill_types": [
-            "增益格擋者",
-            "狙擊手"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2025-03-17",
         "specialId": "disabling_study",
@@ -1621,15 +1396,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "組合連拳",
-        "types": [
-            "攻擊單個目標",
-            "自身攻擊增益疊加"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "狙擊手",
-            "疊加"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
         "specialId": "jab_and_hook",
@@ -1681,16 +1447,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "憤怒之箭",
-        "types": [
-            "全體驅散",
-            "攻擊所有目標",
-            "全體增益免疫"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "增益格擋者",
-            "驅散"
-        ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "specialId": "arrows_of_fury",
@@ -1752,16 +1508,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "冰霜之箭",
-        "types": [
-            "全體驅散",
-            "攻擊所有目標",
-            "全體增益免疫"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "增益格擋者",
-            "驅散"
-        ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2025-07-28",
         "specialId": "arrows_of_frost",
@@ -1825,12 +1571,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "錘擊飛躍",
-        "types": [
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "ramming_rush",
@@ -1876,14 +1616,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "鍛爐衝鋒",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害"
-        ],
         "source": "服裝間",
         "Release date": "2020-05-18",
         "specialId": "forge_rush",
@@ -1938,13 +1670,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "公仔驚奇猛攻",
-        "types": [
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-06-28",
         "specialId": "adorable_ramming_rush",
@@ -2002,14 +1727,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "玻璃猛攻",
-        "types": [
-            "攻擊3個目標",
-            "無視防禦"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "繞過"
-        ],
         "source": "服裝間",
         "Release date": "2025-08-10",
         "specialId": "glass_ramming_rush",
@@ -2067,12 +1784,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "博朗古庇佑",
-        "types": [
-            "治療附近目標",
-            "自身全效果移除",
-            "自身變為復仇幽靈"
-        ],
-        "skill_types": [],
         "source": "三國召喚",
         "Release date": "2026-05-21",
         "specialId": "bolanggu_blessing",
@@ -2121,14 +1832,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "霜凍斧頭",
-        "types": [
-            "攻擊3個目標",
-            "3個目標元素防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "",
         "specialId": "frosty_axes",
@@ -2180,14 +1883,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "冰斧",
-        "types": [
-            "攻擊3個目標",
-            "全體元素防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-04-10",
         "specialId": "icy_axes",
@@ -2241,11 +1936,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "斧頭公仔",
-        "types": [
-            "攻擊3個目標",
-            "3個目標元素防禦降低"
-        ],
-        "skill_types": [],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2026-04-29",
         "specialId": "toon_axes",
@@ -2293,16 +1983,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "刺擊練習劈斬",
-        "types": [
-            "摧毀單個目標的小兵",
-            "攻擊單個目標",
-            "自我持續治療"
-        ],
-        "skill_types": [
-            "持續治療",
-            "反製小兵",
-            "狙擊手"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2023-03-08",
         "specialId": "piercing_practice_slash",
@@ -2360,16 +2040,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "冒險者斬擊",
-        "types": [
-            "摧毀單個目標的小兵",
-            "攻擊單個目標",
-            "自身生命值加成持續治療"
-        ],
-        "skill_types": [
-            "持續治療",
-            "反製小兵",
-            "狙擊手"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2026-02-20",
         "specialId": "adventurers_slash",
@@ -2431,14 +2101,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "信仰之力",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "額外傷害",
-            "傷害減免"
-        ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2022-05-12",
         "specialId": "faithful_force",
@@ -2494,20 +2156,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "小天鵝舞",
-        "types": [
-            "自我持續治療",
-            "自我閃避增益",
-            "小天鵝之舞 (4個目標)",
-            "4個目標閃避增益",
-            "4個目標狀態效果免疫"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "舞者",
-            "閃避",
-            "持續治療",
-            "提供免疫"
-        ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2024-01-25",
         "specialId": "dance_of_the_little_swan",
@@ -2572,14 +2220,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "暴風雪",
-        "types": [
-            "攻擊所有目標",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦減益"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "cold_blast",
@@ -2631,14 +2271,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "白化致盲",
-        "types": [
-            "攻擊所有目標",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊增益"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "whiteout",
@@ -2692,15 +2324,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "公仔暴風雪",
-        "types": [
-            "攻擊所有目標",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦減益",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-07-16",
         "specialId": "adorable_cold_blast",
@@ -2764,16 +2387,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "玻璃暴風雪",
-        "types": [
-            "攻擊所有目標",
-            "無視防禦",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦減益",
-            "繞過"
-        ],
         "source": "服裝間",
         "Release date": "2025-10-09",
         "specialId": "glass_cold_blast_ulmer",
@@ -2837,14 +2450,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "冰寒連斬",
-        "types": [
-            "攻擊單個目標",
-            "單體防禦降低"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "chilling_slash",
@@ -2896,14 +2501,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "驚心衝撞",
-        "types": [
-            "攻擊單個目標",
-            "自我攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "thrilling_clash",
@@ -2957,15 +2554,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "公仔劈斬",
-        "types": [
-            "攻擊單個目標",
-            "單體防禦降低"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "額外傷害",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2023-12-25",
         "specialId": "toon_slash",
@@ -3029,16 +2617,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "玻璃連斬",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦",
-            "單體防禦降低"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "狙擊手",
-            "繞過"
-        ],
         "source": "服裝間",
         "Release date": "2025-12-11",
         "specialId": "glass_slash",
@@ -3102,16 +2680,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "冥河",
         "skill": "詩人的保護",
-        "types": [
-            "蓄力",
-            "治療者",
-            "元素防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "治療",
-            "反製小兵"
-        ],
         "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
         "specialId": "poets_protection",
@@ -3179,13 +2747,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "三叉戟猛刺",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "額外傷害"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "destructive_strike",
@@ -3237,16 +2798,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "魏國之劍",
-        "types": [
-            "攻擊3個目標",
-            "自身召喚師",
-            "小怪命中時觸發驅散"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "驅散",
-            "召喚小兵"
-        ],
         "source": "三國召喚",
         "Release date": "2022-03-14",
         "specialId": "sword_of_wei",
@@ -3304,14 +2855,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "巨浪滔天",
-        "types": [
-            "攻擊所有目標",
-            "元素防禦增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦增益"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "tidal_wave",
@@ -3363,14 +2906,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "灑出的湯劑",
-        "types": [
-            "攻擊所有目標",
-            "對全體自然系目標造成持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-03-06",
         "specialId": "spilled_decoctions",
@@ -3425,11 +2960,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "公仔之波",
-        "types": [
-            "攻擊所有目標",
-            "全體元素防禦增益"
-        ],
-        "skill_types": [],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toon_wave",
@@ -3477,14 +3007,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "潮汐",
         "skill": "密集隊形",
-        "types": [
-            "嘲諷",
-            "全體延遲傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "嘲諷"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-09-27",
         "specialId": "close_order_formation",
@@ -3547,14 +3069,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "潮汐",
         "skill": "滴水不穿",
-        "types": [
-            "嘲諷",
-            "全體延遲傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "嘲諷"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-05-28",
         "specialId": "impervious_formation",
@@ -3622,14 +3136,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "反擊姿態",
-        "types": [
-            "全體治療",
-            "3個目標反擊"
-        ],
-        "skill_types": [
-            "反擊",
-            "治療"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "counterstance",
@@ -3687,16 +3193,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "跳舞姿態",
-        "types": [
-            "全體治療",
-            "3個目標反擊"
-        ],
-        "skill_types": [
-            "治療",
-            "反擊",
-            "生命強化",
-            "凈化"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-06-24",
         "specialId": "dancestance",
@@ -3761,15 +3257,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "冰霜",
-        "types": [
-            "攻擊3個目標",
-            "防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "防禦增益"
-        ],
         "source": "聖約召喚",
         "Release date": "2024-04-25",
         "specialId": "frost_and_rime",
@@ -3836,12 +3323,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "完美還擊",
-        "types": [
-            "3個目標反擊"
-        ],
-        "skill_types": [
-            "反擊"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "perfect_riposte",
@@ -3888,12 +3369,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "堅定還擊",
-        "types": [
-            "全體反擊"
-        ],
-        "skill_types": [
-            "反擊"
-        ],
         "source": "服裝間",
         "Release date": "2020-05-18",
         "specialId": "sturdy_riposte",
@@ -3941,12 +3416,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "無情還擊",
-        "types": [
-            "全體反擊"
-        ],
-        "skill_types": [
-            "反擊"
-        ],
         "source": "服裝間",
         "Release date": "2023-11-27",
         "specialId": "unrelenting_riposte",
@@ -3994,12 +3463,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "公仔還擊",
-        "types": [
-            "3個目標反擊"
-        ],
-        "skill_types": [
-            "反擊"
-        ],
         "source": "服裝間",
         "Release date": "2024-09-08",
         "specialId": "toon_riposte",
@@ -4051,14 +3514,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "玻璃還擊",
-        "types": [
-            "3個目標反擊",
-            "冰雪盟友反射狀態異常",
-            "冰雪盟友反射疊加效果"
-        ],
-        "skill_types": [
-            "反擊"
-        ],
         "source": "服裝間",
         "Release date": "2025-10-09",
         "specialId": "glass_riposte_boril",
@@ -4111,18 +3566,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "水域試煉",
-        "types": [
-            "攻擊所有目標",
-            "全體防禦增益",
-            "持續治療"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦增益",
-            "持續治療",
-            "額外傷害",
-            "繞過"
-        ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2025-12-06",
         "specialId": "trial_of_the_waters",
@@ -4189,16 +3632,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "害蟲防治",
-        "types": [
-            "摧毀單個目標的小兵",
-            "攻擊單個目標",
-            "連鎖攻擊"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "反製小兵",
-            "狙擊手"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "pest_control",
@@ -4252,14 +3685,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "驚喜黏液！",
-        "types": [
-            "3個目標生命值加成",
-            "3個目標粘性表面增益"
-        ],
-        "skill_types": [
-            "生命強化",
-            "增益竊取者"
-        ],
         "source": "超級元素",
         "Release date": "2025-07-31",
         "specialId": "surprise_goo",
@@ -4318,18 +3743,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "冰山光環",
-        "types": [
-            "霜降守衛 (3個目標)",
-            "3個目標攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "傷害減免",
-            "持續傷害",
-            "額外傷害",
-            "反製小兵",
-            "攻擊減益"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-05-16",
         "specialId": "iceberg_aura",
@@ -4385,16 +3798,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "混亂與治療藥水",
-        "types": [
-            "摧毀所有小兵",
-            "全體驅散",
-            "治療者"
-        ],
-        "skill_types": [
-            "驅散",
-            "持續治療",
-            "反製小兵"
-        ],
         "source": "挑戰 - 眾神狂歡節",
         "Release date": "2023-07-13",
         "specialId": "potions_of_havoc_and_healing",
@@ -4458,15 +3861,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "不死刀客",
-        "types": [
-            "攻擊所有目標",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦減益",
-            "額外傷害"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2020-10-26",
         "specialId": "undead_razer",
@@ -4528,18 +3922,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "不死毀滅者",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害疊加",
-            "全體法力生成降低疊加"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "額外傷害",
-            "法力削減或格擋",
-            "疊加"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2021-10-04",
         "specialId": "undead_obliteration",
@@ -4612,16 +3994,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "高潮迭起",
-        "types": [
-            "攻擊單個目標",
-            "改變棋盤"
-        ],
-        "skill_types": [
-            "改變面板",
-            "法力生成增益",
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "挑戰節 II",
         "Release date": "2022-12-01",
         "specialId": "the_mighty_crescendo",
@@ -4677,16 +4049,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "蠑螈鱗片",
-        "types": [
-            "攻擊所有目標",
-            "持劍守衛超級小兵",
-            "傳播持續傷害的小怪"
-        ],
-        "skill_types": [
-            "召喚巨型小兵",
-            "全體攻擊 (打5)",
-            "持續傷害"
-        ],
         "source": "哥布林召喚",
         "Release date": "2024-04-15",
         "specialId": "scale_of_the_newt",
@@ -4751,14 +4113,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "錘擊粉碎",
-        "types": [
-            "攻擊3個目標",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "ramming_pulverizer",
@@ -4810,14 +4164,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "無情粉碎",
-        "types": [
-            "攻擊3個目標",
-            "3個目標攻擊增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊增益"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "merciless_pulverizer",
@@ -4871,14 +4217,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "樁柱粉碎",
-        "types": [
-            "攻擊3個目標",
-            "3個目標特殊技能傷害增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊增益"
-        ],
         "source": "服裝間",
         "Release date": "2023-06-12",
         "specialId": "postal_pulverizer",
@@ -4932,15 +4270,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "公仔強力粉碎",
-        "types": [
-            "攻擊3個目標",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2023-12-25",
         "specialId": "toonpower_pulverizer",
@@ -5004,16 +4333,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "玻璃粉碎",
-        "types": [
-            "攻擊3個目標",
-            "無視防禦",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "繞過",
-            "防禦減益"
-        ],
         "source": "服裝間",
         "Release date": "2024-12-25",
         "specialId": "glass_pulverizer",
@@ -5077,15 +4396,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "有型粉碎",
-        "types": [
-            "攻擊3個目標",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害",
-            "防禦減益"
-        ],
         "source": "服裝間",
         "Release date": "2026-01-07",
         "specialId": "stylish_pulverizer",
@@ -5149,17 +4459,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "慢速",
         "skill": "月亮迴力鏢",
-        "types": [
-            "4個目標軟膚",
-            "全體持續治療",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "傷害減免",
-            "持續治療",
-            "凈化",
-            "提供免疫"
-        ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2024-05-16",
         "specialId": "moon_boomerang",
@@ -5221,16 +4520,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "爆裂冰雪",
-        "types": [
-            "攻擊所有目標",
-            "改變棋盤"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "改變面板",
-            "攻擊減益",
-            "攻擊增益"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
         "specialId": "ice_boom",
@@ -5282,16 +4571,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "祝福之釀",
-        "types": [
-            "全體治療",
-            "全體攻擊增益",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "防禦增益",
-            "治療"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "blessed_brew",
@@ -5345,16 +4624,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "祝福之人",
-        "types": [
-            "全體治療",
-            "全體攻擊降低",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "攻擊減益",
-            "防禦減益",
-            "治療"
-        ],
         "source": "服裝間",
         "Release date": "2020-05-18",
         "specialId": "blessed_solo",
@@ -5410,16 +4679,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "庇佑酒杯",
-        "types": [
-            "全體強化治療",
-            "全體防禦增益",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "攻擊減益",
-            "生命強化"
-        ],
         "source": "服裝間",
         "Release date": "2022-10-31",
         "specialId": "blessed_tankard",
@@ -5479,16 +4738,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "公仔釀造",
-        "types": [
-            "全體治療",
-            "全體攻擊增益",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "防禦增益",
-            "治療"
-        ],
         "source": "服裝間",
         "Release date": "2024-02-12",
         "specialId": "toon_brew",
@@ -5548,19 +4797,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "玻璃之釀",
-        "types": [
-            "全體治療",
-            "全體攻擊增益",
-            "全體防禦增益",
-            "冰雪盟友反射狀態異常",
-            "冰雪盟友反射疊加效果"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "防禦增益",
-            "治療",
-            "反射"
-        ],
         "source": "服裝間",
         "Release date": "2025-03-11",
         "specialId": "glass_brew",
@@ -5622,16 +4858,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "有型開胃菜",
-        "types": [
-            "全體治療",
-            "全體攻擊增益",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "治療",
-            "攻擊增益",
-            "防禦增益"
-        ],
         "source": "服裝間",
         "Release date": "2026-03-12",
         "specialId": "stylish_appetizer",
@@ -5691,19 +4917,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "叢林還擊",
-        "types": [
-            "全體防禦增益",
-            "全體反射狀態異常",
-            "全體反射疊加效果",
-            "自身攻擊增益疊加"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "持續傷害",
-            "反射",
-            "疊加",
-            "攻擊增益"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2023-05-06",
         "specialId": "jungle_riposte",
@@ -5759,18 +4972,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "瘋狂撕裂",
-        "types": [
-            "攻擊3個目標",
-            "3個目標狂亂",
-            "3個目標持續傷害",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "對自身或友軍負面效果",
-            "失心攻擊&治療"
-        ],
         "source": "暗影召喚",
         "Release date": "2025-09-09",
         "specialId": "frenzied_rend",
@@ -5830,14 +5031,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "海之枷鎖",
-        "types": [
-            "攻擊 (1/3/所有) 目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "全體攻擊 (打5)",
-            "狙擊手"
-        ],
         "source": "超級元素",
         "Release date": "2023-09-11",
         "specialId": "shackles_of_the_sea",
@@ -5899,15 +5092,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "飛速",
         "skill": "苦痛之鍊",
-        "types": [
-            "攻擊3個目標",
-            "自身攻擊增益疊加"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊增益",
-            "疊加"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "",
         "specialId": "chain_of_pain",
@@ -5959,16 +5143,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "不幸的實驗",
-        "types": [
-            "攻擊單個目標",
-            "法力削減者"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "法力削減或格擋",
-            "狙擊手",
-            "繞過"
-        ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2023-12-20",
         "specialId": "ill_fated_experiment",
@@ -6031,16 +5205,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "衝鋒",
         "skill": "鐵律切擊",
-        "types": [
-            "攻擊單個目標",
-            "單體防禦降低"
-        ],
-        "skill_types": [
-            "反製小兵",
-            "狙擊手",
-            "防禦減益",
-            "法力提升"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2024-09-24",
         "specialId": "iron_discipline_cut",
@@ -6109,18 +5273,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "背叛之刃",
-        "types": [
-            "攻擊單個目標",
-            "攻擊成長恩賜",
-            "單體增益免疫"
-        ],
-        "skill_types": [
-            "反製小兵",
-            "屬性修改",
-            "額外傷害",
-            "狙擊手",
-            "增益格擋者"
-        ],
         "source": "神殿召喚",
         "Release date": "2025-11-17",
         "specialId": "blade_of_betrayal",
@@ -6186,14 +5338,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "女武神的堅毅",
-        "types": [
-            "強化治療3個目標",
-            "3個目標元素防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "生命強化"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-02-11",
         "specialId": "valkyries_fortitude",
@@ -6245,17 +5389,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "衝鋒",
         "skill": "暗影襲擊",
-        "types": [
-            "蓄力",
-            "攻擊 (1/3/所有) 目標",
-            "無視防禦機率"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "範圍攻擊 (打3)",
-            "全體攻擊 (打5)",
-            "繞過"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "specialId": "from_shadows",
@@ -6314,14 +5447,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "刺穿打擊",
-        "types": [
-            "攻擊單個目標",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "驅散",
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "piercing_strike",
@@ -6373,14 +5498,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "淨化打擊",
-        "types": [
-            "攻擊單個目標",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "凈化",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2020-01-01",
         "specialId": "purifying_strike",
@@ -6434,14 +5551,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "痛苦打擊",
-        "types": [
-            "攻擊單個目標",
-            "全體增益免疫狀態異常"
-        ],
-        "skill_types": [
-            "增益格擋者",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2023-11-27",
         "specialId": "wrenching_strike",
@@ -6495,15 +5604,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "公仔強力打擊",
-        "types": [
-            "攻擊單個目標",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "額外傷害",
-            "驅散"
-        ],
         "source": "服裝間",
         "Release date": "2024-07-16",
         "specialId": "adorable_piercing_strike",
@@ -6567,16 +5667,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "玻璃打擊",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "繞過",
-            "驅散"
-        ],
         "source": "服裝間",
         "Release date": "2025-08-10",
         "specialId": "glass_piercing_strike",
@@ -6640,14 +5730,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "拋扔三叉戟",
-        "types": [
-            "攻擊單個目標",
-            "全體治療增益"
-        ],
-        "skill_types": [
-            "特殊治療",
-            "狙擊手"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "heroic_noble",
@@ -6699,14 +5781,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "大力神投",
-        "types": [
-            "攻擊3個目標",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊增益"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-04-03",
         "specialId": "herculean_throw",
@@ -6760,11 +5834,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "三叉戟公仔",
-        "types": [
-            "攻擊單個目標",
-            "全體治療增益"
-        ],
-        "skill_types": [],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toon_trident",
@@ -6812,17 +5881,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "飛速",
         "skill": "悲情黃昏",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害",
-            "偷取治療 (單體)"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "特殊治療",
-            "治療削減",
-            "狙擊手"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "",
         "specialId": "queens_blood_poisoning",
@@ -6880,16 +5938,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "麒麟刀",
-        "types": [
-            "攻擊單個目標",
-            "召喚3個小兵",
-            "小怪命中時觸發驅散"
-        ],
-        "skill_types": [
-            "驅散",
-            "召喚小兵",
-            "狙擊手"
-        ],
         "source": "三國召喚",
         "Release date": "2022-03-14",
         "specialId": "qilin_blade",
@@ -6947,14 +5995,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "魚骨刀",
-        "types": [
-            "攻擊2個目標",
-            "2個目標防禦減益"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "狙擊手"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "specialId": "fishbone_blades",
@@ -7010,14 +6050,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "水生舞步",
-        "types": [
-            "攻擊2個目標",
-            "2個目標防禦減益"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "狙擊手"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-01-04",
         "specialId": "aquatic_dance",
@@ -7075,17 +6107,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "狩獵衝鋒",
-        "types": [
-            "攻擊3個目標",
-            "召喚3個惡魔",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "持續傷害",
-            "召喚惡魔"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2022-09-18",
         "specialId": "hunting_charge",
@@ -7150,17 +6171,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "冰雪復原力",
-        "types": [
-            "友方傷害分擔",
-            "全體防禦增益",
-            "全體造成傷害時獲得治療"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "傷害分攤",
-            "特殊治療",
-            "持續治療"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2018-10-01",
         "specialId": "icy_resilience",
@@ -7215,17 +6225,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "冰河韌性",
-        "types": [
-            "全體傷害分擔",
-            "全體防禦增益",
-            "全體持續治療"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "傷害分攤",
-            "持續治療",
-            "凈化"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-01-23",
         "specialId": "glacial_resilience",
@@ -7286,20 +6285,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "渴望之咬",
-        "types": [
-            "攻擊單個目標",
-            "傷害全體生命值加成",
-            "寶箱怪"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "特殊治療",
-            "生命強化",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形態與隱藏",
-            "繞過"
-        ],
         "source": "市場召喚",
         "Release date": "2025-12-12",
         "specialId": "aether_mimic_bite_blue",
@@ -7375,16 +6360,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "夏天頌歌",
-        "types": [
-            "全體淨化",
-            "全體治療",
-            "全體法力生成降低"
-        ],
-        "skill_types": [
-            "凈化",
-            "治療",
-            "法力削減或格擋"
-        ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "specialId": "summer_carol",
@@ -7442,16 +6417,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "聖湖頌歌",
-        "types": [
-            "全體淨化",
-            "全體治療",
-            "全體法力生成降低"
-        ],
-        "skill_types": [
-            "凈化",
-            "治療",
-            "法力削減或格擋"
-        ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2023-08-07",
         "specialId": "anthem_of_the_lake",
@@ -7511,16 +6476,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "英靈之箭",
-        "types": [
-            "攻擊單個目標",
-            "3個目標法力生成降低"
-        ],
-        "skill_types": [
-            "法力削減或格擋",
-            "狙擊手",
-            "攻擊增益",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2018-05-01",
         "specialId": "spirit_arrow",
@@ -7573,18 +6528,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "努賈里克之箭",
-        "types": [
-            "攻擊3個目標",
-            "3個目標法力削減",
-            "3個目標法力生成降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "法力削減或格擋",
-            "攻擊增益",
-            "防禦增益",
-            "凈化"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-12-23",
         "specialId": "arrow_of_nujalik",
@@ -7649,17 +6592,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "閃耀金盾",
-        "types": [
-            "全體治療",
-            "改變棋盤"
-        ],
-        "skill_types": [
-            "改變面板",
-            "攻擊增益",
-            "攻擊減益",
-            "治療",
-            "特殊治療"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-09-01",
         "specialId": "shimmering_shield",
@@ -7725,14 +6657,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "永恆時鐘",
-        "types": [
-            "攻擊單個目標",
-            "單體攻擊降低"
-        ],
-        "skill_types": [
-            "攻擊減益",
-            "狙擊手"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "timeless_timepiece",
@@ -7784,18 +6708,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "冥河",
         "skill": "潮汐之力",
-        "types": [
-            "蓄力",
-            "攻擊所有目標",
-            "全體治療降低",
-            "召喚所有惡魔"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "召喚惡魔",
-            "治療削減",
-            "持續傷害"
-        ],
         "source": "高塔 - 冥河",
         "Release date": "2023-07-19",
         "specialId": "tidal_force",
@@ -7869,17 +6781,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "星界之球",
-        "types": [
-            "隨機攻擊5個目標",
-            "星界之珠攻擊敵人"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "增益格擋者",
-            "額外傷害",
-            "持續傷害",
-            "繞過"
-        ],
         "source": "星界召喚",
         "Release date": "2025-11-02",
         "specialId": "astral_orb",
@@ -7950,21 +6851,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "解救傳奇",
-        "types": [
-            "摧毀所有小兵",
-            "摧毀所有惡魔",
-            "全體火風暴護體",
-            "全體法力生成增益"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "反製惡魔",
-            "額外傷害",
-            "反製小兵",
-            "法力生成增益",
-            "傷害減免",
-            "防禦減益"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2024-12-28",
         "specialId": "saga_of_deliverance",
@@ -8028,21 +6914,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "恢復傳奇",
-        "types": [
-            "摧毀所有小兵",
-            "摧毀所有惡魔",
-            "全體小怪/魔僕免疫減益",
-            "全體魔僕免疫增益",
-            "全體火風暴護體"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "反製惡魔",
-            "額外傷害",
-            "反製小兵",
-            "傷害減免",
-            "防禦減益"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2026-03-14",
         "specialId": "saga_of_restoration",
@@ -8114,14 +6985,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "光耀回歸",
-        "types": [
-            "全體反擊",
-            "全體冰屬性反擊時獲得法力"
-        ],
-        "skill_types": [
-            "反擊",
-            "法力提升"
-        ],
         "source": "超級元素",
         "Release date": "2023-01-30",
         "specialId": "radiant_comeback",
@@ -8177,16 +7040,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "光耀枷鎖",
-        "types": [
-            "全體反擊",
-            "全體冰屬性反擊時獲得法力",
-            "全體傷害減免"
-        ],
-        "skill_types": [
-            "反擊",
-            "法力提升",
-            "傷害減免"
-        ],
         "source": "超級元素",
         "Release date": "2026-01-02",
         "specialId": "radiant_shackles",
@@ -8249,17 +7102,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "散射冰霜",
-        "types": [
-            "攻擊單個目標",
-            "連鎖攻擊",
-            "單體持續傷害"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "持續傷害",
-            "狙擊手",
-            "法力生成增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-09-01",
         "specialId": "radiating_frost",
@@ -8321,16 +7163,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "神聖守護",
-        "types": [
-            "全體治療",
-            "全體法力生成增益",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "凈化",
-            "治療",
-            "法力生成增益"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "divine_protection",
@@ -8388,16 +7220,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "深海儀式",
-        "types": [
-            "全體生命值加成",
-            "全體法力持續恢復",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "凈化",
-            "生命強化",
-            "法力提升"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2021-11-15",
         "specialId": "deep_sea_ritual",
@@ -8457,12 +7279,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "公仔保護",
-        "types": [
-            "全體治療",
-            "全體法力生成增益",
-            "全體淨化"
-        ],
-        "skill_types": [],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toontastic_protection",
@@ -8510,16 +7326,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "凍傷",
-        "types": [
-            "驅散者",
-            "最大生命值降低",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "驅散",
-            "最大生命削減",
-            "持續傷害"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-04-10",
         "specialId": "frostbite",
@@ -8582,20 +7388,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "吞噬咀嚼",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "寶箱怪"
-        ],
-        "skill_types": [
-            "特殊治療",
-            "反製小兵",
-            "範圍攻擊 (打3)",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形態與隱藏",
-            "繞過"
-        ],
         "source": "市場召喚",
         "Release date": "2025-07-26",
         "specialId": "gorging_chew_blue",
@@ -8681,19 +7473,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "未來預兆",
-        "types": [
-            "攻擊所有目標",
-            "全體強化防禦異常",
-            "全體法力削減",
-            "全體延遲法力提升"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦減益",
-            "法力提升",
-            "法力削減或格擋",
-            "反製小兵"
-        ],
         "source": "野地召喚",
         "Release date": "2025-02-21",
         "specialId": "portents_of_future",
@@ -8765,17 +7544,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "雅典娜之弓",
-        "types": [
-            "攻擊3個目標",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "額外傷害",
-            "攻擊增益",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2017-07-01",
         "specialId": "athenas_bow",
@@ -8834,18 +7602,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "雅典娜之箭",
-        "types": [
-            "攻擊3個目標",
-            "3個目標防禦降低",
-            "全體火屬性防禦減益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "驅散",
-            "攻擊增益",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-12-23",
         "specialId": "athenas_arrow",
@@ -8906,19 +7662,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "潮汐",
         "skill": "無光深口",
-        "types": [
-            "全體持續傷害",
-            "攻擊力降低持續傷害",
-            "全體法力偷取"
-        ],
-        "skill_types": [
-            "攻擊減益",
-            "持續傷害",
-            "法力提升",
-            "法力削減或格擋",
-            "額外傷害",
-            "反製小兵"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-11-22",
         "specialId": "aphotic_maw",
@@ -8988,19 +7731,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "潮汐",
         "skill": "無光低語",
-        "types": [
-            "全體持續傷害",
-            "攻擊力降低持續傷害",
-            "全體法力偷取"
-        ],
-        "skill_types": [
-            "攻擊減益",
-            "持續傷害",
-            "法力提升",
-            "法力削減或格擋",
-            "額外傷害",
-            "反製小兵"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-11-21",
         "specialId": "aphotic_whisper",
@@ -9075,16 +7805,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "衝鋒",
         "skill": "光之手榴彈",
-        "types": [
-            "蓄力",
-            "攻擊3個目標",
-            "3個目標致盲",
-            "3個目標未命中時隨機施加隊友減益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2023-05-31",
         "specialId": "light_grenades",
@@ -9152,17 +7872,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "雙鏈枷混亂",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害",
-            "全體惡魔免疫"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "反製惡魔",
-            "提供免疫",
-            "狙擊手"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-12-01",
         "specialId": "double_flail_mayhem",
@@ -9222,17 +7931,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "飛速",
         "skill": "縮放猛刺",
-        "types": [
-            "攻擊3個目標",
-            "3個目標最大生命值降低",
-            "3個目標致盲"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "狀態效果轉換",
-            "攻擊減益",
-            "最大生命削減"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-09-17",
         "specialId": "zooming_lunge",
@@ -9305,14 +8003,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "神聖反射",
-        "types": [
-            "3個目標反擊",
-            "3個目標受到傷害降低"
-        ],
-        "skill_types": [
-            "傷害減免",
-            "反擊"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-07-07",
         "specialId": "divine_reflection",
@@ -9366,16 +8056,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "神聖反射",
-        "types": [
-            "3個目標反擊",
-            "3個目標受到傷害降低"
-        ],
-        "skill_types": [
-            "反擊",
-            "傷害減免",
-            "生命強化",
-            "凈化"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-12-10",
         "specialId": "sacred_reflection",
@@ -9436,18 +8116,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "桑德幻影",
-        "types": [
-            "全體治療",
-            "治療成長恩賜",
-            "淨化全體",
-            "全體深度睡眠"
-        ],
-        "skill_types": [
-            "治療",
-            "凈化",
-            "特殊治療",
-            "沈睡"
-        ],
         "source": "神殿召喚",
         "Release date": "2026-03-24",
         "specialId": "thandai_trance",
@@ -9511,18 +8179,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "歡樂噪音",
-        "types": [
-            "攻擊所有目標",
-            "全體治療",
-            "小兵創傷",
-            "全體法力生成增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "特殊治療",
-            "最大生命削減",
-            "法力生成增益"
-        ],
         "source": "挑戰節 II",
         "Release date": "2025-01-16",
         "specialId": "joyful_noise",
@@ -9589,16 +8245,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "波波閃電戰",
-        "types": [
-            "攻擊所有目標",
-            "單體防禦降低",
-            "單體攻擊降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "防禦減益"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-06-10",
         "specialId": "bobo_blitz",
@@ -9652,16 +8298,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "債務流失",
-        "types": [
-            "攻擊所有目標",
-            "全體法力偷取",
-            "全體粘性表面增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力削減或格擋",
-            "增益竊取者"
-        ],
         "source": "超級元素",
         "Release date": "2025-12-21",
         "specialId": "debt_drain_boboosang",
@@ -9726,16 +8362,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "光譜幻象",
-        "types": [
-            "攻擊單個目標",
-            "單體防禦降低",
-            "單體轉移型莽夫亂拳"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "失心攻擊&治療",
-            "狙擊手"
-        ],
         "source": "挑戰節 II",
         "Release date": "2022-11-03",
         "specialId": "spectral_visions",
@@ -9795,17 +8421,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "石化納寇斯",
-        "types": [
-            "攻擊3個目標",
-            "3個目標狂亂",
-            "自身石化皮膚",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "傷害減免",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2025-03-06",
         "specialId": "petrifying_knuckles",
@@ -9864,16 +8479,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "慰藉旋律",
-        "types": [
-            "持盾守衛超級小兵",
-            "淨化小兵",
-            "全體沉睡"
-        ],
-        "skill_types": [
-            "召喚巨型小兵",
-            "沈睡",
-            "凈化"
-        ],
         "source": "哥布林召喚",
         "Release date": "2024-05-13",
         "specialId": "soothing_melody",
@@ -9937,20 +8542,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "魔法",
         "skill": "構造體增幅",
-        "types": [
-            "全體強化治療",
-            "全體特殊技能防禦增益",
-            "全體最大生命值降低",
-            "全體特殊技能防禦降低"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "防禦減益",
-            "生命強化",
-            "最大生命削減",
-            "疊加",
-            "法力削減或格擋"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2023-05-03",
         "specialId": "mechanical_augmentations",
@@ -10019,23 +8610,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "魔法",
         "skill": "花卉擺設",
-        "types": [
-            "全體強化治療",
-            "全體特殊技能防禦增益",
-            "全體最大生命值降低",
-            "全體特殊技能防禦降低",
-            "全體治療降低"
-        ],
-        "skill_types": [
-            "反製小兵",
-            "防禦增益",
-            "防禦減益",
-            "生命強化",
-            "最大生命削減",
-            "疊加",
-            "法力削減或格擋",
-            "治療削減"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-10-19",
         "specialId": "flower_arrangements",
@@ -10111,18 +8685,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "慢速",
         "skill": "萬眾歸心",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有",
-            "小怪命中時觸發驅散",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦增益",
-            "驅散",
-            "召喚小兵"
-        ],
         "source": "三國召喚",
         "Release date": "2022-07-18",
         "specialId": "order_to_overwhelm",
@@ -10182,18 +8744,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "慢速",
         "skill": "冰冷命令",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有",
-            "小怪命中時觸發驅散",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "召喚小兵",
-            "驅散",
-            "防禦增益"
-        ],
         "source": "三國召喚",
         "Release date": "2024-08-02",
         "specialId": "ice_cold_order",
@@ -10262,23 +8812,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "不諧咒語",
-        "types": [
-            "施加恐懼減益 (單體)",
-            "攻擊單個目標",
-            "隨機攻擊5個目標",
-            "命中時瘋狂",
-            "命中時封印天賦技能",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "防禦減益",
-            "驅散",
-            "增益格擋者",
-            "失心攻擊&治療",
-            "連鎖與隨機攻擊",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2026-02-24",
         "specialId": "discordant_incantation",
@@ -10360,20 +8893,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "殺手",
         "skill": "開拓者之刃",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦機率",
-            "自我法力生成增益疊加",
-            "自我持續治療疊加"
-        ],
-        "skill_types": [
-            "繞過",
-            "特殊治療",
-            "狙擊手",
-            "疊加",
-            "法力生成增益",
-            "持續治療"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-08-05",
         "specialId": "breaker_blade",
@@ -10437,14 +8956,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "召喚石巨像",
-        "types": [
-            "召喚所有",
-            "石膚小兵"
-        ],
-        "skill_types": [
-            "召喚小兵",
-            "傷害減免"
-        ],
         "source": "挑戰 - 眾神狂歡節",
         "Release date": "2023-07-13",
         "specialId": "summon_rock_golems",
@@ -10503,16 +9014,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "月光奏鳴曲",
-        "types": [
-            "攻擊3個目標",
-            "3個目標淨化免疫",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "凈化格擋者",
-            "防禦減益"
-        ],
         "source": "挑戰節 II",
         "Release date": "2023-06-15",
         "specialId": "moonlight_sonata",
@@ -10570,20 +9071,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "潮汐",
         "skill": "潮汐漩渦",
-        "types": [
-            "攻擊所有目標",
-            "使用特技時對全體施加減益",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "防禦減益",
-            "持續傷害",
-            "特殊治療",
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-07-05",
         "specialId": "tidal_vortex",
@@ -10657,20 +9144,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "潮汐",
         "skill": "海洋漩渦",
-        "types": [
-            "攻擊所有目標",
-            "使用特技時對全體施加減益",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "防禦減益",
-            "法力削減或格擋",
-            "持續傷害",
-            "特殊治療"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-03-03",
         "specialId": "ocean_vortex",
@@ -10748,16 +9221,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "月亮吊墜",
-        "types": [
-            "攻擊所有目標",
-            "阻擋狀態效果施放 (全體)",
-            "全體特殊技能防禦增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦增益",
-            "狀態效果格擋"
-        ],
         "source": "三國召喚",
         "Release date": "2023-12-04",
         "specialId": "lunar_locket",
@@ -10821,16 +9284,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "駭人尖嘯",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "3個目標沈默者"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "沈默"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2024-09-23",
         "specialId": "horrifying_wail",
@@ -10889,20 +9342,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "飛速",
         "skill": "突變混合物",
-        "types": [
-            "持續傷害",
-            "驅散者",
-            "持續治療"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "額外傷害",
-            "驅散",
-            "持續治療",
-            "生命強化",
-            "閃避",
-            "反製小兵"
-        ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-06-25",
         "specialId": "mutating_mixture",
@@ -10975,19 +9414,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "回春贈禮",
-        "types": [
-            "全體治療",
-            "治療成長恩賜",
-            "復活者",
-            "全體淨化最新受到的異常狀態"
-        ],
-        "skill_types": [
-            "凈化",
-            "治療",
-            "復活",
-            "屬性修改",
-            "特殊治療"
-        ],
         "source": "神殿召喚",
         "Release date": "2025-06-16",
         "specialId": "gift_of_rejuvenation",
@@ -11051,16 +9477,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "嚴格標準",
-        "types": [
-            "攻擊所有目標",
-            "長槍守衛超級小兵",
-            "驅散小怪"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "召喚巨型小兵",
-            "驅散"
-        ],
         "source": "哥布林召喚",
         "Release date": "2025-05-27",
         "specialId": "strict_standards",
@@ -11124,16 +9540,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "冰霜之風",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害",
-            "全體元素防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦減益",
-            "持續傷害"
-        ],
         "source": "挑戰節 II",
         "Release date": "2023-02-23",
         "specialId": "frozen_wind",
@@ -11194,15 +9600,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "被詛咒者之力",
-        "types": [
-            "全體治療",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "治療",
-            "凈化",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2025-04-01",
         "specialId": "strength_of_the_accursed",
@@ -11262,17 +9659,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "衝鋒",
         "skill": "武士刀之雨",
-        "types": [
-            "蓄力",
-            "攻擊 (1/3/所有) 目標",
-            "無視防禦機率"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "全體攻擊 (打5)",
-            "繞過",
-            "狙擊手"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "specialId": "katana_rain",
@@ -11331,13 +9717,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "衝鋒",
         "skill": "武士刀風暴",
-        "types": [
-            "蓄力",
-            "攻擊 (1/3/所有) 目標",
-            "無視防禦機率",
-            "繞過/穿透時自身法力提升"
-        ],
-        "skill_types": [],
         "source": "高塔 - 忍者",
         "Release date": "2026-05-03",
         "specialId": "katana_tempest",
@@ -11395,18 +9774,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "星座粉碎",
-        "types": [
-            "攻擊所有目標",
-            "全體驅散",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "凈化",
-            "驅散",
-            "繞過",
-            "傷害分攤"
-        ],
         "source": "星界召喚",
         "Release date": "2024-10-14",
         "specialId": "constellation_crush",
@@ -11471,20 +9838,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "冰凍水晶",
-        "types": [
-            "攻擊所有目標",
-            "全體增益持續時間縮短",
-            "全體持續傷害",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "持續傷害",
-            "效果持續重置",
-            "額外傷害",
-            "反製小兵"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-02-11",
         "specialId": "freezing_crystal",
@@ -11545,18 +9898,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "營養水域",
-        "types": [
-            "持續治療",
-            "防禦增益",
-            "法力生成增益"
-        ],
-        "skill_types": [
-            "生命強化",
-            "防禦增益",
-            "法力生成增益",
-            "持續治療",
-            "持續傷害"
-        ],
         "source": "月活動 - 海灘派對",
         "Release date": "2024-06-03",
         "specialId": "waters_of_nourishment",
@@ -11616,17 +9957,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "正義復仇",
-        "types": [
-            "謙遜",
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "3個目標反擊"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "反擊"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2025-12-19",
         "specialId": "righteous_revenge",
@@ -11697,17 +10027,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "霜覆粉碎",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "3個目標攻擊增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "反製小兵",
-            "攻擊增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2026-02-01",
         "specialId": "frostbound_smash",
@@ -11773,21 +10092,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "野蠻吞噬",
-        "types": [
-            "攻擊單個目標",
-            "單體擴散型持續傷害",
-            "寶箱怪"
-        ],
-        "skill_types": [
-            "特殊治療",
-            "反製小兵",
-            "狙擊手",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形態與隱藏",
-            "繞過",
-            "持續傷害"
-        ],
         "source": "市場召喚",
         "Release date": "2025-09-30",
         "specialId": "savage_gobble_blue",
@@ -11867,20 +10171,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "無盡迷宮",
-        "types": [
-            "單體完全移除",
-            "單體深淵幽靈",
-            "單體幽靈期間持續傷害",
-            "幽靈結束後攻擊全體並施加瘋狂",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "鬼魂形態與隱藏",
-            "持續傷害",
-            "對自身或友軍負面效果",
-            "全體攻擊 (打5)"
-        ],
         "source": "暗影召喚",
         "Release date": "2025-10-24",
         "specialId": "endless_maze",
@@ -11956,17 +10246,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "弒魔者",
-        "types": [
-            "摧毀所有惡魔",
-            "全體強化治療",
-            "惡魔免疫"
-        ],
-        "skill_types": [
-            "反製惡魔",
-            "治療",
-            "提供免疫",
-            "生命強化"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2021-10-13",
         "specialId": "fiendslayer",
@@ -12024,13 +10303,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "浸滲苦難",
-        "types": [
-            "除冰屬性外全體持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "額外傷害"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-12-30",
         "specialId": "saturated_suffering",
@@ -12092,14 +10364,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "海洋苦難",
-        "types": [
-            "除冰屬性外全體持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "額外傷害",
-            "攻擊增益"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-09-26",
         "specialId": "oceanic_suffering",
@@ -12166,20 +10430,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "貪婪吞噬",
-        "types": [
-            "摧毀單個目標的小兵",
-            "攻擊單個目標",
-            "寶箱怪"
-        ],
-        "skill_types": [
-            "特殊治療",
-            "反製小兵",
-            "狙擊手",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形態與隱藏",
-            "繞過"
-        ],
         "source": "市場召喚",
         "Release date": "2025-05-03",
         "specialId": "mimic_training_hero_blue_bite",
@@ -12255,17 +10505,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "龐大撕咬",
-        "types": [
-            "攻擊單個目標",
-            "擊殺時自身法力提升",
-            "自我治療"
-        ],
-        "skill_types": [
-            "法力提升",
-            "狙擊手",
-            "額外傷害",
-            "特殊治療"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
         "specialId": "gargantuan_bite",
@@ -12321,17 +10560,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "怪力啃咬",
-        "types": [
-            "攻擊單個目標",
-            "自我治療",
-            "擊殺時自身法力提升"
-        ],
-        "skill_types": [
-            "特殊治療",
-            "法力提升",
-            "狙擊手",
-            "額外傷害"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-04-10",
         "specialId": "colossal_bite",
@@ -12389,12 +10617,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "公仔狂咬",
-        "types": [
-            "攻擊單個目標",
-            "擊殺時自身法力提升",
-            "自我治療"
-        ],
-        "skill_types": [],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2026-04-29",
         "specialId": "toontastic_bite",
@@ -12444,17 +10666,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "維持和平",
-        "types": [
-            "全體法力削減",
-            "全體法力生成降低",
-            "持劍守衛超級小兵",
-            "傳播持續傷害的小怪"
-        ],
-        "skill_types": [
-            "法力削減或格擋",
-            "召喚巨型小兵",
-            "持續傷害"
-        ],
         "source": "哥布林召喚",
         "Release date": "2024-12-09",
         "specialId": "keep_the_peace",
@@ -12523,16 +10734,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "准將復仇",
-        "types": [
-            "攻擊單個目標",
-            "連鎖攻擊",
-            "命中時防禦減益"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "防禦減益",
-            "狙擊手"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "commodores_revenge",
@@ -12586,17 +10787,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "准將的惡意",
-        "types": [
-            "攻擊單個目標",
-            "連鎖攻擊",
-            "命中時防禦減益"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "防禦減益",
-            "狙擊手",
-            "持續傷害"
-        ],
         "source": "挑戰節 I",
         "Release date": "2022-04-14",
         "specialId": "commodores_malice",
@@ -12656,17 +10846,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "飛速",
         "skill": "權威之音",
-        "types": [
-            "攻擊所有目標",
-            "全體攻擊增益疊加",
-            "全體防禦增益疊加"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "疊加",
-            "攻擊增益",
-            "防禦增益"
-        ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2023-11-30",
         "specialId": "voice_of_authority",
@@ -12726,17 +10905,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "昏暗協奏曲",
-        "types": [
-            "攻擊所有目標",
-            "全體攻擊衰減",
-            "全體防禦衰減",
-            "全體法力生成降低"
-        ],
-        "skill_types": [
-            "屬性修改",
-            "全體攻擊 (打5)",
-            "法力削減或格擋"
-        ],
         "source": "哥布林召喚",
         "Release date": "2023-11-13",
         "specialId": "shady_concerto",
@@ -12797,19 +10965,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "厄運",
-        "types": [
-            "全體驅散",
-            "攻擊所有目標",
-            "召喚所有惡魔",
-            "攻擊降低惡魔"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "驅散",
-            "召喚惡魔",
-            "持續傷害"
-        ],
         "source": "挑戰 - 眾神狂歡節",
         "Release date": "2022-11-22",
         "specialId": "bad_fortune",
@@ -12878,17 +11033,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "極地猛擊",
-        "types": [
-            "攻擊3個目標",
-            "3個目標元素防禦降低",
-            "驅散3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "驅散",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2019-03-01",
         "specialId": "polar_bash",
@@ -12951,16 +11095,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "冰冷指揮",
-        "types": [
-            "召喚所有",
-            "全體小兵生命提升",
-            "全體小兵攻擊提升"
-        ],
-        "skill_types": [
-            "法力提升",
-            "小兵強化",
-            "召喚小兵"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-04-01",
         "specialId": "cold_command",
@@ -13015,16 +11149,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "提振士氣",
-        "types": [
-            "攻擊3個目標",
-            "減少3個目標狀態異常持續時間",
-            "3個目標暴擊機率增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "效果持續重置",
-            "攻擊增益"
-        ],
         "source": "哥布林召喚",
         "Release date": "2025-01-17",
         "specialId": "raising_morale",
@@ -13088,17 +11212,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "智慧驅魔",
-        "types": [
-            "攻擊單個目標",
-            "全體魔僕傷害免疫",
-            "全體惡魔免疫"
-        ],
-        "skill_types": [
-            "反製惡魔",
-            "提供免疫",
-            "狙擊手",
-            "傷害減免"
-        ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2021-11-24",
         "specialId": "educated_exorcism",
@@ -13155,17 +11268,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "星星構造體",
-        "types": [
-            "攻擊3個目標",
-            "召喚3個惡魔",
-            "偷取3個目標法力"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "召喚惡魔",
-            "法力提升",
-            "法力削減或格擋"
-        ],
         "source": "聖約召喚",
         "Release date": "2023-09-21",
         "specialId": "star_construct",
@@ -13233,16 +11335,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "食人魚意外",
-        "types": [
-            "全體持續傷害",
-            "召喚所有惡魔",
-            "全體延遲攻擊"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "召喚惡魔",
-            "額外傷害"
-        ],
         "source": "野地召喚",
         "Release date": "2026-01-20",
         "specialId": "the_piranha_incident",
@@ -13315,18 +11407,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "凍靈之怒",
-        "types": [
-            "攻擊所有目標",
-            "全體防禦降低",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦減益",
-            "持續傷害",
-            "召喚小兵",
-            "反製小兵"
-        ],
         "source": "聖約召喚",
         "Release date": "2025-10-03",
         "specialId": "wrath_of_frozen_soul",
@@ -13392,16 +11472,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "獵人直覺",
-        "types": [
-            "攻擊單個目標",
-            "閃避時疊加"
-        ],
-        "skill_types": [
-            "繞過",
-            "額外傷害",
-            "狙擊手",
-            "疊加"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-02-01",
         "specialId": "hunters_instinct",
@@ -13466,17 +11536,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "午夜魔法",
-        "types": [
-            "攻擊3個目標",
-            "3個目標特技傷害提升增益",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊增益",
-            "凈化",
-            "召喚小兵"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2020-11-01",
         "specialId": "midnight_magic",
@@ -13539,19 +11598,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "黏稠玫瑰",
-        "types": [
-            "偷取單個目標的超級小兵/小兵",
-            "攻擊單個目標",
-            "阻擋狀態效果施放 (單體)",
-            "對單個目標施放吞噬黏液"
-        ],
-        "skill_types": [
-            "反製小兵",
-            "狙擊手",
-            "增益格擋者",
-            "驅散",
-            "持續傷害"
-        ],
         "source": "超級元素",
         "Release date": "2025-07-31",
         "specialId": "gooey_rose",
@@ -13623,17 +11669,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "山之靈",
-        "types": [
-            "全體治療",
-            "全體攻擊力成長",
-            "全體防禦力成長",
-            "全體法力生成增益"
-        ],
-        "skill_types": [
-            "屬性修改",
-            "治療",
-            "法力生成增益"
-        ],
         "source": "哥布林召喚",
         "Release date": "2024-02-19",
         "specialId": "spirits_of_the_mountain",
@@ -13694,14 +11729,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "野蠻支援",
-        "types": [
-            "盟友釋放特殊技能時攻擊全體",
-            "全體法力生成增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力生成增益"
-        ],
         "source": "挑戰節 I",
         "Release date": "2023-01-26",
         "specialId": "brutal_support",
@@ -13753,19 +11780,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "靈魂守護者",
-        "types": [
-            "嘲諷",
-            "自身隨機反擊",
-            "自身傷害減免增益",
-            "自身狀態異常免疫"
-        ],
-        "skill_types": [
-            "嘲諷",
-            "反擊",
-            "傷害減免",
-            "提供免疫",
-            "反製小兵"
-        ],
         "source": "聖約召喚",
         "Release date": "2025-11-13",
         "specialId": "soul_guardian",
@@ -13829,14 +11843,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "鬼魅沉溺",
-        "types": [
-            "全體驅散",
-            "攻擊單個目標",
-            "單體持續傷害",
-            "自身全效果移除",
-            "自身變為復仇幽靈"
-        ],
-        "skill_types": [],
         "source": "三國召喚",
         "Release date": "2026-05-21",
         "specialId": "ghastly_drowning",
@@ -13887,16 +11893,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "難解之謎",
-        "types": [
-            "全體治療",
-            "全體元素防禦增益",
-            "全體致盲"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "攻擊減益",
-            "治療"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2023-02-16",
         "specialId": "bewildering_riddle",
@@ -13960,17 +11956,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "輕鬆謎語",
-        "types": [
-            "全體治療",
-            "全體元素防禦增益",
-            "全體致盲"
-        ],
-        "skill_types": [
-            "治療",
-            "防禦增益",
-            "攻擊減益",
-            "全體攻擊 (打5)"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-03-04",
         "specialId": "relaxing_riddle",
@@ -14041,16 +12026,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "飛速",
         "skill": "渴望之握",
-        "types": [
-            "單體驅散",
-            "攻擊單個目標",
-            "3個目標受到特技傷害增加"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "驅散",
-            "狙擊手"
-        ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2023-02-14",
         "specialId": "grips_of_longing",
@@ -14112,22 +12087,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "冰河裂縫劈擊",
-        "types": [
-            "霜降打擊 (3個目標)",
-            "3個目標最大生命值降低",
-            "3個目標治療降低"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "最大生命削減",
-            "治療削減",
-            "額外傷害",
-            "繞過",
-            "持續傷害",
-            "攻擊減益",
-            "額外傷害",
-            "反製小兵"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-04-14",
         "specialId": "glacial_fissure_cleave",
@@ -14195,19 +12154,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "國王的盛宴",
-        "types": [
-            "攻擊所有目標",
-            "全體法力削減",
-            "全體法力生成降低",
-            "隨機1個增益來源"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力削減或格擋",
-            "繞過",
-            "攻擊增益",
-            "防禦增益"
-        ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2024-11-25",
         "specialId": "kings_feast",
@@ -14278,15 +12224,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "尤格索之眼",
-        "types": [
-            "嘲諷",
-            "命中時施加全體瘋狂",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "嘲諷",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2025-06-10",
         "specialId": "eye_of_yog-sir",
@@ -14340,19 +12277,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "清算烙印",
-        "types": [
-            "攻擊所有目標",
-            "全體傷害增加疊加",
-            "全體法力生成增益 (疊加)"
-        ],
-        "skill_types": [
-            "召喚惡魔",
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "防禦減益",
-            "法力生成增益",
-            "疊加"
-        ],
         "source": "挑戰 - 警戒蔬菜召唤",
         "Release date": "2026-02-04",
         "specialId": "brand_of_reckoning",
@@ -14428,16 +12352,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "力量消除",
-        "types": [
-            "攻擊3個目標",
-            "驅散3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "驅散",
-            "額外傷害",
-            "攻擊增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-02-01",
         "specialId": "erase_strength",
@@ -14502,14 +12416,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "冰川粉碎",
-        "types": [
-            "攻擊所有目標",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦減益"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "glacial_shatter",
@@ -14561,14 +12467,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "冰川爆炸",
-        "types": [
-            "攻擊所有目標",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦減益"
-        ],
         "source": "服裝間",
         "Release date": "2020-01-01",
         "specialId": "glacial_explosion",
@@ -14622,15 +12520,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "冰河漩渦",
-        "types": [
-            "攻擊所有目標",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2022-09-05",
         "specialId": "glacial_vortex",
@@ -14690,15 +12579,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "粉碎者公仔",
-        "types": [
-            "攻擊所有目標",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦減益",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-05-06",
         "specialId": "adorable_shatter",
@@ -14762,16 +12642,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "玻璃粉碎",
-        "types": [
-            "攻擊所有目標",
-            "無視防禦",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "繞過",
-            "防禦減益"
-        ],
         "source": "服裝間",
         "Release date": "2025-06-18",
         "specialId": "glass_shatter",
@@ -14835,20 +12705,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "行星衝鋒",
-        "types": [
-            "攻擊單個目標",
-            "連鎖攻擊",
-            "增傷減益",
-            "衰退"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "額外傷害",
-            "屬性修改",
-            "反製小兵",
-            "繞過"
-        ],
         "source": "星界召喚",
         "Release date": "2025-03-27",
         "specialId": "planetary_charge",
@@ -14912,18 +12768,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "飛速",
         "skill": "連鎖閃電",
-        "types": [
-            "攻擊單個目標",
-            "連鎖攻擊",
-            "全體致盲",
-            "全體冰屬性攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "連鎖與隨機攻擊",
-            "攻擊減益",
-            "狙擊手"
-        ],
         "source": "超級元素",
         "Release date": "2024-01-29",
         "specialId": "chain_lightning",
@@ -14991,17 +12835,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "保護護符",
-        "types": [
-            "全體強化閃避",
-            "召喚者",
-            "小兵狀態異常免疫"
-        ],
-        "skill_types": [
-            "閃避",
-            "提供免疫",
-            "召喚小兵",
-            "反製小兵"
-        ],
         "source": "野地召喚",
         "Release date": "2025-05-20",
         "specialId": "charm_of_protection",
@@ -15064,16 +12897,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "愛的大砲",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊3個目標",
-            "命中時失心治療"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "失心攻擊&治療",
-            "狙擊手"
-        ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2024-01-08",
         "specialId": "tough_love",
@@ -15133,16 +12956,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "永恆之愛",
-        "types": [
-            "攻擊所有目標",
-            "4個目標愛之舞"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "舞者",
-            "法力生成增益",
-            "傷害減免"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2026-02-10",
         "specialId": "eternal_ishq",
@@ -15217,16 +13030,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "可疑美食",
-        "types": [
-            "賭徒"
-        ],
-        "skill_types": [
-            "屬性修改",
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "治療",
-            "對自身或友軍負面效果"
-        ],
         "source": "哥布林召喚",
         "Release date": "2023-09-18",
         "specialId": "dubious_cuisine",
@@ -15303,18 +13106,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "神劍",
-        "types": [
-            "攻擊單個目標",
-            "單體攻擊降低",
-            "單體屬性防禦減益",
-            "自身特技防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "攻擊減益",
-            "防禦減益",
-            "狙擊手"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "excalibur",
@@ -15374,16 +13165,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "冰雹暴風",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "特殊治療",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-07-01",
         "specialId": "hailstorm",
@@ -15448,18 +13229,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "喜悅之災",
-        "types": [
-            "召喚所有",
-            "嘲諷",
-            "自我防禦增益",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "防禦增益",
-            "召喚小兵",
-            "嘲諷"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2020-12-01",
         "specialId": "scourge_of_joy",
@@ -15515,18 +13284,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "愉悅苦難",
-        "types": [
-            "召喚所有",
-            "嘲諷",
-            "自我防禦增益",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "防禦增益",
-            "召喚小兵",
-            "嘲諷"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2021-12-01",
         "specialId": "merriest_misery",
@@ -15588,15 +13345,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "道旁奇襲",
-        "types": [
-            "攻擊所有目標",
-            "自身伏擊"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "鬼魂形態與隱藏",
-            "額外傷害"
-        ],
         "source": "黑色星期五召喚",
         "Release date": "2025-11-24",
         "specialId": "roadside_surprise",
@@ -15664,16 +13412,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "飛速",
         "skill": "霜之心",
-        "types": [
-            "全體移除最新增益",
-            "攻擊所有目標",
-            "全體生命值加成轉化"
-        ],
-        "skill_types": [
-            "驅散",
-            "全體攻擊 (打5)",
-            "最大生命削減"
-        ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2026-01-19",
         "specialId": "rime_heart",
@@ -15735,19 +13473,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "追擊射擊",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害",
-            "單個目標承受的狀態異常傷害增加",
-            "單個目標每次抵抗治療時受到傷害"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "持續傷害",
-            "復活",
-            "治療削減",
-            "額外傷害"
-        ],
         "source": "野地召喚",
         "Release date": "2025-06-28",
         "specialId": "pursuing_shot",
@@ -15817,13 +13542,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "戲法師的惡作劇",
-        "types": [
-            "複製單體特殊技能",
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "狙擊手"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-12-24",
         "specialId": "tricksters_mischief",
@@ -15872,15 +13590,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "變形者的欺騙",
-        "types": [
-            "複製單體增益",
-            "複製單體特殊技能",
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "增益竊取者",
-            "狙擊手"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-05-08",
         "specialId": "shapeshifters_deception",
@@ -15933,18 +13642,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "精緻飲食",
-        "types": [
-            "全體治療",
-            "全體強化治療",
-            "全體惡魔免疫",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "治療",
-            "生命強化",
-            "反製惡魔",
-            "凈化"
-        ],
         "source": "月活動 - 腥紅盛宴",
         "Release date": "2025-10-08",
         "specialId": "exquisite_victuals",
@@ -16008,16 +13705,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "極地守衛",
-        "types": [
-            "攻擊所有目標",
-            "全體攻擊增益",
-            "友方傷害分擔"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊增益",
-            "傷害分攤"
-        ],
         "source": "泰坦獵人召喚",
         "Release date": "2026-01-25",
         "specialId": "arctic_guard",
@@ -16081,17 +13768,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "藍寶石之眼",
-        "types": [
-            "復活者",
-            "全體攻擊增益",
-            "全體持續治療"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "生命強化",
-            "復活",
-            "持續治療"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2023-10-18",
         "specialId": "sapphire_eyes",
@@ -16152,17 +13828,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "黏膩球",
-        "types": [
-            "攻擊所有目標",
-            "吞噬粘物"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "反製小兵",
-            "驅散",
-            "屬性修改"
-        ],
         "source": "超級元素",
         "Release date": "2025-04-25",
         "specialId": "slimy_balls",
@@ -16227,14 +13892,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "遠古打擊",
-        "types": [
-            "攻擊單個目標",
-            "3個目標防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "strike_of_the_ancients",
@@ -16286,14 +13943,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "巨岩打擊",
-        "types": [
-            "攻擊單個目標",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2020-05-18",
         "specialId": "strike_of_the_monolith",
@@ -16347,14 +13996,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "地獄打擊",
-        "types": [
-            "攻擊3個目標",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益"
-        ],
         "source": "服裝間",
         "Release date": "2022-10-31",
         "specialId": "strike_of_the_underworld",
@@ -16408,15 +14049,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "公仔打擊",
-        "types": [
-            "攻擊單個目標",
-            "3個目標防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "額外傷害",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2024-01-22",
         "specialId": "strike_of_the_toons",
@@ -16480,16 +14112,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "玻璃打擊",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦",
-            "3個目標防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "繞過",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2025-03-11",
         "specialId": "glass_strike_magni",
@@ -16553,15 +14175,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "有型打擊",
-        "types": [
-            "攻擊單個目標",
-            "3個目標防禦增益"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "額外傷害",
-            "防禦增益"
-        ],
         "source": "服裝間",
         "Release date": "2026-03-12",
         "specialId": "stylish_strike_magni",
@@ -16625,16 +14238,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "治癒鏡",
-        "types": [
-            "全體生命值加成",
-            "全體特技傷害降低（月升護壁）",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "生命強化",
-            "傷害減免",
-            "凈化"
-        ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2024-03-13",
         "specialId": "healing_mirror",
@@ -16696,13 +14299,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "周遊禮物",
-        "types": [
-            "全體治療",
-            "每回合淨化全體",
-            "全體閃避率增益",
-            "自身法力生成減益"
-        ],
-        "skill_types": [],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2026-03-30",
         "specialId": "globetrotting_gifts",
@@ -16739,7 +14335,24 @@ window.allHeroes =
             "health": 2844,
             "power": 1566
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "治療：即時"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防禦-閃避"
+                ]
+            },
+            {
+                "负面效果": [
+                    "狀態-淨化狀態異常",
+                    "狀態-自我減益"
+                ]
+            }
+        ]
     },
     {
         "name": "天兔大師 (Master Lepus)",
@@ -16749,14 +14362,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "魯莽終結者",
-        "types": [
-            "攻擊3個目標",
-            "自身防禦減益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "對自身或友軍負面效果"
-        ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "",
         "specialId": "reckless_finisher",
@@ -16808,14 +14413,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "裂隙之刃",
-        "types": [
-            "攻擊所有目標",
-            "自身法力生成減益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "對自身或友軍負面效果"
-        ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2022-03-21",
         "specialId": "rift_blade",
@@ -16873,16 +14470,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "異端殺手",
-        "types": [
-            "攻擊單個目標",
-            "3個目標攻擊降低"
-        ],
-        "skill_types": [
-            "攻擊減益",
-            "狙擊手",
-            "範圍攻擊 (打3)",
-            "傷害減免"
-        ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2022-12-29",
         "specialId": "heretic_slayer",
@@ -16944,17 +14531,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "冰凍精靈迷霧",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "3個目標增益免疫"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "增益格擋者",
-            "攻擊增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-11-01",
         "specialId": "freezing_fairy_mist",
@@ -17016,15 +14592,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "苔原之怒",
-        "types": [
-            "全體對泰坦攻擊增益",
-            "3個目標沈默者"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "法力生成增益",
-            "沈默"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2019-08-01",
         "specialId": "wrath_of_tundra",
@@ -17081,17 +14648,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "精到操縱",
-        "types": [
-            "攻擊所有目標",
-            "自身持續治療",
-            "全體反射增益",
-            "全體反射狀態異常"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續治療",
-            "反射"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2023-03-08",
         "specialId": "masterful_manipulation",
@@ -17159,18 +14715,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "精心操控",
-        "types": [
-            "攻擊所有目標",
-            "自身生命值加成持續治療",
-            "全體反射增益",
-            "全體反射狀態異常"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續治療",
-            "生命強化",
-            "反射"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2026-03-15",
         "specialId": "cultivated_manipulation",
@@ -17242,20 +14786,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "魔法",
         "skill": "復滅並重",
-        "types": [
-            "蓄力",
-            "全體治療",
-            "全體淨化",
-            "攻擊所有目標",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "凈化",
-            "驅散",
-            "治療",
-            "法力提升"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "specialId": "restoration_and_annihilation",
@@ -17322,22 +14852,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "魔法",
         "skill": "保存與冷凍",
-        "types": [
-            "蓄力",
-            "全體治療",
-            "全體淨化",
-            "攻擊所有目標",
-            "全體持續傷害",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "凈化",
-            "驅散",
-            "治療",
-            "法力提升"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-04-17",
         "specialId": "preserve_and_freeze",
@@ -17412,18 +14926,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "一窩小貓",
-        "types": [
-            "召喚3個小兵",
-            "治療小兵",
-            "淨化小兵",
-            "3個目標攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "凈化",
-            "持續治療",
-            "召喚小兵"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2022-10-03",
         "specialId": "litter_of_kittens",
@@ -17482,16 +14984,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "鏈鎖打擊",
-        "types": [
-            "攻擊單個目標",
-            "可能的額外攻擊",
-            "命中時全體法力提升"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "法力提升",
-            "狙擊手"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "chain_strike",
@@ -17545,16 +15037,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "葫蘆鼓鏈",
-        "types": [
-            "攻擊單個目標",
-            "可能的額外攻擊",
-            "命中時施加失心攻擊"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "失心攻擊&治療",
-            "狙擊手"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-01-09",
         "specialId": "drum_chain",
@@ -17610,12 +15092,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "鎖鏈公仔",
-        "types": [
-            "攻擊單個目標",
-            "可能的額外攻擊",
-            "命中時全體法力提升"
-        ],
-        "skill_types": [],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toon_chain",
@@ -17664,16 +15140,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "吽吽戰意",
-        "types": [
-            "攻擊單個目標",
-            "連鎖攻擊",
-            "自身法力生成減益"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "對自身或友軍負面效果"
-        ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2024-03-18",
         "specialId": "mooing_for_a_fight",
@@ -17727,15 +15193,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "消減競爭",
-        "types": [
-            "攻擊所有目標",
-            "全體治療"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "特殊治療"
-        ],
         "source": "傳奇召喚",
         "Release date": "2024-05-03",
         "specialId": "cut_down_the_competition",
@@ -17799,17 +15256,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "海星爆發",
-        "types": [
-            "全體強化治療",
-            "全體最大生命值降低",
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "生命強化",
-            "最大生命削減",
-            "持續傷害"
-        ],
         "source": "月活動 - 海灘派對",
         "Release date": "2023-06-12",
         "specialId": "seastar_burst",
@@ -17869,18 +15315,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "冰寒反擊",
-        "types": [
-            "3個目標反擊",
-            "全體攻擊疊加",
-            "隨機1個增益來源"
-        ],
-        "skill_types": [
-            "反擊",
-            "法力削減或格擋",
-            "攻擊增益",
-            "法力生成增益",
-            "疊加"
-        ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2025-02-13",
         "specialId": "chilling_counterattack",
@@ -17948,20 +15382,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "星界末藥",
-        "types": [
-            "全體治療",
-            "敵方釋放特殊技能時全體獲得法力",
-            "全體治療偷取",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "治療",
-            "法力提升",
-            "特殊治療",
-            "攻擊減益",
-            "治療削減",
-            "傷害分攤"
-        ],
         "source": "星界召喚",
         "Release date": "2024-08-19",
         "specialId": "astral_myrrh",
@@ -18027,14 +15447,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "奪命闊劍",
-        "types": [
-            "攻擊所有目標",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦減益"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-06-17",
         "specialId": "deathly_glaive",
@@ -18090,18 +15502,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "海星法杖",
-        "types": [
-            "攻擊所有目標",
-            "全體防禦降低",
-            "全體持續治療"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦減益",
-            "持續治療",
-            "額外傷害",
-            "攻擊增益"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-07-20",
         "specialId": "staff_of_the_seastar",
@@ -18164,17 +15564,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "鯡魚轟擊",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊",
-            "命中時觸發持續傷害",
-            "召喚3個小兵"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "狙擊手",
-            "召喚小兵"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2021-12-01",
         "specialId": "herring_blaster",
@@ -18235,18 +15624,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "鯡魚驚喜",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊",
-            "持續傷害",
-            "召喚3個小兵"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "持續傷害",
-            "召喚小兵"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2024-12-01",
         "specialId": "herring_surprise",
@@ -18313,19 +15690,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "尋路者的指南針",
-        "types": [
-            "全體治療",
-            "附近目標法力提升",
-            "附近目標法力生成增益",
-            "3個目標暴擊機率增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "治療",
-            "法力生成增益",
-            "法力提升",
-            "生命強化"
-        ],
         "source": "聖約召喚",
         "Release date": "2024-02-08",
         "specialId": "pathfinders_compass",
@@ -18389,18 +15753,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "無盡匕首",
-        "types": [
-            "攻擊單個目標",
-            "擊殺時自身法力增加",
-            "自身攻擊增益疊加"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "繞過",
-            "法力提升",
-            "疊加",
-            "攻擊增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2025-10-01",
         "specialId": "endless_daggers",
@@ -18466,19 +15818,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "九喙之怒",
-        "types": [
-            "隨機攻擊 9 次",
-            "全體增益持續時間重置",
-            "全體重置狀態異常",
-            "全體攻擊增益",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "連鎖與隨機攻擊",
-            "攻擊減益",
-            "效果持續重置"
-        ],
         "source": "三國召喚",
         "Release date": "2023-06-19",
         "specialId": "wrath_of_the_nine_beaks",
@@ -18550,18 +15889,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "初霜",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害",
-            "處於持續傷害狀態時全體治療",
-            "全體火屬性特殊技能防禦減益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "特殊治療",
-            "防禦減益"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2026-01-05",
         "specialId": "first_frost",
@@ -18623,15 +15950,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "冰雪和切擊",
-        "types": [
-            "單體元素交換",
-            "攻擊單個目標",
-            "單體屬性防禦減益"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "防禦減益"
-        ],
         "source": "超級元素",
         "Release date": "2024-06-17",
         "specialId": "ice_and_slice",
@@ -18693,21 +16011,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "天鵝舞",
-        "types": [
-            "自我持續治療",
-            "自我閃避增益",
-            "天鵝之舞 (4個目標)",
-            "舞蹈期間閃避增益",
-            "舞蹈期間機率攻擊單個目標",
-            "舞蹈期間狀態效果免疫"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "舞者",
-            "閃避",
-            "持續治療",
-            "提供免疫"
-        ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2023-06-20",
         "specialId": "dance_of_the_swan",
@@ -18783,17 +16086,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "衝鋒",
         "skill": "屹立碉堡",
-        "types": [
-            "蓄力",
-            "自身生命值加成治療",
-            "嘲諷",
-            "自身反擊"
-        ],
-        "skill_types": [
-            "反擊",
-            "生命強化",
-            "嘲諷"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
         "specialId": "standing_fortress",
@@ -18857,17 +16149,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "月亮花",
-        "types": [
-            "全體治療",
-            "全體攻擊力成長",
-            "全體延遲生命值加成"
-        ],
-        "skill_types": [
-            "治療",
-            "特殊治療",
-            "屬性修改",
-            "反製惡魔"
-        ],
         "source": "星界召喚",
         "Release date": "2025-07-02",
         "specialId": "lunar_bloom",
@@ -18928,17 +16209,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "近北極猛擊",
-        "types": [
-            "攻擊所有目標",
-            "自我持續治療",
-            "全體特殊技能標記"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續治療",
-            "疊加",
-            "額外傷害"
-        ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2024-07-22",
         "specialId": "boreal_bash",
@@ -18996,17 +16266,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "伸出援手",
-        "types": [
-            "全體治療",
-            "全體持續治療",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "持續治療",
-            "治療",
-            "特殊治療"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-12-02",
         "specialId": "helping_hands",
@@ -19065,18 +16324,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "創意之手",
-        "types": [
-            "全體治療",
-            "全體持續治療",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "持續治療",
-            "治療",
-            "生命強化",
-            "特殊治療"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-10-12",
         "specialId": "creative_hands",
@@ -19140,19 +16387,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "黃昏直至黎明",
-        "types": [
-            "安全驅散1個目標",
-            "召喚1個暮光幼蛾超級惡魔"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "驅散",
-            "召喚惡魔",
-            "增益格擋者",
-            "持續傷害",
-            "閃避",
-            "反製小兵"
-        ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-02-20",
         "specialId": "dusk_till_dawn",
@@ -19221,17 +16455,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "永恆創傷",
-        "types": [
-            "攻擊單個目標",
-            "單體治療降低",
-            "3個目標元素防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "治療削減",
-            "法力生成增益",
-            "狙擊手"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2017-12-01",
         "specialId": "everlasting_wound",
@@ -19290,18 +16513,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "極地創傷",
-        "types": [
-            "攻擊3個目標",
-            "3個目標治療降低",
-            "3個目標元素防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "治療削減",
-            "法力生成增益",
-            "驅散"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-11-28",
         "specialId": "arctic_wound",
@@ -19362,17 +16573,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "一片歌手",
-        "types": [
-            "3個目標防禦降低",
-            "攻擊3個目標",
-            "2個目標軟膚"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "傷害減免",
-            "提供免疫",
-            "防禦減益"
-        ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2024-02-27",
         "specialId": "one_hit_wonder",
@@ -19439,19 +16639,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "火槍手的蜜酒",
-        "types": [
-            "攻擊所有目標",
-            "改變棋盤",
-            "自我持續治療"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "改變面板",
-            "攻擊減益",
-            "攻擊增益",
-            "額外傷害",
-            "持續治療"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2022-12-14",
         "specialId": "musketeers_mead",
@@ -19511,20 +16698,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "火槍手的交易",
-        "types": [
-            "攻擊所有目標",
-            "改變棋盤",
-            "自身生命值加成持續治療"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "改變面板",
-            "攻擊減益",
-            "攻擊增益",
-            "額外傷害",
-            "持續治療",
-            "生命強化"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2026-01-23",
         "specialId": "musketeers_deal",
@@ -19588,19 +16761,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "河之路",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "全體攻擊力成長",
-            "全體防禦力成長"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "特殊治療",
-            "生命強化",
-            "屬性修改"
-        ],
         "source": "星界召喚",
         "Release date": "2024-12-22",
         "specialId": "frozen_path",
@@ -19670,21 +16830,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "鳳梨烤肉",
-        "types": [
-            "全體強化治療",
-            "全體增益免疫",
-            "全體火屬性敵人致盲",
-            "全體暗屬性敵人法力生成減益",
-            "全體聖屬性敵人防禦減益",
-            "全體自然屬性敵人攻擊減益"
-        ],
-        "skill_types": [
-            "增益格擋者",
-            "攻擊減益",
-            "防禦減益",
-            "生命強化",
-            "法力削減或格擋"
-        ],
         "source": "超級元素",
         "Release date": "2023-09-11",
         "specialId": "pineapple_barbeque",
@@ -19751,15 +16896,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "鳳梨鍊金術士",
-        "types": [
-            "全體強化治療",
-            "全體增益免疫狀態異常",
-            "全體火屬性敵人致盲",
-            "全體暗屬性敵人法力生成減益",
-            "全體聖屬性敵人防禦減益",
-            "全體自然屬性敵人攻擊減益"
-        ],
-        "skill_types": [],
         "source": "超級元素",
         "Release date": "2026-05-15",
         "specialId": "pineapple_alchemist",
@@ -19817,15 +16953,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "痛苦回音",
-        "types": [
-            "攻擊單個目標",
-            "傷害鏈接 (單體)"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "狙擊手",
-            "傷害分攤"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2022-01-05",
         "specialId": "echoes_of_pain",
@@ -19877,17 +17004,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "冰雪療法",
-        "types": [
-            "全體治療",
-            "全體持續治療",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "凈化",
-            "持續治療",
-            "治療",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2020-06-01",
         "specialId": "ice_treatment",
@@ -19947,21 +17063,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "殺手",
         "skill": "淨化決心",
-        "types": [
-            "全體淨化",
-            "攻擊所有目標",
-            "自我法力生成增益疊加",
-            "自我持續治療疊加"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "凈化",
-            "特殊治療",
-            "疊加",
-            "額外傷害",
-            "法力生成增益",
-            "持續治療"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-08-05",
         "specialId": "cleansing_determination",
@@ -20031,14 +17132,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "雲端大錘",
-        "types": [
-            "攻擊3個目標",
-            "3個目標攻擊降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "cloud_hammer",
@@ -20090,14 +17183,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "雲端斧頭",
-        "types": [
-            "攻擊3個目標",
-            "3個目標攻擊降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益"
-        ],
         "source": "服裝間",
         "Release date": "2020-01-01",
         "specialId": "cloud_axe",
@@ -20151,15 +17236,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "恐懼之錘",
-        "types": [
-            "攻擊3個目標",
-            "3個目標攻擊降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益",
-            "疊加"
-        ],
         "source": "服裝間",
         "Release date": "2023-09-04",
         "specialId": "dread_hammer",
@@ -20213,15 +17289,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "錘子公仔",
-        "types": [
-            "攻擊3個目標",
-            "3個目標攻擊降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2023-10-30",
         "specialId": "adorable_hammer",
@@ -20285,16 +17352,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "玻璃錘子",
-        "types": [
-            "攻擊3個目標",
-            "無視防禦",
-            "3個目標攻擊降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "繞過",
-            "攻擊減益"
-        ],
         "source": "服裝間",
         "Release date": "2024-12-25",
         "specialId": "glass_hammer",
@@ -20358,15 +17415,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "瓶錘",
-        "types": [
-            "攻擊3個目標",
-            "3個目標攻擊降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害",
-            "攻擊減益"
-        ],
         "source": "服裝間",
         "Release date": "2026-01-07",
         "specialId": "champagne_hammer",
@@ -20430,21 +17478,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "惡毒旋風",
-        "types": [
-            "驅散3個目標",
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "自我治療",
-            "3個目標承受的狀態異常傷害持續增加"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "驅散",
-            "特殊治療",
-            "持續傷害",
-            "額外傷害",
-            "治療削減"
-        ],
         "source": "聖約召喚",
         "Release date": "2025-08-09",
         "specialId": "vicious_cyclone",
@@ -20513,17 +17546,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "戲法",
-        "types": [
-            "賭徒"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊增益",
-            "凈化",
-            "防禦減益",
-            "持續傷害",
-            "治療"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "legerdemain",
@@ -20597,23 +17619,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "暮光技巧",
-        "types": [
-            "賭徒",
-            "全體最大生命值降低",
-            "全體生命值加成",
-            "全體法力生成降低",
-            "全體增益免疫"
-        ],
-        "skill_types": [
-            "增益格擋者",
-            "持續傷害",
-            "生命強化",
-            "提供免疫",
-            "法力削減或格擋",
-            "最大生命削減",
-            "額外傷害",
-            "反製小兵"
-        ],
         "source": "挑戰節 I",
         "Release date": "2022-06-16",
         "specialId": "twilight_tricks",
@@ -20689,17 +17694,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "飛速",
         "skill": "復仇背刺",
-        "types": [
-            "攻擊單個目標",
-            "自身潛行/躲藏"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "傷害減免",
-            "傷害減免",
-            "鬼魂形態與隱藏",
-            "狙擊手"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-05-20",
         "specialId": "vengeful_backstab",
@@ -20762,19 +17756,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "飛速",
         "skill": "巧妙背刺",
-        "types": [
-            "攻擊單個目標",
-            "自身潛行/躲藏"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "傷害減免",
-            "傷害減免",
-            "鬼魂形態與隱藏",
-            "狙擊手",
-            "額外傷害",
-            "攻擊增益"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-01-04",
         "specialId": "artful_backstab",
@@ -20842,22 +17823,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "飛速",
         "skill": "絕不拋下你",
-        "types": [
-            "自我完全移除",
-            "幽靈形態",
-            "復活單個目標",
-            "全體持續治療",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "凈化",
-            "復活",
-            "持續治療",
-            "驅散",
-            "疊加",
-            "鬼魂形態與隱藏",
-            "治療削減"
-        ],
         "source": "聖約召喚",
         "Release date": "2025-02-02",
         "specialId": "ill_bring_you_back",
@@ -20923,19 +17888,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "瘋狂存在",
-        "types": [
-            "自身全效果移除",
-            "自身變為癲狂恐怖幽靈",
-            "幽靈狀態下攻擊單體",
-            "幽靈狀態下施加單體瘋狂",
-            "對除自身外的隊友施加瘋狂"
-        ],
-        "skill_types": [
-            "鬼魂形態與隱藏",
-            "連鎖與隨機攻擊",
-            "對自身或友軍負面效果",
-            "傷害減免"
-        ],
         "source": "暗影召喚",
         "Release date": "2025-07-08",
         "specialId": "deranged_existence",
@@ -20997,17 +17949,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "千掌打擊",
-        "types": [
-            "攻擊所有目標",
-            "3個目標傷害降至1",
-            "效果被驅散時觸發全體驅散"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "傷害減免",
-            "額外傷害",
-            "驅散"
-        ],
         "source": "傳奇召喚",
         "Release date": "2023-11-29",
         "specialId": "thousand_palm_strikes",
@@ -21073,18 +18014,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "衝鋒",
         "skill": "淨化之氣",
-        "types": [
-            "蓄力",
-            "全體治療",
-            "敵方釋放特殊技能時全體治療",
-            "淨化 (1/3/5個目標)"
-        ],
-        "skill_types": [
-            "治療",
-            "凈化",
-            "特殊治療",
-            "反製小兵"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2024-11-19",
         "specialId": "purifying_ki",
@@ -21151,15 +18080,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "無情嘲諷",
-        "types": [
-            "謙遜",
-            "攻擊所有目標",
-            "全體治療抵抗減益",
-            "每次治療被抵抗時受到傷害(全體)",
-            "全體受到傷害提高減益疊加",
-            "全體法力生成降低"
-        ],
-        "skill_types": [],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2026-05-08",
         "specialId": "ruthless_derision",
@@ -21215,17 +18135,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "甲殼素牢籠",
-        "types": [
-            "攻擊2個目標",
-            "2個目標法力削減",
-            "召喚2個惡魔"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "法力削減或格擋",
-            "召喚惡魔",
-            "持續傷害"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2024-08-13",
         "specialId": "chitin_cage",
@@ -21286,18 +18195,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "召喚蔚藍靈魂",
-        "types": [
-            "攻擊所有目標",
-            "改變棋盤"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "改變面板",
-            "攻擊減益",
-            "攻擊增益",
-            "額外傷害",
-            "閃避"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-07-01",
         "specialId": "conjure_the_azure_spirit",
@@ -21363,18 +18260,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "飛速",
         "skill": "鍍金鹿角",
-        "types": [
-            "攻擊3個目標",
-            "無視防禦",
-            "3個目標攻擊降低",
-            "治療降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "繞過",
-            "攻擊減益",
-            "治療削減"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-06-05",
         "specialId": "gilded_antlers",
@@ -21438,18 +18323,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "冰山粉碎",
-        "types": [
-            "攻擊所有目標",
-            "敵人或小怪被擊敗時全體持續傷害疊加",
-            "敵人或小怪被擊敗時全體法力生成減益疊加"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "額外傷害",
-            "法力削減或格擋",
-            "疊加"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-06-25",
         "specialId": "iceberg_crush",
@@ -21511,18 +18384,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "冰山浩劫",
-        "types": [
-            "攻擊3個目標",
-            "敵人或小怪被擊敗時全體持續傷害疊加",
-            "敵人或小怪被擊敗時全體法力生成減益疊加"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "額外傷害",
-            "法力削減或格擋",
-            "疊加"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-07-04",
         "specialId": "iceberg_havoc",
@@ -21586,19 +18447,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "飛速",
         "skill": "刺骨冰霜",
-        "types": [
-            "攻擊所有目標",
-            "全體元素防禦降低",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "持續傷害",
-            "額外傷害",
-            "反製小兵",
-            "全體攻擊 (打5)",
-            "法力削減或格擋"
-        ],
         "source": "聖約召喚",
         "Release date": "2024-08-09",
         "specialId": "searing_frost",
@@ -21660,16 +18508,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "投擲匕首",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害",
-            "全體法力生成降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "法力削減或格擋"
-        ],
         "source": "超級元素",
         "Release date": "2024-10-30",
         "specialId": "throwing_daggers",
@@ -21730,18 +18568,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "魔法鋒刃",
-        "types": [
-            "全體驅散",
-            "全體淨化",
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "凈化",
-            "驅散",
-            "對自身或友軍負面效果",
-            "額外傷害"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "enchanted_edge",
@@ -21804,18 +18630,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "慢速",
         "skill": "誅戮之棍",
-        "types": [
-            "全體驅散",
-            "全體淨化",
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "凈化",
-            "驅散",
-            "對自身或友軍負面效果",
-            "額外傷害"
-        ],
         "source": "挑戰節 I",
         "Release date": "2021-12-15",
         "specialId": "slaying_stake",
@@ -21880,14 +18694,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "河之顎",
-        "types": [
-            "攻擊所有目標",
-            "無視防禦"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "繞過"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "jaws_of_the_river",
@@ -21945,15 +18751,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "河牙",
-        "types": [
-            "攻擊所有目標",
-            "無視防禦",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "繞過"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-07-13",
         "specialId": "teeth_of_the_river",
@@ -22025,20 +18822,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "正義打擊",
-        "types": [
-            "暴擊機率",
-            "攻擊3個目標",
-            "傷害治療3個目標",
-            "3個目標沈默",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "特殊治療",
-            "沈默",
-            "額外傷害"
-        ],
         "source": "三國召喚",
         "Release date": "2025-05-22",
         "specialId": "righteous_strike",
@@ -22111,18 +18894,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "冰封儀式",
-        "types": [
-            "3個目標召喚 2 個小怪",
-            "小兵攻擊增益",
-            "小怪被摧毀時傷害全體"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "持續傷害",
-            "召喚小兵",
-            "凈化",
-            "全體攻擊 (打5)"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2023-05-06",
         "specialId": "icebound_ritual",
@@ -22182,17 +18953,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "星座權杖",
-        "types": [
-            "攻擊所有目標",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦減益",
-            "額外傷害",
-            "繞過",
-            "傷害分攤"
-        ],
         "source": "星界召喚",
         "Release date": "2023-11-21",
         "specialId": "scepter_of_constellations",
@@ -22259,17 +19019,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "輕盈光環",
-        "types": [
-            "淨化 (3個目標)",
-            "3個目標反射狀態異常",
-            "3個目標持續治療"
-        ],
-        "skill_types": [
-            "凈化",
-            "反製惡魔",
-            "持續治療",
-            "反射"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-05-01",
         "specialId": "easy_breezy_aura",
@@ -22334,17 +19083,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "飛速",
         "skill": "獵人的會心一擊",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "3個目標流血印記"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "繞過",
-            "額外傷害",
-            "攻擊減益"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-08-26",
         "specialId": "hunters_true_shot",
@@ -22413,18 +19151,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "怪異迷霧",
-        "types": [
-            "偷取1個增益",
-            "單體沉睡",
-            "全體治療"
-        ],
-        "skill_types": [
-            "增益竊取者",
-            "沈睡",
-            "治療",
-            "閃避",
-            "反製小兵"
-        ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-03-20",
         "specialId": "bizarre_mist",
@@ -22487,16 +19213,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "兩棲突擊",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊增益",
-            "持續傷害"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-30",
         "specialId": "amphibious_assault",
@@ -22556,16 +19272,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "海洋攻勢",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊增益",
-            "持續傷害"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2025-10-25",
         "specialId": "oceanic_offensive",
@@ -22627,16 +19333,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "潮汐",
         "skill": "大海擁抱",
-        "types": [
-            "全體治療",
-            "全體異常狀態免疫增益",
-            "全體異常狀態持續時間重置"
-        ],
-        "skill_types": [
-            "效果持續重置",
-            "生命強化",
-            "提供免疫"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-06-07",
         "specialId": "oceans_embrace",
@@ -22705,16 +19401,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "潮汐",
         "skill": "水晶擁抱",
-        "types": [
-            "全體治療",
-            "全體異常狀態免疫增益",
-            "全體重置狀態異常"
-        ],
-        "skill_types": [
-            "生命強化",
-            "提供免疫",
-            "效果持續重置"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-08-24",
         "specialId": "crystal_embrace",
@@ -22788,18 +19474,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "冥河",
         "skill": "延遲宿命",
-        "types": [
-            "蓄力",
-            "全體治療",
-            "全體法力生成增益",
-            "全體法力增加"
-        ],
-        "skill_types": [
-            "治療",
-            "法力生成增益",
-            "法力提升",
-            "反製小兵"
-        ],
         "source": "高塔 - 冥河",
         "Release date": "2023-02-08",
         "specialId": "delay_the_inevitable",
@@ -22867,18 +19541,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "多方飛擲",
-        "types": [
-            "攻擊所有目標",
-            "全體元素反射",
-            "全體元素反擊",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "反射",
-            "狙擊手",
-            "全體攻擊 (打5)"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-06-10",
         "specialId": "multi_throw",
@@ -22932,12 +19594,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "冰冷終結者",
-        "types": [
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "icecold_finisher",
@@ -22983,14 +19639,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "冰凍結局",
-        "types": [
-            "攻擊單個目標",
-            "自我法力生成增益"
-        ],
-        "skill_types": [
-            "法力生成增益",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "summers_end",
@@ -23044,16 +19692,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "冰河粉碎者",
-        "types": [
-            "攻擊3個目標",
-            "3個目標法力削減",
-            "自我法力持續恢復"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "法力提升",
-            "法力削減或格擋"
-        ],
         "source": "服裝間",
         "Release date": "2023-07-10",
         "specialId": "glacial_crusher",
@@ -23113,13 +19751,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "公仔終結技",
-        "types": [
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-09-08",
         "specialId": "toon_finisher",
@@ -23177,14 +19808,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "玻璃終結者",
-        "types": [
-            "攻擊3個目標",
-            "無視防禦"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "繞過"
-        ],
         "source": "服裝間",
         "Release date": "2025-11-25",
         "specialId": "glass_finisher_thorne",
@@ -23242,19 +19865,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "為了皇后與空洞",
-        "types": [
-            "驅散3個目標",
-            "月玫瑰擊 (3個目標)",
-            "3個目標增益免疫"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "增益格擋者",
-            "驅散",
-            "額外傷害",
-            "狙擊手",
-            "繞過"
-        ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2023-12-20",
         "specialId": "for_queen_and_hollow",
@@ -23321,18 +19931,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "惡毒玩具",
-        "types": [
-            "攻擊3個目標",
-            "召喚所有",
-            "3個目標防禦降低",
-            "3個目標致盲"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益",
-            "防禦減益",
-            "召喚小兵"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2022-12-01",
         "specialId": "malevolent_toys",
@@ -23392,18 +19990,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "防禦姿態",
-        "types": [
-            "全體延遲治療",
-            "全體延遲傷害",
-            "自身攻擊疊加"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "治療",
-            "疊加",
-            "攻擊增益",
-            "持續傷害"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2023-07-27",
         "specialId": "protective_stance",
@@ -23467,19 +20053,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "貪婪咀嚼",
-        "types": [
-            "攻擊單個目標",
-            "寶箱怪",
-            "全體普通攻擊增益"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "繞過",
-            "特殊治療",
-            "法力提升",
-            "攻擊增益",
-            "鬼魂形態與隱藏"
-        ],
         "source": "市場召喚",
         "Release date": "2026-02-23",
         "specialId": "gluttonous_chomp_blue",
@@ -23561,20 +20134,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "魔法",
         "skill": "均等卷軸",
-        "types": [
-            "蓄力",
-            "召喚所有小兵",
-            "法力生成增益小兵",
-            "召喚所有惡魔",
-            "法力生成減益小怪"
-        ],
-        "skill_types": [
-            "召喚惡魔",
-            "法力生成增益",
-            "法力削減或格擋",
-            "召喚小兵",
-            "疊加"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2023-08-23",
         "specialId": "scroll_of_equations",
@@ -23644,20 +20203,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "魔法",
         "skill": "導航捲軸",
-        "types": [
-            "蓄力",
-            "召喚所有小兵",
-            "小怪法力提升",
-            "召喚所有惡魔",
-            "魔僕法力偷取"
-        ],
-        "skill_types": [
-            "召喚惡魔",
-            "法力生成增益",
-            "法力削減或格擋",
-            "召喚小兵",
-            "疊加"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-11-30",
         "specialId": "scroll_of_navigation",
@@ -23732,13 +20277,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "宇宙靈魂",
-        "types": [
-            "攻擊所有目標",
-            "無視防禦",
-            "全體攻擊衰減",
-            "自身星光射線增益"
-        ],
-        "skill_types": [],
         "source": "星界召喚",
         "Release date": "2026-05-13",
         "specialId": "cosmic_spirals",
@@ -23791,18 +20329,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "水生爆發",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊增益",
-            "攻擊減益",
-            "持續傷害",
-            "額外傷害"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2020-01-01",
         "specialId": "aquatic_outbreak",
@@ -23868,17 +20394,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "飛速",
         "skill": "紅鞋子",
-        "types": [
-            "攻擊3個目標",
-            "3個目標強化防禦減益",
-            "3個目標延遲法力生成減益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "法力削減或格擋",
-            "反製小兵"
-        ],
         "source": "野地召喚",
         "Release date": "2024-08-31",
         "specialId": "red_shoes",
@@ -23940,16 +20455,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "碎冰者",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害",
-            "全體法力削減"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力削減或格擋",
-            "持續傷害"
-        ],
         "source": "野地召喚",
         "Release date": "2025-10-20",
         "specialId": "iceshatter",
@@ -24025,18 +20530,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "冷火",
-        "types": [
-            "元素防禦降低",
-            "攻擊所有目標",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "傷害減免",
-            "提供免疫"
-        ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2024-10-17",
         "specialId": "cold_fire",
@@ -24103,19 +20596,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "魚叉哨兵",
-        "types": [
-            "召喚所有",
-            "法力削減小怪",
-            "小怪命中時降低特技防禦",
-            "小怪命中時施加增益免疫"
-        ],
-        "skill_types": [
-            "增益格擋者",
-            "防禦減益",
-            "持續傷害",
-            "法力削減或格擋",
-            "召喚小兵"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2022-11-12",
         "specialId": "harpoon_sentry",
@@ -24177,17 +20657,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "永無止境的冬季",
-        "types": [
-            "驅散單個目標",
-            "攻擊單個目標",
-            "單體擴散型持續傷害"
-        ],
-        "skill_types": [
-            "驅散",
-            "狙擊手",
-            "持續傷害",
-            "治療削減"
-        ],
         "source": "聖約召喚",
         "Release date": "2024-08-20",
         "specialId": "never_ending_winter",
@@ -24250,18 +20719,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "征服打擊",
-        "types": [
-            "全體驅散",
-            "暴擊機率",
-            "攻擊單個目標",
-            "若是火屬性則攻擊附近目標"
-        ],
-        "skill_types": [
-            "驅散",
-            "狙擊手",
-            "額外傷害",
-            "範圍攻擊 (打3)"
-        ],
         "source": "三國召喚",
         "Release date": "2025-09-27",
         "specialId": "subduing_strike",
@@ -24332,19 +20789,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "舞者",
         "skill": "流龍雙斬",
-        "types": [
-            "安全驅散 (2個目標)",
-            "靈魂斬擊命中 (2個目標)",
-            "2個目標流水福運之舞增益"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "驅散",
-            "舞者",
-            "法力生成增益",
-            "額外傷害",
-            "傷害減免"
-        ],
         "source": "月活動 - 鴻運召喚",
         "Release date": "2026-02-17",
         "specialId": "flowing_dragon_dual_slash",
@@ -24413,16 +20857,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "飛速",
         "skill": "藍色迷幻蘑菇魔杖",
-        "types": [
-            "攻擊單個目標",
-            "自身召喚師",
-            "單體擴散型持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "召喚小兵",
-            "狙擊手"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2023-12-01",
         "specialId": "blue_shroom_wand",
@@ -24481,17 +20915,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "冰霜大斧",
-        "types": [
-            "攻擊單個目標",
-            "若是火屬性則攻擊2次",
-            "單體持續傷害",
-            "若目標為火焰系則额外對2個目標造成持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "狙擊手",
-            "連鎖與隨機攻擊"
-        ],
         "source": "超級元素",
         "Release date": "2023-01-30",
         "specialId": "great_frost_axe",
@@ -24555,19 +20978,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "冰霜大鋤頭",
-        "types": [
-            "傷害單個目標",
-            "若目標為火焰系則额外對2個目標造成傷害",
-            "單體持續傷害",
-            "若目標為火焰系則额外對2個目標造成持續傷害",
-            "自我治療"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "特殊治療"
-        ],
         "source": "超級元素",
         "Release date": "2025-08-12",
         "specialId": "great_frost_hoe",
@@ -24642,18 +21052,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "英勇姿態",
-        "types": [
-            "機率暴擊",
-            "攻擊所有目標",
-            "安全驅散全體增益",
-            "全體傷害減免增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "驅散",
-            "傷害減免"
-        ],
         "source": "三國召喚",
         "Release date": "2026-02-01",
         "specialId": "gallant_stance",
@@ -24724,18 +21122,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "衝鋒",
         "skill": "氣之牆",
-        "types": [
-            "蓄力",
-            "全體強化持續治療",
-            "全體防禦增益",
-            "全體增益驅散免疫"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "生命強化",
-            "提供免疫",
-            "持續治療"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2021-11-10",
         "specialId": "wall_of_ki",
@@ -24800,12 +21186,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "駭客攻擊",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "hacking_attack",
@@ -24845,12 +21225,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "扔斧頭",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "axe_throw",
@@ -24890,12 +21264,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "迎風披靡",
-        "types": [
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "tackle",
@@ -24935,12 +21303,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "青藤印記",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "mark_of_ivy",
@@ -24980,12 +21342,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "專注射擊",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "focused_shot",
@@ -25025,14 +21381,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "蠱惑匕首",
-        "types": [
-            "攻擊所有目標",
-            "最大生命值降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "最大生命削減"
-        ],
         "source": "挑戰 - 眾神狂歡節",
         "Release date": "2023-07-13",
         "specialId": "bewitched_daggers",
@@ -25088,18 +21436,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "彈珠狂潮",
-        "types": [
-            "攻擊單個目標",
-            "攻擊成長恩賜",
-            "單體法力生成降低"
-        ],
-        "skill_types": [
-            "反製小兵",
-            "屬性修改",
-            "額外傷害",
-            "狙擊手",
-            "法力削減或格擋"
-        ],
         "source": "神殿召喚",
         "Release date": "2025-11-17",
         "specialId": "marble_frenzy",
@@ -25165,14 +21501,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "平靜迷霧",
-        "types": [
-            "全體治療",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "驅散",
-            "治療"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "calming_mist",
@@ -25224,14 +21552,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "寧靜之霧",
-        "types": [
-            "全體持續治療",
-            "全體驅散免疫增益"
-        ],
-        "skill_types": [
-            "持續治療",
-            "提供免疫"
-        ],
         "source": "服裝間",
         "Release date": "2020-05-18",
         "specialId": "tranquil_mist",
@@ -25285,16 +21605,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "公仔之霧",
-        "types": [
-            "全體治療",
-            "全體防禦增益",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "驅散",
-            "治療",
-            "防禦增益"
-        ],
         "source": "服裝間",
         "Release date": "2024-04-08",
         "specialId": "toon_mist",
@@ -25354,17 +21664,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "玻璃迷霧",
-        "types": [
-            "全體治療",
-            "自然盟友反射狀態異常",
-            "自然盟友反射疊加效果",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "治療",
-            "反射",
-            "驅散"
-        ],
         "source": "服裝間",
         "Release date": "2025-04-23",
         "specialId": "glass_mist",
@@ -25424,11 +21723,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "時尚迷霧",
-        "types": [
-            "全體治療",
-            "全體驅散"
-        ],
-        "skill_types": [],
         "source": "服裝間",
         "Release date": "2026-05-09",
         "specialId": "stylish_mist",
@@ -25475,14 +21769,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "糾纏射擊",
-        "types": [
-            "攻擊單個目標",
-            "單體攻擊降低"
-        ],
-        "skill_types": [
-            "攻擊減益",
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "entangling_shot",
@@ -25534,14 +21820,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "粉碎射擊",
-        "types": [
-            "攻擊單個目標",
-            "單體防禦降低"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2020-05-18",
         "specialId": "crushing_shot",
@@ -25595,15 +21873,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "公仔驚奇射擊",
-        "types": [
-            "攻擊單個目標",
-            "單體攻擊降低"
-        ],
-        "skill_types": [
-            "攻擊減益",
-            "狙擊手",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-05-06",
         "specialId": "adorable_entangling_shot",
@@ -25667,16 +21936,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "玻璃箭",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦",
-            "單體攻擊降低"
-        ],
-        "skill_types": [
-            "繞過",
-            "攻擊減益",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2025-05-10",
         "specialId": "glass_entangling_shot",
@@ -25740,12 +21999,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "狂戰士暴怒",
-        "types": [
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "natures_blessing",
@@ -25791,12 +22044,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "叢林暴怒",
-        "types": [
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "防禦減益"
-        ],
         "source": "服裝間",
         "Release date": "2020-01-01",
         "specialId": "jungle_fury",
@@ -25844,12 +22091,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "公仔之怒",
-        "types": [
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益"
-        ],
         "source": "服裝間",
         "Release date": "2024-01-22",
         "specialId": "toon_fury",
@@ -25901,15 +22142,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "玻璃之怒",
-        "types": [
-            "全體攻擊增益",
-            "自然盟友反射狀態異常",
-            "自然盟友反射疊加效果"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "反射"
-        ],
         "source": "服裝間",
         "Release date": "2025-03-11",
         "specialId": "glass_fury",
@@ -25963,14 +22195,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "有型暴怒",
-        "types": [
-            "全體攻擊增益",
-            "全體持續治療"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "持續治療"
-        ],
         "source": "服裝間",
         "Release date": "2026-02-14",
         "specialId": "stylish_fury",
@@ -26028,18 +22252,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "空洞自誇",
-        "types": [
-            "3個目標攻擊增益",
-            "3個目標防禦增益",
-            "3個目標持續治療",
-            "自身延遲減益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "防禦增益",
-            "持續治療",
-            "對自身或友軍負面效果"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "",
         "specialId": "hollow_boast",
@@ -26103,14 +22315,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "四刃連斬",
-        "types": [
-            "攻擊所有目標",
-            "全體法力削減"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力削減或格擋"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "slash_of_four_blades",
@@ -26162,14 +22366,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "四刃連擊",
-        "types": [
-            "攻擊所有目標",
-            "全體法力生成降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力削減或格擋"
-        ],
         "source": "服裝間",
         "Release date": "2020-05-18",
         "specialId": "stab_of_four_blades",
@@ -26223,15 +22419,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "四連斬公仔",
-        "types": [
-            "攻擊所有目標",
-            "全體法力削減"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力削減或格擋",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-06-28",
         "specialId": "adorable_four_blades",
@@ -26291,16 +22478,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "玻璃刃連斬",
-        "types": [
-            "攻擊所有目標",
-            "無視防禦",
-            "全體法力削減"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "繞過",
-            "法力削減或格擋"
-        ],
         "source": "服裝間",
         "Release date": "2025-07-16",
         "specialId": "glass_four_blades",
@@ -26360,15 +22537,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "星界糕點",
-        "types": [
-            "強化治療3個目標",
-            "3個目標攻擊力成長"
-        ],
-        "skill_types": [
-            "生命強化",
-            "屬性修改",
-            "反製惡魔"
-        ],
         "source": "星界召喚",
         "Release date": "2025-06-04",
         "specialId": "astral_pastries",
@@ -26429,19 +22597,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "魔法",
         "skill": "浩繁瀚力",
-        "types": [
-            "蓄力",
-            "友方傷害分擔",
-            "全體防禦增益",
-            "敵方傷害分擔",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "傷害分攤",
-            "防禦減益",
-            "法力削減或格擋"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "specialId": "voluminous_vigor",
@@ -26503,13 +22658,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "調皮興旺",
-        "types": [
-            "攻擊單個目標",
-            "施加血百合標記 (單體)"
-        ],
-        "skill_types": [
-            "狙擊手"
-        ],
         "source": "月活動 - 腥紅盛宴",
         "Release date": "2025-10-08",
         "specialId": "mischievous_flourish",
@@ -26560,16 +22708,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "大豐收",
-        "types": [
-            "全體生命值加成",
-            "全體狀態異常免疫",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "生命強化",
-            "提供免疫"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "plentiful_harvest",
@@ -26629,17 +22767,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "豐富礦產",
-        "types": [
-            "全體生命值加成",
-            "全體狀態異常免疫",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "生命強化",
-            "提供免疫",
-            "防禦增益",
-            "凈化"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-09-07",
         "specialId": "plentiful_minerals",
@@ -26706,14 +22833,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "貓頭鷹萬事通",
-        "types": [
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害",
-            "繞過"
-        ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2023-12-20",
         "specialId": "jack_of_owl_trades",
@@ -26769,14 +22888,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "撕裂之鞭",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "持續傷害"
-        ],
         "source": "野地召喚",
         "Release date": "2025-10-20",
         "specialId": "lacerating_whip",
@@ -26842,15 +22953,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "骨箭",
-        "types": [
-            "攻擊3個目標",
-            "召喚3個惡魔"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "召喚惡魔"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2022-11-12",
         "specialId": "bone_arrow",
@@ -26909,14 +23011,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "信心滿滿",
-        "types": [
-            "治療3個目標",
-            "3個目標法力生成增益"
-        ],
-        "skill_types": [
-            "治療",
-            "法力生成增益"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "have_faith",
@@ -26968,14 +23062,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "獲得希望",
-        "types": [
-            "全體治療",
-            "全體法力生成增益"
-        ],
-        "skill_types": [
-            "治療",
-            "法力生成增益"
-        ],
         "source": "服裝間",
         "Release date": "2020-05-18",
         "specialId": "have_curiosity",
@@ -27029,14 +23115,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "公仔信念",
-        "types": [
-            "治療3個目標",
-            "3個目標法力生成增益"
-        ],
-        "skill_types": [
-            "治療",
-            "法力生成增益"
-        ],
         "source": "服裝間",
         "Release date": "2024-05-31",
         "specialId": "adorable_have_faith",
@@ -27094,17 +23172,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "純淨信仰",
-        "types": [
-            "治療3個目標",
-            "3個目標法力生成增益",
-            "自然盟友反射狀態異常",
-            "自然盟友反射疊加效果"
-        ],
-        "skill_types": [
-            "治療",
-            "法力生成增益",
-            "反射"
-        ],
         "source": "服裝間",
         "Release date": "2025-06-18",
         "specialId": "glass_have_faith",
@@ -27164,15 +23231,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "魔法揮斧",
-        "types": [
-            "全體驅散",
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "驅散",
-            "額外傷害"
-        ],
         "source": "三國召喚",
         "Release date": "2023-02-27",
         "specialId": "enchanted_axe_swing",
@@ -27230,14 +23288,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "飛速",
         "skill": "鋒利刀刃",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "狙擊手"
-        ],
         "source": "挑戰節 I",
         "Release date": "2021-12-15",
         "specialId": "sharp_knife",
@@ -27290,15 +23340,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "糖後興奮感",
-        "types": [
-            "攻擊所有目標",
-            "全體法力生成降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力削減或格擋",
-            "額外傷害"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2022-10-03",
         "specialId": "sugar_rush",
@@ -27360,14 +23401,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "長老的妙法",
-        "types": [
-            "復活者",
-            "全體法力持續恢復"
-        ],
-        "skill_types": [
-            "復活",
-            "法力提升"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "specialId": "elders_remedy",
@@ -27423,14 +23456,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "園丁的妙法",
-        "types": [
-            "復活者",
-            "全體持續治療"
-        ],
-        "skill_types": [
-            "持續治療",
-            "復活"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-11-09",
         "specialId": "gardeners_remedy",
@@ -27484,15 +23509,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "旅人零食",
-        "types": [
-            "全體生命值加成",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "治療",
-            "生命強化"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
         "specialId": "travelers_snack",
@@ -27544,19 +23560,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "飛沙柔風",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害",
-            "單體治療降低",
-            "自身淨化"
-        ],
-        "skill_types": [
-            "凈化",
-            "持續傷害",
-            "治療削減",
-            "狙擊手",
-            "治療削減"
-        ],
         "source": "月活動 - 海灘派對",
         "Release date": "",
         "specialId": "horses_curse",
@@ -27613,12 +23616,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "錘擊飛躍",
-        "types": [
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "ramming_rush",
@@ -27664,14 +23661,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "振奮速攻",
-        "types": [
-            "攻擊3個目標",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益"
-        ],
         "source": "服裝間",
         "Release date": "2020-05-18",
         "specialId": "bolstering_rush",
@@ -27725,13 +23714,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "公仔猛攻",
-        "types": [
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-07-16",
         "specialId": "adorable_ramming_rush_isshtak",
@@ -27789,14 +23771,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "玻璃猛攻",
-        "types": [
-            "攻擊3個目標",
-            "無視防禦"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "繞過"
-        ],
         "source": "服裝間",
         "Release date": "2025-09-07",
         "specialId": "glass_ramming_rush_isshtak",
@@ -27854,16 +23828,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "飛速",
         "skill": "貪婪突襲",
-        "types": [
-            "攻擊2個目標",
-            "2個目標狂亂",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "失心攻擊&治療",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2025-12-03",
         "specialId": "ravenous_pounce",
@@ -27916,16 +23880,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "蜀國之矛",
-        "types": [
-            "攻擊單個目標",
-            "自身召喚師",
-            "小怪反擊"
-        ],
-        "skill_types": [
-            "反擊",
-            "召喚小兵",
-            "狙擊手"
-        ],
         "source": "三國召喚",
         "Release date": "2022-03-14",
         "specialId": "spear_of_shu",
@@ -27983,15 +23937,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "紳士手杖",
-        "types": [
-            "謙遜",
-            "攻擊3個目標",
-            "自身反擊"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "反擊"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2025-11-12",
         "specialId": "gentlemans_cane",
@@ -28054,14 +23999,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "亞特蘭蒂斯長矛",
-        "types": [
-            "攻擊單個目標",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "驅散",
-            "狙擊手"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "frightening_pinch",
@@ -28113,14 +24050,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "亞特蘭蒂斯衝鋒",
-        "types": [
-            "攻擊單個目標",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "凈化",
-            "狙擊手"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-02",
         "specialId": "atlantean_charge",
@@ -28174,11 +24103,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "亞特蘭蒂斯長矛公仔",
-        "types": [
-            "攻擊單個目標",
-            "全體驅散"
-        ],
-        "skill_types": [],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2026-04-29",
         "specialId": "atlantean_toon_spear",
@@ -28226,12 +24150,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "格鬥兄弟",
-        "types": [
-            "殭屍增益"
-        ],
-        "skill_types": [
-            "復活"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "bruiser_bros",
@@ -28282,15 +24200,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "友善生物盛宴",
-        "types": [
-            "全體生命值加成",
-            "全體持續防禦增益"
-        ],
-        "skill_types": [
-            "生命強化",
-            "防禦增益",
-            "治療削減"
-        ],
         "source": "聖約召喚",
         "Release date": "2025-08-09",
         "specialId": "friendly_critters_feast",
@@ -28346,19 +24255,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "殺手",
         "skill": "雙斧",
-        "types": [
-            "攻擊單個目標",
-            "疊加"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "額外傷害",
-            "特殊治療",
-            "疊加",
-            "狙擊手",
-            "法力生成增益",
-            "持續治療"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-08-05",
         "specialId": "dual_axes",
@@ -28423,21 +24319,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "魔法",
         "skill": "遠古儀式",
-        "types": [
-            "攻擊單個目標",
-            "傷害鏈接 (單體)",
-            "全體機率穿透",
-            "全體暴擊幾率增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "繞過",
-            "持續傷害",
-            "狙擊手",
-            "疊加",
-            "法力削減或格擋",
-            "法力提升"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2023-05-03",
         "specialId": "ancient_ritual",
@@ -28506,13 +24387,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "偽裝枝葉",
-        "types": [
-            "嘲諷"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "嘲諷"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "camouflage_foliage",
@@ -28562,14 +24436,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "猛暴鎚擊",
-        "types": [
-            "攻擊單個目標",
-            "攻擊降低"
-        ],
-        "skill_types": [
-            "攻擊減益",
-            "狙擊手"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-06-10",
         "specialId": "nasty_hammer",
@@ -28621,16 +24487,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "狀態意識",
-        "types": [
-            "攻擊3個目標",
-            "3個目標防禦增益",
-            "3個目標暴擊機率增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦增益",
-            "攻擊增益"
-        ],
         "source": "哥布林召喚",
         "Release date": "2024-04-15",
         "specialId": "situational_awareness",
@@ -28690,19 +24546,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "掌或爪",
-        "types": [
-            "賭徒",
-            "持續治療",
-            "防禦增益",
-            "最大生命值降低",
-            "防禦降低"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "防禦減益",
-            "生命強化",
-            "最大生命削減"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-01-10",
         "specialId": "paws_or_claws",
@@ -28774,16 +24617,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "鈴鼓獨奏",
-        "types": [
-            "攻擊所有目標",
-            "全體攻擊降低",
-            "全體淨化免疫"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "凈化格擋者",
-            "攻擊減益"
-        ],
         "source": "挑戰節 II",
         "Release date": "2022-12-01",
         "specialId": "tambourine_solo",
@@ -28841,13 +24674,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "懲罰性射擊",
-        "types": [
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害"
-        ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2023-02-14",
         "specialId": "punishing_shot",
@@ -28903,15 +24729,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "愛之套所",
-        "types": [
-            "攻擊3個目標",
-            "3個目標元素防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害",
-            "防禦減益"
-        ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2026-01-19",
         "specialId": "lasso_of_love",
@@ -28975,16 +24792,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "魔法交響曲",
-        "types": [
-            "攻擊所有目標",
-            "元素"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "防禦減益",
-            "法力削減或格擋"
-        ],
         "source": "超級元素",
         "Release date": "2023-08-14",
         "specialId": "enchanted_symphony",
@@ -29050,16 +24857,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "暗影掃除",
-        "types": [
-            "攻擊3個目標",
-            "3個目標最大生命值降低",
-            "3個目標元素防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "最大生命削減"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
         "specialId": "shadow_sweep",
@@ -29113,16 +24910,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "暗影戳刺",
-        "types": [
-            "攻擊單個目標",
-            "單體法力削減",
-            "單體屬性防禦減益"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-03-13",
         "specialId": "shadow_lunge",
@@ -29182,12 +24969,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "掃蕩公仔",
-        "types": [
-            "攻擊3個目標",
-            "3個目標最大生命值降低",
-            "3個目標元素防禦降低"
-        ],
-        "skill_types": [],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2026-04-29",
         "specialId": "toon_sweep",
@@ -29236,21 +25017,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "魔法",
         "skill": "日正當中",
-        "types": [
-            "蓄力",
-            "攻擊所有目標",
-            "全體持續傷害",
-            "復活者",
-            "全體持續治療"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "持續治療",
-            "對自身或友軍負面效果",
-            "復活",
-            "治療"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "specialId": "high_noon_sun",
@@ -29314,15 +25080,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "冥河",
         "skill": "大蒜巨量攝取",
-        "types": [
-            "蓄力"
-        ],
-        "skill_types": [
-            "治療",
-            "法力生成增益",
-            "法力提升",
-            "反製小兵"
-        ],
         "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
         "specialId": "fruits_of_labor",
@@ -29390,18 +25147,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "女武神防禦",
-        "types": [
-            "治療3個目標",
-            "3個目標驅散免疫",
-            "3個目標特技防禦增益",
-            "3個目標法力生成增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "治療",
-            "提供免疫",
-            "法力生成增益"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "",
         "specialId": "valkyrie_defense",
@@ -29457,18 +25202,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "禮物麻袋",
-        "types": [
-            "攻擊3個目標",
-            "召喚3個小兵",
-            "3個目標攻擊降低",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益",
-            "防禦減益",
-            "召喚小兵"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "",
         "specialId": "giftsack",
@@ -29528,19 +25261,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "禮物清單",
-        "types": [
-            "攻擊3個目標",
-            "召喚3個小兵",
-            "3個目標攻擊降低",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益",
-            "防禦減益",
-            "召喚小兵",
-            "額外傷害"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2025-12-01",
         "specialId": "gift_list",
@@ -29608,14 +25328,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "刺穿打擊",
-        "types": [
-            "攻擊單個目標",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "驅散",
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "piercing_strike",
@@ -29667,14 +25379,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "俐落攻擊",
-        "types": [
-            "攻擊單個目標",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "凈化",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2020-05-18",
         "specialId": "cleansing_strike",
@@ -29728,16 +25432,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "英勇打擊",
-        "types": [
-            "攻擊3個目標",
-            "3個目標狀態免疫效果減益",
-            "驅散3個目標的增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "增益格擋者",
-            "驅散"
-        ],
         "source": "服裝間",
         "Release date": "2022-12-26",
         "specialId": "valorant_strike",
@@ -29797,15 +25491,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "公仔驚奇打擊",
-        "types": [
-            "攻擊單個目標",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "驅散",
-            "額外傷害",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2024-01-22",
         "specialId": "toontastic_strike",
@@ -29869,17 +25554,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "玻璃打擊",
-        "types": [
-            "攻擊單個目標",
-            "全體攻擊降低",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "繞過",
-            "攻擊減益",
-            "驅散",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2025-01-14",
         "specialId": "glass_strike_caedmon",
@@ -29949,15 +25623,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "有型打擊",
-        "types": [
-            "攻擊單個目標",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "驅散",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2026-01-26",
         "specialId": "stylish_strike_caedmon",
@@ -30026,16 +25691,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "非常慢",
         "skill": "響亮之矛",
-        "types": [
-            "攻擊所有目標",
-            "全體傷害增加減益",
-            "全體增益免疫狀態異常"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "增益格擋者",
-            "額外傷害"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2022-01-05",
         "specialId": "sonorous_spear",
@@ -30089,15 +25744,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "水果調酒",
-        "types": [
-            "攻擊單個目標",
-            "單體延遲麻痺"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "額外傷害",
-            "法力削減或格擋"
-        ],
         "source": "超級元素",
         "Release date": "2025-07-04",
         "specialId": "fruit_cocktail",
@@ -30155,16 +25801,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "賦能猛擊",
-        "types": [
-            "攻擊3個目標",
-            "3個目標攻擊增益",
-            "3個目標持續治療"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊增益",
-            "持續治療"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "empowering_bash",
@@ -30218,17 +25854,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "強力猛擊",
-        "types": [
-            "攻擊所有目標",
-            "全體攻擊增益",
-            "全體強化持續治療"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊增益",
-            "生命強化",
-            "持續治療"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-02",
         "specialId": "strengthening_smash",
@@ -30285,12 +25910,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "公仔猛擊",
-        "types": [
-            "攻擊3個目標",
-            "3個目標攻擊增益",
-            "3個目標持續治療"
-        ],
-        "skill_types": [],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toon_bash",
@@ -30339,16 +25958,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "小兵捕食者",
-        "types": [
-            "摧毀所有小兵",
-            "攻擊所有目標",
-            "小怪被摧毀時全體治療"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "特殊治療",
-            "反製小兵"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "familiar_eater",
@@ -30402,16 +26011,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "高蛋白食客",
-        "types": [
-            "偷取1個小兵",
-            "攻擊單個目標",
-            "單體擴散型持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "反製小兵",
-            "狙擊手"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-04-03",
         "specialId": "protein_eater",
@@ -30472,17 +26071,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "女巫殺手",
-        "types": [
-            "攻擊單個目標",
-            "法力已滿時傷害單體",
-            "法力已滿時削減單體法力",
-            "自身特技防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "witch_killer",
@@ -30540,17 +26128,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "吸血鬼殺手",
-        "types": [
-            "攻擊單個目標",
-            "法力全滿時造成傷害 (單體)",
-            "法力全滿時降低法力 (單體)",
-            "自我特殊技能防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "挑戰節 I",
         "Release date": "2023-08-10",
         "specialId": "vampire_killer",
@@ -30610,14 +26187,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "魯莽連斬",
-        "types": [
-            "攻擊所有目標",
-            "自身防禦減益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "對自身或友軍負面效果"
-        ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "",
         "specialId": "reckless_slash",
@@ -30669,16 +26238,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "雞蛋彈幕",
-        "types": [
-            "攻擊單個目標",
-            "連鎖攻擊",
-            "除自身外全體隊友攻擊減益"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "對自身或友軍負面效果",
-            "狙擊手"
-        ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2022-03-21",
         "specialId": "egg_barrage",
@@ -30738,15 +26297,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "晚安搖籃曲",
-        "types": [
-            "攻擊單個目標",
-            "單體沉睡"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "沈睡",
-            "閃避"
-        ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-08-14",
         "specialId": "goodnight_lullaby",
@@ -30803,14 +26353,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "非常慢",
         "skill": "亡者復活",
-        "types": [
-            "攻擊所有目標",
-            "施放隕落"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "傷害減免"
-        ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2022-05-12",
         "specialId": "resurrection_of_the_fallen",
@@ -30869,14 +26411,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "沼澤皮膚",
-        "types": [
-            "治療3個目標",
-            "3個目標元素防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "治療"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "swamp_skin",
@@ -30928,15 +26462,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "第二層皮",
-        "types": [
-            "3個目標生命值提升",
-            "3個目標元素防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "治療",
-            "生命強化"
-        ],
         "source": "服裝間",
         "Release date": "2020-05-18",
         "specialId": "second_skin",
@@ -30990,14 +26515,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "鱗甲皮膚",
-        "types": [
-            "3個目標持續治療",
-            "3個目標特殊技能防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "持續治療"
-        ],
         "source": "服裝間",
         "Release date": "2023-11-27",
         "specialId": "scaly_skin",
@@ -31051,14 +26568,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "公仔皮膚",
-        "types": [
-            "治療3個目標",
-            "3個目標元素防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "治療"
-        ],
         "source": "服裝間",
         "Release date": "2024-05-31",
         "specialId": "adorable_skin",
@@ -31116,17 +26625,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "玻璃膚",
-        "types": [
-            "治療3個目標",
-            "自然盟友反射狀態異常",
-            "自然盟友反射疊加效果",
-            "3個目標元素防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "治療",
-            "反射"
-        ],
         "source": "服裝間",
         "Release date": "2025-06-18",
         "specialId": "glass_skin",
@@ -31186,12 +26684,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "惡毒詛咒",
-        "types": [
-            "全體最大生命值降低",
-            "全體治療降低",
-            "全體持續傷害"
-        ],
-        "skill_types": [],
         "source": "三國召喚",
         "Release date": "2026-05-21",
         "specialId": "spiteful_curse",
@@ -31239,19 +26731,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "舞者",
         "skill": "熱情劈斬",
-        "types": [
-            "安全驅散1個目標",
-            "靈魂斬擊命中 (單體)",
-            "2個目標活力福運之舞增益"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "驅散",
-            "舞者",
-            "防禦增益",
-            "額外傷害",
-            "傷害減免"
-        ],
         "source": "月活動 - 鴻運召喚",
         "Release date": "2026-02-17",
         "specialId": "spirited_slash",
@@ -31320,19 +26799,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "飛速",
         "skill": "星座之衣",
-        "types": [
-            "攻擊3個目標",
-            "3個目標治療偷取",
-            "3個目標閃避率"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "特殊治療",
-            "閃避",
-            "繞過",
-            "治療削減",
-            "傷害分攤"
-        ],
         "source": "星界召喚",
         "Release date": "2024-03-07",
         "specialId": "cloth_of_constellations",
@@ -31397,14 +26863,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "巨力砍擊",
-        "types": [
-            "攻擊所有目標",
-            "全體法力生成降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力削減或格擋"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "massive_chop",
@@ -31456,15 +26914,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "慢速",
         "skill": "巨力劈擊",
-        "types": [
-            "攻擊所有目標",
-            "3個目標閃避率增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "閃避",
-            "法力提升"
-        ],
         "source": "服裝間",
         "Release date": "2020-05-18",
         "specialId": "massive_cleave",
@@ -31519,14 +26968,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "巨力揮擊",
-        "types": [
-            "攻擊所有目標",
-            "全體法力生成增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力生成增益"
-        ],
         "source": "服裝間",
         "Release date": "2023-10-30",
         "specialId": "massive_swing",
@@ -31580,15 +27021,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "公仔驚奇砍擊",
-        "types": [
-            "攻擊所有目標",
-            "全體法力生成降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力削減或格擋",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-05-06",
         "specialId": "adorable_massive_chop",
@@ -31652,16 +27084,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "玻璃砍擊",
-        "types": [
-            "攻擊所有目標",
-            "無視防禦",
-            "全體法力生成降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "繞過",
-            "法力削減或格擋"
-        ],
         "source": "服裝間",
         "Release date": "2025-05-10",
         "specialId": "glass_massive_chop",
@@ -31725,17 +27147,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "頭顱拋擲",
-        "types": [
-            "攻擊3個目標",
-            "攻擊增益",
-            "防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊增益",
-            "防禦減益",
-            "狀態效果轉換"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-06-10",
         "specialId": "head_hurl",
@@ -31793,14 +27204,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "墮落塵霧",
-        "types": [
-            "全體治療",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "驅散",
-            "治療"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "fog_of_the_fallen",
@@ -31852,16 +27255,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "毀滅迷霧",
-        "types": [
-            "全體持續治療",
-            "全體防禦增益",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "驅散",
-            "持續治療"
-        ],
         "source": "服裝間",
         "Release date": "2020-01-01",
         "specialId": "fog_of_the_perished",
@@ -31917,16 +27310,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "煙霧機器之霧",
-        "types": [
-            "全體持續治療",
-            "全體攻擊增益",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "驅散",
-            "持續治療"
-        ],
         "source": "服裝間",
         "Release date": "2023-10-30",
         "specialId": "fog_machine",
@@ -31982,16 +27365,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "公仔驚奇霧",
-        "types": [
-            "全體治療",
-            "全體防禦增益",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "驅散",
-            "治療"
-        ],
         "source": "服裝間",
         "Release date": "2024-01-22",
         "specialId": "toontastic_fog",
@@ -32051,17 +27424,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "彩繪玻璃迷霧",
-        "types": [
-            "全體治療",
-            "自然盟友反射狀態異常",
-            "自然盟友反射疊加效果",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "驅散",
-            "治療",
-            "反射"
-        ],
         "source": "服裝間",
         "Release date": "2025-03-11",
         "specialId": "fog_of_the_vitrails",
@@ -32121,14 +27483,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "有型迷霧",
-        "types": [
-            "全體治療",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "治療",
-            "驅散"
-        ],
         "source": "服裝間",
         "Release date": "2026-03-12",
         "specialId": "fog_of_the_stylish",
@@ -32186,16 +27540,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "妖精之歌",
-        "types": [
-            "召喚所有",
-            "法力生成增益小兵",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "攻擊減益",
-            "法力生成增益",
-            "召喚小兵"
-        ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "specialId": "sprite_ballad",
@@ -32257,16 +27601,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "妖精讚歌",
-        "types": [
-            "召喚所有",
-            "法力生成增益小兵",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "攻擊減益",
-            "法力生成增益",
-            "召喚小兵"
-        ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2023-08-07",
         "specialId": "sprite_hymn",
@@ -32330,18 +27664,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "潮汐",
         "skill": "厭惡劈擊",
-        "types": [
-            "攻擊3個目標",
-            "3個目標法力削減",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "特殊治療",
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-06-07",
         "specialId": "noxious_cleave",
@@ -32412,18 +27734,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "潮汐",
         "skill": "毒和弦",
-        "types": [
-            "攻擊3個目標",
-            "3個目標法力削減",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "範圍攻擊 (打3)",
-            "法力削減或格擋",
-            "持續傷害",
-            "特殊治療"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-03-31",
         "specialId": "noxious_chord",
@@ -32499,17 +27809,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "稀有的栽培品種",
-        "types": [
-            "攻擊3個目標",
-            "3個目標強化防禦異常",
-            "3個目標延遲擴散式持續傷害"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "持續傷害",
-            "反製小兵"
-        ],
         "source": "野地召喚",
         "Release date": "2025-02-21",
         "specialId": "a_rare_cultivar",
@@ -32577,17 +27876,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "碎骨打擊",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有",
-            "小怪被摧毀時觸發傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "召喚小兵",
-            "持續傷害",
-            "凈化"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2023-05-06",
         "specialId": "cracked_skull_strike",
@@ -32647,20 +27935,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "殺手",
         "skill": "優雅射擊",
-        "types": [
-            "攻擊單個目標",
-            "法力生成降低",
-            "疊加"
-        ],
-        "skill_types": [
-            "特殊治療",
-            "法力削減或格擋",
-            "狙擊手",
-            "疊加",
-            "額外傷害",
-            "法力生成增益",
-            "持續治療"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-08-05",
         "specialId": "graceful_shot",
@@ -32730,14 +28004,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "海盜利刃",
-        "types": [
-            "攻擊單個目標",
-            "沈默"
-        ],
-        "skill_types": [
-            "沈默",
-            "狙擊手"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "buccaneers_blade",
@@ -32789,16 +28055,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "震驚的消息",
-        "types": [
-            "攻擊單個目標",
-            "沈默",
-            "防禦降低"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "沈默",
-            "狙擊手"
-        ],
         "source": "挑戰節 I",
         "Release date": "2023-12-28",
         "specialId": "shocking_news",
@@ -32854,15 +28110,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "神聖連接",
-        "types": [
-            "全體治療",
-            "3個目標狀態異常免疫"
-        ],
-        "skill_types": [
-            "治療",
-            "提供免疫",
-            "特殊治療"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "divine_connection",
@@ -32921,17 +28168,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "自然連結",
-        "types": [
-            "全體治療",
-            "3個目標狀態異常免疫"
-        ],
-        "skill_types": [
-            "治療",
-            "提供免疫",
-            "特殊治療",
-            "生命強化",
-            "凈化"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-10-05",
         "specialId": "natures_connection",
@@ -32997,16 +28233,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "雄鹿書卷",
-        "types": [
-            "生命值加成",
-            "攻擊增益",
-            "法力生成增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "生命強化",
-            "法力生成增益"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-01-10",
         "specialId": "tome_of_the_stag",
@@ -33064,14 +28290,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "匍匐藤蔓",
-        "types": [
-            "攻擊所有目標",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "creeping_vines",
@@ -33123,14 +28341,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "糖果藤蔓",
-        "types": [
-            "攻擊所有目標",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益"
-        ],
         "source": "服裝間",
         "Release date": "2020-01-01",
         "specialId": "candy_vines",
@@ -33184,14 +28394,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "纏繞藤蔓",
-        "types": [
-            "攻擊所有目標",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦減益"
-        ],
         "source": "服裝間",
         "Release date": "2023-04-17",
         "specialId": "crawling_vines",
@@ -33245,15 +28447,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "公仔藤蔓",
-        "types": [
-            "攻擊所有目標",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-03-11",
         "specialId": "toon_vines",
@@ -33317,16 +28510,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "玻璃藤蔓",
-        "types": [
-            "攻擊所有目標",
-            "無視防禦",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "繞過",
-            "攻擊減益"
-        ],
         "source": "服裝間",
         "Release date": "2025-04-08",
         "specialId": "glass_vines",
@@ -33390,11 +28573,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "時尚藤蔓",
-        "types": [
-            "攻擊所有目標",
-            "全體攻擊降低"
-        ],
-        "skill_types": [],
         "source": "服裝間",
         "Release date": "2026-04-10",
         "specialId": "stylish_vines",
@@ -33432,7 +28610,23 @@ window.allHeroes =
             "health": 1579,
             "power": 1005
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：全體"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "傷害-額外傷害"
+                ]
+            },
+            {
+                "负面效果": [
+                    "攻擊-攻擊力↓"
+                ]
+            }
+        ]
     },
     {
         "name": "斯諾理 (Snorri)",
@@ -33442,17 +28636,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "束縛傳說",
-        "types": [
-            "攻擊單個目標",
-            "單體靈魂綁定"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "額外傷害",
-            "繞過",
-            "持續傷害",
-            "攻擊減益"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-08-06",
         "specialId": "bound_by_tales",
@@ -33515,16 +28698,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "致殘抓握",
-        "types": [
-            "攻擊單個目標",
-            "單體沈默",
-            "單體持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "沈默",
-            "狙擊手"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "specialId": "crippling_grapple",
@@ -33583,16 +28756,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "令人低落的取笑",
-        "types": [
-            "攻擊單個目標",
-            "單體沈默",
-            "單體持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "沈默",
-            "狙擊手"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-12-07",
         "specialId": "demoralizing_banter",
@@ -33653,18 +28816,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "公爵細察",
-        "types": [
-            "攻擊3個目標",
-            "召喚3個惡魔",
-            "自我持續治療"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "增益竊取者",
-            "召喚惡魔",
-            "持續傷害",
-            "持續治療"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2022-12-14",
         "specialId": "the_dukes_investigation",
@@ -33725,20 +28876,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "偽裝調查",
-        "types": [
-            "攻擊3個目標",
-            "召喚3個惡魔",
-            "偷取增益惡魔",
-            "自身生命值加成持續治療"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "增益竊取者",
-            "召喚惡魔",
-            "持續傷害",
-            "持續治療",
-            "生命強化"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2025-11-12",
         "specialId": "the_undercover_investigation",
@@ -33803,15 +28940,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "松鼠侍從",
-        "types": [
-            "攻擊單個目標",
-            "彈射"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "攻擊減益",
-            "狙擊手"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2021-10-13",
         "specialId": "squires_squirrel",
@@ -33865,12 +28993,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "粉碎擠壓",
-        "types": [
-            "攻擊3個目標",
-            "3個目標吞噬黏液減益",
-            "3個目標反擊"
-        ],
-        "skill_types": [],
         "source": "超級元素",
         "Release date": "2026-04-24",
         "specialId": "squish_squash_achillea",
@@ -33919,20 +29041,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "渴望之咬",
-        "types": [
-            "攻擊單個目標",
-            "傷害全體生命值加成",
-            "寶箱怪"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "特殊治療",
-            "生命強化",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形態與隱藏",
-            "繞過"
-        ],
         "source": "市場召喚",
         "Release date": "2026-01-27",
         "specialId": "aether_mimic_bite_green",
@@ -34008,15 +29116,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "遠古明鏡",
-        "types": [
-            "攻擊所有目標",
-            "全體元素反擊",
-            "全體元素反射"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "反射"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-11-24",
         "specialId": "ancient_mirror",
@@ -34074,15 +29173,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "青翠鏡",
-        "types": [
-            "攻擊所有目標",
-            "全體元素反射",
-            "全體元素反擊"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "反射"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-03-04",
         "specialId": "verdant_mirror",
@@ -34147,18 +29237,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "仲夏夜之夢",
-        "types": [
-            "復活者",
-            "全體持續治療",
-            "全體法力持續恢復"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "法力提升",
-            "防禦增益",
-            "復活",
-            "持續治療"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2017-10-01",
         "specialId": "midsummers_dream",
@@ -34213,20 +29291,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "仲夏夜白日夢",
-        "types": [
-            "復活者",
-            "全體持續治療",
-            "全體法力生成增益",
-            "全體法力持續恢復"
-        ],
-        "skill_types": [
-            "持續治療",
-            "法力生成增益",
-            "復活",
-            "凈化",
-            "攻擊增益",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-10-20",
         "specialId": "midsummers_reverie",
@@ -34287,20 +29351,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "可疑燉煮",
-        "types": [
-            "攻擊所有目標",
-            "無視小兵",
-            "全體元素防禦降低",
-            "持劍守衛超級小兵",
-            "傳播持續傷害的小怪"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "反製小兵",
-            "防禦減益",
-            "召喚巨型小兵",
-            "持續傷害"
-        ],
         "source": "哥布林召喚",
         "Release date": "2025-03-14",
         "specialId": "suspicious_stew",
@@ -34369,17 +29419,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "寓言羊駝民謠",
-        "types": [
-            "攻擊所有目標",
-            "全體增益免疫狀態異常",
-            "企圖獲得增益時受到傷害(全體)",
-            "自身致盲"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "增益格擋者",
-            "對自身或友軍負面效果"
-        ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2023-03-27",
         "specialId": "fabled_llama_ballad",
@@ -34433,17 +29472,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "精力牧歌",
-        "types": [
-            "攻擊所有目標",
-            "全體增益免疫狀態異常",
-            "企圖獲得增益時受到傷害",
-            "自身致盲"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "增益格擋者",
-            "對自身或友軍負面效果"
-        ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2024-03-18",
         "specialId": "vigorous_villanelle",
@@ -34503,17 +29531,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "救贖石像鬼",
-        "types": [
-            "全體惡魔替換",
-            "召喚所有",
-            "根據擁有的小怪數量提升生命值加成"
-        ],
-        "skill_types": [
-            "反製惡魔",
-            "生命強化",
-            "召喚小兵",
-            "傷害減免"
-        ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2022-05-12",
         "specialId": "gargoyles_of_redemption",
@@ -34567,16 +29584,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "使其無害",
-        "types": [
-            "攻擊所有目標",
-            "保鏢超級小兵",
-            "小怪命中時施加睡眠"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "召喚巨型小兵",
-            "沈睡"
-        ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2024-08-22",
         "specialId": "make_them_harmless",
@@ -34641,20 +29648,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "吞噬咀嚼",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "寶箱怪"
-        ],
-        "skill_types": [
-            "特殊治療",
-            "反製小兵",
-            "範圍攻擊 (打3)",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形態與隱藏",
-            "繞過"
-        ],
         "source": "市場召喚",
         "Release date": "2025-08-05",
         "specialId": "gorging_chew_green",
@@ -34740,20 +29733,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "飛速",
         "skill": "穿刺射擊",
-        "types": [
-            "摧毀單個目標的小兵",
-            "攻擊單個目標",
-            "小怪被摧毀時法力提升",
-            "無視防禦",
-            "自身持續治療"
-        ],
-        "skill_types": [
-            "繞過",
-            "法力提升",
-            "反製小兵",
-            "狙擊手",
-            "持續治療"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2022-12-14",
         "specialId": "piercing_shot",
@@ -34815,21 +29794,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "飛速",
         "skill": "工匠射擊",
-        "types": [
-            "摧毀單個目標的小兵",
-            "攻擊單個目標",
-            "摧毀小兵時提升法力",
-            "無視防禦",
-            "自身生命值加成持續治療"
-        ],
-        "skill_types": [
-            "繞過",
-            "法力提升",
-            "反製小兵",
-            "狙擊手",
-            "持續治療",
-            "生命強化"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2025-12-19",
         "specialId": "artisans_shot",
@@ -34895,15 +29859,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "永生殲滅者",
-        "types": [
-            "攻擊所有目標",
-            "自我復活"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "復活",
-            "額外傷害"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "immortal_annihilator",
@@ -34961,15 +29916,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "永生懲罰者",
-        "types": [
-            "攻擊所有目標",
-            "自我復活"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "復活",
-            "額外傷害"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-04-03",
         "specialId": "immortal_punisher",
@@ -35029,11 +29975,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "公仔殲滅",
-        "types": [
-            "攻擊所有目標",
-            "自我復活"
-        ],
-        "skill_types": [],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toon_annihilation",
@@ -35082,19 +30023,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "深淵之寶",
-        "types": [
-            "驅散3個目標",
-            "攻擊3個目標",
-            "3個目標狂亂",
-            "全體異常狀態傷害免疫",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "驅散",
-            "範圍攻擊 (打3)",
-            "提供免疫",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2024-04-11",
         "specialId": "jewel_of_the_deep",
@@ -35159,19 +30087,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "地精的智慧",
-        "types": [
-            "全體淨化",
-            "全體生命值加成",
-            "召喚所有",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "凈化",
-            "生命強化",
-            "召喚小兵",
-            "特殊治療"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2022-12-01",
         "specialId": "wisdom_of_the_gnomes",
@@ -35237,17 +30152,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "睡眠孢子",
-        "types": [
-            "攻擊單個目標",
-            "單體睡眠"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "法力削減或格擋",
-            "沈睡",
-            "狙擊手",
-            "特殊治療"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-11-01",
         "specialId": "slumber_spores",
@@ -35310,14 +30214,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "搖晃打擊",
-        "types": [
-            "攻擊所有目標",
-            "單體法力獲取凍結"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力削減或格擋"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2026-03-20",
         "specialId": "staggering_blows",
@@ -35376,16 +30272,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "警戒",
-        "types": [
-            "攻擊所有目標",
-            "全體移除攻擊降低效果",
-            "全體移除防禦降低效果"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "凈化",
-            "召喚小兵"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-01-01",
         "specialId": "en_garde",
@@ -35444,17 +30330,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "指揮群體",
-        "types": [
-            "攻擊單個目標",
-            "召喚者 (單體)"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "攻擊增益",
-            "狙擊手",
-            "召喚小兵",
-            "法力提升"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-05-01",
         "specialId": "command_pack",
@@ -35521,20 +30396,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "資源編織籃",
-        "types": [
-            "攻擊所有目標",
-            "攻擊成長恩賜",
-            "召喚所有",
-            "增益竊取小兵"
-        ],
-        "skill_types": [
-            "反製小兵",
-            "屬性修改",
-            "額外傷害",
-            "全體攻擊 (打5)",
-            "召喚小兵",
-            "增益竊取者"
-        ],
         "source": "神殿召喚",
         "Release date": "2025-11-17",
         "specialId": "tokri_of_resources",
@@ -35598,18 +30459,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "奇怪的鼓聲",
-        "types": [
-            "重新部署",
-            "攻擊所有目標",
-            "無視小兵",
-            "無視防禦增益"
-        ],
-        "skill_types": [
-            "重排隊伍",
-            "全體攻擊 (打5)",
-            "反製小兵",
-            "繞過"
-        ],
         "source": "挑戰節 II",
         "Release date": "2024-11-14",
         "specialId": "odd_drum_roll",
@@ -35675,14 +30524,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "野豬呼喚",
-        "types": [
-            "白野豬超級小兵",
-            "超級小怪反擊"
-        ],
-        "skill_types": [
-            "反擊",
-            "召喚巨型小兵"
-        ],
         "source": "哥布林召喚",
         "Release date": "2023-10-16",
         "specialId": "boar_call",
@@ -35740,17 +30581,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "翠綠陷阱",
-        "types": [
-            "隨機攻擊3個目標",
-            "命中時觸發爆炸尖刺陷阱",
-            "命中時施加元素防禦降低減益"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "防禦減益",
-            "額外傷害",
-            "改變面板"
-        ],
         "source": "泰坦獵人召喚",
         "Release date": "2026-02-16",
         "specialId": "verdant_trap",
@@ -35819,17 +30649,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "森林祝福",
-        "types": [
-            "全體治療",
-            "全體延遲法力提升",
-            "全體安全淨化"
-        ],
-        "skill_types": [
-            "治療",
-            "法力提升",
-            "凈化",
-            "反製小兵"
-        ],
         "source": "野地召喚",
         "Release date": "2025-01-22",
         "specialId": "sylvan_blessings",
@@ -35896,18 +30715,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "超級食物淨化",
-        "types": [
-            "治療3個目標",
-            "3個目標拔除並淨化",
-            "全體攻擊力成長",
-            "全體防禦力成長"
-        ],
-        "skill_types": [
-            "召喚惡魔",
-            "治療",
-            "凈化",
-            "屬性修改"
-        ],
         "source": "挑戰 - 警戒蔬菜召唤",
         "Release date": "2026-02-04",
         "specialId": "superfood_purification",
@@ -35979,20 +30786,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "建造磚",
-        "types": [
-            "攻擊3個目標",
-            "3個目標攻擊力成長",
-            "3個目標元素反射",
-            "3個目標元素反擊",
-            "自我史萊姆復活"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "屬性修改",
-            "反射",
-            "反擊",
-            "復活"
-        ],
         "source": "超級元素",
         "Release date": "2025-11-26",
         "specialId": "building_blocks_bulklug",
@@ -36055,18 +30848,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "衝鋒",
         "skill": "致命之夢",
-        "types": [
-            "蓄力",
-            "驅散2個目標",
-            "攻擊2個目標",
-            "2個目標沉睡"
-        ],
-        "skill_types": [
-            "沈睡",
-            "驅散",
-            "狙擊手",
-            "反製小兵"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2024-08-27",
         "specialId": "fatal_dreams",
@@ -36138,15 +30919,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "提神花粉",
-        "types": [
-            "全體生命值加成",
-            "全體持續治療"
-        ],
-        "skill_types": [
-            "生命強化",
-            "持續治療",
-            "攻擊增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-09-01",
         "specialId": "invigorating_pollen",
@@ -36207,17 +30979,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "灰燼之怒",
-        "types": [
-            "攻擊所有目標",
-            "全體治療量降低",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "治療削減",
-            "法力生成增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-07-01",
         "specialId": "fury_of_ash",
@@ -36279,12 +31040,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "農工之怒",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦",
-            "單體防禦衰減"
-        ],
-        "skill_types": [],
         "source": "傳奇召喚 - 月英",
         "Release date": "2026-05-01",
         "specialId": "farmhands_fury",
@@ -36333,15 +31088,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "幽魂枷鎖",
-        "types": [
-            "隨機攻擊5個目標",
-            "命中時攻擊減益疊加"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "攻擊減益",
-            "疊加"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2022-01-27",
         "specialId": "spectres_flail",
@@ -36397,15 +31143,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "海草連枷",
-        "types": [
-            "隨機攻擊5個目標",
-            "命中時攻擊減益疊加"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "攻擊減益",
-            "疊加"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-08-01",
         "specialId": "seaweed_flail",
@@ -36466,14 +31203,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "元素召喚",
-        "types": [
-            "治療者",
-            "持續傷害"
-        ],
-        "skill_types": [
-            "生命強化",
-            "持續傷害"
-        ],
         "source": "超級元素",
         "Release date": "2024-05-20",
         "specialId": "call_of_the_elements",
@@ -36542,17 +31271,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "魔法",
         "skill": "雀躍雙刃",
-        "types": [
-            "蓄力",
-            "攻擊單個目標",
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "狙擊手",
-            "法力削減或格擋"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "specialId": "charmed_dual_blade",
@@ -36614,18 +31332,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "魔法",
         "skill": "翠綠雙刃",
-        "types": [
-            "蓄力",
-            "攻擊單個目標",
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "狙擊手",
-            "法力削減或格擋",
-            "反製小兵"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-11-03",
         "specialId": "emerald_dual_blade",
@@ -36692,18 +31398,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "雜耍試煉",
-        "types": [
-            "全體重新排布",
-            "攻擊所有目標",
-            "全體法力生成降低",
-            "自我力量提升"
-        ],
-        "skill_types": [
-            "重排隊伍",
-            "全體攻擊 (打5)",
-            "法力削減或格擋",
-            "攻擊增益"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2026-01-18",
         "specialId": "juggling_trials",
@@ -36777,20 +31471,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "熾焰毒液",
-        "types": [
-            "火暴擊 (全體)",
-            "無視小兵",
-            "全體持續傷害",
-            "全體灼燒與中毒傷害增加減益"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "額外傷害",
-            "反製小兵",
-            "狙擊手",
-            "繞過",
-            "防禦減益"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-01-26",
         "specialId": "blazing_venom",
@@ -36860,13 +31540,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "療癒毒液",
-        "types": [
-            "火暴擊 (全體)",
-            "無視小兵",
-            "全體持續傷害",
-            "全體灼燒與中毒傷害增加減益"
-        ],
-        "skill_types": [],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2026-05-01",
         "specialId": "curing_venom",
@@ -36919,16 +31592,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "上古科技",
-        "types": [
-            "全體治療",
-            "復活者",
-            "全體狀態異常免疫"
-        ],
-        "skill_types": [
-            "治療",
-            "復活",
-            "提供免疫"
-        ],
         "source": "聖約召喚",
         "Release date": "2026-03-26",
         "specialId": "ancient_technology",
@@ -36995,17 +31658,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "歌劇迴響",
-        "types": [
-            "攻擊單個目標",
-            "單體擴散型持續傷害",
-            "全體攻擊增益疊加"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "持續傷害",
-            "疊加",
-            "攻擊增益"
-        ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2024-03-21",
         "specialId": "echoes_of_the_opera",
@@ -37070,16 +31722,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "玉刃",
-        "types": [
-            "攻擊2個目標",
-            "造成傷害時提升生命值(3個目標)",
-            "2個目標沉默"
-        ],
-        "skill_types": [
-            "生命強化",
-            "沈默",
-            "狙擊手"
-        ],
         "source": "超級元素",
         "Release date": "2024-01-01",
         "specialId": "jade_blades",
@@ -37142,16 +31784,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "尋愛",
-        "types": [
-            "嘲諷",
-            "反擊",
-            "傷害減免者"
-        ],
-        "skill_types": [
-            "反擊",
-            "傷害減免",
-            "嘲諷"
-        ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2025-02-14",
         "specialId": "looking_for_love",
@@ -37205,15 +31837,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "挑戰最強者",
-        "types": [
-            "攻擊所有目標",
-            "全體法力削減"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力削減或格擋",
-            "繞過"
-        ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2025-03-13",
         "specialId": "challenge_the_strongest",
@@ -37273,16 +31896,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "毒芹茶",
-        "types": [
-            "攻擊所有目標",
-            "無視防禦",
-            "全體淨化免疫減益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "繞過",
-            "凈化格擋者"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2023-09-25",
         "specialId": "hemlock_tea",
@@ -37344,18 +31957,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "大蒜盤",
-        "types": [
-            "攻擊所有目標",
-            "無視防禦",
-            "全體淨化免疫",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "繞過",
-            "凈化格擋者",
-            "持續傷害"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2025-10-08",
         "specialId": "garlic_serving_edwin",
@@ -37422,16 +32023,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "完美的團隊合作",
-        "types": [
-            "摧毀單個目標的小兵",
-            "攻擊單個目標",
-            "每個小怪擁有者生命值削減"
-        ],
-        "skill_types": [
-            "最大生命削減",
-            "反製小兵",
-            "狙擊手"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-06-10",
         "specialId": "perfect_teamwork",
@@ -37489,16 +32080,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "和諧團隊合作",
-        "types": [
-            "摧毀單個目標的小兵",
-            "攻擊單個目標",
-            "全體最大生命值降低"
-        ],
-        "skill_types": [
-            "最大生命削減",
-            "反製小兵",
-            "狙擊手"
-        ],
         "source": "挑戰節 II",
         "Release date": "2025-08-08",
         "specialId": "balanced_teamwork",
@@ -37562,16 +32143,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "衝鋒",
         "skill": "奉命伏擊",
-        "types": [
-            "蓄力",
-            "攻擊所有目標",
-            "全體反擊小兵召喚者"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "反擊",
-            "召喚小兵"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
         "specialId": "order_ambush",
@@ -37639,15 +32210,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "誘惑之歌",
-        "types": [
-            "攻擊3個目標",
-            "3個目標增益免疫",
-            "企圖獲得增益時受到傷害(3個目標)"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "增益格擋者"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "luring_song",
@@ -37705,16 +32267,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "慰藉之歌",
-        "types": [
-            "攻擊3個目標",
-            "3個目標增益免疫",
-            "企圖獲得增益時受到傷害(3個目標)"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "增益格擋者",
-            "驅散"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2025-01-20",
         "specialId": "soothing_song",
@@ -37779,14 +32331,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "新月長矛",
-        "types": [
-            "攻擊3個目標",
-            "自我治療"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "特殊治療"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "crescent_spear",
@@ -37838,15 +32382,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "天蝕之矛",
-        "types": [
-            "攻擊3個目標",
-            "3個目標治療偷取"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "特殊治療",
-            "治療削減"
-        ],
         "source": "服裝間",
         "Release date": "2020-05-18",
         "specialId": "eclipse_spear",
@@ -37900,14 +32435,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "皎月之矛",
-        "types": [
-            "攻擊所有目標",
-            "全體治療量降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "治療削減"
-        ],
         "source": "服裝間",
         "Release date": "2022-09-05",
         "specialId": "lunar_spear",
@@ -37961,15 +32488,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "卡通長矛",
-        "types": [
-            "攻擊3個目標",
-            "自我治療"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害",
-            "特殊治療"
-        ],
         "source": "服裝間",
         "Release date": "2023-11-27",
         "specialId": "adorable_spear",
@@ -38029,16 +32547,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "玻璃矛",
-        "types": [
-            "攻擊3個目標",
-            "無視防禦",
-            "自我治療"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "繞過",
-            "特殊治療"
-        ],
         "source": "服裝間",
         "Release date": "2025-01-14",
         "specialId": "glass_spear",
@@ -38098,15 +32606,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "有型矛刺",
-        "types": [
-            "攻擊3個目標",
-            "自我治療"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害",
-            "特殊治療"
-        ],
         "source": "服裝間",
         "Release date": "2026-01-26",
         "specialId": "stylish_spear",
@@ -38166,21 +32665,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "突變樣本",
-        "types": [
-            "3個目標攻擊力成長",
-            "3個目標防禦成長",
-            "召喚畸變超級小兵",
-            "超級小兵持續傷害 (單體)",
-            "超級小兵瘋狂 (單體)",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "屬性修改",
-            "召喚巨型小兵",
-            "持續傷害",
-            "失心攻擊&治療",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2025-12-03",
         "specialId": "mutated_specimen",
@@ -38261,16 +32745,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "大自然的復仇",
-        "types": [
-            "攻擊3個目標",
-            "自我反射狀態異常"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "全體攻擊 (打5)",
-            "法力提升",
-            "反射"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-06-01",
         "specialId": "natures_payback",
@@ -38329,19 +32803,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "天上野餐",
-        "types": [
-            "全體治療",
-            "全體淨化",
-            "全體法力狀態異常免疫",
-            "全體抵抗時增加法力"
-        ],
-        "skill_types": [
-            "治療",
-            "提供免疫",
-            "反製小兵",
-            "法力提升",
-            "狀態效果轉換"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-04-17",
         "specialId": "picnic_in_the_sky",
@@ -38408,21 +32869,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "野蠻吞噬",
-        "types": [
-            "攻擊單個目標",
-            "單體擴散型持續傷害",
-            "寶箱怪"
-        ],
-        "skill_types": [
-            "特殊治療",
-            "反製小兵",
-            "狙擊手",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形態與隱藏",
-            "繞過",
-            "持續傷害"
-        ],
         "source": "市場召喚",
         "Release date": "2025-10-27",
         "specialId": "savage_gobble_green",
@@ -38502,18 +32948,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "被吸收的下屬",
-        "types": [
-            "全體治療",
-            "攻擊所有目標",
-            "記憶召喚所有小兵",
-            "記憶召喚所有惡魔"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "治療",
-            "召喚小兵",
-            "召喚惡魔"
-        ],
         "source": "傳奇召喚 - 額外抽獎",
         "Release date": "2022-11-22",
         "specialId": "absorbed_underlings",
@@ -38574,17 +33008,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "震撼戰嚎",
-        "types": [
-            "攻擊3個目標",
-            "3個目標元素防禦降低",
-            "驅散3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "驅散",
-            "持續治療"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2018-12-01",
         "specialId": "shattering_warcry",
@@ -38643,18 +33066,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "狩獵戰嚎",
-        "types": [
-            "攻擊3個目標",
-            "3個目標元素防禦降低",
-            "驅散3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "驅散",
-            "持續治療",
-            "凈化"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-10-02",
         "specialId": "warcry_of_the_hunt",
@@ -38719,20 +33130,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "貪婪吞噬",
-        "types": [
-            "摧毀單個目標的小兵",
-            "攻擊單個目標",
-            "寶箱怪"
-        ],
-        "skill_types": [
-            "特殊治療",
-            "反製小兵",
-            "狙擊手",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形態與隱藏",
-            "繞過"
-        ],
         "source": "市場召喚",
         "Release date": "2025-05-15",
         "specialId": "mimic_training_hero_green_bite",
@@ -38808,20 +33205,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "貪婪長槍",
-        "types": [
-            "霜降打擊 (3個目標)",
-            "3個目標承受傷害增加",
-            "3個目標反射增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "攻擊減益",
-            "反射",
-            "繞過",
-            "額外傷害",
-            "反製小兵"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-06-13",
         "specialId": "lance_of_avarice",
@@ -38888,18 +33271,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "療法與疾病",
-        "types": [
-            "摧毀所有惡魔",
-            "全體淨化",
-            "全體持續治療",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "凈化",
-            "持續傷害",
-            "反製惡魔",
-            "持續治療"
-        ],
         "source": "挑戰 - 眾神狂歡節",
         "Release date": "2023-11-02",
         "specialId": "remedies_and_diseases",
@@ -38966,19 +33337,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "腐蝕彎刀",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "3個目標元素防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "持續傷害",
-            "法力削減或格擋",
-            "額外傷害",
-            "反製小兵"
-        ],
         "source": "聖約召喚",
         "Release date": "2023-06-28",
         "specialId": "corroding_cutlass",
@@ -39041,17 +33399,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "強烈香氣",
-        "types": [
-            "攻擊單個目標",
-            "單體淨化免疫",
-            "單體擴散型持續傷害"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "攻擊增益",
-            "持續傷害",
-            "凈化格擋者"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2025-07-01",
         "specialId": "heavy_fragrance",
@@ -39113,17 +33460,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "倒鉤箭",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續性傷害",
-            "3個目標延遲麻痺"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "範圍攻擊 (打3)",
-            "沈睡",
-            "治療削減"
-        ],
         "source": "聖約召喚",
         "Release date": "2025-04-14",
         "specialId": "barbed_arrows",
@@ -39182,15 +33518,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "電馳刀刃",
-        "types": [
-            "攻擊3個目標",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "凈化",
-            "額外傷害"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2020-10-26",
         "specialId": "electric_cut",
@@ -39252,16 +33579,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "電子戳擊",
-        "types": [
-            "攻擊3個目標",
-            "全體淨化",
-            "全體冰系元素防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "凈化",
-            "防禦減益"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2021-10-04",
         "specialId": "electric_stab",
@@ -39321,17 +33638,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "友誼捲軸",
-        "types": [
-            "安全驅散全體增益",
-            "全體強化治療",
-            "隨機1個狀態異常來源"
-        ],
-        "skill_types": [
-            "驅散",
-            "生命強化",
-            "法力削減或格擋",
-            "防禦減益"
-        ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2025-09-05",
         "specialId": "scroll_of_fellowship",
@@ -39401,15 +33707,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "碎裂之力",
-        "types": [
-            "攻擊所有目標",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦減益",
-            "額外傷害"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-08-27",
         "specialId": "brittling_force",
@@ -39467,15 +33764,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "尖脆爆裂",
-        "types": [
-            "攻擊所有目標",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "防禦減益"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-01-16",
         "specialId": "brittling_burst",
@@ -39535,18 +33823,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "皇室投毒者",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害",
-            "全體法力生成降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "傷害分攤",
-            "持續傷害",
-            "法力提升",
-            "法力削減或格擋"
-        ],
         "source": "挑戰節 I",
         "Release date": "2023-08-10",
         "specialId": "royal_poisoner",
@@ -39609,15 +33885,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "古代森林之怒",
-        "types": [
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害",
-            "攻擊增益",
-            "全體攻擊 (打5)"
-        ],
         "source": "聖約召喚",
         "Release date": "2023-10-28",
         "specialId": "fury_of_the_ancient_forest",
@@ -39678,18 +33945,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "活力污泥",
-        "types": [
-            "全體生命值加成",
-            "全體粘性表面增益",
-            "全體防禦增益",
-            "全體增益驅散免疫"
-        ],
-        "skill_types": [
-            "增益竊取者",
-            "防禦增益",
-            "生命強化",
-            "提供免疫"
-        ],
         "source": "超級元素",
         "Release date": "2024-06-18",
         "specialId": "revitalizing_sludge",
@@ -39752,19 +34007,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "潮汐",
         "skill": "龜甲翻滾",
-        "types": [
-            "摧毀所有小兵",
-            "攻擊所有目標",
-            "全體防禦增益",
-            "小怪被消滅時自身治療疊加"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦增益",
-            "反製小兵",
-            "疊加",
-            "持續治療"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-06-07",
         "specialId": "testudo_roll",
@@ -39836,19 +34078,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "潮汐",
         "skill": "龜甲岩石",
-        "types": [
-            "消滅全體小怪",
-            "攻擊所有目標",
-            "全體防禦增益",
-            "小怪被消滅時自身治療疊加"
-        ],
-        "skill_types": [
-            "反製小兵",
-            "全體攻擊 (打5)",
-            "防禦增益",
-            "持續治療",
-            "疊加"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-07-27",
         "specialId": "testudo_rock",
@@ -39925,14 +34154,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "毀滅鏈枷",
-        "types": [
-            "攻擊單個目標",
-            "自身持續治療"
-        ],
-        "skill_types": [
-            "持續治療",
-            "狙擊手"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-04-22",
         "specialId": "flail_of_destruction",
@@ -39988,16 +34209,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "耐力風箏",
-        "types": [
-            "攻擊單個目標",
-            "自身持續治療"
-        ],
-        "skill_types": [
-            "持續治療",
-            "狙擊手",
-            "攻擊增益",
-            "額外傷害"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-06-22",
         "specialId": "kite_of_endurance",
@@ -40058,20 +34269,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "骨棒派對",
-        "types": [
-            "全體生命值加成",
-            "全體最大生命值降低",
-            "4個目標軟膚",
-            "全體治療減益免疫",
-            "淨化全體治療減益"
-        ],
-        "skill_types": [
-            "凈化",
-            "傷害減免",
-            "生命強化",
-            "提供免疫",
-            "最大生命削減"
-        ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2024-02-27",
         "specialId": "bone_club_party",
@@ -40129,18 +34326,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "潮汐",
         "skill": "漩渦衝刺",
-        "types": [
-            "偷取單個目標法力",
-            "攻擊單個目標",
-            "全體法力生成增益"
-        ],
-        "skill_types": [
-            "法力生成增益",
-            "法力提升",
-            "法力削減或格擋",
-            "狙擊手",
-            "額外傷害"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-08-30",
         "specialId": "whirlpool_dash",
@@ -40217,18 +34402,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "潮汐",
         "skill": "掃蕩衝刺",
-        "types": [
-            "偷取單個目標法力",
-            "攻擊單個目標",
-            "全體法力生成增益"
-        ],
-        "skill_types": [
-            "法力生成增益",
-            "法力提升",
-            "法力削減或格擋",
-            "狙擊手",
-            "額外傷害"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-06-26",
         "specialId": "scavenging_dash",
@@ -40310,16 +34483,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "快速板機指",
-        "types": [
-            "召喚所有",
-            "盟友特殊技能時攻擊隨機單個目標",
-            "4個目標特技傷害增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "連鎖與隨機攻擊",
-            "召喚小兵"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2023-12-01",
         "specialId": "hasty_trigger_finger",
@@ -40377,18 +34540,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "飛速包禮人員",
-        "types": [
-            "召喚所有",
-            "盟友特殊技能時攻擊單個目標",
-            "4個目標法力生成增益",
-            "全體特殊技能傷害增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "連鎖與隨機攻擊",
-            "召喚小兵",
-            "法力生成增益"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2025-12-01",
         "specialId": "hasty_gift_wrapper",
@@ -40454,18 +34605,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "堅守堡壘",
-        "types": [
-            "全體治療",
-            "全體狀態異常免疫增益",
-            "長槍守衛超級小兵",
-            "驅散小怪"
-        ],
-        "skill_types": [
-            "治療",
-            "狀態效果格擋",
-            "召喚小兵",
-            "驅散"
-        ],
         "source": "哥布林召喚",
         "Release date": "2025-07-22",
         "specialId": "holding_down_the_fort",
@@ -40531,16 +34670,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "骨頭猛撞",
-        "types": [
-            "攻擊所有目標",
-            "全體防禦降低",
-            "自我史萊姆復活"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦減益",
-            "復活"
-        ],
         "source": "超級元素",
         "Release date": "2025-03-17",
         "specialId": "bone_slam",
@@ -40610,18 +34739,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "荒地詛咒",
-        "types": [
-            "攻擊3個目標",
-            "3個目標嘲諷格擋",
-            "3個目標特殊技能防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "反製惡魔",
-            "提供免疫",
-            "嘲諷"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-09-01",
         "specialId": "malison_of_the_wildlands",
@@ -40682,17 +34799,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "懲戒徵兆",
-        "types": [
-            "防禦降低",
-            "攻擊所有目標",
-            "自我復活",
-            "復活時傷害全體"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦減益",
-            "復活"
-        ],
         "source": "挑戰節 I",
         "Release date": "2023-04-20",
         "specialId": "omen_of_retribution",
@@ -40755,15 +34861,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "堅定聚焦",
-        "types": [
-            "攻擊單個目標",
-            "全體暴擊幾率增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "狙擊手",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2018-07-01",
         "specialId": "unwavering_focus",
@@ -40816,16 +34913,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "優雅煉金",
-        "types": [
-            "攻擊單個目標",
-            "全體暴擊幾率增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "狙擊手",
-            "防禦增益",
-            "驅散"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-03-08",
         "specialId": "exquisite_alchemy",
@@ -40884,18 +34971,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "可怕衝鋒",
-        "types": [
-            "3個目標元素防禦降低",
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "自我持續治療"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "持續治療",
-            "防禦減益"
-        ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2025-02-13",
         "specialId": "gruesome_charge",
@@ -40964,18 +35039,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "可愛的害蟲",
-        "types": [
-            "延遲自我法力提升",
-            "青苔幼蛾超級惡魔"
-        ],
-        "skill_types": [
-            "召喚惡魔",
-            "法力削減或格擋",
-            "法力提升",
-            "持續傷害",
-            "閃避",
-            "反製小兵"
-        ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-01-23",
         "specialId": "adorable_pest",
@@ -41038,16 +35101,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "青龍偃月刀",
-        "types": [
-            "攻擊3個目標",
-            "無視小兵",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "反製小兵"
-        ],
         "source": "三國召喚",
         "Release date": "2022-03-14",
         "specialId": "green_dragon_crescent_blade",
@@ -41105,16 +35158,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "綠龍煉獄之刃",
-        "types": [
-            "攻擊3個目標",
-            "無視小兵",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "反製小兵"
-        ],
         "source": "三國召喚",
         "Release date": "2024-10-01",
         "specialId": "green_dragon_inferno",
@@ -41181,18 +35224,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "元素魔法",
-        "types": [
-            "全體驅散",
-            "全體屬性轉換",
-            "全體攻擊增益",
-            "全體暴擊幾率增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "驅散",
-            "凈化",
-            "狀態效果格擋"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "elemental_magic",
@@ -41249,15 +35280,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "拆除碎擊",
-        "types": [
-            "攻擊3個目標",
-            "3個目標受到傷害增加減益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "額外傷害"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2022-11-12",
         "specialId": "demolishing_crush",
@@ -41315,22 +35337,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "必需物品包",
-        "types": [
-            "全體攻擊增益",
-            "全體防禦增益",
-            "全體法力生成增益",
-            "全體持續治療",
-            "反擊",
-            "全體反擊"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "防禦增益",
-            "反擊",
-            "持續治療",
-            "法力生成增益",
-            "生命強化"
-        ],
         "source": "聖約召喚",
         "Release date": "2023-06-28",
         "specialId": "bag_of_necessities",
@@ -41407,13 +35413,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "受詛審判",
-        "types": [
-            "攻擊3個目標",
-            "無視防禦",
-            "3個目標持續傷害",
-            "3個目標復活阻擋"
-        ],
-        "skill_types": [],
         "source": "三國召喚",
         "Release date": "2026-05-21",
         "specialId": "cursed_judgement",
@@ -41463,16 +35462,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "加拉爾號角",
-        "types": [
-            "全體生命值加成",
-            "復活者",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "生命強化",
-            "復活"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "",
         "specialId": "boon_of_gjallarhorn",
@@ -41526,17 +35515,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "加拉爾號角庇佑",
-        "types": [
-            "復活者",
-            "全體攻擊增益",
-            "全體強化持續治療"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "生命強化",
-            "復活",
-            "持續治療"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-10-24",
         "specialId": "blessing_of_gjallarhorn",
@@ -41592,14 +35570,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "森林之怒",
-        "types": [
-            "攻擊所有目標",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "anger_of_forest",
@@ -41651,14 +35621,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "慢速",
         "skill": "小丑之怒",
-        "types": [
-            "攻擊所有目標",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益"
-        ],
         "source": "服裝間",
         "Release date": "2020-01-01",
         "specialId": "anger_of_the_jester",
@@ -41712,18 +35674,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "森林之怒",
-        "types": [
-            "攻擊所有目標",
-            "全體攻擊降低",
-            "全體防禦降低",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "防禦減益",
-            "持續傷害"
-        ],
         "source": "服裝間",
         "Release date": "2022-10-31",
         "specialId": "anger_of_the_woods",
@@ -41782,15 +35732,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "公仔之怒",
-        "types": [
-            "攻擊所有目標",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-07-16",
         "specialId": "tantrum_of_forest",
@@ -41854,16 +35795,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "碎片之怒",
-        "types": [
-            "攻擊所有目標",
-            "無視防禦",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "繞過"
-        ],
         "source": "服裝間",
         "Release date": "2025-09-07",
         "specialId": "glass_anger_of_forest_horghall",
@@ -41927,16 +35858,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "肉食者花園",
-        "types": [
-            "摧毀3個目標的小兵",
-            "攻擊3個目標",
-            "召喚3個惡魔"
-        ],
-        "skill_types": [
-            "反製小兵",
-            "範圍攻擊 (打3)",
-            "召喚惡魔"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2025-10-08",
         "specialId": "carnivore_garden",
@@ -42001,17 +35922,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "修復青銅斧",
-        "types": [
-            "攻擊所有目標",
-            "全體生命值加成",
-            "防禦增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "特殊治療",
-            "防禦增益",
-            "生命強化"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-06-05",
         "specialId": "mending_bronze_axe",
@@ -42070,20 +35980,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "北極星遠征",
-        "types": [
-            "攻擊單個目標",
-            "傷害鏈接 (單體)",
-            "全體攻擊力成長",
-            "全體法力生成增益"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "額外傷害",
-            "屬性修改",
-            "法力生成增益",
-            "繞過",
-            "反製小兵"
-        ],
         "source": "星界召喚",
         "Release date": "2025-08-24",
         "specialId": "polestar_expedition",
@@ -42151,17 +36047,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "可怕水域",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "3個目標治療偷取"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "特殊治療",
-            "治療削減"
-        ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "specialId": "dreaded_waters",
@@ -42220,21 +36105,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "衝鋒",
         "skill": "壓制之氣",
-        "types": [
-            "蓄力",
-            "攻擊 (1/3/所有) 目標",
-            "全體生命值提升",
-            "法力生成降低 (1/3/所有目標)"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "範圍攻擊 (打3)",
-            "全體攻擊 (打5)",
-            "特殊治療",
-            "法力削減或格擋",
-            "生命強化",
-            "反製小兵"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2024-12-05",
         "specialId": "suppressing_ki",
@@ -42303,17 +36173,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "衝鋒",
         "skill": "多面臉孔",
-        "types": [
-            "蓄力",
-            "攻擊所有目標",
-            "全體法力削減",
-            "1/3/全體目標閃避率增益"
-        ],
-        "skill_types": [
-            "閃避",
-            "法力削減或格擋",
-            "全體攻擊 (打5)"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "specialId": "shared_visage",
@@ -42380,14 +36239,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "日食護盾",
-        "types": [
-            "攻擊所有目標",
-            "全體特殊技能防禦增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦增益"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "eclipse_shield",
@@ -42439,15 +36290,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "新月盾牌",
-        "types": [
-            "攻擊所有目標",
-            "全體特殊技能閃避率增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "閃避",
-            "召喚小兵"
-        ],
         "source": "服裝間",
         "Release date": "2020-05-18",
         "specialId": "crescent_shield",
@@ -42507,15 +36349,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "月之盾",
-        "types": [
-            "攻擊所有目標",
-            "全體特殊技能閃避率增益"
-        ],
-        "skill_types": [
-            "閃避",
-            "召喚小兵",
-            "全體攻擊 (打5)"
-        ],
         "source": "服裝間",
         "Release date": "2023-04-17",
         "specialId": "lunar_shield",
@@ -42575,15 +36408,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "護盾公仔",
-        "types": [
-            "攻擊所有目標",
-            "全體特殊技能防禦增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦增益",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-10-06",
         "specialId": "adorable_shield",
@@ -42647,16 +36471,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "玻璃護盾",
-        "types": [
-            "攻擊所有目標",
-            "無視防禦",
-            "全體特殊技能防禦增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦增益",
-            "繞過"
-        ],
         "source": "服裝間",
         "Release date": "2025-12-11",
         "specialId": "glass_shield_kadilen",
@@ -42720,12 +36534,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "衝鋒",
         "skill": "手裡劍風暴",
-        "types": [
-            "蓄力",
-            "每回合偷取1個目標的增益",
-            "每回合隨機攻擊單體並增益自身/3個目標/全體"
-        ],
-        "skill_types": [],
         "source": "高塔 - 忍者",
         "Release date": "2026-04-06",
         "specialId": "shuriken_storm",
@@ -42778,7 +36586,19 @@ window.allHeroes =
             "health": 2941,
             "power": 1599
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：單一目標"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "狀態-偷取增益",
+                    "傷害-條件觸發"
+                ]
+            }
+        ]
     },
     {
         "name": "凱 (Kai)",
@@ -42788,19 +36608,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "飛速",
         "skill": "螳螂打擊",
-        "types": [
-            "攻擊單個目標",
-            "召喚1個惡魔",
-            "單體治療降低",
-            "每回合驅散 1 個目標"
-        ],
-        "skill_types": [
-            "驅散",
-            "持續傷害",
-            "召喚惡魔",
-            "狙擊手",
-            "治療削減"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2022-10-15",
         "specialId": "mantis_strike",
@@ -42871,20 +36678,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "湮滅之浪",
-        "types": [
-            "自身生命值加成治療",
-            "攻擊所有目標",
-            "全體狂亂",
-            "儲存受到的傷害",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "生命強化",
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "失心攻擊&治療",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2025-09-09",
         "specialId": "obliterating_surge",
@@ -42958,15 +36751,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "匕首旋風",
-        "types": [
-            "攻擊單個目標",
-            "3個目標攻擊降低"
-        ],
-        "skill_types": [
-            "攻擊減益",
-            "法力生成增益",
-            "狙擊手"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2019-10-01",
         "specialId": "stiletto_cyclone",
@@ -43023,19 +36807,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "洗衣日",
-        "types": [
-            "全體驅散最新獲得的增益",
-            "攻擊所有目標",
-            "持盾守衛超級小兵",
-            "安全清除全體隊友的小怪"
-        ],
-        "skill_types": [
-            "驅散",
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "召喚巨型小兵",
-            "凈化"
-        ],
         "source": "哥布林召喚",
         "Release date": "2024-11-24",
         "specialId": "laundry_day",
@@ -43107,14 +36878,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "月光小夜曲",
-        "types": [
-            "3個目標持續傷害",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "凈化",
-            "持續傷害"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "moonlight_serenade",
@@ -43167,16 +36930,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "叛亂小夜曲",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "凈化",
-            "持續傷害"
-        ],
         "source": "挑戰節 I",
         "Release date": "2023-12-28",
         "specialId": "serenade_of_sedition",
@@ -43236,16 +36989,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "魔力寶劍",
-        "types": [
-            "治療者",
-            "召喚3個小兵",
-            "法力削減小怪"
-        ],
-        "skill_types": [
-            "治療",
-            "法力削減或格擋",
-            "召喚小兵"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "magical_sword",
@@ -43299,16 +37042,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "祝福之刃",
-        "types": [
-            "全體生命值加成",
-            "召喚3個小兵",
-            "法力生成減益小怪"
-        ],
-        "skill_types": [
-            "生命強化",
-            "法力削減或格擋",
-            "召喚小兵"
-        ],
         "source": "挑戰節 I",
         "Release date": "2021-12-15",
         "specialId": "blessed_blade",
@@ -43369,19 +37102,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "不屈姿態",
-        "types": [
-            "謙遜",
-            "攻擊3個目標",
-            "無視防禦",
-            "嘲諷",
-            "自我石膚"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "繞過",
-            "嘲諷",
-            "傷害減免"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2026-01-23",
         "specialId": "unyielding_stance",
@@ -43454,16 +37174,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "春之巫師",
-        "types": [
-            "召喚所有",
-            "小怪提升生命值",
-            "全體特技傷害增加增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "生命強化",
-            "召喚小兵"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-12-01",
         "specialId": "spirit_of_spring",
@@ -43525,15 +37235,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "魔法長笛",
-        "types": [
-            "全體防禦力成長",
-            "斑點豬超級小怪"
-        ],
-        "skill_types": [
-            "屬性修改",
-            "提供免疫",
-            "召喚巨型小兵"
-        ],
         "source": "哥布林召喚",
         "Release date": "2023-12-11",
         "specialId": "flute_of_enchantment",
@@ -43593,16 +37294,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "母獅利爪",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "防禦減益",
-            "復活"
-        ],
         "source": "野地召喚",
         "Release date": "2025-03-17",
         "specialId": "claws_of_the_lioness",
@@ -43668,12 +37359,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "完美一擊",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "perfect_shot",
@@ -43719,14 +37404,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "純淨射擊",
-        "types": [
-            "攻擊單個目標",
-            "單體法力生成降低"
-        ],
-        "skill_types": [
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2020-01-01",
         "specialId": "pure_shot",
@@ -43780,14 +37457,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "完美射擊",
-        "types": [
-            "攻擊單個目標",
-            "單體沈默者"
-        ],
-        "skill_types": [
-            "沈默",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2023-04-17",
         "specialId": "flawless_shot",
@@ -43841,13 +37510,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "公仔射擊",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2024-02-12",
         "specialId": "toon_shot",
@@ -43905,14 +37567,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "玻璃箭",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦"
-        ],
-        "skill_types": [
-            "繞過",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2025-05-10",
         "specialId": "glass_arrow",
@@ -43970,13 +37624,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "時尚箭矢",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2026-03-12",
         "specialId": "stylish_arrow",
@@ -44034,20 +37681,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "非常慢",
         "skill": "昏睡蜜酒",
-        "types": [
-            "攻擊所有目標",
-            "全體深度睡眠",
-            "偷取1個增益",
-            "自我法力提升"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "增益竊取者",
-            "沈睡",
-            "法力提升",
-            "閃避",
-            "反製小兵"
-        ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-06-02",
         "specialId": "dozy_mead",
@@ -44117,19 +37750,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "飛速",
         "skill": "懲罰打擊",
-        "types": [
-            "機率暴擊",
-            "攻擊3個目標",
-            "3個目標傷害增加減益疊加",
-            "3個目標暴擊機率增益疊加"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害",
-            "攻擊增益",
-            "防禦減益",
-            "疊加"
-        ],
         "source": "三國召喚",
         "Release date": "2025-12-14",
         "specialId": "punishing_strike",
@@ -44204,16 +37824,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "無私之箭",
-        "types": [
-            "攻擊所有目標",
-            "無視防禦",
-            "偷取全體最新的增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "繞過",
-            "增益竊取者"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2025-12-01",
         "specialId": "arrows_of_altruism_liora",
@@ -44275,16 +37885,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "仁義之師",
-        "types": [
-            "攻擊3個目標",
-            "召喚所有",
-            "小怪反擊"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "反擊",
-            "召喚小兵"
-        ],
         "source": "三國召喚",
         "Release date": "2022-05-23",
         "specialId": "call_to_arms",
@@ -44342,16 +37942,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "森林指揮",
-        "types": [
-            "攻擊3個目標",
-            "召喚所有",
-            "小怪反擊"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "召喚小兵",
-            "反擊"
-        ],
         "source": "三國召喚",
         "Release date": "2025-01-29",
         "specialId": "forest_command",
@@ -44418,20 +38008,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "超凡法術",
-        "types": [
-            "自身完全淨化",
-            "幽靈形態",
-            "幽靈形態下4個目標防禦增益",
-            "幽靈形態下4個目標強化持續治療"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "鬼魂形態與隱藏",
-            "持續治療",
-            "疊加",
-            "凈化",
-            "生命強化"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-11-04",
         "specialId": "transcendental_frame",
@@ -44492,19 +38068,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "超凡充能",
-        "types": [
-            "自身完全淨化",
-            "幽靈形態",
-            "幽靈形態下4個目標防禦增益",
-            "幽靈形態下4個目標強化持續治療"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "鬼魂形態與隱藏",
-            "持續治療",
-            "凈化",
-            "生命強化"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-08-29",
         "specialId": "transcendental_charge",
@@ -44569,16 +38132,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "秩序降臨",
-        "types": [
-            "攻擊所有目標",
-            "全體防禦降低",
-            "全體火屬性攻擊減益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "防禦減益"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-09-29",
         "specialId": "bringer_of_order",
@@ -44638,16 +38191,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "藍河守護者",
-        "types": [
-            "攻擊所有目標",
-            "全體防禦降低",
-            "全體火屬性攻擊減益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "防禦減益"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-02-05",
         "specialId": "protector_of_the_blue_river",
@@ -44714,16 +38257,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "星界之釀",
-        "types": [
-            "全體治療",
-            "強化持續治療",
-            "全體傷害減免"
-        ],
-        "skill_types": [
-            "治療",
-            "生命強化",
-            "傷害減免"
-        ],
         "source": "星界召喚",
         "Release date": "2025-01-06",
         "specialId": "astral_brew",
@@ -44786,16 +38319,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "飛速",
         "skill": "暗影躲藏",
-        "types": [
-            "攻擊3個目標",
-            "3個目標閃避率增益",
-            "閃避時法力提升"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "閃避",
-            "法力提升"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2019-05-01",
         "specialId": "hide_in_shadows",
@@ -44853,16 +38376,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "狗狗故事",
-        "types": [
-            "全體治療",
-            "召喚所有",
-            "全體傷害減免"
-        ],
-        "skill_types": [
-            "傷害減免",
-            "治療",
-            "召喚小兵"
-        ],
         "source": "挑戰節 II",
         "Release date": "2022-11-03",
         "specialId": "puppy_tales",
@@ -44926,16 +38439,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "超級厲害噴霧",
-        "types": [
-            "攻擊3個目標",
-            "防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "額外傷害",
-            "持續傷害"
-        ],
         "source": "月活動 - 海灘派對",
         "Release date": "2024-06-03",
         "specialId": "super_duper_spray",
@@ -44999,18 +38502,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "海岸補充",
-        "types": [
-            "治療3個目標",
-            "治療成長恩賜",
-            "3個目標反擊",
-            "3個目標反擊時獲得法力"
-        ],
-        "skill_types": [
-            "治療",
-            "特殊治療",
-            "反擊",
-            "法力提升"
-        ],
         "source": "神殿召喚",
         "Release date": "2026-02-25",
         "specialId": "coastal_recharge",
@@ -45078,12 +38569,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "魔法提神",
-        "types": [
-            "全體法力提升",
-            "連根拔起並淨化全體",
-            "自身生命值加成持續治療"
-        ],
-        "skill_types": [],
         "source": "挑戰 - 警戒蔬菜召唤",
         "Release date": "2026-05-17",
         "specialId": "magical_refreshment",
@@ -45141,17 +38626,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "空中絨毛",
-        "types": [
-            "攻擊3個目標",
-            "絨毛齊射"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "法力削減或格擋",
-            "傷害減免",
-            "提供免疫",
-            "範圍攻擊 (打3)"
-        ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2024-05-16",
         "specialId": "fluff_in_the_air",
@@ -45210,17 +38684,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "石化演出",
-        "types": [
-            "3個目標最大生命值降低",
-            "延遲麻痺3個目標",
-            "驅散3個目標"
-        ],
-        "skill_types": [
-            "最大生命削減",
-            "法力削減或格擋",
-            "額外傷害",
-            "驅散"
-        ],
         "source": "挑戰節 II",
         "Release date": "2025-08-08",
         "specialId": "petrifying_performance",
@@ -45279,19 +38742,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "迷霧搥擊",
-        "types": [
-            "攻擊3個目標",
-            "3個目標抵抗治療減益",
-            "3個目標每次抵抗治療時受到傷害",
-            "自身攻擊增益疊加"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊增益",
-            "治療削減",
-            "疊加",
-            "持續傷害"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2023-03-03",
         "specialId": "misty_punches",
@@ -45355,15 +38805,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "長葉綻放",
-        "types": [
-            "敵方釋放特技後攻擊全體",
-            "全體法力生成增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力生成增益",
-            "傷害分攤"
-        ],
         "source": "星界召喚",
         "Release date": "2024-03-07",
         "specialId": "leafglow_bloom",
@@ -45421,14 +38862,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "火力吞噬者",
-        "types": [
-            "單體生命汲取",
-            "3個目標元素防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "持續傷害"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "unnatural_pact",
@@ -45490,16 +38923,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "超級麥片粥",
-        "types": [
-            "全體治療",
-            "復活者",
-            "召喚所有"
-        ],
-        "skill_types": [
-            "治療",
-            "召喚小兵",
-            "復活"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "",
         "specialId": "super_porridge",
@@ -45553,16 +38976,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "超麥片粥",
-        "types": [
-            "復活者",
-            "召喚所有",
-            "全體持續治療"
-        ],
-        "skill_types": [
-            "持續治療",
-            "召喚小兵",
-            "復活"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2021-12-01",
         "specialId": "hyper_porridge",
@@ -45622,17 +39035,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "陰險黏液",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有史萊姆惡魔",
-            "偷取增益惡魔"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "增益竊取者",
-            "召喚惡魔",
-            "持續傷害"
-        ],
         "source": "超級元素",
         "Release date": "2024-10-02",
         "specialId": "insidious_goo",
@@ -45693,17 +39095,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "衝鋒",
         "skill": "不屈精神",
-        "types": [
-            "蓄力",
-            "全體強化治療",
-            "全體法力生成增益",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "生命強化",
-            "法力生成增益"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2023-04-05",
         "specialId": "resolute_spirit",
@@ -45767,17 +39158,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "迷人的鏡子",
-        "types": [
-            "敵方傷害分擔",
-            "全體防禦降低",
-            "全體元素反射",
-            "全體元素反擊"
-        ],
-        "skill_types": [
-            "傷害分攤",
-            "防禦減益",
-            "反射"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2025-02-01",
         "specialId": "mesmerizing_mirror",
@@ -45838,15 +39218,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "完美一擲",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "3個目標生命值加成轉換"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "最大生命削減"
-        ],
         "source": "傳奇召喚",
         "Release date": "2024-02-09",
         "specialId": "the_perfect_throw",
@@ -45909,20 +39280,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "保護傳奇",
-        "types": [
-            "全體生命值加成",
-            "全體火風暴護體",
-            "全體增益驅散免疫"
-        ],
-        "skill_types": [
-            "生命強化",
-            "提供免疫",
-            "額外傷害",
-            "反製小兵",
-            "傷害減免",
-            "持續傷害",
-            "防禦減益"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2024-12-03",
         "specialId": "saga_of_protection",
@@ -45984,20 +39341,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "守護曲調",
-        "types": [
-            "全體生命值加成",
-            "全體火風暴護體",
-            "全體增益驅散免疫"
-        ],
-        "skill_types": [
-            "生命強化",
-            "提供免疫",
-            "額外傷害",
-            "反製小兵",
-            "傷害減免",
-            "持續傷害",
-            "防禦減益"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-10-15",
         "specialId": "guarding_tunes",
@@ -46061,19 +39404,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "劃傷、治癒和瘋狂",
-        "types": [
-            "攻擊所有目標",
-            "全體治療",
-            "全體閃避率增益",
-            "閃避時施加瘋狂",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "特殊治療",
-            "閃避",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2025-02-06",
         "specialId": "cut_cure_and_craze",
@@ -46134,17 +39464,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "妖火劈斬",
-        "types": [
-            "攻擊3個目標",
-            "3個目標強化閃避增益",
-            "3個目標延遲攻擊增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "閃避",
-            "攻擊增益",
-            "反製小兵"
-        ],
         "source": "野地召喚",
         "Release date": "2024-08-31",
         "specialId": "feyfire_slash",
@@ -46206,19 +39525,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "衝鋒",
         "skill": "窒息煙霧",
-        "types": [
-            "蓄力",
-            "攻擊 (1/3/所有) 目標",
-            "1/3/全體目標持續傷害",
-            "1/3/全體目標致盲"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "持續傷害",
-            "狙擊手"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2022-02-02",
         "specialId": "suffocating_smoke",
@@ -46283,16 +39589,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "英勇猛刺",
-        "types": [
-            "單體驅散",
-            "攻擊單個目標",
-            "單體屬性防禦減益"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "驅散",
-            "狙擊手"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "specialId": "valiant_lunge",
@@ -46354,18 +39650,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "新穎猛刺",
-        "types": [
-            "單體驅散",
-            "攻擊單個目標",
-            "單體屬性防禦減益"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "驅散",
-            "狙擊手",
-            "額外傷害",
-            "攻擊增益"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-05-25",
         "specialId": "innovative_lunge",
@@ -46432,18 +39716,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "魯莽揮劍",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊2個目標",
-            "命中時觸發持續傷害",
-            "命中時增加流血持續傷害"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "持續傷害",
-            "狙擊手",
-            "額外傷害"
-        ],
         "source": "哥布林召喚",
         "Release date": "2024-09-01",
         "specialId": "reckless_sword_swings",
@@ -46506,19 +39778,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "蒼鷺舞",
-        "types": [
-            "自我復活",
-            "蒼鷺之舞 (4個目標)",
-            "4個目標反擊",
-            "4個目標傷害減免",
-            "4個目標狀態效果免疫"
-        ],
-        "skill_types": [
-            "反擊",
-            "傷害減免",
-            "舞者",
-            "復活"
-        ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2024-01-25",
         "specialId": "dance_of_the_heron",
@@ -46590,17 +39849,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "飛速",
         "skill": "自信策略",
-        "types": [
-            "攻擊所有目標",
-            "全體竊取1個增益",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "增益竊取者",
-            "攻擊增益",
-            "反製小兵"
-        ],
         "source": "月活動 - 農曆新年",
         "Release date": "2024-02-08",
         "specialId": "confident_strategy",
@@ -46662,18 +39910,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "女王的演講",
-        "types": [
-            "嘲諷",
-            "自身持續治療",
-            "全體防禦增益",
-            "全體法力生成增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "持續治療",
-            "法力生成增益",
-            "嘲諷"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2022-12-14",
         "specialId": "the_queens_speech",
@@ -46733,16 +39969,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "咆哮之劍",
-        "types": [
-            "攻擊3個目標",
-            "自我力量提升",
-            "自我持續治療"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊增益",
-            "持續治療"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2021-10-13",
         "specialId": "howling_sword",
@@ -46796,16 +40022,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "鏽蝕利刃",
-        "types": [
-            "攻擊3個目標",
-            "自我力量提升",
-            "自我持續治療"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊增益",
-            "持續治療"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-12-17",
         "specialId": "rusty_blade",
@@ -46867,18 +40083,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "草藥療法",
-        "types": [
-            "摧毀所有惡魔",
-            "全體治療",
-            "全體攻擊力成長",
-            "全體防禦力成長"
-        ],
-        "skill_types": [
-            "反製惡魔",
-            "治療",
-            "屬性修改",
-            "狀態效果轉換"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-10-19",
         "specialId": "herbal_remedies",
@@ -46952,16 +40156,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "世界樹堅果",
-        "types": [
-            "全體治療",
-            "改變棋盤"
-        ],
-        "skill_types": [
-            "改變面板",
-            "攻擊減益",
-            "攻擊增益",
-            "治療"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "",
         "specialId": "nuts_of_yggdrasil",
@@ -47013,16 +40207,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "世界樹之根",
-        "types": [
-            "全體持續治療",
-            "改變棋盤"
-        ],
-        "skill_types": [
-            "改變面板",
-            "攻擊減益",
-            "攻擊增益",
-            "持續治療"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-09-25",
         "specialId": "roots_of_yggdrasil",
@@ -47076,16 +40260,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "混合綠草藥",
-        "types": [
-            "全體治療",
-            "復活者",
-            "月玫瑰守護 (全體)"
-        ],
-        "skill_types": [
-            "傷害減免",
-            "治療",
-            "復活"
-        ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2023-12-20",
         "specialId": "mixed_green_herbs",
@@ -47143,17 +40317,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "熱力學第一定律",
-        "types": [
-            "嘲諷",
-            "全體持續治療",
-            "儲存傷害攻擊全體"
-        ],
-        "skill_types": [
-            "持續治療",
-            "嘲諷",
-            "生命強化",
-            "全體攻擊 (打5)"
-        ],
         "source": "聖約召喚",
         "Release date": "2024-06-06",
         "specialId": "first_law_of_thermodynamics",
@@ -47220,14 +40383,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "元素注入箭",
-        "types": [
-            "攻擊 (1/3/所有) 目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "全體攻擊 (打5)",
-            "狙擊手"
-        ],
         "source": "超級元素",
         "Release date": "2022-12-05",
         "specialId": "elemental_infusion_arrow",
@@ -47283,15 +40438,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "音速注入箭",
-        "types": [
-            "攻擊 (1/3/所有) 目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "全體攻擊 (打5)",
-            "狙擊手",
-            "額外傷害"
-        ],
         "source": "超級元素",
         "Release date": "2025-07-18",
         "specialId": "sonic_infusion_arrow",
@@ -47358,20 +40504,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "無聲劫案",
-        "types": [
-            "攻擊單個目標",
-            "單體沈默者",
-            "單體特殊技能防禦降低",
-            "單體淨化免疫減益",
-            "自身最大生命值降低"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "沈默",
-            "防禦減益",
-            "凈化格擋者",
-            "對自身或友軍負面效果"
-        ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2025-03-31",
         "specialId": "silencing_stick_up",
@@ -47430,16 +40562,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "沙漠祈禱者",
-        "types": [
-            "攻擊單個目標",
-            "全體治療",
-            "全體閃避率增益"
-        ],
-        "skill_types": [
-            "閃避",
-            "特殊治療",
-            "狙擊手"
-        ],
         "source": "三國召喚",
         "Release date": "2023-08-14",
         "specialId": "prayer_of_the_desert",
@@ -47503,16 +40625,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "花卉之力",
-        "types": [
-            "3個目標防禦降低",
-            "攻擊單個目標",
-            "召喚所有"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "召喚小兵",
-            "狙擊手"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-04-01",
         "specialId": "power_of_flora",
@@ -47577,16 +40689,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "哥布林小夜曲",
-        "types": [
-            "全體攻擊衰減",
-            "全體最大生命值降低",
-            "全體特殊技能防禦降低"
-        ],
-        "skill_types": [
-            "屬性修改",
-            "防禦減益",
-            "最大生命削減"
-        ],
         "source": "哥布林召喚",
         "Release date": "2023-09-18",
         "specialId": "goblin_serenade",
@@ -47642,17 +40744,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "兇猛之箭",
-        "types": [
-            "攻擊3個目標",
-            "召喚3個惡魔",
-            "增傷惡魔"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害",
-            "召喚惡魔",
-            "持續傷害"
-        ],
         "source": "挑戰節 II",
         "Release date": "2023-05-18",
         "specialId": "feral_arrows",
@@ -47717,17 +40808,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "無情金牌手",
-        "types": [
-            "封鎖3個目標復活能力",
-            "封鎖3個目標復活效果",
-            "攻擊3個目標",
-            "3個目標衰退"
-        ],
-        "skill_types": [
-            "復活抑製",
-            "範圍攻擊 (打3)",
-            "屬性修改"
-        ],
         "source": "哥布林召喚",
         "Release date": "2025-10-18",
         "specialId": "ruthless_gambit",
@@ -47788,15 +40868,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "潮汐",
         "skill": "難以抵擋的突襲",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有惡魔"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "召喚惡魔",
-            "持續傷害"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-02-01",
         "specialId": "overwhelming_raid",
@@ -47861,15 +40932,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "潮汐",
         "skill": "對立的掠奪",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有惡魔"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "召喚惡魔",
-            "持續傷害"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-02-03",
         "specialId": "opposing_raid",
@@ -47939,17 +41001,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "狂暴穿刺",
-        "types": [
-            "持續無視防禦",
-            "攻擊單個目標",
-            "持續閃避"
-        ],
-        "skill_types": [
-            "繞過",
-            "狙擊手",
-            "閃避",
-            "治療削減"
-        ],
         "source": "聖約召喚",
         "Release date": "2024-11-18",
         "specialId": "fierce_pierce",
@@ -48011,19 +41062,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "生動笛音",
-        "types": [
-            "狂野",
-            "全體治療或全體生命值提升",
-            "全體法力提升",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "持續治療",
-            "生命強化",
-            "特殊治療",
-            "法力提升",
-            "防禦增益"
-        ],
         "source": "生日召喚",
         "Release date": "2026-03-18",
         "specialId": "vibrant_whistle",
@@ -48085,17 +41123,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "野獸槌揮擊",
-        "types": [
-            "攻擊3個目標",
-            "3個目標致盲",
-            "3個目標持續傷害"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益",
-            "持續傷害",
-            "凈化"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2023-02-09",
         "specialId": "mallet_swing_of_the_beast",
@@ -48156,16 +41183,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "慢速",
         "skill": "強浪",
-        "types": [
-            "攻擊3個目標",
-            "莽夫亂拳"
-        ],
-        "skill_types": [
-            "法力削減或格擋",
-            "繞過",
-            "範圍攻擊 (打3)",
-            "傷害分攤"
-        ],
         "source": "星界召喚",
         "Release date": "2024-06-12",
         "specialId": "power_wave",
@@ -48229,19 +41246,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "惡毒陷阱",
-        "types": [
-            "賭博",
-            "攻擊所有目標",
-            "全體持續傷害",
-            "全體狀態異常持續時間重置",
-            "幾率暴擊"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "效果持續重置",
-            "持續傷害",
-            "額外傷害"
-        ],
         "source": "三國召喚",
         "Release date": "2025-08-02",
         "specialId": "vicious_trap",
@@ -48319,18 +41323,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "太古闊劍",
-        "types": [
-            "攻擊 1 個或 3 個目標",
-            "驅散3個目標",
-            "3個目標法力削減"
-        ],
-        "skill_types": [
-            "驅散",
-            "額外傷害",
-            "狙擊手",
-            "範圍攻擊 (打3)",
-            "法力削減或格擋"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2024-07-21",
         "specialId": "primeval_glaive",
@@ -48398,17 +41390,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "猛咬下顎",
-        "types": [
-            "攻擊單個目標",
-            "召喚1個長矛人超級惡魔"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "召喚惡魔",
-            "額外傷害",
-            "攻擊減益",
-            "持續傷害"
-        ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2025-07-28",
         "specialId": "snapping_jaws",
@@ -48472,12 +41453,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "上古武術家",
-        "types": [
-            "攻擊單個目標",
-            "全體反擊",
-            "盟友釋放特殊技能時攻擊全體"
-        ],
-        "skill_types": [],
         "source": "聖約召喚",
         "Release date": "2026-04-28",
         "specialId": "ancient_martial_arts",
@@ -48531,15 +41506,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "衝鋒",
         "skill": "分裂射擊",
-        "types": [
-            "蓄力",
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害",
-            "狙擊手"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2023-07-26",
         "specialId": "splintering_shot",
@@ -48607,14 +41573,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "武術神威",
-        "types": [
-            "全體對泰坦攻擊增益",
-            "全體持續治療"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "持續治療"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "martial_prowess",
@@ -48666,14 +41624,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "凱恩神威",
-        "types": [
-            "全體生命值加成",
-            "全體對泰坦攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "生命強化"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-12-12",
         "specialId": "martial_dance",
@@ -48727,18 +41677,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "休眠之聲",
-        "types": [
-            "攻擊所有目標",
-            "全體沉睡",
-            "全體持續治療"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "持續治療",
-            "法力削減或格擋",
-            "沈睡",
-            "全體攻擊 (打5)"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2023-10-18",
         "specialId": "the_call_to_hibernate",
@@ -48797,19 +41735,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "森林之力",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有",
-            "全體持續治療",
-            "全體法力生成降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊增益",
-            "持續治療",
-            "法力削減或格擋",
-            "召喚小兵"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2020-03-01",
         "specialId": "force_of_forest",
@@ -48874,21 +41799,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "魔法",
         "skill": "人馬怪詩篇",
-        "types": [
-            "蓄力",
-            "全體承受的狀態異常傷害增加",
-            "全體持續傷害",
-            "治療3個目標",
-            "3個目標異常狀態傷害免疫"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "額外傷害",
-            "治療",
-            "提供免疫",
-            "疊加",
-            "法力削減或格擋"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2023-05-03",
         "specialId": "poem_of_the_centaurs",
@@ -48958,25 +41868,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "魔法",
         "skill": "人馬釀造",
-        "types": [
-            "蓄力",
-            "全體承受的狀態異常傷害增加",
-            "全體持續傷害",
-            "處於持續傷害狀態時治療自身",
-            "治療3個目標",
-            "3個目標異常狀態傷害免疫",
-            "企圖施加異常狀態時獲得治療(3個目標)"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "額外傷害",
-            "特殊治療",
-            "治療",
-            "提供免疫",
-            "疊加",
-            "法力削減或格擋",
-            "反製小兵"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-12-27",
         "specialId": "brew_of_the_centaurs",
@@ -49052,17 +41943,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "抓了就跑",
-        "types": [
-            "偷取單個目標法力",
-            "攻擊單個目標",
-            "隨機攻擊4次",
-            "偷取治療 (單體)"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "治療削減",
-            "法力削減或格擋"
-        ],
         "source": "野地召喚",
         "Release date": "2025-09-26",
         "specialId": "grab_and_run",
@@ -49133,14 +42013,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "瘋帽子先生",
-        "types": [
-            "攻擊3個目標",
-            "全體增益竊取者"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "增益竊取者"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "mad_as_a_hatter",
@@ -49192,16 +42064,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "瘋狂茶會",
-        "types": [
-            "攻擊3個目標",
-            "全體增益竊取者",
-            "自身小怪召喚師"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "增益竊取者",
-            "召喚小兵"
-        ],
         "source": "挑戰節 I",
         "Release date": "2024-04-18",
         "specialId": "mad_tea_party",
@@ -49261,19 +42123,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "報到值勤",
-        "types": [
-            "攻擊所有目標",
-            "全體異常狀態持續時間縮短3回合",
-            "全體增益持續時間縮短3回合",
-            "全體防禦增益",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦增益",
-            "防禦減益",
-            "效果持續重置"
-        ],
         "source": "哥布林召喚",
         "Release date": "2024-07-07",
         "specialId": "reporting_for_duty",
@@ -49347,16 +42196,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "加速成長",
-        "types": [
-            "全體治療",
-            "全體法力持續恢復",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "凈化",
-            "治療",
-            "法力提升"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-02-11",
         "specialId": "accelerated_growth",
@@ -49414,17 +42253,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "興盛成長",
-        "types": [
-            "全體強化治療",
-            "全體法力持續恢復",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "凈化",
-            "持續傷害",
-            "生命強化",
-            "法力提升"
-        ],
         "source": "挑戰節 II",
         "Release date": "2025-06-15",
         "specialId": "blooming_growth",
@@ -49488,12 +42316,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "貪婪咀嚼",
-        "types": [
-            "攻擊單個目標",
-            "寶箱怪",
-            "全體普通攻擊增益"
-        ],
-        "skill_types": [],
         "source": "市場召喚",
         "Release date": "2026-05-02",
         "specialId": "gluttonous_chomp_green",
@@ -49575,20 +42397,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "審判與懺悔",
-        "types": [
-            "攻擊單個目標",
-            "阻擋狀態效果施放 (單體)",
-            "隨機攻擊1個目標",
-            "單個目標每次抵抗治療時受到傷害"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "繞過",
-            "連鎖與隨機攻擊",
-            "狀態效果格擋",
-            "治療削減",
-            "法力提升"
-        ],
         "source": "星界召喚",
         "Release date": "2025-12-24",
         "specialId": "judgment_and_penance",
@@ -49659,14 +42467,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "沼澤之歌",
-        "types": [
-            "攻擊3個目標",
-            "全體致盲"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益"
-        ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "specialId": "song_of_the_morass",
@@ -49722,14 +42522,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "沼澤之詩",
-        "types": [
-            "攻擊3個目標",
-            "全體致盲"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益"
-        ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2024-07-22",
         "specialId": "poem_of_the_morass",
@@ -49787,14 +42579,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "黏液審判",
-        "types": [
-            "攻擊3個目標",
-            "全體粘性表面增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "增益竊取者"
-        ],
         "source": "超級元素",
         "Release date": "2025-07-04",
         "specialId": "judgement_of_goo",
@@ -49853,16 +42637,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "共享憐憫",
-        "types": [
-            "攻擊2個目標",
-            "2個目標傷害鏈接",
-            "2個目標盲目治療"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "額外傷害",
-            "失心攻擊&治療"
-        ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2026-01-19",
         "specialId": "shared_compassion",
@@ -49921,16 +42695,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "俯衝之爪",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害",
-            "全體致盲"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "攻擊減益"
-        ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2024-03-13",
         "specialId": "swooping_talon",
@@ -49994,17 +42758,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "枯萎季節",
-        "types": [
-            "摧毀3個目標的小兵",
-            "攻擊3個目標",
-            "3個目標持續傷害"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "反製小兵",
-            "閃避"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-02-01",
         "specialId": "withering_seasons",
@@ -50070,19 +42823,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "舞者",
         "skill": "活力雄獅斬",
-        "types": [
-            "安全驅散1個目標",
-            "靈魂斬擊命中 (單體)",
-            "2個目標活力福運之舞增益"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "驅散",
-            "舞者",
-            "防禦增益",
-            "額外傷害",
-            "傷害減免"
-        ],
         "source": "月活動 - 鴻運召喚",
         "Release date": "2026-02-17",
         "specialId": "slash_of_the_vibrant_lion",
@@ -50151,18 +42891,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "騷亂牧歌",
-        "types": [
-            "攻擊單個目標",
-            "連鎖",
-            "命中時攻擊降低",
-            "命中時增益免疫"
-        ],
-        "skill_types": [
-            "增益格擋者",
-            "連鎖與隨機攻擊",
-            "攻擊減益",
-            "狙擊手"
-        ],
         "source": "挑戰節 II",
         "Release date": "2022-08-11",
         "specialId": "madrigal_of_mayhem",
@@ -50222,19 +42950,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "法力操控法杖",
-        "types": [
-            "攻擊單個目標",
-            "攻擊全體 (冰)",
-            "命中時法力全滿造成傷害",
-            "命中時法力全滿降低法力",
-            "改變棋盤"
-        ],
-        "skill_types": [
-            "改變面板",
-            "法力削減或格擋",
-            "狙擊手",
-            "連鎖與隨機攻擊"
-        ],
         "source": "超級元素",
         "Release date": "2022-12-05",
         "specialId": "staff_of_mana_control",
@@ -50301,21 +43016,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "法力控制旋律",
-        "types": [
-            "攻擊單個目標",
-            "攻擊全體 (冰)",
-            "命中時法力全滿造成傷害",
-            "命中時法力全滿降低法力",
-            "改變棋盤",
-            "全體冰系元素防禦降低"
-        ],
-        "skill_types": [
-            "改變面板",
-            "法力削減或格擋",
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "防禦減益"
-        ],
         "source": "超級元素",
         "Release date": "2025-12-07",
         "specialId": "melody_of_mana_control",
@@ -50389,16 +43089,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "森林之力",
-        "types": [
-            "攻擊所有目標",
-            "自身威力提升",
-            "全體法力腐蝕"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊增益",
-            "法力腐敗"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2023-10-18",
         "specialId": "power_of_the_forest",
@@ -50461,19 +43151,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "利刃風暴",
-        "types": [
-            "幾率暴擊",
-            "攻擊所有目標",
-            "每回合隨機攻擊單體",
-            "造成傷害時提升生命值"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "連鎖與隨機攻擊",
-            "特殊治療",
-            "生命強化"
-        ],
         "source": "三國召喚",
         "Release date": "2026-03-28",
         "specialId": "storm_of_blades",
@@ -50540,17 +43217,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "避邪",
-        "types": [
-            "全體治療",
-            "全體移除1個狀態異常",
-            "全體減益反射機率"
-        ],
-        "skill_types": [
-            "凈化",
-            "治療",
-            "反射",
-            "反製小兵"
-        ],
         "source": "月活動 - 農曆新年",
         "Release date": "2025-01-27",
         "specialId": "warding_off_evil",
@@ -50612,21 +43278,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "折磨長槍",
-        "types": [
-            "攻擊單個目標",
-            "自我強化治療",
-            "共鳴持續傷害 (單體)",
-            "若生命值加成則攻擊隨機單個目標"
-        ],
-        "skill_types": [
-            "繞過",
-            "狙擊手",
-            "特殊治療",
-            "生命強化",
-            "連鎖與隨機攻擊",
-            "持續傷害",
-            "額外傷害"
-        ],
         "source": "星界召喚",
         "Release date": "2025-10-23",
         "specialId": "lance_of_torment",
@@ -50695,18 +43346,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "沙暴",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害",
-            "全體治療降低",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "凈化",
-            "持續傷害",
-            "治療削減"
-        ],
         "source": "月活動 - 海灘派對",
         "Release date": "",
         "specialId": "kings_curse",
@@ -50763,18 +43402,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "抹煞",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害",
-            "全體法力生成增益",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "凈化",
-            "持續傷害",
-            "法力生成增益"
-        ],
         "source": "月活動 - 海灘派對",
         "Release date": "2021-06-21",
         "specialId": "sand_wave_yunan",
@@ -50837,18 +43464,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "深淵飛鏢",
-        "types": [
-            "攻擊單個目標",
-            "隨機額外攻擊",
-            "命中時瘋狂",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "額外傷害",
-            "狙擊手",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2024-06-30",
         "specialId": "darts_of_the_deep",
@@ -50908,18 +43523,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "翠綠閃電",
-        "types": [
-            "攻擊所有目標",
-            "全體攻擊降低",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "驅散",
-            "額外傷害",
-            "法力生成增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2018-02-01",
         "specialId": "emerald_flash",
@@ -50984,19 +43587,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "羽毛閃電",
-        "types": [
-            "全體驅散",
-            "攻擊所有目標",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "驅散",
-            "額外傷害",
-            "凈化",
-            "法力生成增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-12-19",
         "specialId": "plume_flash",
@@ -51067,19 +43657,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "綠玻隕石之翼",
-        "types": [
-            "攻擊3個目標",
-            "3個目標綠玻隕石貓頭鷹惡魔",
-            "魔僕每回合驅散 1 個增益",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "召喚惡魔",
-            "驅散",
-            "失心攻擊&治療",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2026-02-06",
         "specialId": "moldavite_wings",
@@ -51159,16 +43736,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "鑰匙刀颱風",
-        "types": [
-            "攻擊單個目標",
-            "單體法力提升",
-            "單體莽夫亂拳"
-        ],
-        "skill_types": [
-            "失心攻擊&治療",
-            "狙擊手",
-            "法力提升"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2020-08-01",
         "specialId": "keyknife_typhoon",
@@ -51226,18 +43793,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "懸浮滑板猛撞",
-        "types": [
-            "攻擊單個目標",
-            "若是冰屬性則攻擊 4 個目標",
-            "命中時攻擊降低",
-            "命中時防禦減益"
-        ],
-        "skill_types": [
-            "攻擊減益",
-            "防禦減益",
-            "狙擊手",
-            "全體攻擊 (打5)"
-        ],
         "source": "超級元素",
         "Release date": "2023-08-14",
         "specialId": "hoverboard_slam",
@@ -51301,14 +43856,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "懸浮滑板撞擊",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦",
-            "若是冰屬性則攻擊 4 個目標",
-            "命中時攻擊降低",
-            "命中時防禦減益"
-        ],
-        "skill_types": [],
         "source": "超級元素",
         "Release date": "2026-04-24",
         "specialId": "hoverboard_crash",
@@ -51365,12 +43912,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "背刺",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "backstab",
@@ -51410,12 +43951,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "專注射擊",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "focused_shot",
@@ -51455,12 +43990,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "專注射擊",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "focused_shot",
@@ -51500,12 +44029,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "劇毒利刃",
-        "types": [
-            "單體持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "poisoned_blade",
@@ -51545,12 +44068,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "攻擊動員",
-        "types": [
-            "攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "attack_rally",
@@ -51590,14 +44107,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "藥劑師行囊",
-        "types": [
-            "全體治療",
-            "治療降低"
-        ],
-        "skill_types": [
-            "治療",
-            "治療削減"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2021-10-13",
         "specialId": "apothecary_kit",
@@ -51649,13 +44158,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "慢速",
         "skill": "部族之怒",
-        "types": [
-            "自我攻擊增益",
-            "全體延遲傷害"
-        ],
-        "skill_types": [
-            "攻擊增益"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
         "specialId": "tribal_rage",
@@ -51706,16 +44208,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "縱身一躍",
-        "types": [
-            "攻擊3個目標",
-            "3個目標閃避率增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦增益",
-            "閃避",
-            "疊加"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "one_jump_ahead",
@@ -51774,16 +44266,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "先行施咒",
-        "types": [
-            "攻擊3個目標",
-            "3個目標閃避率增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "閃避",
-            "疊加",
-            "防禦增益"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-08-10",
         "specialId": "one_spell_ahead",
@@ -51849,12 +44331,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "電子震顫",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "electric_jolt",
@@ -51900,14 +44376,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "劇毒震顫",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2020-05-18",
         "specialId": "poison_jolt",
@@ -51962,13 +44430,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "公仔震顫",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2024-01-22",
         "specialId": "toon_jolt",
@@ -52026,14 +44487,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "玻璃震顫",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦"
-        ],
-        "skill_types": [
-            "繞過",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2025-03-11",
         "specialId": "glass_jolt",
@@ -52091,13 +44544,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "有型震顫",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2026-03-12",
         "specialId": "stylish_jolt",
@@ -52155,15 +44601,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "尖頭飛鏢",
-        "types": [
-            "攻擊3個目標",
-            "2個目標軟膚"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "傷害減免",
-            "提供免疫"
-        ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2024-05-16",
         "specialId": "pointy_darts",
@@ -52219,15 +44656,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "二連斬",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊1個目標"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "額外傷害",
-            "狙擊手"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "",
         "specialId": "dual_slash",
@@ -52280,16 +44708,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "賦能連斬",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊1個目標",
-            "命中時施加法力生成減益"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-07-04",
         "specialId": "empowered_slash",
@@ -52350,11 +44768,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "雙公仔連斬",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊1個目標"
-        ],
-        "skill_types": [],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2026-04-29",
         "specialId": "dual_toon_slash",
@@ -52402,15 +44815,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "不變教條",
-        "types": [
-            "改變棋盤"
-        ],
-        "skill_types": [
-            "改變面板",
-            "法力生成增益",
-            "法力削減或格擋",
-            "傷害減免"
-        ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2022-05-12",
         "specialId": "abiding_dogma",
@@ -52460,14 +44864,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "罪惡之光",
-        "types": [
-            "攻擊3個目標",
-            "3個目標法力生成降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "法力削減或格擋"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "unholy_light",
@@ -52519,13 +44915,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "瘋狂戳刺",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "增益格擋者",
-            "狙擊手"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-02-11",
         "specialId": "crazed_lunge",
@@ -52578,16 +44967,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "衰退輓歌",
-        "types": [
-            "全體防禦降低",
-            "全體攻擊降低",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "凈化",
-            "攻擊減益",
-            "防禦減益"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "song_of_regression",
@@ -52637,16 +45016,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "慢速",
         "skill": "狩獵輓歌",
-        "types": [
-            "全體防禦增益",
-            "全體攻擊增益",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "防禦增益",
-            "驅散"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-04-03",
         "specialId": "lament_of_the_hunt",
@@ -52702,12 +45071,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "公仔輓歌",
-        "types": [
-            "全體防禦降低",
-            "全體攻擊降低",
-            "全體淨化"
-        ],
-        "skill_types": [],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toon_lament",
@@ -52755,17 +45118,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "非常慢",
         "skill": "斷株收割",
-        "types": [
-            "攻擊所有目標",
-            "擊殺時法力提升"
-        ],
-        "skill_types": [
-            "法力提升",
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "凈化",
-            "持續傷害"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2023-02-09",
         "specialId": "stubby_reap",
@@ -52825,13 +45177,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "無情撕咬",
-        "types": [
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "merciless_bite",
@@ -52883,14 +45228,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "爆炸古燈",
-        "types": [
-            "攻擊單個目標",
-            "炸彈"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "範圍攻擊 (打3)"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2020-10-26",
         "specialId": "explosive_o_lantern",
@@ -52946,19 +45283,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "殺手",
         "skill": "刺客之刃",
-        "types": [
-            "攻擊3個目標",
-            "防禦降低",
-            "疊加"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "特殊治療",
-            "疊加",
-            "法力生成增益",
-            "持續治療"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-08-05",
         "specialId": "assassins_blades",
@@ -53022,15 +45346,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "衝鋒",
         "skill": "詛咒煙霧",
-        "types": [
-            "蓄力",
-            "全體持續傷害",
-            "全體致盲"
-        ],
-        "skill_types": [
-            "攻擊減益",
-            "持續傷害"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2023-07-26",
         "specialId": "cursed_fumes",
@@ -53092,19 +45407,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "挖洞",
-        "types": [
-            "自身淨化",
-            "自身隱藏/潛行",
-            "延遲隨機攻擊單體",
-            "延遲單體法力獲取凍結"
-        ],
-        "skill_types": [
-            "凈化",
-            "鬼魂形態與隱藏",
-            "法力削減或格擋",
-            "疊加",
-            "連鎖與隨機攻擊"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "specialId": "dig_a_hole",
@@ -53170,19 +45472,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "挖洞",
-        "types": [
-            "自身淨化",
-            "自身隱藏/潛行",
-            "延遲隨機攻擊單體",
-            "延遲單體法力獲取凍結"
-        ],
-        "skill_types": [
-            "疊加",
-            "鬼魂形態與隱藏",
-            "法力削減或格擋",
-            "凈化",
-            "連鎖與隨機攻擊"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-05-23",
         "specialId": "carve_a_hole",
@@ -53250,14 +45539,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "劇毒陷阱",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "toxic_traps",
@@ -53310,12 +45591,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "劇毒詭計",
-        "types": [
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "toxic_tricks",
@@ -53368,15 +45643,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "公仔陷阱",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-08-11",
         "specialId": "toon_traps",
@@ -53441,16 +45707,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "玻璃陷阱",
-        "types": [
-            "攻擊所有目標",
-            "無視防禦",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "繞過"
-        ],
         "source": "服裝間",
         "Release date": "2025-09-07",
         "specialId": "glass_traps_oberon",
@@ -53515,14 +45771,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "熟稔巫術",
-        "types": [
-            "全體治療",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "攻擊減益",
-            "治療"
-        ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "specialId": "familiar_witchcraft",
@@ -53578,14 +45826,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "流血戳擊",
-        "types": [
-            "攻擊單個目標",
-            "自我治療"
-        ],
-        "skill_types": [
-            "特殊治療",
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "bleeding_stab",
@@ -53637,14 +45877,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "流血推力",
-        "types": [
-            "攻擊3個目標",
-            "自我治療"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "特殊治療"
-        ],
         "source": "服裝間",
         "Release date": "2020-05-18",
         "specialId": "bleeding_thrust",
@@ -53698,15 +45930,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "公仔戳擊",
-        "types": [
-            "攻擊單個目標",
-            "自我治療"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "特殊治療",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2024-02-12",
         "specialId": "toon_stab",
@@ -53766,16 +45989,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "玻璃戳擊",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦",
-            "自我治療"
-        ],
-        "skill_types": [
-            "繞過",
-            "特殊治療",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2025-04-08",
         "specialId": "glass_stab",
@@ -53835,11 +46048,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "時尚戳擊",
-        "types": [
-            "攻擊單個目標",
-            "自我治療"
-        ],
-        "skill_types": [],
         "source": "服裝間",
         "Release date": "2026-04-10",
         "specialId": "stylish_stab",
@@ -53877,7 +46085,19 @@ window.allHeroes =
             "health": 1385,
             "power": 745
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：單一目標"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "治療-透過傷害治療",
+                    "傷害-額外傷害"
+                ]
+            }
+        ]
     },
     {
         "name": "雷恩菲爾德 (Renfeld)",
@@ -53887,14 +46107,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "水蛭之星",
-        "types": [
-            "攻擊單個目標",
-            "自我治療"
-        ],
-        "skill_types": [
-            "特殊治療",
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "leeching_stars",
@@ -53946,15 +46158,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "水蛭之鋸",
-        "types": [
-            "攻擊單個目標",
-            "偷取3個目標法力"
-        ],
-        "skill_types": [
-            "法力提升",
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2020-05-18",
         "specialId": "leeching_saw",
@@ -54008,15 +46211,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "公仔星星",
-        "types": [
-            "攻擊單個目標",
-            "自我治療"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "特殊治療",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-09-08",
         "specialId": "toon_stars",
@@ -54076,16 +46270,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "玻璃星星",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦",
-            "自我治療"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "特殊治療",
-            "繞過"
-        ],
         "source": "服裝間",
         "Release date": "2025-11-25",
         "specialId": "glass_leeching_stars_renfeld",
@@ -54145,18 +46329,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "非常慢",
         "skill": "古老恐懼",
-        "types": [
-            "攻擊所有目標",
-            "攻擊降低",
-            "防禦降低",
-            "法力生成降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "防禦減益",
-            "法力削減或格擋"
-        ],
         "source": "挑戰節 I",
         "Release date": "2021-12-15",
         "specialId": "archaic_dread",
@@ -54212,14 +46384,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "刺穿一擊",
-        "types": [
-            "攻擊單個目標",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "驅散",
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "piercing_hit",
@@ -54271,14 +46435,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "淨化敲擊",
-        "types": [
-            "攻擊單個目標",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "凈化",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2020-01-01",
         "specialId": "purifying_hit",
@@ -54332,15 +46488,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "公仔打擊",
-        "types": [
-            "攻擊單個目標",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "驅散",
-            "狙擊手",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-10-06",
         "specialId": "toon_hit",
@@ -54404,16 +46551,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "玻璃一擊",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "驅散",
-            "狙擊手",
-            "繞過"
-        ],
         "source": "服裝間",
         "Release date": "2025-12-11",
         "specialId": "glass_piercing_hit_tyrum",
@@ -54477,15 +46614,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "飛速",
         "skill": "回火之刃",
-        "types": [
-            "攻擊單個目標",
-            "隨機1個狀態異常來源"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "額外傷害",
-            "防禦減益"
-        ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2025-02-13",
         "specialId": "tempered_blade",
@@ -54551,15 +46679,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "飛速",
         "skill": "悲情黎明",
-        "types": [
-            "單體持續傷害",
-            "偷取治療 (單體)"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "特殊治療",
-            "治療削減"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "",
         "specialId": "lords_blood_poisoning",
@@ -54615,14 +46734,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "木乃伊斬擊",
-        "types": [
-            "攻擊3個目標",
-            "擊殺時全體法力提升"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "法力提升"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "mummy_slash",
@@ -54680,14 +46791,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "木乃伊打擊",
-        "types": [
-            "攻擊3個目標",
-            "擊殺時全體法力提升"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "法力提升"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-07-13",
         "specialId": "mummy_strike",
@@ -54752,16 +46855,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "幽靈",
-        "types": [
-            "自我完全移除",
-            "自身幽靈化",
-            "幽靈化期間自身攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "凈化",
-            "鬼魂形態與隱藏"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "ethereal",
@@ -54810,19 +46903,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "野鬼",
-        "types": [
-            "自我完全移除",
-            "自身幽靈化",
-            "幽靈形態下全體防禦增益",
-            "幽靈形態下全體持續治療"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "鬼魂形態與隱藏",
-            "持續治療",
-            "疊加",
-            "凈化"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-02",
         "specialId": "yurei",
@@ -54879,17 +46959,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "衝鋒",
         "skill": "刃影殘光",
-        "types": [
-            "蓄力",
-            "1/3/全體目標驅散者",
-            "攻擊 (1/3/所有) 目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "全體攻擊 (打5)",
-            "驅散",
-            "狙擊手"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "specialId": "blur_of_steel",
@@ -54948,18 +47017,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "整理乾淨！",
-        "types": [
-            "全體驅散",
-            "全體淨化",
-            "全體治療"
-        ],
-        "skill_types": [
-            "凈化",
-            "驅散",
-            "治療",
-            "特殊治療",
-            "對自身或友軍負面效果"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2022-10-03",
         "specialId": "tidy_up",
@@ -55022,18 +47079,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "盛裝打扮！",
-        "types": [
-            "全體驅散",
-            "全體淨化",
-            "全體治療"
-        ],
-        "skill_types": [
-            "凈化",
-            "驅散",
-            "治療",
-            "特殊治療",
-            "對自身或友軍負面效果"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2025-10-08",
         "specialId": "dress_up",
@@ -55098,14 +47143,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "冥河",
         "skill": "藥水調酒",
-        "types": [
-            "蓄力"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊增益",
-            "防禦減益"
-        ],
         "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
         "specialId": "potion_cocktail",
@@ -55177,14 +47214,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "葬身魚腹",
-        "types": [
-            "攻擊所有目標",
-            "3個目標元素防禦增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦增益"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "watery_grave",
@@ -55236,15 +47265,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "粲然一笑",
-        "types": [
-            "重新部署",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "持續傷害",
-            "重排隊伍"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "dazzling_grin",
@@ -55299,15 +47319,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "剃刀微笑",
-        "types": [
-            "重新部署",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "持續傷害",
-            "重排隊伍"
-        ],
         "source": "挑戰節 I",
         "Release date": "2023-10-05",
         "specialId": "razor_smile",
@@ -55364,15 +47375,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "大劫案",
-        "types": [
-            "偷取1個小兵",
-            "攻擊單個目標",
-            "小兵格擋負面效果"
-        ],
-        "skill_types": [
-            "反製小兵",
-            "狙擊手"
-        ],
         "source": "挑戰節 II",
         "Release date": "2022-11-03",
         "specialId": "grand_heist",
@@ -55436,12 +47438,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "完美還擊",
-        "types": [
-            "3個目標反擊"
-        ],
-        "skill_types": [
-            "反擊"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "perfect_riposte",
@@ -55487,12 +47483,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "致命還擊",
-        "types": [
-            "全體反擊"
-        ],
-        "skill_types": [
-            "反擊"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "deadly_riposte",
@@ -55540,16 +47530,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "精準還擊",
-        "types": [
-            "3個目標反擊",
-            "3個目標反擊時獲得法力",
-            "3個目標傷害減免"
-        ],
-        "skill_types": [
-            "反擊",
-            "傷害減免",
-            "法力提升"
-        ],
         "source": "服裝間",
         "Release date": "2023-04-17",
         "specialId": "precise_riposte",
@@ -55601,12 +47581,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "公仔精彩還擊",
-        "types": [
-            "3個目標反擊"
-        ],
-        "skill_types": [
-            "反擊"
-        ],
         "source": "服裝間",
         "Release date": "2024-04-08",
         "specialId": "toontastic_riposte",
@@ -55658,14 +47632,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "玻璃還擊",
-        "types": [
-            "3個目標反擊",
-            "暗屬性隊友反射異常狀態",
-            "暗屬性隊友反射疊加效果"
-        ],
-        "skill_types": [
-            "反擊"
-        ],
         "source": "服裝間",
         "Release date": "2025-04-23",
         "specialId": "glass_riposte",
@@ -55719,11 +47685,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "時尚還擊",
-        "types": [
-            "3個目標反擊",
-            "全體持續治療"
-        ],
-        "skill_types": [],
         "source": "服裝間",
         "Release date": "2026-05-09",
         "specialId": "stylish_riposte_cyprian",
@@ -55770,17 +47731,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "憂鬱曲調",
-        "types": [
-            "攻擊3個目標",
-            "召喚3個小兵",
-            "3個目標元素反射",
-            "3個目標元素反擊"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "召喚小兵",
-            "反射"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2023-12-01",
         "specialId": "gloomy_tune",
@@ -55838,17 +47788,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "毒牙藥水",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續性傷害",
-            "3個目標法力生成降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "法力削減或格擋",
-            "治療削減"
-        ],
         "source": "聖約召喚",
         "Release date": "2025-07-06",
         "specialId": "venomfang_concoction",
@@ -55907,16 +47846,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "夜林花粉",
-        "types": [
-            "攻擊所有目標",
-            "全體最大生命值降低",
-            "全體治療降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "治療削減",
-            "最大生命削減"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
         "specialId": "nightglade_pollen",
@@ -55970,16 +47899,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "夜綻煙塵",
-        "types": [
-            "攻擊3個目標",
-            "3個目標法力削減",
-            "3個目標治療降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "治療削減",
-            "法力削減或格擋"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-01-16",
         "specialId": "nightbloom_dust",
@@ -56039,12 +47958,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "公仔林地花粉",
-        "types": [
-            "攻擊所有目標",
-            "全體最大生命值降低",
-            "全體治療降低"
-        ],
-        "skill_types": [],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2026-04-29",
         "specialId": "toonglade_pollen",
@@ -56093,18 +48006,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "飛沙狂風",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害",
-            "單體治療降低",
-            "自身淨化"
-        ],
-        "skill_types": [
-            "凈化",
-            "持續傷害",
-            "治療削減",
-            "狙擊手"
-        ],
         "source": "月活動 - 海灘派對",
         "Release date": "",
         "specialId": "viziers_curse",
@@ -56161,16 +48062,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "黑色流蘇長槍針尖",
-        "types": [
-            "攻擊單個目標",
-            "單體異常狀態重置",
-            "單體防禦降低"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "效果持續重置",
-            "狙擊手"
-        ],
         "source": "三國召喚",
         "Release date": "2023-02-27",
         "specialId": "black_tassel_spear_sting",
@@ -56228,18 +48119,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "削弱利刃",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "法力削減或格擋",
-            "效果持續重置",
-            "額外傷害",
-            "反製小兵"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-02-11",
         "specialId": "draining_blade",
@@ -56299,18 +48178,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "飛沙狂風",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "3個目標治療降低",
-            "自身淨化"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "凈化",
-            "持續傷害",
-            "治療削減"
-        ],
         "source": "月活動 - 海灘派對",
         "Release date": "",
         "specialId": "towers_curse",
@@ -56367,16 +48234,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "惡意捲軸",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "額外傷害",
-            "特殊治療"
-        ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2024-02-14",
         "specialId": "scroll_of_spite",
@@ -56441,17 +48298,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "仁慈之花",
-        "types": [
-            "全體強化治療",
-            "全體反射狀態異常",
-            "自我防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "生命強化",
-            "反射",
-            "持續治療"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2023-03-08",
         "specialId": "flower_of_kindness",
@@ -56509,17 +48355,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "仁慈之果",
-        "types": [
-            "全體強化治療",
-            "全體反射狀態異常",
-            "自身特技防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "生命強化",
-            "反射",
-            "持續治療"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2026-02-20",
         "specialId": "fruits_of_kindness",
@@ -56581,14 +48416,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "野性揮擊",
-        "types": [
-            "攻擊單個目標",
-            "防禦降低"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "狙擊手"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2023-10-18",
         "specialId": "feral_swing",
@@ -56645,17 +48472,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "能量咒法",
-        "types": [
-            "3名盟友傷害分擔",
-            "3名敵方傷害分擔",
-            "元素防禦增益",
-            "元素防禦降低"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "傷害分攤",
-            "防禦減益"
-        ],
         "source": "超級元素",
         "Release date": "2023-11-06",
         "specialId": "energy_conjunction",
@@ -56718,14 +48534,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "飛速",
         "skill": "劇毒箭",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "狙擊手"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2022-10-15",
         "specialId": "poison_tipped_arrow",
@@ -56784,15 +48592,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "奧術爆裂",
-        "types": [
-            "攻擊單個目標",
-            "莽夫亂拳"
-        ],
-        "skill_types": [
-            "失心攻擊&治療",
-            "狙擊手",
-            "額外傷害"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "arcane_blast",
@@ -56850,15 +48649,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "脈衝爆裂",
-        "types": [
-            "攻擊3個目標",
-            "莽夫亂拳"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "失心攻擊&治療",
-            "額外傷害"
-        ],
         "source": "挑戰節 I",
         "Release date": "2023-04-20",
         "specialId": "pulsar_blast",
@@ -56918,14 +48708,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "深淵刀疤",
-        "types": [
-            "3個目標持續傷害",
-            "3個目標法力獲取凍結"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "法力削減或格擋"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "scar_of_the_depths",
@@ -56978,14 +48760,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "深處的詛咒",
-        "types": [
-            "全體持續傷害",
-            "全體法力生成降低"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "法力削減或格擋"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-04-03",
         "specialId": "curse_of_the_depths",
@@ -57040,11 +48814,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "深淵公仔",
-        "types": [
-            "3個目標持續傷害",
-            "3個目標法力獲取凍結"
-        ],
-        "skill_types": [],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toon_of_the_depths",
@@ -57092,14 +48861,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "淨化",
-        "types": [
-            "全體治療",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "凈化",
-            "治療"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "purification",
@@ -57151,16 +48912,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "重生",
-        "types": [
-            "全體持續治療",
-            "全體攻擊增益",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "凈化",
-            "持續治療"
-        ],
         "source": "服裝間",
         "Release date": "2020-01-01",
         "specialId": "regeneration",
@@ -57220,16 +48971,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "變身",
-        "types": [
-            "全體生命值加成",
-            "全體防禦增益",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "凈化",
-            "生命強化"
-        ],
         "source": "服裝間",
         "Release date": "2023-04-17",
         "specialId": "transfigure",
@@ -57289,16 +49030,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "公仔化",
-        "types": [
-            "全體治療",
-            "全體防禦增益",
-            "淨化者"
-        ],
-        "skill_types": [
-            "凈化",
-            "治療",
-            "防禦增益"
-        ],
         "source": "服裝間",
         "Release date": "2024-06-28",
         "specialId": "adorable_purification",
@@ -57362,17 +49093,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "玻璃化",
-        "types": [
-            "全體治療",
-            "暗屬性隊友反射異常狀態",
-            "暗屬性隊友反射疊加效果",
-            "淨化者"
-        ],
-        "skill_types": [
-            "治療",
-            "反射",
-            "凈化"
-        ],
         "source": "服裝間",
         "Release date": "2025-07-16",
         "specialId": "glass_purification",
@@ -57436,18 +49156,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "約束契約",
-        "types": [
-            "攻擊單個目標",
-            "單體狂亂",
-            "靈魂綁定 (單體)",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "傷害分攤",
-            "失心攻擊&治療",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2025-12-03",
         "specialId": "binding_contract",
@@ -57511,14 +49219,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "墮落塵霧",
-        "types": [
-            "全體治療",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "驅散",
-            "治療"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "fog_of_the_fallen",
@@ -57570,16 +49270,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "墮落之霾",
-        "types": [
-            "全體持續治療",
-            "全體增益免疫",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "增益格擋者",
-            "驅散",
-            "持續治療"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "haze_of_the_deceased",
@@ -57639,16 +49329,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "墮落迷霧",
-        "types": [
-            "全體持續治療",
-            "全體狀態異常免疫",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "凈化",
-            "持續治療",
-            "提供免疫"
-        ],
         "source": "服裝間",
         "Release date": "2023-11-27",
         "specialId": "mist_of_the_fallen",
@@ -57708,16 +49388,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "公仔迷霧",
-        "types": [
-            "全體治療",
-            "全體防禦增益",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "驅散",
-            "治療"
-        ],
         "source": "服裝間",
         "Release date": "2024-10-06",
         "specialId": "fog_of_the_toons",
@@ -57777,17 +49447,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "彩繪玻璃迷霧",
-        "types": [
-            "全體治療",
-            "暗屬性隊友反射異常狀態",
-            "暗屬性隊友反射疊加效果",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "驅散",
-            "治療",
-            "反射"
-        ],
         "source": "服裝間",
         "Release date": "2025-11-25",
         "specialId": "fog_of_the_glass_sabina",
@@ -57847,16 +49506,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "魔法",
         "skill": "午夜明月",
-        "types": [
-            "蓄力",
-            "全體元素防禦降低",
-            "全體普通攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "防禦減益",
-            "全體攻擊 (打5)"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "specialId": "midnight_moon",
@@ -57915,13 +49564,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "潮汐",
         "skill": "關鍵戰術",
-        "types": [
-            "全體對泰坦攻擊增益",
-            "全體暴擊幾率增益"
-        ],
-        "skill_types": [
-            "攻擊增益"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-06-07",
         "specialId": "critical_tactics",
@@ -57980,13 +49622,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "潮汐",
         "skill": "極限野炊",
-        "types": [
-            "全體對泰坦攻擊增益",
-            "全體暴擊幾率增益"
-        ],
-        "skill_types": [
-            "攻擊增益"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-02-03",
         "specialId": "critical_cookout",
@@ -58050,17 +49685,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "瘋狂燈籠",
-        "types": [
-            "攻擊所有目標",
-            "全體狂亂",
-            "全體增益免疫",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "增益格擋者",
-            "全體攻擊 (打5)",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2025-01-09",
         "specialId": "lantern_of_insanity",
@@ -58115,17 +49739,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "暗影側步",
-        "types": [
-            "攻擊2個目標",
-            "2個目標持續傷害"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "持續傷害",
-            "額外傷害",
-            "閃避",
-            "反製小兵"
-        ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-01-23",
         "specialId": "shadow_sidestep",
@@ -58182,16 +49795,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "恐怖幽靈",
-        "types": [
-            "幽靈形態"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "凈化",
-            "鬼魂形態與隱藏",
-            "疊加",
-            "全體攻擊 (打5)"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "",
         "specialId": "dire_ghost",
@@ -58246,16 +49849,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "掠奪之刃",
-        "types": [
-            "攻擊單個目標",
-            "攻擊所有被血百合標記目標",
-            "對所有被血百合標記目標施加持續傷害"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "持續傷害"
-        ],
         "source": "月活動 - 腥紅盛宴",
         "Release date": "2025-10-08",
         "specialId": "ravening_blade",
@@ -58314,14 +49907,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "錘擊粉碎",
-        "types": [
-            "攻擊3個目標",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "ramming_pulverizer",
@@ -58373,14 +49958,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "粉碎交響",
-        "types": [
-            "攻擊所有目標",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦減益"
-        ],
         "source": "服裝間",
         "Release date": "2020-01-01",
         "specialId": "symphonic_pulverizer",
@@ -58434,14 +50011,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "優雅粉碎",
-        "types": [
-            "攻擊3個目標",
-            "3個目標最大生命值持續削減"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "最大生命削減"
-        ],
         "source": "服裝間",
         "Release date": "2023-10-30",
         "specialId": "elegant_pulverizer",
@@ -58495,15 +50064,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "公仔粉碎機",
-        "types": [
-            "攻擊3個目標",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-08-11",
         "specialId": "toontastic_pulverizer",
@@ -58567,16 +50127,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "玻璃粉碎",
-        "types": [
-            "攻擊3個目標",
-            "無視防禦",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "繞過"
-        ],
         "source": "服裝間",
         "Release date": "2025-09-07",
         "specialId": "glass_pulverizer_tiburtus",
@@ -58640,19 +50190,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "衝鋒",
         "skill": "致命打擊",
-        "types": [
-            "蓄力",
-            "攻擊單個目標",
-            "連鎖攻擊",
-            "命中時觸發持續傷害",
-            "無視防禦機率"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "持續傷害",
-            "繞過"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2026-03-10",
         "specialId": "lethal_strikes",
@@ -58733,17 +50270,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "毒霧",
-        "types": [
-            "攻擊3個目標",
-            "3個目標攻擊衰減",
-            "3個目標防禦衰減",
-            "3個目標反射增益"
-        ],
-        "skill_types": [
-            "屬性修改",
-            "反射",
-            "範圍攻擊 (打3)"
-        ],
         "source": "哥布林召喚",
         "Release date": "2023-12-11",
         "specialId": "poisonous_mist",
@@ -58804,14 +50330,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "流血匕首",
-        "types": [
-            "召喚1個惡魔",
-            "對聖屬性敵人召喚魔僕"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "召喚惡魔"
-        ],
         "source": "超級元素",
         "Release date": "2023-05-22",
         "specialId": "bleed_inducing_daggers",
@@ -58877,16 +50395,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "撕裂信件",
-        "types": [
-            "召喚1個惡魔",
-            "元素惡魔召喚者",
-            "全體承受的狀態異常傷害增加"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "召喚惡魔",
-            "額外傷害"
-        ],
         "source": "超級元素",
         "Release date": "2026-02-19",
         "specialId": "lacerating_letters",
@@ -58959,18 +50467,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "幽冥護盾",
-        "types": [
-            "全體持續治療",
-            "3個目標狀態異常免疫",
-            "淨化 (3個目標)"
-        ],
-        "skill_types": [
-            "凈化",
-            "持續治療",
-            "提供免疫",
-            "攻擊增益",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2018-04-01",
         "specialId": "nethershield",
@@ -59029,16 +50525,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "虛空護盾",
-        "types": [
-            "全體治療",
-            "移除3個目標的狀態異常"
-        ],
-        "skill_types": [
-            "凈化",
-            "治療",
-            "攻擊增益",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-01-23",
         "specialId": "voidshield",
@@ -59097,20 +50583,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "渴望之咬",
-        "types": [
-            "攻擊單個目標",
-            "傷害全體生命值加成",
-            "寶箱怪"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "特殊治療",
-            "生命強化",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形態與隱藏",
-            "繞過"
-        ],
         "source": "市場召喚",
         "Release date": "2026-02-08",
         "specialId": "aether_mimic_bite_purple",
@@ -59186,19 +50658,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "高空伏擊",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "封鎖3個目標復活能力"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "法力削減或格擋",
-            "持續傷害",
-            "復活抑製",
-            "狀態效果轉換",
-            "反製小兵"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-07-23",
         "specialId": "high_altitude_ambush",
@@ -59273,23 +50732,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "魔法",
         "skill": "祕法震波",
-        "types": [
-            "蓄力",
-            "全體攻擊降低",
-            "全體防禦降低",
-            "全體持續傷害",
-            "全體攻擊增益",
-            "全體防禦增益",
-            "全體持續治療"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "防禦增益",
-            "攻擊減益",
-            "防禦減益",
-            "持續傷害",
-            "持續治療"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "specialId": "arcane_shock",
@@ -59361,24 +50803,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "魔法",
         "skill": "暗黑震波",
-        "types": [
-            "蓄力",
-            "全體攻擊降低",
-            "全體防禦降低",
-            "全體持續傷害",
-            "全體攻擊增益",
-            "全體防禦增益",
-            "全體強化持續治療"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "防禦增益",
-            "攻擊減益",
-            "防禦減益",
-            "持續傷害",
-            "生命強化",
-            "特殊治療"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-05-29",
         "specialId": "dark_shock",
@@ -59461,17 +50885,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "捲圈鞭打",
-        "types": [
-            "偷取1個小兵",
-            "攻擊單個目標",
-            "3個目標致盲"
-        ],
-        "skill_types": [
-            "攻擊減益",
-            "反製小兵",
-            "狙擊手",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2025-06-01",
         "specialId": "coiling_whip",
@@ -59536,16 +50949,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "非常慢",
         "skill": "黑暗立方王國",
-        "types": [
-            "隨機攻擊5個目標",
-            "命中時削減最大生命值",
-            "命中時施加失心攻擊"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "最大生命削減",
-            "失心攻擊&治療"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-04-23",
         "specialId": "cube_of_dark_realm",
@@ -59600,16 +51003,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "非常慢",
         "skill": "黑暗王國的騎兵帽",
-        "types": [
-            "隨機攻擊5個目標",
-            "命中時削減最大生命值",
-            "命中時施加失心攻擊"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "最大生命削減",
-            "失心攻擊&治療"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-07-03",
         "specialId": "cavalier_hat_of_dark_realm",
@@ -59666,18 +51059,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "飛速",
         "skill": "迅捷身法",
-        "types": [
-            "全體治療",
-            "全體移除1個增益",
-            "閃避增益"
-        ],
-        "skill_types": [
-            "治療",
-            "驅散",
-            "閃避",
-            "攻擊增益",
-            "疊加"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-11-30",
         "specialId": "swift_maneuvers",
@@ -59746,16 +51127,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "衝鋒",
         "skill": "深夜刺客",
-        "types": [
-            "蓄力",
-            "攻擊所有目標",
-            "召喚所有惡魔"
-        ],
-        "skill_types": [
-            "召喚惡魔",
-            "全體攻擊 (打5)",
-            "持續傷害"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
         "specialId": "assassins_in_the_night",
@@ -59818,17 +51189,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "古怪檀香",
-        "types": [
-            "全體治療",
-            "單體增益竊取",
-            "單體睡眠"
-        ],
-        "skill_types": [
-            "增益竊取者",
-            "治療",
-            "沈睡",
-            "攻擊增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-03-01",
         "specialId": "strange_incense",
@@ -59894,16 +51254,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "阿努比斯印記",
-        "types": [
-            "單體貪婪",
-            "全體持續傷害",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "增益格擋者",
-            "防禦減益",
-            "持續傷害"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2023-03-16",
         "specialId": "mark_of_anubis",
@@ -59964,16 +51314,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "胡狼印記",
-        "types": [
-            "單體貪婪",
-            "全體持續傷害",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "增益格擋者",
-            "防禦減益",
-            "持續傷害"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-02-05",
         "specialId": "mark_of_the_jackal",
@@ -60041,18 +51381,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "巫師之刃",
-        "types": [
-            "攻擊3個目標",
-            "全體強化治療",
-            "全體狀態異常免疫",
-            "自我防禦增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "生命強化",
-            "提供免疫",
-            "特殊治療"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2022-12-14",
         "specialId": "charmers_blades",
@@ -60112,19 +51440,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "烘焙師法棍",
-        "types": [
-            "攻擊3個目標",
-            "傷害全體生命值加成",
-            "全體狀態異常免疫",
-            "自身傷害減免增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "生命強化",
-            "提供免疫",
-            "特殊治療",
-            "傷害減免"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2025-11-12",
         "specialId": "bakers_baguettes",
@@ -60188,16 +51503,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "暗影匕首",
-        "types": [
-            "攻擊單個目標",
-            "自身閃避率"
-        ],
-        "skill_types": [
-            "閃避",
-            "狙擊手",
-            "額外傷害",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-06-01",
         "specialId": "dagger_of_shadows",
@@ -60262,16 +51567,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "惡毒打擊",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊",
-            "單個目標每次抵抗治療時受到傷害"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "治療削減"
-        ],
         "source": "聖約召喚",
         "Release date": "2026-02-11",
         "specialId": "vicious_strike",
@@ -60341,20 +51636,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "吞噬咀嚼",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "寶箱怪"
-        ],
-        "skill_types": [
-            "特殊治療",
-            "反製小兵",
-            "範圍攻擊 (打3)",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形態與隱藏",
-            "繞過"
-        ],
         "source": "市場召喚",
         "Release date": "2025-08-29",
         "specialId": "gorging_chew_purple",
@@ -60440,17 +51721,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "死靈之書第13頁",
-        "types": [
-            "攻擊3個目標",
-            "3個目標狂亂",
-            "強制施加 3 個不可淨化的異常狀態",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "凈化格擋者",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2025-05-13",
         "specialId": "necronomicon_page_13",
@@ -60505,14 +51775,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "非常慢",
         "skill": "苦痛纏繞",
-        "types": [
-            "攻擊所有目標",
-            "全體最大生命值降低",
-            "收割全體增益",
-            "自身生命值提升",
-            "全體防禦枯萎減益"
-        ],
-        "skill_types": [],
         "source": "挑戰 - 警戒蔬菜召唤",
         "Release date": "2026-04-02",
         "specialId": "bitter_wilting",
@@ -60557,7 +51819,24 @@ window.allHeroes =
             "health": 2872,
             "power": 1572
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：全體"
+                ]
+            },
+            {
+                "增益效果": [
+                    "狀態-驅散增益"
+                ]
+            },
+            {
+                "负面效果": [
+                    "治療-最大生命值↓",
+                    "防禦-枯萎：防禦力↓"
+                ]
+            }
+        ]
     },
     {
         "name": "芭絲特 (Bastet)",
@@ -60567,16 +51846,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "輕巧快速",
-        "types": [
-            "攻擊所有目標",
-            "全體閃避率增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦增益",
-            "閃避",
-            "疊加"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-08-04",
         "specialId": "quick_and_nimble",
@@ -60635,16 +51904,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "蘭花與玫瑰",
-        "types": [
-            "攻擊所有目標",
-            "全體閃避率增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "閃避",
-            "防禦增益",
-            "疊加"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-08-10",
         "specialId": "orchids_and_roses",
@@ -60710,20 +51969,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "魔法",
         "skill": "法力操控魔杖",
-        "types": [
-            "攻擊單個目標",
-            "敵人特殊技能時降低4個敵人法力",
-            "全體法力增加",
-            "盟友釋放特殊技能時攻擊全體"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力提升",
-            "法力削減或格擋",
-            "狙擊手",
-            "疊加",
-            "治療"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2023-06-28",
         "specialId": "wand_of_mana_control",
@@ -60796,22 +52041,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "魔法",
         "skill": "法力詐術魔杖",
-        "types": [
-            "攻擊單個目標",
-            "敵人特殊技能時降低4個敵人法力",
-            "3個目標元素防禦增益",
-            "全體法力增加",
-            "盟友釋放特殊技能時攻擊全體"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力提升",
-            "法力削減或格擋",
-            "防禦增益",
-            "狙擊手",
-            "疊加",
-            "治療"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-09-17",
         "specialId": "wand_of_mana_trickery",
@@ -60891,17 +52120,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "神秘協奏曲",
-        "types": [
-            "全體治療",
-            "全體攻擊增益",
-            "全體驅散免疫增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "治療",
-            "提供免疫",
-            "特殊治療"
-        ],
         "source": "挑戰節 II",
         "Release date": "2023-03-23",
         "specialId": "mystical_concerto",
@@ -60961,16 +52179,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "黃昏幽靈",
-        "types": [
-            "召喚所有",
-            "命中時單體小怪帶持續傷害",
-            "命中時施加小怪阻擋效果"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "反製小兵",
-            "召喚小兵"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-09-24",
         "specialId": "disir_of_dusk",
@@ -61030,16 +52238,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "夢之幽靈",
-        "types": [
-            "召喚所有",
-            "命中時單體小怪帶持續傷害",
-            "命中時施加小怪阻擋效果"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "反製小兵",
-            "召喚小兵"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-06-05",
         "specialId": "disir_of_dreams",
@@ -61101,16 +52299,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "非常慢",
         "skill": "巨威咆哮",
-        "types": [
-            "全體法力生成增益",
-            "全體法力生成降低",
-            "全體反擊"
-        ],
-        "skill_types": [
-            "反擊",
-            "法力生成增益",
-            "法力削減或格擋"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "unstoppable_growl",
@@ -61165,17 +52353,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "毒液守衛",
-        "types": [
-            "攻擊所有目標",
-            "全體攻擊增益",
-            "友方傷害分擔"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "攻擊增益",
-            "傷害分攤"
-        ],
         "source": "泰坦獵人召喚",
         "Release date": "2026-03-09",
         "specialId": "venom_guard",
@@ -61244,17 +52421,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "準確方向",
-        "types": [
-            "全體治療",
-            "移除狀態異常",
-            "全體法力生成增益"
-        ],
-        "skill_types": [
-            "凈化",
-            "治療",
-            "法力生成增益",
-            "生命強化"
-        ],
         "source": "聖約召喚",
         "Release date": "2024-04-25",
         "specialId": "unerring_course",
@@ -61320,15 +52486,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "暮光光環",
-        "types": [
-            "攻擊所有目標",
-            "全體閃避"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "閃避",
-            "生命強化"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-04-10",
         "specialId": "aura_of_twilight",
@@ -61385,16 +52542,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "刀之翼",
-        "types": [
-            "攻擊單個目標",
-            "連鎖攻擊"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "額外傷害",
-            "狙擊手",
-            "繞過"
-        ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2024-07-02",
         "specialId": "blade_wings",
@@ -61458,17 +52605,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "延時施咒",
-        "types": [
-            "攻擊所有目標",
-            "全體法力生成降低",
-            "全體增益免疫狀態異常"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "增益格擋者",
-            "特殊治療",
-            "法力削減或格擋"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-08-01",
         "specialId": "stalling_spell",
@@ -61529,19 +52665,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "飛速",
         "skill": "來自上頭的指示",
-        "types": [
-            "幾率暴擊",
-            "攻擊單個目標",
-            "自我完全移除",
-            "自我幽靈形態",
-            "全體暴擊幾率增益"
-        ],
-        "skill_types": [
-            "鬼魂形態與隱藏",
-            "狙擊手",
-            "攻擊增益",
-            "額外傷害"
-        ],
         "source": "三國召喚",
         "Release date": "2025-06-30",
         "specialId": "advice_from_beyond",
@@ -61615,17 +52738,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "冥河",
         "skill": "從天渡運而來",
-        "types": [
-            "蓄力",
-            "全體生命值加成",
-            "復活者",
-            "全體持續治療"
-        ],
-        "skill_types": [
-            "生命強化",
-            "復活",
-            "持續治療"
-        ],
         "source": "高塔 - 冥河",
         "Release date": "2022-11-16",
         "specialId": "boat_ride_from_the_beyond",
@@ -61689,16 +52801,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "飛速",
         "skill": "沼氣鎚矛",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "額外傷害",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2020-05-01",
         "specialId": "miasma_mace",
@@ -61762,12 +52864,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "命定詛咒",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "若目標被擊敗則傷害全體"
-        ],
-        "skill_types": [],
         "source": "傳奇召喚 - 月英",
         "Release date": "2026-04-01",
         "specialId": "destined_curse",
@@ -61806,7 +52902,29 @@ window.allHeroes =
             "health": 2781,
             "power": 1441
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：範圍",
+                    "傷害：持續傷害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "傷害-條件觸發"
+                ]
+            },
+            {
+                "增益效果": [
+                    "攻擊-暴擊率↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "傷害-持續傷害：詛咒"
+                ]
+            }
+        ]
     },
     {
         "name": "暗黑領主 (Dark Lord)",
@@ -61816,20 +52934,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "冰霜之刺",
-        "types": [
-            "攻擊單個目標",
-            "減少3個目標增益持續時間",
-            "3個目標持續傷害",
-            "3個目標法力生成降低"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "法力削減或格擋",
-            "狙擊手",
-            "效果持續重置",
-            "額外傷害",
-            "反製小兵"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-02-11",
         "specialId": "doomstrike",
@@ -61889,20 +52993,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "脈衝星打擊",
-        "types": [
-            "攻擊單個目標",
-            "減少3個目標增益持續時間",
-            "3個目標持續傷害",
-            "3個目標法力生成降低"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "效果持續重置",
-            "法力削減或格擋",
-            "狙擊手",
-            "額外傷害",
-            "反製小兵"
-        ],
         "source": "挑戰節 II",
         "Release date": "2024-11-14",
         "specialId": "pulsarstrike",
@@ -61968,18 +53058,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "天打雷劈",
-        "types": [
-            "攻擊所有目標",
-            "減少2回合狀態異常持續時間",
-            "減少2回合增益持續時間",
-            "全體增益驅散免疫"
-        ],
-        "skill_types": [
-            "復活抑製",
-            "效果持續重置",
-            "全體攻擊 (打5)",
-            "提供免疫"
-        ],
         "source": "挑戰節 II",
         "Release date": "2025-04-09",
         "specialId": "struck_by_thunder",
@@ -62043,17 +53121,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "鷹之祝福",
-        "types": [
-            "全體治療",
-            "全體攻擊力成長",
-            "全體防禦力成長",
-            "隊友釋放特技後全體額外攻擊幾率"
-        ],
-        "skill_types": [
-            "屬性修改",
-            "連鎖與隨機攻擊",
-            "治療"
-        ],
         "source": "哥布林召喚",
         "Release date": "2023-09-18",
         "specialId": "the_eagles_blessing",
@@ -62114,17 +53181,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "飛速",
         "skill": "邪靈",
-        "types": [
-            "單體增益竊取",
-            "攻擊單個目標",
-            "單體防禦衰減"
-        ],
-        "skill_types": [
-            "屬性修改",
-            "增益竊取者",
-            "狙擊手",
-            "額外傷害"
-        ],
         "source": "哥布林召喚",
         "Release date": "2023-09-18",
         "specialId": "unhallowed_spirits",
@@ -62190,18 +53246,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "碎月光線",
-        "types": [
-            "攻擊3個目標",
-            "偷取3個增益",
-            "3個目標攻擊力成長"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "範圍攻擊 (打3)",
-            "增益竊取者",
-            "攻擊增益",
-            "傷害分攤"
-        ],
         "source": "星界召喚",
         "Release date": "2024-05-20",
         "specialId": "moon_crush_beam",
@@ -62266,17 +53310,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "飛速",
         "skill": "正義姿態",
-        "types": [
-            "攻擊單個目標",
-            "攻擊成長恩賜",
-            "單體防禦枯萎減益"
-        ],
-        "skill_types": [
-            "繞過",
-            "狙擊手",
-            "額外傷害",
-            "屬性修改"
-        ],
         "source": "神殿召喚",
         "Release date": "2025-12-10",
         "specialId": "righteous_stance",
@@ -62344,16 +53377,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "閉月羞花",
-        "types": [
-            "全體治療",
-            "召喚3個小兵",
-            "增益竊取小怪"
-        ],
-        "skill_types": [
-            "增益竊取者",
-            "召喚小兵",
-            "治療"
-        ],
         "source": "三國召喚",
         "Release date": "2022-03-14",
         "specialId": "ladys_charm",
@@ -62407,16 +53430,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "女士之花",
-        "types": [
-            "全體治療",
-            "召喚3個小兵",
-            "增益竊取小怪"
-        ],
-        "skill_types": [
-            "增益竊取者",
-            "治療",
-            "召喚小兵"
-        ],
         "source": "三國召喚",
         "Release date": "2024-05-28",
         "specialId": "ladys_flowers",
@@ -62479,16 +53492,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "震駭閃電",
-        "types": [
-            "攻擊單個目標",
-            "3個目標元素防禦增益",
-            "驅散3個目標"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "驅散",
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "shock_bolt",
@@ -62542,16 +53545,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "劇毒閃電",
-        "types": [
-            "攻擊單個目標",
-            "3個目標持續傷害",
-            "淨化 (3個目標)"
-        ],
-        "skill_types": [
-            "凈化",
-            "持續傷害",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2020-05-18",
         "specialId": "awe_bolt",
@@ -62608,15 +53601,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "暗黑閃電",
-        "types": [
-            "攻擊3個目標",
-            "3個目標元素防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2022-10-31",
         "specialId": "dark_bolt",
@@ -62676,17 +53660,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "公仔閃電",
-        "types": [
-            "攻擊單個目標",
-            "3個目標元素防禦增益",
-            "驅散3個目標"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "防禦增益",
-            "額外傷害",
-            "驅散"
-        ],
         "source": "服裝間",
         "Release date": "2024-03-11",
         "specialId": "adorable_bolt",
@@ -62752,18 +53725,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "玻璃閃電",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦",
-            "3個目標元素防禦增益",
-            "驅散3個目標"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "繞過",
-            "驅散",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2025-04-23",
         "specialId": "glass_bolt",
@@ -62828,12 +53789,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "時尚閃電",
-        "types": [
-            "攻擊單個目標",
-            "3個目標元素防禦增益",
-            "驅散3個目標"
-        ],
-        "skill_types": [],
         "source": "服裝間",
         "Release date": "2026-05-09",
         "specialId": "stylish_bolt",
@@ -62882,14 +53837,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "致盲智慧",
-        "types": [
-            "攻擊3個目標",
-            "3個目標致盲"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "specialId": "blinding_wisdom",
@@ -62945,14 +53892,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "致盲知識",
-        "types": [
-            "攻擊3個目標",
-            "3個目標致盲"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-04-27",
         "specialId": "blinding_knowledge",
@@ -63013,19 +53952,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "星界主宰",
-        "types": [
-            "攻擊所有目標",
-            "全體法力生成降低",
-            "全體治療降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦減益",
-            "額外傷害",
-            "治療削減",
-            "法力削減或格擋",
-            "傷害分攤"
-        ],
         "source": "星界召喚",
         "Release date": "2024-03-07",
         "specialId": "astral_dominion",
@@ -63091,18 +54017,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "雷霆打擊",
-        "types": [
-            "攻擊單個目標",
-            "連鎖攻擊",
-            "命中時觸發持續傷害",
-            "處於持續傷害狀態時治療 3 個目標"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "持續傷害",
-            "特殊治療",
-            "狙擊手"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2024-05-23",
         "specialId": "thundering_strike",
@@ -63164,19 +54078,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "夜之低語",
-        "types": [
-            "全體治療",
-            "全體火暴守護增益",
-            "全體狀態異常免疫"
-        ],
-        "skill_types": [
-            "治療",
-            "防禦減益",
-            "傷害減免",
-            "提供免疫",
-            "額外傷害",
-            "反製小兵"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2024-12-03",
         "specialId": "nights_whisper",
@@ -63238,13 +54139,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "夜間校準",
-        "types": [
-            "全體持續治療",
-            "全體火風暴護體",
-            "全體狀態異常免疫",
-            "企圖施加異常狀態時獲得治療"
-        ],
-        "skill_types": [],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2026-04-07",
         "specialId": "nights_calibration",
@@ -63286,7 +54180,20 @@ window.allHeroes =
             "health": 3142,
             "power": 1593
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "治療：持續",
+                    "治療：特殊"
+                ]
+            },
+            {
+                "增益效果": [
+                    "狀態-免疫狀態異常",
+                    "防禦-傷害減免"
+                ]
+            }
+        ]
     },
     {
         "name": "杜瓦爾 (Duval)",
@@ -63296,16 +54203,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "偷襲射擊",
-        "types": [
-            "劫掠 (單體)",
-            "攻擊單個目標",
-            "單體擴散型持續傷害"
-        ],
-        "skill_types": [
-            "增益竊取者",
-            "狙擊手",
-            "持續傷害"
-        ],
         "source": "黑色星期五召喚",
         "Release date": "2025-11-24",
         "specialId": "thieving_shot",
@@ -63374,16 +54271,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "愚昧之群",
-        "types": [
-            "攻擊單個目標",
-            "召喚1個惡魔",
-            "單體莽夫亂拳"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "召喚惡魔",
-            "失心攻擊&治療"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2025-11-01",
         "specialId": "flock_of_folly_eldwren",
@@ -63449,18 +54336,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "守衛花園！",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊",
-            "被擊中時召喚幼苗惡魔",
-            "3個目標防禦增益"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "召喚惡魔",
-            "防禦增益"
-        ],
         "source": "挑戰 - 警戒蔬菜召唤",
         "Release date": "2025-09-02",
         "specialId": "guard_the_garden",
@@ -63531,21 +54406,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "野蠻吞噬",
-        "types": [
-            "攻擊單個目標",
-            "單體擴散型持續傷害",
-            "寶箱怪"
-        ],
-        "skill_types": [
-            "特殊治療",
-            "反製小兵",
-            "狙擊手",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形態與隱藏",
-            "繞過",
-            "持續傷害"
-        ],
         "source": "市場召喚",
         "Release date": "2025-11-09",
         "specialId": "savage_gobble_purple",
@@ -63625,14 +54485,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "飛速",
         "skill": "慾望之箭",
-        "types": [
-            "攻擊單個目標",
-            "單體受到傷害增加減益"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "狙擊手"
-        ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2024-01-08",
         "specialId": "arrow_of_desire",
@@ -63688,20 +54540,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "貪婪吞噬",
-        "types": [
-            "摧毀單個目標的小兵",
-            "攻擊單個目標",
-            "寶箱怪"
-        ],
-        "skill_types": [
-            "特殊治療",
-            "法力提升",
-            "反製小兵",
-            "狙擊手",
-            "提供免疫",
-            "鬼魂形態與隱藏",
-            "繞過"
-        ],
         "source": "市場召喚",
         "Release date": "2025-06-06",
         "specialId": "mimic_training_hero_purple_bite",
@@ -63777,16 +54615,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "刺穿飛鷹",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊",
-            "命中時施加元素防禦降低減益"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "防禦減益",
-            "狙擊手"
-        ],
         "source": "超級元素",
         "Release date": "2023-11-06",
         "specialId": "piercing_falcon",
@@ -63848,16 +54676,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "渡鴉警備",
-        "types": [
-            "召喚所有",
-            "全體小怪攻擊增益",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "小兵強化",
-            "召喚小兵"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "",
         "specialId": "ravens_vigil",
@@ -63911,16 +54729,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "渡鴉看守",
-        "types": [
-            "召喚所有",
-            "全體小怪攻擊增益",
-            "全體閃避率增益"
-        ],
-        "skill_types": [
-            "閃避",
-            "小兵強化",
-            "召喚小兵"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-08-01",
         "specialId": "ravens_watch",
@@ -63976,14 +54784,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "元素腐朽",
-        "types": [
-            "泰坦攻擊增益",
-            "全體傷害增加減益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "額外傷害"
-        ],
         "source": "超級元素",
         "Release date": "2024-03-25",
         "specialId": "elemental_corruption",
@@ -64043,16 +54843,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "暮光星打擊",
-        "types": [
-            "攻擊3個目標",
-            "3個目標衰退",
-            "3個目標增傷"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害",
-            "屬性修改"
-        ],
         "source": "星界召喚",
         "Release date": "2025-05-07",
         "specialId": "twilight_star_strike",
@@ -64114,18 +54904,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "史萊姆服侍",
-        "types": [
-            "攻擊3個目標",
-            "召喚3個史萊姆惡魔",
-            "偷取增益惡魔",
-            "偷取成長效果惡魔"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "召喚惡魔",
-            "增益竊取者",
-            "持續傷害"
-        ],
         "source": "超級元素",
         "Release date": "2024-11-27",
         "specialId": "slime_serving",
@@ -64186,16 +54964,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "飛速",
         "skill": "巨牙刀",
-        "types": [
-            "攻擊單個目標",
-            "單體防禦降低",
-            "單體法力獲取凍結"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2022-12-24",
         "specialId": "titantooth_blade",
@@ -64255,14 +55023,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "復仇重擊",
-        "types": [
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "傷害減免"
-        ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2022-05-12",
         "specialId": "revengeful_smite",
@@ -64318,17 +55078,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "傷透了心",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害",
-            "隨機1個狀態異常來源"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "額外傷害",
-            "治療削減"
-        ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2025-07-13",
         "specialId": "harrow_the_heart",
@@ -64395,14 +55144,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "法力操控",
-        "types": [
-            "全體法力削減",
-            "全體法力增加"
-        ],
-        "skill_types": [
-            "法力提升",
-            "法力削減或格擋"
-        ],
         "source": "超級元素",
         "Release date": "2023-05-22",
         "specialId": "mana_manipulation",
@@ -64462,16 +55203,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "記憶操控",
-        "types": [
-            "全體法力削減",
-            "全體法力增加",
-            "全體狀態異常免疫"
-        ],
-        "skill_types": [
-            "法力提升",
-            "法力削減或格擋",
-            "提供免疫"
-        ],
         "source": "超級元素",
         "Release date": "2025-08-28",
         "specialId": "memory_manipulation",
@@ -64538,17 +55269,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "侏儒殘殺",
-        "types": [
-            "摧毀所有小兵",
-            "攻擊所有目標",
-            "擊殺小怪時全體法力提升"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊增益",
-            "法力提升",
-            "反製小兵"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2019-12-01",
         "specialId": "gnomish_carnage",
@@ -64611,16 +55331,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "黑豹之眼",
-        "types": [
-            "攻擊3個目標",
-            "3個目標元素防禦降低",
-            "驅散3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "驅散"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "eye_of_panther",
@@ -64678,16 +55388,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "黑豹之吼",
-        "types": [
-            "攻擊所有目標",
-            "全體防禦降低",
-            "全體增益免疫狀態異常"
-        ],
-        "skill_types": [
-            "增益格擋者",
-            "防禦減益",
-            "全體攻擊 (打5)"
-        ],
         "source": "挑戰節 I",
         "Release date": "2022-06-16",
         "specialId": "roar_of_the_panther",
@@ -64743,16 +55443,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "怒氣體",
-        "types": [
-            "攻擊3個目標",
-            "自我攻擊增益",
-            "史萊姆自身復活"
-        ],
-        "skill_types": [
-            "復活",
-            "範圍攻擊 (打3)",
-            "攻擊增益"
-        ],
         "source": "超級元素",
         "Release date": "2024-06-18",
         "specialId": "blob_of_fury",
@@ -64819,17 +55509,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "腐朽中的偶像",
-        "types": [
-            "攻擊3個目標",
-            "召喚3個惡魔",
-            "攻擊降低惡魔"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益",
-            "召喚惡魔",
-            "持續傷害"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-06-17",
         "specialId": "corrupting_idol",
@@ -64892,17 +55571,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "美味偶像",
-        "types": [
-            "攻擊3個目標",
-            "召喚3個惡魔",
-            "攻擊降低惡魔"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益",
-            "召喚惡魔",
-            "持續傷害"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-04-25",
         "specialId": "delicious_idol",
@@ -64970,17 +55638,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "暗星齊射",
-        "types": [
-            "攻擊3個目標",
-            "3個目標共鳴",
-            "3個目標法力腐蝕"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害",
-            "持續傷害",
-            "法力腐敗"
-        ],
         "source": "星界召喚",
         "Release date": "2026-02-15",
         "specialId": "volley_of_dark_stars",
@@ -65049,19 +55706,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "藥用煙霧",
-        "types": [
-            "全體強化持續治療",
-            "全體持續法力提升",
-            "全體反射狀態異常",
-            "全體反射疊加效果"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "生命強化",
-            "法力提升",
-            "反射",
-            "持續治療"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2022-09-18",
         "specialId": "medicinal_fumes",
@@ -65122,17 +55766,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "冥界粉碎",
-        "types": [
-            "攻擊3個目標",
-            "3個目標法力獲取凍結"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害",
-            "法力削減或格擋",
-            "攻擊增益",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2017-06-01",
         "specialId": "crush_of_hel",
@@ -65191,18 +55824,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "惡意重壓",
-        "types": [
-            "攻擊所有目標",
-            "全體法力偷取"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "法力提升",
-            "法力削減或格擋",
-            "攻擊增益",
-            "驅散"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-11-28",
         "specialId": "crush_of_malice",
@@ -65267,12 +55888,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "赫爾公仔粉碎",
-        "types": [
-            "攻擊3個目標",
-            "3個目標元素防禦降低",
-            "3個目標法力獲取凍結"
-        ],
-        "skill_types": [],
         "source": "傳奇召喚 - 月英",
         "Release date": "2026-04-29",
         "specialId": "crush_of_toon_hel",
@@ -65323,22 +55938,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "矮人王的徵收",
-        "types": [
-            "攻擊所有目標",
-            "全體法力偷取",
-            "全體每回合偷取增益"
-        ],
-        "skill_types": [
-            "增益竊取者",
-            "法力削減或格擋",
-            "狙擊手",
-            "法力提升",
-            "額外傷害",
-            "繞過",
-            "持續傷害",
-            "防禦減益",
-            "反製小兵"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-02-23",
         "specialId": "dwarven_kings_levy",
@@ -65405,20 +56004,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "雙重打擊",
-        "types": [
-            "機率暴擊",
-            "攻擊單個目標",
-            "安全驅散 (單體)",
-            "隨機攻擊1個目標",
-            "狀態異常持續回合增加5"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "驅散",
-            "額外傷害",
-            "連鎖與隨機攻擊",
-            "效果持續重置"
-        ],
         "source": "三國召喚",
         "Release date": "2026-01-13",
         "specialId": "double_strike",
@@ -65491,17 +56076,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "寵物幼蟲",
-        "types": [
-            "召喚所有",
-            "法力生成增益小兵",
-            "小怪防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "持續治療",
-            "法力生成增益",
-            "召喚小兵"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2022-03-24",
         "specialId": "pet_larva",
@@ -65560,17 +56134,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "幼蟲處方簽",
-        "types": [
-            "召喚所有",
-            "法力生成增益小兵",
-            "小怪防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "持續治療",
-            "法力生成增益",
-            "召喚小兵"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-03-28",
         "specialId": "larva_prescription",
@@ -65634,17 +56197,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "無情處決",
-        "types": [
-            "單體防禦降低",
-            "攻擊單個目標",
-            "擊殺時對附近 2 個目標施加瘋狂",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "狙擊手",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2024-06-04",
         "specialId": "merciless_execution",
@@ -65710,21 +56262,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "火石匕首",
-        "types": [
-            "攻擊3個目標",
-            "3個目標異常狀態重置",
-            "3個目標持續傷害",
-            "處於持續傷害狀態時治療自身",
-            "自身攻擊增益疊加"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "效果持續重置",
-            "特殊治療",
-            "疊加",
-            "攻擊增益"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2023-05-26",
         "specialId": "firestone_daggers",
@@ -65796,17 +56333,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "慷慨禮物",
-        "types": [
-            "全體淨化",
-            "全體治療",
-            "全體增益來源"
-        ],
-        "skill_types": [
-            "凈化",
-            "治療",
-            "防禦增益",
-            "特殊治療"
-        ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2026-01-09",
         "specialId": "generous_gifts",
@@ -65876,17 +56402,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "貓星座",
-        "types": [
-            "全體衰退",
-            "全體治療降低",
-            "全體轉移1個狀態異常",
-            "淨化者"
-        ],
-        "skill_types": [
-            "屬性修改",
-            "凈化",
-            "治療削減"
-        ],
         "source": "野地召喚",
         "Release date": "2025-07-18",
         "specialId": "feline_constellation",
@@ -65950,12 +56465,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "蠱惑爆裂",
-        "types": [
-            "攻擊所有目標",
-            "全體延遲麻痹",
-            "全體持續傷害"
-        ],
-        "skill_types": [],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2026-04-16",
         "specialId": "bewitching_blast",
@@ -66002,7 +56511,21 @@ window.allHeroes =
             "health": 2915,
             "power": 1596
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：全體",
+                    "傷害：持續傷害"
+                ]
+            },
+            {
+                "负面效果": [
+                    "法力-麻痹",
+                    "傷害-持續傷害：毒",
+                    "傷害-持續傷害：詛咒"
+                ]
+            }
+        ]
     },
     {
         "name": "炸脖龍 (Jabberwock)",
@@ -66012,14 +56535,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "側翼攻擊",
-        "types": [
-            "攻擊2個目標",
-            "2個目標持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "狙擊手"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "sideswipe",
@@ -66072,16 +56587,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "蛾族復仇者",
-        "types": [
-            "攻擊2個目標",
-            "2個目標持續傷害",
-            "處於持續傷害狀態時法力生成減益"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "挑戰節 I",
         "Release date": "2021-12-15",
         "specialId": "avenger_of_mothkind",
@@ -66141,22 +56646,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "魔法",
         "skill": "地獄之霧",
-        "types": [
-            "蓄力",
-            "攻擊單體/全體",
-            "持續傷害單體/全體",
-            "受到持續傷害時自身/全體治療提升"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "特殊治療",
-            "狙擊手",
-            "範圍攻擊 (打3)",
-            "疊加",
-            "法力削減或格擋",
-            "治療"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2023-11-15",
         "specialId": "vapors_of_the_underworld",
@@ -66227,23 +56716,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "魔法",
         "skill": "地獄凝視",
-        "types": [
-            "蓄力",
-            "攻擊單體/全體",
-            "持續傷害單體/全體",
-            "受到持續傷害時自身/全體治療提升"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "特殊治療",
-            "生命強化",
-            "狙擊手",
-            "範圍攻擊 (打3)",
-            "疊加",
-            "法力削減或格擋",
-            "治療"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2026-02-10",
         "specialId": "gaze_of_the_underworld",
@@ -66320,22 +56792,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "蛛形邪教",
-        "types": [
-            "施加恐懼減益 (單體)",
-            "攻擊單個目標",
-            "單體狂亂",
-            "若目標被擊敗則對 2 個目標施加恐懼減益",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "防禦增益",
-            "驅散",
-            "增益格擋者",
-            "額外傷害",
-            "失心攻擊&治療",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2025-11-06",
         "specialId": "cult_of_arachnid",
@@ -66408,15 +56864,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "飛速",
         "skill": "摧毀打擊",
-        "types": [
-            "單體驅散",
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "驅散",
-            "額外傷害",
-            "狙擊手"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "break_strike",
@@ -66474,18 +56921,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "飛速",
         "skill": "甲殼蟲來襲",
-        "types": [
-            "單體驅散",
-            "攻擊單個目標",
-            "單體增益免疫",
-            "單體防禦降低"
-        ],
-        "skill_types": [
-            "增益格擋者",
-            "防禦減益",
-            "驅散",
-            "狙擊手"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2021-11-15",
         "specialId": "beetle_strike",
@@ -66547,11 +56982,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "飛速",
         "skill": "公仔打擊",
-        "types": [
-            "安全驅散單體 1 個增益",
-            "攻擊單個目標"
-        ],
-        "skill_types": [],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toon_strike",
@@ -66600,16 +57030,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "徹底鎮壓",
-        "types": [
-            "攻擊所有目標",
-            "改變棋盤"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "改變面板",
-            "攻擊減益",
-            "攻擊增益"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-02-11",
         "specialId": "total_beatdown",
@@ -66661,18 +57081,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "沉睡擊敗",
-        "types": [
-            "攻擊所有目標",
-            "改變棋盤"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "改變面板",
-            "額外傷害",
-            "持續傷害",
-            "攻擊減益",
-            "攻擊增益"
-        ],
         "source": "挑戰節 II",
         "Release date": "2025-06-15",
         "specialId": "slumbering_beatdown",
@@ -66732,14 +57140,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "呼求寬恕",
-        "types": [
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "傷害減免"
-        ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2022-12-29",
         "specialId": "cry_for_absolution",
@@ -66795,15 +57195,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "聖甲蟲轟炸",
-        "types": [
-            "攻擊3個目標",
-            "召喚3個爆炸惡魔"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "召喚惡魔",
-            "持續傷害"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-06-09",
         "specialId": "scarab_bombardment",
@@ -66864,15 +57255,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "聖甲蟲閃電戰",
-        "types": [
-            "攻擊3個目標",
-            "召喚3個爆炸惡魔"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "召喚惡魔",
-            "持續傷害"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2025-02-17",
         "specialId": "scarab_blitz",
@@ -66940,15 +57322,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "流血利刃",
-        "types": [
-            "攻擊單個目標",
-            "3個目標攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "狙擊手",
-            "持續治療"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2018-09-01",
         "specialId": "bleeding_edge",
@@ -67001,16 +57374,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "流血大錘",
-        "types": [
-            "攻擊單個目標",
-            "3個目標攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "狙擊手",
-            "持續治療",
-            "驅散"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-02-09",
         "specialId": "bleeding_hammer",
@@ -67069,14 +57432,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "飛速",
         "skill": "午夜之擊",
-        "types": [
-            "攻擊單個目標",
-            "擊殺時自身法力提升"
-        ],
-        "skill_types": [
-            "法力提升",
-            "狙擊手"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "midnight_strike",
@@ -67134,13 +57489,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "飛速",
         "skill": "午夜重擊",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "法力提升",
-            "狙擊手"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-09-07",
         "specialId": "midnight_smite",
@@ -67205,14 +57553,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "魯莽揮擊",
-        "types": [
-            "攻擊所有目標",
-            "除自身外全體隊友防禦減益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "對自身或友軍負面效果"
-        ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "",
         "specialId": "reckless_swing",
@@ -67264,14 +57604,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "英勇胡蘿蔔",
-        "types": [
-            "攻擊所有目標",
-            "除自身外全體隊友攻擊減益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "對自身或友軍負面效果"
-        ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2022-03-21",
         "specialId": "championship_carrot",
@@ -67329,17 +57661,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "被偷的餡餅",
-        "types": [
-            "攻擊3個目標",
-            "單體莽夫亂拳",
-            "召喚所有"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "失心攻擊&治療",
-            "召喚小兵",
-            "特殊治療"
-        ],
         "source": "挑戰節 I",
         "Release date": "2024-04-18",
         "specialId": "stolen_tarts",
@@ -67398,19 +57719,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "史萊姆塗層劍",
-        "types": [
-            "攻擊單個目標",
-            "吞噬粘物",
-            "全體神聖元素防禦降低"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "持續傷害",
-            "沈睡",
-            "防禦減益",
-            "驅散",
-            "屬性修改"
-        ],
         "source": "超級元素",
         "Release date": "2025-02-17",
         "specialId": "slime_coated_sword",
@@ -67473,17 +57781,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "額輪之力",
-        "types": [
-            "全體治療",
-            "全體防禦降低",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "凈化",
-            "防禦減益",
-            "治療",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2019-02-01",
         "specialId": "power_of_ajna",
@@ -67542,16 +57839,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "星界寶石",
-        "types": [
-            "全體治療",
-            "增加現有增益持續時間",
-            "全體狀態異常免疫"
-        ],
-        "skill_types": [
-            "治療",
-            "提供免疫",
-            "效果持續重置"
-        ],
         "source": "星界召喚",
         "Release date": "2025-09-21",
         "specialId": "astral_gemstones",
@@ -67617,20 +57904,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "深淵咒語",
-        "types": [
-            "攻擊單個目標",
-            "單體完全移除",
-            "單體深淵幽靈"
-        ],
-        "skill_types": [
-            "增益格擋者",
-            "驅散",
-            "持續傷害",
-            "狙擊手",
-            "疊加",
-            "凈化",
-            "鬼魂形態與隱藏"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "specialId": "abyssal_incantation",
@@ -67689,20 +57962,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "不死咒語",
-        "types": [
-            "攻擊單個目標",
-            "單體完全移除",
-            "單體深淵幽靈"
-        ],
-        "skill_types": [
-            "驅散",
-            "持續傷害",
-            "狙擊手",
-            "疊加",
-            "凈化",
-            "鬼魂形態與隱藏",
-            "生命強化"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-04-27",
         "specialId": "undying_incantation",
@@ -67768,19 +58027,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "復甦旋律",
-        "types": [
-            "全體強化治療",
-            "全體淨化",
-            "全體法力生成疊加",
-            "自我標記以施放特殊技能"
-        ],
-        "skill_types": [
-            "閃避",
-            "生命強化",
-            "凈化",
-            "法力生成增益",
-            "疊加"
-        ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-08-14",
         "specialId": "revitalizing_melody",
@@ -67843,19 +58089,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "貓薄荷之怒",
-        "types": [
-            "偷取單個目標的超級小兵/小兵",
-            "攻擊單個目標",
-            "全體傷害增加減益",
-            "自我持續治療"
-        ],
-        "skill_types": [
-            "反製小兵",
-            "狙擊手",
-            "狀態效果轉換",
-            "額外傷害",
-            "持續治療"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-08-20",
         "specialId": "catnip_fury",
@@ -67930,16 +58163,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "羽翼風暴",
-        "types": [
-            "全體驅散",
-            "攻擊所有目標",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦減益",
-            "驅散"
-        ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "specialId": "feather_tempest",
@@ -68001,16 +58224,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "狂怒風暴",
-        "types": [
-            "全體驅散",
-            "攻擊所有目標",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦減益",
-            "驅散"
-        ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2025-07-28",
         "specialId": "raging_tempest",
@@ -68074,17 +58287,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "暴虐衝鋒",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有傭兵惡魔",
-            "增益免疫惡魔"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "增益格擋者",
-            "召喚惡魔",
-            "持續傷害"
-        ],
         "source": "三國召喚",
         "Release date": "2022-03-14",
         "specialId": "disrupting_charge",
@@ -68143,17 +58345,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "毀滅衝鋒",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有傭兵惡魔",
-            "增益免疫惡魔"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "增益格擋者",
-            "召喚惡魔",
-            "持續傷害"
-        ],
         "source": "三國召喚",
         "Release date": "2024-12-28",
         "specialId": "disrupting_charge_costume_tiger_lord",
@@ -68221,18 +58412,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "王者掃帚神力",
-        "types": [
-            "攻擊3個目標",
-            "3個目標致盲",
-            "3個目標防禦降低",
-            "自身持續治療"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益",
-            "防禦減益",
-            "持續治療"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2023-09-25",
         "specialId": "might_of_excalibroom",
@@ -68297,16 +58476,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "全金屬裘",
-        "types": [
-            "嘲諷",
-            "自身特技防禦增益",
-            "2個目標法力持續恢復"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "法力提升",
-            "嘲諷"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2021-10-13",
         "specialId": "fullmetal_pelt",
@@ -68356,15 +58525,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "月神祝福",
-        "types": [
-            "治療3個目標",
-            "3個目標月光增益"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "治療",
-            "法力削減或格擋"
-        ],
         "source": "挑戰節 II",
         "Release date": "2023-09-04",
         "specialId": "lunar_blessing",
@@ -68425,19 +58585,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "芭蕾舞伶召喚",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有惡魔",
-            "魔僕施加增益免疫",
-            "全體元素防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "增益格擋者",
-            "防禦減益",
-            "召喚惡魔",
-            "持續傷害"
-        ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2023-11-30",
         "specialId": "summon_ballerina_fiend",
@@ -68504,17 +58651,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "一同歡歌",
-        "types": [
-            "全體生命值加成",
-            "持盾守衛超級小兵",
-            "安全清除全體隊友的小怪"
-        ],
-        "skill_types": [
-            "生命強化",
-            "特殊治療",
-            "召喚巨型小兵",
-            "凈化"
-        ],
         "source": "哥布林召喚",
         "Release date": "2025-02-14",
         "specialId": "join_in_joyful_song",
@@ -68580,17 +58716,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "魔書群覽",
-        "types": [
-            "攻擊3個目標",
-            "賭徒"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益",
-            "防禦減益",
-            "法力提升",
-            "法力削減或格擋"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-03-01",
         "specialId": "grimoire_skim",
@@ -68664,18 +58789,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "僵屍庇佑",
-        "types": [
-            "攻擊所有目標",
-            "全體持續治療",
-            "全體防禦增益",
-            "全體殭屍祝福增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦增益",
-            "持續治療",
-            "復活"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "zombie_curse",
@@ -68736,19 +58849,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "僵屍祈願",
-        "types": [
-            "攻擊所有目標",
-            "全體強化持續治療",
-            "全體防禦增益",
-            "全體殭屍祝福增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦增益",
-            "生命強化",
-            "復活",
-            "持續傷害"
-        ],
         "source": "挑戰節 I",
         "Release date": "2022-02-17",
         "specialId": "zombie_invocation",
@@ -68814,15 +58914,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "飛速",
         "skill": "可怕痛苦之刃",
-        "types": [
-            "攻擊2個目標",
-            "2個目標重傷流血持續傷害",
-            "2個目標中毒持續傷害"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "持續傷害"
-        ],
         "source": "野地召喚",
         "Release date": "2025-11-07",
         "specialId": "blade_of_horrid_affliction",
@@ -68890,16 +58981,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "來！接住！",
-        "types": [
-            "攻擊所有目標",
-            "自身強化閃避"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "閃避",
-            "法力提升",
-            "反製小兵"
-        ],
         "source": "野地召喚",
         "Release date": "2025-03-26",
         "specialId": "here_catch",
@@ -68961,16 +59042,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "潮汐",
         "skill": "粉碎心靈",
-        "types": [
-            "攻擊3個目標",
-            "單體莽夫亂拳",
-            "3個目標治療降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "治療削減",
-            "失心攻擊&治療"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-01-17",
         "specialId": "shatter_psyche",
@@ -69036,16 +59107,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "潮汐",
         "skill": "破碎靈魂",
-        "types": [
-            "攻擊3個目標",
-            "單體莽夫亂拳",
-            "3個目標治療降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "治療削減",
-            "失心攻擊&治療"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-10-19",
         "specialId": "shatter_soul",
@@ -69116,19 +59177,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "殘酷甦醒",
-        "types": [
-            "全體復活並帶有瘋狂狀態",
-            "全體特殊技能防禦增益",
-            "若釋放者被擊敗則傷害全體",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "復活",
-            "防禦增益",
-            "持續傷害",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2024-05-01",
         "specialId": "grim_awakening",
@@ -69197,19 +59245,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "衝鋒",
         "skill": "伊朱術",
-        "types": [
-            "蓄力",
-            "攻擊單個目標",
-            "隨機攻擊 1 / 4 / 10 次",
-            "命中時 驅散 / 安全驅散 1個增益",
-            "命中時防禦減益疊加"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "驅散",
-            "防禦減益"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2026-03-10",
         "specialId": "iaijutsu_slashes",
@@ -69288,15 +59323,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "黑潮",
-        "types": [
-            "除暗屬性外攻擊全體",
-            "除暗屬性外攻擊全體隊友"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "對自身或友軍負面效果"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "black_tide",
@@ -69355,20 +59381,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "翡翠潮",
-        "types": [
-            "攻擊所有目標",
-            "全體暗屬性攻擊增益",
-            "全體暗屬性敵人攻擊增益",
-            "除暗屬性外全體攻擊減益",
-            "除暗屬性外全體隊友攻擊減益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊增益",
-            "攻擊減益",
-            "額外傷害",
-            "對自身或友軍負面效果"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-02-06",
         "specialId": "emerald_tide",
@@ -69434,13 +59446,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "浪潮公仔",
-        "types": [
-            "除暗屬性外攻擊全體",
-            "除暗屬性外攻擊全體隊友",
-            "除暗屬性外全體元素防禦增益",
-            "除暗屬性外全體隊友元素防禦減益"
-        ],
-        "skill_types": [],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toon_tide",
@@ -69490,18 +59495,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "巫術鐮刀",
-        "types": [
-            "攻擊3個目標",
-            "單體法力生成降低",
-            "2個目標最大生命值降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "反製惡魔",
-            "提供免疫",
-            "法力削減或格擋",
-            "最大生命削減"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-11-01",
         "specialId": "scythe_of_sorceries",
@@ -69562,22 +59555,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "充滿渴望的墳墓",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦",
-            "治療者",
-            "召喚1個墓穴幼蛾超級惡魔",
-            "增傷超級惡魔"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "繞過",
-            "特殊治療",
-            "召喚惡魔",
-            "額外傷害",
-            "閃避",
-            "反製小兵"
-        ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-01-23",
         "specialId": "hungering_grave",
@@ -69644,16 +59621,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "潮汐浪波",
-        "types": [
-            "攻擊3個目標",
-            "3個目標沈默者",
-            "3個目標特技封印免疫"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "提供免疫",
-            "沈默"
-        ],
         "source": "月活動 - 海灘派對",
         "Release date": "2023-06-12",
         "specialId": "tidal_waves",
@@ -69717,12 +59684,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "飛速",
         "skill": "衝擊吸收板",
-        "types": [
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)"
-        ],
         "source": "傳奇召喚 - 額外抽獎",
         "Release date": "",
         "specialId": "absordium_deflectors",
@@ -69778,16 +59739,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "災難之歌",
-        "types": [
-            "攻擊所有目標",
-            "全體狀態異常持續時間重置",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "效果持續重置"
-        ],
         "source": "挑戰節 II",
         "Release date": "2022-08-11",
         "specialId": "song_of_calamity",
@@ -69849,16 +59800,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "雪橇滑行",
-        "types": [
-            "全體強化治療",
-            "全體強化閃避",
-            "召喚所有"
-        ],
-        "skill_types": [
-            "生命強化",
-            "閃避",
-            "召喚小兵"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2025-12-01",
         "specialId": "sledge_bash",
@@ -69921,14 +59862,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "飛速",
         "skill": "眼部射線",
-        "types": [
-            "攻擊3個目標",
-            "3個目標狂亂",
-            "奧術/眼部射線(3個目標)",
-            "奧術/眼部射線隨機攻擊單體",
-            "自我狂亂"
-        ],
-        "skill_types": [],
         "source": "暗影召喚",
         "Release date": "2026-05-19",
         "specialId": "ocular_ray",
@@ -69978,17 +59911,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "冥河",
         "skill": "夜幕降臨",
-        "types": [
-            "蓄力",
-            "攻擊所有目標",
-            "全體攻擊增益",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊增益",
-            "防禦減益"
-        ],
         "source": "高塔 - 冥河",
         "Release date": "2022-06-01",
         "specialId": "night_falls",
@@ -70060,14 +59982,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "劈裂反擊",
-        "types": [
-            "攻擊3個目標",
-            "單體反擊"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "反擊"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "cleave_counter",
@@ -70119,14 +60033,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "造反與推翻",
-        "types": [
-            "攻擊所有目標",
-            "3個目標反擊"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "反擊"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "unite_and_oppose",
@@ -70180,16 +60086,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "吸血鬼劈擊",
-        "types": [
-            "攻擊3個目標",
-            "3個目標反擊",
-            "反擊時獲得法力"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "反擊",
-            "法力提升"
-        ],
         "source": "服裝間",
         "Release date": "2022-09-05",
         "specialId": "vampiric_cleave",
@@ -70245,15 +60141,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "卡通反擊",
-        "types": [
-            "攻擊3個目標",
-            "單體反擊"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "反擊",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2023-11-27",
         "specialId": "toon_counter",
@@ -70317,16 +60204,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "劈擊與反射",
-        "types": [
-            "攻擊3個目標",
-            "無視防禦",
-            "單體反擊"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "繞過",
-            "反擊"
-        ],
         "source": "服裝間",
         "Release date": "2025-01-14",
         "specialId": "cleave_and_reflect",
@@ -70390,15 +60267,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "有型反擊",
-        "types": [
-            "攻擊3個目標",
-            "單體反擊"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害",
-            "反擊"
-        ],
         "source": "服裝間",
         "Release date": "2026-01-26",
         "specialId": "stylish_counterattack",
@@ -70462,19 +60330,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "黑天鵝之舞",
-        "types": [
-            "全體治療",
-            "黑天鵝之舞 (4個目標)",
-            "舞蹈時隨機攻擊 1 個目標",
-            "舞蹈時異常狀態免疫"
-        ],
-        "skill_types": [
-            "舞者",
-            "生命強化",
-            "連鎖與隨機攻擊",
-            "特殊治療",
-            "提供免疫"
-        ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2024-03-21",
         "specialId": "dance_of_the_raven",
@@ -70545,18 +60400,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "執法長柄斧",
-        "types": [
-            "摧毀所有惡魔",
-            "月玫瑰擊 (全體)",
-            "魔僕被摧毀時全體法力增加"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "反製惡魔",
-            "法力提升",
-            "繞過"
-        ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2023-12-20",
         "specialId": "poleaxe_of_the_law",
@@ -70621,19 +60464,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "衝鋒",
         "skill": "重創利爪",
-        "types": [
-            "蓄力",
-            "攻擊 (1/3/所有) 目標",
-            "1/3/全體目標增益免疫",
-            "1/3/全體目標驅散者"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "全體攻擊 (打5)",
-            "增益格擋者",
-            "驅散",
-            "狙擊手"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "specialId": "crippling_claws",
@@ -70700,18 +60530,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "致盲不義",
-        "types": [
-            "驅散3個目標",
-            "攻擊3個目標",
-            "3個目標致盲"
-        ],
-        "skill_types": [
-            "繞過",
-            "驅散",
-            "範圍攻擊 (打3)",
-            "攻擊減益",
-            "額外傷害"
-        ],
         "source": "星界召喚",
         "Release date": "2025-10-23",
         "specialId": "blinding_injustice",
@@ -70783,17 +60601,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "腐敗香水",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "召喚小兵",
-            "額外傷害"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2022-12-01",
         "specialId": "putrid_perfume",
@@ -70852,22 +60659,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "癡迷民謠",
-        "types": [
-            "攻擊3個目標",
-            "執著之謠 (3個目標)",
-            "淨化 (3個目標)",
-            "3個目標法力生成降低",
-            "3個目標療量降低",
-            "3個目標狀態效果免疫"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "舞者",
-            "治療削減",
-            "提供免疫",
-            "法力削減或格擋",
-            "沈默"
-        ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2023-06-20",
         "specialId": "ballad_of_obsession",
@@ -70932,19 +60723,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "潮汐",
         "skill": "深淵召集",
-        "types": [
-            "召喚3個小兵",
-            "小怪增加法力",
-            "嘲諷",
-            "全體小怪攻擊疊加"
-        ],
-        "skill_types": [
-            "法力提升",
-            "小兵強化",
-            "召喚小兵",
-            "疊加",
-            "嘲諷"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-06-07",
         "specialId": "rally_of_the_deep",
@@ -71011,19 +60789,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "潮汐",
         "skill": "深淵秩序",
-        "types": [
-            "召喚3個小兵",
-            "小怪增加法力",
-            "嘲諷",
-            "全體小怪攻擊疊加"
-        ],
-        "skill_types": [
-            "小兵強化",
-            "召喚小兵",
-            "疊加",
-            "嘲諷",
-            "法力提升"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-05-23",
         "specialId": "order_from_the_depths",
@@ -71095,16 +60860,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "貪慾藥水",
-        "types": [
-            "攻擊所有目標",
-            "全體驅散",
-            "增益被驅散時全體治療"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "驅散",
-            "特殊治療"
-        ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2023-02-14",
         "specialId": "potions_of_covetous_desire",
@@ -71162,19 +60917,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "追蹤射擊",
-        "types": [
-            "攻擊3個目標",
-            "3個目標狂亂",
-            "3個目標防禦降低",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "失心攻擊&治療",
-            "對自身或友軍負面效果",
-            "範圍攻擊 (打3)",
-            "反製小兵",
-            "防禦減益"
-        ],
         "source": "暗影召喚",
         "Release date": "2025-09-09",
         "specialId": "seeking_shots",
@@ -71236,17 +60978,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "衝鋒",
         "skill": "氣之煽動",
-        "types": [
-            "蓄力",
-            "全體持續治療",
-            "全體攻擊增益",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "凈化",
-            "持續治療"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2021-11-10",
         "specialId": "incite_ki",
@@ -71314,12 +61045,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "雷電通牒",
-        "types": [
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "thunderstrike",
@@ -71365,14 +61090,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "震駭通牒",
-        "types": [
-            "攻擊所有目標",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益"
-        ],
         "source": "服裝間",
         "Release date": "2020-01-01",
         "specialId": "shock_ultimatum",
@@ -71426,14 +61143,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "閃電最後通牒",
-        "types": [
-            "攻擊3個目標",
-            "3個目標盲目攻擊"
-        ],
-        "skill_types": [
-            "失心攻擊&治療",
-            "範圍攻擊 (打3)"
-        ],
         "source": "服裝間",
         "Release date": "2022-12-26",
         "specialId": "lightning_ultimatum",
@@ -71487,13 +61196,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "公仔通牒",
-        "types": [
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-08-11",
         "specialId": "toon_ultimatum",
@@ -71551,14 +61253,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "玻璃通牒",
-        "types": [
-            "攻擊所有目標",
-            "無視防禦"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "繞過"
-        ],
         "source": "服裝間",
         "Release date": "2025-10-09",
         "specialId": "glass_thunderstrike_quintus",
@@ -71616,16 +61310,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "飛速",
         "skill": "三隻小羊",
-        "types": [
-            "攻擊單個目標",
-            "對3個目標召喚1個惡魔",
-            "偷取治療惡魔"
-        ],
-        "skill_types": [
-            "召喚惡魔",
-            "特殊治療",
-            "狙擊手"
-        ],
         "source": "傳奇召喚",
         "Release date": "2024-04-05",
         "specialId": "three_little_rams",
@@ -71688,12 +61372,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "被捕兇惡",
-        "types": [
-            "攻擊所有目標",
-            "嘲諷",
-            "擊倒全體"
-        ],
-        "skill_types": [],
         "source": "野地召喚",
         "Release date": "2026-04-09",
         "specialId": "caught_and_vicious",
@@ -71742,7 +61420,23 @@ window.allHeroes =
             "health": 2862,
             "power": 1587
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：全體"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防禦-嘲諷"
+                ]
+            },
+            {
+                "负面效果": [
+                    "法力-混亂/沉默/睡眠"
+                ]
+            }
+        ]
     },
     {
         "name": "芮恩 (Rayne)",
@@ -71752,14 +61446,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "瘟疫之刃",
-        "types": [
-            "攻擊單個目標",
-            "單體擴散型持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "狙擊手"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2022-01-05",
         "specialId": "plague_blade",
@@ -71812,14 +61498,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "無恥奸計",
-        "types": [
-            "攻擊3個目標",
-            "若目標被擊敗則傷害全體"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "全體攻擊 (打5)"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2023-09-20",
         "specialId": "dishonorable_ploy",
@@ -71875,12 +61553,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "滅鼠者的詭計",
-        "types": [
-            "攻擊3個目標",
-            "若目標被擊敗則傷害全體",
-            "自身生命值加成持續治療"
-        ],
-        "skill_types": [],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2026-04-16",
         "specialId": "exterminators_ploy",
@@ -71920,7 +61592,19 @@ window.allHeroes =
             "health": 3238,
             "power": 1600
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：鄰近輕傷"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "傷害-條件觸發",
+                    "治療-自我恢復/提高生命"
+                ]
+            }
+        ]
     },
     {
         "name": "鮭魚洛基 (Salmon Loki)",
@@ -71930,14 +61614,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "騙徒的悔悟",
-        "types": [
-            "攻擊全體聖屬性",
-            "詭異"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "額外傷害"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2021-07-04",
         "specialId": "tricksters_transformation",
@@ -71996,14 +61672,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "紳士的變形",
-        "types": [
-            "攻擊全體聖屬性",
-            "詭異"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "額外傷害"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-07-31",
         "specialId": "gentlemans_transformation",
@@ -72064,14 +61732,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "馬尾藻詛咒",
-        "types": [
-            "攻擊3個目標",
-            "3個目標治療降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "治療削減"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "curse_of_sargasso",
@@ -72123,16 +61783,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "海之詛咒",
-        "types": [
-            "攻擊3個目標",
-            "治療降低",
-            "持續傷害"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "治療削減"
-        ],
         "source": "挑戰節 I",
         "Release date": "2023-12-28",
         "specialId": "curse_of_the_sea",
@@ -72193,14 +61843,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "死亡打擊",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "deathstrike",
@@ -72253,12 +61895,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "恐懼之擊",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2020-05-18",
         "specialId": "dreadstrike",
@@ -72306,15 +61942,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "駭人打擊",
-        "types": [
-            "摧毀單個目標的小兵",
-            "攻擊單個目標",
-            "單體抵抗小兵"
-        ],
-        "skill_types": [
-            "反製小兵",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2023-06-12",
         "specialId": "frightstrike",
@@ -72374,15 +62001,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "公仔打擊",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "額外傷害",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2023-10-30",
         "specialId": "adorable_strike",
@@ -72447,16 +62065,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "玻璃打擊",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦",
-            "單體持續傷害"
-        ],
-        "skill_types": [
-            "繞過",
-            "持續傷害",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2024-12-25",
         "specialId": "glass_strike",
@@ -72521,15 +62129,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "有型打擊",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "持續傷害",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2026-01-07",
         "specialId": "stylish_strike",
@@ -72594,18 +62193,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "衝鋒",
         "skill": "潛影斗篷",
-        "types": [
-            "蓄力",
-            "攻擊 (1/3/所有) 目標",
-            "躲藏"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "範圍攻擊 (打3)",
-            "全體攻擊 (打5)",
-            "鬼魂形態與隱藏",
-            "反製小兵"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2025-01-02",
         "specialId": "shade_cloak",
@@ -72679,17 +62266,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "虛空炸彈",
-        "types": [
-            "全體持續治療",
-            "自身反擊",
-            "儲存傷害攻擊全體"
-        ],
-        "skill_types": [
-            "反擊",
-            "持續治療",
-            "全體攻擊 (打5)",
-            "生命強化"
-        ],
         "source": "聖約召喚",
         "Release date": "2024-03-10",
         "specialId": "void_bomb",
@@ -72755,21 +62331,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "殺手",
         "skill": "幽魂詛咒",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有惡魔",
-            "自身法力生成增益疊加",
-            "自身法力持續恢復疊加"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "召喚惡魔",
-            "特殊治療",
-            "疊加",
-            "持續傷害",
-            "法力生成增益",
-            "持續治療"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-08-05",
         "specialId": "curse_of_the_specter",
@@ -72834,21 +62395,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "殺手",
         "skill": "頭顱的詛咒",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有惡魔",
-            "自身法力生成增益疊加",
-            "自身法力持續恢復疊加"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "召喚惡魔",
-            "特殊治療",
-            "疊加",
-            "法力生成增益",
-            "持續治療"
-        ],
         "source": "挑戰節 II",
         "Release date": "2025-04-09",
         "specialId": "curse_of_the_cephaloid",
@@ -72918,16 +62464,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "散佈八卦",
-        "types": [
-            "攻擊單個目標",
-            "單體擴散型惡魔"
-        ],
-        "skill_types": [
-            "召喚惡魔",
-            "狙擊手",
-            "攻擊減益",
-            "持續傷害"
-        ],
         "source": "月活動 - 海灘派對",
         "Release date": "2025-06-03",
         "specialId": "spreading_gossip",
@@ -72993,17 +62529,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "咒語之箭",
-        "types": [
-            "攻擊單個目標",
-            "自身複製小怪召喚師",
-            "驅散3個目標"
-        ],
-        "skill_types": [
-            "驅散",
-            "法力生成增益",
-            "召喚小兵",
-            "狙擊手"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2019-07-01",
         "specialId": "undead_rage",
@@ -73066,18 +62591,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "驅魔箭",
-        "types": [
-            "驅散3個目標",
-            "攻擊單個目標",
-            "自身複製小怪召喚師"
-        ],
-        "skill_types": [
-            "驅散",
-            "法力生成增益",
-            "召喚小兵",
-            "狙擊手",
-            "凈化"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-10-20",
         "specialId": "excorcizing_arrow",
@@ -73145,16 +62658,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "暗黑軍團",
-        "types": [
-            "召喚所有",
-            "全體持續傷害",
-            "自身被擊敗時全體法力削減"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "法力削減或格擋",
-            "召喚小兵"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-09-29",
         "specialId": "legions_of_darkness",
@@ -73219,16 +62722,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "暴君軍團",
-        "types": [
-            "召喚所有",
-            "全體持續傷害",
-            "自身被擊敗時全體法力削減"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "法力削減或格擋",
-            "召喚小兵"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2025-05-14",
         "specialId": "legions_of_tyrant",
@@ -73300,17 +62793,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "鐵之怒",
-        "types": [
-            "攻擊3個目標",
-            "偷取3個目標法力",
-            "3個目標增益複製"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "增益竊取者",
-            "法力提升",
-            "法力削減或格擋"
-        ],
         "source": "聖約召喚",
         "Release date": "2023-12-24",
         "specialId": "ironbound_fury",
@@ -73376,18 +62858,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "飛翔之骨",
-        "types": [
-            "攻擊所有目標",
-            "投擲骨頭攻擊單個目標",
-            "投擲骨頭召喚1個惡魔"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "召喚惡魔",
-            "持續傷害",
-            "連鎖與隨機攻擊",
-            "治療削減"
-        ],
         "source": "聖約召喚",
         "Release date": "2024-12-23",
         "specialId": "bone_toss",
@@ -73447,18 +62917,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "九龍打擊",
-        "types": [
-            "機率暴擊",
-            "攻擊單個目標",
-            "隨機攻擊8次",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "攻擊增益"
-        ],
         "source": "三國召喚",
         "Release date": "2026-03-01",
         "specialId": "nine_dragon_strike",
@@ -73529,18 +62987,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "守護者的報復",
-        "types": [
-            "淨化 (3個目標)",
-            "單體命中機率",
-            "3個目標反射狀態異常",
-            "3個目標反射疊加效果"
-        ],
-        "skill_types": [
-            "凈化",
-            "反射",
-            "連鎖與隨機攻擊",
-            "閃避"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-08-01",
         "specialId": "guardians_retaliation",
@@ -73606,18 +63052,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "軟黏處決",
-        "types": [
-            "攻擊單個目標",
-            "擊殺時全體法力提升",
-            "擊殺時全體生命值加成治療",
-            "延遲麻痺 (單體)"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "法力提升",
-            "生命強化",
-            "沈睡"
-        ],
         "source": "超級元素",
         "Release date": "2026-02-19",
         "specialId": "glutinous_execution",
@@ -73682,17 +63116,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "黏黏特快車",
-        "types": [
-            "2個目標法力增加",
-            "召喚2個史萊姆超級小兵",
-            "自我強化持續治療"
-        ],
-        "skill_types": [
-            "持續治療",
-            "生命強化",
-            "法力提升",
-            "召喚巨型小兵"
-        ],
         "source": "超級元素",
         "Release date": "2025-09-25",
         "specialId": "sticky_express",
@@ -73748,16 +63171,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "沮喪謎語",
-        "types": [
-            "攻擊單個目標",
-            "連鎖攻擊",
-            "對命中目標施加增益免疫"
-        ],
-        "skill_types": [
-            "增益格擋者",
-            "連鎖與隨機攻擊",
-            "狙擊手"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2023-05-11",
         "specialId": "disheartening_riddle",
@@ -73817,16 +63230,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "恐懼謎語",
-        "types": [
-            "攻擊單個目標",
-            "連鎖攻擊",
-            "命中時施加增益免疫減益"
-        ],
-        "skill_types": [
-            "增益格擋者",
-            "連鎖與隨機攻擊",
-            "狙擊手"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2025-07-10",
         "specialId": "dreadful_riddle",
@@ -73893,15 +63296,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "削弱打擊",
-        "types": [
-            "攻擊3個目標",
-            "3個目標最大生命值持續削減"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "最大生命削減",
-            "額外傷害"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2025-11-20",
         "specialId": "weakening_strike",
@@ -73965,19 +63359,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "迅捷小朋友",
-        "types": [
-            "攻擊單個目標",
-            "單體沈默者",
-            "召喚3個小兵"
-        ],
-        "skill_types": [
-            "增益竊取者",
-            "閃避",
-            "召喚小兵",
-            "沈默",
-            "狙擊手",
-            "治療削減"
-        ],
         "source": "聖約召喚",
         "Release date": "2024-10-07",
         "specialId": "swift_little_friends",
@@ -74047,16 +63428,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "不安曲調",
-        "types": [
-            "攻擊所有目標",
-            "全體強化防禦",
-            "全體延遲沈默"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦減益",
-            "沈默"
-        ],
         "source": "野地召喚",
         "Release date": "2024-09-20",
         "specialId": "disquieting_tune",
@@ -74118,18 +63489,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "折磨之杖",
-        "types": [
-            "攻擊單個目標",
-            "單體靈魂綁定"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "額外傷害",
-            "反製小兵",
-            "狙擊手",
-            "傷害分攤",
-            "法力削減或格擋"
-        ],
         "source": "聖約召喚",
         "Release date": "2023-10-12",
         "specialId": "rod_of_torment",
@@ -74190,19 +63549,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "與野獸共宴",
-        "types": [
-            "謙遜",
-            "隨機攻擊 6 或 5 次",
-            "命中時施加元素防禦降低減益",
-            "命中時施加失心攻擊",
-            "自我強化持續治療"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "防禦減益",
-            "失心攻擊&治療",
-            "生命強化"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2025-11-12",
         "specialId": "dinner_with_the_beast",
@@ -74275,17 +63621,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "骷髏召喚",
-        "types": [
-            "攻擊3個目標",
-            "召喚3個小兵"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "法力生成增益",
-            "召喚小兵",
-            "驅散",
-            "法力生成增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2017-11-01",
         "specialId": "soul_cage",
@@ -74338,14 +63673,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "不死召喚",
-        "types": [
-            "攻擊3個目標",
-            "召喚3個小兵"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "召喚小兵"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-01-11",
         "specialId": "undying_summon",
@@ -74404,11 +63731,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "骷髏公仔召喚",
-        "types": [
-            "攻擊3個目標",
-            "召喚3個小兵"
-        ],
-        "skill_types": [],
         "source": "傳奇召喚 - 月英",
         "Release date": "2026-04-29",
         "specialId": "skeletoon_summon",
@@ -74458,21 +63780,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "冰河氣場",
-        "types": [
-            "攻擊所有目標",
-            "全體防禦增益",
-            "全體異常狀態傷害免疫"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦增益",
-            "提供免疫",
-            "額外傷害",
-            "繞過",
-            "持續傷害",
-            "攻擊減益",
-            "反製小兵"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-05-16",
         "specialId": "glacial_atmosphere",
@@ -74540,19 +63847,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "衝鋒",
         "skill": "尋找獵物",
-        "types": [
-            "蓄力",
-            "攻擊 (1/3/所有) 目標",
-            "無視防禦"
-        ],
-        "skill_types": [
-            "繞過",
-            "反製小兵",
-            "狙擊手",
-            "範圍攻擊 (打3)",
-            "全體攻擊 (打5)",
-            "額外傷害"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2024-08-27",
         "specialId": "hunt_for_prey",
@@ -74620,12 +63914,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "貪婪咀嚼",
-        "types": [
-            "攻擊單個目標",
-            "寶箱怪",
-            "全體普通攻擊增益"
-        ],
-        "skill_types": [],
         "source": "市場召喚",
         "Release date": "2026-03-27",
         "specialId": "gluttonous_chomp_purple",
@@ -74707,15 +63995,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "飛速",
         "skill": "致命瞄準",
-        "types": [
-            "攻擊單個目標",
-            "單體傷害增加疊加"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "狙擊手",
-            "疊加"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-04-01",
         "specialId": "marked_aim",
@@ -74774,18 +64053,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "當恩與迪迪",
-        "types": [
-            "隨機攻擊1個目標",
-            "單體防禦降低",
-            "隨機攻擊1個目標",
-            "單體攻擊降低"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "攻擊減益",
-            "防禦減益",
-            "法力提升"
-        ],
         "source": "挑戰節 I",
         "Release date": "2023-10-05",
         "specialId": "dum_and_dee",
@@ -74850,16 +64117,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "潮汐",
         "skill": "邪惡糾纏",
-        "types": [
-            "攻擊所有目標",
-            "3個目標反擊",
-            "3個目標傷害減免"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "反擊",
-            "傷害減免"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-08-02",
         "specialId": "sinister_enlace",
@@ -74930,17 +64187,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "潮汐",
         "skill": "邪惡虹吸",
-        "types": [
-            "攻擊所有目標",
-            "3個目標反擊",
-            "3個目標傷害減免增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "反擊",
-            "傷害減免",
-            "額外傷害"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-05-28",
         "specialId": "sinister_siphon",
@@ -75016,15 +64262,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "散播暗影",
-        "types": [
-            "攻擊單個目標",
-            "召喚1個克隆惡魔"
-        ],
-        "skill_types": [
-            "召喚惡魔",
-            "狙擊手",
-            "持續傷害"
-        ],
         "source": "挑戰 - 眾神狂歡節",
         "Release date": "2023-11-02",
         "specialId": "spreading_shadow",
@@ -75082,18 +64319,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "衝鋒",
         "skill": "毒花盛放",
-        "types": [
-            "蓄力",
-            "1/3/全體目標驅散者",
-            "1/3/全體目標持續傷害",
-            "1/3/全體目標治療減益"
-        ],
-        "skill_types": [
-            "驅散",
-            "持續傷害",
-            "治療削減",
-            "反製小兵"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2024-10-22",
         "specialId": "noxious_blossom",
@@ -75166,16 +64391,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "深淵爆裂",
-        "types": [
-            "攻擊所有目標",
-            "全體元素反射",
-            "全體元素反擊"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "反射"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "depth_blast",
@@ -75235,18 +64450,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "礁石爆炸",
-        "types": [
-            "攻擊所有目標",
-            "全體元素反射",
-            "全體元素反擊",
-            "全體神聖元素防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦減益",
-            "額外傷害",
-            "反射"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2021-11-15",
         "specialId": "reef_blast",
@@ -75312,16 +64515,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "飛速",
         "skill": "劇毒之爪",
-        "types": [
-            "攻擊單個目標",
-            "3個目標持續傷害",
-            "處於持續傷害狀態時治療自身"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "特殊治療",
-            "狙擊手"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-10-01",
         "specialId": "venomous_claws",
@@ -75386,17 +64579,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "鏈鎖爆炸打擊",
-        "types": [
-            "攻擊單個目標",
-            "連鎖"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "提供免疫",
-            "傷害減免"
-        ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2024-05-16",
         "specialId": "chain_blasm_strike",
@@ -75460,16 +64642,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "幽暗手榴彈",
-        "types": [
-            "攻擊單個目標",
-            "沈默"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "全體攻擊 (打5)",
-            "沈默",
-            "狙擊手"
-        ],
         "source": "超級元素",
         "Release date": "2024-08-07",
         "specialId": "gloom_grenades",
@@ -75531,16 +64703,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "虛空之力",
-        "types": [
-            "攻擊所有目標",
-            "全體衰退",
-            "法力生成降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "屬性修改",
-            "法力削減或格擋"
-        ],
         "source": "星界召喚",
         "Release date": "2025-01-30",
         "specialId": "power_of_the_void",
@@ -75603,18 +64765,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "虎爪突刺",
-        "types": [
-            "攻擊3個目標",
-            "攻擊成長恩賜",
-            "全體閃避率增益",
-            "閃避時造成傷害"
-        ],
-        "skill_types": [
-            "屬性修改",
-            "範圍攻擊 (打3)",
-            "額外傷害",
-            "閃避"
-        ],
         "source": "神殿召喚",
         "Release date": "2026-01-28",
         "specialId": "bagh_nakh_thrust",
@@ -75681,19 +64831,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "飛速",
         "skill": "悲傷之夜",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害",
-            "偷取治療 (單體)",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "持續傷害",
-            "特殊治療",
-            "治療削減",
-            "狙擊手"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "",
         "specialId": "kings_blood_poisoning",
@@ -75757,19 +64894,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "飛速",
         "skill": "暗黑遺產",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "生命偷取",
-            "防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "持續傷害",
-            "特殊治療",
-            "治療削減"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2021-10-04",
         "specialId": "legacy_of_darkness",
@@ -75831,18 +64955,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "幸運幣",
-        "types": [
-            "全體安全淨化者",
-            "全體增益免疫狀態異常",
-            "持劍守衛超級小兵",
-            "傳播持續傷害的小怪"
-        ],
-        "skill_types": [
-            "召喚巨型小兵",
-            "驅散",
-            "增益格擋者",
-            "持續傷害"
-        ],
         "source": "哥布林召喚",
         "Release date": "2024-06-10",
         "specialId": "lucky_coin",
@@ -75913,16 +65025,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "詛咒花園",
-        "types": [
-            "攻擊所有目標",
-            "繞過小兵",
-            "召喚所有惡魔"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "召喚惡魔",
-            "反製小兵"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-01-01",
         "specialId": "cursed_garden",
@@ -75986,16 +65088,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "無堅不摧的變化",
-        "types": [
-            "重新部署",
-            "攻擊所有目標",
-            "4個隊友屬性轉變"
-        ],
-        "skill_types": [
-            "重排隊伍",
-            "全體攻擊 (打5)",
-            "狀態效果格擋"
-        ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2025-03-31",
         "specialId": "insurmountable_flux",
@@ -76049,18 +65141,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "星座典範",
-        "types": [
-            "攻擊單個目標",
-            "治療者",
-            "特殊技能防禦增益"
-        ],
-        "skill_types": [
-            "繞過",
-            "狙擊手",
-            "特殊治療",
-            "防禦增益",
-            "傷害分攤"
-        ],
         "source": "星界召喚",
         "Release date": "2024-04-22",
         "specialId": "paragon_of_constellations",
@@ -76126,16 +65206,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "痛苦民謠",
-        "types": [
-            "攻擊單個目標",
-            "擴散之舞：痛苦歌謠"
-        ],
-        "skill_types": [
-            "舞者",
-            "狙擊手",
-            "沈默",
-            "提供免疫"
-        ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2024-08-22",
         "specialId": "ballad_of_pain",
@@ -76205,16 +65275,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "暴怒刺擊",
-        "types": [
-            "特技無視閃避",
-            "驅散3個目標",
-            "3個目標持續傷害"
-        ],
-        "skill_types": [
-            "繞過",
-            "驅散",
-            "持續傷害"
-        ],
         "source": "三國召喚",
         "Release date": "2024-02-06",
         "specialId": "wrathful_sting",
@@ -76283,18 +65343,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "山君之怒",
-        "types": [
-            "全體最大生命值持續降低",
-            "全體強化持續治療",
-            "全體法力生成降低",
-            "全體法力生成增益"
-        ],
-        "skill_types": [
-            "生命強化",
-            "法力生成增益",
-            "法力削減或格擋",
-            "最大生命削減"
-        ],
         "source": "三國召喚",
         "Release date": "2023-04-24",
         "specialId": "fury_of_the_mountain_lord",
@@ -76355,18 +65403,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "古老魔法",
-        "types": [
-            "全體治療",
-            "全體法力增加",
-            "改變棋盤"
-        ],
-        "skill_types": [
-            "改變面板",
-            "法力生成增益",
-            "法力削減或格擋",
-            "治療",
-            "法力提升"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-09-09",
         "specialId": "ancient_enchantment",
@@ -76428,19 +65464,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "誘騙魔法",
-        "types": [
-            "全體持續治療",
-            "全體法力持續恢復",
-            "改變棋盤"
-        ],
-        "skill_types": [
-            "改變面板",
-            "法力生成增益",
-            "法力削減或格擋",
-            "持續治療",
-            "法力提升",
-            "生命強化"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-11-09",
         "specialId": "entrapping_enchantment",
@@ -76507,17 +65530,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "鞭打",
-        "types": [
-            "攻擊3個目標",
-            "3個目標強化防禦異常",
-            "3個目標延遲驅散"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "驅散",
-            "反製小兵"
-        ],
         "source": "野地召喚",
         "Release date": "2024-11-05",
         "specialId": "lash_of_the_whip",
@@ -76583,17 +65595,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "靈魂線路",
-        "types": [
-            "攻擊所有目標",
-            "全體致盲",
-            "全體狀態異常免疫"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "提供免疫",
-            "法力提升"
-        ],
         "source": "聖約召喚",
         "Release date": "2026-01-15",
         "specialId": "spiritual_wire",
@@ -76663,17 +65664,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "長槍突刺",
-        "types": [
-            "攻擊單個目標",
-            "單體防禦降低",
-            "單體治療降低"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "攻擊增益",
-            "防禦減益",
-            "治療削減"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2025-01-01",
         "specialId": "lance_thrust",
@@ -76739,16 +65729,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "固悍守衛",
-        "types": [
-            "3個目標持續治療",
-            "3個目標防禦增益",
-            "3個目標特技防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "持續治療",
-            "召喚小兵"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2020-10-01",
         "specialId": "vast_ward",
@@ -76807,12 +65787,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "輕微治療",
-        "types": [
-            "治療者"
-        ],
-        "skill_types": [
-            "治療"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "field_aid",
@@ -76852,12 +65826,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "背刺",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "backstab",
@@ -76897,12 +65865,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "爆裂連斬",
-        "types": [
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "fierce_slash",
@@ -76942,12 +65904,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "攻擊動員",
-        "types": [
-            "攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "attack_rally",
@@ -76987,12 +65943,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "攻擊動員",
-        "types": [
-            "攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "attack_rally",
@@ -77032,12 +65982,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "迎風披靡",
-        "types": [
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "tackle",
@@ -77077,14 +66021,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "銳不可當",
-        "types": [
-            "攻擊單個目標",
-            "單體法力削減"
-        ],
-        "skill_types": [
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "sharp_cut",
@@ -77136,14 +66072,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "銳爪",
-        "types": [
-            "攻擊3個目標",
-            "3個目標法力削減"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "法力削減或格擋"
-        ],
         "source": "服裝間",
         "Release date": "2020-05-18",
         "specialId": "acute_cut",
@@ -77197,15 +66125,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "公仔切割",
-        "types": [
-            "攻擊單個目標",
-            "單體法力削減"
-        ],
-        "skill_types": [
-            "法力削減或格擋",
-            "狙擊手",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-03-11",
         "specialId": "toon_cut",
@@ -77265,16 +66184,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "玻璃切擊",
-        "types": [
-            "攻擊單個目標",
-            "單體法力削減",
-            "無視防禦"
-        ],
-        "skill_types": [
-            "繞過",
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2025-04-23",
         "specialId": "glass_cut",
@@ -77334,11 +66243,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "時尚切割",
-        "types": [
-            "攻擊單個目標",
-            "單體法力削減"
-        ],
-        "skill_types": [],
         "source": "服裝間",
         "Release date": "2026-05-09",
         "specialId": "stylish_cut",
@@ -77386,14 +66290,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "潮汐",
         "skill": "燃燒標槍",
-        "types": [
-            "攻擊3個目標",
-            "3個目標元素防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-06-07",
         "specialId": "burning_javelin",
@@ -77456,14 +66352,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "潮汐",
         "skill": "密探的小型望遠鏡",
-        "types": [
-            "攻擊3個目標",
-            "3個目標元素防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-04-29",
         "specialId": "scouts_spyglass",
@@ -77531,16 +66419,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "驚聲護衛",
-        "types": [
-            "全體防禦增益",
-            "友方傷害分擔",
-            "全體反擊"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "反擊",
-            "傷害分攤"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2022-12-24",
         "specialId": "squeak_of_protection",
@@ -77596,16 +66474,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "哥布林暴怒",
-        "types": [
-            "攻擊所有目標",
-            "法力削減",
-            "法力生成增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力生成增益",
-            "法力削減或格擋"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "claw_power",
@@ -77663,16 +66531,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "錘擊",
-        "types": [
-            "攻擊3個目標",
-            "攻擊降低",
-            "防禦降低"
-        ],
-        "skill_types": [
-            "屬性修改",
-            "範圍攻擊 (打3)",
-            "防禦減益"
-        ],
         "source": "哥布林召喚",
         "Release date": "2023-09-18",
         "specialId": "hammer_thump",
@@ -77738,16 +66596,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "霜凍搥擊",
-        "types": [
-            "攻擊3個目標",
-            "自身召喚師",
-            "3個目標受到傷害增加減益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害",
-            "召喚小兵"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2022-12-01",
         "specialId": "frosty_punches",
@@ -77805,14 +66653,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "冥河",
         "skill": "但丁的煉獄",
-        "types": [
-            "蓄力"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "繞過",
-            "持續傷害"
-        ],
         "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
         "specialId": "dantes_inferno",
@@ -77886,20 +66726,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "舞者",
         "skill": "防禦光環",
-        "types": [
-            "安全淨化 (3個目標)",
-            "3個目標靈氣加成治療",
-            "2個目標烈焰福運之舞增益"
-        ],
-        "skill_types": [
-            "治療",
-            "生命強化",
-            "凈化",
-            "舞者",
-            "攻擊增益",
-            "額外傷害",
-            "傷害減免"
-        ],
         "source": "月活動 - 鴻運召喚",
         "Release date": "2026-02-17",
         "specialId": "protective_aura",
@@ -77973,14 +66799,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "疫病斧",
-        "types": [
-            "攻擊3個目標",
-            "3個目標法力生成降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "法力削減或格擋"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "",
         "specialId": "tainted_axe",
@@ -78032,14 +66850,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "惡毒利斧",
-        "types": [
-            "攻擊所有目標",
-            "全體法力削減"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力削減或格擋"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-02-13",
         "specialId": "vicious_axe",
@@ -78093,11 +66903,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "斧頭公仔",
-        "types": [
-            "攻擊3個目標",
-            "3個目標法力生成降低"
-        ],
-        "skill_types": [],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2026-04-29",
         "specialId": "toon_axe",
@@ -78145,17 +66950,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "貪婪咀嚼",
-        "types": [
-            "摧毀單個目標的小兵",
-            "攻擊單個目標",
-            "寶箱怪"
-        ],
-        "skill_types": [
-            "反製小兵",
-            "狙擊手",
-            "繞過",
-            "鬼魂形態與隱藏"
-        ],
         "source": "市場召喚",
         "Release date": "2026-01-16",
         "specialId": "greedy_munch_red",
@@ -78225,15 +67019,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "逃脫衝刺",
-        "types": [
-            "閃避",
-            "法力持續恢復"
-        ],
-        "skill_types": [
-            "閃避",
-            "法力提升",
-            "反擊"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2023-10-18",
         "specialId": "evading_dash",
@@ -78290,12 +67075,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "疾風禱告",
-        "types": [
-            "全體治療"
-        ],
-        "skill_types": [
-            "治療"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "wind_prayer",
@@ -78341,14 +67120,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "疾風福音",
-        "types": [
-            "全體持續治療",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "持續治療"
-        ],
         "source": "服裝間",
         "Release date": "2020-01-01",
         "specialId": "wind_gospel",
@@ -78402,14 +67173,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "祈禱者公仔",
-        "types": [
-            "全體治療",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "治療",
-            "防禦增益"
-        ],
         "source": "服裝間",
         "Release date": "2024-05-06",
         "specialId": "adorable_wind_prayer",
@@ -78467,15 +67230,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "玻璃祈禱者",
-        "types": [
-            "全體治療",
-            "火焰盟友反射狀態異常",
-            "火焰盟友反射疊加效果"
-        ],
-        "skill_types": [
-            "治療",
-            "反射"
-        ],
         "source": "服裝間",
         "Release date": "2025-07-16",
         "specialId": "glass_prayer",
@@ -78533,18 +67287,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "矮人興旺",
-        "types": [
-            "隨機攻擊8次",
-            "全體增益持續時間重置"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "效果持續重置",
-            "額外傷害",
-            "反製小兵",
-            "持續傷害",
-            "防禦減益"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2024-12-03",
         "specialId": "dwarven_flourish",
@@ -78604,18 +67346,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "矮人補充",
-        "types": [
-            "隨機攻擊8次",
-            "全體增益持續時間重置"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "效果持續重置",
-            "額外傷害",
-            "反製小兵",
-            "持續傷害",
-            "防禦減益"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-10-15",
         "specialId": "dwarven_recharge",
@@ -78677,14 +67407,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "火球",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "fireball",
@@ -78737,14 +67459,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "燒灼光線",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "comet",
@@ -78799,15 +67513,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "公仔球",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2023-12-25",
         "specialId": "toonball",
@@ -78872,16 +67577,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "玻璃火球",
-        "types": [
-            "攻擊所有目標",
-            "無視防禦",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "繞過",
-            "持續傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-12-25",
         "specialId": "glass_fireball",
@@ -78946,15 +67641,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "有型火球",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "持續傷害"
-        ],
         "source": "服裝間",
         "Release date": "2026-01-07",
         "specialId": "stylish_fireball",
@@ -79019,15 +67705,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "魔法",
         "skill": "幻想增長",
-        "types": [
-            "蓄力",
-            "3個目標攻擊增益",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "防禦減益"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "specialId": "imaginary_increments",
@@ -79086,16 +67763,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "吳國之鐮",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有",
-            "帶持續傷害的小怪"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "召喚小兵"
-        ],
         "source": "三國召喚",
         "Release date": "2022-03-14",
         "specialId": "sickle_of_wu",
@@ -79154,16 +67821,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "混戰",
-        "types": [
-            "暴擊機率",
-            "攻擊3個目標",
-            "嘲諷"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "嘲諷",
-            "額外傷害"
-        ],
         "source": "三國召喚",
         "Release date": "2025-05-22",
         "specialId": "rough_and_tumble",
@@ -79228,14 +67885,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "嗜血攻擊",
-        "types": [
-            "攻擊單個目標",
-            "自我攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "狙擊手"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "bloodthirst",
@@ -79287,14 +67936,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "燃燒打擊",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "burning_strike",
@@ -79347,14 +67988,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "毀滅打擊",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "searing_strike",
@@ -79409,15 +68042,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "公仔火擊",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "狙擊手",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-05-31",
         "specialId": "adorable_burning_strike",
@@ -79482,16 +68106,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "玻璃打擊",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦",
-            "單體持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "狙擊手",
-            "繞過"
-        ],
         "source": "服裝間",
         "Release date": "2025-08-10",
         "specialId": "glass_burning_strike",
@@ -79556,14 +68170,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "珍貴奉獻",
-        "types": [
-            "攻擊增益",
-            "法力生成增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "法力生成增益"
-        ],
         "source": "挑戰節 I",
         "Release date": "2021-12-15",
         "specialId": "valuable_contribution",
@@ -79611,19 +68217,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "有利位置",
-        "types": [
-            "攻擊3個目標",
-            "3個目標狂亂",
-            "自身攻擊增益疊加",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "失心攻擊&治療",
-            "對自身或友軍負面效果",
-            "範圍攻擊 (打3)",
-            "疊加",
-            "攻擊增益"
-        ],
         "source": "暗影召喚",
         "Release date": "2025-09-09",
         "specialId": "vantage_point",
@@ -79682,17 +68275,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "歡樂調色盤",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "額外傷害",
-            "閃避",
-            "反製小兵"
-        ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-01-23",
         "specialId": "joyful_palette",
@@ -79754,16 +68336,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "鹿角攻擊",
-        "types": [
-            "攻擊單個目標",
-            "單體法力削減",
-            "自身召喚師"
-        ],
-        "skill_types": [
-            "法力削減或格擋",
-            "召喚小兵",
-            "狙擊手"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "",
         "specialId": "horn_attack",
@@ -79817,18 +68389,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "鈦角攻擊",
-        "types": [
-            "攻擊單個目標",
-            "單體法力削減",
-            "自身召喚師",
-            "自我防禦增益"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "法力削減或格擋",
-            "召喚小兵",
-            "防禦增益"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2025-12-01",
         "specialId": "titanium_antler_attack",
@@ -79894,16 +68454,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "毛茸茸樵夫的揮擊",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害",
-            "防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦減益",
-            "持續傷害"
-        ],
         "source": "挑戰節 II",
         "Release date": "2022-11-03",
         "specialId": "furry_loggers_swing",
@@ -79964,14 +68514,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "瘋狂老鼠狂熱",
-        "types": [
-            "攻擊3個目標",
-            "攻擊增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊增益"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-02-11",
         "specialId": "mad_rat_mania",
@@ -80023,14 +68565,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "魯莽戳擊",
-        "types": [
-            "攻擊單個目標",
-            "自身防禦減益"
-        ],
-        "skill_types": [
-            "對自身或友軍負面效果",
-            "狙擊手"
-        ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "",
         "specialId": "reckless_stab",
@@ -80082,11 +68616,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "謹慎戳擊",
-        "types": [
-            "攻擊單個目標",
-            "自身防禦減益"
-        ],
-        "skill_types": [],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2026-03-30",
         "specialId": "prudent_stab",
@@ -80124,7 +68653,23 @@ window.allHeroes =
             "health": 1077,
             "power": 732
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：單一目標"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "傷害-額外傷害"
+                ]
+            },
+            {
+                "负面效果": [
+                    "狀態-自我減益"
+                ]
+            }
+        ]
     },
     {
         "name": "敏捷之星 (Starswift)",
@@ -80134,15 +68679,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "星戲",
-        "types": [
-            "攻擊3個目標",
-            "3個目標法力生成增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "法力生成增益",
-            "傷害分攤"
-        ],
         "source": "星界召喚",
         "Release date": "2024-03-07",
         "specialId": "starplay",
@@ -80206,13 +68742,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "慢速",
         "skill": "燃燒護盾",
-        "types": [
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
         "specialId": "burning_shields",
@@ -80264,13 +68793,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "長尾鮫蟲",
-        "types": [
-            "召喚所有惡魔"
-        ],
-        "skill_types": [
-            "召喚惡魔",
-            "持續傷害"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "specialId": "thresher_worms",
@@ -80321,13 +68843,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "吸血蠕蟲",
-        "types": [
-            "召喚所有惡魔"
-        ],
-        "skill_types": [
-            "召喚惡魔",
-            "持續傷害"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-04-25",
         "specialId": "leeching_worms",
@@ -80380,14 +68895,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "不屈保衛者",
-        "types": [
-            "攻擊所有目標",
-            "全體最大生命值持續降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "最大生命削減"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "unyielding_protector",
@@ -80445,14 +68952,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "不屈之劍",
-        "types": [
-            "攻擊所有目標",
-            "全體最大生命值持續降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "最大生命削減"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2025-04-14",
         "specialId": "unyielding_sword",
@@ -80517,17 +69016,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "衝鋒",
         "skill": "飛行前方",
-        "types": [
-            "蓄力",
-            "攻擊單個目標",
-            "隨機攻擊 1 / 2 / 3 次",
-            "命中時攻擊降低"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "攻擊減益"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2026-03-10",
         "specialId": "flying_front_kick",
@@ -80598,20 +69086,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "殺手",
         "skill": "狡猾巫師",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有惡魔",
-            "疊加"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "召喚惡魔",
-            "特殊治療",
-            "疊加",
-            "持續傷害",
-            "法力生成增益",
-            "持續治療"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-08-05",
         "specialId": "wily_wisps",
@@ -80676,14 +69150,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "戰嚎",
-        "types": [
-            "全體治療",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "治療"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "warcry",
@@ -80735,14 +69201,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "戰爭盛宴",
-        "types": [
-            "全體治療",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "治療"
-        ],
         "source": "服裝間",
         "Release date": "2020-01-01",
         "specialId": "war_feast",
@@ -80796,15 +69254,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "戰歌",
-        "types": [
-            "全體強化持續治療",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "持續治療",
-            "生命強化"
-        ],
         "source": "服裝間",
         "Release date": "2023-06-12",
         "specialId": "war_song",
@@ -80859,14 +69308,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "公仔吼",
-        "types": [
-            "全體治療",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "治療"
-        ],
         "source": "服裝間",
         "Release date": "2023-12-25",
         "specialId": "tooncry",
@@ -80924,17 +69365,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "玻璃戰嚎",
-        "types": [
-            "全體治療",
-            "全體攻擊增益",
-            "火焰盟友反射狀態異常",
-            "火焰盟友反射疊加效果"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "治療",
-            "反射"
-        ],
         "source": "服裝間",
         "Release date": "2024-12-25",
         "specialId": "glass_warcry",
@@ -80994,14 +69424,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "有型戰嚎",
-        "types": [
-            "全體治療",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "治療"
-        ],
         "source": "服裝間",
         "Release date": "2026-01-07",
         "specialId": "stylish_warcry",
@@ -81059,16 +69481,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "險惡禮物",
-        "types": [
-            "法力削減",
-            "召喚者 (單體)",
-            "炸彈"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "法力削減或格擋",
-            "召喚小兵"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2020-12-01",
         "specialId": "perilous_gift",
@@ -81118,19 +69530,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "殺手",
         "skill": "惡意重燃",
-        "types": [
-            "攻擊3個目標",
-            "復活",
-            "疊加"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "特殊治療",
-            "復活",
-            "疊加",
-            "法力生成增益",
-            "持續治療"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-08-05",
         "specialId": "reanimated_spite",
@@ -81190,14 +69589,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "烈火風暴",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "fire_storm",
@@ -81250,14 +69641,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "火焰突擊",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "lavablow",
@@ -81312,15 +69695,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "慢速",
         "skill": "火焰風暴",
-        "types": [
-            "攻擊3個目標",
-            "3個目標元素防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2023-06-12",
         "specialId": "flame_storm",
@@ -81380,15 +69754,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "公仔風暴",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-03-11",
         "specialId": "toon_storm",
@@ -81453,16 +69818,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "彩繪玻璃火焰",
-        "types": [
-            "攻擊所有目標",
-            "無視防禦",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "繞過",
-            "持續傷害"
-        ],
         "source": "服裝間",
         "Release date": "2025-04-08",
         "specialId": "vitrail_flames",
@@ -81527,11 +69882,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "時尚火焰",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害"
-        ],
-        "skill_types": [],
         "source": "服裝間",
         "Release date": "2026-04-10",
         "specialId": "stylish_flames",
@@ -81569,7 +69919,24 @@ window.allHeroes =
             "health": 1740,
             "power": 1003
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：全體",
+                    "傷害：持續傷害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "傷害-額外傷害"
+                ]
+            },
+            {
+                "负面效果": [
+                    "傷害-持續傷害：燃燒"
+                ]
+            }
+        ]
     },
     {
         "name": "易百伯 (Eichbelborg)",
@@ -81579,14 +69946,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "花俏炫耀",
-        "types": [
-            "攻擊單個目標",
-            "防禦降低"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "狙擊手"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-06-10",
         "specialId": "pompous_flex",
@@ -81638,13 +69997,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "野性復仇",
-        "types": [
-            "反擊"
-        ],
-        "skill_types": [
-            "反擊",
-            "法力削減或格擋"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2021-10-13",
         "specialId": "feral_revenge",
@@ -81696,13 +70048,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "烈火復仇",
-        "types": [
-            "反擊"
-        ],
-        "skill_types": [
-            "反擊",
-            "法力削減或格擋"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-12-17",
         "specialId": "fiery_revenge",
@@ -81762,14 +70107,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "錘擊粉碎",
-        "types": [
-            "攻擊3個目標",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "ramming_pulverizer",
@@ -81821,16 +70158,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "粉碎算盤",
-        "types": [
-            "摧毀所有小兵",
-            "攻擊所有目標",
-            "擊殺小怪時全體治療"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "特殊治療",
-            "反製小兵"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "wallet_pulverizer",
@@ -81886,14 +70213,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "粉碎火腿",
-        "types": [
-            "全體驅散",
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "驅散"
-        ],
         "source": "服裝間",
         "Release date": "2023-04-17",
         "specialId": "pulverizing_ham",
@@ -81947,15 +70266,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "粉碎者公仔",
-        "types": [
-            "攻擊3個目標",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-05-06",
         "specialId": "adorable_pulverizer",
@@ -82020,16 +70330,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "玻璃粉碎",
-        "types": [
-            "攻擊3個目標",
-            "無視防禦",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "繞過",
-            "防禦減益"
-        ],
         "source": "服裝間",
         "Release date": "2025-05-10",
         "specialId": "glass_pulverizer",
@@ -82093,14 +70393,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "熾焰之喙",
-        "types": [
-            "攻擊3個目標",
-            "元素防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "blazing_beak",
@@ -82152,16 +70444,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "燃燒旋轉",
-        "types": [
-            "攻擊3個目標",
-            "3個目標反擊",
-            "燃燒之觸 (3個目標)"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "反擊",
-            "持續傷害"
-        ],
         "source": "聖約召喚",
         "Release date": "2025-12-23",
         "specialId": "burning_spin",
@@ -82232,15 +70514,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "濺水砲彈",
-        "types": [
-            "攻擊3個目標",
-            "增益免疫"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "增益格擋者",
-            "提供免疫"
-        ],
         "source": "月活動 - 海灘派對",
         "Release date": "2023-06-12",
         "specialId": "cannonball_splash",
@@ -82304,14 +70577,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "斬擊支援",
-        "types": [
-            "攻擊單個目標",
-            "全體傷害治療"
-        ],
-        "skill_types": [
-            "特殊治療",
-            "狙擊手"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "slash_and_support",
@@ -82365,14 +70630,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "打擊支援",
-        "types": [
-            "攻擊單個目標",
-            "全體傷害治療"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "特殊治療"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-11-01",
         "specialId": "strike_and_support",
@@ -82433,14 +70690,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "烈火之舞",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "dance_of_fire",
@@ -82493,12 +70742,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "燃火之舞",
-        "types": [
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "dance_of_ignition",
@@ -82552,16 +70795,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "火焰之舞",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "處於灼燒狀態時自身治療"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "特殊治療"
-        ],
         "source": "服裝間",
         "Release date": "2022-09-05",
         "specialId": "dance_of_flame",
@@ -82621,15 +70854,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "公仔之舞",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "狙擊手",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-04-08",
         "specialId": "dance_of_toons",
@@ -82694,16 +70918,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "玻璃舞",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦",
-            "單體持續傷害"
-        ],
-        "skill_types": [
-            "繞過",
-            "持續傷害",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2025-04-23",
         "specialId": "dance_of_glass",
@@ -82768,11 +70982,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "時尚舞步",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害"
-        ],
-        "skill_types": [],
         "source": "服裝間",
         "Release date": "2026-05-09",
         "specialId": "stylish_dance",
@@ -82820,14 +71029,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "烈焰之劍",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害"
-        ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "specialId": "flaming_sword",
@@ -82884,14 +71085,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "天鵝之歌劍",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害"
-        ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2025-07-28",
         "specialId": "sword_of_swan_song",
@@ -82950,20 +71143,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "魔法",
         "skill": "魔球爆裂",
-        "types": [
-            "攻擊單個目標",
-            "目標釋放特技時削減 4 個目標的法力",
-            "全體法力生成增益",
-            "盟友釋放特殊技能時攻擊全體"
-        ],
-        "skill_types": [
-            "法力生成增益",
-            "法力削減或格擋",
-            "狙擊手",
-            "全體攻擊 (打5)",
-            "疊加",
-            "治療"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2023-05-03",
         "specialId": "mageball_blast",
@@ -83033,14 +71212,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "半身機智",
-        "types": [
-            "3個目標反擊",
-            "3個目標攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "反擊"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "specialId": "halflings_wit",
@@ -83092,14 +71263,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "半身人的智慧",
-        "types": [
-            "3個目標反擊",
-            "3個目標攻擊增益"
-        ],
-        "skill_types": [
-            "反擊",
-            "攻擊增益"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-05-23",
         "specialId": "halflings_wisdom",
@@ -83153,18 +71316,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "耀星斬擊",
-        "types": [
-            "攻擊單個目標",
-            "可能的額外攻擊",
-            "命中時觸發共鳴持續傷害"
-        ],
-        "skill_types": [
-            "繞過",
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "持續傷害",
-            "額外傷害"
-        ],
         "source": "星界召喚",
         "Release date": "2025-10-23",
         "specialId": "sparking_star_slash",
@@ -83227,15 +71378,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "獵人之爪",
-        "types": [
-            "攻擊3個目標",
-            "召喚3個惡魔"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "召喚惡魔"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2022-08-25",
         "specialId": "claws_of_the_hunter",
@@ -83294,17 +71436,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "點燃的毯子",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "特殊治療",
-            "狀態效果格擋",
-            "狀態效果轉換"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-04-17",
         "specialId": "kindled_carpet",
@@ -83377,16 +71508,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "治癒火靈",
-        "types": [
-            "全體治療",
-            "火元素治療",
-            "淨化者"
-        ],
-        "skill_types": [
-            "凈化",
-            "治療",
-            "特殊治療"
-        ],
         "source": "超級元素",
         "Release date": "2023-10-09",
         "specialId": "healing_fire_spirits",
@@ -83448,23 +71569,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "愛慕民謠",
-        "types": [
-            "攻擊3個目標",
-            "吸引之謠 (3個目標)",
-            "舞蹈時法力生成減益",
-            "舞蹈時治療減益",
-            "舞蹈期間狀態效果免疫"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "凈化",
-            "增益格擋者",
-            "舞者",
-            "驅散",
-            "治療削減",
-            "法力削減或格擋",
-            "提供免疫"
-        ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2023-11-30",
         "specialId": "ballad_of_attraction",
@@ -83534,15 +71638,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "失智狂怒",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "對自身或友軍負面效果"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "specialId": "blind_rage",
@@ -83599,15 +71694,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "梅森之怒",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "對自身或友軍負面效果"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-04-25",
         "specialId": "masons_rage",
@@ -83666,14 +71752,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "利刃之雨",
-        "types": [
-            "攻擊3個目標",
-            "3個目標攻擊降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "blade_barrage",
@@ -83725,16 +71803,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "利刃毒液",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "3個目標攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "持續傷害",
-            "範圍攻擊 (打3)"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "blade_venom",
@@ -83795,15 +71863,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "舞池刀刃",
-        "types": [
-            "攻擊3個目標",
-            "3個目標攻擊降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益",
-            "疊加"
-        ],
         "source": "服裝間",
         "Release date": "2023-10-30",
         "specialId": "blade_dance",
@@ -83857,15 +71916,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "公仔彈幕",
-        "types": [
-            "攻擊3個目標",
-            "3個目標攻擊降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-08-11",
         "specialId": "toon_barrage",
@@ -83929,16 +71979,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "玻璃之雨",
-        "types": [
-            "攻擊3個目標",
-            "無視防禦",
-            "3個目標攻擊降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益",
-            "繞過"
-        ],
         "source": "服裝間",
         "Release date": "2025-09-07",
         "specialId": "glass_barrage_scarlett",
@@ -84002,15 +72042,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "永恆苦役",
-        "types": [
-            "全體攻擊增益",
-            "全體暴擊幾率增益",
-            "全體殭屍增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "復活"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
         "specialId": "eternal_servitude",
@@ -84068,15 +72099,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "衝鋒",
         "skill": "氣之引導",
-        "types": [
-            "蓄力",
-            "持續治療 (自我/3個目標/全體)",
-            "淨化 (自我/3個目標/全體)"
-        ],
-        "skill_types": [
-            "凈化",
-            "持續治療"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "specialId": "channel_ki",
@@ -84135,16 +72157,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "魅力柵欄",
-        "types": [
-            "攻擊單個目標",
-            "3個目標攻擊增益",
-            "3個目標法力生成增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "法力生成增益",
-            "狙擊手"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "inspiring_fencing",
@@ -84198,16 +72210,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "防守技巧",
-        "types": [
-            "攻擊單個目標",
-            "自身反擊",
-            "反擊時自身獲得法力"
-        ],
-        "skill_types": [
-            "反擊",
-            "法力提升",
-            "狙擊手"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "oji_waza",
@@ -84261,16 +72263,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "奧蘇東",
-        "types": [
-            "攻擊單個目標",
-            "自身反擊",
-            "反擊時自身獲得法力"
-        ],
-        "skill_types": [
-            "反擊",
-            "法力提升",
-            "狙擊手"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-04-03",
         "specialId": "orsoldoon",
@@ -84326,12 +72318,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "公仔秘技",
-        "types": [
-            "攻擊單個目標",
-            "自身反擊",
-            "反擊時自身獲得法力"
-        ],
-        "skill_types": [],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toon_waza",
@@ -84380,14 +72366,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "岩漿巨石",
-        "types": [
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "對自身或友軍負面效果"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "",
         "specialId": "magma_boulders",
@@ -84439,14 +72417,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "火山巨石",
-        "types": [
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害",
-            "對自身或友軍負面效果"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-07-04",
         "specialId": "volcanic_boulders",
@@ -84500,10 +72470,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "岩漿巨石公仔",
-        "types": [
-            "攻擊所有目標"
-        ],
-        "skill_types": [],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2026-04-29",
         "specialId": "toon_magma_boulders",
@@ -84551,14 +72517,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "貴胄之刃",
-        "types": [
-            "攻擊3個目標",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益"
-        ],
         "source": "三國召喚",
         "Release date": "2022-03-14",
         "specialId": "royal_blades",
@@ -84610,18 +72568,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "全力以赴",
-        "types": [
-            "攻擊3個目標",
-            "召喚3個惡魔",
-            "3個目標已生成法力偷取"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "召喚惡魔",
-            "法力削減或格擋",
-            "傷害減免",
-            "提供免疫"
-        ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2024-10-17",
         "specialId": "firing_on_all_cylinders",
@@ -84684,17 +72630,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "美妙盛宴",
-        "types": [
-            "友方傷害分擔",
-            "敵方傷害分擔",
-            "全體防禦增益",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "傷害分攤",
-            "防禦減益"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "spiritual_unity",
@@ -84749,14 +72684,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "精純釀造",
-        "types": [
-            "全體對泰坦攻擊增益",
-            "全體持續治療"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "持續治療"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-02",
         "specialId": "brilliant_brew",
@@ -84810,15 +72737,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "苦難旋律",
-        "types": [
-            "攻擊單個目標",
-            "全體重置狀態異常"
-        ],
-        "skill_types": [
-            "效果持續重置",
-            "復活抑製",
-            "狙擊手"
-        ],
         "source": "挑戰節 II",
         "Release date": "2022-08-11",
         "specialId": "melody_of_misery",
@@ -84874,16 +72792,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "望族之劍",
-        "types": [
-            "攻擊單個目標",
-            "召喚所有",
-            "帶持續傷害的小怪"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "召喚小兵",
-            "狙擊手"
-        ],
         "source": "三國召喚",
         "Release date": "2022-03-14",
         "specialId": "scion_sword",
@@ -84942,16 +72850,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "望族之刃",
-        "types": [
-            "攻擊單個目標",
-            "召喚所有",
-            "帶持續傷害的小怪"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "召喚小兵",
-            "持續傷害"
-        ],
         "source": "三國召喚",
         "Release date": "2025-01-29",
         "specialId": "scion_sword_costume_white_raven",
@@ -85019,19 +72917,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "徐璐耳語",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有",
-            "帶持續傷害的小怪",
-            "帶瘋狂效果的小怪",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "召喚小兵",
-            "持續傷害",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2024-05-26",
         "specialId": "whispers_of_xulu",
@@ -85099,16 +72984,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "腥紅狩獵",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦",
-            "單體防禦降低"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "繞過",
-            "防禦減益"
-        ],
         "source": "泰坦獵人召喚",
         "Release date": "2025-12-16",
         "specialId": "crimson_hunt",
@@ -85176,20 +73051,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "渴望之咬",
-        "types": [
-            "攻擊單個目標",
-            "傷害全體生命值加成",
-            "寶箱怪"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "特殊治療",
-            "生命強化",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形態與隱藏",
-            "繞過"
-        ],
         "source": "市場召喚",
         "Release date": "2025-11-21",
         "specialId": "aether_mimic_bite_red",
@@ -85265,22 +73126,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "法力獻祭",
-        "types": [
-            "攻擊單個目標",
-            "全體閃避率",
-            "自身祭獻標記疊加"
-        ],
-        "skill_types": [
-            "閃避",
-            "額外傷害",
-            "繞過",
-            "持續傷害",
-            "防禦減益",
-            "反製小兵",
-            "狙擊手",
-            "法力生成增益",
-            "疊加"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-03-23",
         "specialId": "mana_immolation",
@@ -85348,19 +73193,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "飛速",
         "skill": "吸血鬼詛咒",
-        "types": [
-            "摧毀3個目標的小兵",
-            "攻擊3個目標",
-            "根據摧毀的小怪數量全體治療",
-            "無視防禦"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "繞過",
-            "特殊治療",
-            "法力提升",
-            "反製小兵"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2022-10-03",
         "specialId": "vampiric_curse",
@@ -85422,18 +73254,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "飛速",
         "skill": "劫血",
-        "types": [
-            "摧毀3個目標的小兵",
-            "攻擊3個目標",
-            "無視防禦"
-        ],
-        "skill_types": [
-            "反製小兵",
-            "範圍攻擊 (打3)",
-            "特殊治療",
-            "法力提升",
-            "繞過"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2024-09-23",
         "specialId": "vampiric_heist",
@@ -85497,13 +73317,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "徐沃斯之劍",
-        "types": [
-            "攻擊所有目標",
-            "全體狂亂",
-            "全體治療偷取",
-            "自我狂亂"
-        ],
-        "skill_types": [],
         "source": "暗影召喚",
         "Release date": "2026-04-14",
         "specialId": "sword_of_xuvhosh",
@@ -85542,7 +73355,20 @@ window.allHeroes =
             "health": 2938,
             "power": 1601
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：全體"
+                ]
+            },
+            {
+                "负面效果": [
+                    "狀態-狂亂",
+                    "治療-奪取治療",
+                    "狀態-自我減益"
+                ]
+            }
+        ]
     },
     {
         "name": "安貝兒 (Amber)",
@@ -85552,17 +73378,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "血契之矛",
-        "types": [
-            "攻擊單個目標",
-            "自我治療",
-            "單體治療抵抗減益",
-            "單個目標每次抵抗治療時受到傷害"
-        ],
-        "skill_types": [
-            "特殊治療",
-            "治療削減",
-            "狙擊手"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2023-09-25",
         "specialId": "spear_of_blood_pact",
@@ -85624,17 +73439,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "聖殿騎士誓言",
-        "types": [
-            "攻擊3個目標",
-            "掩護1個單位",
-            "3個目標元素防禦增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "傷害分攤",
-            "防禦增益",
-            "攻擊增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2026-01-01",
         "specialId": "oath_of_templar",
@@ -85696,15 +73500,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "熾焰狂舞",
-        "types": [
-            "攻擊所有目標",
-            "全體熾熱狂舞"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "舞者",
-            "防禦增益"
-        ],
         "source": "月活動 - 海灘派對",
         "Release date": "2025-06-03",
         "specialId": "blazing_rave_dance",
@@ -85770,15 +73565,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "烈焰積怨",
-        "types": [
-            "攻擊所有目標",
-            "全體治療"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "特殊治療",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2019-04-01",
         "specialId": "flaming_grudge",
@@ -85831,16 +73617,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "邪惡巫術",
-        "types": [
-            "最大生命值降低",
-            "全體持續傷害",
-            "全體生命值加成治療降低減益"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "治療削減",
-            "最大生命削減"
-        ],
         "source": "挑戰 - 眾神狂歡節",
         "Release date": "2023-07-13",
         "specialId": "wicked_witchcraft",
@@ -85899,18 +73675,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "強力推進",
-        "types": [
-            "攻擊所有目標",
-            "全體傷害增加疊加",
-            "全體延遲法力提升"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "法力提升",
-            "疊加",
-            "反製小兵"
-        ],
         "source": "野地召喚",
         "Release date": "2024-10-23",
         "specialId": "forceful_advance",
@@ -85976,16 +73740,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "阿瑞斯之力",
-        "types": [
-            "3個目標攻擊增益",
-            "3個目標暴擊機率增益",
-            "3個目標持續治療"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "持續治療",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2017-08-01",
         "specialId": "might_of_ares",
@@ -86040,18 +73794,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "阿瑞斯緘印",
-        "types": [
-            "3個目標攻擊增益",
-            "3個目標反擊",
-            "3個目標生命值加成治療"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "防禦增益",
-            "反擊",
-            "持續治療",
-            "生命強化"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-03-20",
         "specialId": "seal_of_ares",
@@ -86113,12 +73855,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "公仔阿瑞斯之力",
-        "types": [
-            "全體攻擊增益",
-            "全體暴擊幾率增益",
-            "全體持續治療"
-        ],
-        "skill_types": [],
         "source": "傳奇召喚 - 月英",
         "Release date": "2026-04-29",
         "specialId": "might_of_toon_ares",
@@ -86168,18 +73904,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "衝鋒",
         "skill": "雙劍技巧",
-        "types": [
-            "蓄力",
-            "攻擊單個目標",
-            "連鎖攻擊",
-            "全體攻擊力成長",
-            "全體防禦力成長"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "屬性修改"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2026-03-10",
         "specialId": "two_sword_technique",
@@ -86252,12 +73976,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "吞噬咀嚼",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "寶箱怪"
-        ],
-        "skill_types": [],
         "source": "市場召喚",
         "Release date": "2025-07-04",
         "specialId": "gorging_chew_red",
@@ -86341,15 +74059,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "紅寶石猛攻",
-        "types": [
-            "隨機攻擊 9 次",
-            "命中時施加元素防禦降低減益"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "額外傷害",
-            "防禦減益"
-        ],
         "source": "超級元素",
         "Release date": "2024-07-14",
         "specialId": "ruby_rush",
@@ -86415,20 +74124,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "野蠻群牛猛衝",
-        "types": [
-            "攻擊3個目標",
-            "減少3個目標增益持續時間",
-            "3個目標持續傷害",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "持續傷害",
-            "效果持續重置",
-            "額外傷害",
-            "反製小兵"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-02-11",
         "specialId": "brutal_bull_rush",
@@ -86490,20 +74185,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "衝鋒",
         "skill": "撕裂匕首",
-        "types": [
-            "蓄力",
-            "攻擊 (1/3/所有) 目標",
-            "命中時施加流血標記",
-            "1/3/全體目標持續傷害"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "範圍攻擊 (打3)",
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "額外傷害",
-            "反製小兵"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2025-03-05",
         "specialId": "rending_dagger",
@@ -86571,12 +74252,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "深紅陷阱",
-        "types": [
-            "隨機攻擊3個目標",
-            "命中時觸發爆炸釘刺陷阱",
-            "命中時施加元素防禦降低減益"
-        ],
-        "skill_types": [],
         "source": "泰坦獵人召喚",
         "Release date": "2026-05-20",
         "specialId": "crimson_trap",
@@ -86628,14 +74303,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "火山噴發",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "volcanic_eruption",
@@ -86688,15 +74355,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "火山燃燄",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2020-05-18",
         "specialId": "volcanic_flareup",
@@ -86757,16 +74415,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "火山爆炸",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "處於灼燒狀態時自身治療"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "特殊治療"
-        ],
         "source": "服裝間",
         "Release date": "2023-02-20",
         "specialId": "volcanic_explosion",
@@ -86826,15 +74474,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "爆炸公仔",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2023-10-30",
         "specialId": "volcanic_tantrum",
@@ -86899,16 +74538,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "玻璃火山",
-        "types": [
-            "攻擊所有目標",
-            "無視防禦",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "繞過",
-            "持續傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-12-25",
         "specialId": "glass_volcano",
@@ -86973,15 +74602,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "有型噴發",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "持續傷害"
-        ],
         "source": "服裝間",
         "Release date": "2026-01-07",
         "specialId": "stylish_eruption",
@@ -87046,20 +74666,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "舞者",
         "skill": "火獅光環",
-        "types": [
-            "安全淨化 (3個目標)",
-            "3個目標靈氣加成治療",
-            "2個目標烈焰福運之舞增益"
-        ],
-        "skill_types": [
-            "治療",
-            "生命強化",
-            "凈化",
-            "舞者",
-            "攻擊增益",
-            "額外傷害",
-            "傷害減免"
-        ],
         "source": "月活動 - 鴻運召喚",
         "Release date": "2026-02-17",
         "specialId": "aura_of_the_fiery_lion",
@@ -87133,18 +74739,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "無敵鬥士",
-        "types": [
-            "隨機攻擊1個目標",
-            "自身生命值加成",
-            "擁有生命加成時全體法力削減免疫",
-            "擁有生命加成時每回合隨機攻擊 1 次"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "生命強化",
-            "提供免疫",
-            "全體攻擊 (打5)"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
         "specialId": "unbreakable_brawler",
@@ -87195,19 +74789,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "堅忍鬥士",
-        "types": [
-            "攻擊單個目標",
-            "自身生命值加成",
-            "擁有生命加成時全體法力削減免疫",
-            "擁有生命加成時每回合隨機攻擊 1 次"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "生命強化",
-            "提供免疫",
-            "狙擊手",
-            "全體攻擊 (打5)"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-11-21",
         "specialId": "relentless_brawler",
@@ -87260,17 +74841,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "瘋狂飛彈",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊2個目標",
-            "對命中的目標召喚惡魔"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "召喚惡魔",
-            "範圍攻擊 (打3)",
-            "持續傷害"
-        ],
         "source": "挑戰節 II",
         "Release date": "2023-05-18",
         "specialId": "missile_mania",
@@ -87332,17 +74902,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "甜椒衝鋒",
-        "types": [
-            "攻擊3個目標",
-            "收割3個目標的增益",
-            "3個目標反擊"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害",
-            "增益竊取者",
-            "反擊"
-        ],
         "source": "挑戰 - 警戒蔬菜召唤",
         "Release date": "2025-09-02",
         "specialId": "capsicum_charge",
@@ -87415,16 +74974,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "非常慢",
         "skill": "受詛咒的畫作",
-        "types": [
-            "全體驅散",
-            "攻擊所有目標",
-            "全體詛咒畫像減益"
-        ],
-        "skill_types": [
-            "驅散",
-            "全體攻擊 (打5)",
-            "狀態效果格擋"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-07-17",
         "specialId": "cursed_painting",
@@ -87489,20 +75038,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "戰前自誇",
-        "types": [
-            "攻擊單個目標",
-            "全體治療",
-            "全體法力提升",
-            "全體攻擊疊加"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "治療",
-            "法力提升",
-            "攻擊增益",
-            "繞過",
-            "疊加"
-        ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2025-02-13",
         "specialId": "battle_boast",
@@ -87566,21 +75101,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "正義粉碎",
-        "types": [
-            "攻擊3個目標",
-            "攻擊成長恩賜",
-            "3個目標最大生命值降低",
-            "3個目標致盲"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "最大生命削減",
-            "反製小兵",
-            "繞過",
-            "範圍攻擊 (打3)",
-            "攻擊減益",
-            "屬性修改"
-        ],
         "source": "神殿召喚",
         "Release date": "2025-06-16",
         "specialId": "righteous_pulverizer",
@@ -87650,12 +75170,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "尖刺蝙蝠痛擊",
-        "types": [
-            "攻擊單個目標",
-            "單體持續性傷害",
-            "自我攻擊增益"
-        ],
-        "skill_types": [],
         "source": "挑戰 - 警戒蔬菜召唤",
         "Release date": "2026-04-25",
         "specialId": "spiked_bat_thrashing",
@@ -87710,16 +75224,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "海盜的復仇",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有惡魔",
-            "攻擊降低惡魔"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "召喚惡魔"
-        ],
         "source": "挑戰節 I",
         "Release date": "2023-12-28",
         "specialId": "pirates_vengeance",
@@ -87782,16 +75286,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "一點皮外傷",
-        "types": [
-            "自身傷害降至1增益",
-            "嘲諷",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "傷害減免",
-            "嘲諷"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "just_a_flesh_wound",
@@ -87841,16 +75335,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "毫髮無傷",
-        "types": [
-            "自身傷害降至1增益",
-            "嘲諷",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "傷害減免",
-            "嘲諷"
-        ],
         "source": "挑戰節 I",
         "Release date": "2022-06-16",
         "specialId": "but_a_scratch",
@@ -87902,17 +75386,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "櫻花樹之歌",
-        "types": [
-            "全體治療",
-            "全體驅散",
-            "每次驅散觸發額外治療"
-        ],
-        "skill_types": [
-            "驅散",
-            "特殊治療",
-            "治療",
-            "生命強化"
-        ],
         "source": "聖約召喚",
         "Release date": "2023-08-24",
         "specialId": "songs_of_the_cherry_tree",
@@ -87974,17 +75447,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "銀背酋長之怒",
-        "types": [
-            "攻擊單個目標",
-            "自身攻擊增益疊加"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "狙擊手",
-            "疊加",
-            "額外傷害",
-            "持續傷害"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2023-03-03",
         "specialId": "fury_of_the_silverback",
@@ -88043,19 +75505,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "地獄之焰",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有惡魔",
-            "元素防禦降低惡魔",
-            "全體元素防禦增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦增益",
-            "防禦減益",
-            "召喚惡魔",
-            "持續傷害"
-        ],
         "source": "聖約召喚",
         "Release date": "2023-07-27",
         "specialId": "infernal_flames",
@@ -88129,13 +75578,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "海盜射擊",
-        "types": [
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "pirate_shot",
@@ -88187,13 +75629,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "船長彎刀",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "額外傷害"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-08-12",
         "specialId": "captains_cutlass",
@@ -88249,14 +75684,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "機械師的彎刀",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "額外傷害",
-            "攻擊增益"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-12-07",
         "specialId": "machinists_cutlass",
@@ -88317,17 +75744,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "奸細網絡",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有惡魔",
-            "偷取增益惡魔"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "增益竊取者",
-            "召喚惡魔",
-            "持續傷害"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2023-09-20",
         "specialId": "web_of_spies",
@@ -88386,16 +75802,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "異常大師",
-        "types": [
-            "傳播減益 (2個目標)",
-            "3個目標減益持續時間重置",
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "效果持續重置",
-            "凈化"
-        ],
         "source": "挑戰 - 眾神狂歡節",
         "Release date": "2023-09-14",
         "specialId": "master_of_ailments",
@@ -88453,13 +75859,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "星界瘋狂已釋放",
-        "types": [
-            "攻擊單個目標",
-            "機率隨機攻擊 4 個目標",
-            "命中時觸發共鳴傷害",
-            "命中時偷取法力"
-        ],
-        "skill_types": [],
         "source": "星界召喚",
         "Release date": "2026-04-05",
         "specialId": "astral_madness_unleashed",
@@ -88500,7 +75899,25 @@ window.allHeroes =
             "health": 2821,
             "power": 1579
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：單一目標",
+                    "攻擊-額外攻擊",
+                    "傷害：持續傷害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "法力-法力奪取"
+                ]
+            },
+            {
+                "负面效果": [
+                    "傷害-持續傷害：共振"
+                ]
+            }
+        ]
     },
     {
         "name": "卡塔莉娜 (Catalina)",
@@ -88510,17 +75927,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "王者之爪",
-        "types": [
-            "攻擊單個目標",
-            "4個單位攻擊增益",
-            "4個單位暴擊機率增益",
-            "4個單位傷害治療增益"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "攻擊增益",
-            "特殊治療"
-        ],
         "source": "野地召喚",
         "Release date": "2025-12-30",
         "specialId": "regal_claws",
@@ -88589,20 +75995,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "咒鎖",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊",
-            "沈默被擊中的敵人",
-            "全體衰退"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "沈默",
-            "屬性修改",
-            "反製小兵",
-            "繞過"
-        ],
         "source": "星界召喚",
         "Release date": "2025-04-21",
         "specialId": "spell_lock",
@@ -88667,21 +76059,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "譴責民謠",
-        "types": [
-            "攻擊3個目標",
-            "譴責歌謠之舞 (3個目標)",
-            "舞蹈時法力生成減益",
-            "舞蹈時治療減益",
-            "舞蹈時增益免疫"
-        ],
-        "skill_types": [
-            "舞者",
-            "範圍攻擊 (打3)",
-            "法力削減或格擋",
-            "治療削減",
-            "提供免疫",
-            "增益格擋者"
-        ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2024-09-19",
         "specialId": "ballad_of_condemnation",
@@ -88750,18 +76127,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "香水之雲",
-        "types": [
-            "攻擊3個目標",
-            "對3個目標施放吞噬粘物",
-            "3個目標麻痺"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "沈睡",
-            "驅散",
-            "屬性修改"
-        ],
         "source": "超級元素",
         "Release date": "2025-01-01",
         "specialId": "perfume_cloud",
@@ -88822,16 +76187,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "扔擲攻擊",
-        "types": [
-            "攻擊3個目標",
-            "3個目標致盲",
-            "全體粘性表面增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益",
-            "增益竊取者"
-        ],
         "source": "超級元素",
         "Release date": "2026-01-31",
         "specialId": "slingja_attack_chingiriko",
@@ -88896,16 +76251,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "剁碎切丁",
-        "types": [
-            "攻擊3個目標",
-            "全體治療",
-            "3個目標持續傷害"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "特殊治療"
-        ],
         "source": "挑戰節 II",
         "Release date": "2022-11-03",
         "specialId": "slice_and_dice",
@@ -88966,20 +76311,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "昌盛領域",
-        "types": [
-            "全體治療",
-            "盟友釋放特殊技能時全體生命值加成",
-            "全體法力生成增益",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "治療",
-            "生命強化",
-            "法力生成增益",
-            "凈化",
-            "閃避",
-            "反製小兵"
-        ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-01-23",
         "specialId": "prosperity_for_domain",
@@ -89039,19 +76370,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "神仙教母的祝福",
-        "types": [
-            "全體淨化",
-            "友方傷害分擔",
-            "敵方傷害分擔",
-            "全體防禦增益",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "凈化",
-            "傷害分攤",
-            "防禦減益"
-        ],
         "source": "挑戰節 I",
         "Release date": "2024-02-22",
         "specialId": "fairy_godmothers_blessing",
@@ -89112,17 +76430,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "骨儀式",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有惡魔",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "持續傷害",
-            "召喚惡魔"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2022-08-25",
         "specialId": "bone_ritual",
@@ -89187,16 +76494,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "神秘藥水",
-        "types": [
-            "全體法力削減",
-            "召喚所有",
-            "全體炸彈減益"
-        ],
-        "skill_types": [
-            "法力削減或格擋",
-            "召喚小兵",
-            "範圍攻擊 (打3)"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2023-12-01",
         "specialId": "mystery_potions",
@@ -89251,15 +76548,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "真愛無敵",
-        "types": [
-            "攻擊3個目標",
-            "3個目標失心治療"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "特殊治療",
-            "失心攻擊&治療"
-        ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2023-02-14",
         "specialId": "love_conquers_all",
@@ -89316,16 +76604,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "熱情克服萬難",
-        "types": [
-            "攻擊3個目標",
-            "3個目標元素防禦降低",
-            "3個目標失心治療"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "失心攻擊&治療"
-        ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2026-01-19",
         "specialId": "passion_conquers_all",
@@ -89386,16 +76664,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "烈焰刺劍",
-        "types": [
-            "攻擊單個目標",
-            "單體擴散型持續傷害",
-            "自身持續治療"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "狙擊手",
-            "持續治療"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2022-12-14",
         "specialId": "flaming_rapier",
@@ -89458,17 +76726,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "清掃煙灰",
-        "types": [
-            "攻擊單個目標",
-            "單體擴散型持續傷害",
-            "自身生命值加成治療"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "狙擊手",
-            "持續治療",
-            "生命強化"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2026-02-20",
         "specialId": "sweep_the_soot",
@@ -89535,18 +76792,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "飛速",
         "skill": "血花瓣",
-        "types": [
-            "單體驅散",
-            "單體天賦沈默",
-            "攻擊單個目標",
-            "阻擋狀態效果施放 (單體)"
-        ],
-        "skill_types": [
-            "驅散",
-            "沈默",
-            "狙擊手",
-            "狀態效果格擋"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-01-10",
         "specialId": "blood_petals_of_the_withered",
@@ -89610,20 +76855,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "深淵吸引",
-        "types": [
-            "攻擊3個目標",
-            "3個目標狂亂",
-            "3個目標持續傷害",
-            "處於持續傷害狀態時全體治療",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "反製小兵",
-            "失心攻擊&治療",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2025-09-23",
         "specialId": "drawn_to_the_depths",
@@ -89693,18 +76924,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "發現麻煩",
-        "types": [
-            "攻擊3個目標",
-            "3個目標防禦降低",
-            "持劍守衛超級小兵",
-            "傳播持續傷害的小怪"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "召喚巨型小兵",
-            "持續傷害"
-        ],
         "source": "哥布林召喚",
         "Release date": "2024-09-29",
         "specialId": "spotting_trouble",
@@ -89771,18 +76990,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "潮汐",
         "skill": "超新星",
-        "types": [
-            "攻擊3個目標",
-            "3個目標腐蝕灼燒持續傷害",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "持續傷害",
-            "額外傷害",
-            "反製小兵"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-12-13",
         "specialId": "supernova",
@@ -89847,18 +77054,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "潮汐",
         "skill": "深沉深淵",
-        "types": [
-            "攻擊3個目標",
-            "3個目標腐蝕灼燒持續傷害",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "防禦減益",
-            "額外傷害",
-            "反製小兵"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-12-14",
         "specialId": "sunken_abyss",
@@ -89928,17 +77123,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "雷射雙刀",
-        "types": [
-            "攻擊單個目標",
-            "攻擊全體自然系目標",
-            "單體持續傷害",
-            "對全體自然系目標造成持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "狙擊手",
-            "連鎖與隨機攻擊"
-        ],
         "source": "超級元素",
         "Release date": "2023-03-27",
         "specialId": "dual_laser_blades",
@@ -90000,19 +77184,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "資料雙刀",
-        "types": [
-            "攻擊單個目標",
-            "攻擊全體自然系目標",
-            "單體持續傷害",
-            "對全體自然系目標造成持續傷害",
-            "火系盟友攻擊增益"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "攻擊增益"
-        ],
         "source": "超級元素",
         "Release date": "2025-09-04",
         "specialId": "dual_data_blades",
@@ -90085,14 +77256,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "烤公雞",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "處於持續傷害狀態時全體治療",
-            "3個目標治療降低",
-            "自身元素防禦減益"
-        ],
-        "skill_types": [],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2026-03-30",
         "specialId": "roasting_rooster",
@@ -90129,7 +77292,22 @@ window.allHeroes =
             "health": 2837,
             "power": 1566
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：範圍",
+                    "傷害：持續傷害",
+                    "治療：傷害量"
+                ]
+            },
+            {
+                "负面效果": [
+                    "傷害-持續傷害：燃燒",
+                    "治療-治療量↓",
+                    "狀態-自我減益"
+                ]
+            }
+        ]
     },
     {
         "name": "鄧納爾哈特 (Dunnar Hart)",
@@ -90139,24 +77317,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "煉獄鼓風暴",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害",
-            "全體防禦降低",
-            "自我強化持續治療",
-            "自我法力生成增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "持續治療",
-            "法力生成增益",
-            "防禦減益",
-            "生命強化",
-            "復活抑製",
-            "額外傷害",
-            "反製小兵"
-        ],
         "source": "挑戰節 II",
         "Release date": "2025-06-15",
         "specialId": "infernal_drumstorm",
@@ -90226,19 +77386,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "鏈枷揮擊",
-        "types": [
-            "攻擊單個目標",
-            "連鎖攻擊",
-            "命中時阻擋狀態效果施放",
-            "命中時攻擊降低"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "攻擊減益",
-            "持續傷害",
-            "狙擊手",
-            "狀態效果格擋"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2022-10-15",
         "specialId": "flail_swing",
@@ -90300,16 +77447,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "飛速",
         "skill": "贖罪之拳",
-        "types": [
-            "攻擊3個目標",
-            "3個目標防禦降低疊加"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "疊加",
-            "防禦減益",
-            "傷害減免"
-        ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2022-05-12",
         "specialId": "fists_of_atonement",
@@ -90365,16 +77502,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "熱忱先鋒",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續治療",
-            "3個目標反擊"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "反擊",
-            "治療"
-        ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2024-01-08",
         "specialId": "vanguard_of_passion",
@@ -90432,14 +77559,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "劍墻",
-        "types": [
-            "攻擊所有目標",
-            "3個目標反擊"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "反擊"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "wall_of_swords",
@@ -90491,14 +77610,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "慢速",
         "skill": "刀鋒壁壘",
-        "types": [
-            "攻擊所有目標",
-            "3個目標反擊"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "反擊"
-        ],
         "source": "服裝間",
         "Release date": "2020-01-01",
         "specialId": "sword_barricade",
@@ -90552,14 +77663,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "恐懼之劍",
-        "types": [
-            "攻擊所有目標",
-            "3個目標反擊"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "反擊"
-        ],
         "source": "服裝間",
         "Release date": "2023-08-07",
         "specialId": "dreaded_swords",
@@ -90613,15 +77716,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "公仔牆",
-        "types": [
-            "攻擊所有目標",
-            "3個目標反擊"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "反擊",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-05-31",
         "specialId": "adorable_swords",
@@ -90685,16 +77779,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "玻璃牆",
-        "types": [
-            "攻擊所有目標",
-            "無視防禦",
-            "3個目標反擊"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "繞過",
-            "反擊"
-        ],
         "source": "服裝間",
         "Release date": "2025-07-16",
         "specialId": "glass_swords",
@@ -90758,17 +77842,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "焰浪",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "驅散",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2025-03-01",
         "specialId": "flame_surge",
@@ -90834,17 +77907,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "寡婦之吻",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有惡魔",
-            "法力生成降低惡魔"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "召喚惡魔",
-            "法力削減或格擋",
-            "持續傷害"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "specialId": "widows_kiss",
@@ -90907,19 +77969,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "新娘之吻",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有惡魔",
-            "法力生成降低惡魔"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "召喚惡魔",
-            "持續傷害",
-            "法力削減或格擋",
-            "額外傷害",
-            "攻擊增益"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-04-27",
         "specialId": "brides_kiss",
@@ -90987,16 +78036,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "珍貴寵物",
-        "types": [
-            "攻擊3個目標",
-            "全體免疫特殊技能使用封鎖",
-            "召喚3個猩紅蝙蝠小兵"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "提供免疫",
-            "召喚小兵"
-        ],
         "source": "月活動 - 腥紅盛宴",
         "Release date": "2025-10-08",
         "specialId": "precious_pets",
@@ -91059,19 +78098,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "火牆",
-        "types": [
-            "攻擊所有目標",
-            "召喚者"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "召喚小兵",
-            "防禦減益",
-            "治療削減",
-            "額外傷害",
-            "反製小兵"
-        ],
         "source": "聖約召喚",
         "Release date": "2025-05-08",
         "specialId": "firewall",
@@ -91135,17 +78161,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "熾焰火柴棒",
-        "types": [
-            "攻擊3個目標",
-            "3個目標狂野持續傷害",
-            "3個目標法力生成增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "額外傷害",
-            "法力生成增益"
-        ],
         "source": "生日召喚",
         "Release date": "2026-03-18",
         "specialId": "blazing_matchstick",
@@ -91215,21 +78230,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "野蠻吞噬",
-        "types": [
-            "攻擊單個目標",
-            "單體擴散型持續傷害",
-            "寶箱怪"
-        ],
-        "skill_types": [
-            "特殊治療",
-            "反製小兵",
-            "狙擊手",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形態與隱藏",
-            "繞過",
-            "持續傷害"
-        ],
         "source": "市場召喚",
         "Release date": "2025-09-18",
         "specialId": "savage_gobble_red",
@@ -91309,17 +78309,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "飛速",
         "skill": "火焰回春",
-        "types": [
-            "賭博",
-            "全體持續傷害",
-            "全體持續治療",
-            "全體狀態異常免疫"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "持續治療",
-            "提供免疫"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-06-10",
         "specialId": "flames_and_rejuvenation",
@@ -91388,17 +78377,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "飛速",
         "skill": "青蛙和圈圈",
-        "types": [
-            "賭博",
-            "全體持續傷害",
-            "全體持續治療",
-            "全體狀態異常免疫"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "持續治療",
-            "提供免疫"
-        ],
         "source": "挑戰節 II",
         "Release date": "2025-04-09",
         "specialId": "frogs_and_hoop",
@@ -91473,17 +78451,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "冥河",
         "skill": "暗黑之球",
-        "types": [
-            "蓄力",
-            "摧毀單個目標的小兵",
-            "攻擊單個目標",
-            "單體召喚封印",
-            "企圖召喚時受到傷害"
-        ],
-        "skill_types": [
-            "反製小兵",
-            "狙擊手"
-        ],
         "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
         "specialId": "dark_orb",
@@ -91556,16 +78523,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "呼喊之歌",
-        "types": [
-            "攻擊單個目標",
-            "莽夫亂拳",
-            "防禦降低"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "失心攻擊&治療",
-            "防禦減益"
-        ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2024-05-08",
         "specialId": "song_of_hoot_and_holler",
@@ -91628,12 +78585,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "貪婪吞噬",
-        "types": [
-            "摧毀單個目標的小兵",
-            "攻擊單個目標",
-            "寶箱怪"
-        ],
-        "skill_types": [],
         "source": "市場召喚",
         "Release date": "2025-04-22",
         "specialId": "mimic_training_hero_red_bite",
@@ -91709,21 +78660,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "自我保護",
-        "types": [
-            "自身安全淨化",
-            "霜降打擊 (單體)",
-            "全體法力生成疊加",
-            "全體防禦增益疊加"
-        ],
-        "skill_types": [
-            "凈化",
-            "狙擊手",
-            "持續傷害",
-            "攻擊減益",
-            "疊加",
-            "法力生成增益",
-            "防禦增益"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-07-11",
         "specialId": "self_preservation",
@@ -91797,16 +78733,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "飛速",
         "skill": "吹牛唬人",
-        "types": [
-            "攻擊單個目標",
-            "持劍守衛超級小兵",
-            "傳播持續傷害的小怪"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "召喚巨型小兵",
-            "持續傷害"
-        ],
         "source": "哥布林召喚",
         "Release date": "2025-04-11",
         "specialId": "calling_the_bluff",
@@ -91871,16 +78797,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "前往救援！",
-        "types": [
-            "治療者",
-            "全體繞過增益",
-            "全體暴擊率增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "繞過",
-            "治療"
-        ],
         "source": "月活動 - 海灘派對",
         "Release date": "2023-06-12",
         "specialId": "to_the_rescue",
@@ -91944,16 +78860,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "甜甜圈來救援了！",
-        "types": [
-            "治療者",
-            "全體無視防禦",
-            "全體暴擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "繞過",
-            "治療"
-        ],
         "source": "月活動 - 海灘派對",
         "Release date": "2025-06-03",
         "specialId": "donut_to_the_rescue",
@@ -92019,12 +78925,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "邪惡舔擊",
-        "types": [
-            "攻擊3個目標",
-            "造成傷害時治療全體",
-            "寶箱怪"
-        ],
-        "skill_types": [],
         "source": "市場召喚",
         "Release date": "2026-05-10",
         "specialId": "wicked_lick_red",
@@ -92085,17 +78985,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "皇家襲擊",
-        "types": [
-            "攻擊3個目標",
-            "每回合削減 3 個目標的法力",
-            "3個目標治療降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害",
-            "治療削減",
-            "法力削減或格擋"
-        ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2023-12-20",
         "specialId": "royal_assault",
@@ -92158,19 +79047,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "三倍戳擊",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害",
-            "攻擊2個目標",
-            "2個目標深度睡眠"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "沈睡",
-            "反製小兵",
-            "閃避"
-        ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-09-11",
         "specialId": "triple_stab",
@@ -92231,15 +79107,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "衝鋒",
         "skill": "氣之覺醒",
-        "types": [
-            "蓄力",
-            "全體生命值加成",
-            "全體異常狀態免疫增益"
-        ],
-        "skill_types": [
-            "生命強化",
-            "提供免疫"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "specialId": "awaken_ki",
@@ -92298,14 +79165,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "少女之命",
-        "types": [
-            "偷取1個小兵",
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "反製小兵",
-            "狙擊手"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-10-22",
         "specialId": "maidens_command",
@@ -92357,14 +79216,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "少女之令",
-        "types": [
-            "單體摧毀超級小怪/小怪",
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "反製小兵"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-09-26",
         "specialId": "maidens_orders",
@@ -92418,16 +79269,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "潮汐",
         "skill": "水底岩漿立方",
-        "types": [
-            "隨機攻擊 3/5 次",
-            "命中時觸發爆炸岩漿方塊",
-            "命中時防禦減益"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "防禦減益",
-            "法力削減或格擋"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-09-27",
         "specialId": "underwater_magma_cube",
@@ -92502,16 +79343,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "潮汐",
         "skill": "沉沒岩漿立方",
-        "types": [
-            "隨機攻擊 3/5 次",
-            "命中時觸發岩漿方塊",
-            "命中時防禦減益"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "防禦減益",
-            "法力削減或格擋"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-06-20",
         "specialId": "sunken_magma_cube",
@@ -92591,17 +79422,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "煉金實驗",
-        "types": [
-            "攻擊所有目標",
-            "挑釁所有敵人",
-            "全體粘性表面增益",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "增益竊取者",
-            "防禦增益",
-            "狀態效果格擋"
-        ],
         "source": "超級元素",
         "Release date": "2025-05-04",
         "specialId": "alchemy_experiment",
@@ -92664,17 +79484,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "飛速",
         "skill": "化為灰燼",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "額外傷害",
-            "攻擊增益",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2018-06-01",
         "specialId": "ashes_to_ashes",
@@ -92734,17 +79543,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "飛速",
         "skill": "塵歸塵",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "驅散",
-            "攻擊增益",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-10-20",
         "specialId": "dust_to_dust",
@@ -92809,15 +79607,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "飛速",
         "skill": "修補咒語",
-        "types": [
-            "全體治療",
-            "全體狀態異常免疫"
-        ],
-        "skill_types": [
-            "治療",
-            "提供免疫",
-            "法力生成增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2019-09-01",
         "specialId": "mending_mantra",
@@ -92874,16 +79663,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "叢林領主",
-        "types": [
-            "攻擊所有目標",
-            "全體元素防禦增益",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦增益",
-            "凈化"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "lord_of_the_jungle",
@@ -92941,17 +79720,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "金剛粉碎",
-        "types": [
-            "攻擊所有目標",
-            "全體元素反射",
-            "全體元素反擊",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "驅散",
-            "反射"
-        ],
         "source": "挑戰節 I",
         "Release date": "2022-04-14",
         "specialId": "kong_smash",
@@ -93007,19 +79775,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "反射姿態",
-        "types": [
-            "嘲諷",
-            "自我法力生成增益",
-            "4個目標軟膚",
-            "全體延遲治療"
-        ],
-        "skill_types": [
-            "嘲諷",
-            "法力生成增益",
-            "傷害減免",
-            "提供免疫",
-            "治療"
-        ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2024-07-25",
         "specialId": "reflecting_stance",
@@ -93078,18 +79833,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "天界鐵砧",
-        "types": [
-            "攻擊所有目標",
-            "全體傷害增加減益",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "攻擊減益",
-            "繞過",
-            "傷害分攤"
-        ],
         "source": "星界召喚",
         "Release date": "2024-03-28",
         "specialId": "celestial_anvil",
@@ -93155,14 +79898,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "慈母照護",
-        "types": [
-            "全體生命值加成",
-            "全體狀態異常免疫"
-        ],
-        "skill_types": [
-            "生命強化",
-            "提供免疫"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-12-22",
         "specialId": "motherly_care",
@@ -93220,16 +79955,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "慈母之愛",
-        "types": [
-            "全體強化持續治療",
-            "全體狀態異常免疫"
-        ],
-        "skill_types": [
-            "生命強化",
-            "提供免疫",
-            "持續治療",
-            "法力提升"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-02-05",
         "specialId": "motherly_love",
@@ -93295,17 +80020,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "贖罪之人",
-        "types": [
-            "攻擊單個目標",
-            "召喚1個惡魔",
-            "爆炸型失心攻擊惡魔"
-        ],
-        "skill_types": [
-            "召喚惡魔",
-            "失心攻擊&治療",
-            "狙擊手",
-            "傷害減免"
-        ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2022-09-08",
         "specialId": "possessor_of_penance",
@@ -93369,17 +80083,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "熱血萬能靈丹",
-        "types": [
-            "全體強化持續治療",
-            "全體持續獲得法力",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "持續治療",
-            "生命強化",
-            "法力提升",
-            "凈化"
-        ],
         "source": "月活動 - 農曆新年",
         "Release date": "2026-02-17",
         "specialId": "ardent_panacea",
@@ -93442,15 +80145,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "壁壘衝鋒",
-        "types": [
-            "攻擊3個目標",
-            "3個目標擊倒",
-            "3個目標攻擊增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊增益"
-        ],
         "source": "聖約召喚",
         "Release date": "2024-01-16",
         "specialId": "bulwark_charge",
@@ -93516,17 +80210,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "冥河",
         "skill": "好夢",
-        "types": [
-            "蓄力",
-            "攻擊所有目標",
-            "全體增益免疫",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "增益格擋者",
-            "驅散"
-        ],
         "source": "高塔 - 冥河",
         "Release date": "2022-06-01",
         "specialId": "sweet_dreams",
@@ -93599,17 +80282,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "玫瑰花環",
-        "types": [
-            "攻擊單個目標",
-            "傷害鏈接 (單體)",
-            "全體傷害增加疊加"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "狙擊手",
-            "疊加",
-            "傷害分攤"
-        ],
         "source": "哥布林召喚",
         "Release date": "2025-04-29",
         "specialId": "ring_around_the_rosie",
@@ -93673,17 +80345,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "淨化之火",
-        "types": [
-            "全體治療",
-            "全體攻擊增益",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "凈化",
-            "治療",
-            "特殊治療"
-        ],
         "source": "超級元素",
         "Release date": "2023-03-27",
         "specialId": "purifying_flame",
@@ -93751,18 +80412,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "燒灼火焰",
-        "types": [
-            "全體治療",
-            "火元素治療",
-            "全體攻擊增益",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "凈化",
-            "治療",
-            "特殊治療"
-        ],
         "source": "超級元素",
         "Release date": "2025-05-24",
         "specialId": "cauterizing_flame",
@@ -93835,16 +80484,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "火中鍛造",
-        "types": [
-            "全體法力削減",
-            "敵方傷害分擔",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "傷害分攤",
-            "法力削減或格擋",
-            "防禦減益"
-        ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "specialId": "forged_in_fire",
@@ -93906,16 +80545,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "黃金鍛造",
-        "types": [
-            "全體法力削減",
-            "敵方傷害分擔",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "治療削減",
-            "傷害分攤",
-            "防禦減益"
-        ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2025-07-28",
         "specialId": "forged_from_gold",
@@ -93979,17 +80608,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "飛速",
         "skill": "至高至強",
-        "types": [
-            "無視防禦",
-            "攻擊單個目標",
-            "隨機攻擊2次",
-            "命中時縮短增益持續時間"
-        ],
-        "skill_types": [
-            "繞過",
-            "連鎖與隨機攻擊",
-            "效果持續重置"
-        ],
         "source": "哥布林召喚",
         "Release date": "2024-07-07",
         "specialId": "aces_high",
@@ -94049,18 +80667,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "亂舞打擊",
-        "types": [
-            "全體強化防禦異常",
-            "單體延遲治療降低",
-            "攻擊單個目標",
-            "隨機攻擊9次"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "沈默",
-            "連鎖與隨機攻擊",
-            "反製小兵"
-        ],
         "source": "野地召喚",
         "Release date": "2024-12-31",
         "specialId": "flurry_of_blows",
@@ -94122,16 +80728,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "復仇鐮刀",
-        "types": [
-            "攻擊3個目標",
-            "3個目標反擊",
-            "反擊時獲得法力"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "反擊",
-            "法力提升"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-02-11",
         "specialId": "vengeful_scythe",
@@ -94185,17 +80781,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "烈火緘印",
-        "types": [
-            "全體持續傷害",
-            "全體屬性特技防禦",
-            "全體防禦類異常狀態保護增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "防禦增益",
-            "持續傷害",
-            "提供免疫"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2020-02-01",
         "specialId": "seal_of_fire",
@@ -94260,20 +80845,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "岩漿灼燒",
-        "types": [
-            "攻擊所有目標",
-            "全體減益持續時間重置",
-            "全體持續傷害",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "效果持續重置",
-            "持續傷害",
-            "防禦減益",
-            "反製小兵",
-            "狀態效果轉換"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-12-27",
         "specialId": "magmatic_burns",
@@ -94349,21 +80920,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "火熱表演",
-        "types": [
-            "全體治療",
-            "治療成長恩賜",
-            "全體狀態異常免疫增益",
-            "企圖施加異常狀態時獲得治療",
-            "改變棋盤"
-        ],
-        "skill_types": [
-            "治療",
-            "特殊治療",
-            "提供免疫",
-            "改變面板",
-            "反製小兵",
-            "疊加"
-        ],
         "source": "神殿召喚",
         "Release date": "2026-01-01",
         "specialId": "fiery_performance",
@@ -94431,16 +80987,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "慢速",
         "skill": "可汗指令",
-        "types": [
-            "攻擊3個目標",
-            "3個目標法力生成增益",
-            "3個目標防禦增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦增益",
-            "法力生成增益"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "khans_order",
@@ -94494,16 +81040,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "征服者之命",
-        "types": [
-            "攻擊單個目標",
-            "全體法力生成增益",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "法力生成增益",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "conquerors_command",
@@ -94559,16 +81095,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "酋長的復仇",
-        "types": [
-            "攻擊所有目標",
-            "全體法力持續恢復增益",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力提升",
-            "防禦增益"
-        ],
         "source": "服裝間",
         "Release date": "2022-09-05",
         "specialId": "chieftains_vengeance",
@@ -94624,17 +81150,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "慢速",
         "skill": "公仔之令",
-        "types": [
-            "攻擊3個目標",
-            "3個目標法力生成增益",
-            "3個目標防禦增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "法力生成增益",
-            "防禦增益",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-04-08",
         "specialId": "toons_order",
@@ -94700,18 +81215,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "慢速",
         "skill": "彩繪玻璃的命令",
-        "types": [
-            "攻擊所有目標",
-            "無視防禦",
-            "3個目標法力生成增益",
-            "3個目標防禦增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦增益",
-            "繞過",
-            "法力生成增益"
-        ],
         "source": "服裝間",
         "Release date": "2025-06-18",
         "specialId": "glass_order",
@@ -94777,16 +81280,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "不解之謎",
-        "types": [
-            "攻擊單個目標",
-            "連鎖攻擊",
-            "單體屬性防禦減益"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "防禦減益",
-            "狙擊手"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "perplexing_riddle",
@@ -94846,15 +81339,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "慢速",
         "skill": "水下謎語",
-        "types": [
-            "攻擊單個目標",
-            "連鎖攻擊",
-            "單體屬性防禦減益"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "連鎖與隨機攻擊"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-11-01",
         "specialId": "underwater_riddle",
@@ -94921,15 +81405,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "必死無疑",
-        "types": [
-            "全體阻止復活",
-            "全體復活免疫",
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "復活抑製"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2022-02-24",
         "specialId": "inevitable_demise",
@@ -94986,15 +81461,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "美味滅亡",
-        "types": [
-            "全體阻止復活",
-            "全體復活免疫",
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "復活抑製",
-            "範圍攻擊 (打3)"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-09-26",
         "specialId": "delicious_demise",
@@ -95056,15 +81522,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "戲法師之惡意",
-        "types": [
-            "全體移除狀態異常",
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "凈化",
-            "額外傷害"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-07-23",
         "specialId": "tricksters_malice",
@@ -95118,15 +81575,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "戲法師的催眠曲",
-        "types": [
-            "全體移除狀態異常",
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "凈化",
-            "額外傷害"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-10-23",
         "specialId": "tricksters_lullaby",
@@ -95182,15 +81630,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "潮汐",
         "skill": "包抄機動",
-        "types": [
-            "攻擊單個目標",
-            "召喚1個複製惡魔"
-        ],
-        "skill_types": [
-            "召喚惡魔",
-            "狙擊手",
-            "持續傷害"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-06-07",
         "specialId": "flanking_maneuver",
@@ -95257,15 +81696,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "潮汐",
         "skill": "勇士調動",
-        "types": [
-            "攻擊單個目標",
-            "召喚1個複製惡魔"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "召喚惡魔",
-            "持續傷害"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-09-21",
         "specialId": "champion_maneuver",
@@ -95337,15 +81767,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "滯礙閃電",
-        "types": [
-            "全體天賦觸發封印",
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "沈默",
-            "狀態效果格擋"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2022-01-05",
         "specialId": "impeding_bolts",
@@ -95397,19 +81818,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "旋風打擊",
-        "types": [
-            "暴擊機率",
-            "攻擊單個目標",
-            "隨機攻擊4次",
-            "嘲諷",
-            "自我傷害減免"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "傷害減免",
-            "嘲諷",
-            "額外傷害"
-        ],
         "source": "三國召喚",
         "Release date": "2025-05-22",
         "specialId": "whirlwind_blows",
@@ -95476,17 +81884,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "飛速",
         "skill": "戰爪打擊",
-        "types": [
-            "攻擊單個目標",
-            "擊殺時凍結附近目標法力獲取",
-            "全體反擊"
-        ],
-        "skill_types": [
-            "反擊",
-            "額外傷害",
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2024-02-14",
         "specialId": "battleclaw_strike",
@@ -95555,17 +81952,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "修道克制",
-        "types": [
-            "暴擊機率",
-            "攻擊所有目標",
-            "自我力量提升",
-            "全體暴擊幾率增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "攻擊增益"
-        ],
         "source": "三國召喚",
         "Release date": "2025-08-30",
         "specialId": "monastic_restraint",
@@ -95635,17 +82021,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "鐵鎚隨意亂舞",
-        "types": [
-            "攻擊單個目標",
-            "額外攻擊 1 次的機會",
-            "自身黑豬超級小怪"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "凈化格擋者",
-            "召喚巨型小兵",
-            "狙擊手"
-        ],
         "source": "哥布林召喚",
         "Release date": "2023-10-16",
         "specialId": "heedless_hammer_flurry",
@@ -95712,22 +82087,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "衝鋒",
         "skill": "撕裂之躍",
-        "types": [
-            "蓄力",
-            "3個目標最大生命值降低",
-            "攻擊3個目標",
-            "無視防禦",
-            "3個目標抵抗治療減益",
-            "3個目標每次抵抗治療時受到傷害"
-        ],
-        "skill_types": [
-            "最大生命削減",
-            "範圍攻擊 (打3)",
-            "繞過",
-            "狙擊手",
-            "治療削減",
-            "反製小兵"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2024-09-24",
         "specialId": "lacerating_leap",
@@ -95801,14 +82160,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "秋風",
-        "types": [
-            "隨機攻擊3個目標",
-            "全體閃避增益"
-        ],
-        "skill_types": [
-            "閃避",
-            "連鎖與隨機攻擊"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2025-08-01",
         "specialId": "autumnal_wind",
@@ -95868,14 +82219,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "岩漿粉碎",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "magma_smash",
@@ -95928,16 +82271,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "熔岩爆發",
-        "types": [
-            "攻擊3個目標",
-            "3個目標元素防禦降低",
-            "全體冰屬性攻擊減益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "攻擊減益"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "lava_blast",
@@ -95993,16 +82326,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "火山爆裂",
-        "types": [
-            "攻擊3個目標",
-            "3個目標防禦降低",
-            "3個目標持續傷害"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "持續傷害"
-        ],
         "source": "服裝間",
         "Release date": "2023-06-12",
         "specialId": "volcanic_blast",
@@ -96059,15 +82382,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "公仔驚奇粉碎",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "額外傷害",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2023-12-25",
         "specialId": "toontastic_smash",
@@ -96132,16 +82446,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "玻璃火焰粉碎",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦",
-            "單體持續傷害"
-        ],
-        "skill_types": [
-            "繞過",
-            "持續傷害",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2025-02-11",
         "specialId": "glass_flame_smash",
@@ -96206,15 +82510,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "有型粉碎",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "額外傷害",
-            "持續傷害"
-        ],
         "source": "服裝間",
         "Release date": "2026-02-14",
         "specialId": "stylish_smash",
@@ -96279,17 +82574,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "火焰之鏡",
-        "types": [
-            "攻擊3個目標",
-            "3個目標法力削減",
-            "全體元素反射",
-            "全體元素反擊"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "法力削減或格擋",
-            "反射"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "dark_mirror",
@@ -96347,17 +82631,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "火焰闊劍",
-        "types": [
-            "攻擊所有目標",
-            "3個目標法力生成降低",
-            "全體元素反射",
-            "全體元素反擊"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "反射",
-            "法力削減或格擋"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-03-06",
         "specialId": "glaive_of_flames",
@@ -96417,13 +82690,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "公仔之鏡",
-        "types": [
-            "攻擊3個目標",
-            "3個目標法力削減",
-            "全體元素反射",
-            "全體元素反擊"
-        ],
-        "skill_types": [],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toon_mirror",
@@ -96472,21 +82738,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "魔法",
         "skill": "龍寵烈焰",
-        "types": [
-            "蓄力",
-            "3個目標持續傷害",
-            "自我復活",
-            "復活者",
-            "全體持續治療",
-            "全體傷害減免"
-        ],
-        "skill_types": [
-            "傷害減免",
-            "持續傷害",
-            "持續治療",
-            "復活",
-            "治療"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "specialId": "flame_of_the_dragon_familiar",
@@ -96557,23 +82808,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "魔法",
         "skill": "龍寵包裹",
-        "types": [
-            "蓄力",
-            "3個目標持續傷害",
-            "自我復活",
-            "復活者",
-            "全體強化持續治療",
-            "全體傷害減免"
-        ],
-        "skill_types": [
-            "傷害減免",
-            "持續傷害",
-            "特殊治療",
-            "持續治療",
-            "反製小兵",
-            "復活",
-            "治療"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-07-05",
         "specialId": "parcel_of_the_dragon_familiar",
@@ -96653,17 +82887,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "反擊吊床",
-        "types": [
-            "攻擊3個目標",
-            "3個目標反擊",
-            "3個單位反擊時對目標施加飛沙之觸持續傷害"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "反擊",
-            "持續傷害",
-            "狀態效果轉換"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-04-17",
         "specialId": "countering_hammock",
@@ -96741,16 +82964,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "燃燒鏈鎖",
-        "types": [
-            "單體持續傷害",
-            "單體法力生成降低"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "額外傷害",
-            "法力生成增益",
-            "法力削減或格擋"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2018-01-01",
         "specialId": "burning_chains",
@@ -96810,17 +83023,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "燃燒線",
-        "types": [
-            "單體持續傷害",
-            "單體法力生成降低"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "額外傷害",
-            "法力生成增益",
-            "法力削減或格擋",
-            "驅散"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-05-15",
         "specialId": "burning_thread",
@@ -96886,18 +83088,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "烈火虎",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有惡魔",
-            "嘲諷格擋惡魔"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "召喚惡魔",
-            "嘲諷",
-            "持續傷害",
-            "攻擊增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-11-01",
         "specialId": "fire_tiger",
@@ -96963,17 +83153,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "飛速",
         "skill": "處處留爪",
-        "types": [
-            "全體治療",
-            "偷取全體1個增益",
-            "全體持續治療"
-        ],
-        "skill_types": [
-            "增益竊取者",
-            "持續治療",
-            "治療",
-            "治療削減"
-        ],
         "source": "聖約召喚",
         "Release date": "2025-06-03",
         "specialId": "paw_in_every_pie",
@@ -97031,15 +83210,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "痛苦收成",
-        "types": [
-            "攻擊所有目標",
-            "全體治療"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "繞過",
-            "治療"
-        ],
         "source": "超級元素",
         "Release date": "2024-02-26",
         "specialId": "pain_harvest",
@@ -97101,18 +83271,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "衝鋒",
         "skill": "無聲擊倒",
-        "types": [
-            "蓄力攻擊",
-            "攻擊 (1/3/所有) 目標"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "範圍攻擊 (打3)",
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "法力生成增益",
-            "反製小兵"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2024-08-27",
         "specialId": "silent_takedown",
@@ -97184,17 +83342,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "麻雀之怒",
-        "types": [
-            "全體治療",
-            "全體小怪摧毀召喚師",
-            ""
-        ],
-        "skill_types": [
-            "治療",
-            "反製小兵",
-            "召喚小兵",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2020-07-01",
         "specialId": "sparrow_fury",
@@ -97253,15 +83400,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "勢不可擋的衝撞",
-        "types": [
-            "無視閃避",
-            "無視防禦",
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "繞過"
-        ],
         "source": "傳奇召喚",
         "Release date": "2024-01-11",
         "specialId": "unstoppable_charge",
@@ -97323,16 +83461,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "巨獸之力",
-        "types": [
-            "攻擊所有目標",
-            "全體對泰坦攻擊增益",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊增益",
-            "防禦增益"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-06-27",
         "specialId": "strength_of_the_benemoth",
@@ -97386,16 +83514,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "火山之力",
-        "types": [
-            "攻擊所有目標",
-            "全體對泰坦攻擊增益",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊增益",
-            "防禦增益"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2025-10-25",
         "specialId": "strength_of_the_volcano",
@@ -97451,15 +83569,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "中空之刃",
-        "types": [
-            "攻擊所有目標",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "額外傷害"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-10-07",
         "specialId": "hallowed_blade",
@@ -97521,16 +83630,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "海之花束",
-        "types": [
-            "攻擊所有目標",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "額外傷害",
-            "攻擊增益"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-08-17",
         "specialId": "bouquet_of_the_seas",
@@ -97597,18 +83696,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "深淵儀式",
-        "types": [
-            "攻擊單個目標",
-            "召喚1個複製惡魔",
-            "施加瘋狂的惡魔",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "召喚惡魔",
-            "持續傷害",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2024-04-21",
         "specialId": "ritual_of_the_deep",
@@ -97674,17 +83761,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "猛烈刀雨",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害",
-            "全體治療降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "治療削減",
-            "凈化"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2022-12-24",
         "specialId": "dauntless_bladestorm",
@@ -97745,18 +83821,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "飛速",
         "skill": "槲寄生混合曲",
-        "types": [
-            "攻擊單個目標",
-            "複製增益",
-            "複製增益時自我治療",
-            "召喚者 (單體)"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "增益竊取者",
-            "特殊治療",
-            "召喚小兵"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2024-12-01",
         "specialId": "mistletoe_medley",
@@ -97812,18 +83876,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "絕對準時",
-        "types": [
-            "謙遜",
-            "攻擊單個目標",
-            "敵人釋放特技後隨機追加 1 次攻擊",
-            "自身延遲治療"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "法力提升",
-            "特殊治療",
-            "連鎖與隨機攻擊"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2026-03-15",
         "specialId": "always_on_time",
@@ -97892,16 +83944,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "浩劫和弦",
-        "types": [
-            "攻擊3個目標",
-            "3個目標攻擊力成長",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "屬性修改",
-            "範圍攻擊 (打3)",
-            "防禦減益"
-        ],
         "source": "哥布林召喚",
         "Release date": "2024-01-08",
         "specialId": "chords_of_havoc",
@@ -97970,18 +84012,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "復原之歌",
-        "types": [
-            "全體治療",
-            "全體增益持續時間重置",
-            "全體暴擊幾率增益",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "效果持續重置",
-            "治療",
-            "復活抑製"
-        ],
         "source": "挑戰節 II",
         "Release date": "2022-08-11",
         "specialId": "ballad_of_restoration",
@@ -98045,19 +84075,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "飛速",
         "skill": "平面時間小工具",
-        "types": [
-            "重新部署",
-            "攻擊所有目標",
-            "全體負面效果持續時間增加",
-            "全體法力生成降低"
-        ],
-        "skill_types": [
-            "重排隊伍",
-            "全體攻擊 (打5)",
-            "效果持續重置",
-            "反製小兵",
-            "繞過"
-        ],
         "source": "星界召喚",
         "Release date": "2025-02-28",
         "specialId": "planar_time_widget",
@@ -98124,17 +84141,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "三隻盲鼠",
-        "types": [
-            "自身召喚師",
-            "全體持續治療",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "持續治療",
-            "召喚小兵",
-            "對自身或友軍負面效果"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "three_blind_mice",
@@ -98193,17 +84199,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "三隻賊鼠",
-        "types": [
-            "召喚者",
-            "全體持續治療",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "持續治療",
-            "召喚小兵",
-            "對自身或友軍負面效果"
-        ],
         "source": "挑戰節 I",
         "Release date": "2023-08-10",
         "specialId": "three_bandit_mice",
@@ -98264,18 +84259,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "撲克皇后",
-        "types": [
-            "攻擊3個目標",
-            "自身召喚師",
-            "嘲諷小兵",
-            "自身特技防禦增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦增益",
-            "召喚小兵",
-            "嘲諷"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "queen_of_cards",
@@ -98335,18 +84318,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "愛意女王",
-        "types": [
-            "攻擊3個目標",
-            "自身召喚師",
-            "嘲諷小兵",
-            "自身特技防禦增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦增益",
-            "召喚小兵",
-            "嘲諷"
-        ],
         "source": "挑戰節 I",
         "Release date": "2023-10-05",
         "specialId": "loving_queen",
@@ -98412,21 +84383,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "皇家肉丸自助餐",
-        "types": [
-            "淨化者",
-            "全體無視防禦",
-            "全體減益抵抗",
-            "全體攻擊疊加"
-        ],
-        "skill_types": [
-            "凈化",
-            "法力提升",
-            "繞過",
-            "提供免疫",
-            "攻擊增益",
-            "疊加",
-            "復活"
-        ],
         "source": "野地召喚",
         "Release date": "2025-03-17",
         "specialId": "royal_meatball_buffet",
@@ -98500,17 +84456,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "飛速",
         "skill": "乎魯切痕",
-        "types": [
-            "攻擊2個目標",
-            "2個目標治療抵抗減益",
-            "企圖治療時受到傷害",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "治療削減",
-            "狙擊手",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2024-07-18",
         "specialId": "cuts_of_hulu",
@@ -98569,27 +84514,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "魔法",
         "skill": "熾焰灌籃",
-        "types": [
-            "蓄力",
-            "全體持續傷害",
-            "全體元素防禦降低",
-            "全體驅散",
-            "全體持續治療",
-            "全體元素攻擊提升",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "凈化",
-            "防禦減益",
-            "驅散",
-            "持續傷害",
-            "額外傷害",
-            "持續治療",
-            "攻擊增益",
-            "疊加",
-            "法力削減或格擋",
-            "法力提升"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2023-05-03",
         "specialId": "blazing_slam_dunk",
@@ -98662,28 +84586,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "魔法",
         "skill": "帶刺灌籃",
-        "types": [
-            "蓄力",
-            "全體持續傷害",
-            "全體元素防禦降低",
-            "驅散者",
-            "全體強化持續治療",
-            "全體元素攻擊提升",
-            "淨化者"
-        ],
-        "skill_types": [
-            "反製小兵",
-            "持續傷害",
-            "特殊治療",
-            "驅散",
-            "防禦減益",
-            "持續治療",
-            "生命強化",
-            "攻擊增益",
-            "凈化",
-            "法力削減或格擋",
-            "法力提升"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-07-23",
         "specialId": "thorned_slam_dunk",
@@ -98768,17 +84670,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "森林朋友",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有",
-            "治療小兵",
-            "小怪法力削減免疫"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續治療",
-            "召喚小兵"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "forest_friends",
@@ -98836,21 +84727,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "絕妙之計",
-        "types": [
-            "驅散3個目標",
-            "攻擊3個目標",
-            "3個目標增益免疫"
-        ],
-        "skill_types": [
-            "增益格擋者",
-            "額外傷害",
-            "反製小兵",
-            "範圍攻擊 (打3)",
-            "驅散",
-            "持續傷害",
-            "防禦減益",
-            "繞過"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2024-12-03",
         "specialId": "master_plan",
@@ -98922,21 +84798,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "受詛咒的計畫",
-        "types": [
-            "驅散3個目標",
-            "攻擊3個目標",
-            "3個目標增益免疫"
-        ],
-        "skill_types": [
-            "增益格擋者",
-            "額外傷害",
-            "反製小兵",
-            "範圍攻擊 (打3)",
-            "驅散",
-            "持續傷害",
-            "防禦減益",
-            "繞過"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-10-15",
         "specialId": "cursed_plan",
@@ -99010,15 +84871,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "神秘救贖",
-        "types": [
-            "攻擊3個目標",
-            "全體傷害減免增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "傷害減免",
-            "召喚小兵"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2020-12-01",
         "specialId": "occult_redemption",
@@ -99075,18 +84927,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "羽毛斗篷",
-        "types": [
-            "安全淨化最新的異常狀態",
-            "全體治療",
-            "全體反射狀態異常",
-            "全體反射負面疊加效果",
-            "全體反射衰退效果"
-        ],
-        "skill_types": [
-            "凈化",
-            "治療",
-            "反射"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2024-10-18",
         "specialId": "cloak_of_feathers",
@@ -99150,15 +84990,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "哥布林炸藥",
-        "types": [
-            "衰退",
-            "召喚3個爆炸惡魔"
-        ],
-        "skill_types": [
-            "屬性修改",
-            "召喚惡魔",
-            "持續傷害"
-        ],
         "source": "哥布林召喚",
         "Release date": "2024-03-18",
         "specialId": "goblin_explosives",
@@ -99225,17 +85056,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "最後遺言",
-        "types": [
-            "攻擊單個目標",
-            "可能的額外攻擊",
-            "命中時瘋狂",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2025-04-03",
         "specialId": "last_words",
@@ -99291,21 +85111,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "飛速",
         "skill": "絢麗花瓣",
-        "types": [
-            "謙遜",
-            "全體治療",
-            "全體淨化",
-            "全體攻擊力成長",
-            "全體持續治療",
-            "自身特殊技能防禦增益"
-        ],
-        "skill_types": [
-            "治療",
-            "凈化",
-            "屬性修改",
-            "持續治療",
-            "防禦增益"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2025-11-12",
         "specialId": "beautiful_petals",
@@ -99380,18 +85185,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "法力搜刮",
-        "types": [
-            "偷取單個目標法力",
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "法力提升",
-            "法力削減或格擋",
-            "反製小兵",
-            "狙擊手",
-            "額外傷害",
-            "閃避"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-01-01",
         "specialId": "mana_scavange",
@@ -99456,21 +85249,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "強者之災",
-        "types": [
-            "全體驅散",
-            "攻擊所有目標",
-            "全體攻擊增益",
-            "全體防禦增益",
-            "自我強化持續治療"
-        ],
-        "skill_types": [
-            "驅散",
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "攻擊增益",
-            "防禦增益",
-            "生命強化"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2024-06-26",
         "specialId": "scourge_of_the_strong",
@@ -99541,18 +85319,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "衝鋒",
         "skill": "腥紅災難",
-        "types": [
-            "蓄力",
-            "攻擊 (1/3/所有) 目標",
-            "法力削減 (1/3/所有目標)",
-            "法力生成降低 (1/3/所有目標)"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "全體攻擊 (打5)",
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2021-11-10",
         "specialId": "crimson_calamity",
@@ -99620,16 +85386,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "絕對燃燒",
-        "types": [
-            "攻擊單個目標",
-            "3個目標持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "狙擊手",
-            "繞過",
-            "特殊治療"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-10-01",
         "specialId": "sure_fire_combustion",
@@ -99695,18 +85451,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "隱密猛撞",
-        "types": [
-            "攻擊3個目標",
-            "單體持續性傷害",
-            "掩護1個目標",
-            "自我持續治療"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "傷害分攤",
-            "持續治療"
-        ],
         "source": "聖約召喚",
         "Release date": "2024-08-20",
         "specialId": "cover_slam",
@@ -99775,18 +85519,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "神奇巴蘭",
-        "types": [
-            "驅散3個目標",
-            "攻擊3個目標",
-            "3個目標小兵創傷",
-            "3個目標治療降低"
-        ],
-        "skill_types": [
-            "驅散",
-            "範圍攻擊 (打3)",
-            "最大生命削減",
-            "治療削減"
-        ],
         "source": "挑戰節 II",
         "Release date": "2024-12-12",
         "specialId": "magical_balan",
@@ -99853,17 +85585,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "星界協助",
-        "types": [
-            "惡魔摧毀者",
-            "全體治療",
-            "全體星光射線增益"
-        ],
-        "skill_types": [
-            "反製惡魔",
-            "生命強化",
-            "連鎖與隨機攻擊",
-            "最大生命削減"
-        ],
         "source": "星界召喚",
         "Release date": "2025-11-29",
         "specialId": "astral_assistance",
@@ -99936,18 +85657,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "終極禮袋",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有",
-            "全體攻擊降低",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "防禦減益",
-            "召喚小兵"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "",
         "specialId": "ultimate_giftsack",
@@ -100007,18 +85716,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "石之贈禮",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有",
-            "全體攻擊降低",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "防禦減益",
-            "召喚小兵"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2021-12-01",
         "specialId": "gift_of_rock",
@@ -100084,20 +85781,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "殺手",
         "skill": "斷裂連斬",
-        "types": [
-            "攻擊3個目標",
-            "3個目標防禦降低",
-            "自我法力生成疊加",
-            "自我持續治療疊加"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "特殊治療",
-            "疊加",
-            "法力生成增益",
-            "持續治療"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-08-05",
         "specialId": "fracturing_slash",
@@ -100161,21 +85844,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "殺手",
         "skill": "壓裂切割",
-        "types": [
-            "攻擊3個目標",
-            "3個目標防禦降低",
-            "自我法力生成疊加",
-            "自我持續治療疊加"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "法力生成增益",
-            "持續治療",
-            "疊加",
-            "特殊治療",
-            "持續傷害"
-        ],
         "source": "挑戰節 II",
         "Release date": "2024-11-14",
         "specialId": "fracturing_cut",
@@ -100244,20 +85912,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "燒灼之觸",
-        "types": [
-            "攻擊所有目標",
-            "單體沈默",
-            "全體攻擊衰減"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "法力削減或格擋",
-            "額外傷害",
-            "反製小兵",
-            "全體攻擊 (打5)",
-            "沈默",
-            "屬性修改"
-        ],
         "source": "聖約召喚",
         "Release date": "2024-05-19",
         "specialId": "cauterizing_touch",
@@ -100319,19 +85973,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "慢速",
         "skill": "燃起我的烈火",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害",
-            "全體衰退"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "特殊治療",
-            "屬性修改",
-            "繞過",
-            "反製小兵"
-        ],
         "source": "星界召喚",
         "Release date": "2025-07-27",
         "specialId": "light_my_fire",
@@ -100401,14 +86042,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "獅子猛撲",
-        "types": [
-            "攻擊單個目標",
-            "全體傷害治療"
-        ],
-        "skill_types": [
-            "特殊治療",
-            "狙擊手"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-09-01",
         "specialId": "pounce_of_the_lioness",
@@ -100462,14 +86095,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "母獅猛撲",
-        "types": [
-            "攻擊單個目標",
-            "全體傷害治療"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "特殊治療"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2025-03-17",
         "specialId": "flame_of_the_lioness",
@@ -100530,17 +86155,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "衝鋒",
         "skill": "燃燒灰燼",
-        "types": [
-            "蓄力",
-            "攻擊所有目標",
-            "全體持續傷害",
-            "全體治療降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "治療削減"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
         "specialId": "burning_ashes",
@@ -100605,12 +86219,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "飛速",
         "skill": "長矛尖端",
-        "types": [
-            "攻擊單個目標",
-            "單體法力削減",
-            "傷害鏈接 (單體)"
-        ],
-        "skill_types": [],
         "source": "野地召喚",
         "Release date": "2026-03-30",
         "specialId": "tip_of_the_spear",
@@ -100655,7 +86263,19 @@ window.allHeroes =
             "health": 2918,
             "power": 1583
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：單一目標"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "法力-削減法力",
+                    "傷害-額外傷害"
+                ]
+            }
+        ]
     },
     {
         "name": "嘶嘶機 (Sizzleomatic)",
@@ -100665,18 +86285,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "燃燒鍋",
-        "types": [
-            "攻擊所有目標",
-            "全體攻擊增益",
-            "全體反射狀態異常",
-            "全體反射疊加效果"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "攻擊增益",
-            "反射"
-        ],
         "source": "聖約召喚",
         "Release date": "2025-12-23",
         "specialId": "burning_wok",
@@ -100748,17 +86356,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "中斷反擊",
-        "types": [
-            "攻擊3個目標",
-            "3個目標法力削減",
-            "3個目標致盲"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益",
-            "法力削減或格擋",
-            "法力生成增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-06-01",
         "specialId": "halting_counter_strike",
@@ -100823,19 +86420,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "魔法巫師劍",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "處於持續傷害狀態時全體生命值加成治療",
-            "3個目標反射增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "特殊治療",
-            "反射",
-            "傷害分攤"
-        ],
         "source": "星界召喚",
         "Release date": "2023-11-21",
         "specialId": "enchanted_elven_sword",
@@ -100904,16 +86488,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "全軍出擊",
-        "types": [
-            "攻擊3個目標",
-            "召喚所有",
-            "附帶持續傷害的小兵"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "召喚小兵"
-        ],
         "source": "三國召喚",
         "Release date": "2022-09-12",
         "specialId": "command_to_advance",
@@ -100972,16 +86546,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "進攻指令",
-        "types": [
-            "攻擊3個目標",
-            "召喚所有",
-            "附帶持續傷害的小兵"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "召喚小兵",
-            "持續傷害"
-        ],
         "source": "三國召喚",
         "Release date": "2024-11-30",
         "specialId": "command_to_advance_costume_fire_bat",
@@ -101049,17 +86613,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "獵人印記",
-        "types": [
-            "攻擊單個目標",
-            "2個目標持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "反製惡魔",
-            "提供免疫",
-            "狙擊手",
-            "額外傷害"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-08-01",
         "specialId": "hunters_mark",
@@ -101125,16 +86678,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "遠古之咒",
-        "types": [
-            "攻擊3個目標",
-            "單體防禦降低",
-            "若目標被擊敗則全體法力提升"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "法力提升"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-10-27",
         "specialId": "ancient_spell",
@@ -101198,16 +86741,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "古代火焰",
-        "types": [
-            "攻擊3個目標",
-            "單體防禦降低",
-            "若目標被擊敗則全體法力提升"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "法力提升"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-05-27",
         "specialId": "ancient_flames",
@@ -101278,16 +86811,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "冒險之旅正等著你！",
-        "types": [
-            "全體生命值加成",
-            "全體攻擊增益",
-            "自身防禦減益"
-        ],
-        "skill_types": [
-            "生命強化",
-            "攻擊增益",
-            "對自身或友軍負面效果"
-        ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2024-03-18",
         "specialId": "adventure_awaits",
@@ -101345,17 +86868,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "標記獵物",
-        "types": [
-            "傷害鏈接 (單體)",
-            "單體防禦降低",
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "持續傷害",
-            "傷害分攤"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2023-10-18",
         "specialId": "mark_the_prey",
@@ -101413,19 +86925,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "貪婪咀嚼",
-        "types": [
-            "攻擊單個目標",
-            "寶箱怪",
-            "全體普通攻擊增益"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "繞過",
-            "特殊治療",
-            "法力提升",
-            "攻擊增益",
-            "鬼魂形態與隱藏"
-        ],
         "source": "市場召喚",
         "Release date": "2026-03-08",
         "specialId": "gluttonous_chomp_red",
@@ -101507,20 +87006,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "金剛利爪",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦機率",
-            "單體持續傷害",
-            "自我持續治療",
-            "自我復活"
-        ],
-        "skill_types": [
-            "繞過",
-            "持續傷害",
-            "持續治療",
-            "復活",
-            "狙擊手"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "",
         "specialId": "adamantite_claw",
@@ -101582,20 +87067,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "強悍利爪",
-        "types": [
-            "攻擊3個目標",
-            "無視防禦",
-            "3個目標持續傷害",
-            "處於持續傷害狀態時治療自身",
-            "自我復活"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "繞過",
-            "持續傷害",
-            "特殊治療",
-            "復活"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-02-13",
         "specialId": "indestructible_claw",
@@ -101663,18 +87134,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "失真合音",
-        "types": [
-            "攻擊所有目標",
-            "全體攻擊降低",
-            "3個目標持續治療",
-            "3個目標驅散免疫增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "持續治療",
-            "提供免疫"
-        ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2023-08-07",
         "specialId": "chords_of_distortion",
@@ -101738,18 +87197,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "煉獄和弦",
-        "types": [
-            "攻擊所有目標",
-            "攻擊降低",
-            "3個目標持續治療",
-            "3個目標驅散免疫"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "持續治療",
-            "提供免疫"
-        ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2024-07-22",
         "specialId": "chords_of_inferno",
@@ -101815,17 +87262,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "飛速",
         "skill": "悲傷之暮",
-        "types": [
-            "攻擊所有目標",
-            "全體生命竊取",
-            "全體狀態異常免疫"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "特殊治療",
-            "治療削減",
-            "提供免疫"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2020-10-26",
         "specialId": "twilight_of_sorrow",
@@ -101887,17 +87323,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "飛速",
         "skill": "毁灭之暮",
-        "types": [
-            "攻擊所有目標",
-            "全體治療偷取",
-            "全體狀態異常免疫"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "特殊治療",
-            "治療削減",
-            "提供免疫"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2021-10-04",
         "specialId": "twilight_of_ruin",
@@ -101961,16 +87386,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "驚奇感覺",
-        "types": [
-            "全體治療",
-            "持盾守衛超級小兵",
-            "清除全體小怪"
-        ],
-        "skill_types": [
-            "召喚巨型小兵",
-            "治療",
-            "凈化"
-        ],
         "source": "哥布林召喚",
         "Release date": "2024-04-15",
         "specialId": "sense_of_wonder",
@@ -102036,16 +87451,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "堅持到底",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害",
-            "持續傷害",
-            "攻擊增益"
-        ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2025-11-08",
         "specialId": "stalwart_to_the_end",
@@ -102118,21 +87523,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "揮發水晶導管",
-        "types": [
-            "無視防禦",
-            "攻擊單個目標",
-            "連鎖攻擊",
-            "命中時瘋狂",
-            "命中時延遲麻痺",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "沈睡",
-            "失心攻擊&治療",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2026-01-11",
         "specialId": "volatile_crystal_conduit",
@@ -102204,19 +87594,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "地獄烈火",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害",
-            "灼燒時治療自身",
-            "全體法力偷取"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "特殊治療",
-            "法力提升",
-            "法力削減或格擋"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2022-12-08",
         "specialId": "xenda_special",
@@ -102280,19 +87657,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "地獄火焰",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害",
-            "灼燒時治療自身",
-            "全體法力偷取"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "特殊治療",
-            "法力提升",
-            "法力削減或格擋"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-05-23",
         "specialId": "xenda_special_costume",
@@ -102361,16 +87725,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "反向恢復",
-        "types": [
-            "攻擊單個目標",
-            "3個目標治療抵抗減益",
-            "3個目標每次抵抗治療時受到傷害"
-        ],
-        "skill_types": [
-            "治療削減",
-            "反製小兵",
-            "狙擊手"
-        ],
         "source": "月活動 - 農曆新年",
         "Release date": "2023-01-19",
         "specialId": "reverse_recovery",
@@ -102426,17 +87780,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "不幸的恢復",
-        "types": [
-            "攻擊單個目標",
-            "3個目標最大生命值降低",
-            "3個目標每次抵抗治療時受到傷害"
-        ],
-        "skill_types": [
-            "治療削減",
-            "反製小兵",
-            "狙擊手",
-            "最大生命削減"
-        ],
         "source": "月活動 - 農曆新年",
         "Release date": "2026-02-17",
         "specialId": "ill_fated_recovery",
@@ -102496,17 +87839,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "永生之桃",
-        "types": [
-            "自我復活",
-            "復活時傷害全體",
-            "全體暴擊率增益",
-            "全體攻擊增益疊加"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "復活",
-            "疊加"
-        ],
         "source": "三國召喚",
         "Release date": "2023-10-09",
         "specialId": "peach_of_immortality",
@@ -102562,18 +87894,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "烈焰暴怒",
-        "types": [
-            "攻擊單個目標",
-            "有概率進行 1 次隨機攻擊",
-            "自身攻擊增益疊加"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "連鎖與隨機攻擊",
-            "法力提升",
-            "疊加",
-            "狙擊手"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-05-01",
         "specialId": "flaming_fury",
@@ -102635,17 +87955,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "誘人幻象",
-        "types": [
-            "攻擊3個目標",
-            "3個目標強化閃避"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "閃避",
-            "攻擊減益",
-            "持續傷害",
-            "反製小兵"
-        ],
         "source": "野地召喚",
         "Release date": "2025-03-26",
         "specialId": "captivating_illusions",
@@ -102713,17 +88022,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "冷漠之刃",
-        "types": [
-            "攻擊3個目標",
-            "無視防禦",
-            "繞過時獲得法力提升值"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "繞過",
-            "法力提升",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-03-01",
         "specialId": "indifferent_blade",
@@ -102788,17 +88086,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "千刀萬剮",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "持續傷害",
-            "額外傷害",
-            "法力提升",
-            "疊加",
-            "閃避"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-04-01",
         "specialId": "thousand_cuts",
@@ -102865,13 +88152,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "災難占卜",
-        "types": [
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害"
-        ],
         "source": "超級元素",
         "Release date": "2023-10-09",
         "specialId": "cataclysmic_divination",
@@ -102932,18 +88212,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "二連刺",
-        "types": [
-            "攻擊2個目標",
-            "改變棋盤"
-        ],
-        "skill_types": [
-            "改變面板",
-            "攻擊減益",
-            "攻擊增益",
-            "攻擊減益",
-            "攻擊增益",
-            "狙擊手"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-09-09",
         "specialId": "dual_sting",
@@ -102999,19 +88267,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "花之刺擊",
-        "types": [
-            "攻擊2個目標",
-            "改變棋盤"
-        ],
-        "skill_types": [
-            "改變面板",
-            "攻擊減益",
-            "攻擊增益",
-            "狙擊手",
-            "攻擊減益",
-            "攻擊增益",
-            "額外傷害"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-02-29",
         "specialId": "floral_sting",
@@ -103072,19 +88327,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "櫻桃布丁上桌了！",
-        "types": [
-            "治療3個目標",
-            "2個目標法力增加",
-            "2個目標攻擊成長",
-            "2個目標防禦成長",
-            "自身召喚史萊姆超級小兵"
-        ],
-        "skill_types": [
-            "法力提升",
-            "治療",
-            "屬性修改",
-            "召喚巨型小兵"
-        ],
         "source": "超級元素",
         "Release date": "2025-10-11",
         "specialId": "cherry_pudding_served",
@@ -103151,18 +88393,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "飛速",
         "skill": "箇中門道",
-        "types": [
-            "攻擊單個目標",
-            "單體增益竊取",
-            "賭徒",
-            "持續傷害"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "增益竊取者",
-            "持續傷害",
-            "攻擊增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-10-01",
         "specialId": "trick_of_the_trade",
@@ -103237,17 +88467,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "黎明打擊",
-        "types": [
-            "攻擊所有目標",
-            "全體攻擊增益",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊增益",
-            "凈化",
-            "持續治療"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2018-11-01",
         "specialId": "dawn_strike",
@@ -103306,16 +88525,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "早晨抓捕",
-        "types": [
-            "全體驅散",
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "驅散",
-            "額外傷害",
-            "持續治療"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-03-20",
         "specialId": "morning_catch",
@@ -103380,12 +88589,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "背刺",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "backstab",
@@ -103425,12 +88628,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "爆裂連斬",
-        "types": [
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "fierce_slash",
@@ -103470,12 +88667,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "防禦策略",
-        "types": [
-            "防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "defensive_tactics",
@@ -103515,14 +88706,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "麻痺粉碎",
-        "types": [
-            "攻擊單個目標",
-            "攻擊降低"
-        ],
-        "skill_types": [
-            "攻擊減益",
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "stunning_blow",
@@ -103563,12 +88746,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "治療聖歌",
-        "types": [
-            "治療者"
-        ],
-        "skill_types": [
-            "治療"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "healing_chant",
@@ -103608,14 +88785,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "精準劈擊",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦機率"
-        ],
-        "skill_types": [
-            "繞過",
-            "狙擊手"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
         "specialId": "precise_chop",
@@ -103667,18 +88836,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "飛沙柔風",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害",
-            "全體治療降低",
-            "自身淨化"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "凈化",
-            "持續傷害",
-            "治療削減"
-        ],
         "source": "月活動 - 海灘派對",
         "Release date": "",
         "specialId": "soldiers_curse",
@@ -103735,14 +88892,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "諧波震顫",
-        "types": [
-            "攻擊單個目標",
-            "單體致盲"
-        ],
-        "skill_types": [
-            "攻擊減益",
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "harmonic_slam",
@@ -103794,14 +88943,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "諧波猛擊",
-        "types": [
-            "攻擊單個目標",
-            "單體致盲"
-        ],
-        "skill_types": [
-            "攻擊減益",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2020-01-01",
         "specialId": "harmonic_bash",
@@ -103855,15 +88996,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "公仔重擊",
-        "types": [
-            "攻擊單個目標",
-            "單體致盲"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "攻擊減益",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-03-11",
         "specialId": "toon_slam",
@@ -103927,16 +89059,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "玻璃猛撞",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦",
-            "單體致盲"
-        ],
-        "skill_types": [
-            "繞過",
-            "攻擊減益",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2025-05-10",
         "specialId": "glass_slam",
@@ -104000,12 +89122,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "豐盛大餐",
-        "types": [
-            "全體對泰坦攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2021-10-13",
         "specialId": "magnificent_meal",
@@ -104051,14 +89167,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "夢幻輔助",
-        "types": [
-            "全體治療至 50% 生命值",
-            "全體持續治療"
-        ],
-        "skill_types": [
-            "持續治療",
-            "治療"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-06-10",
         "specialId": "whimsical_aid",
@@ -104106,18 +89214,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "泰坦骨鐵鍊連斬",
-        "types": [
-            "攻擊所有目標",
-            "全體致盲",
-            "自身攻擊增益疊加"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "持續傷害",
-            "疊加",
-            "攻擊增益"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2023-05-06",
         "specialId": "titanbone_chain_slash",
@@ -104181,17 +89277,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "腦連結",
-        "types": [
-            "攻擊單個目標",
-            "全體有概率隨機攻擊 1 次",
-            "全體有概率隨機施加瘋狂狀態",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2025-01-09",
         "specialId": "brain_link",
@@ -104246,12 +89331,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "跳躍攻擊",
-        "types": [
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "leaping_attack",
@@ -104297,14 +89376,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "重擊攻擊",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊1個目標"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "pounding_attack",
@@ -104359,13 +89430,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "公仔攻擊",
-        "types": [
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-08-11",
         "specialId": "toon_attack",
@@ -104423,14 +89487,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "玻璃攻擊",
-        "types": [
-            "攻擊3個目標",
-            "無視防禦"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "繞過"
-        ],
         "source": "服裝間",
         "Release date": "2025-10-09",
         "specialId": "glass_leaping_attack_dawa",
@@ -104488,17 +89544,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "防曬油爆裂",
-        "types": [
-            "攻擊單個目標",
-            "單體防禦降低",
-            "單體治療降低"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "治療削減",
-            "狙擊手",
-            "持續傷害"
-        ],
         "source": "月活動 - 海灘派對",
         "Release date": "2023-06-12",
         "specialId": "sunscreen_blast",
@@ -104558,16 +89603,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "流浪讚歌",
-        "types": [
-            "全體治療",
-            "全體對泰坦攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "持續傷害",
-            "治療",
-            "對自身或友軍負面效果"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2022-10-15",
         "specialId": "nomadic_hymn",
@@ -104630,17 +89665,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "無悔戳擊",
-        "types": [
-            "攻擊單個目標",
-            "全體增益反射",
-            "自我持續治療"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "反射",
-            "狙擊手",
-            "持續治療"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2023-03-08",
         "specialId": "covert_stab",
@@ -104704,18 +89728,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "劍客刺擊",
-        "types": [
-            "攻擊單個目標",
-            "全體反射增益",
-            "自身生命值加成持續治療"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "反射",
-            "狙擊手",
-            "持續治療",
-            "生命強化"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2025-11-12",
         "specialId": "swashbuckling_stab",
@@ -104783,14 +89795,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "神秘砍擊",
-        "types": [
-            "攻擊單個目標",
-            "單體法力削減"
-        ],
-        "skill_types": [
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "mystic_chop",
@@ -104842,14 +89846,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "鄉村砍擊",
-        "types": [
-            "攻擊單個目標",
-            "單體法力削減"
-        ],
-        "skill_types": [
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "rural_chop",
@@ -104903,15 +89899,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "公仔砍擊",
-        "types": [
-            "攻擊單個目標",
-            "單體法力削減"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2023-12-25",
         "specialId": "toon_chop",
@@ -104971,16 +89958,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "玻璃砍擊",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦",
-            "單體法力削減"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "繞過",
-            "法力削減或格擋"
-        ],
         "source": "服裝間",
         "Release date": "2024-12-25",
         "specialId": "glass_chop",
@@ -105040,15 +90017,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "有型砍擊",
-        "types": [
-            "攻擊單個目標",
-            "單體法力削減"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "額外傷害",
-            "法力削減或格擋"
-        ],
         "source": "服裝間",
         "Release date": "2026-01-07",
         "specialId": "stylish_chop",
@@ -105108,15 +90076,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "黏黏之矛",
-        "types": [
-            "攻擊單個目標",
-            "對單個目標施放吞噬黏液"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "持續傷害",
-            "驅散"
-        ],
         "source": "超級元素",
         "Release date": "2025-10-27",
         "specialId": "sticky_spear",
@@ -105176,16 +90135,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "侍從打擊",
-        "types": [
-            "隨機攻擊2個目標",
-            "擊敗時自身恢復",
-            "擊殺時自身法力提升"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "特殊治療",
-            "法力提升"
-        ],
         "source": "聖約召喚",
         "Release date": "2025-12-23",
         "specialId": "squire_strike",
@@ -105250,15 +90199,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "潮汐",
         "skill": "可疑商品",
-        "types": [
-            "偷取單個目標法力",
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "法力提升",
-            "法力削減或格擋"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-07-05",
         "specialId": "dubious_merchandise",
@@ -105321,15 +90261,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "潮汐",
         "skill": "可疑混合物",
-        "types": [
-            "偷取單個目標法力",
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "法力削減或格擋",
-            "範圍攻擊 (打3)",
-            "法力提升"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-02-03",
         "specialId": "dubious_mixture",
@@ -105397,18 +90328,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "非常慢",
         "skill": "樺木祝福",
-        "types": [
-            "全體生命值加成",
-            "召喚所有",
-            "全體傷害減免增益",
-            "全體法力生成增益"
-        ],
-        "skill_types": [
-            "傷害減免",
-            "生命強化",
-            "法力生成增益",
-            "召喚小兵"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2023-12-01",
         "specialId": "birch_blessing",
@@ -105468,14 +90387,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "靈魂羈絆",
-        "types": [
-            "友方傷害分擔",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "傷害分攤"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "stone_skin",
@@ -105523,14 +90434,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "靈魂齊聚",
-        "types": [
-            "友方傷害分擔",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "傷害分攤"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "spirit_rally",
@@ -105580,14 +90483,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "公仔絕妙連結",
-        "types": [
-            "友方傷害分擔",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "傷害分攤"
-        ],
         "source": "服裝間",
         "Release date": "2024-02-12",
         "specialId": "toontastic_link",
@@ -105641,17 +90536,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "玻璃連結",
-        "types": [
-            "友方傷害分擔",
-            "全體防禦增益",
-            "神聖盟友反射狀態異常",
-            "神聖盟友反射疊加效果"
-        ],
-        "skill_types": [
-            "傷害分攤",
-            "防禦增益",
-            "反射"
-        ],
         "source": "服裝間",
         "Release date": "2025-03-11",
         "specialId": "glass_link",
@@ -105707,16 +90591,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "風格連結",
-        "types": [
-            "友方傷害分擔",
-            "全體防禦增益",
-            "全體持續治療"
-        ],
-        "skill_types": [
-            "傷害分攤",
-            "防禦增益",
-            "持續治療"
-        ],
         "source": "服裝間",
         "Release date": "2026-03-12",
         "specialId": "style_link",
@@ -105776,14 +90650,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "衝鋒",
         "skill": "連續閃電",
-        "types": [
-            "蓄力",
-            "攻擊單個目標",
-            "隨機攻擊 2/3/4 次"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
         "specialId": "lightning_stream",
@@ -105838,16 +90704,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "蜂式蠻進",
-        "types": [
-            "召喚所有",
-            "帶持續傷害的小怪",
-            "帶小怪阻擋效果的小怪"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "反製小兵",
-            "召喚小兵"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "",
         "specialId": "bee_bravado",
@@ -105907,16 +90763,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "蜂式衝擊",
-        "types": [
-            "召喚所有",
-            "帶持續傷害的小怪",
-            "帶增益免疫效果的小怪"
-        ],
-        "skill_types": [
-            "增益格擋者",
-            "持續傷害",
-            "召喚小兵"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-07-04",
         "specialId": "bee_bombast",
@@ -105978,12 +90824,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "蜜蜂公仔",
-        "types": [
-            "召喚所有",
-            "帶持續傷害的小怪",
-            "帶小怪阻擋效果的小怪"
-        ],
-        "skill_types": [],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2026-04-29",
         "specialId": "toon_bees",
@@ -106033,14 +90873,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "亞特蘭蒂斯刀劍",
-        "types": [
-            "攻擊所有目標",
-            "全體暴擊幾率增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊增益"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "atlantean_blade",
@@ -106092,14 +90924,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "亞特蘭蒂斯之刃",
-        "types": [
-            "攻擊所有目標",
-            "全體致盲"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-02",
         "specialId": "atlantean_blade_costume",
@@ -106153,11 +90977,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "亞特蘭蒂斯刀劍公仔",
-        "types": [
-            "攻擊所有目標",
-            "全體暴擊幾率增益"
-        ],
-        "skill_types": [],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2026-04-29",
         "specialId": "atlantean_toon_sword",
@@ -106205,16 +91024,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "非常慢",
         "skill": "貓頭鷹的庇佑",
-        "types": [
-            "特技傷害減免守護",
-            "全體攻擊增益",
-            "全體法力生成增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "傷害減免",
-            "法力生成增益"
-        ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2023-12-20",
         "specialId": "owls_blessing",
@@ -106268,15 +91077,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "皮克西之塵",
-        "types": [
-            "攻擊單個目標",
-            "法力全滿時造成傷害 (單體)",
-            "法力全滿時降低法力 (單體)"
-        ],
-        "skill_types": [
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "pixie_dust",
@@ -106328,14 +91128,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "彈射閃電",
-        "types": [
-            "攻擊單個目標",
-            "機率隨機攻擊單體"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "狙擊手"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "specialId": "ricochet_bolt",
@@ -106387,14 +91179,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "昏睡閃電",
-        "types": [
-            "攻擊單個目標",
-            "機率隨機攻擊單體"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "狙擊手"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-02-29",
         "specialId": "drowsy_bolt",
@@ -106448,15 +91232,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "困惑之謎",
-        "types": [
-            "全體強化持續治療",
-            "自身屬性防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "生命強化",
-            "持續治療"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "puzzling_riddle",
@@ -106515,15 +91290,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "迷惑油漆",
-        "types": [
-            "全體強化持續治療",
-            "自身屬性防禦增益"
-        ],
-        "skill_types": [
-            "生命強化",
-            "持續治療",
-            "防禦增益"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2025-02-17",
         "specialId": "puzzling_paint",
@@ -106589,16 +91355,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "兩棲劍刺",
-        "types": [
-            "攻擊3個目標",
-            "3個目標法力削減",
-            "3個目標持續傷害"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "法力削減或格擋"
-        ],
         "source": "挑戰節 II",
         "Release date": "2022-11-03",
         "specialId": "amphibian_sword_sting",
@@ -106663,17 +91419,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "俯衝支援",
-        "types": [
-            "3個目標持續治療",
-            "3個目標閃避率",
-            "3個目標暴擊機率增益"
-        ],
-        "skill_types": [
-            "持續治療",
-            "閃避",
-            "攻擊增益",
-            "生命強化"
-        ],
         "source": "聖約召喚",
         "Release date": "2024-04-25",
         "specialId": "swooping_support",
@@ -106736,13 +91481,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "穿刺軍刀",
-        "types": [
-            "攻擊單個目標",
-            "連鎖攻擊"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊"
-        ],
         "source": "挑戰節 I",
         "Release date": "2021-12-15",
         "specialId": "piercing_sabre",
@@ -106790,17 +91528,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "回春跳躍",
-        "types": [
-            "全體治療",
-            "全體強化閃避率",
-            "全體持續治療"
-        ],
-        "skill_types": [
-            "治療",
-            "閃避",
-            "持續治療",
-            "反製小兵"
-        ],
         "source": "野地召喚",
         "Release date": "2024-08-31",
         "specialId": "rejuvenating_leap",
@@ -106862,17 +91589,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "智者的忠告",
-        "types": [
-            "安全驅散全體最新的增益",
-            "每回合隨機獲得 1 個增益來源",
-            "全體持續治療"
-        ],
-        "skill_types": [
-            "驅散",
-            "法力生成增益",
-            "特殊治療",
-            "持續治療"
-        ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2025-02-13",
         "specialId": "wise_mans_counsel",
@@ -106936,18 +91652,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "魔法",
         "skill": "歡欣魅力",
-        "types": [
-            "蓄力",
-            "召喚所有小兵",
-            "攻擊所有目標",
-            "召喚所有惡魔"
-        ],
-        "skill_types": [
-            "召喚惡魔",
-            "召喚小兵",
-            "持續傷害",
-            "法力削減或格擋"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "specialId": "cheerful_charm",
@@ -107009,17 +91713,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "吞噬啃咬",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害",
-            "寶箱怪"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "繞過",
-            "持續傷害",
-            "鬼魂形態與隱藏"
-        ],
         "source": "市場召喚",
         "Release date": "2026-01-16",
         "specialId": "gorging_bite_yellow",
@@ -107110,14 +91803,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "異端制裁",
-        "types": [
-            "攻擊單個目標",
-            "連鎖攻擊"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "傷害減免"
-        ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2022-05-12",
         "specialId": "sanction_for_heresy",
@@ -107173,16 +91858,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "骨棒重擊",
-        "types": [
-            "攻擊3個目標",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "持續傷害",
-            "凈化"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2022-12-24",
         "specialId": "bone_club_clonk",
@@ -107240,15 +91915,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "燭焰吞噬",
-        "types": [
-            "謙遜",
-            "攻擊2個目標",
-            "2個目標最大生命值降低"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "最大生命削減"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2025-11-12",
         "specialId": "engulfing_candlelight",
@@ -107311,14 +91977,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "戰術之斬",
-        "types": [
-            "攻擊單個目標",
-            "單體法力削減"
-        ],
-        "skill_types": [
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "tactical_cut",
@@ -107370,15 +92028,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "鳥類劃傷",
-        "types": [
-            "攻擊單個目標",
-            "偷取單個目標法力"
-        ],
-        "skill_types": [
-            "法力提升",
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "strategic_slash",
@@ -107432,14 +92081,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "幼獸領袖切割",
-        "types": [
-            "攻擊3個目標",
-            "3個目標法力生成降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "法力削減或格擋"
-        ],
         "source": "服裝間",
         "Release date": "2023-10-30",
         "specialId": "cub_leader_cut",
@@ -107493,15 +92134,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "公仔驚奇切擊",
-        "types": [
-            "攻擊單個目標",
-            "單體法力削減"
-        ],
-        "skill_types": [
-            "法力削減或格擋",
-            "狙擊手",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-06-28",
         "specialId": "adorable_tactical_cut",
@@ -107561,16 +92193,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "彩繪玻璃切擊",
-        "types": [
-            "攻擊單個目標",
-            "單體法力削減",
-            "無視防禦"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "繞過",
-            "法力削減或格擋"
-        ],
         "source": "服裝間",
         "Release date": "2025-07-16",
         "specialId": "glass_cut_chao",
@@ -107635,16 +92257,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "甦生奇觀",
-        "types": [
-            "全體治療",
-            "全體轉化防禦減益",
-            "全體法力生成增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "治療",
-            "法力生成增益"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-06-10",
         "specialId": "vitalizing_show",
@@ -107698,16 +92310,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "戲法師金牌手",
-        "types": [
-            "賭徒"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦增益",
-            "攻擊減益",
-            "法力生成增益",
-            "對自身或友軍負面效果"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "tricksters_exchange",
@@ -107779,17 +92381,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "驚人優惠",
-        "types": [
-            "賭徒"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "防禦減益",
-            "法力提升",
-            "法力削減或格擋",
-            "對自身或友軍負面效果"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-02-06",
         "specialId": "amazing_deals",
@@ -107864,16 +92455,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "調皮綑綁",
-        "types": [
-            "敵方傷害分擔",
-            "全體承受傷害增加"
-        ],
-        "skill_types": [
-            "傷害分攤",
-            "額外傷害",
-            "反製小兵",
-            "反製惡魔"
-        ],
         "source": "星界召喚",
         "Release date": "2025-06-04",
         "specialId": "mischievous_tiein",
@@ -107933,20 +92514,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "詩意正義",
-        "types": [
-            "無視小兵",
-            "攻擊單個目標",
-            "單體抵抗小兵"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "反製小兵",
-            "狙擊手",
-            "額外傷害",
-            "繞過",
-            "持續傷害",
-            "防禦減益"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2024-12-03",
         "specialId": "poetic_justice",
@@ -108014,20 +92581,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "不死懺悔",
-        "types": [
-            "無視小兵",
-            "攻擊單個目標",
-            "單體抵抗小兵"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "反製小兵",
-            "狙擊手",
-            "額外傷害",
-            "繞過",
-            "持續傷害",
-            "防禦減益"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-10-15",
         "specialId": "undead_penance_poetic",
@@ -108097,16 +92650,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "力量魔鏡",
-        "types": [
-            "全體治療",
-            "全體攻擊力成長",
-            "全體反射狀態異常"
-        ],
-        "skill_types": [
-            "屬性修改",
-            "治療",
-            "反射"
-        ],
         "source": "哥布林召喚",
         "Release date": "2023-09-18",
         "specialId": "magic_mirror_of_power",
@@ -108166,17 +92709,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "女巫屠戮者",
-        "types": [
-            "攻擊3個目標",
-            "法力全滿時造成傷害 (3個目標)",
-            "法力全滿時降低法力 (3個目標)",
-            "自身特技防禦增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦增益",
-            "法力削減或格擋"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "witch_slayer",
@@ -108234,14 +92766,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "無形打擊",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦"
-        ],
-        "skill_types": [
-            "繞過",
-            "狙擊手"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "specialId": "invisible_strike",
@@ -108297,14 +92821,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "神聖猛刺",
-        "types": [
-            "攻擊單個目標",
-            "繞過3個目標"
-        ],
-        "skill_types": [
-            "繞過",
-            "狙擊手"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-11-09",
         "specialId": "divine_lunge",
@@ -108362,17 +92878,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "恫嚇架勢",
-        "types": [
-            "暴擊機率",
-            "攻擊所有目標",
-            "自身反擊",
-            "反擊時削減法力"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "反擊",
-            "額外傷害"
-        ],
         "source": "三國召喚",
         "Release date": "2025-05-22",
         "specialId": "intimidating_stance",
@@ -108443,14 +92948,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "飛速",
         "skill": "射線打擊",
-        "types": [
-            "攻擊單個目標",
-            "單體屬性防禦減益"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "狙擊手"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "ray_strike",
@@ -108502,14 +92999,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "飛速",
         "skill": "斬斷打擊",
-        "types": [
-            "攻擊單個目標",
-            "3個目標元素防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "狙擊手"
-        ],
         "source": "挑戰節 I",
         "Release date": "2023-01-26",
         "specialId": "severing_strike",
@@ -108563,17 +93052,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "慢速",
         "skill": "憤怒野豬",
-        "types": [
-            "全體強化治療",
-            "自我攻擊增益",
-            "全體延遲傷害"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "治療",
-            "生命強化",
-            "全體攻擊 (打5)"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
         "specialId": "angry_boar",
@@ -108630,17 +93108,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "憤怒野豬",
-        "types": [
-            "全體強化持續治療",
-            "自我攻擊增益",
-            "全體延遲傷害"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "生命強化",
-            "全體攻擊 (打5)",
-            "持續治療"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-07-04",
         "specialId": "furious_boar",
@@ -108700,16 +93167,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "豐盛燉煮",
-        "types": [
-            "全體治療",
-            "召喚所有",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "治療",
-            "召喚小兵"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2022-12-01",
         "specialId": "hearty_stew",
@@ -108769,14 +93226,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "超音速墻",
-        "types": [
-            "攻擊所有目標",
-            "全體致盲"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "sonic_wall",
@@ -108828,16 +93277,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "光環波",
-        "types": [
-            "攻擊所有目標",
-            "全體致盲",
-            "全體治療降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "治療削減"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "aura_wave",
@@ -108893,16 +93332,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "聲浪",
-        "types": [
-            "攻擊所有目標",
-            "全體致盲",
-            "全體法力生成降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "法力削減或格擋"
-        ],
         "source": "服裝間",
         "Release date": "2023-11-27",
         "specialId": "acoustic_surge",
@@ -108958,15 +93387,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "公仔牆",
-        "types": [
-            "攻擊所有目標",
-            "全體致盲"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-05-31",
         "specialId": "adorable_sonic_wall",
@@ -109030,16 +93450,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "玻璃牆",
-        "types": [
-            "攻擊所有目標",
-            "無視防禦",
-            "全體致盲"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "繞過",
-            "攻擊減益"
-        ],
         "source": "服裝間",
         "Release date": "2025-06-18",
         "specialId": "glass_wall",
@@ -109103,14 +93513,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "和藹應對",
-        "types": [
-            "全體治療",
-            "自身法力獲取減益"
-        ],
-        "skill_types": [
-            "治療",
-            "對自身或友軍負面效果"
-        ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "",
         "specialId": "smooth_treatment",
@@ -109162,12 +93564,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "剪切處理",
-        "types": [
-            "全體治療",
-            "自身屬性防禦增益",
-            "自身法力獲取減益"
-        ],
-        "skill_types": [],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2026-03-30",
         "specialId": "shearing_treatment",
@@ -109205,7 +93601,23 @@ window.allHeroes =
             "health": 1912,
             "power": 987
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "治療：即時"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防禦-防禦↑：黑暗"
+                ]
+            },
+            {
+                "负面效果": [
+                    "狀態-自我減益"
+                ]
+            }
+        ]
     },
     {
         "name": "李繡 (Li Xiu)",
@@ -109215,14 +93627,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "七刃連斬",
-        "types": [
-            "攻擊所有目標",
-            "全體法力削減"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力削減或格擋"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "slash_of_seven_blades",
@@ -109274,14 +93678,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "七刀連斬",
-        "types": [
-            "攻擊所有目標",
-            "全體法力削減"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力削減或格擋"
-        ],
         "source": "服裝間",
         "Release date": "2020-01-01",
         "specialId": "slash_of_seven_daggers",
@@ -109335,14 +93731,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "七匕首連斬",
-        "types": [
-            "攻擊3個目標",
-            "3個目標沈默者"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "沈默"
-        ],
         "source": "服裝間",
         "Release date": "2023-02-20",
         "specialId": "slash_of_the_seven_stilettos",
@@ -109396,15 +93784,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "七連斬公仔",
-        "types": [
-            "攻擊所有目標",
-            "全體法力削減"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "法力削減或格擋"
-        ],
         "source": "服裝間",
         "Release date": "2024-02-12",
         "specialId": "slash_of_seven_toons",
@@ -109464,16 +93843,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "玻璃刃連斬",
-        "types": [
-            "攻擊所有目標",
-            "無視防禦",
-            "全體法力削減"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "繞過",
-            "法力削減或格擋"
-        ],
         "source": "服裝間",
         "Release date": "2025-03-11",
         "specialId": "slash_of_glass_blades",
@@ -109533,15 +93902,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "有型刀刃斬",
-        "types": [
-            "攻擊所有目標",
-            "全體法力削減"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "法力削減或格擋"
-        ],
         "source": "服裝間",
         "Release date": "2026-02-14",
         "specialId": "slash_of_stylish_blades",
@@ -109601,18 +93961,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "女武神衝鋒",
-        "types": [
-            "攻擊3個目標",
-            "3個目標增益免疫減益",
-            "3個目標特殊技能防禦降低",
-            "3個目標法力生成降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "增益格擋者",
-            "防禦減益",
-            "法力削減或格擋"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "",
         "specialId": "valkyrie_charge",
@@ -109668,18 +94016,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "香濃折磨",
-        "types": [
-            "攻擊單個目標",
-            "收穫增益 (單體)",
-            "自身法力生成增益疊加"
-        ],
-        "skill_types": [
-            "召喚惡魔",
-            "狙擊手",
-            "驅散",
-            "法力生成增益",
-            "疊加"
-        ],
         "source": "挑戰 - 警戒蔬菜召唤",
         "Release date": "2026-02-04",
         "specialId": "tangy_torture",
@@ -109745,15 +94081,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "聖甲蟲投擲",
-        "types": [
-            "攻擊單個目標",
-            "召喚1個爆炸惡魔"
-        ],
-        "skill_types": [
-            "召喚惡魔",
-            "狙擊手",
-            "持續傷害"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "scarab_throw",
@@ -109814,15 +94141,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "聖甲蟲彈幕",
-        "types": [
-            "攻擊單個目標",
-            "召喚1個爆炸惡魔"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "召喚惡魔",
-            "持續傷害"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2025-01-20",
         "specialId": "scarab_barrage",
@@ -109890,15 +94208,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "冥河",
         "skill": "需要修補的傑作",
-        "types": [
-            "蓄力",
-            "全體強化持續治療",
-            "復活"
-        ],
-        "skill_types": [
-            "生命強化",
-            "復活"
-        ],
         "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
         "specialId": "artful_recreation",
@@ -109959,16 +94268,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "陶笛風歌",
-        "types": [
-            "全體移除2個增益",
-            "全體最大生命值降低",
-            "全體法力生成降低"
-        ],
-        "skill_types": [
-            "驅散",
-            "最大生命削減",
-            "法力削減或格擋"
-        ],
         "source": "野地召喚",
         "Release date": "2025-12-30",
         "specialId": "ocarina_windsong",
@@ -110035,14 +94334,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "愛心蛋糕",
-        "types": [
-            "摧毀3個惡魔",
-            "治療3個目標"
-        ],
-        "skill_types": [
-            "反製惡魔",
-            "治療"
-        ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2023-02-14",
         "specialId": "flat_cake_for_sweethearts",
@@ -110098,16 +94389,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "愛之色彩",
-        "types": [
-            "摧毀3個惡魔",
-            "治療3個目標",
-            "3個目標元素防禦增益"
-        ],
-        "skill_types": [
-            "反製惡魔",
-            "治療",
-            "防禦增益"
-        ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2026-01-19",
         "specialId": "hues_of_love",
@@ -110171,14 +94452,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "忠誠之矛",
-        "types": [
-            "攻擊單個目標",
-            "單體莽夫亂拳"
-        ],
-        "skill_types": [
-            "失心攻擊&治療",
-            "狙擊手"
-        ],
         "source": "挑戰節 II",
         "Release date": "2022-11-03",
         "specialId": "spear_of_loyalty",
@@ -110236,14 +94509,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "悲憫之心",
-        "types": [
-            "摧毀所有惡魔",
-            "全體生命值加成"
-        ],
-        "skill_types": [
-            "反製惡魔",
-            "生命強化"
-        ],
         "source": "三國召喚",
         "Release date": "2022-03-14",
         "specialId": "nobles_empathy",
@@ -110295,16 +94560,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "書法家的共情",
-        "types": [
-            "摧毀所有惡魔",
-            "全體生命值加成",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "反製惡魔",
-            "生命強化",
-            "防禦增益"
-        ],
         "source": "三國召喚",
         "Release date": "2025-01-29",
         "specialId": "nobles_empathy_costume_artisan",
@@ -110371,13 +94626,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "賭徒姿態",
-        "types": [
-            "全體對泰坦攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "對自身或友軍負面效果"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "gamblers_stance",
@@ -110428,14 +94676,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "賭徒劈斬",
-        "types": [
-            "攻擊所有目標",
-            "自我防禦增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "對自身或友軍負面效果"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "change_stance",
@@ -110489,13 +94729,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "賭徒揮擊",
-        "types": [
-            "全體對泰坦攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "對自身或友軍負面效果"
-        ],
         "source": "服裝間",
         "Release date": "2023-10-30",
         "specialId": "gamblers_swing",
@@ -110548,13 +94781,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "公仔姿態",
-        "types": [
-            "全體對泰坦攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "對自身或友軍負面效果"
-        ],
         "source": "服裝間",
         "Release date": "2024-07-16",
         "specialId": "adorable_gamblers_stance",
@@ -110611,16 +94837,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "玻璃姿態",
-        "types": [
-            "全體對泰坦攻擊增益",
-            "神聖盟友反射狀態異常",
-            "神聖盟友反射疊加效果"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "反射",
-            "對自身或友軍負面效果"
-        ],
         "source": "服裝間",
         "Release date": "2025-08-10",
         "specialId": "glass_gamblers_stance",
@@ -110679,16 +94895,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "快速運送",
-        "types": [
-            "改變棋盤",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "改變面板",
-            "法力生成增益",
-            "法力削減或格擋",
-            "攻擊增益"
-        ],
         "source": "超級元素",
         "Release date": "2023-07-17",
         "specialId": "express_delivery",
@@ -110748,20 +94954,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "渴望之咬",
-        "types": [
-            "攻擊單個目標",
-            "傷害全體生命值加成",
-            "寶箱怪"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "特殊治療",
-            "生命強化",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形態與隱藏",
-            "繞過"
-        ],
         "source": "市場召喚",
         "Release date": "2026-01-06",
         "specialId": "aether_mimic_bite_yellow",
@@ -110837,13 +95029,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "美妙之雨",
-        "types": [
-            "攻擊單個目標",
-            "連鎖攻擊",
-            "命中時觸發持續傷害",
-            "攻擊成長恩賜"
-        ],
-        "skill_types": [],
         "source": "神殿召喚",
         "Release date": "2026-04-21",
         "specialId": "urumi_lashing",
@@ -110884,7 +95069,25 @@ window.allHeroes =
             "health": 2910,
             "power": 1591
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：單一目標",
+                    "攻擊-連鎖",
+                    "傷害：持續傷害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "傷害-額外傷害"
+                ]
+            },
+            {
+                "负面效果": [
+                    "傷害-持續傷害：流血"
+                ]
+            }
+        ]
     },
     {
         "name": "阿克洛格 (Akkorog)",
@@ -110894,14 +95097,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "怪力劈砍",
-        "types": [
-            "全體重新排布",
-            "攻擊3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "重排隊伍"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "specialId": "colossal_chops",
@@ -110957,19 +95152,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "怪力攜帶",
-        "types": [
-            "全體重新排布",
-            "攻擊3個目標",
-            "自身特技閃避率",
-            "閃避時防禦增益疊加"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "閃避",
-            "疊加",
-            "防禦增益",
-            "重排隊伍"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-02-01",
         "specialId": "colossal_carry",
@@ -111037,16 +95219,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "舒適小憩",
-        "types": [
-            "攻擊所有目標",
-            "全體增益持續時間重置",
-            "全體召喚2个小兵"
-        ],
-        "skill_types": [
-            "持續治療",
-            "攻擊增益",
-            "對自身或友軍負面效果"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2024-12-01",
         "specialId": "a_cozy_break",
@@ -111100,18 +95272,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "新開始捲軸",
-        "types": [
-            "全體移除狀態異常",
-            "全體重置狀態異常",
-            "攻擊所有目標",
-            "全體反射增益"
-        ],
-        "skill_types": [
-            "凈化",
-            "效果持續重置",
-            "全體攻擊 (打5)",
-            "反射"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-08-14",
         "specialId": "scroll_of_new_beginnings",
@@ -111175,16 +95335,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "雕刻骨頭",
-        "types": [
-            "攻擊所有目標",
-            "召喚所有惡魔",
-            "阻止淨化惡魔"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "召喚惡魔",
-            "凈化格擋者"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2025-02-27",
         "specialId": "carve_the_bones",
@@ -111249,18 +95399,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "大砲爆裂",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊",
-            "命中時若使用特技則施加減益"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "法力削減或格擋",
-            "狙擊手",
-            "攻擊減益",
-            "防禦減益"
-        ],
         "source": "挑戰節 I",
         "Release date": "2022-10-06",
         "specialId": "cannon_blast",
@@ -111316,14 +95454,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "一見鍾情",
-        "types": [
-            "攻擊單個目標",
-            "單體失心治療"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "失心攻擊&治療"
-        ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2025-02-14",
         "specialId": "love_at_first_sight",
@@ -111386,13 +95516,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "蛾族之刃",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "狙擊手"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-07-15",
         "specialId": "blade_of_bundelkhand",
@@ -111448,14 +95571,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "蛾族權杖",
-        "types": [
-            "攻擊單個目標"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "狙擊手",
-            "攻擊增益"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-09-07",
         "specialId": "scepter_of_bundelkhand",
@@ -111516,20 +95631,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "吞噬咀嚼",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "寶箱怪"
-        ],
-        "skill_types": [
-            "特殊治療",
-            "反製小兵",
-            "範圍攻擊 (打3)",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形態與隱藏",
-            "繞過"
-        ],
         "source": "市場召喚",
         "Release date": "2025-08-18",
         "specialId": "gorging_chew_yellow",
@@ -111614,19 +95715,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "神聖光輝",
-        "types": [
-            "全體持續生命恢復",
-            "全體持續攻擊增益",
-            "攻擊所有目標",
-            "全體持續攻擊降低"
-        ],
-        "skill_types": [
-            "治療削減",
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "持續治療",
-            "攻擊增益"
-        ],
         "source": "聖約召喚",
         "Release date": "2025-02-26",
         "specialId": "divine_light1",
@@ -111697,16 +95785,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "蓬勃發展",
-        "types": [
-            "全體治療",
-            "復活者",
-            "全體傷害降至 1"
-        ],
-        "skill_types": [
-            "治療",
-            "復活",
-            "傷害減免"
-        ],
         "source": "挑戰節 II",
         "Release date": "2024-11-14",
         "specialId": "booming_mend",
@@ -111766,20 +95844,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "錢如流水",
-        "types": [
-            "偷取超級小兵/小兵",
-            "偷取單個目標法力",
-            "攻擊單個目標",
-            "單體沉睡"
-        ],
-        "skill_types": [
-            "法力提升",
-            "法力削減或格擋",
-            "反製小兵",
-            "沈睡",
-            "狙擊手",
-            "閃避"
-        ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-05-01",
         "specialId": "riches_to_poor",
@@ -111845,16 +95909,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "光明鍛造斧",
-        "types": [
-            "摧毀3個目標的小兵",
-            "攻擊3個目標",
-            "3個目標致盲"
-        ],
-        "skill_types": [
-            "反製小兵",
-            "範圍攻擊 (打3)",
-            "攻擊減益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2025-09-01",
         "specialId": "forged_axe_of_light",
@@ -111919,17 +95973,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "飛鷹尖叫",
-        "types": [
-            "攻擊3個目標",
-            "3個目標增益免疫",
-            "3個目標暴擊機率增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "增益格擋者",
-            "攻擊增益",
-            "閃避"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-06-01",
         "specialId": "falcon_screech",
@@ -111994,17 +96037,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "絕世好劍",
-        "types": [
-            "攻擊單個目標",
-            "單體致盲",
-            "單體治療降低"
-        ],
-        "skill_types": [
-            "攻擊減益",
-            "治療削減",
-            "狙擊手",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2020-09-01",
         "specialId": "stunning_steel",
@@ -112063,16 +96095,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "大師級平衡感",
-        "types": [
-            "偷取全體1個增益或攻擊全體",
-            "全體移除1個異常或攻擊全體"
-        ],
-        "skill_types": [
-            "反製小兵",
-            "增益竊取者",
-            "全體攻擊 (打5)",
-            "凈化"
-        ],
         "source": "月活動 - 農曆新年",
         "Release date": "2025-01-27",
         "specialId": "masterful_balance",
@@ -112131,19 +96153,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "凍霜強力勾",
-        "types": [
-            "攻擊單個目標",
-            "偷取隨機增益 (單體)",
-            "隨機攻擊1個目標"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "額外傷害",
-            "增益竊取者",
-            "連鎖與隨機攻擊",
-            "持續傷害",
-            "反製小兵"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-10-02",
         "specialId": "freezing_power_hooks",
@@ -112206,21 +96215,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "殺手",
         "skill": "誅心之力",
-        "types": [
-            "全體驅散",
-            "攻擊所有目標",
-            "自我法力生成疊加",
-            "自我持續治療疊加"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "驅散",
-            "特殊治療",
-            "疊加",
-            "額外傷害",
-            "法力生成增益",
-            "持續治療"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-08-05",
         "specialId": "dispelling_willpower",
@@ -112286,22 +96280,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "殺手",
         "skill": "驅散審判",
-        "types": [
-            "全體驅散",
-            "攻擊所有目標",
-            "自身法力生成疊加",
-            "自身持續治療疊加"
-        ],
-        "skill_types": [
-            "驅散",
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "法力生成增益",
-            "持續治療",
-            "疊加",
-            "持續傷害",
-            "特殊治療"
-        ],
         "source": "挑戰節 II",
         "Release date": "2024-11-14",
         "specialId": "dispelling_judgement",
@@ -112372,17 +96350,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "救贖聖禮",
-        "types": [
-            "3個目標生命值加成",
-            "3個目標防禦增益",
-            "3個目標最大生命值降低免疫"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "反製惡魔",
-            "生命強化",
-            "提供免疫"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-10-01",
         "specialId": "sacrament_of_salvation",
@@ -112443,17 +96410,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "友誼之咒",
-        "types": [
-            "謙遜",
-            "3個目標生命值加成治療",
-            "3個目標傷害減免增益 (可疊加)",
-            "3個目標法力生成增益"
-        ],
-        "skill_types": [
-            "生命強化",
-            "傷害減免",
-            "法力生成增益"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2026-02-20",
         "specialId": "spell_of_camaraderie",
@@ -112522,22 +96478,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "熱情民謠",
-        "types": [
-            "攻擊3個目標",
-            "熱情之謠 (3個目標)",
-            "舞蹈時3個目標致盲",
-            "舞蹈時3個目標防禦減益",
-            "舞蹈時3個目標增益免疫"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "增益格擋者",
-            "舞者",
-            "攻擊減益",
-            "防禦減益",
-            "驅散",
-            "凈化"
-        ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2023-11-30",
         "specialId": "ballad_of_passion",
@@ -112611,16 +96551,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "眾神的媒介",
-        "types": [
-            "全體治療",
-            "全體狀態異常免疫",
-            "企圖施加異常狀態時獲得治療"
-        ],
-        "skill_types": [
-            "治療",
-            "提供免疫",
-            "特殊治療"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-10-27",
         "specialId": "channeler_of_the_gods",
@@ -112679,18 +96609,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "貓類的媒介",
-        "types": [
-            "全體治療",
-            "全體狀態異常免疫",
-            "企圖施加異常狀態時獲得治療"
-        ],
-        "skill_types": [
-            "治療",
-            "提供免疫",
-            "特殊治療",
-            "生命強化",
-            "凈化"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-04-29",
         "specialId": "channeler_of_the_cats",
@@ -112756,16 +96674,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "刀劍之舞",
-        "types": [
-            "攻擊所有目標",
-            "全體閃避率增益",
-            "閃避時傷害攻擊者"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "閃避",
-            "反擊"
-        ],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2023-07-26",
         "specialId": "sword_dance",
@@ -112826,13 +96734,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "火槍兵之怒",
-        "types": [
-            "攻擊所有目標",
-            "全體閃避率增益",
-            "閃避時傷害攻擊者",
-            "自身生命值加成治療"
-        ],
-        "skill_types": [],
         "source": "聯盟 - 勇者與美人",
         "Release date": "2026-05-08",
         "specialId": "fusiliers_flurry",
@@ -112882,16 +96783,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "墮落禱文",
-        "types": [
-            "復活者",
-            "全體持續治療",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "持續治療",
-            "復活"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2023-02-09",
         "specialId": "liturgy_of_the_fallen",
@@ -112951,12 +96842,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "沙漠狩獵",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦",
-            "單體防禦降低"
-        ],
-        "skill_types": [],
         "source": "泰坦獵人召喚",
         "Release date": "2026-04-18",
         "specialId": "desert_hunt",
@@ -112998,7 +96883,23 @@ window.allHeroes =
             "health": 2885,
             "power": 1583
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：單一目標"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "攻擊-穿透/繞過"
+                ]
+            },
+            {
+                "负面效果": [
+                    "防禦-防禦力↓"
+                ]
+            }
+        ]
     },
     {
         "name": "達利拉 (Delilah)",
@@ -113008,15 +96909,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "召喚神殿守護者",
-        "types": [
-            "全體治療",
-            "召喚所有"
-        ],
-        "skill_types": [
-            "治療",
-            "法力生成增益",
-            "召喚小兵"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2018-03-01",
         "specialId": "summon_temple_guardians",
@@ -113069,16 +96961,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "召喚天宇守護者",
-        "types": [
-            "全體治療",
-            "召喚所有"
-        ],
-        "skill_types": [
-            "治療",
-            "法力生成增益",
-            "召喚小兵",
-            "凈化"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-05-15",
         "specialId": "summon_celestial_guardians",
@@ -113137,19 +97019,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "箭矢與利爪",
-        "types": [
-            "攻擊3個目標",
-            "自身召喚師",
-            "小怪命中時摧毀小怪",
-            "驅散3個目標"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "驅散",
-            "法力提升",
-            "反製小兵",
-            "召喚小兵"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-07-01",
         "specialId": "arrows_and_claws",
@@ -113216,16 +97085,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "團長庇佑",
-        "types": [
-            "全體治療",
-            "召喚所有",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "凈化",
-            "治療",
-            "召喚小兵"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-06-10",
         "specialId": "directors_blessing",
@@ -113283,16 +97142,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "小丑的祝福",
-        "types": [
-            "全體治療",
-            "召喚所有",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "凈化",
-            "治療",
-            "召喚小兵"
-        ],
         "source": "挑戰節 II",
         "Release date": "2025-08-08",
         "specialId": "clowns_blessing",
@@ -113356,21 +97205,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "黃之印",
-        "types": [
-            "隊友釋放特技時隨機攻擊 3 次",
-            "3個目標狂亂",
-            "全體攻擊增益疊加",
-            "全體法力生成增益疊加",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "傷害減免",
-            "連鎖與隨機攻擊",
-            "攻擊增益",
-            "法力生成增益",
-            "疊加",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2024-05-17",
         "specialId": "yellow_signs",
@@ -113436,16 +97270,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "暴怒捶打",
-        "types": [
-            "攻擊3個目標",
-            "3個目標致盲"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益",
-            "攻擊增益",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2018-08-01",
         "specialId": "flails_of_fury",
@@ -113498,17 +97322,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "傳說之拳",
-        "types": [
-            "攻擊3個目標",
-            "3個目標致盲"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益",
-            "攻擊增益",
-            "防禦增益",
-            "驅散"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-12-23",
         "specialId": "fabled_fist",
@@ -113567,15 +97380,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "毀壞之爪",
-        "types": [
-            "摧毀所有小兵",
-            "攻擊所有目標",
-            "小兵免疫"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "反製小兵"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2022-01-05",
         "specialId": "ravaging_talons",
@@ -113633,21 +97437,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "野蠻吞噬",
-        "types": [
-            "攻擊單個目標",
-            "單體擴散型持續傷害",
-            "寶箱怪"
-        ],
-        "skill_types": [
-            "特殊治療",
-            "反製小兵",
-            "狙擊手",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形態與隱藏",
-            "繞過",
-            "持續傷害"
-        ],
         "source": "市場召喚",
         "Release date": "2025-10-17",
         "specialId": "savage_gobble_yellow",
@@ -113727,17 +97516,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "潮汐",
         "skill": "海床趾尖旋轉",
-        "types": [
-            "召喚所有小兵",
-            "全體小怪生命值增益疊加",
-            "全體惡魔替換"
-        ],
-        "skill_types": [
-            "反製惡魔",
-            "小兵強化",
-            "召喚小兵",
-            "疊加"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-06-07",
         "specialId": "seabed_pirouette",
@@ -113802,17 +97580,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "潮汐",
         "skill": "海床西頌步",
-        "types": [
-            "召喚所有小兵",
-            "全體小怪生命值增益疊加",
-            "全體惡魔替換"
-        ],
-        "skill_types": [
-            "反製惡魔",
-            "小兵強化",
-            "召喚小兵",
-            "疊加"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-03-31",
         "specialId": "seabed_sissonne",
@@ -113882,14 +97649,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "士氣衰敗",
-        "types": [
-            "攻擊3個目標",
-            "3個目標攻擊降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益"
-        ],
         "source": "三國召喚",
         "Release date": "2023-01-02",
         "specialId": "deteriorating_morale",
@@ -113946,18 +97705,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "神聖光環",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊5個目標",
-            "改變棋盤"
-        ],
-        "skill_types": [
-            "改變面板",
-            "攻擊減益",
-            "攻擊增益",
-            "連鎖與隨機攻擊",
-            "額外傷害"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2023-01-19",
         "specialId": "holy_aura",
@@ -114018,18 +97765,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "金色光環",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊5個目標",
-            "改變棋盤"
-        ],
-        "skill_types": [
-            "改變面板",
-            "攻擊減益",
-            "攻擊增益",
-            "連鎖與隨機攻擊",
-            "額外傷害"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2025-06-11",
         "specialId": "golden_aura",
@@ -114097,20 +97832,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "貪婪吞噬",
-        "types": [
-            "摧毀單個目標的小兵",
-            "攻擊單個目標",
-            "寶箱怪"
-        ],
-        "skill_types": [
-            "特殊治療",
-            "反製小兵",
-            "狙擊手",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形態與隱藏",
-            "繞過"
-        ],
         "source": "市場召喚",
         "Release date": "2025-05-31",
         "specialId": "mimic_training_hero_yellow_bite",
@@ -114186,18 +97907,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "活力之球",
-        "types": [
-            "全體治療",
-            "全體治療增益",
-            "自身法力生成增益疊加"
-        ],
-        "skill_types": [
-            "治療",
-            "特殊治療",
-            "法力生成增益",
-            "疊加",
-            "攻擊增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-12-01",
         "specialId": "revitalizing_orb",
@@ -114259,14 +97968,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "環刃踢",
-        "types": [
-            "攻擊3個目標",
-            "單體法力生成降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "法力削減或格擋"
-        ],
         "source": "挑戰節 II",
         "Release date": "2021-06-10",
         "specialId": "chakram_kick",
@@ -114318,17 +98019,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "守望之責",
-        "types": [
-            "攻擊所有目標",
-            "單體沈默",
-            "召喚所有"
-        ],
-        "skill_types": [
-            "繞過",
-            "全體攻擊 (打5)",
-            "沈默",
-            "召喚小兵"
-        ],
         "source": "月活動 - 冬季",
         "Release date": "2025-12-01",
         "specialId": "watchful_duty",
@@ -114392,15 +98082,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "團隊精神",
-        "types": [
-            "攻擊3個目標",
-            "守衛超級小兵"
-        ],
-        "skill_types": [
-            "召喚巨型小兵",
-            "範圍攻擊 (打3)",
-            "全體攻擊 (打5)"
-        ],
         "source": "哥布林召喚",
         "Release date": "2024-08-04",
         "specialId": "esprit_de_corps",
@@ -114461,21 +98142,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "保護之青棕戰士",
-        "types": [
-            "全體淨化",
-            "全體防禦增益",
-            "友方傷害分擔",
-            "全體反射狀態異常",
-            "全體反射疊加效果",
-            "全體持續治療"
-        ],
-        "skill_types": [
-            "凈化",
-            "傷害分攤",
-            "持續治療",
-            "反射",
-            "防禦增益"
-        ],
         "source": "挑戰節 II",
         "Release date": "2022-11-03",
         "specialId": "bark_of_protection",
@@ -114543,21 +98209,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "活力神盾",
-        "types": [
-            "嘲諷",
-            "自身傷害降至1",
-            "盟友特殊技能時攻擊隨機單個目標",
-            "命中時深度睡眠",
-            "全體法力生成增益"
-        ],
-        "skill_types": [
-            "閃避",
-            "嘲諷",
-            "傷害減免",
-            "沈睡",
-            "連鎖與隨機攻擊",
-            "法力生成增益"
-        ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-10-13",
         "specialId": "vigorous_aegis",
@@ -114622,21 +98273,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "慢速",
         "skill": "矛杖烈風",
-        "types": [
-            "攻擊所有目標",
-            "全體治療",
-            "全體反擊"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "特殊治療",
-            "反擊",
-            "額外傷害",
-            "繞過",
-            "持續傷害",
-            "防禦減益",
-            "反製小兵"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2024-12-03",
         "specialId": "spearwand_gale",
@@ -114704,22 +98340,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "帝王先鋒",
-        "types": [
-            "攻擊所有目標",
-            "全體強化治療",
-            "全體反擊"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "特殊治療",
-            "生命強化",
-            "反擊",
-            "額外傷害",
-            "繞過",
-            "持續傷害",
-            "防禦減益",
-            "反製小兵"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2026-02-18",
         "specialId": "regal_spearhead",
@@ -114790,18 +98410,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "淨化之光",
-        "types": [
-            "安全淨化全體",
-            "全體強化傷害閃避",
-            "全體延遲治療",
-            "全體延遲防禦增益"
-        ],
-        "skill_types": [
-            "凈化",
-            "閃避",
-            "治療",
-            "防禦增益"
-        ],
         "source": "野地召喚",
         "Release date": "2024-12-07",
         "specialId": "purifying_light",
@@ -114868,18 +98476,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "神聖電流",
-        "types": [
-            "攻擊單個目標",
-            "連鎖攻擊",
-            "命中時致盲"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "反製小兵",
-            "攻擊減益",
-            "攻擊增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2026-03-01",
         "specialId": "divine_current",
@@ -114945,16 +98541,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "慢速",
         "skill": "魯莽衝鋒",
-        "types": [
-            "攻擊3個目標",
-            "無視防禦機率",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦增益",
-            "繞過"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-03-01",
         "specialId": "reckless_charge",
@@ -115019,16 +98605,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "痛苦之幣",
-        "types": [
-            "單體貪婪",
-            "全體持續傷害",
-            "攻擊所有目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "狀態效果格擋"
-        ],
         "source": "超級元素",
         "Release date": "2025-06-07",
         "specialId": "coins_of_pain",
@@ -115089,16 +98665,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "活力靈藥",
-        "types": [
-            "全體防禦增益",
-            "全體延遲治療",
-            "全體延遲法力提升"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "治療",
-            "法力提升"
-        ],
         "source": "月活動 - 農曆新年",
         "Release date": "2024-02-08",
         "specialId": "rejuvenating_elixir",
@@ -115158,16 +98724,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "復活之觸",
-        "types": [
-            "全體攻擊增益",
-            "全體法力生成增益",
-            "史萊姆復活"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "法力生成增益",
-            "復活"
-        ],
         "source": "超級元素",
         "Release date": "2025-01-20",
         "specialId": "reviving_touch",
@@ -115232,17 +98788,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "神聖木槿麥芽酒",
-        "types": [
-            "嘲諷",
-            "全體強化持續治療",
-            "全體法力生成增益"
-        ],
-        "skill_types": [
-            "嘲諷",
-            "生命強化",
-            "持續治療",
-            "法力生成增益"
-        ],
         "source": "超級元素",
         "Release date": "2024-04-22",
         "specialId": "holy_hibiscus_ale",
@@ -115306,21 +98851,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "慢速",
         "skill": "箭雨",
-        "types": [
-            "隨機攻擊 9 次",
-            "命中時攻擊疊加減益",
-            "命中時防禦疊加減益",
-            "全體不可驅散增益",
-            "全體不可淨化異常狀態"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "疊加",
-            "攻擊減益",
-            "防禦減益",
-            "提供免疫",
-            "凈化格擋者"
-        ],
         "source": "挑戰節 I",
         "Release date": "2024-02-22",
         "specialId": "rain_of_arrows",
@@ -115386,24 +98916,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "靈魂之舞",
-        "types": [
-            "4個目標完全淨化",
-            "自我持續治療",
-            "靈魂之舞 (4個目標)",
-            "舞蹈時攻擊增益",
-            "舞蹈時傷害減免",
-            "舞蹈時若釋放者被擊敗則觸發傷害",
-            "舞蹈時若釋放者被擊敗則削減法力"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "凈化",
-            "傷害減免",
-            "舞者",
-            "持續治療",
-            "提供免疫",
-            "對自身或友軍負面效果"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "dance_of_spirits",
@@ -115467,22 +98979,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "溜溜球舞",
-        "types": [
-            "4個目標完全淨化",
-            "全體治療",
-            "靈魂之舞 (4個目標)",
-            "舞蹈期間4個目標攻擊增益",
-            "舞蹈期間4個目標傷害減免"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "凈化",
-            "傷害減免",
-            "舞者",
-            "治療",
-            "提供免疫",
-            "對自身或友軍負面效果"
-        ],
         "source": "挑戰節 I",
         "Release date": "2023-01-26",
         "specialId": "bandalore_dance",
@@ -115548,17 +99044,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "非常慢",
         "skill": "莊嚴回報",
-        "types": [
-            "攻擊所有目標",
-            "自我防禦增益",
-            "自身持續治療"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "防禦增益",
-            "額外傷害",
-            "持續治療"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "stately_retribution",
@@ -115618,16 +99103,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "罪惡之力",
-        "types": [
-            "攻擊所有目標",
-            "全體法力狀態異常免疫",
-            "攻擊所有被血百合標記目標"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "提供免疫",
-            "額外傷害"
-        ],
         "source": "月活動 - 腥紅盛宴",
         "Release date": "2025-10-08",
         "specialId": "unholy_power",
@@ -115689,16 +99164,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "女王命令",
-        "types": [
-            "全體法力削減",
-            "3個目標持續治療",
-            "3個目標元素防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "持續治療",
-            "法力削減或格擋"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "word_of_queen",
@@ -115757,17 +99222,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "天降偈語",
-        "types": [
-            "3個目標法力削減",
-            "全體治療",
-            "全體元素反射",
-            "全體元素反擊"
-        ],
-        "skill_types": [
-            "治療",
-            "法力削減或格擋",
-            "反射"
-        ],
         "source": "挑戰節 I",
         "Release date": "2023-04-20",
         "specialId": "word_of_skies",
@@ -115827,25 +99281,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "非常慢",
         "skill": "尼托克里斯皇后的精華",
-        "types": [
-            "淨化 (3個目標)",
-            "治療3個目標",
-            "3個目標法力持續恢復",
-            "對附近目標施加狂亂",
-            "自我化身亞瑪苟",
-            "攻擊所有目標",
-            "全體狂亂",
-            "隨機復活1個目標"
-        ],
-        "skill_types": [
-            "鬼魂形態與隱藏",
-            "凈化",
-            "治療",
-            "法力提升",
-            "對自身或友軍負面效果",
-            "全體攻擊 (打5)",
-            "復活"
-        ],
         "source": "暗影召喚",
         "Release date": "2025-07-29",
         "specialId": "essence_of_queen_nitocris",
@@ -115912,18 +99347,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "高能量場域",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害",
-            "持續傷害增加"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力削減或格擋",
-            "反製小兵",
-            "持續傷害",
-            "額外傷害"
-        ],
         "source": "聖約召喚",
         "Release date": "2024-07-12",
         "specialId": "high_energy_field",
@@ -115987,16 +99410,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "千嚎打擊",
-        "types": [
-            "攻擊所有目標",
-            "全體反擊",
-            "全體暴擊幾率增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊增益",
-            "反擊"
-        ],
         "source": "挑戰節 II",
         "Release date": "2022-11-03",
         "specialId": "strike_of_a_thousand_howls",
@@ -116056,18 +99469,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "不間斷突擊",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊",
-            "命中時摧毀小怪",
-            "自我持續反擊"
-        ],
-        "skill_types": [
-            "治療削減",
-            "反製小兵",
-            "連鎖與隨機攻擊",
-            "反擊"
-        ],
         "source": "聖約召喚",
         "Release date": "2025-07-06",
         "specialId": "unbroken_assault",
@@ -116131,16 +99532,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "舞動閃避",
-        "types": [
-            "全體閃避率增益",
-            "閃避時生命提升",
-            "全體最大生命值削減免疫"
-        ],
-        "skill_types": [
-            "閃避",
-            "生命強化",
-            "提供免疫"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-12-01",
         "specialId": "dancing_dodge",
@@ -116201,21 +99592,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "星軌",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊",
-            "全體安全驅散 1 個增益",
-            "全體防禦衰減"
-        ],
-        "skill_types": [
-            "驅散",
-            "屬性修改",
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "驅散",
-            "反製小兵",
-            "繞過"
-        ],
         "source": "星界召喚",
         "Release date": "2025-06-04",
         "specialId": "star_trail",
@@ -116283,20 +99659,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "消耗打擊",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "3個目標增益免疫"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "增益格擋者",
-            "持續傷害",
-            "特殊治療",
-            "生命強化",
-            "傷害減免",
-            "提供免疫"
-        ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2024-06-13",
         "specialId": "drain_strike",
@@ -116357,14 +99719,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "衝鋒",
         "skill": "永生扇子",
-        "types": [
-            "蓄力",
-            "全體治療",
-            "復活者",
-            "全體法力提升",
-            "淨化全體最近的/全部異常狀態"
-        ],
-        "skill_types": [],
         "source": "高塔 - 忍者",
         "Release date": "2026-05-03",
         "specialId": "sensu_of_immortality",
@@ -116426,14 +99780,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "飛速",
         "skill": "無情獵手",
-        "types": [
-            "攻擊3個目標",
-            "3個目標生命值持續削減"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "最大生命削減"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-05-19",
         "specialId": "unrelenting_hunter",
@@ -116491,14 +99837,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "飛速",
         "skill": "太陽審判",
-        "types": [
-            "攻擊3個目標",
-            "3個目標生命值持續削減"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "最大生命削減"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-04-01",
         "specialId": "judgment_of_sun",
@@ -116563,17 +99901,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "飛速",
         "skill": "鐮刀麻煩",
-        "types": [
-            "攻擊2個目標",
-            "2個目標法力削減",
-            "命中時觸發共鳴持續傷害"
-        ],
-        "skill_types": [
-            "繞過",
-            "狙擊手",
-            "法力削減或格擋",
-            "持續傷害"
-        ],
         "source": "星界召喚",
         "Release date": "2026-01-21",
         "specialId": "sickle_trouble",
@@ -116641,16 +99968,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "衝鋒",
         "skill": "苦無突擊",
-        "types": [
-            "蓄力",
-            "召喚 (1/3/所有) 爆炸惡魔"
-        ],
-        "skill_types": [
-            "召喚惡魔",
-            "狙擊手",
-            "持續傷害",
-            "反製小兵"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2024-08-27",
         "specialId": "kunai_assault",
@@ -116712,20 +100029,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "飛速",
         "skill": "斷開封印",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊2個目標",
-            "命中時瘋狂",
-            "命中時疊加傷害增加減益",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "失心攻擊&治療",
-            "防禦減益",
-            "疊加",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2025-12-28",
         "specialId": "severed_seal",
@@ -116788,18 +100091,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "幸運之九",
-        "types": [
-            "攻擊所有目標",
-            "全體閃避率增益",
-            "閃避時召喚小怪",
-            "小怪每回合用法力提升"
-        ],
-        "skill_types": [
-            "閃避",
-            "法力提升",
-            "召喚小兵",
-            "全體攻擊 (打5)"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "lucky_nine",
@@ -116858,18 +100149,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "致盲咒語",
-        "types": [
-            "攻擊所有目標",
-            "召喚3個小兵",
-            "小怪每回合用法力提升",
-            "全體致盲"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "法力提升",
-            "召喚小兵"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-02",
         "specialId": "blinding_spell",
@@ -116934,19 +100213,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "鋼鐵火箭拳",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊1個目標",
-            "擊敗時自身恢復",
-            "擊敗時自身法力增加",
-            "全體反擊"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "特殊治療",
-            "法力提升",
-            "反擊"
-        ],
         "source": "聖約召喚",
         "Release date": "2025-09-14",
         "specialId": "iron_rocket_fist",
@@ -117017,18 +100283,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "光明鎖鏈",
-        "types": [
-            "攻擊單個目標",
-            "攻擊全體暗屬性目標",
-            "全體法力生成降低"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "法力削減或格擋",
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "額外傷害"
-        ],
         "source": "超級元素",
         "Release date": "2023-12-04",
         "specialId": "chains_of_light",
@@ -117094,18 +100348,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "飛速",
         "skill": "強力干擾",
-        "types": [
-            "單體增益竊取者",
-            "單體法力竊取者",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "增益竊取者",
-            "攻擊增益",
-            "法力生成增益",
-            "法力提升",
-            "法力削減或格擋"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-08-01",
         "specialId": "stupendous_break_in",
@@ -117170,18 +100412,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "月的兩面",
-        "types": [
-            "攻擊單個目標",
-            "防禦降低",
-            "隨機攻擊1個目標",
-            "法力生成降低"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "防禦減益",
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "挑戰 - 眾神狂歡節",
         "Release date": "2023-07-13",
         "specialId": "the_two_sides_of_the_moon",
@@ -117241,17 +100471,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "營養花瓣",
-        "types": [
-            "全體持續治療",
-            "全體攻擊增益",
-            "全體暴擊幾率增益",
-            "自身法力生成減益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "持續治療",
-            "對自身或友軍負面效果"
-        ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2023-03-27",
         "specialId": "petals_of_nourishment",
@@ -117311,17 +100530,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "營養幻夢",
-        "types": [
-            "全體持續治療",
-            "全體攻擊增益",
-            "全體暴擊幾率增益",
-            "自身法力生成減益"
-        ],
-        "skill_types": [
-            "持續治療",
-            "攻擊增益",
-            "對自身或友軍負面效果"
-        ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2024-03-18",
         "specialId": "dreams_of_nourishment",
@@ -117387,19 +100595,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "飛速",
         "skill": "古老神聖符號",
-        "types": [
-            "攻擊所有目標",
-            "全體暗屬性致盲",
-            "全體冰屬性防禦減益",
-            "全體自然屬性法力生成減益",
-            "全體火屬性攻擊減益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "法力削減或格擋",
-            "防禦減益"
-        ],
         "source": "超級元素",
         "Release date": "2022-10-10",
         "specialId": "archaic_sacred_symbol",
@@ -117465,16 +100660,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "飛速",
         "skill": "黃金神聖符號",
-        "types": [
-            "攻擊所有目標",
-            "元素"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "防禦減益",
-            "法力削減或格擋"
-        ],
         "source": "超級元素",
         "Release date": "2025-06-20",
         "specialId": "golden_sacred_symbol",
@@ -117545,14 +100730,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "極地光束",
-        "types": [
-            "攻擊單個目標",
-            "單體致盲"
-        ],
-        "skill_types": [
-            "攻擊減益",
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "solar_beam",
@@ -117604,14 +100781,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "極地打擊",
-        "types": [
-            "攻擊單個目標",
-            "單體致盲"
-        ],
-        "skill_types": [
-            "攻擊減益",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2020-01-01",
         "specialId": "solar_strike",
@@ -117665,16 +100834,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "恆星光束",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "3個目標致盲"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益",
-            "持續傷害"
-        ],
         "source": "服裝間",
         "Release date": "2022-12-26",
         "specialId": "stellar_beam",
@@ -117731,15 +100890,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "公仔射線",
-        "types": [
-            "攻擊單個目標",
-            "單體致盲"
-        ],
-        "skill_types": [
-            "攻擊減益",
-            "額外傷害",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2024-02-12",
         "specialId": "adorable_beam",
@@ -117803,16 +100953,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "玻璃光束",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦",
-            "單體致盲"
-        ],
-        "skill_types": [
-            "繞過",
-            "攻擊減益",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2025-04-08",
         "specialId": "glass_beam",
@@ -117876,11 +101016,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "時尚光束",
-        "types": [
-            "攻擊單個目標",
-            "單體致盲"
-        ],
-        "skill_types": [],
         "source": "服裝間",
         "Release date": "2026-04-10",
         "specialId": "stylish_beam",
@@ -117918,7 +101053,23 @@ window.allHeroes =
             "health": 3169,
             "power": 1613
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：單一目標"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "傷害-額外傷害"
+                ]
+            },
+            {
+                "负面效果": [
+                    "攻擊-命中率↓"
+                ]
+            }
+        ]
     },
     {
         "name": "賈夫 (Jove)",
@@ -117928,16 +101079,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "天空侵襲",
-        "types": [
-            "攻擊所有目標",
-            "全體生命值加成治療減益",
-            "全體法力獲取減益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "治療削減",
-            "法力削減或格擋"
-        ],
         "source": "挑戰 - 眾神狂歡節",
         "Release date": "2022-11-22",
         "specialId": "strike_from_the_skies",
@@ -117995,14 +101136,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "審判儀式",
-        "types": [
-            "攻擊所有目標",
-            "全體致盲"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "rite_of_judgement",
@@ -118059,15 +101192,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "審判日",
-        "types": [
-            "攻擊所有目標",
-            "自我法力生成增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "法力生成增益"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "day_of_judgement",
@@ -118127,15 +101251,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "審判儀式",
-        "types": [
-            "攻擊所有目標",
-            "全體致盲"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2023-02-20",
         "specialId": "ritual_of_judgement",
@@ -118195,15 +101310,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "審判公仔",
-        "types": [
-            "攻擊所有目標",
-            "全體致盲"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "額外傷害"
-        ],
         "source": "服裝間",
         "Release date": "2024-06-28",
         "specialId": "rite_of_cuteness",
@@ -118267,16 +101373,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "玻璃審判",
-        "types": [
-            "攻擊所有目標",
-            "無視防禦",
-            "全體致盲"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "繞過"
-        ],
         "source": "服裝間",
         "Release date": "2025-08-10",
         "specialId": "rite_of_glass",
@@ -118340,16 +101436,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "黏稠盾牌",
-        "types": [
-            "攻擊所有目標",
-            "嘲諷",
-            "史萊姆自身復活"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "嘲諷",
-            "復活"
-        ],
         "source": "超級元素",
         "Release date": "2026-03-17",
         "specialId": "viscous_shield_justico",
@@ -118410,16 +101496,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "神盾女侍的守護",
-        "types": [
-            "嘲諷",
-            "自身特技防禦增益",
-            "全體攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "防禦增益",
-            "嘲諷"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-05-01",
         "specialId": "shieldmaidens_protection",
@@ -118476,15 +101552,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "祖傳匕首",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊1個目標",
-            "命中時施加失心攻擊"
-        ],
-        "skill_types": [
-            "失心攻擊&治療",
-            "連鎖與隨機攻擊"
-        ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "specialId": "heirloom_dagger",
@@ -118542,15 +101609,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "狡詐刀刃",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊1個目標",
-            "命中時施加失心攻擊"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "失心攻擊&治療"
-        ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2023-08-07",
         "specialId": "cunning_knife",
@@ -118610,18 +101668,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "衝鋒",
         "skill": "翻騰巨龍",
-        "types": [
-            "蓄力",
-            "攻擊單個目標",
-            "自身隱藏/潛行",
-            "單體莽夫亂拳"
-        ],
-        "skill_types": [
-            "傷害減免",
-            "鬼魂形態與隱藏",
-            "失心攻擊&治療",
-            "狙擊手"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2023-05-31",
         "specialId": "tumbling_dragon",
@@ -118700,21 +101746,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "小兵審查",
-        "types": [
-            "摧毀所有小兵",
-            "攻擊所有目標",
-            "全體法力提升",
-            "全體法力狀態異常免疫",
-            "全體抵抗時增加法力",
-            "全體吞噬粘液減益"
-        ],
-        "skill_types": [
-            "反製小兵",
-            "全體攻擊 (打5)",
-            "法力提升",
-            "驅散",
-            "狀態效果格擋"
-        ],
         "source": "超級元素",
         "Release date": "2025-10-27",
         "specialId": "minion_scrutiny",
@@ -118788,18 +101819,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "慢速",
         "skill": "兩步揮擊",
-        "types": [
-            "全體安全淨化",
-            "攻擊所有目標",
-            "全體延遲傷害"
-        ],
-        "skill_types": [
-            "狀態效果轉換",
-            "凈化",
-            "全體攻擊 (打5)",
-            "反製小兵",
-            "連鎖與隨機攻擊"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-07-05",
         "specialId": "twostep_swing",
@@ -118872,15 +101891,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "猛虎爪派",
-        "types": [
-            "攻擊單個目標",
-            "自身生命提升"
-        ],
-        "skill_types": [
-            "生命強化",
-            "反製小兵",
-            "狙擊手"
-        ],
         "source": "月活動 - 農曆新年",
         "Release date": "2023-01-19",
         "specialId": "fierce_fu_jow_pai",
@@ -118936,17 +101946,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "幸運虎爪派",
-        "types": [
-            "攻擊單個目標",
-            "自我生命值加成",
-            "擁有生命值加成時全體攻擊增益"
-        ],
-        "skill_types": [
-            "生命強化",
-            "反製小兵",
-            "狙擊手",
-            "攻擊增益"
-        ],
         "source": "月活動 - 農曆新年",
         "Release date": "2026-02-17",
         "specialId": "lucky_fu_jow_pai",
@@ -119010,18 +102009,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "全壘打",
-        "types": [
-            "安全淨化全體",
-            "攻擊所有目標",
-            "全體治療量降低",
-            "全體淨化免疫"
-        ],
-        "skill_types": [
-            "凈化",
-            "全體攻擊 (打5)",
-            "治療削減",
-            "凈化格擋者"
-        ],
         "source": "傳奇召喚",
         "Release date": "2024-03-08",
         "specialId": "home_run",
@@ -119085,19 +102072,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "遊蕩星射擊",
-        "types": [
-            "攻擊單個目標",
-            "連鎖攻擊",
-            "命中時削減法力"
-        ],
-        "skill_types": [
-            "傷害分攤",
-            "狙擊手",
-            "法力削減或格擋",
-            "連鎖與隨機攻擊",
-            "繞過",
-            "傷害分攤"
-        ],
         "source": "星界召喚",
         "Release date": "2024-03-07",
         "specialId": "wandering_star_shot",
@@ -119158,16 +102132,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "斯巴達披斬",
-        "types": [
-            "攻擊單個目標",
-            "單體法力削減",
-            "自我治療"
-        ],
-        "skill_types": [
-            "特殊治療",
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "spartan_cleave",
@@ -119221,16 +102185,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "斯巴達衝鋒",
-        "types": [
-            "攻擊3個目標",
-            "3個目標元素防禦降低",
-            "全體暗屬性攻擊減益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "攻擊減益",
-            "防禦減益"
-        ],
         "source": "服裝間",
         "Release date": "2021-01-18",
         "specialId": "roman_cleave",
@@ -119286,16 +102240,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "斯巴達斬",
-        "types": [
-            "攻擊所有目標",
-            "全體法力削減",
-            "全體防禦降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力削減或格擋",
-            "防禦減益"
-        ],
         "source": "服裝間",
         "Release date": "2022-12-26",
         "specialId": "spartan_slash",
@@ -119355,17 +102299,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "公仔劈擊",
-        "types": [
-            "攻擊單個目標",
-            "單體法力削減",
-            "自我治療"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "特殊治療",
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2023-12-25",
         "specialId": "toon_cleave",
@@ -119427,18 +102360,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "玻璃劈擊",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦",
-            "單體法力削減",
-            "自我治療"
-        ],
-        "skill_types": [
-            "繞過",
-            "特殊治療",
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "服裝間",
         "Release date": "2025-02-11",
         "specialId": "glass_cleave",
@@ -119503,17 +102424,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "有型劈擊",
-        "types": [
-            "攻擊單個目標",
-            "單體法力削減",
-            "自我治療"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "額外傷害",
-            "特殊治療",
-            "法力削減或格擋"
-        ],
         "source": "服裝間",
         "Release date": "2026-02-14",
         "specialId": "stylish_cleave",
@@ -119575,19 +102485,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "內情儀式",
-        "types": [
-            "移除3個目標的負面效果",
-            "月出守衛特殊技能減傷 (3個目標)",
-            "3個目標持續治療",
-            "3個目標反射狀態異常",
-            "3個目標反射疊加效果"
-        ],
-        "skill_types": [
-            "凈化",
-            "傷害減免",
-            "持續治療",
-            "反射"
-        ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2024-02-14",
         "specialId": "rites_of_inner_knowledge",
@@ -119652,18 +102549,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "飛速",
         "skill": "衝鋒旋律",
-        "types": [
-            "攻擊單個目標",
-            "無視防禦",
-            "自我力量提升",
-            "自身閃避"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "繞過",
-            "額外傷害",
-            "閃避"
-        ],
         "source": "挑戰節 II",
         "Release date": "2025-10-06",
         "specialId": "rushed_melody",
@@ -119727,19 +102612,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "荒野劈擊",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害",
-            "全體治療降低",
-            "全體致盲"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "持續傷害",
-            "額外傷害",
-            "治療削減"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2022-08-25",
         "specialId": "wild_cleave",
@@ -119808,15 +102680,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "飛速",
         "skill": "重拳",
-        "types": [
-            "攻擊單個目標",
-            "阻擋狀態效果施放 (單體)"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "狙擊手",
-            "狀態效果格擋"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2020-04-01",
         "specialId": "power_punch",
@@ -119873,15 +102736,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "鬆餅中毒",
-        "types": [
-            "全體持續傷害",
-            "召喚所有惡魔"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "額外傷害",
-            "召喚惡魔"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2022-10-03",
         "specialId": "muffin_poisoning",
@@ -119948,17 +102802,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "春季賞金",
-        "types": [
-            "全體攻擊力成長",
-            "全體防禦力成長",
-            "召喚所有",
-            "法力生成增益小兵"
-        ],
-        "skill_types": [
-            "屬性修改",
-            "法力生成增益",
-            "召喚小兵"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2025-05-01",
         "specialId": "bounty_of_the_spring",
@@ -120021,18 +102864,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "欺瞞小語",
-        "types": [
-            "全體治療",
-            "全體移除最新的異常狀態",
-            "強制施加不可淨化的異常狀態",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "凈化",
-            "凈化格擋者",
-            "治療",
-            "防禦增益"
-        ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2024-03-21",
         "specialId": "deceptive_smalltalk",
@@ -120102,15 +102933,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "漸強月光",
-        "types": [
-            "全體生命值提升",
-            "全體狀態異常免疫"
-        ],
-        "skill_types": [
-            "傷害分攤",
-            "生命強化",
-            "提供免疫"
-        ],
         "source": "星界召喚",
         "Release date": "2024-09-16",
         "specialId": "moonlight_crescendo",
@@ -120168,16 +102990,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "無解謎語",
-        "types": [
-            "攻擊所有目標",
-            "全體法力削減",
-            "全體法力生成降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力削減或格擋",
-            "額外傷害"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2023-04-13",
         "specialId": "impossible_riddle",
@@ -120243,16 +103055,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "不可思議節奏",
-        "types": [
-            "攻擊所有目標",
-            "全體法力削減",
-            "全體法力生成降低"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "額外傷害",
-            "法力削減或格擋"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-06-24",
         "specialId": "impossible_groove",
@@ -120325,17 +103127,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "衝鋒",
         "skill": "氣之連結",
-        "types": [
-            "蓄力",
-            "友方傷害分擔",
-            "全體防禦增益",
-            "全體法力生成增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "傷害分攤",
-            "法力生成增益"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "specialId": "connect_ki",
@@ -120394,19 +103185,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "星界召喚",
-        "types": [
-            "召喚所有",
-            "法力生成增益小兵",
-            "全體傷害減免",
-            "對擁有生命值加成目標全體攻擊增益"
-        ],
-        "skill_types": [
-            "傷害分攤",
-            "召喚小兵",
-            "法力生成增益",
-            "傷害減免",
-            "額外傷害"
-        ],
         "source": "星界召喚",
         "Release date": "2024-07-10",
         "specialId": "astral_summon",
@@ -120467,21 +103245,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "魔法",
         "skill": "蝴蝶沼澤",
-        "types": [
-            "蓄力",
-            "召喚所有小兵",
-            "增傷小兵攻擊",
-            "召喚所有惡魔",
-            "命中降低惡魔"
-        ],
-        "skill_types": [
-            "攻擊減益",
-            "額外傷害",
-            "召喚惡魔",
-            "召喚小兵",
-            "持續傷害",
-            "治療"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "specialId": "butterfly_swarm",
@@ -120546,17 +103309,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "修補縫針",
-        "types": [
-            "全體復活",
-            "全體強化持續治療",
-            "全體特殊技能防禦降低"
-        ],
-        "skill_types": [
-            "復活",
-            "持續治療",
-            "生命強化",
-            "防禦減益"
-        ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2025-07-28",
         "specialId": "mending_stitches",
@@ -120615,19 +103367,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "堅定集結",
-        "types": [
-            "全體霜降護體增益",
-            "全體無視防禦",
-            "全體攻擊增益",
-            "全體暴擊機率"
-        ],
-        "skill_types": [
-            "傷害減免",
-            "繞過",
-            "攻擊增益",
-            "持續傷害",
-            "攻擊減益"
-        ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-08-06",
         "specialId": "stalwart_rally",
@@ -120687,16 +103426,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "快速",
         "skill": "巨龍獠牙",
-        "types": [
-            "攻擊3個目標",
-            "自我治療"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "特殊治療",
-            "攻擊增益",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2017-09-01",
         "specialId": "dragon_fang",
@@ -120749,17 +103478,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "自由之棒",
-        "types": [
-            "攻擊3個目標",
-            "自我治療"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "特殊治療",
-            "驅散",
-            "攻擊增益",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-10-02",
         "specialId": "rod_of_freedom",
@@ -120818,17 +103536,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "斬草除根",
-        "types": [
-            "攻擊所有目標",
-            "全體法力削減",
-            "全體致盲"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益",
-            "法力生成增益",
-            "法力削減或格擋"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2019-11-01",
         "specialId": "sickle_of_eradication",
@@ -120891,17 +103598,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "冥河",
         "skill": "清算之日",
-        "types": [
-            "蓄力",
-            "攻擊單個目標",
-            "敵方法力增加時傷害全體",
-            "全體增益免疫（帶替換效果）"
-        ],
-        "skill_types": [
-            "增益格擋者",
-            "法力削減或格擋",
-            "狙擊手"
-        ],
         "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
         "specialId": "day_of_reckoning",
@@ -120974,16 +103670,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "火焰猛攻",
-        "types": [
-            "攻擊3個目標",
-            "3個目標反擊",
-            "反擊時觸發灼熱之觸持續傷害"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "反擊",
-            "持續傷害"
-        ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2025-05-18",
         "specialId": "rush_of_flame",
@@ -121050,13 +103736,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "命運轉折",
-        "types": [
-            "攻擊3個目標",
-            "3個目標防禦弱化"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-03-26",
         "specialId": "twist_of_fate",
@@ -121108,13 +103787,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "命運之怒",
-        "types": [
-            "攻擊3個目標",
-            "3個目標防禦弱化"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-08-28",
         "specialId": "wrath_of_fate",
@@ -121168,11 +103840,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "公仔命運扭轉",
-        "types": [
-            "攻擊3個目標",
-            "3個目標防禦弱化"
-        ],
-        "skill_types": [],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2026-04-29",
         "specialId": "twist_of_toon_fate",
@@ -121220,15 +103887,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "快速",
         "skill": "格里米爾之怒",
-        "types": [
-            "攻擊所有目標",
-            "全體法力生成增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力生成增益",
-            "額外傷害"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-11-26",
         "specialId": "fury_of_grimnir",
@@ -121286,15 +103944,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "格里米爾盛怒",
-        "types": [
-            "攻擊所有目標",
-            "全體法力生成增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力生成增益",
-            "額外傷害"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-03-13",
         "specialId": "rage_of_grimnir",
@@ -121354,17 +104003,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "毀滅之韻律",
-        "types": [
-            "摧毀所有小兵",
-            "攻擊所有目標",
-            "小怪被摧毀時全體法力生成疊加"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力削減或格擋",
-            "反製小兵",
-            "疊加"
-        ],
         "source": "挑戰節 II",
         "Release date": "2022-12-01",
         "specialId": "rhythm_of_havoc",
@@ -121428,16 +104066,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "先知之眼",
-        "types": [
-            "攻擊3個目標",
-            "偷取3個目標法力"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "法力提升",
-            "法力削減或格擋",
-            "持續治療"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2019-01-01",
         "specialId": "mana_stealer",
@@ -121494,18 +104122,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "慢速",
         "skill": "催淚瓦斯輪盤",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊5個目標",
-            "召喚幼苗惡魔攻擊敵人",
-            "致盲攻擊者"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "召喚惡魔",
-            "攻擊減益"
-        ],
         "source": "挑戰 - 警戒蔬菜召唤",
         "Release date": "2026-03-06",
         "specialId": "teargas_roulette",
@@ -121579,15 +104195,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "中等",
         "skill": "召喚砂巨像",
-        "types": [
-            "召喚所有",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "持續傷害",
-            "召喚小兵"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "summon_sand_golems",
@@ -121656,17 +104263,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "指揮砂巨像",
-        "types": [
-            "召喚所有",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "持續傷害",
-            "法力提升",
-            "生命強化",
-            "召喚小兵"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-10-05",
         "specialId": "command_sand_golems",
@@ -121742,17 +104338,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "光耀速射",
-        "types": [
-            "攻擊所有目標",
-            "全體治療降低"
-        ],
-        "skill_types": [
-            "反製惡魔",
-            "治療削減",
-            "反製小兵",
-            "全體攻擊 (打5)",
-            "傷害減免"
-        ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2021-11-24",
         "specialId": "radiant_rapid_fire",
@@ -121814,20 +104399,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "潮汐",
         "skill": "海洋遺跡",
-        "types": [
-            "單體增益竊取者",
-            "攻擊單個目標",
-            "單體擴散型持續傷害",
-            "持續傷害期間法力生成減益"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "增益竊取者",
-            "持續傷害",
-            "法力削減或格擋",
-            "額外傷害",
-            "反製小兵"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-10-25",
         "specialId": "oceans_ruin",
@@ -121899,20 +104470,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "潮汐",
         "skill": "海洋腐朽",
-        "types": [
-            "單體增益竊取者",
-            "攻擊單個目標",
-            "單體擴散型持續傷害",
-            "持續傷害期間法力生成減益"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "增益竊取者",
-            "持續傷害",
-            "法力削減或格擋",
-            "額外傷害",
-            "反製小兵"
-        ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-01-09",
         "specialId": "oceans_decay",
@@ -121989,19 +104546,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "貓頭鷹哈拉的復仇",
-        "types": [
-            "攻擊3個目標",
-            "召喚3個小兵"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "凈化",
-            "疊加",
-            "範圍攻擊 (打3)",
-            "召喚小兵",
-            "驅散",
-            "鬼魂形態與隱藏"
-        ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2025-02-05",
         "specialId": "vengeance_of_owlhalla",
@@ -122067,17 +104611,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "魔法旋律",
-        "types": [
-            "攻擊3個目標",
-            "3個目標強化防禦異常",
-            "3個目標沉睡"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益",
-            "沈睡",
-            "反製小兵"
-        ],
         "source": "野地召喚",
         "Release date": "2025-04-18",
         "specialId": "enchanting_melody",
@@ -122145,15 +104678,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "海之統領",
-        "types": [
-            "攻擊單個目標",
-            "全體法力減益免疫",
-            "全體特技阻擋免疫"
-        ],
-        "skill_types": [
-            "提供免疫",
-            "狙擊手"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "",
         "specialId": "ruler_of_seas",
@@ -122206,14 +104730,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "潮汐屠戮者",
-        "types": [
-            "攻擊單個目標",
-            "全體狀態異常免疫"
-        ],
-        "skill_types": [
-            "提供免疫",
-            "狙擊手"
-        ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2021-11-15",
         "specialId": "oceanic_slayer",
@@ -122267,12 +104783,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "海洋公仔",
-        "types": [
-            "攻擊單個目標",
-            "全體法力減益免疫",
-            "全體特技阻擋免疫"
-        ],
-        "skill_types": [],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toon_of_the_seas",
@@ -122321,23 +104831,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "統治法杖",
-        "types": [
-            "全體恐懼減益",
-            "全體攻擊衰減",
-            "攻擊所有目標",
-            "全體狂亂",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "驅散",
-            "增益格擋者",
-            "額外傷害",
-            "屬性修改",
-            "全體攻擊 (打5)",
-            "失心攻擊&治療",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2026-03-22",
         "specialId": "staff_of_domination",
@@ -122410,16 +104903,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "榮耀恩典",
-        "types": [
-            "全體淨化",
-            "全體生命值加成",
-            "全體強化持續治療"
-        ],
-        "skill_types": [
-            "凈化",
-            "生命強化",
-            "持續治療"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "specialId": "glorious_grace",
@@ -122477,16 +104960,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "炫目閃光",
-        "types": [
-            "全體淨化",
-            "全體強化治療",
-            "全體強化持續治療"
-        ],
-        "skill_types": [
-            "凈化",
-            "生命強化",
-            "持續治療"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-04-27",
         "specialId": "dazzling_gleam",
@@ -122549,16 +105022,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "女王的丰采",
-        "types": [
-            "攻擊所有目標",
-            "敵方釋放特技時全體法力增加",
-            "自身復仇",
-            "復仇效果被驅散時傷害全體"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "法力提升"
-        ],
         "source": "三國召喚",
         "Release date": "2023-02-27",
         "specialId": "the_queens_radiance",
@@ -122617,18 +105080,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "沙暴",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "3個目標治療降低",
-            "自我淨化"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "凈化",
-            "持續傷害",
-            "治療削減"
-        ],
         "source": "月活動 - 海灘派對",
         "Release date": "",
         "specialId": "queens_curse",
@@ -122685,18 +105136,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "浪湧正起",
-        "types": [
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "3個目標治療降低",
-            "淨化 (3個目標)"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "凈化",
-            "持續傷害",
-            "治療削減"
-        ],
         "source": "月活動 - 海灘派對",
         "Release date": "2021-06-21",
         "specialId": "sand_wave_rana",
@@ -122755,16 +105194,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "神秘美德",
-        "types": [
-            "攻擊單個目標",
-            "全體對泰坦攻擊增益"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "對自身或友軍負面效果",
-            "狙擊手",
-            "防禦增益"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2019-06-01",
         "specialId": "mystics_virtue",
@@ -122826,13 +105255,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "釋放公主",
-        "types": [
-            "老鼠公主超級小兵"
-        ],
-        "skill_types": [
-            "召喚巨型小兵",
-            "額外傷害"
-        ],
         "source": "哥布林召喚",
         "Release date": "2025-09-16",
         "specialId": "princess_unleashed",
@@ -122886,20 +105308,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "豐饒讚歌",
-        "types": [
-            "全體生命值加成",
-            "改變棋盤",
-            "全體攻擊增益",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "改變面板",
-            "法力生成增益",
-            "法力削減或格擋",
-            "攻擊增益",
-            "凈化",
-            "生命強化"
-        ],
         "source": "挑戰節 II",
         "Release date": "2022-08-11",
         "specialId": "hymn_of_enrichment",
@@ -122967,16 +105375,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "中等",
         "skill": "狂沙旋風",
-        "types": [
-            "全體持續傷害",
-            "全體治療降低",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "凈化",
-            "持續傷害",
-            "治療削減"
-        ],
         "source": "月活動 - 海灘派對",
         "Release date": "",
         "specialId": "sand_cyclone",
@@ -123031,16 +105429,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "海灘派對",
-        "types": [
-            "全體持續傷害",
-            "全體防禦降低",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "驅散",
-            "持續傷害"
-        ],
         "source": "月活動 - 海灘派對",
         "Release date": "2022-05-16",
         "specialId": "beach_party",
@@ -123101,18 +105489,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "歡樂時刻",
-        "types": [
-            "全體治療",
-            "全體傷害減免增益疊加",
-            "自身護衛超級小怪"
-        ],
-        "skill_types": [
-            "治療",
-            "疊加",
-            "傷害減免",
-            "召喚巨型小兵",
-            "凈化"
-        ],
         "source": "哥布林召喚",
         "Release date": "2024-10-27",
         "specialId": "a_moment_of_joy",
@@ -123177,18 +105553,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "快速",
         "skill": "險惡水域",
-        "types": [
-            "暴擊機率",
-            "驅散全體2個增益",
-            "攻擊所有目標",
-            "單體持續傷害"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "驅散",
-            "持續傷害",
-            "額外傷害"
-        ],
         "source": "三國召喚",
         "Release date": "2025-05-22",
         "specialId": "perilous_waters",
@@ -123260,19 +105624,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "雙管星槍",
-        "types": [
-            "攻擊單個目標",
-            "單體沈默",
-            "隨機攻擊1個目標",
-            "單體承受傷害增加"
-        ],
-        "skill_types": [
-            "繞過",
-            "連鎖與隨機攻擊",
-            "反製小兵",
-            "沈默",
-            "額外傷害"
-        ],
         "source": "星界召喚",
         "Release date": "2024-12-22",
         "specialId": "doublebarreled_starstick",
@@ -123336,20 +105687,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "劇毒檀香",
-        "types": [
-            "驅散3個目標",
-            "攻擊3個目標",
-            "3個目標持續傷害",
-            "自我持續治療"
-        ],
-        "skill_types": [
-            "驅散",
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "持續治療",
-            "閃避",
-            "反製小兵"
-        ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-01-23",
         "specialId": "toxic_incense",
@@ -123419,16 +105756,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "快速",
         "skill": "太陽問候",
-        "types": [
-            "單體最大生命值削減",
-            "單體沈默",
-            "2個目標攻擊成長"
-        ],
-        "skill_types": [
-            "最大生命削減",
-            "沈默",
-            "屬性修改"
-        ],
         "source": "野地召喚",
         "Release date": "2026-03-04",
         "specialId": "greeting_of_the_sun",
@@ -123495,17 +105822,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "野豬之怒",
-        "types": [
-            "攻擊所有目標",
-            "全體攻擊衰減",
-            "白豬超級小怪反擊"
-        ],
-        "skill_types": [
-            "召喚巨型小兵",
-            "全體攻擊 (打5)",
-            "屬性修改",
-            "反擊"
-        ],
         "source": "哥布林召喚",
         "Release date": "2024-04-15",
         "specialId": "boar_of_fury",
@@ -123575,18 +105891,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "反向生命",
-        "types": [
-            "攻擊所有目標",
-            "全體治療",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "凈化",
-            "特殊治療",
-            "傷害減免",
-            "生命強化"
-        ],
         "source": "聖約召喚",
         "Release date": "2023-12-08",
         "specialId": "reversed_lifeforce",
@@ -123654,20 +105958,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "天降粉碎",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊2個目標",
-            "對命中目標施加額外傷害減益",
-            "對命中目標施加持續傷害"
-        ],
-        "skill_types": [
-            "反製小兵",
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "持續傷害",
-            "額外傷害",
-            "狀態效果轉換"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-11-03",
         "specialId": "skyfall_crumble",
@@ -123743,16 +106033,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "無理覺醒",
-        "types": [
-            "攻擊3個目標",
-            "持劍守衛超級小兵",
-            "傳播持續傷害的小怪"
-        ],
-        "skill_types": [
-            "召喚巨型小兵",
-            "範圍攻擊 (打3)",
-            "持續傷害"
-        ],
         "source": "哥布林召喚",
         "Release date": "2024-04-15",
         "specialId": "rude_awakening",
@@ -123817,17 +106097,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "織金者",
-        "types": [
-            "3個目標反擊",
-            "3個目標傷害減免增益",
-            "3個目標法力生成增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "反擊",
-            "傷害減免",
-            "法力生成增益"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "",
         "specialId": "gold_weaver",
@@ -123877,17 +106146,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "金絲線",
-        "types": [
-            "3個目標法力提升",
-            "3個目標反擊",
-            "3個目標傷害減免增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "反擊",
-            "傷害減免",
-            "法力提升"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-08-29",
         "specialId": "golden_thread",
@@ -123939,17 +106197,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "貪婪與賄賂",
-        "types": [
-            "偷取超級小兵/小兵",
-            "單體持續貪婪",
-            "全體持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "反製小兵",
-            "狀態效果格擋",
-            "治療削減"
-        ],
         "source": "聖約召喚",
         "Release date": "2025-01-11",
         "specialId": "greed_and_bribery",
@@ -124012,15 +106259,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "光輝長槍",
-        "types": [
-            "攻擊單個目標",
-            "連鎖攻擊",
-            "自身防禦減益"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "對自身或友軍負面效果"
-        ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "",
         "specialId": "luminous_lance",
@@ -124074,12 +106312,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "煉金術士長槍",
-        "types": [
-            "攻擊單個目標",
-            "連鎖攻擊",
-            "自身防禦減益"
-        ],
-        "skill_types": [],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2026-03-30",
         "specialId": "alchemist_lance",
@@ -124118,7 +106350,24 @@ window.allHeroes =
             "health": 2914,
             "power": 1563
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：單一目標",
+                    "攻擊-連鎖"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "傷害-額外傷害"
+                ]
+            },
+            {
+                "负面效果": [
+                    "狀態-自我減益"
+                ]
+            }
+        ]
     },
     {
         "name": "斯拉吉斯 (Sludgus)",
@@ -124128,17 +106377,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "黏膩之舞",
-        "types": [
-            "全體治療",
-            "黏液之舞 (全體)",
-            "舞蹈時閃避率增益",
-            "舞蹈期間狀態效果免疫"
-        ],
-        "skill_types": [
-            "舞者",
-            "治療",
-            "閃避"
-        ],
         "source": "超級元素",
         "Release date": "2024-09-04",
         "specialId": "dance_of_the_slimy",
@@ -124206,17 +106444,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "飛速",
         "skill": "信差衝刺",
-        "types": [
-            "攻擊所有目標",
-            "全體持續傷害",
-            "被擊敗時降低最大生命值",
-            "全體抵抗特殊技能格擋"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續傷害",
-            "最大生命削減"
-        ],
         "source": "野地召喚",
         "Release date": "2025-08-23",
         "specialId": "couriers_dash",
@@ -124285,16 +106512,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "飛速",
         "skill": "黃金蟬",
-        "types": [
-            "全體強化治療",
-            "全體淨化最新受到的異常狀態",
-            "全體防禦增益"
-        ],
-        "skill_types": [
-            "生命強化",
-            "凈化",
-            "防禦增益"
-        ],
         "source": "三國召喚",
         "Release date": "2024-04-02",
         "specialId": "golden_cicada",
@@ -124358,13 +106575,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "中等",
         "skill": "太陽之主的禁忌烈焰",
-        "types": [
-            "攻擊所有目標",
-            "自我治療",
-            "嘲諷",
-            "全體延遲攻擊"
-        ],
-        "skill_types": [],
         "source": "聖約召喚",
         "Release date": "2026-05-16",
         "specialId": "sunlords_forbidden_flame",
@@ -124418,15 +106628,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "飛速",
         "skill": "雷神鎚之力",
-        "types": [
-            "攻擊 (1/3/所有) 目標",
-            "1/3/全體目標致盲"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "全體攻擊 (打5)",
-            "攻擊減益"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2021-01-28",
         "specialId": "power_of_mjolnir",
@@ -124486,14 +106687,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "飛速",
         "skill": "雷神鎚能量",
-        "types": [
-            "攻擊所有目標",
-            "全體致盲"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊減益"
-        ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-12-19",
         "specialId": "energy_of_mjolnir",
@@ -124555,18 +106748,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "叢林戰吼",
-        "types": [
-            "嘲諷",
-            "自我強化持續治療",
-            "全體延遲攻擊",
-            "自身屬性攻擊增益疊加"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "生命強化",
-            "疊加",
-            "嘲諷"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2023-05-06",
         "specialId": "warcry_of_the_jungle",
@@ -124633,17 +106814,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "快速",
         "skill": "引導箭矢",
-        "types": [
-            "攻擊3個目標",
-            "3個目標繞過增益",
-            "3個目標特技傷害增加增益"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "額外傷害",
-            "繞過",
-            "攻擊增益"
-        ],
         "source": "怪獸島召喚",
         "Release date": "2024-05-23",
         "specialId": "guiding_arrow",
@@ -124704,16 +106874,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "衝鋒",
         "skill": "致命之針",
-        "types": [
-            "摧毀小兵 (1/3/所有目標)",
-            "攻擊 (1/3/所有) 目標",
-            "擊殺小怪時全體法力提升"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "法力提升",
-            "反製小兵"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2022-02-02",
         "specialId": "lethal_needles",
@@ -124781,12 +106941,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "貪婪咀嚼",
-        "types": [
-            "攻擊單個目標",
-            "寶箱怪",
-            "全體普通攻擊增益"
-        ],
-        "skill_types": [],
         "source": "市場召喚",
         "Release date": "2026-04-08",
         "specialId": "gluttonous_chomp_yellow",
@@ -124868,19 +107022,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "中等",
         "skill": "眼鏡蛇打擊",
-        "types": [
-            "攻擊單個目標",
-            "無視小兵",
-            "對小怪擁有者造成持續傷害",
-            "對魔僕擁有者造成持續傷害"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "特殊治療",
-            "反製小兵",
-            "召喚小兵",
-            "狙擊手"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-02-01",
         "specialId": "strike_of_the_cobra",
@@ -124946,20 +107087,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "中等",
         "skill": "儀式短刺",
-        "types": [
-            "攻擊所有目標",
-            "攻擊成長恩賜",
-            "全體法力生成降低",
-            "全體增益免疫"
-        ],
-        "skill_types": [
-            "反製小兵",
-            "屬性修改",
-            "額外傷害",
-            "全體攻擊 (打5)",
-            "法力削減或格擋",
-            "增益格擋者"
-        ],
         "source": "神殿召喚",
         "Release date": "2025-11-17",
         "specialId": "ceremonial_katar",
@@ -125027,23 +107154,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "魔法",
         "skill": "神聖兵卒",
-        "types": [
-            "蓄力",
-            "全體持續治療",
-            "全體攻擊增益",
-            "全體淨化",
-            "全體驅散",
-            "全體持續傷害",
-            "全體攻擊降低"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "凈化",
-            "攻擊減益",
-            "驅散",
-            "持續傷害",
-            "持續治療"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2023-11-15",
         "specialId": "pawns_of_divinity",
@@ -125117,25 +107227,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "魔法",
         "skill": "神聖外殼",
-        "types": [
-            "蓄力",
-            "全體持續治療",
-            "全體攻擊增益",
-            "全體淨化",
-            "全體驅散",
-            "全體持續傷害",
-            "全體攻擊降低",
-            "全體治療降低"
-        ],
-        "skill_types": [
-            "攻擊增益",
-            "凈化",
-            "攻擊減益",
-            "驅散",
-            "持續傷害",
-            "持續治療",
-            "治療削減"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-08-20",
         "specialId": "crust_of_divinity",
@@ -125216,16 +107307,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "群體恢復",
-        "types": [
-            "全體治療",
-            "全體防禦增益",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "凈化",
-            "治療"
-        ],
         "source": "S1 - 經典",
         "Release date": "",
         "specialId": "omniheal",
@@ -125283,16 +107364,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "群體治療",
-        "types": [
-            "全體治療",
-            "全體防禦降低",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "防禦減益",
-            "驅散",
-            "治療"
-        ],
         "source": "服裝間",
         "Release date": "2020-01-01",
         "specialId": "omnicure",
@@ -125352,16 +107423,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "慢速",
         "skill": "全方位修補",
-        "types": [
-            "全體強化治療",
-            "全體攻擊降低",
-            "全體驅散"
-        ],
-        "skill_types": [
-            "攻擊減益",
-            "驅散",
-            "生命強化"
-        ],
         "source": "服裝間",
         "Release date": "2022-09-05",
         "specialId": "omnimend",
@@ -125421,16 +107482,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "療愈公仔",
-        "types": [
-            "全體治療",
-            "全體防禦增益",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "凈化",
-            "治療"
-        ],
         "source": "服裝間",
         "Release date": "2023-10-30",
         "specialId": "adorable_heal",
@@ -125494,19 +107545,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "玻璃治療",
-        "types": [
-            "全體治療",
-            "全體防禦增益",
-            "神聖盟友反射狀態異常",
-            "神聖盟友反射疊加效果",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "凈化",
-            "治療",
-            "反射"
-        ],
         "source": "服裝間",
         "Release date": "2024-12-25",
         "specialId": "glass_heal",
@@ -125572,16 +107610,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "慢速",
         "skill": "有型治療",
-        "types": [
-            "全體治療",
-            "全體防禦增益",
-            "全體淨化"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "凈化",
-            "治療"
-        ],
         "source": "服裝間",
         "Release date": "2026-01-07",
         "specialId": "stylish_heal",
@@ -125645,15 +107673,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "飛速",
         "skill": "血之幻象",
-        "types": [
-            "全體持續傷害",
-            "全體治療偷取"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "特殊治療",
-            "治療削減"
-        ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2024-09-23",
         "specialId": "blood_illusion",
@@ -125715,18 +107734,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "一杯蜂蜜酒",
-        "types": [
-            "治療者",
-            "全體強化持續治療",
-            "每回合隨機獲得 1 個增益來源"
-        ],
-        "skill_types": [
-            "治療",
-            "生命強化",
-            "持續治療",
-            "攻擊增益",
-            "法力生成增益"
-        ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2024-11-25",
         "specialId": "cup_of_mead",
@@ -125797,18 +107804,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "閃亮的劍與鐵製鎖子甲",
-        "types": [
-            "攻擊所有目標",
-            "全體傷害降至1",
-            "隨機1個增益來源"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "傷害減免",
-            "攻擊增益",
-            "法力生成增益",
-            "繞過"
-        ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2025-12-06",
         "specialId": "gleaming_sword_and_iron_mail",
@@ -125879,14 +107874,6 @@ window.allHeroes =
         "class": "牧師",
         "speed": "快速",
         "skill": "兔子瞪眼",
-        "types": [
-            "攻擊3個目標",
-            "單體防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益"
-        ],
         "source": "挑戰節 I",
         "Release date": "",
         "specialId": "rabbits_watch",
@@ -125938,14 +107925,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "快速",
         "skill": "宇宙鐘",
-        "types": [
-            "攻擊3個目標",
-            "3個目標防禦降低"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "防禦減益"
-        ],
         "source": "挑戰節 I",
         "Release date": "2022-02-17",
         "specialId": "cosmic_clock",
@@ -126003,26 +107982,6 @@ window.allHeroes =
         "class": "德魯伊",
         "speed": "魔法",
         "skill": "飄浮豪華午餐盒",
-        "types": [
-            "蓄力",
-            "攻擊所有目標",
-            "防禦增益驅散者",
-            "全體防禦增益免疫",
-            "全體無視防禦",
-            "全體傷害減免",
-            "全體反擊"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "增益格擋者",
-            "繞過",
-            "反擊",
-            "傷害減免",
-            "驅散",
-            "疊加",
-            "法力削減或格擋",
-            "治療"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2023-05-03",
         "specialId": "levitating_lunchbox_deluxe",
@@ -126099,17 +108058,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "熊之守護",
-        "types": [
-            "全體淨化",
-            "全體生命值加成",
-            "釋放者擁有生命加成時觸發防禦增益"
-        ],
-        "skill_types": [
-            "防禦增益",
-            "凈化",
-            "生命強化",
-            "提供免疫"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-01-10",
         "specialId": "ursine_protection",
@@ -126175,17 +108123,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "中等",
         "skill": "司令手套",
-        "types": [
-            "攻擊所有目標",
-            "自我傷害減免",
-            "全體強化持續治療"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "持續治療",
-            "傷害減免",
-            "生命強化"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2021-10-13",
         "specialId": "commanders_gauntlet",
@@ -126240,17 +108177,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "中等",
         "skill": "金手套",
-        "types": [
-            "攻擊所有目標",
-            "自我傷害減免",
-            "全體強化持續治療"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "傷害減免",
-            "生命強化",
-            "持續治療"
-        ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-12-17",
         "specialId": "gold_gauntlet",
@@ -126313,19 +108239,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "錦囊妙計",
-        "types": [
-            "機率暴擊",
-            "攻擊單個目標",
-            "偷取法力 (單體)",
-            "全體暴擊幾率增益"
-        ],
-        "skill_types": [
-            "額外傷害",
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "法力削減或格擋",
-            "攻擊增益"
-        ],
         "source": "三國召喚",
         "Release date": "2025-10-28",
         "specialId": "clever_stratagem",
@@ -126397,17 +108310,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "駭異標記閃電",
-        "types": [
-            "全體增益竊取至自身",
-            "攻擊所有目標",
-            "全體狂亂",
-            "自我狂亂"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "增益竊取者",
-            "對自身或友軍負面效果"
-        ],
         "source": "暗影召喚",
         "Release date": "2025-01-09",
         "specialId": "eldritch_sign_bolts",
@@ -126466,17 +108368,6 @@ window.allHeroes =
         "class": "盜賊",
         "speed": "中等",
         "skill": "層疊旋風",
-        "types": [
-            "攻擊 (1/3/所有) 目標",
-            "命中時削減法力"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "範圍攻擊 (打3)",
-            "全體攻擊 (打5)",
-            "法力削減或格擋",
-            "額外傷害"
-        ],
         "source": "超級元素",
         "Release date": "2023-07-17",
         "specialId": "cascading_whirlwind",
@@ -126539,17 +108430,6 @@ window.allHeroes =
         "class": "遊俠",
         "speed": "中等",
         "skill": "超量旋風",
-        "types": [
-            "攻擊 (1/3/所有) 目標",
-            "全體法力削減"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "範圍攻擊 (打3)",
-            "全體攻擊 (打5)",
-            "法力削減或格擋",
-            "額外傷害"
-        ],
         "source": "超級元素",
         "Release date": "2026-03-17",
         "specialId": "overvlowing_whirlwind",
@@ -126618,15 +108498,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "非常慢",
         "skill": "堅定奉獻",
-        "types": [
-            "攻擊所有目標",
-            "復活者"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "復活",
-            "額外傷害"
-        ],
         "source": "超級元素",
         "Release date": "2022-10-10",
         "specialId": "unwavering_devotion",
@@ -126689,15 +108560,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "非常慢",
         "skill": "宇宙奉獻",
-        "types": [
-            "攻擊所有目標",
-            "復活者"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "復活",
-            "額外傷害"
-        ],
         "source": "超級元素",
         "Release date": "2025-11-10",
         "specialId": "cosmic_devotion",
@@ -126767,19 +108629,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "快速",
         "skill": "沖天爆裂",
-        "types": [
-            "無視防禦",
-            "攻擊單個目標",
-            "全體強化治療"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "繞過",
-            "特殊治療",
-            "生命強化",
-            "反製小兵",
-            "狀態效果轉換"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-05-29",
         "specialId": "soaring_blast",
@@ -126849,16 +108698,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "迅捷刺針",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊1個目標",
-            "單體防禦降低"
-        ],
-        "skill_types": [
-            "連鎖與隨機攻擊",
-            "防禦減益",
-            "額外傷害"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-12-02",
         "specialId": "swift_stingers",
@@ -126921,17 +108760,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "銳利刺針",
-        "types": [
-            "攻擊單個目標",
-            "隨機攻擊1個目標",
-            "單體防禦降低"
-        ],
-        "skill_types": [
-            "狙擊手",
-            "連鎖與隨機攻擊",
-            "額外傷害",
-            "防禦減益"
-        ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-06-20",
         "specialId": "sharp_stingers",
@@ -126999,18 +108827,6 @@ window.allHeroes =
         "class": "巫師",
         "speed": "慢速",
         "skill": "冰淇淋粉碎",
-        "types": [
-            "攻擊3個目標",
-            "3個目標受到異常狀態時觸發傷害",
-            "3個目標異常狀態免疫",
-            "企圖施加異常狀態時獲得治療"
-        ],
-        "skill_types": [
-            "範圍攻擊 (打3)",
-            "持續傷害",
-            "提供免疫",
-            "特殊治療"
-        ],
         "source": "月活動 - 海灘派對",
         "Release date": "2024-06-03",
         "specialId": "ice_cream_smash",
@@ -127074,14 +108890,6 @@ window.allHeroes =
         "class": "戰士",
         "speed": "快速",
         "skill": "丈八蛇矛",
-        "types": [
-            "攻擊單個目標",
-            "全體防禦降低反射"
-        ],
-        "skill_types": [
-            "反射",
-            "狙擊手"
-        ],
         "source": "三國召喚",
         "Release date": "2022-03-14",
         "specialId": "viper_blade",
@@ -127133,16 +108941,6 @@ window.allHeroes =
         "class": "野人",
         "speed": "快速",
         "skill": "熊之刃",
-        "types": [
-            "攻擊單個目標",
-            "單體持續傷害",
-            "全體防禦降低反射"
-        ],
-        "skill_types": [
-            "持續傷害",
-            "反射",
-            "狙擊手"
-        ],
         "source": "三國召喚",
         "Release date": "2024-10-29",
         "specialId": "viper_blade_costume_bear_slayer",
@@ -127210,16 +109008,6 @@ window.allHeroes =
         "class": "術士",
         "speed": "慢速",
         "skill": "軍法妙招",
-        "types": [
-            "全體反擊小兵召喚者",
-            "召喚所有惡魔"
-        ],
-        "skill_types": [
-            "反擊",
-            "召喚惡魔",
-            "召喚小兵",
-            "持續傷害"
-        ],
         "source": "三國召喚",
         "Release date": "2022-03-14",
         "specialId": "martial_masterstroke",
@@ -127274,16 +109062,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "慢速",
         "skill": "致勝策略",
-        "types": [
-            "全體反擊小兵召喚者",
-            "召喚所有惡魔"
-        ],
-        "skill_types": [
-            "召喚小兵",
-            "反擊",
-            "召喚惡魔",
-            "持續傷害"
-        ],
         "source": "三國召喚",
         "Release date": "2024-05-28",
         "specialId": "triumph_of_strategy",
@@ -127347,16 +109125,6 @@ window.allHeroes =
         "class": "僧侶",
         "speed": "中等",
         "skill": "日光籠罩",
-        "types": [
-            "全體治療",
-            "全體傷害減免",
-            "4個目標技能威力提升"
-        ],
-        "skill_types": [
-            "治療",
-            "傷害減免",
-            "攻擊增益"
-        ],
         "source": "星界召喚",
         "Release date": "2026-03-07",
         "specialId": "solar_shroud",
@@ -127417,16 +109185,6 @@ window.allHeroes =
         "class": "騎士",
         "speed": "慢速",
         "skill": "曙光集結",
-        "types": [
-            "攻擊所有目標",
-            "淨化者",
-            "根據移除的異常狀態數量觸發全體攻擊增益"
-        ],
-        "skill_types": [
-            "全體攻擊 (打5)",
-            "攻擊增益",
-            "凈化"
-        ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-01-01",
         "specialId": "dawnlight_rally",

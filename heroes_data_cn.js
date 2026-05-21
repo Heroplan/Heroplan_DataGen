@@ -8,12 +8,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "残暴斩",
-        "types": [
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "fierce_slash",
@@ -53,12 +47,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "劈砍攻击",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "hacking_attack",
@@ -98,12 +86,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "防御战术",
-        "types": [
-            "防御增益"
-        ],
-        "skill_types": [
-            "防御增益"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "defensive_tactics",
@@ -143,12 +125,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "残暴斩",
-        "types": [
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "fierce_slash",
@@ -188,12 +164,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "攻击动员",
-        "types": [
-            "攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "attack_rally",
@@ -233,19 +203,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "非常慢",
         "skill": "星体挑衅",
-        "types": [
-            "嘲讽",
-            "全体攻击降低",
-            "全体防御降低",
-            "全体法力生成降低"
-        ],
-        "skill_types": [
-            "绕过",
-            "嘲讽",
-            "攻击减益",
-            "防御减益",
-            "法力削减或格挡"
-        ],
         "source": "星体召唤",
         "Release date": "2025-10-23",
         "specialId": "astral_provocation",
@@ -309,16 +266,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "缝合如初",
-        "types": [
-            "全体持续治疗",
-            "复活者"
-        ],
-        "skill_types": [
-            "持续治疗",
-            "复活",
-            "反制小兵",
-            "状态效果转换"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-04-17",
         "specialId": "sewing_back_together",
@@ -385,18 +332,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "山羊冲刺",
-        "types": [
-            "攻击3个目标",
-            "3个目标法力增加"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "绕过",
-            "额外伤害",
-            "法力提升",
-            "持续伤害",
-            "攻击减益"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2025-08-26",
         "specialId": "goat_rush",
@@ -458,16 +393,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "卷心菜连击",
-        "types": [
-            "攻击单个目标",
-            "单体攻击降低"
-        ],
-        "skill_types": [
-            "召唤恶魔",
-            "狙击手",
-            "额外伤害",
-            "攻击减益"
-        ],
         "source": "挑战 - 英勇植物召唤",
         "Release date": "2026-02-04",
         "specialId": "cabbage_barrage",
@@ -537,14 +462,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "凝练长枪",
-        "types": [
-            "攻击所有目标",
-            "自身攻击减益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "对自身或友军负面效果"
-        ],
         "source": "月活动 - 春谷",
         "Release date": "",
         "specialId": "compact_lance",
@@ -596,19 +513,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "狩猎歌谣",
-        "types": [
-            "召唤3个小兵",
-            "攻击附带法力削减的小兵",
-            "特殊技能防御增益",
-            "净化 (3个目标)"
-        ],
-        "skill_types": [
-            "防御增益",
-            "净化",
-            "持续伤害",
-            "召唤小兵",
-            "法力削减或格挡"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2022-08-25",
         "specialId": "hunting_ballad",
@@ -674,14 +578,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "欢欣援助",
-        "types": [
-            "全体治疗",
-            "召唤所有"
-        ],
-        "skill_types": [
-            "治疗",
-            "召唤小兵"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2020-12-01",
         "specialId": "northern_wanderer",
@@ -733,14 +629,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "弥足深陷",
-        "types": [
-            "攻击单个目标",
-            "3个目标减益免疫"
-        ],
-        "skill_types": [
-            "提供免疫",
-            "狙击手"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "jungle_slash",
@@ -792,14 +680,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "狼之撕咬",
-        "types": [
-            "攻击单个目标",
-            "自我治疗"
-        ],
-        "skill_types": [
-            "特殊治疗",
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "wolf_bite",
@@ -851,16 +731,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "浣熊撕咬",
-        "types": [
-            "攻击单个目标",
-            "自身异常状态免疫增益",
-            "自我攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "提供免疫",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "raccoon_bite",
@@ -916,15 +786,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "卡通撕咬",
-        "types": [
-            "攻击单个目标",
-            "自我治疗"
-        ],
-        "skill_types": [
-            "特殊治疗",
-            "狙击手",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-04-08",
         "specialId": "toon_bite",
@@ -984,16 +845,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "玻璃咬痕",
-        "types": [
-            "攻击单个目标",
-            "无视防御",
-            "自我治疗"
-        ],
-        "skill_types": [
-            "绕过",
-            "特殊治疗",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2025-06-18",
         "specialId": "glass_bite",
@@ -1053,13 +904,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "守卫护甲",
-        "types": [
-            "全体治疗"
-        ],
-        "skill_types": [
-            "防御增益",
-            "治疗"
-        ],
         "source": "挑战节 I",
         "Release date": "2021-12-15",
         "specialId": "guardian_armor",
@@ -1111,14 +955,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "英灵羁绊",
-        "types": [
-            "友方伤害分担",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "伤害分摊"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "stone_skin",
@@ -1166,14 +1002,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "钢铁连结",
-        "types": [
-            "敌方伤害分担",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "伤害分摊",
-            "防御减益"
-        ],
         "source": "服装间",
         "Release date": "2020-01-01",
         "specialId": "shadow_link",
@@ -1227,14 +1055,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "卡通连接",
-        "types": [
-            "友方伤害分担",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "伤害分摊"
-        ],
         "source": "服装间",
         "Release date": "2024-09-08",
         "specialId": "toon_link",
@@ -1288,17 +1108,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "玻璃链接",
-        "types": [
-            "友方伤害分担",
-            "全体防御增益",
-            "冰雪盟友反射状态异常",
-            "冰雪盟友反射叠加效果"
-        ],
-        "skill_types": [
-            "防御增益",
-            "伤害分摊",
-            "反射"
-        ],
         "source": "服装间",
         "Release date": "2025-11-25",
         "specialId": "glass_stone_skin_gunnar",
@@ -1354,14 +1163,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "裨益之获",
-        "types": [
-            "全体治疗",
-            "净化全体"
-        ],
-        "skill_types": [
-            "净化",
-            "治疗"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-03-25",
         "specialId": "healthiest_catch",
@@ -1417,14 +1218,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "可疑糕点",
-        "types": [
-            "全体持续治疗",
-            "净化全体"
-        ],
-        "skill_types": [
-            "净化",
-            "持续治疗"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2023-12-07",
         "specialId": "sublime_pastry",
@@ -1482,15 +1275,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "禁止法令",
-        "types": [
-            "攻击单个目标",
-            "单体增益免疫减益",
-            "企图获得增益时受到伤害(单体)"
-        ],
-        "skill_types": [
-            "增益格挡者",
-            "狙击手"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "disabling_decree",
@@ -1548,15 +1332,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "禁用研究",
-        "types": [
-            "攻击单个目标",
-            "单体增益免疫减益",
-            "企图获得增益时受到伤害(单体)"
-        ],
-        "skill_types": [
-            "增益格挡者",
-            "狙击手"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2025-03-17",
         "specialId": "disabling_study",
@@ -1621,15 +1396,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "急速猛拳",
-        "types": [
-            "攻击单个目标",
-            "自身攻击增益叠加"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "狙击手",
-            "叠加"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2020-05-28",
         "specialId": "jab_and_hook",
@@ -1681,16 +1447,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "愤怒之箭",
-        "types": [
-            "全体驱散",
-            "攻击所有目标",
-            "全体增益免疫"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "增益格挡者",
-            "驱散"
-        ],
         "source": "月活动 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "specialId": "arrows_of_fury",
@@ -1752,16 +1508,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "冰霜之箭",
-        "types": [
-            "全体驱散",
-            "攻击所有目标",
-            "全体增益免疫"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "增益格挡者",
-            "驱散"
-        ],
         "source": "月活动 - 卡勒瓦拉",
         "Release date": "2025-07-28",
         "specialId": "arrows_of_frost",
@@ -1825,12 +1571,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "锤击突袭",
-        "types": [
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "ramming_rush",
@@ -1876,14 +1616,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "锻造厂突袭",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害"
-        ],
         "source": "服装间",
         "Release date": "2020-05-18",
         "specialId": "forge_rush",
@@ -1938,13 +1670,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "卡通梦幻突袭",
-        "types": [
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-06-28",
         "specialId": "adorable_ramming_rush",
@@ -2002,14 +1727,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "玻璃突袭",
-        "types": [
-            "攻击3个目标",
-            "无视防御"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "绕过"
-        ],
         "source": "服装间",
         "Release date": "2025-08-10",
         "specialId": "glass_ramming_rush",
@@ -2067,12 +1784,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "博朗古祝福",
-        "types": [
-            "治疗附近目标",
-            "自身全效果移除",
-            "自身变为复仇幽灵"
-        ],
-        "skill_types": [],
         "source": "三国召唤",
         "Release date": "2026-05-21",
         "specialId": "bolanggu_blessing",
@@ -2121,14 +1832,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "霜冻斧头",
-        "types": [
-            "攻击3个目标",
-            "3个目标元素防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "",
         "specialId": "frosty_axes",
@@ -2180,14 +1883,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "寒冰利斧",
-        "types": [
-            "攻击3个目标",
-            "全体元素防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2023-04-10",
         "specialId": "icy_axes",
@@ -2241,11 +1936,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "卡通斧击",
-        "types": [
-            "攻击3个目标",
-            "3个目标元素防御降低"
-        ],
-        "skill_types": [],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2026-04-29",
         "specialId": "toon_axes",
@@ -2293,16 +1983,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "练剑穿心",
-        "types": [
-            "摧毁单个目标的小兵",
-            "攻击单个目标",
-            "自我持续治疗"
-        ],
-        "skill_types": [
-            "持续治疗",
-            "反制小兵",
-            "狙击手"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2023-03-08",
         "specialId": "piercing_practice_slash",
@@ -2360,16 +2040,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "冒险家斩击",
-        "types": [
-            "摧毁单个目标的小兵",
-            "攻击单个目标",
-            "自身生命值加成持续治疗"
-        ],
-        "skill_types": [
-            "持续治疗",
-            "反制小兵",
-            "狙击手"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2026-02-20",
         "specialId": "adventurers_slash",
@@ -2431,14 +2101,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "信仰之力",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "狙击手",
-            "额外伤害",
-            "伤害减免"
-        ],
         "source": "挑战 - 石像鬼",
         "Release date": "2022-05-12",
         "specialId": "faithful_force",
@@ -2494,20 +2156,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "小天鹅之舞",
-        "types": [
-            "自我持续治疗",
-            "自我闪避增益",
-            "小天鹅之舞 (4个目标)",
-            "4个目标闪避增益",
-            "4个目标状态效果免疫"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "舞者",
-            "闪避",
-            "持续治疗",
-            "提供免疫"
-        ],
         "source": "挑战 - 歌剧之谜",
         "Release date": "2024-01-25",
         "specialId": "dance_of_the_little_swan",
@@ -2572,14 +2220,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "暴风雪",
-        "types": [
-            "攻击所有目标",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御减益"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "cold_blast",
@@ -2631,14 +2271,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "白雪茫茫",
-        "types": [
-            "攻击所有目标",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击增益"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "whiteout",
@@ -2692,15 +2324,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "卡通暴风雪",
-        "types": [
-            "攻击所有目标",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御减益",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-07-16",
         "specialId": "adorable_cold_blast",
@@ -2764,16 +2387,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "玻璃暴风雪",
-        "types": [
-            "攻击所有目标",
-            "无视防御",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御减益",
-            "绕过"
-        ],
         "source": "服装间",
         "Release date": "2025-10-09",
         "specialId": "glass_cold_blast_ulmer",
@@ -2837,14 +2450,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "寒冷鞭笞",
-        "types": [
-            "攻击单个目标",
-            "单体防御降低"
-        ],
-        "skill_types": [
-            "防御减益",
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "chilling_slash",
@@ -2896,14 +2501,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "恐惧冲撞",
-        "types": [
-            "攻击单个目标",
-            "自我攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "thrilling_clash",
@@ -2957,15 +2554,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "卡通斩",
-        "types": [
-            "攻击单个目标",
-            "单体防御降低"
-        ],
-        "skill_types": [
-            "防御减益",
-            "额外伤害",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2023-12-25",
         "specialId": "toon_slash",
@@ -3029,16 +2617,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "玻璃猛击",
-        "types": [
-            "攻击单个目标",
-            "无视防御",
-            "单体防御降低"
-        ],
-        "skill_types": [
-            "防御减益",
-            "狙击手",
-            "绕过"
-        ],
         "source": "服装间",
         "Release date": "2025-12-11",
         "specialId": "glass_slash",
@@ -3102,16 +2680,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "冥河",
         "skill": "诗人庇护",
-        "types": [
-            "蓄力",
-            "治疗者",
-            "元素防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "治疗",
-            "反制小兵"
-        ],
         "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
         "specialId": "poets_protection",
@@ -3179,13 +2747,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "三叉戟之刺",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "狙击手",
-            "额外伤害"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "destructive_strike",
@@ -3237,16 +2798,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "魏刀",
-        "types": [
-            "攻击3个目标",
-            "自身召唤师",
-            "小怪命中时触发驱散"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "驱散",
-            "召唤小兵"
-        ],
         "source": "三国召唤",
         "Release date": "2022-03-14",
         "specialId": "sword_of_wei",
@@ -3304,14 +2855,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "盗贼浪潮",
-        "types": [
-            "攻击所有目标",
-            "元素防御增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御增益"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "tidal_wave",
@@ -3363,14 +2906,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "溅洒汤剂",
-        "types": [
-            "攻击所有目标",
-            "对全体自然系目标造成持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2023-03-06",
         "specialId": "spilled_decoctions",
@@ -3425,11 +2960,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "卡通浪潮",
-        "types": [
-            "攻击所有目标",
-            "全体元素防御增益"
-        ],
-        "skill_types": [],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toon_wave",
@@ -3477,14 +3007,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "潮汐",
         "skill": "紧凑阵型",
-        "types": [
-            "嘲讽",
-            "全体延迟伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "嘲讽"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2023-09-27",
         "specialId": "close_order_formation",
@@ -3547,14 +3069,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "潮汐",
         "skill": "坚固阵型",
-        "types": [
-            "嘲讽",
-            "全体延迟伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "嘲讽"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2025-05-28",
         "specialId": "impervious_formation",
@@ -3622,14 +3136,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "对立状态",
-        "types": [
-            "全体治疗",
-            "3个目标反击"
-        ],
-        "skill_types": [
-            "反击",
-            "治疗"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "counterstance",
@@ -3687,16 +3193,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "曼妙舞姿",
-        "types": [
-            "全体治疗",
-            "3个目标反击"
-        ],
-        "skill_types": [
-            "治疗",
-            "反击",
-            "生命强化",
-            "净化"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-06-24",
         "specialId": "dancestance",
@@ -3761,15 +3257,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "冰霜雾凇",
-        "types": [
-            "攻击3个目标",
-            "防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "防御增益"
-        ],
         "source": "盟约召唤",
         "Release date": "2024-04-25",
         "specialId": "frost_and_rime",
@@ -3836,12 +3323,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "完美回刺",
-        "types": [
-            "3个目标反击"
-        ],
-        "skill_types": [
-            "反击"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "perfect_riposte",
@@ -3888,12 +3369,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "壮力还击",
-        "types": [
-            "全体反击"
-        ],
-        "skill_types": [
-            "反击"
-        ],
         "source": "服装间",
         "Release date": "2020-05-18",
         "specialId": "sturdy_riposte",
@@ -3941,12 +3416,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "冷酷反击",
-        "types": [
-            "全体反击"
-        ],
-        "skill_types": [
-            "反击"
-        ],
         "source": "服装间",
         "Release date": "2023-11-27",
         "specialId": "unrelenting_riposte",
@@ -3994,12 +3463,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "卡通反击",
-        "types": [
-            "3个目标反击"
-        ],
-        "skill_types": [
-            "反击"
-        ],
         "source": "服装间",
         "Release date": "2024-09-08",
         "specialId": "toon_riposte",
@@ -4051,14 +3514,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "玻璃反击",
-        "types": [
-            "3个目标反击",
-            "冰雪盟友反射状态异常",
-            "冰雪盟友反射叠加效果"
-        ],
-        "skill_types": [
-            "反击"
-        ],
         "source": "服装间",
         "Release date": "2025-10-09",
         "specialId": "glass_riposte_boril",
@@ -4111,18 +3566,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "水之试炼",
-        "types": [
-            "攻击所有目标",
-            "全体防御增益",
-            "持续治疗"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御增益",
-            "持续治疗",
-            "额外伤害",
-            "绕过"
-        ],
         "source": "挑战 - 贝奥武夫",
         "Release date": "2025-12-06",
         "specialId": "trial_of_the_waters",
@@ -4189,16 +3632,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "虫害控制",
-        "types": [
-            "摧毁单个目标的小兵",
-            "攻击单个目标",
-            "连锁攻击"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "反制小兵",
-            "狙击手"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "pest_control",
@@ -4252,14 +3685,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "惊喜粘物！",
-        "types": [
-            "3个目标生命值加成",
-            "3个目标粘性表面增益"
-        ],
-        "skill_types": [
-            "生命强化",
-            "增益窃取者"
-        ],
         "source": "超级元素人",
         "Release date": "2025-07-31",
         "specialId": "surprise_goo",
@@ -4318,18 +3743,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "冰山光环",
-        "types": [
-            "霜降守卫 (3个目标)",
-            "3个目标攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "伤害减免",
-            "持续伤害",
-            "额外伤害",
-            "反制小兵",
-            "攻击减益"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2025-05-16",
         "specialId": "iceberg_aura",
@@ -4385,16 +3798,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "双极药水",
-        "types": [
-            "摧毁所有小兵",
-            "全体驱散",
-            "治疗者"
-        ],
-        "skill_types": [
-            "驱散",
-            "持续治疗",
-            "反制小兵"
-        ],
         "source": "挑战 - 众神狂欢节",
         "Release date": "2023-07-13",
         "specialId": "potions_of_havoc_and_healing",
@@ -4458,15 +3861,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "不死蝰蛇",
-        "types": [
-            "攻击所有目标",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御减益",
-            "额外伤害"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "2020-10-26",
         "specialId": "undead_razer",
@@ -4528,18 +3922,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "不死毁灭者",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害叠加",
-            "全体法力生成降低叠加"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "额外伤害",
-            "法力削减或格挡",
-            "叠加"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "2021-10-04",
         "specialId": "undead_obliteration",
@@ -4612,16 +3994,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "渐强升华",
-        "types": [
-            "攻击单个目标",
-            "改变棋盘"
-        ],
-        "skill_types": [
-            "改变面板",
-            "法力生成增益",
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "挑战节 II",
         "Release date": "2022-12-01",
         "specialId": "the_mighty_crescendo",
@@ -4677,16 +4049,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "蝾螈之鳞",
-        "types": [
-            "攻击所有目标",
-            "持剑守卫超级小兵",
-            "传播持续伤害的小怪"
-        ],
-        "skill_types": [
-            "召唤巨型小兵",
-            "全体攻击 (打5)",
-            "持续伤害"
-        ],
         "source": "哥布林召唤",
         "Release date": "2024-04-15",
         "specialId": "scale_of_the_newt",
@@ -4751,14 +4113,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "锤击粉碎机",
-        "types": [
-            "攻击3个目标",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "ramming_pulverizer",
@@ -4810,14 +4164,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "无情粉碎者",
-        "types": [
-            "攻击3个目标",
-            "3个目标攻击增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击增益"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "merciless_pulverizer",
@@ -4871,14 +4217,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "邮件粉碎者",
-        "types": [
-            "攻击3个目标",
-            "3个目标特殊技能伤害增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击增益"
-        ],
         "source": "服装间",
         "Release date": "2023-06-12",
         "specialId": "postal_pulverizer",
@@ -4932,15 +4270,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "卡通之力粉碎者",
-        "types": [
-            "攻击3个目标",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2023-12-25",
         "specialId": "toonpower_pulverizer",
@@ -5004,16 +4333,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "玻璃碎击",
-        "types": [
-            "攻击3个目标",
-            "无视防御",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "绕过",
-            "防御减益"
-        ],
         "source": "服装间",
         "Release date": "2024-12-25",
         "specialId": "glass_pulverizer",
@@ -5077,15 +4396,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "英姿碎击",
-        "types": [
-            "攻击3个目标",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害",
-            "防御减益"
-        ],
         "source": "服装间",
         "Release date": "2026-01-07",
         "specialId": "stylish_pulverizer",
@@ -5149,17 +4459,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "慢",
         "skill": "月之回旋镖",
-        "types": [
-            "4个目标软肤",
-            "全体持续治疗",
-            "全体净化"
-        ],
-        "skill_types": [
-            "伤害减免",
-            "持续治疗",
-            "净化",
-            "提供免疫"
-        ],
         "source": "挑战 - 石像鬼",
         "Release date": "2024-05-16",
         "specialId": "moon_boomerang",
@@ -5221,16 +4520,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "爆裂冰雪",
-        "types": [
-            "攻击所有目标",
-            "改变棋盘"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "改变面板",
-            "攻击减益",
-            "攻击增益"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2020-05-28",
         "specialId": "ice_boom",
@@ -5282,16 +4571,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "神圣佳酿",
-        "types": [
-            "全体治疗",
-            "全体攻击增益",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "防御增益",
-            "治疗"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "blessed_brew",
@@ -5345,16 +4624,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "神圣独奏",
-        "types": [
-            "全体治疗",
-            "全体攻击降低",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "攻击减益",
-            "防御减益",
-            "治疗"
-        ],
         "source": "服装间",
         "Release date": "2020-05-18",
         "specialId": "blessed_solo",
@@ -5410,16 +4679,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "神圣啤酒杯",
-        "types": [
-            "全体强化治疗",
-            "全体防御增益",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "防御增益",
-            "攻击减益",
-            "生命强化"
-        ],
         "source": "服装间",
         "Release date": "2022-10-31",
         "specialId": "blessed_tankard",
@@ -5479,16 +4738,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "卡通酿酒",
-        "types": [
-            "全体治疗",
-            "全体攻击增益",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "防御增益",
-            "治疗"
-        ],
         "source": "服装间",
         "Release date": "2024-02-12",
         "specialId": "toon_brew",
@@ -5548,19 +4797,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "玻璃佳酿",
-        "types": [
-            "全体治疗",
-            "全体攻击增益",
-            "全体防御增益",
-            "冰雪盟友反射状态异常",
-            "冰雪盟友反射叠加效果"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "防御增益",
-            "治疗",
-            "反射"
-        ],
         "source": "服装间",
         "Release date": "2025-03-11",
         "specialId": "glass_brew",
@@ -5622,16 +4858,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "英姿开胃菜",
-        "types": [
-            "全体治疗",
-            "全体攻击增益",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "治疗",
-            "攻击增益",
-            "防御增益"
-        ],
         "source": "服装间",
         "Release date": "2026-03-12",
         "specialId": "stylish_appetizer",
@@ -5691,19 +4917,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "丛林反击",
-        "types": [
-            "全体防御增益",
-            "全体反射状态异常",
-            "全体反射叠加效果",
-            "自身攻击增益叠加"
-        ],
-        "skill_types": [
-            "防御增益",
-            "持续伤害",
-            "反射",
-            "叠加",
-            "攻击增益"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2023-05-06",
         "specialId": "jungle_riposte",
@@ -5759,18 +4972,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "狂怒撕裂",
-        "types": [
-            "攻击3个目标",
-            "3个目标狂乱",
-            "3个目标持续伤害",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "对自身或友军负面效果",
-            "失心攻击&治疗"
-        ],
         "source": "暗影召唤",
         "Release date": "2025-09-09",
         "specialId": "frenzied_rend",
@@ -5830,14 +5031,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "海之枷锁",
-        "types": [
-            "攻击 (1/3/所有) 目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "全体攻击 (打5)",
-            "狙击手"
-        ],
         "source": "超级元素人",
         "Release date": "2023-09-11",
         "specialId": "shackles_of_the_sea",
@@ -5899,15 +5092,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "飞速",
         "skill": "痛苦锁链",
-        "types": [
-            "攻击3个目标",
-            "自身攻击增益叠加"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击增益",
-            "叠加"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "",
         "specialId": "chain_of_pain",
@@ -5959,16 +5143,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "不幸实验",
-        "types": [
-            "攻击单个目标",
-            "法力削减者"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "法力削减或格挡",
-            "狙击手",
-            "绕过"
-        ],
         "source": "高塔 - 猫头鹰",
         "Release date": "2023-12-20",
         "specialId": "ill_fated_experiment",
@@ -6031,16 +5205,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "充能",
         "skill": "铁律斩",
-        "types": [
-            "攻击单个目标",
-            "单体防御降低"
-        ],
-        "skill_types": [
-            "反制小兵",
-            "狙击手",
-            "防御减益",
-            "法力提升"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2024-09-24",
         "specialId": "iron_discipline_cut",
@@ -6109,18 +5273,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "背叛之刃",
-        "types": [
-            "攻击单个目标",
-            "攻击成长恩赐",
-            "单体增益免疫"
-        ],
-        "skill_types": [
-            "反制小兵",
-            "属性修改",
-            "额外伤害",
-            "狙击手",
-            "增益格挡者"
-        ],
         "source": "神殿召唤",
         "Release date": "2025-11-17",
         "specialId": "blade_of_betrayal",
@@ -6186,14 +5338,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "女武神的坚毅",
-        "types": [
-            "强化治疗3个目标",
-            "3个目标元素防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "生命强化"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-02-11",
         "specialId": "valkyries_fortitude",
@@ -6245,17 +5389,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "充能",
         "skill": "影踪",
-        "types": [
-            "蓄力",
-            "攻击 (1/3/所有) 目标",
-            "无视防御几率"
-        ],
-        "skill_types": [
-            "狙击手",
-            "范围攻击 (打3)",
-            "全体攻击 (打5)",
-            "绕过"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "specialId": "from_shadows",
@@ -6314,14 +5447,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "穿心斩",
-        "types": [
-            "攻击单个目标",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "驱散",
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "piercing_strike",
@@ -6373,14 +5498,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "净化侵袭",
-        "types": [
-            "攻击单个目标",
-            "全体净化"
-        ],
-        "skill_types": [
-            "净化",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2020-01-01",
         "specialId": "purifying_strike",
@@ -6434,14 +5551,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "钻心斩",
-        "types": [
-            "攻击单个目标",
-            "全体增益免疫状态异常"
-        ],
-        "skill_types": [
-            "增益格挡者",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2023-11-27",
         "specialId": "wrenching_strike",
@@ -6495,15 +5604,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "卡通之力猛击",
-        "types": [
-            "攻击单个目标",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "狙击手",
-            "额外伤害",
-            "驱散"
-        ],
         "source": "服装间",
         "Release date": "2024-07-16",
         "specialId": "adorable_piercing_strike",
@@ -6567,16 +5667,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "玻璃打击",
-        "types": [
-            "攻击单个目标",
-            "无视防御",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "狙击手",
-            "绕过",
-            "驱散"
-        ],
         "source": "服装间",
         "Release date": "2025-08-10",
         "specialId": "glass_piercing_strike",
@@ -6640,14 +5730,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "掷戟一击",
-        "types": [
-            "攻击单个目标",
-            "全体治疗增益"
-        ],
-        "skill_types": [
-            "特殊治疗",
-            "狙击手"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "heroic_noble",
@@ -6699,14 +5781,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "赫拉克勒斯之掷",
-        "types": [
-            "攻击3个目标",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击增益"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2023-04-03",
         "specialId": "herculean_throw",
@@ -6760,11 +5834,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "卡通三叉戟",
-        "types": [
-            "攻击单个目标",
-            "全体治疗增益"
-        ],
-        "skill_types": [],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toon_trident",
@@ -6812,17 +5881,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "飞速",
         "skill": "黄昏神伤",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害",
-            "偷取治疗 (单体)"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "特殊治疗",
-            "治疗削减",
-            "狙击手"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "",
         "specialId": "queens_blood_poisoning",
@@ -6880,16 +5938,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "麒麟牙刀",
-        "types": [
-            "攻击单个目标",
-            "召唤3个小兵",
-            "小怪命中时触发驱散"
-        ],
-        "skill_types": [
-            "驱散",
-            "召唤小兵",
-            "狙击手"
-        ],
         "source": "三国召唤",
         "Release date": "2022-03-14",
         "specialId": "qilin_blade",
@@ -6947,14 +5995,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "鱼骨之刃",
-        "types": [
-            "攻击2个目标",
-            "2个目标防御减益"
-        ],
-        "skill_types": [
-            "防御减益",
-            "狙击手"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-03-25",
         "specialId": "fishbone_blades",
@@ -7010,14 +6050,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "水上舞蹈",
-        "types": [
-            "攻击2个目标",
-            "2个目标防御减益"
-        ],
-        "skill_types": [
-            "防御减益",
-            "狙击手"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2024-01-04",
         "specialId": "aquatic_dance",
@@ -7075,17 +6107,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "狩猎冲锋",
-        "types": [
-            "攻击3个目标",
-            "召唤3个恶魔",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "持续伤害",
-            "召唤恶魔"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2022-09-18",
         "specialId": "hunting_charge",
@@ -7150,17 +6171,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "寒冰回旋",
-        "types": [
-            "友方伤害分担",
-            "全体防御增益",
-            "全体造成伤害时获得治疗"
-        ],
-        "skill_types": [
-            "防御增益",
-            "伤害分摊",
-            "特殊治疗",
-            "持续治疗"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2018-10-01",
         "specialId": "icy_resilience",
@@ -7215,17 +6225,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "冰川之韧",
-        "types": [
-            "全体伤害分担",
-            "全体防御增益",
-            "全体持续治疗"
-        ],
-        "skill_types": [
-            "防御增益",
-            "伤害分摊",
-            "持续治疗",
-            "净化"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2023-01-23",
         "specialId": "glacial_resilience",
@@ -7286,20 +6285,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "渴望之咬",
-        "types": [
-            "攻击单个目标",
-            "按伤害全体提升生命",
-            "宝箱怪"
-        ],
-        "skill_types": [
-            "狙击手",
-            "特殊治疗",
-            "生命强化",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形态与隐藏",
-            "绕过"
-        ],
         "source": "市集召唤",
         "Release date": "2025-12-12",
         "specialId": "aether_mimic_bite_blue",
@@ -7375,16 +6360,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "夏日颂歌",
-        "types": [
-            "全体净化",
-            "全体治疗",
-            "全体法力生成降低"
-        ],
-        "skill_types": [
-            "净化",
-            "治疗",
-            "法力削减或格挡"
-        ],
         "source": "月活动 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "specialId": "summer_carol",
@@ -7442,16 +6417,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "湖之颂歌",
-        "types": [
-            "全体净化",
-            "全体治疗",
-            "全体法力生成降低"
-        ],
-        "skill_types": [
-            "净化",
-            "治疗",
-            "法力削减或格挡"
-        ],
         "source": "月活动 - 卡勒瓦拉",
         "Release date": "2023-08-07",
         "specialId": "anthem_of_the_lake",
@@ -7511,16 +6476,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "英灵之箭",
-        "types": [
-            "攻击单个目标",
-            "3个目标法力生成降低"
-        ],
-        "skill_types": [
-            "法力削减或格挡",
-            "狙击手",
-            "攻击增益",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2018-05-01",
         "specialId": "spirit_arrow",
@@ -7573,18 +6528,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "鲁嘉利克之箭",
-        "types": [
-            "攻击3个目标",
-            "3个目标法力削减",
-            "3个目标法力生成降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "法力削减或格挡",
-            "攻击增益",
-            "防御增益",
-            "净化"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2021-12-23",
         "specialId": "arrow_of_nujalik",
@@ -7649,17 +6592,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "闪耀之盾",
-        "types": [
-            "全体治疗",
-            "改变棋盘"
-        ],
-        "skill_types": [
-            "改变面板",
-            "攻击增益",
-            "攻击减益",
-            "治疗",
-            "特殊治疗"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2021-09-01",
         "specialId": "shimmering_shield",
@@ -7725,14 +6657,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "永恒时钟",
-        "types": [
-            "攻击单个目标",
-            "单体攻击降低"
-        ],
-        "skill_types": [
-            "攻击减益",
-            "狙击手"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "timeless_timepiece",
@@ -7784,18 +6708,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "冥河",
         "skill": "潮汐之力",
-        "types": [
-            "蓄力",
-            "攻击所有目标",
-            "全体治疗降低",
-            "召唤所有恶魔"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "召唤恶魔",
-            "治疗削减",
-            "持续伤害"
-        ],
         "source": "高塔 - 冥河",
         "Release date": "2023-07-19",
         "specialId": "tidal_force",
@@ -7869,17 +6781,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "星体法球",
-        "types": [
-            "随机攻击5个目标",
-            "星体法球攻击敌人"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "增益格挡者",
-            "额外伤害",
-            "持续伤害",
-            "绕过"
-        ],
         "source": "星体召唤",
         "Release date": "2025-11-02",
         "specialId": "astral_orb",
@@ -7950,21 +6851,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "救赎传奇",
-        "types": [
-            "摧毁所有小兵",
-            "摧毁所有恶魔",
-            "全体焰暴守卫",
-            "全体法力生成增益"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "反制恶魔",
-            "额外伤害",
-            "反制小兵",
-            "法力生成增益",
-            "伤害减免",
-            "防御减益"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2024-12-28",
         "specialId": "saga_of_deliverance",
@@ -8028,21 +6914,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "恢复传奇",
-        "types": [
-            "摧毁所有小兵",
-            "摧毁所有恶魔",
-            "全体小怪/魔仆免疫减益",
-            "全体魔仆免疫增益",
-            "全体焰暴守卫"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "反制恶魔",
-            "额外伤害",
-            "反制小兵",
-            "伤害减免",
-            "防御减益"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2026-03-14",
         "specialId": "saga_of_restoration",
@@ -8114,14 +6985,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "光辉逆袭",
-        "types": [
-            "全体反击",
-            "全体冰属性反击时获得法力"
-        ],
-        "skill_types": [
-            "反击",
-            "法力提升"
-        ],
         "source": "超级元素人",
         "Release date": "2023-01-30",
         "specialId": "radiant_comeback",
@@ -8177,16 +7040,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "辐射枷锁",
-        "types": [
-            "全体反击",
-            "全体冰属性反击时获得法力",
-            "全体伤害减免"
-        ],
-        "skill_types": [
-            "反击",
-            "法力提升",
-            "伤害减免"
-        ],
         "source": "超级元素人",
         "Release date": "2026-01-02",
         "specialId": "radiant_shackles",
@@ -8249,17 +7102,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "辐射冰霜",
-        "types": [
-            "攻击单个目标",
-            "连锁攻击",
-            "单体持续伤害"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "持续伤害",
-            "狙击手",
-            "法力生成增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2023-09-01",
         "specialId": "radiating_frost",
@@ -8321,16 +7163,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "天使之护",
-        "types": [
-            "全体治疗",
-            "全体法力生成增益",
-            "全体净化"
-        ],
-        "skill_types": [
-            "净化",
-            "治疗",
-            "法力生成增益"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "divine_protection",
@@ -8388,16 +7220,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "深海仪式",
-        "types": [
-            "全体生命值加成",
-            "全体法力持续恢复",
-            "全体净化"
-        ],
-        "skill_types": [
-            "净化",
-            "生命强化",
-            "法力提升"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2021-11-15",
         "specialId": "deep_sea_ritual",
@@ -8457,12 +7279,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "卡通守护",
-        "types": [
-            "全体治疗",
-            "全体法力生成增益",
-            "全体净化"
-        ],
-        "skill_types": [],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toontastic_protection",
@@ -8510,16 +7326,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "霜寒冰封",
-        "types": [
-            "驱散者",
-            "最大生命值降低",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "驱散",
-            "最大生命削减",
-            "持续伤害"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2024-04-10",
         "specialId": "frostbite",
@@ -8582,20 +7388,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "暴食咀嚼",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "宝箱怪"
-        ],
-        "skill_types": [
-            "特殊治疗",
-            "反制小兵",
-            "范围攻击 (打3)",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形态与隐藏",
-            "绕过"
-        ],
         "source": "市集召唤",
         "Release date": "2025-07-26",
         "specialId": "gorging_chew_blue",
@@ -8681,19 +7473,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "未来预兆",
-        "types": [
-            "攻击所有目标",
-            "全体强化防御异常",
-            "全体法力削减",
-            "全体延迟法力提升"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御减益",
-            "法力提升",
-            "法力削减或格挡",
-            "反制小兵"
-        ],
         "source": "荒野召唤",
         "Release date": "2025-02-21",
         "specialId": "portents_of_future",
@@ -8765,17 +7544,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "雅典娜之弓",
-        "types": [
-            "攻击3个目标",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "额外伤害",
-            "攻击增益",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2017-07-01",
         "specialId": "athenas_bow",
@@ -8834,18 +7602,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "雅典娜之箭",
-        "types": [
-            "攻击3个目标",
-            "3个目标防御降低",
-            "全体火属性防御减益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "驱散",
-            "攻击增益",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2021-12-23",
         "specialId": "athenas_arrow",
@@ -8906,19 +7662,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "潮汐",
         "skill": "深渊巨胃",
-        "types": [
-            "全体持续伤害",
-            "攻击力降低持续伤害",
-            "全体法力偷取"
-        ],
-        "skill_types": [
-            "攻击减益",
-            "持续伤害",
-            "法力提升",
-            "法力削减或格挡",
-            "额外伤害",
-            "反制小兵"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2023-11-22",
         "specialId": "aphotic_maw",
@@ -8988,19 +7731,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "潮汐",
         "skill": "深渊低吟",
-        "types": [
-            "全体持续伤害",
-            "攻击力降低持续伤害",
-            "全体法力偷取"
-        ],
-        "skill_types": [
-            "攻击减益",
-            "持续伤害",
-            "法力提升",
-            "法力削减或格挡",
-            "额外伤害",
-            "反制小兵"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2024-11-21",
         "specialId": "aphotic_whisper",
@@ -9075,16 +7805,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "充能",
         "skill": "轻巧手雷",
-        "types": [
-            "蓄力",
-            "攻击3个目标",
-            "3个目标致盲",
-            "3个目标未命中时随机施加队友减益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2023-05-31",
         "specialId": "light_grenades",
@@ -9152,17 +7872,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "双连枷乱斗",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害",
-            "全体恶魔免疫"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "反制恶魔",
-            "提供免疫",
-            "狙击手"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2022-12-01",
         "specialId": "double_flail_mayhem",
@@ -9222,17 +7931,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "飞速",
         "skill": "疾影冲刺",
-        "types": [
-            "攻击3个目标",
-            "3个目标最大生命值降低",
-            "3个目标致盲"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "状态效果转换",
-            "攻击减益",
-            "最大生命削减"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-09-17",
         "specialId": "zooming_lunge",
@@ -9305,14 +8003,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "神圣反射",
-        "types": [
-            "3个目标反击",
-            "3个目标受到伤害降低"
-        ],
-        "skill_types": [
-            "伤害减免",
-            "反击"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-07-07",
         "specialId": "divine_reflection",
@@ -9366,16 +8056,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "神圣反射",
-        "types": [
-            "3个目标反击",
-            "3个目标受到伤害降低"
-        ],
-        "skill_types": [
-            "反击",
-            "伤害减免",
-            "生命强化",
-            "净化"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-12-10",
         "specialId": "sacred_reflection",
@@ -9436,18 +8116,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "香料牛奶昏睡",
-        "types": [
-            "全体治疗",
-            "治疗成长恩赐",
-            "净化全体",
-            "全体深度睡眠"
-        ],
-        "skill_types": [
-            "治疗",
-            "净化",
-            "特殊治疗",
-            "沉睡"
-        ],
         "source": "神殿召唤",
         "Release date": "2026-03-24",
         "specialId": "thandai_trance",
@@ -9511,18 +8179,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "欢乐噪音",
-        "types": [
-            "攻击所有目标",
-            "全体治疗",
-            "小兵创伤",
-            "全体法力生成增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "特殊治疗",
-            "最大生命削减",
-            "法力生成增益"
-        ],
         "source": "挑战节 II",
         "Release date": "2025-01-16",
         "specialId": "joyful_noise",
@@ -9589,16 +8245,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "波波闪电",
-        "types": [
-            "攻击所有目标",
-            "单体防御降低",
-            "单体攻击降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "防御减益"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-06-10",
         "specialId": "bobo_blitz",
@@ -9652,16 +8298,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "噬债之触",
-        "types": [
-            "攻击所有目标",
-            "全体法力偷取",
-            "全体粘性表面增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力削减或格挡",
-            "增益窃取者"
-        ],
         "source": "超级元素人",
         "Release date": "2025-12-21",
         "specialId": "debt_drain_boboosang",
@@ -9726,16 +8362,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "阴阳眼",
-        "types": [
-            "攻击单个目标",
-            "单体防御降低",
-            "单体转移型莽夫乱拳"
-        ],
-        "skill_types": [
-            "防御减益",
-            "失心攻击&治疗",
-            "狙击手"
-        ],
         "source": "挑战节 II",
         "Release date": "2022-11-03",
         "specialId": "spectral_visions",
@@ -9795,17 +8421,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "石化指虎",
-        "types": [
-            "攻击3个目标",
-            "3个目标狂乱",
-            "自身石化皮肤",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "伤害减免",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2025-03-06",
         "specialId": "petrifying_knuckles",
@@ -9864,16 +8479,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "舒缓旋律",
-        "types": [
-            "持盾守卫超级小兵",
-            "净化小兵",
-            "全体沉睡"
-        ],
-        "skill_types": [
-            "召唤巨型小兵",
-            "沉睡",
-            "净化"
-        ],
         "source": "哥布林召唤",
         "Release date": "2024-05-13",
         "specialId": "soothing_melody",
@@ -9937,20 +8542,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "魔法",
         "skill": "机械强化",
-        "types": [
-            "全体强化治疗",
-            "全体特殊技能防御增益",
-            "全体最大生命值降低",
-            "全体特殊技能防御降低"
-        ],
-        "skill_types": [
-            "防御增益",
-            "防御减益",
-            "生命强化",
-            "最大生命削减",
-            "叠加",
-            "法力削减或格挡"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2023-05-03",
         "specialId": "mechanical_augmentations",
@@ -10019,23 +8610,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "魔法",
         "skill": "花卉布置",
-        "types": [
-            "全体强化治疗",
-            "全体特殊技能防御增益",
-            "全体最大生命值降低",
-            "全体特殊技能防御降低",
-            "全体治疗降低"
-        ],
-        "skill_types": [
-            "反制小兵",
-            "防御增益",
-            "防御减益",
-            "生命强化",
-            "最大生命削减",
-            "叠加",
-            "法力削减或格挡",
-            "治疗削减"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-10-19",
         "specialId": "flower_arrangements",
@@ -10111,18 +8685,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "慢",
         "skill": "万众归心",
-        "types": [
-            "攻击所有目标",
-            "召唤所有",
-            "小怪命中时触发驱散",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御增益",
-            "驱散",
-            "召唤小兵"
-        ],
         "source": "三国召唤",
         "Release date": "2022-07-18",
         "specialId": "order_to_overwhelm",
@@ -10182,18 +8744,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "慢",
         "skill": "寒冰号令",
-        "types": [
-            "攻击所有目标",
-            "召唤所有",
-            "小怪命中时触发驱散",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "召唤小兵",
-            "驱散",
-            "防御增益"
-        ],
         "source": "三国召唤",
         "Release date": "2024-08-02",
         "specialId": "ice_cold_order",
@@ -10262,23 +8812,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "不谐魔咒",
-        "types": [
-            "施加恐惧减益 (单体)",
-            "攻击单个目标",
-            "随机攻击5个目标",
-            "命中时疯狂",
-            "命中时封印天赋技能",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "狙击手",
-            "防御减益",
-            "驱散",
-            "增益格挡者",
-            "失心攻击&治疗",
-            "连锁与随机攻击",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2026-02-24",
         "specialId": "discordant_incantation",
@@ -10360,20 +8893,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "杀手",
         "skill": "突破者之刃",
-        "types": [
-            "攻击单个目标",
-            "无视防御几率",
-            "自我法力生成增益叠加",
-            "自我持续治疗叠加"
-        ],
-        "skill_types": [
-            "绕过",
-            "特殊治疗",
-            "狙击手",
-            "叠加",
-            "法力生成增益",
-            "持续治疗"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-08-05",
         "specialId": "breaker_blade",
@@ -10437,14 +8956,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "召唤石魔像",
-        "types": [
-            "召唤所有",
-            "石肤小兵"
-        ],
-        "skill_types": [
-            "召唤小兵",
-            "伤害减免"
-        ],
         "source": "挑战 - 众神狂欢节",
         "Release date": "2023-07-13",
         "specialId": "summon_rock_golems",
@@ -10503,16 +9014,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "月光奏鸣曲",
-        "types": [
-            "攻击3个目标",
-            "3个目标净化免疫",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "净化格挡者",
-            "防御减益"
-        ],
         "source": "挑战节 II",
         "Release date": "2023-06-15",
         "specialId": "moonlight_sonata",
@@ -10570,20 +9071,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "潮汐",
         "skill": "潮汐漩涡",
-        "types": [
-            "攻击所有目标",
-            "使用特技时对全体施加减益",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "防御减益",
-            "持续伤害",
-            "特殊治疗",
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2023-07-05",
         "specialId": "tidal_vortex",
@@ -10657,20 +9144,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "潮汐",
         "skill": "海洋漩涡",
-        "types": [
-            "攻击所有目标",
-            "使用特技时对全体施加减益",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "狙击手",
-            "全体攻击 (打5)",
-            "攻击减益",
-            "防御减益",
-            "法力削减或格挡",
-            "持续伤害",
-            "特殊治疗"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2025-03-03",
         "specialId": "ocean_vortex",
@@ -10748,16 +9221,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "月神吊坠",
-        "types": [
-            "攻击所有目标",
-            "阻挡状态效果施放 (全体)",
-            "全体特殊技能防御增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御增益",
-            "状态效果格挡"
-        ],
         "source": "三国召唤",
         "Release date": "2023-12-04",
         "specialId": "lunar_locket",
@@ -10821,16 +9284,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "恐怖哀号",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "3个目标沉默者"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "沉默"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "2024-09-23",
         "specialId": "horrifying_wail",
@@ -10889,20 +9342,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "飞速",
         "skill": "突变混合剂",
-        "types": [
-            "持续伤害",
-            "驱散者",
-            "持续治疗"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "额外伤害",
-            "驱散",
-            "持续治疗",
-            "生命强化",
-            "闪避",
-            "反制小兵"
-        ],
         "source": "联盟 - 飞蛾",
         "Release date": "2025-06-25",
         "specialId": "mutating_mixture",
@@ -10975,19 +9414,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "复苏恩赐",
-        "types": [
-            "全体治疗",
-            "治疗成长恩赐",
-            "复活者",
-            "全体净化最新受到的异常状态"
-        ],
-        "skill_types": [
-            "净化",
-            "治疗",
-            "复活",
-            "属性修改",
-            "特殊治疗"
-        ],
         "source": "神殿召唤",
         "Release date": "2025-06-16",
         "specialId": "gift_of_rejuvenation",
@@ -11051,16 +9477,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "铁律如山",
-        "types": [
-            "攻击所有目标",
-            "长枪守卫超级小兵",
-            "驱散小怪"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "召唤巨型小兵",
-            "驱散"
-        ],
         "source": "哥布林召唤",
         "Release date": "2025-05-27",
         "specialId": "strict_standards",
@@ -11124,16 +9540,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "冰冻寒风",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害",
-            "全体元素防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御减益",
-            "持续伤害"
-        ],
         "source": "挑战节 II",
         "Release date": "2023-02-23",
         "specialId": "frozen_wind",
@@ -11194,15 +9600,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "受咒者之力",
-        "types": [
-            "全体治疗",
-            "全体净化"
-        ],
-        "skill_types": [
-            "治疗",
-            "净化",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2025-04-01",
         "specialId": "strength_of_the_accursed",
@@ -11262,17 +9659,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "充能",
         "skill": "剑雨",
-        "types": [
-            "蓄力",
-            "攻击 (1/3/所有) 目标",
-            "无视防御几率"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "全体攻击 (打5)",
-            "绕过",
-            "狙击手"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "specialId": "katana_rain",
@@ -11331,13 +9717,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "充能",
         "skill": "刀剑风暴",
-        "types": [
-            "蓄力",
-            "攻击 (1/3/所有) 目标",
-            "无视防御几率",
-            "绕过/穿透时自身法力提升"
-        ],
-        "skill_types": [],
         "source": "高塔 - 忍者",
         "Release date": "2026-05-03",
         "specialId": "katana_tempest",
@@ -11395,18 +9774,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "星座碾压",
-        "types": [
-            "攻击所有目标",
-            "全体驱散",
-            "全体净化"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "净化",
-            "驱散",
-            "绕过",
-            "伤害分摊"
-        ],
         "source": "星体召唤",
         "Release date": "2024-10-14",
         "specialId": "constellation_crush",
@@ -11471,20 +9838,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "冰冻结晶",
-        "types": [
-            "攻击所有目标",
-            "全体增益持续时间缩短",
-            "全体持续伤害",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "持续伤害",
-            "效果持续重置",
-            "额外伤害",
-            "反制小兵"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-02-11",
         "specialId": "freezing_crystal",
@@ -11545,18 +9898,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "滋养之水",
-        "types": [
-            "持续治疗",
-            "防御增益",
-            "法力生成增益"
-        ],
-        "skill_types": [
-            "生命强化",
-            "防御增益",
-            "法力生成增益",
-            "持续治疗",
-            "持续伤害"
-        ],
         "source": "月活动 - 海滩派对",
         "Release date": "2024-06-03",
         "specialId": "waters_of_nourishment",
@@ -11616,17 +9957,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "正义复仇",
-        "types": [
-            "谦逊",
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "3个目标反击"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "反击"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2025-12-19",
         "specialId": "righteous_revenge",
@@ -11697,17 +10027,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "冰封碎击",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "3个目标攻击增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "反制小兵",
-            "攻击增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2026-02-01",
         "specialId": "frostbound_smash",
@@ -11773,21 +10092,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "野蛮吞噬",
-        "types": [
-            "攻击单个目标",
-            "单体扩散型持续伤害",
-            "宝箱怪"
-        ],
-        "skill_types": [
-            "特殊治疗",
-            "反制小兵",
-            "狙击手",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形态与隐藏",
-            "绕过",
-            "持续伤害"
-        ],
         "source": "市集召唤",
         "Release date": "2025-09-30",
         "specialId": "savage_gobble_blue",
@@ -11867,20 +10171,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "无尽迷宫",
-        "types": [
-            "单体完全移除",
-            "单体深渊幽灵",
-            "单体幽灵期间持续伤害",
-            "幽灵结束后攻击全体并施加疯狂",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "狙击手",
-            "鬼魂形态与隐藏",
-            "持续伤害",
-            "对自身或友军负面效果",
-            "全体攻击 (打5)"
-        ],
         "source": "暗影召唤",
         "Release date": "2025-10-24",
         "specialId": "endless_maze",
@@ -11956,17 +10246,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "弑魔者",
-        "types": [
-            "摧毁所有恶魔",
-            "全体强化治疗",
-            "恶魔免疫"
-        ],
-        "skill_types": [
-            "反制恶魔",
-            "治疗",
-            "提供免疫",
-            "生命强化"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2021-10-13",
         "specialId": "fiendslayer",
@@ -12024,13 +10303,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "极度痛苦",
-        "types": [
-            "除冰属性外全体持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "额外伤害"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-12-30",
         "specialId": "saturated_suffering",
@@ -12092,14 +10364,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "深渊苦痛",
-        "types": [
-            "除冰属性外全体持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "额外伤害",
-            "攻击增益"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2024-09-26",
         "specialId": "oceanic_suffering",
@@ -12166,20 +10430,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "贪婪吞噬",
-        "types": [
-            "摧毁单个目标的小兵",
-            "攻击单个目标",
-            "宝箱怪"
-        ],
-        "skill_types": [
-            "特殊治疗",
-            "反制小兵",
-            "狙击手",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形态与隐藏",
-            "绕过"
-        ],
         "source": "市集召唤",
         "Release date": "2025-05-03",
         "specialId": "mimic_training_hero_blue_bite",
@@ -12255,17 +10505,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "巨口撕咬",
-        "types": [
-            "攻击单个目标",
-            "击杀时自身法力提升",
-            "自我治疗"
-        ],
-        "skill_types": [
-            "法力提升",
-            "狙击手",
-            "额外伤害",
-            "特殊治疗"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2020-02-27",
         "specialId": "gargantuan_bite",
@@ -12321,17 +10560,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "巨口撕咬",
-        "types": [
-            "攻击单个目标",
-            "自我治疗",
-            "击杀时自身法力提升"
-        ],
-        "skill_types": [
-            "特殊治疗",
-            "法力提升",
-            "狙击手",
-            "额外伤害"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2023-04-10",
         "specialId": "colossal_bite",
@@ -12389,12 +10617,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "卡通之咬",
-        "types": [
-            "攻击单个目标",
-            "击杀时自身法力提升",
-            "自我治疗"
-        ],
-        "skill_types": [],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2026-04-29",
         "specialId": "toontastic_bite",
@@ -12444,17 +10666,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "维护和平",
-        "types": [
-            "全体法力削减",
-            "全体法力生成降低",
-            "持剑守卫超级小兵",
-            "传播持续伤害的小怪"
-        ],
-        "skill_types": [
-            "法力削减或格挡",
-            "召唤巨型小兵",
-            "持续伤害"
-        ],
         "source": "哥布林召唤",
         "Release date": "2024-12-09",
         "specialId": "keep_the_peace",
@@ -12523,16 +10734,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "海军复仇",
-        "types": [
-            "攻击单个目标",
-            "连锁攻击",
-            "命中时防御减益"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "防御减益",
-            "狙击手"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "commodores_revenge",
@@ -12586,17 +10787,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "海军的怨怒",
-        "types": [
-            "攻击单个目标",
-            "连锁攻击",
-            "命中时防御减益"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "防御减益",
-            "狙击手",
-            "持续伤害"
-        ],
         "source": "挑战节 I",
         "Release date": "2022-04-14",
         "specialId": "commodores_malice",
@@ -12656,17 +10846,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "飞速",
         "skill": "权威之音",
-        "types": [
-            "攻击所有目标",
-            "全体攻击增益叠加",
-            "全体防御增益叠加"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "叠加",
-            "攻击增益",
-            "防御增益"
-        ],
         "source": "挑战 - 歌剧之谜",
         "Release date": "2023-11-30",
         "specialId": "voice_of_authority",
@@ -12726,17 +10905,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "幽暗协奏曲",
-        "types": [
-            "攻击所有目标",
-            "全体攻击衰减",
-            "全体防御衰减",
-            "全体法力生成降低"
-        ],
-        "skill_types": [
-            "属性修改",
-            "全体攻击 (打5)",
-            "法力削减或格挡"
-        ],
         "source": "哥布林召唤",
         "Release date": "2023-11-13",
         "specialId": "shady_concerto",
@@ -12797,19 +10965,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "霉运缠身",
-        "types": [
-            "全体驱散",
-            "攻击所有目标",
-            "召唤所有恶魔",
-            "攻击降低恶魔"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "驱散",
-            "召唤恶魔",
-            "持续伤害"
-        ],
         "source": "挑战 - 众神狂欢节",
         "Release date": "2022-11-22",
         "specialId": "bad_fortune",
@@ -12878,17 +11033,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "极地怒击",
-        "types": [
-            "攻击3个目标",
-            "3个目标元素防御降低",
-            "驱散3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "驱散",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2019-03-01",
         "specialId": "polar_bash",
@@ -12951,16 +11095,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "冷血命令",
-        "types": [
-            "召唤所有",
-            "全体小兵生命提升",
-            "全体小兵攻击提升"
-        ],
-        "skill_types": [
-            "法力提升",
-            "小兵强化",
-            "召唤小兵"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2021-04-01",
         "specialId": "cold_command",
@@ -13015,16 +11149,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "士气高昂",
-        "types": [
-            "攻击3个目标",
-            "减少3个目标状态异常持续时间",
-            "3个目标暴击几率增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "效果持续重置",
-            "攻击增益"
-        ],
         "source": "哥布林召唤",
         "Release date": "2025-01-17",
         "specialId": "raising_morale",
@@ -13088,17 +11212,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "驱魔大师",
-        "types": [
-            "攻击单个目标",
-            "全体魔仆伤害免疫",
-            "全体恶魔免疫"
-        ],
-        "skill_types": [
-            "反制恶魔",
-            "提供免疫",
-            "狙击手",
-            "伤害减免"
-        ],
         "source": "挑战 - 石像鬼",
         "Release date": "2021-11-24",
         "specialId": "educated_exorcism",
@@ -13155,17 +11268,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "星体构建",
-        "types": [
-            "攻击3个目标",
-            "召唤3个恶魔",
-            "偷取3个目标法力"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "召唤恶魔",
-            "法力提升",
-            "法力削减或格挡"
-        ],
         "source": "盟约召唤",
         "Release date": "2023-09-21",
         "specialId": "star_construct",
@@ -13233,16 +11335,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "食人鱼事故",
-        "types": [
-            "全体持续伤害",
-            "召唤所有恶魔",
-            "全体延迟攻击"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "召唤恶魔",
-            "额外伤害"
-        ],
         "source": "荒野召唤",
         "Release date": "2026-01-20",
         "specialId": "the_piranha_incident",
@@ -13315,18 +11407,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "冰魂之怒",
-        "types": [
-            "攻击所有目标",
-            "全体防御降低",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御减益",
-            "持续伤害",
-            "召唤小兵",
-            "反制小兵"
-        ],
         "source": "盟约召唤",
         "Release date": "2025-10-03",
         "specialId": "wrath_of_frozen_soul",
@@ -13392,16 +11472,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "猎人本能",
-        "types": [
-            "攻击单个目标",
-            "闪避时叠加"
-        ],
-        "skill_types": [
-            "绕过",
-            "额外伤害",
-            "狙击手",
-            "叠加"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2024-02-01",
         "specialId": "hunters_instinct",
@@ -13466,17 +11536,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "午夜魔法",
-        "types": [
-            "攻击3个目标",
-            "3个目标特技伤害提升增益",
-            "全体净化"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击增益",
-            "净化",
-            "召唤小兵"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2020-11-01",
         "specialId": "midnight_magic",
@@ -13539,19 +11598,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "粘稠玫瑰",
-        "types": [
-            "偷取单个目标的超级小兵/小兵",
-            "攻击单个目标",
-            "阻挡状态效果施放 (单体)",
-            "对单个目标施放吞噬粘物"
-        ],
-        "skill_types": [
-            "反制小兵",
-            "狙击手",
-            "增益格挡者",
-            "驱散",
-            "持续伤害"
-        ],
         "source": "超级元素人",
         "Release date": "2025-07-31",
         "specialId": "gooey_rose",
@@ -13623,17 +11669,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "山之英灵",
-        "types": [
-            "全体治疗",
-            "全体攻击力成长",
-            "全体防御力成长",
-            "全体法力生成增益"
-        ],
-        "skill_types": [
-            "属性修改",
-            "治疗",
-            "法力生成增益"
-        ],
         "source": "哥布林召唤",
         "Release date": "2024-02-19",
         "specialId": "spirits_of_the_mountain",
@@ -13694,14 +11729,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "野蛮支援",
-        "types": [
-            "盟友释放特殊技能时攻击全体",
-            "全体法力生成增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力生成增益"
-        ],
         "source": "挑战节 I",
         "Release date": "2023-01-26",
         "specialId": "brutal_support",
@@ -13753,19 +11780,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "灵魂守卫",
-        "types": [
-            "嘲讽",
-            "自身随机反击",
-            "自身伤害减免增益",
-            "自身状态异常免疫"
-        ],
-        "skill_types": [
-            "嘲讽",
-            "反击",
-            "伤害减免",
-            "提供免疫",
-            "反制小兵"
-        ],
         "source": "盟约召唤",
         "Release date": "2025-11-13",
         "specialId": "soul_guardian",
@@ -13829,14 +11843,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "骇人溺亡",
-        "types": [
-            "全体驱散",
-            "攻击单个目标",
-            "单体持续伤害",
-            "自身全效果移除",
-            "自身变为复仇幽灵"
-        ],
-        "skill_types": [],
         "source": "三国召唤",
         "Release date": "2026-05-21",
         "specialId": "ghastly_drowning",
@@ -13887,16 +11893,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "乱目谜语",
-        "types": [
-            "全体治疗",
-            "全体元素防御增益",
-            "全体致盲"
-        ],
-        "skill_types": [
-            "防御增益",
-            "攻击减益",
-            "治疗"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2023-02-16",
         "specialId": "bewildering_riddle",
@@ -13960,17 +11956,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "逗趣谜题",
-        "types": [
-            "全体治疗",
-            "全体元素防御增益",
-            "全体致盲"
-        ],
-        "skill_types": [
-            "治疗",
-            "防御增益",
-            "攻击减益",
-            "全体攻击 (打5)"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-03-04",
         "specialId": "relaxing_riddle",
@@ -14041,16 +12026,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "飞速",
         "skill": "热望之握",
-        "types": [
-            "单体驱散",
-            "攻击单个目标",
-            "3个目标受到特技伤害增加"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "驱散",
-            "狙击手"
-        ],
         "source": "月活动 - 恋爱季节",
         "Release date": "2023-02-14",
         "specialId": "grips_of_longing",
@@ -14112,22 +12087,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "冰川裂斩",
-        "types": [
-            "霜降打击 (3个目标)",
-            "3个目标最大生命值降低",
-            "3个目标治疗降低"
-        ],
-        "skill_types": [
-            "狙击手",
-            "最大生命削减",
-            "治疗削减",
-            "额外伤害",
-            "绕过",
-            "持续伤害",
-            "攻击减益",
-            "额外伤害",
-            "反制小兵"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2025-04-14",
         "specialId": "glacial_fissure_cleave",
@@ -14195,19 +12154,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "国王的盛宴",
-        "types": [
-            "攻击所有目标",
-            "全体法力削减",
-            "全体法力生成降低",
-            "随机1个增益来源"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力削减或格挡",
-            "绕过",
-            "攻击增益",
-            "防御增益"
-        ],
         "source": "挑战 - 贝奥武夫",
         "Release date": "2024-11-25",
         "specialId": "kings_feast",
@@ -14278,15 +12224,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "尤格西尔之眼",
-        "types": [
-            "嘲讽",
-            "命中时施加全体疯狂",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "嘲讽",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2025-06-10",
         "specialId": "eye_of_yog-sir",
@@ -14340,19 +12277,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "惩戒烙印",
-        "types": [
-            "攻击所有目标",
-            "全体伤害增加叠加",
-            "全体法力生成增益 (叠加)"
-        ],
-        "skill_types": [
-            "召唤恶魔",
-            "全体攻击 (打5)",
-            "额外伤害",
-            "防御减益",
-            "法力生成增益",
-            "叠加"
-        ],
         "source": "挑战 - 英勇植物召唤",
         "Release date": "2026-02-04",
         "specialId": "brand_of_reckoning",
@@ -14428,16 +12352,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "力量抹除",
-        "types": [
-            "攻击3个目标",
-            "驱散3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "驱散",
-            "额外伤害",
-            "攻击增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2022-02-01",
         "specialId": "erase_strength",
@@ -14502,14 +12416,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "冰川碎裂",
-        "types": [
-            "攻击所有目标",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御减益"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "glacial_shatter",
@@ -14561,14 +12467,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "冰川爆裂",
-        "types": [
-            "攻击所有目标",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御减益"
-        ],
         "source": "服装间",
         "Release date": "2020-01-01",
         "specialId": "glacial_explosion",
@@ -14622,15 +12520,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "冰川漩涡",
-        "types": [
-            "攻击所有目标",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2022-09-05",
         "specialId": "glacial_vortex",
@@ -14690,15 +12579,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "卡通碎裂",
-        "types": [
-            "攻击所有目标",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御减益",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-05-06",
         "specialId": "adorable_shatter",
@@ -14762,16 +12642,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "玻璃碎片",
-        "types": [
-            "攻击所有目标",
-            "无视防御",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "绕过",
-            "防御减益"
-        ],
         "source": "服装间",
         "Release date": "2025-06-18",
         "specialId": "glass_shatter",
@@ -14835,20 +12705,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "行星冲锋",
-        "types": [
-            "攻击单个目标",
-            "连锁攻击",
-            "增伤减益",
-            "衰退"
-        ],
-        "skill_types": [
-            "狙击手",
-            "连锁与随机攻击",
-            "额外伤害",
-            "属性修改",
-            "反制小兵",
-            "绕过"
-        ],
         "source": "星体召唤",
         "Release date": "2025-03-27",
         "specialId": "planetary_charge",
@@ -14912,18 +12768,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "飞速",
         "skill": "连环闪电",
-        "types": [
-            "攻击单个目标",
-            "连锁攻击",
-            "全体致盲",
-            "全体冰属性攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "连锁与随机攻击",
-            "攻击减益",
-            "狙击手"
-        ],
         "source": "超级元素人",
         "Release date": "2024-01-29",
         "specialId": "chain_lightning",
@@ -14991,17 +12835,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "护身魔符",
-        "types": [
-            "全体强化闪避",
-            "召唤者",
-            "小兵状态异常免疫"
-        ],
-        "skill_types": [
-            "闪避",
-            "提供免疫",
-            "召唤小兵",
-            "反制小兵"
-        ],
         "source": "荒野召唤",
         "Release date": "2025-05-20",
         "specialId": "charm_of_protection",
@@ -15064,16 +12897,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "爱情大炮",
-        "types": [
-            "攻击单个目标",
-            "随机攻击3个目标",
-            "命中时失心治疗"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "失心攻击&治疗",
-            "狙击手"
-        ],
         "source": "月活动 - 恋爱季节",
         "Release date": "2024-01-08",
         "specialId": "tough_love",
@@ -15133,16 +12956,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "永恒之爱",
-        "types": [
-            "攻击所有目标",
-            "4个目标狂爱之舞"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "舞者",
-            "法力生成增益",
-            "伤害减免"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2026-02-10",
         "specialId": "eternal_ishq",
@@ -15217,16 +13030,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "诡异菜品",
-        "types": [
-            "赌徒"
-        ],
-        "skill_types": [
-            "属性修改",
-            "全体攻击 (打5)",
-            "持续伤害",
-            "治疗",
-            "对自身或友军负面效果"
-        ],
         "source": "哥布林召唤",
         "Release date": "2023-09-18",
         "specialId": "dubious_cuisine",
@@ -15303,18 +13106,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "亚瑟王神剑",
-        "types": [
-            "攻击单个目标",
-            "单体攻击降低",
-            "单体属性防御减益",
-            "自身特技防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "攻击减益",
-            "防御减益",
-            "狙击手"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "excalibur",
@@ -15374,16 +13165,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "冰雹风暴",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "特殊治疗",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2022-07-01",
         "specialId": "hailstorm",
@@ -15448,18 +13229,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "幸灾乐祸",
-        "types": [
-            "召唤所有",
-            "嘲讽",
-            "自我防御增益",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "防御增益",
-            "召唤小兵",
-            "嘲讽"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2020-12-01",
         "specialId": "scourge_of_joy",
@@ -15515,18 +13284,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "愉悦痛苦",
-        "types": [
-            "召唤所有",
-            "嘲讽",
-            "自我防御增益",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "防御增益",
-            "召唤小兵",
-            "嘲讽"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2021-12-01",
         "specialId": "merriest_misery",
@@ -15588,15 +13345,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "路边惊喜",
-        "types": [
-            "攻击所有目标",
-            "自身伏击"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "鬼魂形态与隐藏",
-            "额外伤害"
-        ],
         "source": "黑色星期五召唤",
         "Release date": "2025-11-24",
         "specialId": "roadside_surprise",
@@ -15664,16 +13412,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "飞速",
         "skill": "霜华之心",
-        "types": [
-            "全体移除最新增益",
-            "攻击所有目标",
-            "全体生命值加成转化"
-        ],
-        "skill_types": [
-            "驱散",
-            "全体攻击 (打5)",
-            "最大生命削减"
-        ],
         "source": "月活动 - 恋爱季节",
         "Release date": "2026-01-19",
         "specialId": "rime_heart",
@@ -15735,19 +13473,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "追踪射击",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害",
-            "单个目标承受的状态异常伤害增加",
-            "单个目标每次抵抗治疗时受到伤害"
-        ],
-        "skill_types": [
-            "狙击手",
-            "持续伤害",
-            "复活",
-            "治疗削减",
-            "额外伤害"
-        ],
         "source": "荒野召唤",
         "Release date": "2025-06-28",
         "specialId": "pursuing_shot",
@@ -15817,13 +13542,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "戏法师的灾祸",
-        "types": [
-            "复制单体特殊技能",
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "狙击手"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2020-12-24",
         "specialId": "tricksters_mischief",
@@ -15872,15 +13590,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "变形骗局",
-        "types": [
-            "复制单体增益",
-            "复制单体特殊技能",
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "增益窃取者",
-            "狙击手"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2023-05-08",
         "specialId": "shapeshifters_deception",
@@ -15933,18 +13642,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "珍馐盛宴",
-        "types": [
-            "全体治疗",
-            "全体强化治疗",
-            "全体恶魔免疫",
-            "全体净化"
-        ],
-        "skill_types": [
-            "治疗",
-            "生命强化",
-            "反制恶魔",
-            "净化"
-        ],
         "source": "月活动 - 血色盛宴",
         "Release date": "2025-10-08",
         "specialId": "exquisite_victuals",
@@ -16008,16 +13705,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "极地守卫",
-        "types": [
-            "攻击所有目标",
-            "全体攻击增益",
-            "友方伤害分担"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击增益",
-            "伤害分摊"
-        ],
         "source": "泰坦猎手召唤",
         "Release date": "2026-01-25",
         "specialId": "arctic_guard",
@@ -16081,17 +13768,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "蓝宝石之眼",
-        "types": [
-            "复活者",
-            "全体攻击增益",
-            "全体持续治疗"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "生命强化",
-            "复活",
-            "持续治疗"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2023-10-18",
         "specialId": "sapphire_eyes",
@@ -16152,17 +13828,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "黏液之球",
-        "types": [
-            "攻击所有目标",
-            "吞噬粘物"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "反制小兵",
-            "驱散",
-            "属性修改"
-        ],
         "source": "超级元素人",
         "Release date": "2025-04-25",
         "specialId": "slimy_balls",
@@ -16227,14 +13892,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "远古打击",
-        "types": [
-            "攻击单个目标",
-            "3个目标防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "strike_of_the_ancients",
@@ -16286,14 +13943,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "方碑打击",
-        "types": [
-            "攻击单个目标",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "防御减益",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2020-05-18",
         "specialId": "strike_of_the_monolith",
@@ -16347,14 +13996,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "冥界之击",
-        "types": [
-            "攻击3个目标",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益"
-        ],
         "source": "服装间",
         "Release date": "2022-10-31",
         "specialId": "strike_of_the_underworld",
@@ -16408,15 +14049,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "卡通之击",
-        "types": [
-            "攻击单个目标",
-            "3个目标防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "额外伤害",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2024-01-22",
         "specialId": "strike_of_the_toons",
@@ -16480,16 +14112,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "玻璃打击",
-        "types": [
-            "攻击单个目标",
-            "无视防御",
-            "3个目标防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "绕过",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2025-03-11",
         "specialId": "glass_strike_magni",
@@ -16553,15 +14175,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "英姿打击",
-        "types": [
-            "攻击单个目标",
-            "3个目标防御增益"
-        ],
-        "skill_types": [
-            "狙击手",
-            "额外伤害",
-            "防御增益"
-        ],
         "source": "服装间",
         "Release date": "2026-03-12",
         "specialId": "stylish_strike_magni",
@@ -16625,16 +14238,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "治疗之镜",
-        "types": [
-            "全体生命值加成",
-            "全体特技伤害降低（月升护壁）",
-            "全体净化"
-        ],
-        "skill_types": [
-            "生命强化",
-            "伤害减免",
-            "净化"
-        ],
         "source": "高塔 - 猫头鹰",
         "Release date": "2024-03-13",
         "specialId": "healing_mirror",
@@ -16696,13 +14299,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "全球赠礼",
-        "types": [
-            "全体治疗",
-            "每回合净化全体",
-            "全体闪避率增益",
-            "自身法力生成减益"
-        ],
-        "skill_types": [],
         "source": "月活动 - 春谷",
         "Release date": "2026-03-30",
         "specialId": "globetrotting_gifts",
@@ -16739,7 +14335,24 @@ window.allHeroes =
             "health": 2844,
             "power": 1566
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "治疗：即时"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防御-闪避"
+                ]
+            },
+            {
+                "负面效果": [
+                    "状态-净化状态异常",
+                    "状态-自我减益"
+                ]
+            }
+        ]
     },
     {
         "name": "天兔大师 (Master Lepus)",
@@ -16749,14 +14362,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "暴躁终结者",
-        "types": [
-            "攻击3个目标",
-            "自身防御减益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "对自身或友军负面效果"
-        ],
         "source": "月活动 - 春谷",
         "Release date": "",
         "specialId": "reckless_finisher",
@@ -16808,14 +14413,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "裂隙之刃",
-        "types": [
-            "攻击所有目标",
-            "自身法力生成减益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "对自身或友军负面效果"
-        ],
         "source": "月活动 - 春谷",
         "Release date": "2022-03-21",
         "specialId": "rift_blade",
@@ -16873,16 +14470,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "异端杀手",
-        "types": [
-            "攻击单个目标",
-            "3个目标攻击降低"
-        ],
-        "skill_types": [
-            "攻击减益",
-            "狙击手",
-            "范围攻击 (打3)",
-            "伤害减免"
-        ],
         "source": "挑战 - 石像鬼",
         "Release date": "2022-12-29",
         "specialId": "heretic_slayer",
@@ -16944,17 +14531,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "冰冻仙雾",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "3个目标增益免疫"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "增益格挡者",
-            "攻击增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2024-11-01",
         "specialId": "freezing_fairy_mist",
@@ -17016,15 +14592,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "苔原之怒",
-        "types": [
-            "全体对泰坦攻击增益",
-            "3个目标沉默者"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "法力生成增益",
-            "沉默"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2019-08-01",
         "specialId": "wrath_of_tundra",
@@ -17081,17 +14648,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "娴熟操纵",
-        "types": [
-            "攻击所有目标",
-            "自身持续治疗",
-            "全体反射增益",
-            "全体反射状态异常"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续治疗",
-            "反射"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2023-03-08",
         "specialId": "masterful_manipulation",
@@ -17159,18 +14715,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "驯化操纵",
-        "types": [
-            "攻击所有目标",
-            "自身生命值加成持续治疗",
-            "全体反射增益",
-            "全体反射状态异常"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续治疗",
-            "生命强化",
-            "反射"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2026-03-15",
         "specialId": "cultivated_manipulation",
@@ -17242,20 +14786,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "魔法",
         "skill": "生灭并济",
-        "types": [
-            "蓄力",
-            "全体治疗",
-            "全体净化",
-            "攻击所有目标",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "净化",
-            "驱散",
-            "治疗",
-            "法力提升"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "specialId": "restoration_and_annihilation",
@@ -17322,22 +14852,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "魔法",
         "skill": "保存和冷冻",
-        "types": [
-            "蓄力",
-            "全体治疗",
-            "全体净化",
-            "攻击所有目标",
-            "全体持续伤害",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "净化",
-            "驱散",
-            "治疗",
-            "法力提升"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-04-17",
         "specialId": "preserve_and_freeze",
@@ -17412,18 +14926,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "萌猫来袭",
-        "types": [
-            "召唤3个小兵",
-            "治疗小兵",
-            "净化小兵",
-            "3个目标攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "净化",
-            "持续治疗",
-            "召唤小兵"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "2022-10-03",
         "specialId": "litter_of_kittens",
@@ -17482,16 +14984,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "锁链袭击",
-        "types": [
-            "攻击单个目标",
-            "可能的额外攻击",
-            "命中时全体法力提升"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "法力提升",
-            "狙击手"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "chain_strike",
@@ -17545,16 +15037,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "葫芦鼓连击",
-        "types": [
-            "攻击单个目标",
-            "可能的额外攻击",
-            "命中时施加失心攻击"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "失心攻击&治疗",
-            "狙击手"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2023-01-09",
         "specialId": "drum_chain",
@@ -17610,12 +15092,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "卡通链条",
-        "types": [
-            "攻击单个目标",
-            "可能的额外攻击",
-            "命中时全体法力提升"
-        ],
-        "skill_types": [],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toon_chain",
@@ -17664,16 +15140,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "哞哞待战",
-        "types": [
-            "攻击单个目标",
-            "连锁攻击",
-            "自身法力生成减益"
-        ],
-        "skill_types": [
-            "狙击手",
-            "连锁与随机攻击",
-            "对自身或友军负面效果"
-        ],
         "source": "月活动 - 春谷",
         "Release date": "2024-03-18",
         "specialId": "mooing_for_a_fight",
@@ -17727,15 +15193,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "消减竞争",
-        "types": [
-            "攻击所有目标",
-            "全体治疗"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害",
-            "特殊治疗"
-        ],
         "source": "神话召唤",
         "Release date": "2024-05-03",
         "specialId": "cut_down_the_competition",
@@ -17799,17 +15256,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "海星爆破",
-        "types": [
-            "全体强化治疗",
-            "全体最大生命值降低",
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "生命强化",
-            "最大生命削减",
-            "持续伤害"
-        ],
         "source": "月活动 - 海滩派对",
         "Release date": "2023-06-12",
         "specialId": "seastar_burst",
@@ -17869,18 +15315,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "凛冽反击",
-        "types": [
-            "3个目标反击",
-            "全体攻击叠加",
-            "随机1个增益来源"
-        ],
-        "skill_types": [
-            "反击",
-            "法力削减或格挡",
-            "攻击增益",
-            "法力生成增益",
-            "叠加"
-        ],
         "source": "挑战 - 贝奥武夫",
         "Release date": "2025-02-13",
         "specialId": "chilling_counterattack",
@@ -17948,20 +15382,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "星体没药",
-        "types": [
-            "全体治疗",
-            "敌方释放特殊技能时全体获得法力",
-            "全体治疗偷取",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "治疗",
-            "法力提升",
-            "特殊治疗",
-            "攻击减益",
-            "治疗削减",
-            "伤害分摊"
-        ],
         "source": "星体召唤",
         "Release date": "2024-08-19",
         "specialId": "astral_myrrh",
@@ -18027,14 +15447,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "索命阔剑",
-        "types": [
-            "攻击所有目标",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御减益"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-06-17",
         "specialId": "deathly_glaive",
@@ -18090,18 +15502,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "海星之杖",
-        "types": [
-            "攻击所有目标",
-            "全体防御降低",
-            "全体持续治疗"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御减益",
-            "持续治疗",
-            "额外伤害",
-            "攻击增益"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2023-07-20",
         "specialId": "staff_of_the_seastar",
@@ -18164,17 +15564,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "鲱鱼爆破",
-        "types": [
-            "攻击单个目标",
-            "随机攻击",
-            "命中时触发持续伤害",
-            "召唤3个小兵"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "狙击手",
-            "召唤小兵"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2021-12-01",
         "specialId": "herring_blaster",
@@ -18235,18 +15624,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "鲱鱼惊喜",
-        "types": [
-            "攻击单个目标",
-            "随机攻击",
-            "持续伤害",
-            "召唤3个小兵"
-        ],
-        "skill_types": [
-            "狙击手",
-            "连锁与随机攻击",
-            "持续伤害",
-            "召唤小兵"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2024-12-01",
         "specialId": "herring_surprise",
@@ -18313,19 +15690,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "探路指南针",
-        "types": [
-            "全体治疗",
-            "附近目标法力提升",
-            "附近目标法力生成增益",
-            "3个目标暴击几率增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "治疗",
-            "法力生成增益",
-            "法力提升",
-            "生命强化"
-        ],
         "source": "盟约召唤",
         "Release date": "2024-02-08",
         "specialId": "pathfinders_compass",
@@ -18389,18 +15753,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "无尽匕首",
-        "types": [
-            "攻击单个目标",
-            "击杀时自身法力增加",
-            "自身攻击增益叠加"
-        ],
-        "skill_types": [
-            "狙击手",
-            "绕过",
-            "法力提升",
-            "叠加",
-            "攻击增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2025-10-01",
         "specialId": "endless_daggers",
@@ -18466,19 +15818,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "九喙之怒",
-        "types": [
-            "随机攻击 9 次",
-            "全体增益持续时间重置",
-            "全体重置状态异常",
-            "全体攻击增益",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "连锁与随机攻击",
-            "攻击减益",
-            "效果持续重置"
-        ],
         "source": "三国召唤",
         "Release date": "2023-06-19",
         "specialId": "wrath_of_the_nine_beaks",
@@ -18550,18 +15889,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "初始霜冻",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害",
-            "处于持续伤害状态时全体治疗",
-            "全体火属性特殊技能防御减益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "特殊治疗",
-            "防御减益"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2026-01-05",
         "specialId": "first_frost",
@@ -18623,15 +15950,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "寒冰切割",
-        "types": [
-            "单体元素交换",
-            "攻击单个目标",
-            "单体属性防御减益"
-        ],
-        "skill_types": [
-            "狙击手",
-            "防御减益"
-        ],
         "source": "超级元素人",
         "Release date": "2024-06-17",
         "specialId": "ice_and_slice",
@@ -18693,21 +16011,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "天鹅之舞",
-        "types": [
-            "自我持续治疗",
-            "自我闪避增益",
-            "天鹅之舞 (4个目标)",
-            "舞蹈期间闪避增益",
-            "舞蹈期间几率攻击单个目标",
-            "舞蹈期间状态效果免疫"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "舞者",
-            "闪避",
-            "持续治疗",
-            "提供免疫"
-        ],
         "source": "挑战 - 歌剧之谜",
         "Release date": "2023-06-20",
         "specialId": "dance_of_the_swan",
@@ -18783,17 +16086,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "充能",
         "skill": "不动堡垒",
-        "types": [
-            "蓄力",
-            "自身生命值加成治疗",
-            "嘲讽",
-            "自身反击"
-        ],
-        "skill_types": [
-            "反击",
-            "生命强化",
-            "嘲讽"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
         "specialId": "standing_fortress",
@@ -18857,17 +16149,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "月神之花",
-        "types": [
-            "全体治疗",
-            "全体攻击力成长",
-            "全体延迟生命值加成"
-        ],
-        "skill_types": [
-            "治疗",
-            "特殊治疗",
-            "属性修改",
-            "反制恶魔"
-        ],
         "source": "星体召唤",
         "Release date": "2025-07-02",
         "specialId": "lunar_bloom",
@@ -18928,17 +16209,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "北地重击",
-        "types": [
-            "攻击所有目标",
-            "自我持续治疗",
-            "全体特殊技能标记"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续治疗",
-            "叠加",
-            "额外伤害"
-        ],
         "source": "月活动 - 卡勒瓦拉",
         "Release date": "2024-07-22",
         "specialId": "boreal_bash",
@@ -18996,17 +16266,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "慷慨驰援",
-        "types": [
-            "全体治疗",
-            "全体持续治疗",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "持续治疗",
-            "治疗",
-            "特殊治疗"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-12-02",
         "specialId": "helping_hands",
@@ -19065,18 +16324,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "创意之手",
-        "types": [
-            "全体治疗",
-            "全体持续治疗",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "持续治疗",
-            "治疗",
-            "生命强化",
-            "特殊治疗"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2023-10-12",
         "specialId": "creative_hands",
@@ -19140,19 +16387,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "暮光黎明",
-        "types": [
-            "安全驱散1个目标",
-            "召唤1个暮光幼蛾超级恶魔"
-        ],
-        "skill_types": [
-            "狙击手",
-            "驱散",
-            "召唤恶魔",
-            "增益格挡者",
-            "持续伤害",
-            "闪避",
-            "反制小兵"
-        ],
         "source": "联盟 - 飞蛾",
         "Release date": "2025-02-20",
         "specialId": "dusk_till_dawn",
@@ -19221,17 +16455,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "永世之伤",
-        "types": [
-            "攻击单个目标",
-            "单体治疗降低",
-            "3个目标元素防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "治疗削减",
-            "法力生成增益",
-            "狙击手"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2017-12-01",
         "specialId": "everlasting_wound",
@@ -19290,18 +16513,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "极地创伤",
-        "types": [
-            "攻击3个目标",
-            "3个目标治疗降低",
-            "3个目标元素防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "治疗削减",
-            "法力生成增益",
-            "驱散"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2022-11-28",
         "specialId": "arctic_wound",
@@ -19362,17 +16573,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "一曲成名",
-        "types": [
-            "3个目标防御降低",
-            "攻击3个目标",
-            "2个目标软肤"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "伤害减免",
-            "提供免疫",
-            "防御减益"
-        ],
         "source": "挑战 - 石像鬼",
         "Release date": "2024-02-27",
         "specialId": "one_hit_wonder",
@@ -19439,19 +16639,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "火枪手蜂蜜酒",
-        "types": [
-            "攻击所有目标",
-            "改变棋盘",
-            "自我持续治疗"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "改变面板",
-            "攻击减益",
-            "攻击增益",
-            "额外伤害",
-            "持续治疗"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2022-12-14",
         "specialId": "musketeers_mead",
@@ -19511,20 +16698,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "火枪手的交易",
-        "types": [
-            "攻击所有目标",
-            "改变棋盘",
-            "自身生命值加成持续治疗"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "改变面板",
-            "攻击减益",
-            "攻击增益",
-            "额外伤害",
-            "持续治疗",
-            "生命强化"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2026-01-23",
         "specialId": "musketeers_deal",
@@ -19588,19 +16761,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "冲积路径",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "全体攻击力成长",
-            "全体防御力成长"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "特殊治疗",
-            "生命强化",
-            "属性修改"
-        ],
         "source": "星体召唤",
         "Release date": "2024-12-22",
         "specialId": "frozen_path",
@@ -19670,21 +16830,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "菠萝烧烤",
-        "types": [
-            "全体强化治疗",
-            "全体增益免疫",
-            "全体火属性敌人致盲",
-            "全体暗属性敌人法力生成减益",
-            "全体圣属性敌人防御减益",
-            "全体自然属性敌人攻击减益"
-        ],
-        "skill_types": [
-            "增益格挡者",
-            "攻击减益",
-            "防御减益",
-            "生命强化",
-            "法力削减或格挡"
-        ],
         "source": "超级元素人",
         "Release date": "2023-09-11",
         "specialId": "pineapple_barbeque",
@@ -19751,15 +16896,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "菠萝炼金术士",
-        "types": [
-            "全体强化治疗",
-            "全体增益免疫状态异常",
-            "全体火属性敌人致盲",
-            "全体暗属性敌人法力生成减益",
-            "全体圣属性敌人防御减益",
-            "全体自然属性敌人攻击减益"
-        ],
-        "skill_types": [],
         "source": "超级元素人",
         "Release date": "2026-05-15",
         "specialId": "pineapple_alchemist",
@@ -19817,15 +16953,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "痛苦回响",
-        "types": [
-            "攻击单个目标",
-            "伤害链接 (单体)"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "狙击手",
-            "伤害分摊"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2022-01-05",
         "specialId": "echoes_of_pain",
@@ -19877,17 +17004,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "冰雪疗法",
-        "types": [
-            "全体治疗",
-            "全体持续治疗",
-            "全体净化"
-        ],
-        "skill_types": [
-            "净化",
-            "持续治疗",
-            "治疗",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2020-06-01",
         "specialId": "ice_treatment",
@@ -19947,21 +17063,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "杀手",
         "skill": "净化的决心",
-        "types": [
-            "全体净化",
-            "攻击所有目标",
-            "自我法力生成增益叠加",
-            "自我持续治疗叠加"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "净化",
-            "特殊治疗",
-            "叠加",
-            "额外伤害",
-            "法力生成增益",
-            "持续治疗"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-08-05",
         "specialId": "cleansing_determination",
@@ -20031,14 +17132,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "青云之锤",
-        "types": [
-            "攻击3个目标",
-            "3个目标攻击降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "cloud_hammer",
@@ -20090,14 +17183,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "云斧",
-        "types": [
-            "攻击3个目标",
-            "3个目标攻击降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益"
-        ],
         "source": "服装间",
         "Release date": "2020-01-01",
         "specialId": "cloud_axe",
@@ -20151,15 +17236,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "煞影之锤",
-        "types": [
-            "攻击3个目标",
-            "3个目标攻击降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益",
-            "叠加"
-        ],
         "source": "服装间",
         "Release date": "2023-09-04",
         "specialId": "dread_hammer",
@@ -20213,15 +17289,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "卡通之锤",
-        "types": [
-            "攻击3个目标",
-            "3个目标攻击降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2023-10-30",
         "specialId": "adorable_hammer",
@@ -20285,16 +17352,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "玻璃重锤",
-        "types": [
-            "攻击3个目标",
-            "无视防御",
-            "3个目标攻击降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "绕过",
-            "攻击减益"
-        ],
         "source": "服装间",
         "Release date": "2024-12-25",
         "specialId": "glass_hammer",
@@ -20358,15 +17415,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "瓶锤",
-        "types": [
-            "攻击3个目标",
-            "3个目标攻击降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害",
-            "攻击减益"
-        ],
         "source": "服装间",
         "Release date": "2026-01-07",
         "specialId": "champagne_hammer",
@@ -20430,21 +17478,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "恶毒旋风",
-        "types": [
-            "驱散3个目标",
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "自我治疗",
-            "3个目标承受的状态异常伤害持续增加"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "驱散",
-            "特殊治疗",
-            "持续伤害",
-            "额外伤害",
-            "治疗削减"
-        ],
         "source": "盟约召唤",
         "Release date": "2025-08-09",
         "specialId": "vicious_cyclone",
@@ -20513,17 +17546,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "骗术",
-        "types": [
-            "赌徒"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击增益",
-            "净化",
-            "防御减益",
-            "持续伤害",
-            "治疗"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "legerdemain",
@@ -20597,23 +17619,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "暮色之术",
-        "types": [
-            "赌徒",
-            "全体最大生命值降低",
-            "全体生命值加成",
-            "全体法力生成降低",
-            "全体增益免疫"
-        ],
-        "skill_types": [
-            "增益格挡者",
-            "持续伤害",
-            "生命强化",
-            "提供免疫",
-            "法力削减或格挡",
-            "最大生命削减",
-            "额外伤害",
-            "反制小兵"
-        ],
         "source": "挑战节 I",
         "Release date": "2022-06-16",
         "specialId": "twilight_tricks",
@@ -20689,17 +17694,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "飞速",
         "skill": "复仇背刺",
-        "types": [
-            "攻击单个目标",
-            "自身潜行/躲藏"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "伤害减免",
-            "伤害减免",
-            "鬼魂形态与隐藏",
-            "狙击手"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-05-20",
         "specialId": "vengeful_backstab",
@@ -20762,19 +17756,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "飞速",
         "skill": "丹青背刺",
-        "types": [
-            "攻击单个目标",
-            "自身潜行/躲藏"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "伤害减免",
-            "伤害减免",
-            "鬼魂形态与隐藏",
-            "狙击手",
-            "额外伤害",
-            "攻击增益"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2024-01-04",
         "specialId": "artful_backstab",
@@ -20842,22 +17823,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "飞速",
         "skill": "魂兮归来",
-        "types": [
-            "自我完全移除",
-            "幽灵形态",
-            "复活单个目标",
-            "全体持续治疗",
-            "全体净化"
-        ],
-        "skill_types": [
-            "净化",
-            "复活",
-            "持续治疗",
-            "驱散",
-            "叠加",
-            "鬼魂形态与隐藏",
-            "治疗削减"
-        ],
         "source": "盟约召唤",
         "Release date": "2025-02-02",
         "specialId": "ill_bring_you_back",
@@ -20923,19 +17888,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "癫狂存在",
-        "types": [
-            "自身全效果移除",
-            "自身变为癫狂恐怖幽灵",
-            "幽灵状态下攻击单体",
-            "幽灵状态下施加单体疯狂",
-            "对除自身外的队友施加疯狂"
-        ],
-        "skill_types": [
-            "鬼魂形态与隐藏",
-            "连锁与随机攻击",
-            "对自身或友军负面效果",
-            "伤害减免"
-        ],
         "source": "暗影召唤",
         "Release date": "2025-07-08",
         "specialId": "deranged_existence",
@@ -20997,17 +17949,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "千手如来掌",
-        "types": [
-            "攻击所有目标",
-            "3个目标伤害降至1",
-            "效果被驱散时触发全体驱散"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "伤害减免",
-            "额外伤害",
-            "驱散"
-        ],
         "source": "神话召唤",
         "Release date": "2023-11-29",
         "specialId": "thousand_palm_strikes",
@@ -21073,18 +18014,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "充能",
         "skill": "净化之气",
-        "types": [
-            "蓄力",
-            "全体治疗",
-            "敌方释放特殊技能时全体治疗",
-            "净化 (1/3/5个目标)"
-        ],
-        "skill_types": [
-            "治疗",
-            "净化",
-            "特殊治疗",
-            "反制小兵"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2024-11-19",
         "specialId": "purifying_ki",
@@ -21151,15 +18080,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "无情嘲讽",
-        "types": [
-            "谦逊",
-            "攻击所有目标",
-            "全体治疗抵抗减益",
-            "每次治疗被抵抗时受到伤害(全体)",
-            "全体受到伤害提高减益叠加",
-            "全体法力生成降低"
-        ],
-        "skill_types": [],
         "source": "联盟 - 勇者与美人",
         "Release date": "2026-05-08",
         "specialId": "ruthless_derision",
@@ -21215,17 +18135,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "壳质牢笼",
-        "types": [
-            "攻击2个目标",
-            "2个目标法力削减",
-            "召唤2个恶魔"
-        ],
-        "skill_types": [
-            "狙击手",
-            "法力削减或格挡",
-            "召唤恶魔",
-            "持续伤害"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2024-08-13",
         "specialId": "chitin_cage",
@@ -21286,18 +18195,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "召唤蔚蓝英灵",
-        "types": [
-            "攻击所有目标",
-            "改变棋盘"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "改变面板",
-            "攻击减益",
-            "攻击增益",
-            "额外伤害",
-            "闪避"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2024-07-01",
         "specialId": "conjure_the_azure_spirit",
@@ -21363,18 +18260,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "飞速",
         "skill": "镀金鹿角",
-        "types": [
-            "攻击3个目标",
-            "无视防御",
-            "3个目标攻击降低",
-            "治疗降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "绕过",
-            "攻击减益",
-            "治疗削减"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2024-06-05",
         "specialId": "gilded_antlers",
@@ -21438,18 +18323,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "冰山崩碎",
-        "types": [
-            "攻击所有目标",
-            "敌人或小怪被击败时全体持续伤害叠加",
-            "敌人或小怪被击败时全体法力生成减益叠加"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "额外伤害",
-            "法力削减或格挡",
-            "叠加"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2020-06-25",
         "specialId": "iceberg_crush",
@@ -21511,18 +18384,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "冰山浩劫",
-        "types": [
-            "攻击3个目标",
-            "敌人或小怪被击败时全体持续伤害叠加",
-            "敌人或小怪被击败时全体法力生成减益叠加"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "额外伤害",
-            "法力削减或格挡",
-            "叠加"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2022-07-04",
         "specialId": "iceberg_havoc",
@@ -21586,19 +18447,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "飞速",
         "skill": "灼热冰霜",
-        "types": [
-            "攻击所有目标",
-            "全体元素防御降低",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "防御减益",
-            "持续伤害",
-            "额外伤害",
-            "反制小兵",
-            "全体攻击 (打5)",
-            "法力削减或格挡"
-        ],
         "source": "盟约召唤",
         "Release date": "2024-08-09",
         "specialId": "searing_frost",
@@ -21660,16 +18508,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "投掷匕首",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害",
-            "全体法力生成降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "法力削减或格挡"
-        ],
         "source": "超级元素人",
         "Release date": "2024-10-30",
         "specialId": "throwing_daggers",
@@ -21730,18 +18568,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "迷幻边缘",
-        "types": [
-            "全体驱散",
-            "全体净化",
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "净化",
-            "驱散",
-            "对自身或友军负面效果",
-            "额外伤害"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "enchanted_edge",
@@ -21804,18 +18630,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "慢",
         "skill": "杀戮之柱",
-        "types": [
-            "全体驱散",
-            "全体净化",
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "净化",
-            "驱散",
-            "对自身或友军负面效果",
-            "额外伤害"
-        ],
         "source": "挑战节 I",
         "Release date": "2021-12-15",
         "specialId": "slaying_stake",
@@ -21880,14 +18694,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "湍流之噬",
-        "types": [
-            "攻击所有目标",
-            "无视防御"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "绕过"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "jaws_of_the_river",
@@ -21945,15 +18751,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "河之獠牙",
-        "types": [
-            "攻击所有目标",
-            "无视防御",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "绕过"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-07-13",
         "specialId": "teeth_of_the_river",
@@ -22025,20 +18822,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "正义打击",
-        "types": [
-            "暴击几率",
-            "攻击3个目标",
-            "伤害治疗3个目标",
-            "3个目标沉默",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "特殊治疗",
-            "沉默",
-            "额外伤害"
-        ],
         "source": "三国召唤",
         "Release date": "2025-05-22",
         "specialId": "righteous_strike",
@@ -22111,18 +18894,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "冰封仪式",
-        "types": [
-            "3个目标召唤 2 个小怪",
-            "小兵攻击增益",
-            "小怪被摧毁时伤害全体"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "持续伤害",
-            "召唤小兵",
-            "净化",
-            "全体攻击 (打5)"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2023-05-06",
         "specialId": "icebound_ritual",
@@ -22182,17 +18953,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "星座之杖",
-        "types": [
-            "攻击所有目标",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御减益",
-            "额外伤害",
-            "绕过",
-            "伤害分摊"
-        ],
         "source": "星体召唤",
         "Release date": "2023-11-21",
         "specialId": "scepter_of_constellations",
@@ -22259,17 +19019,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "轻松光环",
-        "types": [
-            "净化 (3个目标)",
-            "3个目标反射状态异常",
-            "3个目标持续治疗"
-        ],
-        "skill_types": [
-            "净化",
-            "反制恶魔",
-            "持续治疗",
-            "反射"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2023-05-01",
         "specialId": "easy_breezy_aura",
@@ -22334,17 +19083,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "飞速",
         "skill": "猎人强击",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "3个目标流血印记"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "绕过",
-            "额外伤害",
-            "攻击减益"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2025-08-26",
         "specialId": "hunters_true_shot",
@@ -22413,18 +19151,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "古怪迷雾",
-        "types": [
-            "偷取1个增益",
-            "单体沉睡",
-            "全体治疗"
-        ],
-        "skill_types": [
-            "增益窃取者",
-            "沉睡",
-            "治疗",
-            "闪避",
-            "反制小兵"
-        ],
         "source": "联盟 - 飞蛾",
         "Release date": "2025-03-20",
         "specialId": "bizarre_mist",
@@ -22487,16 +19213,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "两栖突击",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击增益",
-            "持续伤害"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2022-05-30",
         "specialId": "amphibious_assault",
@@ -22556,16 +19272,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "海洋攻势",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击增益",
-            "持续伤害"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2025-10-25",
         "specialId": "oceanic_offensive",
@@ -22627,16 +19333,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "潮汐",
         "skill": "海之拥抱",
-        "types": [
-            "全体治疗",
-            "全体异常状态免疫增益",
-            "全体异常状态持续时间重置"
-        ],
-        "skill_types": [
-            "效果持续重置",
-            "生命强化",
-            "提供免疫"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2023-06-07",
         "specialId": "oceans_embrace",
@@ -22705,16 +19401,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "潮汐",
         "skill": "水晶之拥",
-        "types": [
-            "全体治疗",
-            "全体异常状态免疫增益",
-            "全体重置状态异常"
-        ],
-        "skill_types": [
-            "生命强化",
-            "提供免疫",
-            "效果持续重置"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2024-08-24",
         "specialId": "crystal_embrace",
@@ -22788,18 +19474,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "冥河",
         "skill": "续命之术",
-        "types": [
-            "蓄力",
-            "全体治疗",
-            "全体法力生成增益",
-            "全体法力增加"
-        ],
-        "skill_types": [
-            "治疗",
-            "法力生成增益",
-            "法力提升",
-            "反制小兵"
-        ],
         "source": "高塔 - 冥河",
         "Release date": "2023-02-08",
         "specialId": "delay_the_inevitable",
@@ -22867,18 +19541,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "多重投掷",
-        "types": [
-            "攻击所有目标",
-            "全体元素反射",
-            "全体元素反击",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "反射",
-            "狙击手",
-            "全体攻击 (打5)"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-06-10",
         "specialId": "multi_throw",
@@ -22932,12 +19594,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "寒冰终结者",
-        "types": [
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "icecold_finisher",
@@ -22983,14 +19639,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "极寒终结",
-        "types": [
-            "攻击单个目标",
-            "自我法力生成增益"
-        ],
-        "skill_types": [
-            "法力生成增益",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "summers_end",
@@ -23044,16 +19692,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "冰川灭顶",
-        "types": [
-            "攻击3个目标",
-            "3个目标法力削减",
-            "自我法力持续恢复"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "法力提升",
-            "法力削减或格挡"
-        ],
         "source": "服装间",
         "Release date": "2023-07-10",
         "specialId": "glacial_crusher",
@@ -23113,13 +19751,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "卡通终结者",
-        "types": [
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-09-08",
         "specialId": "toon_finisher",
@@ -23177,14 +19808,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "玻璃终结者",
-        "types": [
-            "攻击3个目标",
-            "无视防御"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "绕过"
-        ],
         "source": "服装间",
         "Release date": "2025-11-25",
         "specialId": "glass_finisher_thorne",
@@ -23242,19 +19865,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "为了女王和树洞",
-        "types": [
-            "驱散3个目标",
-            "月玫瑰击 (3个目标)",
-            "3个目标增益免疫"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "增益格挡者",
-            "驱散",
-            "额外伤害",
-            "狙击手",
-            "绕过"
-        ],
         "source": "高塔 - 猫头鹰",
         "Release date": "2023-12-20",
         "specialId": "for_queen_and_hollow",
@@ -23321,18 +19931,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "邪恶玩具",
-        "types": [
-            "攻击3个目标",
-            "召唤所有",
-            "3个目标防御降低",
-            "3个目标致盲"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益",
-            "防御减益",
-            "召唤小兵"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2022-12-01",
         "specialId": "malevolent_toys",
@@ -23392,18 +19990,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "防护姿态",
-        "types": [
-            "全体延迟治疗",
-            "全体延迟伤害",
-            "自身攻击叠加"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "治疗",
-            "叠加",
-            "攻击增益",
-            "持续伤害"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2023-07-27",
         "specialId": "protective_stance",
@@ -23467,19 +20053,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "饕餮啃噬",
-        "types": [
-            "攻击单个目标",
-            "宝箱怪",
-            "全体普通攻击增益"
-        ],
-        "skill_types": [
-            "狙击手",
-            "绕过",
-            "特殊治疗",
-            "法力提升",
-            "攻击增益",
-            "鬼魂形态与隐藏"
-        ],
         "source": "市集召唤",
         "Release date": "2026-02-23",
         "specialId": "gluttonous_chomp_blue",
@@ -23561,20 +20134,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "魔法",
         "skill": "方程式卷轴",
-        "types": [
-            "蓄力",
-            "召唤所有小兵",
-            "法力生成增益小兵",
-            "召唤所有恶魔",
-            "法力生成减益小怪"
-        ],
-        "skill_types": [
-            "召唤恶魔",
-            "法力生成增益",
-            "法力削减或格挡",
-            "召唤小兵",
-            "叠加"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2023-08-23",
         "specialId": "scroll_of_equations",
@@ -23644,20 +20203,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "魔法",
         "skill": "巡航卷轴",
-        "types": [
-            "蓄力",
-            "召唤所有小兵",
-            "小怪法力提升",
-            "召唤所有恶魔",
-            "魔仆法力偷取"
-        ],
-        "skill_types": [
-            "召唤恶魔",
-            "法力生成增益",
-            "法力削减或格挡",
-            "召唤小兵",
-            "叠加"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-11-30",
         "specialId": "scroll_of_navigation",
@@ -23732,13 +20277,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "宇宙螺旋",
-        "types": [
-            "攻击所有目标",
-            "无视防御",
-            "全体攻击衰减",
-            "自身星光射线增益"
-        ],
-        "skill_types": [],
         "source": "星体召唤",
         "Release date": "2026-05-13",
         "specialId": "cosmic_spirals",
@@ -23791,18 +20329,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "水生爆发",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击增益",
-            "攻击减益",
-            "持续伤害",
-            "额外伤害"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2020-01-01",
         "specialId": "aquatic_outbreak",
@@ -23868,17 +20394,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "飞速",
         "skill": "红舞鞋",
-        "types": [
-            "攻击3个目标",
-            "3个目标强化防御减益",
-            "3个目标延迟法力生成减益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "法力削减或格挡",
-            "反制小兵"
-        ],
         "source": "荒野召唤",
         "Release date": "2024-08-31",
         "specialId": "red_shoes",
@@ -23940,16 +20455,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "破冰冲击",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害",
-            "全体法力削减"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力削减或格挡",
-            "持续伤害"
-        ],
         "source": "荒野召唤",
         "Release date": "2025-10-20",
         "specialId": "iceshatter",
@@ -24025,18 +20530,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "幽冥寒焰",
-        "types": [
-            "元素防御降低",
-            "攻击所有目标",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "防御减益",
-            "全体攻击 (打5)",
-            "持续伤害",
-            "伤害减免",
-            "提供免疫"
-        ],
         "source": "挑战 - 石像鬼",
         "Release date": "2024-10-17",
         "specialId": "cold_fire",
@@ -24103,19 +20596,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "鱼叉岗哨",
-        "types": [
-            "召唤所有",
-            "法力削减小怪",
-            "小怪命中时降低特技防御",
-            "小怪命中时施加增益免疫"
-        ],
-        "skill_types": [
-            "增益格挡者",
-            "防御减益",
-            "持续伤害",
-            "法力削减或格挡",
-            "召唤小兵"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2022-11-12",
         "specialId": "harpoon_sentry",
@@ -24177,17 +20657,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "无尽寒冬",
-        "types": [
-            "驱散单个目标",
-            "攻击单个目标",
-            "单体扩散型持续伤害"
-        ],
-        "skill_types": [
-            "驱散",
-            "狙击手",
-            "持续伤害",
-            "治疗削减"
-        ],
         "source": "盟约召唤",
         "Release date": "2024-08-20",
         "specialId": "never_ending_winter",
@@ -24250,18 +20719,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "制伏打击",
-        "types": [
-            "全体驱散",
-            "暴击几率",
-            "攻击单个目标",
-            "若是火属性则攻击附近目标"
-        ],
-        "skill_types": [
-            "驱散",
-            "狙击手",
-            "额外伤害",
-            "范围攻击 (打3)"
-        ],
         "source": "三国召唤",
         "Release date": "2025-09-27",
         "specialId": "subduing_strike",
@@ -24332,19 +20789,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "舞者",
         "skill": "流龙双斩",
-        "types": [
-            "安全驱散 (2个目标)",
-            "灵魂斩击命中 (2个目标)",
-            "2个目标流水福运之舞增益"
-        ],
-        "skill_types": [
-            "狙击手",
-            "驱散",
-            "舞者",
-            "法力生成增益",
-            "额外伤害",
-            "伤害减免"
-        ],
         "source": "月活动 - 幸运召唤",
         "Release date": "2026-02-17",
         "specialId": "flowing_dragon_dual_slash",
@@ -24413,16 +20857,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "飞速",
         "skill": "蓝菇魔杖",
-        "types": [
-            "攻击单个目标",
-            "自身召唤师",
-            "单体扩散型持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "召唤小兵",
-            "狙击手"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2023-12-01",
         "specialId": "blue_shroom_wand",
@@ -24481,17 +20915,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "冰冻巨斧",
-        "types": [
-            "攻击单个目标",
-            "若是火属性则攻击2次",
-            "单体持续伤害",
-            "若目标为火焰系则额外对2个目标造成持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "狙击手",
-            "连锁与随机攻击"
-        ],
         "source": "超级元素人",
         "Release date": "2023-01-30",
         "specialId": "great_frost_axe",
@@ -24555,19 +20978,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "冰冻巨锄",
-        "types": [
-            "伤害单个目标",
-            "若目标为火焰系则额外对2个目标造成伤害",
-            "单体持续伤害",
-            "若目标为火焰系则额外对2个目标造成持续伤害",
-            "自我治疗"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "狙击手",
-            "连锁与随机攻击",
-            "特殊治疗"
-        ],
         "source": "超级元素人",
         "Release date": "2025-08-12",
         "specialId": "great_frost_hoe",
@@ -24642,18 +21052,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "英勇姿态",
-        "types": [
-            "几率暴击",
-            "攻击所有目标",
-            "安全驱散全体增益",
-            "全体伤害减免增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害",
-            "驱散",
-            "伤害减免"
-        ],
         "source": "三国召唤",
         "Release date": "2026-02-01",
         "specialId": "gallant_stance",
@@ -24724,18 +21122,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "充能",
         "skill": "气之墙",
-        "types": [
-            "蓄力",
-            "全体强化持续治疗",
-            "全体防御增益",
-            "全体增益驱散免疫"
-        ],
-        "skill_types": [
-            "防御增益",
-            "生命强化",
-            "提供免疫",
-            "持续治疗"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2021-11-10",
         "specialId": "wall_of_ki",
@@ -24800,12 +21186,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "劈砍攻击",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "hacking_attack",
@@ -24845,12 +21225,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "掷斧",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "axe_throw",
@@ -24890,12 +21264,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "应风披靡",
-        "types": [
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "tackle",
@@ -24935,12 +21303,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "藤鞭之痕",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "mark_of_ivy",
@@ -24980,12 +21342,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "集中火力",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "focused_shot",
@@ -25025,14 +21381,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "蛊惑匕首",
-        "types": [
-            "攻击所有目标",
-            "最大生命值降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "最大生命削减"
-        ],
         "source": "挑战 - 众神狂欢节",
         "Release date": "2023-07-13",
         "specialId": "bewitched_daggers",
@@ -25088,18 +21436,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "大理石狂热",
-        "types": [
-            "攻击单个目标",
-            "攻击成长恩赐",
-            "单体法力生成降低"
-        ],
-        "skill_types": [
-            "反制小兵",
-            "属性修改",
-            "额外伤害",
-            "狙击手",
-            "法力削减或格挡"
-        ],
         "source": "神殿召唤",
         "Release date": "2025-11-17",
         "specialId": "marble_frenzy",
@@ -25165,14 +21501,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "镇静迷雾",
-        "types": [
-            "全体治疗",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "驱散",
-            "治疗"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "calming_mist",
@@ -25224,14 +21552,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "安谧迷雾",
-        "types": [
-            "全体持续治疗",
-            "全体驱散免疫增益"
-        ],
-        "skill_types": [
-            "持续治疗",
-            "提供免疫"
-        ],
         "source": "服装间",
         "Release date": "2020-05-18",
         "specialId": "tranquil_mist",
@@ -25285,16 +21605,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "卡通迷雾",
-        "types": [
-            "全体治疗",
-            "全体防御增益",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "驱散",
-            "治疗",
-            "防御增益"
-        ],
         "source": "服装间",
         "Release date": "2024-04-08",
         "specialId": "toon_mist",
@@ -25354,17 +21664,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "玻璃迷雾",
-        "types": [
-            "全体治疗",
-            "自然盟友反射状态异常",
-            "自然盟友反射叠加效果",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "治疗",
-            "反射",
-            "驱散"
-        ],
         "source": "服装间",
         "Release date": "2025-04-23",
         "specialId": "glass_mist",
@@ -25424,11 +21723,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "时尚迷雾",
-        "types": [
-            "全体治疗",
-            "全体驱散"
-        ],
-        "skill_types": [],
         "source": "服装间",
         "Release date": "2026-05-09",
         "specialId": "stylish_mist",
@@ -25475,14 +21769,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "纠缠之击",
-        "types": [
-            "攻击单个目标",
-            "单体攻击降低"
-        ],
-        "skill_types": [
-            "攻击减益",
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "entangling_shot",
@@ -25534,14 +21820,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "崩碎射击",
-        "types": [
-            "攻击单个目标",
-            "单体防御降低"
-        ],
-        "skill_types": [
-            "防御减益",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2020-05-18",
         "specialId": "crushing_shot",
@@ -25595,15 +21873,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "卡通梦幻射击",
-        "types": [
-            "攻击单个目标",
-            "单体攻击降低"
-        ],
-        "skill_types": [
-            "攻击减益",
-            "狙击手",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-05-06",
         "specialId": "adorable_entangling_shot",
@@ -25667,16 +21936,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "玻璃箭矢",
-        "types": [
-            "攻击单个目标",
-            "无视防御",
-            "单体攻击降低"
-        ],
-        "skill_types": [
-            "绕过",
-            "攻击减益",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2025-05-10",
         "specialId": "glass_entangling_shot",
@@ -25740,12 +21999,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "狂战士之怒",
-        "types": [
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "natures_blessing",
@@ -25791,12 +22044,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "丛林之怒",
-        "types": [
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "防御减益"
-        ],
         "source": "服装间",
         "Release date": "2020-01-01",
         "specialId": "jungle_fury",
@@ -25844,12 +22091,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "卡通之怒",
-        "types": [
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益"
-        ],
         "source": "服装间",
         "Release date": "2024-01-22",
         "specialId": "toon_fury",
@@ -25901,15 +22142,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "玻璃风暴",
-        "types": [
-            "全体攻击增益",
-            "自然盟友反射状态异常",
-            "自然盟友反射叠加效果"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "反射"
-        ],
         "source": "服装间",
         "Release date": "2025-03-11",
         "specialId": "glass_fury",
@@ -25963,14 +22195,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "英姿狂怒",
-        "types": [
-            "全体攻击增益",
-            "全体持续治疗"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "持续治疗"
-        ],
         "source": "服装间",
         "Release date": "2026-02-14",
         "specialId": "stylish_fury",
@@ -26028,18 +22252,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "虚空炫耀",
-        "types": [
-            "3个目标攻击增益",
-            "3个目标防御增益",
-            "3个目标持续治疗",
-            "自身延迟减益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "防御增益",
-            "持续治疗",
-            "对自身或友军负面效果"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "",
         "specialId": "hollow_boast",
@@ -26103,14 +22315,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "四刃斩",
-        "types": [
-            "攻击所有目标",
-            "全体法力削减"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力削减或格挡"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "slash_of_four_blades",
@@ -26162,14 +22366,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "四刃刺击",
-        "types": [
-            "攻击所有目标",
-            "全体法力生成降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力削减或格挡"
-        ],
         "source": "服装间",
         "Release date": "2020-05-18",
         "specialId": "stab_of_four_blades",
@@ -26223,15 +22419,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "卡通四刃斩",
-        "types": [
-            "攻击所有目标",
-            "全体法力削减"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力削减或格挡",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-06-28",
         "specialId": "adorable_four_blades",
@@ -26291,16 +22478,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "玻璃刃斩",
-        "types": [
-            "攻击所有目标",
-            "无视防御",
-            "全体法力削减"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "绕过",
-            "法力削减或格挡"
-        ],
         "source": "服装间",
         "Release date": "2025-07-16",
         "specialId": "glass_four_blades",
@@ -26360,15 +22537,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "星体糕点",
-        "types": [
-            "强化治疗3个目标",
-            "3个目标攻击力成长"
-        ],
-        "skill_types": [
-            "生命强化",
-            "属性修改",
-            "反制恶魔"
-        ],
         "source": "星体召唤",
         "Release date": "2025-06-04",
         "specialId": "astral_pastries",
@@ -26429,19 +22597,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "魔法",
         "skill": "活力满盈",
-        "types": [
-            "蓄力",
-            "友方伤害分担",
-            "全体防御增益",
-            "敌方伤害分担",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "防御增益",
-            "伤害分摊",
-            "防御减益",
-            "法力削减或格挡"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "specialId": "voluminous_vigor",
@@ -26503,13 +22658,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "诡诈华彩",
-        "types": [
-            "攻击单个目标",
-            "施加血莲标记 (单体)"
-        ],
-        "skill_types": [
-            "狙击手"
-        ],
         "source": "月活动 - 血色盛宴",
         "Release date": "2025-10-08",
         "specialId": "mischievous_flourish",
@@ -26560,16 +22708,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "大丰收",
-        "types": [
-            "全体生命值加成",
-            "全体状态异常免疫",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "生命强化",
-            "提供免疫"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "plentiful_harvest",
@@ -26629,17 +22767,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "丰富矿物",
-        "types": [
-            "全体生命值加成",
-            "全体状态异常免疫",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "生命强化",
-            "提供免疫",
-            "防御增益",
-            "净化"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-09-07",
         "specialId": "plentiful_minerals",
@@ -26706,14 +22833,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "万能猫头鹰",
-        "types": [
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害",
-            "绕过"
-        ],
         "source": "高塔 - 猫头鹰",
         "Release date": "2023-12-20",
         "specialId": "jack_of_owl_trades",
@@ -26769,14 +22888,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "飞裂之鞭",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害"
-        ],
-        "skill_types": [
-            "狙击手",
-            "持续伤害"
-        ],
         "source": "荒野召唤",
         "Release date": "2025-10-20",
         "specialId": "lacerating_whip",
@@ -26842,15 +22953,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "骨箭",
-        "types": [
-            "攻击3个目标",
-            "召唤3个恶魔"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "召唤恶魔"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2022-11-12",
         "specialId": "bone_arrow",
@@ -26909,14 +23011,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "矢志不渝",
-        "types": [
-            "治疗3个目标",
-            "3个目标法力生成增益"
-        ],
-        "skill_types": [
-            "治疗",
-            "法力生成增益"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "have_faith",
@@ -26968,14 +23062,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "希冀之光",
-        "types": [
-            "全体治疗",
-            "全体法力生成增益"
-        ],
-        "skill_types": [
-            "治疗",
-            "法力生成增益"
-        ],
         "source": "服装间",
         "Release date": "2020-05-18",
         "specialId": "have_curiosity",
@@ -27029,14 +23115,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "卡通信仰",
-        "types": [
-            "治疗3个目标",
-            "3个目标法力生成增益"
-        ],
-        "skill_types": [
-            "治疗",
-            "法力生成增益"
-        ],
         "source": "服装间",
         "Release date": "2024-05-31",
         "specialId": "adorable_have_faith",
@@ -27094,17 +23172,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "清澈信仰",
-        "types": [
-            "治疗3个目标",
-            "3个目标法力生成增益",
-            "自然盟友反射状态异常",
-            "自然盟友反射叠加效果"
-        ],
-        "skill_types": [
-            "治疗",
-            "法力生成增益",
-            "反射"
-        ],
         "source": "服装间",
         "Release date": "2025-06-18",
         "specialId": "glass_have_faith",
@@ -27164,15 +23231,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "附魔斧挥砍",
-        "types": [
-            "全体驱散",
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "驱散",
-            "额外伤害"
-        ],
         "source": "三国召唤",
         "Release date": "2023-02-27",
         "specialId": "enchanted_axe_swing",
@@ -27230,14 +23288,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "飞速",
         "skill": "锋利之刃",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "狙击手"
-        ],
         "source": "挑战节 I",
         "Release date": "2021-12-15",
         "specialId": "sharp_knife",
@@ -27290,15 +23340,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "血糖陡升",
-        "types": [
-            "攻击所有目标",
-            "全体法力生成降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力削减或格挡",
-            "额外伤害"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "2022-10-03",
         "specialId": "sugar_rush",
@@ -27360,14 +23401,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "长老药剂",
-        "types": [
-            "复活者",
-            "全体法力持续恢复"
-        ],
-        "skill_types": [
-            "复活",
-            "法力提升"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-03-25",
         "specialId": "elders_remedy",
@@ -27423,14 +23456,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "园丁药剂",
-        "types": [
-            "复活者",
-            "全体持续治疗"
-        ],
-        "skill_types": [
-            "持续治疗",
-            "复活"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2023-11-09",
         "specialId": "gardeners_remedy",
@@ -27484,15 +23509,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "旅行者零食",
-        "types": [
-            "全体生命值加成",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "治疗",
-            "生命强化"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2020-05-28",
         "specialId": "travelers_snack",
@@ -27544,19 +23560,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "沙土飞扬",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害",
-            "单体治疗降低",
-            "自身净化"
-        ],
-        "skill_types": [
-            "净化",
-            "持续伤害",
-            "治疗削减",
-            "狙击手",
-            "治疗削减"
-        ],
         "source": "月活动 - 海滩派对",
         "Release date": "",
         "specialId": "horses_curse",
@@ -27613,12 +23616,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "锤击突袭",
-        "types": [
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "ramming_rush",
@@ -27664,14 +23661,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "加速突袭",
-        "types": [
-            "攻击3个目标",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益"
-        ],
         "source": "服装间",
         "Release date": "2020-05-18",
         "specialId": "bolstering_rush",
@@ -27725,13 +23714,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "卡通突袭",
-        "types": [
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-07-16",
         "specialId": "adorable_ramming_rush_isshtak",
@@ -27789,14 +23771,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "玻璃突袭",
-        "types": [
-            "攻击3个目标",
-            "无视防御"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "绕过"
-        ],
         "source": "服装间",
         "Release date": "2025-09-07",
         "specialId": "glass_ramming_rush_isshtak",
@@ -27854,16 +23828,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "飞速",
         "skill": "贪婪扑击",
-        "types": [
-            "攻击2个目标",
-            "2个目标狂乱",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "狙击手",
-            "失心攻击&治疗",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2025-12-03",
         "specialId": "ravenous_pounce",
@@ -27916,16 +23880,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "蜀枪",
-        "types": [
-            "攻击单个目标",
-            "自身召唤师",
-            "小怪反击"
-        ],
-        "skill_types": [
-            "反击",
-            "召唤小兵",
-            "狙击手"
-        ],
         "source": "三国召唤",
         "Release date": "2022-03-14",
         "specialId": "spear_of_shu",
@@ -27983,15 +23937,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "绅士手杖",
-        "types": [
-            "谦逊",
-            "攻击3个目标",
-            "自身反击"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "反击"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2025-11-12",
         "specialId": "gentlemans_cane",
@@ -28054,14 +23999,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "亚特兰蒂斯之矛",
-        "types": [
-            "攻击单个目标",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "驱散",
-            "狙击手"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "frightening_pinch",
@@ -28113,14 +24050,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "亚特兰蒂斯冲锋",
-        "types": [
-            "攻击单个目标",
-            "全体净化"
-        ],
-        "skill_types": [
-            "净化",
-            "狙击手"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2022-05-02",
         "specialId": "atlantean_charge",
@@ -28174,11 +24103,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "亚特兰蒂斯卡通矛",
-        "types": [
-            "攻击单个目标",
-            "全体驱散"
-        ],
-        "skill_types": [],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2026-04-29",
         "specialId": "atlantean_toon_spear",
@@ -28226,12 +24150,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "彪悍兄弟",
-        "types": [
-            "僵尸增益"
-        ],
-        "skill_types": [
-            "复活"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "bruiser_bros",
@@ -28282,15 +24200,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "友善生物盛宴",
-        "types": [
-            "全体生命值加成",
-            "全体持续防御增益"
-        ],
-        "skill_types": [
-            "生命强化",
-            "防御增益",
-            "治疗削减"
-        ],
         "source": "盟约召唤",
         "Release date": "2025-08-09",
         "specialId": "friendly_critters_feast",
@@ -28346,19 +24255,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "杀手",
         "skill": "双斧",
-        "types": [
-            "攻击单个目标",
-            "叠加"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "额外伤害",
-            "特殊治疗",
-            "叠加",
-            "狙击手",
-            "法力生成增益",
-            "持续治疗"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-08-05",
         "specialId": "dual_axes",
@@ -28423,21 +24319,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "魔法",
         "skill": "先祖仪式",
-        "types": [
-            "攻击单个目标",
-            "伤害链接 (单体)",
-            "全体几率穿透",
-            "全体暴击几率增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "绕过",
-            "持续伤害",
-            "狙击手",
-            "叠加",
-            "法力削减或格挡",
-            "法力提升"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2023-05-03",
         "specialId": "ancient_ritual",
@@ -28506,13 +24387,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "伪装树叶",
-        "types": [
-            "嘲讽"
-        ],
-        "skill_types": [
-            "防御增益",
-            "嘲讽"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "camouflage_foliage",
@@ -28562,14 +24436,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "卑劣铁锤",
-        "types": [
-            "攻击单个目标",
-            "攻击降低"
-        ],
-        "skill_types": [
-            "攻击减益",
-            "狙击手"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-06-10",
         "specialId": "nasty_hammer",
@@ -28621,16 +24487,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "审时度势",
-        "types": [
-            "攻击3个目标",
-            "3个目标防御增益",
-            "3个目标暴击几率增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御增益",
-            "攻击增益"
-        ],
         "source": "哥布林召唤",
         "Release date": "2024-04-15",
         "specialId": "situational_awareness",
@@ -28690,19 +24546,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "亲疏一念",
-        "types": [
-            "赌徒",
-            "持续治疗",
-            "防御增益",
-            "最大生命值降低",
-            "防御降低"
-        ],
-        "skill_types": [
-            "防御增益",
-            "防御减益",
-            "生命强化",
-            "最大生命削减"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2024-01-10",
         "specialId": "paws_or_claws",
@@ -28774,16 +24617,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "手鼓独奏",
-        "types": [
-            "攻击所有目标",
-            "全体攻击降低",
-            "全体净化免疫"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "净化格挡者",
-            "攻击减益"
-        ],
         "source": "挑战节 II",
         "Release date": "2022-12-01",
         "specialId": "tambourine_solo",
@@ -28841,13 +24674,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "惩戒之击",
-        "types": [
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害"
-        ],
         "source": "月活动 - 恋爱季节",
         "Release date": "2023-02-14",
         "specialId": "punishing_shot",
@@ -28903,15 +24729,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "爱之桎梏",
-        "types": [
-            "攻击3个目标",
-            "3个目标元素防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害",
-            "防御减益"
-        ],
         "source": "月活动 - 恋爱季节",
         "Release date": "2026-01-19",
         "specialId": "lasso_of_love",
@@ -28975,16 +24792,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "迷幻交响乐",
-        "types": [
-            "攻击所有目标",
-            "元素"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "防御减益",
-            "法力削减或格挡"
-        ],
         "source": "超级元素人",
         "Release date": "2023-08-14",
         "specialId": "enchanted_symphony",
@@ -29050,16 +24857,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "暗影扫荡",
-        "types": [
-            "攻击3个目标",
-            "3个目标最大生命值降低",
-            "3个目标元素防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "最大生命削减"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2020-05-28",
         "specialId": "shadow_sweep",
@@ -29113,16 +24910,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "暗影冲刺",
-        "types": [
-            "攻击单个目标",
-            "单体法力削减",
-            "单体属性防御减益"
-        ],
-        "skill_types": [
-            "防御减益",
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2023-03-13",
         "specialId": "shadow_lunge",
@@ -29182,12 +24969,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "卡通横扫",
-        "types": [
-            "攻击3个目标",
-            "3个目标最大生命值降低",
-            "3个目标元素防御降低"
-        ],
-        "skill_types": [],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2026-04-29",
         "specialId": "toon_sweep",
@@ -29236,21 +25017,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "魔法",
         "skill": "正午烈阳",
-        "types": [
-            "蓄力",
-            "攻击所有目标",
-            "全体持续伤害",
-            "复活者",
-            "全体持续治疗"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "持续治疗",
-            "对自身或友军负面效果",
-            "复活",
-            "治疗"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "specialId": "high_noon_sun",
@@ -29314,15 +25080,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "冥河",
         "skill": "大蒜丰收",
-        "types": [
-            "蓄力"
-        ],
-        "skill_types": [
-            "治疗",
-            "法力生成增益",
-            "法力提升",
-            "反制小兵"
-        ],
         "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
         "specialId": "fruits_of_labor",
@@ -29390,18 +25147,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "女武神防御",
-        "types": [
-            "治疗3个目标",
-            "3个目标驱散免疫",
-            "3个目标特技防御增益",
-            "3个目标法力生成增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "治疗",
-            "提供免疫",
-            "法力生成增益"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "",
         "specialId": "valkyrie_defense",
@@ -29457,18 +25202,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "礼包",
-        "types": [
-            "攻击3个目标",
-            "召唤3个小兵",
-            "3个目标攻击降低",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益",
-            "防御减益",
-            "召唤小兵"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "",
         "specialId": "giftsack",
@@ -29528,19 +25261,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "礼物清单",
-        "types": [
-            "攻击3个目标",
-            "召唤3个小兵",
-            "3个目标攻击降低",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益",
-            "防御减益",
-            "召唤小兵",
-            "额外伤害"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2025-12-01",
         "specialId": "gift_list",
@@ -29608,14 +25328,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "穿心斩",
-        "types": [
-            "攻击单个目标",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "驱散",
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "piercing_strike",
@@ -29667,14 +25379,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "净化打击",
-        "types": [
-            "攻击单个目标",
-            "全体净化"
-        ],
-        "skill_types": [
-            "净化",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2020-05-18",
         "specialId": "cleansing_strike",
@@ -29728,16 +25432,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "无畏之击",
-        "types": [
-            "攻击3个目标",
-            "3个目标状态免疫效果减益",
-            "驱散3个目标的增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "增益格挡者",
-            "驱散"
-        ],
         "source": "服装间",
         "Release date": "2022-12-26",
         "specialId": "valorant_strike",
@@ -29797,15 +25491,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "卡通梦幻攻击",
-        "types": [
-            "攻击单个目标",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "驱散",
-            "额外伤害",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2024-01-22",
         "specialId": "toontastic_strike",
@@ -29869,17 +25554,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "玻璃打击",
-        "types": [
-            "攻击单个目标",
-            "全体攻击降低",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "绕过",
-            "攻击减益",
-            "驱散",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2025-01-14",
         "specialId": "glass_strike_caedmon",
@@ -29949,15 +25623,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "英姿打击",
-        "types": [
-            "攻击单个目标",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "驱散",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2026-01-26",
         "specialId": "stylish_strike_caedmon",
@@ -30026,16 +25691,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "非常慢",
         "skill": "强力之矛",
-        "types": [
-            "攻击所有目标",
-            "全体伤害增加减益",
-            "全体增益免疫状态异常"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "增益格挡者",
-            "额外伤害"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2022-01-05",
         "specialId": "sonorous_spear",
@@ -30089,15 +25744,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "水果鸡尾酒",
-        "types": [
-            "攻击单个目标",
-            "单体延迟麻痹"
-        ],
-        "skill_types": [
-            "狙击手",
-            "额外伤害",
-            "法力削减或格挡"
-        ],
         "source": "超级元素人",
         "Release date": "2025-07-04",
         "specialId": "fruit_cocktail",
@@ -30155,16 +25801,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "赋权狂击",
-        "types": [
-            "攻击3个目标",
-            "3个目标攻击增益",
-            "3个目标持续治疗"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击增益",
-            "持续治疗"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "empowering_bash",
@@ -30218,17 +25854,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "强化碎击",
-        "types": [
-            "攻击所有目标",
-            "全体攻击增益",
-            "全体强化持续治疗"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击增益",
-            "生命强化",
-            "持续治疗"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2022-05-02",
         "specialId": "strengthening_smash",
@@ -30285,12 +25910,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "卡通猛击",
-        "types": [
-            "攻击3个目标",
-            "3个目标攻击增益",
-            "3个目标持续治疗"
-        ],
-        "skill_types": [],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toon_bash",
@@ -30339,16 +25958,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "小兵吞噬者",
-        "types": [
-            "摧毁所有小兵",
-            "攻击所有目标",
-            "小怪被摧毁时全体治疗"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "特殊治疗",
-            "反制小兵"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "familiar_eater",
@@ -30402,16 +26011,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "蛋白质吞噬者",
-        "types": [
-            "偷取1个小兵",
-            "攻击单个目标",
-            "单体扩散型持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "反制小兵",
-            "狙击手"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2023-04-03",
         "specialId": "protein_eater",
@@ -30472,17 +26071,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "巫师杀手",
-        "types": [
-            "攻击单个目标",
-            "法力已满时伤害单体",
-            "法力已满时削减单体法力",
-            "自身特技防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "witch_killer",
@@ -30540,17 +26128,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "吸血鬼杀手",
-        "types": [
-            "攻击单个目标",
-            "法力全满时造成伤害 (单体)",
-            "法力全满时降低法力 (单体)",
-            "自我特殊技能防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "挑战节 I",
         "Release date": "2023-08-10",
         "specialId": "vampire_killer",
@@ -30610,14 +26187,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "莽夫斩",
-        "types": [
-            "攻击所有目标",
-            "自身防御减益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "对自身或友军负面效果"
-        ],
         "source": "月活动 - 春谷",
         "Release date": "",
         "specialId": "reckless_slash",
@@ -30669,16 +26238,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "飞蛋连击",
-        "types": [
-            "攻击单个目标",
-            "连锁攻击",
-            "除自身外全体队友攻击减益"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "对自身或友军负面效果",
-            "狙击手"
-        ],
         "source": "月活动 - 春谷",
         "Release date": "2022-03-21",
         "specialId": "egg_barrage",
@@ -30738,15 +26297,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "好梦眠曲",
-        "types": [
-            "攻击单个目标",
-            "单体沉睡"
-        ],
-        "skill_types": [
-            "狙击手",
-            "沉睡",
-            "闪避"
-        ],
         "source": "联盟 - 飞蛾",
         "Release date": "2025-08-14",
         "specialId": "goodnight_lullaby",
@@ -30803,14 +26353,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "非常慢",
         "skill": "亡者复生",
-        "types": [
-            "攻击所有目标",
-            "施放陨落"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "伤害减免"
-        ],
         "source": "挑战 - 石像鬼",
         "Release date": "2022-05-12",
         "specialId": "resurrection_of_the_fallen",
@@ -30869,14 +26411,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "沼泽皮肤",
-        "types": [
-            "治疗3个目标",
-            "3个目标元素防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "治疗"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "swamp_skin",
@@ -30928,15 +26462,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "第二皮肤",
-        "types": [
-            "3个目标生命值提升",
-            "3个目标元素防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "治疗",
-            "生命强化"
-        ],
         "source": "服装间",
         "Release date": "2020-05-18",
         "specialId": "second_skin",
@@ -30990,14 +26515,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "鳞甲皮肤",
-        "types": [
-            "3个目标持续治疗",
-            "3个目标特殊技能防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "持续治疗"
-        ],
         "source": "服装间",
         "Release date": "2023-11-27",
         "specialId": "scaly_skin",
@@ -31051,14 +26568,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "卡通皮肤",
-        "types": [
-            "治疗3个目标",
-            "3个目标元素防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "治疗"
-        ],
         "source": "服装间",
         "Release date": "2024-05-31",
         "specialId": "adorable_skin",
@@ -31116,17 +26625,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "玻璃皮肤",
-        "types": [
-            "治疗3个目标",
-            "自然盟友反射状态异常",
-            "自然盟友反射叠加效果",
-            "3个目标元素防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "治疗",
-            "反射"
-        ],
         "source": "服装间",
         "Release date": "2025-06-18",
         "specialId": "glass_skin",
@@ -31186,12 +26684,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "恶毒诅咒",
-        "types": [
-            "全体最大生命值降低",
-            "全体治疗降低",
-            "全体持续伤害"
-        ],
-        "skill_types": [],
         "source": "三国召唤",
         "Release date": "2026-05-21",
         "specialId": "spiteful_curse",
@@ -31239,19 +26731,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "舞者",
         "skill": "烈魂斩击",
-        "types": [
-            "安全驱散1个目标",
-            "灵魂斩击命中 (单体)",
-            "2个目标活力福运之舞增益"
-        ],
-        "skill_types": [
-            "狙击手",
-            "驱散",
-            "舞者",
-            "防御增益",
-            "额外伤害",
-            "伤害减免"
-        ],
         "source": "月活动 - 幸运召唤",
         "Release date": "2026-02-17",
         "specialId": "spirited_slash",
@@ -31320,19 +26799,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "飞速",
         "skill": "星座圣衣",
-        "types": [
-            "攻击3个目标",
-            "3个目标治疗偷取",
-            "3个目标闪避率"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "特殊治疗",
-            "闪避",
-            "绕过",
-            "治疗削减",
-            "伤害分摊"
-        ],
         "source": "星体召唤",
         "Release date": "2024-03-07",
         "specialId": "cloth_of_constellations",
@@ -31397,14 +26863,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "巨力挥舞",
-        "types": [
-            "攻击所有目标",
-            "全体法力生成降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力削减或格挡"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "massive_chop",
@@ -31456,15 +26914,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "慢",
         "skill": "巨力顺劈",
-        "types": [
-            "攻击所有目标",
-            "3个目标闪避率增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "闪避",
-            "法力提升"
-        ],
         "source": "服装间",
         "Release date": "2020-05-18",
         "specialId": "massive_cleave",
@@ -31519,14 +26968,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "巨力挥砍",
-        "types": [
-            "攻击所有目标",
-            "全体法力生成增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力生成增益"
-        ],
         "source": "服装间",
         "Release date": "2023-10-30",
         "specialId": "massive_swing",
@@ -31580,15 +27021,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "卡通梦幻斩击",
-        "types": [
-            "攻击所有目标",
-            "全体法力生成降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力削减或格挡",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-05-06",
         "specialId": "adorable_massive_chop",
@@ -31652,16 +27084,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "玻璃劈砍",
-        "types": [
-            "攻击所有目标",
-            "无视防御",
-            "全体法力生成降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "绕过",
-            "法力削减或格挡"
-        ],
         "source": "服装间",
         "Release date": "2025-05-10",
         "specialId": "glass_massive_chop",
@@ -31725,17 +27147,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "头槌",
-        "types": [
-            "攻击3个目标",
-            "攻击增益",
-            "防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击增益",
-            "防御减益",
-            "状态效果转换"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-06-10",
         "specialId": "head_hurl",
@@ -31793,14 +27204,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "堕落迷雾",
-        "types": [
-            "全体治疗",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "驱散",
-            "治疗"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "fog_of_the_fallen",
@@ -31852,16 +27255,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "毁灭迷雾",
-        "types": [
-            "全体持续治疗",
-            "全体防御增益",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "防御增益",
-            "驱散",
-            "持续治疗"
-        ],
         "source": "服装间",
         "Release date": "2020-01-01",
         "specialId": "fog_of_the_perished",
@@ -31917,16 +27310,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "烟机迷雾",
-        "types": [
-            "全体持续治疗",
-            "全体攻击增益",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "驱散",
-            "持续治疗"
-        ],
         "source": "服装间",
         "Release date": "2023-10-30",
         "specialId": "fog_machine",
@@ -31982,16 +27365,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "卡通梦幻迷雾",
-        "types": [
-            "全体治疗",
-            "全体防御增益",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "防御增益",
-            "驱散",
-            "治疗"
-        ],
         "source": "服装间",
         "Release date": "2024-01-22",
         "specialId": "toontastic_fog",
@@ -32051,17 +27424,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "彩绘迷雾",
-        "types": [
-            "全体治疗",
-            "自然盟友反射状态异常",
-            "自然盟友反射叠加效果",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "驱散",
-            "治疗",
-            "反射"
-        ],
         "source": "服装间",
         "Release date": "2025-03-11",
         "specialId": "fog_of_the_vitrails",
@@ -32121,14 +27483,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "英姿迷雾",
-        "types": [
-            "全体治疗",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "治疗",
-            "驱散"
-        ],
         "source": "服装间",
         "Release date": "2026-03-12",
         "specialId": "fog_of_the_stylish",
@@ -32186,16 +27540,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "妖精歌谣",
-        "types": [
-            "召唤所有",
-            "法力生成增益小兵",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "攻击减益",
-            "法力生成增益",
-            "召唤小兵"
-        ],
         "source": "月活动 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "specialId": "sprite_ballad",
@@ -32257,16 +27601,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "妖精赞歌",
-        "types": [
-            "召唤所有",
-            "法力生成增益小兵",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "攻击减益",
-            "法力生成增益",
-            "召唤小兵"
-        ],
         "source": "月活动 - 卡勒瓦拉",
         "Release date": "2023-08-07",
         "specialId": "sprite_hymn",
@@ -32330,18 +27664,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "潮汐",
         "skill": "毒性劈砍",
-        "types": [
-            "攻击3个目标",
-            "3个目标法力削减",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "特殊治疗",
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2023-06-07",
         "specialId": "noxious_cleave",
@@ -32412,18 +27734,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "潮汐",
         "skill": "剧毒和弦",
-        "types": [
-            "攻击3个目标",
-            "3个目标法力削减",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "狙击手",
-            "范围攻击 (打3)",
-            "法力削减或格挡",
-            "持续伤害",
-            "特殊治疗"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2025-03-31",
         "specialId": "noxious_chord",
@@ -32499,17 +27809,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "稀有品种",
-        "types": [
-            "攻击3个目标",
-            "3个目标强化防御异常",
-            "3个目标延迟扩散式持续伤害"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "持续伤害",
-            "反制小兵"
-        ],
         "source": "荒野召唤",
         "Release date": "2025-02-21",
         "specialId": "a_rare_cultivar",
@@ -32577,17 +27876,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "碎颅之击",
-        "types": [
-            "攻击所有目标",
-            "召唤所有",
-            "小怪被摧毁时触发伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "召唤小兵",
-            "持续伤害",
-            "净化"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2023-05-06",
         "specialId": "cracked_skull_strike",
@@ -32647,20 +27935,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "杀手",
         "skill": "优雅射击",
-        "types": [
-            "攻击单个目标",
-            "法力生成降低",
-            "叠加"
-        ],
-        "skill_types": [
-            "特殊治疗",
-            "法力削减或格挡",
-            "狙击手",
-            "叠加",
-            "额外伤害",
-            "法力生成增益",
-            "持续治疗"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-08-05",
         "specialId": "graceful_shot",
@@ -32730,14 +28004,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "海盗之刃",
-        "types": [
-            "攻击单个目标",
-            "沉默"
-        ],
-        "skill_types": [
-            "沉默",
-            "狙击手"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "buccaneers_blade",
@@ -32789,16 +28055,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "惊人消息",
-        "types": [
-            "攻击单个目标",
-            "沉默",
-            "防御降低"
-        ],
-        "skill_types": [
-            "防御减益",
-            "沉默",
-            "狙击手"
-        ],
         "source": "挑战节 I",
         "Release date": "2023-12-28",
         "specialId": "shocking_news",
@@ -32854,15 +28110,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "神圣链接",
-        "types": [
-            "全体治疗",
-            "3个目标状态异常免疫"
-        ],
-        "skill_types": [
-            "治疗",
-            "提供免疫",
-            "特殊治疗"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "divine_connection",
@@ -32921,17 +28168,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "自然连接",
-        "types": [
-            "全体治疗",
-            "3个目标状态异常免疫"
-        ],
-        "skill_types": [
-            "治疗",
-            "提供免疫",
-            "特殊治疗",
-            "生命强化",
-            "净化"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-10-05",
         "specialId": "natures_connection",
@@ -32997,16 +28233,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "雄鹿之书",
-        "types": [
-            "生命值加成",
-            "攻击增益",
-            "法力生成增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "生命强化",
-            "法力生成增益"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2024-01-10",
         "specialId": "tome_of_the_stag",
@@ -33064,14 +28290,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "爬藤蔓延",
-        "types": [
-            "攻击所有目标",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "creeping_vines",
@@ -33123,14 +28341,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "糖果藤蔓",
-        "types": [
-            "攻击所有目标",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益"
-        ],
         "source": "服装间",
         "Release date": "2020-01-01",
         "specialId": "candy_vines",
@@ -33184,14 +28394,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "爬藤缠身",
-        "types": [
-            "攻击所有目标",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御减益"
-        ],
         "source": "服装间",
         "Release date": "2023-04-17",
         "specialId": "crawling_vines",
@@ -33245,15 +28447,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "卡通藤蔓",
-        "types": [
-            "攻击所有目标",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-03-11",
         "specialId": "toon_vines",
@@ -33317,16 +28510,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "玻璃藤蔓",
-        "types": [
-            "攻击所有目标",
-            "无视防御",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "绕过",
-            "攻击减益"
-        ],
         "source": "服装间",
         "Release date": "2025-04-08",
         "specialId": "glass_vines",
@@ -33390,11 +28573,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "时尚藤蔓",
-        "types": [
-            "攻击所有目标",
-            "全体攻击降低"
-        ],
-        "skill_types": [],
         "source": "服装间",
         "Release date": "2026-04-10",
         "specialId": "stylish_vines",
@@ -33432,7 +28610,23 @@ window.allHeroes =
             "health": 1579,
             "power": 1005
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：全体"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "伤害-额外伤害"
+                ]
+            },
+            {
+                "负面效果": [
+                    "攻击-攻击力↓"
+                ]
+            }
+        ]
     },
     {
         "name": "斯诺里 (Snorri)",
@@ -33442,17 +28636,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "传说羁绊",
-        "types": [
-            "攻击单个目标",
-            "单体灵魂绑定"
-        ],
-        "skill_types": [
-            "狙击手",
-            "额外伤害",
-            "绕过",
-            "持续伤害",
-            "攻击减益"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2025-08-06",
         "specialId": "bound_by_tales",
@@ -33515,16 +28698,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "致残打击",
-        "types": [
-            "攻击单个目标",
-            "单体沉默",
-            "单体持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "沉默",
-            "狙击手"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-03-25",
         "specialId": "crippling_grapple",
@@ -33583,16 +28756,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "打击戏谑",
-        "types": [
-            "攻击单个目标",
-            "单体沉默",
-            "单体持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "沉默",
-            "狙击手"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2023-12-07",
         "specialId": "demoralizing_banter",
@@ -33653,18 +28816,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "公爵彻查",
-        "types": [
-            "攻击3个目标",
-            "召唤3个恶魔",
-            "自我持续治疗"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "增益窃取者",
-            "召唤恶魔",
-            "持续伤害",
-            "持续治疗"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2022-12-14",
         "specialId": "the_dukes_investigation",
@@ -33725,20 +28876,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "卧底调查",
-        "types": [
-            "攻击3个目标",
-            "召唤3个恶魔",
-            "偷取增益恶魔",
-            "自身生命值加成持续治疗"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "增益窃取者",
-            "召唤恶魔",
-            "持续伤害",
-            "持续治疗",
-            "生命强化"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2025-11-12",
         "specialId": "the_undercover_investigation",
@@ -33803,15 +28940,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "地主的藏品",
-        "types": [
-            "攻击单个目标",
-            "弹射"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "攻击减益",
-            "狙击手"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2021-10-13",
         "specialId": "squires_squirrel",
@@ -33865,12 +28993,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "压烂碾碎",
-        "types": [
-            "攻击3个目标",
-            "3个目标吞噬黏液减益",
-            "3个目标反击"
-        ],
-        "skill_types": [],
         "source": "超级元素人",
         "Release date": "2026-04-24",
         "specialId": "squish_squash_achillea",
@@ -33919,20 +29041,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "渴望之咬",
-        "types": [
-            "攻击单个目标",
-            "按伤害全体提升生命",
-            "宝箱怪"
-        ],
-        "skill_types": [
-            "狙击手",
-            "特殊治疗",
-            "生命强化",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形态与隐藏",
-            "绕过"
-        ],
         "source": "市集召唤",
         "Release date": "2026-01-27",
         "specialId": "aether_mimic_bite_green",
@@ -34008,15 +29116,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "先祖镜子",
-        "types": [
-            "攻击所有目标",
-            "全体元素反击",
-            "全体元素反射"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "反射"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-11-24",
         "specialId": "ancient_mirror",
@@ -34074,15 +29173,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "翠绿镜",
-        "types": [
-            "攻击所有目标",
-            "全体元素反射",
-            "全体元素反击"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "反射"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-03-04",
         "specialId": "verdant_mirror",
@@ -34147,18 +29237,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "仲夏之梦",
-        "types": [
-            "复活者",
-            "全体持续治疗",
-            "全体法力持续恢复"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "法力提升",
-            "防御增益",
-            "复活",
-            "持续治疗"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2017-10-01",
         "specialId": "midsummers_dream",
@@ -34213,20 +29291,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "仲夏幻想曲",
-        "types": [
-            "复活者",
-            "全体持续治疗",
-            "全体法力生成增益",
-            "全体法力持续恢复"
-        ],
-        "skill_types": [
-            "持续治疗",
-            "法力生成增益",
-            "复活",
-            "净化",
-            "攻击增益",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2021-10-20",
         "specialId": "midsummers_reverie",
@@ -34287,20 +29351,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "可疑炖菜",
-        "types": [
-            "攻击所有目标",
-            "无视小兵",
-            "全体元素防御降低",
-            "持剑守卫超级小兵",
-            "传播持续伤害的小怪"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "反制小兵",
-            "防御减益",
-            "召唤巨型小兵",
-            "持续伤害"
-        ],
         "source": "哥布林召唤",
         "Release date": "2025-03-14",
         "specialId": "suspicious_stew",
@@ -34369,17 +29419,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "传奇大羊驼民谣",
-        "types": [
-            "攻击所有目标",
-            "全体增益免疫状态异常",
-            "企图获得增益时受到伤害(全体)",
-            "自身致盲"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "增益格挡者",
-            "对自身或友军负面效果"
-        ],
         "source": "月活动 - 春谷",
         "Release date": "2023-03-27",
         "specialId": "fabled_llama_ballad",
@@ -34433,17 +29472,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "充满活力的薇拉内尔",
-        "types": [
-            "攻击所有目标",
-            "全体增益免疫状态异常",
-            "企图获得增益时受到伤害",
-            "自身致盲"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "增益格挡者",
-            "对自身或友军负面效果"
-        ],
         "source": "月活动 - 春谷",
         "Release date": "2024-03-18",
         "specialId": "vigorous_villanelle",
@@ -34503,17 +29531,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "石像鬼的救赎",
-        "types": [
-            "全体恶魔替换",
-            "召唤所有",
-            "根据拥有的小怪数量提升生命值加成"
-        ],
-        "skill_types": [
-            "反制恶魔",
-            "生命强化",
-            "召唤小兵",
-            "伤害减免"
-        ],
         "source": "挑战 - 石像鬼",
         "Release date": "2022-05-12",
         "specialId": "gargoyles_of_redemption",
@@ -34567,16 +29584,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "夺其锋锐",
-        "types": [
-            "攻击所有目标",
-            "保镖超级小兵",
-            "小怪命中时施加睡眠"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "召唤巨型小兵",
-            "沉睡"
-        ],
         "source": "挑战 - 歌剧之谜",
         "Release date": "2024-08-22",
         "specialId": "make_them_harmless",
@@ -34641,20 +29648,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "暴食咀嚼",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "宝箱怪"
-        ],
-        "skill_types": [
-            "特殊治疗",
-            "反制小兵",
-            "范围攻击 (打3)",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形态与隐藏",
-            "绕过"
-        ],
         "source": "市集召唤",
         "Release date": "2025-08-05",
         "specialId": "gorging_chew_green",
@@ -34740,20 +29733,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "飞速",
         "skill": "穿刺之弹",
-        "types": [
-            "摧毁单个目标的小兵",
-            "攻击单个目标",
-            "小怪被摧毁时法力提升",
-            "无视防御",
-            "自身持续治疗"
-        ],
-        "skill_types": [
-            "绕过",
-            "法力提升",
-            "反制小兵",
-            "狙击手",
-            "持续治疗"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2022-12-14",
         "specialId": "piercing_shot",
@@ -34815,21 +29794,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "飞速",
         "skill": "工匠射击",
-        "types": [
-            "摧毁单个目标的小兵",
-            "攻击单个目标",
-            "摧毁小兵时提升法力",
-            "无视防御",
-            "自身生命值加成持续治疗"
-        ],
-        "skill_types": [
-            "绕过",
-            "法力提升",
-            "反制小兵",
-            "狙击手",
-            "持续治疗",
-            "生命强化"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2025-12-19",
         "specialId": "artisans_shot",
@@ -34895,15 +29859,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "不死歼灭者",
-        "types": [
-            "攻击所有目标",
-            "自我复活"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "复活",
-            "额外伤害"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "immortal_annihilator",
@@ -34961,15 +29916,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "不死惩戒者",
-        "types": [
-            "攻击所有目标",
-            "自我复活"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "复活",
-            "额外伤害"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2023-04-03",
         "specialId": "immortal_punisher",
@@ -35029,11 +29975,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "卡通毁灭",
-        "types": [
-            "攻击所有目标",
-            "自我复活"
-        ],
-        "skill_types": [],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toon_annihilation",
@@ -35082,19 +30023,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "深海宝珠",
-        "types": [
-            "驱散3个目标",
-            "攻击3个目标",
-            "3个目标狂乱",
-            "全体异常状态伤害免疫",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "驱散",
-            "范围攻击 (打3)",
-            "提供免疫",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2024-04-11",
         "specialId": "jewel_of_the_deep",
@@ -35159,19 +30087,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "地精的智慧",
-        "types": [
-            "全体净化",
-            "全体生命值加成",
-            "召唤所有",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "净化",
-            "生命强化",
-            "召唤小兵",
-            "特殊治疗"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2022-12-01",
         "specialId": "wisdom_of_the_gnomes",
@@ -35237,17 +30152,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "沉睡孢子",
-        "types": [
-            "攻击单个目标",
-            "单体睡眠"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "法力削减或格挡",
-            "沉睡",
-            "狙击手",
-            "特殊治疗"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2021-11-01",
         "specialId": "slumber_spores",
@@ -35310,14 +30214,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "震慑打击",
-        "types": [
-            "攻击所有目标",
-            "单体法力获取冻结"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力削减或格挡"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2026-03-20",
         "specialId": "staggering_blows",
@@ -35376,16 +30272,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "保持警戒",
-        "types": [
-            "攻击所有目标",
-            "全体移除攻击降低效果",
-            "全体移除防御降低效果"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "净化",
-            "召唤小兵"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2021-01-01",
         "specialId": "en_garde",
@@ -35444,17 +30330,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "号令群狼",
-        "types": [
-            "攻击单个目标",
-            "召唤者 (单体)"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "攻击增益",
-            "狙击手",
-            "召唤小兵",
-            "法力提升"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2024-05-01",
         "specialId": "command_pack",
@@ -35521,20 +30396,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "资源篮",
-        "types": [
-            "攻击所有目标",
-            "攻击成长恩赐",
-            "召唤所有",
-            "增益窃取小兵"
-        ],
-        "skill_types": [
-            "反制小兵",
-            "属性修改",
-            "额外伤害",
-            "全体攻击 (打5)",
-            "召唤小兵",
-            "增益窃取者"
-        ],
         "source": "神殿召唤",
         "Release date": "2025-11-17",
         "specialId": "tokri_of_resources",
@@ -35598,18 +30459,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "奇异鼓声",
-        "types": [
-            "重新部署",
-            "攻击所有目标",
-            "无视小兵",
-            "无视防御增益"
-        ],
-        "skill_types": [
-            "重排队伍",
-            "全体攻击 (打5)",
-            "反制小兵",
-            "绕过"
-        ],
         "source": "挑战节 II",
         "Release date": "2024-11-14",
         "specialId": "odd_drum_roll",
@@ -35675,14 +30524,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "野猪召唤",
-        "types": [
-            "白野猪超级小兵",
-            "超级小怪反击"
-        ],
-        "skill_types": [
-            "反击",
-            "召唤巨型小兵"
-        ],
         "source": "哥布林召唤",
         "Release date": "2023-10-16",
         "specialId": "boar_call",
@@ -35740,17 +30581,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "青翠陷阱",
-        "types": [
-            "随机攻击3个目标",
-            "命中时触发爆炸尖刺陷阱",
-            "命中时施加元素防御降低减益"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "防御减益",
-            "额外伤害",
-            "改变面板"
-        ],
         "source": "泰坦猎手召唤",
         "Release date": "2026-02-16",
         "specialId": "verdant_trap",
@@ -35819,17 +30649,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "森林祝福",
-        "types": [
-            "全体治疗",
-            "全体延迟法力提升",
-            "全体安全净化"
-        ],
-        "skill_types": [
-            "治疗",
-            "法力提升",
-            "净化",
-            "反制小兵"
-        ],
         "source": "荒野召唤",
         "Release date": "2025-01-22",
         "specialId": "sylvan_blessings",
@@ -35896,18 +30715,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "超级食物净化",
-        "types": [
-            "治疗3个目标",
-            "3个目标根除并净化",
-            "全体攻击力成长",
-            "全体防御力成长"
-        ],
-        "skill_types": [
-            "召唤恶魔",
-            "治疗",
-            "净化",
-            "属性修改"
-        ],
         "source": "挑战 - 英勇植物召唤",
         "Release date": "2026-02-04",
         "specialId": "superfood_purification",
@@ -35979,20 +30786,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "构筑模块",
-        "types": [
-            "攻击3个目标",
-            "3个目标攻击力成长",
-            "3个目标元素反射",
-            "3个目标元素反击",
-            "自我史莱姆复活"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "属性修改",
-            "反射",
-            "反击",
-            "复活"
-        ],
         "source": "超级元素人",
         "Release date": "2025-11-26",
         "specialId": "building_blocks_bulklug",
@@ -36055,18 +30848,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "充能",
         "skill": "致命梦境",
-        "types": [
-            "蓄力",
-            "驱散2个目标",
-            "攻击2个目标",
-            "2个目标沉睡"
-        ],
-        "skill_types": [
-            "沉睡",
-            "驱散",
-            "狙击手",
-            "反制小兵"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2024-08-27",
         "specialId": "fatal_dreams",
@@ -36138,15 +30919,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "生机花粉",
-        "types": [
-            "全体生命值加成",
-            "全体持续治疗"
-        ],
-        "skill_types": [
-            "生命强化",
-            "持续治疗",
-            "攻击增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2024-09-01",
         "specialId": "invigorating_pollen",
@@ -36207,17 +30979,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "灰烬之怒",
-        "types": [
-            "攻击所有目标",
-            "全体治疗量降低",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "治疗削减",
-            "法力生成增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2023-07-01",
         "specialId": "fury_of_ash",
@@ -36279,12 +31040,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "农场工人之怒",
-        "types": [
-            "攻击单个目标",
-            "无视防御",
-            "单体防御衰减"
-        ],
-        "skill_types": [],
         "source": "神话召唤 - 月英",
         "Release date": "2026-05-01",
         "specialId": "farmhands_fury",
@@ -36333,15 +31088,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "幽灵链枷",
-        "types": [
-            "随机攻击5个目标",
-            "命中时攻击减益叠加"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "攻击减益",
-            "叠加"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2022-01-27",
         "specialId": "spectres_flail",
@@ -36397,15 +31143,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "海藻链枷",
-        "types": [
-            "随机攻击5个目标",
-            "命中时攻击减益叠加"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "攻击减益",
-            "叠加"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2024-08-01",
         "specialId": "seaweed_flail",
@@ -36466,14 +31203,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "元素召唤",
-        "types": [
-            "治疗者",
-            "持续伤害"
-        ],
-        "skill_types": [
-            "生命强化",
-            "持续伤害"
-        ],
         "source": "超级元素人",
         "Release date": "2024-05-20",
         "specialId": "call_of_the_elements",
@@ -36542,17 +31271,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "魔法",
         "skill": "符咒双剑",
-        "types": [
-            "蓄力",
-            "攻击单个目标",
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害",
-            "狙击手",
-            "法力削减或格挡"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "specialId": "charmed_dual_blade",
@@ -36614,18 +31332,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "魔法",
         "skill": "翡翠双刃",
-        "types": [
-            "蓄力",
-            "攻击单个目标",
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害",
-            "狙击手",
-            "法力削减或格挡",
-            "反制小兵"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-11-03",
         "specialId": "emerald_dual_blade",
@@ -36692,18 +31398,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "杂耍试炼",
-        "types": [
-            "全体重新排布",
-            "攻击所有目标",
-            "全体法力生成降低",
-            "自我力量提升"
-        ],
-        "skill_types": [
-            "重排队伍",
-            "全体攻击 (打5)",
-            "法力削减或格挡",
-            "攻击增益"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2026-01-18",
         "specialId": "juggling_trials",
@@ -36777,20 +31471,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "炽焰毒液",
-        "types": [
-            "火暴击 (全体)",
-            "无视小兵",
-            "全体持续伤害",
-            "全体灼烧与中毒伤害增加减益"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "额外伤害",
-            "反制小兵",
-            "狙击手",
-            "绕过",
-            "防御减益"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2025-01-26",
         "specialId": "blazing_venom",
@@ -36860,13 +31540,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "治疗毒液",
-        "types": [
-            "火暴击 (全体)",
-            "无视小兵",
-            "全体持续伤害",
-            "全体灼烧与中毒伤害增加减益"
-        ],
-        "skill_types": [],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2026-05-01",
         "specialId": "curing_venom",
@@ -36919,16 +31592,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "远古科技",
-        "types": [
-            "全体治疗",
-            "复活者",
-            "全体状态异常免疫"
-        ],
-        "skill_types": [
-            "治疗",
-            "复活",
-            "提供免疫"
-        ],
         "source": "盟约召唤",
         "Release date": "2026-03-26",
         "specialId": "ancient_technology",
@@ -36995,17 +31658,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "歌剧回声",
-        "types": [
-            "攻击单个目标",
-            "单体扩散型持续伤害",
-            "全体攻击增益叠加"
-        ],
-        "skill_types": [
-            "狙击手",
-            "持续伤害",
-            "叠加",
-            "攻击增益"
-        ],
         "source": "挑战 - 歌剧之谜",
         "Release date": "2024-03-21",
         "specialId": "echoes_of_the_opera",
@@ -37070,16 +31722,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "翠玉刀刃",
-        "types": [
-            "攻击2个目标",
-            "造成伤害时提升生命值(3个目标)",
-            "2个目标沉默"
-        ],
-        "skill_types": [
-            "生命强化",
-            "沉默",
-            "狙击手"
-        ],
         "source": "超级元素人",
         "Release date": "2024-01-01",
         "specialId": "jade_blades",
@@ -37142,16 +31784,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "寻爱之人",
-        "types": [
-            "嘲讽",
-            "反击",
-            "伤害减免者"
-        ],
-        "skill_types": [
-            "反击",
-            "伤害减免",
-            "嘲讽"
-        ],
         "source": "月活动 - 恋爱季节",
         "Release date": "2025-02-14",
         "specialId": "looking_for_love",
@@ -37205,15 +31837,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "剑指巅峰",
-        "types": [
-            "攻击所有目标",
-            "全体法力削减"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力削减或格挡",
-            "绕过"
-        ],
         "source": "挑战 - 贝奥武夫",
         "Release date": "2025-03-13",
         "specialId": "challenge_the_strongest",
@@ -37273,16 +31896,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "毒芹茶",
-        "types": [
-            "攻击所有目标",
-            "无视防御",
-            "全体净化免疫减益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "绕过",
-            "净化格挡者"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "2023-09-25",
         "specialId": "hemlock_tea",
@@ -37344,18 +31957,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "大蒜拼盘",
-        "types": [
-            "攻击所有目标",
-            "无视防御",
-            "全体净化免疫",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "绕过",
-            "净化格挡者",
-            "持续伤害"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "2025-10-08",
         "specialId": "garlic_serving_edwin",
@@ -37422,16 +32023,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "完美协作",
-        "types": [
-            "摧毁单个目标的小兵",
-            "攻击单个目标",
-            "每个小怪拥有者生命值削减"
-        ],
-        "skill_types": [
-            "最大生命削减",
-            "反制小兵",
-            "狙击手"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-06-10",
         "specialId": "perfect_teamwork",
@@ -37489,16 +32080,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "平衡默契",
-        "types": [
-            "摧毁单个目标的小兵",
-            "攻击单个目标",
-            "全体最大生命值降低"
-        ],
-        "skill_types": [
-            "最大生命削减",
-            "反制小兵",
-            "狙击手"
-        ],
         "source": "挑战节 II",
         "Release date": "2025-08-08",
         "specialId": "balanced_teamwork",
@@ -37562,16 +32143,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "充能",
         "skill": "下令伏击",
-        "types": [
-            "蓄力",
-            "攻击所有目标",
-            "全体反击小兵召唤者"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "反击",
-            "召唤小兵"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
         "specialId": "order_ambush",
@@ -37639,15 +32210,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "引诱之歌",
-        "types": [
-            "攻击3个目标",
-            "3个目标增益免疫",
-            "企图获得增益时受到伤害(3个目标)"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "增益格挡者"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "luring_song",
@@ -37705,16 +32267,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "舒缓之歌",
-        "types": [
-            "攻击3个目标",
-            "3个目标增益免疫",
-            "企图获得增益时受到伤害(3个目标)"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "增益格挡者",
-            "驱散"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2025-01-20",
         "specialId": "soothing_song",
@@ -37779,14 +32331,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "新月矛",
-        "types": [
-            "攻击3个目标",
-            "自我治疗"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "特殊治疗"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "crescent_spear",
@@ -37838,15 +32382,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "黯然矛",
-        "types": [
-            "攻击3个目标",
-            "3个目标治疗偷取"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "特殊治疗",
-            "治疗削减"
-        ],
         "source": "服装间",
         "Release date": "2020-05-18",
         "specialId": "eclipse_spear",
@@ -37900,14 +32435,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "月光之矛",
-        "types": [
-            "攻击所有目标",
-            "全体治疗量降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "治疗削减"
-        ],
         "source": "服装间",
         "Release date": "2022-09-05",
         "specialId": "lunar_spear",
@@ -37961,15 +32488,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "卡通之矛",
-        "types": [
-            "攻击3个目标",
-            "自我治疗"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害",
-            "特殊治疗"
-        ],
         "source": "服装间",
         "Release date": "2023-11-27",
         "specialId": "adorable_spear",
@@ -38029,16 +32547,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "玻璃长矛",
-        "types": [
-            "攻击3个目标",
-            "无视防御",
-            "自我治疗"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "绕过",
-            "特殊治疗"
-        ],
         "source": "服装间",
         "Release date": "2025-01-14",
         "specialId": "glass_spear",
@@ -38098,15 +32606,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "英姿长矛",
-        "types": [
-            "攻击3个目标",
-            "自我治疗"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害",
-            "特殊治疗"
-        ],
         "source": "服装间",
         "Release date": "2026-01-26",
         "specialId": "stylish_spear",
@@ -38166,21 +32665,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "变异标本",
-        "types": [
-            "3个目标攻击力成长",
-            "3个目标防御成长",
-            "召唤畸变超级小兵",
-            "超级小兵持续伤害 (单体)",
-            "超级小兵疯狂 (单体)",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "属性修改",
-            "召唤巨型小兵",
-            "持续伤害",
-            "失心攻击&治疗",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2025-12-03",
         "specialId": "mutated_specimen",
@@ -38261,16 +32745,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "自然的报复",
-        "types": [
-            "攻击3个目标",
-            "自我反射状态异常"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "全体攻击 (打5)",
-            "法力提升",
-            "反射"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2021-06-01",
         "specialId": "natures_payback",
@@ -38329,19 +32803,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "空中野餐",
-        "types": [
-            "全体治疗",
-            "全体净化",
-            "全体法力状态异常免疫",
-            "全体抵抗时增加法力"
-        ],
-        "skill_types": [
-            "治疗",
-            "提供免疫",
-            "反制小兵",
-            "法力提升",
-            "状态效果转换"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-04-17",
         "specialId": "picnic_in_the_sky",
@@ -38408,21 +32869,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "野蛮吞噬",
-        "types": [
-            "攻击单个目标",
-            "单体扩散型持续伤害",
-            "宝箱怪"
-        ],
-        "skill_types": [
-            "特殊治疗",
-            "反制小兵",
-            "狙击手",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形态与隐藏",
-            "绕过",
-            "持续伤害"
-        ],
         "source": "市集召唤",
         "Release date": "2025-10-27",
         "specialId": "savage_gobble_green",
@@ -38502,18 +32948,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "吸纳喽啰",
-        "types": [
-            "全体治疗",
-            "攻击所有目标",
-            "记忆召唤所有小兵",
-            "记忆召唤所有恶魔"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "治疗",
-            "召唤小兵",
-            "召唤恶魔"
-        ],
         "source": "神话召唤 - 额外抽奖",
         "Release date": "2022-11-22",
         "specialId": "absorbed_underlings",
@@ -38574,17 +33008,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "震撼战嚎",
-        "types": [
-            "攻击3个目标",
-            "3个目标元素防御降低",
-            "驱散3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "驱散",
-            "持续治疗"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2018-12-01",
         "specialId": "shattering_warcry",
@@ -38643,18 +33066,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "狩猎战嚎",
-        "types": [
-            "攻击3个目标",
-            "3个目标元素防御降低",
-            "驱散3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "驱散",
-            "持续治疗",
-            "净化"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2023-10-02",
         "specialId": "warcry_of_the_hunt",
@@ -38719,20 +33130,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "贪婪吞噬",
-        "types": [
-            "摧毁单个目标的小兵",
-            "攻击单个目标",
-            "宝箱怪"
-        ],
-        "skill_types": [
-            "特殊治疗",
-            "反制小兵",
-            "狙击手",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形态与隐藏",
-            "绕过"
-        ],
         "source": "市集召唤",
         "Release date": "2025-05-15",
         "specialId": "mimic_training_hero_green_bite",
@@ -38808,20 +33205,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "贪婪之枪",
-        "types": [
-            "霜降打击 (3个目标)",
-            "3个目标承受伤害增加",
-            "3个目标反射增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "攻击减益",
-            "反射",
-            "绕过",
-            "额外伤害",
-            "反制小兵"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2025-06-13",
         "specialId": "lance_of_avarice",
@@ -38888,18 +33271,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "疾病药方",
-        "types": [
-            "摧毁所有恶魔",
-            "全体净化",
-            "全体持续治疗",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "净化",
-            "持续伤害",
-            "反制恶魔",
-            "持续治疗"
-        ],
         "source": "挑战 - 众神狂欢节",
         "Release date": "2023-11-02",
         "specialId": "remedies_and_diseases",
@@ -38966,19 +33337,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "腐蚀弯刀",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "3个目标元素防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "持续伤害",
-            "法力削减或格挡",
-            "额外伤害",
-            "反制小兵"
-        ],
         "source": "盟约召唤",
         "Release date": "2023-06-28",
         "specialId": "corroding_cutlass",
@@ -39041,17 +33399,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "浓郁芬芳",
-        "types": [
-            "攻击单个目标",
-            "单体净化免疫",
-            "单体扩散型持续伤害"
-        ],
-        "skill_types": [
-            "狙击手",
-            "攻击增益",
-            "持续伤害",
-            "净化格挡者"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2025-07-01",
         "specialId": "heavy_fragrance",
@@ -39113,17 +33460,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "棘刺箭矢",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续性伤害",
-            "3个目标延迟麻痹"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "范围攻击 (打3)",
-            "沉睡",
-            "治疗削减"
-        ],
         "source": "盟约召唤",
         "Release date": "2025-04-14",
         "specialId": "barbed_arrows",
@@ -39182,15 +33518,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "雷电之刃",
-        "types": [
-            "攻击3个目标",
-            "全体净化"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "净化",
-            "额外伤害"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "2020-10-26",
         "specialId": "electric_cut",
@@ -39252,16 +33579,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "电光刺",
-        "types": [
-            "攻击3个目标",
-            "全体净化",
-            "全体冰系元素防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "净化",
-            "防御减益"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "2021-10-04",
         "specialId": "electric_stab",
@@ -39321,17 +33638,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "友谊卷轴",
-        "types": [
-            "安全驱散全体增益",
-            "全体强化治疗",
-            "随机1个状态异常来源"
-        ],
-        "skill_types": [
-            "驱散",
-            "生命强化",
-            "法力削减或格挡",
-            "防御减益"
-        ],
         "source": "挑战 - 贝奥武夫",
         "Release date": "2025-09-05",
         "specialId": "scroll_of_fellowship",
@@ -39401,15 +33707,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "腐朽之力",
-        "types": [
-            "攻击所有目标",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御减益",
-            "额外伤害"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2020-08-27",
         "specialId": "brittling_force",
@@ -39467,15 +33764,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "粉碎爆破",
-        "types": [
-            "攻击所有目标",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害",
-            "防御减益"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2023-01-16",
         "specialId": "brittling_burst",
@@ -39535,18 +33823,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "皇家毒物",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害",
-            "全体法力生成降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "伤害分摊",
-            "持续伤害",
-            "法力提升",
-            "法力削减或格挡"
-        ],
         "source": "挑战节 I",
         "Release date": "2023-08-10",
         "specialId": "royal_poisoner",
@@ -39609,15 +33885,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "古林之怒",
-        "types": [
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害",
-            "攻击增益",
-            "全体攻击 (打5)"
-        ],
         "source": "盟约召唤",
         "Release date": "2023-10-28",
         "specialId": "fury_of_the_ancient_forest",
@@ -39678,18 +33945,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "复苏污泥",
-        "types": [
-            "全体生命值加成",
-            "全体粘性表面增益",
-            "全体防御增益",
-            "全体增益驱散免疫"
-        ],
-        "skill_types": [
-            "增益窃取者",
-            "防御增益",
-            "生命强化",
-            "提供免疫"
-        ],
         "source": "超级元素人",
         "Release date": "2024-06-18",
         "specialId": "revitalizing_sludge",
@@ -39752,19 +34007,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "潮汐",
         "skill": "陆龟翻滚",
-        "types": [
-            "摧毁所有小兵",
-            "攻击所有目标",
-            "全体防御增益",
-            "小怪被消灭时自身治疗叠加"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御增益",
-            "反制小兵",
-            "叠加",
-            "持续治疗"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2023-06-07",
         "specialId": "testudo_roll",
@@ -39836,19 +34078,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "潮汐",
         "skill": "陆龟巨石",
-        "types": [
-            "消灭全体小怪",
-            "攻击所有目标",
-            "全体防御增益",
-            "小怪被消灭时自身治疗叠加"
-        ],
-        "skill_types": [
-            "反制小兵",
-            "全体攻击 (打5)",
-            "防御增益",
-            "持续治疗",
-            "叠加"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2024-07-27",
         "specialId": "testudo_rock",
@@ -39925,14 +34154,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "毁灭连枷",
-        "types": [
-            "攻击单个目标",
-            "自身持续治疗"
-        ],
-        "skill_types": [
-            "持续治疗",
-            "狙击手"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-04-22",
         "specialId": "flail_of_destruction",
@@ -39988,16 +34209,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "毅力风筝",
-        "types": [
-            "攻击单个目标",
-            "自身持续治疗"
-        ],
-        "skill_types": [
-            "持续治疗",
-            "狙击手",
-            "攻击增益",
-            "额外伤害"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2023-06-22",
         "specialId": "kite_of_endurance",
@@ -40058,20 +34269,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "骨棒派对",
-        "types": [
-            "全体生命值加成",
-            "全体最大生命值降低",
-            "4个目标软肤",
-            "全体治疗减益免疫",
-            "净化全体治疗减益"
-        ],
-        "skill_types": [
-            "净化",
-            "伤害减免",
-            "生命强化",
-            "提供免疫",
-            "最大生命削减"
-        ],
         "source": "挑战 - 石像鬼",
         "Release date": "2024-02-27",
         "specialId": "bone_club_party",
@@ -40129,18 +34326,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "潮汐",
         "skill": "漩涡突刺",
-        "types": [
-            "偷取单个目标法力",
-            "攻击单个目标",
-            "全体法力生成增益"
-        ],
-        "skill_types": [
-            "法力生成增益",
-            "法力提升",
-            "法力削减或格挡",
-            "狙击手",
-            "额外伤害"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2023-08-30",
         "specialId": "whirlpool_dash",
@@ -40217,18 +34402,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "潮汐",
         "skill": "清除突刺",
-        "types": [
-            "偷取单个目标法力",
-            "攻击单个目标",
-            "全体法力生成增益"
-        ],
-        "skill_types": [
-            "法力生成增益",
-            "法力提升",
-            "法力削减或格挡",
-            "狙击手",
-            "额外伤害"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2025-06-26",
         "specialId": "scavenging_dash",
@@ -40310,16 +34483,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "劲疾扳指",
-        "types": [
-            "召唤所有",
-            "盟友特殊技能时攻击随机单个目标",
-            "4个目标特技伤害增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "连锁与随机攻击",
-            "召唤小兵"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2023-12-01",
         "specialId": "hasty_trigger_finger",
@@ -40377,18 +34540,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "急躁的礼物包装者",
-        "types": [
-            "召唤所有",
-            "盟友特殊技能时攻击单个目标",
-            "4个目标法力生成增益",
-            "全体特殊技能伤害增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "连锁与随机攻击",
-            "召唤小兵",
-            "法力生成增益"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2025-12-01",
         "specialId": "hasty_gift_wrapper",
@@ -40454,18 +34605,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "坚守阵地",
-        "types": [
-            "全体治疗",
-            "全体状态异常免疫增益",
-            "长枪守卫超级小兵",
-            "驱散小怪"
-        ],
-        "skill_types": [
-            "治疗",
-            "状态效果格挡",
-            "召唤小兵",
-            "驱散"
-        ],
         "source": "哥布林召唤",
         "Release date": "2025-07-22",
         "specialId": "holding_down_the_fort",
@@ -40531,16 +34670,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "骸骨猛击",
-        "types": [
-            "攻击所有目标",
-            "全体防御降低",
-            "自我史莱姆复活"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御减益",
-            "复活"
-        ],
         "source": "超级元素人",
         "Release date": "2025-03-17",
         "specialId": "bone_slam",
@@ -40610,18 +34739,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "荒野诅咒",
-        "types": [
-            "攻击3个目标",
-            "3个目标嘲讽格挡",
-            "3个目标特殊技能防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "反制恶魔",
-            "提供免疫",
-            "嘲讽"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2022-09-01",
         "specialId": "malison_of_the_wildlands",
@@ -40682,17 +34799,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "复仇之兆",
-        "types": [
-            "防御降低",
-            "攻击所有目标",
-            "自我复活",
-            "复活时伤害全体"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御减益",
-            "复活"
-        ],
         "source": "挑战节 I",
         "Release date": "2023-04-20",
         "specialId": "omen_of_retribution",
@@ -40755,15 +34861,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "坚定聚焦",
-        "types": [
-            "攻击单个目标",
-            "全体暴击几率增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "狙击手",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2018-07-01",
         "specialId": "unwavering_focus",
@@ -40816,16 +34913,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "精研炼金",
-        "types": [
-            "攻击单个目标",
-            "全体暴击几率增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "狙击手",
-            "防御增益",
-            "驱散"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2024-03-08",
         "specialId": "exquisite_alchemy",
@@ -40884,18 +34971,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "血腥冲锋",
-        "types": [
-            "3个目标元素防御降低",
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "自我持续治疗"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "持续治疗",
-            "防御减益"
-        ],
         "source": "挑战 - 贝奥武夫",
         "Release date": "2025-02-13",
         "specialId": "gruesome_charge",
@@ -40964,18 +35039,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "迷人害虫",
-        "types": [
-            "延迟自我法力提升",
-            "青苔幼蛾超级恶魔"
-        ],
-        "skill_types": [
-            "召唤恶魔",
-            "法力削减或格挡",
-            "法力提升",
-            "持续伤害",
-            "闪避",
-            "反制小兵"
-        ],
         "source": "联盟 - 飞蛾",
         "Release date": "2025-01-23",
         "specialId": "adorable_pest",
@@ -41038,16 +35101,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "青龙偃月刀",
-        "types": [
-            "攻击3个目标",
-            "无视小兵",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "反制小兵"
-        ],
         "source": "三国召唤",
         "Release date": "2022-03-14",
         "specialId": "green_dragon_crescent_blade",
@@ -41105,16 +35158,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "青龙炼狱刀",
-        "types": [
-            "攻击3个目标",
-            "无视小兵",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "反制小兵"
-        ],
         "source": "三国召唤",
         "Release date": "2024-10-01",
         "specialId": "green_dragon_inferno",
@@ -41181,18 +35224,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "元素人魔法",
-        "types": [
-            "全体驱散",
-            "全体属性转换",
-            "全体攻击增益",
-            "全体暴击几率增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "驱散",
-            "净化",
-            "状态效果格挡"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "elemental_magic",
@@ -41249,15 +35280,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "摧毁碎击",
-        "types": [
-            "攻击3个目标",
-            "3个目标受到伤害增加减益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "额外伤害"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2022-11-12",
         "specialId": "demolishing_crush",
@@ -41315,22 +35337,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "万能背包",
-        "types": [
-            "全体攻击增益",
-            "全体防御增益",
-            "全体法力生成增益",
-            "全体持续治疗",
-            "反击",
-            "全体反击"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "防御增益",
-            "反击",
-            "持续治疗",
-            "法力生成增益",
-            "生命强化"
-        ],
         "source": "盟约召唤",
         "Release date": "2023-06-28",
         "specialId": "bag_of_necessities",
@@ -41407,13 +35413,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "诅咒审判",
-        "types": [
-            "攻击3个目标",
-            "无视防御",
-            "3个目标持续伤害",
-            "3个目标复活阻挡"
-        ],
-        "skill_types": [],
         "source": "三国召唤",
         "Release date": "2026-05-21",
         "specialId": "cursed_judgement",
@@ -41463,16 +35462,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "加拉尔号角",
-        "types": [
-            "全体生命值加成",
-            "复活者",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "生命强化",
-            "复活"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "",
         "specialId": "boon_of_gjallarhorn",
@@ -41526,17 +35515,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "加拉尔庇佑",
-        "types": [
-            "复活者",
-            "全体攻击增益",
-            "全体强化持续治疗"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "生命强化",
-            "复活",
-            "持续治疗"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2022-10-24",
         "specialId": "blessing_of_gjallarhorn",
@@ -41592,14 +35570,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "森林之怒",
-        "types": [
-            "攻击所有目标",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "anger_of_forest",
@@ -41651,14 +35621,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "慢",
         "skill": "小丑之怒",
-        "types": [
-            "攻击所有目标",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益"
-        ],
         "source": "服装间",
         "Release date": "2020-01-01",
         "specialId": "anger_of_the_jester",
@@ -41712,18 +35674,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "树林之怒",
-        "types": [
-            "攻击所有目标",
-            "全体攻击降低",
-            "全体防御降低",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "防御减益",
-            "持续伤害"
-        ],
         "source": "服装间",
         "Release date": "2022-10-31",
         "specialId": "anger_of_the_woods",
@@ -41782,15 +35732,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "卡通愤怒",
-        "types": [
-            "攻击所有目标",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-07-16",
         "specialId": "tantrum_of_forest",
@@ -41854,16 +35795,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "碎片之怒",
-        "types": [
-            "攻击所有目标",
-            "无视防御",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "绕过"
-        ],
         "source": "服装间",
         "Release date": "2025-09-07",
         "specialId": "glass_anger_of_forest_horghall",
@@ -41927,16 +35858,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "食肉花园",
-        "types": [
-            "摧毁3个目标的小兵",
-            "攻击3个目标",
-            "召唤3个恶魔"
-        ],
-        "skill_types": [
-            "反制小兵",
-            "范围攻击 (打3)",
-            "召唤恶魔"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "2025-10-08",
         "specialId": "carnivore_garden",
@@ -42001,17 +35922,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "重铸青铜斧",
-        "types": [
-            "攻击所有目标",
-            "全体生命值加成",
-            "防御增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "特殊治疗",
-            "防御增益",
-            "生命强化"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2024-06-05",
         "specialId": "mending_bronze_axe",
@@ -42070,20 +35980,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "北极星远征",
-        "types": [
-            "攻击单个目标",
-            "伤害链接 (单体)",
-            "全体攻击力成长",
-            "全体法力生成增益"
-        ],
-        "skill_types": [
-            "狙击手",
-            "额外伤害",
-            "属性修改",
-            "法力生成增益",
-            "绕过",
-            "反制小兵"
-        ],
         "source": "星体召唤",
         "Release date": "2025-08-24",
         "specialId": "polestar_expedition",
@@ -42151,17 +36047,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "梦魇水域",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "3个目标治疗偷取"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "特殊治疗",
-            "治疗削减"
-        ],
         "source": "月活动 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "specialId": "dreaded_waters",
@@ -42220,21 +36105,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "充能",
         "skill": "抑制之气",
-        "types": [
-            "蓄力",
-            "攻击 (1/3/所有) 目标",
-            "全体生命值提升",
-            "法力生成降低 (1/3/所有目标)"
-        ],
-        "skill_types": [
-            "狙击手",
-            "范围攻击 (打3)",
-            "全体攻击 (打5)",
-            "特殊治疗",
-            "法力削减或格挡",
-            "生命强化",
-            "反制小兵"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2024-12-05",
         "specialId": "suppressing_ki",
@@ -42303,17 +36173,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "充能",
         "skill": "众生之相",
-        "types": [
-            "蓄力",
-            "攻击所有目标",
-            "全体法力削减",
-            "1/3/全体目标闪避率增益"
-        ],
-        "skill_types": [
-            "闪避",
-            "法力削减或格挡",
-            "全体攻击 (打5)"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "specialId": "shared_visage",
@@ -42380,14 +36239,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "黯然盾",
-        "types": [
-            "攻击所有目标",
-            "全体特殊技能防御增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御增益"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "eclipse_shield",
@@ -42439,15 +36290,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "新月盾",
-        "types": [
-            "攻击所有目标",
-            "全体特殊技能闪避率增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "闪避",
-            "召唤小兵"
-        ],
         "source": "服装间",
         "Release date": "2020-05-18",
         "specialId": "crescent_shield",
@@ -42507,15 +36349,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "月光护盾",
-        "types": [
-            "攻击所有目标",
-            "全体特殊技能闪避率增益"
-        ],
-        "skill_types": [
-            "闪避",
-            "召唤小兵",
-            "全体攻击 (打5)"
-        ],
         "source": "服装间",
         "Release date": "2023-04-17",
         "specialId": "lunar_shield",
@@ -42575,15 +36408,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "卡通之盾",
-        "types": [
-            "攻击所有目标",
-            "全体特殊技能防御增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御增益",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-10-06",
         "specialId": "adorable_shield",
@@ -42647,16 +36471,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "玻璃护盾",
-        "types": [
-            "攻击所有目标",
-            "无视防御",
-            "全体特殊技能防御增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御增益",
-            "绕过"
-        ],
         "source": "服装间",
         "Release date": "2025-12-11",
         "specialId": "glass_shield_kadilen",
@@ -42720,12 +36534,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "充能",
         "skill": "手里剑风暴",
-        "types": [
-            "蓄力",
-            "每回合偷取1个目标的增益",
-            "每回合随机攻击单体并增益自身/3个目标/全体"
-        ],
-        "skill_types": [],
         "source": "高塔 - 忍者",
         "Release date": "2026-04-06",
         "specialId": "shuriken_storm",
@@ -42778,7 +36586,19 @@ window.allHeroes =
             "health": 2941,
             "power": 1599
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：单体"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "状态-偷取增益",
+                    "伤害-条件触发"
+                ]
+            }
+        ]
     },
     {
         "name": "凯 (Kai)",
@@ -42788,19 +36608,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "飞速",
         "skill": "螳螂之击",
-        "types": [
-            "攻击单个目标",
-            "召唤1个恶魔",
-            "单体治疗降低",
-            "每回合驱散 1 个目标"
-        ],
-        "skill_types": [
-            "驱散",
-            "持续伤害",
-            "召唤恶魔",
-            "狙击手",
-            "治疗削减"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2022-10-15",
         "specialId": "mantis_strike",
@@ -42871,20 +36678,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "灭绝激流",
-        "types": [
-            "自身生命值加成治疗",
-            "攻击所有目标",
-            "全体狂乱",
-            "储存受到的伤害",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "生命强化",
-            "全体攻击 (打5)",
-            "额外伤害",
-            "失心攻击&治疗",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2025-09-09",
         "specialId": "obliterating_surge",
@@ -42958,15 +36751,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "匕首旋风",
-        "types": [
-            "攻击单个目标",
-            "3个目标攻击降低"
-        ],
-        "skill_types": [
-            "攻击减益",
-            "法力生成增益",
-            "狙击手"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2019-10-01",
         "specialId": "stiletto_cyclone",
@@ -43023,19 +36807,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "洗衣日",
-        "types": [
-            "全体驱散最新获得的增益",
-            "攻击所有目标",
-            "持盾守卫超级小兵",
-            "安全清除全体队友的小怪"
-        ],
-        "skill_types": [
-            "驱散",
-            "全体攻击 (打5)",
-            "额外伤害",
-            "召唤巨型小兵",
-            "净化"
-        ],
         "source": "哥布林召唤",
         "Release date": "2024-11-24",
         "specialId": "laundry_day",
@@ -43107,14 +36878,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "月光小夜曲",
-        "types": [
-            "3个目标持续伤害",
-            "全体净化"
-        ],
-        "skill_types": [
-            "净化",
-            "持续伤害"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "moonlight_serenade",
@@ -43167,16 +36930,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "煽动小夜曲",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "全体净化"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "净化",
-            "持续伤害"
-        ],
         "source": "挑战节 I",
         "Release date": "2023-12-28",
         "specialId": "serenade_of_sedition",
@@ -43236,16 +36989,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "神奇宝剑",
-        "types": [
-            "治疗者",
-            "召唤3个小兵",
-            "法力削减小怪"
-        ],
-        "skill_types": [
-            "治疗",
-            "法力削减或格挡",
-            "召唤小兵"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "magical_sword",
@@ -43299,16 +37042,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "祝福之刃",
-        "types": [
-            "全体生命值加成",
-            "召唤3个小兵",
-            "法力生成减益小怪"
-        ],
-        "skill_types": [
-            "生命强化",
-            "法力削减或格挡",
-            "召唤小兵"
-        ],
         "source": "挑战节 I",
         "Release date": "2021-12-15",
         "specialId": "blessed_blade",
@@ -43369,19 +37102,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "不屈姿态",
-        "types": [
-            "谦逊",
-            "攻击3个目标",
-            "无视防御",
-            "嘲讽",
-            "自我石肤"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "绕过",
-            "嘲讽",
-            "伤害减免"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2026-01-23",
         "specialId": "unyielding_stance",
@@ -43454,16 +37174,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "春日英灵",
-        "types": [
-            "召唤所有",
-            "小怪提升生命值",
-            "全体特技伤害增加增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "生命强化",
-            "召唤小兵"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2023-12-01",
         "specialId": "spirit_of_spring",
@@ -43525,15 +37235,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "迷幻魔笛",
-        "types": [
-            "全体防御力成长",
-            "斑点猪超级小怪"
-        ],
-        "skill_types": [
-            "属性修改",
-            "提供免疫",
-            "召唤巨型小兵"
-        ],
         "source": "哥布林召唤",
         "Release date": "2023-12-11",
         "specialId": "flute_of_enchantment",
@@ -43593,16 +37294,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "雌狮之爪",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "防御减益",
-            "复活"
-        ],
         "source": "荒野召唤",
         "Release date": "2025-03-17",
         "specialId": "claws_of_the_lioness",
@@ -43668,12 +37359,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "完美一击",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "perfect_shot",
@@ -43719,14 +37404,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "纯净射击",
-        "types": [
-            "攻击单个目标",
-            "单体法力生成降低"
-        ],
-        "skill_types": [
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2020-01-01",
         "specialId": "pure_shot",
@@ -43780,14 +37457,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "百发百中",
-        "types": [
-            "攻击单个目标",
-            "单体沉默者"
-        ],
-        "skill_types": [
-            "沉默",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2023-04-17",
         "specialId": "flawless_shot",
@@ -43841,13 +37510,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "卡通射击",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2024-02-12",
         "specialId": "toon_shot",
@@ -43905,14 +37567,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "玻璃箭矢",
-        "types": [
-            "攻击单个目标",
-            "无视防御"
-        ],
-        "skill_types": [
-            "绕过",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2025-05-10",
         "specialId": "glass_arrow",
@@ -43970,13 +37624,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "时尚箭矢",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "狙击手",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2026-03-12",
         "specialId": "stylish_arrow",
@@ -44034,20 +37681,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "非常慢",
         "skill": "困倦蜜酒",
-        "types": [
-            "攻击所有目标",
-            "全体深度睡眠",
-            "偷取1个增益",
-            "自我法力提升"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "增益窃取者",
-            "沉睡",
-            "法力提升",
-            "闪避",
-            "反制小兵"
-        ],
         "source": "联盟 - 飞蛾",
         "Release date": "2025-06-02",
         "specialId": "dozy_mead",
@@ -44117,19 +37750,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "飞速",
         "skill": "惩戒打击",
-        "types": [
-            "几率暴击",
-            "攻击3个目标",
-            "3个目标伤害增加减益叠加",
-            "3个目标暴击几率增益叠加"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害",
-            "攻击增益",
-            "防御减益",
-            "叠加"
-        ],
         "source": "三国召唤",
         "Release date": "2025-12-14",
         "specialId": "punishing_strike",
@@ -44204,16 +37824,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "利他之箭",
-        "types": [
-            "攻击所有目标",
-            "无视防御",
-            "偷取全体最新增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "绕过",
-            "增益窃取者"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2025-12-01",
         "specialId": "arrows_of_altruism_liora",
@@ -44275,16 +37885,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "仁义之师",
-        "types": [
-            "攻击3个目标",
-            "召唤所有",
-            "小怪反击"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "反击",
-            "召唤小兵"
-        ],
         "source": "三国召唤",
         "Release date": "2022-05-23",
         "specialId": "call_to_arms",
@@ -44342,16 +37942,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "森林指挥",
-        "types": [
-            "攻击3个目标",
-            "召唤所有",
-            "小怪反击"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "召唤小兵",
-            "反击"
-        ],
         "source": "三国召唤",
         "Release date": "2025-01-29",
         "specialId": "forest_command",
@@ -44418,20 +38008,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "超自然洗礼",
-        "types": [
-            "自身完全净化",
-            "幽灵形态",
-            "幽灵形态下4个目标防御增益",
-            "幽灵形态下4个目标强化持续治疗"
-        ],
-        "skill_types": [
-            "防御增益",
-            "鬼魂形态与隐藏",
-            "持续治疗",
-            "叠加",
-            "净化",
-            "生命强化"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-11-04",
         "specialId": "transcendental_frame",
@@ -44492,19 +38068,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "超然冲锋",
-        "types": [
-            "自身完全净化",
-            "幽灵形态",
-            "幽灵形态下4个目标防御增益",
-            "幽灵形态下4个目标强化持续治疗"
-        ],
-        "skill_types": [
-            "防御增益",
-            "鬼魂形态与隐藏",
-            "持续治疗",
-            "净化",
-            "生命强化"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2024-08-29",
         "specialId": "transcendental_charge",
@@ -44569,16 +38132,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "秩序使者",
-        "types": [
-            "攻击所有目标",
-            "全体防御降低",
-            "全体火属性攻击减益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "防御减益"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-09-29",
         "specialId": "bringer_of_order",
@@ -44638,16 +38191,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "蓝河守护者",
-        "types": [
-            "攻击所有目标",
-            "全体防御降低",
-            "全体火属性攻击减益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "防御减益"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-02-05",
         "specialId": "protector_of_the_blue_river",
@@ -44714,16 +38257,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "星体佳酿",
-        "types": [
-            "全体治疗",
-            "强化持续治疗",
-            "全体伤害减免"
-        ],
-        "skill_types": [
-            "治疗",
-            "生命强化",
-            "伤害减免"
-        ],
         "source": "星体召唤",
         "Release date": "2025-01-06",
         "specialId": "astral_brew",
@@ -44786,16 +38319,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "飞速",
         "skill": "藏形匿影",
-        "types": [
-            "攻击3个目标",
-            "3个目标闪避率增益",
-            "闪避时法力提升"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "闪避",
-            "法力提升"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2019-05-01",
         "specialId": "hide_in_shadows",
@@ -44853,16 +38376,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "狗狗传奇",
-        "types": [
-            "全体治疗",
-            "召唤所有",
-            "全体伤害减免"
-        ],
-        "skill_types": [
-            "伤害减免",
-            "治疗",
-            "召唤小兵"
-        ],
         "source": "挑战节 II",
         "Release date": "2022-11-03",
         "specialId": "puppy_tales",
@@ -44926,16 +38439,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "超级诡诈喷雾",
-        "types": [
-            "攻击3个目标",
-            "防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "额外伤害",
-            "持续伤害"
-        ],
         "source": "月活动 - 海滩派对",
         "Release date": "2024-06-03",
         "specialId": "super_duper_spray",
@@ -44999,18 +38502,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "潮涌充能",
-        "types": [
-            "治疗3个目标",
-            "治疗成长恩赐",
-            "3个目标反击",
-            "3个目标反击时获得法力"
-        ],
-        "skill_types": [
-            "治疗",
-            "特殊治疗",
-            "反击",
-            "法力提升"
-        ],
         "source": "神殿召唤",
         "Release date": "2026-02-25",
         "specialId": "coastal_recharge",
@@ -45078,12 +38569,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "魔法焕新",
-        "types": [
-            "全体法力提升",
-            "连根拔起并净化全体",
-            "自身生命值加成持续治疗"
-        ],
-        "skill_types": [],
         "source": "挑战 - 英勇植物召唤",
         "Release date": "2026-05-17",
         "specialId": "magical_refreshment",
@@ -45141,17 +38626,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "毛球飞舞",
-        "types": [
-            "攻击3个目标",
-            "绒毛齐射"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "法力削减或格挡",
-            "伤害减免",
-            "提供免疫",
-            "范围攻击 (打3)"
-        ],
         "source": "挑战 - 石像鬼",
         "Release date": "2024-05-16",
         "specialId": "fluff_in_the_air",
@@ -45210,17 +38684,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "石化表演",
-        "types": [
-            "3个目标最大生命值降低",
-            "延迟麻痹3个目标",
-            "驱散3个目标"
-        ],
-        "skill_types": [
-            "最大生命削减",
-            "法力削减或格挡",
-            "额外伤害",
-            "驱散"
-        ],
         "source": "挑战节 II",
         "Release date": "2025-08-08",
         "specialId": "petrifying_performance",
@@ -45279,19 +38742,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "迷雾之拳",
-        "types": [
-            "攻击3个目标",
-            "3个目标抵抗治疗减益",
-            "3个目标每次抵抗治疗时受到伤害",
-            "自身攻击增益叠加"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击增益",
-            "治疗削减",
-            "叠加",
-            "持续伤害"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2023-03-03",
         "specialId": "misty_punches",
@@ -45355,15 +38805,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "叶华绽放",
-        "types": [
-            "敌方释放特技后攻击全体",
-            "全体法力生成增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力生成增益",
-            "伤害分摊"
-        ],
         "source": "星体召唤",
         "Release date": "2024-03-07",
         "specialId": "leafglow_bloom",
@@ -45421,14 +38862,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "火力吞噬者",
-        "types": [
-            "单体生命汲取",
-            "3个目标元素防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "持续伤害"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "unnatural_pact",
@@ -45490,16 +38923,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "超级稀饭",
-        "types": [
-            "全体治疗",
-            "复活者",
-            "召唤所有"
-        ],
-        "skill_types": [
-            "治疗",
-            "召唤小兵",
-            "复活"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "",
         "specialId": "super_porridge",
@@ -45553,16 +38976,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "超能稀饭",
-        "types": [
-            "复活者",
-            "召唤所有",
-            "全体持续治疗"
-        ],
-        "skill_types": [
-            "持续治疗",
-            "召唤小兵",
-            "复活"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2021-12-01",
         "specialId": "hyper_porridge",
@@ -45622,17 +39035,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "阴险粘物",
-        "types": [
-            "攻击所有目标",
-            "召唤所有史莱姆恶魔",
-            "偷取增益恶魔"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "增益窃取者",
-            "召唤恶魔",
-            "持续伤害"
-        ],
         "source": "超级元素人",
         "Release date": "2024-10-02",
         "specialId": "insidious_goo",
@@ -45693,17 +39095,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "充能",
         "skill": "坚毅英灵",
-        "types": [
-            "蓄力",
-            "全体强化治疗",
-            "全体法力生成增益",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "生命强化",
-            "法力生成增益"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2023-04-05",
         "specialId": "resolute_spirit",
@@ -45767,17 +39158,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "魅力之镜",
-        "types": [
-            "敌方伤害分担",
-            "全体防御降低",
-            "全体元素反射",
-            "全体元素反击"
-        ],
-        "skill_types": [
-            "伤害分摊",
-            "防御减益",
-            "反射"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2025-02-01",
         "specialId": "mesmerizing_mirror",
@@ -45838,15 +39218,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "完美一掷",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "3个目标生命值加成转换"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "最大生命削减"
-        ],
         "source": "神话召唤",
         "Release date": "2024-02-09",
         "specialId": "the_perfect_throw",
@@ -45909,20 +39280,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "守护传奇",
-        "types": [
-            "全体生命值加成",
-            "全体焰暴守卫",
-            "全体增益驱散免疫"
-        ],
-        "skill_types": [
-            "生命强化",
-            "提供免疫",
-            "额外伤害",
-            "反制小兵",
-            "伤害减免",
-            "持续伤害",
-            "防御减益"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2024-12-03",
         "specialId": "saga_of_protection",
@@ -45984,20 +39341,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "守护乐章",
-        "types": [
-            "全体生命值加成",
-            "全体焰暴守卫",
-            "全体增益驱散免疫"
-        ],
-        "skill_types": [
-            "生命强化",
-            "提供免疫",
-            "额外伤害",
-            "反制小兵",
-            "伤害减免",
-            "持续伤害",
-            "防御减益"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2025-10-15",
         "specialId": "guarding_tunes",
@@ -46061,19 +39404,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "斩·愈·狂",
-        "types": [
-            "攻击所有目标",
-            "全体治疗",
-            "全体闪避率增益",
-            "闪避时施加狂乱",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "特殊治疗",
-            "闪避",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2025-02-06",
         "specialId": "cut_cure_and_craze",
@@ -46134,17 +39464,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "灵火斩击",
-        "types": [
-            "攻击3个目标",
-            "3个目标强化闪避增益",
-            "3个目标延迟攻击增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "闪避",
-            "攻击增益",
-            "反制小兵"
-        ],
         "source": "荒野召唤",
         "Release date": "2024-08-31",
         "specialId": "feyfire_slash",
@@ -46206,19 +39525,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "充能",
         "skill": "窒息浓烟",
-        "types": [
-            "蓄力",
-            "攻击 (1/3/所有) 目标",
-            "1/3/全体目标持续伤害",
-            "1/3/全体目标致盲"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "全体攻击 (打5)",
-            "攻击减益",
-            "持续伤害",
-            "狙击手"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2022-02-02",
         "specialId": "suffocating_smoke",
@@ -46283,16 +39589,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "英勇猛冲",
-        "types": [
-            "单体驱散",
-            "攻击单个目标",
-            "单体属性防御减益"
-        ],
-        "skill_types": [
-            "防御减益",
-            "驱散",
-            "狙击手"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-03-25",
         "specialId": "valiant_lunge",
@@ -46354,18 +39650,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "革新冲刺",
-        "types": [
-            "单体驱散",
-            "攻击单个目标",
-            "单体属性防御减益"
-        ],
-        "skill_types": [
-            "防御减益",
-            "驱散",
-            "狙击手",
-            "额外伤害",
-            "攻击增益"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2023-05-25",
         "specialId": "innovative_lunge",
@@ -46432,18 +39716,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "鲁莽挥剑",
-        "types": [
-            "攻击单个目标",
-            "随机攻击2个目标",
-            "命中时触发持续伤害",
-            "命中时增加流血持续伤害"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "持续伤害",
-            "狙击手",
-            "额外伤害"
-        ],
         "source": "哥布林召唤",
         "Release date": "2024-09-01",
         "specialId": "reckless_sword_swings",
@@ -46506,19 +39778,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "苍鹭之舞",
-        "types": [
-            "自我复活",
-            "苍鹭之舞 (4个目标)",
-            "4个目标反击",
-            "4个目标伤害减免",
-            "4个目标状态效果免疫"
-        ],
-        "skill_types": [
-            "反击",
-            "伤害减免",
-            "舞者",
-            "复活"
-        ],
         "source": "挑战 - 歌剧之谜",
         "Release date": "2024-01-25",
         "specialId": "dance_of_the_heron",
@@ -46590,17 +39849,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "飞速",
         "skill": "成竹在胸",
-        "types": [
-            "攻击所有目标",
-            "全体窃取1个增益",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "增益窃取者",
-            "攻击增益",
-            "反制小兵"
-        ],
         "source": "月活动 - 农历生肖",
         "Release date": "2024-02-08",
         "specialId": "confident_strategy",
@@ -46662,18 +39910,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "王后致辞",
-        "types": [
-            "嘲讽",
-            "自身持续治疗",
-            "全体防御增益",
-            "全体法力生成增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "持续治疗",
-            "法力生成增益",
-            "嘲讽"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2022-12-14",
         "specialId": "the_queens_speech",
@@ -46733,16 +39969,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "啸鸣之剑",
-        "types": [
-            "攻击3个目标",
-            "自我力量提升",
-            "自我持续治疗"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击增益",
-            "持续治疗"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2021-10-13",
         "specialId": "howling_sword",
@@ -46796,16 +40022,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "锈蚀之刃",
-        "types": [
-            "攻击3个目标",
-            "自我力量提升",
-            "自我持续治疗"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击增益",
-            "持续治疗"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2024-12-17",
         "specialId": "rusty_blade",
@@ -46867,18 +40083,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "草药疗法",
-        "types": [
-            "摧毁所有恶魔",
-            "全体治疗",
-            "全体攻击力成长",
-            "全体防御力成长"
-        ],
-        "skill_types": [
-            "反制恶魔",
-            "治疗",
-            "属性修改",
-            "状态效果转换"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-10-19",
         "specialId": "herbal_remedies",
@@ -46952,16 +40156,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "世界树坚果",
-        "types": [
-            "全体治疗",
-            "改变棋盘"
-        ],
-        "skill_types": [
-            "改变面板",
-            "攻击减益",
-            "攻击增益",
-            "治疗"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "",
         "specialId": "nuts_of_yggdrasil",
@@ -47013,16 +40207,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "世界树之根",
-        "types": [
-            "全体持续治疗",
-            "改变棋盘"
-        ],
-        "skill_types": [
-            "改变面板",
-            "攻击减益",
-            "攻击增益",
-            "持续治疗"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2023-09-25",
         "specialId": "roots_of_yggdrasil",
@@ -47076,16 +40260,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "混合青草药",
-        "types": [
-            "全体治疗",
-            "复活者",
-            "月玫瑰守护 (全体)"
-        ],
-        "skill_types": [
-            "伤害减免",
-            "治疗",
-            "复活"
-        ],
         "source": "高塔 - 猫头鹰",
         "Release date": "2023-12-20",
         "specialId": "mixed_green_herbs",
@@ -47143,17 +40317,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "热力学第一定律",
-        "types": [
-            "嘲讽",
-            "全体持续治疗",
-            "储存伤害攻击全体"
-        ],
-        "skill_types": [
-            "持续治疗",
-            "嘲讽",
-            "生命强化",
-            "全体攻击 (打5)"
-        ],
         "source": "盟约召唤",
         "Release date": "2024-06-06",
         "specialId": "first_law_of_thermodynamics",
@@ -47220,14 +40383,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "元素灌注之箭",
-        "types": [
-            "攻击 (1/3/所有) 目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "全体攻击 (打5)",
-            "狙击手"
-        ],
         "source": "超级元素人",
         "Release date": "2022-12-05",
         "specialId": "elemental_infusion_arrow",
@@ -47283,15 +40438,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "声波灌注箭",
-        "types": [
-            "攻击 (1/3/所有) 目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "全体攻击 (打5)",
-            "狙击手",
-            "额外伤害"
-        ],
         "source": "超级元素人",
         "Release date": "2025-07-18",
         "specialId": "sonic_infusion_arrow",
@@ -47358,20 +40504,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "沉默强夺",
-        "types": [
-            "攻击单个目标",
-            "单体沉默者",
-            "单体特殊技能防御降低",
-            "单体净化免疫减益",
-            "自身最大生命值降低"
-        ],
-        "skill_types": [
-            "狙击手",
-            "沉默",
-            "防御减益",
-            "净化格挡者",
-            "对自身或友军负面效果"
-        ],
         "source": "月活动 - 春谷",
         "Release date": "2025-03-31",
         "specialId": "silencing_stick_up",
@@ -47430,16 +40562,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "沙漠之祷",
-        "types": [
-            "攻击单个目标",
-            "全体治疗",
-            "全体闪避率增益"
-        ],
-        "skill_types": [
-            "闪避",
-            "特殊治疗",
-            "狙击手"
-        ],
         "source": "三国召唤",
         "Release date": "2023-08-14",
         "specialId": "prayer_of_the_desert",
@@ -47503,16 +40625,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "草木之力",
-        "types": [
-            "3个目标防御降低",
-            "攻击单个目标",
-            "召唤所有"
-        ],
-        "skill_types": [
-            "防御减益",
-            "召唤小兵",
-            "狙击手"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2022-04-01",
         "specialId": "power_of_flora",
@@ -47577,16 +40689,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "哥布林小夜曲",
-        "types": [
-            "全体攻击衰减",
-            "全体最大生命值降低",
-            "全体特殊技能防御降低"
-        ],
-        "skill_types": [
-            "属性修改",
-            "防御减益",
-            "最大生命削减"
-        ],
         "source": "哥布林召唤",
         "Release date": "2023-09-18",
         "specialId": "goblin_serenade",
@@ -47642,17 +40744,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "野性之箭",
-        "types": [
-            "攻击3个目标",
-            "召唤3个恶魔",
-            "增伤恶魔"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害",
-            "召唤恶魔",
-            "持续伤害"
-        ],
         "source": "挑战节 II",
         "Release date": "2023-05-18",
         "specialId": "feral_arrows",
@@ -47717,17 +40808,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "果决豪赌",
-        "types": [
-            "封锁3个目标复活能力",
-            "封锁3个目标复活效果",
-            "攻击3个目标",
-            "3个目标衰退"
-        ],
-        "skill_types": [
-            "复活抑制",
-            "范围攻击 (打3)",
-            "属性修改"
-        ],
         "source": "哥布林召唤",
         "Release date": "2025-10-18",
         "specialId": "ruthless_gambit",
@@ -47788,15 +40868,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "潮汐",
         "skill": "雷霆突袭",
-        "types": [
-            "攻击所有目标",
-            "召唤所有恶魔"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "召唤恶魔",
-            "持续伤害"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2024-02-01",
         "specialId": "overwhelming_raid",
@@ -47861,15 +40932,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "潮汐",
         "skill": "反抗突袭",
-        "types": [
-            "攻击所有目标",
-            "召唤所有恶魔"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "召唤恶魔",
-            "持续伤害"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2025-02-03",
         "specialId": "opposing_raid",
@@ -47939,17 +41001,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "猛烈穿透",
-        "types": [
-            "持续无视防御",
-            "攻击单个目标",
-            "持续闪避"
-        ],
-        "skill_types": [
-            "绕过",
-            "狙击手",
-            "闪避",
-            "治疗削减"
-        ],
         "source": "盟约召唤",
         "Release date": "2024-11-18",
         "specialId": "fierce_pierce",
@@ -48011,19 +41062,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "活力之哨",
-        "types": [
-            "狂野",
-            "全体治疗或全体生命值提升",
-            "全体法力提升",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "持续治疗",
-            "生命强化",
-            "特殊治疗",
-            "法力提升",
-            "防御增益"
-        ],
         "source": "生日召唤",
         "Release date": "2026-03-18",
         "specialId": "vibrant_whistle",
@@ -48085,17 +41123,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "猛兽锤击",
-        "types": [
-            "攻击3个目标",
-            "3个目标致盲",
-            "3个目标持续伤害"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益",
-            "持续伤害",
-            "净化"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2023-02-09",
         "specialId": "mallet_swing_of_the_beast",
@@ -48156,16 +41183,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "慢",
         "skill": "能量波动",
-        "types": [
-            "攻击3个目标",
-            "莽夫乱拳"
-        ],
-        "skill_types": [
-            "法力削减或格挡",
-            "绕过",
-            "范围攻击 (打3)",
-            "伤害分摊"
-        ],
         "source": "星体召唤",
         "Release date": "2024-06-12",
         "specialId": "power_wave",
@@ -48229,19 +41246,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "凶险陷阱",
-        "types": [
-            "赌博",
-            "攻击所有目标",
-            "全体持续伤害",
-            "全体状态异常持续时间重置",
-            "几率暴击"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "效果持续重置",
-            "持续伤害",
-            "额外伤害"
-        ],
         "source": "三国召唤",
         "Release date": "2025-08-02",
         "specialId": "vicious_trap",
@@ -48319,18 +41323,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "原始阔剑",
-        "types": [
-            "攻击 1 个或 3 个目标",
-            "驱散3个目标",
-            "3个目标法力削减"
-        ],
-        "skill_types": [
-            "驱散",
-            "额外伤害",
-            "狙击手",
-            "范围攻击 (打3)",
-            "法力削减或格挡"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2024-07-21",
         "specialId": "primeval_glaive",
@@ -48398,17 +41390,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "猛咬之颚",
-        "types": [
-            "攻击单个目标",
-            "召唤1个狗鱼超级恶魔"
-        ],
-        "skill_types": [
-            "狙击手",
-            "召唤恶魔",
-            "额外伤害",
-            "攻击减益",
-            "持续伤害"
-        ],
         "source": "月活动 - 卡勒瓦拉",
         "Release date": "2025-07-28",
         "specialId": "snapping_jaws",
@@ -48472,12 +41453,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "远古武术",
-        "types": [
-            "攻击单个目标",
-            "全体反击",
-            "盟友释放特殊技能时攻击全体"
-        ],
-        "skill_types": [],
         "source": "盟约召唤",
         "Release date": "2026-04-28",
         "specialId": "ancient_martial_arts",
@@ -48531,15 +41506,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "充能",
         "skill": "分裂射击",
-        "types": [
-            "蓄力",
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害",
-            "狙击手"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2023-07-26",
         "specialId": "splintering_shot",
@@ -48607,14 +41573,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "兵将神威",
-        "types": [
-            "全体对泰坦攻击增益",
-            "全体持续治疗"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "持续治疗"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "martial_prowess",
@@ -48666,14 +41624,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "卡聂神威",
-        "types": [
-            "全体生命值加成",
-            "全体对泰坦攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "生命强化"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2022-12-12",
         "specialId": "martial_dance",
@@ -48727,18 +41677,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "冬眠的呼唤",
-        "types": [
-            "攻击所有目标",
-            "全体沉睡",
-            "全体持续治疗"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "持续治疗",
-            "法力削减或格挡",
-            "沉睡",
-            "全体攻击 (打5)"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2023-10-18",
         "specialId": "the_call_to_hibernate",
@@ -48797,19 +41735,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "森林之力",
-        "types": [
-            "攻击所有目标",
-            "召唤所有",
-            "全体持续治疗",
-            "全体法力生成降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击增益",
-            "持续治疗",
-            "法力削减或格挡",
-            "召唤小兵"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2020-03-01",
         "specialId": "force_of_forest",
@@ -48874,21 +41799,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "魔法",
         "skill": "半人马之诗",
-        "types": [
-            "蓄力",
-            "全体承受的状态异常伤害增加",
-            "全体持续伤害",
-            "治疗3个目标",
-            "3个目标异常状态伤害免疫"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "额外伤害",
-            "治疗",
-            "提供免疫",
-            "叠加",
-            "法力削减或格挡"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2023-05-03",
         "specialId": "poem_of_the_centaurs",
@@ -48958,25 +41868,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "魔法",
         "skill": "半人马佳酿",
-        "types": [
-            "蓄力",
-            "全体承受的状态异常伤害增加",
-            "全体持续伤害",
-            "处于持续伤害状态时治疗自身",
-            "治疗3个目标",
-            "3个目标异常状态伤害免疫",
-            "企图施加异常状态时获得治疗(3个目标)"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "额外伤害",
-            "特殊治疗",
-            "治疗",
-            "提供免疫",
-            "叠加",
-            "法力削减或格挡",
-            "反制小兵"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-12-27",
         "specialId": "brew_of_the_centaurs",
@@ -49052,17 +41943,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "抢了就跑",
-        "types": [
-            "偷取单个目标法力",
-            "攻击单个目标",
-            "随机攻击4次",
-            "偷取治疗 (单体)"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "治疗削减",
-            "法力削减或格挡"
-        ],
         "source": "荒野召唤",
         "Release date": "2025-09-26",
         "specialId": "grab_and_run",
@@ -49133,14 +42013,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "疯如帽匠",
-        "types": [
-            "攻击3个目标",
-            "全体增益窃取者"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "增益窃取者"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "mad_as_a_hatter",
@@ -49192,16 +42064,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "疯狂茶话会",
-        "types": [
-            "攻击3个目标",
-            "全体增益窃取者",
-            "自身小怪召唤师"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "增益窃取者",
-            "召唤小兵"
-        ],
         "source": "挑战节 I",
         "Release date": "2024-04-18",
         "specialId": "mad_tea_party",
@@ -49261,19 +42123,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "前来报到",
-        "types": [
-            "攻击所有目标",
-            "全体异常状态持续时间缩短3回合",
-            "全体增益持续时间缩短3回合",
-            "全体防御增益",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御增益",
-            "防御减益",
-            "效果持续重置"
-        ],
         "source": "哥布林召唤",
         "Release date": "2024-07-07",
         "specialId": "reporting_for_duty",
@@ -49347,16 +42196,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "加速增长",
-        "types": [
-            "全体治疗",
-            "全体法力持续恢复",
-            "全体净化"
-        ],
-        "skill_types": [
-            "净化",
-            "治疗",
-            "法力提升"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-02-11",
         "specialId": "accelerated_growth",
@@ -49414,17 +42253,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "茁壮成长",
-        "types": [
-            "全体强化治疗",
-            "全体法力持续恢复",
-            "全体净化"
-        ],
-        "skill_types": [
-            "净化",
-            "持续伤害",
-            "生命强化",
-            "法力提升"
-        ],
         "source": "挑战节 II",
         "Release date": "2025-06-15",
         "specialId": "blooming_growth",
@@ -49488,12 +42316,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "饕餮啃噬",
-        "types": [
-            "攻击单个目标",
-            "宝箱怪",
-            "全体普通攻击增益"
-        ],
-        "skill_types": [],
         "source": "市集召唤",
         "Release date": "2026-05-02",
         "specialId": "gluttonous_chomp_green",
@@ -49575,20 +42397,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "审判与赎罪",
-        "types": [
-            "攻击单个目标",
-            "阻挡状态效果施放 (单体)",
-            "随机攻击1个目标",
-            "单个目标每次抵抗治疗时受到伤害"
-        ],
-        "skill_types": [
-            "狙击手",
-            "绕过",
-            "连锁与随机攻击",
-            "状态效果格挡",
-            "治疗削减",
-            "法力提升"
-        ],
         "source": "星体召唤",
         "Release date": "2025-12-24",
         "specialId": "judgment_and_penance",
@@ -49659,14 +42467,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "沼泽之歌",
-        "types": [
-            "攻击3个目标",
-            "全体致盲"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益"
-        ],
         "source": "月活动 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "specialId": "song_of_the_morass",
@@ -49722,14 +42522,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "泥沼之诗",
-        "types": [
-            "攻击3个目标",
-            "全体致盲"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益"
-        ],
         "source": "月活动 - 卡勒瓦拉",
         "Release date": "2024-07-22",
         "specialId": "poem_of_the_morass",
@@ -49787,14 +42579,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "粘物审判",
-        "types": [
-            "攻击3个目标",
-            "全体粘性表面增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "增益窃取者"
-        ],
         "source": "超级元素人",
         "Release date": "2025-07-04",
         "specialId": "judgement_of_goo",
@@ -49853,16 +42637,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "同悲共悯",
-        "types": [
-            "攻击2个目标",
-            "2个目标伤害链接",
-            "2个目标盲目治疗"
-        ],
-        "skill_types": [
-            "狙击手",
-            "额外伤害",
-            "失心攻击&治疗"
-        ],
         "source": "月活动 - 恋爱季节",
         "Release date": "2026-01-19",
         "specialId": "shared_compassion",
@@ -49921,16 +42695,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "俯冲利爪",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害",
-            "全体致盲"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "攻击减益"
-        ],
         "source": "高塔 - 猫头鹰",
         "Release date": "2024-03-13",
         "specialId": "swooping_talon",
@@ -49994,17 +42758,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "季节凋零",
-        "types": [
-            "摧毁3个目标的小兵",
-            "攻击3个目标",
-            "3个目标持续伤害"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "反制小兵",
-            "闪避"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2023-02-01",
         "specialId": "withering_seasons",
@@ -50070,19 +42823,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "舞者",
         "skill": "雄狮斩击",
-        "types": [
-            "安全驱散1个目标",
-            "灵魂斩击命中 (单体)",
-            "2个目标活力福运之舞增益"
-        ],
-        "skill_types": [
-            "狙击手",
-            "驱散",
-            "舞者",
-            "防御增益",
-            "额外伤害",
-            "伤害减免"
-        ],
         "source": "月活动 - 幸运召唤",
         "Release date": "2026-02-17",
         "specialId": "slash_of_the_vibrant_lion",
@@ -50151,18 +42891,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "乱斗牧歌",
-        "types": [
-            "攻击单个目标",
-            "连锁",
-            "命中时攻击降低",
-            "命中时增益免疫"
-        ],
-        "skill_types": [
-            "增益格挡者",
-            "连锁与随机攻击",
-            "攻击减益",
-            "狙击手"
-        ],
         "source": "挑战节 II",
         "Release date": "2022-08-11",
         "specialId": "madrigal_of_mayhem",
@@ -50222,19 +42950,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "控法之杖",
-        "types": [
-            "攻击单个目标",
-            "攻击全体 (冰)",
-            "命中时法力全满造成伤害",
-            "命中时法力全满降低法力",
-            "改变棋盘"
-        ],
-        "skill_types": [
-            "改变面板",
-            "法力削减或格挡",
-            "狙击手",
-            "连锁与随机攻击"
-        ],
         "source": "超级元素人",
         "Release date": "2022-12-05",
         "specialId": "staff_of_mana_control",
@@ -50301,21 +43016,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "法力控制旋律",
-        "types": [
-            "攻击单个目标",
-            "攻击全体 (冰)",
-            "命中时法力全满造成伤害",
-            "命中时法力全满降低法力",
-            "改变棋盘",
-            "全体冰系元素防御降低"
-        ],
-        "skill_types": [
-            "改变面板",
-            "法力削减或格挡",
-            "狙击手",
-            "连锁与随机攻击",
-            "防御减益"
-        ],
         "source": "超级元素人",
         "Release date": "2025-12-07",
         "specialId": "melody_of_mana_control",
@@ -50389,16 +43089,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "森林之力",
-        "types": [
-            "攻击所有目标",
-            "自身威力提升",
-            "全体法力腐蚀"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击增益",
-            "法力腐败"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2023-10-18",
         "specialId": "power_of_the_forest",
@@ -50461,19 +43151,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "利刃风暴",
-        "types": [
-            "几率暴击",
-            "攻击所有目标",
-            "每回合随机攻击单体",
-            "造成伤害时提升生命值"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害",
-            "连锁与随机攻击",
-            "特殊治疗",
-            "生命强化"
-        ],
         "source": "三国召唤",
         "Release date": "2026-03-28",
         "specialId": "storm_of_blades",
@@ -50540,17 +43217,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "驱邪避凶",
-        "types": [
-            "全体治疗",
-            "全体移除1个状态异常",
-            "全体减益反射几率"
-        ],
-        "skill_types": [
-            "净化",
-            "治疗",
-            "反射",
-            "反制小兵"
-        ],
         "source": "月活动 - 农历生肖",
         "Release date": "2025-01-27",
         "specialId": "warding_off_evil",
@@ -50612,21 +43278,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "痛苦之枪",
-        "types": [
-            "攻击单个目标",
-            "自我强化治疗",
-            "共振持续伤害 (单体)",
-            "若生命值加成则攻击随机单个目标"
-        ],
-        "skill_types": [
-            "绕过",
-            "狙击手",
-            "特殊治疗",
-            "生命强化",
-            "连锁与随机攻击",
-            "持续伤害",
-            "额外伤害"
-        ],
         "source": "星体召唤",
         "Release date": "2025-10-23",
         "specialId": "lance_of_torment",
@@ -50695,18 +43346,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "沙尘暴",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害",
-            "全体治疗降低",
-            "全体净化"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "净化",
-            "持续伤害",
-            "治疗削减"
-        ],
         "source": "月活动 - 海滩派对",
         "Release date": "",
         "specialId": "kings_curse",
@@ -50763,18 +43402,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "巨浪遮天",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害",
-            "全体法力生成增益",
-            "全体净化"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "净化",
-            "持续伤害",
-            "法力生成增益"
-        ],
         "source": "月活动 - 海滩派对",
         "Release date": "2021-06-21",
         "specialId": "sand_wave_yunan",
@@ -50837,18 +43464,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "深渊飞镖",
-        "types": [
-            "攻击单个目标",
-            "随机额外攻击",
-            "命中时疯狂",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "额外伤害",
-            "狙击手",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2024-06-30",
         "specialId": "darts_of_the_deep",
@@ -50908,18 +43523,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "翡翠之光",
-        "types": [
-            "攻击所有目标",
-            "全体攻击降低",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "驱散",
-            "额外伤害",
-            "法力生成增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2018-02-01",
         "specialId": "emerald_flash",
@@ -50984,19 +43587,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "翎羽闪现",
-        "types": [
-            "全体驱散",
-            "攻击所有目标",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "驱散",
-            "额外伤害",
-            "净化",
-            "法力生成增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2023-12-19",
         "specialId": "plume_flash",
@@ -51067,19 +43657,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "绿玻陨石之翼",
-        "types": [
-            "攻击3个目标",
-            "3个目标召唤绿玻陨石猫头鹰恶魔",
-            "魔仆每回合驱散 1 个增益",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "召唤恶魔",
-            "驱散",
-            "失心攻击&治疗",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2026-02-06",
         "specialId": "moldavite_wings",
@@ -51159,16 +43736,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "钥刃台风",
-        "types": [
-            "攻击单个目标",
-            "单体法力提升",
-            "单体莽夫乱拳"
-        ],
-        "skill_types": [
-            "失心攻击&治疗",
-            "狙击手",
-            "法力提升"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2020-08-01",
         "specialId": "keyknife_typhoon",
@@ -51226,18 +43793,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "悬浮滑板撞击",
-        "types": [
-            "攻击单个目标",
-            "若是冰属性则攻击 4 个目标",
-            "命中时攻击降低",
-            "命中时防御减益"
-        ],
-        "skill_types": [
-            "攻击减益",
-            "防御减益",
-            "狙击手",
-            "全体攻击 (打5)"
-        ],
         "source": "超级元素人",
         "Release date": "2023-08-14",
         "specialId": "hoverboard_slam",
@@ -51301,14 +43856,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "悬板冲撞",
-        "types": [
-            "攻击单个目标",
-            "无视防御",
-            "若是冰属性则攻击 4 个目标",
-            "命中时攻击降低",
-            "命中时防御减益"
-        ],
-        "skill_types": [],
         "source": "超级元素人",
         "Release date": "2026-04-24",
         "specialId": "hoverboard_crash",
@@ -51365,12 +43912,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "芒刺在背",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "backstab",
@@ -51410,12 +43951,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "集中火力",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "focused_shot",
@@ -51455,12 +43990,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "集中火力",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "focused_shot",
@@ -51500,12 +44029,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "毒之刃",
-        "types": [
-            "单体持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "poisoned_blade",
@@ -51545,12 +44068,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "攻击动员",
-        "types": [
-            "攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "attack_rally",
@@ -51590,14 +44107,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "药剂包",
-        "types": [
-            "全体治疗",
-            "治疗降低"
-        ],
-        "skill_types": [
-            "治疗",
-            "治疗削减"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2021-10-13",
         "specialId": "apothecary_kit",
@@ -51649,13 +44158,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "慢",
         "skill": "部落狂怒",
-        "types": [
-            "自我攻击增益",
-            "全体延迟伤害"
-        ],
-        "skill_types": [
-            "攻击增益"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2020-05-28",
         "specialId": "tribal_rage",
@@ -51706,16 +44208,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "前跃一步",
-        "types": [
-            "攻击3个目标",
-            "3个目标闪避率增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御增益",
-            "闪避",
-            "叠加"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "one_jump_ahead",
@@ -51774,16 +44266,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "领先一咒",
-        "types": [
-            "攻击3个目标",
-            "3个目标闪避率增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "闪避",
-            "叠加",
-            "防御增益"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-08-10",
         "specialId": "one_spell_ahead",
@@ -51849,12 +44331,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "电光震颤",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "electric_jolt",
@@ -51900,14 +44376,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "带毒推撞",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2020-05-18",
         "specialId": "poison_jolt",
@@ -51962,13 +44430,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "卡通电击",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2024-01-22",
         "specialId": "toon_jolt",
@@ -52026,14 +44487,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "玻璃震颤",
-        "types": [
-            "攻击单个目标",
-            "无视防御"
-        ],
-        "skill_types": [
-            "绕过",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2025-03-11",
         "specialId": "glass_jolt",
@@ -52091,13 +44544,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "英姿震颤",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "狙击手",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2026-03-12",
         "specialId": "stylish_jolt",
@@ -52155,15 +44601,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "尖头飞镖",
-        "types": [
-            "攻击3个目标",
-            "2个目标软肤"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "伤害减免",
-            "提供免疫"
-        ],
         "source": "挑战 - 石像鬼",
         "Release date": "2024-05-16",
         "specialId": "pointy_darts",
@@ -52219,15 +44656,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "双斩",
-        "types": [
-            "攻击单个目标",
-            "随机攻击1个目标"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "额外伤害",
-            "狙击手"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "",
         "specialId": "dual_slash",
@@ -52280,16 +44708,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "强化斩",
-        "types": [
-            "攻击单个目标",
-            "随机攻击1个目标",
-            "命中时施加法力生成减益"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2022-07-04",
         "specialId": "empowered_slash",
@@ -52350,11 +44768,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "卡通双斩",
-        "types": [
-            "攻击单个目标",
-            "随机攻击1个目标"
-        ],
-        "skill_types": [],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2026-04-29",
         "specialId": "dual_toon_slash",
@@ -52402,15 +44815,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "永恒信条",
-        "types": [
-            "改变棋盘"
-        ],
-        "skill_types": [
-            "改变面板",
-            "法力生成增益",
-            "法力削减或格挡",
-            "伤害减免"
-        ],
         "source": "挑战 - 石像鬼",
         "Release date": "2022-05-12",
         "specialId": "abiding_dogma",
@@ -52460,14 +44864,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "罪恶之光",
-        "types": [
-            "攻击3个目标",
-            "3个目标法力生成降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "法力削减或格挡"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "unholy_light",
@@ -52519,13 +44915,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "狂暴猛冲",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "增益格挡者",
-            "狙击手"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-02-11",
         "specialId": "crazed_lunge",
@@ -52578,16 +44967,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "衰退挽歌",
-        "types": [
-            "全体防御降低",
-            "全体攻击降低",
-            "全体净化"
-        ],
-        "skill_types": [
-            "净化",
-            "攻击减益",
-            "防御减益"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "song_of_regression",
@@ -52637,16 +45016,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "慢",
         "skill": "狩猎悲歌",
-        "types": [
-            "全体防御增益",
-            "全体攻击增益",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "防御增益",
-            "驱散"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2023-04-03",
         "specialId": "lament_of_the_hunt",
@@ -52702,12 +45071,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "卡通哀歌",
-        "types": [
-            "全体防御降低",
-            "全体攻击降低",
-            "全体净化"
-        ],
-        "skill_types": [],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toon_lament",
@@ -52755,17 +45118,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "非常慢",
         "skill": "割人手短",
-        "types": [
-            "攻击所有目标",
-            "击杀时法力提升"
-        ],
-        "skill_types": [
-            "法力提升",
-            "全体攻击 (打5)",
-            "额外伤害",
-            "净化",
-            "持续伤害"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2023-02-09",
         "specialId": "stubby_reap",
@@ -52825,13 +45177,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "无情撕咬",
-        "types": [
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "merciless_bite",
@@ -52883,14 +45228,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "聚爆提灯",
-        "types": [
-            "攻击单个目标",
-            "炸弹"
-        ],
-        "skill_types": [
-            "狙击手",
-            "范围攻击 (打3)"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "2020-10-26",
         "specialId": "explosive_o_lantern",
@@ -52946,19 +45283,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "杀手",
         "skill": "刺客之刃",
-        "types": [
-            "攻击3个目标",
-            "防御降低",
-            "叠加"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "特殊治疗",
-            "叠加",
-            "法力生成增益",
-            "持续治疗"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-08-05",
         "specialId": "assassins_blades",
@@ -53022,15 +45346,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "充能",
         "skill": "诅咒黑雾",
-        "types": [
-            "蓄力",
-            "全体持续伤害",
-            "全体致盲"
-        ],
-        "skill_types": [
-            "攻击减益",
-            "持续伤害"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2023-07-26",
         "specialId": "cursed_fumes",
@@ -53092,19 +45407,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "挖地掘进",
-        "types": [
-            "自身净化",
-            "自身隐藏/潜行",
-            "延迟随机攻击单体",
-            "延迟单体法力获取冻结"
-        ],
-        "skill_types": [
-            "净化",
-            "鬼魂形态与隐藏",
-            "法力削减或格挡",
-            "叠加",
-            "连锁与随机攻击"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-03-25",
         "specialId": "dig_a_hole",
@@ -53170,19 +45472,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "挖个洞",
-        "types": [
-            "自身净化",
-            "自身隐藏/潜行",
-            "延迟随机攻击单体",
-            "延迟单体法力获取冻结"
-        ],
-        "skill_types": [
-            "叠加",
-            "鬼魂形态与隐藏",
-            "法力削减或格挡",
-            "净化",
-            "连锁与随机攻击"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2024-05-23",
         "specialId": "carve_a_hole",
@@ -53250,14 +45539,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "剧毒陷阱",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "toxic_traps",
@@ -53310,12 +45591,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "剧毒诡计",
-        "types": [
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "toxic_tricks",
@@ -53368,15 +45643,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "卡通陷阱",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-08-11",
         "specialId": "toon_traps",
@@ -53441,16 +45707,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "玻璃陷阱",
-        "types": [
-            "攻击所有目标",
-            "无视防御",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "绕过"
-        ],
         "source": "服装间",
         "Release date": "2025-09-07",
         "specialId": "glass_traps_oberon",
@@ -53515,14 +45771,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "魔宠巫术",
-        "types": [
-            "全体治疗",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "攻击减益",
-            "治疗"
-        ],
         "source": "月活动 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "specialId": "familiar_witchcraft",
@@ -53578,14 +45826,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "血刃刺穿",
-        "types": [
-            "攻击单个目标",
-            "自我治疗"
-        ],
-        "skill_types": [
-            "特殊治疗",
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "bleeding_stab",
@@ -53637,14 +45877,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "血刃暴插",
-        "types": [
-            "攻击3个目标",
-            "自我治疗"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "特殊治疗"
-        ],
         "source": "服装间",
         "Release date": "2020-05-18",
         "specialId": "bleeding_thrust",
@@ -53698,15 +45930,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "卡通刺",
-        "types": [
-            "攻击单个目标",
-            "自我治疗"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "特殊治疗",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2024-02-12",
         "specialId": "toon_stab",
@@ -53766,16 +45989,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "玻璃刺击",
-        "types": [
-            "攻击单个目标",
-            "无视防御",
-            "自我治疗"
-        ],
-        "skill_types": [
-            "绕过",
-            "特殊治疗",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2025-04-08",
         "specialId": "glass_stab",
@@ -53835,11 +46048,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "英姿刺击",
-        "types": [
-            "攻击单个目标",
-            "自我治疗"
-        ],
-        "skill_types": [],
         "source": "服装间",
         "Release date": "2026-04-10",
         "specialId": "stylish_stab",
@@ -53877,7 +46085,19 @@ window.allHeroes =
             "health": 1385,
             "power": 745
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：单体"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "治疗-通过伤害治疗",
+                    "伤害-额外伤害"
+                ]
+            }
+        ]
     },
     {
         "name": "雷恩菲尔德 (Renfeld)",
@@ -53887,14 +46107,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "嗜血行星",
-        "types": [
-            "攻击单个目标",
-            "自我治疗"
-        ],
-        "skill_types": [
-            "特殊治疗",
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "leeching_stars",
@@ -53946,15 +46158,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "嗜血锯",
-        "types": [
-            "攻击单个目标",
-            "偷取3个目标法力"
-        ],
-        "skill_types": [
-            "法力提升",
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2020-05-18",
         "specialId": "leeching_saw",
@@ -54008,15 +46211,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "卡通之星",
-        "types": [
-            "攻击单个目标",
-            "自我治疗"
-        ],
-        "skill_types": [
-            "狙击手",
-            "特殊治疗",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-09-08",
         "specialId": "toon_stars",
@@ -54076,16 +46270,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "玻璃之星",
-        "types": [
-            "攻击单个目标",
-            "无视防御",
-            "自我治疗"
-        ],
-        "skill_types": [
-            "狙击手",
-            "特殊治疗",
-            "绕过"
-        ],
         "source": "服装间",
         "Release date": "2025-11-25",
         "specialId": "glass_leeching_stars_renfeld",
@@ -54145,18 +46329,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "非常慢",
         "skill": "远古恐惧",
-        "types": [
-            "攻击所有目标",
-            "攻击降低",
-            "防御降低",
-            "法力生成降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "防御减益",
-            "法力削减或格挡"
-        ],
         "source": "挑战节 I",
         "Release date": "2021-12-15",
         "specialId": "archaic_dread",
@@ -54212,14 +46384,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "一箭穿心",
-        "types": [
-            "攻击单个目标",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "驱散",
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "piercing_hit",
@@ -54271,14 +46435,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "净化之击",
-        "types": [
-            "攻击单个目标",
-            "全体净化"
-        ],
-        "skill_types": [
-            "净化",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2020-01-01",
         "specialId": "purifying_hit",
@@ -54332,15 +46488,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "卡通之击",
-        "types": [
-            "攻击单个目标",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "驱散",
-            "狙击手",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-10-06",
         "specialId": "toon_hit",
@@ -54404,16 +46551,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "玻璃击中",
-        "types": [
-            "攻击单个目标",
-            "无视防御",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "驱散",
-            "狙击手",
-            "绕过"
-        ],
         "source": "服装间",
         "Release date": "2025-12-11",
         "specialId": "glass_piercing_hit_tyrum",
@@ -54477,15 +46614,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "飞速",
         "skill": "回火利刃",
-        "types": [
-            "攻击单个目标",
-            "随机1个状态异常来源"
-        ],
-        "skill_types": [
-            "狙击手",
-            "额外伤害",
-            "防御减益"
-        ],
         "source": "挑战 - 贝奥武夫",
         "Release date": "2025-02-13",
         "specialId": "tempered_blade",
@@ -54551,15 +46679,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "飞速",
         "skill": "破晓神伤",
-        "types": [
-            "单体持续伤害",
-            "偷取治疗 (单体)"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "特殊治疗",
-            "治疗削减"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "",
         "specialId": "lords_blood_poisoning",
@@ -54615,14 +46734,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "干尸劈砍",
-        "types": [
-            "攻击3个目标",
-            "击杀时全体法力提升"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "法力提升"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "mummy_slash",
@@ -54680,14 +46791,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "木乃伊猛击",
-        "types": [
-            "攻击3个目标",
-            "击杀时全体法力提升"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "法力提升"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-07-13",
         "specialId": "mummy_strike",
@@ -54752,16 +46855,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "鬼魂",
-        "types": [
-            "自我完全移除",
-            "自身幽灵化",
-            "幽灵化期间自身攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "净化",
-            "鬼魂形态与隐藏"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "ethereal",
@@ -54810,19 +46903,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "幽灵",
-        "types": [
-            "自我完全移除",
-            "自身幽灵化",
-            "幽灵形态下全体防御增益",
-            "幽灵形态下全体持续治疗"
-        ],
-        "skill_types": [
-            "防御增益",
-            "鬼魂形态与隐藏",
-            "持续治疗",
-            "叠加",
-            "净化"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2022-05-02",
         "specialId": "yurei",
@@ -54879,17 +46959,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "充能",
         "skill": "剑刃残影",
-        "types": [
-            "蓄力",
-            "1/3/全体目标驱散者",
-            "攻击 (1/3/所有) 目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "全体攻击 (打5)",
-            "驱散",
-            "狙击手"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "specialId": "blur_of_steel",
@@ -54948,18 +47017,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "收拾收拾！",
-        "types": [
-            "全体驱散",
-            "全体净化",
-            "全体治疗"
-        ],
-        "skill_types": [
-            "净化",
-            "驱散",
-            "治疗",
-            "特殊治疗",
-            "对自身或友军负面效果"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "2022-10-03",
         "specialId": "tidy_up",
@@ -55022,18 +47079,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "变装时刻！",
-        "types": [
-            "全体驱散",
-            "全体净化",
-            "全体治疗"
-        ],
-        "skill_types": [
-            "净化",
-            "驱散",
-            "治疗",
-            "特殊治疗",
-            "对自身或友军负面效果"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "2025-10-08",
         "specialId": "dress_up",
@@ -55098,14 +47143,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "冥河",
         "skill": "混合魔药",
-        "types": [
-            "蓄力"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击增益",
-            "防御减益"
-        ],
         "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
         "specialId": "potion_cocktail",
@@ -55177,14 +47214,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "葬身鱼腹",
-        "types": [
-            "攻击所有目标",
-            "3个目标元素防御增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御增益"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "watery_grave",
@@ -55236,15 +47265,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "邪魅一笑",
-        "types": [
-            "重新部署",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "防御减益",
-            "持续伤害",
-            "重排队伍"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "dazzling_grin",
@@ -55299,15 +47319,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "笑里藏刀",
-        "types": [
-            "重新部署",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "防御减益",
-            "持续伤害",
-            "重排队伍"
-        ],
         "source": "挑战节 I",
         "Release date": "2023-10-05",
         "specialId": "razor_smile",
@@ -55364,15 +47375,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "汪洋大盗",
-        "types": [
-            "偷取1个小兵",
-            "攻击单个目标",
-            "小兵格挡负面效果"
-        ],
-        "skill_types": [
-            "反制小兵",
-            "狙击手"
-        ],
         "source": "挑战节 II",
         "Release date": "2022-11-03",
         "specialId": "grand_heist",
@@ -55436,12 +47438,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "完美回刺",
-        "types": [
-            "3个目标反击"
-        ],
-        "skill_types": [
-            "反击"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "perfect_riposte",
@@ -55487,12 +47483,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "致命反击",
-        "types": [
-            "全体反击"
-        ],
-        "skill_types": [
-            "反击"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "deadly_riposte",
@@ -55540,16 +47530,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "精准回刺",
-        "types": [
-            "3个目标反击",
-            "3个目标反击时获得法力",
-            "3个目标伤害减免"
-        ],
-        "skill_types": [
-            "反击",
-            "伤害减免",
-            "法力提升"
-        ],
         "source": "服装间",
         "Release date": "2023-04-17",
         "specialId": "precise_riposte",
@@ -55601,12 +47581,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "卡通梦幻反击",
-        "types": [
-            "3个目标反击"
-        ],
-        "skill_types": [
-            "反击"
-        ],
         "source": "服装间",
         "Release date": "2024-04-08",
         "specialId": "toontastic_riposte",
@@ -55658,14 +47632,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "玻璃反击",
-        "types": [
-            "3个目标反击",
-            "暗属性队友反射异常状态",
-            "暗属性队友反射叠加效果"
-        ],
-        "skill_types": [
-            "反击"
-        ],
         "source": "服装间",
         "Release date": "2025-04-23",
         "specialId": "glass_riposte",
@@ -55719,11 +47685,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "时尚反击",
-        "types": [
-            "3个目标反击",
-            "全体持续治疗"
-        ],
-        "skill_types": [],
         "source": "服装间",
         "Release date": "2026-05-09",
         "specialId": "stylish_riposte_cyprian",
@@ -55770,17 +47731,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "阴郁曲调",
-        "types": [
-            "攻击3个目标",
-            "召唤3个小兵",
-            "3个目标元素反射",
-            "3个目标元素反击"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "召唤小兵",
-            "反射"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2023-12-01",
         "specialId": "gloomy_tune",
@@ -55838,17 +47788,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "毒牙合剂",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续性伤害",
-            "3个目标法力生成降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "法力削减或格挡",
-            "治疗削减"
-        ],
         "source": "盟约召唤",
         "Release date": "2025-07-06",
         "specialId": "venomfang_concoction",
@@ -55907,16 +47846,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "夜植花粉",
-        "types": [
-            "攻击所有目标",
-            "全体最大生命值降低",
-            "全体治疗降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "治疗削减",
-            "最大生命削减"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2020-05-28",
         "specialId": "nightglade_pollen",
@@ -55970,16 +47899,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "夜昙粉尘",
-        "types": [
-            "攻击3个目标",
-            "3个目标法力削减",
-            "3个目标治疗降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "治疗削减",
-            "法力削减或格挡"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2023-01-16",
         "specialId": "nightbloom_dust",
@@ -56039,12 +47958,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "卡通森林花馨",
-        "types": [
-            "攻击所有目标",
-            "全体最大生命值降低",
-            "全体治疗降低"
-        ],
-        "skill_types": [],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2026-04-29",
         "specialId": "toonglade_pollen",
@@ -56093,18 +48006,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "飞沙狂风",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害",
-            "单体治疗降低",
-            "自身净化"
-        ],
-        "skill_types": [
-            "净化",
-            "持续伤害",
-            "治疗削减",
-            "狙击手"
-        ],
         "source": "月活动 - 海滩派对",
         "Release date": "",
         "specialId": "viziers_curse",
@@ -56161,16 +48062,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "黑缨枪之刺",
-        "types": [
-            "攻击单个目标",
-            "单体异常状态重置",
-            "单体防御降低"
-        ],
-        "skill_types": [
-            "防御减益",
-            "效果持续重置",
-            "狙击手"
-        ],
         "source": "三国召唤",
         "Release date": "2023-02-27",
         "specialId": "black_tassel_spear_sting",
@@ -56228,18 +48119,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "侵蚀之刃",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "法力削减或格挡",
-            "效果持续重置",
-            "额外伤害",
-            "反制小兵"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-02-11",
         "specialId": "draining_blade",
@@ -56299,18 +48178,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "飞沙狂风",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "3个目标治疗降低",
-            "自身净化"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "净化",
-            "持续伤害",
-            "治疗削减"
-        ],
         "source": "月活动 - 海滩派对",
         "Release date": "",
         "specialId": "towers_curse",
@@ -56367,16 +48234,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "憎恨卷轴",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "额外伤害",
-            "特殊治疗"
-        ],
         "source": "高塔 - 猫头鹰",
         "Release date": "2024-02-14",
         "specialId": "scroll_of_spite",
@@ -56441,17 +48298,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "善意之花",
-        "types": [
-            "全体强化治疗",
-            "全体反射状态异常",
-            "自我防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "生命强化",
-            "反射",
-            "持续治疗"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2023-03-08",
         "specialId": "flower_of_kindness",
@@ -56509,17 +48355,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "善行之果",
-        "types": [
-            "全体强化治疗",
-            "全体反射状态异常",
-            "自身特技防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "生命强化",
-            "反射",
-            "持续治疗"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2026-02-20",
         "specialId": "fruits_of_kindness",
@@ -56581,14 +48416,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "狂野挥砍",
-        "types": [
-            "攻击单个目标",
-            "防御降低"
-        ],
-        "skill_types": [
-            "防御减益",
-            "狙击手"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2023-10-18",
         "specialId": "feral_swing",
@@ -56645,17 +48472,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "能量结合",
-        "types": [
-            "3名盟友伤害分担",
-            "3名敌方伤害分担",
-            "元素防御增益",
-            "元素防御降低"
-        ],
-        "skill_types": [
-            "防御增益",
-            "伤害分摊",
-            "防御减益"
-        ],
         "source": "超级元素人",
         "Release date": "2023-11-06",
         "specialId": "energy_conjunction",
@@ -56718,14 +48534,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "飞速",
         "skill": "淬毒之箭",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "狙击手"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2022-10-15",
         "specialId": "poison_tipped_arrow",
@@ -56784,15 +48592,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "秘法冲击",
-        "types": [
-            "攻击单个目标",
-            "莽夫乱拳"
-        ],
-        "skill_types": [
-            "失心攻击&治疗",
-            "狙击手",
-            "额外伤害"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "arcane_blast",
@@ -56850,15 +48649,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "脉冲星爆炸",
-        "types": [
-            "攻击3个目标",
-            "莽夫乱拳"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "失心攻击&治疗",
-            "额外伤害"
-        ],
         "source": "挑战节 I",
         "Release date": "2023-04-20",
         "specialId": "pulsar_blast",
@@ -56918,14 +48708,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "深渊之痕",
-        "types": [
-            "3个目标持续伤害",
-            "3个目标法力获取冻结"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "法力削减或格挡"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "scar_of_the_depths",
@@ -56978,14 +48760,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "深渊的诅咒",
-        "types": [
-            "全体持续伤害",
-            "全体法力生成降低"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "法力削减或格挡"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2023-04-03",
         "specialId": "curse_of_the_depths",
@@ -57040,11 +48814,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "深渊卡通",
-        "types": [
-            "3个目标持续伤害",
-            "3个目标法力获取冻结"
-        ],
-        "skill_types": [],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toon_of_the_depths",
@@ -57092,14 +48861,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "净化",
-        "types": [
-            "全体治疗",
-            "全体净化"
-        ],
-        "skill_types": [
-            "净化",
-            "治疗"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "purification",
@@ -57151,16 +48912,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "重生",
-        "types": [
-            "全体持续治疗",
-            "全体攻击增益",
-            "全体净化"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "净化",
-            "持续治疗"
-        ],
         "source": "服装间",
         "Release date": "2020-01-01",
         "specialId": "regeneration",
@@ -57220,16 +48971,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "改头换面",
-        "types": [
-            "全体生命值加成",
-            "全体防御增益",
-            "全体净化"
-        ],
-        "skill_types": [
-            "防御增益",
-            "净化",
-            "生命强化"
-        ],
         "source": "服装间",
         "Release date": "2023-04-17",
         "specialId": "transfigure",
@@ -57289,16 +49030,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "卡通净化",
-        "types": [
-            "全体治疗",
-            "全体防御增益",
-            "净化者"
-        ],
-        "skill_types": [
-            "净化",
-            "治疗",
-            "防御增益"
-        ],
         "source": "服装间",
         "Release date": "2024-06-28",
         "specialId": "adorable_purification",
@@ -57362,17 +49093,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "玻璃化",
-        "types": [
-            "全体治疗",
-            "暗属性队友反射异常状态",
-            "暗属性队友反射叠加效果",
-            "净化者"
-        ],
-        "skill_types": [
-            "治疗",
-            "反射",
-            "净化"
-        ],
         "source": "服装间",
         "Release date": "2025-07-16",
         "specialId": "glass_purification",
@@ -57436,18 +49156,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "羁绊合约",
-        "types": [
-            "攻击单个目标",
-            "单体狂乱",
-            "灵魂绑定 (单体)",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "狙击手",
-            "伤害分摊",
-            "失心攻击&治疗",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2025-12-03",
         "specialId": "binding_contract",
@@ -57511,14 +49219,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "堕落迷雾",
-        "types": [
-            "全体治疗",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "驱散",
-            "治疗"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "fog_of_the_fallen",
@@ -57570,16 +49270,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "堕落烟霾",
-        "types": [
-            "全体持续治疗",
-            "全体增益免疫",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "增益格挡者",
-            "驱散",
-            "持续治疗"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "haze_of_the_deceased",
@@ -57639,16 +49329,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "堕落迷雾",
-        "types": [
-            "全体持续治疗",
-            "全体状态异常免疫",
-            "全体净化"
-        ],
-        "skill_types": [
-            "净化",
-            "持续治疗",
-            "提供免疫"
-        ],
         "source": "服装间",
         "Release date": "2023-11-27",
         "specialId": "mist_of_the_fallen",
@@ -57708,16 +49388,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "卡通迷雾",
-        "types": [
-            "全体治疗",
-            "全体防御增益",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "防御增益",
-            "驱散",
-            "治疗"
-        ],
         "source": "服装间",
         "Release date": "2024-10-06",
         "specialId": "fog_of_the_toons",
@@ -57777,17 +49447,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "彩绘迷雾",
-        "types": [
-            "全体治疗",
-            "暗属性队友反射异常状态",
-            "暗属性队友反射叠加效果",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "驱散",
-            "治疗",
-            "反射"
-        ],
         "source": "服装间",
         "Release date": "2025-11-25",
         "specialId": "fog_of_the_glass_sabina",
@@ -57847,16 +49506,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "魔法",
         "skill": "午夜之月",
-        "types": [
-            "蓄力",
-            "全体元素防御降低",
-            "全体普通攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "防御减益",
-            "全体攻击 (打5)"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "specialId": "midnight_moon",
@@ -57915,13 +49564,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "潮汐",
         "skill": "关键战术",
-        "types": [
-            "全体对泰坦攻击增益",
-            "全体暴击几率增益"
-        ],
-        "skill_types": [
-            "攻击增益"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2023-06-07",
         "specialId": "critical_tactics",
@@ -57980,13 +49622,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "潮汐",
         "skill": "致命烧烤",
-        "types": [
-            "全体对泰坦攻击增益",
-            "全体暴击几率增益"
-        ],
-        "skill_types": [
-            "攻击增益"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2025-02-03",
         "specialId": "critical_cookout",
@@ -58050,17 +49685,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "狂乱灯笼",
-        "types": [
-            "攻击所有目标",
-            "全体狂乱",
-            "全体增益免疫",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "增益格挡者",
-            "全体攻击 (打5)",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2025-01-09",
         "specialId": "lantern_of_insanity",
@@ -58115,17 +49739,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "暗影侧步",
-        "types": [
-            "攻击2个目标",
-            "2个目标持续伤害"
-        ],
-        "skill_types": [
-            "狙击手",
-            "持续伤害",
-            "额外伤害",
-            "闪避",
-            "反制小兵"
-        ],
         "source": "联盟 - 飞蛾",
         "Release date": "2025-01-23",
         "specialId": "shadow_sidestep",
@@ -58182,16 +49795,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "恐怖幽灵",
-        "types": [
-            "幽灵形态"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "净化",
-            "鬼魂形态与隐藏",
-            "叠加",
-            "全体攻击 (打5)"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "",
         "specialId": "dire_ghost",
@@ -58246,16 +49849,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "噬魂利刃",
-        "types": [
-            "攻击单个目标",
-            "攻击所有被血莲标记目标",
-            "对所有被血莲标记目标施加持续伤害"
-        ],
-        "skill_types": [
-            "狙击手",
-            "连锁与随机攻击",
-            "持续伤害"
-        ],
         "source": "月活动 - 血色盛宴",
         "Release date": "2025-10-08",
         "specialId": "ravening_blade",
@@ -58314,14 +49907,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "锤击粉碎机",
-        "types": [
-            "攻击3个目标",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "ramming_pulverizer",
@@ -58373,14 +49958,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "粉碎交响",
-        "types": [
-            "攻击所有目标",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御减益"
-        ],
         "source": "服装间",
         "Release date": "2020-01-01",
         "specialId": "symphonic_pulverizer",
@@ -58434,14 +50011,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "优雅粉碎者",
-        "types": [
-            "攻击3个目标",
-            "3个目标最大生命值持续削减"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "最大生命削减"
-        ],
         "source": "服装间",
         "Release date": "2023-10-30",
         "specialId": "elegant_pulverizer",
@@ -58495,15 +50064,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "卡通梦幻粉碎者",
-        "types": [
-            "攻击3个目标",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-08-11",
         "specialId": "toontastic_pulverizer",
@@ -58567,16 +50127,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "玻璃碎击",
-        "types": [
-            "攻击3个目标",
-            "无视防御",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "绕过"
-        ],
         "source": "服装间",
         "Release date": "2025-09-07",
         "specialId": "glass_pulverizer_tiburtus",
@@ -58640,19 +50190,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "充能",
         "skill": "致命打击",
-        "types": [
-            "蓄力",
-            "攻击单个目标",
-            "连锁攻击",
-            "命中时触发持续伤害",
-            "无视防御几率"
-        ],
-        "skill_types": [
-            "狙击手",
-            "连锁与随机攻击",
-            "持续伤害",
-            "绕过"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2026-03-10",
         "specialId": "lethal_strikes",
@@ -58733,17 +50270,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "毒雾",
-        "types": [
-            "攻击3个目标",
-            "3个目标攻击衰减",
-            "3个目标防御衰减",
-            "3个目标反射增益"
-        ],
-        "skill_types": [
-            "属性修改",
-            "反射",
-            "范围攻击 (打3)"
-        ],
         "source": "哥布林召唤",
         "Release date": "2023-12-11",
         "specialId": "poisonous_mist",
@@ -58804,14 +50330,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "嗜血匕首",
-        "types": [
-            "召唤1个恶魔",
-            "对圣属性敌人召唤魔仆"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "召唤恶魔"
-        ],
         "source": "超级元素人",
         "Release date": "2023-05-22",
         "specialId": "bleed_inducing_daggers",
@@ -58877,16 +50395,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "撕裂信笺",
-        "types": [
-            "召唤1个恶魔",
-            "元素恶魔召唤者",
-            "全体承受的状态异常伤害增加"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "召唤恶魔",
-            "额外伤害"
-        ],
         "source": "超级元素人",
         "Release date": "2026-02-19",
         "specialId": "lacerating_letters",
@@ -58959,18 +50467,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "幽冥盾",
-        "types": [
-            "全体持续治疗",
-            "3个目标状态异常免疫",
-            "净化 (3个目标)"
-        ],
-        "skill_types": [
-            "净化",
-            "持续治疗",
-            "提供免疫",
-            "攻击增益",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2018-04-01",
         "specialId": "nethershield",
@@ -59029,16 +50525,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "虚空盾",
-        "types": [
-            "全体治疗",
-            "移除3个目标的状态异常"
-        ],
-        "skill_types": [
-            "净化",
-            "治疗",
-            "攻击增益",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2023-01-23",
         "specialId": "voidshield",
@@ -59097,20 +50583,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "渴望之咬",
-        "types": [
-            "攻击单个目标",
-            "按伤害全体提升生命",
-            "宝箱怪"
-        ],
-        "skill_types": [
-            "狙击手",
-            "特殊治疗",
-            "生命强化",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形态与隐藏",
-            "绕过"
-        ],
         "source": "市集召唤",
         "Release date": "2026-02-08",
         "specialId": "aether_mimic_bite_purple",
@@ -59186,19 +50658,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "高海拔伏击",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "封锁3个目标复活能力"
-        ],
-        "skill_types": [
-            "狙击手",
-            "法力削减或格挡",
-            "持续伤害",
-            "复活抑制",
-            "状态效果转换",
-            "反制小兵"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-07-23",
         "specialId": "high_altitude_ambush",
@@ -59273,23 +50732,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "魔法",
         "skill": "秘法闪电",
-        "types": [
-            "蓄力",
-            "全体攻击降低",
-            "全体防御降低",
-            "全体持续伤害",
-            "全体攻击增益",
-            "全体防御增益",
-            "全体持续治疗"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "防御增益",
-            "攻击减益",
-            "防御减益",
-            "持续伤害",
-            "持续治疗"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "specialId": "arcane_shock",
@@ -59361,24 +50803,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "魔法",
         "skill": "暗黑冲击",
-        "types": [
-            "蓄力",
-            "全体攻击降低",
-            "全体防御降低",
-            "全体持续伤害",
-            "全体攻击增益",
-            "全体防御增益",
-            "全体强化持续治疗"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "防御增益",
-            "攻击减益",
-            "防御减益",
-            "持续伤害",
-            "生命强化",
-            "特殊治疗"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-05-29",
         "specialId": "dark_shock",
@@ -59461,17 +50885,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "缠绕之鞭",
-        "types": [
-            "偷取1个小兵",
-            "攻击单个目标",
-            "3个目标致盲"
-        ],
-        "skill_types": [
-            "攻击减益",
-            "反制小兵",
-            "狙击手",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2025-06-01",
         "specialId": "coiling_whip",
@@ -59536,16 +50949,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "非常慢",
         "skill": "暗黑王国方块",
-        "types": [
-            "随机攻击5个目标",
-            "命中时削减最大生命值",
-            "命中时施加失心攻击"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "最大生命削减",
-            "失心攻击&治疗"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2020-04-23",
         "specialId": "cube_of_dark_realm",
@@ -59600,16 +51003,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "非常慢",
         "skill": "暗黑王国骑士帽",
-        "types": [
-            "随机攻击5个目标",
-            "命中时削减最大生命值",
-            "命中时施加失心攻击"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "最大生命削减",
-            "失心攻击&治疗"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2023-07-03",
         "specialId": "cavalier_hat_of_dark_realm",
@@ -59666,18 +51059,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "飞速",
         "skill": "迅捷机动",
-        "types": [
-            "全体治疗",
-            "全体移除1个增益",
-            "闪避增益"
-        ],
-        "skill_types": [
-            "治疗",
-            "驱散",
-            "闪避",
-            "攻击增益",
-            "叠加"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-11-30",
         "specialId": "swift_maneuvers",
@@ -59746,16 +51127,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "充能",
         "skill": "暗夜刺客",
-        "types": [
-            "蓄力",
-            "攻击所有目标",
-            "召唤所有恶魔"
-        ],
-        "skill_types": [
-            "召唤恶魔",
-            "全体攻击 (打5)",
-            "持续伤害"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
         "specialId": "assassins_in_the_night",
@@ -59818,17 +51189,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "奇效异香",
-        "types": [
-            "全体治疗",
-            "单体增益窃取",
-            "单体睡眠"
-        ],
-        "skill_types": [
-            "增益窃取者",
-            "治疗",
-            "沉睡",
-            "攻击增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2024-03-01",
         "specialId": "strange_incense",
@@ -59894,16 +51254,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "阿努比斯的印记",
-        "types": [
-            "单体贪婪",
-            "全体持续伤害",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "增益格挡者",
-            "防御减益",
-            "持续伤害"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2023-03-16",
         "specialId": "mark_of_anubis",
@@ -59964,16 +51314,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "豺狼标记",
-        "types": [
-            "单体贪婪",
-            "全体持续伤害",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "增益格挡者",
-            "防御减益",
-            "持续伤害"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-02-05",
         "specialId": "mark_of_the_jackal",
@@ -60041,18 +51381,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "万人迷之刃",
-        "types": [
-            "攻击3个目标",
-            "全体强化治疗",
-            "全体状态异常免疫",
-            "自我防御增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "生命强化",
-            "提供免疫",
-            "特殊治疗"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2022-12-14",
         "specialId": "charmers_blades",
@@ -60112,19 +51440,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "面包师的长棍包",
-        "types": [
-            "攻击3个目标",
-            "按伤害全体提升生命",
-            "全体状态异常免疫",
-            "自身伤害减免增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "生命强化",
-            "提供免疫",
-            "特殊治疗",
-            "伤害减免"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2025-11-12",
         "specialId": "bakers_baguettes",
@@ -60188,16 +51503,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "暗影匕首",
-        "types": [
-            "攻击单个目标",
-            "自身闪避率"
-        ],
-        "skill_types": [
-            "闪避",
-            "狙击手",
-            "额外伤害",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2022-06-01",
         "specialId": "dagger_of_shadows",
@@ -60262,16 +51567,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "恶毒打击",
-        "types": [
-            "攻击单个目标",
-            "随机攻击",
-            "单个目标每次抵抗治疗时受到伤害"
-        ],
-        "skill_types": [
-            "狙击手",
-            "连锁与随机攻击",
-            "治疗削减"
-        ],
         "source": "盟约召唤",
         "Release date": "2026-02-11",
         "specialId": "vicious_strike",
@@ -60341,20 +51636,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "暴食咀嚼",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "宝箱怪"
-        ],
-        "skill_types": [
-            "特殊治疗",
-            "反制小兵",
-            "范围攻击 (打3)",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形态与隐藏",
-            "绕过"
-        ],
         "source": "市集召唤",
         "Release date": "2025-08-29",
         "specialId": "gorging_chew_purple",
@@ -60440,17 +51721,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "死灵书第13页",
-        "types": [
-            "攻击3个目标",
-            "3个目标狂乱",
-            "强制施加 3 个不可净化的异常状态",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "净化格挡者",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2025-05-13",
         "specialId": "necronomicon_page_13",
@@ -60505,14 +51775,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "非常慢",
         "skill": "苦难凋零",
-        "types": [
-            "攻击所有目标",
-            "全体最大生命值降低",
-            "收割全体增益",
-            "自身生命值提升",
-            "全体防御枯萎减益"
-        ],
-        "skill_types": [],
         "source": "挑战 - 英勇植物召唤",
         "Release date": "2026-04-02",
         "specialId": "bitter_wilting",
@@ -60557,7 +51819,24 @@ window.allHeroes =
             "health": 2872,
             "power": 1572
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：全体"
+                ]
+            },
+            {
+                "增益效果": [
+                    "状态-驱散增益"
+                ]
+            },
+            {
+                "负面效果": [
+                    "治疗-最大生命值↓",
+                    "防御-衰退：防御力↓"
+                ]
+            }
+        ]
     },
     {
         "name": "巴斯泰托 (Bastet)",
@@ -60567,16 +51846,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "迅捷灵活",
-        "types": [
-            "攻击所有目标",
-            "全体闪避率增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御增益",
-            "闪避",
-            "叠加"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-08-04",
         "specialId": "quick_and_nimble",
@@ -60635,16 +51904,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "兰瑰之花",
-        "types": [
-            "攻击所有目标",
-            "全体闪避率增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "闪避",
-            "防御增益",
-            "叠加"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-08-10",
         "specialId": "orchids_and_roses",
@@ -60710,20 +51969,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "魔法",
         "skill": "控法魔杖",
-        "types": [
-            "攻击单个目标",
-            "敌人特殊技能时降低4个敌人法力",
-            "全体法力增加",
-            "盟友释放特殊技能时攻击全体"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力提升",
-            "法力削减或格挡",
-            "狙击手",
-            "叠加",
-            "治疗"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2023-06-28",
         "specialId": "wand_of_mana_control",
@@ -60796,22 +52041,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "魔法",
         "skill": "法力戏法杖",
-        "types": [
-            "攻击单个目标",
-            "敌人特殊技能时降低4个敌人法力",
-            "3个目标元素防御增益",
-            "全体法力增加",
-            "盟友释放特殊技能时攻击全体"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力提升",
-            "法力削减或格挡",
-            "防御增益",
-            "狙击手",
-            "叠加",
-            "治疗"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-09-17",
         "specialId": "wand_of_mana_trickery",
@@ -60891,17 +52120,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "神秘协奏曲",
-        "types": [
-            "全体治疗",
-            "全体攻击增益",
-            "全体驱散免疫增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "治疗",
-            "提供免疫",
-            "特殊治疗"
-        ],
         "source": "挑战节 II",
         "Release date": "2023-03-23",
         "specialId": "mystical_concerto",
@@ -60961,16 +52179,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "暮光狄希尔",
-        "types": [
-            "召唤所有",
-            "命中时单体小怪带持续伤害",
-            "命中时施加小怪阻挡效果"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "反制小兵",
-            "召唤小兵"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2020-09-24",
         "specialId": "disir_of_dusk",
@@ -61030,16 +52238,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "梦境狄希尔",
-        "types": [
-            "召唤所有",
-            "命中时单体小怪带持续伤害",
-            "命中时施加小怪阻挡效果"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "反制小兵",
-            "召唤小兵"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2023-06-05",
         "specialId": "disir_of_dreams",
@@ -61101,16 +52299,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "非常慢",
         "skill": "巨威咆哮",
-        "types": [
-            "全体法力生成增益",
-            "全体法力生成降低",
-            "全体反击"
-        ],
-        "skill_types": [
-            "反击",
-            "法力生成增益",
-            "法力削减或格挡"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "unstoppable_growl",
@@ -61165,17 +52353,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "毒液守卫",
-        "types": [
-            "攻击所有目标",
-            "全体攻击增益",
-            "友方伤害分担"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害",
-            "攻击增益",
-            "伤害分摊"
-        ],
         "source": "泰坦猎手召唤",
         "Release date": "2026-03-09",
         "specialId": "venom_guard",
@@ -61244,17 +52421,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "准确航向",
-        "types": [
-            "全体治疗",
-            "移除状态异常",
-            "全体法力生成增益"
-        ],
-        "skill_types": [
-            "净化",
-            "治疗",
-            "法力生成增益",
-            "生命强化"
-        ],
         "source": "盟约召唤",
         "Release date": "2024-04-25",
         "specialId": "unerring_course",
@@ -61320,15 +52486,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "薄暮光环",
-        "types": [
-            "攻击所有目标",
-            "全体闪避"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "闪避",
-            "生命强化"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2024-04-10",
         "specialId": "aura_of_twilight",
@@ -61385,16 +52542,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "刀锋之翼",
-        "types": [
-            "攻击单个目标",
-            "连锁攻击"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "额外伤害",
-            "狙击手",
-            "绕过"
-        ],
         "source": "高塔 - 猫头鹰",
         "Release date": "2024-07-02",
         "specialId": "blade_wings",
@@ -61458,17 +52605,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "失速法术",
-        "types": [
-            "攻击所有目标",
-            "全体法力生成降低",
-            "全体增益免疫状态异常"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "增益格挡者",
-            "特殊治疗",
-            "法力削减或格挡"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2021-08-01",
         "specialId": "stalling_spell",
@@ -61529,19 +52665,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "飞速",
         "skill": "来自远方的建议",
-        "types": [
-            "几率暴击",
-            "攻击单个目标",
-            "自我完全移除",
-            "自我幽灵形态",
-            "全体暴击几率增益"
-        ],
-        "skill_types": [
-            "鬼魂形态与隐藏",
-            "狙击手",
-            "攻击增益",
-            "额外伤害"
-        ],
         "source": "三国召唤",
         "Release date": "2025-06-30",
         "specialId": "advice_from_beyond",
@@ -61615,17 +52738,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "冥河",
         "skill": "幽冥摆渡",
-        "types": [
-            "蓄力",
-            "全体生命值加成",
-            "复活者",
-            "全体持续治疗"
-        ],
-        "skill_types": [
-            "生命强化",
-            "复活",
-            "持续治疗"
-        ],
         "source": "高塔 - 冥河",
         "Release date": "2022-11-16",
         "specialId": "boat_ride_from_the_beyond",
@@ -61689,16 +52801,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "飞速",
         "skill": "瘴气之锤",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "额外伤害",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2020-05-01",
         "specialId": "miasma_mace",
@@ -61762,12 +52864,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "命运诅咒",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "若目标被击败则伤害全体"
-        ],
-        "skill_types": [],
         "source": "神话召唤 - 月英",
         "Release date": "2026-04-01",
         "specialId": "destined_curse",
@@ -61806,7 +52902,29 @@ window.allHeroes =
             "health": 2781,
             "power": 1441
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：范围",
+                    "伤害：持续伤害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "伤害-条件触发"
+                ]
+            },
+            {
+                "增益效果": [
+                    "攻击-暴击率↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "伤害-持续伤害：诅咒"
+                ]
+            }
+        ]
     },
     {
         "name": "暗黑领主 (Dark Lord)",
@@ -61816,20 +52934,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "毁灭一击",
-        "types": [
-            "攻击单个目标",
-            "减少3个目标增益持续时间",
-            "3个目标持续伤害",
-            "3个目标法力生成降低"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "法力削减或格挡",
-            "狙击手",
-            "效果持续重置",
-            "额外伤害",
-            "反制小兵"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-02-11",
         "specialId": "doomstrike",
@@ -61889,20 +52993,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "脉冲突击",
-        "types": [
-            "攻击单个目标",
-            "减少3个目标增益持续时间",
-            "3个目标持续伤害",
-            "3个目标法力生成降低"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "效果持续重置",
-            "法力削减或格挡",
-            "狙击手",
-            "额外伤害",
-            "反制小兵"
-        ],
         "source": "挑战节 II",
         "Release date": "2024-11-14",
         "specialId": "pulsarstrike",
@@ -61968,18 +53058,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "天降轰雷",
-        "types": [
-            "攻击所有目标",
-            "减少2回合状态异常持续时间",
-            "减少2回合增益持续时间",
-            "全体增益驱散免疫"
-        ],
-        "skill_types": [
-            "复活抑制",
-            "效果持续重置",
-            "全体攻击 (打5)",
-            "提供免疫"
-        ],
         "source": "挑战节 II",
         "Release date": "2025-04-09",
         "specialId": "struck_by_thunder",
@@ -62043,17 +53121,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "鹰之祝福",
-        "types": [
-            "全体治疗",
-            "全体攻击力成长",
-            "全体防御力成长",
-            "队友释放特技后全体额外攻击几率"
-        ],
-        "skill_types": [
-            "属性修改",
-            "连锁与随机攻击",
-            "治疗"
-        ],
         "source": "哥布林召唤",
         "Release date": "2023-09-18",
         "specialId": "the_eagles_blessing",
@@ -62114,17 +53181,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "飞速",
         "skill": "不洁神灵",
-        "types": [
-            "单体增益窃取",
-            "攻击单个目标",
-            "单体防御衰减"
-        ],
-        "skill_types": [
-            "属性修改",
-            "增益窃取者",
-            "狙击手",
-            "额外伤害"
-        ],
         "source": "哥布林召唤",
         "Release date": "2023-09-18",
         "specialId": "unhallowed_spirits",
@@ -62190,18 +53246,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "碎月光束",
-        "types": [
-            "攻击3个目标",
-            "偷取3个增益",
-            "3个目标攻击力成长"
-        ],
-        "skill_types": [
-            "狙击手",
-            "范围攻击 (打3)",
-            "增益窃取者",
-            "攻击增益",
-            "伤害分摊"
-        ],
         "source": "星体召唤",
         "Release date": "2024-05-20",
         "specialId": "moon_crush_beam",
@@ -62266,17 +53310,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "飞速",
         "skill": "正义势态",
-        "types": [
-            "攻击单个目标",
-            "攻击成长恩赐",
-            "单体防御枯萎减益"
-        ],
-        "skill_types": [
-            "绕过",
-            "狙击手",
-            "额外伤害",
-            "属性修改"
-        ],
         "source": "神殿召唤",
         "Release date": "2025-12-10",
         "specialId": "righteous_stance",
@@ -62344,16 +53377,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "闭月羞花",
-        "types": [
-            "全体治疗",
-            "召唤3个小兵",
-            "增益窃取小怪"
-        ],
-        "skill_types": [
-            "增益窃取者",
-            "召唤小兵",
-            "治疗"
-        ],
         "source": "三国召唤",
         "Release date": "2022-03-14",
         "specialId": "ladys_charm",
@@ -62407,16 +53430,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "绝色之花",
-        "types": [
-            "全体治疗",
-            "召唤3个小兵",
-            "增益窃取小怪"
-        ],
-        "skill_types": [
-            "增益窃取者",
-            "治疗",
-            "召唤小兵"
-        ],
         "source": "三国召唤",
         "Release date": "2024-05-28",
         "specialId": "ladys_flowers",
@@ -62479,16 +53492,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "震骇闪电",
-        "types": [
-            "攻击单个目标",
-            "3个目标元素防御增益",
-            "驱散3个目标"
-        ],
-        "skill_types": [
-            "防御增益",
-            "驱散",
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "shock_bolt",
@@ -62542,16 +53545,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "猛毒闪电",
-        "types": [
-            "攻击单个目标",
-            "3个目标持续伤害",
-            "净化 (3个目标)"
-        ],
-        "skill_types": [
-            "净化",
-            "持续伤害",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2020-05-18",
         "specialId": "awe_bolt",
@@ -62608,15 +53601,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "黑暗弩箭",
-        "types": [
-            "攻击3个目标",
-            "3个目标元素防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2022-10-31",
         "specialId": "dark_bolt",
@@ -62676,17 +53660,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "卡通闪电",
-        "types": [
-            "攻击单个目标",
-            "3个目标元素防御增益",
-            "驱散3个目标"
-        ],
-        "skill_types": [
-            "狙击手",
-            "防御增益",
-            "额外伤害",
-            "驱散"
-        ],
         "source": "服装间",
         "Release date": "2024-03-11",
         "specialId": "adorable_bolt",
@@ -62752,18 +53725,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "玻璃弩箭",
-        "types": [
-            "攻击单个目标",
-            "无视防御",
-            "3个目标元素防御增益",
-            "驱散3个目标"
-        ],
-        "skill_types": [
-            "防御增益",
-            "绕过",
-            "驱散",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2025-04-23",
         "specialId": "glass_bolt",
@@ -62828,12 +53789,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "英姿弩箭",
-        "types": [
-            "攻击单个目标",
-            "3个目标元素防御增益",
-            "驱散3个目标"
-        ],
-        "skill_types": [],
         "source": "服装间",
         "Release date": "2026-05-09",
         "specialId": "stylish_bolt",
@@ -62882,14 +53837,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "致盲智者",
-        "types": [
-            "攻击3个目标",
-            "3个目标致盲"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-03-25",
         "specialId": "blinding_wisdom",
@@ -62945,14 +53892,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "致盲知识",
-        "types": [
-            "攻击3个目标",
-            "3个目标致盲"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2023-04-27",
         "specialId": "blinding_knowledge",
@@ -63013,19 +53952,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "星体支配",
-        "types": [
-            "攻击所有目标",
-            "全体法力生成降低",
-            "全体治疗降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御减益",
-            "额外伤害",
-            "治疗削减",
-            "法力削减或格挡",
-            "伤害分摊"
-        ],
         "source": "星体召唤",
         "Release date": "2024-03-07",
         "specialId": "astral_dominion",
@@ -63091,18 +54017,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "雷霆一击",
-        "types": [
-            "攻击单个目标",
-            "连锁攻击",
-            "命中时触发持续伤害",
-            "处于持续伤害状态时治疗 3 个目标"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "持续伤害",
-            "特殊治疗",
-            "狙击手"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2024-05-23",
         "specialId": "thundering_strike",
@@ -63164,19 +54078,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "暗夜低语",
-        "types": [
-            "全体治疗",
-            "全体火暴守护增益",
-            "全体状态异常免疫"
-        ],
-        "skill_types": [
-            "治疗",
-            "防御减益",
-            "伤害减免",
-            "提供免疫",
-            "额外伤害",
-            "反制小兵"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2024-12-03",
         "specialId": "nights_whisper",
@@ -63238,13 +54139,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "夜之校准",
-        "types": [
-            "全体持续治疗",
-            "全体焰暴守卫",
-            "全体状态异常免疫",
-            "企图施加异常状态时获得治疗"
-        ],
-        "skill_types": [],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2026-04-07",
         "specialId": "nights_calibration",
@@ -63286,7 +54180,20 @@ window.allHeroes =
             "health": 3142,
             "power": 1593
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "治疗：持续",
+                    "治疗：特殊"
+                ]
+            },
+            {
+                "增益效果": [
+                    "状态-免疫状态异常",
+                    "防御-伤害减免"
+                ]
+            }
+        ]
     },
     {
         "name": "杜瓦尔 (Duval)",
@@ -63296,16 +54203,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "偷袭射击",
-        "types": [
-            "掠夺 (单体)",
-            "攻击单个目标",
-            "单体扩散型持续伤害"
-        ],
-        "skill_types": [
-            "增益窃取者",
-            "狙击手",
-            "持续伤害"
-        ],
         "source": "黑色星期五召唤",
         "Release date": "2025-11-24",
         "specialId": "thieving_shot",
@@ -63374,16 +54271,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "愚蠢群徒",
-        "types": [
-            "攻击单个目标",
-            "召唤1个恶魔",
-            "单体莽夫乱拳"
-        ],
-        "skill_types": [
-            "狙击手",
-            "召唤恶魔",
-            "失心攻击&治疗"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2025-11-01",
         "specialId": "flock_of_folly_eldwren",
@@ -63449,18 +54336,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "守卫花园！",
-        "types": [
-            "攻击单个目标",
-            "随机攻击",
-            "被击中时召唤幼苗恶魔",
-            "3个目标防御增益"
-        ],
-        "skill_types": [
-            "狙击手",
-            "连锁与随机攻击",
-            "召唤恶魔",
-            "防御增益"
-        ],
         "source": "挑战 - 英勇植物召唤",
         "Release date": "2025-09-02",
         "specialId": "guard_the_garden",
@@ -63531,21 +54406,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "野蛮吞噬",
-        "types": [
-            "攻击单个目标",
-            "单体扩散型持续伤害",
-            "宝箱怪"
-        ],
-        "skill_types": [
-            "特殊治疗",
-            "反制小兵",
-            "狙击手",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形态与隐藏",
-            "绕过",
-            "持续伤害"
-        ],
         "source": "市集召唤",
         "Release date": "2025-11-09",
         "specialId": "savage_gobble_purple",
@@ -63625,14 +54485,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "飞速",
         "skill": "欲望之箭",
-        "types": [
-            "攻击单个目标",
-            "单体受到伤害增加减益"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "狙击手"
-        ],
         "source": "月活动 - 恋爱季节",
         "Release date": "2024-01-08",
         "specialId": "arrow_of_desire",
@@ -63688,20 +54540,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "贪婪吞噬",
-        "types": [
-            "摧毁单个目标的小兵",
-            "攻击单个目标",
-            "宝箱怪"
-        ],
-        "skill_types": [
-            "特殊治疗",
-            "法力提升",
-            "反制小兵",
-            "狙击手",
-            "提供免疫",
-            "鬼魂形态与隐藏",
-            "绕过"
-        ],
         "source": "市集召唤",
         "Release date": "2025-06-06",
         "specialId": "mimic_training_hero_purple_bite",
@@ -63777,16 +54615,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "穿刺飞鹰",
-        "types": [
-            "攻击单个目标",
-            "随机攻击",
-            "命中时施加元素防御降低减益"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "防御减益",
-            "狙击手"
-        ],
         "source": "超级元素人",
         "Release date": "2023-11-06",
         "specialId": "piercing_falcon",
@@ -63848,16 +54676,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "乌鸦守夜",
-        "types": [
-            "召唤所有",
-            "全体小怪攻击增益",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "小兵强化",
-            "召唤小兵"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "",
         "specialId": "ravens_vigil",
@@ -63911,16 +54729,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "渡鸦看守",
-        "types": [
-            "召唤所有",
-            "全体小怪攻击增益",
-            "全体闪避率增益"
-        ],
-        "skill_types": [
-            "闪避",
-            "小兵强化",
-            "召唤小兵"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2022-08-01",
         "specialId": "ravens_watch",
@@ -63976,14 +54784,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "元素腐蚀",
-        "types": [
-            "泰坦攻击增益",
-            "全体伤害增加减益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "额外伤害"
-        ],
         "source": "超级元素人",
         "Release date": "2024-03-25",
         "specialId": "elemental_corruption",
@@ -64043,16 +54843,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "暮星打击",
-        "types": [
-            "攻击3个目标",
-            "3个目标衰退",
-            "3个目标增伤"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害",
-            "属性修改"
-        ],
         "source": "星体召唤",
         "Release date": "2025-05-07",
         "specialId": "twilight_star_strike",
@@ -64114,18 +54904,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "史莱姆服务",
-        "types": [
-            "攻击3个目标",
-            "召唤3个史莱姆恶魔",
-            "偷取增益恶魔",
-            "偷取成长效果恶魔"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "召唤恶魔",
-            "增益窃取者",
-            "持续伤害"
-        ],
         "source": "超级元素人",
         "Release date": "2024-11-27",
         "specialId": "slime_serving",
@@ -64186,16 +54964,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "飞速",
         "skill": "巨牙利刃",
-        "types": [
-            "攻击单个目标",
-            "单体防御降低",
-            "单体法力获取冻结"
-        ],
-        "skill_types": [
-            "防御减益",
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2022-12-24",
         "specialId": "titantooth_blade",
@@ -64255,14 +55023,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "复仇打击",
-        "types": [
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害",
-            "伤害减免"
-        ],
         "source": "挑战 - 石像鬼",
         "Release date": "2022-05-12",
         "specialId": "revengeful_smite",
@@ -64318,17 +55078,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "耙裂心灵",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害",
-            "随机1个状态异常来源"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "额外伤害",
-            "治疗削减"
-        ],
         "source": "挑战 - 贝奥武夫",
         "Release date": "2025-07-13",
         "specialId": "harrow_the_heart",
@@ -64395,14 +55144,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "法力操纵",
-        "types": [
-            "全体法力削减",
-            "全体法力增加"
-        ],
-        "skill_types": [
-            "法力提升",
-            "法力削减或格挡"
-        ],
         "source": "超级元素人",
         "Release date": "2023-05-22",
         "specialId": "mana_manipulation",
@@ -64462,16 +55203,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "内存操控",
-        "types": [
-            "全体法力削减",
-            "全体法力增加",
-            "全体状态异常免疫"
-        ],
-        "skill_types": [
-            "法力提升",
-            "法力削减或格挡",
-            "提供免疫"
-        ],
         "source": "超级元素人",
         "Release date": "2025-08-28",
         "specialId": "memory_manipulation",
@@ -64538,17 +55269,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "侏儒屠杀",
-        "types": [
-            "摧毁所有小兵",
-            "攻击所有目标",
-            "击杀小怪时全体法力提升"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击增益",
-            "法力提升",
-            "反制小兵"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2019-12-01",
         "specialId": "gnomish_carnage",
@@ -64611,16 +55331,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "黑豹之眼",
-        "types": [
-            "攻击3个目标",
-            "3个目标元素防御降低",
-            "驱散3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "驱散"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "eye_of_panther",
@@ -64678,16 +55388,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "豹之咆哮",
-        "types": [
-            "攻击所有目标",
-            "全体防御降低",
-            "全体增益免疫状态异常"
-        ],
-        "skill_types": [
-            "增益格挡者",
-            "防御减益",
-            "全体攻击 (打5)"
-        ],
         "source": "挑战节 I",
         "Release date": "2022-06-16",
         "specialId": "roar_of_the_panther",
@@ -64743,16 +55443,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "愤怒黏团",
-        "types": [
-            "攻击3个目标",
-            "自我攻击增益",
-            "史莱姆自身复活"
-        ],
-        "skill_types": [
-            "复活",
-            "范围攻击 (打3)",
-            "攻击增益"
-        ],
         "source": "超级元素人",
         "Release date": "2024-06-18",
         "specialId": "blob_of_fury",
@@ -64819,17 +55509,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "腐化神像",
-        "types": [
-            "攻击3个目标",
-            "召唤3个恶魔",
-            "攻击降低恶魔"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益",
-            "召唤恶魔",
-            "持续伤害"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-06-17",
         "specialId": "corrupting_idol",
@@ -64892,17 +55571,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "美味偶像",
-        "types": [
-            "攻击3个目标",
-            "召唤3个恶魔",
-            "攻击降低恶魔"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益",
-            "召唤恶魔",
-            "持续伤害"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2024-04-25",
         "specialId": "delicious_idol",
@@ -64970,17 +55638,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "暗星齐射",
-        "types": [
-            "攻击3个目标",
-            "3个目标共鸣",
-            "3个目标法力腐败"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害",
-            "持续伤害",
-            "法力腐败"
-        ],
         "source": "星体召唤",
         "Release date": "2026-02-15",
         "specialId": "volley_of_dark_stars",
@@ -65049,19 +55706,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "治疗烟雾",
-        "types": [
-            "全体强化持续治疗",
-            "全体持续法力提升",
-            "全体反射状态异常",
-            "全体反射叠加效果"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "生命强化",
-            "法力提升",
-            "反射",
-            "持续治疗"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2022-09-18",
         "specialId": "medicinal_fumes",
@@ -65122,17 +55766,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "冥界之力",
-        "types": [
-            "攻击3个目标",
-            "3个目标法力获取冻结"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害",
-            "法力削减或格挡",
-            "攻击增益",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2017-06-01",
         "specialId": "crush_of_hel",
@@ -65191,18 +55824,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "怨恨碾压",
-        "types": [
-            "攻击所有目标",
-            "全体法力偷取"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害",
-            "法力提升",
-            "法力削减或格挡",
-            "攻击增益",
-            "驱散"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2022-11-28",
         "specialId": "crush_of_malice",
@@ -65267,12 +55888,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "卡通冥界之力",
-        "types": [
-            "攻击3个目标",
-            "3个目标元素防御降低",
-            "3个目标法力获取冻结"
-        ],
-        "skill_types": [],
         "source": "神话召唤 - 月英",
         "Release date": "2026-04-29",
         "specialId": "crush_of_toon_hel",
@@ -65323,22 +55938,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "矮人之王的税款",
-        "types": [
-            "攻击所有目标",
-            "全体法力偷取",
-            "全体每回合偷取增益"
-        ],
-        "skill_types": [
-            "增益窃取者",
-            "法力削减或格挡",
-            "狙击手",
-            "法力提升",
-            "额外伤害",
-            "绕过",
-            "持续伤害",
-            "防御减益",
-            "反制小兵"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2025-02-23",
         "specialId": "dwarven_kings_levy",
@@ -65405,20 +56004,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "双重打击",
-        "types": [
-            "几率暴击",
-            "攻击单个目标",
-            "安全驱散 (单体)",
-            "随机攻击1个目标",
-            "状态异常持续回合增加5"
-        ],
-        "skill_types": [
-            "狙击手",
-            "驱散",
-            "额外伤害",
-            "连锁与随机攻击",
-            "效果持续重置"
-        ],
         "source": "三国召唤",
         "Release date": "2026-01-13",
         "specialId": "double_strike",
@@ -65491,17 +56076,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "宠物幼虫",
-        "types": [
-            "召唤所有",
-            "法力生成增益小兵",
-            "小怪防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "持续治疗",
-            "法力生成增益",
-            "召唤小兵"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2022-03-24",
         "specialId": "pet_larva",
@@ -65560,17 +56134,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "幼虫处方",
-        "types": [
-            "召唤所有",
-            "法力生成增益小兵",
-            "小怪防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "持续治疗",
-            "法力生成增益",
-            "召唤小兵"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2024-03-28",
         "specialId": "larva_prescription",
@@ -65634,17 +56197,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "无情处决",
-        "types": [
-            "单体防御降低",
-            "攻击单个目标",
-            "击杀时对附近 2 个目标施加疯狂",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "防御减益",
-            "狙击手",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2024-06-04",
         "specialId": "merciless_execution",
@@ -65710,21 +56262,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "燧石匕首",
-        "types": [
-            "攻击3个目标",
-            "3个目标异常状态重置",
-            "3个目标持续伤害",
-            "处于持续伤害状态时治疗自身",
-            "自身攻击增益叠加"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "效果持续重置",
-            "特殊治疗",
-            "叠加",
-            "攻击增益"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2023-05-26",
         "specialId": "firestone_daggers",
@@ -65796,17 +56333,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "慷慨礼物",
-        "types": [
-            "全体净化",
-            "全体治疗",
-            "全体增益来源"
-        ],
-        "skill_types": [
-            "净化",
-            "治疗",
-            "防御增益",
-            "特殊治疗"
-        ],
         "source": "挑战 - 贝奥武夫",
         "Release date": "2026-01-09",
         "specialId": "generous_gifts",
@@ -65876,17 +56402,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "猫系星座",
-        "types": [
-            "全体衰退",
-            "全体治疗降低",
-            "全体转移1个状态异常",
-            "净化者"
-        ],
-        "skill_types": [
-            "属性修改",
-            "净化",
-            "治疗削减"
-        ],
         "source": "荒野召唤",
         "Release date": "2025-07-18",
         "specialId": "feline_constellation",
@@ -65950,12 +56465,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "蛊惑冲击",
-        "types": [
-            "攻击所有目标",
-            "全体延迟麻痹",
-            "全体持续伤害"
-        ],
-        "skill_types": [],
         "source": "联盟 - 勇者与美人",
         "Release date": "2026-04-16",
         "specialId": "bewitching_blast",
@@ -66002,7 +56511,21 @@ window.allHeroes =
             "health": 2915,
             "power": 1596
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：全体",
+                    "伤害：持续伤害"
+                ]
+            },
+            {
+                "负面效果": [
+                    "法力-麻痹",
+                    "伤害-持续伤害：毒",
+                    "伤害-持续伤害：诅咒"
+                ]
+            }
+        ]
     },
     {
         "name": "炸脖龙 (Jabberwock)",
@@ -66012,14 +56535,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "侧翼攻击",
-        "types": [
-            "攻击2个目标",
-            "2个目标持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "狙击手"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "sideswipe",
@@ -66072,16 +56587,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "蛾之复仇者",
-        "types": [
-            "攻击2个目标",
-            "2个目标持续伤害",
-            "处于持续伤害状态时法力生成减益"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "挑战节 I",
         "Release date": "2021-12-15",
         "specialId": "avenger_of_mothkind",
@@ -66141,22 +56646,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "魔法",
         "skill": "冥界雾气",
-        "types": [
-            "蓄力",
-            "攻击单体/全体",
-            "持续伤害单体/全体",
-            "受到持续伤害时自身/全体治疗提升"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "特殊治疗",
-            "狙击手",
-            "范围攻击 (打3)",
-            "叠加",
-            "法力削减或格挡",
-            "治疗"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2023-11-15",
         "specialId": "vapors_of_the_underworld",
@@ -66227,23 +56716,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "魔法",
         "skill": "冥界凝视",
-        "types": [
-            "蓄力",
-            "攻击单体/全体",
-            "持续伤害单体/全体",
-            "受到持续伤害时自身/全体治疗提升"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "特殊治疗",
-            "生命强化",
-            "狙击手",
-            "范围攻击 (打3)",
-            "叠加",
-            "法力削减或格挡",
-            "治疗"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2026-02-10",
         "specialId": "gaze_of_the_underworld",
@@ -66320,22 +56792,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "蛛形教派",
-        "types": [
-            "施加恐惧减益 (单体)",
-            "攻击单个目标",
-            "单体狂乱",
-            "若目标被击败则对 2 个目标施加恐惧减益",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "狙击手",
-            "防御增益",
-            "驱散",
-            "增益格挡者",
-            "额外伤害",
-            "失心攻击&治疗",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2025-11-06",
         "specialId": "cult_of_arachnid",
@@ -66408,15 +56864,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "飞速",
         "skill": "破裂侵袭",
-        "types": [
-            "单体驱散",
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "驱散",
-            "额外伤害",
-            "狙击手"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "break_strike",
@@ -66474,18 +56921,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "飞速",
         "skill": "甲虫侵袭",
-        "types": [
-            "单体驱散",
-            "攻击单个目标",
-            "单体增益免疫",
-            "单体防御降低"
-        ],
-        "skill_types": [
-            "增益格挡者",
-            "防御减益",
-            "驱散",
-            "狙击手"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2021-11-15",
         "specialId": "beetle_strike",
@@ -66547,11 +56982,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "飞速",
         "skill": "卡通突击",
-        "types": [
-            "安全驱散单体 1 个增益",
-            "攻击单个目标"
-        ],
-        "skill_types": [],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toon_strike",
@@ -66600,16 +57030,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "强袭猛攻",
-        "types": [
-            "攻击所有目标",
-            "改变棋盘"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "改变面板",
-            "攻击减益",
-            "攻击增益"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-02-11",
         "specialId": "total_beatdown",
@@ -66661,18 +57081,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "昏睡对决",
-        "types": [
-            "攻击所有目标",
-            "改变棋盘"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "改变面板",
-            "额外伤害",
-            "持续伤害",
-            "攻击减益",
-            "攻击增益"
-        ],
         "source": "挑战节 II",
         "Release date": "2025-06-15",
         "specialId": "slumbering_beatdown",
@@ -66732,14 +57140,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "渴求解脱",
-        "types": [
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害",
-            "伤害减免"
-        ],
         "source": "挑战 - 石像鬼",
         "Release date": "2022-12-29",
         "specialId": "cry_for_absolution",
@@ -66795,15 +57195,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "圣甲虫轰击",
-        "types": [
-            "攻击3个目标",
-            "召唤3个爆炸恶魔"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "召唤恶魔",
-            "持续伤害"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-06-09",
         "specialId": "scarab_bombardment",
@@ -66864,15 +57255,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "圣甲虫突击",
-        "types": [
-            "攻击3个目标",
-            "召唤3个爆炸恶魔"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "召唤恶魔",
-            "持续伤害"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2025-02-17",
         "specialId": "scarab_blitz",
@@ -66940,15 +57322,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "血染刀锋",
-        "types": [
-            "攻击单个目标",
-            "3个目标攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "狙击手",
-            "持续治疗"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2018-09-01",
         "specialId": "bleeding_edge",
@@ -67001,16 +57374,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "血染大锤",
-        "types": [
-            "攻击单个目标",
-            "3个目标攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "狙击手",
-            "持续治疗",
-            "驱散"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2024-02-09",
         "specialId": "bleeding_hammer",
@@ -67069,14 +57432,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "飞速",
         "skill": "午夜猛击",
-        "types": [
-            "攻击单个目标",
-            "击杀时自身法力提升"
-        ],
-        "skill_types": [
-            "法力提升",
-            "狙击手"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "midnight_strike",
@@ -67134,13 +57489,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "飞速",
         "skill": "午夜打击",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "法力提升",
-            "狙击手"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-09-07",
         "specialId": "midnight_smite",
@@ -67205,14 +57553,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "莽夫摆",
-        "types": [
-            "攻击所有目标",
-            "除自身外全体队友防御减益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "对自身或友军负面效果"
-        ],
         "source": "月活动 - 春谷",
         "Release date": "",
         "specialId": "reckless_swing",
@@ -67264,14 +57604,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "冠军胡萝卜",
-        "types": [
-            "攻击所有目标",
-            "除自身外全体队友攻击减益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "对自身或友军负面效果"
-        ],
         "source": "月活动 - 春谷",
         "Release date": "2022-03-21",
         "specialId": "championship_carrot",
@@ -67329,17 +57661,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "失窃的馅饼",
-        "types": [
-            "攻击3个目标",
-            "单体莽夫乱拳",
-            "召唤所有"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "失心攻击&治疗",
-            "召唤小兵",
-            "特殊治疗"
-        ],
         "source": "挑战节 I",
         "Release date": "2024-04-18",
         "specialId": "stolen_tarts",
@@ -67398,19 +57719,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "史莱姆之剑",
-        "types": [
-            "攻击单个目标",
-            "吞噬粘物",
-            "全体神圣元素防御降低"
-        ],
-        "skill_types": [
-            "狙击手",
-            "持续伤害",
-            "沉睡",
-            "防御减益",
-            "驱散",
-            "属性修改"
-        ],
         "source": "超级元素人",
         "Release date": "2025-02-17",
         "specialId": "slime_coated_sword",
@@ -67473,17 +57781,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "第三眼之威",
-        "types": [
-            "全体治疗",
-            "全体防御降低",
-            "全体净化"
-        ],
-        "skill_types": [
-            "净化",
-            "防御减益",
-            "治疗",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2019-02-01",
         "specialId": "power_of_ajna",
@@ -67542,16 +57839,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "星体宝石",
-        "types": [
-            "全体治疗",
-            "增加现有增益持续时间",
-            "全体状态异常免疫"
-        ],
-        "skill_types": [
-            "治疗",
-            "提供免疫",
-            "效果持续重置"
-        ],
         "source": "星体召唤",
         "Release date": "2025-09-21",
         "specialId": "astral_gemstones",
@@ -67617,20 +57904,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "深渊魔咒",
-        "types": [
-            "攻击单个目标",
-            "单体完全移除",
-            "单体深渊幽灵"
-        ],
-        "skill_types": [
-            "增益格挡者",
-            "驱散",
-            "持续伤害",
-            "狙击手",
-            "叠加",
-            "净化",
-            "鬼魂形态与隐藏"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-03-25",
         "specialId": "abyssal_incantation",
@@ -67689,20 +57962,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "不死者魔咒",
-        "types": [
-            "攻击单个目标",
-            "单体完全移除",
-            "单体深渊幽灵"
-        ],
-        "skill_types": [
-            "驱散",
-            "持续伤害",
-            "狙击手",
-            "叠加",
-            "净化",
-            "鬼魂形态与隐藏",
-            "生命强化"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2023-04-27",
         "specialId": "undying_incantation",
@@ -67768,19 +58027,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "复苏旋律",
-        "types": [
-            "全体强化治疗",
-            "全体净化",
-            "全体法力生成叠加",
-            "自我标记以施放特殊技能"
-        ],
-        "skill_types": [
-            "闪避",
-            "生命强化",
-            "净化",
-            "法力生成增益",
-            "叠加"
-        ],
         "source": "联盟 - 飞蛾",
         "Release date": "2025-08-14",
         "specialId": "revitalizing_melody",
@@ -67843,19 +58089,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "猫草之怒",
-        "types": [
-            "偷取单个目标的超级小兵/小兵",
-            "攻击单个目标",
-            "全体伤害增加减益",
-            "自我持续治疗"
-        ],
-        "skill_types": [
-            "反制小兵",
-            "狙击手",
-            "状态效果转换",
-            "额外伤害",
-            "持续治疗"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-08-20",
         "specialId": "catnip_fury",
@@ -67930,16 +58163,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "利羽风暴",
-        "types": [
-            "全体驱散",
-            "攻击所有目标",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御减益",
-            "驱散"
-        ],
         "source": "月活动 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "specialId": "feather_tempest",
@@ -68001,16 +58224,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "肆虐风暴",
-        "types": [
-            "全体驱散",
-            "攻击所有目标",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御减益",
-            "驱散"
-        ],
         "source": "月活动 - 卡勒瓦拉",
         "Release date": "2025-07-28",
         "specialId": "raging_tempest",
@@ -68074,17 +58287,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "破军冲锋",
-        "types": [
-            "攻击所有目标",
-            "召唤所有佣兵恶魔",
-            "增益免疫恶魔"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "增益格挡者",
-            "召唤恶魔",
-            "持续伤害"
-        ],
         "source": "三国召唤",
         "Release date": "2022-03-14",
         "specialId": "disrupting_charge",
@@ -68143,17 +58345,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "毁灭冲锋",
-        "types": [
-            "攻击所有目标",
-            "召唤所有佣兵恶魔",
-            "增益免疫恶魔"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "增益格挡者",
-            "召唤恶魔",
-            "持续伤害"
-        ],
         "source": "三国召唤",
         "Release date": "2024-12-28",
         "specialId": "disrupting_charge_costume_tiger_lord",
@@ -68221,18 +58412,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "黄金扫帚之力",
-        "types": [
-            "攻击3个目标",
-            "3个目标致盲",
-            "3个目标防御降低",
-            "自身持续治疗"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益",
-            "防御减益",
-            "持续治疗"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "2023-09-25",
         "specialId": "might_of_excalibroom",
@@ -68297,16 +58476,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "全金属抛投",
-        "types": [
-            "嘲讽",
-            "自身特技防御增益",
-            "2个目标法力持续恢复"
-        ],
-        "skill_types": [
-            "防御增益",
-            "法力提升",
-            "嘲讽"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2021-10-13",
         "specialId": "fullmetal_pelt",
@@ -68356,15 +58525,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "月光祝福",
-        "types": [
-            "治疗3个目标",
-            "3个目标月光增益"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "治疗",
-            "法力削减或格挡"
-        ],
         "source": "挑战节 II",
         "Release date": "2023-09-04",
         "specialId": "lunar_blessing",
@@ -68425,19 +58585,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "召唤芭蕾舞者",
-        "types": [
-            "攻击所有目标",
-            "召唤所有恶魔",
-            "魔仆施加增益免疫",
-            "全体元素防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "增益格挡者",
-            "防御减益",
-            "召唤恶魔",
-            "持续伤害"
-        ],
         "source": "挑战 - 歌剧之谜",
         "Release date": "2023-11-30",
         "specialId": "summon_ballerina_fiend",
@@ -68504,17 +58651,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "共同欢歌",
-        "types": [
-            "全体生命值加成",
-            "持盾守卫超级小兵",
-            "安全清除全体队友的小怪"
-        ],
-        "skill_types": [
-            "生命强化",
-            "特殊治疗",
-            "召唤巨型小兵",
-            "净化"
-        ],
         "source": "哥布林召唤",
         "Release date": "2025-02-14",
         "specialId": "join_in_joyful_song",
@@ -68580,17 +58716,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "魔书略读",
-        "types": [
-            "攻击3个目标",
-            "赌徒"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益",
-            "防御减益",
-            "法力提升",
-            "法力削减或格挡"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2021-03-01",
         "specialId": "grimoire_skim",
@@ -68664,18 +58789,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "僵尸护佑",
-        "types": [
-            "攻击所有目标",
-            "全体持续治疗",
-            "全体防御增益",
-            "全体僵尸祝福增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御增益",
-            "持续治疗",
-            "复活"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "zombie_curse",
@@ -68736,19 +58849,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "僵尸咒语",
-        "types": [
-            "攻击所有目标",
-            "全体强化持续治疗",
-            "全体防御增益",
-            "全体僵尸祝福增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御增益",
-            "生命强化",
-            "复活",
-            "持续伤害"
-        ],
         "source": "挑战节 I",
         "Release date": "2022-02-17",
         "specialId": "zombie_invocation",
@@ -68814,15 +58914,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "飞速",
         "skill": "恐咒之刃",
-        "types": [
-            "攻击2个目标",
-            "2个目标奔涌流血持续伤害",
-            "2个目标中毒持续伤害"
-        ],
-        "skill_types": [
-            "狙击手",
-            "持续伤害"
-        ],
         "source": "荒野召唤",
         "Release date": "2025-11-07",
         "specialId": "blade_of_horrid_affliction",
@@ -68890,16 +58981,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "喂！接着！",
-        "types": [
-            "攻击所有目标",
-            "自身强化闪避"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "闪避",
-            "法力提升",
-            "反制小兵"
-        ],
         "source": "荒野召唤",
         "Release date": "2025-03-26",
         "specialId": "here_catch",
@@ -68961,16 +59042,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "潮汐",
         "skill": "粉碎心智",
-        "types": [
-            "攻击3个目标",
-            "单体莽夫乱拳",
-            "3个目标治疗降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "治疗削减",
-            "失心攻击&治疗"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2024-01-17",
         "specialId": "shatter_psyche",
@@ -69036,16 +59107,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "潮汐",
         "skill": "破碎之魂",
-        "types": [
-            "攻击3个目标",
-            "单体莽夫乱拳",
-            "3个目标治疗降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "治疗削减",
-            "失心攻击&治疗"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2024-10-19",
         "specialId": "shatter_soul",
@@ -69116,19 +59177,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "冷酷觉醒",
-        "types": [
-            "全体复活并带有疯狂状态",
-            "全体特殊技能防御增益",
-            "若释放者被击败则伤害全体",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "复活",
-            "防御增益",
-            "持续伤害",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2024-05-01",
         "specialId": "grim_awakening",
@@ -69197,19 +59245,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "充能",
         "skill": "居合术",
-        "types": [
-            "蓄力",
-            "攻击单个目标",
-            "随机攻击 1 / 4 / 10 次",
-            "命中时 驱散 / 安全驱散 1个增益",
-            "命中时防御减益叠加"
-        ],
-        "skill_types": [
-            "狙击手",
-            "连锁与随机攻击",
-            "驱散",
-            "防御减益"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2026-03-10",
         "specialId": "iaijutsu_slashes",
@@ -69288,15 +59323,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "黑潮",
-        "types": [
-            "除暗属性外攻击全体",
-            "除暗属性外攻击全体队友"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害",
-            "对自身或友军负面效果"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "black_tide",
@@ -69355,20 +59381,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "翡翠潮汐",
-        "types": [
-            "攻击所有目标",
-            "全体暗属性攻击增益",
-            "全体暗属性敌人攻击增益",
-            "除暗属性外全体攻击减益",
-            "除暗属性外全体队友攻击减益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击增益",
-            "攻击减益",
-            "额外伤害",
-            "对自身或友军负面效果"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2023-02-06",
         "specialId": "emerald_tide",
@@ -69434,13 +59446,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "卡通潮汐",
-        "types": [
-            "除暗属性外攻击全体",
-            "除暗属性外攻击全体队友",
-            "除暗属性外全体元素防御增益",
-            "除暗属性外全体队友元素防御减益"
-        ],
-        "skill_types": [],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toon_tide",
@@ -69490,18 +59495,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "邪术之镰",
-        "types": [
-            "攻击3个目标",
-            "单体法力生成降低",
-            "2个目标最大生命值降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "反制恶魔",
-            "提供免疫",
-            "法力削减或格挡",
-            "最大生命削减"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2022-11-01",
         "specialId": "scythe_of_sorceries",
@@ -69562,22 +59555,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "饥饿墓穴",
-        "types": [
-            "攻击单个目标",
-            "无视防御",
-            "治疗者",
-            "召唤1个墓穴幼蛾超级恶魔",
-            "增伤超级恶魔"
-        ],
-        "skill_types": [
-            "狙击手",
-            "绕过",
-            "特殊治疗",
-            "召唤恶魔",
-            "额外伤害",
-            "闪避",
-            "反制小兵"
-        ],
         "source": "联盟 - 飞蛾",
         "Release date": "2025-01-23",
         "specialId": "hungering_grave",
@@ -69644,16 +59621,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "海啸",
-        "types": [
-            "攻击3个目标",
-            "3个目标沉默者",
-            "3个目标特技封印免疫"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "提供免疫",
-            "沉默"
-        ],
         "source": "月活动 - 海滩派对",
         "Release date": "2023-06-12",
         "specialId": "tidal_waves",
@@ -69717,12 +59684,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "飞速",
         "skill": "汲金防护罩",
-        "types": [
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)"
-        ],
         "source": "神话召唤 - 额外抽奖",
         "Release date": "",
         "specialId": "absordium_deflectors",
@@ -69778,16 +59739,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "灾祸之歌",
-        "types": [
-            "攻击所有目标",
-            "全体状态异常持续时间重置",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "效果持续重置"
-        ],
         "source": "挑战节 II",
         "Release date": "2022-08-11",
         "specialId": "song_of_calamity",
@@ -69849,16 +59800,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "巨锤滑冲",
-        "types": [
-            "全体强化治疗",
-            "全体强化闪避",
-            "召唤所有"
-        ],
-        "skill_types": [
-            "生命强化",
-            "闪避",
-            "召唤小兵"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2025-12-01",
         "specialId": "sledge_bash",
@@ -69921,14 +59862,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "飞速",
         "skill": "八足射线",
-        "types": [
-            "攻击3个目标",
-            "3个目标狂乱",
-            "奥术/眼部射线(3个目标)",
-            "奥术/眼部射线随机攻击单体",
-            "自我狂乱"
-        ],
-        "skill_types": [],
         "source": "暗影召唤",
         "Release date": "2026-05-19",
         "specialId": "ocular_ray",
@@ -69978,17 +59911,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "冥河",
         "skill": "夜幕降临",
-        "types": [
-            "蓄力",
-            "攻击所有目标",
-            "全体攻击增益",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击增益",
-            "防御减益"
-        ],
         "source": "高塔 - 冥河",
         "Release date": "2022-06-01",
         "specialId": "night_falls",
@@ -70060,14 +59982,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "披荆斩棘",
-        "types": [
-            "攻击3个目标",
-            "单体反击"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "反击"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "cleave_counter",
@@ -70119,14 +60033,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "摧枯拉朽",
-        "types": [
-            "攻击所有目标",
-            "3个目标反击"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "反击"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "unite_and_oppose",
@@ -70180,16 +60086,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "吸血劈斩",
-        "types": [
-            "攻击3个目标",
-            "3个目标反击",
-            "反击时获得法力"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "反击",
-            "法力提升"
-        ],
         "source": "服装间",
         "Release date": "2022-09-05",
         "specialId": "vampiric_cleave",
@@ -70245,15 +60141,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "卡通和计数",
-        "types": [
-            "攻击3个目标",
-            "单体反击"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "反击",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2023-11-27",
         "specialId": "toon_counter",
@@ -70317,16 +60204,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "劈斩反射",
-        "types": [
-            "攻击3个目标",
-            "无视防御",
-            "单体反击"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "绕过",
-            "反击"
-        ],
         "source": "服装间",
         "Release date": "2025-01-14",
         "specialId": "cleave_and_reflect",
@@ -70390,15 +60267,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "英姿反击",
-        "types": [
-            "攻击3个目标",
-            "单体反击"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害",
-            "反击"
-        ],
         "source": "服装间",
         "Release date": "2026-01-26",
         "specialId": "stylish_counterattack",
@@ -70462,19 +60330,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "黑天鹅之舞",
-        "types": [
-            "全体治疗",
-            "黑天鹅之舞 (4个目标)",
-            "舞蹈时随机攻击 1 个目标",
-            "舞蹈时异常状态免疫"
-        ],
-        "skill_types": [
-            "舞者",
-            "生命强化",
-            "连锁与随机攻击",
-            "特殊治疗",
-            "提供免疫"
-        ],
         "source": "挑战 - 歌剧之谜",
         "Release date": "2024-03-21",
         "specialId": "dance_of_the_raven",
@@ -70545,18 +60400,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "律法长柄斧",
-        "types": [
-            "摧毁所有恶魔",
-            "月玫瑰击 (全体)",
-            "魔仆被摧毁时全体法力增加"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害",
-            "反制恶魔",
-            "法力提升",
-            "绕过"
-        ],
         "source": "高塔 - 猫头鹰",
         "Release date": "2023-12-20",
         "specialId": "poleaxe_of_the_law",
@@ -70621,19 +60464,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "充能",
         "skill": "致残钩爪",
-        "types": [
-            "蓄力",
-            "攻击 (1/3/所有) 目标",
-            "1/3/全体目标增益免疫",
-            "1/3/全体目标驱散者"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "全体攻击 (打5)",
-            "增益格挡者",
-            "驱散",
-            "狙击手"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "specialId": "crippling_claws",
@@ -70700,18 +60530,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "盲目不义",
-        "types": [
-            "驱散3个目标",
-            "攻击3个目标",
-            "3个目标致盲"
-        ],
-        "skill_types": [
-            "绕过",
-            "驱散",
-            "范围攻击 (打3)",
-            "攻击减益",
-            "额外伤害"
-        ],
         "source": "星体召唤",
         "Release date": "2025-10-23",
         "specialId": "blinding_injustice",
@@ -70783,17 +60601,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "腐臭香水",
-        "types": [
-            "攻击所有目标",
-            "召唤所有",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "召唤小兵",
-            "额外伤害"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2022-12-01",
         "specialId": "putrid_perfume",
@@ -70852,22 +60659,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "迷恋歌谣",
-        "types": [
-            "攻击3个目标",
-            "执着之谣 (3个目标)",
-            "净化 (3个目标)",
-            "3个目标法力生成降低",
-            "3个目标疗量降低",
-            "3个目标状态效果免疫"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "舞者",
-            "治疗削减",
-            "提供免疫",
-            "法力削减或格挡",
-            "沉默"
-        ],
         "source": "挑战 - 歌剧之谜",
         "Release date": "2023-06-20",
         "specialId": "ballad_of_obsession",
@@ -70932,19 +60723,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "潮汐",
         "skill": "深渊集会",
-        "types": [
-            "召唤3个小兵",
-            "小怪增加法力",
-            "嘲讽",
-            "全体小怪攻击叠加"
-        ],
-        "skill_types": [
-            "法力提升",
-            "小兵强化",
-            "召唤小兵",
-            "叠加",
-            "嘲讽"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2023-06-07",
         "specialId": "rally_of_the_deep",
@@ -71011,19 +60789,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "潮汐",
         "skill": "深渊敕令",
-        "types": [
-            "召唤3个小兵",
-            "小怪增加法力",
-            "嘲讽",
-            "全体小怪攻击叠加"
-        ],
-        "skill_types": [
-            "小兵强化",
-            "召唤小兵",
-            "叠加",
-            "嘲讽",
-            "法力提升"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2024-05-23",
         "specialId": "order_from_the_depths",
@@ -71095,16 +60860,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "贪婪欲望的药水",
-        "types": [
-            "攻击所有目标",
-            "全体驱散",
-            "增益被驱散时全体治疗"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "驱散",
-            "特殊治疗"
-        ],
         "source": "月活动 - 恋爱季节",
         "Release date": "2023-02-14",
         "specialId": "potions_of_covetous_desire",
@@ -71162,19 +60917,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "寻踪射击",
-        "types": [
-            "攻击3个目标",
-            "3个目标狂乱",
-            "3个目标防御降低",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "失心攻击&治疗",
-            "对自身或友军负面效果",
-            "范围攻击 (打3)",
-            "反制小兵",
-            "防御减益"
-        ],
         "source": "暗影召唤",
         "Release date": "2025-09-09",
         "specialId": "seeking_shots",
@@ -71236,17 +60978,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "充能",
         "skill": "发气",
-        "types": [
-            "蓄力",
-            "全体持续治疗",
-            "全体攻击增益",
-            "全体净化"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "净化",
-            "持续治疗"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2021-11-10",
         "specialId": "incite_ki",
@@ -71314,12 +61045,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "雷电通牒",
-        "types": [
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "thunderstrike",
@@ -71365,14 +61090,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "震骇通牒",
-        "types": [
-            "攻击所有目标",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益"
-        ],
         "source": "服装间",
         "Release date": "2020-01-01",
         "specialId": "shock_ultimatum",
@@ -71426,14 +61143,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "闪电通牒",
-        "types": [
-            "攻击3个目标",
-            "3个目标盲目攻击"
-        ],
-        "skill_types": [
-            "失心攻击&治疗",
-            "范围攻击 (打3)"
-        ],
         "source": "服装间",
         "Release date": "2022-12-26",
         "specialId": "lightning_ultimatum",
@@ -71487,13 +61196,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "卡通通牒",
-        "types": [
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-08-11",
         "specialId": "toon_ultimatum",
@@ -71551,14 +61253,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "玻璃通牒",
-        "types": [
-            "攻击所有目标",
-            "无视防御"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "绕过"
-        ],
         "source": "服装间",
         "Release date": "2025-10-09",
         "specialId": "glass_thunderstrike_quintus",
@@ -71616,16 +61310,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "飞速",
         "skill": "三头小公羊",
-        "types": [
-            "攻击单个目标",
-            "对3个目标召唤1个恶魔",
-            "偷取治疗恶魔"
-        ],
-        "skill_types": [
-            "召唤恶魔",
-            "特殊治疗",
-            "狙击手"
-        ],
         "source": "神话召唤",
         "Release date": "2024-04-05",
         "specialId": "three_little_rams",
@@ -71688,12 +61372,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "纠缠与凶暴",
-        "types": [
-            "攻击所有目标",
-            "嘲讽",
-            "击倒全体"
-        ],
-        "skill_types": [],
         "source": "荒野召唤",
         "Release date": "2026-04-09",
         "specialId": "caught_and_vicious",
@@ -71742,7 +61420,23 @@ window.allHeroes =
             "health": 2862,
             "power": 1587
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：全体"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防御-嘲讽"
+                ]
+            },
+            {
+                "负面效果": [
+                    "法力-混乱/沉默/睡眠"
+                ]
+            }
+        ]
     },
     {
         "name": "莱恩 (Rayne)",
@@ -71752,14 +61446,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "瘟疫之刃",
-        "types": [
-            "攻击单个目标",
-            "单体扩散型持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "狙击手"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2022-01-05",
         "specialId": "plague_blade",
@@ -71812,14 +61498,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "阴谋诡计",
-        "types": [
-            "攻击3个目标",
-            "若目标被击败则伤害全体"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "全体攻击 (打5)"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2023-09-20",
         "specialId": "dishonorable_ploy",
@@ -71875,12 +61553,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "灭敌计策",
-        "types": [
-            "攻击3个目标",
-            "若目标被击败则伤害全体",
-            "自身生命值加成持续治疗"
-        ],
-        "skill_types": [],
         "source": "联盟 - 勇者与美人",
         "Release date": "2026-04-16",
         "specialId": "exterminators_ploy",
@@ -71920,7 +61592,19 @@ window.allHeroes =
             "health": 3238,
             "power": 1600
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：邻近轻伤"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "伤害-条件触发",
+                    "治疗-自我恢复/提高生命"
+                ]
+            }
+        ]
     },
     {
         "name": "鲑鱼洛基 (Salmon Loki)",
@@ -71930,14 +61614,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "戏法师的变身",
-        "types": [
-            "攻击全体圣属性",
-            "诡异"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "额外伤害"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2021-07-04",
         "specialId": "tricksters_transformation",
@@ -71996,14 +61672,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "绅士变身",
-        "types": [
-            "攻击全体圣属性",
-            "诡异"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "额外伤害"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2023-07-31",
         "specialId": "gentlemans_transformation",
@@ -72064,14 +61732,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "马尾藻诅咒",
-        "types": [
-            "攻击3个目标",
-            "3个目标治疗降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "治疗削减"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "curse_of_sargasso",
@@ -72123,16 +61783,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "海之诅咒",
-        "types": [
-            "攻击3个目标",
-            "治疗降低",
-            "持续伤害"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "治疗削减"
-        ],
         "source": "挑战节 I",
         "Release date": "2023-12-28",
         "specialId": "curse_of_the_sea",
@@ -72193,14 +61843,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "死亡打击",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "deathstrike",
@@ -72253,12 +61895,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "恐吓打击",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2020-05-18",
         "specialId": "dreadstrike",
@@ -72306,15 +61942,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "惊天一击",
-        "types": [
-            "摧毁单个目标的小兵",
-            "攻击单个目标",
-            "单体抵抗小兵"
-        ],
-        "skill_types": [
-            "反制小兵",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2023-06-12",
         "specialId": "frightstrike",
@@ -72374,15 +62001,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "卡通之击",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "额外伤害",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2023-10-30",
         "specialId": "adorable_strike",
@@ -72447,16 +62065,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "玻璃打击",
-        "types": [
-            "攻击单个目标",
-            "无视防御",
-            "单体持续伤害"
-        ],
-        "skill_types": [
-            "绕过",
-            "持续伤害",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2024-12-25",
         "specialId": "glass_strike",
@@ -72521,15 +62129,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "英姿打击",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "持续伤害",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2026-01-07",
         "specialId": "stylish_strike",
@@ -72594,18 +62193,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "充能",
         "skill": "阴影斗篷",
-        "types": [
-            "蓄力",
-            "攻击 (1/3/所有) 目标",
-            "躲藏"
-        ],
-        "skill_types": [
-            "狙击手",
-            "范围攻击 (打3)",
-            "全体攻击 (打5)",
-            "鬼魂形态与隐藏",
-            "反制小兵"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2025-01-02",
         "specialId": "shade_cloak",
@@ -72679,17 +62266,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "虚空炸弹",
-        "types": [
-            "全体持续治疗",
-            "自身反击",
-            "储存伤害攻击全体"
-        ],
-        "skill_types": [
-            "反击",
-            "持续治疗",
-            "全体攻击 (打5)",
-            "生命强化"
-        ],
         "source": "盟约召唤",
         "Release date": "2024-03-10",
         "specialId": "void_bomb",
@@ -72755,21 +62331,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "杀手",
         "skill": "幽灵的诅咒",
-        "types": [
-            "攻击所有目标",
-            "召唤所有恶魔",
-            "自身法力生成增益叠加",
-            "自身法力持续恢复叠加"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "召唤恶魔",
-            "特殊治疗",
-            "叠加",
-            "持续伤害",
-            "法力生成增益",
-            "持续治疗"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-08-05",
         "specialId": "curse_of_the_specter",
@@ -72834,21 +62395,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "杀手",
         "skill": "头足体诅咒",
-        "types": [
-            "攻击所有目标",
-            "召唤所有恶魔",
-            "自身法力生成增益叠加",
-            "自身法力持续恢复叠加"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "召唤恶魔",
-            "特殊治疗",
-            "叠加",
-            "法力生成增益",
-            "持续治疗"
-        ],
         "source": "挑战节 II",
         "Release date": "2025-04-09",
         "specialId": "curse_of_the_cephaloid",
@@ -72918,16 +62464,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "流言四起",
-        "types": [
-            "攻击单个目标",
-            "单体扩散型恶魔"
-        ],
-        "skill_types": [
-            "召唤恶魔",
-            "狙击手",
-            "攻击减益",
-            "持续伤害"
-        ],
         "source": "月活动 - 海滩派对",
         "Release date": "2025-06-03",
         "specialId": "spreading_gossip",
@@ -72993,17 +62529,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "咒语之箭",
-        "types": [
-            "攻击单个目标",
-            "自身复制小怪召唤师",
-            "驱散3个目标"
-        ],
-        "skill_types": [
-            "驱散",
-            "法力生成增益",
-            "召唤小兵",
-            "狙击手"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2019-07-01",
         "specialId": "undead_rage",
@@ -73066,18 +62591,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "辟邪之箭",
-        "types": [
-            "驱散3个目标",
-            "攻击单个目标",
-            "自身复制小怪召唤师"
-        ],
-        "skill_types": [
-            "驱散",
-            "法力生成增益",
-            "召唤小兵",
-            "狙击手",
-            "净化"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2021-10-20",
         "specialId": "excorcizing_arrow",
@@ -73145,16 +62658,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "黑暗军团",
-        "types": [
-            "召唤所有",
-            "全体持续伤害",
-            "自身被击败时全体法力削减"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "法力削减或格挡",
-            "召唤小兵"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-09-29",
         "specialId": "legions_of_darkness",
@@ -73219,16 +62722,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "暴君军团",
-        "types": [
-            "召唤所有",
-            "全体持续伤害",
-            "自身被击败时全体法力削减"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "法力削减或格挡",
-            "召唤小兵"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2025-05-14",
         "specialId": "legions_of_tyrant",
@@ -73300,17 +62793,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "铁缚之怒",
-        "types": [
-            "攻击3个目标",
-            "偷取3个目标法力",
-            "3个目标增益复制"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "增益窃取者",
-            "法力提升",
-            "法力削减或格挡"
-        ],
         "source": "盟约召唤",
         "Release date": "2023-12-24",
         "specialId": "ironbound_fury",
@@ -73376,18 +62858,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "飞天骸骨",
-        "types": [
-            "攻击所有目标",
-            "投掷骨头攻击单个目标",
-            "投掷骨头召唤1个恶魔"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "召唤恶魔",
-            "持续伤害",
-            "连锁与随机攻击",
-            "治疗削减"
-        ],
         "source": "盟约召唤",
         "Release date": "2024-12-23",
         "specialId": "bone_toss",
@@ -73447,18 +62917,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "九龙合击",
-        "types": [
-            "几率暴击",
-            "攻击单个目标",
-            "随机攻击8次",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "狙击手",
-            "连锁与随机攻击",
-            "攻击增益"
-        ],
         "source": "三国召唤",
         "Release date": "2026-03-01",
         "specialId": "nine_dragon_strike",
@@ -73529,18 +62987,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "守护者的反击",
-        "types": [
-            "净化 (3个目标)",
-            "单体命中几率",
-            "3个目标反射状态异常",
-            "3个目标反射叠加效果"
-        ],
-        "skill_types": [
-            "净化",
-            "反射",
-            "连锁与随机攻击",
-            "闪避"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2024-08-01",
         "specialId": "guardians_retaliation",
@@ -73606,18 +63052,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "黏性处决",
-        "types": [
-            "攻击单个目标",
-            "击杀时全体法力提升",
-            "击杀时全体生命值加成治疗",
-            "延迟麻痹 (单体)"
-        ],
-        "skill_types": [
-            "狙击手",
-            "法力提升",
-            "生命强化",
-            "沉睡"
-        ],
         "source": "超级元素人",
         "Release date": "2026-02-19",
         "specialId": "glutinous_execution",
@@ -73682,17 +63116,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "粘糊快递",
-        "types": [
-            "2个目标法力增加",
-            "召唤2个史莱姆超级小兵",
-            "自我强化持续治疗"
-        ],
-        "skill_types": [
-            "持续治疗",
-            "生命强化",
-            "法力提升",
-            "召唤巨型小兵"
-        ],
         "source": "超级元素人",
         "Release date": "2025-09-25",
         "specialId": "sticky_express",
@@ -73748,16 +63171,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "沮丧之谜",
-        "types": [
-            "攻击单个目标",
-            "连锁攻击",
-            "对命中目标施加增益免疫"
-        ],
-        "skill_types": [
-            "增益格挡者",
-            "连锁与随机攻击",
-            "狙击手"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2023-05-11",
         "specialId": "disheartening_riddle",
@@ -73817,16 +63230,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "恐怖谜语",
-        "types": [
-            "攻击单个目标",
-            "连锁攻击",
-            "命中时施加增益免疫减益"
-        ],
-        "skill_types": [
-            "增益格挡者",
-            "连锁与随机攻击",
-            "狙击手"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2025-07-10",
         "specialId": "dreadful_riddle",
@@ -73893,15 +63296,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "虚弱打击",
-        "types": [
-            "攻击3个目标",
-            "3个目标最大生命值持续削减"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "最大生命削减",
-            "额外伤害"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2025-11-20",
         "specialId": "weakening_strike",
@@ -73965,19 +63359,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "迅捷小友",
-        "types": [
-            "攻击单个目标",
-            "单体沉默者",
-            "召唤3个小兵"
-        ],
-        "skill_types": [
-            "增益窃取者",
-            "闪避",
-            "召唤小兵",
-            "沉默",
-            "狙击手",
-            "治疗削减"
-        ],
         "source": "盟约召唤",
         "Release date": "2024-10-07",
         "specialId": "swift_little_friends",
@@ -74047,16 +63428,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "恐慌曲调",
-        "types": [
-            "攻击所有目标",
-            "全体强化防御",
-            "全体延迟沉默"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御减益",
-            "沉默"
-        ],
         "source": "荒野召唤",
         "Release date": "2024-09-20",
         "specialId": "disquieting_tune",
@@ -74118,18 +63489,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "折磨之杖",
-        "types": [
-            "攻击单个目标",
-            "单体灵魂绑定"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "额外伤害",
-            "反制小兵",
-            "狙击手",
-            "伤害分摊",
-            "法力削减或格挡"
-        ],
         "source": "盟约召唤",
         "Release date": "2023-10-12",
         "specialId": "rod_of_torment",
@@ -74190,19 +63549,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "与野兽共进晚餐",
-        "types": [
-            "谦逊",
-            "随机攻击 6 或 5 次",
-            "命中时施加元素防御降低减益",
-            "命中时施加失心攻击",
-            "自我强化持续治疗"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "防御减益",
-            "失心攻击&治疗",
-            "生命强化"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2025-11-12",
         "specialId": "dinner_with_the_beast",
@@ -74275,17 +63621,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "骨骼召唤",
-        "types": [
-            "攻击3个目标",
-            "召唤3个小兵"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "法力生成增益",
-            "召唤小兵",
-            "驱散",
-            "法力生成增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2017-11-01",
         "specialId": "soul_cage",
@@ -74338,14 +63673,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "不死者召唤",
-        "types": [
-            "攻击3个目标",
-            "召唤3个小兵"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "召唤小兵"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2024-01-11",
         "specialId": "undying_summon",
@@ -74404,11 +63731,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "卡通骷髅召唤",
-        "types": [
-            "攻击3个目标",
-            "召唤3个小兵"
-        ],
-        "skill_types": [],
         "source": "神话召唤 - 月英",
         "Release date": "2026-04-29",
         "specialId": "skeletoon_summon",
@@ -74458,21 +63780,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "冰川凛寒",
-        "types": [
-            "攻击所有目标",
-            "全体防御增益",
-            "全体异常状态伤害免疫"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御增益",
-            "提供免疫",
-            "额外伤害",
-            "绕过",
-            "持续伤害",
-            "攻击减益",
-            "反制小兵"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2025-05-16",
         "specialId": "glacial_atmosphere",
@@ -74540,19 +63847,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "充能",
         "skill": "搜寻猎物",
-        "types": [
-            "蓄力",
-            "攻击 (1/3/所有) 目标",
-            "无视防御"
-        ],
-        "skill_types": [
-            "绕过",
-            "反制小兵",
-            "狙击手",
-            "范围攻击 (打3)",
-            "全体攻击 (打5)",
-            "额外伤害"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2024-08-27",
         "specialId": "hunt_for_prey",
@@ -74620,12 +63914,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "饕餮啃噬",
-        "types": [
-            "攻击单个目标",
-            "宝箱怪",
-            "全体普通攻击增益"
-        ],
-        "skill_types": [],
         "source": "市集召唤",
         "Release date": "2026-03-27",
         "specialId": "gluttonous_chomp_purple",
@@ -74707,15 +63995,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "飞速",
         "skill": "瞄准标记",
-        "types": [
-            "攻击单个目标",
-            "单体伤害增加叠加"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "狙击手",
-            "叠加"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2023-04-01",
         "specialId": "marked_aim",
@@ -74774,18 +64053,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "半斤八两",
-        "types": [
-            "随机攻击1个目标",
-            "单体防御降低",
-            "随机攻击1个目标",
-            "单体攻击降低"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "攻击减益",
-            "防御减益",
-            "法力提升"
-        ],
         "source": "挑战节 I",
         "Release date": "2023-10-05",
         "specialId": "dum_and_dee",
@@ -74850,16 +64117,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "潮汐",
         "skill": "邪恶交织",
-        "types": [
-            "攻击所有目标",
-            "3个目标反击",
-            "3个目标伤害减免"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "反击",
-            "伤害减免"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2023-08-02",
         "specialId": "sinister_enlace",
@@ -74930,17 +64187,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "潮汐",
         "skill": "邪恶虹吸",
-        "types": [
-            "攻击所有目标",
-            "3个目标反击",
-            "3个目标伤害减免增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "反击",
-            "伤害减免",
-            "额外伤害"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2025-05-28",
         "specialId": "sinister_siphon",
@@ -75016,15 +64262,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "蔓延阴影",
-        "types": [
-            "攻击单个目标",
-            "召唤1个克隆恶魔"
-        ],
-        "skill_types": [
-            "召唤恶魔",
-            "狙击手",
-            "持续伤害"
-        ],
         "source": "挑战 - 众神狂欢节",
         "Release date": "2023-11-02",
         "specialId": "spreading_shadow",
@@ -75082,18 +64319,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "充能",
         "skill": "毒花绽放",
-        "types": [
-            "蓄力",
-            "1/3/全体目标驱散者",
-            "1/3/全体目标持续伤害",
-            "1/3/全体目标治疗减益"
-        ],
-        "skill_types": [
-            "驱散",
-            "持续伤害",
-            "治疗削减",
-            "反制小兵"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2024-10-22",
         "specialId": "noxious_blossom",
@@ -75166,16 +64391,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "纵深轰炸",
-        "types": [
-            "攻击所有目标",
-            "全体元素反射",
-            "全体元素反击"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害",
-            "反射"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "depth_blast",
@@ -75235,18 +64450,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "暗礁炸裂",
-        "types": [
-            "攻击所有目标",
-            "全体元素反射",
-            "全体元素反击",
-            "全体神圣元素防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御减益",
-            "额外伤害",
-            "反射"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2021-11-15",
         "specialId": "reef_blast",
@@ -75312,16 +64515,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "飞速",
         "skill": "毒液之爪",
-        "types": [
-            "攻击单个目标",
-            "3个目标持续伤害",
-            "处于持续伤害状态时治疗自身"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "特殊治疗",
-            "狙击手"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2023-10-01",
         "specialId": "venomous_claws",
@@ -75386,17 +64579,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "连环轰暴",
-        "types": [
-            "攻击单个目标",
-            "连锁"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "狙击手",
-            "连锁与随机攻击",
-            "提供免疫",
-            "伤害减免"
-        ],
         "source": "挑战 - 石像鬼",
         "Release date": "2024-05-16",
         "specialId": "chain_blasm_strike",
@@ -75460,16 +64642,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "阴暗手榴弹",
-        "types": [
-            "攻击单个目标",
-            "沉默"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "全体攻击 (打5)",
-            "沉默",
-            "狙击手"
-        ],
         "source": "超级元素人",
         "Release date": "2024-08-07",
         "specialId": "gloom_grenades",
@@ -75531,16 +64703,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "虚空之力",
-        "types": [
-            "攻击所有目标",
-            "全体衰退",
-            "法力生成降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "属性修改",
-            "法力削减或格挡"
-        ],
         "source": "星体召唤",
         "Release date": "2025-01-30",
         "specialId": "power_of_the_void",
@@ -75603,18 +64765,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "巴格纳克突刺",
-        "types": [
-            "攻击3个目标",
-            "攻击成长恩赐",
-            "全体闪避率增益",
-            "闪避时造成伤害"
-        ],
-        "skill_types": [
-            "属性修改",
-            "范围攻击 (打3)",
-            "额外伤害",
-            "闪避"
-        ],
         "source": "神殿召唤",
         "Release date": "2026-01-28",
         "specialId": "bagh_nakh_thrust",
@@ -75681,19 +64831,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "飞速",
         "skill": "暗夜神伤",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害",
-            "偷取治疗 (单体)",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "持续伤害",
-            "特殊治疗",
-            "治疗削减",
-            "狙击手"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "",
         "specialId": "kings_blood_poisoning",
@@ -75757,19 +64894,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "飞速",
         "skill": "黑暗遗产",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "生命偷取",
-            "防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "持续伤害",
-            "特殊治疗",
-            "治疗削减"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "2021-10-04",
         "specialId": "legacy_of_darkness",
@@ -75831,18 +64955,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "幸运硬币",
-        "types": [
-            "全体安全净化者",
-            "全体增益免疫状态异常",
-            "持剑守卫超级小兵",
-            "传播持续伤害的小怪"
-        ],
-        "skill_types": [
-            "召唤巨型小兵",
-            "驱散",
-            "增益格挡者",
-            "持续伤害"
-        ],
         "source": "哥布林召唤",
         "Release date": "2024-06-10",
         "specialId": "lucky_coin",
@@ -75913,16 +65025,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "厄运花园",
-        "types": [
-            "攻击所有目标",
-            "绕过小兵",
-            "召唤所有恶魔"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "召唤恶魔",
-            "反制小兵"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2022-01-01",
         "specialId": "cursed_garden",
@@ -75986,16 +65088,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "封界波动",
-        "types": [
-            "重新部署",
-            "攻击所有目标",
-            "4个队友属性转变"
-        ],
-        "skill_types": [
-            "重排队伍",
-            "全体攻击 (打5)",
-            "状态效果格挡"
-        ],
         "source": "月活动 - 春谷",
         "Release date": "2025-03-31",
         "specialId": "insurmountable_flux",
@@ -76049,18 +65141,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "星座典范",
-        "types": [
-            "攻击单个目标",
-            "治疗者",
-            "特殊技能防御增益"
-        ],
-        "skill_types": [
-            "绕过",
-            "狙击手",
-            "特殊治疗",
-            "防御增益",
-            "伤害分摊"
-        ],
         "source": "星体召唤",
         "Release date": "2024-04-22",
         "specialId": "paragon_of_constellations",
@@ -76126,16 +65206,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "痛苦歌谣",
-        "types": [
-            "攻击单个目标",
-            "扩散之舞：痛苦歌谣"
-        ],
-        "skill_types": [
-            "舞者",
-            "狙击手",
-            "沉默",
-            "提供免疫"
-        ],
         "source": "挑战 - 歌剧之谜",
         "Release date": "2024-08-22",
         "specialId": "ballad_of_pain",
@@ -76205,16 +65275,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "暴怒之刺",
-        "types": [
-            "特技无视闪避",
-            "驱散3个目标",
-            "3个目标持续伤害"
-        ],
-        "skill_types": [
-            "绕过",
-            "驱散",
-            "持续伤害"
-        ],
         "source": "三国召唤",
         "Release date": "2024-02-06",
         "specialId": "wrathful_sting",
@@ -76283,18 +65343,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "山大王的愤怒",
-        "types": [
-            "全体最大生命值持续降低",
-            "全体强化持续治疗",
-            "全体法力生成降低",
-            "全体法力生成增益"
-        ],
-        "skill_types": [
-            "生命强化",
-            "法力生成增益",
-            "法力削减或格挡",
-            "最大生命削减"
-        ],
         "source": "三国召唤",
         "Release date": "2023-04-24",
         "specialId": "fury_of_the_mountain_lord",
@@ -76355,18 +65403,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "上古魔咒",
-        "types": [
-            "全体治疗",
-            "全体法力增加",
-            "改变棋盘"
-        ],
-        "skill_types": [
-            "改变面板",
-            "法力生成增益",
-            "法力削减或格挡",
-            "治疗",
-            "法力提升"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-09-09",
         "specialId": "ancient_enchantment",
@@ -76428,19 +65464,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "蛊惑魔咒",
-        "types": [
-            "全体持续治疗",
-            "全体法力持续恢复",
-            "改变棋盘"
-        ],
-        "skill_types": [
-            "改变面板",
-            "法力生成增益",
-            "法力削减或格挡",
-            "持续治疗",
-            "法力提升",
-            "生命强化"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2023-11-09",
         "specialId": "entrapping_enchantment",
@@ -76507,17 +65530,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "鞭笞之刑",
-        "types": [
-            "攻击3个目标",
-            "3个目标强化防御异常",
-            "3个目标延迟驱散"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "驱散",
-            "反制小兵"
-        ],
         "source": "荒野召唤",
         "Release date": "2024-11-05",
         "specialId": "lash_of_the_whip",
@@ -76583,17 +65595,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "灵魂之线",
-        "types": [
-            "攻击所有目标",
-            "全体致盲",
-            "全体状态异常免疫"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "提供免疫",
-            "法力提升"
-        ],
         "source": "盟约召唤",
         "Release date": "2026-01-15",
         "specialId": "spiritual_wire",
@@ -76663,17 +65664,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "长枪突刺",
-        "types": [
-            "攻击单个目标",
-            "单体防御降低",
-            "单体治疗降低"
-        ],
-        "skill_types": [
-            "狙击手",
-            "攻击增益",
-            "防御减益",
-            "治疗削减"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2025-01-01",
         "specialId": "lance_thrust",
@@ -76739,16 +65729,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "蛮力守卫",
-        "types": [
-            "3个目标持续治疗",
-            "3个目标防御增益",
-            "3个目标特技防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "持续治疗",
-            "召唤小兵"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2020-10-01",
         "specialId": "vast_ward",
@@ -76807,12 +65787,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "治疗（小）",
-        "types": [
-            "治疗者"
-        ],
-        "skill_types": [
-            "治疗"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "field_aid",
@@ -76852,12 +65826,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "芒刺在背",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "backstab",
@@ -76897,12 +65865,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "残暴斩",
-        "types": [
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "fierce_slash",
@@ -76942,12 +65904,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "攻击动员",
-        "types": [
-            "攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "attack_rally",
@@ -76987,12 +65943,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "攻击动员",
-        "types": [
-            "攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "attack_rally",
@@ -77032,12 +65982,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "应风披靡",
-        "types": [
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "tackle",
@@ -77077,14 +66021,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "锐不可当",
-        "types": [
-            "攻击单个目标",
-            "单体法力削减"
-        ],
-        "skill_types": [
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "sharp_cut",
@@ -77136,14 +66072,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "锋锐切割",
-        "types": [
-            "攻击3个目标",
-            "3个目标法力削减"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "法力削减或格挡"
-        ],
         "source": "服装间",
         "Release date": "2020-05-18",
         "specialId": "acute_cut",
@@ -77197,15 +66125,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "卡通切割",
-        "types": [
-            "攻击单个目标",
-            "单体法力削减"
-        ],
-        "skill_types": [
-            "法力削减或格挡",
-            "狙击手",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-03-11",
         "specialId": "toon_cut",
@@ -77265,16 +66184,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "玻璃切割",
-        "types": [
-            "攻击单个目标",
-            "单体法力削减",
-            "无视防御"
-        ],
-        "skill_types": [
-            "绕过",
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2025-04-23",
         "specialId": "glass_cut",
@@ -77334,11 +66243,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "英姿剪裁",
-        "types": [
-            "攻击单个目标",
-            "单体法力削减"
-        ],
-        "skill_types": [],
         "source": "服装间",
         "Release date": "2026-05-09",
         "specialId": "stylish_cut",
@@ -77386,14 +66290,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "潮汐",
         "skill": "炙热标枪",
-        "types": [
-            "攻击3个目标",
-            "3个目标元素防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2023-06-07",
         "specialId": "burning_javelin",
@@ -77456,14 +66352,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "潮汐",
         "skill": "侦察望远镜",
-        "types": [
-            "攻击3个目标",
-            "3个目标元素防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2025-04-29",
         "specialId": "scouts_spyglass",
@@ -77531,16 +66419,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "护主之鸣",
-        "types": [
-            "全体防御增益",
-            "友方伤害分担",
-            "全体反击"
-        ],
-        "skill_types": [
-            "防御增益",
-            "反击",
-            "伤害分摊"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2022-12-24",
         "specialId": "squeak_of_protection",
@@ -77596,16 +66474,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "哥布林暴怒",
-        "types": [
-            "攻击所有目标",
-            "法力削减",
-            "法力生成增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力生成增益",
-            "法力削减或格挡"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "claw_power",
@@ -77663,16 +66531,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "大锤重击",
-        "types": [
-            "攻击3个目标",
-            "攻击降低",
-            "防御降低"
-        ],
-        "skill_types": [
-            "属性修改",
-            "范围攻击 (打3)",
-            "防御减益"
-        ],
         "source": "哥布林召唤",
         "Release date": "2023-09-18",
         "specialId": "hammer_thump",
@@ -77738,16 +66596,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "霜冻拳击",
-        "types": [
-            "攻击3个目标",
-            "自身召唤师",
-            "3个目标受到伤害增加减益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害",
-            "召唤小兵"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2022-12-01",
         "specialId": "frosty_punches",
@@ -77805,14 +66653,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "冥河",
         "skill": "但丁的地狱",
-        "types": [
-            "蓄力"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "绕过",
-            "持续伤害"
-        ],
         "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
         "specialId": "dantes_inferno",
@@ -77886,20 +66726,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "舞者",
         "skill": "庇护光环",
-        "types": [
-            "安全净化 (3个目标)",
-            "3个目标灵气加成治疗",
-            "2个目标烈焰福运之舞增益"
-        ],
-        "skill_types": [
-            "治疗",
-            "生命强化",
-            "净化",
-            "舞者",
-            "攻击增益",
-            "额外伤害",
-            "伤害减免"
-        ],
         "source": "月活动 - 幸运召唤",
         "Release date": "2026-02-17",
         "specialId": "protective_aura",
@@ -77973,14 +66799,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "腐坏斧头",
-        "types": [
-            "攻击3个目标",
-            "3个目标法力生成降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "法力削减或格挡"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "",
         "specialId": "tainted_axe",
@@ -78032,14 +66850,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "凶残利斧",
-        "types": [
-            "攻击所有目标",
-            "全体法力削减"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力削减或格挡"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2023-02-13",
         "specialId": "vicious_axe",
@@ -78093,11 +66903,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "卡通斧",
-        "types": [
-            "攻击3个目标",
-            "3个目标法力生成降低"
-        ],
-        "skill_types": [],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2026-04-29",
         "specialId": "toon_axe",
@@ -78145,17 +66950,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "贪婪咀嚼",
-        "types": [
-            "摧毁单个目标的小兵",
-            "攻击单个目标",
-            "宝箱怪"
-        ],
-        "skill_types": [
-            "反制小兵",
-            "狙击手",
-            "绕过",
-            "鬼魂形态与隐藏"
-        ],
         "source": "市集召唤",
         "Release date": "2026-01-16",
         "specialId": "greedy_munch_red",
@@ -78225,15 +67019,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "闪避冲刺",
-        "types": [
-            "闪避",
-            "法力持续恢复"
-        ],
-        "skill_types": [
-            "闪避",
-            "法力提升",
-            "反击"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2023-10-18",
         "specialId": "evading_dash",
@@ -78290,12 +67075,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "疾风祷告",
-        "types": [
-            "全体治疗"
-        ],
-        "skill_types": [
-            "治疗"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "wind_prayer",
@@ -78341,14 +67120,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "疾风福音",
-        "types": [
-            "全体持续治疗",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "持续治疗"
-        ],
         "source": "服装间",
         "Release date": "2020-01-01",
         "specialId": "wind_gospel",
@@ -78402,14 +67173,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "卡通祷告",
-        "types": [
-            "全体治疗",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "治疗",
-            "防御增益"
-        ],
         "source": "服装间",
         "Release date": "2024-05-06",
         "specialId": "adorable_wind_prayer",
@@ -78467,15 +67230,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "玻璃祈祷",
-        "types": [
-            "全体治疗",
-            "火焰盟友反射状态异常",
-            "火焰盟友反射叠加效果"
-        ],
-        "skill_types": [
-            "治疗",
-            "反射"
-        ],
         "source": "服装间",
         "Release date": "2025-07-16",
         "specialId": "glass_prayer",
@@ -78533,18 +67287,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "矮人繁荣",
-        "types": [
-            "随机攻击8次",
-            "全体增益持续时间重置"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "效果持续重置",
-            "额外伤害",
-            "反制小兵",
-            "持续伤害",
-            "防御减益"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2024-12-03",
         "specialId": "dwarven_flourish",
@@ -78604,18 +67346,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "矮人充能",
-        "types": [
-            "随机攻击8次",
-            "全体增益持续时间重置"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "效果持续重置",
-            "额外伤害",
-            "反制小兵",
-            "持续伤害",
-            "防御减益"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2025-10-15",
         "specialId": "dwarven_recharge",
@@ -78677,14 +67407,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "火球",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "fireball",
@@ -78737,14 +67459,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "灼热射线",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "comet",
@@ -78799,15 +67513,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "卡通球",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2023-12-25",
         "specialId": "toonball",
@@ -78872,16 +67577,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "玻璃火球",
-        "types": [
-            "攻击所有目标",
-            "无视防御",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "绕过",
-            "持续伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-12-25",
         "specialId": "glass_fireball",
@@ -78946,15 +67641,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "英姿火球",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害",
-            "持续伤害"
-        ],
         "source": "服装间",
         "Release date": "2026-01-07",
         "specialId": "stylish_fireball",
@@ -79019,15 +67705,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "魔法",
         "skill": "虚幻增幅",
-        "types": [
-            "蓄力",
-            "3个目标攻击增益",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "防御减益"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "specialId": "imaginary_increments",
@@ -79086,16 +67763,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "吴镰",
-        "types": [
-            "攻击所有目标",
-            "召唤所有",
-            "带持续伤害的小怪"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "召唤小兵"
-        ],
         "source": "三国召唤",
         "Release date": "2022-03-14",
         "specialId": "sickle_of_wu",
@@ -79154,16 +67821,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "归于混沌",
-        "types": [
-            "暴击几率",
-            "攻击3个目标",
-            "嘲讽"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "嘲讽",
-            "额外伤害"
-        ],
         "source": "三国召唤",
         "Release date": "2025-05-22",
         "specialId": "rough_and_tumble",
@@ -79228,14 +67885,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "嗜血",
-        "types": [
-            "攻击单个目标",
-            "自我攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "狙击手"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "bloodthirst",
@@ -79287,14 +67936,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "炙热侵袭",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "burning_strike",
@@ -79347,14 +67988,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "灼热突击",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "searing_strike",
@@ -79409,15 +68042,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "卡通火焰攻击",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "狙击手",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-05-31",
         "specialId": "adorable_burning_strike",
@@ -79482,16 +68106,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "玻璃打击",
-        "types": [
-            "攻击单个目标",
-            "无视防御",
-            "单体持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "狙击手",
-            "绕过"
-        ],
         "source": "服装间",
         "Release date": "2025-08-10",
         "specialId": "glass_burning_strike",
@@ -79556,14 +68170,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "宝贵贡献",
-        "types": [
-            "攻击增益",
-            "法力生成增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "法力生成增益"
-        ],
         "source": "挑战节 I",
         "Release date": "2021-12-15",
         "specialId": "valuable_contribution",
@@ -79611,19 +68217,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "绝佳视角",
-        "types": [
-            "攻击3个目标",
-            "3个目标狂乱",
-            "自身攻击增益叠加",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "失心攻击&治疗",
-            "对自身或友军负面效果",
-            "范围攻击 (打3)",
-            "叠加",
-            "攻击增益"
-        ],
         "source": "暗影召唤",
         "Release date": "2025-09-09",
         "specialId": "vantage_point",
@@ -79682,17 +68275,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "欢乐色调",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "额外伤害",
-            "闪避",
-            "反制小兵"
-        ],
         "source": "联盟 - 飞蛾",
         "Release date": "2025-01-23",
         "specialId": "joyful_palette",
@@ -79754,16 +68336,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "鹿角冲撞",
-        "types": [
-            "攻击单个目标",
-            "单体法力削减",
-            "自身召唤师"
-        ],
-        "skill_types": [
-            "法力削减或格挡",
-            "召唤小兵",
-            "狙击手"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "",
         "specialId": "horn_attack",
@@ -79817,18 +68389,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "钛角猛击",
-        "types": [
-            "攻击单个目标",
-            "单体法力削减",
-            "自身召唤师",
-            "自我防御增益"
-        ],
-        "skill_types": [
-            "狙击手",
-            "法力削减或格挡",
-            "召唤小兵",
-            "防御增益"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2025-12-01",
         "specialId": "titanium_antler_attack",
@@ -79894,16 +68454,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "毛茸樵夫之旋斧",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害",
-            "防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御减益",
-            "持续伤害"
-        ],
         "source": "挑战节 II",
         "Release date": "2022-11-03",
         "specialId": "furry_loggers_swing",
@@ -79964,14 +68514,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "疯鼠狂热",
-        "types": [
-            "攻击3个目标",
-            "攻击增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击增益"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-02-11",
         "specialId": "mad_rat_mania",
@@ -80023,14 +68565,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "莽夫刺",
-        "types": [
-            "攻击单个目标",
-            "自身防御减益"
-        ],
-        "skill_types": [
-            "对自身或友军负面效果",
-            "狙击手"
-        ],
         "source": "月活动 - 春谷",
         "Release date": "",
         "specialId": "reckless_stab",
@@ -80082,11 +68616,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "周密刺击",
-        "types": [
-            "攻击单个目标",
-            "自身防御减益"
-        ],
-        "skill_types": [],
         "source": "月活动 - 春谷",
         "Release date": "2026-03-30",
         "specialId": "prudent_stab",
@@ -80124,7 +68653,23 @@ window.allHeroes =
             "health": 1077,
             "power": 732
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：单体"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "伤害-额外伤害"
+                ]
+            },
+            {
+                "负面效果": [
+                    "状态-自我减益"
+                ]
+            }
+        ]
     },
     {
         "name": "星闪 (Starswift)",
@@ -80134,15 +68679,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "星之游戏",
-        "types": [
-            "攻击3个目标",
-            "3个目标法力生成增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "法力生成增益",
-            "伤害分摊"
-        ],
         "source": "星体召唤",
         "Release date": "2024-03-07",
         "specialId": "starplay",
@@ -80206,13 +68742,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "慢",
         "skill": "炙热护盾",
-        "types": [
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2020-05-28",
         "specialId": "burning_shields",
@@ -80264,13 +68793,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "长尾蠕虫",
-        "types": [
-            "召唤所有恶魔"
-        ],
-        "skill_types": [
-            "召唤恶魔",
-            "持续伤害"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-03-25",
         "specialId": "thresher_worms",
@@ -80321,13 +68843,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "吸血水蛭",
-        "types": [
-            "召唤所有恶魔"
-        ],
-        "skill_types": [
-            "召唤恶魔",
-            "持续伤害"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2024-04-25",
         "specialId": "leeching_worms",
@@ -80380,14 +68895,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "不屈守卫",
-        "types": [
-            "攻击所有目标",
-            "全体最大生命值持续降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "最大生命削减"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "unyielding_protector",
@@ -80445,14 +68952,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "不屈之剑",
-        "types": [
-            "攻击所有目标",
-            "全体最大生命值持续降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "最大生命削减"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2025-04-14",
         "specialId": "unyielding_sword",
@@ -80517,17 +69016,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "充能",
         "skill": "凌空飞踢",
-        "types": [
-            "蓄力",
-            "攻击单个目标",
-            "随机攻击 1 / 2 / 3 次",
-            "命中时攻击降低"
-        ],
-        "skill_types": [
-            "狙击手",
-            "连锁与随机攻击",
-            "攻击减益"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2026-03-10",
         "specialId": "flying_front_kick",
@@ -80598,20 +69086,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "杀手",
         "skill": "狡猾精灵",
-        "types": [
-            "攻击所有目标",
-            "召唤所有恶魔",
-            "叠加"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "召唤恶魔",
-            "特殊治疗",
-            "叠加",
-            "持续伤害",
-            "法力生成增益",
-            "持续治疗"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-08-05",
         "specialId": "wily_wisps",
@@ -80676,14 +69150,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "战嚎",
-        "types": [
-            "全体治疗",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "治疗"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "warcry",
@@ -80735,14 +69201,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "死亡筵席",
-        "types": [
-            "全体治疗",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "治疗"
-        ],
         "source": "服装间",
         "Release date": "2020-01-01",
         "specialId": "war_feast",
@@ -80796,15 +69254,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "战歌",
-        "types": [
-            "全体强化持续治疗",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "持续治疗",
-            "生命强化"
-        ],
         "source": "服装间",
         "Release date": "2023-06-12",
         "specialId": "war_song",
@@ -80859,14 +69308,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "卡通战嚎",
-        "types": [
-            "全体治疗",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "治疗"
-        ],
         "source": "服装间",
         "Release date": "2023-12-25",
         "specialId": "tooncry",
@@ -80924,17 +69365,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "玻璃战吼",
-        "types": [
-            "全体治疗",
-            "全体攻击增益",
-            "火焰盟友反射状态异常",
-            "火焰盟友反射叠加效果"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "治疗",
-            "反射"
-        ],
         "source": "服装间",
         "Release date": "2024-12-25",
         "specialId": "glass_warcry",
@@ -80994,14 +69424,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "英姿战吼",
-        "types": [
-            "全体治疗",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "治疗"
-        ],
         "source": "服装间",
         "Release date": "2026-01-07",
         "specialId": "stylish_warcry",
@@ -81059,16 +69481,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "危险礼物",
-        "types": [
-            "法力削减",
-            "召唤者 (单体)",
-            "炸弹"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "法力削减或格挡",
-            "召唤小兵"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2020-12-01",
         "specialId": "perilous_gift",
@@ -81118,19 +69530,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "杀手",
         "skill": "重生的怨恨",
-        "types": [
-            "攻击3个目标",
-            "复活",
-            "叠加"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "特殊治疗",
-            "复活",
-            "叠加",
-            "法力生成增益",
-            "持续治疗"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-08-05",
         "specialId": "reanimated_spite",
@@ -81190,14 +69589,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "火焰风暴",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "fire_storm",
@@ -81250,14 +69641,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "烈焰突袭",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "lavablow",
@@ -81312,15 +69695,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "慢",
         "skill": "火焰风暴",
-        "types": [
-            "攻击3个目标",
-            "3个目标元素防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2023-06-12",
         "specialId": "flame_storm",
@@ -81380,15 +69754,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "卡通风暴",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-03-11",
         "specialId": "toon_storm",
@@ -81453,16 +69818,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "彩绘之火",
-        "types": [
-            "攻击所有目标",
-            "无视防御",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "绕过",
-            "持续伤害"
-        ],
         "source": "服装间",
         "Release date": "2025-04-08",
         "specialId": "vitrail_flames",
@@ -81527,11 +69882,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "时尚火焰",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害"
-        ],
-        "skill_types": [],
         "source": "服装间",
         "Release date": "2026-04-10",
         "specialId": "stylish_flames",
@@ -81569,7 +69919,24 @@ window.allHeroes =
             "health": 1740,
             "power": 1003
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：全体",
+                    "伤害：持续伤害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "伤害-额外伤害"
+                ]
+            },
+            {
+                "负面效果": [
+                    "伤害-持续伤害：燃烧"
+                ]
+            }
+        ]
     },
     {
         "name": "艾希贝尔伯格 (Eichbelborg)",
@@ -81579,14 +69946,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "浮夸韧性",
-        "types": [
-            "攻击单个目标",
-            "防御降低"
-        ],
-        "skill_types": [
-            "防御减益",
-            "狙击手"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-06-10",
         "specialId": "pompous_flex",
@@ -81638,13 +69997,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "野蛮复仇",
-        "types": [
-            "反击"
-        ],
-        "skill_types": [
-            "反击",
-            "法力削减或格挡"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2021-10-13",
         "specialId": "feral_revenge",
@@ -81696,13 +70048,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "火爆复仇",
-        "types": [
-            "反击"
-        ],
-        "skill_types": [
-            "反击",
-            "法力削减或格挡"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2024-12-17",
         "specialId": "fiery_revenge",
@@ -81762,14 +70107,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "锤击粉碎机",
-        "types": [
-            "攻击3个目标",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "ramming_pulverizer",
@@ -81821,16 +70158,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "粉碎算盘",
-        "types": [
-            "摧毁所有小兵",
-            "攻击所有目标",
-            "击杀小怪时全体治疗"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "特殊治疗",
-            "反制小兵"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "wallet_pulverizer",
@@ -81886,14 +70213,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "粉碎火腿",
-        "types": [
-            "全体驱散",
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "驱散"
-        ],
         "source": "服装间",
         "Release date": "2023-04-17",
         "specialId": "pulverizing_ham",
@@ -81947,15 +70266,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "卡通粉碎者",
-        "types": [
-            "攻击3个目标",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-05-06",
         "specialId": "adorable_pulverizer",
@@ -82020,16 +70330,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "玻璃碎击",
-        "types": [
-            "攻击3个目标",
-            "无视防御",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "绕过",
-            "防御减益"
-        ],
         "source": "服装间",
         "Release date": "2025-05-10",
         "specialId": "glass_pulverizer",
@@ -82093,14 +70393,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "炽焰之喙",
-        "types": [
-            "攻击3个目标",
-            "元素防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "blazing_beak",
@@ -82152,16 +70444,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "燃烧旋击",
-        "types": [
-            "攻击3个目标",
-            "3个目标反击",
-            "灼热之触 (3个目标)"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "反击",
-            "持续伤害"
-        ],
         "source": "盟约召唤",
         "Release date": "2025-12-23",
         "specialId": "burning_spin",
@@ -82232,15 +70514,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "炮弹水花",
-        "types": [
-            "攻击3个目标",
-            "增益免疫"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "增益格挡者",
-            "提供免疫"
-        ],
         "source": "月活动 - 海滩派对",
         "Release date": "2023-06-12",
         "specialId": "cannonball_splash",
@@ -82304,14 +70577,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "劈砍支撑",
-        "types": [
-            "攻击单个目标",
-            "全体伤害治疗"
-        ],
-        "skill_types": [
-            "特殊治疗",
-            "狙击手"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "slash_and_support",
@@ -82365,14 +70630,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "攻击支援",
-        "types": [
-            "攻击单个目标",
-            "全体伤害治疗"
-        ],
-        "skill_types": [
-            "狙击手",
-            "特殊治疗"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-11-01",
         "specialId": "strike_and_support",
@@ -82433,14 +70690,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "火之舞",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "dance_of_fire",
@@ -82493,12 +70742,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "引燃之舞",
-        "types": [
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "dance_of_ignition",
@@ -82552,16 +70795,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "焰之舞",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "处于灼烧状态时自身治疗"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "特殊治疗"
-        ],
         "source": "服装间",
         "Release date": "2022-09-05",
         "specialId": "dance_of_flame",
@@ -82621,15 +70854,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "卡通之舞",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "狙击手",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-04-08",
         "specialId": "dance_of_toons",
@@ -82694,16 +70918,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "玻璃舞步",
-        "types": [
-            "攻击单个目标",
-            "无视防御",
-            "单体持续伤害"
-        ],
-        "skill_types": [
-            "绕过",
-            "持续伤害",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2025-04-23",
         "specialId": "dance_of_glass",
@@ -82768,11 +70982,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "时尚舞蹈",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害"
-        ],
-        "skill_types": [],
         "source": "服装间",
         "Release date": "2026-05-09",
         "specialId": "stylish_dance",
@@ -82820,14 +71029,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "赤焰之剑",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害"
-        ],
         "source": "月活动 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "specialId": "flaming_sword",
@@ -82884,14 +71085,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "天鹅挽歌之剑",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害"
-        ],
         "source": "月活动 - 卡勒瓦拉",
         "Release date": "2025-07-28",
         "specialId": "sword_of_swan_song",
@@ -82950,20 +71143,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "魔法",
         "skill": "法师球爆破",
-        "types": [
-            "攻击单个目标",
-            "目标释放特技时削减 4 个目标的法力",
-            "全体法力生成增益",
-            "盟友释放特殊技能时攻击全体"
-        ],
-        "skill_types": [
-            "法力生成增益",
-            "法力削减或格挡",
-            "狙击手",
-            "全体攻击 (打5)",
-            "叠加",
-            "治疗"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2023-05-03",
         "specialId": "mageball_blast",
@@ -83033,14 +71212,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "半身人之智",
-        "types": [
-            "3个目标反击",
-            "3个目标攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "反击"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-03-25",
         "specialId": "halflings_wit",
@@ -83092,14 +71263,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "半身人的智慧",
-        "types": [
-            "3个目标反击",
-            "3个目标攻击增益"
-        ],
-        "skill_types": [
-            "反击",
-            "攻击增益"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2024-05-23",
         "specialId": "halflings_wisdom",
@@ -83153,18 +71316,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "星光闪斩",
-        "types": [
-            "攻击单个目标",
-            "可能的额外攻击",
-            "命中时触发共鸣持续伤害"
-        ],
-        "skill_types": [
-            "绕过",
-            "狙击手",
-            "连锁与随机攻击",
-            "持续伤害",
-            "额外伤害"
-        ],
         "source": "星体召唤",
         "Release date": "2025-10-23",
         "specialId": "sparking_star_slash",
@@ -83227,15 +71378,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "猎手之爪",
-        "types": [
-            "攻击3个目标",
-            "召唤3个恶魔"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "召唤恶魔"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2022-08-25",
         "specialId": "claws_of_the_hunter",
@@ -83294,17 +71436,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "燃烧的地毯",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "特殊治疗",
-            "状态效果格挡",
-            "状态效果转换"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-04-17",
         "specialId": "kindled_carpet",
@@ -83377,16 +71508,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "治愈火精灵",
-        "types": [
-            "全体治疗",
-            "火元素治疗",
-            "净化者"
-        ],
-        "skill_types": [
-            "净化",
-            "治疗",
-            "特殊治疗"
-        ],
         "source": "超级元素人",
         "Release date": "2023-10-09",
         "specialId": "healing_fire_spirits",
@@ -83448,23 +71569,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "魅力歌谣",
-        "types": [
-            "攻击3个目标",
-            "吸引之谣 (3个目标)",
-            "舞蹈时法力生成减益",
-            "舞蹈时治疗减益",
-            "舞蹈期间状态效果免疫"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "净化",
-            "增益格挡者",
-            "舞者",
-            "驱散",
-            "治疗削减",
-            "法力削减或格挡",
-            "提供免疫"
-        ],
         "source": "挑战 - 歌剧之谜",
         "Release date": "2023-11-30",
         "specialId": "ballad_of_attraction",
@@ -83534,15 +71638,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "怒焰四起",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "对自身或友军负面效果"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-03-25",
         "specialId": "blind_rage",
@@ -83599,15 +71694,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "石匠之怒",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "对自身或友军负面效果"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2024-04-25",
         "specialId": "masons_rage",
@@ -83666,14 +71752,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "刀淋刃雨",
-        "types": [
-            "攻击3个目标",
-            "3个目标攻击降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "blade_barrage",
@@ -83725,16 +71803,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "刀刃毒龙",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "3个目标攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "持续伤害",
-            "范围攻击 (打3)"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "blade_venom",
@@ -83795,15 +71863,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "舞池之刃",
-        "types": [
-            "攻击3个目标",
-            "3个目标攻击降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益",
-            "叠加"
-        ],
         "source": "服装间",
         "Release date": "2023-10-30",
         "specialId": "blade_dance",
@@ -83857,15 +71916,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "卡通连击",
-        "types": [
-            "攻击3个目标",
-            "3个目标攻击降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-08-11",
         "specialId": "toon_barrage",
@@ -83929,16 +71979,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "玻璃连击",
-        "types": [
-            "攻击3个目标",
-            "无视防御",
-            "3个目标攻击降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益",
-            "绕过"
-        ],
         "source": "服装间",
         "Release date": "2025-09-07",
         "specialId": "glass_barrage_scarlett",
@@ -84002,15 +72042,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "永恒奴役",
-        "types": [
-            "全体攻击增益",
-            "全体暴击几率增益",
-            "全体僵尸增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "复活"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2020-05-28",
         "specialId": "eternal_servitude",
@@ -84068,15 +72099,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "充能",
         "skill": "气之传导",
-        "types": [
-            "蓄力",
-            "持续治疗 (自我/3个目标/全体)",
-            "净化 (自我/3个目标/全体)"
-        ],
-        "skill_types": [
-            "净化",
-            "持续治疗"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "specialId": "channel_ki",
@@ -84135,16 +72157,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "鼓舞剑术",
-        "types": [
-            "攻击单个目标",
-            "3个目标攻击增益",
-            "3个目标法力生成增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "法力生成增益",
-            "狙击手"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "inspiring_fencing",
@@ -84198,16 +72210,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "防守剑术",
-        "types": [
-            "攻击单个目标",
-            "自身反击",
-            "反击时自身获得法力"
-        ],
-        "skill_types": [
-            "反击",
-            "法力提升",
-            "狙击手"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "oji_waza",
@@ -84261,16 +72263,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "牧民角斗",
-        "types": [
-            "攻击单个目标",
-            "自身反击",
-            "反击时自身获得法力"
-        ],
-        "skill_types": [
-            "反击",
-            "法力提升",
-            "狙击手"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2023-04-03",
         "specialId": "orsoldoon",
@@ -84326,12 +72318,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "卡通技艺",
-        "types": [
-            "攻击单个目标",
-            "自身反击",
-            "反击时自身获得法力"
-        ],
-        "skill_types": [],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toon_waza",
@@ -84380,14 +72366,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "岩浆卵石",
-        "types": [
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害",
-            "对自身或友军负面效果"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "",
         "specialId": "magma_boulders",
@@ -84439,14 +72417,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "火山巨石",
-        "types": [
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害",
-            "对自身或友军负面效果"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2022-07-04",
         "specialId": "volcanic_boulders",
@@ -84500,10 +72470,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "卡通岩浆卵石",
-        "types": [
-            "攻击所有目标"
-        ],
-        "skill_types": [],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2026-04-29",
         "specialId": "toon_magma_boulders",
@@ -84551,14 +72517,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "贵胄之刃",
-        "types": [
-            "攻击3个目标",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益"
-        ],
         "source": "三国召唤",
         "Release date": "2022-03-14",
         "specialId": "royal_blades",
@@ -84610,18 +72568,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "全线出击",
-        "types": [
-            "攻击3个目标",
-            "召唤3个恶魔",
-            "3个目标已生成法力偷取"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "召唤恶魔",
-            "法力削减或格挡",
-            "伤害减免",
-            "提供免疫"
-        ],
         "source": "挑战 - 石像鬼",
         "Release date": "2024-10-17",
         "specialId": "firing_on_all_cylinders",
@@ -84684,17 +72630,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "美妙盛宴",
-        "types": [
-            "友方伤害分担",
-            "敌方伤害分担",
-            "全体防御增益",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "防御增益",
-            "伤害分摊",
-            "防御减益"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "spiritual_unity",
@@ -84749,14 +72684,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "顶级特酿",
-        "types": [
-            "全体对泰坦攻击增益",
-            "全体持续治疗"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "持续治疗"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2022-05-02",
         "specialId": "brilliant_brew",
@@ -84810,15 +72737,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "苦难悲曲",
-        "types": [
-            "攻击单个目标",
-            "全体重置状态异常"
-        ],
-        "skill_types": [
-            "效果持续重置",
-            "复活抑制",
-            "狙击手"
-        ],
         "source": "挑战节 II",
         "Release date": "2022-08-11",
         "specialId": "melody_of_misery",
@@ -84874,16 +72792,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "传家宝剑",
-        "types": [
-            "攻击单个目标",
-            "召唤所有",
-            "带持续伤害的小怪"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "召唤小兵",
-            "狙击手"
-        ],
         "source": "三国召唤",
         "Release date": "2022-03-14",
         "specialId": "scion_sword",
@@ -84942,16 +72850,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "传家神刃",
-        "types": [
-            "攻击单个目标",
-            "召唤所有",
-            "带持续伤害的小怪"
-        ],
-        "skill_types": [
-            "狙击手",
-            "召唤小兵",
-            "持续伤害"
-        ],
         "source": "三国召唤",
         "Release date": "2025-01-29",
         "specialId": "scion_sword_costume_white_raven",
@@ -85019,19 +72917,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "苏鲁的低语",
-        "types": [
-            "攻击所有目标",
-            "召唤所有",
-            "带持续伤害的小怪",
-            "带疯狂效果的小怪",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "召唤小兵",
-            "持续伤害",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2024-05-26",
         "specialId": "whispers_of_xulu",
@@ -85099,16 +72984,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "猩红狩猎",
-        "types": [
-            "攻击单个目标",
-            "无视防御",
-            "单体防御降低"
-        ],
-        "skill_types": [
-            "狙击手",
-            "绕过",
-            "防御减益"
-        ],
         "source": "泰坦猎手召唤",
         "Release date": "2025-12-16",
         "specialId": "crimson_hunt",
@@ -85176,20 +73051,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "渴望之咬",
-        "types": [
-            "攻击单个目标",
-            "按伤害全体提升生命",
-            "宝箱怪"
-        ],
-        "skill_types": [
-            "狙击手",
-            "特殊治疗",
-            "生命强化",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形态与隐藏",
-            "绕过"
-        ],
         "source": "市集召唤",
         "Release date": "2025-11-21",
         "specialId": "aether_mimic_bite_red",
@@ -85265,22 +73126,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "法力祭品",
-        "types": [
-            "攻击单个目标",
-            "全体闪避率",
-            "自身祭献标记叠加"
-        ],
-        "skill_types": [
-            "闪避",
-            "额外伤害",
-            "绕过",
-            "持续伤害",
-            "防御减益",
-            "反制小兵",
-            "狙击手",
-            "法力生成增益",
-            "叠加"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2025-03-23",
         "specialId": "mana_immolation",
@@ -85348,19 +73193,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "飞速",
         "skill": "吸血诅咒",
-        "types": [
-            "摧毁3个目标的小兵",
-            "攻击3个目标",
-            "根据摧毁的小怪数量全体治疗",
-            "无视防御"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "绕过",
-            "特殊治疗",
-            "法力提升",
-            "反制小兵"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "2022-10-03",
         "specialId": "vampiric_curse",
@@ -85422,18 +73254,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "飞速",
         "skill": "吸血盗团",
-        "types": [
-            "摧毁3个目标的小兵",
-            "攻击3个目标",
-            "无视防御"
-        ],
-        "skill_types": [
-            "反制小兵",
-            "范围攻击 (打3)",
-            "特殊治疗",
-            "法力提升",
-            "绕过"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "2024-09-23",
         "specialId": "vampiric_heist",
@@ -85497,13 +73317,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "旭霍什之剑",
-        "types": [
-            "攻击所有目标",
-            "全体狂乱",
-            "全体治疗偷取",
-            "自我狂乱"
-        ],
-        "skill_types": [],
         "source": "暗影召唤",
         "Release date": "2026-04-14",
         "specialId": "sword_of_xuvhosh",
@@ -85542,7 +73355,20 @@ window.allHeroes =
             "health": 2938,
             "power": 1601
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：全体"
+                ]
+            },
+            {
+                "负面效果": [
+                    "状态-狂乱",
+                    "治疗-偷取治疗",
+                    "状态-自我减益"
+                ]
+            }
+        ]
     },
     {
         "name": "安布尔 (Amber)",
@@ -85552,17 +73378,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "血誓之矛",
-        "types": [
-            "攻击单个目标",
-            "自我治疗",
-            "单体治疗抵抗减益",
-            "单个目标每次抵抗治疗时受到伤害"
-        ],
-        "skill_types": [
-            "特殊治疗",
-            "治疗削减",
-            "狙击手"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "2023-09-25",
         "specialId": "spear_of_blood_pact",
@@ -85624,17 +73439,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "圣殿誓言",
-        "types": [
-            "攻击3个目标",
-            "掩护1个单位",
-            "3个目标元素防御增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "伤害分摊",
-            "防御增益",
-            "攻击增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2026-01-01",
         "specialId": "oath_of_templar",
@@ -85696,15 +73500,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "炽焰狂舞",
-        "types": [
-            "攻击所有目标",
-            "全体炽热狂舞"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "舞者",
-            "防御增益"
-        ],
         "source": "月活动 - 海滩派对",
         "Release date": "2025-06-03",
         "specialId": "blazing_rave_dance",
@@ -85770,15 +73565,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "炽焰之怨",
-        "types": [
-            "攻击所有目标",
-            "全体治疗"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "特殊治疗",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2019-04-01",
         "specialId": "flaming_grudge",
@@ -85831,16 +73617,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "邪恶巫术",
-        "types": [
-            "最大生命值降低",
-            "全体持续伤害",
-            "全体生命值加成治疗降低减益"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "治疗削减",
-            "最大生命削减"
-        ],
         "source": "挑战 - 众神狂欢节",
         "Release date": "2023-07-13",
         "specialId": "wicked_witchcraft",
@@ -85899,18 +73675,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "强力推进",
-        "types": [
-            "攻击所有目标",
-            "全体伤害增加叠加",
-            "全体延迟法力提升"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害",
-            "法力提升",
-            "叠加",
-            "反制小兵"
-        ],
         "source": "荒野召唤",
         "Release date": "2024-10-23",
         "specialId": "forceful_advance",
@@ -85976,16 +73740,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "战神之力",
-        "types": [
-            "3个目标攻击增益",
-            "3个目标暴击几率增益",
-            "3个目标持续治疗"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "持续治疗",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2017-08-01",
         "specialId": "might_of_ares",
@@ -86040,18 +73794,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "战神之印",
-        "types": [
-            "3个目标攻击增益",
-            "3个目标反击",
-            "3个目标生命值加成治疗"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "防御增益",
-            "反击",
-            "持续治疗",
-            "生命强化"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2023-03-20",
         "specialId": "seal_of_ares",
@@ -86113,12 +73855,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "卡通战神之力",
-        "types": [
-            "全体攻击增益",
-            "全体暴击几率增益",
-            "全体持续治疗"
-        ],
-        "skill_types": [],
         "source": "神话召唤 - 月英",
         "Release date": "2026-04-29",
         "specialId": "might_of_toon_ares",
@@ -86168,18 +73904,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "充能",
         "skill": "双剑术",
-        "types": [
-            "蓄力",
-            "攻击单个目标",
-            "连锁攻击",
-            "全体攻击力成长",
-            "全体防御力成长"
-        ],
-        "skill_types": [
-            "狙击手",
-            "连锁与随机攻击",
-            "属性修改"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2026-03-10",
         "specialId": "two_sword_technique",
@@ -86252,12 +73976,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "暴食咀嚼",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "宝箱怪"
-        ],
-        "skill_types": [],
         "source": "市集召唤",
         "Release date": "2025-07-04",
         "specialId": "gorging_chew_red",
@@ -86341,15 +74059,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "红宝石突袭",
-        "types": [
-            "随机攻击 9 次",
-            "命中时施加元素防御降低减益"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "额外伤害",
-            "防御减益"
-        ],
         "source": "超级元素人",
         "Release date": "2024-07-14",
         "specialId": "ruby_rush",
@@ -86415,20 +74124,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "野蛮公牛突袭",
-        "types": [
-            "攻击3个目标",
-            "减少3个目标增益持续时间",
-            "3个目标持续伤害",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "持续伤害",
-            "效果持续重置",
-            "额外伤害",
-            "反制小兵"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-02-11",
         "specialId": "brutal_bull_rush",
@@ -86490,20 +74185,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "充能",
         "skill": "裂体锋刃",
-        "types": [
-            "蓄力",
-            "攻击 (1/3/所有) 目标",
-            "命中时施加流血标记",
-            "1/3/全体目标持续伤害"
-        ],
-        "skill_types": [
-            "狙击手",
-            "范围攻击 (打3)",
-            "全体攻击 (打5)",
-            "持续伤害",
-            "额外伤害",
-            "反制小兵"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2025-03-05",
         "specialId": "rending_dagger",
@@ -86571,12 +74252,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "猩红陷阱",
-        "types": [
-            "随机攻击3个目标",
-            "命中时触发爆炸钉刺陷阱",
-            "命中时施加元素防御降低减益"
-        ],
-        "skill_types": [],
         "source": "泰坦猎手召唤",
         "Release date": "2026-05-20",
         "specialId": "crimson_trap",
@@ -86628,14 +74303,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "火山喷发",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "volcanic_eruption",
@@ -86688,15 +74355,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "火山骤燃",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2020-05-18",
         "specialId": "volcanic_flareup",
@@ -86757,16 +74415,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "火山喷发",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "处于灼烧状态时自身治疗"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "特殊治疗"
-        ],
         "source": "服装间",
         "Release date": "2023-02-20",
         "specialId": "volcanic_explosion",
@@ -86826,15 +74474,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "卡通爆炸",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2023-10-30",
         "specialId": "volcanic_tantrum",
@@ -86899,16 +74538,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "玻璃火山",
-        "types": [
-            "攻击所有目标",
-            "无视防御",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "绕过",
-            "持续伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-12-25",
         "specialId": "glass_volcano",
@@ -86973,15 +74602,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "英姿爆发",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害",
-            "持续伤害"
-        ],
         "source": "服装间",
         "Release date": "2026-01-07",
         "specialId": "stylish_eruption",
@@ -87046,20 +74666,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "舞者",
         "skill": "烈焰雄狮光环",
-        "types": [
-            "安全净化 (3个目标)",
-            "3个目标灵气加成治疗",
-            "2个目标烈焰福运之舞增益"
-        ],
-        "skill_types": [
-            "治疗",
-            "生命强化",
-            "净化",
-            "舞者",
-            "攻击增益",
-            "额外伤害",
-            "伤害减免"
-        ],
         "source": "月活动 - 幸运召唤",
         "Release date": "2026-02-17",
         "specialId": "aura_of_the_fiery_lion",
@@ -87133,18 +74739,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "无敌斗士",
-        "types": [
-            "随机攻击1个目标",
-            "自身生命值加成",
-            "拥有生命加成时全体法力削减免疫",
-            "拥有生命加成时每回合随机攻击 1 次"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "生命强化",
-            "提供免疫",
-            "全体攻击 (打5)"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2020-05-28",
         "specialId": "unbreakable_brawler",
@@ -87195,19 +74789,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "无情斗士",
-        "types": [
-            "攻击单个目标",
-            "自身生命值加成",
-            "拥有生命加成时全体法力削减免疫",
-            "拥有生命加成时每回合随机攻击 1 次"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "生命强化",
-            "提供免疫",
-            "狙击手",
-            "全体攻击 (打5)"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2022-11-21",
         "specialId": "relentless_brawler",
@@ -87260,17 +74841,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "导弹狂热",
-        "types": [
-            "攻击单个目标",
-            "随机攻击2个目标",
-            "对命中的目标召唤恶魔"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "召唤恶魔",
-            "范围攻击 (打3)",
-            "持续伤害"
-        ],
         "source": "挑战节 II",
         "Release date": "2023-05-18",
         "specialId": "missile_mania",
@@ -87332,17 +74902,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "辣椒冲锋",
-        "types": [
-            "攻击3个目标",
-            "收割3个目标的增益",
-            "3个目标反击"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害",
-            "增益窃取者",
-            "反击"
-        ],
         "source": "挑战 - 英勇植物召唤",
         "Release date": "2025-09-02",
         "specialId": "capsicum_charge",
@@ -87415,16 +74974,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "非常慢",
         "skill": "诅咒之画",
-        "types": [
-            "全体驱散",
-            "攻击所有目标",
-            "全体诅咒画像减益"
-        ],
-        "skill_types": [
-            "驱散",
-            "全体攻击 (打5)",
-            "状态效果格挡"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2024-07-17",
         "specialId": "cursed_painting",
@@ -87489,20 +75038,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "战斗豪言",
-        "types": [
-            "攻击单个目标",
-            "全体治疗",
-            "全体法力提升",
-            "全体攻击叠加"
-        ],
-        "skill_types": [
-            "狙击手",
-            "治疗",
-            "法力提升",
-            "攻击增益",
-            "绕过",
-            "叠加"
-        ],
         "source": "挑战 - 贝奥武夫",
         "Release date": "2025-02-13",
         "specialId": "battle_boast",
@@ -87566,21 +75101,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "正义粉碎者",
-        "types": [
-            "攻击3个目标",
-            "攻击成长恩赐",
-            "3个目标最大生命值降低",
-            "3个目标致盲"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "最大生命削减",
-            "反制小兵",
-            "绕过",
-            "范围攻击 (打3)",
-            "攻击减益",
-            "属性修改"
-        ],
         "source": "神殿召唤",
         "Release date": "2025-06-16",
         "specialId": "righteous_pulverizer",
@@ -87650,12 +75170,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "尖刺棒击",
-        "types": [
-            "攻击单个目标",
-            "单体持续性伤害",
-            "自我攻击增益"
-        ],
-        "skill_types": [],
         "source": "挑战 - 英勇植物召唤",
         "Release date": "2026-04-25",
         "specialId": "spiked_bat_thrashing",
@@ -87710,16 +75224,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "海盗的复仇",
-        "types": [
-            "攻击所有目标",
-            "召唤所有恶魔",
-            "攻击降低恶魔"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "召唤恶魔"
-        ],
         "source": "挑战节 I",
         "Release date": "2023-12-28",
         "specialId": "pirates_vengeance",
@@ -87782,16 +75286,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "一点皮外伤",
-        "types": [
-            "自身伤害降至1增益",
-            "嘲讽",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "伤害减免",
-            "嘲讽"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "just_a_flesh_wound",
@@ -87841,16 +75335,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "轻轻一抓",
-        "types": [
-            "自身伤害降至1增益",
-            "嘲讽",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "伤害减免",
-            "嘲讽"
-        ],
         "source": "挑战节 I",
         "Release date": "2022-06-16",
         "specialId": "but_a_scratch",
@@ -87902,17 +75386,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "樱花树之歌",
-        "types": [
-            "全体治疗",
-            "全体驱散",
-            "每次驱散触发额外治疗"
-        ],
-        "skill_types": [
-            "驱散",
-            "特殊治疗",
-            "治疗",
-            "生命强化"
-        ],
         "source": "盟约召唤",
         "Release date": "2023-08-24",
         "specialId": "songs_of_the_cherry_tree",
@@ -87974,17 +75447,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "银背的怒火",
-        "types": [
-            "攻击单个目标",
-            "自身攻击增益叠加"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "狙击手",
-            "叠加",
-            "额外伤害",
-            "持续伤害"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2023-03-03",
         "specialId": "fury_of_the_silverback",
@@ -88043,19 +75505,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "炼狱烈火",
-        "types": [
-            "攻击所有目标",
-            "召唤所有恶魔",
-            "元素防御降低恶魔",
-            "全体元素防御增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御增益",
-            "防御减益",
-            "召唤恶魔",
-            "持续伤害"
-        ],
         "source": "盟约召唤",
         "Release date": "2023-07-27",
         "specialId": "infernal_flames",
@@ -88129,13 +75578,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "海盗枪法",
-        "types": [
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "pirate_shot",
@@ -88187,13 +75629,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "船长的弯刀",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "狙击手",
-            "额外伤害"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-08-12",
         "specialId": "captains_cutlass",
@@ -88249,14 +75684,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "机械师的弯刀",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "狙击手",
-            "额外伤害",
-            "攻击增益"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2023-12-07",
         "specialId": "machinists_cutlass",
@@ -88317,17 +75744,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "间谍密网",
-        "types": [
-            "攻击所有目标",
-            "召唤所有恶魔",
-            "偷取增益恶魔"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "增益窃取者",
-            "召唤恶魔",
-            "持续伤害"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2023-09-20",
         "specialId": "web_of_spies",
@@ -88386,16 +75802,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "病痛大师",
-        "types": [
-            "传播减益 (2个目标)",
-            "3个目标减益持续时间重置",
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "效果持续重置",
-            "净化"
-        ],
         "source": "挑战 - 众神狂欢节",
         "Release date": "2023-09-14",
         "specialId": "master_of_ailments",
@@ -88453,13 +75859,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "星体疯狂释放",
-        "types": [
-            "攻击单个目标",
-            "概率随机攻击 4 个目标",
-            "命中时触发共鸣伤害",
-            "命中时偷取法力"
-        ],
-        "skill_types": [],
         "source": "星体召唤",
         "Release date": "2026-04-05",
         "specialId": "astral_madness_unleashed",
@@ -88500,7 +75899,25 @@ window.allHeroes =
             "health": 2821,
             "power": 1579
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：单体",
+                    "攻击-额外攻击",
+                    "伤害：持续伤害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "法力-法力偷取"
+                ]
+            },
+            {
+                "负面效果": [
+                    "伤害-持续伤害：共振"
+                ]
+            }
+        ]
     },
     {
         "name": "卡塔丽娜 (Catalina)",
@@ -88510,17 +75927,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "王者之爪",
-        "types": [
-            "攻击单个目标",
-            "4个单位攻击增益",
-            "4个单位暴击几率增益",
-            "4个单位伤害治疗增益"
-        ],
-        "skill_types": [
-            "狙击手",
-            "攻击增益",
-            "特殊治疗"
-        ],
         "source": "荒野召唤",
         "Release date": "2025-12-30",
         "specialId": "regal_claws",
@@ -88589,20 +75995,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "法术锁定",
-        "types": [
-            "攻击单个目标",
-            "随机攻击",
-            "沉默被击中的敌人",
-            "全体衰退"
-        ],
-        "skill_types": [
-            "狙击手",
-            "连锁与随机攻击",
-            "沉默",
-            "属性修改",
-            "反制小兵",
-            "绕过"
-        ],
         "source": "星体召唤",
         "Release date": "2025-04-21",
         "specialId": "spell_lock",
@@ -88667,21 +76059,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "谴责歌谣",
-        "types": [
-            "攻击3个目标",
-            "谴责歌谣之舞 (3个目标)",
-            "舞蹈时法力生成减益",
-            "舞蹈时治疗减益",
-            "舞蹈时增益免疫"
-        ],
-        "skill_types": [
-            "舞者",
-            "范围攻击 (打3)",
-            "法力削减或格挡",
-            "治疗削减",
-            "提供免疫",
-            "增益格挡者"
-        ],
         "source": "挑战 - 歌剧之谜",
         "Release date": "2024-09-19",
         "specialId": "ballad_of_condemnation",
@@ -88750,18 +76127,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "芳香之云",
-        "types": [
-            "攻击3个目标",
-            "对3个目标施放吞噬粘物",
-            "3个目标麻痹"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "沉睡",
-            "驱散",
-            "属性修改"
-        ],
         "source": "超级元素人",
         "Release date": "2025-01-01",
         "specialId": "perfume_cloud",
@@ -88822,16 +76187,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "忍镖攻击",
-        "types": [
-            "攻击3个目标",
-            "3个目标致盲",
-            "全体粘性表面增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益",
-            "增益窃取者"
-        ],
         "source": "超级元素人",
         "Release date": "2026-01-31",
         "specialId": "slingja_attack_chingiriko",
@@ -88896,16 +76251,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "大卸八块",
-        "types": [
-            "攻击3个目标",
-            "全体治疗",
-            "3个目标持续伤害"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "特殊治疗"
-        ],
         "source": "挑战节 II",
         "Release date": "2022-11-03",
         "specialId": "slice_and_dice",
@@ -88966,20 +76311,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "繁荣领地",
-        "types": [
-            "全体治疗",
-            "盟友释放特殊技能时全体生命值加成",
-            "全体法力生成增益",
-            "全体净化"
-        ],
-        "skill_types": [
-            "治疗",
-            "生命强化",
-            "法力生成增益",
-            "净化",
-            "闪避",
-            "反制小兵"
-        ],
         "source": "联盟 - 飞蛾",
         "Release date": "2025-01-23",
         "specialId": "prosperity_for_domain",
@@ -89039,19 +76370,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "仙母赐福",
-        "types": [
-            "全体净化",
-            "友方伤害分担",
-            "敌方伤害分担",
-            "全体防御增益",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "防御增益",
-            "净化",
-            "伤害分摊",
-            "防御减益"
-        ],
         "source": "挑战节 I",
         "Release date": "2024-02-22",
         "specialId": "fairy_godmothers_blessing",
@@ -89112,17 +76430,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "祭骨仪式",
-        "types": [
-            "攻击所有目标",
-            "召唤所有恶魔",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "持续伤害",
-            "召唤恶魔"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2022-08-25",
         "specialId": "bone_ritual",
@@ -89187,16 +76494,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "神秘药水",
-        "types": [
-            "全体法力削减",
-            "召唤所有",
-            "全体炸弹减益"
-        ],
-        "skill_types": [
-            "法力削减或格挡",
-            "召唤小兵",
-            "范围攻击 (打3)"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2023-12-01",
         "specialId": "mystery_potions",
@@ -89251,15 +76548,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "爱的征服",
-        "types": [
-            "攻击3个目标",
-            "3个目标失心治疗"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "特殊治疗",
-            "失心攻击&治疗"
-        ],
         "source": "月活动 - 恋爱季节",
         "Release date": "2023-02-14",
         "specialId": "love_conquers_all",
@@ -89316,16 +76604,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "炽情征服",
-        "types": [
-            "攻击3个目标",
-            "3个目标元素防御降低",
-            "3个目标失心治疗"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "失心攻击&治疗"
-        ],
         "source": "月活动 - 恋爱季节",
         "Release date": "2026-01-19",
         "specialId": "passion_conquers_all",
@@ -89386,16 +76664,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "赤焰长剑",
-        "types": [
-            "攻击单个目标",
-            "单体扩散型持续伤害",
-            "自身持续治疗"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "狙击手",
-            "持续治疗"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2022-12-14",
         "specialId": "flaming_rapier",
@@ -89458,17 +76726,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "烟尘清扫",
-        "types": [
-            "攻击单个目标",
-            "单体扩散型持续伤害",
-            "自身生命值加成治疗"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "狙击手",
-            "持续治疗",
-            "生命强化"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2026-02-20",
         "specialId": "sweep_the_soot",
@@ -89535,18 +76792,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "飞速",
         "skill": "血色花瓣",
-        "types": [
-            "单体驱散",
-            "单体天赋沉默",
-            "攻击单个目标",
-            "阻挡状态效果施放 (单体)"
-        ],
-        "skill_types": [
-            "驱散",
-            "沉默",
-            "狙击手",
-            "状态效果格挡"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2024-01-10",
         "specialId": "blood_petals_of_the_withered",
@@ -89610,20 +76855,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "深渊诱引",
-        "types": [
-            "攻击3个目标",
-            "3个目标狂乱",
-            "3个目标持续伤害",
-            "处于持续伤害状态时全体治疗",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "反制小兵",
-            "失心攻击&治疗",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2025-09-23",
         "specialId": "drawn_to_the_depths",
@@ -89693,18 +76924,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "斑点麻烦",
-        "types": [
-            "攻击3个目标",
-            "3个目标防御降低",
-            "持剑守卫超级小兵",
-            "传播持续伤害的小怪"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "召唤巨型小兵",
-            "持续伤害"
-        ],
         "source": "哥布林召唤",
         "Release date": "2024-09-29",
         "specialId": "spotting_trouble",
@@ -89771,18 +76990,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "潮汐",
         "skill": "超新星",
-        "types": [
-            "攻击3个目标",
-            "3个目标腐蚀灼烧持续伤害",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "持续伤害",
-            "额外伤害",
-            "反制小兵"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2023-12-13",
         "specialId": "supernova",
@@ -89847,18 +77054,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "潮汐",
         "skill": "沉没深渊",
-        "types": [
-            "攻击3个目标",
-            "3个目标腐蚀灼烧持续伤害",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "防御减益",
-            "额外伤害",
-            "反制小兵"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2024-12-14",
         "specialId": "sunken_abyss",
@@ -89928,17 +77123,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "双刃激光剑",
-        "types": [
-            "攻击单个目标",
-            "攻击全体自然系目标",
-            "单体持续伤害",
-            "对全体自然系目标造成持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "狙击手",
-            "连锁与随机攻击"
-        ],
         "source": "超级元素人",
         "Release date": "2023-03-27",
         "specialId": "dual_laser_blades",
@@ -90000,19 +77184,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "数据双刃",
-        "types": [
-            "攻击单个目标",
-            "攻击全体自然系目标",
-            "单体持续伤害",
-            "对全体自然系目标造成持续伤害",
-            "火系盟友攻击增益"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "狙击手",
-            "连锁与随机攻击",
-            "攻击增益"
-        ],
         "source": "超级元素人",
         "Release date": "2025-09-04",
         "specialId": "dual_data_blades",
@@ -90085,14 +77256,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "炙烤雄鸡",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "处于持续伤害状态时全体治疗",
-            "3个目标治疗降低",
-            "自身元素防御减益"
-        ],
-        "skill_types": [],
         "source": "月活动 - 春谷",
         "Release date": "2026-03-30",
         "specialId": "roasting_rooster",
@@ -90129,7 +77292,22 @@ window.allHeroes =
             "health": 2837,
             "power": 1566
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：范围",
+                    "伤害：持续伤害",
+                    "治疗：伤害量"
+                ]
+            },
+            {
+                "负面效果": [
+                    "伤害-持续伤害：燃烧",
+                    "治疗-治疗量↓",
+                    "状态-自我减益"
+                ]
+            }
+        ]
     },
     {
         "name": "邓纳·哈特 (Dunnar Hart)",
@@ -90139,24 +77317,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "地狱鼓风暴",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害",
-            "全体防御降低",
-            "自我强化持续治疗",
-            "自我法力生成增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "持续治疗",
-            "法力生成增益",
-            "防御减益",
-            "生命强化",
-            "复活抑制",
-            "额外伤害",
-            "反制小兵"
-        ],
         "source": "挑战节 II",
         "Release date": "2025-06-15",
         "specialId": "infernal_drumstorm",
@@ -90226,19 +77386,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "连枷挥舞",
-        "types": [
-            "攻击单个目标",
-            "连锁攻击",
-            "命中时阻挡状态效果施放",
-            "命中时攻击降低"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "攻击减益",
-            "持续伤害",
-            "狙击手",
-            "状态效果格挡"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2022-10-15",
         "specialId": "flail_swing",
@@ -90300,16 +77447,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "飞速",
         "skill": "赎罪之拳",
-        "types": [
-            "攻击3个目标",
-            "3个目标防御降低叠加"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "叠加",
-            "防御减益",
-            "伤害减免"
-        ],
         "source": "挑战 - 石像鬼",
         "Release date": "2022-05-12",
         "specialId": "fists_of_atonement",
@@ -90365,16 +77502,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "激情先锋",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续治疗",
-            "3个目标反击"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "反击",
-            "治疗"
-        ],
         "source": "月活动 - 恋爱季节",
         "Release date": "2024-01-08",
         "specialId": "vanguard_of_passion",
@@ -90432,14 +77559,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "剑墙",
-        "types": [
-            "攻击所有目标",
-            "3个目标反击"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "反击"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "wall_of_swords",
@@ -90491,14 +77610,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "慢",
         "skill": "刀锋壁垒",
-        "types": [
-            "攻击所有目标",
-            "3个目标反击"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "反击"
-        ],
         "source": "服装间",
         "Release date": "2020-01-01",
         "specialId": "sword_barricade",
@@ -90552,14 +77663,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "煞影之剑",
-        "types": [
-            "攻击所有目标",
-            "3个目标反击"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "反击"
-        ],
         "source": "服装间",
         "Release date": "2023-08-07",
         "specialId": "dreaded_swords",
@@ -90613,15 +77716,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "卡通剑墙",
-        "types": [
-            "攻击所有目标",
-            "3个目标反击"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "反击",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-05-31",
         "specialId": "adorable_swords",
@@ -90685,16 +77779,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "玻璃幕墙",
-        "types": [
-            "攻击所有目标",
-            "无视防御",
-            "3个目标反击"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "绕过",
-            "反击"
-        ],
         "source": "服装间",
         "Release date": "2025-07-16",
         "specialId": "glass_swords",
@@ -90758,17 +77842,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "烈焰冲击",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "驱散",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2025-03-01",
         "specialId": "flame_surge",
@@ -90834,17 +77907,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "孀妇之吻",
-        "types": [
-            "攻击所有目标",
-            "召唤所有恶魔",
-            "法力生成降低恶魔"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "召唤恶魔",
-            "法力削减或格挡",
-            "持续伤害"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-03-25",
         "specialId": "widows_kiss",
@@ -90907,19 +77969,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "新娘之吻",
-        "types": [
-            "攻击所有目标",
-            "召唤所有恶魔",
-            "法力生成降低恶魔"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "召唤恶魔",
-            "持续伤害",
-            "法力削减或格挡",
-            "额外伤害",
-            "攻击增益"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2023-04-27",
         "specialId": "brides_kiss",
@@ -90987,16 +78036,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "珍稀宠伴",
-        "types": [
-            "攻击3个目标",
-            "全体免疫特殊技能使用封锁",
-            "召唤3个血色蝙蝠小兵"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "提供免疫",
-            "召唤小兵"
-        ],
         "source": "月活动 - 血色盛宴",
         "Release date": "2025-10-08",
         "specialId": "precious_pets",
@@ -91059,19 +78098,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "火墙",
-        "types": [
-            "攻击所有目标",
-            "召唤者"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "召唤小兵",
-            "防御减益",
-            "治疗削减",
-            "额外伤害",
-            "反制小兵"
-        ],
         "source": "盟约召唤",
         "Release date": "2025-05-08",
         "specialId": "firewall",
@@ -91135,17 +78161,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "炽焰火柴棍",
-        "types": [
-            "攻击3个目标",
-            "3个目标狂野持续伤害",
-            "3个目标法力生成增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "额外伤害",
-            "法力生成增益"
-        ],
         "source": "生日召唤",
         "Release date": "2026-03-18",
         "specialId": "blazing_matchstick",
@@ -91215,21 +78230,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "野蛮吞噬",
-        "types": [
-            "攻击单个目标",
-            "单体扩散型持续伤害",
-            "宝箱怪"
-        ],
-        "skill_types": [
-            "特殊治疗",
-            "反制小兵",
-            "狙击手",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形态与隐藏",
-            "绕过",
-            "持续伤害"
-        ],
         "source": "市集召唤",
         "Release date": "2025-09-18",
         "specialId": "savage_gobble_red",
@@ -91309,17 +78309,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "飞速",
         "skill": "烈焰与重生",
-        "types": [
-            "赌博",
-            "全体持续伤害",
-            "全体持续治疗",
-            "全体状态异常免疫"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "持续治疗",
-            "提供免疫"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-06-10",
         "specialId": "flames_and_rejuvenation",
@@ -91388,17 +78377,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "飞速",
         "skill": "青蛙与箍",
-        "types": [
-            "赌博",
-            "全体持续伤害",
-            "全体持续治疗",
-            "全体状态异常免疫"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "持续治疗",
-            "提供免疫"
-        ],
         "source": "挑战节 II",
         "Release date": "2025-04-09",
         "specialId": "frogs_and_hoop",
@@ -91473,17 +78451,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "冥河",
         "skill": "黑暗宝珠",
-        "types": [
-            "蓄力",
-            "摧毁单个目标的小兵",
-            "攻击单个目标",
-            "单体召唤封印",
-            "企图召唤时受到伤害"
-        ],
-        "skill_types": [
-            "反制小兵",
-            "狙击手"
-        ],
         "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
         "specialId": "dark_orb",
@@ -91556,16 +78523,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "欢鸮之歌",
-        "types": [
-            "攻击单个目标",
-            "莽夫乱拳",
-            "防御降低"
-        ],
-        "skill_types": [
-            "狙击手",
-            "失心攻击&治疗",
-            "防御减益"
-        ],
         "source": "高塔 - 猫头鹰",
         "Release date": "2024-05-08",
         "specialId": "song_of_hoot_and_holler",
@@ -91628,12 +78585,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "贪婪吞噬",
-        "types": [
-            "摧毁单个目标的小兵",
-            "攻击单个目标",
-            "宝箱怪"
-        ],
-        "skill_types": [],
         "source": "市集召唤",
         "Release date": "2025-04-22",
         "specialId": "mimic_training_hero_red_bite",
@@ -91709,21 +78660,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "自卫本能",
-        "types": [
-            "自身安全净化",
-            "霜降打击 (单体)",
-            "全体法力生成叠加",
-            "全体防御增益叠加"
-        ],
-        "skill_types": [
-            "净化",
-            "狙击手",
-            "持续伤害",
-            "攻击减益",
-            "叠加",
-            "法力生成增益",
-            "防御增益"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2025-07-11",
         "specialId": "self_preservation",
@@ -91797,16 +78733,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "飞速",
         "skill": "虚张声势",
-        "types": [
-            "攻击单个目标",
-            "持剑守卫超级小兵",
-            "传播持续伤害的小怪"
-        ],
-        "skill_types": [
-            "狙击手",
-            "召唤巨型小兵",
-            "持续伤害"
-        ],
         "source": "哥布林召唤",
         "Release date": "2025-04-11",
         "specialId": "calling_the_bluff",
@@ -91871,16 +78797,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "紧急救援！",
-        "types": [
-            "治疗者",
-            "全体绕过增益",
-            "全体暴击率增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "绕过",
-            "治疗"
-        ],
         "source": "月活动 - 海滩派对",
         "Release date": "2023-06-12",
         "specialId": "to_the_rescue",
@@ -91944,16 +78860,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "甜甜圈来救援啦！",
-        "types": [
-            "治疗者",
-            "全体无视防御",
-            "全体暴击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "绕过",
-            "治疗"
-        ],
         "source": "月活动 - 海滩派对",
         "Release date": "2025-06-03",
         "specialId": "donut_to_the_rescue",
@@ -92019,12 +78925,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "邪恶之舐",
-        "types": [
-            "攻击3个目标",
-            "造成伤害时治疗全体",
-            "宝箱怪"
-        ],
-        "skill_types": [],
         "source": "市集召唤",
         "Release date": "2026-05-10",
         "specialId": "wicked_lick_red",
@@ -92085,17 +78985,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "皇家突击",
-        "types": [
-            "攻击3个目标",
-            "每回合削减 3 个目标的法力",
-            "3个目标治疗降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害",
-            "治疗削减",
-            "法力削减或格挡"
-        ],
         "source": "高塔 - 猫头鹰",
         "Release date": "2023-12-20",
         "specialId": "royal_assault",
@@ -92158,19 +79047,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "三重刺击",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害",
-            "攻击2个目标",
-            "2个目标深度睡眠"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "沉睡",
-            "反制小兵",
-            "闪避"
-        ],
         "source": "联盟 - 飞蛾",
         "Release date": "2025-09-11",
         "specialId": "triple_stab",
@@ -92231,15 +79107,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "充能",
         "skill": "气之觉醒",
-        "types": [
-            "蓄力",
-            "全体生命值加成",
-            "全体异常状态免疫增益"
-        ],
-        "skill_types": [
-            "生命强化",
-            "提供免疫"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "specialId": "awaken_ki",
@@ -92298,14 +79165,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "室女之令",
-        "types": [
-            "偷取1个小兵",
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "反制小兵",
-            "狙击手"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2020-10-22",
         "specialId": "maidens_command",
@@ -92357,14 +79216,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "室女号令",
-        "types": [
-            "单体摧毁超级小怪/小怪",
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "反制小兵"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2022-09-26",
         "specialId": "maidens_orders",
@@ -92418,16 +79269,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "潮汐",
         "skill": "深海熔岩魔方",
-        "types": [
-            "随机攻击 3/5 次",
-            "命中时触发爆炸岩浆方块",
-            "命中时防御减益"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "防御减益",
-            "法力削减或格挡"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2023-09-27",
         "specialId": "underwater_magma_cube",
@@ -92502,16 +79343,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "潮汐",
         "skill": "沉没熔岩魔方",
-        "types": [
-            "随机攻击 3/5 次",
-            "命中时触发岩浆方块",
-            "命中时防御减益"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "防御减益",
-            "法力削减或格挡"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2024-06-20",
         "specialId": "sunken_magma_cube",
@@ -92591,17 +79422,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "炼金实验",
-        "types": [
-            "攻击所有目标",
-            "挑衅所有敌人",
-            "全体粘性表面增益",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "增益窃取者",
-            "防御增益",
-            "状态效果格挡"
-        ],
         "source": "超级元素人",
         "Release date": "2025-05-04",
         "specialId": "alchemy_experiment",
@@ -92664,17 +79484,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "飞速",
         "skill": "灰飞烟灭",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "额外伤害",
-            "攻击增益",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2018-06-01",
         "specialId": "ashes_to_ashes",
@@ -92734,17 +79543,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "飞速",
         "skill": "尘归尘",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "驱散",
-            "攻击增益",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2021-10-20",
         "specialId": "dust_to_dust",
@@ -92809,15 +79607,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "飞速",
         "skill": "修复术咒语",
-        "types": [
-            "全体治疗",
-            "全体状态异常免疫"
-        ],
-        "skill_types": [
-            "治疗",
-            "提供免疫",
-            "法力生成增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2019-09-01",
         "specialId": "mending_mantra",
@@ -92874,16 +79663,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "丛林领主",
-        "types": [
-            "攻击所有目标",
-            "全体元素防御增益",
-            "全体净化"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御增益",
-            "净化"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "lord_of_the_jungle",
@@ -92941,17 +79720,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "金刚粉碎",
-        "types": [
-            "攻击所有目标",
-            "全体元素反射",
-            "全体元素反击",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "驱散",
-            "反射"
-        ],
         "source": "挑战节 I",
         "Release date": "2022-04-14",
         "specialId": "kong_smash",
@@ -93007,19 +79775,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "反弹姿态",
-        "types": [
-            "嘲讽",
-            "自我法力生成增益",
-            "4个目标软肤",
-            "全体延迟治疗"
-        ],
-        "skill_types": [
-            "嘲讽",
-            "法力生成增益",
-            "伤害减免",
-            "提供免疫",
-            "治疗"
-        ],
         "source": "挑战 - 石像鬼",
         "Release date": "2024-07-25",
         "specialId": "reflecting_stance",
@@ -93078,18 +79833,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "天之铁砧",
-        "types": [
-            "攻击所有目标",
-            "全体伤害增加减益",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害",
-            "攻击减益",
-            "绕过",
-            "伤害分摊"
-        ],
         "source": "星体召唤",
         "Release date": "2024-03-28",
         "specialId": "celestial_anvil",
@@ -93155,14 +79898,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "慈母之护",
-        "types": [
-            "全体生命值加成",
-            "全体状态异常免疫"
-        ],
-        "skill_types": [
-            "生命强化",
-            "提供免疫"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-12-22",
         "specialId": "motherly_care",
@@ -93220,16 +79955,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "慈母之爱",
-        "types": [
-            "全体强化持续治疗",
-            "全体状态异常免疫"
-        ],
-        "skill_types": [
-            "生命强化",
-            "提供免疫",
-            "持续治疗",
-            "法力提升"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-02-05",
         "specialId": "motherly_love",
@@ -93295,17 +80020,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "忏悔之人",
-        "types": [
-            "攻击单个目标",
-            "召唤1个恶魔",
-            "爆炸型失心攻击恶魔"
-        ],
-        "skill_types": [
-            "召唤恶魔",
-            "失心攻击&治疗",
-            "狙击手",
-            "伤害减免"
-        ],
         "source": "挑战 - 石像鬼",
         "Release date": "2022-09-08",
         "specialId": "possessor_of_penance",
@@ -93369,17 +80083,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "热忱灵丹",
-        "types": [
-            "全体强化持续治疗",
-            "全体持续获得法力",
-            "全体净化"
-        ],
-        "skill_types": [
-            "持续治疗",
-            "生命强化",
-            "法力提升",
-            "净化"
-        ],
         "source": "月活动 - 农历生肖",
         "Release date": "2026-02-17",
         "specialId": "ardent_panacea",
@@ -93442,15 +80145,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "坚壁冲锋",
-        "types": [
-            "攻击3个目标",
-            "3个目标击倒",
-            "3个目标攻击增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击增益"
-        ],
         "source": "盟约召唤",
         "Release date": "2024-01-16",
         "specialId": "bulwark_charge",
@@ -93516,17 +80210,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "冥河",
         "skill": "甜美梦乡",
-        "types": [
-            "蓄力",
-            "攻击所有目标",
-            "全体增益免疫",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "增益格挡者",
-            "驱散"
-        ],
         "source": "高塔 - 冥河",
         "Release date": "2022-06-01",
         "specialId": "sweet_dreams",
@@ -93599,17 +80282,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "繁花剑舞",
-        "types": [
-            "攻击单个目标",
-            "伤害链接 (单体)",
-            "全体伤害增加叠加"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "狙击手",
-            "叠加",
-            "伤害分摊"
-        ],
         "source": "哥布林召唤",
         "Release date": "2025-04-29",
         "specialId": "ring_around_the_rosie",
@@ -93673,17 +80345,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "净化火焰",
-        "types": [
-            "全体治疗",
-            "全体攻击增益",
-            "全体净化"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "净化",
-            "治疗",
-            "特殊治疗"
-        ],
         "source": "超级元素人",
         "Release date": "2023-03-27",
         "specialId": "purifying_flame",
@@ -93751,18 +80412,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "灼烧烈焰",
-        "types": [
-            "全体治疗",
-            "火元素治疗",
-            "全体攻击增益",
-            "全体净化"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "净化",
-            "治疗",
-            "特殊治疗"
-        ],
         "source": "超级元素人",
         "Release date": "2025-05-24",
         "specialId": "cauterizing_flame",
@@ -93835,16 +80484,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "赤火冶炼",
-        "types": [
-            "全体法力削减",
-            "敌方伤害分担",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "伤害分摊",
-            "法力削减或格挡",
-            "防御减益"
-        ],
         "source": "月活动 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "specialId": "forged_in_fire",
@@ -93906,16 +80545,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "黄金锻造",
-        "types": [
-            "全体法力削减",
-            "敌方伤害分担",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "治疗削减",
-            "伤害分摊",
-            "防御减益"
-        ],
         "source": "月活动 - 卡勒瓦拉",
         "Release date": "2025-07-28",
         "specialId": "forged_from_gold",
@@ -93979,17 +80608,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "飞速",
         "skill": "至高至强",
-        "types": [
-            "无视防御",
-            "攻击单个目标",
-            "随机攻击2次",
-            "命中时缩短增益持续时间"
-        ],
-        "skill_types": [
-            "绕过",
-            "连锁与随机攻击",
-            "效果持续重置"
-        ],
         "source": "哥布林召唤",
         "Release date": "2024-07-07",
         "specialId": "aces_high",
@@ -94049,18 +80667,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "连环打击",
-        "types": [
-            "全体强化防御异常",
-            "单体延迟治疗降低",
-            "攻击单个目标",
-            "随机攻击9次"
-        ],
-        "skill_types": [
-            "防御减益",
-            "沉默",
-            "连锁与随机攻击",
-            "反制小兵"
-        ],
         "source": "荒野召唤",
         "Release date": "2024-12-31",
         "specialId": "flurry_of_blows",
@@ -94122,16 +80728,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "复仇镰刀",
-        "types": [
-            "攻击3个目标",
-            "3个目标反击",
-            "反击时获得法力"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "反击",
-            "法力提升"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-02-11",
         "specialId": "vengeful_scythe",
@@ -94185,17 +80781,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "火焰缄印",
-        "types": [
-            "全体持续伤害",
-            "全体属性特技防御",
-            "全体防御类异常状态保护增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "防御增益",
-            "持续伤害",
-            "提供免疫"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2020-02-01",
         "specialId": "seal_of_fire",
@@ -94260,20 +80845,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "熔岩灼烧",
-        "types": [
-            "攻击所有目标",
-            "全体减益持续时间重置",
-            "全体持续伤害",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "效果持续重置",
-            "持续伤害",
-            "防御减益",
-            "反制小兵",
-            "状态效果转换"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-12-27",
         "specialId": "magmatic_burns",
@@ -94349,21 +80920,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "炽烈演出",
-        "types": [
-            "全体治疗",
-            "治疗成长恩赐",
-            "全体状态异常免疫增益",
-            "企图施加异常状态时获得治疗",
-            "改变棋盘"
-        ],
-        "skill_types": [
-            "治疗",
-            "特殊治疗",
-            "提供免疫",
-            "改变面板",
-            "反制小兵",
-            "叠加"
-        ],
         "source": "神殿召唤",
         "Release date": "2026-01-01",
         "specialId": "fiery_performance",
@@ -94431,16 +80987,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "慢",
         "skill": "可汗之命",
-        "types": [
-            "攻击3个目标",
-            "3个目标法力生成增益",
-            "3个目标防御增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御增益",
-            "法力生成增益"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "khans_order",
@@ -94494,16 +81040,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "征服者之令",
-        "types": [
-            "攻击单个目标",
-            "全体法力生成增益",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "法力生成增益",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "conquerors_command",
@@ -94559,16 +81095,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "酋长之复仇",
-        "types": [
-            "攻击所有目标",
-            "全体法力持续恢复增益",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力提升",
-            "防御增益"
-        ],
         "source": "服装间",
         "Release date": "2022-09-05",
         "specialId": "chieftains_vengeance",
@@ -94624,17 +81150,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "慢",
         "skill": "卡通号令",
-        "types": [
-            "攻击3个目标",
-            "3个目标法力生成增益",
-            "3个目标防御增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "法力生成增益",
-            "防御增益",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-04-08",
         "specialId": "toons_order",
@@ -94700,18 +81215,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "慢",
         "skill": "彩绘秩序",
-        "types": [
-            "攻击所有目标",
-            "无视防御",
-            "3个目标法力生成增益",
-            "3个目标防御增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御增益",
-            "绕过",
-            "法力生成增益"
-        ],
         "source": "服装间",
         "Release date": "2025-06-18",
         "specialId": "glass_order",
@@ -94777,16 +81280,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "费解之谜",
-        "types": [
-            "攻击单个目标",
-            "连锁攻击",
-            "单体属性防御减益"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "防御减益",
-            "狙击手"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "perplexing_riddle",
@@ -94846,15 +81339,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "慢",
         "skill": "水下谜语",
-        "types": [
-            "攻击单个目标",
-            "连锁攻击",
-            "单体属性防御减益"
-        ],
-        "skill_types": [
-            "狙击手",
-            "连锁与随机攻击"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-11-01",
         "specialId": "underwater_riddle",
@@ -94921,15 +81405,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "必死之局",
-        "types": [
-            "全体阻止复活",
-            "全体复活免疫",
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "复活抑制"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2022-02-24",
         "specialId": "inevitable_demise",
@@ -94986,15 +81461,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "美味消亡",
-        "types": [
-            "全体阻止复活",
-            "全体复活免疫",
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "复活抑制",
-            "范围攻击 (打3)"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2024-09-26",
         "specialId": "delicious_demise",
@@ -95056,15 +81522,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "戏法师的怨怒",
-        "types": [
-            "全体移除状态异常",
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "净化",
-            "额外伤害"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2020-07-23",
         "specialId": "tricksters_malice",
@@ -95118,15 +81575,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "戏法师的催眠曲",
-        "types": [
-            "全体移除状态异常",
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "净化",
-            "额外伤害"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2023-10-23",
         "specialId": "tricksters_lullaby",
@@ -95182,15 +81630,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "潮汐",
         "skill": "侧翼包抄",
-        "types": [
-            "攻击单个目标",
-            "召唤1个复制恶魔"
-        ],
-        "skill_types": [
-            "召唤恶魔",
-            "狙击手",
-            "持续伤害"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2023-06-07",
         "specialId": "flanking_maneuver",
@@ -95257,15 +81696,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "潮汐",
         "skill": "勇士花招",
-        "types": [
-            "攻击单个目标",
-            "召唤1个复制恶魔"
-        ],
-        "skill_types": [
-            "狙击手",
-            "召唤恶魔",
-            "持续伤害"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2024-09-21",
         "specialId": "champion_maneuver",
@@ -95337,15 +81767,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "阻碍之箭",
-        "types": [
-            "全体天赋触发封印",
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "沉默",
-            "状态效果格挡"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2022-01-05",
         "specialId": "impeding_bolts",
@@ -95397,19 +81818,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "旋风吹拂",
-        "types": [
-            "暴击几率",
-            "攻击单个目标",
-            "随机攻击4次",
-            "嘲讽",
-            "自我伤害减免"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "伤害减免",
-            "嘲讽",
-            "额外伤害"
-        ],
         "source": "三国召唤",
         "Release date": "2025-05-22",
         "specialId": "whirlwind_blows",
@@ -95476,17 +81884,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "飞速",
         "skill": "战斗爪击",
-        "types": [
-            "攻击单个目标",
-            "击杀时冻结附近目标法力获取",
-            "全体反击"
-        ],
-        "skill_types": [
-            "反击",
-            "额外伤害",
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "高塔 - 猫头鹰",
         "Release date": "2024-02-14",
         "specialId": "battleclaw_strike",
@@ -95555,17 +81952,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "修行约束",
-        "types": [
-            "暴击几率",
-            "攻击所有目标",
-            "自我力量提升",
-            "全体暴击几率增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害",
-            "攻击增益"
-        ],
         "source": "三国召唤",
         "Release date": "2025-08-30",
         "specialId": "monastic_restraint",
@@ -95635,17 +82021,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "乱锤偷袭",
-        "types": [
-            "攻击单个目标",
-            "额外攻击 1 次的机会",
-            "自身黑猪超级小怪"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "净化格挡者",
-            "召唤巨型小兵",
-            "狙击手"
-        ],
         "source": "哥布林召唤",
         "Release date": "2023-10-16",
         "specialId": "heedless_hammer_flurry",
@@ -95712,22 +82087,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "充能",
         "skill": "飞裂斩",
-        "types": [
-            "蓄力",
-            "3个目标最大生命值降低",
-            "攻击3个目标",
-            "无视防御",
-            "3个目标抵抗治疗减益",
-            "3个目标每次抵抗治疗时受到伤害"
-        ],
-        "skill_types": [
-            "最大生命削减",
-            "范围攻击 (打3)",
-            "绕过",
-            "狙击手",
-            "治疗削减",
-            "反制小兵"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2024-09-24",
         "specialId": "lacerating_leap",
@@ -95801,14 +82160,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "秋风",
-        "types": [
-            "随机攻击3个目标",
-            "全体闪避增益"
-        ],
-        "skill_types": [
-            "闪避",
-            "连锁与随机攻击"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2025-08-01",
         "specialId": "autumnal_wind",
@@ -95868,14 +82219,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "岩浆粉碎",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "magma_smash",
@@ -95928,16 +82271,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "熔岩爆发",
-        "types": [
-            "攻击3个目标",
-            "3个目标元素防御降低",
-            "全体冰属性攻击减益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "攻击减益"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "lava_blast",
@@ -95993,16 +82326,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "火山爆发",
-        "types": [
-            "攻击3个目标",
-            "3个目标防御降低",
-            "3个目标持续伤害"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "持续伤害"
-        ],
         "source": "服装间",
         "Release date": "2023-06-12",
         "specialId": "volcanic_blast",
@@ -96059,15 +82382,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "卡通梦幻冲撞",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "额外伤害",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2023-12-25",
         "specialId": "toontastic_smash",
@@ -96132,16 +82446,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "玻璃火击",
-        "types": [
-            "攻击单个目标",
-            "无视防御",
-            "单体持续伤害"
-        ],
-        "skill_types": [
-            "绕过",
-            "持续伤害",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2025-02-11",
         "specialId": "glass_flame_smash",
@@ -96206,15 +82510,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "英姿粉碎",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害"
-        ],
-        "skill_types": [
-            "狙击手",
-            "额外伤害",
-            "持续伤害"
-        ],
         "source": "服装间",
         "Release date": "2026-02-14",
         "specialId": "stylish_smash",
@@ -96279,17 +82574,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "火焰之镜",
-        "types": [
-            "攻击3个目标",
-            "3个目标法力削减",
-            "全体元素反射",
-            "全体元素反击"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "法力削减或格挡",
-            "反射"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "dark_mirror",
@@ -96347,17 +82631,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "火焰刀",
-        "types": [
-            "攻击所有目标",
-            "3个目标法力生成降低",
-            "全体元素反射",
-            "全体元素反击"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "反射",
-            "法力削减或格挡"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2023-03-06",
         "specialId": "glaive_of_flames",
@@ -96417,13 +82690,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "卡通镜像",
-        "types": [
-            "攻击3个目标",
-            "3个目标法力削减",
-            "全体元素反射",
-            "全体元素反击"
-        ],
-        "skill_types": [],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toon_mirror",
@@ -96472,21 +82738,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "魔法",
         "skill": "巨龙密友之焰",
-        "types": [
-            "蓄力",
-            "3个目标持续伤害",
-            "自我复活",
-            "复活者",
-            "全体持续治疗",
-            "全体伤害减免"
-        ],
-        "skill_types": [
-            "伤害减免",
-            "持续伤害",
-            "持续治疗",
-            "复活",
-            "治疗"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "specialId": "flame_of_the_dragon_familiar",
@@ -96557,23 +82808,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "魔法",
         "skill": "巨龙密友包裹",
-        "types": [
-            "蓄力",
-            "3个目标持续伤害",
-            "自我复活",
-            "复活者",
-            "全体强化持续治疗",
-            "全体伤害减免"
-        ],
-        "skill_types": [
-            "伤害减免",
-            "持续伤害",
-            "特殊治疗",
-            "持续治疗",
-            "反制小兵",
-            "复活",
-            "治疗"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-07-05",
         "specialId": "parcel_of_the_dragon_familiar",
@@ -96653,17 +82887,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "反击吊床",
-        "types": [
-            "攻击3个目标",
-            "3个目标反击",
-            "3个单位反击时对目标施加飞沙之触持续伤害"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "反击",
-            "持续伤害",
-            "状态效果转换"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-04-17",
         "specialId": "countering_hammock",
@@ -96741,16 +82964,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "炙热锁链",
-        "types": [
-            "单体持续伤害",
-            "单体法力生成降低"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "额外伤害",
-            "法力生成增益",
-            "法力削减或格挡"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2018-01-01",
         "specialId": "burning_chains",
@@ -96810,17 +83023,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "炙热纱线",
-        "types": [
-            "单体持续伤害",
-            "单体法力生成降低"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "额外伤害",
-            "法力生成增益",
-            "法力削减或格挡",
-            "驱散"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2023-05-15",
         "specialId": "burning_thread",
@@ -96886,18 +83088,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "火虎",
-        "types": [
-            "攻击所有目标",
-            "召唤所有恶魔",
-            "嘲讽格挡恶魔"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "召唤恶魔",
-            "嘲讽",
-            "持续伤害",
-            "攻击增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2023-11-01",
         "specialId": "fire_tiger",
@@ -96963,17 +83153,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "飞速",
         "skill": "处处留爪",
-        "types": [
-            "全体治疗",
-            "偷取全体1个增益",
-            "全体持续治疗"
-        ],
-        "skill_types": [
-            "增益窃取者",
-            "持续治疗",
-            "治疗",
-            "治疗削减"
-        ],
         "source": "盟约召唤",
         "Release date": "2025-06-03",
         "specialId": "paw_in_every_pie",
@@ -97031,15 +83210,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "痛苦收割",
-        "types": [
-            "攻击所有目标",
-            "全体治疗"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "绕过",
-            "治疗"
-        ],
         "source": "超级元素人",
         "Release date": "2024-02-26",
         "specialId": "pain_harvest",
@@ -97101,18 +83271,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "充能",
         "skill": "无声击倒",
-        "types": [
-            "蓄力攻击",
-            "攻击 (1/3/所有) 目标"
-        ],
-        "skill_types": [
-            "狙击手",
-            "范围攻击 (打3)",
-            "全体攻击 (打5)",
-            "额外伤害",
-            "法力生成增益",
-            "反制小兵"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2024-08-27",
         "specialId": "silent_takedown",
@@ -97184,17 +83342,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "麻雀之怒",
-        "types": [
-            "全体治疗",
-            "全体小怪摧毁召唤师",
-            ""
-        ],
-        "skill_types": [
-            "治疗",
-            "反制小兵",
-            "召唤小兵",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2020-07-01",
         "specialId": "sparrow_fury",
@@ -97253,15 +83400,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "无敌冲锋",
-        "types": [
-            "无视闪避",
-            "无视防御",
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "绕过"
-        ],
         "source": "神话召唤",
         "Release date": "2024-01-11",
         "specialId": "unstoppable_charge",
@@ -97323,16 +83461,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "巨神之力",
-        "types": [
-            "攻击所有目标",
-            "全体对泰坦攻击增益",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击增益",
-            "防御增益"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2022-06-27",
         "specialId": "strength_of_the_benemoth",
@@ -97386,16 +83514,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "火山之力",
-        "types": [
-            "攻击所有目标",
-            "全体对泰坦攻击增益",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击增益",
-            "防御增益"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2025-10-25",
         "specialId": "strength_of_the_volcano",
@@ -97451,15 +83569,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "神佑之剑",
-        "types": [
-            "攻击所有目标",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "额外伤害"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-10-07",
         "specialId": "hallowed_blade",
@@ -97521,16 +83630,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "海之花束",
-        "types": [
-            "攻击所有目标",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "额外伤害",
-            "攻击增益"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2023-08-17",
         "specialId": "bouquet_of_the_seas",
@@ -97597,18 +83696,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "深海祭典",
-        "types": [
-            "攻击单个目标",
-            "召唤1个复制恶魔",
-            "施加狂乱的恶魔",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "狙击手",
-            "召唤恶魔",
-            "持续伤害",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2024-04-21",
         "specialId": "ritual_of_the_deep",
@@ -97674,17 +83761,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "无畏剑刃风暴",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害",
-            "全体治疗降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "治疗削减",
-            "净化"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2022-12-24",
         "specialId": "dauntless_bladestorm",
@@ -97745,18 +83821,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "飞速",
         "skill": "槲寄生集成曲",
-        "types": [
-            "攻击单个目标",
-            "复制增益",
-            "复制增益时自我治疗",
-            "召唤者 (单体)"
-        ],
-        "skill_types": [
-            "狙击手",
-            "增益窃取者",
-            "特殊治疗",
-            "召唤小兵"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2024-12-01",
         "specialId": "mistletoe_medley",
@@ -97812,18 +83876,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "限时必达",
-        "types": [
-            "谦逊",
-            "攻击单个目标",
-            "敌人释放特技后随机追加 1 次攻击",
-            "自身延迟治疗"
-        ],
-        "skill_types": [
-            "狙击手",
-            "法力提升",
-            "特殊治疗",
-            "连锁与随机攻击"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2026-03-15",
         "specialId": "always_on_time",
@@ -97892,16 +83944,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "毁灭和弦",
-        "types": [
-            "攻击3个目标",
-            "3个目标攻击力成长",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "属性修改",
-            "范围攻击 (打3)",
-            "防御减益"
-        ],
         "source": "哥布林召唤",
         "Release date": "2024-01-08",
         "specialId": "chords_of_havoc",
@@ -97970,18 +84012,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "恢复歌谣",
-        "types": [
-            "全体治疗",
-            "全体增益持续时间重置",
-            "全体暴击几率增益",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "效果持续重置",
-            "治疗",
-            "复活抑制"
-        ],
         "source": "挑战节 II",
         "Release date": "2022-08-11",
         "specialId": "ballad_of_restoration",
@@ -98045,19 +84075,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "飞速",
         "skill": "二维时间装置",
-        "types": [
-            "重新部署",
-            "攻击所有目标",
-            "全体负面效果持续时间增加",
-            "全体法力生成降低"
-        ],
-        "skill_types": [
-            "重排队伍",
-            "全体攻击 (打5)",
-            "效果持续重置",
-            "反制小兵",
-            "绕过"
-        ],
         "source": "星体召唤",
         "Release date": "2025-02-28",
         "specialId": "planar_time_widget",
@@ -98124,17 +84141,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "三只瞎眼老鼠",
-        "types": [
-            "自身召唤师",
-            "全体持续治疗",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "持续治疗",
-            "召唤小兵",
-            "对自身或友军负面效果"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "three_blind_mice",
@@ -98193,17 +84199,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "三只鼠匪",
-        "types": [
-            "召唤者",
-            "全体持续治疗",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "持续治疗",
-            "召唤小兵",
-            "对自身或友军负面效果"
-        ],
         "source": "挑战节 I",
         "Release date": "2023-08-10",
         "specialId": "three_bandit_mice",
@@ -98264,18 +84259,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "卡牌女王",
-        "types": [
-            "攻击3个目标",
-            "自身召唤师",
-            "嘲讽小兵",
-            "自身特技防御增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御增益",
-            "召唤小兵",
-            "嘲讽"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "queen_of_cards",
@@ -98335,18 +84318,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "甜心女王",
-        "types": [
-            "攻击3个目标",
-            "自身召唤师",
-            "嘲讽小兵",
-            "自身特技防御增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御增益",
-            "召唤小兵",
-            "嘲讽"
-        ],
         "source": "挑战节 I",
         "Release date": "2023-10-05",
         "specialId": "loving_queen",
@@ -98412,21 +84383,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "皇家肉丸盛宴",
-        "types": [
-            "净化者",
-            "全体无视防御",
-            "全体减益抵抗",
-            "全体攻击叠加"
-        ],
-        "skill_types": [
-            "净化",
-            "法力提升",
-            "绕过",
-            "提供免疫",
-            "攻击增益",
-            "叠加",
-            "复活"
-        ],
         "source": "荒野召唤",
         "Release date": "2025-03-17",
         "specialId": "royal_meatball_buffet",
@@ -98500,17 +84456,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "飞速",
         "skill": "葫芦切片",
-        "types": [
-            "攻击2个目标",
-            "2个目标治疗抵抗减益",
-            "企图治疗时受到伤害",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "治疗削减",
-            "狙击手",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2024-07-18",
         "specialId": "cuts_of_hulu",
@@ -98569,27 +84514,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "魔法",
         "skill": "炽焰灌篮",
-        "types": [
-            "蓄力",
-            "全体持续伤害",
-            "全体元素防御降低",
-            "全体驱散",
-            "全体持续治疗",
-            "全体元素攻击提升",
-            "全体净化"
-        ],
-        "skill_types": [
-            "净化",
-            "防御减益",
-            "驱散",
-            "持续伤害",
-            "额外伤害",
-            "持续治疗",
-            "攻击增益",
-            "叠加",
-            "法力削减或格挡",
-            "法力提升"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2023-05-03",
         "specialId": "blazing_slam_dunk",
@@ -98662,28 +84586,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "魔法",
         "skill": "荆棘暴扣",
-        "types": [
-            "蓄力",
-            "全体持续伤害",
-            "全体元素防御降低",
-            "驱散者",
-            "全体强化持续治疗",
-            "全体元素攻击提升",
-            "净化者"
-        ],
-        "skill_types": [
-            "反制小兵",
-            "持续伤害",
-            "特殊治疗",
-            "驱散",
-            "防御减益",
-            "持续治疗",
-            "生命强化",
-            "攻击增益",
-            "净化",
-            "法力削减或格挡",
-            "法力提升"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-07-23",
         "specialId": "thorned_slam_dunk",
@@ -98768,17 +84670,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "森林伙伴",
-        "types": [
-            "攻击所有目标",
-            "召唤所有",
-            "治疗小兵",
-            "小怪法力削减免疫"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续治疗",
-            "召唤小兵"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "forest_friends",
@@ -98836,21 +84727,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "大师计划",
-        "types": [
-            "驱散3个目标",
-            "攻击3个目标",
-            "3个目标增益免疫"
-        ],
-        "skill_types": [
-            "增益格挡者",
-            "额外伤害",
-            "反制小兵",
-            "范围攻击 (打3)",
-            "驱散",
-            "持续伤害",
-            "防御减益",
-            "绕过"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2024-12-03",
         "specialId": "master_plan",
@@ -98922,21 +84798,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "被诅咒的计划",
-        "types": [
-            "驱散3个目标",
-            "攻击3个目标",
-            "3个目标增益免疫"
-        ],
-        "skill_types": [
-            "增益格挡者",
-            "额外伤害",
-            "反制小兵",
-            "范围攻击 (打3)",
-            "驱散",
-            "持续伤害",
-            "防御减益",
-            "绕过"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2025-10-15",
         "specialId": "cursed_plan",
@@ -99010,15 +84871,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "奥术救赎",
-        "types": [
-            "攻击3个目标",
-            "全体伤害减免增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "伤害减免",
-            "召唤小兵"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2020-12-01",
         "specialId": "occult_redemption",
@@ -99075,18 +84927,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "羽毛披风",
-        "types": [
-            "安全净化最新的异常状态",
-            "全体治疗",
-            "全体反射状态异常",
-            "全体反射负面叠加效果",
-            "全体反射衰退效果"
-        ],
-        "skill_types": [
-            "净化",
-            "治疗",
-            "反射"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2024-10-18",
         "specialId": "cloak_of_feathers",
@@ -99150,15 +84990,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "哥布林炸药",
-        "types": [
-            "衰退",
-            "召唤3个爆炸恶魔"
-        ],
-        "skill_types": [
-            "属性修改",
-            "召唤恶魔",
-            "持续伤害"
-        ],
         "source": "哥布林召唤",
         "Release date": "2024-03-18",
         "specialId": "goblin_explosives",
@@ -99225,17 +85056,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "临终遗言",
-        "types": [
-            "攻击单个目标",
-            "可能的额外攻击",
-            "命中时疯狂",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "狙击手",
-            "连锁与随机攻击",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2025-04-03",
         "specialId": "last_words",
@@ -99291,21 +85111,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "飞速",
         "skill": "美丽花瓣",
-        "types": [
-            "谦逊",
-            "全体治疗",
-            "全体净化",
-            "全体攻击力成长",
-            "全体持续治疗",
-            "自身特殊技能防御增益"
-        ],
-        "skill_types": [
-            "治疗",
-            "净化",
-            "属性修改",
-            "持续治疗",
-            "防御增益"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2025-11-12",
         "specialId": "beautiful_petals",
@@ -99380,18 +85185,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "法力拾荒",
-        "types": [
-            "偷取单个目标法力",
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "法力提升",
-            "法力削减或格挡",
-            "反制小兵",
-            "狙击手",
-            "额外伤害",
-            "闪避"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2023-01-01",
         "specialId": "mana_scavange",
@@ -99456,21 +85249,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "强者之祸",
-        "types": [
-            "全体驱散",
-            "攻击所有目标",
-            "全体攻击增益",
-            "全体防御增益",
-            "自我强化持续治疗"
-        ],
-        "skill_types": [
-            "驱散",
-            "全体攻击 (打5)",
-            "额外伤害",
-            "攻击增益",
-            "防御增益",
-            "生命强化"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2024-06-26",
         "specialId": "scourge_of_the_strong",
@@ -99541,18 +85319,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "充能",
         "skill": "猩红灾祸",
-        "types": [
-            "蓄力",
-            "攻击 (1/3/所有) 目标",
-            "法力削减 (1/3/所有目标)",
-            "法力生成降低 (1/3/所有目标)"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "全体攻击 (打5)",
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2021-11-10",
         "specialId": "crimson_calamity",
@@ -99620,16 +85386,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "势如烈火",
-        "types": [
-            "攻击单个目标",
-            "3个目标持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "狙击手",
-            "绕过",
-            "特殊治疗"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2021-10-01",
         "specialId": "sure_fire_combustion",
@@ -99695,18 +85451,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "掩护抨击",
-        "types": [
-            "攻击3个目标",
-            "单体持续性伤害",
-            "掩护1个目标",
-            "自我持续治疗"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "伤害分摊",
-            "持续治疗"
-        ],
         "source": "盟约召唤",
         "Release date": "2024-08-20",
         "specialId": "cover_slam",
@@ -99775,18 +85519,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "神奇巴兰",
-        "types": [
-            "驱散3个目标",
-            "攻击3个目标",
-            "3个目标小兵创伤",
-            "3个目标治疗降低"
-        ],
-        "skill_types": [
-            "驱散",
-            "范围攻击 (打3)",
-            "最大生命削减",
-            "治疗削减"
-        ],
         "source": "挑战节 II",
         "Release date": "2024-12-12",
         "specialId": "magical_balan",
@@ -99853,17 +85585,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "星体援助",
-        "types": [
-            "恶魔摧毁者",
-            "全体治疗",
-            "全体星光射线增益"
-        ],
-        "skill_types": [
-            "反制恶魔",
-            "生命强化",
-            "连锁与随机攻击",
-            "最大生命削减"
-        ],
         "source": "星体召唤",
         "Release date": "2025-11-29",
         "specialId": "astral_assistance",
@@ -99936,18 +85657,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "终极礼袋",
-        "types": [
-            "攻击所有目标",
-            "召唤所有",
-            "全体攻击降低",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "防御减益",
-            "召唤小兵"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "",
         "specialId": "ultimate_giftsack",
@@ -100007,18 +85716,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "摇滚之赐",
-        "types": [
-            "攻击所有目标",
-            "召唤所有",
-            "全体攻击降低",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "防御减益",
-            "召唤小兵"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2021-12-01",
         "specialId": "gift_of_rock",
@@ -100084,20 +85781,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "杀手",
         "skill": "断裂斩",
-        "types": [
-            "攻击3个目标",
-            "3个目标防御降低",
-            "自我法力生成叠加",
-            "自我持续治疗叠加"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "特殊治疗",
-            "叠加",
-            "法力生成增益",
-            "持续治疗"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-08-05",
         "specialId": "fracturing_slash",
@@ -100161,21 +85844,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "杀手",
         "skill": "断裂切割",
-        "types": [
-            "攻击3个目标",
-            "3个目标防御降低",
-            "自我法力生成叠加",
-            "自我持续治疗叠加"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "法力生成增益",
-            "持续治疗",
-            "叠加",
-            "特殊治疗",
-            "持续伤害"
-        ],
         "source": "挑战节 II",
         "Release date": "2024-11-14",
         "specialId": "fracturing_cut",
@@ -100244,20 +85912,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "灼烧触感",
-        "types": [
-            "攻击所有目标",
-            "单体沉默",
-            "全体攻击衰减"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "法力削减或格挡",
-            "额外伤害",
-            "反制小兵",
-            "全体攻击 (打5)",
-            "沉默",
-            "属性修改"
-        ],
         "source": "盟约召唤",
         "Release date": "2024-05-19",
         "specialId": "cauterizing_touch",
@@ -100319,19 +85973,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "慢",
         "skill": "燃情时刻",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害",
-            "全体衰退"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "特殊治疗",
-            "属性修改",
-            "绕过",
-            "反制小兵"
-        ],
         "source": "星体召唤",
         "Release date": "2025-07-27",
         "specialId": "light_my_fire",
@@ -100401,14 +86042,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "雌狮突袭",
-        "types": [
-            "攻击单个目标",
-            "全体伤害治疗"
-        ],
-        "skill_types": [
-            "特殊治疗",
-            "狙击手"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-09-01",
         "specialId": "pounce_of_the_lioness",
@@ -100462,14 +86095,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "雌狮之焰",
-        "types": [
-            "攻击单个目标",
-            "全体伤害治疗"
-        ],
-        "skill_types": [
-            "狙击手",
-            "特殊治疗"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2025-03-17",
         "specialId": "flame_of_the_lioness",
@@ -100530,17 +86155,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "充能",
         "skill": "炙热余烬",
-        "types": [
-            "蓄力",
-            "攻击所有目标",
-            "全体持续伤害",
-            "全体治疗降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "治疗削减"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
         "specialId": "burning_ashes",
@@ -100605,12 +86219,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "飞速",
         "skill": "破阵尖峰",
-        "types": [
-            "攻击单个目标",
-            "单体法力削减",
-            "伤害链接 (单体)"
-        ],
-        "skill_types": [],
         "source": "荒野召唤",
         "Release date": "2026-03-30",
         "specialId": "tip_of_the_spear",
@@ -100655,7 +86263,19 @@ window.allHeroes =
             "health": 2918,
             "power": 1583
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：单体"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "法力-削减法力",
+                    "伤害-额外伤害"
+                ]
+            }
+        ]
     },
     {
         "name": "自动灼烧装置 (Sizzleomatic)",
@@ -100665,18 +86285,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "燃火铁锅",
-        "types": [
-            "攻击所有目标",
-            "全体攻击增益",
-            "全体反射状态异常",
-            "全体反射叠加效果"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害",
-            "攻击增益",
-            "反射"
-        ],
         "source": "盟约召唤",
         "Release date": "2025-12-23",
         "specialId": "burning_wok",
@@ -100748,17 +86356,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "遏制反击",
-        "types": [
-            "攻击3个目标",
-            "3个目标法力削减",
-            "3个目标致盲"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益",
-            "法力削减或格挡",
-            "法力生成增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2023-06-01",
         "specialId": "halting_counter_strike",
@@ -100823,19 +86420,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "附魔精灵剑",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "处于持续伤害状态时全体生命值加成治疗",
-            "3个目标反射增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "特殊治疗",
-            "反射",
-            "伤害分摊"
-        ],
         "source": "星体召唤",
         "Release date": "2023-11-21",
         "specialId": "enchanted_elven_sword",
@@ -100904,16 +86488,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "大军推进",
-        "types": [
-            "攻击3个目标",
-            "召唤所有",
-            "附带持续伤害的小兵"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "召唤小兵"
-        ],
         "source": "三国召唤",
         "Release date": "2022-09-12",
         "specialId": "command_to_advance",
@@ -100972,16 +86546,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "前进命令",
-        "types": [
-            "攻击3个目标",
-            "召唤所有",
-            "附带持续伤害的小兵"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "召唤小兵",
-            "持续伤害"
-        ],
         "source": "三国召唤",
         "Release date": "2024-11-30",
         "specialId": "command_to_advance_costume_fire_bat",
@@ -101049,17 +86613,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "猎人标记",
-        "types": [
-            "攻击单个目标",
-            "2个目标持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "反制恶魔",
-            "提供免疫",
-            "狙击手",
-            "额外伤害"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2022-08-01",
         "specialId": "hunters_mark",
@@ -101125,16 +86678,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "先祖魔法",
-        "types": [
-            "攻击3个目标",
-            "单体防御降低",
-            "若目标被击败则全体法力提升"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "法力提升"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-10-27",
         "specialId": "ancient_spell",
@@ -101198,16 +86741,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "远古火焰",
-        "types": [
-            "攻击3个目标",
-            "单体防御降低",
-            "若目标被击败则全体法力提升"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "法力提升"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-05-27",
         "specialId": "ancient_flames",
@@ -101278,16 +86811,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "冒险之旅即将启程！",
-        "types": [
-            "全体生命值加成",
-            "全体攻击增益",
-            "自身防御减益"
-        ],
-        "skill_types": [
-            "生命强化",
-            "攻击增益",
-            "对自身或友军负面效果"
-        ],
         "source": "月活动 - 春谷",
         "Release date": "2024-03-18",
         "specialId": "adventure_awaits",
@@ -101345,17 +86868,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "标记猎物",
-        "types": [
-            "伤害链接 (单体)",
-            "单体防御降低",
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "持续伤害",
-            "伤害分摊"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2023-10-18",
         "specialId": "mark_the_prey",
@@ -101413,19 +86925,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "饕餮啃噬",
-        "types": [
-            "攻击单个目标",
-            "宝箱怪",
-            "全体普通攻击增益"
-        ],
-        "skill_types": [
-            "狙击手",
-            "绕过",
-            "特殊治疗",
-            "法力提升",
-            "攻击增益",
-            "鬼魂形态与隐藏"
-        ],
         "source": "市集召唤",
         "Release date": "2026-03-08",
         "specialId": "gluttonous_chomp_red",
@@ -101507,20 +87006,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "金刚利爪",
-        "types": [
-            "攻击单个目标",
-            "无视防御几率",
-            "单体持续伤害",
-            "自我持续治疗",
-            "自我复活"
-        ],
-        "skill_types": [
-            "绕过",
-            "持续伤害",
-            "持续治疗",
-            "复活",
-            "狙击手"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "",
         "specialId": "adamantite_claw",
@@ -101582,20 +87067,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "金刚不坏之爪",
-        "types": [
-            "攻击3个目标",
-            "无视防御",
-            "3个目标持续伤害",
-            "处于持续伤害状态时治疗自身",
-            "自我复活"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "绕过",
-            "持续伤害",
-            "特殊治疗",
-            "复活"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2023-02-13",
         "specialId": "indestructible_claw",
@@ -101663,18 +87134,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "畸变和弦",
-        "types": [
-            "攻击所有目标",
-            "全体攻击降低",
-            "3个目标持续治疗",
-            "3个目标驱散免疫增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "持续治疗",
-            "提供免疫"
-        ],
         "source": "月活动 - 卡勒瓦拉",
         "Release date": "2023-08-07",
         "specialId": "chords_of_distortion",
@@ -101738,18 +87197,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "地狱和弦",
-        "types": [
-            "攻击所有目标",
-            "攻击降低",
-            "3个目标持续治疗",
-            "3个目标驱散免疫"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "持续治疗",
-            "提供免疫"
-        ],
         "source": "月活动 - 卡勒瓦拉",
         "Release date": "2024-07-22",
         "specialId": "chords_of_inferno",
@@ -101815,17 +87262,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "飞速",
         "skill": "暮色神伤",
-        "types": [
-            "攻击所有目标",
-            "全体生命窃取",
-            "全体状态异常免疫"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "特殊治疗",
-            "治疗削减",
-            "提供免疫"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "2020-10-26",
         "specialId": "twilight_of_sorrow",
@@ -101887,17 +87323,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "飞速",
         "skill": "毁灭黄昏",
-        "types": [
-            "攻击所有目标",
-            "全体治疗偷取",
-            "全体状态异常免疫"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "特殊治疗",
-            "治疗削减",
-            "提供免疫"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "2021-10-04",
         "specialId": "twilight_of_ruin",
@@ -101961,16 +87386,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "好奇之心",
-        "types": [
-            "全体治疗",
-            "持盾守卫超级小兵",
-            "清除全体小怪"
-        ],
-        "skill_types": [
-            "召唤巨型小兵",
-            "治疗",
-            "净化"
-        ],
         "source": "哥布林召唤",
         "Release date": "2024-04-15",
         "specialId": "sense_of_wonder",
@@ -102036,16 +87451,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "坚定不移",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害",
-            "持续伤害",
-            "攻击增益"
-        ],
         "source": "挑战 - 贝奥武夫",
         "Release date": "2025-11-08",
         "specialId": "stalwart_to_the_end",
@@ -102118,21 +87523,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "爆晶导管",
-        "types": [
-            "无视防御",
-            "攻击单个目标",
-            "连锁攻击",
-            "命中时疯狂",
-            "命中时延迟麻木",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "狙击手",
-            "连锁与随机攻击",
-            "沉睡",
-            "失心攻击&治疗",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2026-01-11",
         "specialId": "volatile_crystal_conduit",
@@ -102204,19 +87594,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "冥界炽焰",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害",
-            "灼烧时治疗自身",
-            "全体法力偷取"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "特殊治疗",
-            "法力提升",
-            "法力削减或格挡"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2022-12-08",
         "specialId": "xenda_special",
@@ -102280,19 +87657,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "冥界火焰",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害",
-            "灼烧时治疗自身",
-            "全体法力偷取"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "特殊治疗",
-            "法力提升",
-            "法力削减或格挡"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2024-05-23",
         "specialId": "xenda_special_costume",
@@ -102361,16 +87725,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "反药为毒",
-        "types": [
-            "攻击单个目标",
-            "3个目标治疗抵抗减益",
-            "3个目标每次抵抗治疗时受到伤害"
-        ],
-        "skill_types": [
-            "治疗削减",
-            "反制小兵",
-            "狙击手"
-        ],
         "source": "月活动 - 农历生肖",
         "Release date": "2023-01-19",
         "specialId": "reverse_recovery",
@@ -102426,17 +87780,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "厄运复苏",
-        "types": [
-            "攻击单个目标",
-            "3个目标最大生命值降低",
-            "3个目标每次抵抗治疗时受到伤害"
-        ],
-        "skill_types": [
-            "治疗削减",
-            "反制小兵",
-            "狙击手",
-            "最大生命削减"
-        ],
         "source": "月活动 - 农历生肖",
         "Release date": "2026-02-17",
         "specialId": "ill_fated_recovery",
@@ -102496,17 +87839,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "永生之桃",
-        "types": [
-            "自我复活",
-            "复活时伤害全体",
-            "全体暴击率增益",
-            "全体攻击增益叠加"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "复活",
-            "叠加"
-        ],
         "source": "三国召唤",
         "Release date": "2023-10-09",
         "specialId": "peach_of_immortality",
@@ -102562,18 +87894,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "赤焰之怒",
-        "types": [
-            "攻击单个目标",
-            "有概率进行 1 次随机攻击",
-            "自身攻击增益叠加"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "连锁与随机攻击",
-            "法力提升",
-            "叠加",
-            "狙击手"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2021-05-01",
         "specialId": "flaming_fury",
@@ -102635,17 +87955,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "迷魂幻象",
-        "types": [
-            "攻击3个目标",
-            "3个目标强化闪避"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "闪避",
-            "攻击减益",
-            "持续伤害",
-            "反制小兵"
-        ],
         "source": "荒野召唤",
         "Release date": "2025-03-26",
         "specialId": "captivating_illusions",
@@ -102713,17 +88022,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "制衡之剑",
-        "types": [
-            "攻击3个目标",
-            "无视防御",
-            "绕过时获得法力提升值"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "绕过",
-            "法力提升",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2022-03-01",
         "specialId": "indifferent_blade",
@@ -102788,17 +88086,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "千刀万剐",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "狙击手",
-            "持续伤害",
-            "额外伤害",
-            "法力提升",
-            "叠加",
-            "闪避"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2024-04-01",
         "specialId": "thousand_cuts",
@@ -102865,13 +88152,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "灾难占卜",
-        "types": [
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害"
-        ],
         "source": "超级元素人",
         "Release date": "2023-10-09",
         "specialId": "cataclysmic_divination",
@@ -102932,18 +88212,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "二重刺",
-        "types": [
-            "攻击2个目标",
-            "改变棋盘"
-        ],
-        "skill_types": [
-            "改变面板",
-            "攻击减益",
-            "攻击增益",
-            "攻击减益",
-            "攻击增益",
-            "狙击手"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-09-09",
         "specialId": "dual_sting",
@@ -102999,19 +88267,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "鲜花之刺",
-        "types": [
-            "攻击2个目标",
-            "改变棋盘"
-        ],
-        "skill_types": [
-            "改变面板",
-            "攻击减益",
-            "攻击增益",
-            "狙击手",
-            "攻击减益",
-            "攻击增益",
-            "额外伤害"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2024-02-29",
         "specialId": "floral_sting",
@@ -103072,19 +88327,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "樱桃布丁上桌了！",
-        "types": [
-            "治疗3个目标",
-            "2个目标法力增加",
-            "2个目标攻击成长",
-            "2个目标防御成长",
-            "自身召唤史莱姆超级小兵"
-        ],
-        "skill_types": [
-            "法力提升",
-            "治疗",
-            "属性修改",
-            "召唤巨型小兵"
-        ],
         "source": "超级元素人",
         "Release date": "2025-10-11",
         "specialId": "cherry_pudding_served",
@@ -103151,18 +88393,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "飞速",
         "skill": "交易之道",
-        "types": [
-            "攻击单个目标",
-            "单体增益窃取",
-            "赌徒",
-            "持续伤害"
-        ],
-        "skill_types": [
-            "狙击手",
-            "增益窃取者",
-            "持续伤害",
-            "攻击增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2024-10-01",
         "specialId": "trick_of_the_trade",
@@ -103237,17 +88467,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "破晓袭击",
-        "types": [
-            "攻击所有目标",
-            "全体攻击增益",
-            "全体净化"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击增益",
-            "净化",
-            "持续治疗"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2018-11-01",
         "specialId": "dawn_strike",
@@ -103306,16 +88525,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "晨钓",
-        "types": [
-            "全体驱散",
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "驱散",
-            "额外伤害",
-            "持续治疗"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2023-03-20",
         "specialId": "morning_catch",
@@ -103380,12 +88589,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "芒刺在背",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "backstab",
@@ -103425,12 +88628,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "残暴斩",
-        "types": [
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "fierce_slash",
@@ -103470,12 +88667,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "防御战术",
-        "types": [
-            "防御增益"
-        ],
-        "skill_types": [
-            "防御增益"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "defensive_tactics",
@@ -103515,14 +88706,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "麻痹粉碎",
-        "types": [
-            "攻击单个目标",
-            "攻击降低"
-        ],
-        "skill_types": [
-            "攻击减益",
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "stunning_blow",
@@ -103563,12 +88746,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "治愈圣歌",
-        "types": [
-            "治疗者"
-        ],
-        "skill_types": [
-            "治疗"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "healing_chant",
@@ -103608,14 +88785,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "精准劈砍",
-        "types": [
-            "攻击单个目标",
-            "无视防御几率"
-        ],
-        "skill_types": [
-            "绕过",
-            "狙击手"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2020-05-28",
         "specialId": "precise_chop",
@@ -103667,18 +88836,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "沙土飞扬",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害",
-            "全体治疗降低",
-            "自身净化"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "净化",
-            "持续伤害",
-            "治疗削减"
-        ],
         "source": "月活动 - 海滩派对",
         "Release date": "",
         "specialId": "soldiers_curse",
@@ -103735,14 +88892,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "糖衣炮弹",
-        "types": [
-            "攻击单个目标",
-            "单体致盲"
-        ],
-        "skill_types": [
-            "攻击减益",
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "harmonic_slam",
@@ -103794,14 +88943,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "暗潮汹涌",
-        "types": [
-            "攻击单个目标",
-            "单体致盲"
-        ],
-        "skill_types": [
-            "攻击减益",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2020-01-01",
         "specialId": "harmonic_bash",
@@ -103855,15 +88996,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "卡通重击",
-        "types": [
-            "攻击单个目标",
-            "单体致盲"
-        ],
-        "skill_types": [
-            "狙击手",
-            "攻击减益",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-03-11",
         "specialId": "toon_slam",
@@ -103927,16 +89059,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "玻璃猛击",
-        "types": [
-            "攻击单个目标",
-            "无视防御",
-            "单体致盲"
-        ],
-        "skill_types": [
-            "绕过",
-            "攻击减益",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2025-05-10",
         "specialId": "glass_slam",
@@ -104000,12 +89122,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "饕餮盛宴",
-        "types": [
-            "全体对泰坦攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2021-10-13",
         "specialId": "magnificent_meal",
@@ -104051,14 +89167,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "天外飞援",
-        "types": [
-            "全体治疗至 50% 生命值",
-            "全体持续治疗"
-        ],
-        "skill_types": [
-            "持续治疗",
-            "治疗"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-06-10",
         "specialId": "whimsical_aid",
@@ -104106,18 +89214,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "泰坦骨锁链挥击",
-        "types": [
-            "攻击所有目标",
-            "全体致盲",
-            "自身攻击增益叠加"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "持续伤害",
-            "叠加",
-            "攻击增益"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2023-05-06",
         "specialId": "titanbone_chain_slash",
@@ -104181,17 +89277,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "大脑连接",
-        "types": [
-            "攻击单个目标",
-            "全体有概率随机攻击 1 次",
-            "全体有概率随机施加疯狂状态",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "狙击手",
-            "连锁与随机攻击",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2025-01-09",
         "specialId": "brain_link",
@@ -104246,12 +89331,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "跳跃攻击",
-        "types": [
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "leaping_attack",
@@ -104297,14 +89376,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "重磅砸击",
-        "types": [
-            "攻击单个目标",
-            "随机攻击1个目标"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "pounding_attack",
@@ -104359,13 +89430,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "卡通攻击",
-        "types": [
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-08-11",
         "specialId": "toon_attack",
@@ -104423,14 +89487,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "玻璃攻击",
-        "types": [
-            "攻击3个目标",
-            "无视防御"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "绕过"
-        ],
         "source": "服装间",
         "Release date": "2025-10-09",
         "specialId": "glass_leaping_attack_dawa",
@@ -104488,17 +89544,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "防晒霜轰炸",
-        "types": [
-            "攻击单个目标",
-            "单体防御降低",
-            "单体治疗降低"
-        ],
-        "skill_types": [
-            "防御减益",
-            "治疗削减",
-            "狙击手",
-            "持续伤害"
-        ],
         "source": "月活动 - 海滩派对",
         "Release date": "2023-06-12",
         "specialId": "sunscreen_blast",
@@ -104558,16 +89603,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "游牧赞歌",
-        "types": [
-            "全体治疗",
-            "全体对泰坦攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "持续伤害",
-            "治疗",
-            "对自身或友军负面效果"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2022-10-15",
         "specialId": "nomadic_hymn",
@@ -104630,17 +89665,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "无情之刺",
-        "types": [
-            "攻击单个目标",
-            "全体增益反射",
-            "自我持续治疗"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "反射",
-            "狙击手",
-            "持续治疗"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2023-03-08",
         "specialId": "covert_stab",
@@ -104704,18 +89728,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "快剑刺击",
-        "types": [
-            "攻击单个目标",
-            "全体反射增益",
-            "自身生命值加成持续治疗"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "反射",
-            "狙击手",
-            "持续治疗",
-            "生命强化"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2025-11-12",
         "specialId": "swashbuckling_stab",
@@ -104783,14 +89795,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "玄秘劈砍",
-        "types": [
-            "攻击单个目标",
-            "单体法力削减"
-        ],
-        "skill_types": [
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "mystic_chop",
@@ -104842,14 +89846,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "田园斩击",
-        "types": [
-            "攻击单个目标",
-            "单体法力削减"
-        ],
-        "skill_types": [
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "rural_chop",
@@ -104903,15 +89899,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "卡通斩击",
-        "types": [
-            "攻击单个目标",
-            "单体法力削减"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2023-12-25",
         "specialId": "toon_chop",
@@ -104971,16 +89958,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "玻璃劈砍",
-        "types": [
-            "攻击单个目标",
-            "无视防御",
-            "单体法力削减"
-        ],
-        "skill_types": [
-            "狙击手",
-            "绕过",
-            "法力削减或格挡"
-        ],
         "source": "服装间",
         "Release date": "2024-12-25",
         "specialId": "glass_chop",
@@ -105040,15 +90017,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "英姿劈砍",
-        "types": [
-            "攻击单个目标",
-            "单体法力削减"
-        ],
-        "skill_types": [
-            "狙击手",
-            "额外伤害",
-            "法力削减或格挡"
-        ],
         "source": "服装间",
         "Release date": "2026-01-07",
         "specialId": "stylish_chop",
@@ -105108,15 +90076,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "粘糊长矛",
-        "types": [
-            "攻击单个目标",
-            "对单个目标施放吞噬粘物"
-        ],
-        "skill_types": [
-            "狙击手",
-            "持续伤害",
-            "驱散"
-        ],
         "source": "超级元素人",
         "Release date": "2025-10-27",
         "specialId": "sticky_spear",
@@ -105176,16 +90135,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "侍从打击",
-        "types": [
-            "随机攻击2个目标",
-            "击败时自身恢复",
-            "击杀时自身法力提升"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "特殊治疗",
-            "法力提升"
-        ],
         "source": "盟约召唤",
         "Release date": "2025-12-23",
         "specialId": "squire_strike",
@@ -105250,15 +90199,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "潮汐",
         "skill": "可疑商品",
-        "types": [
-            "偷取单个目标法力",
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "法力提升",
-            "法力削减或格挡"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2023-07-05",
         "specialId": "dubious_merchandise",
@@ -105321,15 +90261,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "潮汐",
         "skill": "可疑合剂",
-        "types": [
-            "偷取单个目标法力",
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "法力削减或格挡",
-            "范围攻击 (打3)",
-            "法力提升"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2025-02-03",
         "specialId": "dubious_mixture",
@@ -105397,18 +90328,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "非常慢",
         "skill": "桦树祝福",
-        "types": [
-            "全体生命值加成",
-            "召唤所有",
-            "全体伤害减免增益",
-            "全体法力生成增益"
-        ],
-        "skill_types": [
-            "伤害减免",
-            "生命强化",
-            "法力生成增益",
-            "召唤小兵"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2023-12-01",
         "specialId": "birch_blessing",
@@ -105468,14 +90387,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "英灵羁绊",
-        "types": [
-            "友方伤害分担",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "伤害分摊"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "stone_skin",
@@ -105523,14 +90434,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "英灵集结",
-        "types": [
-            "友方伤害分担",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "伤害分摊"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "spirit_rally",
@@ -105580,14 +90483,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "卡通梦幻连结",
-        "types": [
-            "友方伤害分担",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "伤害分摊"
-        ],
         "source": "服装间",
         "Release date": "2024-02-12",
         "specialId": "toontastic_link",
@@ -105641,17 +90536,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "玻璃链接",
-        "types": [
-            "友方伤害分担",
-            "全体防御增益",
-            "神圣盟友反射状态异常",
-            "神圣盟友反射叠加效果"
-        ],
-        "skill_types": [
-            "伤害分摊",
-            "防御增益",
-            "反射"
-        ],
         "source": "服装间",
         "Release date": "2025-03-11",
         "specialId": "glass_link",
@@ -105707,16 +90591,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "英姿联结",
-        "types": [
-            "友方伤害分担",
-            "全体防御增益",
-            "全体持续治疗"
-        ],
-        "skill_types": [
-            "伤害分摊",
-            "防御增益",
-            "持续治疗"
-        ],
         "source": "服装间",
         "Release date": "2026-03-12",
         "specialId": "style_link",
@@ -105776,14 +90650,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "充能",
         "skill": "闪电如流",
-        "types": [
-            "蓄力",
-            "攻击单个目标",
-            "随机攻击 2/3/4 次"
-        ],
-        "skill_types": [
-            "连锁与随机攻击"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
         "specialId": "lightning_stream",
@@ -105838,16 +90704,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "狂蜂冒险",
-        "types": [
-            "召唤所有",
-            "带持续伤害的小怪",
-            "带小怪阻挡效果的小怪"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "反制小兵",
-            "召唤小兵"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "",
         "specialId": "bee_bravado",
@@ -105907,16 +90763,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "蜂势浩大",
-        "types": [
-            "召唤所有",
-            "带持续伤害的小怪",
-            "带增益免疫效果的小怪"
-        ],
-        "skill_types": [
-            "增益格挡者",
-            "持续伤害",
-            "召唤小兵"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2022-07-04",
         "specialId": "bee_bombast",
@@ -105978,12 +90824,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "卡通蜜蜂",
-        "types": [
-            "召唤所有",
-            "带持续伤害的小怪",
-            "带小怪阻挡效果的小怪"
-        ],
-        "skill_types": [],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2026-04-29",
         "specialId": "toon_bees",
@@ -106033,14 +90873,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "亚特兰蒂斯之剑",
-        "types": [
-            "攻击所有目标",
-            "全体暴击几率增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击增益"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "atlantean_blade",
@@ -106092,14 +90924,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "亚特兰蒂斯之刃",
-        "types": [
-            "攻击所有目标",
-            "全体致盲"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2022-05-02",
         "specialId": "atlantean_blade_costume",
@@ -106153,11 +90977,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "亚特兰蒂斯卡通剑",
-        "types": [
-            "攻击所有目标",
-            "全体暴击几率增益"
-        ],
-        "skill_types": [],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2026-04-29",
         "specialId": "atlantean_toon_sword",
@@ -106205,16 +91024,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "非常慢",
         "skill": "猫头鹰祝福",
-        "types": [
-            "特技伤害减免守护",
-            "全体攻击增益",
-            "全体法力生成增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "伤害减免",
-            "法力生成增益"
-        ],
         "source": "高塔 - 猫头鹰",
         "Release date": "2023-12-20",
         "specialId": "owls_blessing",
@@ -106268,15 +91077,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "皮格茜之尘",
-        "types": [
-            "攻击单个目标",
-            "法力全满时造成伤害 (单体)",
-            "法力全满时降低法力 (单体)"
-        ],
-        "skill_types": [
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "pixie_dust",
@@ -106328,14 +91128,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "反弹之箭",
-        "types": [
-            "攻击单个目标",
-            "概率随机攻击单体"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "狙击手"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-03-25",
         "specialId": "ricochet_bolt",
@@ -106387,14 +91179,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "昏睡之箭",
-        "types": [
-            "攻击单个目标",
-            "概率随机攻击单体"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "狙击手"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2024-02-29",
         "specialId": "drowsy_bolt",
@@ -106448,15 +91232,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "迷惑之谜",
-        "types": [
-            "全体强化持续治疗",
-            "自身属性防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "生命强化",
-            "持续治疗"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "puzzling_riddle",
@@ -106515,15 +91290,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "迷惑之画",
-        "types": [
-            "全体强化持续治疗",
-            "自身属性防御增益"
-        ],
-        "skill_types": [
-            "生命强化",
-            "持续治疗",
-            "防御增益"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2025-02-17",
         "specialId": "puzzling_paint",
@@ -106589,16 +91355,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "两栖剑刺",
-        "types": [
-            "攻击3个目标",
-            "3个目标法力削减",
-            "3个目标持续伤害"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "法力削减或格挡"
-        ],
         "source": "挑战节 II",
         "Release date": "2022-11-03",
         "specialId": "amphibian_sword_sting",
@@ -106663,17 +91419,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "俯冲支援",
-        "types": [
-            "3个目标持续治疗",
-            "3个目标闪避率",
-            "3个目标暴击几率增益"
-        ],
-        "skill_types": [
-            "持续治疗",
-            "闪避",
-            "攻击增益",
-            "生命强化"
-        ],
         "source": "盟约召唤",
         "Release date": "2024-04-25",
         "specialId": "swooping_support",
@@ -106736,13 +91481,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "穿刺军刀",
-        "types": [
-            "攻击单个目标",
-            "连锁攻击"
-        ],
-        "skill_types": [
-            "连锁与随机攻击"
-        ],
         "source": "挑战节 I",
         "Release date": "2021-12-15",
         "specialId": "piercing_sabre",
@@ -106790,17 +91528,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "回春飞跃",
-        "types": [
-            "全体治疗",
-            "全体强化闪避率",
-            "全体持续治疗"
-        ],
-        "skill_types": [
-            "治疗",
-            "闪避",
-            "持续治疗",
-            "反制小兵"
-        ],
         "source": "荒野召唤",
         "Release date": "2024-08-31",
         "specialId": "rejuvenating_leap",
@@ -106862,17 +91589,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "贤者谏言",
-        "types": [
-            "安全驱散全体最新的增益",
-            "每回合随机获得 1 个增益来源",
-            "全体持续治疗"
-        ],
-        "skill_types": [
-            "驱散",
-            "法力生成增益",
-            "特殊治疗",
-            "持续治疗"
-        ],
         "source": "挑战 - 贝奥武夫",
         "Release date": "2025-02-13",
         "specialId": "wise_mans_counsel",
@@ -106936,18 +91652,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "魔法",
         "skill": "欢欣符咒",
-        "types": [
-            "蓄力",
-            "召唤所有小兵",
-            "攻击所有目标",
-            "召唤所有恶魔"
-        ],
-        "skill_types": [
-            "召唤恶魔",
-            "召唤小兵",
-            "持续伤害",
-            "法力削减或格挡"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "specialId": "cheerful_charm",
@@ -107009,17 +91713,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "贪食之咬",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害",
-            "宝箱怪"
-        ],
-        "skill_types": [
-            "狙击手",
-            "绕过",
-            "持续伤害",
-            "鬼魂形态与隐藏"
-        ],
         "source": "市集召唤",
         "Release date": "2026-01-16",
         "specialId": "gorging_bite_yellow",
@@ -107110,14 +91803,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "异端制裁",
-        "types": [
-            "攻击单个目标",
-            "连锁攻击"
-        ],
-        "skill_types": [
-            "狙击手",
-            "伤害减免"
-        ],
         "source": "挑战 - 石像鬼",
         "Release date": "2022-05-12",
         "specialId": "sanction_for_heresy",
@@ -107173,16 +91858,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "骨棒重击",
-        "types": [
-            "攻击3个目标",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "持续伤害",
-            "净化"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2022-12-24",
         "specialId": "bone_club_clonk",
@@ -107240,15 +91915,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "吞噬烛光",
-        "types": [
-            "谦逊",
-            "攻击2个目标",
-            "2个目标最大生命值降低"
-        ],
-        "skill_types": [
-            "狙击手",
-            "最大生命削减"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2025-11-12",
         "specialId": "engulfing_candlelight",
@@ -107311,14 +91977,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "战术之斩",
-        "types": [
-            "攻击单个目标",
-            "单体法力削减"
-        ],
-        "skill_types": [
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "tactical_cut",
@@ -107370,15 +92028,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "空中截击",
-        "types": [
-            "攻击单个目标",
-            "偷取单个目标法力"
-        ],
-        "skill_types": [
-            "法力提升",
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "strategic_slash",
@@ -107432,14 +92081,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "虎王之锋",
-        "types": [
-            "攻击3个目标",
-            "3个目标法力生成降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "法力削减或格挡"
-        ],
         "source": "服装间",
         "Release date": "2023-10-30",
         "specialId": "cub_leader_cut",
@@ -107493,15 +92134,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "卡通梦幻切割",
-        "types": [
-            "攻击单个目标",
-            "单体法力削减"
-        ],
-        "skill_types": [
-            "法力削减或格挡",
-            "狙击手",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-06-28",
         "specialId": "adorable_tactical_cut",
@@ -107561,16 +92193,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "彩绘切割",
-        "types": [
-            "攻击单个目标",
-            "单体法力削减",
-            "无视防御"
-        ],
-        "skill_types": [
-            "狙击手",
-            "绕过",
-            "法力削减或格挡"
-        ],
         "source": "服装间",
         "Release date": "2025-07-16",
         "specialId": "glass_cut_chao",
@@ -107635,16 +92257,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "振奋奇观",
-        "types": [
-            "全体治疗",
-            "全体转化防御减益",
-            "全体法力生成增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "治疗",
-            "法力生成增益"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-06-10",
         "specialId": "vitalizing_show",
@@ -107698,16 +92310,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "戏法师金牌手",
-        "types": [
-            "赌徒"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御增益",
-            "攻击减益",
-            "法力生成增益",
-            "对自身或友军负面效果"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "tricksters_exchange",
@@ -107779,17 +92381,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "超值优惠",
-        "types": [
-            "赌徒"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "防御减益",
-            "法力提升",
-            "法力削减或格挡",
-            "对自身或友军负面效果"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2023-02-06",
         "specialId": "amazing_deals",
@@ -107864,16 +92455,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "邪恶捆束",
-        "types": [
-            "敌方伤害分担",
-            "全体承受伤害增加"
-        ],
-        "skill_types": [
-            "伤害分摊",
-            "额外伤害",
-            "反制小兵",
-            "反制恶魔"
-        ],
         "source": "星体召唤",
         "Release date": "2025-06-04",
         "specialId": "mischievous_tiein",
@@ -107933,20 +92514,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "微笑正义",
-        "types": [
-            "无视小兵",
-            "攻击单个目标",
-            "单体抵抗小兵"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "反制小兵",
-            "狙击手",
-            "额外伤害",
-            "绕过",
-            "持续伤害",
-            "防御减益"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2024-12-03",
         "specialId": "poetic_justice",
@@ -108014,20 +92581,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "亡灵忏悔",
-        "types": [
-            "无视小兵",
-            "攻击单个目标",
-            "单体抵抗小兵"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "反制小兵",
-            "狙击手",
-            "额外伤害",
-            "绕过",
-            "持续伤害",
-            "防御减益"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2025-10-15",
         "specialId": "undead_penance_poetic",
@@ -108097,16 +92650,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "魔镜之力",
-        "types": [
-            "全体治疗",
-            "全体攻击力成长",
-            "全体反射状态异常"
-        ],
-        "skill_types": [
-            "属性修改",
-            "治疗",
-            "反射"
-        ],
         "source": "哥布林召唤",
         "Release date": "2023-09-18",
         "specialId": "magic_mirror_of_power",
@@ -108166,17 +92709,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "巫师刽子手",
-        "types": [
-            "攻击3个目标",
-            "法力全满时造成伤害 (3个目标)",
-            "法力全满时降低法力 (3个目标)",
-            "自身特技防御增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御增益",
-            "法力削减或格挡"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "witch_slayer",
@@ -108234,14 +92766,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "隐形打击",
-        "types": [
-            "攻击单个目标",
-            "无视防御"
-        ],
-        "skill_types": [
-            "绕过",
-            "狙击手"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-03-25",
         "specialId": "invisible_strike",
@@ -108297,14 +92821,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "神圣冲刺",
-        "types": [
-            "攻击单个目标",
-            "绕过3个目标"
-        ],
-        "skill_types": [
-            "绕过",
-            "狙击手"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2023-11-09",
         "specialId": "divine_lunge",
@@ -108362,17 +92878,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "威慑姿态",
-        "types": [
-            "暴击几率",
-            "攻击所有目标",
-            "自身反击",
-            "反击时削减法力"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "反击",
-            "额外伤害"
-        ],
         "source": "三国召唤",
         "Release date": "2025-05-22",
         "specialId": "intimidating_stance",
@@ -108443,14 +92948,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "飞速",
         "skill": "死亡射线",
-        "types": [
-            "攻击单个目标",
-            "单体属性防御减益"
-        ],
-        "skill_types": [
-            "防御减益",
-            "狙击手"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "ray_strike",
@@ -108502,14 +92999,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "飞速",
         "skill": "一刀两断",
-        "types": [
-            "攻击单个目标",
-            "3个目标元素防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "狙击手"
-        ],
         "source": "挑战节 I",
         "Release date": "2023-01-26",
         "specialId": "severing_strike",
@@ -108563,17 +93052,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "慢",
         "skill": "愤怒野猪",
-        "types": [
-            "全体强化治疗",
-            "自我攻击增益",
-            "全体延迟伤害"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "治疗",
-            "生命强化",
-            "全体攻击 (打5)"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2020-05-28",
         "specialId": "angry_boar",
@@ -108630,17 +93108,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "狂怒野猪",
-        "types": [
-            "全体强化持续治疗",
-            "自我攻击增益",
-            "全体延迟伤害"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "生命强化",
-            "全体攻击 (打5)",
-            "持续治疗"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2022-07-04",
         "specialId": "furious_boar",
@@ -108700,16 +93167,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "丰盛炖菜",
-        "types": [
-            "全体治疗",
-            "召唤所有",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "治疗",
-            "召唤小兵"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2022-12-01",
         "specialId": "hearty_stew",
@@ -108769,14 +93226,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "超音速墙",
-        "types": [
-            "攻击所有目标",
-            "全体致盲"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "sonic_wall",
@@ -108828,16 +93277,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "光环波浪",
-        "types": [
-            "攻击所有目标",
-            "全体致盲",
-            "全体治疗降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "治疗削减"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "aura_wave",
@@ -108893,16 +93332,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "音浪",
-        "types": [
-            "攻击所有目标",
-            "全体致盲",
-            "全体法力生成降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "法力削减或格挡"
-        ],
         "source": "服装间",
         "Release date": "2023-11-27",
         "specialId": "acoustic_surge",
@@ -108958,15 +93387,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "卡通障壁",
-        "types": [
-            "攻击所有目标",
-            "全体致盲"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-05-31",
         "specialId": "adorable_sonic_wall",
@@ -109030,16 +93450,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "玻璃墙",
-        "types": [
-            "攻击所有目标",
-            "无视防御",
-            "全体致盲"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "绕过",
-            "攻击减益"
-        ],
         "source": "服装间",
         "Release date": "2025-06-18",
         "specialId": "glass_wall",
@@ -109103,14 +93513,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "柔顺处理",
-        "types": [
-            "全体治疗",
-            "自身法力获取减益"
-        ],
-        "skill_types": [
-            "治疗",
-            "对自身或友军负面效果"
-        ],
         "source": "月活动 - 春谷",
         "Release date": "",
         "specialId": "smooth_treatment",
@@ -109162,12 +93564,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "剪除疗法",
-        "types": [
-            "全体治疗",
-            "自身属性防御增益",
-            "自身法力获取减益"
-        ],
-        "skill_types": [],
         "source": "月活动 - 春谷",
         "Release date": "2026-03-30",
         "specialId": "shearing_treatment",
@@ -109205,7 +93601,23 @@ window.allHeroes =
             "health": 1912,
             "power": 987
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "治疗：即时"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防御-防御↑：暗黑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "状态-自我减益"
+                ]
+            }
+        ]
     },
     {
         "name": "丽秀 (Li Xiu)",
@@ -109215,14 +93627,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "七刃斩",
-        "types": [
-            "攻击所有目标",
-            "全体法力削减"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力削减或格挡"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "slash_of_seven_blades",
@@ -109274,14 +93678,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "七刀连斩",
-        "types": [
-            "攻击所有目标",
-            "全体法力削减"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力削减或格挡"
-        ],
         "source": "服装间",
         "Release date": "2020-01-01",
         "specialId": "slash_of_seven_daggers",
@@ -109335,14 +93731,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "七匕首连斩",
-        "types": [
-            "攻击3个目标",
-            "3个目标沉默者"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "沉默"
-        ],
         "source": "服装间",
         "Release date": "2023-02-20",
         "specialId": "slash_of_the_seven_stilettos",
@@ -109396,15 +93784,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "七卡通连斩",
-        "types": [
-            "攻击所有目标",
-            "全体法力削减"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害",
-            "法力削减或格挡"
-        ],
         "source": "服装间",
         "Release date": "2024-02-12",
         "specialId": "slash_of_seven_toons",
@@ -109464,16 +93843,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "玻璃刃斩",
-        "types": [
-            "攻击所有目标",
-            "无视防御",
-            "全体法力削减"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "绕过",
-            "法力削减或格挡"
-        ],
         "source": "服装间",
         "Release date": "2025-03-11",
         "specialId": "slash_of_glass_blades",
@@ -109533,15 +93902,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "英姿之刃斩击",
-        "types": [
-            "攻击所有目标",
-            "全体法力削减"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害",
-            "法力削减或格挡"
-        ],
         "source": "服装间",
         "Release date": "2026-02-14",
         "specialId": "slash_of_stylish_blades",
@@ -109601,18 +93961,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "女武神冲锋",
-        "types": [
-            "攻击3个目标",
-            "3个目标增益免疫减益",
-            "3个目标特殊技能防御降低",
-            "3个目标法力生成降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "增益格挡者",
-            "防御减益",
-            "法力削减或格挡"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "",
         "specialId": "valkyrie_charge",
@@ -109668,18 +94016,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "酸楚折磨",
-        "types": [
-            "攻击单个目标",
-            "收获增益 (单体)",
-            "自身法力生成增益叠加"
-        ],
-        "skill_types": [
-            "召唤恶魔",
-            "狙击手",
-            "驱散",
-            "法力生成增益",
-            "叠加"
-        ],
         "source": "挑战 - 英勇植物召唤",
         "Release date": "2026-02-04",
         "specialId": "tangy_torture",
@@ -109745,15 +94081,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "圣甲虫投掷",
-        "types": [
-            "攻击单个目标",
-            "召唤1个爆炸恶魔"
-        ],
-        "skill_types": [
-            "召唤恶魔",
-            "狙击手",
-            "持续伤害"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "scarab_throw",
@@ -109814,15 +94141,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "圣甲虫连击",
-        "types": [
-            "攻击单个目标",
-            "召唤1个爆炸恶魔"
-        ],
-        "skill_types": [
-            "狙击手",
-            "召唤恶魔",
-            "持续伤害"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2025-01-20",
         "specialId": "scarab_barrage",
@@ -109890,15 +94208,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "冥河",
         "skill": "修复名作",
-        "types": [
-            "蓄力",
-            "全体强化持续治疗",
-            "复活"
-        ],
-        "skill_types": [
-            "生命强化",
-            "复活"
-        ],
         "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
         "specialId": "artful_recreation",
@@ -109959,16 +94268,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "陶笛风歌",
-        "types": [
-            "全体移除2个增益",
-            "全体最大生命值降低",
-            "全体法力生成降低"
-        ],
-        "skill_types": [
-            "驱散",
-            "最大生命削减",
-            "法力削减或格挡"
-        ],
         "source": "荒野召唤",
         "Release date": "2025-12-30",
         "specialId": "ocarina_windsong",
@@ -110035,14 +94334,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "甜心糕点",
-        "types": [
-            "摧毁3个恶魔",
-            "治疗3个目标"
-        ],
-        "skill_types": [
-            "反制恶魔",
-            "治疗"
-        ],
         "source": "月活动 - 恋爱季节",
         "Release date": "2023-02-14",
         "specialId": "flat_cake_for_sweethearts",
@@ -110098,16 +94389,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "爱之色彩",
-        "types": [
-            "摧毁3个恶魔",
-            "治疗3个目标",
-            "3个目标元素防御增益"
-        ],
-        "skill_types": [
-            "反制恶魔",
-            "治疗",
-            "防御增益"
-        ],
         "source": "月活动 - 恋爱季节",
         "Release date": "2026-01-19",
         "specialId": "hues_of_love",
@@ -110171,14 +94452,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "忠诚之枪",
-        "types": [
-            "攻击单个目标",
-            "单体莽夫乱拳"
-        ],
-        "skill_types": [
-            "失心攻击&治疗",
-            "狙击手"
-        ],
         "source": "挑战节 II",
         "Release date": "2022-11-03",
         "specialId": "spear_of_loyalty",
@@ -110236,14 +94509,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "悲天悯人",
-        "types": [
-            "摧毁所有恶魔",
-            "全体生命值加成"
-        ],
-        "skill_types": [
-            "反制恶魔",
-            "生命强化"
-        ],
         "source": "三国召唤",
         "Release date": "2022-03-14",
         "specialId": "nobles_empathy",
@@ -110295,16 +94560,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "书圣之怜",
-        "types": [
-            "摧毁所有恶魔",
-            "全体生命值加成",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "反制恶魔",
-            "生命强化",
-            "防御增益"
-        ],
         "source": "三国召唤",
         "Release date": "2025-01-29",
         "specialId": "nobles_empathy_costume_artisan",
@@ -110371,13 +94626,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "赌徒心理",
-        "types": [
-            "全体对泰坦攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "对自身或友军负面效果"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "gamblers_stance",
@@ -110428,14 +94676,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "赌徒形态",
-        "types": [
-            "攻击所有目标",
-            "自我防御增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "对自身或友军负面效果"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "change_stance",
@@ -110489,13 +94729,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "赌徒挥砍",
-        "types": [
-            "全体对泰坦攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "对自身或友军负面效果"
-        ],
         "source": "服装间",
         "Release date": "2023-10-30",
         "specialId": "gamblers_swing",
@@ -110548,13 +94781,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "卡通姿态",
-        "types": [
-            "全体对泰坦攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "对自身或友军负面效果"
-        ],
         "source": "服装间",
         "Release date": "2024-07-16",
         "specialId": "adorable_gamblers_stance",
@@ -110611,16 +94837,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "玻璃姿态",
-        "types": [
-            "全体对泰坦攻击增益",
-            "神圣盟友反射状态异常",
-            "神圣盟友反射叠加效果"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "反射",
-            "对自身或友军负面效果"
-        ],
         "source": "服装间",
         "Release date": "2025-08-10",
         "specialId": "glass_gamblers_stance",
@@ -110679,16 +94895,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "特快专递",
-        "types": [
-            "改变棋盘",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "改变面板",
-            "法力生成增益",
-            "法力削减或格挡",
-            "攻击增益"
-        ],
         "source": "超级元素人",
         "Release date": "2023-07-17",
         "specialId": "express_delivery",
@@ -110748,20 +94954,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "渴望之咬",
-        "types": [
-            "攻击单个目标",
-            "按伤害全体提升生命",
-            "宝箱怪"
-        ],
-        "skill_types": [
-            "狙击手",
-            "特殊治疗",
-            "生命强化",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形态与隐藏",
-            "绕过"
-        ],
         "source": "市集召唤",
         "Release date": "2026-01-06",
         "specialId": "aether_mimic_bite_yellow",
@@ -110837,13 +95029,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "乌鲁米绳结",
-        "types": [
-            "攻击单个目标",
-            "连锁攻击",
-            "命中时触发持续伤害",
-            "攻击成长恩赐"
-        ],
-        "skill_types": [],
         "source": "神殿召唤",
         "Release date": "2026-04-21",
         "specialId": "urumi_lashing",
@@ -110884,7 +95069,25 @@ window.allHeroes =
             "health": 2910,
             "power": 1591
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：单体",
+                    "攻击-连锁",
+                    "伤害：持续伤害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "伤害-额外伤害"
+                ]
+            },
+            {
+                "负面效果": [
+                    "伤害-持续伤害：流血"
+                ]
+            }
+        ]
     },
     {
         "name": "阿克罗格 (Akkorog)",
@@ -110894,14 +95097,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "巨人削击",
-        "types": [
-            "全体重新排布",
-            "攻击3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "重排队伍"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-03-25",
         "specialId": "colossal_chops",
@@ -110957,19 +95152,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "巨人主宰",
-        "types": [
-            "全体重新排布",
-            "攻击3个目标",
-            "自身特技闪避率",
-            "闪避时防御增益叠加"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "闪避",
-            "叠加",
-            "防御增益",
-            "重排队伍"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2024-02-01",
         "specialId": "colossal_carry",
@@ -111037,16 +95219,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "舒适小憩",
-        "types": [
-            "攻击所有目标",
-            "全体增益持续时间重置",
-            "全体召唤2个小兵"
-        ],
-        "skill_types": [
-            "持续治疗",
-            "攻击增益",
-            "对自身或友军负面效果"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2024-12-01",
         "specialId": "a_cozy_break",
@@ -111100,18 +95272,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "新生卷轴",
-        "types": [
-            "全体移除状态异常",
-            "全体重置状态异常",
-            "攻击所有目标",
-            "全体反射增益"
-        ],
-        "skill_types": [
-            "净化",
-            "效果持续重置",
-            "全体攻击 (打5)",
-            "反射"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2024-08-14",
         "specialId": "scroll_of_new_beginnings",
@@ -111175,16 +95335,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "雕刻骸骨",
-        "types": [
-            "攻击所有目标",
-            "召唤所有恶魔",
-            "阻止净化恶魔"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "召唤恶魔",
-            "净化格挡者"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2025-02-27",
         "specialId": "carve_the_bones",
@@ -111249,18 +95399,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "炮火轰击",
-        "types": [
-            "攻击单个目标",
-            "随机攻击",
-            "命中时若使用特技则施加减益"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "法力削减或格挡",
-            "狙击手",
-            "攻击减益",
-            "防御减益"
-        ],
         "source": "挑战节 I",
         "Release date": "2022-10-06",
         "specialId": "cannon_blast",
@@ -111316,14 +95454,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "一见钟情",
-        "types": [
-            "攻击单个目标",
-            "单体失心治疗"
-        ],
-        "skill_types": [
-            "狙击手",
-            "失心攻击&治疗"
-        ],
         "source": "月活动 - 恋爱季节",
         "Release date": "2025-02-14",
         "specialId": "love_at_first_sight",
@@ -111386,13 +95516,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "本德尔坎德之刃",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "狙击手"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-07-15",
         "specialId": "blade_of_bundelkhand",
@@ -111448,14 +95571,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "本德尔坎德之杖",
-        "types": [
-            "攻击单个目标"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "狙击手",
-            "攻击增益"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2023-09-07",
         "specialId": "scepter_of_bundelkhand",
@@ -111516,20 +95631,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "暴食咀嚼",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "宝箱怪"
-        ],
-        "skill_types": [
-            "特殊治疗",
-            "反制小兵",
-            "范围攻击 (打3)",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形态与隐藏",
-            "绕过"
-        ],
         "source": "市集召唤",
         "Release date": "2025-08-18",
         "specialId": "gorging_chew_yellow",
@@ -111614,19 +95715,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "神圣之光",
-        "types": [
-            "全体持续生命恢复",
-            "全体持续攻击增益",
-            "攻击所有目标",
-            "全体持续攻击降低"
-        ],
-        "skill_types": [
-            "治疗削减",
-            "全体攻击 (打5)",
-            "攻击减益",
-            "持续治疗",
-            "攻击增益"
-        ],
         "source": "盟约召唤",
         "Release date": "2025-02-26",
         "specialId": "divine_light1",
@@ -111697,16 +95785,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "蓬勃修复",
-        "types": [
-            "全体治疗",
-            "复活者",
-            "全体伤害降至 1"
-        ],
-        "skill_types": [
-            "治疗",
-            "复活",
-            "伤害减免"
-        ],
         "source": "挑战节 II",
         "Release date": "2024-11-14",
         "specialId": "booming_mend",
@@ -111766,20 +95844,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "倾家荡产",
-        "types": [
-            "偷取超级小兵/小兵",
-            "偷取单个目标法力",
-            "攻击单个目标",
-            "单体沉睡"
-        ],
-        "skill_types": [
-            "法力提升",
-            "法力削减或格挡",
-            "反制小兵",
-            "沉睡",
-            "狙击手",
-            "闪避"
-        ],
         "source": "联盟 - 飞蛾",
         "Release date": "2025-05-01",
         "specialId": "riches_to_poor",
@@ -111845,16 +95909,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "光之利斧",
-        "types": [
-            "摧毁3个目标的小兵",
-            "攻击3个目标",
-            "3个目标致盲"
-        ],
-        "skill_types": [
-            "反制小兵",
-            "范围攻击 (打3)",
-            "攻击减益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2025-09-01",
         "specialId": "forged_axe_of_light",
@@ -111919,17 +95973,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "飞鹰尖啸",
-        "types": [
-            "攻击3个目标",
-            "3个目标增益免疫",
-            "3个目标暴击几率增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "增益格挡者",
-            "攻击增益",
-            "闪避"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2024-06-01",
         "specialId": "falcon_screech",
@@ -111994,17 +96037,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "震慑斩",
-        "types": [
-            "攻击单个目标",
-            "单体致盲",
-            "单体治疗降低"
-        ],
-        "skill_types": [
-            "攻击减益",
-            "治疗削减",
-            "狙击手",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2020-09-01",
         "specialId": "stunning_steel",
@@ -112063,16 +96095,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "平衡之术",
-        "types": [
-            "偷取全体1个增益或攻击全体",
-            "全体移除1个异常或攻击全体"
-        ],
-        "skill_types": [
-            "反制小兵",
-            "增益窃取者",
-            "全体攻击 (打5)",
-            "净化"
-        ],
         "source": "月活动 - 农历生肖",
         "Release date": "2025-01-27",
         "specialId": "masterful_balance",
@@ -112131,19 +96153,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "冰冻重钩",
-        "types": [
-            "攻击单个目标",
-            "偷取随机增益 (单体)",
-            "随机攻击1个目标"
-        ],
-        "skill_types": [
-            "狙击手",
-            "额外伤害",
-            "增益窃取者",
-            "连锁与随机攻击",
-            "持续伤害",
-            "反制小兵"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2025-10-02",
         "specialId": "freezing_power_hooks",
@@ -112206,21 +96215,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "杀手",
         "skill": "驱散意志力",
-        "types": [
-            "全体驱散",
-            "攻击所有目标",
-            "自我法力生成叠加",
-            "自我持续治疗叠加"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "驱散",
-            "特殊治疗",
-            "叠加",
-            "额外伤害",
-            "法力生成增益",
-            "持续治疗"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-08-05",
         "specialId": "dispelling_willpower",
@@ -112286,22 +96280,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "杀手",
         "skill": "驱散审判",
-        "types": [
-            "全体驱散",
-            "攻击所有目标",
-            "自身法力生成叠加",
-            "自身持续治疗叠加"
-        ],
-        "skill_types": [
-            "驱散",
-            "全体攻击 (打5)",
-            "额外伤害",
-            "法力生成增益",
-            "持续治疗",
-            "叠加",
-            "持续伤害",
-            "特殊治疗"
-        ],
         "source": "挑战节 II",
         "Release date": "2024-11-14",
         "specialId": "dispelling_judgement",
@@ -112372,17 +96350,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "救赎圣礼",
-        "types": [
-            "3个目标生命值加成",
-            "3个目标防御增益",
-            "3个目标最大生命值降低免疫"
-        ],
-        "skill_types": [
-            "防御增益",
-            "反制恶魔",
-            "生命强化",
-            "提供免疫"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2022-10-01",
         "specialId": "sacrament_of_salvation",
@@ -112443,17 +96410,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "羁绊咒语",
-        "types": [
-            "谦逊",
-            "3个目标生命值加成治疗",
-            "3个目标伤害减免增益 (可叠加)",
-            "3个目标法力生成增益"
-        ],
-        "skill_types": [
-            "生命强化",
-            "伤害减免",
-            "法力生成增益"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2026-02-20",
         "specialId": "spell_of_camaraderie",
@@ -112522,22 +96478,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "激情歌谣",
-        "types": [
-            "攻击3个目标",
-            "热情之谣 (3个目标)",
-            "舞蹈时3个目标致盲",
-            "舞蹈时3个目标防御减益",
-            "舞蹈时3个目标增益免疫"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "增益格挡者",
-            "舞者",
-            "攻击减益",
-            "防御减益",
-            "驱散",
-            "净化"
-        ],
         "source": "挑战 - 歌剧之谜",
         "Release date": "2023-11-30",
         "specialId": "ballad_of_passion",
@@ -112611,16 +96551,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "诸神通灵者",
-        "types": [
-            "全体治疗",
-            "全体状态异常免疫",
-            "企图施加异常状态时获得治疗"
-        ],
-        "skill_types": [
-            "治疗",
-            "提供免疫",
-            "特殊治疗"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-10-27",
         "specialId": "channeler_of_the_gods",
@@ -112679,18 +96609,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "猫之通灵者",
-        "types": [
-            "全体治疗",
-            "全体状态异常免疫",
-            "企图施加异常状态时获得治疗"
-        ],
-        "skill_types": [
-            "治疗",
-            "提供免疫",
-            "特殊治疗",
-            "生命强化",
-            "净化"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-04-29",
         "specialId": "channeler_of_the_cats",
@@ -112756,16 +96674,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "剑舞",
-        "types": [
-            "攻击所有目标",
-            "全体闪避率增益",
-            "闪避时伤害攻击者"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "闪避",
-            "反击"
-        ],
         "source": "联盟 - 勇者与美人",
         "Release date": "2023-07-26",
         "specialId": "sword_dance",
@@ -112826,13 +96734,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "火枪兵之怒",
-        "types": [
-            "攻击所有目标",
-            "全体闪避率增益",
-            "闪避时伤害攻击者",
-            "自身生命值加成治疗"
-        ],
-        "skill_types": [],
         "source": "联盟 - 勇者与美人",
         "Release date": "2026-05-08",
         "specialId": "fusiliers_flurry",
@@ -112882,16 +96783,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "堕落礼仪",
-        "types": [
-            "复活者",
-            "全体持续治疗",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "持续治疗",
-            "复活"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2023-02-09",
         "specialId": "liturgy_of_the_fallen",
@@ -112951,12 +96842,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "沙漠狩猎",
-        "types": [
-            "攻击单个目标",
-            "无视防御",
-            "单体防御降低"
-        ],
-        "skill_types": [],
         "source": "泰坦猎手召唤",
         "Release date": "2026-04-18",
         "specialId": "desert_hunt",
@@ -112998,7 +96883,23 @@ window.allHeroes =
             "health": 2885,
             "power": 1583
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：单体"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "攻击-穿透/绕过"
+                ]
+            },
+            {
+                "负面效果": [
+                    "防御-防御力↓"
+                ]
+            }
+        ]
     },
     {
         "name": "达利拉 (Delilah)",
@@ -113008,15 +96909,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "召唤神殿守护者",
-        "types": [
-            "全体治疗",
-            "召唤所有"
-        ],
-        "skill_types": [
-            "治疗",
-            "法力生成增益",
-            "召唤小兵"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2018-03-01",
         "specialId": "summon_temple_guardians",
@@ -113069,16 +96961,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "召唤守护神",
-        "types": [
-            "全体治疗",
-            "召唤所有"
-        ],
-        "skill_types": [
-            "治疗",
-            "法力生成增益",
-            "召唤小兵",
-            "净化"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2023-05-15",
         "specialId": "summon_celestial_guardians",
@@ -113137,19 +97019,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "箭与爪",
-        "types": [
-            "攻击3个目标",
-            "自身召唤师",
-            "小怪命中时摧毁小怪",
-            "驱散3个目标"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "驱散",
-            "法力提升",
-            "反制小兵",
-            "召唤小兵"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2021-07-01",
         "specialId": "arrows_and_claws",
@@ -113216,16 +97085,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "主管的祝福",
-        "types": [
-            "全体治疗",
-            "召唤所有",
-            "全体净化"
-        ],
-        "skill_types": [
-            "净化",
-            "治疗",
-            "召唤小兵"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-06-10",
         "specialId": "directors_blessing",
@@ -113283,16 +97142,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "小丑祝福",
-        "types": [
-            "全体治疗",
-            "召唤所有",
-            "全体净化"
-        ],
-        "skill_types": [
-            "净化",
-            "治疗",
-            "召唤小兵"
-        ],
         "source": "挑战节 II",
         "Release date": "2025-08-08",
         "specialId": "clowns_blessing",
@@ -113356,21 +97205,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "黄色警示",
-        "types": [
-            "队友释放特技时随机攻击 3 次",
-            "3个目标狂乱",
-            "全体攻击增益叠加",
-            "全体法力生成增益叠加",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "伤害减免",
-            "连锁与随机攻击",
-            "攻击增益",
-            "法力生成增益",
-            "叠加",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2024-05-17",
         "specialId": "yellow_signs",
@@ -113436,16 +97270,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "狂怒连枷",
-        "types": [
-            "攻击3个目标",
-            "3个目标致盲"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益",
-            "攻击增益",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2018-08-01",
         "specialId": "flails_of_fury",
@@ -113498,17 +97322,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "传说之拳",
-        "types": [
-            "攻击3个目标",
-            "3个目标致盲"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益",
-            "攻击增益",
-            "防御增益",
-            "驱散"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2021-12-23",
         "specialId": "fabled_fist",
@@ -113567,15 +97380,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "猛禽利爪",
-        "types": [
-            "摧毁所有小兵",
-            "攻击所有目标",
-            "小兵免疫"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "反制小兵"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2022-01-05",
         "specialId": "ravaging_talons",
@@ -113633,21 +97437,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "野蛮吞噬",
-        "types": [
-            "攻击单个目标",
-            "单体扩散型持续伤害",
-            "宝箱怪"
-        ],
-        "skill_types": [
-            "特殊治疗",
-            "反制小兵",
-            "狙击手",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形态与隐藏",
-            "绕过",
-            "持续伤害"
-        ],
         "source": "市集召唤",
         "Release date": "2025-10-17",
         "specialId": "savage_gobble_yellow",
@@ -113727,17 +97516,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "潮汐",
         "skill": "海底快旋",
-        "types": [
-            "召唤所有小兵",
-            "全体小怪生命值增益叠加",
-            "全体恶魔替换"
-        ],
-        "skill_types": [
-            "反制恶魔",
-            "小兵强化",
-            "召唤小兵",
-            "叠加"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2023-06-07",
         "specialId": "seabed_pirouette",
@@ -113802,17 +97580,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "潮汐",
         "skill": "海底跃步",
-        "types": [
-            "召唤所有小兵",
-            "全体小怪生命值增益叠加",
-            "全体恶魔替换"
-        ],
-        "skill_types": [
-            "反制恶魔",
-            "小兵强化",
-            "召唤小兵",
-            "叠加"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2025-03-31",
         "specialId": "seabed_sissonne",
@@ -113882,14 +97649,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "重挫士气",
-        "types": [
-            "攻击3个目标",
-            "3个目标攻击降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益"
-        ],
         "source": "三国召唤",
         "Release date": "2023-01-02",
         "specialId": "deteriorating_morale",
@@ -113946,18 +97705,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "神圣光环",
-        "types": [
-            "攻击单个目标",
-            "随机攻击5个目标",
-            "改变棋盘"
-        ],
-        "skill_types": [
-            "改变面板",
-            "攻击减益",
-            "攻击增益",
-            "连锁与随机攻击",
-            "额外伤害"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2023-01-19",
         "specialId": "holy_aura",
@@ -114018,18 +97765,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "金色光环",
-        "types": [
-            "攻击单个目标",
-            "随机攻击5个目标",
-            "改变棋盘"
-        ],
-        "skill_types": [
-            "改变面板",
-            "攻击减益",
-            "攻击增益",
-            "连锁与随机攻击",
-            "额外伤害"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2025-06-11",
         "specialId": "golden_aura",
@@ -114097,20 +97832,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "贪婪吞噬",
-        "types": [
-            "摧毁单个目标的小兵",
-            "攻击单个目标",
-            "宝箱怪"
-        ],
-        "skill_types": [
-            "特殊治疗",
-            "反制小兵",
-            "狙击手",
-            "法力提升",
-            "提供免疫",
-            "鬼魂形态与隐藏",
-            "绕过"
-        ],
         "source": "市集召唤",
         "Release date": "2025-05-31",
         "specialId": "mimic_training_hero_yellow_bite",
@@ -114186,18 +97907,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "恢复宝珠",
-        "types": [
-            "全体治疗",
-            "全体治疗增益",
-            "自身法力生成增益叠加"
-        ],
-        "skill_types": [
-            "治疗",
-            "特殊治疗",
-            "法力生成增益",
-            "叠加",
-            "攻击增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2024-12-01",
         "specialId": "revitalizing_orb",
@@ -114259,14 +97968,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "月轮飞踢",
-        "types": [
-            "攻击3个目标",
-            "单体法力生成降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "法力削减或格挡"
-        ],
         "source": "挑战节 II",
         "Release date": "2021-06-10",
         "specialId": "chakram_kick",
@@ -114318,17 +98019,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "警戒职责",
-        "types": [
-            "攻击所有目标",
-            "单体沉默",
-            "召唤所有"
-        ],
-        "skill_types": [
-            "绕过",
-            "全体攻击 (打5)",
-            "沉默",
-            "召唤小兵"
-        ],
         "source": "月活动 - 冬日",
         "Release date": "2025-12-01",
         "specialId": "watchful_duty",
@@ -114392,15 +98082,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "团队精神",
-        "types": [
-            "攻击3个目标",
-            "守卫超级小兵"
-        ],
-        "skill_types": [
-            "召唤巨型小兵",
-            "范围攻击 (打3)",
-            "全体攻击 (打5)"
-        ],
         "source": "哥布林召唤",
         "Release date": "2024-08-04",
         "specialId": "esprit_de_corps",
@@ -114461,21 +98142,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "护主之吠",
-        "types": [
-            "全体净化",
-            "全体防御增益",
-            "友方伤害分担",
-            "全体反射状态异常",
-            "全体反射叠加效果",
-            "全体持续治疗"
-        ],
-        "skill_types": [
-            "净化",
-            "伤害分摊",
-            "持续治疗",
-            "反射",
-            "防御增益"
-        ],
         "source": "挑战节 II",
         "Release date": "2022-11-03",
         "specialId": "bark_of_protection",
@@ -114543,21 +98209,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "活力神盾",
-        "types": [
-            "嘲讽",
-            "自身伤害降至1",
-            "盟友特殊技能时攻击随机单个目标",
-            "命中时深度睡眠",
-            "全体法力生成增益"
-        ],
-        "skill_types": [
-            "闪避",
-            "嘲讽",
-            "伤害减免",
-            "沉睡",
-            "连锁与随机攻击",
-            "法力生成增益"
-        ],
         "source": "联盟 - 飞蛾",
         "Release date": "2025-10-13",
         "specialId": "vigorous_aegis",
@@ -114622,21 +98273,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "慢",
         "skill": "枪杖狂澜",
-        "types": [
-            "攻击所有目标",
-            "全体治疗",
-            "全体反击"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "特殊治疗",
-            "反击",
-            "额外伤害",
-            "绕过",
-            "持续伤害",
-            "防御减益",
-            "反制小兵"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2024-12-03",
         "specialId": "spearwand_gale",
@@ -114704,22 +98340,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "皇家枪锋",
-        "types": [
-            "攻击所有目标",
-            "全体强化治疗",
-            "全体反击"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "特殊治疗",
-            "生命强化",
-            "反击",
-            "额外伤害",
-            "绕过",
-            "持续伤害",
-            "防御减益",
-            "反制小兵"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2026-02-18",
         "specialId": "regal_spearhead",
@@ -114790,18 +98410,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "净化之光",
-        "types": [
-            "安全净化全体",
-            "全体强化伤害闪避",
-            "全体延迟治疗",
-            "全体延迟防御增益"
-        ],
-        "skill_types": [
-            "净化",
-            "闪避",
-            "治疗",
-            "防御增益"
-        ],
         "source": "荒野召唤",
         "Release date": "2024-12-07",
         "specialId": "purifying_light",
@@ -114868,18 +98476,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "神性奔流",
-        "types": [
-            "攻击单个目标",
-            "连锁攻击",
-            "命中时致盲"
-        ],
-        "skill_types": [
-            "狙击手",
-            "连锁与随机攻击",
-            "反制小兵",
-            "攻击减益",
-            "攻击增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2026-03-01",
         "specialId": "divine_current",
@@ -114945,16 +98541,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "慢",
         "skill": "莽夫冲刺",
-        "types": [
-            "攻击3个目标",
-            "无视防御几率",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御增益",
-            "绕过"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2023-03-01",
         "specialId": "reckless_charge",
@@ -115019,16 +98605,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "痛苦之币",
-        "types": [
-            "单体贪婪",
-            "全体持续伤害",
-            "攻击所有目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "状态效果格挡"
-        ],
         "source": "超级元素人",
         "Release date": "2025-06-07",
         "specialId": "coins_of_pain",
@@ -115089,16 +98665,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "复苏灵药",
-        "types": [
-            "全体防御增益",
-            "全体延迟治疗",
-            "全体延迟法力提升"
-        ],
-        "skill_types": [
-            "防御增益",
-            "治疗",
-            "法力提升"
-        ],
         "source": "月活动 - 农历生肖",
         "Release date": "2024-02-08",
         "specialId": "rejuvenating_elixir",
@@ -115158,16 +98724,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "复生之触",
-        "types": [
-            "全体攻击增益",
-            "全体法力生成增益",
-            "史莱姆复活"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "法力生成增益",
-            "复活"
-        ],
         "source": "超级元素人",
         "Release date": "2025-01-20",
         "specialId": "reviving_touch",
@@ -115232,17 +98788,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "神圣木槿酒酿",
-        "types": [
-            "嘲讽",
-            "全体强化持续治疗",
-            "全体法力生成增益"
-        ],
-        "skill_types": [
-            "嘲讽",
-            "生命强化",
-            "持续治疗",
-            "法力生成增益"
-        ],
         "source": "超级元素人",
         "Release date": "2024-04-22",
         "specialId": "holy_hibiscus_ale",
@@ -115306,21 +98851,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "慢",
         "skill": "箭雨",
-        "types": [
-            "随机攻击 9 次",
-            "命中时攻击叠加减益",
-            "命中时防御叠加减益",
-            "全体不可驱散增益",
-            "全体不可净化异常状态"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "叠加",
-            "攻击减益",
-            "防御减益",
-            "提供免疫",
-            "净化格挡者"
-        ],
         "source": "挑战节 I",
         "Release date": "2024-02-22",
         "specialId": "rain_of_arrows",
@@ -115386,24 +98916,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "英灵之舞",
-        "types": [
-            "4个目标完全净化",
-            "自我持续治疗",
-            "灵魂之舞 (4个目标)",
-            "舞蹈时攻击增益",
-            "舞蹈时伤害减免",
-            "舞蹈时若释放者被击败则触发伤害",
-            "舞蹈时若释放者被击败则削减法力"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "净化",
-            "伤害减免",
-            "舞者",
-            "持续治疗",
-            "提供免疫",
-            "对自身或友军负面效果"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "dance_of_spirits",
@@ -115467,22 +98979,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "悠悠球舞",
-        "types": [
-            "4个目标完全净化",
-            "全体治疗",
-            "灵魂之舞 (4个目标)",
-            "舞蹈期间4个目标攻击增益",
-            "舞蹈期间4个目标伤害减免"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "净化",
-            "伤害减免",
-            "舞者",
-            "治疗",
-            "提供免疫",
-            "对自身或友军负面效果"
-        ],
         "source": "挑战节 I",
         "Release date": "2023-01-26",
         "specialId": "bandalore_dance",
@@ -115548,17 +99044,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "非常慢",
         "skill": "庄严回报",
-        "types": [
-            "攻击所有目标",
-            "自我防御增益",
-            "自身持续治疗"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "防御增益",
-            "额外伤害",
-            "持续治疗"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "stately_retribution",
@@ -115618,16 +99103,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "渎神之力",
-        "types": [
-            "攻击所有目标",
-            "全体法力状态异常免疫",
-            "攻击所有被血莲标记目标"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "提供免疫",
-            "额外伤害"
-        ],
         "source": "月活动 - 血色盛宴",
         "Release date": "2025-10-08",
         "specialId": "unholy_power",
@@ -115689,16 +99164,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "女王之命",
-        "types": [
-            "全体法力削减",
-            "3个目标持续治疗",
-            "3个目标元素防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "持续治疗",
-            "法力削减或格挡"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "word_of_queen",
@@ -115757,17 +99222,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "苍天之命",
-        "types": [
-            "3个目标法力削减",
-            "全体治疗",
-            "全体元素反射",
-            "全体元素反击"
-        ],
-        "skill_types": [
-            "治疗",
-            "法力削减或格挡",
-            "反射"
-        ],
         "source": "挑战节 I",
         "Release date": "2023-04-20",
         "specialId": "word_of_skies",
@@ -115827,25 +99281,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "非常慢",
         "skill": "尼托克丽丝女王的精华",
-        "types": [
-            "净化 (3个目标)",
-            "治疗3个目标",
-            "3个目标法力持续恢复",
-            "对附近目标施加狂乱",
-            "自我化身亚玛格",
-            "攻击所有目标",
-            "全体狂乱",
-            "随机复活1个目标"
-        ],
-        "skill_types": [
-            "鬼魂形态与隐藏",
-            "净化",
-            "治疗",
-            "法力提升",
-            "对自身或友军负面效果",
-            "全体攻击 (打5)",
-            "复活"
-        ],
         "source": "暗影召唤",
         "Release date": "2025-07-29",
         "specialId": "essence_of_queen_nitocris",
@@ -115912,18 +99347,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "高能量场",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害",
-            "持续伤害增加"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力削减或格挡",
-            "反制小兵",
-            "持续伤害",
-            "额外伤害"
-        ],
         "source": "盟约召唤",
         "Release date": "2024-07-12",
         "specialId": "high_energy_field",
@@ -115987,16 +99410,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "千嚎之击",
-        "types": [
-            "攻击所有目标",
-            "全体反击",
-            "全体暴击几率增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击增益",
-            "反击"
-        ],
         "source": "挑战节 II",
         "Release date": "2022-11-03",
         "specialId": "strike_of_a_thousand_howls",
@@ -116056,18 +99469,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "不间断攻击",
-        "types": [
-            "攻击单个目标",
-            "随机攻击",
-            "命中时摧毁小怪",
-            "自我持续反击"
-        ],
-        "skill_types": [
-            "治疗削减",
-            "反制小兵",
-            "连锁与随机攻击",
-            "反击"
-        ],
         "source": "盟约召唤",
         "Release date": "2025-07-06",
         "specialId": "unbroken_assault",
@@ -116131,16 +99532,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "飞身闪避",
-        "types": [
-            "全体闪避率增益",
-            "闪避时生命提升",
-            "全体最大生命值削减免疫"
-        ],
-        "skill_types": [
-            "闪避",
-            "生命强化",
-            "提供免疫"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2021-12-01",
         "specialId": "dancing_dodge",
@@ -116201,21 +99592,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "星之轨迹",
-        "types": [
-            "攻击单个目标",
-            "随机攻击",
-            "全体安全驱散 1 个增益",
-            "全体防御衰减"
-        ],
-        "skill_types": [
-            "驱散",
-            "属性修改",
-            "狙击手",
-            "连锁与随机攻击",
-            "驱散",
-            "反制小兵",
-            "绕过"
-        ],
         "source": "星体召唤",
         "Release date": "2025-06-04",
         "specialId": "star_trail",
@@ -116283,20 +99659,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "枯竭打击",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "3个目标增益免疫"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "增益格挡者",
-            "持续伤害",
-            "特殊治疗",
-            "生命强化",
-            "伤害减免",
-            "提供免疫"
-        ],
         "source": "挑战 - 石像鬼",
         "Release date": "2024-06-13",
         "specialId": "drain_strike",
@@ -116357,14 +99719,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "充能",
         "skill": "长生扇",
-        "types": [
-            "蓄力",
-            "全体治疗",
-            "复活者",
-            "全体法力提升",
-            "净化全体最近的/全部异常状态"
-        ],
-        "skill_types": [],
         "source": "高塔 - 忍者",
         "Release date": "2026-05-03",
         "specialId": "sensu_of_immortality",
@@ -116426,14 +99780,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "飞速",
         "skill": "冷酷猎手",
-        "types": [
-            "攻击3个目标",
-            "3个目标生命值持续削减"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "最大生命削减"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-05-19",
         "specialId": "unrelenting_hunter",
@@ -116491,14 +99837,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "飞速",
         "skill": "骄阳审判",
-        "types": [
-            "攻击3个目标",
-            "3个目标生命值持续削减"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "最大生命削减"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-04-01",
         "specialId": "judgment_of_sun",
@@ -116563,17 +99901,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "飞速",
         "skill": "镰刀诡计",
-        "types": [
-            "攻击2个目标",
-            "2个目标法力削减",
-            "命中时触发共鸣持续伤害"
-        ],
-        "skill_types": [
-            "绕过",
-            "狙击手",
-            "法力削减或格挡",
-            "持续伤害"
-        ],
         "source": "星体召唤",
         "Release date": "2026-01-21",
         "specialId": "sickle_trouble",
@@ -116641,16 +99968,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "充能",
         "skill": "苦无突击",
-        "types": [
-            "蓄力",
-            "召唤 (1/3/所有) 爆炸恶魔"
-        ],
-        "skill_types": [
-            "召唤恶魔",
-            "狙击手",
-            "持续伤害",
-            "反制小兵"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2024-08-27",
         "specialId": "kunai_assault",
@@ -116712,20 +100029,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "飞速",
         "skill": "断离封印",
-        "types": [
-            "攻击单个目标",
-            "随机攻击2个目标",
-            "命中时疯狂",
-            "命中时叠加伤害增加减益",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "失心攻击&治疗",
-            "防御减益",
-            "叠加",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2025-12-28",
         "specialId": "severed_seal",
@@ -116788,18 +100091,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "幸运数字9",
-        "types": [
-            "攻击所有目标",
-            "全体闪避率增益",
-            "闪避时召唤小怪",
-            "小怪每回合用法力提升"
-        ],
-        "skill_types": [
-            "闪避",
-            "法力提升",
-            "召唤小兵",
-            "全体攻击 (打5)"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "lucky_nine",
@@ -116858,18 +100149,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "致盲法术",
-        "types": [
-            "攻击所有目标",
-            "召唤3个小兵",
-            "小怪每回合用法力提升",
-            "全体致盲"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "法力提升",
-            "召唤小兵"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2022-05-02",
         "specialId": "blinding_spell",
@@ -116934,19 +100213,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "火箭铁拳",
-        "types": [
-            "攻击单个目标",
-            "随机攻击1个目标",
-            "击败时自身恢复",
-            "击败时自身法力增加",
-            "全体反击"
-        ],
-        "skill_types": [
-            "狙击手",
-            "特殊治疗",
-            "法力提升",
-            "反击"
-        ],
         "source": "盟约召唤",
         "Release date": "2025-09-14",
         "specialId": "iron_rocket_fist",
@@ -117017,18 +100283,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "光明之链",
-        "types": [
-            "攻击单个目标",
-            "攻击全体暗属性目标",
-            "全体法力生成降低"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "法力削减或格挡",
-            "狙击手",
-            "连锁与随机攻击",
-            "额外伤害"
-        ],
         "source": "超级元素人",
         "Release date": "2023-12-04",
         "specialId": "chains_of_light",
@@ -117094,18 +100348,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "飞速",
         "skill": "穿窬之盗",
-        "types": [
-            "单体增益窃取者",
-            "单体法力窃取者",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "增益窃取者",
-            "攻击增益",
-            "法力生成增益",
-            "法力提升",
-            "法力削减或格挡"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2023-08-01",
         "specialId": "stupendous_break_in",
@@ -117170,18 +100412,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "月之两面",
-        "types": [
-            "攻击单个目标",
-            "防御降低",
-            "随机攻击1个目标",
-            "法力生成降低"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "防御减益",
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "挑战 - 众神狂欢节",
         "Release date": "2023-07-13",
         "specialId": "the_two_sides_of_the_moon",
@@ -117241,17 +100471,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "营养花瓣",
-        "types": [
-            "全体持续治疗",
-            "全体攻击增益",
-            "全体暴击几率增益",
-            "自身法力生成减益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "持续治疗",
-            "对自身或友军负面效果"
-        ],
         "source": "月活动 - 春谷",
         "Release date": "2023-03-27",
         "specialId": "petals_of_nourishment",
@@ -117311,17 +100530,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "营养之梦",
-        "types": [
-            "全体持续治疗",
-            "全体攻击增益",
-            "全体暴击几率增益",
-            "自身法力生成减益"
-        ],
-        "skill_types": [
-            "持续治疗",
-            "攻击增益",
-            "对自身或友军负面效果"
-        ],
         "source": "月活动 - 春谷",
         "Release date": "2024-03-18",
         "specialId": "dreams_of_nourishment",
@@ -117387,19 +100595,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "飞速",
         "skill": "远古神圣象征",
-        "types": [
-            "攻击所有目标",
-            "全体暗属性致盲",
-            "全体冰属性防御减益",
-            "全体自然属性法力生成减益",
-            "全体火属性攻击减益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "法力削减或格挡",
-            "防御减益"
-        ],
         "source": "超级元素人",
         "Release date": "2022-10-10",
         "specialId": "archaic_sacred_symbol",
@@ -117465,16 +100660,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "飞速",
         "skill": "金色神圣符号",
-        "types": [
-            "攻击所有目标",
-            "元素"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "防御减益",
-            "法力削减或格挡"
-        ],
         "source": "超级元素人",
         "Release date": "2025-06-20",
         "specialId": "golden_sacred_symbol",
@@ -117545,14 +100730,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "极地光束",
-        "types": [
-            "攻击单个目标",
-            "单体致盲"
-        ],
-        "skill_types": [
-            "攻击减益",
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "solar_beam",
@@ -117604,14 +100781,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "日光打击",
-        "types": [
-            "攻击单个目标",
-            "单体致盲"
-        ],
-        "skill_types": [
-            "攻击减益",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2020-01-01",
         "specialId": "solar_strike",
@@ -117665,16 +100834,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "恒星光波",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "3个目标致盲"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益",
-            "持续伤害"
-        ],
         "source": "服装间",
         "Release date": "2022-12-26",
         "specialId": "stellar_beam",
@@ -117731,15 +100890,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "卡通光束",
-        "types": [
-            "攻击单个目标",
-            "单体致盲"
-        ],
-        "skill_types": [
-            "攻击减益",
-            "额外伤害",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2024-02-12",
         "specialId": "adorable_beam",
@@ -117803,16 +100953,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "玻璃光束",
-        "types": [
-            "攻击单个目标",
-            "无视防御",
-            "单体致盲"
-        ],
-        "skill_types": [
-            "绕过",
-            "攻击减益",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2025-04-08",
         "specialId": "glass_beam",
@@ -117876,11 +101016,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "时尚光束",
-        "types": [
-            "攻击单个目标",
-            "单体致盲"
-        ],
-        "skill_types": [],
         "source": "服装间",
         "Release date": "2026-04-10",
         "specialId": "stylish_beam",
@@ -117918,7 +101053,23 @@ window.allHeroes =
             "health": 3169,
             "power": 1613
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：单体"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "伤害-额外伤害"
+                ]
+            },
+            {
+                "负面效果": [
+                    "攻击-命中率↓"
+                ]
+            }
+        ]
     },
     {
         "name": "朱庇特 (Jove)",
@@ -117928,16 +101079,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "苍穹一击",
-        "types": [
-            "攻击所有目标",
-            "全体生命值加成治疗减益",
-            "全体法力获取减益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "治疗削减",
-            "法力削减或格挡"
-        ],
         "source": "挑战 - 众神狂欢节",
         "Release date": "2022-11-22",
         "specialId": "strike_from_the_skies",
@@ -117995,14 +101136,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "审判仪式",
-        "types": [
-            "攻击所有目标",
-            "全体致盲"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "rite_of_judgement",
@@ -118059,15 +101192,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "审判之日",
-        "types": [
-            "攻击所有目标",
-            "自我法力生成增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害",
-            "法力生成增益"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "day_of_judgement",
@@ -118127,15 +101251,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "审判程序",
-        "types": [
-            "攻击所有目标",
-            "全体致盲"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2023-02-20",
         "specialId": "ritual_of_judgement",
@@ -118195,15 +101310,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "卡通审判",
-        "types": [
-            "攻击所有目标",
-            "全体致盲"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "额外伤害"
-        ],
         "source": "服装间",
         "Release date": "2024-06-28",
         "specialId": "rite_of_cuteness",
@@ -118267,16 +101373,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "玻璃审判",
-        "types": [
-            "攻击所有目标",
-            "无视防御",
-            "全体致盲"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "绕过"
-        ],
         "source": "服装间",
         "Release date": "2025-08-10",
         "specialId": "rite_of_glass",
@@ -118340,16 +101436,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "粘稠护盾",
-        "types": [
-            "攻击所有目标",
-            "嘲讽",
-            "史莱姆自身复活"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "嘲讽",
-            "复活"
-        ],
         "source": "超级元素人",
         "Release date": "2026-03-17",
         "specialId": "viscous_shield_justico",
@@ -118410,16 +101496,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "护盾圣女之守护",
-        "types": [
-            "嘲讽",
-            "自身特技防御增益",
-            "全体攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "防御增益",
-            "嘲讽"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2022-05-01",
         "specialId": "shieldmaidens_protection",
@@ -118476,15 +101552,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "传家匕首",
-        "types": [
-            "攻击单个目标",
-            "随机攻击1个目标",
-            "命中时施加失心攻击"
-        ],
-        "skill_types": [
-            "失心攻击&治疗",
-            "连锁与随机攻击"
-        ],
         "source": "月活动 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "specialId": "heirloom_dagger",
@@ -118542,15 +101609,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "狡猾之刀",
-        "types": [
-            "攻击单个目标",
-            "随机攻击1个目标",
-            "命中时施加失心攻击"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "失心攻击&治疗"
-        ],
         "source": "月活动 - 卡勒瓦拉",
         "Release date": "2023-08-07",
         "specialId": "cunning_knife",
@@ -118610,18 +101668,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "充能",
         "skill": "龙腾虎踞",
-        "types": [
-            "蓄力",
-            "攻击单个目标",
-            "自身隐藏/潜行",
-            "单体莽夫乱拳"
-        ],
-        "skill_types": [
-            "伤害减免",
-            "鬼魂形态与隐藏",
-            "失心攻击&治疗",
-            "狙击手"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2023-05-31",
         "specialId": "tumbling_dragon",
@@ -118700,21 +101746,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "小兵审查",
-        "types": [
-            "摧毁所有小兵",
-            "攻击所有目标",
-            "全体法力提升",
-            "全体法力状态异常免疫",
-            "全体抵抗时法力增加",
-            "全体吞噬粘液减益"
-        ],
-        "skill_types": [
-            "反制小兵",
-            "全体攻击 (打5)",
-            "法力提升",
-            "驱散",
-            "状态效果格挡"
-        ],
         "source": "超级元素人",
         "Release date": "2025-10-27",
         "specialId": "minion_scrutiny",
@@ -118788,18 +101819,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "慢",
         "skill": "两步摇摆",
-        "types": [
-            "全体安全净化",
-            "攻击所有目标",
-            "全体延迟伤害"
-        ],
-        "skill_types": [
-            "状态效果转换",
-            "净化",
-            "全体攻击 (打5)",
-            "反制小兵",
-            "连锁与随机攻击"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-07-05",
         "specialId": "twostep_swing",
@@ -118872,15 +101891,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "至阳虎形拳",
-        "types": [
-            "攻击单个目标",
-            "自身生命提升"
-        ],
-        "skill_types": [
-            "生命强化",
-            "反制小兵",
-            "狙击手"
-        ],
         "source": "月活动 - 农历生肖",
         "Release date": "2023-01-19",
         "specialId": "fierce_fu_jow_pai",
@@ -118936,17 +101946,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "幸运虎形拳",
-        "types": [
-            "攻击单个目标",
-            "自我生命值加成",
-            "拥有生命值加成时全体攻击增益"
-        ],
-        "skill_types": [
-            "生命强化",
-            "反制小兵",
-            "狙击手",
-            "攻击增益"
-        ],
         "source": "月活动 - 农历生肖",
         "Release date": "2026-02-17",
         "specialId": "lucky_fu_jow_pai",
@@ -119010,18 +102009,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "本垒打",
-        "types": [
-            "安全净化全体",
-            "攻击所有目标",
-            "全体治疗量降低",
-            "全体净化免疫"
-        ],
-        "skill_types": [
-            "净化",
-            "全体攻击 (打5)",
-            "治疗削减",
-            "净化格挡者"
-        ],
         "source": "神话召唤",
         "Release date": "2024-03-08",
         "specialId": "home_run",
@@ -119085,19 +102072,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "游星射击",
-        "types": [
-            "攻击单个目标",
-            "连锁攻击",
-            "命中时削减法力"
-        ],
-        "skill_types": [
-            "伤害分摊",
-            "狙击手",
-            "法力削减或格挡",
-            "连锁与随机攻击",
-            "绕过",
-            "伤害分摊"
-        ],
         "source": "星体召唤",
         "Release date": "2024-03-07",
         "specialId": "wandering_star_shot",
@@ -119158,16 +102132,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "斯巴达披斩",
-        "types": [
-            "攻击单个目标",
-            "单体法力削减",
-            "自我治疗"
-        ],
-        "skill_types": [
-            "特殊治疗",
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "spartan_cleave",
@@ -119221,16 +102185,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "斯巴达冲锋",
-        "types": [
-            "攻击3个目标",
-            "3个目标元素防御降低",
-            "全体暗属性攻击减益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "攻击减益",
-            "防御减益"
-        ],
         "source": "服装间",
         "Release date": "2021-01-18",
         "specialId": "roman_cleave",
@@ -119286,16 +102240,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "斯巴达挥斩",
-        "types": [
-            "攻击所有目标",
-            "全体法力削减",
-            "全体防御降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力削减或格挡",
-            "防御减益"
-        ],
         "source": "服装间",
         "Release date": "2022-12-26",
         "specialId": "spartan_slash",
@@ -119355,17 +102299,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "卡通劈砍",
-        "types": [
-            "攻击单个目标",
-            "单体法力削减",
-            "自我治疗"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "特殊治疗",
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2023-12-25",
         "specialId": "toon_cleave",
@@ -119427,18 +102360,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "玻璃猛斩",
-        "types": [
-            "攻击单个目标",
-            "无视防御",
-            "单体法力削减",
-            "自我治疗"
-        ],
-        "skill_types": [
-            "绕过",
-            "特殊治疗",
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "服装间",
         "Release date": "2025-02-11",
         "specialId": "glass_cleave",
@@ -119503,17 +102424,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "英姿劈砍",
-        "types": [
-            "攻击单个目标",
-            "单体法力削减",
-            "自我治疗"
-        ],
-        "skill_types": [
-            "狙击手",
-            "额外伤害",
-            "特殊治疗",
-            "法力削减或格挡"
-        ],
         "source": "服装间",
         "Release date": "2026-02-14",
         "specialId": "stylish_cleave",
@@ -119575,19 +102485,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "内在知识仪式",
-        "types": [
-            "移除3个目标的负面效果",
-            "月出守卫特殊技能减伤 (3个目标)",
-            "3个目标持续治疗",
-            "3个目标反射状态异常",
-            "3个目标反射叠加效果"
-        ],
-        "skill_types": [
-            "净化",
-            "伤害减免",
-            "持续治疗",
-            "反射"
-        ],
         "source": "高塔 - 猫头鹰",
         "Release date": "2024-02-14",
         "specialId": "rites_of_inner_knowledge",
@@ -119652,18 +102549,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "飞速",
         "skill": "激奏旋律",
-        "types": [
-            "攻击单个目标",
-            "无视防御",
-            "自我力量提升",
-            "自身闪避"
-        ],
-        "skill_types": [
-            "狙击手",
-            "绕过",
-            "额外伤害",
-            "闪避"
-        ],
         "source": "挑战节 II",
         "Release date": "2025-10-06",
         "specialId": "rushed_melody",
@@ -119727,19 +102612,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "狂野劈砍",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害",
-            "全体治疗降低",
-            "全体致盲"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "持续伤害",
-            "额外伤害",
-            "治疗削减"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2022-08-25",
         "specialId": "wild_cleave",
@@ -119808,15 +102680,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "飞速",
         "skill": "重力之拳",
-        "types": [
-            "攻击单个目标",
-            "阻挡状态效果施放 (单体)"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "狙击手",
-            "状态效果格挡"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2020-04-01",
         "specialId": "power_punch",
@@ -119873,15 +102736,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "松糕中毒",
-        "types": [
-            "全体持续伤害",
-            "召唤所有恶魔"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "额外伤害",
-            "召唤恶魔"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "2022-10-03",
         "specialId": "muffin_poisoning",
@@ -119948,17 +102802,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "春季丰收",
-        "types": [
-            "全体攻击力成长",
-            "全体防御力成长",
-            "召唤所有",
-            "法力生成增益小兵"
-        ],
-        "skill_types": [
-            "属性修改",
-            "法力生成增益",
-            "召唤小兵"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2025-05-01",
         "specialId": "bounty_of_the_spring",
@@ -120021,18 +102864,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "花言巧语",
-        "types": [
-            "全体治疗",
-            "全体移除最新的异常状态",
-            "强制施加不可净化的异常状态",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "净化",
-            "净化格挡者",
-            "治疗",
-            "防御增益"
-        ],
         "source": "挑战 - 歌剧之谜",
         "Release date": "2024-03-21",
         "specialId": "deceptive_smalltalk",
@@ -120102,15 +102933,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "月华之耀",
-        "types": [
-            "全体生命值提升",
-            "全体状态异常免疫"
-        ],
-        "skill_types": [
-            "伤害分摊",
-            "生命强化",
-            "提供免疫"
-        ],
         "source": "星体召唤",
         "Release date": "2024-09-16",
         "specialId": "moonlight_crescendo",
@@ -120168,16 +102990,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "无解谜语",
-        "types": [
-            "攻击所有目标",
-            "全体法力削减",
-            "全体法力生成降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力削减或格挡",
-            "额外伤害"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2023-04-13",
         "specialId": "impossible_riddle",
@@ -120243,16 +103055,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "不可思议的节奏",
-        "types": [
-            "攻击所有目标",
-            "全体法力削减",
-            "全体法力生成降低"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "额外伤害",
-            "法力削减或格挡"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-06-24",
         "specialId": "impossible_groove",
@@ -120325,17 +103127,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "充能",
         "skill": "气之通神",
-        "types": [
-            "蓄力",
-            "友方伤害分担",
-            "全体防御增益",
-            "全体法力生成增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "伤害分摊",
-            "法力生成增益"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "specialId": "connect_ki",
@@ -120394,19 +103185,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "星体召唤",
-        "types": [
-            "召唤所有",
-            "法力生成增益小兵",
-            "全体伤害减免",
-            "对拥有生命值加成目标全体攻击增益"
-        ],
-        "skill_types": [
-            "伤害分摊",
-            "召唤小兵",
-            "法力生成增益",
-            "伤害减免",
-            "额外伤害"
-        ],
         "source": "星体召唤",
         "Release date": "2024-07-10",
         "specialId": "astral_summon",
@@ -120467,21 +103245,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "魔法",
         "skill": "蝴蝶集群",
-        "types": [
-            "蓄力",
-            "召唤所有小兵",
-            "增伤小兵攻击",
-            "召唤所有恶魔",
-            "命中降低恶魔"
-        ],
-        "skill_types": [
-            "攻击减益",
-            "额外伤害",
-            "召唤恶魔",
-            "召唤小兵",
-            "持续伤害",
-            "治疗"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "specialId": "butterfly_swarm",
@@ -120546,17 +103309,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "缝合修复",
-        "types": [
-            "全体复活",
-            "全体强化持续治疗",
-            "全体特殊技能防御降低"
-        ],
-        "skill_types": [
-            "复活",
-            "持续治疗",
-            "生命强化",
-            "防御减益"
-        ],
         "source": "月活动 - 卡勒瓦拉",
         "Release date": "2025-07-28",
         "specialId": "mending_stitches",
@@ -120615,19 +103367,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "忠毅集结",
-        "types": [
-            "全体霜降守卫增益",
-            "全体无视防御",
-            "全体攻击增益",
-            "全体暴击几率"
-        ],
-        "skill_types": [
-            "伤害减免",
-            "绕过",
-            "攻击增益",
-            "持续伤害",
-            "攻击减益"
-        ],
         "source": "S7 - 烈焰与冰霜宝藏",
         "Release date": "2025-08-06",
         "specialId": "stalwart_rally",
@@ -120687,16 +103426,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "快速",
         "skill": "龙之牙",
-        "types": [
-            "攻击3个目标",
-            "自我治疗"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "特殊治疗",
-            "攻击增益",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2017-09-01",
         "specialId": "dragon_fang",
@@ -120749,17 +103478,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "自由之杖",
-        "types": [
-            "攻击3个目标",
-            "自我治疗"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "特殊治疗",
-            "驱散",
-            "攻击增益",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2023-10-02",
         "specialId": "rod_of_freedom",
@@ -120818,17 +103536,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "斩草除根",
-        "types": [
-            "攻击所有目标",
-            "全体法力削减",
-            "全体致盲"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益",
-            "法力生成增益",
-            "法力削减或格挡"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2019-11-01",
         "specialId": "sickle_of_eradication",
@@ -120891,17 +103598,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "冥河",
         "skill": "清算之日",
-        "types": [
-            "蓄力",
-            "攻击单个目标",
-            "敌方法力增加时伤害全体",
-            "全体增益免疫（带替换效果）"
-        ],
-        "skill_types": [
-            "增益格挡者",
-            "法力削减或格挡",
-            "狙击手"
-        ],
         "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
         "specialId": "day_of_reckoning",
@@ -120974,16 +103670,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "烈火奔腾",
-        "types": [
-            "攻击3个目标",
-            "3个目标反击",
-            "反击时触发灼热之触持续伤害"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "反击",
-            "持续伤害"
-        ],
         "source": "挑战 - 贝奥武夫",
         "Release date": "2025-05-18",
         "specialId": "rush_of_flame",
@@ -121050,13 +103736,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "命运缠旋",
-        "types": [
-            "攻击3个目标",
-            "3个目标防御弱化"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2020-03-26",
         "specialId": "twist_of_fate",
@@ -121108,13 +103787,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "命运之怒",
-        "types": [
-            "攻击3个目标",
-            "3个目标防御弱化"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2023-08-28",
         "specialId": "wrath_of_fate",
@@ -121168,11 +103840,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "卡通命运缠旋",
-        "types": [
-            "攻击3个目标",
-            "3个目标防御弱化"
-        ],
-        "skill_types": [],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2026-04-29",
         "specialId": "twist_of_toon_fate",
@@ -121220,15 +103887,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "快速",
         "skill": "葛林尼之暴怒",
-        "types": [
-            "攻击所有目标",
-            "全体法力生成增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力生成增益",
-            "额外伤害"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2020-11-26",
         "specialId": "fury_of_grimnir",
@@ -121286,15 +103944,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "葛林尼之盛怒",
-        "types": [
-            "攻击所有目标",
-            "全体法力生成增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力生成增益",
-            "额外伤害"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2023-03-13",
         "specialId": "rage_of_grimnir",
@@ -121354,17 +104003,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "浩劫旋律",
-        "types": [
-            "摧毁所有小兵",
-            "攻击所有目标",
-            "小怪被摧毁时全体法力生成叠加"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力削减或格挡",
-            "反制小兵",
-            "叠加"
-        ],
         "source": "挑战节 II",
         "Release date": "2022-12-01",
         "specialId": "rhythm_of_havoc",
@@ -121428,16 +104066,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "先知慧眼",
-        "types": [
-            "攻击3个目标",
-            "偷取3个目标法力"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "法力提升",
-            "法力削减或格挡",
-            "持续治疗"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2019-01-01",
         "specialId": "mana_stealer",
@@ -121494,18 +104122,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "慢",
         "skill": "催泪轮盘",
-        "types": [
-            "攻击单个目标",
-            "随机攻击5个目标",
-            "召唤幼苗恶魔攻击敌人",
-            "致盲攻击者"
-        ],
-        "skill_types": [
-            "狙击手",
-            "连锁与随机攻击",
-            "召唤恶魔",
-            "攻击减益"
-        ],
         "source": "挑战 - 英勇植物召唤",
         "Release date": "2026-03-06",
         "specialId": "teargas_roulette",
@@ -121579,15 +104195,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "中等",
         "skill": "召唤沙魔像",
-        "types": [
-            "召唤所有",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "持续伤害",
-            "召唤小兵"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "specialId": "summon_sand_golems",
@@ -121656,17 +104263,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "驱使沙魔像",
-        "types": [
-            "召唤所有",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "持续伤害",
-            "法力提升",
-            "生命强化",
-            "召唤小兵"
-        ],
         "source": "S5 - 沙丘",
         "Release date": "2024-10-05",
         "specialId": "command_sand_golems",
@@ -121742,17 +104338,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "绚光速射",
-        "types": [
-            "攻击所有目标",
-            "全体治疗降低"
-        ],
-        "skill_types": [
-            "反制恶魔",
-            "治疗削减",
-            "反制小兵",
-            "全体攻击 (打5)",
-            "伤害减免"
-        ],
         "source": "挑战 - 石像鬼",
         "Release date": "2021-11-24",
         "specialId": "radiant_rapid_fire",
@@ -121814,20 +104399,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "潮汐",
         "skill": "深海废墟",
-        "types": [
-            "单体增益窃取者",
-            "攻击单个目标",
-            "单体扩散型持续伤害",
-            "持续伤害期间法力生成减益"
-        ],
-        "skill_types": [
-            "狙击手",
-            "增益窃取者",
-            "持续伤害",
-            "法力削减或格挡",
-            "额外伤害",
-            "反制小兵"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2023-10-25",
         "specialId": "oceans_ruin",
@@ -121899,20 +104470,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "潮汐",
         "skill": "深海腐烂",
-        "types": [
-            "单体增益窃取者",
-            "攻击单个目标",
-            "单体扩散型持续伤害",
-            "持续伤害期间法力生成减益"
-        ],
-        "skill_types": [
-            "狙击手",
-            "增益窃取者",
-            "持续伤害",
-            "法力削减或格挡",
-            "额外伤害",
-            "反制小兵"
-        ],
         "source": "S6 - 深海奥秘",
         "Release date": "2025-01-09",
         "specialId": "oceans_decay",
@@ -121989,19 +104546,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "猫头鹰神殿的复仇",
-        "types": [
-            "攻击3个目标",
-            "召唤3个小兵"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "净化",
-            "叠加",
-            "范围攻击 (打3)",
-            "召唤小兵",
-            "驱散",
-            "鬼魂形态与隐藏"
-        ],
         "source": "高塔 - 猫头鹰",
         "Release date": "2025-02-05",
         "specialId": "vengeance_of_owlhalla",
@@ -122067,17 +104611,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "迷人旋律",
-        "types": [
-            "攻击3个目标",
-            "3个目标强化防御异常",
-            "3个目标沉睡"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益",
-            "沉睡",
-            "反制小兵"
-        ],
         "source": "荒野召唤",
         "Release date": "2025-04-18",
         "specialId": "enchanting_melody",
@@ -122145,15 +104678,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "海王",
-        "types": [
-            "攻击单个目标",
-            "全体法力减益免疫",
-            "全体特技阻挡免疫"
-        ],
-        "skill_types": [
-            "提供免疫",
-            "狙击手"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "",
         "specialId": "ruler_of_seas",
@@ -122206,14 +104730,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "潮汐杀手",
-        "types": [
-            "攻击单个目标",
-            "全体状态异常免疫"
-        ],
-        "skill_types": [
-            "提供免疫",
-            "狙击手"
-        ],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2021-11-15",
         "specialId": "oceanic_slayer",
@@ -122267,12 +104783,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "海洋卡通",
-        "types": [
-            "攻击单个目标",
-            "全体法力减益免疫",
-            "全体特技阻挡免疫"
-        ],
-        "skill_types": [],
         "source": "S2 - 亚特兰蒂斯",
         "Release date": "2026-04-29",
         "specialId": "toon_of_the_seas",
@@ -122321,23 +104831,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "支配之杖",
-        "types": [
-            "全体恐惧减益",
-            "全体攻击衰减",
-            "攻击所有目标",
-            "全体狂乱",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "防御减益",
-            "驱散",
-            "增益格挡者",
-            "额外伤害",
-            "属性修改",
-            "全体攻击 (打5)",
-            "失心攻击&治疗",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2026-03-22",
         "specialId": "staff_of_domination",
@@ -122410,16 +104903,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "荣耀恩典",
-        "types": [
-            "全体净化",
-            "全体生命值加成",
-            "全体强化持续治疗"
-        ],
-        "skill_types": [
-            "净化",
-            "生命强化",
-            "持续治疗"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-03-25",
         "specialId": "glorious_grace",
@@ -122477,16 +104960,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "炫目光芒",
-        "types": [
-            "全体净化",
-            "全体强化治疗",
-            "全体强化持续治疗"
-        ],
-        "skill_types": [
-            "净化",
-            "生命强化",
-            "持续治疗"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2023-04-27",
         "specialId": "dazzling_gleam",
@@ -122549,16 +105022,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "女王的容光",
-        "types": [
-            "攻击所有目标",
-            "敌方释放特技时全体法力增加",
-            "自身复仇",
-            "复仇效果被驱散时伤害全体"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "法力提升"
-        ],
         "source": "三国召唤",
         "Release date": "2023-02-27",
         "specialId": "the_queens_radiance",
@@ -122617,18 +105080,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "沙尘暴",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "3个目标治疗降低",
-            "自我净化"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "净化",
-            "持续伤害",
-            "治疗削减"
-        ],
         "source": "月活动 - 海滩派对",
         "Release date": "",
         "specialId": "queens_curse",
@@ -122685,18 +105136,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "乘沙破浪",
-        "types": [
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "3个目标治疗降低",
-            "净化 (3个目标)"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "净化",
-            "持续伤害",
-            "治疗削减"
-        ],
         "source": "月活动 - 海滩派对",
         "Release date": "2021-06-21",
         "specialId": "sand_wave_rana",
@@ -122755,16 +105194,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "玄秘品德",
-        "types": [
-            "攻击单个目标",
-            "全体对泰坦攻击增益"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "对自身或友军负面效果",
-            "狙击手",
-            "防御增益"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2019-06-01",
         "specialId": "mystics_virtue",
@@ -122826,13 +105255,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "公主出击",
-        "types": [
-            "鼠公主超级小兵"
-        ],
-        "skill_types": [
-            "召唤巨型小兵",
-            "额外伤害"
-        ],
         "source": "哥布林召唤",
         "Release date": "2025-09-16",
         "specialId": "princess_unleashed",
@@ -122886,20 +105308,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "丰裕赞歌",
-        "types": [
-            "全体生命值加成",
-            "改变棋盘",
-            "全体攻击增益",
-            "全体净化"
-        ],
-        "skill_types": [
-            "改变面板",
-            "法力生成增益",
-            "法力削减或格挡",
-            "攻击增益",
-            "净化",
-            "生命强化"
-        ],
         "source": "挑战节 II",
         "Release date": "2022-08-11",
         "specialId": "hymn_of_enrichment",
@@ -122967,16 +105375,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "中等",
         "skill": "飞沙旋风",
-        "types": [
-            "全体持续伤害",
-            "全体治疗降低",
-            "全体净化"
-        ],
-        "skill_types": [
-            "净化",
-            "持续伤害",
-            "治疗削减"
-        ],
         "source": "月活动 - 海滩派对",
         "Release date": "",
         "specialId": "sand_cyclone",
@@ -123031,16 +105429,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "海滩派对",
-        "types": [
-            "全体持续伤害",
-            "全体防御降低",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "防御减益",
-            "驱散",
-            "持续伤害"
-        ],
         "source": "月活动 - 海滩派对",
         "Release date": "2022-05-16",
         "specialId": "beach_party",
@@ -123101,18 +105489,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "顷刻欢乐",
-        "types": [
-            "全体治疗",
-            "全体伤害减免增益叠加",
-            "自身护卫超级小怪"
-        ],
-        "skill_types": [
-            "治疗",
-            "叠加",
-            "伤害减免",
-            "召唤巨型小兵",
-            "净化"
-        ],
         "source": "哥布林召唤",
         "Release date": "2024-10-27",
         "specialId": "a_moment_of_joy",
@@ -123177,18 +105553,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "快速",
         "skill": "危险水域",
-        "types": [
-            "暴击几率",
-            "驱散全体2个增益",
-            "攻击所有目标",
-            "单体持续伤害"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "驱散",
-            "持续伤害",
-            "额外伤害"
-        ],
         "source": "三国召唤",
         "Release date": "2025-05-22",
         "specialId": "perilous_waters",
@@ -123260,19 +105624,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "双管星铳",
-        "types": [
-            "攻击单个目标",
-            "单体沉默",
-            "随机攻击1个目标",
-            "单体承受伤害增加"
-        ],
-        "skill_types": [
-            "绕过",
-            "连锁与随机攻击",
-            "反制小兵",
-            "沉默",
-            "额外伤害"
-        ],
         "source": "星体召唤",
         "Release date": "2024-12-22",
         "specialId": "doublebarreled_starstick",
@@ -123336,20 +105687,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "剧毒熏香",
-        "types": [
-            "驱散3个目标",
-            "攻击3个目标",
-            "3个目标持续伤害",
-            "自我持续治疗"
-        ],
-        "skill_types": [
-            "驱散",
-            "范围攻击 (打3)",
-            "持续伤害",
-            "持续治疗",
-            "闪避",
-            "反制小兵"
-        ],
         "source": "联盟 - 飞蛾",
         "Release date": "2025-01-23",
         "specialId": "toxic_incense",
@@ -123419,16 +105756,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "快速",
         "skill": "旭日礼赞",
-        "types": [
-            "单体最大生命值削减",
-            "单体沉默",
-            "2个目标攻击成长"
-        ],
-        "skill_types": [
-            "最大生命削减",
-            "沉默",
-            "属性修改"
-        ],
         "source": "荒野召唤",
         "Release date": "2026-03-04",
         "specialId": "greeting_of_the_sun",
@@ -123495,17 +105822,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "狂怒野猪",
-        "types": [
-            "攻击所有目标",
-            "全体攻击衰减",
-            "白猪超级小怪反击"
-        ],
-        "skill_types": [
-            "召唤巨型小兵",
-            "全体攻击 (打5)",
-            "属性修改",
-            "反击"
-        ],
         "source": "哥布林召唤",
         "Release date": "2024-04-15",
         "specialId": "boar_of_fury",
@@ -123575,18 +105891,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "逆转生命力",
-        "types": [
-            "攻击所有目标",
-            "全体治疗",
-            "全体净化"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "净化",
-            "特殊治疗",
-            "伤害减免",
-            "生命强化"
-        ],
         "source": "盟约召唤",
         "Release date": "2023-12-08",
         "specialId": "reversed_lifeforce",
@@ -123654,20 +105958,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "天坠崩裂",
-        "types": [
-            "攻击单个目标",
-            "随机攻击2个目标",
-            "对命中目标施加额外伤害减益",
-            "对命中目标施加持续伤害"
-        ],
-        "skill_types": [
-            "反制小兵",
-            "狙击手",
-            "连锁与随机攻击",
-            "持续伤害",
-            "额外伤害",
-            "状态效果转换"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-11-03",
         "specialId": "skyfall_crumble",
@@ -123743,16 +106033,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "骤然觉醒",
-        "types": [
-            "攻击3个目标",
-            "持剑守卫超级小兵",
-            "传播持续伤害的小怪"
-        ],
-        "skill_types": [
-            "召唤巨型小兵",
-            "范围攻击 (打3)",
-            "持续伤害"
-        ],
         "source": "哥布林召唤",
         "Release date": "2024-04-15",
         "specialId": "rude_awakening",
@@ -123817,17 +106097,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "黄金纺织",
-        "types": [
-            "3个目标反击",
-            "3个目标伤害减免增益",
-            "3个目标法力生成增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "反击",
-            "伤害减免",
-            "法力生成增益"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "",
         "specialId": "gold_weaver",
@@ -123877,17 +106146,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "金黄丝绳",
-        "types": [
-            "3个目标法力提升",
-            "3个目标反击",
-            "3个目标伤害减免增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "反击",
-            "伤害减免",
-            "法力提升"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2022-08-29",
         "specialId": "golden_thread",
@@ -123939,17 +106197,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "中饱私囊",
-        "types": [
-            "偷取超级小兵/小兵",
-            "单体持续贪婪",
-            "全体持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "反制小兵",
-            "状态效果格挡",
-            "治疗削减"
-        ],
         "source": "盟约召唤",
         "Release date": "2025-01-11",
         "specialId": "greed_and_bribery",
@@ -124012,15 +106259,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "光之长枪",
-        "types": [
-            "攻击单个目标",
-            "连锁攻击",
-            "自身防御减益"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "对自身或友军负面效果"
-        ],
         "source": "月活动 - 春谷",
         "Release date": "",
         "specialId": "luminous_lance",
@@ -124074,12 +106312,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "炼金术师长枪",
-        "types": [
-            "攻击单个目标",
-            "连锁攻击",
-            "自身防御减益"
-        ],
-        "skill_types": [],
         "source": "月活动 - 春谷",
         "Release date": "2026-03-30",
         "specialId": "alchemist_lance",
@@ -124118,7 +106350,24 @@ window.allHeroes =
             "health": 2914,
             "power": 1563
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：单体",
+                    "攻击-连锁"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "伤害-额外伤害"
+                ]
+            },
+            {
+                "负面效果": [
+                    "状态-自我减益"
+                ]
+            }
+        ]
     },
     {
         "name": "斯拉古司 (Sludgus)",
@@ -124128,17 +106377,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "黏液之舞",
-        "types": [
-            "全体治疗",
-            "黏液之舞 (全体)",
-            "舞蹈时闪避率增益",
-            "舞蹈期间状态效果免疫"
-        ],
-        "skill_types": [
-            "舞者",
-            "治疗",
-            "闪避"
-        ],
         "source": "超级元素人",
         "Release date": "2024-09-04",
         "specialId": "dance_of_the_slimy",
@@ -124206,17 +106444,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "飞速",
         "skill": "信使突刺",
-        "types": [
-            "攻击所有目标",
-            "全体持续伤害",
-            "被击败时降低最大生命值",
-            "全体抵抗特殊技能格挡"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续伤害",
-            "最大生命削减"
-        ],
         "source": "荒野召唤",
         "Release date": "2025-08-23",
         "specialId": "couriers_dash",
@@ -124285,16 +106512,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "飞速",
         "skill": "金蝉子",
-        "types": [
-            "全体强化治疗",
-            "全体净化最新受到的异常状态",
-            "全体防御增益"
-        ],
-        "skill_types": [
-            "生命强化",
-            "净化",
-            "防御增益"
-        ],
         "source": "三国召唤",
         "Release date": "2024-04-02",
         "specialId": "golden_cicada",
@@ -124358,13 +106575,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "中等",
         "skill": "阳主禁焰",
-        "types": [
-            "攻击所有目标",
-            "自我治疗",
-            "嘲讽",
-            "全体延迟攻击"
-        ],
-        "skill_types": [],
         "source": "盟约召唤",
         "Release date": "2026-05-16",
         "specialId": "sunlords_forbidden_flame",
@@ -124418,15 +106628,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "飞速",
         "skill": "雷神锤之威",
-        "types": [
-            "攻击 (1/3/所有) 目标",
-            "1/3/全体目标致盲"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "全体攻击 (打5)",
-            "攻击减益"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2021-01-28",
         "specialId": "power_of_mjolnir",
@@ -124486,14 +106687,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "飞速",
         "skill": "雷神锤之力",
-        "types": [
-            "攻击所有目标",
-            "全体致盲"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击减益"
-        ],
         "source": "S3 - 瓦尔哈拉",
         "Release date": "2022-12-19",
         "specialId": "energy_of_mjolnir",
@@ -124555,18 +106748,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "丛林战嚎",
-        "types": [
-            "嘲讽",
-            "自我强化持续治疗",
-            "全体延迟攻击",
-            "自身属性攻击增益叠加"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "生命强化",
-            "叠加",
-            "嘲讽"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2023-05-06",
         "specialId": "warcry_of_the_jungle",
@@ -124633,17 +106814,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "快速",
         "skill": "追踪箭",
-        "types": [
-            "攻击3个目标",
-            "3个目标绕过增益",
-            "3个目标特技伤害增加增益"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "额外伤害",
-            "绕过",
-            "攻击增益"
-        ],
         "source": "怪兽岛召唤",
         "Release date": "2024-05-23",
         "specialId": "guiding_arrow",
@@ -124704,16 +106874,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "充能",
         "skill": "致命尖针",
-        "types": [
-            "摧毁小兵 (1/3/所有目标)",
-            "攻击 (1/3/所有) 目标",
-            "击杀小怪时全体法力提升"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "法力提升",
-            "反制小兵"
-        ],
         "source": "高塔 - 忍者",
         "Release date": "2022-02-02",
         "specialId": "lethal_needles",
@@ -124781,12 +106941,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "饕餮啃噬",
-        "types": [
-            "攻击单个目标",
-            "宝箱怪",
-            "全体普通攻击增益"
-        ],
-        "skill_types": [],
         "source": "市集召唤",
         "Release date": "2026-04-08",
         "specialId": "gluttonous_chomp_yellow",
@@ -124868,19 +107022,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "中等",
         "skill": "毒蛇突袭",
-        "types": [
-            "攻击单个目标",
-            "无视小兵",
-            "对小怪拥有者造成持续伤害",
-            "对魔仆拥有者造成持续伤害"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "特殊治疗",
-            "反制小兵",
-            "召唤小兵",
-            "狙击手"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2021-02-01",
         "specialId": "strike_of_the_cobra",
@@ -124946,20 +107087,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "中等",
         "skill": "仪式卡塔尔",
-        "types": [
-            "攻击所有目标",
-            "攻击成长恩赐",
-            "全体法力生成降低",
-            "全体增益免疫"
-        ],
-        "skill_types": [
-            "反制小兵",
-            "属性修改",
-            "额外伤害",
-            "全体攻击 (打5)",
-            "法力削减或格挡",
-            "增益格挡者"
-        ],
         "source": "神殿召唤",
         "Release date": "2025-11-17",
         "specialId": "ceremonial_katar",
@@ -125027,23 +107154,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "魔法",
         "skill": "神之兵卒",
-        "types": [
-            "蓄力",
-            "全体持续治疗",
-            "全体攻击增益",
-            "全体净化",
-            "全体驱散",
-            "全体持续伤害",
-            "全体攻击降低"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "净化",
-            "攻击减益",
-            "驱散",
-            "持续伤害",
-            "持续治疗"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2023-11-15",
         "specialId": "pawns_of_divinity",
@@ -125117,25 +107227,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "魔法",
         "skill": "神性之壳",
-        "types": [
-            "蓄力",
-            "全体持续治疗",
-            "全体攻击增益",
-            "全体净化",
-            "全体驱散",
-            "全体持续伤害",
-            "全体攻击降低",
-            "全体治疗降低"
-        ],
-        "skill_types": [
-            "攻击增益",
-            "净化",
-            "攻击减益",
-            "驱散",
-            "持续伤害",
-            "持续治疗",
-            "治疗削减"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-08-20",
         "specialId": "crust_of_divinity",
@@ -125216,16 +107307,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "群体治疗术",
-        "types": [
-            "全体治疗",
-            "全体防御增益",
-            "全体净化"
-        ],
-        "skill_types": [
-            "防御增益",
-            "净化",
-            "治疗"
-        ],
         "source": "S1 - 经典",
         "Release date": "",
         "specialId": "omniheal",
@@ -125283,16 +107364,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "群体治愈术",
-        "types": [
-            "全体治疗",
-            "全体防御降低",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "防御减益",
-            "驱散",
-            "治疗"
-        ],
         "source": "服装间",
         "Release date": "2020-01-01",
         "specialId": "omnicure",
@@ -125352,16 +107423,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "慢",
         "skill": "万象修补",
-        "types": [
-            "全体强化治疗",
-            "全体攻击降低",
-            "全体驱散"
-        ],
-        "skill_types": [
-            "攻击减益",
-            "驱散",
-            "生命强化"
-        ],
         "source": "服装间",
         "Release date": "2022-09-05",
         "specialId": "omnimend",
@@ -125421,16 +107482,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "卡通治疗",
-        "types": [
-            "全体治疗",
-            "全体防御增益",
-            "全体净化"
-        ],
-        "skill_types": [
-            "防御增益",
-            "净化",
-            "治疗"
-        ],
         "source": "服装间",
         "Release date": "2023-10-30",
         "specialId": "adorable_heal",
@@ -125494,19 +107545,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "玻璃治疗",
-        "types": [
-            "全体治疗",
-            "全体防御增益",
-            "神圣盟友反射状态异常",
-            "神圣盟友反射叠加效果",
-            "全体净化"
-        ],
-        "skill_types": [
-            "防御增益",
-            "净化",
-            "治疗",
-            "反射"
-        ],
         "source": "服装间",
         "Release date": "2024-12-25",
         "specialId": "glass_heal",
@@ -125572,16 +107610,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "慢",
         "skill": "英姿治疗",
-        "types": [
-            "全体治疗",
-            "全体防御增益",
-            "全体净化"
-        ],
-        "skill_types": [
-            "防御增益",
-            "净化",
-            "治疗"
-        ],
         "source": "服装间",
         "Release date": "2026-01-07",
         "specialId": "stylish_heal",
@@ -125645,15 +107673,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "飞速",
         "skill": "血腥幻象",
-        "types": [
-            "全体持续伤害",
-            "全体治疗偷取"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "特殊治疗",
-            "治疗削减"
-        ],
         "source": "月活动 - 莫洛维亚",
         "Release date": "2024-09-23",
         "specialId": "blood_illusion",
@@ -125715,18 +107734,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "满杯蜜酒",
-        "types": [
-            "治疗者",
-            "全体强化持续治疗",
-            "每回合随机获得 1 个增益来源"
-        ],
-        "skill_types": [
-            "治疗",
-            "生命强化",
-            "持续治疗",
-            "攻击增益",
-            "法力生成增益"
-        ],
         "source": "挑战 - 贝奥武夫",
         "Release date": "2024-11-25",
         "specialId": "cup_of_mead",
@@ -125797,18 +107804,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "光芒四射的宝剑和铁甲",
-        "types": [
-            "攻击所有目标",
-            "全体伤害降至1",
-            "随机1个增益来源"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "伤害减免",
-            "攻击增益",
-            "法力生成增益",
-            "绕过"
-        ],
         "source": "挑战 - 贝奥武夫",
         "Release date": "2025-12-06",
         "specialId": "gleaming_sword_and_iron_mail",
@@ -125879,14 +107874,6 @@ window.allHeroes =
         "class": "牧师",
         "speed": "快速",
         "skill": "兔子瞪眼",
-        "types": [
-            "攻击3个目标",
-            "单体防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益"
-        ],
         "source": "挑战节 I",
         "Release date": "",
         "specialId": "rabbits_watch",
@@ -125938,14 +107925,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "快速",
         "skill": "宇宙时钟",
-        "types": [
-            "攻击3个目标",
-            "3个目标防御降低"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "防御减益"
-        ],
         "source": "挑战节 I",
         "Release date": "2022-02-17",
         "specialId": "cosmic_clock",
@@ -126003,26 +107982,6 @@ window.allHeroes =
         "class": "德鲁伊",
         "speed": "魔法",
         "skill": "豪华悬空午餐盒",
-        "types": [
-            "蓄力",
-            "攻击所有目标",
-            "防御增益驱散者",
-            "全体防御增益免疫",
-            "全体无视防御",
-            "全体伤害减免",
-            "全体反击"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "增益格挡者",
-            "绕过",
-            "反击",
-            "伤害减免",
-            "驱散",
-            "叠加",
-            "法力削减或格挡",
-            "治疗"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2023-05-03",
         "specialId": "levitating_lunchbox_deluxe",
@@ -126099,17 +108058,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "野熊守护",
-        "types": [
-            "全体净化",
-            "全体生命值加成",
-            "释放者拥有生命加成时触发防御增益"
-        ],
-        "skill_types": [
-            "防御增益",
-            "净化",
-            "生命强化",
-            "提供免疫"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2024-01-10",
         "specialId": "ursine_protection",
@@ -126175,17 +108123,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "中等",
         "skill": "指挥官护手",
-        "types": [
-            "攻击所有目标",
-            "自我伤害减免",
-            "全体强化持续治疗"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "持续治疗",
-            "伤害减免",
-            "生命强化"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2021-10-13",
         "specialId": "commanders_gauntlet",
@@ -126240,17 +108177,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "中等",
         "skill": "黄金拳套",
-        "types": [
-            "攻击所有目标",
-            "自我伤害减免",
-            "全体强化持续治疗"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "伤害减免",
-            "生命强化",
-            "持续治疗"
-        ],
         "source": "联盟 - 骑士冲击",
         "Release date": "2024-12-17",
         "specialId": "gold_gauntlet",
@@ -126313,19 +108239,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "锦囊妙计",
-        "types": [
-            "几率暴击",
-            "攻击单个目标",
-            "偷取法力 (单体)",
-            "全体暴击几率增益"
-        ],
-        "skill_types": [
-            "额外伤害",
-            "狙击手",
-            "连锁与随机攻击",
-            "法力削减或格挡",
-            "攻击增益"
-        ],
         "source": "三国召唤",
         "Release date": "2025-10-28",
         "specialId": "clever_stratagem",
@@ -126397,17 +108310,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "上古邪印弩矢",
-        "types": [
-            "全体增益窃取至自身",
-            "攻击所有目标",
-            "全体狂乱",
-            "自我狂乱"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "增益窃取者",
-            "对自身或友军负面效果"
-        ],
         "source": "暗影召唤",
         "Release date": "2025-01-09",
         "specialId": "eldritch_sign_bolts",
@@ -126466,17 +108368,6 @@ window.allHeroes =
         "class": "盗贼",
         "speed": "中等",
         "skill": "层叠旋风",
-        "types": [
-            "攻击 (1/3/所有) 目标",
-            "命中时削减法力"
-        ],
-        "skill_types": [
-            "狙击手",
-            "范围攻击 (打3)",
-            "全体攻击 (打5)",
-            "法力削减或格挡",
-            "额外伤害"
-        ],
         "source": "超级元素人",
         "Release date": "2023-07-17",
         "specialId": "cascading_whirlwind",
@@ -126539,17 +108430,6 @@ window.allHeroes =
         "class": "游侠",
         "speed": "中等",
         "skill": "涌动旋风",
-        "types": [
-            "攻击 (1/3/所有) 目标",
-            "全体法力削减"
-        ],
-        "skill_types": [
-            "狙击手",
-            "范围攻击 (打3)",
-            "全体攻击 (打5)",
-            "法力削减或格挡",
-            "额外伤害"
-        ],
         "source": "超级元素人",
         "Release date": "2026-03-17",
         "specialId": "overvlowing_whirlwind",
@@ -126618,15 +108498,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "非常慢",
         "skill": "坚定奉献",
-        "types": [
-            "攻击所有目标",
-            "复活者"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "复活",
-            "额外伤害"
-        ],
         "source": "超级元素人",
         "Release date": "2022-10-10",
         "specialId": "unwavering_devotion",
@@ -126689,15 +108560,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "非常慢",
         "skill": "宇宙奉献",
-        "types": [
-            "攻击所有目标",
-            "复活者"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "复活",
-            "额外伤害"
-        ],
         "source": "超级元素人",
         "Release date": "2025-11-10",
         "specialId": "cosmic_devotion",
@@ -126767,19 +108629,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "快速",
         "skill": "翱翔冲击",
-        "types": [
-            "无视防御",
-            "攻击单个目标",
-            "全体强化治疗"
-        ],
-        "skill_types": [
-            "狙击手",
-            "绕过",
-            "特殊治疗",
-            "生命强化",
-            "反制小兵",
-            "状态效果转换"
-        ],
         "source": "高塔 - 魔法",
         "Release date": "2025-05-29",
         "specialId": "soaring_blast",
@@ -126849,16 +108698,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "迅捷毒刺",
-        "types": [
-            "攻击单个目标",
-            "随机攻击1个目标",
-            "单体防御降低"
-        ],
-        "skill_types": [
-            "连锁与随机攻击",
-            "防御减益",
-            "额外伤害"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2021-12-02",
         "specialId": "swift_stingers",
@@ -126921,17 +108760,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "锋利毒刺",
-        "types": [
-            "攻击单个目标",
-            "随机攻击1个目标",
-            "单体防御降低"
-        ],
-        "skill_types": [
-            "狙击手",
-            "连锁与随机攻击",
-            "额外伤害",
-            "防御减益"
-        ],
         "source": "S4 - 蛮荒地界",
         "Release date": "2024-06-20",
         "specialId": "sharp_stingers",
@@ -126999,18 +108827,6 @@ window.allHeroes =
         "class": "巫师",
         "speed": "慢",
         "skill": "冰激凌碎击",
-        "types": [
-            "攻击3个目标",
-            "3个目标受到异常状态时触发伤害",
-            "3个目标异常状态免疫",
-            "企图施加异常状态时获得治疗"
-        ],
-        "skill_types": [
-            "范围攻击 (打3)",
-            "持续伤害",
-            "提供免疫",
-            "特殊治疗"
-        ],
         "source": "月活动 - 海滩派对",
         "Release date": "2024-06-03",
         "specialId": "ice_cream_smash",
@@ -127074,14 +108890,6 @@ window.allHeroes =
         "class": "战士",
         "speed": "快速",
         "skill": "丈八蛇矛",
-        "types": [
-            "攻击单个目标",
-            "全体防御降低反射"
-        ],
-        "skill_types": [
-            "反射",
-            "狙击手"
-        ],
         "source": "三国召唤",
         "Release date": "2022-03-14",
         "specialId": "viper_blade",
@@ -127133,16 +108941,6 @@ window.allHeroes =
         "class": "野蛮人",
         "speed": "快速",
         "skill": "丈八熊矛",
-        "types": [
-            "攻击单个目标",
-            "单体持续伤害",
-            "全体防御降低反射"
-        ],
-        "skill_types": [
-            "持续伤害",
-            "反射",
-            "狙击手"
-        ],
         "source": "三国召唤",
         "Release date": "2024-10-29",
         "specialId": "viper_blade_costume_bear_slayer",
@@ -127210,16 +109008,6 @@ window.allHeroes =
         "class": "术士",
         "speed": "慢",
         "skill": "锦囊妙计",
-        "types": [
-            "全体反击小兵召唤者",
-            "召唤所有恶魔"
-        ],
-        "skill_types": [
-            "反击",
-            "召唤恶魔",
-            "召唤小兵",
-            "持续伤害"
-        ],
         "source": "三国召唤",
         "Release date": "2022-03-14",
         "specialId": "martial_masterstroke",
@@ -127274,16 +109062,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "慢",
         "skill": "战略制胜",
-        "types": [
-            "全体反击小兵召唤者",
-            "召唤所有恶魔"
-        ],
-        "skill_types": [
-            "召唤小兵",
-            "反击",
-            "召唤恶魔",
-            "持续伤害"
-        ],
         "source": "三国召唤",
         "Release date": "2024-05-28",
         "specialId": "triumph_of_strategy",
@@ -127347,16 +109125,6 @@ window.allHeroes =
         "class": "僧侣",
         "speed": "中等",
         "skill": "日曜遮蔽",
-        "types": [
-            "全体治疗",
-            "全体伤害减免",
-            "4个目标技能威力提升"
-        ],
-        "skill_types": [
-            "治疗",
-            "伤害减免",
-            "攻击增益"
-        ],
         "source": "星体召唤",
         "Release date": "2026-03-07",
         "specialId": "solar_shroud",
@@ -127417,16 +109185,6 @@ window.allHeroes =
         "class": "圣骑士",
         "speed": "慢",
         "skill": "黎明集结",
-        "types": [
-            "攻击所有目标",
-            "净化者",
-            "根据移除的异常状态数量触发全体攻击增益"
-        ],
-        "skill_types": [
-            "全体攻击 (打5)",
-            "攻击增益",
-            "净化"
-        ],
         "source": "神话召唤 - 月英",
         "Release date": "2024-01-01",
         "specialId": "dawnlight_rally",

@@ -137,20 +137,11 @@ skill_name_by_lang = {}
 
 SIMPLE_DICT_CONFIG = {
     'hero_names': 'heroes_name_dict', 
-    'types': 'types_dict', 
-    'skill_types': 'skill_types_dict',
     'heroes_name_fancy': 'heroes_name_fancy_dict',
     'aether_powers': 'aether_power_dict',
     'skill_types_cn': 'skill_types_cn_dict',
 }
 BASE_DICT_FILE_STEM = 'base_values_dict'
-
-SPECIAL_COSTUME_HEROES = {
-    "azar", "balthazar", "bane", "belith", "berden", "brienne", "carver",
-    "dawa", "friartuck", "ganju", "graymane", "gunnar", "hawkmoon",
-    "isshtak", "jahangir", "kailani", "karil", "nashgar", "oberon",
-    "prisca", "renfeld", "tyrum", "ulmer", "valen"
-}
 
 IGNORABLE_SUFFIXES = {'dark', 'holy', 'ice', 'nature', 'fire', 'red'}
 # 新增全局变量
@@ -519,10 +510,6 @@ def load_heroes_data_extra_cn():
                 break
         base_name_normalized = normalize_for_hero_name(base_name)
         suffix_out = ""
-        if base_name_normalized in SPECIAL_COSTUME_HEROES:
-            if suffix_in == " C2": suffix_out = " toon"
-            elif suffix_in == " C3": suffix_out = " glass"
-            elif suffix_in == " C4": suffix_out = " stylish"
         if not suffix_out:
             suffix_out = stats_suffix_map.get(suffix_in, "")
         corrected_name = f"{base_name}{suffix_out}".strip() if not suffix_out.startswith(' ') else f"{base_name}{suffix_out}"
@@ -648,8 +635,6 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             speed = 'slayer' if hero_family == 'slayer' else extra.get('speed')
             speed_trans = translate_single_value(speed, 'base_values')
             source_trans = translate_single_value(source_to_translate, 'source_values')
-            types_trans = translate_list(flatten_list(hero_data.get('types', [])), 'types')
-            skill_types_trans = translate_list(extra.get('skill_types', []), 'skill_types')
 
             raw_effects = flatten_list(hero_data.get('effects', []))
             formatted_effects = []
@@ -738,7 +723,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                 hero_entry = {
                     'name': name_trans[lang], 'fancy_name': fancy_name_trans[lang], 'AetherPower': aether_power_trans[lang],
                     'color': color_trans[lang], 'class': class_trans[lang], 'speed': speed_trans[lang],
-                    'skill': get_skill_name(extra.get('specialId'),lang), 'types': types_trans[lang], 'skill_types': skill_types_trans[lang],
+                    'skill': get_skill_name(extra.get('specialId'),lang), 
                     'source': source_trans[lang], **common_data, **lb_data
                 }
                 if cn_skill_info_for_hero:
@@ -756,18 +741,11 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                     
                     base_name_normalized = normalize_for_hero_name(hero_name_raw)
                     final_suffix = yml_suffix 
-                    if base_name_normalized in SPECIAL_COSTUME_HEROES:
-                        if yml_suffix == 'costume2': final_suffix = 'toon'
-                        elif yml_suffix == 'costume3': final_suffix = 'glass'
-                        elif yml_suffix == 'costume4': final_suffix = 'stylish'
-                    else:
-                        if yml_suffix == 'costume3': final_suffix = 'toon'
-                        elif yml_suffix == 'costume4': final_suffix = 'glass'
-                        elif yml_suffix == 'costume5': final_suffix = 'stylish'
+                    if yml_suffix == 'costume3': final_suffix = 'toon'
+                    elif yml_suffix == 'costume4': final_suffix = 'glass'
+                    elif yml_suffix == 'costume5': final_suffix = 'stylish'
 
                     costume_id = int(re.match(r'costume(\d*)', key).group(1) or 1)
-                    if base_name_normalized in SPECIAL_COSTUME_HEROES and costume_id >= 5:
-                        costume_id = costume_id - 1
                     yml_costume_full_name = f"{hero_name_raw} {final_suffix}".strip()
                     
                     extra_c = heroes_extra_lookup.get(normalize_for_hero_name(yml_costume_full_name), {})
@@ -787,8 +765,6 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                     fancy_name_trans_c = translate_single_value(extra_c.get('fancy name', ''), 'heroes_name_fancy')
                     aether_power_trans_c = translate_single_value(extra_c.get('AetherPower', ''), 'aether_powers')
                     class_trans_c = translate_single_value(extra_c.get('class'), 'base_values')
-                    types_trans_c = translate_list(flatten_list(costume_data.get('types', [])), 'types')
-                    skill_types_trans_c = translate_list(extra_c.get('skill_types', []), 'skill_types')
                     source_trans_c = source_trans
                     if hero_data.get('source') == 'season1':
                         source_trans_c = translate_single_value('costume', 'source_values')
@@ -881,7 +857,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                         hero_entry_c = {
                             'name': name_trans_c[lang], 'fancy_name': fancy_name_trans_c[lang], 'AetherPower': aether_power_trans_c[lang],
                             'color': color_trans[lang], 'class': class_trans_c[lang], 'speed': speed_trans[lang],
-                            'skill': get_skill_name(extra_c.get('specialId_costume'),lang), 'types': types_trans_c[lang], 'skill_types': skill_types_trans_c[lang],
+                            'skill': get_skill_name(extra_c.get('specialId_costume'),lang),
                             'source': source_trans_c[lang], **common_data_c, **lb_data_c
                         }
                         if cn_skill_info_for_costume:
@@ -928,8 +904,6 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             class_trans = translate_single_value(extra.get('class', ''), 'base_values')
             speed_trans = translate_single_value(extra.get('speed', ''), 'base_values')
             source_trans = translate_single_value(hero_data.get('source', ''), 'source_values')
-            types_trans = translate_list(hero_data.get('types', []), 'types')
-            skill_types_trans = translate_list(hero_data.get('skill_types', []), 'skill_types')
             
             raw_effects_extra = hero_data.get('effects', [])
             formatted_effects_extra = []
@@ -978,7 +952,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                 hero_entry = {
                     'name': name_trans[lang], 'fancy_name': fancy_name_trans[lang], 'AetherPower': aether_power_trans[lang],
                     'color': color_trans[lang], 'class': class_trans[lang], 'speed': speed_trans[lang],
-                    'skill': get_skill_name(hero_data.get('specialId'),lang), 'types': types_trans[lang], 'skill_types': skill_types_trans[lang],
+                    'skill': get_skill_name(hero_data.get('specialId'),lang), 
                     'source': source_trans[lang], **common_data, **lb_data
                 }
                 if cn_skill_info_for_extra_hero:
@@ -1129,7 +1103,6 @@ def append_missing_heroes_to_extra_data(missing_heroes_list, file_path):
                 "rarity": hero_info.get("star", 0),
                 "Release date": matched_hero.get("Release date", ""),
                 "AetherPower": "",
-                "skill_types": [],
                 "heroId": matched_hero.get("heroId", ""),
                 "family": matched_hero.get("family", ""),
             }
@@ -1155,7 +1128,6 @@ def append_missing_heroes_to_extra_data(missing_heroes_list, file_path):
                 "rarity": hero_info.get("star", 0),
                 "Release date": "",
                 "AetherPower": "",
-                "skill_types": [],
                 "heroId": hero_id
             })
             logging.info(f"使用默认方式添加英雄: '{name}'")
@@ -1277,8 +1249,8 @@ def append_missing_heroes_to_cn_skill_data(missing_names_list, file_path):
             suffix_raw = parts[-1].lower()
             suffix_map = {
                 "costume": " C", "costume1": " C", 
-                "costume2": " C2", "toon": " C3", 
-                "costume3": " C3", "glass": " C4", "stylish": " C5"
+                "costume2": " C2", "toon": " Toon", 
+                "glass": " Glass", "stylish": " Stylish"
             }
             # 特殊英雄的 C2/C3 映射可能不同，这里简化处理，尽量匹配现有 key 格式
             return f"{base}{suffix_map.get(suffix_raw, '')}"

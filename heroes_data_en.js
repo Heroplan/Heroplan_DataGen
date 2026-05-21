@@ -8,12 +8,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Fierce Slash",
-        "types": [
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "fierce_slash",
@@ -53,12 +47,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Hacking Attack",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "hacking_attack",
@@ -98,12 +86,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Defensive Tactics",
-        "types": [
-            "Defense Buff"
-        ],
-        "skill_types": [
-            "Buffers (DEF)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "defensive_tactics",
@@ -143,12 +125,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Fierce Slash",
-        "types": [
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "fierce_slash",
@@ -188,12 +164,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Attack Rally",
-        "types": [
-            "Attack Buff"
-        ],
-        "skill_types": [
-            "Buffers (ATK)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "attack_rally",
@@ -233,19 +203,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Very Slow",
         "skill": "Astral Provocation",
-        "types": [
-            "Taunt",
-            "Attack Debuff All",
-            "Defense Debuff All",
-            "Mana Generation Debuff All"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Taunters",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Astral Summon",
         "Release date": "2025-10-23",
         "specialId": "astral_provocation",
@@ -309,16 +266,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Sewing Back Together",
-        "types": [
-            "HoT All",
-            "Reviver"
-        ],
-        "skill_types": [
-            "Heal over Time (HoT)",
-            "Revivers",
-            "Minions Counters",
-            "Status Effect Conversion"
-        ],
         "source": "Tower - Magic",
         "Release date": "2025-04-17",
         "specialId": "sewing_back_together",
@@ -385,18 +332,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Goat Rush",
-        "types": [
-            "Hit 3",
-            "Mana Increase 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Bypassers",
-            "Extra Damage Dealers",
-            "Mana Raisers",
-            "DoT Attackers",
-            "Debuffers (ATK)"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-08-26",
         "specialId": "goat_rush",
@@ -458,16 +393,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Cabbage Barrage",
-        "types": [
-            "Hit 1",
-            "Attack Debuff 1"
-        ],
-        "skill_types": [
-            "Fiends Summoners",
-            "Snipers",
-            "Extra Damage Dealers",
-            "Debuffers (ATK)"
-        ],
         "source": "Challenge - Vigilant Vegetables Summon",
         "Release date": "2026-02-04",
         "specialId": "cabbage_barrage",
@@ -537,14 +462,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Compact Lance",
-        "types": [
-            "Hit All",
-            "Attack Debuff Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Monthly Event - Springvale",
         "Release date": "",
         "specialId": "compact_lance",
@@ -596,19 +513,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Hunting Ballad",
-        "types": [
-            "Summoner 3",
-            "Minions with Mana Reduction Hit",
-            "Special Skill Defense Buff",
-            "Cleanser 3"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Cleansers",
-            "DoT Attackers",
-            "Minions Summoners",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2022-08-25",
         "specialId": "hunting_ballad",
@@ -674,14 +578,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Joyful Backup",
-        "types": [
-            "Healer All",
-            "Summoner All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Minions Summoners"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2020-12-01",
         "specialId": "northern_wanderer",
@@ -733,14 +629,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Swamp Slash",
-        "types": [
-            "Hit 1",
-            "Debuff Immunity 3"
-        ],
-        "skill_types": [
-            "Immunity Providers",
-            "Snipers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "jungle_slash",
@@ -792,14 +680,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Wolf Bite",
-        "types": [
-            "Hit 1",
-            "Heal Self"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "wolf_bite",
@@ -851,16 +731,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Raccoon Bite",
-        "types": [
-            "Hit 1",
-            "Ailments Immunity Buff Self",
-            "Attack Buff Self"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Immunity Providers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "raccoon_bite",
@@ -916,15 +786,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Toon Bite",
-        "types": [
-            "Hit 1",
-            "Heal Self"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Snipers",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-04-08",
         "specialId": "toon_bite",
@@ -984,16 +845,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Glass Bite",
-        "types": [
-            "Hit 1",
-            "Bypass",
-            "Heal Self"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Healers (Special)",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-06-18",
         "specialId": "glass_bite",
@@ -1053,13 +904,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Guardian Armor",
-        "types": [
-            "Heal all"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Healers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "specialId": "guardian_armor",
@@ -1111,14 +955,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Spirit Link",
-        "types": [
-            "Ally Damage Share",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Damage Sharers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "stone_skin",
@@ -1166,14 +1002,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Steel Link",
-        "types": [
-            "Enemy Damage Share",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "Damage Sharers",
-            "Debuffers (DEF)"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "shadow_link",
@@ -1227,14 +1055,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Toon Link",
-        "types": [
-            "Ally Damage Share",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Damage Sharers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-09-08",
         "specialId": "toon_link",
@@ -1288,17 +1108,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Glass Link",
-        "types": [
-            "Ally Damage Share",
-            "Defense Buff All",
-            "Reflect Ailments for Ice Allies",
-            "Reflect Stacks for Ice Allies"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Damage Sharers",
-            "Reflectors"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-11-25",
         "specialId": "glass_stone_skin_gunnar",
@@ -1354,14 +1163,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Healthiest Catch",
-        "types": [
-            "Healer All",
-            "Clean All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Healers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "healthiest_catch",
@@ -1417,14 +1218,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Fishiest Pastry",
-        "types": [
-            "HoT All",
-            "Clean All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Heal over Time (HoT)"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2023-12-07",
         "specialId": "sublime_pastry",
@@ -1482,15 +1275,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Disabling Decree",
-        "types": [
-            "Hit 1",
-            "Buff Immunity Debuff 1",
-            "Damage 1 on each attempted buff"
-        ],
-        "skill_types": [
-            "Buff Blockers",
-            "Snipers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "disabling_decree",
@@ -1548,15 +1332,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Disabling Study",
-        "types": [
-            "Hit 1",
-            "Buff Immunity Debuff 1",
-            "Damage 1 on each attempted buff"
-        ],
-        "skill_types": [
-            "Buff Blockers",
-            "Snipers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2025-03-17",
         "specialId": "disabling_study",
@@ -1621,15 +1396,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Jab and Hook",
-        "types": [
-            "Hit 1",
-            "Attack Buff Stack Self"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Snipers",
-            "Stacking Heroes"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "jab_and_hook",
@@ -1681,16 +1447,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Arrows of Fury",
-        "types": [
-            "Dispeller All",
-            "Hit All",
-            "Buff Immunity All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buff Blockers",
-            "Dispellers"
-        ],
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "arrows_of_fury",
@@ -1752,16 +1508,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Arrows of Frost",
-        "types": [
-            "Dispeller All",
-            "Hit All",
-            "Buff Immunity All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buff Blockers",
-            "Dispellers"
-        ],
         "source": "Monthly Event - Kalevala",
         "Release date": "2025-07-28",
         "specialId": "arrows_of_frost",
@@ -1825,12 +1571,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Ramming Rush",
-        "types": [
-            "Hit 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "ramming_rush",
@@ -1876,14 +1616,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Forge Rush",
-        "types": [
-            "Hit 3",
-            "DoT 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "forge_rush",
@@ -1938,13 +1670,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Toontastic Rush",
-        "types": [
-            "Hit 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-06-28",
         "specialId": "adorable_ramming_rush",
@@ -2002,14 +1727,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Glass Rush",
-        "types": [
-            "Hit 3",
-            "Bypass"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Bypassers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-08-10",
         "specialId": "glass_ramming_rush",
@@ -2067,12 +1784,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Bolanggu Blessing",
-        "types": [
-            "Healer Nearby",
-            "Full Removal Self",
-            "Vengeful Ghost Self"
-        ],
-        "skill_types": [],
         "source": "Three Kingdoms Summon",
         "Release date": "2026-05-21",
         "specialId": "bolanggu_blessing",
@@ -2121,14 +1832,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Frosty Axes",
-        "types": [
-            "Hit 3",
-            "Elemental Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "",
         "specialId": "frosty_axes",
@@ -2180,14 +1883,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Icy Axes",
-        "types": [
-            "Hit 3",
-            "Elemental Defense Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2023-04-10",
         "specialId": "icy_axes",
@@ -2241,11 +1936,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Toon Axes",
-        "types": [
-            "Hit 3",
-            "Elemental Defense Debuff 3"
-        ],
-        "skill_types": [],
         "source": "S3 - Valhalla",
         "Release date": "2026-04-29",
         "specialId": "toon_axes",
@@ -2293,16 +1983,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Piercing Practice Slash",
-        "types": [
-            "Minion Destroyer 1",
-            "Hit 1",
-            "Self HoT"
-        ],
-        "skill_types": [
-            "Heal over Time (HoT)",
-            "Minions Counters",
-            "Snipers"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2023-03-08",
         "specialId": "piercing_practice_slash",
@@ -2360,16 +2040,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Adventurer's Slash",
-        "types": [
-            "Minion Destroyer 1",
-            "Hit 1",
-            "Boosted HoT Self"
-        ],
-        "skill_types": [
-            "Heal over Time (HoT)",
-            "Minions Counters",
-            "Snipers"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2026-02-20",
         "specialId": "adventurers_slash",
@@ -2431,14 +2101,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Faithful Force",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Extra Damage Dealers",
-            "Damage Reducers"
-        ],
         "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "specialId": "faithful_force",
@@ -2494,20 +2156,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Dance of the Little Swan",
-        "types": [
-            "Self HoT",
-            "Self Dodge Buff",
-            "Dance of the Little Swan 4",
-            "Dodge Buff 4",
-            "Status Effect Immunity 4"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Dancers",
-            "Dodgers",
-            "Heal over Time (HoT)",
-            "Immunity Providers"
-        ],
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-01-25",
         "specialId": "dance_of_the_little_swan",
@@ -2572,14 +2220,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Blizzard",
-        "types": [
-            "Hit All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (DEF)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "cold_blast",
@@ -2631,14 +2271,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Whiteout",
-        "types": [
-            "Hit All",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (ATK)"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "whiteout",
@@ -2692,15 +2324,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Toon Blizzard",
-        "types": [
-            "Hit All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (DEF)",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-07-16",
         "specialId": "adorable_cold_blast",
@@ -2764,16 +2387,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Glass Blizzard",
-        "types": [
-            "Hit All",
-            "Bypass",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (DEF)",
-            "Bypassers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-10-09",
         "specialId": "glass_cold_blast_ulmer",
@@ -2837,14 +2450,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Chilling Slash",
-        "types": [
-            "Hit 1",
-            "Defense Debuff 1"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "chilling_slash",
@@ -2896,14 +2501,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Thrilling Clash",
-        "types": [
-            "Hit 1",
-            "Attack Buff Self"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "thrilling_clash",
@@ -2957,15 +2554,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Toon Slash",
-        "types": [
-            "Hit 1",
-            "Defense Debuff 1"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "Extra Damage Dealers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-12-25",
         "specialId": "toon_slash",
@@ -3029,16 +2617,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Glass Slash",
-        "types": [
-            "Hit 1",
-            "Bypass",
-            "Defense Debuff 1"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "Snipers",
-            "Bypassers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-12-11",
         "specialId": "glass_slash",
@@ -3102,16 +2680,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Styx",
         "skill": "Poet's Protection",
-        "types": [
-            "Charge",
-            "Healer",
-            "Elemental Defense Buff"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Healers",
-            "Minions Counters"
-        ],
         "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "specialId": "poets_protection",
@@ -3179,13 +2747,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Trident Lunge",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Extra Damage Dealers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "destructive_strike",
@@ -3237,16 +2798,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Sword of Wei",
-        "types": [
-            "Hit 3",
-            "Summoner Self",
-            "Minion Dispels on hit"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Dispellers",
-            "Minions Summoners"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "sword_of_wei",
@@ -3304,14 +2855,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Rogue Wave",
-        "types": [
-            "Hit All",
-            "Elemental Defense Buff"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (DEF)"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "tidal_wave",
@@ -3363,14 +2906,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Spilled Decoctions",
-        "types": [
-            "Hit All",
-            "DoT All Nature"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2023-03-06",
         "specialId": "spilled_decoctions",
@@ -3425,11 +2960,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Toon Wave",
-        "types": [
-            "Hit All",
-            "Elemental Defense Buff All"
-        ],
-        "skill_types": [],
         "source": "S2 - Atlantis",
         "Release date": "2026-04-29",
         "specialId": "toon_wave",
@@ -3477,14 +3007,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Changing Tides",
         "skill": "Close Order Formation",
-        "types": [
-            "Taunt",
-            "Delayed Damage All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Taunters"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-09-27",
         "specialId": "close_order_formation",
@@ -3547,14 +3069,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Changing Tides",
         "skill": "Impervious Formation",
-        "types": [
-            "Taunt",
-            "Delayed Damage All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Taunters"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-05-28",
         "specialId": "impervious_formation",
@@ -3622,14 +3136,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Counterstance",
-        "types": [
-            "Heal All",
-            "Counterattack 3"
-        ],
-        "skill_types": [
-            "Counterattackers",
-            "Healers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "counterstance",
@@ -3687,16 +3193,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Dance Stance",
-        "types": [
-            "Heal All",
-            "Counterattack 3"
-        ],
-        "skill_types": [
-            "Healers",
-            "Counterattackers",
-            "Health Boosters",
-            "Cleansers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2024-06-24",
         "specialId": "dancestance",
@@ -3761,15 +3257,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Frost and Rime",
-        "types": [
-            "Hit 3",
-            "Defense Debuff"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Buffers (DEF)"
-        ],
         "source": "Covenant Summon",
         "Release date": "2024-04-25",
         "specialId": "frost_and_rime",
@@ -3836,12 +3323,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Perfect Riposte",
-        "types": [
-            "Counterattack 3"
-        ],
-        "skill_types": [
-            "Counterattackers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "perfect_riposte",
@@ -3888,12 +3369,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Sturdy Riposte",
-        "types": [
-            "Counterattack All"
-        ],
-        "skill_types": [
-            "Counterattackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "sturdy_riposte",
@@ -3941,12 +3416,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Unrelenting Riposte",
-        "types": [
-            "Counterattack All"
-        ],
-        "skill_types": [
-            "Counterattackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-11-27",
         "specialId": "unrelenting_riposte",
@@ -3994,12 +3463,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Toon Riposte",
-        "types": [
-            "Counterattack 3"
-        ],
-        "skill_types": [
-            "Counterattackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-09-08",
         "specialId": "toon_riposte",
@@ -4051,14 +3514,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Glass Riposte",
-        "types": [
-            "Counterattack 3",
-            "Reflect Ailments for Ice Allies",
-            "Reflect Stacks for Ice Allies"
-        ],
-        "skill_types": [
-            "Counterattackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-10-09",
         "specialId": "glass_riposte_boril",
@@ -4111,18 +3566,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Trial of the Waters",
-        "types": [
-            "Hit All",
-            "Defense Buff All",
-            "HoT"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (DEF)",
-            "Heal over Time (HoT)",
-            "Extra Damage Dealers",
-            "Bypassers"
-        ],
         "source": "Challenge - Beowulf",
         "Release date": "2025-12-06",
         "specialId": "trial_of_the_waters",
@@ -4189,16 +3632,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Pest Control",
-        "types": [
-            "Minion Destroyer 1",
-            "Hit 1",
-            "Chain Hit"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Minions Counters",
-            "Snipers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "pest_control",
@@ -4252,14 +3685,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Surprise Goo!",
-        "types": [
-            "Health Boost 3",
-            "Sticky Surface Buff 3"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Buff Stealers"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-07-31",
         "specialId": "surprise_goo",
@@ -4318,18 +3743,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Iceberg Aura",
-        "types": [
-            "Frostfall Ward 3",
-            "Attack Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Damage Reducers",
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Minions Counters",
-            "Debuffers (ATK)"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-05-16",
         "specialId": "iceberg_aura",
@@ -4385,16 +3798,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Potions of Havoc and Healing",
-        "types": [
-            "Minion Destroyer All",
-            "Dispeller All",
-            "Healer"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Heal over Time (HoT)",
-            "Minions Counters"
-        ],
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-07-13",
         "specialId": "potions_of_havoc_and_healing",
@@ -4458,15 +3861,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Undead Razer",
-        "types": [
-            "Hit All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (DEF)",
-            "Extra Damage Dealers"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "2020-10-26",
         "specialId": "undead_razer",
@@ -4528,18 +3922,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Undead Obliterator",
-        "types": [
-            "Hit All",
-            "DoT Stack All",
-            "Mana Generation Debuff Stack All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Mana Reducers or Blockers",
-            "Stacking Heroes"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "2021-10-04",
         "specialId": "undead_obliteration",
@@ -4612,16 +3994,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "The Mighty Crescendo",
-        "types": [
-            "Hit 1",
-            "Board Alterer"
-        ],
-        "skill_types": [
-            "Board Alterers",
-            "Mana Generation Buffers",
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2022-12-01",
         "specialId": "the_mighty_crescendo",
@@ -4677,16 +4049,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Scale of the Newt",
-        "types": [
-            "Hit All",
-            "Sword Guard Mega Minion",
-            "Spreading DoT Minion"
-        ],
-        "skill_types": [
-            "Mega Minions Summoners",
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2024-04-15",
         "specialId": "scale_of_the_newt",
@@ -4751,14 +4113,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Ramming Pulverizer",
-        "types": [
-            "Hit 3",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "ramming_pulverizer",
@@ -4810,14 +4164,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Merciless Pulverizer",
-        "types": [
-            "Hit 3",
-            "Attack Buff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buffers (ATK)"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "merciless_pulverizer",
@@ -4871,14 +4217,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Postal Pulverizer",
-        "types": [
-            "Hit 3",
-            "SS Damage Buff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buffers (ATK)"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-06-12",
         "specialId": "postal_pulverizer",
@@ -4932,15 +4270,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Toonpower Pulverizer",
-        "types": [
-            "Hit 3",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-12-25",
         "specialId": "toonpower_pulverizer",
@@ -5004,16 +4333,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Glass Pulverizer",
-        "types": [
-            "Hit 3",
-            "Bypass",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Bypassers",
-            "Debuffers (DEF)"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-12-25",
         "specialId": "glass_pulverizer",
@@ -5077,15 +4396,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Stylish Pulverizer",
-        "types": [
-            "Hit 3",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers",
-            "Debuffers (DEF)"
-        ],
         "source": "Costume Quest",
         "Release date": "2026-01-07",
         "specialId": "stylish_pulverizer",
@@ -5149,17 +4459,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Slow",
         "skill": "Moon Boomerang",
-        "types": [
-            "Softskin 4",
-            "HoT All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Damage Reducers",
-            "Heal over Time (HoT)",
-            "Cleansers",
-            "Immunity Providers"
-        ],
         "source": "Challenge - Gargoyle",
         "Release date": "2024-05-16",
         "specialId": "moon_boomerang",
@@ -5221,16 +4520,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Ice Boom",
-        "types": [
-            "Hit All",
-            "Board Alterer"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Board Alterers",
-            "Debuffers (ATK)",
-            "Buffers (ATK)"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "ice_boom",
@@ -5282,16 +4571,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Blessed Brew",
-        "types": [
-            "Healer All",
-            "Attack Buff All",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Buffers (DEF)",
-            "Healers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "blessed_brew",
@@ -5345,16 +4624,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Blessed Solo",
-        "types": [
-            "Healer All",
-            "Attack Debuff All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "Debuffers (ATK)",
-            "Debuffers (DEF)",
-            "Healers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "blessed_solo",
@@ -5410,16 +4679,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Blessed Tankard",
-        "types": [
-            "Boosted Heal All",
-            "Defense Buff All",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Debuffers (ATK)",
-            "Health Boosters"
-        ],
         "source": "Costume Quest",
         "Release date": "2022-10-31",
         "specialId": "blessed_tankard",
@@ -5479,16 +4738,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Toon Brew",
-        "types": [
-            "Healer All",
-            "Attack Buff All",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Buffers (DEF)",
-            "Healers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-02-12",
         "specialId": "toon_brew",
@@ -5548,19 +4797,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Glass Brew",
-        "types": [
-            "Healer All",
-            "Attack Buff All",
-            "Defense Buff All",
-            "Reflect Ailments for Ice Allies",
-            "Reflect Stacks for Ice Allies"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Buffers (DEF)",
-            "Healers",
-            "Reflectors"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-03-11",
         "specialId": "glass_brew",
@@ -5622,16 +4858,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Stylish Appetizer",
-        "types": [
-            "Healer All",
-            "Attack Buff All",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Buffers (ATK)",
-            "Buffers (DEF)"
-        ],
         "source": "Costume Quest",
         "Release date": "2026-03-12",
         "specialId": "stylish_appetizer",
@@ -5691,19 +4917,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Jungle Riposte",
-        "types": [
-            "Defense Buff All",
-            "Reflect Ailments All",
-            "Reflect Stacks All",
-            "Attack Buff Stack Self"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "DoT Attackers",
-            "Reflectors",
-            "Stacking Heroes",
-            "Buffers (ATK)"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2023-05-06",
         "specialId": "jungle_riposte",
@@ -5759,18 +4972,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Frenzied Rend",
-        "types": [
-            "Hit 3",
-            "Insanity 3",
-            "DoT 3",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Negative Effects On Self Or Allies",
-            "Mindless Attack & Mindless Heal"
-        ],
         "source": "Shadow Summon",
         "Release date": "2025-09-09",
         "specialId": "frenzied_rend",
@@ -5830,14 +5031,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Shackles of the Sea",
-        "types": [
-            "Hit 1 / 3 / All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "AoE Attackers (Hit-5)",
-            "Snipers"
-        ],
         "source": "Super Elementals",
         "Release date": "2023-09-11",
         "specialId": "shackles_of_the_sea",
@@ -5899,15 +5092,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Very Fast",
         "skill": "Chain of Pain",
-        "types": [
-            "Hit 3",
-            "Attack Buff Stack Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buffers (ATK)",
-            "Stacking Heroes"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "",
         "specialId": "chain_of_pain",
@@ -5959,16 +5143,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Ill-Fated Experiment",
-        "types": [
-            "Hit 1",
-            "Mana reducer"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "Mana Reducers or Blockers",
-            "Snipers",
-            "Bypassers"
-        ],
         "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "specialId": "ill_fated_experiment",
@@ -6031,16 +5205,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Charge",
         "skill": "Iron Discipline Cut",
-        "types": [
-            "Hit 1",
-            "Defense Debuff 1"
-        ],
-        "skill_types": [
-            "Minions Counters",
-            "Snipers",
-            "Debuffers (DEF)",
-            "Mana Raisers"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2024-09-24",
         "specialId": "iron_discipline_cut",
@@ -6109,18 +5273,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Blade of Betrayal",
-        "types": [
-            "Hit 1",
-            "Hit Growth Boon",
-            "Buff Immunity 1"
-        ],
-        "skill_types": [
-            "Minions Counters",
-            "Ability Scores Modifiers",
-            "Extra Damage Dealers",
-            "Snipers",
-            "Buff Blockers"
-        ],
         "source": "Temple Summon",
         "Release date": "2025-11-17",
         "specialId": "blade_of_betrayal",
@@ -6186,14 +5338,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Valkyrie's Fortitude",
-        "types": [
-            "Boosted Healer 3",
-            "Elemental Defense Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Health Boosters"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "valkyries_fortitude",
@@ -6245,17 +5389,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Charge",
         "skill": "From Shadows",
-        "types": [
-            "Charge",
-            "Hit 1/3/All",
-            "Bypass chance"
-        ],
-        "skill_types": [
-            "Snipers",
-            "AoE Attackers (Hit-3)",
-            "AoE Attackers (Hit-5)",
-            "Bypassers"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "specialId": "from_shadows",
@@ -6314,14 +5447,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Piercing Strike",
-        "types": [
-            "Hit 1",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "piercing_strike",
@@ -6373,14 +5498,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Purifying Strike",
-        "types": [
-            "Hit 1",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "purifying_strike",
@@ -6434,14 +5551,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Wrenching Strike",
-        "types": [
-            "Hit 1",
-            "Buff Immunity Debuff All"
-        ],
-        "skill_types": [
-            "Buff Blockers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-11-27",
         "specialId": "wrenching_strike",
@@ -6495,15 +5604,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Toonpower Strike",
-        "types": [
-            "Hit 1",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Extra Damage Dealers",
-            "Dispellers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-07-16",
         "specialId": "adorable_piercing_strike",
@@ -6567,16 +5667,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Glass Strike",
-        "types": [
-            "Hit 1",
-            "Bypass",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Bypassers",
-            "Dispellers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-08-10",
         "specialId": "glass_piercing_strike",
@@ -6640,14 +5730,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Trident Throw",
-        "types": [
-            "Hit 1",
-            "Healing Buff All"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Snipers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "heroic_noble",
@@ -6699,14 +5781,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Herculean Throw",
-        "types": [
-            "Hit 3",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buffers (ATK)"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2023-04-03",
         "specialId": "herculean_throw",
@@ -6760,11 +5834,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Toon Trident",
-        "types": [
-            "Hit 1",
-            "Healing Buff All"
-        ],
-        "skill_types": [],
         "source": "S2 - Atlantis",
         "Release date": "2026-04-29",
         "specialId": "toon_trident",
@@ -6812,17 +5881,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Very Fast",
         "skill": "Dusk of Sorrow",
-        "types": [
-            "Hit 1",
-            "DoT 1",
-            "Healing Steal 1"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Healers (Special)",
-            "Healing Reducers",
-            "Snipers"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "",
         "specialId": "queens_blood_poisoning",
@@ -6880,16 +5938,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Qilin Blade",
-        "types": [
-            "Hit 1",
-            "Summoner 3",
-            "Minion Dispels on hit"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Minions Summoners",
-            "Snipers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "qilin_blade",
@@ -6947,14 +5995,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Fishbone Blades",
-        "types": [
-            "Hit 2",
-            "Defense Debuff 2"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "Snipers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "fishbone_blades",
@@ -7010,14 +6050,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Aquatic Dance",
-        "types": [
-            "Hit 2",
-            "Defense Debuff 2"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "Snipers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2024-01-04",
         "specialId": "aquatic_dance",
@@ -7075,17 +6107,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Hunting Charge",
-        "types": [
-            "Hit 3",
-            "Fiend Summoner 3",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "DoT Attackers",
-            "Fiends Summoners"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2022-09-18",
         "specialId": "hunting_charge",
@@ -7150,17 +6171,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Icy Resilience",
-        "types": [
-            "Ally Damage Share",
-            "Defense Buff All",
-            "Heal on damage dealt All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Damage Sharers",
-            "Healers (Special)",
-            "Heal over Time (HoT)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-10-01",
         "specialId": "icy_resilience",
@@ -7215,17 +6225,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Glacial Resilience",
-        "types": [
-            "Share Damage All",
-            "Defense Buff All",
-            "HoT All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Damage Sharers",
-            "Heal over Time (HoT)",
-            "Cleansers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-01-23",
         "specialId": "glacial_resilience",
@@ -7286,20 +6285,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Craving Nip",
-        "types": [
-            "Hit 1",
-            "Damage Boosted Heal All",
-            "Mimic Chest"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Healers (Special)",
-            "Health Boosters",
-            "Mana Raisers",
-            "Immunity Providers",
-            "Ghost Form & Hiding",
-            "Bypassers"
-        ],
         "source": "Bazaar Summon",
         "Release date": "2025-12-12",
         "specialId": "aether_mimic_bite_blue",
@@ -7375,16 +6360,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Summer Carol",
-        "types": [
-            "Cleanser All",
-            "Heal All",
-            "Mana Generation Debuff All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Healers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "summer_carol",
@@ -7442,16 +6417,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Anthem of the Lake",
-        "types": [
-            "Cleanser All",
-            "Healer All",
-            "Mana Generation Debuff All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Healers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Monthly Event - Kalevala",
         "Release date": "2023-08-07",
         "specialId": "anthem_of_the_lake",
@@ -7511,16 +6476,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Spirit Arrow",
-        "types": [
-            "Hit 1",
-            "Mana Generation Debuff 3"
-        ],
-        "skill_types": [
-            "Mana Reducers or Blockers",
-            "Snipers",
-            "Buffers (ATK)",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-05-01",
         "specialId": "spirit_arrow",
@@ -7573,18 +6528,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Arrow of Nujalik",
-        "types": [
-            "Hit 3",
-            "Mana Reduction 3",
-            "Mana Generation Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Mana Reducers or Blockers",
-            "Buffers (ATK)",
-            "Buffers (DEF)",
-            "Cleansers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-12-23",
         "specialId": "arrow_of_nujalik",
@@ -7649,17 +6592,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Shimmering Shield",
-        "types": [
-            "Heal All",
-            "Board Alterer"
-        ],
-        "skill_types": [
-            "Board Alterers",
-            "Buffers (ATK)",
-            "Debuffers (ATK)",
-            "Healers",
-            "Healers (Special)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-09-01",
         "specialId": "shimmering_shield",
@@ -7725,14 +6657,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Timeless Timepiece",
-        "types": [
-            "Hit 1",
-            "Attack Debuff 1"
-        ],
-        "skill_types": [
-            "Debuffers (ATK)",
-            "Snipers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "timeless_timepiece",
@@ -7784,18 +6708,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Styx",
         "skill": "Tidal Force",
-        "types": [
-            "Charge",
-            "Hit All",
-            "Healing debuff All",
-            "Fiend Summoner All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Fiends Summoners",
-            "Healing Reducers",
-            "DoT Attackers"
-        ],
         "source": "Tower - Styx",
         "Release date": "2023-07-19",
         "specialId": "tidal_force",
@@ -7869,17 +6781,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Astral Orb",
-        "types": [
-            "Hit random 5",
-            "Astral Orb to hit enemies"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Buff Blockers",
-            "Extra Damage Dealers",
-            "DoT Attackers",
-            "Bypassers"
-        ],
         "source": "Astral Summon",
         "Release date": "2025-11-02",
         "specialId": "astral_orb",
@@ -7950,21 +6851,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Saga of Deliverance",
-        "types": [
-            "Minion Destroyer All",
-            "Fiend Destroyer All",
-            "Firestorm Ward All",
-            "Mana Generation Buff All"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Fiends Counters",
-            "Extra Damage Dealers",
-            "Minions Counters",
-            "Mana Generation Buffers",
-            "Damage Reducers",
-            "Debuffers (DEF)"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-28",
         "specialId": "saga_of_deliverance",
@@ -8028,21 +6914,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Saga of Restoration",
-        "types": [
-            "Minion Destroyer All",
-            "Fiend Destroyer All",
-            "Minion Immunity Debuff All",
-            "Fiend Immunity Buff All",
-            "Firestorm Ward All"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Fiends Counters",
-            "Extra Damage Dealers",
-            "Minions Counters",
-            "Damage Reducers",
-            "Debuffers (DEF)"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2026-03-14",
         "specialId": "saga_of_restoration",
@@ -8114,14 +6985,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Radiant Comeback",
-        "types": [
-            "Counterattack All",
-            "Mana on Counterattack All Ice"
-        ],
-        "skill_types": [
-            "Counterattackers",
-            "Mana Raisers"
-        ],
         "source": "Super Elementals",
         "Release date": "2023-01-30",
         "specialId": "radiant_comeback",
@@ -8177,16 +7040,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Radiant Shackles",
-        "types": [
-            "Counterattack All",
-            "Mana on Counterattack All Ice",
-            "Damage Reduction All"
-        ],
-        "skill_types": [
-            "Counterattackers",
-            "Mana Raisers",
-            "Damage Reducers"
-        ],
         "source": "Super Elementals",
         "Release date": "2026-01-02",
         "specialId": "radiant_shackles",
@@ -8249,17 +7102,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Radiating Frost",
-        "types": [
-            "Hit 1",
-            "Chain Hit",
-            "DoT 1"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "DoT Attackers",
-            "Snipers",
-            "Mana Generation Buffers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-09-01",
         "specialId": "radiating_frost",
@@ -8321,16 +7163,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Divine Protection",
-        "types": [
-            "Healer All",
-            "Mana Generation Buff All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Healers",
-            "Mana Generation Buffers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "divine_protection",
@@ -8388,16 +7220,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Deep Sea Ritual",
-        "types": [
-            "Boost Health All",
-            "MoT All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Health Boosters",
-            "Mana Raisers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2021-11-15",
         "specialId": "deep_sea_ritual",
@@ -8457,12 +7279,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Toontastic Protection",
-        "types": [
-            "Healer All",
-            "Mana Generation Buff All",
-            "Cleanser All"
-        ],
-        "skill_types": [],
         "source": "S2 - Atlantis",
         "Release date": "2026-04-29",
         "specialId": "toontastic_protection",
@@ -8510,16 +7326,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Frostbite",
-        "types": [
-            "Dispeller",
-            "Health Reduction",
-            "DoT All"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Max Health Reducers",
-            "DoT Attackers"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2024-04-10",
         "specialId": "frostbite",
@@ -8582,20 +7388,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Gorging Chew",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Mimic Chest"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Minions Counters",
-            "AoE Attackers (Hit-3)",
-            "Mana Raisers",
-            "Immunity Providers",
-            "Ghost Form & Hiding",
-            "Bypassers"
-        ],
         "source": "Bazaar Summon",
         "Release date": "2025-07-26",
         "specialId": "gorging_chew_blue",
@@ -8681,19 +7473,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Portents of Future",
-        "types": [
-            "Hit All",
-            "Enhanced Defense Ailment All",
-            "Mana Reduction All",
-            "Delayed Mana Boost All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (DEF)",
-            "Mana Raisers",
-            "Mana Reducers or Blockers",
-            "Minions Counters"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2025-02-21",
         "specialId": "portents_of_future",
@@ -8765,17 +7544,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Athena's Bow",
-        "types": [
-            "Hit 3",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Extra Damage Dealers",
-            "Buffers (ATK)",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-07-01",
         "specialId": "athenas_bow",
@@ -8834,18 +7602,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Athena's Arrow",
-        "types": [
-            "Hit 3",
-            "Defense Debuff 3",
-            "Elemental Defense Debuff All Fire"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Dispellers",
-            "Buffers (ATK)",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-12-23",
         "specialId": "athenas_arrow",
@@ -8906,19 +7662,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Changing Tides",
         "skill": "Aphotic Maw",
-        "types": [
-            "DoT All",
-            "Attack Debuff DoT",
-            "Mana Steal All"
-        ],
-        "skill_types": [
-            "Debuffers (ATK)",
-            "DoT Attackers",
-            "Mana Raisers",
-            "Mana Reducers or Blockers",
-            "Extra Damage Dealers",
-            "Minions Counters"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-11-22",
         "specialId": "aphotic_maw",
@@ -8988,19 +7731,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Changing Tides",
         "skill": "Aphotic Whisper",
-        "types": [
-            "DoT All",
-            "Attack Debuff DoT",
-            "Mana Steal All"
-        ],
-        "skill_types": [
-            "Debuffers (ATK)",
-            "DoT Attackers",
-            "Mana Raisers",
-            "Mana Reducers or Blockers",
-            "Extra Damage Dealers",
-            "Minions Counters"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-11-21",
         "specialId": "aphotic_whisper",
@@ -9075,16 +7805,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Charge",
         "skill": "Light Grenades",
-        "types": [
-            "Charge",
-            "Hit 3",
-            "Blind 3",
-            "Damage Random Ally Debuff on miss 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2023-05-31",
         "specialId": "light_grenades",
@@ -9152,17 +7872,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Double Flail Mayhem",
-        "types": [
-            "Hit 1",
-            "DoT 1",
-            "Fiend Immunity All"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Fiends Counters",
-            "Immunity Providers",
-            "Snipers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-12-01",
         "specialId": "double_flail_mayhem",
@@ -9222,17 +7931,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Very Fast",
         "skill": "Zooming Lunge",
-        "types": [
-            "Hit 3",
-            "Max Health Reduction 3",
-            "Blind 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Status Effect Conversion",
-            "Debuffers (ATK)",
-            "Max Health Reducers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2025-09-17",
         "specialId": "zooming_lunge",
@@ -9305,14 +8003,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Divine Reflection",
-        "types": [
-            "Counterattack 3",
-            "Reduced Received Damage 3"
-        ],
-        "skill_types": [
-            "Damage Reducers",
-            "Counterattackers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-07-07",
         "specialId": "divine_reflection",
@@ -9366,16 +8056,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Sacred Reflection",
-        "types": [
-            "Counterattack 3",
-            "Reduced Received Damage 3"
-        ],
-        "skill_types": [
-            "Counterattackers",
-            "Damage Reducers",
-            "Health Boosters",
-            "Cleansers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2024-12-10",
         "specialId": "sacred_reflection",
@@ -9436,18 +8116,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Thandai Trance",
-        "types": [
-            "Healer All",
-            "Heal Growth Boon",
-            "Clean All",
-            "Deep Sleep All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Cleansers",
-            "Healers (Special)",
-            "Sleepweavers"
-        ],
         "source": "Temple Summon",
         "Release date": "2026-03-24",
         "specialId": "thandai_trance",
@@ -9511,18 +8179,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Joyful Noise",
-        "types": [
-            "Hit All",
-            "Healer All",
-            "Minion Wound",
-            "Mana Generation Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Healers (Special)",
-            "Max Health Reducers",
-            "Mana Generation Buffers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2025-01-16",
         "specialId": "joyful_noise",
@@ -9589,16 +8245,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Bobo Blitz",
-        "types": [
-            "Hit All",
-            "Defense Debuff 1",
-            "Attack Debuff 1"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "bobo_blitz",
@@ -9652,16 +8298,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Debt Drain",
-        "types": [
-            "Hit All",
-            "Mana Steal All",
-            "Sticky Surface Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers",
-            "Buff Stealers"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-12-21",
         "specialId": "debt_drain_boboosang",
@@ -9726,16 +8362,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Spectral Visions",
-        "types": [
-            "Hit 1",
-            "Defense Debuff 1",
-            "Shifting Mindless Attack 1"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "Mindless Attack & Mindless Heal",
-            "Snipers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "spectral_visions",
@@ -9795,17 +8421,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Petrifying Knuckles",
-        "types": [
-            "Hit 3",
-            "Insanity 3",
-            "Stoneskin Self",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Damage Reducers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2025-03-06",
         "specialId": "petrifying_knuckles",
@@ -9864,16 +8479,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Soothing Melody",
-        "types": [
-            "Shield Guard Mega Minion",
-            "Cleanser Minion",
-            "Sleep All"
-        ],
-        "skill_types": [
-            "Mega Minions Summoners",
-            "Sleepweavers",
-            "Cleansers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2024-05-13",
         "specialId": "soothing_melody",
@@ -9937,20 +8542,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Magic",
         "skill": "Mechanical Augmentations",
-        "types": [
-            "Boosted Heal All",
-            "SS Defense Buff All",
-            "Max Health Reduction All",
-            "SS Defense Debuff All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Debuffers (DEF)",
-            "Health Boosters",
-            "Max Health Reducers",
-            "Stacking Heroes",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2023-05-03",
         "specialId": "mechanical_augmentations",
@@ -10019,23 +8610,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Magic",
         "skill": "Flower Arrangements",
-        "types": [
-            "Boosted Heal All",
-            "SS Defense Buff All",
-            "Max Health Reduction All",
-            "SS Defense Debuff All",
-            "Healing Debuff All"
-        ],
-        "skill_types": [
-            "Minions Counters",
-            "Buffers (DEF)",
-            "Debuffers (DEF)",
-            "Health Boosters",
-            "Max Health Reducers",
-            "Stacking Heroes",
-            "Mana Reducers or Blockers",
-            "Healing Reducers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2025-10-19",
         "specialId": "flower_arrangements",
@@ -10111,18 +8685,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Slow",
         "skill": "Order to Overwhelm",
-        "types": [
-            "Hit All",
-            "Summoner All",
-            "Minion Dispels on hit",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (DEF)",
-            "Dispellers",
-            "Minions Summoners"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-07-18",
         "specialId": "order_to_overwhelm",
@@ -10182,18 +8744,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Slow",
         "skill": "Ice-Cold Order",
-        "types": [
-            "Hit All",
-            "Summoner All",
-            "Minion Dispels on hit",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Minions Summoners",
-            "Dispellers",
-            "Buffers (DEF)"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2024-08-02",
         "specialId": "ice_cold_order",
@@ -10262,23 +8812,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Discordant Incantation",
-        "types": [
-            "Fear Debuff 1",
-            "Hit 1",
-            "Hit Random 5",
-            "Insanity on hit",
-            "Block Talent Skills on hit",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Debuffers (DEF)",
-            "Dispellers",
-            "Buff Blockers",
-            "Mindless Attack & Mindless Heal",
-            "Chain & Random Attackers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2026-02-24",
         "specialId": "discordant_incantation",
@@ -10360,20 +8893,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slayer",
         "skill": "Breaker Blade",
-        "types": [
-            "Hit 1",
-            "Bypass Chance",
-            "Self Mana Generation Buff Stack",
-            "Self HoT Stack"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Healers (Special)",
-            "Snipers",
-            "Stacking Heroes",
-            "Mana Generation Buffers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "breaker_blade",
@@ -10437,14 +8956,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Summon Rock Golems",
-        "types": [
-            "Summoner All",
-            "Stoneskin Minion"
-        ],
-        "skill_types": [
-            "Minions Summoners",
-            "Damage Reducers"
-        ],
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-07-13",
         "specialId": "summon_rock_golems",
@@ -10503,16 +9014,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Moonlight Sonata",
-        "types": [
-            "Hit 3",
-            "Cleanse Immunity 3",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Cleanse Blockers",
-            "Debuffers (DEF)"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2023-06-15",
         "specialId": "moonlight_sonata",
@@ -10570,20 +9071,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Changing Tides",
         "skill": "Tidal Vortex",
-        "types": [
-            "Hit All",
-            "Debuffs on SS use All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)",
-            "DoT Attackers",
-            "Healers (Special)",
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-07-05",
         "specialId": "tidal_vortex",
@@ -10657,20 +9144,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Changing Tides",
         "skill": "Ocean Vortex",
-        "types": [
-            "Hit All",
-            "Debuffs on SS use All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "Snipers",
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)",
-            "Mana Reducers or Blockers",
-            "DoT Attackers",
-            "Healers (Special)"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-03-03",
         "specialId": "ocean_vortex",
@@ -10748,16 +9221,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Lunar Locket",
-        "types": [
-            "Hit All",
-            "Block Status Effects Cast All",
-            "SS Defense Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (DEF)",
-            "Status Effects Blockers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2023-12-04",
         "specialId": "lunar_locket",
@@ -10821,16 +9284,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Horrifying Wail",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Silencer 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Silencers"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "2024-09-23",
         "specialId": "horrifying_wail",
@@ -10889,20 +9342,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Very Fast",
         "skill": "Mutating Mixture",
-        "types": [
-            "DoT",
-            "Dispeller",
-            "HoT"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Dispellers",
-            "Heal over Time (HoT)",
-            "Health Boosters",
-            "Dodgers",
-            "Minions Counters"
-        ],
         "source": "Alliance - Moths",
         "Release date": "2025-06-25",
         "specialId": "mutating_mixture",
@@ -10975,19 +9414,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Gift Of Rejuvenation",
-        "types": [
-            "Healer All",
-            "Heal Growth Boon",
-            "Reviver",
-            "Cleanse Latest Ailment All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Healers",
-            "Revivers",
-            "Ability Scores Modifiers",
-            "Healers (Special)"
-        ],
         "source": "Temple Summon",
         "Release date": "2025-06-16",
         "specialId": "gift_of_rejuvenation",
@@ -11051,16 +9477,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Strict Standards",
-        "types": [
-            "Hit All",
-            "Spear Guard Mega Minion",
-            "Dispeller Minion"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mega Minions Summoners",
-            "Dispellers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2025-05-27",
         "specialId": "strict_standards",
@@ -11124,16 +9540,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Frozen Wind",
-        "types": [
-            "Hit All",
-            "DoT All",
-            "EDD All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (DEF)",
-            "DoT Attackers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2023-02-23",
         "specialId": "frozen_wind",
@@ -11194,15 +9600,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Strength of the Accursed",
-        "types": [
-            "Healer All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Cleansers",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-04-01",
         "specialId": "strength_of_the_accursed",
@@ -11262,17 +9659,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Charge",
         "skill": "Katana Rain",
-        "types": [
-            "Charge",
-            "Hit 1/3/All",
-            "Bypass Chance"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "AoE Attackers (Hit-5)",
-            "Bypassers",
-            "Snipers"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "specialId": "katana_rain",
@@ -11331,13 +9717,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Charge",
         "skill": "Katana Tempest",
-        "types": [
-            "Charge",
-            "Hit 1/3/All",
-            "Bypass Chance",
-            "Mana Boost Self on bypass"
-        ],
-        "skill_types": [],
         "source": "Tower - Ninjas",
         "Release date": "2026-05-03",
         "specialId": "katana_tempest",
@@ -11395,18 +9774,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Constellation Crush",
-        "types": [
-            "Hit All",
-            "Dispeller All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Cleansers",
-            "Dispellers",
-            "Bypassers",
-            "Damage Sharers"
-        ],
         "source": "Astral Summon",
         "Release date": "2024-10-14",
         "specialId": "constellation_crush",
@@ -11471,20 +9838,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Freezing Crystal",
-        "types": [
-            "Hit All",
-            "Buff Duration Reducer All",
-            "DoT All",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "DoT Attackers",
-            "Effect Duration Resetters",
-            "Extra Damage Dealers",
-            "Minions Counters"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "freezing_crystal",
@@ -11545,18 +9898,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Waters of Nourishment",
-        "types": [
-            "HoT",
-            "Defense buff",
-            "Mana generation buff"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Buffers (DEF)",
-            "Mana Generation Buffers",
-            "Heal over Time (HoT)",
-            "DoT Attackers"
-        ],
         "source": "Monthly Event - Beach Party",
         "Release date": "2024-06-03",
         "specialId": "waters_of_nourishment",
@@ -11616,17 +9957,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Righteous Revenge",
-        "types": [
-            "Humility",
-            "Hit 3",
-            "DoT 3",
-            "Counterattack 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Counterattackers"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2025-12-19",
         "specialId": "righteous_revenge",
@@ -11697,17 +10027,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Frostbound Smash",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Attack Buff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Minions Counters",
-            "Buffers (ATK)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2026-02-01",
         "specialId": "frostbound_smash",
@@ -11773,21 +10092,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Savage Gobble",
-        "types": [
-            "Hit 1",
-            "Spreading Dot 1",
-            "Mimic Chest"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Minions Counters",
-            "Snipers",
-            "Mana Raisers",
-            "Immunity Providers",
-            "Ghost Form & Hiding",
-            "Bypassers",
-            "DoT Attackers"
-        ],
         "source": "Bazaar Summon",
         "Release date": "2025-09-30",
         "specialId": "savage_gobble_blue",
@@ -11867,20 +10171,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Endless Maze",
-        "types": [
-            "Full Removal 1",
-            "Abyss Ghost 1",
-            "DoT 1 while ghost",
-            "Hit & Insanity All after ghost",
-            "Self Insanity"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Ghost Form & Hiding",
-            "DoT Attackers",
-            "Negative Effects On Self Or Allies",
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "Shadow Summon",
         "Release date": "2025-10-24",
         "specialId": "endless_maze",
@@ -11956,17 +10246,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Fiendslayer",
-        "types": [
-            "Fiend Destroyer All",
-            "Boosted Heal All",
-            "Fiend Immunity"
-        ],
-        "skill_types": [
-            "Fiends Counters",
-            "Healers",
-            "Immunity Providers",
-            "Health Boosters"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "specialId": "fiendslayer",
@@ -12024,13 +10303,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Saturated Suffering",
-        "types": [
-            "DoT All except Ice"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Extra Damage Dealers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-12-30",
         "specialId": "saturated_suffering",
@@ -12092,14 +10364,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Oceanic Suffering",
-        "types": [
-            "DoT All except Ice"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Buffers (ATK)"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2024-09-26",
         "specialId": "oceanic_suffering",
@@ -12166,20 +10430,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Greedy Devour",
-        "types": [
-            "Minion Destroyer 1",
-            "Hit 1",
-            "Mimic Chest"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Minions Counters",
-            "Snipers",
-            "Mana Raisers",
-            "Immunity Providers",
-            "Ghost Form & Hiding",
-            "Bypassers"
-        ],
         "source": "Bazaar Summon",
         "Release date": "2025-05-03",
         "specialId": "mimic_training_hero_blue_bite",
@@ -12255,17 +10505,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Gargantuan Bite",
-        "types": [
-            "Hit 1",
-            "Boost Mana Self on kill",
-            "Heal Self"
-        ],
-        "skill_types": [
-            "Mana Raisers",
-            "Snipers",
-            "Extra Damage Dealers",
-            "Healers (Special)"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "gargantuan_bite",
@@ -12321,17 +10560,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Colossal Bite",
-        "types": [
-            "Hit 1",
-            "Heal Self",
-            "Boost Mana Self on kill"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Mana Raisers",
-            "Snipers",
-            "Extra Damage Dealers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2023-04-10",
         "specialId": "colossal_bite",
@@ -12389,12 +10617,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Toontastic Bite",
-        "types": [
-            "Hit 1",
-            "Boost Mana Self on kill",
-            "Heal Self"
-        ],
-        "skill_types": [],
         "source": "S3 - Valhalla",
         "Release date": "2026-04-29",
         "specialId": "toontastic_bite",
@@ -12444,17 +10666,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Keep the Peace",
-        "types": [
-            "Mana Reducer All",
-            "Mana Generation Debuff All",
-            "Sword Guard Mega Minion",
-            "Spreading DoT Minion"
-        ],
-        "skill_types": [
-            "Mana Reducers or Blockers",
-            "Mega Minions Summoners",
-            "DoT Attackers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2024-12-09",
         "specialId": "keep_the_peace",
@@ -12523,16 +10734,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Commodore's Revenge",
-        "types": [
-            "Hit 1",
-            "Chain Hit",
-            "Defense Debuff on hit"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Debuffers (DEF)",
-            "Snipers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "commodores_revenge",
@@ -12586,17 +10787,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Commodore's Malice",
-        "types": [
-            "Hit 1",
-            "Chain Hit",
-            "Defense Debuff on hit"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Debuffers (DEF)",
-            "Snipers",
-            "DoT Attackers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2022-04-14",
         "specialId": "commodores_malice",
@@ -12656,17 +10846,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Very Fast",
         "skill": "Voice of Authority",
-        "types": [
-            "Hit All",
-            "Attack Buff Stack All",
-            "Defense Buff Stack All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Stacking Heroes",
-            "Buffers (ATK)",
-            "Buffers (DEF)"
-        ],
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2023-11-30",
         "specialId": "voice_of_authority",
@@ -12726,17 +10905,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Shady Concerto",
-        "types": [
-            "Hit All",
-            "Attack Wither All",
-            "Defense Wither All",
-            "Mana Generation Debuff All"
-        ],
-        "skill_types": [
-            "Ability Scores Modifiers",
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2023-11-13",
         "specialId": "shady_concerto",
@@ -12797,19 +10965,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Bad Fortune",
-        "types": [
-            "Dispeller All",
-            "Hit All",
-            "Fiend Summoner All",
-            "Attack Debuff Fiend"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Dispellers",
-            "Fiends Summoners",
-            "DoT Attackers"
-        ],
         "source": "Challenge - Carnival of Gods",
         "Release date": "2022-11-22",
         "specialId": "bad_fortune",
@@ -12878,17 +11033,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Polar Bash",
-        "types": [
-            "Hit 3",
-            "Elemental Defense Debuff 3",
-            "Dispeller 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Dispellers",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-03-01",
         "specialId": "polar_bash",
@@ -12951,16 +11095,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Cold Command",
-        "types": [
-            "Summoner All",
-            "Increase Minion HP All",
-            "Increase Minion Attack All"
-        ],
-        "skill_types": [
-            "Mana Raisers",
-            "Minions Boosters",
-            "Minions Summoners"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-04-01",
         "specialId": "cold_command",
@@ -13015,16 +11149,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Raising Morale",
-        "types": [
-            "Hit 3",
-            "Reduces Ailments Duration 3",
-            "Critical Chance Buff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Effect Duration Resetters",
-            "Buffers (ATK)"
-        ],
         "source": "Goblin Summon",
         "Release date": "2025-01-17",
         "specialId": "raising_morale",
@@ -13088,17 +11212,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Educated Exorcism",
-        "types": [
-            "Hit 1",
-            "Fiend Damage Immunity All",
-            "Fiend Immunity All"
-        ],
-        "skill_types": [
-            "Fiends Counters",
-            "Immunity Providers",
-            "Snipers",
-            "Damage Reducers"
-        ],
         "source": "Challenge - Gargoyle",
         "Release date": "2021-11-24",
         "specialId": "educated_exorcism",
@@ -13155,17 +11268,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Star Construct",
-        "types": [
-            "Hit 3",
-            "Fiend Summoner 3",
-            "Mana Steal 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Fiends Summoners",
-            "Mana Raisers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2023-09-21",
         "specialId": "star_construct",
@@ -13233,16 +11335,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "The Piranha Incident",
-        "types": [
-            "DoT All",
-            "Fiend Summoner All",
-            "Delayed Hit All"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Fiends Summoners",
-            "Extra Damage Dealers"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2026-01-20",
         "specialId": "the_piranha_incident",
@@ -13315,18 +11407,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Wrath of Frozen Soul",
-        "types": [
-            "Hit All",
-            "Defense Debuff All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (DEF)",
-            "DoT Attackers",
-            "Minions Summoners",
-            "Minions Counters"
-        ],
         "source": "Covenant Summon",
         "Release date": "2025-10-03",
         "specialId": "wrath_of_frozen_soul",
@@ -13392,16 +11472,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Hunter's Instinct",
-        "types": [
-            "Hit 1",
-            "Stack on Dodge"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Extra Damage Dealers",
-            "Snipers",
-            "Stacking Heroes"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-02-01",
         "specialId": "hunters_instinct",
@@ -13466,17 +11536,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Midnight Magic",
-        "types": [
-            "Hit 3",
-            "Boost SS Damage Buff 3",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buffers (ATK)",
-            "Cleansers",
-            "Minions Summoners"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-11-01",
         "specialId": "midnight_magic",
@@ -13539,19 +11598,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Gooey Rose",
-        "types": [
-            "Steals Mega/Minions 1",
-            "Hit 1",
-            "Block Status Effects Cast 1",
-            "Devouring Goo 1"
-        ],
-        "skill_types": [
-            "Minions Counters",
-            "Snipers",
-            "Buff Blockers",
-            "Dispellers",
-            "DoT Attackers"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-07-31",
         "specialId": "gooey_rose",
@@ -13623,17 +11669,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Spirits of the Mountain",
-        "types": [
-            "Healer All",
-            "Attack Growth All",
-            "Defense Growth All",
-            "Mana Generation Buff All"
-        ],
-        "skill_types": [
-            "Ability Scores Modifiers",
-            "Healers",
-            "Mana Generation Buffers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2024-02-19",
         "specialId": "spirits_of_the_mountain",
@@ -13694,14 +11729,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Brutal Support",
-        "types": [
-            "Hit All on Ally SS",
-            "Mana Generation Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Generation Buffers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2023-01-26",
         "specialId": "brutal_support",
@@ -13753,19 +11780,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Soul Guardian",
-        "types": [
-            "Taunt",
-            "Random Counterattack to self",
-            "Self Damage Reduction Buff",
-            "Self Status Ailment Immunity"
-        ],
-        "skill_types": [
-            "Taunters",
-            "Counterattackers",
-            "Damage Reducers",
-            "Immunity Providers",
-            "Minions Counters"
-        ],
         "source": "Covenant Summon",
         "Release date": "2025-11-13",
         "specialId": "soul_guardian",
@@ -13829,14 +11843,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Ghastly Drowning",
-        "types": [
-            "Dispeller All",
-            "Hit 1",
-            "DoT 1",
-            "Full Removal Self",
-            "Vengeful Ghost Self"
-        ],
-        "skill_types": [],
         "source": "Three Kingdoms Summon",
         "Release date": "2026-05-21",
         "specialId": "ghastly_drowning",
@@ -13887,16 +11893,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Bewildering Riddle",
-        "types": [
-            "Healer All",
-            "Elemental Defense Buff All",
-            "Blind All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Debuffers (ATK)",
-            "Healers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2023-02-16",
         "specialId": "bewildering_riddle",
@@ -13960,17 +11956,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Relaxing Riddle",
-        "types": [
-            "Healer All",
-            "Elemental Defense Buff All",
-            "Blind All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Buffers (DEF)",
-            "Debuffers (ATK)",
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "S5 - Dune",
         "Release date": "2024-03-04",
         "specialId": "relaxing_riddle",
@@ -14041,16 +12026,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Very Fast",
         "skill": "Grips of Longing",
-        "types": [
-            "Dispeller 1",
-            "Hit 1",
-            "Damage Increased SS 3"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Dispellers",
-            "Snipers"
-        ],
         "source": "Monthly Event - Love Season",
         "Release date": "2023-02-14",
         "specialId": "grips_of_longing",
@@ -14112,22 +12087,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Glacial Fissure Cleave",
-        "types": [
-            "Frostfall Strike 3",
-            "Max Health Reduction 3",
-            "Healing Debuff 3"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Max Health Reducers",
-            "Healing Reducers",
-            "Extra Damage Dealers",
-            "Bypassers",
-            "DoT Attackers",
-            "Debuffers (ATK)",
-            "Extra Damage Dealers",
-            "Minions Counters"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-04-14",
         "specialId": "glacial_fissure_cleave",
@@ -14195,19 +12154,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "The King's Feast",
-        "types": [
-            "Hit All",
-            "Mana Reduction All",
-            "Mana Generation Debuff All",
-            "Source of Buffs Random 1"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers",
-            "Bypassers",
-            "Buffers (ATK)",
-            "Buffers (DEF)"
-        ],
         "source": "Challenge - Beowulf",
         "Release date": "2024-11-25",
         "specialId": "kings_feast",
@@ -14278,15 +12224,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Eye of Yog-Sir",
-        "types": [
-            "Taunt",
-            "Insanity All on hit",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "Taunters",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2025-06-10",
         "specialId": "eye_of_yog-sir",
@@ -14340,19 +12277,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Brand of Reckoning",
-        "types": [
-            "Hit All",
-            "Damage Increase Stack All",
-            "Mana Gen Buff Stack All"
-        ],
-        "skill_types": [
-            "Fiends Summoners",
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Debuffers (DEF)",
-            "Mana Generation Buffers",
-            "Stacking Heroes"
-        ],
         "source": "Challenge - Vigilant Vegetables Summon",
         "Release date": "2026-02-04",
         "specialId": "brand_of_reckoning",
@@ -14428,16 +12352,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Erase Strength",
-        "types": [
-            "Hit 3",
-            "Dispeller 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Dispellers",
-            "Extra Damage Dealers",
-            "Buffers (ATK)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-02-01",
         "specialId": "erase_strength",
@@ -14502,14 +12416,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Glacial Shatter",
-        "types": [
-            "Hit All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (DEF)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "glacial_shatter",
@@ -14561,14 +12467,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Glacial Explosion",
-        "types": [
-            "Hit All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (DEF)"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "glacial_explosion",
@@ -14622,15 +12520,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Glacial Vortex",
-        "types": [
-            "Hit All",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2022-09-05",
         "specialId": "glacial_vortex",
@@ -14690,15 +12579,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Toon Shatter",
-        "types": [
-            "Hit All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (DEF)",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-05-06",
         "specialId": "adorable_shatter",
@@ -14762,16 +12642,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Glass Shatter",
-        "types": [
-            "Hit All",
-            "Bypass",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Bypassers",
-            "Debuffers (DEF)"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-06-18",
         "specialId": "glass_shatter",
@@ -14835,20 +12705,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Planetary Charge",
-        "types": [
-            "Hit 1",
-            "Chain Attack",
-            "Increased Damage Debuff",
-            "Wither"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Chain & Random Attackers",
-            "Extra Damage Dealers",
-            "Ability Scores Modifiers",
-            "Minions Counters",
-            "Bypassers"
-        ],
         "source": "Astral Summon",
         "Release date": "2025-03-27",
         "specialId": "planetary_charge",
@@ -14912,18 +12768,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Very Fast",
         "skill": "Chain Lightning",
-        "types": [
-            "Hit 1",
-            "Chain Hit",
-            "Blind All",
-            "Attack Buff All Ice"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Chain & Random Attackers",
-            "Debuffers (ATK)",
-            "Snipers"
-        ],
         "source": "Super Elementals",
         "Release date": "2024-01-29",
         "specialId": "chain_lightning",
@@ -14991,17 +12835,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Charm of Protection",
-        "types": [
-            "Enhanced Dodge All",
-            "Summoner",
-            "Status Ailments Immunity Minion"
-        ],
-        "skill_types": [
-            "Dodgers",
-            "Immunity Providers",
-            "Minions Summoners",
-            "Minions Counters"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2025-05-20",
         "specialId": "charm_of_protection",
@@ -15064,16 +12897,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Love Cannon",
-        "types": [
-            "Hit 1",
-            "Hit Random 3",
-            "Mindless Heal on Hit"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Mindless Attack & Mindless Heal",
-            "Snipers"
-        ],
         "source": "Monthly Event - Love Season",
         "Release date": "2024-01-08",
         "specialId": "tough_love",
@@ -15133,16 +12956,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Eternal Ishq",
-        "types": [
-            "Hit All",
-            "Dance of Ishq 4"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Dancers",
-            "Mana Generation Buffers",
-            "Damage Reducers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2026-02-10",
         "specialId": "eternal_ishq",
@@ -15217,16 +13030,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Dubious Cuisine",
-        "types": [
-            "Gambler"
-        ],
-        "skill_types": [
-            "Ability Scores Modifiers",
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Healers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Goblin Summon",
         "Release date": "2023-09-18",
         "specialId": "dubious_cuisine",
@@ -15303,18 +13106,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Excalibur",
-        "types": [
-            "Hit 1",
-            "Attack Debuff 1",
-            "Elemental Defense Debuff 1",
-            "SS Defense Buff Self"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)",
-            "Snipers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "excalibur",
@@ -15374,16 +13165,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Hailstorm",
-        "types": [
-            "Hit All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Healers (Special)",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-07-01",
         "specialId": "hailstorm",
@@ -15448,18 +13229,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Scourge of Joy",
-        "types": [
-            "Summoner All",
-            "Taunt",
-            "Defense Buff Self",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Buffers (DEF)",
-            "Minions Summoners",
-            "Taunters"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2020-12-01",
         "specialId": "scourge_of_joy",
@@ -15515,18 +13284,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Merriest Misery",
-        "types": [
-            "Summoner All",
-            "Taunt",
-            "Self Defense Buff",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Buffers (DEF)",
-            "Minions Summoners",
-            "Taunters"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2021-12-01",
         "specialId": "merriest_misery",
@@ -15588,15 +13345,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Roadside Surprise",
-        "types": [
-            "Hit All",
-            "Self Ambush"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Ghost Form & Hiding",
-            "Extra Damage Dealers"
-        ],
         "source": "Black Friday Summon",
         "Release date": "2025-11-24",
         "specialId": "roadside_surprise",
@@ -15664,16 +13412,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Very Fast",
         "skill": "Rime Heart",
-        "types": [
-            "Dispels latest Buff All",
-            "Hit All",
-            "Boosted health convert All"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "AoE Attackers (Hit-5)",
-            "Max Health Reducers"
-        ],
         "source": "Monthly Event - Love Season",
         "Release date": "2026-01-19",
         "specialId": "rime_heart",
@@ -15735,19 +13473,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Pursuing Shot",
-        "types": [
-            "Hit 1",
-            "DoT 1",
-            "Increased damage from Ailments 1",
-            "Damage on each Resisted Healing 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "DoT Attackers",
-            "Revivers",
-            "Healing Reducers",
-            "Extra Damage Dealers"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2025-06-28",
         "specialId": "pursuing_shot",
@@ -15817,13 +13542,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Trickster's Mischief",
-        "types": [
-            "Copy Special Skill 1",
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Snipers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2020-12-24",
         "specialId": "tricksters_mischief",
@@ -15872,15 +13590,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Shapeshifter's Deception",
-        "types": [
-            "Copy Buffs 1",
-            "Copy Special Skill 1",
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Buff Stealers",
-            "Snipers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2023-05-08",
         "specialId": "shapeshifters_deception",
@@ -15933,18 +13642,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Exquisite Victuals",
-        "types": [
-            "Healer All",
-            "Boosted heal All",
-            "Fiend Immunity All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Health Boosters",
-            "Fiends Counters",
-            "Cleansers"
-        ],
         "source": "Monthly Event - The Sanguine Feast",
         "Release date": "2025-10-08",
         "specialId": "exquisite_victuals",
@@ -16008,16 +13705,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Arctic Guard",
-        "types": [
-            "Hit All",
-            "Attack Buff All",
-            "Ally Damage Share"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (ATK)",
-            "Damage Sharers"
-        ],
         "source": "Titan Hunter Summon",
         "Release date": "2026-01-25",
         "specialId": "arctic_guard",
@@ -16081,17 +13768,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Sapphire Eyes",
-        "types": [
-            "Reviver",
-            "Attack buff All",
-            "HoT All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Health Boosters",
-            "Revivers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2023-10-18",
         "specialId": "sapphire_eyes",
@@ -16152,17 +13828,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Slimy Balls",
-        "types": [
-            "Hit All",
-            "Devouring Goo"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Minions Counters",
-            "Dispellers",
-            "Ability Scores Modifiers"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-04-25",
         "specialId": "slimy_balls",
@@ -16227,14 +13892,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Strike of the Ancients",
-        "types": [
-            "Hit 1",
-            "Defense Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "strike_of_the_ancients",
@@ -16286,14 +13943,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Strike of the Monolith",
-        "types": [
-            "Hit 1",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "strike_of_the_monolith",
@@ -16347,14 +13996,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Strike of the Underworld",
-        "types": [
-            "Hit 3",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)"
-        ],
         "source": "Costume Quest",
         "Release date": "2022-10-31",
         "specialId": "strike_of_the_underworld",
@@ -16408,15 +14049,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Strike of the Toons",
-        "types": [
-            "Hit 1",
-            "Defense Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Extra Damage Dealers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-01-22",
         "specialId": "strike_of_the_toons",
@@ -16480,16 +14112,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Glass Strike",
-        "types": [
-            "Hit 1",
-            "Bypass",
-            "Defense Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Bypassers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-03-11",
         "specialId": "glass_strike_magni",
@@ -16553,15 +14175,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Stylish Strike",
-        "types": [
-            "Hit 1",
-            "Defense Buff 3"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Extra Damage Dealers",
-            "Buffers (DEF)"
-        ],
         "source": "Costume Quest",
         "Release date": "2026-03-12",
         "specialId": "stylish_strike_magni",
@@ -16625,16 +14238,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Healing Mirror",
-        "types": [
-            "Boost Health All",
-            "SS Damage Reduction Moonrise Ward All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Damage Reducers",
-            "Cleansers"
-        ],
         "source": "Tower - Owls",
         "Release date": "2024-03-13",
         "specialId": "healing_mirror",
@@ -16696,13 +14299,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Globetrotting Gifts",
-        "types": [
-            "Healer All",
-            "Cleanser All each turn",
-            "Dodge Chance Buff All",
-            "Mana Generation Debuff Self"
-        ],
-        "skill_types": [],
         "source": "Monthly Event - Springvale",
         "Release date": "2026-03-30",
         "specialId": "globetrotting_gifts",
@@ -16739,7 +14335,24 @@ window.allHeroes =
             "health": 2844,
             "power": 1566
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments",
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Master Lepus",
@@ -16749,14 +14362,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Reckless Finisher",
-        "types": [
-            "Hit 3",
-            "Defense Debuff Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Monthly Event - Springvale",
         "Release date": "",
         "specialId": "reckless_finisher",
@@ -16808,14 +14413,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Rift Blade",
-        "types": [
-            "Hit All",
-            "Mana Generation Debuff Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Monthly Event - Springvale",
         "Release date": "2022-03-21",
         "specialId": "rift_blade",
@@ -16873,16 +14470,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Heretic Slayer",
-        "types": [
-            "Hit 1",
-            "Attack Debuff 3"
-        ],
-        "skill_types": [
-            "Debuffers (ATK)",
-            "Snipers",
-            "AoE Attackers (Hit-3)",
-            "Damage Reducers"
-        ],
         "source": "Challenge - Gargoyle",
         "Release date": "2022-12-29",
         "specialId": "heretic_slayer",
@@ -16944,17 +14531,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Freezing Fairy Mist",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Buff immunity 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Buff Blockers",
-            "Buffers (ATK)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-11-01",
         "specialId": "freezing_fairy_mist",
@@ -17016,15 +14592,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Wrath of Tundra",
-        "types": [
-            "Titan Attack Buff All",
-            "Silencer 3"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Mana Generation Buffers",
-            "Silencers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-08-01",
         "specialId": "wrath_of_tundra",
@@ -17081,17 +14648,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Masterful Manipulation",
-        "types": [
-            "Hit All",
-            "HoT Self",
-            "Reflect Buffs All",
-            "Reflect Ailments All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Heal over Time (HoT)",
-            "Reflectors"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2023-03-08",
         "specialId": "masterful_manipulation",
@@ -17159,18 +14715,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Cultivated Manipulation",
-        "types": [
-            "Hit All",
-            "Boosted HoT Self",
-            "Reflect Buffs All",
-            "Reflect Ailments All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Heal over Time (HoT)",
-            "Health Boosters",
-            "Reflectors"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2026-03-15",
         "specialId": "cultivated_manipulation",
@@ -17242,20 +14786,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Magic",
         "skill": "Restoration and Annihilation",
-        "types": [
-            "Charge",
-            "Heal All",
-            "Cleanser All",
-            "Hit All",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Cleansers",
-            "Dispellers",
-            "Healers",
-            "Mana Raisers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "restoration_and_annihilation",
@@ -17322,22 +14852,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Magic",
         "skill": "Preserve and Freeze",
-        "types": [
-            "Charge",
-            "Heal All",
-            "Cleanser All",
-            "Hit All",
-            "DoT All",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Cleansers",
-            "Dispellers",
-            "Healers",
-            "Mana Raisers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2025-04-17",
         "specialId": "preserve_and_freeze",
@@ -17412,18 +14926,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Litter of Kittens",
-        "types": [
-            "Minion Summoner 3",
-            "Healer Minion",
-            "Cleanser Minion",
-            "Attack Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Cleansers",
-            "Heal over Time (HoT)",
-            "Minions Summoners"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "2022-10-03",
         "specialId": "litter_of_kittens",
@@ -17482,16 +14984,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Chain Strike",
-        "types": [
-            "Hit 1",
-            "Possible Extra Hits",
-            "Mana Boost All on hit"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Mana Raisers",
-            "Snipers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "chain_strike",
@@ -17545,16 +15037,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Ipu Drum Chain",
-        "types": [
-            "Hit 1",
-            "Possible Extra Hits",
-            "Mindless Attack on hit"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Mindless Attack & Mindless Heal",
-            "Snipers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2023-01-09",
         "specialId": "drum_chain",
@@ -17610,12 +15092,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Toon Chain",
-        "types": [
-            "Hit 1",
-            "Possible Extra Hits",
-            "Mana Boost All on hit"
-        ],
-        "skill_types": [],
         "source": "S2 - Atlantis",
         "Release date": "2026-04-29",
         "specialId": "toon_chain",
@@ -17664,16 +15140,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Mooing for a Fight",
-        "types": [
-            "Hit 1",
-            "Chain hit",
-            "Mana Generation Debuff Self"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Chain & Random Attackers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Monthly Event - Springvale",
         "Release date": "2024-03-18",
         "specialId": "mooing_for_a_fight",
@@ -17727,15 +15193,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Cut Down the Competition",
-        "types": [
-            "Hit All",
-            "Healer All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Healers (Special)"
-        ],
         "source": "Legends Summon",
         "Release date": "2024-05-03",
         "specialId": "cut_down_the_competition",
@@ -17799,17 +15256,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Seastar Burst",
-        "types": [
-            "Boosted Heal All",
-            "Max Health Reduction All",
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Health Boosters",
-            "Max Health Reducers",
-            "DoT Attackers"
-        ],
         "source": "Monthly Event - Beach Party",
         "Release date": "2023-06-12",
         "specialId": "seastar_burst",
@@ -17869,18 +15315,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Chilling Counterattack",
-        "types": [
-            "Counterattack 3",
-            "Attack Stack All",
-            "Source of Buffs Random 1"
-        ],
-        "skill_types": [
-            "Counterattackers",
-            "Mana Reducers or Blockers",
-            "Buffers (ATK)",
-            "Mana Generation Buffers",
-            "Stacking Heroes"
-        ],
         "source": "Challenge - Beowulf",
         "Release date": "2025-02-13",
         "specialId": "chilling_counterattack",
@@ -17948,20 +15382,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Astral Myrrh",
-        "types": [
-            "Heal All",
-            "Mana on enemy SS All",
-            "Heal steal All",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Mana Raisers",
-            "Healers (Special)",
-            "Debuffers (ATK)",
-            "Healing Reducers",
-            "Damage Sharers"
-        ],
         "source": "Astral Summon",
         "Release date": "2024-08-19",
         "specialId": "astral_myrrh",
@@ -18027,14 +15447,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Deathly Glaive",
-        "types": [
-            "Hit All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (DEF)"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-06-17",
         "specialId": "deathly_glaive",
@@ -18090,18 +15502,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Staff of the Seastar",
-        "types": [
-            "Hit All",
-            "Defense Debuff All",
-            "HoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (DEF)",
-            "Heal over Time (HoT)",
-            "Extra Damage Dealers",
-            "Buffers (ATK)"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2023-07-20",
         "specialId": "staff_of_the_seastar",
@@ -18164,17 +15564,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Herring Blaster",
-        "types": [
-            "Hit 1",
-            "Hit Random",
-            "DoT on hit",
-            "Summoner 3"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Snipers",
-            "Minions Summoners"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2021-12-01",
         "specialId": "herring_blaster",
@@ -18235,18 +15624,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Herring Surprise",
-        "types": [
-            "Hit 1",
-            "Hit random",
-            "DoT",
-            "Summoner 3"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Chain & Random Attackers",
-            "DoT Attackers",
-            "Minions Summoners"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2024-12-01",
         "specialId": "herring_surprise",
@@ -18313,19 +15690,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Pathfinder's Compass",
-        "types": [
-            "Healer All",
-            "Mana Boost nearby",
-            "Mana Generation Buff nearby",
-            "Critical Chance Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Healers",
-            "Mana Generation Buffers",
-            "Mana Raisers",
-            "Health Boosters"
-        ],
         "source": "Covenant Summon",
         "Release date": "2024-02-08",
         "specialId": "pathfinders_compass",
@@ -18389,18 +15753,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Endless Daggers",
-        "types": [
-            "Hit 1",
-            "Mana Increase Self on Kill",
-            "Attack Buff Stack Self"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Bypassers",
-            "Mana Raisers",
-            "Stacking Heroes",
-            "Buffers (ATK)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-10-01",
         "specialId": "endless_daggers",
@@ -18466,19 +15818,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Wrath of the Nine Beaks",
-        "types": [
-            "Hit Random 9",
-            "Buffs Duration Reset All",
-            "Status Ailment Reset All",
-            "Attack Buff All",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Chain & Random Attackers",
-            "Debuffers (ATK)",
-            "Effect Duration Resetters"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2023-06-19",
         "specialId": "wrath_of_the_nine_beaks",
@@ -18550,18 +15889,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "First Frost",
-        "types": [
-            "Hit All",
-            "DoT All",
-            "Heal All on DoT",
-            "SS Defense Debuff All Fire"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Healers (Special)",
-            "Debuffers (DEF)"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2026-01-05",
         "specialId": "first_frost",
@@ -18623,15 +15950,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Ice and Slice",
-        "types": [
-            "Element Swap 1",
-            "Hit 1",
-            "Elemental Defense Debuff 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Debuffers (DEF)"
-        ],
         "source": "Super Elementals",
         "Release date": "2024-06-17",
         "specialId": "ice_and_slice",
@@ -18693,21 +16011,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Dance of the Swan",
-        "types": [
-            "Self HoT",
-            "Self Dodge Buff",
-            "Dance of the Swan 4",
-            "Dodge Buff while Dancing",
-            "Chance Hit 1 while Dancing",
-            "Status Effect Immunity while Dancing"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Dancers",
-            "Dodgers",
-            "Heal over Time (HoT)",
-            "Immunity Providers"
-        ],
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2023-06-20",
         "specialId": "dance_of_the_swan",
@@ -18783,17 +16086,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Charge",
         "skill": "Standing Fortress",
-        "types": [
-            "Charge",
-            "Boosted Heal Self",
-            "Taunt",
-            "Counterattack Self"
-        ],
-        "skill_types": [
-            "Counterattackers",
-            "Health Boosters",
-            "Taunters"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2023-01-11",
         "specialId": "standing_fortress",
@@ -18857,17 +16149,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Lunar Bloom",
-        "types": [
-            "Healer All",
-            "Attack Growth All",
-            "Delayed Boosted Health All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Healers (Special)",
-            "Ability Scores Modifiers",
-            "Fiends Counters"
-        ],
         "source": "Astral Summon",
         "Release date": "2025-07-02",
         "specialId": "lunar_bloom",
@@ -18928,17 +16209,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Boreal Bash",
-        "types": [
-            "Hit All",
-            "Self HoT",
-            "Special Skill Mark All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Heal over Time (HoT)",
-            "Stacking Heroes",
-            "Extra Damage Dealers"
-        ],
         "source": "Monthly Event - Kalevala",
         "Release date": "2024-07-22",
         "specialId": "boreal_bash",
@@ -18996,17 +16266,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Helping Hands",
-        "types": [
-            "Healer All",
-            "HoT All",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Heal over Time (HoT)",
-            "Healers",
-            "Healers (Special)"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-12-02",
         "specialId": "helping_hands",
@@ -19065,18 +16324,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Creative Hands",
-        "types": [
-            "Healer All",
-            "HoT All",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Heal over Time (HoT)",
-            "Healers",
-            "Health Boosters",
-            "Healers (Special)"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2023-10-12",
         "specialId": "creative_hands",
@@ -19140,19 +16387,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Dusk Till Dawn",
-        "types": [
-            "Safely Dispel 1",
-            "Dusk Mothling Mega Fiend Summoner 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Dispellers",
-            "Fiends Summoners",
-            "Buff Blockers",
-            "DoT Attackers",
-            "Dodgers",
-            "Minions Counters"
-        ],
         "source": "Alliance - Moths",
         "Release date": "2025-02-20",
         "specialId": "dusk_till_dawn",
@@ -19221,17 +16455,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Everlasting Wound",
-        "types": [
-            "Hit 1",
-            "Healing Debuff 1",
-            "Elemental Defense Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Healing Reducers",
-            "Mana Generation Buffers",
-            "Snipers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-12-01",
         "specialId": "everlasting_wound",
@@ -19290,18 +16513,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Arctic Wound",
-        "types": [
-            "Hit 3",
-            "Healing Debuff 3",
-            "Elemental Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Healing Reducers",
-            "Mana Generation Buffers",
-            "Dispellers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-11-28",
         "specialId": "arctic_wound",
@@ -19362,17 +16573,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "One-Hit Wonder",
-        "types": [
-            "Defense Debuff 3",
-            "Hit 3",
-            "Softskin 2"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Damage Reducers",
-            "Immunity Providers",
-            "Debuffers (DEF)"
-        ],
         "source": "Challenge - Gargoyle",
         "Release date": "2024-02-27",
         "specialId": "one_hit_wonder",
@@ -19439,19 +16639,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Musketeer's Mead",
-        "types": [
-            "Hit All",
-            "Board Alterer",
-            "Self HoT"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Board Alterers",
-            "Debuffers (ATK)",
-            "Buffers (ATK)",
-            "Extra Damage Dealers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2022-12-14",
         "specialId": "musketeers_mead",
@@ -19511,20 +16698,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Musketeer's Deal",
-        "types": [
-            "Hit All",
-            "Board Alterer",
-            "Boosted HoT Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Board Alterers",
-            "Debuffers (ATK)",
-            "Buffers (ATK)",
-            "Extra Damage Dealers",
-            "Heal over Time (HoT)",
-            "Health Boosters"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2026-01-23",
         "specialId": "musketeers_deal",
@@ -19588,19 +16761,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Fluvial Path",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Attack Growth All",
-            "Defense Growth All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Healers (Special)",
-            "Health Boosters",
-            "Ability Scores Modifiers"
-        ],
         "source": "Astral Summon",
         "Release date": "2024-12-22",
         "specialId": "frozen_path",
@@ -19670,21 +16830,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Pineapple Barbeque",
-        "types": [
-            "Boosted Heal All",
-            "Buff Immunity All",
-            "Blind All Fire enemies",
-            "Mana Gen Debuff All Dark enemies",
-            "Defense Debuff All Holy enemies",
-            "Attack Debuff All Nature enemies"
-        ],
-        "skill_types": [
-            "Buff Blockers",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)",
-            "Health Boosters",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Super Elementals",
         "Release date": "2023-09-11",
         "specialId": "pineapple_barbeque",
@@ -19751,15 +16896,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Pineapple Alchemist",
-        "types": [
-            "Boosted Heal All",
-            "Buff Immunity Debuff All",
-            "Blind All Fire enemies",
-            "Mana Gen Debuff All Dark enemies",
-            "Defense Debuff All Holy enemies",
-            "Attack Debuff All Nature enemies"
-        ],
-        "skill_types": [],
         "source": "Super Elementals",
         "Release date": "2026-05-15",
         "specialId": "pineapple_alchemist",
@@ -19817,15 +16953,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Echoes of Pain",
-        "types": [
-            "Hit 1",
-            "Damage Link 1"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Snipers",
-            "Damage Sharers"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2022-01-05",
         "specialId": "echoes_of_pain",
@@ -19877,17 +17004,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Ice Treatment",
-        "types": [
-            "Healer All",
-            "HoT All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Heal over Time (HoT)",
-            "Healers",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-06-01",
         "specialId": "ice_treatment",
@@ -19947,21 +17063,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slayer",
         "skill": "Cleansing Determination",
-        "types": [
-            "Cleanser All",
-            "Hit All",
-            "Self Mana Generation Buff Stack",
-            "Self HoT Stack"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Cleansers",
-            "Healers (Special)",
-            "Stacking Heroes",
-            "Extra Damage Dealers",
-            "Mana Generation Buffers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "cleansing_determination",
@@ -20031,14 +17132,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Cloud Hammer",
-        "types": [
-            "Hit 3",
-            "Attack Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "cloud_hammer",
@@ -20090,14 +17183,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Cloud Axe",
-        "types": [
-            "Hit 3",
-            "Attack Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "cloud_axe",
@@ -20151,15 +17236,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Dread Hammer",
-        "types": [
-            "Hit 3",
-            "Attack Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)",
-            "Stacking Heroes"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-09-04",
         "specialId": "dread_hammer",
@@ -20213,15 +17289,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Toon Hammer",
-        "types": [
-            "Hit 3",
-            "Attack Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "adorable_hammer",
@@ -20285,16 +17352,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Glass Hammer",
-        "types": [
-            "Hit 3",
-            "Bypass",
-            "Attack Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Bypassers",
-            "Debuffers (ATK)"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-12-25",
         "specialId": "glass_hammer",
@@ -20358,15 +17415,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Bottle Hammer",
-        "types": [
-            "Hit 3",
-            "Attack Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers",
-            "Debuffers (ATK)"
-        ],
         "source": "Costume Quest",
         "Release date": "2026-01-07",
         "specialId": "champagne_hammer",
@@ -20430,21 +17478,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Vicious Cyclone",
-        "types": [
-            "Dispeller 3",
-            "Hit 3",
-            "DoT 3",
-            "Self Heal",
-            "Lasting Increased Damage from Ailments 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Dispellers",
-            "Healers (Special)",
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Healing Reducers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2025-08-09",
         "specialId": "vicious_cyclone",
@@ -20513,17 +17546,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Legerdemain",
-        "types": [
-            "Gambler"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (ATK)",
-            "Cleansers",
-            "Debuffers (DEF)",
-            "DoT Attackers",
-            "Healers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "legerdemain",
@@ -20597,23 +17619,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Twilight Tricks",
-        "types": [
-            "Gambler",
-            "Health reduction All",
-            "Health Boost All",
-            "Mana generation Debuff All",
-            "Buff Immunity All"
-        ],
-        "skill_types": [
-            "Buff Blockers",
-            "DoT Attackers",
-            "Health Boosters",
-            "Immunity Providers",
-            "Mana Reducers or Blockers",
-            "Max Health Reducers",
-            "Extra Damage Dealers",
-            "Minions Counters"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2022-06-16",
         "specialId": "twilight_tricks",
@@ -20689,17 +17694,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Very Fast",
         "skill": "Vengeful Backstab",
-        "types": [
-            "Hit 1",
-            "Hiding Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Damage Reducers",
-            "Damage Reducers",
-            "Ghost Form & Hiding",
-            "Snipers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-05-20",
         "specialId": "vengeful_backstab",
@@ -20762,19 +17756,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Very Fast",
         "skill": "Artful Backstab",
-        "types": [
-            "Hit 1",
-            "Hiding Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Damage Reducers",
-            "Damage Reducers",
-            "Ghost Form & Hiding",
-            "Snipers",
-            "Extra Damage Dealers",
-            "Buffers (ATK)"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2024-01-04",
         "specialId": "artful_backstab",
@@ -20842,22 +17823,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Very Fast",
         "skill": "I'll Bring You Back",
-        "types": [
-            "Self Full Removal",
-            "Ghost",
-            "Revive 1",
-            "HoT All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Revivers",
-            "Heal over Time (HoT)",
-            "Dispellers",
-            "Stacking Heroes",
-            "Ghost Form & Hiding",
-            "Healing Reducers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2025-02-02",
         "specialId": "ill_bring_you_back",
@@ -20923,19 +17888,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Deranged Existence",
-        "types": [
-            "Full Removal Self",
-            "Deranged Dire Ghost Self",
-            "Hit 1 while ghost",
-            "Insanity 1 while ghost",
-            "Insanity to allies except Self"
-        ],
-        "skill_types": [
-            "Ghost Form & Hiding",
-            "Chain & Random Attackers",
-            "Negative Effects On Self Or Allies",
-            "Damage Reducers"
-        ],
         "source": "Shadow Summon",
         "Release date": "2025-07-08",
         "specialId": "deranged_existence",
@@ -20997,17 +17949,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Thousand Palm Strikes",
-        "types": [
-            "Hit All",
-            "Drop to 1 Damage 3",
-            "Dispeller all on dispelled effect"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Damage Reducers",
-            "Extra Damage Dealers",
-            "Dispellers"
-        ],
         "source": "Legends Summon",
         "Release date": "2023-11-29",
         "specialId": "thousand_palm_strikes",
@@ -21073,18 +18014,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Charge",
         "skill": "Purifying Ki",
-        "types": [
-            "Charge",
-            "Healer All",
-            "Heal All on Enemy Special",
-            "Cleanser 1/3/5"
-        ],
-        "skill_types": [
-            "Healers",
-            "Cleansers",
-            "Healers (Special)",
-            "Minions Counters"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2024-11-19",
         "specialId": "purifying_ki",
@@ -21151,15 +18080,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Ruthless Derision",
-        "types": [
-            "Humility",
-            "Hit All",
-            "Healing Resist Debuff All",
-            "Damage on each Resisted Healing All",
-            "Damage Increase Debuff Stack All",
-            "Mana Generation Debuff All"
-        ],
-        "skill_types": [],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2026-05-08",
         "specialId": "ruthless_derision",
@@ -21215,17 +18135,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Chitin Cage",
-        "types": [
-            "Hit 2",
-            "Mana Reducer 2",
-            "Fiend Summoner 2"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Mana Reducers or Blockers",
-            "Fiends Summoners",
-            "DoT Attackers"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2024-08-13",
         "specialId": "chitin_cage",
@@ -21286,18 +18195,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Conjure the Azure Spirit",
-        "types": [
-            "Hit All",
-            "Board Alterer"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Board Alterers",
-            "Debuffers (ATK)",
-            "Buffers (ATK)",
-            "Extra Damage Dealers",
-            "Dodgers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-07-01",
         "specialId": "conjure_the_azure_spirit",
@@ -21363,18 +18260,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Very Fast",
         "skill": "Gilded Antlers",
-        "types": [
-            "Hit 3",
-            "Bypass",
-            "Attack debuff 3",
-            "Healing debuff"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Bypassers",
-            "Debuffers (ATK)",
-            "Healing Reducers"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2024-06-05",
         "specialId": "gilded_antlers",
@@ -21438,18 +18323,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Iceberg Crush",
-        "types": [
-            "Hit All",
-            "DoT Stack All on enemy/minion defeated",
-            "Mana Generation Debuff Stack All on enemy/minion defeated"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Mana Reducers or Blockers",
-            "Stacking Heroes"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2020-06-25",
         "specialId": "iceberg_crush",
@@ -21511,18 +18384,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Iceberg Havoc",
-        "types": [
-            "Hit 3",
-            "DoT Stack All on enemy/minion defeated",
-            "Mana Generation Debuff Stack All on enemy/minion defeated"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Mana Reducers or Blockers",
-            "Stacking Heroes"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2022-07-04",
         "specialId": "iceberg_havoc",
@@ -21586,19 +18447,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Very Fast",
         "skill": "Searing Frost",
-        "types": [
-            "Hit All",
-            "Elemental Defense Debuff All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Minions Counters",
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2024-08-09",
         "specialId": "searing_frost",
@@ -21660,16 +18508,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Throwing Daggers",
-        "types": [
-            "Hit All",
-            "DoT All",
-            "Mana Generation Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Super Elementals",
         "Release date": "2024-10-30",
         "specialId": "throwing_daggers",
@@ -21730,18 +18568,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Enchanted Edge",
-        "types": [
-            "Dispeller All",
-            "Cleanser All",
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Cleansers",
-            "Dispellers",
-            "Negative Effects On Self Or Allies",
-            "Extra Damage Dealers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "enchanted_edge",
@@ -21804,18 +18630,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Slow",
         "skill": "Slaying Stake",
-        "types": [
-            "Dispeller All",
-            "Cleanser All",
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Cleansers",
-            "Dispellers",
-            "Negative Effects On Self Or Allies",
-            "Extra Damage Dealers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "specialId": "slaying_stake",
@@ -21880,14 +18694,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Jaws of the River",
-        "types": [
-            "Hit All",
-            "Bypass"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Bypassers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "jaws_of_the_river",
@@ -21945,15 +18751,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Teeth of the River",
-        "types": [
-            "Hit All",
-            "Bypass",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Bypassers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2024-07-13",
         "specialId": "teeth_of_the_river",
@@ -22025,20 +18822,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Righteous Strike",
-        "types": [
-            "Chance of Critical hits",
-            "Hit 3",
-            "Damage Heal 3",
-            "Silence 3",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Healers (Special)",
-            "Silencers",
-            "Extra Damage Dealers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2025-05-22",
         "specialId": "righteous_strike",
@@ -22111,18 +18894,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Icebound Ritual",
-        "types": [
-            "Summoner 2x 3",
-            "Attack Buff Minion",
-            "Damage All on minion destroyed"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "DoT Attackers",
-            "Minions Summoners",
-            "Cleansers",
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2023-05-06",
         "specialId": "icebound_ritual",
@@ -22182,17 +18953,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Scepter of Constellations",
-        "types": [
-            "Hit All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (DEF)",
-            "Extra Damage Dealers",
-            "Bypassers",
-            "Damage Sharers"
-        ],
         "source": "Astral Summon",
         "Release date": "2023-11-21",
         "specialId": "scepter_of_constellations",
@@ -22259,17 +19019,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Easy-breezy Aura",
-        "types": [
-            "Cleanser 3",
-            "Reflect Ailments 3",
-            "HoT 3"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Fiends Counters",
-            "Heal over Time (HoT)",
-            "Reflectors"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-05-01",
         "specialId": "easy_breezy_aura",
@@ -22334,17 +19083,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Very Fast",
         "skill": "Hunter's Trueshot",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Mark of Bleed 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Bypassers",
-            "Extra Damage Dealers",
-            "Debuffers (ATK)"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-08-26",
         "specialId": "hunters_true_shot",
@@ -22413,18 +19151,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Bizarre Mist",
-        "types": [
-            "Steals Buffs 1",
-            "Deep Sleep 1",
-            "Healer All"
-        ],
-        "skill_types": [
-            "Buff Stealers",
-            "Sleepweavers",
-            "Healers",
-            "Dodgers",
-            "Minions Counters"
-        ],
         "source": "Alliance - Moths",
         "Release date": "2025-03-20",
         "specialId": "bizarre_mist",
@@ -22487,16 +19213,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Amphibious Assault",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buffers (ATK)",
-            "DoT Attackers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2022-05-30",
         "specialId": "amphibious_assault",
@@ -22556,16 +19272,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Oceanic Offensive",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buffers (ATK)",
-            "DoT Attackers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2025-10-25",
         "specialId": "oceanic_offensive",
@@ -22627,16 +19333,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Changing Tides",
         "skill": "Ocean's Embrace",
-        "types": [
-            "Heal All",
-            "Status Ailment Immunity Buff All",
-            "Status Ailments Reset All"
-        ],
-        "skill_types": [
-            "Effect Duration Resetters",
-            "Health Boosters",
-            "Immunity Providers"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "specialId": "oceans_embrace",
@@ -22705,16 +19401,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Changing Tides",
         "skill": "Crystal Embrace",
-        "types": [
-            "Heal All",
-            "Status Ailment Immunity Buff All",
-            "Status Ailment Reset All"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Immunity Providers",
-            "Effect Duration Resetters"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-08-24",
         "specialId": "crystal_embrace",
@@ -22788,18 +19474,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Styx",
         "skill": "Delay the Inevitable",
-        "types": [
-            "Charge",
-            "Healer All",
-            "Mana Generation Buff All",
-            "Mana Increase All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Mana Generation Buffers",
-            "Mana Raisers",
-            "Minions Counters"
-        ],
         "source": "Tower - Styx",
         "Release date": "2023-02-08",
         "specialId": "delay_the_inevitable",
@@ -22867,18 +19541,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Multi-Throw",
-        "types": [
-            "Hit All",
-            "Elemental Reflect All",
-            "Elemental Counterattack All",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Reflectors",
-            "Snipers",
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "multi_throw",
@@ -22932,12 +19594,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Icecold Finisher",
-        "types": [
-            "Hit 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "icecold_finisher",
@@ -22983,14 +19639,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Freezing Finale",
-        "types": [
-            "Hit 1",
-            "Self Mana Gen Buff"
-        ],
-        "skill_types": [
-            "Mana Generation Buffers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "summers_end",
@@ -23044,16 +19692,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Glacial Crusher",
-        "types": [
-            "Hit 3",
-            "Mana reducer 3",
-            "Self MoT"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Mana Raisers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-07-10",
         "specialId": "glacial_crusher",
@@ -23113,13 +19751,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Toon Finisher",
-        "types": [
-            "Hit 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-09-08",
         "specialId": "toon_finisher",
@@ -23177,14 +19808,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Glass Finisher",
-        "types": [
-            "Hit 3",
-            "Bypass"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Bypassers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-11-25",
         "specialId": "glass_finisher_thorne",
@@ -23242,19 +19865,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "For Queen And Hollow",
-        "types": [
-            "Dispeller 3",
-            "Moonrose Strike Hit 3",
-            "Buff Immunity 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buff Blockers",
-            "Dispellers",
-            "Extra Damage Dealers",
-            "Snipers",
-            "Bypassers"
-        ],
         "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "specialId": "for_queen_and_hollow",
@@ -23321,18 +19931,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Malevolent Toys",
-        "types": [
-            "Hit 3",
-            "Summoner All",
-            "Defense Debuff 3",
-            "Blind 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)",
-            "Minions Summoners"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2022-12-01",
         "specialId": "malevolent_toys",
@@ -23392,18 +19990,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Protective Stance",
-        "types": [
-            "Delayed Heal All",
-            "Delayed Damage All",
-            "Attack Stack Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Healers",
-            "Stacking Heroes",
-            "Buffers (ATK)",
-            "DoT Attackers"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2023-07-27",
         "specialId": "protective_stance",
@@ -23467,19 +20053,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Gluttonous Chomp",
-        "types": [
-            "Hit 1",
-            "Mimic Chest",
-            "Normal Attack Buff All"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Bypassers",
-            "Healers (Special)",
-            "Mana Raisers",
-            "Buffers (ATK)",
-            "Ghost Form & Hiding"
-        ],
         "source": "Bazaar Summon",
         "Release date": "2026-02-23",
         "specialId": "gluttonous_chomp_blue",
@@ -23561,20 +20134,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Magic",
         "skill": "Scroll of Equations",
-        "types": [
-            "Charge",
-            "Minion Summoner All",
-            "Mana Generation Buff Minion",
-            "Fiend Summoner All",
-            "Mana Generation Debuff Minion"
-        ],
-        "skill_types": [
-            "Fiends Summoners",
-            "Mana Generation Buffers",
-            "Mana Reducers or Blockers",
-            "Minions Summoners",
-            "Stacking Heroes"
-        ],
         "source": "Tower - Magic",
         "Release date": "2023-08-23",
         "specialId": "scroll_of_equations",
@@ -23644,20 +20203,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Magic",
         "skill": "Scroll of Navigation",
-        "types": [
-            "Charge",
-            "Minion Summoner All",
-            "Mana Boost Minion",
-            "Fiend Summoner All",
-            "Mana Steal Fiend"
-        ],
-        "skill_types": [
-            "Fiends Summoners",
-            "Mana Generation Buffers",
-            "Mana Reducers or Blockers",
-            "Minions Summoners",
-            "Stacking Heroes"
-        ],
         "source": "Tower - Magic",
         "Release date": "2025-11-30",
         "specialId": "scroll_of_navigation",
@@ -23732,13 +20277,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Cosmic Spirals",
-        "types": [
-            "Hit All",
-            "Bypass",
-            "Attack Wither All",
-            "Astral Beam Buff Self"
-        ],
-        "skill_types": [],
         "source": "Astral Summon",
         "Release date": "2026-05-13",
         "specialId": "cosmic_spirals",
@@ -23791,18 +20329,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Aquatic Outbreak",
-        "types": [
-            "Hit All",
-            "Dot All",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (ATK)",
-            "Debuffers (ATK)",
-            "DoT Attackers",
-            "Extra Damage Dealers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-01-01",
         "specialId": "aquatic_outbreak",
@@ -23868,17 +20394,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Very Fast",
         "skill": "Red Shoes",
-        "types": [
-            "Hit 3",
-            "Enhanced Defense Debuff 3",
-            "Delayed Mana Generation Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Mana Reducers or Blockers",
-            "Minions Counters"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2024-08-31",
         "specialId": "red_shoes",
@@ -23940,16 +20455,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Iceshatter",
-        "types": [
-            "Hit All",
-            "DoT All",
-            "Mana Reducer All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers",
-            "DoT Attackers"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2025-10-20",
         "specialId": "iceshatter",
@@ -24025,18 +20530,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Cold Fire",
-        "types": [
-            "Elemental Defense Debuff",
-            "Hit All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Damage Reducers",
-            "Immunity Providers"
-        ],
         "source": "Challenge - Gargoyle",
         "Release date": "2024-10-17",
         "specialId": "cold_fire",
@@ -24103,19 +20596,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Harpoon Sentry",
-        "types": [
-            "Summoner All",
-            "Mana Reducing Minion",
-            "SS Defense Down on Minion hit",
-            "Buff Immunity on Minion hit"
-        ],
-        "skill_types": [
-            "Buff Blockers",
-            "Debuffers (DEF)",
-            "DoT Attackers",
-            "Mana Reducers or Blockers",
-            "Minions Summoners"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2022-11-12",
         "specialId": "harpoon_sentry",
@@ -24177,17 +20657,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Never Ending Winter",
-        "types": [
-            "Dispel 1",
-            "Hit 1",
-            "Lasting Spreading DoT 1"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Snipers",
-            "DoT Attackers",
-            "Healing Reducers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2024-08-20",
         "specialId": "never_ending_winter",
@@ -24250,18 +20719,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Subduing Strike",
-        "types": [
-            "Dispeller All",
-            "Chance of Critical hits",
-            "Hit 1",
-            "Hit Nearby if Fire"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Snipers",
-            "Extra Damage Dealers",
-            "AoE Attackers (Hit-3)"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2025-09-27",
         "specialId": "subduing_strike",
@@ -24332,19 +20789,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Dancer",
         "skill": "Flowing Dragon Dual Slash",
-        "types": [
-            "Safely Dispel 2",
-            "Spirit Slash Hit 2",
-            "Flowing Fortune Dance Buff 2"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Dispellers",
-            "Dancers",
-            "Mana Generation Buffers",
-            "Extra Damage Dealers",
-            "Damage Reducers"
-        ],
         "source": "Monthly Event - Fortune Summon",
         "Release date": "2026-02-17",
         "specialId": "flowing_dragon_dual_slash",
@@ -24413,16 +20857,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Very Fast",
         "skill": "Blue Shroom Wand",
-        "types": [
-            "Hit 1",
-            "Summoner Self",
-            "Spreading DoT 1"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Minions Summoners",
-            "Snipers"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2023-12-01",
         "specialId": "blue_shroom_wand",
@@ -24481,17 +20915,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Great Frost Axe",
-        "types": [
-            "Hit 1",
-            "Hit 2 if Fire",
-            "DoT 1",
-            "DoT 2 if Fire"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Snipers",
-            "Chain & Random Attackers"
-        ],
         "source": "Super Elementals",
         "Release date": "2023-01-30",
         "specialId": "great_frost_axe",
@@ -24555,19 +20978,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Great Frost Hoe",
-        "types": [
-            "Damage 1",
-            "Damage 2 if Fire",
-            "Dot 1",
-            "Dot 2 if Fire",
-            "Self Heal"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Snipers",
-            "Chain & Random Attackers",
-            "Healers (Special)"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-08-12",
         "specialId": "great_frost_hoe",
@@ -24642,18 +21052,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Gallant Stance",
-        "types": [
-            "Chance for Critical hit",
-            "Hit All",
-            "Safely Dispels All",
-            "Damage Reduction Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Dispellers",
-            "Damage Reducers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2026-02-01",
         "specialId": "gallant_stance",
@@ -24724,18 +21122,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Charge",
         "skill": "Wall of Ki",
-        "types": [
-            "Charge",
-            "Boosted HoT All",
-            "Defense Buff All",
-            "Buff Dispel Immunity All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Health Boosters",
-            "Immunity Providers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2021-11-10",
         "specialId": "wall_of_ki",
@@ -24800,12 +21186,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Hacking Attack",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "hacking_attack",
@@ -24845,12 +21225,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Axe Throw",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "axe_throw",
@@ -24890,12 +21264,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Tackle",
-        "types": [
-            "Hit 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "tackle",
@@ -24935,12 +21303,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Mark of Ivy",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "mark_of_ivy",
@@ -24980,12 +21342,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Focused Shot",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "focused_shot",
@@ -25025,14 +21381,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Bewitched Daggers",
-        "types": [
-            "Hit All",
-            "Health Reduction"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Max Health Reducers"
-        ],
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-07-13",
         "specialId": "bewitched_daggers",
@@ -25088,18 +21436,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Marble Frenzy",
-        "types": [
-            "Hit 1",
-            "Hit Growth Boon",
-            "Mana Generation Debuff 1"
-        ],
-        "skill_types": [
-            "Minions Counters",
-            "Ability Scores Modifiers",
-            "Extra Damage Dealers",
-            "Snipers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Temple Summon",
         "Release date": "2025-11-17",
         "specialId": "marble_frenzy",
@@ -25165,14 +21501,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Calming Mist",
-        "types": [
-            "Healer All",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Healers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "calming_mist",
@@ -25224,14 +21552,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Tranquil Mist",
-        "types": [
-            "HoT All",
-            "Dispell Immunity Buff All"
-        ],
-        "skill_types": [
-            "Heal over Time (HoT)",
-            "Immunity Providers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "tranquil_mist",
@@ -25285,16 +21605,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Toon Mist",
-        "types": [
-            "Healer All",
-            "Defense Buff All",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Healers",
-            "Buffers (DEF)"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-04-08",
         "specialId": "toon_mist",
@@ -25354,17 +21664,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Glass Mist",
-        "types": [
-            "Healer All",
-            "Reflect Ailments for Nature Allies",
-            "Reflect Stacks for Nature Allies",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Reflectors",
-            "Dispellers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-04-23",
         "specialId": "glass_mist",
@@ -25424,11 +21723,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Stylish Mist",
-        "types": [
-            "Healer All",
-            "Dispeller All"
-        ],
-        "skill_types": [],
         "source": "Costume Quest",
         "Release date": "2026-05-09",
         "specialId": "stylish_mist",
@@ -25475,14 +21769,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Entangling Shot",
-        "types": [
-            "Hit 1",
-            "Attack Debuff 1"
-        ],
-        "skill_types": [
-            "Debuffers (ATK)",
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "entangling_shot",
@@ -25534,14 +21820,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Crushing Shot",
-        "types": [
-            "Hit 1",
-            "Defense Debuff 1"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "crushing_shot",
@@ -25595,15 +21873,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Toontastic Shot",
-        "types": [
-            "Hit 1",
-            "Attack Debuff 1"
-        ],
-        "skill_types": [
-            "Debuffers (ATK)",
-            "Snipers",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-05-06",
         "specialId": "adorable_entangling_shot",
@@ -25667,16 +21936,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Glass Arrow",
-        "types": [
-            "Hit 1",
-            "Bypass",
-            "Attack Debuff 1"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Debuffers (ATK)",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-05-10",
         "specialId": "glass_entangling_shot",
@@ -25740,12 +21999,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Berserker Fury",
-        "types": [
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "natures_blessing",
@@ -25791,12 +22044,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Jungle Fury",
-        "types": [
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "jungle_fury",
@@ -25844,12 +22091,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Toon Fury",
-        "types": [
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-01-22",
         "specialId": "toon_fury",
@@ -25901,15 +22142,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Glass Fury",
-        "types": [
-            "Attack Buff All",
-            "Reflect Ailments for Nature Allies",
-            "Reflect Stacks for Nature Allies"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Reflectors"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-03-11",
         "specialId": "glass_fury",
@@ -25963,14 +22195,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Stylish Fury",
-        "types": [
-            "Attack Buff All",
-            "HoT All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Heal over Time (HoT)"
-        ],
         "source": "Costume Quest",
         "Release date": "2026-02-14",
         "specialId": "stylish_fury",
@@ -26028,18 +22252,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Hollow Boast",
-        "types": [
-            "Attack Buff 3",
-            "Defense Buff 3",
-            "HoT 3",
-            "Delayed Debuffs Self"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Buffers (DEF)",
-            "Heal over Time (HoT)",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "",
         "specialId": "hollow_boast",
@@ -26103,14 +22315,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Slash of Four Blades",
-        "types": [
-            "Hit All",
-            "Mana Reduction All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "slash_of_four_blades",
@@ -26162,14 +22366,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Stab of Four Blades",
-        "types": [
-            "Hit All",
-            "Mana Generation Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "stab_of_four_blades",
@@ -26223,15 +22419,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Slash of Four Toons",
-        "types": [
-            "Hit All",
-            "Mana Reduction All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-06-28",
         "specialId": "adorable_four_blades",
@@ -26291,16 +22478,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Slash of Glass Blades",
-        "types": [
-            "Hit All",
-            "Bypass",
-            "Mana Reduction All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Bypassers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-07-16",
         "specialId": "glass_four_blades",
@@ -26360,15 +22537,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Astral Pastries",
-        "types": [
-            "Boosted Healer 3",
-            "Attack Growth 3"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Ability Scores Modifiers",
-            "Fiends Counters"
-        ],
         "source": "Astral Summon",
         "Release date": "2025-06-04",
         "specialId": "astral_pastries",
@@ -26429,19 +22597,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Magic",
         "skill": "Voluminous Vigor",
-        "types": [
-            "Charge",
-            "Allies Damage Share",
-            "Defense Buff All",
-            "Enemies Damage Share",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Damage Sharers",
-            "Debuffers (DEF)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "voluminous_vigor",
@@ -26503,13 +22658,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Mischievous Flourish",
-        "types": [
-            "Hit 1",
-            "Blood Lily Mark 1"
-        ],
-        "skill_types": [
-            "Snipers"
-        ],
         "source": "Monthly Event - The Sanguine Feast",
         "Release date": "2025-10-08",
         "specialId": "mischievous_flourish",
@@ -26560,16 +22708,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Plentiful Harvest",
-        "types": [
-            "Health Boost All",
-            "Status Ailment Immunity All",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Health Boosters",
-            "Immunity Providers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "plentiful_harvest",
@@ -26629,17 +22767,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Plentiful Minerals",
-        "types": [
-            "Health Boost All",
-            "Status Ailment Immunity All",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Immunity Providers",
-            "Buffers (DEF)",
-            "Cleansers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2024-09-07",
         "specialId": "plentiful_minerals",
@@ -26706,14 +22833,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Jack of Owl Trades",
-        "types": [
-            "Hit 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers",
-            "Bypassers"
-        ],
         "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "specialId": "jack_of_owl_trades",
@@ -26769,14 +22888,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Lacerating Whip",
-        "types": [
-            "Hit 1",
-            "DoT 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "DoT Attackers"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2025-10-20",
         "specialId": "lacerating_whip",
@@ -26842,15 +22953,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Bone Arrow",
-        "types": [
-            "Hit 3",
-            "Fiend Summoner 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Fiends Summoners"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2022-11-12",
         "specialId": "bone_arrow",
@@ -26909,14 +23011,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Have Faith",
-        "types": [
-            "Healer 3",
-            "Mana Generation Buff 3"
-        ],
-        "skill_types": [
-            "Healers",
-            "Mana Generation Buffers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "have_faith",
@@ -26968,14 +23062,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Gain Hope",
-        "types": [
-            "Healer All",
-            "Mana Generation Buff All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Mana Generation Buffers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "have_curiosity",
@@ -27029,14 +23115,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Toon's Faith",
-        "types": [
-            "Healer 3",
-            "Mana Generation Buff 3"
-        ],
-        "skill_types": [
-            "Healers",
-            "Mana Generation Buffers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-05-31",
         "specialId": "adorable_have_faith",
@@ -27094,17 +23172,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Clear Faith",
-        "types": [
-            "Healer 3",
-            "Mana Generation Buff 3",
-            "Reflect Ailments for Nature Allies",
-            "Reflect Stacks for Nature Allies"
-        ],
-        "skill_types": [
-            "Healers",
-            "Mana Generation Buffers",
-            "Reflectors"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-06-18",
         "specialId": "glass_have_faith",
@@ -27164,15 +23231,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Enchanted Axe Swing",
-        "types": [
-            "Dispeller All",
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Dispellers",
-            "Extra Damage Dealers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2023-02-27",
         "specialId": "enchanted_axe_swing",
@@ -27230,14 +23288,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Very Fast",
         "skill": "Sharp Knife",
-        "types": [
-            "Hit 1",
-            "Dot 1"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Snipers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "specialId": "sharp_knife",
@@ -27290,15 +23340,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Sugar Rush",
-        "types": [
-            "Hit All",
-            "Mana Generation Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers",
-            "Extra Damage Dealers"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "2022-10-03",
         "specialId": "sugar_rush",
@@ -27360,14 +23401,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Elder's Remedy",
-        "types": [
-            "Reviver",
-            "MoT All"
-        ],
-        "skill_types": [
-            "Revivers",
-            "Mana Raisers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "elders_remedy",
@@ -27423,14 +23456,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Gardener's Remedy",
-        "types": [
-            "Reviver",
-            "HoT All"
-        ],
-        "skill_types": [
-            "Heal over Time (HoT)",
-            "Revivers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2023-11-09",
         "specialId": "gardeners_remedy",
@@ -27484,15 +23509,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Traveler's Snack",
-        "types": [
-            "Boost Health All",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Healers",
-            "Health Boosters"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "travelers_snack",
@@ -27544,19 +23560,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Sand Breeze",
-        "types": [
-            "Hit 1",
-            "DoT 1",
-            "Healing Debuff 1",
-            "Clean Self"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "DoT Attackers",
-            "Healing Reducers",
-            "Snipers",
-            "Healing Reducers"
-        ],
         "source": "Monthly Event - Beach Party",
         "Release date": "",
         "specialId": "horses_curse",
@@ -27613,12 +23616,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Ramming Rush",
-        "types": [
-            "Hit 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "ramming_rush",
@@ -27664,14 +23661,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Bolstering Rush",
-        "types": [
-            "Hit 3",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "bolstering_rush",
@@ -27725,13 +23714,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Toon Rush",
-        "types": [
-            "Hit 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-07-16",
         "specialId": "adorable_ramming_rush_isshtak",
@@ -27789,14 +23771,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Glass Rush",
-        "types": [
-            "Hit 3",
-            "Bypass"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Bypassers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-09-07",
         "specialId": "glass_ramming_rush_isshtak",
@@ -27854,16 +23828,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Very Fast",
         "skill": "Ravenous Pounce",
-        "types": [
-            "Hit 2",
-            "Insanity 2",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Mindless Attack & Mindless Heal",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2025-12-03",
         "specialId": "ravenous_pounce",
@@ -27916,16 +23880,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Spear of Shu",
-        "types": [
-            "Hit 1",
-            "Summoner Self",
-            "Counterattack Minion"
-        ],
-        "skill_types": [
-            "Counterattackers",
-            "Minions Summoners",
-            "Snipers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "spear_of_shu",
@@ -27983,15 +23937,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Gentleman's Cane",
-        "types": [
-            "Humility",
-            "Hit 3",
-            "Counterattack Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Counterattackers"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2025-11-12",
         "specialId": "gentlemans_cane",
@@ -28054,14 +23999,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Atlantean Spear",
-        "types": [
-            "Hit 1",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Snipers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "frightening_pinch",
@@ -28113,14 +24050,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Atlantean Charge",
-        "types": [
-            "Hit 1",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Snipers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2022-05-02",
         "specialId": "atlantean_charge",
@@ -28174,11 +24103,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Atlantean Toon Spear",
-        "types": [
-            "Hit 1",
-            "Dispeller All"
-        ],
-        "skill_types": [],
         "source": "S2 - Atlantis",
         "Release date": "2026-04-29",
         "specialId": "atlantean_toon_spear",
@@ -28226,12 +24150,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Bruiser Bros",
-        "types": [
-            "Zombie Buff"
-        ],
-        "skill_types": [
-            "Revivers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "bruiser_bros",
@@ -28282,15 +24200,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Friendly Critters' Feast",
-        "types": [
-            "Health Boost All",
-            "Lasting Defense Buff All"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Buffers (DEF)",
-            "Healing Reducers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2025-08-09",
         "specialId": "friendly_critters_feast",
@@ -28346,19 +24255,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slayer",
         "skill": "Dual Axes",
-        "types": [
-            "Hit 1",
-            "Stack"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Extra Damage Dealers",
-            "Healers (Special)",
-            "Stacking Heroes",
-            "Snipers",
-            "Mana Generation Buffers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "dual_axes",
@@ -28423,21 +24319,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Magic",
         "skill": "Ancient Ritual",
-        "types": [
-            "Hit 1",
-            "Damage Link 1",
-            "Bypass Chance All",
-            "Critical Chance Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Bypassers",
-            "DoT Attackers",
-            "Snipers",
-            "Stacking Heroes",
-            "Mana Reducers or Blockers",
-            "Mana Raisers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2023-05-03",
         "specialId": "ancient_ritual",
@@ -28506,13 +24387,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Camouflage Foliage",
-        "types": [
-            "Taunt"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Taunters"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "camouflage_foliage",
@@ -28562,14 +24436,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Nasty Hammer",
-        "types": [
-            "Hit 1",
-            "Attack debuff"
-        ],
-        "skill_types": [
-            "Debuffers (ATK)",
-            "Snipers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "nasty_hammer",
@@ -28621,16 +24487,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Situational Awareness",
-        "types": [
-            "Hit 3",
-            "Defense Buff 3",
-            "Critical Chance Buff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buffers (DEF)",
-            "Buffers (ATK)"
-        ],
         "source": "Goblin Summon",
         "Release date": "2024-04-15",
         "specialId": "situational_awareness",
@@ -28690,19 +24546,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Paws or Claws",
-        "types": [
-            "Gambler",
-            "HoT",
-            "Defense buff",
-            "Health Reduction",
-            "Defense debuff"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Debuffers (DEF)",
-            "Health Boosters",
-            "Max Health Reducers"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2024-01-10",
         "specialId": "paws_or_claws",
@@ -28774,16 +24617,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Tambourine Solo",
-        "types": [
-            "Hit All",
-            "Attack Debuff All",
-            "Cleanse Immunity All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Cleanse Blockers",
-            "Debuffers (ATK)"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2022-12-01",
         "specialId": "tambourine_solo",
@@ -28841,13 +24674,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Punishing Shot",
-        "types": [
-            "Hit 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers"
-        ],
         "source": "Monthly Event - Love Season",
         "Release date": "2023-02-14",
         "specialId": "punishing_shot",
@@ -28903,15 +24729,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Lasso Of Love",
-        "types": [
-            "Hit 3",
-            "Elemental Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers",
-            "Debuffers (DEF)"
-        ],
         "source": "Monthly Event - Love Season",
         "Release date": "2026-01-19",
         "specialId": "lasso_of_love",
@@ -28975,16 +24792,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Enchanted Symphony",
-        "types": [
-            "Hit All",
-            "Elemental"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Super Elementals",
         "Release date": "2023-08-14",
         "specialId": "enchanted_symphony",
@@ -29050,16 +24857,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Shadow Sweep",
-        "types": [
-            "Hit 3",
-            "Health Reduction 3",
-            "Elemental Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Max Health Reducers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "shadow_sweep",
@@ -29113,16 +24910,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Shadow Lunge",
-        "types": [
-            "Hit 1",
-            "Mana Reduction 1",
-            "Elemental Defense Debuff 1"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2023-03-13",
         "specialId": "shadow_lunge",
@@ -29182,12 +24969,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Toon Sweep",
-        "types": [
-            "Hit 3",
-            "Health Reduction 3",
-            "Elemental Defense Debuff 3"
-        ],
-        "skill_types": [],
         "source": "S3 - Valhalla",
         "Release date": "2026-04-29",
         "specialId": "toon_sweep",
@@ -29236,21 +25017,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Magic",
         "skill": "High Noon Sun",
-        "types": [
-            "Charge",
-            "Hit All",
-            "DoT All",
-            "Reviver",
-            "HoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Heal over Time (HoT)",
-            "Negative Effects On Self Or Allies",
-            "Revivers",
-            "Healers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "high_noon_sun",
@@ -29314,15 +25080,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Styx",
         "skill": "Good Dose of Garlic",
-        "types": [
-            "Charge"
-        ],
-        "skill_types": [
-            "Healers",
-            "Mana Generation Buffers",
-            "Mana Raisers",
-            "Minions Counters"
-        ],
         "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "specialId": "fruits_of_labor",
@@ -29390,18 +25147,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Valkyrie Defense",
-        "types": [
-            "Healer 3",
-            "Dispel Immunity 3",
-            "SS Defense Buff 3",
-            "Mana Generation Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Healers",
-            "Immunity Providers",
-            "Mana Generation Buffers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "",
         "specialId": "valkyrie_defense",
@@ -29457,18 +25202,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Gift Sack",
-        "types": [
-            "Hit 3",
-            "Summoner 3",
-            "Attack Debuff 3",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)",
-            "Minions Summoners"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "",
         "specialId": "giftsack",
@@ -29528,19 +25261,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Gift List",
-        "types": [
-            "Hit 3",
-            "Summoner 3",
-            "Attack Debuff 3",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)",
-            "Minions Summoners",
-            "Extra Damage Dealers"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2025-12-01",
         "specialId": "gift_list",
@@ -29608,14 +25328,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Piercing Strike",
-        "types": [
-            "Hit 1",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "piercing_strike",
@@ -29667,14 +25379,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Cleansing Strike",
-        "types": [
-            "Hit 1",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "cleansing_strike",
@@ -29728,16 +25432,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Valorant Strike",
-        "types": [
-            "Hit 3",
-            "Status Effect Immunity Debuff 3",
-            "Dispels Buffs 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buff Blockers",
-            "Dispellers"
-        ],
         "source": "Costume Quest",
         "Release date": "2022-12-26",
         "specialId": "valorant_strike",
@@ -29797,15 +25491,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Toontastic Strike",
-        "types": [
-            "Hit 1",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Extra Damage Dealers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-01-22",
         "specialId": "toontastic_strike",
@@ -29869,17 +25554,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Glass Strike",
-        "types": [
-            "Hit 1",
-            "Attack Debuff All",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Debuffers (ATK)",
-            "Dispellers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-01-14",
         "specialId": "glass_strike_caedmon",
@@ -29949,15 +25623,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Stylish Strike",
-        "types": [
-            "Hit 1",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "Dispellers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2026-01-26",
         "specialId": "stylish_strike_caedmon",
@@ -30026,16 +25691,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Very Slow",
         "skill": "Sonorous Spear",
-        "types": [
-            "Hit All",
-            "Damage Increased Debuff All",
-            "Buff Immunity Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buff Blockers",
-            "Extra Damage Dealers"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2022-01-05",
         "specialId": "sonorous_spear",
@@ -30089,15 +25744,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Fruit Cocktail",
-        "types": [
-            "Hit 1",
-            "Delayed Paralyzed 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Extra Damage Dealers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-07-04",
         "specialId": "fruit_cocktail",
@@ -30155,16 +25801,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Empowering Bash",
-        "types": [
-            "Hit 3",
-            "Attack Buff 3",
-            "HoT 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buffers (ATK)",
-            "Heal over Time (HoT)"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "empowering_bash",
@@ -30218,17 +25854,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Strengthening Smash",
-        "types": [
-            "Hit All",
-            "Attack Buff All",
-            "Boosted HoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (ATK)",
-            "Health Boosters",
-            "Heal over Time (HoT)"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2022-05-02",
         "specialId": "strengthening_smash",
@@ -30285,12 +25910,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Toon Bash",
-        "types": [
-            "Hit 3",
-            "Attack Buff 3",
-            "HoT 3"
-        ],
-        "skill_types": [],
         "source": "S2 - Atlantis",
         "Release date": "2026-04-29",
         "specialId": "toon_bash",
@@ -30339,16 +25958,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Minion Eater",
-        "types": [
-            "Minion Destroyer All",
-            "Hit All",
-            "Heal All on minion destroyed"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Healers (Special)",
-            "Minions Counters"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "familiar_eater",
@@ -30402,16 +26011,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Protein Eater",
-        "types": [
-            "Steals Minions 1",
-            "Hit 1",
-            "Spreading DoT 1"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Minions Counters",
-            "Snipers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2023-04-03",
         "specialId": "protein_eater",
@@ -30472,17 +26071,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Witch Killer",
-        "types": [
-            "Hit 1",
-            "Damage 1 when Full Mana",
-            "Mana Reducer 1 when Full Mana",
-            "SS Defense Buff Self"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "witch_killer",
@@ -30540,17 +26128,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Vampire Killer",
-        "types": [
-            "Hit 1",
-            "Damage when Full Mana 1",
-            "Mana Reducer when Full Mana 1",
-            "Self SS Defense Buff"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2023-08-10",
         "specialId": "vampire_killer",
@@ -30610,14 +26187,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Reckless Slash",
-        "types": [
-            "Hit All",
-            "Defense Debuff Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Monthly Event - Springvale",
         "Release date": "",
         "specialId": "reckless_slash",
@@ -30669,16 +26238,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Egg Barrage",
-        "types": [
-            "Hit 1",
-            "Chain hit",
-            "Attack Debuff All allies except Self"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Negative Effects On Self Or Allies",
-            "Snipers"
-        ],
         "source": "Monthly Event - Springvale",
         "Release date": "2022-03-21",
         "specialId": "egg_barrage",
@@ -30738,15 +26297,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Goodnight Lullaby",
-        "types": [
-            "Hit 1",
-            "Deep Sleep 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Sleepweavers",
-            "Dodgers"
-        ],
         "source": "Alliance - Moths",
         "Release date": "2025-08-14",
         "specialId": "goodnight_lullaby",
@@ -30803,14 +26353,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Very Slow",
         "skill": "Resurrection of the Fallen",
-        "types": [
-            "Hit All",
-            "Cast Fallen"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Damage Reducers"
-        ],
         "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "specialId": "resurrection_of_the_fallen",
@@ -30869,14 +26411,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Swamp Skin",
-        "types": [
-            "Healer 3",
-            "Elemental Defense Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Healers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "swamp_skin",
@@ -30928,15 +26462,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Second Skin",
-        "types": [
-            "Boosts Health 3",
-            "Elemental Defense Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Healers",
-            "Health Boosters"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "second_skin",
@@ -30990,14 +26515,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Scaly Skin",
-        "types": [
-            "HoT 3",
-            "Special Skill Defense Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Heal over Time (HoT)"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-11-27",
         "specialId": "scaly_skin",
@@ -31051,14 +26568,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Toon Skin",
-        "types": [
-            "Healer 3",
-            "Elemental Defense Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Healers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-05-31",
         "specialId": "adorable_skin",
@@ -31116,17 +26625,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Glass Skin",
-        "types": [
-            "Healer 3",
-            "Reflect Ailments for Nature Allies",
-            "Reflect Stacks for Nature Allies",
-            "Elemental Defense Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Healers",
-            "Reflectors"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-06-18",
         "specialId": "glass_skin",
@@ -31186,12 +26684,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Spiteful Curse",
-        "types": [
-            "Max Health Reduction All",
-            "Healing Debuff All",
-            "DoT All"
-        ],
-        "skill_types": [],
         "source": "Three Kingdoms Summon",
         "Release date": "2026-05-21",
         "specialId": "spiteful_curse",
@@ -31239,19 +26731,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Dancer",
         "skill": "Spirited Slash",
-        "types": [
-            "Safely Dispel 1",
-            "Spirit Slash Hit 1",
-            "Vibrant Fortune Dance Buff 2"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Dispellers",
-            "Dancers",
-            "Buffers (DEF)",
-            "Extra Damage Dealers",
-            "Damage Reducers"
-        ],
         "source": "Monthly Event - Fortune Summon",
         "Release date": "2026-02-17",
         "specialId": "spirited_slash",
@@ -31320,19 +26799,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Very Fast",
         "skill": "Cloth of Constellations",
-        "types": [
-            "Hit 3",
-            "Healing Steal 3",
-            "Dodge Chance 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Healers (Special)",
-            "Dodgers",
-            "Bypassers",
-            "Healing Reducers",
-            "Damage Sharers"
-        ],
         "source": "Astral Summon",
         "Release date": "2024-03-07",
         "specialId": "cloth_of_constellations",
@@ -31397,14 +26863,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Massive Chop",
-        "types": [
-            "Hit All",
-            "Mana Generation Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "massive_chop",
@@ -31456,15 +26914,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Slow",
         "skill": "Massive Cleave",
-        "types": [
-            "Hit All",
-            "Dodge Chance Buff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Dodgers",
-            "Mana Raisers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "massive_cleave",
@@ -31519,14 +26968,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Massive Swing",
-        "types": [
-            "Hit All",
-            "Mana Generation Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Generation Buffers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "massive_swing",
@@ -31580,15 +27021,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Toontastic Chop",
-        "types": [
-            "Hit All",
-            "Mana Generation Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-05-06",
         "specialId": "adorable_massive_chop",
@@ -31652,16 +27084,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Glass Chop",
-        "types": [
-            "Hit All",
-            "Bypass",
-            "Mana Generation Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Bypassers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-05-10",
         "specialId": "glass_massive_chop",
@@ -31725,17 +27147,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Head Hurl",
-        "types": [
-            "Hit 3",
-            "Attack buff",
-            "Defense debuff"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buffers (ATK)",
-            "Debuffers (DEF)",
-            "Status Effect Conversion"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "head_hurl",
@@ -31793,14 +27204,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Fog of the Fallen",
-        "types": [
-            "Healer All",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Healers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "fog_of_the_fallen",
@@ -31852,16 +27255,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Fog of the Perished",
-        "types": [
-            "HoT ALl",
-            "Defense Buff All",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Dispellers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "fog_of_the_perished",
@@ -31917,16 +27310,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Fog of the Smoke Machine",
-        "types": [
-            "HoT All",
-            "Attack Buff All",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Dispellers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "fog_machine",
@@ -31982,16 +27365,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Toontastic Fog",
-        "types": [
-            "Healer All",
-            "Defense Buff All",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Dispellers",
-            "Healers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-01-22",
         "specialId": "toontastic_fog",
@@ -32051,17 +27424,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Fog of the Vitrails",
-        "types": [
-            "Healer All",
-            "Reflect Ailments for Nature Allies",
-            "Reflect Stacks for Nature Allies",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Healers",
-            "Reflectors"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-03-11",
         "specialId": "fog_of_the_vitrails",
@@ -32121,14 +27483,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Fog of the Stylish",
-        "types": [
-            "Healer All",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Dispellers"
-        ],
         "source": "Costume Quest",
         "Release date": "2026-03-12",
         "specialId": "fog_of_the_stylish",
@@ -32186,16 +27540,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Sprite Ballad",
-        "types": [
-            "Summoner All",
-            "Mana Generation Buff Minion",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "Debuffers (ATK)",
-            "Mana Generation Buffers",
-            "Minions Summoners"
-        ],
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "sprite_ballad",
@@ -32257,16 +27601,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Sprite Hymn",
-        "types": [
-            "Summoner All",
-            "Mana Generation Buff Minion",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "Debuffers (ATK)",
-            "Mana Generation Buffers",
-            "Minions Summoners"
-        ],
         "source": "Monthly Event - Kalevala",
         "Release date": "2023-08-07",
         "specialId": "sprite_hymn",
@@ -32330,18 +27664,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Changing Tides",
         "skill": "Noxious Cleave",
-        "types": [
-            "Hit 3",
-            "Mana Reduction 3",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Healers (Special)",
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "specialId": "noxious_cleave",
@@ -32412,18 +27734,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Changing Tides",
         "skill": "Noxious Chord",
-        "types": [
-            "Hit 3",
-            "Mana Reduction 3",
-            "DoT All"
-        ],
-        "skill_types": [
-            "Snipers",
-            "AoE Attackers (Hit-3)",
-            "Mana Reducers or Blockers",
-            "DoT Attackers",
-            "Healers (Special)"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-03-31",
         "specialId": "noxious_chord",
@@ -32499,17 +27809,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "A Rare Cultivar",
-        "types": [
-            "Hit 3",
-            "Enhanced Defense Ailment 3",
-            "Delayed Spreading DoT 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "DoT Attackers",
-            "Minions Counters"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2025-02-21",
         "specialId": "a_rare_cultivar",
@@ -32577,17 +27876,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Cracked Skull Strike",
-        "types": [
-            "Hit All",
-            "Summoner All",
-            "Damage on minion destroyed"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Minions Summoners",
-            "DoT Attackers",
-            "Cleansers"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2023-05-06",
         "specialId": "cracked_skull_strike",
@@ -32647,20 +27935,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Slayer",
         "skill": "Graceful Shot",
-        "types": [
-            "Hit 1",
-            "Mana generation debuff",
-            "Stack"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Mana Reducers or Blockers",
-            "Snipers",
-            "Stacking Heroes",
-            "Extra Damage Dealers",
-            "Mana Generation Buffers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "graceful_shot",
@@ -32730,14 +28004,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Buccaneers Blade",
-        "types": [
-            "Hit 1",
-            "Silence"
-        ],
-        "skill_types": [
-            "Silencers",
-            "Snipers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "buccaneers_blade",
@@ -32789,16 +28055,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Shocking News",
-        "types": [
-            "Hit 1",
-            "Silence",
-            "Defense debuff"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "Silencers",
-            "Snipers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2023-12-28",
         "specialId": "shocking_news",
@@ -32854,15 +28110,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Divine Connection",
-        "types": [
-            "Heal All",
-            "Status Ailment Immunity 3"
-        ],
-        "skill_types": [
-            "Healers",
-            "Immunity Providers",
-            "Healers (Special)"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "divine_connection",
@@ -32921,17 +28168,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Nature's Connection",
-        "types": [
-            "Heal All",
-            "Status Ailment Immunity 3"
-        ],
-        "skill_types": [
-            "Healers",
-            "Immunity Providers",
-            "Healers (Special)",
-            "Health Boosters",
-            "Cleansers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2024-10-05",
         "specialId": "natures_connection",
@@ -32997,16 +28233,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Tome of the Stag",
-        "types": [
-            "Health Boost",
-            "Attack buff",
-            "Mana gen buff"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Health Boosters",
-            "Mana Generation Buffers"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2024-01-10",
         "specialId": "tome_of_the_stag",
@@ -33064,14 +28290,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Creeping Vines",
-        "types": [
-            "Hit All",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "creeping_vines",
@@ -33123,14 +28341,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Candy Vines",
-        "types": [
-            "Hit All",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "candy_vines",
@@ -33184,14 +28394,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Crawling Vines",
-        "types": [
-            "Hit All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (DEF)"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-04-17",
         "specialId": "crawling_vines",
@@ -33245,15 +28447,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Toon Vines",
-        "types": [
-            "Hit All",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-03-11",
         "specialId": "toon_vines",
@@ -33317,16 +28510,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Glass Vines",
-        "types": [
-            "Hit All",
-            "Bypass",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Bypassers",
-            "Debuffers (ATK)"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-04-08",
         "specialId": "glass_vines",
@@ -33390,11 +28573,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Stylish Vines",
-        "types": [
-            "Hit All",
-            "Attack Debuff All"
-        ],
-        "skill_types": [],
         "source": "Costume Quest",
         "Release date": "2026-04-10",
         "specialId": "stylish_vines",
@@ -33432,7 +28610,23 @@ window.allHeroes =
             "health": 1579,
             "power": 1005
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Snorri",
@@ -33442,17 +28636,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Bound by Tales",
-        "types": [
-            "Hit 1",
-            "Soul Bond 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Extra Damage Dealers",
-            "Bypassers",
-            "DoT Attackers",
-            "Debuffers (ATK)"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-08-06",
         "specialId": "bound_by_tales",
@@ -33515,16 +28698,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Crippling Grapple",
-        "types": [
-            "Hit 1",
-            "Silence 1",
-            "DoT 1"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Silencers",
-            "Snipers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "crippling_grapple",
@@ -33583,16 +28756,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Demoralizing Banter",
-        "types": [
-            "Hit 1",
-            "Silence 1",
-            "DoT 1"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Silencers",
-            "Snipers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2023-12-07",
         "specialId": "demoralizing_banter",
@@ -33653,18 +28816,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "The Duke's Investigation",
-        "types": [
-            "Hit 3",
-            "Fiend Summoner 3",
-            "Self HoT"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buff Stealers",
-            "Fiends Summoners",
-            "DoT Attackers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2022-12-14",
         "specialId": "the_dukes_investigation",
@@ -33725,20 +28876,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "The Undercover Investigation",
-        "types": [
-            "Hit 3",
-            "Fiend Summoner 3",
-            "Buff Stealing Fiend",
-            "Boosted HoT Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buff Stealers",
-            "Fiends Summoners",
-            "DoT Attackers",
-            "Heal over Time (HoT)",
-            "Health Boosters"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2025-11-12",
         "specialId": "the_undercover_investigation",
@@ -33803,15 +28940,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Squire's Squirrel",
-        "types": [
-            "Hit 1",
-            "Bounce"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Debuffers (ATK)",
-            "Snipers"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "specialId": "squires_squirrel",
@@ -33865,12 +28993,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Squish Squash",
-        "types": [
-            "Hit 3",
-            "Devouring Goo Debuff 3",
-            "Counterattack 3"
-        ],
-        "skill_types": [],
         "source": "Super Elementals",
         "Release date": "2026-04-24",
         "specialId": "squish_squash_achillea",
@@ -33919,20 +29041,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Craving Nip",
-        "types": [
-            "Hit 1",
-            "Damage Boosted Heal All",
-            "Mimic Chest"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Healers (Special)",
-            "Health Boosters",
-            "Mana Raisers",
-            "Immunity Providers",
-            "Ghost Form & Hiding",
-            "Bypassers"
-        ],
         "source": "Bazaar Summon",
         "Release date": "2026-01-27",
         "specialId": "aether_mimic_bite_green",
@@ -34008,15 +29116,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Ancient Mirror",
-        "types": [
-            "Hit All",
-            "Elemental Counterattack All",
-            "Elemental Reflect All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Reflectors"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-11-24",
         "specialId": "ancient_mirror",
@@ -34074,15 +29173,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Verdant Mirror",
-        "types": [
-            "Hit All",
-            "Elemental Reflect All",
-            "Elemental Counterattack All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Reflectors"
-        ],
         "source": "S5 - Dune",
         "Release date": "2024-03-04",
         "specialId": "verdant_mirror",
@@ -34147,18 +29237,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Midsummer's Dream",
-        "types": [
-            "Reviver",
-            "HoT All",
-            "MoT All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Mana Raisers",
-            "Buffers (DEF)",
-            "Revivers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-10-01",
         "specialId": "midsummers_dream",
@@ -34213,20 +29291,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Midsummer's Reverie",
-        "types": [
-            "Reviver",
-            "HoT All",
-            "Mana Generation Buff All",
-            "MoT All"
-        ],
-        "skill_types": [
-            "Heal over Time (HoT)",
-            "Mana Generation Buffers",
-            "Revivers",
-            "Cleansers",
-            "Buffers (ATK)",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-10-20",
         "specialId": "midsummers_reverie",
@@ -34287,20 +29351,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Suspicious Stew",
-        "types": [
-            "Hit All",
-            "Bypass Minions",
-            "Elemental Defense Debuff All",
-            "Sword Guard Mega Minion",
-            "Spreading DoT Minion"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Minions Counters",
-            "Debuffers (DEF)",
-            "Mega Minions Summoners",
-            "DoT Attackers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2025-03-14",
         "specialId": "suspicious_stew",
@@ -34369,17 +29419,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Fabled Llama Ballad",
-        "types": [
-            "Hit All",
-            "Buff Immunity Debuff All",
-            "Damage on each attempted buff All",
-            "Blind Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buff Blockers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Monthly Event - Springvale",
         "Release date": "2023-03-27",
         "specialId": "fabled_llama_ballad",
@@ -34433,17 +29472,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Vigorous Villanelle",
-        "types": [
-            "Hit All",
-            "Buff Immunity Debuff All",
-            "Damage on each attempted buff",
-            "Blind Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buff Blockers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Monthly Event - Springvale",
         "Release date": "2024-03-18",
         "specialId": "vigorous_villanelle",
@@ -34503,17 +29531,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Gargoyles of Redemption",
-        "types": [
-            "Fiend Replacement All",
-            "Summoner All",
-            "Boosted Health per Minion owned"
-        ],
-        "skill_types": [
-            "Fiends Counters",
-            "Health Boosters",
-            "Minions Summoners",
-            "Damage Reducers"
-        ],
         "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "specialId": "gargoyles_of_redemption",
@@ -34567,16 +29584,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Make Them Harmless",
-        "types": [
-            "Hit All",
-            "Bodyguard Mega Minion",
-            "Sleep on Minion hit"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mega Minions Summoners",
-            "Sleepweavers"
-        ],
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-08-22",
         "specialId": "make_them_harmless",
@@ -34641,20 +29648,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Gorging Chew",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Mimic Chest"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Minions Counters",
-            "AoE Attackers (Hit-3)",
-            "Mana Raisers",
-            "Immunity Providers",
-            "Ghost Form & Hiding",
-            "Bypassers"
-        ],
         "source": "Bazaar Summon",
         "Release date": "2025-08-05",
         "specialId": "gorging_chew_green",
@@ -34740,20 +29733,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Very Fast",
         "skill": "Piercing Shot",
-        "types": [
-            "Minion Destroyer 1",
-            "Hit 1",
-            "Mana boosts on minion destroyed",
-            "Bypass",
-            "HoT Self"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Mana Raisers",
-            "Minions Counters",
-            "Snipers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2022-12-14",
         "specialId": "piercing_shot",
@@ -34815,21 +29794,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Very Fast",
         "skill": "Artisan's Shot",
-        "types": [
-            "Minion Destroyer 1",
-            "Hit 1",
-            "Mana boost on Minion Destroyed",
-            "Bypass",
-            "Boosted HoT Self"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Mana Raisers",
-            "Minions Counters",
-            "Snipers",
-            "Heal over Time (HoT)",
-            "Health Boosters"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2025-12-19",
         "specialId": "artisans_shot",
@@ -34895,15 +29859,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Immortal Annihilator",
-        "types": [
-            "Hit All",
-            "Self Resurrection"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Revivers",
-            "Extra Damage Dealers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "immortal_annihilator",
@@ -34961,15 +29916,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Immortal Punisher",
-        "types": [
-            "Hit All",
-            "Self Resurrection"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Revivers",
-            "Extra Damage Dealers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2023-04-03",
         "specialId": "immortal_punisher",
@@ -35029,11 +29975,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Toon Annihilation",
-        "types": [
-            "Hit All",
-            "Self Resurrection"
-        ],
-        "skill_types": [],
         "source": "S2 - Atlantis",
         "Release date": "2026-04-29",
         "specialId": "toon_annihilation",
@@ -35082,19 +30023,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Jewel of the Deep",
-        "types": [
-            "Dispeller 3",
-            "Hit 3",
-            "Insanity 3",
-            "Damage from Ailments Immunity All",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "AoE Attackers (Hit-3)",
-            "Immunity Providers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2024-04-11",
         "specialId": "jewel_of_the_deep",
@@ -35159,19 +30087,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Wisdom of the Gnomes",
-        "types": [
-            "Cleanser All",
-            "Boosted Health All",
-            "Summoner All",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Cleansers",
-            "Health Boosters",
-            "Minions Summoners",
-            "Healers (Special)"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2022-12-01",
         "specialId": "wisdom_of_the_gnomes",
@@ -35237,17 +30152,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Slumber Spores",
-        "types": [
-            "Hit 1",
-            "Sleep 1"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "Mana Reducers or Blockers",
-            "Sleepweavers",
-            "Snipers",
-            "Healers (Special)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-11-01",
         "specialId": "slumber_spores",
@@ -35310,14 +30214,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Staggering Blows",
-        "types": [
-            "Hit All",
-            "Mana Gain Freeze 1"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2026-03-20",
         "specialId": "staggering_blows",
@@ -35376,16 +30272,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "En Garde",
-        "types": [
-            "Hit All",
-            "Lifts Attack Debuffs All",
-            "Lifts Defense Debuffs All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Cleansers",
-            "Minions Summoners"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-01-01",
         "specialId": "en_garde",
@@ -35444,17 +30330,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Command the Pack",
-        "types": [
-            "Hit 1",
-            "Summoner 1"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "Buffers (ATK)",
-            "Snipers",
-            "Minions Summoners",
-            "Mana Raisers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-05-01",
         "specialId": "command_pack",
@@ -35521,20 +30396,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Tokri of Resources",
-        "types": [
-            "Hit All",
-            "Hit Growth Boon",
-            "Summoner All",
-            "Buff Stealing Minions"
-        ],
-        "skill_types": [
-            "Minions Counters",
-            "Ability Scores Modifiers",
-            "Extra Damage Dealers",
-            "AoE Attackers (Hit-5)",
-            "Minions Summoners",
-            "Buff Stealers"
-        ],
         "source": "Temple Summon",
         "Release date": "2025-11-17",
         "specialId": "tokri_of_resources",
@@ -35598,18 +30459,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Odd Drum Roll",
-        "types": [
-            "Reposition",
-            "Hit All",
-            "Bypass Minions",
-            "Bypass defensive buffs"
-        ],
-        "skill_types": [
-            "Random Position",
-            "AoE Attackers (Hit-5)",
-            "Minions Counters",
-            "Bypassers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2024-11-14",
         "specialId": "odd_drum_roll",
@@ -35675,14 +30524,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Boar Call",
-        "types": [
-            "White Boar Mega Minion",
-            "Counterattack Mega Minion"
-        ],
-        "skill_types": [
-            "Counterattackers",
-            "Mega Minions Summoners"
-        ],
         "source": "Goblin Summon",
         "Release date": "2023-10-16",
         "specialId": "boar_call",
@@ -35740,17 +30581,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Verdant Trap",
-        "types": [
-            "Hit random 3",
-            "Exploding Spike Trap on hit",
-            "Elemental Defense Debuff on hit"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Debuffers (DEF)",
-            "Extra Damage Dealers",
-            "Board Alterers"
-        ],
         "source": "Titan Hunter Summon",
         "Release date": "2026-02-16",
         "specialId": "verdant_trap",
@@ -35819,17 +30649,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Sylvan Blessings",
-        "types": [
-            "Heal All",
-            "Delayed Mana Boost All",
-            "Safely Cleanser All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Mana Raisers",
-            "Cleansers",
-            "Minions Counters"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2025-01-22",
         "specialId": "sylvan_blessings",
@@ -35896,18 +30715,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Superfood Purification",
-        "types": [
-            "Healer 3",
-            "Uproots Cleanse 3",
-            "Attack Growth All",
-            "Defense Growth All"
-        ],
-        "skill_types": [
-            "Fiends Summoners",
-            "Healers",
-            "Cleansers",
-            "Ability Scores Modifiers"
-        ],
         "source": "Challenge - Vigilant Vegetables Summon",
         "Release date": "2026-02-04",
         "specialId": "superfood_purification",
@@ -35979,20 +30786,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Building Blocks",
-        "types": [
-            "Hit 3",
-            "Attack Growth 3",
-            "Elemental Reflect 3",
-            "Elemental Counterattack 3",
-            "Self Slime Revive"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Ability Scores Modifiers",
-            "Reflectors",
-            "Counterattackers",
-            "Revivers"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-11-26",
         "specialId": "building_blocks_bulklug",
@@ -36055,18 +30848,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Charge",
         "skill": "Fatal Dreams",
-        "types": [
-            "Charge",
-            "Dispeller 2",
-            "Hit 2",
-            "Sleep 2"
-        ],
-        "skill_types": [
-            "Sleepweavers",
-            "Dispellers",
-            "Snipers",
-            "Minions Counters"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2024-08-27",
         "specialId": "fatal_dreams",
@@ -36138,15 +30919,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Invigorating Pollen",
-        "types": [
-            "Health Boost All",
-            "HoT All"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Heal over Time (HoT)",
-            "Buffers (ATK)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-09-01",
         "specialId": "invigorating_pollen",
@@ -36207,17 +30979,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Fury of Ash",
-        "types": [
-            "Hit All",
-            "Healing Decrease All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Healing Reducers",
-            "Mana Generation Buffers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-07-01",
         "specialId": "fury_of_ash",
@@ -36279,12 +31040,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Farmhand's Fury",
-        "types": [
-            "Hit 1",
-            "Bypass",
-            "Defense Wither 1"
-        ],
-        "skill_types": [],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2026-05-01",
         "specialId": "farmhands_fury",
@@ -36333,15 +31088,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Spectre's Flail",
-        "types": [
-            "Hit Random 5",
-            "Attack Debuff stack on hit"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Debuffers (ATK)",
-            "Stacking Heroes"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2022-01-27",
         "specialId": "spectres_flail",
@@ -36397,15 +31143,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Seaweed Flail",
-        "types": [
-            "Hit 5 random",
-            "Attack Debuff stack on hit"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Debuffers (ATK)",
-            "Stacking Heroes"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2024-08-01",
         "specialId": "seaweed_flail",
@@ -36466,14 +31203,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Call of the Elements",
-        "types": [
-            "Healer",
-            "DoT"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "DoT Attackers"
-        ],
         "source": "Super Elementals",
         "Release date": "2024-05-20",
         "specialId": "call_of_the_elements",
@@ -36542,17 +31271,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Magic",
         "skill": "Charmed Dual Blade",
-        "types": [
-            "Charge",
-            "Hit 1",
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Snipers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "charmed_dual_blade",
@@ -36614,18 +31332,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Magic",
         "skill": "Emerald Dual Blade",
-        "types": [
-            "Charge",
-            "Hit 1",
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Snipers",
-            "Mana Reducers or Blockers",
-            "Minions Counters"
-        ],
         "source": "Tower - Magic",
         "Release date": "2025-11-03",
         "specialId": "emerald_dual_blade",
@@ -36692,18 +31398,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Juggling Trials",
-        "types": [
-            "Reposition All",
-            "Hit All",
-            "Mana Gen Debuff All",
-            "Self Power Boost"
-        ],
-        "skill_types": [
-            "Random Position",
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers",
-            "Buffers (ATK)"
-        ],
         "source": "Tower - Magic",
         "Release date": "2026-01-18",
         "specialId": "juggling_trials",
@@ -36777,20 +31471,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Blazing Venom",
-        "types": [
-            "Firestorm Strike All",
-            "Bypass Minions",
-            "DoT All",
-            "Burn and Poison Increased Damage Debuff All"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Minions Counters",
-            "Snipers",
-            "Bypassers",
-            "Debuffers (DEF)"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-01-26",
         "specialId": "blazing_venom",
@@ -36860,13 +31540,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Curing Venom",
-        "types": [
-            "Firestorm Strike All",
-            "Bypass Minions",
-            "DoT All",
-            "Burn and Poison Increased Damage Debuff All"
-        ],
-        "skill_types": [],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2026-05-01",
         "specialId": "curing_venom",
@@ -36919,16 +31592,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Ancient Technology",
-        "types": [
-            "Healer All",
-            "Reviver",
-            "Status Ailment Immunity All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Revivers",
-            "Immunity Providers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2026-03-26",
         "specialId": "ancient_technology",
@@ -36995,17 +31658,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Echoes of the Opera",
-        "types": [
-            "Hit 1",
-            "Spreading DoT 1",
-            "Attack Buff Stack All"
-        ],
-        "skill_types": [
-            "Snipers",
-            "DoT Attackers",
-            "Stacking Heroes",
-            "Buffers (ATK)"
-        ],
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-03-21",
         "specialId": "echoes_of_the_opera",
@@ -37070,16 +31722,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Jade Blades",
-        "types": [
-            "Hit 2",
-            "Boost Health on damage dealt 3",
-            "Silence 2"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Silencers",
-            "Snipers"
-        ],
         "source": "Super Elementals",
         "Release date": "2024-01-01",
         "specialId": "jade_blades",
@@ -37142,16 +31784,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Looking for Love",
-        "types": [
-            "Taunt",
-            "Counterattack",
-            "Damage reducer"
-        ],
-        "skill_types": [
-            "Counterattackers",
-            "Damage Reducers",
-            "Taunters"
-        ],
         "source": "Monthly Event - Love Season",
         "Release date": "2025-02-14",
         "specialId": "looking_for_love",
@@ -37205,15 +31837,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Challenge the Strongest",
-        "types": [
-            "Hit All",
-            "Mana Reduction All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers",
-            "Bypassers"
-        ],
         "source": "Challenge - Beowulf",
         "Release date": "2025-03-13",
         "specialId": "challenge_the_strongest",
@@ -37273,16 +31896,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Hemlock Tea",
-        "types": [
-            "Hit All",
-            "Bypass",
-            "Cleanse Immunity Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Bypassers",
-            "Cleanse Blockers"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "2023-09-25",
         "specialId": "hemlock_tea",
@@ -37344,18 +31957,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Garlic Platter",
-        "types": [
-            "Hit All",
-            "Bypass",
-            "Cleanse Immunity All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Bypassers",
-            "Cleanse Blockers",
-            "DoT Attackers"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "2025-10-08",
         "specialId": "garlic_serving_edwin",
@@ -37422,16 +32023,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Perfect Teamwork",
-        "types": [
-            "Minion Destroyer 1",
-            "Hit 1",
-            "Health reduction on each Minion owner"
-        ],
-        "skill_types": [
-            "Max Health Reducers",
-            "Minions Counters",
-            "Snipers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "perfect_teamwork",
@@ -37489,16 +32080,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Balanced Teamwork",
-        "types": [
-            "Minion Destroyer 1",
-            "Hit 1",
-            "Health Reduction All"
-        ],
-        "skill_types": [
-            "Max Health Reducers",
-            "Minions Counters",
-            "Snipers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2025-08-08",
         "specialId": "balanced_teamwork",
@@ -37562,16 +32143,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Charge",
         "skill": "Order Ambush",
-        "types": [
-            "Charge",
-            "Hit All",
-            "Counterattack Minion Summoner All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Counterattackers",
-            "Minions Summoners"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2023-01-11",
         "specialId": "order_ambush",
@@ -37639,15 +32210,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Luring Song",
-        "types": [
-            "Hit 3",
-            "Buff Immunity 3",
-            "Damage on each attempted buff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buff Blockers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "luring_song",
@@ -37705,16 +32267,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Soothing Song",
-        "types": [
-            "Hit 3",
-            "Buff Immunity 3",
-            "Damage on each attempted buff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buff Blockers",
-            "Dispellers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2025-01-20",
         "specialId": "soothing_song",
@@ -37779,14 +32331,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Crescent Spear",
-        "types": [
-            "Hit 3",
-            "Self Heal"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Healers (Special)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "crescent_spear",
@@ -37838,15 +32382,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Eclipse Spear",
-        "types": [
-            "Hit 3",
-            "Healing Steal 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Healers (Special)",
-            "Healing Reducers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "eclipse_spear",
@@ -37900,14 +32435,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Lunar Spear",
-        "types": [
-            "Hit All",
-            "Healing Decrease All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Healing Reducers"
-        ],
         "source": "Costume Quest",
         "Release date": "2022-09-05",
         "specialId": "lunar_spear",
@@ -37961,15 +32488,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Toon Spear",
-        "types": [
-            "Hit 3",
-            "Self Heal"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers",
-            "Healers (Special)"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-11-27",
         "specialId": "adorable_spear",
@@ -38029,16 +32547,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Glass Spear",
-        "types": [
-            "Hit 3",
-            "Bypass",
-            "Self Heal"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Bypassers",
-            "Healers (Special)"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-01-14",
         "specialId": "glass_spear",
@@ -38098,15 +32606,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Stylish Spear",
-        "types": [
-            "Hit 3",
-            "Self Heal"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers",
-            "Healers (Special)"
-        ],
         "source": "Costume Quest",
         "Release date": "2026-01-26",
         "specialId": "stylish_spear",
@@ -38166,21 +32665,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Mutated Specimen",
-        "types": [
-            "Attack Growth 3",
-            "Defense Growth 3",
-            "Aberration Mega Minion",
-            "MM DoT 1",
-            "MM Insanity 1",
-            "Self Insanity"
-        ],
-        "skill_types": [
-            "Ability Scores Modifiers",
-            "Mega Minions Summoners",
-            "DoT Attackers",
-            "Mindless Attack & Mindless Heal",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2025-12-03",
         "specialId": "mutated_specimen",
@@ -38261,16 +32745,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Nature's Payback",
-        "types": [
-            "Hit 3",
-            "Reflect Ailments Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "AoE Attackers (Hit-5)",
-            "Mana Raisers",
-            "Reflectors"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-06-01",
         "specialId": "natures_payback",
@@ -38329,19 +32803,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Picnic in the Sky",
-        "types": [
-            "Healer All",
-            "Cleaser All",
-            "Mana Debuffs Immunity All",
-            "Mana Increase on Resist All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Immunity Providers",
-            "Minions Counters",
-            "Mana Raisers",
-            "Status Effect Conversion"
-        ],
         "source": "Tower - Magic",
         "Release date": "2025-04-17",
         "specialId": "picnic_in_the_sky",
@@ -38408,21 +32869,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Savage Gobble",
-        "types": [
-            "Hit 1",
-            "Spreading Dot 1",
-            "Mimic Chest"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Minions Counters",
-            "Snipers",
-            "Mana Raisers",
-            "Immunity Providers",
-            "Ghost Form & Hiding",
-            "Bypassers",
-            "DoT Attackers"
-        ],
         "source": "Bazaar Summon",
         "Release date": "2025-10-27",
         "specialId": "savage_gobble_green",
@@ -38502,18 +32948,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Absorbed Underlings",
-        "types": [
-            "Healer All",
-            "Hit All",
-            "Memorized Minion Summoner All",
-            "Memorized Fiend Summoner All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Healers",
-            "Minions Summoners",
-            "Fiends Summoners"
-        ],
         "source": "Legends Summon - Extra Draw",
         "Release date": "2022-11-22",
         "specialId": "absorbed_underlings",
@@ -38574,17 +33008,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Shattering Warcry",
-        "types": [
-            "Hit 3",
-            "Elemental Defense Debuff 3",
-            "Dispeller 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Dispellers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-12-01",
         "specialId": "shattering_warcry",
@@ -38643,18 +33066,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Warcry of the Hunt",
-        "types": [
-            "Hit 3",
-            "Elemental Defense Debuff 3",
-            "Dispeller 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Dispellers",
-            "Heal over Time (HoT)",
-            "Cleansers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-10-02",
         "specialId": "warcry_of_the_hunt",
@@ -38719,20 +33130,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Greedy Devour",
-        "types": [
-            "Minion Destroyer 1",
-            "Hit 1",
-            "Mimic Chest"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Minions Counters",
-            "Snipers",
-            "Mana Raisers",
-            "Immunity Providers",
-            "Ghost Form & Hiding",
-            "Bypassers"
-        ],
         "source": "Bazaar Summon",
         "Release date": "2025-05-15",
         "specialId": "mimic_training_hero_green_bite",
@@ -38808,20 +33205,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Lance of Avarice",
-        "types": [
-            "Frostfall Strike 3",
-            "Received Damage Debuff 3",
-            "Reflect Buffs 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Debuffers (ATK)",
-            "Reflectors",
-            "Bypassers",
-            "Extra Damage Dealers",
-            "Minions Counters"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-06-13",
         "specialId": "lance_of_avarice",
@@ -38888,18 +33271,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Remedies and Diseases",
-        "types": [
-            "Fiend Destroyer All",
-            "Cleanser All",
-            "HoT All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "DoT Attackers",
-            "Fiends Counters",
-            "Heal over Time (HoT)"
-        ],
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-11-02",
         "specialId": "remedies_and_diseases",
@@ -38966,19 +33337,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Corroding Cutlass",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Elemental Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "DoT Attackers",
-            "Mana Reducers or Blockers",
-            "Extra Damage Dealers",
-            "Minions Counters"
-        ],
         "source": "Covenant Summon",
         "Release date": "2023-06-28",
         "specialId": "corroding_cutlass",
@@ -39041,17 +33399,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Heavy Fragrance",
-        "types": [
-            "Hit 1",
-            "Cleanse Immunity 1",
-            "Spreading DoT 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Buffers (ATK)",
-            "DoT Attackers",
-            "Cleanse Blockers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-07-01",
         "specialId": "heavy_fragrance",
@@ -39113,17 +33460,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Barbed Arrows",
-        "types": [
-            "Hit 3",
-            "Lasting DoT 3",
-            "Delayed Paralysis 3"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "AoE Attackers (Hit-3)",
-            "Sleepweavers",
-            "Healing Reducers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2025-04-14",
         "specialId": "barbed_arrows",
@@ -39182,15 +33518,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Electric Cut",
-        "types": [
-            "Hit 3",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Cleansers",
-            "Extra Damage Dealers"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "2020-10-26",
         "specialId": "electric_cut",
@@ -39252,16 +33579,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Electric Stab",
-        "types": [
-            "Hit 3",
-            "Cleanser All",
-            "Elemental Defense Debuff All Ice"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Cleansers",
-            "Debuffers (DEF)"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "2021-10-04",
         "specialId": "electric_stab",
@@ -39321,17 +33638,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Scroll of Fellowship",
-        "types": [
-            "Safely Dispels All",
-            "Boosted Heal All",
-            "Source of Ailments Random 1"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Health Boosters",
-            "Mana Reducers or Blockers",
-            "Debuffers (DEF)"
-        ],
         "source": "Challenge - Beowulf",
         "Release date": "2025-09-05",
         "specialId": "scroll_of_fellowship",
@@ -39401,15 +33707,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Brittling Force",
-        "types": [
-            "Hit All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (DEF)",
-            "Extra Damage Dealers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2020-08-27",
         "specialId": "brittling_force",
@@ -39467,15 +33764,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Brittling Burst",
-        "types": [
-            "Hit All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Debuffers (DEF)"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2023-01-16",
         "specialId": "brittling_burst",
@@ -39535,18 +33823,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Royal Poisoner",
-        "types": [
-            "Hit All",
-            "DoT All",
-            "Mana Generation Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Damage Sharers",
-            "DoT Attackers",
-            "Mana Raisers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2023-08-10",
         "specialId": "royal_poisoner",
@@ -39609,15 +33885,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Fury of the Ancient Forest",
-        "types": [
-            "Hit 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers",
-            "Buffers (ATK)",
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "Covenant Summon",
         "Release date": "2023-10-28",
         "specialId": "fury_of_the_ancient_forest",
@@ -39678,18 +33945,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Revitalizing Sludge",
-        "types": [
-            "Health Boost All",
-            "Sticky Surface Buff All",
-            "Defense Buff All",
-            "Buff Dispell Immunity All"
-        ],
-        "skill_types": [
-            "Buff Stealers",
-            "Buffers (DEF)",
-            "Health Boosters",
-            "Immunity Providers"
-        ],
         "source": "Super Elementals",
         "Release date": "2024-06-18",
         "specialId": "revitalizing_sludge",
@@ -39752,19 +34007,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Changing Tides",
         "skill": "Testudo Roll",
-        "types": [
-            "Minion Destroyer All",
-            "Hit All",
-            "Defense Buff All",
-            "Heal Stack Self on minion destroyed"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (DEF)",
-            "Minions Counters",
-            "Stacking Heroes",
-            "Heal over Time (HoT)"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "specialId": "testudo_roll",
@@ -39836,19 +34078,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Changing Tides",
         "skill": "Testudo Rock",
-        "types": [
-            "Destroy Minions All",
-            "Hit All",
-            "Defense Buff All",
-            "Heal Stack Self on minion destroyed"
-        ],
-        "skill_types": [
-            "Minions Counters",
-            "AoE Attackers (Hit-5)",
-            "Buffers (DEF)",
-            "Heal over Time (HoT)",
-            "Stacking Heroes"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-07-27",
         "specialId": "testudo_rock",
@@ -39925,14 +34154,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Flail of Destruction",
-        "types": [
-            "Hit 1",
-            "HoT Self"
-        ],
-        "skill_types": [
-            "Heal over Time (HoT)",
-            "Snipers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-04-22",
         "specialId": "flail_of_destruction",
@@ -39988,16 +34209,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Kite of Endurance",
-        "types": [
-            "Hit 1",
-            "HoT Self"
-        ],
-        "skill_types": [
-            "Heal over Time (HoT)",
-            "Snipers",
-            "Buffers (ATK)",
-            "Extra Damage Dealers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2023-06-22",
         "specialId": "kite_of_endurance",
@@ -40058,20 +34269,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Bone Club Party",
-        "types": [
-            "Boost  Health All",
-            "Max Health Reduction All",
-            "Softskin 4",
-            "Healing Debuff Immunity All",
-            "Cleanse Healing Debuffs All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Damage Reducers",
-            "Health Boosters",
-            "Immunity Providers",
-            "Max Health Reducers"
-        ],
         "source": "Challenge - Gargoyle",
         "Release date": "2024-02-27",
         "specialId": "bone_club_party",
@@ -40129,18 +34326,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Changing Tides",
         "skill": "Whirlpool Dash",
-        "types": [
-            "Mana steal 1",
-            "Hit 1",
-            "Mana Generation Buff All"
-        ],
-        "skill_types": [
-            "Mana Generation Buffers",
-            "Mana Raisers",
-            "Mana Reducers or Blockers",
-            "Snipers",
-            "Extra Damage Dealers"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-08-30",
         "specialId": "whirlpool_dash",
@@ -40217,18 +34402,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Changing Tides",
         "skill": "Scavenging Dash",
-        "types": [
-            "Mana steal 1",
-            "Hit 1",
-            "Mana gen Buff All"
-        ],
-        "skill_types": [
-            "Mana Generation Buffers",
-            "Mana Raisers",
-            "Mana Reducers or Blockers",
-            "Snipers",
-            "Extra Damage Dealers"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-06-26",
         "specialId": "scavenging_dash",
@@ -40310,16 +34483,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Hasty Trigger Finger",
-        "types": [
-            "Summoner All",
-            "Hit Random 1 on Ally SS",
-            "SS Damage Buff 4"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Chain & Random Attackers",
-            "Minions Summoners"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2023-12-01",
         "specialId": "hasty_trigger_finger",
@@ -40377,18 +34540,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Hasty Gift Wrapper",
-        "types": [
-            "Summoner All",
-            "Hit 1 on Ally SS",
-            "Mana generation Buff 4",
-            "SS Damage Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Chain & Random Attackers",
-            "Minions Summoners",
-            "Mana Generation Buffers"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2025-12-01",
         "specialId": "hasty_gift_wrapper",
@@ -40454,18 +34605,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Holding Down the Fort",
-        "types": [
-            "Healer All",
-            "Ailments Immunity Buff All",
-            "Spear Guard Mega Minion",
-            "Dispeller Minion"
-        ],
-        "skill_types": [
-            "Healers",
-            "Status Effects Blockers",
-            "Minions Summoners",
-            "Dispellers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2025-07-22",
         "specialId": "holding_down_the_fort",
@@ -40531,16 +34670,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Bone Slam",
-        "types": [
-            "Hit All",
-            "Defense Debuff All",
-            "Self Slime Revive"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (DEF)",
-            "Revivers"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-03-17",
         "specialId": "bone_slam",
@@ -40610,18 +34739,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Malison of the Wildlands",
-        "types": [
-            "Hit 3",
-            "Taunt Blocker 3",
-            "SS Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Fiends Counters",
-            "Immunity Providers",
-            "Taunters"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-09-01",
         "specialId": "malison_of_the_wildlands",
@@ -40682,17 +34799,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Omen of Retribution",
-        "types": [
-            "Defense debuff",
-            "Hit All",
-            "Self Resurrection",
-            "Damage All on resurrection"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (DEF)",
-            "Revivers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2023-04-20",
         "specialId": "omen_of_retribution",
@@ -40755,15 +34861,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Unwavering Focus",
-        "types": [
-            "Hit 1",
-            "Critical Chance Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Snipers",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-07-01",
         "specialId": "unwavering_focus",
@@ -40816,16 +34913,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Exquisite Alchemy",
-        "types": [
-            "Hit 1",
-            "Critical Chance Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Snipers",
-            "Buffers (DEF)",
-            "Dispellers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-03-08",
         "specialId": "exquisite_alchemy",
@@ -40884,18 +34971,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Gruesome Charge",
-        "types": [
-            "EDD 3",
-            "Hit 3",
-            "DoT 3",
-            "Self HoT"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Heal over Time (HoT)",
-            "Debuffers (DEF)"
-        ],
         "source": "Challenge - Beowulf",
         "Release date": "2025-02-13",
         "specialId": "gruesome_charge",
@@ -40964,18 +35039,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Adorable Pest",
-        "types": [
-            "Delayed Self Mana Boost",
-            "Moss Mothling Mega Fiend"
-        ],
-        "skill_types": [
-            "Fiends Summoners",
-            "Mana Reducers or Blockers",
-            "Mana Raisers",
-            "DoT Attackers",
-            "Dodgers",
-            "Minions Counters"
-        ],
         "source": "Alliance - Moths",
         "Release date": "2025-01-23",
         "specialId": "adorable_pest",
@@ -41038,16 +35101,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Green Dragon Crescent Blade",
-        "types": [
-            "Hit 3",
-            "Bypass Minions",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Minions Counters"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "green_dragon_crescent_blade",
@@ -41105,16 +35158,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Green Dragon Inferno Blade",
-        "types": [
-            "Hit 3",
-            "Bypass Minions",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Minions Counters"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2024-10-01",
         "specialId": "green_dragon_inferno",
@@ -41181,18 +35224,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Elemental Magic",
-        "types": [
-            "Dispeller All",
-            "Element Change All",
-            "Attack Buff All",
-            "Critical Chance Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Dispellers",
-            "Cleansers",
-            "Status Effects Blockers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "elemental_magic",
@@ -41249,15 +35280,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Demolishing Crush",
-        "types": [
-            "Hit 3",
-            "Increased Received Damage Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Extra Damage Dealers"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2022-11-12",
         "specialId": "demolishing_crush",
@@ -41315,22 +35337,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Bag of Necessities",
-        "types": [
-            "Attack Buff All",
-            "Defense Buff All",
-            "Mana Generation Buff All",
-            "HoT All",
-            "Counter",
-            "Counterattack All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Buffers (DEF)",
-            "Counterattackers",
-            "Heal over Time (HoT)",
-            "Mana Generation Buffers",
-            "Health Boosters"
-        ],
         "source": "Covenant Summon",
         "Release date": "2023-06-28",
         "specialId": "bag_of_necessities",
@@ -41407,13 +35413,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Cursed Judgement",
-        "types": [
-            "Hit 3",
-            "Bypass",
-            "DoT 3",
-            "Revive Block 3"
-        ],
-        "skill_types": [],
         "source": "Three Kingdoms Summon",
         "Release date": "2026-05-21",
         "specialId": "cursed_judgement",
@@ -41463,16 +35462,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Boon of Gjallarhorn",
-        "types": [
-            "Health Boost All",
-            "Reviver",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Health Boosters",
-            "Revivers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "",
         "specialId": "boon_of_gjallarhorn",
@@ -41526,17 +35515,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Blessing of Gjallarhorn",
-        "types": [
-            "Reviver",
-            "Attack Buff All",
-            "Boosted HoT All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Health Boosters",
-            "Revivers",
-            "Heal over Time (HoT)"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2022-10-24",
         "specialId": "blessing_of_gjallarhorn",
@@ -41592,14 +35570,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Anger of the Forest",
-        "types": [
-            "Hit All",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "anger_of_forest",
@@ -41651,14 +35621,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Slow",
         "skill": "Anger of the Jester",
-        "types": [
-            "Hit All",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "anger_of_the_jester",
@@ -41712,18 +35674,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Anger of the Woods",
-        "types": [
-            "Hit All",
-            "Attack Debuff All",
-            "Defense Debuff All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)",
-            "DoT Attackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2022-10-31",
         "specialId": "anger_of_the_woods",
@@ -41782,15 +35732,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Anger of the Toons",
-        "types": [
-            "Hit All",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-07-16",
         "specialId": "tantrum_of_forest",
@@ -41854,16 +35795,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Anger of Shards",
-        "types": [
-            "Hit All",
-            "Bypass",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Bypassers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-09-07",
         "specialId": "glass_anger_of_forest_horghall",
@@ -41927,16 +35858,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Carnivore Garden",
-        "types": [
-            "Minion Destroyer 3",
-            "Hit 3",
-            "Fiend Summoner 3"
-        ],
-        "skill_types": [
-            "Minions Counters",
-            "AoE Attackers (Hit-3)",
-            "Fiends Summoners"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "2025-10-08",
         "specialId": "carnivore_garden",
@@ -42001,17 +35922,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Mending Bronze Axe",
-        "types": [
-            "Hit All",
-            "Health Boost All",
-            "Defense Buff"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Healers (Special)",
-            "Buffers (DEF)",
-            "Health Boosters"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2024-06-05",
         "specialId": "mending_bronze_axe",
@@ -42070,20 +35980,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Polestar Expedition",
-        "types": [
-            "Hit 1",
-            "Damage Link 1",
-            "Attack Growth All",
-            "Mana Generation Buff All"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Extra Damage Dealers",
-            "Ability Scores Modifiers",
-            "Mana Generation Buffers",
-            "Bypassers",
-            "Minions Counters"
-        ],
         "source": "Astral Summon",
         "Release date": "2025-08-24",
         "specialId": "polestar_expedition",
@@ -42151,17 +36047,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Dreaded Waters",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Healing Steal 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Healers (Special)",
-            "Healing Reducers"
-        ],
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "dreaded_waters",
@@ -42220,21 +36105,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Charge",
         "skill": "Suppressing Ki",
-        "types": [
-            "Charge",
-            "Hit 1/3/All",
-            "Boosts Health All",
-            "Mana generation Debuff 1/3/All"
-        ],
-        "skill_types": [
-            "Snipers",
-            "AoE Attackers (Hit-3)",
-            "AoE Attackers (Hit-5)",
-            "Healers (Special)",
-            "Mana Reducers or Blockers",
-            "Health Boosters",
-            "Minions Counters"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2024-12-05",
         "specialId": "suppressing_ki",
@@ -42303,17 +36173,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Charge",
         "skill": "Shared Visage",
-        "types": [
-            "Charge",
-            "Hit All",
-            "Mana Reduction All",
-            "Dodge Chance Buff 1/3/All"
-        ],
-        "skill_types": [
-            "Dodgers",
-            "Mana Reducers or Blockers",
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "specialId": "shared_visage",
@@ -42380,14 +36239,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Eclipse Shield",
-        "types": [
-            "Hit All",
-            "SS Defense Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (DEF)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "eclipse_shield",
@@ -42439,15 +36290,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Crescent Shield",
-        "types": [
-            "Hit All",
-            "SS Dodge Chance Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Dodgers",
-            "Minions Summoners"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "crescent_shield",
@@ -42507,15 +36349,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Lunar Shield",
-        "types": [
-            "Hit All",
-            "SS Dodge Chance Buff All"
-        ],
-        "skill_types": [
-            "Dodgers",
-            "Minions Summoners",
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-04-17",
         "specialId": "lunar_shield",
@@ -42575,15 +36408,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Toon Shield",
-        "types": [
-            "Hit All",
-            "SS Defense Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (DEF)",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-10-06",
         "specialId": "adorable_shield",
@@ -42647,16 +36471,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Glass Shield",
-        "types": [
-            "Hit All",
-            "Bypass",
-            "SS Defense Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (DEF)",
-            "Bypassers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-12-11",
         "specialId": "glass_shield_kadilen",
@@ -42720,12 +36534,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Charge",
         "skill": "Shuriken Storm",
-        "types": [
-            "Charge",
-            "Buff/Buffs Steal each turn 1",
-            "Hit Random 1 each turn Buff Self/3/All"
-        ],
-        "skill_types": [],
         "source": "Tower - Ninjas",
         "Release date": "2026-04-06",
         "specialId": "shuriken_storm",
@@ -42778,7 +36586,19 @@ window.allHeroes =
             "health": 2941,
             "power": 1599
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Steal Buffs",
+                    "Dmg - Conditional Trigger"
+                ]
+            }
+        ]
     },
     {
         "name": "Kai",
@@ -42788,19 +36608,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Very Fast",
         "skill": "Mantis Strike",
-        "types": [
-            "Hit 1",
-            "Fiend Summoner 1",
-            "Healing Debuff 1",
-            "Dispeller 1 each turn"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "DoT Attackers",
-            "Fiends Summoners",
-            "Snipers",
-            "Healing Reducers"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2022-10-15",
         "specialId": "mantis_strike",
@@ -42871,20 +36678,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Obliterating Surge",
-        "types": [
-            "Boosted Heal Self",
-            "Hit All",
-            "Insanity All",
-            "Stores received damage",
-            "Self Insanity"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Mindless Attack & Mindless Heal",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2025-09-09",
         "specialId": "obliterating_surge",
@@ -42958,15 +36751,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Stiletto Cyclone",
-        "types": [
-            "Hit 1",
-            "Attack Debuff 3"
-        ],
-        "skill_types": [
-            "Debuffers (ATK)",
-            "Mana Generation Buffers",
-            "Snipers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-10-01",
         "specialId": "stiletto_cyclone",
@@ -43023,19 +36807,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Laundry Day",
-        "types": [
-            "Dispel latest buff All",
-            "Hit All",
-            "Shield Guard Mega Minion",
-            "Safely clean all allies Minion"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Mega Minions Summoners",
-            "Cleansers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2024-11-24",
         "specialId": "laundry_day",
@@ -43107,14 +36878,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Moonlight Serenade",
-        "types": [
-            "DoT 3",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "DoT Attackers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "moonlight_serenade",
@@ -43167,16 +36930,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Serenade of Sedition",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Cleansers",
-            "DoT Attackers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2023-12-28",
         "specialId": "serenade_of_sedition",
@@ -43236,16 +36989,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Magical Sword",
-        "types": [
-            "Healer",
-            "Summoner 3",
-            "Mana Reduction Minion"
-        ],
-        "skill_types": [
-            "Healers",
-            "Mana Reducers or Blockers",
-            "Minions Summoners"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "magical_sword",
@@ -43299,16 +37042,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Blessed Blades",
-        "types": [
-            "Health Boost All",
-            "Summoner 3",
-            "Mana Generation Debuff Minion"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Mana Reducers or Blockers",
-            "Minions Summoners"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "specialId": "blessed_blade",
@@ -43369,19 +37102,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Unyielding Stance",
-        "types": [
-            "Humility",
-            "Hit 3",
-            "Bypass",
-            "Taunt",
-            "Self Stoneskin"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Bypassers",
-            "Taunters",
-            "Damage Reducers"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2026-01-23",
         "specialId": "unyielding_stance",
@@ -43454,16 +37174,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Spirit of Spring",
-        "types": [
-            "Summoner All",
-            "Minion Boosting Health",
-            "SS Increased Damage Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Health Boosters",
-            "Minions Summoners"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-12-01",
         "specialId": "spirit_of_spring",
@@ -43525,15 +37235,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Flute of Enchantment",
-        "types": [
-            "Defense Growth All",
-            "Spotted Boar Mega Minion"
-        ],
-        "skill_types": [
-            "Ability Scores Modifiers",
-            "Immunity Providers",
-            "Mega Minions Summoners"
-        ],
         "source": "Goblin Summon",
         "Release date": "2023-12-11",
         "specialId": "flute_of_enchantment",
@@ -43593,16 +37294,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Claws of the Lioness",
-        "types": [
-            "Hit 3",
-            "DoT 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Debuffers (DEF)",
-            "Revivers"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2025-03-17",
         "specialId": "claws_of_the_lioness",
@@ -43668,12 +37359,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Perfect Shot",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "perfect_shot",
@@ -43719,14 +37404,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Pure Shot",
-        "types": [
-            "Hit 1",
-            "Mana Generation Debuff 1"
-        ],
-        "skill_types": [
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "pure_shot",
@@ -43780,14 +37457,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Flawless Shot",
-        "types": [
-            "Hit 1",
-            "Silencer 1"
-        ],
-        "skill_types": [
-            "Silencers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-04-17",
         "specialId": "flawless_shot",
@@ -43841,13 +37510,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Toon Shot",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-02-12",
         "specialId": "toon_shot",
@@ -43905,14 +37567,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Glass Arrow",
-        "types": [
-            "Hit 1",
-            "Bypass"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-05-10",
         "specialId": "glass_arrow",
@@ -43970,13 +37624,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Stylish Arrow",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2026-03-12",
         "specialId": "stylish_arrow",
@@ -44034,20 +37681,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Very Slow",
         "skill": "Dozy Mead",
-        "types": [
-            "Hit All",
-            "Deep Sleep All",
-            "Steals Buffs 1",
-            "Self Mana Boost"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buff Stealers",
-            "Sleepweavers",
-            "Mana Raisers",
-            "Dodgers",
-            "Minions Counters"
-        ],
         "source": "Alliance - Moths",
         "Release date": "2025-06-02",
         "specialId": "dozy_mead",
@@ -44117,19 +37750,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Very Fast",
         "skill": "Punishing Strike",
-        "types": [
-            "Chance for Critical hit",
-            "Hit 3",
-            "Damage Increase Debuff Stack 3",
-            "Critical Chance Buff Stack 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers",
-            "Buffers (ATK)",
-            "Debuffers (DEF)",
-            "Stacking Heroes"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2025-12-14",
         "specialId": "punishing_strike",
@@ -44204,16 +37824,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Arrows of Altruism",
-        "types": [
-            "Hit All",
-            "Bypass",
-            "Latest Buff Steal All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Bypassers",
-            "Buff Stealers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-12-01",
         "specialId": "arrows_of_altruism_liora",
@@ -44275,16 +37885,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Call to Arms",
-        "types": [
-            "Hit 3",
-            "Summoner All",
-            "Counterattack Minion"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Counterattackers",
-            "Minions Summoners"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-05-23",
         "specialId": "call_to_arms",
@@ -44342,16 +37942,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Forest Command",
-        "types": [
-            "Hit 3",
-            "Summoner All",
-            "Counterattack Minion"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Minions Summoners",
-            "Counterattackers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2025-01-29",
         "specialId": "forest_command",
@@ -44418,20 +38008,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Transcendental Frame",
-        "types": [
-            "Full Cleanser Self",
-            "Ghost",
-            "Defense Buff 4 while Ghost",
-            "Boosted HoT 4 while Ghost"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Ghost Form & Hiding",
-            "Heal over Time (HoT)",
-            "Stacking Heroes",
-            "Cleansers",
-            "Health Boosters"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-11-04",
         "specialId": "transcendental_frame",
@@ -44492,19 +38068,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Transcendental Charge",
-        "types": [
-            "Full Cleanser Self",
-            "Ghost",
-            "Defense Buff 4 while Ghost",
-            "Boosted HoT 4 while Ghost"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Ghost Form & Hiding",
-            "Heal over Time (HoT)",
-            "Cleansers",
-            "Health Boosters"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2024-08-29",
         "specialId": "transcendental_charge",
@@ -44569,16 +38132,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Bringer of Order",
-        "types": [
-            "Hit All",
-            "Defense Debuff All",
-            "Attack Debuff All Fire"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-09-29",
         "specialId": "bringer_of_order",
@@ -44638,16 +38191,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Protector of the Blue River",
-        "types": [
-            "Hit All",
-            "Defense Debuff All",
-            "Attack Debuff All Fire"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)"
-        ],
         "source": "S5 - Dune",
         "Release date": "2024-02-05",
         "specialId": "protector_of_the_blue_river",
@@ -44714,16 +38257,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Astral Brew",
-        "types": [
-            "Healer All",
-            "Boosted HoT",
-            "Damage Reduction All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Health Boosters",
-            "Damage Reducers"
-        ],
         "source": "Astral Summon",
         "Release date": "2025-01-06",
         "specialId": "astral_brew",
@@ -44786,16 +38319,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Very Fast",
         "skill": "Hide in Shadows",
-        "types": [
-            "Hit 3",
-            "Dodge Chance Buff 3",
-            "Mana Boost on dodge"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Dodgers",
-            "Mana Raisers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-05-01",
         "specialId": "hide_in_shadows",
@@ -44853,16 +38376,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Puppy Tales",
-        "types": [
-            "Heal All",
-            "Summoner All",
-            "Damage Reduction All"
-        ],
-        "skill_types": [
-            "Damage Reducers",
-            "Healers",
-            "Minions Summoners"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "puppy_tales",
@@ -44926,16 +38439,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Super Duper Spray",
-        "types": [
-            "Hit 3",
-            "Defense debuff"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Extra Damage Dealers",
-            "DoT Attackers"
-        ],
         "source": "Monthly Event - Beach Party",
         "Release date": "2024-06-03",
         "specialId": "super_duper_spray",
@@ -44999,18 +38502,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Coastal Recharge",
-        "types": [
-            "Healer 3",
-            "Heal Growth Boon",
-            "Counterattack 3",
-            "Mana on Counterattack 3"
-        ],
-        "skill_types": [
-            "Healers",
-            "Healers (Special)",
-            "Counterattackers",
-            "Mana Raisers"
-        ],
         "source": "Temple Summon",
         "Release date": "2026-02-25",
         "specialId": "coastal_recharge",
@@ -45078,12 +38569,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Magical Refreshment",
-        "types": [
-            "Boost Mana All",
-            "Uproots Cleanse All",
-            "Boosted HoT Self"
-        ],
-        "skill_types": [],
         "source": "Challenge - Vigilant Vegetables Summon",
         "Release date": "2026-05-17",
         "specialId": "magical_refreshment",
@@ -45141,17 +38626,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Fluff in the Air",
-        "types": [
-            "Hit 3",
-            "Fluff Volley"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Mana Reducers or Blockers",
-            "Damage Reducers",
-            "Immunity Providers",
-            "AoE Attackers (Hit-3)"
-        ],
         "source": "Challenge - Gargoyle",
         "Release date": "2024-05-16",
         "specialId": "fluff_in_the_air",
@@ -45210,17 +38684,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Petrifying Performance",
-        "types": [
-            "Max Health Reduction 3",
-            "Delayed Paralyze 3",
-            "Dispeller 3"
-        ],
-        "skill_types": [
-            "Max Health Reducers",
-            "Mana Reducers or Blockers",
-            "Extra Damage Dealers",
-            "Dispellers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2025-08-08",
         "specialId": "petrifying_performance",
@@ -45279,19 +38742,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Misty Punches",
-        "types": [
-            "Hit 3",
-            "Resist Healing Debuff 3",
-            "Damage on each Resisted Healing 3",
-            "Attack Buff Stack Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buffers (ATK)",
-            "Healing Reducers",
-            "Stacking Heroes",
-            "DoT Attackers"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2023-03-03",
         "specialId": "misty_punches",
@@ -45355,15 +38805,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Leafglow Bloom",
-        "types": [
-            "Hit All after Enemy SS",
-            "Mana Generation Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Generation Buffers",
-            "Damage Sharers"
-        ],
         "source": "Astral Summon",
         "Release date": "2024-03-07",
         "specialId": "leafglow_bloom",
@@ -45421,14 +38862,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Devourer of Vitality",
-        "types": [
-            "Health Drain 1",
-            "Elemental Defense Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "DoT Attackers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "unnatural_pact",
@@ -45490,16 +38923,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Super Porridge",
-        "types": [
-            "Healer All",
-            "Reviver",
-            "Summoner All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Minions Summoners",
-            "Revivers"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "",
         "specialId": "super_porridge",
@@ -45553,16 +38976,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Hyper Porridge",
-        "types": [
-            "Reviver",
-            "Summoner All",
-            "HoT All"
-        ],
-        "skill_types": [
-            "Heal over Time (HoT)",
-            "Minions Summoners",
-            "Revivers"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2021-12-01",
         "specialId": "hyper_porridge",
@@ -45622,17 +39035,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Insidious Goo",
-        "types": [
-            "Hit All",
-            "Slime Fiend Summoner All",
-            "Buff Stealing Fiend"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buff Stealers",
-            "Fiends Summoners",
-            "DoT Attackers"
-        ],
         "source": "Super Elementals",
         "Release date": "2024-10-02",
         "specialId": "insidious_goo",
@@ -45693,17 +39095,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Charge",
         "skill": "Resolute Spirit",
-        "types": [
-            "Charge",
-            "Boosted Heal All",
-            "Mana Generation Buff All",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Health Boosters",
-            "Mana Generation Buffers"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2023-04-05",
         "specialId": "resolute_spirit",
@@ -45767,17 +39158,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Mesmerizing Mirror",
-        "types": [
-            "Enemy Damage Share",
-            "Defense Debuff All",
-            "Elemental Reflect All",
-            "Elemental Counterattack All"
-        ],
-        "skill_types": [
-            "Damage Sharers",
-            "Debuffers (DEF)",
-            "Reflectors"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-02-01",
         "specialId": "mesmerizing_mirror",
@@ -45838,15 +39218,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "The Perfect Throw",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Boosted health convert 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Max Health Reducers"
-        ],
         "source": "Legends Summon",
         "Release date": "2024-02-09",
         "specialId": "the_perfect_throw",
@@ -45909,20 +39280,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Saga of Protection",
-        "types": [
-            "Boost Health All",
-            "Firestorm Ward All",
-            "Buff Dispel Immunity All"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Immunity Providers",
-            "Extra Damage Dealers",
-            "Minions Counters",
-            "Damage Reducers",
-            "DoT Attackers",
-            "Debuffers (DEF)"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "specialId": "saga_of_protection",
@@ -45984,20 +39341,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Guarding Tunes",
-        "types": [
-            "Boost Health All",
-            "Firestorm Ward All",
-            "Buff Dispel Immunity All"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Immunity Providers",
-            "Extra Damage Dealers",
-            "Minions Counters",
-            "Damage Reducers",
-            "DoT Attackers",
-            "Debuffers (DEF)"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-10-15",
         "specialId": "guarding_tunes",
@@ -46061,19 +39404,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Cut, Cure and Craze",
-        "types": [
-            "Hit All",
-            "Healer All",
-            "Dodge Chance Buff All",
-            "Insanity on dodge",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Healers (Special)",
-            "Dodgers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2025-02-06",
         "specialId": "cut_cure_and_craze",
@@ -46134,17 +39464,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Feyfire Slash",
-        "types": [
-            "Hit 3",
-            "Enhanced Dodge Buff 3",
-            "Delayed Attack Buff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Dodgers",
-            "Buffers (ATK)",
-            "Minions Counters"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2024-08-31",
         "specialId": "feyfire_slash",
@@ -46206,19 +39525,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Charge",
         "skill": "Suffocating Smoke",
-        "types": [
-            "Charge",
-            "Hit 1/3/All",
-            "DoT 1/3/All",
-            "Blind 1/3/All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "DoT Attackers",
-            "Snipers"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2022-02-02",
         "specialId": "suffocating_smoke",
@@ -46283,16 +39589,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Valiant Lunge",
-        "types": [
-            "Dispeller 1",
-            "Hit 1",
-            "Elemental Defense Debuff 1"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "Dispellers",
-            "Snipers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "valiant_lunge",
@@ -46354,18 +39650,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Innovative Lunge",
-        "types": [
-            "Dispeller 1",
-            "Hit 1",
-            "Elemental Defense Debuff 1"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "Dispellers",
-            "Snipers",
-            "Extra Damage Dealers",
-            "Buffers (ATK)"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2023-05-25",
         "specialId": "innovative_lunge",
@@ -46432,18 +39716,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Reckless Sword Swings",
-        "types": [
-            "Hit 1",
-            "Hit 2 random",
-            "DoT on hit",
-            "Increased Bleed DoT on hit"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "DoT Attackers",
-            "Snipers",
-            "Extra Damage Dealers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2024-09-01",
         "specialId": "reckless_sword_swings",
@@ -46506,19 +39778,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Dance of the Heron",
-        "types": [
-            "Self Resurrection",
-            "Dance of the Heron 4",
-            "Counterattack 4",
-            "Reduced Damage 4",
-            "Status Effect Immunity 4"
-        ],
-        "skill_types": [
-            "Counterattackers",
-            "Damage Reducers",
-            "Dancers",
-            "Revivers"
-        ],
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-01-25",
         "specialId": "dance_of_the_heron",
@@ -46590,17 +39849,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Very Fast",
         "skill": "Confident Strategy",
-        "types": [
-            "Hit All",
-            "Steal 1 Buff All",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buff Stealers",
-            "Buffers (ATK)",
-            "Minions Counters"
-        ],
         "source": "Monthly Event - Lunar Year",
         "Release date": "2024-02-08",
         "specialId": "confident_strategy",
@@ -46662,18 +39910,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "The Queen's Speech",
-        "types": [
-            "Taunt",
-            "HoT Self",
-            "Defense Buff All",
-            "Mana Generation Buff All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Heal over Time (HoT)",
-            "Mana Generation Buffers",
-            "Taunters"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2022-12-14",
         "specialId": "the_queens_speech",
@@ -46733,16 +39969,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Howling Sword",
-        "types": [
-            "Hit 3",
-            "Self Power Boost",
-            "Self HoT"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buffers (ATK)",
-            "Heal over Time (HoT)"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "specialId": "howling_sword",
@@ -46796,16 +40022,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Rusty Blade",
-        "types": [
-            "Hit 3",
-            "Self Power Boost",
-            "Self HoT"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buffers (ATK)",
-            "Heal over Time (HoT)"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2024-12-17",
         "specialId": "rusty_blade",
@@ -46867,18 +40083,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Herbal Remedies",
-        "types": [
-            "Fiend Destroyer All",
-            "Healer All",
-            "Attack Growth All",
-            "Defense Growth All"
-        ],
-        "skill_types": [
-            "Fiends Counters",
-            "Healers",
-            "Ability Scores Modifiers",
-            "Status Effect Conversion"
-        ],
         "source": "Tower - Magic",
         "Release date": "2025-10-19",
         "specialId": "herbal_remedies",
@@ -46952,16 +40156,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Nuts of Yggdrasil",
-        "types": [
-            "Healer All",
-            "Board Alterer"
-        ],
-        "skill_types": [
-            "Board Alterers",
-            "Debuffers (ATK)",
-            "Buffers (ATK)",
-            "Healers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "",
         "specialId": "nuts_of_yggdrasil",
@@ -47013,16 +40207,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Roots of Yggdrasil",
-        "types": [
-            "HoT All",
-            "Board Alterer"
-        ],
-        "skill_types": [
-            "Board Alterers",
-            "Debuffers (ATK)",
-            "Buffers (ATK)",
-            "Heal over Time (HoT)"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2023-09-25",
         "specialId": "roots_of_yggdrasil",
@@ -47076,16 +40260,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Mixed Green Herbs",
-        "types": [
-            "Healer All",
-            "Reviver",
-            "Moonrise Ward All"
-        ],
-        "skill_types": [
-            "Damage Reducers",
-            "Healers",
-            "Revivers"
-        ],
         "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "specialId": "mixed_green_herbs",
@@ -47143,17 +40317,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "First Law of Thermodynamics",
-        "types": [
-            "Taunt",
-            "HoT All",
-            "Stored Damage Hit All"
-        ],
-        "skill_types": [
-            "Heal over Time (HoT)",
-            "Taunters",
-            "Health Boosters",
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "Covenant Summon",
         "Release date": "2024-06-06",
         "specialId": "first_law_of_thermodynamics",
@@ -47220,14 +40383,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Elemental Infusion Arrow",
-        "types": [
-            "Hit 1, 3 or All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "AoE Attackers (Hit-5)",
-            "Snipers"
-        ],
         "source": "Super Elementals",
         "Release date": "2022-12-05",
         "specialId": "elemental_infusion_arrow",
@@ -47283,15 +40438,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Sonic Infusion Arrow",
-        "types": [
-            "Hit 1, 3 or All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "AoE Attackers (Hit-5)",
-            "Snipers",
-            "Extra Damage Dealers"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-07-18",
         "specialId": "sonic_infusion_arrow",
@@ -47358,20 +40504,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Silencing Stick-up",
-        "types": [
-            "Hit 1",
-            "Silencer 1",
-            "SS Defense Debuff 1",
-            "Cleanse Immunity Debuff 1",
-            "Max Health Reducer Self"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Silencers",
-            "Debuffers (DEF)",
-            "Cleanse Blockers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Monthly Event - Springvale",
         "Release date": "2025-03-31",
         "specialId": "silencing_stick_up",
@@ -47430,16 +40562,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Prayer of the Desert",
-        "types": [
-            "Hit 1",
-            "Healer All",
-            "Dodge Chance Buff All"
-        ],
-        "skill_types": [
-            "Dodgers",
-            "Healers (Special)",
-            "Snipers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2023-08-14",
         "specialId": "prayer_of_the_desert",
@@ -47503,16 +40625,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Power of Flora",
-        "types": [
-            "Defense Debuff 3",
-            "Hit 1",
-            "Summoner All"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "Minions Summoners",
-            "Snipers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-04-01",
         "specialId": "power_of_flora",
@@ -47577,16 +40689,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Goblin Serenade",
-        "types": [
-            "Attack Wither All",
-            "Health Reduction All",
-            "SS Defense Debuff All"
-        ],
-        "skill_types": [
-            "Ability Scores Modifiers",
-            "Debuffers (DEF)",
-            "Max Health Reducers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2023-09-18",
         "specialId": "goblin_serenade",
@@ -47642,17 +40744,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Feral Arrows",
-        "types": [
-            "Hit 3",
-            "Fiend Summoner 3",
-            "Damage Increasing Fiend"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers",
-            "Fiends Summoners",
-            "DoT Attackers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2023-05-18",
         "specialId": "feral_arrows",
@@ -47717,17 +40808,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Ruthless Gambit",
-        "types": [
-            "Revive Ability Block 3",
-            "Revive Buff Block 3",
-            "Hit 3",
-            "Wither 3"
-        ],
-        "skill_types": [
-            "Resurrection Inhibitors",
-            "AoE Attackers (Hit-3)",
-            "Ability Scores Modifiers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2025-10-18",
         "specialId": "ruthless_gambit",
@@ -47788,15 +40868,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Changing Tides",
         "skill": "Overwhelming Raid",
-        "types": [
-            "Hit All",
-            "Fiend Summoner All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Fiends Summoners",
-            "DoT Attackers"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-02-01",
         "specialId": "overwhelming_raid",
@@ -47861,15 +40932,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Changing Tides",
         "skill": "Opposing Raid",
-        "types": [
-            "Hit All",
-            "Fiend Summoner All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Fiends Summoners",
-            "DoT Attackers"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-02-03",
         "specialId": "opposing_raid",
@@ -47939,17 +41001,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Fierce Pierce",
-        "types": [
-            "Lasting Bypass",
-            "Hit 1",
-            "Lasting Dodge"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Snipers",
-            "Dodgers",
-            "Healing Reducers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2024-11-18",
         "specialId": "fierce_pierce",
@@ -48011,19 +41062,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Vibrant Whistle",
-        "types": [
-            "Wild",
-            "Heal All or Boost Health All",
-            "Boost Mana All",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Heal over Time (HoT)",
-            "Health Boosters",
-            "Healers (Special)",
-            "Mana Raisers",
-            "Buffers (DEF)"
-        ],
         "source": "Birthday Summon",
         "Release date": "2026-03-18",
         "specialId": "vibrant_whistle",
@@ -48085,17 +41123,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Mallet Swing of the Beast",
-        "types": [
-            "Hit 3",
-            "Blind 3",
-            "DoT 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)",
-            "DoT Attackers",
-            "Cleansers"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2023-02-09",
         "specialId": "mallet_swing_of_the_beast",
@@ -48156,16 +41183,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Slow",
         "skill": "Power Wave",
-        "types": [
-            "Hit 3",
-            "Mindless Attack"
-        ],
-        "skill_types": [
-            "Mana Reducers or Blockers",
-            "Bypassers",
-            "AoE Attackers (Hit-3)",
-            "Damage Sharers"
-        ],
         "source": "Astral Summon",
         "Release date": "2024-06-12",
         "specialId": "power_wave",
@@ -48229,19 +41246,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Vicious Trap",
-        "types": [
-            "Gamble",
-            "Hit All",
-            "DoT All",
-            "Status Ailments Duration Reset All",
-            "Chance for Critical hits"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Effect Duration Resetters",
-            "DoT Attackers",
-            "Extra Damage Dealers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2025-08-02",
         "specialId": "vicious_trap",
@@ -48319,18 +41323,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Primeval Glaive",
-        "types": [
-            "Hit 1 or 3",
-            "Dispeller 3",
-            "Mana Reduction 3"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Extra Damage Dealers",
-            "Snipers",
-            "AoE Attackers (Hit-3)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2024-07-21",
         "specialId": "primeval_glaive",
@@ -48398,17 +41390,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Snapping Jaws",
-        "types": [
-            "Hit 1",
-            "Pike Mega Fiend 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Fiends Summoners",
-            "Extra Damage Dealers",
-            "Debuffers (ATK)",
-            "DoT Attackers"
-        ],
         "source": "Monthly Event - Kalevala",
         "Release date": "2025-07-28",
         "specialId": "snapping_jaws",
@@ -48472,12 +41453,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Ancient Martial Arts",
-        "types": [
-            "Hit 1",
-            "Counterattack All",
-            "Hit All on Ally SS"
-        ],
-        "skill_types": [],
         "source": "Covenant Summon",
         "Release date": "2026-04-28",
         "specialId": "ancient_martial_arts",
@@ -48531,15 +41506,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Charge",
         "skill": "Splintering Shot",
-        "types": [
-            "Charge",
-            "Hit 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers",
-            "Snipers"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2023-07-26",
         "specialId": "splintering_shot",
@@ -48607,14 +41573,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Martial Prowess",
-        "types": [
-            "Titan Attack Buff All",
-            "HoT All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Heal over Time (HoT)"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "martial_prowess",
@@ -48666,14 +41624,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Kane Prowess",
-        "types": [
-            "Health Boost All",
-            "Titan Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Health Boosters"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2022-12-12",
         "specialId": "martial_dance",
@@ -48727,18 +41677,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "The Call to Hibernate",
-        "types": [
-            "Hit All",
-            "Sleep All",
-            "HoT All"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "Heal over Time (HoT)",
-            "Mana Reducers or Blockers",
-            "Sleepweavers",
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2023-10-18",
         "specialId": "the_call_to_hibernate",
@@ -48797,19 +41735,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Force of Forest",
-        "types": [
-            "Hit All",
-            "Summoner All",
-            "HoT All",
-            "Mana Generation Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (ATK)",
-            "Heal over Time (HoT)",
-            "Mana Reducers or Blockers",
-            "Minions Summoners"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-03-01",
         "specialId": "force_of_forest",
@@ -48874,21 +41799,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Magic",
         "skill": "Poem of the Centaurs",
-        "types": [
-            "Charge",
-            "Increased Damage from Ailments All",
-            "DoT All",
-            "Healer 3",
-            "Damage from Ailments Immunity 3"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Healers",
-            "Immunity Providers",
-            "Stacking Heroes",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2023-05-03",
         "specialId": "poem_of_the_centaurs",
@@ -48958,25 +41868,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Magic",
         "skill": "Brew of the Centaurs",
-        "types": [
-            "Charge",
-            "Increased Damage from Ailments All",
-            "DoT all",
-            "Heal Self on DoT",
-            "Healer 3",
-            "Damage from Ailments Immunity 3",
-            "Heal on attempted ailment 3"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Healers (Special)",
-            "Healers",
-            "Immunity Providers",
-            "Stacking Heroes",
-            "Mana Reducers or Blockers",
-            "Minions Counters"
-        ],
         "source": "Tower - Magic",
         "Release date": "2025-12-27",
         "specialId": "brew_of_the_centaurs",
@@ -49052,17 +41943,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Grab and Run",
-        "types": [
-            "Mana Steal 1",
-            "Hit 1",
-            "Hit random 4",
-            "Heal Steal 1"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Healing Reducers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2025-09-26",
         "specialId": "grab_and_run",
@@ -49133,14 +42013,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Mad as a Hatter",
-        "types": [
-            "Hit 3",
-            "Buff Stealer All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buff Stealers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "mad_as_a_hatter",
@@ -49192,16 +42064,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Mad Tea Party",
-        "types": [
-            "Hit 3",
-            "Buff Stealer All",
-            "Minion Summoner Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buff Stealers",
-            "Minions Summoners"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2024-04-18",
         "specialId": "mad_tea_party",
@@ -49261,19 +42123,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Reporting for Duty",
-        "types": [
-            "Hit All",
-            "Reduce Ailments duration by 3 All",
-            "Reduce Buff duration by 3 All",
-            "Defense Buff All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (DEF)",
-            "Debuffers (DEF)",
-            "Effect Duration Resetters"
-        ],
         "source": "Goblin Summon",
         "Release date": "2024-07-07",
         "specialId": "reporting_for_duty",
@@ -49347,16 +42196,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Accelerated Growth",
-        "types": [
-            "Healer All",
-            "MoT All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Healers",
-            "Mana Raisers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "accelerated_growth",
@@ -49414,17 +42253,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Blooming Growth",
-        "types": [
-            "Boosted Heal All",
-            "MoT All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "DoT Attackers",
-            "Health Boosters",
-            "Mana Raisers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2025-06-15",
         "specialId": "blooming_growth",
@@ -49488,12 +42316,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Gluttonous Chomp",
-        "types": [
-            "Hit 1",
-            "Mimic Chest",
-            "Normal Attack Buff All"
-        ],
-        "skill_types": [],
         "source": "Bazaar Summon",
         "Release date": "2026-05-02",
         "specialId": "gluttonous_chomp_green",
@@ -49575,20 +42397,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Judgment & Penance",
-        "types": [
-            "Hit 1",
-            "Block Status Effects Cast 1",
-            "Hit Random 1",
-            "Damage on each Resisted Healing 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Bypassers",
-            "Chain & Random Attackers",
-            "Status Effects Blockers",
-            "Healing Reducers",
-            "Mana Raisers"
-        ],
         "source": "Astral Summon",
         "Release date": "2025-12-24",
         "specialId": "judgment_and_penance",
@@ -49659,14 +42467,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Song of the Morass",
-        "types": [
-            "Hit 3",
-            "Blind All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)"
-        ],
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "song_of_the_morass",
@@ -49722,14 +42522,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Poem of the Morass",
-        "types": [
-            "Hit 3",
-            "Blind All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)"
-        ],
         "source": "Monthly Event - Kalevala",
         "Release date": "2024-07-22",
         "specialId": "poem_of_the_morass",
@@ -49787,14 +42579,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Judgement of Goo",
-        "types": [
-            "Hit 3",
-            "Sticky Surface Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buff Stealers"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-07-04",
         "specialId": "judgement_of_goo",
@@ -49853,16 +42637,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Shared Compassion",
-        "types": [
-            "Hit 2",
-            "Damage Link 2",
-            "Mindless Heal 2"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Extra Damage Dealers",
-            "Mindless Attack & Mindless Heal"
-        ],
         "source": "Monthly Event - Love Season",
         "Release date": "2026-01-19",
         "specialId": "shared_compassion",
@@ -49921,16 +42695,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Swooping Talon",
-        "types": [
-            "Hit All",
-            "DoT All",
-            "Blind All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Debuffers (ATK)"
-        ],
         "source": "Tower - Owls",
         "Release date": "2024-03-13",
         "specialId": "swooping_talon",
@@ -49994,17 +42758,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Withering Seasons",
-        "types": [
-            "Minion Destroyer 3",
-            "Hit 3",
-            "DoT 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Minions Counters",
-            "Dodgers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-02-01",
         "specialId": "withering_seasons",
@@ -50070,19 +42823,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Dancer",
         "skill": "Slash of the Vibrant Lion",
-        "types": [
-            "Safely Dispel 1",
-            "Spirit Slash Hit 1",
-            "Vibrant Fortune Dance Buff 2"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Dispellers",
-            "Dancers",
-            "Buffers (DEF)",
-            "Extra Damage Dealers",
-            "Damage Reducers"
-        ],
         "source": "Monthly Event - Fortune Summon",
         "Release date": "2026-02-17",
         "specialId": "slash_of_the_vibrant_lion",
@@ -50151,18 +42891,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Madrigal of Mayhem",
-        "types": [
-            "Hit 1",
-            "Chain",
-            "Attack Debuff on hit",
-            "Buff Immunity on hit"
-        ],
-        "skill_types": [
-            "Buff Blockers",
-            "Chain & Random Attackers",
-            "Debuffers (ATK)",
-            "Snipers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2022-08-11",
         "specialId": "madrigal_of_mayhem",
@@ -50222,19 +42950,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Staff of Mana Control",
-        "types": [
-            "Hit 1",
-            "Hit All Ice",
-            "Damage when Full Mana on Hit",
-            "Mana Reducer when Full Mana on Hit",
-            "Board Alterer"
-        ],
-        "skill_types": [
-            "Board Alterers",
-            "Mana Reducers or Blockers",
-            "Snipers",
-            "Chain & Random Attackers"
-        ],
         "source": "Super Elementals",
         "Release date": "2022-12-05",
         "specialId": "staff_of_mana_control",
@@ -50301,21 +43016,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Melody of Mana Control",
-        "types": [
-            "Hit 1",
-            "Hit All Ice",
-            "Damage when Full Mana on Hit",
-            "Mana Reducer when Full Mana on Hit",
-            "Board Alterer",
-            "Elemental Defense Debuff All Ice"
-        ],
-        "skill_types": [
-            "Board Alterers",
-            "Mana Reducers or Blockers",
-            "Snipers",
-            "Chain & Random Attackers",
-            "Debuffers (DEF)"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-12-07",
         "specialId": "melody_of_mana_control",
@@ -50389,16 +43089,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Power of the Forest",
-        "types": [
-            "Hit All",
-            "Power Boost Self",
-            "Mana Corruption All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (ATK)",
-            "Mana Corruption"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2023-10-18",
         "specialId": "power_of_the_forest",
@@ -50461,19 +43151,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Storm of Blades",
-        "types": [
-            "Chance for Critical hits",
-            "Hit All",
-            "Hit Random 1 each turn",
-            "Boost Health on damage dealt"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Chain & Random Attackers",
-            "Healers (Special)",
-            "Health Boosters"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2026-03-28",
         "specialId": "storm_of_blades",
@@ -50540,17 +43217,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Warding Off Evil",
-        "types": [
-            "Heal All",
-            "Lifts 1 Ailment All",
-            "Debuff Reflecting Chance All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Healers",
-            "Reflectors",
-            "Minions Counters"
-        ],
         "source": "Monthly Event - Lunar Year",
         "Release date": "2025-01-27",
         "specialId": "warding_off_evil",
@@ -50612,21 +43278,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Lance of Torment",
-        "types": [
-            "Hit 1",
-            "Self Boosted Heal",
-            "Resonance DoT 1",
-            "Hit Random 1 if Boosted Health"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Snipers",
-            "Healers (Special)",
-            "Health Boosters",
-            "Chain & Random Attackers",
-            "DoT Attackers",
-            "Extra Damage Dealers"
-        ],
         "source": "Astral Summon",
         "Release date": "2025-10-23",
         "specialId": "lance_of_torment",
@@ -50695,18 +43346,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Sand Storm",
-        "types": [
-            "Hit All",
-            "DoT All",
-            "Healing Debuff All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Cleansers",
-            "DoT Attackers",
-            "Healing Reducers"
-        ],
         "source": "Monthly Event - Beach Party",
         "Release date": "",
         "specialId": "kings_curse",
@@ -50763,18 +43402,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Wipeout",
-        "types": [
-            "Hit All",
-            "DoT All",
-            "Mana Generation Buff All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Cleansers",
-            "DoT Attackers",
-            "Mana Generation Buffers"
-        ],
         "source": "Monthly Event - Beach Party",
         "Release date": "2021-06-21",
         "specialId": "sand_wave_yunan",
@@ -50837,18 +43464,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Darts of the Deep",
-        "types": [
-            "Hit 1",
-            "Random Extra Hits",
-            "Insanity on hit",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Extra Damage Dealers",
-            "Snipers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2024-06-30",
         "specialId": "darts_of_the_deep",
@@ -50908,18 +43523,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Emerald Flash",
-        "types": [
-            "Hit All",
-            "Attack Debuff All",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Dispellers",
-            "Extra Damage Dealers",
-            "Mana Generation Buffers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-02-01",
         "specialId": "emerald_flash",
@@ -50984,19 +43587,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Plume Flash",
-        "types": [
-            "Dispeller All",
-            "Hit All",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Dispellers",
-            "Extra Damage Dealers",
-            "Cleansers",
-            "Mana Generation Buffers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-12-19",
         "specialId": "plume_flash",
@@ -51067,19 +43657,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Moldavite Wings",
-        "types": [
-            "Hit 3",
-            "Moldavite Owl Fiend Summoner 3",
-            "Fiend Dispels 1 buff each turn",
-            "Self Insanity"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Fiends Summoners",
-            "Dispellers",
-            "Mindless Attack & Mindless Heal",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2026-02-06",
         "specialId": "moldavite_wings",
@@ -51159,16 +43736,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Keyknife Typhoon",
-        "types": [
-            "Hit 1",
-            "Mana Boosts 1",
-            "Mindless Attack 1"
-        ],
-        "skill_types": [
-            "Mindless Attack & Mindless Heal",
-            "Snipers",
-            "Mana Raisers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-08-01",
         "specialId": "keyknife_typhoon",
@@ -51226,18 +43793,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Hoverboard Slam",
-        "types": [
-            "Hit 1",
-            "Hit 4 if Ice",
-            "Attack Debuff on hit",
-            "Defense Debuff on hit"
-        ],
-        "skill_types": [
-            "Debuffers (ATK)",
-            "Debuffers (DEF)",
-            "Snipers",
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "Super Elementals",
         "Release date": "2023-08-14",
         "specialId": "hoverboard_slam",
@@ -51301,14 +43856,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Hoverboard Crash",
-        "types": [
-            "Hit 1",
-            "Bypass",
-            "Hit 4 if Ice",
-            "Attack Debuff on hit",
-            "Defense Debuff on hit"
-        ],
-        "skill_types": [],
         "source": "Super Elementals",
         "Release date": "2026-04-24",
         "specialId": "hoverboard_crash",
@@ -51365,12 +43912,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Backstab",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "backstab",
@@ -51410,12 +43951,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Focused Shot",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "focused_shot",
@@ -51455,12 +43990,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Focused Shot",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "focused_shot",
@@ -51500,12 +44029,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Poisoned Blade",
-        "types": [
-            "DOT 1"
-        ],
-        "skill_types": [
-            "DoT Attackers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "poisoned_blade",
@@ -51545,12 +44068,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Attack Rally",
-        "types": [
-            "Attack Buff"
-        ],
-        "skill_types": [
-            "Buffers (ATK)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "attack_rally",
@@ -51590,14 +44107,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Apothecary Kit",
-        "types": [
-            "Heal all",
-            "Healing Debuff"
-        ],
-        "skill_types": [
-            "Healers",
-            "Healing Reducers"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "specialId": "apothecary_kit",
@@ -51649,13 +44158,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Slow",
         "skill": "Tribal Rage",
-        "types": [
-            "Attack Buff Self",
-            "Delayed Damage All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "tribal_rage",
@@ -51706,16 +44208,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "One Jump Ahead",
-        "types": [
-            "Hit 3",
-            "Dodge Chance Buff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buffers (DEF)",
-            "Dodgers",
-            "Stacking Heroes"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "one_jump_ahead",
@@ -51774,16 +44266,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "One Spell Ahead",
-        "types": [
-            "Hit 3",
-            "Dodge Chance Buff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Dodgers",
-            "Stacking Heroes",
-            "Buffers (DEF)"
-        ],
         "source": "S5 - Dune",
         "Release date": "2024-08-10",
         "specialId": "one_spell_ahead",
@@ -51849,12 +44331,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Electric Jolt",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "electric_jolt",
@@ -51900,14 +44376,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Poison Jolt",
-        "types": [
-            "Hit 1",
-            "DoT 1"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "poison_jolt",
@@ -51962,13 +44430,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Toon Jolt",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-01-22",
         "specialId": "toon_jolt",
@@ -52026,14 +44487,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Glass Jolt",
-        "types": [
-            "Hit 1",
-            "Bypass"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-03-11",
         "specialId": "glass_jolt",
@@ -52091,13 +44544,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Stylish Jolt",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2026-03-12",
         "specialId": "stylish_jolt",
@@ -52155,15 +44601,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Pointy Darts",
-        "types": [
-            "Hit 3",
-            "Softskin 2"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Damage Reducers",
-            "Immunity Providers"
-        ],
         "source": "Challenge - Gargoyle",
         "Release date": "2024-05-16",
         "specialId": "pointy_darts",
@@ -52219,15 +44656,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Dual Slash",
-        "types": [
-            "Hit 1",
-            "Hit Random 1"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Extra Damage Dealers",
-            "Snipers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "",
         "specialId": "dual_slash",
@@ -52280,16 +44708,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Empowered Slash",
-        "types": [
-            "Hit 1",
-            "Hit Random 1",
-            "Mana Generation Debuff on hit"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2022-07-04",
         "specialId": "empowered_slash",
@@ -52350,11 +44768,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Dual Toon Slash",
-        "types": [
-            "Hit 1",
-            "Hit Random 1"
-        ],
-        "skill_types": [],
         "source": "S3 - Valhalla",
         "Release date": "2026-04-29",
         "specialId": "dual_toon_slash",
@@ -52402,15 +44815,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Abiding Dogma",
-        "types": [
-            "Board Alterer"
-        ],
-        "skill_types": [
-            "Board Alterers",
-            "Mana Generation Buffers",
-            "Mana Reducers or Blockers",
-            "Damage Reducers"
-        ],
         "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "specialId": "abiding_dogma",
@@ -52460,14 +44864,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Unholy Light",
-        "types": [
-            "Hit 3",
-            "Mana Generation Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "unholy_light",
@@ -52519,13 +44915,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Crazed Lunge",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Buff Blockers",
-            "Snipers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "crazed_lunge",
@@ -52578,16 +44967,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Lament of Regression",
-        "types": [
-            "Defense Debuff All",
-            "Attack Debuff All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "song_of_regression",
@@ -52637,16 +45016,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Slow",
         "skill": "Lament of the Hunt",
-        "types": [
-            "Defense Buff All",
-            "Attack Buff All",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Buffers (DEF)",
-            "Dispellers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2023-04-03",
         "specialId": "lament_of_the_hunt",
@@ -52702,12 +45071,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Toon Lament",
-        "types": [
-            "Defense Debuff All",
-            "Attack Debuff All",
-            "Cleanser All"
-        ],
-        "skill_types": [],
         "source": "S2 - Atlantis",
         "Release date": "2026-04-29",
         "specialId": "toon_lament",
@@ -52755,17 +45118,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Very Slow",
         "skill": "Stubby Reap",
-        "types": [
-            "Hit All",
-            "Boost Mana on kill"
-        ],
-        "skill_types": [
-            "Mana Raisers",
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Cleansers",
-            "DoT Attackers"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2023-02-09",
         "specialId": "stubby_reap",
@@ -52825,13 +45177,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Merciless Bite",
-        "types": [
-            "Hit 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "merciless_bite",
@@ -52883,14 +45228,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Explosive O'Lantern",
-        "types": [
-            "Hit 1",
-            "Bomb"
-        ],
-        "skill_types": [
-            "Snipers",
-            "AoE Attackers (Hit-3)"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "2020-10-26",
         "specialId": "explosive_o_lantern",
@@ -52946,19 +45283,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Slayer",
         "skill": "Assassin's Blades",
-        "types": [
-            "Hit 3",
-            "Defense debuff",
-            "Stack"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Healers (Special)",
-            "Stacking Heroes",
-            "Mana Generation Buffers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "assassins_blades",
@@ -53022,15 +45346,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Charge",
         "skill": "Cursed Fumes",
-        "types": [
-            "Charge",
-            "DoT All",
-            "Blind All"
-        ],
-        "skill_types": [
-            "Debuffers (ATK)",
-            "DoT Attackers"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2023-07-26",
         "specialId": "cursed_fumes",
@@ -53092,19 +45407,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Dig a Hole",
-        "types": [
-            "Clean Self",
-            "Hide Self",
-            "Delayed Hit random 1",
-            "Delayed Mana Gain Freeze 1"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Ghost Form & Hiding",
-            "Mana Reducers or Blockers",
-            "Stacking Heroes",
-            "Chain & Random Attackers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "dig_a_hole",
@@ -53170,19 +45472,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Carve a Hole",
-        "types": [
-            "Clean Self",
-            "Hide Self",
-            "Delayed Hit random 1",
-            "Delayed Mana Gain Freeze 1"
-        ],
-        "skill_types": [
-            "Stacking Heroes",
-            "Ghost Form & Hiding",
-            "Mana Reducers or Blockers",
-            "Cleansers",
-            "Chain & Random Attackers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2024-05-23",
         "specialId": "carve_a_hole",
@@ -53250,14 +45539,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Toxic Traps",
-        "types": [
-            "Hit All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "toxic_traps",
@@ -53310,12 +45591,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Toxic Tricks",
-        "types": [
-            "DoT All"
-        ],
-        "skill_types": [
-            "DoT Attackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "toxic_tricks",
@@ -53368,15 +45643,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Toon Traps",
-        "types": [
-            "Hit All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-08-11",
         "specialId": "toon_traps",
@@ -53441,16 +45707,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Glass Traps",
-        "types": [
-            "Hit All",
-            "Bypass",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Bypassers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-09-07",
         "specialId": "glass_traps_oberon",
@@ -53515,14 +45771,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Familiar Witchcraft",
-        "types": [
-            "Healer All",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "Debuffers (ATK)",
-            "Healers"
-        ],
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "familiar_witchcraft",
@@ -53578,14 +45826,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Bleeding Stab",
-        "types": [
-            "Hit 1",
-            "Heal Self"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "bleeding_stab",
@@ -53637,14 +45877,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Bleeding Thrust",
-        "types": [
-            "Hit 3",
-            "Heal Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Healers (Special)"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "bleeding_thrust",
@@ -53698,15 +45930,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Toon Stab",
-        "types": [
-            "Hit 1",
-            "Heal Self"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "Healers (Special)",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-02-12",
         "specialId": "toon_stab",
@@ -53766,16 +45989,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Glass Stab",
-        "types": [
-            "Hit 1",
-            "Bypass",
-            "Heal Self"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Healers (Special)",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-04-08",
         "specialId": "glass_stab",
@@ -53835,11 +46048,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Stylish Stab",
-        "types": [
-            "Hit 1",
-            "Heal Self"
-        ],
-        "skill_types": [],
         "source": "Costume Quest",
         "Release date": "2026-04-10",
         "specialId": "stylish_stab",
@@ -53877,7 +46085,19 @@ window.allHeroes =
             "health": 1385,
             "power": 745
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg",
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Renfeld",
@@ -53887,14 +46107,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Leeching Stars",
-        "types": [
-            "Hit 1",
-            "Heal Self"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "leeching_stars",
@@ -53946,15 +46158,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Leeching Saw",
-        "types": [
-            "Hit 1",
-            "Mana Steal 3"
-        ],
-        "skill_types": [
-            "Mana Raisers",
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "leeching_saw",
@@ -54008,15 +46211,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Toon Stars",
-        "types": [
-            "Hit 1",
-            "Heal Self"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Healers (Special)",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-09-08",
         "specialId": "toon_stars",
@@ -54076,16 +46270,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Glass Stars",
-        "types": [
-            "Hit 1",
-            "Bypass",
-            "Heal Self"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Healers (Special)",
-            "Bypassers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-11-25",
         "specialId": "glass_leeching_stars_renfeld",
@@ -54145,18 +46329,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Very Slow",
         "skill": "Archaic Dread",
-        "types": [
-            "Hit All",
-            "Attack Debuff",
-            "Defense Debuff",
-            "Mana Generation Debuff"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "specialId": "archaic_dread",
@@ -54212,14 +46384,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Piercing Hit",
-        "types": [
-            "Hit 1",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "piercing_hit",
@@ -54271,14 +46435,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Purifying Hit",
-        "types": [
-            "Hit 1",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "purifying_hit",
@@ -54332,15 +46488,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Toon Hit",
-        "types": [
-            "Hit 1",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Snipers",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-10-06",
         "specialId": "toon_hit",
@@ -54404,16 +46551,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Glass Hit",
-        "types": [
-            "Hit 1",
-            "Bypass",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Snipers",
-            "Bypassers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-12-11",
         "specialId": "glass_piercing_hit_tyrum",
@@ -54477,15 +46614,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Very Fast",
         "skill": "Tempered Blade",
-        "types": [
-            "Hit 1",
-            "Source of Ailments Random 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Extra Damage Dealers",
-            "Debuffers (DEF)"
-        ],
         "source": "Challenge - Beowulf",
         "Release date": "2025-02-13",
         "specialId": "tempered_blade",
@@ -54551,15 +46679,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Very Fast",
         "skill": "Dawn of Sorrow",
-        "types": [
-            "DoT 1",
-            "Healing Steal 1"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Healers (Special)",
-            "Healing Reducers"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "",
         "specialId": "lords_blood_poisoning",
@@ -54615,14 +46734,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Mummy Slash",
-        "types": [
-            "Hit 3",
-            "Boost Mana All on kill"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Mana Raisers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "mummy_slash",
@@ -54680,14 +46791,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Mummy Strike",
-        "types": [
-            "Hit 3",
-            "Boost Mana All on kill"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Mana Raisers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2024-07-13",
         "specialId": "mummy_strike",
@@ -54752,16 +46855,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Ghost",
-        "types": [
-            "Self Full Removal",
-            "Ghost Self",
-            "Attack Buff Self while ghost"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Cleansers",
-            "Ghost Form & Hiding"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "ethereal",
@@ -54810,19 +46903,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Yurei",
-        "types": [
-            "Self Full Removal",
-            "Ghost Self",
-            "Defense Buff All while Ghost",
-            "HoT All while Ghost"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Ghost Form & Hiding",
-            "Heal over Time (HoT)",
-            "Stacking Heroes",
-            "Cleansers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2022-05-02",
         "specialId": "yurei",
@@ -54879,17 +46959,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Charge",
         "skill": "Blur of Steel",
-        "types": [
-            "Charge",
-            "Dispeller 1/3/All",
-            "Hit 1/3/All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "AoE Attackers (Hit-5)",
-            "Dispellers",
-            "Snipers"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "specialId": "blur_of_steel",
@@ -54948,18 +47017,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Tidy Up!",
-        "types": [
-            "Dispeller All",
-            "Cleanser All",
-            "Healer All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Dispellers",
-            "Healers",
-            "Healers (Special)",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "2022-10-03",
         "specialId": "tidy_up",
@@ -55022,18 +47079,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Dress Up!",
-        "types": [
-            "Dispeller All",
-            "Cleanser All",
-            "Healer All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Dispellers",
-            "Healers",
-            "Healers (Special)",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "2025-10-08",
         "specialId": "dress_up",
@@ -55098,14 +47143,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Styx",
         "skill": "Potion Cocktail",
-        "types": [
-            "Charge"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buffers (ATK)",
-            "Debuffers (DEF)"
-        ],
         "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "specialId": "potion_cocktail",
@@ -55177,14 +47214,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Watery Grave",
-        "types": [
-            "Hit All",
-            "Elemental Defense Buff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (DEF)"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "watery_grave",
@@ -55236,15 +47265,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Dazzling Grin",
-        "types": [
-            "Reposition",
-            "DoT All"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "DoT Attackers",
-            "Random Position"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "dazzling_grin",
@@ -55299,15 +47319,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Razor Smile",
-        "types": [
-            "Reposition",
-            "DoT All"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "DoT Attackers",
-            "Random Position"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2023-10-05",
         "specialId": "razor_smile",
@@ -55364,15 +47375,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Grand Heist",
-        "types": [
-            "Steals Minions 1",
-            "Hit 1",
-            "Minion Block Debuff"
-        ],
-        "skill_types": [
-            "Minions Counters",
-            "Snipers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "grand_heist",
@@ -55436,12 +47438,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Perfect Riposte",
-        "types": [
-            "Counterattack 3"
-        ],
-        "skill_types": [
-            "Counterattackers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "perfect_riposte",
@@ -55487,12 +47483,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Deadly Riposte",
-        "types": [
-            "Counterattack All"
-        ],
-        "skill_types": [
-            "Counterattackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "deadly_riposte",
@@ -55540,16 +47530,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Precise Riposte",
-        "types": [
-            "Counterattack 3",
-            "Mana on Counterattack 3",
-            "Damage Reduction 3"
-        ],
-        "skill_types": [
-            "Counterattackers",
-            "Damage Reducers",
-            "Mana Raisers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-04-17",
         "specialId": "precise_riposte",
@@ -55601,12 +47581,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Toontastic Riposte",
-        "types": [
-            "Counterattack 3"
-        ],
-        "skill_types": [
-            "Counterattackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-04-08",
         "specialId": "toontastic_riposte",
@@ -55658,14 +47632,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Glass Riposte",
-        "types": [
-            "Counterattack 3",
-            "Reflect Ailments for Dark Allies",
-            "Reflect Stacks for Dark Allies"
-        ],
-        "skill_types": [
-            "Counterattackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-04-23",
         "specialId": "glass_riposte",
@@ -55719,11 +47685,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Stylish Riposte",
-        "types": [
-            "Counterattack 3",
-            "HoT All"
-        ],
-        "skill_types": [],
         "source": "Costume Quest",
         "Release date": "2026-05-09",
         "specialId": "stylish_riposte_cyprian",
@@ -55770,17 +47731,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Gloomy Tune",
-        "types": [
-            "Hit 3",
-            "Minion Summoner 3",
-            "Elemental Reflect 3",
-            "Elemental Counterattack 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Minions Summoners",
-            "Reflectors"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2023-12-01",
         "specialId": "gloomy_tune",
@@ -55838,17 +47788,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Venomfang Concoction",
-        "types": [
-            "Hit 3",
-            "Lasting DoT 3",
-            "Mana Generation Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Mana Reducers or Blockers",
-            "Healing Reducers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2025-07-06",
         "specialId": "venomfang_concoction",
@@ -55907,16 +47846,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Nightglade Pollen",
-        "types": [
-            "Hit All",
-            "Max Health Reduction All",
-            "Healing Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Healing Reducers",
-            "Max Health Reducers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "nightglade_pollen",
@@ -55970,16 +47899,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Nightbloom Dust",
-        "types": [
-            "Hit 3",
-            "Mana Reducer 3",
-            "Healing Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Healing Reducers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2023-01-16",
         "specialId": "nightbloom_dust",
@@ -56039,12 +47958,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Toonglade Pollen",
-        "types": [
-            "Hit All",
-            "Max Health Reduction All",
-            "Healing Debuff All"
-        ],
-        "skill_types": [],
         "source": "S3 - Valhalla",
         "Release date": "2026-04-29",
         "specialId": "toonglade_pollen",
@@ -56093,18 +48006,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Sand Gale",
-        "types": [
-            "Hit 1",
-            "DoT 1",
-            "Healing Debuff 1",
-            "Clean Self"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "DoT Attackers",
-            "Healing Reducers",
-            "Snipers"
-        ],
         "source": "Monthly Event - Beach Party",
         "Release date": "",
         "specialId": "viziers_curse",
@@ -56161,16 +48062,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Black Tassel Spear Sting",
-        "types": [
-            "Hit 1",
-            "Status Ailments reset 1",
-            "Defense Debuff 1"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "Effect Duration Resetters",
-            "Snipers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2023-02-27",
         "specialId": "black_tassel_spear_sting",
@@ -56228,18 +48119,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Impairing Blade",
-        "types": [
-            "Hit 3",
-            "Dot 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Mana Reducers or Blockers",
-            "Effect Duration Resetters",
-            "Extra Damage Dealers",
-            "Minions Counters"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "draining_blade",
@@ -56299,18 +48178,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Sand Gale",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Healing Debuff 3",
-            "Clean Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Cleansers",
-            "DoT Attackers",
-            "Healing Reducers"
-        ],
         "source": "Monthly Event - Beach Party",
         "Release date": "",
         "specialId": "towers_curse",
@@ -56367,16 +48234,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Scroll of Spite",
-        "types": [
-            "Hit 3",
-            "Dot 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Healers (Special)"
-        ],
         "source": "Tower - Owls",
         "Release date": "2024-02-14",
         "specialId": "scroll_of_spite",
@@ -56441,17 +48298,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Flowers of Kindness",
-        "types": [
-            "Boosted Heal All",
-            "Reflect Ailments All",
-            "Self Defense Buff"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Health Boosters",
-            "Reflectors",
-            "Heal over Time (HoT)"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2023-03-08",
         "specialId": "flower_of_kindness",
@@ -56509,17 +48355,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Fruits of Kindness",
-        "types": [
-            "Boosted Healer All",
-            "Reflect Ailments All",
-            "SS Defense Buff Self"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Health Boosters",
-            "Reflectors",
-            "Heal over Time (HoT)"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2026-02-20",
         "specialId": "fruits_of_kindness",
@@ -56581,14 +48416,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Feral Swing",
-        "types": [
-            "Hit 1",
-            "Defense debuff"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "Snipers"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2023-10-18",
         "specialId": "feral_swing",
@@ -56645,17 +48472,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Energy Conjunction",
-        "types": [
-            "Ally Damage Share 3",
-            "Enemy Damage Share 3",
-            "Elemental Defense Buff",
-            "Elemental Defense Debuff"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Damage Sharers",
-            "Debuffers (DEF)"
-        ],
         "source": "Super Elementals",
         "Release date": "2023-11-06",
         "specialId": "energy_conjunction",
@@ -56718,14 +48534,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Very Fast",
         "skill": "Poison-Tipped Arrow",
-        "types": [
-            "Hit 1",
-            "Dot 1"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Snipers"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2022-10-15",
         "specialId": "poison_tipped_arrow",
@@ -56784,15 +48592,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Arcane Blast",
-        "types": [
-            "Hit 1",
-            "Mindless attack"
-        ],
-        "skill_types": [
-            "Mindless Attack & Mindless Heal",
-            "Snipers",
-            "Extra Damage Dealers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "arcane_blast",
@@ -56850,15 +48649,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Pulsar Blast",
-        "types": [
-            "Hit 3",
-            "Mindless attack"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Mindless Attack & Mindless Heal",
-            "Extra Damage Dealers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2023-04-20",
         "specialId": "pulsar_blast",
@@ -56918,14 +48708,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Scar of the Depths",
-        "types": [
-            "DoT 3",
-            "Mana Gain Freeze 3"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "scar_of_the_depths",
@@ -56978,14 +48760,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Curse of the Depths",
-        "types": [
-            "DoT All",
-            "Mana Generation Debuff All"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2023-04-03",
         "specialId": "curse_of_the_depths",
@@ -57040,11 +48814,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Toon of the Depths",
-        "types": [
-            "DoT 3",
-            "Mana Gain Freeze 3"
-        ],
-        "skill_types": [],
         "source": "S2 - Atlantis",
         "Release date": "2026-04-29",
         "specialId": "toon_of_the_depths",
@@ -57092,14 +48861,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Purification",
-        "types": [
-            "Heal All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Healers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "purification",
@@ -57151,16 +48912,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Regeneration",
-        "types": [
-            "HoT All",
-            "Attack Buff All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Cleansers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "regeneration",
@@ -57220,16 +48971,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Transfigure",
-        "types": [
-            "Boost Health All",
-            "Defense Buff All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Cleansers",
-            "Health Boosters"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-04-17",
         "specialId": "transfigure",
@@ -57289,16 +49030,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Toonification",
-        "types": [
-            "Heal All",
-            "Defense Buff All",
-            "Cleanser"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Healers",
-            "Buffers (DEF)"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-06-28",
         "specialId": "adorable_purification",
@@ -57362,17 +49093,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Glassification",
-        "types": [
-            "Heal All",
-            "Reflect Ailments for Dark Allies",
-            "Reflect Stacks for Dark Allies",
-            "Cleanser"
-        ],
-        "skill_types": [
-            "Healers",
-            "Reflectors",
-            "Cleansers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-07-16",
         "specialId": "glass_purification",
@@ -57436,18 +49156,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Binding Contract",
-        "types": [
-            "Hit 1",
-            "Insanity 1",
-            "Soul Bound 1",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Damage Sharers",
-            "Mindless Attack & Mindless Heal",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2025-12-03",
         "specialId": "binding_contract",
@@ -57511,14 +49219,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Fog of the Fallen",
-        "types": [
-            "Healer All",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Healers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "fog_of_the_fallen",
@@ -57570,16 +49270,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Haze of the Fallen",
-        "types": [
-            "HoT All",
-            "Buff Immunity All",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Buff Blockers",
-            "Dispellers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "haze_of_the_deceased",
@@ -57639,16 +49329,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Mist of the Fallen",
-        "types": [
-            "HoT All",
-            "Status Ailment Immunity All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Heal over Time (HoT)",
-            "Immunity Providers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-11-27",
         "specialId": "mist_of_the_fallen",
@@ -57708,16 +49388,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Fog of the Toons",
-        "types": [
-            "Heal All",
-            "Defense Buff All",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Dispellers",
-            "Healers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-10-06",
         "specialId": "fog_of_the_toons",
@@ -57777,17 +49447,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Fog of the Vitrails",
-        "types": [
-            "Heal All",
-            "Reflect Ailments for Dark Allies",
-            "Reflect Stacks for Dark Allies",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Healers",
-            "Reflectors"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-11-25",
         "specialId": "fog_of_the_glass_sabina",
@@ -57847,16 +49506,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Magic",
         "skill": "Midnight Moon",
-        "types": [
-            "Charge",
-            "Elemental Defense Debuff All",
-            "Normal Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Debuffers (DEF)",
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "midnight_moon",
@@ -57915,13 +49564,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Changing Tides",
         "skill": "Critical Tactics",
-        "types": [
-            "Titan Attack Buff All",
-            "Critical Chance Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "specialId": "critical_tactics",
@@ -57980,13 +49622,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Changing Tides",
         "skill": "Critical Cookout",
-        "types": [
-            "Titan Attack Buff All",
-            "Critical Chance Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-02-03",
         "specialId": "critical_cookout",
@@ -58050,17 +49685,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Lantern of Insanity",
-        "types": [
-            "Hit All",
-            "Insanity All",
-            "Buff Immunity All",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "Buff Blockers",
-            "AoE Attackers (Hit-5)",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2025-01-09",
         "specialId": "lantern_of_insanity",
@@ -58115,17 +49739,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Shadow Sidestep",
-        "types": [
-            "Hit 2",
-            "Dot 2"
-        ],
-        "skill_types": [
-            "Snipers",
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Dodgers",
-            "Minions Counters"
-        ],
         "source": "Alliance - Moths",
         "Release date": "2025-01-23",
         "specialId": "shadow_sidestep",
@@ -58182,16 +49795,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Dire Ghost",
-        "types": [
-            "Ghost"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Cleansers",
-            "Ghost Form & Hiding",
-            "Stacking Heroes",
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "",
         "specialId": "dire_ghost",
@@ -58246,16 +49849,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Ravening Blade",
-        "types": [
-            "Hit 1",
-            "Hit All Blood Lily marked",
-            "DoT All Blood Lily marked"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Chain & Random Attackers",
-            "DoT Attackers"
-        ],
         "source": "Monthly Event - The Sanguine Feast",
         "Release date": "2025-10-08",
         "specialId": "ravening_blade",
@@ -58314,14 +49907,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Ramming Pulverizer",
-        "types": [
-            "Hit 3",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "ramming_pulverizer",
@@ -58373,14 +49958,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Symphonic Pulverizer",
-        "types": [
-            "Hit All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (DEF)"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "symphonic_pulverizer",
@@ -58434,14 +50011,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Elegant Pulverizer",
-        "types": [
-            "Hit 3",
-            "Max Health Reduction over Time 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Max Health Reducers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "elegant_pulverizer",
@@ -58495,15 +50064,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Toontastic Pulverizer",
-        "types": [
-            "Hit 3",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-08-11",
         "specialId": "toontastic_pulverizer",
@@ -58567,16 +50127,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Glass Pulverizer",
-        "types": [
-            "Hit 3",
-            "Bypass",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Bypassers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-09-07",
         "specialId": "glass_pulverizer_tiburtus",
@@ -58640,19 +50190,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Charge",
         "skill": "Lethal Strikes",
-        "types": [
-            "Charge",
-            "Hit 1",
-            "Chain Hit",
-            "DoT on hit",
-            "Bypass chance"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Chain & Random Attackers",
-            "DoT Attackers",
-            "Bypassers"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2026-03-10",
         "specialId": "lethal_strikes",
@@ -58733,17 +50270,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Poisonous Mist",
-        "types": [
-            "Hit 3",
-            "Attack Wither 3",
-            "Defense Wither 3",
-            "Reflect Buffs 3"
-        ],
-        "skill_types": [
-            "Ability Scores Modifiers",
-            "Reflectors",
-            "AoE Attackers (Hit-3)"
-        ],
         "source": "Goblin Summon",
         "Release date": "2023-12-11",
         "specialId": "poisonous_mist",
@@ -58804,14 +50330,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Bleed Inducing Daggers",
-        "types": [
-            "Fiend Summoner 1",
-            "Fiend Summoner on Holy Enemies"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Fiends Summoners"
-        ],
         "source": "Super Elementals",
         "Release date": "2023-05-22",
         "specialId": "bleed_inducing_daggers",
@@ -58877,16 +50395,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Lacerating Letters",
-        "types": [
-            "Fiend Summoner 1",
-            "Elemental Fiend Summoner",
-            "Increased Damage from Ailments All"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Fiends Summoners",
-            "Extra Damage Dealers"
-        ],
         "source": "Super Elementals",
         "Release date": "2026-02-19",
         "specialId": "lacerating_letters",
@@ -58959,18 +50467,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Nethershield",
-        "types": [
-            "HoT All",
-            "Status Ailment Immunity 3",
-            "Cleanser 3"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Heal over Time (HoT)",
-            "Immunity Providers",
-            "Buffers (ATK)",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-04-01",
         "specialId": "nethershield",
@@ -59029,16 +50525,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Voidshield",
-        "types": [
-            "Healer All",
-            "Lifts Ailments 3"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Healers",
-            "Buffers (ATK)",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-01-23",
         "specialId": "voidshield",
@@ -59097,20 +50583,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Craving Nip",
-        "types": [
-            "Hit 1",
-            "Damage Boosted Heal All",
-            "Mimic Chest"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Healers (Special)",
-            "Health Boosters",
-            "Mana Raisers",
-            "Immunity Providers",
-            "Ghost Form & Hiding",
-            "Bypassers"
-        ],
         "source": "Bazaar Summon",
         "Release date": "2026-02-08",
         "specialId": "aether_mimic_bite_purple",
@@ -59186,19 +50658,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "High Altitude Ambush",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Revive Ability Block 3"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Mana Reducers or Blockers",
-            "DoT Attackers",
-            "Resurrection Inhibitors",
-            "Status Effect Conversion",
-            "Minions Counters"
-        ],
         "source": "Tower - Magic",
         "Release date": "2025-07-23",
         "specialId": "high_altitude_ambush",
@@ -59273,23 +50732,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Magic",
         "skill": "Arcane Shock",
-        "types": [
-            "Charge",
-            "Attack Debuff All",
-            "Defense Debuff All",
-            "DoT All",
-            "Attack Buff All",
-            "Defense Buff All",
-            "HoT All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Buffers (DEF)",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)",
-            "DoT Attackers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "arcane_shock",
@@ -59361,24 +50803,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Magic",
         "skill": "Dark Shock",
-        "types": [
-            "Charge",
-            "Attack Debuff All",
-            "Defense Debuff All",
-            "DoT All",
-            "Attack Buff All",
-            "Defense Buff All",
-            "Boosted HoT All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Buffers (DEF)",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)",
-            "DoT Attackers",
-            "Health Boosters",
-            "Healers (Special)"
-        ],
         "source": "Tower - Magic",
         "Release date": "2025-05-29",
         "specialId": "dark_shock",
@@ -59461,17 +50885,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Coiling Whip",
-        "types": [
-            "Steals Minions 1",
-            "Hit 1",
-            "Blind 3"
-        ],
-        "skill_types": [
-            "Debuffers (ATK)",
-            "Minions Counters",
-            "Snipers",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-06-01",
         "specialId": "coiling_whip",
@@ -59536,16 +50949,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Very Slow",
         "skill": "Cube of Dark Realm",
-        "types": [
-            "Hit Random 5",
-            "Max Health Reduction on hit",
-            "Mindless Attack on hit"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Max Health Reducers",
-            "Mindless Attack & Mindless Heal"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2020-04-23",
         "specialId": "cube_of_dark_realm",
@@ -59600,16 +51003,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Very Slow",
         "skill": "Cavalier Hat of Dark Realm",
-        "types": [
-            "Hit Random 5",
-            "Max Health Reduction on hit",
-            "Mindless Attack on hit"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Max Health Reducers",
-            "Mindless Attack & Mindless Heal"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2023-07-03",
         "specialId": "cavalier_hat_of_dark_realm",
@@ -59666,18 +51059,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Very Fast",
         "skill": "Swift Maneuvers",
-        "types": [
-            "Healer All",
-            "Dispeller 1 Buff All",
-            "Dodge Buff"
-        ],
-        "skill_types": [
-            "Healers",
-            "Dispellers",
-            "Dodgers",
-            "Buffers (ATK)",
-            "Stacking Heroes"
-        ],
         "source": "Tower - Magic",
         "Release date": "2025-11-30",
         "specialId": "swift_maneuvers",
@@ -59746,16 +51127,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Charge",
         "skill": "Assassins in the Night",
-        "types": [
-            "Charge",
-            "Hit All",
-            "Fiend Summoner All"
-        ],
-        "skill_types": [
-            "Fiends Summoners",
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2023-01-11",
         "specialId": "assassins_in_the_night",
@@ -59818,17 +51189,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Strange Incense",
-        "types": [
-            "Heal All",
-            "Buff Steal 1",
-            "Sleep 1"
-        ],
-        "skill_types": [
-            "Buff Stealers",
-            "Healers",
-            "Sleepweavers",
-            "Buffers (ATK)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-03-01",
         "specialId": "strange_incense",
@@ -59894,16 +51254,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Mark of Anubis",
-        "types": [
-            "Greed 1",
-            "DoT All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "Buff Blockers",
-            "Debuffers (DEF)",
-            "DoT Attackers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2023-03-16",
         "specialId": "mark_of_anubis",
@@ -59964,16 +51314,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Mark of the Jackal",
-        "types": [
-            "Greed 1",
-            "DoT All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "Buff Blockers",
-            "Debuffers (DEF)",
-            "DoT Attackers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2024-02-05",
         "specialId": "mark_of_the_jackal",
@@ -60041,18 +51381,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Charmer's Blades",
-        "types": [
-            "Hit 3",
-            "Boosted Heal All",
-            "Status Ailment Immunity All",
-            "Defense Buff Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Health Boosters",
-            "Immunity Providers",
-            "Healers (Special)"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2022-12-14",
         "specialId": "charmers_blades",
@@ -60112,19 +51440,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Baker's Baguettes",
-        "types": [
-            "Hit 3",
-            "Damage Boosted Heal All",
-            "Status Ailment Immunity All",
-            "Damage Reduction Buff Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Health Boosters",
-            "Immunity Providers",
-            "Healers (Special)",
-            "Damage Reducers"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2025-11-12",
         "specialId": "bakers_baguettes",
@@ -60188,16 +51503,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Dagger of Shadows",
-        "types": [
-            "Hit 1",
-            "Dodge Chance Self"
-        ],
-        "skill_types": [
-            "Dodgers",
-            "Snipers",
-            "Extra Damage Dealers",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-06-01",
         "specialId": "dagger_of_shadows",
@@ -60262,16 +51567,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Vicious Strike",
-        "types": [
-            "Hit 1",
-            "Hit Random",
-            "Damage on each Resisted Healing 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Chain & Random Attackers",
-            "Healing Reducers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2026-02-11",
         "specialId": "vicious_strike",
@@ -60341,20 +51636,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Gorging Chew",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Mimic Chest"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Minions Counters",
-            "AoE Attackers (Hit-3)",
-            "Mana Raisers",
-            "Immunity Providers",
-            "Ghost Form & Hiding",
-            "Bypassers"
-        ],
         "source": "Bazaar Summon",
         "Release date": "2025-08-29",
         "specialId": "gorging_chew_purple",
@@ -60440,17 +51721,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Necronomicon Page 13",
-        "types": [
-            "Hit 3",
-            "Insanity 3",
-            "Force Uncleanable Ailments 3",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Cleanse Blockers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2025-05-13",
         "specialId": "necronomicon_page_13",
@@ -60505,14 +51775,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Very Slow",
         "skill": "Bitter Wilting",
-        "types": [
-            "Hit All",
-            "Max Health Reduction All",
-            "Harvest Buffs All",
-            "Boost Health Self",
-            "Defense Debuff Wither All"
-        ],
-        "skill_types": [],
         "source": "Challenge - Vigilant Vegetables Summon",
         "Release date": "2026-04-02",
         "specialId": "bitter_wilting",
@@ -60557,7 +51819,24 @@ window.allHeroes =
             "health": 2872,
             "power": 1572
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓",
+                    "Def - Wither : Def↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Bastet",
@@ -60567,16 +51846,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Quick and Nimble",
-        "types": [
-            "Hit All",
-            "Dodge Chance Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (DEF)",
-            "Dodgers",
-            "Stacking Heroes"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-08-04",
         "specialId": "quick_and_nimble",
@@ -60635,16 +51904,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Orchids and Roses",
-        "types": [
-            "Hit All",
-            "Dodge Chance Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Dodgers",
-            "Buffers (DEF)",
-            "Stacking Heroes"
-        ],
         "source": "S5 - Dune",
         "Release date": "2024-08-10",
         "specialId": "orchids_and_roses",
@@ -60710,20 +51969,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Magic",
         "skill": "Wand of Mana Control",
-        "types": [
-            "Hit 1",
-            "Mana Reduce 4 on Enemy SS",
-            "Mana Increase All",
-            "Hit All on Ally SS"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Raisers",
-            "Mana Reducers or Blockers",
-            "Snipers",
-            "Stacking Heroes",
-            "Healers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2023-06-28",
         "specialId": "wand_of_mana_control",
@@ -60796,22 +52041,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Magic",
         "skill": "Wand of Mana Trickery",
-        "types": [
-            "Hit 1",
-            "Mana Reduce 4 on Enemy SS",
-            "Elemental Defense Buff 3",
-            "Mana Increase All",
-            "Hit All on Ally SS"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Raisers",
-            "Mana Reducers or Blockers",
-            "Buffers (DEF)",
-            "Snipers",
-            "Stacking Heroes",
-            "Healers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2025-09-17",
         "specialId": "wand_of_mana_trickery",
@@ -60891,17 +52120,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Mystical Concerto",
-        "types": [
-            "Heal All",
-            "Attack Buff All",
-            "Dispel Immunity Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Healers",
-            "Immunity Providers",
-            "Healers (Special)"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2023-03-23",
         "specialId": "mystical_concerto",
@@ -60961,16 +52179,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Dísir of Dusk",
-        "types": [
-            "Summoner All",
-            "Minion hit with DoT 1",
-            "Minion hit with Minion Blocking"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Minions Counters",
-            "Minions Summoners"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2020-09-24",
         "specialId": "disir_of_dusk",
@@ -61030,16 +52238,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Dísir of Dreams",
-        "types": [
-            "Summoner All",
-            "Minion hit with DoT 1",
-            "Minion hit with Minion Blocking"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Minions Counters",
-            "Minions Summoners"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2023-06-05",
         "specialId": "disir_of_dreams",
@@ -61101,16 +52299,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Very Slow",
         "skill": "Unstoppable Growl",
-        "types": [
-            "Mana Generation Buff All",
-            "Mana Generation Debuff All",
-            "Counterattack All"
-        ],
-        "skill_types": [
-            "Counterattackers",
-            "Mana Generation Buffers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "unstoppable_growl",
@@ -61165,17 +52353,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Venom Guard",
-        "types": [
-            "Hit All",
-            "Attack Buff All",
-            "Allies Damage Share"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Buffers (ATK)",
-            "Damage Sharers"
-        ],
         "source": "Titan Hunter Summon",
         "Release date": "2026-03-09",
         "specialId": "venom_guard",
@@ -61244,17 +52421,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Unerring Course",
-        "types": [
-            "Healer All",
-            "Lifts Ailments",
-            "Mana Generation Buff All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Healers",
-            "Mana Generation Buffers",
-            "Health Boosters"
-        ],
         "source": "Covenant Summon",
         "Release date": "2024-04-25",
         "specialId": "unerring_course",
@@ -61320,15 +52486,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Aura of Twilight",
-        "types": [
-            "Hit All",
-            "Dodge to All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Dodgers",
-            "Health Boosters"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2024-04-10",
         "specialId": "aura_of_twilight",
@@ -61385,16 +52542,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Blade Wings",
-        "types": [
-            "Hit 1",
-            "Chain Hit"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Extra Damage Dealers",
-            "Snipers",
-            "Bypassers"
-        ],
         "source": "Tower - Owls",
         "Release date": "2024-07-02",
         "specialId": "blade_wings",
@@ -61458,17 +52605,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Stalling Spell",
-        "types": [
-            "Hit All",
-            "Mana Generation Debuff All",
-            "Buff Immunity Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buff Blockers",
-            "Healers (Special)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-08-01",
         "specialId": "stalling_spell",
@@ -61529,19 +52665,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Very Fast",
         "skill": "Advice from Beyond",
-        "types": [
-            "Chance for Critical Hits",
-            "Hit 1",
-            "Self Full Removal",
-            "Self Ghost",
-            "Critical Chance Buff All"
-        ],
-        "skill_types": [
-            "Ghost Form & Hiding",
-            "Snipers",
-            "Buffers (ATK)",
-            "Extra Damage Dealers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2025-06-30",
         "specialId": "advice_from_beyond",
@@ -61615,17 +52738,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Styx",
         "skill": "Ferry From the Beyond",
-        "types": [
-            "Charge",
-            "Boost Health All",
-            "Reviver",
-            "HoT All"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Revivers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Tower - Styx",
         "Release date": "2022-11-16",
         "specialId": "boat_ride_from_the_beyond",
@@ -61689,16 +52801,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Very Fast",
         "skill": "Miasma Mace",
-        "types": [
-            "Hit 3",
-            "DoT 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-05-01",
         "specialId": "miasma_mace",
@@ -61762,12 +52864,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Destined Curse",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Damage All if target defeated"
-        ],
-        "skill_types": [],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2026-04-01",
         "specialId": "destined_curse",
@@ -61806,7 +52902,29 @@ window.allHeroes =
             "health": 2781,
             "power": 1441
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Conditional Trigger"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Curse"
+                ]
+            }
+        ]
     },
     {
         "name": "Dark Lord",
@@ -61816,20 +52934,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Doomstrike",
-        "types": [
-            "Hit 1",
-            "Reduces buffs duration 3",
-            "DoT 3",
-            "Mana Generation Debuff 3"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Mana Reducers or Blockers",
-            "Snipers",
-            "Effect Duration Resetters",
-            "Extra Damage Dealers",
-            "Minions Counters"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "doomstrike",
@@ -61889,20 +52993,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Pulsarstrike",
-        "types": [
-            "Hit 1",
-            "Reduces Buffs Duration 3",
-            "DoT 3",
-            "Mana Generation Debuff 3"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Effect Duration Resetters",
-            "Mana Reducers or Blockers",
-            "Snipers",
-            "Extra Damage Dealers",
-            "Minions Counters"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2024-11-14",
         "specialId": "pulsarstrike",
@@ -61968,18 +53058,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Struck By Thunder",
-        "types": [
-            "Hit All",
-            "Reduce Ailments Duration by 2",
-            "Reduce Buffs Duration by 2",
-            "Buff Dispel immunity All"
-        ],
-        "skill_types": [
-            "Resurrection Inhibitors",
-            "Effect Duration Resetters",
-            "AoE Attackers (Hit-5)",
-            "Immunity Providers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2025-04-09",
         "specialId": "struck_by_thunder",
@@ -62043,17 +53121,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "The Eagle's Blessing",
-        "types": [
-            "Healer All",
-            "Attack Growth All",
-            "Defense Growth All",
-            "Extra hit change after ally SS All"
-        ],
-        "skill_types": [
-            "Ability Scores Modifiers",
-            "Chain & Random Attackers",
-            "Healers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2023-09-18",
         "specialId": "the_eagles_blessing",
@@ -62114,17 +53181,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Very Fast",
         "skill": "Unhallowed Spirits",
-        "types": [
-            "Buff Steal 1",
-            "Hit 1",
-            "Defense Wither 1"
-        ],
-        "skill_types": [
-            "Ability Scores Modifiers",
-            "Buff Stealers",
-            "Snipers",
-            "Extra Damage Dealers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2023-09-18",
         "specialId": "unhallowed_spirits",
@@ -62190,18 +53246,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Moon Crush Beam",
-        "types": [
-            "Hit 3",
-            "Buff steal 3",
-            "Attack Growth 3"
-        ],
-        "skill_types": [
-            "Snipers",
-            "AoE Attackers (Hit-3)",
-            "Buff Stealers",
-            "Buffers (ATK)",
-            "Damage Sharers"
-        ],
         "source": "Astral Summon",
         "Release date": "2024-05-20",
         "specialId": "moon_crush_beam",
@@ -62266,17 +53310,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Very Fast",
         "skill": "Righteous Stance",
-        "types": [
-            "Hit 1",
-            "Hit Growth Boon",
-            "Defense Debuff Wither 1"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Snipers",
-            "Extra Damage Dealers",
-            "Ability Scores Modifiers"
-        ],
         "source": "Temple Summon",
         "Release date": "2025-12-10",
         "specialId": "righteous_stance",
@@ -62344,16 +53377,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Lady's Charm",
-        "types": [
-            "Healer All",
-            "Summoner 3",
-            "Buff Stealing Minion"
-        ],
-        "skill_types": [
-            "Buff Stealers",
-            "Minions Summoners",
-            "Healers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "ladys_charm",
@@ -62407,16 +53430,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Lady's Flowers",
-        "types": [
-            "Healer All",
-            "Summoner 3",
-            "Buff Stealing Minion"
-        ],
-        "skill_types": [
-            "Buff Stealers",
-            "Healers",
-            "Minions Summoners"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2024-05-28",
         "specialId": "ladys_flowers",
@@ -62479,16 +53492,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Shock Bolt",
-        "types": [
-            "Hit 1",
-            "Elemental Defense Buff 3",
-            "Dispeller 3"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Dispellers",
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "shock_bolt",
@@ -62542,16 +53545,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Poison Bolt",
-        "types": [
-            "Hit 1",
-            "DoT 3",
-            "Cleanser 3"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "DoT Attackers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "awe_bolt",
@@ -62608,15 +53601,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Dark Bolt",
-        "types": [
-            "Hit 3",
-            "Elemental Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2022-10-31",
         "specialId": "dark_bolt",
@@ -62676,17 +53660,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Toon Bolt",
-        "types": [
-            "Hit 1",
-            "Elemental Defense Buff 3",
-            "Dispeller 3"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Buffers (DEF)",
-            "Extra Damage Dealers",
-            "Dispellers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-03-11",
         "specialId": "adorable_bolt",
@@ -62752,18 +53725,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Glass Bolt",
-        "types": [
-            "Hit 1",
-            "Bypass",
-            "Elemental Defense Buff 3",
-            "Dispeller 3"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Bypassers",
-            "Dispellers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-04-23",
         "specialId": "glass_bolt",
@@ -62828,12 +53789,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Stylish Bolt",
-        "types": [
-            "Hit 1",
-            "Elemental Defense Buff 3",
-            "Dispeller 3"
-        ],
-        "skill_types": [],
         "source": "Costume Quest",
         "Release date": "2026-05-09",
         "specialId": "stylish_bolt",
@@ -62882,14 +53837,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Blinding Wisdom",
-        "types": [
-            "Hit 3",
-            "Blind 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "blinding_wisdom",
@@ -62945,14 +53892,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Blinding Knowledge",
-        "types": [
-            "Hit 3",
-            "Blind 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2023-04-27",
         "specialId": "blinding_knowledge",
@@ -63013,19 +53952,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Astral Dominion",
-        "types": [
-            "Hit All",
-            "Mana Generation Debuff All",
-            "Healing Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (DEF)",
-            "Extra Damage Dealers",
-            "Healing Reducers",
-            "Mana Reducers or Blockers",
-            "Damage Sharers"
-        ],
         "source": "Astral Summon",
         "Release date": "2024-03-07",
         "specialId": "astral_dominion",
@@ -63091,18 +54017,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Thundering Strike",
-        "types": [
-            "Hit 1",
-            "Chain Hit",
-            "DoT on hit",
-            "Heal 3 on DoT"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "DoT Attackers",
-            "Healers (Special)",
-            "Snipers"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2024-05-23",
         "specialId": "thundering_strike",
@@ -63164,19 +54078,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Night's Whisper",
-        "types": [
-            "Healer All",
-            "Firestorm Ward Buff All",
-            "Status Ailments Immunity All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Debuffers (DEF)",
-            "Damage Reducers",
-            "Immunity Providers",
-            "Extra Damage Dealers",
-            "Minions Counters"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "specialId": "nights_whisper",
@@ -63238,13 +54139,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Night's Calibration",
-        "types": [
-            "HoT All",
-            "Firestorm Ward All",
-            "Status Ailments Immunity All",
-            "Heal on attempted ailment"
-        ],
-        "skill_types": [],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2026-04-07",
         "specialId": "nights_calibration",
@@ -63286,7 +54180,20 @@ window.allHeroes =
             "health": 3142,
             "power": 1593
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity",
+                    "Def - Dmg Reduction"
+                ]
+            }
+        ]
     },
     {
         "name": "Duval",
@@ -63296,16 +54203,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Thieving Shot",
-        "types": [
-            "Ransack 1",
-            "Hit 1",
-            "Spreading DoT 1"
-        ],
-        "skill_types": [
-            "Buff Stealers",
-            "Snipers",
-            "DoT Attackers"
-        ],
         "source": "Black Friday Summon",
         "Release date": "2025-11-24",
         "specialId": "thieving_shot",
@@ -63374,16 +54271,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Flock of Folly",
-        "types": [
-            "Hit 1",
-            "Fiend 1",
-            "Mindless Attack 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Fiends Summoners",
-            "Mindless Attack & Mindless Heal"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-11-01",
         "specialId": "flock_of_folly_eldwren",
@@ -63449,18 +54336,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Guard the Garden!",
-        "types": [
-            "Hit 1",
-            "Hit Random",
-            "Seedling Fiend Summoner on Hit",
-            "Defense Buff 3"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Chain & Random Attackers",
-            "Fiends Summoners",
-            "Buffers (DEF)"
-        ],
         "source": "Challenge - Vigilant Vegetables Summon",
         "Release date": "2025-09-02",
         "specialId": "guard_the_garden",
@@ -63531,21 +54406,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Savage Gobble",
-        "types": [
-            "Hit 1",
-            "Spreading Dot 1",
-            "Mimic Chest"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Minions Counters",
-            "Snipers",
-            "Mana Raisers",
-            "Immunity Providers",
-            "Ghost Form & Hiding",
-            "Bypassers",
-            "DoT Attackers"
-        ],
         "source": "Bazaar Summon",
         "Release date": "2025-11-09",
         "specialId": "savage_gobble_purple",
@@ -63625,14 +54485,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Very Fast",
         "skill": "Arrow of Desire",
-        "types": [
-            "Hit 1",
-            "Damage Received Debuff 1"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "Snipers"
-        ],
         "source": "Monthly Event - Love Season",
         "Release date": "2024-01-08",
         "specialId": "arrow_of_desire",
@@ -63688,20 +54540,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Greedy Devour",
-        "types": [
-            "Minion Destroyer 1",
-            "Hit 1",
-            "Mimic Chest"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Mana Raisers",
-            "Minions Counters",
-            "Snipers",
-            "Immunity Providers",
-            "Ghost Form & Hiding",
-            "Bypassers"
-        ],
         "source": "Bazaar Summon",
         "Release date": "2025-06-06",
         "specialId": "mimic_training_hero_purple_bite",
@@ -63777,16 +54615,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Piercing Falcon",
-        "types": [
-            "Hit 1",
-            "Hit Random",
-            "Elemental Defense Debuff on hit"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Debuffers (DEF)",
-            "Snipers"
-        ],
         "source": "Super Elementals",
         "Release date": "2023-11-06",
         "specialId": "piercing_falcon",
@@ -63848,16 +54676,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Ravens' Vigil",
-        "types": [
-            "Summoner All",
-            "Minions Attack Buff All",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Minions Boosters",
-            "Minions Summoners"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "",
         "specialId": "ravens_vigil",
@@ -63911,16 +54729,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Ravens' Watch",
-        "types": [
-            "Summoner All",
-            "Minions Attack Buff All",
-            "Dodge Chance Buff All"
-        ],
-        "skill_types": [
-            "Dodgers",
-            "Minions Boosters",
-            "Minions Summoners"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2022-08-01",
         "specialId": "ravens_watch",
@@ -63976,14 +54784,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Elemental Corruption",
-        "types": [
-            "Titan Attack buff",
-            "Damage Increase Debuff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Extra Damage Dealers"
-        ],
         "source": "Super Elementals",
         "Release date": "2024-03-25",
         "specialId": "elemental_corruption",
@@ -64043,16 +54843,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Twilight Star Strike",
-        "types": [
-            "Hit 3",
-            "Wither 3",
-            "Increased Damage 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers",
-            "Ability Scores Modifiers"
-        ],
         "source": "Astral Summon",
         "Release date": "2025-05-07",
         "specialId": "twilight_star_strike",
@@ -64114,18 +54904,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Slime Serving",
-        "types": [
-            "Hit 3",
-            "Slime Fiend Summoner 3",
-            "Buff Stealing Fiend",
-            "Growth Stealing Fiend"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Fiends Summoners",
-            "Buff Stealers",
-            "DoT Attackers"
-        ],
         "source": "Super Elementals",
         "Release date": "2024-11-27",
         "specialId": "slime_serving",
@@ -64186,16 +54964,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Very Fast",
         "skill": "Titantooth Blade",
-        "types": [
-            "Hit 1",
-            "Defense Debuff 1",
-            "Mana Gain Freeze 1"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2022-12-24",
         "specialId": "titantooth_blade",
@@ -64255,14 +55023,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Revengeful Smite",
-        "types": [
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Damage Reducers"
-        ],
         "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "specialId": "revengeful_smite",
@@ -64318,17 +55078,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Harrow the Heart",
-        "types": [
-            "Hit All",
-            "DoT All",
-            "Source of Ailments Random 1"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Healing Reducers"
-        ],
         "source": "Challenge - Beowulf",
         "Release date": "2025-07-13",
         "specialId": "harrow_the_heart",
@@ -64395,14 +55144,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Mana Manipulation",
-        "types": [
-            "Mana Reducer All",
-            "Mana Increase All"
-        ],
-        "skill_types": [
-            "Mana Raisers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Super Elementals",
         "Release date": "2023-05-22",
         "specialId": "mana_manipulation",
@@ -64462,16 +55203,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Memory Manipulation",
-        "types": [
-            "Mana Reducer All",
-            "Mana Increase All",
-            "Debuff Immunity All"
-        ],
-        "skill_types": [
-            "Mana Raisers",
-            "Mana Reducers or Blockers",
-            "Immunity Providers"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-08-28",
         "specialId": "memory_manipulation",
@@ -64538,17 +55269,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Gnomish Carnage",
-        "types": [
-            "Minion Destroyer All",
-            "Hit All",
-            "Mana Boost All on minion kill"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (ATK)",
-            "Mana Raisers",
-            "Minions Counters"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-12-01",
         "specialId": "gnomish_carnage",
@@ -64611,16 +55331,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Eye of the Panther",
-        "types": [
-            "Hit 3",
-            "Elemental Defense Debuff 3",
-            "Dispeller 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Dispellers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "eye_of_panther",
@@ -64678,16 +55388,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Roar of the Panther",
-        "types": [
-            "Hit All",
-            "Defense Debuff All",
-            "Buff Immunity Debuff All"
-        ],
-        "skill_types": [
-            "Buff Blockers",
-            "Debuffers (DEF)",
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2022-06-16",
         "specialId": "roar_of_the_panther",
@@ -64743,16 +55443,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Blob of Fury",
-        "types": [
-            "Hit 3",
-            "Attack Buff Self",
-            "Slime Revive Self"
-        ],
-        "skill_types": [
-            "Revivers",
-            "AoE Attackers (Hit-3)",
-            "Buffers (ATK)"
-        ],
         "source": "Super Elementals",
         "Release date": "2024-06-18",
         "specialId": "blob_of_fury",
@@ -64819,17 +55509,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Corrupting Idol",
-        "types": [
-            "Hit 3",
-            "Fiend Summoner 3",
-            "Attack Debuff Fiend"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)",
-            "Fiends Summoners",
-            "DoT Attackers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-06-17",
         "specialId": "corrupting_idol",
@@ -64892,17 +55571,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Delicious Idol",
-        "types": [
-            "Hit 3",
-            "Fiend Summoner 3",
-            "Attack Debuff Fiend"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)",
-            "Fiends Summoners",
-            "DoT Attackers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2024-04-25",
         "specialId": "delicious_idol",
@@ -64970,17 +55638,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Volley of Dark Stars",
-        "types": [
-            "Hit 3",
-            "Resonance 3",
-            "Mana Corruption 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers",
-            "DoT Attackers",
-            "Mana Corruption"
-        ],
         "source": "Astral Summon",
         "Release date": "2026-02-15",
         "specialId": "volley_of_dark_stars",
@@ -65049,19 +55706,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Medicinal Fumes",
-        "types": [
-            "Boosted HoT All",
-            "Mana Boost over time All",
-            "Reflect Ailments All",
-            "Reflect Stacks All"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Health Boosters",
-            "Mana Raisers",
-            "Reflectors",
-            "Heal over Time (HoT)"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2022-09-18",
         "specialId": "medicinal_fumes",
@@ -65122,17 +55766,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Crush of Hel",
-        "types": [
-            "Hit 3",
-            "Mana Gain Freeze 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers",
-            "Mana Reducers or Blockers",
-            "Buffers (ATK)",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-06-01",
         "specialId": "crush_of_hel",
@@ -65191,18 +55824,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Crush of Malice",
-        "types": [
-            "Hit All",
-            "Mana Steal All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Mana Raisers",
-            "Mana Reducers or Blockers",
-            "Buffers (ATK)",
-            "Dispellers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-11-28",
         "specialId": "crush_of_malice",
@@ -65267,12 +55888,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Crush of Toon Hel",
-        "types": [
-            "Hit 3",
-            "Elemental Defense Debuff 3",
-            "Mana Gain Freeze 3"
-        ],
-        "skill_types": [],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2026-04-29",
         "specialId": "crush_of_toon_hel",
@@ -65323,22 +55938,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Dwarven King's Levy",
-        "types": [
-            "Hit All",
-            "Mana Steal All",
-            "Buff Steal each turn All"
-        ],
-        "skill_types": [
-            "Buff Stealers",
-            "Mana Reducers or Blockers",
-            "Snipers",
-            "Mana Raisers",
-            "Extra Damage Dealers",
-            "Bypassers",
-            "DoT Attackers",
-            "Debuffers (DEF)",
-            "Minions Counters"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-02-23",
         "specialId": "dwarven_kings_levy",
@@ -65405,20 +56004,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Double Strike",
-        "types": [
-            "Chance for Critical hit",
-            "Hit 1",
-            "Safely Dispels 1",
-            "Hit Random 1",
-            "Increases Ailments Duration by 5"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Dispellers",
-            "Extra Damage Dealers",
-            "Chain & Random Attackers",
-            "Effect Duration Resetters"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2026-01-13",
         "specialId": "double_strike",
@@ -65491,17 +56076,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Pet Larva",
-        "types": [
-            "Summoner All",
-            "Mana Generation Buff Minion",
-            "Defense Buff Minion"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Heal over Time (HoT)",
-            "Mana Generation Buffers",
-            "Minions Summoners"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2022-03-24",
         "specialId": "pet_larva",
@@ -65560,17 +56134,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Larva Prescription",
-        "types": [
-            "Summoner All",
-            "Mana Generation Buff Minion",
-            "Defense Buff Minion"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Heal over Time (HoT)",
-            "Mana Generation Buffers",
-            "Minions Summoners"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2024-03-28",
         "specialId": "larva_prescription",
@@ -65634,17 +56197,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Merciless Execution",
-        "types": [
-            "Defense debuff 1",
-            "Hit 1",
-            "Insanity to nearby 2 on kill",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "Snipers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2024-06-04",
         "specialId": "merciless_execution",
@@ -65710,21 +56262,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Firestone Daggers",
-        "types": [
-            "Hit 3",
-            "Status Ailments Reset 3",
-            "DoT 3",
-            "Heal Self on DoT",
-            "Attack Buff Stack Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Effect Duration Resetters",
-            "Healers (Special)",
-            "Stacking Heroes",
-            "Buffers (ATK)"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2023-05-26",
         "specialId": "firestone_daggers",
@@ -65796,17 +56333,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Generous Gifts",
-        "types": [
-            "Cleanser All",
-            "Healer All",
-            "Source of Buffs All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Healers",
-            "Buffers (DEF)",
-            "Healers (Special)"
-        ],
         "source": "Challenge - Beowulf",
         "Release date": "2026-01-09",
         "specialId": "generous_gifts",
@@ -65876,17 +56402,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Feline Constellation",
-        "types": [
-            "Wither All",
-            "Healing Debuff All",
-            "Lifts 1 Status Ailments All",
-            "Cleanser"
-        ],
-        "skill_types": [
-            "Ability Scores Modifiers",
-            "Cleansers",
-            "Healing Reducers"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2025-07-18",
         "specialId": "feline_constellation",
@@ -65950,12 +56465,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Bewitching Blast",
-        "types": [
-            "Hit All",
-            "Delayed Paralyze All",
-            "DoT All"
-        ],
-        "skill_types": [],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2026-04-16",
         "specialId": "bewitching_blast",
@@ -66002,7 +56511,21 @@ window.allHeroes =
             "health": 2915,
             "power": 1596
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Paralyze",
+                    "Dmg - DoT : Poison",
+                    "Dmg - DoT : Curse"
+                ]
+            }
+        ]
     },
     {
         "name": "Jabberwock",
@@ -66012,14 +56535,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Sideswipe",
-        "types": [
-            "Hit 2",
-            "DoT 2"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Snipers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "sideswipe",
@@ -66072,16 +56587,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Avenger of Mothkind",
-        "types": [
-            "Hit 2",
-            "DoT 2",
-            "Mana Generation Debuff on DoT"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "specialId": "avenger_of_mothkind",
@@ -66141,22 +56646,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Magic",
         "skill": "Vapors of the Underworld",
-        "types": [
-            "Charge",
-            "Hit 1/All",
-            "DoT 1/All",
-            "Boosted Heal Self/All on DoT"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Healers (Special)",
-            "Snipers",
-            "AoE Attackers (Hit-3)",
-            "Stacking Heroes",
-            "Mana Reducers or Blockers",
-            "Healers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2023-11-15",
         "specialId": "vapors_of_the_underworld",
@@ -66227,23 +56716,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Magic",
         "skill": "Gaze of the Underworld",
-        "types": [
-            "Charge",
-            "Hit 1/All",
-            "DoT 1/All",
-            "Boosted Heal Self/All on DoT"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Healers (Special)",
-            "Health Boosters",
-            "Snipers",
-            "AoE Attackers (Hit-3)",
-            "Stacking Heroes",
-            "Mana Reducers or Blockers",
-            "Healers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2026-02-10",
         "specialId": "gaze_of_the_underworld",
@@ -66320,22 +56792,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Cult of Arachnid",
-        "types": [
-            "Fear Debuff 1",
-            "Hit 1",
-            "Insanity 1",
-            "Fear Debuff 2 if target defeated",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Buffers (DEF)",
-            "Dispellers",
-            "Buff Blockers",
-            "Extra Damage Dealers",
-            "Mindless Attack & Mindless Heal",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2025-11-06",
         "specialId": "cult_of_arachnid",
@@ -66408,15 +56864,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Very Fast",
         "skill": "Break Strike",
-        "types": [
-            "Dispeller 1",
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Extra Damage Dealers",
-            "Snipers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "break_strike",
@@ -66474,18 +56921,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Very Fast",
         "skill": "Beetle Strike",
-        "types": [
-            "Dispeller 1",
-            "Hit 1",
-            "Buff Immunity 1",
-            "Defense Debuff 1"
-        ],
-        "skill_types": [
-            "Buff Blockers",
-            "Debuffers (DEF)",
-            "Dispellers",
-            "Snipers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2021-11-15",
         "specialId": "beetle_strike",
@@ -66547,11 +56982,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Very Fast",
         "skill": "Toon Strike",
-        "types": [
-            "Safe Dispel 1 Buff 1",
-            "Hit 1"
-        ],
-        "skill_types": [],
         "source": "S2 - Atlantis",
         "Release date": "2026-04-29",
         "specialId": "toon_strike",
@@ -66600,16 +57030,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Total Beatdown",
-        "types": [
-            "Hit All",
-            "Board Alterer"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Board Alterers",
-            "Debuffers (ATK)",
-            "Buffers (ATK)"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "total_beatdown",
@@ -66661,18 +57081,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Slumbering Beatdown",
-        "types": [
-            "Hit All",
-            "Board Alterer"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Board Alterers",
-            "Extra Damage Dealers",
-            "DoT Attackers",
-            "Debuffers (ATK)",
-            "Buffers (ATK)"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2025-06-15",
         "specialId": "slumbering_beatdown",
@@ -66732,14 +57140,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Cry for Absolution",
-        "types": [
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Damage Reducers"
-        ],
         "source": "Challenge - Gargoyle",
         "Release date": "2022-12-29",
         "specialId": "cry_for_absolution",
@@ -66795,15 +57195,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Scarab Bombardment",
-        "types": [
-            "Hit 3",
-            "Exploding Fiend Summoner 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Fiends Summoners",
-            "DoT Attackers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-06-09",
         "specialId": "scarab_bombardment",
@@ -66864,15 +57255,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Scarab Blitz",
-        "types": [
-            "Hit 3",
-            "Exploding Fiend Summoner 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Fiends Summoners",
-            "DoT Attackers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2025-02-17",
         "specialId": "scarab_blitz",
@@ -66940,15 +57322,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Bleeding Edge",
-        "types": [
-            "Hit 1",
-            "Attack Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Snipers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-09-01",
         "specialId": "bleeding_edge",
@@ -67001,16 +57374,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Bleeding Hammer",
-        "types": [
-            "Hit 1",
-            "Attack Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Snipers",
-            "Heal over Time (HoT)",
-            "Dispellers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-02-09",
         "specialId": "bleeding_hammer",
@@ -67069,14 +57432,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Very Fast",
         "skill": "Midnight Strike",
-        "types": [
-            "Hit 1",
-            "Mana boost Self on kill"
-        ],
-        "skill_types": [
-            "Mana Raisers",
-            "Snipers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "midnight_strike",
@@ -67134,13 +57489,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Very Fast",
         "skill": "Midnight Smite",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Mana Raisers",
-            "Snipers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2024-09-07",
         "specialId": "midnight_smite",
@@ -67205,14 +57553,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Reckless Swing",
-        "types": [
-            "Hit All",
-            "Defense Debuff All allies except Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Monthly Event - Springvale",
         "Release date": "",
         "specialId": "reckless_swing",
@@ -67264,14 +57604,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Championship Carrot",
-        "types": [
-            "Hit All",
-            "Attack Debuff All allies except Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Monthly Event - Springvale",
         "Release date": "2022-03-21",
         "specialId": "championship_carrot",
@@ -67329,17 +57661,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Stolen Tarts",
-        "types": [
-            "Hit 3",
-            "Mindless Attack 1",
-            "Summoner All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Mindless Attack & Mindless Heal",
-            "Minions Summoners",
-            "Healers (Special)"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2024-04-18",
         "specialId": "stolen_tarts",
@@ -67398,19 +57719,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Slime Coated Sword",
-        "types": [
-            "Hit 1",
-            "Devouring Goo",
-            "Elemental Defense Debuff All Holy"
-        ],
-        "skill_types": [
-            "Snipers",
-            "DoT Attackers",
-            "Sleepweavers",
-            "Debuffers (DEF)",
-            "Dispellers",
-            "Ability Scores Modifiers"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-02-17",
         "specialId": "slime_coated_sword",
@@ -67473,17 +57781,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Power of Ajna",
-        "types": [
-            "Healer All",
-            "Defense Debuff All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Debuffers (DEF)",
-            "Healers",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-02-01",
         "specialId": "power_of_ajna",
@@ -67542,16 +57839,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Astral Gemstones",
-        "types": [
-            "Healer All",
-            "Increase Active Buffs Duration",
-            "Ailments Immunity All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Immunity Providers",
-            "Effect Duration Resetters"
-        ],
         "source": "Astral Summon",
         "Release date": "2025-09-21",
         "specialId": "astral_gemstones",
@@ -67617,20 +57904,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Abyssal Incantation",
-        "types": [
-            "Hit 1",
-            "Full Removal 1",
-            "Abyss Ghost 1"
-        ],
-        "skill_types": [
-            "Buff Blockers",
-            "Dispellers",
-            "DoT Attackers",
-            "Snipers",
-            "Stacking Heroes",
-            "Cleansers",
-            "Ghost Form & Hiding"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "abyssal_incantation",
@@ -67689,20 +57962,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Undying Incantation",
-        "types": [
-            "Hit 1",
-            "Full Removal 1",
-            "Abyss Ghost 1"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "DoT Attackers",
-            "Snipers",
-            "Stacking Heroes",
-            "Cleansers",
-            "Ghost Form & Hiding",
-            "Health Boosters"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2023-04-27",
         "specialId": "undying_incantation",
@@ -67768,19 +58027,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Revitalizing Melody",
-        "types": [
-            "Boosted Heal All",
-            "Cleanser All",
-            "Mana Generation Stack All",
-            "Self Mark for SS cast"
-        ],
-        "skill_types": [
-            "Dodgers",
-            "Health Boosters",
-            "Cleansers",
-            "Mana Generation Buffers",
-            "Stacking Heroes"
-        ],
         "source": "Alliance - Moths",
         "Release date": "2025-08-14",
         "specialId": "revitalizing_melody",
@@ -67843,19 +58089,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Catnip Fury",
-        "types": [
-            "Steals Mega/Minions 1",
-            "Hit 1",
-            "Damage Increased Debuff All",
-            "Self HoT"
-        ],
-        "skill_types": [
-            "Minions Counters",
-            "Snipers",
-            "Status Effect Conversion",
-            "Extra Damage Dealers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Tower - Magic",
         "Release date": "2025-08-20",
         "specialId": "catnip_fury",
@@ -67930,16 +58163,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Feather Tempest",
-        "types": [
-            "Dispeler All",
-            "Hit All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (DEF)",
-            "Dispellers"
-        ],
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "feather_tempest",
@@ -68001,16 +58224,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Raging Tempest",
-        "types": [
-            "Dispeler All",
-            "Hit All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (DEF)",
-            "Dispellers"
-        ],
         "source": "Monthly Event - Kalevala",
         "Release date": "2025-07-28",
         "specialId": "raging_tempest",
@@ -68074,17 +58287,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Disrupting Charge",
-        "types": [
-            "Hit All",
-            "Mercenary Fiend Summoner All",
-            "Buff Immunity Fiend"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buff Blockers",
-            "Fiends Summoners",
-            "DoT Attackers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "disrupting_charge",
@@ -68143,17 +58345,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Ravaging Charge",
-        "types": [
-            "Hit All",
-            "Mercenary Fiend Summoner All",
-            "Buff Immunity Fiend"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buff Blockers",
-            "Fiends Summoners",
-            "DoT Attackers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2024-12-28",
         "specialId": "disrupting_charge_costume_tiger_lord",
@@ -68221,18 +58412,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Might of Excalibroom",
-        "types": [
-            "Hit 3",
-            "Blind 3",
-            "Defense Debuff 3",
-            "HoT Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)",
-            "Heal over Time (HoT)"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "2023-09-25",
         "specialId": "might_of_excalibroom",
@@ -68297,16 +58476,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Fullmetal Pelt",
-        "types": [
-            "Taunt",
-            "SS Defense Buff Self",
-            "MoT 2"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Mana Raisers",
-            "Taunters"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "specialId": "fullmetal_pelt",
@@ -68356,15 +58525,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Lunar Blessing",
-        "types": [
-            "Healer 3",
-            "Moon Beam Buff 3"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Healers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2023-09-04",
         "specialId": "lunar_blessing",
@@ -68425,19 +58585,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Summoning of Ballerinas",
-        "types": [
-            "Hit All",
-            "Fiend Summoner All",
-            "Buff Immunity Fiends",
-            "Elemental Defense Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buff Blockers",
-            "Debuffers (DEF)",
-            "Fiends Summoners",
-            "DoT Attackers"
-        ],
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2023-11-30",
         "specialId": "summon_ballerina_fiend",
@@ -68504,17 +58651,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Join In Joyful Song",
-        "types": [
-            "Boost Health All",
-            "Shield Guard Mega Minion",
-            "Safely Clean all allies Minion"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Healers (Special)",
-            "Mega Minions Summoners",
-            "Cleansers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2025-02-14",
         "specialId": "join_in_joyful_song",
@@ -68580,17 +58716,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Grimoire Skim",
-        "types": [
-            "Hit 3",
-            "Gambler"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)",
-            "Mana Raisers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-03-01",
         "specialId": "grimoire_skim",
@@ -68664,18 +58789,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Zombie Blessing",
-        "types": [
-            "Hit All",
-            "HoT All",
-            "Defense Buff All",
-            "Zombie Blessing Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (DEF)",
-            "Heal over Time (HoT)",
-            "Revivers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "zombie_curse",
@@ -68736,19 +58849,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Zombie Invocation",
-        "types": [
-            "Hit All",
-            "Boosted HoT All",
-            "Defense Buff All",
-            "Zombie Blessing Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (DEF)",
-            "Health Boosters",
-            "Revivers",
-            "DoT Attackers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2022-02-17",
         "specialId": "zombie_invocation",
@@ -68814,15 +58914,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Very Fast",
         "skill": "Blade of Horrid Affliction",
-        "types": [
-            "Hit 2",
-            "Surge Bleed DoT 2",
-            "Poison DoT 2"
-        ],
-        "skill_types": [
-            "Snipers",
-            "DoT Attackers"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2025-11-07",
         "specialId": "blade_of_horrid_affliction",
@@ -68890,16 +58981,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Here! Catch!",
-        "types": [
-            "Hit All",
-            "Enhanced Dodge Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Dodgers",
-            "Mana Raisers",
-            "Minions Counters"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2025-03-26",
         "specialId": "here_catch",
@@ -68961,16 +59042,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Changing Tides",
         "skill": "Shatter Psyche",
-        "types": [
-            "Hit 3",
-            "Mindless Attack 1",
-            "Healing Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Healing Reducers",
-            "Mindless Attack & Mindless Heal"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-01-17",
         "specialId": "shatter_psyche",
@@ -69036,16 +59107,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Changing Tides",
         "skill": "Shatter Soul",
-        "types": [
-            "Hit 3",
-            "Mindless Attack 1",
-            "Healing Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Healing Reducers",
-            "Mindless Attack & Mindless Heal"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-10-19",
         "specialId": "shatter_soul",
@@ -69116,19 +59177,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Grim Awakening",
-        "types": [
-            "Revive All with Insanity",
-            "SS Defense Buff All",
-            "Damage All if caster is defeated",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Revivers",
-            "Buffers (DEF)",
-            "DoT Attackers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2024-05-01",
         "specialId": "grim_awakening",
@@ -69197,19 +59245,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Charge",
         "skill": "Iaijutsu",
-        "types": [
-            "Charge",
-            "Hit 1",
-            "Hit Random 1 / 4 / 10",
-            "Dispel / Dispel / Safely Dispel 1 buff on hit",
-            "Defense Debuff Stack on hit"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Chain & Random Attackers",
-            "Dispellers",
-            "Debuffers (DEF)"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2026-03-10",
         "specialId": "iaijutsu_slashes",
@@ -69288,15 +59323,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Black Tide",
-        "types": [
-            "Hit All except Dark",
-            "Hit All allies except Dark"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "black_tide",
@@ -69355,20 +59381,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Emerald Tide",
-        "types": [
-            "Hit All",
-            "Attack Buff All Dark",
-            "Attack Buff All Dark enemies",
-            "Attack Debuff All except Dark",
-            "Attack Debuff All allies except Dark"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (ATK)",
-            "Debuffers (ATK)",
-            "Extra Damage Dealers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2023-02-06",
         "specialId": "emerald_tide",
@@ -69434,13 +59446,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Toon Tide",
-        "types": [
-            "Hit All except Dark",
-            "Hit All allies except Dark",
-            "Elemental Defense Buff All except Dark",
-            "Elemental Defense Debuff All allies except Dark"
-        ],
-        "skill_types": [],
         "source": "S2 - Atlantis",
         "Release date": "2026-04-29",
         "specialId": "toon_tide",
@@ -69490,18 +59495,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Scythe of Sorceries",
-        "types": [
-            "Hit 3",
-            "Mana Generation Debuff 1",
-            "Max Health Reduction 2"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Fiends Counters",
-            "Immunity Providers",
-            "Mana Reducers or Blockers",
-            "Max Health Reducers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-11-01",
         "specialId": "scythe_of_sorceries",
@@ -69562,22 +59555,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Hungering Grave",
-        "types": [
-            "Hit 1",
-            "Bypass",
-            "Healer",
-            "Grave Mothling Mega Fiend Summoner 1",
-            "Damage Increasing Mega Fiend"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Bypassers",
-            "Healers (Special)",
-            "Fiends Summoners",
-            "Extra Damage Dealers",
-            "Dodgers",
-            "Minions Counters"
-        ],
         "source": "Alliance - Moths",
         "Release date": "2025-01-23",
         "specialId": "hungering_grave",
@@ -69644,16 +59621,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Tidal Waves",
-        "types": [
-            "Hit 3",
-            "Silencer 3",
-            "SS Block Immunity 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Immunity Providers",
-            "Silencers"
-        ],
         "source": "Monthly Event - Beach Party",
         "Release date": "2023-06-12",
         "specialId": "tidal_waves",
@@ -69717,12 +59684,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Very Fast",
         "skill": "Absordium Deflectors",
-        "types": [
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "Legends Summon - Extra Draw",
         "Release date": "",
         "specialId": "absordium_deflectors",
@@ -69778,16 +59739,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Song of Calamity",
-        "types": [
-            "Hit All",
-            "Status Ailments Duration Reset All",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Effect Duration Resetters"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2022-08-11",
         "specialId": "song_of_calamity",
@@ -69849,16 +59800,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Sledge Slide",
-        "types": [
-            "Boosted Heal All",
-            "Enhanced Dodge All",
-            "Summoner All"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Dodgers",
-            "Minions Summoners"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2025-12-01",
         "specialId": "sledge_bash",
@@ -69921,14 +59862,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Very Fast",
         "skill": "Ocular Ray",
-        "types": [
-            "Hit 3",
-            "Insanity 3",
-            "Ocular Ray 3",
-            "Ocular Ray hit Random 1",
-            "Insanity Self"
-        ],
-        "skill_types": [],
         "source": "Shadow Summon",
         "Release date": "2026-05-19",
         "specialId": "ocular_ray",
@@ -69978,17 +59911,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Styx",
         "skill": "Night Falls",
-        "types": [
-            "Charge",
-            "Hit All",
-            "Attack Buff All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (ATK)",
-            "Debuffers (DEF)"
-        ],
         "source": "Tower - Styx",
         "Release date": "2022-06-01",
         "specialId": "night_falls",
@@ -70060,14 +59982,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Cleave And Counter",
-        "types": [
-            "Hit 3",
-            "Counterattack 1"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Counterattackers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "cleave_counter",
@@ -70119,14 +60033,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Oppose and Overthrow",
-        "types": [
-            "Hit All",
-            "Counterattack 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Counterattackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "unite_and_oppose",
@@ -70180,16 +60086,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Vampiric Cleave",
-        "types": [
-            "Hit 3",
-            "Counterattack 3",
-            "Mana on Counterattack"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Counterattackers",
-            "Mana Raisers"
-        ],
         "source": "Costume Quest",
         "Release date": "2022-09-05",
         "specialId": "vampiric_cleave",
@@ -70245,15 +60141,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Toon and Counter",
-        "types": [
-            "Hit 3",
-            "Counterattack 1"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Counterattackers",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-11-27",
         "specialId": "toon_counter",
@@ -70317,16 +60204,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Cleave and Reflect",
-        "types": [
-            "Hit 3",
-            "Bypass",
-            "Counterattack 1"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Bypassers",
-            "Counterattackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-01-14",
         "specialId": "cleave_and_reflect",
@@ -70390,15 +60267,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Stylish Counterattack",
-        "types": [
-            "Hit 3",
-            "Counterattack 1"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers",
-            "Counterattackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2026-01-26",
         "specialId": "stylish_counterattack",
@@ -70462,19 +60330,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Dance of the Black Swan",
-        "types": [
-            "Healer All",
-            "Dance of the Black Swan 4",
-            "Hit 1 random while dancing",
-            "Ailments Immunity while dancing"
-        ],
-        "skill_types": [
-            "Dancers",
-            "Health Boosters",
-            "Chain & Random Attackers",
-            "Healers (Special)",
-            "Immunity Providers"
-        ],
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-03-21",
         "specialId": "dance_of_the_raven",
@@ -70545,18 +60400,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Poleaxe of the Law",
-        "types": [
-            "Fiend Destroyer All",
-            "Moonrise Strike Hit All",
-            "Mana Increase All on Fiend Destroyed"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Fiends Counters",
-            "Mana Raisers",
-            "Bypassers"
-        ],
         "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "specialId": "poleaxe_of_the_law",
@@ -70621,19 +60464,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Charge",
         "skill": "Crippling Claws",
-        "types": [
-            "Charge",
-            "Hit 1/3/All",
-            "Buff Immunity 1/3/All",
-            "Dispeller 1/3/All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "AoE Attackers (Hit-5)",
-            "Buff Blockers",
-            "Dispellers",
-            "Snipers"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "specialId": "crippling_claws",
@@ -70700,18 +60530,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Blinding Injustice",
-        "types": [
-            "Dispeller 3",
-            "Hit 3",
-            "Blind 3"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Dispellers",
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)",
-            "Extra Damage Dealers"
-        ],
         "source": "Astral Summon",
         "Release date": "2025-10-23",
         "specialId": "blinding_injustice",
@@ -70783,17 +60601,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Putrid Perfume",
-        "types": [
-            "Hit All",
-            "Summoner All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Minions Summoners",
-            "Extra Damage Dealers"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2022-12-01",
         "specialId": "putrid_perfume",
@@ -70852,22 +60659,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Ballad of Obsession",
-        "types": [
-            "Hit 3",
-            "Ballad of Obsession 3",
-            "Cleanser 3",
-            "Mana Generation  Debuff 3",
-            "Healing Decrease 3",
-            "Status Effect Immunity 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Dancers",
-            "Healing Reducers",
-            "Immunity Providers",
-            "Mana Reducers or Blockers",
-            "Silencers"
-        ],
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2023-06-20",
         "specialId": "ballad_of_obsession",
@@ -70932,19 +60723,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Changing Tides",
         "skill": "Rally of the Deep",
-        "types": [
-            "Summoner 3",
-            "Mana Increase Minion",
-            "Taunt",
-            "Minion Attack Stack All"
-        ],
-        "skill_types": [
-            "Mana Raisers",
-            "Minions Boosters",
-            "Minions Summoners",
-            "Stacking Heroes",
-            "Taunters"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "specialId": "rally_of_the_deep",
@@ -71011,19 +60789,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Changing Tides",
         "skill": "Order from the Depths",
-        "types": [
-            "Summoner 3",
-            "Mana Increase Minion",
-            "Taunt",
-            "Minion Attack Stack All"
-        ],
-        "skill_types": [
-            "Minions Boosters",
-            "Minions Summoners",
-            "Stacking Heroes",
-            "Taunters",
-            "Mana Raisers"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-05-23",
         "specialId": "order_from_the_depths",
@@ -71095,16 +60860,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Potions of Covetous Desire",
-        "types": [
-            "Hit All",
-            "Dispeller All",
-            "Heal All on buff dispelled"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Dispellers",
-            "Healers (Special)"
-        ],
         "source": "Monthly Event - Love Season",
         "Release date": "2023-02-14",
         "specialId": "potions_of_covetous_desire",
@@ -71162,19 +60917,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Seeking Shots",
-        "types": [
-            "Hit 3",
-            "Insanity 3",
-            "Defense Debuff 3",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "Mindless Attack & Mindless Heal",
-            "Negative Effects On Self Or Allies",
-            "AoE Attackers (Hit-3)",
-            "Minions Counters",
-            "Debuffers (DEF)"
-        ],
         "source": "Shadow Summon",
         "Release date": "2025-09-09",
         "specialId": "seeking_shots",
@@ -71236,17 +60978,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Charge",
         "skill": "Incite Ki",
-        "types": [
-            "Charge",
-            "HoT All",
-            "Attack Buff All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Cleansers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2021-11-10",
         "specialId": "incite_ki",
@@ -71314,12 +61045,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Thunder Ultimatum",
-        "types": [
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "thunderstrike",
@@ -71365,14 +61090,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Shock Ultimatum",
-        "types": [
-            "Hit All",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "shock_ultimatum",
@@ -71426,14 +61143,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Lightning Ultimatum",
-        "types": [
-            "Hit 3",
-            "Mindless Attack 3"
-        ],
-        "skill_types": [
-            "Mindless Attack & Mindless Heal",
-            "AoE Attackers (Hit-3)"
-        ],
         "source": "Costume Quest",
         "Release date": "2022-12-26",
         "specialId": "lightning_ultimatum",
@@ -71487,13 +61196,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Toon Ultimatum",
-        "types": [
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-08-11",
         "specialId": "toon_ultimatum",
@@ -71551,14 +61253,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Glass Ultimatum",
-        "types": [
-            "Hit All",
-            "Bypass"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Bypassers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-10-09",
         "specialId": "glass_thunderstrike_quintus",
@@ -71616,16 +61310,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Very Fast",
         "skill": "Three Little Rams",
-        "types": [
-            "Hit 1",
-            "3 Fiend Summoner 1",
-            "Stealing Heal Fiend"
-        ],
-        "skill_types": [
-            "Fiends Summoners",
-            "Healers (Special)",
-            "Snipers"
-        ],
         "source": "Legends Summon",
         "Release date": "2024-04-05",
         "specialId": "three_little_rams",
@@ -71688,12 +61372,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Caught and Vicious",
-        "types": [
-            "Hit All",
-            "Taunt",
-            "Knocks Down All"
-        ],
-        "skill_types": [],
         "source": "Wilderness Summon",
         "Release date": "2026-04-09",
         "specialId": "caught_and_vicious",
@@ -71742,7 +61420,23 @@ window.allHeroes =
             "health": 2862,
             "power": 1587
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Taunt"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Rayne",
@@ -71752,14 +61446,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Plague Blade",
-        "types": [
-            "Hit 1",
-            "Spreading Dot 1"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Snipers"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2022-01-05",
         "specialId": "plague_blade",
@@ -71812,14 +61498,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Dishonorable Ploy",
-        "types": [
-            "Hit 3",
-            "Damage All if target defeated"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2023-09-20",
         "specialId": "dishonorable_ploy",
@@ -71875,12 +61553,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Exterminator's Ploy",
-        "types": [
-            "Hit 3",
-            "Damage All if target defeated",
-            "Boosted HoT Self"
-        ],
-        "skill_types": [],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2026-04-16",
         "specialId": "exterminators_ploy",
@@ -71920,7 +61592,19 @@ window.allHeroes =
             "health": 3238,
             "power": 1600
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Conditional Trigger",
+                    "Heal - Self Recovery / Boost Health"
+                ]
+            }
+        ]
     },
     {
         "name": "Salmon Loki",
@@ -71930,14 +61614,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Trickster's Transformation",
-        "types": [
-            "Hit All Holy",
-            "Weird"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Extra Damage Dealers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2021-07-04",
         "specialId": "tricksters_transformation",
@@ -71996,14 +61672,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Gentleman's Transformation",
-        "types": [
-            "Hit All Holy",
-            "Weird"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Extra Damage Dealers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2023-07-31",
         "specialId": "gentlemans_transformation",
@@ -72064,14 +61732,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Curse of Sargasso",
-        "types": [
-            "Hit 3",
-            "Healing Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Healing Reducers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "curse_of_sargasso",
@@ -72123,16 +61783,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Curse of the Sea",
-        "types": [
-            "Hit 3",
-            "Healing Debuff",
-            "DoT"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Healing Reducers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2023-12-28",
         "specialId": "curse_of_the_sea",
@@ -72193,14 +61843,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Deathstrike",
-        "types": [
-            "Hit 1",
-            "DoT 1"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "deathstrike",
@@ -72253,12 +61895,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Dreadstrike",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "dreadstrike",
@@ -72306,15 +61942,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Frightstrike",
-        "types": [
-            "Minion Destroyer 1",
-            "Hit 1",
-            "Minion Blocking 1"
-        ],
-        "skill_types": [
-            "Minions Counters",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-06-12",
         "specialId": "frightstrike",
@@ -72374,15 +62001,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Toonstrike",
-        "types": [
-            "Hit 1",
-            "DoT 1"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "adorable_strike",
@@ -72447,16 +62065,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Glass Strike",
-        "types": [
-            "Hit 1",
-            "Bypass",
-            "DoT 1"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "DoT Attackers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-12-25",
         "specialId": "glass_strike",
@@ -72521,15 +62129,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Stylish Strike",
-        "types": [
-            "Hit 1",
-            "DoT 1"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "DoT Attackers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2026-01-07",
         "specialId": "stylish_strike",
@@ -72594,18 +62193,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Charge",
         "skill": "Shade Cloak",
-        "types": [
-            "Charge",
-            "Hit 1/3/All",
-            "Hide"
-        ],
-        "skill_types": [
-            "Snipers",
-            "AoE Attackers (Hit-3)",
-            "AoE Attackers (Hit-5)",
-            "Ghost Form & Hiding",
-            "Minions Counters"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2025-01-02",
         "specialId": "shade_cloak",
@@ -72679,17 +62266,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Void Bomb",
-        "types": [
-            "HoT All",
-            "Counterattack Self",
-            "Stored Damage Hit All"
-        ],
-        "skill_types": [
-            "Counterattackers",
-            "Heal over Time (HoT)",
-            "AoE Attackers (Hit-5)",
-            "Health Boosters"
-        ],
         "source": "Covenant Summon",
         "Release date": "2024-03-10",
         "specialId": "void_bomb",
@@ -72755,21 +62331,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slayer",
         "skill": "Curse of the Specter",
-        "types": [
-            "Hit All",
-            "Fiend Summoner All",
-            "Mana Generation Buff Stack Self",
-            "Mana HoT Stack Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Fiends Summoners",
-            "Healers (Special)",
-            "Stacking Heroes",
-            "DoT Attackers",
-            "Mana Generation Buffers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "curse_of_the_specter",
@@ -72834,21 +62395,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slayer",
         "skill": "Curse of the Cephaloid",
-        "types": [
-            "Hit All",
-            "Fiend Summoner All",
-            "Mana Generation Buff Stack Self",
-            "Mana HoT Stack Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Fiends Summoners",
-            "Healers (Special)",
-            "Stacking Heroes",
-            "Mana Generation Buffers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2025-04-09",
         "specialId": "curse_of_the_cephaloid",
@@ -72918,16 +62464,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Spreading Gossip",
-        "types": [
-            "Hit 1",
-            "Spreading Fiend 1"
-        ],
-        "skill_types": [
-            "Fiends Summoners",
-            "Snipers",
-            "Debuffers (ATK)",
-            "DoT Attackers"
-        ],
         "source": "Monthly Event - Beach Party",
         "Release date": "2025-06-03",
         "specialId": "spreading_gossip",
@@ -72993,17 +62529,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Conjuration Arrow",
-        "types": [
-            "Hit 1",
-            "Replicator Minion Summoner Self",
-            "Dispeller 3"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Mana Generation Buffers",
-            "Minions Summoners",
-            "Snipers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-07-01",
         "specialId": "undead_rage",
@@ -73066,18 +62591,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Exorcizing Arrow",
-        "types": [
-            "Dispeller 3",
-            "Hit 1",
-            "Replicator Minion Summoner Self"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Mana Generation Buffers",
-            "Minions Summoners",
-            "Snipers",
-            "Cleansers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-10-20",
         "specialId": "excorcizing_arrow",
@@ -73145,16 +62658,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Legions of Darkness",
-        "types": [
-            "Summoner All",
-            "DoT All",
-            "Mana Reduction All on Defeat Self"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Mana Reducers or Blockers",
-            "Minions Summoners"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-09-29",
         "specialId": "legions_of_darkness",
@@ -73219,16 +62722,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Legions of Tyrant",
-        "types": [
-            "Summoner All",
-            "DoT All",
-            "Mana Reduction All on Defeat Self"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Mana Reducers or Blockers",
-            "Minions Summoners"
-        ],
         "source": "S5 - Dune",
         "Release date": "2025-05-14",
         "specialId": "legions_of_tyrant",
@@ -73300,17 +62793,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Ironbound Fury",
-        "types": [
-            "Hit 3",
-            "Mana Steal 3",
-            "Buff Copy 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buff Stealers",
-            "Mana Raisers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2023-12-24",
         "specialId": "ironbound_fury",
@@ -73376,18 +62858,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Flying Bones",
-        "types": [
-            "Hit All",
-            "Bone Toss Hit 1",
-            "Bone Toss Fiend Summoner 1"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Fiends Summoners",
-            "DoT Attackers",
-            "Chain & Random Attackers",
-            "Healing Reducers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2024-12-23",
         "specialId": "bone_toss",
@@ -73447,18 +62917,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Nine Dragon Strike",
-        "types": [
-            "Chance for Critical hit",
-            "Hit 1",
-            "Hit random 8",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "Snipers",
-            "Chain & Random Attackers",
-            "Buffers (ATK)"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2026-03-01",
         "specialId": "nine_dragon_strike",
@@ -73529,18 +62987,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Guardian's Retaliation",
-        "types": [
-            "Cleanser 3",
-            "Hit Chance 1",
-            "Reflect Ailments 3",
-            "Reflect Stacks 3"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Reflectors",
-            "Chain & Random Attackers",
-            "Dodgers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-08-01",
         "specialId": "guardians_retaliation",
@@ -73606,18 +63052,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Glutinous Execution",
-        "types": [
-            "Hit 1",
-            "Mana boost All on kill",
-            "Boosted Heal All on kill",
-            "Delayed Paralyze 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Mana Raisers",
-            "Health Boosters",
-            "Sleepweavers"
-        ],
         "source": "Super Elementals",
         "Release date": "2026-02-19",
         "specialId": "glutinous_execution",
@@ -73682,17 +63116,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Sticky Express",
-        "types": [
-            "Mana Increase 2",
-            "Slime Mega Minion 2",
-            "Self Boosted HoT"
-        ],
-        "skill_types": [
-            "Heal over Time (HoT)",
-            "Health Boosters",
-            "Mana Raisers",
-            "Mega Minions Summoners"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-09-25",
         "specialId": "sticky_express",
@@ -73748,16 +63171,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Disheartening Riddle",
-        "types": [
-            "Hit 1",
-            "Chain Hit",
-            "Buff Immunity on Hit target"
-        ],
-        "skill_types": [
-            "Buff Blockers",
-            "Chain & Random Attackers",
-            "Snipers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2023-05-11",
         "specialId": "disheartening_riddle",
@@ -73817,16 +63230,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Dreadful Riddle",
-        "types": [
-            "Hit 1",
-            "Chain hit",
-            "Buff Immunity Debuff on hit"
-        ],
-        "skill_types": [
-            "Buff Blockers",
-            "Chain & Random Attackers",
-            "Snipers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2025-07-10",
         "specialId": "dreadful_riddle",
@@ -73893,15 +63296,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Weakening Strike",
-        "types": [
-            "Hit 3",
-            "Max Health Reducer over time 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Max Health Reducers",
-            "Extra Damage Dealers"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2025-11-20",
         "specialId": "weakening_strike",
@@ -73965,19 +63359,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Swift Little Friends",
-        "types": [
-            "Hit 1",
-            "Silencer 1",
-            "Summoner 3"
-        ],
-        "skill_types": [
-            "Buff Stealers",
-            "Dodgers",
-            "Minions Summoners",
-            "Silencers",
-            "Snipers",
-            "Healing Reducers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2024-10-07",
         "specialId": "swift_little_friends",
@@ -74047,16 +63428,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Disquieting Tune",
-        "types": [
-            "Hit All",
-            "Enhanced Defense All",
-            "Delayed Silence All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (DEF)",
-            "Silencers"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2024-09-20",
         "specialId": "disquieting_tune",
@@ -74118,18 +63489,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Rod of Torment",
-        "types": [
-            "Hit 1",
-            "Soul Bond 1"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Minions Counters",
-            "Snipers",
-            "Damage Sharers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2023-10-12",
         "specialId": "rod_of_torment",
@@ -74190,19 +63549,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Dinner with the Beast",
-        "types": [
-            "Humility",
-            "Hit random 6 or 5",
-            "Elemental Defense Debuff on hit",
-            "Mindless Attack on hit",
-            "Self Boosted HoT"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Debuffers (DEF)",
-            "Mindless Attack & Mindless Heal",
-            "Health Boosters"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2025-11-12",
         "specialId": "dinner_with_the_beast",
@@ -74275,17 +63621,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Skeletal Summon",
-        "types": [
-            "Hit 3",
-            "Summoner 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Mana Generation Buffers",
-            "Minions Summoners",
-            "Dispellers",
-            "Mana Generation Buffers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-11-01",
         "specialId": "soul_cage",
@@ -74338,14 +63673,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Undying Summon",
-        "types": [
-            "Hit 3",
-            "Summoner 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Minions Summoners"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-01-11",
         "specialId": "undying_summon",
@@ -74404,11 +63731,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Skeletoon Summon",
-        "types": [
-            "Hit 3",
-            "Summoner 3"
-        ],
-        "skill_types": [],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2026-04-29",
         "specialId": "skeletoon_summon",
@@ -74458,21 +63780,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Glacial Atmosphere",
-        "types": [
-            "Hit All",
-            "Defense Buff All",
-            "Ailments Damage Immunity All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (DEF)",
-            "Immunity Providers",
-            "Extra Damage Dealers",
-            "Bypassers",
-            "DoT Attackers",
-            "Debuffers (ATK)",
-            "Minions Counters"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-05-16",
         "specialId": "glacial_atmosphere",
@@ -74540,19 +63847,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Charge",
         "skill": "Hunt For Prey",
-        "types": [
-            "Charge",
-            "Hit 1/3/All",
-            "Bypass"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Minions Counters",
-            "Snipers",
-            "AoE Attackers (Hit-3)",
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2024-08-27",
         "specialId": "hunt_for_prey",
@@ -74620,12 +63914,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Gluttonous Chomp",
-        "types": [
-            "Hit 1",
-            "Mimic Chest",
-            "Normal Attack Buff All"
-        ],
-        "skill_types": [],
         "source": "Bazaar Summon",
         "Release date": "2026-03-27",
         "specialId": "gluttonous_chomp_purple",
@@ -74707,15 +63995,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Very Fast",
         "skill": "Marked Aim",
-        "types": [
-            "Hit 1",
-            "Increased Damage Stack 1"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "Snipers",
-            "Stacking Heroes"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-04-01",
         "specialId": "marked_aim",
@@ -74774,18 +64053,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Dum and Dee",
-        "types": [
-            "Hit Random 1",
-            "Defense Debuff 1",
-            "Hit Random 1",
-            "Attack Debuff 1"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)",
-            "Mana Raisers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2023-10-05",
         "specialId": "dum_and_dee",
@@ -74850,16 +64117,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Changing Tides",
         "skill": "Sinister Enlace",
-        "types": [
-            "Hit All",
-            "Counterattack 3",
-            "Damage Reduction 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Counterattackers",
-            "Damage Reducers"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-08-02",
         "specialId": "sinister_enlace",
@@ -74930,17 +64187,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Changing Tides",
         "skill": "Sinister Siphon",
-        "types": [
-            "Hit All",
-            "Counterattack 3",
-            "Damage Reduction Buff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Counterattackers",
-            "Damage Reducers",
-            "Extra Damage Dealers"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-05-28",
         "specialId": "sinister_siphon",
@@ -75016,15 +64262,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Spreading Shadow",
-        "types": [
-            "Hit 1",
-            "Cloning Fiend Summoner 1"
-        ],
-        "skill_types": [
-            "Fiends Summoners",
-            "Snipers",
-            "DoT Attackers"
-        ],
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-11-02",
         "specialId": "spreading_shadow",
@@ -75082,18 +64319,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Charge",
         "skill": "Noxious Blossom",
-        "types": [
-            "Charge",
-            "Dispeller 1/3/All",
-            "DoT 1/3/All",
-            "Healing Debuff 1/3/All"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "DoT Attackers",
-            "Healing Reducers",
-            "Minions Counters"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2024-10-22",
         "specialId": "noxious_blossom",
@@ -75166,16 +64391,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Depth Blast",
-        "types": [
-            "Hit All",
-            "Elemental Reflect All",
-            "Elemental Counterattack All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Reflectors"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "depth_blast",
@@ -75235,18 +64450,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Reef Blast",
-        "types": [
-            "Hit All",
-            "Elemental Reflect All",
-            "Elemental Counterattack All",
-            "Elemental Defense Debuff All holy"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (DEF)",
-            "Extra Damage Dealers",
-            "Reflectors"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2021-11-15",
         "specialId": "reef_blast",
@@ -75312,16 +64515,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Very Fast",
         "skill": "Venomous Claws",
-        "types": [
-            "Hit 1",
-            "DoT 3",
-            "Heal self on DoT"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Healers (Special)",
-            "Snipers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-10-01",
         "specialId": "venomous_claws",
@@ -75386,17 +64579,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Chain Blast Strike",
-        "types": [
-            "Hit 1",
-            "Chain"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Snipers",
-            "Chain & Random Attackers",
-            "Immunity Providers",
-            "Damage Reducers"
-        ],
         "source": "Challenge - Gargoyle",
         "Release date": "2024-05-16",
         "specialId": "chain_blasm_strike",
@@ -75460,16 +64642,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Gloom Grenades",
-        "types": [
-            "Hit 1",
-            "Silence"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "AoE Attackers (Hit-5)",
-            "Silencers",
-            "Snipers"
-        ],
         "source": "Super Elementals",
         "Release date": "2024-08-07",
         "specialId": "gloom_grenades",
@@ -75531,16 +64703,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Power of the Void",
-        "types": [
-            "Hit All",
-            "Wither All",
-            "Mana Generation Debuff"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Ability Scores Modifiers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Astral Summon",
         "Release date": "2025-01-30",
         "specialId": "power_of_the_void",
@@ -75603,18 +64765,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Bagh Nakh Thrust",
-        "types": [
-            "Hit 3",
-            "Hit Growth Boon",
-            "Dodge Chance Buff All",
-            "Damage on Dodge"
-        ],
-        "skill_types": [
-            "Ability Scores Modifiers",
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers",
-            "Dodgers"
-        ],
         "source": "Temple Summon",
         "Release date": "2026-01-28",
         "specialId": "bagh_nakh_thrust",
@@ -75681,19 +64831,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Very Fast",
         "skill": "Night of Sorrow",
-        "types": [
-            "Hit 1",
-            "DoT 1",
-            "Healing Steal 1",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "DoT Attackers",
-            "Healers (Special)",
-            "Healing Reducers",
-            "Snipers"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "",
         "specialId": "kings_blood_poisoning",
@@ -75757,19 +64894,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Very Fast",
         "skill": "Legacy of Darkness",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Health Steal",
-            "Defense Debuff"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "DoT Attackers",
-            "Healers (Special)",
-            "Healing Reducers"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "2021-10-04",
         "specialId": "legacy_of_darkness",
@@ -75831,18 +64955,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Lucky Coin",
-        "types": [
-            "Safe cleaner All",
-            "Buff Immunity Debuff All",
-            "Sword Guard Mega Minion",
-            "Spreading DoT Minion"
-        ],
-        "skill_types": [
-            "Mega Minions Summoners",
-            "Dispellers",
-            "Buff Blockers",
-            "DoT Attackers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2024-06-10",
         "specialId": "lucky_coin",
@@ -75913,16 +65025,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Cursed Garden",
-        "types": [
-            "Hit All",
-            "Minion Bypass",
-            "Fiend Summoner All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Fiends Summoners",
-            "Minions Counters"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-01-01",
         "specialId": "cursed_garden",
@@ -75986,16 +65088,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Insurmountable Flux",
-        "types": [
-            "Reposition",
-            "Hit All",
-            "Allies Element Change 4"
-        ],
-        "skill_types": [
-            "Random Position",
-            "AoE Attackers (Hit-5)",
-            "Status Effects Blockers"
-        ],
         "source": "Monthly Event - Springvale",
         "Release date": "2025-03-31",
         "specialId": "insurmountable_flux",
@@ -76049,18 +65141,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Paragon of Constellations",
-        "types": [
-            "Hit 1",
-            "Healer",
-            "Special Skill Defense Buff"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Snipers",
-            "Healers (Special)",
-            "Buffers (DEF)",
-            "Damage Sharers"
-        ],
         "source": "Astral Summon",
         "Release date": "2024-04-22",
         "specialId": "paragon_of_constellations",
@@ -76126,16 +65206,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Ballad of Pain",
-        "types": [
-            "Hit 1",
-            "Spreading dance Ballad of Pain"
-        ],
-        "skill_types": [
-            "Dancers",
-            "Snipers",
-            "Silencers",
-            "Immunity Providers"
-        ],
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-08-22",
         "specialId": "ballad_of_pain",
@@ -76205,16 +65275,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Wrathful Sting",
-        "types": [
-            "SS Ignores Dodge",
-            "Dispeller 3",
-            "DoT 3"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Dispellers",
-            "DoT Attackers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2024-02-06",
         "specialId": "wrathful_sting",
@@ -76283,18 +65343,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Fury of the Mountain Lord",
-        "types": [
-            "Max Health Reduction over time All",
-            "Boosted HoT All",
-            "Mana Generation Debuff All",
-            "Mana Generation Buff All"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Mana Generation Buffers",
-            "Mana Reducers or Blockers",
-            "Max Health Reducers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2023-04-24",
         "specialId": "fury_of_the_mountain_lord",
@@ -76355,18 +65403,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Ancient Enchantment",
-        "types": [
-            "Heal All",
-            "Mana Increase All",
-            "Board Alterer"
-        ],
-        "skill_types": [
-            "Board Alterers",
-            "Mana Generation Buffers",
-            "Mana Reducers or Blockers",
-            "Healers",
-            "Mana Raisers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-09-09",
         "specialId": "ancient_enchantment",
@@ -76428,19 +65464,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Entrapping Enchantment",
-        "types": [
-            "HoT All",
-            "MoT All",
-            "Board Alterer"
-        ],
-        "skill_types": [
-            "Board Alterers",
-            "Mana Generation Buffers",
-            "Mana Reducers or Blockers",
-            "Heal over Time (HoT)",
-            "Mana Raisers",
-            "Health Boosters"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2023-11-09",
         "specialId": "entrapping_enchantment",
@@ -76507,17 +65530,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Lash of the Whip",
-        "types": [
-            "Hit 3",
-            "Enhanced Defense Ailment 3",
-            "Delayed Dispeller 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Dispellers",
-            "Minions Counters"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2024-11-05",
         "specialId": "lash_of_the_whip",
@@ -76583,17 +65595,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Spiritual Wire",
-        "types": [
-            "Hit All",
-            "Blind All",
-            "Ailments Immunity All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Immunity Providers",
-            "Mana Raisers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2026-01-15",
         "specialId": "spiritual_wire",
@@ -76663,17 +65664,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Lance Thrust",
-        "types": [
-            "Hit 1",
-            "Defense Debuff 1",
-            "Healing Debuff 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Buffers (ATK)",
-            "Debuffers (DEF)",
-            "Healing Reducers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-01-01",
         "specialId": "lance_thrust",
@@ -76739,16 +65729,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Robust Ward",
-        "types": [
-            "HoT 3",
-            "Defense Buff 3",
-            "SS Defense Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Heal over Time (HoT)",
-            "Minions Summoners"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-10-01",
         "specialId": "vast_ward",
@@ -76807,12 +65787,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Minor Healing",
-        "types": [
-            "Healer"
-        ],
-        "skill_types": [
-            "Healers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "field_aid",
@@ -76852,12 +65826,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Backstab",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "backstab",
@@ -76897,12 +65865,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Fierce Slash",
-        "types": [
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "fierce_slash",
@@ -76942,12 +65904,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Attack Rally",
-        "types": [
-            "Attack Buff"
-        ],
-        "skill_types": [
-            "Buffers (ATK)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "attack_rally",
@@ -76987,12 +65943,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Attack Rally",
-        "types": [
-            "Attack Buff"
-        ],
-        "skill_types": [
-            "Buffers (ATK)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "attack_rally",
@@ -77032,12 +65982,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Tackle",
-        "types": [
-            "Hit 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "tackle",
@@ -77077,14 +66021,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Sharp Cut",
-        "types": [
-            "Hit 1",
-            "Mana Reduction 1"
-        ],
-        "skill_types": [
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "sharp_cut",
@@ -77136,14 +66072,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Acute Cut",
-        "types": [
-            "Hit 3",
-            "Mana Reduction 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "acute_cut",
@@ -77197,15 +66125,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Toon Cut",
-        "types": [
-            "Hit 1",
-            "Mana Reduction 1"
-        ],
-        "skill_types": [
-            "Mana Reducers or Blockers",
-            "Snipers",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-03-11",
         "specialId": "toon_cut",
@@ -77265,16 +66184,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Glass Cut",
-        "types": [
-            "Hit 1",
-            "Mana Reduction 1",
-            "Bypass"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-04-23",
         "specialId": "glass_cut",
@@ -77334,11 +66243,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Stylish Cut",
-        "types": [
-            "Hit 1",
-            "Mana Reducer 1"
-        ],
-        "skill_types": [],
         "source": "Costume Quest",
         "Release date": "2026-05-09",
         "specialId": "stylish_cut",
@@ -77386,14 +66290,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Changing Tides",
         "skill": "Burning Javelin",
-        "types": [
-            "Hit 3",
-            "Elemental Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "specialId": "burning_javelin",
@@ -77456,14 +66352,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Changing Tides",
         "skill": "Scout's Spyglass",
-        "types": [
-            "Hit 3",
-            "Elemental Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-04-29",
         "specialId": "scouts_spyglass",
@@ -77531,16 +66419,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Squeak of Protection",
-        "types": [
-            "Defense Buff All",
-            "Ally Damage Share",
-            "Counterattack All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Counterattackers",
-            "Damage Sharers"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2022-12-24",
         "specialId": "squeak_of_protection",
@@ -77596,16 +66474,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Goblin Fury",
-        "types": [
-            "Hit All",
-            "Mana Reduction",
-            "Mana Generation Buff"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Generation Buffers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "claw_power",
@@ -77663,16 +66531,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Hammer Thump",
-        "types": [
-            "Hit 3",
-            "Attack debuff",
-            "Defense debuff"
-        ],
-        "skill_types": [
-            "Ability Scores Modifiers",
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)"
-        ],
         "source": "Goblin Summon",
         "Release date": "2023-09-18",
         "specialId": "hammer_thump",
@@ -77738,16 +66596,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Frosty Punches",
-        "types": [
-            "Hit 3",
-            "Summoner Self",
-            "Increased Received Damage Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers",
-            "Minions Summoners"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2022-12-01",
         "specialId": "frosty_punches",
@@ -77805,14 +66653,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Styx",
         "skill": "Dante's Inferno",
-        "types": [
-            "Charge"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Bypassers",
-            "DoT Attackers"
-        ],
         "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "specialId": "dantes_inferno",
@@ -77886,20 +66726,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Dancer",
         "skill": "Protective Aura",
-        "types": [
-            "Safely Clean 3",
-            "Spirit Aura Boosted Heal 3",
-            "Fiery Fortune Dance Buff 2"
-        ],
-        "skill_types": [
-            "Healers",
-            "Health Boosters",
-            "Cleansers",
-            "Dancers",
-            "Buffers (ATK)",
-            "Extra Damage Dealers",
-            "Damage Reducers"
-        ],
         "source": "Monthly Event - Fortune Summon",
         "Release date": "2026-02-17",
         "specialId": "protective_aura",
@@ -77973,14 +66799,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Tainted Axe",
-        "types": [
-            "Hit 3",
-            "Mana Generation Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "",
         "specialId": "tainted_axe",
@@ -78032,14 +66850,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Vicious Axe",
-        "types": [
-            "Hit All",
-            "Mana Reduction All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2023-02-13",
         "specialId": "vicious_axe",
@@ -78093,11 +66903,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Toon Axe",
-        "types": [
-            "Hit 3",
-            "Mana Generation Debuff 3"
-        ],
-        "skill_types": [],
         "source": "S3 - Valhalla",
         "Release date": "2026-04-29",
         "specialId": "toon_axe",
@@ -78145,17 +66950,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Greedy Munch",
-        "types": [
-            "Destroys Minions 1",
-            "Hit 1",
-            "Mimic Chest"
-        ],
-        "skill_types": [
-            "Minions Counters",
-            "Snipers",
-            "Bypassers",
-            "Ghost Form & Hiding"
-        ],
         "source": "Bazaar Summon",
         "Release date": "2026-01-16",
         "specialId": "greedy_munch_red",
@@ -78225,15 +67019,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Evading Dash",
-        "types": [
-            "Dodge",
-            "MoT"
-        ],
-        "skill_types": [
-            "Dodgers",
-            "Mana Raisers",
-            "Counterattackers"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2023-10-18",
         "specialId": "evading_dash",
@@ -78290,12 +67075,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Wind Prayer",
-        "types": [
-            "Healer All"
-        ],
-        "skill_types": [
-            "Healers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "wind_prayer",
@@ -78341,14 +67120,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Wind Gospel",
-        "types": [
-            "HoT All",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Heal over Time (HoT)"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "wind_gospel",
@@ -78402,14 +67173,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Toon Prayer",
-        "types": [
-            "Healer All",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Buffers (DEF)"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-05-06",
         "specialId": "adorable_wind_prayer",
@@ -78467,15 +67230,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Glass Prayer",
-        "types": [
-            "Healer All",
-            "Reflect Ailments for Fire Allies",
-            "Reflect Stacks for Fire Allies"
-        ],
-        "skill_types": [
-            "Healers",
-            "Reflectors"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-07-16",
         "specialId": "glass_prayer",
@@ -78533,18 +67287,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Dwarven Flourish",
-        "types": [
-            "Hit random 8",
-            "Buffs Duration Reset All"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Effect Duration Resetters",
-            "Extra Damage Dealers",
-            "Minions Counters",
-            "DoT Attackers",
-            "Debuffers (DEF)"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "specialId": "dwarven_flourish",
@@ -78604,18 +67346,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Dwarven Recharge",
-        "types": [
-            "Hit random 8",
-            "Buffs Duration Reset All"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Effect Duration Resetters",
-            "Extra Damage Dealers",
-            "Minions Counters",
-            "DoT Attackers",
-            "Debuffers (DEF)"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-10-15",
         "specialId": "dwarven_recharge",
@@ -78677,14 +67407,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Fireball",
-        "types": [
-            "Hit All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "fireball",
@@ -78737,14 +67459,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Scorching Ray",
-        "types": [
-            "Hit All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "comet",
@@ -78799,15 +67513,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Toonball",
-        "types": [
-            "Hit All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-12-25",
         "specialId": "toonball",
@@ -78872,16 +67577,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Glass Fireball",
-        "types": [
-            "Hit All",
-            "Bypass",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Bypassers",
-            "DoT Attackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-12-25",
         "specialId": "glass_fireball",
@@ -78946,15 +67641,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Stylish Fireball",
-        "types": [
-            "Hit All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "DoT Attackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2026-01-07",
         "specialId": "stylish_fireball",
@@ -79019,15 +67705,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Magic",
         "skill": "Imaginary Increments",
-        "types": [
-            "Charge",
-            "Attack Buff 3",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Debuffers (DEF)"
-        ],
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "imaginary_increments",
@@ -79086,16 +67763,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Sickle of Wu",
-        "types": [
-            "Hit All",
-            "Summoner All",
-            "Minion with DoT"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Minions Summoners"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "sickle_of_wu",
@@ -79154,16 +67821,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Rough and Tumble",
-        "types": [
-            "Chance of Critical hits",
-            "Hit 3",
-            "Taunt"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Taunters",
-            "Extra Damage Dealers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2025-05-22",
         "specialId": "rough_and_tumble",
@@ -79228,14 +67885,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Bloodthirst",
-        "types": [
-            "Hit 1",
-            "Attack Buff Self"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Snipers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "bloodthirst",
@@ -79287,14 +67936,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Burning Strike",
-        "types": [
-            "Hit 1",
-            "DoT 1"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "burning_strike",
@@ -79347,14 +67988,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Searing Strike",
-        "types": [
-            "Hit 1",
-            "DoT 1"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "searing_strike",
@@ -79409,15 +68042,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Toonfire Strike",
-        "types": [
-            "Hit 1",
-            "DoT 1"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Snipers",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-05-31",
         "specialId": "adorable_burning_strike",
@@ -79482,16 +68106,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Glass Strike",
-        "types": [
-            "Hit 1",
-            "Bypass",
-            "DoT 1"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Snipers",
-            "Bypassers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-08-10",
         "specialId": "glass_burning_strike",
@@ -79556,14 +68170,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Valuable Contribution",
-        "types": [
-            "Attack Buff",
-            "Mana Generation Buff"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Mana Generation Buffers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "specialId": "valuable_contribution",
@@ -79611,19 +68217,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Vantage Point",
-        "types": [
-            "Hit 3",
-            "Insanity 3",
-            "Attack Buff Stack Self",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "Mindless Attack & Mindless Heal",
-            "Negative Effects On Self Or Allies",
-            "AoE Attackers (Hit-3)",
-            "Stacking Heroes",
-            "Buffers (ATK)"
-        ],
         "source": "Shadow Summon",
         "Release date": "2025-09-09",
         "specialId": "vantage_point",
@@ -79682,17 +68275,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Joyful Palette",
-        "types": [
-            "Hit 3",
-            "DoT 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Dodgers",
-            "Minions Counters"
-        ],
         "source": "Alliance - Moths",
         "Release date": "2025-01-23",
         "specialId": "joyful_palette",
@@ -79754,16 +68336,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Antler Attack",
-        "types": [
-            "Hit 1",
-            "Mana Reduction 1",
-            "Summoner Self"
-        ],
-        "skill_types": [
-            "Mana Reducers or Blockers",
-            "Minions Summoners",
-            "Snipers"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "",
         "specialId": "horn_attack",
@@ -79817,18 +68389,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Titanium Antler Attack",
-        "types": [
-            "Hit 1",
-            "Mana Reduction 1",
-            "Summoner Self",
-            "Defense Buff Self"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Mana Reducers or Blockers",
-            "Minions Summoners",
-            "Buffers (DEF)"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2025-12-01",
         "specialId": "titanium_antler_attack",
@@ -79894,16 +68454,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Furry Logger's Swing",
-        "types": [
-            "Hit All",
-            "Dot all",
-            "Defense Debuff"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (DEF)",
-            "DoT Attackers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "furry_loggers_swing",
@@ -79964,14 +68514,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Mad Rat Mania",
-        "types": [
-            "Hit 3",
-            "Attack Buff"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buffers (ATK)"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "mad_rat_mania",
@@ -80023,14 +68565,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Reckless Stab",
-        "types": [
-            "Hit 1",
-            "Defense Debuff Self"
-        ],
-        "skill_types": [
-            "Negative Effects On Self Or Allies",
-            "Snipers"
-        ],
         "source": "Monthly Event - Springvale",
         "Release date": "",
         "specialId": "reckless_stab",
@@ -80082,11 +68616,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Prudent Stab",
-        "types": [
-            "Hit 1",
-            "Defense Debuff Self"
-        ],
-        "skill_types": [],
         "source": "Monthly Event - Springvale",
         "Release date": "2026-03-30",
         "specialId": "prudent_stab",
@@ -80124,7 +68653,23 @@ window.allHeroes =
             "health": 1077,
             "power": 732
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Starswift",
@@ -80134,15 +68679,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Starplay",
-        "types": [
-            "Hit 3",
-            "Mana generation buff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Mana Generation Buffers",
-            "Damage Sharers"
-        ],
         "source": "Astral Summon",
         "Release date": "2024-03-07",
         "specialId": "starplay",
@@ -80206,13 +68742,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Slow",
         "skill": "Burning Shields",
-        "types": [
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "burning_shields",
@@ -80264,13 +68793,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Thresher Worms",
-        "types": [
-            "Fiend Summoner All"
-        ],
-        "skill_types": [
-            "Fiends Summoners",
-            "DoT Attackers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "thresher_worms",
@@ -80321,13 +68843,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Leeching Worms",
-        "types": [
-            "Fiend Summoner All"
-        ],
-        "skill_types": [
-            "Fiends Summoners",
-            "DoT Attackers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2024-04-25",
         "specialId": "leeching_worms",
@@ -80380,14 +68895,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Unyielding Protector",
-        "types": [
-            "Hit All",
-            "Max Health Reduction over Time All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Max Health Reducers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "unyielding_protector",
@@ -80445,14 +68952,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Unyielding Sword",
-        "types": [
-            "Hit All",
-            "Max Health Reduction over Time All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Max Health Reducers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2025-04-14",
         "specialId": "unyielding_sword",
@@ -80517,17 +69016,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Charge",
         "skill": "Flying Front Kick",
-        "types": [
-            "Charge",
-            "Hit 1",
-            "Hit Random 1 / 2 / 3",
-            "Attack Debuff on hit"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Chain & Random Attackers",
-            "Debuffers (ATK)"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2026-03-10",
         "specialId": "flying_front_kick",
@@ -80598,20 +69086,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slayer",
         "skill": "Wily Wisps",
-        "types": [
-            "Hit All",
-            "Fiend Summoner All",
-            "Stack"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Fiends Summoners",
-            "Healers (Special)",
-            "Stacking Heroes",
-            "DoT Attackers",
-            "Mana Generation Buffers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "wily_wisps",
@@ -80676,14 +69150,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Warcry",
-        "types": [
-            "Healer All",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Healers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "warcry",
@@ -80735,14 +69201,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "War Feast",
-        "types": [
-            "Healer All",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Healers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "war_feast",
@@ -80796,15 +69254,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "War Song",
-        "types": [
-            "Boosted HoT All",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Heal over Time (HoT)",
-            "Health Boosters"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-06-12",
         "specialId": "war_song",
@@ -80859,14 +69308,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Tooncry",
-        "types": [
-            "Healer All",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Healers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-12-25",
         "specialId": "tooncry",
@@ -80924,17 +69365,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Glass Warcry",
-        "types": [
-            "Healer All",
-            "Attack Buff All",
-            "Reflect Ailments for Fire Allies",
-            "Reflect Stacks for Fire Allies"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Healers",
-            "Reflectors"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-12-25",
         "specialId": "glass_warcry",
@@ -80994,14 +69424,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Stylish Warcry",
-        "types": [
-            "Healer All",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Healers"
-        ],
         "source": "Costume Quest",
         "Release date": "2026-01-07",
         "specialId": "stylish_warcry",
@@ -81059,16 +69481,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Perilous Present",
-        "types": [
-            "Mana Reduction",
-            "Summoner 1",
-            "Bomb"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Mana Reducers or Blockers",
-            "Minions Summoners"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2020-12-01",
         "specialId": "perilous_gift",
@@ -81118,19 +69530,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slayer",
         "skill": "Reanimated Spite",
-        "types": [
-            "Hit 3",
-            "Resurrect",
-            "Stack"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Healers (Special)",
-            "Revivers",
-            "Stacking Heroes",
-            "Mana Generation Buffers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "reanimated_spite",
@@ -81190,14 +69589,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Fire Storm",
-        "types": [
-            "Hit All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "fire_storm",
@@ -81250,14 +69641,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Flame Assault",
-        "types": [
-            "Hit All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "lavablow",
@@ -81312,15 +69695,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Slow",
         "skill": "Flame Storm",
-        "types": [
-            "Hit 3",
-            "Elemental Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-06-12",
         "specialId": "flame_storm",
@@ -81380,15 +69754,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Toon Storm",
-        "types": [
-            "Hit All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-03-11",
         "specialId": "toon_storm",
@@ -81453,16 +69818,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Vitrail Flames",
-        "types": [
-            "Hit All",
-            "Bypass",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Bypassers",
-            "DoT Attackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-04-08",
         "specialId": "vitrail_flames",
@@ -81527,11 +69882,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Stylish Flames",
-        "types": [
-            "Hit All",
-            "DoT All"
-        ],
-        "skill_types": [],
         "source": "Costume Quest",
         "Release date": "2026-04-10",
         "specialId": "stylish_flames",
@@ -81569,7 +69919,24 @@ window.allHeroes =
             "health": 1740,
             "power": 1003
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Eichbelborg",
@@ -81579,14 +69946,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Pompous Flex",
-        "types": [
-            "Hit 1",
-            "Defense Debuff"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "Snipers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "pompous_flex",
@@ -81638,13 +69997,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Feral Revenge",
-        "types": [
-            "Counterattack"
-        ],
-        "skill_types": [
-            "Counterattackers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "specialId": "feral_revenge",
@@ -81696,13 +70048,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Fiery Revenge",
-        "types": [
-            "Counterattack"
-        ],
-        "skill_types": [
-            "Counterattackers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2024-12-17",
         "specialId": "fiery_revenge",
@@ -81762,14 +70107,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Ramming Pulverizer",
-        "types": [
-            "Hit 3",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "ramming_pulverizer",
@@ -81821,16 +70158,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Pulverizing Abacus",
-        "types": [
-            "Minion Destroyer All",
-            "Hit All",
-            "Heal All on Minion kill"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Healers (Special)",
-            "Minions Counters"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "wallet_pulverizer",
@@ -81886,14 +70213,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Pulverizing Ham",
-        "types": [
-            "Dispeller All",
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Dispellers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-04-17",
         "specialId": "pulverizing_ham",
@@ -81947,15 +70266,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Toon Pulverizer",
-        "types": [
-            "Hit 3",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-05-06",
         "specialId": "adorable_pulverizer",
@@ -82020,16 +70330,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Glass Pulverizer",
-        "types": [
-            "Hit 3",
-            "Bypass",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Bypassers",
-            "Debuffers (DEF)"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-05-10",
         "specialId": "glass_pulverizer",
@@ -82093,14 +70393,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Blazing Beak",
-        "types": [
-            "Hit 3",
-            "Elemental Defense Debuff"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "blazing_beak",
@@ -82152,16 +70444,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Burning Spin",
-        "types": [
-            "Hit 3",
-            "Counterattack  3",
-            "Burning Touch 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Counterattackers",
-            "DoT Attackers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2025-12-23",
         "specialId": "burning_spin",
@@ -82232,15 +70514,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Cannonball Splash",
-        "types": [
-            "Hit 3",
-            "Buff Immunity"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buff Blockers",
-            "Immunity Providers"
-        ],
         "source": "Monthly Event - Beach Party",
         "Release date": "2023-06-12",
         "specialId": "cannonball_splash",
@@ -82304,14 +70577,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Slash and Support",
-        "types": [
-            "Hit 1",
-            "Damage Heal All"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Snipers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "slash_and_support",
@@ -82365,14 +70630,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Strike and Support",
-        "types": [
-            "Hit 1",
-            "Damage Heal All"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Healers (Special)"
-        ],
         "source": "S5 - Dune",
         "Release date": "2024-11-01",
         "specialId": "strike_and_support",
@@ -82433,14 +70690,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Dance of Fire",
-        "types": [
-            "Hit 1",
-            "DoT 1"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "dance_of_fire",
@@ -82493,12 +70742,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Dance of Ignition",
-        "types": [
-            "DoT All"
-        ],
-        "skill_types": [
-            "DoT Attackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "dance_of_ignition",
@@ -82552,16 +70795,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Dance of Flame",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Self Heal on Burn"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Healers (Special)"
-        ],
         "source": "Costume Quest",
         "Release date": "2022-09-05",
         "specialId": "dance_of_flame",
@@ -82621,15 +70854,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Dance of Toons",
-        "types": [
-            "Hit 1",
-            "DoT 1"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Snipers",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-04-08",
         "specialId": "dance_of_toons",
@@ -82694,16 +70918,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Glass Dance",
-        "types": [
-            "Hit 1",
-            "Bypass",
-            "DoT 1"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "DoT Attackers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-04-23",
         "specialId": "dance_of_glass",
@@ -82768,11 +70982,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Stylish Dance",
-        "types": [
-            "Hit 1",
-            "DoT 1"
-        ],
-        "skill_types": [],
         "source": "Costume Quest",
         "Release date": "2026-05-09",
         "specialId": "stylish_dance",
@@ -82820,14 +71029,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Flaming Sword",
-        "types": [
-            "Hit 3",
-            "DoT 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers"
-        ],
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "flaming_sword",
@@ -82884,14 +71085,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Sword of Swan Song",
-        "types": [
-            "Hit 3",
-            "DoT 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers"
-        ],
         "source": "Monthly Event - Kalevala",
         "Release date": "2025-07-28",
         "specialId": "sword_of_swan_song",
@@ -82950,20 +71143,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Magic",
         "skill": "Mageball Blast",
-        "types": [
-            "Hit 1",
-            "Mana Reduce 4 on target SS",
-            "Mana Generation Buff All",
-            "Hit All on Ally SS"
-        ],
-        "skill_types": [
-            "Mana Generation Buffers",
-            "Mana Reducers or Blockers",
-            "Snipers",
-            "AoE Attackers (Hit-5)",
-            "Stacking Heroes",
-            "Healers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2023-05-03",
         "specialId": "mageball_blast",
@@ -83033,14 +71212,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Halfling's Wit",
-        "types": [
-            "Counterattack 3",
-            "Attack Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Counterattackers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "halflings_wit",
@@ -83092,14 +71263,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Halfling's Wisdom",
-        "types": [
-            "Counterattack 3",
-            "Attack Buff 3"
-        ],
-        "skill_types": [
-            "Counterattackers",
-            "Buffers (ATK)"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2024-05-23",
         "specialId": "halflings_wisdom",
@@ -83153,18 +71316,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Sparking Star Slash",
-        "types": [
-            "Hit 1",
-            "Possible Extra Hits",
-            "Resonance DoT on hit"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Snipers",
-            "Chain & Random Attackers",
-            "DoT Attackers",
-            "Extra Damage Dealers"
-        ],
         "source": "Astral Summon",
         "Release date": "2025-10-23",
         "specialId": "sparking_star_slash",
@@ -83227,15 +71378,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Claws of the Hunter",
-        "types": [
-            "Hit 3",
-            "Fiend Summoner 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Fiends Summoners"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2022-08-25",
         "specialId": "claws_of_the_hunter",
@@ -83294,17 +71436,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Kindled Carpet",
-        "types": [
-            "Hit 3",
-            "DoT 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Healers (Special)",
-            "Status Effects Blockers",
-            "Status Effect Conversion"
-        ],
         "source": "Tower - Magic",
         "Release date": "2025-04-17",
         "specialId": "kindled_carpet",
@@ -83377,16 +71508,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Healing Fire Spirits",
-        "types": [
-            "Heal all",
-            "Elemental Heal Fire",
-            "Cleanser"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Healers",
-            "Healers (Special)"
-        ],
         "source": "Super Elementals",
         "Release date": "2023-10-09",
         "specialId": "healing_fire_spirits",
@@ -83448,23 +71569,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Ballad of Attraction",
-        "types": [
-            "Hit 3",
-            "Ballad of Attraction 3",
-            "Mana Generation Debuff while dancing",
-            "Healing Debuff  while dancing",
-            "Status Effect immunity  while dancing"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Cleansers",
-            "Buff Blockers",
-            "Dancers",
-            "Dispellers",
-            "Healing Reducers",
-            "Mana Reducers or Blockers",
-            "Immunity Providers"
-        ],
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2023-11-30",
         "specialId": "ballad_of_attraction",
@@ -83534,15 +71638,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Blind Rage",
-        "types": [
-            "Hit All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "blind_rage",
@@ -83599,15 +71694,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Mason's Rage",
-        "types": [
-            "Hit All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2024-04-25",
         "specialId": "masons_rage",
@@ -83666,14 +71752,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Blade Barrage",
-        "types": [
-            "Hit 3",
-            "Attack Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "blade_barrage",
@@ -83725,16 +71803,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Blades of Venom",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Attack Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "DoT Attackers",
-            "AoE Attackers (Hit-3)"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "blade_venom",
@@ -83795,15 +71863,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Blades on the Dance Floor",
-        "types": [
-            "Hit 3",
-            "Attack Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)",
-            "Stacking Heroes"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "blade_dance",
@@ -83857,15 +71916,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Toon Barrage",
-        "types": [
-            "Hit 3",
-            "Attack Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-08-11",
         "specialId": "toon_barrage",
@@ -83929,16 +71979,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Glass Barrage",
-        "types": [
-            "Hit 3",
-            "Bypass",
-            "Attack Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)",
-            "Bypassers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-09-07",
         "specialId": "glass_barrage_scarlett",
@@ -84002,15 +72042,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Eternal Servitude",
-        "types": [
-            "Attack Buff All",
-            "Critical Chance Buff All",
-            "Zombie Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Revivers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "eternal_servitude",
@@ -84068,15 +72099,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Charge",
         "skill": "Channel Ki",
-        "types": [
-            "Charge",
-            "HoT Self/3/All",
-            "Cleanser Self/3/All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "specialId": "channel_ki",
@@ -84135,16 +72157,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Inspiring Fencing",
-        "types": [
-            "Hit 1",
-            "Attack Buff 3",
-            "Mana Generation Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Mana Generation Buffers",
-            "Snipers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "inspiring_fencing",
@@ -84198,16 +72210,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Oji-Waza",
-        "types": [
-            "Hit 1",
-            "Counterattack Self",
-            "Mana Gain Self on counterattack"
-        ],
-        "skill_types": [
-            "Counterattackers",
-            "Mana Raisers",
-            "Snipers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "oji_waza",
@@ -84261,16 +72263,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Örsöldöön",
-        "types": [
-            "Hit 1",
-            "Counterattack Self",
-            "Mana Gain Self on counterattack"
-        ],
-        "skill_types": [
-            "Counterattackers",
-            "Mana Raisers",
-            "Snipers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2023-04-03",
         "specialId": "orsoldoon",
@@ -84326,12 +72318,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Toon-Waza",
-        "types": [
-            "Hit 1",
-            "Counterattack Self",
-            "Mana Gain Self on counterattack"
-        ],
-        "skill_types": [],
         "source": "S2 - Atlantis",
         "Release date": "2026-04-29",
         "specialId": "toon_waza",
@@ -84380,14 +72366,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Magma Boulders",
-        "types": [
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "",
         "specialId": "magma_boulders",
@@ -84439,14 +72417,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Volcanic Boulders",
-        "types": [
-            "Hit 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2022-07-04",
         "specialId": "volcanic_boulders",
@@ -84500,10 +72470,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Toon Magma Boulders",
-        "types": [
-            "Hit All"
-        ],
-        "skill_types": [],
         "source": "S3 - Valhalla",
         "Release date": "2026-04-29",
         "specialId": "toon_magma_boulders",
@@ -84551,14 +72517,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Royal Blades",
-        "types": [
-            "Hit 3",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "royal_blades",
@@ -84610,18 +72568,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Firing on all Cylinders",
-        "types": [
-            "Hit 3",
-            "Fiend Summoner 3",
-            "Generated mana steal 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Fiends Summoners",
-            "Mana Reducers or Blockers",
-            "Damage Reducers",
-            "Immunity Providers"
-        ],
         "source": "Challenge - Gargoyle",
         "Release date": "2024-10-17",
         "specialId": "firing_on_all_cylinders",
@@ -84684,17 +72630,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Wonderful Feast",
-        "types": [
-            "Ally Damage Share",
-            "Enemy Damage Share",
-            "Defense Buff All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Damage Sharers",
-            "Debuffers (DEF)"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "spiritual_unity",
@@ -84749,14 +72684,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Brilliant Brew",
-        "types": [
-            "Titan Attack Buff All",
-            "HoT All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Heal over Time (HoT)"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2022-05-02",
         "specialId": "brilliant_brew",
@@ -84810,15 +72737,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Melody of Misery",
-        "types": [
-            "Hit 1",
-            "Status Ailment Reset All"
-        ],
-        "skill_types": [
-            "Effect Duration Resetters",
-            "Resurrection Inhibitors",
-            "Snipers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2022-08-11",
         "specialId": "melody_of_misery",
@@ -84874,16 +72792,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Scion Sword",
-        "types": [
-            "Hit 1",
-            "Summoner All",
-            "Minion with DoT"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Minions Summoners",
-            "Snipers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "scion_sword",
@@ -84942,16 +72850,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Scion Blade",
-        "types": [
-            "Hit 1",
-            "Summoner All",
-            "Minion with DoT"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Minions Summoners",
-            "DoT Attackers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2025-01-29",
         "specialId": "scion_sword_costume_white_raven",
@@ -85019,19 +72917,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Whispers of Xulu",
-        "types": [
-            "Hit All",
-            "Summoner All",
-            "Minion with DoT",
-            "Minion with Insanity",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Minions Summoners",
-            "DoT Attackers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2024-05-26",
         "specialId": "whispers_of_xulu",
@@ -85099,16 +72984,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Crimson Hunt",
-        "types": [
-            "Hit 1",
-            "Bypass",
-            "Defense Debuff 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Bypassers",
-            "Debuffers (DEF)"
-        ],
         "source": "Titan Hunter Summon",
         "Release date": "2025-12-16",
         "specialId": "crimson_hunt",
@@ -85176,20 +73051,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Craving Nip",
-        "types": [
-            "Hit 1",
-            "Damage Boosted Heal All",
-            "Mimic Chest"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Healers (Special)",
-            "Health Boosters",
-            "Mana Raisers",
-            "Immunity Providers",
-            "Ghost Form & Hiding",
-            "Bypassers"
-        ],
         "source": "Bazaar Summon",
         "Release date": "2025-11-21",
         "specialId": "aether_mimic_bite_red",
@@ -85265,22 +73126,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Mana Immolation",
-        "types": [
-            "Hit 1",
-            "Dodge Chance All",
-            "Mark of Immolation Stack Self"
-        ],
-        "skill_types": [
-            "Dodgers",
-            "Extra Damage Dealers",
-            "Bypassers",
-            "DoT Attackers",
-            "Debuffers (DEF)",
-            "Minions Counters",
-            "Snipers",
-            "Mana Generation Buffers",
-            "Stacking Heroes"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-03-23",
         "specialId": "mana_immolation",
@@ -85348,19 +73193,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Very Fast",
         "skill": "Vampiric Curse",
-        "types": [
-            "Minion Destroyer 3",
-            "Hit 3",
-            "Heal All per minion destroyed",
-            "Bypass"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Bypassers",
-            "Healers (Special)",
-            "Mana Raisers",
-            "Minions Counters"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "2022-10-03",
         "specialId": "vampiric_curse",
@@ -85422,18 +73254,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Very Fast",
         "skill": "Vampiric Heist",
-        "types": [
-            "Minion Destroyer 3",
-            "Hit 3",
-            "Bypass"
-        ],
-        "skill_types": [
-            "Minions Counters",
-            "AoE Attackers (Hit-3)",
-            "Healers (Special)",
-            "Mana Raisers",
-            "Bypassers"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "2024-09-23",
         "specialId": "vampiric_heist",
@@ -85497,13 +73317,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Sword of Xu'Vhosh",
-        "types": [
-            "Hit All",
-            "Insanity All",
-            "Healing Steal All",
-            "Insanity Self"
-        ],
-        "skill_types": [],
         "source": "Shadow Summon",
         "Release date": "2026-04-14",
         "specialId": "sword_of_xuvhosh",
@@ -85542,7 +73355,20 @@ window.allHeroes =
             "health": 2938,
             "power": 1601
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Insanity",
+                    "Heal - Steal Healing",
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Amber",
@@ -85552,17 +73378,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Spear of Blood Pact",
-        "types": [
-            "Hit 1",
-            "Heal Self",
-            "Healing Resist Debuff 1",
-            "Damage on each Resisted Healing 1"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Healing Reducers",
-            "Snipers"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "2023-09-25",
         "specialId": "spear_of_blood_pact",
@@ -85624,17 +73439,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Oath of the Templar",
-        "types": [
-            "Hit 3",
-            "Cover Random 1",
-            "Elemental Defense Buff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Damage Sharers",
-            "Buffers (DEF)",
-            "Buffers (ATK)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2026-01-01",
         "specialId": "oath_of_templar",
@@ -85696,15 +73500,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Blazing Rave Dance",
-        "types": [
-            "Hit All",
-            "Blazing Rave Dance All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Dancers",
-            "Buffers (DEF)"
-        ],
         "source": "Monthly Event - Beach Party",
         "Release date": "2025-06-03",
         "specialId": "blazing_rave_dance",
@@ -85770,15 +73565,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Flaming Grudge",
-        "types": [
-            "Hit All",
-            "Healer All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Healers (Special)",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-04-01",
         "specialId": "flaming_grudge",
@@ -85831,16 +73617,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Wicked Witchcraft",
-        "types": [
-            "Max Health Reduction",
-            "DoT All",
-            "Boosted Heal Decrease Debuff All"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Healing Reducers",
-            "Max Health Reducers"
-        ],
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-07-13",
         "specialId": "wicked_witchcraft",
@@ -85899,18 +73675,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Forceful Advance",
-        "types": [
-            "Hit All",
-            "Damage Increase Stack All",
-            "Delayed Mana boost All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Mana Raisers",
-            "Stacking Heroes",
-            "Minions Counters"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2024-10-23",
         "specialId": "forceful_advance",
@@ -85976,16 +73740,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Might of Ares",
-        "types": [
-            "Attack Buff 3",
-            "Critical Chance Buff 3",
-            "HoT 3"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Heal over Time (HoT)",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-08-01",
         "specialId": "might_of_ares",
@@ -86040,18 +73794,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Seal of Ares",
-        "types": [
-            "Attack Buff 3",
-            "Counterattack 3",
-            "Boosted Heal 3"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Buffers (DEF)",
-            "Counterattackers",
-            "Heal over Time (HoT)",
-            "Health Boosters"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-03-20",
         "specialId": "seal_of_ares",
@@ -86113,12 +73855,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Might of Toon Ares",
-        "types": [
-            "Attack Buff All",
-            "Critical Chance Buff All",
-            "HoT All"
-        ],
-        "skill_types": [],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2026-04-29",
         "specialId": "might_of_toon_ares",
@@ -86168,18 +73904,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Charge",
         "skill": "Two Sword Technique",
-        "types": [
-            "Charge",
-            "Hit 1",
-            "Chain Hit",
-            "Attack Growth All",
-            "Defense Growth All"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Chain & Random Attackers",
-            "Ability Scores Modifiers"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2026-03-10",
         "specialId": "two_sword_technique",
@@ -86252,12 +73976,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Gorging Chew",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Mimic Chest"
-        ],
-        "skill_types": [],
         "source": "Bazaar Summon",
         "Release date": "2025-07-04",
         "specialId": "gorging_chew_red",
@@ -86341,15 +74059,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Ruby Rush",
-        "types": [
-            "Hit Random 9",
-            "Elemental Defense Debuff on hit"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Extra Damage Dealers",
-            "Debuffers (DEF)"
-        ],
         "source": "Super Elementals",
         "Release date": "2024-07-14",
         "specialId": "ruby_rush",
@@ -86415,20 +74124,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Brutal Bull Rush",
-        "types": [
-            "Hit 3",
-            "Buff Duration Reducer 3",
-            "DoT 3",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "DoT Attackers",
-            "Effect Duration Resetters",
-            "Extra Damage Dealers",
-            "Minions Counters"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "brutal_bull_rush",
@@ -86490,20 +74185,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Charge",
         "skill": "Rending Dagger",
-        "types": [
-            "Charge",
-            "Hit 1/3/All",
-            "Bleed Mark on hit",
-            "DoT 1/3/All"
-        ],
-        "skill_types": [
-            "Snipers",
-            "AoE Attackers (Hit-3)",
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Minions Counters"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2025-03-05",
         "specialId": "rending_dagger",
@@ -86571,12 +74252,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Crimson Trap",
-        "types": [
-            "Hit Random 3",
-            "SExploding Spike Trap on hit",
-            "Elemental Defense Debuff on hit"
-        ],
-        "skill_types": [],
         "source": "Titan Hunter Summon",
         "Release date": "2026-05-20",
         "specialId": "crimson_trap",
@@ -86628,14 +74303,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Volcanic Eruption",
-        "types": [
-            "Hit All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "volcanic_eruption",
@@ -86688,15 +74355,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Volcanic Flareup",
-        "types": [
-            "Hit 3",
-            "DoT 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "volcanic_flareup",
@@ -86757,16 +74415,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Volcanic Explosion",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Self Heal on Burn"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Healers (Special)"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-02-20",
         "specialId": "volcanic_explosion",
@@ -86826,15 +74474,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Toon Explosion",
-        "types": [
-            "Hit All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "volcanic_tantrum",
@@ -86899,16 +74538,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Glass Volcano",
-        "types": [
-            "Hit All",
-            "Bypass",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Bypassers",
-            "DoT Attackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-12-25",
         "specialId": "glass_volcano",
@@ -86973,15 +74602,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Stylish Eruption",
-        "types": [
-            "Hit All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "DoT Attackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2026-01-07",
         "specialId": "stylish_eruption",
@@ -87046,20 +74666,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Dancer",
         "skill": "Aura of the Fiery Lion",
-        "types": [
-            "Safely Clean 3",
-            "Spirit Aura Boosted Heal 3",
-            "Fiery Fortune Dance Buff 2"
-        ],
-        "skill_types": [
-            "Healers",
-            "Health Boosters",
-            "Cleansers",
-            "Dancers",
-            "Buffers (ATK)",
-            "Extra Damage Dealers",
-            "Damage Reducers"
-        ],
         "source": "Monthly Event - Fortune Summon",
         "Release date": "2026-02-17",
         "specialId": "aura_of_the_fiery_lion",
@@ -87133,18 +74739,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Unbreakable Brawler",
-        "types": [
-            "Hit Random 1",
-            "Boosted Health Self",
-            "Mana Reduction Immunity All if boosted HP",
-            "Hit 1 random each turn if boosted HP"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Health Boosters",
-            "Immunity Providers",
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "unbreakable_brawler",
@@ -87195,19 +74789,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Relentless Brawler",
-        "types": [
-            "Hit 1",
-            "Boosted Health Self",
-            "Mana Reduction Immunity All if boosted HP",
-            "Hit 1 random each turn if boosted HP"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Health Boosters",
-            "Immunity Providers",
-            "Snipers",
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2022-11-21",
         "specialId": "relentless_brawler",
@@ -87260,17 +74841,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Missile Mania",
-        "types": [
-            "Hit 1",
-            "Hit Random 2",
-            "Fiend Summoner to Hits"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Fiends Summoners",
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2023-05-18",
         "specialId": "missile_mania",
@@ -87332,17 +74902,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Capsicum Charge",
-        "types": [
-            "Hit 3",
-            "Harvest Buffs 3",
-            "Counterattack 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers",
-            "Buff Stealers",
-            "Counterattackers"
-        ],
         "source": "Challenge - Vigilant Vegetables Summon",
         "Release date": "2025-09-02",
         "specialId": "capsicum_charge",
@@ -87415,16 +74974,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Very Slow",
         "skill": "Cursed Painting",
-        "types": [
-            "Dispeller All",
-            "Hit All",
-            "Cursed Paintings Debuff All"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "AoE Attackers (Hit-5)",
-            "Status Effects Blockers"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2024-07-17",
         "specialId": "cursed_painting",
@@ -87489,20 +75038,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Battle Boast",
-        "types": [
-            "Hit 1",
-            "Healer All",
-            "Mana Boost All",
-            "Attack Stack All"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Healers",
-            "Mana Raisers",
-            "Buffers (ATK)",
-            "Bypassers",
-            "Stacking Heroes"
-        ],
         "source": "Challenge - Beowulf",
         "Release date": "2025-02-13",
         "specialId": "battle_boast",
@@ -87566,21 +75101,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Righteous Pulverizer",
-        "types": [
-            "Hit 3",
-            "Hit Growth Boon",
-            "Max Health Reduction 3",
-            "Blind 3"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "Max Health Reducers",
-            "Minions Counters",
-            "Bypassers",
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)",
-            "Ability Scores Modifiers"
-        ],
         "source": "Temple Summon",
         "Release date": "2025-06-16",
         "specialId": "righteous_pulverizer",
@@ -87650,12 +75170,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Spiked Bat Thrashing",
-        "types": [
-            "Hit 1",
-            "Lasting DoT 1",
-            "Attack Buff Self"
-        ],
-        "skill_types": [],
         "source": "Challenge - Vigilant Vegetables Summon",
         "Release date": "2026-04-25",
         "specialId": "spiked_bat_thrashing",
@@ -87710,16 +75224,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Pirate's Vengeance",
-        "types": [
-            "Hit All",
-            "Fiend Summoner All",
-            "Attack Debuff Fiend"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Fiends Summoners"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2023-12-28",
         "specialId": "pirates_vengeance",
@@ -87782,16 +75286,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Just a Flesh Wound",
-        "types": [
-            "Drop Damage to 1 Buff Self",
-            "Taunt",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Damage Reducers",
-            "Taunters"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "just_a_flesh_wound",
@@ -87841,16 +75335,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "But a Scratch",
-        "types": [
-            "Drop Damage to 1 Buff Self",
-            "Taunt",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Damage Reducers",
-            "Taunters"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2022-06-16",
         "specialId": "but_a_scratch",
@@ -87902,17 +75386,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Songs of the Cherry Tree",
-        "types": [
-            "Healer All",
-            "Dispeller All",
-            "Extra Heal on each dispel"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Healers (Special)",
-            "Healers",
-            "Health Boosters"
-        ],
         "source": "Covenant Summon",
         "Release date": "2023-08-24",
         "specialId": "songs_of_the_cherry_tree",
@@ -87974,17 +75447,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Fury of the Silverback",
-        "types": [
-            "Hit 1",
-            "Attack Buff Stack Self"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Snipers",
-            "Stacking Heroes",
-            "Extra Damage Dealers",
-            "DoT Attackers"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2023-03-03",
         "specialId": "fury_of_the_silverback",
@@ -88043,19 +75505,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Infernal Flames",
-        "types": [
-            "Hit All",
-            "Fiend Summoner All",
-            "Elemental Defense Debuff Fiend",
-            "Elemental Defense Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (DEF)",
-            "Debuffers (DEF)",
-            "Fiends Summoners",
-            "DoT Attackers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2023-07-27",
         "specialId": "infernal_flames",
@@ -88129,13 +75578,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Pirate Shot",
-        "types": [
-            "Hit 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "pirate_shot",
@@ -88187,13 +75629,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Captain's Cutlass",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Extra Damage Dealers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-08-12",
         "specialId": "captains_cutlass",
@@ -88249,14 +75684,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Machinist's Cutlass",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Extra Damage Dealers",
-            "Buffers (ATK)"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2023-12-07",
         "specialId": "machinists_cutlass",
@@ -88317,17 +75744,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Web of Spies",
-        "types": [
-            "Hit All",
-            "Fiend Summoner All",
-            "Buff Stealing Fiend"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buff Stealers",
-            "Fiends Summoners",
-            "DoT Attackers"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2023-09-20",
         "specialId": "web_of_spies",
@@ -88386,16 +75802,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Master of Ailments",
-        "types": [
-            "Spread Debuffs 2",
-            "Debuff Duration Reset 3",
-            "Hit 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Effect Duration Resetters",
-            "Cleansers"
-        ],
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-09-14",
         "specialId": "master_of_ailments",
@@ -88453,13 +75859,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Astral Madness Unleashed",
-        "types": [
-            "Hit 1",
-            "Chance to Hit random 4",
-            "Resonance Damage on hit",
-            "Steal Mana on hit"
-        ],
-        "skill_types": [],
         "source": "Astral Summon",
         "Release date": "2026-04-05",
         "specialId": "astral_madness_unleashed",
@@ -88500,7 +75899,25 @@ window.allHeroes =
             "health": 2821,
             "power": 1579
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Atk - Extra Attack",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Steal"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Resonance"
+                ]
+            }
+        ]
     },
     {
         "name": "Catalina",
@@ -88510,17 +75927,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Regal Claws",
-        "types": [
-            "Hit 1",
-            "Attack Buff 4",
-            "Critical chance Buff 4",
-            "Heal on damage dealt Buff 4"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Buffers (ATK)",
-            "Healers (Special)"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2025-12-30",
         "specialId": "regal_claws",
@@ -88589,20 +75995,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Spell-lock",
-        "types": [
-            "Hit 1",
-            "Random Hit",
-            "Silence Hit Enemies",
-            "Wither All"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Chain & Random Attackers",
-            "Silencers",
-            "Ability Scores Modifiers",
-            "Minions Counters",
-            "Bypassers"
-        ],
         "source": "Astral Summon",
         "Release date": "2025-04-21",
         "specialId": "spell_lock",
@@ -88667,21 +76059,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Ballad of Condemnation",
-        "types": [
-            "Hit 3",
-            "Dance Ballad of Condemnation 3",
-            "Mana Generation Debuff  while dancing",
-            "Healing Debuff  while dancing",
-            "Buff Immunity while dancing"
-        ],
-        "skill_types": [
-            "Dancers",
-            "AoE Attackers (Hit-3)",
-            "Mana Reducers or Blockers",
-            "Healing Reducers",
-            "Immunity Providers",
-            "Buff Blockers"
-        ],
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-09-19",
         "specialId": "ballad_of_condemnation",
@@ -88750,18 +76127,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Perfume Cloud",
-        "types": [
-            "Hit 3",
-            "Devouring Goo 3",
-            "Paralyze 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Sleepweavers",
-            "Dispellers",
-            "Ability Scores Modifiers"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-01-01",
         "specialId": "perfume_cloud",
@@ -88822,16 +76187,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Sling-ja Attack",
-        "types": [
-            "Hit 3",
-            "Blind 3",
-            "Sticky Surface Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)",
-            "Buff Stealers"
-        ],
         "source": "Super Elementals",
         "Release date": "2026-01-31",
         "specialId": "slingja_attack_chingiriko",
@@ -88896,16 +76251,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Slice and Dice",
-        "types": [
-            "Hit 3",
-            "Healer All",
-            "DoT 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Healers (Special)"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "slice_and_dice",
@@ -88966,20 +76311,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Prosperity for Domain",
-        "types": [
-            "Healer All",
-            "Boost Health All on Allies SS",
-            "Mana Generation Buff All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Health Boosters",
-            "Mana Generation Buffers",
-            "Cleansers",
-            "Dodgers",
-            "Minions Counters"
-        ],
         "source": "Alliance - Moths",
         "Release date": "2025-01-23",
         "specialId": "prosperity_for_domain",
@@ -89039,19 +76370,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Fairy Godmother's Blessing",
-        "types": [
-            "Cleanser All",
-            "Allies Damage Share",
-            "Enemies Damage Share",
-            "Defense Buff All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Cleansers",
-            "Damage Sharers",
-            "Debuffers (DEF)"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2024-02-22",
         "specialId": "fairy_godmothers_blessing",
@@ -89112,17 +76430,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Bone Ritual",
-        "types": [
-            "Hit All",
-            "Fiend Summoner All",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "DoT Attackers",
-            "Fiends Summoners"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2022-08-25",
         "specialId": "bone_ritual",
@@ -89187,16 +76494,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Mystery Potions",
-        "types": [
-            "Mana reduction All",
-            "Summoner All",
-            "Bomb Debuff All"
-        ],
-        "skill_types": [
-            "Mana Reducers or Blockers",
-            "Minions Summoners",
-            "AoE Attackers (Hit-3)"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2023-12-01",
         "specialId": "mystery_potions",
@@ -89251,15 +76548,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Love Conquers All",
-        "types": [
-            "Hit 3",
-            "Mindless Heal 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Healers (Special)",
-            "Mindless Attack & Mindless Heal"
-        ],
         "source": "Monthly Event - Love Season",
         "Release date": "2023-02-14",
         "specialId": "love_conquers_all",
@@ -89316,16 +76604,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Passion Conquers All",
-        "types": [
-            "Hit 3",
-            "Elemental Defense Debuff 3",
-            "Mindless Heal 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Mindless Attack & Mindless Heal"
-        ],
         "source": "Monthly Event - Love Season",
         "Release date": "2026-01-19",
         "specialId": "passion_conquers_all",
@@ -89386,16 +76664,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Flaming Rapier",
-        "types": [
-            "Hit 1",
-            "Spreading Dot 1",
-            "HoT Self"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Snipers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2022-12-14",
         "specialId": "flaming_rapier",
@@ -89458,17 +76726,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Sweep the Soot",
-        "types": [
-            "Hit 1",
-            "Spreading DoT 1",
-            "Boosted Heal Self"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Snipers",
-            "Heal over Time (HoT)",
-            "Health Boosters"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2026-02-20",
         "specialId": "sweep_the_soot",
@@ -89535,18 +76792,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Very Fast",
         "skill": "Blood Petals",
-        "types": [
-            "Dispeller 1",
-            "Talent Silence 1",
-            "Hit 1",
-            "Block Status Effects Cast 1"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Silencers",
-            "Snipers",
-            "Status Effects Blockers"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2024-01-10",
         "specialId": "blood_petals_of_the_withered",
@@ -89610,20 +76855,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Drawn to the Depths",
-        "types": [
-            "Hit 3",
-            "Insanity 3",
-            "DoT 3",
-            "Heal All on DoT",
-            "Self Insanity"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Minions Counters",
-            "Mindless Attack & Mindless Heal",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2025-09-23",
         "specialId": "drawn_to_the_depths",
@@ -89693,18 +76924,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Spotting Trouble",
-        "types": [
-            "Hit 3",
-            "Defense Debuff 3",
-            "Sword Guard Mega Minion",
-            "Spreading DoT Minion"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Mega Minions Summoners",
-            "DoT Attackers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2024-09-29",
         "specialId": "spotting_trouble",
@@ -89771,18 +76990,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Changing Tides",
         "skill": "Supernova",
-        "types": [
-            "Hit 3",
-            "Corrosive Burn DoT 3",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Minions Counters"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-12-13",
         "specialId": "supernova",
@@ -89847,18 +77054,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Changing Tides",
         "skill": "Sunken Abyss",
-        "types": [
-            "Hit 3",
-            "Corrosive Burn DoT 3",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Debuffers (DEF)",
-            "Extra Damage Dealers",
-            "Minions Counters"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-12-14",
         "specialId": "sunken_abyss",
@@ -89928,17 +77123,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Dual Laser Blades",
-        "types": [
-            "Hit 1",
-            "Hit All Nature",
-            "DoT 1",
-            "DoT All Nature"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Snipers",
-            "Chain & Random Attackers"
-        ],
         "source": "Super Elementals",
         "Release date": "2023-03-27",
         "specialId": "dual_laser_blades",
@@ -90000,19 +77184,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Dual Data Blades",
-        "types": [
-            "Hit 1",
-            "Hit All Nature",
-            "DoT 1",
-            "DoT All Nature",
-            "Attack Buff to Fire allies"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Snipers",
-            "Chain & Random Attackers",
-            "Buffers (ATK)"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-09-04",
         "specialId": "dual_data_blades",
@@ -90085,14 +77256,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Roasting Rooster",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Heal All on DoT",
-            "Healing Debuff 3",
-            "Elemental Defense Debuff Self"
-        ],
-        "skill_types": [],
         "source": "Monthly Event - Springvale",
         "Release date": "2026-03-30",
         "specialId": "roasting_rooster",
@@ -90129,7 +77292,22 @@ window.allHeroes =
             "health": 2837,
             "power": 1566
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT",
+                    "Heal: From Dmg"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn",
+                    "Heal - Healing ↓",
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Dunnar Hart",
@@ -90139,24 +77317,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Infernal Drumstorm",
-        "types": [
-            "Hit All",
-            "DoT All",
-            "Defense Debuff All",
-            "Self Boosted HoT",
-            "Self Mana Generation Buff"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Heal over Time (HoT)",
-            "Mana Generation Buffers",
-            "Debuffers (DEF)",
-            "Health Boosters",
-            "Resurrection Inhibitors",
-            "Extra Damage Dealers",
-            "Minions Counters"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2025-06-15",
         "specialId": "infernal_drumstorm",
@@ -90226,19 +77386,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Flail Swing",
-        "types": [
-            "Hit 1",
-            "Chain Hit",
-            "Block Status Effects Cast on Hit",
-            "Attack Debuff on Hit"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Debuffers (ATK)",
-            "DoT Attackers",
-            "Snipers",
-            "Status Effects Blockers"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2022-10-15",
         "specialId": "flail_swing",
@@ -90300,16 +77447,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Very Fast",
         "skill": "Fists of Atonement",
-        "types": [
-            "Hit 3",
-            "Defense Debuff Stack 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Stacking Heroes",
-            "Debuffers (DEF)",
-            "Damage Reducers"
-        ],
         "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "specialId": "fists_of_atonement",
@@ -90365,16 +77502,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Vanguard of Passion",
-        "types": [
-            "Hit 3",
-            "HoT 3",
-            "Counterattack 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Counterattackers",
-            "Healers"
-        ],
         "source": "Monthly Event - Love Season",
         "Release date": "2024-01-08",
         "specialId": "vanguard_of_passion",
@@ -90432,14 +77559,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Wall of Swords",
-        "types": [
-            "Hit All",
-            "Counterattack 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Counterattackers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "wall_of_swords",
@@ -90491,14 +77610,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Slow",
         "skill": "Sword Barricade",
-        "types": [
-            "Hit All",
-            "Counterattack 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Counterattackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "sword_barricade",
@@ -90552,14 +77663,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Dreaded Swords",
-        "types": [
-            "Hit All",
-            "Counterattack 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Counterattackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-08-07",
         "specialId": "dreaded_swords",
@@ -90613,15 +77716,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Wall of Toons",
-        "types": [
-            "Hit All",
-            "Counterattack 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Counterattackers",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-05-31",
         "specialId": "adorable_swords",
@@ -90685,16 +77779,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Wall of Glass",
-        "types": [
-            "Hit All",
-            "Bypass",
-            "Counterattack 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Bypassers",
-            "Counterattackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-07-16",
         "specialId": "glass_swords",
@@ -90758,17 +77842,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Flame Surge",
-        "types": [
-            "Hit All",
-            "DoT All",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Dispellers",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-03-01",
         "specialId": "flame_surge",
@@ -90834,17 +77907,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Widow's Kiss",
-        "types": [
-            "Hit All",
-            "Fiend Summoner All",
-            "Mana Generation Debuff Fiend"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Fiends Summoners",
-            "Mana Reducers or Blockers",
-            "DoT Attackers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "widows_kiss",
@@ -90907,19 +77969,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Bride's Kiss",
-        "types": [
-            "Hit All",
-            "Fiend Summoner All",
-            "Mana Generation Debuff Fiend"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Fiends Summoners",
-            "DoT Attackers",
-            "Mana Reducers or Blockers",
-            "Extra Damage Dealers",
-            "Buffers (ATK)"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2023-04-27",
         "specialId": "brides_kiss",
@@ -90987,16 +78036,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Precious Pets",
-        "types": [
-            "Hit 3",
-            "Immunity SS usage All",
-            "Summons Sanguine Bat Minion 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Immunity Providers",
-            "Minions Summoners"
-        ],
         "source": "Monthly Event - The Sanguine Feast",
         "Release date": "2025-10-08",
         "specialId": "precious_pets",
@@ -91059,19 +78098,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Firewall",
-        "types": [
-            "Hit All",
-            "Summoner"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Minions Summoners",
-            "Debuffers (DEF)",
-            "Healing Reducers",
-            "Extra Damage Dealers",
-            "Minions Counters"
-        ],
         "source": "Covenant Summon",
         "Release date": "2025-05-08",
         "specialId": "firewall",
@@ -91135,17 +78161,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Blazing Matchstick",
-        "types": [
-            "Hit 3",
-            "Wild DoT 3",
-            "Mana Generation Buff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Mana Generation Buffers"
-        ],
         "source": "Birthday Summon",
         "Release date": "2026-03-18",
         "specialId": "blazing_matchstick",
@@ -91215,21 +78230,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Savage Gobble",
-        "types": [
-            "Hit 1",
-            "Spreading Dot 1",
-            "Mimic Chest"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Minions Counters",
-            "Snipers",
-            "Mana Raisers",
-            "Immunity Providers",
-            "Ghost Form & Hiding",
-            "Bypassers",
-            "DoT Attackers"
-        ],
         "source": "Bazaar Summon",
         "Release date": "2025-09-18",
         "specialId": "savage_gobble_red",
@@ -91309,17 +78309,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Very Fast",
         "skill": "Flames and Rejuvenation",
-        "types": [
-            "Gamble",
-            "DoT All",
-            "HoT All",
-            "Status Ailments Immunity All"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Heal over Time (HoT)",
-            "Immunity Providers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "flames_and_rejuvenation",
@@ -91388,17 +78377,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Very Fast",
         "skill": "Frogs and Hoop",
-        "types": [
-            "Gamble",
-            "DoT All",
-            "HoT All",
-            "Status Ailments Immunity All"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Heal over Time (HoT)",
-            "Immunity Providers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2025-04-09",
         "specialId": "frogs_and_hoop",
@@ -91473,17 +78451,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Styx",
         "skill": "Dark Orb",
-        "types": [
-            "Charge",
-            "Destroys Minions 1",
-            "Hit 1",
-            "Summoner Block 1",
-            "Damage on each attempted summon"
-        ],
-        "skill_types": [
-            "Minions Counters",
-            "Snipers"
-        ],
         "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "specialId": "dark_orb",
@@ -91556,16 +78523,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Song of Hoot and Holler",
-        "types": [
-            "Hit 1",
-            "Mindless Attack",
-            "Defense debuff"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Mindless Attack & Mindless Heal",
-            "Debuffers (DEF)"
-        ],
         "source": "Tower - Owls",
         "Release date": "2024-05-08",
         "specialId": "song_of_hoot_and_holler",
@@ -91628,12 +78585,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Greedy Devour",
-        "types": [
-            "Minion Destroyer 1",
-            "Hit 1",
-            "Mimic Chest"
-        ],
-        "skill_types": [],
         "source": "Bazaar Summon",
         "Release date": "2025-04-22",
         "specialId": "mimic_training_hero_red_bite",
@@ -91709,21 +78660,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Self-preservation",
-        "types": [
-            "Safely Clean Self",
-            "Frostfall Strike 1",
-            "Mana Generation Stack All",
-            "Defense Buff Stack All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Snipers",
-            "DoT Attackers",
-            "Debuffers (ATK)",
-            "Stacking Heroes",
-            "Mana Generation Buffers",
-            "Buffers (DEF)"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-07-11",
         "specialId": "self_preservation",
@@ -91797,16 +78733,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Very Fast",
         "skill": "Calling the Bluff",
-        "types": [
-            "Hit 1",
-            "Sword Guard Mega Minion",
-            "Spreading DoT Minion"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Mega Minions Summoners",
-            "DoT Attackers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2025-04-11",
         "specialId": "calling_the_bluff",
@@ -91871,16 +78797,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "To the Rescue!",
-        "types": [
-            "Healer",
-            "Bypass Buff All",
-            "Crit Chance Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Bypassers",
-            "Healers"
-        ],
         "source": "Monthly Event - Beach Party",
         "Release date": "2023-06-12",
         "specialId": "to_the_rescue",
@@ -91944,16 +78860,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Donut to the Rescue!",
-        "types": [
-            "Healer",
-            "Bypass All",
-            "Crit Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Bypassers",
-            "Healers"
-        ],
         "source": "Monthly Event - Beach Party",
         "Release date": "2025-06-03",
         "specialId": "donut_to_the_rescue",
@@ -92019,12 +78925,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Wicked Lick",
-        "types": [
-            "Hit 3",
-            "Healer All on damage dealt",
-            "Mimic Chest"
-        ],
-        "skill_types": [],
         "source": "Bazaar Summon",
         "Release date": "2026-05-10",
         "specialId": "wicked_lick_red",
@@ -92085,17 +78985,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Royal Assault",
-        "types": [
-            "Hit 3",
-            "Mana Reducer 3 each turn",
-            "Healing Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers",
-            "Healing Reducers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "specialId": "royal_assault",
@@ -92158,19 +79047,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Triple Stab",
-        "types": [
-            "Hit 1",
-            "DoT 1",
-            "Hit 2",
-            "Deep Sleep 2"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Sleepweavers",
-            "Minions Counters",
-            "Dodgers"
-        ],
         "source": "Alliance - Moths",
         "Release date": "2025-09-11",
         "specialId": "triple_stab",
@@ -92231,15 +79107,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Charge",
         "skill": "Awaken Ki",
-        "types": [
-            "Charge",
-            "Health Boost All",
-            "Status Ailment Immunity Buff All"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Immunity Providers"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "specialId": "awaken_ki",
@@ -92298,14 +79165,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Maiden's Command",
-        "types": [
-            "Steals Minions 1",
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Minions Counters",
-            "Snipers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2020-10-22",
         "specialId": "maidens_command",
@@ -92357,14 +79216,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Maiden's Orders",
-        "types": [
-            "Destroys Mega/Minions 1",
-            "Hit 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Minions Counters"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2022-09-26",
         "specialId": "maidens_orders",
@@ -92418,16 +79269,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Changing Tides",
         "skill": "Underwater Magma Cube",
-        "types": [
-            "Hit Random 3/5",
-            "Exploding Magma Cube on hit",
-            "Defense Debuff on hit"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Debuffers (DEF)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-09-27",
         "specialId": "underwater_magma_cube",
@@ -92502,16 +79343,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Changing Tides",
         "skill": "Sunken Magma Cube",
-        "types": [
-            "Hit Random 3/5",
-            "Magma Cube on hit",
-            "Defense Debuff on hit"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Debuffers (DEF)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-06-20",
         "specialId": "sunken_magma_cube",
@@ -92591,17 +79422,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Alchemy Experiment",
-        "types": [
-            "Hit All",
-            "Provoked All Enemies",
-            "Sticky Surface Buff All",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Buff Stealers",
-            "Buffers (DEF)",
-            "Status Effects Blockers"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-05-04",
         "specialId": "alchemy_experiment",
@@ -92664,17 +79484,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Very Fast",
         "skill": "Ashes to Ashes",
-        "types": [
-            "Hit 3",
-            "DoT 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Buffers (ATK)",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-06-01",
         "specialId": "ashes_to_ashes",
@@ -92734,17 +79543,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Very Fast",
         "skill": "Dust to Dust",
-        "types": [
-            "Hit All",
-            "DoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Dispellers",
-            "Buffers (ATK)",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-10-20",
         "specialId": "dust_to_dust",
@@ -92809,15 +79607,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Very Fast",
         "skill": "Mending Mantra",
-        "types": [
-            "Healer All",
-            "Status Ailment Immunity All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Immunity Providers",
-            "Mana Generation Buffers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-09-01",
         "specialId": "mending_mantra",
@@ -92874,16 +79663,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Lord of the Jungle",
-        "types": [
-            "Hit All",
-            "Elemental Defense Buff All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (DEF)",
-            "Cleansers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "lord_of_the_jungle",
@@ -92941,17 +79720,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Kong Smash",
-        "types": [
-            "Hit All",
-            "Elemental Reflect All",
-            "Elemental Counterattack All",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Dispellers",
-            "Reflectors"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2022-04-14",
         "specialId": "kong_smash",
@@ -93007,19 +79775,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Reflecting Stance",
-        "types": [
-            "Taunt",
-            "Self Mana Generation Buff",
-            "Softskin 4",
-            "Delayed Healer All"
-        ],
-        "skill_types": [
-            "Taunters",
-            "Mana Generation Buffers",
-            "Damage Reducers",
-            "Immunity Providers",
-            "Healers"
-        ],
         "source": "Challenge - Gargoyle",
         "Release date": "2024-07-25",
         "specialId": "reflecting_stance",
@@ -93078,18 +79833,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Celestial Anvil",
-        "types": [
-            "Hit All",
-            "Damage Increased Debuff All",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Debuffers (ATK)",
-            "Bypassers",
-            "Damage Sharers"
-        ],
         "source": "Astral Summon",
         "Release date": "2024-03-28",
         "specialId": "celestial_anvil",
@@ -93155,14 +79898,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Motherly Care",
-        "types": [
-            "Health Boost All",
-            "Status Ailment Immunity All"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Immunity Providers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-12-22",
         "specialId": "motherly_care",
@@ -93220,16 +79955,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Motherly Love",
-        "types": [
-            "Boosted HoT All",
-            "Status Ailment Immunity All"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Immunity Providers",
-            "Heal over Time (HoT)",
-            "Mana Raisers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2024-02-05",
         "specialId": "motherly_love",
@@ -93295,17 +80020,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Possessor of Penance",
-        "types": [
-            "Hit 1",
-            "Fiend Summoner 1",
-            "Exploding Mindless Attack Fiend"
-        ],
-        "skill_types": [
-            "Fiends Summoners",
-            "Mindless Attack & Mindless Heal",
-            "Snipers",
-            "Damage Reducers"
-        ],
         "source": "Challenge - Gargoyle",
         "Release date": "2022-09-08",
         "specialId": "possessor_of_penance",
@@ -93369,17 +80083,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Ardent Panacea",
-        "types": [
-            "Boosted HoT All",
-            "Mana over time All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Heal over Time (HoT)",
-            "Health Boosters",
-            "Mana Raisers",
-            "Cleansers"
-        ],
         "source": "Monthly Event - Lunar Year",
         "Release date": "2026-02-17",
         "specialId": "ardent_panacea",
@@ -93442,15 +80145,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Bulwark Charge",
-        "types": [
-            "Hit 3",
-            "Knocks Down 3",
-            "Attack Buff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buffers (ATK)"
-        ],
         "source": "Covenant Summon",
         "Release date": "2024-01-16",
         "specialId": "bulwark_charge",
@@ -93516,17 +80210,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Styx",
         "skill": "Sweet Dreams",
-        "types": [
-            "Charge",
-            "Hit All",
-            "Buff Immunity All",
-            "Dispeler All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buff Blockers",
-            "Dispellers"
-        ],
         "source": "Tower - Styx",
         "Release date": "2022-06-01",
         "specialId": "sweet_dreams",
@@ -93599,17 +80282,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Ring Around the Rosie",
-        "types": [
-            "Hit 1",
-            "Damage Link 1",
-            "Damage Increase Stack All"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "Snipers",
-            "Stacking Heroes",
-            "Damage Sharers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2025-04-29",
         "specialId": "ring_around_the_rosie",
@@ -93673,17 +80345,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Purifying Flame",
-        "types": [
-            "Heal All",
-            "Attack Buff All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Cleansers",
-            "Healers",
-            "Healers (Special)"
-        ],
         "source": "Super Elementals",
         "Release date": "2023-03-27",
         "specialId": "purifying_flame",
@@ -93751,18 +80412,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Cauterizing Flame",
-        "types": [
-            "Heal All",
-            "Elemental Heal Red",
-            "Attack Buff All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Cleansers",
-            "Healers",
-            "Healers (Special)"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-05-24",
         "specialId": "cauterizing_flame",
@@ -93835,16 +80484,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Forged in Fire",
-        "types": [
-            "Mana Reduction All",
-            "Enemy Damage Share",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "Damage Sharers",
-            "Mana Reducers or Blockers",
-            "Debuffers (DEF)"
-        ],
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "forged_in_fire",
@@ -93906,16 +80545,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Forged from Gold",
-        "types": [
-            "Mana Reduction All",
-            "Enemy Damage Share",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "Healing Reducers",
-            "Damage Sharers",
-            "Debuffers (DEF)"
-        ],
         "source": "Monthly Event - Kalevala",
         "Release date": "2025-07-28",
         "specialId": "forged_from_gold",
@@ -93979,17 +80608,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Very Fast",
         "skill": "Aces High",
-        "types": [
-            "Bypass",
-            "Hit 1",
-            "Random Hit 2",
-            "Reduce Buff Duration on hit"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Chain & Random Attackers",
-            "Effect Duration Resetters"
-        ],
         "source": "Goblin Summon",
         "Release date": "2024-07-07",
         "specialId": "aces_high",
@@ -94049,18 +80667,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Flurry of Blows",
-        "types": [
-            "Enhanced Defense Ailment All",
-            "Delayed Healing Debuff 1",
-            "Hit 1",
-            "Hit 9 random"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "Silencers",
-            "Chain & Random Attackers",
-            "Minions Counters"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2024-12-31",
         "specialId": "flurry_of_blows",
@@ -94122,16 +80728,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Vengeful Scythe",
-        "types": [
-            "Hit 3",
-            "Counterattack 3",
-            "Mana on Counterattack"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Counterattackers",
-            "Mana Raisers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "vengeful_scythe",
@@ -94185,17 +80781,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Seal of Fire",
-        "types": [
-            "DoT All",
-            "Elemental SS Defense All",
-            "Defense Status Ailments Protection Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Buffers (DEF)",
-            "DoT Attackers",
-            "Immunity Providers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-02-01",
         "specialId": "seal_of_fire",
@@ -94260,20 +80845,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Magmatic Burns",
-        "types": [
-            "Hit All",
-            "Debuff Duration Reset All",
-            "DoT All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Effect Duration Resetters",
-            "DoT Attackers",
-            "Debuffers (DEF)",
-            "Minions Counters",
-            "Status Effect Conversion"
-        ],
         "source": "Tower - Magic",
         "Release date": "2025-12-27",
         "specialId": "magmatic_burns",
@@ -94349,21 +80920,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Fiery Performance",
-        "types": [
-            "Healer All",
-            "Heal Growth Boon",
-            "Ailments Immunity Buff All",
-            "Heal on attempted ailment",
-            "Board Alterer"
-        ],
-        "skill_types": [
-            "Healers",
-            "Healers (Special)",
-            "Immunity Providers",
-            "Board Alterers",
-            "Minions Counters",
-            "Stacking Heroes"
-        ],
         "source": "Temple Summon",
         "Release date": "2026-01-01",
         "specialId": "fiery_performance",
@@ -94431,16 +80987,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Slow",
         "skill": "Khan's Order",
-        "types": [
-            "Hit 3",
-            "Mana Generation Buff 3",
-            "Defense Buff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buffers (DEF)",
-            "Mana Generation Buffers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "khans_order",
@@ -94494,16 +81040,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Conqueror's Command",
-        "types": [
-            "Hit 1",
-            "Mana Generation Buff All",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Mana Generation Buffers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "conquerors_command",
@@ -94559,16 +81095,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Chieftain's Vengeance",
-        "types": [
-            "Hit All",
-            "MoT Buff All",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Raisers",
-            "Buffers (DEF)"
-        ],
         "source": "Costume Quest",
         "Release date": "2022-09-05",
         "specialId": "chieftains_vengeance",
@@ -94624,17 +81150,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Slow",
         "skill": "The Toon's Order",
-        "types": [
-            "Hit 3",
-            "Mana Generation Buff 3",
-            "Defense Buff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Mana Generation Buffers",
-            "Buffers (DEF)",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-04-08",
         "specialId": "toons_order",
@@ -94700,18 +81215,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Slow",
         "skill": "Vitrail's Order",
-        "types": [
-            "Hit All",
-            "Bypass",
-            "Mana Generation Buff 3",
-            "Defense Buff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buffers (DEF)",
-            "Bypassers",
-            "Mana Generation Buffers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-06-18",
         "specialId": "glass_order",
@@ -94777,16 +81280,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Perplexing Riddle",
-        "types": [
-            "Hit 1",
-            "Chain hit",
-            "Elemental Defense Debuff 1"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Debuffers (DEF)",
-            "Snipers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "perplexing_riddle",
@@ -94846,15 +81339,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Slow",
         "skill": "Underwater Riddle",
-        "types": [
-            "Hit 1",
-            "Chain hit",
-            "Elemental Defense Debuff 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Chain & Random Attackers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2024-11-01",
         "specialId": "underwater_riddle",
@@ -94921,15 +81405,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Inevitable Demise",
-        "types": [
-            "Revive Block All",
-            "Revive Immunity All",
-            "Hit 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Resurrection Inhibitors"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2022-02-24",
         "specialId": "inevitable_demise",
@@ -94986,15 +81461,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Delicious Demise",
-        "types": [
-            "Revive Block All",
-            "Revive Immunity All",
-            "Hit 3"
-        ],
-        "skill_types": [
-            "Resurrection Inhibitors",
-            "AoE Attackers (Hit-3)"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2024-09-26",
         "specialId": "delicious_demise",
@@ -95056,15 +81522,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Trickster's Malice",
-        "types": [
-            "Lifts Ailments All",
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Cleansers",
-            "Extra Damage Dealers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2020-07-23",
         "specialId": "tricksters_malice",
@@ -95118,15 +81575,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Trickster's Lullaby",
-        "types": [
-            "Lifts Ailments All",
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Cleansers",
-            "Extra Damage Dealers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2023-10-23",
         "specialId": "tricksters_lullaby",
@@ -95182,15 +81630,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Changing Tides",
         "skill": "Flanking Maneuver",
-        "types": [
-            "Hit 1",
-            "Replicating Fiend Summoner 1"
-        ],
-        "skill_types": [
-            "Fiends Summoners",
-            "Snipers",
-            "DoT Attackers"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "specialId": "flanking_maneuver",
@@ -95257,15 +81696,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Changing Tides",
         "skill": "Champion Maneuver",
-        "types": [
-            "Hit 1",
-            "Replicating Fiend Summoner 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Fiends Summoners",
-            "DoT Attackers"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-09-21",
         "specialId": "champion_maneuver",
@@ -95337,15 +81767,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Impeding Bolts",
-        "types": [
-            "Talent Activation Block All",
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Silencers",
-            "Status Effects Blockers"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2022-01-05",
         "specialId": "impeding_bolts",
@@ -95397,19 +81818,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Whirlwind Blows",
-        "types": [
-            "Chance of Critical hits",
-            "Hit 1",
-            "Random Hit 4",
-            "Taunt",
-            "Damage Reduction Self"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Damage Reducers",
-            "Taunters",
-            "Extra Damage Dealers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2025-05-22",
         "specialId": "whirlwind_blows",
@@ -95476,17 +81884,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Very Fast",
         "skill": "Battle Claw Strike",
-        "types": [
-            "Hit 1",
-            "Mana Gain Freeze nearby on kill",
-            "Counterattack All"
-        ],
-        "skill_types": [
-            "Counterattackers",
-            "Extra Damage Dealers",
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "Tower - Owls",
         "Release date": "2024-02-14",
         "specialId": "battleclaw_strike",
@@ -95555,17 +81952,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Monastic Restraint",
-        "types": [
-            "Chance of Critical hits",
-            "Hit All",
-            "Self Power Boost",
-            "Critical Chance Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Buffers (ATK)"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2025-08-30",
         "specialId": "monastic_restraint",
@@ -95635,17 +82021,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Heedless Hammer Flurry",
-        "types": [
-            "Hit 1",
-            "Extra Hit 1 Chance",
-            "Black Boar Mega Minion Self"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Cleanse Blockers",
-            "Mega Minions Summoners",
-            "Snipers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2023-10-16",
         "specialId": "heedless_hammer_flurry",
@@ -95712,22 +82087,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Charge",
         "skill": "Lacerating Leap",
-        "types": [
-            "Charge",
-            "Max Health Reducer 3",
-            "Hit 3",
-            "Bypass",
-            "Resist Healing Debuff 3",
-            "Damage on each Resisted Healing 3"
-        ],
-        "skill_types": [
-            "Max Health Reducers",
-            "AoE Attackers (Hit-3)",
-            "Bypassers",
-            "Snipers",
-            "Healing Reducers",
-            "Minions Counters"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2024-09-24",
         "specialId": "lacerating_leap",
@@ -95801,14 +82160,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Autumnal Wind",
-        "types": [
-            "Hit Random 3",
-            "Dodge Buff All"
-        ],
-        "skill_types": [
-            "Dodgers",
-            "Chain & Random Attackers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-08-01",
         "specialId": "autumnal_wind",
@@ -95868,14 +82219,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Magma Smash",
-        "types": [
-            "Hit 1",
-            "DoT 1"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "magma_smash",
@@ -95928,16 +82271,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Lava Blast",
-        "types": [
-            "Hit 3",
-            "Elemental Defense Debuff 3",
-            "Attack Debuff All Ice"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Debuffers (ATK)"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "lava_blast",
@@ -95993,16 +82326,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Volcanic Blast",
-        "types": [
-            "Hit 3",
-            "Defense Debuff 3",
-            "DoT 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "DoT Attackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-06-12",
         "specialId": "volcanic_blast",
@@ -96059,15 +82382,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Toontastic Smash",
-        "types": [
-            "Hit 1",
-            "Dot 1"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-12-25",
         "specialId": "toontastic_smash",
@@ -96132,16 +82446,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Glass Flame Smash",
-        "types": [
-            "Hit 1",
-            "Bypass",
-            "DoT 1"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "DoT Attackers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-02-11",
         "specialId": "glass_flame_smash",
@@ -96206,15 +82510,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Stylish Smash",
-        "types": [
-            "Hit 1",
-            "DoT 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Extra Damage Dealers",
-            "DoT Attackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2026-02-14",
         "specialId": "stylish_smash",
@@ -96279,17 +82574,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Mirror of Flames",
-        "types": [
-            "Hit 3",
-            "Mana Reduction 3",
-            "Elemental Reflect All",
-            "Elemental Counterattack All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Mana Reducers or Blockers",
-            "Reflectors"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "dark_mirror",
@@ -96347,17 +82631,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Glaive of Flames",
-        "types": [
-            "Hit All",
-            "Mana Generation Debuff 3",
-            "Elemental Reflect All",
-            "Elemental Counterattack All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Reflectors",
-            "Mana Reducers or Blockers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2023-03-06",
         "specialId": "glaive_of_flames",
@@ -96417,13 +82690,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Toon Mirror",
-        "types": [
-            "Hit 3",
-            "Mana Reduction 3",
-            "Elemental Reflect All",
-            "Elemental Counterattack All"
-        ],
-        "skill_types": [],
         "source": "S2 - Atlantis",
         "Release date": "2026-04-29",
         "specialId": "toon_mirror",
@@ -96472,21 +82738,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Magic",
         "skill": "Flame of the Dragon Familiar",
-        "types": [
-            "Charge",
-            "DoT 3",
-            "Self resurrection",
-            "Reviver",
-            "HoT All",
-            "Damage Reduction All"
-        ],
-        "skill_types": [
-            "Damage Reducers",
-            "DoT Attackers",
-            "Heal over Time (HoT)",
-            "Revivers",
-            "Healers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "flame_of_the_dragon_familiar",
@@ -96557,23 +82808,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Magic",
         "skill": "Parcel of the Dragon Familiar",
-        "types": [
-            "Charge",
-            "DoT 3",
-            "Self resurrection",
-            "Reviver",
-            "Boosted HoT All",
-            "Damage Reduction All"
-        ],
-        "skill_types": [
-            "Damage Reducers",
-            "DoT Attackers",
-            "Healers (Special)",
-            "Heal over Time (HoT)",
-            "Minions Counters",
-            "Revivers",
-            "Healers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2025-07-05",
         "specialId": "parcel_of_the_dragon_familiar",
@@ -96653,17 +82887,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Countering Hammock",
-        "types": [
-            "Hit 3",
-            "Counterattack 3",
-            "Sand Touch DoT on counterattack 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Counterattackers",
-            "DoT Attackers",
-            "Status Effect Conversion"
-        ],
         "source": "Tower - Magic",
         "Release date": "2025-04-17",
         "specialId": "countering_hammock",
@@ -96741,16 +82964,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Burning Chains",
-        "types": [
-            "DoT 1",
-            "Mana Generation Debuff 1"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Mana Generation Buffers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-01-01",
         "specialId": "burning_chains",
@@ -96810,17 +83023,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Burning Thread",
-        "types": [
-            "Dot 1",
-            "Mana Generation Debuff 1"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Mana Generation Buffers",
-            "Mana Reducers or Blockers",
-            "Dispellers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-05-15",
         "specialId": "burning_thread",
@@ -96886,18 +83088,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Fire Tigers",
-        "types": [
-            "Hit All",
-            "Fiend Summoner All",
-            "Taunt Block Fiend"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Fiends Summoners",
-            "Taunters",
-            "DoT Attackers",
-            "Buffers (ATK)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-11-01",
         "specialId": "fire_tiger",
@@ -96963,17 +83153,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Very Fast",
         "skill": "Paw in Every Pie",
-        "types": [
-            "Healer All",
-            "Steals 1 Buff All",
-            "Lasting HoT All"
-        ],
-        "skill_types": [
-            "Buff Stealers",
-            "Heal over Time (HoT)",
-            "Healers",
-            "Healing Reducers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2025-06-03",
         "specialId": "paw_in_every_pie",
@@ -97031,15 +83210,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Pain Harvest",
-        "types": [
-            "Hit All",
-            "Heal All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Bypassers",
-            "Healers"
-        ],
         "source": "Super Elementals",
         "Release date": "2024-02-26",
         "specialId": "pain_harvest",
@@ -97101,18 +83271,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Charge",
         "skill": "Silent Takedown",
-        "types": [
-            "Charge Hit",
-            "Hit 1/3/All"
-        ],
-        "skill_types": [
-            "Snipers",
-            "AoE Attackers (Hit-3)",
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Mana Generation Buffers",
-            "Minions Counters"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2024-08-27",
         "specialId": "silent_takedown",
@@ -97184,17 +83342,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Sparrow Fury",
-        "types": [
-            "Healer All",
-            "Minion Destroyer Summoner All",
-            ""
-        ],
-        "skill_types": [
-            "Healers",
-            "Minions Counters",
-            "Minions Summoners",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-07-01",
         "specialId": "sparrow_fury",
@@ -97253,15 +83400,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Unstoppable Charge",
-        "types": [
-            "Ignore Dodge",
-            "Bypass",
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Bypassers"
-        ],
         "source": "Legends Summon",
         "Release date": "2024-01-11",
         "specialId": "unstoppable_charge",
@@ -97323,16 +83461,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Strength of the Behemoth",
-        "types": [
-            "Hit All",
-            "Titan Attack Buff All",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (ATK)",
-            "Buffers (DEF)"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2022-06-27",
         "specialId": "strength_of_the_benemoth",
@@ -97386,16 +83514,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Strength of the Volcano",
-        "types": [
-            "Hit All",
-            "Titan Attack Buff All",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (ATK)",
-            "Buffers (DEF)"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2025-10-25",
         "specialId": "strength_of_the_volcano",
@@ -97451,15 +83569,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "The Hallowed Blade",
-        "types": [
-            "Hit All",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Extra Damage Dealers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-10-07",
         "specialId": "hallowed_blade",
@@ -97521,16 +83630,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Bouquet of the Seas",
-        "types": [
-            "Hit All",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Extra Damage Dealers",
-            "Buffers (ATK)"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2023-08-17",
         "specialId": "bouquet_of_the_seas",
@@ -97597,18 +83696,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Ritual of the Deep",
-        "types": [
-            "Hit 1",
-            "Replicating Fiend Summoner 1",
-            "Insanity Inflicting Fiend",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Fiends Summoners",
-            "DoT Attackers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2024-04-21",
         "specialId": "ritual_of_the_deep",
@@ -97674,17 +83761,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Dauntless Bladestorm",
-        "types": [
-            "Hit All",
-            "Dot All",
-            "Healing Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Healing Reducers",
-            "Cleansers"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2022-12-24",
         "specialId": "dauntless_bladestorm",
@@ -97745,18 +83821,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Very Fast",
         "skill": "Mistletoe Medley",
-        "types": [
-            "Hit 1",
-            "Copy buff",
-            "Self Heal on buff copied",
-            "Summoner 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Buff Stealers",
-            "Healers (Special)",
-            "Minions Summoners"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2024-12-01",
         "specialId": "mistletoe_medley",
@@ -97812,18 +83876,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Always on Time",
-        "types": [
-            "Humility",
-            "Hit 1",
-            "Extra Hit Random 1 after enemy SS",
-            "Delayed Heal Self"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Mana Raisers",
-            "Healers (Special)",
-            "Chain & Random Attackers"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2026-03-15",
         "specialId": "always_on_time",
@@ -97892,16 +83944,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Chords of Havoc",
-        "types": [
-            "Hit 3",
-            "Attack Growth 3",
-            "Defense debuff 3"
-        ],
-        "skill_types": [
-            "Ability Scores Modifiers",
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)"
-        ],
         "source": "Goblin Summon",
         "Release date": "2024-01-08",
         "specialId": "chords_of_havoc",
@@ -97970,18 +84012,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Ballad of Restoration",
-        "types": [
-            "Heal All",
-            "Buff Duration Reset All",
-            "Critical Chance Buff All",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Effect Duration Resetters",
-            "Healers",
-            "Resurrection Inhibitors"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2022-08-11",
         "specialId": "ballad_of_restoration",
@@ -98045,19 +84075,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Very Fast",
         "skill": "Planar-time-widget",
-        "types": [
-            "Reposition",
-            "Hit All",
-            "Increase Debuff Duration All",
-            "Mana Generation Debuff All"
-        ],
-        "skill_types": [
-            "Random Position",
-            "AoE Attackers (Hit-5)",
-            "Effect Duration Resetters",
-            "Minions Counters",
-            "Bypassers"
-        ],
         "source": "Astral Summon",
         "Release date": "2025-02-28",
         "specialId": "planar_time_widget",
@@ -98124,17 +84141,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Three Blind Mice",
-        "types": [
-            "Summoner Self",
-            "HoT All",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Heal over Time (HoT)",
-            "Minions Summoners",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "three_blind_mice",
@@ -98193,17 +84199,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Three Bandit Mice",
-        "types": [
-            "Summoner",
-            "HoT All",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Heal over Time (HoT)",
-            "Minions Summoners",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2023-08-10",
         "specialId": "three_bandit_mice",
@@ -98264,18 +84259,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Queen of Cards",
-        "types": [
-            "Hit 3",
-            "Summoner Self",
-            "Taunt Minion",
-            "SS Defense Buff Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buffers (DEF)",
-            "Minions Summoners",
-            "Taunters"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "queen_of_cards",
@@ -98335,18 +84318,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Loving Queen",
-        "types": [
-            "Hit 3",
-            "Summoner Self",
-            "Taunt Minion",
-            "SS Defense Buff Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buffers (DEF)",
-            "Minions Summoners",
-            "Taunters"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2023-10-05",
         "specialId": "loving_queen",
@@ -98412,21 +84383,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Royal Meatball Buffet",
-        "types": [
-            "Cleaser",
-            "Bypass All",
-            "Debuff Resist All",
-            "Attack Stack All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Mana Raisers",
-            "Bypassers",
-            "Immunity Providers",
-            "Buffers (ATK)",
-            "Stacking Heroes",
-            "Revivers"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2025-03-17",
         "specialId": "royal_meatball_buffet",
@@ -98500,17 +84456,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Very Fast",
         "skill": "Cuts of Hulu",
-        "types": [
-            "Hit 2",
-            "Resist Healing Debuff 2",
-            "Damage on each attempted heal",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "Healing Reducers",
-            "Snipers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2024-07-18",
         "specialId": "cuts_of_hulu",
@@ -98569,27 +84514,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Magic",
         "skill": "Blazing Slam Dunk",
-        "types": [
-            "Charge",
-            "DoT All",
-            "Elemental Defense Debuff All",
-            "Dispeller All",
-            "HoT All",
-            "Elemental Attack Buff All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Debuffers (DEF)",
-            "Dispellers",
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Heal over Time (HoT)",
-            "Buffers (ATK)",
-            "Stacking Heroes",
-            "Mana Reducers or Blockers",
-            "Mana Raisers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2023-05-03",
         "specialId": "blazing_slam_dunk",
@@ -98662,28 +84586,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Magic",
         "skill": "Thorned Slam Dunk",
-        "types": [
-            "Charge",
-            "DoT All",
-            "Elemental Defense Debuff All",
-            "Dispeller",
-            "Boosted HoT All",
-            "Elemental Attack Buff All",
-            "Cleanser"
-        ],
-        "skill_types": [
-            "Minions Counters",
-            "DoT Attackers",
-            "Healers (Special)",
-            "Dispellers",
-            "Debuffers (DEF)",
-            "Heal over Time (HoT)",
-            "Health Boosters",
-            "Buffers (ATK)",
-            "Cleansers",
-            "Mana Reducers or Blockers",
-            "Mana Raisers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2025-07-23",
         "specialId": "thorned_slam_dunk",
@@ -98768,17 +84670,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Forest Friends",
-        "types": [
-            "Hit All",
-            "Summoner All",
-            "Healer Minion",
-            "Mana Reduction Immunity Minion"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Heal over Time (HoT)",
-            "Minions Summoners"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "forest_friends",
@@ -98836,21 +84727,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Master Plan",
-        "types": [
-            "Dispeler 3",
-            "Hit 3",
-            "Buff Immunity 3"
-        ],
-        "skill_types": [
-            "Buff Blockers",
-            "Extra Damage Dealers",
-            "Minions Counters",
-            "AoE Attackers (Hit-3)",
-            "Dispellers",
-            "DoT Attackers",
-            "Debuffers (DEF)",
-            "Bypassers"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "specialId": "master_plan",
@@ -98922,21 +84798,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Cursed Plan",
-        "types": [
-            "Dispeller 3",
-            "Hit 3",
-            "Buff Immunity 3"
-        ],
-        "skill_types": [
-            "Buff Blockers",
-            "Extra Damage Dealers",
-            "Minions Counters",
-            "AoE Attackers (Hit-3)",
-            "Dispellers",
-            "DoT Attackers",
-            "Debuffers (DEF)",
-            "Bypassers"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-10-15",
         "specialId": "cursed_plan",
@@ -99010,15 +84871,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Occult Redemption",
-        "types": [
-            "Hit 3",
-            "Damage Reduction Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Damage Reducers",
-            "Minions Summoners"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-12-01",
         "specialId": "occult_redemption",
@@ -99075,18 +84927,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Cloak of Feathers",
-        "types": [
-            "Safely Cleanses Latest Ailment",
-            "Healer All",
-            "Reflect Ailments All",
-            "Reflect Negative Stacks All",
-            "Reflect Wither All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Healers",
-            "Reflectors"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2024-10-18",
         "specialId": "cloak_of_feathers",
@@ -99150,15 +84990,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Goblin Explosives",
-        "types": [
-            "Wither",
-            "Exploding Fiend Summoner 3"
-        ],
-        "skill_types": [
-            "Ability Scores Modifiers",
-            "Fiends Summoners",
-            "DoT Attackers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2024-03-18",
         "specialId": "goblin_explosives",
@@ -99225,17 +85056,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Last Words",
-        "types": [
-            "Hit 1",
-            "Possible Extra Hits",
-            "Insanity on hit",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Chain & Random Attackers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2025-04-03",
         "specialId": "last_words",
@@ -99291,21 +85111,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Very Fast",
         "skill": "Beautiful Petals",
-        "types": [
-            "Humility",
-            "Healer All",
-            "Cleanser All",
-            "Attack Growth All",
-            "HoT All",
-            "Special Skill Defense Buff Self"
-        ],
-        "skill_types": [
-            "Healers",
-            "Cleansers",
-            "Ability Scores Modifiers",
-            "Heal over Time (HoT)",
-            "Buffers (DEF)"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2025-11-12",
         "specialId": "beautiful_petals",
@@ -99380,18 +85185,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Mana Scavenge",
-        "types": [
-            "Mana steal 1",
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Mana Raisers",
-            "Mana Reducers or Blockers",
-            "Minions Counters",
-            "Snipers",
-            "Extra Damage Dealers",
-            "Dodgers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-01-01",
         "specialId": "mana_scavange",
@@ -99456,21 +85249,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Scourge of the Strong",
-        "types": [
-            "Dispeller All",
-            "Hit All",
-            "Attack Buff All",
-            "Defense Buff All",
-            "Self Boosted HoT"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Buffers (ATK)",
-            "Buffers (DEF)",
-            "Health Boosters"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2024-06-26",
         "specialId": "scourge_of_the_strong",
@@ -99541,18 +85319,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Charge",
         "skill": "Crimson Calamity",
-        "types": [
-            "Charge",
-            "Hit 1/3/All",
-            "Mana reduction 1/3/All",
-            "Mana Generation Debuff 1/3/All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2021-11-10",
         "specialId": "crimson_calamity",
@@ -99620,16 +85386,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Sure-Fire Combustion",
-        "types": [
-            "Hit 1",
-            "Dot 3"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Snipers",
-            "Bypassers",
-            "Healers (Special)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-10-01",
         "specialId": "sure_fire_combustion",
@@ -99695,18 +85451,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Cover Slam",
-        "types": [
-            "Hit 3",
-            "Lasting DoT 1",
-            "Cover 1",
-            "Self HoT"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Damage Sharers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Covenant Summon",
         "Release date": "2024-08-20",
         "specialId": "cover_slam",
@@ -99775,18 +85519,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Magical Balan",
-        "types": [
-            "Dispeller 3",
-            "Hit 3",
-            "Minion Wound 3",
-            "Healing Debuff 3"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "AoE Attackers (Hit-3)",
-            "Max Health Reducers",
-            "Healing Reducers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2024-12-12",
         "specialId": "magical_balan",
@@ -99853,17 +85585,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Astral Assistance",
-        "types": [
-            "Fiend Destroyer",
-            "Heal All",
-            "Astral Beam Buff All"
-        ],
-        "skill_types": [
-            "Fiends Counters",
-            "Health Boosters",
-            "Chain & Random Attackers",
-            "Max Health Reducers"
-        ],
         "source": "Astral Summon",
         "Release date": "2025-11-29",
         "specialId": "astral_assistance",
@@ -99936,18 +85657,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Ultimate Gift Sack",
-        "types": [
-            "Hit All",
-            "Summoner All",
-            "Attack Debuff All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)",
-            "Minions Summoners"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "",
         "specialId": "ultimate_giftsack",
@@ -100007,18 +85716,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Gift of Rock",
-        "types": [
-            "Hit All",
-            "Summoner All",
-            "Attack Debuff All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)",
-            "Minions Summoners"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2021-12-01",
         "specialId": "gift_of_rock",
@@ -100084,20 +85781,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slayer",
         "skill": "Fracturing Slash",
-        "types": [
-            "Hit 3",
-            "Defense Debuff 3",
-            "Self Mana Generation Stacks",
-            "Self HoT Stacks"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Healers (Special)",
-            "Stacking Heroes",
-            "Mana Generation Buffers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "fracturing_slash",
@@ -100161,21 +85844,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slayer",
         "skill": "Fracturing Cut",
-        "types": [
-            "Hit 3",
-            "Defense Debuff 3",
-            "Self Mana Generation Stacks",
-            "Self HoT Stacks"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Mana Generation Buffers",
-            "Heal over Time (HoT)",
-            "Stacking Heroes",
-            "Healers (Special)",
-            "DoT Attackers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2024-11-14",
         "specialId": "fracturing_cut",
@@ -100244,20 +85912,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Cauterizing Touch",
-        "types": [
-            "Hit All",
-            "Silence 1",
-            "Attack Wither All"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Mana Reducers or Blockers",
-            "Extra Damage Dealers",
-            "Minions Counters",
-            "AoE Attackers (Hit-5)",
-            "Silencers",
-            "Ability Scores Modifiers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2024-05-19",
         "specialId": "cauterizing_touch",
@@ -100319,19 +85973,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Slow",
         "skill": "Light My Fire",
-        "types": [
-            "Hit All",
-            "DoT All",
-            "Wither All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Healers (Special)",
-            "Ability Scores Modifiers",
-            "Bypassers",
-            "Minions Counters"
-        ],
         "source": "Astral Summon",
         "Release date": "2025-07-27",
         "specialId": "light_my_fire",
@@ -100401,14 +86042,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Pounce of the Lioness",
-        "types": [
-            "Hit 1",
-            "Damage Heal All"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Snipers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-09-01",
         "specialId": "pounce_of_the_lioness",
@@ -100462,14 +86095,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Flame of the Lioness",
-        "types": [
-            "Hit 1",
-            "Damage Heal All"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Healers (Special)"
-        ],
         "source": "S5 - Dune",
         "Release date": "2025-03-17",
         "specialId": "flame_of_the_lioness",
@@ -100530,17 +86155,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Charge",
         "skill": "Burning Ashes",
-        "types": [
-            "Charge",
-            "Hit All",
-            "Dot All",
-            "Healing Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Healing Reducers"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2023-01-11",
         "specialId": "burning_ashes",
@@ -100605,12 +86219,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Very Fast",
         "skill": "Tip of the Spear",
-        "types": [
-            "Hit 1",
-            "Mana Reduction 1",
-            "Damage Link 1"
-        ],
-        "skill_types": [],
         "source": "Wilderness Summon",
         "Release date": "2026-03-30",
         "specialId": "tip_of_the_spear",
@@ -100655,7 +86263,19 @@ window.allHeroes =
             "health": 2918,
             "power": 1583
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut",
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Sizzleomatic",
@@ -100665,18 +86285,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Burning Wok",
-        "types": [
-            "Hit All",
-            "Attack Buff All",
-            "Reflect Ailments All",
-            "Reflect Stacks All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Buffers (ATK)",
-            "Reflectors"
-        ],
         "source": "Covenant Summon",
         "Release date": "2025-12-23",
         "specialId": "burning_wok",
@@ -100748,17 +86356,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Halting Counter Strike",
-        "types": [
-            "Hit 3",
-            "Mana Reduction 3",
-            "Blind 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)",
-            "Mana Reducers or Blockers",
-            "Mana Generation Buffers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-06-01",
         "specialId": "halting_counter_strike",
@@ -100823,19 +86420,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Enchanted Elven Sword",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Boosted Heal All on DoT",
-            "Reflect Buffs 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Healers (Special)",
-            "Reflectors",
-            "Damage Sharers"
-        ],
         "source": "Astral Summon",
         "Release date": "2023-11-21",
         "specialId": "enchanted_elven_sword",
@@ -100904,16 +86488,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Command to Advance",
-        "types": [
-            "Hit 3",
-            "Summoner All",
-            "Minions with DoT"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Minions Summoners"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-09-12",
         "specialId": "command_to_advance",
@@ -100972,16 +86546,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Order to Advance",
-        "types": [
-            "Hit 3",
-            "Summoner All",
-            "Minions with DoT"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Minions Summoners",
-            "DoT Attackers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2024-11-30",
         "specialId": "command_to_advance_costume_fire_bat",
@@ -101049,17 +86613,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Hunter's Mark",
-        "types": [
-            "Hit 1",
-            "DoT 2"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Fiends Counters",
-            "Immunity Providers",
-            "Snipers",
-            "Extra Damage Dealers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-08-01",
         "specialId": "hunters_mark",
@@ -101125,16 +86678,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Ancient Spell",
-        "types": [
-            "Hit 3",
-            "Defense Debuff 1",
-            "Mana Boost All if target defeated"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Mana Raisers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-10-27",
         "specialId": "ancient_spell",
@@ -101198,16 +86741,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Ancient Flames",
-        "types": [
-            "Hit 3",
-            "Defense Debuff 1",
-            "Mana Boost All if target defeated"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Mana Raisers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2024-05-27",
         "specialId": "ancient_flames",
@@ -101278,16 +86811,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Adventure Awaits!",
-        "types": [
-            "Boost Health All",
-            "Attack Buff All",
-            "Defense Debuff Self"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Buffers (ATK)",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Monthly Event - Springvale",
         "Release date": "2024-03-18",
         "specialId": "adventure_awaits",
@@ -101345,17 +86868,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Mark the Prey",
-        "types": [
-            "Damage Link 1",
-            "Defense Debuff 1",
-            "Hit 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "DoT Attackers",
-            "Damage Sharers"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2023-10-18",
         "specialId": "mark_the_prey",
@@ -101413,19 +86925,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Gluttonous Chomp",
-        "types": [
-            "Hit 1",
-            "Mimic Chest",
-            "Normal Attack Buff All"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Bypassers",
-            "Healers (Special)",
-            "Mana Raisers",
-            "Buffers (ATK)",
-            "Ghost Form & Hiding"
-        ],
         "source": "Bazaar Summon",
         "Release date": "2026-03-08",
         "specialId": "gluttonous_chomp_red",
@@ -101507,20 +87006,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Adamantite Claw",
-        "types": [
-            "Hit 1",
-            "Bypass Chance",
-            "DoT 1",
-            "Self HoT",
-            "Self Resurrection"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "DoT Attackers",
-            "Heal over Time (HoT)",
-            "Revivers",
-            "Snipers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "",
         "specialId": "adamantite_claw",
@@ -101582,20 +87067,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Indestructible Claw",
-        "types": [
-            "Hit 3",
-            "Bypass",
-            "Dot 3",
-            "Heal Self on DoT",
-            "Self Resurrection"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Bypassers",
-            "DoT Attackers",
-            "Healers (Special)",
-            "Revivers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2023-02-13",
         "specialId": "indestructible_claw",
@@ -101663,18 +87134,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Chords of Distortion",
-        "types": [
-            "Hit All",
-            "Attack Debuff All",
-            "HoT 3",
-            "Dispel Immunity Buff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Heal over Time (HoT)",
-            "Immunity Providers"
-        ],
         "source": "Monthly Event - Kalevala",
         "Release date": "2023-08-07",
         "specialId": "chords_of_distortion",
@@ -101738,18 +87197,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Chords of Inferno",
-        "types": [
-            "Hit All",
-            "Attack Debuff",
-            "HoT 3",
-            "Dispel Immunity 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Heal over Time (HoT)",
-            "Immunity Providers"
-        ],
         "source": "Monthly Event - Kalevala",
         "Release date": "2024-07-22",
         "specialId": "chords_of_inferno",
@@ -101815,17 +87262,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Very Fast",
         "skill": "Twilight of Sorrow",
-        "types": [
-            "Hit All",
-            "Health Steal All",
-            "Status Ailment Immunity All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Healers (Special)",
-            "Healing Reducers",
-            "Immunity Providers"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "2020-10-26",
         "specialId": "twilight_of_sorrow",
@@ -101887,17 +87323,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Very Fast",
         "skill": "Twilight of Ruin",
-        "types": [
-            "Hit All",
-            "Healing Steal All",
-            "Status Ailment Immunity All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Healers (Special)",
-            "Healing Reducers",
-            "Immunity Providers"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "2021-10-04",
         "specialId": "twilight_of_ruin",
@@ -101961,16 +87386,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Sense of Wonder",
-        "types": [
-            "Heal All",
-            "Shield Guard Mega Minion",
-            "Clean all Minion"
-        ],
-        "skill_types": [
-            "Mega Minions Summoners",
-            "Healers",
-            "Cleansers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2024-04-15",
         "specialId": "sense_of_wonder",
@@ -102036,16 +87451,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Stalwart to the End",
-        "types": [
-            "Hit 3",
-            "DoT 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers",
-            "DoT Attackers",
-            "Buffers (ATK)"
-        ],
         "source": "Challenge - Beowulf",
         "Release date": "2025-11-08",
         "specialId": "stalwart_to_the_end",
@@ -102118,21 +87523,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Volatile Crystal Conduit",
-        "types": [
-            "Bypass",
-            "Hit 1",
-            "Chain Hit",
-            "Insanity on hit",
-            "Delayed Paralyze on hit",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Chain & Random Attackers",
-            "Sleepweavers",
-            "Mindless Attack & Mindless Heal",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2026-01-11",
         "specialId": "volatile_crystal_conduit",
@@ -102204,19 +87594,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Underworld Blaze",
-        "types": [
-            "Hit All",
-            "DoT All",
-            "Heal Self on burn",
-            "Mana Steal All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Healers (Special)",
-            "Mana Raisers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2022-12-08",
         "specialId": "xenda_special",
@@ -102280,19 +87657,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Underworld Flame",
-        "types": [
-            "Hit All",
-            "DoT All",
-            "Heal Self on burn",
-            "Mana Steal All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Healers (Special)",
-            "Mana Raisers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2024-05-23",
         "specialId": "xenda_special_costume",
@@ -102361,16 +87725,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Reverse Recovery",
-        "types": [
-            "Hit 1",
-            "Healing Resist Debuff 3",
-            "Damage on each Resisted Healing 3"
-        ],
-        "skill_types": [
-            "Healing Reducers",
-            "Minions Counters",
-            "Snipers"
-        ],
         "source": "Monthly Event - Lunar Year",
         "Release date": "2023-01-19",
         "specialId": "reverse_recovery",
@@ -102426,17 +87780,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Ill-Fated Recovery",
-        "types": [
-            "Hit 1",
-            "Max Health Reduction 3",
-            "Damage on each Resisted Healing 3"
-        ],
-        "skill_types": [
-            "Healing Reducers",
-            "Minions Counters",
-            "Snipers",
-            "Max Health Reducers"
-        ],
         "source": "Monthly Event - Lunar Year",
         "Release date": "2026-02-17",
         "specialId": "ill_fated_recovery",
@@ -102496,17 +87839,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Peach of Immortality",
-        "types": [
-            "Self Resurrection",
-            "Damage All on resurrection",
-            "Crit Chance Buff All",
-            "Attack Buff Stack All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Revivers",
-            "Stacking Heroes"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2023-10-09",
         "specialId": "peach_of_immortality",
@@ -102562,18 +87894,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Flaming Fury",
-        "types": [
-            "Hit 1",
-            "Chance for Random Hit 1",
-            "Attack Buff Stack Self"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Chain & Random Attackers",
-            "Mana Raisers",
-            "Stacking Heroes",
-            "Snipers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-05-01",
         "specialId": "flaming_fury",
@@ -102635,17 +87955,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Captivating Illusions",
-        "types": [
-            "Hit 3",
-            "Enhanced Dodge 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Dodgers",
-            "Debuffers (ATK)",
-            "DoT Attackers",
-            "Minions Counters"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2025-03-26",
         "specialId": "captivating_illusions",
@@ -102713,17 +88022,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Indifferent Blade",
-        "types": [
-            "Hit 3",
-            "Bypass",
-            "Mana Boost on bypass"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Bypassers",
-            "Mana Raisers",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-03-01",
         "specialId": "indifferent_blade",
@@ -102788,17 +88086,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Thousand Cuts",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Mana Raisers",
-            "Stacking Heroes",
-            "Dodgers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-04-01",
         "specialId": "thousand_cuts",
@@ -102865,13 +88152,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Cataclysmic Divination",
-        "types": [
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers"
-        ],
         "source": "Super Elementals",
         "Release date": "2023-10-09",
         "specialId": "cataclysmic_divination",
@@ -102932,18 +88212,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Dual Sting",
-        "types": [
-            "Hit 2",
-            "Board Alterer"
-        ],
-        "skill_types": [
-            "Board Alterers",
-            "Debuffers (ATK)",
-            "Buffers (ATK)",
-            "Debuffers (ATK)",
-            "Buffers (ATK)",
-            "Snipers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-09-09",
         "specialId": "dual_sting",
@@ -102999,19 +88267,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Floral Sting",
-        "types": [
-            "Hit 2",
-            "Board Alterer"
-        ],
-        "skill_types": [
-            "Board Alterers",
-            "Debuffers (ATK)",
-            "Buffers (ATK)",
-            "Snipers",
-            "Debuffers (ATK)",
-            "Buffers (ATK)",
-            "Extra Damage Dealers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2024-02-29",
         "specialId": "floral_sting",
@@ -103072,19 +88327,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Cherry Pudding Served!",
-        "types": [
-            "Healer 3",
-            "Mana Increase 2",
-            "Attack Growth 2",
-            "Defense Growth 2",
-            "Slime Mega Minion Self"
-        ],
-        "skill_types": [
-            "Mana Raisers",
-            "Healers",
-            "Ability Scores Modifiers",
-            "Mega Minions Summoners"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-10-11",
         "specialId": "cherry_pudding_served",
@@ -103151,18 +88393,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Very Fast",
         "skill": "Tricks of the Trade",
-        "types": [
-            "Hit 1",
-            "Steal Buff 1",
-            "Gambler",
-            "DoT"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Buff Stealers",
-            "DoT Attackers",
-            "Buffers (ATK)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-10-01",
         "specialId": "trick_of_the_trade",
@@ -103237,17 +88467,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Dawn Strike",
-        "types": [
-            "Hit All",
-            "Attack Buff All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (ATK)",
-            "Cleansers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-11-01",
         "specialId": "dawn_strike",
@@ -103306,16 +88525,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Morning Catch",
-        "types": [
-            "Dispeller All",
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Dispellers",
-            "Extra Damage Dealers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-03-20",
         "specialId": "morning_catch",
@@ -103380,12 +88589,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Backstab",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "backstab",
@@ -103425,12 +88628,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Fierce Slash",
-        "types": [
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "fierce_slash",
@@ -103470,12 +88667,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Defensive Tactics",
-        "types": [
-            "Defense Buff"
-        ],
-        "skill_types": [
-            "Buffers (DEF)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "defensive_tactics",
@@ -103515,14 +88706,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Paralyzing Smash",
-        "types": [
-            "Hit 1",
-            "Attack Debuff"
-        ],
-        "skill_types": [
-            "Debuffers (ATK)",
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "stunning_blow",
@@ -103563,12 +88746,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Healing Chant",
-        "types": [
-            "Healer"
-        ],
-        "skill_types": [
-            "Healers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "healing_chant",
@@ -103608,14 +88785,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Precise Chop",
-        "types": [
-            "Hit 1",
-            "Bypass Chance"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Snipers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "precise_chop",
@@ -103667,18 +88836,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Sand Breeze",
-        "types": [
-            "Hit All",
-            "DoT All",
-            "Healing Debuff All",
-            "Clean Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Cleansers",
-            "DoT Attackers",
-            "Healing Reducers"
-        ],
         "source": "Monthly Event - Beach Party",
         "Release date": "",
         "specialId": "soldiers_curse",
@@ -103735,14 +88892,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Harmonic Slam",
-        "types": [
-            "Hit 1",
-            "Blind 1"
-        ],
-        "skill_types": [
-            "Debuffers (ATK)",
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "harmonic_slam",
@@ -103794,14 +88943,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Harmonic Bash",
-        "types": [
-            "Hit 1",
-            "Blind 1"
-        ],
-        "skill_types": [
-            "Debuffers (ATK)",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "harmonic_bash",
@@ -103855,15 +88996,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Toon Slam",
-        "types": [
-            "Hit 1",
-            "Blind 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Debuffers (ATK)",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-03-11",
         "specialId": "toon_slam",
@@ -103927,16 +89059,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Glass Slam",
-        "types": [
-            "Hit 1",
-            "Bypass",
-            "Blind 1"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Debuffers (ATK)",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-05-10",
         "specialId": "glass_slam",
@@ -104000,12 +89122,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Magnificent Meal",
-        "types": [
-            "Titan Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "specialId": "magnificent_meal",
@@ -104051,14 +89167,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Whimsical Aid",
-        "types": [
-            "Heal All to 50%",
-            "HoT All"
-        ],
-        "skill_types": [
-            "Heal over Time (HoT)",
-            "Healers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "whimsical_aid",
@@ -104106,18 +89214,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Titanbone Chain Slash",
-        "types": [
-            "Hit All",
-            "Blind All",
-            "Attack Buff Stack Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "DoT Attackers",
-            "Stacking Heroes",
-            "Buffers (ATK)"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2023-05-06",
         "specialId": "titanbone_chain_slash",
@@ -104181,17 +89277,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Brain-link",
-        "types": [
-            "Hit 1",
-            "Chance to Hit random 1 All",
-            "Chance to inflict Insanity random 1 All",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Chain & Random Attackers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2025-01-09",
         "specialId": "brain_link",
@@ -104246,12 +89331,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Leaping Attack",
-        "types": [
-            "Hit 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "leaping_attack",
@@ -104297,14 +89376,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Pounding Attack",
-        "types": [
-            "Hit 1",
-            "Hit Random 1"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "pounding_attack",
@@ -104359,13 +89430,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Toon Attack",
-        "types": [
-            "Hit 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-08-11",
         "specialId": "toon_attack",
@@ -104423,14 +89487,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Glass Attack",
-        "types": [
-            "Hit 3",
-            "Bypass"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Bypassers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-10-09",
         "specialId": "glass_leaping_attack_dawa",
@@ -104488,17 +89544,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Sunscreen Blast",
-        "types": [
-            "Hit 1",
-            "Defense Debuff 1",
-            "Healing Debuff 1"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "Healing Reducers",
-            "Snipers",
-            "DoT Attackers"
-        ],
         "source": "Monthly Event - Beach Party",
         "Release date": "2023-06-12",
         "specialId": "sunscreen_blast",
@@ -104558,16 +89603,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Nomadic Hymn",
-        "types": [
-            "Healer All",
-            "Titan Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "DoT Attackers",
-            "Healers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2022-10-15",
         "specialId": "nomadic_hymn",
@@ -104630,17 +89665,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Remorseless Stab",
-        "types": [
-            "Hit 1",
-            "Buff Reflect All",
-            "Self HoT"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "Reflectors",
-            "Snipers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2023-03-08",
         "specialId": "covert_stab",
@@ -104704,18 +89728,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Swashbuckling Stab",
-        "types": [
-            "Hit 1",
-            "Reflect Buffs All",
-            "Boosted HoT Self"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "Reflectors",
-            "Snipers",
-            "Heal over Time (HoT)",
-            "Health Boosters"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2025-11-12",
         "specialId": "swashbuckling_stab",
@@ -104783,14 +89795,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Mystic Chop",
-        "types": [
-            "Hit 1",
-            "Mana Reduction 1"
-        ],
-        "skill_types": [
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "mystic_chop",
@@ -104842,14 +89846,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Rural Chop",
-        "types": [
-            "Hit 1",
-            "Mana Reduction 1"
-        ],
-        "skill_types": [
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "rural_chop",
@@ -104903,15 +89899,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Toon Chop",
-        "types": [
-            "Hit 1",
-            "Mana Reduction 1"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-12-25",
         "specialId": "toon_chop",
@@ -104971,16 +89958,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Glass Chop",
-        "types": [
-            "Hit 1",
-            "Bypass",
-            "Mana Reduction 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Bypassers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-12-25",
         "specialId": "glass_chop",
@@ -105040,15 +90017,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Stylish Chop",
-        "types": [
-            "Hit 1",
-            "Mana Reduction 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Extra Damage Dealers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Costume Quest",
         "Release date": "2026-01-07",
         "specialId": "stylish_chop",
@@ -105108,15 +90076,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Sticky Spear",
-        "types": [
-            "Hit 1",
-            "Devouring Goo 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "DoT Attackers",
-            "Dispellers"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-10-27",
         "specialId": "sticky_spear",
@@ -105176,16 +90135,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Squire Strike",
-        "types": [
-            "Hit Random 2",
-            "Self Heal on Kill",
-            "Boost Mana Self on kill"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Healers (Special)",
-            "Mana Raisers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2025-12-23",
         "specialId": "squire_strike",
@@ -105250,15 +90199,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Changing Tides",
         "skill": "Dubious Merchandise",
-        "types": [
-            "Mana steal 1",
-            "Hit 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Mana Raisers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-07-05",
         "specialId": "dubious_merchandise",
@@ -105321,15 +90261,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Changing Tides",
         "skill": "Dubious Mixture",
-        "types": [
-            "Mana steal 1",
-            "Hit 3"
-        ],
-        "skill_types": [
-            "Mana Reducers or Blockers",
-            "AoE Attackers (Hit-3)",
-            "Mana Raisers"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-02-03",
         "specialId": "dubious_mixture",
@@ -105397,18 +90328,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Very Slow",
         "skill": "Birch Blessing",
-        "types": [
-            "Boost Health All",
-            "Summoner All",
-            "Damage Reduction Buff All",
-            "Mana Generation Buff All"
-        ],
-        "skill_types": [
-            "Damage Reducers",
-            "Health Boosters",
-            "Mana Generation Buffers",
-            "Minions Summoners"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2023-12-01",
         "specialId": "birch_blessing",
@@ -105468,14 +90387,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Spirit Link",
-        "types": [
-            "Ally Damage Share",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Damage Sharers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "stone_skin",
@@ -105523,14 +90434,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Spirit Rally",
-        "types": [
-            "Ally Damage Share",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Damage Sharers"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "spirit_rally",
@@ -105580,14 +90483,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Toontastic Link",
-        "types": [
-            "Ally Damage Share",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Damage Sharers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-02-12",
         "specialId": "toontastic_link",
@@ -105641,17 +90536,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Glass Link",
-        "types": [
-            "Ally Damage Share",
-            "Defense Buff All",
-            "Reflect Ailments for Holy Allies",
-            "Reflect Stacks for Holy Allies"
-        ],
-        "skill_types": [
-            "Damage Sharers",
-            "Buffers (DEF)",
-            "Reflectors"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-03-11",
         "specialId": "glass_link",
@@ -105707,16 +90591,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Style Link",
-        "types": [
-            "Ally Damage Share",
-            "Defense Buff All",
-            "HoT All"
-        ],
-        "skill_types": [
-            "Damage Sharers",
-            "Buffers (DEF)",
-            "Heal over Time (HoT)"
-        ],
         "source": "Costume Quest",
         "Release date": "2026-03-12",
         "specialId": "style_link",
@@ -105776,14 +90650,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Charge",
         "skill": "Lightning Stream",
-        "types": [
-            "Charge",
-            "Hit 1",
-            "Hit Random 2/3/4"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2023-01-11",
         "specialId": "lightning_stream",
@@ -105838,16 +90704,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Bee Bravado",
-        "types": [
-            "Summoner All",
-            "Minion with DoT",
-            "Minion with Minion Block"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Minions Counters",
-            "Minions Summoners"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "",
         "specialId": "bee_bravado",
@@ -105907,16 +90763,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Bee Bombast",
-        "types": [
-            "Summoner All",
-            "Minion with DoT",
-            "Minion with Buff Immunity"
-        ],
-        "skill_types": [
-            "Buff Blockers",
-            "DoT Attackers",
-            "Minions Summoners"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2022-07-04",
         "specialId": "bee_bombast",
@@ -105978,12 +90824,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Toon Bees",
-        "types": [
-            "Summoner All",
-            "Minion with DoT",
-            "Minion with Minion Block"
-        ],
-        "skill_types": [],
         "source": "S3 - Valhalla",
         "Release date": "2026-04-29",
         "specialId": "toon_bees",
@@ -106033,14 +90873,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Atlantean Sword",
-        "types": [
-            "Hit All",
-            "Critical Chance Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (ATK)"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "atlantean_blade",
@@ -106092,14 +90924,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Atlantean Blade",
-        "types": [
-            "Hit All",
-            "Blind All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2022-05-02",
         "specialId": "atlantean_blade_costume",
@@ -106153,11 +90977,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Atlantean Toon Sword",
-        "types": [
-            "Hit All",
-            "Critical Chance Buff All"
-        ],
-        "skill_types": [],
         "source": "S2 - Atlantis",
         "Release date": "2026-04-29",
         "specialId": "atlantean_toon_sword",
@@ -106205,16 +91024,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Very Slow",
         "skill": "Owl's Blessing",
-        "types": [
-            "Damage from SS Reducer Ward",
-            "Attack Buff All",
-            "Mana Generation Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Damage Reducers",
-            "Mana Generation Buffers"
-        ],
         "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "specialId": "owls_blessing",
@@ -106268,15 +91077,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Pixie Dust",
-        "types": [
-            "Hit 1",
-            "Damage when Full Mana 1",
-            "Mana Reducer when Full Mana 1"
-        ],
-        "skill_types": [
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "pixie_dust",
@@ -106328,14 +91128,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Ricochet Bolt",
-        "types": [
-            "Hit 1",
-            "Hit Random 1 Chance"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Snipers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "ricochet_bolt",
@@ -106387,14 +91179,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Drowsy Bolt",
-        "types": [
-            "Hit 1",
-            "Hit Random 1 Chance"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Snipers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2024-02-29",
         "specialId": "drowsy_bolt",
@@ -106448,15 +91232,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Puzzling Riddle",
-        "types": [
-            "Boosted HoT All",
-            "Elemental Defense Buff Self"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Health Boosters",
-            "Heal over Time (HoT)"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "puzzling_riddle",
@@ -106515,15 +91290,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Puzzling Paint",
-        "types": [
-            "Boosted HoT All",
-            "Elemental Defense Buff Self"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Heal over Time (HoT)",
-            "Buffers (DEF)"
-        ],
         "source": "S5 - Dune",
         "Release date": "2025-02-17",
         "specialId": "puzzling_paint",
@@ -106589,16 +91355,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Amphibian Sword Sting",
-        "types": [
-            "Hit 3",
-            "Mana Reduction 3",
-            "DoT 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "amphibian_sword_sting",
@@ -106663,17 +91419,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Swooping Support",
-        "types": [
-            "HoT 3",
-            "Dodge Chance 3",
-            "Critical Chance Buff 3"
-        ],
-        "skill_types": [
-            "Heal over Time (HoT)",
-            "Dodgers",
-            "Buffers (ATK)",
-            "Health Boosters"
-        ],
         "source": "Covenant Summon",
         "Release date": "2024-04-25",
         "specialId": "swooping_support",
@@ -106736,13 +91481,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Piercing Sabre",
-        "types": [
-            "Hit 1",
-            "Chain Hit"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "specialId": "piercing_sabre",
@@ -106790,17 +91528,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Rejuvenating Leap",
-        "types": [
-            "Heal All",
-            "Enhanced Dodge Chance All",
-            "HoT All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Dodgers",
-            "Heal over Time (HoT)",
-            "Minions Counters"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2024-08-31",
         "specialId": "rejuvenating_leap",
@@ -106862,17 +91589,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Wise Man's Counsel",
-        "types": [
-            "Safely Dispels Latest Buff All",
-            "Source of Buffs Random 1 each turn",
-            "HoT All"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Mana Generation Buffers",
-            "Healers (Special)",
-            "Heal over Time (HoT)"
-        ],
         "source": "Challenge - Beowulf",
         "Release date": "2025-02-13",
         "specialId": "wise_mans_counsel",
@@ -106936,18 +91652,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Magic",
         "skill": "Cheerful Charm",
-        "types": [
-            "Charge",
-            "Minion Summoner All",
-            "Hit All",
-            "Fiend Summoner All"
-        ],
-        "skill_types": [
-            "Fiends Summoners",
-            "Minions Summoners",
-            "DoT Attackers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "cheerful_charm",
@@ -107009,17 +91713,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Gorging Bite",
-        "types": [
-            "Hit 1",
-            "DoT 1",
-            "Mimic Chest"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Bypassers",
-            "DoT Attackers",
-            "Ghost Form & Hiding"
-        ],
         "source": "Bazaar Summon",
         "Release date": "2026-01-16",
         "specialId": "gorging_bite_yellow",
@@ -107110,14 +91803,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Sanction for Heresy",
-        "types": [
-            "Hit 1",
-            "Chain Hit"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Damage Reducers"
-        ],
         "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "specialId": "sanction_for_heresy",
@@ -107173,16 +91858,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Bone Club Clonk",
-        "types": [
-            "Hit 3",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "DoT Attackers",
-            "Cleansers"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2022-12-24",
         "specialId": "bone_club_clonk",
@@ -107240,15 +91915,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Engulfing Candlelight",
-        "types": [
-            "Humility",
-            "Hit 2",
-            "Max Health Reduction 2"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Max Health Reducers"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2025-11-12",
         "specialId": "engulfing_candlelight",
@@ -107311,14 +91977,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Tactical Cut",
-        "types": [
-            "Hit 1",
-            "Mana Reduction 1"
-        ],
-        "skill_types": [
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "tactical_cut",
@@ -107370,15 +92028,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Ornithological Cut",
-        "types": [
-            "Hit 1",
-            "Mana Steal 1"
-        ],
-        "skill_types": [
-            "Mana Raisers",
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "strategic_slash",
@@ -107432,14 +92081,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Cub Leader Cut",
-        "types": [
-            "Hit 3",
-            "Mana Generation Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "cub_leader_cut",
@@ -107493,15 +92134,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Toontastic Cut",
-        "types": [
-            "Hit 1",
-            "Mana Reduction 1"
-        ],
-        "skill_types": [
-            "Mana Reducers or Blockers",
-            "Snipers",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-06-28",
         "specialId": "adorable_tactical_cut",
@@ -107561,16 +92193,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Vitrail Cut",
-        "types": [
-            "Hit 1",
-            "Mana Reduction 1",
-            "Bypass"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Bypassers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-07-16",
         "specialId": "glass_cut_chao",
@@ -107635,16 +92257,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Vitalizing Spectacle",
-        "types": [
-            "Healer All",
-            "Transform Defense Debuffs All",
-            "Mana Generation Buff All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Healers",
-            "Mana Generation Buffers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "vitalizing_show",
@@ -107698,16 +92310,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Trickster's Gambit",
-        "types": [
-            "Gambler"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (DEF)",
-            "Debuffers (ATK)",
-            "Mana Generation Buffers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "tricksters_exchange",
@@ -107779,17 +92381,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Amazing Deals",
-        "types": [
-            "Gambler"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)",
-            "Mana Raisers",
-            "Mana Reducers or Blockers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2023-02-06",
         "specialId": "amazing_deals",
@@ -107864,16 +92455,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Mischievous Tie-in",
-        "types": [
-            "Enemy Damage Share",
-            "Increased Received Damage All"
-        ],
-        "skill_types": [
-            "Damage Sharers",
-            "Extra Damage Dealers",
-            "Minions Counters",
-            "Fiends Counters"
-        ],
         "source": "Astral Summon",
         "Release date": "2025-06-04",
         "specialId": "mischievous_tiein",
@@ -107933,20 +92514,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Poetic Justice",
-        "types": [
-            "Bypass Minions",
-            "Hit 1",
-            "Minion Blocking 1"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "Minions Counters",
-            "Snipers",
-            "Extra Damage Dealers",
-            "Bypassers",
-            "DoT Attackers",
-            "Debuffers (DEF)"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "specialId": "poetic_justice",
@@ -108014,20 +92581,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Undead Penance",
-        "types": [
-            "Bypass Minions",
-            "Hit 1",
-            "Minion Blocking 1"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "Minions Counters",
-            "Snipers",
-            "Extra Damage Dealers",
-            "Bypassers",
-            "DoT Attackers",
-            "Debuffers (DEF)"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-10-15",
         "specialId": "undead_penance_poetic",
@@ -108097,16 +92650,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Magic Mirror of Power",
-        "types": [
-            "Healer All",
-            "Attack Growth All",
-            "Reflect Ailments All"
-        ],
-        "skill_types": [
-            "Ability Scores Modifiers",
-            "Healers",
-            "Reflectors"
-        ],
         "source": "Goblin Summon",
         "Release date": "2023-09-18",
         "specialId": "magic_mirror_of_power",
@@ -108166,17 +92709,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Witch Slayer",
-        "types": [
-            "Hit 3",
-            "Damage when Full Mana 3",
-            "Mana Reducer when Full Mana 3",
-            "SS Defense Buff Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buffers (DEF)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "witch_slayer",
@@ -108234,14 +92766,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Invisible Strike",
-        "types": [
-            "Hit 1",
-            "Bypass"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Snipers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "invisible_strike",
@@ -108297,14 +92821,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Divine Lunge",
-        "types": [
-            "Hit 1",
-            "Bypass 3"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Snipers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2023-11-09",
         "specialId": "divine_lunge",
@@ -108362,17 +92878,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Intimidating Stance",
-        "types": [
-            "Chance of Critical hits",
-            "Hit All",
-            "Counterattack Self",
-            "Mana Reducer on Counterattack"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Counterattackers",
-            "Extra Damage Dealers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2025-05-22",
         "specialId": "intimidating_stance",
@@ -108443,14 +92948,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Very Fast",
         "skill": "Ray Strike",
-        "types": [
-            "Hit 1",
-            "Elemental Defense Debuff 1"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "Snipers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "ray_strike",
@@ -108502,14 +92999,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Very Fast",
         "skill": "Severing Strike",
-        "types": [
-            "Hit 1",
-            "Elemental Defense Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Snipers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2023-01-26",
         "specialId": "severing_strike",
@@ -108563,17 +93052,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Slow",
         "skill": "Angry Boar",
-        "types": [
-            "Boosted Heal All",
-            "Attack Buff Self",
-            "Delayed Damage All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Healers",
-            "Health Boosters",
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "angry_boar",
@@ -108630,17 +93108,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Furious Boar",
-        "types": [
-            "Boosted HoT All",
-            "Attack Buff Self",
-            "Delayed Damage All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Health Boosters",
-            "AoE Attackers (Hit-5)",
-            "Heal over Time (HoT)"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2022-07-04",
         "specialId": "furious_boar",
@@ -108700,16 +93167,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Hearty Stew",
-        "types": [
-            "Healer All",
-            "Summoner All",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Healers",
-            "Minions Summoners"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2022-12-01",
         "specialId": "hearty_stew",
@@ -108769,14 +93226,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Sonic Wall",
-        "types": [
-            "Hit All",
-            "Blind All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "sonic_wall",
@@ -108828,16 +93277,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Aura Wave",
-        "types": [
-            "Hit All",
-            "Blind All",
-            "Healing Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Healing Reducers"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "aura_wave",
@@ -108893,16 +93332,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Acoustic Surge",
-        "types": [
-            "Hit All",
-            "Blind All",
-            "Mana Gen Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-11-27",
         "specialId": "acoustic_surge",
@@ -108958,15 +93387,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Toon Wall",
-        "types": [
-            "Hit All",
-            "Blind All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-05-31",
         "specialId": "adorable_sonic_wall",
@@ -109030,16 +93450,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Glass Wall",
-        "types": [
-            "Hit All",
-            "Bypass",
-            "Blind All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Bypassers",
-            "Debuffers (ATK)"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-06-18",
         "specialId": "glass_wall",
@@ -109103,14 +93513,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Smooth Treatment",
-        "types": [
-            "Healer All",
-            "Mana Gain Debuff Self"
-        ],
-        "skill_types": [
-            "Healers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Monthly Event - Springvale",
         "Release date": "",
         "specialId": "smooth_treatment",
@@ -109162,12 +93564,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Shearing Treatment",
-        "types": [
-            "Healer All",
-            "Elemental Defense Buff Self",
-            "Mana Gain Debuff Self"
-        ],
-        "skill_types": [],
         "source": "Monthly Event - Springvale",
         "Release date": "2026-03-30",
         "specialId": "shearing_treatment",
@@ -109205,7 +93601,23 @@ window.allHeroes =
             "health": 1912,
             "power": 987
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Dark"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Li Xiu",
@@ -109215,14 +93627,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Slash of Seven Blades",
-        "types": [
-            "Hit All",
-            "Mana Reduction All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "slash_of_seven_blades",
@@ -109274,14 +93678,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Slash of Seven Daggers",
-        "types": [
-            "Hit All",
-            "Mana Reduction All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "slash_of_seven_daggers",
@@ -109335,14 +93731,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Slash of the Seven Stilettos",
-        "types": [
-            "Hit 3",
-            "Silencer 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Silencers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-02-20",
         "specialId": "slash_of_the_seven_stilettos",
@@ -109396,15 +93784,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Slash of Seven Toons",
-        "types": [
-            "Hit All",
-            "Mana Reduction All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-02-12",
         "specialId": "slash_of_seven_toons",
@@ -109464,16 +93843,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Slash of Glass Blades",
-        "types": [
-            "Hit All",
-            "Bypass",
-            "Mana Reduction All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Bypassers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-03-11",
         "specialId": "slash_of_glass_blades",
@@ -109533,15 +93902,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Slash of Stylish Blades",
-        "types": [
-            "Hit All",
-            "Mana Reducer All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Costume Quest",
         "Release date": "2026-02-14",
         "specialId": "slash_of_stylish_blades",
@@ -109601,18 +93961,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Valkyrie Charge",
-        "types": [
-            "Hit 3",
-            "Buff Immunity Debuff 3",
-            "SS Defense Debuff 3",
-            "Mana Generation Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buff Blockers",
-            "Debuffers (DEF)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "",
         "specialId": "valkyrie_charge",
@@ -109668,18 +94016,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Tangy Torture",
-        "types": [
-            "Hit 1",
-            "Harvest Buffs 1",
-            "Mana Gen Buff Stack Self"
-        ],
-        "skill_types": [
-            "Fiends Summoners",
-            "Snipers",
-            "Dispellers",
-            "Mana Generation Buffers",
-            "Stacking Heroes"
-        ],
         "source": "Challenge - Vigilant Vegetables Summon",
         "Release date": "2026-02-04",
         "specialId": "tangy_torture",
@@ -109745,15 +94081,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Scarab Throw",
-        "types": [
-            "Hit 1",
-            "Exploding Fiend Summoner 1"
-        ],
-        "skill_types": [
-            "Fiends Summoners",
-            "Snipers",
-            "DoT Attackers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "scarab_throw",
@@ -109814,15 +94141,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Scarab Barrage",
-        "types": [
-            "Hit 1",
-            "Exploding Fiend Summoner 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Fiends Summoners",
-            "DoT Attackers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2025-01-20",
         "specialId": "scarab_barrage",
@@ -109890,15 +94208,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Styx",
         "skill": "Mending Masterpiece",
-        "types": [
-            "Charge",
-            "Boosted HoT All",
-            "Resurrect"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Revivers"
-        ],
         "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "specialId": "artful_recreation",
@@ -109959,16 +94268,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Ocarina Windsong",
-        "types": [
-            "Dispels 2 buffs All",
-            "Max Health Reduction All",
-            "Mana Generation Debuff All"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Max Health Reducers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2025-12-30",
         "specialId": "ocarina_windsong",
@@ -110035,14 +94334,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Flat Cake For Sweethearts",
-        "types": [
-            "Fiend Destroyer 3",
-            "Healer 3"
-        ],
-        "skill_types": [
-            "Fiends Counters",
-            "Healers"
-        ],
         "source": "Monthly Event - Love Season",
         "Release date": "2023-02-14",
         "specialId": "flat_cake_for_sweethearts",
@@ -110098,16 +94389,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Hues of Love",
-        "types": [
-            "Fiend Destroyer 3",
-            "Healer 3",
-            "Elemental Defense Buff 3"
-        ],
-        "skill_types": [
-            "Fiends Counters",
-            "Healers",
-            "Buffers (DEF)"
-        ],
         "source": "Monthly Event - Love Season",
         "Release date": "2026-01-19",
         "specialId": "hues_of_love",
@@ -110171,14 +94452,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Spear of Loyalty",
-        "types": [
-            "Hit 1",
-            "Mindless Attack 1"
-        ],
-        "skill_types": [
-            "Mindless Attack & Mindless Heal",
-            "Snipers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "spear_of_loyalty",
@@ -110236,14 +94509,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Noble's Empathy",
-        "types": [
-            "Fiend Destroyer All",
-            "Health Boost All"
-        ],
-        "skill_types": [
-            "Fiends Counters",
-            "Health Boosters"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "nobles_empathy",
@@ -110295,16 +94560,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Calligrapher's Empathy",
-        "types": [
-            "Fiend Destroyer All",
-            "Health Boost All",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Fiends Counters",
-            "Health Boosters",
-            "Buffers (DEF)"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2025-01-29",
         "specialId": "nobles_empathy_costume_artisan",
@@ -110371,13 +94626,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Gambler's Stance",
-        "types": [
-            "Titan Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "gamblers_stance",
@@ -110428,14 +94676,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Gambler's Slash",
-        "types": [
-            "Hit All",
-            "Defense Buff Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "change_stance",
@@ -110489,13 +94729,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Gambler's Swing",
-        "types": [
-            "Titan Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "gamblers_swing",
@@ -110548,13 +94781,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Toon Stance",
-        "types": [
-            "Titan Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-07-16",
         "specialId": "adorable_gamblers_stance",
@@ -110611,16 +94837,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Glass Stance",
-        "types": [
-            "Titan Attack Buff All",
-            "Reflect Ailments for Holy Allies",
-            "Reflect Stacks for Holy Allies"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Reflectors",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-08-10",
         "specialId": "glass_gamblers_stance",
@@ -110679,16 +94895,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Express Delivery",
-        "types": [
-            "Board Alterer",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "Board Alterers",
-            "Mana Generation Buffers",
-            "Mana Reducers or Blockers",
-            "Buffers (ATK)"
-        ],
         "source": "Super Elementals",
         "Release date": "2023-07-17",
         "specialId": "express_delivery",
@@ -110748,20 +94954,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Craving Nip",
-        "types": [
-            "Hit 1",
-            "Damage Boosted Heal All",
-            "Mimic Chest"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Healers (Special)",
-            "Health Boosters",
-            "Mana Raisers",
-            "Immunity Providers",
-            "Ghost Form & Hiding",
-            "Bypassers"
-        ],
         "source": "Bazaar Summon",
         "Release date": "2026-01-06",
         "specialId": "aether_mimic_bite_yellow",
@@ -110837,13 +95029,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Urumi Lashings",
-        "types": [
-            "Hit 1",
-            "Chain Attack",
-            "DoT on hit",
-            "Hit Growth Boon"
-        ],
-        "skill_types": [],
         "source": "Temple Summon",
         "Release date": "2026-04-21",
         "specialId": "urumi_lashing",
@@ -110884,7 +95069,25 @@ window.allHeroes =
             "health": 2910,
             "power": 1591
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Atk - Chain",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Akkorog",
@@ -110894,14 +95097,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Colossal Chops",
-        "types": [
-            "Reposition All",
-            "Hit 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Random Position"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "colossal_chops",
@@ -110957,19 +95152,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Colossal Carry",
-        "types": [
-            "Reposition All",
-            "Hit 3",
-            "SS Dodge Chance Self",
-            "Defense Buff Stack on dodge"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Dodgers",
-            "Stacking Heroes",
-            "Buffers (DEF)",
-            "Random Position"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2024-02-01",
         "specialId": "colossal_carry",
@@ -111037,16 +95219,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "A Cozy Break",
-        "types": [
-            "Hit All",
-            "Buff Duration Reset All",
-            "Summoner 2x All"
-        ],
-        "skill_types": [
-            "Heal over Time (HoT)",
-            "Buffers (ATK)",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2024-12-01",
         "specialId": "a_cozy_break",
@@ -111100,18 +95272,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Scroll of New Beginnings",
-        "types": [
-            "Lifts Ailments All",
-            "Reset Ailments All",
-            "Hit All",
-            "Reflect Buffs All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Effect Duration Resetters",
-            "AoE Attackers (Hit-5)",
-            "Reflectors"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2024-08-14",
         "specialId": "scroll_of_new_beginnings",
@@ -111175,16 +95335,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Carve the Bones",
-        "types": [
-            "Hit All",
-            "Fiend Summoner All",
-            "Debuff Clean Blocking Fiend"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Fiends Summoners",
-            "Cleanse Blockers"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2025-02-27",
         "specialId": "carve_the_bones",
@@ -111249,18 +95399,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Cannon Blast",
-        "types": [
-            "Hit 1",
-            "Hit Random",
-            "Debuffs if SS use on hit"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Mana Reducers or Blockers",
-            "Snipers",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2022-10-06",
         "specialId": "cannon_blast",
@@ -111316,14 +95454,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Love at First Sight",
-        "types": [
-            "Hit 1",
-            "Mindless Heal 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Mindless Attack & Mindless Heal"
-        ],
         "source": "Monthly Event - Love Season",
         "Release date": "2025-02-14",
         "specialId": "love_at_first_sight",
@@ -111386,13 +95516,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Blade of Bundelkhand",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "Snipers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-07-15",
         "specialId": "blade_of_bundelkhand",
@@ -111448,14 +95571,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Scepter of Bundelkhand",
-        "types": [
-            "Hit 1"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "Snipers",
-            "Buffers (ATK)"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2023-09-07",
         "specialId": "scepter_of_bundelkhand",
@@ -111516,20 +95631,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Gorging Chew",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Mimic Chest"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Minions Counters",
-            "AoE Attackers (Hit-3)",
-            "Mana Raisers",
-            "Immunity Providers",
-            "Ghost Form & Hiding",
-            "Bypassers"
-        ],
         "source": "Bazaar Summon",
         "Release date": "2025-08-18",
         "specialId": "gorging_chew_yellow",
@@ -111614,19 +95715,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Divine Light",
-        "types": [
-            "Lasting Health regeneration All",
-            "Lasting Attack Buff All",
-            "Hit All",
-            "Lasting Attack Debuff All"
-        ],
-        "skill_types": [
-            "Healing Reducers",
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Heal over Time (HoT)",
-            "Buffers (ATK)"
-        ],
         "source": "Covenant Summon",
         "Release date": "2025-02-26",
         "specialId": "divine_light1",
@@ -111697,16 +95785,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Booming Mend",
-        "types": [
-            "Healer All",
-            "Reviver",
-            "Damage Drop to 1 All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Revivers",
-            "Damage Reducers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2024-11-14",
         "specialId": "booming_mend",
@@ -111766,20 +95844,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Riches To Poor",
-        "types": [
-            "Steals Mega/Minions",
-            "Mana Steal 1",
-            "Hit 1",
-            "Deep Sleep 1"
-        ],
-        "skill_types": [
-            "Mana Raisers",
-            "Mana Reducers or Blockers",
-            "Minions Counters",
-            "Sleepweavers",
-            "Snipers",
-            "Dodgers"
-        ],
         "source": "Alliance - Moths",
         "Release date": "2025-05-01",
         "specialId": "riches_to_poor",
@@ -111845,16 +95909,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Forged Axe of Light",
-        "types": [
-            "Minion Destroyer 3",
-            "Hit 3",
-            "Blind 3"
-        ],
-        "skill_types": [
-            "Minions Counters",
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-09-01",
         "specialId": "forged_axe_of_light",
@@ -111919,17 +95973,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Falcon Screech",
-        "types": [
-            "Hit 3",
-            "Buffs Immunity 3",
-            "Critical Chance Buff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buff Blockers",
-            "Buffers (ATK)",
-            "Dodgers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-06-01",
         "specialId": "falcon_screech",
@@ -111994,17 +96037,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Stunning Steel",
-        "types": [
-            "Hit 1",
-            "Blind 1",
-            "Healing Debuff 1"
-        ],
-        "skill_types": [
-            "Debuffers (ATK)",
-            "Healing Reducers",
-            "Snipers",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-09-01",
         "specialId": "stunning_steel",
@@ -112063,16 +96095,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Masterful Balance",
-        "types": [
-            "Steals 1 Buff All or Hit All",
-            "Lifts 1 Ailment All or Hit All"
-        ],
-        "skill_types": [
-            "Minions Counters",
-            "Buff Stealers",
-            "AoE Attackers (Hit-5)",
-            "Cleansers"
-        ],
         "source": "Monthly Event - Lunar Year",
         "Release date": "2025-01-27",
         "specialId": "masterful_balance",
@@ -112131,19 +96153,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Freezing Power Hooks",
-        "types": [
-            "Hit 1",
-            "Steals random buff 1",
-            "Hit Random 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Extra Damage Dealers",
-            "Buff Stealers",
-            "Chain & Random Attackers",
-            "DoT Attackers",
-            "Minions Counters"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-10-02",
         "specialId": "freezing_power_hooks",
@@ -112206,21 +96215,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slayer",
         "skill": "Dispelling Willpower",
-        "types": [
-            "Dispeller All",
-            "Hit All",
-            "Self Mana Generation Stacks",
-            "Self HoT Stacks"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Dispellers",
-            "Healers (Special)",
-            "Stacking Heroes",
-            "Extra Damage Dealers",
-            "Mana Generation Buffers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "dispelling_willpower",
@@ -112286,22 +96280,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slayer",
         "skill": "Dispelling Judgement",
-        "types": [
-            "Dispeller All",
-            "Hit All",
-            "Mana Generation Stacks Self",
-            "HoT Stacks Self"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Mana Generation Buffers",
-            "Heal over Time (HoT)",
-            "Stacking Heroes",
-            "DoT Attackers",
-            "Healers (Special)"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2024-11-14",
         "specialId": "dispelling_judgement",
@@ -112372,17 +96350,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Sacrament of Salvation",
-        "types": [
-            "Health Boost 3",
-            "Defense Buff 3",
-            "Max Health Reduction Immunity 3"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Fiends Counters",
-            "Health Boosters",
-            "Immunity Providers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-10-01",
         "specialId": "sacrament_of_salvation",
@@ -112443,17 +96410,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Spell of Camaraderie",
-        "types": [
-            "Humility",
-            "Boosted Heal 3",
-            "Damage Reduction Buff Stack 3",
-            "Mana Generation Buff 3"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Damage Reducers",
-            "Mana Generation Buffers"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2026-02-20",
         "specialId": "spell_of_camaraderie",
@@ -112522,22 +96478,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Ballad of Passion",
-        "types": [
-            "Hit 3",
-            "Ballad of Passion 3",
-            "Blind 3  while dancing",
-            "Defense Debuff 3  while dancing",
-            "Buff Immunity 3  while dancing"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buff Blockers",
-            "Dancers",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)",
-            "Dispellers",
-            "Cleansers"
-        ],
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2023-11-30",
         "specialId": "ballad_of_passion",
@@ -112611,16 +96551,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Channeler of the Gods",
-        "types": [
-            "Healer All",
-            "Status Ailment Immunity All",
-            "Heal on attempted ailment"
-        ],
-        "skill_types": [
-            "Healers",
-            "Immunity Providers",
-            "Healers (Special)"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-10-27",
         "specialId": "channeler_of_the_gods",
@@ -112679,18 +96609,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Channeler of the Cats",
-        "types": [
-            "Healer All",
-            "Status Ailment Immunity All",
-            "Heal on attempted ailment"
-        ],
-        "skill_types": [
-            "Healers",
-            "Immunity Providers",
-            "Healers (Special)",
-            "Health Boosters",
-            "Cleansers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2024-04-29",
         "specialId": "channeler_of_the_cats",
@@ -112756,16 +96674,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Sword Dance",
-        "types": [
-            "Hit All",
-            "Dodge Chance Buff All",
-            "Damage attacker on dodge"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Dodgers",
-            "Counterattackers"
-        ],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2023-07-26",
         "specialId": "sword_dance",
@@ -112826,13 +96734,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Fusilier's Fury",
-        "types": [
-            "Hit All",
-            "Dodge Chance Buff All",
-            "Damage attacker on dodge",
-            "Boosted Heal Self"
-        ],
-        "skill_types": [],
         "source": "Alliance - The Brave & The Beautiful",
         "Release date": "2026-05-08",
         "specialId": "fusiliers_flurry",
@@ -112882,16 +96783,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Liturgy of the Fallen",
-        "types": [
-            "Reviver",
-            "HoT All",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Heal over Time (HoT)",
-            "Revivers"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2023-02-09",
         "specialId": "liturgy_of_the_fallen",
@@ -112951,12 +96842,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Desert Hunt",
-        "types": [
-            "Hit 1",
-            "Bypass",
-            "Defense Debuff 1"
-        ],
-        "skill_types": [],
         "source": "Titan Hunter Summon",
         "Release date": "2026-04-18",
         "specialId": "desert_hunt",
@@ -112998,7 +96883,23 @@ window.allHeroes =
             "health": 2885,
             "power": 1583
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Delilah",
@@ -113008,15 +96909,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Summon Temple Guardians",
-        "types": [
-            "Healer All",
-            "Summoner All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Mana Generation Buffers",
-            "Minions Summoners"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-03-01",
         "specialId": "summon_temple_guardians",
@@ -113069,16 +96961,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Summon Celestial Guardians",
-        "types": [
-            "Healer All",
-            "Summoner All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Mana Generation Buffers",
-            "Minions Summoners",
-            "Cleansers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-05-15",
         "specialId": "summon_celestial_guardians",
@@ -113137,19 +97019,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Arrows and Claws",
-        "types": [
-            "Hit 3",
-            "Summoner Self",
-            "Destroy Minions on Minion Hit",
-            "Dispeller 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Dispellers",
-            "Mana Raisers",
-            "Minions Counters",
-            "Minions Summoners"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-07-01",
         "specialId": "arrows_and_claws",
@@ -113216,16 +97085,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Director's Blessing",
-        "types": [
-            "Heal All",
-            "Summoner All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Healers",
-            "Minions Summoners"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "directors_blessing",
@@ -113283,16 +97142,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Clown's Blessing",
-        "types": [
-            "Heal All",
-            "Summoner All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Healers",
-            "Minions Summoners"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2025-08-08",
         "specialId": "clowns_blessing",
@@ -113356,21 +97205,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Yellow Signs",
-        "types": [
-            "Hit Random 3 on ally SS cast",
-            "Insanity 3",
-            "Attack Buff Stack All",
-            "Mana Generation Buff Stack All",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "Damage Reducers",
-            "Chain & Random Attackers",
-            "Buffers (ATK)",
-            "Mana Generation Buffers",
-            "Stacking Heroes",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2024-05-17",
         "specialId": "yellow_signs",
@@ -113436,16 +97270,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Flails of Fury",
-        "types": [
-            "Hit 3",
-            "Blind 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)",
-            "Buffers (ATK)",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-08-01",
         "specialId": "flails_of_fury",
@@ -113498,17 +97322,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Fabled Fist",
-        "types": [
-            "Hit 3",
-            "Blind 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)",
-            "Buffers (ATK)",
-            "Buffers (DEF)",
-            "Dispellers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-12-23",
         "specialId": "fabled_fist",
@@ -113567,15 +97380,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Ravaging Talons",
-        "types": [
-            "Minion Destroyer All",
-            "Hit All",
-            "Minion Immunity"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Minions Counters"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2022-01-05",
         "specialId": "ravaging_talons",
@@ -113633,21 +97437,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Savage Gobble",
-        "types": [
-            "Hit 1",
-            "Spreading Dot 1",
-            "Mimic Chest"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Minions Counters",
-            "Snipers",
-            "Mana Raisers",
-            "Immunity Providers",
-            "Ghost Form & Hiding",
-            "Bypassers",
-            "DoT Attackers"
-        ],
         "source": "Bazaar Summon",
         "Release date": "2025-10-17",
         "specialId": "savage_gobble_yellow",
@@ -113727,17 +97516,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Changing Tides",
         "skill": "Seabed Pirouette",
-        "types": [
-            "Minion Summoner All",
-            "Minion HP Buff Stack All",
-            "Fiend Replacement All"
-        ],
-        "skill_types": [
-            "Fiends Counters",
-            "Minions Boosters",
-            "Minions Summoners",
-            "Stacking Heroes"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "specialId": "seabed_pirouette",
@@ -113802,17 +97580,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Changing Tides",
         "skill": "Seabed Sissonne",
-        "types": [
-            "Minion Summoner All",
-            "Minion HP Buff Stack All",
-            "Fiend Replacement All"
-        ],
-        "skill_types": [
-            "Fiends Counters",
-            "Minions Boosters",
-            "Minions Summoners",
-            "Stacking Heroes"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-03-31",
         "specialId": "seabed_sissonne",
@@ -113882,14 +97649,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Deteriorating Morale",
-        "types": [
-            "Hit 3",
-            "Attack Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2023-01-02",
         "specialId": "deteriorating_morale",
@@ -113946,18 +97705,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Holy Aura",
-        "types": [
-            "Hit 1",
-            "Hit Random 5",
-            "Board Alterer"
-        ],
-        "skill_types": [
-            "Board Alterers",
-            "Debuffers (ATK)",
-            "Buffers (ATK)",
-            "Chain & Random Attackers",
-            "Extra Damage Dealers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2023-01-19",
         "specialId": "holy_aura",
@@ -114018,18 +97765,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Golden Aura",
-        "types": [
-            "Hit 1",
-            "Hit Random 5",
-            "Board Alterer"
-        ],
-        "skill_types": [
-            "Board Alterers",
-            "Debuffers (ATK)",
-            "Buffers (ATK)",
-            "Chain & Random Attackers",
-            "Extra Damage Dealers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2025-06-11",
         "specialId": "golden_aura",
@@ -114097,20 +97832,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Greedy Devour",
-        "types": [
-            "Minion Destroyer 1",
-            "Hit 1",
-            "Mimic Chest"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Minions Counters",
-            "Snipers",
-            "Mana Raisers",
-            "Immunity Providers",
-            "Ghost Form & Hiding",
-            "Bypassers"
-        ],
         "source": "Bazaar Summon",
         "Release date": "2025-05-31",
         "specialId": "mimic_training_hero_yellow_bite",
@@ -114186,18 +97907,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Revitalizing Orb",
-        "types": [
-            "Healer All",
-            "Healing Buff All",
-            "Mana Generation Buff Stack Self"
-        ],
-        "skill_types": [
-            "Healers",
-            "Healers (Special)",
-            "Mana Generation Buffers",
-            "Stacking Heroes",
-            "Buffers (ATK)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-12-01",
         "specialId": "revitalizing_orb",
@@ -114259,14 +97968,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Chakram Kick",
-        "types": [
-            "Hit 3",
-            "Mana Generation Debuff 1"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "chakram_kick",
@@ -114318,17 +98019,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Watchful Duty",
-        "types": [
-            "Hit All",
-            "Silence 1",
-            "Summoner All"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "AoE Attackers (Hit-5)",
-            "Silencers",
-            "Minions Summoners"
-        ],
         "source": "Monthly Event - Winter",
         "Release date": "2025-12-01",
         "specialId": "watchful_duty",
@@ -114392,15 +98082,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Esprit de Corps",
-        "types": [
-            "Hit 3",
-            "Guard Mega Minion"
-        ],
-        "skill_types": [
-            "Mega Minions Summoners",
-            "AoE Attackers (Hit-3)",
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "Goblin Summon",
         "Release date": "2024-08-04",
         "specialId": "esprit_de_corps",
@@ -114461,21 +98142,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Bark Of Protection",
-        "types": [
-            "Cleanser All",
-            "Defense Buff All",
-            "Ally Damage Share",
-            "Reflect Ailments All",
-            "Reflect Stacks All",
-            "HoT All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Damage Sharers",
-            "Heal over Time (HoT)",
-            "Reflectors",
-            "Buffers (DEF)"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "bark_of_protection",
@@ -114543,21 +98209,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Vigorous Aegis",
-        "types": [
-            "Taunt",
-            "Drop to 1 Damage Self",
-            "Hit Random 1 on Ally SS",
-            "Deep Sleep on Hit",
-            "Mana Generation Buff All"
-        ],
-        "skill_types": [
-            "Dodgers",
-            "Taunters",
-            "Damage Reducers",
-            "Sleepweavers",
-            "Chain & Random Attackers",
-            "Mana Generation Buffers"
-        ],
         "source": "Alliance - Moths",
         "Release date": "2025-10-13",
         "specialId": "vigorous_aegis",
@@ -114622,21 +98273,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Slow",
         "skill": "Spearwand Gale",
-        "types": [
-            "Hit All",
-            "Healer All",
-            "Counterattack All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Healers (Special)",
-            "Counterattackers",
-            "Extra Damage Dealers",
-            "Bypassers",
-            "DoT Attackers",
-            "Debuffers (DEF)",
-            "Minions Counters"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "specialId": "spearwand_gale",
@@ -114704,22 +98340,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Regal Spearhead",
-        "types": [
-            "Hit All",
-            "Boosted Heal All",
-            "Counterattack All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Healers (Special)",
-            "Health Boosters",
-            "Counterattackers",
-            "Extra Damage Dealers",
-            "Bypassers",
-            "DoT Attackers",
-            "Debuffers (DEF)",
-            "Minions Counters"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2026-02-18",
         "specialId": "regal_spearhead",
@@ -114790,18 +98410,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Purifying Light",
-        "types": [
-            "Safely Clean All",
-            "Enhanced Damage Dodge All",
-            "Delayed Heal All",
-            "Delayed Defense Buff All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Dodgers",
-            "Healers",
-            "Buffers (DEF)"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2024-12-07",
         "specialId": "purifying_light",
@@ -114868,18 +98476,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Divine Current",
-        "types": [
-            "Hit 1",
-            "Chain Attack",
-            "Blind on hit"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Chain & Random Attackers",
-            "Minions Counters",
-            "Debuffers (ATK)",
-            "Buffers (ATK)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2026-03-01",
         "specialId": "divine_current",
@@ -114945,16 +98541,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Slow",
         "skill": "Reckless Charge",
-        "types": [
-            "Hit 3",
-            "Bypass Chance",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buffers (DEF)",
-            "Bypassers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-03-01",
         "specialId": "reckless_charge",
@@ -115019,16 +98605,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Coins of Pain",
-        "types": [
-            "Greed 1",
-            "DoT All",
-            "Hit All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Status Effects Blockers"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-06-07",
         "specialId": "coins_of_pain",
@@ -115089,16 +98665,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Rejuvenating Elixir",
-        "types": [
-            "Defense Buff All",
-            "Delayed Heal All",
-            "Delayed Mana Boost All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Healers",
-            "Mana Raisers"
-        ],
         "source": "Monthly Event - Lunar Year",
         "Release date": "2024-02-08",
         "specialId": "rejuvenating_elixir",
@@ -115158,16 +98724,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Reviving Touch",
-        "types": [
-            "Attack Buff All",
-            "Mana Generation Buff All",
-            "Slime Revive"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Mana Generation Buffers",
-            "Revivers"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-01-20",
         "specialId": "reviving_touch",
@@ -115232,17 +98788,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Holy Hibiscus Ale",
-        "types": [
-            "Taunt",
-            "Boosted HoT All",
-            "Mana Generation Buff All"
-        ],
-        "skill_types": [
-            "Taunters",
-            "Health Boosters",
-            "Heal over Time (HoT)",
-            "Mana Generation Buffers"
-        ],
         "source": "Super Elementals",
         "Release date": "2024-04-22",
         "specialId": "holy_hibiscus_ale",
@@ -115306,21 +98851,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Slow",
         "skill": "Rain of Arrows",
-        "types": [
-            "Hit Random 9",
-            "Attack Stack Debuff on hit",
-            "Defense Stack Debuff on hit",
-            "Undispellable Buffs All",
-            "Undispellable Ailments All"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Stacking Heroes",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)",
-            "Immunity Providers",
-            "Cleanse Blockers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2024-02-22",
         "specialId": "rain_of_arrows",
@@ -115386,24 +98916,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Dance of Spirits",
-        "types": [
-            "Full Cleanser 4",
-            "Self HoT",
-            "Dance of Spirits 4",
-            "Attack Buff while Dancing",
-            "Damage Reduction while Dancing",
-            "Damage if caster Defeated while Dancing",
-            "Mana Reduction if caster Defeated while Dancing"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Cleansers",
-            "Damage Reducers",
-            "Dancers",
-            "Heal over Time (HoT)",
-            "Immunity Providers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "dance_of_spirits",
@@ -115467,22 +98979,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Bandalore Dance",
-        "types": [
-            "Full Cleanser 4",
-            "Healer All",
-            "Dance of Spirits 4",
-            "Attack Buff 4 while Dancing",
-            "Damage Reduction 4 while Dancing"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Cleansers",
-            "Damage Reducers",
-            "Dancers",
-            "Healers",
-            "Immunity Providers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2023-01-26",
         "specialId": "bandalore_dance",
@@ -115548,17 +99044,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Very Slow",
         "skill": "Stately Retribution",
-        "types": [
-            "Hit All",
-            "Defense Buff Self",
-            "HoT Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (DEF)",
-            "Extra Damage Dealers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "stately_retribution",
@@ -115618,16 +99103,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Unholy Power",
-        "types": [
-            "Hit All",
-            "Mana Debuffs Immunity All",
-            "Hit All Blood Lily mark"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Immunity Providers",
-            "Extra Damage Dealers"
-        ],
         "source": "Monthly Event - The Sanguine Feast",
         "Release date": "2025-10-08",
         "specialId": "unholy_power",
@@ -115689,16 +99164,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Word of the Queen",
-        "types": [
-            "Mana Reduction All",
-            "HoT 3",
-            "Elemental Defense Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Heal over Time (HoT)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "word_of_queen",
@@ -115757,17 +99222,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Word of the Skies",
-        "types": [
-            "Mana Reduction 3",
-            "Healer All",
-            "Elemental Reflect All",
-            "Elemental Counterattack All"
-        ],
-        "skill_types": [
-            "Healers",
-            "Mana Reducers or Blockers",
-            "Reflectors"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2023-04-20",
         "specialId": "word_of_skies",
@@ -115827,25 +99281,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Very Slow",
         "skill": "Essence of Queen Nitocris",
-        "types": [
-            "Cleanser 3",
-            "Healer 3",
-            "MoT 3",
-            "Insanity Nearby",
-            "Self Yag-Mago",
-            "Hit All",
-            "Insanity All",
-            "Reviver Random 1"
-        ],
-        "skill_types": [
-            "Ghost Form & Hiding",
-            "Cleansers",
-            "Healers",
-            "Mana Raisers",
-            "Negative Effects On Self Or Allies",
-            "AoE Attackers (Hit-5)",
-            "Revivers"
-        ],
         "source": "Shadow Summon",
         "Release date": "2025-07-29",
         "specialId": "essence_of_queen_nitocris",
@@ -115912,18 +99347,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "High Energy Field",
-        "types": [
-            "Hit All",
-            "DoT All",
-            "Increased DoT damage"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers",
-            "Minions Counters",
-            "DoT Attackers",
-            "Extra Damage Dealers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2024-07-12",
         "specialId": "high_energy_field",
@@ -115987,16 +99410,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Strike of a Thousand Howls",
-        "types": [
-            "Hit All",
-            "Counterattack All",
-            "Critical Chance Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (ATK)",
-            "Counterattackers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "strike_of_a_thousand_howls",
@@ -116056,18 +99469,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Unbroken Assault",
-        "types": [
-            "Hit 1",
-            "Hit Random",
-            "Destroys Minions on Hit",
-            "Lasting Counterattack Self"
-        ],
-        "skill_types": [
-            "Healing Reducers",
-            "Minions Counters",
-            "Chain & Random Attackers",
-            "Counterattackers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2025-07-06",
         "specialId": "unbroken_assault",
@@ -116131,16 +99532,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Dancing Dodge",
-        "types": [
-            "Dodge Chance Buff All",
-            "Health Boost on dodge",
-            "Max Health Reduction Immunity All"
-        ],
-        "skill_types": [
-            "Dodgers",
-            "Health Boosters",
-            "Immunity Providers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-12-01",
         "specialId": "dancing_dodge",
@@ -116201,21 +99592,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Star Trail",
-        "types": [
-            "Hit 1",
-            "Hit Random",
-            "Safe Dispel 1 Buff All",
-            "Defense Wither All"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "Ability Scores Modifiers",
-            "Snipers",
-            "Chain & Random Attackers",
-            "Dispellers",
-            "Minions Counters",
-            "Bypassers"
-        ],
         "source": "Astral Summon",
         "Release date": "2025-06-04",
         "specialId": "star_trail",
@@ -116283,20 +99659,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Drain Strike",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Buff immunity 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Buff Blockers",
-            "DoT Attackers",
-            "Healers (Special)",
-            "Health Boosters",
-            "Damage Reducers",
-            "Immunity Providers"
-        ],
         "source": "Challenge - Gargoyle",
         "Release date": "2024-06-13",
         "specialId": "drain_strike",
@@ -116357,14 +99719,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Charge",
         "skill": "Sensu of Immortality",
-        "types": [
-            "Charge",
-            "Healer All",
-            "Reviver",
-            "Boost Mana All",
-            "Cleanse Latest/All Ailment All"
-        ],
-        "skill_types": [],
         "source": "Tower - Ninjas",
         "Release date": "2026-05-03",
         "specialId": "sensu_of_immortality",
@@ -116426,14 +99780,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Very Fast",
         "skill": "Unrelenting Hunter",
-        "types": [
-            "Hit 3",
-            "Health Reduction over time 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Max Health Reducers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-05-19",
         "specialId": "unrelenting_hunter",
@@ -116491,14 +99837,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Very Fast",
         "skill": "Judgment of Sun",
-        "types": [
-            "Hit 3",
-            "Health Reduction over Time 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Max Health Reducers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2024-04-01",
         "specialId": "judgment_of_sun",
@@ -116563,17 +99901,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Very Fast",
         "skill": "Sickle Trouble",
-        "types": [
-            "Hit 2",
-            "Mana Reducer 2",
-            "Resonance DoT on hit"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Snipers",
-            "Mana Reducers or Blockers",
-            "DoT Attackers"
-        ],
         "source": "Astral Summon",
         "Release date": "2026-01-21",
         "specialId": "sickle_trouble",
@@ -116641,16 +99968,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Charge",
         "skill": "Kunai Assault",
-        "types": [
-            "Charge",
-            "Exploding Fiend Summoner 1/3/All"
-        ],
-        "skill_types": [
-            "Fiends Summoners",
-            "Snipers",
-            "DoT Attackers",
-            "Minions Counters"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2024-08-27",
         "specialId": "kunai_assault",
@@ -116712,20 +100029,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Very Fast",
         "skill": "Severed Seal",
-        "types": [
-            "Hit 1",
-            "Hit Random 2",
-            "Insanity on hit",
-            "Damage Increase Debuff Stack on hit",
-            "Self Insanity"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Mindless Attack & Mindless Heal",
-            "Debuffers (DEF)",
-            "Stacking Heroes",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2025-12-28",
         "specialId": "severed_seal",
@@ -116788,18 +100091,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Lucky Nine",
-        "types": [
-            "Hit All",
-            "Dodge Chance Buff All",
-            "Minion Summon on dodge",
-            "Mana Boost Minion each turn"
-        ],
-        "skill_types": [
-            "Dodgers",
-            "Mana Raisers",
-            "Minions Summoners",
-            "AoE Attackers (Hit-5)"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "lucky_nine",
@@ -116858,18 +100149,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Blinding Spell",
-        "types": [
-            "Hit All",
-            "Summoner 3",
-            "Mana Boost Minion each turn",
-            "Blind All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Mana Raisers",
-            "Minions Summoners"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2022-05-02",
         "specialId": "blinding_spell",
@@ -116934,19 +100213,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Iron Rocket Fist",
-        "types": [
-            "Hit 1",
-            "Hit Random 1",
-            "Self Heal on Kill",
-            "Self Mana Increase on Kill",
-            "Counterattack All"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Healers (Special)",
-            "Mana Raisers",
-            "Counterattackers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2025-09-14",
         "specialId": "iron_rocket_fist",
@@ -117017,18 +100283,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Chains of Light",
-        "types": [
-            "Hit 1",
-            "Hit All Dark",
-            "Mana Generation Debuff All"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "Mana Reducers or Blockers",
-            "Snipers",
-            "Chain & Random Attackers",
-            "Extra Damage Dealers"
-        ],
         "source": "Super Elementals",
         "Release date": "2023-12-04",
         "specialId": "chains_of_light",
@@ -117094,18 +100348,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Very Fast",
         "skill": "Stupendous Break In",
-        "types": [
-            "Buff Stealer 1",
-            "Mana Stealer 1",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "Buff Stealers",
-            "Buffers (ATK)",
-            "Mana Generation Buffers",
-            "Mana Raisers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-08-01",
         "specialId": "stupendous_break_in",
@@ -117170,18 +100412,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "The Two Sides of the Moon",
-        "types": [
-            "Hit 1",
-            "Defense debuff",
-            "Hit Random 1",
-            "Mana generation debuff"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Debuffers (DEF)",
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-07-13",
         "specialId": "the_two_sides_of_the_moon",
@@ -117241,17 +100471,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Petals of Nourishment",
-        "types": [
-            "HoT All",
-            "Attack Buff All",
-            "Critical Chance Buff All",
-            "Mana Generation Debuff Self"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Heal over Time (HoT)",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Monthly Event - Springvale",
         "Release date": "2023-03-27",
         "specialId": "petals_of_nourishment",
@@ -117311,17 +100530,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Dreams of Nourishment",
-        "types": [
-            "HoT All",
-            "Attack Buff All",
-            "Critical Chance Buff All",
-            "Mana Generation Debuff Self"
-        ],
-        "skill_types": [
-            "Heal over Time (HoT)",
-            "Buffers (ATK)",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Monthly Event - Springvale",
         "Release date": "2024-03-18",
         "specialId": "dreams_of_nourishment",
@@ -117387,19 +100595,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Very Fast",
         "skill": "Archaic Sacred Symbol",
-        "types": [
-            "Hit All",
-            "Blind All Dark",
-            "Defense Debuff All Ice",
-            "Mana Generation Debuff All Nature",
-            "Attack Debuff All Fire"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Mana Reducers or Blockers",
-            "Debuffers (DEF)"
-        ],
         "source": "Super Elementals",
         "Release date": "2022-10-10",
         "specialId": "archaic_sacred_symbol",
@@ -117465,16 +100660,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Very Fast",
         "skill": "Golden Sacred Symbol",
-        "types": [
-            "Hit All",
-            "Elemental"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-06-20",
         "specialId": "golden_sacred_symbol",
@@ -117545,14 +100730,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Solar Beam",
-        "types": [
-            "Hit 1",
-            "Blind 1"
-        ],
-        "skill_types": [
-            "Debuffers (ATK)",
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "solar_beam",
@@ -117604,14 +100781,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Solar Strike",
-        "types": [
-            "Hit 1",
-            "Blind 1"
-        ],
-        "skill_types": [
-            "Debuffers (ATK)",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "solar_strike",
@@ -117665,16 +100834,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Stellar Beam",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Blind 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)",
-            "DoT Attackers"
-        ],
         "source": "Costume Quest",
         "Release date": "2022-12-26",
         "specialId": "stellar_beam",
@@ -117731,15 +100890,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Toon Beam",
-        "types": [
-            "Hit 1",
-            "Blind 1"
-        ],
-        "skill_types": [
-            "Debuffers (ATK)",
-            "Extra Damage Dealers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-02-12",
         "specialId": "adorable_beam",
@@ -117803,16 +100953,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Glass Beam",
-        "types": [
-            "Hit 1",
-            "Bypass",
-            "Blind 1"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Debuffers (ATK)",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-04-08",
         "specialId": "glass_beam",
@@ -117876,11 +101016,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Stylish Beam",
-        "types": [
-            "Hit 1",
-            "Blind 1"
-        ],
-        "skill_types": [],
         "source": "Costume Quest",
         "Release date": "2026-04-10",
         "specialId": "stylish_beam",
@@ -117918,7 +101053,23 @@ window.allHeroes =
             "health": 3169,
             "power": 1613
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Jove",
@@ -117928,16 +101079,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Strike From the Skies",
-        "types": [
-            "Hit All",
-            "Boosted Healing Debuff All",
-            "Mana Gain Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Healing Reducers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Challenge - Carnival of Gods",
         "Release date": "2022-11-22",
         "specialId": "strike_from_the_skies",
@@ -117995,14 +101136,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Rite of Judgement",
-        "types": [
-            "Hit All",
-            "Blind All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "rite_of_judgement",
@@ -118059,15 +101192,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Day of Judgement",
-        "types": [
-            "Hit All",
-            "Self Mana Gen Buff"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Mana Generation Buffers"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "day_of_judgement",
@@ -118127,15 +101251,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Ritual of Judgement",
-        "types": [
-            "Hit All",
-            "Blind All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-02-20",
         "specialId": "ritual_of_judgement",
@@ -118195,15 +101310,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Toon of Judgment",
-        "types": [
-            "Hit All",
-            "Blind All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Extra Damage Dealers"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-06-28",
         "specialId": "rite_of_cuteness",
@@ -118267,16 +101373,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Glass Judgement",
-        "types": [
-            "Hit All",
-            "Bypass",
-            "Blind All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Bypassers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-08-10",
         "specialId": "rite_of_glass",
@@ -118340,16 +101436,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Viscous Shield",
-        "types": [
-            "Hit All",
-            "Taunt",
-            "Slime Revive Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Taunters",
-            "Revivers"
-        ],
         "source": "Super Elementals",
         "Release date": "2026-03-17",
         "specialId": "viscous_shield_justico",
@@ -118410,16 +101496,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Shieldmaiden's Protection",
-        "types": [
-            "Taunt",
-            "SS Defense Buff Self",
-            "Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Buffers (DEF)",
-            "Taunters"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-05-01",
         "specialId": "shieldmaidens_protection",
@@ -118476,15 +101552,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Heirloom Dagger",
-        "types": [
-            "Hit 1",
-            "Hit Random 1",
-            "Mindless Attack on hit"
-        ],
-        "skill_types": [
-            "Mindless Attack & Mindless Heal",
-            "Chain & Random Attackers"
-        ],
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "heirloom_dagger",
@@ -118542,15 +101609,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Cunning Knife",
-        "types": [
-            "Hit 1",
-            "Hit Random 1",
-            "Mindless Attack on hit"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Mindless Attack & Mindless Heal"
-        ],
         "source": "Monthly Event - Kalevala",
         "Release date": "2023-08-07",
         "specialId": "cunning_knife",
@@ -118610,18 +101668,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Charge",
         "skill": "Tumbling Dragon",
-        "types": [
-            "Charge",
-            "Hit 1",
-            "Hide Self",
-            "Mindless Attack 1"
-        ],
-        "skill_types": [
-            "Damage Reducers",
-            "Ghost Form & Hiding",
-            "Mindless Attack & Mindless Heal",
-            "Snipers"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2023-05-31",
         "specialId": "tumbling_dragon",
@@ -118700,21 +101746,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Minion Scrutiny",
-        "types": [
-            "Minion Destroyer All",
-            "Hit All",
-            "Mana Boost All",
-            "Mana Debuffs Immunity All",
-            "Mana Increase if Resist All",
-            "Devouring Goo Debuff All"
-        ],
-        "skill_types": [
-            "Minions Counters",
-            "AoE Attackers (Hit-5)",
-            "Mana Raisers",
-            "Dispellers",
-            "Status Effects Blockers"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-10-27",
         "specialId": "minion_scrutiny",
@@ -118788,18 +101819,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Slow",
         "skill": "Two-step Swing",
-        "types": [
-            "Safely Cleanser All",
-            "Hit All",
-            "Delayed Damage All"
-        ],
-        "skill_types": [
-            "Status Effect Conversion",
-            "Cleansers",
-            "AoE Attackers (Hit-5)",
-            "Minions Counters",
-            "Chain & Random Attackers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2025-07-05",
         "specialId": "twostep_swing",
@@ -118872,15 +101891,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Fierce Fu Jow Pai",
-        "types": [
-            "Hit 1",
-            "Health Boost Self"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Minions Counters",
-            "Snipers"
-        ],
         "source": "Monthly Event - Lunar Year",
         "Release date": "2023-01-19",
         "specialId": "fierce_fu_jow_pai",
@@ -118936,17 +101946,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Lucky Fu Jow Pai",
-        "types": [
-            "Hit 1",
-            "Self Health Boost",
-            "Attack Buff All while Boosted Health"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Minions Counters",
-            "Snipers",
-            "Buffers (ATK)"
-        ],
         "source": "Monthly Event - Lunar Year",
         "Release date": "2026-02-17",
         "specialId": "lucky_fu_jow_pai",
@@ -119010,18 +102009,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Home Run",
-        "types": [
-            "Safely Clean All",
-            "Hit All",
-            "Healing Decrease All",
-            "Cleanse Immunity All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "AoE Attackers (Hit-5)",
-            "Healing Reducers",
-            "Cleanse Blockers"
-        ],
         "source": "Legends Summon",
         "Release date": "2024-03-08",
         "specialId": "home_run",
@@ -119085,19 +102072,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Wandering Star Shot",
-        "types": [
-            "Hit 1",
-            "Chain Hit",
-            "Mana Reduction on Hit"
-        ],
-        "skill_types": [
-            "Damage Sharers",
-            "Snipers",
-            "Mana Reducers or Blockers",
-            "Chain & Random Attackers",
-            "Bypassers",
-            "Damage Sharers"
-        ],
         "source": "Astral Summon",
         "Release date": "2024-03-07",
         "specialId": "wandering_star_shot",
@@ -119158,16 +102132,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Spartan Cleave",
-        "types": [
-            "Hit 1",
-            "Mana Reduction 1",
-            "Self Heal"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "spartan_cleave",
@@ -119221,16 +102185,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Spartan Charge",
-        "types": [
-            "Hit 3",
-            "Elemental Defense Debuff 3",
-            "Attack Debuff All Dark"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)",
-            "Debuffers (DEF)"
-        ],
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "roman_cleave",
@@ -119286,16 +102240,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Spartan Slash",
-        "types": [
-            "Hit All",
-            "Mana Reduction All",
-            "Defense Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers",
-            "Debuffers (DEF)"
-        ],
         "source": "Costume Quest",
         "Release date": "2022-12-26",
         "specialId": "spartan_slash",
@@ -119355,17 +102299,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Toon Cleave",
-        "types": [
-            "Hit 1",
-            "Mana reducer 1",
-            "Self heal"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "Healers (Special)",
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-12-25",
         "specialId": "toon_cleave",
@@ -119427,18 +102360,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Glass Cleave",
-        "types": [
-            "Hit 1",
-            "Bypass",
-            "Mana reducer 1",
-            "Self Heal"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Healers (Special)",
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "Costume Quest",
         "Release date": "2025-02-11",
         "specialId": "glass_cleave",
@@ -119503,17 +102424,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Stylish Cleave",
-        "types": [
-            "Hit 1",
-            "Mana Reducer 1",
-            "Self Heal"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Extra Damage Dealers",
-            "Healers (Special)",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Costume Quest",
         "Release date": "2026-02-14",
         "specialId": "stylish_cleave",
@@ -119575,19 +102485,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Rites of Inner Knowledge",
-        "types": [
-            "Lifts Debuffs 3",
-            "SS Damage Reduction Moonrise Ward 3",
-            "HoT 3",
-            "Reflect Ailments 3",
-            "Reflect Stacks 3"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Damage Reducers",
-            "Heal over Time (HoT)",
-            "Reflectors"
-        ],
         "source": "Tower - Owls",
         "Release date": "2024-02-14",
         "specialId": "rites_of_inner_knowledge",
@@ -119652,18 +102549,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Very Fast",
         "skill": "Rushed Melody",
-        "types": [
-            "Hit 1",
-            "Bypass",
-            "Self Power Boost",
-            "Self Dodge"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Bypassers",
-            "Extra Damage Dealers",
-            "Dodgers"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2025-10-06",
         "specialId": "rushed_melody",
@@ -119727,19 +102612,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Wild Cleave",
-        "types": [
-            "Hit All",
-            "DoT All",
-            "Healing Debuff All",
-            "Blind All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Healing Reducers"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2022-08-25",
         "specialId": "wild_cleave",
@@ -119808,15 +102680,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Very Fast",
         "skill": "Power Punch",
-        "types": [
-            "Hit 1",
-            "Block Status Effects Cast 1"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Snipers",
-            "Status Effects Blockers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-04-01",
         "specialId": "power_punch",
@@ -119873,15 +102736,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Muffin Poisoning",
-        "types": [
-            "DoT All",
-            "Fiend Summoner All"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Fiends Summoners"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "2022-10-03",
         "specialId": "muffin_poisoning",
@@ -119948,17 +102802,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Bounty of the Spring",
-        "types": [
-            "Attack Growth All",
-            "Defense Growth All",
-            "Summoner All",
-            "Mana Generation Buff Minion"
-        ],
-        "skill_types": [
-            "Ability Scores Modifiers",
-            "Mana Generation Buffers",
-            "Minions Summoners"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-05-01",
         "specialId": "bounty_of_the_spring",
@@ -120021,18 +102864,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Deceptive Smalltalk",
-        "types": [
-            "Healer All",
-            "Lifts Latest Ailment All",
-            "Force Uncleanable Ailments",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Cleanse Blockers",
-            "Healers",
-            "Buffers (DEF)"
-        ],
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-03-21",
         "specialId": "deceptive_smalltalk",
@@ -120102,15 +102933,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Moonlight Crescendo",
-        "types": [
-            "Boosts Health All",
-            "Ailments Immunity All"
-        ],
-        "skill_types": [
-            "Damage Sharers",
-            "Health Boosters",
-            "Immunity Providers"
-        ],
         "source": "Astral Summon",
         "Release date": "2024-09-16",
         "specialId": "moonlight_crescendo",
@@ -120168,16 +102990,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Impossible Riddle",
-        "types": [
-            "Hit All",
-            "Mana Reduction All",
-            "Mana Generation Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers",
-            "Extra Damage Dealers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2023-04-13",
         "specialId": "impossible_riddle",
@@ -120243,16 +103055,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Impossible Groove",
-        "types": [
-            "Hit All",
-            "Mana Reduction All",
-            "Mana Generation Debuff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Extra Damage Dealers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "S5 - Dune",
         "Release date": "2024-06-24",
         "specialId": "impossible_groove",
@@ -120325,17 +103127,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Charge",
         "skill": "Connect Ki",
-        "types": [
-            "Charge",
-            "Ally Damage Share",
-            "Defense Buff All",
-            "Mana Generation Buff All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Damage Sharers",
-            "Mana Generation Buffers"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "specialId": "connect_ki",
@@ -120394,19 +103185,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Astral Summon",
-        "types": [
-            "Summoner All",
-            "Mana Generation Buff Minion",
-            "Damage Reduction All",
-            "Attack Buff All against boosted HP"
-        ],
-        "skill_types": [
-            "Damage Sharers",
-            "Minions Summoners",
-            "Mana Generation Buffers",
-            "Damage Reducers",
-            "Extra Damage Dealers"
-        ],
         "source": "Astral Summon",
         "Release date": "2024-07-10",
         "specialId": "astral_summon",
@@ -120467,21 +103245,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Magic",
         "skill": "Butterfly Swarm",
-        "types": [
-            "Charge",
-            "Minion Summoner All",
-            "Damage Increasing Minion Hit",
-            "Fiend Summoner All",
-            "Accuracy Debuff Fiend"
-        ],
-        "skill_types": [
-            "Debuffers (ATK)",
-            "Extra Damage Dealers",
-            "Fiends Summoners",
-            "Minions Summoners",
-            "DoT Attackers",
-            "Healers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "butterfly_swarm",
@@ -120546,17 +103309,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Mending Stitches",
-        "types": [
-            "Reviver All",
-            "Boosted HoT All",
-            "Special Skill Defense Debuff All"
-        ],
-        "skill_types": [
-            "Revivers",
-            "Heal over Time (HoT)",
-            "Health Boosters",
-            "Debuffers (DEF)"
-        ],
         "source": "Monthly Event - Kalevala",
         "Release date": "2025-07-28",
         "specialId": "mending_stitches",
@@ -120615,19 +103367,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Stalwart Rally",
-        "types": [
-            "Frostfall Ward Buff All",
-            "Bypass All",
-            "Attack Buff All",
-            "Critical Chance All"
-        ],
-        "skill_types": [
-            "Damage Reducers",
-            "Bypassers",
-            "Buffers (ATK)",
-            "DoT Attackers",
-            "Debuffers (ATK)"
-        ],
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-08-06",
         "specialId": "stalwart_rally",
@@ -120687,16 +103426,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Fast",
         "skill": "Dragon Fang",
-        "types": [
-            "Hit 3",
-            "Heal Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Healers (Special)",
-            "Buffers (ATK)",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-09-01",
         "specialId": "dragon_fang",
@@ -120749,17 +103478,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Rod of Freedom",
-        "types": [
-            "Hit 3",
-            "Heal Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Healers (Special)",
-            "Dispellers",
-            "Buffers (ATK)",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-10-02",
         "specialId": "rod_of_freedom",
@@ -120818,17 +103536,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Sickle of Eradication",
-        "types": [
-            "Hit All",
-            "Mana Reduction All",
-            "Blind All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)",
-            "Mana Generation Buffers",
-            "Mana Reducers or Blockers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-11-01",
         "specialId": "sickle_of_eradication",
@@ -120891,17 +103598,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Styx",
         "skill": "Day of Reckoning",
-        "types": [
-            "Charge",
-            "Hit 1",
-            "Damage All on each enemy mana increase",
-            "Buff Immunity All with replacing"
-        ],
-        "skill_types": [
-            "Buff Blockers",
-            "Mana Reducers or Blockers",
-            "Snipers"
-        ],
         "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "specialId": "day_of_reckoning",
@@ -120974,16 +103670,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Rush of Flame",
-        "types": [
-            "Hit 3",
-            "Counterattack 3",
-            "Burning Touch DoT on counterattack"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Counterattackers",
-            "DoT Attackers"
-        ],
         "source": "Challenge - Beowulf",
         "Release date": "2025-05-18",
         "specialId": "rush_of_flame",
@@ -121050,13 +103736,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Twist of Fate",
-        "types": [
-            "Hit 3",
-            "Weaker Defense 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2020-03-26",
         "specialId": "twist_of_fate",
@@ -121108,13 +103787,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Wrath of Fate",
-        "types": [
-            "Hit 3",
-            "Weaker Defense 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2023-08-28",
         "specialId": "wrath_of_fate",
@@ -121168,11 +103840,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Twist of Toon Fate",
-        "types": [
-            "Hit 3",
-            "Weaker Defense 3"
-        ],
-        "skill_types": [],
         "source": "S3 - Valhalla",
         "Release date": "2026-04-29",
         "specialId": "twist_of_toon_fate",
@@ -121220,15 +103887,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Fast",
         "skill": "Fury of Grimnir",
-        "types": [
-            "Hit All",
-            "Mana Generation Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Generation Buffers",
-            "Extra Damage Dealers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2020-11-26",
         "specialId": "fury_of_grimnir",
@@ -121286,15 +103944,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Rage of Grimnir",
-        "types": [
-            "Hit All",
-            "Mana Generation Buff All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Generation Buffers",
-            "Extra Damage Dealers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2023-03-13",
         "specialId": "rage_of_grimnir",
@@ -121354,17 +104003,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Rhythm of Havoc",
-        "types": [
-            "Minion Destroyer All",
-            "Hit All",
-            "Mana Generation Stack All on minion destroyed"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers",
-            "Minions Counters",
-            "Stacking Heroes"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2022-12-01",
         "specialId": "rhythm_of_havoc",
@@ -121428,16 +104066,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Eye of the Prophet",
-        "types": [
-            "Hit 3",
-            "Mana Steal 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Mana Raisers",
-            "Mana Reducers or Blockers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-01-01",
         "specialId": "mana_stealer",
@@ -121494,18 +104122,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Slow",
         "skill": "Teargas Roulette",
-        "types": [
-            "Hit 1",
-            "Hit Random 5",
-            "Summon Seedling Fiend to hit enemies",
-            "Blind to hit enemies"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Chain & Random Attackers",
-            "Fiends Summoners",
-            "Debuffers (ATK)"
-        ],
         "source": "Challenge - Vigilant Vegetables Summon",
         "Release date": "2026-03-06",
         "specialId": "teargas_roulette",
@@ -121579,15 +104195,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Average",
         "skill": "Summon Sand Golems",
-        "types": [
-            "Summoner All",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "DoT Attackers",
-            "Minions Summoners"
-        ],
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "summon_sand_golems",
@@ -121656,17 +104263,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Command Sand Golems",
-        "types": [
-            "Summoner All",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "DoT Attackers",
-            "Mana Raisers",
-            "Health Boosters",
-            "Minions Summoners"
-        ],
         "source": "S5 - Dune",
         "Release date": "2024-10-05",
         "specialId": "command_sand_golems",
@@ -121742,17 +104338,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Radiant Rapid-Fire",
-        "types": [
-            "Hit All",
-            "Healing Debuff All"
-        ],
-        "skill_types": [
-            "Fiends Counters",
-            "Healing Reducers",
-            "Minions Counters",
-            "AoE Attackers (Hit-5)",
-            "Damage Reducers"
-        ],
         "source": "Challenge - Gargoyle",
         "Release date": "2021-11-24",
         "specialId": "radiant_rapid_fire",
@@ -121814,20 +104399,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Changing Tides",
         "skill": "Ocean's Ruin",
-        "types": [
-            "Buff Stealer 1",
-            "Hit 1",
-            "Spreading DoT  1",
-            "Mana Generation Debuff DoT"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Buff Stealers",
-            "DoT Attackers",
-            "Mana Reducers or Blockers",
-            "Extra Damage Dealers",
-            "Minions Counters"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-10-25",
         "specialId": "oceans_ruin",
@@ -121899,20 +104470,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Changing Tides",
         "skill": "Ocean's Decay",
-        "types": [
-            "Buff Stealer 1",
-            "Hit 1",
-            "Spreading DoT 1",
-            "Mana Generation Debuff DoT"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Buff Stealers",
-            "DoT Attackers",
-            "Mana Reducers or Blockers",
-            "Extra Damage Dealers",
-            "Minions Counters"
-        ],
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-01-09",
         "specialId": "oceans_decay",
@@ -121989,19 +104546,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Vengeance of Owlhalla",
-        "types": [
-            "Hit 3",
-            "Summoner 3"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "Cleansers",
-            "Stacking Heroes",
-            "AoE Attackers (Hit-3)",
-            "Minions Summoners",
-            "Dispellers",
-            "Ghost Form & Hiding"
-        ],
         "source": "Tower - Owls",
         "Release date": "2025-02-05",
         "specialId": "vengeance_of_owlhalla",
@@ -122067,17 +104611,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Enchanting Melody",
-        "types": [
-            "Hit 3",
-            "Enhanced Defense Ailment 3",
-            "Sleep 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)",
-            "Sleepweavers",
-            "Minions Counters"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2025-04-18",
         "specialId": "enchanting_melody",
@@ -122145,15 +104678,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Ruler of Seas",
-        "types": [
-            "Hit 1",
-            "Mana Debuff Immunity All",
-            "SS Block Immunity All"
-        ],
-        "skill_types": [
-            "Immunity Providers",
-            "Snipers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "",
         "specialId": "ruler_of_seas",
@@ -122206,14 +104730,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Tidal Slayer",
-        "types": [
-            "Hit 1",
-            "Status Ailments Immunity All"
-        ],
-        "skill_types": [
-            "Immunity Providers",
-            "Snipers"
-        ],
         "source": "S2 - Atlantis",
         "Release date": "2021-11-15",
         "specialId": "oceanic_slayer",
@@ -122267,12 +104783,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Toon of the Seas",
-        "types": [
-            "Hit 1",
-            "Mana Debuff Immunity All",
-            "SS Block Immunity All"
-        ],
-        "skill_types": [],
         "source": "S2 - Atlantis",
         "Release date": "2026-04-29",
         "specialId": "toon_of_the_seas",
@@ -122321,23 +104831,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Staff of Domination",
-        "types": [
-            "Fear Debuff All",
-            "Attack Wither All",
-            "Hit All",
-            "Insanity All",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "Dispellers",
-            "Buff Blockers",
-            "Extra Damage Dealers",
-            "Ability Scores Modifiers",
-            "AoE Attackers (Hit-5)",
-            "Mindless Attack & Mindless Heal",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2026-03-22",
         "specialId": "staff_of_domination",
@@ -122410,16 +104903,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Glorious Grace",
-        "types": [
-            "Cleanser All",
-            "Health Boost All",
-            "Boosted HoT All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Health Boosters",
-            "Heal over Time (HoT)"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "glorious_grace",
@@ -122477,16 +104960,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Dazzling Gleam",
-        "types": [
-            "Cleanser All",
-            "Boosted Heal All",
-            "Boosted HoT All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "Health Boosters",
-            "Heal over Time (HoT)"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2023-04-27",
         "specialId": "dazzling_gleam",
@@ -122549,16 +105022,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "The Queen's Radiance",
-        "types": [
-            "Hit All",
-            "Mana Increase All on enemy SS",
-            "Vengeance Self",
-            "Damage All on dispel Vengeance"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Mana Raisers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2023-02-27",
         "specialId": "the_queens_radiance",
@@ -122617,18 +105080,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Sand Storm",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Healing Debuff 3",
-            "Self Clean"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Cleansers",
-            "DoT Attackers",
-            "Healing Reducers"
-        ],
         "source": "Monthly Event - Beach Party",
         "Release date": "",
         "specialId": "queens_curse",
@@ -122685,18 +105136,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Surf's Up",
-        "types": [
-            "Hit 3",
-            "DoT 3",
-            "Healing Debuff 3",
-            "Cleanser 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Cleansers",
-            "DoT Attackers",
-            "Healing Reducers"
-        ],
         "source": "Monthly Event - Beach Party",
         "Release date": "2021-06-21",
         "specialId": "sand_wave_rana",
@@ -122755,16 +105194,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Mystic's Virtue",
-        "types": [
-            "Hit 1",
-            "Titan Attack Buff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Negative Effects On Self Or Allies",
-            "Snipers",
-            "Buffers (DEF)"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-06-01",
         "specialId": "mystics_virtue",
@@ -122826,13 +105255,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Princess Unleashed",
-        "types": [
-            "Rat Princess Mega Minion"
-        ],
-        "skill_types": [
-            "Mega Minions Summoners",
-            "Extra Damage Dealers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2025-09-16",
         "specialId": "princess_unleashed",
@@ -122886,20 +105308,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Hymn of Enrichment",
-        "types": [
-            "Health Boost All",
-            "Board Alterer",
-            "Attack Buff All",
-            "Cleanse All"
-        ],
-        "skill_types": [
-            "Board Alterers",
-            "Mana Generation Buffers",
-            "Mana Reducers or Blockers",
-            "Buffers (ATK)",
-            "Cleansers",
-            "Health Boosters"
-        ],
         "source": "Challenge Festival II",
         "Release date": "2022-08-11",
         "specialId": "hymn_of_enrichment",
@@ -122967,16 +105375,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Average",
         "skill": "Sand Cyclone",
-        "types": [
-            "DoT All",
-            "Healing Debuff All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Cleansers",
-            "DoT Attackers",
-            "Healing Reducers"
-        ],
         "source": "Monthly Event - Beach Party",
         "Release date": "",
         "specialId": "sand_cyclone",
@@ -123031,16 +105429,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Beach Party",
-        "types": [
-            "DoT All",
-            "Defense Debuff All",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "Dispellers",
-            "DoT Attackers"
-        ],
         "source": "Monthly Event - Beach Party",
         "Release date": "2022-05-16",
         "specialId": "beach_party",
@@ -123101,18 +105489,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "A Moment of Joy",
-        "types": [
-            "Healer All",
-            "Damage Reduction Buff Stack All",
-            "Guard Mega Minion Self"
-        ],
-        "skill_types": [
-            "Healers",
-            "Stacking Heroes",
-            "Damage Reducers",
-            "Mega Minions Summoners",
-            "Cleansers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2024-10-27",
         "specialId": "a_moment_of_joy",
@@ -123177,18 +105553,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Fast",
         "skill": "Perilous Waters",
-        "types": [
-            "Chance of Critical hits",
-            "Dispeller 2 buffs All",
-            "Hit All",
-            "DoT 1"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Dispellers",
-            "DoT Attackers",
-            "Extra Damage Dealers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2025-05-22",
         "specialId": "perilous_waters",
@@ -123260,19 +105624,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Double-barreled Starstick",
-        "types": [
-            "Hit 1",
-            "Silence 1",
-            "Hit Random 1",
-            "Increased Received Damage 1"
-        ],
-        "skill_types": [
-            "Bypassers",
-            "Chain & Random Attackers",
-            "Minions Counters",
-            "Silencers",
-            "Extra Damage Dealers"
-        ],
         "source": "Astral Summon",
         "Release date": "2024-12-22",
         "specialId": "doublebarreled_starstick",
@@ -123336,20 +105687,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Toxic Incense",
-        "types": [
-            "Dispeller 3",
-            "Hit 3",
-            "DoT 3",
-            "Self HoT"
-        ],
-        "skill_types": [
-            "Dispellers",
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Heal over Time (HoT)",
-            "Dodgers",
-            "Minions Counters"
-        ],
         "source": "Alliance - Moths",
         "Release date": "2025-01-23",
         "specialId": "toxic_incense",
@@ -123419,16 +105756,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Fast",
         "skill": "Greeting of the Sun",
-        "types": [
-            "Max Health Reduction 1",
-            "Silence 1",
-            "Attack Growth 2"
-        ],
-        "skill_types": [
-            "Max Health Reducers",
-            "Silencers",
-            "Ability Scores Modifiers"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2026-03-04",
         "specialId": "greeting_of_the_sun",
@@ -123495,17 +105822,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Boar of Fury",
-        "types": [
-            "Hit All",
-            "Attack Wither All",
-            "Counterattack White Boar Mega Minion"
-        ],
-        "skill_types": [
-            "Mega Minions Summoners",
-            "AoE Attackers (Hit-5)",
-            "Ability Scores Modifiers",
-            "Counterattackers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2024-04-15",
         "specialId": "boar_of_fury",
@@ -123575,18 +105891,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Reversed Lifeforce",
-        "types": [
-            "Hit All",
-            "Healer All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Cleansers",
-            "Healers (Special)",
-            "Damage Reducers",
-            "Health Boosters"
-        ],
         "source": "Covenant Summon",
         "Release date": "2023-12-08",
         "specialId": "reversed_lifeforce",
@@ -123654,20 +105958,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Skyfall Crumble",
-        "types": [
-            "Hit 1",
-            "Hit random 2",
-            "Increased Damage Debuff to hit targets",
-            "DoT to hit targets"
-        ],
-        "skill_types": [
-            "Minions Counters",
-            "Snipers",
-            "Chain & Random Attackers",
-            "DoT Attackers",
-            "Extra Damage Dealers",
-            "Status Effect Conversion"
-        ],
         "source": "Tower - Magic",
         "Release date": "2025-11-03",
         "specialId": "skyfall_crumble",
@@ -123743,16 +106033,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Rude Awakening",
-        "types": [
-            "Hit 3",
-            "Sword Guard Mega Minion",
-            "Spreading DoT Minion"
-        ],
-        "skill_types": [
-            "Mega Minions Summoners",
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers"
-        ],
         "source": "Goblin Summon",
         "Release date": "2024-04-15",
         "specialId": "rude_awakening",
@@ -123817,17 +106097,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Gold Weaver",
-        "types": [
-            "Counterattack 3",
-            "Damage Reduction Buff 3",
-            "Mana Generation Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Counterattackers",
-            "Damage Reducers",
-            "Mana Generation Buffers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "",
         "specialId": "gold_weaver",
@@ -123877,17 +106146,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Golden Strings",
-        "types": [
-            "Boost Mana 3",
-            "Counterattack 3",
-            "Damage Reduction Buff 3"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Counterattackers",
-            "Damage Reducers",
-            "Mana Raisers"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2022-08-29",
         "specialId": "golden_thread",
@@ -123939,17 +106197,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Greed And Bribery",
-        "types": [
-            "Steals Mega/Minions",
-            "Lasting Greed 1",
-            "DoT All"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Minions Counters",
-            "Status Effects Blockers",
-            "Healing Reducers"
-        ],
         "source": "Covenant Summon",
         "Release date": "2025-01-11",
         "specialId": "greed_and_bribery",
@@ -124012,15 +106259,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Luminous Lance",
-        "types": [
-            "Hit 1",
-            "Chain Hit",
-            "Defense Debuff Self"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Monthly Event - Springvale",
         "Release date": "",
         "specialId": "luminous_lance",
@@ -124074,12 +106312,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Alchemist's Lance",
-        "types": [
-            "Hit 1",
-            "Chain Hit",
-            "Defense Debuff Self"
-        ],
-        "skill_types": [],
         "source": "Monthly Event - Springvale",
         "Release date": "2026-03-30",
         "specialId": "alchemist_lance",
@@ -124118,7 +106350,24 @@ window.allHeroes =
             "health": 2914,
             "power": 1563
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Atk - Chain"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Sludgus",
@@ -124128,17 +106377,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Dance of the Slimy",
-        "types": [
-            "Healer All",
-            "Dance of the Slimy All",
-            "Dodge Chance Buff while dancing",
-            "Status Effect Immunity while dancing"
-        ],
-        "skill_types": [
-            "Dancers",
-            "Healers",
-            "Dodgers"
-        ],
         "source": "Super Elementals",
         "Release date": "2024-09-04",
         "specialId": "dance_of_the_slimy",
@@ -124206,17 +106444,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Very Fast",
         "skill": "Courier's Dash",
-        "types": [
-            "Hit All",
-            "DoT All",
-            "Max Health Reduction on Defeat",
-            "Resist SS blocking All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "DoT Attackers",
-            "Max Health Reducers"
-        ],
         "source": "Wilderness Summon",
         "Release date": "2025-08-23",
         "specialId": "couriers_dash",
@@ -124285,16 +106512,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Very Fast",
         "skill": "Golden Cicada",
-        "types": [
-            "Boosted Heal All",
-            "Cleanse Latest Ailment All",
-            "Defense Buff All"
-        ],
-        "skill_types": [
-            "Health Boosters",
-            "Cleansers",
-            "Buffers (DEF)"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2024-04-02",
         "specialId": "golden_cicada",
@@ -124358,13 +106575,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Average",
         "skill": "Sunlord's Forbidden Flame",
-        "types": [
-            "Hit All",
-            "Heal Self",
-            "Taunt",
-            "Delayed Hit All"
-        ],
-        "skill_types": [],
         "source": "Covenant Summon",
         "Release date": "2026-05-16",
         "specialId": "sunlords_forbidden_flame",
@@ -124418,15 +106628,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Very Fast",
         "skill": "Power of Mjölnir",
-        "types": [
-            "Hit 1/3/All",
-            "Blind 1/3/All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2021-01-28",
         "specialId": "power_of_mjolnir",
@@ -124486,14 +106687,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Very Fast",
         "skill": "Energy of Mjölnir",
-        "types": [
-            "Hit All",
-            "Blind All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Debuffers (ATK)"
-        ],
         "source": "S3 - Valhalla",
         "Release date": "2022-12-19",
         "specialId": "energy_of_mjolnir",
@@ -124555,18 +106748,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Warcry of the Jungle",
-        "types": [
-            "Taunt",
-            "Self Boosted HoT",
-            "Delayed Hit All",
-            "Elemental Attack Buff Stack Self"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Health Boosters",
-            "Stacking Heroes",
-            "Taunters"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2023-05-06",
         "specialId": "warcry_of_the_jungle",
@@ -124633,17 +106814,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Fast",
         "skill": "Guiding Arrow",
-        "types": [
-            "Hit 3",
-            "Bypass Buffs 3",
-            "SS Increased Damage Buff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Extra Damage Dealers",
-            "Bypassers",
-            "Buffers (ATK)"
-        ],
         "source": "Monster Island Summon",
         "Release date": "2024-05-23",
         "specialId": "guiding_arrow",
@@ -124704,16 +106874,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Charge",
         "skill": "Lethal Needles",
-        "types": [
-            "Minion Destroyer 1/3/All",
-            "Hit 1/3/All",
-            "Mana Boost All on Minion kill"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Mana Raisers",
-            "Minions Counters"
-        ],
         "source": "Tower - Ninjas",
         "Release date": "2022-02-02",
         "specialId": "lethal_needles",
@@ -124781,12 +106941,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Gluttonous Chomp",
-        "types": [
-            "Hit 1",
-            "Mimic Chest",
-            "Normal Attack Buff All"
-        ],
-        "skill_types": [],
         "source": "Bazaar Summon",
         "Release date": "2026-04-08",
         "specialId": "gluttonous_chomp_yellow",
@@ -124868,19 +107022,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Average",
         "skill": "Strike of the Cobra",
-        "types": [
-            "Hit 1",
-            "Bypass Minions",
-            "DoT on minion owner",
-            "DoT on fiend owner"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Healers (Special)",
-            "Minions Counters",
-            "Minions Summoners",
-            "Snipers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-02-01",
         "specialId": "strike_of_the_cobra",
@@ -124946,20 +107087,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Average",
         "skill": "Ceremonial Katar",
-        "types": [
-            "Hit All",
-            "Hit Growth Boon",
-            "Mana Generation Debuff All",
-            "Buff Immunity All"
-        ],
-        "skill_types": [
-            "Minions Counters",
-            "Ability Scores Modifiers",
-            "Extra Damage Dealers",
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers",
-            "Buff Blockers"
-        ],
         "source": "Temple Summon",
         "Release date": "2025-11-17",
         "specialId": "ceremonial_katar",
@@ -125027,23 +107154,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Magic",
         "skill": "Pawns of Divinity",
-        "types": [
-            "Charge",
-            "HoT All",
-            "Attack Buff All",
-            "Cleanser All",
-            "Dispeller All",
-            "DoT All",
-            "Attack Debuff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Cleansers",
-            "Debuffers (ATK)",
-            "Dispellers",
-            "DoT Attackers",
-            "Heal over Time (HoT)"
-        ],
         "source": "Tower - Magic",
         "Release date": "2023-11-15",
         "specialId": "pawns_of_divinity",
@@ -125117,25 +107227,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Magic",
         "skill": "Crust of Divinity",
-        "types": [
-            "Charge",
-            "HoT All",
-            "Attack Buff All",
-            "Cleanser All",
-            "Dispeller All",
-            "DoT All",
-            "Attack Debuff All",
-            "Healing Debuff All"
-        ],
-        "skill_types": [
-            "Buffers (ATK)",
-            "Cleansers",
-            "Debuffers (ATK)",
-            "Dispellers",
-            "DoT Attackers",
-            "Heal over Time (HoT)",
-            "Healing Reducers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2025-08-20",
         "specialId": "crust_of_divinity",
@@ -125216,16 +107307,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Omniheal",
-        "types": [
-            "Healer All",
-            "Defense Buff All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Cleansers",
-            "Healers"
-        ],
         "source": "S1 - Classic",
         "Release date": "",
         "specialId": "omniheal",
@@ -125283,16 +107364,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Omnicure",
-        "types": [
-            "Healer All",
-            "Defense Debuff All",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Debuffers (DEF)",
-            "Dispellers",
-            "Healers"
-        ],
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "omnicure",
@@ -125352,16 +107423,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Slow",
         "skill": "Omnimend",
-        "types": [
-            "Boosted Heal All",
-            "Attack Debuff All",
-            "Dispeller All"
-        ],
-        "skill_types": [
-            "Debuffers (ATK)",
-            "Dispellers",
-            "Health Boosters"
-        ],
         "source": "Costume Quest",
         "Release date": "2022-09-05",
         "specialId": "omnimend",
@@ -125421,16 +107482,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Toon Heal",
-        "types": [
-            "Healer All",
-            "Defense Buff All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Cleansers",
-            "Healers"
-        ],
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "adorable_heal",
@@ -125494,19 +107545,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Glass Heal",
-        "types": [
-            "Healer All",
-            "Defense Buff All",
-            "Reflect Ailments for Holy Allies",
-            "Reflect Stacks for Holy Allies",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Cleansers",
-            "Healers",
-            "Reflectors"
-        ],
         "source": "Costume Quest",
         "Release date": "2024-12-25",
         "specialId": "glass_heal",
@@ -125572,16 +107610,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Slow",
         "skill": "Stylish Heal",
-        "types": [
-            "Healer All",
-            "Defense Buff All",
-            "Cleanser All"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Cleansers",
-            "Healers"
-        ],
         "source": "Costume Quest",
         "Release date": "2026-01-07",
         "specialId": "stylish_heal",
@@ -125645,15 +107673,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Very Fast",
         "skill": "Blood Illusion",
-        "types": [
-            "DoT All",
-            "Healing Steal All"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Healers (Special)",
-            "Healing Reducers"
-        ],
         "source": "Monthly Event - Morlovia",
         "Release date": "2024-09-23",
         "specialId": "blood_illusion",
@@ -125715,18 +107734,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Cup of Mead",
-        "types": [
-            "Healer",
-            "Boosted HoT All",
-            "Source of Buffs Random 1 every turn"
-        ],
-        "skill_types": [
-            "Healers",
-            "Health Boosters",
-            "Heal over Time (HoT)",
-            "Buffers (ATK)",
-            "Mana Generation Buffers"
-        ],
         "source": "Challenge - Beowulf",
         "Release date": "2024-11-25",
         "specialId": "cup_of_mead",
@@ -125797,18 +107804,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Gleaming Sword and Iron Mail",
-        "types": [
-            "Hit All",
-            "Drop to 1 Damage All",
-            "Source of Buffs Random 1"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Damage Reducers",
-            "Buffers (ATK)",
-            "Mana Generation Buffers",
-            "Bypassers"
-        ],
         "source": "Challenge - Beowulf",
         "Release date": "2025-12-06",
         "specialId": "gleaming_sword_and_iron_mail",
@@ -125879,14 +107874,6 @@ window.allHeroes =
         "class": "Cleric",
         "speed": "Fast",
         "skill": "Rabbit's Watch",
-        "types": [
-            "Hit 3",
-            "Defense Debuff 1"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)"
-        ],
         "source": "Challenge Festival I",
         "Release date": "",
         "specialId": "rabbits_watch",
@@ -125938,14 +107925,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Fast",
         "skill": "Cosmic Clock",
-        "types": [
-            "Hit 3",
-            "Defense Debuff 3"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "Debuffers (DEF)"
-        ],
         "source": "Challenge Festival I",
         "Release date": "2022-02-17",
         "specialId": "cosmic_clock",
@@ -126003,26 +107982,6 @@ window.allHeroes =
         "class": "Druid",
         "speed": "Magic",
         "skill": "Levitating Lunchbox Deluxe",
-        "types": [
-            "Charge",
-            "Hit All",
-            "Defense Buffs Dispeller",
-            "Defense Buffs Immunity All",
-            "Bypass All",
-            "Damage Reduction All",
-            "Counterattack All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buff Blockers",
-            "Bypassers",
-            "Counterattackers",
-            "Damage Reducers",
-            "Dispellers",
-            "Stacking Heroes",
-            "Mana Reducers or Blockers",
-            "Healers"
-        ],
         "source": "Tower - Magic",
         "Release date": "2023-05-03",
         "specialId": "levitating_lunchbox_deluxe",
@@ -126099,17 +108058,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Ursine Protection",
-        "types": [
-            "Cleanser All",
-            "Health Boost All",
-            "Defense Buff if caster has boosted health"
-        ],
-        "skill_types": [
-            "Buffers (DEF)",
-            "Cleansers",
-            "Health Boosters",
-            "Immunity Providers"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2024-01-10",
         "specialId": "ursine_protection",
@@ -126175,17 +108123,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Average",
         "skill": "Commander's Gauntlet",
-        "types": [
-            "Hit All",
-            "Damage Reduction Self",
-            "Boosted HoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Heal over Time (HoT)",
-            "Damage Reducers",
-            "Health Boosters"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "specialId": "commanders_gauntlet",
@@ -126240,17 +108177,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Average",
         "skill": "Gold Gauntlet",
-        "types": [
-            "Hit All",
-            "Damage reduction Self",
-            "Boosted HoT All"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Damage Reducers",
-            "Health Boosters",
-            "Heal over Time (HoT)"
-        ],
         "source": "Alliance - Knights Clash",
         "Release date": "2024-12-17",
         "specialId": "gold_gauntlet",
@@ -126313,19 +108239,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Clever Stratagem",
-        "types": [
-            "Chance for Critical hit",
-            "Hit 1",
-            "Steal Mana 1",
-            "Critical Chance Buff All"
-        ],
-        "skill_types": [
-            "Extra Damage Dealers",
-            "Snipers",
-            "Chain & Random Attackers",
-            "Mana Reducers or Blockers",
-            "Buffers (ATK)"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2025-10-28",
         "specialId": "clever_stratagem",
@@ -126397,17 +108310,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Eldritch Sign Bolts",
-        "types": [
-            "Buff Steal All to Self",
-            "Hit All",
-            "Insanity All",
-            "Insanity Self"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buff Stealers",
-            "Negative Effects On Self Or Allies"
-        ],
         "source": "Shadow Summon",
         "Release date": "2025-01-09",
         "specialId": "eldritch_sign_bolts",
@@ -126466,17 +108368,6 @@ window.allHeroes =
         "class": "Rogue",
         "speed": "Average",
         "skill": "Cascading Whirlwind",
-        "types": [
-            "Hit 1,3 or All",
-            "Mana Reducer on hit"
-        ],
-        "skill_types": [
-            "Snipers",
-            "AoE Attackers (Hit-3)",
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers",
-            "Extra Damage Dealers"
-        ],
         "source": "Super Elementals",
         "Release date": "2023-07-17",
         "specialId": "cascading_whirlwind",
@@ -126539,17 +108430,6 @@ window.allHeroes =
         "class": "Ranger",
         "speed": "Average",
         "skill": "Overflowing Whirlwind",
-        "types": [
-            "Hit 1,3 or All",
-            "Mana Reducer All"
-        ],
-        "skill_types": [
-            "Snipers",
-            "AoE Attackers (Hit-3)",
-            "AoE Attackers (Hit-5)",
-            "Mana Reducers or Blockers",
-            "Extra Damage Dealers"
-        ],
         "source": "Super Elementals",
         "Release date": "2026-03-17",
         "specialId": "overvlowing_whirlwind",
@@ -126618,15 +108498,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Very Slow",
         "skill": "Unwavering Devotion",
-        "types": [
-            "Hit All",
-            "Reviver"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Revivers",
-            "Extra Damage Dealers"
-        ],
         "source": "Super Elementals",
         "Release date": "2022-10-10",
         "specialId": "unwavering_devotion",
@@ -126689,15 +108560,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Very Slow",
         "skill": "Cosmic Devotion",
-        "types": [
-            "Hit All",
-            "Reviver"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Revivers",
-            "Extra Damage Dealers"
-        ],
         "source": "Super Elementals",
         "Release date": "2025-11-10",
         "specialId": "cosmic_devotion",
@@ -126767,19 +108629,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Fast",
         "skill": "Soaring Blast",
-        "types": [
-            "Bypass",
-            "Hit 1",
-            "Boosted Heal All"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Bypassers",
-            "Healers (Special)",
-            "Health Boosters",
-            "Minions Counters",
-            "Status Effect Conversion"
-        ],
         "source": "Tower - Magic",
         "Release date": "2025-05-29",
         "specialId": "soaring_blast",
@@ -126849,16 +108698,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Swift Stingers",
-        "types": [
-            "Hit 1",
-            "Hit Random 1",
-            "Defense Debuff 1"
-        ],
-        "skill_types": [
-            "Chain & Random Attackers",
-            "Debuffers (DEF)",
-            "Extra Damage Dealers"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2021-12-02",
         "specialId": "swift_stingers",
@@ -126921,17 +108760,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Sharp Stingers",
-        "types": [
-            "Hit 1",
-            "Hit Random 1",
-            "Defense Debuff 1"
-        ],
-        "skill_types": [
-            "Snipers",
-            "Chain & Random Attackers",
-            "Extra Damage Dealers",
-            "Debuffers (DEF)"
-        ],
         "source": "S4 - Wilderness",
         "Release date": "2024-06-20",
         "specialId": "sharp_stingers",
@@ -126999,18 +108827,6 @@ window.allHeroes =
         "class": "Wizard",
         "speed": "Slow",
         "skill": "Ice Cream Smash",
-        "types": [
-            "Hit 3",
-            "Damage on Ailment Received 3",
-            "Status Ailments Immunity 3",
-            "Heal on attempted ailment"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-3)",
-            "DoT Attackers",
-            "Immunity Providers",
-            "Healers (Special)"
-        ],
         "source": "Monthly Event - Beach Party",
         "Release date": "2024-06-03",
         "specialId": "ice_cream_smash",
@@ -127074,14 +108890,6 @@ window.allHeroes =
         "class": "Fighter",
         "speed": "Fast",
         "skill": "Viper Blade",
-        "types": [
-            "Hit 1",
-            "Defense Debuff Reflect All"
-        ],
-        "skill_types": [
-            "Reflectors",
-            "Snipers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "viper_blade",
@@ -127133,16 +108941,6 @@ window.allHeroes =
         "class": "Barbarian",
         "speed": "Fast",
         "skill": "Bear Blade",
-        "types": [
-            "Hit 1",
-            "DoT 1",
-            "Defense Debuff Reflect All"
-        ],
-        "skill_types": [
-            "DoT Attackers",
-            "Reflectors",
-            "Snipers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2024-10-29",
         "specialId": "viper_blade_costume_bear_slayer",
@@ -127210,16 +109008,6 @@ window.allHeroes =
         "class": "Sorcerer",
         "speed": "Slow",
         "skill": "Martial Masterstroke",
-        "types": [
-            "Counterattack Minion Summoner All",
-            "Fiend Summoner All"
-        ],
-        "skill_types": [
-            "Counterattackers",
-            "Fiends Summoners",
-            "Minions Summoners",
-            "DoT Attackers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "martial_masterstroke",
@@ -127274,16 +109062,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Slow",
         "skill": "Triumph of Strategy",
-        "types": [
-            "Counterattack Minion Summoner All",
-            "Fiend Summoner All"
-        ],
-        "skill_types": [
-            "Minions Summoners",
-            "Counterattackers",
-            "Fiends Summoners",
-            "DoT Attackers"
-        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2024-05-28",
         "specialId": "triumph_of_strategy",
@@ -127347,16 +109125,6 @@ window.allHeroes =
         "class": "Monk",
         "speed": "Average",
         "skill": "Solar Shroud",
-        "types": [
-            "Healer All",
-            "Damage Reduction All",
-            "Power Boost 4"
-        ],
-        "skill_types": [
-            "Healers",
-            "Damage Reducers",
-            "Buffers (ATK)"
-        ],
         "source": "Astral Summon",
         "Release date": "2026-03-07",
         "specialId": "solar_shroud",
@@ -127417,16 +109185,6 @@ window.allHeroes =
         "class": "Paladin",
         "speed": "Slow",
         "skill": "Dawnlight Rally",
-        "types": [
-            "Hit All",
-            "Cleanser",
-            "Attack Buff All per ailment removed"
-        ],
-        "skill_types": [
-            "AoE Attackers (Hit-5)",
-            "Buffers (ATK)",
-            "Cleansers"
-        ],
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-01-01",
         "specialId": "dawnlight_rally",
